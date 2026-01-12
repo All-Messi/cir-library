@@ -1,0 +1,136 @@
+---
+author: Virgil Warren, PhD
+categories:
+- CHRISTIAN DOCTRINE 1
+- DISPESNATIONS
+date: '2026-01-11'
+draft: false
+title: THE DISTINCTION BETWEEN COVENANTS AND SOME
+weight: 30
+---
+
+THE DISTINCTION BETWEEN COVENANTS AND SOME
+
+RELEVANT APPLICATIONS: A SKETCH
+
+Central thesis
+
+The Old Covenant was a different covenant from the New Covenant, was a different kind of covenant, and was preparatory for the new. The Old Covenant was legal while the New Covenant is interpersonal.
+
+The former (L) was added to promise (IP) for a time to define and sensitize to sin till Christ (IP) would come for universal, permanent operation leading to (perhaps conceivable millennial “kingdom” before) the eternal state.
+
+A map of salvation history starts with concrete operational (garden), followed by rules and regulations (law), leading to principled operation (gospel). The literature of the covenants corresponds with and expresses the nature of the covenants themselves.
+
+II.	Preliminary distinctions
+
+A.	A covenant has to do with what persons do. It is not concerned directly with the nature of things (except, of course, insofar as nature enables doing) and history (records of past action) and prediction (promises about future action).   [personal action]
+
+B.	The code-content distinction notes that different codes have many of the same elements of content. Having shared elements does not mean being the same code, and it does not mean that the people involved are under both codes. They are under only the one that has “jurisdiction” over them.  [what personal actions]
+
+C.	Covenants may differ as to kind of content and operation. An interpersonal “covenant” has just as much in it, yea more, than can realistically be codified in a legal one. Laws have difficulty addressing inner factors like motive and attitude, genuine repentance.
+
+D.	The legal-interpersonal distinction brings in the difference between a legal content driven by authority and force and an interpersonal content driven by influence. That distinction leads to a difference in hermeneutical and theological method.  [interpersonal action]
+
+E.	Finally, there is the specification-spirit distinction, which involves understanding the spirit of the specifics that is necessary for generalization to unaddressed issues especially across cultures (cultural diversity) and over time (cultural drift).  [adequate interpersonal action]
+
+III.	Approaches to the Covenant(s) issue
+
+A.	In the Sermon on the Mount, Jesus guards against a conceivable misperception when he says he did not come to destroy the law (Matthew 5:17). His concern was with contemporary misapplications of Mosaic provisions as well as with filling out more the inner attitudes and motives that needed to be drawn out from legal enactments, which tend to address overt, observable, actionable behavior.
+
+Some earlier gnostic-like thinkers were inclined to trash the Old Testament in light of (what they wanted to make of) the New.
+
+B.	Two separate covenants could have the twist that there are two peoples of God—Jews and Christians. But they comprise one fold (John 10:16; Ephesians 4:4). Two covenants could even be over an unrelated set of constituency (constitution for America and Canada). Spiritualizing the Old Testament in terms of the New Testament was another attempt to account for two covenants. Finally, the two covenants could be for two successive systems. All three possibilities share the fault that both can be of the same kind—legal particularly.
+
+C.	As with the previous entry, the amendment approach does not remove the “second” from the legal category the first is in. It also means that everything in the original not specifically amended out is still binding. Something of an effort to overcome this difficulty lies in seeing corresponding aspects of the new as alterations of the old. Baptism comes in the “room” of circumcision, the Lord’s Supper replaces the Passover feast, the sacrifice of Christ replaces the paschal lamb, Sabbath gets moved to Sunday, and so on.
+
+There must have been some rationale for the specifics that were explicitly dropped either by perception of the apostolic writers themselves or by God’s expressed revelation to the apostles; hence, the next entry.
+
+D.	During the time of the Mosaic Covenant, Jeremiah prophesied that God would make a new covenant (different) that was not like the previous one (different kind). To be in the covenant, a person had to know God (interpersonal) and have his law written on the heart (Jeremiah 31:31-34 > Hebrews 8:6-13). It is not, then, a matter of replacing one set of realities with better realities, but of seeing shadows and figures of later realities.
+
+The difficulty was not so much with the law’s content as such. It was not false but inadequate. It could not actually remove an infraction of its own directives: The law was perfect, but it could not make perfect: we are sold under sin (Romans 7:12-15). Repentance has no value under law.
+
+From Habakkuk 2:4 came Paul’s burst of illumination that “having life” had to be based on trust/faith in the offended to forgive, because “nobody’s perfect.” Righteousness in theory could come from “continuing to do all” (Deuteronomy 27:26, Galatians 3:10), so God would “owe it” to a person to regard him as righteous because he was (Romans 4:4). Perfectionism is the only provision law—Moses’ law or any law—can provide.  Consequently, another basis for relationship to God must be found. Paul’s code word for that basis is “faith,” an interpersonal term.
+
+E.	Moving to an interpersonal basis for being viewed as righteous—identity with the Righteous One is really a return to basics that preceded law. That is Paul’s point in Galatians 3:19 by emphasizing the word “promise,” another interpersonal term. The law succeeded promise by 430 years and did not annul promise, which preceded it. Law and promise are parallel kinds of things: “if it is by law, it is not by promise” (Galatians 3:18).
+
+In salvation history the law was a temporary add-on to define and sensitize to sin (Romans 5:20; Galatians 3:19), to get people ready for Christ (Galatians 3:24-25). When the school master is here, we cease to be under a “tutor.” When something perfect comes, in-part things disappear (1 Corinthians 13: 9).
+
+IV.	Major issues impacted by the interpersonal character of the New Covenant
+
+A. Those who function under the New Covenant prioritize influence (IP) over authority (law) and force (nature) and form (metaphysics).
+
+B.	The Christian system implies an interpersonal hermeneutical and theological method for reading and applying the relevant canonical literature. That method stands in contrast to legal and hypostatic reading of texts.
+
+The confidence is that all people are persons and therefore are capable of understanding and applying the implications of the central concerns of the New Covenant.  It involves a realistic, simple “theology from below.”*
+
+C.	The nature of the Christian Covenant with God has implication for the relationship of Christians to the state.  [church to the outside]
+
+1.	The state has a restrictive role whereas religion has a positive role within the whole social process. The divine intent for human government is not to “bear the sword in vain” (Romans 13:1-7); hence, legitimized operation by authority and force.
+
+2.	Interpersonal commitment to Christ takes precedence over political requirement (Acts 4:19; 5:29).
+
+3.	Those in personal relationship to God through Christ are free to participate in the political and national process as long as the expectancies and responsibilities of the state do not conflict with commitment to God. In contrast, a “one-kingdom” approach calls for participation in the spiritual kingdom only and obedience to human law only for expediency. But that is not necessary, because the role of human government per se is divinely appointed and approved. Christians can be members of any set as long as its demands do not conflict with the higher order (two kingdom approach).
+
+Those personally committed to Christ can provisionally hold office in the political process, be members of the police system, and participate in “just war” (non-aggression).
+
+4.	Since Christians participate in an interpersonal system, they should not expect or aspire to accomplish the purpose of Christ through the mechanisms of the state. Liberation theology is foreign to the character of Christian system. Christians operating in the state to restrict unfairness by authority and force do so as members of the state rather than as members of the church.
+
+5.	There can be no such thing as the union of church and state. Since the New Covenant has no legitimizing commission beyond an interpersonal purpose, the authority and force of state operation as directed at the whole of society cannot be employed.
+
+D.	The nature of the Christian covenant with God has implications for the relationship of Christians to culture. [church to the outside]
+
+1.	The body of Christ as the continuation of Christ’s influence in the world means that the church has a prophetic role in relation to culture. The people of God serve to provide critique of the culture and the dominant perspectives of the social environment. It stands above culture to call it individual by individual to a lifestyle more in conformity with God’s intentions and ultimate purpose for humankind. As such, the function of the faith contrasts with the role of reinforcing societal norms (a sociological definition of religion).
+
+2.	The prophetic role under Christ in turn eliminates restructuring the content of the faith to fit the culture.
+
+3.	Prioritizing personal relationship to Christ likewise eliminates operating alternatively in two parallel systems, one at home in private and another in the public marketplace as dictated by society or the state. When expectancies are in conflict, the person operates by the One he loves the most (Matthew 6:24; Acts 4:19). Thus comes civil disobedience.
+
+4.	The interpersonal nature of the Covenant eliminates stratification of social relations at least in attitude, because personhood is common to all persons regardless of economic level, caste category, sex, race, nationality, societal level.  Interpersonal love is the great equalizer of people and the manner of relating among them. Unity in diversity can be, because personhood exists across irrelevant differences. The Covenant is inclusive of all types of people who agree to relate to God on his terms.
+
+E.	The method and means of kingdom extension come wholly from influence without appeal to authority and force.  [church to the outside]
+
+1.	The Great Commission characterizes the Christian enterprise in the world as an educational process. Eliminated, then, is extension by military means and authoritative requirement. For Christians operating toward the outside, what cannot be done by persuasion cannot be done—neither by threat, pressure, manipulation, shunning or any other anti-interpersonal means.
+
+2.	The social character of the New Covenant means that Covenant processes are person on person vs. category on category, group on group. In consequence, New Covenanters do not stereotype or act accordingly.  [church to the outside]
+
+3.	The church is not to be denominated into parallel and competing parts.  Its very purpose is to create oneness in the world (Ephesians 2:11-22).
+
+F.	Proclamation of the gospel is in terms of personal relationship, which makes it automatically understandable and relevant to all hearers. It can be demonstrated as well as said, so that is sensed as well as understood.  [church to the outside]
+
+G.	The apologetic for the faith is at one with the interpersonal circumstance of its proclamation. “Try it, you’ll like it” comes on top of “Doesn’t this sound good?”
+
+H.	Interpersonal hermeneutics in the context of state and culture leads to the possibility of implied cultural limitation on certain New Testament directives that seem culturally informed rather than inherently necessary given the revealed nature of mankind and God’s purpose for him.
+
+This possibility has given rise to discussion points in the modern church: arranged marriages, braided hair, hair length, veil wearing and other measures of modesty, table fellowship (Gentiles, Samaritans, unbelievers); forms of deference behavior of wives toward husbands, children toward parents, Christians toward rulers. Are some of these matters rooted in human perception or divine intent?
+
+Law is static in regard to items it addresses. So matters of dress and diet would remain unchanged over time and across cultures. But we know dietary laws were repealed (Mark 7:19), and the church as such evidently has no custom of veil-wearing (1 Corinthians 11:10). So what was the rationale for their removal? The answer seems to be that they and items like them have no necessary basis in interpersonal relationships. That is relevant because the covenant itself is interpersonal.
+
+I.	An interpersonal covenant establishes the manner of Christian life and worship.  [within the church]
+
+1.	The non-quantification of Christian observance
+
+How often do we fast (twice a week?), how many times do we forgive (seven times in a day?), how frequently do we pray (three times a day?), how much do we give (a tithe of all we possess?), is there a festival cycle to observe (Sabbath-keeping, new moons, etc.)? None of the observances are quantified in the New Covenant literature, and there is no mechanism for adding to the word of God as by amendment.
+
+2.	Christian living is done to a Person, not to a rule abstracted from the Person who established the expectancy. It is loving him that leads to doing his will and living out his values.
+
+3.	Christian living is according to what is true rather than what is legal in the world outside the Covenant.
+
+J.	The interpersonal context in the Covenant naturally minimizes or even eliminates ceremonial observances. Baptism and the Lord’s Supper most easily lend themselves to ritual performances. However, they are to be done as performative acts by which one person says something to Another.  [within the church]
+
+K.	The interpersonal nature of the covenant has implications for leadership.  [within the church]
+
+1.	It tends toward minimizing organizational structure as “authority flow.” The church does as much as possible within itself by influence before appealing to duly appointed authority (elders), remembering that the church is a voluntary society.
+
+2.	That minimized organizational structure tends in turn toward local leadership under, and limited to, the concerns and teaching of the Word. The Word serves as the functional equivalent and perpetuation of the apostles, the only general authority the New Testament witnesses besides that of the Lord himself. The New Testament was written by apostles and those who served as extensions of the apostolic office; hence, apostolicity as the primary New Testament canonical principle.
+
+3.	The theory of leadership is that of responsibility reinforced by authority as needed. It is something that a person is called to rather than what he competes to seize. The operation, again, is that of influence before authority and never by compulsion. Leadership in the interpersonal “kingdom” does not bypass the personhood of the ones led.
+
+4.	What can be done by influence can be done by any person—man, woman, young, or old.
+
+K.	Worship is I-Thou. The general guidelines are decency and order (1 Corinthians 14:10), what is appropriate and under control. Worship is the voluntary self-expression by a person to God as a present superior second person. Whatever can be done under this limitation a person has freedom to do. Worship gets its character from the interpersonal nature of the setting where it takes place.
+
+[within the church]
+
+In short, virtually everything we can identify as weaknesses of the church ancient and modern involves some kind of deficiency in the application of the interpersonal character of the New Covenant.
+
+christir.org

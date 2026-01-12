@@ -1,0 +1,39 @@
+{{ define "main" }}
+<div class="translation-home">
+    <nav class="breadcrumb">
+        <a href="/translations/">← All Translations</a>
+    </nav>
+
+    <header class="page-header">
+        <h1>{{ .Title }}</h1>
+        <p class="translator-credit">Translated by {{ .Params.translator }}</p>
+    </header>
+
+    <div class="intro-content">
+        {{ .Content }}
+    </div>
+
+    <!-- Read Now Button -->
+    {{ $firstBook := index (.Sections.ByWeight) 0 }}
+    {{ if $firstBook }}
+    <div class="read-now-section">
+        <a href="{{ $firstBook.RelPermalink }}chapter-01/" class="btn-primary btn-large">📖 Read Now</a>
+        <p class="read-now-note">Start reading from {{ $firstBook.Title }}</p>
+    </div>
+    {{ end }}
+
+    <h2 class="section-heading">Browse Books</h2>
+
+    <div class="books-grid">
+        {{ range .Sections.ByWeight }}
+        <div class="book-card">
+            <h3><a href="{{ .RelPermalink }}">{{ .Params.book }}</a></h3>
+            <div class="book-meta">
+                <span class="book-chapters">{{ .Params.chapters }} chapters</span>
+            </div>
+            <a href="{{ .RelPermalink }}chapter-01/" class="btn-start">Start Reading →</a>
+        </div>
+        {{ end }}
+    </div>
+</div>
+{{ end }}

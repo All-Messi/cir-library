@@ -1,0 +1,26 @@
+---
+book: 1 Corinthians
+chapter: 14
+next: chapter-15
+prev: chapter-13
+title: 1 Corinthians 14
+translation: WNT
+type: chapter
+weight: 14
+---
+
+## 1 Corinthians Chapter 14
+
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Pursue [the] love, and earnestly-desire [the] spiritual (gifts), but specifically in-order-that you-may-be-prophesying. 2Ffor the-one speaking in (a) language is┘not└speaking to-men but to-God, because nobody is-understanding; but by-(the)-Spirit he-speaks mysteries. 3But the-one prophesying speaks to-men edification and exhortation and consolation. 4The-one speaking in-(a)-language builds┘himself└up, but the-one prophesying builds┘(the) church└up. 5Now I-am-willing for you all to-speak in-languages, but specifically in-order-that you-may-be-prophesying. And the-one prophesying (is) greater than the-one speaking in-languages unless3 he-translates in-order-that the church may-receive edification.</span>
+
+<span class="verse" id="v6"><sup class="verse-num">6</sup> But now, brothers, if I come to you speaking in languages, what will I profit you unless2 I-speak to-you either with revelation or with knowledge or with prophecy or [with]ms teaching? 7Even [the] lifeless things giving sound—whether (a) flute, whether (a) harp—if they do┘not└give (a) distinction in-[the] tones, how will the-thing played-on-the flute or the-thing played-on-the harp be-known? 8For also if (a) bugle gives (an) indistinct sound, who will-prepare himself for battle? 9So also you by the/a language, unless2 you give clear speech, how will┘the-thing spoken└be-known? For you-will-be speaking into (the) air. 10Perhaps2 there-are (a) great-many kinds of-sounds in (the) world, and none (is) meaningless. 11So if I-do┘not└know the meaning of-the sound, I-will-be to-the-one speaking (a) foreigner, and the-one speaking in me (will be a) foreigner. 12So also you, since you-are zealots of-spiritual (gifts), seek for the edification of-the church in-order-that you-may-abound. 13Wherefore let┘the-one speaking in-(a)-language└pray that he-may-translate. 14[For]ms if I-pray in-(a)-language the spirit of-me prays, but the mind of-me is unfruitful.</span>
+
+<span class="verse" id="v15"><sup class="verse-num">15</sup> What then is-it? I-will-pray with-the Spirit, and I-will┘also└pray with-the mind; I-will-sing with-the Spirit, and I-will┘also└sing with-the mind. 16Otherwise if you-bless with-(the)-spirit, how will┘the-one filling the place of-the ungifted└say [the] "Amen" over [the] your thanksgiving? Because what you-are-saying he-does┘not└understand. 17For you are-giving-thanks well, but the other is┘not└being-edified. 18I-thank [the] God, I-speak in-languages more than you all, 19but in church I-want to-speak five words with-[the] mind of-me, in-order-that I-may-instruct others too rather-than ten-thousand words in-(a)-language.</span>
+
+<span class="verse" id="v20"><sup class="verse-num">20</sup> Brothers, do┘not└be children in-the/your thinking, but in-respect-to-[the] evil be-children, and in-the/your minds be mature. 21In the Law it-has-been-written [that],</span>
+
+<span class="verse" id="v22"><sup class="verse-num">22</sup> So [the] languages are [for (a) sign, not to-[the] believers, but to-[the] unbelievers, but [the] prophecy (is) not for-[the] unbelievers, but for-[the] believers. 23If then the whole church comes together3, and all are-speaking in languages, and ungifted-ones or unbelieving-ones come-in, will-they┘not└say that you-are crazy? 24But if all are-prophesying and (a) certain unbelieving-one or ungifted-one comes-in, he-will-be-convicted by all; he-will-be-called-to-account by all. 25The hidden-things of-the heart of-him become manifest, and so, having-fallen on (his) face, he-will-worship [the] God, declaring [that], "Surely [the] God is among you."</span>
+
+<span class="verse" id="v26"><sup class="verse-num">26</sup> What is-it then, brothers? When you-assemble, each has (a) psalm, has (a) teaching, has (a) revelation, has (a) language, has (a) translation. Let┘all-things└be to edification. 27If anybody is-speaking in-(a)-language, (let it be) by two or [the] at-the most three and in turn; and let┘one└translate. 28And if there-is not (a) translator, let-him-be-silent. 31For you are-able one-at-(a)-time to-prophesy, in-order-that all may-learn and all may-be-encouraged. 32And (the) spirits of-(the)-prophets are-subject to-(the)-prophets, 33for [the] God is not (a God) of-confusion, but of-peace. As in all the churches of-the saints, 34let┘└the women be-quiet in the church-services. Speaking is┘not└permitted to-them, but let-them-be-in deference, even-as the Law also says. 35And if they-want to-learn-about something, let-them-ask their husbands at home. For it-is embarrassing for (a) woman to-speak in church. 36Or did┘the word of-[the] God└go-out from you, or did-it-come to you only?</span>
+
+<span class="verse" id="v37"><sup class="verse-num">37</sup> If anybody considers (himself a) prophet or spiritual, let-him-know that what I-am-writing to-you is (a) commandment of-(the) Lord. 38But if anybody does-not-recognize (this), he-is-not-recognized. 39So, [my]ms brothers, earnestly-desire [the] to-prophesy and do┘not└prevent [the] speaking in-languages. 40But let┘all-things└be (done) properly and according-to order.</span>

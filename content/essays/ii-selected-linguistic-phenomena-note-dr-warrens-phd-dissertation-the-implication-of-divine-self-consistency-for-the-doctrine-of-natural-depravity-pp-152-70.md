@@ -1,0 +1,436 @@
+---
+author: "II. \tSELECTED LINGUISTIC PHENOMENA (Note Dr. Warren’s Ph.D. dissertation\
+  \ The Implication of Divine Self-Consistency for the Doctrine of Natural Depravity,\
+  \ pp. 152-70.)"
+categories:
+- INTERPRETATION
+- INTERPRETATION--GETTING THE POINT book
+date: '2026-01-11'
+draft: false
+title: "II. \tSELECTED LINGUISTIC PHENOMENA (Note Dr. Warren’s Ph.D. dissertation\
+  \ The Implication of Divine Self-Consistency for the Doctrine of Natural Depravity,\
+  \ pp. 152-70.)"
+weight: 10
+---
+
+II. 	SELECTED LINGUISTIC PHENOMENA (Note Dr. Warren’s Ph.D. dissertation The Implication of Divine Self-Consistency for the Doctrine of Natural Depravity, pp. 152-70.)
+
+A.	Streamlining Causal Distinctions
+
+Streamlining causal distinctions is a shorthand way of speaking about causal relationships. It occurs especially when the exact manner of connection is unimportant for present purposes. It can create ambiguity because the (1) mode of causality and (2) the directness of causation get blurred. All languages streamline causality and interchange modality, but Hebrew does so more than English and other modern languages do in cultures impacted by scientific precision. Much of the “God talk” in scripture comes to mean something different when English speakers use it; they bring the verbiage into their language without adjusting its import. By allowing variation within the mode, Semitic thought tends to be general and holistic in the following ways:
+
+a.	It conflates permission and prescription.
+
+b.	It conflates cause and effect (purpose and result).
+
+c.	It compresses direct and indirect.
+
+d.	It does not distinguish degree and absoluteness.
+
+e.	It slides over restrictive and non-restrictive.
+
+f.	It mixes primary and confirmatory evidence.
+
+g.	It equates being, action, and relationship.
+
+h.	It mixes process and effect (note “effective proleptic statements”).
+
+i.	It blurs natural and supernatural.
+
+j.	It transcends logical and chronological order.
+
+k.	It fuses neutral and negative.
+
+l.	It speaks in terms of the ultimate frame of reference.
+
+m.	It speaks of people doing what they sympathize with (1 Kings 21:19: Ahab killed Naboth, even though his wife was the one who had him killed.)
+
+Some important subjects affected by this phenomenon
+
+a.	Predestination, whether permissive or prescriptive, class or individual.
+
+b.	Healing, whether miraculous, providential, or natural
+
+c.	Spiritual gifts, whether supernatural deposits, developed skills, or inborn
+
+talents
+
+d.	The expressions baptism in the Spirit and gift of the Spirit, whether
+
+involving natural or supernatural manifestation
+
+e.	Love vs. hate, positive vs. less positive, positive vs. neutral, or positive
+
+vs. negative
+
+f.	Human freedom of the will
+
+g.	Divine sovereignty
+
+h.	The place of human response in salvation
+
+The best places to see how such linguistic phenomena operate are places that deal with items twice—places, for instance, that record the event and later describe it as well. Cases where such doubling happens include the following:
+
+(1) The crossing of the Red Sea and Moses’ Song of Triumph
+
+(2) The musings of the prodigal son in the far country and the words of the father to the elder brother after the prodigal’s return
+
+(3) The introduction to Job (1-2) and its conclusion (42)
+
+(4) The events of Judges 4 and The Song of Deborah in Judges 5
+
+(5) Jonah in the belly of the big fish and the surrounding narrative.
+
+1. Prescriptive-Permissive
+
+What God allows he is said to do. Semitic idiom credits God with doing what he allows, commands, and motivates. Prescriptive means that God initiates the activity; permissive means that he allows what secondary agencies initiate, whether natural or personal. In any case, God supplies the decisive factor as to whether something happens, because he is creator, omnipotent, and omniscient. Since God originated natural law to operate blindly, any occurrence he does not prevent represents his permissive will. Since he does not intervene between a personal choice and its active fulfillment, the occurrence is his permissive will. Inbuilt laws of nature and supernatural intervention correlate with permissive and prescriptive.
+
+The difference between required and allowed is comparable to the different meanings for the English expression “it is biblical.” It can mean fits with the Bible (although it goes beyond it) or is required by the Bible. The difference between immediate and ultimate frames of reference appears sparingly in English, but occasionally expressions are used like “act of God” in reference to hurricanes or floods. The point is not that God directly, purposefully caused them, but that such catastrophes lie beyond anyone’s control; so they are under God’s control only. Similarly, the Bible uses expressions like “Wait on the Lord,” “Turn it over to God,” meaning something as loose as “Don’t force things.”
+
+**Genesis 42:28: “What is this that God has done to us?” The previous narrative explains that Joseph had the money planted in his brothers’ sacks. Joseph told his brothers later that God had put their treasure in their sacks even though “I had your money” (Genesis 43:23).
+
+Joseph told his brothers that God had put their treasure in their sacks even though “I had your money” (Genesis 43:23).
+
+**Genesis 45:5, 7, 8: Joseph says, “God brought me here.” The accompanying record shows that his brothers sold him to the Midianites, who took him to Egypt and sold him as a slave.
+
+**Later after Jacob his father died, Joseph says of his brothers’ selling him into slavery that “God meant it for good” (Genesis 50:20). “God meant it for good” could mean something as light as “God took it from there and made something good out of it” or even “It turned out okay.”
+
+**Exodus 18:23: Jethro’s statement to Moses about a better judging system was Jethro’s idea; nevertheless, he says, “If God commands you.”
+
+**Deuteronomy 13:1-3: “God is testing you when a false prophet says, ‘Let’s serve other gods.’”
+
+**God raised up a new generation of Israelites to replace the one that fell in the wilderness (Joshua 5:7).
+
+**The Canaanites remaining among the people of Israel. On the one hand, God commanded the Israelites to exterminate the Canaanites because otherwise they would be “thorns in your eyes and scourges for your sides” (Joshua 23:13; Numbers 33:55). On the other hand, God left the Canaanites among the Israelites to test whether the Israelites would be faithful to him (Judges 2:20-3:6). God earlier commanded the annihilation of those whom he is now said to have left. Similarly, Judges 3:1-2 says that the Lord left the Canaanite tribes in the land to teach war to the present generation of Israelites and to test Israel to see whether they would remain faithful to him anyway (3:4). Obviously, this is a post facto statement (cp. John 9:1-7).
+
+**Judges 3:12: Yahveh strengthened Eglon to bring him against the
+
+Israelites.
+
+**Judges 14:4: Samson’s parents did not know that [Samson’s interest in Delilah] was from the Lord. (cp. Proverbs 19:14.)
+
+**Naomi tells Ruth (Ruth 1:13) that the hand of the Lord was against her; later she says that she went out full, and Yahveh brought her back empty, and that Yahveh had dealt with her bitterly.
+
+**2 Samuel 12:11-12 says that God will take your wives before your eyes and give them to your neighbor.
+
+**In 2 Samuel 16:5-14 David says that Yahveh bade Shimei to curse David (16:10) yet goes on to say that the Lord may look on the wrong done to David and requite him for Shimei’s cursing him (16:12)! (Could the first part be sarcasm?)
+
+**2 Samuel 24:1 says that God moved David to number the people, while
+
+1 Chronicles 21:1 says that Satan provoked him to do it.
+
+**1 Kings 12:15: Jeroboam’s rebellion was of the Lord (cp. Deuteronomy
+
+2:30; Joshua 11:2.
+
+God hardened the hearts of the inhabitants of Gibeon (Joshua 11:20; cp. other hardenings).
+
+**In 1 Kings 19:18 God tells Elijah he will reserve to himself 7,000 who will not bow the knee to Baal.
+
+**1 Kings 21:19: Ahab is said to have killed Naboth even though he only let
+
+Jezebel do it (cp. under “Identification”).
+
+**God brings evil on people: 1 Kings 21:21, 29; 2 Kings 6:33; 21:12; 22:16
+
+**Job 1:12: “Stretch out your hand and strike him, and he will curse you to your face.” So Satan goes and does it, yet notice 42:11, “. . . all the evil that God brought on him” (cp. 2:3b).
+
+**Psalm 34:2ff.: David praises the Lord for delivering him from the Philistines, whereas we know from 1 Samuel 21:12-15 that David played insane to escape from them.
+
+**Proverbs 19:14: “A prudent wife is from the Lord.” (cp. Jude 4)
+
+**The model prayer asks God not to lead us into temptation (Matthew 6:13).
+
+**Matthew 16:18: “I will build my church on that rock”; yet he gave the apostles the Great Commission and Paul speaks of building on the foundation of Christ (1 Corinthians 3:10-15).
+
+**In Matthew 19:11 Jesus responds to Peter’s suggestion (“Isn’t it better to stay single”) by saying, “Only those can receive this saying that it is given to.” The application is to natural and castrated eunuchs as well as to those who have made themselves eunuchs for the kingdom’s sake. The level of sex drive is surely in some part hereditary or chemical.
+
+**In the Parable of the Prodigal Son, the father says of the younger brother that he was “found,” as if the father—or someone—had taken the initiative to bring him back from the far country; but earlier in the story the son is pictured as “coming to himself” and taking the initiative in returning to the father.
+
+**John 3:27 records John the Baptist’s comment, “A person can receive nothing except Heaven has given it to him.”
+
+**John 10:18: Jesus says that no one will take his life from him; he will lay it down of himself. (Note “They did not take him because his time had not yet come.”)
+
+**John 12:31; 14:30; 16:11; Ephesians 2:3 call Satan “the prince of this world” while Jesus claims that the Father gave him all authority in heaven and on earth (Matthew 28:18). Satan is the prince of this world only because God allows him to be, that is, only because God allows people the freedom to enthrone Satan in their hearts.
+
+**Acts 2:23 says that Jesus was delivered up by the determinate counsel and foreknowledge of God even though Jesus himself says that no one is taking his life from him, but he is laying it down “of himself” (John 10:11-18).
+
+**Acts 17:26: God established the boundaries of their habitation.
+
+**According to Romans 8:32 God delivered up his own son (cp. Acts 2:23)!
+
+**Romans 13:1-2 says that there are no powers but those ordained by God; yet the Roman power and many, many others were very wicked. The ordination is in a permissive sense as far as specific powers are concerned (cp. Daniel 2:37; John 19:11). Permissive combines with indirect, especially in interpersonal activities.
+
+**In 1 Corinthians 7:17 Paul says that each person should walk in that wherein the Lord has distributed to him. But what is distributed includes being a slave or having an unbelieving spouse who then deserts the believer.
+
+**2 Thessalonians 2:11: God sends them a working of error that they should
+
+believe a lie.
+
+**In 1 Peter 3:10 the apostle says that it is better, if it is God’s will, to suffer for doing good than for doing evil.
+
+**Revelation 17:17-18 puts in the hearts of the “ten horns” to come to one mind and give their kingdom to the beast.
+
+**The Lord opens and closes the womb (Genesis 29:31; 30:22; 1 Samuel 1:5-6). Such statements need mean that God makes a decision each time about how many children a person will have. Especially in the ancient world where (a) they did not completely understand how certain things happen biologically, where (b) the causes were invisible, or (c) causes were too complex for practical analysis in everyday topics of discussion, they assigned the cause to God and let it go at that. There is a sense in which it is true that God opens and closes the womb—as in the case of endometriosis when a couple still ends up having a child against the odds. That “children are from the Lord” does not mean that couples are refusing a gift from God when they limit the number of children they decide they can rear. It means that we are to regard children as something good from the Lord.
+
+**2 Timothy 2:26: The devil takes people captive.
+
+In the examples above, the most important ones are those in which people are doing the permissive and indirect actions. That is important because (divine) omnipotence and sovereignty cannot explain the event as prescriptive-direct operation.
+
+Areas of application for the prescriptive-permissive distinction:
+
+**the problem of evil (theodicy): Hebrews 12:5-6 draws on Proverbs 3:11-12 to say that hardships in life are comparable to parental discipline, even though parental discipline is one-for-one with individual disobediences while hardships are indiscriminate. God is said to do evil: Deuteronomy 2:30; Judges 14:4; 1 Samuel 16:14; 18:10; 2 Samuel 12:11-12 + 16:21-22; Psalm 105:25; Proverbs 16:4; Isaiah 45:7; 2 Corinthians 7:7; 2 Thessalonians 2:11-12; Revelation 17:17. Yahveh is also said to bring evil on people: Ruth 1:13, 20-21. The appropriate conclusion seems to be that if it is evil, it came from Satan “ultimately” and from God permissively. If it is good, it came from the Lord in some sense or another—permissively, as inspiring source, indirectly.
+
+**divine guidance
+
+**The Hebrew word for give also means allow (נָתַן, natan). It is like the English word can, idiomatically used to cover both personal ability and circumstantial ability (“allow,” “may”). Jesus tells Pilate that he would have no power over Jesus if it were not given him from above (John 19:11). “The God of heaven” gave Nebuchadnezzar his kingdom (Daniel 2:37-38). Giving does not eliminate accepting what is given, even as we recognize despite using the question, “Who gives this woman to be married to this man?” Jesus says that he had not lost any of the ones the Father had given him except Judas—who later apostatized (John 17:12). Children are conceived of as given by the Lord: “You [Lord] have given me no seed” (Abraham; Genesis 15:3; cp. Genesis 30:2, 18, 20, 23).
+
+**Calvinism, Augustinianism, Pentecostalism, fiat creationism are especially prone to read this Semitic phenomenon like a straightforward Western expression. The resulting interpretations are difficult to counter because we could almost always imagine some kind of miraculous intervention as a mechanism that justifies unlikely sounding inferences. In literalism generally, supernatural causation could override any objection to a literal take on virtually any figurative or parabolic presentation: a talking snake in the Garden, a tree that makes a person wise, a fruit that can cause eternal life, a woman constructed out of a man’s rib that is not missing later; the man in the Parable of the Rich Man and Lazarus who talks from hell across a great gulf to Abraham and asks for drops of water to cool his tongue in a fire, and so on and so on. Mistaking this linguistic feature in interpretation leads to overly supernaturalizing other biblical processes as well, not the least of which are salvation matters.
+
+**Man’s turning away is said to be God’s giving up: Romans 1:21 + 24, 26.
+
+**Several times God says he will raise up an enemy against his people. The reality is probably that he removed his protecting hand against surrounding enemies who were constantly trying to bring neighboring countries under their control: 2 Kings 24:2; Amos 6:14; Habakkuk 1:6.
+
+2. Direct-indirect
+
+What people do through others they do themselves. What God commands he is said to do. In direct-for-indirect fashion, a third party would treat the one you are identified with the same way he is treating you. The third party assumes you are alike if you identify with each other. Streamlining causal distinctions happens more prominently in personal series and interpersonal associations than in impersonal ones.
+
+**Using an amanuensis does not keep the men of the Bible from being the authors of their works: Jeremiah 36:1-3 + 4; Romans 16:22 + 15:15; 1 Corinthians 16:21 + 14:37.
+
+**Exodus 4:11 records the conversation between Moses and God in which God credits himself with giving dumbness, deafness, blindness.
+
+**God spoke to Moses on Mount Sinai (Exodus 20), but it was more directly an angel who spoke to him (Acts 7:38, 53; Hebrews 2:2)
+
+**God hardened Pharaoh’s heart (Exodus 10:1; cp. 4:21; 8:19; 9:35; 10:20; 11:20; 14:4, 8, 17; Joshua 11:20; Romans 9:18), yet Pharaoh hardened his own heart (Exodus 8:15; cp. 8:32; 9:34; 1 Samuel 6:6; Proverbs 21:29; note as well Exodus 7:22, 14; 9:7).
+
+**In the course of Exodus 23:28-31, God not only says he will drive out the Canaanites, but that he will deliver them into the hands of the Israelites, who will drive them out. The point is that the Israelites need not fear going into battle, because he will guarantee victory even if he has to add to their efforts.
+
+**In Moses’ Song of Triumph, Miriam and the young women say that God cast the horse and his rider into the [Red] sea (Exodus 15:1) when, as a matter of fact, the Egyptian soldiers drove into the sea of their own accord.
+
+**“I will visit the iniquity of the fathers upon the children of the third and fourth generations” (Numbers 14:13; cp. Exodus 20:2-5). One translation says in the Exodus passage that God “punishes” the children unto the third and fourth generations, thus introducing the implication of guilt. Natural social process provides the first level of investigation here. Natural social process is indirect, but God is said to do it. Evidently, the text is talking about natural social consequences (suffering) rather than guilt, because Ezekiel 18:20 says exactly the opposite: “The son shall not be put to death for the father’s sin”; “the unrighteousness of the unrighteous shall be upon himself.” At a second level, the Exodus text anticipates the prospects of idolatry when the Israelites get drawn to the gods of the Canaanites if they do not eradicate these native peoples. When God delivered the Israelites to the Babylonians or Assyrians, three to four generations passed by before deliverance from those oppressions took place.
+
+**Deuteronomy 34:6 says that “God buried Moses in the Valley of Moab across from Bethpeor.” This may have been done through angels instead of directly by God himself (Jude 9). Hebrew and Greek do not always formally distinguish between indicative and causative although Greek sometimes uses the middle voice with a causative force.
+
+**The “God raised up” passages. After speaking of God’s allowing their fathers to die in the wilderness, the text says that God raised up their sons (Joshua 5:4, 7).
+
+**According to 1 Samuel 26:23 David told Saul that the Lord had delivered Saul into his hand, yet David did not take Saul because he was the Lord’s anointed (cp. the words of Abishai in 26:8).
+
+**In 1 Kings 21:19 Elijah accuses Ahab of killing Naboth even though Jezebel was the one that had him killed. Ahab was in agreement with her; by identification with her, he was as bad as the one who saw to the murder.
+
+**Job 23:14 says, “He performs what is appointed for me.”
+
+**Psalm 19:14: “A prudent wife is from the Lord.”
+
+**Psalm 51:10 asks God to create a clean heart in David (cp. 36:26), but Ezekiel 18:31 commands people to make for themselves a new heart and a new spirit.
+
+**“Except the Lord builds the house, they labor in vain that build it”
+
+(Psalm 127:1).
+
+**Psalm 139:13: “You formed me in the inward parts; you knitted me together in my mother’s womb.”
+
+**In Jeremiah 35:19 the princes told Baruch and Jeremiah to hide, yet in
+
+35:26 the Lord hid them.
+
+**The whale delivered Jonah (1:17 + 2:10), but God delivered him (2:6).
+
+**God threw Jonah overboard although the sailors directly did it (Jonah 2:3; see What the Bible Says About Salvation, p. 137).
+
+**God causes sun rises and sends rain (Matthew 5:45). That does not mean rain and solar cycles are supernatural. (Such language might serve as an antidote to animism.)
+
+**Matthew 6:26 says that the heavenly Father feeds the birds of the sky and clothes the grass of the field; yet the seeds the birds eat are in plants that have seeds “in themselves” (Genesis 1:11, 12); that is, they are self-reproducing. This is also not meant to contradict Mark 4:26-29, which says that seed grows by itself (αὐτονάτῃ, “automatically”). The same format applies to people, who multiply and fill the earth despite the “womb” passages cited above.
+
+**According to Matthew 16:17 Jesus told Peter that it was not people (“flesh and blood”), but the Father in heaven that revealed to him the content of his confession; yet what Peter said was based on Jesus’ teaching or he said more than he realized. We need not take this as special, direct divine revelation.
+
+**At the judgment scene of Matthew 25:31-46, Jesus determines the eternal destiny of the sheep and goats by whether they did charitable things to him. Inasmuch as they did or did not do those things to his brothers, they did or did not do them to him. God identifies with his people. What other people do to them is what they would have been doing directly to God himself if he had had that need (cp. below Jesus’ address to Saul on the road to Damascus: Acts 9:4). Even beyond the Semitic tendency to streamline causal distinctions, the interpersonal reality integral to Christianity makes such talk meaningful, because Christ identifies with his people and because the personal attitude that would do good or bad to his people would do it to Christ himself.
+
+**John 4:1 says, “Jesus was . . . baptizing more disciples than John.” The next verse, however, makes a parenthetical clarification that his disciples were the ones that actually did the baptizing acts (cp. 3:22, 26).
+
+**John 6:32 says that the Father gave the Israelites the true bread out of heaven—Messiah, but Jesus came down from heaven to do his Father’s will (6:38).
+
+**According to John 6:44 people cannot come to God except he draws them, yet God draws him through the word (6:45). God rather than something else must be drawing people or they will not be coming to God—like they might think they are doing.
+
+**John 13:2: Satan put it in Judas’ heart to betray Jesus.
+
+**Acts 2:38: “be baptized”       (identification with Christ)           remission of sins. Part of the difference between what people mean and what other people hear is the difference between direct and indirect operation. More exactly, it is a difference between identification with Christ (man’s act) and forgiveness (God’s act). Galatians 3:27 shows that at the most holistic level, baptism identifies people with Jesus Christ, in terms of whom, then, sins are remitted by the choice of God to do so on the basis of that identity rather than on the basis of the baptism act itself, strictly speaking.
+
+**Acts 3:15: To the Jerusalem multitude Peter said, “You killed the Prince
+
+of life.”
+
+**Acts 5:3 + 4 says first that Satan filled the heart of Ananias to lie and then says that Ananias conceived in his heart to lie to the Holy Spirit.
+
+**Paul was persecuting Jesus (Acts 9:5; 22:7; 26:14).
+
+**Acts 10:20 declares that God sent the messengers to get Peter at Joppa, but Cornelius sent them (10:5, 22).
+
+**Acts 12:17 records Peter’s testimony that the Lord had delivered him from prison whereas really the Lord had sent his angel to deliver him (12:7-11).
+
+**Acts 13:3-4 says both that the people of Antioch commissioned Paul and Barnabas and that the Holy Spirit sent them.
+
+**Acts 16:14 declares that the Lord opened Lydia’s heart (cp. 2 Corinthians 2:12) whereas God sent Paul to open the eyes of the blind (Acts 26:17b-18).
+
+**In Acts 17:25-26 God gives life to everything and determines the times and places where men live.
+
+**Acts 20:28: “the flock over whom the Holy Spirit has made you
+
+overseers”
+
+**According to Acts 26:22 Paul told Agrippa that he received help from God, whereas Lysias and his soldiers were the ones that rescued Paul from the temple mob (Acts 22:1-23).
+
+**Romans 8:32: “How will he that . . . delivered up [his own Son] for us all not also with him freely give us all things?” (also permissive-prescriptive)
+
+**God gives faith according to Romans 12:3, which equals a common misreading of Ephesians 2:8, where salvation is what is given; the misreading is of no import if Semitic idiom in kept in mind.
+
+**Although Paul planted and Apollos watered, it was God that gave the increase (1 Corinthians 3:6-8). God gave the increase in contrast to the messengers’ producing the result as if with a message they themselves could take credit for formulating. Could we entertain the possibility that God gives the increase with persons in the permissive, indirect sense that he gives the growth of plants?
+
+**1 Corinthians 11:15: “her hair is given to her for a covering.”
+
+**God gives plants a body as he pleases (1 Corinthians 15:38).
+
+**God put in Timothy’s heart an earnest care for the Corinthians, but Timothy accepted Paul’s exhortation and went to them of his own accord (2 Corinthians 8:16-18).
+
+**God separated Paul from his mother’s womb (Galatians 1:15; cp. Job 10:18; Psalm 22:9; Isaiah 49:1, 5). God made Job in the womb (Job 31:15; cp. Psalm 139:13; Jeremiah 1:5; Isaiah 44:2, 24; 49:5; Luke 2:21). God gives people a miscarrying womb (Hosea 9:14). God carries people from the womb to old age (Isaiah 46:3-4). See also passages about opening and closing the womb.
+
+**Ephesians 2:1 says that God makes people alive who are dead in
+
+trespasses and sins, but 5:14 commands people to arise from the dead.
+
+**In 2 Thessalonians 2:1-2 Paul says that Christ’s return is not immediate.
+
+**2 Timothy 2:25: God gives repentance. (cp. Acts 11:18, giving repentance to Gentiles; and Romans 12:3, giving faith to people generally)
+
+**Titus 1:5 can be indirect operation, because Acts 6 shows that selection
+
+and appointment are not necessarily the same thing.
+
+**Direct-indirect considerations have several applications in Holy Spirit operation in conversion, guidance, empowerment, and sanctification.
+
+**The same activity is assigned to man and Satan (Matthew 16:23; Luke 22:4 = John 13:27).
+
+**The same activity is assigned to both God and Satan: 2 Samuel 24:1 + 1 Chronicles 21:1; Job 1:6-2:3, 10 + 42:11; 2 Thessalonians 2:9-12.
+
+Direct-indirect includes actions assigned to their ultimate inspiring source. In Semitic idiom evil and unfortunate things are simply assigned to Satan and good things are assigned to God. (a) The same activity is sometimes assigned to both God and Satan. (b) Man’s activity is assigned to Satan (it is also assigned to God; see the previous listing). (c) Man’s turning away is God’s giving up. (d) God and Satan are said to undo each other’s activities. (See also above under “permissive-prescriptive,” where God does evil and Satan does good.) Semitic idiom (e) assigns to God causes that are unclear or invisible.
+
+“What people do through others they do themselves” suggests a way those who deny the deity of Jesus can understand the use of God in reference to him. He is functional deity; that is, he is deity in the sense that he operates on behalf of deity. This is the reason it is clearer to look at what happens (forgiving sin, creating) rather than to rely on a word (God) to show that Jesus is deity.
+
+**Note all the “raised up” passages: קוּם (kum) in Judges 2:16, 18; 3:9, 15;       1 Samuel 2:35; 1 Kings 14:14; 1 Chronicles 17:11; Psalm 113:7; (cp. 1 Samuel 2:8); Jeremiah 29:15; 30:9; Ezekiel 34:29; Hosea 6:2; Amos 2:11; 6:14 (an enemy); 9:112; Habakkuk 1:6; Zechariah 11:16(?); (עוּר, ‘ur) in Ezra 1:5; Isaiah 41:2, 25; 45:13; Jeremiah 50:9 (an enemy); 51:1 (an enemy); 51:11; Ezekiel 23:22; Joel 3:1-8. (עָמַד, ‘amad) in Exodus 9:16 (= Romans 9:17)
+
+**2 Samuel 24:1 says that the Lord moved David to number the people—a deed that God later punished him and the people for doing; in 1 Chronicles 21:1 Satan moved David to number the people.
+
+**God sows the seed that Satan takes out (Matthew 13:19 = Mark 4:15 =
+
+Luke 8:12).
+
+**Satan sows the “tares” among the “wheat” in this world (Matthew 13:39).
+
+**In Luke 13:16 Jesus says that Satan caused the woman to have a severe case of curvature of the spine.
+
+**John 13:27: Satan entered Judas.
+
+**Paul says that when men turn away from God, God gives them up (Romans 1:21 + 24, 26, 28).
+
+**The breadth and variability of “give/gift” usage can be seen in the implication of Paul’s statement, “Each person has his own gift from God, one after this manner and another after that” (1 Corinthians 7:7; cp. Matthew 19:11). Since the contrast is between sexual continence and incontinence, Paul is saying that either proclivity is a gift from God (although he may mean that continence is one person’s gift while ruling or showing mercy is someone else’s gift, which make the contrast between a noted gift in one area and a noted gift in another).
+
+Temptation is assigned to Satan directly and indirectly. 1 Corinthians 7:5 warns against Satan tempting people in the regard to sexual drive (indirect, permissive, something bad simply identified with Satan); in Matthew 4:7 condemns Satan for tempting the Lord—a direct activity.
+
+**Paul says in 2 Corinthians 4:4 that the god of this world has blinded the minds of the unbelieving.
+
+**Paul calls his thorn in the flesh (2 Corinthians 12:7-10) “a messenger of Satan”; yet it was for keeping Paul humble, a good thing that could be assigned to God. Was it simply a natural weakness that Paul had which in his own mind he associated with his great revelations and let it serve as a reminder against pride? It was from God inasmuch as it had good results; it was from Satan in that it was an undesirable experience.
+
+**According to 1 Thessalonians 2:18 Satan hindered his coming to see the readers (cp. Romans 1:13).
+
+**Satan takes captive, and God gives repentance (Acts 11:18; 2 Timothy
+
+2:24-26).
+
+**The trials and temptations of the Christian life Peter assigns to Satan, who roams around like a roaring lion looking for someone to devour (5:8).
+
+3. Identification
+
+People are said to do what they sympathize with or benefit from.
+
+**1 Kings 21:19: Ahab is said to have killed Naboth, when Jezebel is really the one who got him killed (note direct-indirect and permissive-prescriptive variables as well).
+
+**Acts 2:23; 3:13-15: The general Jewish populace is credited with
+
+betraying Jesus to death.
+
+**Being viewed as righteous for being willing to identify with the
+
+Righteous One.
+
+4. Purpose-result conflation
+
+Some results are not purposed. A colleague walked into my office one day and said he could not drink coffee because he had a test to write, which reminded me that I had one to write too. He did not intend (purpose) to remind me, but that was the result.
+
+In biblical interpretation one complicating factor comes from (1) the nature of Semitic expression, as often noted already. Besides the general tendency not to distinguish modes of operation and causality, the idiom tends not to differentiate between purpose and result. Another complicating factor for the purpose-result distinction comes from (2) the nature of God. Omniscience-plus-omnipotence blurs the purpose-result distinction. A course of action may originate elsewhere in the free will of secondary agencies, yet since God knows about it ahead of time (omniscience) and can intervene to stop it (omnipotence), he has a kind of purpose in mind by letting it happen. That purpose, however, is permissive rather than prescriptive in such cases. God knows that such and such will not frustrate his purposes.
+
+We say that “in effect” this or that is what someone is doing. Examples of this force of comments include Isaiah 6:9-10; Deuteronomy 29:4; Psalm 69:23, passages quoted in Romans 11:8-10 (cp. Matthew 13:14-15 = Mark 4:12 = Luke 18:10; John 12:40; Acts 28:26-27). God was not trying to close their eyes so the Israelites could not see, and the like, but that was the effect of what he did when he spoke to them for quite opposite reasons. The difference between intent and effect is caused by the hearer’s character and responses. The “in effect” idea applies also to passages about hardening Pharaoh’s heart (see above).
+
+**John 18:32: The Jews said to him, “It is not lawful for us to put anyone to
+
+death,” that it might be fulfilled what Jesus said of his manner of death—crucifixion rather than stoning.
+
+**Matthew 10:34: “I did not come to bring peace but [to bring] a sword.”
+
+**The AIDS epidemic was interpreted as divine punishment for illicit sexual behavior. In a sense it was, but not necessarily as a specific punishment for this sin; some innocent people got AIDS from blood transfusions and organ transplants. The result of sin in this case was getting AIDS, and AIDS is something that God has built into the operation of the physical realm and something that comes when people live contrary to his directions.
+
+**The death of Lazarus was for the glory of God: “that [ἵνα, hina] the son of God might be glorified [through healing the sickness]” (John 11:4).
+
+**The man in John 9 was born “that [ἵνα, hina] the works of God might be manifested in him” (9:3).
+
+**Jairus said his daughter was sick that [ἵνα, hina] “Jesus might come and lay hands on her” (Mark 5:22).
+
+**Paul’s thorn in the flesh resulted in keeping him humble, so God did not grant his request to remove it (2 Corinthians 12:7-8).
+
+5. Logical-chronological order
+
+Logical and chronological order are not necessarily the same. Two things may be chronologically simultaneous while logically sequential or in opposite order. (Note the objection to the mental slip, post hoc, ergo propter hoc: “after this, therefore because of this”) The logical-chronological distinction can be let slide as immaterial as long as it does not affect practical action, but failing to make creates in practice a plethora of difficulties.
+
+**a prayer offered after the time when God sets things in motion to answer
+
+it
+
+**Romans 5:12: “And so death passed on all men” (chronologically or logically, or manner—“so”?).
+
+**Animal sacrifice in the Old Testament was chronologically and logically before. God originally instituted animal sacrifice because it was a culturally understood phenomenon he could use to righteous ends (chronologically before). God looked forward to what he was going to do through Christ (“sacrifice”) and instituted Old Testament sacrifice in anticipation of it (logically before).
+
+**a man paid on Tuesday for work he will do on Friday
+
+**Is the chronological-logical distinction applicable to Cornelius’ household receiving the Holy Spirit before their water baptism, by which they expressed identity with Christ?
+
+**people’s being built subject to entropy (tendency toward death) before
+
+they sinned (?)
+
+**predestination of individuals to eternal life or death before the foundation of the world. There is a distinction between “God wrote a person’s name in the book before the person had faith” (Matthew 25:35; Revelation 13:8; 17:8) and “God wrote his name in the book because he had faith” (Revelation 20:12; 21:27). If the apostles were included in the mission of the seventy, then Judas’ name was in the Book of Life at one time (Luke 10:20: “Rejoice that your names are written in heaven”); yet he “went to his own place” (Acts 1:25). Judas’ name would have been “blotted out of” the Book as per Revelation 3:5; 22:19b < Psalm 69:28. Other passages speak simply of being or not being written in heaven or the Book: Daniel 12:1 < Philippians 4:3; Hebrews 12:23; Revelation 20:15.
+
+The mixture of (a) already being or not being in the book before the foundation of the world plus (b) being removed from that book illustrates the variance of usage we must accommodate in biblical interpretation regarding modes of causality on a whole range of other subjects as well. The idiom relates to the doctrines of predestination and perseverance of the saints (vs. apostasy).
+
+**Romans 8:29-30 offers the ordo salutis; is it a logical or chronological
+
+sequence?
+
+Two mechanisms make possible the lack of correlation between logical and chronological order:
+
+(1)	Omniscience: God foresees faith as a basis for granting eternal life before the foundation of the world.
+
+(2)	Trust: an employer pays his employees for work before they finish it because he trusts them to do the work.
+
+As noted before, much of theological controversy on primary issues results from not seeing that Jewish expression tends to omit intermediate causes, to blur purpose-result distinctions, to overlook the permissive-prescriptive variable, and to correlate logical-chronological sequence.
+
+One reason it is better to develop theology out of didactic material than out of historical events is that in the record of events, logical connectors are even less clear than in descriptive statements. For this reason, the interpreter does well, for example, not to try to develop from accounts in Acts an understanding of the relationship between baptism and receiving the Spirit.
+
+Peter appeals to the conversion of Cornelius’ household as a basis for saying that Gentiles as Gentiles can be identified with the Messiah; they do not have to become part of national Israel in the process (Acts 15:7-12; 10:34-35). It would not be legitimate to take every feature of that conversion account and use it as a model for conversions as 1 Corinthians 12:30 shows in that not everyone speaks in tongues.
+
+What is beyond a person’s control is said to be God’s act, even as we speak of tornados and floods as “acts of God.” In other words, what people often call “luck” scripture verbalizes as divine activity.
+
+6. Cause and correlation
+
+1 John 5:18: “the One begotten keeps him . . . Satan does not touch him” (see What the Bible Says About Salvation, p. 439).
+
+In summary, God is said to do (1) what he does directly; (2) what he does through another—does indirectly, including what he commands another to do, what he is the ultimate inspiring source of in someone else’s doing, and what is done by those identified with him; (3) what he allows others to do—to originate and carry out, (4) what he makes a decisive contribution to doing. All four of these variables are significant because (a) they impact our understanding of the nature of language—Semitic language especially—and the conclusions we draw from its statements; and (b) because they relate to the nature of God as omniscient and omnipotent.
+
+christir.org

@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search | Christian Internet Resources</title>
+    <meta name="description" content="Christian Internet Resources (CIR) presents essays with interpersonalism (IP) in mind">
+    <link rel="stylesheet" href="/css/style.css">
+    
+</head>
+<body>
+    <header class="site-header">
+        <div class="container">
+            <div class="header-content">
+                <div class="site-branding">
+                    <img src="/images/cir-logo.png" alt="CIR Logo" class="site-logo">
+                    <div class="site-title-group">
+                        <h1 class="site-title"><a href="http://localhost:1313/">Christian Internet Resources</a></h1>
+                        <p class="site-tagline">Interpersonalism in Christian Theology</p>
+                    </div>
+                </div>
+                <nav class="main-nav">
+                    <ul>
+                        
+                        <li><a href="/" >Home</a></li>
+                        
+                        <li><a href="/essays/" >Essays</a></li>
+                        
+                        <li><a href="/translations/" >Translations</a></li>
+                        
+                        <li><a href="/about/" >About</a></li>
+                        
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <main class="site-main">
+        <div class="container">
+            
+<div class="search-page">
+    <header class="page-header">
+        <h1>Search</h1>
+    </header>
+
+    <div class="search-container">
+        <input type="search" id="search-input" placeholder="Search essays and translations..." autocomplete="off">
+        <button id="search-btn" onclick="performSearch()">Search</button>
+    </div>
+
+    <div id="search-results"></div>
+</div>
+
+<script>
+let searchIndex = null;
+
+
+fetch('/index.json')
+    .then(response => response.json())
+    .then(data => {
+        searchIndex = data;
+        console.log('Search index loaded:', data.length, 'items');
+        
+        
+        const urlParams = new URLSearchParams(window.location.search);
+        const query = urlParams.get('q');
+        if (query) {
+            document.getElementById('search-input').value = query;
+            performSearch();
+        }
+    })
+    .catch(err => {
+        console.error('Failed to load search index:', err);
+        document.getElementById('search-results').innerHTML = '<p class="search-note">Search index not available. Please rebuild the site.</p>';
+    });
+
+function performSearch() {
+    const query = document.getElementById('search-input').value.toLowerCase().trim();
+    const resultsDiv = document.getElementById('search-results');
+    
+    if (!query || query.length < 2) {
+        resultsDiv.innerHTML = '<p class="search-note">Please enter at least 2 characters to search.</p>';
+        return;
+    }
+    
+    if (!searchIndex) {
+        resultsDiv.innerHTML = '<p class="search-note">Loading search index...</p>';
+        return;
+    }
+    
+    const results = searchIndex.filter(item => {
+        const titleMatch = item.title && item.title.toLowerCase().includes(query);
+        const contentMatch = item.content && item.content.toLowerCase().includes(query);
+        const categoryMatch = item.categories && item.categories.join(' ').toLowerCase().includes(query);
+        return titleMatch || contentMatch || categoryMatch;
+    });
+    
+    if (results.length === 0) {
+        resultsDiv.innerHTML = '<p class="search-note">No results found for "' + query + '"</p>';
+        return;
+    }
+    
+    let html = '<p class="search-count">' + results.length + ' result' + (results.length > 1 ? 's' : '') + ' found</p><div class="search-results-grid">';
+    
+    results.forEach(function(result) {
+        const snippet = getSnippet(result.content || '', query);
+        html += '<article class="search-result-card">';
+        html += '<h3><a href="' + result.permalink + '">' + result.title + '</a></h3>';
+        if (result.categories && result.categories.length > 0) {
+            html += '<p class="result-meta">' + result.categories.join(', ') + '</p>';
+        }
+        html += '<p class="result-snippet">' + snippet + '</p>';
+        html += '</article>';
+    });
+    
+    html += '</div>';
+    resultsDiv.innerHTML = html;
+}
+
+function getSnippet(content, query) {
+    if (!content) return '';
+    
+    const index = content.toLowerCase().indexOf(query.toLowerCase());
+    if (index === -1) return content.substring(0, 150) + '...';
+    
+    const start = Math.max(0, index - 75);
+    const end = Math.min(content.length, index + query.length + 75);
+    let snippet = content.substring(start, end);
+    
+    if (start > 0) snippet = '...' + snippet;
+    if (end < content.length) snippet = snippet + '...';
+    
+    
+    const regex = new RegExp('(' + query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + ')', 'gi');
+    snippet = snippet.replace(regex, '<mark>$1</mark>');
+    
+    return snippet;
+}
+
+
+document.getElementById('search-input').addEventListener('keypress', function(e) {
+    if (e.key === 'Enter') {
+        performSearch();
+    }
+});
+</script>
+
+<style>
+.search-container {
+    display: flex;
+    gap: 1rem;
+    margin: 2rem 0;
+    max-width: 800px;
+}
+
+#search-input {
+    flex: 1;
+    padding: 1rem;
+    border: 2px solid var(--border-color);
+    border-radius: 4px;
+    font-size: 1.1em;
+    font-family: var(--font-sans);
+}
+
+#search-input:focus {
+    outline: none;
+    border-color: var(--secondary-color);
+}
+
+#search-btn {
+    padding: 1rem 2rem;
+    background: var(--secondary-color);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-family: var(--font-sans);
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+#search-btn:hover {
+    background: var(--primary-color);
+}
+
+.search-count {
+    margin: 2rem 0 1rem;
+    font-family: var(--font-sans);
+    font-weight: 600;
+    color: var(--text-light);
+}
+
+.search-results-grid {
+    display: grid;
+    gap: 1.5rem;
+}
+
+.search-result-card {
+    background: var(--bg-white);
+    padding: 1.5rem;
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    transition: box-shadow 0.2s;
+}
+
+.search-result-card:hover {
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+.search-result-card h3 {
+    margin-top: 0;
+}
+
+.result-meta {
+    color: var(--text-light);
+    font-size: 0.9em;
+    font-family: var(--font-sans);
+    margin: 0.5rem 0;
+}
+
+.result-snippet {
+    color: var(--text-color);
+    margin: 0;
+}
+
+.result-snippet mark {
+    background: var(--accent-color);
+    padding: 0.1em 0.2em;
+    border-radius: 2px;
+}
+
+.search-note {
+    color: var(--text-light);
+    font-style: italic;
+    margin: 2rem 0;
+}
+</style>
+
+        </div>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <div class="footer-branding">
+                <img src="/images/cir-logo.png" alt="CIR Logo" class="footer-logo">
+                <p><strong>Christian Internet Resources (CIR)</strong></p>
+            </div>
+            <p>&copy; 2026 Virgil Warren, PhD. All rights reserved.</p>
+            <p class="footer-note">Free to use, reference, and circulate with source notations and logo.</p>
+        </div>
+    </footer>
+
+    <script src="/js/main.js"></script>
+    
+</body>
+</html>

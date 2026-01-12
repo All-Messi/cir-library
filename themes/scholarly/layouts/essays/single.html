@@ -1,0 +1,70 @@
+{{ define "main" }}
+<article class="essay">
+    <header class="essay-header">
+        <h1>{{ .Title }}</h1>
+        {{ if .Params.author }}
+        <p class="essay-author">{{ .Params.author }}</p>
+        {{ end }}
+        
+        <div class="essay-badges">
+            {{ if .Params.level }}
+            <span class="level-badge level-{{ .Params.level }}">Level {{ .Params.level }}</span>
+            {{ end }}
+            {{ if .Params.greek }}
+            <span class="lang-badge">G</span>
+            {{ end }}
+            {{ if .Params.hebrew }}
+            <span class="lang-badge">H</span>
+            {{ end }}
+            {{ if .Params.substantial }}
+            <span class="substantial-badge">*</span>
+            {{ end }}
+        </div>
+        
+        {{ if .Params.categories }}
+        <div class="essay-meta">
+            <span class="categories">
+                {{ range .Params.categories }}
+                <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+                {{ end }}
+            </span>
+        </div>
+        {{ end }}
+    </header>
+
+    <div class="essay-content">
+        {{ if .TableOfContents }}
+        <aside class="toc">
+            <h3>Contents</h3>
+            {{ .TableOfContents }}
+        </aside>
+        {{ end }}
+
+        <div class="content-body">
+            {{ .Content }}
+        </div>
+    </div>
+
+    {{ if .Params.scripture_references }}
+    <aside class="scripture-refs">
+        <h3>Scripture References</h3>
+        <ul>
+            {{ range .Params.scripture_references }}
+            <li>{{ . }}</li>
+            {{ end }}
+        </ul>
+    </aside>
+    {{ end }}
+
+    <footer class="essay-footer">
+        <div class="citation">
+            <h4>How to Cite</h4>
+            <p class="citation-text">
+                Warren, Virgil. "{{ .Title }}." <em>Christian Internet Resources</em>. 
+                Accessed {{ now.Format "January 2, 2006" }}. {{ .Permalink }}.
+            </p>
+            <p class="citation-note">Include the CIR logo and source notation when circulating.</p>
+        </div>
+    </footer>
+</article>
+{{ end }}

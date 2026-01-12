@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Christian Internet Resources</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Christian Internet Resources</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1 John</title>
+      <link>http://localhost:1313/tags/1-john/</link>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/1-john/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Agape</title>
+      <link>http://localhost:1313/tags/agape/</link>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/agape/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Biblical Languages</title>
+      <link>http://localhost:1313/tags/biblical-languages/</link>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/biblical-languages/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Grace</title>
+      <link>http://localhost:1313/tags/grace/</link>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/grace/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Love</title>
+      <link>http://localhost:1313/tags/love/</link>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/love/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Salvation</title>
+      <link>http://localhost:1313/tags/salvation/</link>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/salvation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Short Answers</title>
+      <link>http://localhost:1313/tags/short-answers/</link>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/short-answers/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

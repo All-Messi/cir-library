@@ -1,0 +1,20 @@
+---
+book: Matthew
+chapter: 18
+next: chapter-19
+prev: chapter-17
+title: Matthew 18
+translation: CNT
+type: chapter
+weight: 18
+---
+
+## Matthew Chapter 18
+
+<span class="verse" id="v1"><sup class="verse-num">1</sup> At that time the disciples came to Jesus, "Who's greatest in the kingdom of heaven?"</span>
+
+<span class="verse" id="v2"><sup class="verse-num">2</sup> He called a little child and stood him in front of them, 3"Unless you change and become like little children, you won't even get into the kingdom. 4Whoever humbles himself like this little child is greatest in the kingdom of heaven, 5and whoever receives a little child like this in my name, receives me. 6"Whoever makes a little one stumble that believes in me, would be better off to have a large millstone hung around their neck and drown in the sea. 7Woe to the world because of temptations. They'll come, but woe to the ones that bring them. 8If yoursg hand or foot causes you problems, cut it off and throw it away. It's better to go about life deformed or lame than to have two hands and two feet to be thrown into the eternal fire. 9If yoursg eye is causing you problems, gouge it out and throw it away. It's better to go about life with one eye than to have two eyes to be thrown into the burning hell. 10"Make sure youpl don't look down on one of these little ones. I tell youpl, their angels in heaven can always see my heavenly Father. [11]ms 12What do youpl think? If a man has 100 sheep and one wanders off, doesn't he leave the 99 on the hillside and go looking for the stray? 13If he finds it, he's happier over it than over the 99 that didn't stray. 14In the same way, your heavenly Father doesn't want a one of these little ones to perish. 15"If yoursg brother sins against you, go show him his fault privately. If he listens, you've gained him back. 16If he doesn't, take one or two with you so 'two or three witnesses will confirm everything' [Deut 19:15]. 17If he won't listen, tell the church. If he won't even listen to the church, regard him like a Gentile or a tax collector. 18"Whatever youpl bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven. 19Again, if two of you agree on earth about anything you ask for, it'll happen for you from my Father in heaven. 20Where two or three gather in my name, I'm with them."</span>
+
+<span class="verse" id="v21"><sup class="verse-num">21</sup> Then Peter came and asked, "How many times should I forgive someone that sins against me? Up to 7 times?"</span>
+
+<span class="verse" id="v22"><sup class="verse-num">22</sup> Jesus saidp, "I wouldn't say up to 7; I'd say up to 77." 23"The kingdom of heaven is like a king that wanted to settle accounts with his servants. 24As he was making the settlements, one debtor was brought to him that owed 10,000 talents. 25Since he couldn't repay it, the lord commanded his wife, children, and everything he owned to be sold to make the repayment. 26The servant prostrated himself and pleaded with him, 'Be patient with me, and I'll repay it all.' 27The lord felt sorry for him, let him go, and forgave his debt. 28"That servant went out and found a fellow servant that owed him 100 denarii. He grabbed him and began to choke him, 'Pay me what you owe me.' 29His fellow servant fell down and began to beg him, 'Be patient with me, and I'll pay you back.' 30But he wasn't willing. He put him in prison till he'd paid what he owed. 31"His fellow servants were deeply grieved and reported to their lord what happened. 32His lord called him in, 'Evil servant, I forgave you all that debt when you begged me. 33Shouldn't you have been merciful with your fellow servant like I was with you?' 34His lord was angry and turned him over to the torturers till he'd pay everything he owed. 35"My heavenly Father will do the same thing to youpl unless you forgive your fellow believer from your heart."</span>

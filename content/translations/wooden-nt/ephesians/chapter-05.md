@@ -1,0 +1,18 @@
+---
+book: Ephesians
+chapter: 5
+next: chapter-06
+prev: chapter-04
+title: Ephesians 5
+translation: WNT
+type: chapter
+weight: 5
+---
+
+## Ephesians Chapter 5
+
+<span class="verse" id="v1"><sup class="verse-num">1</sup> So be imitators of-[the] God as beloved children, 2and walk in love even-as also [the] Christ loved you and gave himself for you (as an) offering and sacrifice to-[the] God for (a) sweet fragrance. 3Let┘sexaul-immorality and every impurity or greed not-even└be-named among you, even-as is-appropriate for-saints. 4And(Let there be no) filthiness and foolish-talk or vulgar-talking, which-things are not fitting, but rather thanksgiving. 5For know this for-sure that every sexually-immoral or impure or covetous (person), which is idolatry, does┘not└have (an) inheritance in the kingdom of-[the] Christ and God.</span>
+
+<span class="verse" id="v6"><sup class="verse-num">6</sup> Let┘nobody└deceive you with-empty words, for because-of these-things the wrath of-[the] God is-coming on the sons of-[the] disobedience. 7So do┘not└be partakers of-them, 8for you-were once darkness, but now (you are) light in (the) Lord; walk as children of-light—9for the fruit of-[the] light (is) in all goodness and righteousness and truth—10testing what is pleasing to-the Lord. 11Do┘not└participate-in the unfruitful [the] works of-[the] darkness, but rather even exposed them. 12For it-is disgraceful even to-tell the-things done by them in-secret, 13but [the] all-things exposed by the light become-visible. 14For everything [the] made-visible is light. Where it-says,</span>
+
+<span class="verse" id="v15"><sup class="verse-num">15</sup> So watch carefully how you-walk, not as unwise but as wise, 16making-th-most-of the time because the days are evil. 17On-account-of this do┘not└be foolish, but know what the will of-the Lord (is). 18And do┘not└be-drunk with-wine, in which is reckless-living, but be-filled with (the) Spirit, 19speaking to-one-another in psalms and hymns and spiritual songs, singing and making-melody in-the heart of-you to-the Lord, 20always being-thankful for all-things in (the) name of-the Lord of-us Jesus Christ to-[the] God and Father. 21Submit yourselves to-one-another in (the) respect of-Christ, 22[the] wives to-[the] their husbands as to-the Lord 23because (a) husband is head of-the wife as also [the] Christ (is) head of-the church, himself (the) Savior of-the body. 24But as the church submits to-[the] Christ, so also [the] wives to-[the] husbands in everything. 25[The] husbands love [the] wives even-as also [the] Christ loved the church and gave himself for it, 26in-order-that he-might-sanctify it, having-cleansed (it) by-the washing of-[the] water with (the) word, 27in-order-that he might-present the church to-himself glorious, not having (a) stain or wrinkle or any of-[the] such-things, but in-order-that it-might-be holy and blameless. 28Thus [the] husbands [also]ms ought to-love [the] their wives as the bodies of-themselves. The-one loving the wife of-himself is-loving himself. 29For nobody ever hated the flesh of-himself, but feeds and takes-care-of it, even-as also [the] Christ (does) the church, 30because we-are members of-the body of-him: 31"for this-reason (a) man will-leave-behind [the] father and [the] mother and be-united with the wife of-him, and the two will-be [for] one flesh." 32[The] this mystery is great, but I am-speaking regarding Christ and regarding the church. 33Nevertheless also you the-ones according-to one, let┘each└love the wife of-him as himself, and (let) the wife (see) in-order-that she-respect the/her husband.</span>

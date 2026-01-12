@@ -1,0 +1,61 @@
+---
+author: Virgil Warren, PhD
+categories:
+- INTERPRETATION
+- COMMENTARIES
+- Seermon on the Mount comment bok
+date: '2026-01-11'
+draft: false
+title: OVERCOMING THE CRITICAL MIND SET
+weight: 11
+---
+
+OVERCOMING THE CRITICAL MIND SET
+
+When Jesus says, “Do not judge,” he raises four questions: (1) What does judge mean? (2) Why do we do it? (3) Why should we stop it? (4) How can we stop it? We can study Matthew 7:1-6 by asking these questions about the text.
+
+I. What does judge mean?
+
+Judge means more than “evaluate.” In 7:6 Jesus warns his listeners not to cast pearls before swine or give holy things to dogs. To take that advice, we have to make a judgment as to who is, so to speak, a “dog” or “pig.” We must always discern the difference between right and wrong or effective and ineffective, and we are called on to warn fellowmen about such things. Nevertheless, on occasion Matthew 7:1 is quoted in self-defense by people appropriately confronted with some characteristic sin. But, since fellow Christians have mutual responsibility to lead each other to repentance, Jesus does not forbid reaching a verdict on the morality of someone’s behavior and approaching him about it respectfully.
+
+Judge does not mean “condemn.” A condemnatory attitude certainly does not belong in a Christian personality; and, of course, no one has a right to condemn in the sense of pronouncing on someone’s eternal destiny. Condemning acts as sinful and condemning people to hell would occur after the concern that Jesus has specifically in mind when he warns people not to judge. In 7:2 he supplies the reason for not doing what he prohibits in 7:1: the standard we judge with we will be judged by. The emphasis, then, is on the way we use our standard of behavior more than on the consequences we might want to call down upon others after we have evaluated their deeds as evil.
+
+The Sermon on the Mount stresses horizontal relationship with people more than vertical relationship with God. Jesus deals with living in the horizontal in light of the vertical. Since (a) he emphasizes associations between people, we do not expect him to mean here that God will judge us the way we judge others or condemn us if we condemn them. (b) The text does not say, “Do not judge, lest God judge you.” It says, “. . . so you will not be judged.” Furthermore, (c) we wonder whether, strictly speaking, God measures us by our own standards anyway. He measures us by his standards. There seems to be no adequate reason for believing that God will condemn us on the basis of failure to meet personal standards beyond his will.
+
+It is certainly true, however, from the standpoint of experience that fellowmen do measure us by the ideals we try to hold them to, especially if we apply these standards against them in a critical fashion. (d) Jesus’ subsequent comments deal with seeing a speck in a brother’s eye. People often are not upset when we point out their sins and mistakes if doing so is not a “put down.” They may, in fact, let us help if first we clean up our own act (7:5). Therefore, “lest you be judged” refers to something done by other people, rather than to something done by God.
+
+We take it that judge means “be critical.” Criticizing implies looking for faults. A critic strains to catch mistakes and to point them out. In 7:4 Jesus illustrates this drive in the case of a person that wants to point out some small weakness and to tell his neighbor how to get rid of it, when he himself has a bigger problem. Looking for little things betrays a compulsion to tear other people down. “Do not judge” requires us to break the habit of feeling driven to criticize.
+
+II. Why do we criticize?
+
+Considering the reasons for the drive to criticize turns us inward to reflect on our motivations. Criticizing happens even in cases when the critic knows that the other person is aware of the defect. Therefore, being critical is not particularly for calling attention to someone’s error. Although the sinner knows he has sinned and others have noted it as well, the critical person still wants to make a point of it for some reason.
+
+Being critical is for getting attention. Sometimes criticism says, “Look at me; I can tell the difference between the way a person ought to act and the way this man is acting.” Criticizing is weakness behavior despite the probability that a critic thinks he is demonstrating strength.
+
+Sometimes criticizing is a way of bragging. It says, “Look at me. I don’t have that fault. I’m better than he is.” We do not usually “harp on” somebody’s sin if we are guilty of it too.
+
+Being critical arises from fear and distrust. People brag, put others down, hurry to evaluate negatively to draw attention to themselves. The reason for this urge to compete comes from a fear of being viewed as less than someone else. Fear of losing stems from a personality that tends to be unconsciously obsessed with having to win. Having to win reflects uncertainty about whether we can win, which shows weakness, not strength. It reflects the fear that we cannot win, that we are not worth much, or that other people will not accept us as valuable. Criticizing is a way of trying to gain “psychological ascendancy.” By putting others down, a critic is trying to put himself above them. By putting them down, he gains a certain amount of “control” over them through their self-consciousness.
+
+III. Why should we quit being critical?
+
+Jesus specifies one reason for not being critical: criticizing people causes them to criticize us. People tend to treat us the way we treat them. That tendency arises from the impulse for self-protection. They do not feel so destroyed by our criticism if they can, in turn, point out weaknesses in us. The point here does not stop with the simple observation that we must “practice what we preach” (Romans 2:17-23). To be criticized, we do not have to be guilty of the same thing we criticize; any fault we have becomes an object of another person’s criticism.
+
+Sometimes friends and neighbors have enough maturity not to return criticism. In such cases, criticizing causes other people to quit listening to us. They tune us out because experience has shown that our comments are seldom helpful. “Selective hearing” occurs whenever a sound in the environment does not affect what we are doing. People tune out the sound of their refrigerators, the sounds of locusts in summer, the traffic on a nearby street. They can tune out our criticizing in something of the same way.
+
+Criticizing also needs to stop because criticizing drives people away from us. One means of self-protection is separation from the source of discomfort. Being around people who fix on our faults makes us uncomfortable. We do not enjoy being around them; so we withdraw to avoid the embarrassment and hurt. For Christians to influence their neighbors for Christ, they must not cut off a point of contact with them.
+
+Criticizing also drives people away from Christ. Even God himself did not send his Son into the world to be critical of it but to communicate his love for it. The Father seems to sequence love before justice. If people reject his love, in due time he brings justice and condemnation to bear. But the important thing is that he first tries to correct and restore rather than criticize and condemn. We are working against God if we do things that drive people away rather than draw them nearer. The Great Commission incorporates Christians as agents of change in the world. If we want to be God’s instruments for renewal, we must conduct ourselves in such a way that draws people to God through us.
+
+Criticism does not make us look good. The ability to see the difference between the ideal and someone’s failure to exemplify it is not an outstanding talent. A person does not have to play guitar very well to tell that a guitarist has picked the wrong chord. A man does not have to be very athletic to see that the batter did not hit the ball solidly or to fuss at a basketball player for missing a jump shot. Someone in a church service does not have to be a good public speaker to notice a preacher’s distracting mannerisms, grammatical slips, or ineffective delivery.
+
+IV. How can we quit being critical?
+
+Criticizing critics does not help them either. The final question, therefore, is “How can we overcome the criticism habit?” Matthew 7:1-6 implies a truth that can help correct the problem: remember our own faults. “First remove the beam from your own eye” suggests considering our own weaknesses. Since we do not berate people for sins we also commit, we can use self-consciousness to battle our urges to criticize others.
+
+Look for other people’s strengths. To develop the impulse to appreciate, we must recognize traits that we can appreciate. Those skills and abilities that exceed ours may become a new center of attention when we look at other people. Even if their spiritual qualities leave something to be desired, appreciating their other characteristics establishes in us a positive mind set, which tends to generalize itself. We will be epitomizing each whole person favorably instead of viewing him altogether in terms of his negative aspects.
+
+Consider whether you would be any better than they are if you were in their place. Christianity teaches the superiority of personality over environment. Nevertheless, scripture also recognizes the strong tendency for people to be shaped by experience and nurturing (1 Corinthians 15:33; Proverbs 22:6). Recognizing this fact about human development makes us consider our advantages. We might not be faring any better than other people if we had parents who cared no more than theirs did, parents who had the personality weaknesses their families had, a church surrounding as weak as theirs was, or a present circumstance with the pressures, frustrations, and boredom they experience. Developing sensitivity to people’s circumstances helps remove our bent toward criticizing them.
+
+To overcome the criticism habit, love people. Loving and criticizing do not mix; “love casts out fear” (1 John 4:18). If criticizing originates in fear, and love tends to trust, then love does not criticize. To love people, we must be treating them the way we would want to be treated in their shoes (Matthew 7:12; 22:39; Romans 13:10); Galatians 5:14-15). Love covers a multitude of sins, including criticizing. Before we can remove the speck from someone else’s eye, we have to get rid of the criticism in our own eyes. Then we can see more clearly what it will take to help a brother, and that brother will be more likely to accept our help.
+
+christir.org

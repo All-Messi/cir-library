@@ -1,0 +1,153 @@
+{{ define "main" }}
+<div class="home-page">
+    <section class="hero">
+        <h2>Christian Internet Resources</h2>
+        <p class="lead">Presenting essays with the characteristics of personal relationship in mind: <strong>Interpersonalism</strong></p>
+    </section>
+
+    <!-- Search Bar -->
+    <section class="home-search">
+        <div class="search-wrapper">
+            <form action="/search/" method="get" class="search-form">
+                <input type="search" name="q" id="home-search-input" placeholder="Search essays and topics..." autocomplete="off">
+                <button type="submit" class="search-submit">Search</button>
+            </form>
+            <div id="search-dropdown" class="search-dropdown"></div>
+        </div>
+    </section>
+
+    <script>
+    // Load search index for autocomplete
+    let searchData = null;
+    fetch('/index.json')
+        .then(r => r.json())
+        .then(data => { searchData = data; })
+        .catch(err => console.log('Search index not yet available'));
+
+    const searchInput = document.getElementById('home-search-input');
+    const dropdown = document.getElementById('search-dropdown');
+
+    searchInput.addEventListener('input', function() {
+        const query = this.value.toLowerCase().trim();
+        
+        if (query.length < 2 || !searchData) {
+            dropdown.style.display = 'none';
+            return;
+        }
+
+        const results = searchData.filter(item => {
+            return (item.title && item.title.toLowerCase().includes(query)) ||
+                   (item.content && item.content.toLowerCase().includes(query));
+        }).slice(0, 6); // Limit to 6 results
+
+        if (results.length === 0) {
+            dropdown.style.display = 'none';
+            return;
+        }
+
+        dropdown.innerHTML = results.map(r => 
+            '<a href="' + r.permalink + '" class="dropdown-item">' +
+            '<span class="dropdown-title">' + r.title + '</span>' +
+            (r.categories ? '<span class="dropdown-cat">' + r.categories[0] + '</span>' : '') +
+            '</a>'
+        ).join('');
+        dropdown.style.display = 'block';
+    });
+
+    // Hide dropdown when clicking outside
+    document.addEventListener('click', function(e) {
+        if (!e.target.closest('.search-wrapper')) {
+            dropdown.style.display = 'none';
+        }
+    });
+
+    // Hide dropdown on form submit
+    document.querySelector('.search-form').addEventListener('submit', function() {
+        dropdown.style.display = 'none';
+    });
+    </script>
+
+    <style>
+    .search-wrapper {
+        position: relative;
+        max-width: 800px;
+        margin: 0 auto;
+    }
+
+    .search-dropdown {
+        display: none;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        background: var(--bg-white);
+        border: 2px solid var(--border-color);
+        border-top: none;
+        border-radius: 0 0 8px 8px;
+        box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+        z-index: 100;
+        max-height: 400px;
+        overflow-y: auto;
+    }
+
+    .dropdown-item {
+        display: block;
+        padding: 1rem 1.5rem;
+        text-decoration: none;
+        border-bottom: 1px solid var(--border-color);
+        transition: background 0.15s;
+    }
+
+    .dropdown-item:last-child {
+        border-bottom: none;
+    }
+
+    .dropdown-item:hover {
+        background: var(--hover-color);
+    }
+
+    .dropdown-title {
+        display: block;
+        color: var(--primary-color);
+        font-weight: 600;
+        font-family: var(--font-sans);
+    }
+
+    .dropdown-cat {
+        display: block;
+        color: var(--text-light);
+        font-size: 0.85em;
+        margin-top: 0.25rem;
+    }
+    </style>
+
+    <section class="content-sections">
+        <div class="section-grid">
+            <div class="section-card">
+                <h3>Essays on Christian Doctrine</h3>
+                <p>Systematic theology, Christology, Soteriology, and foundational doctrines</p>
+                <a href="/essays/" class="btn">Explore Essays</a>
+            </div>
+            <div class="section-card">
+                <h3>Browse by Category</h3>
+                <p>Find essays organized by theological topics and themes</p>
+                <a href="/categories/" class="btn">View Categories</a>
+            </div>
+            <div class="section-card">
+                <h3>Bible Translations</h3>
+                <p>Conversational translations designed for clarity and accessibility</p>
+                <a href="/translations/" class="btn">Read Scripture</a>
+            </div>
+        </div>
+    </section>
+
+    <section class="browse-more">
+        <h3>Browse More</h3>
+        <div class="browse-links">
+            <a href="/categories/">All Categories</a>
+            <a href="/essays/">All Essays</a>
+            <a href="/translations/">Translations</a>
+        </div>
+    </section>
+</div>
+{{ end }}

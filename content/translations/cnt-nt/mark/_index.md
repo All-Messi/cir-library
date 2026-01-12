@@ -1,0 +1,14 @@
+---
+book: Mark
+chapters: 16
+title: Mark
+translation: CNT
+type: book
+weight: 41
+---
+
+## Mark
+
+**16 Chapters**
+
+Select a chapter to begin reading:

@@ -1,0 +1,90 @@
+{{ define "main" }}
+<article class="chapter-reading">
+    <nav class="breadcrumb">
+        <a href="/translations/">Translations</a> › 
+        <a href="{{ .Parent.Parent.RelPermalink }}">{{ .Parent.Parent.Title }}</a> ›
+        <a href="{{ .Parent.RelPermalink }}">{{ .Params.book }}</a>
+    </nav>
+
+    <header class="chapter-header">
+        <h1>{{ .Params.book }} {{ .Params.chapter }}</h1>
+        <p class="chapter-meta">{{ .Params.translation }} Translation</p>
+    </header>
+
+    <!-- Chapter Navigation Bar -->
+    <nav class="chapter-nav-bar">
+        {{ if .Params.prev }}
+        <a href="../{{ .Params.prev }}/" class="nav-btn nav-prev">← Prev</a>
+        {{ else }}
+        <span class="nav-btn nav-disabled"></span>
+        {{ end }}
+
+        <!-- Book & Chapter Selector -->
+        <div class="book-chapter-selector">
+            <select id="book-selector" class="book-select" onchange="handleBookChange(this.value)">
+                {{ $currentBook := .Params.book }}
+                {{ $translation := .Parent.Parent }}
+                {{ range $translation.Sections.ByWeight }}
+                <option value="{{ .RelPermalink }}" {{ if eq .Params.book $currentBook }}selected{{ end }}>
+                    {{ .Params.book }}
+                </option>
+                {{ end }}
+            </select>
+            
+            <select id="chapter-selector" class="chapter-select" onchange="if(this.value) window.location.href=this.value">
+                {{ $currentChapter := .Params.chapter }}
+                {{ range .Parent.Pages.ByWeight }}
+                <option value="{{ .RelPermalink }}" {{ if eq .Params.chapter $currentChapter }}selected{{ end }}>
+                    Chapter {{ .Params.chapter }}
+                </option>
+                {{ end }}
+            </select>
+        </div>
+
+        {{ if .Params.next }}
+        <a href="../{{ .Params.next }}/" class="nav-btn nav-next">Next →</a>
+        {{ else }}
+        <span class="nav-btn nav-disabled"></span>
+        {{ end }}
+    </nav>
+
+    <!-- Chapter Content -->
+    <div class="chapter-content">
+        {{ .Content }}
+    </div>
+
+    <!-- Bottom Navigation -->
+    <nav class="chapter-nav-bar bottom">
+        {{ if .Params.prev }}
+        <a href="../{{ .Params.prev }}/" class="nav-btn nav-prev">← Previous Chapter</a>
+        {{ else }}
+        <span class="nav-btn nav-disabled"></span>
+        {{ end }}
+
+        <a href="{{ .Parent.RelPermalink }}" class="nav-btn nav-book">All Chapters</a>
+
+        {{ if .Params.next }}
+        <a href="../{{ .Params.next }}/" class="nav-btn nav-next">Next Chapter →</a>
+        {{ else }}
+        <span class="nav-btn nav-disabled"></span>
+        {{ end }}
+    </nav>
+
+    <footer class="chapter-footer">
+        <p class="translation-note">
+            From the {{ .Params.translation }} translation by {{ .Site.Params.author }}
+        </p>
+    </footer>
+</article>
+
+<script>
+function handleBookChange(bookUrl) {
+    // Navigate to chapter 1 of the selected book
+    window.location.href = bookUrl + 'chapter-01/';
+}
+</script>
+{{ end }}
+
+{{ define "scripts" }}
+<script src="{{ "js/bible.js" | relURL }}"></script>
+{{ end }}

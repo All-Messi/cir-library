@@ -1,0 +1,16 @@
+---
+book: Luke
+chapter: 15
+next: chapter-16
+prev: chapter-14
+title: Luke 15
+translation: CNT
+type: chapter
+weight: 15
+---
+
+## Luke Chapter 15
+
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Tax collectors and sinners were coming to listen to him. 2The Pharisees and scribes started grumbling, "This fellow welcomes sinners and eats with them."</span>
+
+<span class="verse" id="v3"><sup class="verse-num">3</sup> He told them this parable. 4"What man that has a 100 sheep and loses one, doesn't leave the 99 in the open country and go looking for the one that's lost? 5 When he finds it, he puts it on his shoulders happy. 6When he gets home, he calls his friends and neighbors, 'Let's celebrate; I've found the sheep I lost.' 7There'll be more celebration in heaven over one sinner that repents than over 99 good people that don't need to repent." 8"What woman that has 10 coins and loses one, doesn't light a lamp, sweep the house, and keep looking till she finds it? 9When she does, she calls her friends and neighbors, 'Let's celebrate; I found the coin I lost.' 10In the same way, God's angels celebrate over one sinner that repents. 11"A man had two sons. 12The younger one said to his father, 'Give me my share of the assets.' He divided his assets between the two sons. 13"A few days later the younger son got everything together and left home for a distant country, and wasted his assets there, living immorally. 14When he'd spent everything, a severe famine arose in that country, and he was out of money. 15He went to work for a citizen in that country, who sent him into his fields to feed pigs. 16He was so hungry he wanted to eat the carob pods the pigs were eating, but nobody would give him anything. 17"He came to himself, 'How many of my father's hired hands have more than enough to eat, and I'm starving here. 18I'll go to my father and say, "I've sinned against Heaven and you. 19I don't deserve to be your son anymore. Make me one of your hired hands." 20"He went to his father. While he was still a long way off, his father saw him, felt sorry for him, and he ran and hugged him and kissed him. 21The son said, 'Dad, I've sinned against Heaven and you. I don't deserve to be your son anymore.' 22"But his dad told the servants, 'Quick, bring a robe—the best one—and put it on him. Put a ring on his finger and sandals on his feet. 23Get the grain-fed calf and butcher it; let's eat and celebrate. 24This son of mine was dead and has come back to life; he was lost and is found.' They started celebrating. 25"His older son was out in the field. When he got close to the house, he heard music and dancing. 26He called one of the servants over and asked him what was going on. 27"'Your brother came back, and your father has butchered the grain-fed calf because he received him back in good health.' 29"But he answered, 'I've slavedp for you all these years and never neglected a thing you told me to do, and you've never given me a kid to celebrate with my friends. 30But when that son of yours comes who wasted your living with prostitutes, you butcher the grain-fed calf!' 31"He said, 'Son, you're always here, and everything I have is yours. 32But we needed to be happy and celebrate because this brother of yours was dead and is alive; he was lost and is found.'"</span>

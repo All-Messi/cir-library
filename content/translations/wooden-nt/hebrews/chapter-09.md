@@ -1,0 +1,24 @@
+---
+book: Hebrews
+chapter: 9
+next: chapter-10
+prev: chapter-08
+title: Hebrews 9
+translation: WNT
+type: chapter
+weight: 9
+---
+
+## Hebrews Chapter 9
+
+<span class="verse" id="v1"><sup class="verse-num">1</sup> So the first (covenant) used-to-have ordinances of-divine-service and the/a worldly/earthly sanctuary.  2For the first tabernacle was-prepared on which (were) both the candelabra and the table and the presentation of-the loaves, which is-called "(The) Holy Place."</span>
+
+<span class="verse" id="v3"><sup class="verse-num">3</sup> And behind the second curtain (was a) tabernacle [the] called "(The) Holy of-Holies," 4having (a) golden altar-of-service and the ark of-the covenant covered-over everywhere with-gold, in which was (a) golden jar having [the] manna, and the rod of-Aaron—the-one having-sprouted, and the tablets of-the covenant, 5and above it cherubs of-glory overshadowing the mercy-seat, concerning which-things to-speak is not now according-to part.</span>
+
+<span class="verse" id="v6"><sup class="verse-num">6</sup> Now these-things thus having-been-prepared, the priests enter into the first tabernacle through-all/continually2 every-day fulfilling the services 7but into the second (tabernacle) once during-the-year only the high-priest (enters), not without blood that he-offers for himself and the ignorances/sins of-the people, 8the Holy Spirit making evident that they way of-the (Holy of) Holies not-yet to-have-been-made-manifest, the first tabernacle having standing/existence, 9which (is a) picture for the having-stood/present/standing [the] season, according-to which both gifts and sacrifices are-being-offered not-being-able according-to (the) conscience to-make┘the/a worshiping-one└perfect, 10(being) only on meats and drinks and various washings, ordinances of-flesh put-in-place until (the) time of-reformation.</span>
+
+<span class="verse" id="v11"><sup class="verse-num">11</sup> But Christ—having-become (a) high-priest of-the present good things through the greater and more perfect tabernacle, not hand-made, that is, not of-this [the] creation, 12neither through (the) blood of-goats and calves but through [the] his-own blood—entered once-and-for-all into the Holy (places), having-founded eternal redemption.  13For if the blood of-goats and bulls and (the) ashes of-(a)-heifer sprinkling the-ones defiled sanctifies to the cleansing of-the flesh, 14more by-much the blood of-[the] Christ—who through (the) eternal Spirit offered himself blameless/without-blemish to-[the] God—will-cleanse the conscience of-us from dead works to [the] serving (a) living God.</span>
+
+<span class="verse" id="v15"><sup class="verse-num">15</sup> And on-account-of this, he-is (the) mediator of-(a)-new covenant, in-order-that, (a) death having-taken-place for the transgressions against the first covenant, the-ones having-been-called/called many-receive the promise of-the inheritance.  16For where (a) covenant/testament (is, (there is a) necessity (that) death of-the-one having-made (it) be-borne.  17For (a) covenant (is) valid for (the) dead, because it-is┘never└valid while the-one having-made (it) is-alive.  18Whence not-even the first (covenant) has-been-dedicated without blood.  19For every commandment spoken-to all the people according-to the Law by Moses, taking the blood of-[the] bull-calves [and the goats]ms with water and red wool and hyssop, he-sprinkled both the book itself and all the people, 20saying, "This (is) the blood of-the covenant that [the] God commanded to us."  21And both the tabernacle and all the vessels of-[the] service he-sprinkled with blood likewise.  22And almost all-things are-cleansed by blood according-to the Law, and without blood-shedding forgiveness does┘not└happen.</span>
+
+<span class="verse" id="v23"><sup class="verse-num">23</sup> Therefore, necessity (was for) the copies of-the-things in the heavens to-be-cleansed with-these, but (necessity was for) the heavenly-things themselves (to be cleansed) with-better sacrifices than these.  24For Christ did┘not└enter into (as) hand-made (Holy-of) Holies, analogous of-the true, but into [the] heaven itself, now to-appear-before the face of-[the] God for us; 25and-not in-order-that he-might-offer-himself many-times, as the high-priest enters into the (Holy of) Holies according-to (the) year2/every year2 with (the) blood belonging-to-another, 26otherwise it would-have-been-necessary for-him to-suffer many-times from (the) foundation of-(the)-world.  And now once-and-for-all at (the) consummation of-the ages, he-has-appeared for (the) nullification of-[the] sin through the sacrifice of-himself.  27And inasmuch2 to-die once is appointed to-[the] men, and after this judgment, 28so also [the] Christ once-and-for-all having-been-offered for [the] bearing (the) sins of-many, will-appear (a) second-time2 aside from sin to-the-ones expectantly awaiting him unto salvation.</span>

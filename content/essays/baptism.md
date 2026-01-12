@@ -1,0 +1,15 @@
+---
+author: Virgil warren     christir.org
+categories:
+- CIR  NOTION IN A NUTSHELL needs addeds
+date: '2026-01-11'
+draft: false
+title: BAPTISM
+weight: 999
+---
+
+BAPTISM
+
+Baptism is for interpersonal identification with Christ. In consequence of identity with him, God gives whatever the situation calls for: forgiveness of sins, gift of the Spirit, membership in the body of Christ.
+
+Virgil warren     christir.org

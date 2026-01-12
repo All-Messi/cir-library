@@ -1,0 +1,973 @@
+---
+author: Virgil Warren, PhD
+categories:
+- Bible Resources
+date: '2026-01-11'
+draft: false
+title: 2 KINGS
+weight: 1
+---
+
+2 KINGS
+
+Conversational Yahveh Covenant
+
+Yahveh’s Judgment on Ahaziah
+
+1:1After Ahab died, Moab revolted against Israel.
+
+2Ahaziah fell through the lattice in his upper room in Samaria and seriously injured himself. He told messengers to go ask Baal-zebub, Ekron’s god, if he’d recover. 3But the angel of Yahveh told Elijah the Tishbite,
+
+“Go meet the king’s messengers and say, ‘Are you asking Baal-zebub because there’s no God in Israel?’ 4So Yahveh says you won’t get out of bed. You’ll die.”
+
+Then Elijah left.
+
+5When the messengers came back, he said, “Why’d you come back?”
+
+6“A man came up to us and said to go back and tell you that Yahveh says, ‘Are you asking Baal-zebub because there’s no God in Israel? You won’t get out of bed.’”
+
+7“What did he look like?”
+
+8“He was wearing a leather belt and clothes made out of hair.”
+
+“That was Elijah the Tishbite.” 	2 Kg 1:1-8
+
+9The king sent him a captain with his 50 men to arrest him. He went up to Elijah, who was sitting on a hill, “Man of God, the king says to come down!”
+
+10“If I’m a ‘man of God,’ fire from the sky will consume you and your 50 men.” That’s what happened.
+
+11He sent another captain with his 50 men. “Man of God, the king says to come down now!”
+
+12“If I’m a ‘man of God,’ fire from the sky will consume you and your 50 men.” That’s what happened.
+
+13He sent a third captain with his 50 men. When the captain came up, he knelt to Elijah, begging him,
+
+“Man of God, please value my life and the lives of these 50 servants of yours. 14Fire from the sky consumed the first two captains with their men. Regard my life as worth something to you.”
+
+15The angel of Yahveh told Elijah, “Go with him; don’t be afraid of him.”
+
+16Elijah told Ahaziah,
+
+“Yahveh says, ‘Is there no God in Israel? Since you’ve asked Baal-zebub, you won’t get out of bed.’”
+
+17He died, and Jehoram became king in the second year of Jehoram Ben-Jehoshaphat, king of Judah, because Ahaziah didn’t have a son. 18The rest of his acts are recorded in The Chronicles of the Kings of Israel.	 2 Kg 1:9-18
+
+Elijah Taken Up to Heaven
+
+2:1Yahveh was getting ready to take Elijah up in a tornado. Elijah went with Elisha from Gilgal 2and told him, “Stay here. Yahveh has sent me to Bethel.”
+
+“As sure as Yahveh lives and you live, I won’t leave you.” They went down to Bethel. 3The company of prophets in Bethel came out to Elisha, “Do you know Yahveh’s going to take your master away today?”
+
+“Yes, I know. Keep it to yourselves.”
+
+4Elijah told him, “Stay here. Yahveh has sent me to Jericho.”
+
+“As sure as Yahveh lives and you live, I won’t leave you.” They went on to Jericho. 5The company of prophets in Jericho came to Elisha, “Do you know Yahveh’s going to take your master away today?”
+
+“Yes, I know. Keep it to yourselves.”
+
+6Elijah told him. “Stay here. Yahveh has sent me to the Jordan.”
+
+He said, “As sure as Yahveh lives and you live, I won’t leave you.” They continued on.
+
+Kg 2:1-6
+
+7Fifty men from the company of prophets came and stood at a distance on the other side of the Jordan while the two of them stood on this side. 8Elijah took his mantle, rolled it up, and struck the water. It separated from one side to the other, so the two of them crossed on dry riverbed. 9Then Elijah asked Elisha, “What should I do for you before I leave?”
+
+“Put a double portion of your spirit on me.”
+
+10“You’re asking for a lot. But if you see me when Yahveh’s taking me away, your request will happen. If you don’t, it won’t.”
+
+11As they went along talking, a flaming chariot with flaming horses appeared and separated them. Elijah ascended to the sky in a tornado. 12Elisha saw it and cried out, “Father! Father! The chariotry of Israel and its drivers!” He never saw him again. He tore his clothes, 13picked up the mantle that Elijah had dropped, and went back to the Jordan. 14He struck the water with it and said, “Where’s Yahveh, Elijah’s God?” The water separated from one side to the other, and he went back across.	2 Kg 2:7-14
+
+15The school of the prophets in Jericho saw what happened, “Elijah’s spirit is resting on Elisha.” They came to meet him and bowed to the ground, 16“Please let these fifty strong men go look for your master. Maybe the wind from Yahveh has taken him up and dropped him on some mountain or in some valley.”
+
+He said, “Don’t do that.” 17They urged him till he felt embarrassed, “Go ahead, then.” They sent the 50 men, who searched for three days without finding him. 18They came back while Elisha was at Jericho.
+
+“Didn’t I tell you not to go?”
+
+Elisha Heals the Water
+
+19Then the men in the city told Elisha, “This city is a nice place to live in, as you can see, but the water’s bad and the ground causes barrenness.”
+
+20He said, “Bring me a new jug and put salt in it.”
+
+They brought one, 21and he went out to the spring and threw the salt in it, “Yahveh says he’s purified the water. It won’t cause death or barrenness anymore.” 22The water is still pure.
+
+Forty-Two Youths Jeer Elisha
+
+23As he was climbing the road from there to Bethel, some young boys came out of the city to taunt him, “Ascend, baldy! Ascend, baldy!”
+
+24When he looked back, he put a curse on them in the name of Yahveh. Two female bears came out of the woods and mauled 42 of them. 25He went on from there to Mount Carmel and then back to Samaria.	 2 Kg 2:15-25
+
+Moab Revolts
+
+3:1Jehoram Ben-Ahab became king of Israel in Samaria in the eighteenth year of Jehoshaphat king of Judah, and ruled for 12 years. 2He did evil, though not as bad as his parents. He did put away Baal’s sacred pillar his father had built, 3but he held onto the sins of JeroboamI that got Israel to sin.
+
+4Mesha, king of Moab, raised sheep and was paying the king of Israel 100,000 lambs and the wool from 100,000 rams. 5But when Ahab died, he revolted. 6Jehoram went out from Samaria and mustered all Israel. 7He sent word to Jehoshaphat, “The king of Moab has revolted against me. Will you help me fight Moab?”
+
+“Yes, I’m like you, my troops like yours, my horses like yours.”
+
+8He said, “Which way will we go up?”
+
+“From the Wilderness of Edom.” 	2 Kg 3:1-8
+
+9The king of Israel went with the king of Judah and the king of Edom. They made a circuit of a week’s journey, and there wasn’t any water for the army or the livestock that they had with them. 10The king of Israel said, “What are we going to do? Yahveh has called these three kings to deliver them to Moab!” 11But Jehoshaphat said, “Isn’t there a prophet of Yahveh here we can ask?”
+
+One of the king’s officials answered, “Elisha Ben-Shaphat. He used to pour water on Elijah’s hands.”
+
+12Jehoshaphat agreed, “He prophesies for Yahveh.”
+
+The king of Israel, Jehoshaphat, and the king of Edom went down to him.
+
+13Elisha told the king of Israel, “Why come to me? Go to your parents’ prophets.”
+
+“No, Yahveh called these three kings together to deliver them to Moab!” 	2 Kg 3:9-13
+
+14Elisha said,
+
+“As Yahveh of Hosts lives that I serve, if it weren’t that I care about Jehoshaphat, I wouldn’t even look at yousg. 15Bring me a musician.”
+
+While the musician played, Yahveh came on him. 16He said,
+
+“Yahveh says to fill this valley with trenches. 17You won’t see wind or rain, but the valley will be full of water for you, your cattle, and other animals. 18This is just a little thing for Yahveh to deliver the Moabites to you. 19Then strike every fortified city, every select city, cut down every fruit tree, stop up every spring, and trash every cultivated piece of land with rocks.’”
+
+20The next day about the time of morning sacrifice, water flowed down from Edom, and the country was full of water.	 2 Kg 3:14-20
+
+21The Moabites heard that the kings had come up to fight them. They called in everybody that could put on armor and stationed themselves along the border. 22When they got up early, the morning sun was reflecting off the water. From a distance it looked red like blood. 23They said, “The kings must have fought and killed one another. Now Moab, to your spoils!” 24But when they got to the camp, the Israelites rose up and struck them, and they fled. The Israelites advanced into the land, slaughtering the Moabites. 25They destroyed their towns, and each one threw a rock on every piece of cultivated land and trashed it. They stopped up the springs and cut down the fruit trees till in Kir-hareseth only they left its rocks alone. But the stone slingers surrounded it and attacked it. 26When the king of Moab saw that the battle was too fierce for him, he took 700 swordsmen to break through near the king of Edom, but they couldn’t. 27Then he took his oldest son, who was to reign, and offered him as a burnt offering on the wall. Great horror came over Israel, and they went home.	 2 Kg 3:21-27
+
+The Widow’s Oil Jar
+
+4:1The wife of a man from the company of prophets cried out to Elisha, “My husband’s dead. You know how he respected Yahveh. A creditor has come to take my two children as his slaves.”
+
+2“What can I do? What do you have in the house?”
+
+“Nothing but a jug of oil.”
+
+3He said,
+
+“Borrow containers from your neighbors—not just a few. 4You and your sons go in and shut the door. Pour the oil into those containers and set the full ones aside.”
+
+5She went in and shut the door. They brought her the containers, and she poured out the oil. 6When they were full, she told her son, “Bring me another one.”
+
+He said, “There aren’t any more.” The oil stopped.
+
+7She went and told the man of God.
+
+He said, “Sell the oil to pay your debt. You and your sons can use the rest.”  	2 Kg 4:1-7
+
+The Shunammite’s Son Resurrected
+
+8Elisha passed over to Shunem, where a well-to-do woman lived. She persuaded him to eat there. So, whenever he went by, he’d stop there to eat. 9She told her husband,
+
+“I sense that this is a holy man of God. 10Let’s build a small upper room with walls, and put a bed, table and chair, and lampstand in there for him. When he comes, he can turn in there.”
+
+11One day he came and turned in to the upper room and rested. 12He told Gehazi his servant to call the Shunammite.
+
+When she came, 13Elisha told him to tell her, “You’ve taken care of us so often. What can I do for you? Do you want me to speak to the king or the commander of the army for you?”
+
+She answered, “I live among my own people.”
+
+14He asked Gehazi, “What can we do for her?”
+
+“She doesn’t have a son, and her husband is elderly.”
+
+15“Call her.”
+
+She came to the doorway. 16He said, “At this time next year, you’ll be holding a son.”
+
+“Man of God, don’t give me false hope!” 17She did get pregnant and had a son at that time the next year.	 2 Kg 4:8-17
+
+18When the boy was growing up, he went out to his father and the harvest crew one day, 19and told him, “My head hurts! my head hurts!” He told his servant, “Carry him to his mother.” 20When he got him to her, the boy sat on her lap till noon and died. 21She went up and laid him on the man of God’s bed, shut the door, and went out. 22She called her husband, “Send me a servant and a donkey so I can go quick to the man of God and back.”
+
+23“Why go to him today? It’s not a new moon or Sabbath.”
+
+She said, “It’ll be good.” 24She saddled the donkey and told her servant, “Drive the animal! Don’t slow down unless I tell you.” 25She went to the man of God on Mount Carmel. When he saw her at a distance, he said to Gehazi, “That’s the Shunammite. 26Run and ask her if she and her husband and boy are all right.”
+
+She answered, “Yes.” 	2 Kg 4:18-27
+
+27When she came to the man of God on the hill, she took hold of his feet. Gehazi came to pull her away, but he said, “Let her alone; she’s upset. Yahveh hasn’t revealed it to me.”
+
+28She said, “Did I ask you for a son? Didn’t I say not to give me false hope?”
+
+29He told Gehazi, “Gird up*, take my staff, and go. Don’t greet anybody. If anybody greets you, don’t answer. Lay my staff on the boy’s face.” 30The mother swore, “As sure as Yahveh lives and you live, I won’t leave without you.” He went along. 31Gehazi went on ahead and laid the staff on the boy’s face, but he didn’t make a sound or respond. Gehazi went back and told him, “The boy hasn’t woken up.” 32When Elisha went into the house, the boy was dead on the bed. 33He went in, shut the door, and prayed to Yahveh. 34He went and lay down on the child, mouth to mouth, eyes to eyes, hands to hands, and stretched out on him. The child’s body got warm. 35He came back and paced back and forth in the house, and went up and stretched out on him again. The boy sneezed seven times and opened his eyes. 36He called Gehazi, “Call her.” When she came in, he said, “Pick up your boy.” 37She fell at his feet and bowed to the floor. She picked up the boy and went out.  	2 Kg 4:28-37
+
+The Toxic Gourds
+
+38When Elisha got back to Gilgal, there was a famine in the land. As men from the company of prophets were sitting with him, he told Gehazi, “Put on a large pot and heat stew for them.” 39One of them went out into the field to gather plants, found a wild vine, and gathered his lap full of gourds from it. He came and sliced them into the pot of stew. They didn’t know what they were. 40They poured it out for the people to eat. After they’d eaten a little, they cried out, “Man of God, there’s poison in this stew!” 41He said, “Bring some meal.” He threw it into the pot and said, “Pour it out for the people to eat.”  Then there wasn’t anything harmful in it.
+
+Bread for a Hundred Men
+
+42A man came from Baal-shalishah and brought the man of God bread in a sack from the first fruit of his harvest: 20 barley loaves made from fresh grain. Elisha said, “Give them to the people to eat.” 43His attendant said, “What? How can I feed 100 men with this?” But he said, “Give it to them; Yahveh says they’ll eat and have some left over.” 44He set it in front of them, and they ate and had some left over.	2 Kg 4:38-44
+
+Naaman’s Leprosy Healed
+
+5:1Naaman, commander of Aram’s army, was a great man with his master and highly respected, because by him Yahveh had given victory to Aram. He was a mighty soldier, but he was a leper. 2The Arameans had gone out in bands and taken captive a little girl from Israel, who became a maid for Naaman’s wife. 3She told her mistress, “I wish my master would go see the prophet that’s in Samaria. He’d cure his leprosy.”
+
+4Naaman went in and told his master what she’d said.
+
+5The king said, “Go ahead. I’ll send a letter to the king of Israel.”
+
+He left with 755 lbs 10 talents of silver, 150 lbs 6,000 shekels of gold, and 10 changes of clothes. 6He took the letter to king Ahab and said, “Along with this letter, I’ve sent my servant Naaman so you can cure his leprosy.”
+
+7When he read it, he tore his clothes,
+
+“Am I God, to kill and make alive, that this man is sending me a message to cure a man from leprosy? He’s trying to pick a fight.”	 2 Kg 5:1-7
+
+8When Elisha heard the king had torn his clothes, he sent him a message, “Why tear your clothes? Send him to me. He’ll know there’s a prophet in Israel.” 9Naaman went with his horses and chariots, and stood at Elisha’s door. 10Elisha sent his messenger to him, “Go dip yourself seven times in the Jordan River. Your flesh will be restored, and you’ll be clean.” 11Naaman was furious and left,
+
+“I thought surely he’d come out and call on Yahveh his God, and wave his hand over the place to cure a leper. 12Aren’t Abanah and Pharpar, rivers of Damascus, better than any river in Israel? Couldn’t I have dipped myself in them to be clean?”
+
+He turned around and left in a rage.
+
+13His officers came up to him,
+
+“Father, if the prophet had told you to do something difficult, wouldn’t you have done it? How much more when he just says to dip yourself to be clean?”
+
+14He went down and dipped himself seven times in the Jordan. His flesh became like a little child’s, and he was clean. 	2 Kg 5:8-14
+
+15He went back to the man of God with his company, stood in front of him, and said, “Now I know there’s no God except in Israel. Please accept a present from me.”
+
+16But Elisha swore, “As sure as Yahveh lives that I serve, I won’t take a thing.”
+
+He urged him to take it, but he refused.
+
+17Naaman said,
+
+“If not, please let me at least have two mules’ loads of dirt, because I won’t offer burnt offering or sacrifice to any god but Yahveh. 18May Yahveh pardon me when my master goes into Rimmon’s temple to worship and leans on my hand and I bow there too.”
+
+19He told him, “Have a good day.”
+
+He went away to go home.	  2 Kg 5:15-19
+
+20Gehazi thought, “My master has spared this Naaman the Aramean by not accepting what he brought. As sure as Yahveh lives, I’ll run and accept something from him.” 21When Naaman saw somebody running after him, he got down out of the chariot to meet him, “Is everything all right?”
+
+22He said,
+
+“Everything’s fine. My master sent me to say that two young men from the school of the prophets just came from the hill country of Ephraim. Please give them 75½ lbs a talent of silver and two changes of clothes.”
+
+23Naaman said, “Please take 151 lbs two talents.” 	2 Kg 5:20-23a
+
+He urged him and put 151 lbs two talents of silver in two bags with two changes of clothes, and gave them to two of his men to carry ahead of him. 24When Gehazi got to the hill, he took them and put them in the house, and they left. 25But when he went inside, Elisha said, “Where’ve you been?”
+
+“I didn’t go anywhere.”
+
+26Didn’t my spirit go with you when the man turned from his chariot to meet you? Is it a time to receive money and clothes, olive orchards and vineyards, sheep and oxen, male and female servants? 27You and your descendants will permanently have to cope with leprosy like Naaman’s.”
+
+He went away as a leper as white as snow.	 2 Kg 5:23b-27
+
+The Floating Ax head
+
+6:1The school of the prophets told Elisha,
+
+“There’s not enough room where we’re living. 2Let us go to the Jordan, and each take a log to build a place there to live.”
+
+“Go ahead.”
+
+3One of them asked him to come along.
+
+4He went along to the Jordan, and they started cutting down trees.
+
+5But as one of them was cutting down a tree for a beam, the axe head fell in the water. He cried out, “Master! I borrowed it!”
+
+6The man of God said, “Where did it fall?” When he showed him, he cut off a stick and threw it in there and made the iron float.
+
+7He said, “Pick it up.” He reached out and took it.	 2 Kg 6:1-7
+
+Elisha Traps Blinded Arameans
+
+8The king of Aram was at war with Israel. He advised his officers, “I’m going to camp in such and such a place.” 9The man of God sent a message to the king of Israel, “Don’t go near that place; the Arameans are coming down there.” 10The king of Israel sent to where the man of God told him. He warned him more than once, so he guarded himself there.
+
+11The king of Aram was mad and called his officers, “Who’s been an informant for the king of Israel?”
+
+12One of the officers said, “No, my lord the king! Elisha the prophet in Israel tells him what you say in your bedroom.”
+
+13“Go see where he is so I can send and capture him.”
+
+He found out he was in Dothan.
+
+14The king of Aram sent horses, chariots, and a big army and surrounded the city at night.
+
+2 Kg 6:8-14
+
+15When the man of God’s attendant got up early and went out, an army was circling the city with horses and chariots. He said, “Master! What are we going to do?”
+
+16“Don’t be afraid. There are more with us than with them. 17Show him, LORD.”
+
+Yahveh let him see that the mountains all around were full of horses and flaming chariots. 18When they came down to him, Elisha prayed, “Strike them with blindness.” He did. 19Elisha told them, “This is not the way, and this is not the city. Follow me and I’ll take you to the man you’re looking for.” He took them to Samaria.
+
+20When they got there, Elisha said, “Yahveh, let them see.” He let them see again that they were in the middle of Samaria. 21When the king of Israel saw them, he said to Elisha, “Father! Should I kill them?”
+
+22“No. Would you kill the ones you’ve taken captive with your sword and bow? Give them bread and water so they can eat and drink and go home to their master.”
+
+23He prepared a big banquet for them. When they’d eaten, he sent them away. Marauding bands from Aram never came into Israel again.	 2 Kg 6:15-23
+
+Severe Famine in Samaria
+
+24After that, Benhadad, king of Aram, gathered his army, went up, and laid siege to Samaria. 25There was a severe famine in Samaria, and they laid siege to it till a donkey’s head sold for 2 lbs 80 shekels of silver and a pint ¼  cab of pigeon manure sold for 2 oz 5 shekels of silver.
+
+26As the king was passing by on the wall, a woman cried out to him, “Help, my lord the king.” 27He said, “If Yahveh doesn’t help you, where will I help you from? From the threshing floor or the winepress? 28What’s the matter with you?”
+
+She answered,
+
+“This woman said to me, ‘Give your son so we can eat him today, and we’ll eat my son tomorrow.’ 29We boiled my son and ate him, and I told her the next day, ‘Give your son so we can eat him’; but she has hidden her son.”
+
+30When the king heard it, he tore his clothes—he was passing by on the wall—and the people looked, and he had burlap under his body. 31Then he said, “God do so to me and more if Elisha’s head remains on him today.”	 2 Kg 6:24-31
+
+32Elisha and the elders were sitting in his house. The king sent a man; but before he got there, Elisha told the elders,
+
+“Do you see how this murderer’s son has sent to take away my head? When the messenger comes, shut the door and hold it shut against him. Isn’t the sound of his master’s feet behind him?”
+
+33While he was still talking, the messenger came down to him, and he said, “This disaster is from Yahveh. Why should I wait for Yahveh any longer?” 	2 Kg 6:32-33
+
+The Siege of Samaria Lifted
+
+7:1Elisha said, “Listen to Yahveh’s message, ‘Tomorrow about now, .36 bushel 1 seah of fine flour will sell for .4 oz a shekel of silver, and .73 bushel 2 seahs of barley for .4 oz a shekel in Samaria’s gate.’”
+
+2The royal officer whose hand the king was leaning on answered, “If Yahveh opened floodgates in the sky, could that be?”
+
+He said, “You’ll see it yourself, but you won’t eat any.
+
+3Four lepers were sitting at the entrance to the city gate. They talked among themselves, “Why are we sitting here till we die? 4If we go into the city, we’ll starve to death. If we sit here, we’ll die.” 5As it was getting dark, they went to the Arameans’ camp. When they got to the edge of it, nobody was there. 6Yahveh had made the army hear the chariots and horses of a big army. They told one another, “The king of Israel has hired the Hittites and Egyptians to attack us.” 7They ran for their lives in the twilight and abandoned their tents, their horses and donkeys, and the camp just like it was. 8When the lepers got to the camp, they went into one tent and ate and drank, and carried away silver, gold, and clothes, and hid them. They went back into another tent and carried things away and hid them.	 2 Kg 7:1-8
+
+9Then they said,
+
+“What we’re doing is not right. There’s good news, but we’re not telling it. If we wait till morning light, we’ll suffer for it. Come on, let’s tell the king’s household.”
+
+10They went and called to the city gatekeepers, “We went to the Arameans’ camp, and nobody was there, not a human voice, just horses and donkeys tied up and tents standing there.”
+
+11The gatekeepers called out to the king’s household.
+
+12The king got up during the night and told his officers,
+
+“The Arameans know we’re starving; they’ve left camp to hide in the countryside. When we come out of the city, they’ll capture us and get into the city.”
+
+13One of his officers answered,
+
+“Have some men take five of the horses left in the city. They’ll be like the great number that’s left in it anyway. They’ll be like the big number in Israel that have already perished. Let’s send and see.”
+
+14The king sent two chariots with horses to look for the Aramean army. 15and they tracked them to the Jordan. All along the road were clothes and equipment they’d thrown away as they fled. The messengers came back and told the king.	 2 Kg 7:9-15
+
+16The people went out and plundered Aram’s camp; .36 bushel 1 seah of fine flour sold for .4 oz a shekel and .73 bushel 2 seahs of barley for .4 oz a shekel—like Yahveh had said. 17The king appointed the royal officer he depended on to take charge of the gate, but the people trampled him. He died like the man of God had said when the king came down to him: 18“.73 bushel 2 seahs of barley for .4 oz a shekel of silver, .36 bushel 1 seah of fine flour for .4 oz a shekel, will sell tomorrow about this time at the gate of Samaria.”
+
+19The royal officer had answered the man of God, “If Yahveh opened the floodgates in the sky, could such a thing happen?”
+
+He said, “You’ll see it for yourself, but you won’t eat any of it.”
+
+20That’s what happened because the people trampled him to death at the gate.  2 Kg 7:16-20
+
+The Shunammite’s Land Restored
+
+8:1Elisha told the woman whose son he’d revived, “Take your family and live temporarily wherever you can. Yahveh has called for a seven-year famine here.” 2They went to stay with the Philistines. 3Seven years later, she came back and appealed to the king for her house and farm. 4He was talking to Gehazi, the man of God’s servant, “Tell me the great things Elisha has done.” 5As he was telling him how he’d restored life to a boy, she appealed to the king for her house and farm. Gehazi said, “My lord the king, that’s the woman, and that’s her son!” 6When the king asked her, she told him about it. He appointed an officer to give her back everything, including the crops since she left.	 2 Kg 8:1-6
+
+Hazael Murders Ben-Hadad
+
+7Elisha went to Damascus. Benhadad, king of Aram, was sick and heard that the man of God was there. 8He told Hazael, “Take him a gift and ask Yahveh by him if I’ll recover.” 9Hazael went to meet him with a gift, every kind of good thing in Damascus—40 camel loads. He stood in front of him and said, “Your son Benhadad, king of Aram, has sent me to ask you if he’ll recover from his sickness.”
+
+10Elisha said, “He’ll recover, but Yahveh has shown me that he’ll certainly die.” 11He stared at him till he was embarrassed, and the man of God cried.
+
+12Hazael said, “Why are you crying, Sir?”
+
+“Because I know the terrible things you’ll do to Israel. You’ll set their fortresses on fire, kill their young men with the sword, dash their little ones to pieces, and rip open their pregnant women.”
+
+13“What am I, a dog, to do things like that?”
+
+Elisha answered, “Yahveh has shown me that you’ll be king of Aram.”
+
+14He went back to his master, who said, “What did Elisha say to you?”
+
+“He said you’d recover.”
+
+15The next day Hazael dipped a blanket in water and pressed it over Benhadad’s face, to kill him. Hazael became king.	 2 Kg 8:7-15
+
+Jehoram Rules in Judah
+
+16In the fifth year of Joram/Jehoram Ben-Ahab, king of Israel—who ruled at the time of Jehoshaphat, king of Judah—Jehoram Ben-Jehoshaphat became king. 17He was 32 and ruled for 8 years in Jerusalem. 18He followed Israel’s kings like Ahab had done because he’d married Ahab’s daughter. He did evil, 19but for David’s sake Yahveh wasn’t willing to destroy Judah. He’d promised to always give him a lamp through his descendants.
+
+20During his reign, Edom revolted from Judah and appointed a king. 21Joram and his chariots crossed over to Zair. He got up at night and struck at the Edomites that had surrounded him and the captains of the chariots, but his army fled to their tents. 22Edom has been in revolt against Judah ever since. 23The rest of the acts of Joram/Jehoram are recorded in The Chronicles of the Kings of Judah. 24He died and they buried him in The City of David. His son Ahaziah became king. 	2 Kg 8:16-24
+
+Ahaziah Rules in Judah
+
+25In the twelfth year of Joram/Jehoram Ben-Ahab, king of Israel, Ahaziah Ben-Jehoram began to rule. 26He was 22 and ruled for 1 year in Jerusalem. His mother was Athaliah, granddaughter of Omri, king of Israel. 27He did evil like Ahab’s family had done because he was Ahab’s son-in-law. 28He went to war along with Joram against Hazael, king of Aram in Ramoth-gilead, and the Arameans wounded him. 29King Joram came back to Jezreel to heal up. Then Ahaziah went down to see Joram because he’d been wounded.	 2 Kg 8:25-29
+
+Jehu Anointed King in Israel
+
+9:1Elisha called a man from the school of the prophets,
+
+“Gird up*, take this flask of oil to Ramoth-gilead. 2Find Jehu Ben-Jehoshaphat Ben-Nimshi. Tell him to get up from his companions and take him to a room inside. 3Pour the flask of olive oil on his head and say, ‘Yahveh says, “I’ve anointed you king over Israel.”’ Then open the door and run.”
+
+4The young man went to Ramoth-gilead. 5The commanders of the army were sitting there, and he said, “I have a message for you, commander.”
+
+Jehu said, “Which one?”
+
+“You, Sir.” 	2 Kg 9:1-5
+
+6He got up and went into the house. The young man poured the oil on his head,
+
+“Yahveh God of Israel says, ‘I’ve anointed you king over his people Israel. 7Strike Ahab’s family so I can avenge the blood of my prophets that Jezebel shed. 8Ahab’s family will perish, and I’ll remove from him every male, bond and free. 9I’ll destroy his family like Jeroboam’sI and Baasha’s. 10Dogs will eat Jezebel in Jezreel, and nobody will bury her.’”
+
+He opened the door and ran.
+
+11Jehu came out to the other officers, and one of them asked, “Is everything all right? Why did that mad fellow come to you?”
+
+He said, “You know very well how a man like him can babble.”
+
+12“That’s not what happened. Tell us.”
+
+He said, “He said such and such, ‘Yahveh says, “I’ve anointed you king of Israel.”’”
+
+13Each man hurried and put his cloak under Jehu on the bare steps, blew the bugle, and said, “Jehu is king!”	 2 Kg 9:6-13
+
+Jehu Kills Joram and Ahaziah
+
+14Jehu plotted against Joram. With all Israel, Joram had been defending Ramoth-gilead against Hazael, king of Aram, 15but he’d gone back to Jezreel to heal from wounds he got from the Arameans. Jehu said, “If you agree, don’t let anybody leave the city to tell it in Jezreel.”
+
+16Then Jehu rode a chariot to Jezreel because Joram was lying there healing. Ahaziah, king of Judah, had come down to see Joram. 17A watchman standing on the tower in Jezreel saw Jehu’s company of soldiers, “A company is coming.”
+
+Joram said, “Send a horseman to meet them and ask him if he’s coming in peace.”
+
+18A horseman went to meet him, “The king asks if you’re coming in peace.”
+
+Jehu said, “What do you have to do with peace? Defect and follow me.”
+
+The watchman reported, “The messenger went to them, but didn’t come back.”
+
+19He sent out a second horseman, “The king asks if you’re coming in peace.”
+
+Jehu answered, “What do you have to do with peace? Defect and follow me.”
+
+20The watchman reported, “He went to them, but didn’t come back. His driving is furious like Jehu’s.”	 2 Kg 9:14-20
+
+21Joram said, “Get my chariot ready.” They got it ready. Joram and Ahaziah went out in their chariots to meet Jehu and found him on Naboth’s property. 22When Joram saw Jehu, he said, “Are you coming in peace, Jehu?”
+
+“What peace, with so many of your mother’s prostitutions and witchcrafts?”
+
+23Joram reined around and fled. He told Ahaziah, “It’s treason!”
+
+24Jehu drew his bow with his full strength and shot Joram between his arms. The arrow went through his heart, and he sank in his chariot. 25Then Jehu told Bidkar his officer,
+
+“Pick him up and throw him on Naboth’s field. Remember when we were riding behind his father Ahab, Yahveh laid this oracle against him: 26‘I certainly saw the blood of Naboth and his sons yesterday. I’ll pay you back on that property.’ Throw him on the property like Yahveh said.”
+
+27When Ahaziah saw that, he fled past the garden house. Jehu chased him and said, “Shoot him, too, in the chariot.” They shot him at the ascent of Gur, at Ibleam. He fled as far as Megiddo and died. 28His servants hauled him to Jerusalem in a chariot and buried him in his own grave with his ancestors in The City of David. 29Ahaziah had become king in Judah in the eleventh year of Joram.	 2 Kg 9:21-29
+
+Jezebel Killed
+
+30When Jehu arrived at Jezreel, Jezebel heard about it, and put on eye shadow and adorned her head, and looked out the window. 31When Jehu came in the gate, she said, “Is everything all right, Zimri, your master’s murderer?”
+
+32He looked up at the window and said, “Who’s with me?”
+
+Two of the three officials looked down.
+
+33“Throw her down.”
+
+They threw her down, and her blood spattered on the wall and the horses, and he tramped her under his horses hooves. 34He came in and ate, and said, “See to that cursed woman and bury her. She is a king’s daughter.” 35They went to bury her, but they couldn’t find any of her except skull, feet, and palms. 36They came back and told him. He said,
+
+“Yahveh said by Elijah, ‘Dogs will eat her body on her property. 37Her corpse will be like manure on her field; people won’t be able to tell if it’s Jezebel.’” 	2 Kg 9:30-37
+
+Ahab’s Family Killed
+
+10:1Ahab had 70 sons in Samaria. Jehu wrote letters to Samaria, to the rulers in Jezreel, the elders, and the guardians of Ahab’s children,
+
+2“When you get this letter, since your master’s sons are with you—as well as the chariots, horses, a fortified city, and weapons—3select the best and fittest son, set him on his father’s throne, and fight for your master’s family.”
+
+4But they were too afraid, “Two kings couldn’t stand against him. How can we?”
+
+5The steward of the household, the mayor of the city, the elders, and the guardians of the children sent Jehu a message, “We’re your servants; we’ll do whatever you say. We won’t make anybody king. Do what you want to.” 6He wrote them a second letter,
+
+“If you’re with me, take the heads of your master’s sons and meet me at Jezreel tomorrow about this time.” 	2 Kg 10:1-6a
+
+The chief men in the city were raising the king’s sons. 7When the letter came, they killed his 70 sons, put their heads in baskets, and sent them to Jehu at Jezreel.
+
+8A messenger told him, “They’ve brought the heads of the king’s sons.”
+
+He said, “Put them in two piles at the entrance to the gate till morning.”
+
+9In the morning he went out and told the people,
+
+“You’re innocent. I plotted against your master and killed him, but who killed all these? 10Know then that nothing Yahveh said about Ahab’s family will fall to the ground. He’s done what he said through Elijah.”
+
+11Jehu killed everybody from Ahab’s family in Jezreel, as well as his chief men, acquaintances, and priests. There weren’t any survivors.
+
+12He left and went to Samaria. On the way, at Beth-eked of the Shepherds, 13he met the relatives of Ahaziah, king of Judah, “Who are you?”
+
+“Ahaziah’s relatives. We’ve come down to greet the king’s sons and the queen mother.”
+
+14He said, “Take them alive.”
+
+They took them alive and then decided to kill every one of them at the pit at Beth-eked—42 men.	 2 Kg 10:6b-14
+
+15When he left there, he met Jehonadab Ben-Rechad, coming to meet him. He greeted him, “Is your heart right, as my heart is with yours?”
+
+“Yes.”
+
+Jehu said, “Give me your hand.” He took him up into the chariot, 16“Come with me and see how devoted I am to Yahveh.” He had him ride in his chariot.  17When he got to Samaria, he killed everybody that remained to Ahab there—like Yahveh told Elijah.
+
+The Baal Prophets Killed
+
+18Then Jehu got the people together and told them,
+
+“Ahab served Baal a little; I’ll serve him a lot. 19Call the Baal prophets, worshipers, and priests. Make sure everybody’s here because I’m holding a great sacrifice for Baal. Whoever’s absent won’t live.”
+
+But it was a trick to destroy the Baal worshipers. 20He said, “Sanctify a solemn assembly for Baal.” They declared it. 21He sent all over Israel and the Baal worshipers came. There wasn’t a man that didn’t go into Baal’s temple and fill it end to end. 22He told the one in charge of the wardrobe, “Bring out robes for the worshipers.” He did that. 23Jehu went in with Jehonadab and told the Baal worshipers, “Make sure there aren’t any worshipers of Yahveh.” 24Then they went in to offer sacrifices and burnt offerings. Jehu had stationed 80 men outside, “Whoever lets a man escape that I bring to you will give his life in exchange for it.” 	2 Kg 10:15-24
+
+25As soon as he’d finished offering the burnt offering, Jehu told the guard and royal officers, “Go in, kill them; don’t let anybody get out.” They killed them with swords, and the guard and royal officers threw them out. They went to the inner room of Baal’s temple 26and brought out the sacred pillars and burned them. 27They demolished his sacred pillar, tore down his temple, and made it a toilet ever since. 28So Jehu eradicated Baal from Israel.
+
+29But, Jehu didn’t stop the sins Jeroboam caused Israel to do—the gold calves at Bethel and Dan. 30Yahveh told him, “Since you’ve done to Ahab’s family what I wanted, your descendants will sit on Israel’s throne for four generations.” 31But Jehu wasn’t careful to follow the Law of Yahveh with all his heart. 	2 Kg 10:25-31
+
+32Then Yahveh began to cut off parts of Israel. Hazael defeated them throughout Israel’s territory: 33from the Jordan eastward, all the land of Gilead, Gad, Reuben, and Manasseh, from Aroer by the valley of the Arnon—Gilead and Bashan. 34The rest of the acts of Jehu and the strength of his rule are recorded in The Chronicles of the Kings of Israel. 35He died and they buried him in Samaria. His son Jehoahaz became king. 36Jehu ruled Israel for 28 years in Samaria. 	2 Kg 10:32-36
+
+Queen Athaliah and Joash
+
+11:1When Athaliah, Ahaziah’s mother, saw her son was dead, she destroyed the other royal offspring. 2But Jehosheba, King Joram’s daughter, Ahaziah’s sister, stole Ahaziah’s son Joash from the king’s sons they were killing. She hid him with his nurse in a bedroom, so he wasn’t killed. 3She hid him in Yahveh’s Temple for 6 years while Athaliah ruled the country.
+
+2 Kg 11:1-3
+
+4In the seventh year, Jehoiada the priest sent for the commanders of hundreds of the Carite mercenaries together with the palace guard and brought them to Yahveh’s Temple. He made a covenant with them and put them under oath. He showed them the king’s son 5and told them,
+
+“A third of you that go on duty on the Sabbath and keep watch over the king’s palace 6will defend the palace (one-third at gate Shur and one-third at the gate behind the guards). 7Two parts of you that go on duty on the Sabbath will keep watch over Yahveh’s Temple for the king. 8Then surround the king with weapons in hand. Put to death whoever approaches the ranks. Be with the king when he goes out and comes in.”
+
+9Each commander of hundreds took his men that were to go off duty on the Sabbath, along with those that were to go on duty on the Sabbath, and came to Jehoiada. 10The priest gave the commanders King David’s spears and shields, which were in the Temple complex. 11The guards stood with weapons in hand, from the south side of the Temple to the north, by the altar and by the house, around the king’s son. 12He brought him out, put the crown on him, and gave him the Testimony. They anointed him king, clapped their hands, and said, “Long live the king!”
+
+2 Kg 11:4-12
+
+13When Athaliah heard the noise, she came to Yahveh’s Temple. 14She saw the king standing by the pillar according to custom with the captains and buglers beside him. The people were celebrating and blowing the bugles. She tore her clothes and cried, “Treason! Treason!” 15Jehoiada told the commanders over the army, “Bring her out between the ranks. Whoever follows her put to death with the sword. Don’t execute her in theY Temple.” 16They grabbed her, and when she got to the horses’ entrance at the king’s house, they put her to death.
+
+17Then Jehoiada made a covenant between Yahveh, the king, and the people that they would be Yahveh’s people. 18They tore down Baal’s temple, broke his altars and images into small pieces, and killed Mattan his priest by the altars. The priest appointed officers over the Temple. 19He took the commanders of hundreds, the Carite mercenaries, the guards, and the people. They brought the king down from the Temple past the guards’ gate to the king’s palace, and he took his seat on the throne. 20The people celebrated and the city grew quiet.
+
+21Jehoash was 7 when he became king.	 2 Kg 11:13-21
+
+Joash Repairs the Temple
+
+12:1In the seventh year of Jehu, Jehoash became king, and ruled for 40 years in Jerusalem. His mother was Zibiah of Beersheba. 2His whole life he did what was good like Jehoiada instructed him, 3except he didn’t take away the high places. The people still sacrificed and burned incense on them.
+
+4-5Jehoash told the priests,
+
+“Let the priests take the money for sacred things that’s brought into Yahveh’s Temple and make any repairs on the Temple—money collected from the census, payments for vows, and voluntary offerings.”
+
+6By his twenty-third year, the priests still hadn’t made the repairs. 7He said, “Why aren’t you repairing them? Don’t take any more money from your acquaintances. Hand it over for the damages to the Temple.” 8The priests agreed not to take any more money and to let others do the repairs.	 2 Kg 12:1-8
+
+9But Jehoiada took a chest, bored a hole in the lid, and put it on the right side the altar, where people come into Yahveh’s Temple. The priests that guarded the threshold put the money in it that people brought in. 10When the chest was getting full, the king’s secretary and the high priest counted it and tied it up in bags. 11-12They weighed out the money to the ones that oversaw the Temple. They paid it to the carpenters, builders, masons, and stonecutters, and bought the lumber, hewn stone, and any other costs for the repairs. 13But they didn’t make silver cups, snuffers, bowls, bugles, any gold or silver items from the money. 14They gave it to the repairmen 15and didn’t require any accounting from them because they were honest. 16Money from guilt offerings and sin offerings didn’t come into the Temple because it belonged to the priests.
+
+2 Kg 12:9-16
+
+17At that time, Hazael, king of Aram, went and conquered Gath, then turned toward Jerusalem. 18Jehoash/Joash took the sacred things that Jehoshaphat, Jehoram, and Ahaziah had dedicated, along with his own sacred things and the gold in the treasuries in Yahveh’s Temple and the king’s palace, and sent it to Hazael. So he let Jerusalem alone.
+
+19The rest of the acts of Joash/Jehoash are recorded in The Chronicles of the Kings of Judah. 20His officers led a conspiracy, and Jozacar Ben-Shimeath with Jehozabad Ben-Shomer assassinated him at Beth-millo on the way down to Silla. They buried him with his ancestors in The City of David. His son Amaziah became king.	2 Kg 12:17-21
+
+Jehoahaz Rules in Israel
+
+13:1In the twenty-third year of Joash/Jehoash Ben-Ahaziah, king of Judah, Jehoahaz Ben-Jehu became king of Israel in Samaria and ruled for 17 years. 2He followed the sins of JeroboamI that got Israel to sin. 3Yahveh’s anger flared; he kept delivering them to Hazael, king of Aram, and Benhadad his son. 4Jehoahaz asked for Yahveh’s help and he listened to him, because he saw the oppression by the king of Aram. 5Yahveh gave Israel a deliverer, and they escaped from under the Arameans and lived like before. 6But they didn’t turn away from the sins of JeroboamI that got Israel to sin; the Asherah pole remained standing in Samaria. 7The Arameans reduced Jehoahaz’s army to not more than 50 cavalry, 10 chariots, and 10,000 infantry, and made them like dust at threshing time. 8The rest of the acts of Jehoahaz and the strength of his rule are recorded in The Chronicles of the Kings of Israel. 9He died and they buried him in Samaria. His son Joash became king.        	 2 Kg 13:1-9
+
+Jehoash Rules in Israel
+
+10In the thirty-seventh year of Joash, king of Judah, Joash/Jehoash Ben-Jehoahaz became king of Israel in Samaria and ruled for 16 years. 11He didn’t turn away from the sins of Jeroboam that got Israel to sin. 12The rest of the acts of Joash and his strength in fighting Amaziah, king of Judah, are recorded in The Chronicles of the Kings of Israel. 13Joash died, and they buried him in Samaria with the kings of Israel. JeroboamII sat on his throne. 	2 Kg 13:10-13
+
+14When Elisha took sick with the illness he’d die from, Joash, king of Israel, came down and cried over him, “Father! Father! the chariots of Israel and their drivers!”
+
+15Elisha said, “Pick up a bow and arrows, 16and put your hand on the bow.”
+
+Elisha put his hands on the king’s hands. 17“Open the window toward the east. Shoot! Yahveh’s arrow of victory over Aram! You’ll destroy the Arameans at Aphek.”
+
+18Then he said, “Pick up some arrows and strike the floor.”
+
+He struck it three times and stopped.
+
+19The man of God was mad at him, “You should have struck it five or six times. Then you would have struck Aram till you’d destroyed it. But as it is, you’ll strike Aram only three times.”
+
+20Elisha died, and they buried him.
+
+Bands of Moabites would invade the land in the spring. 21Once, as some Israelites were burying a man, they saw a marauding band. They threw him into Elisha’s tomb and ran. When he touched Elisha’s bones, he came back to life and stood up.
+
+22Hazael, king of Aram, had oppressed Israel all the time of Jehoahaz. 23But Yahveh was gracious, had mercy, and turned to them because of his covenant with Abraham, Isaac, and Jacob. He still hadn’t destroyed them or thrown them out of his presence. 24When Hazael died, Benhadad his son became king. 25Jehoash took back the towns Hazael had taken in war from his father. Three times he defeated him and recovered Israel’s towns.	2 Kg 13:14-25
+
+Amaziah Rules in Judah
+
+14:1In the second year of Joash/Jehoash Ben-Joahaz, king of Israel, Amaziah Ben-Joash became king of Judah. 2He was 25 and ruled for 29 years in Jerusalem. His mother was Jehoaddin of Jerusalem. 3He did what was good, but not like David did. He did what Joash his father had done, 4but he didn’t take away the high places. The people still sacrificed and burned incense on them. 5As soon as the kingdom was firmly in hand, he executed the officials that had assassinated his father. 6He didn’t execute their sons, as the Law said that Yahveh commanded Moses, “Don’t execute parents for offspring or offspring for parents. Execute each person for that person’s sin.” 7He killed 10,000 Edomites in the Valley of Salt, took Sela, and named it Joktheel to this day.      	2 Kg 14:1-7
+
+8He sent ambassadors to Jehoash (Ben-Jehoahaz Ben-Jehu), king of Israel, “Come; let’s face each other.”
+
+9Jehoash, king of Israel, sent to Amaziah,
+
+“The thorn bush in Lebanon sent to the cedar in Lebanon, ‘Give your daughter to my son in marriage.’ But a wild animal in Lebanon passed by and tramped down the thorn bush. 10You’ve defeated Edom and become proud. Enjoy your honor and stay home. Why stir up trouble so you and Judah fall?”
+
+11But Amaziah ignored him; Jehoash went up and faced Amaziah at Beth-shemesh in Judah. 12Israel defeated Judah and each man fled home. 13Jehoash captured Amaziah at Beth-shemesh, came to Jerusalem, and tore down the wall from the Gate of Ephraim to the Corner Gate—600ft. 14He took the gold, silver, and utensils in Yahveh’s Temple and the king’s treasuries, as well as hostages, and went back to Samaria.
+
+15The rest of the acts of Jehoash, the strength of his rule, and his war with Amaziah are recorded in The Chronicles of the Kings of Israel. 16He died and they buried him in Samaria with the kings of Israel. His son JeroboamII became king.	2 Kg 14:8-16
+
+17Amaziah lived 15 years after the death of Jehoash. 18The rest of the acts of Amaziah are recorded in The Chronicles of the Kings of Judah. 19A conspiracy against him in Jerusalem caused him to flee to Lachish, but they sent assassins and killed him there. 20-21The people in Judah took his son Azariah/Uzziah and made him king at 16. 22He built Elath and restored it to Judah after the king died.
+
+Jeroboam II Rules in Israel
+
+23In the fifteenth year of Amaziah, JeroboamII Ben-Joash, king of Israel, became king in Samaria and ruled for 41 years. 24He didn’t abandon the sins of JeroboamI Ben-Nebat that got Israel to sin. 25He restored Israel’s border from Lebo-hamath as far as the Sea of Arabah in keeping with Yahveh’s message through Jonah Ben-Amittai, prophet from Gath-hepher. 26Yahveh saw that Israel’s suffering was bitter, whether bond or free, and there was nobody to help them. 27Since Yahveh hadn’t yet said he’d blot out Israel, he saved them by JeroboamII.
+
+28The rest of the acts of JeroboamII, the strength of his rule, and how he fought and recovered Damascus and Hamath for Israel (cities that had belonged to Judah), are recorded in The Chronicles of the Kings of Israel. 29He died and his son Zechariah became king.	 2 Kg 14:17-29
+
+Azariah Rules in Judah
+
+15:1In the twenty-seventh year of JeroboamII king in Israel, Azariah/Uzziah Ben-Amaziah became king in Judah. 2He was 16 and ruled for 52 years in Jerusalem. His mother was Jecoliah of Jerusalem. 3He did what was good like his father, 4but he didn’t take away the high places. The people still sacrificed and burned incense on them. 5Yahveh made him a leper till he died. He lived in a separate house while his son Jotham managed the palace and judged the people. 6The rest of the acts of Azariah are recorded in The Chronicles of the Kings of Judah. 7He died and they buried him in The City of David, and Jotham became king.	2 Kg 15:1-7
+
+Azariah Rules in Israel
+
+8In the thirty-eighth year of Azariah/Uzziah king in Judah, Zechariah Ben-JeroboamII became king over Israel in Samaria, and ruled for 6 months. 9He didn’t stop the sins of JeroboamI Ben-Nebat that got Israel to sin. 10Shallum Ben-Jabesh plotted against him and struck him in the people’s presence and killed him. 11The rest of the acts of Zechariah are recorded in The Chronicles of the Kings of Israel.
+
+12This is the message Yahveh gave Jehu, “Your sons will sit on Israel’s throne for four generations.” That’s what happened.	       2 Kg 15:8-12
+
+Shallum Rules in Israel
+
+13Shallum became king in the thirty-ninth year of Uzziah/Azariah, king of Judah, and ruled for 1 month in Samaria. 14Then Menahem Ben-Gadi went up from Tirzah to Samaria and struck Shallum and became king. 15The rest of the acts of Shallum and his plot are recorded in The Chronicles of the Kings of Israel. 16Menahem struck Tiphsah and everybody in and around it because they didn’t open to him. He ripped up its pregnant women.
+
+Menahem Rules in Israel
+
+17In the thirty-ninth year of Azariah/Uzziah, king of Judah, Menahem became king in Israel and ruled for 10 years in Samaria. 18He never stopped doing the sins of JeroboamI that got Israel to sin.
+
+19Pul, king of Assyria, came against the country, and Menahem gave him 37¾ tons 1,000 talents of silver so he would be with him to strengthen the kingdom under his rule. 20Then Menahem exacted the money from important men with wealth in Israel, 1¼ lbs 50 shekels of silver from each one to pay the king of Assyria. The king of Assyria went back. 21The rest of the acts of Menahem are recorded in The Chronicles of the Kings of Israel. 22He died and his son Pekahiah became king. 	2 Kg 15:13-22
+
+Pekahiah Rules in Israel
+
+23In the fiftieth year of Azariah/Uzziah, king of Judah, Pekahiah became king of Israel in Samaria and ruled for 2 years. 24He didn’t stop doing the sins of JeroboamI that got Israel to sin. 25Then Pekah Ben-Remaliah, his officer, plotted against him and struck him in the fortress of the king’s palace with Argob and Arieh. 50 Gileadites helped him; he killed Pekahiah and became king. 26The rest of the acts of Pekahiah are recorded in The Chronicles of the Kings of Israel. 	2 Kg 15:23-26
+
+Pekah Rules in Israel
+
+27In the fifty-second year of Azariah/Uzziah, king of Judah, Pekah Ben-Remaliah became king of Israel in Samaria and ruled for 20 years. 28He didn’t stop doing the sins of JeroboamI that got Israel to sin.
+
+29In his reign, Tiglath-pileser, king of Assyria, came and captured Ijon, Abel-beth-maacah, Janoah, Kedesh, Hazor, Gilead, Galilee, and Naphtali. He took them captive to Assyria. 30Hoshea Ben-Elah plotted against Pekah and struck him and became king in the twentieth year of Jotham Ben-Uzziah/Azariah. 31The rest of the acts of Pekah are recorded in The Chronicles of the Kings of Israel.     	2 Kg 15:27-31
+
+Jotham Rules in Judah
+
+32In the second year of Pekah, Jotham Ben-Uzziah/Azariah became king in Judah. 33He was 25 and ruled for 16 years in Jerusalem. His mother was Jerusha Bat-Zadok. 34He did what was good, everything his father had done. 35But he didn’t take away the high places. The people still sacrificed and burned incense on them. He built the upper gate of Yahveh’s Temple. 36The rest of the acts of Jotham are recorded in The Chronicles of the Kings of Judah. 37In those days Yahveh began to send Rezin, king of Aram, and Pekah Ben-Remaliah against Judah. 38Jotham died and they buried him in The City of David. His son Ahaz became king. 	      2 Kg 15:32-38
+
+Ahaz Rules in Judah
+
+16:1In the seventeenth year of Pekah, Ahaz Ben-Jotham became king. 2He was 20 and ruled for 16 years in Jerusalem. He didn’t do what was right like David did. 3He lived like the kings in Israel, and even burned his son as an offering like the horrible things the nations did that Yahveh had originally driven out. 4He sacrificed and burned incense on the high places and hills under every green tree.
+
+5Then Rezin, king of Aram, and Pekah, king of Israel, came up to Jerusalem. They laid siege to Ahaz but couldn’t conquer him. 6At that time, Rezin recovered Elath and cleared the Judeans out of it entirely. Arameans came to Elath and still live there. 7Ahaz sent ambassadors to Tiglath-pileser, “I’m your servant and vassal. Come up and deliver me from the kings of Aram and Israel, who are rising up against me.” 8Ahaz took the silver and gold in Yahveh’s Temple and the king’s treasuries and sent a gift to the king of Assyria. 9He went up and conquered Damascus, exiled its people to Kir, and executed Rezin.       	2 Kg 16:1-9
+
+10King Ahaz went to Damascus to meet Tiglath-pileser and saw the altar at Damascus. He sent to Urijah the priest the pattern of the altar, its model, and details. 11Urijah built an altar like it before Ahaz got back. 12When he got there and saw it, he went up to it. 13He burned his burnt offering and meal offering, and poured his liquid offering and sprinkled the blood of his peace offerings on the altar. 14The bronze altar that was in front of Yahveh he brought from between his altar and Yahveh’s Temple and put it on the north side of his altar. 15Then he commanded Urijah,
+
+“On the great altar, burn the morning burnt offering, the evening meal offering, the king’s burnt offering and meal offering, with the people’s burnt offering, meal offering, and liquid offerings. Sprinkle on it the blood of the burnt offering and sacrifice. But the bronze altar will be for me to ask by.”
+
+16Urijah did what he said.	2 Kg 16:10-16
+
+17Then Ahaz cut off the borders of the stands and removed the laver from them. He took down the sea from over the bronze oxen and put it on a stone pavement. 18Because of the king of Assyria, he took from Yahveh’s Temple the covered way for the Sabbath that they’d built in the Temple, as well as the outer entry for the king. 19The rest of the acts of Ahaz are recorded in The Chronicles of the Books of Judah. 20He died and they buried him in The City of David. His son Hezekiah reigned.	    2 Kg 16:17-20
+
+Hoshea Last King of Israel
+
+17:1In the twelfth year of Ahaz, Hoshea Ben-Elah became king of Israel in Samaria and ruled for 9 years. 2He did evil, but not as bad as the previous kings of Israel. 3Shalmaneser, king of Assyria, attacked him, and he had to pay tribute to Assyria. 4But the king of Assyria discovered a plot he was laying. He’d sent ambassadors to So, king of Egypt, and withheld the annual tribute to Assyria; so Shalmaneser shut him up bound in prison. 5Then he invaded the whole country and went up to Samaria and laid siege to it for 3 years. 6In the ninth year of Hoshea, the king of Assyria conquered the city and took Israel into exile in Assyria. He settled them in Halah and Habor on the Gozan River and in towns of the Medes.   	2 Kg 17:1-6
+
+Israel Exiled over Sin
+
+7That happened because they sinned against Yahveh their God, who had brought them up from Egypt from under Pharaoh. They’d feared other gods, 8followed the customs of the nations Yahveh had originally driven out, and the customs Israel’s kings had brought in. 9Israel secretly did what wasn’t right:
+
+they built high places in their towns from watchtower to fortified city;
+
+10they put sacred pillars and Asherah poles on every tall hill under every green tree;
+
+11they burned incense on the high places—things that provoked Yahveh.
+
+12They served idols Yahveh told them not to serve, 13even though he warned Israel and Judah through his prophets and seers, “Turn from your sins and keep my commandments, my statutes—the whole Law I’ve commanded your ancestors through the prophets.” 14But they ignored him. They stiffened their necks like the ancestors who didn’t believe in Yahveh. 15They rejected the statutes and the covenant he made with their ancestors and dismissed his warnings. They became vain and followed the nations around them that he commanded them not to be like.
+
+2 Kg 17:7-15
+
+16They made molten images, that is, two calves and an Asherah pole. They worshiped the host of heaven and served Baal. 17They burned their sons and daughters as offerings, and practiced fortunetelling and sorcery. They provoked Yahveh by selling themselves to sinning. 18He was angry with them and removed them away from him. None were left except the tribe of Judah.
+
+19Judah didn’t keep his commandments either, but followed the customs Israel brought in. 20Yahveh rejected Israel’s descendants, oppressed them, and delivered them to plunderers till he’d thrown them out. 21When he’d torn Israel away from David’s dynasty, they made JeroboamI Ben-Nebat king. He drove them away from Yahveh and got them to commit a great sin. 22Israel continued to follow in his sins 23till Yahveh removed Israel away from him. Israel has been in exile in Assyria ever since.
+
+Foreigners Settled in Samaria
+
+24The king of Assyria brought people from Babylon, Cuthah, Avva, Hamath, and Sepharvaim, and settled them in the towns in Samaria in place of the Israelites. 25When they first started living there, they didn’t respect Yahveh. He sent lions among them and killed some of them. 26They spoke to the king of Assyria,
+
+“The nations you exiled into the towns in Samaria don’t know the Law of the god of the land. He has sent lions among them to kill them.”
+
+27Then the king commanded, “Bring one of the priests you exiled, and have him live there and teach them the Law of the god of the land.” 	2 Kg 17:16-27
+
+28One of the priests they’d exiled came and lived at Bethel and taught them how to respect Yahveh. 29But every nation in the towns where they lived still made gods of their own and put them at the pagan shrines the people of Samaria had made. 30The people from Babylon made Succoth-benoth, the people from Cuth made Nergal, the people from Hamath made Ashima, 31the Avvites made Nibhaz and Tartak, the people from Sepharvaim burned their children in the fire to Adrammelech and Anammelech their gods. 32They also feared Yahveh and appointed priests for the high places, who acted for them in the shrines there. 33They feared Yahveh and served their own gods like they did where they came from.   	2 Kg 17:18-33
+
+34They’ve kept the earlier customs ever since. They don’t respect Yahveh or follow his statutes, ordinances, Law, or commandments to Jacob’s descendants, that he named Israel 35and made a covenant with,
+
+“Don’t fear other gods, bow to them, serve them, sacrifice to them. 36Fear Yahveh that brought you out of Egypt with great power and an outstretched arm. Bow to him and sacrifice to him. 37Observe forever the statutes, ordinances, Law, and commandment he wrote for you. [38] 39Fear Yahveh your God, and he’ll deliver you from your enemies.”
+
+40They didn’t listen; 41while they feared Yahveh, they also served their idols. Their children and grandchildren still do that.       	2 Kg 17:34-41
+
+Hezekiah Rules in Judah
+
+18:1In the third year of Hoshea, Hezekiah Ben-Ahaz became king in Judah. 2He was 25 and ruled for 29 years in Jerusalem. His mother was Abi Bat-Zechariah. 3He did what was right like David did. 4He removed the high places, broke down the sacred pillars, cut down the Asherah poles, and broke in pieces the bronze “serpent” Moses had made, because the Israelites had been burning incense to it; they called it Nehushtan. 5He trusted in Yahveh God of Israel so that no king in Judah was like him before or after. 6He held to Yahveh and kept the commandments he gave Moses. 7Yahveh was with him and he prospered wherever he went. He revolted against the king of Assyria 8and defeated the Philistines all the way to Gaza and its territory, from outpost to fortified city.
+
+9In the fourth year of King Hezekiah (seventh year of Hoshea), Shalmaneser, king of Assyria, came up and laid siege to Samaria. 10At the end of three years, he captured it (sixth year of Hezekiah, ninth year of Hoshea). 11He exiled Israel to Assyria and put them in Halah, on the Habor, the Gozan River, and in towns of the Medes. 12He did it because they wouldn’t obey Yahveh their God. They sinned against his covenant in everything Moses commanded.
+
+2 Kg 18:1-12
+
+13In the fourteenth year of King Hezekiah, Sennacherib, king of Assyria, attacked the fortified towns in Judah and took them. 14Hezekiah sent to the king of Assyria at Lachish, “I’ve done wrong. Withdraw from me; whatever you impose I’ll bear.” The king of Assyria required 11⅓ lbs 300 talents of silver and 1¼ tons 30 talents of gold. 15He gave him all the silver in Yahveh’s Temple and the treasuries in the king’s house. 16Hezekiah cut the gold off the doors of the Temple and the doorposts he’d overlaid and gave it to him.	   2 Kg 18:13-16
+
+Sennacherib Threatens Jerusalem
+
+17Then the king of Assyria sent the Tartan, the Rabsaris, and the Rabshakeh from Lachish with a large army. They went up to Jerusalem and stood by the conduit of the upper pool, on the highway to the Fuller’s Field. 18When they called to the king, Eliakim Ben-Hilkiah, who managed the palace; Shebnah the secretary, and Joah Ben-Asah the recorder came out to them. 19The Rabshakeh said,
+
+“Tell Hezekiah the great king of Assyria says, ‘What’s this confidence you have? 20Your advice and strength for war are empty words. Who are you relying on that you’ve rebelled against me? 21You’re relying on Egypt that crushed reed as a staff. If anyone leans on it, it will pierce their hand. That’s the way Pharaoh is to everybody that relies on him. 22But if you tell me you’re trusting in Yahveh your God, isn’t he the one whose high places and altars Hezekiah has taken away and told Judah and Jerusalem to worship at this altar in Jerusalem?’ 23Come now, make a deal with my master, and I’ll give you 2,000 horses if you can put riders on them. 24How can you drive off even one of my master’s least officers and rely on Egypt for chariots and cavalry? 25Haven’t I come up with Yahveh’s approval to destroy this place? He told me to attack this country and destroy it.”
+
+2 Kg 18:17-25
+
+26Then Eliakim, Shebnah, and Joah told the Rabshakeh, “Speak to us in Aramaic; we understand it. Don’t speak to us in Hebrew in front of the people on the wall.”
+
+27But he shouted in Hebrew,
+
+“Has my master sent me just to you and your master to say this? Hasn’t he sent me to the people sitting on the wall, doomed to eat their own feces and drink their own urine with you?”
+
+28“The great king of Assyria says, 29‘Don’t let Hezekiah deceive you; he can’t deliver you. 30Don’t let him make you trust in Yahveh, “Yahveh will deliver us. This city won’t be delivered to the king of Assyria.” 31Don’t listen to him. Surrender and come out to me. Eat from your own grapevines and fig trees, and drink water from your own cisterns, 32till I come and take you away to a land like yours, with grain and new wine, bread and vineyards, olive trees and honey so you won’t die. 33Have any nation’s gods delivered its people from the king of Assyria? 34Where are the gods of Hamath and Arpad, of Sepharvaim, Hena, and Ivvah? Have they delivered Samaria from me? 35Who among the gods of the countries have delivered them from me, that Yahveh should deliver Jerusalem from me?’”
+
+36The people didn’t respond; the king told them not to answer him. 37Then Eliakim, Shebna, and Joah went to Hezekiah with clothes torn and told him what the Rabshakeh had said.	2 Kg 18:26-37
+
+Jerusalem’s Deliverance Foretold
+
+19:1When Hezekiah heard it, he tore his clothes, covered himself with burlap, and went into Yahveh’s Temple. 2He sent Eliakim with Shebna and the elders of the people, covered with burlap, to the prophet Isaiah Ben-Amoz. 3They told him,
+
+“Hezekiah says, ‘Today is a time of distress, rebuke, and rejection. Babies have come to term, but there’s no strength to deliver them. 4Maybe Yahveh your God will hear the message from the Rabshakeh that the king of Assyria has sent to disparage the living God. Maybe he’ll rebuke what he’s heard. Pray for the remnant that’s left.’” [5]
+
+6Isaiah said,
+
+“Tell your master, ‘Yahveh says, “You don’t have to be afraid of what the Assyrian king’s messengers have blasphemed. 7I’ll put a spirit in him that makes him hear a rumor and go back to his country. He’ll fall by the sword in his own land.”’”	 2 Kg 19:1-7
+
+8The Rabshakeh went back and found the king of Assyria fighting Libnah, because he’d heard that the king had left Lachish. 9When he heard them say that Tirhakah [Taharqa], king of Nubia, had set out to fight him, he sent messengers back again to Hezekiah,
+
+10“Tell Hezekiah, ‘Don’t let the god you trust in deceive you by saying Jerusalem won’t be delivered to the king of Assyria. 11You’ve heard that the kings of Assyria have destroyed all the countries. Are you going to be spared? 12Did their gods deliver Gozan, Haran, Rezeph, the sons of Eden in Telassar? 13Where’s the king of Hamath, Arpad, or the towns Sepharvaim, Hena, and Ivvah?’”
+
+Hezekiah’s Prayer
+
+14Hezekiah read the letter, went up to Yahveh’s Temple, and spread it out to him. 15He prayed,
+
+“Yahveh God of Israel Enthroned Above the Cherubs, you alone are God over the kingdoms. You made earth and sky. 16Incline your ear and hear; open your eyes and see. Listen to what Sennacherib has sent to disparage the living God. 17Assyria’s kings have devastated the nations and their lands. 18They’ve burned their gods because they weren’t gods, just man-made pieces of wood and stone. 19But now, Yahveh our God, deliver us from him so the kingdoms can know that you alone are God.”	 2 Kg 19:8-19
+
+Isaiah Prophesies Sennacherib’s Fall
+
+20Isaiah sent to Hezekiah, “Yahveh says, ‘Because you’ve prayed about Sennacherib, I’ve listened.’ 21This is what Yahveh says against him:
+
+‘The young virgin of Zion
+
+despises you and mocks you;
+
+the young woman of Jerusalem
+
+shakes her head at you!
+
+22Who have you disparaged and blasphemed?
+
+Who have you raised your voice at,
+
+proudly lifted up your eyes against?
+
+The Holy One of Israel!
+
+23By your ambassadors you’ve disparaged Yahveh.
+
+You’ve said, “With my many chariots
+
+I went up to the highest mountains,
+
+to the most remote parts of Lebanon.
+
+I cut down its tallest cedars and best cypress.
+
+I entered its most distant lodging place, its thickest forest.
+
+24I dug wells and drank foreign water;
+
+with the soles of my feet, I dried up
+
+the streams in Egypt.”                               	2 Kg 19:20-24
+
+25‘But haven’t you heard?
+
+I’m the one that decided that long ago;
+
+I planned it from ancient times.
+
+Now I’ve made it happen:
+
+that you should turn fortified towns into piles of rubble,
+
+26while their people are short of strength,
+
+scared, and confounded.
+
+They’ve become like plants in a field and green herbs,
+
+like grass on housetops, scorched before it’s grown.
+
+27From ancient times I’ve known
+
+when you sit down,
+
+when you come and go,
+
+when you rage against me.
+
+28Because you’ve raged against me,
+
+because of your arrogance that I’ve heard,
+
+I’ll put my hook in your nose,
+
+my bridle in your jaws,
+
+and turn you back the way you came.		2 Kg 19:25-28
+
+29‘This will show you what I mean: this year you’ll eat what volunteers, next year what sprouts from that, and in the third year sow, reap, plant vineyards, and eat what they produce. 30The surviving remnant of Judah will take root downward and bear fruit upward. 31A remnant will go out of Jerusalem, survivors from Mount Zion. The zeal of Yahveh will make that happen.
+
+32‘Yahveh says the king of Assyria won’t come to this city or shoot an arrow here. He won’t approach it with a shield or build a mound against it. 33He’ll go back the way he came. 34I’ll save this city for my own sake and for David’s sake.”
+
+35That night the angel of Yahveh struck 185,000 in the Assyrian camp. When people got up early, the Assyrians were all dead. 36Sennacherib went home to live in Nineveh. 37As he was worshiping in the temple of his god Nisroch, Adrammelech and Sharezer killed him with the sword and escaped to Ararat. His son Esarhaddon became king. 	    2 Kg 19:29-37
+
+Hezekiah’s Illness
+
+20:1At that time, Hezekiah became deathly ill, and Isaiah came to tell him, “Yahveh says to set your house in order; you’re going to die.”
+
+2He turned his face to the wall and prayed, 3“Remember how I’ve lived in your presence honestly with all my heart. I’ve done what you considered good.” He cried bitterly. 4Before Isaiah had left the middle court, a message came to him,
+
+5“Go back and tell Hezekiah, the leader of my people, that Yahveh God of his ancestor David, says, ‘I’ve heard your prayer and seen your tears. I’ll heal you. In three days, you’ll go up to myY Temple. 6I’ll add 15 years to your life and deliver you and this city from the king of Assyria. I’ll defend it for my own honor and David’s sake.’”
+
+7Then Isaiah told them to prepare a cake of figs and apply it to the boil. He recovered.
+
+8Hezekiah said, “What’s the sign that Yahveh will heal me, and that I’ll go up to Yahveh’s Temple the third day?”
+
+9“Choose the sign: the shadow going forward ten steps or back ten steps?”
+
+10“It’s easy for it to lengthen ten steps. Let it go back ten steps.”
+
+11Isaiah cried out to Yahveh and brought the shadow on Ahaz’s stairway back ten steps from where it had gone down.	 2 Kg 20:1-11
+
+Envoys from Babylon
+
+12At that time, Merodach-baladan Ben-Baladan, king of Babylon, sent letters and a gift to Hezekiah because he’d heard he was sick. 13He received the ambassadors and showed them his treasure house, the silver, gold, spices, precious oil, his armor house, and everything in his treasuries. There wasn’t anything in his palace or dominion that he didn’t show them. 14Then Isaiah came, “What did those men say? Where did they come from?”
+
+“From a distant Babylon.”
+
+15“What have they seen in your palace?”
+
+“I showed them everything in my treasures.”
+
+16Isaiah said,
+
+“Listen to a message from Yahveh. 17The time’s coming when everything in your palace that your ancestors have stored up will be carried off to Babylon. 18Some of your own sons will be taken away to become officials in the king’s palace there.”
+
+19Hezekiah said, “Yahveh’s message is good.” He thought to himself, “At least there’ll be peace and truth while I’m alive.” 20The rest of the acts of Hezekiah and the strength of his rule—how he made the pool and conduit to bring water into the city—are recorded in The Chronicles of the Kings of Judah. 21He died and his son Manasseh became king.	 2 Kg 20:12-21
+
+Manasseh Rules in Judah
+
+21:1Manasseh was 12 and ruled for 55 years in Jerusalem. His mother was Hephzibah. 2He did evil like nations Yahveh originally expelled. 3He rebuilt the high places Hezekiah had destroyed, erected altars for Baal, and set up an Asherah pole like Ahab, king of Israel, had done. He worshiped and served the host of heaven, 4built altars in Yahveh’s Temple where Yahveh had said, “I’ll identify myself with Jerusalem.” 5He built altars for the host of heaven in the two courts of Yahveh’s Temple. 6He burned his son as an offering, practiced witchcraft, used sorcery, and dealt with mediums and spiritists. He did so much evil and made Yahveh angry. 7He put a carved image of Asherah in the Temple where Yahveh told David and his son Solomon,
+
+“Forever I’ll identify with this Temple and with Jerusalem, which I’ve chosen from the tribes of Israel. 8I won’t make Israel wander anymore from the country I gave their ancestors—if only they’ll observe the whole Law that I’ve commanded them through Moses.” 	2 Kg 21:1-8
+
+9But they didn’t listen, and Manasseh seduced them to sin more than the nations Yahveh originally destroyed in front of them.
+
+10Now Yahveh spoke through his prophets,
+
+11“Manasseh has done more disgusting things than the Amorites before him, and got Judah to sin with his idols. 12So I’m bringing such catastrophe on Jerusalem and Judah that both ears will ring of whoever hears it. 13I’ll stretch over Jerusalem Samaria’s measuring line and Ahab’s plumb bob. I’ll wipe Jerusalem like someone wipes a dish and turns it upside down. 14I’ll abandon the remnant of my permanent possession and deliver them to their enemies to become plunder and spoil. 15They’ve done evil and made me angry ever since I brought their ancestors out of Egypt.”
+
+16Besides the sin he got Judah to do, Manasseh filled Jerusalem with innocent blood from one end to the other. 17The rest of his acts and sins are recorded in The Chronicles of the Kings of Judah. 18He died and they buried him in the garden by his palace, Uzza’s garden. His son Amon became king.	2 Kg 21:9-18
+
+Amon Rules in Judah
+
+19Amon was 22 and ruled for 2 years in Jerusalem. His mother was Meshullemeth Bat-Haruz from Jotbah. 20He did evil like Manasseh, 21followed his ways, served the idols he’d worshiped, 22and forsook Yahveh God of his ancestors. 23Amon’s officials plotted against him and assassinated him in his palace. 24The common people killed his assassins and made his son Josiah king. 25The rest of the acts of Amon are recorded in The Chronicles of the Kings of Judah. 26They buried him in Uzza’s garden. 	    2 Kg 21:19-26
+
+The Book of the Law Found
+
+22:1Josiah was 8 when he became king and ruled for 31 years in Jerusalem. His mother was Jedidah Bat-Adaiah from Bozkath. 2He did what was good and followed the ways of David.
+
+3In the eighteenth year of King Josiah, he sent Shaphan Ben-Azaliah Ben-Meshullam, the secretary, to Yahveh’s Temple,
+
+4“Go up to Hilkiah the high priest so he can count the money the people have brought to Yahveh’s Temple that the doorkeepers have gathered. 5Have them deliver it to the workmen that oversee the Temple so they can repair it—6carpenters, builders, and masons—and buy the timber and cut stone for repairs. 7They won’t need to account for the money they receive. They’re honest.”
+
+2 Kg 22:1-7
+
+8Then Hilkiah the priest told Shaphan the secretary, “I’ve found the Book of the Law in the Temple.” He gave it to him to read, 9and Shaphan brought word to the king, “Your officials have emptied out the money they found in the Temple and delivered it to the workmen that oversee the Temple. 10Hilkiah has also given me a scroll.” He read it to the king. 11When he heard it, he tore his clothes. 12He told Hilkiah, Ahikam Ben-Shaphan, Achbor Ben-Micaiah, Shaphan the secretary, and Asaiah the king’s adviser,
+
+13“Go ask Yahveh for me, for the people, and for Judah about what this scroll says. Yahveh’s great anger is burning against us. Our ancestors ignored what it says and haven’t done what’s written for us to do.”
+
+14They went to Huldah the prophetess, wife of Shallum Ben-Tikvah Ben-Harhas, keeper of the wardrobe. (She lived in Jerusalem’s Second Quarter.) 15She told them,
+
+“Yahveh God of Israel says to tell the man that sent you, 16‘I’m going to bring disaster on this place and its people like the scroll says. 17They’ve left me and burned incense to other gods. My anger burns against this place, and it won’t be put out. [18] 19But I’ve listened to you because you became sensitive and humbled yourself when you heard about the desolation I’ve cursed this place and its people with; you tore your clothes and cried.  20I’ll let you pass on to your ancestors in peace. You won’t see the disaster I’m going to bring here.”’”
+
+They took word back to the king.	2 Kg 22:8-20
+
+Josiah Renews the Covenant
+
+23:1Then the king gathered the elders of Judah and Jerusalem. 2He and the men of Judah, the residents in Jerusalem, the priests and prophets—people least and greatest—went up to the Temple. He read to them the covenant they’d found. 3He stood by the pillar and made a covenant with Yahveh to keep his commandments, testimonies, and statutes with all his heart and soul—to carry out the covenant written in that scroll. The people entered into the covenant.  	2 Kg 23:1-3
+
+4Then he told Hilkiah the high priest, the priests of the second order, and the doorkeepers to remove from the Temple the items made for Baal, Asherah, and the host of heaven. He burned them outside Jerusalem in the fields by the Kidron and carried their ashes to Bethel.
+
+5He did away with the idolatrous priests Judah’s kings had appointed to burn incense in the high places in the towns of Judah and around Jerusalem, those who burned incense to Baal, the sun, moon, and constellations—the host of heaven.
+
+6He removed the Asherah pole from Yahveh’s Temple to the Kidron and burned it. He ground it to powder and threw it on the graves of the common people.
+
+7He tore down the house of the male cult prostitutes in Yahveh’s Temple, where the women were weaving hangings for the Asherah pole.
+
+8Then he brought the priests from the towns in Judah and defiled the high places where the priests had burned incense from Geba to Beersheba.
+
+He tore down the high places to the left of the gate of Joshua, governor of the city. 9The priests of the high places couldn’t serve at Yahveh’s altar in Jerusalem, but they were allowed to eat bread without yeast with the other priests. 	2 Kg 23:4-9
+
+10He defiled Topheth in the Valley of Hinnom so nobody could burn a son or daughter as an offering to Molech.
+
+11He removed the horses Judah’s kings had dedicated to the sun—at the entrance of Yahveh’s Temple, by the quarters of Nathan-melech the official, which were in the precincts.
+
+He burned the chariots of the sun.
+
+12The king broke down the altars that were on the roof, the upper room of Ahaz, that the kings of Judah had made.
+
+He broke down the altars Manasseh had made in the two courts of Yahveh’s Temple. He pulverized them there and threw their dust in the Kidron.
+
+13He defiled the high places east of Jerusalem and to the right of the Mount of Corruption that Solomon had built for Ashtoreth the abomination of the Sidonians, Chemosh the abomination of Moab, and Milcom the abomination of the Ammonites.
+
+14He broke the sacred pillars in pieces, cut down the Asherah poles, and desecrated their places by spreading human bones in them.	2 Kg 23:10-14
+
+15In addition, he dismantled the altar at Bethel and the high place JeroboamI had made. He demolished its stones, ground them to lime, and burned the Asherah pole. 16When he turned around and saw tombs on the hillside, he had bones out of them burned on the altar to defile it like the message from Yahveh that the man of God had delivered. 17Then he said, “What’s this monument?” The men in the city told him, “It’s the grave of the man of God from Judah that declared what you’ve done against the altar at Bethel.” 18He told them not to disturb his bones; they didn’t disturb them or the bones of the prophet from Samaria. 	2 Kg 23:15-18
+
+19Josiah removed the shrines from the high places in the towns of Samaria—structures the kings of Israel had built. He did to them what he’d done in Jerusalem. 20On the altars he killed the priests associated with the high places and burned human bones on them.
+
+Then he went back to Jerusalem.
+
+21He told the people, “Celebrate Passover to Yahveh your God as written in this scroll.” 22They hadn’t celebrated it since the time of the judges or during the time of the kings of Israel and Judah. 23But in the eighteenth year of King Josiah, they observed it in Jerusalem.
+
+2 Kg 23:19-23
+
+24Josiah removed the mediums, spiritists, household gods, idols, and detestable things in Judah and Jerusalem, to conform to what the scroll said that Hilkiah found. 25No king before or after him turned to Yahveh with all his heart, soul, and might, according to the whole Law of Moses.
+
+26But Yahveh didn’t withdraw his fierce anger against Judah that Manasseh had provoked, 27“I’ll remove Judah from me like I did Israel. I’ll throw Jerusalem aside, my chosen city, and the Temple that I said I’d identify with.”
+
+28The rest of the acts of Josiah are recorded in The Chronicles of the Kings of Judah. 29During his reign, Pharaoh Neco, king of Egypt, went up to the king of Assyria to the River Euphrates. King Josiah went to engage him. When Pharaoh saw him, he killed him at Megiddo. 30His officers hauled his body in a chariot from Megiddo to Jerusalem and buried him in his own tomb. The people took his son Jehoahaz and anointed him king.	 2 Kg 23:24-30
+
+Jehoahaz Rules in Judah
+
+31Jehoahaz was 23 and ruled for 3 months in Jerusalem. His mother was Hamutal Bat-Jeremiah of Libnah. 32He did evil like his ancestors. 33Pharaoh Neco imprisoned him at Riblah in Hamath so he couldn’t reign in Jerusalem. He imposed on the country a fine of 3¾ tons 100 talents of silver and 75½ lbs a talent of gold. 34He made Eliakim Ben-Josiah king in place of Josiah and changed his name to Jehoiakim. He took Jehoahaz away to Egypt, and he died there. 35Jehoiakim gave Pharaoh the silver and gold, but he taxed the land to do it. He exacted the silver and gold according to his evaluation of their wealth.
+
+Jehoiakim Rules in Judah
+
+36Jehoiakim was 25 when he became king and ruled for 11 years in Jerusalem. His mother was Zebidah Bat-Pedaiah from Rumah. 37He did evil like his predecessors.	 2 Kg 23:31-37
+
+24:1In Jehoiakim’s reign, Nebuchadnezzar, king of Babylon, came up, and Jehoiakim served him for 3 years, then revolted. 2Yahveh sent bands of Babylonians, Arameans, Moabites, and Ammonites against him to destroy Judah like he’d warned by his prophets. 3At Yahveh’s command, that all came on Judah because of Manasseh’s sins 4and the innocent blood he’d filled Jerusalem with. Yahveh wouldn’t forgive. 5The rest of the acts of Jehoiakim are recorded in The Chronicles of the Kings of Judah. 6He died and his son Jehoiachin became king. 7The king of Egypt didn’t come out of his country again, because the king of Babylon took everything he had from the River of Egypt to the Euphrates River.	2 Kg 24:1-7
+
+Jehoiachin Rules in Judah
+
+8Jehoiachin was 18 when he became king and ruled for 3 months in Jerusalem. His mother was Nehushta Bat-Elnathan from Jerusalem. 9He did evil like his father.
+
+10At that time, the officers of Nebuchadnezzar came up to Jerusalem and laid siege to it. 11He came while they were besieging it. 12Jehoiachin, his mother, advisors, commanders, and officials went out to him. The king of Babylon took him captive in the eighth year of his reign. 13He carried the treasures out of Yahveh’s Temple and the king’s palace, and cut up the gold articles Solomon had made in the Temple—like Yahveh said. 14He led into exile Jerusalem, the commanders, trained soldiers (10,000 captives), craftsmen, and smiths. Only the poorest people remained. 15He led Jehoiachin to Babylon along with his mother, his wives, officials, leading men of the country, 16the brave men (7,000), the craftsmen and smiths (1,000), the ones strong and fit for war. 17He made his uncle Mattaniah king and changed his name to Zedekiah.
+
+Zedekiah Rules in Judah
+
+18Zedekiah was 21 and ruled for 11 years in Jerusalem. His mother was Hamutal Bat-Jeremiah of Libnah. 19He did evil like Jehoiakim. 20Because of Yahveh’s anger, this happened in Jerusalem and Judah till he threw them out from his presence. Zedekiah revolted against the king of Babylon.	2 Kg 24:8-20
+
+The Fall of Jerusalem
+
+25:1The tenth day, tenth month, ninth year of his reign, Nebuchadnezzar and his army came against Jerusalem, camped against it, and built a siege wall around it. 2The city lay under siege till Zedekiah’s eleventh year. 3The ninth day, fourth month, the famine had become so severe in the city that the common people didn’t have any food. 4Then the Babylonians broke into the city, and the soldiers fled at night through the gate between the two walls by the king’s garden, though the Babylonians were all around the city. They went by way of the Arabah. 5But the army chased the king and overtook him in the plains by Jericho, and his whole army scattered. 6They captured him and took him to the king of Babylon at Riblah, and he passed sentence on him. 7They executed Zedekiah’s sons in front of him and then put out his eyes. They bound him with bronze restraints and took him to Babylon.
+
+8The seventh day, fifth month, nineteenth year of Nebuchadnezzar, Nebuzaradan, commander of the guard and an official of the king, came to Jerusalem. 9He burned Yahveh’s Temple, the king’s palace, and all the houses in Jerusalem, including every important building. 10The Babylonian army tore down the walls around Jerusalem. 11He exiled the rest of the people in the city, the deserters, and the rest of the population. 12He left some of the very poor to take care of the vineyards and fields.	 2 Kg 25:1-12
+
+13The Babylonians broke to pieces the bronze pillars, the stands, and the bronze sea that were in Yahveh’s Temple, and carried the bronze to Babylon. 14They took away the pots, shovels, snuffers, spoons, and bronze items used in the Temple service. 15The captain of the guard took away the firepans and basins, what was fine gold and silver, 16the two pillars, the sea, and the stands Solomon had made for the Temple; the bronze from these was more than they could weigh. 17The two pillars were bronze plated 27ft tall. Their capitals were 4½ft high with a bronze network and pomegranates all the way around.
+
+18The commander of the guard took Seraiah the chief priest, Zephaniah the second priest, the three officers of the Temple, 191 official that oversaw the soldiers, 5 of the king’s advisers found in the city; the secretary for the commander of the army, who mustered the common people; and 60 men found in the city. 20He took them to the king of Babylon at Riblah, 21who executed them there in Hamath. Judah was in exile from its land.
+
+22Nebuchadnezzar appointed Gedaliah Ben-Ahikam Ben-Shaphan as governor for the people he left in the country. 23When the commanders of the forces and their men heard it, they came to Gedaliah at Mizpah: Ishmael Ben-Nethaniah, Johanan Ben-Kareah, Seraiah Ben-Tanhumeth the Netophathite, Jaazaniah son of the Maacathite, and their men. 24Gedaliah swore to them and their men, “Don’t be afraid of the Babylonians. Live in the land and serve the king of Babylon, and you’ll be okay.”	2 Kg 25:13-24
+
+25But in the seventh month, Ishmael Ben-Nethaniah Ben-Elishama from the royal family, came with ten men and struck Gedaliah down. He died along with the Jews and Babylonians that were with him in Mizpah. 26Then the people, least and greatest, and the commanders of the forces went to Egypt for fear of the Babylonians.
+
+Jehoiachin Released
+
+27The twenty-seventh day, twelfth month, thirty-seventh year of Jehoiachin’s exile, Evil-merodach, king of Babylon, in his first year, released him from prison. 28He spoke graciously to him and set his throne above the other kings in Babylon. 29Jehoiachin changed out of his prison clothes and had his meals in the king’s presence the rest of his life. 30The king gave him a regular serving each day.  	2 Kg 25:25-30

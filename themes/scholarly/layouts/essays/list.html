@@ -1,0 +1,38 @@
+{{ define "main" }}
+<div class="essays-list">
+    <header class="section-header">
+        <h1>Essays</h1>
+        <p>Theological writings organized by topic and category</p>
+    </header>
+
+    <div class="filters">
+        <div class="filter-group">
+            <h3>Categories</h3>
+            <ul>
+                {{ range .Site.Taxonomies.categories }}
+                <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }} ({{ .Count }})</a></li>
+                {{ end }}
+            </ul>
+        </div>
+    </div>
+
+    <div class="essays-grid">
+        {{ range .Pages }}
+        <article class="essay-card">
+            <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+            {{ if .Params.categories }}
+            <div class="card-meta">
+                {{ range .Params.categories }}
+                <span class="category-badge">{{ . }}</span>
+                {{ end }}
+            </div>
+            {{ end }}
+            {{ if .Summary }}
+            <p class="excerpt">{{ .Summary | truncate 200 }}</p>
+            {{ end }}
+            <a href="{{ .Permalink }}" class="read-more">Read Essay →</a>
+        </article>
+        {{ end }}
+    </div>
+</div>
+{{ end }}

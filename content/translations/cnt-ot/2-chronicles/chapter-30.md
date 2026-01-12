@@ -1,0 +1,22 @@
+---
+book: 2 Chronicles
+chapter: 30
+next: chapter-31
+prev: chapter-29
+title: 2 Chronicles 30
+translation: CNT
+type: chapter
+weight: 30
+---
+
+## 2 Chronicles Chapter 30
+
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Hezekiah wrote letters to everywhere in Israel and Judah, to Ephraim and Manasseh to come to the LORD's Temple in Jerusalem, to keep Passover to the God of Israel. 2The king, his officials, and the whole assembly in Jerusalem had decided to keep Passover in the second month. 3They couldn't keep it at its regular time because the priests hadn't sanctified themselves in sufficient numbers, and the people hadn't gathered in Jerusalem. 4The plan seemed right to the king and the whole assembly. 5They circulated a proclamation from Dan to Beersheba to come and keep Passover at Jerusalem; they hadn't kept it in great numbers as written. 6So runners went everywhere in Israel and Judah with letters from the king and his officials: "People of Israel, come back to the LORD God of Abraham, Isaac, and Israel so he'll come back to the remnant of you that have escaped from the kings of Assyria. 7Don't be like your ancestors and fellow Jews that weren't faithful to him. He made them desolate, as you can see. 8Don't stiffen your neck like they did. Yield to him and go into the sanctuary he's consecrated permanently. Serve him so his furious anger will turn away from you. 9If you come back to him, your fellow Jews and descendants will receive mercy from their captors and come back to this land. The LORD is gracious and merciful. He won't turn away from you if you come back to him." 	2 Ch 30:1-9</span>
+
+<span class="verse" id="v10"><sup class="verse-num">10</sup> Runners went from city to city throughout Ephraim and Manasseh and as far as Zebulun, but the people scorned and mocked them. 11Only a few from Asher, Manasseh, and Zebulun humbled themselves and came. 12God's hand was on Judah to give them a united heart to do what the king and his officials said.</span>
+
+<span class="verse" id="v13"><sup class="verse-num">13</sup> A really large assembly came together in Jerusalem to keep the Festival of Unleavened Bread in the second month. 14They removed the altars in the city, took away the incense altars, and threw them in the Kidron valley. 15They killed the Passover lamb on the fourteenth day, second month. The priests and Levites were ashamed; so they sanctified themselves and brought burnt offerings to the LORD's Temple. 16They took their accustomed stations according to the Law of Moses, the man of God. The priests sprinkled the blood they received from the Levites 17because many in the assembly hadn't sanctified themselves. To make the Passover lamb holy to the LORD, the Levites had to kill it for everybody that wasn't clean. 18A great number of people, many of them from Ephraim, Manasseh, Issachar, and Zebulun, hadn't purified themselves; yet they ate the Passover other than as prescribed. Hezekiah had prayed for them, "The good LORD pardon everybody 19that sets his heart to look to you, even though not according to the sanctuary's rules for cleanness." 	2 Ch 30:10-19</span>
+
+<span class="verse" id="v20"><sup class="verse-num">20</sup> The LORD listened to Hezekiah and purified them. 21The people present in Jerusalem kept the Festival of Unleavened Bread for a week with great celebration. The Levites and priests praised the LORD daily, singing to him with all their energy. 22Hezekiah encouraged the Levites that showed skill in serving the LORD. The people observed the festival for a week, sacrificing peace offerings and giving thanks to the LORD.</span>
+
+<span class="verse" id="v23"><sup class="verse-num">23</sup> Then the whole assembly agreed to keep the festival for another week with happiness, 24because Hezekiah gave the assembly 1,000 bulls and 7,000 sheep for offerings. The officials gave the assembly 1,000 bulls and 10,000 sheep. The priests sanctified themselves in great numbers. 25The whole assembly celebrated—the ones from Judah, the priests and Levites, the ones that came out of Israel, the temporary residents in Israel and Judah. 26There was great celebrating in Jerusalem; since Solomon's time, nothing like this had happened there. 27Then the priests and Levites got up and blessed the people, and the LORD heard them. Their prayer went up to the Holy Place where he lives in heaven.	2 Ch 30:20-27</span>

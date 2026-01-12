@@ -1,0 +1,43 @@
+{{ define "main" }}
+<article class="resource-article">
+    <nav class="breadcrumb">
+        <a href="/resources/">← Resources</a>
+    </nav>
+
+    <header class="article-header">
+        <h1>{{ .Title }}</h1>
+        {{ if .Params.author }}
+        <p class="author">{{ .Params.author }}</p>
+        {{ end }}
+        {{ if .Params.categories }}
+        <div class="categories">
+            {{ range .Params.categories }}
+            <span class="category-tag">{{ . }}</span>
+            {{ end }}
+        </div>
+        {{ end }}
+    </header>
+
+    <div class="article-content">
+        {{ .Content }}
+    </div>
+</article>
+
+<style>
+.resource-article {
+    max-width: var(--reading-width);
+    margin: 0 auto;
+}
+
+.category-tag {
+    display: inline-block;
+    padding: 0.25rem 0.75rem;
+    background: var(--hover-color);
+    color: var(--secondary-color);
+    border-radius: 3px;
+    font-size: 0.85em;
+    font-weight: 600;
+    margin-right: 0.5rem;
+}
+</style>
+{{ end }}

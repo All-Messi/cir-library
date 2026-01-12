@@ -1,0 +1,80 @@
+---
+author: Virgil Warren, PhD
+categories:
+- CHRISTIAN DOCTRINE 1
+- WOMEN'S STUDIES
+date: '2026-01-11'
+draft: false
+title: WOMEN MENTIONED IN THE BIBLE
+weight: 999
+---
+
+WOMEN MENTIONED IN THE BIBLE
+
+To maintain a balanced approach in the current women’s studies debate, we should keep in mind what women did with divine approval in both Testaments. The following is a suggestive list.
+
+Anna: a “prophetess” in Jerusalem at the time of Jesus’ presentation in the temple. She “gave thanks to God and spoke of him to all that were looking for redemption in Israel” (Luke 2:36-38).
+
+Apphia: Philemon wife? (Philemon 2)
+
+Chloe: a Christian woman with a household named after her (1 Corinthians 1:10-11)
+
+Deborah: a “judge” during the judgeship period in Israel (Judges 4-5; Hebrews 11:32-34)
+
+Dorcas: a woman in Joppa who did benevolent work among the Christians there (Acts 9:36-43)
+
+Euodia and Syntyche: two women in the Philippian church that were at odds with one another (Philemon 4:2)
+
+Huldah: a “prophetess” during the time of King Josiah, who consulted her about the Book of the Law that Hilkiah found (2 Kings 22:14; 2 Chronicles 34:22)
+
+Isaiah’s wife: called a “prophetess” (Isaiah 8:1-3). The passage suggests that the wife of a prophet was automatically called a prophetess. Obviously, this “prophetess” that Isaiah had relations with was not a temple prostitute or some other female religious figure associated with the temple cultus.
+
+Jezebel: a woman mentioned in Revelation 2:18-29 who had a prominent position as a false teacher in Thyatira. She called herself a “prophetess.” She was misusing the role and either spiritually or perhaps sexually causing people in the church to commit religious fornication on the analogy of Jezebel, the wife of Ahab, king of the Northern Kingdom in the Old Testament (1 Kings 16:31; 18:4-19; 19:1-2; 21:5-25; 2 Kings 9).
+
+Julia: wife or sister of Philologus, members of the church in Rome (Romans 16:15)
+
+Junia(s): possibly the wife of Andronicus if the name is feminine; otherwise, “Junias” is a man’s name, which would make him a brother or son of Andronicus (Romans 16:7)
+
+Lois and Eunice: Timothy’s mother and grandmother (2 Timothy 1:5; cp. 3:14-15)
+
+Lydia: a businesswoman in Philippi, who housed Paul, Silas, and Luke. She had a household named after her (Acts 16:13-15).
+
+Mary of Bethany: evidently a sister of Lazarus who told people what Jesus had done in raising her brother from the dead (John 11:45)
+
+Mary Magdalene: bore the news of the empty tomb (John 20:1-2) and announced Jesus’ resurrection (John 20:18 = Mark 16:9-11 = Luke 24:1-10, 22-23).
+
+Mary of Rome: an otherwise unknown laborer in the Roman church (Romans 16:6)
+
+Nympha(s): a member of the church in Laodecia (or perhaps Colossae), who had a church in her/his home (Colossians 4:15).
+
+Philip’s four daughters who prophesied (Acts 21:9)
+
+Phoebe: a diakonos (διάκονος) of the church in Cenchreae and a prostatis (προστάτις) of many, including Paul (Romans 16:1-2). She was perhaps the bearer of the Roman letter. Phoebe is the only woman involved in interchurch ministry by herself. She is called a diakonos of the church in Cenchrea while at the same time presumably she is traveling to do some “helping” work (prostatis) in Rome.
+
+Priscilla: wife of Aquila (Acts 18:2, 18; 2 Timothy 4:19). This husband and wife had a church that met in their home when they were working with Paul in Ephesus (1 Corinthians 16:19) and later in Rome (Romans 16:3-5). They together took Apollos aside and “taught him the way of the Lord more perfectly” (Acts 18:24-26).
+
+Samaritan woman (see “Woman at the Well”)
+
+Sherah: a woman said to have fortified three villages (1 Chronicles 7:24)
+
+Tryphaena and Tryphosa: two women who labored in the Roman church (Romans 16:12)
+
+Virtuous Woman [Excellent Wife] of Proverbs 31: said to consider a field and buy it (16) with her earning; she plants a vineyard (16) and sells clothing she has made (24)
+
+Woman at the Well: Although he was breaking convention in doing so, Jesus talked with this disreputable woman and used her contacts as a means of entry into the Samaritan village of Sychar (John 4:1-42).
+
+General References
+
+The widows mentioned in 1 Timothy 5:3-16 evidently had some responsibilities in the church in return for being supported by the Christian community.
+
+The women referred to in 1 Timothy 3:11 were perhaps deacons’ wives who served with their husbands in the ministering role. Some commentators suppose that they were not the “wives” of the deacons but “women” who served as deacons. There is perhaps something of a parallel to the first option in 1 Corinthians 16:15-16, where the “household of Stephanas” set themselves to minister to the saints; Paul tells the Corinthians to subject themselves to people like them. Together with the example of Isaiah’s wife being called a “prophetess,” these phenomena imply that service to God was thought of as a family affair.
+
+There was a circle of women that accompanied Jesus and the apostles during Christ’s ministry. They ministered to Jesus and the Twelve out of their means. Some of them were relatives of Jesus and his disciples.
+
+There are several women who prophesied or were called “prophetesses” in the Old and New Testaments: Huldah, Isaiah’s wife, Anna, Jezebel (a false prophetess), Philip’s four daughters, plus the general prediction in Joel 2:28 (= Acts 2:18) about daughters prophesying, and the comments Paul makes in 1 Corinthians 11:2-16; 14:26-36. That praying and prophesying was a public activity in the gathered Christian community because Paul deals with the veil-wearing issue in connection with the matter.
+
+Women were teachers of children and younger women (Titus 2:3-5).
+
+A woman could “rule the household” (1 Timothy 5:14).
+
+christir.org

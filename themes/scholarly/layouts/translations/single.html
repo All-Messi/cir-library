@@ -1,0 +1,52 @@
+{{ define "main" }}
+<article class="bible-chapter">
+    <header class="chapter-header">
+        <nav class="book-nav">
+            <a href="/translations/">← All Books</a>
+            {{ if .Params.book }}
+            <span class="book-title">{{ .Params.book }}</span>
+            {{ end }}
+        </nav>
+        <h1>{{ .Title }}</h1>
+    </header>
+
+    <nav class="chapter-nav">
+        {{ if .Params.previous }}
+        <a href="{{ .Params.previous }}" class="nav-prev">← Previous Chapter</a>
+        {{ end }}
+        
+        <div class="chapter-selector">
+            <label for="chapter-select">Jump to Chapter:</label>
+            <select id="chapter-select" onchange="location = this.value;">
+                <option value="">Select...</option>
+                <!-- Will be populated by conversion script with all chapters -->
+            </select>
+        </div>
+
+        {{ if .Params.next }}
+        <a href="{{ .Params.next }}" class="nav-next">Next Chapter →</a>
+        {{ end }}
+    </nav>
+
+    <div class="chapter-content">
+        {{ .Content }}
+    </div>
+
+    <nav class="chapter-nav bottom">
+        {{ if .Params.previous }}
+        <a href="{{ .Params.previous }}" class="nav-prev">← Previous Chapter</a>
+        {{ end }}
+        {{ if .Params.next }}
+        <a href="{{ .Params.next }}" class="nav-next">Next Chapter →</a>
+        {{ end }}
+    </nav>
+
+    <footer class="chapter-footer">
+        <p class="translation-note">From the Conversational New Testament translation by {{ .Site.Params.author }}</p>
+    </footer>
+</article>
+{{ end }}
+
+{{ define "scripts" }}
+<script src="{{ "js/bible.js" | relURL }}"></script>
+{{ end }}

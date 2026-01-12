@@ -1,0 +1,43 @@
+---
+book: Luke
+chapter: 1
+next: chapter-02
+title: Luke 1
+translation: WNT
+type: chapter
+weight: 1
+---
+
+## Luke Chapter 1
+
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Inasmuch-as many took-in-hand to-draw-up (an) account about the-things fulfilled among us, 2even-as the-ones being eyewitnesses from (the) beginning and minsters of-the word, 3it-seemed-good to-me-also, having-traced all-things from the-beginning, to-write to-you in-orderly-fashion, most-excellent Theophilus, 4in-order-that you-may-know the accuracy about what words you-were-orally instructed.</span>
+
+<span class="verse" id="v5"><sup class="verse-num">5</sup> It-happened in the days of-Herod, king of-[the] Judaea, (that there was) (a) certain priest, Zachariah by-name, from (the) course of-Abijah, and (the) wife to-him (was) from the daughters of-Aaron, and the name of-her (was) Elizabeth. 6And they-were both just before [the] God, going in all the commandments and just-requirements of-the Lord, blameless. 7And (a) child was not to-them, because [the] Elizabeth was sterile, and both were advanced in the years of-them.</span>
+
+<span class="verse" id="v8"><sup class="verse-num">8</sup> And it-happened in [the] his carrying-out-the priesthood-duties in the order of-the course of-him before [the] God—9according-to the custom of-the priestly-office, he-was-chosen-by-lot [the] to-offer-incense, having-entered into the sanctuary of-the Lord—10and/that all the multitude of-the people was praying outside at-the hour of-[the] incense-offering. 11And (an) angel of-(the)-Lord appeared to-him, standing of (the) right[s] of-the altar of-[the] incense. 12And Zachariah was-troubled, having seen (him); and fear fell on him.</span>
+
+<span class="verse" id="v13"><sup class="verse-num">13</sup> And the angel said to him, "Do┘not└fear, Zachariah, because the prayer of-you was-heard, and the wife of-you, Elizabeth, will-bear (a)son to-you, and you-will-call the name of-him John. 14And he-will-be (a) joy to-you and gladness, and many will-rejoice at the birth of-him. 15For he-will-be-great before [the]ms Lord, and he-will┘certainly not└drink wine and strong-beer; and he-will-be-full of-(the)-Holy Spirit even from (the) womb of-(the)-mother of-him, 16and he-will-turn many of-the sons of-Israel to (the) Lord the God of-them. 17And he will-go before him in (the) spirit and power of-Elijah, to-turn (the) hearts of-fathers to-(their)-children and (the) disobedient-ones to (the) attitude of-(the)-righteous, to-ready (a) people prepared for-(the)-Lord."</span>
+
+<span class="verse" id="v18"><sup class="verse-num">18</sup> And Zachariah said to the angel, "According-to what will-I-know this? For I am (an) old-man, and the wife of-me (is) advanced in the days of-her."</span>
+
+<span class="verse" id="v19"><sup class="verse-num">19</sup> And the angel, having-answered, said to-him, "I am Gabriel, the-one standing before the God and I-was-sent to-speak to you and to-tell-you these-things. 20And behold, you-will-be silent and not able to-speak until which day these-things happen, instead-of-which things you-did┘not└believe the words of-me, which will-be-fulfilled in the time of-them."</span>
+
+<span class="verse" id="v21"><sup class="verse-num">21</sup> And the people were waiting-for [the] Zachariah, and they-were-being-amazed in [the] his spending-time in the sanctuary. 22And having-come-out, he-was┘not└able to-speak to-them; and they-surmised that he-has/had-seen (a) vision in the sanctuary, and he was signaling to-them and remained mute. 23And it-happened when the days of-the service of-him were-fulfilled, (that) he-went-away to the house of-him. 24And after these [the] days Elizabeth the wife of-him became-pregnant, and she-hid herself for-five months, saying 25[that], "Thus (the) Lord has-done to-me in-which he-looked-on (me) to-take-away (the) disgrace of-me among men."</span>
+
+<span class="verse" id="v26"><sup class="verse-num">26</sup> And in the sixth [the] month, the angel Gabriel was-sent from [the] God to (a) town of-[the] Galilee to-which (was) (the) name Nazareth, 27to (a) virgin engaged to-(a)-man (the) name to-whom (was) Joseph, of (the) house of-David; and the name of-the virgin (was) Mary. 28And having-come-inside to her, he-said, "Mary, hail, favored-one; the Lord (is) with you."</span>
+
+<span class="verse" id="v29"><sup class="verse-num">29</sup> And she-was-startled at the word and, was-wondering what-sort this [the] salutation would-be.</span>
+
+<span class="verse" id="v30"><sup class="verse-num">30</sup> And the angel said to-her, "Do┘not└be-afraid, Mary; for you-found favor with [the] God. 31And behold, you-will-conceive in (the) womb and bear (a) son, and you-will-call the name of-him Jesus. 32This-one will-be great and will-be-called (the) Son of-(the)-Highest, and [the] God will-give to-him the throne of-David the father of-him. 33And he-will-rule over the house of-Jacob unto the ages/forever3, and (an) end of-the kingdom of-him will┘not└be."</span>
+
+<span class="verse" id="v34"><sup class="verse-num">34</sup> And Mary said to the angel, "How will┘this└be, because I-do┘not└know (a) husband?"</span>
+
+<span class="verse" id="v35"><sup class="verse-num">35</sup> And the angel, having-answered, said to-her, "(The) Holy Spirit will-come over you, and (the) power of-(the)-Highest will-overshadow you. Wherefore also the holy (child) begotten will-be-called (the) Son of-God. 36And behold, Elizabeth the kinsman of-you—even/also she-conceived (a) son in (the) womb of-her; and this is (the) sixth month for-her the-one called sterile, 37because any thing will┘not└be-impossible with [the] God."</span>
+
+<span class="verse" id="v38"><sup class="verse-num">38</sup> And Mary said, "Behold, the servant of-(the)-Lord. May-it-become to-me according-to the word of-you."</span>
+
+<span class="verse" id="v39"><sup class="verse-num">39</sup> And Mary, having-arisen in [the] these days, traveled to the hill-country with haste to (a) city of-Judah, 40and she-entered into the house of-Zachariah and greeted [the] Elizabeth. 41And it-happened when [the] Elizabeth heard the salutation of-[the] Mary, (that) the baby kicked in the womb of-her, and [the] Elizabeth was-filled-with (the) Holy Spirit. 42And she shouted with-(a)-loud voice and said, "Blessed (are) you among women and blessed (is) the fruit of-the womb of-you. 43And whence to-me (is) this [in-order]-that the mother of-the Lord of-me should-come to me? 44For behold, when the sound of-the salutation of-you came into the ears of-me, the baby kicked in the womb of-me with joy. 45And blessed is the-one having-believed that (an) end will-be to-the-things spoken to-her from (the) Lord."</span>
+
+<span class="verse" id="v46"><sup class="verse-num">46</sup> And Mary said,</span>
+
+<span class="verse" id="v50"><sup class="verse-num">50</sup> And the mercy of-him (is) unto generations and generations 51He-did (a) mighty-thing with (the) arm of-him; 52He-brought-down powerful-ones from (their) thrones, 53Hungering-ones he-filled-with good things, 54He-helped Israel, (the) child of-him, 56And Mary stayed with her about three months, and returned to the house of-her. 57And the-time was-fulfilled to-[the] Elizabeth [the] for-her to-give-birth, and she-bore (a) son. 58And the neighbors and the kinsmen of-her heard that (the) Lord was-magnifying the mercy of-him with her, and they-were-rejoicing-with her. 59And it-happened on the eighth [the] day, they-came to-circumcise the little-child, and they-were-calling him by the name of-the father of-him Zachariah. 60And having-responded, the mother of-him said, "No, but he-will-be-called John." 61And they-said to her [that], "Nobody is out-of the kinsmen of-you who is-called by-[the] this name." 62And they-starting-making-motions to-the father of-him [the] what he-would-want to-call him. 63And having-asked-for (a) tablet, he-wrote, saying, "John is (the) name of-him." And all were-marveling. 64And the mouth of-him was-opened immediately, and the tongue of-him (was loosed), and he-began-to-speak, blessing [the] God. 65And fear came over all the–ones living-around them; and in the whole hill country of-[the] Judaea, all [the] these things were-being-talked-about. 66And all the-ones having-heard, put (it) in the heart of-them, saying, "What then will┘[the] this little-child└be?" for (the) hand of-(the)-Lord was with him. 67And Zachariah the father of-him was-filled-with [the] Holy Spirit and prophesied, saying, 76And you also, little-child, will-be-called (a) prophet of-(the)-Highest; 80And the little-child grew and became-strong in-spirit, and he-was in [the] desert-places until (the) day of-(the)-showing of-him to [the] Israel.</span>

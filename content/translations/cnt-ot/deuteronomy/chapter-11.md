@@ -1,0 +1,14 @@
+---
+book: Deuteronomy
+chapter: 11
+next: chapter-12
+prev: chapter-10
+title: Deuteronomy 11
+translation: CNT
+type: chapter
+weight: 11
+---
+
+## Deuteronomy Chapter 11
+
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Love the LORD and always keep his ordinances. 2I'm not speaking to your sons today. They haven't seen his discipline, his greatness, his strong hand and outstretched arm; 3his signs and works against Pharaoh, his country, 4his army, its horses and chariots. He made the Red Sea overwhelm them when they chased you. 5Your children didn't see what he did to you in the desert before you got here. 6They didn't see what he did to Dathan and Abiram, Eliab's sons, when the ground swallowed them, their families, tents, and everything living with them. 7But you have seen his great work. 8"Keep every commandment I'm giving you so you'll be strong enough to take over the land, 9so you'll live a long time in that land flowing with milk and honey. 10That land is not like Egypt, where you sowed your seed and watered it by hand like a vegetable garden. 11The land you're entering has hills and valleys that soak up rain, 12a land the LORD takes care of and watches over year around. 13"If you'll love him and serve him with all your heart and soul, 14he'll give you the autumn and spring rains so you can harvest your grain, new wine, and olive oil. 15He'll grow grass in your pastures for your livestock, and you'll eat till you're satisfied. 16Don't let your hearts deceive you into serving other gods. 17His anger will flare at you, and he'll stop the sky from raining and the ground from growing crops, and you'll soon perish. 18"Impress these things on your heart and soul, tie them to your hand, wear them on your forehead. 19Teach them to your children. Talk about them when you're sitting at home, walking down the road, lying down, or getting up. 20Write them on your gates and doorposts 21so you and your children will flourish in the land for as long as the sky's above the earth. 22If you keep these commandments carefully, 23the LORD will drive out the nations. You'll take over nations bigger and stronger than you. 24Everywhere you step you'll own. Your borders will stretch from the desert to Lebanon, from the Euphrates River to the Mediterranean Sea. 25Nobody will be able to withstand you. Your God will make the whole land afraid of you. 26"I'm setting in front of you a blessing and a curse: 27a blessing if you listen to what I'm giving you, 28a curse if you turn aside after other gods. 29When the LORD takes you to the land, put the blessing on Mount Gerizim and the curse on Mount Ebal. 30Aren't they across the Jordan toward the sunset in the land of the Canaanites who live in the Arabah near Gilgal and the Oaks of Moreh? [31-32]</span>

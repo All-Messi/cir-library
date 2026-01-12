@@ -1,0 +1,6 @@
+{{- $pages := where .Site.RegularPages "Type" "in" (slice "essays" "chapter") -}}
+{{- $index := slice -}}
+{{- range $pages -}}
+  {{- $index = $index | append (dict "title" .Title "permalink" .Permalink "content" (.Plain | truncate 500) "categories" .Params.categories "book" .Params.book) -}}
+{{- end -}}
+{{- $index | jsonify -}}

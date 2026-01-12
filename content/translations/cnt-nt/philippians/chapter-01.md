@@ -1,0 +1,19 @@
+---
+book: Philippians
+chapter: 1
+next: chapter-02
+title: Philippians 1
+translation: CNT
+type: chapter
+weight: 1
+---
+
+## Philippians Chapter 1
+
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Paul and Timothy, servants of ChristMessiah Jesus, to the saints in Philippi and their bishops and deacons. 2Grace and peace from God our Father and the Lord Jesus Christ.</span>
+
+<span class="verse" id="v3"><sup class="verse-num">3</sup> I'm grateful for the memories I have of you. 4I gladly mention you in my prayers 5because of your fellowship in the gospel since day one. 6I'm confident that the good work God began in you he'll keep perfecting till Christ comes. 7It's right for me to regard you that way because in my imprisonment and defense of the gospel, you've shared your grace with me. 8God is witness, I long for you with the affections Jesus has. 9I pray that your love will keep growing along with knowledge and insight 10so you'll approve what's excellent, be sincere, and keep your conscience clear till Christ comes. 11That way the fruit that comes from goodness will fill you, the fruit that comes through Jesus Christ to God's glory and praise.</span>
+
+<span class="verse" id="v12"><sup class="verse-num">12</sup> I want you to know that what's happened to me has turned out to promote the good news. 13My imprisonment has become well-known throughout the Praetorian Guard and elsewhere. 14More believers have trusted in the Lord and because of my imprisonment have dared to speak the message more boldly. 15Some people are preaching Christ out of spite and strife; others out of good will. 16Some do it out of love because they know I'm set to defend the good news. 17The others present him out of rivalry, not sincerely. They think they can stir up trouble for me in my imprisonment. 18What then? Whether in pretense or truth, Christ is getting presented and I'm glad. 19I know it'll lead to my release through your prayer and the support of the Spirit of Jesus Christ. 20That fits with my deep desire and hope that I'll never be shamed, but hold Christ in high honor in my body whether by life or death—as always, so now. 21For me, to live is Christ, to die is better. 22But if living means productive work, I don't know what to choose. 23I'm torn between wanting to leave and be with Christ (better for me) 24and wanting to stay (more necessary for you). 25I'm convinced I'll stay and stand with you for your progress and joy in the faith, 26so the pride you have in Christ Jesus will increase in connection with me when I can be with you again.</span>
+
+<span class="verse" id="v27"><sup class="verse-num">27</sup> Make sure you conduct yourselves in a way that's appropriate for the good news about Christ. Then, whether I can come to see you or not, I can hear that you're standing firm in one spirit with one mind, that you're striving together by trusting in the good news, 28and that you're not alarmed by your opponents. Their opposition is evidence for their destruction and your salvation—a situation that comes from God. 29For the sake of Christ, you've had the opportunity to believe in him and suffer for him. 30You're facing the same struggle you saw me face and hear that I'm facing now.</span>

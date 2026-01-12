@@ -1,0 +1,3925 @@
+---
+author: Virgil Warren, PhD
+categories:
+- Bible Resources
+date: '2026-01-11'
+draft: false
+title: THE COMBINED GOSPELS
+weight: 1
+---
+
+THE COMBINED GOSPELS
+
+Mt Mk Lk Jn
+
+Luke’s Prologue (Lk 1:1-4)
+
+1:1Quite a number of people have undertaken to put together an account of what’s been fulfilled among us. 2Eyewitnesses from the beginning and ministers of the message have handed down those events to us. 3It seemed fitting to me as well, to trace them from the start and write you an orderly account, most excellent Theophilus. 4That way you can know for sure that your oral instruction was accurate.
+
+The Genealogy of Jesus According to Matthew
+
+(Mt 1:1-17; cp. Lk 3:23b-38)
+
+1:1The genealogy of Jesus Messiah, son of David, son of Abraham:
+
+2Abraham, father of	David was father of	Shealtiel, father of
+
+Isaac, father of	7Solomon by his wife, who		Zerubbabel, 13father of
+
+Jacob, father of 		   had been the wife of Uriah.	Abiud, father of
+
+Judah and his brothers;	   Solomon was father of	Eliakim, father of
+
+3Judah was father of		Rehoboam, father of 	Azer, 14father of
+
+Peres and Zerah by Tamar;	Abijah, father of 	Sadoc, father of
+
+Peres was father of 		Asa, 8father of 	Achim, father of
+
+Hezron, father of 		Jehoshaphat, father of	Eliud, 15father of
+
+Ram, 4father of		Joram, father of	Eleazar, father of
+
+Aminidab, father of 		Uzziah, 9father of 	Mattham, father of
+
+Nahshon, father of 		Jotham, father of	Jacob, 16father of
+
+Joseph,
+
+Salmon, 5father of		Ahaz, father of 	   husband of Mary,
+
+who
+
+Boaz by Rahab;		Hezekiah, 10father of	   gave birth to Jesus,
+
+Boaz was father of		Manasseh, father of	   called Messiah.
+
+Obed by Ruth;		Amon, father of
+
+Obed was father of		Josiah, 11father of
+
+Jesse, 6father of 		Jechoniah and his brothers
+
+David the king.		   at the exile to Babylon.
+
+12After the exile to
+
+Babylon, Jechoniah
+
+was father of
+
+17So there are fourteen generations from Abraham to David, fourteen from David to the exile in Babylon, and fourteen from the exile to Messiah.
+
+The Pre-Existence and
+
+Incarnation of the Messiah (Jn 1:1-18)
+
+1:1In the beginning the Word was there. The Word was with God, and the Word was deity. 2He was in the beginning with God. 3He made everything; nothing came into existence without him. 4He had life in himself, life that gave light to mankind. 5The light shined in the dark, but the darkness tended not to accept it.
+
+6God sent a man named John 7to tell people about the light so everybody would believe through him. 8He wasn’t the light, but came to talk about 9the light, the true light that enlightens every person in the world. 10He was in the world and made the world, but it didn’t know him. 11He came into his own things, but his own people didn’t accept him. 12But, to as many as did accept him and trust him, he gave the right to become God’s children. 13They weren’t born from blood, physical desire, the will of a husband, but from God. 14The Word took on a physical nature and lived among us for a while. We saw his glory, glory like the only One the Father begot, full of grace and truth.
+
+15John shouted, “This is the One I was talking about when I said, ‘There’s a man coming after me who has come to be before me, because he existed before me.’” 16From his full measure we’ve all received grace on top of grace. 17Moses gave law, but Jesus Messiah brought grace and truth. 18Nobody has ever seen God; the only begotten deity—the One dear to the Father—has shown what he’s like.
+
+The Birth of John Announced (Lk 1:5-25)
+
+5At the time of Herod, king of Judaea, there was a priest named Zachariah from the Abijah division. His wife Elizabeth descended from Aaron. 6They were both righteous before God and conducted themselves blamelessly by his commandments. 7Elizabeth couldn’t have children, and both were getting old.
+
+8Zachariah was carrying out his priestly duties before God in the sequence of his division. 9He’d been chosen by lot—according to the custom of the priestly office—to go in the sanctuary of the Lord to offer incense. 10A crowd outside was praying. 11An angel of the Lord appeared to him, standing on the right side of the altar of incense. 12When Zachariah saw him, fear gripped him. 13The angel said,
+
+“You don’t need to be afraid, Zachariah; God has heard your prayer. Your wife will have a son, and you’re to name him ‘John.’ 14You’ll be so happy, and many will celebrate his birth. 15He’ll be great before the Lord:
+
+He won’t drink wine or strong beer.
+
+He’ll be full of the Holy Spirit from birth.
+
+16He’ll return many Israelites to the Lord their God.
+
+17He’ll go ahead of the Lord in the spirit and power of Elijah.
+
+He’ll return the hearts of fathers to their children,
+
+and the disobedient to the attitude good people have.
+
+He’ll prepare a people for the Lord.”
+
+18Zachariah said, “How am I going to know this? I’m an old man; my wife is up in years.”
+
+19“I’m Gabriel; I stand beside the Lord. He sent me to bring you this good news. 20You won’t be able to speak till it happens, because you didn’t believe what I told you; but it will come about in due time.”
+
+21The people that were waiting for Zachariah couldn’t believe how long he’d been in the sanctuary. 22When he did come out, he couldn’t talk to them. They suspected he’d seen a vision in the sanctuary. He kept making gestures to them but couldn’t speak.
+
+23When his term of service was up, he went back home. 24Later Elizabeth became pregnant. She hid herself five months, 25“This is how the Lord treated me when he looked at me and took away my disgrace among people.”
+
+The Birth of Jesus Announced (Lk 1:26-38)
+
+26In Elizabeth’s sixth month, God sent Gabriel to Nazareth, a town in Galilee. 27He went to a virgin named Mary, who was engaged to Joseph, a descendant of David. 28He went inside, and said, “Hello, favored one; the Lord’s with you.” 29What he said startled her; she wondered what it meant.
+
+30The angel said,
+
+“You don’t need to be afraid, Mary. God’s pleased with you. 31You’ll be pregnant and have a son; you’re to name him ‘Jesus.’
+
+32He’ll be great;
+
+he’ll be called the Son of the Most High.
+
+The Lord God will give him the throne of his ancestor David.
+
+33He’ll rule over the descendants of Jacob forever;
+
+his kingdom will never end.”
+
+34Mary said, “How can that be? I don’t have a husband.”
+
+35“The Holy Spirit will come on you, and the power of the Most High will overshadow you. So the Holy One that’s begotten will be called God’s Son. 36Your relative Elizabeth is pregnant too with a son in her old age. This is the sixth month with her that’s been childless. 37God can do anything.”
+
+38Mary said, “I’m the Lord’s servant; it can be like you’ve said.”
+
+The angel left.
+
+Mary Visits Elizabeth (Lk 1:39-56)
+
+39Then Mary hurried to a town in the hill country of Judaea. 40She went in Zachariah’s house and greeted Elizabeth. 41When Elizabeth heard her greeting, the baby kicked and Elizabeth was filled the Holy Spirit: 42she shouted, “You are blessed among women, and your baby is blessed. 43How is it that my Lord’s mother has come to me? 44When I heard you say, ‘Hello,’ the baby kicked for joy in my womb. 45You’re blessed for believing the Lord will keep his promise to you.”
+
+46Mary said,
+
+“My soul lifts up the Lord;
+
+47I’m happy because God my Savior
+
+48has regard for my modest circumstances.
+
+From now on, all generations will consider me blessed.
+
+49The Mighty One has done great things for me;
+
+he is holy.
+
+50His mercy is for generations and generations
+
+toward people that respect him.
+
+51He has done a mighty thing.
+
+He has scattered the proud in their vanity.
+
+52He has brought down rulers from thrones,
+
+and lifted up the poor.
+
+53He has filled the hungry with good things,
+
+and sent the rich away empty.
+
+54He has helped Israel his child
+
+in remembering his mercy,
+
+55as he promised our ancestors,
+
+Abraham and his descendants forever.”
+
+56Mary stayed with her three months and went back home.
+
+Jesus’ Birth Announced to Joseph (Mt 1:18-25)
+
+18This is the way the birth of Jesus Messiah took place. Mary his mother was engaged to Joseph. Before they got married, it was discovered that she was pregnant—by the Holy Spirit. 19Joseph her husband was a good man and didn’t want to disgrace her publicly; he intended to break off the engagement privately. 20As he was thinking about it, an angel of the Lord appeared in a dream, “Joseph, son of David, don’t be afraid to marry her. She’s pregnant by the Holy Spirit. 21She’ll have a son. Name him ‘Jesus,’ because he’ll ‘save’ his people from their sins.” 22This fulfilled what the Lord had said by Isaiah the prophet,
+
+23“A VIRGIN WILL HAVE A SON;
+
+THEY’LL CALL HIM ‘EMMANUEL’ [‘God with us’]” [Is 7:14].
+
+24Joseph got up and did what the angel said, and had no relations with her till she had a son, and he named him “Jesus.”
+
+The Birth and Naming of John (Lk 1:57-80)
+
+57The time came for Elizabeth to have her baby, and she had a son. 58Her neighbors and relatives heard that the Lord showed her such mercy, and they celebrated with her. 59On the eighth day they came to circumcise the little boy, and started calling him “Zachariah,” after his father. 60His mother answered, “No, his name is ‘John.’”
+
+61But they said, “None of your relatives are named that.” 62They motioned to his father what he wanted to name him.
+
+63He asked for a tablet and wrote, “His name is ‘John.’”
+
+They were surprised. 74Right then, Zechariah began to speak and praise God. 65Their neighbors were afraid. Everybody in the hill country of Judaea was talking about it. 66The ones that heard what happened took it to heart, “What’s this child going to be” [because the Lord was with him]?
+
+67Zachariah was filled with the Holy Spirit and prophesied:
+
+68“Blessed be Israel’s God.
+
+He has visited us,
+
+and delivered his people.
+
+69He has raised up a horn of salvation for us
+
+in the house of David his servant—
+
+70as he said through his holy prophets of old—
+
+71salvation from our enemies,
+
+from everybody that hates us.
+
+72He showed mercy to our ancestors and
+
+remembered his holy covenant,
+
+73the oath he swore to our ancestor Abraham,
+
+74to deliver us from our enemies
+
+so we can serve him without fear
+
+75in holiness and goodness our whole lives.
+
+76You, child, will be a prophet for the Most High.
+
+You’ll go ahead of the Lord
+
+to prepare his way,
+
+77to tell his people how to be saved from their sins.
+
+78Our God is a God of tender mercy.
+
+Because of it the Sunrise from on high will visit us,
+
+79to shine on a people sitting in darkness and
+
+the shadow of death,
+
+to direct us into the way of peace.”
+
+80The child grew up and became strong in spirit. He lived in the open country till his public appearance to Israel.
+
+The Birth of Jesus (Mt 2:1a; Lk 2:1-7)
+
+2:1At that time Caesar Augustus sent out a decree to take a census of the Roman Empire. 2That was the first census, when Quirinius was governor of Syria. 3Everybody went to his ancestral city to register. 4Joseph went up from Nazareth in Galilee to Judaea, to Bethlehem, the city of David, because he descended from David. 5He went up to register with Mary, who was engaged to him and pregnant. 6While they were there, it came time for her to have her baby, 7and she had her firstborn, a son. She wrapped him in baby cloths and laid him in a manger because there wasn’t any room for them in the inn.
+
+The Angels and the Shepherds (Lk 2:8-20)
+
+8Not far away, shepherds were watching sheep outdoors at night. 9An angel of the Lord stood beside them, and the glory of the Lord shined around them. It really scared them. 10The angel said, “You don’t need to be afraid; I have some good news for you that will make people really happy. 11A Savior was born today in the city of David: Messiah the Lord. 12You’ll find a baby wrapped in baby cloths, lying in a manger.” 13Suddenly a great choir of angels in the sky joined the angel, praising God:
+
+14“Glory to God in the highest,
+
+and on earth peace to men that please him.”
+
+15When the angels had gone back to heaven, the shepherds said, “Let’s go to Bethlehem and see what the Lord’s told us about.” 16They hurried away and found Mary and Joseph, and the baby that was lying in a manger. 17When they’d seen him, they told everybody what the angel said about him. 18They were amazed at what the shepherds were saying. 19Mary treasured these things up in her heart. 20The shepherds went back, glorifying and praising God for everything they’d seen and heard, just like the angel said.
+
+Jesus’ Circumcision, Naming,
+
+and Presentation in the Temple (Lk 2:21-39)
+
+21When the eight days had passed for circumcising him, they named him “Jesus,” as the angel had directed them before Mary became pregnant.
+
+22When the days were over for their purification according to the law of Moses, they went up to Jerusalem to present him to the Lord—23as the law of the Lord says,
+
+“SET ASIDE TO THE LORD EVERY FIRTBORN MALE”— [Ex 13:2, 12, 15, 24]
+
+24and to offer the sacrifice the law called for:
+
+“A PAIR OF TURTLEDOVES OR TWO YOUNG PIGEONS” [Lev 12:2].
+
+25A man in Jerusalem named Simeon, a good, devout man, was waiting for the liberation of Israel. The Holy Spirit was on him and 26told him that he’d see the Lord’s Messiah before he died. 27He came in the temple in the Spirit; and when the parents brought in the child Jesus to do for him according to custom, 28he took him in his arms and blessed God:
+
+29“Now, Master, your servant can leave the world
+
+in peace as you said.
+
+30I’ve seen the salvation
+
+31you prepared in front of all peoples,
+
+32a light for revelation to Gentiles
+
+and for the glory of your people Israel.”
+
+33Joseph and Mary marveled at what he was saying. 34Simeon blessed them, and told Mary, “This child stands for the rise and fall of many in Israel and for a sign spoken against—35a sword will pierce your heart too—that many people’s thoughts may be revealed.”
+
+36There was also Hannah, a prophetess, daughter of Penuel from the tribe of Asher. She was quite old; she’d lived with a husband seven years from her virginity, 37and then as a widow to the age of eighty-four. She lived in the temple, worshiping with fasting and prayer day and night. 38She came up and thanked God, and talked about the child to everyone that was waiting for the liberation of Jerusalem.
+
+39When they finished everything according to the Law, they went back home.
+
+The Visit of the Magi (Mt 2:1-12; Lk 2:40)
+
+2:1When Jesus was born in Bethlehem in Judaea during the reign of Herod the king, Magi from the East arrived in Jerusalem, 2“Where’s the one born king of the Jews? In the East we saw his star and came to pay homage to him.” 3When Herod heard this, he was disturbed and Jerusalem as well. 4He gathered the chief priests and scribes of the people and asked them where the Messiah would be born.
+
+5They said, “In Bethlehem in Judaea. The prophet wrote,
+
+6‘YOU, BETHLEHEM in Judah,
+
+ARE by no means LEAST AMONG THE LEADERS OF JUDAH.
+
+A LEADER WILL COME OUT OF YOU
+
+THAT WILL SHEPHERD MY PEOPLE ISRAEL’” [Mic 5:2].
+
+7Herod privately called the Magi to find out when the star had appeared. 8He sent them to Bethlehem, “Look for the child carefully. When you find him, let me know so I can come and pay homage to him as well.”
+
+9When they heard the king, they started traveling, and the star they saw when they were in the East went ahead of them till it stood over above the child was. 10When they saw the star, they were overjoyed. 11They went in the house and saw the child with Mary his mother, and fell down and paid homage to him. They opened their treasures and brought him gold, frankincense, and myrrh. 12God warned them in a dream not to go back to Herod; so they left for their country another way.
+
+The Flight to Egypt;
+
+the Slaughter of the Infants (Mt 2:13-18)
+
+13When they’d gone, an angel of the Lord appeared to Joseph in a dream, “Get up and flee to Egypt with the child and his mother. Stay there till I tell you. Herod intends to look for the child to destroy him.” 14Joseph got up during the night and took them to Egypt. 15He stayed there till Herod died—in keeping with what the Lord said by the prophet,
+
+“I’VE CALLED MY SON OUT OF EGYPT” [Hos 11:2].
+
+16When Herod saw that the Magi had tricked him, he was enraged. He had all the male children killed in Bethlehem and the surrounding region—those two years and under as figured from the time he’d learned from the Magi. 17That fulfilled what Jeremiah the prophet said,
+
+18“A SOUND WAS HEARD IN RAMAH,
+
+WEEPING AND GREAT MOURNING,
+
+RACHEL WEEPING FOR HER CHILDREN.
+
+SHE WOULDN’T BE CONSOLED;
+
+THEY WERE NO LONGER LIVING” [Jer 31:15].
+
+The Return from Egypt and
+
+Settlement in Nazareth (Mt 2:19-23; Lk 2:40)
+
+19After Herod died, an angel of the Lord appeared to Joseph in a dream in Egypt, 20“Get up and take the child and his mother to Israel. The ones that were trying to kill the child have died.” 21He got up and took them to Israel. When he heard that Archelaus was reigning over Judaea in place of his father Herod, he was afraid to go there. 22When God warned him in a dream, he left for Galilee. 23He settled down in a town called Nazareth, a name that reminds us of what the prophets said he’d be: a Nazarene [nezer, shoot].
+
+40The child grew and became strong and increased in wisdom, and God’s grace was on him.
+
+The Youth of Jesus (Lk 2:41-52)
+
+41Every year his parents would go up to Jerusalem to the Passover Festival. 42When he was twelve, they went up to the festival as usual. 43After it was over, they headed back; but the boy Jesus stayed in Jerusalem, and his parents didn’t know it. 44They supposed he was in the caravan. They traveled for a day and started looking for him among relatives and acquaintances. 45When they didn’t find him, they went back to Jerusalem. 46Three days later they found him in the temple, sitting among the teachers, listening and asking them questions. 47Everybody that heard him was surprised at his understanding and answers. 48When his parents saw him, they were astonished.
+
+His mother said, “Son, why have you done this to us? Your father and I have been looking for you, worried sick.”
+
+49He said, “Why were you looking all over for me? Didn’t you know I’d be in my Father’s house?”
+
+50They didn’t understand what he meant.
+
+51He went down with them to Nazareth and was subject to them, and his mother treasured this up in her heart. 52Jesus kept growing in wisdom and stature, in favor with God and man.
+
+The Beginning of John’s Ministry
+
+(Mt 3:1-6; Mk 1:1-6; Lk 3:1-6)
+
+3:1In the fifteenth year of Tiberias Caesar, Pontius Pilate was governor of Judaea, Herod was tetrarch of Galilee, his brother Philip was tetrarch of Iturea and Trachonitis, and Lysanius was tetrarch of Abilene. 2Annas and Caiaphas were high priests.
+
+That’s when the message from God came to John, son of Zachariah, in the desert. He came preaching in the desert of Judaea 3and around the Jordan River, proclaiming a baptism of repentance to forgive sins: “Repent; the kingdom of heaven’s coming.” He’s the one Isaiah the prophet spoke of:
+
+“I’LL SEND MY MESSENGER AHEAD OF YOU
+
+TO PREPARE your WAY, [Ex 23:20; Mal 3:1]
+
+4“ONE SHOUTING IN THE DESERT,
+
+‘GET THE ROAD READY FOR THE LORD.
+
+MAKE IT STRAIGHT.
+
+5FILL EVERY CHUCK HOLE.
+
+LEVEL OUT EVERY BUMP AND HIGH SPOT.
+
+STRAIGHTEN OUT THE CURVES.
+
+SMOOTH OUT THE ROUGH PATCHES.
+
+6EVERYBODY WILL SEE GOD’S SALVATION’” [Is 40:3-5].
+
+4John wore a garment made out of camel’s hair and a leather belt around his waist. He lived on locusts and wild honey. 5People from Jerusalem, all over Judaea, and the area around the Jordan River were going out 6and having him baptize them in the Jordan as they confessed their sins.
+
+An Example of John’s Preaching
+
+(Mt 3:7-12; Mk 1:7-8; Lk 3:7-18)
+
+7He said to the crowds that were coming out to have him baptize them—including many Pharisees and Sadducees,
+
+“Nest of vipers! Who warned you to flee from the wrath to come? 8Bear fruit fit for repentance, and don’t say to yourselves, ‘Abraham’s our ancestor.’ God can raise up descendants of Abraham from these rocks. 9An axe is already lying at the base of the trees. Every tree that doesn’t bear good fruit will be chopped down and thrown in the fire.”
+
+10The crowds asked him, “What should we do?”
+
+11“Whoever has two tunics, give one to a person that doesn’t have any. Whoever has food, do the same thing.”
+
+12Tax collectors also came to be baptized, “Rabbi, what should we do?”
+
+13“Don’t collect more than you’re ordered.”
+
+14Soldiers asked, “What should we do?”
+
+“Don’t take money by force or extort it by false charges. Be satisfied with your pay.”
+
+15While people were in suspense, wondering if John might be the Messiah, 16he said, “I’m immersing you in water to repentance, but One stronger than I am is coming. I’m not worthy to undo his sandal straps. He’ll immerse you in the Holy Spirit and fire. 17His winnowing fork is in his hand to thoroughly clean up his threshing floor. He’ll gather the seed into his granary and burn up the chaff with a fire you can’t put out.”
+
+18He encouraged them about many other things and proclaimed good news to the people.
+
+The Baptism of Jesus
+
+(Mt 3:13-17; Mk 1:9-11; Lk 3:21-22a)
+
+While John was baptizing the people, Jesus of Nazareth arrived from Galilee at the Jordan to have John baptize him, but John tried to stop him, 14“You need to baptize me, and you’re coming to me?”
+
+15Jesus answered, “Let’s do this; it’s fitting to do everything that’s right.” Then he went ahead and baptized him.
+
+When he came up out of the water praying, the sky opened up, and John saw God’s Spirit coming down on Jesus in bodily form like a dove. A voice came out of the sky, “You’re my beloved Son that I delight in.”
+
+The Genealogy of Jesus According
+
+to Luke (Lk 3:23-38; cp. Mt 1:1-17)
+
+23Jesus was about thirty years old when he began his ministry. He was—as supposed—the
+
+son of Joseph, 	son-in-law of Eli,	son of Matthat, 	24son of Levi,	son of Melchi,
+
+son of Jannai,	son of Joseph,	25son of Mattathias, son of Amos,	son of Nahum,
+
+son of Hesli,	son of Naggai,	26son of Haath, 	son of Mattathias, son of Semein,
+
+son of Josech,	son of Joda,	27son of Joanan, 	son of Rhesa,	son of Zerubbabel,
+
+son of Shealtiel, 	son of Neri, 	28son of Melchi,	son of Addi,	son of Cosam,
+
+son of Elmadam,	son of Er,	29son of Johua,	son of Eliezer,	son of Jorim,
+
+son of Matthat, 	son of Levi,	30son of Simeon,	son of Judah,	son of Joseph,
+
+son of Jonam,	son of Eliakim,	31son of Melea,	son of Menna, 	son of Mattathia,
+
+son of Nathan,	son of David,	32son of Jesse,	son of Obed,	son of Boaz,
+
+son of Salmon,	son of Nahshon,	33son of Amminadab, son of Admin,  son of Ram,
+
+son of Hezron,	son of Perez,	son of Judah, 	34son of Jacob, 	son of Isaac,
+
+son of Abraham,	son of Terah,	son of Nahor,	35son of Serug,	son of Reu,
+
+son of Peleg,	son of Heber,	son of Shelah, 	36son of Cainan,	son of Arphaxad,
+
+son of Shem,	son of Noah,	son of Lamech,	37son of Methuselah, son of Enoch,
+
+son of Jared,	son of Mahalaleel, son of Cainan,	38son of Enosh,	son of Seth,
+
+son of Adam,	son of God.
+
+The Temptation of Jesus
+
+(Mt 4:1-11; Mk 1:12-13; Lk 4:1-13)
+
+Then 4:1Jesus came away from the Jordan full of the Spirit. The Spirit took him directly to the desert, and the devil tempted him there for forty days. The Spirit led him during the forty days while he was with the wild animals, and angels were helping him.
+
+2He didn’t eat anything during that time. When it was over, he was hungry. 3The tempter came, “If you’re God’s Son, tell these stones to become loaves of bread.”
+
+4Jesus answered, “The scripture says,
+
+‘PEOPLE ARE NOT TO LIVE BY BREAD ALONE,
+
+4BUT BY EVERY WORD THAT COMES FROM GOD’S MOUTH’” [Deut 8:3].
+
+The devil took him to the Holy City and stood him on the pinnacle of the temple, 6“If you’re God’s Son, jump. The scripture says,
+
+‘HE’LL COMMAND HIS ANGELS TO GUARD YOU,
+
+AND TO CARRY YOU IN THEIR HANDS,
+
+SO YOU’LL NEVER TRIP ON A ROCK’ [Ps 91:11-12].
+
+7Jesus said, “Again scripture says,
+
+‘DON’T TEST THE LORD YOUR GOD’” [Deut 6:16].
+
+8The devil took him to a high mountain and showed him the kingdoms of the world and their splendor in an instant. 9“If you fall down and worship me, 6I’ll give you all this authority and their splendor. It’s been given to me, and I can give it to whoever I want.”
+
+10Jesus said, “Go away, Satan. The scripture says,
+
+‘WORSHIP THE LORD YOUR GOD,
+
+AND only SERVE HIM’” [Deut 6:12].
+
+13The devil finished tempting him and left till another chance would come. Angels came to give him support.
+
+John’s Defense of His Ministry (Jn 1:19-28)
+
+19This is what John said when Jews from Jerusalem sent priests and Levites to ask him, “Who are you?”
+
+20“I’m not the Messiah.”
+
+21“Are you Elijah, then?”
+
+“I’m not Elijah.”
+
+22“Are you ‘the prophet’?”
+
+“No.”
+
+“Who are you, so we can answer the ones that sent us? What do you say about yourself?”
+
+23“I’m the one SHOUTING IN THE DESERT, ‘MAKE THE WAY OF THE LORD STRAIGHT’ [Is 40:3], like Isaiah the prophet said.”
+
+24The Pharisees had sent the ones that came 25to ask him, “Why are you baptizing if you’re not the Messiah, Elijah, or the prophet?”
+
+26“I’m immersing in water. There’s a man standing among you that you don’t know. 27He’ll succeed me, a man whose sandal strap I’m not worthy to take loose.”
+
+28This took place at Bethany on the other side of the Jordan River where John was baptizing.
+
+John’s Identification of Jesus as
+
+the Messiah (Jn 1:29-34)
+
+29The next day he saw Jesus coming,
+
+“Look, the Lamb of God that takes away the sin of the world! 30He’s the One I was talking about when I said, ‘After me a man’s coming that has come to be before me, because he existed before me.’ 31I didn’t know who he was; but to point him out to Israel, I came immersing people in water. 32I’ve seen the Spirit coming down from the sky like a dove and remaining on him. 33The One that sent me to immerse people in water told me, ‘Whoever you see the Spirit coming down and remaining on is the One that will immerse them in the Holy Spirit.’ 34I’ve seen that, and I’m telling you, this is God’s Son.”
+
+The First Disciples of Jesus (Jn 1:35-51)
+
+35The next day John was standing with two disciples. 36When he saw Jesus walk by, he said, “Look, the Lamb of God!” 37His two disciples heard him and followed Jesus. 38Jesus turned around and saw them,
+
+“What are you looking for?”
+
+“Rabbi [Teacher], where are you staying?”
+
+39“I’ll show you.”
+
+So they went and saw where he was staying and stayed with him that day. It was about four o’clock.
+
+40Andrew, Simon Peter’s brother, was one of the two that followed Jesus. 41He found his brother Simon, “We’ve found the Messiah [the Christ].” 42When he brought him to Jesus, Jesus looked at him, “You’re Simon, son of John; you’ll be called Cephas [Peter].”
+
+43The next day Jesus wanted to leave for Galilee. He found Philip, “Come with me.” 44Philip was from Bethsaida, where Andrew and Peter lived. 45Philip found Nathanael, “We’ve found the One that Moses and the prophets wrote about in the law: Jesus of Nazareth, son of Joseph.”
+
+46Nathanael said, “Can anything good come out of Nazareth?”
+
+“I’ll show you.”
+
+47Jesus saw Nathanael coming, “A true Israelite with no deceit in him.”
+
+48Nathanael said, “How do you know me?”
+
+“Before Philip called you, I saw you under the fig tree.”
+
+49Nathanael answered, “Rabbi, you’re God’s Son! You’re the King of Israel!”
+
+50“You believe because I told you I saw you under the fig tree? You’ll see greater things than that. 51You’ll see the sky open up and God’s angels go up and down on the Son of Man.”
+
+The First Miracle—at Cana (Jn 2:1-11)
+
+2:1Three days later there was a wedding at Cana in Galilee. Jesus’ mother was there, 2and Jesus and his disciples were invited. 3When the wine ran out, his mother said to him, “They don’t have any more wine.”
+
+4Jesus said, “What’s between you and us? It’s not my time yet.”
+
+5His mother told the help, “Do whatever he tells you.”
+
+6Now six large stone water pots were standing there that the Jews use for purification. They held twenty or thirty gallons apiece. 7Jesus said, “Fill the pots with water.” They filled them to the brim. 8“Dip some out and take it to the master of ceremonies.” 9When the master of ceremonies tasted it, he didn’t know where it had come from—but the help that drew the water knew. He called the groom, 10“Everybody serves good wine first. When people have drunk freely, they serve wine that’s not as good. You’ve kept the good wine till now.” 11So Cana was where Jesus performed his first sign and demonstrated his glory, and his disciples believed in him.
+
+Visit to Capernaum (Jn 2:12)
+
+After this he, his mother, brothers, and disciples went down to Capernaum and stayed a few days.
+
+The First Cleansing of the Temple (Jn 2:13-25)
+
+13The Jewish Passover was coming up, and Jesus went up to Jerusalem. 14In the temple he found the men that were selling oxen, sheep, and doves, and found moneychangers sitting there. 15He made a whip out of cords and drove the sheep and oxen out of the temple. He poured out the moneychangers’ coins and turned their tables over. 16He told the ones selling doves, “Get them out of here; don’t make my Father’s house a marketplace.” 17His disciples remembered that the scripture said, “ZEAL FOR YOUR HOUSE HAS CONSUMED ME” [Ps 69:9].
+
+18The Jews said, “What sign do you show us that you have a right to do this?”
+
+19Jesus answered, “Destroy this temple, and I’ll raise it up in three days.”
+
+20“It took forty-six years to build this temple, and you’re going to rebuild it in three days?” (21He was talking about his body, “the temple.” 22So when he arose from the dead, his disciples remembered he’d said that, and believed the scripture and what he’d said.)
+
+23While he was in Jerusalem at the Passover festival, many people believed in him because they saw the signs he did. 24But Jesus didn’t entrust himself to them because he knew everybody. He didn’t need anybody to tell him about anybody; he knew what was in him.
+
+Conversation with Nicodemus (Jn 3:1-21)
+
+3:1Nicodemus, a ruler of the Jews, 2came to Jesus at night, “Rabbi, we know you’re a teacher from God. Nobody can do the signs you’re doing unless God’s with him.”
+
+3Jesus answered, “Unless you’ve been born again, you can’t see God’s kingdom.”
+
+4Nicodemus said, “How can you be born when you’re an adult? You can’t get in your mother’s womb a second time and be born, can you?”
+
+5Jesus answered,
+
+“Unless people have been born of water and spirit, they can’t get into God’s kingdom. 6What’s born out of the physical is physical; what’s born out of the spiritual is spiritual. 7Don’t be surprised that I said to yousg, ‘Youpl have to be born again.’ 8The wind blows wherever it likes. You hear it, but you can’t tell where it’s from or where it’s going. That’s the way everybody is that’s born out of the spirit.”
+
+9Nicodemus responded, “What are you talking about?”
+
+10“You’re a teacher in Israel and don’t understand that? 11I’m telling yousg, we talk about what we know and tell you about what we’ve seen, and youpl don’t accept what we tell you. 12If I’ve used physical examples and youpl don’t believe them, how will youpl believe if I tell youpl heavenly things? 13Nobody has gone up to heaven except the One that came down from heaven, the Son of Man. 14As Moses held up the brazen viper in the desert, the Son of Man needs to be held up 15so everybody that believes in him can have eternal life.”
+
+16God loved the world so much he gave his only Son so everybody that believes in him wouldn’t perish but have eternal life. 17God didn’t send his Son to the world to condemn it, but to save it. 18Whoever believes in him isn’t condemned, but whoever doesn’t believe stands condemned for not believing in God’s only Son. 19This is the condemnation: light has come to the world, and people love darkness instead because they’re evil. 20People that do evil things hate light and don’t come to it; they don’t want their deeds condemned. 21But people that do the truth come to the light to show that they’re doing their deeds in God.
+
+Jesus’ Growing Ministry and
+
+John’s Waning Ministry at Aenon (Jn 3:22-36)
+
+22After this, Jesus and his disciples went to Judaea, and he stayed there baptizing. 23John was baptizing too—at Aenon close to Salem; there was a good supply of water there.  (24Herod hadn’t put John in prison yet.)
+
+25A controversy about purification came up between John’s disciples and a Jew. 26They came to John and said, “Rabbi, the man that was with you on the other side of the Jordan—the one you vouched for—is baptizing, and everybody’s going to him.”
+
+27John answered,
+
+“A person can’t receive anything unless heaven lets him have it. 28You heard me say yourselves that I’m not the Messiah, that I’ve been sent ahead of him. 29The groom has the bride, the best man enjoys hearing him talk. I’m perfectly at peace with this situation. 30He needs to increase; I need to decrease.
+
+31“The One from above is above everything; someone from the earth talks about the earth. 32The One from above talks about what he’s seen and heard, and people tend not to accept what he says. 33Whoever does accept it, is acknowledging that God tells the truth. 34The One that God sent speaks God’s message; he doesn’t give the spirit just in part. 35The Father loves the Son and has turned everything over to him. 36Whoever trusts in him has eternal life; whoever doesn’t, won’t see life. He doesn’t please God.”
+
+The Ministry in Samaria;
+
+The Woman at the Well (Jn 4:1-42)
+
+4:1When Jesus found out that the Pharisees heard he was making and baptizing more disciples than John (2though Jesus didn’t perform the baptisms himself; his disciples did it), 3he left Judaea and headed back to Galilee. 4He needed to go through Samaria. 5He came to a town in Samaria called Sychar near the plot of land Jacob gave his son Joseph. 6Jacob’s well was there. Jesus was sitting on the well, tired from the trip. It was about noon.
+
+7A Samaritan woman came to draw water, and he said to her, “Give me a drink.” (8His disciples had gone into town to buy food.)
+
+9The woman said, “How does a Jewish man like you ask a Samaritan woman like me for a drink? Jews don’t associate with Samaritans.”
+
+10Jesus answered her, “If you knew God’s gift and who’s saying, ‘Give me a drink,’ you’d be asking him to give you living water.”
+
+11“Sir, you don’t even have a bucket, and the well is deep. Where are you going to get ‘living water’? 12You aren’t greater than our ancestor Jacob, are you? He gave us the well and drank from it himself, his sons, and his herds.”
+
+13Jesus answered, “Everybody that drinks this water gets thirsty again. 14Whoever drinks the water I give him won’t ever get thirsty again. It’ll become a well inside of him, springing up into eternal life.”
+
+15“Sir, give me that water so I won’t get thirsty and have to come here to draw it!”
+
+16Jesus told her, “Go call your husband and come back.”
+
+17“I don’t have a husband.”
+
+18“You said it well. You’ve had five husbands; the one you’re living with now isn’t your husband. You told the truth.”
+
+19The woman said, “Sir, you must be a prophet. 20Our ancestors worshiped on this mountain. Youpl say people should worship in Jerusalem.”
+
+21Jesus told her,
+
+“Believe me, the time’s coming when youpl won’t worship the Father on this mountain or in Jerusalem. 22You don’t know what you’re worshiping. We know what we’re worshiping, because salvation does come from the Jews. 23But, the time’s coming—and it’s here now—when true worshipers will worship the Father in spirit and truth. The Father’s looking for people like that to worship him. 24God’s a spirit. and the ones that worship him need to worship him in spirit and truth.”
+
+25“I know the Messiah’s coming [called Christ]. He’ll explain everything.”
+
+26Jesus said, “I am the Messiah.”
+
+27At that point his disciples got back and were surprised he was talking to a woman. But nobody said, “What are you trying to find out?” “Why are you talking to her?” 28She left her water pot, and went in town, and said to the men, 29“Come see a guy that told me everything I ever did. This isn’t the Messiah, is it?” 30They left the town and were on the way to him.
+
+31Meanwhile the disciples kept saying, “Rabbi, eat something.”
+
+32But he said, “I have ‘food’ to eat that you don’t know about.”
+
+33They said to one another, “Nobody’s brought him anything to eat, have they?”
+
+34Jesus said,
+
+“My ‘food’ is doing the will of the One that sent me and finishing it up. 35Aren’t youpl saying, ‘Harvest is still four months away’? Look; the fields are ready for harvest now. 36Whoever reaps earns wages and gathers grain for eternal life. 37In this respect the saying rings true, ‘One sows, another reaps.’ 38I’ve sent you to reap what you haven’t worked on. Other people have worked, and you’ve joined in their work.”
+
+39From that town many Samaritans believed in him because the woman said, “He told me everything I ever did.” 40So when the Samaritans got to where he was, they asked him to stay with them; and he stayed two days. 41Many more believed because of what he said. 42They told the woman, “We don’t believe just because of what you said. We’ve heard him ourselves, and know this really is the Savior of the world.”
+
+The Arrest of John the Baptist (Lk 3:19-20)
+
+19When John rebuked Herod the tetrarch about Herodias, his brother’s wife, and the wicked things Herod had done, 20Herod added this on top of them all: he locked John up in prison.
+
+Introductory Statements
+
+About the Galilean Ministry
+
+(Mt 4:12-17; Mk 1:14-15; Lk 4:14-15; Jn 4:43-45)
+
+12Jesus heard that John had been arrested. 43After the two days in Sychar, 14aJesus left for Galilee in the power of the Spirit. 24He testified that a prophet doesn’t get any respect in his hometown. 13He moved from Nazareth and settled in Capernaum, 31a town in Galilee by the lake in the region of Zebulum and Naphtali. 14That fulfills what Isaiah the prophet said,
+
+15“LAND OF ZEBULUM, LAND OF NAPHTALI,
+
+BY THE ROAD ALONG THE LAKE,
+
+BEYOND THE JORDAN,
+
+GALILEE OF THE GENTILES—
+
+16THE PEOPLE THAT LIVED IN DARKNESS
+
+SAW A BRIGHT LIGHT.
+
+A LIGHT DAWNED ON THE PEOPLE LIVING
+
+IN THE REGION AND SHADOW OF DEATH” [Is 9:1-2].
+
+45So when he got to Galilee, the Jews welcomed him because they’d seen what he did in Jerusalem; they’d gone to the festival themselves. 14bThe news about him spread throughout the region. He was teaching in their synagogues, and everybody was praising him. 14He was presenting God’s good news: “It’s time; God’s kingdom’s coming. Repent and believe the good news.”
+
+Healing the Official’s Son (Jn 4:46-54)
+
+46Then he went to Cana in Galilee, where he’d turned the water to wine. There was an official whose boy was sick in Capernaum. 47When he heard that Jesus had come from Judaea to Galilee, he went to ask him to come down and heal his boy, who was about to die.
+
+48Jesus told him, “Unless youpl see signs, you won’t believe, will you?”
+
+49The official said, “Sir, come on down before my boy dies.”
+
+50Jesus told him, “Go on, your boy’s alive.”
+
+The man trusted him and went on back.
+
+51As he was going back down to Capernaum, his servants met him and said his child was alive. 52He asked what time he recovered. “Yesterday at one o’clock the fever broke.” 53So his dad knew it was when Jesus said, “Your boy’s alive.” He and his whole household believed. 54This was a second sign Jesus did in Galilee, which he did after he came back from Judaea.
+
+The First Rejection at Nazareth (Lk 4:16-30)
+
+16He went to Nazareth, where he grew up. He went in the synagogue on the Sabbath as usual, and stood up to read. 17They gave him a scroll of the prophet Isaiah, and he unrolled it to where it says,
+
+18“THE SPIRIT OF THE LORD IS ON ME.
+
+HE’S ANOINTED ME TO TELL GOOD NEWS TO THE POOR.
+
+HE SENT ME TO ANNOUNCE RELEASE TO CAPTIVES,
+
+AND SIGHT TO THE BLIND,
+
+TO FREE THE AFFLICTED,
+
+19TO ANNOUNCE THE LORD’S ACCPETABLE TIME” [Is 61:1-2].
+
+20He rolled up the scroll, gave it to the attendant, and sat down. Everybody in the synagogue was looking directly at him. 21He began, “Today you can hear this scripture being fulfilled.”
+
+22They were talking about him and marveling at the eloquent way he was speaking. “Isn’t this Joseph’s son?”
+
+23He said,
+
+“No doubt you’ll use this saying against me: ‘Doctor, heal yourself.’ ‘What we heard happened in Capernaum do in your hometown too.’ 24I’m telling you, no prophet is welcome in his hometown. 25Lots of widows lived in Israel at the time of Elijah, when it didn’t rain for 3½ years and a severe famine dragged on. 26But Elijah wasn’t sent to any of them but to a widow in Zarephath up around Sidon. 27Lots of lepers lived in Israel at the time of Elisha the prophet, but none of them were cleansed but Naaman the Syrian.”
+
+28Everybody in the synagogue just lost it. 29They jumped up and threw him out of town. They hustled him to the brow of the hill the town was built on, to throw him over the cliff. 30But he passed through the mob and left.
+
+Calling Four Fishermen
+
+(Mt 4:18-22; Mk 1:16-20; Lk 5:1-11)
+
+5:1While the crowd was pressing him and listening to God’s message, he was standing by Lake Gennesaret, 2and saw two boats on the edge of the lake. The fishermen had gotten out of them and were washing their nets.
+
+3He got in one of the boats—Simon’s—and asked him to shove it out a little from the shore. Then he sat down and started teaching the crowd from the boat.
+
+4When he stopped teaching, he said to Simon, “Put out into the deep water and let down your nets for a catch.”
+
+5Peter answered, “Master, we worked all night and didn’t catch a thing. But, at your bidding I’ll let down the nets.”
+
+6When they did, they caught such a big school of fish that their nets started to break. 7They signaled to their partners in the other boat to come help. They came and filled both boats so that they were riding low in the water. 8When Peter saw it, he fell at Jesus’ knees, “Go away from me; I’m a sinful man, Lord.” 9Amazement gripped him and everybody with him over the catch of fish, 10including James and John, sons of Zebedee, who were partners with Simon.
+
+Jesus said to him, “You don’t need to be afraid. From now on you’ll be ‘catching’ people.”
+
+11When Peter and his brother Andrew brought their boats to land, they left their nets and everything behind and went with him. 19A little farther along, 21James and John were in a boat with their father, mending nets. 20He called them, and they 22left the boat and their father and the hired help.
+
+Teaching and Miracles in Capernaum
+
+(Mt 8:14-17; Mk 1:21-34; Lk 4:31-41)
+
+31He went down to Capernaum, a town in Galilee. 21He went in the synagogue on the Sabbath and started teaching. 32The people were astonished. 22He was teaching them like someone that had authority and not like the scribes.
+
+23A man in their synagogue had an unclean spirit that shouted, 34“Ah, what’s between you and us, Jesus, you Nazarene? Did you come to destroy us? I know who you are: God’s Holy One.”
+
+25Jesus rebuked it, “Be quiet and come out of him.” 26The unclean spirit convulsed him right in front of them, and made a loud noise, and came out without doing him any harm.
+
+36Everybody was amazed 27and started wondering with each other, “What is this? A new teaching? With authority and power he even gives orders to unclean spirits, and they obey him.” 28The news about him spread everywhere in that part of Galilee.
+
+38He left the synagogue and went to Simon and Andrew’s house with James and John. Simon’s mother-in-law lay sick with a high fever, and they asked Jesus about her. He went to her, 39stood over her and took her hand, and ordered the fever to leave. He raised her up and the fever went away. She got up right away and started waiting on them.
+
+40As the sun was going down, the whole town gathered at the door. They brought him people with several kinds of diseases. He laid hands on each one and healed them. 16People brought him a number of demon-possessed people, and he cast the spirits out with a word. 41They came out of many, crying out, “You’re God’s Son.” He wouldn’t let them keep talking, because they knew he was the Messiah.
+
+17As Isaiah the prophet said,
+
+“HE TOOK OUR WEAKNESSES
+
+AND BORE OUR ILLNESSES” [Is 53:4].
+
+The First General Tour of Galilee
+
+(Mt 4:23-25; Mk 1:35-39; Lk 4:42-44)
+
+35In the morning, a good while before daylight, he got up and went out to a place away by himself and prayed. The crowd was looking for him, and 36Simon and the others hunted for him 37and found him, “Everybody’s looking for you.” The crowd came and tried to keep him from leaving them.
+
+38He said, “Let’s go to the villages nearby so I can preach there. That’s why I came.” 39He went preaching in their synagogues all over Galilee and casting out demons.
+
+23He started going all over Galilee, teaching in their synagogues, announcing the good news about the kingdom, and healing every disease and weakness among the people. 24The news about him spread all over Syria, and they brought him the ill, people distressed with various sicknesses and pains, demoniacs, epileptics, paralytics; and he healed them. 25Large crowds followed him from Galilee, Decapolis, Jerusalem, Judaea, and beyond the Jordan.
+
+The Sermon on the Mount
+
+(Mt 5:1-8:1; cp. Lk 6:17-49)
+
+5:1When he saw the crowds, he went up on a mountain and sat down, and his disciples came to him. 2He started teaching:
+
+3“Blessed spiritually are the poor;
+
+the kingdom of heaven belongs to them.
+
+4“Blessed are the ones in mourning;
+
+they’ll be comforted.
+
+5“Blessed are the humble;
+
+they’ll inherit the earth.
+
+6“Blessed are the ones who are hungry and thirsty for righteousness;
+
+they’ll be satisfied.
+
+7“Blessed are the merciful;
+
+they’ll receive mercy.
+
+8“Blessed are the pure in heart;
+
+they’ll see God.
+
+9“Blessed are the peacemakers;
+
+they’ll be called God’s sons.
+
+10“Blessed are the ones that are persecuted for living right;
+
+the kingdom of heaven belongs to them.
+
+11“Blessed are you when people insult you, mistreat you, say all kinds of things about you as evil because of me. 12Be glad, because you have a great reward in heaven. They mistreated the prophets before you the same way.
+
+13“You’re the salt of the earth; but if salt loses its saltiness, what can make it salty? It’s not good for anything but to be thrown out for people to walk on. 14You’re the light of the world. A city on a hill can’t hide. 15Nobody lights a lamp and sticks it under a basket; he puts on a stand. That way it gives light to everybody in the house. 16Let your light shine so people can see the good things you’re doing and glorify your Father in heaven.
+
+17“Don’t get the impression that I’m here to destroy the law or the prophets. I’m not here to destroy them, but to fulfill them. 18Earth and sky will pass away, but not one iota or one serif will pass away from the law till everything’s accomplished. 19So whoever breaks one of its least commandments and teaches people that way, is least in the kingdom of heaven; but whoever does and teaches them is great in the kingdom of heaven. 20Unless the way you live is better than what the scribes and Pharisees do, you won’t even get in the kingdom of heaven.
+
+21“You’ve heard that God said a long time ago, ‘DON’T MURDER’ [Ex 20:13]; ‘whoever commits murder faces condemnation.’ 22I’m telling you, anybody that’s mad at his brother faces condemnation. Whoever says to his brother, ‘You good for nothing . . .’ has to face the Sanhedrin. Whoever says, ‘You idiot,’ faces a burning hell. 23So if you’re bringing your gift to the altar and remember that your brother has something against you, 24leave it at the altar and go reconcile with him. Then come and offer your gift. 25Come to terms with your opponent quickly while you’re on the way to court with him, so he won’t deliver you to the judge, and the judge turn you over to the constable, and the constable put you in jail. 26You won’t get out till you pay the last dime.
+
+27“You’ve heard, ‘DON’T COMMIT ADULTERY’ [Ex 20:14; Deut 5:8]. 28I’m telling you, anybody that looks at a woman to lust for her has already committed adultery with her in his heart. 29If your right eye is causing you problems, pull it out and throw it away. It’s better to lose one part of your body than for your whole body to get thrown in hell. 30If your right hand is causing you problems, cut it off and throw it away. It’s better to lose one part of your body than for your whole body to go to hell.
+
+31“It’s been said, ‘WHOEVER DIVORCES HIS WIFE HAS TO GIVE HER A CERTIFICATE OF DIVORCE” [Deut 24:1]. 32I’m tell you, whoever divorces his wife—except for adultery—is treating her like an adulteress, and whoever marries a divorced woman commits adultery.
+
+33“Again, you’vepl heard that God said a long time ago, ‘DON’T SWEAR FALSELY’; ‘PERFORMsg YOUR OATHS TO THE LORD’ [Lev 19:12; Num 30:3; Deut 23:22]. 34I’m telling youpl not to swear at all—not by heaven, it’s God’s throne; 35not by the earth, it’s his footstool; not by Jerusalem, it’s the city of the Great King; 36not by your head, you can’t make one hair white or black. 37Just say, ‘yes’ or ‘no’; anything more than that has evil in it.
+
+38“You’ve heard, ‘AN EYE FOR AN EYE’ and ‘A TOOTH FOR A TOOTH’ [Ex 21:24; Lev 24:20; Deut 19:21]. 39I’m telling you not to try to get even with evil. 40Whoever slaps you on the right cheek, turn the other one to him too. If somebody sues you for your shirt, give him your coat too. 41If somebody conscripts you to go one mile, go with him two. 42Give to whoever asks you, and don’t turn away from anybody that wants to borrow from you.
+
+43“You’ve heard, ‘LOVE YOUR NEIGHBOR [Lev 19:18] and hate your enemy.’ 44I’m telling youpl, love your enemies and pray for people that mistreat you, 45so you can be like your Father in heaven. He raises his sun on the evil and the good, and sends rain on the just and the unjust. 46If you love the ones that love you, what credit is that to you? Don’t tax collectors do that much? 47If you say ‘Hi’ just to your buddies, what’s special about that? Don’t even pagans do that? 48You be perfect like he is.
+
+6:1“Beware of practicing yourpl goodness in public so people will see you. Otherwise, you won’t have any reward from your Father in heaven.
+
+2“When yousg donate to benevolence, don’t blow a trumpet like hypocrites do in the synagogues and on the streets so people will look up to them. They have all the reward they’re going to get. 3When you donate to benevolence, don’t let your left hand know what your right hand’s doing. 4That way your benevolence will be private; and you Father who sees in private will reward you [openly]ms.
+
+5“When youpl pray, don’t do like the hypocrites. They love to pray standing in the synagogues and on the street corners so people will see them. They have all the reward they’re going to get. 6When you pray, go to your room, lock the door, and pray to your Father in private. Your Father who sees in private will reward you [openly]ms.
+
+7“When youpl pray, don’t say things over and over like pagans do. That doesn’t mean anything. They think they’ll be listened to because they say lots of words. 8Don’t be like them. Your Father knows what you need before you ask him. 9Yousg pray like this,
+
+‘Our Father in heaven,
+
+You are holy.
+
+10We want your kingdom to come,
+
+and your will to be done
+
+in the world like it is in heaven.
+
+11Give us our food today.
+
+12Forgive us our sins
+
+like we’ve forgiven sinners against us.
+
+13Lead us away from temptation
+
+and evil,
+
+[because the kingdom, power, and glory
+
+belong to you forever. Amen.]ms
+
+14If youpl forgive people of their sins, your heavenly Father will forgive yours. 15If you don’t, he won’t forgive you.
+
+16“When youpl fast, don’t do like the hypocrites. They neglect their appearance to show people they’re fasting. They have all the reward they’re going to get. 17When yousg fast, anoint your head and wash your face 18so you won’t be showing people you’re fasting. Your Father who sees in private will reward you [openly]ms.
+
+19“Don’t save up treasure on earth, where moths and rust ruin things and thieves break in and steal them. 20Save up treasure in heaven, where moths and rust don’t ruin it, and thieves don’t break in and steal it. 21Your heart will be where your treasure is.
+
+22“The eyes are the lamp for the body. If you have good eyes, your whole body will have light. 23If your eyes are bad, your whole body will be in the dark. If the light that’s in you is darkness, that’s serious darkness!
+
+24“Nobody can serve two masters. He’ll disregard one and be loyal to the other. You can’t serve God and money. 25So don’t worry about your life, what you’ll eat, or about your body, what you’ll wear. Isn’t life more than food and the body more than clothes?
+
+26“Look at the birds in the sky. They don’t plant or harvest or gather into barns, but your heavenly Father feeds them. Aren’t you worth more than birds? 27Which of you by worrying can make himself eighteen inches taller? 28Why worry about clothes? Look how wild flowers grow. They don’t labor or spin, 29but Solomon in all his splendor didn’t dress like one of them. 30If God dresses the plants in the field this way—here today and thrown in an oven tomorrow—won’t he much more dress you, you with little faith?
+
+31“So don’t worry, ‘What’re we going to eat!?’ ‘What’re we going to wear!?’ 32Gentiles strain after things like that. Your heavenly Father knows you need them. 33Strive for his kingdom and his righteousness, and they’ll come along with it. 34Don’t worry about tomorrow; one day has enough to worry about.
+
+7:1“Don’t criticize, and you won’t be criticized. 2The criticism you criticize with you’ll get criticized by; the measure you measure with you’ll be measured by. 3Why look at a speck of sawdust in somebody else’s eye, and not see the log in your own? 4How can you say, ‘Let me get the speck of sawdust out of your eye,’ when there’s a log in yours!? 5You hypocrite, get the log out of your own eye so you can see to get the speck of sawdust out of his.
+
+6“Don’t give sacred things to dogs or throw pearls in front of pigs. They’ll trample them under their feet and turn on you and tear you apart.
+
+7“Ask and you’ll get, seek and you’ll find, knock and it’ll open for you. 8People that ask get, people that seek find, and people that knock it opens for. 9If your boy asks for a loaf of bread, would you give him a rock? 10If he asks for a fish, would you give him a snake? 11If you that are evil know how to give good gifts to your kids, how much more will your Father in heaven give good things to people that ask him? 12Treat other people the way you want them to treat you. That’s the law and the prophets.
+
+13“Go through the narrow gate. It’s a wide road and a big gate that leads to destruction and many go through it. 14It’s a narrow path and a small gate that leads to life, and not many find it.
+
+15“Watch out for false prophets that come to you in wool, but inside they’re wolves. 16You can recognize them by their fruit. People don’t gather grapes from thorns or figs from thistles, do they? 17-18Good trees bear good fruit; bad trees bear bad fruit. 19Every tree that doesn’t bear good fruit gets chopped down and thrown in the fire. 20So, you can recognize them by their fruit.
+
+21“Not everybody that says, ‘Lord, Lord,’ will get in the kingdom of heaven. It’s the ones that do the will of my Father in heaven. 22A lot of people will try to say to me in that day, ‘Lord, Lord,’ didn’t we prophesy in your name, and cast out demons in your name, and do lots of miracles in your name? 23I’ll tell them, ‘I never knew you. Go away, sinners.’
+
+24“Everybody that hears what I’ve said and does it, is like a smart man that built his house on bedrock. 25Rain fell, floods came, winds blew and beat on it; but it didn’t fall down. He built it on bedrock.
+
+26“Everybody that hears what I’ve said and doesn’t do it, is like a foolish man that built his house on sand. 27Rain fell, floods came, winds blew and beat on it; and it fell down. It was a total loss.”
+
+28When Jesus finished, the crowd marveled at his teaching. 29He taught them like somebody that had authority, not like their scribes did.
+
+Cleansing a Leper
+
+(Mt 8:2-4; Mk 1:40-45; Lk 5:12-16)
+
+12In one town a man with leprosy all over him, saw Jesus and fell on his knees in front of him, and begged him, 2“Sir, if you’re willing, you can cleanse me.”
+
+41He felt sorry for him, and reached out and touched him, “I’m willing; be cleansed.” 42Immediately his leprosy was gone.
+
+43Jesus sent him away at once, 44“Don’t tell anybody about this. Show yourself to the priest, and offer for your purification what Moses commanded—as a witness to them.”
+
+Instead, 45he went out and spread the news about Jesus so that he couldn’t go in a town openly anymore. He stayed out in the open areas, and big crowds were coming to him from everywhere 15to listen and be healed. 16Jesus would go to places away from any people and pray.
+
+Healing a Paralytic (Mt 9:1-8; Mk 2:1-12; Lk 5:17-26)
+
+2:1Days later 9:1they got in the boat and crossed back over to his town, Capernaum. People heard he was home. 2So many people came that there wasn’t any room at the door, and he was speaking the message to them.
+
+17Pharisees and teachers of the law were sitting there. They’d come from Jerusalem and every village in Galilee and Judaea. The power of the Lord was with him to do healing. Four 18men, carrying a paralytic on a stretcher, were trying to bring him in to Jesus. 19Since they couldn’t, because of the crowd, they got up on the roof 4and took the roof off above where he was. After they’d taken it apart, they let him down through the tiles with the stretcher right in front of Jesus.
+
+5When he saw their faith, Jesus said to the paralytic, “Cheer up, Son; I’ve forgiven your sins.”
+
+Some of the scribes and Pharisees began thinking to themselves, 7“Why’s this fellow talking like that? He’s blaspheming! Who can forgive sins but God?”
+
+8Jesus knew what they were thinking, 4“Why are you thinking critical things? Which is easier, to say, ‘I’ve forgiven your sins’; or to say, ‘Get up, pick up your stretcher, and walk?’ 24So you can know that the Son of Man has a right on earth to forgive sins”—he said to the paralytic—“‘Get up, pick up your stretcher, and go on home.’”
+
+25At once he stood up in front of them, picked it up, and went home, glorifying God. 8When the crowd saw it, they were astonished and afraid, and glorified God for giving such authority to people, “We’ve seen incredible things today.”
+
+Calling Matthew;
+
+Controversy About Eating with Sinners
+
+(Mt 9:9-13; Mk 2:13-17; Lk 5:27-32)
+
+13He went out again beside the lake. The whole crowd went along, and he taught them.
+
+Jesus went along from there 14and saw Levi, son of Alphaeus, sitting at the tax booth. He said, “Come with me.” He got up and left everything behind, and went with him.
+
+29Levi gave a big reception for Jesus in his house. A large group of tax collectors and others came and 15reclined at table with Jesus and his disciples, because many of them were following him. 16When the scribes of the Pharisees saw him eating with sinners and tax collectors, they started saying to his disciples, “Why is your Rabbi eating with tax collectors and sinners?”
+
+17Jesus overheard it, “Healthy people don’t need a doctor; sick ones do. I didn’t come so much to call good people, as sinners to repentance.”
+
+Question About Fasting
+
+(Mt 9:14-17; Mk 2:18-22; Lk 5:33-39)
+
+14Then John’s disciples came, “Why do we and the Pharisees’ disciples fast often 33and offer prayers, but yours don’t fast?”
+
+34Jesus said, “You can’t make groomsmen fast, can you, as long as the groom’s with them? 35The time’s coming when the groom will be taken away from them. They’ll fast then.”
+
+36He gave them an illustration too.
+
+“Nobody tears a patch from a new cloak and puts it on an old one. He’d be ripping up something new, and the patch from the new wouldn’t jibe with the old. 21Nobody sews a patch of unshrunk cloth on an old garment. The new patch would pull away from the old material and make the tear worse. 17“People don’t put new wine in old wineskins. The wineskins would burst and be ruined, and the wine would run out. They put new wine in new wineskins, and both are preserved.”
+
+Healing and Controversy
+
+at the Pool of Bethesda (Jn 5:1-47)
+
+5:1After that, there was a festival of the Jews, and Jesus went up to Jerusalem. 2At the Sheep Gate in Jerusalem there was a pool that had five porches, called Bethesda in Hebrew. 3A crowd of infirm, blind, lame, and paralyzed people was lying in these porches. [4]ms 5One guy had been in his condition for thirty-eight years.
+
+6When Jesus saw him and knew he’d already been there a long time, he said, “Do you want to be cured?”
+
+7The crippled man answered, “Sir, I don’t have anybody to take me in the pool when the water stirs. While I’m making my way down, somebody else gets there ahead of me.”
+
+8Jesus told him, “Get up, pick up your bedroll, and walk.”
+
+9Right away the guy was cured. He picked up his bedroll and started walking.
+
+It was a Sabbath day. 10So the Jews started telling the cured man, “It’s the Sabbath; 11it’s against the law to be carrying your bedroll.”
+
+He answered, “The One that cured me told me, ‘Pick up your bedroll and walk.’”
+
+12They asked him, “Who told you that?”
+
+13The cured man didn’t know who it was, because he hadn’t notice Jesus leave in the crowd. 14Later, Jesus found him in the temple, “You’ve been cured. Don’t sin anymore so something worse doesn’t happen to you.”
+
+15The man went and told the Jews it was Jesus that cured him. 16The Jews began to harass Jesus because he did it on the Sabbath.
+
+17But Jesus answered them, “My Father has been working till now, and I’m working.”
+
+18Now the Jews wanted to do more to him and put him to death. Not only had he broken the Sabbath; he said God was his Father. That made him equal to deity.
+
+19Jesus answered them,
+
+“The Son of Man can’t do anything on his own. He does what he sees the Father do. 20The Father loves the Son and shows him what he’s doing; he’ll show him greater deeds than these so you’ll be amazed. 21As the Father raises the dead, so the Son makes alive the ones he wants to. 22The Father doesn’t judge anybody; he’s given judgment to the Son, 23so everybody will respect him like they do the Father. Whoever doesn’t respect the Son doesn’t respect the Father that sent him. 24Whoever listens to what the Son says and believes the One that sent him, has eternal life and doesn’t end up condemned. He’s crossed over from death to life. 25The time’s coming—and is now—when the dead will hear the Son and come to life. 26As the Father has life in himself, he has enabled the Son to have life in himself. 27And, he has given him the right to judge, because he’s a human being.
+
+28“Don’t be amazed that the time’s coming when everybody in the tombs will hear him. 29The ones that did good things will come out to a resurrection that leads to life.  The ones that did evil things will come out to a resurrection that leads to condemnation.
+
+30“I can’t do anything on my own. As I hear I judge, and my judgment is just, because I’m not trying to accomplish my own purpose, but the purpose of the One that sent me.
+
+31“If I speak for myself, you might consider suspect, what I’m saying. 32There is somebody else that speaks for me, and I know what he says is true: 33you sent to John, and he spoke the truth. 34I don’t receive people’s claims about me, but I do say this so you can be saved: 35John was a burning, shining lamp, and you were happy for a while in his light. 36But I have greater things to say than John did. The deeds the Father has given me to do speak for the fact that he sent me. 37The Father has spoken for me. You’ve not heard him speak or seen him, 38and you don’t believe in the One he sent. 39Search the scriptures, because you suppose you have eternal life in them; they talk about me. 40You just don’t want to come to me to have life.
+
+41“I don’t accept glory from people; 42I know you don’t love God. 43I’ve come in my Father’s name, and you don’t accept me. If somebody comes in his own name, youpl accept him. 44How can you believe when you accept glory from one another, and don’t strive for the glory that only comes from God? 45Don’t suppose I’m going to accuse you to the Father. Moses accuses you, the one you’ve put your faith in. 46 If you believed Moses, you’d be believing me, because he wrote about me. 47If you don’t believe what he wrote, how can you believe what I say?”
+
+Another Controversy About
+
+Breaking the Sabbath (Mt 12:1-8; Mk 2:23-28; Lk 2:1-5)
+
+12:1At that time Jesus was going along through the grain fields on a Sabbath. His disciples were hungry, and as they went along, they started picking off heads of wheat, rubbing them in their hands, and eating the grains.
+
+2When some Pharisees saw it, they said, 24“Why are your disciples doing what’s against the law on the Sabbath?”
+
+3He said,
+
+“You’ve read, haven’t you, what David and his men did when they needed food? 4He went in God’s house 26at the time of Abiathar the high priest, and took the consecrated loaves, ate them, and gave them to the ones that were with him.  That’s against the law for anybody but priests to do.
+
+5“Or, you’ve read in the law, haven’t you, that on the Sabbath the priests in the temple desecrate the Sabbath and are innocent? 6Something more important than the temple is here. 7“If you’d known what this means, ‘I WANT MERCY MORE THAN SACRIFICE’ [Hos 6:6], you wouldn’t have criticized innocent people. 27The Sabbath was made for people, not people for the Sabbath. 8A person is more important than the Sabbath.”
+
+Healing a Man with a Paralyzed Hand
+
+(Mt 12:9-14; Mk 3:1-6; Lk 6:6-11)
+
+9He left and went in their synagogue again and taught. 10A man with a paralyzed right hand was there. 7The scribes and Pharisees were watching to see if he’d heal on the Sabbath so they could find something to accuse him of. They asked him, “Is it lawful to heal on the Sabbath?”
+
+8He knew what they were thinking, and said to the man with the paralyzed hand, “Stand up where people can see you.” He stood up. 4“Is it lawful to do good on the Sabbath or to do evil, to save life or take life?”
+
+They didn’t say anything.
+
+5He looked around at them aggravated, dismayed over their lack of sympathy. 11“Wouldn’t any of you pull out your sheep that fell in a ravine on the Sabbath? 12A person is worth more than a sheep, so it’s lawful to do good on the Sabbath.”
+
+10He looked around on them, and said to the man, “Hold out your hand.” He held it out, and it was restored like the other one. The Pharisees 11were angry and talked to each other about what they could do to Jesus. 6They went out right away and plotted with the Herodians to destroy him.
+
+Jesus and the Multitudes
+
+(Mt 12:15-21; Mk 3:7-12)
+
+Jesus knew it 7and went with his disciples to the side of the lake. A huge crowd followed him from Galilee, Judaea, 8Jerusalem, Idumea, from beyond the Jordan, and from around Tyre and Sidon. They came because they’d heard about the things he was doing. 15He healed them all 16and charged them not to expose him—17in fulfillment of what Isaiah the prophet said,
+
+18“MY SERVANT THAT I’VE CHOSEN,
+
+MY BELOVED THAT I DELIGHT IN—
+
+I’LL PUT MY SPIRIT ON HIM,
+
+AND HE’LL DECLARE JUDGMENT TO THE NATIONS.
+
+19HE WON’T QUARREL OR SHOUT;
+
+NOBODY WILL HEAR HIM IN THE STREETS.
+
+20HE WON’T BREAK A BENT REED,
+
+OR PUT OUT SMOKING FLAX,
+
+TILL HE BRINGS OUT JUSTICE TO VICTORY.
+
+21THE NATIONS WILL PUT THEIR HOPES IN HIM” [Is 42:1-4].
+
+9He told his disciples to bring a boat up close so the crowd wouldn’t throng him. 10He’d healed so many people that everybody with an ailment was crowding up to touch him. 11When unclean spirits would see him, they’d fall down to him and cry out, “You’re God’s Son.” 12He’d strictly order them not to tell who he was.
+
+Calling the Twelve Apostles
+
+At that time, he went up a mountain to spend the night praying. At daylight, he called the ones he wanted. He appointed twelve and named them “apostles.” He appointed them to be with him so he could “send” them out to preach and have authority to cast out demons. The twelve were Simon [Bar-Jonah, “Son of John”], that he named “Peter” [or Cephas, “Rock”], and his brother Andrew; James and John, sons of Zebedee, that he nicknamed “Boanerges [Sons of Thunder]”; Philip, Bartholomew [or, Nathanel?], Matthew [Levi, son of Alphaeus], Thomas [Didymus]; James, son of Alphaeus; Thaddaeus [or, Judas, son of James; Lebbaeusms], Simon the Zealot [or, Cananaean], and Judas Iscariot [son of Simon Iscariot], who also betrayed him.
+
+Mt (9:9) 10:2-4; Mk (2:14) 3:13-19; Lk 6:12-16; Jn (1:42; 6:71) 21:2, 15 (Acts 1:13)
+
+Sermon on the Level Place (Lk 6:17-49)
+
+17He came down with them and stood on a level place. There was a big crowd of disciples and a throng of people from Jerusalem, all over Judaea, and the coastal region of Tyre and Sidon. 18They came to listen to him, and be healed from their diseases and the unclean spirits that were harassing them. 19The people in the crowd were trying to touch him, because power went out from him and healed everybody.
+
+20He looked up at his disciples and said,
+
+“You that are poor are blessed;
+
+God’s kingdom belongs to you.
+
+21You that are hungry now are blessed;
+
+you’ll be filled.
+
+You that mourn now are blessed;
+
+you’ll laugh.
+
+22You’re blessed when people hate you, shun you, insult you, reject you as bad because of the Son of Man. 23Rejoice in times like that.  Jump up and down for joy, because you have a great reward in heaven. Their ancestors used to do the same thing to the prophets.
+
+24But woe to you rich people;
+
+you have your comfort.
+
+25Woe to you that eat well now;
+
+you’ll be hungry.
+
+Woe to you that laugh now;
+
+you’ll grieve and cry.
+
+26Woe to you when everybody speaks well of you. Your ancestors used to do the same thing to the false prophets.
+
+27“I’m telling you, love your enemies. Treat them well that hate you. 28Bless them that curse you. Pray for them that mistreat you. 29To the one that slaps you on the cheek offer the other one too; from the one that takes your coat, don’t withhold your shirt. 30Give to anybody that asks you; whoever steals what’s yours, don’t demand it back. 31Treat people the way you want them to treat you. 32If you love the ones that love you, what credit is that to you? Even sinners love the ones that love them. 33If you do good to the ones that do good to you, what credit is that to you? Even sinners do that. 34If you lend to the ones you expect to repay it, what credit is that to you? Even sinners lend to sinners they expect to repay in full. 35On the contrary, love your enemies. Do good to them and lend to them, expecting nothing in return. You’ll be greatly rewarded, and you’ll be like the Most High, because he’s gracious to ungracious and bad people. 36Be merciful like your Father.
+
+37“Don’t criticize, and you won’t be criticized. Don’t condemn, and you won’t be condemned. Pardon and you’ll be pardoned. 38Give and people will give to you. Good measure, pressed down, shaken together, and running over they’ll give into your lap. The measure you measure with you’ll be measured by.”
+
+39He gave them an illustration.
+
+“A blind man doesn’t lead a blind man, does he? Wouldn’t they both fall in the ditch? 40A student is not better off than his teacher, but everybody fully taught will be like his teacher. 41Why look at a speck of sawdust in your brother’s eye, and not notice the log in your own? 42How can you say to your brother, ‘Let me get the speck of sawdust out of your eye,’ when you don’t see the log in yours? Hypocrite, get the log out of your eye first; then you can see clearly to get the speck out of your brother’s eye.
+
+43“A good tree doesn’t bear bad fruit, and a bad tree doesn’t bear good fruit. 44That’s what being a good or bad tree means—its fruit is good or bad. People don’t gather figs from thorns or grapes from briars. 45A good man brings good things out of the good treasure in his heart; a bad man brings bad things out of his bad treasure. A man’s mouth speaks from what overflows from his heart.
+
+46“Why call me, ‘Lord, Lord,’ and not do what I tell you? 47I’ll tell you what everybody’s like that comes to me, and listens to what I say, and does it. 48He’s like a man that was building a house: he dug down and set the foundation on bedrock. When a flood came, the river swept against that house and couldn’t budge it, because he’d built it right. 49The one that listens and doesn’t do is like a man that built his house on dirt with no foundation. The river swept against it and it fell; it was a total loss.”
+
+Healing the Centurion’s Servant
+
+(Mt 8:5-13; Lk 7:1-10)
+
+7:1After he finished this message, he went to Capernaum. 2A centurion’s valued servant was sick, laid up at home paralyzed and tormented terribly, about to die. 3The centurion heard about Jesus, and sent elders of the Jews to ask him to come get his servant through it. 4When they got to Jesus, they urged him earnestly, “He deserves doing this for him. 5He loves our nation and built us a synagogue himself.”
+
+Jesus said, “I’ll come and heal him,” 6and went with them.
+
+While they were still a good ways from his house, the centurion sent friends, “Sir, don’t bother coming. I don’t deserve to have you under my roof. 7I didn’t even consider myself worthy of coming to you personally. Just say the word, and my servant will be healed. 8I’m directed by the authority of superior officers myself with soldiers under me. I say to one, ‘Go,’ and he goes; to another, ‘Come,’ and he comes; to a servant, ‘Do this,’ and he does it.”
+
+9When Jesus heard that, he was amazed, and turned around to the crowd, “I haven’t found faith like this even in Israel. 11Many will come from the east and the west and recline at table with Abraham, Isaac, and Jacob in the kingdom of heaven; 12and citizens of the kingdom themselves will be thrown out in the dark. There’ll be bitter crying and gnashing of teeth.” 10When the ones sent got back to the house, they found the servant healed.
+
+Raising the Widow of Nain’s Son (Lk 7:11-17)
+
+11Soon afterwards he went to a town called Nain. His disciples and a large crowd were going along. 12As he got near the town gate, people were carrying out a widow’s only son, and a sizable crowd of townspeople was with her. 13When the Lord saw her, he felt sorry for her, and told her not to cry. 14He went and touched the bier, and the pall bearers stopped. He said, “Young man, get up.” 15The dead boy sat up and started to talk, and Jesus gave him to his mother. 16Fear gripped them all, and they glorified God: “A great prophet has arisen among us; God has visited his people.” 17News about him spread all over Judaea and the surrounding countryside.
+
+John’s Question and
+
+Jesus’ Comments on John (Mt 11:2-19; Lk 7:18-35)
+
+18John’s disciples reported to him in prison what Messiah was doing. He called two of them 19and sent a question to the Lord, “Are you the one that’s coming, or are we supposed to wait for somebody else?” 20The men went to Jesus, “John the Baptist sent us to ask you, ‘Are you the One that’s coming, or are we supposed to wait for somebody else?’”
+
+21At the time, Jesus was healing people from sicknesses, afflictions, and evil spirits, and granting sight to a number of blind people. 22He answered them, “Go tell John what you see: the blind see, the lame walk, lepers are cleansed, the deaf hear, the dead are raised, the poor are hearing the good news. 23Blessed is the one that’s not disappointed in me.”
+
+24After John’s messengers left, he said to the crowd,
+
+“What did you go out to the desert to see? A reed waving in the wind? 25What did you go out to see? A man dressed in fine clothes? People dressed in expensive clothes and living in luxury are in palaces. 26“What did you go out to see? A prophet? Yes, and more than a prophet. 27This is the one the scripture refers to,
+
+‘I’LL SEND MY MESSENGER BEFORE YOU
+
+TO PREPARE your ROAD AHEAD OF YOU’ [Mal 3:1].
+
+28Nobody ever born is greater than John, but the least in God’s kingdom is greater than he is.” 12From John’s time till now, aggressive people have been trying to bring in the kingdom of heaven by force. 13All the prophets and the law prophesied till John. 14If you’re willing to accept it, he is the Elijah that’s to come. 15Whoever has ears, let him hear.
+
+29When the people and the tax collectors heard that, they acknowledged God’s righteous requirements, because they had John baptize them. 30But the Pharisees and the lawyers rejected God’s intentions for them by not having him baptize them.
+
+31“What are people like today? 32They’re like kids sitting in a marketplace, calling to one another:
+
+‘We played a flute for you;
+
+you didn’t dance.
+
+We sang a funeral song;
+
+you didn’t cry.’
+
+33John the Baptist came, not eating bread or drinking wine, and you say, ‘He’s got a demon.’ 34The Son of Man came eating and drinking, and you say, ‘A glutton and a drunk, a pal of tax collectors and sinners.’ 35Wisdom becomes obvious from what it produces.”
+
+Cities Denounced for Unbelief:
+
+The Great Invitation (Mt 11:20-30)
+
+20He began to denounce the towns where many of his miracles happened, because they didn’t repent.
+
+21“Woe to you, Chorazin! Woe to you, Bethsaida! If the miracles that happened in you had happened in Tyre and Sidon, they would’ve repented long ago in sackcloth and ashes. 22It’ll be more bearable for Tyre and Sidon on judgment day than for you.
+
+23“And Capernaum, you won’t rise up to heaven, will you? You’ll go down to hell. If the miracles that took place in you had happened in Sodom, it would’ve remained till today. 24On judgment day it’ll be more bearable for the area around Sodom than for you.”
+
+25Then Jesus said,
+
+“I praise you, Father, Lord of heaven and earth, for hiding these things from the wise and intelligent, and revealing them to infants. 26Yes, Father, you delighted in doing it that way.”
+
+27“The Father has handed everything over to me, and nobody knows the Son but the Father, and nobody knows the Father but the Son and whoever the Son wants to reveal him to.
+
+28“Come to me, you that labor and are overloaded; I’ll give you rest. 29Put my yoke on, and learn from me. I’m gentle and humble, and you’ll find relief. 30My yoke fits right, and my load is light.”
+
+In the House of Simon the Pharisee (Lk 7:36-50)
+
+36A Pharisee invited Jesus to eat with him. He went in the Pharisee’s house and sat down. 37A woman of ill repute in town learned Jesus was reclining at table in the Pharisee’s house. She brought an alabaster cruise of ointment, and 38stood behind him at his feet crying. She started to wet his feet with her tears, wipe them with her hair, kiss them, and anoint them with the ointment. 39When the Pharisee saw it, he thought to himself, “If this man were a prophet, he’d know who she is and what kind of woman is touching him—a prostitute.”
+
+40Jesus responded, “Simon, a question.”
+
+“What’s that, Rabbi?”
+
+41“A money lender had two clients that owned him money. One owed five hundred denarii; the other owed fifty. 42When they couldn’t pay him back, he forgave them both. Which loved him more?”
+
+43“I suppose the one he forgave more.”
+
+Jesus said, “That’s right.”
+
+44He turned to the woman and said to Simon,
+
+“You see this woman? I came in your house; you didn’t give me any water, but she has wet my feet with her tears and wiped them with her hair. 45You didn’t give me a kiss, but from the time she got here she’s been kissing my feet. 46You didn’t anoint my head with olive oil, but she anointed my feet with perfumed ointment. 47So, I’ve forgiven her many sins because she loved a lot. The one forgiven little loves little.”
+
+48He told her, “I’ve forgiven your sins.”
+
+49The ones reclining at table with him started saying to themselves, “Who is this that forgives sins?”
+
+50He said to the woman, “Your faith has saved you. Go in peace.”
+
+Second Preaching Tour of Galilee (Lk 8:1-3)
+
+8:1Soon afterward he started traveling from one town and village to another, announcing God’s kingdom. The twelve were with him, 2as well as some women that he’d healed from evil spirits and illnesses: Mary, called the Magdalene, that seven demons had come out of; 3Joanna, wife of Chuza, Herod’s manager; Susanna, and quite a few that were contributing to them out of their personal resources.
+
+The Pharisees’ Charge That Jesus
+
+Was in League with the Devil
+
+(Mt 12:22-37; Mk 3:20-30)
+
+20He came home, and again such a crowd gathered that he and his disciples couldn’t even eat. 21When his neighbors heard about it, they went out to take custody of him because they said he was out of his mind.
+
+22Then they brought Jesus a demon-possessed blind mute, and he healed him; he could speak and see. 23The crowds were amazed, “This isn’t the Son of David, is it?”
+
+24When 22scribes and Pharisees from Jerusalem heard it, they said, “He casts out demons by Beelzebub, the ruler of demons.”
+
+25He knew their thoughts and called them over and gave them an illustration.
+
+“What sense would it make for Satan cast out Satan? 24A kingdom divided against itself can’t stand and is desolate. No city or 25household divided against itself can stand. 26If Satan casts out Satan, he’s at cross purposes with himself; so how will his kingdom stand? 27If I cast out demons by Beelzebub, who do your students cast them out by? So judge for yourselves.
+
+28“If I cast out demons by the God’s Spirit, then God’s kingdom has reached you. 29How can somebody go in a strong man’s house and seize his property unless he ties him up first? Then he can ransack his house.
+
+30“Whoever’s not with me is against me, and whoever doesn’t gather with me scatters around. 31So, every sin or blasphemy can be forgiven except blasphemy against the Spirit. 32Whoever insults the Son of Man can be forgiven, but whoever blasphemes the Holy Spirit won’t ever be forgiven in this age or the next. [30He gave them this warning because they were saying, “He has an unclean spirit.”]
+
+33“Consider a tree and its fruit good or bad together, because a tree is known by its fruit. 34Nest of vipers! How can you evil people say good things? The mouth says what the heart holds. 35A good person brings good things out of his good treasure, and a bad person brings out bad things.
+
+36“At the judgment, people will give account for every off-handed comment they say. 37What you say will justify you or condemn you.”
+
+Scribes and Pharisees Demand a Sign
+
+(Mt 12:38-45)
+
+38Some scribes and Pharisees answered, “Rabbi, we want to see a sign from you.”
+
+39He answered them,
+
+“An evil and adulterous generation is straining to find a sign, but it won’t get one—except the sign of the prophet Jonah. 40As ‘JONAH WAS IN THE STOMACH OF THE SEA MONSTER FOR THREE DAYS AND THREE NIGHTS’ [Jon 1:7], the Son of Man will be in the ground for three days and nights. 41The people of Nineveh will stand up in the judgment with people of today and condemn them. They repented at the preaching of Jonah; something greater than Jonah is here. 42The queen of the South will rise up in the judgment with people of today and condemn them. She came from the ends of the earth to hear Solomon’s wisdom; something greater than Solomon is here.
+
+43“When an unclean spirit leaves a person, it wanders through desert places looking for rest and doesn’t find any. 44It says, ‘I’m going back to the house I left.’ He goes and finds it empty, swept out, and decorated. 45Then he takes seven spirits worse than he is, and goes in and takes up permanent residence. That person’s last condition is worse than the first. That’s the way it’ll be with today’s evil people.”
+
+Jesus’ Mother and Brothers
+
+Interrupt His Ministry
+
+(Mt 12:46-50; Mk 3:31-35; Lk 8:19-21)
+
+46While he was still talking to the crowd, his mother and brothers were standing on the outside of the crowd, trying to get to him to speak to him. 31They sent a message in to him, calling him. 20It was relayed, “Your mother and brothers [and sisters]ms are standing outside the crowd and want to see you.”
+
+34He looked at the crowd sitting in a circle around him, 48“Who’s my mother? Who are my brothers?” 49He held out his hand toward his disciples, “My mother and my brothers! 50Whoever hears God’s message and does the will of my Father in heaven is my brother, my sister, my mother.”
+
+The Sermon in Parables
+
+(Mt 13:1-35; Mk 4:1-34; Lk 8:4-18)
+
+13:1That day Jesus left the house and sat down by the lake. 4A large crowd was gathering, and people from various towns were traveling to him. 2So many were gathering that he got in a boat and sat down while the crowd stood on the shore. 3He spoke for a long time in parables.
+
+“Listen. A sower went out to sow his seed. 4As he sowed, some seed fell along the path. People walked on it, and birds ate it.
+
+5“Some fell on rocky ground, where there wasn’t much soil. It sprouted up right away because the soil was thin. 6But when the sun climbed high, it was scorched, 6and shriveled up because it didn’t have roots or enough moisture.
+
+7“Some fell among thorns. The thorns grew up with it and choked it out, and it didn’t produce anything.
+
+8“But others fell on good ground, grew up, and produced thirty, sixty, or a hundred times over.
+
+9“Whoever has ears to hear, let him hear!”
+
+10When he was by himself, the ones around him with the twelve asked him, 10“Why are you speaking to them in parables?”
+
+11“Because you’re allowed to know the unrevealed things about the kingdom of heaven, but they’re not allowed to know. 12Whoever has, will receive; whoever doesn’t have, will lose even what he has. 13That’s why to the rest outside I deliver the message in parables so that, though they see, they don’t see; though they hear, they don’t “hear or understand.” 14They illustrate the way Isaiah describes them:
+
+‘THEY’LL CERTAINLY HEAR, BUT NOT UNDERSTAND;
+
+THEY’LL SEE, BUT NOT PERCEIVE,
+
+15BECAUSE THIS PEOPLE HAS BECOME INSENSITIVE.
+
+THEY’RE HARD OF HEARING, AND
+
+THEY’VE CLOSED THEIR EYES
+
+SO THEY WON’T SEE WITH THEIR EYES
+
+OR HEAR WITH THEIR EARS
+
+OR COMPREHEND WITH THEIR HEART
+
+AND BE CONVERTED
+
+AND I SHOULD HEAL THEM’ [Is 6:9-10].
+
+16“But blessed are your eyes, because they see; and your ears, because they hear. 17Many prophets and good people have wanted to see what you’re seeing and didn’t see it, and to hear what you’re hearing and didn’t hear it.
+
+13“You don’t understand this parable? How will you understand any parable? 18You listen, then, to the parable about the sower. 11This is what it means:
+
+“The seed is God’s message about the kingdom. 14The sower sows the message. 12The seeds along the path represent people that hear it and don’t understand it. The devil comes and takes it away from their heart so they won’t believe it and be saved.
+
+13“The seeds on rocky ground represent people that hear the message and are happy to accept it right away. But they don’t have root in themselves and just last a while. In trying times, difficulties, or persecution because of the message, they soon give up their faith.
+
+14“The seeds that fell among the thorns represent people that hear the message; but as they go, the cares of the world, the deception of wealth, the pleasures of life, the desire for other things chokes them out, and they don’t produce anything.
+
+15“But the seeds in the good ground represent people that hear the message with a good and upright heart. They understand it, and produce thirty, sixty, a hundred times over by staying with it.
+
+16“People don’t light a lamp and stick it under a bucket or a bed. They put it on a stand so people that come in can see it. 17Everything hidden will become obvious; everything secret will come to light and become known. 23Whoever has an ear, let him hear!
+
+24“Be careful what you listen to. The measure you measure with you’ll be measured by—and more so. 25Whoever has, will receive more; whoever doesn’t have, will lose what he does have.”
+
+24He presented another parable.
+
+“The kingdom of heaven is like a man that sowed clean seed in his field. 25While people were sleeping, his enemy came and sowed darnels in the wheat. 26When the plants grew and began to make, the darnels showed up too. 27The servants came to the owner, ‘Sir, didn’t you plant clean seed in your field? Where’d darnels come from?’
+
+28The owner said, ‘An enemy has done this.’
+
+“‘Do you want us to go pull them up?’
+
+29“‘No, that would uproot the wheat too. 30Let them grow up together till harvest. I’ll tell the reapers, “Gather up the darnels first and tie them in bundles to burn, but gather the wheat into my granary.”’
+
+26“God’s kingdom is like a man that puts seed in the ground. 27He sleeps and gets up night and day, but he doesn’t know how the seed sprouts and grows. 28The ground produces crops on its own—the stalk, the head, then the grain in the head. 29When the crop is ripe, he gets out his scythe because it’s time to harvest it.
+
+30“What can we compare God’s kingdom to? What’s it like? 31It’s like a mustard seed 31a man planted in his garden. 32What’s smaller than all the other seeds people plant, 32grows up bigger than the other garden plants, and puts out branches so birds build nests in its shade.
+
+33“The kingdom of heaven is like yeast a woman put in a bushel of meal till the whole bushel had risen.”
+
+33Only with parables like these was he speaking the message to the general audiences as they could understand. 34Privately he’d explain them to his disciples. He did so 35like the prophet said,
+
+“I’LL SPEAK TO THEM IN PARABLES;
+
+I’LL DECLARE THINGS UNREVEALED SINCE THE FOUNDING OF
+
+THE WORLD” [Ps 78:2].
+
+Further Private Instruction in Parables
+
+(Mt 13:36-53)
+
+36He left the crowd and went in the house. His disciples came, “Explain the parable about the darnels in the field.”
+
+37Jesus answered,
+
+“The One who sowed the clean seed is the Son of Man, 38the field is the world, the clean seed is the sons of the kingdom, the darnels are the sons of the evil one, 39the enemy that sowed them is the devil, 40the harvest is the end of the age, and the reapers are angels. 41The darnels are gathered and burned just like it’ll be at the end of the age: the Son of Man will send his angels to gather out of his realm everything that causes stumbling and people that do lawlessness, 42and throw them in the furnace. There’ll be bitter crying and gnashing of teeth there. 43Good people will shine like the sun in their Father’s kingdom. Whoever has ears, let him hear!
+
+44“The kingdom of heaven is like treasure a man found in a field. He hid it and with excitement went and sold everything he had and bought that field.
+
+45“The kingdom is like a businessman who was looking for valuable pearls. 46When he found a really valuable one, he sold everything he had and bought it.
+
+47“The kingdom is like a net cast in the lake and gathers every kind of fish. 48When it’s full, the fishermen pull it up on the shore and sit down. They put the good ones in containers and throw the bad ones away. 49That’s how it’ll be at the end of the world. The angels will come out and separate the bad from the good, 50and throw them in the furnace. There will be bitter crying and gnashing of teeth there.
+
+51“Do you understand?”
+
+“Yes.”
+
+52“So, every scribe that’s become a kingdom disciple is like a homeowner that brings out of his treasure things new and old.”
+
+53When Jesus had finished these parables, he left.
+
+Conversations About Following Jesus
+
+(Mt 8:18-22; Lk 9:57-62)
+
+18When Jesus saw a crowd around him, he gave instructions to leave for the other side of the lake.
+
+57As they were going along the road, 19a scribe came, “Rabbi, I’ll follow you wherever you go.”
+
+20Jesus said, “Foxes have dens and birds have nests, but the Son of Man doesn’t have a place to sleep.”
+
+59He said to another man, “Come with me,”
+
+“Sir, let me go bury my father first.”
+
+“Come with me; 60let the dead bury the dead. You go and announce God’s kingdom.”
+
+61Another man said, “I’ll follow you, Lord. Let me go say goodbye first to the ones in my house.”
+
+62Jesus said, “Nobody that takes hold of a plow and looks back is fit for God’s kingdom.”
+
+Stilling of the Tempest
+
+(Mt 8:23-27; Mk 4:35-41; Lk 8:22-25)
+
+35That evening he said, “Let’s go to the other side.” 23He got in the boat, and his disciples went with him. They launched and 36left the crowd, and took him along as he was in the boat. Other boats went along.
+
+23While they were sailing, he went to sleep in the back of the boat on a pillow. A dangerous windstorm rushed down on the lake, and they were taking on water. 37The wind was washing waves into the boat, and it was filling up. They were in danger of sinking.
+
+25They went and woke him up, “Lord, save us! We’re going to die! 38Rabbi, don’t you care that we’re perishing?”
+
+39Now that he was awake, he said, 26“Why are you so scared, you with little faith?” He got up and rebuked the wind and the crashing waves. 24The wind stopped and the lake grew calm. “Where’s your faith? 40Don’t you trust me yet?”
+
+41They were even more scared now, and said to each other, “What kind of man is this that even 25commands the wind and water, and they obey him?”
+
+Healing the Gadarene Demoniac
+
+(Mt 8:28-34; Mk 5:1-20; Lk 8:26-39)
+
+They 28got to the other side 5:1of the lake—to the area of the Gadarenes 26and the Gerasenes, across the lake from Galilee. 2As soon as he got out of the boat, two demoniacs from the town met him. 27For a long time they hadn’t worn any clothes. They didn’t live in houses, but in the tombs. They were so vicious that nobody dared to go by there. 3Nobody could tie them up any more. The spirit had seized them many times, 4and people had often bound them with shackles and chains under guard. They’d pulled the chains apart and had broken the shackles in pieces. 29The demons would drive them into uninhabited places. Nobody was strong enough to subdue them. 5Constantly day and night in the tombs and in the hills, they’d cry out and cut themselves with stones.
+
+6When they saw Jesus a long way off, they ran and bowed down to him and cried out, 29“What do we have to do with you, you Son of God Most High. Did you come to torment us ahead of time? We beg you by God not to torment us!” (They 8said that because Jesus had said, “Unclean spirits, come out of him.”)
+
+30Jesus asked them, “What’s your name?” They said, 9“‘ Legion’; there are lots of us.” They begged him not to send them away from the area, 31and not to send them away into the abyss.
+
+30A little ways from them a tremendous herd of pigs was feeding on the hillside. The demons begged, “If you’re going to cast us out, send us into the pigs.”
+
+32“Go ahead.”
+
+33When the demons came out and went into the pigs, the herd of about two thousand stampeded down the steep place into the lake and drowned. 34The herdsmen saw it and fled. They reported everything in the town and the countryside, 33including what happened to the demoniacs.
+
+34The whole town came out to see what happened and to meet Jesus. 35They found the men clothed and in their right mind, sitting by Jesus. 36Witnesses told them how Jesus delivered the demoniacs. When the 37crowd from the area of the Gerasenes saw Jesus, they begged him to leave, because great fear gripped them.
+
+18As Jesus was getting in the boat to leave, the men begged to go along, that Jesus not leave them. 38But Jesus sent them away, 39“Go home to your families and tell them what great things God did for you and how he was merciful to you.”
+
+They went away and proclaimed in every city of the Decapolis what great things Jesus had done for them, and everybody was amazed.
+
+Raising Jairus’ Daughter;
+
+Healing a Woman from Chronic Hemorrhaging
+
+(Mt 9:18-26; Mk 5:21-43; Lk 8:40-56)
+
+21When Jesus crossed back over to the other side, a large crowd had gathered alongside the lake. 40They welcomed him because they’d been waiting for him. 22A ruler of the synagogue, named Jairus, saw him, and came and fell in front of him. 23He pleaded with him, “My little girl is dying. Please come to my house and lay hands on her so she’ll live.” 42She was his only daughter—about twelve years old. Jesus and his disciples followed him.
+
+As he was making his way along, the large crowd was pressing in on him. 25A woman there had had chronic hemorrhaging for twelve years. 26She’d been put through a lot by doctors and spent everything she had without any benefit—but got worse. 27When she heard about Jesus, 21she said to herself, “If I can just touch his cloak, I’ll be cured.” 44She came up behind Jesus in the crowd and touched the fringe of his cloak. 29Right away the bleeding stopped. She could tell in her body that she was healed from the scourge she’d been dealing with for so long.
+
+30At once Jesus sensed that power had gone out of him. He turned around in the crowd, “Who touched my clothes?”
+
+45While they were all denying it, Peter said, “Master, you see the crowd pressing in on you and jostling you, and you say, ‘Who touched me?’”
+
+32He kept looking around to see who did it. 46“Somebody touched me. I felt power go out from me.”
+
+47When the woman saw she hadn’t escaped notice and knew what had happened to her, she came scared and trembling. She fell down in front of him, and admitted the whole thing in front of them as to why she touched him.
+
+22“It’s okay, daughter; your faith has cured you. 34Go in peace and stay healed from your ailment.” She was cured from then on.
+
+49While he was still talking, a person came from the synagogue ruler’s house, “Your daughter has died. You needn’t bother the Rabbi anymore.”
+
+36But when Jesus heard the message, he told the synagogue ruler, “Don’t give up hope; just trust me. She’ll be fine.”
+
+37He let only Peter, James, and his brother John follow him. 51He went in the ruler’s house, and wouldn’t let anybody go in with him except the three disciples and her parents. 23He saw the crowd making an uproar—the flute players, and everybody crying and wailing loudly. 39He went in and said, “Why are you making such a scene and crying? 52Don’t keep on crying. 24bThe girl’s not dead; she’s just sleeping.” They began to laugh and ridicule him, because they knew she was dead.
+
+24a“You can go.” 25When he’d put 40them all out, he took the father and mother and the three with him into where the girl was. 41He took her hand, “Talitha, cumi [Child, get up].” 55Her breathing returned, and 42she stood up right away and started walking around.
+
+43He told them to give her something to eat. Her parents were completely astounded. 43He gave them strict orders not to tell anybody what happened, but the news about this got out to the whole area.
+
+Healing Two Blind Men
+
+and a Mute Demoniac (Mt 9:27-34)
+
+27As Jesus was leaving, two blind men followed him, shouting, “Son of David, have mercy on us.” 28When he went in the house, they came to him. Jesus said, “Do you believe I can do this?”
+
+“Yes, Sir.”
+
+29Jesus touched their eyelidss, “Let it be done according to your faith”; 30and they could see. Jesus strictly warned them, “Make sure nobody knows about this.” 31But they went out and spread the news about him all over that area.
+
+32As they were leaving, people brought him a mute demoniac. 33When Jesus had cast out the demon, the mute could speak. The crowd marveled, “Nothing like this has ever happened in Israel.” 34The Pharisees kept claiming, “He casts out demons by the ruler of the demons.”
+
+Last Visit to Nazareth (Mt 13:54-58; Mk 6:1-6)
+
+6:1He left for his hometown with his disciples. 2When Sabbath came, he taught in the synagogue, and people were astonished: “Where’d he get this wisdom and such miracles he does with his hands? 3Isn’t this the carpenter, son of Mary and brother of James, Joseph, Judas, and Simon? Aren’t his sisters all here?” They were put off by him.
+
+4Jesus told them, “A prophet is respected everywhere but at home—in his hometown, among his relatives, in his own household.” 5He couldn’t do any miracle there—except he did lay hands on a few sick people and heal them. 6He was amazed at their disbelief.
+
+He continued to move around the villages and teach.
+
+The Mission of the Twelve (Mt 9:35-38)
+
+Jesus’ Third Tour of Galilee
+
+(Mt 10:1, 5-11:1; Mk 6:7-13; Lk 9:1-6)
+
+35Jesus was going around the towns and villages, teaching in their synagogues, announcing the good news about the kingdom, and healing every disease and sickness. 36When he saw the crowds, he felt sorry for them. They were troubled and scattered around like sheep without a shepherd. 37He said to his disciples, “There is a big crop to harvest, but there aren’t many workers. 38Ask the crew chief to put more workers in his harvest.”
+
+10:1 He called his twelve disciples and got them ready to go out in pairs to announce God’s kingdom. He gave them power to heal every disease and sickness, and gave them authority to cast out unclean spirits.
+
+5He told them,
+
+“Don’t go among the Gentiles or to any Samaritan town. 6Go to the lost sheep in Israel. 7As you go, say, ‘The kingdom of heaven’s coming.’ 8Heal the sick, raise the dead, cleanse lepers, cast out demons. You’ve received at no charge; give at no charge.”
+
+“Ðon’t take anything on the road except a rod—no bread, no traveler’s bag for extra clothes. Don’t take two cloaks or put on two tunics. 9Don’t get any gold, silver, or copper coins for your money belts; no staff, no shoes—wear sandals. A worker deserves his pay.
+
+11“Whatever town or village you go in, find out who’s worthy in it, and stay at his place till you leave the area. 12When you go in a house, greet it. If the house is worthy, let your peace rest on it. 13If not, take it back.
+
+14“Whoever doesn’t welcome you or listen to what you have to say, go outside that house or town, and shake the dust off your feet as a statement to them. 15On judgment day it’ll be more bearable for Sodom and Gomorrah than for that town.
+
+16“I’m sending youpl out like sheep among wolves, so be as subtle as snakes and harmless as doves. 17Watch out for people, because they’ll deliver you up to the courts and flog you in their synagogues. 18They’ll bring you in front of governors and kings because of me as a testimony to them and to the Gentiles. 19When they deliver you up to the courts, don’t worry how or what to say. It’ll come to you at the time. 20You won’t be the ones talking; it’ll be the Holy Spirit of your Father speaking in youpl.
+
+21“Brothers will deliver up brothers to death; fathers will deliver up sons. 22Everybody will hate you because of me. Whoever stays with it to the end will be saved. 23When they persecute you in one town, flee to the next. You won’t get around to all the towns in Israel till the Son of Man comes.
+
+24A student’s no better than his teacher, and a servant than his master. 25It’s enough for a student to be treated like his teacher and a servant to be like his master. If they’ve called the head of the household ‘Beelzebub,’ how much more the members of his household.
+
+26“Don’t be afraid of them. Everything that’s covered up will be made public, and everything that’s hidden will be made known. What I tell you in the dark, say in the light. 27What’s whispered in your ear, proclaim from the housetops. 28Don’t be afraid of the ones that kill the body, but can’t kill the soul. Be more afraid of the One that can kill both body and soul in hell. 29Aren’t two sparrows sold for a dollar? and not one of them falls to the ground without your Father knowing it. 30The very hairs on your head are numbered. 31So, don’t be afraid; you’re worth more than lots of sparrows.
+
+32“Everybody that confesses me in front of people, I’ll confess in front of my Father in heaven. 33Whoever denies me in front of people, I’ll deny in front of my Father in heaven.
+
+34“Don’t think I’ve come to bring peace to the earth. I didn’t come to bring peace, but a sword, 35to turn
+
+man ‘AGAINST FATHER,’
+
+‘DAUGHTER AGAINST MOTHER,’
+
+‘DAUGHTER-IN-LAW AGAINST MOTHER-IN-LAW.’
+
+36A MAN’S ENEMIES WILL BE IN HIS OWN HOUSE [Mic 7:6].
+
+37“Whoever loves father or mother more than me, doesn’t deserve me. Whoever loves son or daughter more than me, doesn’t deserve me. 38Whoever doesn’t pick up his cross and follow me, doesn’t deserve me. 39Whoever finds his life will lose it, and whoever loses his life because of me will find it.
+
+40“Whoever welcomes you welcomes me, and whoever welcomes me welcomes the One that sent me. 41Whoever receives a prophet will receive a prophet’s reward. Whoever receives a good man in the name of a good man, will receive a good man’s reward. 42Whoever gives one of these little ones even a cup of cool water in the name of a disciple, certainly won’t lose his reward.”
+
+11:1When Jesus had finished giving instructions to his disciples, he left to teach and preach in their towns. They went out and started traveling through the villages, and preaching that people should repent. They cast out demons, and anointed many sick people and healed them.
+
+Herod’s Conscience Stricken;
+
+Confusing John the Baptist and Jesus
+
+(Mt 14:1-12; Mk 6:14-29; Lk 9:7-9)
+
+6:14King Herod the tetrarch heard about Jesus, because Jesus had become well known. He was confused because people were saying John the Baptist had arisen from the dead and that was why miraculous powers were working in him. Some were saying Elijah had appeared; others, that one of the prophets of old had resurrected or that he was a prophet like one of the prophets. Herod said to his servants, “I beheaded John the Baptist. Who is this that I’m hearing such things about? Has John risen from the dead, and that’s why miraculous powers are working in him?” Herod kept trying to see Jesus.
+
+Herod had sent and arrested John, bound him, and put him in prison because of Herodias, his brother Philip’s wife; he’d married her. John kept telling him, “It’s against the law for you to be living with her.” 19Herodias had a grudge against him, and wanted to have him killed; but she couldn’t, 20because Herod was afraid of the general public; they considered John a prophet. He was also afraid of John. He knew he was upright and holy, and he protected him. When he listened to him, he was confused, but he relished listening to him.
+
+21A chance came on his birthday when Herod threw a banquet for his lords, military commanders, and prominent men in Galilee. Herodias’ daughter danced at the banquet, and it pleased Herod and the ones reclining at table with him. Consequently, the king said to the girl, “Ask me for whatever you want, and I’ll give it to you.” 23He solemnly swore, “I’ll give you whatever you ask me for up to half my kingdom.”
+
+24She went out and asked her mother, “What should I ask for?”
+
+She said, “The head of John the Baptist.”
+
+25At once she came to the king, “I want you to give me right now the head of John the Baptist on a platter.”
+
+26Although Herod became deeply grieved, because of the oaths and the guests, he wasn’t willing to refuse her. 27Right then he sent the executioner and commanded him to bring John’s head. He went and beheaded him in prison, 28and brought his head on a platter and gave it to the girl, and she took it to her mother.
+
+29When John’ disciples heard about it, they came to get the corpse and put it in a tomb, and went and told Jesus.
+
+Feeding the Five Thousand
+
+(Mt 14:13-21; Mk 6:30-44; Lk 9:10-17; Jn 6:1-14)
+
+10The apostles came back from their mission and reported to Jesus what all they’d done and taught. 13Jesus also heard at that time about John’s death. He took his disciples with him; 31“Come off by yourselves away from the crowds and rest awhile.” So many people were coming and going that they didn’t even have time to eat.
+
+32They went away in a boat to the other side of Lake Galilee (Lake Tiberias) to a place off by themselves near a town called Bethsaida. 33People saw them leaving and figured out where they were going, and followed him because they saw the signs he was doing on the sick. They ran as a crowd from the towns and got there first.
+
+When he got out, 3he went up on a hill and sat down with his disciples. 4The Jews’ Passover festival was coming up. 5Jesus looked up and saw a huge crowd arriving, 34and felt sorry for them: they were like sheep without a shepherd. 11He welcomed them, talked to them about God’s kingdom, and healed as many as needed it.
+
+Jesus said to Philip, “Where are we going to buy enough bread for these people to eat?” (6He said that to test him because Jesus already knew what he was going to do.)
+
+7Philip answered, “Bread worth two hundred denarii won’t be enough for each person to get a little bit.”
+
+12As the day drew to a close, the twelve came to him, “Let the crowd go so they can go to villages around the countryside to find lodging and buy something to eat. Nobody lives around here.”
+
+But he answered, 16“They don’t need to leave. You feed them.”
+
+37“Should we go spend two hundred denarii on bread to feed them?”
+
+38“How many loaves do you have? Go see.”
+
+8Andrew, Simon Peter’s brother—said, “There’s a boy here that has five barley loaves and two fish, but what’s that among so many?”
+
+“Bring them here.”
+
+9There was lots of grass in the place, so he told them, “Have everybody sit down on the green grass in groups of about fifty and a hundred.” They did so.
+
+41He took the five loaves and two fish, and looked up to heaven, blessed and broke the loaves, 16and kept giving them to his disciples to distribute to 11the ones that were sitting there—the fish too, as much as people wanted.
+
+12When they were full, he told the disciples, “Pick up the leftover pieces so nothing’s wasted.” 13So they picked up the leftovers and filled twelve baskets with the scraps from the barley loaves and fish that Jesus multiplied. 21About five thousand men had eaten the loaves—besides women and children.
+
+14People that saw the sign said, “This really is the prophet that’s supposed to come.”
+
+15aJesus knew they intended to take him by force to make him king.
+
+Jesus Walking on the Water
+
+(Mt 14:22-43; Mk 6:45-52; Jn 6:15b-21)
+
+14:22He urged his disciples to get in the small boat right away, and go on ahead to the other side—to Capernaum, while he dismissed the crowd. 23When he’d dismissed them, he went up on the hill by himself to pray. When evening came, he was there alone.
+
+17It was dark now, and Jesus hadn’t come. 18They’d rowed three miles or so, 24and waves were bashing the boat. 18The lake was getting rough because a strong wind was blowing against them. 48Jesus saw them straining at the oars. About four in the morning, he went to them walking on the lake as if he intended to go on by. 19He was getting close to the boat. 26When they saw him walking on the water, they were terrified, “It’s a ghost!” and they cried out in fear.
+
+At once Jesus spoke to them, “It’s okay; it’s me. 20You don’t need to be afraid.”
+
+Peter responded, “Lord, if it’s you, tell me to come to you on the water.”
+
+29“Come on.”
+
+Peter got down out of the boat and started walking to Jesus on the water. 30But when he saw the high wind, he got scared and started to sink. He cried out, “Lord, save me!”
+
+31At once Jesus reached out and grabbed him, “One with little faith, why did you doubt?”
+
+32When they climbed up in the boat, the wind died down. 33The ones in the boat were astounded and bowed down to him, “You really are God’s Son.” 21Presently the boat came to the land where they were headed.
+
+52They hadn’t got the point about the loaves. They weren’t catching on.
+
+Miracles at Gennesaret
+
+(Mt 14:34-36; Mk 6:53-56)
+
+53When they’d crossed over to land, they tied up at Gennesaret. 54When they got out of the boat, the people recognized him at once. 55They hurried around the vicinity, and began bringing the sick on stretchers to wherever they heard he was. 56Whatever villages, towns, or countryside he’d go to, they’d put sick people in the marketplaces and appeal to him just to touch the fringe of his cloak. As many as touched him were cured.
+
+Jesus’ Refusal to Be a
+
+Political Messiah (Jn 6:15a, 22-71)
+
+22The next day the crowd that was standing on the other side of the lake saw that no other boat was there except one and Jesus had not got in the boat with his disciples; they’d left alone. 23Other small boats came from Tiberias to where the people ate the bread. 24When the crowd saw that Jesus and his disciples weren’t around, they got in the small boats and went to Capernaum, looking for him.
+
+25When they found him on the other side of the lake, they said, “Rabbi, when did you come here?”
+
+26Jesus answered, “You’re looking for me, not so much because you saw signs, but because you ate the loaves and were full. 27Don’t work for bread that perishes; work for bread that lasts forever. That’s the bread the Son of Man will give you, because he’s the One the Father has marked with a seal.”
+
+28They asked him, “What’ll we do to be working the works of God?”
+
+29Jesus answered, “This is the ‘work’ of God: believe on the One he sent.”
+
+30They said, “What sign do you do so we can see it and believe? What ‘work’ do you do? 31Our ancestors ate manna in the desert like the scripture says, ‘HE GAVE THEM BREAD FROM HEAVEN TO EAT’” [Ps 78:24].
+
+32Jesus said, “Moses didn’t give you bread from heaven. My Father is giving you the real ‘bread from heaven.’ 33God’s ‘bread’ is the One that comes down from heaven to give life to the world.”
+
+34They said, “Sir, give us that bread all the time!”
+
+35Jesus said,
+
+“I’m the life-giving bread. Whoever comes to me will never get hungry, and whoever believes in me will never get thirsty. 36But, you’ve seen me and not believed. 37Everything the Father gives me will come to me, and whoever comes to me I won’t send away; 38because I’ve come down from heaven, not to do my will, but the will of the One that sent me. 39This is his will: that I not lose anything he’s given me, 40that everybody who sees the Son and believes in him may have eternal life, and that I raise him up in the last day.”
+
+41The Jews started grumbling, because he said, “I’m the bread that’s come down from heaven.” 42They were saying, “Isn’t this Jesus, Joseph’s son? We know his father and mother. How does he say now, ‘I’ve come down from heaven’?”
+
+43Jesus answered,
+
+“Don’t grumble around with one another. 44Nobody can come to me unless the Father that sent me is drawing him. 45The prophets wrote, ‘GOD WILL TEACH THEM ALL’ [Is 54:13]. Everybody that listens to the Father and learns, comes to me—46not that anybody has seen him except the One that’s come from him; he’s seen him. 47Whoever believes has eternal life. 48I’m the life-giving ‘bread.’ 49Your ancestors ate manna in the desert and died. 50Nobody that eats this ‘bread from heaven’ will die. 51I’m the life-giving ‘bread’ that comes from heaven. Everybody that eats this ‘bread’ will live forever. Yes, and the ‘bread’ I’ll give for the life of the world is my own flesh.”
+
+52The Jews started quarreling with one another, “How can he give us his flesh to eat?”
+
+53Jesus said,
+
+“Unless you ‘eat’ the flesh of the Son of Man and ‘drink’ his blood, you don’t have any life in you. 54People that ‘eat’ my flesh and ‘drink’ my blood have eternal life, and I’ll raise them up at the last day. 55My flesh is true ‘food,’ and my blood is true ‘drink.’ 56People that ‘eat’ my flesh and ‘drink’ my blood remain in me and I in them. 57As the living Father has sent me and I live because of him, people that ‘eat’ me will live because of me. 58This is the ‘bread’ from heaven; it’s not like what the ancestors ate and died. Whoever ‘eats’ this bread will experience eternal life.”
+
+59He said this as he was teaching in the synagogue in Capernaum. 60When they heard it, many disciples said, “That message is hard to understand. Who can make sense of it?”
+
+61Jesus knew his disciples were grumbling about it.
+
+“Does that shock you? 62What if you see the Son of Man ascending to where he was before? 63The spirit of what I’ve said is the point. The literal words are not the point. What I’ve spoken has meaning figuratively. 64But some of you don’t believe. [Jesus knew from the start who weren’t believers and who’d betray him.] 65That’s why I told you that nobody can come to me unless the Father lets him.”
+
+66At this point, many disciples quit traveling with him. 67Jesus said to the twelve, “You don’t want to go too, do you?”
+
+68Simon Peter answered, “Lord, who would we go to? You have the life-giving message. 69We believe and have come to know that you’re God’s Holy One.”
+
+70Jesus answered them, “Didn’t I choose you twelve, and one of you is a devil?” (71He was referring to Judas, son of Simon Iscariot, the one that would betray him—one of the twelve.)
+
+Attack by the Jerusalem Pharisees
+
+About Traditions (Mt 15:1-20; Mk 7:1-23; Jn 7:1)
+
+7:1After this, Jesus traveled around Galilee. He didn’t want to travel in Judaea because the Jews were trying to kill him.
+
+7:1Some Pharisees and scribes from Jerusalem 2had seen some of his disciples eat with defiled—unwashed—hands. (3The Pharisees and all the Jews always wash their hands vigorously before they eat—keeping the tradition of the elders. 4When they come in from the marketplace, they don’t eat unless they take a bath. They keep many other customs—immersing cups, pitchers, bronze kettles [, and stretchers]ms.). 5They gathered around Jesus and asked, “Why don’t your disciples follow the tradition of the elders, instead of eating with defiled hands?”
+
+3He answered them,
+
+“And why do you transgress the commandment of God with your tradition? 4A case in point: God said, ‘HONOR FATHER AND MOTHER’ [Ex 20:12; Deut 5:16], and ‘PUT TO DEATH WHOEVER CUSSES AT his FATHER OR MOTHER’ [Ex 21:17]. 5But you say, ‘Whoever says to father or mother, “Whatever of mine would have helped you I’ve given to God [Corban].” 6He surely won’t be honoring his father. 12You let him do nothing for his parents. 8-9You neatly set aside divine commandment to establish human tradition. 13You negate God’s word with your tradition. You do a lot of things like that.
+
+7“Hypocrites, Isaiah described you well,
+
+8‘THIS PEOPLE HONORS ME WITH THEIR LIPS,
+
+BUT THEIR HEART IS FAR FROM ME.
+
+9THEY WORSHIP ME WITHOUT MEANING ANYTHING, AND
+
+TEACH AS DOCTRINES THE RULES OF MEN’ ]Is 29:13 LXX].
+
+10He called the crowd, “Listen, all of you; get this. 11It’s not what goes in your mouth that defiles you. It’s what comes out of it.”
+
+12The disciples came to him, “Do you realize you offended the Pharisees with what you said?”
+
+13“Every plant my heavenly Father didn’t plant will be pulled up. 14Let them alone; they’re blind guides of blind people. If a blind man guides a blind man, they both fall in the ditch.”
+
+15Peter said, “What’s the illustration mean?”
+
+16“Youpl still don’t understand either? 17You do know, don’t you, that everything that goes in your mouth goes in your stomach and ends up in the toilet? [cleansing all foods] Nothing that goes in you can defile you, because it doesn’t go in your heart. 18But, what comes out of your mouth comes from your heart: that’s what defiles you. 19It’s from your heart that evil thoughts come, murder, adultery, sexual immorality, theft, lying, slander, blasphemy, 22coveting, wickedness, deception, indecency, jealousy, pride, senselessness. 20They’re what defile you. Not washing your hands when you eat, doesn’t defile you.”
+
+Healing the Syrophoenician Woman’s Daughter
+
+(Mt 15:21-28; Mk 7:24-30)
+
+24From there Jesus left for the territory around Tyre and Sidon and went in a house, because he didn’t want anybody to know, but he couldn’t hide. 25Right away, a Canaanite woman from the area, whose daughter had an unclean spirit, heard about him and 22began to shout, “Have mercy on me, Lord, Son of David. My daughter’s cruelly demon-possessed.” 23But Jesus didn’t answer her. 26She was a Greek, a Syrophoenician.
+
+His disciples came and asked him, “Send her away; she keeps shouting behind us.”
+
+24He answered, “I was just sent to the lost sheep in Israel.”
+
+25But she came and bowed down to him, “Lord, help me.”
+
+26“It’s not right to take the children’s food and toss it to the dogs in the house.”
+
+27“Yes, Lord, but even house dogs eat the crumbs that fall from their owners’ table.”
+
+28“You have a lot of faith. It’s as you wish.”
+
+30When she went in her house, she found the little girl lying on her bed and the demon gone. Her daughter was healed from then on.
+
+Ministry in Decapolis;
+
+Feeding the Four Thousand
+
+(Mt 15:29-39; Mk 7:31-8:9)
+
+31Jesus left the area around Tyre, and traveled through Sidon to Lake Galilee. 29He crossed over the lake, and went up on a hill in the Decapolis and sat down. 30Big crowds came with lame, blind, disabled, mute, and other needs; and put them by him, and he healed them. 31They were amazed to see the mute speak, the disabled healthy, the lame walk, the blind see; and they glorified Israel’s God.
+
+32They brought him a deaf man with a speech impediment, and asked him to lay his hand on him. 33He took him away from the crowd by himself, and put his fingers in his ears and spit and touched his tongue. 34He looked up at the sky, and made a groaning sound and said, “Ephphatha [Open up].” 35His ears opened, and the bond of his tongue loosened, and he started speaking clearly. 36Jesus told the people not to tell anybody; but the more he told people to keep something quiet, the more they spread it around. 37They were completely astonished, “He’s done everything well. He even makes deaf people hear and mutes speak.”
+
+8:1At that time again the large crowd didn’t have anything to eat. 32Jesus called his disciples to him, “I feel for the crowd. They’ve stayed with me three days already without anything to eat. I don’t want to send them away hungry for fear they’ll give out on the way. Some of them have come a long way.”
+
+33His disciples said, “Where can we get enough bread out in the country to satisfy such a crowd?”
+
+34“How many loaves do you have?”
+
+“Seven—and a few small fish.”
+
+35He had the crowd sit down on the ground. 36He took the seven loaves and the fish, blessed them, broke them up, and gave them to the disciples to pass out to the crowd. 37They all ate till they were full. The disciples picked up seven large baskets of leftover pieces. About 38four thousand men ate—besides women and children. 39After he dismissed them, he directly got in a boat and went to the area around Magadan and Dalmanutha.
+
+Visit to Magadan;
+
+Demand for a Sign from the Sky
+
+(Mt 16:1-4; Mk 8:10-13)
+
+16:1The Pharisees and the Sadducees came 11and began to argue with him and demand a sign from the sky, testing him.
+
+12He groaned under his breath, “Why do people today keep looking for a sign? 2When evening comes, you say, ‘It’ll be fair weather; the sky’s red.’ 3In the morning, ‘It’ll be bad weather today; the sky’s red and dark.’ You can read the sky, but you can’t read the signs of the times. 4An evil and adulterous generation keeps looking for a sign, but it’s not going to get one—except for the sign of Jonah.”
+
+13He got in the boat again and went back to the other side.
+
+Fourth Withdrawal East of the Lake;
+
+Warning to the Disciples (Mt 16:5-12; Mk 8:14-26)
+
+5The disciples went to the other side and had forgotten to take bread. 14They had just one loaf left in the boat. 15He gave them strict orders, 6“Watch out for the ‘leaven’ of the Pharisees and Sadducees and Herodians.”
+
+7They started talking among themselves, “He said that because we didn’t bring any bread.”
+
+8Jesus knew it, “Men with little faith, why are you talking about not having any bread? 17Don’t you get it yet? Do you have hearts that don’t understand? 18Do you have eyes but don’t see, and ears but don’t hear? Don’t you remember 19how many baskets of leftovers you picked up when I broke the five loaves for the five thousand?”
+
+“Twelve.”
+
+20How many large baskets of leftovers did you pick up when I broke the seven loaves for the four thousand?”
+
+“Seven.”
+
+21“You still don’t catch on?”
+
+12Then they understood he hadn’t warned them about the leaven in bread, but about the “teaching” of the Pharisees and Sadducees.
+
+Peter’s Great Confession
+
+(Mt 16:13-20; Mk 8:27-30; Lk 9:18-21)
+
+27Jesus and his disciples went out to the villages around Caesarea Philippi. 18When he was praying by himself, his disciples were with him. He asked them, 13“Who are the crowds saying I, the Son of Man, am?”
+
+14“Some say John the Baptist; some, Elijah; others, Jeremiah, or 19a prophet of old that’s resurrected.”
+
+15“Who do you say I am?”
+
+16Simon Peter said, “You’re the Messiah, the Son of the Living God.”
+
+17“Bless you, Simon Barjonah. You didn’t get that from other people, but from my heavenly Father. 18You’re‘Peter’; I’ll build my church on that ‘rock.’ Even the gates of the grave won’t be strong enough to stop it. 19I’ll give yousg the keys to the kingdom of heaven. Whatever you bind on earth will be bound in heaven, and whatever you let loose on earth will be let loose in heaven.” 20Then he charged them not to tell anybody he was the Messiah.
+
+The First Prediction of Christ’s Death
+
+(Mt 16:21-28; Mk 8:31-9:1; Lk 9:22-27)
+
+21From then on Jesus started showing his disciples that he had to go to Jerusalem; suffer many things from the elders, chief priests, and scribes; be put to death, and resurrect the third day. 32He was stating the matter plainly, and Peter pulled him aside and got after him, “Surely not, Lord! This is not going to happen to you.”
+
+22But Jesus turned and said to Peter, “Get behind me, Satan. You’re a stumbling block to me. You don’t have your mind on God’s interests, but on people’s interests.”
+
+34He called the crowd with his disciples,
+
+24“If anybody wants to follow me, he has to set his own interests aside, pick up his cross, and follow me. 25Whoever wants to save his life will lose it, whoever loses his life because of me and the good news will find it. 26What good does it do a person to gain the whole world and lose his life? What will he give in exchange for his life? 38Whoever’s ashamed of me and my message in this adulterous and sinful time, the Son of Man will be ashamed of when he comes 26in the glory of himself, the Father, and his holy angels. 27Some standing here won’t die before they see the Son of Man coming in his kingdom with power.”
+
+The Transfiguration
+
+(Mt 17:1-8; Mk 9:2-8 Lk 9:28-36a)
+
+28About six or eight days after he said this, Jesus took Peter, James, and his brother John along, and went up on a high mountain to pray 29While he was praying, 2he was transfigured in front of them. His face glowed like the sun, and his clothes became brilliant white—as white as light, like no laundryman can bleach them. 30Two men were talking to him—Moses and Elijah. 31They had a brilliant appearance, and talked about his death soon in Jerusalem. 32Peter and the ones with him were weighed down with sleep, but they saw his glory and the two men standing with him.
+
+33As they were leaving him, Peter said to Jesus, “Rabbi, it’s good for us to be here. If you want, I’ll set up three tents—one for you and Moses and Elijah”—not thinking about what he was saying, because they were afraid. 5While he was still talking, a bright cloud engulfed them. 34They were afraid as they went into the cloud. A voice spoke out of the cloud, “This is my beloved Son that I delight in. Listen to him.” 6When the disciples heard it, they fell on their faces, terrified. 36aWhen the voice had spoken, suddenly Jesus was the only one there, and the disciples kept quiet. 7He came and touched them. “Get up; you don’t need to be afraid.” 8They looked around and didn’t see anybody but Jesus.
+
+Discussing the Vision
+
+(Mt 17:9-13; Mk 9:9-13; Lk 9:36b)
+
+9As they were coming down the mountain, Jesus impressed on them, “Don’t tell anybody about what you saw till the Son of Man has risen from the dead.” They kept the matter to themselves, and discussed what “rising from the dead” meant.
+
+10The disciples asked, “Why do the scribes say Elijah has to come first?”
+
+11“Elijah does come first to restore everything. 12He’s already come, and they didn’t recognize him. They treated him however they wanted to, like the scripture says. That’s the way it’ll be as well when the Son of Man suffers at their hand and is rejected.” 13Then they realized that he was talking about John the Baptist.
+
+36bAt the time they didn’t pass anything along to anybody about what they’d seen.
+
+Healing the Demoniac Boy
+
+(Mt 17:14-20-[[21]]; Mk 9:14-29; Lk 9:37-43a)
+
+37The next day when they came down from the mountain and 14got back to the rest of the disciples, they saw a big crowd around them and scribes arguing with them. 15At once when they saw him, the whole crowd was really surprised and ran to greet him.
+
+16Jesus asked, “Why are you arguing with them?”
+
+38A man from the crowd ran up to Jesus, falling on his knees, “Rabbi, please have mercy on my boy. He’s the only son I have. He’s an epileptic and suffers badly. 39A spirit seizes him and all of a sudden he screams. It 17makes him unable to talk and 18throws him on the ground and convulses him and bruises him. He foams at the mouth and grinds his teeth, and it makes him stiff. 22Lots of times it has thrown him in the fire or the water to destroy him. It seldom leaves him. 40I begged your disciples to cast it out, but they couldn’t do it. But if you can, help us; have sympathy for us.”
+
+23Jesus said, “If you can? Everything is possible if a person believes.”
+
+24The dad cried out, “I believe! Help my unbelief!”
+
+41Jesus answered. “Unbelieving, perverse bunch, how long am I going to be with you? How long am I going to deal with you? Bringpl him here.”
+
+20They brought him; and when the spirit saw Jesus, it attacked the boy and threw him into convulsions. He fell on the ground and rolled around, and foamed at the mouth.
+
+21Jesus asked his dad, “How long has this been going on?”
+
+“Ever since he was little.”
+
+25When he saw the crowd quickly coming together, Jesus commanded the unclean spirit, “Mute and deaf spirit, I charge you, come out of him and don’t go into him again.”
+
+26It cried out and threw him into severe convulsions, and came out. The boy looked like he was dead, so much so that many of them said he’d died. But Jesus took his hand and raised him up and he stood up. 42Jesus gave him back to his dad. 18The child was healed from then on. 43They were all amazed at God’s greatness.
+
+28When Jesus went in a house, his disciples asked him privately, “Why couldn’t we cast it out?”
+
+20“Because your faith was weak. 29This kind doesn’t come out except by prayer. If you have faith the size of a mustard seed, you can say to this mountain, ‘Move from here to there,’ and it’ll move. You can do anything. [[21This kind doesn’t come out except by prayer and fasting.]]”
+
+Third Prediction of His Death
+
+(Mt 17:22-23; Mk 9:30-32; Lk 9:443b-45)
+
+30They left and began traveling around Galilee. He didn’t want anybody to know it, 31because he was trying to teach his disciples.
+
+22While they were together in Galilee, Jesus said, “Listen carefully. The Son of Man is going to be betrayed to men. 23They’ll put him to death. Three days later he’ll resurrect.”
+
+They were really distressed by that. 45They didn’t know what to make of what he said. It was hidden from them, and they were afraid to ask him about it.
+
+Jesus and the Temple Tax (Mt 17:24-27)
+
+24As he was going into Capernaum, the ones that collect the didrachma came to Peter, “Doesn’t your Rabbi pay the didrachma?”
+
+25“Yes.”
+
+When he came in the house, Jesus spoke first, “What do you think, Simon? Who do kings exact tribute from—their citizens or foreigners?”
+
+26When Peter said, “Foreigners,” Jesus said, “So citizens are exempt. 27But we don’t want to make them stumble. Go to the lake, and throw in a fishhook. Take the first fish you catch and open its mouth. You’ll find a stater. Give it to them for you and me.”
+
+Discussion About Rank;
+
+The Question About Stumbling Blocks
+
+(Mt 18:1-14; Mk 9:33-37, 42-50)
+
+46A discussion came up among the disciples as to which would have highest rank. Jesus knew about their discussion; so 33when they came to Capernaum and he was at home, he asked them, “What were you arguing about on the road?”
+
+34They kept still because they’d been talking about who had higher rank.
+
+35He sat down and called the twelve over, “If anybody wants to be first, he’ll be last and servant of all.” 36He took a little child and stood him next to him and put his arms around him.
+
+3“Unless you change and become like little children, you won’t get in the kingdom. 4Whoever humbles himself like this little child is greatest in the kingdom of heaven. 48The least among you has the highest rank. “Whoever receives this little child in my name receives me, and whoever receives me receives the One that sent me. 6“Whoever makes one of these little ones stumble who believe in me, would be better off to have a large millstone hung around his neck and drown in the sea.
+
+10“Make sure you don’t look down on one of these little ones. Their angels in heaven can always see my heavenly Father. [11]ms 12What do you think? If a man has a hundred sheep and one of them wanders off, doesn’t he leave the ninety-nine on the hill and go looking for the stray? 13If he finds it, he’s happier over it than over the ninety-nine that didn’t stray. In the same way, my heavenly Father doesn’t want one of these little ones to be lost.
+
+7“Woe to the world because of temptations. They’ll come, but woe to the one that brings them. 8If your hand or foot causes you problems, cut it off and throw it away. It’s better to go about life deformed or lame than to have two hands and two feet and be thrown in the eternal fire. 9If your eye is causing you problems, pull it out and throw it away. It’s better to 47get in God’s kingdom with one eye than to have two eyes and be thrown in the 48fire that doesn’t burn out.
+
+49“Everybody will be salted with fire. 50Salt’s good, but if salt loses its saltiness, how will you make it salty? Have salt in yourselves, and be at peace with each other.”
+
+The Unknown Exorcist
+
+(Mk 9:38-41; Lk 9:49-50)
+
+38John said, “Rabbi, we saw a fellow casting out demons in your name and told him not to, because he wasn’t following with us.”
+
+39“Don’t forbidpl him. Nobody that performs a miracle in my name can turn around right away and say something bad about me. 40Whoever is not against us is for us. 41Whoever gives you a cup of water in my name because you’re following the Messiah, won’t lose his reward. That’s for sure.”
+
+Mistreatment and Forgiveness (Mt 18:15-35)
+
+15“If your brother sins against you, go show him his fault privately. If he listens, you’ve gained your brother back. 16If he doesn’t, take one or two with you so ‘TWO OR THREE WITNESSES WILL CONFIRM EVERY MATTER’ [Deut 19:15]. 17If he refuses to listen, tell the church. If he refuses to listen even to the church, regard him as you do a Gentile or a tax collector.
+
+18“Whatever youpl bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven. 19Again, if two of you agree on earth about anything you ask for, it’ll happen for you from my Father in heaven. 20Where two or three gather in my name, I’m there with them.”
+
+21Then Peter came and asked, “Lord, how many times should I forgive my brother? Up to seven times?”
+
+22Jesus said,
+
+“I wouldn’t say up to seven times, but up to seventy-seven times.”
+
+23“The kingdom of heaven is like a king that wanted to settle accounts with his servants. 24When he was making the settlements, one debtor was brought to him that owed ten thousand talents. 25Since he couldn’t repay it, the lord commanded his wife, children, and everything he owned to be sold and repayment be made. 26The servant fell down and prostrated himself in front of him, ‘Be patient with me, and I’ll repay everything.’ 27The lord felt sorry for him, released him, and forgave him the debt.
+
+28“That servant went out and found a fellow servant that owed him a hundred denarii; and grabbed him and began to choke him, ‘Pay me what you owe me.’ 29His fellow servant fell down and began to beg him, ‘Be patient with me, and I’ll repay you.’ 30But he wasn’t willing. He threw him in prison till he paid what he owed.
+
+31“His fellow servants were deeply grieved and reported to their lord what happened. 32His lord summoned him and said, ‘Evil servant, I forgave you all that debt when you begged me. 33Shouldn’t you have been merciful with your fellow servant like I was with you?’ 34His lord was angry and turned him over to the torturers till he’d pay everything he owed.
+
+35“My heavenly Father will do the same thing to youpl unless each of you forgives your brother from your heart.”
+
+Jesus and His Unbelieving Brothers (Jn 7:2-9)
+
+2The Jews’ Festival of Unleavened Bread was coming up. 3Jesus’ brothers told him, “Go to Judaea so your disciples can see what you can do. 4Nobody does something in private when he’s trying to get known publicly. If you’re doing these things, show yourself to the world.” (5Not even his brothers believed in him.)
+
+6Jesus told them, “It’s not time for me to go yet. You can go anytime. 7The world can’t hate you; it hates me because I testify that it does evil things. 8You go on. I’m not going up to this festival; it’s not time for me to go yet.”
+
+9His brothers went on up; he stayed in Galilee.
+
+Private Journey to Jerusalem Through Samaria
+
+(Lk 9:51-56)
+
+51When the time for going up to Jerusalem was approaching, he set his face to go there, 52and sent messengers on ahead. They went to a Samaritan village to make arrangements for him, 53but they wouldn’t accept him, because he was heading for Jerusalem. 54When the disciples James and John saw it, they said, “Lord, do you want us to bring down fire from the sky and consume them?” 55He turned around and rebuked them, 56and they went to another village.
+
+Jesus at the Feast of Tabernacles (Jn 7:10-52-[[53]])
+
+10Then Jesus went up secretly. 11The Jews were looking for him at the festival, “Where is he?” 12A lot of murmuring was going on about him in the crowds. Some were saying, “He’s a good man.” Others said, “No, he’s misleading the crowd.” 13But, nobody would talk openly about him for fear of the Jews.
+
+14In the middle of the festival, Jesus did go up to the temple and start teaching. 15The Jews marveled, “How does he know letters without going to school?”
+
+16Jesus answered,
+
+“My teaching’s not mine; it’s the teaching of the One that sent me. 17If anybody wants to do his will, he’ll know if my teaching is from God or if I’m speaking on my own. 18Anybody that speaks on his own is looking for his own glory. The one that’s looking for the glory of the One that sent him is genuine; there’s nothing dishonest about him. 19Didn’t Moses give you the law? But none of you keep it. Why are you trying to kill me?”
+
+20The crowd answered, “You’ve got a demon. Who’s trying to kill you?”
+
+21Jesus responded,
+
+“I did one thing, and you were all amazed. 22Moses gave you circumcision—not that it originated with him but with the ancestors—and you circumcise a man on the Sabbath. 23If a man gets circumcised on the Sabbath to avoid breaking the law, are you angry with me because I made a whole man healthy on the Sabbath? 24Don’t make surface judgments; base your judgments on what’s real.”
+
+25Some that lived in Jerusalem were saying, “Isn’t this the One they’re trying to put to death? 26And look, he’s speaking openly, and they aren’t saying anything to him. Do the rulers know maybe that he really is the Messiah?”
+
+27“But we know where this man’s from. Nobody knows where the Messiah’s from.”
+
+28Then, as he was teaching, he shouted, “You know me, and you know where I’m from. I haven’t come on my own; the One that’s true sent me. You don’t know him; 29but I know him, because I came from him and he sent me.”
+
+30They were trying to arrest him, but nobody laid a hand on him, because it wasn’t his time yet. 31Many in the crowd believed in him, “When the Messiah comes, he won’t do more signs that this man has done, will he?”
+
+32The Pharisees heard the crowd murmuring these things, and the chief priests and Pharisees sent officers to arrest him. 33Jesus said, “I’ll be with you for a little while yet, and I’ll go back to the One that sent me. 34You’ll look for me, but you won’t find me. You can’t go where I’m going.”
+
+35The Jews said to each other, “Where’s he going that we won’t find him. He’s not going, is he, to the Diaspora of the Greeks and teach the Greeks? 36What does he mean, ‘You’ll look for me and won’t find me,’ and, ‘You can’t go where I’ll be’?”
+
+37On the last day of the festival, the main day, Jesus stood and shouted, “If anybody’s thirsty, come to me and drink. 38Everybody that believes in me, as the scripture has said, will have streams of living water flowing from within him.” (39He said this about the Spirit that the ones that believed in him would receive. The Spirit hadn’t come yet, because Jesus hadn’t been glorified.)
+
+40Some in the crowd said, “This really is the prophet.” Others said, “This is the Messiah.” 41Others said, “The Messiah doesn’t come from Galilee, does he? 42Doesn’t the scripture say the Messiah descends from David and comes from Bethlehem, where David lived?” 43So a difference of opinion about him arose in the crowd. 44Some wanted to arrest him, but nobody laid a hand on him.
+
+45The officers came back to the chief priests and Pharisees, “Why didn’t you bring him?”
+
+46The officers answered, “No man ever spoke this way.”
+
+47The Pharisees answered them, “You haven’t been deceived too, have you? 48None of the rulers or the Pharisees have believed in him, have they? 49This crowd that doesn’t know the law is accursed.”
+
+50Nicodemus said to them—the one who came to him at first, 51“Our law doesn’t condemn a man, does it, unless it has a hearing first to find out what he’s doing?”
+
+52They answered him, “You aren’t from Galilee too, are you? Search and see that no prophet is supposed to arise from Galilee.” [[53And each one went home.]]ms
+
+Woman Taken in Adultery ([[Jn 8:1-11]])
+
+[[8:1Jesus went to the Mount of Olives. 2Early in the morning he went back to the temple, the people came to him, and he sat down and started teaching them. 3The scribes and Pharisees brought a woman caught in adultery and stood her in front of everybody, 4“Rabbi, we caught this woman in adultery—in the very act. 5In the law Moses commanded us to stone a woman like this. What do you say?” (6They said this, testing him, so they could accuse him.)
+
+Jesus squatted down and scribbled on the ground with his finger. 7When they kept badgering him, he stood up, “The one of you that doesn’t have any sin, throw the first stone at her.” 8He squatted down again and scribbled on the ground. 9They began to go away one by one, starting with the oldest; and left him alone with the woman standing there.
+
+10Jesus stood up, “Where are they? Hasn’t anybody condemned you?”
+
+11“No, sir.”
+
+“I’m not going to condemn you either. Go and don’t sin anymore.”]]
+
+Sermon on the Light of the World (Jn 8:12-59)
+
+12Jesus started talking to the audience again. “I’m the light of the world. Nobody that follows me will be walking in the dark; he’ll have the light of life.”
+
+13The Pharisees said, “You’re testifying for yourself; your testimony’s not valid.”
+
+14Jesus answered,
+
+“Although I’m testifying for myself, my testimony is valid because I know where I’m from and where I’m going. You don’t. 15You condemn people by legal standards; I don’t condemn anybody that way. 16Even if I do render judgment, my judgment’s valid because I’m not the only witness. There’s me and the Father that sent me. 17Yourpl law says the witness of two people is valid. 18I witness for myself, and the Father witnesses for me.”
+
+19“Where is your Father?”
+
+Jesus answered, “You don’t know me or my Father. If you knew me, you would know my Father too.” 20He said this in the temple Treasury, and nobody arrested him, because it wasn’t his time yet.
+
+21He told them again, “I’m going away. You’ll look for me, and you’ll die in your sinsg. You can’t go where I’m going.”
+
+22The Jews said, “He’s not going to kill himself, is he?” (because he said, “You can’t go where I’m going.”)
+
+23He said, “You’re from below; I’m from above. You’re from this world; I’m not. 24I said you’d die in yourpl sins because if you don’t believe who I am, you will die in you sins.”
+
+25“Who are you?”
+
+“Exactly what I’ve been telling you all along. 26I have a lot to say about you and judgments to make, but the One that sent me is the real basis for it. What I’ve heard from him is what I’m telling the world.” (27They didn’t know he was talking about the Father; 28so he said,)
+
+“When you lift up the Son of Man, you’ll know who I am and that I’m not saying anything but what the Father has taught me. 29The One that sent me is with me. He hasn’t left me alone, because I always do what pleases him.” 30While he was saying that, many believed in him.
+
+31Then he said to the Jews that believed him, “If you keep following what I say, you really are my disciples. 32You’ll know the truth, and the truth will set you free.”
+
+33“We’re Abraham’s descendants. We’ve never been slaves to anybody. What do you mean, ‘You’ll be free’?”
+
+34“Everybody that sins is a slave to sin. 35A slave is not a part of the family. A son is. 36So, if a son sets you free, you really are free. 37I know you’re Abraham’s descendants, but you’re trying to kill me because you don’t want to hear what I’m saying. 38I’m telling you what I’ve seen my Father do, and you’re doing what you’ve seen your father do.”
+
+39“Abraham’s our father.”
+
+“If you were Abraham’s children, you’d be acting like Abraham. 40But you’re trying to kill me now, a man that’s told you the truth I heard from God. Abraham didn’t act like that. 41You’re doing what your father does.”
+
+“We’re not illegitimate children; we have one Father—God.”
+
+42“If God were your Father, you’d love me, because I’ve come from him. I haven’t come on my own; he sent me. 43Why don’t you understand what I’m saying? Can’t you hear? 44You belong to your father the devil, and you want to do what he wants you to do. He was a murderer from the beginning and doesn’t stand for the truth. There’s no truth in him. When he tells a lie, he’s doing his own thing, because he’s a liar and the one that invented lying. 45Because I tell the truth, you don’t believe me. 46Which of you can convict me of sinning? If I’m telling the truth, why don’t you believe me? 47Whoever belongs to God listens to God. Here’s the reason you don’t listen: you don’t belong to him.”
+
+48“Wouldn’t we be right to say you’re a Samaritan with a demon?”
+
+49Jesus answered, “I don’t have a demon, but I do honor my Father and you dishonor me. 50I’m not trying to honor myself. There is One who seeks and condemns. 51The truth is, if anybody keeps what I say, he’ll never die.”
+
+52The Jews said, “Now we know you’ve got a demon. Abraham died and the prophets died, but you’re saying, ‘If anybody keeps what I say, he’ll never die.’ 53You aren’t greater, are you, than our ancestor Abraham who died and the prophets who died? Who do you think you are anyway?”
+
+54“If I honor myself, it’s not important. My Father’s the One that honors me—who you say is your God. 55You don’t know him, but I do. If I said I didn’t, I’d be lying like youpl. But I know him and keep his word. 56Your ancestor Abraham was overjoyed to see my day, and he saw it and was happy.”
+
+57“You’re not even fifty years old, and you’ve seen Abraham?”
+
+58“The truth is, I existed before Abraham did.”
+
+59They picked up stones to throw at him, but he hid and left the temple.
+
+Healing the Man Born Blind (Jn 9:1-41)
+
+9:1As he was going along, he saw a man that had been blind from birth. 2His disciples asked him, “Rabbi, who sinned, this man or his parents, that caused him to be born blind?”
+
+3“Neither he or his parents sinned. This happened so I could demonstrate God’s work in him. 4We need to work for the One that sent me while it’s daylight. The night’s coming when nobody can work. 5While I’m in the world, I’m the light of the world.”
+
+6When he’d said this, he spit on the ground and made some mud and smeared it on the blind man’s eyelids, 7“Go wash it off in the Pool of Siloam [Sent].”
+
+So he went and washed it off and came back able to see. 8Neighbors and people that had seen him begging said, “Isn’t this the fellow that sits and begs?”
+
+9“It’s him.”
+
+“No, he just looks like him.”
+
+“It is me.”
+
+10 “How did you get your sight?”
+
+11“The man called Jesus made mud and smeared it on my eyelids and said, ‘Go to Siloam and wash it off.’ I did, and I could see.”
+
+12“Where is he?”
+
+“I don’t know.”
+
+13They brought him to the Pharisees. 14It was on a Sabbath day when Jesus made mud and gave him sight. 15The Pharisees, too, asked him how he received his sight. He told them, “He put mud on my eyelids. I washed it off, and I can see.”
+
+16Some Pharisees said, “This man is not from God; he doesn’t keep the Sabbath.”
+
+Others said, “How can a sinful man do such a thing?” They were divided over it.
+
+17They said to the blind man again, “What do you think about him? You’re the one he made see.”
+
+“He’s a prophet.”
+
+18The Jews questioned whether he’d been blind and received his sight till they called his parents, 19“Is this your son that you say was blind? How can he see now?”
+
+20“He’s our son, and he was blind. 21We don’t know how he is able to see now or who gave him his sight. He’s legal age; he can speak for himself.” (22They said that because they were afraid. The Jews had already agreed to excommunicate from synagogue membership anybody that confessed that Jesus was the Messiah. [23]repeat)
+
+24They called the man a second time, “Give God the credit; we know this man’s a sinner.”
+
+25“I don’t know if he’s a sinner. One thing I do know: I was blind; now I can see.”
+
+26“What did he do to you? How did he make you able to see?”
+
+27“I already told you, and you didn’t listen. Why do you want to hear it again? You don’t want to become his disciples too, do you?”
+
+28“You’re his disciple; we’re Moses’ disciples. 29We know God spoke to Moses, but we don’t know where this man’s from.”
+
+30“The amazing thing here is that you don’t know where he’s from, and he gave me my sight. 31We know God doesn’t hear sinners; but if people are devout and do his will, he hears them. 32Since eternity past nobody ever heard of somebody giving sight to a man born blind. 33If this man weren’t from God, he couldn’t do anything.”
+
+34“You were totally born in sins, and you’re trying to teach us?” They excommunicated him.
+
+35Jesus heard they’d excommunicated him. When he found him, he said, “Do you believe in the Son of Man.?”
+
+36“Who is he so I can believe in him?”
+
+37“You’ve seen him, and he’s the one that’s talking to you.”
+
+38“I believe, Lord,” and bowed down to him.
+
+39Jesus said, “I came to the world for judgment so the ones that can’t see can see, and the ones that can see can go blind.”
+
+40The Pharisees that were with him heard it, “We aren’t blind too, are we?”
+
+41“If you were blind, you wouldn’t be guilty. But you say, ‘We can see.’ You’re still guilty.’”
+
+Sermon on the Good Shepherd (Jn 10:1-21)
+
+10:1“Whoever doesn’t go through the gate into the sheep pen, but climbs up somewhere else, is a robber. 2A shepherd comes through the gate. 3The gatekeeper opens for him, and the sheep recognize his voice. He calls his sheep by name and leads them out. 4When he gets them out, he goes in front of them, and they follow him because they know his voice. 5They won’t follow a stranger. They’ll run away from him, because they don’t recognize his voice.” 6They didn’t understand what Jesus meant by the illustration.
+
+7Again, Jesus said,
+
+“I’m the gate for the sheep. 8The ones that came before were thieves and robbers. The sheep didn’t listen to them. 9If anybody goes in through me, he’ll be safe. He can go in and out and find pasture. 10A thief comes to steal, slaughter, and destroy. I’ve come so they can live and live more abundantly. 11I’m a good shepherd; a good shepherd risks his life for his sheep. 12A hired hand sees a wolf coming, leaves the sheep, and runs away, because the sheep don’t belong to him. A wolf snatches them and scatters them. 13A hired hand doesn’t care about the sheep. 14I’m a good shepherd; I know my sheep, and they know me. 15As the Father knows me, I know the Father, and I lay down my life for my sheep.
+
+16“And, I have other sheep that aren’t part of this fold. I need to lead them too. They’ll hear my voice and become one flock with one shepherd. 17The Father loves me because I lay down my life to take it back again. 18Nobody’s taking it away from me. I’m laying it down voluntarily. I have the right to lay it down and the right to take it back. That’s what my Father commanded me to do.”
+
+19Again a division arose among the Jews over what he said. 20A number of them said, “He’s got a demon; he’s crazy. Why are you listening to him?”
+
+21Others said, “A demon-possessed man doesn’t talk like that. A demon can’t make blind people see, can it?”
+
+The Mission of the Seventy (Lk 10:1-24)
+
+10:1After this, the Lord appointed seventy other men and sent them ahead in pairs to every town and place where he intended to go.
+
+2He told them,
+
+“It’s a big harvest with few workers, so ask the crew chief to put more workers in his harvest. 3I’m sending you out like lambs among wolves. 4Don’t carry a money bag, knapsack, or shoes. Don’t visit with anybody along the way. 5Whatever house you go in, first say, ‘Peace to this house.’ 6If a peace-loving person lives there, your peace will rest on him. If not, it’ll return to you. 7Stay in the same house and eat what they provide. A worker is worth his wages. Don’t move around from house to house. 8Whatever town you go in and they welcome you, eat what they put in front of you. 9Heal the sick in it, and say, ‘God’s kingdom has come close to you.’ 10Whatever town you go in and they don’t welcome you, go out in the streets and say, 11‘Even the dust of your town that sticks to our feet we wipe off against you. But know this: God’s kingdom has come close to you.’ 12It’ll be more bearable for Sodom at the judgment than for that town.
+
+13“Woe to you, Chorazin! Woe to you, Bethsaida! If the miracles done in you had been done in Tyre and Sidon, they would have repented long ago in sackcloth and ashes. 14It’ll be more bearable at the judgment for those cities than for you. 15And you, Capernaum, you won’t be exalted to heaven, will you? You’ll be brought down to hell.
+
+16“Whoever listens to you listens to me; whoever rejects you rejects me; whoever rejects me rejects the One that sent me.”
+
+17The seventy came back excited, “Lord, even the demons submit to us in your name.”
+
+18He said, “I’ve been watching Satan fall from heaven like lightning. 19I’ve given you authority to step on snakes and scorpions, and over the power of the enemy. Nothing will hurt you. 20But, don’t get excited because the spirits submit to you; be excited that your names are recorded in heaven.”
+
+21Right then he was really happy, “I praise you, Father, Lord of heaven and earth, for hiding these things from wise, intelligent people and revealing them to infants. 22Yes, Father, you delighted in doing that.”
+
+“My Father has turned everything over to me. Nobody knows who the Son is but the Father, and who the Father is but the Son, and whoever the Son wants to reveal him to.”
+
+23He turned to his disciples aside and said, “Blessed are the eyes that see what you’re seeing. 24Many prophets and kings have wanted to see what you’re seeing and haven’t seen it, and hear what you’re hearing and haven’t heard it.”
+
+The Parable of the Good Samaritan (Lk 10:25-37)
+
+25A lawyer stood up, testing him, “Rabbi, what should I do to inherit eternal life?”
+
+26Jesus said, “What’s the law say? How do you read it?”
+
+27He answered, “‘LOVE THE LORD YOUR GOD WITH ALL YOUR HEART, SOUL, STRENGTH [Deut 6:5; 10:12; Josh 22:5], and mind’; and ‘LOVE YOUR NEIGHBOR AS YOURSELF’” [Lev 19:18].
+
+28Jesus said, “You’re right. Do that and you’ll live.”
+
+29But he wanted to justify his question, so he said, “Who’s my ‘neighbor’?”
+
+30Jesus answered,
+
+“A man was going down from Jerusalem to Jericho, and he was attacked by robbers. They stripped him and beat him up and left him half dead. 31By chance a priest was going down that road and saw him and went around him. 32When a Levite came to the place and saw him, he did the same thing. 33But a Samaritan on a business trip came to the place and saw him and felt sorry for him. 34He went over and poured oil and wine in his wounds, bandaged them up, put him on his own animal, and took him to an inn and took care of him.
+
+35“The next day he took out two denarii and gave them to the innkeeper. ‘Take care of him. Whatever more you spend I’ll pay you when I get back.’ 36Which of the three do you think proved to be a neighbor to the man the robbers attacked?”
+
+37The lawyer said, “The one that showed him mercy.”
+
+Jesus said, “Go do the same thing.”
+
+Jesus with Mary and Martha (Lk 10:38-42)
+
+38As they were traveling, he went in a village, and a woman named Martha welcomed him. 39Her sister Mary was sitting in front of Jesus, listening to him. 40Martha was worried with serving, and came and said, “Lord, don’t you care that my sister has left me to do the serving by myself? Tell her to help me.”
+
+41Jesus said, “Martha, Martha, you’re worried and bothered about so much, 42but one thing is necessary: Mary has chosen the good part; I’m not going to take it away from her.”
+
+Discourse on Prayer (Lk 11:1-13)
+
+11:1He was in a place praying. When he finished, one of his disciples said, “Lord, teach us how to pray like John taught his disciples.”
+
+2He said,
+
+“When you pray, say,
+
+‘Father, you are holy.
+
+Your kingdom come.
+
+3Give us each day our daily bread.
+
+4Forgive us of our sins,
+
+because we forgive everybody that owes us.
+
+Keep us from facing temptation.’
+
+5“Which of you would go to a friend in the middle of the night and say, ‘Lend me three loaves of bread. 6A friend has come in off the road, and I don’t have anything to feed him’?
+
+7“From inside he’d answer, ‘Don’t bother me. The door’s already shut, and the kids are in bed with me. I can’t get up to give you anything.’ 8Though he didn’t want to get up to give him something, because he persisted, he’ll get up and give him as much as he needs. 9Ask and you’ll receive, seek and you’ll find, knock and it’ll open for you. 10Everybody that asks receives, everybody that seeks finds, and everybody that knocks it’ll open for.
+
+11“If your boy asks for a fish, would you give him a snake? 12If he asks for an egg, would you give him a scorpion? 13If you evil people know how to give good things to your kids, how much more will the heavenly Father give the Holy Spirit to people that ask him.”
+
+The Pharisees’ Charge That Jesus
+
+Was in League with the Devil (Lk 11:14-36)
+
+14He was casting a demon out of mute man. When he’d cast it out, the man could speak; and the crowd was amazed. 15Some of them said, “He casts out demons by Beelzebub, the ruler of demons.” 16Others, testing him, were looking for a sign from him out of the sky.
+
+17He was aware of their thoughts, and said to them,
+
+“Every kingdom divided against itself falls. 18If Satan is divided against himself, how will his kingdom stand—because you’re saying I cast out demons by Beelzebub? 19If I cast out demons by Beelzebub, who do your students cast them out by? So they’ll be your judges. 20But if I cast out demons by the finger of God, then God’s kingdom has come to you. 21When a strong man, fully armed, guards his courtyard, his possessions are undisturbed. 22When somebody stronger than him attacks and overpowers him, he seizes the armor the man depended on and scatters his plunder. 23Whoever’s not with me is against me, and whoever doesn’t gather with me scatters out.
+
+24“When an unclean spirit leaves a person, it roams around in dry places, looking for rest. When it doesn’t find any, it says, ‘I’ll go back to the house I left.’ 25When he goes, he finds it swept out and decorated. 26Then he takes seven spirits more evil than he is and goes in and settles down there. The person’s last condition is worse than the first.”
+
+27While he was saying this, a woman in the crowd raised her voice, “Blessed is the womb that bore you and the breasts you nursed.”
+
+28But he said, “More important, blessed are people that hear God’s message and keep it.”
+
+29As the crowds were growing, he said,
+
+“This is a wicked time. People are looking for a sign, but it won’t get any but the sign of Jonah. 30As Jonah was a sign to the Ninevites, that’s the way the Son of Man will be to people today. 31The queen of the south will stand up in the judgment with people today and condemn them. She came from the ends of the earth to hear Solomon’s wisdom, and something greater than Solomon is here. 32The people of Nineveh will stand up in the judgment with people today and condemn it. They repented when Jonah preached to them, and something greater than Jonah is here.
+
+33“Nobody lights a lamp and puts it in the cellar [or under a bucket]ms, but on a stand so people coming in can see it. 34Your eye is the lamp for the body. When your eye is clear, your whole body is full of light; but when it’s bad, your body’s full of darkness too. 35Watch out so the light in you won’t be darkness. 36If then your whole body is full of light, it’s like a bright lamp that gives you light.”
+
+Denouncing the Pharisees (Lk 11:37-54)
+
+37When he’d spoken, a Pharisee asked him to eat a meal with him, and he went in and directly reclined at table. 38When the Pharisee saw it, he was amazed that Jesus didn’t dip his hands first before the meal.
+
+39The Lord said to him,
+
+“You Pharisees clean the outside of the cup and the dish, but inside you’re full of robbery and wickedness. 40You foolish people, didn’t the One that made the outside make the inside too? 41Give the internal things over to charity, and everything will be clean to you.
+
+42“But woe to you Pharisees! You tithe mint and rue and every vegetable, and pass over justice and love for God. You should have done these without neglecting those.
+
+43“Woe to you Pharisees! You love the main seat in the synagogues and the greetings in the marketplaces.
+
+44“Woe to you! You’re like unmarked graves that people walk on without knowing it.”
+
+45A lawyer spoke up, “Rabbi, when you say things like that, you insult us too.”
+
+46Jesus said,
+
+“Woe to you lawyers as well! You load people down with heavy burdens, but you don’t touch them with one of your fingers.
+
+47“Woe to you! You build the tombs of the prophets, and your fathers killed them. 48So you’re witnesses and approve of your fathers’ deeds: they killed them; you build their tombs. 49So the wisdom of God also said, ‘I’ll send them prophets and apostles. They’ll persecute some and kill some. 50So the blood of all the prophets shed since the founding of the world will be required of this generation—51from the blood of Abel to Zechariah, who perished between the altar and the temple. Yes, it’ll be required of this generation.’
+
+52“Woe to you lawyers! You take away the key for understanding. You haven’t gone in yourselves, and you stand in the way of the ones that are trying to go in.”
+
+53Before he left, the scribes became terribly hostile, and bombarded him with questions about all kinds of things. They were plotting to latch onto something he said.
+
+Disciples Warned Against Fearing Men
+
+(Lk 12:1-12)
+
+12:1Meantime the thousands in the crowd were so packed together they were stepping on each other. Jesus began to say to his disciples first,
+
+“Watch out for the leaven of the Pharisees, which is hypocrisy. 2Everything covered up will be revealed; everything hidden will be made known. 3What youpl say in the dark will be heard in the light, and what youpl whisper in the store rooms will be proclaimed on the housetops.
+
+4“I say to you friends, don’t be afraid of who can kill the body and that’s all they can do. 5I’ll show you who to be afraid of: the One with the right to kill you and the throw you in hell. Yes, fear him. 6Aren’t five sparrows sold for two assarions? And God doesn’t forget about a one of them. 7Indeed the very hairs of your head are numbered. Don’t be afraid; you’re worth more than lots of sparrows.
+
+8“Everybody that confesses me in front of people, the Son of Man will confess in front of God’s angels. 9Whoever denies me in front of people I’ll deny in front of God’s angels. 10Everybody that speaks against the Son of Man will be forgiven, but whoever blasphemes the Holy Spirit won’t be forgiven.
+
+11“When they bring you in front of synagogues, rulers, and authorities, don’t worry about how to defend yourselves or what to say. 12The Holy Spirit will teach you at the time what to say.”
+
+The Parable of the Rich Fool (Lk 12:13-21)
+
+13A man in the crowd said, “Rabbi, tell my brother to share the inheritance with me.”
+
+14Jesus said, “Man, who appointed me as a judge over youpl?”
+
+15“Guard against every kind of greed, because even in abundance a person’s life doesn’t consist of what he owns.”
+
+16He told the crowd a parable,
+
+“A rich man’s land produced a bumper crop. 17He deliberated, ‘What am I going to do? I don’t have enough room to store my crop?’ 18He said, ‘This is what I’ll do. I’ll take down my barns and build bigger ones so I can store all my grain and good things. 19I’ll say to myself, ‘You have a lot of good things for years to come. Rest, eat, drink, celebrate.’ 20God said, ‘You fool! Tonight they’ll ask for your soul, and who will these things belong to?’ 21That’s how it is with a person that lays up treasure for himself and is not rich toward God.”
+
+Encouragement to Trust God (Lk 12:22-34)
+
+22He said to his disciples, “So don’t worry about your life, what you’ll eat, or your body, what you’ll wear. 23Life is more than food; the body is more than clothes. 24Think about black birds; they don’t sow or reap; they don’t have a storeroom or barn. God feeds them. You’re worth a lot more than birds. 25Which of you by worrying can add eighteen inches to his height? 26If you can’t do such a small thing, why worry about the rest? 27Think how lilies grow; they don’t work hard or spin, but even Solomon in all his splendor didn’t dress like one of them. 28If God dresses the vegetation in the field this way—which is here today and thrown in the oven tomorrow—how much more will he dress you, people with little faith. 29Don’t concentrate on what you’ll eat, and don’t worry. 30They’re what Gentiles strain after. Your Father knows you need them. 31Seek his kingdom, and they’ll come along with it. 32You don’t need to be afraid, little flock; your Father delights in giving give you the kingdom. 33Sell what you own and give it to charity. Make money bags that don’t wear out, never-ending treasure in heaven, where thieves don’t come around and moths don’t ruin. 34Where your treasure is you heart will be too.
+
+Parable of the Waiting Servants (Lk 12:35—59)
+
+35“Be dressed and ready with your lamps lit. 36Be like men waiting for their lord to return from a wedding so they can open the door when he knocks. 37Blessed are the servants he finds watching. He’ll dress himself and have them recline at table, and come and wait on them. 38Whether he comes in the second watch or even the third and finds them ready, those servants are blessed. 39Be sure of this: if the home owner had known what time the thief would come, he wouldn’t have let him break into his house. 40You be ready because the Son of Man will come when you don’t expect him.”
+
+41Peter said, “Lord, are you telling this parable to us or to everybody?”
+
+The Lord said,
+
+42“Who’s a wise and reliable property manager that his lord puts in charge of doing the feeding at the right time? 43Blessed is the servant that his lord finds doing his job when he comes. 44He’ll put him in charge of everything he owns.
+
+45“If that servant says to himself, ‘It’ll be a long time before my lord gets back’; and he starts beating the servants, men and women, eating and drinking and getting drunk, 46the lord will come on a day he doesn’t expect at a time he doesn’t know, and he’ll severely flog him and assign him the fate of the disbelievers.
+
+47“The servant that knew his lord’s will and wasn’t ready or didn’t act accordingly will get many lashes. 48The servant that didn’t know and committed things worthy of lashes will get few lashes. A lot will be expected from everybody that receives a lot. People ask more from somebody they’ve entrusted with more.
+
+49“I came to cast fire on the earth; how I wish it were already kindled. 50I have a baptism to be baptized with, and how I’m under stress till it’s done! 51Do you suppose I came to bring peace on earth? No, I’m telling you, but division. 52From now on five members of a household will divide up three against two and two against three.
+
+53Father will be divided against son,
+
+and son against father.
+
+Mother will be divided against daughter,
+
+and daughter against mother.
+
+Mother-in-law against daughter-in-law,
+
+and daughter-in-law against mother-in-law.”
+
+54He told the crowd as well,
+
+“When you see a cloud coming up in the west, right away you say, ‘A storm’s coming,’ and that’s what happens. 55When you see a south wind blowing, you say, ‘It’s going to get hot,’ and it happens. 56Hypocrites, you can read the earth and sky; why can’t you read the sings of the times?
+
+57“Why don’t you figure out what’s right on your own? 58While you’re going with your opponent to a magistrate, make an effort to settle matters so he won’t drag you before the judge, the judge deliver you to the constable, and the constable put you in prison. 59You won’t get out till you pay the last dime.”
+
+Discourse on Repentance (Lk 13:1-9)
+
+13:1Some people told him about the Galileans whose blood Herod had mixed with their sacrifices. 2He said,
+
+“Do you suppose those Galileans were the most sinful Galileans because they suffered these things? 3No, but unless you repent, you’ll perish too. 4Do you suppose that the eighteen the tower of Siloam fell on and killed were the most sinful people in Jerusalem? 5No, but unless you repent, you’ll perish too.”
+
+6He told this parable,
+
+“A man had planted a fig tree in his vineyard. He came looking for fruit on it, but didn’t find any. 7He told the vineyard keeper, ‘For three years I’ve come looking for fruit on this fig tree and haven’t found any. Cut it down. Why’s it taking up space?’
+
+8“He answered, ‘Sir, leave it this year too, till I can dig around it and manure it. 9If it has fruit on it next year, okay. If not, you can chop it down.’”
+
+Healing on the Sabbath
+
+and the Coming Kingdom (Lk 13:10-21)
+
+10He was teaching in a synagogue one Sabbath, 11and a woman there had a spirit that for eighteen years caused a deformity. She was bent double and couldn’t straighten up. 12When Jesus saw her, he called out, “Ma’am, you’re freed from your deformity.” 13He laid hands on her, and at once she straightened up and glorified God. 14The synagogue ruler was indignant because Jesus healed her on the Sabbath.  He told the crowd, “There are six days when you need to work. Come on those days and be healed, not on the Sabbath day.”
+
+15The Lord answered him, “Hypocrites, don’t you untie your ox or donkey from the stall and lead it to water on the Sabbath? 16Wasn’t it necessary on the Sabbath to untie this daughter of Abraham that Satan had tied up for eighteen years?”
+
+17His opponents were disgraced, and the entire crowd was celebrating over the outstanding things he was doing.
+
+18So he said, “What’s God’s kingdom like? What can I compare it to? 19It’s like a mustard seed a man put in his garden. It became a tree, and birds nested in its branches.
+
+20“What’s God’s kingdom like? It’s like yeast a woman put in three pecks of meal till it leavened the whole batch.”
+
+Jesus at the Feast of Dedication (Jn 10:22-39)
+
+22The Festival of Dedication [Hanukkah] took place in Jerusalem during the winter, 23and Jesus was walking in the temple in Solomon’s Portico. 24The Jews surrounded him and said, “How long are you going to keep us in suspense? Are you the Messiah? Tell us plainly.”
+
+25Jesus answered,
+
+“I’ve told you, and you didn’t believe me. The things I do in my Father’s name speak for me. 26But you don’t believe me because you’re not my sheep. 27My sheep hear my voice, and I know them. They follow me, 28and I give them eternal life. Nobody will snatch them out of my hand. 29My Father, who gave them to me, is more powerful than anybody. Nobody will snatch them out of the Father’s hand. 30The Father and I are at one.”
+
+31Again the Jews picked up stones to stone him. 32Jesus replied to them, “I’ve shown you many good works from the Father. Which of them are you ready to stone me for?”
+
+33“We’re not ready to stone you for a good deed, but for blasphemy. You’re a human being, and you’re making yourself deity.”
+
+34Jesus responded,
+
+“Doesn’t your law say, ‘I SAID, YOU ARE GODS’? [Ps 82:6] 35If he called them gods that the word of God came to—and scripture can’t be broken—36how do you say that the One the Father sanctified and sent into the world is blaspheming, because I said, ‘I’m God’s Son’? 37If I’m not doing what my Father does, don’t believe me. 38If that’s what I am doing, though you don’t believe me, believe what I do so you can know that the Father’s in me and I’m in the Father.”
+
+39Again they tried to grab him, but he got away.
+
+Retirement from Jerusalem to Perea (Jn 10:40-42)
+
+40He went away again to the other side of the Jordan—where John was baptizing at first—and stayed there. 41Many came to him. They said, “John didn’t do any sign, but everything he said about this man is true.” 42Lots of people believed in him there.
+
+Discussions in Perea (Lk 13:22-35)
+
+22He was passing from one town and village to another, teaching and working his way toward Jerusalem. 23Somebody said, “Lord, are few people saved?”
+
+He said,
+
+24“Make every effort to go in through the narrow door. Many will try to go in, but won’t be able to. 25Once the home owner gets up and shuts the door, you’ll stand outside and knock, ‘Sir, open it for us.’ He’ll answer, ‘I don’t know where you’re from.’  26You’ll say, ‘We ate with you, and you taught in our streets.’ 27He’ll say, ‘I don’t know where you’re from. Go away, you evil people.’ 28There’ll be bitter crying and gnashing of teeth when you see Abraham, Isaac, Jacob, and the prophets in God’s kingdom and yourselves thrown out. 29People will come from the east, west, north, and south and sit down in God’s kingdom. 30The last will be first and the first last.”
+
+31At that time some Pharisees came up to Jesus, “You need to get out of here! Herod wants to kill you!”
+
+32“Go tell that old fox, ‘I heal and cast out demons today and tomorrow, and the third day I’ll finish my work.’ 33But today, tomorrow, and the next day I do need to travel, because it’s not thinkable that a prophet would perish anywhere but in Jerusalem!
+
+34“Jerusalem! Jerusalem! that kills the prophets and stones the ones I’ve sent you! How many times I’ve wanted to gather your inhabitants like a hen gathers her chicks under her wings, but you didn’t want to. 35I leave your house [desolate]ms. You won’t see me till you say, ‘BLESSED IS THE ONE THAT’S COMING IN THE LORD’S NAME’”	 [Ps 118:26].
+
+Healing in a Pharisee’s Home on the Sabbath
+
+(Lk 14:1-24)
+
+14:1On the Sabbath when he went in the house of a ruling Pharisee to eat, they were watching him closely. 2In front of him was a man with edema. 3Jesus said to the lawyers and Pharisees, “Is it lawful to heal on the Sabbath or not?”
+
+4They didn’t say anything. He took hold of him, and healed him and sent him away. 5He said, “Which of you, if a son or ox falls in a well, wouldn’t pull him out at once on the Sabbath day?” 6They couldn’t answer him.
+
+7When he noticed how they were picking the prominent seats, he started telling the guests a parable.
+
+8“When somebody invites you to a wedding feast, don’t recline at table in the place of honor. Someone more distinguished than you may have been invited. 9The one that invited you both will say to yousg, ‘Let this man have his place.’ Then you’ll head for the last place, embarrassed. 10But, when you’re invited, go recline in the last place so when the one that invited you comes, he’ll say, ‘Friend, move up higher.’ Then the ones reclining at table will respect you. 11Everybody that exalts himself will be humbled, and the one that humbles himself will be exalted.”
+
+12He went on to say to his host,
+
+“When yousg make lunch or dinner, don’t call your friends, brothers, relatives, or rich neighbors. They can invite you in return and pay you back. 13Invite the poor, disabled, lame, and blind. You’ll be blessed; they can’t repay you. 14You’ll get repaid when the righteous resurrect.”
+
+15When one of the people reclining at the table heard this, he said to Jesus, “Blessed is the one that eats bread in God’s kingdom.”
+
+16Jesus said to him,
+
+“A man prepared a banquet and invited lots of people. 17When it was time for the meal, he sent a servant to tell them, ‘Come, everything’s ready.’ 18But they started making excuses. The first said, ‘I’ve bought a field; I need to go see it. Please, excuse me.’
+
+19“Another one said, ‘I’ve bought five yoke of oxen; I’m on my way to try them out. Please, excuse me.’
+
+20“Another one said, ‘I got married, so I can’t come.’
+
+21“When the servant came back, he told his lord. The homeowner was mad, ‘Hurry out in the streets and alleys of town and bring in the poor, disabled, blind, and lame.’
+
+22“‘Sir, I did what you said, and there’s still room.’
+
+23“The lord said, ‘Go out into the country roads and pathways and pressure them to come in so my house will be full. 24None of the people invited will taste my meal.”
+
+The Cost of Discipleship (Lk 14:25-35)
+
+25Large crowds were traveling along with him. He turned and said to them,
+
+26“Nobody that comes to me can be my disciple unless they love me more than their father, mother, wife, children, brothers, sisters, and even their own life. 27Whoever doesn’t carry their own cross and follow me, can’t be my disciple. 28Who wants to build a tower and doesn’t sit down first and figure out what it’ll cost, to see if he has enough money to finish it? 29Otherwise, when he’s laid a foundation and can’t finish it, everybody that sees it will make fun of him, 30‘This fellow began to build and couldn’t finish it.’
+
+31“What king that goes against another king in war, doesn’t sit down first to figure out whether with 10,000 he can meet the one with 20,000? 32If he can’t, while the other is a long way off, he’ll send ambassadors to ask for terms of peace. 33In the same way, none of you can be my disciples unless you give up everything you own.
+
+34“Salt is good, but if it loses its saltiness, what’s going to make it salty? 35It’s useless for the ground or the manure pile. People throw it out. Whoever has ears to hear, listen!”
+
+Parable of the Lost Sheep (Lk 15:1-7)
+
+15:1Tax collectors and sinners were coming to listen to him. 2The Pharisees and scribes started grumbling, “This man welcomes sinners and eats with them.”
+
+3He told them this parable.
+
+4“Who that has a hundred sheep and loses one doesn’t leave the ninety-nine in open country and go looking for the lost one till he finds it? 5After he finds it, he puts it on his shoulders happy. 6When he gets home, he calls his friends and neighbors, ‘Let’s celebrate; I’ve found the sheep I lost.’ 7There’ll be more celebration in heaven over one sinner that repents than over ninety-nine good people that don’t need to repent.”
+
+Parable of the Lost Coin (Lk 15:8-10)
+
+8“What woman that has ten coins and loses one doesn’t light a lamp, sweep the house, and keep looking till she finds it? 9When she does, she calls her friends and neighbors, ‘Let’s celebrate; I found the coin I lost.’ 10In the same way, God’s angels celebrate over one sinner that repents.
+
+Parable of the Prodigal Son (Lk 15:11-32)
+
+11“A man had two sons. 12The younger one said to his father, ‘Give me my share of the assets.’ He divided his livelihood between the two sons.
+
+13“A few days later the younger son got everything together and left home for a distant country, and wasted his assets there, living immorally. 14When he’d spent everything, a severe famine arose in that country, and he was out of money. 15He went to work for a citizen in that country, who sent him into his fields to feed pigs. 16He was so hungry he wanted to eat the carob pods the pigs were eating, but nobody would give him anything.
+
+17“He came to himself, ‘How many of my father’s hired hands have more than enough to eat, and I’m starving here. 18I’ll go to my father and say, “I’ve sinned against heaven and you. 19I don’t deserve to be your son anymore. Make me one of your hired hands.”
+
+20“He went to his father. While he was still a long way off, his father saw him, felt compassion for him, and ran and hugged him and kissed him. 21The son said, ‘Dad, I’ve sinned against heaven and you. I don’t deserve to be your son anymore.’
+
+22“But the father said to his servants, ‘Quickly, bring the best robe and put it on him. Put a ring on his finger and sandals on his feet. 23Bring the grain-fed calf and butcher it, and let’s eat and celebrate. 24This son of mine was dead and has come back to life; he was lost and is found.’ They started celebrating.
+
+25“His older son was out in the field. When he got close to the house, he heard music and dancing. 26He called one of the servants over and asked what was going on.
+
+27“‘Your brother came back, and your father has butchered the grain-fed calf because he received him back in good health.’
+
+28“He was mad and wouldn’t go in, and his father came out and urged him.
+
+29But he answered, ‘I slaved for you all these years and never neglected a thing you told me to do; and you never gave me a kid to celebrate with my friends. 30But when this son of yours comes that wasted your living with prostitutes, you butchered the grain-fed calf.’
+
+31“He said, ‘Son, you’re always here, and everything I have is yours. 32But we needed to celebrate and be happy, because this brother of yours was dead and is alive, was lost and is found.’”
+
+Parable of the Unjust Steward (Lk 16:1-13)
+
+16:1He also said to his disciples,
+
+“A rich man had a property manager who was reported to him for wasting the man’s holdings.  2He called him in, ‘What’s this I hear about you? Give me the records of your work; you can’t continue as manager.’ 3The man thought to himself, ‘What am I going to do? My boss is firing me. I’m not strong enough for hard work; I’m ashamed to beg. 4I know what I’ll do, so when I’ve been fired from being manager, people will welcome me into their homes.’
+
+5“He called in each of his boss’s debtors, and said to the first, ‘How much do you owe my employer?’
+
+6“‘Eight hundred gallons of olive oil.’
+
+“‘Take your bill, sit down quickly and write, “Four hundred.”’
+
+7“He said to the next one, ‘How much do you owe?’
+
+“‘Nine hundred bushels of wheat.’
+
+“‘Take your bill and write, “Seven hundred.”’
+
+8“The employer complimented the conniving manager, because he was shrewd. The sons of this age are smarter among their own kind than the sons of light are. 9Make friends by wealth that has nothing to do with being good so when it runs out, people will welcome you into permanent shelters. A person that’s reliable in small things will be reliable in big ones. 10A person that’s unreliable in small things will be unreliable in big ones. 11So if you prove to be unreliable in riches that have nothing to do with being good, who’ll trust you with true riches? 12If you prove to be unreliable with what belongs to somebody else, who’ll give you your own? 13No housekeeper can serve two employers. He’ll either disregard one and love the other, or pay attention to one and disregard the other. You can’t serve God and wealth.”
+
+The Law and God’s Kingdom (Lk 16:14-18)
+
+14The Pharisees, who loved money, heard this and started making fun of him. 15He said to them,
+
+“You justify yourselves to other people, but God knows your hearts. What people prize, God detests. 16The law and the prophets operated until John. Since then, God’s kingdom is being preached, and people keep trying to get in it by force. 17But it’s easier for earth and sky to pass away than for one serif of the law to fail.”
+
+18“Everybody that divorces his wife and marries another commits adultery, and whoever marries a divorced woman commits adultery.”
+
+Parable of the Rich Man and Lazarus
+
+(Lk 16:19-31)
+
+19“A rich man, dressed in purple and fine linen, celebrated every day in splendor. 20A poor man named Lazarus was brought to his gate, covered with sores 21and hungry for the scraps that fell from the rich man’s table. Dogs even came and licked his sores.
+
+22“The poor man died, and the angels carried him away into Abraham’s arms. The rich man died and was buried. 23In hell he looked up in torment and saw Abraham far away and Lazarus in his arms.
+
+24“He called out, ‘Father Abraham, have mercy on me, and send Lazarus to dip his fingertip in water and cool my tongue; I’m in agony in this flame.’
+
+25“Abraham said, ‘Son, remember, you received your good things in life, and Lazarus received bad things. Now he’s comforted here, and you’re in torment. 26Besides, a large chasm lies between us and youpl, so people can’t cross over from one place to the other.
+
+27“‘Then send him to my father’s house—28I have five brothers—to warn them so they won’t come to this place of torment.
+
+29“Abraham said, ‘They have Moses and the prophets. They can listen to them.’
+
+30“‘No, father Abraham, if somebody goes to them from the dead, they’ll repent.’
+
+31“Abraham told him, ‘If they won’t listen to Moses and the prophets, they won’t be convinced even if somebody arises from the dead.’”
+
+Parable of the Unprofitable Servant (Lk 17:1-10)
+
+17:1He said to his disciples,
+
+“It’s inevitable that offenses will come, but woe to the one that brings them. 2It’d be better for him if a big millstone was put around his neck and he was thrown in the sea than that he should cause one of these little ones to sin. 3Be on guard. If your brother sins, rebuke him; if he repents, forgive him. 4If he sins against you seven times in a day, and comes back seven times and says, ‘I’m sorry,’ forgive him.”
+
+5The apostles said to the Lord, “Increase our faith.”
+
+6He said,
+
+“If you have faith the size of a mustard seed, you can say to this mulberry tree, ‘Be uprooted and planted in the sea,’ and it will obey you.
+
+7“Which of you that has a servant plowing or tending sheep will saysg to him when he comes in, ‘Come at once and sit down to eat’? 8Won’t yousg say, ‘Change clothes, make me something to eat, and wait on me till I eat; then you can eat’? 9Do you thank the servant for doing his job? 10So youpl too, when you’ve done what was commanded, say, ‘We’re unprofitable servants; we’ve done what we were supposed to do.”
+
+Raising Lazarus (Jn 11:1-44)
+
+11:1There was a sick man, Lazarus of Bethany, the village where Mary and her sister Martha lived. 2This was the Mary that anointed the Lord with perfume and wiped his feet with her hair. Lazarus was her brother. 3His sisters sent to Jesus, “Lord, the one you love is sick.”
+
+4When he heard it, he said, “He’s not going to die from this sickness. It’s for God’s glory so it can glorify God’s Son.”
+
+5Now Jesus loved Martha and her sister and Lazarus. 6So when he heard that Lazarus was sick, he stayed where he was for two days. 7Afterwards he said to the disciples, “Let’s go back to Judaea.”
+
+8They said, “Rabbi, the Jews were trying to stone you just now, and you’re going back there?”
+
+9Jesus answered, “Aren’t there twelve hours of daylight? If a person walks in the daylight, he doesn’t stumble, because he has light. 10If he tries to walk in the dark, he stumbles because he doesn’t have light coming out of himself.”
+
+11After he said that, he told them, “Our friend Lazarus is sleeping; I’m going to wake him up.”
+
+12His disciples said, “Lord, if he’s sleeping, he’ll get better.”
+
+13Jesus was talking about death, but they thought he was talking about rest. 14Then he told them plainly, “Lazarus has died. 15I’m glad for your sake that I wasn’t there, so you can believe. Let’s go to him.”
+
+16Thomas, called Didymus, said, “Let’s go along and can die with him.”
+
+17When Jesus got there, he found that Lazarus had already been in the tomb four days. 18Now Bethany was a little less than two miles from Jerusalem. 19Many Jews had come to console Mary and Martha about their brother. 20When Martha heard Jesus was coming, she went to meet him, but Mary continued to sit in the house. 21Martha said, “Lord, if you’d been here, my brother wouldn’t have died. 22But I know even now that whatever you ask God for, he’ll give you.”
+
+23“Your brother will rise again.”
+
+24Martha said, “I know he’ll rise again in the resurrectionat the end of time.”
+
+25Jesus said, “I am the resurrection and life. Whoever believes in me will live even though he’s died. 26Everybody that lives and believes in me will never die. Do you believe that?”
+
+27“Yes, Lord; I’ve believed you’re the Messiah, God’s Son, who comes to the world.”
+
+28When she’d said that, she went and called Mary privately, “The Rabbi’s here; he’s asking for you.”
+
+29She got up quickly and went to him. 30He hadn’t come in the village yet; he was still where Martha met him. 31When the Jews in the house with Mary saw her get up quickly and leave, they followed her. They supposed she was going to the tomb to mourn. 32Mary came to where Jesus was and fell down to him, “Lord, if you’d been here, my brother wouldn’t have died.”
+
+33When Jesus saw her crying and the ones coming with her crying, he was deeply moved and troubled in himself, 34“Where have youpl laid him?”
+
+They said, “We’ll show you.”
+
+35Jesus began to cry.
+
+36The Jews said, “See how much he loved him.”
+
+37Some said, “Couldn’t a man that gave sight to the blind man have kept this man from dying?”
+
+38When Jesus got to the tomb, he was deeply moved. It was a cave with a stone lying against it. 39He said, “Take the stone away.”
+
+Martha said, “Lord, by now he smells. He’s been dead four days.”
+
+40Jesus said to her, “Didn’t I tell you that if you believed, you’d see how great God is?”
+
+They took the stone away. 41He looked up and said, “Father, thank you for hearing me. 42I know you always do, but I’m saying it for the crowd standing here so they’ll believe you’ve sent me.” 43Then he shouted, “Lazarus, come out!” 44The dead man came out bound hand to foot with strips of cloth, and his face was wrapped in a facecloth.
+
+Jesus said, “Unwrap him and free him.”
+
+Plots to Kill Jesus (Jn 11:45-54)
+
+45Many Jews that came to Mary and saw what Jesus did, believed in him; 46but some of them went to the Pharisees and told them what he’d done. 47So the high priests and the Pharisees called the Sanhedrin into session. “What are we going to do? This man is doing lots of signs. 48If we leave him alone like this, everybody’s going to believe in him, and the Romans will come and take away our place and our nation.”
+
+49Caiaphas, high priest that year, said, “There’s something you don’t understand: 50It’s to your advantage that one man die for the people so the whole nation doesn’t perish.” 51Now he didn’t say this on his own; but as high priest that year, he prophesied that Jesus would die for the nation, 52and not for the nation only, but that he’d gather into one body the children of God scattered abroad. 53From then on, they made plans to put him to death. 54So Jesus quit walking openly among the Jews, and went away to the territory close to the desert—to a town called Ephraim, and stayed there with his disciples.
+
+Healing Ten Lepers (Lk 17:11-19)
+
+11On the way to Jerusalem, he was passing along between Samaria and Galilee. 12As he came in one village, ten lepers met him. They stood a long ways off 13and shouted, “Jesus, Master, have mercy on us.”
+
+14When he saw them, he said, “Go show yourselves to the priests.”
+
+As they went, they were cleansed. 15When one of them saw he was healed, he came back, loudly glorifying God, 16and fell down on his face in front of Jesus, and thanked him. He was a Samaritan.
+
+17Jesus responded, “Weren’t there ten cleansed? Where are the nine? 18Was this foreigner the only one to come back and glorify God?
+
+19“You can go; your faith has saved you.”
+
+The Time of the Coming of the Kingdom
+
+(Lk 17:20-37)
+
+20The Pharisees asked when God’s kingdom would come.
+
+He answered, “God’s kingdom won’t come in a way you can watch. 21People won’t say, ‘Here,’ or ‘There,’ because God’s kingdom is interpersonal.”
+
+22He told his disciples, “The time’s coming when you’ll want to see one of the days of the Son of Man and you won’t see it. 23People will say to you, ‘Look, there it is’; [or]ms ‘Look, here it is.’ Don’t go anywhere or follow them. 24As lightning flashes from one end of the sky to the other, that’s the way the Son of Man will come. 25First, he has to suffer a lot of things and be rejected by people here now.
+
+26“As it was in Noah’s day, it will be in the Son of Man’s day. 27They were eating and marrying till Noah went in the ark, and the flood came and destroyed them all. 28As it was in Lot’s day, they were eating, buying, selling, planting, building. 29The day Lot left Sodom, fire and sulfur rained from the sky and destroyed them all. 30It’ll be the same way when the Son of Man returns. 31At that time, a person on the roof must not go down to get his things out of the house. A person in the field must not go back for things at the house. 32Remember Lot’s wife. 33Whoever tries to preserve his life will lose it, and whoever loses it will give life to his life. 34That night two will be in one bed; one will be taken and the other left. 35Two will be grinding at the same place; one will be taken and the other left. [36]ms”
+
+37They responded, “Where, Lord?”
+
+He said, “The buzzards will gather where the carcass is.”
+
+Parable of the Unjust Judge (Lk 18:1-8)
+
+18:1He told a parable to the effect that people should always pray, and not lose heart.
+
+2“There was a judge in a town who didn’t fear God or respect man. 3A woman in that town came to him, ‘Give me legal protection against my opponent.’ 4At first he wouldn’t help her, but after a while he said to himself, ‘Though I don’t fear God or respect man, 5because this widow keeps hounding me, I’ll give her justice so she won’t wear me out, coming to me all the time.’”
+
+6The Lord said,
+
+“Listen to what the unjust judge illustrates. 7Won’t God surely provide justice for his chosen ones who call to him for help day and night, and is patient with them? 8I’m telling you, he’ll provide justice quickly. But, when the Son of Man comes, will he find faith on the earth?”
+
+The Parable of the Pharisee
+
+and the Publican (Lk 18:9-14)
+
+9He told this parable to some who trusted in their own goodness and looked down on everybody else.
+
+10“Two men went up to the temple to pray, a Pharisee and a tax collector. 11The Pharisee stood, praying to himself, ‘God, I’m grateful to you that I’m not like everybody else—swindlers, unjust, adulterers—or like this tax collector. 12I fast twice a week; I tithe everything I get.’
+
+13“The tax collector stood a good ways off and wouldn’t even look up to heaven, but kept beating his chest, ‘God, have mercy on me, a sinner.’ 14I’m telling you, this man went home justified instead of the other. Everybody that exalts himself will be humbled, but whoever humbles himself will be exalted.”
+
+Jesus in Perea;
+
+Teaching About Divorce
+
+(Mt 19:1-12; Mk 10:1-12)
+
+19:1When Jesus finished, he left Galilee and went into the hills of Judaea on the other side of the Jordan. Again 2big crowds followed him, and he healed them there. As usual he was teaching them.
+
+3Pharisees came to him, testing him, “Is it lawful for a husband to divorce his wife for any reason whatever?”
+
+3He answered, “What did Moses command you?”
+
+4“Moses allowed a husband to WRITE A CERTIFICATE OF DIVORCE AND DIVORCE HER” [Deut 24:1].
+
+4He answered, “You’ve read, haven’t you, that ever since the creation the creator ‘MADE THEM MALE AND FEMALE’? [Gen 1:27; 5:2] 5So, ‘A MAN IS TO LEAVE HIS FATHER AND MOTHER, AND BE JOINED TO HIS WIFE, AND THE TWO WILL BECOME ONE PHYSICAL UNIT’ [Gen 2:24]. 6So, they’re no longer two but one. What God has united, people are not to separate.”
+
+7They said, “Why then did Moses command ‘TO GIVE A CERTIFICATE OF DIVORCE AND DIVORCE HER’?” [Deut 24:1]
+
+8“Because you’re hardhearted, Moses let you divorce your wives, but ever since the beginning it’s not been that way. 9Whoever divorces his wife—except for sexual immorality—and marries someone else, is committing adultery.”
+
+10In the house the disciples asked him about this again.
+
+11“Whoever divorces his wife and marries another woman commits adultery against her. 12If a woman divorces her husband and marries another man, she commits adultery.”
+
+10His disciples said, “If that’s the way a man’s relationship is with his wife, it’s better not to get married.”
+
+11Jesus said, “Not everybody can live that way—only those who have that gift. 12Some are eunuchs from birth, some are made eunuchs by men, and some have made themselves eunuchs because of the kingdom of heaven. Let him accept it who can accept it.”
+
+Jesus and the Little Children
+
+(Mt 19:13-15; Mk 10:13-16; Lk 18:15-17)
+
+13At that time people were bringing little children and even babies to Jesus so he could touch them and lay hands on them and pray. When the disciples saw it, they fussed at them.
+
+16But Jesus invited them, 14“Let the little children alone. Don’t keep them from coming to me. The kingdom of heaven is made up of people like them. I’m telling you, 15whoever doesn’t welcome God’s kingdom like a little child, certainly won’t get in it.” 16He took them in his arms and laid hands on them, and left.
+
+The Rich Young Ruler
+
+(Mt 19:16-22; Mk 10:17-22; Lk 18:18-23)
+
+17As he was going out to the road, an official ran and knelt in front of him and asked, “Good 16Rabbi, what good thing am I to do to have eternal life?”
+
+18Jesus said, “Why are you calling me good? God’s the only One that’s good. 17Why are you asking me about what’s good? You know the commandments.”
+
+18”Which ones?”
+
+Jesus said, “‘DON’T MURDER, COMMIT ADULTERY, STEAL, LIE, or swindle’; 19‘HONOR YOUR FATHER AND MOTHER’ [Ex 29:12-16; Deut 5:16-20]; ‘LOVE YOUR NEIGHBOR AS YOURSELF’” [Lev 19:18].
+
+20The young man said, “I’ve kept all of these since I was a boy. What do I still need to do?”
+
+21Jesus looked at him and liked him, “If you want to be perfect, 22there’s one thing left for you to do. Sell what you have and give the money out to the poor, and you’ll have treasure in heaven; and come with me.”
+
+22When the young man heard this, he was shocked, and went away discouraged because he was really rich.
+
+The Peril of Wealth
+
+(Mt 19:23-30; Mk 10:23-31; Lk 18:24-30)
+
+24When he saw him so sad, Jesus said to his disciples, 23“It’s hard for a rich man to get in the kingdom of heaven.”
+
+24The disciples were surprised he said that. But Jesus said it again, “Children, it’s so hard to get into God’s kingdom. 25It’s easier for a camel to go through a needle’s eye than for a rich man to get in God’s kingdom.”
+
+26The ones that were listening 26were surprised even more, and said to one another, “So who can be saved?”
+
+27Jesus looked at them and said, “It’s not possible with people, but it is with God. Everything’s possible with him.”
+
+28Peter spoke up, “We’ve left everything to follow you.”
+
+He said to them,
+
+28“In the next world when the Son of Man sits on his glorious throne, you that have followed me will sit on twelve thrones and judge the twelve tribes of Israel. 29Everybody that has left behind a home, a wife, brothers, sisters, parents, children, or fields for my sake and God’s kingdom, will receive houses, brothers, sisters, mothers, children, and fields a hundred times over with persecution in this time and eternal life in the age to come. Many last will be first; and first, last.”
+
+Parable of Laborers in a Vineyard (Mt 20:1-16)
+
+20:1“The kingdom of heaven is like a landowner that went out early to hire workers for his vineyard. 2He agreed to pay them a denarius for the day, and sent them to his vineyard. 3About nine o’clock he went out and saw some other men standing idle in the market place, 4‘You go to my vineyard too, and I’ll pay you what’s right.’ 5At noon and one o’clock, he did the same thing. 6About five o’clock he found some more standing around, ‘Why are you standing here idle all day?’
+
+7“‘Nobody’s hired us.’
+
+“‘You go to my vineyard too.’
+
+8“That evening, he told his foreman, ‘Call the workers and pay them from last to first.’ 9When the five o’clock men came, they got a denarius apiece. 10When the first men came, they thought they’d get more; but they got a denarius too. 11They complained, 12’These last hires worked an hour, and you made them equal to us who bore the burden and scorching heat of the day.’
+
+13“The landowner answered one of them, ‘Friend, I’ve been fair with you. Didn’t you agree to a denarius? 14Take what’s yours and go. I want to pay this last fellow what I paid you. 15Can’t I do what I want to with what’s mine? Are you jealous because I’m generous?’ 16 In this way, the last will be first; and the first, last.”
+
+Another Prediction of His Death
+
+(Mt 20:17-19; Mk 10:32-34; Lk 18:31-34)
+
+32On the way up to Jerusalem, Jesus was ahead of them. They were wondering what was going to happen, and the ones following were afraid. He took the twelve disciples aside again and explained to them what was about to happen: 31“We’re going to Jerusalem to accomplish everything the prophets wrote about the Son of Man. 19He’ll be betrayed to the chief priests and scribes, and they’ll condemn him to death. They’ll turn him over to the Gentiles. They’ll make fun of him, spit on him, and abuse him. 33When they’ve flogged him, they’ll crucify him. Three days later he’ll resurrect.”
+
+34They didn’t understand any of this; it was hidden from them; they couldn’t make sense of it.
+
+James and John’s Request for Rank
+
+(Mt 20:20-28; Mk 10:35-45)
+
+20Then the mother of the sons of Zebedee came with her sons, bowed down, and asked him for something.
+
+21“What do you want?”
+
+“Say that my two sons will sit on your right and left hand in your kingdom.”
+
+22Jesus answered, “Youpl don’t know what you’re asking. Can you drink the cup that I’m about to drink, or be baptized with the baptism I’m baptized with?”
+
+“Yes.”
+
+23“You’ll drink my cup, and be baptized with the baptism I’m baptized with. But I don’t decide who sits on my right and left hand. They’re the ones my Father prepared it for.”
+
+24When the ten heard it, they were indignant over what James and John had done.
+
+25Jesus called them over to him,
+
+“You know the rulers of the Gentiles lord it over them, and the great ones act like tyrants toward them. 26It’s not that way with you. Whoever wants to be great among you will be your servant, 27and whoever wants to be first among you will be your slave—28just like the Son of Man didn’t come to be served but to serve, and to give his life as a ransom for many.”
+
+Healing Two Blind Men at Jericho
+
+(Mt 20:29-34; Mk 10:46-52; Lk 18:35-43)
+
+46They came to Jericho. As he, his disciples, and a sizable crowd were leaving the city, Bartimaeus [“son of Timaeus”], a beggar, and another blind man were sitting by the road, begging. When they heard a crowd go by, they asked what was going on. People told them Jesus the Nazarene was going by.
+
+They yelled out, “Jesus, have mercy on us, Lord, son of David.”
+
+The people out in front 31sternly told them to be quiet, but they yelled louder, “Have mercy on us, Lord, son of David.”
+
+Jesus heard them and 49 stopped, and said, “Call them over here.”
+
+They called the blind men, “It’s okay; get up; he’s calling you.”
+
+Bartimaeus 50threw his cloak aside and jumped up, and they came to Jesus.
+
+“When they got there, Jesus asked them, 32“What do youpl want me to do for you?”
+
+33“Lord, make us able to see again.”
+
+34Jesus was sympathetic and touched their eyelids, “Receive your sight.” Immediately they could see again. “Go, your faith has made you able to see again.”
+
+They went with him on the road, 43glorifying God. When the people saw it, they praised God.
+
+Jesus and Zacchaeus (Lk 19:1-10)
+
+19:1He was passing through Jericho. 2A rich tax collector named Zacchaeus 3wanted to see who Jesus was, but he couldn’t because of the crowd; he was too short. 4So he ran ahead and climbed up in a sycamore tree, because Jesus was heading that way. 5When Jesus got to the spot, he looked up, “Zacchaeus, hurry and climb down. I need to stay at your house today.” 6He hurried and climbed down and welcomed him happily.
+
+7When people saw it, they started grumbling, “He’s going in to be a guest with a sinner.”
+
+8Zacchaeus stopped and said to the Lord, “Half of what I own, sir, I’m going to give to the poor. If I’ve cheated anybody on anything, I’ll repay it four times over.”
+
+9Jesus said in regard to him, “Salvation has come to this house today, because he’s a son of Abraham too. 10The Son of Man came to seek and save sinners.”
+
+Parable of the Pounds (Lk 19:11-29)
+
+11While he had their attention, he went on to tell a parable, because he was close to Jerusalem, and they were supposing God’s kingdom would appear right away.
+
+12“A nobleman went to a distant country to receive a kingdom and come back. 13He called ten servants and passed out ten minas, ‘Do business with these till I get back.’
+
+14“His citizens hated him and sent a delegation after him, ‘We don’t want this man to rule us.’ 15When he got back from receiving the kingdom, he had the servants called that he gave the silver to, so he could find out what business they’d conducted.
+
+16“The first came up, ‘Sir, your mina has made ten more.’
+
+17“‘You did well, good servant. Since you’ve been reliable in a small matter, take responsibility for ten cities.’
+
+18“The second came, ‘Sir, your mina has made five minas.’
+
+19“‘Be over five cities.’
+
+20“Another servant came, ‘Sir, here’s your mina that I’ve kept in a handkerchief. 21I was afraid of you, because you’re an exacting man. You pick up what you didn’t lay down and reap what you didn’t sow.’
+
+22“‘I’ll judge you out of your own mouth, you worthless servant. You knew, did you, that I’m an exacting man, picking up what I didn’t lay down and reaping what I didn’t sow? 23Why didn’t you put my silver in the bank? When I got back, I would’ve collected it plus interest.’
+
+24“He said to the bystanders, ‘Take the mina away from him and give it to the one that has ten.’
+
+25“‘Sir, he has ten.’
+
+26“‘I’m telling you, everybody that has will be given, and the one that doesn’t have will lose even what he does have. 27But, bring these enemies that didn’t want me to rule them and put them to death in front of me.’”
+
+28After he said this, he took the lead on the way up to Jerusalem.
+
+Jesus’ Arrival in Bethany (Jn 11:55-12:1. 9-11)
+
+55Now the Jews’ Passover was coming up, and people from around Ephraim went up to Jerusalem to purify themselves ceremonially. 56They were looking for Jesus and saying to one another in the temple, “What do you think? Surely he won’t come to the festival.” 57The chief priests and the Pharisees had passed laws that if anybody knew where he was, he should report it so they could arrest him.
+
+12:1Six days before the Passover Jesus arrived at Bethany, where Lazarus lived that Jesus had raised from the dead.
+
+9A great crowd of the Jews learned that Jesus was there. They didn’t come just because of him, but to see Lazarus. 10The chief priests planned to kill Lazarus too, because many Jews were going away 11and believing in Jesus because of him.
+
+The Anointing by Mary
+
+(Mt 26:6-13; Mk 14:3-9; Jn 12:1b-8)
+
+Jesus arrived at Bethany. 2They made him a meal there in the house of Simon the leper. Martha was waiting on Jesus, and Lazarus was reclining at table with him. 3Mary took twelve ounces of ointment in an alabaster cruise—pure nard, very expensive—broke open the cruise and poured the ointment on Jesus’ head and feet while he was reclining at table, and started wiping his feet with her hair. The scent from the ointment filled the whole house.
+
+The disciples were indignant when they saw it, and said to one another, “What’s the point of such waste?” 4Judas Iscariot, one of Jesus’ disciples—the one that was going to betray him—said, 5“Why didn’t she sell this ointment for three hundred denarii and give it to the poor?” (6He didn’t say this because he cared about the poor, but because he was a thief. He took care of the money pouch, and had been stealing from it.) They started fussing at her.
+
+7Jesus said, “Why are you fussing at her? She has done me a good turn. 8She did what she could: let her be putting this ointment on my body beforehand to prepare me for burial. 8You always have poor people around you; you can do something good them whenever you want to. You don’t always have me. 9Wherever you preach the gospel in the whole world, tell what she did in memory of her.”
+
+The Triumphal Entry
+
+(Mt 21:1-11; Mk 11:1-11; Lk 19:29-44; Jn 12:12-19)
+
+The next day 11:1when they got close to Jerusalem—to Bethphage and Bethany, on the Mount of Olives, he sent two disciples, 2“Go in the village over there. Just inside, you’ll find a donkey tied and a colt with her that nobody has ridden. Untie them and bring them here. 3 If anybody says, ‘Why are you doing this?’ say, ‘The Lord needs them,’ and he’ll send them here right away.”
+
+4This fulfilled what the prophet said,
+
+5“SAY TO THE DAUGHTER OF ZION,
+
+‘Don’t be afraid, daughter of Zion;
+
+Look! YOUR KING’S COMING,
+
+HUMBLE AND RIDING ON A DONKEY—
+
+THE COLT OF A DONKEY’” [Zech 9:9].
+
+4They went and found the donkey and the colt tied at the gate outside by the road like he said, and untied them. 33As they were untying them, their owners, 5standing there, said, “What are you doing, untying them?”
+
+34“The Lord needs them.” They let them take them.
+
+35They brought them to Jesus and laid their cloaks over the colt and put Jesus on it. 36As he went along, many started spreading their cloaks on the road. 12The huge crowd that attended the festival heard Jesus was coming into Jerusalem, 13and took fronds from the palm trees and went out to meet him. 9Others brought leafy branches cut out of the fields and spread them on the road.
+
+37As he came near the descent from the Mount of Olives, the whole crowd of disciples ahead and behind began to celebrate. They were loudly praising God for all the miracles they’d seen,
+
+9“HOSANNA to the son of David!
+
+BLESSED IS THE king THAT’S COMING IN THE NAME OF THE LORD [Ps 118:25-26].
+
+10Blessed is the coming kingdom of our ancestor David.
+
+HOSANNA in the highest!”
+
+(16His disciples didn’t understand what was happening at the time; but when Jesus was glorified, they remembered that the scriptures said these things about him and that people had done these things to him.)
+
+39Some Pharisees from the crowd said, “Rabbi, rebuke your disciples.”
+
+40He answered, “If these go silent, the rocks will shout.”
+
+41As he came near and saw the city, he cried over it, 42“If you, yes you, only knew today what’s in store for your peace . . ; but you can’t see it. 43The time’s coming when your enemies will throw up a siege wall around you and box you in from every direction. 44They’ll level you to the ground and your inhabitants along with you. They won’t leave one stone on another, because you didn’t know when it was coming.”
+
+17The crowd that was with him when he called Lazarus out of the tomb and raised him from the dead, was telling about it. 18That’s the reason as well that the crowd met him: they heard he’d done this sign. 19The Pharisees said to each other, “See how you don’t get anywhere. The world has gone after him!”
+
+10When he came in Jerusalem, the whole city was stirred up, “Who is this?”
+
+11The crowd said, “The prophet Jesus from Nazareth in Galilee.”
+
+11He went in the temple and looked around at everything. It was already evening, and he went out to Bethany with the twelve.
+
+Cursing the Fig Tree;
+
+Second Cleansing of the Temple
+
+(Mt 21:18-19, 12-17; Mk 11:12-19; Lk 19:45-48)
+
+12The next day, after they left Bethany, he was hungry. 13From a distance he saw one fig tree leafed out beside the road. He went over to it to see if he could find anything on it. He didn’t find anything on it but leaves—because it wasn’t the season for figs yet. 14He said to it, “May nobody ever eat fruit from you again.” His disciples heard it. Immediately the tree started shriveling up.
+
+15They went into Jerusalem. In the temple, he began to put the buyers and sellers out. He turned over the tables of the moneychangers and the chairs of the ones that sold doves. 16He wouldn’t let anybody take a container through the temple. 17He began to teach, “Doesn’t scripture say, ‘CALL MY HOUSE A HOUSE OF PRAYER FOR ALL THE NATIONS’? [Is 56:7] You’ve made it a den of thieves!”
+
+18The chief priests and the scribes heard about it, and kept looking for a way to destroy him. They were afraid of him, and the crowd was astonished at his teaching.
+
+14Blind and lame people came to him in the temple, and he healed them. 15But when the chief priests and the scribes saw the amazing things he was doing and the children shouting in the temple, “Hosanna to the son of David!” they were indignant.
+
+16They said, “Do you hear what they’re saying?”
+
+“Yes. Haven’t you ever read, ‘OUT OF THE MOUTH OF INFANTS AND NURSING BABIES YOU’VE PREPARED YOURSELF PERFECT PRAISE’?” [Ps 8:3 LXX]
+
+47Every day he taught in the temple, and the chief priests, scribes, and elders of the people kept looking for a way to destroy him. 48They couldn’t find a way to do it, because the people were listening to him eagerly.
+
+In the evening he went out of the city to Bethany and spent the night.
+
+Discussing the Shriveled Fig Tree
+
+(Mt 21:20-22; Mk 11:19-25; Lk 21:37-38)
+
+37Jesus was spending the days teaching in the temple, and spending the nights on the hill called Olivet. 38The people would come early to hear him.
+
+20As they passed by in the morning, they saw the fig tree completely shriveled up. The disciples were amazed. 21Peter remembered, “Rabbi, the fig tree you cursed has shriveled up. How did it shrivel up so fast?”
+
+21Jesus answered, “Put faith in God. If you have faith—and don’t doubt—not only will you do what happened to this fig tree; even if you say to this mountain, ‘Be picked up and thrown in the sea,’ it’ll happen. So, 22whatever you ask for in prayer you’ll receive if you believe. 25When you stand praying, if you have anything against anybody, forgive him so your Father in heaven will forgive you.
+
+Jesus’ Authority Challenged
+
+(Mt 21:23-27; Mk 11:27-33; Lk 20:1-8)
+
+27They went into Jerusalem again. He was walking in the temple 1and teaching the people and announcing the good news. The chief priests, Pharisees, scribes, and elders of the people confronted him, 2“Tell us what right you have to do these things. Who gave you that right?”
+
+3“I’ll ask you something too. 29Answer me, and I’ll tell you what right I have to do these things. 4Was John’s baptism from heaven or men? Answer me that.”
+
+5They talked it over with one another: 6“If we say, ‘From heaven,’ he’ll say, ‘Why didn’t you believe him?’ If we say, ‘From men,’ the people will stone us; they’re convinced John was a prophet.” 7They said, 33“We don’t know.”
+
+Jesus said, “I won’t tell you either what right I have to do this.”
+
+Parable of the Two Sons
+
+(Mt 21:28-32; Mk 12:1a)
+
+12:1He started telling them parables.
+
+28“What do you think? A man had two sons. He went to the first, ‘Go work in the vineyard today.’
+
+29“‘I don’t want to,’ but later he regretted it and went.
+
+30“He went to the other son, and said the same thing.
+
+“‘I’ll go,’ but didn’t.
+
+31“Which one did the father’s will?”
+
+They said, “The first.”
+
+Jesus said,
+
+“The tax collectors and prostitutes are going into God’s kingdom before you are. 32John came commanding you to live right, and you didn’t believe him; but tax collectors and prostitutes did. But you, when you saw that, didn’t even regret it later and believe him.
+
+Parable of the Vineyard
+
+(Mt 21:33-46; Mk 12:1b-12; Lk 20:9-19)
+
+33“Listen to another parable. A landowner planted a vineyard, put a wall around it, dug a wine press with a trough under it, built a tower, rented it out to tenants, and went on an extended trip. 34When it came time for the fruit, 2he sent a servant to the tenants to receive the fruit of the vineyard. 3They took him and beat him up, and sent him away empty-handed. 4He sent another servant, and they beat him over the head and abused him, and sent him away with nothing. He sent a third. They wounded him, threw him out, and killed him. 5He sent many others. They beat up some of them and killed others. ‘What am I going to do?’
+
+“Finally, he still had one, beloved Son. He sent him to them last, ‘Maybe they’ll respect my son.’ 38But when they saw him, they discussed among themselves, ‘This is the heir. Come on, let’s kill him so the vineyard will belong to us.’ 39They took him and threw him out of the vineyard and killed him. 40When the owner comes, what will he do to those tenants?”
+
+41They said, “He’ll miserably destroy those evil men, and rent out the vineyard to other tenants that will pay him the fruit in its season.”
+
+17Jesus looked at them and said, “What then is it that the scripture says,
+
+42THE STONE THE BUILDERS REJECTED
+
+HAS BECOME THE CORNERSTONE.
+
+THIS HAS COME FROM THE LORD;
+
+ISN’T IT AMAZING TO US?’” [Ps 118:22-23]
+
+18Everybody that falls on that rock will get bruised. Whoever it falls on will get crushed. So, God will take the kingdom away from you, and give it to a nation that will produce its fruit.”
+
+16The listeners said, “Surely not.”
+
+45When the chief priests, scribes, and Pharisees heard his parables, they knew he aimed the parables at them. 46They were trying to find a way to seize him and arrest him right then; but they were scared to, because the people considered him a prophet; so they left.
+
+Parable of the Wedding Garment (Mt 22:1-14)
+
+22:1Jesus spoke to them again in parables.
+
+2“The kingdom of heaven is like a king that prepared a wedding banquet for his son. 3He sent servants to call the people that were invited, but they didn’t want to come. 4He sent some other servants, ‘Tell the ones that were invited, “I’ve prepared my banquet, I butchered my oxen and grain-fed calves, everything’s ready. Come to the banquet.”’ 5But they didn’t pay any attention, and went on with their affairs, one to his field, another to his business. 6The rest grabbed his servants, treated them disgracefully, and killed them.
+
+7“The king was angry and sent troops to destroy those murderers and burn their town. 8Then he said to his servants, ‘The wedding banquet is ready, but the people that were invited didn’t deserve it. 9So, go to the main roads and invite everybody you find.’ 10They went out in the roads and gathered everybody they found, good and bad, and the wedding banquet was filled with guests.
+
+11“The king went in to inspect the guests, and saw a man that wasn’t dressed for a wedding. 12He said, ‘Friend, how’d you get in here without being dressed for a wedding?’ He was speechless. 13The king told the attendants, ‘Tie him up hand and foot, and throw him out in the dark. There’ll be bitter crying and gnashing of teeth out there. 14Many are called, but few are chosen.”
+
+Question About Tribute to Caesar
+
+(Mt 22:15-22; Mk 12:13-17; Lk 20:20-26)
+
+15The Pharisees plotted how to trap Jesus in what he said. 20That way they could turn him over to the ruling authority of the governor.
+
+16They sent their disciples with the Herodians, saying, “Rabbi, we know you’re straightforward and tell the truth. You don’t defer to anybody, but teach the way of God correctly without respect of persons. 17So tell us what you think: Is it lawful to pay tribute to Caesar or not?”
+
+He saw through their deception, 18“Why are you testing me, you hypocrites? 19Show me the coin for paying the tribute.” They brought him a denarius to look at.  20“Whose image and inscription is this?”
+
+“Caesar’s.”
+
+“Pay Caesar what you owe Caesar, and pay God what you owe God.”
+
+26They couldn’t make something out of his words in front of the people. They were dumbfounded at his answer, and didn’t say anything and left.
+
+The Question About Resurrection
+
+(Mt 22:23-33; Mk 12:18-27; Lk 20:27-40)
+
+23That day some Sadducees—who say there’s no resurrection—approached him,
+
+24“Rabbi, Moses wrote to us,
+
+‘IF A MAN DIES WITHOUT CHILDREN, HIS BROTHER IS TO MARRY HIS WIFE AND RAISE UP DESCENDANTS FOR HIS BROTHER’ [Deut 25:5; Gen 38:8].
+
+25“There were seven brothers with us, and the first died. Since he had no children, he left his wife to his brother. 30The second and 31third through the seventh married her and died, and didn’t leave any children. 27Last of all, the woman died. 28So, whose wife will she be in the resurrection? 33They all had her as a wife.”
+
+29Jesus answered them,
+
+“You’re mistaken, because you don’t know the scriptures or God’s power. 34People in this age get married. 35The ones considered worthy of receiving that age and the resurrection of the dead don’t get married. They’re like the angels in heaven. 36They can’t die anymore either, because they’re like angels. They’re like God and participate in the resurrection.
+
+31“Now as to the resurrection of the dead, haven’t you read in the book of Moses in the bush passage how God spoke to him: 32‘I’M ABRAHAM, ISAAC, AND JACOB’S GOD’? [Ex 3:6, 15, 16] God’s not a God of the dead, but of the living, because everybody lives to him. You’re greatly mistaken.”
+
+33When the crowd heard it, they were astonished at his teaching.
+
+Question About the Most
+
+Important Commandment
+
+(Mt 22:34-40; Mk 12:28-34)
+
+34When the Pharisees heard he’d silenced the Sadducees, they gathered around him. One scribe, 35[a lawyer,]ms asked, testing him, 36“Rabbi, which is the most important commandment in the law?”
+
+37LLISTEN, ISRAEL, THE LORD YOUR GOD IS LORD ALONE.” “‘LOVE THE LORD YOUR GOD WITH ALL YOUR HEART, SOUL, strength and MIND’ [Deut 6:5]. 38That’s the most important commandment. 39The second is like it, ‘LOVE YOUR NEIGHBOR AS YOURSELF’ [Lev 19:18]. 40The whole law and the prophets hang on those two commandments. There’s no commandment more important than those.”
+
+32The scribe said,
+
+“Well put, Rabbi. You’re right that HE IS THE ONLY ONE; ‘THERE IS NO OTHER GOD BESIDES HIM’ [Deut 4:35; Is 45:21]. 33‘LOVING HIM WITH ALL YOUR HEART, MIND’ [Deut 6:5; Josh 22:5], and strength; and ‘LOVING YOUR NEIGHBOR AS YOURSELF’ [Lev 19:18] is more than all burnt offerings and sacrifices.”
+
+34Jesus saw he made a sensible comment, “You’re not far from God’s kingdom.”
+
+Nobody dared ask him any more questions.
+
+Question About the Son of David
+
+(Mt 22:41-46; Mk 12:35-37; Lk 20:41-44)
+
+After he answered these questions, 41while the Pharisees were together, Jesus asked them as he was teaching in the temple, 42“What do you think about the Messiah? Whose son is he?”
+
+“David’s.”
+
+43“How then in the Book of Psalms does David himself by inspiration of the Holy Spirit call him ‘Lord’:
+
+44‘THE LORD SAID TO MY LORD,
+
+“SIT ON MY RIGHT HAND
+
+TILL I MAKE YOUR ENEMIES YOUR FOOTSTOOL”’?” [Ps 110:1]
+
+45If David calls him ‘Lord,’ how can he be his son?” 46Nobody could answer him, and nobody dared ask him any more questions from that day on. The huge crowd loved it.
+
+Denunciation of the Pharisees
+
+(Mt 23:1-39; Mk 12:38-40; Lk 20:45-47)
+
+Right in front of everybody, he told the crowd and his disciples,
+
+2“The scribes and Pharisees sit on Moses’ seat. 3So do what they tell you, but don’t be like them; they say and don’t do. 4They strap heavy burdens on people’s shoulders, but they won’t move them with one of their fingers. Watch out for them. 5They do everything for show. They like to walk around in wide phylacteries and long robes with long tassels. 6They like places of honor at banquets, prominent seats in synagogues, 7greetings in marketplaces, and people calling them ‘Rabbi.’ 8Don’t you be called ‘Rabbi.’ You have one Rabbi; you’re all brothers. 9Don’t call anybody on earth your father. You have one Father, the One in heaven. 10Don’t be called leaders. You have one Leader, the Messiah. 11The greatest among you will be your servant. 12Whoever exalts himself will be humbled, and whoever humbles himself will be exalted.
+
+47“They eat up widows’ houses, and offer long prayers for show. They’ll get a more severe condemnation.
+
+13“Woe to you, scribes and Pharisees, hypocrites! You lock up the kingdom of heaven in front of people.  You don’t go in yourselves, or let them go in that are trying to. [14]ms
+
+15“Woe to you, scribes and Pharisees, hypocrites! You travel all over land and sea to make one proselyte. When he becomes one, you make him more destined for hell than you are.
+
+16“Woe to you, blind guides that say, ‘Whoever swears by the sanctuary hasn’t taken a binding oath, but whoever swears by the gold of the sanctuary has taken a binding oath.’ 17Blind fools! Which is more basic, the gold or the sanctuary that sanctifies it?
+
+18“Whoever swears by the altar hasn’t taken a binding oath, but whoever swears by the gift on the altar has taken a binding oath.’ 19You blind people! Which is more basic, the gift or the altar that sanctifies it? 20So whoever swears by the altar swears by it and everything on it. 21Whoever swears by the sanctuary swears by it and the One that lives there. 22Whoever swears by heaven swears by God’s throne and the One that sits on it.
+
+23“Woe to you, scribes and Pharisees, hypocrites! You tithe mint, dill, and cumin; and neglect the more important things in the law: justice, mercy, faith. You should’ve done these and not neglected those. 24Blind guides that strain out the gnat and swallow the camel!
+
+25“Woe to you, scribes and Pharisees, hypocrites! You clean the outside of the cup and plate, but inside they are full of greed and self-indulgence. 26Blind Pharisees! Clean the inside of the cup first so the outside becomes clean too.
+
+27“Woe to you, scribes and Pharisees, hypocrites! You’re like whitewashed tombs that look beautiful on the outside, but inside they’re full of filth and dead men’s bones. 28You look good on the outside, but inside you’re full of hypocrisy and lawlessness.
+
+29“Woe to you, scribes and Pharisees, hypocrites! You build the tombs of prophets and decorate the graves of good people. 30You say, ‘If we’d lived when our ancestors did, we wouldn’t have joined them in shedding the prophets’ blood. 31You testify against yourselves because you’re like the ones that murdered the prophets. 32Fill up then the measure of your ancestors. 33You snakes! You nest of vipers! How will you escape condemnation in hell? 34For this reason I’ll send you prophets, wise men, and scribes. Some you’ll kill and crucify; some you’ll flog in your synagogues and persecute from city to city. 35So on you will come all the innocent blood shed from Abel to Zechariah, son of Berechiah, the one you murdered between the sanctuary and the altar. 36I’m telling you, it will all come down on this generation!
+
+37“Jerusalem! Jerusalem! that kills prophets and stones the ones I send you! How many times I’ve wanted to gather your people together the way a hen gathers her chicks under her wings, but you didn’t want to! 38I leave your house to you deserted. 39You won’t see me again till you say, ‘BLESSED IS THE ONE THAT’S COMING IN THE NAME OF THE LORD’” [Ps 118:26].
+
+The Widow’s Mite
+
+(Mk 12:41-44; Lk 21:1-4)
+
+41He sat down across from the Treasury and watched people from the crowd put copper coins in the Treasury. Many rich people put in large amounts. He saw 42a poor widow come and put in two leptons, which equal a quadrans. 43He called his disciples over, “This poor widow put in more than anybody. 44They donated out of their abundance, but she donated out of her poverty—everything she had to live on.”
+
+Sermon on the Significance of Life and Death (Jn 12:20-50)
+
+20Some that went up to worship at the festival were Greeks. 21They came to Philip, who was from Bethsaida in Galilee, “Sir, we’d like to see Jesus.”
+
+22Philip went and spoke to Andrew, and the two of them spoke to Jesus.
+
+23Jesus answered them,
+
+“It’s time to honor the Son of Man. 24Unless a grain of wheat falls to the ground and dies, it’s all there is. But if it dies, it yields a lot of grain. 25Whoever loves his life will lose it, and whoever looks on past his life in the world will keep it for eternal life. 26If anybody serves me, he needs to follow me, and he’ll be where I am. If anybody serves me, the Father will honor him.
+
+27“I’m torn now: Will I say, ‘Father, save me from this hour’? But this
+
+is why I came to this hour. 28Father, honor your name.”
+
+A voice came out of the sky, “I’ve honored it, and I’ll honor it again.”
+
+29The crowd standing there heard it and said it had thundered.
+
+Others said, “An angel spoke to him.”
+
+30Jesus responded, “That voice didn’t come so much for my sake as yours. 31Now is the judgment of this world; now the ruler of this world will be thrown out. 32If I’m lifted up from the ground, I’ll draw everybody to me.” (33He said this to indicate how he would die.)
+
+34The crowd responded, “We’ve heard out of the law that Messiah is forever. How do you say the Son of Man has to be lifted up? Who is this ‘Son of Man’?”
+
+35Jesus said, “The light’s still among you for a little while. Walk while you have it so darkness doesn’t overtake you. A person that’s walking in the dark can’t tell where he’s going. 36While you have light, believe in it so it will enlighten you.” Jesus said all that, and went away and hid.
+
+37Despite doing so many signs in front of them, they were not believing in him—38as in the words of Isaiah the prophet,
+
+“LORD, WHO HAS BELIEVED OUR REPORT, AND
+
+WHO HAS THE ARM OF THE LORD BEEN REVEALED TO?” [Is 53:1]
+
+39Here’s the reason they couldn’t believe: Isaiah said again,
+
+40“HE BLINDED THEIR EYES, AND
+
+HARDENED THEIR HEART,
+
+SO THEY COULDN’T SEE WITH THEIR EYES, AND
+
+UNDERSTAND WITH THEIR HEART, AND
+
+BE CONVERTED, AND
+
+I WOULD HEAL THEM” [Is 6:10].
+
+41Isaiah said this because he saw Messiah’s glory and talked about him. 42Nevertheless a number even of the rulers did believe in him, but because of the Pharisees they didn’t admit it, and get excommunicated from membership in the synagogue. 43They loved honor from men more than honor from God.
+
+44Jesus shouted,
+
+“Whoever believes in me doesn’t just believe in me, but in the One that sent me. 45Whoever sees me sees the One that sent me. 46I’ve come to the world as a light so nobody that believes in me will be in the dark. 47I don’t condemn anybody for not keeping what he hears me say. I didn’t come to condemn the world, but to save it. 48Whoever rejects me has something that does condemn him in the end: the message I’m delivering. 49I haven’t spoken on my own. The Father has told me what to say. 50I know what he says leads to eternal life; so I say what he told me to say.”
+
+The Olivet Discourse
+
+(Mt [10:17-22a] 24:1-51; Mk 13:1-36; Lk 21:5-36)
+
+24:1Jesus was leaving the temple when his disciples came to show him the buildings of the temple complex. One disciple said, “Rabbi, look at the wonderful buildings that are decorated with beautiful stones and memorial gifts.”
+
+He said, 2“See these things? The time’s coming when these great buildings will not be left here one stone on another.”
+
+When he was sitting on the Mount of Olives across from the temple, Peter, James, John, and Andrew asked him privately, “Rabbi, tell us when this will happen, and what will show that it’s about to happen? 3What will be the sign that you’re coming and the end of the age.”
+
+Jesus told them,
+
+4“Make sure nobody deceives you. 5Many will come, saying, ‘I’m the Messiah,’ and, 8‘The time has come,’ and they’ll deceive lots of people. Don’t follow them.
+
+7“When you hear about wars and reports about wars and rebellions, don’t panic. They need to happen, but that’s not the end yet. 8Nation will attack nation and kingdom will attack kingdom. There’ll be famines and violent earthquakes in various places, 11and plagues, dreadful events, and great signs from the sky.
+
+9“Be on guard yourselves. They’re the beginning of labor pains. Before all this, they’ll persecute you and arrest you. They’ll make trouble for you; they’ll flog you in the synagogues, and deliver you up to the courts and prisons. 16Friends, relatives, and parents will betray you, and put some of you to death. Nations will hate you. You’ll stand in front of governors and kings to testify to them and the nations. 13Those times will provide opportunities for you to testify. 10The good news needs to reach all the countries first.
+
+11“When they arrest you and deliver you up, be determined not to prepare your defense ahead of time. Don’t worry about how or what you’ll say. I’ll give you what to say at the time and wisdom that none of your opponents can argue with. You’ll not be the ones speaking; it’ll be the Holy Spirit of your Father speaking in you. Not a hair of your head will perish.
+
+10“Many will fall away and betray one another and hate one another. 12Brother will betray brother to death, and father will betray child. Children will rise up against parents and have them put to death. 11“Many false prophets will arise and deceive people. 12Since lawlessness will increase, many people’s love will grow cold. 13But, the one that endures to the end will be saved. 19You’ll gain your life by enduring.
+
+20“When you see Jerusalem being surrounded by armies and 15‘the abomination of desolation,’ spoken of by Daniel the prophet, standing in the holy place, positioned where it shouldn’t be [reader, understand], 16people in Judaea need to flee to the hill country. 21People in the city need to leave; the ones in the countryside must not go in the city. 22This is a time of revenge to fulfill the scriptures. 24This people will fall by the sword and be taken captive into the nations. Gentiles will trample Jerusalem underfoot until the times of the Gentiles are over.
+
+17“Whoever’s on the housetop must not go down to pick up things from his house. 18Whoever’s in the field must not go back to get his cloak. 19Woe to the ones that are pregnant and nursing babies then! 20Pray that your flight won’t happen in winter or on the Sabbath. Great distress will come on the land and wrath on this people. 21That time will be the worst ever—from the beginning of God’s creation till now or will ever be. 29If the Lord hadn’t shortened it, nobody would have survived. But, because of the chosen ones, he has shortened it.
+
+23“Be on guard. I’ve told you all this ahead of time.
+
+“As I said before, 23then if anybody says, ‘Here’s the Messiah,’ or, ‘There’s the Messiah,’ don’t believe it. 24False messiahs and false prophets will arise and give great signs and wonders that could deceive, if possible, even the chosen ones. [25] 26If people tell you, ‘He’s in the desert,’ don’t go out. ‘He’s in private quarters,’ don’t believe it. 27As lightning flashes from the east to the west, that’s the way the actual coming of the Son of Man will be. 28Where the carcass is, the buzzards will gather.
+
+29“Immediately after that tribulation, 25there’ll be signs in the sun, moon, and stars:
+
+the sun will grow dark,
+
+the moon won’t shine,
+
+stars will fall, and
+
+the powers of the heavens will be shaken.
+
+30Then the sign of the Son of Man will appear in the sky. 25There’ll be distress among the nations, in despair at the roaring of the sea. 30All the tribes on earth will mourn. 26People will faint from fear and foreboding over what’s coming on the world. 27People will see ‘THE SON OF MAN COMING ON A CLOUD [Dan 7:13] with great power and glory.
+
+28“When these things start to happen, look up; your deliverance is on its way. 27He’ll send out his angels to gather the chosen ones from every direction, from the end of the earth to the end of the sky.
+
+28“Take a lesson from a fig tree or any tree. As soon as its branches become tender and sprout leaves, you see it for yourselves and know summer’s coming. 29The same way, when you see these things happening, you know God’s kingdom is near—at the door. 30They’ll take place in this generation. Earth and sky will pass away, but what I say won’t pass away.
+
+36“But nobody knows about that day and hour, not the angels in heaven, not the Son of Man, only the Father. 37As it was in Noah’s day, it will be when the Son of Man comes. 38In the time before the flood, people were eating and getting married till Noah went in the ark. 39They didn’t realize what was going to happen till the flood came and carried them all away.
+
+“That’s the way the coming of the Son of Man will be. 40Two men will be in the field; one will be taken and the other left. 41Two women will be grinding at the mill; one will be taken and the other left.
+
+34“Be on guard so pleasures, drunkenness, and the cares of life don’t make you insensitive, and that day comes on you unexpectedly 35like a trap. It’ll come on everybody on earth. 36Stay alert all the time. Pray so you’ll be strong enough to get away from everything that’s coming, and to stand in front of the Son of Man.
+
+34“Be like a man that’s leaving on a trip, and gives each servant the authority to do his job, and commands the doorkeeper to be alert. 35Watch, because you don’t know when the lord of the house will come back—in the evening, at midnight, at rooster crowing, or in the morning; 36so if he comes suddenly, he won’t catch you sleeping.
+
+43“Do know this: if the homeowner had known in what watch the thief would come, he would’ve been on the alert and wouldn’t have let him ransack his house. 44So you be ready too; the Son of Man will come when you least expect it.
+
+“45Who then is the smart and faithful servant that his master has put in charge of feeding his household on time? 46Blessed is the servant whose master finds him doing that when he comes. 47He’ll put him in charge of everything he owns. 48But if an evil servant says to himself, ‘My master won’t be coming for a long time’; 49and he starts abusing his fellow servants and eating and getting drunk with drunkards, 50his master will come on a day he doesn’t expect, at a time he doesn’t know, 51and he’ll severely punish him and assign him a place with hypocrites. There’ll be bitter crying and gnashing of teeth there.
+
+37“What I’m saying I’m saying to all of you. Watch!
+
+The Parable of the Ten Virgins (Mt 25:1-13)
+
+25:1“The kingdom of heaven at that time will be like ten virgins that took their lamps to meet the groom. 2Five were foolish, and five were wise. 3When the foolish took their lamps, they didn’t take any oil along. 4The wise took along some oil in flasks with their lamps. 5The groom was slow coming, and they all got drowsy and went to sleep. 6At midnight the shout came, ‘The groom! Come out to meet him!’ 7Then those virgins got up and trimmed their lamps.
+
+8“The foolish said to the wise, ‘Give us some of your oil; our lamps are going out.’
+
+9“The wise said, ‘No, there won’t be enough for us all. Go to the dealers and get your own.’ 10While they were gone, the groom arrived. The ones that were ready went in with him to the wedding feast, and the door was locked. 11Later, the rest of the virgins came, ‘Lord, lord, open the door.’ 12But he answered, ‘I don’t know you.’ 13So, be alert, because you don’t know the day or the hour.”
+
+The Parable of the Talents (Mt 25:14-30)
+
+14“The kingdom of heaven is like a man about to leave on a trip. He called his servants and entrusted them with things he owned. 15He gave five talents to one, two talents to another, and one talent to another—according to their abilities. 16At once the one that received five talents traded with them and earned five more. 17The one that received two talents did the same thing and earned two more. 18But the servant that received one talent dug a hole in the ground and hid his lord’s talent.
+
+19“After a long time the lord came back and settled accounts with them. 20The one that had received five talents came with five more, “Lord, you entrusted me with five talents; I’ve earned five more.’
+
+21“‘Well done, good, dependable servant. You were dependable in a few things; I’ll put you in charge of many. Enter your master’s joy.’
+
+22“The one that had received two talents came up, ‘Lord, you entrusted me with two talents; I’ve earned two more.’
+
+23“‘Well done, good, reliable servant. You were reliable in a few things; I’ll put you in charge of many. Enter your master’s joy.’
+
+24“But the servant that had received one talent came up, ‘Lord, I knew you were a hard man. You reap where you didn’t sow and gather where you didn’t scatter. 25I was afraid and hid your talent in the ground. You have what’s yours.’
+
+26“‘You wicked, lazy servant. You knew, did you, that I reap where I don’t sow and gather where I don’t scatter? 27You should’ve taken my money to the bankers. When I came back, I would’ve received back what was mine plus interest. 28Take the talent away from him and give it to the one with ten.  29Everybody that has will receive more; but the one that doesn’t have will lose even what he does have. 30Throw the worthless servant out in the dark. There’ll be bitter weeping and gnashing of teeth out there.
+
+Discussion of the Final Judgment
+
+(Mt 25:31-46)
+
+31“When the Son of Man comes in his glory with the angels, he’ll sit on his glorious throne. 32The nations will be in front of him, and he’ll separate them like a shepherd separates sheep from goats. 33He’ll put the sheep on his right and the goats on his left. 34The king will say to the sheep on his right, ‘Come, you blessed by my Father, inherit the kingdom prepared for you since the founding of the world. 35I was hungry, and you gave something to eat. I was thirsty, and you gave me something to drink. I was a foreigner, and you gave me a place to stay. 36 I needed clothes, and you gave me some. I was sick, and you took care of me. I was in prison, and you visited me.’
+
+37“Then good people will say, ‘Lord, when did we see you hungry and feed you, or thirsty and give you something to drink? 38When did we see you a foreigner and give you a place to stay, or needing clothes and give you some? 39When did we see you sick or in prison and take care of you?’
+
+40“The king will answer, ‘When you did it for one of these least brothers of mine, you did it for me.’
+
+41“Then he’ll say to the ones on the left, ‘Go, you accursed, into the eternal fire prepared for the devil and his angels. 42I was hungry, and you didn’t give me anything to eat. I was thirsty, and you didn’t give me anything to drink. 43I was a foreigner, and you didn’t give me any place to stay. I needed clothes, and you didn’t give me any. I was sick and in prison and you didn’t take care of me.’
+
+44Then they’ll say, ‘Lord, when did we see you hungry, thirsty, a stranger, needing clothes, sick, or in prison, and not help you?’
+
+45“He’ll answer, ‘Since you didn’t do it for one of these least brothers, you didn’t do it for me either.’ 46Those will go away into eternal punishment, but the good people into eternal life.”
+
+Fifth Prediction of Jesus’ Death
+
+(Mt 26:1-5; Mk 14:1-2; Lk 22:1-2)
+
+26:1When Jesus finished, he told his disciples, 2“As you know, the Passover, the Festival of Unleavened Bread, is in two days. The Son of Man will be handed over to be crucified.”
+
+3Meantime the chief priests, scribes, and elders of the people got together in the court of Caiaphas, the high priest, and were trying to find a way 4to arrest Jesus by treachery and put him to death. 5But they said, “Not during the festival; the people will riot.”
+
+Judas’ Plot to Betray Jesus
+
+(Mt 26:14-16; Mk 14:10-11; Lk 22:3-6)
+
+3Then Satan got into Judas, called Iscariot, one of the twelve. 4He went and talked to the chief priests and soldiers about how to deliver Jesus to them. 15“What would youpl give me to deliver him to you?” 11When they heard his offer, they were elated and promised to give him silver. 6He agreed. 15They counted out thirty silver shekels for him. So, he started looking for a chance to turn him over away from the crowd.
+
+Preparation for the Passover Meal
+
+(Mt 26:17-19; Mk 14:12-16; Lk 22:7-13)
+
+17On the first day of Unleavened Bread, 7when the Passover lamb needed to be sacrificed, the disciples came to Jesus, “Where do you want us to get things ready for eating the Passover?”
+
+8He sent Peter and John, 10“On the way in the city, you’ll meet a man carrying a clay pot of water. Follow him in the house he enters, 11and say to the owner, 18‘The Rabbi says, ‘My time’s getting close. I’m observing the Passover at your place with my disciples. 14Where’s the guest room so I can eat the Passover with them?’ 15He’ll show you a big upstairs room furnished and set up. Get things ready there.”
+
+16The disciples went away into the city and found it the way Jesus had said, and got things ready for the Passover.
+
+The Passover Meal;
+
+Another Argument About Rank
+
+(Mt 26:20; Mk 14:17; Lk 22:14-16, 24-30)
+
+14When it was time, he arrived that evening with the twelve and reclined at table with them. 15He said, “I’ve really wanted to eat this Passover with you before I suffer, 16because I won’t be eating it till it’s fulfilled in God’s kingdom.”
+
+24An argument arose about which of them would have highest rank.
+
+25He said,
+
+“Gentile kings lord it over them, and the ones wielding authority over them are called benefactors. 26Not so with you. The greatest among you needs to be like the youngest, and the leader like a servant. 27Who has higher rank, someone reclining at table or a waiter? Isn’t it the one reclining at table? But I’m among you like a waiter. 28You’ve continued with me in my difficulties. 29I’m passing the kingdom on to you just like the Father passed it on to me, 30so you can eat at my table in my kingdom, and sit on thrones, judging the twelve tribes of Israel.”
+
+Jesus Washes the Disciples’ Feet (Jn 13:1-20)
+
+13:1Before the Passover festival, Jesus knew the time had come for him to go to the Father. He loved his own who were in the world and loved them to the end. 2By the time of the supper, the devil had put it in the heart of Judas, son of Simon Iscariot, to betray him. 3Jesus knew the Father had placed everything in his hands. 4He got up from supper, laid his outer clothes aside, and took a towel and hung it over himself. 5He put some water in a basin, and started washing his disciples’ feet, and drying them with the towel.
+
+6When he came to Simon Peter, Peter said, “Lord, you’re going to wash my feet?”
+
+7Jesus answered, “You don’t understand right now what I’m doing, but you will in a little bit.”
+
+8Peter said, “Don’t you ever wash my feet.”
+
+“If I don’t wash you, you don’t have anything to do with me.”
+
+9Simon Peter said, “Lord, don’t wash just my feet, but my hands and head too.”
+
+10Jesus said, “A person that has taken a bath doesn’t need anything washed but his feet. He’s clean everywhere else. You’repl clean, but not all of you.” (11He knew who would betray him; that’s why he said, “You’repl not all clean.”)
+
+12When he’d washed their feet and put his outer clothes back on, he sat back down,
+
+“Do you understand what I’ve done? 13You call me ‘Rabbi’ and ‘Lord,’ and I am. 14If I—‘Lord’ and ‘Rabbi’—washed your feet, then you should wash each other’s feet. 15I’ve given you an example to do as I’ve done to you. 16A servant has it no better than his master; a messenger has it no better than the one that sent him. 17If you understand this, you’re blessed if you do it. 18I’m not talking about all of you. I know who I’ve chosen, but I say this in keeping with the scripture:
+
+‘THE ONE THAT EATS MY FOOD
+
+HAS LIFTED UP HIS HEEL AGAINST ME’ [Ps 41:9].
+
+19From now on, I’ll tell you before things happen so when they happen you’ll believe who I am. 20Whoever receives somebody I send, receives me, and whoever receives me receives the One that sent me.”
+
+Judas Identified as the Traitor
+
+(Mt 26:21-25; Mk 14:18-21; Lk 22:21-23; Jn 13:21-30)
+
+21After he said this, Jesus began to feel stressed as they were reclining at table and eating. “One of you is going to betray me.” 22The disciples became really sad, and looked at one another, at a loss who he meant. They started saying, “It’s not me, is it, Lord?”
+
+21“The hand of my betrayer is with me on the table. 22The Son of Man will go the way it’s been determined ahead of time, but woe to the one that betrays him. 24bIt would’ve been better for him if he’d never been born.”
+
+23They tried to figure out with each other which one of them might do this. 23One disciple was reclining at table in front of Jesus—the one Jesus loved. 24Simon Peter motioned to him to find out who Jesus meant. 25So he leaned back on Jesus’ chest and said, “Lord, who is it?”
+
+26Jesus answered, “It’s the one of the twelve that dips his hand with me in the bowl, the one I dip the piece of bread and give it to.” He dipped it and gave it to Judas, son of Simon Iscariot.
+
+Judas, the one that did betray him, said, “It’s not me, is it, Rabbi?”
+
+“Yes.”
+
+27After the piece of bread, Satan entered him. Jesus said, “What you’re doing do now.” 28Nobody at table knew why he spoke to him. 29Since Judas had the money pouch, some supposed Jesus meant, “Buy what we need for the festival,” or “Give something to the poor.” 30He took the piece of bread and went out immediately. It was dark.
+
+The Disciples Warned
+
+(Mt 26:31-34; Mk 14:27-31; Lk 22:31-38; Jn 13:31-38)
+
+31When Judas had gone out, Jesus said,
+
+“Now God will glorify the Son of Man, and the Son of Man will glorify him, 32and God will glorify him soon. 33Little children, I’ll be with you a little while yet. You’ll look for me and, as I told the Jews, ‘You can’t go where I’m going’; now I’m telling you. 34I’m commanding you something new: love one another as I’ve loved you. 35If you love one another, people can tell you’re my disciples.”
+
+36Simon Peter said, “Lord, where are you going?”
+
+“Where I’m going youpl can’t follow now; you’ll follow later.”
+
+37Peter said, “Lord, why can’t I follow you now? I’ll lay down my life for you”
+
+31“Simon, Simon, Satan asked to sift you like wheat, 32but I prayed that your faith wouldn’t fail. When you get stabilized again, it’ll be up to you to stabilize your brothers.”
+
+27Jesus said to them, “You’ll all desert me tonight. The scripture says,
+
+‘I’LL STRIKE DOWN THE SHEPHERD,
+
+AND his SHEEP WILL SCATTER’ [Zech 13:7].
+
+28But after I resurrect, I’ll go ahead of you to Galilee.”
+
+29Peter said, “Even if everybody else deserts you, I’ll never desert you. 33I’m ready to go to prison and to die with you.”
+
+38Jesus answered, “Will you? The truth is, today, tonight, before the rooster double-crows, you’ll deny me three times.”
+
+31He kept insisting, “Even if I have to die with you, I won’t deny you.”
+
+They all said the same thing.
+
+35He said, “When I sent you out with no money bag, knapsack, or shoes, you didn’t lack anything, did you?”
+
+“Nothing.”
+
+36“But now, if anybody has a money bag, take it. The same thing goes for a knapsack. If anybody doesn’t have a sword, he needs to sell his cloak and buy one. 37What the scripture says has to be fulfilled in me: ‘THEY CONSIDERED ME A CRIMINAL’ [Is 53:12] What refers to me will happen.”
+
+38“Lord, here are two swords.”
+
+“That’s enough.”
+
+The Lord’s Supper Instituted
+
+(Mt 26:26-29; Mk 14:22-25; Lk 22:17-20; cp 1 Cor 11:23-26)
+
+14During the meal Jesus took a cup, gave thanks, and said, “Take this and divide it among you. 18I’m not going to drink the fruit of the vine again till God’s kingdom comes.” 19He took a loaf, broke it, gave thanks, and handed it to them, “Take it and eat it. This is my body that’s given for you. Do this in my memory.” 20In the same way, he took the cup after they ate, blessed it, and gave it to them, “All of you, drink out of it. This cup is the new covenant in my blood that’s poured out for you; it is shed for many for the forgiveness of sins. (As often as you drink it, do it in my memory. 1 Cor. 11:25)  29I won’t be drinking this fruit of the vine again till I drink it with you in my Father’s kingdom.”
+
+Jesus’ Farewell Discourse (Jn 14:1-31)
+
+14:1“Don’t worry. You believe in God; believe in me too. 2There are many rooms in my Father’s house. If that weren’t so, I would’ve told you, because I’m going to get a place ready for you. 3If I go to do that, I’ll come back to get you so you can be where I am. 4You know how to get to where I’m going.”
+
+5Thomas said, “We don’t know where you’re going. How can we know how to get there?”
+
+6“I am the way, the truth, and the life. Nobody comes to the Father except through me. 7If you know me, you know my Father too. From now on you know him and have seen him.”
+
+8Philip said, “Lord, show us the Father; that’ll be enough.”
+
+9“Have I been with youpl this long, Philip, and yousg haven’t seen me? Whoever has seen me has seen the Father. How can yousg say, ‘Show us the Father’? 10Don’t yousg believe I’m in the Father and the Father’s in me? What I say I don’t say on my own, but the Father present in me is doing his work. 11Believepl that I’m in the Father and the Father’s in me. If not, believepl because of the very things I do. 12Whoever believes in me will do what I do and more because I’m going to the Father. 13I’ll do whatever you ask in my name so I may glorify the Father. 14I repeat, if you ask anything in my name, I’ll do it.
+
+15“If you love me, you’ll do what I tell you. 16I’ll ask the Father to give you another Helper to be with you permanently. 17He’s the Spirit of truth that the world can’t receive because they don’t see him or know him. But you know him because he stays with you and in you. 18I won’t leave you orphans; I’ll come to you. 19In a little while, the world won’t see me, but you’ll see me. You’ll be living because I’ll be living. 20Then you’ll know I’m in the Father and you’re in me and I’m in you. 21Whoever has my commands and keeps them, is a person that loves me. Whoever loves me my Father will love, and I’ll love him and show myself to him.”
+
+22Judas (not Iscariot) said, “Lord, what’s happened that you’re going to show yourself to us, but not to the world?”
+
+23Jesus answered,
+
+“If a person loves me, he’ll follow what I say, and my Father will love him. We’ll come and make our home in him. 24Whoever doesn’t love me doesn’t follow what I say. The message you’re hearing is not mine, but the Father’s.
+
+25“I’ve said this while I’m with you. 26The Helper—the Holy Spirit the Father will send in my name—will teach you everything and remind you of everything I’ve told you. 27I’m leaving my peace with you, not the kind the world gives. Don’t worry or be afraid. 28You heard me say, ‘I’m going away and I’ll come back to you.’ If you loved me, you’d be happy that I’m going to the Father because the Father is greater than I am.
+
+29“I’ve told you now before it happens so when it does, you’ll believe. 30There are lots of things that I won’t tell you now, because the ruler of this world is coming, and he doesn’t have anything to do with me. 31But I’m doing what the Father told me to do so the world will know I love him.
+
+“Let’s go.”
+
+The Parable of the Vine (Jn 15:1-27)
+
+15:1“I’m the true vine; my Father is the vinedresser. 2He takes out every branch in me that doesn’t bear fruit. He prunes every branch that does bear fruit so it’ll bear more fruit. 3Already you are pruned by the message I’ve spoken to you. 4Remain in me and I in you. A branch can’t bear fruit by itself; it has to be connected to the vine; neither can you unless you remain in me. 5I’m the vine; you’re branches. Whoever remains in me and I in him bears lots of fruit. Without me you can’t do anything. 6If somebody doesn’t remain in me, he’s taken out like a branch. It dries up, and people throw it in the fire. 7If you remain in me and what I say remains in you, ask whatever you want and you’ll receive it. 8This is what honors my Father: you becoming my disciples and bearing lots of fruit. 9As the Father has loved me, I’ve loved you. Remain in my love. 10If you do what I tell you, you’ll be remaining in my love just like I’ve done what my Father told me and remain in his love.
+
+11“I’ve said this so you can have the complete joy I have. 12This is my command: love one another as I’ve loved you. 13Nobody loves more than a person that lays down his life for his friends. 14You’re my friends if you do what I tell you. 15I don’t consider you servants anymore; a servant doesn’t know what his master’s doing. I consider you friends because I tell you everything I’ve heard from my Father. 16You didn’t choose me; I chose you and appointed you to bear fruit that lasts so my Father will give you whatever you ask for in my name. 17I’m commanding these things so you’ll love one another.
+
+18“If the world hates you, understand that it hated me first. 19If you were like the world, it would love its own kind. But because you’re not like it, it hates you—but I’ve chosen you out of it. 20Remember what I told you, ‘A servant’s not better than his master.’ If they persecuted me, they’ll persecute you. If they kept my word, they’ll keep yours. 21They’ll do this to you because of me, because they don’t know the One that sent me.
+
+22“If I hadn’t come and spoken to them, they wouldn’t have any guilt; but now they have no excuse for their sin. 23Whoever hates me hates my Father too. 24If I hadn’t done among them what no one else has done, they wouldn’t have any guilt; but now they’ve seen and have hated both me and my Father. 25They’ve done this to fulfill what their law says, ‘THEY HATED ME FOR NO REASON’ [Ps 35:19; 69:4].
+
+26“When the Helper comes that I’ll send from the Father—the Spirit of truth—he’ll speak on my behalf. You will too, because you’ve been with me since the beginning.
+
+Further Solemn Instruction (Jn 16:1-33)
+
+16:1“I’ve told you this so you won’t get caught off guard. 2They’ll excommunicate you from membership in the synagogues, but—more than that—the time’s coming when anybody that kills you will think he’s serving God. 3They’ll do it because they don’t know the Father or me. So when it happens, remember that I told you it would.
+
+4“I didn’t tell you these things at first, because I was with you. 5But now I’m going to the One that sent me, and none of you needs to ask, ‘Where are you going?’ 6Because I’ve told you, you feel sad. 7But it’s to your benefit that I go away. If I don’t, the Helper won’t be coming to you. If I go, I’ll send him. 8When he comes, he’ll convict the world of sin and goodness and judgment—9of sin, because they don’t believe in me; 10of goodness, because I’m going to the Father and you won’t see me anymore; and 11of judgment, because the ruler of this world has been judged.
+
+12“I still have so much to tell you, but you can’t deal with it now. 13But when the truth-revealing Spirit comes, he’ll lead you into all truth. He won’t speak on his own; he’ll tell you what he’s heard and what’s coming. 14He’ll honor me because he’ll take from me and tell you. 15Everything the Father has is mine. That’s why I’ve said the Spirit will take from me and tell you.
+
+16“In a little while, you won’t see me; and again in a little while, you’ll see me.”
+
+17Some disciples said to one another, “What’s this, ‘In a little while, you won’t see me; again in a little while, you’ll see me’; and, ‘because I’m going to the Father’? 18What’s this ‘little while’ refer to? We don’t understand it.
+
+19Jesus knew they wanted to ask him,
+
+“Are you talking about what I said, ‘In a little while, you won’t see me; again in a little while, you’ll see me’? 20You’ll mourn, but the world will be glad. You’ll grieve, but your grief will turn to joy. 21When a woman’s in labor, she has grief; but when she has the child, she no longer remembers the anguish because of the joy of bringing a person into the world. 22You’ll grieve, but I’ll see you again, and you’ll be glad. Nobody will take your gladness away. 23In that day you won’t ask me for anything. Whatever you ask the Father in my name now he’ll give you. 24Up till now you haven’t asked for anything in my name. Ask and you’ll receive so your joy will be complete.
+
+25“I’ve been using illustrations. The time’s coming when I’ll speak plainly about the Father. 26Then you’ll ask in my name; and, rest assured, I’ll ask the Father for you. 27The Father himself loves you because you love me and believe I came from him. 28I did come from him to the world. Again, I’m leaving the world and going back to him.”
+
+29The disciples said, “Now you’re speaking clearly. 30Now we know that you know everything and don’t need anybody to ask you. That’s why we believe you’ve come from God.”
+
+31Jesus responded, “Do you believe now? 32The time’s coming—and is almost here—when each of you will scatter and leave me alone. But I’m not alone, because the Father’s with me. 33I’ve told you these things so you’ll have peace. In the world you have trouble, but take heart, I’ve overcome the world.”
+
+The High Priestly Prayer (Mt 26:30; Jn 17:1-26)
+
+17:1Jesus looked up to heaven,
+
+“Father, it’s time. Honor your Son so he can honor you. 2You gave him authority to give eternal life to everybody you’ve given him. 3Eternal life means knowing you, the only true God, and Jesus the Messiah, the One you sent. 4I’ve honored you on earth and completed the work you gave me to do. 5Now, honor me and yourself with the honor I had with you before the earth existed.
+
+6“I’ve shown you to the ones you gave me out of the world, and they’ve kept your word. 7Now they know that the message I’ve given them came from you. 8They know that I really did come from you, and believe you sent me. 9I’m not asking about the world, but about the ones you gave me. 10My things are yours and yours are mine, and they’ve honored me. 11I’m not in the world anymore, but they are and I’m coming to you. Holy Father, keep them in your name so they can be one like we are. 12When I was with them, I kept them in your name, and none of them have perished except the one destined to perish—to fulfill scripture. 13I’m saying these things so they can fully experience my joy. 14The world hates them because they’re not like the world. 15I’m not asking you to take them out of the world, but to keep them from the evil one. 16They’re not like the world as I am not. 17I’ve sanctified them with the truth—with your message. 18As you sent me to the world, I’ve sent them out into it. 19I’ve sanctified myself for them so the truth can sanctify them.
+
+20“Father, I’m not asking just that these be one, but that their converts also be one. 21That way the world will know you sent me. 22I’ve given them the honor you gave me so they can be one like us—23so the world may know you love them like you love me. 24I want them to be with me where I am so they can see the honor you gave me because you loved me before the world existed.
+
+25“Righteous Father, the world didn’t know you, but I knew you, and these know you sent me. 26I’ll continue to make you known to them so the love you loved me with may be in them like I’m in them.”
+
+30They sang a hymn and went out to the Mount of Olives.
+
+The Agony in the Garden
+
+(Mt 26:36-46; Mk 14:32-42; Lk 22:39-46; Jn 18:1)
+
+18:1When Jesus finished, he left and went as he often did with his disciples past the Kidron valley to the Mount of Olives, to an orchard called Gethsemane. 40When he got where he was going, 32he said, “Sit here while I go over there and pray.”
+
+33He took Peter and the two sons of Zebedee, James and John, and began to feel stress and dread. He said, “I’m distressed to death. Stay here and keep watch with me.”
+
+He went on 41about a stone’s throw and knelt down and prayed, “Abba [Father], you can do anything. 39Take this cup away from me; but not what I want, but what you want.” [[43An angel from heaven appeared to him to strengthen him. 44In agony he prayed more intensely. His sweat became like drops of blood dripping on the ground.]]ms
+
+45He got up from praying and went back to the disciples and found them sleeping from grief. He said to Peter, 37“Simon, you’resg sleeping? Couldn’t yousg watch for one hour? 38Watchpl and pray so youpl won’t be tempted. The spirit’s willing, but the flesh is weak.”
+
+42A second time he went and prayed, “My Father, if this can’t pass without me drinking it, your will be done.” 43He came back and found them sleeping again. 40Their eyes were very heavy, and they didn’t know what to say.
+
+44He left them again, and prayed a third time, saying the same thing. 45He came back to his disciples, “You’re sleeping a little and resting? It’s time; the Son of Man is being betrayed to sinners. 46Get up; let’s go. The one that’s betraying me is coming.”
+
+The Arrest of Jesus
+
+(Mt 26:47-56; Mk 14:43-52; Lk 22:47-53; Jn 18:2-11)
+
+2Judas knew about the place, because Jesus often went there with his disciples. 3Judas had received a cohort as well as officers of the high priests, Pharisees, and elders of the people. 47While Jesus was still talking, Judas came there, with a large contingent that was carrying lanterns and torches and armed with swords and clubs.
+
+4Jesus knew what was coming, and went out to them. 48The traitor had given them a signal, “The one I kiss—that’s him; arrest him and take him away safely.” 49At once he came right to Jesus to kiss him, and said, “Hello, Rabbi.”
+
+48Jesus said, “Friend, you’re betraying the Son of Man with a kiss? Do what you came to do.”
+
+Judas kissed him.
+
+“Who are youpl looking for?”
+
+5“Jesus the Nazarene.”
+
+“I’m Jesus.”
+
+Judas was standing with them. 6When he said, “I’m Jesus,” they shrank back and fell to the ground.
+
+7He asked them again, “Who are you looking for?”
+
+“Jesus the Nazarene.”
+
+8“I told you, I’m Jesus. If you’re looking for me, let these go” (9in keeping with what he’d said, “I haven’t lost any you gave me”).
+
+They came and grabbed him and arrested him. 49When the ones around him saw what was happening, they said, “Lord, should we strike with a sword?” 10Then Simon Peter, who had a sword, drew it and struck the high priest’s servant and cut off his right ear. His name was Malchus.
+
+11Jesus said, “Back off! Put your sword back in its sheath. 52Everybody that picks up a sword dies by a sword. 53Do you suppose I can’t ask my Father at once for more than seventy thousand angels? Am I not going to drink the cup the Father gave me to drink? 54How then would the scriptures be fulfilled that things have to happen this way?” 51Jesus touched his ear and healed him.
+
+52Jesus said to the chief priests, soldiers, and elders, “You’ve come out with swords and clubs as if you’re capturing a rebel? 53I sat in the temple teaching every day with you, and you didn’t lay a hand on me—but this is your time and the power of darkness. This is all happening 56to fulfill the scriptures of the prophets.”
+
+50The disciples left him and fled. 51A young man was following him with a linen sheet wrapped around his naked body. 52They grabbed him, but he left the sheet behind and fled.
+
+The Trial Before Annas (Jn 18:12-14, 19-23)
+
+12Then the cohort, the tribune, and the officers of the Jews arrested Jesus and bound him. 13They led him to Annas first, because he was the father-in-law of Caiaphas, the high priest that year. 14He was the Caiaphas that advised the Jews that it was expedient for one man to die for the people.
+
+19The high priest asked Jesus about his disciples and his teaching.
+
+20Jesus answered, “I spoke to the world openly and taught constantly in the synagogue and the temple, where all the Jews gather. I haven’t done anything secretly. 21Why ask me? Ask the ones that heard me. They know what I said.”
+
+22One of the officers standing by slapped him, “Do you answer the high priest that way?”
+
+23“If I said something wrong, tell me what it was. If I said something good, why are you hitting me?”
+
+24Then Annas sent him bound to Caiaphas the high priest.
+
+The Trial Before Caiaphas; Peter’s Denials;
+
+The Condemnation by the Sanhedrin
+
+(Mt 26:57-7:1; Mk 14:53-15:1; Lk 22:54-23:5; Jn 18:15-18, 25-27)
+
+57The ones that arrested Jesus took him away to the house of Caiaphas the high priest, where the chief priests, scribes, and elders had assembled.
+
+A long ways back, 15Simon Peter and another disciple followed Jesus. That disciple was acquainted with the high priest, and went in with Jesus to the courtyard. 16Peter stood outside at the gate. The other disciple went out and spoke to the gatekeeper and brought Peter in.
+
+18Servants and officers were standing there. They’d started a charcoal fire in the middle of the courtyard because it was cold, and they sat down together, warming themselves. Peter sat down with the officers to see the end, warming himself at the fire.
+
+When it got daylight, all the chief priests, the scribes, and the elders of the people—the full Sanhedrin—brought Jesus into their Court. They 59were looking for false testimony against him so they could put him to death. 60But they didn’t find it even though many false witnesses came forward. Their testimonies didn’t agree with each other.
+
+Finally, two came forward, 61“He said, ‘I can tear down God’s sanctuary made with hands and rebuild one in three days without hands.’” 59Their testimonies didn’t agree even on that point.
+
+62The high priest got up and said, “You aren’t going to answer what these men are testifying against you?”
+
+Jesus didn’t say anything.
+
+They all said, “Are you God’s Son?”
+
+“If I tell youpl, you won’t believe me. If I ask a question, you won’t answer me.”
+
+63The high priest said, “I’m putting you under oath: by the living God, tell us if you’re the Messiah, the Son of the Blessed. Tell us.”
+
+“Yes, I am, but 64I’m telling you,
+
+from now on you’ll see ‘THE SON OF MAN
+
+SITTING ON THE RIGHT HAND OF THE POWER OF GOD, AND
+
+COMING ON THE CLOUDS IN THE SKY’” [Ps 110:1].
+
+62The high priest tore his clothes, “Why do we still need witnesses? You’ve heard the blasphemy from his own mouth yourselves. What’s your verdict?”
+
+“He deserves the death penalty.”
+
+63The men that held Jesus in custody spit in his face and hit him with their fists. They were making fun of him, 64blindfolding him, slapping him, and asking, “Proclaim to us, ‘Messiah,’ who slapped you?” 65They were saying a lot of other insulting things to him as well.
+
+66Peter was down below in the courtyard. A servant girl of the high priest, 17the gatekeeper, 56saw Peter sitting there, facing the fire. She looked closely at him and said to him—and the others, “You aren’t one of this man’s disciples, are you?”
+
+“No.”
+
+71“You were too with Jesus the Galilean.”
+
+He denied it in front of them all, “I don’t know or understand what you’re talking about,” and went out into the forecourt.
+
+58A little later another person saw him again, 25warming himself, and said to the ones standing there, “This man was with Jesus the Nazarene. He’s one of them.” They said to him, “You’re not one of his disciples, are you?
+
+He denied it again—with an oath, “Man, I am not. I don’t know the man.”
+
+About an hour after that, 26one of the high priest’s servant, a relative of the one whose ear Peter cut off, started insisting, “This man was too with him. He’s a Galilean. I saw you in the orchard with him, didn’t I?” 73The ones standing around came up to Peter, “You are too one of them. Your accent gives you away.”
+
+71He started taking oaths and swearing: “I don’t know the man you’re talking about.” Immediately while he was still speaking, 72a rooster double-crowed. The Lord turned and looked at Peter, and he remembered, “Before a rooster double-crows, you’ll deny me three times.” He went out and broke down sobbing.
+
+15:1As soon as it got daylight, the chief priests held session with the elders of the people, the scribes, and the full Sanhedrin to make plans for putting him to death.
+
+The Death of Judas
+
+(Mt 27:3-10; cp Acts 1:18-19)
+
+3When Judas the traitor saw he was condemned, he regretted it and took the thirty silver shekels back to the chief priests and elders, 4“I’ve sinned. I betrayed innocent blood.”
+
+They said, “What’s that to us? That’s your problem.”
+
+5He threw the shekels into the sanctuary and went and hanged himself.
+
+6The chief priests took the shekels and said, “It’s against the law to put them in the temple Treasury since they’re blood money.” 7After they talked it over, they used them to buy a Potter’s Field as a burial place for foreigners. 8That’s why that field has been called “The Field of Blood” to this day. 9That fulfilled what Jeremiah the prophet said,
+
+“THEY TOOK THIRTY SILVER SHEKELS,
+
+THE PRICE OF THE ONE THEY PRICED,
+
+10AND GAVE THEM FOR A POTTER’S FIELD,
+
+LIKE THE LORD COMMANDED ME” [Zech 11:12-13].
+
+The First Trial Before Pilate
+
+(Mt 27:2, 11-14; Mk 15:2-5; Lk 23:1-5; Jn 18:28-38)
+
+28They bound Jesus, and 1the whole assembly brought him from Caiaphas to the Praetorium, to Pilate the governor. It was early. But they didn’t go in the Praetorium themselves. They didn’t want to get defiled and not be able to eat the Passover. 29So Pilate came out to them. “What charge are you bringing against this man?”
+
+30“If he weren’t a criminal, we wouldn’t have delivered him to you.”
+
+31“You take him and judge him by your law.”
+
+“It’s illegal for us to execute anybody” (32fulfilliing Jesus’ statement about how he would die).
+
+2They started accusing him, “We found this man misleading our nation, forbidding people to pay tribute to Caesar, and claiming to be Messiah, a king.”
+
+33Pilate went back in the Praetorium and called Jesus, and Jesus stood in front of him. “Are you the king of the Jews?”
+
+34“Are you asking that yourself, or have other people prompted you?”
+
+35“I’m not a Jew, am I? Your nation and the chief priests delivered you to me. What have you done?”
+
+36“My ‘kingdom’ is not an earthly kingdom. If it were, my servants would be fighting to keep me from being delivered to the Jews.”
+
+37“So you’re a ‘king’ then.”
+
+“Yes, I’m a ‘king.’ That’s why I was born—the reason I came to the world—to testify to truth. Everybody that’s committed to truth listens to me.”
+
+38Pilate said, “What’s truth?”
+
+When he said that, he went out to the Jews, “He’s not guilty of anything.”
+
+12While the chief priests and elders continued accusing him, Jesus didn’t answer.
+
+13Pilate said, “You hear how many things they are accusing you of, don’t you?”
+
+14He didn’t answer him on even a single charge. The governor was really amazed.
+
+5They kept insisting, “He stirs up the people, teaching everywhere in Judaea, from Galilee to here.”
+
+Trial Before Herod (Lk 23:6-12)
+
+6When Pilate heard that, he asked if the man was a Galilean. 7When he found out Jesus came from Herod’s jurisdiction, he sent him on to Herod, who was in Jerusalem at the time. 8Herod was really glad to see Jesus. He’d wanted to see him for a long time because of what he’d been hearing about him; he’d hoped to see him do a sign. 9He asked him lots of questions, but Jesus didn’t answer him.
+
+10The chief priests and scribes were standing there, accusing him aggressively. 11After treating him with contempt and making fun of him, Herod and his soldiers dressed him in a splendid robe and sent him back to Pilate. 12Herod and Pilate became friends that day. They’d been at odds with each other.
+
+The Second Trial Before Pilate;
+
+Torture by the Roman Soldiers
+
+(Mt 27:15-30; Mk 15:6-20a; Lk 23:13-25; Jn 18:39-19:16)
+
+13Pilate called together the chief priests, the rulers, and the people, 14“You brought this man as someone that incites the people to revolt. I examined him in your presence and didn’t find him guilty of what you claimed. 15Herod didn’t either, because he sent him back to us. He hasn’t done anything worth executing him for. 16I’ll flog him and release him.”
+
+18They shouted out together, “Away with him! Release Barabbas to us.” (15At each festival the governor was accustomed to releasing one prisoner the crowd wanted. 16At the time they were holding a notorious prisoner called [Jesus]ms Barabbas. He’d been put in prison for an uprising in the city and for murder.)
+
+20Pilate wanted to release Jesus, and addressed them again, 21“Who do you want me to release to you, [Jesus]ms Barabbas or Jesus called Messiah?” (18He knew they’d delivered him up because of jealousy.) 20The chief priests and the elders persuaded the crowd to ask for Barabbas and execute Jesus.
+
+19While he was sitting on the judgment seat, his wife sent him a message, “Don’t get involved with that good man. I suffered a lot in a really bad dream today because of him.”
+
+19:1So Pilate took Jesus and had him flogged. 2His soldiers took him into the Praetorium and gathered the whole cohort around him. They stripped him and twisted thorns together to make a crown, and put it on his head. They put a purple robe on him and a reed in his right hand, knelt in front of him and made fun of him. 3They were coming up to him and saying, “Hail, King of the Jews!” and slapping him. They spit on him, and took the reed and started beating him over the head with it.
+
+4Pilate brought him out again, “I’m bringing him out to let you know I don’t find him guilty of anything.” 5So he brought Jesus out wearing the crown of thorns and the purple robe. “Look at the man!”
+
+6When the chief priests and officers saw him, they shouted, “Crucify him! Crucify him!”
+
+“You take him and crucify him. He’s not guilty of anything.”
+
+7The Jews answered, “We have a law; according to that law he should die, because he made himself God’s Son.”
+
+8When Pilate heard that, he became more concerned. 9He went in the Praetorium and said to Jesus, “Where are you from?”
+
+Jesus didn’t answer him.
+
+10“You aren’t talking to me? You know, don’t you, that I have the authority to release you or crucify you?”
+
+11“You wouldn’t have any authority over me if God hadn’t let you have it; so the one that betrayed me to you has committed a worse sin.”
+
+12With that comment, Pilate tried to release him.
+
+But the Jews shouted, “If you release him, you’re no friend of Caesar. Anybody that makes himself king is is opposed to Caesar.”
+
+13When Pilate heard this, he brought Jesus out and sat on the judgment seat at a place called The Pavement, but in Hebrew, Gabbatha. 14It was Preparation during the Passover, about 6 a.m. He said to the Jews, “Behold, your ‘king’!”
+
+15They shouted, “Away with him! Away with him! Crucify him!”
+
+“You want me to crucify your king?”
+
+The chief priests answered, “We don’t have any king but Caesar.”
+
+24When Pilate saw he wasn’t getting anywhere, but a riot was brewing, he took water and washed his hands in front of the crowd, “I’m innocent of this man’s blood. This is your problem.”
+
+25The people answered, “May his blood be on us and our descendants.”
+
+26Then he released Barabbas to them, and turned Jesus over to be crucified.
+
+The Way to Golgotha;
+
+The Crucifixion
+
+(Mt 27:31-37; Mk 15:20b-26; Lk 23:26-38; Jn 19:16-22)
+
+Pilate’s soldiers took off the purple robe and dressed him in his own clothes, and took him away to crucify him, carrying his own cross.
+
+21They conscripted Simon, a Cyrenian coming in from the country—father of Alexander and Rufus—to carry the cross in front of Jesus.
+
+27There followed him a large crowd of people, including women who were mourning and weeping for him. 28Jesus turned and said, “Daughters of Jerusalem, don’t cry for me. Cry for yourselves and your children. 29The time’s coming when they’ll say, ‘Blessed are the barren, the wombs that never bore and the breasts that never nursed.’ 30They’ll say to the mountains, ‘Fall on us,’ and to the hills, ‘Cover us.’ 31If they do this when the wood’s green, what’ll happen when it’s dry?”
+
+22The soldiers brought him to the place called Golgotha in Hebrew [“The Skull”], and offered him a myrrh-wine mixed; but when he tasted it, he wouldn’t drink it.
+
+27They crucified him and the two rebels, on his right and left. [[Jesus said, “Father, forgive them; they don’t know what they’re doing.]]ms 25It was nine o’clock.
+
+19Pilate wrote an inscription of his accusation, and put it on the cross above his head: “Jesus the Nazarene, King of the Jews.” 20Many Jews read it, because the place where they crucified him was close to the city. Pilate wrote it in Hebrew, Latin, and Greek.
+
+21The chief priests said to Pilate, “Don’t write ‘king of the Jews,’ but that he said, ‘I am king of the Jews.”
+
+22Pilate answered, “What I’ve written I’ve written.”
+
+The Death of Jesus
+
+(Mt 27:35-50; Mk 15:27-37; Lk 23:39-46; Jn 19:23-30)
+
+23When the soldiers had crucified Jesus, they divided his clothes into four sets, one for each soldier—except for the tunic. It was seamless, woven from the top throughout. 24They said, “Let’s not tear it apart; cast lots for it”—in fulfillment of the scripture that said,
+
+“THEY DIVIDED MY GARMENTS AMONG THEM, AND
+
+CAST LOTS FOR MY CLOTHES” [Ps 22:18[.
+
+So that’s what the soldiers did, and sat down to keep watch.
+
+25Beside Jesus’ cross stood his mother, the sister of his mother; Mary, wife of Clopas, and Mary the Magdalene. 26When he saw his mother and the disciple he loved standing there, he said to his mother, “Your son.” 27Then he said to the disciple, “Your mother.” From that time the disciple took her to his home.
+
+The people stood watching. 29The people passing by threw insults at him and shook their heads, “Ha! You that tear down the sanctuary and rebuild it in three days, 30save yourself. 40If you’re God’s Son, come down from the cross!”
+
+41The chief priests as well as the scribes and elders were making fun of him too: 42“He saved other people; he can’t save himself! He’s king of the Jews! Let him come down from the cross, and we’ll believe in him. 43He has trusted in God; let him rescue him if he wants him”—because he said, “I’m God’s Son.”
+
+44The rebels that were crucified with him were putting him down with the same insults. 36The soldiers mocked him too. They offered him sour wine, 37“If you’re the King of the Jews, save yourself.”
+
+39One of those hanged with him lashed out, “You’re the Messiah, aren’t you? Save yourself and us.” 40The other rebuked him, “Don’t you even fear God? You’re under the same condemnation! 41We’re getting what we deserve. He hasn’t done anything wrong.”
+
+42“Jesus, remember me when you come into your kingdom.”
+
+43“You’ll be with me in Paradise today.”
+
+44At about noon, darkness came over the whole land and lasted till mid-afternoon. 46About 3 p.m. Jesus shouted out, “ELI, ELI, LAMA SABACHTHANI [My God, my God, why have you deserted me?]?” [Ps 28:1] 47Some of the ones standing there heard him, “He’s calling for Elijah.”
+
+28Since he knew they’d done everything that would fulfill the scripture, Jesus said, “I’m thirsty.” 29A jar was sitting there full of sour wine. 48One of them ran and filled a sponge with it, put in on a hyssop branch, and held it up to his mouth to give him a drink. 49The rest were saying, “Let’s see if Elijah will come to save him.” 30When he’d taken it, he let out another loud cry, “It’s done! Father, I’m entrusting my spirit to you.” He dropped his head and quit breathing.
+
+Miracles Accompanying the Death of Christ
+
+(Mt 27:51-56; Mk 15: 38-41; Lk 23:45, 47-49)
+
+51The sanctuary curtain tore in two from top to bottom, the ground shook, and bedrocks ruptured. (52Tombs came open, and the bodies of many saints arose. 53They left their graves after his resurrection, and went in the Holy City and appeared to many people.) 54Now the centurion standing across from him and the ones on watch with him were scared to death when they saw the earthquake and the other things that were happening. 47When the centurion saw the way Jesus quit breathing, he glorified God, “Surely this was a good man. 39This man really was God’s Son.”
+
+48When the crowd that had gathered for this spectacle saw the things that happened, they went home beating their chests.
+
+49His acquaintances and 55several women were watching from a distance. They’d followed him from Galilee up to Jerusalem to wait on him. 56Among them were Mary the Magdalene; Mary, the mother of James the Less and Joseph; the mother of the sons of Zebedee, Salome, and some others.
+
+The Burial of Jesus
+
+(Mt 27: 57-60; Mk 15:42-47; Lk 23:50-56; Jn 19:31-42)
+
+31Because it was Preparation, the Jews asked Pilate to break their bones and take them away so the bodies wouldn’t be on the cross on the Sabbath. (That Sabbath was a high day.) 32So the soldiers broke the bones of the other men crucified with him. 33They saw that Jesus was already dead and didn’t break his bones. 34One soldier thrust his spear into his side; blood and water drained out immediately. (35One that “looked at” it himself has submitted this report. He knows what he’s telling you is true so you can believe too.) 36This reminds us of the scripture, “DON’T BREAK A BONE OF IT” [Ex 12:46; Num 9:12; Ps 24:20]. 37Another scripture says, “THEY’LL LOOK AT THE ONE THEY PIERCED” [Zech 12:10].
+
+50A respected Sanhedrin member named Joseph, a good, upright man, 51hadn’t agreed with their plot and action. He was a rich man from Arimathea, a town of the Jews, and one who was waiting for God’s kingdom. He was a disciple of Jesus—but secretly for fear of the Jews. 43He gathered up the courage to go to Pilate and ask permission to take Jesus’ body. 44Pilate was surprised that he’d already died. He called the centurion and asked him if Jesus was dead already. 45When he understood from him that Jesus was dead, he let Joseph have the body.
+
+46Joseph bought a clean linen cloth, went and took Jesus down, and took his body away. 39Nicodemus—who at the first came to Jesus at night—also brought some seventy pounds of myrrh mixed with aloes. 40They wrapped his body in the linen wrappings along with the aromatic spices, which is the Jews’ burial custom.
+
+41A garden close to where they crucified Jesus had a new, used tomb in it. That’s where they put Jesus, because it was the Jews’ Preparation, and the Sabbath was coming on. 60It was Joseph’s own rock-hewn tomb, where no one had yet been laid. They rolled a large stone over the entrance and left.
+
+55Mary the Magdalene and Mary, mother of Joses, followed along and sat across from the grave and saw how they laid the body. 56They went back to prepare spices and ointment oils. On the Sabbath they rested according to the commandment.
+
+The Watch at the Tomb
+
+(Mt 27:62-66; Mk 15:47; Lk 23:55-56)
+
+62The next day, the day after Preparation, the chief priests and the Pharisees got together with Pilate, 63“Sir, we’ve remembered that while he was alive, the deceiver said, ‘After three days I’ll resurrect.’ 64So command that the grave be sealed till the third day so his disciples can’t come and steal the body, and tell the people, ‘He arose from the dead.’ The last deception would be worse than the first.”
+
+65Pilate told them, “You have a guard. Secure it as well as you know how.” 66They went and secured the tomb with a guard and put a seal on the stone.
+
+The Resurrection of Jesus
+
+(Mt 28:1-7; Mk 16:1-8; Lk 24:1-8; Jn 20:1)
+
+16:1When the Sabbath was over, early in the morning as the first day of the week began to dawn, Mary the Magdalene, Joanna; Mary, mother of James; Salome, and others with them came to the tomb while it was still dark—2the sun was just starting to come up. 24:1They were carrying the spices and aromatic oils they’d prepared to put on his body.
+
+2There was a violent earthquake. An angel of the Lord came down from heaven, rolled the stone away, and sat on it. 3His appearance was like lightning, and his clothes were as white as snow. 4The guards were so terrified they trembled and became like dead men.
+
+3The women were saying to one another, “Who’s going to roll the stone away for us from the entrance?” 4When they looked up, they saw the stone had been rolled away. It was really big.
+
+4While they were perplexed about this, two men stood by them in dazzling clothes. 5The women were scared and bowed their faces to the ground.
+
+They said to the women, 5“You don’t need to be afraid; we know you’re looking for Jesus, who was crucified. But 5why are you looking for the living among the dead? 6He’s not here; he arose 6like he said he would. Come and look where he was lying.”
+
+5They went in the tomb and saw a young man sitting on the right wearing a white robe, and they were startled. 6He said, “Don’t be startled you’re looking for Jesus the Nazarene, who was crucified. He resurrected; he’s not here. See where they laid him. 6Remember how he told you when he was still in Galilee 7that the Son of Man had to be betrayed to sinners, be crucified, and arise the third day.” 8They remembered what he’d said.
+
+7“Hurry and tell his disciples and Peter, ‘He arose from the dead, and is going ahead of you into Galilee; you’ll see him there.’ I’ve told you.”
+
+8They went out and fled from the tomb, because trembling and excitement gripped them. They didn’t talk to anybody, because they were afraid.
+
+The Report of the Women
+
+and Peter and John’s Visit to the Tomb
+
+(Lk 24:9-12; Jn 20:2-10)
+
+The women left the tomb and reported all this to the eleven and the rest. (They were Mary Magdalene, Joanna; Mary, mother of James; and others with them.) 2Mary Magdalene [in particular] ran to Simon Peter and the disciple Jesus loved, “They’ve taken the Lord out of the tomb, and we don’t know where they put him.”
+
+3So Peter and the other disciple ran to the tomb. 4The other disciple outran Peter and got there first. 5He stooped down and saw the linen wrappings lying there, but didn’t go in.
+
+6Then Simon Peter got there and went on in, and saw the linen wrappings 7and the facecloth they’d put over his head. It wasn’t lying with the linen wrappings; it was folded up off by itself. 8Then the other disciple went in and saw, and believed. 9They didn’t yet understand the scripture that he had to rise from the dead. 10So they went back to their quarters perplexed.
+
+Appearance to Mary the Magdalene
+
+([[Mk 16:9-11]] Jn 20:11-18)
+
+[[9After he’d resurrected early on the first day of the week, he appeared first to Mary the Magdalene, that he’d cast seven demons out of.]]
+
+11She stood outside the tomb crying. As she was crying, she stooped down and looked in the tomb. 12She saw two angels in white, sitting at the head and foot of where Jesus’ body had lain.
+
+13They said, “Ma’am, why are you crying?”
+
+“They’ve taken my Lord, and I don’t know where they’ve put him.” 14When she’d said this, she turned around and saw Jesus standing there, but didn’t recognize him.
+
+15“Ma’am, why are you crying? Who are you looking for?”
+
+She supposed he was the gardener, “Sir, if you’ve carried him off, tell me where you’ve put him, and I’ll take him away.”
+
+16Jesus said, “Mary.”
+
+She turned around and said in Hebrew, “Rabbi [Teacher]!”
+
+17Jesus said, “You don’t need to cling to me. I haven’t gone up to the Father yet. Go tell my disciples, ‘I’m going up to my Father and yourpl Father, my God and yourpl God.’”
+
+18Mary went and [[10reported it to the ones that had been with him, who were mourning and crying.]], “I’ve seen the Lord,” and what he’d told to her to say. [[11When they heard he was alive and she’d seen him, they didn’t believe it.]]
+
+The Appearance to the Other Women
+
+(Mt 28:8-10)
+
+8They left the tomb quickly with fear and great excitement, and ran to tell his disciples. 9Jesus met them and said, “Hello.” They came and took hold of his feet and worshiped him. 10Then Jesus said, “You don’t need to be afraid. Go give my brothers the message to go to Galilee. They’ll see me there.”
+
+The Report of the Guard (Mt 28:11-15)
+
+11While they were going, some of the guards went in the city and reported to the chief priests what happened. 12When they got together with the elders and took counsel, they gave a large number of silver coins to the soldiers, 13“Say, ‘His disciples came during the night while we were asleep and stole him.’  14If the governor hears about this, we’ll persuade him and keep you out of trouble.” 15They took the silver coins and did as they were told. That story has spread among the Jews to this day.
+
+Appearance to Two on the Way to Emmaus
+
+([[Mk 16:12-13]]; Lk 24:13-32)
+
+13That same day [[he appeared in a different form to]] two disciples as they were traveling to Emmaus, a village about seven miles from Jerusalem. 14They were talking about everything that had happened. 15Meanwhile Jesus caught up with them, 16but they didn’t recognize him.
+
+17He said, “What were you talking about as you were walking?”
+
+18One named Cleopas said, “Are you the only one visiting Jerusalem that doesn’t know what happened there lately?”
+
+19“What?”
+
+“About Jesus of Nazareth, a prophet powerful in deed and word before God and all the people. 20The chief priests and our rulers delivered him over to the death sentence and had him crucified. 21We were hoping he was the One that would redeem Israel. On top of everything, it’s been three days since that happened, 22but some women from our number astounded us. They’d arrived at the tomb early this morning. 23When they didn’t find his body, they came and said they’d seen a vision of angels, who said he was alive. 24Some with us went to the tomb and found it the way the women had said, but they didn’t see him.”
+
+25He said to them, “Foolish people and slow to believe everything the prophets have said, 26wasn’t it necessary for the Messiah to suffer these things and enter his glory?” 27He started with Moses and the prophets, and explained to them all the scriptures what referred to him.
+
+28They got close to where they were going, and he acted like he was going on. 29But they urged him, “Stay with us; it’s toward evening, and the day’s almost over.” So, he went in with them.
+
+30While he was reclining at table with them, he took bread, blessed it, broke it, and handed it to them. 31They recognized him, and he disappeared. 32They said to each other, “Didn’t our hearts burn [in us]ms while he was talking to us on the road and explaining the scriptures to us?”
+
+Report of the Two (Lk 24:33-35);
+
+Appearance to Peter (1 Cor 15:5)
+
+33They got up right then and went back to Jerusalem and found the eleven together and the ones with them. 34They told the two that the Lord really had resurrected and appeared to Simon. 35They in turn recounted what happened on the road, and how they recognized him when he broke the bread.
+
+Appearance to the Ten
+
+([[Mk 16:14]] Lk 24:36-43; Jn 20:19-23)
+
+36As they were talking about this, [[reclining at table]], Jesus himself stood among them, “Peace to you.” 37They were startled and scared, and thought they were seeing a spirit. [[He chided them for their resistance to believing the ones that had seen him resurrected.]]
+
+38“Why are you unsettled? Why are you wondering what’s going on? 39See my hands and my feet; it’s really me. Touch me and see. A spirit doesn’t have flesh and bones as you can see I have.” 40He showed them his hands and his feet. 41They couldn’t believe it.
+
+While they were marveling, he said, “Do you have any food here?” 42They gave him a piece of baked fish. 43He took it and ate it in front of them.
+
+Appearance to the Eleven
+
+(Jn 20: 24-31; cp 1 Cor 15:5)
+
+24Thomas, one of the twelve, called Didymus, wasn’t with them when Jesus came. The other disciples told him, “We’ve seen the Lord!”
+
+25But Thomas said, “Unless I see the imprints from the spikes in his wrists and put my finger in them and put my hand in his side, I’m not believing this.”
+
+26Eight days later, his disciples were behind locked doors again. Jesus came and stood among them, “Peace to you.” 27He said to Thomas, “Look at my wrists; put your finger here. Put you hand in my side. Don’t keep on disbelieving.”
+
+28Thomas answered, “My Lord and my God!”
+
+29Jesus said, “You believe because you’ve seen? They’re blessed who believe and haven’t seen.”
+
+30Jesus did an endless number of signs in front of his disciples that I haven’t recorded here. 31I’ve written these so you’ll believe he’s the Messiah, God’s Son, and have life because you believe in him.
+
+Appearance to the Seven
+
+by Lake Galilee (Jn 21:1-23)
+
+21:1After this, Jesus appeared again to his disciples at Lake Tiberias. 2Simon Peter, Thomas, Nathanael from Cana in Galilee, the sons of Zebedee, and two other disciples were together.
+
+3Simon Peter said, “I’m going fishing.”
+
+“We’ll go with you.”
+
+They went out and got in the boat, and that night they didn‘t catch anything. 4When morning was coming, Jesus stood on the shore, but the disciples didn’t know it was him.
+
+5“Children, you haven’t had anything to eat, have you?”
+
+“No.”
+
+6“Cast the net on the right side of the boat; you’ll find some.”
+
+So they did, and they couldn’t haul it in for the number of fish.
+
+7The disciple Jesus loved said to Peter, “It’s the Lord!”
+
+When Simon Peter heard it was the Lord, he put on his outer garment (he’d stripped down) and dived in the water. 8The rest of the disciples came in the small boat, because they weren’t far from land—only about three hundred feet away, dragging the net full of fish. 9When they got out of the boat, they saw a charcoal fire with a fish and a loaf laid on it.
+
+10Jesus told them, “Bring some of the fish you just caught.”
+
+11Simon Peter got up and pulled the net up on land full of large fish—153. Although there were so many, the net didn’t tear.
+
+12Jesus said, “Come and eat breakfast.”
+
+None of the disciples dared to ask him, “Who are you?” They knew it was the Lord. 13Jesus gave them the bread and the fish. 14This was a third time Jesus appeared to his disciples after he resurrected.
+
+15When they’d finished breakfast, Jesus said, “Simon Barjonah, do you love me more than these do?”
+
+“Yes, Lord, you know I love you.”
+
+“Tend my lambs.”
+
+16He said the second time, “Simon Barjonah, do you love me?”
+
+“Yes, Lord, you know I love you.”
+
+“Tend my sheep.”
+
+17He said the third time, “Simon Barjonah, do you love me?”
+
+It pained Peter that Jesus said a third time, “Do you love me?” He said, “Lord, you know everything; you know I love you.”
+
+18Jesus told him, “Tend my sheep. When you were younger, you’d dress yourself and walk wherever you wanted to. When you get old, you’ll stretch out your hands, and somebody else will dress you and carry you where you don’t want to go.” (19He said this to indicate by what kind of death he would glorify God.) When he’d said this, he said to him. “Follow me.”
+
+20When Peter turned around, he saw the disciple Jesus loved, following, who had leaned back on Jesus’ chest at the supper and said, “Lord, who’s going to betray you?” 21Peter said, “Lord, what about him?”
+
+22Jesus said, “If I want him to live till I come back, what’s that to you? You follow me.”
+
+23So the idea got going among the brothers that he wouldn’t die. But Jesus didn’t say he wouldn’t die; he said, “If I want him to live till I come back, what’s that to you?”
+
+The Appearance to Five Hundred (1 Cor 15:6)
+
+The Great Commission (Mt 28:16-20)
+
+16The eleven disciples went to Galilee to the mountain Jesus had said. 17When they saw him, they worshiped him, but some doubted. 18He came to them and said, “All authority has been given to me in heaven and on earth. 19Go make disciples in every country. Baptize them into the name of the Father, Son, and Holy Spirit; 20and teach them to observe everything I’ve commanded you. I’ll always be with you till the end of the age.”
+
+Appearance in Jerusalem:
+
+the Great Commission Repeated [[Mk 16:15-18]]
+
+[[15He told them, “Go all over the world and tell the good news to everybody. 16Whoever believes and is baptized will be saved, but whoever disbelieves will be condemned. 17These signs will follow the ones that believe:
+
+they’ll cast out demons in my name;
+
+they’ll speak in new languages;
+
+18they’ll pick up snakes and
+
+if they drink anything deadly, it won’t hurt them;
+
+they’ll lay hands on sick people and they’ll recover.”]]
+
+The Appearance to James (1 Cor 15:6)
+
+Appearance to the Disciples
+
+with Further Commission (Lk 24:36-49; cp. Acts 1:3-8)
+
+44He said, “This is what I told you when I was still with you: everything the scripture says in the law of Moses, the prophets, and the Psalms about me would be fulfilled.” 45Then he opened their mind to understand the scriptures. 46“The scripture says the Messiah would suffer, and resurrect the third day, 47and that in his name repentance for forgiveness would be preached in every country. Beginning in Jerusalem, 48you’re witnesses of these matters. 49I’ll send on you what the Father promised. But, stay in the city till I clothe you with power from on high.”
+
+The Ascension (Lk 24:50-53)
+
+50He led them out as far as Bethany. He lifted up his hands and blessed them. 51While he was blessing them, he was carried up into the sky, 19[[and sat down on God’s right hand]]. 52They [worshiped him and]ms returned to Jerusalem full of joy, 53and were continually in the temple, praising God.
+
+Epilogue ([[Mk 16:20;]]; Jn 21:24-25)
+
+20[[They went out and proclaimed the good news everywhere, and the Lord worked with them and confirmed the message with a the signs that followed.]]
+
+24I’m the disciple that wrote this. I know what I’m telling you is true. 25Jesus did a lot of other things. If every one was written down, I suppose the world couldn’t hold the books.
+
+translator
+
+christir.org

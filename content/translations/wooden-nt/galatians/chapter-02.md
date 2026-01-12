@@ -1,0 +1,16 @@
+---
+book: Galatians
+chapter: 2
+next: chapter-03
+prev: chapter-01
+title: Galatians 2
+translation: WNT
+type: chapter
+weight: 2
+---
+
+## Galatians Chapter 2
+
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Then after fourteen years again I-went-up to Jerusalem with Barnabas, also taking┘Titus└along. 2But I-went-up by revelation and I-put-before them the gospel that I-was-preaching among the Gentiles, but privately to-the reputed-ones lest somehow I-would-be-running or had-run in vain. 3But not-even Titus the-one with me, being (a) Greek, was-compelled to-be-circumcised. 4But because-of secretly-come-in false-brothers, who-slipped-in to-spy-out the liberty of-us that we-have in Christ Jesus, in-order-that they-would-bring┘us└into-bondage, 5to-whom not-even for (an) hour did-we-yield to-[the] subjection, in-order-that the truth of-the gospel might-remain with you. 6But from the-ones reputed to-be something—whatever at-the-time they-were matters nothing to-me; [the] God does┘not└receive (the) face of-(a)-man—for the reputed-ones added nothing to-me. 7But to-the-contrary, seeing that I-had-been-entrusted-with the gospel of-the uncircumcision as Peter (with the gospel) of-the circumcision—8for the-one having-worked for-Peter in (the) apostleship of-the circumcision also worked for-me in the Gentiles—9and, knowing the grace [the] given to-me, James and Cephas and John, the reputed to-be pillars, gave to-me and to-Barnabas (the) right (hands) that we (might go) to the Gentiles, and they to the circumcision; 10only in-order-that we-might-remember the poor, which also I┘myself└was-eager to-do this.</span>
+
+<span class="verse" id="v11"><sup class="verse-num">11</sup> And when Cephas came to Antioch, I-opposed him to (the) face because he-was condemned. 12For before [the] certain-ones came from James, he-was-eating with the Gentiles; but when they-came, he-began-to-withdraw and was-separating himself, fearing the-ones of-the circumcision; 13and the remaining/rest-of-(the) Jews joined-with┘him└in-the-hypocrisy, so-that even Barnabas was-led-astray by-the hypocrisy of-them. 14But when I-saw that they-were┘not└walking-straight in-reference-to the truth of-the gospel, I-said to-[the] Peter before all, "If you, being (a) Jew, live like-Gentiles and not like-Jews—how do you-compel [the] Gentiles to-live-like-Jews? 15We, (being) Jews by-nature and not sinners of (the) Gentiles, 16and knowing that (a) man is┘not└justified by works of-law, but2 through faith of-Jesus Christ, even we believed in Christ Jesus in-order-that we-might-be-justified by faith of-Christ and not by works of-law, because all flesh will┘not└be-justified by works of-law. 17And if, trying to-be-justified in Christ, we┘ourselves└are-found sinners, then (is) Christ (a) minister of-sin? May-it┘not└be! 18For if I-build again these-things that I-destroyed, I-make myself (a) transgressor. 19For through the Law I died to-(the)-law, in-order-that I-might-live to-God. I-have-been-crucified-with Christ. 20But I no-longer live, but Christ lives in me. And what now I-live in (the) flesh, I-live by faith [the] of-the Son of-[the] God, the-one having-loved me and given himself on-behalf-of me. 21I-do┘not└nullify the grace of-[the] God. For if righteousness (is) by law, then Christ died needlessly."</span>

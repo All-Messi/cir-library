@@ -1,0 +1,9627 @@
+---
+author: Virgil Warren, PhD
+categories:
+- Bible Resources
+date: '2026-01-11'
+draft: false
+title: THE CONVERSATIONAL NEW TESTAMENT
+weight: 1
+---
+
+THE CONVERSATIONAL NEW TESTAMENT
+
+MATTHEW
+
+The Genealogy of Jesus (cp. Lk 3:23-38)
+
+1:1The genealogy of Jesus the Messiah, son of David, son of Abraham
+
+2Abraham, father of		Isaac, father of	  	Jacob, father of
+
+Judah and his brothers;
+
+3Judah was father of	Peres and Zerah by Tamar;
+
+Peres was father of 	Hezron, father of
+
+Ram, 4father of		Amminadab, father of	Nahshon, father of
+
+Salmon, 5father of		Boaz by Rahab;
+
+Boaz was father of	Obed by Ruth;
+
+Obed was father of
+
+Jesse, 6father of		David the king.
+
+David was father of
+
+Solomon by his wife, who
+
+had been Uriah’s wife. 	7Solomon was father of	Rehoboam, father of
+
+Abijah, father of 		Asaph, 8father of	Jehoshaphat, father of
+
+Joram, father of		Uzziah, 9father of	Jotham, father of
+
+Ahaz, father of		Hezekiah, 10father of	Manasseh, father of
+
+Amos, father of		Josiah, 11father of	Jechoniah and his brothers
+
+at the exile to Babylon.
+
+12After the exile,
+
+Jechoniah was father of 	Shealtiel, father of	Zerubbabel, 13father of
+
+Abiud, father of		Eliakim, father of	Azor, 14father of
+
+Zadok, father of		Achim, father of	Eliud, 15father of
+
+Eleazar, father of		Matthan, father of	Jacob, 16father of Joseph
+
+husband of Mary,
+
+who gave birth to Jesus,
+
+called Messiah.
+
+17There are 14 generations from Abraham to David,
+
+14 from David to the exile in Babylon, and
+
+14 from the exile to Messiah.  	Mt 1:1-17
+
+Jesus’ Birth Announced to Joseph
+
+18This is how the birth of Jesus the Messiah took place. His mother Mary was engaged to Joseph. Before they got married, it was discovered that she was pregnant (by the Holy Spirit). 19Joseph, her husband, was a just man and not willing to disgrace her publicly, so he intended to break off the engagement privately. 20As he was struggling with the matter, an angel of the LORD appeared in a dream, “Joseph son of David, don’t have qualms about marrying her. She’s pregnant by the Holy Spirit. 21She’ll have a son you’re to name Jesus, because he’ll ‘save’ his people from their sins.” 22That fulfilled what the LORD had said by the prophet Isaiah,
+
+23“A virgin will have a son
+
+they’ll call Emmanuel (‘God with us’)” [Is 7:14].
+
+24Joseph got up and did what the angel said, 25but didn’t have relations with her till she had a son; he named him Jesus.		    			         	        	      	        Mt 1:18-25
+
+The Visit of the Magi
+
+2:1When Jesus was born in Bethlehem, Judaea, during the reign of King Herod, Magi from the East arrived in Jerusalem, 2“Where’s the newborn king of the Jews? In the East we saw his star and have come to pay him homage.” 3That disturbed Herod and the whole city as well. 4He called in the chief priests and scribes of the people and asked them where the Messiah was to be born.
+
+5They said, “In Bethlehem, Judaea. The prophet wrote,
+
+6‘You, Bethlehem, Judah,
+
+are by no means least among the leading cities of Judah,
+
+because a leader will come out of you
+
+to shepherd my people Israel’” [Mic 5:2].
+
+7Herod privately called the Magi to find out when the star had appeared, 8and sent them to Bethlehem, “Look for the child carefully. When you find him, let me know so I can come and pay him homage too.”
+
+9So they started out, and the star they’d seen back East started going ahead of them till it stood above where the child was. 10When they saw the star, they were elated. 11They went into the house and saw the child with Mary his mother and bowed down in homage to him. They opened their treasure chests and brought him gold, frankincense, and myrrh. 12God warned them in a dream not to go back to Herod, so they took a different route home.	Mt 2:1-12
+
+The Flight to Egypt
+
+the Slaughter of the Infants
+
+13When they’d gone, an angel of the LORD appeared to Joseph in a dream, “Get up and hurry to Egypt with the child and his mother. Stay there till I tell you. Herod intends to look for the child to destroy him.” 14Joseph got up during the night and took them to Egypt. 15He stayed there till Herod died—in keeping with what the LORD said by the prophet,
+
+“I’ve called my son out of Egypt” [Hos 11:1].
+
+16When Herod saw the Magi had tricked him, he was enraged and had all the male children killed in and around Bethlehem—the ones two years old and under as figured from the time the Magi told him. 17That paralleled what the prophet Jeremiah said,
+
+18“A sound was heard in Ramah,
+
+weeping and bitter crying;
+
+Rachel was weeping for her children.
+
+She wouldn’t be consoled;
+
+they were gone” [Jer 31:15].	Mt 2:13-18
+
+The Return from Egypt and Settlement in Nazareth
+
+19After Herod died, the angel appearedp to Joseph in a dream in Egypt, 20“Get up and take the child and his mother to Israel. The ones that were trying to kill him have died.” 21He got up and took them to Israel; 22but when he heard that Archelaus was ruling Judaea in place of his father Herod, he was afraid to go there. God warned him in a dream, and he withdrew into Galilee 23and settled down in a town called Nazareth. That name sounds like what the prophets said he’d be: a Nazarene [nezer, shoot; Is 11:1; 53:2]lit.	    Mt 2:19-23
+
+The Beginning of John’s Ministry
+
+3:1In time, John the Baptist camep preaching in the desert in Judaea, 2“Repent, the kingdom of heaven’s coming.” 3He’s the one Isaiah spoke about:
+
+“One shouting in the desert,
+
+‘Get the road ready for the LORD!
+
+Make it straight!’” [Is 40:3]
+
+4John wore clothes woven from camel’s hair with a leather belt around his waist and lived on locusts and wild honey. 5People from Jerusalem, all over Judaea, and around the Jordan River were going out 6to have him baptize them in the Jordan as they confessed their sins.     	Mt 3:1-6
+
+An Example of John’s Preaching
+
+7When John saw lots of Pharisees and Sadducees coming to his baptism, he said,
+
+“You bunch of poisonous snakes! Who warned you to flee from God’s wrath to come? 8Bear fruit appropriate for repentance. 9Don’t think, ‘Abraham’s our father.’ God can raise up descendants of Abraham from these rocks. 10An axe is already lying at the base of the trees. Every tree that doesn’t bear good fruit will be chopped down and burned. 11I’m immersing you in water to repentance. The One who’s coming after me is greater than me; I’m not worthy to take his sandals off. He’ll ‘immerse’ you in the Holy Spirit and fire. 12His winnowing fork is in his hand, and he’ll thoroughly clean up his threshing floor. He’ll put the grain in his granary but burn up the chaff with a fire you can’t put out.” 	 Mt 3:7-12
+
+The Baptism of Jesus
+
+13Then Jesus camep from Galilee to the Jordan to have John baptize him. 14But John tried to stop him, “I need you to baptize me, and you’re coming to me?”
+
+15Jesus answered, “Let’s do this; it’s appropriate to do everything that’s right.” So John went aheadp and baptized him.
+
+16When he’d baptized him, Jesus came up from the water and the sky opened up, and John saw God’s Spirit come down on Jesus like a dove. 17A voice came out of the sky, “This is my dearly loved Son that I delight in.”	 Mt 3:13-17
+
+The Temptation of Jesus
+
+4:1Then the Spirit led Jesus into the desert to be tempted by the devil. 2After fasting 40 days, he was hungry, 3and the tempter came, “If you’re God’s Son, tell these stones to become loaves of bread.”
+
+4But he answered,
+
+“People aren’t to live by bread only,
+
+but by everything God says” [Deut 8:3].
+
+5The devil tookp him to the Holy City and stood him on the pinnacle of the Temple, 6“If you’re God’s Son, throw yourself down. Scripture says,
+
+‘He’ll tell his angels to catch you
+
+so you’ll never trip over a rock’” [Ps 91:11-12].
+
+7Jesus said, “Again scripture says,
+
+‘Don’t tempt the LORD your God’” [Deut 6:16].
+
+8The devil tookp him to a tall mountain and showedp him the kingdoms of the world and their splendor, 9“If you kneel down and worship me, I’ll give you all this.”
+
+10Jesus saidp, “Go away, Satan. Scripture says,
+
+‘Worship the LORD your God,
+
+and only serve him’” [Deut 6:13].
+
+11The devil leftp, and angels came to give him support. 	Mt 4:1-11
+
+Introductory Statements About the Galilean Ministry
+
+12When Jesus heard that John had been arrested, he withdrew into Galilee, 13and moved from Nazareth to Capernaum by the lake in the region of Zebulun and Naphtali. 14That fulfills what Isaiah the prophet said,
+
+15“Land of Zebulun, land of Naphtali,
+
+by the road along the lake,
+
+by the Jordan,
+
+Galilee of the Gentiles—
+
+16people that lived in darkness
+
+have seen a bright light.
+
+It has dawned on those who lived
+
+in a region of deep darkness” [Is 9:1-2].
+
+17From then on, Jesus preached, “Repent; the kingdom of heaven’s coming.”   Mt 4:12-17
+
+Calling Four Fishermen
+
+18As he was walking along Lake Galilee, he saw two brothers, Simon called Peter, and Andrew. They were casting nets into the lake; they were fishermen. 19He toldp them, “Come with me, and I’ll have you ‘fishing’ for people.” 20Right away, they left their nets and went with him.
+
+21He went on from there and saw two more brothers, James and John, sons of Zebedee, in a boat with their father, mending nets; and he called them. 22At once, they left the boat and their father and went with him.	Mt 4:18-22
+
+The First General Tour of Galilee
+
+23He started going all over Galilee, teaching in their synagogues, delivering the good news about the kingdom, and healing all kinds of disease and illness among the people. 24The news about him spread all over Syria, and they brought him people that were ill, people distressed with various sicknesses and pains, demoniacs, epileptics, paralytics; and he healed them. 25Big crowds followed him from Galilee, Decapolis, Jerusalem, Judaea, and beyond the Jordan. 										          Mt 4:23-25
+
+The Sermon on the Mount**
+
+5:1When he saw the crowd, he went up on a hillside and sat down. His disciples joined him, 2and he started teaching:
+
+3“Poor people are fortunate spiritually;
+
+they have the kingdom of heaven.
+
+4“People in mourning are fortunate;
+
+comfort will come.
+
+5“Humble people are fortunate;
+
+they’ll inherit the earth.
+
+6“People that are hungry and thirsty for righteousness are fortunate;
+
+they’ll be satisfied.
+
+7“Merciful people are fortunate;
+
+they’ll receive mercy.
+
+8“People that are pure in heart are fortunate;
+
+they’ll see God.
+
+9“Peacemakers are fortunate;
+
+they’ll be called God’s children.
+
+10“People persecuted for living right are fortunate;
+
+they have the kingdom of heaven.	Mt 5:1-10
+
+11“When people insult you, mistreat you, say all kinds of bad things about you falsely because of me, you are fortunate. 12Be glad, because you have a great reward in heaven. They treated the prophets the same way.
+
+13“You are the salt of the earth; but if salt loses its saltiness, what can make it salty? It’s not good for anything but to throw out for people to walk on. 14You are the light of the world. A city on a hill can’t hide. 15Nobody lights a lamp and sticks it under a basket; they put it on a stand, and it gives light to everybody in the house. 16Let your light shine so people can see the good things you’re doing and praise your Father in heaven.
+
+17“Don’t get the impression that I’m here to destroy the Law or the Prophets. I’m not here to destroy them, but to fulfill them. 18Earth and sky will pass away, but not one iota or one serif* will pass away from the Law till it’s fully accomplished its purpose. 19Whoever breaks one of its least commandments and teaches people to do that, is least in the kingdom of heaven; but whoever does and teaches them is great in that kingdom. 20Unless the way you live is better than the way the scribes and Pharisees live, you won’t even get into the kingdom of heaven.	Mt 5:11-20
+
+21“You’ve heard that God said long ago, ‘Do not commit murder’ [Ex 20:13; Deut 5:17]; ‘whoever commits murder faces condemnation.’ 22I’m telling you, anybody that’s mad at someone faces judgment. Whoever says, ‘You good for nothing . . .’ has the court to face. Whoever says, ‘You idiot,’ faces a burning hell. 23So if you’re taking your gift to the altar and remember your brother has something against you, 24leave it at the altar and go reconcile with him. Then come and offer your gift. 25Come to terms with your opponent quickly while you’re on the way to court with him so he doesn’t deliver you to the judge, and the judge turn you over to the court assistant, and he put you in jail. 26You won’t get out till you pay the last penny.
+
+27“You’ve heard, ‘Do not commit adultery’ [Ex 20:14; Deut 5:18]. 28I’m telling you, anybody that looks at a woman to lust for her has already committed adultery with her in his heart. 29If your right eye is causing you problems, gouge it out and throw it away. It’s better to lose one part of your body than for your whole body to get thrown into hell. 30If your right hand is causing you problems, cut it off and throw it away. It’s better to lose one part of your body than for your whole body to go to hell.	Mt 5:21-30
+
+31“It’s been said, ‘Whoever divorces his wife has to give her divorce papers” [Deut 24:1]. 32I’m telling you, whoever divorces his wife—except for adultery—is treating her like an adulteress, and whoever marries a divorced woman commits adultery.
+
+33“Again, you’vepl heard that God said long ago, ‘Dosg not swear falsely’; ‘perform yoursg oaths to the LORD’ [Lev 19:12; Num 30:3; Deut 23:21]. 34I’m telling youpl not to swear at all—not by heaven, it’s God’s throne; 35not by the earth, it’s his footstool; not by Jerusalem, it’s the city of the Great King; 36not by your head, you can’t make one hair white or black. 37Just say ‘yes, I will’ or ‘no, I won’t’; anything more than that comes from the evil one.	Mt 5:31-37
+
+38“You’ve heard, ‘An eye for an eye,’ ‘a tooth for a tooth’ [Ex 21:24; Lev 24:20; Deut 19:21]. 39I’m telling you not to try to get even with evil. Whoever slaps you on the right cheek, offer the other one too. 40If somebody sues you for your shirt, give them your coat too. 41If somebody makes* you go one mile, go with them two. 42Give to whoever asks you, and don’t turn away from anybody that wants to borrow from you.
+
+43“You’ve heard, ‘Love yoursg neighbor [Lev 19:18], and hate your enemy.’ 44I’m telling youpl to love your enemies and pray for people that mistreat you 45so you can be like your Father in heaven. He raises his sun on the good and the bad, and sends rain on the just and the unjust. 46If you love the people that love you, what’s special about that? Don’t tax collectors do that? 47If you just say ‘Hi’ to your buddies, what’s special about that? Don’t even pagans do that? 48You be perfect like your Father. 	Mt 5:38-47
+
+6:1“Be careful about practicing yourpl goodness in public so people will see you. Otherwise, you won’t have any reward from your Father in heaven.
+
+2“When yousg donate to benevolence, don’t blow a trumpet like the hypocrites do in the synagogues and on the streets so people will admire them. They have all the reward they’re going to get. 3When you donate to benevolence, don’t let your left hand know what your right hand’s doing. 4That will keep your benevolence will be private, and your Father who sees private things will reward you.
+
+5“When youpl pray, don’t do like the hypocrites. They like to pray standing in the synagogues and on the street corners so people will see them. I tell youpl, they have all the reward they’re going to get. 6When yousg pray, go to your private room, shut the door, and pray in private. Your Father, who sees private things, will reward you. 	Mt 6:1-6
+
+7“When youpl pray, don’t say things over and over like pagans do. That doesn’t mean anything. They think they’ll be listened to because they say lots of words. 8Don’t do that. Your Father knows what you need before you ask. 9You pray this way,
+
+‘Our Father in heaven,
+
+you are holy.
+
+10May your kingdom come,
+
+and your will be done
+
+on earth like it is in heaven.
+
+11Give us our days food today.
+
+12Forgive us of our debts
+
+like we’ve forgiven our debtors.
+
+13Keep us from facing temptation;
+
+deliver us from the evil one,
+
+[because the kingdom, power, and glory
+
+belong to you forever. Amen.]ms
+
+14If youpl forgive people, your heavenly Father will forgive you. 15If you don’t, he won’t forgive you. 	Mt 6:7-15
+
+16“When youpl fast, don’t do like the hypocrites. They neglect their appearance to show people they’re fasting. That’s all the reward they’re going to get. 17When yousg fast, anoint your head and wash your face 18so you won’t be showing people you’re fasting. Your Father who sees secret things will reward you.
+
+19“Don’t save up wealth on earth, where moths and rust ruin things, and thieves break in and steal them. 20Save up wealth in heaven, where moths and rust don’t ruin it, and thieves don’t break in and steal it. 21Your heart will be where your wealth is.
+
+22“The eyes are the body’s lamp. If you have good eyes, your whole body will have light. 23If your eyes are bad, your whole body will be in the dark. If the light that’s in you is darkness, that’s serious darkness! 	Mt 6:16-23
+
+24“Nobody can serve two masters. You’ll disregard one and be loyal to the other. You can’t serve God and money. 25So don’t worry about what you’ll eat or drink or what you’ll wear. Isn’t life more than food and the body more than clothes?
+
+26“Look at the birds in the sky. They don’t plant or harvest or gather into barns, but your heavenly Father feeds them. Aren’t you worth more than birds? 27Which one of you, by worrying, can make yourself a foot and a half taller? 28Why worry about clothes? Look how wild flowers grow. They don’t spin or toil, 29but Solomon in all his splendor didn’t dress like one of them. 30If God dresses the plants in the field that way—here today and thrown in an oven tomorrow—won’t he much more dress you, you with little faith?
+
+31“So don’t worry about what you’re going to eat or what you’re going to wear. 32Gentiles strain after things like that. Your heavenly Father knows you need them. 33Strive after his kingdom and his goodness, and they’ll come along with it. 34Don’t worry about tomorrow; it will worry about itself. 	Mt 6:24-34
+
+7:1“Don’t criticize and youpl won’t get criticized. 2The criticism youpl criticize with, you’llpl be criticized by; the measure youpl measure with, you’llpl be measured by. 3Why looksg at a speck of sawdust in somebody else’s eye, and not see the log in yoursg own? 4How can yousg say, ‘Let me get the piece of sawdust out of yoursg eye,’ when there’s a log in yours!? 5You foolish people, getsg the log out of your own eye so yousg can see to get the speck of sawdust out of theirs.
+
+6“Don’t give sacred things to dogs or throw your pearls in front of pigs. They’ll trample them under their feet and turn on you and tear you apart.
+
+7“Ask and you’ll get, seek and you’ll find, knock and it’ll open for you. 8People that ask get, people that seek find, and people that knock it opens for. 9If your boy asked for a loaf of bread, you wouldn’t give him a rock, would you? 10If he asked for a fish, would you give him a snake? 11If you, who are sinful, know how to give good gifts to your kids, how much more will your Father in heaven give good things to people that ask him? 12Treat other people the way you want them to treat you. That covers the Law and the Prophets.	Mt 7:1-12
+
+13“Go through the narrow gate. It’s a broad road and a wide gate that leads to destruction, and many go through it. 14How narrow the path is and tight the gate that leads to life! Not many find it.
+
+15“Watch out for false prophets that come to you in wool, but inside they’re wolves. 16You can recognize them by what they produce. People don’t gather grapes from thorns or figs from thistles, do they? 17-18Good trees bear good fruit; bad trees bear bad fruit. 19Every tree that doesn’t bear good fruit gets chopped down and thrown into the fire. 20So, you can recognize them by what they produce.
+
+21“Not everybody that says to me ‘Lord’ is going to get into the kingdom of heaven. It’s the ones that do the will of my Father in heaven. 22A lot of people will try to say to me in that day, ‘Lord, didn’t we prophesy in your name, cast out demons in your name, and do lots of miracles in your name?’ 23I’ll tell them, ‘I never knew you. Go away, sinners.’	Mt 7:13-23
+
+24“Everybody that hears what I’m saying and does it, is like a wise man that built his house on bedrock. 25Rain fell, floods came, winds blew and beat on it; but it didn’t collapse. He’d built it on bedrock.
+
+26“Everybody that hears what I’m saying and doesn’t do it, is like a foolish man that built his house on sand. 27Rain fell, floods came, winds blew and beat on it, and it collapsed—a total loss.”
+
+28When Jesus finished, the crowd was amazed at his teaching. 29He taught them like somebody that had authority, not like their scribes.	Mt 7:24:29
+
+Cleansing a Leper
+
+8:1When Jesus came down from the hillside, big crowds followed him. 2A leper came and knelt down to him, “Sir, if you’re willing, you can cleanse me.”
+
+3Jesus reached out and touched him, “I’m willing; be cleansed.” Instantly his leprosy disappeared. 4Jesus toldp him, “Don’t tell anybody. Instead, for a public statement, show yourself to a priest and offer the gift Moses commanded.”	Mt 8:1-4
+
+Healing the Centurion’s Servant
+
+5He went to Capernaum, and a centurion came and appealed to him, 6“Sir, my servant is laid up at home paralyzed and tormented terribly.”
+
+7Jesus saidp, “I’ll come and heal him.”
+
+8But the centurion answered, “I don’t deserve to have you under my roof. Just say the word, and my servant will be healed. 9I’m under authority myself, with soldiers under me. I say, ‘Go.’ and they go; to another, ‘Do this,’ and he does it.”
+
+10Jesus was impressed and told the people that were following him, “I haven’t found faith like that in Israel. 11Lots of people will come from the east and west, and recline at table with Abraham, Isaac, and Jacob in the kingdom of heaven; 12but citizens of the kingdom will be thrown out into the dark. There’ll be crying and chattering of teeth.”
+
+13He told the centurion, “Go on, it’ll happen according to your faith.” His servant was cured the same hour. 	Mt 8:5-13
+
+Teaching and Miracles in Capernaum
+
+14Jesus went to Peter’s house and saw his mother-in-law in bed with a fever. 15He touched her hand and the fever left. She got up and started waiting on him.
+
+16That evening, people brought him a number of demon-possessed people, and he cast the spirits out with a word. 17As Isaiah the prophet said,
+
+“He took our weaknesses
+
+and bore our illnesses” [Is 53:4]. 	Mt 8:14-17
+
+A Conversation About Following Jesus
+
+18When Jesus saw a crowd around him, he gave instructions to leave for the other side of the lake.
+
+19A scribe came, “Rabbi, I’ll go with you wherever you go.”
+
+20Jesus saidp, “Foxes have dens and birds have nests, but the Son of Man doesn’t have a place to lay his head.”
+
+21Another of his disciples said, “Let me go bury my father first.”
+
+22“Come on with me; let the dead bury their dead.”	Mt 8:18-22
+
+Stilling the Storm
+
+23He got in the boat, and his disciples left with him. 24A dangerous storm came up, and the waves were beginning to splash into the boat. He was sleeping. 25The disciples went and woke him up, “Lord, help us! We’re going to die!”
+
+26“Why are you so scared? Where’s your faith?” He got up and rebuked the wind, and a general calm settled in.
+
+27They were astounded, “What kind of man is this who can even make the wind and waves obey?” 	        Mt 8:23-27
+
+Healing the Gadarene Demoniac
+
+28When he got to the region of the Gadarenes on the other side, two demon-possessed men from the tombs met him. They were so vicious nobody dared to go around there. 29They started crying out, “What is this, you Son of God? Did you come to torment us ahead of time?”
+
+30A little way off a tremendous herd of pigs was feeding. 31The demons begged, “If you’re going to cast us out, send us into the pigs.”
+
+32“Go ahead.”
+
+They went into the pigs, and the whole herd stampeded down the steep place into the lake and drowned. 33The herdsmen ran away to town and reported everything, including what had happened to the demoniacs. 34The whole town came out to meet Jesus. When they saw him, they begged him to leave.	    Mt 8:28-34
+
+Healing a Paralyzed Man
+
+9:1They got in the boat and crossed back over to his town. 2Some men were trying to bring him a paralyzed man on a stretcher. When he saw their faith, he said to the man, “Take heart, son; I’ve forgiven your sins.”
+
+3Some of the scribes said to themselves, “He’s blaspheming!”
+
+4Jesus knew what they were thinking, “Why are you thinking critical things? 5Which is easier, to say, ‘I’ve forgiven your sins’ or ‘Get up and walk’? 6So you can know that the Son of Man has the right on earth to forgive sins”—he saidp to the man, “Get up, pick up your stretcher, and go home.” 7He got up and went home. 8When the crowd saw it, they were afraid and praised God for giving such authority to mortals. 	Mt 9:1-8
+
+Calling Matthew;
+
+Controversy About Table Fellowship
+
+9Jesus went along from there and saw a man called Matthew sitting at the tax booth, and saidp, “Come with me.” He got up and went with him. 10While he was reclining at table in Matthew’s house, many tax collectors and sinners came and reclined at table with Jesus and his disciples. 11When the Pharisees saw it, they started saying, “Why is your Rabbi eating with tax collectors and sinners?”
+
+12He overheard it, “Healthy people don’t need a doctor; sick ones do. 13Go figure out what this means, ‘I want mercy more than sacrifice’ [Hos 6:6]. I didn’t come so much to call good people, as to call sinners.”	Mt 9:9-13
+
+Questions About Fasting
+
+14Then John’s disciples came, “Why do we and the Pharisees fast often, but your disciples don’t fast?”
+
+15Jesus said,
+
+“The groomsmen can’t feel sad while the groom is around, can they? The time’s coming when the groom will be taken away. They’ll fast then. 16Nobody puts a patch of unshrunk cloth on an old garment. The new material would pull away from the old garment and make the tear worse. 17People don’t put new wine in old wineskins. The wineskins would burst and be ruined, and the wine would drain out. They put new wine in new wineskins, and both are preserved.”
+
+Mt 9:14-17
+
+Healing a Woman from Hemorrhaging;
+
+Raising of Jairus’ Daughter
+
+18While he was saying that, a ruler came and knelt to him, “My daughter has just died. If you come and put your hand on her, she’ll come back to life.” 19Jesus and his disciples followed him.
+
+20A woman with chronic bleeding for 12 years came up behind him and touched the fringe of his cloak. 21She said to herself, “If I can just touch his cloak, I’ll be cured.”
+
+22Jesus turned and saw her, “It’s okay, daughter, your faith has cured you.” She was cured from then on.
+
+23Jesus went into the ruler’s house and saw flute players and a crowd making an uproar, 24“You can go; the girl’s not dead; she’s ‘asleep.’” They started to ridicule him. 25When he’d put them out, he went in and took the girl’s hand and raised her up. 26That news about the miracle got out into the whole area.	Mt 9:18-26
+
+Healing Two Blind Men and a Mute
+
+Man with a Demon
+
+27As Jesus was leaving, two blind men followed him, shouting, “Son of David, have mercy on us!” 28When he went into the house, they came to him. Jesus said, “Do you believe I can do this?”
+
+“Yes.”
+
+29Jesus touched their eyelids, “Let it happen according to your faith”; 30and they could see. Jesus strictly warned them to keep this to themselves. 31But they went out and spread the news about him all over that area.
+
+32As they were leaving, people brought him a demon-possessed man that couldn’t talk. 33When Jesus had cast out the demon, the man could speak. The crowd was amazed, “Nothing like this has ever happened in Israel.” 34The Pharisees were claiming he was casting out demons by the ruler of demons.   	 Mt 9:27-34
+
+The Mission of the Twelve;
+
+Jesus’ Third Tour of Galilee
+
+35Jesus was traveling around the towns and villages, teaching in their synagogues, delivering the good news about the kingdom, and healing all kinds of disease and illness. 36When he saw the crowds, he felt sorry for them. They were stressed and scattered like sheep without a shepherd. 37He toldp his disciples, “There’s a big crop to harvest, but there aren’t many workers. 38Ask the harvest foreman to put more workers in his harvest.”	Mt 9:35-38
+
+10:1He called his twelve disciples together and gave them authority to cast out unclean spirits and heal all kinds of disease and illness. 2These are the twelve apostles: Simon called Peter; his brother Andrew; James son of Zebedee, his brother John, 3Philip, Bartholomew, Thomas, Matthew the tax collector, James son of Alphaeus, Thaddaeus, 4Simon the Cananaean, and Judas Iscariot, who also betrayed him in the end.
+
+5Jesus sent out these twelve,
+
+“Don’t go out among Gentiles or to any Samaritan town. 6Go to the lost sheep in Israel. 7As you go, say, ‘The kingdom of heaven is coming.’ 8Heal the sick, raise the dead, cleanse lepers, cast out demons. You’ve received at no charge; give at no charge.
+
+9“Don’t get any gold, silver, or copper coins for your money belts. 10Don’t get a traveler’s bag, a staff, shoes, or two shirts for the trip. Workers deserve their wages.	 Mt 10:1-10
+
+11“Whatever town or village you go into, find out who’s worthy in it, and stay at that place till you leave. 12When you go into a house, greet it. 13If the house is worthy, let your peace rest on it. If not, take it back.
+
+14“Whoever doesn’t welcome you or listen to what you have to say, go outside that house or town and shake the dust off your feet. 15On judgment day it’ll be more bearable for Sodom and Gomorrah than for that town.
+
+16“I’m sending youpl out like sheep among wolves, so be as subtle as snakes and harmless as doves. 17Watch out for people, because they’ll deliver you up to the courts and flog you in their synagogues. 18They’ll take you in front of governors and kings because of me as a testimony to them and the Gentiles. 19When they deliver you up to the courts, don’t worry about how or what to say. It’ll come to you at the time. 20You won’t be the ones talking; your Father’s Holy Spirit will be speaking in youpl.
+
+21“Brothers will betray brothers to death; fathers will betray sons. 22Everybody will hate you because of me. Whoever stays with it to the end will be saved. 23When they persecute you in one town, flee to the next. You won’t get around to all the towns in Israel before the Son of Man comes. 	Mt 10:11-23
+
+24“Students have it no better than their teachers, and servants have it no better than their masters. 25It’s enough for a student to become like the teacher and a servant to be like the master. If they’ve called the head of the house Beelzebub, how much worse the members of his household.
+
+26“Don’t be afraid of them. Everything that’s covered up will become public; everything that’s hidden will come out n the open. 27What I tell you in the dark, say in the light; what’s whispered in your ear, announce from the housetops. 28Don’t be afraid of people that kill the body but can’t kill the soul. Be more afraid of the One that can kill both soul and body in hell. 29Aren’t two sparrows sold for a dollar, and not one of them falls to the ground without your Father knowing it? 30The very hairs on your head are all numbered, 31so don’t be afraid; you’re worth more than lots of sparrows.
+
+32“Everybody that acknowledges me to other people,
+
+I’ll acknowledge to my Father in heaven.
+
+33Whoever denies who I am to other people,
+
+I’ll deny to my Father in heaven as belonging to me.	Mt 10:24-33
+
+34“Don’t think I’ve come to bring peace to the earth.
+
+I didn’t come to bring peace, but a sword, 35to turn
+
+son ‘against father,’
+
+‘daughter against mother,’
+
+‘daughter-in-law against mother-in-law.’
+
+36‘People’s enemies will be in their own houses’ [Mic 7:6].
+
+37“If you loves father or mother more than me, you don’t deserve me.
+
+If you love son or daughter more than me you don’t deserve me.
+
+38If you don’t pick up your cross and follow me, you don’t deserve me.
+
+39If you find your life, you’ll lose it;
+
+if you lose your life over me, you’ll find it.
+
+40“Anyone that receives you receives me;
+
+Anyone that receives me receives the One that sent me.
+
+41If you receive a prophet as a prophet,
+
+you’ll receive a prophet’s reward.
+
+If you receive good people as good people,
+
+you’ll receive a good person’s reward.
+
+42If you give one of these little ones
+
+even a cup of cool water as a disciple,
+
+you’ll certainly receive reward.”
+
+11:1When Jesus had finished giving his disciples directions, he went off to teach and preach in their towns.    	Mt 10:34-11:1
+
+John’s Question and
+
+Jesus’ Comments on John
+
+2In prison John heard what the Messiah was doing and sent disciples 3to ask him, “Are you the One to come or should we wait for somebody else?”
+
+4Jesus answered them, “Tell John what you’re seeing: 5the blind see, the lame walk, lepers are cleansed, the deaf hear, the dead resurrect, and the poor are hearing the good news. 6He is blessed that’s not disappointed in me.”
+
+7While they were leaving, Jesus started talking to the crowd about John,
+
+“What did you go out to the desert to see? A reed waving in the wind? 8What did you go out to see? Somebody dressed in fine clothes? People that wear fine clothes live in palaces. 9What did you go out to see? A prophet? Oh yes, and more than a prophet. 10He’s the one scripture refers to,
+
+‘I’ll send my messenger ahead of you
+
+to get the road ready for you’ [Ex 23:20; Mal 3:1].
+
+11I’m telling you, nobody that’s ever been born is greater than John the Baptist, but the least in the kingdom of heaven is greater than him. 12From his time till now, violent people have been trying to bring in the kingdom of heaven by force. 13All the Prophets and the Law prophesied till John. 14If you’re ready to accept it, he is the Elijah that was to come. 15Whoever has ears, listen! 	Mt 11:2-15
+
+16“What are people like today? They’re like kids sitting in a marketplace, calling out to one another,
+
+17‘We played a flute for you, but you didn’t dance.
+
+We wept, but you didn’t mourn.’
+
+18John came, not eating or drinking, and people said, ‘He’s got a demon.’ 19The Son of Man came eating and drinking, and they say, ‘A glutton and a drunk, a pal of tax collectors and sinners.’ Wisdom is vindicated by what it produces.”
+
+Mt 11:16-19
+
+Cities Denounced for Unbelief:
+
+The Great Invitation
+
+20He began to denounce the towns where many of his miracles had happened, because they didn’t repent.
+
+21“Woe to you, Chorazin! Woe to you, Bethsaida! If the miracles that happened in you had happened in Tyre and Sidon, they would’ve repented long ago in burlap and ashes. 22On judgment day, it’ll be more bearable for them than for you.
+
+23“And you, Capernaum, you won’t rise up to heaven, will you? You’ll go down to hell. If the miracles that took place in you had happened in Sodom, they’d still be here. 24On judgment day, it’ll be more bearable for the area around Sodom than for you.”
+
+25Then Jesus said,
+
+“I praise you, Father, Lord of heaven and earth, for hiding these things from the wise and intelligent, and revealing them to the innocent. 26Yes, you delighted in doing it that way.”
+
+27“The Father has handed everything over to me, and nobody knows the Son but the Father, and nobody knows the Father but the Son and whoever the Son wants to reveal him to.
+
+28“All of you that labor and carry heavy loads, come to me; you’ll get some rest. 29Put my yoke on and learn about me. I’m gentle and humble, and you’ll get relief. 30My yoke fits right, and my load is light.”  	 Mt 11:20-30
+
+Another Controversy About Breaking Sabbath
+
+12:1At that time, Jesus was walking along through grain fields on the Sabbath. His disciples were hungry and started picking off heads of wheat and eating the seeds.
+
+2When some Pharisees saw it, they said, “Your disciples are breaking the Law.”
+
+3He said, “You’ve read, haven’t you, what David and his men did when they needed food? 4He went into God’s house, and he and his men ate the consecrated loaves that were against the Law for him and his men to eat, loaves that were only for priests. 5Or, you’ve read in the Law, haven’t you, how the priests in the Temple desecrate Sabbath and remain innocent? 6Something more important than the Temple is here. 7If you’d known what this means, ‘I want mercy more than sacrifice’ [Hos 6:6], you wouldn’t have criticized innocent people. 8A person is more important than the Sabbath.”lit	Mt 12:1-8
+
+Healing a Man with a Paralyzed Hand
+
+9He left and went into their synagogue. 10A man with a paralyzed hand was there, and they asked Jesus if it was lawful to heal on a Sabbath (so they could accuse him).
+
+11He said, “Wouldn’t any of you pull your sheep out that fell in a ravine on a Sabbath? 12A person’s worth more than a sheep. So, it’s lawful to do good on a Sabbath.”
+
+13Then he told the man, “Hold out your hand.” It was restored like the other one. 14The Pharisees went out and plotted to destroy him. 	Mt 12:9-14
+
+Jesus and the Multitudes:
+
+Teaching and Healing
+
+15Jesus knew it and left. Many [crowds]ms followed him, and he healed them all 16and charged them not to expose him—17in fulfillment of what Isaiah the prophet said,
+
+18“My servant that I’ve chosen,
+
+my dearly loved one I delight in—
+
+I’ll put my Spirit on him,
+
+and he’ll render justice for the nations.
+
+19He won’t quarrel or shout;
+
+nobody will hear him in the streets.
+
+20He won’t break a bent reed
+
+or put out smoking flax,
+
+till he brings justice to victory.
+
+21The nations will put their hope in him” [Is 42:1-4].	 Mt 12:15-21
+
+Pharisees’ Charge That Jesus Was
+
+in League with the Devil
+
+22They brought Jesus a demon-possessed blind mute, and he healed him; he could speak and see. 23The crowds were astounded, “This isn’t the Son of David, is it?”
+
+24When the Pharisees heard about it, they said, “He casts out demons by Beelzebub, the ruler of demons.”
+
+25He knew what they were thinking and told them,
+
+“Every kingdom at cross purposes with itself becomes desolate; no city or family at cross purposes with itself will stand. 26If Satan casts out Satan, he’s at cross purposes with himself; how would his kingdom stand? 27If I cast out demons by Beelzebub, who do your students cast them out by? Judge for yourselves.
+
+28“If I cast out demons by God’s Spirit, then God’s kingdom has reached you. 29How can somebody go into a strong man’s house and seize his property unless he ties him up first? Then he can ransack his house.
+
+30“Whoever’s not with me is against me, and whoever doesn’t gather with me scatters around. 31So, every sin and blasphemy can be forgiven except blasphemy against the Spirit. 32Whoever insults me can be forgiven, but whoever blasphemes the Holy Spirit won’t be forgiven in this age or the next.
+
+33“Consider a tree and its fruit good or bad together, because by its fruit a tree is known to be good or bad. 34You bunch of poisonous snakes! How can you bad people say good things? The mouth says what the heart holds. 35A good person brings good things out of his good treasure; a bad person brings out bad things.
+
+36“At the judgment, people will account for every off-handed comment they make. 37What you say will justify you or condemn you.”   	Mt 12:22-37
+
+Scribes and Pharisees Demand a Sign
+
+38Some scribes and Pharisees answered, “Rabbi, we want to see you do a sign.”
+
+39He answered them,
+
+“A sinful, adulterous generation is straining to see a sign, but it won’t get one—except the sign of the prophet Jonah. 40As ‘Jonah was in the stomach of the sea monster for three days and nights’ [Jon 1:17], the Son of Man will be in the ground for three days and nights. 41The people of Nineveh will stand up in the judgment with people from today and condemn them. They repented at Jonah’s preaching; something greater than Jonah is here. 42The queen of the South will rise up in the judgment with people from today and condemn them; she came from the ends of the earth to hear Solomon’s wisdom; something greater than Solomon is here.
+
+43“When an unclean spirit leaves someone, it wanders through desert places looking for rest and doesn’t find any. 44It says, ‘I’m going back to the house I left.’ It goes and finds it empty, swept out, and decorated. 45Then it takes seven spirits worse than itself, goes in and takes up permanent residence. The person’s last condition is worse than the first. That’s how it’ll be with today’s bad people.”	      Mt 12:38-45
+
+Jesus’ Mother and Brothers
+
+Interrupt His Ministry
+
+46While Jesus was talking to the crowd, his mother and brothers were standing outside of the crowd, trying to get to him to talk to him. 47Someone told him, “Your mother and your brothers have been standing outside, trying to get to talk to you.”
+
+48He answered the person, “Who’s my mother? Who are my brothers?” 49He held out his hand toward his disciples, “My mother and my brothers! 50My brother, my sister, my mother is whoever does the will of my Father in heaven.”	Mt 12:46-50
+
+The Sermon in Parables
+
+13:1Jesus left the house that day and sat down by the lake. 2So many people were gathering that he got in a boat and sat down while the crowd stood on the shore. 3He told parables for a long time.
+
+“A sower went out to sow his seed. 4As he sowed, some seed fell along the path, and birds came along and ate it.
+
+5“Some fell on rocky ground. It sprouted up right away because there wasn’t much soil. 6But when the sun climbed high, the seed dried up because it didn’t have roots.
+
+7“Some fell among thorns, and the thorns grew up and choked it out.
+
+8“But others fell on good ground and yielded 30, 60, or 100 times as much as he planted.
+
+9“Whoeer has ears, listen!”	Mt 13:1-9
+
+10The disciples came and asked, “Why are you telling them parables?”
+
+11“Because you’re allowed to know unrevealed things about the kingdom of heaven, but they’re not. 12Whoever has, will receive; whoever doesn’t have, will lose even what he has. 13That’s why I’m telling them parables: though they see, they don’t see; though they hear, they don’t hear or understand. 14They illustrate the way Isaiah describes them:
+
+‘You can certainly see, but don’t understand;
+
+you can certainly hear, but don’t perceive,
+
+15because you’ve become insensitive;
+
+you’re hard of hearing and
+
+you’ve closed your eyes
+
+so you don’t see or hear,
+
+understand or change
+
+so I can heal you’ [Is 6:9-10]. 	Mt 13:10-15
+
+16“But your eyes are fortunate because they see; and your ears, because they hear. 17Many prophets and good people have wanted to see what you’re seeing and didn’t see it, and to hear what you’re hearing and didn’t hear it.
+
+18“You listen, then, to the parable about the sower.
+
+19“People that hear the message about the kingdom and don’t understand it are the ones the devil comes to and snatches what was planted in their heart: they’re the seed sown along the path.
+
+20“Seed sown on rocky soil represents people that hear the message and right away are glad to accept it, 21but they don’t have root in themselves and don’t last. When difficulties or persecution come because of the message, they give up their faith right away.
+
+22“Seed sown among thorns represents people that hear the message, and the cares of the world and the deception of wealth choke it out, and it doesn’t produce anything.
+
+23“Seed sown on good ground represents people that hear the word and understand it, who produce 30, 60, 100 times as much as sown.” 	 Mt 13:16-23
+
+24He presented another parable.
+
+“The kingdom of heaven is like a man that sowed clean seed in his field. 25While people were sleeping, his enemy came and sowed darnels in the wheat. 26When the plants grew and began to mature, the darnels appeared too. 27The servants came to the owner, ‘Master, didn’t you plant clean seed in your field? Where’d darnels come from?’
+
+28“The owner said, ‘An enemy has done this.’
+
+“‘Do you want us to go pull them up?’
+
+29“‘No, that would uproot the wheat too. 30Let them both grow till harvest. I’ll tell the reapers, “Gather up the darnels first and bundle them to burn, but gather the wheat into my granary.”’
+
+31“The kingdom of heaven is like a mustard seed a fellow planted in his garden. 32What’s the smallest of seeds, when grown, is bigger than the garden plants and becomes a tree, so birds come and build nests in its branches.
+
+33“The kingdom of heaven is like yeast a woman put in a bushel of meal till the whole bushel had risen.”
+
+34Jesus taught the crowd these things only in parables 35like the prophet said,
+
+“I’ll speak to them in parables
+
+and tell them things not revealed since the founding of the world”
+
+[Ps 78:2].	        Mt 13:24-35
+
+Further Private Instruction in Parables
+
+36When he left the crowd and went into the house, his disciples came, “Explain the parable about the darnels in the field.”
+
+37Jesus answered,
+
+“The One who sowed the clean seed is the Son of Man, 38the field is the world, the clean seed is the people of the kingdom, the darnels are the ones belong ing to the evil one, 39the enemy that sowed them is the devil, 40the harvest is the end of the age, the reapers are angels. 41The darnels are gathered and burned just like it’ll be at the end of the age: the Son of Man will send his angels to rid his realm of evil people and everything that makes people stumble, 42and throw them in the furnace. There’ll be crying and gritting teeth there. 43Good people will shine like the sun in their Father’s kingdom. Whoever has ears, listen!
+
+44“The kingdom of heaven is like a treasure a man found hidden in a field. He hid it again and in his excitement wentp and soldp everything he had and boughtp that field.
+
+45“The kingdom is like a businessman that was looking for valuable pearls. 46When he found a really valuable one, he sold everything he had and bought it.
+
+47“The kingdom’s like a net cast into the sea that gathers all kinds of fish. 48When it’s full, the fishermen pull it up on the shore and sit down. They put the good ones in containers and throw the bad ones away. 49That’s how it’ll be at the end of the world. The angels will come and separate the bad from the good, 50and throw them into the furnace. There will be crying and gritting of teeth there.
+
+51“Do you understand?”
+
+“Yes.”
+
+52“So, every scribe that’s become a disciple in the kingdom is like a homeowner that brings out of his holdings things new and old.”
+
+53When Jesus had finished those parables, he left.    	Mt 13:36-53
+
+Last Visit to Nazareth
+
+54When he came to his hometown; he began to teach them in their synagogue. They were astonished, “Where’d he get that wisdom and those miracles? 55Isn’t Mary his mother? Aren’t James, Joseph, Simon, and Judas his brothers? 56Aren’t his sisters all with us? Where’d he get all that?” 57They were put off by him.
+
+He told them, “A prophet is respected everywhere but at home.” 58He didn’t do many miracles there because of their lack of faith.	Mt 13:54-58
+
+Herod’s Conscience Stricken;
+
+Confusion of John the Baptist and Jesus
+
+14:1Herod the tetraarch heard about Jesus 2and told his servants, “That’s John the Baptist, risen from the dead. That’s why he has miraculous powers.” 3Herod had arrested John, bound him, and put him in prison over Herodias, his brother Philip’s former wife. 4John kept telling him, “It’s against the Law for you to be living with her.” 5Although Herod wanted to put him to death, he was afraid of the people. They considered John a prophet.
+
+6But when Herod’s birthday came, Herodias’ daughter danced at the banquet, and it pleased Herod. 7So he solemnly swore to give her whatever she asked for. 8Prompted by her mother, she said, “Give me here the head of John the Baptist on a platter.” 9Although the king was grieved, because of the oaths and those reclining at table with him, he commanded it to be given. 10He had John beheaded in the prison. 11They brought his head and gave it to the girl, and she took it to her mother. 12John’s disciples came and took the corpse and buried it, and went to tell Jesus. 	Mt 14:1-12
+
+Feeding the 5,000
+
+13When he heard the news, he withdrew by boat into open country privately. The crowds heard where he was going and followed him on foot from the towns. 14When he got out, he saw a large crowd and felt sorry for them and healed their sick.
+
+15In the evening his disciples came, “Nobody lives around here, and it’s getting late. Dismiss the crowd so they can go to the villages and buy food.”
+
+16Jesus said, “They don’t need to leave. Feed them.”
+
+17“We only have five loaves and two fish.”
+
+18“Bring them here.”
+
+19He told the crowd to sit down on the grass. He took the five loaves and two fish, looked up to heaven and blessed them, broke them up for the disciples to give to the crowd. 20Everybody ate their fill, and the disciples picked up twelve medium-sized baskets of leftovers. 21About 5,000 men had eaten—plus women and children.       	 Mt 14:13-21
+
+Jesus Walking on the Water
+
+22He urged the disciples to get in the boat right way and go on to the other side of the lake while he dismissed the crowd. 23When he’d dismissed them, he went up on the hill by himself to pray. When evening came, he was there alone. 24The boat was already a long way from land, and waves were bashing it because the wind was against them. 25About 4 in the morning, he went to them, walking on the lake. 26When they saw him, they were terrified. “It’s a ghost!” they cried out in fear.
+
+27At once Jesus spoke, “It’s me. Don’t be afraid.”
+
+28Peter responded, “If it’s you, tell me to come to you on the water.”
+
+29“Come on.”
+
+Peter got down out of the boat and started walking to Jesus on the water. 30But when he saw the strong wind, he got scared and started to sink. He cried out, “Save me!”
+
+31At once Jesus reached out and grabbed him, “One with little faith, why did you doubt?”
+
+32When they climbed up into the boat, the wind died down. 33The ones in the boat bowed to him, “You really are God’s Son!”	Mt 14:22-33
+
+Miracles at Gennesaret
+
+34When they got across, they landed at Gennesaret. 35The people recognized him and sent out into that whole area for everybody that was sick. 36They pleaded with him just to let them touch the fringe of his cloak. As many as touched him were cured.	Mt 14:34-36
+
+Attack by the Jerusalem Pharisees
+
+About Traditions
+
+15:1Then Pharisees and scribes camep from Jerusalem, 2“Why don’t your disciples keep the tradition of the elders? They don’t wash their hands before they eat.”
+
+3He answered them,
+
+“Why do you transgress God’s commandment with your tradition? 4A case in point:  God said, ‘Honor your parents’ [Ex 20:12; Deut 5:16], and ‘Execute whoever cusses at his father or mother’ [Ex 21:17]. 5But you say, ‘Whoever says to his father or mother, “I’ve given God what you could have used,” 6certainly wouldn’t be honoring his father. You’ve negated God’s word with your tradition. 7You foolish people, Isaiah described you well,
+
+8‘These people honor me with their lips,
+
+but their heart is far from me.
+
+9They worship me without meaning it,
+
+and teach their rules as doctrines’” [Is 29:12 LXX].
+
+10He called the crowd, “Listen and get this. 11It’s not what goes into your mouth that defiles you, but what comes out of it.”
+
+12Then the disciples came to him, “Do you realize you offended the Pharisees with what you said?”
+
+13“Every plant my heavenly Father hasn’t planted will be pulled up. 14Let them alone; they’re blind guides of the blind. If the blind guides the blind, they both fall into the ditch.”
+
+15Peter said, “What does your illustration mean?”
+
+16“Youpl still don’t understand either? 17You do know, don’t you, that everything that goes into your mouth goes into your stomach and is eliminated in the toilet. 18But what comes out of your mouth comes from your heart. That’s what defiles you. 19Evil thoughts, murder, adultery, sexual immorality, stealing, lying, insults come from your heart. 20They are what defile you. Not washing your hands when you eat doesn’t defile you.”	 Mt 15:1-20
+
+Healing the Syrophoenician Woman’s Daughter
+
+21Jesus left for the territory around Tyre and Sidon. 22A Canaanite woman there began to shout, “Have mercy on me, Lord, Son of David! My daughter’s cruelly demon-possessed!” 23But Jesus didn’t answer her.
+
+His disciples came and asked him, “Send her away; she keeps shouting behind us.”
+
+24He answered her, “I was just sent to the lost sheep in Israel.”
+
+25But she came and bowed down, “Help me, Lord.”
+
+26“It’s not right to take the kids’ food and toss it to the house dogs.”
+
+27“Yes, but even house dogs eat the crumbs that fall from their owners’ table.”
+
+28“Dear woman, you have strong faith. Have what you asked for.” Her daughter was healed from then on.	Mt 15:21-28
+
+Ministry in Decapolis;
+
+Feeding the 4,000
+
+29Jesus crossed Lake Galilee and went up on a hill and sat down. 30Big crowds came with lame, blind, disabled, mute, and other conditions, and put them by him to heal them. 31They were amazed at seeing the mute speak, the crippled cured, the lame walk, the blind see; and they praised Israel’s God.
+
+32Jesus called his disciples to him, “I feel for the crowd. They’ve stayed with me three days without anything to eat. I don’t want to send them away hungry for fear they’ll give out on the way.”
+
+33His disciples saidp, “Where can we get enough bread out in the country to satisfy such a crowd?”
+
+34“How many loaves do you have?”
+
+“Seven—and a few small fish.”
+
+35He had the crowd sit down on the ground. 36He took the seven loaves and the fish, blessed them, and broke them up for the disciples to pass out to the crowd. 37They all ate their fill, and the disciples picked up seven large baskets of leftover pieces. 384,000 men ate—besides women and children. 39After he dismissed them, he got in a boat and went to the area around Magadan.	Mt 15:29-39
+
+Visit to Magadan;
+
+Demand for a Sign from the Sky
+
+16:1The Pharisees and Sadducees came, testing him, asking for a sign from the sky.
+
+2He answered, “When evening comes, you say, ‘It’ll be fair weather; the sky’s red.’ 3In the morning, ‘It’ll be bad weather today; the sky’s red and dark.’ You can read the sky, but you can’t read the signs of the times. 4An sinful, adulterous generation keeps looking for a sign, but it’s not going to get one—except for the sign of Jonah.” He left. 	Mt 16:1-4
+
+Fourth Withdrawal East of the Lake;
+
+Warning to the Disciples
+
+5The disciples went to the other side of the lake and had forgotten to take bread. 6Jesus told them, “Watch out for the ‘yeast’ from the Pharisees and Sadducees.”
+
+7They started talking among themselves, “He said that because we didn’t bring any bread.”
+
+8Jesus knew it, “Men with little faith, why are you talking about not having any bread? 9Don’t you understand or remember the 5 loaves for the 5,000 and how many medium-sized baskets full you picked up, 10or the 7 loaves for the 4,000 and how many large baskets full you picked up? 11How do you not know I wasn’t talking about bread!? Watch out for the ‘yeast’ from the Pharisees and Sadducees.” 12Then they got it; he hadn’t warned them about the yeast in bread, but about the teaching of the Pharisees and Sadducees. 	Mt 16:5-12
+
+Peter’s Great Confession
+
+13When Jesus came into the area around Caesarea Philippi, he asked his disciples, “Who are people saying the Son of Man is?”
+
+14“John the Baptist, Elijah, Jeremiah, one of the prophets.”
+
+15“Who do you say I am?”
+
+16Simon Peter said, “You’re the Messiah, the Son of the living God.”
+
+17“Bless you, Simon Barjonah. You didn’t get that from other people, but from my heavenly Father. 18As sure as you’re ‘Peter,’ I’ll build my church on that ‘rock.’ Even the gates of the grave won’t be strong enough to stop it. 19I’ll give yousg the keys to the kingdom of heaven. Whatever you lock up on earth will be locked up in heaven, and whatever you unlock on earth will be unlocked in heaven.” 20Then he charged them not to tell anybody he was the Messiah.
+
+Mt 16:13-20
+
+The First Prediction of His Death
+
+21From then on Jesus started showing his disciples that he had to go to Jerusalem; suffer many things from the elders, chief priests, and scribes; be put to death, and resurrect the third day.
+
+22But Peter pulled him aside and got after him, “That’s not going to happen to you!”
+
+23But Jesus turned away from him, “Get behind me, Satan. You’re being a stumbling block to me. You don’t have God’s interests in mind, but people’s interests.”
+
+24Then he told his disciples,
+
+“If anybody wants to follow me, he has to set his own interests aside, pick up his cross, and follow me. 25Whoever wants to save his life will lose it, and whoever loses it over me will find it. 26What good does it do to get the whole world and lose your life? What will you give in exchange for your life? 27The Son of Man will come in the glory of his Father with his angels. 28Some people standing here won’t die before they see the Son of Man coming in his kingdom.
+
+Mt 16:21-28
+
+The Transfiguration
+
+17:1Six days later, Jesus tookp Peter, James, and his brother John up on a tall mountain by themselves 2and was transfigured in front of them. His face glowed like the sun, and his clothes turned as white as light. 3Moses and Elijah appeared to them and were talking to him.
+
+4Peter responded, “Lord, it’s good to be here. If you want, I’ll put up three tents—one each for you and Moses and Elijah.”
+
+5While he was still talking, a bright cloud engulfed them, and a voice said, “This is my dearly loved Son that I delight in. Listen to him.”
+
+6When the disciples heard it, they fell on their faces terrified. 7Jesus came and touched them, “Get up; don’t be afraid.” 8They looked up and didn’t see anybody but Jesus. 	Mt 17:1-8
+
+Discussing the Vision
+
+9As they were coming down the mountain, Jesus impressed on them, “Don’t tell anybody what you saw till I’ve resurrected from the dead.”
+
+10The disciples asked, “Why do the scribes say Elijah has to come first?”
+
+11“Elijah does come first to restore everything. 12He’s already come, and they didn’t recognize him. They treated him however they wanted to. That’s the way it’ll be, too, when the I suffer at their hand.” 13Then they caught on that he was talking about John the Baptist. 	Mt 17:9-13
+
+Healing a Demoniac Boy
+
+14When they got to the crowd, a man came up to Jesus and fell on his knees, 15“Sir, have mercy on my boy. He suffers badly with epilepsy. He falls into the fire and the water. 16I brought him to your disciples, but they couldn’t heal him.”
+
+17“Unbelieving, perverse bunch, how long am I going to be with you? Bringpl him to me.” 18Jesus rebuked the demon, and it came out of him. The child was healed from then on.
+
+19The disciples came to Jesus privately, “Why couldn’t we cast it out?”
+
+20“Because your faith was weak. If you have faith the size of a mustard seed, you can tell this mountain to move from here to there, and it’ll move. You can do anything. [[21“This kind doesn’t come out except by prayer and fasting.”]]ms  	Mt 17:14-21
+
+Third Prediction of His Death
+
+22While they were together in Galilee, Jesus said, “I’m going to be betrayed. 23They’ll put me to death, but I’ll resurrect on the third day.” That really distressed them.	Mt 17:22-23
+
+Jesus and the Temple Tax
+
+24As he was going into Capernaum, those who collect the didrachma came to Peter, “Your Rabbi pays the didrachma, doesn’t he?”
+
+25“Yes.”
+
+When he came in the house, Jesus spoke first, “What do you think, Simon? Who do kings exact tribute from—citizens or foreigners?”
+
+26When Peter said, “Foreigners,”
+
+Jesus said, “So citizens are exempt. 27But we don’t want to make them stumble. Go to the lake and throw in a fishhook. Take the first fish you catch and open its mouth. You’ll find a stater. Give it to them for you and me.”	 Mt 17:24-27
+
+Discussion About Rank;
+
+18:1At that time the disciples came to Jesus, “Who’s greatest in the kingdom of heaven?”
+
+2He called a little child and stood him in front of them,
+
+3“Unless you change and become like little children, you won’t even get into the kingdom. 4Whoever humbles himself like this little child is greatest in the kingdom of heaven, 5and whoever receives a little child like this in my name, receives me.    	Mt 18:1-5
+
+The Question of Stumbling Blocks
+
+6“Whoever makes a little one stumble that believes in me, would be better off to have a large millstone hung around their neck and drown in the sea. 7Woe to the world because of temptations. They’ll come, but woe to the ones that bring them. 8If yoursg hand or foot causes you problems, cut it off and throw it away. It’s better to go about life deformed or lame than to have two hands and two feet to be thrown into the eternal fire. 9If yoursg eye is causing you problems, gouge it out and throw it away. It’s better to go about life with one eye than to have two eyes to be thrown into the burning hell.
+
+10“Make sure youpl don’t look down on one of these little ones. I tell youpl, their angels in heaven can always see my heavenly Father. [11]ms 12What do youpl think? If a man has 100 sheep and one wanders off, doesn’t he leave the 99 on the hillside and go looking for the stray? 13If he finds it, he’s happier over it than over the 99 that didn’t stray. 14In the same way, your heavenly Father doesn’t want a one of these little ones to perish.	Mt 18:6-14
+
+Mistreatment and Forgiveness
+
+15“If yoursg brother sins against you, go show him his fault privately. If he listens, you’ve gained him back. 16If he doesn’t, take one or two with you so ‘two or three witnesses will confirm everything’ [Deut 19:15]. 17If he won’t listen, tell the church. If he won’t even listen to the church, regard him like a Gentile or a tax collector.
+
+18“Whatever youpl bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven. 19Again, if two of you agree on earth about anything you ask for, it’ll happen for you from my Father in heaven. 20Where two or three gather in my name, I’m with them.” 	Mt 18:15-20
+
+21Then Peter came and asked, “How many times should I forgive someone that sins against me? Up to 7 times?”
+
+22Jesus saidp, “I wouldn’t say up to 7; I’d say up to 77.”
+
+23“The kingdom of heaven is like a king that wanted to settle accounts with his servants. 24As he was making the settlements, one debtor was brought to him that owed 10,000 talents. 25Since he couldn’t repay it, the lord commanded his wife, children, and everything he owned to be sold to make the repayment. 26The servant prostrated himself and pleaded with him, ‘Be patient with me, and I’ll repay it all.’ 27The lord felt sorry for him, let him go, and forgave his debt.
+
+Mt 18:21-27
+
+28“That servant went out and found a fellow servant that owed him 100 denarii. He grabbed him and began to choke him, ‘Pay me what you owe me.’ 29His fellow servant fell down and began to beg him, ‘Be patient with me, and I’ll pay you back.’ 30But he wasn’t willing. He put him in prison till he’d paid what he owed.
+
+31“His fellow servants were deeply grieved and reported to their lord what happened. 32His lord called him in, ‘Evil servant, I forgave you all that debt when you begged me. 33Shouldn’t you have been merciful with your fellow servant like I was with you?’ 34His lord was angry and turned him over to the torturers till he’d pay everything he owed.
+
+35“My heavenly Father will do the same thing to youpl unless you forgive your fellow believer from your heart.”	Mt 18:28-35
+
+Jesus in Perea;
+
+Teaching About Divorce
+
+19:1When Jesus finished, he left Galilee and went into the regions of Judaea on the other side of the Jordan. 2Big crowds followed him, and he healed them there.
+
+3Pharisees came to him, testing him, “Is it lawful to divorce a wife for any reason whatever?”
+
+4He answered, “You’ve read, haven’t you, that ever since the beginning the Creator ‘made them male and female’? [Gen 1:27; 5:2] 5So ‘a man is to leave his parents and unite with his wife, and they’ll become a physical unit’ [Gen 2:24]. 6So, they’re no longer two but one. What God has united, people are not to separate.”
+
+7They said, “So why did Moses command ‘to give a certificate of divorce and send her away?” [Deut 24:1]
+
+8“Because of your hardheartedness, Moses let you divorce your wives, but ever since the beginning it’s not been that way. 9Whoever divorces his wife—except for sexual immorality—and marries someone else, is committing adultery.”
+
+10His disciples saidp, “If that’s the way it is, it’s better not to get married.”
+
+11Jesus said, “Not everybody can live that way—only the ones who have that gift. 12Some are eunuchs from birth, some are made eunuchs by men, and some have made themselves ‘eunuchs’ because of the kingdom of heaven. Let him accept it that can accept it.”  	Mt 19:1-12
+
+Jesus and the Little Children
+
+13At the time, people were bringing their kids so Jesus could lay hands on them and pray. But the disciples fussed at them.
+
+14Jesus said, “Let the kids alone. Don’t get in their way. The kingdom of heaven is made up of people like them.”
+
+15He laid hands on them and left.	Mt 19:13-15
+
+The Rich Young Ruler
+
+16A man came and said, “Rabbi, what good can I do to have eternal life?”
+
+17He said, “Why are you asking me about what’s good? There’s only One that’s good. But if you want to enter eternal life, keep the commandments.”
+
+18“Which ones?”
+
+Jesus said, “‘Do not commit murder, commit adultery, steal, or lie’; 19‘honor father and mother,’ ‘Love your neighbor as yourself’” [Ex 20:12-16; Deut 5:16-20].
+
+20The young man saidp, “I’ve kept all of those. What do I still need to do?”
+
+21“If you want to be perfect, go sell what you own and give it to the poor, and you’ll have wealth in heaven. Come with me.”
+
+22When he heard that, he went away discouraged because he was in possession of lots of things. 	Mt 19:16-22
+
+The Peril of Wealth
+
+23Jesus said to his disciples, “Wealthy people have a hard time getting into the kingdom of heaven. 24It’s easier for a camel to go through a needle’s eye than for someone rich to get into God’s kingdom.”
+
+25That really surprised them, “Then who can be saved?”
+
+26Jesus looked at them and said, “With men it’s not possible, but with God everything’s possible.”
+
+27Peter responded, “We’ve left everything to follow you. What will we have?”
+
+28Jesus told them, “In the next age when the Son of Man sits on his glorious throne, you that have followed me will sit on twelve thrones and judge the twelve tribes of Israel. 29Anybody that has left houses, brothers, sisters, father, mother, children, or fields for my sake will receive 100 times as much and inherit eternal life. 30Many first will be last; and last, first. 	Mt 19:23-30
+
+Parable About Workers in a Vineyard
+
+20:1“The kingdom of heaven is like a landowner that went out early to hire workers. 2He agreed to pay them a denarius for the day and sent them to his vineyard. 3About 9 o’clock he went out and saw some other men standing idle in the marketplace, 4‘You go to my vineyard too, and I’ll pay you what’s right.’ 5At noon and one o’clock, he did the same thing. 6About five o’clock he found some more standing around, ‘Why are you standing here idle all day?’
+
+7“‘Nobody’s hired us.’
+
+“‘You go to my vineyard too.’
+
+8“That evening, he told his foreman, ‘Call the workers and pay them from last to first.’ 9When the five o’clock men came, they got a denarius apiece. 10When the first came, they thought they’d get more; but they got a denarius too. 11They complained, 12‘These last hires worked an hour, and you made them equal to us who bore the burden and scorching heat of the day.’
+
+13“The landowner answered one of them, ‘Friend, I’ve been fair with you. Didn’t you agree to a denarius? 14Take what’s yours and go. I want to pay this last hire what I paid you. 15Can’t I do what I want with what’s mine? Are you jealous because I’m generous?’ 16That’s how the last will be first and the first, last.”	Mt 20:1-16
+
+Another Prediction of His Death
+
+17As Jesus was going up to Jerusalem, he took the twelve disciples aside on the way, 18“We’re going to Jerusalem, and I’ll be betrayed to the chief priests and scribes, and they’ll condemn me to death. 19They’ll turn me over to the Gentiles to make fun of, flog, and crucify; but on the third day I’ll resurrect.”	      Mt 20:17-19
+
+James and John’s Request for Rank
+
+20Then Zebedee’s wife came with her sons, bowed down, to ask for something,
+
+21“What is it you want?”
+
+“Say that my two sons will sit on your right and left hand in your kingdom.”
+
+22Jesus answered, “Youpl don’t know what you’re asking. Can youpl drink the cup I’m about to drink?”
+
+“Yes.”
+
+23“You’ll drink it, but I don’t decide who sits on my right and left hand. They’re the ones my Father prepared it for.”
+
+24When the ten heard it, they were indignant at the two brothers.
+
+25Jesus called them over to him,
+
+“You know the rulers of the Gentiles lord it over them; their important ones act like tyrants. 26It won’t be that way with you. Whoever wants to be great among you will minister to you, 27whoever wants to be first among you will serve you—28just like I didn’t come to be served but to serve, and to give my life as a ransom for many.”  	Mt 20:20-28
+
+Healing Two Blind Men at Jericho
+
+29As they were leaving Jericho, a big crowd was following him. 30Two blind men were sitting by the road. When they heard that Jesus was going by, they yelled out, “Have mercy on us, Lord,, son of David.”
+
+31The crowd sternly told them to be quiet, but they yelled louder, “Have mercy on us, Lord, son of David.”
+
+32Jesus stopped, “What do you want me to do?”
+
+33“Make us able to see.”
+
+34Jesus felt sorry for them and touched their eyelids. Immediately they could see again, and went along with him.	Mt 20:29-34
+
+The Triumphal Entry
+
+21:1When they got close to Jerusalem, to Bethany on the Mount of Olives, Jesus sent two disciples, 2“Go in the village across from you. Close by you’ll find a donkey tied and a colt with her. Untie them and bring them to me. 3If anybody says anything, say the Lord needs them; they’ll send them right away.” 4That fulfilled what the prophet said,
+
+5“Tell the people of Zion [Is 62:11],
+
+‘Your king’s coming to you,
+
+humble and riding on a donkey—
+
+the colt of a donkey’” [Zech 9:9].
+
+6The disciples did like Jesus said, 7brought the donkey and colt, and put their cloaks on them, and he sat on them. 8The big crowd spread cloaks on the road; others started cutting tree branches and spreading them on the road. 9The crowd ahead and behind started shouting,
+
+“Hosanna to the son of David!
+
+Blessed be the One that’s coming in the name of the LORD [Ps 118:25-26]!
+
+Hosanna in the highest!”
+
+10When he went into Jerusalem, it stirred up the whole city, “Who is this?”
+
+11The crowd said, “The prophet Jesus from Nazareth in Galilee.”	Mt 21:1-11
+
+Second Cleansing of the Temple;
+
+Cursing the Fig Tree
+
+12Jesus went into the Temple and drove out the ones that were buying and selling, and turned over the tables of the moneychangers and the chairs of men selling doves.
+
+13He saidp, “Scripture says,
+
+‘Call my house a house for prayer’ [Is 56:7].
+
+You’ve made it ‘a den of thieves’!” [Jer 7:11]
+
+14Blind and lame people came to him in the Temple, and he healed them. 15But when the chief priests and the scribes saw the amazing things he was doing and the kids shouting in the Temple, “Hosanna to the son of David!” they were indignant, 16“Do you hear what they’re saying?”
+
+“Yes. You’ve read, haven’t you, ‘Out of the mouth of infants and nursing babies you’ve prepared yourself perfect praise’?” [Ps 8:3 LXX] 17He left the city for Bethany to spend the night.
+
+18In the morning as he was coming into the city, he was hungry. 19He noticed one fig tree beside the road. He went over to it and didn’t find anything on it but leaves. He saidp, “You’ll never grow fruit again.” Right away the tree started shriveling up.	Mt 21:12-19
+
+Discussing the Shriveled Fig Tree
+
+20When the disciples saw it, they were surprised, “How did it shrivel up so fast?”
+
+21Jesus answered, “If you have faith—and don’t doubt—not only will you do what happened to this fig tree; even if you tell this mountain to be picked up and thrown in the sea, it’ll happen. 22Whatever you ask for in prayer you’ll receive if you believe.” 	Mt 21:20-22
+
+Jesus’ Authority Challenged
+
+23When he went into the Temple, the chief priests and the elders of the people came while he was teaching, “What right do you have to do this? Who gave you that right?”
+
+24“I’ll ask you a question too. If you tell me, I’ll tell you what right I have to do this. 25Was John’s baptism from heaven or humans?”
+
+They talked it over, “If we say, ‘From heaven,’ he’ll say, ‘Why didn’t you believe him?’ 26If we say, ‘From humans,’ we’re afraid of the people” (everybody considered John a prophet). 27So they answered, “We don’t know.”
+
+He also said, “I won’t tell you either what right I have to do this.” 	Mt 21:23-27
+
+Parable About the Two Sons
+
+28“What do you think? A man had two sons. He went to the first, ‘Go work in the vineyard today.’
+
+29“‘I don’t want to,’ but later he regretted it and went.
+
+30“He went to the other son and said the same thing.
+
+“‘Okay,’ but didn’t go.
+
+31“Which one did the father’s will?”
+
+They said, “The first.”
+
+Jesus saidp,
+
+“Tax collectors and prostitutes are going into God’s kingdom before you are. 32John came telling you to live right, and you didn’t believe him; but tax collectors and prostitutes did. But you, when you saw that, didn’t even regret it later and believe him.	      Mt 21:28-32
+
+Parable About a Vineyard
+
+33“Listen to another parable. A landowner planted a vineyard, put a wall around it, dug a wine press in it, built a tower, rented it out to tenants, and went on a trip. 34When it came time for the fruit, he sent his servants to the tenants to get his fruit. 35The tenants took them and beat one, murdered another, and stoned another. 36He sent some others—more than the first, and they did the same thing. 37Finally, he sent his son, ‘They’ll respect my son.’ 38But when they saw him, they said, ‘That’s the heir. Come on, let’s kill him and take his inheritance.’ 39They dragged him out of the vineyard and killed him. 40When the owner comes, what will he do to those tenants?”
+
+41They said, “He’ll miserably destroy those sinful men and rent out the vineyard to other tenants that will pay him the fruit in its season.”
+
+42Jesus saidp, “You’ve read in the scriptures, haven’t you,
+
+‘The stone the builders rejected
+
+has become the cornerstone.
+
+That has come from the LORD;
+
+it’s amazing to us’? [Ps 118:22-23]
+
+43So God will take the kingdom away from you and give it to a nation that will produce its fruit. [[44Whoever falls on that stone will get bruised, and whoever it falls on will get crushed.]]ms”
+
+45The chief priests and the Pharisees knew he’d told his parables about them. 46They were trying to find a way to arrest him, but they were afraid to; the people considered him a prophet.
+
+Mt 21:33-46
+
+Parable About a Wedding Garment
+
+22:1Jesus told them another parable.
+
+2“The kingdom of heaven is like a king that prepared a wedding banquet for his son. 3He sent servants to call the people that he’d invited, but they didn’t want to come. 4He sent some other servants, ‘Tell the ones I’ve invited, “I’ve prepared my banquet. I’ve butchered my oxen and grain-fed calves; everything’s ready. Come on to the banquet.”’ 5But they didn’t pay any attention and went on with their own affairs, one to his field, another to his business. 6The rest grabbed his servants, treated them disgracefully, and killed them. 	Mt 22:1-6
+
+7“The king was angry and sent troops to destroy those murderers and burn their town. 8Then he told his servants, ‘The wedding banquet is ready, but the people I invited didn’t deserve it. 9So go out to the main roads and invite everybody you find.’ 10They went out in the roads and gathered everybody they could find, good and bad, and filled the wedding banquet with guests.
+
+11“The king went in to inspect the guests and saw a man that wasn’t dressed for a wedding. 12He said, ‘How’d you get in here without being dressed for a wedding?’ He was speechless. 13The king told the attendants, ‘Tie him up hand and foot, and throw him out in the dark. There’ll be crying and chattering of teeth out there. 14Many are called, but few are chosen.’”   	Mt 22:7-14
+
+Question About Tribute to Caesar
+
+15The Pharisees plotted how to trap Jesus in what he said. 16They sentp their disciples with the Herodians, saying, “Rabbi, we know you tell the truth and teach the way of God correctly; you don’t defer to anybody or respect persons. 17So tell us what you think: Is it lawful to pay tribute to Caesar?”
+
+18Jesus perceived their wickedness, “Why are you trying to put me on the spot, you hypocrites? 19Show me the coin for paying the tribute.”
+
+They brought him a denarius.
+
+20“Whose image and inscription are these?”
+
+21“Caesar’s.”
+
+“Then pay Caesar what you owe Caesar and pay God what you owe God.”
+
+22They were dumbfounded and left. 	Mt 22:15-22
+
+The Question About Resurrection
+
+23That day, some Sadducees, saying there’s no resurrection, approached him,
+
+24“Rabbi, Moses said,
+
+‘If a man dies childless, his brother is to marry his wife’ [Deut 25:5] and ‘raise up heirs for his brother’ [Gen 38:8].
+
+25There were seven brothers with us, and the first died. Since he had no children, he left his wife to his brother. 26The same thing happened with the second and third through the seventh. 27Last of all, the woman died. 28So, whose wife will she be in the resurrection? They’d all married her.”
+
+29Jesus answered them, “You’re mistaken because you don’t know the scriptures or God’s power. 30In the resurrection there’s no such thing as marriage. They’re like the angels in heaven.
+
+31“Now as to the resurrection of the dead, you’ve read, haven’t you, what God said to you, 32‘I’m Abraham, Isaac, and Jacob’s God’? [Ex 3:6, 15, 16] He’s not a God of the dead, but of the living.”
+
+33The crowd was astounded at his teaching. 	Mt 22:23-33
+
+Question About the Greatest Commandment
+
+34When the Pharisees heard he’d silenced the Sadducees, they gathered around him. 35One of them, [a lawyer]ms, tested him, 36“Rabbi, which is the most important commandment in the Law?”
+
+37“‘Love the LORD your God with all your heart, soul, and mind’ [Deut 6:5]. 38That’s the most important commandment. 39The second is like it, ‘Love your neighbor as yourself’ [Lev 19:18]. 40The whole Law and the Prophets depend on those two commandments.” 	Mt 22:34-40
+
+Question About the Son of David
+
+41While the Pharisees were together, Jesus asked them, 42“What do you think about the Messiah? Whose son is he?”
+
+“David’s.”
+
+43“How then does David by inspiration call him ‘Lord’:
+
+44‘The LORD told my Lord,
+
+“Sit at my right hand
+
+till I make your enemies your footstool’? [Ps 110:1]
+
+45If David calls him ‘Lord,’ how can he be his son?” 46Nobody could answer him, and nobody dared ask him any more questions.	Mt 22:41-46
+
+Denunciation of the Pharisees
+
+23:1Jesus told the crowd and his disciples,
+
+2“The scribes and Pharisees sit on Moses’ seat. 3So do whatever they tell you, but don’t be like them; they say and don’t do. 4They strap heavy, awkward burdens on people’s shoulders, but they aren’t willing to move them with one of their fingers. 5They do everything for show—like making wide phylacteries and long tassels. 6They like places of honor at banquets, prominent seats in synagogues, 7greetings in marketplaces, and people calling them Rabbi. 8Don’t you be called Rabbi. You have one Rabbi; you’re all brothers. 9Don’t call anybody on earth your father. You have one Father, the One in heaven. 10Don’t be called leaders. You have one Leader, the Messiah. 11The greatest among you will be your minister. 12Whoever exalts himself will be humbled, and whoever humbles himself will be exalted. 	Mt 23:1-12
+
+13“Woe to you, scribes and Pharisees, hypocrites! You lock up the kingdom of heaven in front of people. You don’t go in yourselves or let them go in that are trying to. [14]ms
+
+15“Woe to you, scribes and Pharisees, hypocrites! You travel all over land and sea to make one proselyte. Then you make him more destined for hell than you are.
+
+16“Woe to you, blind guides that say, ‘Whoever swears by the sanctuary hasn’t taken a binding oath, but whoever swears by the gold of the sanctuary has taken a binding oath.’ 17Blind fools! Which is more imporant, the gold or the sanctuary that makes it holy?
+
+18“You also say, ‘Whoever swears by the altar hasn’t taken a binding oath, but whoever swears by the gift on the altar has taken a binding oath.’ 19You blind people! Which is more important, the gift or the altar that makes it holy? 20So whoever swears by the altar swears by it and everything on it. 21Whoever swears by the sanctuary swears by it and the One that lives there. 22Whoever swears by heaven swears by God’s throne and the One that sits on it.   	 Mt 23:13-22
+
+23“Woe to you, scribes and Pharisees, hypocrites! You give a tenth of mint, dill, and cumin; and neglect the more important things in the Law: justice, mercy, faith. You should’ve done these and not neglected those. 24Blind guides that strain out the gnat and swallow the camel!
+
+25“Woe to you, scribes and Pharisees, hypocrites! You clean the outside of the cup and plate, but inside they’re full of greed and self-indulgence. 26Blind Pharisee! Clean the inside of the cup first so the outside of it becomes clean too.
+
+27“Woe to you, scribes and Pharisees, hypocrites! You’re like whitewashed tombs that look beautiful on the outside, but inside they’re filled with filth and dead men’s bones. 28You look good on the outside, but inside you’re filled with hypocrisy and lawlessness.     	  Mt 23:23-28
+
+29“Woe to you, scribes and Pharisees, hypocrites! You build the tombs of the prophets and decorate the graves of the righteous 30and say, ‘If we’d lived when our ancestors did, we wouldn’t have joined them in shedding the prophets’ blood.’ 31You speak against yourselves because you’re just like the ones that murdered the prophets. 32Go ahead and be as bad as your ancestors. 33You snakes! You nest of vipers! How will you escape condemnation in hell? 34For this reason I’ll send you prophets, wise men, and scribes. You’ll kill and crucify some of them; some you’ll flog in your synagogues and persecute from city to city. 35So on you will come all the righteous blood shed from Abel to Zechariah son of Berechiah, the one you murdered between the altar and the sanctuary. 36I’m telling you, it’ll all come down on this generation!
+
+37“Jerusalem! Jerusalem! that murders prophets and stones my messengers! How many times I’ve wanted to gather your people the way a hen gathers her chicks under her wings, but you didn’t want to! 38I leave your house to you deserted. 39You won’t see me again till you say, ‘Blessed is the One that’s coming in the name of the LORD’” [Ps 118:26].      	Mt 23:29-39
+
+The Olivet Discourse
+
+24:1Jesus was leaving the Temple when his disciples came to show him the buildings of the Temple complex.
+
+2He responded, “See all this? There won’t be one stone left on another.”
+
+3When he was sitting on the Mount of Olives, the disciples came privately, “Tell us, when will that happen, what will be the sign that you’re coming and the end of the age?”
+
+4Jesus answered,
+
+“Make sure nobody deceives you. 5Many will come, saying, ‘I’m the Messiah,’ and deceive lots of people. 6You’ll hear about wars and reports of wars. Don’t let it alarm you. They have to happen, but that’s not the end. 7Nation will attack nation and kingdom attack kingdom. There’ll be famines and earthquakes in various places. 8That’s the beginning of labor pains.
+
+9“Then they’ll bring distress on you and kill you, and Gentiles will hate you because of me. 10Many will fall away, betray each other, hate one another. 11False prophets will rise up and deceive people. 12Since lawlessness will increase, many people’s love will grow cold; 13but the one that endures to the end will be saved. 14The good news about the kingdom will be delivered in the whole empire for a testimony to the nations. Then the end will come.	  Mt 24:1-14
+
+15“When you see ‘the abomination of desolation,’ that Daniel the prophet spoke about, standing in the holy place (reader, understand.), 16people in Judaea need to flee to the hill country. 17Nobody on a housetop should go down to pick up things out of the house. 18Nobody in the field should go back to get a coat. 19Woe to the ones who are pregnant and nursing babies then! 20Pray that your flight won’t happen in the winter or on a Sabbath. Great distress will come on the country and wrath on this people. 21That time will be the worst ever—from the beginning till now or ever again. 22If the LORD hadn’t shortened those days, nobody would survive. But because of the Chosen, he’ll cut those days short.
+
+Mt 24:15-22
+
+23“Then if anybody says, ‘Here’s the Messiah,’ or, ‘There’s the Messiah,’ don’t believe it. 24False Messiahs and false prophets will arise and give great signs and wonders that could deceive, if possible, even the Chosen. [25] 26If anybody says, ‘He’s in the desert,’ don’t go out there. ‘He’s in private quarters,’ don’t believe it. 27The Son of Man will come like lightning flashes from east to west. 28Vultures will gather where the carcass is,
+
+29“Immediately after that ordeal,
+
+the sun will grow dark,
+
+the moon won’t shine,
+
+stars will fall,
+
+and the powers in the sky will be shaken. 	Mt 24:23-29
+
+30“Then the Son of Man will appear in the sky, and every tribe on earth will mourn. They’ll see him coming in the clouds [Dan 7:13] with power and great glory. 31He’ll send out his angels with a loud trumpet blast to gather his Chosen from every direction, from one end of the sky to the other.
+
+32“Learn a lesson from a fig tree. When its branches get tender and sprout leaves, you know summer’s coming. 33So too, when you see these things, you’llp know he’s at the door. 34This generation won’t pass away before it happens. 35Earth and sky will pass away, but what I say won’t pass away.
+
+36“But nobody knows about that day and hour, not the angels, not the Son, just the Father. 37When the Son of Man comes, it will be like it was in Noah’s time. 38Before the flood came, people were eating and getting married till Noah went into the ark. 39They didn’t realize what was going to happen till the flood came and swept them all away.
+
+“That’s how the coming of the Son of Man will be. 40Two men will be in the field; one taken, the other left. 41Two women will be grinding at the mill; one taken, the other left. 42So keep watching because you don’t know what day your Lord will come. 	Mt 24:30-42
+
+43“Do know this: if the homeowner had known in which watch the thief would come, he would’ve been on alert and not let the thief ransack his house. 44So you be ready too; the Son of Man will come when you least expect it.
+
+45“Who then is a smart, reliable servant that his master has put in charge of feeding his family on time? 46He’s fortunate whose master finds him doing that when he comes. 47He’ll put him in charge of everything he owns. 48But if a sinful servant says to himself, ‘My master won’t be coming for a long time’; 49and he starts abusing fellow servants, and eating and getting drunk with drunks, 50his master will come on a day he doesn’t expect at an hour he doesn’t know. 51He’ll punish him severely and assign him a place with the hypocrites. There’ll be crying and chattering of teeth there.     	Mt 24:43-51
+
+The Parable About Ten Virgins
+
+25:1“At that time the kingdom of heaven will be like ten virgins that took their lamps to meet the groom. 2Five were foolish, five were wise. 3The foolish didn’t take any oil along. 4The wise took some along in flasks with their lamps. 5The groom was delayed, and they all got drowsy and fell sleep. 6At midnight the shout came, ‘The groom! Come out to meet him!’ 7The virgins got up and trimmed their lamps.
+
+8“The foolish said to the wise, ‘Give us some of your oil; our lamps are going out.’
+
+9“The wise said, ‘No, there won’t be enough for all of us. Go to the dealers and get your own.’ 10While they were gone, the groom came. The ones that were ready went in with him to the wedding feast, and the door was locked. 11Later, the rest of the virgins came, ‘Sir, let us in.’ 12But he answered, ‘I don’t know you.’ 13So be alert; you don’t know the day or the hour.”  	Mt 25:1-13
+
+The Parable About Talents
+
+14“The kingdom of heaven is like a man going on a trip. He called his servants and entrusted them with things he owned. 15He gave five talents to one, two to another, and one to another—according to their abilities—and left. Right away 16the one with five talents went and traded with them and earned five more. 17The one with two talents did the same thing and earned two more. 18But the servant with one talent dug a hole and hid it.
+
+19“After a long time, the master came back and settled accounts with them. 20The one he gave five talents came and said, ‘Master, you entrusted me with five talents; I’ve earned five more.’
+
+21“‘Well done, good, dependable servant. You were dependable in handling a few things; I’ll put you in charge of many. Enjoy my approval.’
+
+22“The one he gave two talents came up, ‘You entrusted me with two talents; I’ve earned two more.’     	    Mt 25: 14-22
+
+23“‘Well done, good, reliable servant. You were reliable in handling a few things; I’ll put you in charge of many. Enjoy my approval.’
+
+24“But the servant he gave one talent came up, ‘Master, I knew you were a hard man, reaping where you didn’t sow, gathering where you didn’t scatter. 25I was afraid and hid your talent in the ground. You have what’s yours.’
+
+26“‘You wicked, lazy servant. You knew, did you, that I reap where I don’t sow and gather where I don’t scatter? 27You should’ve taken my money to the bankers. When I came back, I would’ve received it back plus interest. 28Take the talent away from him and give it to the one with ten. 29Everybody that has will receive more; but the one that doesn’t have will lose what he does have. 30Throw the worthless servant out into the dark. There’ll be crying and chattering of teeth out there.	       Mt 25:23-30
+
+Discussion of the Final Judgment
+
+31“When the Son of Man comes in his glory with the angels, he’ll sit on his glorious throne. 32The nations will stand in front of him, and he’ll separate them like a shepherd separates sheep from goats. 33He’ll put the sheep on his right and the goats on his left. 34The king will tell the sheep, ‘Come, my Father’s blessed ones, inherit the kingdom prepared for you from the founding of the world. 35I was hungry, and you fed me. I was thirsty, and you gave me a drink. I was a stranger, and you gave me a place to stay. 36I needed clothes, and you gave me some. I was sick, and you took care of me. I was in prison, and you visited me.’
+
+Mt 25:31-36
+
+37“Those good people will say, ‘When did we see you hungry and feed you, or thirsty and give you a drink? 38When did we see you a stranger and give you a place to stay, or needing clothes and give you some? 39When did we see you sick or in prison and take care of you.’
+
+40“The king will answer, ‘When you did it for the of least of these friends of mine, you did it to me.’
+
+41“Then he’ll say to the people on the left, ‘Go away, you accursed, into the eternal fire prepared for the devil and his angels. 42I was hungry, and you didn’t give me anything to eat. I was thirsty, and you didn’t give me anything to drink. 43I was a stranger, and you didn’t give me a place to stay. I needed clothes, and you didn’t give me any. I was sick and in prison and you didn’t take care of me.’
+
+44”They’ll say, ‘When did we see you hungry, thirsty, a stranger, needing clothes, sick, or in prison, and not help you?’
+
+45“He’ll answer, ‘Since you didn’t do it for the least of these of the friends of mine, you didn’t do it for me either.’ 46Those will go away into eternal punishment, but the good people will go into eternal life.”     	 Mt 25:37-46
+
+Fifth Prediction of His Death
+
+26:1When Jesus finished, he told his disciples, 2“As you know, the Passover is two days from now. I’ll be handed over to be crucified.”
+
+3Meantime the chief priests and the elders of the people met in the courtyard of Caiaphas, the high priest, 4and conspired to arrest Jesus by treachery and put him to death. 5But they said, “Not during the festival; the people will riot.” 	Mt 26:1-5
+
+The Anointing by Mary
+
+6While Jesus was in Bethany in the house of Simon the leper, 7a woman approached him with an alabaster cruise of very expensive ointment and poured it on his head while he was reclining at table. 8The disciples were indignant, “What’s the point of such waste? 9She could’ve sold it for a lot and given the money to the poor.”
+
+10Jesus was aware of it, “Why are you fussing at her? She’s done me a good turn. 11You always have poor people around, but you won’t always havefp me. 12She put this ointment on my body to prepare me for burial. 13I tell you, wherever you deliver the good news in the world, tell what she did in memory of her.	 Mt 26:6-13
+
+Judas’ Plot to Betray Jesus
+
+14Then Judas Iscariot, one of the Twelve, went to the high priests, 15“What would you give me to deliver Jesus over to you?” They counted out 30 silver shekels for him. 16From then on, he was looking for a chance to deliver him over to them. 	Mt 26:14-16
+
+Preparation for the Passover Meal
+
+17On the first day of Unleavened Bread, the disciples came to Jesus, “Where do you want us to get things ready for the Passover?”
+
+18He said, “Go into the city to such and such a man and say, ‘The Rabbi says, “My time’s getting close. I’ll observep the Passover at your place with my disciples.”’”
+
+19The disciples did that and got things ready for observing the Passover meal.	Mt 26:17-19
+
+The Passover Meal;
+
+Judas Identified as Traitor
+
+20That evening, Jesus was reclining at table with the Twelve.
+
+21While they were eating, he said, “I tell you, one of you is going to betray me.”
+
+22They were really distressed and started saying, “It’s not me, is it?”
+
+23He answered, “It’s the one that has dipped his hand with me in the bowl. 24The Son of Man will go the way scripture says, but woe to the one that betrays him. It would’ve been better if he hadn’t been born.”
+
+25Judas, the one that did betray him, said, “It’s not me, is it?”
+
+“Yes.”	Mt 26:20-25
+
+The Lord’s Supper Instituted
+
+26During the meal, Jesus took a loaf, gave thanks, broke it, and gave it to his disciples, “Take and eat it; it’s my body.” 27He took a cup, gave thanks, and gave it to them, “All of you, drink out of it; 28it’s my blood of the covenant that’s shed for many for the forgiveness of sins. 29This is the last time I’ll be drinking this fruit of the vine till I drink it with you in my Father’s kingdom.”
+
+30They sang a hymn and went out to The Mount of Olives.	Mt 26:26-30
+
+The Disciples Warned
+
+31Jesus toldp them, “All of you will desert me tonight. Scripture says,
+
+‘I’ll strike down the shepherd,
+
+and his sheep will scatter’ [Zech 13:7].
+
+32After I’m resurrected, I’ll go ahead of you to Galilee.”
+
+33Peter responded, “Even if everyone else deserts you, I’ll never desert you.”
+
+34Jesus said, “I tell you, tonight before a rooster crows, you’ll deny three times that you know me.”
+
+35Peter saidp, “Even if I have to die with you, I won’t deny you.”
+
+That’s what all the disciples said.	 Mt 26:31-35
+
+The Agony in the Garden
+
+36Jesus wentp with them to a place called Gethsemane. “Sit here while I go over there and pray.”
+
+37He took Peter and the two sons of Zebedee and became overwhelmed with dread. 38He saidp, “I’m distressed to death. Stay here and keep watch with me.”
+
+39He went on a little way and fell on his face, “My Father, if it’s possible, take this cup away from me; but not what I want, but what you want.”
+
+40He came backp and foundp them sleeping. He saidp to Peter, “Couldn’t youpl keep watch one hour? 41Keep watch and pray so you won’t be tempted. The spirit’s willing, but the flesh is weak.”
+
+42A second time he went and prayed, “My Father, if this can’t pass without me drinking it, your will be done.” 43He came back and found them sleeping again; they couldn’t keep their eyes open. 44He left them again and prayed the same thing a third time. 45He camep back to his disciples, “You’re still sleeping and resting? It’s time; I’m about to be betrayedp to sinners. 46Get up; let’s go. The one that’s betraying me is coming.”      	 Mt 26:36-46
+
+The Arrest of Jesus
+
+47While he was still talking, Judas came with a large contingent armed with swords and clubs from the chief priests and elders of the people. 48The traitor had given them a signal, “The one I kiss is him; arrest him.”
+
+49At once he came to Jesus, “Hello, Rabbi,” and kissed him.
+
+50Jesus said, “Companion, do what you came to do.”
+
+They came and grabbed him and arrested him. 51One of the men with Jesus drew his sword and struck the high priest’s servant and cut his ear off.
+
+52Jesus toldp him, “Put your sword away. Everybody that picks up a sword dies by a sword. 53Do you suppose I can’t ask my Father right now for over 70,000 angels? 54How then would I fulfill the scriptures that things need to happen this way?”
+
+55Jesus said to the crowd, “You’ve come out here with swords and clubs to arrest me like an insurrectionist? I sat teaching in the Temple every day, and you didn’t arrest me. 56But this is all happening to fulfill what the prophets wrote.”
+
+The disciples ran away.      	      Mt 26:47-56
+
+The Trial Before Caiaphas; Peter’s Denials;
+
+The Final Condemnation by the Sanhedrin
+
+57The ones that arrested Jesus took him to Caiaphas the high priest, where the scribes and elders had assembled. 58A long way behind, Peter followed him to the high priest’s courtyard, went inside, and sat down with the officers to see the end.
+
+59The chief priests and the full Sanhedrin were looking for false testimony against Jesus so they could execute him. 60But they didn’t find it even though a number of false witnesses came forward. Finally, two came forward, 61“He said, ‘I can tear down God’s sanctuary and rebuild it in three days.’”
+
+62The high priest got up and said, “You aren’t going to answer the claims these men are making against you?”
+
+63Jesus didn’t say anything.
+
+The high priest said, “I’m putting you under oath: by the living God, tell us if you’re the Messiah, the Son of God.”
+
+64“Yes. Nevertheless, I’m telling you,
+
+‘Later you’ll see the Son of Man
+
+sitting on the right hand of Power and
+
+coming on the clouds’” [Ps 110:1; Dan 7:13].
+
+65The high priest tore his clothes, “He blasphemed. What do we need witnesses for?” You heard the blasphemy. 66What’s your verdict?”
+
+“He deserves the death penalty.”	Mt 26:57-67
+
+67They spit in his face, punched him, and slapped him, 68“Tell us, ‘Messiah,’ who slapped you.”
+
+69Peter was sitting outside in the courtyard, and a servant girl came up, “You were with Jesus the Galilean too.”
+
+70He denied it in front of them all, “I don’t know what you’re talking about.”
+
+71When he went out to the gateway, another servant girl saw him and said to the ones there, “This fellow was with Jesus the Nazarene.”
+
+72He denied it again—with an oath: “I don’t know him.”
+
+73A little while later the ones standing around came up to Peter, “You are too one of them. Your accent gives you away.”
+
+74He started pronouncing curses and swearing: “I don’t know him.” Immediately a rooster crowed. 75Peter remembered, “Before a rooster crows, you’ll deny me three times.” He went out and broke down sobbing.
+
+27:1In the morning, the chief priests and the elders of the people developed a strategy for getting Jesus executed.
+
+2They bound him and delivered him to Pilate, the governor.  	Mt 26:67-27:2
+
+The Death of Judas
+
+3When Judas the traitor saw Jesus was condemned, he regretted it and took the 30 silver shekels back to the chief priests and elders, 4“I’ve sinned. I betrayed innocent blood.”
+
+They said, “What’s that to us? That’s your problem.”
+
+5He threw the shekels into the sanctuary and went and hanged himself.
+
+6The chief priests took the shekels and said, “It’s against the Law to put them in the Temple Treasury since they’re blood money.” 7They talked it over and decided to use them to buy a potter’s field as a cemetery for foreigners. 8That’s why it’s still called the Field of Blood.* 9That fulfilled what Jeremiah the prophet said,
+
+“I took the 30 silver shekels,
+
+the price of the One as evaluated by the people of Israel,
+
+10and theyms bought a potter’s field,
+
+like the LORD instructed me” [Zech 11:12-13; cp Jer 32:6-9].	Mt 27:3-10
+
+The First and Second Trials
+
+in Front of Pilate
+
+11Jesus stood in front of the governor, who asked him, “Are you king of the Jews?”
+
+“Yes.”
+
+12While the chief priests and elders were accusing him, he didn’t respond.
+
+13Pilate said, “You hear all the things they’re accusing you of, don’t you?”
+
+14He didn’t answer him on a single charge. The governor was really surprised. Mt 27:11-14
+
+15At each Passover Festival the governor had a custom of releasing one prisoner the crowd wanted. 16At the time they were holding a notorious prisoner called [Jesus]ms Barabbas. 17So while they were assembled, Pilate said, “Who do you want me to release to you, [Jesus]ms Barabbas or Jesus, called Messiah?” (18He knew they’d delivered him up out of envy.)
+
+19While he was sitting on the judgment seat, his wife sent him a message, “Don’t do anything with that innocent man. I suffered a terrible nightmare last night because of him.”
+
+20The chief priests and elders persuaded the crowd to ask for Barabbas and execute Jesus.
+
+21Pilate asked them, “Who do you want me to release?”
+
+“Barabbas.”
+
+22“What do you want me to do with Jesus, called Messiah?”
+
+“Crucify him!”
+
+23“Why? What’s he done?”
+
+They started shouting louder, “Crucify him!”
+
+24When Pilate saw he wasn’t getting anywhere, but a riot was brewing, he took water and washed his hands in front of the crowd, “I’m innocent of this man’s blood. This is your problem.”
+
+25The people answered, “His blood’s on us and our descendants.”
+
+26Then he released Barabbas, had Jesus scourged, and turned him over to be crucified.
+
+Mt 27:15-26
+
+Torture by the Roman Soldiers
+
+27The governor’s soldiers took him into the Praetorium and gathered the whole cohort around him. 28They stripped him and put a scarlet military robe on him. 29They twisted together a crown made out of thorns and put it on his head. They put a reed in his right hand, knelt to him, and made fun of him, “Hail, King of the Jews!” 30They spit on him and took the reed and kept beating him over the head with it. 	Mt 27:27-30
+
+The Way to Golgotha
+
+31When they got done making fun of him, they took the robe off, put his clothes back on him, and led him off to crucify him.
+
+32As they were coming out, they found a Cyrenian named Simon and made him carry the cross. 33When they got to a place called Golgotha (“Place of the Skull”), 34they offered him wine mixed with gall; but, after tasting it, he wouldn’t drink it. 35After they crucified him, they divided up his clothes by casting lots 36and sat down to keep watch. 37They put his accusation above his head: “Jesus, King of the Jews.”
+
+38They crucified two insurgents with him, on his right and left.   	Mt 27:31-38
+
+The Death of Jesus
+
+39The ones passing by were ridiculing him, shaking their heads, 40“You that tear down the sanctuary and rebuild it in three days, save yourself! If you’re God’s Son, and come down from the cross!”
+
+41The chief priests as well as the scribes and elders were making fun of him too: 42“He saved other people; he can’t save himself! He’s king of Israel! Let him come down from the cross, and we’ll believe it. 43He has trusted in God; let God rescue him now if he wants him”—because he said, “I’m God’s Son.” 44The insurgents that were crucified with him were denouncing him.
+
+45From noon till 3, it got dark over the whole country. 46About 3 p.m., Jesus shouted, “Eli, Eli, lema sabachthani (My God, my God, why have you deserted me)?” [Ps 22:1]
+
+47Some of the ones standing there heard him, “He’s calling for Elijah.”
+
+48One of them ran to fill a sponge with sour wine, put it on a reed, and gave him a drink. 49The rest were saying, “Let’s see if Elijah will comep to save him.”
+
+50Jesus let out another loud cry and quit breathing.	Mt 27:39-50
+
+Miracles Accompanying His Death
+
+51The sanctuary curtain tore in two, top to bottom; the ground tremored, and the bedrocks ruptured. (52Tombs came open, and the bodies of many saints resurrected. 53They left their graves after his resurrection and went into the Holy City and appeared to many people.) 54The centurion and the ones on watch with him were scared to death when they saw the earthquake and the other things that were happening.
+
+55Several women were watching from a distance. They’d traveled with Jesus from Galilee to wait on him. 56Among them were Mary the Magdalene, Mary the mother of James and Joseph, and the mother of the sons of Zebedee.	Mt 27:51-56
+
+The Burial of Jesus
+
+57That evening a wealthy man named Joseph from Arimathea came; he was a disciple of Jesus. 58He went to Pilate and asked for the body, and Pilate ordered it to be given to him. 59He took it and wrapped it in a clean linen cloth. 60He put it in his own new, rock-hewn tomb, rolled a large stone against the entrance, and left. 61Mary the Magdalene and the other Mary were there sitting across from the grave. 	Mt 27:57-61
+
+The Watch at the Tomb
+
+62The next day, the day after Preparation, the chief priests and Pharisees got together with Pilate, 63“Sir, we’ve remembered that while he was alive, the deceiver said he’d resurrect after three days.’ 64Have the grave sealed till the third day so his disciples can’t steal the body and tell the people he arose from the dead. The last deception would be worse than the first.”
+
+65Pilate told them, “You have a guard. Secure it as well as you know how.” 66They secured the tomb with a guard and put a seal on the stone.      	Mt 27:62-66
+
+The Resurrection of Jesus
+
+28:1After the Sabbath, as the first day of the week began to dawn, Mary the Magdalene and the other Mary came to see the tomb. 2There was a violent earthquake. An angel of the LORD came down from heaven, rolled the stone away, and sat on it. 3His appearance was like lightning; his clothes were white as snow. 4The guards were so shaken they were paralyzed with fear like dead men.
+
+5The angel said to the women, “You don’t need to be afraid. I know you’re looking for Jesus, who was crucified. 6He’s not here; he resurrected like he said he would. Come see where he was lying. 7Hurry and tell his disciples, ‘He arose from the dead and is going ahead of you into Galilee; you’ll see him there.’ I’ve told you.”  	Mt 28:1-7
+
+The Appearance to the Other Women
+
+8They left the tomb quickly with fear and great excitement and ran to tell his disciples. 9Jesus met them and said, “Hello.” They came and took hold of his feet and worshiped him. 10Then Jesus saidp, “You don’t need to be afraid. Go tell my brothers to go to Galilee. They’ll see me there.”	Mt 28:8-10
+
+The Report of the Guard
+
+11While they were on their way, some of the guards went into the city and reported to the chief priests what all happened. 12When they got together with the elders and took counsel, they gave a large number of silver coins to the soldiers, 13“Say that his disciples came during the night while you were asleep and stole him.  14If the governor hears about this, we’ll persuade him and keep you out of trouble.” 15They took the silver coins and did what they were told. That story has spread among the Jews to this day.   	 Mt 28:11-15
+
+The Great Commission
+
+16The eleven disciples went to Galilee to the mountain Jesus had indicated. 17When they saw him, they worshiped, but some of them doubted! 18He came and told them,
+
+“All authority has been given to me in heaven and on earth. 19Go make disciples in every country. Baptize them into the name of the Father, Son, and Holy Spirit; 20and teach them to observe everything I’ve commanded you. I’ll always be with you till the end of the age.”	Mt 28:16-20
+
+MARK
+
+1:1 THE GOSPEL ABOUT
+
+JESUS THE MESSIAH, GOD’S SON
+
+The Beginning of John’s Ministry
+
+2Isaiah the prophet wrote,
+
+“I’ll send my messenger ahead of you
+
+to get the road ready for you [Ex 23:20; Mal 3:1],
+
+3one shouting in the desert,
+
+‘Get the road ready for the LORD!
+
+Make it straight’” [Is 40:3]!
+
+4John came baptizing in the desert and preaching a baptism of repentance to forgive sins. 5The people from Jerusalem and Judaea were going out to have him baptize them in the Jordan River, as they confessed their sins. 6John wore camel’s hair with a leather belt around his waist and lived on locusts and wild honey. 	Mk 1:1-6
+
+An Example of John’s Preaching
+
+7He preached, “After me someone more important is coming. I’m not even worthy to squat down and unfasten his sandals. 8I’m immersing you with water; he’ll ‘immerse’ you in the Holy Spirit.”	Mk 1:7-8
+
+The Baptism of Jesus
+
+9At that time Jesus of Nazareth in Galilee came, and John baptized him in the Jordan. 10When he came up out of the water, John saw the sky open up and the Spirit come down on him like a dove. 11A voice came out of the sky, “You’re my dearly loved Son that I delight in.”
+
+Mk 1:9-11
+
+The Temptation of Jesus
+
+12The Spirit tookp him directly into the desert, 13and the devil tempted him there for 40 days. He was with the wild animals, and angels were helping him.	Mk 1:12-13
+
+Introductory Statements
+
+About the Galilean Ministry
+
+14After John was arrested, Jesus went to Galilee, delivering God’s good news: 15“It’s time; God’s kingdom is on its way. Repent and believe the good news.”       	Mk 1:14-15
+
+Calling 4 Fishermen
+
+16As he passed along Lake Galilee, he saw Simon and his brother Andrew casting nets in the lake; they were fishermen. 17Jesus said, “Come with me; I’ll have you ‘fishing’ for people.” 18They left their nets and went with him. 19A little farther along, he saw Zebedee’s sons, James and John, in a boat, mending nets. 20He called them, and they left their father in the boat with the hired help and went with him.	Mk 1:16-20
+
+Teaching and Miracles in Capernaum
+
+21They wentp to Capernaum and entered the synagogue on the Sabbath, and he started teaching. 22The people were amazed at how he taught; he was teaching them like someone that had authority, not like the scribes.
+
+23A man in their synagogue had an unclean spirit that shouted, 24“What is this, Jesus, you Nazarene? Did you come to destroy us? I know who you are: God’s Holy One!”
+
+25Jesus rebuked it, “Be quiet and come out of him!” 26The unclean spirit threw him into convulsions, made a loud noise, and came out.
+
+27They were surprised and started, wondering to each other, “What is this? A new kind of teaching with authority? He even gives orders to unclean spirits, and they obey.” 28The news about him spread all over that part of Galilee.
+
+29They left the synagogue and went to Simon and Andrew’s house with James and John. 30Peter’s mother-in-law was in bed sick with a fever, and they told him about her. 31He went and took her hand and raised her up. The fever went away, and she started waiting on them.
+
+32That evening at sunset, people were bringing him the sick and demon-possessed. 33The whole town gathered at the door. 34He healed them from many kinds of diseases and cast out lots of demons. He wouldn’t let the demons speak because they knew who he was. 	Mk 1:21-34
+
+The First General Tour of Galilee
+
+35In the morning, a good while before daylight, Jesus got up and went out by himself to pray. 36Simon and the others hunted for him 37till they found him; “Everybody’s looking for you.”
+
+38He saidp, “Let’s go to the villages nearby so I can preach there. That’s the main reason I came.” 39He went around preaching in their synagogues all over Galilee and casting out demons.  										       Mk 1:35-39
+
+Cleansing a Leper
+
+40A leper camep and pleaded with him on his knees, “If you’re willing, you can cleanse me.” 41He felt sorry for him and reached out and touched him, “I’m willing; be cleansed.” 42Instantly his leprosy disappeared. 43Jesus spoke strictly to him and sent him off at once, 44“Keep this to yourself, show yourself to a priest, and offer for your purification what Moses commanded for a public testimony.” 45But he went out and spread it around, so Jesus had a hard time going into a town openly anymore. He stayed out in open areas, and people were coming to him from everywhere.   	Mk 1:40-45
+
+Healing a Paralyzed Man
+
+2:1Several days later, Jesus went back to Capernaum, and people heard he was home. 2So many people gathered, there wasn’t room at the door, and he was speaking the message to them. 3Four men camep, carrying a paralyzed man. 4With the crowd in the way, they couldn’t get to Jesus; so they took the roof apart above him and lowered the stretcher with the man on it.
+
+5When Jesus saw their faith, he toldp the man, “Son, I’m forgiving your sins.”
+
+6Some scribes sitting there wondered to themselves, 7“Why’s he talking like that? He’s blaspheming. Who can forgive sins but God?”
+
+8Jesus knew what they were thinking,
+
+“Why are you wondering about that? 9Which is easier: to say to a paralyzed man, ‘I’m forgiving your sins’; or to say, ‘Get up, pick up your stretcher, and walk’? 10Just so you know that the Son of Man has the right on earth to forgive sins”—he said to the man, 11“Get up, pick up your stretcher, and go on home.”
+
+12He got up at once, picked it up, and went out in front of everybody. They were astounded and praised God, “We’ve never seen anything like this.” 13Jesus went out again beside the lake. The whole crowd went along, and he started teaching again.	Mk 2:1-13
+
+Calling Matthew;
+
+Controversy About Eating with Sinners
+
+14As he passed along, he saw Levi son of Alphaeus sitting at the tax booth. He saidp, “Come with me.” He got up and went with him.
+
+15He was recliningp at table in Levi’s house. Many tax collectors and sinners were reclining at table with him and his disciples because many of them were following him. 16When the scribes of the Pharisees saw him eating with sinners and tax collectors, they started saying to his disciples, “Why’s he eating with tax collectors and sinners?”
+
+17Jesus overheard it, “Healthy people don’t need a doctor; sick ones do. I didn’t come so much to call good people as to call sinners.”
+
+Question About Fasting
+
+18The disciples of John and the Pharisees were accustomed to fasting. They camep and askedp Jesus, “Why do John’s and the Pharisees’ disciples fast, but yours don’t?”
+
+19He said, “Groomsmen can’t feel like fasting while the groom’s around, can they? 20The time’s coming when the groom will be taken away from them. They’ll fast then.”
+
+21“Nobody sews a patch of unshrunk cloth on an old garment. The new patch would pull away from the old material and make the tear worse. 22Nobody puts new wine in old wineskins. It would burst the wineskins, and the wine would be lost and the wineskins. People put new wine in new wineskins.” 	Mk 2:14-22
+
+Controversy About Breaking Sabbath
+
+23On a Sabbath he was going along grain fields, and his disciples started picking off heads as they went along.
+
+24The Pharisees said, “Why are they doing what’s against the Law on Sabbath?”
+
+25He said, “You have read, haven’t you, what David did when he and his men needed something to eat? 26He went into God’s house at the time of Abiathar the high priest and ate the consecrated bread that’s against the Law for anybody but priests to eat. He gave some to the ones with him. 27Sabbath was made for people, not people for Sabbath. 28Person takes precedence over Sabbath”lit.  [or lit., “The Son of Man is Lord of the Sabbath.”] 	Mk 2:23-28
+
+Healing a Man with a Paralyzed Hand
+
+3:1Again he went into a synagogue. A man with a paralyzed hand was there. 2Pharisees were watching to see if he’d heal him on Sabbath so they could accuse him. 3He toldp the man, “Stand up.” 4He askedp them, “Is it lawful to do good on Sabbath or to do bad, to save life or take life?”
+
+They didn’t say anything.
+
+5He looked around at them angry, dismayed at their lack of compassion. He toldp the fellow, “Hold out your hand.” He did, and it was restored. 6The Pharisees left right away to plot with the Herodians to destroy him.	Mk 3:1-6
+
+Jesus and the Multitudes
+
+7Jesus went with his disciples to the side of the lake. A huge crowd followed him from Galilee, Judaea, 8Jerusalem, Idumea, from beyond the Jordan, and from around Tyre and Sidon. They came because they heard about the things he was doing.
+
+9He told his disciples to bring a boat up close so the crowd wouldn’t throng him. 10He’d healed so many people that everybody with an ailment was crowding up to touch him. 11When unclean spirits would see him, they’d kneel down to him and cry out, “You’re God’s Son.” 12He’d strictly order them not to tell who he was.	Mk 3:7-12
+
+Calling the Twelve Apostles
+
+13He went upp on a mountain and called the ones he wanted. 14He appointed twelve and named them apostles.  He appointed them to be with him so he could “send” them out to preach 15and have authority to cast out demons. 16The Twelve were Simon, that he named Peter; 17James and John, sons of Zebedee, that he nicknamed Boanerges (Sons of Thunder); 18Andrew, Philip, Bartholomew, Matthew, Thomas; James son of Alphaeus, Thaddaeus, Simon the Zealot, 19and Judas Iscariot, who later betrayed him.	       Mk 3:13-19
+
+The Pharisees’ Charge That
+
+Jesus Was in League with the Devil
+
+20He camep home, and again such a crowd gatheredp that he and his disciples couldn’t even eat. 21When his neighbors heard about it, they went out to rescue him, because they said he was out of his mind. 22Scribes from Jerusalem were saying he had Beelzebub—that he was casting out demons by the ruler of demons. 23He called them over and gave them an illustration:
+
+“What sense does it make to say Satan casts out Satan? 24A kingdom at cross purposes with itself can’t stand. 25A family at cross purposes with itself can’t stand. 26If Satan opposes himself and is at cross purposes, he can’t stand. 27Nobody can go into a strong man’s house and seize his property unless he ties him up first. Then he can ransack his house.
+
+28I tell you, any sin can be forgiven, including blasphemy; 29but anybody that blasphemes the Holy Spirit will never be forgiven; they’re guilty of permanent sin” (30He gave that warning because they were saying he had an unclean spirit.) 	        Mk 3:20-30
+
+Jesus’ Mother and Brothers
+
+Interrupt His Ministry
+
+31His mother and brothers camep and stood outside and sent him a message, calling him. 32The crowd sitting around saidp, “Your mother and brothers are outside, wanting to talk to you.”
+
+33He answeredp, “Who are my mother and my brothers?” 34He looked around at the ones sitting around him, “My mother and my brothers! 35Whoever does God’s will, is my brother, my sister, my mother.”	Mk 3:31-35
+
+The Sermon in Parables
+
+4:1Another time he was trying to teach by the lake, but the crowd wasp so big he got in a boat on the water and sat down. The crowd was on the shore.
+
+2He started teaching them with parables.
+
+3“Listen. A sower went out to sow. 4As he sowed, some seed fell along the path, and birds came and ate it. 5Some fell on rocky ground, where there wasn’t much soil. It sprouted up right away because the soil was thin. 6But when the sun climbed high, it scorched and shriveled up because it didn’t have roots. 7Other seed fell among thorns, and the thorns grew up and choked it out, and it didn’t produce anything. 8But other seed fell on good ground, grew up, and produced 30, 60, 100 times over. 9Whoever has ears, listen!”
+
+10When he was by himself, the ones around him with the Twelve asked him about the parables. 11He told them, “You’re allowed to know the unrevealed things about God’s kingdom, but to people outside I’m doing things in parables 12so
+
+‘They’ll certainly see, but not perceive;
+
+they’ll certainly hear, but not understand,
+
+be converted, and
+
+I forgive them’ [Is 6:9-10].	Mk 4:1-12
+
+13“You don’t understand this parable? How will you understand any parable? 14A sower sows the message. Some deeds fall beside the path where the message is sown. 15When they hear it, Satan comes at once and takes away what was sown in them. 16Some fall on rocky soil. When they hear the message, they’re glad and accept it right away. 17But they don’t have root in themselves and just last a while. When trouble or persecution comes on account of the message, they stumble. 18Some seeds fall among thorns. They hear the message; 19but the cares of this age, the deception of wealth, the desire for other things enter in and choke them out, and they don’t produce anything. 20Others fall on good ground; they hear the message, accept it, and produce 30, 60, 100 times as much as was sown.”
+
+21“People don’t take a lamp and stick it under a basket, do they? They put it on a stand. 22Nothing is hidden that won’t be revealed; nothing is secret that won’t come to light. 23Whoever has ears, listen!”
+
+24“Be careful what you listen to. The measure you measure with, you’ll be measured by—and more so. 25Those who have, will receive more; those who don’t have, will lose even what they do have.”	Mk 4:13-25
+
+26“God’s kingdom is like a man that puts seed in the ground. 27He sleeps and gets up day after day, but he doesn’t know how the seed sprouts and grows. 28The ground produces crops on its own—the stalk, the head, then the seed in the head. 29When the crop is ripe, he gets out his scythe to harvest it.”
+
+30“What can we compare God’s kingdom to? What’s it like? 31It’s like a mustard seed, which is smaller than any other seed people plant. 32Yet it grows up bigger than the other garden plants and puts out branches, so birds build nests in its shade.
+
+33Only with parables like those was he delivering the message to them as they could understand. 34Privately he’d explain them to his disciples.	 Mk 4:26-34
+
+Stilling the Storm
+
+35That evening he saidp, “Let’s go to the other side.” 36They left the crowd and took him along in the boat like he was; some other boats went along. 37A dangerous storm came upp and was sloshing waves into the boat, and it was filling up. 38He was in the back of the boat, sleeping on a cushion. They wokep him up, “Rabbi, don’t you care that we’re going to die?” 39Now that he was awake, he rebuked the wind, and a general calm settled in. 40He said, “Why are you so scared? Don’t you trust me yet?” 41They were even more scared now, “Who is this that even the wind and waves obey?” 	Mk 4:35-41
+
+Healing the Gadarene Demoniacs
+
+5:1They came to the other side of the lake, to the area of the Gerasenes. 2As soon as he got out of the boat, a man with an unclean spirit met him from the tombs. 3He’d been living in the tombs, and nobody could tie him up anymore. 4People had often bound him with shackles and chains. He’d pulled the chains apart and break the shackles in pieces. Nobody was strong enough to subdue him. 5Constantly day and night in the tombs and in the hills, he’d scream and cut himself with stones. 6When he saw Jesus a long way off, he ran and bowed to him 7and screamedp, “What is this, Jesus, Son of God Most High! I beg you by God not to torment me!” (8He said that because Jesus had told the unclean spirit to come out of him.)
+
+9He asked him, “What’s your name?”
+
+“‘Legion’; there are lots of us.” 10He begged Jesus not to send them away from the area. 11A tremendous herd of pigs was feeding on the hillside. 12“Send us into the pigs.” 13He let them. They went into the herd of about 2,000, which stampeded down the steep hill into the lake and drowned.
+
+14The herdsmen ran away and reported it in town and in the countryside, and people came to see what had happened. 15They camep over to Jesus and saw the demon-possessed man sitting there dressed and in his right mind, and they were afraid. 16The people that had seen it described to them how it was with the demoniac and the pigs. 17The people begged Jesus to leave.
+
+18As he was getting in the boat, the demoniac begged to go along; 19but Jesus toldp him, “Go home to your family and tell them how much the Lord has done for you and how he was merciful to you.” 20He went and told in the Decapolis what all Jesus had done for him, and everybody was amazed.	 Mk 5:1-20
+
+Raising Jairus’ Daughter;
+
+Healing a Woman with Chronic Hemorrhaging
+
+21When Jesus crossed back over to the other side in the boat, a big crowd had gathered beside the lake. 22A ruler of the synagogue, named Jairus, saw him and camep and fell downp to him. 23He pleadedp, “My little girl is at the point of death. Please come and lay hands on her so she’ll live.” 24Jesus went with him.
+
+A big crowd was following him and pressing in on him. 25A woman there had been hemorrhaging for twelve years. 26She’d been put through a lot by doctors and spent everything she had without any benefit—but got worse. 27When she heard about Jesus, she came up behind him in the crowd and touched his clothes. She’d said, 28“If I can just touch his clothes, I’ll be cured.” 29Instantly her bleeding stopped. She could tell in her body that she was healed from the scourge she’d been dealing with for so long.
+
+30At once Jesus sensed that power had gone out of him. He turned around in the crowd, “Who touched my clothes?”
+
+31His disciples said, “You see the crowd pressing in on you and you say, ‘Who touched me?’”
+
+32He kept looking around to see who did it. 33The woman, afraid and trembling, knew what had happened to her. She came and fell down to him and admitted the whole thing.
+
+34“Daughter, your faith has cured you. Have a good day and stay healed from your ailment.”
+
+35While he was speaking, they camep from the synagogue ruler’s house, “Your daughter has died; why bother the Rabbi anymore?”
+
+36But Jesus overheard the message and toldp the synagogue ruler, “Don’t give up; just trust me.”
+
+37He only let Peter, James, and his brother John follow him. 38When he camep to the man’s house and saw the crying and loud wailing, 39he went in and saidp, “Why are you making such a scene? The girl’s not dead; she’s ‘asleep.’” 40They started ridiculing him. He put them all out and took her parents and the three with him into where the girl was. 41He took her hand, “Talitha, qum (Girl, get up).” 42She stood up right away and started walking around. (She was twelve.) They were completely astounded. 43He gave them strict orders that nobody should know about this and told them to give her something to eat. 	Mk 5:21-43
+
+Last Visit to Nazareth
+
+6:1 He left for his hometown with his disciples. 2When Sabbath came, he taught in the synagogue, and many were astonished when they heardp him: “Where’d he get that wisdom and those miracles he does with his hands? 3Isn’t this the builder, Mary’s son and brother of James, Joseph, Judas, and Simon? Aren’t his sisters here?” They were put off by him.
+
+4Jesus told them, “A prophet is respected everywhere except in his hometown, among his relatives, in his own family.” 5He couldn’t do any miracle there—except he did lay hands on a few sick people and healed them. 6He was amazed at their disbelief.
+
+He continued to move around the villages and teach. 	Mk 6:1-6
+
+Mission of the Twelve
+
+7He calledp the Twelve aside and got them ready to go out in pairs with authority over unclean spirits. 8He instructed them not to take anything except a rod—no bread, traveler’s bag or money in their belt, 9but to wear sandals. “Don’t take two shirts to wear. 10Stay at whatever house you enter till you leave the area. 11If a place doesn’t welcome you or listen to you, leave and shake the dust off your feet as a statement to them.” 12They went out and preached that people should repent. 13They cast out demons and anointed many sick people and healed them.
+
+Mk 6:7-13
+
+Herod’s Stricken Conscience
+
+14King Herod heard about him because Jesus had become well known. People were saying John the Baptist had arisen from the dead and that was why miraculous powers were working in him. 15Others were saying he was Elijah or like one of the prophets. 16When Herod heard about it, he said, “John that I beheaded has resurrected.” 17Herod himself had sent and arrested John and bound him in prison on account of Herodias, his brother Philip’s wife, because he’d married her. 18John kept telling Herod, “It’s against the Law for you to be living with your brother’s wife.” 19Herodias had a grudge against him and wanted to have him killed; but she couldn’t 20because Herod was afraid of him. He knew he was upright and holy, and he protected him. He listened to him many times and was confused, but he liked to listen to him.
+
+21A chance came when Herod threw a banquet on his birthday for his officials, military commanders, and prominent men of Galilee. 22When his daughter of Herodias came in and danced, it pleased Herod and the ones reclining at table with him. The king said to the girl “Ask me for whatever you want, and I’ll give it to you.” 23He strongly swore to her, “I’ll give you whatever you ask for up to half my kingdom.”
+
+24She went out and asked her mother what she should ask for.
+
+“The head of John the Baptist!”
+
+25She hurried back and asked, “I want you to give me right now the head of John the Baptist on a platter.”
+
+26Herod became deeply grieved; but because of his oaths and the guests, he wasn’t willing to refuse her. 27He sent the executioner to bring John’s head. He went and beheaded him in prison, 28brought his head on a platter and gave it to the girl, and she gave it to her mother. 29When his disciples heard about it, they came and got his corpse and put it in a tomb.	Mk 6:14-29
+
+Feeding the 5,000
+
+30The apostles came backp to Jesus and reported what all they’d done and taught. 31He saidp, “Come off by yourselves away from the crowds and rest awhile.” So many people were coming and going they didn’t have time to eat. 32They left in a boat to a place off by themselves.
+
+33People saw them leaving and figured out where they were going. They ran as a group from the towns and got there first. 34When he got out of the boat, he saw a large crowd and felt sorry for them: they were like sheep without a shepherd. He began to teach them a lot of things.
+
+35When it was getting quite late, his disciples came to him, “Nobody lives around here, and it’s getting late. 36Dismiss them so they can go into the countryside and villages to buy food.”
+
+37But he answered, “You feed them.”
+
+“Should we go spend 200 denarii on bread to feed them!?”
+
+38“Go see how many loaves you have.”
+
+They found five, and two fish.
+
+39He told his disciples to have everybody sit down on the green grass 40in groups of 50 and 100. 41He took the five loaves and two fish, and looked up at the sky, blessed and broke the loaves, and started giving them to his disciples to distribute to the crowd, and divided up the two fish for everybody. 42They all ate till they were full. 43The disciples picked up twelve baskets of bread and fish pieces. 445,000 men had eaten the loaves.	Mk 6:30-44
+
+Jesus Walking on the Water
+
+45Jesus urged his disciples to get in the boat right away and go on to Bethsaida, on the other side, while he dismissed the crowd. 46When he’d said goodbye to everybody, he went up on the hill to pray. 47In the evening the boat was in the middle of the lake, and he was alone on land. 48He saw them straining at the oars because the wind was against them. About 4 in the morning, he went to them walking on the water as if he intended to go on by. 49When they saw him walking on the water, they thought he was a ghost and cried out terrified. 50At once he spokep, “It’s me. Don’t let me scare you.” 51He climbed up into the boat with them and the wind died down. They were astounded. 52They hadn’t got the point about the loaves. They weren’t catching on.	Mk 6:45-52
+
+Miracles at Gennesaret
+
+53When they’d crossed over to land, they tied up at Gennesaret. 54As soon as they got out of the boat, people recognized him. 55They hurried around the vicinity and started bringing sick people on stretchers to wherever they heard he was. 56Whatever villages, towns, or countryside he’d go to, they’d put sick people in the marketplaces and appeal to him just to touch his clothes. As many as touched him were cured.	Mk 6:53-56
+
+Attack by the Jerusalem
+
+Pharisees About Traditions
+
+7:1Some Pharisees and scribes from Jerusalem 2had seen some of his disciples eatp with defiled—unwashed—hands. (3The Pharisees and all the Jews always wash their hands vigorously before they eat—keeping the tradition of the elders. 4When they come in from the marketplace, they don’t eat unless they take a bath. They keep many other customs—immersing cups, pitchers, bronze kettles [and bedrolls]ms.) 5They gathered around Jesus and asked, “Why don’t your disciples follow the tradition of the elders instead of eating with defiled hands?”
+
+6He told them,
+
+“Isaiah described you hypocrites well when he wrote:
+
+‘This people honors me with their lips,
+
+but their heart is far from me.
+
+7They worship me without meaning anything, and
+
+teach human rules as God’s doctrines’ [Is 29:13 LXX].
+
+8-9You neatly set aside divine commandment to establish human tradition. 10A case in point: Moses said, ‘Honor your father and your mother’ [Ex 20:12; Deut 5:16], and, ‘Put to death whoever cusses at his father or mother’ [Ex 21:17]. 11But you say, ‘If a person tells his father or mother, “Whatever would have helped you is ‘Corban (‘Given’).’” 12You let him do nothing for his parents. 13You negate God’s word with your tradition. You do a lot of things like that.”
+
+14He called the crowd again, “Listen, all of you, and get this. 15Nothing that goes in you can defile you. It’s what comes out of you that defiles you.” [16]ms
+
+17When he went into the house away from the crowd, his disciples asked him about the illustration.
+
+18“Don’t you get it either? Don’t you know that nothing that goes into you can defile you. 19It doesn’t go into your heart, but into your stomach, and is eliminated in the toilet (a comment that cleanses all foods ceremonially)? 20What comes out of you is what defiles you. 21From the inside—from your heart—come sinful thoughts, sexual immorality, theft, murder, 22adultery, coveting, evil intentions, deception, indecency, jealousy, pride, senselessness. 23Sinful things from inside you are what defile you.”	 Mk 7:1-23
+
+Healing the Syrophoenician Woman’s Daughter
+
+24From there he traveled to the locale around Tyre and went into a house because he didn’t want anybody to know it, but he couldn’t hide. 25Right away, a woman whose daughter had an unclean spirit heard about him and came and fell down to him. 26She was a Greek, a Syrophoenician. She asked him to cast out the demon.
+
+27He told her, “Let the kids eat first. It’s not right to take their food and toss it to the dogs in the house.”
+
+28But she answered, “Lord, even house dogs under the table eat the kids’ crumbs.”
+
+29“Because of that comment, you can go; the demon has left your daughter.”
+
+30When she went in her house, she found the little girl lying on her bed and the demon gone.	Mk 7:24-30
+
+Ministry in Decapolis;
+
+Feeding the 4,000
+
+31He left the area around Tyre and traveled through Sidon to Lake Galilee in the territory of Decapolis. 32They broughtp him a deaf man with a speech impediment and askedp him to lay his hand on him. 33He took him away from the crowd by himself and put his fingers in his ears and spit and touched his tongue. 34He looked up at the sky, and made a groaning sound and saidp, “Ephphatha (Open up).” 35His ears opened and his tongue freed up, and he started speaking clearly. 36Jesus told the people not to tell anybody, but the more he told them to keep something quiet, the more they spread it around. 37They were completely astonished, “He’s done everything well. He even makes deaf people hear and mutes speak.”	Mk 7:31-37
+
+8:1At that time again, the large crowd didn’t have anything to eat. Jesus calledp the disciples over, 2“I feel for the crowd. They’ve stayed with me three days already and don’t have any food. 3If I send them home hungry, they’ll collapse on the way. Some of them have come a long way.”
+
+4His disciples answered, “Where can anyone satisfy them out here in the open country?”
+
+5“How many loaves do you have?”
+
+“Seven.”
+
+6He toldp the crowd to sit down. He took the seven loaves, blessed them, and gave them to his disciples to distribute to the crowd. 7They had a few small fish. He blessed them and said to pass them out too. 8The people ate till they were full, and the disciples picked up seven large baskets of pieces. 9About 4,000 were there, and he dismissed them. 10Directly he got in the boat with his disciples and went to the vicinity of Dalmanutha.	 Mk 8:1-10
+
+Visit to Magadan;
+
+Demand for a Sign from the Sky
+
+11The Pharisees came and started arguing with him and demanding a sign from the sky—testing him. 12He groaned under his breath, “Why do people today keep looking for a sign? They’re not going to get one.” 13He got in the boat again and went back to the other side.
+
+Mk 8:11-13
+
+Fourth Withdrawal East of the Lake;
+
+Warning to the Disciples
+
+14The disciples had forgotten to take bread along and only had one loaf left in the boat. 15He gave them strict orders, “Watch out for the ‘yeast’ from the Pharisees and Herod.” 16They started reasoning with one another that his comment was because they did not have any bread. 17He knew it and saidp,
+
+“Why are you talking about not having any bread? Don’t you get it yet? Do you have minds that can’t understand? 18Do you have eyes but can’t see, and ears but can’t hear? Don’t you remember 19how many medium-sized baskets of leftover pieces you picked up when I broke the five loaves for the 5,000?”
+
+“Twelve.”
+
+20“How many large baskets of leftovers did you pick up when I broke the seven loaves for the 4,000?”
+
+“Seven.”
+
+21“You still don’t catch on?”
+
+22They wentp to Bethsaida, and people broughtp Jesus a blind man and askedp him to touch him. 23He led him by the hand out of the village. He spit on his eyes and put his hands on him, and asked, “Do you see anything?”
+
+24He looked up and said, “I see people—like trees—walking.”
+
+25Jesus put his hands on the man’s eyelids again; the man looked intently, and his sight came back clear.
+
+26Jesus sent him home, “Don’t go back into the village.”	Mk 8:14-26
+
+Peter’s Great Confession
+
+27Jesus and his disciples went out to the villages around Caesarea Philippi. On the way he asked them, “Who are people saying I am?”
+
+28“John the Baptist; others, Elijah; others, that you’re one of the prophets.”
+
+29“Who do you say I am?”
+
+Peter answered, “You’re the Messiah.”
+
+30Jesus told them not to tell anybody.	 Mk 8:27-30
+
+The First Prediction of Messiah’s Death
+
+31He started explaining to them that the Son of Man had a lot to suffer; be rejected by the elders, chief priests, and scribes; be put to death, and resurrect after three days. 32He was talking about the matter openly, and Peter pulled him aside and began to scold him. 33He turned around and saw his disciples and scolded Peter, “Get behind me, Satan. Your mind’s not on God’s interests, but human interests.”
+
+34He called the crowd with his disciples,
+
+“If people want to follow me, they have to set aside their own interests, pick up their cross, and follow me. 35Whoever wants to save their life will lose it; whoever loses their life more than me and the good news will save it. 36What good does it do anyone to gain the whole world and forfeit teir life? 37What would they give in exchange for their life? 38Whoever’s ashamed of me and my message in this adulterous, sinful time, the Son of Man will be ashamed of when he comes in his Father’s glory with his holy angels. 9:1Some of you standing here will certainly live to see God’s kingdom come with power.”	      Mk 8:31-9:1
+
+The Transfiguration
+
+2Six days later Jesus tookp Peter, James, and John up on a mountain by themselves, and was transfigured in front of them. 3His clothes turned brilliant white like no laundryman can bleach them. 4Elijah appeared with Moses, talking to Jesus. 5Peter respondedp, “Rabbi, it’s good to be here. Should we set up three tents—one each for you, Moses, and Elijah?” 6He didn’t know what to say, because they were afraid. 7A cloud surrounded them, and a voice came out of it, “This is my dearly loved Son; listen to him.” 8Suddenly they looked around and didn’t see anybody but Jesus.	Mk 9:2-8
+
+Discussing the Vision
+
+9As they were coming down the mountain, he impressed on them not to pass on to anybody what they’d seen till the Son of Man arose from the dead. 10They kept the matter to themselves and wondered what “arising from the dead” meant.
+
+11They asked him, “Why do the scribes say Elijah has to come first?”
+
+12“Elijah does come first and restore everything, and how does the scripture say that the Son of Man has to suffer many things and be rejected? 13But Elijah has in fact come, and they treated him however they wanted to, like scripture says.”	 Mk 9:9-13
+
+Healing the Demoniac Boy
+
+14When they got back to the rest of the disciples, they saw a big crowd around them and scribes arguing with them. 15When they saw him, the whole crowd was really surprised and ran to greet him. 16Jesus asked, “Why are you arguing with them?”
+
+17A man in the crowd answered him, “Rabbi, I brought you my boy. He has a spirit that makes him unable to talk. 18Wherever it seizes him, it throws him on the ground. He foams at the mouth and grinds his teeth; and it makes him rigid. I spoke to your disciples about casting it out, but they couldn’t do it.”
+
+19“Unbelieving bunch, how long am I going to be with you? How long am I going to deal with you? Bring him to me.”
+
+20They brought him; and when the spirit saw Jesus, it threw the boy into convulsions. He fell on the ground and rolled around and foamed at the mouth.
+
+21Jesus asked his dad, “How long has this been going on?”
+
+“Ever since he was little. 22Lots of times it’s thrown him into the fire or the water to destroy him. But if you can, help us; have sympathy for us.”
+
+23Jesus said, “If you can? Everything’s possible for someone that believes.”
+
+24His dad cried out, “I believe! Help my unbelief!”
+
+25When Jesus saw the crowd quickly coming together, he commanded the unclean spirit, “Mute and deaf spirit, I charge you, come out of him and don’t go into him again.”
+
+26It cried out and threw him into severe convulsions and came out. The boy looked like he was dead, so much so that many of them said he’d died. 27But Jesus took his hand and raised him up, and he stood up.
+
+28When Jesus went into a house, his disciples asked him privately, “Why couldn’t we cast it out?”
+
+29“This kind doesn’t come out except by prayer.”	Mk 9:14-29
+
+Third Prediction of His Death
+
+30They left and began traveling around Galilee. He didn’t want anybody to know it, 31because he was trying to teach his disciples, “I’m going to be betrayed to authorities that will put me to death. Three days later I’ll resurrect.” 32They didn’t understand, but they were reluctant to ask him about it.	Mk 9:30-32
+
+Discussion About Rank
+
+33When they came home to Capernaum, he asked them, “What were youpl arguing about on the road?” 34They kept still because they’d been arguing about who had higher rank. 35He sat down and called the Twelve over, “If anybody wants to be first, he’ll put himself last as servant of all.” 36He took a little child and stood him among them and put his arms around him, 37“Whoever receives one of these children in my name receives me, and whoever receives me receives the One that sent me.”
+
+The Unknown Exorcist
+
+38John said, “Rabbi, we saw a fellow casting out demons in your name and tried to stop him because he wasn’t following us.”
+
+39“Don’t stoppl him. Nobody that performs a miracle in my name will turn around right away and say something bad about me. 40Whoever is not against us is for us. 41Whoever gives you a cup of water in my name because you’re following the Messiah, will certainly not miss out on his reward. 	   Mk 9:33-41
+
+The Question of Stumbling Blocks
+
+42“Whoever makes one of these little ones stumble that believes in me, would be better off to have a large millstone put around their neck and be thrown into the sea. 43If your hand causes you problems, cut it off. It’s better to go about life deformed than to have two hands and go to hell—into the unquenchable fire. [44]ms 45If your foot causes you problems, cut it off. It’s better to go about life deformed than to have two feet and be thrown into hell. [46]ms 47If your eye causes you problems, gouge it out. It’s better to get in God’s kingdom with one eye than to have two eyes and be thrown into hell, 48where the worms don’t die, and the fire doesn’t burn out.
+
+49“Everybody will be salted with fire. 50Salt’s good, but if it loses its saltiness, how will you make it salty? Have salt in yourselves and get along with each other.”	Mk 9:42-50
+
+Jesus in Perea;
+
+Teaching About Divorce
+
+10:1From there he wentp to places in Judaea and beyond the Jordan. Again, crowds wentp with him; and he was teaching them like usual.
+
+2Pharisees came and asked if a man could legally divorce his wife—testing him.
+
+3He answered, “What did Moses command you?”
+
+4“Moses allowed a husband to write a certificate of divorce and divorce her” [Deut 24:1, 3].
+
+5Jesus said, “He wrote that because of your hardheartedness. 6From the beginning of creation, ‘he made them male and female [Gen 5:2]. 7So a man is to leave his parents and be unite with his wife, 8and they’ll become a physical unit’ [Gen 2:24]; they’re no longer two but one. 9What God has joined, people are not to separate.”
+
+10In the house the disciples asked him about it again.
+
+11“Whoever divorces his wife and marries another woman commits adultery against her. 12If a woman divorces her husband and marries another man, she commits adultery.”	Mk 10:1-12
+
+Jesus and the Little Children
+
+13People were bringing their kids so he could touch them, but the disciples fussed at them. 14When Jesus saw it, he was indignant, “Let them come to me. Don’t get in their way. God’s kingdom is made up of people like them. 15Whoever doesn’t welcome God’s kingdom like a little child, will certainly not get into it.” 16He took the children in his arms and laid hands on them.	Mk 10:13-16
+
+The Rich Young Ruler
+
+17As he was going out to the road, a man ran and knelt to him, “Good Rabbi, what can I do to inherit eternal life?”
+
+18Jesus said, “Why are you calling me good? Only God is good. 19You know the commandments, ‘do not murder, commit adultery, steal, lie, or swindle; respect your parents” [Ex 20:12-16; Deut 5:16-20; 24:14].
+
+20“I’ve kept those since I was a boy.”
+
+21Jesus looked at him and liked him, “There is one thing you lack. Sell what you own, give it to the poor, and you’ll have wealth in heaven; come with me.”
+
+22He was shocked and went away discouraged because he owned a lot.	 Mk 10:17-22
+
+The Peril of Wealth
+
+23Jesus looked around and saidp to his disciples, “It’s so hard for wealthy people to get into God’s kingdom.”
+
+24That surprised the disciples, but he saidp it again; “Children, it’s so hard to get into God’s kingdom. 25It’s easier for a camel to go through a needle’s eye than for rich people to get into God’s kingdom.”
+
+26They were surprised even more and said to one another, “So who can be saved?”
+
+27Jesus looked at them and saidp, “It’s not possible with people, but with God everything’s possible.”
+
+28Peter spoke up, “We’ve left everything to follow you.”
+
+29Jesus said, “Everybody that’s left a house, brothers, sisters, mother, father, children, or fields for my sake 30will receive houses, brothers, sisters, mothers, children, and fields 100 times over in this age with persecution and eternal life in the age to come. 31Many first will be last and last, first.”     	Mk 10:23-31
+
+Another Prediction of His Death
+
+32On the way up to Jerusalem, Jesus was ahead of them. They were wondering what was going to happen, and the people behind were afraid. He called the Twelve again and explained to them what was about to happen: 33“We’re going to Jerusalem, and I’ll be betrayed to the chief priests and the scribes. They’ll condemn me to death and turn me over to the Gentiles. 34They’ll make fun of me, spit on me, flog me, and put me to death. Three days later I’ll resurrect.”
+
+Mk 10:32-34
+
+James and John’s Request for Rank
+
+35James and John, Zebedee’s sons, camep, saying, “Rabbi, we want you to do something.”
+
+36“What is it?”
+
+37“Let us sit on your right and left hand in your glory.”
+
+38Jesus told them, “You don’t know what you’re asking. Can you drink the cup I drink and be baptized with the baptism I’m baptized with?”
+
+39“Yes.”
+
+Jesus said, “You’ll drink the cup I drink all right and be baptized with the baptism I’m baptized with. 40But I’m not the One that decides who sits on my right and left hand. They’re the ones it’s prepared for.”
+
+41When the ten heard it, they were indignant over what James and John had done.
+
+42Jesus saidp,
+
+“You know that rulers among the Gentiles lord it over them, and their great ones are tyrants toward them. 43It’s not that way with you. Whoever wants to be great among you will be your servant, 44and whoever wants to be first among you will be the servant of all. 45Even I didn’t come to be served, but to serve, and to give my life as a ransom for many.” 	Mk 10:35-45
+
+Healing a Blind Man at Jericho
+
+46They camep to Jericho. As he, his disciples, and a sizeable crowd were leaving the city, Bartimaeus (“Son of Timaeus”), a beggar, was sitting by the road. 47When he heard it was Jesus the Nazarene, he started yelling, “Jesus, son of David, have mercy on me!”
+
+48People told him to quiet down, but he yelled louder, “Son of David, have mercy on me.”
+
+49Jesus stopped, “Call him over here.”
+
+They called him, “Okay; get up; he’s calling for you.”
+
+50He threw his cloak aside, jumped up, and went to Jesus.
+
+51Jesus answered him, “What do you want me to do for you?”
+
+“Rabbi, I want to see again.”
+
+52“Go on, your faith has made you able to see.” Instantly he could see again, and he went with Jesus on the road.	Mk 10:46-52
+
+The Triumphal Entry
+
+11:1When they gotp close to Jerusalem—to Bethphage and Bethany, on the Mount of Olives, he sentp two disciples, 2“Go in the village over there. Just inside, you’ll find a donkey colt tied that nobody has ridden. Untie it and bring it here. 3If anybody says, ‘Why are you doing this?’ say, ‘The Lord needs it,’ and he’ll sendp it here right away.”
+
+4They went and found the colt tied at the gate outside by the road and untiedp it. 5Some of the ones standing there said, “What’re you doing, untying the colt?”
+
+6The disciples said what Jesus told them to say, and they let them take it. 7They broughtp it to Jesus and putp their cloaks on it, and he sat on it. 8People spread their cloaks on the road and brought leafy branches they’d cut out of the fields. 9The ones in front and behind started shouting,
+
+“Hosanna!
+
+Blessed be the one that’s coming in the name of the LORD [Ps 118:25-26]!
+
+10Blessed is the coming kingdom of our ancestor David.
+
+Hosanna in the highest!”
+
+11He entered the Temple in Jerusalem and looked around at everything. It was already evening, and he went out to Bethany with the Twelve.	Mk 11:1-11
+
+Cursing the Fig Tree;
+
+Second Cleansing of the Temple
+
+12The next day, when they left Bethany, he was hungry. 13From a distance he saw a fig tree leafed out and went to see if he’d find anything on it. He didn’t find anything but leaves—it wasn’t the season for figs yet. 14He said to it, “May nobody ever eat fruit from you again.” His disciples heard it.
+
+15They wentp into Jerusalem. In the Temple, he started putting out the buyers and sellers. He turned over the tables of the moneychangers and the chairs of men selling doves. 16He wouldn’t let anybody carry a container through the Temple. 17He began to teach, “Doesn’t scripture say,
+
+‘Call my house a house of prayer for all the nations’? [Is 56:7]
+
+You’ve made it ‘a den of thieves’!” [Jer 7:11]
+
+18The chief priests and scribes heard about it and kept looking for a way to destroy him. They were afraid of him, and the crowd was astonished at his teaching. 19In the evening, he and his disciples left the city. 	Mk 11:12-19
+
+Discussing the Shriveled Fig Tree
+
+20As they went by early the next morning, they saw the fig tree completely shriveled up. 21Peter remembered, “Rabbi, the fig tree you cursed has shriveled up!”
+
+22Jesus saidp, “Trust God. 23Whoever says to this mountain, ‘Be picked up and thrown into the sea,’ and doesn’t doubt, it’ll happen. 24As many things as you ask for in prayer, believe you’ve as good as received itaorist, and you will. 25When you stand praying, if you have anything against anybody, forgive him so your Father in heaven will forgive you.” [26]ms	Mk 11:20-26
+
+Jesus’ Authority Challenged
+
+27They wentp into Jerusalem again. While he was walking in the Temple, the Pharisees, scribes, and elders camep, 28“What right do you have to do this? Who gave you that right?”
+
+29Jesus said, “I’ll ask you something. Answer me and I’ll tell you what right I have to do this. 30Was John’s baptism from heaven or humans? Answer that.”
+
+31They consulted with one another, “If we say, ‘From heaven,’ he’ll say, ‘Why didn’t you believe him?’ 32But if we say, ‘From humans’”—they were afraid of the crowd because they all certainly considered John a prophet. 33They answeredp, “We don’t know.”
+
+Jesus saidp, “I won’t tell you either what right I have to do this.” 	Mk 11:27-33
+
+Parable About a Vineyard
+
+12:1He started telling parables.
+
+“A man planted a vineyard, put a wall around it, dug a wine pit with a trough under it, rented it out to tenants, and left on a trip. 2At harvest time he sent a servant to the tenants to receive the fruit from the vineyard. 3They took him and beat him up and sent him away empty-handed. 4He sent another servant, and they beat him over the head and abused him. 5He sent another, and they killed him. He sent many others. They beat up some and killed others.
+
+6“He still had one, dear son. He sent him to them last, ‘They’ll respect my son.’ 7But those tenants said to one another, ‘This is the heir. Come on, let’s kill him, and the inheritance will belong to us.’ 8They took him, threw him out of the vineyard, and killed him. 9What will the owner do? He’ll come and destroy those tenants and give the vineyard to other people. 10Didn’t you ever read this scripture:
+
+‘The stone the builders rejected
+
+has become the cornerstone.
+
+11That has come from the LORD;
+
+it’s amazing to us.’” [Ps 118:22-23]
+
+12The Pharisees were trying to find a way to arrest him, but they were afraid of the crowds. They knew he’d aimed the parable at them, and they left.	       Mk 12:1-12
+
+Question About Tribute to Caesar
+
+13They sent some Pharisees and Herodians to trap him in what he said. 14They said, “Rabbi, we know you tell the truth, you don’t defer to anybody, you don’t respect persons, you teach the way of God correctly. Is it lawful to pay tribute to Caesar?”
+
+15He saw through their hypocrisy, “Why are you trying to put me on the spot? Bring me a denarius.”
+
+16They brought him one, and he said, “Whose image and inscription are these?”
+
+“Caesar’s.”
+
+17“So pay Caesar what you owe Caesar and pay God what you owe God.”
+
+They were stunned.	     Mk 12:13-17
+
+Question About Resurrection
+
+18The Sadducees came—who say there’s no resurrection,
+
+19“Rabbi, Moses wrote to us that if someone’s brother dies and leaves a wife and no child, his brother is to take the wife and raise up heirs for his brother [Gen 38:8; Deut.25:5]. 20There were seven brothers. The first married a wife and left no offspring when he died. 21The second married her and died, with no offspring. The third did the same thing. 22All seven died, not leaving any offspring. Last of all, the woman died too. 23Whose wife will she be in the resurrection? The seven had her as a wife.”
+
+24Jesus said,
+
+“Don’t you err because you don’t know the scriptures or God’s power? 25When people resurrect, they don’t get married. They’re like angels in heaven.
+
+26“As to the resurrection of the dead, haven’t you read in the book of Moses in the bush passage how God spoke to him: ‘I’m Abraham, Isaac, and Jacob’s God’? [Ex 3:6, 15-16] 27He’s not a God of the dead but of the living. You’re greatly mistaken.”	 Mk 12:18-27
+
+Question About the Most Important Commandment
+
+28When one of the scribes heard them arguing and saw that Jesus had answered them well, he came and asked, “What is the most important commandment?”
+
+29Jesus answered, “The most important is, ‘Listen, Israel, the LORD your God is LORD alone. 30Love the LORD your God with all your heart, all your soul, all your mind, all your strength’ [Deut 6:4-5]. 31The second is, “Love your neighbor as yourself” [Lev 19:18]. There’s no commandment more important than those.”
+
+32The scribe said, “Well put, Rabbi; you’re right that he is the only one [Deut 6:4]; there is no other God besides him [Deut 4:35; Is 45:21]. 33Loving him with all your heart, mind [Deut 6:5; Josh 22:5], and strength, and loving your neighbor as yourself [Lev 19:18] is more important than all burnt offerings and sacrifices.”
+
+34Jesus saw he’d made a sensible comment, “You’re not far from God’s kingdom.”
+
+Nobody dared ask him any more questions.	     Mk 12:28-34
+
+Question About the Son of David
+
+35After he answered those questions, as he was teaching in the Temple, he said, “How can the scribes say that the Messiah is David’s son? 36David said by the Holy Spirit,
+
+‘The LORD said to my Lord,
+
+“Sit at my right hand
+
+till I put your enemies under your feet”’ [Ps 110:1].
+
+37David himself called him ‘Lord’; how can he be his son?” The huge crowd loved it.
+
+Denunciation of the Pharisees
+
+38In his teaching, he was saying, “Watch out for the Pharisees. They like to walk around in long robes, receive greetings in marketplaces, 39occupy prominent seats in synagogues and places of honor at banquets. 40They confiscate widows’ houses and offer long prayers for show. They’ll receive more severe condemnation.”	Mk 12:35-40
+
+The Widow’s Mite
+
+41He sat down across from the Treasury and watched people from the crowd put copper coins in the Treasury. Wealthy people were putting in big amounts. 42A poor widow came and put in two leptons, which equal a quadrans. 43He called his disciples over, “That poor widow put in more than all the others. 44They donated out of their abundance, but she donated out of her poverty—everything she had to live on.”	     Mk 12:41-44
+
+The Olivet Discourse
+
+13:1As he was leaving the Temple, one disciple saidp, “Rabbi, look at what wonderful stones and magnificent buildings!”
+
+2Jesus said, “You see these large buildings? Not one stone will be left on top of another here.”
+
+3When he was sitting on the Mount of Olives across from the Temple, Peter, James, John, and Andrew asked him privately, 4“Tell us when that will happen and what will indicate that it’s about to happen.”
+
+5Jesus told them,
+
+“Make sure nobody deceives you. 6Many will come, saying, ‘I’m the Messiah,’ and deceive lots of people. 7When you hear about wars and reports about wars, don’t panic. They need to happen, but that’s not the end yet. 8Nation will attack nation; kingdom will attack kingdom. There’ll be earthquakes and famines in many places. They’re the beginning of labor pains.	 Mk 13:1-8
+
+9“Watch out. They’ll take you to court and flog you in the synagogues. You’ll stand in front of governors and kings to speak for me. 10The good news needs to reach all the countries first. 11When they arrest you and put you on trial, don’t worry about what you’re going to say. Say what comes to you at that time; you won’t be the ones speaking; it’ll be the Holy Spirit. 12Brother will betray brother to death, and father will betray child. Children will rise up against parents and have them put to death. 13People will hate you because of me. The one that endures to the end will be saved.
+
+14“When you see ‘the abomination of desolation’ positioned where it shouldn’t be (reader, understand), people in Judaea need to flee to the hill country. 15The one on the housetop must not go down to get what’s in the house. 16The one in the field must not go home to get his cloak. 17Woe to those who are pregnant or nursing then. 18Pray that it won’t happen in the wintertime. 19Those days will be the worst ever—from the beginning of God’s creation till now or ever will be. 20If the LORD hadn’t shortened them, nobody would survive. But, because of the Chosen, he has shortened them. 	Mk 13:9-20
+
+21“If anybody says, ‘Here’s the Messiah,’ or ‘There’s the Messiah,’ don’t believe it. 22False Messiahs and false prophets will arise and give signs and wonders to deceive, if possible, even the Chosen. 23But you be careful. I’ve told you all this ahead of time.
+
+24“After that distress,
+
+the sun will go out, and
+
+the moon won’t shine.
+
+25Stars will fall from the sky, and
+
+the powers in the sky will be shaken.
+
+26Then people will see the Son of Man coming on the clouds [Dan 7:13-14] with great power and glory. 27He’ll send out his angels to gather the Chosen from every direction, from the end of earth to the end of sky.
+
+28“Take a lesson from a fig tree. When its branches get tender and sprout leaves, you know summer’s coming. 29The same way, when you see these things happening, you know he’s at the door. 30They’ll take place in this generation. 31Earth and sky will pass away, but what I say won’t pass away.	Mk 13:21-31
+
+32“Nobody knows about that day or hour—not the angels in heaven, not the Son of Man, only the Father. 33Be careful, stay alert; you don’t know when it will happenp. 34A man leaving on a trip gives each servant the authority to do his job and tells the doorkeeper to stay alert. 35Watch; you don’t know when the master of the household will come back—in the evening, at midnight, at rooster crowing, or in the morning—36so if he comes unexpectedly, he won’t catch you sleeping. 37What I’m saying I’m saying to all of you. Watch!” 	Mk 13:32-37
+
+Fifth Prediction of His Death
+
+14:1The Passover and Festival of Unleavened Bread was two days away. The chief priests and scribes were trying to find a way to arrest Jesus by stealth and put him to death. 2They said, “Not during the festival; the people will riot.”	Mk 14:1-2
+
+The Anointing of Jesus by Mary
+
+3When he was in Bethany in the house of Simon the leper, reclining at table, a woman came with an alabaster cruise of expensive pure nard ointment. She broke open the alabaster cruise and poured it on his head. 4Some were expressing their indignation to one another, “Why has she wasted this ointment? 5She could’ve sold it for over 300 denarii and given it to the poor.” They started fussing at her.
+
+6Jesus said, “Leave her alone. Why are you bothering her? She’s done me a good turn. 7You always have poor people with you; you can do something good for them any time. You won’t always havep me. 8She did what she could: she anointed my body ahead of time for burial. 9Wherever you deliver the good news in the world, tell what she’s done in memory of her.”     	Mk 14:3-9
+
+Judas’ Plot to Betray Jesus
+
+10Judas Iscariot, one of the Twelve, went to the high priests to deliver Jesus to them. 11When they heard his offer, they were elated and promised to give him silver; so he started looking for a chance to turn him over.	Mk 14:10-11
+
+Preparation for the Passover Meal
+
+12On the first day of Unleavened Bread, when the Passover lamb was being sacrificed, his disciples said, “Where do you want us to get things ready for eating the Passover?” 13He sentp two disciples and saidp, “On the way into the city, you’ll meet a man carrying a clay pot of water. Follow him, 14and where he goes in, say to the owner, ‘The Rabbi says, “Where’s the guest room so I can eat the Passover with my disciples?”’ 15He’ll show you a big room upstairs, furnished and set up. Get things ready there.”
+
+16The disciples went into the city and found it the way Jesus had said and got things ready.	      Mk 14:12-16
+
+The Passover Meal;
+
+Judas Identified as Traitor
+
+17He arrivedp that evening with the Twelve. 18As they were reclining at table eating, he saidp, “One of you that’s eating with me is going to betray me.”
+
+19They became sad and said one by one, “It’s not me, is it?”
+
+20He said, “It’s one of the Twelve that’s dipping with me in the bowl. 21The Son of Man will go like scripture says, but woe to the one that betrays him! It would’ve been better for him if he hadn’t been born.”	Mk 14:17-21
+
+The Lord’s Supper Instituted
+
+22During the meal Jesus took a loaf, blessed it, broke it, and handed it to them: “Take it; this is my body.” 23He took a cup, blessed it, handed it to them, and they all drank out of it. 24He said, “This is my blood of the covenant that’s shed for many. 25This is the last time I’ll drink the fruit of the vine till I do it in God’s kingdom.”
+
+26They sang a hymn and went out to the Mount of Olives.	Mk 14:22-26
+
+The Disciples Warned
+
+27Jesus toldp them, “You’re all going to desert me because scripture says,
+
+‘I’ll strike down the shepherd,
+
+and his sheep will scatter’ [Zech 13:7].
+
+28But after I resurrect, I’ll go ahead of you to Galilee.”
+
+29Peter said, “Even if everybody else deserts you, I won’t.”
+
+30Jesus saidp, “I tell you, before a rooster double-crows in the morning, you’re going to deny me three times.”
+
+31He kept insisting, “Even if I have to die with you, I won’t deny you.”
+
+That’s what they all said.	Mk 14:27-31
+
+The Agony in the Garden
+
+32They camep to a place named Gethsemane, and he toldp his disciples, “Sit here while I pray.” 33He tookp Peter, James, and John, and began to feel stress and dread. 34“I’m really stressed. Stay here and keep watch.” 35He went on a little way and fell on the ground, and prayed that, if possible, the time would pass him by. 36“Abba (Father), you can do anything. Take this cup away from me. But not what I want, but what you want.” 37He camep and foundp them sleeping and saidp to Simon, “You’resg sleeping? Couldn’t yousg watch for one hour? 38Watchpl and pray so youpl won’t be tempted. The spirit’s willing but the flesh is weak.” 39He went again and prayed the same thing. 40When he came back, he found them sleeping; they couldn’t keep their eyes open. They didn’t know what to say. 41He camep the third time, “You’re still sleeping and resting? The time has come. The Son of Man is being betrayed to sinners. 42Get up; let’s go! The one that’s betraying me is coming.” 	Mk 14:32-42
+
+The Arrest of Jesus
+
+43While he was still talking, Judas camep with a crowd from the chief priests, scribes, and elders, carryingpl swords and clubs. 44The traitor had given them a signal, “The one I kiss is him. Arrest him and take him away safely.” 45He came right up to Jesus and saidp, “Rabbi,” and kissed him. 46They grabbed jesus and arrested him. 47One of those standing by drew his sword and struck the high priest’s servant and cut off his ear. 48Jesus responded to them, “You’ve come out here with swords and clubs to arrest me like an insurgent? 49I was with you every day in the Temple teaching, and you didn’t arrest me. But this is happening to fulfill the scriptures.” 50The disciples ran away. 51A young man was following him with a linen sheet around his naked body. They grabbed at him, 52but he left the sheet behind and fled naked.
+
+53They took Jesus to the high priest. The chief priests, elders, and scribes convenedp. 54Peter followed him at a distance to the high priest’s courtyard and sat down with the officers to warm himself at the fire.	Mk 14:43-54
+
+The Trial Before Caiaphas
+
+55The chief priest and the full Sanhedrin were looking for testimony against Jesus so they could put him to death, but they couldn’t find any. 56A number of people gave false testimony against him, but their testimonies didn’t agree with each other. 57Some got up and gave false testimony, 58“We heard him say he’d tear down this sanctuary made with hands and build another one in three days without hands.” 59Their testimonies didn’t agree even on that point.
+
+60The high priest stood up and asked Jesus, “Aren’t you going to answer anything these men are testifying against you?”
+
+61He didn’t answer.
+
+The high priest asked him again, “Are you the Messiah, the Son of the Blessed?”
+
+62“I am;
+
+‘You’ll see the Son of Man
+
+sitting on the right hand of Power and
+
+coming with the clouds’” [Ps 110:1; Dan 7:14].
+
+63The high priest tore his clothes, “Why do we still need witnesses? 64You’ve heard the blasphemy. What’s your verdict?”
+
+They ruled for the death penalty.
+
+65Some started spitting on him, blindfolding and slapping him, “Say who did that!” The officers took him, slapping him.	 Mk 14:55-65
+
+Peter’s Denials
+
+66Peter was down below in the courtyard. A servant girl of the high priest came. 67When she saw Peter warming himself, she looked at him closely, “You were with the Nazarene, Jesus.”
+
+68But he denied it, “I don’t know what you’re talking about,” and he went out to the entryway.
+
+69The servant girl saw him again and started telling the ones standing around, “This is one of them.”
+
+70He denied it again.
+
+A little later the ones standing around said, “You really are one of them; you’re a Galilean.”
+
+71He started taking oaths and swearing, “I don’t know the man you’re talking about.” 72Immediately a rooster double-crowed, and Peter remembered: “Before a rooster double-crows, you’ll deny me three times.” He broke down sobbing.	 Mk 14:66-72
+
+The Two Trials Before Pilate
+
+15:1At daylight, the chief priests held session with the elders, scribes, and full Sanhedrin. They bound Jesus and led him away to Pilate. 2Pilate asked him, “Are you the ‘King of the Jews’?”
+
+“Yes.”
+
+3The chief priests accused him of all kinds of things.
+
+4Pilate asked him again, “You’re not saying anything? Look at all the things they’re accusing you of.” 5Jesus still didn’t answer. Pilate was surprised.
+
+6At each festival, Pilate would release a prisoner that they asked for. 7A prisoner called Barabbas was incarcerated with insurgents thatpl had committed murder in the uprising. 8The crowd came forward and started asking Pilate to do as he customarily did for them.
+
+9Pilate answered, “Do you want me to release ‘the King of the Jews’?” (10He knew the high priests had delivered him over because they envied him.)
+
+11But the high priests stirred up the crowd to ask for Barabbas instead.
+
+12Pilate answered again, “What do you want me to do then with the one you call ‘the King of the Jews’?”
+
+13“Crucify him!”
+
+14“What’s he done?”
+
+They shouted louder, “Crucify him!”
+
+15Pilate wanted to quiet the crowd, so he released Barabbas and delivered Jesus to be flogged and crucified.	Mk 15:1-15
+
+Torture by the Roman Soldiers
+
+16The soldiers took him into the court—The Praetorium—and got the whole cohort together. 17They dressed him in purple and twisted together a crown made out of thorns and put it on him. 18They began to acclaim him, “Hail, King of the Jews!” 19and were beating him on the head with a reed, spitting on him, and kneeling and bowing to him. 20When they were done making fun of him, they took off the purple robe and dressed him in his own clothes, and tookp him away to crucify him.	     Mk 15:16-20
+
+The Way to Golgotha
+
+21They conscriptedp Simon, a Cyrenian coming in from the countryside—father of Alexander and Rufus—to carry his cross. 22They tookp him to Golgotha (“The Skull”), 23and offered him wine mixed with myrrh, but he didn’t take it. 24When they’d crucified him, they divided up his clothes by casting lots for what each soldier would take.     	Mk 15:21-24
+
+The Death of Messiah
+
+25It was 9 o’clock when they crucified him. 26Pilate inscribed his accusation above him, “The King of the Jews.” 27They also crucifiedp two insurgents with him, one on each side. [28]ms
+
+29The people going past threw insults at him and shook their heads, “Ha! You that tear down the sanctuary and rebuild it in three days, 30save yourself; come down from the cross!”
+
+31The chief priests along with scribes made fun of him too, “He saved other people; he can’t save himself! 32Messiah, King of Israel, come down now from the cross so we can see and believe!” Even the ones crucified with him were insulting him.
+
+33At noon it got dark over the whole country till 3. 34At 3 o’clock Jesus cried out very loud, “Eloi, Eloi, lama sabachthani (My God, my God, why have you deserted me) [Ps 22:1]?” 35Some of the people standing nearby heard it, “He’s calling for Elijah.”
+
+36One man ran and filled a sponge with sour wine, put it on a reed, and gave him a drink, “Let’s see if Elijah will come and take him down.”
+
+37Jesus let out a loud cry and quit breathing.	 Mk 15:25-37
+
+Miracles Accompanying Messiah’s Death
+
+38The curtain in the sanctuary tore in two, top to bottom. 39When the centurion standing beside him saw the way he quit breathing, he said, “This man really was God’s Son.”
+
+40Some women watching from a distance included Mary the Magdalene; Mary, mother of James the Less and Joses; and Salome. 41When he was in Galilee, they traveled with him and helped him. There were some other women that came up with him to Jerusalem.  	Mk 15:38-41
+
+The Burial of Jesus
+
+and Watch at the Tomb
+
+42When evening came, since it was Preparation, the day before Sabbath, 43Joseph of Arimathea—a respected member of the Sanhedrin, who was waiting for God’s kingdom—gathered the courage to go to Pilate and ask for Jesus’ body. 44Pilate was surprised that he’d already died. He called the centurion to ask him if Jesus was dead already. 45When he understood from him that Jesus was dead, he let Joseph have the body. 46Joseph had bought a linen sheet; he took Jesus down and wrapped him in it. He put him in a rock-hewn tomb and rolled a stone over the entrance. 47Mary the Magdalene and Mary, mother of Joseph, watched where they laid him.									     Mk 15:42-47
+
+The Resurrection of Messiah
+
+16:1When Sabbath had passed, Mary the Magdalene; Mary, mother of James; and Salome bought aromatic oils to put on his body. 2Very early on the first day of the week, they camep to the tomb as the sun was just starting to come up. 3They were saying to one another, “Who’s going to roll the stone away for us from the entrance to the tomb?” 4When they looked up, they sawp the big stone had been rolled away. 5They went into the tomb and saw a young man sitting on the right wearing a white robe, and they were startled. 6He saidp, “Don’t be startled. You’re looking for Jesus the Nazarene that was crucified. He’s not here; he resurrected. See where they laid him. 7Go tell his disciples and Peter, ‘He’s going on ahead of you to Galilee. You’ll see him there like he said.’” 8They went out and ran from the tomb because trembling and excitement gripped them. They didn’t talk to anybody because they were afraid. 	Mk 16:1-8
+
+Appearance to Mary the Magdalene
+
+[[9After he’d resurrected early on the first day of the week, he appeared first to Mary the Magdalene, that he’d cast seven demons out of. 10She reported it to the ones that had been with him, who were mourning and crying. 11When they heard she’d seen him alive, they didn’t believe it.    [Mk 16:9-11]
+
+Appearance to Two Disciples
+
+and to the Ten
+
+12After that, he appeared to two of them in a different form as they were walkingp into the countryside. 13They went back to Jerusalem to report it to the rest, but they didn’t believe them either. 14Later, he appeared to the eleven as they were reclining at table and chided them for their resistance to believing the ones that had seen him resurrected.	                  [Mk 16:12-14]
+
+Appearance in Jerusalem
+
+15He told them,
+
+“Go all over the world and tell everybody the good news. 16Whoever believes and is baptized will be saved; whoever disbelieves will be condemned. 17These signs will follow the ones that believe:
+
+they’ll cast out demons in my name;
+
+they’ll speak in new languages;
+
+18they’ll pick up snakes, and
+
+if they drink anything deadly, it won’t hurt them;
+
+they’ll lay hands on sick people, and they’ll recover.”	[Mk 16:15-18]
+
+The Ascension
+
+19After the Lord Jesus had spoken to them, he was taken up into heaven and sat down on God’s right hand. 20The disciples went out and delivered the good news everywhere, and the Lord worked with them by confirming the message with the signs that followed.]]	 [Mk 16:19-20]
+
+LUKE
+
+Prologue
+
+1:1Many have undertaken to put together an account of what’s been fulfilled among us. 2Eyewitnesses from the beginning and ministers of the message have handed down accounts of those events to us. 3It seemed appropriate to me, as well, to trace these things from the start and write you an orderly account, most excellent Theophilus, 4so you can know for certain that your oral instruction was accurate. 	Lk 1:1-4
+
+The Birth of John Announced
+
+5At the time of Herod king of Judaea, there was a priest named Zachariah in the Abijah division; his wife Elizabeth descended from Aaron. 6They both lived upright before God and conducted themselves blamelessly by his commandments. 7Elizabeth couldn’t have children, and both were getting old.
+
+8Zachariah was carrying out his priestly duties in front of God in the sequence of his division. 9According to the custom of the priestly office, he’d been chosen by lot to go into the sanctuary of the LORD to offer incense. 10A crowd was praying outside. 11An angel of the LORD appeared to him and stood on the right side of the altar of incense. 12When Zachariah saw him, he froze in fear. 13The angel said,
+
+“You don’t need to be afraid, Zechariah; God has heard your prayer. Your wife will have a son, and you’re to name him ‘John.’ 14You’llsg be so happy, and lots of people will celebrate his birth. 15He’ll be great before the LORD:
+
+He won’t drink wine or strong beer;
+
+he’ll have the Holy Spirit from birth.
+
+16He’ll return many Israelites to the LORD their God.
+
+17and go ahead of the Lord in the spirit and power of Elijah.
+
+He’ll return the hearts of fathers to their children
+
+and the disobedient to the attitude good people have.
+
+He’ll thoroughly prepare people for the LORD.”
+
+18Zechariah said, “How am I going to know that? My wife and I are both old.”
+
+19“I’m Gabriel; I stand beside the LORD. He sent me to bring you this good news. 20You won’t be able to talk till it happens, because you didn’t believe me; but it will come about in due time.”
+
+21The people waiting for Zechariah couldn’t believe how long he’d been in the sanctuary. 22When he did come out, he couldn’t talk. They surmised that he must have seen a vision in the sanctuary. He was making gestures to them.
+
+23When his term of service was up, he went back home. 24Later, Elizabeth became pregnant and stayed inside for five months, 25“That’s how the LORD dealt with me when he looked favorably at me and took away my disgrace at not being able to have children.”	 Lk 1:5-25
+
+The Birth of Jesus Announced
+
+26In Elizabeth’s sixth month, God sent Gabriel to Nazareth, a town in Galilee. 27He went to a virgin named Mary, who was engaged to Joseph, a descendant of David. 28He went inside and said, “Hello, favored one; the LORD’s with you.” 29It startled her, and she wondered what he meant.
+
+30The angel said,
+
+“You don’t need to be afraid, Mary. God’s pleased with you. 31You’ll become pregnant and have a son you’re to name ‘Jesus.’
+
+32He’ll be great
+
+and be called the Son of the Most High.
+
+The LORD God will give him the throne of his ancestor David.
+
+33He’ll rule Jacob’s descendants forever;
+
+his kingdom will never end.”
+
+34Mary said, “How can that be? I don’t have a husband.”
+
+35“The Holy Spirit will come over you, and the power of the Most High will overshadow you. So the Holy One begotten will be called God’s Son. 36Elizabeth your relative is pregnant, too, with a son in her old age. This is the sixth month with her that’s been childless. 37God can do anything.”
+
+38Mary said, “I’m the LORD’s servant; may it be to me like you’ve said.”
+
+The angel left.	Lk 1:26-38
+
+Mary Visits Elizabeth
+
+39Mary hurried to a town in the hill country of Judaea, 40and went into Zechariah’s house to greet Elizabeth. 41When she heard Mary’s greeting, her baby kicked, and Elizabeth was filled with the Holy Spirit: 42she shouted, “You’re a blessed woman, and your baby’s blessed too! 43How is it that my Lord’s mother comes to me? 44When I heard you say, ‘Hello,’ I felt the baby kick for joy. 45You’re blessed for believing the LORD will keep his promise to you.”
+
+46Mary said,
+
+“My soul exalts the LORD;
+
+47I’m happy because God my Savior
+
+48has regard for my modest circumstance.
+
+From now on, all generations will consider me blessed.
+
+49The Mighty One has done great things for me;
+
+he is holy.
+
+50His mercy is for generations upon generations
+
+toward people that respect him.
+
+51He has done mighty things
+
+and scattered the proud in their vanity.
+
+52He has brought down rulers from thrones
+
+and lifted up the poor.
+
+53He has filled the hungry with good things
+
+and sent the rich away empty.
+
+54He has helped Israel his child
+
+by remembering his mercy,
+
+55like he promised our ancestors,
+
+Abraham and his descendants forever.”
+
+56Mary stayed with her three months and went back home.	 Lk 1:39-56
+
+The Birth and Naming of John
+
+57When it came time for Elizabeth to deliver, she had a son. 58Her neighbors and relatives heard that the LORD had shown her such mercy, and they celebrated with her. 59The eighth day they came to circumcise the little boy and started calling him “Zechariah,” after his father. 60His mother answered, “No, his name is ‘John.’”
+
+61But they said, “None of your relatives are named that.” 62They motioned to his father to see what he wanted to name him.
+
+63He asked for a tablet and wrote, “His name is ‘John.’”
+
+That surprised them. 64Right then, Zechariah began to talk, praising God. 65Their neighbors became respectful, and everybody in the hill country of Judaea was talking about it. 66People that heard what happened took it to heart, “What’s this child going to be” (because the LORD was with him)?
+
+67Zechariah was filled with the Holy Spirit and prophesied:
+
+68“Blessed be Israel’s God,
+
+who has visited us to deliver his people.
+
+69He has raised up a horn of salvation for us
+
+in the house of his servant David—
+
+70as he said through his holy prophets of old—
+
+71salvation from our enemies,
+
+from everybody that hates us.
+
+72He showed mercy to our ancestors and
+
+remembered his holy covenant,
+
+73the oath he swore to our ancestor Abraham,
+
+74to deliver us from our enemies
+
+so we can serve him without fear
+
+75in holiness and goodness all our lives.
+
+76You, child, will be a prophet for the Most High.
+
+You’ll go in front of the LORD
+
+to prepare his way,
+
+77to tell his people how to be saved from their sins.
+
+78Our God shows tender mercy;
+
+because of it the Sunrise from on high will visit us,
+
+79to shine on a people sitting in darkness and
+
+the shadow of death,
+
+to direct us onto the path to peace.”
+
+80The child grew up and became strong in spirit. He lived in the open country till his public appearance to Israel.	Lk 1:57-80
+
+The Birth of Jesus
+
+2:1At that time Caesar Augustus issued a decree to take a census of the Roman Empire. 2That was the first census, when Quirinius was governing Syria. 3Everyone went to his ancestral city to register. 4Joseph went up from Nazareth in Galilee to Judaea, to Bethlehem, David’s city because he’d descended from David. 5He went up to register with Mary, who was engaged to him and pregnant. 6While they were there, she came due 7and had her firstborn son. She wrapped him in cloths and laid him in a manger because there wasn’t any room for them in the inn.
+
+Lk 2:1-7
+
+The Angels and the Shepherds
+
+8Nearby, shepherds were watching sheep outdoors at night. 9An angel of the LORD stood beside them, and the brightness of the LORD shined around them. They were really afraid. 10The angel said,
+
+“You don’t need to be afraid; I have good news for you that will make everybody happy. 11A Savior was born today in David’s city: the Messiah the Lord. 12You’ll find a baby wrapped in cloths, lying in a manger.”
+
+13All of a sudden, a vast host of angels in the sky joined the angel, praising God:
+
+14“Glory to God in the highest,
+
+and peace on earth among people he favors.”
+
+15When the angels went back to heaven, the shepherds said, “Let’s go to Bethlehem and see what the LORD’s told us about.” 16They hurried away and found Mary and Joseph and the baby that was lying in a manger. 17When they’d seen him, they told everybody what the angel had said about him. 18What the shepherds were saying amazed them. 19Mary treasured all that up in her heart. 20The shepherds went back, glorifying and praising God for everything they’d seen and heard, which was just like the angel said.	 Lk 2:8-20
+
+Jesus’ Circumcision, Naming,
+
+and Presentation in the Temple
+
+21When eight days had passed for circumcising him, they named him Jesus, like the angel had directed before Mary became pregnant.
+
+22When the time was up for their purification according to the Law of Moses, they went up to Jerusalem to present him to the LORD —23like the Law of the LORD says,
+
+“Set aside to the LORD every male firstborn” [Ex 13:2, 12, 15]—
+
+24and to offer the sacrifice the Law called for:
+
+“a pair of turtledoves or two young pigeons” [Lev 12:8].
+
+25A man in Jerusalem named Simeon, a good, devout man, was looking forward to Israel’s liberation. The Holy Spirit was on him and 26told him that he’d see the LORD’s Messiah before he died. 27The Spirit led him into the Temple; and when the parents brought in the child Jesus to do for him according to custom, 28he took him in his arms and blessed God:
+
+29“Now, Master, I can leave satisfied
+
+like you said.
+
+30I’ve seen the salvation
+
+31you’ve prepared for all nations,
+
+32a light for revelation to Gentiles
+
+and for the honor of your people Israel.”
+
+33He amazed Joseph and Mary with what he was saying. 34He blessed them and told Mary, “This child is destined to cause the rise and fall of many in Israel and to be a controversial sign. 35A sword will pierce your own heart too; lots of people will show what they’re really like.”
+
+36There was Hannah as well, a prophetess, daughter of Penuel from the tribe of Asher. She was quite elderly, married for seven years 37and then a widow to age 84. She never left the Temple, worshiping with fasting and prayer day and night. 38She came up and thanked God and talked about the child to everyone that was anticipating Jerusalem’s liberation.
+
+39When Mary and Joseph had finished what the Law required, they went back home. 40The child grew and became strong and increased in wisdom. God’s grace was on him.
+
+Lk 2:21-40
+
+The Youth of Jesus
+
+41Every year his parents would go up to Jerusalem for the Passover Festival. 42When he was twelve, they went up to the festival as usual. 43After it was over, they headed back; but the boy Jesus stayed in Jerusalem without his parents knowing it; 44they thought he was in the caravan. They traveled for a day and started looking for him among relatives and acquaintances. 45When they didn’t find him, they went back to Jerusalem. 46Three days later they found him in the Temple, sitting among the teachers, listening and asking them questions. 47Everybody that heard him was surprised at his understanding and answers.
+
+48When his parents saw him, they were astonished. His mother said, “Son, why have you done this to us? Your father and I have been looking all over for you, worried sick.”
+
+49He said, “Why were you looking all over for me? Wouldn’t you know I’d be in my Father’s house?”
+
+50They didn’t get what he meant.
+
+51He went down with them to Nazareth and was subject to them. His mother treasured all that up in her heart. 52Jesus kept growing in wisdom and stature, in favor with God and people.
+
+Lk 2:41-52
+
+The Beginning of John’s Ministry
+
+3:1In the fifteenth year of Tiberias Caesar, Pontius Pilate was governing Judaea, Herod was tetraarch of Galilee, his brother Philip was tetraarch of Iturea and Trachonitis, Lysanius was tetraarch of Abilene, 2Annas and Caiaphas were high priests.
+
+That’s when a message came from God to John son of Zachariah in the desert. 3He went to the area around the Jordan River and started presenting a baptism of repentance to forgive sins. 4Scripture says in Isaiah the prophet,
+
+“One shouting in the desert,
+
+‘Get the road ready for the LORD!
+
+Make it straight!
+
+5Fill every chuck hole.
+
+level out every bump;
+
+straighten out the curves;
+
+smooth out the rough stretches.
+
+6Everybody will see God’s salvation” [Is 40:3-5]. 	Lk 3:1-6
+
+An Example of John’s Preaching
+
+7He was saying to the crowds that were coming out to have him baptize them,
+
+“You bunch of poisonous snakes! Who warned you to run from God’s wrath that’s coming? 8Bear fruit appropriate for repentance and don’t even begin to tell yourselves, ‘Abraham’s our ancestor.’ God can raise up descendants of Abraham from these stones. 9An axe is already lying at the root of the trees. Every tree that doesn’t bear good fruit will be chopped down and burned.”
+
+10The crowds asked him, “What should we do?”
+
+11“If you have two shirts, give one to a person that doesn’t have any. If you have food, do the same thing.”
+
+12Tax collectors came to be baptized, “Rabbi, what should we do?”
+
+13“Don’t collect more than required.”
+
+14Soldiers asked, “What should we do?”
+
+“Don’t extort money by false charges. Be satisfied with your pay.”
+
+15While people were wondering if John might be the Messiah, 16he said,
+
+“I’m immersing you in water, but Someone more important is coming, whose sandals I’m not worthy to unstrap. He’ll ‘immerse’ you in the Holy Spirit. 17He’ll use his winnowing fork to thoroughly clean up his threshing floor. He’ll gather the seed into his granary and burn up the chaff with a fire you can’t put out.”
+
+18He encouraged them about lots of other things and delivered good news to the people.
+
+Lk 3:7-18
+
+The Arrest of John the Baptist
+
+19When John reprimanded Herod Antipas the tetraarch about Herodias, his half-brother’s wife, 20and all the wicked things he’d done, Herod added this on top of them: he locked John up in prison.	Lk 3:19-20
+
+The Baptism of Jesus
+
+21While John had been baptizing the people, Jesus was baptized too. As he was praying, the sky opened up, 22and the Holy Spirit came down on him in bodily form like a dove. A voice came out of the sky, “You’re my dearly loved Son that I delight in.”	Lk 3:21-22
+
+The Genealogy of Jesus According to Luke
+
+(cp. Mt 1:1-17)
+
+23Jesus was about 30 when he began his ministry. He was—as supposed—the
+
+son of Joseph, 	son-in-law of Eli,	son of Matthat, 	24son of Levi,	son of Melchi,
+
+son of Jannai,	son of Joseph,	25son of Mattathias, son of Amos,	son of Nahum,
+
+son of Hesli,	son of Naggai,	26son of Maath, 	son of Mattathias, son of Semein,
+
+son of Josech,	son of Joda,	27son of Joanan, 	son of Rhesa,	son of Zerubbabel,
+
+son of Shealtiel, 	son of Neri, 	28son of Melchi,	son of Addi,	son of Cosam,
+
+son of Elmadam,	son of Er,	29son of Joshua,	son of Eliezer,	son of Jorim,
+
+son of Matthat, 	son of Levi,	30son of Simeon,	son of Judah,	son of Joseph,
+
+son of Jonam,	son of Eliakim,	31son of Melea,	son of Menna, 	son of Mattathia,
+
+son of Nathan,	son of David,	32son of Jesse,	son of Obed,	son of Boaz,
+
+son of Salmon,	son of Nahshon,	33son of Amminadab, son of Admin, son of Ram,
+
+son of Hezron,	son of Perez,	son of Judah, 	34son of Jacob, 	son of Isaac,
+
+son of Abraham,	son of Terah,	son of Nahor,	35son of Serug,	son of Reu,
+
+son of Peleg,	son of Heber,	son of Shelah, 	36son of Cainan,	son of Arphaxad,
+
+son of Shem,	son of Noah,	son of Lamech,	37son of Methuselah, son of Enoch,
+
+son of Jared,	son of Mahalaleel, son of Cainan,	38son of Enosh,	son of Seth,
+
+son of Adam,	son of God.		Lk 3:23-38
+
+The Temptation of Jesus
+
+4:1 Jesus went away from the Jordan filled with the Holy Spirit. The Spirit was leading him to the desert 2while the devil tempted him during 40 days. He didn’t eat anything during that time. Afterwards, he was hungry,
+
+3and the devil said, “If you’re God’s Son, tell this stone to become a loaf of bread.”
+
+4Jesus answered, “Scripture says,
+
+‘People aren’t to live by bread alone’” [Deut 8:3].
+
+5The devil took him up to show him the kingdoms of the world in an instant, 6“I’ll give you all this authority and their splendor. It’s been given to me, and I can give it to whoever I want to. 7If you bow down to me, it’ll all be yours.”
+
+8Jesus answered, “Scripture says,
+
+‘Worship the LORD your God,
+
+and only serve him’” [Deut 6:13].
+
+9The devil took him to Jerusalem and stood him on the pinnacle of the Temple, “If you’re  God’s Son, throw yourself down. 10Scripture says,
+
+‘He’ll tell his angels to guard you’ [Ps 91:11];
+
+11and
+
+‘They’ll catch you
+
+so you’ll never trip on a rock’” [Ps 91:12].
+
+12Jesus answered, “It says,
+
+‘Don’t tempt the LORD your God’” [Deut 6:16].
+
+13When the devil finished tempting him, he left till another chance would come. 	Lk 4:1-13
+
+Introducing the Galilean Ministry
+
+14Jesus returned to Galilee in the power of the Spirit, and the news about him spread all over the region. 15He was teaching in their synagogues, and everybody was praising him.
+
+Lk 4:14-15
+
+The First Rejection at Nazareth
+
+16He went to Nazareth, where he grew up. He went into the synagogue on the Sabbath as usual and stood up to read. 17They handed him a scroll of the prophet Isaiah. He unrolled it to where it says,
+
+18“The Spirit of the LORD is on me.
+
+He’s anointed me to deliver good news to the poor;
+
+he sent me to announce release to captives,
+
+and sight to the blind,
+
+to free the afflicted,
+
+19to announce the LORD’s acceptable time” [Is 61:1-2; 58:6].
+
+20He rolled up the scroll, handed it back to the attendant, and sat down. Everybody in the synagogue gave him their full attention. 21He began, “Today you can hear this scripture being fulfilled.”
+
+22They started whispering about him, amazed at the gracious way he was speaking. “Isn’t this Joseph’s son?”
+
+23He said,
+
+“No doubt you’ll use this saying against me, ‘Doctor, heal yourself.’ ‘Do here what we heard you did in Capernaum.’ 24I tell you, a prophet is not welcome in his hometown. 25There were lots of widows in Israel at the time of Elijah, when it hadn’t rain for 3½ years, and a severe famine dragged on. 26But the LORD didn’t send Elijah to any of them but to a widow in Zarephath, up around Sidon. 27There were lots of lepers in Israel at the time of Elisha the prophet, but none of them were cleansed except Naaman the Syrian.”
+
+28Everybody in the synagogue just lost it. 29They jumped up and threw him out of town. They hustled him to the brow of the hill the town was built on, to throw him over the cliff. 30But he passed through the mob and left.	 Lk 4:16-30
+
+Teaching and Miracles in Capernaum
+
+31He went down to Capernaum, a town in Galilee, and was teaching them every Sabbath. 32They were impressed because he delivered his message with authority.
+
+33A man in the synagogue with an unclean demon shouted, 34“Ah, what is this, Jesus, you Nazarene? Did you come to destroy us? I know who you are: God’s Holy One!”
+
+35Jesus ordered him to be quiet and come out of him. The demon convulsed him right in front of them and came out without harming him.
+
+36Everybody was astounded, “What is this? With authority and power, he gives orders to unclean spirits, and they come out!” 37The news about him went out everywhere in the surrounding countryside.
+
+38He left the synagogue and went to Simon Peter’s house. Simon’s mother-in-law was sick with a high fever, and they asked Jesus about her. 39He stood over her and ordered the fever to leave. She got up right away and started waiting on them.
+
+40As the sun was going down, they brought him people with several kinds of illness. He laid hands on each one and healed them. 41Demons were coming out of many, crying out, “You’re God’s Son.” He wouldn’t let them keep talking because they knew he was the Messiah.
+
+Lk 4:31-41
+
+The First General Tour of Galilee
+
+42At daybreak the next morning, Jesus went out away from people, and the crowd was looking for him. When they found him, they tried to keep him from leaving, 43but he said, “I need to present God’s kingdom in other towns too; that’s why I was sent.” 44He continued to preach in the synagogues of Judea [Galileems].	Lk 4:42-44
+
+The Calling of Four Fishermen
+
+5:1While a crowd was pressing on him and listening to God’s message, he was standing by Lake Gennesaret 2and saw two boats at the edge of the lake. The fishermen had gotten out of them and were washing their nets.
+
+3He got in one of the boats—Simon’s—and asked him to shove it out a little from the shore. Then he sat down and started teaching the crowd from the boat. 4When he finished, he told Simon to put out into the deep water and let down his nets for a catch.
+
+5He answered, “We’ve worked all night and haven’t caught a thing. But, since you’ve said to, I’ll let down the nets.”
+
+6When they did, they caught such a big school of fish that their nets started to tear. 7They signaled to their partners in the other boat to come and help. They came and filled both boats, so they were in danger of sinking. 8When Peter saw it, he fell at Jesus’ knees, “Go away from me; I’m a sinful man.” 9Amazement over the catch gripped him and the others that were with him, 10including James and John, Zebedee’s sons, Simon’s partners.
+
+Jesus told Simon, “You don’t need to be afraid. From now on you’ll be ‘catching’ people.”
+
+11When they brought their boats to land, they left everything behind and went with him.
+
+Lk 5:1-11
+
+Cleansing a Leper
+
+12In one town a man covered with leprosy saw Jesus and fell down to him, begging, “Sir, if you’re willing, you can cleanse me.”
+
+13Jesus reached out and touched him, “I’m willing; be cleansed.” Instantly the leprosy was gone. 14Jesus told him not to keep it to himself, but to go show himself to a priest and offer for his purification what Moses commanded for a public statement. 15Instead, he spread the news about Jesus, and big crowds came together to listen and be healed. 16Jesus would go to places away from people and pray. 	Lk 5:12-16
+
+Healing a Paralyzed Man
+
+17One day he was teaching, and Pharisees and teachers of the Law were sitting there. They’d come from Jerusalem and every village in Galilee and Judaea. The power of the LORD was with him to do healing. 18Men carrying a paralyzed man on a stretcher were trying to get him in to Jesus. 19Since they couldn’t because of the crowd, they got up on the roof, and let him down through the tiles on the stretcher, right in front of Jesus.
+
+20When he saw their faith, he said, “Sir, I’ve forgiven your sins.”
+
+21The scribes and Pharisees started thinking, “Who can forgive sins but God?”
+
+22Jesus knew what they were thinking, “Why are you reasoning in yourselves? 23Which is easier to say, ‘I’ve forgiven your sins’ or ‘Get up and walk’? 24So you can know that the Son of Man has a right on earth to forgive sins”—he said to the man—“Get up, pick up your stretcher, and go on home.”
+
+25At once he stood up, picked up what he was lying on, and went home, praising God. 26Astonishment gripped them, and they were all praising God, filled with fear, “We’ve seen some incredible things today.”	        Lk 5:17-26
+
+Calling Matthew
+
+27After that, he went out and saw Levi, a tax collector, sitting in the tax booth, “Come with me.” 28He left everything behind and went with him.
+
+29Levi gave a big reception for Jesus in his house. A large group of tax collectors and others were reclining at table with them. 30The Pharisees and scribes started complaining to his disciples, “Why are youpl eating with tax collectors and sinners?”
+
+31Jesus answered them, “Healthy people don’t need a doctor; sick ones do. 32I didn’t come so much to call good people to repentance, as to call sinners.”	 Lk 5:27-32
+
+Questions About Fasting
+
+33People said to him, “John’s disciples fast often and offer prayers like the Pharisees’ disciples do, but yours don’t fast.”
+
+34Jesus said, “Youpl can’t expect groomsmen to fast while the groom’s around, can you? 35The time’s coming when he’ll be taken away from them. They’ll fast then.”
+
+36He added an illustration:
+
+“Nobody tears a patch off of a new cloak and sews it on an old one. That would ruin something new, and the patch from the new wouldn’t match the old. 37Nobody puts new wine in old wineskins. The wine would burst the wineskins and drain out, and the wineskins would be ruined. 38New wine must be put in new wineskins.
+
+39Nobody that drinks the old wants the new. ‘The old is better,’ they say.”
+
+Lk 5:33-39
+
+Controversy About
+
+Breaking Sabbath
+
+6:1Jesus was passing along between grain fields on a Sabbath, and his disciples were picking off heads, rubbing them in their hands, and eating the seeds.
+
+2Some Pharisees said, “Why are you doing what’s against the Law on Sabbath?”
+
+3Jesus answered,
+
+“You’ve read, haven’t you, what David and the ones with him did when they were famished? 4He went into God’s house and took the consecrated loaves, ate them, and gave them to the ones that were with him. They’re against the Law for anybody but priests to eat. 5Person takes precedence over Sabbath.”    Lk 6:1-5
+
+Healing a Man with a Paralyzed Hand
+
+6On another Sabbath he went into a synagogue and taught, and a man with a paralyzed right hand was there. 7The scribes and Pharisees were watching to see if he’d heal on a Sabbath so they could have something to accuse him of.
+
+8He knew what they were thinking and said to the man, “Stand up where people can see you.” He stood up.
+
+9“I ask youpl, is it lawful to do good on a Sabbath or to do bad, to save life or destroy it?” 10He looked around at them and told him to hold out his hand. He held it out, and it was restored. 11But they were angry and deliberated about what they could do to Jesus.	Lk 6:6-11
+
+Calling the Twelve Apostles
+
+12At that time he went up on a mountain to spend the night praying. 13At daylight, he called his disciples and chose twelve that he named apostles: 14Simon, he named Peter; his brother Andrew; James, John, Philip, Bartholomew, 15Matthew, Thomas, James son of Alphaeus, Simon called Zelotes, Judas son of James, 16and Judas Iscariot, who became a traitor.
+
+Lk 6:12-16
+
+Sermon on a Level Place (cp Mt 5-7)
+
+17Jesus came down with them and stood on a level place. There was a big crowd of disciples and a throng of people from Jerusalem, all over Judaea, and the coastal region of Tyre and Sidon. 18They’d come to listen to him and be healed from illness and unclean spirits that were harassing them. 19People in the crowd would try to touch him because power would go out from him and heal them.
+
+20He looked up at his disciples and said,
+
+“You that are poor are fortunate;
+
+you have God’s kingdom.
+
+21You that are hungry now are fortunate;
+
+you’ll be filled.
+
+You that mourn now are fortunate;
+
+you will laugh.
+
+22You’re fortunate when people hate you, shun you, insult you, reject you as bad because of the Son of Man. 23Be happy in times like that. Jump up and down for joy because you have a great reward in heaven. Their ancestors used to treat the prophets the same way.
+
+24But woe to you rich people;
+
+you have your comfort.
+
+25Woe to you that eat well now;
+
+you’ll be hungry.
+
+Woe to you that laugh now;
+
+you’ll grieve and cry.
+
+26Woe to you when everybody says good things about you. Your ancestors used to do the same things about false prophets.	Lk 6:17-26
+
+27“I’m telling you, love your enemies. Treat them well that hate you. 28Bless the ones that curse you. Pray for those who mistreat you. 29To the one that slaps you on the cheek offer the other one. From the one that takes your coat, don’t withhold your shirt. 30Give to anybody that asks you; don’t demand back what someone steals from you. 31Treat people the way you want them to treat you. 32If you love people that love you, what’s special about that? Even sinners love people that love them. 33If you do good to people that do good to you, what’s special about that? Even sinners do that. 34If you lend to the ones you expect to repay it, what’s special about that? Even sinners lend to sinners they expect will repay it. 35On the contrary, love your enemies. Do good to them and lend to them, and don’t expect that they will repay it. You’ll be greatly rewarded, and you’ll be like the Most High, because he’s gracious to ungracious people. 36Have compassion like your Father does.
+
+37“Don’t criticize, and you won’t be criticized. Don’t condemn, and you won’t be condemned. Pardon and you’ll be pardoned. 38Give and people will give to you good measure, pressed down, shaken together, and running over. The measure you measure with, you’ll be measured by.” 	Lk 6:27-38
+
+39He gave an illustration.
+
+“Blind people don’t lead blind people, do they? Wouldn’t they all fall in the ditch? 40Students are not better off than their teacher, but everybody that finished their education will be like their teacher. 41Why look at a speck of sawdust in somebody else’s eye, and not notice the log in your own? 42How can you say to somebody, ‘Let me get that speck of sawdust out of your eye,’ when you don’t see the log in yours? Foolish people, get the log out of your own eye first; then you can see how to get the speck out of the other’s eye.
+
+43“A good tree doesn’t bear bad fruit, and a bad tree doesn’t bear good fruit. 44That’s what being a good or bad tree means—its fruit is good or bad. People don’t gather figs from thorns or grapes from briars. 45Good people bring good things out of the good treasure in their hearts; bad people bring bad things out of their bad treasure. People’s mouths say what overflows from their hearts.
+
+46“Why call me ‘Lord’ and not do what I tell you? 47I’ll tell you what people are like whot listen to what I say and do it. 48They’re like a man that was building a house: he dug down and set the foundation on bedrock. When a flood came, the creek rushed against that house and couldn’t budge it because he’d built it right. 49People that listen and don’t do it are like a fellow that built his house on dirt with no foundation. The creek rushed against it, and it collapsed—a total loss.”	Lk 6:39-49
+
+Healing the Centurion’s Servant
+
+7:1After he finished, he went to Capernaum. 2A centurion’s valued servant was sick, close to death. 3The centurion heard about Jesus and sent elders of the Jews to ask him to come get the servant through it. 4When they got to Jesus, they urged him earnestly, “He deserves doing that for him. 5He loves our nation and built us a synagogue.” 6Jesus went with them.
+
+While they were still a good way from his house, the centurion sent friends,
+
+“Sir, don’t bother coming under my roof. I don’t deserve that. 7I didn’t feel worthy of coming to you personally. Just say the word, and let my servant be healed. 8I’m directed by the authority of superior officers myself with soldiers under me. I tell one to go, and he goes; another to come, and he comes; a servant to do something, and he does it.”
+
+9Jesus was impressed and turned around to the crowd, “I haven’t seen faith like that even in Israel.” 10When the ones the centurion had sent got back, they found the servant healed.	Lk 7:1-10
+
+Resurrecting the Widow of Nain’s Son
+
+11Soon afterward he went to a village called Nain; his disciples and a large crowd were going with him. 12When he got close to the village gate, people were carrying out a widow’s only son, and a sizable crowd from the village was with her. 13When the Lord saw her, he felt sorry for her, and told her not to cry. 14He went and touched the bier, and the pall bearers stopped. He said, “Young man, get up.” 15The dead boy sat up and started talking, and Jesus gave him to his mother. 16Fear gripped them, and they praised God: “A great prophet has arisen among us; God has visited his people.” 17News about him spread all over Judaea and the surrounding countryside.      	 Lk 7:11-17
+
+John’s Question and
+
+Jesus’ Comments on John
+
+18John’s disciples reported to him what was going on. He called two of them 19to go ask the Lord, “Are you the One that’s supposed to come, or should we wait for somebody else?” 20The men went to Jesus and asked him that. 21At the time, Jesus was healing a lot of people from sicknesses, afflictions, and evil spirits, and enabling a number of blind people to see. 22He answered them, “Go tell John what you’ve seen: blind people regaining their sight, lame people walking, lepers cleansed, deaf people hearing, the dead resurrected, poor people hearing the good news. 23He’s blessed that’s not disappointed in me.”
+
+24After John’s messengers left, Jesus said to the crowd,
+
+“What did you go out to the desert to see? A reed blowing in the wind? 25What did you go out to see? Someone dressed in fine clothes? People in palaces dress in fine clothes and live in luxury. 26What did you go out to see? A prophet? Oh yes, and more than a prophet. 27He’s the one that scripture refers to,
+
+‘I’ll send my messenger ahead of you
+
+to get your road ready for you’ [Mal 3:1].
+
+28Nobody that’s ever been born is greater than John, but the least in God’s kingdom is greater than he is.”
+
+29When the people and the tax collectors heard that, they acknowledged God’s good expectations, because they’d had John baptize them. 30But the Pharisees and the lawyers rejected God’s intentions for them by not having him baptize them.
+
+31“What are people today like? 32They’re like kids sitting in a marketplace, calling out one to another:
+
+‘We played a flute for you, and you didn’t dance;
+
+we sang a funeral song, and you didn’t cry.’
+
+33John the Baptist came, not eating bread or drinking wine, and you say he’s got a demon. 34The Son of Man has come eating and drinking, and you say he’s a glutton, a drunk, a pal of tax collectors and sinners. 35Wisdom becomes obvious from what it produces.”lit     	Lk 7:18-35
+
+In the House of Simon the Pharisee
+
+36A Pharisee invited Jesus to eat with him. He went into the Pharisee’s house and sat down. 37A woman of ill repute in town learned Jesus was reclining at table in the Pharisee’s house. She brought an alabaster cruise of ointment and 38stood behind him at his feet, crying. She started to wet his feet with her tears, wipe them with her hair, kiss them, and anoint them with the ointment. 39the Pharisee thought to himself, “If he was a prophet, he’d know what kind of woman is touching him.”
+
+40Jesus responded, “Simon, a question.”
+
+“What is it, Rabbi?”
+
+41“A money lender had a couple clients that owned him money. One owed 500 denarii; the other owed 50. 42When they couldn’t pay him back, he forgave them both. Which one loved him more?”
+
+43“I suppose the one he forgave more.”
+
+Jesus said, “That’s right.”
+
+44He turned to the woman and said to Simon,
+
+“You see this woman? When I came in your house, you didn’t give me any water for my feet; she has wet my feet with her tears and wiped them with her hair. 45You didn’t give me a kiss; she’s been kissing my feet ever since she got here. 46You didn’t anoint my head with olive oil; she anointed my feet with perfumed ointment. 47So I’ve forgiven her many sins because she loved a lot. The one that’s forgiven little loves little.”
+
+48He told her, “I’ve forgiven your sins.”
+
+49The ones reclining at table with him started saying to themselves, “Who is this that forgives sins?”
+
+50He told the woman, “Your faith has saved you. Have a good day.” 	Lk 7:36-50
+
+Second Preaching Tour of Galilee
+
+8:1Soon afterward he started traveling from one town and village to another, announcing the coming of God’s kingdom. The Twelve were with him 2as well as some women he healed from illnesses and evil spirits: Mary, called the Magdalene, that seven demons had come out of; 3Joanna wife of Chuza, Herod’s business manager; Susanna, and quite a few that were contributing to them out of their own resources.	Lk 8:1-3
+
+Sermon in Parables
+
+4When a large crowd was gathering and people from various towns were traveling to him, he told a parable.
+
+5“A sower went out to sow his seed. As he sowed, some seeds fell along the path; people walked on them, and birds ate them. 6Some fell on rocky ground; they sprouted but shriveled up because they didn’t have enough moisture. 7Some fell among thorns; the thorns grew up with them and choked them out. 8Others fell on good ground, grew up, and produced 100 times as much sown. Whoever has ears, listen!”
+
+9His disciples asked him what the parable meant. 10He said,
+
+“You can come to know the unrevealed things about God’s kingdom, but to the rest I’m delivering the message in parables so
+
+‘though they see, they don’t perceive;
+
+though they hear, they don’t understand’ [Is 6:9-10].
+
+11“This is what the parable means. The seed is God’s message.  12The seeds along the road represent people that hear the message. Then the devil comes and takes the message away from their hearts so they won’t believe and be saved. 13The seeds on rocky ground represent people that are happy to accept the message, but they don’t have root. They believe for a while, but in trying times they fall away. 14The seeds falling among the thorns represent people that hear the message; but the cares, wealth, and pleasures of life choke them out, and they don’t produce anything. 15But the seeds in the good ground represent those who hear the word with a good and honest heart and produce by staying with it.
+
+16“Nobody lights a lamp and hides it under a jar or puts it under a bed. They put it on a stand so people that come in can see it. 17Everything hidden will become known; everything secret will come to light.
+
+18“Be careful how you listen: whoever has will receive more, and whoever doesn’t have will lose what they seem to have.”	 Lk 8:4-18
+
+Jesus’ Mother and Brothers
+
+Interrupt His Ministry
+
+19His mother and brothers came but couldn’t get to him because of the crowd. 20People relayed to him, “Your mother and brothers are standing outside the crowd, wanting to see you.”
+
+21He responded, “My mother and brothers are people that hear God’s message and do it.”	Lk 8:19-21
+
+Stilling the Storm
+
+22One day he and his disciples got in a boat, and he said, “Let’s go to the other side of the lake,” and they launched. 23While they were sailing, he went to sleep. A windstorm swept down on the lake, and they were taking on water and in danger of sinking. 24They went and woke him up, “Master, we’re going to die!”
+
+He got up and rebuked the wind and crashing waves. The wind stopped, and the lake grew calm. 25“Where’s your faith?” They were afraid and amazed, and said to one another, “Who is this that even the wind and waves obey?”	Lk 8:22-25
+
+Healing the Gadarene Demoniac
+
+26They sailed to the region of the Gerasenes, across the lake from Galilee. 27When Jesus got out of the boat, a fellow from the town met him. For a long time, the man had been demon-possessed, naked, and homeless, living among the tombs. 28When he saw Jesus, he cried out and ran to him and screamed. “What is this, Jesus, you Son of God Most High? Please don’t torment me!” 29(Jesus had commanded the unclean spirit to come out. It had seized him many times. He’d be bound under guard with chains and shackles; but he’d break the bonds, and the demon would drive him into uninhabited places.)
+
+30Jesus asked him, “What’s your name?”
+
+“Legion,” because lots of demons had gone into him. 31They started begging him not to send them away into the abyss.
+
+32A tremendous herd of pigs was feeding on the hillside. The demons appealed to Jesus to let them go into them. He let them. 33When the demons went into the pigs, the herd stampeded down the steep place into the lake and drowned. 34The herdsmen saw it and ran away and reported it in town and in the countryside. 35People came out to see what had happened and came to Jesus. They found the man dressed and in his right mind, sitting by Jesus. They were afraid. 36Witnesses told them how Jesus had delivered the demoniac.
+
+37The whole crowd from the area of the Gerasenes asked him to go away, because fear had overwhelmed them. When he got in the boat to go, 38the fellow begged to go with him, but Jesus sent him back, 39“Go home and tell them what great things God has done for you.” He went away and told in every city what great things Jesus had done for him.       	   Lk 8:26-39
+
+Raising Jairus’ Daughter;
+
+Healing Woman with Hemorrhaging
+
+40When Jesus returned, the crowd welcomed him; they’d been waiting for him. 41Jairus, a ruler of the synagogue, came and fell down to Jesus, pleading with him to come to his house. 42His only daughter—about twelve—was at the point of death.
+
+As Jesus was making his way along, the crowd was pressing in on him. 43A woman that had been hemorrhaging for twelve years and had spent her whole living on doctors 44came up from behind and touched the fringe of his cloak. The hemorrhaging stopped at once.
+
+45Jesus said, “Who touched me?”
+
+While they were all denying it, Peter said, “Master, the crowd’s pressing on you and jostling you.”
+
+46But Jesus said, “Somebody touched me. I felt power go out from me.”
+
+47When the woman saw she hadn’t escaped notice, she came trembling, fell down to him, and admitted in front of them why she’d touched him.
+
+48He said, “Daughter, your faith has saved you. Have a good day.”
+
+49While he was still talking to her, someone camep from the house of the synagogue ruler, “Your daughter has died. You needn’t bother the Rabbi further.”
+
+50When Jesus heard it, he responded, “Don’t give up hope; just trust me. She’ll be okay.”
+
+51He went into the house and wouldn’t let anybody go with him except Peter, James, and John, and her parents. 52Everybody was crying and wailing over her.
+
+He said, “Don’t keep crying. She’s not dead; she’s ‘asleep.’”
+
+53They laughed at him because they knew she was dead.
+
+54He took her hand and said, “Girl, get up.” 55She started breathing again, and stood up instantly. He told them to give her something to eat. 56Her parents were stunned, but he told them not to tell anybody what had happened.	        Lk 8:40-56
+
+The Mission of the Twelve
+
+9:1He called the Twelve together and gave them power and authority to cast out demons and heal sicknesses. 2He sent them out to announce the coming of God’s kingdom and to heal the sick. 3“Don’t take anything with you—no staff, sack for extra clothes, bread, money, or two shirts apiece. 4Stay in whatever house you enter till you leave the area. 5Whoever doesn’t welcome you, go outside of town and shake the dust off your feet as a gesture to them.”
+
+6They went out and started traveling around village by village, preaching and healing.
+
+Lk 9:1-6
+
+Herod’s Conscience;
+
+Confusing John the Baptist and Jesus
+
+7Herod [Antipas] the tetraarch heard about what was happening and was puzzled because some were saying John had risen from the dead, 8that Elijah had appeared, that one of the prophets of old had resurrected. 9Herod said, “I beheaded John. Who is this?” And he kept trying to see him.	           Lk 9:7-9
+
+Feeding the 5,000
+
+10The apostles came back from their mission and reported to Jesus what all they’d done. He took them and withdrew privately near a town called Bethsaida. 11The crowds found out and followed him. He welcomed them, talked to them about God’s kingdom, and healed as many as needed it.
+
+12As it was getting late, the Twelve came to him, “Dismiss the crowd so they can go to villages around the countryside to find lodging and buy food. Nobody lives around here.”
+
+13He said, “You feed them.”
+
+They said, “We only have five loaves and two fish—unless we go buy food for all these people.” 14There were about 5,000 men.
+
+He said, “Have them sit down in groups of about 50.”
+
+[15] 16He took the five loaves and two fish, and looked up to heaven, blessed them, broke them in pieces, and started giving them to his disciples to distribute to the crowd. 17They all ate till they were full, and the leftovers filled twelve medium-sized baskets.    	Lk 9:10-17
+
+Peter’s Great Confession
+
+18When he was praying alone with the disciples, he asked them, “Who are the crowds saying I am?”
+
+19They answered, “John the Baptist, Elijah, or a prophet of old that’s resurrected.”
+
+20“Who do you say I am?”
+
+Peter answered, “God’s Messiah.”
+
+21He told them not to tell people who he was. 	Lk 9:18-21
+
+The First Distinct Prediction of Messiah’s Death
+
+22“I need to suffer a lot of things; be rejected by the elders, chief priests, and scribes; be executed, and resurrected the third day.”
+
+23He told the crowd,
+
+“If you want to follow me, you have to set aside your own interests, pick up your cross every day, and follow me. 24If you want to save your life, you’ll lose it; if you lose your life over me, you’ll save it. 25What good does it do to get the whole world and lose your self? 26If you’re ashamed of me and my message, I’ll be ashamed of you when I come in the glory of the Father and the holy angels. 27Some of you standing here will live to see God’s kingdom.” 	 Lk 9:22-27
+
+The Transfiguration
+
+28About eight days later, Jesus took Peter, James, and John up on a mountain to pray. 29While he was praying, his face changed appearance, and his clothes became brilliant white. 30Two men were talking to him—Moses and Elijah. 31They had a brilliant appearance and talked about his death soon in Jerusalem. 32Peter and the ones with him were really sleepy, but they were fully awake and saw his brilliant appearance and the two men that were standing with him.
+
+33As they were leaving him, Peter said, “Master, it’s good to be here. Let us make three tents—one each for you and Moses and Elijah”—not thinking clearly about what he was saying. 34A cloud came and engulfed them. It scared them as they went into it.
+
+35A voice spoke out of it, “This is my chosen Son; listen to him.”
+
+36When it had spoken, Jesus was the only one there, and his disciples kept quiet. At the time they didn’t tell anybody what they’d seen.	Lk 9:28-36
+
+Healing a Demoniac Boy
+
+37The next day when they came down from the mountain, a big crowd met him. 38A man from the crowd ran up, “Rabbi, please look at my boy; he’s the only son I have. 39A spirit keeps seizing him and suddenly makes him scream. It throws him into convulsions, makes him foam at the mouth, and bruises him. It hardly ever leaves him alone. 40I pleaded with your disciples to cast it out, but they couldn’t.”
+
+41Jesus answered, “You unbelieving, perverse bunch, how long am I going to be here and deal with you? Bring me your boy.”
+
+42While he was coming, the demon attacked him and threw him into convulsions. Jesus rebuked the unclean spirit and healed the boy and gave him back to his dad. 43aThey were all amazed at God’s greatness.	      Lk 9:37-43a
+
+Third Prediction of His Death
+
+43bWhile everybody was astounded at the things Jesus was doing, he told his disciples, 44“Keep this in mind: I’m going to be betrayed.” 45They didn’t know what to make of it and were afraid to ask him about it.	 Lk 9:43b-45
+
+Discussion About Rank
+
+46His disciples got into an argument about who would have highest rank. 47Jesus knew about it, so he took a little child and stood him next to him, 48“Whoever receives this little child in my name receives me, and whoever receives me receives the One that sent me. The least among you has the highest rank.”	Lk 9:46-48
+
+The Unknown Exorcist
+
+49John answered, “Master, we saw a fellow casting out demons in your name. We tried to stop him because he’s not following with us.”
+
+50Jesus said, “Don’t stoppl him. Whoever is not against us is for us.” 	Lk 9:49-50
+
+Private Journey to Jerusalem Through Samaria
+
+51When the time came to go up to Jerusalem, he headed there 52and sent messengers on ahead. They went to a Samaritan village to make arrangements for him, 53but they wouldn’t welcome him because he was heading for Jerusalem. 54When the disciples James and John saw it, they said, “Do you want us to call down fire from the sky to consume them?” 55He turned and reprimanded them, 56and they went on to another village. 	Lk 9:51-56
+
+Conversation About Following Jesus
+
+57As they were going along the road, a man said, “I’ll follow you wherever you go.”
+
+58Jesus said, “Foxes have dens and birds have nests, but I don’t have anywhere to rest.”
+
+59He said to another man, “Come with me.”
+
+“Sir, let me go bury my father first.”
+
+60He told him, “Let the dead bury their dead. You go and announce the coming of God’s kingdom.”
+
+61Another fellow said, “I’ll go with you; let me go say goodbye to the ones in my house.”
+
+62Jesus told him, “Nobody that takes hold of a plow and looks back is fit for the kingdom.”	Lk 9:57-62
+
+The Mission of the Seventy
+
+10:1After that, the Lord appointed 72 other men to go ahead of him in pairs to every town and place where he intended to go.
+
+2He told them,
+
+“It’s a huge harvest and there aren’t many workmen, so ask the crew chief to put more help in his harvest. 3I’m sending you out like lambs among wolves. 4Don’t carry a money bag, knapsack, or shoes. Don’t visit with anybody along the road. 5Whatever house you go in, first say, ‘Peace to this house.’ 6If peace-loving people live there, your blessing will rest on them. If not, it will come back to you. 7Stay in the same house and eat what they provide. A worker is worth his wages. Don’t move around from house to house. 8Whatever town you go in and they welcome you, eat what they put in front of you. 9Heal the sick in it and say, ‘God’s kingdom has come close to you.’ 10Whatever town doesn’t welcome you, go out in the main streets and say, 11‘Even the dust of your town that sticks to our feet we wipe off against you. But know this: God’s kingdom has come close to you.’ 12At the judgment it’ll be more bearable for Sodom than for that town.
+
+Lk 10:1-12
+
+13“Woe to you, Chorazin! Woe to you, Bethsaida! If the miracles done in you had been done in Tyre and Sidon, they would’ve repented long ago in burlap and ashes. 14At the judgment it’ll be more bearable for those cities than for you. 15And you, Capernaum! You won’t be exalted to heaven, will you? You’ll be taken down to hell.
+
+16“Whoever listens to you is listening to me; whoever rejects you is rejecting me; and whoever rejects me is rejecting the One that sent me.”
+
+17The 72 came back excited, “Even the demons submit to us in your name!”
+
+18He said, “I’ve been watching Satan fall from heaven like a blazing meteor*. 19I’ve made you able to step on snakes and scorpions, and have authority over the power the enemy has. Nothing will hurt you. 20But, don’t get excited as much about the spirits submitting to you as about having your names recorded in heaven.”
+
+21Right then he was especially glad, “I praise you, Father, LORD of earth and sky, for keeping these things from wise, smart people and revealing them to children. 22-23Yes, you delighted in doing that.”
+
+He turned to his disciples, “My Father has turned everything over to me, and nobody knows who the Son is but him, and who he is but the Son, and whoever the Son wants to reveal him to.”
+
+“You’re fortunate to see what you’re seeing. 24Prophets and kings have wanted to see it and haven’t seen it.” 	 Lk 10:13-24
+
+The Parable About the Good Samaritan
+
+25A lawyer stood up to test him, “Rabbi, what do I need to do to inherit eternal life?”
+
+26Jesus said, “What’s the Law say? How do you read it?”
+
+27He answered, “Love the LORD your God with all your heart, soul, strength [Deut 6:5; 10:12; Josh 22:5], and mind; and love your neighbor as yourself” [Lev 19:18].
+
+28Jesus said, “That’s right. Do that and you’ll inherit eternal life.”
+
+29But he wanted to justify asking his question, so he said, “Who’s my ‘neighbor’?”
+
+30Jesus answered,
+
+“A man going down from Jerusalem to Jericho was attacked by robbers. They stripped him, beat him up, and left him half dead. 31By chance a priest was going down that road and saw him and went around him. 32A Levite came to the place and saw him and did the same thing. 33But a Samaritan on business came by and saw him and felt sorry for him. 34He went over and treated his wounds with oil and wine, bandaged them up, put him on his own pack animal, and took him to an inn to take care of him.
+
+35“The next day he took out two denarii and gave them to the innkeeper. ‘Take care of him. Whatever more you spend I’ll pay you when I get back.’ 36Which of the three do you think proved to be a neighbor to the man the robbers attacked?”
+
+37The lawyer said, “The one that showed him mercy.”
+
+Jesus said, “Go do that.” 	Lk 10:25-37
+
+Jesus with Mary and Martha
+
+38As they were traveling, he went into a village, and a woman named Martha welcomed him. 39She had a sister, Mary, who was sitting in front of Jesus, listening to him. 40Martha was worried with serving, and came and said, “Sir, don’t you care that my sister has left me to do the serving by myself? Have her help me.”
+
+41Jesus said, “Martha, you’re worried about a lot of things, 42but one thing is essential: Mary has chosen the good part; I’m not going to take it away from her.” 	Lk 10:38-42
+
+Discourse on Prayer
+
+11:1He was praying in a place. When he finished, one of his disciples said, “Teach us how to pray like John used to teach his disciples.”
+
+2He said,
+
+“When you pray, say,
+
+‘Father, you are holy.
+
+We want your kingdom to come.
+
+3Give us our food each day.
+
+4Forgive us of our sins
+
+because we forgive everybody that’s in debt to us.
+
+Don’t let us get led into temptation.’
+
+5“Which of you would go to a friend in the middle of the night and say, ‘Lend me three loaves of bread. 6A friend of mine has come, and I don’t have anything to feed him.’
+
+7“From inside, the friend would answer, ‘Don’t bother me. The door’s already shut; the kids are in bed with me. I can’t get up to give you anything.’ 8Though he didn’t want to, he got up and gave him what he needed because he was his friend and persisted. 9Ask and you’ll receive, seek and you’ll find, knock and it’ll open for you. 10The one that asks receives, the one that seeks finds, the one that knocks it’ll open for.
+
+11“If your son asks for a fish, would you give him a snake instead? 12If he asks for an egg, would you give him a scorpion? 13If you, being sinful, know how to give good things to your kids, how much more will the heavenly Father give the Holy Spirit to people that ask him.”	 Lk 11:1-13
+
+The Pharisees’ Charge That Jesus
+
+Was in League with the Devil
+
+14He was casting a demon out that made a man mute. When he’d cast it out, the man could speak, and the crowd was surprised. 15Some of them said, “He casts out demons by Beelzebub, the ruler of demons.” 16Others, trying to test him, were looking for him to give them a sign out of the sky.
+
+17He knew what they were thinking,
+
+“Any kingdom falls that’s at cross purposes with itself. 18If Satan is at cross purposes with himself, how will his kingdom stand—because you’re saying I cast out demons by Beelzebub? 19If I’m casting out demons by Beelzebub, who do your students cast them out by? They’ll be your judges.
+
+20“But if I’m casting out demons by the finger of God, then his kingdom has come to you. 21When a strong man, fully armed, guards his courtyard, his possessions are undisturbed. 22When somebody stronger than he is attacks and overpowers him, he seizes the armor the man depended on and scatters his plunder. 23Whoever’s not with me is against me, and whoever doesn’t gather with me scatters around.
+
+24“When an unclean spirit leaves a person, it roams around in dry places, looking for rest. When it doesn’t find any, it says, ‘I’ll go back to the house I left.’ 25When he goes, he finds it swept out and decorated. 26Then he takes along seven spirits worse than him, goes in, and settles down there. The person’s last condition is worse than the first.”	Lk 11:14-26
+
+27While he was talking, a woman in the crowd shouted, “Blessed is the womb that bore you and the breasts you nursed.”
+
+28But he said, “More important, blessed are people that hear God’s message and keep it.”
+
+29As the crowds were growing, he said,
+
+“This is a wicked time. People are looking for a sign, but they’re not going to get one other than the sign of Jonah. 30As he was a sign to the Ninevites, so the Son of Man will be to people of today. 31The queen of the south will stand up in the judgment with people of today and condemn them. She came from the ends of the earth to hear Solomon’s wisdom, and something greater than Solomon is here. 32The people of Nineveh will stand up in the judgment with people today and condemn them. They repented when Jonah preached to them, and something greater than Jonah is here.
+
+33“Nobody lights a lamp and puts it in the cellar [or under a basket]ms. They put it on a stand so people that come in can see it. 34Your eye is the lamp for your body. When your eyes are clear, your whole body has light; but when they’re bad, your body is also in the dark. 35Watch out so the light that’s in you won’t be darkness. 36If your whole body has light, it’s like a bright lamp that gives you light.” 	Lk 11:27-36
+
+37When he’d finished speaking, a Pharisee invited him to eat with him. He went in and directly reclined at table. 38When the Pharisee saw it, he was surprised that Jesus hadn’t ceremonially washed his hands before the meal.
+
+39The Lord said to him,
+
+“You Pharisees clean the outside of the cup and dish, but inside you’re filled with theft and wickedness. 40You foolish people, didn’t the One that made the outside make the inside too? 41Give the internal things over to charity, and everything will be clean to you.
+
+42“But woe to you Pharisees! You give a tenth of mint, rue, and vegetables, but pass over justice and love for God. You should have done those without neglecting these.
+
+43“Woe to you Pharisees! You love the most prominent seats in the synagogues and the greetings in the marketplaces.
+
+44“Woe to you! You’re like unmarked graves that people walk on without knowing it.”
+
+45A lawyer spoke upp, “Rabbi, when you say things like that, you insult us too.”
+
+46Jesus said,
+
+“Woe to you lawyers as well! You load people down with hard-to-carry burdens, but you don’t touch them with one of your fingers.
+
+47“Woe to you! You build the tombs of the prophets, and people like you killed them. 48So you’re witnesses and approve of what people like you did; they killed them; you build their tombs. 49So God in his wisdom has said, ‘I’ll send them prophets and apostles. They’ll persecute some and kill others. 50So the blood of all the prophets shed since the world began God will require of this generation—51from the blood of Abel to Zechariah that they murdered between the altar and the Temple. Yes, he’ll require it of this generation.’
+
+52“Woe to you lawyers! You take away the key for understanding. You don’t go in yourselves, and you stand in the way of the ones that are trying to.”
+
+53Before he left, the scribes got terribly hostile and badgered him with questions about all kinds of things, 54trying to goad him into saying something they could use against him. 	Lk 11:37-54
+
+Disciples Warned Against Fearing Men
+
+12:1Meantime, the thousands in the crowd that had been following him were so packed together they were stepping on each other. Jesus started saying to his disciples first,
+
+“Watch out for the yeast from the Pharisees, which is hypocrisy. 2Everything covered up will be uncovered; everything hidden will be discovered. 3What youpl say in the dark will be heard in the light; what youpl whisper in the storerooms will be shouted from the housetops.
+
+4“Friends, don’t be afraid of people that can kill the body and that’s all they can do. 5I’ll show you who to be afraid of: the One with the right to kill you and throw you into hell. Yes, be afraid of him. 6Don’t 5 sparrows cost 2 assarions? And God doesn’t forget about a one of them. 7The very hairs on your head are numbered. Don’t be afraid; you’re worth more than lots of sparrows.
+
+8“Everyone that acknowledges me to other people, I’ll acknowledge to God’s angels. 9Whoever denies who I am in front of other people I’ll deny in front of God’s angels. 10Everyone that slanders me can be forgiven, but whoever blasphemes the Holy Spirit won’t be forgiven.
+
+11“When they take you in front of synagogues, rulers, and authorities, don’t worry about what to say to defend yourselves. 12The Holy Spirit will teach you at the time what to say.”  	Lk 12:1-12
+
+The Parable About the Rich Fool
+
+13A fellow in the crowd said, “Rabbi, tell my brother to split the inheritance with me.”
+
+14Jesus said, “Sir, who appointed me to act as a judge or arbitor in yourpl affairs?”
+
+15“Guard against every kind of greed; even in abundance a person’s life doesn’t consist of what he owns.”
+
+16He told the crowd a parable,
+
+“A rich man’s ground produced a bumper crop. 17He deliberated what to do because he didn’t have enough room to put up his crop. 18He said, ‘This is what I’ll do: I’ll tear down my barns and build bigger ones so I can store all my grain and good things. 19I’ll tell myself, “You have a lot of good things for years to come. Rest, eat, drink, celebrate.”’ 20God said, ‘You foolish man! Tonight they’ll demand your life; who will these things belong to then?’ 21That’s how it is with people that store up for themselves and aren’t rich toward God.”	 Lk 12:13-21
+
+Encouragement to Trust God
+
+22He said to his disciples, “So don’t worry about your life what you’re going to eat or for your body what you’re going to wear. 23Life is more than food, and the body is more than clothes. 24Think about black birds; they don’t sow or reap; they don’t have a storeroom or barn. God feeds them. You’re worth a lot more than birds! 25Which of you by worrying can add 18 inches to your height? 26If you can’t do such a small thing, why worry about the rest? 27Consider how lilies grow; they don’t work hard or spin, but even Solomon in all his splendor wasn’t dressed like one of them. 28If God “dresses” the plants in the field that way—here today, burned tomorrow—how much more will he dress you, people with little faith. 29Don’t concentrate on what you’re going to eat, and don’t worry. 30Material things are what Gentiles desire. Your Father knows you need them. 31Seek out his kingdom, and material things will come along with it. 32You don’t need to be afraid, little flock. Your Father delights in giving you the kingdom. 33Sell what you own and give it to charity. Make money bags that don’t wear out, never-ending wealth in heaven, where thieves don’t steal and moths don’t ruin. 34Your heart will be where your wealth is.	 Lk 12:22-34
+
+Watchfulness: Parable About the Waiting Servants
+
+35“Be dressed and ready with your lamps lit 36like servants waiting for their master to come back from a wedding so they can open the door when he knocks. 37Blessed are the servants their master finds watching. He’ll put on servant’s clothes, have them recline at table, and wait on them. 38If he comes in the second watch or even the third and finds them ready, they’re blessed. 39Be sure of this: if the homeowner had known what time the thief would come, he wouldn’t have let him break into his house. 40You be ready because the Son of Man will come when you don’t expect him.”
+
+41Peter said, “Are you telling us that parable or everybody?”
+
+42He said, “Who’s a wise, reliable property manager that his master puts in charge of providing meals at the right time? 43Blessed is the servant that his master finds doing his job when he comes. 44He’ll put him in charge of everything he owns.	 Lk 12:35-44
+
+45“If that servant says to himself, ‘It’ll be a long time before my master gets back’; and he starts beating on the other servants, men and women, eating and getting drunk, 46the master will come on a day he doesn’t expect him at a time he doesn’t know, he’ll flog him severely, and assign him the fate of disbelievers.
+
+47“The servant that knew his master’s will and wasn’t ready or didn’t act accordingly will get many lashes. 48The one that didn’t know and committed things that deserve lashes will get few lashes. A lot will be expected of everybody that receives a lot. People ask more from somebody they’ve entrusted with more.
+
+Lk 12:45-48
+
+49“I came to set the earth on fire, and I wish it was already lit! 50I have a baptism to be baptized with, and I’m under duress till it’s done. 51Do you think my coming will bring peace on earth? No, it’ll bring division. 52From now on five members of a family will team up three against two and two against three:
+
+53father against son; son against father;
+
+mother against daughter; daughter against mother;
+
+mother-in-law against daughter-in-law;
+
+daughter-in-law against mother-in-law.”
+
+54He told the crowd as well,
+
+“When you see clouds coming up in the west, right away you say, ‘A storm’s coming,’ and you’re right. 55When you see a south wind blowing, you say, ‘It’s going to get hot,’ and it does. 56You foolish people, you can read earth and sky; why don’t you know how to read the signs of the times?
+
+57“Why can’t you figure out what’s right on your own? 58While you’re on the way to court with your opponent, do your best to settle matters so he doesn’t drag you in front of the judge, the judge turn you over to the officer of the court, and the officer put you in jail. 59You won’t get out till you pay the last penny.”	 Lk 12:49-59
+
+Discourse on Repentance
+
+13:1At that time, some people told Jesus about the Galileans whose blood Pilate had mixed with their sacrifices. 2He said,
+
+“Do you think those Galileans were more sinful than other Galileans because they suffered this? 3No, but unless you repent, you’ll die too. 4Do you think the 18 that the tower of Siloam fell on and killed were the most sinful people in Jerusalem? 5No, but unless you repent, you’ll die too.”
+
+6He told this parable,
+
+“A man had planted a fig tree in his vineyard. He went looking for fruit on it, but didn’t find any. 7He told the vineyard keeper, ‘This fig tree hasn’t borne any fruit for three years. Chop it down. Why’s it taking up space?’
+
+8“He answered, ‘Sir, leave it this year too, till I can dig around it and manure it. 9If it has fruit on it next year, okay. If not, chopf it down.’” 	Lk 13:1-9
+
+Healing on a Sabbath and the Coming Kingdom
+
+10He was teaching in a synagogue one Sabbath, 11and a woman there had a spirit that for 18 years made her bent double, and she couldn’t straighten up. 12When Jesus saw her, he called out, “Dear woman, your deformity’s gone.” 13He laid hands on her, and at once she straightened up and praised God. 14The synagogue ruler got angry because Jesus healed her on a Sabbath. He told the crowd, “There are six days for working. Come on those days to be healed, not on a Sabbath.”
+
+15The Lord answered him, “You foolish people, don’t youpl untie your ox or donkey and lead it out to water on a Sabbath? 16Wasn’t it appropriate on a Sabbath to untie this daughter of Abraham that Satan had tied up for18 years?”
+
+17His critics were disgraced, and the whole crowd was excited about the outstanding things he was doing.
+
+18So he said, “What’s God’s kingdom like? What can I compare it to? 19It’s like a mustard seed a fellow planted in his garden. It became a tree, and birds nested in its branches.”
+
+20“What’s God’s kingdom like? 21It’s like yeast a woman put in three pecks of meal till it made the whole batch rise.”	Lk 13:10-21
+
+Discussions in Perea
+
+22He was teaching from one town and village to another, working his way toward Jerusalem. 23Somebody said, “Lord, are few people saved?”
+
+He said to them,
+
+24“Makepl every effort to go in through the narrow door. Many of you will try to go in but can’t. 25Once the homeowner gets up and shuts the door, you’ll stand outside and knock, ‘Let us in.’ He’ll answer, ‘I don’t know where you’re from.’ 26You’ll say, ‘We ate with you, and you taught in our streets.’ 27He’ll tell you straight off, ‘I don’t know where you’re from. Get away from here, you bad people.’ 28There’ll be crying and gnashing of teeth when you see Abraham, Isaac, Jacob, and the prophets in Gods’ kingdom and yourselves excluded. 29People will come from every direction and sit down in his kingdom. 30The last will be first and the first last.”
+
+31At that time, some Pharisees came up to Jesus, “You need to get out of here! Herod wants to kill you!”
+
+32”Tell that old fox, ‘I’ll healp and cast out demons today and tomorrow, and finish my work on the third day.’ 33But today, tomorrow, and the next day I do need to travel; it’s not thinkable that a prophet would perish anywhere but in Jerusalem!
+
+34“Jerusalem! Jerusalem! that kills the prophets and stones the messengers that have been sent to you! How many times I’ve wanted to gather your inhabitants like a hen gathers her chicks under her wings, but you didn’t want to. 35I’m leaving your house [abandoned]ms. You won’t see me till you say, ‘Blessed be the One that’s coming in the name of the LORD’” [Ps 118:26].	Lk 13:22-35
+
+Healing in a Pharisee’s Home on a Sabbath
+
+14:1On a Sabbath, when he went into the house of a ruling Pharisee to eat, the leaders were watching him closely. 2In front of him was a man with extreme swelling. 3Jesus said to the lawyers and Pharisees, “Is it lawful to heal on a Sabbath?”
+
+4They didn’t say anything. He took hold of him and healed him and let him go. 5He said, “If a son or ox falls into a well, wouldn’t you pullf him out right away on a Sabbath day?” 6They couldn’t answer him.
+
+7When he noticed how they were vying for the prominent places at the table, he started telling the guests a parable.
+
+8“When somebody invites you to a wedding banquet, don’t recline at table in a place of honor. Someone more distinguished than you may have been invited. 9The one that invited you both will say to yousg, ‘Let this gentleman have your place.’ Then you’ll head for the last place embarrassed. 10Instead, when you’re invited, go recline in the last place so when the one that invited you comes, he’ll say, ‘Friend, move up higher.’ Then the others reclining at table will respect you. 11Everybody that exalts himself will be humbled, and the one that humbles himself will be exalted.”
+
+12He went on to say to his host,
+
+“When yousg have a luncheon or dinner, don’t call your friends, brothers, relatives, and wealthy neighbors. They can invite you in return. 13Invite poor, disabled, lame, and blind people. You’ll be blessed; they can’t repay you. 14You’ll get repaid when the righteous resurrect.”
+
+15When one of those reclining at the table heard that, he said to Jesus, “Blessed is the one that eats bread in God’s kingdom.”
+
+16Jesus said to him,
+
+“A man prepared a banquet and invited a lot of people. 17When the time for the banquet came, he sent a servant to tell them to come; everything was ready. 18But they started making excuses. ‘I need to go see a field I bought. Please excuse me.’
+
+19“‘I’m on my way to try out five yokes of oxen I bought. Please excuse me.’
+
+20“‘I just got married; I can’t come.’
+
+21“When the servant came back, he told his master. The homeowner was mad, ‘Hurry out into the streets and alleys in town and bring in the poor, disabled, blind, and lame.’
+
+22“‘Master, I did what you said, and there’s still room.’
+
+23“‘Go out into the country lanes and paths and urge them to come in so my house will be full. 24None of the people I invited will taste my banquet.”
+
+Lk 14:1-24
+
+The Cost of Discipleship
+
+25Large crowds were traveling with him. He turned and told them,
+
+26“Nobody that comes to me can be my disciple unless he loves me more than his father, mother, wife, children, brothers, sisters—even his own life. 27Whoever doesn’t carry his own cross and follow me, can’t be my disciple. 28Which of you that wants to build a tower, doesn’t sit down first and figure out what it’ll cost, to see if you have enough money to finish it? 29Otherwise, when you’ve laid the foundation and can’t finish it, people will make fun of you, 30‘This fellow started to build and couldn’t finish.’
+
+31“What king engages another king in battle without sitting down first to figure out if with 10,000 he can meet one with 20,000? 32If he can’t, while the other is still a long way off, he’ll send ambassadors to ask for terms of peace. 33In the same way, none of you can be my disciple unless you give up everything you own.
+
+34“Salt is good, but if it loses its saltiness, what can make it salty? 35It’s useless for the ground or manure pile. People throw it out. Whoever has ears, listen!”       	 Lk 14:25-35
+
+Parable About the Lost Sheep
+
+15:1Tax collectors and sinners were coming to listen to him. 2The Pharisees and scribes started grumbling, “This fellow welcomes sinners and eats with them.”
+
+3He told them this parable.
+
+4“What man that has a 100 sheep and loses one, doesn’t leave the 99 in the open country and go looking for the one that’s lost? 5
+
+When he finds it, he puts it on his shoulders happy. 6When he gets home, he calls his friends and neighbors, ‘Let’s celebrate; I’ve found the sheep I lost.’ 7There’ll be more celebration in heaven over one sinner that repents than over 99 good people that don’t need to repent.”	Lk 15:1-7
+
+Parable About the Lost Coin
+
+8“What woman that has 10 coins and loses one, doesn’t light a lamp, sweep the house, and keep looking till she finds it? 9When she does, she calls her friends and neighbors, ‘Let’s celebrate; I found the coin I lost.’ 10In the same way, God’s angels celebrate over one sinner that repents.      	Lk 15:8-10
+
+Parable About the Prodigal Son
+
+11“A man had two sons. 12The younger one said to his father, ‘Give me my share of the assets.’ He divided his assets between the two sons.
+
+13“A few days later the younger son got everything together and left home for a distant country, and wasted his assets there, living immorally. 14When he’d spent everything, a severe famine arose in that country, and he was out of money. 15He went to work for a citizen in that country, who sent him into his fields to feed pigs. 16He was so hungry he wanted to eat the carob pods the pigs were eating, but nobody would give him anything.
+
+17“He came to himself, ‘How many of my father’s hired hands have more than enough to eat, and I’m starving here. 18I’ll go to my father and say, “I’ve sinned against Heaven and you. 19I don’t deserve to be your son anymore. Make me one of your hired hands.”
+
+20“He went to his father. While he was still a long way off, his father saw him, felt sorry for him, and he ran and hugged him and kissed him. 21The son said, ‘Dad, I’ve sinned against Heaven and you. I don’t deserve to be your son anymore.’
+
+22“But his dad told the servants, ‘Quick, bring a robe—the best one—and put it on him. Put a ring on his finger and sandals on his feet. 23Get the grain-fed calf and butcher it; let’s eat and celebrate. 24This son of mine was dead and has come back to life; he was lost and is found.’ They started celebrating.
+
+25“His older son was out in the field. When he got close to the house, he heard music and dancing. 26He called one of the servants over and asked him what was going on.
+
+27“‘Your brother came back, and your father has butchered the grain-fed calf because he received him back in good health.’
+
+28“He was mad and wouldn’t go in. His dad came out and urged him.
+
+29“But he answered, ‘I’ve slavedp for you all these years and never neglected a thing you told me to do, and you’ve never given me a kid to celebrate with my friends. 30But when that son of yours comes who wasted your living with prostitutes, you butcher the grain-fed calf!’
+
+31“He said, ‘Son, you’re always here, and everything I have is yours. 32But we needed to be happy and celebrate because this brother of yours was dead and is alive; he was lost and is found.’”	 Lk 15:11-32
+
+Parable About an Unjust Steward
+
+16:1He also told his disciples,
+
+“A rich man had a property manager that was reportedly wasting the rich man’s holdings. 2He called him in, ‘What’s this I hear about you? Give me your record books for your work; you can’t continue being manager.’ 3The fellow thought to himself, ‘What am I going to do? My boss is firing me. I’m not strong enough for hard work; I’m ashamed to beg. 4I know what I’ll do, so when I’ve been let go, people will welcome me into their homes.’
+
+5“He called in each debtor and said to the first, ‘How much do you owe my employer?’
+
+6“‘800 gallons of olive oil.’
+
+“‘Take your bill, sit down quick and write “400.”’
+
+7“‘How much do yousg owe?’
+
+“‘1,000 bushels of wheat.’
+
+“‘Take your bill and write, “800.”’
+
+8“The employer had to admire the conniving fellow. The children of this world are smarter among their own kind than the children of light are. 9Make friends with your material wealth so when it runs out, they’ll welcome you into permanent shelters.
+
+10A person that’s reliable in little things will be reliable in big ones. Someone that’s unreliable in little things will be unreliable in big ones. 11So if you’re not reliable with what has nothing to do with being good, who’ll trust you with true wealth?
+
+12If you’re not reliable with other people’s things, who’s going to give you your own?
+
+13No one can serve two masters. You’ll disregard one and care about the other. You can’t serve God and wealth.”    	Lk 16:1-13
+
+The Law and God’s Kingdom
+
+14The Pharisees, who loved money, heard these things and started laughing at him. 15He told them,
+
+“You try to make yourselves look good to other people, but God knows your hearts. What people prize, God detests. 16The Law and the Prophets were operating until John came. Since then, the coming of God’s kingdom is being presented, and people keep trying to get into it by force. 17But it’s easier for earth and sky to pass away than for one serif* of the Law to fail.”
+
+18Everybody that divorces his wife and marries someone else commits adultery, and whoever marries a divorced woman commits adultery.”	 Lk 16:14-18
+
+Parable About the Rich Man and Lazarus
+
+19“A rich man dressed in purple and fine linen, celebrated every day in splendor. 20A poor man named Lazarus had been brought regularly to his gate. The man was covered with sores, 21and he wanted to eat what fell from the rich man’s table. The dogs even came and licked his sores.
+
+22“The poor man died, and angels carried him away into Abraham’s arms. The rich man died, too, and was buried. 23In hell he looked up in torment and saw Abraham far away and Lazarus in his arms.
+
+24“He called out, ‘Father Abraham, have mercy on me, and send Lazarus to dip his finger in water and cool my tongue; I’m in agony in this flame.’
+
+25“Abraham said, ‘Son, remember, you received your good things in life, and Lazarus received bad things. Now he’s comforted here, and you’re in torment. 26Besides, a wide chasm lies between us and youpl, so people can’t cross over from one place to the other.’
+
+27“‘Then send him to my father’s house—28I have five brothers—to warn them so they won’t come to this place of torment.’
+
+29“Abraham said, ‘They have Moses and the Prophets. They can listen to them.’
+
+30“‘No, Father Abraham, if somebody goes to them from the dead, they’ll repent.’
+
+31“Abraham told him, ‘If they won’t listen to Moses and the Prophets, they won’t be convinced even if somebody rises from the dead.’”	Lk 16:19-31
+
+Comments on Offences and Faith
+
+17:1He said to his disciples,
+
+“Inevitably offenses will come, but woe to the ones that bring them. 2It’d be better to have a big millstone put around their necks and be thrown into the sea than to make one of these little ones sin. 3Be careful. If your friend sins, reprimand him; if he repents, forgive him. 4If he sins against you seven times in a day and comes back seven times and says, ‘I’m sorry,’ forgive him.”
+
+5The apostles said to the Lord, “Give us stronger faith.”
+
+6He said,
+
+“If you have faith the size of a mustard seed, you can say to this mulberry tree, ‘Be uprooted and planted in the sea,’ and it’ll obey you.
+
+Parable About an Unprofitable Servant
+
+7“Which one of you that has a servant plowing or tending sheep will say when he comes in, ‘Sit down and eat’? 8Won’t you saysg, ‘Change clothes, fix me something to eat, and wait on me till I’m done eating; then you can eat’? 9You don’t thank him, do you, for doing what you’ve told him? 10Youpl too, when you’ve done what God’s told you, say, ‘We’re not special; we’ve just done what we were supposed to.” 	Lk 17:1-10
+
+Healing 10 Lepers
+
+11On the way to Jerusalem, he was passing along between Samaria and Galilee. 12As he came into one village, ten lepers met him. They stood a long way off 13and shouted, “Jesus, Master, have mercy on us!”
+
+14When he saw them, he said, “Go show yourselves to the priests.”
+
+As they went, they were cleansed. 15When one of them saw he was healed, he came back, loudly praising God, 16and fell on his face to Jesus and thanked him. He was a Samaritan.
+
+17Jesus responded, “Weren’t there ten cleansed? Where are the nine? 18Was this foreigner the only one to come back and praise God?
+
+19“Get up and go; your faith has saved you.” 	Lk 17:11-19
+
+The Time of the Coming of the Kingdom
+
+20The Pharisees asked when God’s kingdom was coming.
+
+He answered, “It won’t come in a way you can watch. 21People won’t say, ‘Here,’ or ‘There,’ because God’s kingdom is interpersonal.”lit
+
+22He told his disciples, “The time’s coming when you’ll really want to see one of the days of the Son of Man and you won’t see it. 23People will tell you, ‘Look, there he is’; ‘look, here he is.’ Don’t go anywhere or follow them. 24As lightning flashes from one end of the sky to the other, that’s the way the Son of Man will come. 25First, he has to suffer many things and be rejected by people here now.
+
+26“As in Noah’s day, it’ll be in the Son of Man’s day. 27They were eating and marrying till Noah went into the ark, and the flood came and destroyed them all. 28As in Lot’s day, they were eating, buying, selling, planting, building. 29The day Lot left Sodom, fire and sulfur rained from the sky and destroyed them all. 30It’ll be the same way when the Son of Man comes back. 31At that time, someone on the roof must not go down to get things out of the house. A person in the field must not go back for things at the house. 32Remember Lot’s wife. 33Whoever tries to preserve their life will lose it, and whoever loses it will save it. 34That night two will be in one bed; onemas will be taken and the othermas left. 35Two women will be grinding at the same place; one will be taken and the other left. [36]ms”
+
+37They answeredp, “Where?”
+
+He said, “The vultures will gather where the carcass is.” 	Lk 17:20-37
+
+Parable About the Unjust Judge
+
+18:1He told a parable to the effect that people should always pray, and not give up.
+
+2“There was a judge in a town who didn’t fear God or respect people. 3A widow in that town kept coming to him to defend her against her accuser. 4At first he wouldn’t help her, but after a while he said to himself, ‘I don’t fear God or respect people, 5but this widow keeps hounding me. I’ll see that she gets justice so she won’t wear me out, coming to me all the time.’
+
+6“Listen to what the unjust judge illustrates. 7Won’t God provide justice for his chosen ones that call to him for help day and night, and be patient with them? 8I’m telling you, he’ll provide it right away. But, when the Son of Man comes, will he find people with faith on the earth?”		       	          Lk 18:1-8
+
+The Pharisee and the Publican
+
+9He told this parable to some people that trusted in their own goodness and looked down on everybody else.
+
+10“A Pharisee and a tax collector went up to the Temple to pray. 11The Pharisee stood, praying to himself, ‘God, I’m glad I’m not like everybody else—swindlers, unjust, adulterers—or this tax collector. 12I fast twice a week and give a tenth of everything I gain.’
+
+13“The tax collector stood a good way off and wouldn’t even look up to heaven, but kept beating his chest, ‘God, have mercy on me; I’m such a sinner.’ 14I’m telling you, he’s the one that went home justified instead of the other one. Everybody that exalts himself will be humbled, but whoever humbles himself will be exalted.”  	Lk 18:9-14
+
+Jesus and the Little Children
+
+15People were bringing their babies for Jesus to touch. When the disciples saw it, they fussed at them. 16But Jesus invited them, “Let the little kids come over here. People like them are what make up God’s kingdom. 17I’m telling you, whoever doesn’t welcome God’s kingdom like a little kid won’t get into it.”	Lk 18:15-17
+
+The Rich Young Ruler
+
+18An official asked him, “Good Rabbi, what do I need to do to inherit eternal life?”
+
+19Jesus said, “Why are you calling me good? Nobody’s good but God. 20You know the commandments: ‘do not commit adulteryf, murderf, stealf, or lief [Ex 20:13-16]; honor your parents’” [Ex 20:12].
+
+.	21“I’ve done that since I was a boy.”
+
+22Jesus said, “There is one thing you can do: sell everything you own and distribute it to the poor, and you’ll have wealth in heaven; then come with me.”
+
+23When he heard that, he got really discouraged because he was very wealthy.  Lk 18:18-23
+
+The Peril About Wealth
+
+24When Jesus saw him so downcast, he said, “It’s hard for wealthy people to get into God’s kingdom. 25It’s easier for a camel to go through a needle’s eye than for a rich person to get into God’s kingdom.
+
+26The ones that were listening said, “Who can be saved then?”
+
+27Jesus said, “Things impossible for people are possible for God.”
+
+28Peter said, “We’ve left our homes to follow you.”
+
+29He said to them, “Everybody that has left behind a home, a wife, brothers, parents, or children for the sake of God’s kingdom 30will receive many times more in this age and eternal life in the age to come.”	Lk 18:24-30
+
+Another Prediction of His Death
+
+31He took the Twelve aside and told them, “We’re going up to Jerusalem to accomplish everything the prophets wrote about me. 32I’ll be handed over to the Gentiles, and be made fun of, abused, spit on. 33When they’ve flogged me, they’ll put me to death; but on the third day I’ll resurrect.” 34None of that made any sense to them. 	Lk 18:31-34
+
+Healing Two Blind Men at Jericho
+
+35Near Jericho a blind man was sitting by the road, begging. 36When he heard a crowd go by, he asked what was happening. 37They told him Jesus the Nazarene was going past.
+
+38He yelled out, “Jesus son of David, have mercy on me!”
+
+39The people out in front told him to quiet down, but he yelled all the more, “Son of David, have mercy on me.”
+
+40Jesus stopped and told him to come over. When he got there, Jesus asked him, 41“What do you want me to do?”
+
+“Lord, give me sight back.”
+
+42Jesus said, “Receive it. Your faith has delivered you.”
+
+43Instantly he could see again; and he went with Jesus, praising God. When the people saw it, they praised God too.	Lk 18:35-43
+
+Jesus and Zacchaeus
+
+19:1Jesus was passing through Jericho, 2and a wealthy tax collector named Zacchaeus 3wanted to see what he looked like, but he couldn’t because of the crowd; he was too short. 4So he ran ahead and climbed up in a sycamore tree that Jesus was heading toward. 5When Jesus got there, he looked up, “Zacchaeus, hurry and climb down. I need to stay at your place today.” 6He hurried and climbed down and welcomed him happily.
+
+7When people saw it, they started grumbling, “He’s going in to be a guest with a sinner!”
+
+8Zacchaeus stopped and said to the Lord, “Half of what I own, I’m going to give to the poor. If I’ve cheated anybody, I’ll repay it four times over.”
+
+9Jesus said this about him, “Salvation has come to this house today; he’s a son of Abraham too. 10The Son of Man came to seek and save sinners.”   	Lk 19:1-10
+
+Parable About the Pounds
+
+11While he had their attention, he told a parable. Since he was close to Jerusalem, people were supposing God’s kingdom would appear right away:
+
+12“A nobleman was about to go to a distant country to receive a kingdom. 13He called ten servants and passed out ten minas*, ‘Do business with these till I get back.’
+
+14“His citizens hated him and sent a delegation after him, ‘We don’t want him to rule us.’ 15When he got back from receiving the kingdom, he had the servants called that he gave the silver so he could find out what they’d earned.
+
+16“The first came up, ‘Master, your mina has made 10 more.’
+
+17“‘You did well. Since you’ve been reliable in a small matter, assume responsibility for ten cities.’
+
+18“The second came, ‘Your mina has made five minas.’
+
+19“‘Govern five cities.’
+
+20“Another came, ‘Master, here’s your mina. I’ve kept it in a handkerchief. 21I was afraid of you; you’re an exacting man that picks up what you didn’t lay down and reaps what you didn’t sow.’
+
+22“‘I’ll judge you out of your own mouth, you worthless servant. You knew, did you, that I’m an exacting man that picks up what I didn’t lay down and reaps what I didn’t sow? 23Why didn’t you put my silver in the bank? When I got back, I would’ve collected it plus interest.’
+
+24“He told the bystanders, ‘Take his mina and give it to the one that has ten.’
+
+25“‘Sir, he has ten.’
+
+26“‘I’m telling you, everybody that has will receive, and the ones that don’t have will lose even what they do have. 27But, bring those enemies that didn’t want to be under my rule and put them to death in front of me.’”
+
+28After he said that, he took the lead up to Jerusalem.	 Lk 19:11-28
+
+The Triumphal Entry
+
+29When he got close to Bethphage and Bethany, to the hill called The Mount of Olives, he sent two disciples: 30“Go in the village over there. When you go in, you’ll find a colt tied that nobody has ever ridden. Untie it and bring it. 31If anybody asks why you’re untying it, say the Lord needs it.”
+
+32They went and found the colt like he said. 33As they were untying it, its owners said, “Why are you untying the colt?”
+
+34“The Lord needs it.”
+
+35They brought it, threw their cloaks over it, and put Jesus on it. 36As he was going along, people started spreading their cloaks on the road. 37Near the descent from the Mount of Olives, the whole crowd of disciples started celebrating. They were loudly praising God for the miracles they’d seen,
+
+38“Blessed be the king that’s coming
+
+in the name of the LORD [Ps 118:26].
+
+Peace in heaven and
+
+glory in the highest.”
+
+39Some Pharisees in the crowd said, “Rabbi, rein in your disciples.”
+
+40He answered, “If they go silent, the rocks will start shouting!”
+
+41As he got close and saw the city, he cried over it,
+
+42“If you only knew today what’s in store for the peace you have now . . . ; but you can’t see it. 43The time’s coming when your enemies will put up a siege wall around you and box you in from every direction. 44They’ll level you to the ground and your residents along with you. They won’t leave one stone on another, because you didn’t know when it was coming.”	 Lk 19:29-44
+
+Second Cleansing of the Temple (cp Jn 2:13-22)
+
+45He went into the Temple and started chasing the merchants out, 46“Scripture says,
+
+‘My house will be a house for prayer’ [Is 56:7].
+
+You’ve made it ‘a den for thieves!’ [Jer 7:11]”
+
+47Every day he taught in the Temple, and the chief priests, scribes, and leaders of the people were looking for some way to destroy him, 48but they couldn’t find one; the people were eagerly listening to him.	Lk 19:45-48
+
+Jesus’ Authority Challenged
+
+20:1One day he was teaching the people in the Temple and delivering good news. The chief priests, scribes, and elders confronted him: 2“What right do you have to do this? Who gave you that right?”
+
+3“I’ll ask you something too. Tell me, 4Was John’s baptism from heaven or humans?”
+
+5They talked it over, 6“If we say, ‘From heaven,’ he’ll say, ‘Why didn’t you believe him?’ If we say, ‘From humans,’ the people will stone us; they’re convinced John was a prophet.” 7They said they didn’t know.
+
+8Jesus said, “I won’t tell you either what right I have to do what I’m doing.” 	Lk 20:1-8
+
+The Parable About a Vineyard
+
+9He started telling the people this parable:
+
+“A man planted a vineyard, rented it out to tenants, and went on an extended trip. 10At harvest time he sent the tenants a servant to receive the fruit from the vineyard. But the tenants beat him up and sent him away empty-handed.
+
+11“He proceeded to send another servant. They beat him up, too, and treated him shamefully, and sent him away with nothing. 12He sent a third. They wounded him and threw him out. 13The owner said, ‘What am I going to do? I’ll send my dear son. Maybe they’ll respect him.’ 14When the tenants saw him, they started talking among themselves, ‘That’s the heir. Let’s kill him so the vineyard will belong to us.’ 15They threw him out of the vineyard and killed him. What’s the owner going to do to them? 16He’ll come and destroy them and give the vineyard to other tenants.”
+
+The audience said, “Surely not!”
+
+17He looked at them and said, “What then does this scripture mean,
+
+‘The stone the builders rejected
+
+has become the cornerstone’ [Ps 118:22]?
+
+18Everybody that falls on that rock will get bruised. Whoever it falls on will get crushed.”
+
+19The scribes and chief priests were ready to seize him right then, but they were afraid of the people. They knew he’d told that parable on them.	Lk 20:9-19
+
+The Question About Tribute to Caesar
+
+20They kept a close eye on him and sent spies pretending to be honest men so they could latch onto something he said. That way they could turn him over to the governor’s authority.
+
+21They asked him, “Rabbi, we know you’re straightforward when you teach. It doesn’t matter who you’re talking to; you teach the way of God correctly. 22Is it lawful to pay tribute to Caesar?”
+
+23He saw through their deception, 24“Show me a denarius. Whose image and inscription does it have on it?”
+
+“Caesar’s.”
+
+25“Then pay Caesar what you owe Caesar and pay God what you owe God.”
+
+26They couldn’t make anything out of what he said in front of his audience. They were dumbfounded by his answer and didn’t say anything. 	Lk 20:20-26
+
+The Question About the Resurrection
+
+27Some Sadducees—who deny there’s resurrection—came and asked him,
+
+28“Rabbi, Moses wrote to us, ‘If a brother dies and has a wife but no children, his brother is to marry his wife and raise up offspring to his brother’ [Deut 25:5; Gen 38:8]. 29There were seven brothers, and the first married a wife and died childless. 30The second and 31third through the seventh married her and died and didn’t leave any children. 32Last of all, the woman died too. 33Whose wife will she be in the resurrection? They all had her as a wife.”
+
+34Jesus said,
+
+“People in this age get married. 35The ones considered worthy of receiving that age and the resurrection of the dead don’t get married. 36They can’t die anymore either, they’re like angels. They’re like God and participate in the resurrection.
+
+37“But, that the dead are raised, even Moses showed when he said in the ‘bush passage,’ ‘I’m the LORD, Abraham, Isaac, and Jacob’s God’ [Ex 3:6, 15-16]. 38He’s not a God of the dead, but of the living; everybody is alive to him.”
+
+39Some scribes responded, “Rabbi, that was a good answer.” 40After that, nobody tried to trip him up with loaded questions.	Lk 20:27-40
+
+The Question About the Son of David
+
+41He said to them, “How do they say the Messiah is David’s son? 42He says himself in the Book of Psalms,
+
+‘The LORD said to my Lord,
+
+“Sit at my right hand
+
+43till I make your enemies your footstool”’” [Ps 110:1].
+
+44If David calls him ‘Lord,’ how can he be his son?”	 Lk 20:41-44
+
+Denouncing the Scribes and Pharisees
+
+45Right in front of everybody, he told the crowd and his disciples, 46“Watch out for the scribes. They like to walk around in long robes and love greetings in the marketplaces, chief seats in the synagogues, places of honor at banquets. 47They confiscate widows’ houses and offer long prayers for show. They’ll get a more severe condemnation.”	Lk 20:45-47
+
+The Widow’s Mite
+
+21:1He looked up and saw wealthy people putting contributions in the Treasury 2and a poor widow putting in two leptons*. 3“I’m telling you, that poor widow put in more than anybody. 4They contributed from their abundance, but she put in everything she had to live on.” 	Lk 21:1-4
+
+The Olivet Discourse
+
+5Some were talking about the Temple, because it was decorated with beautiful stones and memorial gifts.
+
+6He said, “The time’s coming when what you see here won’t be left stone on stone.”
+
+7“Rabbi, when’s that going to happen? What will show it’s about to happen?”
+
+8He said,
+
+“Make sure nobody misleads you. Many men will come, saying, ‘I’m the Messiah,’ and, ‘It’s time.’ Don’t follow them. 9When you hear about wars and rebellions, don’t be terrified. 10Nation will attack nation; kingdom will attack kingdom. 11There will be severe earthquakes, famines, and plagues in many places—dreadful events, and great signs from the sky. 	Lk 21:5-11
+
+12“But before all that, they’ll persecute you and arrest you. They’ll deliver you to synagogues and jails and take you in front of kings and governors because of me. 13Those times will provide opportunities to speak for me. 14Be determined not to prepare your defense ahead of time. 15I’ll give you what to say and wisdom that none of your opponents can argue with. 16Even parents, relatives, and friends will betray you and execute some of you. 17People will hate you because of me. 18Yet not a hair of your head will perish. 19You’ll gain your souls by standing firm.
+
+20“When you see Jerusalem being surrounded by armies, you’ll know its destruction is coming. 21People in Judaea need to flee to the hill country, people in the city need to leave, people in the countryside must not go into the city. 22This will bep a time of revenge to fulfill scripture. 23Woe to the women that are pregnant or nursing then; there’ll be great distress in the land and God’s displeasure on this people. 24They’ll fall by the sword and go captive into foreign countries. Gentiles will trample Jerusalem underfoot till the times of the Gentiles are over.
+
+25“There’ll be signs in the sun, moon, and stars, and turmoil among nations in despair at the roaring of the sea. 26People will faint from fear and foreboding over what’s coming on the world, because the powers in the sky will be shaken. 27People will see ‘the Son of Man coming on a cloud’ [Dan 7:13] with great power and glory. 28When these things start to happen, look up; your deliverance is on its way. 	Lk 21:12-28
+
+29“Look at a fig tree—or any tree. 30As soon as it begins to sprout leaves, you can tell summer’s coming. 31The same way when you see these things, you’ll know God’s kingdom is on its way. 32That will take place in this generation. 33Earth and sky will pass away, but what I say won’t pass away.
+
+34“Be careful that pleasures, drunkenness, life’s worries don’t make you insensitive, and that day comes on you unexpectedly 35like a trap. It’ll come on everybody on earth. 36Be alert all the time. Pray so you’ll be strong enough to get away from everything that’s coming and to stand in front of the Son of Man.”
+
+37Jesus was spending the days teaching in the Temple and the nights on the hill called The Mount of Olives. 38The people would come early to listen to him in the Temple.	 Lk 21:29-38
+
+Fifth Prediction of His Death
+
+22:1 The Festival of Unleavened Bread (called Passover) was coming up. 2The chief priests and scribes were looking for some way to destroy him because they were afraid of the people. 	Lk 22:1-2
+
+Judas’ Plot to Betray Jesus
+
+3Satan got into Judas, called Iscariot, one of the Twelve. 4He went to talk to the chief priests and soldiers about delivering Jesus to them. 5They were elated and offered him money. 6He agreed and started looking for a chance to turn him over away from a crowd. 	Lk 22:3-6
+
+Preparation for the Passover Meal
+
+7The day of Unleavened Bread came when the Passover lamb needed to be sacrificed. 8Jesus sent Peter and John, “Go get the Passover ready for us.”
+
+9“Where should we do that?”
+
+10“On the way into the city, you’ll meet a man carrying a clay pot of water. Follow him into the house he enters 11and say to the owner, ‘The Rabbi says, “Where’s the guest room where I can eat the Passover with my disciples?”’ 12He’ll show you a big upstairs room furnished. Get things ready there.” 13They went and found it like he’d said and got things ready.
+
+Lk 22:7-13
+
+The Passover Meal;
+
+The Lord’s Supper Instituted
+
+14When the time came, he and his disciples reclined at table. 15He said, “I’ve really wanted to eat this Passover with you before I suffer; 16I won’t be eating this meal till its meaning is fulfilled in God’s kingdom.”
+
+17He took a cup, gave thanks, and said, “Take this and distribute it among yourselves. 18This is the last time I’ll drink the fruit of the vine till God’s kingdom comes.” 19He took a loaf, gave thanks, and passed it around to them, “This is my body that’s given for you. Do this in my memory.” 20In the same way, he took the cup after they ate, “This cup that’s poured out for you is the new covenant in my blood. 21But the hand of my betrayer is with me on the table. 22I’ll go the way it’s been pre-determined, but woe to the one that betrays me.” 23They tried to figure out with each other which of them would do such a thing.     	Lk 22:14-23
+
+Another Argument About Rank
+
+24An argument arose about which of them would have the highest rank.
+
+25He said,
+
+“Gentile kings lord it over their people; the ones that wield authority they call benefactors. 26You’re not to be like that. The greatest among you needs to be like the youngest and the leader like a servant. 27Who has higher rank, someone reclining at table or a waiter? Isn’t it the one at the table? But I’m here like a waiter. 28You’ve stayed with me in my difficulties. 29I’m passing the kingdom on to you like the Father passed it on to me 30so you can eat at my table in my kingdom and sit on thrones, judging the twelve tribes of Israel.     	Lk 22:24-30
+
+The Disciples Warned
+
+31“Simon, Satan asked to sift youpl all like wheat, 32but I prayed that yoursg faith wouldn’t fail. When you get stable again, stabilize your brothers.”
+
+33Peter said, “Lord, I’m ready to go to prison and to die with you.”
+
+34Jesus said, “I’m telling you, Peter, before a rooster crows in the morning, you’ll deny three times that you even know me.”
+
+35He said, “When I sent you out with no money bag, knapsack, or shoes, you didn’t lack anything, did you?”
+
+“No.”
+
+36“But now, if you have a money bag, take it—and a knapsack too. If you don’t have a sword, sell your coat and buy one. 37I have to fulfill what this scripture says about me: ‘They considered me a criminal’ [Is 53:12]. What refers to me will happen.”
+
+38“Lord, here are two swords.”
+
+“That’s enough.”	Lk 22:31-38
+
+Agony in the Garden
+
+39He left and went to the Mount of Olives as he often did, and his disciples went with him. 40When he got to where he was going, he said, “Pray so you won’t be tempted.”
+
+41He went away about a stone’s throw, and knelt down and prayed, 42“Father, if you’re willing, take this cup away from me. Yet not my will but yours be done.” [[43An angel from heaven appeared to him to strengthen him. 44In agony he prayed more intensely. His sweat became like drops of blood dripping on the ground.]]ms
+
+45He got up and went back and found the disciples sleeping from grief. 46He said, “Why are you sleeping? Get up and pray so you won’t be tempted.”   	Lk 22:39-46
+
+The Arrest
+
+47While he was still talking, a crowd came with Judas in front. He came up to Jesus to kiss him.
+
+48Jesus said, “Judas, you’re betraying me with a kiss?”
+
+49When the ones around him saw what was about to happen, they said, “Lord, should we attack with a sword!?” 50One of them struck a servant of the high priest and cut off his right ear.
+
+51Jesus responded, “Back off!” He touched the servant’s ear and healed him.
+
+52He said to the chief priests, soldiers, and elders, “You’re coming out here with swords and clubs as if you’re capturing an insurgent? 53I was with you in the Temple every day, and you didn’t lay a hand on me—but . . . this is your time—the power of darkness.”	 Lk 22:47-53
+
+The Trial Before Caiaphas;
+
+Peter’s Denials; Condemnation by the Sanhedrin
+
+54They arrested him and led him away to the high priest’s residence. Peter followed at a distance. 55After they started a fire in the middle of the courtyard and sat down together, Peter was sitting with them. 56A servant girl saw him sitting there, facing the light. She looked at him closely, “This fellow was with him too.”
+
+57He denied it, “I don’t know him.”
+
+58A little later someone else saw him, “You are too one of them.”
+
+Peter said, “Sir, I am not.”
+
+59About an hour later, another man started insisting, “This man was too with him. He’s a Galilean.”
+
+60Peter said, “Sir, I don’t know what you’re talking about.”
+
+While he was still speaking, a rooster crowed. 61The Lord turned and looked at him, and he remembered what Jesus had said, “Before a rooster crows in the morning, you’ll deny three times that you even know me.” 62He went out and broke down sobbing.
+
+63The men that held Jesus in custody were making fun of him, 64blindfolding him, slapping him, and asking, “Say! Who slapped you?” 65They were saying lots of other insulting things to him.
+
+66When it got daylight, the people’s council of elders, chief priests, and scribes convened and brought him into their Court, 67asking, “Are you the Messiah? Tell us.”
+
+“If I tell youpl, you won’t believe me. 68If I ask a question; you won’t answer me. 69From now on, “the Son of Man will sit in a position of power at God’s right hand” [Ps 110:1].
+
+70They all said, “So are you God’s ‘Son’?”
+
+“Yes.”
+
+71They said, “What do we need witnesses for? We’ve heard him say it ourselves.”
+
+Lk 22:54-71
+
+The First Trial Before Pilate
+
+23:1The whole assembly got up and took him to Pilate. 2They started accusing him, “This man’s misleading our nation, forbidding people to pay tribute to Caesar, and claiming to be the Messiah, a king.”
+
+3Pilate asked him, “Are you king of the Jews?”
+
+“Yes.”
+
+4Pilate said to the chief priests and the crowd, “This man’s not guilty of anything!”
+
+5They kept insisting, “He stirs up the people, teaching everywhere from Galilee to here.”
+
+Lk 23:1-5
+
+Trial Before Herod Antipas
+
+6When Pilate heard that, he asked if he was a Galilean. 7When he found out Jesus was from Herod’s jurisdiction, he sent him on to Herod, who was in Jerusalem at the time. 8Herod was glad to see him. He’d wanted to see him for a long time because of what he’d been hearing about him; he’d hoped to see him do a sign. 9He asked him lots of questions, but Jesus didn’t answer him.
+
+10The chief priests and scribes were standing there, accusing him aggressively. 11After treating him with contempt and making fun of him, Herod and his soldiers dressed him in a splendid robe and sent him back to Pilate. 12Herod and Pilate became friends that day. They’d been at odds with each other.	Lk 23:6-12
+
+The Second Trial Before Pilate
+
+13Pilate called together the chief priests, rulers, and the people, 14“You brought me this fellow as someone that’s inciting the people to revolt. I examined him in your presence and didn’t find him guilty of what you claimed. 15Herod didn’t either; he sent him back. He hasn’t done anything worth executing him for. 16I’ll flog him and release him.” [17]ms
+
+18They shouted out together, “Away with him! Release Barabbas to us!” (19Barabbas had been put in prison for a riot in the city and for murder.) 20Pilate wanted to release Jesus and addressed them again, 21but they kept yelling, “Crucify him! Crucify him!”
+
+22For the third time he said, “What’s he done? I haven’t seen anything worth executing him for. I’ll flog him and release him.”
+
+23But they kept pressing with loud demands to crucify him, and they were getting the upper hand.
+
+24Pilate decided to give in to them 25and release the one they were asking for—the one in prison for riot and murder—and sentenced Jesus to death like they wanted.	Lk 23:13-25
+
+The Way to Golgotha
+
+26As they were leading him away, they made Simon—a Cyrenian coming in from the countryside—carry the cross in front of Jesus. 27A big crowd followed him, including women that were mourning and crying over him.
+
+28Jesus turned and said, “Daughters of Jerusalem, don’t cry for me. Cry for yourselves and your children. 29The time’s coming when they’ll say the barren are fortunate, the wombs that never bore, the breasts that never nursed. 30They’ll say to the mountains, ‘Bring an avalanche on us,’ and to the hills, ‘Cover us.’ 31If they’re doing this when the wood’s green, what’ll they do when it’s dry?”	Lk 23:26-31
+
+The Death of Jesus
+
+32They took two others to execute with him. 33When they got to a place called The Skull, they crucified him and the two criminals, one on each side of him. [[34Jesus said, “Father, forgive them; they don’t know what they’re doing.”]]ms They cast lots to divide up his clothes.
+
+35The people stood watching. The rulers were making fun of him, “He saved other people; let him save himself if he’s God’s Messiah, the Chosen One.”
+
+36The soldiers mocked him too and offered him some sour wine, 37“If you’re King of the Jews, save yourself.”
+
+38The inscription above him was, “King of the Jews.”
+
+39One of those hanged with him lashed out, “Save yourself and us. You’re the Messiah, right?”
+
+40The other reprimanded him, “Don’t you even fear God? You’re under the same condemnation! 41We’re getting what we deserve, but he hasn’t done anything wrong.”
+
+42He said, “Jesus, remember me when you come into your kingdom.”
+
+43Jesus said, “You’ll be with me in Paradise today.”
+
+44-45About noon, it got dark over the whole country till 3 o’clock, and the Temple curtain tore in two. 46Jesus shouted, “Father, I’m committing my spirit to you!” [Ps 31:5] and quit breathing.	Lk 23:32-46
+
+Other Miracles at Messiah’s Death
+
+47When the centurion saw what happened, he praised God, “Surely this man was innocent.” 48When the crowd that had gathered for this spectacle saw what all happened, they went home beating their chests. 49His acquaintances and the women that came with him from Galilee stood a long way off, watching. 	Lk 23:47-49
+
+The Burial
+
+50A member of the Sanhedrin named Joseph, a good, upright man, 51hadn’t been in agreement with what they did. He was from Arimathea, a town of the Jews, and was waiting for God’s kingdom. 52He went to Pilate and asked for Jesus’ body. 53He took it down, wrapped it in a linen cloth, and put him in a new rock-hewn tomb. 54It was getting late on Preparation Day, and Sabbath was about to start. 55The women that came with him from Galilee followed along and saw where they put the body. 56They went back to fix spices and ointment, and rested on the Sabbath like the Law commanded.     	 Lk 23:50-56
+
+The Resurrection; The Women’s Report;
+
+Peter and John’s Visit
+
+24:1But early in the morning on the first day of the week, the women went to the tomb, carrying the spices they’d prepared. 2They found the stone rolled away from the tomb, 3but when they went in, didn’t find the body of the Lord Jesus. 4While they were wondering what happened, two men stood by them in dazzling clothes. 5The women were scared and lowered their faces toward the ground. The men said, “Why look for the living among the dead? 6He’s not here; he resurrected. Remember how he told you back in Galilee 7that he had to be betrayed to sinners, be crucified, and resurrect the third day.”
+
+8They remembered what he’d said, 9and left the tomb to tell the eleven and the rest. (10They were Mary the Magdalene, Joanna, Mary mother of James, and others.) They told the apostles, 11but it seemed to them like idle talk. 12But Peter ran to the tomb, stooped down, and saw only the linen wrappings. He went back puzzled.	Lk 24: 1-12
+
+Appearance to Two
+
+on the Way to Emmaus
+
+13That same day Jesus appeared to two disciples as they were making their way to Emmaus, a village about seven miles from Jerusalem. 14They were talking about what all had happened. 15Meanwhile, Jesus caught up with them, 16but they didn’t recognize himlit.
+
+17He said, “What were you talking about while you walked?”
+
+18One named Cleopas said, “Are you the only one visiting Jerusalem that doesn’t know what happened there lately?”
+
+19“What?”
+
+“About Jesus the Nazarene, a prophet powerful in word and deed in the presence of God and all the people. 20The chief priests and our rulers delivered him over to the death sentence and had him crucified. 21We were hoping he was the One that would free Israel. It’s been three days since that happened, 22but some women from our number astounded us. They’d arrived at the tomb early this morning. 23When they didn’t find his body, they came and said they’d seen angels who claimed he was alive. 24Some that were with us went to the tomb and found it like they’d said, but they didn’t see him.”
+
+25Jesus said, “Foolish men, hesitant to believe everything the prophets have said. 26Didn’t the Messiah need to suffer those things and enter his glory?” 27Beginning with Moses and all the prophets, he explained the scriptures that referred to himself.
+
+28When they got close to home, he acted like he was going on, 29but they urged him to stay with them, “It’s getting late; the day’s almost over.”  So he went in.
+
+30While he was reclining at table, he took bread, blessed it, broke it, and handed it to them. 31They recognized him, and he disappeared. 32They said to each other, “Didn’t we feel an eerie sensation while he was talking to us on the road and explaining the scriptures?”
+
+Lk 24:13-32
+
+Report by the Two
+
+33They got up and went right back to Jerusalem and found the eleven with some others, 34who told them that the Lord really did resurrect and had appeared to Simon. 35In turn, they recounted what happened on the road and how they recognized him when he broke the bread.	Lk 24:33-35
+
+Appearance to the Ten
+
+with Further Commission
+
+36While they were talking about it, Jesus himself stood among them, “Hello.” 37They were startled and scared; they thought they were seeing a ghost.
+
+38“Why are you at a loss, wondering what’s happening? 39Look at my hands and my feet; it’s really me. Touch me. A spirit doesn’t have flesh and bones like you can see I have.” [40]
+
+41They couldn’t believe it, they were so happy.
+
+“Do you have anything here to eat?”
+
+42They gave him a piece of baked fish, 43and he took it and ate it in front of them.		   e said, “Why are you upset
+
+44“This is what I told you when I was still with you: I needed to fulfill everything the scripture says about me in the Law of Moses, the Prophets, and the Psalms: [45] 46the Messiah would suffer and resurrect the third day, 47and in his name repentance for forgiveness would be presented in every country. Beginning in Jerusalem, 48you’ll testify to these things. 49I’ll sendp on you what the Father promised, but stay in the city till I clothe you with power from on high.”   	Lk 24:36-49
+
+The Ascension
+
+50He led them out to Bethany, raised his hands, and blessed them. 51While he was blessing them, he was carried up into the sky. 52They [worshiped him and]ms returned to Jerusalem elated, 53and were continually in the Temple, praising God.	Lk 24:50-53
+
+JOHN
+
+The Pre-Existence and
+
+Incarnation of the Messiah
+
+1:1In the beginning the Word was there. The Word was with God, and the Word was deity. 2He was in the beginning with God. 3He made everything; nothing came into existence without him. What has come 4in him was life, life that gave people light. 5The light shinedp in the darkness, but the darkness tended not to accept it.
+
+6God sent a man named John 7to tell about the light so everybody would believe. 8He wasn’t the light, but came to reveal 9it, the true light for enlightening everyone in the world. 10The Word was in the world and made the world, but it didn’t know him. 11He came into his own things, but his own people tended not to accept him. 12But, to as many as did accept and believe in him, he gave the right to become God’s offspring, 13not born by blood, physical desire, or a husband’s will, but by God.
+
+14The Word took on a physical nature and lived with us. We saw his glory, glory like the only One from the Father, full of grace and reality.
+
+15John testifiedp about him, shouting, “He’s the One I was talking about when I said, ‘After me a man is coming that has become before me because he existed before me!’” 16From his full measure we’ve all received grace on top of grace. 17Moses gave law, but Jesus the Messiah brought grace and reality. 18Nobody’s ever seen God, but the unique deity—the One dear to the Father—has shown what he’s like. 	Jn 1:1-18
+
+John’s Defense of His Ministry
+
+19This is what John said when Jews from Jerusalem sent priests and Levites to ask him who he was.
+
+20“I’m not the Messiah.”
+
+21“Are you Elijah, then?”
+
+“I’m not Elijah.”
+
+“Are you ‘the prophet’?”
+
+“No.”
+
+22“Who are you, so we can answer the ones that sent us? What do you say about yourself?”
+
+23“I’m one shouting in the desert, ‘Make the LORD’s road straight!’ [Is 40:3] like Isaiah the prophet said.”
+
+24The Pharisees had sent the ones that came. 25They asked him, “Why are you baptizing if you’re not the Messiah, Elijah, or ‘the prophet’?”
+
+26“I’m baptizing in water, but there’s a man you don’t know standing among you. 27He’ll succeed me, a man whose sandal strap I’m not worthy to unfasten.”
+
+28That happened at Bethany beyond the Jordan River, where John was baptizing.
+
+Jn 1:19-282:1
+
+John’s Identification of Jesus as the Messiah
+
+29The next day he sawp Jesus coming,
+
+“Look, the Lamb of God that takes away the sin of the world! 30He’s the One I was talking about when I said, ‘After me a man is coming that has become before me because he existed before me.’ 31I didn’t know who he was; but to point him out to Israel, I came immersing in water. 32I’ve seen the Spirit coming down from the sky like a dove and remaining on him. 33The One that sent me to immerse people in water told me, ‘Whoever you see the Spirit coming down and remaining on is the One that will ‘immerse’ them in the Holy Spirit.’ 34I’ve seen that, and I’m telling you, this is God’s Son.”	Jn 1:29-34
+
+The First Disciples of Jesus
+
+35The next day John was standing with a couple disciples. 36When he saw Jesus walk by, he said, “Look, the Lamb of God!” 37His two disciples followed Jesus. 38Jesus turned around and saw them,
+
+“What are you looking for?”
+
+“Rabbi (Teacher), where are you staying?”
+
+39“I’ll show you.”
+
+So they went and stayed with him that day. It was about 4 o’clock.
+
+40Andrew, Simon Peter’s brother, was one of the two that followed Jesus. 41The first thing Andrew did was gop and findp his brother Simon, “We’ve found the Messiah (the Christ).” 42When he brought him to Jesus, Jesus looked at him, “You’re Simon Barjonah; you’ll be called Cephas (Peter).”
+
+43The next day Jesus wanted to leave for Galilee. He foundp Philip, “Come with me.” 44Philip was from Bethsaida, where Andrew and Peter lived. 45Philip foundp Nathanael, “We’ve found the One that Moses and the Prophets wrote about in the Law: Jesus son of Joseph from Nazareth.”
+
+46Nathanael said, “Can anything good come out of Nazareth?”
+
+“I’ll show you.”
+
+47Jesus saw Nathanael coming, “A true Israelite with no deceit in him.”
+
+48Nathanael saidp, “Where do you know me from?”
+
+“Before Philip called you, I saw you under the fig tree.”
+
+49Nathanael answered, “Rabbi, you’re the Son of God, the king of Israel!”
+
+50“You believe because I said I saw you under the fig tree? You’re going to see greater things than that. 51You’ll see the sky opened up and God’s angels ascending and descending on the Son of Man.”	Jn 1:35-51
+
+The First Miracle—at Cana
+
+2:1Three days later there was a wedding at Cana in Galilee. Jesus’ mother was there, 2and he and his disciples were invited. 3When the wine ran out, his mother toldp him they’d run out of wine.
+
+4Jesus saidp, “What is this? It’s not my time yet.”
+
+5His mother toldp the help, “Do whatever he tells you.”
+
+6Six big stone water jars were standing there that the Jews use for purification. They held 20 or 30 gallons apiece. 7Jesus saidp, “Fill the jars with water.” They filled them to the brim. 8“Dip some out and take it to the master of ceremonies.” 9When he tasted it, he didn’t know where it had come from—but the help that drew the water knew. He called the groom, 10“Everybody serves good wine first. When guests have had a lot to drink, they serve wine that’s not as good. You’ve kept the good wine till now.” 11So Cana was where Jesus performed his first sign and demonstrated his glory, and his disciples believed in him.	Jn 2:1-11
+
+Visit to Capernaum
+
+12After that, he went down to Capernaum for a few days with his mother, his brothers, and his disciples.	Jn 2:12
+
+The First Cleansing of the Temple
+
+13The Jews’ Passover was coming, and Jesus went up to Jerusalem. 14In the Temple he found moneychangers sitting and merchants selling oxen, sheep, and doves. 15He made a whip out of cords and drove the sheep and oxen out of the Temple. He poured out the moneychangers’ coins and turned their tables over. 16He told the ones that were selling doves, “Get them out of here! Don’t make my Father’s house a marketplace.” 17His disciples remembered the scripture, “Zeal for your house has consumed me” [Ps 69:9a].
+
+18The Jews said, “What sign do you do to show us you have a right to do this?”
+
+19Jesus answered, “Destroypl this Temple, and I’ll rebuild it in 3 days.”
+
+20“It took 46 years to build; you’re going to rebuild it in 3 days?” 21(He was talking about his body, “the Temple.” 22When he resurrected, his disciples remembered he’d said that and believed it and the scripture.)
+
+23While he was in Jerusalem at the Passover, many believed in him because they saw the signs he did. 24But he didn’t entrust himself to them because he knew everybody. 25He didn’t need anybody to tell him about anyone; he knew what each person was like. 	Jn 2:13-25
+
+Conversation with Nicodemus
+
+3:1Nicodemus, a ruler of the Jews, 2came to Jesus at night, “Rabbi, we know you’re a teacher from God. Nobody can do the signs you do unless God’s with him.”
+
+3Jesus answered, “Unless a person has been born again, he can’t see God’s kingdom.”
+
+4Nicodemus saidp, “How can you be born when you’re an adult? You can’t get into your mother’s womb a second time and be born, can you?”
+
+5Jesus answered,
+
+“Unless you’ve been born of water and spirit, he can’t get into God’s kingdom. 6What’s born out of the physical is physical; what’s born out of the spiritual is spiritual. 7Don’t be surprised that I told yousg youpl have to be born again. 8The wind blows where it wants to. Yousg hear it, but you can’t tell where it’s from or where it’s going. That’s how everybody is that’s born out of the spirit.”
+
+9Nicodemus responded, “What are you talking about?”
+
+10“You’re a teacher in Israel and don’t understand that? 11I’m telling yousg, we’re talking about what we know and have seen, and youpl don’t accept what we’re telling you. 12If youpl don’t believe my earthly illustrations, how will you believe if I tell you heavenly ones? 13Nobody has gone up to heaven except the One that came down from heaven, the Son of Man. 14As Moses held up the brazen viper in the desert, the Son of Man needs to be held up 15so everybody that believes can in him have eternal life.”
+
+16God cared about the world so much he gave his only Son so anybody that trusts in him wouldn’t perish but have eternal life. 17God didn’t send his Son to the world to condemn it, but to save it. 18Whoever trusts in him is not condemned, but whoever doesn’t, stands condemned for not trusting in God’s only Son. 19Here’s the condemnation: light has come into the world, but people like darkness better than light because they do bad things. 20People that do bad things hate light and don’t come to it; they don’t want their deeds condemned. 21But people that do the truth come to the light to show that they’re doing what God wants. 	Jn 3:1-21
+
+Jesus’ Growing Ministry and
+
+John’s Waning Ministry at Aenon
+
+22After that, Jesus and his disciples went to Judaea, and he stayed there baptizing. 23John was baptizing too—at Aenon close to Salem; there was a good supply of water there. 24(Herod hadn’t put John in prison yet.)
+
+25A controversy about purification came up between John’s disciples and a Jew. 26They came to John and said, “Rabbi, the man that was with you on the other side of the Jordan—the one you vouched for—is baptizing, and everybody’s going to him.”
+
+27John answered,
+
+“A person can’t receive anything unless Heaven lets him. 28You heard me say I’m not the Messiah; ‘I’ve been sent ahead of him.’ 29The groom has the bride, but the best man enjoys listening to him talk. I’m perfectly content, then, with this situation. 30He needs to increase; I need to decrease.
+
+31“The One from above is above everything; someone from the earth talks about the earth. 32The One from above talks about what he’s seen and heard, and people tend not to accept what he says. 33Whoever does accept it, is acknowledging that God tells the truth. 34The One that God sent speaks God’s message; he gives the spirit without measure. 35The Father loves the Son and has turned everything over to him. 36Whoever trusts in him has eternal life; whoever doesn’t, won’t see life. God’s displeasure rests on him.”   	Jn 3:22-36
+
+The Ministry in Samaria
+
+4:1When Jesus found out that the Pharisees heard he was making and baptizing more disciples than John 2(though Jesus didn’t perform the baptisms himself; his disciples did them), 3he left Judaea and headed back to Galilee. 4He had to go through Samaria. 5He camep to a town in Samaria called Sychar, near the plot of land Jacob gave his son Joseph. 6Jacob’s well was there. Jesus was sitting on the well wall about noon, tired from the trip.
+
+7A Samaritan woman camep to draw water, and he said to her, “Give me a drink.” 8(His disciples had gone into town to buy food.)
+
+9The woman saidp, “How does a Jewish man ask a Samaritan woman for a drink? Jews don’t have anything to do with Samaritans.”
+
+10Jesus answered, “If you knew God’s gift and who’s asking you for a drink, you’d be asking him to give you living water.”
+
+11“Sir, you don’t even have a bucket, and the well is deep. Where are you going to get ‘living water’? 12You aren’t greater than our ancestor Jacob, are you? He gave us the well and drank from it himself—his sons and herds too.”
+
+13Jesus answered, “Everybody that drinks this water gets thirsty again. 14Whoever drinks the water I give him won’t get thirsty again. It’ll become a well inside him that springs up into eternal life.”
+
+15“Give me that water so I won’t get thirsty and have to come here to draw it!”
+
+16Jesus told herp, “Go get your husband and come back.”
+
+17“I don’t have a husband.”
+
+18“You said it well. You’ve had five husbands; the one you’re living with now isn’t your husband. You told the truth.”
+
+19The woman saidp, “Sir, you must be a prophet. 20Our ancestors worshiped on this mountain. Youpl say people should worship in Jerusalem.”
+
+21Jesus toldp her,
+
+“Believe me, the time’s coming when youpl won’t worship the Father on this mountain or in Jerusalem. 22Youpl don’t know what you’re worshiping. We do, because salvation does come from the Jews. 23But, the time’s coming—it’s here now—when true worshipers will worship the Father in spirit and truth. The Father’s looking for people to worship him like that. 24God’s a spirit. and those who worship him need to worship him in spirit and truth.”
+
+25“I know Messiah’s coming [called Christ]. He’ll explain everything to us.”
+
+26Jesus saidp, “I am the Messiah.”
+
+27At that point his disciples got back and were surprised that he was talking to a woman. But nobody said, “What are you trying to find out?” “Why are you talking to her?” 28She left her water pot and went into town and toldp the men, 29“Come see a fellow that told me everything I ever did. He’s not the Messiah, is he?” 30They left the town and were on the way to him.
+
+31Meanwhile the disciples kept saying, “Rabbi, eat something.”
+
+32But he said, “I have ‘food’ to eat that you don’t know about.”
+
+33They said to one another, “Nobody’s brought him anything to eat, have they?”
+
+34Jesus saidp,
+
+“My ‘food’ is doing the will of the One that sent me and finishing it up. 35Aren’t youpl saying harvest is still four months away? Look; the fields are ready for harvest now. 36Whoever reaps earns wages and gathers grain for eternal life. 37In this respect, the saying holds true, ‘One sows, another reaps.’ 38I’ve sent you to reap what you haven’t worked on. Other people have worked, and you’ve joined in their work.”
+
+39From that town many Samaritans believed in him because the woman said, “He told me everything I ever did.” 40So when the Samaritans got to where he was, they asked him to stay with them; he stayed two days. 41Many more believed because of what he said. 42They told the woman, “We don’t believe just because of what you said. We’ve heard him ourselves and know this really is the One that will save the world.”	Jn 4:1-42
+
+Introductory Statements About the Galilean Ministry
+
+43Two days later, Jesus left for Galilee. 44He observed that a prophet doesn’t get any respect in his hometown.
+
+45Yet when he got to Galilee, the Jews welcomed him because they’d seen what he’d done in Jerusalem; they’d attended the festival themselves.	Jn 4:43-45
+
+Healing the Official’s Son
+
+46Then he went to Cana in Galilee, where he’d turned the water into wine. An official’s son in Capernaum was sick. 47When he heard that Jesus had come from Judaea to Galilee, he went to ask him to come down and heal his son, who was about to die.
+
+48Jesus told him, “Unless youpl see signs, you won’t believe, will you?”
+
+49The official saidp, “Sir, come on down before my little boy dies.”
+
+50Jesus told himp, “Go on, your son’s alive.”
+
+The man took his word for it and went on back.
+
+51As he was going back down to Capernaum, his servants met him and said his child was alive. 52He asked what time he recovered. “Yesterday at 1 o’clock the fever broke.” 53So his dad knew it was when Jesus said, “Your son’s alive.” He and his whole family believed. 54That was a second sign Jesus did in Galilee, which he did after he came back from Judaea.  	Jn 4:46-54
+
+Healing and Controversy at the Pool of Bethesda
+
+5:1After that, Jesus went up to a festival of the Jews in Jerusalem. 2By the Sheep Gate in Jerusalem there’s a pool with five porches, called Bethzatha in Hebrew. 3A crowd of sick, blind, lame, and paralyzed people was lying in those porches. [4]ms 5One fellow had been in his condition for 38 years.
+
+6Jesus saw him and knew he’d been there a long time. “Do you want to get well?”
+
+7The crippled man answered, “Sir, I don’t have anybody to take me into the pool when the water stirs. While I’m making my way down, somebody else gets there ahead of me.”
+
+8Jesus toldp him, “Get up, pick up your bedroll, and walk.”
+
+9Right away the fellow was sound. He picked up his bedroll and started walking. 	Jn 5:1-9a
+
+It was a Sabbath, 10so the Jews started telling him, 11“It’s against the Law to be carrying your bedroll.”
+
+He answered, “The One that made me well told me to pick it up and walk.’”
+
+12“Who told you that?”
+
+13He didn’t know because he hadn’t noticed Jesus leave in the crowd. 14Later, Jesus found him in the Temple, “You’ve been made well. Don’t sin anymore so something worse doesn’t happen to you.”
+
+15The man left and told the Jews it was Jesus that had cured him. 16They started harassing Jesus because he did it on a Sabbath.
+
+17But Jesus answered them, “My Father has been working till now, and so am I.”
+
+18Now the Jews tried to do more to him—to put him to death. Not only had he broken the Sabbath; he said God was his Father. That made him equal to deity. 	Jn 5:9b-18
+
+19Jesus answered them,
+
+“The Son of Man can’t do anything on his own. He does what he sees the Father do. 20The Father loves the Son and shows him what he’s doing; he’ll show him greater deeds than these to amaze you. 21As the Father raises the dead, so the Son makes alive the ones he wants to. 22The Father doesn’t judge anybody; he’s given judgment to the Son 23so everybody will respect the Son like they do the Father. Whoever doesn’t respect the Son doesn’t respect the Father that sent him. 24Whoever listens to what the Son says and believes the One who sent him, has eternal life and doesn’t end up condemned. He’s crossed over from death to life. 25The time’s coming—it’s already here—when the dead will hear the Son and come to life. 26As the Father has life in himself, he’s enabled the Son to have life in himself. 27And he’s given him authority to judge because he’s a human being.
+
+Jn 5:19-27
+
+28“Don’t be surprised that the time’s coming when everybody in the tombs will hear him. 29The ones that did good things will come out to a resurrection that leads to life. The ones that did bad things will come out to a resurrection that leads to condemnation.
+
+30“I can’t do anything on my own. As I hear I judge, and my judgment is just, because I’m not trying to accomplish my own purpose, but the purpose of the One that sent me.
+
+31“If I speak for myself, you might consider suspect what I’m saying. 32There’s somebody else that vouches for me, and I know his testimony about me is true: 33you’ve sent to John, and he’s vouched for the truth. 34I don’t receive people’s claims about me, but I do say this so you can be saved: 35John was a burning, shining lamp, and you were happy for a while in his light. 36But I present greater testimony than John did. The works the Father has given me to accomplish speak for the fact that he sent me. 37The Father that sent me has spoken for me. You haven’t heard him speak or seen him, 38and you don’t believe in the One he sent. 39Search the scriptures, because you suppose you have eternal life in them, and they talk about me. 40You don’t want to come to me to have life.
+
+Jn 5:28-40
+
+41“I don’t accept honor from people; 42I know you don’t love God. 43I’ve come in my Father’s name, and you don’t accept me. If others comes in their own name, youpl accept them. 44How can you believe when you accept honor from one another instead of striving for the honor that only comes from God? 45Don’t suppose I’m going to accuse you to the Father. Moses accuses you, the one you’ve put your faith in. 46If you believed Moses, you’d believe me because he wrote about me. 47If you don’t believe what he wrote, how can you believe what I say?”       	Jn 5:1-47
+
+Retirement with the Apostles;
+
+Feeding the 5,000
+
+6:1After that, Jesus went to the other side of Lake Galilee (Lake Tiberias). 2A big crowd followed him because they saw the signs he was performing on the sick. 3He went up on a hillside and sat down with his disciples. 4The Jews’ Passover Festival was coming up. 5Jesus looked up and saw a huge crowd arriving, and said to Philip, “Where are we going to buy enough bread for these people to eat?” (6He said that to test him because Jesus already knew what he was going to do.)
+
+7Philip answered, “Bread worth 200 denarii won’t be enough for each person to get even a little bit.”
+
+8Andrew, Simon Peter’s brother, saidp, 9“There’s a boy here that has five barley loaves and two fish, but what good is that for this big crowd?”
+
+10Jesus said, “Have them sit down.” There was lots of grass there, so they sat down—about 5,000 men. 11Jesus took the loaves, blessed them, and gave them to the ones that were sitting there—the fish too, as much as people wanted.
+
+12When they were full, he told his disciples, “Pick up the leftover pieces so nothing’s wasted.” 13So they filled twelve baskets with scraps from the five barley loaves that Jesus had multiplied.
+
+14The people that saw the sign said, “This really is the prophet that’s supposed to come.” 15Jesus knew they intended to take him by force to make him king, so he withdrew up the hill alone.	Jn 6:1-15
+
+Jesus Walking on the Water
+
+16When evening came, his disciples went down to the lake, 17got in a boat, and headed over to Capernaum. It was dark now, and Jesus hadn’t come. 18The lake was getting rough because a strong wind was blowing. 19When they’d rowed three or four miles, they saw Jesus walking on the lake, getting close to the boat, and it scared them. 20But he saidp, “It’s me; don’t be afraid.” 21So they came to take him into the boat, and presently the boat landed where they were headed. 	Jn 6:16-21
+
+Jesus’ Refusal to Be a Political Messiah
+
+22The next day the crowd that was standing back on the other side of the lake, saw that no other small boat had been there except the one Jesus hadn’t got into with his disciples; they’d left by themselves. 23Other small boats came from Tiberias to where the people ate the bread the Lord had blessed. 24When the crowd saw that he and his disciples weren’t around, they got in those small boats and went to Capernaum, looking for him.
+
+25When they found him on the other side of the lake, they said, “Rabbi, when did you get here?”
+
+26Jesus answered, “You’re looking for me, not so much because you saw signs, but because you ate bread till you were full. 27Don’t work for bread that molds, but for bread that stays freesh forever. That’s the kind of bread the Son of Man will give you, because he’s the One the Father has marked with a seal.”
+
+28They asked him, “What’ll we do to be working God’s works?”
+
+29Jesus answered, “This is God’s ‘work’: believe in the One he sent.”
+
+30They said, “What sign are you doing so we can see it and believe? What ‘work’ do you do? 31Our ancestors ate manna in the desert like scripture says, ‘He gave them bread from heaven to eat’” [Ps 78:24].
+
+32Jesus said, “Moses didn’t give you bread from heaven. My Father is giving you the real ‘bread from heaven.’ 33God’s ‘bread’ is the One that has come down from heaven to give life to the world.”	Jn 6:22-33
+
+34They said, “Sir, give us that bread all the time!”
+
+35Jesus said,
+
+“I’m the life-giving bread. Whoever comes to me will never get hungry; whoever trusts in me will never get thirsty. 36But, you’ve seen me and not believed. 37Everything the Father gives me will come to me, and whoever comes to me I won’t reject; 38because I haven’t come down from heaven to do my will, but the will of the One that sent me. 39This is his will: that I not lose anything he’s given me, 40that everybody who sees the Son and believes in him may have eternal life, and I raise him up in the end.”
+
+41The Jews started grumbling because he said, “I’m the bread that’s come down from heaven.” 42They were saying, “Isn’t this Jesus, Joseph’s son? We know his parents. How can he be saying now that he has come down from heaven?” 	Jn 6:34-42
+
+43Jesus answered,
+
+“Don’t grumble around with one another. 44Nobody can come to me unless the Father that sent me is drawing him. 45The prophets wrote, ‘God will teach them all’ [Is 54:13]. Everybody that listens to the Father and learns, comes to me—46not that anybody has seen him except the One that’s come from him; he’s seen him. 47Whoever believes has eternal life. 48I’m the life-giving ‘bread.’ 49Your ancestors ate manna in the desert and died. 50Nobody that eats this ‘bread’ from heaven will die. 51I’m the life-giving ‘bread’ that comes from heaven. Everybody that eats this ‘bread’ will live forever. Yes, and the ‘bread’ I’ll give for the life of the world is my own flesh.”	Jn 6:43-51
+
+52The Jews started quarreling with one another, “How can he give us his flesh to eat?”
+
+53Jesus said,
+
+“Unless you ‘eat’ the flesh of the Son of Man and ‘drink’ his blood, you don’t have any life in you. 54People that ‘eat’ my flesh and ‘drink’ my blood have eternal life, and I’ll raise them up in the end. 55My flesh is real ‘food,’ and my blood is real ‘drink.’ 56People that ‘eat’ my flesh and ‘drink’ my blood remain in me and I in them. 57As the living Father has sent me and I live because of him, whoever ‘eats’ me will live because of me. 58This is the ‘bread’ from heaven; it’s not like what the ancestors ate and died. Whoever ‘eats’ this bread will live forever.”
+
+59He said that as he was teaching in the synagogue in Capernaum. 60When they heard it, many disciples said, “That’s hard to understand. Who can make sense of it?”  	Jn 6:52-60
+
+61Jesus knew his disciples were grumbling about it,
+
+“Does that shock you? 62What if you see the Son of Man ascending to where he was before? 63The spirit of what I’ve said is the point, not the literal words. What I’ve said I mean figuratively. 64But some of you don’t believe. (Jesus knew from the start who wouldn’t believe and who’d betray him.) 65That’s why I told you that people can’t come to me unless the Father lets them.”
+
+66At that point, many disciples quit traveling with him. 67Jesus said to the Twelve, “You don’t want to go too, do you?”
+
+68Simon Peter answered, “Lord, who would we go to? You have the life-giving message. 69We believe and have come to know that you’re God’s Holy One.”
+
+70Jesus answered, “Didn’t I choose you twelve, and one of you is a devil?” (71He was referring to Judas, Simon Iscariot’s son, the one that would betray him.)  	Jn 6:61-71
+
+Attack of the Jerusalem Pharisees
+
+About Traditions
+
+7:1After that, Jesus was traveling around in Galilee. He didn’t want to travel around in Judaea because the Jews were trying to kill him. 	Jn 7:1
+
+Jesus and His Unbelieving Brothers
+
+2The Jews’ Festival of Unleavened Bread was coming up. 3Jesus’ brothers told him, “Go to Judaea so your disciples can see what you’re doing. 4Nobody does something privately when he’s trying to get known publicly. If you’re doing these things, show yourself to the world.” (5Even his brothers didn’t believe in him.)
+
+6Jesus toldp them, “It’s not time for me to go yet. You can go anytime. 7The world can’t hate you; it hates me because I speak to the fact that it does sinful things. 8You go on up; it’s not time for me to go up to this festival yet.”
+
+9He stayed in Galilee. 	Jn 7:2-9
+
+Jesus at the Feast of Tabernacles
+
+10Then Jesus went up secretly. 11The Jews were looking for him at the festival, “Where is he?” 12A lot of murmuring was going on in the crowds. Some were saying, “He’s a good man.” Others said, “No, he’s misleading the crowd.” 13But, people wouldn’t talk openly about him because they were afraid of the Jews.
+
+14In the middle of the festival, Jesus did go up to the Temple and start teaching. 15The Jews were amazed, “How does he know letters without going to school?”
+
+16Jesus answered,
+
+“My teaching’s not mine; it’s the teaching of the One that sent me. 17If anybody wants to do his will, he’ll know if my teaching is from God or if I’m speaking on my own. 18Somebody that speaks on his own is looking for his own honor. Somebody that’s looking for the honor of the One that sent him is genuine; there’s nothing dishonest about him. 19Didn’t Moses give you the Law? But none of you keep it. Why are you trying to kill me?” 	Jn 7:10-19
+
+20The crowd answered, “You’ve got a demon. Who’s trying to kill you?”
+
+21Jesus responded,
+
+“I did one thing, and it amazed you all. 22Moses gave you circumcision—not that it originated with him but with the ancestors—and you circumcise a man on a Sabbath. 23If you circumcise a man on a Sabbath to avoid breaking the Law, are you mad at me because I made a whole man well on a Sabbath? 24Don’t make superficial judgments; base your judgments on what’s real.”
+
+25Some that lived in Jerusalem were saying, “Isn’t this the One they’re trying to put to death? 26And look, he’s speaking openly, and they’re not saying anything to him. Do the rulers know maybe that he is the Messiah?”
+
+27“But we know where this man’s from. Nobody knows where the Messiah’s from.”
+
+28Then, as he was teaching, he shouted, “You know me, and you know where I’m from! I haven’t come on my own; the One that’s true sent me. You don’t know him; 29but I do, because he sent me.” 	Jn 7:20-29
+
+30They were trying to arrest him, but nobody laid a hand on him because it wasn’t time yet. 31Many in the crowd believed in him, “When the Messiah comes, he won’t do more signs than this man’s done, will he?”
+
+32The Pharisees heard the crowd murmuring those things, and the chief priests and Pharisees sent officers to arrest him. 33Jesus said, “I’ll be with you for a little while yet; then I’ll go back to the One that sent me. 34You’ll look for me, but you won’t find me. You can’t go where I’m going.”
+
+35The Jews said to each other, “Where’s he going that we won’t find him? He’s not going to the Diaspora among the Greeks to teach the Greeks, is he? 36What does he mean, ‘You’ll look for me and won’t find me,’ and, ‘You can’t go where I’m going’?” 	Jn 7:30-36
+
+37On the last day of the festival, the main day, Jesus stood and shouted, “If anybody’s thirsty, come to me and drink. 38Everyone that believes in me, like the scripture has said, will have streams of living water flowing from within him.” 39(He said that about the Spirit the ones who believed in him would receive. The Spirit hadn’t come yet because Jesus hadn’t been glorified.)
+
+40Some in the crowd said, “This really is ‘the prophet’”; some said, “He’s ‘the Messiah.’” 41Others said, “The Messiah’s not supposed to come from Galilee, is he? 42Doesn’t scripture say he descends from David and comes from Bethlehem, where David lived?” 43So a difference of opinion about him arose in the crowd. 44Some wanted to arrest him, but nobody laid a hand on him.
+
+45The officers came back to the chief priests and Pharisees, “Why didn’t you bring him?”
+
+46The officers answered, “Nobody’s ever spoken like that.”
+
+47The Pharisees answered them, “You haven’t been deceived too, have you? 48None of the rulers or the Pharisees have believed in him, have they? 49This crowd that doesn’t know the Law is accursed.”
+
+50Nicodemus saidp to them—the one who came to him at first, 51“It’s not legal, is it, to convict someone without a hearing?”
+
+52They answered him, “You’re not from Galilee, too, are you? Search the Scriptures and see that no prophet is supposed to arise from Galilee.” [[53Each one went home.]]ms   	 Jn 7:37-53
+
+Woman Caught in Adultery
+
+[[8:1Jesus went to the Mount of Olives. 2Early in the morning he went back to the Temple. The people came, and he sat down and started teaching them. 3The scribes and Pharisees broughtp a woman they’d caught in adultery and stood her in front of everybody, 4“Rabbi, we caught this woman in adultery—in the very act. 5In the Law Moses commanded us to stone a woman like this. What do you say?” 6(They were trying to trap him so they could accuse him.)
+
+Jesus squatted down and scribbled on the ground with his finger. 7When they kept badgering him, he stood up, “The one of you that doesn’t have any sin, throw the first stone at her.” 8He squatted down again and scribbled on the ground. 9They began to go away one by one, starting with the oldest, and left him alone with the woman standing there.
+
+10Jesus stood up, “Where are they? Hasn’t anybody condemned you?”
+
+11“No, Sir.”
+
+“I’m not condemning you either. Go and don’t sin anymore.”]]ms 	 Jn 8:1-11
+
+Sermon on the Light of the World
+
+12Jesus started talking to the audience again. “I’m the light of the world. You that follow me won’t be living in the dark; you’ll have the light to live by.”
+
+13The Pharisees said, “You’re testifying for yourself; your testimony’s not valid.”
+
+14Jesus answered,
+
+“Although I’m testifying for myself, my testimony is valid because I know where I’m from and where I’m going. You don’t. 15You condemn people by legal standards; I don’t condemn anybody that way. 16If I do render judgment, my judgment’s valid because I’m not the only witness. There’s me and the Father that sent me. 17Yourpl Law says the testimony of two is valid. 18I testify for myself, and the Father testifies for me.”
+
+19“Where is your Father?”
+
+Jesus answered, “You don’t know me or him. If you knew me, you’d know him.” 20He said that in the Temple Treasury, and nobody arrested him; it wasn’t time yet.
+
+21He told them again, “I’m going away. You’llpl look for me and die in your sinsg. You can’t go where I’m going.” 	Jn 8:12-21
+
+22The Jews said, “He’s not going to kill himself, is he?—because he said, “You can’t go where I’m going.”
+
+23He said, “You’re from below; I’m from above. You’re from this world; I’m not. 24I said you’d die in your sins because if you don’t believe who I am, you will die in your sins.”
+
+25“Who are you?”
+
+“Exactly what I’ve been telling you all along. 26I have a lot to say about you and judgments to make, but the One that sent me is the real basis for it. What I’ve heard from him is what I’m telling the world.” 27(They didn’t know he was talking about the Father; 28so he said,)
+
+“When you lift up the Son of Man, you’ll know who I am and that I’m not saying anything but what I got from the Father. 29The One that sent me is with me. He hasn’t left me alone, because I always do what pleases him.” 30While he was saying that, many believed in him.
+
+31Then he told the Jews that believed him, “If you keep following what I say, you really are my disciples. 32You’ll know the truth, and the truth will set you free.” 	Jn 8:22-32
+
+33“We’re Abraham’s descendants. We’ve never been servants to anybody. What do you mean, ‘You’ll be free’?”
+
+34“Everybody that sins is a servant to sin. 35A servant is not a part of the family. A son is. 36So if a son sets you free, you really are free. 37I know you’re Abraham’s descendants, but you’re trying to kill me because you don’t want to hear what I’m saying. 38I’m telling you what I’ve seen my Father do, and you’re doing what you’ve seen your father do.”
+
+39“Abraham’s our father.”
+
+“If you were Abraham’s children, you’d be acting like Abraham. 40But you’re trying to kill me now, a man that’s told you the truth I heard from God. Abraham didn’t act like that. 41You’re doing what your father does.”
+
+“We’re not illegitimate children; we have one Father—God.”
+
+42“If God were your Father, you’d love me because I’ve came from him. I haven’t come on my own; he sent me. 43Why don’t you understand what I’m saying? Can’t you hear? 44You belong to your father the devil, and you want to do what he wants you to do. He was a murderer from the beginning and doesn’t stand for the truth. There’s no truth in him. When he tells a lie, he’s doing his own thing because he’s a liar and invented lying. 45Because I’m telling the truth, you don’t believe me. 46Which of you can convict me of wrongdoing? If I’m telling the truth, why don’t you believe me? 47Whoever belongs to God listens to God. Here’s the reason you don’t listen: you don’t belong to him.”
+
+48“Wouldn’t we be right to say you’re a Samaritan with a demon?” 	Jn 8:33-48
+
+49Jesus answered, “I don’t have a demon, but I do respect my Father, and you disrespect me. 50I’m not trying to honor myself. There is One who seeks and condemns. 51Truth is, if anybody keeps what I say, he’ll never die.”
+
+52The Jews said, “Now we know you’ve got a demon. Abraham died and the prophets died, but you’re saying, ‘If anybody keeps what I say, he’ll never die.’ 53You aren’t greater, are you, than our ancestor Abraham that died and the prophets that died? Who do you think you are anyway?”
+
+54“If I honor myself, it’s not important. My Father honors me—who you say is your God. 55You don’t even know him, but I do. If I said I didn’t, I’d be lying like youpl. But I know him and keep his word. 56Your ancestor Abraham was overjoyed at the thought of seeing my day; he saw it and was happy.”
+
+57“You’re not even 50 years old, and you’ve seen Abraham?”
+
+58“Truth is, I existed before Abraham.”
+
+59They picked up stones to throw at him, but he was hidden and left the Temple.	Jn 8:49-59
+
+Healing the Man Born Blind
+
+9:1As he was walking along, he saw a man that had been blind from birth. 2His disciples asked him, “Rabbi, who sinned, him or his parents, that caused him to be born blind?”
+
+3“Neither he nor his parents sinned to cause his blindness. That has happened so I could demonstrate God’s work in him. 4We need to work for the One that sent me while it’s daylight. Night’s coming when nobody can work. 5While I’m in the world, I’m the light of it.”
+
+6When he’d said that, he spit on the ground and made some mud and smeared it on the blind man’s eyelids, 7“Go wash it off in the Pool of Siloam (‘Sent’).”
+
+He went and washed it off and came back able to see. 8Neighbors and people that had seen him begging said, “Isn’t that the fellow that sits and begs?”
+
+9“It is him.”
+
+“No, he just looks like him.”
+
+“It is me.”
+
+10“How did you get your sight?”
+
+11“The man they call Jesus made mud and smeared it on my eyelids and told me to go to Siloam and wash it off. So I did, and I could see.”
+
+12“Where is he?”
+
+“I don’t know.”	 Jn 9:1-12
+
+13They tookp him to the Pharisees. 14It was a Sabbath day when Jesus made the mud and gave him sight. 15The Pharisees, too, asked him how he’d received his sight. He told them, “He put mud on my eyelids. I washed it off and I can see.”
+
+16Some Pharisees said, “That man’s not from God; he doesn’t keep Sabbath.”
+
+Others said, “How could a man that’s a sinner do such a thing?” So they were divided over it.
+
+17They saidp to the blind man again, “You’re the one he made see. What do you think about him?”
+
+“He’s a prophet.”
+
+18The Jews doubted that he’d been blind till they called his parents, 19“Is this your son that you claim was blind? How can he see now?”
+
+20“He’s our son, and he was born blind. 21We don’t know how he can see now or who gave him his sight. Ask him; he’s legal age; he can speak for himself.” 22(They said that because they were afraid. The Jews had already agreed to excommunicate from the synagogue anybody who agreed that Jesus was the Messiah. [23]repeat)
+
+24They called the man a second time, “Give God the credit; we know that man’s a sinner.”
+
+25He responded, “I don’t know if he’s a sinner. I do know one thing: I was blind; now I can see.”	 Jn 9:13-25
+
+26They said, “What did he do to you? How did he make you able to see?”
+
+27“I already told you and you didn’t listen. Why do you want to hear it again? You don’t want to become his disciples too, do you?”
+
+28“You’re his disciple; we’re Moses’ disciples. 29We know God spoke to Moses, but we don’t know where this man’s from.”
+
+30“It’s amazing that you don’t know where he’s from: he gave me my sight. 31We know God doesn’t listen to sinners, but if anybody is devout and does his will, he listens to him. 32From eternity past nobody ever heard of someone giving sight to a man born blind. 33If he weren’t from God, he couldn’t have done anything.”
+
+34“You were totally born in sins, and you’re trying to teach us?” They excommunicated him.	Jn 9:26-34
+
+35Jesus heard they’d excommunicated him. When he found him, he said, “Do you believe in the Son of Man?”
+
+36“Who is he so I can believe in him?”
+
+37“You’ve seen him; he’s the One talking to you.”
+
+38“I believe, Lord,” and knelt down to him.
+
+39Jesus said, “I came to the world to render judgment so the ones that can’t see can see, and the ones that can see can go blind.”
+
+40The Pharisees that were with him heard it, “We aren’t blind too, are we?”
+
+41“If you were blind, you wouldn’t be guilty. But you say, ‘We can see.’ You’re still guilty.” 	Jn 9:35-41
+
+Sermon on the Good Shepherd
+
+10:1“Whoever doesn’t go through the gate into the sheep pen but climbs up somewhere else, is a thief. 2A shepherd comes through the gate. 3The gatekeeper lets him in, and the sheep recognize his voice. He calls them by name and leads them out. 4When he gets them out, he goes in front of them, and they follow him because they know his voice. 5They won’t follow a stranger. They’ll run away because they don’t recognize his voice.”
+
+6They didn’t understand what Jesus meant by the illustration.
+
+7Again, Jesus said,
+
+“I’m the gate for the sheep. 8The ones that came before me were thieves and insurrectionists, but the sheep didn’t listen to them. 9If anybody comes in through me, he’ll be safe and can go in and out and find pasture. 10A thief comes to steal, slaughter, and destroy. I’ve come so they can live and live more abundantly. 11I’m a good shepherd; a good shepherd risks his life for his sheep. 12A hired hand sees a wolf coming and runs away because the sheep don’t belong to him. A wolf snatches them and scatters them. 13A hired hand doesn’t care about them. 14I’m a good shepherd; I know my sheep, and they know me. 15I know the Father like the Father knows me, and I risk my life for my sheep.
+
+16“And, I have other sheep that aren’t part of this fold. I need to lead them too. They’ll hear my voice and become one flock under one shepherd. 17The Father loves me because I lay down my life to take it back again. 18Nobody’s taking it away from me. I’m laying it down voluntarily. I have the authority to lay it down and the authority to pick it up again. That’s what my Father told me to do.”
+
+19Again a division arose among the Jews over what he said. 20A number of them said, “He’s got a demon; he’s crazy. Why are you listening to him?”
+
+21Others said, “A demon-possessed man doesn’t talk like that. A demon can’t make blind people see, can it?”	Jn 10:1-21
+
+Jesus at the Feast of Dedication
+
+22The Festival of Dedication [Hanukkah] took place in Jerusalem during the winter, 23and Jesus was walking in the Temple in Solomon’s Colonnade. 24The Jews surrounded him and said, “How long are you going to keep us in suspense? Are you the Messiah? Tell us plainly.”
+
+25Jesus answered, “I’ve told you, and you don’t believe me. The things I do in my Father’s name speak for me. 26But you don’t believe me because you’re not my sheep. 27My sheep listen to my voice, and I know them. They follow me, 28and I give them eternal life. Nobody is going to snatch them from me. 29My Father, who gave them to me, is stronger than anyone. Nobody is going to snatch them from him. 30The Father and I are at one.”
+
+31Again the Jews picked up stones to stone him. 32Jesus replied to them, “I’ve shown you many good deeds from the Father. Which of them are you ready to stone me for?”
+
+33“We’re not ready to stone you for doing something good, but for blasphemy. You’re a mere mortal, and you’re trying to make yourself deity.”
+
+34Jesus responded, “Doesn’t your Law say, ‘I said, you are gods’? [Ps 82:6] 35If he called them ‘gods’ that the word of God came to—and scripture can’t be broken—36how can you say that the One the Father sanctified and sent into the world is blaspheming because I said I’m God’s Son? 37If I’m not doing what my Father does, don’t believe me. 38If that’s what I am doing, even if you don’t believe me, believe what I do, so you can know that the Father’s in me and I’m in him.” 39They tried to grab him again , but he got away.	Jn 10:22-39
+
+Retirement from Jerusalem to Perea
+
+40He went away again to the other side of the Jordan River—where John was baptizing at first—and stayed there. 41Many people came to him. They said, “John didn’t do any sign, but everything he said about this man is true.” 42Lots of people believed in him there. 	Jn 10:40-42
+
+Raising Lazarus
+
+11:1There was a man sick, Lazarus of Bethany, the village where Mary and her sister Martha lived. 2That was the Mary who anointed the Lord with perfume and wiped his feet with her hair. Lazarus was her brother. 3His sisters sent to Jesus, “Lord, the one you love is sick.”
+
+4When he heard it, he said, “He’s not going to die from this sickness; it’s for God’s praise so it can praise God’s Son.”
+
+5Now Jesus loved Martha, her sister, and Lazarus. 6So when he heard Lazarus was sick, he stayed where he was for two days, 7then saidp to the disciples, “Let’s go back to Judaea.”
+
+8They saidp, “Rabbi, the Jews were trying to stone you just the other day, and you’re going back there?”
+
+9Jesus answered, “Aren’t there twelve hours of daylight? If you walk in the daylight, you won’t stumble, because you have light. 10If you try to walk in the dark, you stumble because you doesn’t have light coming out of yourself.” 	Jn 11:1-10
+
+11After he said that, he told them, “Our friend Lazarus is sleeping; I’m going to wake him up.”
+
+12His disciples said, “Lord, if he’s sleeping, he’ll get better.”
+
+13Jesus was talking about death, but they thought he was talking about rest. 14Then he told them plainly, “Lazarus has died. 15For your sake I’m glad I wasn’t there, so you can believe. Let’s go to him.”
+
+16Thomas, called Didymus, said, “Let’s go, too, so we can die with him.”
+
+17When Jesus got there, he found that Lazarus had already been in the tomb four days. 18Bethany was about a mile and three-quarters from Jerusalem, 19and many Jews had come to console Martha and Mary about their brother. 20When Martha heard Jesus was coming, she went to meet him, but Mary stayed in the house. 21Martha said, “Lord, if you’d been here, my brother wouldn’t have died. 22But I know even now that whatever you ask God for, he’ll give you.”
+
+23“Your brother will rise again.”
+
+24Martha saidp, “I know he’ll rise again in the end.”
+
+25Jesus said, “I’m resurrection and life. Whoever believes in me will live even though he dies. 26Everybody that lives and believes in me will never die. Do you believe that?”
+
+27“Yes, Lord; I’ve believed you’re the Messiah, God’s Son, who comes to the world.”
+
+28When she’d said that, she went and called Mary privately, “The Rabbi’s here; he’s asking for you.”	 Jn 11:11-28
+
+29She got up quickly and went to him. 30He hadn’t come into the village yet; he was still where Martha met him. 31When the Jews in the house saw her get up quickly and leave, they followed her. They supposed she was going to the tomb to mourn. 32Mary came to where Jesus was and fell down to him, “Lord, if you’d been here, my brother wouldn’t have died.”
+
+33When Jesus saw her crying and the Jews crying that had come with her, he was deeply moved, 34“Where have youpl laid him?”
+
+They saidp, “We’ll show you.”
+
+35Jesus began to cry.
+
+36The Jews said, “See how much he loved him.”
+
+37Some said, “Couldn’t this man that gave sight to the blind man have kept this man from dying?” 	Jn 11:29-37
+
+38When Jesus got to the tomb, he was deeply moved. It was a cave with a stone lying against it. 39He saidp, “Take the stone away.”
+
+Martha saidp, “Lord, by now he smells; he’s been dead four days.”
+
+40Jesus saidp to her, “Didn’t I tell you that if you believe, you’d see how great God is?”
+
+They took the stone away. 41He looked up and said, “Father, thank you for listening to me. 42I know you always do, but I’ve said it for the crowd standing here so they would believe you’ve sent me.” 43Then he shouted, “Lazarus, come out!” 44The dead man came out wrapped hand to foot with strips of cloth; his face was wrapped in a facecloth.
+
+Jesus saidp, “Unwrap him and set him free.”	Jn 11:38-44
+
+Plots to Kill Jesus
+
+45Many Jews that came to Mary believed in Jesus when they saw what he did; 46but some of them went and told the Pharisees what he’d done. 47So the high priests and the Pharisees called the Sanhedrin into session. “What are we going to do? This man is doing lots of signs. 48If we let him keep doing this, everybody’s going to believe in him, and the Romans will come and take away our place and nation.”
+
+49Caiaphas, high priest that year, said, “There’s something you don’t understand: 50It’s to your advantage that one man die for the people so the whole nation doesn’t perish.” 51He didn’t say this on his own; but as high priest that year, he prophesied that Jesus would die for the nation, 52and not just for the nation, but that he’d gather into one body the children of God scattered abroad. 53From then on, they conspired to put him to death. 54So Jesus quit moving around openly among the Jews and went away to the territory close to the desert—to a town called Ephraim and stayed there with his disciples. 	Jn 11:45-54
+
+Jesus’ Arrival in Bethany;
+
+The Anointing by Mary
+
+55Now the Jews’ Passover was coming up, and people from around Ephraim went up to Jerusalem ahead of time to purify themselves ceremonially. 56People were looking for Jesus and saying to one another in the Temple, “What do you think? Surely he won’t come to the festival.” 57The chief priests and the Pharisees had passed laws that anybody that knew where he was should report it so they could arrest him.	 Jn 11:55-57
+
+12:1Six days before Passover, Jesus arrived at Bethany, where Lazarus lived that Jesus had raised from the dead. 2They made him a meal there. Martha was waiting on him and Lazarus was reclining at table with him. 3Mary took twelve ounces of ointment—very expensive pure nard—and poured it on Jesus’ feet and started wiping them with her hair. The scent from the ointment filled the house.
+
+4Judas Iscariot, Jesus’ disciple that would betray him, saidp, 5“Why didn’t she sell that ointment for 300 denarii [up to a year’s wages] and give it to the poor?” (6He didn’t say that because he cared about the poor, but because he was a thief. He took care of the money pouch and had been stealing from it.)
+
+7Jesus said, “Let her keep it for my burial. 8You always have poor people around; you won’t always havep me around.”
+
+9A large crowd of the Jews found out that Jesus was there. They hadn’t come just because of him, but to see Lazarus. 10The chief priests planned to kill Lazarus, too, because lots of Jews were 11believing in Jesus because of him.	Jn 12:1-11
+
+The Triumphal Entry
+
+12The next day the huge crowd that attended the festival heard Jesus was coming into Jerusalem, 13and took fronds from the palm trees and went out to meet him, shouting,
+
+“‘Hosanna!
+
+Blessed be the One that’s coming in the name of the LORD,’
+
+the King of Israel!” [Ps 118:25-26].
+
+14Jesus found a young donkey and rode on it, like scripture says,
+
+15“Don’t be afraid, people of Zion.
+
+Look! Your king’s coming,
+
+riding on a donkey’s colt” [Zech 9:9].
+
+(16His disciples didn’t understand what was going on; but when he was glorified, they remembered that the scripture had said these things about him and that people had done these things to him.) 17The crowd that was with him when he called Lazarus out of the tomb, was telling about it. 18That’s also the reason that the crowd met him: they heard he’d done that sign. 19The Pharisees said to each other, “See how you don’t get anywhere. The world has gone after him!”	 Jn 12:12-19
+
+Sermon on the Significance of Life and Death
+
+20Some Greeks that went up to worship at the festival 21came to Philip, who was from Bethsaida in Galilee, “Sir, we’d like to see Jesus.”
+
+22Philip wentp and spokep to Andrew, and the two of them spokep to Jesus.
+
+23Jesus answeredp them, “It’s time to honor the Son of Man. 24Unless a grain of wheat falls on the ground and dies, it’s alone. But if it dies, it yields lots of grains. 25Those who love their life will lose it; those who look on past their life in the world will keep it for eternal life. 26If people serve me, they need to follow me, and they’ll be where I am. If they serve me, the Father will honor them.
+
+27“I’m torn now: Will I ask the Father to save me from this hour? But this is why I came to this hour. 28Father, glorify your name.” 	Jn 12:20-28a
+
+A voice came out of the sky, “I’ve glorified it, and I’ll glorify it again.”
+
+29The crowd standing there heard it and said it had thundered.
+
+Others said, “An angel spoke to him.”
+
+30Jesus responded, “That voice didn’t come for my sake so much as for yours. 31Now judgment is in the world; the ruler of this world will be thrown out. 32And if I’m lifted up from the ground, I’ll draw everyone to me.” 33(He said that to indicate how he’d die.)
+
+34The crowd responded, “We’ve heard out of the Law that Messiah will remainp forever. How do you say the Son of Man has to be lifted up? Who is this ‘Son of Man’?”
+
+35Jesus said, “The light’s still among you for a little while. Walk while you have it so darkness doesn’t overtake you. People that walk in the dark can’t tell where they’re going. 36While you have light, believe in it so it will enlighten you.” After saying that, Jesus went away and was hidden from them. 	Jn 12:28b-36
+
+37Despite doing so many signs in their presence, they weren’t believing in him—38just like Isaiah the prophet said,
+
+“LORD, who has believed our report, and
+
+who has the arm of the LORD been revealed to?” [Is 53:1]
+
+39Here’s the reason they couldn’t believe: Isaiah said again,
+
+40“He blinded their eyes
+
+and hardened their heart,
+
+so they couldn’t see with their eyes,
+
+understand with their heart,
+
+be converted,
+
+and he would heal them” [Is 6:10].
+
+41Isaiah said that because he saw the Messiah’s glory and spoke about him. 42Nevertheless a number even of the rulers did believe in him, but because of the Pharisees they didn’t admit it and get excommunicated from the synagogue. 43They cared more about honor from people than glory from God.
+
+44Jesus shouted, “Whoever believes in me doesn’t just believe in me, but in the One that sent me. 45Whoever sees me sees the One that sent me. 46I’ve come to the world as a light so nobody that believes in me will be in the dark. 47I don’t condemn anybody that hears what I’m saying and doesn’t do it. I didn’t come to condemn the world, but to save it. 48People that reject me do have something that will condemn them in the end: the message I’m delivering. 49I haven’t spoken on my own. The Father has told me what to say. 50I know that what he says leads to eternal life; so I say what he’s told me to say.”	 Jn 12:37-50
+
+Jesus Washes the Disciples’ Feet
+
+13:1Before the Passover Festival, Jesus knew the time had come for him to go to the Father. He loved his own that were in the world and loved them to the end. 2During the supper, the devil had already prompted Judas, Simon Iscariot’s son, to betray him. 3Jesus knew the Father had turned everything over to him. 4He gotp up from supper, laidp his outer clothes aside, and took a towel and hung it over his shoulder. 5He putp some water in a basin and started washing his disciples’ feet and drying them with the towel.
+
+6When he camep to Simon Peter, Peter saidp, “Lord, you’re going to wash my feet?”
+
+7Jesus answered, “You don’t understand right now what I’m doing, but you will in a little bit.”
+
+8Peter saidp, “Don’t you ever wash my feet!”
+
+“If I don’t wash you, you don’t have anything to do with me.”
+
+9Simon Peter saidp, “Lord, don’t wash just my feet, but my hands and head too.”
+
+10Jesus saidp, “Someone that’s taken a bath doesn’t need to wash anything but his feet. He’s clean everywhere else. You’repl clean, but not all of you.” 11(He knew who would betray him; that’s why he said, “Youpl are not all clean.”)	Jn 13:1-11
+
+12When he’d washed their feet and put his outer clothes back on, he sat down again,
+
+“Do you understand what I’ve done? 13You call me ‘Rabbi’ and ‘Lord,’ and rightly so. 14If I—‘Lord’ and ‘Rabbi’—washed your feet, then you should wash each other’s feet. 15I’ve given you an example to do like I’ve done to you. 16A servant has it no better than his master; a messenger has it no better than the one that sent him. 17If you understand that, you’re blessed if you act that way. 18I’m not talking about all of you. I know who I’ve chosen, but like the scripture says:
+
+‘The one that eats my food
+
+has lifted up his heel against me’ [Ps 41:9].
+
+19From now on, I’ll tell you before things happen so when they do, you’ll believe who I am. 20Whoever receives somebody I send, receives me, and whoever receives me receives the One that sent me.”	Jn 13:12-20
+
+Judas Identified as Traitor
+
+21After he said that, he began to feel deeply distressed, “One of you is going to betray me.”
+
+22The disciples looked at one another at a loss who he meant. 23One disciple was reclining at table in front of Jesus—one that Jesus loved. 24Simon Peter motioned to him to find out who Jesus meant. 25So he leaned back on Jesus and saidp, “Lord, who is it?”
+
+26Jesus answeredp, “The one I dip the piece of bread and give it to.” He dipped it and handedp it to Judas. 27After the piece of bread, Satan entered Judas. Jesus saidp, “Do what you’re goingp to do.” 28Nobody at the table knew why he spoke to him. 29Since Judas had the money pouch, some supposed Jesus meant to go buy something we needed for the festival or to give something to the poor. 30He took the piece of bread and went out immediately. It was dark.
+
+Jn 13:21-30
+
+The Disciples Warned
+
+31When Judas had gone out, Jesus saidp, “Now God will glorify the Son of Man, and the Son of Man will glorify him, 32and God will glorify him soon. 33Little children, I’ll be with you a little while yet. You’ll look for me and, like I told the Jews, ‘You can’t go where I’m going’; now I’m telling you. 34I’m commanding you something new: love one another like I’ve loved you. 35If you love one another, people can tell you’re my disciples.”
+
+36Simon Peter saidp, “Where are you going, Lord?”
+
+“Where I’m going youpl can’t go now; you’ll go later.”
+
+37Peter saidp, “Why can’t I follow you now? I’ll lay down my life for you.”
+
+38Jesus answered, “Will you? Truth is, before a rooster crows, you’re going to deny three times that you know me.”	Jn 13:31-38
+
+Jesus’ Farewell Discourse
+
+14:1“Don’t worry. You believe in God; believe in me too. 2There are many rooms in my Father’s house. If that weren’t so, I would’ve told you, because I’m going to get a place ready for you. 3When I’ve done that, I’ll come backp to get you so you can be with me. 4You know how to get to where I’m going.”
+
+5Thomas saidp, “We don’t know where you’re going. How can we know how to get there?”
+
+6“I’m the way, truth, and life. No one gets to the Father except through me. 7If you’ve come to know me, you’ll know my Father too. From now on you know him and have seen him.”
+
+8Philip saidh[, “Lord, show us the Father; that’ll be enough.”
+
+9“Have I been with youpl all this time, Philip, and yousg haven’t seen me? Whoever has seen me has seen the Father. How can yousg say, ‘Show us the Father’? 10Don’t yousg believe I’m in the Father and the Father’s in me? What I say I’m not saying on my own, but the Father that’s in me is working through me. 11Believepl that I’m in the Father and the Father’s in me. If not, believepl because of the things I do. 12Whoever believes in me will do what I do and more because I’m going to the Father. 13I’ll do whatever you ask in my name so I can praise the Father. 14I repeat, if you ask anything in my name, I’ll do it. 	Jn 14:1-14
+
+15“If you love me, you’ll do what I tell you. 16I’ll ask the Father to give you another Helper to be with you permanently. 17He’s the truth-revealing Spirit that the world can’t receive because they don’t see him or know him. But you know him because he stays with you and will be in you. 18I won’t leave you as orphans; I’ll come to you. 19In a little while, the world won’t see me, but you’ll see me. You’ll be living because I’ll be living. 20Then you’ll know I’m in the Father and you’re in me and I’m in you. 21The ones that love me are the ones that have my commands and keep them. My Father will love the ones that love me, and I’ll love them and show myself to them.”	Jn 14:15-21
+
+22Judas (not Iscariot) saidp, “Lord, what’s happened that you’re going to show yourself to us, but not to the world?”
+
+23Jesus answered, “If people love me, they’ll follow what I say, and my Father will love them. We’ll come and make our home in them. 24People that don’t love me, don’t follow what I say. The message you hear is not mine, but the Father’s.
+
+25“I’ve said this while I’m with you. 26The Helper—the Holy Spirit the Father will send in my name—will teach you everything and remind you of what I’ve told you. 27I’m leaving my peace with you, not the kind the world gives. Don’t worry or be afraid. 28You heard me say I’m going away, but I’ll come back to you. If you loved me, you’d be happy that I’m going to the Father because the Father is greater than I am.
+
+29“I’ve told you now before it happens so when it does, you’ll believe. 30Lots of things I’m not going to tell you now because the ruler of this world is on his way, and he doesn’t have anything to do with me. 31But I’m doing what the Father told me to do so the world can know I love him.
+
+“Let’s go.” 	Jn 14:22-31
+
+The Parable About a Vine
+
+15:1“I’m the true vine; my Father is the vinedresser. 2He cuts off every branch in me that doesn’t bear fruit. He prunes every branch that does bear fruit so it’ll bear more fruit. 3The message I’ve spoken to you has already pruned you. 4Stay in me and I in you. A branch can’t bear fruit by itself; it has to stay connected to the vine; you can’t either unless you stay in me. 5I’m the vine; you’re the branches. If you stay in me and I in you, you’ll bear lots of fruit. You can’t bear any by yourselves. 6If you don’t stay in me, you’re cut off like a branch that dries up and people burn up. 7If you stay in me and what I say stays in you, ask whatever you want, and you’ll receive it. 8This is what honors my Father: you becoming my disciples and bearing lots of fruit. 9I’ve loved you like the Father has loved me. Stay in my love. 10If you do what I tell you, you’ll be staying in my love like I’ve done what my Father told me and stay in his love.                  Jn 15:1-10
+
+11“I’ve told you that so you can have the complete joy I have. 12This is my command: love one another like I’ve loved you. 13Nobody loves more than a person that lays down his life for his friends. 14You’re my friends if you do what I tell you. 15I don’t consider you servants anymore; servants don’t know what their master’s doing. I consider you friends because I tell you everything I’ve heard from my Father. 16You didn’t choose me; I chose you and appointed you to bear fruit that lasts, so my Father will give you whatever you ask for in my name. 17I’m commanding these things so you’ll love one another.
+
+18“If the world hates you, understand that it hated me first. 19If you were like the world, it would love its own kind. But because you’re not like it, it hates you—but I’ve chosen you out of it. 20Remember that I told you servants are not better off than their master. If they persecuted me, they’ll persecute you. If they kept my word, they’ll keep yours. 21They’ll do that to you because of me, because they don’t know the One that sent me. 	Jn 15:11-21
+
+22“If I hadn’t come and spoken to them, they wouldn’t be guilty; but now they don’t have any excuse for their sin. 23Whoever hates me hates my Father too. 24If I hadn’t done among them what no one else has done, they wouldn’t be guilty; but now they’ve seen and hated both me and my Father. 25What they’ve done fulfills what their Law says, ‘They hated me for no reason’ [Ps 35:19; 69:4].
+
+26“When the Helper comes that I’ll send from the Father—the truth-revealing Spirit—he’ll speak on my behalf. 27You will, too, because you’ve been with me since I began my ministry.	Jn 15:22-27
+
+Further Solemn Instruction
+
+16:1“I’ve told you that, so you won’t get caught off guard. 2They’ll excommunicate you from the synagogues, but—more than that—the time’s coming when anybody that kills you will think they’re serving God. 3That’s because they don’t know the Father or me. 4So when it happens, remember that I told you it would.
+
+“I didn’t tell you those things at first because I was with you. 5But now I’m going to the One that sent me, and you don’t need to ask where I’m going. 6Because I’ve told you that, you feel sad. 7But it’s to your benefit that I go away because the Helper wouldn’t be coming to you. If I go, I’ll send him. 8When he comes, he’ll convict the world of sin and goodness and judgment—9of sin because they don’t believe in me; 10of goodness because I’m going to the Father and you won’t see me anymore; 11and of judgment because the ruler of this world has been judged.	Jn 16:1-11
+
+12“I still have so much to tell you, but you can’t deal with it now. 13But when the truth-revealing Spirit comes, he’ll lead you in all truth. He won’t speak on his own; he’ll tell you what he’s heard and what’s going to happen. 14He’ll honor me because he’ll take from me and tell you. 15Everything the Father has is mine. That’s why I’ve said the Spirit will take from me and tell you.
+
+16“In a little while you won’t see me; and a little while after that you’ll see me again.”
+
+17Some disciples said to one another, “What’s this, ‘In a little while you won’t see me; in a little while you’ll see me again’; and ‘because I’m going to the Father’? 18What’s this ‘little while’ mean? We don’t understand it.”
+
+19Jesus knew they wanted to ask him,
+
+“Are you talking about what I said, ‘In a little while, you won’t see me; in a little while, you’ll see me again’? 20You’ll mourn, but the world will be happy. You’ll grieve, but your grief will turn to joy. 21When a woman’s in labor, she has grief; but when she has the child, she doesn’t think about the anguish anymore because of the joy of bringing a person into the world. 22You’llp grieve now, but I’ll see you again, and you’ll be happy. Nobody will takep your happiness away. 23At that time you won’t be asking me for anything. Whatever you ask the Father for in my name now he’ll give you. 24Up till now you haven’t asked for anything in my name. Ask and you’ll receive so you’ll be completely happy. 	Jn 16:12-24
+
+25“I’ve been using illustrations. The time’s coming when I’ll speak plainly about the Father. 26Then you’ll ask in my name; and, rest assured, I’ll ask the Father for you. 27The Father himself loves you because you love me and believe I came from him. 28I did come from him to the world. Again, I’m leaving the world and going back to him.”
+
+29The disciples saidp, “Now you’re speaking clearly. 30Now we know that you know everything and don’t need anybody to ask you. That’s why we believe you’ve come from God.”
+
+31Jesus responded, “Do you? 32The time’s coming—it’s almost here—when you’ll all scatter and leave me alone. But I’m not alone, because the Father’s with me. 33I’ve told you these things so you’ll have peace. In the world you have trouble, but take heart, I’ve overcome the world.” 	Jn 16:25-33
+
+The High Priestly Prayer
+
+17:1Jesus looked up to heaven,
+
+“Father, it’s time. Honor your Son so he can honor you. 2You gave him the right to give eternal life to everybody you’ve given him. 3Eternal life means knowing you, the only true God, and Jesus the Messiah you sent. 4I’ve honored you on the earth and finished the work you gave me to do. 5Now, glorify me and yourself with the glory I had with you before the earth existed.
+
+6“I’ve shown you to the ones you gave me out of the world, and they’ve kept your word. 7Now they know that the message I’ve given them came from you, 8They know that I really did come from you, and believe you sent me. 9I’m not asking about the world right now, but about the ones you gave me. 10My things are yours and yours are mine, and they’ve honored me. 11I’m not in the world anymore, but they are, and I’m coming to you. Holy Father, keep them in your name—which you’ve given me—so they can be one like we are. 12When I was with them, I kept them in your name, and none of them have perished except the one headed for destruction—to fulfill scripture. 13I’m saying these things so they can fully experience my joy. 14The world hates them because they’re not like it. 15I’m not asking you to take them out of the world, but to keep them from the evil one. 16They’re not like the world as I’m not. 17I’ve sanctified them with the truth—with your message. 18As you sent me into the world, I’ve sent them into it. 19I’ve sanctified myself for them so the truth can sanctify them.
+
+20“Father, I’m not just asking that these be one, but that their converts also be one. 21That way the world will know you sent me. 22I’ve given them the honor you gave me so they can be one like we are—23so the world can know you love them like you love me. 24What you’ve given me I want to be with me where I am so they can see the honor you gave me because you loved me before the world existed.
+
+25“Righteous Father, the world doesn’t know you, but I know you, and these know you sent me. 26I’ll continue to make you known to them so the love you loved me with can be in them like I am.”	 Jn 17:1-26
+
+Agony in the Garden;
+
+The Arrest; Peter’s First Denial
+
+18:1When Jesus finished, he went out with his disciples past the wadi Kidron to an orchard 2Judas knew about, because Jesus often went there with his disciples. 3Judas had received a cohort as well as officers from the chief priests and Pharisees. They came there with lanterns, torches, and weapons. 4Jesus knew what was coming and went out to meet them, “Who are you looking for?”
+
+5“Jesus the Nazarene.”
+
+“I’m Jesus.” (Judas was standing with them.) 6When he said, “I’m Jesus,” they drew back and fell to the ground.
+
+7He asked them again, “Who are you looking for?”
+
+“Jesus the Nazarene.”
+
+8“I told you I’m Jesus. If you’re looking for me, let these go” (9like he’d said, “I haven’t lost any you gave me.”). 	Jn 18:1-9
+
+10Then Simon Peter, who had a sword, drew it and struck the high priest’s servant and cut off his right ear. His name was Malchus.
+
+11Jesus said, “Put your sword back in its sheath. Am I not going to drink the cup the Father gave me to drink?”
+
+12Then the cohort, the tribune, and the officers of the Jews arrested Jesus and bound him. 13They led him to Annas first because he was the father-in-law of Caiaphas, the high priest that year. 14He’s the Caiaphas who counseled the Jews that it was expedient for one man to die for the people.
+
+15Simon Peter and another disciple followed Jesus. That disciple was acquainted with the high priest and went in with Jesus to the courtyard. 16Peter stood outside at the gate. The other disciple went out and spoke to the gatekeeper and brought Peter in.
+
+17The gatekeeper, a servant woman, saidp to Peter, “You’re not one of this man’s disciples, are you?”
+
+“No.”
+
+18Servants and officers were standing there. They’d built a charcoal fire because it was cold, and they were warming themselves. Peter was standing with them, warming himself.
+
+Jn 18:10-18
+
+The Trial Before Annas
+
+19The high priest asked Jesus about his disciples and his teaching.
+
+20He answered, “I spoke openly to the world and taught constantly in synagogue and in the Temple, where the Jews all gather. I haven’t done anything secretly. 21Why ask me? Ask the ones that heard me. They know what I said.”
+
+22One of the officers standing by slapped him, “Do you answer the high priest that way?”
+
+23“If I said something wrong, what was it? If I didn’t, what are you hitting me for?”
+
+24Then Annas sent him bound to Caiaphas the high priest. 			       Jn 18:19-24
+
+Peter’s Final Denials
+
+25While Simon Peter was standing there, warming himself, the officers said, “You’re not one of his disciples too, are you?”
+
+“No.”
+
+26One of the high priest’s servants, a relative of the one whose ear Peter had cut off, saidp, “I saw you in the orchard with him, didn’t I?”
+
+27Peter denied it again. Immediately a rooster crowed.	Jn 18:25-27
+
+The Trials Before Pilate
+
+28They ledp Jesus from Caiaphas to the Praetorium. It was early. They didn’t go into the Praetorium themselves. They didn’t want to defile themselves and not be able to eat the Passover. 29So Pilate came out to them, “What charges are you bringing against this man?”
+
+30“If he wasn’t a criminal, we wouldn’t have delivered him to you.”
+
+31Pilate said, “You take him and judge him by your Law.”
+
+“It’s illegal for us to execute anybody” (32fulfilling Jesus’ statement about how he would die).
+
+33Pilate went back into the Praetorium and called Jesus, “Are you the King of the Jews?”
+
+34“Are you asking that yourself, or have other people prompted you?”
+
+35“I’m not a Jew, am I? Your nation and the chief priests delivered you to me. What have you done?”
+
+36“My ‘kingdom’ is not an earthly kingdom. If it was, my servants would be fighting to keep me from being delivered to the Jews.”
+
+37“So you’re a ‘king’ then?”
+
+“Yes, I’m a ‘king.’ That’s why I was born—why I came into the world—to speak about truth. Everybody that’s committed to truth listens to me.”
+
+38Pilate saidp, “What’s truth?”
+
+When he said that, he went out to the Jews, “He’s not guilty of anything. 39You have a custom that I release a prisoner to you at Passover. Do you want me to release ‘the King of the Jews’?”
+
+40They shouted again, “Not him! Barabbas!” (an insurgent).	Jn 18:28-40
+
+19:1Then Pilate took Jesus and had him flogged. 2The soldiers twisted thorns together to make a crown and put it on his head. They put a purple robe on him 3and started coming up to him and saying, “Hail, King of the Jews!” and slapping him.
+
+4Pilate brought him out again, “I’m bringing him out to let you know I don’t find him guilty of anything.” 5So he brought Jesus out wearing the crown of thorns and the purple robe. “Look at the man!”
+
+6When the chief priests and officers saw him, they shouted, “Crucify him! Crucify him!”
+
+Pilate saidp, “You take him and crucify him. I don’t find him guilty of anything.”
+
+7The Jews answered, “According to our Law he should die because he’s claimed to be God’s Son.”
+
+8When Pilate heard that, he got more concerned. 9He went into the Praetorium and saidp to Jesus, “Where are you from?”
+
+Jesus didn’t answer him. 	Jn 19:1-9
+
+10“You’re not going to talkp to me? You know, don’t you, that I can release you or crucify you?”
+
+11“You wouldn’t have any authority over me if God hadn’t let you have it. So the one that betrayed me to you has committed a worse sin.”
+
+12Pilate tried to release him over that comment.
+
+But the Jews shouted, “If you release him, you’re no friend of Caesar! Anybody that makes himself king is rebelling against Caesar!”
+
+13When Pilate heard that, he brought Jesus out and sat on the judgement seat at a place called The Pavement (Gabbatha in Hebrew). 14It was Preparation Day during Passover week, about the sixth hour. He said to the Jews, “Look, your ‘king’!”
+
+15They yelled, “Away with him! Away with him! Crucify him!”
+
+“You want me to crucify your ‘king’!?”
+
+The chief priests answered, “We don’t have any king but Caesar.”
+
+16Then he delivered him over to be crucified. 	Jn 19:10-16
+
+The Way to Golgotha
+
+17They took Jesus, and he went out carrying his own cross to The Place of the Skull (“Golgotha” in Hebrew). 18They crucified him along with two others, one on each side of him.
+
+Jn 19:17-18
+
+The Death of Messiah
+
+19-20Pilate wrote an inscription in Hebrew, Latin, and Greek, and put it on the cross: “Jesus the Nazarene, King of the Jews.” A lot of Jews read it because the place where they crucified him was close to the city.
+
+21The chief priests said to Pilate, “Don’t write ‘King of the Jews,’ but that he said, ‘I am King of the Jews.’”
+
+22Pilate answered, “What I’ve written I’ve written.”
+
+23After the soldiers had crucified Jesus, they divided his clothes four ways, one for each soldier—except for the tunic. It was seamless, woven from the top throughout. 24They said, “Let’s not tear it apart; cast lots for it.” So they did—fulfilling the scripture,
+
+“They divided up my garments among them,
+
+and cast lots for my clothes” [Ps 22:18]. 	Jn 19:19-24
+
+25Beside Jesus’ cross stood his mother, the sister of his mother; Mary, wife of Clopas; and Mary the Magdalene. 26When he saw his mother and the disciple he loved standing there, he saidp to his mother, “Your son.” 27and to the disciple, “Your mother.” From that time the disciple took her to his home.
+
+28Since he knew they’d done everything that fulfilled the scripture, Jesus saidp, “I’m thirsty.” 29A jar was sitting there full of sour wine. They put a sponge full of it on a hyssop branch and held it up to his mouth. 30When he’d taken it, he said, “It’s done!” He dropped his head and quit breathing. 	Jn 19:25-30
+
+ebrewHebrew))
+
+The Burial of Jesus
+
+31Since it was Preparation Day, the Jews asked Pilate to break the legs of the crucified men and take their bodies away so they wouldn’t be on the cross on a Sabbath. (That Sabbath was a high day.) 32So the soldiers broke the legs of the first and of the other man crucified with him. 33When they saw that Jesus was already dead, they didn’t break his legs. 34One soldier thrust his spear into Jesus’ side, and blood and water drained out immediately. 35(The one that watched it himself has submitted this report. He knows what he’s telling you is true so you can believe it too.) 36That reminds us of the scripture, “Don’t break any of its bones” [Ex 12:46; Num 9:12; (Ps 34:20)]. 37Another scripture says, “They’ll look at the one they speared” [Zech 12:10].
+
+38After that, Joseph of Arimathea—a disciple of Jesus secretly for fear of the Jews—asked Pilate to let him take Jesus’ body, and Pilate granted it. He went and took his body away. 39Nicodemus—who at the first came to Jesus at night—also brought some 70 pounds of myrrh mixed with aloes. 40They wrapped his body in linen wrappings along with the aromatic spices, which is the Jews’ burial custom. 41A garden close to where they crucified Jesus had a new, unused tomb in it. 42That’s where they put Jesus because it was the Jews’ Preparation Day.
+
+Jn 19:31-42
+
+The Resurrection of Messiah;
+
+The Report of the Women;
+
+The Visit of Peter and John
+
+20:1On the first day of the week, Mary the Magdalene camep to the tomb while it was still pretty dark and saw that the stone was rolled away from it. 2She ranp to Simon Peter and the disciple Jesus loved, “They’ve taken the Lord out of the tomb, and we don’t know where they put him.”
+
+3So Peter and the other disciple ran to the tomb. 4The other disciple outran Peter, 5stooped down and sawp the linen wrappings, but didn’t go in.
+
+6Then Simon Peter gotp there and went on in and sawp the linen wrappings 7and the facecloth they’d put over his head. It wasn’t with the linen wrappings; it was folded up by itself. 8Then the other disciple went in and looked and believed. 9They didn’t yet understand the scripture that he had to rise from the dead. 10So they went back to their quarters.  	 Jn 20:1-10
+
+Appearance to Mary the Magdalene
+
+11Mary stood outside the tomb crying. While she was crying, she stooped down and looked inside the tomb. 12She sawp two angels in white, sitting at the head and foot of where Jesus’ body had been.
+
+13They saidp, “Dear woman, why are you crying?”
+
+“They’ve taken my Lord, and I don’t know where they’ve put him.” 14When she’d said that, she turned around and saw Jesus standing there, but didn’t recognize him.
+
+15He saidp, “Why are you crying? Who are you looking for?”
+
+She thought he was the gardener, “Sir, if you’ve carried him off, tell me where you’ve put him, and I’ll take him away.”
+
+16“Mary.”
+
+She turned around and saidp in Aramaic, “Rabboni (Teacher)!”
+
+17Jesus saidp, “You don’t need to hang onto me. I haven’t gone up to the Father yet. Go tell my disciples I’m going up to my Father and yourspl, my God and yourspl.”
+
+18Mary wentp and told them, “I’ve seen the Lord!” and what he’d told her to say.
+
+Jn 20:11-18
+
+Appearance to the Ten
+
+19That evening, the first day of the week, the disciples had locked the doors for fear of the Jews. Jesus came and stood among them, “Hello.” 20He showed them his hands and side. They were excited to see him.
+
+21He said again, “Peace to you. I’m sending you like the Father sent me.” 22Then he blew on them, “Receive the Holy Spirit. 23The ones whose sins you forgive are forgiven; the ones whose sins you hold against them are held against them.”	Jn 20: 19-23
+
+Appearance to the Eleven
+
+24Thomas, one of the Twelve, called Didymus, wasn’t with them when Jesus came. The other disciples told him, “We’ve seen the Lord!”
+
+25But Thomas said, “Unless I see the imprints from the spikes in his wrists and put my finger in them and put my hand in his side, I’m not believing it.”
+
+26A week later, his disciples were behind locked doors again. Jesus came and stood among them and said, “Hello.” 27He saidp to Thomas, “Look at my wrists; put your finger here. Put your hand in my side. Don’t keep on not believing.”
+
+28Thomas answeredp, “My Lord and my God!”
+
+29Jesus saidp, “You believe because you’ve seen. They’re blessed who believe and haven’t seen.”
+
+30Jesus did an endless number of signs in front of his disciples that I haven’t recorded here. 31I’ve written these down so you’ll believe he’s the Messiah, God’s Son, and have life by believing in him.     	 Jn 20: 24-31
+
+Appearance to Seven by Lake Galilee
+
+21:1After that, Jesus appeared again to his disciples at Lake Tiberias. 2Simon Peter, Thomas, Nathanael from Cana in Galilee, Zebedee’s sons, and two other disciples were together.
+
+3Simon Peter saidp, “I’m going fishing.”
+
+“We’ll go with you.”
+
+They went out and got in the boat, and that night didn’t catch anything. 4When morning came, Jesus stood on the shore, but the disciples didn’t know it was him.
+
+5“Fellows, you haven’t had anything to eat, have you?”
+
+“No.”
+
+6“Throw the net on the right side of the boat; you’ll find some.”
+
+So they did, and they couldn’t haul it in for the number of fish.
+
+7The disciple Jesus loved saidp to Peter, “It’s the Lord!”
+
+When Simon Peter heard that, he put on his outer garment (he’d stripped down) and dived into the lake. 8The rest of the disciples came in the small boat because they were only about 300 feet from shore, dragging the net full of fish. 9When they got out of the boat, they sawp a charcoal fire with a fish and a loaf laid on it.
+
+10Jesus toldp them, “Bring some of the fish you just caught.”
+
+11Simon Peter got up and pulled the net up onto land full of big fish—153. Although there were so many, the net didn’t tear.
+
+12Jesus saidp, “Come eat breakfast.”
+
+None of the disciples dared to ask him who he was; they knew it was the Lord. 13He gavep them the bread and fish. 14That was a third time Jesus appeared to his disciples after he resurrected.
+
+15When they’d finished breakfast, Jesus saidp, “Simon Barjonah, do you love me more than these do?”
+
+“Yes, Lord, you know I love you.”
+
+“Tend my lambs.”
+
+16He saidp the second time, “Simon Barjonah, do you love me?”
+
+“Yes, Lord, you know I love you.”
+
+“Tend my sheep.”
+
+17He saidp the third time, “Simon Barjonah, do you love me?”
+
+It pained Peter that Jesus asked a third time, “Do you love me?” He saidp, “Lord, you know everything; you know I love you.”
+
+18Jesus told him, “Tend my sheep. When you were younger, you’d get dressed and walk wherever you wanted to. When you get old, you’ll stretch out your hands, and somebody else will dress you and carry you where you don’t want to go.” 19(He said that to indicate by what kind of death he would honor God.) When he’d said that, he told him. “Follow me.”
+
+20Peter turned around and sawp the disciple Jesus loved, following, the one that leaned back on Jesus’ chest at the supper and asked, “Lord, who’s going to betray you?” 21Peter saidp, “What about him?”
+
+22Jesus saidp, “If I want him to live till I come back, what’s that to you? You follow me.”
+
+23So the rumor got out among the believers that he wouldn’t die. But Jesus didn’t say he wouldn’t die; he said, “If I want him to live till I come back, what’s that to you?”             Jn 21:1-23
+
+Epilogue
+
+24I’m the disciple that wrote this book. I know what I’m telling you is true. 25Jesus did a lot of other things too, but if every one was written down, I suppose the world couldn’t hold all the books.	Jn 21:24-25
+
+ACTS OF APOSTLES
+
+Jesus Promises the Spirit
+
+1:1In the earlier volume, most excellent Theophilus, I gave an account of what Jesus did and taught 2up to when by the Holy Spirit he commissioned the apostles he’d chosen. 3During 40 days after he suffered, he showed himself alive to them in a variety of unmistakable proofs and discussed God’s kingdom. 4While he was eating with them, he told them to wait in Jerusalem for “the Father’s promise I told you about: 5John immersed in water, but you’ll be ‘immersed’ in the Holy Spirit in a few days.”	Acts 1:1-5
+
+The Ascension of Jesus
+
+6While they were with him, they asked, “Lord, is that when you’ll restore Israel’s independence?”
+
+7“Youpl aren’t to know the dates and circumstances the Father has scheduled by his authority. 8You’ll receive power when the Holy Spirit comes on you, and you’ll represent me in Jerusalem, Judaea, Samaria, and all over the world.”
+
+9Then he ascended and a cloud took him out of sight. 10While they were staring up at the sky, two men in dazzling clothes stood next to them. 11“Galileans, why stand here staring at the sky? He’ll come back the way you’ve watched him go.”
+
+12They went back to Jerusalem from the hill called The Mount of Olives, about six-tenths of a mile from the city. 13When they went inside, they got together in the upstairs room: Peter, John, James, Andrew, Philip, Thomas, Bartholomew, Matthew, James son of Alphaeus, Simon Zelotes; and Judas son of James. 14They were praying with the women there; with Mary, Jesus’ mother; and with his brothers. 	Acts 1:6-14
+
+Choosing Judas’ Replacement
+
+15During that time Peter stood up among the brothers. (There was a crowd of about 120 there.)
+
+16“Brothers, it needed to happen what the Holy Spirit predicted through David about Judas, who guided the ones that arrested Jesus. 17He had a part in this ministry. (18He bought a field with the payment for his sin. He swelled up and burst open, and his entrails gushed out. 19Everybody in Jerusalem heard about it, so in their [Aramaic] language they called that field Haceldama, Field of Blood.) 20Scripture says in the Psalms,
+
+‘Let his house be deserted
+
+and nobody live in it’ [Ps 69:25];
+
+and,
+
+‘Let someone else have his office of oversight’ [Ps 109:8].
+
+21-22So we need to choose a replacement to serve as a witness with us about the resurrection of the Lord Jesus, someone that’s been with us from the time of John’s baptizing to the Lord’s ascension.” 	Acts 1:15-22
+
+23They put forward Matthias and Joseph Barsabbas called Justus. 24They prayed, “Lord, you know everybody’s heart. Show which one you’ve chosen 25to receive this apostleship that Judas left to go to his own place.” 26They cast lots, and the lot fell on Matthias; he joined the eleven apostles. 	               Acts 1:23-26
+
+The Spirit’s Coming
+
+2:1When Pentecost came, they were together. 2All of a sudden a roar from the sky like a violent windstorm filled the house where they were sitting. 3Divided tongues like fire sat on each one of them. 4The Holy Spirit filled them, and they started speaking in other languages as the Spirit enabled them.	Acts 2:1-4
+
+5Devout Jews from many countries were living in Jerusalem. 6When that roar erupted, the crowd came together bewildered. Each one was surprised to hear them speaking in their own language.
+
+7“Aren’t these men Galileans? 8How can we be hearing our native languages? 9Parthians, Medes, Elamites; people living in Mesopotamia, Judaea, and Cappadocia, Pontus and Asia, 10Phrygia and Pamphylia, Egypt and the parts of Libya near Cyrene; Roman visitors, 11Jews and proselytes; Cretans and Arabians—we’re hearing them speak in our own languages about those outstanding things God has done.”
+
+12They were surprised and asked each other what was happening.
+
+13Others joked, “They’re drunk on sweet new wine.” 	Acts 2:5-13
+
+Peter’s Sermon on Pentecost
+
+14Peter, standing with the eleven, spoke up,
+
+“Judeans and you that are living in Jerusalem, listen. 15These men aren’t drunk like you’re trying to make out; it’s only 9 o’clock. 16This is what the prophet Joel was referring to,
+
+17‘“In the last days,” God says,
+
+“I’ll pour my Spirit out on all kinds of people:
+
+your sons and daughters will prophesy,
+
+your young men will see visions,
+
+your old men will dream dreams, and
+
+18my servants and handmaids will prophesy.
+
+19“I’ll show you wonders in the sky above, and
+
+signs on the earth below—
+
+blood, fire, and smoke.
+
+20The sun will go dark, and
+
+the moon will turn red,
+
+before the great day of the LORD comes.
+
+21“Whoever calls on the LORD will be saved”’ [Joel 2:28-32]. 	Acts 2:14-21
+
+22“Israelites, listen. God approved Jesus the Nazarene by miracles, wonders, and signs you know God did by him among you. 23You handed him over to God’s predetermined foreknowledge and plan. You condemned him to death and got people to crucify him that weren’t under the Law. 24God released him from a painful death and resurrected him because death couldn’t hold him. 25David said,
+
+‘I always see the LORD in front of me;
+
+he’s at my right hand so I’m secure.
+
+26So I’m glad and rejoice;
+
+even my flesh will rest in hope,
+
+27because you won’t leave me in the grave, or
+
+let your Holy One decay.
+
+28You’ve made the way of life known to me;
+
+you’ll make me happy with your presence’ [Ps 16:8-11].
+
+Acts 2:22-28
+
+29“Brothers, let me speak frankly about the patriarch David: he died and was buried, and his grave’s still here. 30So, as a prophet, he knew ‘God had solemnly sworn that his descendant would sit on his throne’ [Ps 132:11]. 31He saw that ahead of time and was referring to the Messiah’s resurrection when he said, ‘He wouldn’t remain in the grave, and his flesh wouldn’t decay’ [Ps 16:10]. 32God resurrected this Jesus, as we can all vouch for. 33He ascended to God’s right hand, received from the Father the Holy Spirit he promised, and poured out what you’re seeing and hearing. 34David didn’t ascend to heaven; he said himself,
+
+‘The LORD said to my Lord,
+
+“Sit on my right hand
+
+35till I make your enemies your footstool”’ [Ps 110:1].
+
+36So Israel can know without a doubt that God has made this Jesus you crucified both ‘Lord’ and Messiah.”	Acts 2:29-36
+
+3,000 Respond
+
+37Those comments cut his audience to the heart. They said to Peter and the other apostles, “What are we going to do, brothers!?”
+
+38Peter said,
+
+“Repent, and each of you get baptized to Jesus the Messiah for the forgiveness of your sins, and you’ll receive the Holy Spirit as a gift. 39The promise applies to you, your descendants, and everybody afar off—as many as the LORD our God calls.”
+
+40With a lot of additional presentation, he urged them, “Be saved from this crooked generation.” 41The ones that accepted his message were baptized: about 3,000 were added together that day. 42They devoted themselves to the apostles’ teaching, to fellowship, breaking bread, and prayer.	Acts 2:37-42
+
+43Reverence came over them everyone, and the apostles worked many wonders and signs. 44The believers were together and shared everything; 45they started selling property and possessions and distributing them according to need. 46They continued together every day in the Temple, breaking bread by families, and receiving food with sincere gladness. 47They kept praising God and being gracious to the people. Every day the LORD was adding together the ones that were being saved.	Acts 2:43-47
+
+Healing the Lame Man at Gate Beautiful
+
+3:1Peter and John were going up into the Temple at 3 o’clock prayer. 2Daily, people had been carrying a man crippled from birth and taking him to the Temple gate called Gate Beautiful to ask for alms from people going into the Temple. 3When he saw Peter and John about to go in, he asked for alms. 4Peter looked at him with John and said, “Look at us.”
+
+5He gave them his full attention, expecting to receive something.
+
+6Peter said, “I don’t have any money, but I’ll give you what I do have. In the name of Jesus the Messiah, the Nazarene, get up and walk.”
+
+7He took his right hand and lifted him up. Instantly his feet and ankles strengthened. 8He jumped up and stood and started walking around. He went into the Temple with them, walking and jumping and praising God. 9The people saw him 10and recognized him as the beggar at Gate Beautiful. They were astounded. 	Acts 3:1-10
+
+Peter’s Sermon at Solomon’s Portico
+
+11While he kept holding onto Peter and John, the people rushed to them in Solomon’s Portico, utterly astonished. 12When Peter saw it, he responded,
+
+“Israelites, why are you amazed at him? Why stare at us as if we made him walk by our power or godliness? 13Abraham, Isaac, and Jacob’s God—our ancestors’ God [Ex 3:6, 15]—has glorified his Son Jesus. He’s the One you delivered up to Pilate when he’d decided to release him. 14You rejected the Holy and Just One, and asked Pilate to grant you a murderer. 15You killed the author of life that God has resurrected, the One we’re witnesses for. 16He’s the One that made this man strong. Faith working through him has made this man you know completely well as you can see.	Acts 3:11-16
+
+17“Now brothers, I know you didn’t realize what you were doing—your rulers didn’t either. 18But that’s the way God fulfilled what he announced beforehand by many prophets: that his Messiah would suffer. 19So repent: God will erase your sins. 20Times of renewal will come from the LORD, and he’ll send the Messiah Jesus that he appointed for you. 21Heaven needs to receive him till God establishes everything he said through his holy prophets so long ago. 22Moses said,
+
+‘From among you the LORD your God will raise up a prophet for you like me. Listen to everything he tells you. 23Every person that doesn’t will perish from the people’ [Deut 18:15-16].
+
+24The prophets from Samuel on have told about our time. 25You’re descendants of the prophets and of the covenant God made with your ancestors. He told Abraham,
+
+‘Your descendants will bless all the nations’ [Gen 22:18; 26:4].
+
+26God has resurrected his Son Jesus and sent him first to you to ‘bless’ you when you turn away from your sins.”	 Acts 3:17-26
+
+Peter and John Before the Sanhedrin
+
+4:1While they were speaking to the people, the priests, the captain of the Temple, and the Sadducees confronted them. 2They resented them teaching the people and claiming in Jesus the resurrection. 3They arrested them and put them in jail till the next day because it was already evening. 4Many who heard the message believed; the number of men rose to about 5,000.
+
+Acts 4:1-4
+
+5The next day their rulers, elders, and scribes assembled in Jerusalem with 6Annas the high priest and Caiaphas, John, Alexander, and the members the high priest’s family. 7They stood Peter and John in the assembly, “By what power or name did you do this?”
+
+8Peter was filled with the Holy Spirit and said,
+
+“Rulers of the people and elders, 9if you’re examining us today to find out what good deed has cured this crippled man, 10know this, you and all the people of Israel: he stands here cured by Jesus the Messiah, the Nazarene you crucified and God resurrected. 11This is
+
+‘the stone you builders rejected
+
+that’s become the cornerstone’ [Ps 118:22].
+
+12Salvation lies only in him; no one else under heaven can save us.” 	Acts 4:5-12
+
+13When they saw Peter and John’s boldness and took note that they were unschooled, common men, they were amazed, knowing they’d been with Jesus. 14They looked at the man standing with them cured and couldn’t say anything against it. 15They told them to go outside the Sanhedrin while they conferred,
+
+16“What are we going to do with these men!? It’s obvious to everybody in Jerusalem that they’ve done a notable sign; we can’t deny that. 17But, to keep it from spreading any further among the people, let’s strictly threaten them not to speak to anybody again in this name.”
+
+18They called them and commanded them never to teach again in the name of Jesus.
+
+19But Peter answered, “In front of our God, you decide if it’s right to listen to you or to him. 20We have to say what we’ve seen and heard.”
+
+21When they’d threatened them some more, they let them go. They couldn’t find anything to punish them for, and the people were praising God for what had happened. 22The man they’d healed was over 40 years old.	      Acts 4:13-22
+
+Praying for Boldness
+
+23After their release, they reported to their people what the chief priests and elders had said. 24When they heard it, they said to God together,
+
+“Master, who made earth, sky, and sea, and everything in them, 25you spoke by the Holy Spirit through our ancestor David your servant,
+
+‘Why did the Gentiles rage,
+
+and the peoples plot pointless threats?
+
+26The kings of the earth stood together, and
+
+the rulers assembled as one
+
+against the LORD and his Messiah’ [Ps 2:1-2].
+
+27Truly in this city, Herod and Pontius Pilate with the ‘Gentiles’ and the ‘people’ of Israel ‘assembled against your Holy Servant Jesus’ 28to do what you already determined would happen. 29Now, LORD, look at their threats, and make us your servants bold to speak your message 30while you heal and bring about signs and wonders through your Holy Servant Jesus.”
+
+31After they’d prayed, the place where they’d gathered shook, and they were filled with the Holy Spirit and continued to speak God’s message boldly. 	Acts 4:23-31
+
+Having All Things in Common
+
+32The great number of believers united in heart and soul. Nobody considered anything his own; they held everything in common. 33The apostles were powerfully defending the Lord’s resurrection and experiencing a lot of good will. 34Nobody lacked what they needed, because the ones who owned land or houses were selling them 35and taking the proceeds to the apostles. It was distributed as needed. 36Joseph—that the apostles called Barnabas (Encourager), a Levite, a Cypriot—37sold a field and gave the apostles the proceeds.  	Acts 4:32-3
+
+Ananias and Sapphira
+
+5:1A man named Ananias and his wife Sapphira also sold a piece of land. 2He kept part of the price and took the rest to the apostles. (She was in on it.)
+
+3Peter said, “Ananias, why did Satan prompt you to lie to the Holy Spirit, when you kept part of the price of the field? 4While you had it, wasn’t it yours? When you sold it, didn’t you control it? Why decide to do this? You didn’t just lie to people, but to God.” 5When Ananias heard that, he collapsed and died. Great respect came on everybody that heard about it. 6The young men got up, wrapped him up, carried him out, and buried him.
+
+7Some three hours later his wife came in, not knowing what had happened. 8Peter asked her, “Did youpl sell the field for such and such?”
+
+“Yes.”
+
+9Peter said, “Why’d youpl agree to test the Spirit of the Lord? The ones that buried your husband are at the door, and they’ll carry you out.”
+
+10She collapsed right there and died. The young men carried her out to bury her beside her husband. 11People that heard about what happened came to greatly respect the church.
+
+Acts 5:1-11
+
+Miracles Among the People
+
+12The apostles did many signs and wonders among the people, and they were getting together in Solomon’s Portico. 13People hesitated to join them, but they held them in high regard. 14Believers kept coming to the Lord, large numbers of men and women. 15As a result, they were bringing sick people out into the streets and putting them on cots and stretchers so when Peter came, even his shadow might fall on some of them. 16Crowds even came from towns around Jerusalem, carrying sick people and people harassed by unclean spirits. They were all healed.
+
+Acts 5:12-16
+
+The Apostles Persecuted
+
+17The high priest and his associates—Sadducees—were jealous. 18They arrested the apostles and put them in public custody. 19During the night an angel of the LORD opened the gates of the jail and let them out, 20“Go into the Temple and speak to the people the message about this life.” 21They went in about daylight and started teaching. The high priest and his associates convened Israel’s Sanhedrin, the senate, and sent to the jail to bring the apostles. 22But the officers didn’t find them. They came back and reported, 23“We found the jail securely locked and the guards standing at the doors; but when we opened it, we didn’t find anybody inside.” 24The captain of the Temple and the chief priests were dumbfounded about what this might lead to. 25A fellow came and told them, “They’re standing in the Temple, teaching the people.” 26The captain went with the officers and brought them without force because they were afraid the people would stone them.	Acts 5:17-26
+
+27They took them into the Sanhedrin, and the high priest asked them, 28“Didn’t we strictly charge you not to teach in this name? You’ve filled Jerusalem with your teaching and intend to bring this man’s blood on us.”
+
+29Peter and the apostles said,
+
+“We have to obey God instead of you. 30Our ancestors’ God raised up Jesus that you did murder on a tree. 31God exalted him as Leader and Savior to his right hand to offer repentance and forgiveness to Israel. 32We speak to that fact and so does the Holy Spirit God has given to ones that obey him.”
+
+Acts 5:27-32
+
+Gamaliel’s Advice
+
+33They were furious and wanted to execute them. 34But a Pharisee in the Sanhedrin named Gamaliel, a respected teacher of the Law, stood up and told them to put the men out of the council chamber for a while,
+
+35“Israelites, be careful what you do to them. 36Before now, Theudas rose up, claiming to be somebody. About 400 men joined him. He was killed, and everybody that obeyed him scattered and didn’t amount to anything.
+
+37“After that, Judas the Galilean rose up during the census, and drew people to him. He perished too, and the ones that obeyed him scattered. 38Now I tell you, leave these men alone. If this effort is coming from men, it’ll be overthrown. 39If it’s from God, you won’t overthrow them, and you can be fighting against God.”
+
+They agreed. 40They called the apostles, beat them, charged them not to speak in Jesus’ name, and released them. 41They left the Sanhedrin, elated over being considered worthy of suffering for The Name. 42Every day in the Temple and from house to house, they continued to preach that Jesus was the Messiah. 	Acts 5:33-42
+
+Appointing the 7
+
+6:1At that time when the number of disciples was multiplying, the Hellenists started grumbling against the Hebrews for overlooking their widows in daily food distribution. 2The Twelve assembled the disciples,
+
+“We shouldn’t step aside from serving God’s message to serving tables. 3So pick out seven men with good reputations, who have the Spirit and wisdom, and we’ll appoint them to take care of this. 4We’ll continue in prayer and serving the message.”
+
+5That pleased the crowd, and they chose Stephen, a man with great faith and the Holy Spirit; Philip, Prochorus, Nicanor, Timon, Parmenas; and Nicolaus, a proselyte from Antioch. 6They presented them to the apostles, who prayed and laid hands on them. 7God’s message grew, and the number of disciples multiplied tremendously in Jerusalem. A large group of priests obeyed the faith. 	Acts 6:1-7
+
+Stephen’s Arrest
+
+8With grace and power, Stephen was doing great signs among the people. 9Some rose up from The Synagogue of the Freemen, Cyrenians, Alexandrians, Cilicians, and Asians, trying to argue with him; 10but they couldn’t stand up to his wisdom and spirit. 11So they bribed some guys to say, “We heard him blaspheme Moses and God.” 12They stirred up the people, the elders, and the scribes; seized him, and took him to the Sanhedrin. 13False witnesses stood up, “He keeps speaking against this Holy Place and the Law. 14We’ve heard him say Jesus the Nazarene will tear this place down and change the customs Moses delivered.” 15Everybody sitting in the Sanhedrin looked at him intently and saw his face like the face of an angel.
+
+Acts 6:8-15
+
+Stephen’s Defense
+
+7:1The high priest said, “Is that true?”
+
+2He said,
+
+“Brothers and fathers, listen. Our glorious God appeared to Abraham our ancestor in Mesopotamia before he settled in Haran. 3He said, ‘Leave your land and relatives, and go to the land I’ll show you’ [Gen 12:1]. 4He left Chaldea and settled in Haran. After his father died, God moved him to where we live now. 5He didn’t give him an inheritance in it, not even a place to put his foot, but promised ‘to give it to him and his descendants’ [Gen 12:7] even though he didn’t have a child yet. 6God said his descendants would live in a foreign land that would enslave them and abuse them for 400 years. 7‘I’ll judge that nation, and afterwards I’ll bring them out, and they’ll serve me here’ [Gen 15:13-14]. 8He gave them the covenant of circumcision, so Abraham became the father of Isaac and circumcised him the eighth day. Isaac became the father of Jacob, father of the twelve patriarchs. 	Acts 7:1-8
+
+9“The other patriarchs resented Joseph and sold him into Egypt, but God was with him. 10He delivered him from difficult circumstances and gave him grace and wisdom in front of Pharaoh king of Egypt. Pharaoh made him governor over Egypt as well as his own household.
+
+11An especially stressful famine came over Egypt and Canaan, and our ancestors couldn’t find food. 12Jacob heard there was grain in Egypt and sent our fathers first. 13The second time Joseph made himself known to his brothers, and Joseph’s family became acquainted with Pharaoh. 14Joseph called his father Jacob and all his relatives—75 people. 15Jacob went down to Egypt, and he and our ancestors died there. 16They were carried over to Shechem and put in the tomb Abraham had bought from the sons of Hamor in Shechem. 	 Acts 7:9-16
+
+17“As the time came for God’s promise to Abraham, the people multiplied in Egypt 18until ‘another king arose that didn’t know Joseph’ [Ex 1:7-8]. 19He took advantage of our people and abused our ancestors by making them cast out their babies to die.
+
+20“At that time Moses was born, an especially good-looking baby raised for three months in his father’s house. 21When he was exposed, Pharaoh’s daughter picked him up and raised him as her own son. 22He was educated in the wisdom of the Egyptians, capable in word and deed.	Acts 7:17-22
+
+23“When he was 40, it occurred to him to visit his kin, the Israelites. 24When he saw one of them mistreated, he avenged him by striking down the Egyptian. 25He supposed his kin understood that God was going to use him to deliver them, but they didn’t.
+
+26“The next day he showed up as two were fighting and tried to make peace, ‘Men, you’re brothers. Why are you mistreating each other?’
+
+27“The one mistreating his neighbor pushed him away, ‘Who made you a ruler and judge over us? 28You don’t intend to kill me, do you, like you killed the Egyptian yesterday?’ [Ex 2:13-14]
+
+29“At this, Moses fled from Egypt and became an exile in Midian, where he fathered two sons.	Acts 7:23-29
+
+30“After 40 years, ‘an angel appeared to him in the flame of a burning bush in the desert’ [Ex 3:2-3] around Mt. Sinai. 31Moses was amazed at the sight. When he came for a closer look, the LORD spoke, 32‘I’m your ancestors’ God, the God of Abraham, Isaac, and Jacob.’ [Ex 3:6]. Moses began to tremble and didn’t dare to look. 33The LORD said, ‘Take your sandals off; you’re standing on holy ground. 34I’ve certainly seen the abuse of my people in Egypt and have come down to deliver them. Go now; I’m sending you to Egypt”’ [Ex 3:4-10].
+
+35“The Moses they rejected, saying, ‘Who made you a ruler and judge’ [Ex 2:14], God sent as ruler and deliverer by the angel that appeared to him in the bush. 36He led them out and performed wonders and signs in Egypt, the Red Sea, and in the desert for 40 years. 37That’s the Moses who said to the Israelites, ‘From among your people God will raise up a prophet for you like me’ [Deut.18:15]. 38That’s the one who was in the congregation in the desert with the angel that spoke to him on Mt. Sinai and with our ancestors. That’s the one who received life-giving oracles for us. 39That’s the one our forefathers didn’t want to obey, but shoved away, turned in heart back to Egypt, 40and told Aaron, ‘Make us gods to go ahead of us. We don’t know what’s happened to this Moses who brought us out of Egypt’ [Ex 32:1, 23]. 41They made a calf, offered sacrifice to the idol, and celebrated over what they had made with their hands.	 Acts 7:30-41
+
+42“God turned away and gave them up to serve the host of heaven, like scripture says in the Book of the Prophets,
+
+‘You didn’t just offer me slain victims and sacrifices
+
+for 40 years in the wilderness, did you, Israel?
+
+43You carried the tabernacle of Moloch
+
+and the star of Rephan,
+
+images you made to worship.
+
+I’ll carry you away beyond Babylon’ [Amos 5:25-27].	Acts 7:42-43
+
+44“Our ancestors had the tabernacle as a testimony to them in the desert. The One that spoke to Moses directed him to make it according to the design he’d seen. 45That’s what our ancestors brought in with Joshua when they took over the nations God forced out till David’s time. 46David found favor with God and asked to build a house for him. 47Solomon did build a house for God, 48but the Most High doesn’t live in handmade houses. The prophet says,
+
+49‘“The sky’s my throne;
+
+the earth’s my footstool.
+
+What kind of house are you going to build me,” the LORD says?
+
+“Where will I rest?
+
+50Haven’t I made all this?”’ [Is 66:1-2]
+
+51“You stiff-necked and uncircumcised in heart and ears, you always resist the Holy Spirit just like your ancestors did! 52Which prophet didn’t they persecute? They killed the ones that predicted the coming of the Righteous One that you’ve betrayed and murdered, 53you that received the Law ordained by angels and haven’t kept it!”	Acts 7:44-53
+
+54They were enraged and gritted their teeth at him. 55Filled with the Holy Spirit, he looked intently into heaven and saw God’s glory and Jesus standing to his right. 56He said, “I see heaven opened and the Son of Man standing on the right side of God.”
+
+Stephen Martyred
+
+57They shouted out and covered their ears and rushed at him together. 58They threw him out of the city and started stoning him. The witnesses laid their clothes at the feet of a young man called Saul. 59As they stoned Stephen, he called out, “Lord Jesus, receive my spirit!” 60He knelt down and shouted out, “Lord, don’t hold this sin against them!” Then he died. 8:1Saul was approving of his death.               	Acts 7:54-8:1a
+
+Paul Leads a General Persecution
+
+Severe persecution broke out against the church in Jerusalem. Disciples scattered all over Judaea and Samaria—except for the apostles. 2Devout men buried Stephen and mourned him greatly. 3Saul continued to destroy the church, entering every house, dragging men and women to jail.	       Acts 8:1b-3
+
+Philip Preaches to Samaritans
+
+4The ones that scattered went around presenting the message. 5Philip went down to the city of Samaria and presented the Messiah to them. 6The crowds paid attention to what he said and to the signs he did. 7Unclean spirits came out crying loudly, and he healed paralyzed and lame people. 8A lot of joy came to that city.
+
+9A man named Simon had previously practiced sorcery in the city. He amazed the Samaritan nation, claiming to be somebody great. 10Least to greatest looked up to him, “This is The Power of God Called Great.” 11They looked up to him because for a long time he had amazed them with sorcery. 12When they believed Philip’s preaching about God’s kingdom and about Jesus as the Messiah, men and women were baptized. 13Simon himself believed and after his baptism he stayed close to Philip, impressed with his outstanding miraculous signs. 	Acts 8:4-13
+
+Peter and John in Samaria
+
+14When the apostles in Jerusalem heard the Samaritans had accepted God’s message, they sent Peter and John 15to go down and pray for the Samaritans to receive the Holy Spirit. 16The Spirit hadn’t fallen on any of them; they’d only been baptized into the Lord Jesus. 17The apostles laid hands on them, and they received the Holy Spirit.
+
+18When Simon saw that the apostles were giving the Spirit by laying on hands, he offered them money, 19“Give me that authority, too, so whoever I lay my hands on will receive the Spirit.”
+
+20Peter told him,
+
+“Your silver perish with you! You thought you could buy God’s gift with money! 21You don’t have any part in this. Your motives aren’t right in front of God. 22Repent of this wickedness and pray that maybe he’ll forgive your motives. 23As far as I’m concerned, you’re in the bitterness that gall has and the addiction that sinning brings.”
+
+24Simon answered, “Youpl pray to the Lord for me so nothing like that happens to me.”
+
+25When they’d given their testimony and presented the Lord’s message, they headed back to Jerusalem. On the way they delivered the good news to many Samaritan villages. 	Acts 8:14-25
+
+Philip and the Ethiopian Eunuch
+
+26An angel of the LORD told Philip, “Go south to the road from Jerusalem down to Gaza, which is open country.” 27So he went. An Ethiopian, a eunuch, an official, the treasurer for Candace, queen of the Ethiopians. had come to Jerusalem to worship and 28was going back in his carriage, reading the prophet Isaiah.
+
+29The Spirit told Philip, “Make contact with that carriage.”
+
+30Philip ran toward it and heard him reading Isaiah, “Do you understand what you’re reading?”
+
+31“How can I unless somebody explains it me?” He invited Philip to come up and sit with him in the carriage. 32This is the passage he was reading:
+
+“They led him like a sheep to slaughter;
+
+like a lamb silent in front of its shearers,
+
+he didn’t open his mouth.
+
+33In his humble condition he received no justice.
+
+Who can speak of his descendants?
+
+his life has been taken from the earth?” [Is 53:7-8 LXX] Acts 8:26-33
+
+34The eunuch asked, “Who’s the prophet talking about, himself or somebody else?” 35Philip started at that scripture and presented to him the good news about Jesus.
+
+36As they rode along, they came to some water, the eunuch said, “Here’s some water; why can’t I be baptized?” [37]ms 38He stopped the carriage, and they both went down into the water, and Philip baptized him. 39When they came up out of the water, the Spirit of the LORD caught Philip away, and the eunuch never saw him again. He went on his way happy. 40Philip showed up in Azotus. As he traveled, he delivered the good news to towns all along the way to Caesarea. 	Acts 8:34-40
+
+Saul’s Conversion
+
+9:1Saul was still making murderous threats against the Lord’s disciples. He went to the high priest 2and asked for letters to synagogues in Damascus so, if he found any belonging to The Way—men or women, he could bring them bound to Jerusalem. 3As he was getting close to Damascus, all of a sudden, a light from the sky shined around him. 4He fell to the ground and heard a voice,
+
+“Saul, Saul, why are you persecuting me?”
+
+5He said, “Who are you, Sir?”
+
+“I’m Jesus that you’re persecuting. 6Get up and go into the city. Someone will tell you what to do.”
+
+7The men traveling with him stood speechless. They heard the voice but didn’t see anyone. 8Saul got up; and when he opened his eyes, he couldn’t see. They took him by the hand into Damascus. 9For three days he couldn’t see and didn’t eat or drink anything.  	 Acts 9:1-9
+
+10There was a disciple in Damascus named Ananias. The Lord said to him, “Ananias.”
+
+“Yes, Lord.”
+
+11“Go to Straight Street and ask for Saul of Tarsus in Judas’ house. He’s praying 12and has seen a man named Ananias coming in and laying hands on him so he could see.”
+
+13Ananias answered, “Lord, I’ve heard from lots of people how many evil things he’s done in Jerusalem. 14He has authority from the chief priests to bind everybody here that calls on you.”
+
+15The Lord said, “Go on; I’ve chosen him to carry my name to Gentiles, kings, and Israelites. 16I’ll show him how much he has to suffer for me.”
+
+17Ananias went into Judas’ house, laid hands on him, and said, “Brother Saul, the Lord Jesus that appeared to you on the road has sent me so you can see again and be filled with the Holy Spirit.” 18Immediately scales, as it were, fell from his eyes, and he could see again. He got up and was baptized. 19After he ate, he regained his strength. 	Acts 9:10-19a
+
+Saul Preaches in Damascus
+
+He was with disciples in Damascus for some days. 20Right away in the synagogues, he started presenting Jesus as God’s Son. 21The ones that heard him were amazed, “Isn’t he the one that executed people in Jerusalem for calling on this Name and has come here to lead them bound to the chief priests?” 22Paul grew stronger and confounded the Jews in Damascus, proving that this was the Messiah.
+
+23After a while the Jews plotted to kill him, 24but he found out about it. They were watching the gates day and night. 25During the night his disciples lowered him in a big basket through an opening in the wall.	Acts 9:19b-25
+
+Jewish Plot Against Saul
+
+26When he got back to Jerusalem, he tried to associate with the disciples, but they were afraid of him. They didn’t believe he’d become a disciple. 27But Barnabas took him to the apostles, and told them how he’d seen the Lord, how the Lord had spoken to him, how he’d presented the Lord boldly in Damascus. 28Saul was moving freely among them in Jerusalem, presenting the Lord boldly. 29He was disputing with the Hellenistic Jews, who were trying to get hold of him to kill him. 30But the brothers found out, took him down to Caesarea, and sent him to Tarsus. 31Then, all over Judaea, Galilee, and Samaria the church had peace and multiplied. They were living with respect for the Lord and comfort from the Holy Spirit.	Acts 9:26-31
+
+Peter Heals Aeneas
+
+32As Peter circulated through the region, he went down to the saints in Lydda. 33He found a man there named Aeneas, who’d been confined to for bed eight years paralyzed. 34Peter said, “Aeneas, Jesus the Messiah is healing you. Get up and make your bed.” Immediately he stood up. 35Everyone in Lydda and Sharon saw him, and turned to the Lord.
+
+Peter Resurrects Dorcas
+
+36In Joppa a disciple named Tabitha (Dorcas) was always doing good things for people and giving gifts to those in need. 37She got sick and died. They bathed her and laid her in an upstairs room. 38Lydda was close to Joppa, and the disciples heard that Peter was there. They sent two men, “Come right away.” 39Peter went with them. When he got there, they took him upstairs. The widows stood beside him mourning and showing him shirts and other clothes Dorcas had made for them. 40Peter had them step out; he knelt and prayed, and turned to the body, “Tabitha, get up.”
+
+When she opened her eyes and saw Peter, she sat up. 41He gave her his hand and raised her up. He called the saints and widows and presented her alive. 42The news spread all over Joppa, and many came to believe in the Lord. 43For some time, Peter stayed in Joppa with Simon the tanner. 	Acts 9:32-43
+
+The Conversion of Cornelius
+
+10:1A centurion in Caesarea named Cornelius, from the Italian cohort, 2was a devout God-fearer along with his household. He gave considerable charitable gifts to the people and prayed to God constantly. 3In a vision about 3 o’clock, he saw an angel of God coming in and saying, “Cornelius.”
+
+4He looked at him and was afraid, “Yes, Sir?”
+
+“Your prayers and charitable gifts have come up as a memorial to God. 5Send some men to Joppa and summon Simon called Peter. 6He’s staying with Simon a tanner whose house is by the sea.” 7When the angel left, he called two household servants—his personal assistants—and a devout soldier. 8He went through everything with them and sent them to Joppa.  	Acts 10:1-8
+
+9The next day, as they were getting close to the town, Peter went up on the housetop about noon to pray. 10He was getting hungry. While they were fixing lunch, he fell into a trance. 11He watched the sky open up and something like a big sheet was let down to earth by four corners. 12It held reptiles, birds, and four-footed animals.
+
+13A voice said, “Kill and eat them, Peter.”
+
+14“No, Sir; I’ve never eaten anything unclean.”
+
+15The voice spoke again, “Don’t you consider unclean what God has cleansed.”
+
+16That happened three times, and the vessel went back up into the sky. 	      Acts 10:9-16
+
+17While Peter was wondering what the vision could possibly mean, Cornelius’ men had asked around for Simon’s house and were standing at the gate. 18They called out, asking if Simon called Peter was staying there.
+
+19While he kept trying to figure out the vision, the Spirit said, “Three men are looking for you. 20Go down and go with them without scruples. I’ve sent them.”
+
+21He went down and said, “I’m the one you’re looking for. Why have you come?”
+
+22They said, “Cornelius is a centurion, a God-fearer with a good reputation in the Jewish nation. A holy angel directed him to invite you to his house to hear what you have to say.” 23So he invited them in and put them up for the night. The next day he went with them, and some brothers from Joppa went along. 	Acts 10:17-23
+
+24On the second day, he came to Caesarea. Cornelius was expecting them and had called his relatives and close friends. 25When Peter came in, Cornelius met him and fell down to him in homage. 26Peter raised him up, “Please stand up; I’m just a man too.” 27As they talked, Peter went in and found a large group.
+
+28He told them, “You know a Jew’s not supposed to associate at home with a foreigner, but God has shown me not to consider anybody ceremonially unclean. 29So without objecting, I came when you called. Why did you send for me?”
+
+30Cornelius said,
+
+“Four days ago about this time, I was observing 3 o’clock prayer in my house. A man stood in front of me in bright clothes 31and said, ‘Cornelius, God has heard your prayer and remembered your charitable gifts. 32Send to Joppa for Simon called Peter. He’s staying with Simon, a tanner next to the sea. 33Right away I sent for you. Thank you for coming. We’re here in front of God to hear what the Lord has commanded you.”	Acts 10:24-33
+
+34Peter said,
+
+“I perceive that God doesn’t show favoritism with people. 35But, in every nation he accepts people that respect him and live right. 36He sent the message to the people of Israel, delivering good news about peace through Jesus the Messiah, who is Lord of all. 37You know what took place all over Judaea, beginning in Galilee after the baptism that John preached. 38God anointed Jesus the Nazarene with the Holy Spirit and power. He went around doing good and healing people the devil had oppressed, because God was with him. 39-40We witnessed what he did in the country of the Jews and in Jerusalem. On the third day God raised up the One they killed on a tree and presented him clearly, 41not to everybody, but to witnesses he’d previously chosen—to us who ate with him after his resurrection. 42He sent us to tell the people that he’s the One God appointed to judge the living and the dead. 43The prophets show that through him everybody who trusts in him has his sins forgiven.”	 Acts 10:34-43
+
+Gentiles Receive the Spirit
+
+44While Peter was speaking, the Holy Spirit fell on the audience. 45The believers from the Circumcision who had come with Peter were surprised that God poured out the Holy Spirit on Gentiles too. 46They heard them speak in languages and praise God.
+
+Peter responded, 47“Nobody can forbid water, can they, for baptizing these who have received the Holy Spirit like we did?” 48He commanded to baptize them into Jesus the Messiah.
+
+They asked him to stay for several days. 	Acts 10:44-48
+
+Peter Reports to Jerusalem
+
+11:1The apostles and believers in Judaea heard that Gentiles had accepted God’s message. 2When Peter went up to Jerusalem, members of the Circumcision took issue with him, 3“You went in and ate with uncircumcised men.”
+
+4Peter explained step by step,
+
+5“I was in Joppa praying when I saw a vision in a trance, something like a big sheet came down from the sky by four corners. It came to me, 6and I stared into it and saw four-footed animals, wild animals, reptiles, and birds. 7I heard a voice, ‘Kill and eat them, Peter.’
+
+8“I said, ‘No, Sir; I’ve never eaten anything unclean.’
+
+9“The voice spoke a second time out of the sky, ‘Don’t you consider unclean what God has cleansed.’ 10That happened three times, and everything went back up into the sky.
+
+11“Right then, three men from Caesarea stood at the house where we were staying. 12The Spirit told me to go with them without scruples. These six brothers went along and entered the man’s house. 13He told us how he’d seen an angel standing in his house, saying, ‘Send to Joppa for Simon called Peter. 14He’ll tell you what will save you and your household.’
+
+15“While I was speaking, the Holy Spirit fell on them like on us in the beginning. 16I remembered what the Lord had said, ‘John immersed in water, but you’ll be “immersed” in the Holy Spirit.’ 17If God gave them the same gift he gave us when we trusted in the Lord Jesus the Messiah (‘Christ’), who was I to oppose God?”
+
+18When they heard that, they backed off and praised God, “Then God has also offered Gentiles repentance to life.”	Acts 11:1-18
+
+The Good News in Antioch
+
+19The ones scattered by the ordeal surrounding Stephen traveled as far as Phoenicia, Cyprus, and Antioch, speaking the message just to Jews. 20But some Cypriots and Cyrenians went to Antioch and started presenting the Lord Jesus to Greeks as well. 21The Lord was with them, and a large number turned to the Lord. 22The church in Jerusalem heard about them and sent Barnabas to Antioch. 23When he got there and saw the evidence of God’s grace, he was glad and encouraged them with heartfelt purpose to remain with the Lord. 24He was a good man, full of the Holy Spirit and faith; and a significant number joined the Lord. 25He went to Tarsus to look for Paul. 26When he found him, he brought him to Antioch. For a year they gathered in the church and taught a sizable crowd. They called the disciples Christians first in Antioch.
+
+27At that time, prophets from Jerusalem came down to Antioch. 28One, named Agabus, signified by the Spirit that a severe famine would come over the whole Roman empire, which took place in the reign of Claudius. 29The believers, as they could, made up their mind to send relief to the Christians in Jerusalem. 30They sent it to the elders by Barnabas and Saul.
+
+Acts 11:19-30
+
+Herod Kills James, Jails Peter
+
+12:1About that time, King Herod Agrippa I reached out to abuse some in the church. 2He killed James, John’s brother, with a sword. 3When he saw the Jews liked that, he arrested Peter too (during the days of Unleavened Bread). 4He put him in jail, with four detachments of four soldiers to guard him. After Passover he meant to bring him out to the people, 5but the church prayed sincerely to God about him.	Acts 12:1-5
+
+6The night before Herod meant to bring him out, Peter was sleeping between two soldiers, bound with two chains. There were guards at the door, keeping the jail. 7An angel of the LORD stood beside him, and a light glowed in the cell. He tapped Peter on the shoulder to wake him up, “Get up quick!” The chains fell off his hands.
+
+Peter Delivered from Jail
+
+8“Fasten your belt and put your sandals on. Put your cloak on and follow me.”
+
+9He followed him, not knowing it was real; he thought he was dreaming. 10They went through the first and second guard posts and came to the iron gate into the city. It swung open on its own, and they went out and passed down one street. Then the angel disappeared. 	Acts 12:6-10
+
+11When Peter came to himself, he said, “Now I’m sure the LORD sent his angel to deliver me from Herod and the Jews.”
+
+12After he came to grips with what happened, he went to the house of Mary, John Mark’s mother, where a large number had gathered to pray. 13He knocked on the door in the gate, and a girl named Rhoda came to answer it. 14She recognized Peter’s voice. Instead of letting him in, she ran excited to tell them that he was standing at the gate.
+
+15They said, “You’re out of your mind.”
+
+But she insisted.
+
+They started saying, “It must be his angel.”
+
+16Peter kept knocking; and when they opened the door, they were surprised to see him.
+
+17He motioned for them to hold it down and recounted how the LORD had led him out of the jail, “Tell James and the brothers what’s happened.” He left and went somewhere else.
+
+18The next morning there was a huge stir among the soldiers over what had become of Peter. 19When Herod looked for him and didn’t find him, he examined the guards and commanded to lead them off for execution. He went down from Judaea to Caesarea and spent some time there.	 Acts 12:11-19
+
+The Death of Herod
+
+20He was mad at the residents of Tyre and Sidon. As a group they came to him and befriended Blastus, who was in charge of the king’s sleeping quarters. They asked for peace because his country supplied their food. 21On a set day, Herod dressed in royal garb, sat on the judgment seat, and gave an oration.
+
+22The public assembly shouted, “It’s the voice of a god, not a man!”
+
+23Immediately an angel of the LORD struck him because he accepted the credit and didn’t give it to God. He got worms and died. 24God’s message grew and multiplied. 25Barnabas and Saul went back from Jerusalem when they’d finished their service and took John Mark with them.  	          Acts 12:20-25
+
+Barnabas and Saul Commissioned
+
+13:1In the church at Antioch, there were prophets and teachers: Barnabas; Simeon called Niger; Lucius the Cyrenian; Manaen, brought up with Herod the tetraarch; and Saul. 2As they served the Lord and fasted, the Holy Spirit said, “Set Barnabas and Saul apart to the work I’ve called them for.” 3They fasted and prayed, laid hands on them, and sent them off.	Acts 13:1-3
+
+Paul and Barnabas in Cyprus
+
+4So sent by the Holy Spirit, and they went down to Seleucia and sailed to Cyprus. 5At Salamis they delivered God’s message in the synagogues of the Jews, with Mark as their assistant. 6When they’d gone the length of the island, they came upon a sorcerer, a Jewish false prophet named Barjesus. 7He was with the proconsul Sergius Paullus, an intelligent man, who called for Barnabas and Saul, and wanted to hear God’s message. 8Elymas (“Sorcerer”) opposed them and tried to turn the proconsul away from the faith.
+
+9But Saul, or Paul, filled with the Holy Spirit, looked him in the eye 10and said, “Deceitful, unscrupulousness son of the devil, enemy of goodness, you continually pervert the upright ways of God. 11Now, his hand is on you. You’ll be so blind for a while you can’t see the sun.” Immediately darkness fell on him, and he went around trying to find someone to lead him by the hand. 12When the proconsul saw what happened, he believed, astonished at the Lord’s teaching. 	Acts 13:4-12
+
+Paul and Barnabas in Antioch of Pisidia
+
+13The ones that were with Paul sailed from Paphos to Perga in Pamphylia. John left and went back to Jerusalem. 14From Perga, they arrived at Antioch in Pisidia. On the Sabbath they went into the synagogue and sat down. 15After the reading of the Law and the Prophets, the synagogue rulers sent to them, “Brothers, if you have something encouraging to say to the people, go ahead.”
+
+16Paul stood up and motioned with his hand,
+
+“Israelites and God-fearers, 17our God chose our ancestors and raised them up while they were living as foreigners in Egypt. Afterwards he brought them out of there in stupendous fashion 18and put up with them for 40 years in the desert. 19In Canaan he destroyed 7 nations and gave their land to his people as an inheritance—20a process that covered about 450 years. After that, he gave them judges till Samuel the prophet. 21When they asked for a king, he gave them Saul son of Kish from the tribe of Benjamin for 40 years.  22He removed him and raised up David to be king, ‘I’ve found David son of Jesse, a man after my own heart, who’ll do my will’ [1 Sam 13:14; Ps 89:20]. 23As he’d promised, God raised up from David’s descendants a savior, Jesus. 24Ahead of him John prepared for his coming by presenting to Israel a baptism of repentance. 25As John was carrying out his role, he said, ‘What do you suppose I am? I’m not the One, but after me One is coming whose sandals I’m not worthy to unfasten.’	Acts 13:13-25
+
+26“Brothers, members of Abraham’s nation and God-fearers among you, God has sent you the message about this salvation. 27Those living in Jerusalem and their rulers didn’t recognize him and, by condemning him, fulfilled the prophets they read every Sabbath. 28Although they didn’t find any capital offence, they petitioned Pilate to crucify him. 29When they’d fulfilled everything scripture said about him, they took him down from the tree and put him in a tomb. 30But God resurrected him. 31For many days, he appeared to the ones that came up with him from Galilee to Jerusalem. 32We’re bringing you the good news that the promise God made to our ancestors 33he’s fulfilled to us by resurrecting Jesus. Scripture says in Psalm 2,
+
+‘You’re my Son;
+
+I’ve inaugurated you today’ [Ps 2:7].
+
+34So he didn’t decay, like it says,
+
+‘I’ll give you David’s sure blessings’ [Is 55:3 LXX];
+
+35and in another psalm,
+
+‘You won’t let your Holy One decay’ [Ps 16:10 LXX].	Acts 13:26-35
+
+36“When David had served God’s will in his own time, he died, was buried with his ancestors, and decayed. 37But the One God resurrected didn’t decay. 38Know, then, that through him we’re offering forgiveness of sins—something the Law of Moses couldn’t do. 39The Messiah justifies everybody that trusts in him. 40Be careful so what the prophets said won’t apply to you,
+
+41‘Look, you despisers;
+
+be amazed and perish.
+
+I’ll do something in your day you wouldn’t believe
+
+if somebody explained it to you’” [Hab 1:5 LXX].
+
+Acts 13:36-41
+
+Paul Asked to Preach Again
+
+42As Paul and Barnabas were leaving, the synagogue rulers invited them to deliver that message the next Sabbath. 43After the synagogue dismissed, lots of Jews and devout proselytes followed Paul and Barnabas, who urged them to continue in God’s grace.
+
+44The following Sabbath nearly the whole city came to hear the Lord’s message. 45When the Jews saw the crowd, they got jealous and contradicted Paul and slandered what he presented. 46Paul and Barnabas spoke out boldly, “We needed to deliver God’s message to you first. Since you’re rejecting it and consider yourselves not worthy of eternal life, we’re turning to the Gentiles. 47That’s what the LORD commanded us,
+
+‘I’ve made you a light for the Gentiles
+
+so you can save the whole world’” [Is 49:6].
+
+48When the Gentiles heard that, they praised the Lord’s message, and as many as were appointed to eternal life believed. 49His message spread out through the region. 50But the Jews stirred up devout, respected women and prominent men of the city, and instigated persecution against Paul and Barnabas to force them out of their territory. 51They shook the dust off their feet at them and went to Iconium. 52The disciples were full of joy and the Holy Spirit.	 Acts 13:42-52
+
+Paul at Iconium
+
+14:1At Iconium they went into the Jews’ synagogue as usual and spoke so convincingly that a great number of Jews and Greeks believed. 2But the disbelieving Jews stirred up the Gentiles and poisoned their minds against the Christians. 3For a good while, they stayed and kept speaking boldly for the Lord, and he confirmed his message about grace by providing signs and wonders they performed. 4The city was divided, some with the Jews, some with the apostles. 5The Gentiles and Jews instigated an attempt to mistreat them and stone them. 6When the apostles found out, they hurried to Lycaonia to the cities Lystra and Derbe, as well as the surrounding area. 7They were delivering the good news there as well.	Acts 14:1-7
+
+Healing a Crippled Man
+
+8At Lystra a man crippled in his feet from birth, had never walked. 9He was listening to Paul speak. Paul looked at him and saw he had faith to be cured. 10He shouted, “Stand up!” He jumped up and started walking.
+
+11When the crowd saw what Paul did, they shouted out in Lycaonian, “Gods have come down to us in human form!” 12They started calling Barnabas “Zeus” and Paul “Hermes” because Paul did most of the speaking. 13The priest of Zeus Propolis took bulls decked with wreaths of flowers to the gates and wanted to offer sacrifice with the crowd. 14When the apostles Barnabas and Paul heard about it, they tore their clothes and rushed into the crowd, shouting,
+
+15“Why are you doing this? We’re normal men like you, bringing you good news to turn away from these meaningless things to the living God who made earth, sky, and sea, and everything in them. 16In the past, he let nations go their own ways, 17but left evidence of himself by doing good, giving you rain and crops, filling you with food and happiness.”
+
+18With that, he barely stopped the crowds from offering sacrifices to them.    	Acts 14:8-18
+
+Paul Stoned at Lystra
+
+19Then Jews from Antioch and Iconium came and persuaded the crowds to stone Paul. They dragged him out of the city, thinking he was dead. 20But with the disciples standing around him, he got up and went back into the city. The next day he left for Derbe with Barnabas.
+
+21When they’d presented the good news in that city and made a significant number of disciples, they went back to Lystra, Iconium, and Antioch of Pisidia. 22They were strengthening the disciples and encouraging them to continue in the faith and to enter God’s kingdom through many difficulties. 23When they’d appointed elders in every city, they prayed and fasted, and commended them to the Lord they’d trusted in.
+
+Return to Antioch of Syria
+
+24They passed through Pisidia to Pamphylia. 25After they’d presented the message in Perga, they went down to Attalia 26and sailed back to Antioch of Syria, where they’d been committed to God’s grace for the work they’d done. 27When they arrived and assembled the church, they recounted what God had done with them and how he’d opened a door of faith for the Gentiles. 28They stayed there a good while with the disciples. 	Acts 14:19-28
+
+The Conference on Circumcision
+
+15:1Some men came down from Jerusalem and started teaching the believers, “Unless you’re circumcised according to the custom of Moses, you can’t be saved.” 2Paul and Barnabas strongly opposed them. The believers appointed Paul, Barnabas, and some others to go up to the apostles and elders in Jerusalem about this controversy. 3The church sent them forward through Phoenicia and Samaria, reporting extensively on Gentile conversions and bringing a great deal of excitement to those Christians.
+
+4When they got to Jerusalem, the church, apostles, and elders welcomed them; and they recounted what God had done with them. 5But some Pharisees that believed got up to say they needed to circumcise them and charge them to keep the Law of Moses.   	 Acts 15:1-5
+
+6The apostles and elders got together to look into the issue. 7After considerable discussion, Peter stood up,
+
+“Brothers, you know that some time ago God decided Gentiles would hear the good news from me and believe. 8God knows people’s hearts and testified to them by giving them the Holy Spirit like he did to us Jews. 9He didn’t make any distinction between them and us. He purified their hearts by trust. 10So why test God now by putting a yoke on the disciples’ neck that our ancestors and we couldn’t bear? 11We believe that the grace of the Lord Jesus has saved us the same way it has them.”	 Acts 15:6-11
+
+12The assembly remained quiet and listened to Barnabas and Paul explain what signs and wonders God had done through them among the Gentiles.
+
+13Then James responded,
+
+14“Simon has recounted how God first took people out of the Gentiles for himself. 15That fits what the prophets have written,
+
+16‘“After that, I’ll return
+
+and rebuild David’s fallen tabernacle.
+
+I’ll rebuild it and set it up.
+
+I’ll do that so
+
+17the rest of mankind can seek the LORD,
+
+that is, the Gentiles who wear my name,”
+
+says the LORD that’s doing this’ [Amos 9:11-12 mainly < LXX],
+
+18who is known from of old.’
+
+19So my judgment is that we stop troubling Gentiles who turn to God, 20but write to them to abstain from defilements with idols, sexual immorality, things strangled, and blood; 21because for generations people have preached Moses in every city and read about him in the synagogues every Sabbath.” 	Acts 15:12-21
+
+The Conference Answers
+
+22The apostles, elders, and the whole church thought it would be good to choose men to send to Antioch with Paul and Barnabas: Silas and Judas called Barsabbas, leaders among the Jewish Christians. 23They wrote,
+
+“Apostles and elders, to Gentiles in Antioch, Syria, and Cilicia. Greetings. 24We’ve heard that some have gone out from us on their own and upset you with their message. 25We met and considered it good to send select men with our dearly loved Barnabas and Paul, 26who’ve risked their lives for our Lord Jesus the Messiah. 27So we’ve sent Judas and Silas to tell you the same thing orally. 28The Holy Spirit and we considered it good not to lay any burden on you but this: 29abstain from things sacrificed to idols, from blood and things strangled, and from sexual immorality. If you keep yourselves from those, you’ll do well. Goodbye.”	 Acts 15:22-29
+
+30The ones they sent went down to Antioch, gathered the crowd, and delivered the letter. 31They were elated over the consolation. 32Judas and Silas, being prophets, confirmed the converts with additional presentation. 33When they’d spent some time, the Christians there let them go back in peace. [34]ms 35Paul and Barnabas stayed, teaching and preaching the Lord’s message along with a host of others.     	    Acts 15:30-35
+
+The Parting of Paul and Barnabas
+
+36After a time Paul said to Barnabas, “Let’s go back to the towns and cities where we presented the Lord’s message and see how the converts are doing.” 37Barnabas wanted to take John Mark along, 38but Paul didn’t think it was wise to take him because he’d deserted them at Pamphylia instead of going on with them to the work. 39Such a serious disagreement arose that they separated. Barnabas took Mark and sailed to Cyprus; 40Paul chose Silas and went out, commended to God’s grace. 41Paul went through Syria and Cilicia, strengthening the churches.
+
+Acts 15:36-41
+
+Paul Continues with the Second Tour
+
+16:1He arrived at Derbe and Lystra. A disciple was there named Timothy, son of a Greek father and a Jewess who believed. 2The Christians in Lystra and Iconium spoke well of him. 3Paul wanted him to go with him; so he circumcised him because of the Jews in the region; everybody knew his father was a Greek. 4As they went through the cities, they delivered the decrees to keep that the apostles and elders in Jerusalem had determined. 5So the churches were growing in faith and number every day. 	Acts 16:1-5
+
+Paul’s Vision About Macedonia
+
+6They went through Galatia and Phrygia, but the Holy Spirit kept them from presenting the message in Asia. 7They came up to the border of Mysia and tried to go into Bithynia, but the Spirit of Jesus didn’t let them. 8They went on past Mysia down to Troas. 9During the night Paul had a vision—a Macedonian man standing and urging him, “Come over to Macedonia and help us.” 10When he saw the vision, we planned right away to go to Macedonia because we concluded that God had called us to evangelize them. 	Acts 16:6-10
+
+Paul and Silas at Philippi
+
+11We sailed from Troas directly to Samothrace and the next day to Neapolis. 12We traveled from there to Philippi, the main city in that district of Macedonia, and a Roman colony. We spent several days there. 13On the Sabbath we went outside the gate beside the river, where we supposed there was a place of prayer. We sat down and talked to the women who gathered. 14A woman named Lydia was listening, from the city of Thyatira, a businesswoman dealing in purple fabrics, a God-fearer. The Lord opened her heart to what Paul was saying. 15When she and her household were baptized, she invited us, “If you consider me faithful to the Lord, stay at my house.”	    Acts 16:11-15
+
+16As we were going to the place of prayer, a servant girl with a spirit of divination met us. Her handlers were profiting from her fortunetelling. 17She dogged Paul and us, crying out, “These men serve God Most High. They’re telling you how to be saved.” 18She did that for days on end. Paul was really annoyed and turned to the spirit, “In the name of Jesus the Messiah, come out of her.” It came out that hour.
+
+Paul and Silas Beaten and Jailed
+
+19When her handlers saw their prospect for profit disappear, they grabbed Paul and Silas and dragged them to the magistrates in the marketplace, 20“These fellows are Jews. They’re causing trouble in our city, 21promoting customs that aren’t legal for us Romans to observe.” 22The crowd joined the attack, and the soldiers tore their clothes off and commanded to beat them with rods. 23When they’d laid many blows on them, they put them in jail and charged the jailor to keep them secure. 24So he put them in the inner jail and fastened their feet in stocks.
+
+Acts 16:16-24
+
+The Jailor’s Conversion
+
+25About midnight Paul and Silas were praying and singing hymns to God, and the inmates were listening. 26Suddenly a severe earthquake shook the foundations of the jail. The jail doors came open, and everybody’s bonds came loose. 27The jailor woke up, saw the doors of the jail open, and drew his sword to kill himself because he assumed the inmates had escaped. 28But Paul yelled, “Don’t harm yourself; we’re all here!” 29He asked for a light, rushed in, trembling with fear, and fell down to Paul and Silas. 30He brought them outside and said, “What do I need to do to be saved?”
+
+31They said, “Trustsg in the Lord Jesus, and you and your family will be saved.”
+
+32They spoke the Lord’s message to him and everybody in his family. 33That hour of the night he washed their wounds, and he and his whole family were baptized right then. 34He took them up to his house, set the table, and rejoiced with his family, having trustedpl in God.
+
+Acts 16:25-34
+
+Paul Leaves Philippi
+
+35At daylight, the magistrates sent the police to release Paul and Silas.
+
+36The jailor conveyed that to Paul, “The magistrates have sent word to release you. Now, have a good day.”
+
+37But Paul told them, “They beat us in public without a hearing—being Roman citizens—and threw us in jail. Now they send us away secretly? Oh no! They need to lead us out themselves.”
+
+38The police reported that to the magistrates. They were afraid when they heard they were Roman citizens. 39They came and appealed to them, brought them out, and asked them to leave the city. 40Paul and Silas left the jail and went to Lydia’s house. When they’d met with the church and encouraged them, they left.	 Acts 16:35-40
+
+Paul in Thessalonica
+
+17:1They traveled through Amphipolis and Apollonia to Thessalonica. A Jewish synagogue was there. 2As usual, Paul went in and for three Sabbaths reasoned with them from the scriptures. 3He showed from predictions that the Messiah had to suffer and arise from the dead, and that, “This Jesus I’m presenting to you is the Messiah.”
+
+4Some were persuaded and joined Paul and Silas—a good number of God-fearers and prominent women. 5The Jews got jealous and took some riffraff from the marketplace to form a mob. They set the city in an uproar and assaulted Jason’s house, intending to bring Paul and Silas out to the public assembly. 6When they didn’t find them, they dragged Jason and some other converts to the city authorities, shouting, “These insurgents against the empire elsewhere have come here too. 7Jason has welcomed them. They act contrary to Caesar’s decrees, saying there’s another king—Jesus.” 8That stirred up the crowd and the authorities, 9who made Jason and the rest post bond, then released them. 	Acts 17:1-9
+
+Paul in Berea
+
+10That night their converts sent Paul and Silas to Berea. When they arrived, they went into the Jews’ synagogue. 11These Jews were more open-minded than the ones in Thessalonica. They welcomed the message and examined the scriptures daily to check these things out. 12Many of them believed, together with quite a few prominent Greek men and women.
+
+13When Jews from Thessalonica heard Paul was presenting God’s message in Berea, they went there, too, and upset the crowds. 14Right away the converts sent Paul away as far as the sea, but Silas and Timothy stayed. 15The ones that went with Paul conducted him to Athens and brought back word for Silas and Timothy to join him as soon as they could.   	Acts 17:10-15
+
+Paul Goes to Athens
+
+16While Paul waited for them in Athens, seeing the city full of idols upset him. 17He reasoned with the Jews and God-fearers in the synagogues and every day with people in the marketplace. 18Some Epicurean and Stoic philosophers were bantering with him, “What’s this scavenger trying to say?” Others commented, “He seems to be presenting strange gods” (because he was presenting Jesus and the resurrection).
+
+19They escorted him to the Areopagus, “Can we know what this new teaching is you’re talking about? 20You’re bringing some strange things to us. We want to know what they mean.” (21Athenians and foreign visitors typically spent their time telling or hearing something new.)
+
+Acts 17:16-21
+
+Paul’s Sermon on the Areopagus
+
+22Paul stood up in the Areopagus and said,
+
+“Athenians, I observe that you’re quite religious in every way. 23As I was looking at your objects of worship, I ran across an altar inscribed, ‘To the Unknown God.’ What I’m presenting to you then is what you worship without knowing him. 24The God who made the world and everything in it, is LORD of earth and sky; 25so he doesn’t live in handmade sanctuaries. People don’t serve him as if he needs anything; he gives everybody life, breath, and everything. 26He made the whole human race with one nature to live all over the world, and appointed their times when and boundaries where they live. 27People are to look for God if by chance they grope around and find him, though he’s not far from any of us.  	  Acts 17:22-27
+
+28We live and move and exist in him, like some of your poets have said,
+
+‘We’re his offspring.’
+
+29Since we’re God’s offspring, we shouldn’t think of deity as like gold or silver or stone or an image made from human art and imagination. 30God has overlooked the times of ignorance, but now he tells people everywhere to repent. 31So he has established a time to judge the world in regard to goodness as measured by the man he’s appointed. He’s given assurance to everybody by resurrecting him.”
+
+32When they heard “resurrection,” some made fun of it; others said, “We’ll hear you again about this.” 33So Paul left them. 34Some listeners joined him and believed. Among them was Dionysius the Areopagite, a woman named Damaris, and some others.  	Acts 17:28-34
+
+Paul’s Ministry in Corinth
+
+18:1After that, he left Athens for Corinth. 2He found a Jew named Aquila, a native from Pontus, who was recently displaced from Italy with his wife Priscilla. Claudius had ordered all Jews to leave Rome. Paul went to them. 3Since he had the same trade, he stayed with them and worked because they were leatherworkers. 4He reasoned in the synagogue every Sabbath in an effort to persuade Jews and Greeks.	Acts 18:1-4
+
+5When Silas and Timothy came down from Macedonia, Paul started devoting himself to the message. He was solemnly telling the Jews that Jesus was the Messiah. 6When they opposed and slandered him, he shook the dust from his clothes at them, “Your blood’s on your own heads; I’m innocent. From now on I’m going to the Gentiles.”
+
+7He moved from there to the house of Titius Justus, a God-fearer whose house was next to the synagogue. 8Crispus, the synagogue ruler, believed in the Lord along with his household. Many Corinthians heard and believed and were baptized. 9At night the Lord told Paul in a vision, “Don’t be afraid. Speak out 10because I’m with you; nobody will harm you. I have lots of people in this city.” 11For a year and a half he settled there and taught God’s message.	Acts 18:5-11
+
+Paul Before Gallio
+
+12While Gallio was proconsul of Achaia, the Jews as a group rose up against Paul and took him to the judgment seat, 13“This man is persuading people to worship God contrary to our Law.”
+
+14Paul was about to speak up when Gallio told them, “Jews, if it were some crime or fraud he committed, I’d have a reason to hear your case. 15But if there are questions about words, names, and your Law, see to it yourselves. I’m not willing to render judgment on such things.” 16He made them leave the judgment seat. 17The bystanders grabbed Sosthenes, the synagogue ruler, and started beating him in front of the judgment seat. Gallio didn’t concern himself with any of that.	Acts 18:12-17
+
+Paul Returns to Antioch
+
+18Paul stayed quite a few more days, said goodbye to the converts, and set sail for Syria with Priscilla and Aquila. He cut his hair in Cenchrea to keep a vow. 19They arrived at Ephesus, and Paul left them there while he went into the synagogue and dialogued with the Jews. 20Although they asked him to stay longer, he declined, 21“I’ll come back, God willing”; and sailed from Ephesus.
+
+22When he landed at Caesarea, he went up and greeted the church and went down to Antioch. 23After he spent some time there, he left and passed through Galatia and Phrygia, strengthening the disciples.	Acts 18:18-23
+
+Apollos Preaches at Ephesus
+
+24A Jew named Apollos, born in Alexandria, an eloquent speaker, arrived at Ephesus. He knew the scripture well. 25He’d been orally instructed in the way of the Lord. An enthusiastic man, he was teaching accurately things about Jesus, but he only knew about John’s baptism. 26He began to speak boldly in the synagogue. When Priscilla and Aquila heard him, they took him aside and presented the way of God to him more completely. 27When he wanted to cross over to Greece, the disciples encouraged him and wrote letters to them to welcome him. When he arrived, he greatly helped the ones that believed by God’s grace. 28He powerfully refuted the Jews in public and showed by the scriptures that Jesus was the Messiah. 	Acts 18:24-28
+
+Paul Enters Ephesus
+
+19:1While Apollos was in Corinth, Paul took the route through the higher country, and came down to Ephesus and found some disciples. 2He said, “Did you receive the Holy Spirit when you believed?”
+
+They said, “We’ve not even heard if the Holy Spirit has come.”
+
+3“So, what were you baptized into?”
+
+“John’s baptism.”
+
+4Paul said, “John baptized to repentance and told the people to trust in the One that would come after him, that is, in Jesus.” 5When they heard that, they were baptized into the Lord Jesus. 6When Paul laid hands on them, the Holy Spirit came on them, and they began to speak in languages and prophesy. 7There were about twelve of those men.
+
+8He went into the synagogue and spoke boldly for three months, persuading them about God’s kingdom. 9When some started resisting and saying negative things about The Way in public, he separated the disciples from them and reasoned every day in the school of Tyrannus. 10That went on for two years, so many Jews and Gentiles in Asia heard the Lord’s message.
+
+Acts 19:1-10
+
+The Sons of Sceva
+
+11God was doing extraordinary miracles through Paul. 12Even towels and aprons carried from his body made diseases go away and evil spirits come out. 13Some Jewish traveling exorcists tried to name the Lord Jesus over people that had evil spirits, “I adjure you by Jesus that Paul preaches.” 14Seven sons of a Jew named Sceva, a chief priest, were doing that. 15But the evil spirit answered, “I know Jesus, I recognize Paul, but who are you?” 16The man with the evil spirit overpowered them all, and they fled from the house naked and injured. 17The Jews and Greeks in Ephesus all heard about it. Everyone became afraid and respected the name of the Lord Jesus. 18Many believers came and confessed things they’d done. 19A large number that practiced witchcraft brought their books together and burned them in public. They calculated their value at 50,000 drachmas. 20That’s how powerfully the Lord’s message was growing.
+
+21After that, Paul decided to go through Macedonia and Greece on the way to Jerusalem. “After I’ve been there, I need to see Rome too.” 22He sent two aides on ahead—Timothy and Erastus, while he stayed in Asia for a while.	Acts 19:11-22
+
+The Riot in Ephesus
+
+23About that time a major disturbance came up about The Way. 24A silversmith named Demetrius, who made silver shrines of Artemis, was bringing a thriving business to the craftsmen. 25He gathered them and similar tradesmen,
+
+“You know our livelihood depends on this craft. 26You also see that in Ephesus and most of Asia this Paul has misled a sizable crowd, saying that handmade gods aren’t gods. 27Our business is in danger of losing its reputation, people will discount the Temple of the great goddess Artemis, and she that Asia and the world worship will lose her grandeur.” 	Acts 19:23-27
+
+28That infuriated them, and they started shouting, “Great is Artemis of the Ephesians!” 29The city was in turmoil. They rushed into the amphitheater, dragging Gaius and Aristarchus of Macedonia, Paul’s companions. 30When he wanted to go into the amphitheater, the disciples wouldn’t let him. 31Some Asiarchs that were friendly to him also sent word, urging him not to go into the theater. 32Some were shouting one thing, some another. The mob descended into confusion; most didn’t know what the gathering was about. 33Some people supposed Alexander had caused the uproar since the Jews had put him forward. He motioned with his hand to make a defense to the people. 34But when they realized he was a Jew, one outcry erupted from everybody for about two hours, “Great is Artemis of the Ephesians!”   	Acts 19:28-34
+
+35After the secretary of the city quieted the crowd, he said,
+
+“Ephesians, who doesn’t know that Ephesus is temple keeper for the great Artemis and the image that fell from Zeus? 36Since no one can deny that, you need to come to order and not do something rash. 37You haven’t accused these men of committing sacrilege or blaspheming our goddess. 38If Demetrius and associate craftsmen want to file suit against them, the courts are in session and proconsuls are available. They can bring charges against one another. 39If you want anything else, it’ll be settled in lawful assembly. 40We’re in danger of being charged with rioting over today’s affair because there’s no reason for it. We won’t be able to account for this uproar.”
+
+41He dismissed the assembly. 	Acts 19:35-41
+
+Paul Travels Through Macedonia and Greece
+
+20:1After the uproar, Paul sent for the disciples. When he’d encouraged them and said goodbye, he left for Macedonia. 2After he passed through that area and encouraged them a lot, he went to Greece 3for three months. The Jews laid a plot against him as he was getting ready to sail to Syria; so he decided to go back through Macedonia. 4With him were Sopater son of Pyrrhus from Berea; the Thessalonians Aristarchus and Secundus; Gaius of Derbe; Timothy, and the Asians Tychicus and Trophimus. 5They went on ahead and waited for us in Troas. 6After the days of Unleavened Bread, we sailed from Philippi and met them in Troas in five days and stayed seven.	Acts 20:1-6
+
+Paul’s Farewell to Troas
+
+7On the first day of the week, when we got together to break bread, Paul started speaking, He intended to leave in the morning and kept speaking till midnight. 8Quite a few lamps were in the upstairs room where we gathered. 9A young man named Eutychus was sitting on the windowsill. As Paul kept speaking for a long time, Eutychus went sound asleep and fell from the third floor. They picked him up for dead. 10When Paul went down, he knelt beside him, took him in his arms, and said, “Don’t worry; he’s alive.” 11He went back up and broke the bread and ate. After he talked for a long time till daybreak, he went out directly like he was. 12They brought the boy alive and were really relieved.	Acts 20:7-12
+
+Paul Sails from Troas to Miletus
+
+13We went on ahead to the ship and sailed to Assos, intending to pick up Paul there. That’s the arrangement he’d made; he planned to go on foot himself. 14We took him on board at Assos and went on to Mitylene. 15From there, we arrived the following day across from Chios, the next day came near Samos, and the day after that made it to Miletus. 16Paul had decided to sail on past Ephesus to keep from spending time in Asia. He was pushing to get to Jerusalem by Pentecost if he could. 	    Acts 20:13-16
+
+Paul Addresses the Ephesians
+
+17From Miletus he sent to Ephesus for the church elders. 18When they came, he said,
+
+“From the day I first came to Asia, you know how I operated among you. 19I served the Lord with humility, tears, and trials that came on me from plots by the Jews. 20I told you everything profitable as I taught you publicly and from house to house. 21To Jews and Greeks I solemnly preached repentance toward God and trust in our Lord Jesus. 22Now I’m determined to go to Jerusalem. I don’t know what will happen there. 23In every city the Holy Spirit declares that bonds and sufferings are waiting for me. 24But I don’t consider my life of any value to myself, so I can finish my course in the ministry I received from the Lord—to speak the good news about God’s grace.    	Acts 20:17-24
+
+25“Now I’ve presented God’s kingdom among you, and I know you won’t see me again. 26So I tell you today, I’m innocent of everybody’s blood. 27I’ve explained to you God’s whole plan. 28Pay attention to yourselves and the flock the Holy Spirit has given you to oversee. Shepherd God’s church that he bought with the blood of his own Son. 29After I leave, I know fierce wolves are going to come in and not spare the flock. 30Even from you, men will rise up and say perverse things to lure away disciples. 31So pay attention; remember that for three years day and night I warned each one with tears. 32Now I entrust you to God and his grace. It can build you up and provide you an inheritance among the sanctified. 33I haven’t coveted anybody’s gold, silver, or clothes. 34You know these hands have provided for my needs and the ones that were with me. 35In everything I’ve shown you that by working this way you should help the weak and remember the words of the Lord Jesus, ‘It’s more blessed to give than to receive.’”
+
+36Then he knelt down with them and prayed. 37They began to cry out loud, hug him, and kiss him. 38They grieved especially over his comment that they wouldn’t see him again. They went with him to the ship.	Acts 20:25-38
+
+Paul Continues to Jerusalem
+
+21:1When we’d left them, we sailed directly to Cos, the next day to Rhodes, and from there to Patara. 2We found a ship crossing over to Phoenicia, boarded it, and set sail. 3We came within sight of Cyprus; we passed it on the left, kept sailing to Syria, and landed at Tyre, where the ship was to unload its cargo. 4We looked up the disciples and stayed there a week. They kept telling Paul by the Spirit not to go to Jerusalem. 5When our time there was over, we started our trip. With their wives and children, they escorted us outside the city. After kneeling on the beach and praying, 6we said goodbye to one another. We got on the ship, and they went back home.
+
+Acts 21:1-6
+
+7When we’d finished the voyage from Tyre and to Ptolemais, we greeted the disciples and stayed with them for a day. 8The next day we reached Caesarea and went into the house of Philip the evangelist—one of the seven—and stayed with him. 9He had four virgin daughters that prophesied.
+
+10During our several days there, a prophet from Judaea named Agabus came down. 11He took Paul’s belt and tied up his own hands and feet, and said, “This is what the Holy Spirit says, ‘The man this belt belongs to, the Jews in Jerusalem are going to tie up and deliver to Gentiles.’” 12When we heard it, we and the locals urged and urged Paul not to go up.
+
+13He answered, “What are you doing, crying and breaking my heart? I’m ready to be bound and even to die in Jerusalem for the Lord Jesus.”
+
+14When we couldn’t change his mind, we quit trying, “The Lord’s will be done.”
+
+15After those days we got ready and went up to Jerusalem 16along with some disciples from Caesarea. They took us up to Mnason of Cyprus, a long-time disciple we would stay with.                                                                          	Acts 21:7-16
+
+Paul Visits James
+
+17The believers in Jerusalem welcomed us warmly. 18The next day Paul went in with us to see James, and the elders were there. 19After he’d greeted them, he recounted one thing after another that God had done among the Gentiles through his ministry. 20The ones that heard it, began to praise God,
+
+“You see, how many thousands among the Jews believe, all zealous for the Law. 21People have told them that you teach the Jews among the Gentiles to leave Moses, not circumcise their children, or keep the customs. 22So what can we do? They’ll certainly find out you’re here. 23We have four men under a vow. 24Take them and purify yourself with them; sponsor them so they’ll shave their heads. Everybody will know there’s nothing to what people have told them about you, but that you live orderly and keep the Law. 25As to Gentile believers, we wrote that they should abstain from meat offered to idols, blood, things strangled, and sexual immorality.”
+
+26The next day Paul took the men, purified himself with them, went into the Temple, and gave notice that they’d completed their days of purification, till the sacrifice for each one was offered.
+
+Acts 21:17-26
+
+Paul’s Arrest in the Temple
+
+27Near the end of the seven days, Jews from Asia saw him in the Temple and stirred up the crowd and attacked him, 28“Men of Jerusalem, help. This is the man that teaches everybody against the people, the Law, and this place. Now he’s brought Gentiles into the Temple and profaned this holy place.” 29Previously they’d seen Trophimus the Ephesian in the city with Paul and supposed he’d taken him into the Temple. 30The city erupted into an uproar. The people ran together, grabbed Paul, and dragged him out of the Temple. Immediately they shut the doors. 31While they were trying to kill him, a report went up to the tribune of the Roman cohort that Jerusalem was in an uproar. 32At once he took soldiers and centurions and ran down to them. When they saw the tribune and the soldiers, they stopped beating Paul. 33The tribune came and took him and told the soldiers to bind him with two chains. He began asking who he was and what he’d done. 34Some in the crowd shouted one thing, some another. He couldn’t find out the truth because of the uproar, so he told the soldiers to take him into the barracks. 35When Paul got on the stairs, the soldiers carried him because of the crowd violence. 36The people were following, yelling, “Away with him!” 	Acts 21:27-36
+
+Paul Speaks to the Tribune
+
+37At the entrance to the barracks, Paul said to the tribune, “Can I speak to you?”
+
+He said, “You know Greek? 38So you’re not the Egyptian that master-minded a revolt some time back and led the 4,000 Assassins out into the desert?”
+
+39Paul said, “I’m a Jew from Tarsus in Cilicia, a citizen of a prominent city. Please, let me speak to the people.”
+
+40With his permission, Paul stood on the stairs and motioned to the people. After a great hush settled in, he spoke in Hebrew.	Acts 21:37-40
+
+Paul Recounts His Conversion
+
+22:1“Brothers and fathers, listen to my defense.” 2When they heard him speaking Hebrew, they got quieter.
+
+3“I’m a Jew; I was born in Tarsus in Cilicia but raised in this city. I was educated under Gamaliel strictly according to the law of our ancestors and was as zealous for God as you are today. 4I persecuted The Way to death, binding and jailing men and women 5as the high priest and presbytery can confirm. I got letters to go to Damascus and bind the ones that had gone there and extradite them to Jerusalem to punish them.	Acts 22:1-5
+
+6As I got close to Damascus about noon, a bright light suddenly shined around me. 7I fell on the ground and heard a voice, “Saul, Saul, why are you persecuting me?’
+
+8“I answered, ‘Who are you, Sir?’
+
+‘I’m Jesus the Nazarene that you’re persecuting.’
+
+9“The ones that were with me saw the light but couldn’t make out what he was saying to me.
+
+10“I said, ‘What should I do, Lord!?’
+
+“‘Get up and go into Damascus. Somebody there will tell you.’
+
+11“When I couldn’t see from the brilliance of that light, the ones that were with me led me by the hand into Damascus.	Acts 22:6-11
+
+12“A man was there named Ananias. He was devout according to the Law, a man the Jews living there vouched for. 13He came and stood by me, ‘Brother Saul, receive your sight.’ I looked at him that very hour.
+
+14“He said, ‘Our ancestors’ God chose you ahead of time to know his will, to see the Righteous One, and to hear him. 15You’re to speak for him to all people about what you’ve seen and heard. 16Now why wait? Get baptized and wash your sins away, calling on him.’	 Acts 22:12-16
+
+17“When I came back to Jerusalem and was praying in the Temple, I fell into a trance, 18and saw him telling me, ‘Get out of Jerusalem now; they won’t accept your testimony about me.’
+
+19“I said, ‘Lord, they know that in every synagogue I was jailing people in bonds who believed in you. 20When Stephen your witness shed his blood, I stood by approving and keeping the clothes for the ones that were killing him.”
+
+21“He said, ‘Go; I’m sending you away to the Gentiles.’” 	Acts 22:17-21
+
+Responses to His Address
+
+22They listened that far, but then they started shouting, “Away with such a fellow. Don’t let him live!” 23They started yelling and tearing their clothes and throwing dust in the air. 24The tribune ordered the soldiers to bring him into the barracks and interrogate him by scourging to find out why they were shouting about him that way.
+
+25As they were stretching him out with straps, Paul said to the centurion supervising, “Is it legal to scourge a Roman that hasn’t been condemned?”
+
+26When the centurion heard that, he went to the tribune, “What are you doing? This man’s a Roman!”
+
+27The tribune came and said, “Tell me, are you a Roman?”
+
+“Yes.”
+
+28He responded, “This citizenship cost me a lot of money.”
+
+Paul said, “I was born Roman.”
+
+29At once the ones that were going to interrogate him stepped away. The tribune was worried when he found out Paul was a Roman and he’d bound him. 	Acts 22:22-29
+
+Paul Before the Sanhedrin
+
+30The next day he was still wanting to know why the Jews were accusing Paul. The tribune took off Paul’s bonds and commanded the chief priests and full Sanhedrin to meet. He took Paul down and put him in front of them. 23:1Paul looked straight at the Sanhedrin, “Brothers, in good conscience I’ve conducted myself as a citizen toward God up to this day.” 2Ananias the high priest commanded the ones that were standing by him to slap him in the mouth.
+
+3Paul said, “God’s going to slap you, you whitewashed wall! You sit judging me by the Law and command them to slap me in violation of the Law.”
+
+4The ones that were standing there said, “You insult God’s high priest?”
+
+5Paul said, “Brothers, I was not aware that he was a high priest. The scripture does say,
+
+‘Don’t say bad things about a ruler of your people’” [Ex 22:28]. 	Acts 22:30-23:5
+
+6Knowing one part was Sadducees and the other was Pharisees, he started shouting, “I’m a Pharisee, the son of a Pharisee! I’m on trial for having hope in the resurrection!”
+
+7Dissension erupted between the Pharisees and Sadducees. 8Sadducees say there’s no resurrection, angel, or spirit; Pharisees profess them all. 9During the uproar, some scribes from the Pharisees’ party stood up, protesting violently, “We don’t find anything wrong with this man! What if a spirit or angel spoke to him?”
+
+10As the conflict grew, the tribune was afraid they’d tear Paul limb from limb. He commanded the troops to rescue him and bring him back into the barracks.
+
+11That night the Lord stood by him, “Don’t be afraid. As you’ve spoken for me in Jerusalem, you need to speak for me in Rome.”	 Acts 23:6-11
+
+Jewish Plot to Kill Paul
+
+12The next day, some Jews took a binding oath not to eat or drink till they’d killed Paul. 13More than 40 men instigated that plot. 14They came to the chief priests and elders, “We’ve taken a binding oath not to taste anything till we’ve killed Paul. 15Now you and the Sanhedrin inform the tribune to bring him down as if to find out more accurately the issues about him. Before he gets close, we’re prepared to kill him.”
+
+16Paul’s nephew heard about the ambush, went into the barracks, and let Paul know. 17Paul called a centurion, “Take this young man to the tribune; he has something to tell him.”
+
+18He took him to the tribune, “The prisoner Paul asked me to bring you this young man. He has something to tell you.”
+
+19The tribune took his hand and withdrew privately, “What do you have to report?”
+
+20“Some Jews have agreed together to ask you to take Paul down into the Sanhedrin tomorrow as if to ask something more accurately about him. 21Don’t let them persuade you. More than 40 of them are lying in ambush. They’ve taken an oath not to eat or drink till they’ve killed him. They’re ready now and waiting for your promise.
+
+22The tribune let him go, “Don’t tell anybody you told me about this.” 	Acts 23:12-22
+
+23He called 2 centurions, “Get 200 soldiers ready, 75 cavalrymen, and 200 infantrymen to leave for Caesarea at 9:00 tonight. 24Provide mounts to deliver Paul safely to Felix the governor.”
+
+25He wrote a letter to this effect:
+
+26“Claudius Lysias to most excellent Governor Felix.
+
+27The Jews arrested this man and were trying to kill him when I came on them with troops and rescued him, when I discovered he was a Roman citizen. 28To learn why they were accusing him, I took him down into their Sanhedrin. 29I found out they were accusing him about questions in their Law, not about anything that deserves bonds or death. 30I was informed about a plot against him and sent him to you at once. I have instructed his accusers to bring charges against him in your hearing.”	Acts 23:23-30
+
+Paul Sent to Caesarea
+
+31So the soldiers took Paul to Antipatris during the night. 32The next day they left the cavalrymen to go with him the rest of the way while they came back to the barracks. 33When they got to Caesarea and delivered the letter to the governor, they also presented Paul to him. 34After he read it, he asked what province he was from. When he learned he was from Cilicia, 35he said, “I’ll give yousg a hearing when your accusers get here.” He gave orders to keep Paul in Herod’s Praetorium. 	Acts 23:31-35
+
+Paul’s Accusers Come
+
+24:1Five days later, the high priest Ananias came down with some elders and an orator, Tertullus. They brought charges to the governor against Paul. 2After Felix called for Paul, Tertullus began accusing him to the governor,
+
+“We’ve experienced considerable peace because of you, and your foresight has led to reforms for this nation. 3With gratitude we welcome them, most excellent Felix, in every way and everywhere. 4But not to detain you further, kindly grant us a brief hearing. 5We’ve found this man a troublemaker, who stirs up Jews all over the empire, the ringleader of a sect, the Nazarenes. 6He even tried to desecrate the Temple, and we arrested him. [7]ms 8You can question him yourself and find out the things we’re accusing him of.”
+
+9The Jews joined in the attack, claiming those things were so. 	Acts 24:1-9
+
+Paul’s Defense Before Felix
+
+10When the governor nodded to him, Paul spoke:
+
+“I know that for many years you’ve judged this nation, so I’m glad to make my own defense about these claims. 11You can learn that not more than twelve days ago I went up to Jerusalem to worship. 12They didn’t find me debating or attacking anybody in the Temple, in the synagogues, or in the city. 13They can’t prove to you any of these accusations. 14I do admit that according to The Way, which they’re calling a ‘sect,’ I serve our ancestors’ God, and believe everything written in the Law and the Prophets. 15In God I have a hope these men themselves share, that the just and unjust will resurrect.    	 Acts 24:10-15
+
+16I always do my best to have a clear conscience toward God and other people. 17After some years I was bringing offerings and charitable gifts to my nation. 18In that connection they found me in the Temple, not with a crowd or making a disturbance. 19Some Jews from Asia—they should be here to raise accusation if they have anything against me. 20Or, let these men specify what they found wrong with me when I stood in the Sanhedrin—21other than I shouted, ‘I’m being judged today about the resurrection from the dead!’”	 Acts 24:16-21
+
+Paul Kept in Custody
+
+22Because he knew more accurately about The Way, Felix put them off, “When Lysias the tribune comes down, I’ll decide your case.” 23He ordered the centurion to keep him in custody but give him some freedom and let his friends help him.
+
+24After some time, Felix with Drusilla his wife, a Jewess, sent for Paul and was listening to him about faith in Jesus the Messiah. 25As he talked about right living, self-control, and judgment to come, Felix became uneasy, “Go away for now; I’ll call you when I have time.” 26Besides, he was hoping Paul would give him a bribe; so he would send for him often and talk to him.
+
+27After two years, Porcius Festus succeeded Felix. To gain favor with the Jews, Felix left Paul behind in prison.     	Acts 24:22-27
+
+Paul’s Appeal to Caesar
+
+25:1Festus arrived in the province and after three days went up to Jerusalem from Caesarea. 2The chief priests and leading men of the Jews filed charges against Paul. 3They were demanding a favor against him—to call him to Jerusalem (laying an ambush along the way). 4Festus answered that he would keep Paul in Caesarea and that he himself was going there soon. 5“Have qualified men come down with me and prosecute him if something’s wrong with him.”
+
+Acts 25:1-5
+
+6Eight or ten days later, he went down to Caesarea. The next day he sat on the judgment seat and commanded to bring Paul. 7When he arrived, the Jews from Jerusalem stood around him and brought many serious accusations they couldn’t prove.
+
+8Paul spoke on his own behalf, “I haven’t done anything against the Law of the Jews, the Temple, or Caesar.”
+
+9Felix wanted to do the Jews a favor, so he asked Paul, “Are you willing to go up to Jerusalem and stand trial in front of me there about these matters?”
+
+10Paul said, “I’m standing at Caesar’s judgment seat, where I should be judged. I’ve not done anything against the Jews, as you very well know. 11If I’m guilty of something that deserves death, I’m willing to die. But, if there’s nothing to these accusations, nobody can hand me over to them. I appeal to Caesar.”
+
+12Festus conferred with the council and said, “You’ve appealed to Caesar; you’ll go to Caesar.”   	 Acts 25:6-12
+
+Festus Presents Paul’s Case to Agrippa
+
+13Several days later, King Herod Agrippa II and Bernice arrived in Caesarea and greeted Festus. 14When they’d spent several days there, Festus presented Paul’s case to the king,
+
+“Felix left a prisoner behind. 15When I was in Jerusalem, the chief priests and elders of the Jews filed charges against him and asked for his condemnation. 16I told them that Roman law doesn’t hand anyone over till the accused meets the accusers and has a chance to defend himself. 17After they assembled here, I didn‘t lose any time. The next day I sat on the judgment seat and had the man brought in. 18The accusers stood up and started bringing accusations against him that weren’t like the crimes I’d supposed. 19They disagreed with him about their religion and about a dead Jesus that Paul claimed was alive. 20Uncertain what to do with the controversy, I asked if he’d go to Jerusalem and stand trial on these things. 21When he appealed to Caesar, I commanded that he be held in custody till I sent him up to Caesar.”
+
+22Agrippa said, “I’ve been wanting to hear him myself. Tomorrow I will.”  	Acts 25:13-22
+
+23The next day Agrippa and Bernice came with great pomp and went into the auditorium with the tribunes and prominent men of the city. Festus commanded to bring Paul.
+
+24Festus said,
+
+“King Agrippa and youpl that are here with us, you see this man that the Jews in Jerusalem and here have appealed to me about, shouting that he has to die. 25I didn’t find that he’d committed any capital offense. Since he appealed to Caesar, I decided to send him. 26I don’t have anything definite to write to my superior; so I’ve brought him to youpl, especially you, King Agrippa, to have something to write after this investigation. 27It doesn’t make sense to send a prisoner without specifying the charges.”	Acts 25:23-27
+
+Paul’s Defense Before Agrippa
+
+26:1Agrippa said to Paul, “You can speak for yourself.”
+
+Paul stretched out his hand,
+
+2“In light of the things the Jews accused me of, King Agrippa, I consider myself fortunate to present my own defense today, 3especially since you’re familiar with Jewish customs and issues. So please listen patiently.
+
+4The Jews know my way of life from my youth, which I spent in my own nation in Jerusalem. 5If they’re willing to admit it, they know I lived before as a Pharisee, the strictest sect of our religion. 6Now I stand in judgment for having hope in God’s promise to our ancestors. 7Our twelve tribes sincerely hope to obtain that promise as they serve God every day. In regard to that hope, the Jews are accusing me. 8Why do youpl consider it unbelievable that God raises the dead? 9At one time I thought I needed to do a lot of things against Jesus the Nazarene. 10That’s what I did in Jerusalem. Not only did I lock up many saints in jail with authority from the chief priests; but when they were being sentenced to execution, I voted against them. 11I punished them often in every synagogue and tried to make them blaspheme. I was insanely furious and persecuted them even to foreign cities.	 Acts 26:1-11
+
+The Third Account of Paul’s Conversion
+
+12“In that effort, I was traveling to Damascus with authority from the chief priests. 13In the middle of the day, King Agrippa, I saw a light from the sky brighter than the sun, shining around me and the ones that were with me. 14When we’d fallen to the ground, I heard a voice speaking in Hebrew, ‘Saul, Saul, why are you persecuting me? It’s hard for you to keep kicking against the goads.’
+
+15“I said, ‘Who are you, Sir?’
+
+“I’m Jesus that you’re persecuting. 16Get up. I’ve appeared to you to appoint you as a witness to what you’ve seen and what I’ll show you. 17I’ll protect you from the people and from the Gentiles, where I’m sending you. 18Open their eyes so they’ll turn from darkness to light, from the power of Satan to God, so they’ll receive forgiveness and an inheritance among the ones that become holy by trusting in me.”
+
+19“So, King Agrippa, I obeyed the heavenly vision. 20First to the people in Damascus, Jerusalem, and Judaea, then to the Gentiles, I continually declared they should repent toward God and do what’s appropriate to repentance. 21That’s why some Jews grabbed me in the Temple and tried to murder me. 22I’ve obtained help from God till today and speak to small and great simply what the Prophets and Moses said would happen: 23the Messiah needed to suffer, and by resurrection he would present light first to the Jews and then to the Gentiles.”
+
+Acts 26:12-23
+
+Paul Appeals to Agrippa to Believe
+
+24While Paul was delivering his defense, Festus shouted, “Paul, your extensive learning is driving you crazy!”
+
+25“I’m not crazy, most excellent Festus; I’m speaking sensible truth. 26The king that I’m confidently speaking to, knows about these matters. I’m sure none of it has escaped his attention; it didn’t happen off in a corner somewhere. 27King Agrippa, do you believe the prophets? I know you do.”
+
+28Agrippa said, “With a little urging are you trying to persuade me to become a Christian?”
+
+29Paul said, “I wish to God, whether by little or much, you and everybody listening today would become like me except for these bonds.”
+
+30The king, the governor, Bernice, and those sitting with them got up. 31When they’d gone aside, they said to one another, “He hasn’t done anything that deserves bonds or death.”
+
+32Agrippa told Festus, “He could’ve been released if he hadn’t appealed to Caesar.”
+
+Acts 26:24-32
+
+Paul’s Voyage to Rome
+
+27:1When they decided we would sail to Italy, they turned Paul and some other prisoners over to Julius, a centurion of the Augustan cohort. 2We boarded a ship out of Adramyttium, ready to sail to places along the coast of Asia. We put out to sea along with Aristarchus, a Macedonian from Thessalonica. 3The next day we harbored at Sidon. Julius was nice to Paul and let him go to friends and refresh himself. 4We launched from there and sailed under the shelter of Cyprus because the winds were against us. 5After we navigated the open sea along the coast of Cilicia and Pamphylia, we landed at Myra in Lycia. 6The centurion found an Alexandrian ship there that was sailing for Italy and put us on board. 7For a number of days, we sailed slowly, and barely made it to Cnidus. Since the wind didn’t let us sail under the shelter of Crete along Salmone, 8we drifted along it with difficulty and came to a place called Fair Havens near the city of Lasea.
+
+9When considerable time had passed and the voyage was getting risky—even the Fast [Yom Kippur] was past, Paul started advising them, 10“Men, I sense the voyage will involve damage and considerable loss of cargo, the ship, and our lives.” 11But the centurion listened more to the captain and the ship owner than to Paul. 12Because the harbor wasn’t suitable for wintering, the majority decided to sail from there if they could just get to Phoenix—a harbor at Crete facing southwest and northwest—and winter there.  	Acts 27:1-12
+
+The Storm at Sea
+
+13When a gentle breeze came up, they supposed they’d achieved their purpose. They weighed anchor and started sailing along Crete as close to shore as they could. 14But not long afterwards, a nor’easter called Euraquilo rushed down from land 15and caught the ship. It couldn’t face the gale; so we gave way to it and scudded along. 16We ran under a small island called Cauda and were barely able to secure the dinghy. 17After they hoisted it up, they used cables to gird up the ship. They were afraid they might run aground on Syrtis, so they let down the sail and drifted along. 18The next day, the storm tossed us violently, and the crew began to throw cargo overboard*. 19The third day, they threw the ship’s tackle overboard by hand. 20When the sun and stars didn’t appear for several days, and the monstrous storm bore down on us, we lost all hope of surviving.  	Acts 27:13-20
+
+21When they’d gone a long time without eating, Paul stood up among them,
+
+“Men, you should’ve listened to me and not sailed from Crete and incurred this damage and loss. 22Now I urge you to take heart. There won’t be any loss of life, just the ship. 23Last night an angel of the God I serve stood by me, 24‘Don’t be afraid, Paul; you need to stand in front of Caesar, and God has granted you everybody that’s sailing with you.’ 25So take heart; I believe it will turn out like he said, 26but we have to run aground on an island.” 	Acts 27:21-26
+
+27The fourteenth night, the storm was driving us around in the Sea of Hadria. About midnight the sailors sensed we were nearing land, 28so they took a sounding and found the depth was 120 feet. A little farther on, another sounding showed 90 feet. 29Fearing we might run aground on a rocky coast, they cast four anchors out the stern and longed for daylight. 30The sailors tried to jump ship by lowering its dinghy into the water on the pretense of laying out anchors from the bow. 31Paul told the centurion and his soldiers, “If those sailors don’t stay on the ship, youpl won’t make it.” 32The soldiers cut the ropes to the dinghy and let it fall off.
+
+33At early dawn, Paul started urging everybody to eat, “Today makes two weeks you’ve been on edge, not eating. 34Eat for your survival. Not a hair of your head will perish.”
+
+35When he’d said that, he took a loaf, thanked God in front of them all, broke it up, and starting eating. 36They took heart and started eating too. 37There were 276 of us on board. 38When they’d eaten enough, they lightened the ship by throwing the wheat overboard.
+
+Acts 27:27-38
+
+The Shipwreck on Malta
+
+39When it got daylight, they didn’t recognize the land, but they noticed a creek with a beach. They decided, if possible, to save the ship. 40They cut the anchors loose and left them in the sea. At the same time, they took loose the ropes of the rudders, hoisted the foresail to the wind, and headed for the beach. 41But they struck a mud bar where two currents met. The prow stuck fast and wouldn’t budge, and the force of the waves started tearing the stern apart. 42The soldiers intended to kill the prisoners so none of them could swim away and escape. 43But the centurion wanted to take Paul safely through and stopped them. He told the ones that could swim to jump overboard and get to land first. 44The rest would float there on planks or items from the ship. That way everybody got to shore.	 Acts 27:39-44
+
+Paul’s Winter Stay on Malta
+
+28:1When we’d made it safely, we learned the island was Malta. 2The locals were especially nice to us and received us all. Because of the rain and cold that had set in, they built a fire. 3When Paul had gathered a bundle of sticks and laid them on the fire, a snake came out of the wood from the heat and fastened on his hand. 4The locals saw it and said to one another, “He must be a murderer that survived the sea, but Justice didn’t let live.” 5He shook it loose into the fire and wasn’t harmed. 6They were expecting him to swell up or suddenly fall down dead. But after a good while not seeing anything unusual, they started saying he was a god.
+
+7Around that place were lands that belonged to Publius, the Principal in the island. He welcomed us and entertained us for three days. 8His father lay sick with dysentery and bouts of fever. Paul went in to see him, prayed, laid hands on him, and healed him. 9After that, other sick people on the island started coming to be healed. 10They greatly honored us; and later, when we set sail, they put on board what we needed.	Acts 28:1-10
+
+Paul’s Arrival in Rome
+
+11After three months, we sailed on an Alexandrian ship that had wintered on the island—it had The Twin Brothers (Dioscuri/Twin Sons of Zeus) as its figurehead. 12We harbored at Syracuse for three days, 13then sailed around to Rhegium. A day later, a south wind came up, and the second day we made it to Puteoli. 14We found disciples there, who invited us to stay with them for a week. And so we got to Rome. 15From there disciples heard about us and came to meet us as far as Three Taverns and The Forum of Appius. When Paul saw them, he thanked God and took heart. 16When we went into Rome, the centurion let Paul stay by himself with a soldier guarding him.	Acts 28:11-16
+
+Paul’s Witness in Rome
+
+17Three days later he called together the Jewish leaders,
+
+“Brothers, though I hadn’t done anything against the people or the customs of the forefathers, the Jews delivered me to the Romans as a prisoner from Jerusalem. 18The Romans examined me and were willing to release me because there wasn’t any reason to execute me. 19When the Jews objected, I had to appeal to Caesar, though I didn’t have anything against my nation. 20I asked to speak to you because I’m wearing this chain on account of Israel’s hope.”
+
+21They said, “We haven’t received any letters about you from the Jews, and none of the brothers have come to report anything bad about you. 22We do want to hear what you think, because we know that people everywhere speak against this sect.”	Acts 28:17-22
+
+23On a day they appointed him, quite a number came to where he roomed. From morning to evening, from the Law of Moses and the Prophets, he talked about God’s kingdom and made efforts to persuade them about Jesus. 24What he said persuaded some, but not others. 25When they disagreed with each other, they left at Paul’s one comment,
+
+“The Holy Spirit described your ancestors well in Isaiah the prophet,
+
+26‘Tell this people,
+
+“You certainly hear, but don’t understand;
+
+you certainly see, but don’t perceive
+
+27because you’ve become insensitive;
+
+you’re hard of hearing, and
+
+you’ve closed your eyes
+
+so you don’t see or hear,
+
+understand or change
+
+so I can heal you”’ [Is 6:9-10].
+
+28Understand, then, that God has sent this salvation to the Gentiles; they’ll listen.” [29]ms 	Acts 28:23-29
+
+Paul’s Two-Year Imprisonment in Rome
+
+30For two whole years Paul stayed in his own rented quarters and received everyone that came to him. 31He presented God’s kingdom without interference and taught boldly about the Lord Jesus as the Messiah. 	Acts 28:30-31
+
+ROMANS
+
+Salutation
+
+1:1Paul, servant of ChristMessiah Jesus, called to be an apostle, and set apart to deliver the good news 2God promised through his prophets in the scriptures. 3-5That news is about his Son, David’s son by descent—physically, and God’s Son by designation—spiritually as to holiness. God powerfully designated him such by raising him from the dead. Through Jesus Christ our Lord we’ve received grace and apostleship for making obedient faith available to Gentiles. 6Among them you, too, are the called people of Jesus Christ.
+
+7To God’s loved ones in Rome, called to be holy: grace and peace from God our Father and the Lord Jesus Christ. 	Rom 1:1-7
+
+Desire to Visit the Romans
+
+8First, I’m grateful to my God for you, grateful through Jesus Christ because everywhere in the world people are talking about your faith. 9God’s my witness—that I serve in my spirit for the good news about his Son—I think about you constantly. 10In my prayers I always plead that, somehow by God’s will, I can eventually come to you. 11I long to see you so I can share some spiritual gift that will help make you secure in the faith. 12That way I’ll be encouraged among you by the faith we share. 13I want you to know that I’ve often intended to come but couldn’t. I’ve wanted to accomplish something among you like I’ve done among the rest of the Gentiles. 14-15I’m obligated to preach to Gentiles and barbarians, to wise and foolish, and to you in Rome.
+
+Rom 1:8-15
+
+Life by Trust
+
+16I’m not ashamed of the good news. It’s God’s power for bringing salvation to everybody that trusts, to Jews first and to Gentiles. 17The good news reveals a goodness that comes from God through a growing trust in him. The scripture says, “A good person will have life by trusting” [Hab 2:4].	Rom 1:16-17
+
+Foolishness of Disbelief
+
+18God reveals from heaven his displeasure at ungodliness and at unjust people that suppress the truth by their injustice. 19He does that because what they know about God is evident in them because he made it clear to them. 20Ever since he created the universe, what he’s created clearly makes visible the invisible things about him, namely his eternal power and divine nature. So people don’t have any excuse. 21They knew God but didn’t give him his rightful place as God or practice gratitude. They gave themselves over to foolish speculation and their senseless hearts went dark. 22While they claimed to be smart, they became dumb 23and exchanged the glory of the immortal God for images of mere mortals, birds, four-footed animals, reptiles. 	Rom 1:18-23
+
+God’s Giving People Up
+
+24So because of lusts in their hearts, God gave them up to unclean behavior—to dishonoring their bodies between themselves. 25They exchanged the truth about God for a lie and worshiped and served what was created instead of the One that created, who is blessed forever. Amen. 26God gave them up to dishonorable desires. Their females exchanged their natural sexual relationships for what’s contrary to nature. 27Males left their natural sexual relationships with females and burned in lust for other males, males with males, committing shameful acts and receiving in themselves the payback that’s appropriate to their delusion. 28Even as they didn’t see fit to have God in what they knew, God gave them over to a perverted mind. 29They were filled with sinfulness, wickedness, greed, malice, jealousy, murder, strife, deception, meanness, gossip, 30slander, hatred for God, arrogance, boasting, disloyalty, evil scheming, disobedience to parents. 31They were without understanding, untrustworthy, unloving, unmerciful. 32They knew God’s standards and knew that people who practice such things deserve to die; but they did them anyway and delighted in people that did them. 	Rom 1:24-32
+
+God’s Just Judgment
+
+2:1So yousg that condemn don’t have any excuse. When you condemn someone else, you condemn yourself, because you’re doing the same things. 2You know it’s right for God to condemn people that do things like that. 3Do you suppose—condemner of another while doing the same things yourself—that you are going to escape his condemnation? 4Do you disregard his rich kindness, tolerance, and patience, and not understand that his kindness is for leading you to repentance? 5Because of your stubborn, unrepentant heart, you’re storing up displeasure for yourself when God reveals his just condemnation. 6He’ll pay back every person for what they’ve done. 7That will mean eternal life for people who strive for glory, honor, and immortality by carrying through in good works. 8It’ll mean displeasure and anger for people that chase after injustice. 9There’ll be trouble and distress for everybody that does evil, for Jews first and for Greeks. 10But there’ll be honor and peace for everybody that does good, for Jews first and for Greeks. 11God doesn’t play favorites: 12as many as have sinned without having the Law will perish without having it; as many as have sinned under it will be condemned by it. 13It’s not who hears the Law that’s good, as far as God’s concerned; it’s who does the Law. 14When Gentiles that don’t have the Law, naturally do what’s in it, they are governing themselves. 15They show that the Law is written on their hearts. Their conscience testifies, and their thoughts defend or accuse one another. 16That’s the basis for judgment when God by Christ Jesus judges people’s secrets by the good news I’m presenting.   	Rom 2:1-16
+
+Criticism and Moral Consistency
+
+17But if you wear the name Jew, rely on the Law, take pride in God—18if you know his will, approve of superior things because of what the Law teaches you—19if you’re confident that you’re a guide to the blind, a light to people in the dark, 20a corrector of the foolish, a teacher of the ignorant because you have the knowledge and truth that’s in the Law—21then do you teach others, but not learn yourself? You that preach against stealing, do you steal? 22You that say people shouldn’t commit adultery, do you commit adultery? You that detest idols, do you steal from temples? 23You that take pride in the Law, do you dishonor God by breaking it? 24“Gentiles blaspheme God because of you” [Is 52:5], like the scripture says. 25Circumcision benefits you if you practice the Law. If you transgress it, your circumcision amounts to uncircumcision. 26If then the uncircumcised keep the Law’s standards, won’t their uncircumcision be considered circumcision? 27If the naturally uncircumcised keep the Law, won’t they condemn literal-and-circumcised transgressors of the Law? 28It’s not the Jew outwardly that’s a Jew, and it’s not outward circumcision that’s circumcision. 29It’s the Jew inwardly that’s a Jew, and it’s the circumcision of the heart—spirit, not letter—that’s circumcision. Their praise doesn’t come from people, but from God.  	  Rom 2:17-29
+
+The Advantage Jews Had
+
+3:1 So, what advantage does a Jew have? What’s the benefit of circumcision? 2A lot, in a lot of ways. The first advantage is that God entrusted the Jews with his messages. 3So what if some Jews were unfaithful? Their unfaithfulness doesn’t do away with God’s faithfulness, does it? 4Goodness, no! Let God be true and everyone else a liar, like the scripture says,
+
+“ . . . that you can be regarded
+
+as right in what you say
+
+and correct in the judgments you make” [Ps 51:4].
+
+5If our unrighteousness highlights God’s righteousness, we wouldn’t say, would we, that God’s not fair in inflicting his displeasure? (I’m speaking here for the sake of argument.) 6Goodness, no! How would he judge the world? 7We wouldn’t say, would we, that since our lie highlights God’s truth, he shouldn’t consider us sinners? 8We wouldn’t say, would we—as some accuse us of saying, “Let’s do evil to bring about good”? (They deserve condemnation!)	Rom 3:1-8
+
+Nobody’s Good
+
+9So are we any better than Gentiles? Not at all! We’ve already said that Jews and Gentiles are both sinners 10like the scripture says,
+
+“Not one is good,
+
+not one.
+
+11Nobody understands;
+
+nobody seeks God.
+
+12They’ve all turned away;
+
+as a group they’ve become depraved.
+
+None of them are kind,
+
+not even one does good [Ps 14:1-3; 53:1-3].
+
+13Their throat’s an open grave;
+
+they deceive with their tongues [Ps 5:9];
+
+there’s snake venom behind their lips [Ps 140:3];
+
+14their mouth is full of cursing and spite [Ps 10:7];
+
+15their feet run to shed blood;
+
+16ruin and misery lie in their paths;
+
+17they don’t know the path to peace [Is 59:7-8].
+
+18There’s no respect for God in their eyes [Ps 36:1].
+
+19We know that what the Law is saying here, it’s saying to people that are under it; so by saying “not a one,” it shuts everybody up, including Jews. The whole world—Gentiles and Jews—becomes exposed to God’s condemnation, 20because what people do under law doesn’t make them good; law only tells them what’s sinful.  	Rom 3:9-20
+
+Goodness by Trust
+
+21Now, aside from law, a goodness from God has come to light, a goodness the Law and prophets talk about: 22a goodness from God through trusting in Jesus Christ whether by Jew or Gentile. 23Everybody has sinned and falls short of God’s glory; 24his grace freely justifies them through the redemption that comes through Christ Jesus. 25He’s the One that God appointed as a basis for forgiveness by trusting in his blood. Putting him forward demonstrates God’s goodness in overlooking sins previously committed 26during the time when he puts up with them. Putting Christ forward demonstrates God’s goodness now, so he’s both just and justifier of people that trust in Jesus. 	Rom 3:21-26
+
+Humility Under Justification by Trust
+
+27So where can boasting come in? It can’t. By what kind of “law”? Can it come by a “law” caused by what we do under law? No, it’s replaced by a “law” conditioned on trust in another—God. 28We reason that trust justifies us apart from what we do under law. 29Or is God the God over Jews only? Isn’t he God over Gentiles too? Yes. 30Since there’s one God, he’s the One that justifies the Circumcision and the Uncircumcision and does it the same way—by trust. 31So are we contradicting law by advocating trust? Goodness, no! We’re establishing the purpose of law another way.  								     Rom 3:27-31
+
+Abraham and David
+
+4:1What can we say, then, our ancestor Abraham discovered? 2If what he did, justified him, he had something to feel good about, but not toward God. 3What does the scripture say? “Abraham trusted God, and God considered him righteous” [Gen 15:6] because of it. 4In the case of people that are producing righteousness, the consequence—being considered righteous—doesn’t come from God or his grace; he would owe it to them to consider them righteous. 5But for those who are not producing righteousness but are trusting the One that considers the ungodly as righteous, their trusting God to do that is considered righteousness. 6David speaks about the “good fortune” of people God considers righteous aside from law,
+
+7“‘Fortunate’ are the ones whose unlawful deeds God forgives,
+
+whose sins he covers.
+
+8 ‘Fortunate’ are the people whose sin the LORD
+
+doesn’t hold against them” [Ps 32:1-2].
+
+9Is the “good fortune” only on the circumcised, or is it on the uncircumcised too? We’ve said, “God considered Abraham righteous because he trusted” [Gen 15:6]. 10When did God consider him righteous? When he was circumcised or uncircumcised? When he was uncircumcised. 11He received the circumcision sign as a seal for the righteousness he’d received by trusting when he was uncircumcised. And he received it as a seal that he would be the father of everybody that, without being circumcised, trust that God will consider them righteous like he did Abraham. 12His circumcision was also a seal that he would be the father of the uncircumcised who walk in his footsteps while he was uncircumcised.    	Rom 4:1-12
+
+The Promise to Abraham
+
+13The promise to Abraham and his descendants—that he’d inherit the world—didn’t come by law, but by righteousness conditioned on trusting. 14If law can cause people to be heirs, trust is null and promise is void. 15Law brings God’s displeasure, but where there’s no law there’s no violation of it. 16So righteousness comes by trust so it can come by grace and make the promise sure for all of Abraham’s seed, whether they’re under law or under the trust he had who is “father” of us all: 17the scripture says, “I’ve appointed you to be the father of many nations” [Gen 17:5]. He trusted God, who makes the dead live and speaks of things that aren’t yet as if they already are. 18Hoping against hope, he trusted that he would become “the father of many nations,” like God said, “That’s how your seed will be” [Gen 15:5]. 19He wasn’t weak in trust but considered his own body as good as dead—he was about 100—and Sarah’s womb as dead too. 20He didn’t hesitate to trust God’s promise but grew strong in trust. He praised God, 21confident that what he’d promised, he could do. 22So, “God considered him righteous” [Gen 15:6]. 23Now that wasn’t written just about him, 24but about us too. God will consider us “righteous” who trust in the One that resurrected our Lord Jesus—25who was delivered up for our trespasses and resurrected for our justification. 	 Rom 4:13-25
+
+Extreme Grace
+
+5:1We’ve been justified by trusting, and we express trusting God by trusting our Lord Jesus Christ. 2The Christ gives us access to this grace that we stand in. Because of it, we rejoice in the hope that comes from our glorious God. 3Not only that, but we can even rejoice in hardships because we know they produce endurance, 4which produces character, which produces a hope 5that doesn’t disappoint because God keeps pouring out his love into our hearts through the Holy Spirit he gave us. 6When we were still weak, at the right time ChristMessiah died for the ungodly. 7Hardly anybody is willing to die even for somebody that’s good. Somebody might, 8but God has shown us how much he cares about us by having ChristMessiah die for us while we were still sinners. 9More than that, if his blood has justified us, we’re safe from God’s displeasure. 10If the death of his Son reconciled us to God while we were estranged, now that he’s reconciled us, his life will save us. 11All the while, we take pride in God through his Son who reconciled us.	Rom 5:1-11
+
+Adam and Christ in Contrast
+
+12So, as through one man, sin—hence death—entered the world, death passed on to everybody because everybody has sinned. 13Before the Law, there was sin in the world, but sin isn’t held against a person if there’s no law. 14But, death did prevail from Adam to Moses even over the ones that hadn’t sinned like Adam did—who corresponds to the One that was to come.                                                         	Rom 5:12-14
+
+15But the gracious gift isn’t like the sin. In the one case, many died because one sinned. In the other case, many received abundant grace because of God’s gracious gift and the one man Jesus Christ. 16The gracious gift isn’t like what came through the one sinner; the judgment that came in connection with one sin led to condemnation, but the gracious gift that came in connection with many sins led to justification. 17If death prevailed because of one man’s sin, much more will life prevail—in the ones that receive abundant grace and bestowed righteousness—because of the One, Jesus Christ. 18As by the sin of one there was what led to condemnation for all people, so by one act of righteousness there is justification that leads to life for all people. 19As by one man’s disobedience many became sinners, so by One man’s obedience many will become righteous. 20The Law came in besides to increase sin, but where sin increased grace multiplied. 21So as sin prevailed in death, grace could prevail in righteousness to eternal life through Jesus Christ our Lord.      	  Rom 5:15-21
+
+Death to Sinning
+
+6:1So should we say, “Let’s keep sinning so there’ll be more grace”? 2Goodness, no! How can we who died to sin keep living in it? 3Don’t you know that we who were baptized into Christ Jesus, were baptized into his death? 4Baptism buried us with him into death. As the Father gloriously raised Christ from the dead, we too can live in a new life. 5If we’ve participated in what’s like his death, we’ll participate in what’s like his resurrection. 6Know this: our old self was crucified with him to destroy the sinful body so we wouldn’t serve sin anymore. 7Whoever dies is justified from sin. 8If we’ve died with Christ, we believe we’ll live with him. 9We know that since Christ arose from the dead, he won’t die again, and death doesn’t have control over him. 10The death he died, he died to sin once and for all; the life he lives now, he keeps living to God. 11We consider ourselves dead to sin too, but alive to God in Christ Jesus.  	Rom 6:1-11
+
+“Enslaved” to Righteousness
+
+12So don’t let sin prevail in your mortal body by yielding its drives. 13Don’t keep offering your members as tools for unrighteousness. Offer yourselves to God as alive from the dead, and offer your members to him as tools for righteousness. 14Sin won’t be controlling you because you’re under grace, not law.
+
+15What then? Should we sin because we’re under grace instead of law? Goodness, no! 16Don’t you know that whatever you yield to, you’re ‘slaves’ to—‘servants’ to sin, which leads to death or ‘servants’ to obedience, which leads to righteousness? 17Thank God, though you used to be servants to sin, you’ve obeyed from the heart the type of teaching you received. 18You’ve been freed from sin and put ‘in servitude’ to righteousness (19an illustration to help you understand). As you ‘put yourselves in servitude’ to unrighteousness and increasing lawlessness, now ‘put yourselves in servitude’ to righteousness and holiness. 20When you were servants to sin, you were ‘free’ from righteousness. 21So, what things were you producing then that you’re ashamed of now? Their outcome was death. 22Now that you’re free from sin and ‘in servitude’ to God, you’re producing holiness, whose outcome is eternal life. 23The wages of sin is death, but the gracious gift of God is life in Christ Jesus our Lord.     	 Rom 6:12-23
+
+The Marriage Comparison
+
+7:1Don’t you know, you that know the Law, that it applies to someone as long as the person’s alive? 2The Law ties a woman to her husband as long as he’s alive. If he dies, she’s free from the law about husbands. 3So while he’s alive, she’d be an adulteress if she joined herself to another man. But if her husband dies, she’s free from the law, and she’s not an adulteress if she joins herself to another man. 4So, through the Christ’s body you also died to the Law and united with someone else—who resurrected—so you could bear fruit to God. 5When you were in the flesh, its sinful desires that were through the Law worked in your members to bear fruit that led to death. 6Now you’re released from the Law because you’ve died to what imprisoned you. As a result, you’re serving in the new spirit, not in the old letter. 	Rom 7:1-6
+
+Indwelling Sin
+
+7What should we say then? Is the Law sinful? Goodness, no! But I wouldn’t have known sin if it weren’t for the Law. I wouldn’t have known coveting if the Law hadn’t said, “Do not covet” [Ex 20:17; Deut 5:21]. 8Sin used the commandment to produce all kinds of covetousness in me. Apart from law, sin is dead. 9I was alive apart from law at one time; but when the commandment came, sin came to life 10and I died. The commandment that was meant to bring me life turned out to bring me death. 11Sin used the commandment to lead me astray and kill me. 12So the Law is holy, and the commandment is holy, just, good. 	Rom 7:7-12
+
+Inner Conflict
+
+13So, did what was good kill me? Goodness, no! Sin—to show itself for what it was—killed me by using the commandment. By using the commandment, sin became extremely sinful. 14We know the Law is spiritual, but I’m physical, sold like a servant to sin. 15I can’t figure out what I’m doing. I don’t do what I want to do; I do what I hate. 16If I’m doing what I don’t want to do, I agree the Law’s good. 17I’m no longer doing it; sin’s doing it in me. 18I know nothing good lives in me—in my flesh. Wanting to do good is present, but doing it isn’t. 19I don’t do the good I want to do; I do the evil I don’t want to do. 20If I’m doing what I don’t want to do, I’m not doing it; sin’s doing it in me. 21I find the principle that evil lies in me who wants to do good. 22In my heart of hearts, I delight in God’s Law, 23but in my members I see another pattern of operation that’s in conflict with the pattern of operation that’s in my mind. That pattern is imprisoning me in the sin that’s in my members. 24Miserable man! Who’s going to rescue me from this death-filled body? 25Thank God, our Lord Jesus Christ! So, I serve God with my mind but serve sin with my flesh.  	Rom 7:13-25
+
+Freedom Through Christ
+
+8:1So there’s no condemnation in Christ Jesus. 2The life-producing spirit that operates in him has freed you from law that produces sin and death. 3What the Law couldn’t do because it operated through weak flesh, God did by sending his Son in the form of sin-oriented flesh to deal with sin in the flesh and put it in its place. 4So the goodness the Law called for, you can fulfill by living according to the spirit instead of the flesh. 5People that live in a flesh-oriented way focus on material things; people that live in a spirit-oriented way focus on things that are not material. 6The fleshly mentality leads to a dead end; the spiritual mentality leads to life and peace. 7So the flesh-oriented mentality opposes God because it doesn’t—and can’t—be in submission to his Law. 8People that live in a flesh-oriented way can’t be pleasing God. 9But, we’re not flesh-oriented, but spirit-oriented if God’s Spirit lives in us. If we don’t have Christ’s spirit, we don’t belong to him. 10If Christ is in us, the body is dead because of sin, but the spirit is alive because of goodness. 11If the Spirit of the one that resurrected Jesus is living in us, the One that resurrected Christ will make our mortal bodies alive by the Spirit that is living in us. 	Rom 8:1-11
+
+Living Above the Flesh
+
+12So, we’re not obliged to live in a flesh-oriented way. 13We’ll die if we live that way. But, we’ll live if by spirit we put to death the misdeeds of flesh. 14As many as God’s spirit leads, are God’s children. 15We didn’t receive again a sense of bondage resulting in fear, but a sense of sonship that calls out ‘Father!’ 16The Spirit himself testifies with our spirit that we’re God’s children. 17If we’re children, then we’re heirs, God’s heirs, fellow heirs with Christ—if we suffer with him so we can be glorified with him.     	Rom 8:12-17
+
+Longing for the Eternal
+
+18I don’t consider the sufferings of this time worth comparing to the glory that’ll be revealed. 19Creation’s deep longing waits for that revelation to God’s children. 20Creation’s been subjected to worthlessness, not willingly, but by the One who subjected it in hopes 21of freeing it from bondage to decay and delivering it to the glorious freedom of God’s children. 22Up till now the whole creation has been groaning in birth pains. 23We, too, who have the firstfruits of the Spirit, long to be adopted as children, and to have our bodies redeemed. 24Hope has saved us but hope that we can see isn’t hope. 25We hope for what we don’t see, and patiently long for it.
+
+26And, the Spirit helps our weaknesses. We don’t know what to pray for, but he intercedes for us with sighs we can’t say. 27The One who examines hearts understands what our spirits mean and intercedes for the saints in a way that harmonizes with God’s will. 28We know everything works out for good for those who love God and are called in a way that fits with his purpose. 29The ones he foreknew he predestined to conform to the image of his Son so he’d be the oldest of many brothers. 30The ones he predestined he called, justified, and glorified.
+
+Rom 8:18-30
+
+Trials Don’t Show Separation from God
+
+31What’s that tell us? If God’s for us, who’s against us? 32If he didn’t spare his own Son, but offered him up for us all, how will he not graciously give us everything we need? 33Who’s going to level accusation against God’s chosen people? He justifies; who condemns? 34Jesus Christ is the One that died and, beyond that, resurrected to God’s right hand to intercede for us. 35What’s going to separate us from the love Christ has for us? Trouble, distress, persecution famine, nakedness, danger, or sword? 36As the scripture says,
+
+“We’re killed all day long for your sake;
+
+we’re considered sheep for slaughter” [Ps 44:22].
+
+37In all these things, we more than conquer through the One who loved us. 38I’m confident that death or life, angels or rulers, present or future things, powers, 39height or depth, or any other created thing, can’t separate us from the love God has for us in Christ Jesus our Lord. Rom 8:31-39
+
+God’s Choice of Israel
+
+9:1-2Truth is, in Christ I have constant sorrow in my heart. I’m not lying; my conscience confirms it in the Holy Spirit: 3I’d be willing to be cut off from the ChristMessiah for my fellow Jews, my physical relatives, 4Israelites, who have the adoption as children, the honor, the covenants, the Law, the divine service and worship, the promises. 5They’re the ones that descended from the ancestors, and from them physically came the ChristMessiah, who’s over all, God blessed forever! Amen! 								          Rom 9:1-5
+
+6It’s not that God’s message has failed. Not all of Israel’s descendants are “Israel.” 7Not all of Abraham’s descendants are “children”: “Your lineage will be counted through Isaac” [Gen 21:12]. 8That means it’s not physical children that are God’s children, but promised children that God counts as descendants. 9The promise was, “At that time I’ll come, and Sarah will have a son” [Gen 18:10, 14]. 10That’s not all. Rebekah conceived from our ancestor Isaac. 11-12Before she had the twins or they had done anything good or bad, God told her, “The older will serve the younger” [Gen 25:23]. That pictures how God’s purpose would come from his choosing, not their doing—a purpose that came from the One who called. 13As the scripture says,
+
+“I loved Jacob more than Esau” [Mal 1:2-3].
+
+14We aren’t going to say God’s unjust, are we? Goodness, no! 15He told Moses,
+
+“I’ll decide who to give grace
+
+and who to show mercy” [Ex 33:19].
+
+16So things don’t happen because somebody wants them to or because somebody’s controlling things, but because God’s showing mercy. 17The scripture tells Pharaoh, “I raised you up specifically to show my power in connection with you and to make myself known in the whole world” [Ex 9:16]. 18So he has mercy on whoever he wants to and makes stubborn whoever he wants to.   	Rom 9:6-18
+
+God’s Displeasure and Mercy
+
+19Will you say to me then, “Why does he find fault? Who’s resisting his will?” 20Mere mortal, who are you to get smart with God? What’s formed doesn’t say to the one who formed it, “Why’d you make me like this?” 21Doesn’t a potter have the right from the same lump to make a container for elegant purposes or menial ones? 22So what if God, wanting to demonstrate his displeasure and make his power known, puts up with containers fit for destruction 23so he can make known his abundant honor on containers he shows mercy to—containers he prepared ahead of time for honor? 24We’re those containers that have been prepared for honor, that he called from Jews and Gentiles. 25As he says in Hosea,
+
+“I’ll call them my people that weren’t my people;
+
+I’ll call them friends that weren’t friends [Hos 2:23].
+
+26Where it was said, ‘You’re not my people,’
+
+they’ll be called ‘children of the living God’” [Hos 1:10].
+
+27Isaiah cried out in regard to Israel,
+
+“Though the number of Israelites is like sand by the sea,
+
+only a remnant will be saved.
+
+28The LORD will thoroughly and quickly
+
+carry out his word in the world” [Is 10:22-23; Hos 1:10].
+
+29As Isaiah said before,
+
+“If the LORD hadn’t left us a seed,
+
+we’d be like Sodom and Gomorrah” [Is 1:9]  	Rom 9:19-29
+
+Righteousness by Law vs. Trust
+
+30What are we going to say then? We’re going to say that Gentiles received righteousness who didn’t pursue it, a righteousness that comes from trust. 31But Israel pursued a righteousness that comes from law and didn’t attain it. 32Why? Because they didn’t pursue it by trust, but by what they did themselves. They stumbled over the stone that “trips” people up. 33Like the scripture says,
+
+“I’m laying a stone in Zion that people trip over,
+
+a rock that causes them problems.
+
+Whoever trusts him won’t be disappointed” [Is 28:16].	 Rom 9:30-33
+
+10:1My heart’s desire and prayer to God is for their salvation. 2I admit they have a zeal for God, but they don’t know what they’re doing. 3They don’t understand the righteousness that comes from God, and they try to establish their righteousness by themselves. They haven’t submitted to the righteousness God gives. 4For everybody that trusts, Christ puts an end to law as a way to achieve righteousness. 	Rom 10:1-4
+
+5As to righteousness under law, Moses writes, “The one that does them is the one that will have life by them” [Lev 18:5]. 6But goodness that comes from trust says, “Don’t say in your heart, ‘Who’ll go up into the sky? [Deut 30:12]” (that is, to bring Christ down); 7or, ‘Who’ll go down into the ground’? (that is, to raise Christ up from the dead).” 8But what does it say?
+
+“The message is near you—
+
+in your mouth and in your heart” [Deut 30:14].
+
+That’s the “message” about trust, the message we preach. 9If you acknowledge Jesus as Lord and trust in your heart that God raised him from the dead, he’ll “save” you. 10With your heart you trust to be considered upright; with your mouth you confess to receive salvation. 11The scripture says, “He won’t disappoint those who trust in him” [Is 28:16]. 12There’s no difference between Jew and Greek because the same Lord is Lord of both; he’s rich toward everybody that calls on him. 13“The LORD will save everybody that calls on him” [Joel 2:32].   	Rom 10:5-13
+
+Making Salvation by Trust Available
+
+14How will people call on somebody they don’t believe in? How will they believe in somebody they haven’t heard about? How will they hear about him without a messenger? 15How will they bring the message if they’re not sent? Like the scripture says, “How welcome they are that bring good news!” [Is 52:7; Nah 1:15] 16But not everybody has obeyed the good news. Isaiah says,
+
+“LORD, who’s believed our report?” [Is 53:1]
+
+17So faith comes from hearing—hearing the message about Christ. 18But I say, the Israelites have heard, haven’t they?
+
+“Their testimony went out all over the world,
+
+and their words to the ends of the earth” [Ps 19:4].
+
+19But I say, Israel surely didn’t know, did they? First, Moses says,
+
+“I’ll make you jealous by what’s not a nation;
+
+I’ll anger you by a nation that doesn’t understand” [Deut 32:21].
+
+20Isaiah is bold,
+
+“People found me that weren’t looking for me;
+
+they saw me who weren’t asking about me” [Is 65:1].
+
+21He tells Israel,
+
+“All day long I’ve held out my hands
+
+to a disobedient, stubborn people” [Is.65:2 LXX]. 	Rom 10:14-21
+
+Israel’s Remnant
+
+11:1So God hasn’t set his people aside, has he? Goodness, no! I’m an Israelite too, a descendant of Abraham from the tribe of Benjamin. 2God hasn’t set aside the people he chose ahead of time. Don’t you know what the scripture says in the passage about Elijah? He pleads with God against Israel,
+
+3“LORD, they’ve killed your prophets
+
+and torn down your altars;
+
+I’m the only one left,
+
+and they’re trying to kill me” [1 Kg 19:10].
+
+4How does God answer him?
+
+“I’ve reserved for myself 7,000
+
+that haven’t bent a knee to Baal” [1 Kg 19:18].
+
+5It’s the same way now. By God’s grace there’s a remnant. 6If it’s by God’s grace, it’s not from what the remnant does. Otherwise, grace wouldn’t be grace. 7So what’s the point? What Israel’s looking for, it hasn’t found, but the Chosen have found it. The rest became stubborn. 8Like the scripture says,
+
+“To this day, God has put them in a stupor,
+
+eyes that can’t see,
+
+ears that can’t hear” [Deut 29:4; Is 29:10].
+
+9David says,
+
+“Let their table become a snare and a trap,
+
+a stumbling block and payback.
+
+10May their eyes grow dim so they can’t see;
+
+bend their backs always” [Ps 69:22-23].
+
+11So, they didn’t stumble and fall down, did they? Goodness, no! By their sin, salvation has come to the Gentiles to make the Jews jealous. 12If their sin enriches the world and their failure enriches the Gentiles, how much more their full number!
+
+13I’m talking to you Gentiles now. Since I’m an apostle to Gentiles, I highlight my ministry 14if somehow I can make my fellow Jews jealous and save some of them. 15If the Jews’ rejecting means reconciling the world, what will their accepting be except a return from the dead? 16If the original piece of dough is holy, the whole lump’s holy. If the root’s holy, so are the branches.	Rom 11:1-16
+
+The Olive Tree Parable
+
+17If some branches were removed and you, a wild olive tree, were grafted in among them and partook of the nourishment from the root of the olive tree, 18don’t feel superior to the original branches: you don’t support the root; it supports you. 19You may say, “Branches were removed so I could be grafted in.” 20Right. But they were removed because they didn’t trust, and you stand by trust as well. Don’t get smug; be reverent. 21If God didn’t spare the natural branches because they didn’t trust, he won’t spare you either. 22So pay attention to God’s kindness and severity. For the ones that fell, severity; but for you, God’s kindness—if you stay in his kindness. Otherwise, you’ll be removed too. 23And if they don’t keep distrusting, God will graft them back in; he can do that. 24If God took you out of a naturally wild olive tree and grafted you unnaturally into a cultivated olive tree, much more will he graft them into their own olive tree.  	     Rom 11:17-24
+
+Israel’s Salvation by Trust
+
+25I want you to understand this mystery so you won’t feel smug: a hardening has come over Israel in part till the full number of Gentiles comes in. 26That’s the way all Israel will be saved, like the scripture says,
+
+“A deliverer will come out of Zion;
+
+he’ll turn away ungodliness from Jacob.
+
+27That’s my covenant with them
+
+when I take away their sins” [Is 59:20-21].
+
+Israel’s Continuing Responsibility
+
+28As far as the good news is concerned, they’re enemies for your sake; as far as God’s choice is concerned, they’re highly regarded for their ancestors’ sake. 29God’s gifts and calling to them aren’t being revoked here. 30You once disobeyed God but have now received mercy because they disobeyed. 31In turn, they’ve now disobeyed because God showed mercy to you to prod them to receive mercy. 32God has locked everyone up in disobedience so he could have mercy on everyone.            	 Rom 11:25-32
+
+33The depth of God’s wealth, wisdom, and knowledge! His judgments are so unknowable, his ways so unfathomable!
+
+34“Who has known the LORD’s mind?
+
+Who was his counselor? [Is 40:13 LXX; Job 15:8; Jer 23:18]
+
+35Who gave to him first
+
+to have it paid back to him?” [Job 35:7; 41:11]
+
+36Everything is from him, by him, and for him. Glory to him forever! Amen.    	Rom 11:33-36
+
+Christians as Living Sacrifices
+
+12:1So I urge you by God’s mercies to present your bodies as living sacrifices, holy and pleasing to God; that’s your spiritual service. 2Don’t conform yourselves to this world; transform yourselves by renewing your mind so you can discern what God’s will is—what’s good, pleasing, and perfect.
+
+3By the grace God gave me, I say to everyone among you not to think more of yourselves than you should. Think properly as measured by the faith God has allotted to each of you. 4There are many parts to one body, and they don’t all serve the same purpose. 5That’s how it is with the many of us that are in Christ. Individually we’re interdependent parts with one another. 6We have different gifts according to God’s grace. If our gift is prophecy, let’s prophesy in accordance with our faith. 7If it’s service, let’s carry out our commitment to him in our service. If it’s teaching, let’s do it in teaching. 8If it’s encouraging, let’s do it in encouragement. If it’s sharing, let’s do it liberally. If it’s leading, let’s do it diligently. If it’s showing mercy, let’s do it cheerfully.    	  Rom 12:1-8
+
+9Love has to be genuine. Hate what’s bad; hold onto what’s good. 10Devote yourselves to one another in brotherly love. Look up to one another in showing honor. 11Be diligent, be enthusiastic in spirit, serve the Lord. 12Rejoice in hope, endure adversity, devote yourselves to prayer, 13share in the saints’ needs, show hospitality to strangers. 14Bless people that persecute you; don’t curse them. 15Rejoice with those who are rejoicing; cry with those who are crying. 16Take the same attitude toward other people that you take toward yourself. Don’t be proud; associate with humble people. Don’t consider yourself smart. 17Don’t pay back evil for evil. Be careful to do what’s good in front of everybody. 18As much as comes from your part, live peacefully with everyone. 19Don’t take revenge, dear friends; walk away from anger. The scripture says,
+
+“‘Revenge belongs to me;
+
+I’ll take care of it,’ the LORD says” [Lev 19:18].
+
+20But,
+
+“If your enemy’s hungry, feed him;
+
+if he’s thirsty, give him a drink.
+
+If you do that,
+
+you’ll pour hot coals on his head” [Pro 25:21-22].
+
+21Don’t let evil overcome you; you overcome evil with good.   	Rom 12:9-21
+
+Respect for Political Rulers
+
+13:1Every person needs to submit to higher authorities, because there’s no authority except by God’s approval. God has established the authorities that exist. 2So if a person resists them, he’s resisting what God has established, and he’ll be condemned for it. 3Rulers don’t bring fear for good behavior, but for bad. You shouldn’t be afraid of authority. Do what’s right, and you’ll be praised for it. 4They’re God’s ministers to you for good. If you do what’s wrong, be afraid; they don’t carry a sword for nothing. They punish people for doing bad things. 5So you need to submit, not only to avoid punishment, but for conscience sake. 6For the same reason, pay your taxes, because they’re God’s ministers, who dedicate themselves to those very things. 7Pay everybody what’s due to them—taxes, customs, respect, honor.           	Rom 13:1-7
+
+Call for Renewed Goodness
+
+8Don’t owe people anything except to love them. The one that loves another fulfills the Law. 9“Do not commit adultery, murder, steal, covet” [Ex 20:13-15, 17; Deut 5:17-19, 21] or any other commandment is summed up in “Love your neighbor as yourself” [Lev 19:18]. 10Love doesn’t do anything bad to a “neighbor;” so it fulfills the Law.
+
+11Do that because you know it’s time to get up from sleeping. Your salvation’s nearer now than when you came to believe. 12Nighttime is far gone and daytime’s coming; so lay aside what people do in the dark and pick up the tools used in daylight. 13Live respectably in the daylight, not with carousing and indecency, rivalry and jealousy. 14Put on the Lord Jesus Christ, and don’t cater to physical drives.      	  Rom 13:8-14
+
+Cautiously Accepting Weak Brothers
+
+14:1Accept people that are weak in faith, and don’t pass judgment on the way they think. 2One person believes he can eat anything, but a weak person just eats vegetables. 3The one that eats must not look down on the one that doesn’t; the one that doesn’t eat must not criticize the one that does. 4What right do you have to criticize somebody else’s household servant? He stands or falls to his own Lord. And, he will stand because the Lord can make him stand. 5One person considers one day more important than another; another person considers every day alike. Each one should be fully confident in his own mind. 6The one that observes a day observes it to the Lord; the one that eats, eats to the Lord because he thanks God. The one that doesn’t eat, doesn’t eat to the Lord, and thanks God. 7None of us live to ourselves or die to ourselves. 8If we live, we live to the Lord; if we die, we die to the Lord. So whether we live or die, we’re the Lord’s.  9That’s why Christ died and came to life so he could serve as Lord of the living and the dead. 10And why criticizesg your fellow Christians or look down on them? We’ll all stand at God’s judgment seat. 11The scripture says,
+
+“‘As sure as I live,’ the LORD says,
+
+‘every knee will bend to me;
+
+every tongue will acknowledge me’” [Is 49:18 + 45:23].
+
+12So each one of us will give account of himself to God.    	Rom 14:1-12
+
+13Don’t criticize one another anymore. Determinepl not to make your brother or sister stumble. 14I’m convinced that no thing is unclean in itself, but it is unclean to someone that considers it unclean. 15If you’re grieving your fellow Christian by what you’re eating, don’t destroy with food the one Christ died for. 16Don’t let people slander your goodness. 17God’s kingdom doesn’t have to do with what you eat or drink; it has to do with goodness, peace, joy in the Holy Spirit. 18A person that serves Christ that way is acceptable to God and respectable to people. 19So let’s follow what makes for peace and what helps one another. 20Don’t tear down God’s work by what you eat. Everything’s pure, but it’s not pure for people that feel like they’re offending God when they eat it. 21It’s good not to eat meat or drink wine or do anything that makes someone stumble. 22Exercise your faith in front of God according to your own convictions on such matters. People are fortunate that don’t condemn themselves by what they approve of. 23If they have doubts about what they’re eating, they stand condemned because they’re not doing it out of a good conscience. Anything that doesn’t arise from a good conscience is sin. 	Rom 14:13-23
+
+Bearing with the Weak
+
+15:1We that are strong need to bear with people’s weaknesses, instead of pleasing ourselves. 2Let’s make every effort to be pleasing to our neighbors for their good, so we can build them up. 3Christ didn’t please himself; like the scripture says,
+
+“The insults from the ones that insulted you
+
+have fallen on me” [Ps. 69:9b].
+
+4What was written earlier was written to instruct us so that by patience and the scriptures’ encouragement we could have hope. 5May God, who is patient and encouraging, influence you to take the attitude toward one another that Jesus Christ takes toward us. 6That way with united voice you can praise the God and Father of our Lord Jesus Christ. 	Rom 15:1-6
+
+7So accept one another like Christ accepted you to God’s honor. 8I tell you, the Christ has become a minister for the Circumcision for God’s truth, for confirming his promises to the ancestors, 9and for the Gentiles to praise God for his mercy—like the scripture says,
+
+“I’ll acknowledge you among the Gentiles;
+
+I’ll sing praises to you” [Ps 18:49].
+
+10Again it says,
+
+“Gentiles, rejoice with his people” [Deut 32:43];
+
+11and,
+
+“Praise the LORD, every nation;
+
+praise him, all peoples” [Ps 117:1].
+
+12Again Isaiah says,
+
+“A root will come out of Jesse,
+
+One who rises up to govern the Gentiles.
+
+They’ll put their hope in him” [Is 11:10].
+
+13Now may the God who gives “hope,” fill you with joy and peace in your faith so you’ll have high “hopes” by the power of the Holy Spirit.   	Rom 15:7-13
+
+14My siblings in Christ, I’m confident that you’re good and knowledgeable, and able to admonish one another. 15On some things I’ve written to you boldly to remind you. Because of the grace God gave me, 16I minister God’s good news to the Gentiles as a priest for Christ Jesus. I do it so they can become an acceptable offering that’s sanctified by the Holy Spirit. 17In Christ Jesus I have something to take pride in, as far as God’s things are concerned. 18I won’t take it on myself to say anything but what Christ has accomplished through me in the Gentiles’ obedience by word and deed. 19What he accomplished through me came by the power of signs and wonders that I did by the power of God’s Spirit. So, from Jerusalem to Illyricum I’ve presented the good news about Christ. 20I’ve aimed to preach where people have not known Christ. I didn’t want to build on somebody else’s foundation, 21but like the scripture says,
+
+“People that haven’t received the news about him, will see;
+
+those who haven’t heard will understand” [Is 52:15].  	 Rom 15:14-21
+
+Paul’s Plans
+
+22-23Over the years I’ve wanted to come to you, but I’ve been prevented from doing it. Now I don’t have anywhere left in these regions. 24When I go to Spain, I hope to see you, and to have you send me forward after I’ve refreshed myself with your company for a while. 25At present I’m headed to Jerusalem to serve the saints. 26Macedonia and Achaia wanted to take up a collection for the poor saints in Jerusalem. 27They’ve wanted to do that because they owe them. If the Gentiles have benefited from their spiritual things, they do well to minister to them from physical things. 28When I’ve finished that project and safely delivered the collection, I’ll go through you to Spain. 29When I come, I know I’ll have Christ’s full blessing.  	Rom 15:22-29
+
+30Now I urge you by our Lord Jesus Christ and the love of the Spirit, to pray sincerely with me that God will deliver me from the ones who disobey in Judaea, 31that the saints will accept my ministry in Jerusalem, 32and that with joy I’ll come to you by God’s will and refresh myself with you for a while. 33Now the God that brings peace be with you all. Amen.
+
+Rom 15:30-33
+
+Extensive Greetings
+
+16:1I commend to you our sister Phoebe, a servant in the church in Cenchrea. 2Welcome her in the Lord in a way appropriate to saints. Help her with whatever she needs. She’s helped lots of people, including me.
+
+3Greet Prisca and Aquila, my fellow workers in Christ Jesus. 4They’ve risked their necks to save my life. Not only am I grateful to them; so are all the Gentile churches. 5Greet the church that meets in their house. Hello to Epaenetus, my dear friend, the first convert to Christ in Asia; 6and to Mary, who has worked hard for youpl. 7Greet Andronicus and Junia, my kin and fellow prisoners. They’re well-known among the apostles and have been Christians longer than I have. 8Give our regards to Ampliatus, my friend in the Lord; 9to Urbanus, our fellow worker in Christ; and to my close friend Stachys. 10Greet Apellesmas, approved in Christ, those in the family of Aristobulus, 11and Herodion, my compatriot. Greet the family of Narcissus, who are in the Lord; 12as well as Tryphaena and Tryphosa, laborers in the Lord. Greet 13Rufus, chosen in the Lord, and his mother and mine. 14Say hello to Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the disciples that are with him; 15as well as Philologus and Julia; Nereus and his sister Olympas; and the saints that are with them. 16Greet one another with a holy kiss. All the churches of Christ send their greetings. 	Rom 16:1-16
+
+17I urge you to keep an eye on people that cause division and upset people’s faith by teaching things contrary to what you’ve learned; stay away from them. 18People like that aren’t serving Christ our Lord; they’re serving their own appetites. With smooth talk and flattery, they deceive unsuspecting people. 19Everybody’s heard about your obedience; so I’m happy over you and want you to be wise about what’s good and innocent about what’s bad. 20The God that brings peace will quickly crush Satan under your feet.
+
+21Timothy, my fellow worker, says hello, as does Lucius, Jason, and Sosipater, my kinsmen. (22I, Tertius, the one writing out this letter, greets you in the Lord.) 23Gaius, host to me and the whole church, sends regards. Erastus, the city treasurer, greets you as does Quartus the brother.  	  Rom 16:17-22
+
+Closing Doxology
+
+[24]ms 25Now to the One who can give you security by the good news I’m delivering about Jesus Christ, according to the mystery
+
+kept unrevealed from times eternal,
+
+26but revealed now in the scriptures of the prophets by the commandment of the
+
+eternal God,
+
+made known to all nations, and
+
+leading to an obedience rooted in faith—
+
+27to the only wise God through Jesus Christ be glory forever! Amen.  	  Rom 16:24-27
+
+FIRST CORINTHIANS
+
+Salutation
+
+1:1Paul, apostle of ChristMessiah Jesus by God’s will, and Sosthenes our brother, 2to God’s church in Corinth, made holy in Christ and called to be saints with everyone everywhere that calls on our Lord. 3Grace and peace from God our Father and the Lord Jesus Christ. 	1 Cor 1:1-3
+
+Thanksgiving
+
+4I always thank God for you and for the grace he’s given you in Jesus. 5He has enriched you in word and knowledge, 6and confirmed in you the testimony about Christ. 7So you don’t lack any gift as you anxiously wait for our Lord’s return. 8He’ll continue to confirm you to the end so you’ll be blameless then. 9You can rely on God, who called you into fellowship with his Son. 	 1 Cor 1:4-9
+
+Call for Unity
+
+10I urge you, by our Lord Jesus Christ, to live in harmony so there’s no division among you. Unite in mind and purpose. 11Chloe’s family has told me about the rivalry that’s going on among you. 12This is what I mean: each of you is saying, “I’m with Paul”; “I’m with Apollos”; “I’m with Cephas”; “I’m with Christ.” 13Is Christ divided up? Paul wasn’t crucified for you, was he? Were you baptized to Paul? 14I’m glad I didn’t baptize any of you except Crispus and Gaius, 15so you couldn’t say I baptized you to myself. (16I did baptize the family of Stephanas; I don’t remember baptizing anyone else.) 17Christ didn’t send me to perform baptisms, but to deliver good news, not with an eloquence that could detract from the power of his cross.
+
+1 Cor 1:10-17
+
+Christ as Our Wisdom
+
+18The preaching about the cross is foolishness to people that perish; it’s God’s power to the people that are saved. 19Scripture says,
+
+“I’ll destroy the wisdom of the wise
+
+and set aside the insight of the insightful” [Is 29:14].
+
+20Where’s the “wise”? Where’s the scribe? Where’s the skillful reasoner of this world? Hasn’t God made foolish the world’s “wisdom”? 21In his wisdom, the world didn’t know him by wisdom. It pleased him to save believers by the “foolishness” of what we preach. 22Jews ask for signs; Greeks look for wisdom; 23but we preach Christ crucified, a stumbling block to Jews and foolishness to Greeks. 24But, to those who are called—Jews or Greeks—Christ is God’s power and wisdom. 25God’s foolishness is wiser than men; his weakness is stronger than men.
+
+1 Cor 1:18-25
+
+26You don’t see many wise, powerful, noble people called. 27God has chosen what’s foolish to the world to put the wise to shame, weak things to put strong things to shame, 28insignificant and disregarded things—even what’s not—to cancel out what is. 29He did it so nobody could act “proud” in his presence. 30By him you’re in Christ Jesus, who has become for us a wisdom, goodness, sanctification, and redemption that comes from God. 31Like scripture says, “Whoever is proud should be proud of what he has in the LORD” [Jer 9:24]. 	 1 Cor 1:26-31
+
+The Message, not the Medium
+
+2:1When I came, I didn’t use eloquence or wisdom to present what God had not previously revealed. 2I determined not to know anything among you but Jesus Christ crucified. 3I was weak and apprehensive while I was with you. 4I didn’t present my message with eloquent words but with powerful demonstration of the Spirit. 5I did that so your faith wouldn’t rest on human wisdom but on divine power.
+
+6We do speak a kind of wisdom among mature people, but it’s not the kind the world or its rulers offer—who are passing away. 7It’s a previously unrevealed wisdom from God, a wisdom predestined before creation to our honor, 8a wisdom that no rulers in the world knew. If they’d known it, they wouldn’t have crucified the glorious Lord. 9Like scripture says,
+
+“Eye hasn’t seen, ear hasn’t heard,
+
+it hasn’t entered people’s mind
+
+what God’s prepared for those who love him” [Is 64:4; 52:15; Sir 1:10].
+
+1 Cor 2:1-9
+
+Revelation, Not Philosophy
+
+10But God has revealed them to us by the Spirit, who examines everything, including the deep things about God. 11Who knows a person’s things except that person’s spirit? The same way with God: nobody knows his things except his Spirit. 12We didn’t receive the spirit of the world, but the Spirit from God so we could know what God’s graciously given us. 13We talk about those things, not in terms that human wisdom teaches, but in terms the Spirit teaches, explaining spiritual matters in spiritual terms. 14Material-minded people don’t welcome God’s spiritual things; they seem like foolishness to them. Material-minded people can’t figure out spiritual things because spiritual things are examined from a spiritual point of view. 15Spiritual people have a point of view for examining everything, but nobody can examine them.
+
+16“Who knows the mind of the LORD;
+
+Who’s going to advise him?” [Is 40:13].
+
+But we have the mind of Christ.  	1 Cor 2:10-16
+
+Christ, Not His Messengers
+
+3:1Members of Christ’s family, I couldn’t talk to you like spiritual people, but like material-minded ones, like infants in Christ. 2I gave you milk, not solid food. You couldn’t eat solid food and still can’t. 3You’re still material minded. While jealousy and conflict exist among you, aren’t you material minded and act like typical people? 4When any of you says, “I’m with Paul,” “I’m with Apollos,” aren’t you material minded and act like typical people? 5What’s Apollos? What’s Paul? Ministers that led you to faith. 6I planted, Apollos watered, but God made it grow. 7So the one that plants or waters isn’t important, but God who makes it grow. 8The one that plants and the one that waters combine their efforts, and God will pay each one for his own work. 9We’re God’s fellow workers; you’re his field, his building.  	 1 Cor 3:1-9
+
+Christians as God’s Temple
+
+10By God’s grace, like a skilled general contractor, I’ve laid a foundation, and others are building on it. They need to be careful how they do that. 11Nobody can lay any other foundation than the One I’ve laid, which is Jesus Christ. 12If yousg build on it with gold, silver, precious stones—wood, hay, straw, 13time will tell how good your work proves to be; fire will test it and make that obvious. 14If yoursg work lasts, you’ll get paid. 15If it burns up, you’ll take a loss, but you’ll be saved—but as through fire. 16Don’t youpl know you’repl God’s temple, and God’s Spirit lives in youpl? 17If yousg destroy his temple, he’ll destroy yousg. His temple is holy; that’s what youpl are.
+
+18Don’t kid yourselves. If any of you think you’re wise in the world, you need to become “foolish” to become wise. 19The world’s wisdom amounts to foolishness as far as God’s concerned. Scripture says,
+
+“He traps the crafty in their craftiness” [Job 5:13];
+
+20and,
+
+“The LORD knows that the speculations of the wise are meaningless” [Ps 94:11].
+
+21So, don’t anyone take pride in other people. Everything belongs to you: 22Paul, Apollos, Cephas; the world, life, death; things present, things to come. They’re all yours, 23you’re Christ’s, and Christ is God’s.  	1 Cor 3:10-23
+
+Attitude Toward Christ’s Ministers
+
+4:1People should consider us ministers of Christ and stewards of God’s mysteries. 2A steward must be reliable, 3but it’s not important to me that you or any human court would try to evaluate me; I don’t even try to evaluate myself. 4My conscience is clear, but that doesn’t make me right. The Lord’s the One that evaluates me. 5So, don’t rush to judgment before the Lord comes. He’ll bring to light what darkness hides and reveal the motives in people’s hearts. Then God will do the complimenting.  	 1 Cor 4:1-5
+
+6I’ve applied these matters to me and Apollos to teach you not to go beyond what scripture says, so none of you will get conceited. 7Who makes yousg superior? What do yousg have you didn’t receive? If you received it, why act proud as if you didn’t. 8You’repl full! You’re rich! You’ve become kings without us! I wish you had become kings so we could reign with you. 9I think God has placed us apostles last as sentenced to death. We’ve become a spectacle to the world, to angels, and to people. 10We’re fools for Christ; you’re wise in him! We’re weak; you’re strong! We’re disrespected; you’re respectable! 11To this day we’re hungry, thirsty, poorly clothed, harassed, homeless, 12-13and do manual labor. We bless in return for insult and encourage in return for slander. We’re patient when persecuted, and still treated like trash—like the scum of the earth.	 1 Cor 4:6-13
+
+14I’m not writing this to make you feel bad, but to warn you like children I care about. 15You may have countless instructors in Christ, but not lots of fathers. I became your father in Christ through the good news. 16So follow my example. 17That’s why I’m sending Timothy, my dear friend, reliable child in the Lord. He’ll remind you about my ways in the Lord like I teach everywhere in every church. 18Some of you proudly claim that I won’t come to you. 19But I’ll come soon, Lord willing, and I’ll find out, not the talk of the proud, but their power. 20God’s kingdom is not in talk but in power. 21What do you want me to do, come with a rod or with love and a gentle spirit? 	 1 Cor 4:14-21
+
+Immorality in Corinth
+
+5:1Immorality is reported among you that doesn’t exist even among Gentiles—someone living with his father’s wife. 2Are you proud of this instead of mourning over it—a mourning that should lead to removing him from you? 3I’m absent in body but present in spirit, and already—as if present—I’ve judged him. 4In the name of our Lord Jesus, assemble with my spirit and the power of our Lord Jesus Christ, 5and deliver him to Satan to destroy the flesh but save his spirit when the Lord comes. 6Your pride is not good. Don’t you understand that a little yeast spreads through the whole batch? 7Get rid of the old yeast so you’re a fresh batch. You’re a fresh batch because Christ our Passover has been sacrificed. 8So let’s celebrate the feast, not with old, evil yeast, but with unleavened bread of sincerity and truth.
+
+9I’ve written to you not to associate with immoral people. 10I don’t mean immoral people in the world—covetous people, swindlers, idolaters. You’d have to get out of the world to do that! 11Now I’m writing to you not to associate with anyone called a Christian that’s immoral or covetous, an idolater, slanderer, or drunk—not to eat with someone like that. 12What business is it of mine to judge people outside the church? Isn’t it your responsibility to judge the ones in the church? 13God will judge the rest. “Remove the sinful person from you” [Deut 17:7; 19:19; 22:21, 24; 24:7].          	 1 Cor 5:1-13
+
+Christians and Lawsuits
+
+6:1If you have something against a fellow Christian, do any of you dare go to court in front of sinners rather than saints? 2You know, don’t you, that the saints will judge the world? If you’re going to judge the world, can’t you judge small matters? 3You know, don’t you, that you’ll judge angels, much less matters of everyday life? 4If you have courts that deal with everyday matters, appoint as judges the ones looked down on in the church. 5I’m saying this so you’ll be ashamed: don’t you have anybody among you smart enough to decide between his fellow believers? 6Christians take Christians to court and do it in front of unbelievers? 7It’s a real defect in you that you bring lawsuits against each other. Wouldn’t it be better to let yourselves be wronged or defrauded? 8But you do the wronging and defrauding, and do it to fellow Christians, at that. 9Don’t you know that bad people won’t inherit God’s kingdom? Don’t kid yourselves: sexually immoral people, idolaters, adulterers, effeminate men, homosexuals, 10thieves, covetous people, drunkards, revilers, swindlers won’t inherit his kingdom. 11Some of you were like that, but you were washed, sanctified, made good in the Lord Jesus and in the Spirit of our God.
+
+1 Cor 6:1-11
+
+12I can do all kinds of things, but they’re not all beneficial, and I won’t put myself under their control. 13Food’s for the stomach, and the stomach’s for food, but God will destroy it and them. The body is not for immorality, but for the Lord; and the Lord is for the body. 14But God has resurrected the Lord, and he’ll resurrect us by his power. 15Don’t you know your bodies are parts of Christ? So am I going to take parts of Christ and make them parts of a prostitute? Goodness, no! 16Don’t you know that whoever joins himself to a prostitute is one body with her physically? God says, “The two will become one physical identity” [Gen 2:24]. 17Whoever joins himself to the Lord is one spiritual identity with him. 18Run from sexual immorality. Every sin a person commits is aside from the body, but sexual sin is a sin against a person’s own body. 19Don’t you know yourpl body is a temple for God’s Holy Spirit that’s in youpl? Youpl don’t own yourselves; 20you’ve been purchased. So praise God with your body. 	1 Cor 6:12-20
+
+Teaching About Marriage
+
+7:1Regarding the things you wrote about. It’s okay for a man to stay single. 2But, to avoid sexual immorality, each man should have his own wife, and each woman should have her own husband. 3A husband needs to give his wife what’s due her, and vice versa. 4A wife doesn’t have sole rights over her own body; her husband does too. The same for a husband. 5Don’t withhold yourself from one another except for a while by agreement to devote yourselves to prayer. Then come together again so Satan doesn’t tempt you because of your lack of self-control. 6I say that as a concession, not a commandment. 7I’d like everyone to be like me, but each person has his gift from God—one, one way; another, another way.     	1 Cor 7:1-7
+
+8I say to unmarried people and widows, it’s good to stay like me. 9But if you don’t have self-control, get married; it’s better to marry than to lust. 10But the Lord, not just me, instructs a wife not to divorce her husband—11if she does divorce him, she needs to stay single or be reconciled to him—and a husband not to leave his wife. 12To the rest I say, not the Lord, if a disciple has an unbelieving wife and she’s willing to keep living with him, he shouldn’t leave her. 13If a wife has an unbelieving husband and he’s perfectly content to keep living with her, she shouldn’t leave him. 14A believing wife legitimizes an unbelieving husband and vice versa; otherwise, your children would be illegitimate. 15If an unbelieving spouse does divorce, let him or her divorce. A brother or sister isn’t bound in such cases. God has called us in peace. 16How do you know, wife, that perhaps you’ll save your husband; or husband, that you’ll save your wife?	1 Cor 7:8-16
+
+17Keep living in the societal circumstance where God called you. That’s what I tell everybody in all the churches. 18Were you called as circumcised? You don’t need to get uncircumcised. Were you called as uncircumcised? You don’t need to get circumcised. 19Circumcision or uncircumcision doesn’t matter. Keeping God’s commandments is what matters.
+
+20Keep living in the circumstance where God called you. 21Were you called as a slave? It doesn’t matter. (But, if you can be free, do it.) 22A person the Lord calls that’s a servant is free as far as he is concerned. A person the Lord calls tthat’s a freeman is the Lord’s ‘servant.’ 23You’ve been purchased for a price; don’t become servants to other people. 24Stay with God in the circumstance where he called you.   	1 Cor 7:17-24
+
+Advice to the Unmarried
+
+25About virgins. I don’t have any command from the Lord, but I offer my opinion as somebody he has been merciful enough to consider dependable. 26I recommend handling the matter this way in light of present difficulties: it’s good for you to stay the way you are. 27Are you married? Don’t get a divorce. Are you single? Don’t look for somebody to marry. 28If you do get married, you haven’t sinned; if a virgin gets married, she hasn’t sinned. But married people will face difficulties in this life, and I want to spare you. 29I’m telling you, it won’t be long till the ones that have wives will be as if they didn’t, 30those crying or rejoicing as if they weren’t, 31and those taking advantage of this world’s opportunities as not doing it fully. The situation’s changing, 32and I don’t want you to have distracting concerns. An unmarried man tends to concern himself with the Lord’s things—how to please him; 33a married man feels a need to concern himself with this world’s things—how to be pleasing to his wife 34and is torn. Unmarried women and virgins tend to be concerned about the Lord’s things—being holy in body and spirit; a married woman feels a need to concern herself with this world’s things—how to be pleasing to her husband. 35I’m saying this to help you, not to hold you back—to free you for orderly, undistracted devotion to the Lord.    	1 Cor 7:25-35
+
+36If a man thinks he’s being insensitive toward his virgin daughter, if she’s full-grown and wants to get married, he should follow his heart. He’s not sinning; do what he’s inclined to do; let them marry. 37But a man that’s made up his mind, stands firm in his heart, is under no pressure, has decided as far as he’s concerned to keep his virgin, he’s doing a good thing. 38So, the one who gives his virgin daughter in marriage does well, and the one that doesn’t does better.
+
+39A wife is married to her husband for as long as he’s alive. If he dies, she’s free to marry whoever she wants to—only in the Lord. 40But she’d be happier if she stayed like she is, but that’s just me. I think I also have God’s Spirit.	 1 Cor 7:36-40
+
+Meat Offered to Idols
+
+8:1About things offered to idols. We all have knowledge. Knowledge tends to make a person proud; love builds other people up. 2If anybody thinks he knows, he doesn’t know like he should. 3If anybody loves God, God knows it. 4So, as to eating things offered to idols, we know idols aren’t real and there’s no God but one. 5There are lots of so-called gods and lords in the sky and on earth. 6But for us
+
+there’s one God, the Father—
+
+from whom everything has come and
+
+for whom we live—and
+
+there’s one Lord, Jesus Christ—
+
+by whom everything has come
+
+and by whom we live. 	1 Cor 8:1-6
+
+7But not everybody knows that. Some people were used to idols before. They were used to eating food as an offering to them. Eating that kind of food grates on their conscience now. Their conscience is weak, and it bothers them. 8Food doesn’t make us acceptable to God: if we don’t eat, we’re not worse; if we do, we’re not better. 9But be careful that yourpl freedom doesn’t make weak people stumble. 10If someone sees youpl that have knowledge reclining at table in an idol’s temple, won’t their weak conscience be inclined to eat to the idol the things offered to the idol? 11Yourpl knowledge is destroying a weak Christian Christ died for. 12When you sin that way against members of Christ’s body and grate on their tender conscience, you’repl sinning against Christ. 13So if what I eat makes my fellow Christians stumble, I’ll never eat meat because I don’t want to make them stumble.       	  1 Cor 8:7-13
+
+Paul’s Defense of His Apostleship
+
+9:1Am I not free? Am I not an apostle? Haven’t I seen Jesus our Lord? Aren’t you my work in the Lord? 2If I’m not an apostle to other people, I am to you. You’re the seal of my apostleship in the Lord.
+
+3Here’s my defense to the ones who are criticizing me. 4Don’t I have a right to eat? 5Don’t I have a right to have a wife that’s a sister in the faith like Cephas, the rest of the apostles, and the Lord’s brothers? 6Are Barnabas and I the only ones that don’t have a right not to work? 7What soldier ever serves at his own expense? Who plants a vineyard and doesn’t eat its fruit? Who tends sheep and doesn’t drink their milk? 8I’m not just talking about human custom, am I? Doesn’t the Law of Moses say that too? 9“Don’t put a muzzle on an ox while it’s threshing” [Deut 25:4]. God’s not concerned here about oxen, is he? 10Isn’t he speaking for our benefit? He wrote it for our benefit so the one who’s threshing should work in hopes of sharing in the crops. 11If we sowed spiritual things to you, is it too much to reap material things from you? 12If other people share that right, don’t we even more? 	1 Cor 9:1-12a
+
+But we haven’t used that right. We endure things to keep from hindering the good news of Christ in any way. 13Don’t you know that the ones who perform sacred services eat from the Temple, and that the ones who wait on the altar have a share from the altar? 14In the same way the Lord has directed that the ones who deliver the good news should have a living from it. 15But I haven’t taken advantage of that provision, and I’m not writing this to change what we’ve been doing. I’d rather die than let anyone make my pride hollow. 16If I deliver the good news, I don’t have anything to take pride in. I have to do that. Woe to me if I don’t! 17If I do it because I want to, I’m entrusted with a stewardship. 18Where’s my reward then? That I deliver the good news for free and not make use of my rights in it.	 1 Cor 9:12b-18
+
+19Although I’m free from everybody, I’ve made myself a servant to everybody so I can win more of them. 20To Jews I’ve become like a Jew to win Jews. To people under law I’ve become like somebody under law—though I’m not really—to win people under law. 21To people not under law I’ve become like somebody not under law—though I am under God’s law, Christ’s ‘law’—to win people not under law. 22To the weak I’ve become weak to win the weak. By all means I’ve become all things to all people to save some. 23I do everything for the sake of the good news so I can partake of it.
+
+24As you know, everybody in a race runs, but only one wins the garland. Run so you’ll be the one that wins it. 25Everybody that competes in the games exercises self-discipline in everything. They do it for a crown that deteriorates; we do it for one that doesn’t. 26I don’t just run around; I don’t just shadow box. I discipline my body and keep it under control so, after I preach to other people, I don’t disqualify myself. 	1 Cor 9:19-26
+
+Boundaries of Christian Liberty
+
+10:1I want you to know that our forefathers passed through the sea under the cloud. 2They were baptized to Moses in the cloud and sea. 3They ate the same spiritual food 4and drank the same spiritual drink: they drank from the spiritual rock that followed them—the ChristMessiah. 5But God wasn’t pleased with most of them and struck them down in the wilderness. 6What happened with them serves as an example for us not to crave evil things like they did, 7or worship idols like some of them did, “The people sat down to gluttony and got up to revelry” [Ex 32:6]. 8We must not commit sexual sin like some of them did, and 23,000 fell in one day. 9Let’s not put Christ to trial like some of them did, and snakes killed them; 10or complain like some of them did, and the destroyer destroyed them. 11Scripture recorded those events to warn us later 12so whoever thinks he’s standing would be careful not to fall. 13You haven’t faced anything beyond normal human experience. God’s reliable; he won’t let you face more than you can handle. He’ll provide an escape so you can handle it. 	 1 Cor 10:1-13
+
+14So run away from idolatry. 15I’m talking to you as intelligent people; pay attention to what I’m saying. 16Isn’t the cup of blessing that we bless, a sharing in Christ’s blood? Isn’t the loaf we break a participation in his body? 17Since there’s one loaf, the many of us are one body and share the one loaf. 18Look at physical Israel. Don’t the ones that eat the sacrifices share in the altar? 19So am I saying that something offered to an idol has value or that an idol has any value? 20No, I’m saying that what people sacrifice, they sacrifice to demons, not God. And I don’t want you involved with demons. 21You can’t drink the cup of the Lord and the cup of demons. You can’t participate in the table of the Lord and the table of demons. 22Are we trying to make the Lord jealous? We aren’t stronger than he is, are we?	1 Cor 10:14-22
+
+23Not everything that’s possible is beneficial. 24Don’t look after your own welfare as much as others’ welfare. 25Eat whatever they sell in the marketplace; don’t ask any questions for conscience sake, 26because, “The earth and everything in it belong to the LORD” [Ps 24:1; 50:12; 89:11, 27]. 27If an unbeliever invites you to dinner and you want to go, eat anything he sets in front of you without asking any questions for conscience sake. 28But if somebody says, “This is offered in sacrifice,” don’t eat it 29out of consideration for the other person’s conscience. Why does someone else’s conscience limit my freedom? 30If I eat with thanks, why am I slandered for it? 31Whether you eat or drink or whatever you do, do it to God’s honor. 32Don’t do anything that hurts Jews or Gentiles or God’s church. 33I aim to be pleasing to everybody in everything I do. I don’t try to do what’s best for me, but for everybody’s benefit so I can save them. 11:1Follow my example like I follow Christ’s.	1 Cor 10:23-11:1
+
+Women’s Decorum in Worship
+
+2I commend you for remembering me and maintaining the customs I passed on to you. 3I want you to know that God is the head of Christ, Christ is the head of every husband, and a husband is head of a wife. 4A man that prays or prophesies with his head covered disgraces his head. 5A woman that prays or prophesies bareheaded disgraces her head. It’s the same as shaving it. 6If a woman is bareheaded, she may as well be bald. If it’s shameful for a woman to cut her hair off, she should cover her head. 7A man shouldn’t cover his head because he’s the image and delight of God. A wife is her husband’s delight. 8Man didn’t come from woman, but woman from man. 9Man wasn’t created for woman, but woman for man. 10So she should wear a sign of authority on her head because of the angels. 11But, in the Lord a husband and wife exist as a combination. 12As woman came from man, man comes by woman, and everything comes from God. 13Judge for yourselves: is it appropriate for a woman to pray to God bareheaded? 14Doesn’t what’s natural teach you that long hair dishonors a man, 15but it honors a woman? Long hair serves as a covering for her. 16If someone wants to argue about it, we don’t have such a custom; neither do the churches of God.   	 1 Cor 11:2-16
+
+The Lord’s Supper
+
+17In this next instruction, I’m not commending you, because your getting together doesn’t make things better but worse. 18To begin with, when you get together for church, I hear there are divisions among you, and I’m inclined to believe it. 19Divisions even need to exist to show who are approved. 20When you get together, you can’t be eating the Lord’s Supper. 21Each one is bringing out his own supper, and one’s hungry while another overeats. 22Don’t you have houses to eat in? Do you disrespect God’s church and embarrass people that don’t have anything to eat? What can I say to you? Can I compliment you? Not for that, I can’t. 	1 Cor 11:17-22
+
+23I received from the Lord what I passed on to you. The night he was betrayed, he took a loaf, 24gave thanks, broke it, and said, “This is my body, which is for you. Do this in memory of me.” 25After the meal he took the cup, “This cup is the New Covenant in my blood. As often as you drink it, do it in memory of me.” 26As often as you eat this bread and drink the cup, you’re expressing the Lord’s death till he comes.
+
+27So whoever eats this bread or drinks the cup of the Lord in a way that’s not appropriate, is guilty of his body and blood. 28That’s why you need to examine yourself and eat the bread and drink the cup that way. 29If you eat and drink without recognizing the [Lord’s]ms body, you eat and drink condemnation to yourself. 30That’s why many of you are weak and sickly, and a considerable number are dying. 31If we examine ourselves, we won’t be condemned. 32When we judge ourselves, the Lord disciplines us so we won’t be condemned along with the world. 33So when you get together to eat, be considerate. 34If you’re hungry, eat at home to avoid being condemned. I’ll straighten out the rest when I get there. 	1 Cor 11:23-34
+
+Teaching on Spiritual Gifts
+
+12:1About spiritual gifts. 2You know that when you were pagans, in one way or another, idols that couldn’t talk were leading you astray. 3So I tell you, nobody that speaks by God’s Spirit claims, “Jesus is accursed”; and nobody can claim, “Jesus is Lord,” except by the Holy Spirit.
+
+4There’s a variety of spiritual gifts, but the same Spirit; 5a variety of ministries, but the same Lord; 6a variety of activities, but the same God, who accomplishes everything in everyone. 7The demonstration each person has from the Spirit serves for the benefit of the rest. 8The same Spirit gives a message about wise living to one and a message about understanding to another, 9faith to one and gifts of healing to another; 10working miracles to one, prophesying to another, and distinguishing between spirits to another; speaking different languages to one and translating languages to another. 11The same Spirit does them all and distributes to each person as he sees fit.     	 1 Cor 12:1-11
+
+The Church as a Body
+
+12As one body has many parts, so does Christ. 13We were baptized in one Spirit into one body—whether Jew or Greek, bond or free—and drank from one Spirit. 14The body doesn’t have one part, but many. 15If a foot says, “Since I’m not a hand, I’m not part of the body,” is it then not part of the body? 16If an ear says, “Since I’m not an eye, I’m not part of the body,” is it then not part of the body? 17If the whole body were an eye, how would it hear anything? If the whole body were hearing, where would it smell anything? 18God has placed each part in the body just the way he wants it. 19If they were all one part, where would the whole body be? 20There are many parts, but one body. 21An eye can’t tell a hand, “I don’t need you.” The head can’t tell the feet, “I don’t need you.” 22More notably yet, parts we consider weaker are necessary. 23Parts we consider less honorable we give more attention to; our less presentable parts become more presentable, 24and parts that are already presentable get less attention. God has put the body together in a way that gives greater honor to the part that lacks it, 25so there’s no division in the body because the parts take care of each another. 26If one part suffers, they all suffer; if one receives honor, they all rejoice. 	1 Cor 12:12-26
+
+27As a group you’re Christ’s body, and individually you’re parts of it. 28In the church, God has appointed apostles first, prophets second, teachers third, then miracles, gifts of healing, helps, administrations, kinds of languages. 29Not everyone is an apostle or prophet or teacher or miracle worker, are they? 30Not everyone has gifts for healing or speaks in languages or translates, do they? 	  1 Cor 12:27-30
+
+Love , the All-Purpose Virtue
+
+31Earnestly desire the more important gifts, but I’ll show you something even better. 13:1If I speak in the languages of humans and angels, but don’t love, like a noisy gong or crashing cymbal I mean nothing. 2If I prophesy, understand all mysteries, know everything, have enough faith to move mountains, but don’t love, I am nothing. 3If I give everything I own to feed the poor and deliver my body to be burned up, but don’t love, I gain nothing by doing it.
+
+4Love is patient and kind, not jealous or proud. 5It’s considerate, not selfish or easily offended; it doesn’t dwell on what’s wrong. 6Love doesn’t enjoy doing people in; it enjoys the truth. 7Love bears up under everything; it tends to trust; it hopes for the best. Love lasts.
+
+8Love never falls out of the picture. But prophesying will pass away; languages will stop; knowledge will disappear. 9We know partially and prophecy partially. 10But, when what’s final comes, what’s preliminary will disappear. 11When I was a kid, I talked like one, thought like one, reasoned like one. When I grew up, I quit doing what a kid does. 12We see in a mirror blurry now, but we’ll see directly then. I know partly now, but then I’ll know as I’m known. 13There’s faith, hope, and love now—those three; but love is the most important. 	1 Cor 12:31- 13:13
+
+How Speaking in Languages Works
+
+14:1Focus on practicing love, and earnestly desire spiritual gifts so you can communicate. 2A person that’s speaking in another language isn’t speaking to anybody but God because nobody is understanding what the Spirit is enabling him to say. 3A person that communicates, helps, encourages, comforts other people. 4Somebody that speaks in another language helps himself, but a person that communicates helps the church. 5Now I’m willing for all of you to speak in languages, but so you can communicate. If you communicate, you’re doing something more important than speaking in other languages—unless you translate so you can help the church. 	1 Cor 14:1-5
+
+6If I come to you speaking in other languages, how will I be helping you unless I’m giving revelation, knowledge, prophecy, or teaching? 7Even inanimate things that make sounds—like flutes or harps—if they don’t make definite tones, how will listeners recognize what the flute or harp is playing? 8If a bugle makes random sounds, who’s going to arm for battle? 9In the same way, unless you speak clearly in a language, how are people going to understand you? You’ll be talking into the air. 10There are lots of languages in the world, and they all convey meaning. 11If I don’t understand what the sound means, we’re foreigners to each other. 12So since you’re enthused about spiritual gifts, aim at helping the church with them. 13Whoever speaks in another language should pray to be able to translate it. 14If I’m praying in another language, my spirit’s praying, but my mind isn’t understanding the words I’m saying.
+
+1 Cor 14:6-14
+
+15What, then? I’ll pray with the spirit and the mind. I’ll sing with the spirit and the mind. 16Otherwise, if I’m blessing with the spirit, how can the ungifted say, “Amen,” when I give thanks? He won’t be understanding me. 17I’ll be giving thanks all right, but I won’t be helping him. 18I thank God that I speak in other languages more than all of you do, 19but in church I’d rather say five words with my mind so I can teach other people than 10,000 words in another language.   	1 Cor 14:15-19
+
+20Don’t think like little kids. (Be innocent like little kids when it comes to evil.) In your minds, be grown-ups. 21The Law says,
+
+“‘I’ll speak to this people
+
+in foreign languages
+
+with the lips of foreigners;
+
+they won’t listen to me even that way,’ the LORD says” [Is 28:11; Deut 28:49].
+
+22So other languages serve as signs for unbelievers, more than believers; prophecy is for believers, more than unbelievers. 23If the church gets together, and everybody is speaking in other languages, and ungifted or unbelievers come in, won’t they say you’re out of your mind? 24But if everybody’s speaking on behalf of God and unbelievers or laymen come in, you’ll be convicting them and calling them to account. 25Their inner yearnings will become clear, and they’ll fall on their faces and worship God. They’ll declare, “God has to be among you.”
+
+1 Cor 14:20-25
+
+Orderly Assembly
+
+26What, then? When you get together, and each has a psalm, a teaching, a revelation, a language, a translation, do everything to benefit one another. 27If people speak in another language, two or at most three should take turns, and one should translate. 28If there’s no translator, they need to be quiet and talk to themselves and to God. 29Two or three prophets can speak, and the others think about what they’re saying. 30If a revelation comes to somebody else that’s sitting there, the first should yield the floor. 31You can all take turns prophesying so everybody can learn and be encouraged. 32The spirits of prophets are subject to the prophets; 33God brings peace, not confusion.	 1 Cor 14:26-33a
+
+Women’s Decorum in Church
+
+As in all the churches of the saints, 34women should remain silent in church services and practice deference like the Law says. 35If they want to find out about something, they can ask their husbands at home; it’s embarrassing for a woman to speak out in church. 36Did the word of God come from you, or did it come just to you?
+
+37If you consider yourself a prophet or spiritual person, you need to recognize that what I’m writing to you is the Lord’s command. 38If anyone ignores that, ignore them. 39So, go ahead and earnestly desire to prophesy and let people speak in other languages, 40but do everything properly and orderly.  	  1 Cor 14:33b-40
+
+The Resurrection of Jesus
+
+15:1My fellow Christians, I want you to know the most important thing in the good news I delivered to you, that you accepted, that you stand in, 2that saves you if you hold onto it (unless you’ve believed for nothing): 3Christ died for our sins according to the scriptures, 4was buried, was resurrected the third day according to the scriptures, 5appeared to Cephas, then the Twelve, 6then to more than 500 disciples at the same time (most of them are still alive). 7Next he appeared to James and then to all the apostles. 8Last, he appeared to me like someone born out of season. 9I’m the least of the apostles and don’t deserve to be called one because I persecuted God’s church. 10But by God’s grace I am what I am, and his grace to me has produced results. I’ve worked harder than any of them—not so much me, but God’s grace in me. 11So whether it’s me or them, Christ’s resurrection is what we proclaimed and what you believed.  	1 Cor 15:1-11
+
+The Resurrection of People
+
+12If we proclaimed that Christ resurrected, how can some of you say there’s no such thing as resurrection? 13If that’s true, Christ hasn’t resurrected. 14If he didn’t, then our preaching is worthless and so’s your faith. 15Besides, we’re false witnesses for God because we’ve claimed he resurrected Christ, which he didn’t do if there’s no such thing as resurrection. 16If dead people don’t resurrect, Christ didn’t. 17If he didn’t resurrect, your faith is useless, you’re still in your sins, 18and the dead in Christ have perished. 19If we have hope in Christ only in this life, we’re the most pitiable people alive. 	 1 Cor 15:12-19
+
+20But, Christ has resurrected, the firstfruits from the dead. 21Since death came by man, resurrection came by man. 22As in Adam people die, so in Christ people resurrect—23each in sequence: Christ the firstfruits, then the ones that belong to him when he comes back. 24Then the end will come, when he does away with all other rule, authority, and power. 25He needs to reign till he overcomes all his enemies. 26The last enemy he’ll overcome is death. 27“God will subject everything to him” [Ps 8:6]. When it says “everything,” obviously it doesn’t include the One who did the “subjecting.” 28When God subjects “everything” to the Son, the Son will be subject to God, so God will be ultimate in everything. 	 1 Cor 15:20-28
+
+Ministry and the Hope of Resurrection
+
+29Otherwise, what will the ones baptized on behalf of the dead be doing? If the dead don’t resurrect, why be baptized on their behalf? 30Why do we face danger all the time? 31By the pride we take in you, the pride we have in Christ Jesus our Lord, I tell you, I die every day. 32If, figuratively speaking, I fought wild animals in Ephesus, what good did it do? If the dead don’t resurrect,
+
+“Let’s eat and drink;
+
+we’re going to die tomorrow” [Is 22:13; 56:12].
+
+33Don’t kid yourselves,
+
+“Bad company ruins good morals.”
+
+34Come to your senses about goodness, and don’t practice sinning. It’s a shame to say it, but some of you don’t know God.  	  1 Cor 15:29-34
+
+The Resurrected Body
+
+35Somebody might ask, “How do dead people resurrect? What kind of body do they come with?” 36Foolish one! What you plant doesn’t come to life unless it dies. 37What you plant isn’t the body it’s going to become. You plant bare wheat seed, for example. 38God gives it the body he wants it to have, and each kind of seed has its own shape. 39 People, cattle, birds, and fish all look different. 40Things in the sky differ from things on the ground in how impressive they are. Things in the sky differ from each other in brightness—41the sun’s brighter than the moon; the moon’s brighter than the stars; the stars differ in how bright they are. 	1 Cor 15:35-41
+
+42That’s how resurrection is. What’s planted in decay resurrects unable to decay; 43what’s planted in dishonor resurrects in honor; what’s planted in weakness resurrects in power; 44what’s planted as a physical body resurrects as a spiritual one. There’s a physical body and a spiritual body. 45Scripture says,
+
+“The first man Adam became a living being” [Gen 2:7];
+
+the last Adam became a life-giving spirit. 46But, the spiritual doesn’t come first; the physical comes, then the spiritual. 47The first man is from the dust of the earth; the second man is from heaven. 48Earthly people are like the earth; heavenly ones are like heaven. 49As we’ve been like the earth, we’ll be like heaven.  	1 Cor 15:42-49
+
+Victory Through Resurrection
+
+50I’m saying that because flesh and blood can’t inherit God’s kingdom. What perishes doesn’t inherit what doesn’t perish. 51I’ll tell you a mystery: not everybody will die, but everybody will be changed—52in an instant, in the blink of an eye, at the last trumpet blast. The trumpet will blow, and the dead will resurrect imperishable, and we’ll be changed. 53This perishable body must put on what’s not perishable; this mortal body must put on immortality. 54When that happens, what’s written will take place,
+
+“Victory has swallowed up death [Is 25:8].
+
+55Death, where’s your victory?
+
+Death, where’s your sting?” [Hos 13:14]
+
+56“Death’s sting” is sin, and sin’s power is law. 57Thank God, who gives us the “victory” through our Lord Jesus Christ. 58So stay steadfast, unmovable, always excelling in the Lord’s work. You know your labor in the Lord amounts to something. 	1 Cor 15:50-58
+
+The Collection for Hebrew Christians
+
+16:1About the collection for the saints. Do what I told the churches in Galatia. 2Every first day of the week, each of you lay aside in store as things go for you, so there won’t be any collecting after I get there. 3When I arrive, whoever you appoint, I’ll send with letters to carry your gift to Jerusalem. 4If it’s appropriate for me to go too, we’ll go together.
+
+5I’ll see you after I go through Macedonia. 6I can stay with you a while or even spend the winter so you can send me on. 7I don’t want to see you this time in passing, because I hope to stay a while, Lord willing. 8I’m going to stay in Ephesus till Pentecost 9because a wide, effective door has opened up for me, although there’s a lot of opposition. 	1 Cor 16:1-9
+
+The Activities of Paul’s Fellow Workers
+
+10If Timothy comes, see that he’s welcome. He’s doing the Lord’s work like I am. 11Nobody should disregard him but send him on in peace so he can come back to me. I expect him to come with the disciples.
+
+12I strongly urged Apollos to come to you with the others, but he really didn’t want to come now. He’ll come when he can.
+
+13Stay alert, stand firm in the faith; be courageous and strong. 14Everything you do, do with love.
+
+15-16You know that the family of Stephanas was the firstfruits of Achaia, and that they’ve devoted themselves to serving the saints. I urge you to cooperate with people like them and with everybody that labors in the work. 17I was so glad Stephanas, Fortunatus, and Achaicus came, because they supplied what you hadn’t yet provided. 18They’ve refreshed me—and you. Give recognition to people like them. 	 1 Cor 16:10-18
+
+Greetings and Benediction
+
+19The churches in Asia send you greetings. Aquila and Prisca greet you warmly along with the church that meets in their house. 20The disciples all send their regards; greet one another with a holy kiss.
+
+21The salutation with my own hand—Paul.
+
+22If somebody doesn’t love the Lord, let him be accursed. Lord, come!
+
+23The grace of the Lord Jesus be with you. 24My love is with you all in Christ Jesus. Amen. 	1 Cor 16:19-24
+
+SECOND CORINTHIANS
+
+Salutation
+
+1:1Paul, apostle of ChristMessiah Jesus by God’s will, and Timothy our brother, to the church of God in Corinth with the saints everywhere in Achaia. 2Grace and peace from God our Father and the Lord Jesus Christ.     	2 Cor 1:1-2
+
+God’s Comfort in Sufferings
+
+3Blessed be the God and Father of our Lord Jesus Christ. He’s our merciful Father and comforting God. 4He comforts us in every hardship so we can comfort other people in any hardship with the comfort he gave us. 5As sufferings for Christ increase in us, our comfort through Christ also increases. 6If we experience hardship, it’s for your comfort and salvation. If we’re comforted, it’s for your comfort to endure the same sufferings we have. 7Our hope for you is unmovable because we know that as you share our sufferings, you share our comfort too.
+
+8Fellow Christians, we want you to know about our hardships in Asia. It was a burden so much beyond our own power to handle that we weren’t sure we’d even live through it. 9We had the death sentence in us so we weren’t trusting in ourselves, but in God who raises the dead. 10He rescued us from a great threat of death, and we’ve put our hope in him to keep rescuing us. 11You worked for us by praying so lots of people could be grateful for the grace we’ve received.
+
+2 Cor 1:3-11
+
+Paul’s Sincerity
+
+12We’re proud of how clear our conscience feels, especially toward you. We’ve conducted ourselves in godly holiness and sincerity, not in fleshly wisdom but in divine grace. 13We’re writing what you can understand, and I hope you’ll understand it completely. 14You understand to some extent how proud we are of you—like you will be of us when the Lord Jesus comes.   	 2 Cor 1:12-14
+
+15In this confidence I was intending at first to come so you could have a second grace. 16I meant to go through you on to Macedonia and back to you, and to have you send me forward to Judaea. 17With this plan I wasn’t being fickle, was I? Do I make fickle plans—“Yes, I will”; “No, I won’t.” 18As God keeps his word, we don’t tell you, “Yes, I will” and then say, “No, I won’t.” 19God’s Son, Christ Jesus, the One Silvanus, Timothy, and I presented among you, wasn’t, “Yes, I will”; “No, I won’t.” He’s been “Yes, I will.” 20However many promises God has made, in Christ is “Yes.” He’s our Amen, to God’s honor. 21In Christ, God has established us, anointed us and you, 22sealed us, and given us the Spirit as a pledge in our hearts. 	2 Cor 1:15-22
+
+Paul’s Delayed Visit
+
+23God’s my witness: it was to spare you that I changed my mind and didn’t come to Corinth. 24We aren’t trying to lord it over your faith; we’re fellow workers for your joy. You stand firm in your own faith. 2:1I was determined not to come again with sadness. 2If I make you feel bad, who’s going to make me feel good except the ones I made feel bad? 3I’ve written this so when I come, I won’t be saddened by the ones I need to make me happy. I’m confident that my joy would mean your joy. 4Out of hardship and anxiety, I wrote to you through many tears, not to make you sad, but to let you know how much I care about you.  	2 Cor 1:23-2:4
+
+Forgiving the Offender in Corinth
+
+5If somebody has caused sadness, he hasn’t caused it just to me—I’m not exaggerating—but to all of you. 6That discipline by the majority is enough for someone like him. 7Now you need to forgive him and comfort him so grief doesn’t overwhelm him. 8So show him how much you care about him. 9That’s another reason I’ve written: to know if you obey in everything. 10If you’ve forgiven anybody of anything, I have too. What I’ve forgiven I’ve forgiven for your sake in the presence of Christ 11so Satan can’t get the better of us. We know how he works.
+
+2 Cor 2:5-11
+
+Paul’s Push to Get to Corinth
+
+12When I got to Troas to present the good news about Christ, a door opened up for me in the Lord. 13But I didn’t find any peace of mind because I didn’t find my brother Titus. So I left and went on over to Macedonia.
+
+14Thanks to God, who always leads us in victorious procession in Christ, and reveals through us everywhere the sweet aroma that arises from knowing him. 15We’re the scent of Christ arising to God among the saved and the perishing. 16To the one we’re the stench that leads to death; to the other we’re the aroma that leads to life. Who’s good enough for that? 17We’re not like many that peddle God’s message for money. In Christ we speak sincerely from God in his sight.    	 2 Cor 2:12-17
+
+Ministry of the New Covenant
+
+3:1Are we beginning to commend ourselves again? We don’t need letters of recommendation to you or from you like some do, do we? 2You’re our letter that everybody can know and read, written on our hearts. 3You’re an open letter from Christ, served by us, not written with ink, but with the spirit of the living God, not on stone tablets, but on human hearts.
+
+4We have so much confidence in God through Christ, 5not because we’re adequate to consider anything as our own accomplishment, but adequate because of what comes from God. 6He has made us adequate ministers of a new covenant, not of the letter, but of the spirit. The letter deadens; the spirit enlivens.
+
+7The ministry that brought death—engraved with letters on stone—came with so much glory that the Israelites couldn’t look at Moses’ face—a fading glory. 8Won’t the ministry of the spirit have even more glory? 9If the ministry that brought condemnation had glory, how much more glory does the ministry have that brings goodness. 10What had glory doesn’t have any in comparison to what has greater glory. 11What faded away had glory, but what doesn’t fade away has a lot more glory.         	2 Cor 3:1-11
+
+Freedom from Law
+
+12With that kind of hope, let’s be bold. 13Let’s not be like Moses, who put a veil on so the Israelites wouldn’t have to look at what was fading away. 14-15Their minds were insensitive. To this day when they read the Old Covenant, the same veil is there. They don’t understand that ChristMessiah removes it. 16When their heart turns to the Lord, the veil disappears. 17Now the Lord is the spirit of the Old Covenant, and where his spirit is, there’s freedom. 18When with unveiled face we look at the glory of the Lord in a mirror, the Lord, the spirit, transforms us into that same image from glory to more glory.       	 2 Cor 3:12-18
+
+Preaching Christ
+
+4:1So, since we have this ministry, we don’t get discouraged because we’ve received mercy. 2We’ve set aside shameful secrets; we don’t indulge in trickery or pervert God’s message. But by showing what’s true, we commend ourselves to everyone’s conscience in front of God. 3If our good news is veiled, it’s veiled to people that perish. 4The god of this world has blinded the minds of disbelievers so the glorious good news about Christ, the image of God, doesn’t enlighten them. 5We don’t present ourselves; we present Jesus Christ as Lord and ourselves as your servants for his sake. 6God said, “Light will shine out of darkness” [Gen 1:3; Is. 9:2]; he’s the One that will “shine” in our hearts and “enlighten” us with the knowledge of his glory that shines on the face of Jesus Christ. 	 2 Cor 4:1-6
+
+Endurance in Conflict
+
+7We have this treasure in clay jars so it’ll be obvious that the extraordinary power of the message does not come from us, but from God. 8In every way we’re afflicted, but not crushed; puzzled, but not in despair; 9persecuted, but not abandoned; knocked down, but not destroyed, 10always carrying around in our body the death of Jesus so his life will be obvious in our body as well. 11We who are alive keep getting delivered to death because of Jesus so his life can shine in our mortal flesh. 12So death is at work in us, but life is at work in you. 13We have the same spirit of trust as the scripture says “I believed; so I spoke” [Ps 116:10]. We “believe” too; so we “speak” 14because we know that the One who raised Jesus up will raise us up with him and present us along with you. 15Everything’s for your sake so the grace that has spread out through an increasing number of people will increase the gratitude, to God’s glory.
+
+16So we don’t get discouraged. Though our outer self wears out, our inner self renews daily. 17Our temporary, light hardship produces for us more and more an eternal, weighty glory that’s beyond comparison. 18We don’t look at what we can see, but what we can’t. What we can see is temporary; what we can’t see is eternal. 5:1We know that if our earthly “housing” perishes, we have one from God not made with hands, eternal in heaven. 2That’s what we wait for. [3] 4While we’re in this tent, we groan with burdens. We don’t want to be “unhoused,” but fully housed so life can swallow up what’s mortal. 5God has prepared us for that by giving us the Spirit as a pledge.       	 2 Cor 4:7-5:5
+
+Taking Courage in Christ
+
+6So we always take courage. We know that while we’re at home in the body we’re away from the Lord. (7We operate by faith more than by sight.) 8We have courage and prefer to be absent from the body and at home with the Lord. 9So we aim to please him, whether we’re at home or away. 10We all have to appear at Christ’s judgment seat to receive pay for what we did in the body, good or bad.
+
+11So, fearing the Lord, we persuade people. We’re open and obvious to God and, I hope, in your conscience too. 12We’re not trying to commend ourselves to you again; we’re giving you a chance to take pride in us so you can answer people that take pride in appearances instead of heart. 13Whether we’re beside ourselves is for God to decide; whether we have a sound mind is for you to decide. 14Christ’s love controls us because we’ve concluded that since One died for all, all had died. 15He died for all so all the living would stop living for themselves and live for the One that died for them and resurrected. 	2 Cor 5:6-15
+
+Salvation as Reconciliation
+
+16So from now on, we don’t know anybody by what they look like. Even though we’ve known Christ that way, we don’t anymore. 17So if anybody’s in Christ, they’re a new creation. The old things are gone; they’ve become new; 18and they’ve come from God. He has reconciled us to himself through Christ and has given us a ministry about reconciliation: 19that in Christ, God was reconciling the world to himself, not holding their trespasses against them, and putting in us the message about reconciliation. 20We’re ambassadors for Christ, and God is making his appeal to the world through us, “Please, for the sake of Christ, be reconciled to God.” 21The One who hadn’t sinned God treated as sinful on our behalf so we could become sinless in him.
+
+2 Cor 5:16-21
+
+Combating Opposition by Authentic Living
+
+6:1We’re working with him and urging you not to receive God’s grace for nothing. 2He says,
+
+“I listened to you at the right time;
+
+I helped you at a time of salvation” [Is 49:8].
+
+That “right time” is now; that “time of salvation” is now. 3We try not to offend in anything so people won’t find fault with our ministry. 4We try to commend ourselves as ministers in endurance, affliction, hardship, distress, 5beatings, imprisonment, mob violence, labors, sleeplessness, hunger; 6in purity, knowledge, longsuffering, kindness, a holy spirit, genuine love, 7in the message about the truth, the power of God; by the weapons of goodness in the right hand and the left; 8through honor and disrespect, bad report and good; as deceitful but true, 9unknown but well-known, as dying but alive, punished but not put to death; 10as grieved but always rejoicing, as owning nothing but having everything.
+
+11We’ve spoken freely to you, Corinthians; we’ve opened our hearts wide open. 12We’re not restraining you; your inward parts are restraining you. 13Open up to us. (I’m talking as if I’m talking to my children.)        	 2 Cor 6:1-13
+
+Christians as God’s Temple
+
+14Don’t get unequally yoked to unbelievers. How can goodness team up with lawlessness? What does light have in common with darkness? 15What harmony is there between Christ and Belial? What part does a believer have with a disbeliever? 16What agreement is there between God’s sanctuary and idols? We’re God’s living sanctuary—like he said,
+
+“‘I’ll live and move among them;
+
+I’ll be their God,
+
+and they’ll be my people [Lev 26:12; Jer 32:28; Ezek 37:27].
+
+17So come out from among them
+
+and be separate,’ the LORD says.
+
+‘Don’t touch anything unclean,
+
+and I’ll welcome you in [Is 52:11; Ezek 20:34, 41].
+
+18I’ll be your Father,
+
+and you’ll be my sons and daughters’ [2 Sam 7:8; Is 43:6; Jer 31:9; Hos 1:10],
+
+the LORD Almighty says” [Amos 3:13 LXX; 4:13 LXX].
+
+7:1Since we have these promises, let’s “cleanse” ourselves from all defilement of flesh and spirit, and become perfect in holiness out of respect for God. 	2 Cor 6:14-7:1
+
+The Great Value of Repentance
+
+2Make room for us in your hearts. We haven’t done anything wrong to anybody, misled anybody, taken advantage of anybody. 3I’m not criticizing you; like I said earlier, you’re in our hearts whether that means living or dying together. 4I’m being bold with you and expressing the great pride I take in you.    	2 Cor 7:2-4
+
+5When we came to Macedonia, we couldn’t rest. We had troubles on every side—conflicts outside and fears inside. 6But God, who comforts the downhearted, comforted us by Titus’ coming 7and by the comfort he felt over you. He reported your longing, your grieving, and your zeal for me, so I rejoiced even more. 8Though I made you sad by my letter, I don’t regret sending it, though I felt bad that it made you sad for a while. 9I’m happy now, not because you were grieved, but because you were grieved to repentance. You were sorry in conformity with God’s will, so you didn’t suffer any loss because of us. 10Sorrow that conforms a person to God’s will produces a repentance that leads to salvation without regret. The grief of this world leads to a dead end. 11What earnestness that grieving in conformity to God’s will has produced in you! What defense and indignation! What fear and longing! What zeal and avenging of wrong! In everything you’ve shown yourselves to be innocent in the matter. 12I didn’t write to you just for the offender and the offended; I wrote for your earnestness toward us to become clear to you in front of God. 13Because of that, we’ve been comforted. 	 2 Cor 7:5-13a
+
+Besides being comforted, we rejoiced over Titus’ joy because you all refreshed his spirit. 14If I ever told him how proud I was about anything in you, I wasn’t embarrassed. As we told you the truth about everything, our comments to Titus proved to be true as well. 15His affection for you is all the greater when he remembers your obedience and how you received him with heartfelt respect. 16I’m glad I can be confident about you in everything. 	2 Cor 7:13b-16
+
+The Collection for Homeland Christians
+
+8:1Now I want you to know about God’s grace that the churches in Macedonia have given. 2During a time of obvious great hardship, in their abundant joy and deep poverty their rich generosity abounded. 3I speak to the fact that by their ability and beyond they gave of their own accord. 4They begged us for the favor of participating in this ministry to the saints, 5not like we expected, but they gave themselves to the Lord first and to us by God’s will. 6So we urged Titus that, like he made a beginning earlier, he would complete in you this grace too. 7As you excel in everything—in faith, word, knowledge, diligence, and our love for you—excel in this grace too.                                                           	2 Cor 8:1-7
+
+8I’m not telling; I’m testing the sincerity of your love by comparing it to the zeal that others have. 9You know the graciousness of our Lord Jesus Christ. Though he was rich, he became poor for you so you could become rich from his poverty. 10I’m offering an opinion for your advantage. A year ago you wanted to do this. 11Now according to your ability, finish what you started. 12If people are ready, it’s acceptable as they have, not as they don’t have. 13The idea is not to make it easy for others and hard on you. It’s so there’ll be equality. 14Right now your abundance supplies their lack so their abundance can supply your lack, so there’ll be equality. 15Like scripture says,
+
+“The one that gathered a lot didn’t have too much;
+
+the one that gathered a little had enough” [Ex 16:18].       	  2 Cor 8:8-15
+
+Titus’ Role in the Collection
+
+16Thanks to God, who has put the same earnestness for you in Titus’ heart. 17He accepted the appeal and has earnestly gone out to you of his own accord. 18We’ve sent with him a brother that all the churches praise in the gospel. 19We’ve chosen him to travel with us in this grace that we’re overseeing to the Lord’s honor and to show our commitment. 20We’re handling the matter this way so nobody can find fault with us in this generous gift. 21We’re being careful about what’s appropriate in front of the Lord and people. 22We’ve sent with them our brother that we’ve often found diligent in many things. He’s all the more diligent because of the confidence he has in you. 23Titus is my partner and fellow worker in respect to you, and our brothers are messengers of the churches and Christ’s honor. 24So show the churches the proof of your love and the reason we’ve been so proud of you. 	2 Cor 8:16-24
+
+Further Comments on the Collection
+
+9:1I don’t need to write to you about this ministry to the saints. 2I know you’re committed to it, and I’ve told the Macedonians how pleased we are over it—pleased that you in Achaia have been ready since last year. Your zeal has stirred up many of them. 3I’ve sent the brothers so our pride in you in this matter wouldn’t be empty talk and, like I said, so you’d be ready. 4That way, if Macedonians come with me, they’ll find you ready, and we won’t be embarrassed (much less, you) by this confidence we’ve expressed about you. 5So I considered it appropriate to urge the brothers to go on to you and prepare ahead of time the blessing you promised before and get it ready as a blessing and not something you’d be doing under pressure.      	   2 Cor 9:1-5
+
+6Now I tell you, whoever doesn’t sow much doesn’t reap much, and whoever sows a lot reaps a lot. 7Each person needs to do as he has decided in his heart, not reluctantly, or because he has to. God loves a cheerful giver. 8He can make grace overflow for you so you can overflow in every good thing you do. You’ll always have everything you need, 9like scripture says,
+
+“He has distributed to everybody;
+
+he has given to the poor.
+
+His goodness remains forever” [Ps 112:9].
+
+10The One who supplies seed to the sower and bread for food will supply and multiply your seed, and increase the harvest from your goodness. 11In many ways, your generosity will enrich you, and yield thanksgiving to God through us. 12Ministering this service not only supplies what the saints need, it overflows with their great thanksgiving to God. 13By the proof this ministry gives, they’ll praise him for your obedience to the good news about Christ that you express by your generous contribution to them and everyone. 14While they pray for you, they’ll really want to see you because of the surpassing grace of God that’s in you. 15Thank God for his indescribable gift!                                                 	2 Cor 9:6-15
+
+Paul’s Defense of His Ministry
+
+10:1Now I urge you by the meekness and gentleness of Christ—I who am meek when around, but bold when away! 2I pray that when I am present, I won’t be as bold as I reckon I could confidently be against some who claim that we live according to the flesh. 3We do live in the flesh, but we don’t fight according to the flesh. 4Our weapons aren’t physical; they’re powerful in front of God for destroying strongholds. With them we destroy speculations 5and every stronghold that rises up against knowing God. We make every thought captive to obeying Christ. 6We stand ready to punish every disobedience whenever your obedience is complete.                                                  	2 Cor 10:1-6
+
+7You look at the outward appearance of things. If anybody thinks they belong to Christ, they need to think about this again: as they belong to Christ, so do we. 8Even if I’m too proud of our authority—which the Lord gave us for building you up, not for tearing you down—I won’t let you disregard me. 9I wouldn’t want to scare you with my letters! 10“His letters,” they say, “are heavy and strong; but his physical presence is weak, and his speech is contemptible.” 11They need to realize that what we are in word by letters when absent, we can be in deed when present.  	 2 Cor 10:7-11
+
+12We don’t take it on ourselves to group ourselves and compare ourselves with people that put themselves forward. They measure themselves by themselves and compare themselves with themselves; that doesn’t make sense. 13We aren’t going to take credit for more than we should, only in the area God appointed to us—to go as far as where you are. 14We’re not engaging in overreach; our work in the good news about Christ was the first to go as far as where you live. 15We don’t take credit for other men’s labors. But, we hope that you’ll hold us in increasingly higher regard in our area of service, 16so we can preach the good news in places beyond you instead of bragging about what’s been accomplished in somebody else’s area of service. 17“The one that boasts should boast in the LORD” [Jer 9:24]. 18It’s not who commends himself that’s approved, but who the LORD commends.  	  2 Cor 10:12-18
+
+Paul in Contrast to Other Ministers
+
+11:1Just bear with me in a little foolishness. 2I’m jealous for you with a godly jealousy. I married you to one husband and presented you as a pure virgin. 3I’m afraid that somehow, like the snake tricked Eve, he’ll lead your minds astray from the simplicity [and purity]ms that’s in Christ. 4If anybody comes presenting another Jesus than the One we’ve presented, or you receive a different spirit than you’ve received, or a different message than you’ve received, you pay patient attention to him! 5In no way do I consider myself inferior to the most prominent apostles. 6Even if I’m not skilled in how I speak, I am “skilled” in what I know, and we’ve made that quite clear to you in everything.    	2 Cor 11:1-6
+
+7Did I sin by humbling myself so you could be respected? Did I sin by presenting God’s good news to you for free? 8I robbed other churches, taking support from them so I could minister to you. 9When I was with you and needed something, I didn’t burden you. Brothers came from Macedonia to supply those needs. In every way I’ve kept from being a burden to you, and I’ll continue to do that. 10As Christ’s truth is in me, I won’t stop taking pride in that approach to ministering anywhere in Achaia. 11Why? Because I don’t love you? God knows.
+
+12What I’m doing I’ll keep doing. I want to take away any chance for the ones who want to be considered like us in what they’re proud of. 13People like them are false apostles, deceptive workers that disguise themselves as Christ’s apostles. 14That’s no wonder; Satan himself disguises himself as an angel of light. 15So it’s not surprising if his minsters disguise themselves as ministers of goodness. They’ll end up rewarded according to what they’ve done. 	2 Cor 11:7-15
+
+Recounting Paul’s Sufferings
+
+16Again let me say, don’t anybody consider me foolish. But, if you do, receive me as foolish so I can boast a little bit. 17I’m not speaking here as the Lord would have me speak, but foolishly, in confident boasting. 18Since many take pride in the flesh, I will too. 19Since you’re smart, you gladly put up with foolish people 20who enslave you, eat you up, take advantage of you, put on airs, slap you in the face! 21I’m speaking disparagingly of myself as if I really have been weak. But, in whatever respect anybody wants to be bold, I’ll be bold too. 22Are they Hebrews? So am I. Are they Israelites? So am I. Are they Abraham’s descendants? So am I. 23Are they Christ’s ministers? I am more: in more labors, in jail more often, in scourgings more severely, in danger of death many times. 24I received 39 lashes 5 times; 25I was beaten with rods 3 times; I was stoned once; I was shipwrecked 3 times; I’ve spent a night and a day in the open water. 26I’ve traveled often in dangers from rivers, robbers, my own countrymen, the Gentiles, in the desert, on the sea, among false believers. 27I’ve been in labor and hardship, in lots of sleepless nights, hungry and thirsty often, cold and without enough clothes. 28Besides external things, there’s daily pressure on me for all the churches. 29Who is weak and I’m not weak? Who falls into sin, and I’m not distressed?   	2 Cor 11:16-29
+
+30If I’m going to be proud, I’ll be proud of my weaknesses. 31The God and Father of the Lord Jesus—blessed forever—knows I’m not lying. 32In Damascus the ethnarch under King Aretas was guarding the city to capture me, 33and I was let down in a basket through a window in the wall and escaped.    	2 Cor 11:30-33
+
+Paul’s Revelation Experiences
+
+12:1Being proud may be appropriate, but it’s not profitable. I’ll go on to visions and revelations from the Lord. 2I know a man in Christ 14 years ago—whether in the body or not, I don’t know; God knows. He was caught up to the third heaven—[3]repeat 4to Paradise—and heard things you can’t express in words. 5I’ll take pride in that man; I won’t boast about myself except in my weaknesses. 6If I do boast, I won’t be foolish about it; I’ll talk about what’s real. I don’t want anybody to regard me as something more than what they can see for themselves.
+
+The Thorn in the Flesh
+
+7Because of the extraordinary greatness of those revelations, God gave me a thorn in the flesh—a messenger from Satan—to discipline me so I wouldn’t think too highly of myself. 8I asked the Lord three times to take it away. 9He said, “My grace is sufficient for you; my power reaches its highest expression in weakness.” Gladly, then, I’ll take pride in my weaknesses so Christ’s power can live in me. 10So I delight in weakness, mistreatment, need, persecution, and difficulty for Christ. When I’m weak I’m strong. 	2 Cor 12:1-10
+
+Concern for Corinth
+
+11You’ve made me become foolish. You should’ve been commending me. In no way have I been inferior to the most prominent apostles, though I’m nothing. 12I worked the signs of an apostle among you in an ongoing way—signs, wonders, and miracles. 13How did I treat you worse than the other churches—unless it was by not making myself a burden to you? Forgive me that wrong! 14I’m ready to come this third time, and I won’t be a burden this time either. I want you, not yours. Children don’t lay up for parents; it’s the other way around. 15I’ll gladly spend and be spent for your souls. Do you love me less for loving you more? 16Anyway, I didn’t burden you, because I was sneaky; I took you in by being crafty! 17Did I take advantage of you through anybody I’ve sent you? 18I’m the one that urged Titus and the brother to come. Titus hasn’t taken advantage of you, has he? Haven’t we both conducted ourselves with the same attitude? Haven’t we walked in the same footsteps?    	2 Cor 12:11-18
+
+19Do you think I’m saying all this to defend myself? God is witness, I’m saying this in Christ to help you. 20I’m afraid that in some way, when I get there, I won’t find you like I want to, and you won’t find me that way either. I’m afraid I’ll find rivalry, jealousy, anger, dispute, slander, gossip, pride, disturbances. 21I’m afraid my God will humiliate me in front of you, and I’ll be sad because people that sinned previously haven’t repented of their impurity, sexual immorality, and sensuality.      	2 Cor 12:19-21
+
+Self-Examination Before God
+
+13:1This will be the third time I’m coming to you. “Establish everything by two or three witnesses” [Deut 19:15]. 2The second time I was there I said this—and I say it again to the ones that sinned previously and to the rest—if I come again, I won’t hold back, 3because you’re looking for proof that Christ is speaking in me. He’s not weak toward you but is strong among you. 4Indeed, he was crucified out of weakness, but lives by God’s power. We’re weak in him too, but we’ll live with him by God’s power that’s directed at you. 	2 Cor 13:1-4
+
+5Test to see if you’re in the faith; examine yourselves! Don’t you realize that God’s among you—unless you fail the test? 6I hope you’ll know we won’t fail the test. 7We pray to God that you won’t do anything bad, not that we may appear approved, but that you’ll do what’s good even if we would fail the test. 8We can’t do anything against the truth, only for it. 9We are happy to be weak and you to be strong. We pray for this too: your perfection. 10So I’m writing this while absent so when I’m present, I won’t have to be severe in using the authority the Lord gave me for building you up, not for tearing you down. 	 2 Cor 13:5-10
+
+Final Greetings
+
+11Finally, rejoice, strive for perfection, be comforted, live in harmony and peace, and the God of love and peace will be with you. 12Greet one another with a holy kiss. (13)All the saints greet you.
+
+13(14)The grace of the Lord Jesus Christ, the love of God, and the fellowship of the Holy Spirit be with you all.   	  2 Cor 13:11-13(14)
+
+GALATIANS
+
+Salutation
+
+1:1Paul, apostle—not appointed by human agency or by human authority, but by Jesus ChristMessiah and God the Father who resurrected him—2and the Christians that are with me, to the churches in Galatia. 3Grace to you from God our Father and the Lord Jesus Christ. 4He gave himself for our sins to deliver us from this sinful age, as God had willed. 5Glory to him forevermore. Amen.      	 Gal 1:1-5
+
+The Only Gospel
+
+6I’m amazed that you’re turning away so quickly from the One that called you by the grace that comes from Christ and turning to a different kind of gospel that’s 7not really another gospel at all. It’s just that some people are confusing you by distorting Christ’s gospel. 8But, even if we or an angel from heaven would present a gospel different from what we presented, consider him under a curse. 9I repeat, if anybody presents a gospel different from the one you’ve received, consider him under a curse. 10Am I trying to please people or God? If I was trying to please people, I wouldn’t be serving Christ. 11-12I’m telling you, the message I presented to you didn’t come from other people; Jesus Christ revealed it to me.  	Gal 1:6-12
+
+Paul’s History
+
+13You’ve heard that when I was in Judaism, I was persecuting God’s church to the extreme. I was trying to destroy it. 14I was moving up the ranks in Judaism past many contemporaries in my nation because I was more fanatical about the traditions of my ancestors. 15But God set me apart at birth and called me by his grace. It pleased him 16to reveal his Son in me so I could present him among the Gentiles. Right away, I didn’t consult other people 17or go up to Jerusalem to the ones that were apostles before me. I went away to Arabia and then back to Damascus. 18Three years later I did go up to Jerusalem to visit Peter and stayed with him fifteen days. 19I didn’t see any of the other apostles except James, the Lord’s brother. 20What I’m writing to you is the truth. 21After that, I went to Syria and Cilicia. 22Christ’s churches in Judaea didn’t know me by sight. 23The only thing they kept hearing was that the one who used to persecute them was now preaching the faith he tried to destroy, 24and they praised God because of me.	       Gal 1:13-24
+
+Opposition to the Judaizers
+
+2:1Fourteen years later, I went up to Jerusalem again, that time with Barnabas, and took Titus along. 2I went up, directed by revelation, to lay out for them the message I was presenting to Gentiles. I met privately with the recognized leaders so I wouldn't be running or had run for nothing. 3They didn’t consider it necessary to circumcise Titus, a Gentile. 4That trip came about because false believers had slipped in to spy out the freedom we have in Christ Jesus and to enslave us to the Law. 5To maintain the truth about the good news, we didn’t back down for one minute. 6The recognized leaders in Jerusalem didn’t contribute anything to me. (Who they were didn’t matter. God doesn’t pay any attention to that.) 7Instead, they saw that God had entrusted me with presenting the good news to the uncircumcised like he’d entrusted Peter with presenting it to the circumcised. 8The One at work in Peter’s apostleship was at work in mine for the Gentiles. 9James, Cephas, and John—recognized pillars—shook hands with me and Barnabas to go to the Gentiles. They’d go to the Circumcision. 10The only thing was, they wanted us to remember the poor, and I was eager to do that.           	    Gal 2:1-10
+
+Paul Confronts Cephas (Peter)
+
+11When Cephas came to Antioch, I confronted him because he’d condemned himself. 12Before some men came from James, [the Lord’s brother], he’d been eating with the Gentiles. But when they got there, he started separating himself because he was afraid of the Circumcision. 13The rest of the Jews joined him in that hypocrisy—even Barnabas got caught up in it. 14When I saw they weren’t conforming to the true message, I said to Cephas, “If you’re a Jew but live like a Gentile, how is it that you require Gentiles to live like Jews? 15We’re naturally Jews, not Gentile sinners. 16We know that no person’s made good by doing the Law, but by trusting in Christ. We’ve put trust in Christ Jesus so trusting him can justify us. What people do under law doesn’t make them good. 17But if while we’re trying to be good in Christ, we turn out to be sinners, does that make Christ a minister of sin? Goodness, no! 18If I rebuild what I used to tear down, I make myself a sinner. 19By the Law I died to law so I could live to God. I’ve been crucified with Christ. 20It’s not me that’s living, but Christ that’s living in me. What I live now in the flesh, I live by trusting God’s Son, who loved me and gave himself for me. 21I don’t cancel out God’s grace. If law can make us good, there was no reason for ChristMessiah to die.  	Gal 2:11-21
+
+Law vs. Trust
+
+3:1Foolish Galatians! Who cast a spell on you? Right in front of your eyes I portrayed Jesus Christ crucified. 2This is what I’d like to know: did you receive the Spirit by working under law or by trusting the Person you listened to? 3Are you foolish enough to start with spirit and try to finish with flesh? 4Did you suffer so much for nothing—if it was for nothing? 5Does the one that provides you the Spirit and works miracles among you do it by working under law or trusting the Person he listened to? 6In that way, Abraham “trusted God, and God considered him good” [Gen 15:6].      	 Gal 3:1-6
+
+7Rest assured, then, the ones who “trust” are like Abraham. 8The scripture looked forward to when God would make Gentiles good by trusting. So it “presented the good news” to Abraham, “In you I will bless all the nations” [Gen 12:3; 18:18]. 9So God blesses people that trust like Abraham did. 10Those who work under law are under a curse: scripture says, “Everybody’s under a curse that doesn’t do everything all the time that the Law requires” [Deut 27:26]. 11Obviously, law can’t make anyone good in front of God: “A good person will have life by trusting” [Hab 2:4]. 12Law doesn’t involve trusting: “The one that does them is the one that has life by them” [Lev 18:5]. 13Christ redeemed us from the curse that law brings us under by becoming a curse on our behalf. Scripture says, “Everybody’s under a curse that hangs on a tree” [Deut 21:23]. 14So the blessing associated with Abraham can come to Gentiles in Christ Jesus; and by trusting, we can receive the Spirit Christ promised us. 	 Gal 3:7-14
+
+Law vs. Promise
+
+15Take an example from everyday life. Even with a human covenant, once it’s ratified, nobody annuls it or adds to it. 16God made promises to Abraham and his seed. The text doesn’t say “seeds,” plural, but “seed,” singular, “to your seed” [Gen 12:7; 13:15; 17:7; 24:7], that is, Christ. 17Here’s the point: the Law, which came 430 years after the promise, didn’t annul the promise; it didn’t annul the covenant God had put in place earlier. 18If inheritance comes by law, it doesn’t come by promise. But God gave it to Abraham by making a promise. 19So, what was the Law for? God added it to deal with sins till the “seed” came that he made his promise to. Angels ordained the Law through a mediator. 20A mediator mediates between two parties, not one; but God is only one party.  	Gal 3:15-20
+
+Law Prepares for Trust
+
+21So, does the Law conflict with God’s promise? Goodness, no! If there could’ve been a law that gave life, the Law would make people good. 22But scripture locks up everything under sin so trusting could directly deliver the promise to the ones who trust the promise.
+
+23Till trust came into play, law held us in custody. 24It served as an attendant to lead us to Christ so trusting in him could make us good. 25Now that trust has come, we aren’t under an attendant anymore. 26We’re God’s children by trusting in Christ Jesus. 27Those of us who were baptized into Christ have put on Christ. 28Jew-Greek, slave-free, male-female is irrelevant. We’re all alike in Christ Jesus. 29If we’re Christ’s, we’re Abraham’s seedsg and heirs by promise.                                                              	Gal 3:21-29
+
+Slaves and Children
+
+4:1Let me point out that as long as heirs are minors, they’re like servants at present though owners of everything in prospect. 2They’re under guardians and trustees till the time their father specifies. 3That’s like us. When we were minors, we were servants to the material-based notions the world operates by. 4But when the time came, God sent out his Son—born by woman under law—5to redeem us who were under law and to adopt us as children. 6Since we’re children, God gave us the sense of being that his Son has; we call out, “Dad.” 7So we’re not servants anymore, but children that became heirs by God’s promise. 	Gal 4:1-7
+
+The Inadequacy of Law
+
+8Before you knew God, you served what weren’t really gods. 9Now, since you know him—or better, he knows you—why do you want to go back and serve weak, material-based notions again? 10You’re observing days, months, seasons, and years. 11I’m afraid I’ve labored over you for nothing.    	Gal 4:8-11
+
+12I plead with you, become like me because I’m like you. You haven’t wronged me in anything. 13You know I presented the good news to you at the first because of a physical handicap. 14You didn’t look down on me because of it. You received me like an angel from God, like Christ Jesus. 15So where’s your sense of being blessed? I point out that, if possible, you would’ve gouged your eyes out and given them to me. 16So, do I become your enemy by telling you the truth? 17The ones that are confusing you aren’t seeking you out for any good reason. They want to lock you out so you’ll look to them to get in. 18But it’s always good to have someone seek you out in a good way, not just when I’m around. 19My children, I’m in labor with you again until Christ forms in you. 20I’d like to be with you now and change my tone. I’m worried about you.    	Gal 4:12-20
+
+The Hagar-Sarah Allegory
+
+21You that want to be under law, tell me, are you listening to it? 22Scripture says Abraham had two sons, one by a servant girl and one by a free woman. 23The one the servant girl had was born physically, but the one the free woman had was born by promise. 24These points set up an illustration: the women represent two covenants. 25Hagar, from Mount Sinai in Arabia, bears children into bondage. She’s the mountain that corresponds to present-day Jerusalem because she’s in bondage along with her children. 26But the Jerusalem above is free; that’s our mother. 27Scripture says,
+
+“Celebrate, barren one that doesn’t bear;
+
+cry out and scream, woman that’s not in labor.
+
+The woman that’s single has more children
+
+than the one with a husband” [Is 54:1].
+
+28You’re children like Isaac. 29The one born physically was persecuting the one born spiritually; it’s the same way now. 30But what does the scripture say?
+
+“Send away the servant girl and her son;
+
+her son will not inherit with the son” of the free woman [Gen 21:10].
+
+31So we’re not children of a servant girl, but of a free woman. 5:1Christ really has set us free; so stand firm; don’t put yourselves back under a yoke of bondage.   	Gal 4:21-5:1
+
+Law and Trust, Mutually Exclusive Systems
+
+2I tell you, if you accept circumcision, Christ doesn’t do you any good. 3You’re obligated to keep the Law completely. 4You that are trying to gain righteousness by law have cut yourselves off from Christ. You’ve fallen away from grace into law. 5In spirit we wait by trust for the goodness we hope for. 6In Christ Jesus, neither circumcision nor uncircumcision is relevant. What matters is trust expressing itself in love.  	Gal 5:2-6
+
+7You were running well. Who stopped you from obeying the truth? 8The persuasion didn’t come from the One that’s calling you. 9A little yeast spreads through the whole lump. 10I have confidence in you in the Lord that you won’t adopt something else. The one that’s confusing you will face condemnation, whoever he is. 11If I still preach circumcision, why do the Jews still persecute me? 12I wish the ones that are troubling you would mutilate themselves.
+
+Gal 5:2-12
+
+Christian Freedom
+
+13You were called to freedom. Just don’t use it as an excuse for the flesh; serve one another with love. 14One statement fulfills the whole Law, “Love your neighbor as yourself” [Lev 19:18]. 15If you nip at and chew on each other, you’ll end up eating each other up.
+
+Physical versus spiritual
+
+16I tell you, live by what’s spiritual and you won’t be fulfilling what’s fleshly. 17Flesh pulls against spirit and vice versa. They work against each other, and you end up doing what you don’t want to do. 18If spirit is leading you, you’re not under law. 19It’s clear what fleshly deeds are: sexual immorality, uncleanness, sensuality, 20idolatry, sorcery, hostility, rivalry, jealousy, rage, disputes, divisions, factions, 21envy, drunkenness, carousing, and so on. I tell you ahead of time, like I told you before, people that do such things won’t inherit God’s kingdom.
+
+22But spirit produces fruit like love, joy, peace, patience, kindness, goodness, trustworthiness, 23gentleness, self-control. There’s no law against such things. 24Christ’s people have crucified the physical along with its drives and desires. 25If we have life by spirit, let’s conduct life by spirit. 26Let’s not be proud or jealous or irritate each other.   	Gal 5:13-26
+
+Patience with the Sinful
+
+6:1If someone gets caught up in some sin, you that are spiritual should humbly restore that person. Keep an eye on yourselves so you don’t get caught up in temptation. 2Share each other’s burdens and fulfill Christ’s ‘law’ that way. 3If we think we’re special when we’re not, we’re kidding ourselves. 4We each one must examine our own behavior and take pride in it only in respect to ourselves, not in comparison to somebody else. 5Each one of us has to carry our own load. 6The one that’s being taught the message needs to share everything good with the one that’s teaching it. 7Make no mistake, we can’t mock God. We reap what we sow. 8If we sow in the flesh, we’ll reap decay. If we sow in the spirit, we’ll reap eternal life. 9Let’s not get discouraged with doing what’s right. In due time we’ll reap if we don’t give up. 10So while we’ve got a chance, let’s work at doing good to everybody, especially to members of the family of faith.     	   Gal 6:1-10
+
+Closing Encouragements
+
+11See what big letters I’ve written with my own hand. 12Those who want to make a good impression in the flesh are trying to get you circumcised so they won’t suffer persecution for the cross of ChristMessiah. 13They don’t keep the Law themselves; they just want to get you circumcised so they can take pride in you physically. 14But I’m not going to take pride in anything but the cross of our Lord Jesus Christ. Through him the world’s crucified to me and me to it. 15Neither circumcision nor uncircumcision has anything to do with it; what matters is a new system God has created in Christ. 16Peace and mercy to as many as live by that principle—to God’s ‘Israel.’
+
+17From now on, don’t create problems for me. I already have on my body the branding marks of the Lord Jesus.
+
+18The grace of our Lord Jesus Christ be with your spirit. Amen.          	 Gal 6:11-18
+
+EPHESIANS
+
+Salutation
+
+1:1Paul, apostle of ChristMessiah Jesus by God’s will, to the saints [in Ephesus]ms and faithful in Christ Jesus. 2Grace and peace from God our Father and the Lord Jesus Christ.  	 Eph 1:1-2
+
+The Blessings of Redemption
+
+3Blessed be the God and Father of our Lord Jesus Christ. He’s blessed us in Christ with every spiritual blessing in high places. 4Before he founded the world, he chose us in Christ to be holy and blameless in his presence in love. 5It pleased him to destine us ahead of time to be his children through Jesus Christ. 6So we praise the glorious grace he freely extended to us in the Beloved. 7He redeemed us by his blood, and that forgiveness demonstrates the rich grace 8he lavished on us by providing us wisdom and insight. 9He let us know his previously unrevealed will that, in his good pleasure, he intended for Christ 10to oversee when the time came. He chose to sum up everything in Christ in heaven and on earth. 11In him we’ve become an inheritance for the One who accomplishes everything according to his own counsel and purpose. 12As a result of what he’s done, we praise his glory—we who have already placed our hope in Christ. 13You’ve heard the truth as well—the good news about salvation—and put your trust in him; and he has sealed you with the Holy Spirit he promised. 14The Spirit is God’s pledge to give us our full inheritance when he redeems his people—to the praise of his glory.  	Eph 1:3-14
+
+Prayer for the Ephesians
+
+15I’ve heard about your faith in the Lord Jesus and your love for the saints. 16So I keep including you in my prayers and being grateful for you. 17I pray that the God of our glorious Lord Jesus Christ will give you wisdom and revelation by knowing him. 18That means enlightening you to recognize what the hope of his calling is, to realize how rich his inheritance among the saints is, 19and to understand what the unlimited greatness of his power is toward us who believe. 20God brought about that hope, inheritance, and power by raising Christ from the dead and seating him on his own right hand in high places. 21Now he’s far above all rule, authority, power, dominion, and everybody else in this age and the next. 22-23God put him in charge of everything as head of his body the church, the embodiment of the One that fills everything. 										        Eph 1:15-23
+
+Spiritual Death from Personal Sinning
+
+2:1You were ‘dead’ because of the sins 2you once lived in like the rest of the world. It was a way of living that corresponded to the ruler of the power in the air, the spirit that operates in disobedient people. 3Among those people at one time we all lived by fleshly drives. We were doing what the flesh and imagination desired. Our character made us objects of God’s anger like everybody else. 4But God was so merciful because he loved us so much. 5We ‘died’ by sinning, but he ‘made us alive’ with Christ (by grace he saved us). 6He raised us up with him and seated us with him in high places. 7In the coming ages, what he did will show the tremendous wealth of his grace and kindness toward us in Christ Jesus. 8By grace we’re saved people through faith, and that salvation doesn’t come from us; it’s God’s gift; 9so we can’t be proud. 10We’re his workmanship, created in Christ Jesus for living the way God designed us ahead of time to live.                                                             	Eph 2:1-10
+
+Jew-Gentile Unity in Christ
+
+11-12So, you Gentiles in the flesh—called Uncircumcision by the handmade Circumcision in the flesh, remember that you were separated from Christ at that time. You were excluded from the Commonwealth of Israel, without hope, and without God in the world. 13But you that were once afar off have come near through Christ’s blood.       	Eph 2:11-13
+
+14-15Christ is the basis for peace between us. He made both of us into one group and tore down the wall that separated us. In his flesh he abrogated the Law that’s made up of regulations. That way, from the two groups he could create in himself one new united mankind and could make peace between us. 16He could reconcile both of us to God in one body through the cross. In himself he killed the hostility. 17He came and offered peace to you that were far away and to us that were close by. 18Through him we both have access to the Father by one Spirit. 19So you’re not strangers and aliens anymore, but fellow citizens and members of God’s family. 20You’re built on the foundation of the apostles and prophets with Christ Jesus as the cornerstone. 21In Christ the whole building fits together and grows upward to become a holy sanctuary. 22In him you’re growing along with us into a spiritual house for God in the person of the Spirit.
+
+Eph 2:14-22
+
+Paul’s Ministry for Gentiles
+
+3:1That’s why I’m Christ’s prisoner for you Gentiles. 2You’ve heard about the stewardship of grace God gave me for you. 3He revealed to me his previously unrevealed message, like I noted briefly before. 4When you read it, you can understand my insight into that message about Christ. 5In other generations God hadn’t made it known to anybody, but now the Spirit has revealed it to his holy apostles and prophets. 6This is the message: Gentiles are fellow heirs, fellow members of the body, fellow partakers of the promise available in Christ Jesus through the good news. 7I became a minister of that message by the grace God gave me in keeping with his powerful working. 8To me, the least of the saints, he gave this grace to present to Gentiles Christ’s amazing riches 9and to bring to light the message that in ages past God kept to himself, who created everything. 10The church can make known to rulers and authorities in high places the many forms of God’s wisdom. 11That comes from the eternal purpose he brought about in Christ our Lord. 12In him we have confident bold access because we trust him. 13So don’t get discouraged over my difficulties on your behalf. They honor you. 	  Eph 3:1-13
+
+Another Prayer for the Ephesians
+
+14So I kneel to the Father; 15from him every people group in heaven and on earth has identity. 16I pray that, in keeping with his glorious riches, he’ll greatly increase your inner strength by his Spirit. 17I pray that Christ will live in your heart by faith, rooted and grounded in love. 18-19I pray that you’ll be able to understand with all the saints the length and breadth, height and depth of Christ’s love, which is greater than knowledge. I pray that you’ll fully experience everything God provides you.
+
+20Now to him who can do far more than we think or ask in keeping with the power that’s at work in us—21glory in the church and in Christ Jesus to all generations. Amen.  	Eph 3:14-21
+
+Christian Unity
+
+4:1So I, a prisoner in the Lord, urge you to live appropriate to your calling—2with humility and gentleness, with patience toward each other in love. 3Make every effort to maintain spiritual unity* by being bound together with peace.
+
+4There’s one body, one Spirit, one hope you’re called to,
+
+5one Lord, one faith, one baptism,
+
+6one God and Father of all,
+
+who’s above all, through all, and in all.
+
+7Christ has measured out grace to each of you, 8like it says,
+
+“He ascended on high,
+
+and captured captivity;
+
+he gave gifts to people” [Ps 68:18]. 	Eph 4:1-8
+
+Gifting for Ministry
+
+9What does “he ascended” involve but that he had also descended to earth? 10And the One that had descended also ascended above the skies to complete everything. 11He “gave” apostles, prophets, evangelists, and pastor-teachers 12to equip the saints for service and to build up Christ’s body. 13That work goes on till we become one in trusting and knowing God’s Son and are full-grown as measured by the stature of Christ. 14That’s so we won’t stay like little kids, tossed back and forth and blown around by every idea that sly people devise to trick us. 15Let’s speak the truth in love and grow up in Christ in every respect. 16He’s the head that unites the whole body. Every ligament holds it together so each part can contribute properly to the growth of the body as it builds itself up in love. 	 Eph 4:9-16
+
+Wise Living with One Another
+
+17So don’t live like Gentiles anymore in their pointless way of thinking 18and darkened understanding. They’re strangers to godly living because they’re ignorant and hardhearted. 19They’ve become insensitive and have given themselves over to doing everything indecent, impure, and greedy. 20You didn’t learn to live that way from Christ. [21]repeat   	 Eph 4:17-21
+
+22So set aside the former way of living—the old kind of humanity that’s ruined by desires that deceive; 23adopt a new mentality. 24Put on the new kind of humanity that’s like God in the goodness and holiness that lie in the truth. 	 Eph 4:22-24
+
+25So don’t lie; “each of you, speak truthfully with your neighbor” [Zech 8:16], because you’re members of one another. 26“If youpl feel angry, don’t sin” [Ps 4:4]. Don’t letsg the sun set on your anger; 27don’t give the devil a foothold. 28If you’re stealing, stop it. Instead, work with your hands, doing what’s good so you can share with people who need help. 29Take every bad word out of your mouth and replace it with a good word that builds up with graciousness those who hear you. 30Don’t grieve God’s Holy Spirit that Christ sealed you with to the day of final redemption. 31Get rid of bitterness, wrath, anger, angry shouting, blasphemy, hateful feelings. 32Be kind to one another, tenderhearted, gracious, like God in Christ was gracious to you.
+
+Eph 4:25-32
+
+Imitating God
+
+5:1So imitate God like children he loves. 2Live in love like Christ loved you and gave himself for you as an offering, a sacrifice to God for a sweet fragrance. 3Don’t let immorality, impurity, or greed even be mentioned among you, as is appropriate for saints. 4Don’t allow any indecency or foolish, vulgar talk among you; express gratitude instead. 5Know for certain that no immoral, impure, or covetous person—covetousness amounts to idolatry—will inherit anything in the kingdom of Christ and God.	Eph 5:1-5
+
+Resisting Human Influence
+
+6Don’t let anybody deceive you with meaningless words. Because of things like that, God measures out his anger on disobedient people. 7So don’t take part in their disobedience. 8-9At one time you were in the dark; now you’re in the light that comes from the Lord. (Light produces goodness, uprightness, and truth.) Live like enlightened children 10and demonstrate what pleases the Lord.
+
+11Don’t take part in deeds done in darkness; they don’t produce anything; expose them for what they are. 12It’s disgraceful even to talk about what some people do secretly. 13Everything exposed by light becomes visible; 14light makes everything visible. So he says,
+
+“Wake up up, sleeper” (Rom 13:11);
+
+“arise from the dead” (Is 26:19),
+
+and Christ will give you light” (Is 60:1). 	  Eph 5:6-14
+
+15So be careful to live like wise people. 16Make the most of every opportunity because this is a sinful time. 17Don’t be foolish; know what the Lord’s will is. 18Don’t get drunk on wine in reckless living; be filled with the Spirit. 19Speak to each other in psalms, hymns, and spiritual songs. Sing and make melody in your hearts to the Lord. 20In the name of our Lord Jesus Christ, always thank the Father for everything. 	 Eph 5:15-20
+
+Family Virtues
+
+21Defer to one another out of respect for Christ. 22Wives defer to your husbands the way you do to the Lord, 23because a husband is responsible above the wife like Christ is responsible above the church and Savior of the body. 24As the church defers to Christ, wives defer to husbands in the over-all order of the home.
+
+25Husbands, love your wives the way Christ loved the church and gave himself for it. 26He did it to sanctify the church and cleanse it by washing it with water and the word. 27He did it so he could present the church to himself without stain or wrinkle or anything like that—so it would be holy and blameless. 28Husbands, love your wives like your own bodies. Loving your wife amounts to loving yourself. 29Nobody neglects his own body; he feeds it and takes care of it. Christ does that with the church 30because we’re parts of his body: 31“That’s why a man is to leave his parents and unite with his wife, and they’ll become one” [Gen 2:24]. 32That’s a profound matter, but the main thing I’m talking about is Christ and the church. 33But, each one of you needs to love his wife like he loves himself, and wives need to respect their husbands. Eph 5:21-33
+
+6:1Children, obey your parents in the Lord; it’s the right thing to do. 2-3“Honor your father and mother so you’ll live long and well” [Ex 20:12; Deut. 5:16] (the first commandment with a promise attached). 4Dads, don’t make your kids resent you. Raise them up in the Lord’s instruction and discipline.
+
+5Servants, obey your masters with fear and trembling, sincerely as if obeying Christ. 6Don’t just try to create impressions to please them; but as Christ’s servants, do God’s will honestly 7with good intentions. Be serving the Lord, as it were, not people. 8Understand that whatever each of you does, you’ll receive it back from the Lord whether you’re a servant or free. 9Masters, treat your servants the same way. Give up making threats; you know that their Lord and yours is in heaven, and he doesn’t show preferences. 	 Eph 6:1-9
+
+The Full Armor of God
+
+10Finally, be strong in the Lord and his great power. 11Put on God’s full armor so you can withstand the devil’s schemes. 12You’re not fighting a physical war, but rulers, authorities, this world’s dark forces, spiritual evil in high places. 13So put on God’s full armor so you can withstand sinful times, overcome everything, and stand firm. 14So stand firm. Tie truth around your waist. Make goodness your breastplate. 15On your feet, wear the good news about peace. 16Along with everything else, pick up faith as your shield so the devil’s flaming arrows will ricochet away from you. 17Take salvation for a helmet and God’s word as a spiritual sword. 18Pray in the spirit on every occasion. Stay alert and persist in petitions for the saints. 19Pray that I’ll speak boldly the unrevealed message that the good news makes known. 20On behalf of it, I’m an ambassador in chains. Pray that I’ll speak boldly for him like I need to.      	  Eph 6:10-20
+
+Farewells
+
+21Tychicus, our dear brother and faithful minister in Christ, will fill you in on my circumstances and how I’m doing. 22I’ve sent him to do that so he can comfort you.
+
+23Peace to fellow believers and love with faith from God the Father and the Lord Jesus Christ. 24Grace be with everybody that has undying love for him.  	 Eph 6:21-24
+
+PHILIPPIANS
+
+Salutation
+
+1:1Paul and Timothy, servants of ChristMessiah Jesus, to the saints in Philippi and their bishops and deacons. 2Grace and peace from God our Father and the Lord Jesus Christ.  	Phil 1:1-2
+
+Prayer for the Philippians
+
+3I’m grateful for the memories I have of you. 4I gladly mention you in my prayers 5because of your fellowship in the gospel since day one. 6I’m confident that the good work God began in you he’ll keep perfecting till Christ comes. 7It’s right for me to regard you that way because in my imprisonment and defense of the gospel, you’ve shared your grace with me. 8God is witness, I long for you with the affections Jesus has. 9I pray that your love will keep growing along with knowledge and insight 10so you’ll approve what’s excellent, be sincere, and keep your conscience clear till Christ comes. 11That way the fruit that comes from goodness will fill you, the fruit that comes through Jesus Christ to God’s glory and praise.   	Phil 1:3-11
+
+Progress Despite Limiting Circumstances
+
+12I want you to know that what’s happened to me has turned out to promote the good news. 13My imprisonment has become well-known throughout the Praetorian Guard and elsewhere. 14More believers have trusted in the Lord and because of my imprisonment have dared to speak the message more boldly. 15Some people are preaching Christ out of spite and strife; others out of good will. 16Some do it out of love because they know I’m set to defend the good news. 17The others present him out of rivalry, not sincerely. They think they can stir up trouble for me in my imprisonment. 18What then? Whether in pretense or truth, Christ is getting presented and I’m glad. 19I know it’ll lead to my release through your prayer and the support of the Spirit of Jesus Christ. 20That fits with my deep desire and hope that I’ll never be shamed, but
+
+hold Christ in high honor in my body whether by life or death—as always, so now. 21For me, to live is Christ, to die is better. 22But if living means productive work, I don’t know what to choose. 23I’m torn between wanting to leave and be with Christ (better for me) 24and wanting to stay (more necessary for you). 25I’m convinced I’ll stay and stand with you for your progress and joy in the faith, 26so the pride you have in Christ Jesus will increase in connection with me when I can be with you again.           	 Phil 1:12-26
+
+Living in a Way Fit for Christ
+
+27Make sure you conduct yourselves in a way that’s appropriate for the good news about Christ. Then, whether I can come to see you or not, I can hear that you’re standing firm in one spirit with one mind, that you’re striving together by trusting in the good news, 28and that you’re not alarmed by your opponents. Their opposition is evidence for their destruction and your salvation—a situation that comes from God. 29For the sake of Christ, you’ve had the opportunity to believe in him and suffer for him. 30You’re facing the same struggle you saw me face and hear that I’m facing now.          	 Phil 1:27-30
+
+Christ’s Extreme Example of Humility
+
+2:1So, if there’s any encouragement in Christ, any comfort from love, any fellowship with the Spirit, any affection and compassion, 2fill me with happiness. That way you’ll have the same attitude, love, purpose, and unity of spirit. 3Don’t do anything selfish out of empty conceit, but in humility consider each other more important than yourself. 4Don’t just look at your own interests, but at the interests of other people too. 5Take the attitude Christ Jesus took.
+
+6Although he was in the form of deity,
+
+he didn’t consider being equal to God
+
+something to hang onto.
+
+7He emptied himself,
+
+and took the place of a servant.
+
+In the form of a man,
+
+8he humbled himself to the point of dying,
+
+even dying on a cross.
+
+9So God lifted him up above all others
+
+10so every knee in heaven, on earth, and under the earth
+
+would kneel to him;
+
+11and every tongue would acknowledge that Jesus Christ is Lord—
+
+to the glory of God the Father.  	Phil 2:1-11
+
+Being Lights in the World
+
+12So, as you’ve always followed my instructions—whether I’m around or not, work out the implications of your salvation with fear and trembling. 13God is at work in you to will and do what he delights in. 14Do everything without grumbling or arguing 15so you’ll be God’s blameless, innocent, well-behaved children. You’re living in a crooked, perverse time, where you shine like lights in the world.
+
+16Hold onto the life-giving message so when Christ comes, I can take satisfaction in you because I didn’t labor for nothing. 17Even if I get poured out like a drink offering on the altar in service to your faith, I’ll rejoice and rejoice with you. 18You’llp rejoice too along with me.
+
+Phil 2:12-18
+
+Timothy’s Coming
+
+19I hope to send Timothy to lift my spirits by finding out how you’re doing. 20I don’t have anybody like-minded who will sincerely concern himself with your welfare. 21Other people tend to look after their own concerns more than Christ’s. 22But you know how valuable he has proved to be, how he has served with me in the good news like a child with his father. 23So I hope to send him as soon as I see how my situation here turns out. 24I’m confident in the Lord that I can come soon as well.  	 Phil 2:19-24
+
+News About Epaproditus
+
+25I’ve also needed to send Epaphroditus, my brother, fellow worker, fellow soldier, and your messenger to my need. 26He’s been longing to see you; he’s been anxious because you heard he was sick. 27He was sick—to the point of death, but God had mercy on him—and on me so I wouldn’t have grief on top of grief. 28More earnestly, then, I’ve sent him so when you see him, you can be happy, and I won’t feel so sad. 29Welcome him in the Lord with joy; hold men like him in high regard. 30He nearly died because of his work for Christ, risking his life to finish your service to me.   	 Phil 2:25-30
+
+No Confidence in the Flesh
+
+3:1So, family of Christ, be happy in the Lord. Writing things like these is not hard for me to do, and it reinforces you. 2Watch out for dogs, evil doers, the ‘false Circumcision.’ 3We are the ‘Circumcision,’ who serve by God’s spirit, who take pride in Christ Jesus, who don’t put confidence in what’s physical. 4If anybody could put confidence in that, I sure could: 5I was circumcised on the eighth day, from the nation of Israel, tribe of Benjamin, the truest of Hebrews. As to the Law, I was a Pharisee. 6As to zeal, I persecuted the church. As to legal goodness, I was blameless. 7Butms what were gains to me I consider losses for Christ. 8Everything’s a loss compared to knowing Christ Jesus my Lord. I lost everything on account of him and considered it rubbish so I could gain him. 9I don’t have a goodness of my own—from keeping the Law; I have a goodness that comes from trusting Christ, a goodness that God gives conditioned on trust. 10I want to know him, the power his resurrection has, and fellowship with his sufferings. I want to live in conformity with his death 11so I can attain resurrection from the dead, whatever it takes.    	 Phil 3:1-11
+
+Pressing on Toward Perfection
+
+12I’m not already perfect, but I press on toward what Christ laid hold of me for. 13I don’t consider myself to have achieved it; but forgetting what’s behind and reaching out for what’s ahead, 14I press on toward the goal, the prize that comes from God’s upward call in Christ Jesus. 15As many as are perfect should take that attitude. If in anything you have a different attitude, God will make it clear for you. 16However, let’s keep conducting ourselves at the level we’ve reached.     	 Phil 3:12-16
+
+Following Paul’s Example
+
+17Imitate me and watch the ones that follow our example. 18Many live as enemies of the cross, as I used to say and tell you now, weeping. 19Their end is destruction, their God is their stomach, their honor is their shame, their minds are on earthly things. 20Our citizenship lies in heaven, from where we wait for our Savior to come. 21He’ll transform our humble bodies to be like his glorious body. He’ll do that by using the power he used to subject everything to himself. 4:1So, fellow Christians loved and longed for, my joy and crown, stand firm in the Lord.
+
+Phil 3:17-4:1
+
+Keeping a Positive Outlook
+
+2I urge Euodia and Syntyche to work in harmony in the Lord. 3Yes, and I ask you, loyal yoke fellow, help them. They struggled together with me in the gospel, with Clement and the rest of my fellow workers, whose names are in the Book of Life.
+
+4Always bepl happy in the Lord; I’ll say it again, be happy. 5Let everybody see yourpl gentle spirit. The Lord is near. 6Don’t worry, but in prayer and supplication make your requests to God accompanied by gratitude. 7God’s peace, which goes beyond understanding, will keep watch over your hearts and minds in Christ Jesus.
+
+8So think about what’s true, honorable, just, pure, worth praising, morally excellent. 9Practice what you’ve learned and received, what you’ve heard and seen in me; and the God who brings peace will be with you.
+
+10I was so glad when you showed your concern for me once again. For a long time, you didn’t have a chance to demonstrate it. 11I’m not saying that because I’ve been in need. I’ve learned to be content in any circumstance, 12humble or otherwise. In any and all things, I’ve learned the secret of how to be full or hungry, to have a lot or to lack. 13I can do everything by the One who enables me. 14But you’ve done well to share in my difficulties. 	Phil 4:2-14
+
+Appreciation for Philippians’ Support
+
+15You Philippians know that back when I’d presented the good news to you and left Macedonia, you were the only church that supported me financially. 16Even in Thessalonica time and again you sent gifts to help with my expenses. 17I’m not looking for the gift, but for the balance that’s building up in your account. 18I have everything I need and more. Epaphroditus brought me what you sent, a sweet aroma, an acceptable sacrifice that pleases God. 19And in Christ Jesus, my God will take care of your needs out of his wealth in glory. 20To our God and Father be glory forevermore. Amen.  	Phil 4:15-20
+
+Greetings
+
+21Greet every saint in Christ Jesus. The Christians that are with me send their regards. 22All the saints say hello, notably the ones in Caesar’s household.
+
+23The grace of the Lord Jesus Christ be with your spirit.    	Phil 4:21-23
+
+COLOSSIANS
+
+Salutation
+
+1:1Paul, apostle of ChristMessiah Jesus by God’s will, and brother Timothy 2to the saints in Colossae and faithful disciples in Christ. Grace and peace from God our Father.   	 Col 1:1-2
+
+Gratitude for Their Faithfulness
+
+3We thank God, the Father of our Lord Jesus Christ, and always pray for you. 4We’ve heard about your faith in Christ Jesus and your love for the saints 5because of the hope that’s stored up for you in heaven. That hope you heard about in the true gospel message 6that’s in you like it is in the whole world. It’s been growing and producing fruit everywhere like it has among you since you heard it and came to know the truth about God’s grace. 7You learned it from Epaphras, our dear fellow servant. He’s Christ’s faithful minister for you, 8and he’s made your love in the Spirit clear to us.   	Col 1:3-8
+
+Prayer for Their Progress
+
+9That’s why, from the time we heard it, we kept praying that you’d be fully aware of his will in the wisdom and understanding of spiritual things. 10That way you’ll live worthy of the Lord in your desire to please him; you’ll grow in every good deed and bear fruit because you know him. 11In proportion to his glorious power, he’ll greatly enable you to endure with joy, 12and you’ll thank him for qualifying you to share in the inheritance of the saints who live in light. 13He has delivered us from the power of darkness and transferred us into the kingdom of his dear Son. 14We have redemption in his Son, the forgiveness of sins.
+
+15He’s the image of the invisible God,
+
+the firstborn over all creation 16because
+
+he created everything in the sky and on earth,
+
+visible and invisible—
+
+thrones, dominions, powers, authorities.
+
+Everything has been created by him and for him.
+
+17He was before everything,
+
+and everything finds its proper place in relation to him.
+
+18He’s the head of the body, the church.
+
+He’s the beginning, the firstborn from the dead
+
+so he could have first place in everything.
+
+19The Father saw fit to put everything under his responsibility
+
+20and to reconcile everything to himself through him.
+
+He made peace through the blood ChristMessiah shed on the cross—
+
+peace with things on earth and in heaven. 	Col 1:9-20
+
+21At one time you were enemies in mind and deed. 22Now he has reconciled you in his physical body through death to bring you into his presence holy, blameless, without fault. 23That’s the case if you stay in the faith, established and firm, not moved from the hope you heard about in the good news that’s been presented in all creation under the sky. I’ve become a minister of it. 	  Col 1:21-23
+
+Ministry for the Mystery
+
+24I feel good about my hardships for you; I’m completing in my flesh what I can add to Christ’sMessiah’s sufferings for his body the church. 25I became a minister of the church as a stewardship God gave me for you, to fully make known his message. 26That message was not revealed to past generations, but he has revealed it now to his saints. 27He wanted to show them the value of this glorious mystery among the Gentiles: Christ among youpl, the hope for glory. 28We present him, and instruct and warn everybody as wisely as we can so we can present each person complete in Christ. 29That’s why I strive in proportion to his power at work in me. 2:1I want you to know how much I am striving for you, for the ones in Laodicea, and for whoever has never met me. 2I urge you to bond together in love and to gain the valuable confidence that comes from knowing and understanding God’s revealed mystery: Christ. 3All the hidden treasures of knowledge and wisdom lie in him. 4I say that so nobody will lead you astray with persuasive arguments. 5Though I’m absent in body, I’m present in spirit, happy to see your orderly living and steadfast faith in Christ.	Col 1:24-2:5
+
+Urging Continued Faithfulness
+
+6So, as you received Christ Jesus the Lord, keep on living in him. 7Be rooted and built up in him, firm in faith, like you were taught. 8Make sure nobody takes you captive with empty philosophy that deceives, after human traditions, according to the world’s underlying assumptions rather than after Christ. 9He fully constitutes deity bodily. 10In him you have everything you need; he’s the head of all rule and authority. 11In him you were also ‘circumcised’ without hands. It’s not a circumcision that removes flesh from the body; it’s Christ’s ‘circumcision.’ 12You were buried with him in baptism, and raised with him by faith in God, who raised him from the dead. 13You were ‘dead’ in sins and the uncircumcision of your flesh, but he ‘made you alive’ with him and pardoned your sins. 14He canceled the certificate of debt made up of regulations that worked against us, took it out of the way, and nailed it to his cross. 15He disarmed rulers and authorities and displayed them openly for what they were by overcoming them in the cross and resurrection.
+
+Col 2:6-15
+
+Concerns Irrelevant for Christians
+
+16So don’t let anybody judge you about food, drink, or participating in festivals, new moons, or Sabbaths. 17They’re just shadows of realities to come; but the body belongs to Christ. 18And don’t let anybody cheat you by promoting pious self-denial and angel worship—taking a stand on insights they claim to have, proud for no reason in their nature-dominated thinking—19instead of holding onto the Head. From him the whole body, held up and held together by ligaments and tendons, grows in a way that God brings about.
+
+20If with Christ you’ve died to the world’s underlying assumptions, why subject yourselves to rules and regulations as if you’re living in the world—21things like, “Don’t use, don’t taste, don’t touch”? 22Such human rules and regulations deal with things that wear out from use. 23They look wise with their self-imposed piety, self-denial, and severity to the body; but they don’t help manage the physical body.  	  Col 2:16-23
+
+Oriented to What’s Above
+
+3:1So since you’ve resurrected with Christ, strive for things above, where Christ sits on God’s right hand. 2Fix your attention on things above, not things on earth. 3You’ve died, and your life is hidden away with Christ in God. 4When Christ, your life, appears, you’ll appear with him in glory.           	   Col 3:1-4
+
+5So put to death your earthly members, which foster immorality, uncleanness, passion, sinful desires, and greed, which amounts to idolatry. 6Because of things like that, God’s displeasure comes [on disobedient people]ms. 7At one time you lived that way too. 8Now set it aside: anger, rage, hateful feelings, slander, filthy talk. 9Don’t lie to one other, because you’ve taken off the old self and its behaviors, 10and put on the new self that’s made new unto knowing the One who created that new self in his image. 11In that image there’s no Greek or Jew, circumcision or uncircumcision; barbarian, Scythian; slave or free; Christ includes us all and is in us all.           	  Col 3:5-11
+
+Emphasizing the Major Virtues
+
+12So, as God’s chosen people, holy and loved, dress in compassion, kindness, humility, gentleness, patience. 13Bear with one another; be gracious to each other. If you have a complaint against someone, be gracious to them like the Lord was to you. 14Above all, dress in love, the perfect bond for holding youpl together. 15Let the peace that comes from Christ prevail in your hearts—peace is what he called you to in one body—and be grateful. 16Let Christ’s word live in you richly. Teach and encourage each other with psalms, hymns, and spiritual songs. Sing to God with gratitude in your hearts. 17Whatever you do or say, do it in the name of the Lord Jesus and be thankful to God the Father through him.         	 Col 3:12-17
+
+Family Virtues
+
+18Wives defer to your husbands in a way that’s appropriate in the Lord.
+
+19Husbands, love your wives; don’t be harsh toward them.
+
+20Children, obey your parents because that pleases the Lord.
+
+21Dads, don’t make your children resentful, so they won’t get discouraged.
+
+22Servants, obey your physical masters. Don’t try to create impressions to please them, but obey sincerely, fearing the Lord. 23Whatever you’re doing, do it voluntarily as to the Lord rather than to other people. 24You know the Lord will reward you, so serve him. 25The ones that do unjustly will get paid back impartially for what they’ve done.
+
+4:1Masters, be just and fair with your servants. Remember, you have a Master too—in heaven.      	      Col 3:18-4:1
+
+General Virtues
+
+2Devote yourselves to prayer; stay alert in it with thanksgiving. 3Pray for us, too, that God will open a door for us to speak the revealed mystery: Christ. I’m in prison because of that message. 4Pray that I’ll make that message public like I should. 5Live wisely toward outsiders and make good use of every chance you get to influence them. 6Always speak graciously with salt so you’ll know how to answer each person.  	 Col 4:2-6
+
+Extensive Greetings
+
+7Tychicus, our dear brother, faithful minister, and fellow servant in the Lord, will tell you about my situation. 8That’s why I’ve sent him so he can comfort you. 9I’ve also sent Onesimus, faithful and dear brother, who’s one of you. They’ll tell you about things here.
+
+10Aristarchus, my fellow prisoner, greets you, along with Mark, Barnabas’ cousin (Welcome him if he comes.), 11and Jesus, called Justus—men from the Circumcision. At present they’re the only co-workers I have. They’ve been an encouragement to me.   	  Col 4:7-11
+
+12Epaphras, who’s one of you, greets you. He strives for you in prayers that you’ll stand complete and confident in God’s will. 13I can vouch for his deep concern for you and the ones in Laodicea and Hierapolis. 14Luke, the dearly loved doctor, and Demas send their regards. 15Hello to the Christians in Laodicea, and to Nympha and the church that meets in her house. 16When you’ve read this letter, have it read in the church in Laodicea; and you read my letter to Laodicea. 17Tell Archippus to concentrate on fulfilling the ministry he’s received in the Lord.
+
+18I, Paul, sign this greeting with my own hand. Remember my bonds.
+
+Grace be with you.
+
+Col 4:12-18
+
+FIRST THESSALONIANS
+
+Salutation
+
+1:1Paul, Silvanus, and Timothy to the church of the Thessalonians in God the Father and the Lord Jesus ChristMessiah. Grace and peace.	 1 Th 1:1
+
+Paul’s Memories of the Thessalonians
+
+2We are always grateful to God for you and include you in our prayers. We 3remember your work of faith, your labor of love, and your enduring hope that lies in our Lord Jesus Christ in the presence of our God and Father. 4Family of Christ loved by God, we know you’re chosen 5because our good news didn’t come to you just in words, but in power, in the Holy Spirit, in complete confidence, like the kind of men you know we proved to be among you on your behalf. 6You imitated us and the Lord, because you received the message with the joy of the Holy Spirit among lots of difficulties. 7As a result, you became an example for the believers in Macedonia and Achaia. 8The Lord’s message rang out from you, not only in Macedonia and Achaia, but wherever your faith in God has gone. So we don’t have to say anything. 9People acknowledge how you received us, how you turned from idols to serve the true, living God; 10how you wait for his Son from heaven—that God raised from the dead, Jesus who rescues us from the fury to come.  	 1 Th 1:2-10
+
+Paul’s History with the Thessalonians
+
+2:1Our coming to you proved to be productive. 2As you know, after we’d suffered and been treated disgracefully, we gathered up the courage in our God to present his good news to you during our struggles. 3We didn’t pressure you with deception, impure motives, or treachery. 4But, we spoke the way we did since God approved us and entrusted us with the good news. We weren’t trying to please people, but God, who was approving our intentions. 5God is witness: we never stooped to flattery or veiled greed, 6or tried to get honor from you or anybody else. 7Though as Christ’s apostles, we could’ve expected you to support us, we were gentle among you like a nurse taking care of her kids. 8Since you became so dear to us, we enjoyed sharing with you God’s good news and our very selves. 9You remember our labor and hardship, how we worked day and night so we wouldn’t burden you while we presented his good news to you. 10Along with God, you can confirm how devoutly, uprightly, blamelessly we carried ourselves among you—11like a father with his kids. 12We urged you, encouraged you, and testified to you to live worthy of the One that was calling you to his kingdom and honor. 	1 Th 2:1-12
+
+Their Openness to the Good News
+
+13That’s why we’re constantly grateful to God. When you heard his message, you accepted it, not as a human message, but as it really is, God’s message that’s at work in you. 14You followed the example of the churches of God in Christ: you suffered the same things from your countrymen that they did from the Jews—15who killed the Lord Jesus and the prophets, drove us out, and haven’t been pleasing to God. They’ve been hostile to everybody 16and tried to keep us from speaking to Gentiles about salvation, always piling up their own sins. But fury will come on them in the end.
+
+17We’ve been away from you for a little while—in person, not in heart. 18We’ve really wanted to see you, but Satan prevented it time and again. 19Who is our hope, our joy, the crown we’ll be proud of when the Lord Jesus comes? Aren’t you our joy and honor?   	 1 Th 2:13-19
+
+Yearning for the Thessalonians
+
+3:1When we couldn’t contain our concern about you anymore, we decided to stay behind by ourselves in Athens 2and send Timothy, our brother and fellow worker for God in the good news about Christ. He could strengthen and encourage you in your faith 3so the troubles you were facing wouldn’t disturb any of you. You know we Christians are destined for opposition. 4Even when we were there, we kept telling you we’d run into trouble; and that’s what happened. 5That’s why I couldn’t contain my concern for you anymore and sent to find out about your faith. I didn’t want your tempter to somehow make our labor be for nothing. 	1 Th 3:1-5
+
+Timothy Returns with Good News
+
+6Now Timothy has come back and brought us good news about your faith and love, that you have fond memories of us and want to see us like we want to see you. 7So your faithfulness is a relief to us during our own distress. 8Now we live if you stand firm in the Lord. 9How can we thank God for the joy you bring us? 10Day and night we sincerely pray to see you and to supply what your faith may lack.
+
+11May God our Father and Jesus our Lord direct us back to you. 12May the Lord increase your love for one another and everybody else like we abound in love for you. 13May he make your hearts blameless in holiness in front of him when our Lord Jesus comes with his saints. Amen.   	1 Th 3:6-13
+
+Encouragement to Please God
+
+4:1Finally, we urge you by the Lord Jesus to live the way you should—like you received from us—so you improve your living even more. 2You know what commandments we gave you from the Lord Jesus. 3This is the will of God who sanctifies you: that you abstain from sexual immorality, 4that each of you know how to exercise self-control in holiness and honor (5not living in lust like Gentiles, who don’t know God), 6that you not sin and cheat on your fellow Christian in such a matter. The Lord avenges things—like we warned you. 7He didn’t call us to impurity, but to holiness. 8So whoever rejects that warning isn’t rejecting us, but God, who puts his Holy Spirit in us.
+
+9You don’t need me to write to you about brotherly love. God himself has taught you to love one another. 10Indeed you do that to the believers throughout Macedonia. But we urge you to step it up 11and make it your ambition to live quietly, mind your own business, and work with your hands; 12so you’ll be living right toward outsiders and won’t need anything. 	1 Th 4:1-12
+
+Hope for the Dead
+
+13We want you to know about Christians that have died, so you won’t mourn like people without hope. 14If we believe Jesus died and resurrected, we can also believe God will bring with Jesus the ones that have died in him.
+
+15We tell you from the Lord that we who are still living when he comes back won’t have any advantage over the ones that have died. 16With the shout of the archangel and the trumpet of God, the Lord himself will come down from heaven, and the dead in Christ will resurrect first. 17Then we who’re still living will go up with them in the clouds to meet him in the air; so we’ll always be with him. 18Console one another with that.    	1 Th 4:13-18
+
+The Manner of Christ’s Coming
+
+5:1You also don’t need me to write about when and under what circumstances he’ll return. 2You know full well that the Lord will come like a thief at night. 3When people are saying, “Peace and safety,” destruction will come on them like birth pains on a woman; they won’t escape. 4But you aren’t in the dark, and that time won’t overtake you like a thief. 5You’re children of light and day, not of darkness and night. 6So don’t sleep like other people; stay awake and be sober. 7People sleep at night and get drunk at night, 8but you must stay awake and sober. Put on the breastplate of faith and love, and the helmet of hope for salvation. 9God didn’t destine us to his fury, but to salvation through our Lord Jesus Christ. 10He died for us; so whether we’re asleep or awake, we’ll live with him. 11Comfort one another and keep building each other up like you’re doing.      	  1 Th 5:1-11
+
+12We ask you to acknowledge the ones that labor among you, that have responsibility for you in the Lord and instruct you. 13For their work, regard them highly with love. Be at peace with each other. 14Warn the unruly, encourage the faint-hearted, help the weak, be patient with everyone. 15See that nobody repays evil for evil; follow what’s good for one another and for all.
+
+16Rejoice always, 17pray constantly, 18give thanks in everything. That’s God’s will for you in Christ Jesus. 19Don’t quench the Spirit 20or disregard prophecies. 21Examine everything, hold onto what’s good, 22abstain from evil in every way, shape, and form. 	1 Th 5:12-22
+
+Concluding Encouragement
+
+23May the God that brings peace make you completely holy and keep your spirit, soul, and body complete and blameless for when our Lord Jesus Christ returns. 24The One who’s calling you is faithful and will do what he’s promised.
+
+25Pray for us.
+
+26Greet all the fellow believers with a holy kiss.
+
+27By the Lord, I charge you to read this letter to the whole church.
+
+28The grace of our Lord Jesus Christ be with youpl.    	1 Th 5:23-28
+
+SECOND THESSALONIANS
+
+Salutation
+
+1:1Paul, Silvanus, and Timothy to the church of the Thessalonians in God our Father and the Lord Jesus ChristMessiah. 2Grace and peace from God [our]ms Father and the Lord Jesus Christ.
+
+2 Th 1:1-2
+
+Gratitude for the Thessalonians
+
+3We’re always obliged to thank God for you because your faith is growing so much and your love for one another keeps increasing. 4As a result, among the churches, we say how proud we are of you because of your faith despite the persecution and hardships you’re dealing with. 5Those hardships show that in God’s just judgment you’re worthy of his kingdom you’re suffering for. 6He will be just when he pays back trouble to the ones that are giving you trouble, 7and in paying back relief to you that face trouble along with us. That vengeance will come when the Lord Jesus returns from heaven with his powerful angels 8in flaming fire. He’ll take revenge on people that don’t know God or obey the good news about our Lord Jesus. 9They’ll undergo permanent destruction away from his presence and glorious power. 10That’ll be the day when he comes, and you saints can praise him and be amazed at him because you believed our testimony. 11So we always pray for you, too, that our God will count you worthy of his calling and powerfully fulfill every good intention and faithful work. 12That way you’ll praise the Lord Jesus, and he’ll praise you in proportion to the grace of our God and Lord Jesus Christ.
+
+2 Th 1:3-12
+
+Concerning Christ’s Return
+
+2:1Now, about our Lord’s return and our gathering to him. 2Don’t let a spirit, a message, a letter claiming to be from us disturb you if it says it’s time for the Lord to return. 3He won’t return till apostasy occurs and “the lawless one” appears. That “one destined for destruction” 4will oppose God and exalt himself above everything that’s called deity or is worshiped. He’ll seat himself in God’s Temple and claim to be deity. 5You remember me telling you that, don’t you, while I was there? 6You know what’s holding him back for now—till he’s revealed in his time. 7That secret lawlessness is already at work, but the one that’s holding him back now will continue to do so till he’s gone. 8Then “the lawless one” will appear, the one the Lord will kill with his breath and destroy at his return. 9The lawless one’s coming will be like Satan’s working: with power, signs, false wonders, 10and every sinful deception, all aimed at people that perish, people that haven’t welcomed a love for the truth so they’d be saved. 11So God will send them a deluding influence to cause them to believe a lie. 12Then the truth will judge disbelievers who delight in doing wrong.        	  2 Th 2:1-12
+
+God’s Choice of the Thessalonians
+
+13We’re always obliged to thank God for you, family of Christ the Lord loves, because God chose you to be the firstfruits of salvation by believing the truth and by the holiness the Spirit brings. 14He called you to that truth by the good news we delivered, which is for obtaining the honor our Lord Jesus Christ has. 15So, stand firm; hold onto the traditions we taught you by word and letter. 16Now may our Lord Jesus Christ and God our Father—who loved us and gave us eternal comfort and good hope in grace—17comfort you and strengthen you in every good thing you do and say.   	 2 Th 2:13-17
+
+Request for Prayer
+
+3:1Finally, pray for us that the Lord’s message can make progress and be honored like it has with you. 2Pray for God to deliver us from harmful, evil people, because not everybody believes. 3But, the Lord is faithful; he’ll strengthen you and keep you from the evil one. 4We’re confident in the Lord that you’re doing and will do what we tell you. 5May the Lord direct you to God’s love and the endurance that Christ gives you. 	 2 Th 3:1-5
+
+Warnings About Idleness
+
+6Now, in the name of [our]ms Lord Jesus Christ, stay away from anyone that lives irresponsibly, rather than by the traditions you received from us. 7You know you need to follow our example. We weren’t idle among you 8and didn’t eat other people’s food without paying for it. We worked day and night so we wouldn’t burden any of you. 9It’s not that we didn’t have the right to receive support, but we set ourselves up as an example for you to imitate. 10Besides, when we were with you, we told you that if somebody won’t work, they shouldn’t eat. 11We hear that some are living irresponsibly, not doing anything but being busybodies. 12By the Lord Jesus Christ we direct and urge people like that to work quietly and eat their own food. 13Don’t get discouraged with doing good. 14If any don’t obey what we’ve said in this letter, don’t associate with them so they’ll be ashamed. 15Don’t consider them enemies; warn them like members of Christ’s family.          	 2 Th 3:6-15
+
+Farewell
+
+16Now may the Lord that brings peace give you peace in every situation. The Lord be with you.
+
+17The salutation with my own hand—an identifying mark in every letter I write. This is what my handwriting looks like.
+
+18The grace of our Lord Jesus Christ be with you. 	2 Th 3:16-18
+
+FIRST TIMOTHY
+
+Salutation
+
+1:1Paul, apostle of ChristMessiah Jesus by the authority of God our Savior and Christ Jesus our hope, 2to Timothy my loyal son in the faith. Grace, mercy, and peace from God the Father and Christ Jesus our Lord.  	1 Tim 1:1-2
+
+Warning Against False Teachers
+
+3When I left for Macedonia, I urged you to stay in Ephesus to instruct certain people not to teach false doctrine 4or pay attention to myths and endless genealogies. Those things lead to speculation rather than God’s plan, which operates by faith. 5The goal of instruction is love from a pure heart, a clear conscience, and sincere faith. 6Some have turned away from these to empty talk and got lost. 7They want to teach the Law, but they don’t know what they’re talking about so confidently.   	 1 Tim 1:3-7
+
+Using the Law Lawfully
+
+8We know the Law is good if you use it ‘lawfully.’ 9It’s not there so much for good people, as for lawless, disorderly, godless, sinful, unholy, profane people. It’s for murderers, for people that kill their fathers and mothers, 10for immoral people, male homosexuals, kidnappers, liars, perjurers, and anything else that contradicts sound doctrine 11as set forth in the glorious good news from our blessed God—the good news he entrusted me with.  	 1 Tim 1:8-11
+
+Paul’s Gratitude for Salvation
+
+12I’m grateful to Christ Jesus who has strengthened me and considered me worth trusting though I’d been a blasphemer, persecutor, insolent person. 13I received mercy because I did it ignorantly in disbelief. 14The Lord’s grace overflowed with the faith and love that’s in Christ Jesus. 15There’s a reliable statement that deserves full acceptance: “Christ Jesus came to the world to save sinners and I’m the worst.” 16I received mercy so Christ Jesus could use me to demonstrate his extreme patience. The “worst sinner” provided an example to people that would later trust in Christ for eternal life. 17Now to the eternal King and only God, immortal, invisible be honor and glory forevermore! Amen. 	 1 Tim 1:12-17
+
+18I’m entrusting that instruction to you, Timothy my son. I’m doing it because of the prophecies about you early on so that on the basis of them you can fight the good fight 19with faith and a clear conscience. Some have refused to listen to their conscience and have shipwrecked as far as faith is concerned. 20Hymeneas and Alexander are two examples; I’ve delivered them to Satan to teach them not to blaspheme. 	 1 Tim 1:18-20
+
+Attitude Toward Earthly Rulers
+
+2:1So I encourage prayers and thanksgiving for everybody—2kings and other people in authority—that we can lead a peaceful, quiet, godly life. 3That’s good and acceptable to God our Savior. 4He wants everyone to learn the truth and be saved. 5There’s one God and one Mediator between him and us, the man Christ Jesus, 6who gave himself as a ransom for many, as a testimony given at the right time. 7That’s why he appointed me to be a herald and apostle, to teach Gentiles about faith and truth. That’s the truth.   	       1 Tim 2:1-7
+
+Men’s and Women’s Decorum
+
+8So I want believers everywhere to pray, holding up holy hands without anger or argument. 9I want women to dress modestly and decently, not with elaborate hairstyles, gold, pearls, expensive clothes. 10They should ‘dress’ in good deeds, which is appropriate for women that profess godliness. 11They should learn in quietness and deference. 12I don’t let a woman teach or exercise authority over a man; she should remain quiet. 13For Adam was formed first, then Eve; 14and Adam wasn’t deceived; the woman was deceived and fell into transgression. 15But she’ll be saved through her child-rearing role, if her children continue in faith, love, sanctification, and decency. 	1 Tim 2:8-15
+
+Caracteristics of  Elders
+
+3:1It’s a reliable statement: “If anyone aspires to being an overseer, he’s aspiring to do a good thing.” 2He needs to be above criticism, faithful to his wife, moderate, sensible, respectable, hospitable, able to teach. 3He must not be pushy or addicted to wine. He should be gentle, not combative or greedy for money. 4An overseer needs to manage his family well; his children need to be obedient and well-behaved. (5If someone doesn’t know how to manage his own family, how can he take care of God’s church?) 6He shouldn’t be a new convert; he can get proud and fall into the devil’s condemnation. 7He needs to have a good reputation among people that aren’t Christians so he won’t fall into disgrace and the devil’s trap.   	  1 Tim 3:1-7
+
+Characteristics of Deacons
+
+8Deacons, too, need to have good character, not be two-faced, addicted to a lot of wine, or greedy for dishonest gain, 9men who maintain the mystery of the faith with a clear conscience. 10They should be examined first, then serve as deacons if they’re blameless. 11Their wives need to have good character too, not be inclined to malicious gossip, but temperate, faithful in every respect. 12Deacons need to be faithful to their wives, managing their children and family well. 13Deacons that serve well gain good standing and added boldness in the faith that’s in Christ Jesus.  	 1 Tim 3:8-13
+
+14I’m writing to you in hopes of coming soon. 15But if I’m delayed, this way you’ll know how to conduct yourself in God’s house, the church of the living God, the foundation and pillar of the truth. 16Everybody agrees that the mystery of godliness is great:
+
+“He was revealed in flesh,
+
+vindicated in spirit,
+
+seen by angels,
+
+presented among nations,
+
+believed on in the world, and
+
+taken up in glory.”	 1 Tim 3:14-16
+
+Future Heresies
+
+4:1The Spirit says that later on people will abandon the faith. They’ll pay attention to deceiving spirits and demons’ doctrines, and indulge 2in the hypocrisy of liars that have a seared conscience. 3They’ll forbid marriage and require abstinence from food that God created for faithful people to receive with gratitude. 4Everything he created is good, and nothing should be rejected if people that know the truth receive it gratefully. 5God’s word and our prayers sanctify everything he created.    	1 Tim 4:1-5
+
+6If you point this out to the disciples, you’ll be serving Christ Jesus well, and you’ll be fed by the message about faith and the good teaching you’ve been following. 7Stay away from profane, silly myths. Exercise yourself for godliness. 8Bodily exercise profits a little, but godliness profits a lot because it promises life now and later. 9The saying is reliable and deserves full acceptance: 10“We labor and struggle because we’ve placed our hope in the living God, everybody’s Savior, specifically believers.” 11Teach and command that.    	 1 Tim 4:6-11
+
+Timothy’s Interim Ministry
+
+12Don’t let anybody disregard you because you’re young. Set an example for the faithful in what you say and do—in love, faith, purity. 13Till I get there, give attention to the public reading of scripture, to encouragement, to teaching. 14Don’t neglect your spiritual gift that you received by prophecy and the laying on of hands by the eldership. 15Cultivate it; immerse yourself in it so everybody will see your progress. 16Pay close attention to how you live and to your teaching work. Stay true to the truth so you’ll save yourself and your listeners.  1 Tim 4:12-16
+
+Relating to Church People
+
+5:1Don’t reprimand an elder; urge him like a father. Encourage younger men like brothers; 2older women like mothers, and younger women like sisters, in purity. 	1 Tim 5:1-2
+
+3Honor widows that don’t have anybody to depend on. 4If a widow has children or grandchildren, they should first learn to practice godliness toward their own family and repay parents; that’s acceptable with God.
+
+5A widow that’s by herself has put her hope in God and continues in prayers and thanksgiving day and night. 6But one that lives in self-interest is dead while she’s alive. 7Tell widows to be above criticism.
+
+8If people don’t take care of their own, especially their family, they’ve denied the faith; they’re worse than disbelievers.   							         1 Tim 5:3-8
+
+Guidelines for Welfare Recipients
+
+9Don’t enroll a widow younger than 60, who was faithful to her husband, 10with a reputation for doing good, who have raised children, shown hospitality, washed the saints’ feet, helped people in distress, followed every good deed. 11Don’t enroll younger widows. While they’re liable to physical interests, they’ll want to remarry, 12incurring criticism for setting aside their previous pledge to Christ. 13At the same time, they can get in the habit of not doing anything, going around the neighborhood talking about things they shouldn’t. 14So I prefer younger widows to remarry, have children, manage the family—so they don’t give critics a chance to find fault. 15Some have already wandered off after Satan.
+
+16If a believerfem has widows, she should take care of them so the church won’t be burdened, and it can help widows that don’t have anybody to take care of them.   	1 Tim 5:9-16
+
+Commandments About Leaders
+
+17Consider elders that do their work well to be worthy of double honor, especially the ones that teach. 18The scripture says, “Don’t putsg a muzzle on an ox while it’s threshing” [Deut 25:4], and, “A worker’s worth his wages” [Mt 10:10; Lk 10:7]. 1
+
+19Don’t accept an accusation against an elder except from two or three witnesses.
+
+20Publicly reprimand people that keep sinning, so the rest will take heed as well.
+
+21In front of God, Christ Jesus, and the elect angels, I solemnly charge you to keep these directives without showing favoritism to anyone.
+
+22Be careful about laying hands on somebody too soon. Don’t take part in other people’s sins so you’ll keep yourself untainted.
+
+23Don’t just drink water; use a little wine for your frequent bouts with an upset stomach.
+
+24Some people’s sins are obvious as they lead them into condemnation. Other people’s sins become obvious later. 25It works the same way with good things. The ones that aren’t obvious will become obvious someday.   	 1 Tim 5:17-25
+
+Servant-Master Relationship
+
+6:1Servants should fully respect their masters so God and his doctrine aren’t slandered. 2Servants with believing masters must not disregard them because they’re equals; they need to serve them even more because the ones that are benefiting from their good service are faithful and loved.	 1 Tim 6:1-2a
+
+Consequences of False Teaching
+
+Teachsg and encourage everyone to do these things. 3If anybody teaches something that doesn’t agree with sound words from our Lord Jesus Christ and with godly teaching, 4he’s conceited and lacks understanding. He has an unhealthy desire to debate and arguments about words. Things like that produce jealousy, division, slander, suspicion, 5constant arguing by people depraved in mind and deprived of truth. They think godliness is a way to gain wealth, 6but godliness with contentment is a great gain. 7We didn’t bring anything into the world, and we can’t take anything out. 8Let’s be content with food and clothes. 9People that want to get rich encounter temptation, which traps them in foolish, harmful desires and drags them down to ruin. 10The love for money is the root of all kinds of evil. Some that strain after wealth have wandered away from the faith and pierced themselves with many sorrows.   	 1 Tim 6:3-10
+
+Keeping Morals and Priorities Straight
+
+11But, man of God, run away from wealth; pursue goodness, faith, love, perseverance, gentleness. 12Fight the good fight of faith; take hold of the eternal life God called you to, the good acknowledgement you made in front of many witnesses. 13I charge [you]ms in front of God, who gives life to everything, and Christ Jesus, who acknowledged who he was in front of Pontius Pilate: 14be spotless and without blame; keep the commandment until the Lord Jesus Christ comes. 15At the right time he’ll be revealed by
+
+the blessed and only Master,
+
+the King of kings and Lord of lords,
+
+16who alone has immortality,
+
+who lives in light so bright you can’t approach,
+
+that no one has seen or can see:
+
+to him be honor and eternal dominion! Amen. 	1 Tim 6:11-16
+
+Words to the Wealthy
+
+17Instruct people that are wealthy now not to be proud or to have their hope based on the uncertainty of wealth. Tell them to put their hope in God, who supplies us richly with everything we enjoy. 18Instruct them to be rich in good deeds, to be generous, willing to share, 19treasuring up for themselves a firm foundation for the future, so they can experience what’s truly life indeed.      	1 Tim 6:17-19
+
+Maintaining the True Knowledge
+
+20Timothy, guard what’s been entrusted to you. Avoid profane, empty talk, and the opposing notions that come from knowledge falsely so-called. 21Some have professed that knowledge and strayed away from the truth.
+
+Grace be with you.    								    1 Tim 6:20-21
+
+SECOND TIMOTHY
+
+Salutation
+
+1:1Paul, apostle of ChristMessiah Jesus by God’s will in regard to the life he promised in Christ Jesus, 2to Timothy, my dear son. Grace, mercy, and peace from God the Father and Christ Jesus our Lord.  	 2 Tim 1:1-2
+
+Stirring up Timothy’s Gift
+
+3As I remember you in my prayers day and night, I thank my ancestors’ God that I serve with a good conscience. 4I really want to see you again because I’ve been remembering your tears. 5I remember your sincere faith, a faith your grandmother Lois and your mother Eunice had first. I’m sure it’s been in you, too, ever since. 6That’s why I’m reminding you to stir up the spiritual gift you have from the laying on of my hands. 7God hasn’t given us a timid mentality, but power, love, and self-discipline. 8So don’t be ashamed of the Lord’s mystery or of me his prisoner; suffer with me for the good news as God gives you strength. 9He has saved us and called us with a holy calling. What we can do ourselves doesn’t define that calling. His purpose and grace define it, which he gave us in Christ Jesus before time began. 10The coming of our Savior Christ Jesus now has revealed that purpose and grace. He destroyed death and brought life and immortality to light through the good news. 11He’s appointed me as a preacher, apostle, and teacher of that good news. 12That’s why I’m suffering what I am. But I’m not ashamed; I know who I’ve trusted, and I’m confident that he can keep what I entrusted to him till that day. 13Hold onto the sound form of the message you’ve heard from me about the faith and love that are in Christ Jesus. 14By the Holy Spirit who lives in us, keep what he’s entrusted to you.	 2 Tim 1:3-14
+
+Paul Abandoned in Rome
+
+15Be aware that everybody in Asia has deserted me, including Phygelus and Hermogenes. 16May the Lord show mercy to the family of Onesiphorus. He has cheered me up so many times and hasn’t been ashamed of my chains. 17When he got to Rome, he went all out to find me. 18May the Lord show him mercy on judgment day. You know very well how much he ministered in Ephesus.        	  2 Tim 1:15-18
+
+Provisions for Going Forward
+
+2:1So, my son, you be strong in the grace that Christ Jesus gives. 2What you’ve heard from me among many witnesses entrust to faithful men that can teach others. 3Endure hardship with me like a good soldier of Christ Jesus. 4A soldier doesn’t get mixed up in the affairs of daily life while he’s a soldier. That way he can please his recruiter. 5An athlete doesn’t win the garland unless he competes by the rules. 6A laboring farmer should be first to share in his crops. 7Think about what I’m saying; the Lord will help you understand.     	 2 Tim 2:1-7
+
+8Remember Jesus Christ, risen from the dead, descendant of David according to the gospel I preach, 9that I endure hardship for—even to the point of being in chains like a criminal. But God’s word is not in chains. 10So I endure everything for the ones he has chosen so they can obtain the salvation that Christ Jesus gives with endless glory. 11Here’s a reliable saying:
+
+“If we’ve suffered with him, we’ll live with him.
+
+12If we endure, we’ll reign with him.
+
+If we deny him, he’ll deny us.
+
+13If we’re not faithful, he’ll stay faithful
+
+because he can’t deny himself.” 	2 Tim 2:8-13
+
+Staying on Course
+
+14Remind the saints of that, and solemnly charge them in front of God not to argue about words. That doesn’t accomplish anything, and it ruins people that listen to it. 15Be diligent about presenting yourself to God as a worker that’s not ashamed, who correctly interprets the truth that’s in the message. 16Avoid worldly, foolish talk; it’ll lead to more ungodliness 17and eat away like gangrene. Hymenaeus and Philetus are like that; 18they’ve wandered off from the truth and say the resurrection has already happened. They’re overturning the faith of some. 19But, God’s foundation stands firm with this seal: “The LORD knows who’s his” [Num 16:5]; and “Everybody that commits themselves to the LORD must quit sinning” [Num 16:26]. 20A big house has gold and silver containers, but wood and clay ones too. 21If people keep themselves clean from foolish worldly ideas, they’ll serve as containers for the Householder’s honorable uses—set aside for good uses. 22Run away from youthful desires and run after goodness, faith, love, and peace with those who call on the Lord with a pure heart. 23Stay away from foolish, ignorant speculation, because you know it produces conflict. 24The Lord’s servant must not quarrel; he must be kind toward everyone, able to teach, not reacting when he’s wronged. 25He needs to correct gently those who oppose the truth, because God may allow them to change to knowing the truth 26and to come to their senses out of the devil’s trap, who’s held them captive under his will.
+
+2 Tim 2:14-26
+
+Future Apostasy
+
+3:1Be aware that difficult times will come later on. 2People will be selfish, money-loving, proud and arrogant, slanderous, disobedient to parents, ungrateful, unholy, 3without natural affection, heartless, slanderous gossips, without self-control, vicious, not loving what’s good, 4treacherous, reckless, conceited, loving pleasure more than God. 5They’ll have the trappings of religion but deny its power. Avoid people like that. 6They’re the kind that sneak into families and seduce morally weak women that are weighed down with sins and lured on by various desires, 7whomas are always learning but never able to find the truth. 8Those who oppose the truth are like Jannes and Jambres, who opposed Moses. They’re corrupt in mind; they’re rejected as far as the faith is concerned. 9They won’t get anywhere because their foolishness will be obvious to everybody just like the foolishness of those men was.     	   2 Tim 3:1-9
+
+Expecting Persecution
+
+10But you have followed my teaching, manner of living, faith, endurance, love, perseverance, 11persecutions, and sufferings like what happened to me in Antioch, Iconium, and Lystra. I bore up under such persecutions, and the Lord delivered me from them. 12Everybody that wants to live godly in Christ Jesus will face persecution. 13Evil people and imposters will get worse and worse, deceiving and being deceived. 14But you stick with what you’ve learned and become confident about it; you know where you learned it. 15From the time you were a baby, you knew the holy scriptures, which can make you wise about salvation by trust in Christ Jesus. 16All scripture is breathed out by God and profitable for teaching, refuting error, correcting faults, and training in goodness. 17That’s how God’s servant can be qualified and equipped for every good thing he needs to do.  	 2 Tim 3:10-17
+
+Maintaining Timothy’s Ministry
+
+4:1I solemnly charge you in front of God and Christ Jesus—who will judge the living and the dead—and by his appearing and kingdom: 2proclaim the message. Be ready in normal or unusual times. Refute, reprimand, encourage patiently with teaching. 3The time will come when people won’t pay attention to sound teaching. They’ll draw teachers to themselves that reinforce their own desires and say what they want to hear. 4They’ll wander off from the true message and turn to myths. 5You be self-controlled, suffer hardship, do the work of an evangelist, fulfill your ministry.    	2 Tim 4:1-5
+
+Paul’s Near Prospect of Death
+
+6I’m already being poured out like a drink offering. The time for me to depart. 7I’ve fought a good fight, I’ve finished the course, I’ve kept the faith. 8From now on, a crown for righteousness waits for me. The Lord, the just Judge, will give it to me that day, and not just to me, but to everybody that has loved his coming.  	 2 Tim 4:6-8
+
+Urgent Call for Timothy’s Coming
+
+9Do your best to get here soon. 10Demas has deserted me and gone to Thessalonica—he loved the present age. Crescens went to Galatia; Titus to Dalmatia. 11Luke’s the only one here. Pick up Mark and bring him with you; I can use him for ministry. 12I sent Tychicus to Ephesus. 13When you come, bring the coat I left in Troas with Carpus, and get the scrolls, especially the parchments. 14Alexander, the precious-metal worker, did me a lot of harm. The Lord will repay him accordingly. 15You be careful around him, too, because he really opposed our message.                                            	2 Tim 4:9-15
+
+16At my first hearing, nobody came to my defense. May the Lord not hold it against them. 17But, the Lord stood by me and strengthened me so I could fully deliver the proclamation for the Gentiles to hear. He delivered me out of the lion’s mouth. 18He’ll deliver me from every evil deed and save me into his heavenly kingdom. To him be glory forevermore. Amen.
+
+2 Tim 4:16-18
+
+Final Greetings
+
+19Greet Prisca and Aquila, and the family of Onesiphorus. 20Erastus stayed in Corinth, and I left Trophimus in Miletus sick. 21Do your best to get here before winter. Eubulus, Pudens, Linus, Claudia, and all the believers send their greetings. 22The Lord be with your spirit.
+
+Grace be with you.      	 2 Tim 4:19-22
+
+TITUS
+
+Salutation
+
+1:1Paul, servant of God and apostle of Jesus ChristMessiah for the faith God’s chosen people have, and for the knowledge of the truth that leads to godliness and 2hope for eternal life. God our Savior, who doesn’t lie, promised that life before times eternal. 3Then at an appropriate time, he made the message available by the preaching he entrusted to me according to the commandment of our Savior God. 4To Titus, my loyal son in the faith we share. Grace and peace from God the Father and Christ Jesus our Savior. 	Tit 1:1-4
+
+Characteristics of Elders
+
+5I left you in Crete to arrange what still needed to be done and to appoint elders in every city like I instructed you. 6A man needs to be above criticism, faithful to his wife, whose children aren’t accused of reckless living or disobedience—7because a bishop needs to be above criticism as God’s steward. He must not be stubborn, quick-tempered, addicted to wine, violent, or greedy for dishonest gain. 8He needs to be hospitable, loving what’s good, sensible, just, self-controlled. 9He needs to hold on tight to the trustworthy message he was taught. That way he can encourage people in sound doctrine and show the error of the ones that speak falsely.	 Tit 1:5-9
+
+Silencing Disorderly People
+
+10There are lots of disorderly people, empty talkers, and deceivers, especially from the Circumcision, 11that need to be silenced. They overthrow whole families by teaching things people don’t need to do, and they do it dishonestly to make money. 12One of their own prophets has said, “Cretans are always liars, bad animals, lazy gluttons.” 13That’s true; so reprimand them sharply to make them sound in the faith, 14not caught up in Jewish myths and human rules that distract people from the truth. 15Everything’s pure to people that are pure; nothing’s pure to people that are not pure. They’ve defiled their minds and consciences. 16They claim to know God, but they deny it by how they act. They’re detestable, disobedient, and worthless for doing anything good.     	  Tit 1:10-16
+
+Older Christian’s Decorum
+
+2:1But you, encourage the kind of living that is appropriate to sound doctrine. 2Older men should be serious-minded, respectable, sensible; sound in faith, love, and endurance. 3The same thing applies to older women. They should be reverent in behavior, not prone to gossip or addicted to wine, but teaching what’s good. 4Then they can teach young women to love their husbands and children. 5They should be sensible, pure, devoted to their families, kind, and deferring to their husbands so people won’t slander God’s message.        	  Tit 2:1-5
+
+Young Men’s Decorum
+
+6In the same way, encourage younger men to be sensible. 7Present yourself as an example of doing good. Demonstrate pure doctrine, respectable conduct, 8and sound speech that people can’t criticize. Then critics will be ashamed because they can’t find anything bad to say about you.               	 Tit 2:6-8
+
+Salvation Offered to Everybody
+
+9Urge servants to submit to their masters, to be pleasing, not argumentive, 10not stealing, but showing good faith so they can adorn the doctrine of God our Savior.   	Tit 2:9-10
+
+11God’s grace has appeared and offered salvation to everyone. 12His grace instructs us to set aside ungodliness and worldly pleasures and to live wisely, justly, and godly in the present age. 13All the while, we look forward to the blessed hope, the glorious appearing of our great God and Savior Jesus Christ. 14He gave himself to redeem us from lawlessness and to purify a special people for himself, a people with zeal zeal for doing good. 15Speak these things, urge, and reprimand with authority. Don’t let anybody disregard you.   	Tit 2:11-15
+
+Respecting Earthly Rulers
+
+3:1Remind people to submit to rulers and authorities, to be obedient and ready to do everything that’s good. 2Remind them not to insult or get pushy, but to be considerate and gentle toward everybody. 3At one time we were foolish too, disobedient, deceived, addicted to various lusts and pleasures. We spent our lives in evil and envy, hated and hating one another. 4But,
+
+“the kindness of God our Savior appeared along with love for other people. 5We didn’t save ourselves by doing good. In mercy he saved us by the washing that regenerates and by the renewal the Holy Spirit gives. 6God poured out his Spirit on us richly through Jesus Christ our Savior. 7In grace he justified us so we could inherit the hope for eternal life.”                                  	 Tit 3:1-7
+
+8That’s a reliable statement. I want you to emphasize doing these things so the ones that have believed God will concentrate on doing good. Such things are good and profitable. 9But, avoid foolish controversies, genealogies, rivalries, legal disputes; they’re pointless and unprofitable. 10After a first and second warning, quit having anything to do with people who cause division. 11They’re perverted sinners that have condemned themselves. 	Tit 3:8-11
+
+Plans for Further Ministry
+
+12When Artemas or Tychycus get to you—that I’m sending—do your best to meet me at Nicopolis. I’ve decided to spend the winter there. 13Diligently help Zenas the lawyer and Apollos get on their way with what they need.  14Have our people learn to practice doing good to meet pressing needs so they’ll be productive.
+
+15The ones that are with me greet you. Greet those who love us in the faith.
+
+Grace be with you all.          	 Tit 3:12-15
+
+PHILEMON
+
+Salutation
+
+1Paul, prisoner of ChristMessiah Jesus, and brother Timothy, to our dear fellow worker Philemon, 2to sister Apphia, to fellow soldier Archippus, and to yoursg house church. 3Grace and peace from God our Father and the Lord Jesus Christ.  	 Phil 1-3
+
+Paul’s Prayer for Philemon
+
+4I always thank God for you, mentioning yousg in my prayers, 5because I hear about your love and faith toward the Lord Jesus and all the saints. 6I pray that fellowshiping with yoursg faith will lead to our experiencing everything good for Christ’s sake. 7Brother, I’m so happy and encouraged by your love, because you refresh the hearts of the saints.  	Phil 4-7
+
+Requesting Freedom for Onesimus
+
+8In light of that, I feel bold enough to tell you something that’s appropriate. 9But because I love you, I’d rather ask you to do it—being Paul the aged prisoner of Christ, and all.
+
+10I’m appealing to you about my child Onesimus that I begot while I was in bonds. 11At one time he was useless to you, but now he’s useful to you and to me. 12As my own heart, I’ve sent him back to you in person. 13I wanted to keep him here to help me on your behalf while I’m in prison because of the good news. 14But I didn’t want to do anything without your consent. I wanted your goodness to be because you wanted to, not because you had to. 15-16Maybe he left you for a while so you could have him forever physically and in the Lord, not as a servant, but as a dear brother—to me too.   	Phil 8-16
+
+Additional Urgings About Onesimus
+
+17So if you consider me a partner, accept him as me. 18If he has wronged you or owes you anything, charge it to me. 19I, Paul, write it with my own hand: I’ll repay it. (I won’t tell you that you also owe me your very self.) 20Yes, brother, I want to have joy in the Lord; refresh my heart in Christ.	 21I’m writing, confident that you’ll do more than I’m saying. 22While you’re at it, preparesg a place for me to stay, because I’m hoping by yourpl prayers to be released to youpl.
+
+Phil 17-22
+
+Greetings
+
+23Epaphras, my fellow prisoner in Christ Jesus, sends yousg greetings. 24Mark, Aristarchus, Demas, Luke—my fellow workers—greet you as well.
+
+25The grace of the Lord Jesus Christ be with yourpl spirit. 	Phil 23-25
+
+HEBREWS
+
+Speaking Through the Son
+
+1:1Long ago God spoke to our ancestors by prophets in many parts and different ways. 2In these last days he has spoken to us in a Son. He made the universe through him and made him heir of everything. 3He’s the radiance of God’s glory, the exact image of his nature, and upholds everything by his powerful word. When he’d made purification for sins, he sat down on the right side of the Majesty on high, 4and became as much better than angels as he inherited a better name than they have.    	 Heb 1:1-4
+
+The Son’s Superiority over Angels
+
+5To what angel did God ever say,
+
+“You’re my Son; I’ve begotten you today” [Ps 2:7]
+
+or,
+
+“I’ll be his Father; he’ll be my son” [2 Sam 7:14; 1 Ch 17:13]?
+
+6When he brings the Firstborn into the world, he says,
+
+“All God’s angels are to worship him” [Deut 32:43 LXX].
+
+7He says in regard to angels,
+
+“Who makes his angels spirits
+
+and his ministers flames of fire” [Ps 104:4]. 	Heb 1:5-7
+
+8But he says to the Son,
+
+“Your throne, God, is forevermore;
+
+the scepter of your kingdom is a righteous scepter.
+
+9You’ve loved goodness and hated lawlessness,
+
+so God has anointed you
+
+with greater gladness than your companions” [Ps 45:6-7];
+
+10and,
+
+“In the beginning, LORD, you founded the earth
+
+and made the skies.
+
+11They’ll perish, but you’ll remain;
+
+they’ll get old like a robe;
+
+12you’ll fold them up like a cloak
+
+and change them like a robe.
+
+But you’re the same;
+
+your years won’t end” [Ps 102:25-27].
+
+13What angel did he ever tell,
+
+“Sit on my right hand
+
+till I make your enemies your footstool” [Ps 110:1]?
+
+14Aren’t they ministering spirits that he sends to help the heirs of salvation?	 Heb 1:8-14
+
+Heeding the New Revelation
+
+2:1So we need to pay close attention to what we’ve heard so we never drift away from it. 2What God said through angels stood firm, and every sin received the punishment it deserved. 3So how will we get off if we neglect such a great salvation? After the Lord spoke it, the ones that heard it confirmed it to us. 4God testified alongside them with signs, wonders, and various miracles and gifts that the Holy Spirit dispensed as he saw fit.  	Heb 2:1-4
+
+Mankind as Caretaker of Creation
+
+5It wasn’t to angels that God subjected the future world we’re talking about. 6In a certain place one has testified,
+
+“What are people that you remember them or visit them?
+
+7You made them lower than angels for a little while,
+
+crowned them with glory and honor,
+
+8and put everything under their authority” [Ps 8:5-7 LXX].
+
+“Putting everything under their authority” means God didn’t leave anything that wasn’t under them, but we don’t see that yet. 9We do see Jesus, however, “made lower than angels for a little while,” so by God’s grace he could taste death for everyone. Now we see him “crowned with glory and honor” because he suffered death.   	Heb 2:5-9
+
+The Son’s Incarnation
+
+10Everything is through him and for him. It was appropriate, then, in bringing many children to glory, that he make perfect the Author of their salvation with suffering. 11Both the sanctifier and the sanctified have the same nature. That means he’s not ashamed to call them “siblings.”
+
+12“I’ll present you to my siblings
+
+and sing your praises in the congregation” [Ps 22:22].
+
+13Again,
+
+“I’ll trust him” [Is 8:17 LXX],
+
+“ . . . I and the children God gave me” [Is 8:18].   	 Heb 2:10-13
+
+14Since “the children” exist in flesh and blood, he took on flesh and blood so that by dying he could take the power of death away from the one that has it—the devil. 15That way he could free people that the fear of death had enslaved as long as they were alive. 16It’s clear he’s not here to help angels, but to help Abraham’s descendants. 17So he needed to be like people in every respect so he could become a merciful, faithful high priest in things that have to do with God and could atone for people’s sins. 18Since he faced temptation in what he suffered, he can help those who face temptation.          	      Heb 2:14-18
+
+The Son’s Superiority over Moses
+
+3:1So, holy “children” that take part in the heavenly calling, pay close attention to Jesus, the Author and Perfecter of what we profess. 2He was faithful to the One that appointed him just like Moses was in his house. 3But Jesus has been considered worthy of more honor than Moses—as much more as a house builder has more honor than the house. 4Somebody builds every house; God has built everything. 5Moses was faithful as a servant in his house to testify about things that would be spoken later; 6ChristMessiah was faithful as a Son over his house. We are that house if we stay confident and take pride in our hope.   	 Heb 3:1-6
+
+Being Sensitive to Righteousness
+
+7So, like the Holy Spirit says,
+
+“Today, if you hear him speaking to you,
+
+8don’t harden your hearts
+
+like they did when they rebelled
+
+and tested me in the desert,
+
+9where your ancestors tested me at Meribah,
+
+and saw what I did 10for 40 years.
+
+That generation wasn’t pleasing to me,
+
+and I said,
+
+‘They always stray in their hearts;
+
+they don’t know my ways.’
+
+11As I swore in my anger,
+
+‘They’re not going to go into my rest!’” [Ps 95:7-11] 	Heb 3:7-11
+
+12Be careful so there won’t be an evil, disbelieving “heart” in any of you, and you fall away from the living God. 13Encourage one another every day as long as it’s “Today” so sin’s deception doesn’t “harden” you. 14You’ve become partakers of Christ if you hold firm to the end the assurance you had at the first—15while he says,
+
+“Today, if you hear him speaking to you,
+
+don’t harden your hearts
+
+like they did when they rebelled against me” [Ps 95:7-8].
+
+16Who “rebelled” against him when they “heard”? Wasn’t it everybody that Moses brought out of Egypt? 17Who was he “angry” with for “40 years”? Wasn’t it the ones who sinned and their corpses fell in the “desert”? 18Who’d he “swear” wouldn’t “go into his rest” but the ones that disbelieved? 19We can see that they couldn’t go in because they disbelieved.   	Heb 3:12-19
+
+The Promise of Rest
+
+4:1Let’s be alert so none of us even looks like we’re coming short of a promise he left behind about “going into his rest.” 2We’ve had good news presented to us just like they did. But what they heard didn’t do them any good because they didn’t combine hearing with believing. 3We who believe do go into rest like he said,
+
+“As I swore in my anger,
+
+‘They are not going into my rest!’” [Ps 95:11]
+
+He finished his work when he founded the world. 4In one text it says of the seventh day,
+
+“On the seventh day God rested from his work” [Gen 2:2];
+
+5and in this place,
+
+“They’re not going to go into my rest!” [Ps 95:11]	Heb 4:1-5
+
+6Since there’s still a rest for some to enter, and since the ones that received good news before didn’t enter it because they disbelieved, 7he established another day, “Today.” He said at David’s time much later like he’d said before,
+
+“Today, if you hear him speaking to you,
+
+don’t harden your hearts” [Ps 95:7-8].
+
+8If Joshua had given them rest, God wouldn’t be talking after that about another day. 9So there’s still a rest for God’s people. 10Whoever rests from his work has rested like God did. 11Let’s be diligent then about going into that rest so none of us fall after the same kind of disobedience.
+
+God’s Living Word
+
+12God’s word is living and active and sharper than any two-edged sword. It cuts through to the separation of soul and spirit, and bones and marrow; it judges a person’s inner thoughts and intentions. 13Nothing created is hidden from him; everything is naked and laid bare to the eyes of one we’re dealing with. 	 Heb 4:6-13
+
+Our Great High Priest
+
+14We have a great high priest that’s passed through the sky, Jesus the Son of God. So let’s hold onto what we’re committed to. 15He’s a high priest that can sympathize with our weaknesses because he has faced every temptation we have, but without sinning. 16So let’s boldly draw near to the throne of grace to receive mercy and find grace when we need it.
+
+Heb 4:14-16
+
+5:1Every high priest is appointed for people from among people to deal with things that relate to God, and to offer gifts and sacrifices for sins. 2He’s somebody that can deal gently with the ignorant and erring because he has weaknesses too. 3On that account he’s obligated to offer sacrifices for his own sins as well as the people’s. 4And, nobody takes the honor to himself; he’s called by God like Aaron was. 	 Heb 5:1-4
+
+5In the same way, Christ didn’t exalt himself to become a high priest, but the One that said,
+
+“You’re my Son;
+
+I’ve begotten you today” [Ps 2:7],
+
+6says in another place,
+
+“You’re a priest forever
+
+after the order of Melchizedek” [Ps 110:4].
+
+7When he was in the flesh, he offered up prayers and pleas, with tears and audible crying to the One that could save him from death, and God heard him because of his godly fear. 8As a Son, he learned obedience by what he suffered. 9Once he became perfect, he became the source of eternal salvation for everyone that obeys him. 10God designated him “a high priest after the order of Melchizedek.”   	Heb 5:5-10
+
+Priest After the Order of Melchizedek
+
+11We have a lot to say about Melchizedek that’s difficult to explain because you’re hard of hearing. 12By now, you should be teachers, but you still need somebody to teach you the basics of God’s message. You need milk instead of solid food. 13People that keep drinking milk don’t get accustomed to the message about goodness; they’re infants. 14Solid food is for grownups that have trained their faculties to discriminate between good and bad.  	Heb 5:11-14
+
+Getting Beyond the Basics
+
+6:1So let’s get past the basics about Christ and press on to maturity. Let’s not lay again a foundation about repentance from dead works, and about faith toward God, 2teaching about baptizings, laying on hands, resurrection, eternal judgment. 3We’ll get past the basics, God willing. 4You can’t renew people to repentance that have once seen the light, tasted the heavenly gift, partaken of the Holy Spirit, 5tasted God’s good word and the powers of the age to come—6and then fall away. They crucify to themselves God’s Son all over again and hold him up to public disgrace. 7God blesses the ground that soaks up frequent rains and produces crops farmers can use. 8If it grows thorns and briars, it’s worthless and close to being accursed. It ends up getting burned off.
+
+9But we’re convinced that in matters of salvation you’re better than that, despite what we’re saying. 10God is just and remembers your work and love in his name when you ministered to the saints—and still do. 11We want each of you to keep showing that same diligence, which will endure in the end to a firm hope. 12That way you won’t get sluggish. By faith and endurance, you’ll be imitating people that obtain promises.               	Heb 6:1-12
+
+God’s Oath to Abraham
+
+13When God made his promise to Abraham, he didn’t have anything greater to swear by; so “he swore by himself [Gen 22:16], 14I’ll certainly bless you and multiply you” [Gen 22:17]. 15After Abraham had waited a long time, he did receive the promise. 16People swear by something greater and settle every dispute with an oath to confirm it. 17That’s what God did when he wanted to show more certainly to the heirs of the promise how unchangeable his plan was: he guaranteed it with an oath. 18By two unchangeable things, then (God can’t lie), we can have great confidence who have fled for refuge to take hold of the hope we headed for. 19That hope anchors our soul; it’s a hope that’s certain and reliable. It leads inside the curtain, 20where Jesus went as a forerunner for us when he became “a high priest after the order of Melchizedek.”                                               	Heb 6:13-20
+
+Christ’s Melchizedekian Priesthood
+
+7:1That Melchizedek—king of Salem, priest of God Most High—met Abraham when he came back from killing the kings and blessed him. 2Abraham separated off to him a tenth of everything [Gen 14:17-20]. First, by translation, “Melchizedek” was “king of righteousness,” and then “king of Salem,” meaning “king of peace.” 3Without record of father, mother, genealogy, birth, or death—like God’s Son—he remains a priest for all time.	Heb 7:1-3
+
+4Look how great the man was that Abraham the patriarch gave a tenth of the spoils of war. 5In the Law the Levites that receive the priesthood have a commandment to receive a tenth from the people, that is, from their kin though they’ve descended from Abraham. 6But the one whose genealogy wasn’t from them received a tenth from Abraham and blessed the one that had the promises. 7Without argument, the greater blesses the lesser. 8Here men that die receive a tenth, but there one received it who is pictured as alive. 9So to speak, through Abraham even Levi, who receives a tenth, paid a tenth. 10He was in his ancestor’s loins when Melchizedek met him. 11If perfection could come through the Levitical priesthood (by which the people received the Law), why would there be another priest “after the order of Melchizedek”? 12Changing the priesthood requires changing the Law, 13because the One these things speak about belonged to different tribe; nobody from that tribe ever served at the altar. 14It’s clear that our Lord descended from Judah; Moses never said anything about priests from that tribe. 15It’s even clearer if another priest arises like Melchizedek, 16who has become a priest, not by law based on physical requirement, but by power based on indestructible life. 17Scripture testifies,
+
+“You’re a priest forever
+
+after the order of Melchizedek” [Ps 110:4].
+
+18That statement annuls the preceding commandment because it was weak and unprofitable—19the Law didn’t make anything perfect—and brings in a better hope by which we can draw near to God.          	Heb 7:4-19
+
+God’s Oath About Christ’s Priesthood
+
+20-21Furthermore, Christ’s priesthood came in with an oath. The Levites became priests without an oath, but he became a priest with an oath from the One that said to him,
+
+“The LORD swore
+
+and won’t change his mind,
+
+‘You’re a priest forever’” [Ps 110:4].
+
+22By that much Jesus also guaranteed a better covenant. 23There were lots of former priests because death prevented them from continuing. 24He holds his priesthood without successors because he remains forever. 25So he can save “forever” the ones that draw near to God through him. He’s always alive to intercede for them.      	Heb 7:20-25
+
+26That’s the kind of high priest we need—holy, innocent, undefiled, separate from sinners, higher than the sky. 27Unlike those high priests, he didn’t need to make an offering every day first for his own sins and then for the people’s. He made an offering once and for all when he offered himself. 28The Law appoints men high priests that have weakness, but the oath that came after the Law appointed forever a perfected Son.  	Heb 7:26-28
+
+Christ’s Priesthood in Heaven
+
+8:1Here’s the point: we have the kind of high priest that sat down on the right hand of the majestic throne in heaven. 2He ministers in the sanctuary, the real tabernacle the LORD pitched, not man. 3Every high priest is appointed to offer gifts and sacrifices; so he needed to offer something too. 4On earth, he wouldn’t be a priest at all since there are those who offer gifts according to the Law and serve a copy and shadow of heavenly things. 5God warned Moses when he was getting ready to put up the tabernacle, “Be sure you make everything like the design I showed you on the mountain” [Ex 25:40]. 6Christ received a ministry that’s as much better as the covenant he’s mediating is better, because God enacted it on better promises.
+
+Heb 8:1-6
+
+The Promise of a New Covenant
+
+7If the first covenant hadn’t had faults, God wouldn’t have planned to put a second covenant in place. He’s finding fault with the first 8when he says,
+
+“The time’s coming
+
+when I’ll make a new covenant
+
+with Israel and Judah.
+
+9It won’t be like the covenant I made with their ancestors
+
+when I brought them out of Egypt.
+
+They didn’t continue on in my covenant,
+
+and I wasn’t pleased with them.
+
+10This is the kind of covenant I’ll make with Israel later:
+
+I’ll put my laws in their minds
+
+and write them on their hearts.
+
+I’ll be their God,
+
+and they’ll be my people.
+
+11Nobody will be teaching his fellow citizen and friend,
+
+‘Know the LORD.’
+
+They’ll all know me from smallest to greatest,
+
+12because I’ll have mercy on their sins;
+
+I won’t remember them anymore” [Jer 31:31-34].
+
+13When he said “new,” he made the first old. What’s getting old is about to pass away.	Heb 8:7-13
+
+Service in the First Sanctuary
+
+9:1Now the first covenant had an earthly sanctuary and regulations for service. 2The first tabernacle, “the Holy Place,” had a lampstand and a table with sacred bread on it. 3Behind the second curtain stood another tabernacle, “the Holy of Holies.” 4It had a gold altar of incense and the Ark of the Covenant that was gold-plated all over. Inside the ark there was a gold pot with manna in it along with Aaron’s rod that budded and the tablets that contained the covenant. 5Above the ark the glorious cherubs hovered over the mercy seat. We can’t speak in detail about these now.     	 Heb 9:1-5
+
+6With things arranged that way, the priests regularly go into the first tabernacle to perform rites of divine service. 7But the high priest goes into the second tabernacle by himself once a year and takes blood to offer for himself and the sins people committed in ignorance. 8The Holy Spirit signified by that design that the way into the Holy of Holies wasn’t obvious while the original tabernacle was standing. 9The tabernacle figuratively pictured its own time when gifts and sacrifices couldn’t clear a worshiper’s conscience. 10Those gifts and sacrifices only dealt with foods, drinks, various washings—physical regulations in place till the new order would come in.       	   Heb 9:6-10
+
+Christ as Priest of What’s Real
+
+11Christ appeared as a high priest of good things that are here now. He went in by the greater and more perfect tabernacle not made with hands, that is, not of this creation. 12He didn’t go into the Holy of Holies on the basis of the blood of goats and calves, but on the basis of his own blood once and for all to obtain eternal salvation. 13If the blood of bulls and goats and the ashes of a heifer sprinkling the defiled, sanctifies to cleanse the flesh, 14how much more will the blood of Christ—who offered himself without blemish to God through the eternal Spirit—cleanse our conscience from dead works to serve the living God. 	Heb 9:11-14
+
+Christ’s Mediating the New Covenant
+
+15So he’s the mediator of a new covenant. His death redeemed sins that people committed under the first covenant so the heirs of the eternal covenant could receive the promise. 16A testamentary covenant involves the death of the one that made it. 17It’s never in force while he’s alive. 18The first covenant was instituted with blood. 19When Moses had spoken every commandment to the people, he took the blood of goats and young bulls—with water, scarlet wool, and hyssop—and sprinkled the scroll itself and the people, 20saying, “This is the blood of the covenant God commanded you” [Ex. 24:8]. 21He also sprinkled blood on the tabernacle and the vessels used in it. 22I can almost say, according to the Law, blood cleanses everything; there’s no forgiveness without shedding blood. 	 Heb 9:15-22
+
+23These things cleansed the copies of heavenly things, but something better needed to cleanse the heavenly things themselves. 24Christ didn’t go into a handmade copy of the real sanctuary; he went into heaven itself to appear for us now in God’s presence. 25And, he didn’t need to offer himself many times like the high priest does in the Holy Place every year with blood that’s not his own. 26Otherwise, Christ would’ve had to suffer many times since the world began. But now, once and for all at the end of the ages, he has appeared to get rid of sin by sacrificing himself. 27It’s appointed to men to die once and after that to face judgment. 28In the same way, Christ offered himself once to bear the sins of many. He’ll appear a second time—apart from sin—to the ones who wait expectantly for him to save us.    	 Heb 9:23-28
+
+Replacing Shadows with Realities
+
+10:1The Law has a shadow of good things to come, not the very things themselves; so, by the same sacrifices every year, it can never make the ones perfect that are drawing near. 2Otherwise, wouldn’t those sacrifices have ceased to be offered? The worshipers wouldn’t feel like sinners anymore because they would’ve been cleansed once and for all. 3But every year the sacrifices remind people that they’re still sinners. 4The blood of bulls and goats can’t take away sins.    	 Heb 10:1-4
+
+5So when he comes into the world, he says,
+
+“You didn’t want sacrifice and offering;
+
+you prepared a body for me.
+
+6You didn’t delight in whole burnt offerings
+
+and sacrifices for sins.
+
+7Then I said,
+
+‘God, I’ve come to do your will;
+
+it’s been written about me in the scroll’” [Ps 40:6-8, cp. LXX].
+
+8When he says above, “You didn’t want or delight in sacrifices and offerings and whole burnt offerings and sacrifices for sins,” which are offered according to the Law, 9then he says, “I’ve come to do your will.” He takes away the first to establish the second. 10By that will, the one-time offering of Christ’s “body” has made us holy.       	Heb 10:5-10
+
+11Every day, priests stand ministering and offering the same sacrifices over and over that can never take away sins. 12But he offered one sacrifice for sins for all time, sat down on the right hand of God, 13and is waiting till his enemies become his “footstool.” 14By one offering, he permanently perfected the ones he sanctified.
+
+15The Holy Spirit also testifies. After he said,
+
+16“This is the covenant I’ll make with them
+
+after those days:
+
+I’ll put my laws in their hearts
+
+and write them on their minds’” [Jer 31:33];
+
+17then he says,
+
+“‘I won’t remember their sins
+
+and lawless deeds anymore’” [Jer 31:34].
+
+18Where there’s forgiveness for sins, there’s no more sacrificing for them.   	     Heb 10:11-18
+
+Obtaining a Clear Conscience
+
+19So we have confidence about entering the Holy Place by the blood of Jesus. 20We go in by the new and living way that he has opened for us through the curtain, that is, his flesh. 21We have a great priest over God’s house; 22so let’s draw near with a true heart in full assurance that comes from trust. Let’s draw near with hearts sprinkled from a guilty conscience and bodies washed with pure water. 23Let’s hold onto our hope confidently without wavering; we can trust the One that promised. 24Let’s think carefully how we can encourage one another to love and good works. 25Let’s not quit going to church like some do; let’s encourage one another, especially as we see “the time” coming close. 26If we keep on sinning deliberately after we know the truth, there’s no more sacrifice to be offered. 27There’s a fearful dread of judgment and the furious fire that will consume God’s opponents. 28Anybody that disregards the Law of Moses, dies without mercy at the testimony from two or three witnesses. 29How much more severe punishment do you suppose people deserve who trample the Son of God under their feet, regard as unclean the blood of the covenant that sanctified them, and insult the Spirit of grace? 30We know who said,
+
+“Revenge is my business;
+
+I’ll take care of it” [Deut. 32:35];
+
+and,
+
+“The LORD will judge his people” [Deut 32:36; Ps 135:14].
+
+31It’s a terrifying thing to fall into the hands of the living God.  	Heb 10:19-31
+
+Confidence in Hardships
+
+32Remember the earlier days when you first saw the light and suffered such hardships. 33You were publicly shamed with insults and difficulties and shared with other people that were abused that way. 34You sympathized with people in prison and accepted it joyfully when authorities confiscated your possessions, because you knew you had a better possession that lasts. 35So don’t lose confidence; an important payment is coming. 36You need to hang in there so, once you’ve done God’s will, you’ll obtain the promise,
+
+37“In a little while
+
+the One that’s coming will come,
+
+38and my righteous one will have life by faith.
+
+If he gives up,
+
+I won’t be pleased with him” [Hab 2:3-4].
+
+39We aren’t among those who “give up” and get destroyed; we have “faith” to the preserving of our “life.”     	Heb 10:32-39
+
+Roll Call of the Faithful
+
+11:1Faith is confidence about what we hope for, certainty about what we can’t see. 2By faith people of old received testimony.
+
+3By faith we understand that God spoke the universe into existence, so what we see didn’t come from something previous.
+
+4By faith Abel offered God a better sacrifice than Cain did. Through it he received testimony that he was good. (God testified in response to his gifts.) Through it he’s still speaking though he’s dead.   	 Heb 11:1-4
+
+5By faith Enoch didn’t die. “God took him up, and he simply wasn’t there” [Gen 5:24]. Before God took him up, the ancient writings say “he pleased God” [Gen 5:22-24; Sir 44:16; Enoch 70:1-4; Wis 4:10].  6Without faith a person can’t please God. Whoever comes to him has to believe he exists and rewards people who look for him.
+
+7By faith Noah built an ark that saved his family. God had warned him about things he couldn’t see yet, and he paid attention to the warning. By faith he condemned his world and inherited the results of the goodness that comes from faith. 	 Heb 11:5-7
+
+8By faith Abraham obeyed when God called him, and went out to a place he’d inherit later. He went without knowing where he was going. 9By faith he lived as a foreigner in a land God had promised him. He lived there as a nomad in tents with Isaac and Jacob, heirs of the same promise. 10He did it because he was looking for a city that had foundations, whose architect and builder is God.
+
+11By faith Sarah, too, though she couldn’t have children, God enabled to conceive even after child-bearing years. She did so because she had faith in the One that promised. 12So, from one man that was as good as dead, there descended as many as the stars in the sky and the grains of sand on the seashore.     	Heb 11:8-12
+
+13These all died in faith without receiving the promises. They saw them a long way off and greeted them from afar. They regarded themselves as foreigners and temporary residents on earth. 14People that say things like that show they’re looking for a homeland. 15If they were looking to where they’d come from, they could’ve gone back. 16But they longed for a better, heavenly homeland. So God’s not ashamed of being their God, as he showed by preparing a city for them.      	 Heb 11:13-16
+
+17By faith Abraham, when God put him to the test, went ahead and offered up Isaac. The man that was so happy to receive the promises offered up the only son he had. 18He was the one God told, “Your lineage will descend through Isaac” [Gen 21:12]. 19He figured that God could even raise Isaac from the dead; in a way, that’s what happened.
+
+20By faith Isaac blessed Jacob and Esau even about future things.
+
+21By faith Jacob, as he was dying, blessed each of Joseph’s sons and “worshiped, leaning on his staff” [Gen 48:15-16; 47:31 LXX].   	Heb 11:17-21
+
+22By faith Joseph, when he was about to die, remembered the future exodus of Israel’s descendants and gave instructions about his bones.
+
+23By faith Moses’ parents hid him for three months. They saw he was a handsome little boy and weren’t afraid of Pharaoh’s decree.
+
+24By faith Moses, when he grew up, refused to be considered the son of Pharaoh’s daughter. 25He chose to suffer mistreatment with God’s people rather than enjoy the pleasures of sin for a while. 26He considered the disgrace of Christ more valuable than the wealth of Egypt because he was looking on ahead to the later reward. 27By faith he left Egypt, not afraid of Pharaoh’s anger, and endured as if he saw the One that’s invisible. 28By faith he kept the Passover and the smearing of blood on the doorposts so the one that destroyed the firstborn wouldn’t touch them. 29By faith he crossed the Red Sea as on dry ground. When the Egyptians tried it, they drowned.	  Heb 11:22-29
+
+30By faith the walls of Jericho fell down after the Israelites circled them for seven days.
+
+31By faith Rahab the harlot didn’t perish with the disobedient because she welcomed the spies in peace. 	Heb 11:30-31
+
+Extreme Faithfulness
+
+32What more can I say? There’s not enough time to talk about Gideon, Barak, Samson, Jephthah, David and Samuel, and the prophets. 33By faith they conquered kingdoms, did good things, received promises, shut the mouths of lions, 34extinguished the power of fire, escaped the sword, were made strong out of weakness, became mighty in war, drove out armies of foreigners. 35Women received back their dead by resurrection. Somemas were beaten to death, rather than accept deliverance so they could gain a better resurrection. 36Others received public torture and scourging, were put in chains and imprisoned. 37They were stoned, sawn in two, murdered with swords. They went around in sheepskins and goatskins, destitute, oppressed, abused; 38wandering in deserts and mountains, hiding in caves and holes in the ground. The world didn’t deserve them. 39They all received testimony through their faith, but they didn’t receive the promise. 40God provided something better for us so that what they anticipated wasn’t completed till we received it. 	      Heb 11:32-40
+
+Renewed Zeal from Faithful Examples
+
+12:1So, surrounded by such a crowd of witnesses to us, let’s lay aside everything that weighs us down and the sin that so easily holds us back. Let’s press on in the race that’s in front of us, 2as we look ahead to Jesus the forerunner and finisher of our faith. For the joy in front of him, he endured the cross, overlooked the disgrace, and sat down on the right side of God’s throne. 3Keep in mind the One that endured such verbal hostility from sinners so you don’t get discouraged.               	 Heb 12:1-3
+
+4You haven’t shed your blood yet in straining against sin. 5You’ve forgotten the encouragement that reasons with you like children,
+
+“My child, don’t take lightly the LORD’s discipline
+
+or give up when he scolds you.
+
+6The LORD disciplines the ones he loves
+
+and punishes every child he receives” [Pro 3:11-12].
+
+7Endure to gain discipline because God’s treating you like children. What child doesn’t a father discipline? 8If you’re not receiving discipline, you’re not children; you’re illegitimate offspring. 9Besides, we respected our physical fathers who disciplined us; won’t we respect our spiritual Father more and live? 10They did what they thought was appropriate; he does it for our benefit so we’ll be holy like him. 11Discipline always seems harsh at the time; but later it pays back the peaceful results of right living. 12So strengthen the limp hands and weak knees, 13and make straight paths for your feet so what’s lame won’t veer off but get corrected.    	      Heb 12:4-13
+
+Getting Serious About Holy Living
+
+14With everybody, strive for peace and the holiness you need to have to see the Lord. 15Make sure none of you come short of God’s grace. Don’t let some root of bitterness sprout up and cause trouble and end up defiling other people. 16Don’t be immoral or irreligious like Esau, who sold his birthright for one meal. 17As you know, afterward, when he wanted to inherit the blessing, he was refused. He didn’t find any change of heart in his father though with tears he tried diligently to get it. 	 Heb 12:14-17
+
+18You haven’t come to a mountain you can touch or one blazing with fire. You haven’t come to darkness, gloom, and whirlwind, 19to a trumpet blast or the sound of words the Israelites begged not to hear. 20They couldn’t deal with the severe demand,
+
+“If even an animal touches the mountain, stone it” [Ex 19:12-13].
+
+21The spectacle was so terrifying, Moses said, “I’m so afraid I’m shaking” [Deut 9:19]. 22But, you’ve come to Mount Zion,
+
+to the city of the living God,
+
+to the heavenly Jerusalem and countless thousands of angels,
+
+to the assembly 23and church of the firstborn who are enrolled in heaven;
+
+to God, the judge of all;
+
+to the spirits of good people made perfect;
+
+24to Jesus, the mediator of a new covenant; and
+
+to the sprinkling of blood that speaks better than Abel’s. 	Heb 12:18-24
+
+25Make sure you don’t ignore who’s talking to you. If they didn’t escape who ignored the One that warned them on earth, you certainly won’t escape if you turn away from the One who has warned you from heaven. 26His voice shook the earth then, but now he has promised,
+
+“One more time I won’t just shake the earth
+
+but the sky too” [Hag 2:6].
+
+27“One more time” means taking away what can be shaken—this creation—so what can’t be shaken will be all that’s left. 28Since you’re receiving a kingdom that can’t be shaken, be grateful. In gratitude serve God in an acceptable way with reverence and awe; 29he’s a consuming fire.   	     Heb 12:25-29
+
+Service to All People
+
+13:1Love the believers. 2Be hospitable to strangers. (Some have entertained angels without knowing it.)  3Remember prisoners as if you’re in prison with them, and those abused as if you’re in their bodies. 4With everybody, keep marriage honorable and the bed undefiled; God will judge fornicators and adulterers. 5Be free from the love of money and be content with what you have. He said it himself,
+
+“I’ll never abandon you” [Deut 31:6].
+
+6So we can confidently say,
+
+“The LORD’s my helper;
+
+I won’t be afraid.
+
+What are people going to do to me?” [Ps 118:6].
+
+7Remember your leaders, who spoke God’s message to you. Look at the way their lives turned out and imitate their faith. 8Jesus Christ is the same yesterday, today, and forever.  	  Heb 13:1-8
+
+Resisting Distractions
+
+9Don’t get drawn off course by strange teachings. It’s good to feel secure because of grace rather than food. Observing regulations about food doesn’t benefit the ones that observe them. 10We have an altar that the ones who serve the tabernacle don’t have a right to eat from. 11The high priest takes into the Holy Place the blood of animals as a sacrifice for sin; the bodies of those animals get burned outside the camp. 12Jesus also suffered outside the gate to sanctify the people through his own blood. 13Let’s go out to him—outside the camp—and bear his disgrace. 14We don’t have an eternal city here, but we anticipate the one that’s coming. 15Through him let’s offer up to God a sacrifice of continuous praise, that is, what we say in acknowledging him. 16Don’t neglect doing good and sharing; God delights in sacrifices like that.
+
+Heb 13:9-16
+
+Assisting the Leaders
+
+17Obey your leaders; defer to them. They watch over your souls so they can enjoy giving account. (Doing so with sighing wouldn’t benefit you.)
+
+18Pray for us. We have a clear conscience; we want to conduct ourselves well in everything we do. 19I urge you to do that all the more so I can get back to you sooner.
+
+Doxology
+
+20-21May the God that brings peace, that resurrected the Great Shepherd of the sheep, equip you by the blood of the eternal covenant to do his will in everything that’s good. Through Jesus Christ, may he accomplish in you what delights him. Glory to him forever[more]ms! Amen.
+
+Closing Exhortation and Greeting
+
+22I encourage you to listen to this brief encouragement. 23Be aware that our brother Timothy is free now. If he comes soon, I’ll see you with him.
+
+24Greet your leaders and all the saints. The ones from Italy greet you.
+
+25Grace be with you all.     	Heb 13:17-25
+
+JAMES
+
+Salutation
+
+1:1James, servant of God and the Lord Jesus ChristMessiah, to the twelve tribes in the Dispersion. Greetings.
+
+Temptation, Wisdom, Humility
+
+2Consider temptation something to be glad about. 3It challenges your faith to produce stamina, 4and stamina gives you the ability to finish what you’re doing.
+
+5If you need wisdom, ask God. He gives it generously to everybody without blaming them for asking. 6Trust him when you ask. If you doubt, you’re like an ocean wave blown around by the wind. 7Don’t suppose you’ll get anything from God. 8If you can’t make up your mind, you’re unsettled about everything you do.     	James 1:1-8
+
+9Disciples in humble circumstances should take pride in their high position. 10Rich disciples should take pride in their humble circumstances because their wealth will fade away like a flower in the grass. 11The sun climbs high and joins the hot wind to dry up the grass and wilt the flowers, and their beauty fades away. That’s how it is with rich people: they wither away in what they’re trying to do.  	James 1:9-11
+
+12When you hold up under temptation you’re blessed. When approved, you’ll receive life as a crown. That’s what the Lord has promised people that care about him. 13When you face temptation, don’t say, “God’s tempting me.” Evil isn’t tempting to God, and he doesn’t tempt anybody. 14Your own lusts are what tempt you, lure you away, entice you. 15When lust conceives, it bears sin, and sin grows up to produce death. 	James 1:12-15
+
+Listening, Doing, Controlling the Tongue
+
+16Don’t get misled. 17Every good and perfect gift comes down from the Father that enlightens us. There’s no wavering or hint of inconsistency with him. 18He took the initiative in bringing us forth by the message about the truth so we’ve become a kind of firstfruits among people he created.  	 James 1:16-18
+
+19Know this: people must be willing to listen, be careful about what they say, and be slow to get mad. 20People’s anger doesn’t produce God’s goodness. 21So get rid of filthy ways of living and the excesses that evil brings; humbly yield to the implanted message that can save you.      	James 1:19-21
+
+22Do the word; don’t just listen to it and kid yourselves. 23If you hear it and don’t do it, you’re like a fellow that looks in a mirror 24and forgets what he looked like. 25When you stare into the perfect “law,” the law of liberty, and continue as a doer, not just a hearer, you’ll be blessed in what you do.   	   James 1:22-25
+
+26If you consider yourself religious but don’t control your tongue, you’re fooling yourself; your religion is useless. 27Pure, undefiled religion with God the Father is this: looking after orphans and widows in their hardship and keeping yourselves from getting stained by the world.         	James 1:26-27
+
+No Discrimination Against the Poor
+
+2:1Fellow Christians, don’t discriminate against people while claiming to have faith in our glorious Lord Jesus Christ. 2If a man comes into your assembly dressed nice with a gold ring on his finger, and a poor man comes in wearing shabby clothes, 3and you give preference to the one in fine clothes and say, “You sit here in a nice place,” and you say to the poor man, “You stand over there,” or “Sit by my footstool,” 4haven’t you discriminated and made judgments based on bad motives? 	James 2:1-4
+
+5Listen, hasn’t God chosen poor people to be rich in faith and inherit the kingdom he promised to people that care about him? 6But you’ve looked down on poor people. Don’t rich people bully you and take you to court? 7Don’t they slander the good name you wear? 8But, you do well to fulfill the royal law according to the scripture, “Love your neighbor as yourself” [Lev 19:18]. 9If you discriminate, you sin, and the Law convicts you of being a sinner. 10Whoever keeps the whole Law but stumbles in one point, has become liable to the Law as such. 11The One that said, “Do not commit adultery” [Ex 20:14; Deut 5:18] is the same One that said, “Do not murder” [Ex 20:13; Deut 5:17]. If you don’t commit adultery, but commit murder, you’re still a law breaker. 12Speak and do like people that are evaluated by a “law” of liberty. 13Condemnation is without mercy to the one that hasn’t shown mercy. Showing mercy is better than criticizing. 	James 2:5-13
+
+Doing vs. Believing
+
+14What good is it to say you believe but don’t do? Believing can’t save you, can it? 15 When a brother or sister needs clothes or daily food, what good is it 16if somebody says, “Have a good day; keep warm and eat well,” but doesn’t give them what they need? 17It’s the same way if belief doesn’t do anything; it’s dead by itself. 	James 2:14-17
+
+18Somebody might say, “You have belief; I have deeds.” Show me your belief without doing anything, and I’ll show you my belief by what I do. 19You believe there’s one God; that’s nice. Demons believe that too—and tremble. 20Can’t you see that believing without doing is useless? 21Wasn’t our ancestor Abraham justified by what he did when he sacrificed his son Isaac? 22Belief combined with his deeds; his deeds completed his belief. 23He fulfilled the scripture that said, “Abraham believed God, and God considered him righteous” [Gen 15:6], and he was called “God’s friend” [2 Ch 20:7; Is 41:8]. 24That shows we’re justified by what we do, not simply by what we believe. 25The same with Rahab the prostitute; wasn’t she justified by what she did when she received the messengers and sent them out a different way? 26As the body is dead if it doesn’t breathe, believing is dead if it doesn’t do anything.  	 James 2:18-26
+
+More about Controlling the Tongue
+
+3:1Not many of you should try to be teachers; you’ll get judged more strictly. 2In lots of ways we all slip up; if we don’t slip up in what we say, we’re perfect; and we can bridle our whole body. 3We put bits in horses’ mouths so they’ll obey us, and we guide their whole body. 4The same thing with ships. Though they’re so big and driven by strong winds, the helmsmen control them with a very small steering paddle wherever they want them to go. 5The same thing with the tongue. It’s a small part of the body, but it makes big claims.	 James 3:1-5
+
+6A little spark can set a big forest on fire! 7People tame all kinds of animals and birds, reptiles and sea creatures; 8but nobody can tame the tongue; it’s an uncontrollable evil full of deadly poison. 9We bless the Lord and Father with it, and then curse people made like him. 10Blessing and cursing from the same mouth! That shouldn’t be. 11Brackish and sweet water don’t gush out of the same spring, do they? 12A fig tree can’t bear olives or a vine yield figs, can it? What’s salty can’t make something sweet.  	 James 3:6-12
+
+The Importance of Wisdom
+
+13Who’s wise and understanding among you? Show it in good, humble, wise living. 14If you’re jealous and selfish, don’t act proud and lie to cover it up. 15“Wisdom” like that doesn’t come from above; it’s earthly, unspiritual, demonic. 16Where there’s jealousy and selfishness, people are unstable and exhibit all kinds of bad behavior. 17Wisdom from above is first pure, then peaceful, gentle, open to reason, merciful, and yielding good fruits. It doesn’t waver or show hypocrisy. 18Peacemakers use peace to plant righteous fruit.  	James 3:13-18
+
+Effects of Self-Centeredness
+
+4:1Where do conflicts and disagreements come from? Don’t they come from pleasures at conflict inside you? 2You want and don’t have, you kill and covet and can’t get, you quarrel and fight and don’t obtain because you don’t ask. 3When you do ask, you don’t receive because you ask with the wrong motive: you ask so you can spend it on your pleasures. 4Adulterers, you know, don’t you, that friendship with the world amounts to hostility toward God? So whoever wants to be friendly with the world makes himself hostile toward God. 5Do you suppose the scripture says for no reason, “The Spirit he put among us yearns to receive exclusive loyalty”? 6He gives more grace, “God resists the proud, but he gives grace to the humble” [Pro 3:34 LXX]. 7So submit to God. Resist the devil, and he’ll run from you. 8Come close to God, and he’ll come close to you. Clean your hands, you sinners; purify your hearts, you with divided loyalties. 9Be sad, mourn, and cry. Turn your laughing into mourning, and your lightheartedness into seriousness. 10Humble yourselves in front of the Lord, and he’ll lift you up.   	 James 4:1-10
+
+Ban on Criticism
+
+11Don’t gossip about each other. When you criticize your brother or sister, you’re acting like a judge. If you do that, you go from being a doer of the law to serving as a judge for the law. 12There is one lawgiver and judge that can acquit or execute. Who are you to serve as a judge over your neighbor?     	 James 4:11-12
+
+Recognizing Your Dependent Place
+
+13Come, come, now, you that say, “Today or tomorrow we’ll go to such and such a city, spend a year, carry on business, make money.” 14You don’t know what tomorrow holds. What’s your life but a vapor that appears for a while and vanishes? 15You should say, “The Lord willing, we’ll live and do this or that.” 16But you take pride in your bragging; that’s not right. 17If you know to do good and don’t do it, you’re sinning.      	James 4:13-17
+
+Futility of Wealth
+
+5:1Come, come, rich people. Cry out loud over the miseries heading your way. 2Your wealth has decayed; your clothes are moth-eaten; 3your gold and silver have tarnished. Their tarnish will testify against you and consume you like fire. They’re the ‘wealth’ you’ve laid up for your last days! 4You haven’t paid the workers that mowed your fields. Their complaints have gone up to the Lord of hosts. 5You’ve lived in self-indulgence and luxury. You’ve fattened yourselves up at the expense of people you’ve ruined. 6You’ve condemned, you’ve murdered the Righteous One; he doesn’t resist you. 	 James 5:1-6
+
+Exhortation to Endurance
+
+7So be patient till the Lord comes. A farmer patiently waits for his valuable crop till it gets its early and late rains. 8You be patient too; strengthen your hearts because the Lord’s coming soon. 9Don’t complain about each other or you’ll be complained about; the judge is standing right outside your doors. 10Take the LORD’s prophets as models of suffering and endurance. 11We consider them blessed that endured. You’ve heard about Job’s patience, and you know the Lord’s compassionate and merciful in the end.        	 James 5:7-11
+
+Dispensing with Oaths
+
+12Above all, don’t swear by the sky, the earth, or anything else. Just say “yes” or “no”; otherwise, you fall under condemnation.  	 James 5:12
+
+Calling the Elders
+
+13Is anybody suffering among you? He should pray. Is anybody happy? He should sing. 14Is anybody sick? He should call the church elders. They should pray over him and anoint him with olive oil in the name of the Lord. 15Prayer with faith will save the sick, and the Lord will raise them up. If they have sinned, God will forgive them. 16Admit your sins to each other and pray for each other so you’ll be healed. A good person’s prayer can accomplish a lot. 17Elijah was a man like us, and he prayed sincerely that it wouldn’t rain, and it didn’t for three and a half years. 18He prayed again and it rained, and the ground grew its crops. 	    James 5:13-18
+
+Returning the Stray
+
+19Fellow believers, if somebody wanders off from the truth and somebody gets him turned around, 20he can be sure that returning a sinner from error will save him from death and cover a host of sins.    	  James 5:19-20
+
+FIRST PETER
+
+Salutation
+
+1:1Peter, apostle of Jesus ChristMessiah, to the Chosen who live as foreigners in the Dispersion throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia, 2known by God the Father a long time ago, sanctified by his Spirit, sprinkled with Christ’s blood, and obedient to him. Grace and peace many times over.  	1 Pet 1:1-2
+
+Gratitude for Heaven Offered
+
+3Blessed be the God and Father of our Lord Jesus Christ. In his great mercy, he gave us a living hope by resurrecting Jesus. 4He has reserved for us in heaven an inheritance that doesn’t deteriorate, that can’t be defiled, and won’t fade away. 5Trusting his power protects us so we can receive the salvation that’s ready for him to reveal in the end.
+
+6With that to look forward to, rejoice, even though for a little while now, various trials may be bringing you grief. 7Your faith is worth more than gold that perishes. Testing that faith—as if by fire—leads to praising, exalting, and honoring Jesus Christ when he returns. 8Though you haven’t seen him, you love him. Because you believe in him, your joy is so great and glorious that you can’t express it. 9In the end, your faith will save your souls. 	 1 Pet 1:3-9
+
+The Prophets’ Ministry to Us
+
+10Prophets who prophesied about the grace that would come to you searched out this salvation carefully. 11They wanted to find out what time or what kind of time the Spirit of Christ in them was indicating about his sufferings and subsequent glories. 12They learned that they weren’t ministering these things to themselves, but to you. The Holy Spirit, sent from heaven, has announced those things now through your evangelists—things angels long to look into.
+
+13So think straight and be serious. Put your hope completely in the grace that will come to you when Jesus Christ appears. 14Like obedient children, don’t conform to the desires you lived by in your former ignorance; 15conform yourselves to the Holy One that called you to become holy in everything you do. 16Like scripture says, “Be holy because I’m holy” [Lev 11:44-45; 19:2; 20:7].  	 1 Pet 1:10-16
+
+Hope Based on Spiritual Things
+
+17You call him Father who judges impartially each person’s work; so, like foreigners, live out your time here in fear. 18You weren’t redeemed with corruptible things—silver or gold—from the empty life you inherited from your ancestors. 19You were redeemed with the precious blood of the unblemished Lamb. 20Christ was foreknown before the founding of the world but was revealed in the last times. 21Through him you’re faithful to God, who resurrected him and glorified him. So, your faith and hope lie in God. 22You’ve cleaned up your lives by obeying the truth in brotherly love; continue to love each other with a pure heart. 23You’ve been born again from incorruptible seed through God’s living, lasting message:
+
+24“Flesh is like grass;
+
+its beauty is like blossoms in the grass.
+
+The grass dries up;
+
+the blossoms fall off;
+
+25but what the LORD says lasts forever” [Is 40:6-8].
+
+That’s the message we presented to you.   	1 Pet 1:17-25
+
+The Cornerstone
+
+2:1So, get rid of hate, deceit, hypocrisy, jealousy, insults. 2Like newborn babies, be hungry for pure spiritual milk so you can grow up to salvation—3if you’ve tasted how good the Lord is. 4Come to him as to a living stone, rejected by people, but chosen and precious to God. 5Like living stones you’re building yourselves up into a spiritual house for a holy priesthood that offers spiritual sacrifices to God through Christ. 6So it stands in scripture,
+
+“I’m laying a stone in Zion,
+
+a precious cornerstone.
+
+He won’t disappoint the ones that trust in him” [Is 28:16].
+
+7To you believers he’s precious, but to disbelievers he’s
+
+“a stone the builders rejected
+
+that has become the cornerstone” [Ps 118:22];
+
+8and
+
+“a stone they trip over,
+
+a rock that makes them fall” [Is 8:14].
+
+They “trip” by disobeying the message—as they were allowed to do. 	1 Pet 2:1-8
+
+Living in Light of Who You Are
+
+9But you’re a chosen race [Is 43:20], a royal priesthood, a holy nation [Ex 19:6], a people that belongs to God. That’s so you can present to others the excellence [Is 43:21] of the One that called you out of darkness into his amazing light.
+
+10“You that weren’t a people at one time
+
+are now God’s people;
+
+you that he hadn’t shown mercy
+
+have now received it” [Hos 2:23].  	 1 Pet 2:9-10
+
+11I urge you, like foreigners here temporarily, to stay away from physical drives that fight against the soul. 12Keep your lifestyle good among the Gentiles so whatever they’d slander you for, when they observe the good things you do, they’ll praise God in the end.
+
+Societal Virtues
+
+13Submit to human institutions for the Lord’s sake—14to the king in authority or his governors sent to punish the bad and praise the good. 15God wants you to silence the ignorance of bad people by doing good. 16You’re free, but freedom doesn’t mean you can do as you please; you’re God’s servants. 17Respect everybody, love Christ’s family, respect God, honor the king.
+
+1 Pet 2:11-17
+
+18Servants, defer to your masters with respect, not just the good and considerate ones, but the harsh ones too. 19This pleases God: suffering unjustly and bearing it for conscience sake toward him. 20What’s notable about suffering for sin and bearing it? But suffering for doing good and bearing it, pleases him. 21That’s what he’s called you to. Even Christ suffered; he did it for you and left footprints for you to step in. 22He “didn’t sin or deceive” [Is 53:9]. 23When he was insulted, he didn’t insult back. When he suffered, he didn’t threaten. He turned himself over to the One who judges justly. 24He humbly bore your sins in his body on the cross so you would live right; his wounds healed you. 25You were wandering off like sheep, but you’ve returned to the Shepherd and Overseer of your souls.  	 1 Pet 2:18-25
+
+Family Virtues
+
+3:1Wives, defer to your husbands so even if they don’t believe the message, your conduct will win them over aside from it 2as they watch your innocent, respectful behavior. 3For beauty, don’t rely on external things like elaborately braided hair or the gold or clothes you wear. 4Root your beauty in the inner self as in a gentle, quiet spirit; that’s especially precious to God. 5That’s the way holy women who hoped in God used to adorn themselves in respect for their husbands. 6Sarah respected Abraham and called him Sir [lord]. You’re her daughters. if you do good and feel secure in your situation.  	 1 Pet 3:1-6
+
+7Husbands, live with your wives with the understanding that they are weaker vessels. Honor them as fellow heirs of the grace of life so you don’t hinder your prayers.
+
+Interpersonal Virtues
+
+8In conclusion, you need to be like-minded, sympathetic, tenderhearted, humble, with brotherly love. 9Don’t return evil for evil or insult for insult; bless instead. You were called for that so you could inherit good fortune:
+
+10“Who wants to live
+
+a long time and prosper?
+
+Keep your tongue from evil
+
+and your lips from lying.
+
+11Quit doing bad and do good;
+
+look for peace and pursue it.
+
+12The LORD watches over good people
+
+and hears their prayers.
+
+He turns against
+
+people that practice sin” [Ps 34:12-16].    	1 Pet 3:7-12
+
+13Who’s going to hurt you if you’re eager to do what’s good? 14Even if you suffer for it, you’re well off. Don’t be afraid of people’s evil, or let it get you down. 15-16Set Christ apart as Lord in your hearts. With gentleness and respect, be ready to answer anybody that asks you about the hope you have. Keep your conscience clear so whatever people slander you about, your good behavior in Christ will discredit them.	     1 Pet 3:13-16
+
+Suffering for Doing Good
+
+17If God wills, it’s better to suffer for being good than for being bad. 18To bring you to God, Christ also suffered for sin once and for all, the righteous for the unrighteous. He was put to death in the flesh but made alive in the spirit. 19He went in the spirit and preached to the spirits in prison 20that disobeyed while God patiently waited for Noah to build the ark. In it, water saved a few people—eight. 21That’s like baptism saving you. It doesn’t wash off dirt, but appeals to God for a clear conscience because of Christ’s resurrection. 22He’s ascended to God’s right hand in heaven with angels, authorities, and powers subject to him. 	1 Pet 3:17-22
+
+Good News Presented to the Dead
+
+4:1Christ suffered; so arm yourselves with the attitude he took, because suffering purifies from sin. 2You won’t be living the rest of your life by human desires, but by God’s will. 3You spent enough time following the pattern of life the Gentiles carry on: a lifestyle of sensuality, lust, drunkenness, revelry, drunken parties, disgusting idolatry. 4They’re surprised that you don’t run with them in that excessive, reckless living; and they slander you for it. 5They’ll give account to the One who’s set to judge the living and the dead. 6In that connection, the good news was presented even to the dead so they’d be judged like the living who live according to God in the spirit. 	 1 Pet 4:1-6
+
+Living with Christ’s Return in Mind
+
+7The end is close. Be sensible and serious in prayer. 8Especially, have ongoing love toward each other because love covers lots of sins. 9Be hospitable toward each other without grudges. 10Each of you needs to minister your gift to the others as good stewards of the grace God has shown in these different ways. If it’s speaking, speak as if God himself is speaking. 11If it’s serving, do it wholeheartedly. That way you’ll praise God through Christ. Glory and dominion belong to him forevermore. Amen.   	1 Pet 4:7-11
+
+Nothing Surprising About Suffering
+
+12Don’t be surprised at the fiery trial that’s testing you, as if something strange is happening. 13Instead, to the extent that you’re sharing Christ’s sufferings, be happy so you can be really happy when he appears in his glory. 14If people dishonor you because of him, you’re blessed; God’s Spirit and honor rest on you. 15Don’t suffer as a murderer, thief, evildoer, intruder in other people’s business. 16If you suffer as a Christian, don’t be ashamed; praise God in that name. 17It’s time to judge God’s family. If judgment begins with us, what’s going to happen to people that disbelieve God’s good news?
+
+18“If good people are barely saved,
+
+where will godless people come in?” [Pro 11:31 LXX]
+
+19So you that suffer according to God’s will, entrust yourselves to the faithful creator by continuing to do what’s right.     	     1 Pet 4:12-19
+
+Urging Elders
+
+5:1Elders, I’m a fellow elder, a witness of Christ’s sufferings. I share in the glory that’s going to be revealed. 2Shepherd God’s flock that’s among you. Provide oversight, not because you have to, but because you want to; not to make money (which is shameful), but out of internal initiative. 3Don’t lord it over your charges; set an example for the flock. 4When the Chief Shepherd appears, you’ll receive a glorious crown that won’t fade away. 	1 Pet 5:1-4
+
+Urging Younger People
+
+5Young men, defer to the elders and dress in humility toward each other because
+
+“God resists the proud
+
+and gives grace to the humble” [Pro 3:34 LXX].
+
+6So “humble” yourselves under God’s strong hand, and he’ll exalt you in due time. 7Place your cares on him because he cares about you. 8Be serious-minded and alert. Your adversary the devil is prowling around looking for somebody to devour. 9Resist him firmly with faith; you know your fellow believers in the world are experiencing the same sufferings. 10After you’ve suffered a little while, the all-gracious God that has called you into his eternal glory will confirm you, strengthen you, and establish you. 11Dominion to him forever! Amen.	 1 Pet 5:5-11
+
+Closing Comments
+
+12I’ve written you a few words by Silvanus my faithful brother, as I consider him. I wanted to encourage you and confirm to you that what you’ve received is in fact God’s grace; stand firm in it. 13The elect brotherhood in ‘Babylon’ greets you as does my son Mark. 14Greet each other with a loving kiss. Peace to all of you in Christ. 	 1 Pet 5:12-14
+
+SECOND PETER
+
+Salutation
+
+1:1Simon Peter, servant and apostle of Jesus ChristMessiah, to those who’ve received a faith that’s equally precious to us—faith in the goodness of our God and Savior Jesus Christ. 2Grace and peace many times over because you know God and Jesus our Lord.  	2 Pet 1:1-2
+
+God’s Sufficient Provisions
+
+3His divine power has given us everything related to life and godliness. He has provided it all by our knowing the One who called us by his own honor and goodness. 4Through that honor and goodness he has provided us great, precious promises so we can partake of the divine character and escape the corruption that’s in the world from living by lust. 5So do your best to add to your faith virtue, to your virtue knowledge, 6to knowledge self-control, endurance, 7godliness, brotherly kindness, love. 8If these keep developing in you, they’ll make you useful and fruitful as a result of personally knowing our Lord Jesus Christ. 9Those who lack them are nearsighted and blind. They’ve forgotten that they were cleansed from their old sins. 10So be all the more diligent in confirming your calling and being chosen. As long as you live that way, you won’t stumble. 11You’ll be making abundant provision for entering the eternal kingdom of our Lord and Savior Jesus Christ.  	  2 Pet 1:3-11
+
+12So I’ll keep reminding you even though you know all this and are standing firm in the truth already. 13As long as I’m in this body, I think it’s good to keep you alert by reminding you. 14I know I’ll be laying aside my tabernacle soon, as our Lord Jesus Christ has shown me. 15I’ll be diligent so after I’m gone, you can remember what I’ve said.       	 2 Pet 1:12-15
+
+Events, not Myths
+
+16We didn’t follow clever, made-up myths when we told you about the power and coming of our Lord Jesus Christ. We saw his majesty with our own eyes. 17He received from God the Father honor and glory when the Majestic Glory declared, “This is my dearly loved Son that I delight in.” 18We heard that voice from heaven ourselves when we were with him on the holy mountain. 19And so we have verified the prophetic word. You do well then to pay attention to it as to a lamp shining in a dark place till the day dawns and the morning star rises in your hearts. 20First of all, get this: no prophecy in scripture comes from somebody’s own insight into things. 21No prophet ever just decided to make a prophecy. Instead, the Holy Spirit moved them to speak from God.   	 2 Pet 1:16-21
+
+Watch Out for False Teachers
+
+2:1As false prophets arose among the people before, false teachers will arise among you. Under false pretenses they’ll bring in destructive heresies. They’ll even deny the Master who bought them and bring swift destruction on themselves. 2Many will follow their sensual practices, and people will slander the true Way because of them. 3In their greed they’ll exploit you with their made-up ideas. Their sentence from of old won’t delay; their destruction won’t sleep.     	2 Pet 2:1-3
+
+God’s Judgment on Evil
+
+4God didn’t spare angels that sinned; he imprisoned them with chains in the dark underworld [Tartarus] to hold them for judgment. 5God didn’t spare the ancient world; he preserved Noah, one of eight, a man who preached righteousness when God brought a flood on the ungodly world. 6God destroyed Sodom and Gomorrah and reduced them to ashes. He made an example out of them for ungodly people later on. 7But he rescued righteous Lot; their corrupt conduct weighed on that good man. 8While he lived among them, the immoral deeds he saw and heard about day after day tormented him. 9So, the Lord knows how to rescue godly people from temptation and keep ungodly ones under punishment till judgment day—10especially those who chase after physical lusts and despise authority.  	  2 Pet 2:4-10a
+
+Evil People Described
+
+Daring and arrogant, they rail at angels without qualms. 11But angels, though more powerful, don’t rail out condemnations at them in front of the Lord. 12People like that are like wild animals that can’t reason, creatures that live by instinct from birth who need to be trapped and exterminated. They rail out about things they don’t know. In their destroying, they’ll get destroyed. 13They’ll suffer wrong as payback for doing wrong. They think it’s fun to carouse in broad daylight. They are stains and blemishes who enjoy deceiving you while they eat with you. 14They’re always looking around for someone to commit adultery with. They sin without ceasing, they lure unsteady souls, they have hearts well-practiced in greed. They’re accursed offspring 15that forsake the right way to follow Balaam son of Beor that loved to make money from his sin. 16But a donkey, talking like a person, reprimanded him for it and stopped him from carrying out his madness.  	 2 Pet 2:10b-16
+
+17They’re springs without water, fog swirled by the wind. It’s pitch dark where they’re going. 18They say arrogant, meaningless things, and lure with lust the ones just escaping from error. 19They promise freedom while themselves being slaves to corruption. What overcomes people puts them in servitude. 20If they’ve escaped the defilements of worldly living by knowing the Lord and Savior Jesus Christ and then get tangled up in them again, they’re worse off than before. 21They’d been better off not to know how to live God’s way, than to know it and turn away from the holy commandment they’d received. 22They illustrate the proverb,
+
+“The dog returned to its vomit” [Pro 26:11],
+
+and,
+
+“the washed sow went back to wallowing in the mud.”	  2 Pet 2:17-22
+
+Reminders About the Future
+
+3:1This is the second letter I’ve sent you. In both of them, I’m trying to keep your sincere minds alert 2by reminding you about the message from the holy prophets and about your apostles’ commandments from the Lord Savior. 3Get this, first of all: later, mockers will follow their lusts and say, 4“Where’s the promise about his coming? From the time our ancestors died, everything’s like it's been since creation.” 5They choose to forget that by God’s word the skies came into existence long ago and the earth consisted of water and emerged from water. 6By God’s word, the flood destroyed that world. 7By that same word, the earth and sky that exist now are destined for fire; they’re being kept for the judgment day and the destruction of ungodly people.	 2 Pet 3:1-7
+
+Assurance About the Future
+
+8Friends, don’t miss this one point: to the Lord, a day is like 1,000 years, and 1,000 years is like a day. 9He’s not slow about keeping his promise the way people might think. He’s not being slow; he’s being patient. He doesn’t want anybody to perish; he wants everyone to repent. 10The day of the Lord will come—like a thief: the sky will pass away with a loud noise; the elements will burn up; earth and its works will disappear. 11Since they’re destined for destruction, how should you live 12as you anticipate the time when God destroys the sky with fire and melts the elements with heat? 13According to his promise, we look forward to a new earth and sky where goodness prevails.     	 2 Pet 3:8-13
+
+Living Meantime
+
+14So, as you look forward to that, try hard to be at peace, spotless and blameless, when he finds you. 15Consider our Lord’s patience a chance to be saved, as our dear brother Paul wrote to you with the wisdom he’s received. 16In all his letters, he talks about those things. Some of them are hard to understand, and unlearned and unsteady people twist them—like they do the other scriptures—to their own destruction. 17So, since you know all that ahead of time, make sure not to get deceived by unprincipled people and fall from your steadfastness. 18Keep growing in the grace and knowledge of our Lord and Savior Jesus Christ.
+
+Glory to him now and forever. 	2 Pet 3:14-18
+
+FIRST JOHN
+
+Life and Light
+
+1:1What was from the beginning, what we’ve heard and seen, what we’ve observed and touched about the living message—2the eternal life that was with the Father and he revealed to us—that’s what 3we’re passing along to you so we can have it in common with you as well as with the Father and his Son Jesus ChristMessiah. 4We’re writing these things to you to fully share our joy. 	 1 Jn 1:1-4
+
+5The message is that God is light; there’s no darkness in him at all. 6If we claim to be in fellowship with him and live in the dark, we’re lying and not practicing the truth. 7If we live in the light with him, we have fellowship with each other, and the blood of his Son continues to cleanse us from sin.  8-10If we claim we don’t have any sin, we deceive ourselves and make God a liar. If we admit we’ve sinned, we can trust him to be just and forgive us of everything.
+
+1 Jn 1:5-10
+
+Christ Our Advocate
+
+2:1My little children, I’m writing so you’ll continue not to sin. If any of us do sin, we have an Advocate with the Father, Jesus Christ the Just. 2He’s the basis for forgiving our sins as well as the sins of the whole world. 3We can tell we know him by whether we’re keeping his commandments. 4If we claim to know him but don’t obey him, we’re not telling the truth and don’t have it. 5If we keep God’s word, we really have loved God completely. That’s how we can tell we’re in him. 6If we claim to be in him, we should be like him.           	1 Jn 2:1-6
+
+Love, the New Commandment
+
+7Friends, I’m not telling you anything new; it’s what you’ve heard all along. 8Then again, I am saying something new, something that’s true in him and us: darkness is disappearing, and true light is already shining. 9People that claim to be enlightened and hate fellow believers are still in the dark. 11They don’t know where they’re going because they can’t see in the dark. 10Whoever loves a fellow believer is in the light and doesn’t make people stumble.
+
+12I’m writing to you little children
+
+because he’s forgiven your sins.
+
+13I’m writing to you fathers
+
+because you’ve known the One that’s from the beginning.
+
+I’m writing to you young men
+
+because you’ve overcome the evil one.
+
+14I’ve written to you children
+
+because you’ve known the Father.
+
+I’ve written to you fathers
+
+because you’ve known the One that’s from the beginning.
+
+I’ve written to you young men
+
+because you’re strong;
+
+God’s message remains in you, and
+
+you’ve overcome the evil one. 	 1 Jn 2:7-14
+
+15Don’t love the world or what’s in it. Loving the world means not loving the Father. 16Nothing worldly comes from the Father; the lust of the flesh, the lust of the eyes, and the pride of life come from the world. 17The world will pass away along with its lust, but whoever does God’s will lasts forever.  	 1 Jn 2:15-17
+
+The Antichrist
+
+18Little children, we’re in the last hour. You’ve heard that antichrist is coming, and lots of antichrists have already come; so we know we’re in the last hour. 19Some people have left us, but they weren’t part of us, or they would’ve stayed; leaving us shows they weren’t part of us. 20You have an anointing from the Holy One, and you all know what you need to know. 21I’m not writing to tell you something you don’t know, but because you do know it and because there’s a difference between false and true. 22Who’s telling what’s false if it’s not someone that denies Jesus is the ChristMessiah? It’s the antichrist that denies the Father and the Son. 23Nobody that denies the Son has the Father either; anybody that acknowledges the Son has both. 24Let what you’ve heard from the beginning stick with you. If you do, you’ll continue to be in the Son and the Father, 25and you’ll have the eternal life he promised.
+
+26I’m writing about the ones that are trying to mislead you. 27The anointing you received from him is still in you; you don’t need anybody to teach you anything more. His anointing is correct and complete. Stick with what he taught you 28so when he returns, you’ll feel confident, not ashamed. 29If you know he’s good, you know he’s begotten everyone that’s good. 1 Jn 2:18-29
+
+Children of God
+
+3:1Look at what special love the Father has extended to us in calling us his children. The world doesn’t know us because it didn’t know him. 2We’re God’s children now. It’s not clear what we will be, but we do know that when Christ returns, we’ll be like him and see him as he is. 3Everybody that has that hope keeps himself pure like he is.
+
+4Everybody that practices sin is practicing lawlessness; sin is lawlessness. 5You know he came to take away sins; there’s no sin in him. 6Nobody that’s in him practices sin. If they do, they haven’t known him or seen him. 7Little children, don’t let anybody mislead you. Whoever does good is good—like he is. 8Whoever does evil is like the devil because he’s been sinning since the beginning. The Son of God came to destroy what the devil does. 9None of the ones God begets practices sin because God’s seed stays in them. They can’t be sinning because God’s begotten them. 10That’s how you can tell God’s children from the devil’s. Anybody that doesn’t practice goodness or care about fellow believers, doesn’t belong to God. 	1 Jn 3:1-10
+
+Love One Another
+
+11You’ve heard all along that we should love each other 12and not be like Cain. The evil one influenced him, and he murdered his brother. Why’d he do it? Because what his brother did was good, and what he did was bad. 13Don’t be surprised if the world hates you. 14We’ve come from death to life because we love fellow Christians. People that hate fellow Christians are still dead. 15They amount to being murderers like Cain, and murderers don’t have eternal life. 16We’ve known what love is because he showed us by laying his life down for us, and we should lay our lives down for our fellow Christians. 17How can God’s love be in anyone that has this world’s possessions, sees what a brother or sister needs, and turns off sympathy for them? 18Little children, let’s not talk about love; let’s do it. 	 1 Jn 3:11-18
+
+19We can have confidence in his presence 20even if we feel guilty. God’s greater than our feelings and knows everything. 21If our conscience doesn’t make us feel guilty, we’re confident in front of him, 22and he gives us what we ask for because we do what pleases him. 23He has told us to believe in his Son Jesus Christ and love each other. 24When we do that, he lives in us and we in him. We know he’s in us by the spirit he’s given us.   	  1 Jn 3:19-24
+
+Testing the spirits
+
+4:1Friends, don’t believe every prophet that claims to speak by the spirit. Test whether his spirit is from God; a lot of false prophets have gone out. 2You can recognize that a spirit is from God by whether it agrees that Jesus Christ has come in the flesh. 3Any spirit that doesn’t, isn’t from God; it’s the antichristian spirit that you’ve heard is coming and is already here. 4You belong to God. You’ve triumphed over the world, because the One that’s in you is greater than the one that’s in it. 5False leaders belong to the world, so they speak of it, and it listens to them. 6We belong to God; people that know him listen to us. People that don’t belong to him, don’t listen to us. That’s how you can tell if a prophet has the true spirit or a deceiving one.    1 Jn 4:1-6
+
+God is Love
+
+7Let’s love each other because love comes from God, and everybody that loves has been begotten by him and knows him. 8People that don’t love don’t know God because he is characterized by love. 9God showed that love by sending his only Son into the world so we could have life through him. 10Love is not so much that we love God as that he’s loved us and sent his Son as a basis for forgiving our sins. 11If God loved us that much, we should love each other. 12Nobody has ever seen God; but if we love each other, he’s in us and his love has accomplished its purpose in us.   	1 Jn 4:7-12
+
+13We know he’s in us and we’re in him by the spirit he’s given us. 14We’ve seen and speak to the fact that the Father has sent the Son to save the world. 15If anybody agrees that Jesus is God’s Son, God’s in him and he’s in God. 16We’ve known and believed that God has put his love in us. God is characterized by love and whoever keeps loving keeps being in God and God keeps being in him. 17Love ends up giving us confidence at judgment time because we’re like he was in the world. 18There’s no fear in love; perfect love eliminates fear because fear corresponds with punishment; whoever is afraid has not become perfect at loving. 19Let’s love because he loved us first. 20If people say they love God and hate fellow Christians, they’re not telling the truth. If they don’t love Christians they’ve seen, they can’t be loving God they’ve not seen. 21We have this commandment from him: whoever loves God must love God’s children too.                     	1 Jn 4:13-21
+
+Victory by Faith
+
+5:1Everybody that believes Jesus is the ChristMessiah has been begotten by God, and everybody that loves the begetter loves the begotten. 2We can tell we love God’s children by whether we love God and do what he says. 3Loving God means keeping his commandments without feeling like they’re burdensome. 4The ones God begets triumph over the world, and faith makes that triumph possible. 5Who triumphs over the world except the one that believes Jesus is God’s Son?
+
+1 Jn 5:1-5
+
+Witnesses for Christ
+
+6Jesus Christ came by water (at his baptism) and blood (on his cross), not just by water. The Spirit is the One that bears witness, because the Spirit is characterized by truth. 7There are three witnesses: 8the Spirit, the water, and the blood; and they agree. 9We accept what people tell us; what God tells us is more important. God has told us about his Son. 10Whoever believes in his Son accepts what God has told us; whoever doesn’t, makes God a liar. 11God has told us that eternal life lies in the Son. 12Whoever has the Son has that life; whoever doesn’t have him, doesn’t have it.    	1 Jn 5:6-12
+
+Confidence in Christ
+
+13I’ve written these things to you that believe in God’s Son in order to make you confident that you have eternal life. 14This is the confidence we have with him: whatever we ask for according to his will he listens to. 15If we know he listens to what we ask for, we know he answers what we ask for.   	1 Jn 5:13-15
+
+16If you see a fellow believer doing some sin that doesn’t lead to death, ask God and he’ll give him life. There is a kind of sin that does lead to death; I’m not saying you should ask about that. 17All unrighteousness is sin, but there are sins that don’t lead to death.      	      1 Jn 5:16-17
+
+18People that God begets don’t practice sinning; they keep themselves from sinning, and the evil one doesn’t touch them. 19We belong to God, and the world belongs to the evil one. 20God’s Son came so we could understand what’s true. We’re in the true One, God’s Son Jesus Christ. He’s true deity and eternal life. 21Little children, stay away from idols.  	1 Jn 5:18-21
+
+SECOND JOHN
+
+Salutation
+
+1The Elder to the elect lady and her children thatpl I really love—as does everybody that knows the truth—2because of the truth that’s in us and with us forever. 3We’ll have grace, mercy, and peace from God the Father and Jesus ChristMessiah, the Son of the Father in truth and love.												2 Jn 1-3
+
+Remaining in Truth and Love
+
+4I was so happy to find yoursg children living in the truth the Father commanded us. 5Now I urge you, lady—not as some new commandment but what we’ve had all along: love one another 6and so be living his way. 7Many deceivers have gone out who don’t agree that Jesus Christ has come in the flesh. They’re deceivers and antichrist. 8Watch that you not lose what you’ve gained, but receive a full reward. 9Anybody that goes out on his own and doesn’t stay in Christ’s teaching doesn’t have God. The one that stays in his teaching has both the Father and the Son. 10If a person doesn’t bring that teaching, don’t invite him into your house or greet him. 11Whoever greets him shares in his evil work.	 2 Jn 4-11
+
+Farewell
+
+12I have lots to tell youpl but not in writing. I hope to speak to you in person to make your joy complete.
+
+13The children of your elect sister say hello. 	 2 Jn 12-13
+
+THIRD JOHN
+
+Salutation
+
+1The Elder to Gaius, that I truly love.
+
+2I pray that you’ll be as prosperous and healthy in every way as you are in your soul. 3I was so happy when the brothers reported that you really live by the truth. 4Nothing makes me happier than hearing that my children are doing that. 	3 Jn 1-4
+
+Cooperation and Opposition
+
+5Friendsg, you’re acting faithfully in what you do for your fellow believers in ChristMessiah, especially for the ones you don’t know. 6In front of the church, they’ve testified to your love. You do well to send them forward in a way worthy of God. 7They went out for The Name, not taking anything from Gentiles. 8We should support servants like them and so become their true fellow workers. 	3 Jn 5-8
+
+9I wrote to the church, but Diotrephes, who loves to take charge among them, wouldn’t receive us. 10So if I come, I’ll remind people how he slanders us, and—more than that—doesn’t receive disciples, stops the ones that want to, and excommunicates them from the church.                                                               	3 Jn 9-10
+
+11Imitate good, not evil. Whoever does what’s good belongs to God; whoever does what’s evil hasn’t seen him. 12Demetrius receives good testimony from everybody, from the truth itself, and from us. You know you can rely on what we say. 	3 Jn 11-12
+
+Farewell
+
+13I’ve had so much I want to tell yousg but not in writing. 14I hope to see you soon and speak to you in person. Peace to you. Your friends send their greetings. Greet your friends by name.  	 3 Jn 13-14
+
+JUDE
+
+Salutation
+
+1Jude, servant of Jesus ChristMessiah and brother of James, to the ones called by God the Father, loves and keeps you in Jesus Christ. 2Mercy, peace, and love many times over.
+
+Condemnation of False Teachers
+
+3Friends, I’m anxious to write to you about the salvation we share. I need to encourage you to keep contending earnestly for the faith once and for all delivered to the saints. 4Ungodly people have sneaked in under false pretenses; long ago they were assigned to that condemnation. They deny Jesus Christ as our only Master and Lord and try to pervert God’s grace into lustful living.
+
+5You know that once and for all, but I want to remind you that after the LORD saved a people out of Egypt, he destroyed the ones that didn’t trust him. 6Angels that didn’t keep their place he has held under darkness in permanent bonds till the great judgment day. 7Likewise, Sodom and Gomorrah and the cities around them lived immorally, going after other flesh. They serve as examples of being subjected to eternal punishment by fire.  	Jude 1-7
+
+Describing Some False Teachers
+
+8Yet in like manner such people even fantasize about defiling the flesh, rejecting authority, and railing at angels. 9But when Michael the archangel was arguing with the devil about the body of Moses, he didn’t bring railing condemnation; he said, “The LORD reprimand you.” 10People like them rail out about what they don’t understand, about what they know by instinct like animals that can’t reason—and therefore destroy themselves. 11What consequences await them! They’ve followed Cain’s way; they’ve plunged into Balaam’s deception for money; they’ve perished in Korah’s rebellion. 12They’re hidden pieces of gravel in your love-feast food; without qualms they carouse among you, shepherding themselves. They’re clouds with no moisture, driven around by the wind. They’re late autumn trees with no fruit, uprooted, and doubly dead. 13They’re wild waves of the sea, foaming up shameful acts. They’re stars out of orbit that the gloom of darkness is reserved for. 	Jude 8-13
+
+14Enoch, the seventh from Adam, prophesied about them, “The LORD will come with 10,000 holy ones 15to convict sinners of their ungodly deeds and terrible blasphemies against him.” 16They grumble, complain, pursue lusts, talk arrogantly, flatter people for gain. 	Jude 14-16
+
+Maintaining Faithfulness Despite Competition
+
+17But dear friends, remember what the apostles of our Lord Jesus Christ 18used to tell you, “In the end mockers will come, chasing after ungodly lusts. 19They’ll be divisive, materialistic, unspiritual.” 20But you, build yourselves up with your most holy faith and with prayer in the Holy Spirit. 21Keep yourselves in God’s love and wait for the mercy of our Lord Jesus Christ, who brings eternal life. 22Have mercy on some that doubt; 23save some by snatching them out of the fire; have mercy on others cautiously, hating even their clothes stained by the flesh.
+
+Jude 17-23
+
+Benediction
+
+24Now to him who can keep you from stumbling and stand you blameless in front of his glory with great joy, 25to the only God our Savior through Jesus Christ our Lord be glory and majesty, dominion and authority before all time, now, and forever. Amen.	 Jude 24-25
+
+THE REVELATION OF JOHN
+
+Introduction
+
+1:1The relevation God gave to Jesus CjhristMessiah to show his servants about what must happen soon. He sent it through his angel to his servant John, 2who has passed on everything he saw about God’s message and Jesus Christ’s revelation. 3Blessed is the one who reads and the ones that hear the prophecyfem and keep what’s written in itfem. It’s coming soon.             Rev 1:1-3
+
+Salutation
+
+4John, to the seven churches in Asia. Grace and peace from him who is and was and is to come, from the seven spirits in front of his throne, 5-6and from Jesus Christ, the faithful witness, firstborn from the dead, ruler over the kings of the world. Glory and dominion forevermore to him who loved us, released us from our sins with his blood, and made us into a kingdom of priests to his God and Father. Amen. 	 Rev 1:4-6
+
+7He’ll come with the clouds;
+
+everyone will see him,
+
+including those who pierced him.
+
+Every tribe on earth will mourn because of him.
+
+Yes. Amen
+
+8“I’m Alpha and Omega,” the Lord God Almighty says, who is and was and is to come.
+
+Rev 1:7-8
+
+Vision of Christ
+
+9I’m John, yourpl brother, who shares your hardships, kingdom, and endurance in Jesus.  I was exiled on the island Patmos for preaching God’s message and for my testimony about Jesus. 10I was in the spirit on the Lord’s Day when I heard a loud voice behind me that sounded like a trumpet, 11“Write on a scroll what you see and send it to the seven churches in Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, and Laodicea.”
+
+12I turned around to see who was talking to me, and I saw seven gold lampstands. 13Among them was One that looked like a man in a long robe with a wide gold sash across his chest. 14His hair was white like wool, and his eyes flamed like fire. 15His feet looked like refined, polished brass; and his voice sounded like crashing waves. 16He held seven stars in his right hand and had a sharp double-edged sword coming out of his mouth. His face shined like the sun at its brightest.	Rev 1:9-16
+
+17When I saw him, I fell down like a dead man. He put his right hand on me,
+
+“Don’t be afraid. I’m the First and Last, 18the Living One that died and came back to life forevermore. I have the keys to death and the grave. 19Write down what you’ve seen, what is and will be. 20The seven stars in my right hand are the evangelists for the seven churches; the lampstands are the churches.” 	Rev 1:17-20
+
+The Letter to Ephesus
+
+2:1“Write this to the evangelist for the church in Ephesus:
+
+‘This is what he says who holds the seven stars in his right hand and walks among the seven gold lampstands: 2“I know what you’re doing—your labor and endurance. I know you can’t put up with sinful people. You’ve tested those who called themselves apostles and weren’t, and found them false. 3You’ve endured for me without wearing out.
+
+4But you’ve slacked off from the level of love you had at first.
+
+5So remember where you’ve come down from, repent, and do what you were doing at first. Otherwise, I’ll come and take your lampstand away. 6To your credit, like me, you hate what the Nicolaitans do.
+
+7Whoever has an ear, listen to what the Spirit’s telling the churches. Those who are victorious I’ll let eat from the tree of life in Paradise.”’”    	Rev 2:1-7
+
+The Letter to Smyrna
+
+8“Write this to the evangelist for the church in Smyrna:
+
+‘This is what the First and Last says, who died and came back to life: 9“I know your hardship and poverty (but you’re rich) and the slander of those who call themselves Jews but belong to Satan’s synagogue. 10Don’t be afraid of what you’re going to suffer. The devil will throw some of you in jail to test you. You’ll have hardship for ten days.
+
+Be faithful till death, and I’ll give you life as a crown.
+
+11Whoever has an ear, listen to what the Spirit’s telling the churches. Those who are victorious won’t suffer the second death.”’”  	Rev 2:8-11
+
+The Letter to Pergamum
+
+12“Write this to the evangelist for the church in Pergamum:
+
+‘This is what he says who has the sharp two-edged sword: 13“I know you live where Satan’s throne is. You’ve held fast to me and haven’t denied faith in me, even when Antipas my faithful witness was executed among you, where Satan lives.
+
+14But I do have some things against you. You have people that are following the teaching of Balaam, who showed Balak how to make the Israelites stumble—by eating things sacrificed to idols and doing immoral things. 15You also have people that hold to what the Nicolaitans teach.
+
+16So repent; otherwise, I’ll come quickly and fight them with the sword that’s in my mouth.
+
+17Whoever has an ear, listen to what the Spirit’s telling the churches. Those who are victorious I’ll supply with hidden manna and give them a white stone inscribed with a new name that nobody knows but him.”’”    	Rev 2:12-17
+
+The Letter to Thyatira
+
+18“Write this to the evangelist for the church in Thyatira:
+
+‘This is what the Son of God says, who has eyes like flames and feet like refined, polished brass: 19“I know what you’re doing—your love, faith, service, and endurance, and that your last works are greater than the first.
+
+20But, I have against you that you’ve allowed Jezebel, who calls herself a prophetess, to teach my servants to do immoral things and eat things offered to idols. 21I gave her time to repent, but she didn’t want to. 22-23Unless they repent of her deeds, I’ll throw them and her into a bed with a terminal plague. I’ll certainly kill her offspring, and all the churches will know that I examine minds and hearts. I’ll give to each according to what they’ve done. 24The rest of you in Thyatira—who don’t have that teaching, who don’t know ‘the deep things of Satan,’ as they call them—I won’t burden with anything else. 25Just hold on to what you have till I come.
+
+26Those who are victorious and keep my deeds to the end, I’ll give authority over the nations. 27He’ll shepherd them with an iron rod and shatter them like clay pots. 28As I received from my Father, I’ll give them the morning star.
+
+29Whoever has an ear, listen to what the Spirit’s telling the churches.”’”
+
+Rev 2:18-29
+
+The Letter to Sardis
+
+3:1“Write this to the evangelist for the church in Sardis:
+
+‘This is what he says who has the seven spirits of God and the seven stars: “I know what you’re doing, that you’re alive in name only. 2Wake up and strengthen what’s left that’s about to die. I haven’t found your deeds perfect in front of my God. 3So remember what you’ve received, keep it, and repent. If you don’t wake up, I’ll come like a thief at night when you don’t expect it. 4You have a few in Sardis that haven’t gotten their clothes dirty. They’ll live with me in white because they’re worthy.
+
+5Those who are victorious I’ll dress in white clothes, I won’t remove from the Book of Life, and I’ll acknowledge in front of my Father and his angels.
+
+6Whoever has an ear, listen to what the Spirit’s telling the churches.”’”
+
+Rev 3:1-6
+
+The Letter to Philadelphia
+
+7“Write this to the evangelist for the church in Philadelphia:
+
+‘These things the Holy and True says,
+
+who has the key of David,
+
+who opens and nobody shuts,
+
+who shuts and nobody opens,
+
+8“I know what you’re doing. I’ve opened a door for you that nobody can shut. Because you have a little strength, you’ve kept my word and haven’t denied me. 9The ones that claim to be Jews but belong to Satan’s synagogue, I’ll make bow down to you and recognize that I love you. 10Because you’ve kept my word and persevered, I’ll protect you from the testing that’s coming on the world. 11I’m coming soon; hold onto what you have so nobody takes your crown.
+
+12Those who are victorious I’ll make pillars in the Temple of my God, and they’ll never leave it. I’ll write my new name on them, the name of my God, and the name of his city, the New Jerusalem that’s coming down out of heaven from him.
+
+13Whoever has an ear, listen to what the Spirit’s telling the churches.’”
+
+Rev 3:7-13
+
+The Letter to Laodicea
+
+14“Write this to the evangelist for the church in Laodicea:
+
+‘This is what the faithful and true witness says, the ruler of God’s creation: 15“I know what you’re doing—that you’re not hot or cold. I’d rather you were one or the other. 16Since you’re lukewarm, I’ll spew you out of my mouth. 17You say, ‘I’m rich; I’ve made money and don’t need anything.’ You don’t realize that you’re miserable, pitiful, poor, blind, and naked. 18I advise you to buy gold from me refined by fire so you’ll be rich, white clothes to cover your nakedness, and eye salve so you can see. 19I reprove and discipline the ones I care about; so be earnest and repent. 20I’m knocking at the door. If anybody hears me and opens it, I’ll come in and we’ll eat together.
+
+21“Those who are victorious will sit with me on my throne like I overcame and sat with my Father on his throne.
+
+22“Whoever has an ear, listen to what the Spirit’s telling the churches.”’”                                               	Rev 3:14-22
+
+The Throne Room in Heaven
+
+eaven
+
+4:1After that, I saw a door standing open in heaven. The first voice I heard sounded like a trumpet, “Come up here, and I’ll show you what needs to happen.” 2Right away I was in the spirit and saw a throne in heaven and One sitting on it 3that looked like jasper and cardelian with an emerald rainbow arching over the throne. 4Around the throne, 24 elders were sitting on 24 thrones, dressed in white and wearing gold crowns. 5Lightning flashes and loud peals of thunder came out of the throne. In front of the throne, seven braziers were burning that were the seven spirits of God. 6What looked like a clear crystal sea lay in front of the throne.
+
+Close around the throne were four living beings with eyes all over them. 7The first looked like a lion, the second like a calf; the third had a man’s face, and the fourth looked like a flying eagle. 8The four living beings, each with six wings and eyes all over, kept saying day and night,
+
+“Holy, holy, holy,
+
+LORD God Almighty,
+
+who was and is and is to come.”
+
+9When the four living beings gave glory, honor, and thanks to the One on the throne, who lives forevermore, 10the 24 elders knelt to worship him and cast their crowns in front of the throne, saying,
+
+11“Our LORD and God, you deserve
+
+glory, honor, and power
+
+because you created everything;
+
+by your will they came into being.” 	 Rev 4:1-11
+
+The Scroll with the 7 Seals
+
+5:1I saw a scroll in the right hand of the One on the throne. It had writing inside and out, and seven seals on it. 2A strong angel shouted, “Who’s worthy to break the seven seals and unroll the scroll?” 3Nobody in heaven, on earth, or under the earth could unroll it—or even look at it. 4I started to cry because nobody could unroll it. 5One of the elders said, “Don’t cry. The Lion from the tribe of Judah, David’s descendant, has overcome death. He can break the seven seals and unroll it.”     	Rev 5:1-5
+
+Worshipping the Lamb
+
+6Among the throne, elders, and four living beings, I saw a Lamb standing as if it had been slain. It had seven horns and seven eyes, which are the seven spirits God sent into the whole world. 7He came and took the scroll from the One on the throne. 8Then the four living beings and 24 elders knelt in front of the Lamb. Each one had a harp and a gold bowl of incense, which is the saints’ prayers. 9They sang a new song,
+
+“You’re worthy to take the scroll and break its seals
+
+because you were killed.
+
+With your blood you purchased for God
+
+people out of every tribe, language, people group, and nation.
+
+10You made them into a kingdom of priests for our God,
+
+and they’ll rule on earth.”  	Rev 5:6-10
+
+11I saw countless thousands of angels around the throne, created beings, and elders, shouting,
+
+12“The Lamb that was killed deserves
+
+to receive authority, wealth, wisdom,
+
+strength, honor, glory, and blessing!”
+
+13Everyone created in heaven, on earth, under the earth, and on the sea said,
+
+“To the One on the throne and to the Lamb,
+
+blessing, honor, glory, and power forevermore.”
+
+14The four living beings said, “Amen,” and the elders knelt down in worship. 	Rev 5:11-14
+
+Breaking the First 6 Seals
+
+6:1When I saw the Lamb break the first seal, I heard one living being say like thunder, “Come.” 2A white horse came out; its rider had a bow. He received a crown and went out to conquer.
+
+3When the Lamb broke the second seal, the second living being said, “Come.” 4A fiery red horse came out. Its rider was allowed to take peace away from the earth so people would kill each other. He received a large sword.   	Rev 6:1-4
+
+5When the Lamb broke the third seal, the third living being said, “Come.” A black horse came out. Its rider was holding a balance scales. 6I heard a voice from among the four living beings, “A quart of wheat for a day’s pay; three quarts of barley for a day’s pay. Use oil and wine sparingly.”
+
+7When the Lamb broke the fourth seal, the fourth living being said, “Come.” 8A pale green horse came out. Its rider was named Death; Grave followed him. They received control over a fourth of the earth to kill by sword, famine, death, and wild animals.  	          Rev 6:5-8
+
+9When the Lamb broke the fifth seal, under the altar I saw the souls of people that had been martyred for the message of God that they had. 10They cried out, “How long, Master, holy and true, before you avenge our blood on the people living on earth?” 11He gave each one a white robe and told them to rest a little longer till their fellow martyrs fulfill their course.
+
+Rev 6:9-11
+
+12When I saw the Lamb break the sixth seal, there was a major earthquake. The sun got as dark as burlap made of hair, and the whole moon looked like blood. 13Stars fell to earth like unripe figs in a strong wind. 14The sky separated like a scroll being unrolled, and every mountain and island quaked. 15The kings on earth, the elite, the commanders of 1,000 [chiliarchs], the rich, the powerful, servants and freemen hid in caves and mountain rocks. 16They said to the mountains and rocks, “Bring an avalanche over us and hide us from the One on the throne and from the anger of the Lamb. 17The time for their great fury has come. Who can survive it?”
+
+Rev 6:12-17
+
+Sealing the 144,000
+
+7:1After that, I saw four angels standing at the four corners of the world. They were keeping the four winds from blowing on the land, sea, and trees. 2I watched another angel come down from the east with the seal of the living God. He shouted to the four angels that could harm the land and sea, 3“Don’t harm the land, sea, or trees till we seal our God’s servants on their foreheads!” 4I heard the number that were sealed: 144,000—from every tribe of Israel; 12,000 each 5from Judah, Reuben, Gad, 6Asher, Naphtali, Manasseh, 7Simeon, Levi, Issachar, 8Zebulun, Joseph, and Benjamin.  	 Rev 7:1-8
+
+The Great Host in White Robes
+
+9After that, I saw a tremendous host nobody could count, from every nation, tribe, people group, and language, standing in front of the throne and the Lamb. They were wearing white robes and holding palm branches. 10They shouted,
+
+“Salvation to our God who sits on the throne,
+
+and to the Lamb!”
+
+11All the angels around the throne, the elders, and the living beings fell on their faces in front of the throne and worshiped God,
+
+12“Amen. Blessing, glory, wisdom,
+
+thanks, honor, power, and strength
+
+to our God forevermore. Amen.” 	Rev 7:9-12
+
+13One of the elders asked me, “Who are the ones in white robes? Where’d they come from?”
+
+14I said, “Sir, you know.”
+
+He said, “They came through the great ordeal and washed their robes to make them white in the blood of the Lamb.
+
+15“That’s why they’re in front of God’s throne,
+
+and worship him day and night in his sanctuary.
+
+The One on the throne will spread his tabernacle over them.
+
+16“They won’t get hungry or thirsty anymore;
+
+the sun won’t beat down on them with scorching heat anymore.
+
+17“The Lamb at the throne will shepherd them
+
+and guide them to springs of running water.
+
+God will wipe every tear out of their eyes.”    	Rev 7:13-17
+
+Breaking the Seventh Seal
+
+8:1When the Lamb broke the seventh seal, heaven was silent for about a half hour. 2I saw seven angels standing in front of God, receiving seven trumpets.
+
+3Another angel came and stood by the altar, holding a gold censer. He received a large amount incense to add to the prayers of the saints on the gold altar in front of the throne. 4The smoke from the incense rose up from the angel’s hand with the saints’ prayers. 5The angel filled the censer with fire from the altar and threw it onto the earth. There came peals of thunder, lightning flashes, and an earthquake. 	Rev 8:1-5
+
+Blowing the 7 Trumpets
+
+6The seven angels with the seven trumpets raised them to blow.
+
+7The first blew his trumpet. Hail and fire mixed with blood were thrown onto the earth. A third of the earth, a third of the trees, and all the green grass burned up.
+
+8The second angel blew his trumpet. Something like a burning mountain was thrown into the ocean and turned a third of it to blood, 9killed a third of marine life, and destroyed a third of the ships that were on it.   	Rev 8:6-9
+
+10The third angel blew his trumpet. A big star, burning like a torch, fell on a third of the springs and rivers. 11It’s name was Wormwood. A third of the water turned bitter, and many people died from the brackish water.  	Rev 8:10-11
+
+12The fourth angel blew his trumpet. A third of the sun, moon, and stars was struck. A third of the stars went out; the sun didn’t shine for a third of the day, and the moon didn’t shine for a third of the night.
+
+13I saw and heard an eagle flying in the sky, shouting, “Woe, woe, woe to people on earth because of the last three trumpet blasts!”  	 Rev 8:12-13
+
+The Fifth Trumpet/The First Woe
+
+9:1The fifth angel blew his trumpet. I saw a star that had just fallen* to earth. He received a key to the deep abyss. 2He opened it, and a cloud of smoke came out of it as from a huge furnace, and the sun and air grew dark from it. 3Locusts swarmed out of the cloud onto the earth with ability like scorpions have. 4They were told not to harm the grass, anything green, any tree—just people that didn’t have God’s seal on their foreheads. 5They weren’t to kill them, but to torment them for five months as with scorpion stings. 6The people would want to die but couldn’t; they’d long for death, but it would elude them.   	Rev 9:1-6
+
+7The locusts looked like horses outfitted for war. They wore what looked like gold helmets* [chanfrons + crinets?] on their heads. They had faces like people, 8manes like women’s hair, teeth like lions’ teeth, 9and iron chest plates* [peytrals]. Their wings sounded like hordes of horses with chariots charging into battle. 10Their tails had stingers like scorpions that they could torment people with for five months. 11Their king, the angel of the abyss, had the Hebrew name Abaddon—Apollyon* [Destroyer] in Greek.
+
+12The first woe is over; two more are coming.  	 Rev 9:7-12
+
+The Sixth Trumpet/The Second Woe
+
+13The sixth angel blew his trumpet. I heard a voice from the four horns of the gold altar in front of God, 14telling the sixth angel to release the four angels on hold at the great River Euphrates. 15He released the four angels—readied for an hour, day, month, and year—to massacre a third of all people. 16The army of horsemen numbered 200,000,000 (I heard the number). 17The horses and their riders in the vision looked like this: the riders wore breastplates the color of fire, hyacinth, and sulfur; the horses had heads like lions with fire, smoke, and sulfur coming out of their mouths. 18The fire, smoke, and sulfur killed a third of all people. 19The horses’ power was in their mouths and tails; their tails were like snakes with heads that could injure people.
+
+20People that didn’t die from these plagues refused to stop worshiping demons and turn away from the idols their hands had made out of gold, silver, brass, stone, and wood—that can’t see, hear, or walk. 21They didn’t repent of their murders, witchcraft, sexual immorality, or thefts.    	Rev 9:13-21
+
+The Little Open Scroll
+
+10:1I watched another powerful angel come down from the sky, dressed in a cloud with a rainbow above his head. His face shined like the sun, and his legs were like pillars of fire. 2He was holding a little, open scroll in his right hand. With his right foot on the sea and his left one on land, 3he shouted like a roaring lion. When he shouted, seven thunders pealed. 4When they did, I was about to write, but a voice from the sky said, “Seal up what the seven thunders said; don’t write it down.” 5The angel that was standing on land and sea, lifted his right hand toward the sky 6and swore by the One who lives forevermore—who created earth, sky, sea, and everything in them—that there wouldn’t be any more delay. 7When it’s time for the seventh angel to blow his trumpet, God’s unrevealed plan will come to completion like he’d told his servants the prophets.  	 Rev 10:1-7
+
+8The voice from the sky spoke to me again, “Go take the little, open scroll that’s in the hand of the angel that’s standing on land and sea.” 9I went and asked him for it. He said, “Eat it; it’ll make your stomach sour, but it’ll leave a sweet taste in your mouth.” 10I took it and ate it. It tasted sweet like honey; but when I swallowed it, it made my stomach sour. 11They told me, “You have to prophesy some more to many people groups, nations, languages, and kings.”                                                 	       Rev 10:8-11
+
+The Two Witnesses
+
+11:1I received a measuring rod like a staff. “Measure God’s sanctuary, the altar, and the worshipers. 2Don’t measure the court outside the sanctuary because the Gentiles have received it, and they’ll trample the Holy City underfoot for 42 months. 3I’ll authorize my two witnesses to prophecy for those 1260 days in burlap and ashes.” 4They’re two olive trees, two lampstands in front of the Lord of the earth. 5If anybody tries to injure them, fire will come out of their mouths and burn them up. 6During the time they prophesy, they’ll have authority to keep it from raining, to turn water into blood, to strike the earth with any plague as often as they like. 7When they’ve finished speaking for God, the beast from the abyss will attack them, conquer, and kill them. 8Their corpses will lie in the street of the great city spiritually called Sodom and Egypt, where their Lord also was crucified. 9People from tribes, languages, and nations will look at their corpses for 3½ days and won’t let them be buried. 10They’ll celebrate and send gifts to each other because those two prophets had tormented them. 11After 3½ days, breath from God will return, and they’ll stand up and terrify everyone that sees them. 12I heard a loud voice from heaven tell them, “Come up here”; and they went up in a cloud while their enemies watched. 13Then a severe earthquake made a tenth of the city fall; 7,000 people died in the earthquake. Fear overwhelmed the rest, and they praised the God of heaven.
+
+14The second woe is over. The third’s coming soon. 	Rev 11:1-14
+
+The Seventh Trumpet/The Third Woe
+
+15The seventh angel blew his trumpet, and loud voices from heaven said,
+
+“The kingdom of this world has become
+
+the kingdom of our LORD and his ChristMessiah,
+
+and he’ll reign forevermore.”
+
+16The 24 elders on their thrones in front of God fell on their faces and worshiped him,
+
+17“Thank you, LORD God Almighty, who is and was,
+
+because you’ve assumed power and begun to reign.
+
+18The nations raged, and your anger came.
+
+The time came for judging the dead,
+
+the time for rewarding your servants the prophets and saints—
+
+those who respect you from least to greatest;
+
+the time for destroying those who destroy the world.”
+
+19God’s sanctuary in heaven opened, and the Ark of the Covenant became visible there. There came lightning flashes, peals of thunder, an earthquake, and a severe hailstorm.	Rev 11:14-19
+
+The Woman and the Red Dragon
+
+12:1An important sign appeared in the sky, a woman dressed in the sun with the moon under her feet and twelve crowns on her head. 2She was pregnant and cried out in labor, straining to give birth. 3Another sign appeared in the sky, a big red dragon with seven heads, ten horns, and seven diadems on its heads. 4Its tail dragged down a third of the stars and threw them onto earth. It stood in front of the woman, ready to devour her child. 5She had a Son that would rule the nations with an iron rod. He was snatched up to God and his throne, and 6the woman ran into the desert. God had prepared a place there for people to sustain her 1260 days. 	Rev 12:1-6
+
+7War broke out in heaven, Michael and his angels battling the dragon and his angels. 8The dragon wasn’t powerful enough, and he and his angels no longer had a place in heaven. 9The great dragon was thrown out, the old serpent, the devil, Satan, the deceiver of the whole world. He and his angels were thrown down to earth. 10I heard a loud voice in heaven,
+
+“Now salvation and power has come,
+
+the kingdom of our God,
+
+the authority of his ChristMessiah,
+
+because our brothers’ accuser has been thrown out
+
+who accused them in front of our God day and night.
+
+11They triumphed over their accuser
+
+by the blood of the Lamb and by his message;
+
+they didn’t love their life so much that they shrank from death.
+
+12So celebrate, heaven, and you that tabernacle there.
+
+Woe to land and sea
+
+because the devil has come down to you furious;
+
+he knows he doesn’t have much time left.” 	Rev 12:7-12
+
+13When the dragon saw he’d been thrown down to earth, he persecuted the woman that had given birth to the male child. 14She received the two wings of a giant eagle so she could fly into the wilderness away from the dragon and be sustained for 3½ times. 15The dragon spewed a river out of its mouth to sweep the woman away in a flood, 16but the earth helped her and opened its mouth and drank up the river. 17The dragon raged over the woman and went away to fight her other offspring that keep God’s commands and have the message about Jesus. 	Rev 12:13-17
+
+The Beast from the Sea
+
+13:1The dragon stood on the sand on the seashore. I watched as a beast came up out of the sea. It had ten horns, seven heads, ten diadems, and blasphemous names on its heads. 2It looked like a leopard with bear’s feet and a lion’s mouth. The dragon gave it power, dominion, and great authority. 3One of its heads looked like it had been mortally wounded and its mortal wound had healed. The whole earth marveled at the beast 4and worshiped the dragon that gave it authority. They also worshiped the beast, “Who’s like it? Who can wage war with it?”	Rev 13:1-4
+
+5The beast was allowed to speak great blasphemous things and have authority to do it for 42 months. 6It blasphemed God, his tabernacle, and those who live in heaven. 7It was allowed to fight the saints and defeat them, and to control every tribe, people group, language, and nation. 8People worshiped it whose names weren’t in the Lamb’s Book of Life, the Lamb that was slain from the founding of the world.
+
+9Whoever has an ear, listen:
+
+10snyone that’s destined for captivity
+
+will go into captivity;
+
+anyone that murders with a sword
+
+will be killed with a sword.
+
+That’s why the saints stay confident. 	Rev 13:5-10
+
+The Beast from the Land
+
+11I watched another beast come up out of the land. It had two horns like a lamb and talked like a dragon. 12It exercised all the authority the first beast had, and made people worship the first beast, whose fatal wound had healed. 13It performed great signs, even making fire come down from the sky. 14It deceived people with the signs it was allowed to do in front of the first beast. It told them to make an image to the beast that had the sword wound and came back to life. 15It was allowed to make the image of the first beast breathe so it could even speak, and it was allowed to execute people that refused to worship the image. 16It made everybody—great or small, rich or poor, servant or free—receive a stamp on the forehead or right hand. 17They couldn’t buy or sell without the stamp of the beast or the number of its name. 18ere is insight; let the discerJHere
+
+Here’s a hint for a discerning person to calculate its number. It’s the number in use among people: 666.
+
+Rev 13:11-18
+
+The Lamb on Mt. Zion
+
+14:1I saw the Lamb standing on Mt. Zion with the 144,000 that had his and his Father’s name written on their foreheads. 2I heard a noise from heaven like crashing waves and loud thunder—like harpists playing harps. 3They sang a new song in front of the throne, the four living beings, and the elders. Nobody could learn the song except the 144,000 that had been purchased out of the earth. 4They hadn’t defiled themselves with women; they were virgins, who followed the Lamb wherever he went. They’d been purchased from among people as firstfruits to God and the Lamb. 5They’d never lied; they were blameless.   	 Rev 14:1-5
+
+The Messages from Three Angels
+
+6I saw another angel flying in the sky who had the everlasting good news to present to every nation, tribe, language, and people group. 7He shouted, “Fear God and honor him! His time for judging has come. Worship the One that made sky, earth, sea, and springs.”
+
+8A second angel followed, “Fallen, fallen, ‘Babylon’ the Great that made the nations drink the wine of her immoral passion.”
+
+9A third angel followed them, shouting, “Those who have worshiped the beast and its image and received a stamp on their forehead or right hand, 10will drink the wine of God’s displeasure full strength. They’ll be tormented with fire and sulfur in front of the holy angels and the Lamb. The smoke from their torment will go up forevermore. 11There’ll be no rest day or night for those who’ve worshiped the beast and its image and received the stamp of its name. 12That’s why the saints stay confident in Christ.”
+
+13I heard a voice from the sky, “Write this, ‘People that die in the Lord from now on are fortunate.’ ‘Yes,’ the Spirit says, ‘so they can rest from their labors, because the account of their deeds stays on their record.’”  	Rev 14:6-13
+
+Harvesting the Earth
+
+14I saw what looked like a man sitting on a white cloud. He had a gold crown on his head and a sharp scythe in his hand. 15Another angel came out of the sanctuary in heaven and called out to him, “Use your scythe to reap; it’s time to harvest; earth’s harvest is ready.” 16The one on the cloud swung his scythe over the earth and harvested it.
+
+17Another angel came out of the sanctuary, holding a sharp hook-blade. 18Another angel came out of the altar with authority over fire and shouted to the one with the hook-blade, “Use your blade to gather the clusters from the vine (the world); the grapes are ripe.” 19The angel used it to harvest the vine, and he put the grapes in the large winepress of God’s anger. 20The wine was pressed out outside the city, and the blood from the winepress came up to the horses’ bridles for some 180 miles. 	Rev 14:14-20
+
+The 7 Last Plagues
+
+15:1I saw another great, amazing sign: seven angels that had the seven last plagues. With them God will finish his anger.
+
+2I saw what looked like a glass sea mixed with fire. Those who were victorious over the beast, its image, and the number of its name, stood on the glass sea, holding harps God gave them 3and singing the Song of Moses, God’s servant, and the Song of the Lamb:
+
+“Your works are great and amazing,
+
+LORD God Almighty.
+
+Your ways are just and true,
+
+King of the nations.
+
+4Who won’t respect you
+
+and praise you?
+
+Only you are holy;
+
+all nations will come and worship before you
+
+because your judgments have been revealed.” 	Rev 15:1-4
+
+5After that, I saw in heaven the open sanctuary in the tabernacle of testimony. 6Seven angels with the seven last plagues came out of the sanctuary dressed in clean, bright linen with gold sashes across their chests. 7One of the four living beings gave the seven angels gold bowls full of the eternal God’s anger. 8Smoke from God’s glory and power filled the sanctuary. Nobody could go into it till the seven plagues were over. 	Rev 15:5-8
+
+Pouring Out the 7 Angels’ Bowls
+
+16:1I heard a loud voice from the sanctuary, telling the seven angels, “Pour out the seven bowls of God’s anger on the earth.”
+
+2The first poured out his bowl on the land. A foul, painful boil festered up on the ones that had the stamp of the beast and worshiped its image.
+
+3The second poured out his bowl on the ocean. It became like dead men’s blood. Everything in the ocean died.	 Rev 16:1-3
+
+4The third poured out his bowl on rivers and springs. They became blood. 5I heard that angel say,
+
+“You’re just, Holy One, who are and were,
+
+for decreeing those judgments.
+
+6Because they poured out the blood of saints and prophets,
+
+you’ve given them blood to drink.
+
+That’s what they deserve!”
+
+7I heard the altar say,
+
+“Yes, LORD God Almighty;
+
+your judgments are true and just.” 	Rev 16:4-7
+
+8The fourth angel poured out his bowl on the sun, and it scorched people 9with searing heat. They blasphemed God, who authorized those plagues; and they didn’t repent or praise him.
+
+10The fifth angel poured out his bowl on the throne of the beast. Its kingdom grew dark, and people gnawed their tongues in agony. 11They blasphemed God in their agony and sores, but they didn’t repent.   	 Rev 16:8-11
+
+12The sixth angel poured out his bowl on the big Euphrates River. It dried up so the kings in the East could cross it. 13I saw three unclean spirits leap like frogs out of the mouths of the dragon, beast, and false prophet. 14They were demons that performed signs, and they went to gather the kings of the world for war at the great day of God Almighty. 15“I’m coming like a thief at night. Blessed are those who stay awake and dressed so they won’t be walking around naked, and people see their shame.” 16He gathered them to a place called in Hebrew The Mound of Megiddo [Harmagedon]*.   	Rev 16:12-16
+
+17The seventh angel poured out his bowl on the air. A voice shouted out of the sanctuary from the throne, “It’s finished!” 18There came lightning flashes, peals of thunder, and the most severe earthquake in history. 19The great city ‘Babylon’ split into three parts, and the cities in the nations crumbled. God remembered to give ‘Babylon’ the Great his wine cup of fierce fury. 20The islands sank, and the mountains collapsed. 21Enormous hailstones, weighing over 90 pounds, fell on people. They blasphemed God because the hailstone plague was so severe.
+
+Rev 16:17-21
+
+17:1One of the seven angels with the seven bowls came over to me,
+
+“Come here; I’ll show you the condemnation of the great prostitute that sits on a vast expanse of water. 2Kings committed immoral acts with her, and people got drunk on the wine of her immorality.”
+
+3He took me in spirit to a desert place, and I saw a woman on a red beast covered with blasphemous names and having seven heads and ten horns. 4She wore purple and scarlet with precious stones and pearls, and held a gold cup full of detestable, unclean things related to her immorality. 5On her headband was the mysterious name, “’Babylon’ the Great, Mother of Prostitutes and Detestable Things.”  	Rev 17:1-5
+
+6She was drunk from the blood of saints, martyrs for Jesus. I was amazed. 7The angel said,
+
+“Why be amazed? I’ll explain to you the meaning of the woman and the beast she’s riding. 8The beast was, is not, and will come up from the abyss to its eternal destruction. People will marvel when they see it—people whose names haven’t been in the Book of Life from the founding of the world. 9Here’s the explanation. The seven heads represent seven hills the woman sits on. There are seven kings: 10five fallen, one existing, and the other yet to come. When he comes, he has to stay a little while. 11The beast that was and is not, is an eighth, is like the seven, and is destined for destruction. 12The ten horns are ten kings that haven’t received a kingdom yet, but they’ll receive authority like kings for a short time with the beast. 13They have a joint purpose and give their power and authority to the beast. 14They’ll battle the Lamb, and the Lamb will conquer them because he’s Lord of lords and King of kings. The ones on his side are called, chosen, and faithful.	Rev 17:6-14
+
+15“The water where the woman is sitting represents masses of people, nations, and languages. 16The ten horns and the beast will hate the harlot, strip her bare, eat her flesh, and burn her up. 17That’s because God has put it in their minds to accomplish his purpose by making common cause and giving their kingdom to the beast till God’s words come to fulfillment. 18The woman is the great city that rules the kings on earth.” 	 Rev 17:15-18
+
+18:1After that, I watched a different angel come down from the sky with great authority, and his glory lit up the world. 2He shouted,
+
+“Fallen, fallen, ‘Babylon’ the Great!
+
+She’s become a place where demons live,
+
+a haunt for unclean spirits and filthy birds.
+
+3All the nations have gotten drunk on the wine of her immoral fury.
+
+Kings have committed immoral acts with her;
+
+merchants have gotten rich from her sensual luxuries.”	 Rev 18:1-3
+
+4I heard another voice from the sky,
+
+“Get out of her, my people;
+
+don’t take part in her sins
+
+so you can avoid her plagues.
+
+5Her sins have piled up to the sky;
+
+God has remembered her unjust acts.
+
+6Pay her back like she paid;
+
+give her full payback for what she’s done;
+
+mix double to her the cup she mixed.
+
+7As much as she glorified herself and lived sensuously,
+
+give her torment and mourning.
+
+Because she said to herself,
+
+‘I sit like a queen;
+
+I’ll never mourn,’
+
+8her plagues will all come at the same time:
+
+mourning, famine, and death.
+
+She’ll be burned up
+
+because the LORD God that condemns her has the power.” 	 Rev 18:4-8
+
+9The kings that committed immoral acts and lived sensuously with her will cry and mourn when they see the smoke from her burning. 10They’ll stand a long way off in fear of her torment,
+
+“Woe, woe, the great city;
+
+‘Babylon’ the powerful city,
+
+all at once its condemnation has come.”  	Rev 18:9-10
+
+11The merchants will cry and mourn over it because nobody’s buying their merchandise anymore: 12gold, silver, precious stones, pearls; fine linen, purple, silk, red; different kinds of scented wood, articles made out of ivory and expensive wood, bronze, iron, marble; 13cinnamon, spice, incense, perfume, frankincense; wine, olive oil, fine wheat flour, wheat; cattle, sheep, horses, four-wheeled chariots, slaves (human lives).
+
+14“The fruit you craved has left you;
+
+everything luxurious and splendid
+
+has perished from you;
+
+people won’t find them anymore.”	  Rev 18:11-14
+
+15Merchants who got rich from those things will stand a long way off, crying and mourning, in fear of her torment.
+
+16“Woe, woe, the great city,
+
+clothed in fine linen, purple, and red;
+
+adorned with gold, precious stones, and pearls!
+
+17In a moment such wealth has disappeared!”
+
+Shipmasters and sailors, who make their living on the sea, will stand a long way off 18and cry as they watch the smoke from her burning. “What other city is like this great city?”
+
+Rev 18:15-18
+
+19They’ll throw dust on their heads, shout, cry, and weep,
+
+“Woe, woe, to the great city
+
+where those with ships got rich from its wealth,
+
+because all at once it’s been laid waste!”
+
+20Rejoice over it, heaven, saints, apostles, and prophets;
+
+because God has decreed against it
+
+the condemnation it decreed against you.”	 Rev 18:19-20
+
+21A strong angel picked up a stone the size of a large millstone and threw it into the sea,
+
+“That’s how ‘Babylon,’ the great city,
+
+will be violently overthrown,
+
+and won’t be there anymore.
+
+22The sound of harpists, musicians, flutists, and trumpeters
+
+won’t be heard in it anymore;
+
+no craftsman of any craft will be found in it anymore;
+
+the sound of a mill won’t be heard in it anymore;
+
+23the light of a lamp won’t shine in it anymore;
+
+the voice of the bride and groom won’t be heard in it anymore,
+
+because its merchants were the greatest on earth,
+
+because it deceived the nations with its sorceries,
+
+24and because the blood of prophets and saints was found in it
+
+and all those murdered on earth.”  	 Rev 18:21-24
+
+19:1After that, I heard what sounded like a great crowd in heaven,
+
+“Hallelujah!
+
+Salvation, glory, and power to our God
+
+2because his judgments are true and just;
+
+he’s judged the great prostitute
+
+that corrupted the earth with her immorality;
+
+he’s avenged the murder of his servants at her hand.”	Rev 19:1-2
+
+3A second time they shouted,
+
+“Hallelujah!”
+
+and her smoke rose up forevermore. 4The 24 elders and the 4 living beings knelt down and worshiped God Almighty, who sits on the throne,
+
+“Amen! Hallelujah!”
+
+5A voice came from the throne,
+
+“Praise our God, all his servants,
+
+everybody that fears him from least to greatest.”
+
+6I heard a great crowd like crashing waves and loud thunder,
+
+“Hallelujah!
+
+the LORD God Almighty has taken up his reign.
+
+7Let’s rejoice, be happy, and give him glory,
+
+because the marriage of the Lamb has come,
+
+and his bride has gotten herself ready.”
+
+8She was allowed to dress in bright clean linen, the righteous acts of the saints.  	Rev 19:3-8
+
+9The angel said to me, “Write this down: ‘People are fortunate who are invited to the marriage feast of the Lamb. That is God’s true message.’” 10I fell down in front of him in worship him, but he said, “Don’t do that. I’m a fellow servant with you and your brothers that have the message about Jesus. Worship God. The message about Jesus is the purpose of prophecy.”
+
+11I watched heaven open up. There was a white horse with a Rider called Faithful and True. He judged rightly and waged war justly. 12His eyes were like flames; he wore several diadems and had a name that nobody understood but him. 13He wore a robe soaked in blood; his name was The Word of God. 14The armies in heaven, wearing clean white linen, followed him on white horses. 15From his mouth came a sharp sword for striking the nations. He shepherded them with an iron rod and trod the winepress of the fierce anger of God Almighty. 16On the thigh of his robe, it said King of kings, Lord of lords.  	 Rev 19:9-16
+
+17I saw an angel standing in the sun. He shouted to the vultures in the sky, “Flock to God’s great feast! 18Eat the flesh of kings, commanders [chiliarchs]*, powerful men, horses, and riders!” 19I watched the beast, the kings of the earth, and their armies gather to battle the Rider on the horse and his armies. 20He and his forces captured the beast and the false prophet that performed signs in front of it, signs it used to deceive people that had the stamp of the beast and worshiped its image. They threw them both alive into the burning sulfur lake. 21The Rider on the horse killed the rest with the sword from his mouth, and the vultures gorged on their flesh.                                                    	Rev 19:17-21
+
+The Millennium
+
+20:1I watched an angel come down from heaven with the key to the abyss and a big chain in his hand. 2He seized the dragon—the old serpent, the devil, Satan—bound him for 1,000 years, 3and threw him into the abyss. He locked it and sealed it over him so he couldn’t deceive the nations till the 1,000 years were over. Afterward he’ll need to be released for a little while.
+
+Rev 20:1-3
+
+4I saw thrones, and the people that sat on them received the authority to judge. I saw the souls of the people beheaded for bearing the message about Jesus and the word of God, people that hadn’t worshiped the beast or its image and hadn’t received the stamp on their forehead or hand. They’ll live and reign with Christ 1,000 years. 5The rest of the dead didn’t live again till the 1,000 years ended. That’s the first resurrection. 6People that take part in the first resurrection are blessed and holy; the second death won’t have any power over them. They’ll be priests for God and Christ, and reign with him 1,000 years. 	Rev 20:4-6
+
+Satan Unleashed and Conquered
+
+7When the 1,000 years end, Satan will be released from his prison. 8He’ll go out to deceive the nations, Gog and Magog, to gather them for battle. Their number will be like the sand on the seashore. 9They’ll come up on the plain of the earth and surround the camp of the saints and the dearly loved city; fire will come from the sky and consume them. 10The devil will be thrown into the burning lake of sulfur, where the beast and false prophet have been. They’ll be tormented day and night forevermore. 	Rev 20:7-10
+
+The Great White-Throne Judgment
+
+11I saw a large white throne and the One that was sitting on it. Earth and sky fled from him; they were no longer there. 12I saw the dead, from least to greatest, standing in front of the throne, and the books were opened. Another book was opened, the Book of Life; and the dead were judged by their deeds written in the books. 13The sea, death, and the grave gave up their dead. 14Death and the grave were thrown into the burning lake, which is the second death. 15Anybody that wasn’t in the Book of Life was thrown into the burning lake. 	 Rev 20:11-15
+
+The New Earth and Sky
+
+21:1I saw a new earth and sky. The first earth and sky had passed away, and there wasn’t any ocean anymore. 2I watched the Holy City, the New Jerusalem, come down out of heaven from God, ready like a bride adorned for her husband. 3A loud voice came from the throne,
+
+“God’s tabernacle is with his people; he’ll live with them, and they’ll belong to him. 4He’ll wipe away every tear, and there won’t be any pain, weeping, crying, or death anymore. Former things will pass away.”	 Rev 21:1-4
+
+5The One on the throne said,
+
+“I’m making everything new. 6Write this down because it’s true and reliable. It’s done. I’m Alpha and Omega, the beginning and end. I’ll let whoever’s thirsty drink from the spring of living water free of charge. 7Those who overcome will inherit these things. I’ll be their God, and they’ll be my children. 8But the unfaithful and corrupt, the cowards, murderers, sorcerers, idolaters, liars, and immoral will burn in the lake of sulfur, which is the second death.”                                                       	Rev 21:5-8
+
+The New Jerusalem
+
+9One of the angels with the seven bowls of final plagues came to me, “Come with me; I’ll show you the Lamb’s bride.” 10He took me in spirit to a big, tall mountain and showed me the Holy City, Jerusalem, coming down out of heaven from God, 11shining with God’s glory. Its brilliance was like a very valuable stone, like crystal-clear jasper.
+
+12It had a broad, high wall and twelve gates, with an angel at each gate and the names of Israel’s twelve tribes inscribed on them. 13There were three gates each on the east, north, south, and west. 14The wall consisted of twelve foundations with the names of the Lamb’s twelve apostles on them.	Rev 21:9-14
+
+15The angel that was talking to me had a gold rod for measuring the city, its gates, and wall. 16The city was shaped like a cube 1380 miles long, wide, and high; 17its wall measured 216 feet high, 18made out of jasper; the city was pure gold like clear glass. 19The foundation stones were beautiful precious stones. In order, they were jasper, sapphire, agate, emerald, 20sardonyx, carnelian*, chrysolite* [yellow topaz], beryl, topaz, chrysoprase* [green quartz], hyacinth, and amethyst. 21Each gate was a single pearl, and the streets were pure gold like transparent glass.
+
+22I didn’t see a sanctuary in it because God Almighty and the Lamb were its sanctuary. 23The city didn’t need the sun or moon because God’s glory gave it light, and the Lamb was its lamp. 24, 26The nations lived by its light, and kings brought their glory and the honor of their nations into it. 25Its gates never shut because there wasn’t any night there. 27Nothing profane or anyone detestable or false could go in, only the ones written in the Lamb’s Book of Life.                                                                 	Rev 21:15-27
+
+The River of Life, The Tree of Life
+
+22:1The angel showed me a crystal-clear river of life flowing from the throne of God and the Lamb. 2Between the city street and the river stood the tree of life, bearing twelve kinds of fruit and growing leaves that heal the nations. 3There won’t be any more curse. The throne of God and the Lamb will be in that city, and his servants will worship him. 4They’ll see his face and have his name on their foreheads. 5There won’t be any night; they won’t need a lamp or the sun because God will give them light, and they’ll reign forevermore.   	Rev 22:1-5
+
+The Return of Christ
+
+6The angel said,
+
+“What you’ve seen and heard is true and trustworthy. The LORD God of the spirits of the prophets sent his angel to show his servants what needs to happen soon. 7‘I’m coming soon. Blessed are those who keep the prophecy that’s in this book.’”
+
+Rev 22:6-7
+
+8I, John, heard and saw those things. When I heard and saw them, I fell down to worship the angel that was showing them to me. 9But he said,
+
+“Don’t do that. I’m a fellow servant with your brothers the prophets and the people that keep the message in this book. Worship God.
+
+10“Don’t seal up the prophecy in this book because the time is soon.
+
+11Let the unrighteous stay unrighteous;
+
+let the filthy stay filthy;
+
+let the holy stay holy.
+
+12“I’m coming soon. I’ll bring with me the reward for each person according to what they’ve done. 13I’m Alpha and Omega, the First and Last, the beginning and end.”	 Rev 22:8-13
+
+Keeping the Message of This Book
+
+14Blessed are those who wash their robes so they’ll have a right to the tree of life and a right to go into the city through its gates. 15Outside are dogs, sorcerers, immoral people, murderers, idolaters, and everybody that enjoys telling and doing something false.
+
+16“I, Jesus, sent my angel to tell youpl these things for the churches. I’m the root and offspring of David, the bright morning star.”
+
+17The Spirit and the bride say, “Come.” Let the one that hears it say, “Come.” Let the thirsty come and drink the water of life free of charge. 	 Rev 22:14-17
+
+No Tampering with the Message
+
+18I say to everybody that hears the prophecy in this book: if you add to it, God will add to you the plagues in this book. 19If you take anything away from it, he will take away your part from the tree of life and the Holy City in this book.
+
+20The One that’s telling you these things says, “Yes, I’m coming soon.”
+
+Come, Lord Jesus.
+
+21The grace of the Lord Jesus be with you all. 	Rev. 22:18-21
+
+translator
+
+christir.org

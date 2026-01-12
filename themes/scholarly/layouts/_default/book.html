@@ -1,0 +1,30 @@
+{{ define "main" }}
+<div class="book-home">
+    <nav class="breadcrumb">
+        <a href="/translations/">Translations</a> › 
+        <a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a>
+    </nav>
+
+    <header class="page-header">
+        <h1>{{ .Params.book }}</h1>
+        <p class="book-meta">{{ .Params.chapters }} Chapters | {{ .Params.translation }}</p>
+    </header>
+
+    <div class="intro-content">
+        {{ .Content }}
+    </div>
+
+    <div class="chapters-grid">
+        {{ range .Pages.ByWeight }}
+        <a href="{{ .RelPermalink }}" class="chapter-link">
+            <span class="chapter-num">{{ .Params.chapter }}</span>
+            <span class="chapter-label">Chapter {{ .Params.chapter }}</span>
+        </a>
+        {{ end }}
+    </div>
+
+    <div class="quick-start">
+        <a href="chapter-01/" class="btn-primary btn-large">Start Reading Chapter 1 →</a>
+    </div>
+</div>
+{{ end }}

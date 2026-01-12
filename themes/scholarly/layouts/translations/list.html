@@ -1,0 +1,47 @@
+{{ define "main" }}
+<div class="translations-list">
+    <header class="page-header">
+        <h1>{{ .Title }}</h1>
+    </header>
+
+    <div class="intro-content">
+        {{ .Content }}
+    </div>
+
+    <div class="translations-grid">
+        {{ range .Sections }}
+        {{ if ne .Title "Bible Translation Resources" }}
+        <div class="translation-card">
+            <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+            <p class="translation-meta">
+                <span class="translator">By {{ .Params.translator }}</span>
+                <span class="book-count">{{ len .Sections }} books</span>
+            </p>
+            <p class="translation-desc">{{ .Summary }}</p>
+            <div class="translation-actions">
+                {{ $firstBook := index .Sections 0 }}
+                {{ if $firstBook }}
+                {{ $firstChapter := index $firstBook.Pages 0 }}
+                {{ if $firstChapter }}
+                <a href="{{ $firstChapter.RelPermalink }}" class="btn-primary">Read Now →</a>
+                {{ end }}
+                {{ end }}
+                <a href="{{ .RelPermalink }}" class="btn-secondary">Browse Books</a>
+            </div>
+        </div>
+        {{ end }}
+        {{ end }}
+    </div>
+
+    <!-- Resources Section -->
+    {{ range .Sections }}
+    {{ if eq .Title "Bible Translation Resources" }}
+    <section class="translation-resources">
+        <h2>Translation Resources</h2>
+        <p>{{ .Summary }}</p>
+        <a href="{{ .RelPermalink }}" class="btn-secondary">View Resources →</a>
+    </section>
+    {{ end }}
+    {{ end }}
+</div>
+{{ end }}

@@ -1,0 +1,14 @@
+---
+book: Numbers
+chapter: 19
+next: chapter-20
+prev: chapter-18
+title: Numbers 19
+translation: CNT
+type: chapter
+weight: 19
+---
+
+## Numbers Chapter 19
+
+<span class="verse" id="v1"><sup class="verse-num">1</sup> The LORD told Moses and Aaron, 2"This is a statute of the LORD, 'Tell the Israelites to bring you an unblemished red heifer that's never worn a yoke. 3Give it to Eleazar to take outside the camp and slaughter in his presence. 4He'll take some of its blood with his finger and sprinkle it toward the front of the Tent of Meeting seven times. 5Then the heifer will be burned in front of him—hide, meat, blood, and refuse. 6The priest will take cedar wood, hyssop, and scarlet material, and throw it onto the burning heifer. 7Then he'll wash his clothes, take a bath, and afterward come into the camp, but he'll be ceremonially unclean till evening. 8The one that burns it will also wash his clothes, take a bath, and be unclean till evening. 9A man that's clean will gather the heifer's ashes and deposit them outside the camp in a clean place, and the community will keep it as water for removing impurity from sin. 10The one that gathers the ashes will wash his clothes and be unclean till evening. A permanent statute for Israelites and foreigners living among them. 11'Anyone of you that touches a human corpse will be ceremonially unclean for a week. 12Purify yourself with the water on the third and seventh days, and you'll be clean. If you don't, you're still unclean; 13you're defiling the LORD's Tabernacle, and you're excluded from Israel. 14'If someone dies in your tent, all of you in it will be ceremonially unclean for a week. 15Every open container will be unclean. 16'Anybody that touches a body out in the open, slain with a sword or dead from natural causes, will be ceremonially unclean for a week. 17Then for the unclean person they'll take some ashes from the burnt purification from sin and add flowing water in a basin. 18A clean person will dip hyssop in the water and sprinkle it on the tent, its furnishings, the people that were there, and the one that touched the bone, the one slain, the one dead of natural causes, or the grave. 19Then the clean person will sprinkle the unclean persons on the third and seventh days. On the seventh day the clean purify the unclean. Then they'll wash their clothes, take a bath, and be ceremonially clean by evening. 20'But those who don't purify themselves will be excluded from the community. They've defiled the LORD's sanctuary. The water for removing impurity wasn't sprinkled on them. 21Those who sprinkle the water will wash their clothes, and those who touch the water will be ceremonially unclean until evening. 22Anything an unclean person touches is unclean; anyone that touches it is unclean till evening.'"</span>

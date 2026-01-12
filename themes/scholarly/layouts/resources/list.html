@@ -1,0 +1,71 @@
+{{ define "main" }}
+<div class="resources-list">
+    <header class="page-header">
+        <h1>{{ .Title }}</h1>
+    </header>
+
+    <div class="intro-content">
+        {{ .Content }}
+    </div>
+
+    <div class="resources-grid">
+        {{ range .Pages }}
+        <article class="resource-card">
+            <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+            {{ if .Params.categories }}
+            <div class="resource-meta">
+                {{ range .Params.categories }}
+                <span class="category">{{ . }}</span>
+                {{ end }}
+            </div>
+            {{ end }}
+            {{ if .Summary }}
+            <p class="resource-summary">{{ .Summary }}</p>
+            {{ end }}
+        </article>
+        {{ end }}
+    </div>
+</div>
+
+<style>
+/* Keep existing site styling, just minor additions */
+.resources-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1.5rem;
+    margin: 2rem 0;
+}
+
+.resource-card {
+    background: var(--bg-white);
+    padding: 1.5rem;
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    transition: all 0.2s;
+}
+
+.resource-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+.resource-card h3 {
+    margin-top: 0;
+}
+
+.resource-meta {
+    margin: 0.5rem 0;
+    font-size: 0.9em;
+}
+
+.resource-meta .category {
+    color: var(--secondary-color);
+    font-weight: 600;
+}
+
+.resource-summary {
+    color: var(--text-light);
+    margin-bottom: 0;
+}
+</style>
+{{ end }}

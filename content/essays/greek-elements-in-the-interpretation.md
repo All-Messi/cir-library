@@ -1,0 +1,81 @@
+---
+author: Virgil Warren, PhD
+categories:
+- CHRISTIAN DOCTRINE 1
+- WOMEN'S STUDIES
+- Women's Studies Eph 5 21
+date: '2026-01-11'
+draft: false
+title: GREEK ELEMENTS IN THE INTERPRETATION
+weight: 999
+---
+
+GREEK ELEMENTS IN THE INTERPRETATION
+
+OF EPHESIANS 5:21
+
+editorial question					Ephesians 5:21
+
+Does “defer to one another in the fear of Christ” belong with the preceding or succeeding context?”
+
+The United Bible Society’s text of the Greek New Testament puts the injunction with the preceding material in the third edition, but with the succeeding context in the third edition (corrected). Grammatically the participle “submitting” parallels participles in the preceding two verses—participles that grammatically modify the subject of the finite verb in 5:18. A free-standing participle can be a command; but clear cases of that usage are infrequent in the New Testament (Mark 5:23; Romans 12:92, 10?, 11?, 123?, 132? 163?, 172?, 18, 19; 13:11; 1 Corinthians 8:24; Ephesians 5:21?; Titus 2:7; 1 Peter 2:18; 3:1). Moreover, nothing grammatical calls for invoking that usage in Ephesians 5:21 because of the parallel between “deferring” and the preceding participles of 5:19-20: “. . . speaking to one another . . . singing and making melody . . . giving thanks . . . deferring to one another . . .” Grammatically, “deferring” ties with the preceding flow of thought by being parallel to the three preceding participles.
+
+Conceptually, 5:18-21 forms a context for the household instruction in 5:22-6:9; but it forms a conceptual setting for the whole unit of household instruction, not just for the part that addresses marriage (21-33). Those particularly interested in getting away from a hierarchical element in marriage want to connect the sentence with what follows, but only the marriage part of what follows. That connecting seems to them to establish an egalitarian arrangement for the home since they also understand “one another” as full individual reciprocation (see below).
+
+However, making that connection grammatically and conceptually does not de-structure the home. For one thing, (a) structure and interpersonalism are not incompatible. Structure supplements specialized interpersonal situations like marriage, church, parenting; it does not preempt it. For another thing, (b) in this passage Paul’s obvious point is the very opposite of de-structuring—that is, anarchy in the technical sense: “nobody in charge.” That should be clear from his admonition to children to obey their parents, and the parenting section is equally part of this unit on household operation. This same issue Paul and other writers treat elsewhere, encouraging people in congregations to “obey” the ones that have the “rule” over them in the church (Hebrews 13:17, etc.).
+
+vocabulary							Ephesians 5:21
+
+ὑποτασσόμενοι ἀλλήλοις ἐν φόβῳ Χριστοῦ [hypotassomenoi allēlοis en phobōi Christou]
+
+(1) “Defer to one another.” [reciprocal between individuals]
+
+From the standpoint of vocabulary, “deference” could have two formats, one format in which (a) two persons do the same things to the other and another format in which (b) people in a group defer in one direction to certain others in the group.
+
+I                    	You
+
+(2) “Defer to one another.” [one-directional within a group]
+
+Christ
+
+X
+
+X                     X
+
+Interpreters have been trying to handle Ephesians 5:21 in the first format ever since the women’s rights issue became part of American cultural scene. In so doing, their idea has been to remove any essential distinctiveness of the husband-to-wife vs. the wife-to-husband relationship. We sympathize with the desire not to create more differences between the general culture (“the world”) and Christianity (“the church”) than is necessary, to avoid creating unnecessary hurdles for accepting the Christian faith and the truthfulness of the Bible. We can also sympathize with the concern to find a way of counteracting the abuse of male domination, chauvinism, and a condescending attitude toward wives and women. In fact, Paul seems to have that very concern in this section of Ephesians, because he gives commands to husbands and wives respectively that address the faults that each most often have toward the other. He commands husbands to love their wives, because husbands frequently sin by “running over” their wives. He commands wives to respect their husbands (but not vice versa here or elsewhere) because wives frequently sin by competing with their husbands.
+
+The first understanding of the reciprocal pronoun ends up meaning a purely interpersonal manner of operation between (a) husbands and wives, (b) parents and children, and (c) masters and slaves. There is a sense in which parents can “submit” to their children—by not discouraging them (Colossians 3:21). Masters could “submit” to slaves in not being hard on them (Ephesians 6:9). Husbands can “submit” to their wives in giving themselves for their spouses (Ephesians 5:25; cp. 1 Corinthians 7:1ff.). Christ “submitted” to the church in giving himself for it (Ephesians 5:25). In all four cases, we could say that attitudinally both sides of the relationship submit to each another as in, “Let each person consider the other better than himself.” While this last idea is true and, in fact, important to stress, it should be derived from Philippians 2:3-4 or perhaps Galatians 6:1-5 in connection with their subjects, not from Ephesians 5:21.
+
+The first format is appropriate in any circumstance as regards attitude, but in this context a person would not expect Paul to be referring only to attitude. In fact, he seems to do the opposite. He wants to prevent the disorder that comes when no one receives responsibility and others do not cooperate with assigned responsibility. (a) If 5:21 introduces the succeeding context, it should be understood in a way that applies to the whole section on household teaching. If so, the second arrangement would have parents submitting to their children (6:1-4), masters submitting to their slaves (6:5-9), and Christ submitting to his church (5:25-32) in the same sense that children, slaves, and Christians are to submit. While it is possible in an interpersonal sense for masters, husbands, and Christ to submit, they do not do so in the same sense that slaves, wives, and children submit.
+
+Furthermore, (b) the mutual submission mentality does not negate one-directional deference in order. One deals with attitude while the other deals with responsibility. Nothing about authority means proper attitude is forfeit. Authority derives from responsibility, which in turn derives from purpose. In the final analysis, the point of authority here is the very opposite of what people fear in it. The text assigns responsibility for the home, putting the onus on the husband rather than letting him do and act how he pleases without recourse from the other. As Paul tells masters to remember that they have a Master in heaven (Ephesians 6:9; Colossians 4:1), so also husbands are under the headship of Christ, whom they are to respect (Ephesians 5:21; 1 Corinthians 11:3).
+
+(c) There are other texts where ἀλλήλων (allēlōn) does not mean the kind of reciprocity involved in format #1 above. Revelation 6:4 is perhaps the clearest: “. . . that they should kill one another.” Devouring one another appears to be one-directional within a group (Galatians 6:15). Luke 12:1 speaks of the multitudes treading on one another. They probably did not take turns stepping on one another’s feet in a strictly reciprocal way. Children in the marketplace call to one another, “We piped to you and you did not dance; we wailed and you did not weep” (Luke 7:32). Matthew 24:10 speaks of “delivering one another up,” which would seem to be one-directional between individuals within people in a group. On several occasions, like in Luke 8:25, people in a crowd ask one another, “Who then is this, that commands even the wind and water and they obey him?” (= Mark 4:41; 8:16; 15:31; Luke 2:15; 4:36; 6:11; 8:15; 20:14; 24:32; John 4:33; 5:44; 6:52; 11:56; 16:17; 19:24; Acts 4:15-16; 26:31; 28:14). Acts 7:26 may be another example, depending on the particulars in the event: “Men, you are brothers. Why do you do wrong to one another?” (Two other reciprocal expressions in Greek are ἑαυτοῦ [heautou] and εἷς τὸν ἕνα [heis ton hena].)
+
+In cases of one-directional submitting within a group, an alternate translation may help express the concept better: “Submit yourselves ‘one to another.’”
+
+James 5:16 may be another example of “one-directional” use of ἀλλήλων [allēlōn], because the text has been talking about elders who have been called to heal someone. The healed man’s confession rather than the elders’ confession also may be the intended point, although in parallel to confession is prayer for one another. Of course, the prayer for one another may be the prayer of the elders for the sick man as the sick man’s confession is to the elders.
+
+Whether to take the first or second format of reciprocation depends on the kind of situation is at hand. In the case of domestic relations, order is not set aside. “Be servants to one another,” (Galatians 5:13) is an interesting case that could go either way.
+
+middle voice						Ephesians 5:21
+
+“Submit” [ὑποτασσόμενοι, hypotassomenoi] is middle voice; therefore, this is not male domination.
+
+Such a comment misses the point of the middle voice. Obviously male “domination” is not acceptable so as to be given an alternative here. By the nature of the case, deferring is something that is done by the person of lower “rank.” The significant thing is that Paul addresses the deferring one, not that, having decided to address the deferring one, he uses the middle voice. The verb is deponent in the New Testament; it is not used in the active voice so as to contrast with active voice.
+
+vocabulary							Ephesians 5:28
+
+“So husbands ought to love their wives ὡς τὰ ἑαυτῶν σώματα [hōs ta heautōn sōmata]”
+
+(1) “their wives as (they love) their own bodies.”
+
+(2) “their wives as-much-as (they love) their own bodies.”
+
+(3) “their wives in-the-same-way-as (they love) their own bodies.”
+
+(4) “their wives in-the-capacity-of their own bodies.”
+
+The second option falls outside the meanings of ὡς since the adverb is not one of quantity but of time, manner, or condition. Another take is that the husband should love his wife because she is his own body. This point is perhaps interesting, but rather afield from the meaning of “as.”
+
+christir.org

@@ -1,0 +1,33 @@
+---
+book: Luke
+chapter: 24
+prev: chapter-23
+title: Luke 24
+translation: WNT
+type: chapter
+weight: 24
+---
+
+## Luke Chapter 24
+
+<span class="verse" id="v1"><sup class="verse-num">1</sup> And on [the] (day) one of-the week during-early morning, they-went to the tomb, carrying what spices they-prepared. 2And they-found the stone rolled-away from the tomb, 3and having-entered, they-did┘not└find the body of-the Lord Jesus. 4And it-happened in [the] their being-perplexed about this, and/that two men stood-by them in dazzling clothes. 5And they, having-become fearful and bowingf the/their faces to the ground, they-said to themf, "Why are-you-looking-for the living with the dead? 6He-is not here, but he-arose. Remember when he-said to-you, being still in [the] Galilee, 7saying that it-is/was-necessary for-the Son of-[the] Man to-be-betrayed into (the) hands of-sinner[s] men, and to-be-crucified, and to-resurrect on-the third day." 8And they-remembered the words of-him. 9And having-returned from the tomb, they-reported all these-things to-the eleven and to-all the rest. 10And they-were Mary the Magdalene and Joanna and Mary the (mother/wife) of-James and the others with them. They-were-telling these-things to the apostles, 11and [the] these words appeared before them like idle-talk, and they-did┘not└believe them. 12And [the] Peter, getting-up, ran to the tomb, and, having-stooped-down, sees only the linen wrappings; and he-went-away, marveling┘to himself└at the-thing taken-place.</span>
+
+<span class="verse" id="v13"><sup class="verse-num">13</sup> And behold, two of them on the very day were traveling to (a) village being-away from Jerusalem sixty stades, (the) name to-which (was) Emmaus. 14And they were-talking to one-another about all [the] these-things come-about. 15And it-happened in [the] their talking and discussing, and/that Jesus himself, having-come-near, was-traveling-with them. 16But the eyes of-them were-being-held [the] to-recognizing him.</span>
+
+<span class="verse" id="v17"><sup class="verse-num">17</sup> And he-said to them, "What (are) [the] these words that you-are-exchanging with one-another, walking?" And they-stood-still, sad. 18And having-answered, one, Cleopas by-name, said to-him, "Are┘you└living-as-a-stranger-in Jerusalem and did┘not└know the-thing having-happened in it in [the] these days?"</span>
+
+<span class="verse" id="v19"><sup class="verse-num">19</sup> And he-said to-them, "What-kind-of-things?" "The-things about Jesus the Nazarene, who was (a) prophet man, able in work and word before [the] God and all the people, 20how the chief-priests and the rulers of-us both delivered him to condemnation of-death and crucified him. 21But we were-hoping that he is/was the-one going to-redeem [the] Israel. But also with all these-things, it-brings the third day from which these-things happened. 22But also some women of us amazed us, having-arrived early at the tomb, 23and not having-found the body of-him, they-came saying to-have-seen (a) vision of-angels who say him to-be-alive. 24And some of-the-ones with us went to the tomb and found (it) thus even-as the women said, but they-did┘not└see him."</span>
+
+<span class="verse" id="v25"><sup class="verse-num">25</sup> And he said to them, "O foolish and slow with-the heart [the] to-believe on all that the prophets said. 26Was-it┘not└necessary for-the Messiah to-suffer these-things and to-enter into the glory of-him?" 27And having-begun from Moses and from all the prophets, he-interpreted to-them in all the scriptures the-things about himself.</span>
+
+<span class="verse" id="v28"><sup class="verse-num">28</sup> And they-drew-near to the village where they-were-going, and he made to-go farther. 29And they-persuaded him, saying, "Stay with us because it-is toward evening and the day has┘already└drawn-to-a-close"; and he-went-in [the] to-stay with them. 30And it-happened in [the] his reclining-at-table with them, (that) having-taken the/a loaf, he-blessed (it) and having-broken (it), he-was-handing (it) to-them. 31And the eyes of-them were-opened-up, and they-recognized him, and he became invisible from them. 32And they-said to one-another, "Was not the heart of-us burning [in us]ms as he-was-speaking to-us on the road, as he-was-opening-up the scriptures to-us?" 33And getting-up, at-the very hour, they-returned to Jerusalem and found the elevenacc gathered and the-ones with them, 34sayingacc that the Lord really did-rise and appeared to-Simon. 35And they-were-recounting the-things on the road, how he-was-made-known to-them in the breaking of-[the] bread.</span>
+
+<span class="verse" id="v36"><sup class="verse-num">36</sup> And they saying these-things, he stood in (the) midst of-them, and says to-them, "Peace to-you." 37And having-been-startled and having become fearful, they-were-supposing (the) to-be-seeing (a) spirit. 38And he-said to-them, "Why are-you unsettled and on-account-of what are┘reasonings└arising in the heart of-you? 39See the hands of-me and the feet of-me that I am he. Feel me and see, because (a) spirit does┘not└have flesh and bones even-as you-see me having." 40And having-said this, he-showed them the/his hands and the/his feet.</span>
+
+<span class="verse" id="v41"><sup class="verse-num">41</sup> And still they unbelieving from [the] joy and marveling, he-said to-them, "Do-you-have any food here?" 42And the/they gave him (a) piece of-baked fish. 43And having-taken (it) in-front-of them, he-ate (it).</span>
+
+<span class="verse" id="v44"><sup class="verse-num">44</sup> And he-said to-them, "These (are) the words that I-spoke to-you, still being with you, that it-is-necessary for-all-the-things written in the Law of-Moses and the prophets and the Psalms to-be-fulfilled." 45Then he-opened-up the mind of-them to-understand the scriptures.</span>
+
+<span class="verse" id="v46"><sup class="verse-num">46</sup> And he-said to-them [that], "Thus it-is-written (that) the Messiah died and arose from (the) dead on-the third day. 47And repentance unto remission of-sins be-preached in the name of-him to all the nations, beginning from Jerusalem. 48You (are) witnesses of-these-things. 49And [behold]ms, I am-sending the promise of-the Father of-me upon you, but you stay in the city until2 you-are-clothed-with power from on-high."</span>
+
+<span class="verse" id="v50"><sup class="verse-num">50</sup> And he-led them outside as-far-as to Bethany and, having-lifted-up the hands of-him, be-blessed them. 51And it-happened in [the] his blessing them, (that) he-was-separated from them and was-being-carried-up into the sky. 52And they, having-worshipped him, returned into Jerusalem with great joy; 53and they-were through all/continually2 in the temple blessing [the] God.</span>

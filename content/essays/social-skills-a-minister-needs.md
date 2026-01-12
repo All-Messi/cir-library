@@ -1,0 +1,68 @@
+---
+author: Virgil Warren, PhD
+categories:
+- MINISTRY
+- Cm-101
+date: '2026-01-11'
+draft: false
+title: SOCIAL SKILLS A MINISTER NEEDS
+weight: 999
+---
+
+SOCIAL SKILLS A MINISTER NEEDS
+
+TO BE DEVELOPING
+
+I. Expressing caring
+
+Most of us are not as good as we could be at communicating to people that we care about them. We can use a number of techniques for expressing love. They include taking time to listen, to talk about seemingly purposeless things, to identify with people’s interests and problems, looking them in the eye– focusing on them, smiling, giving a firm handshake or a hug, using touch, doing something for them without being asked.
+
+Be discrete with the ladies in this matter of touching, however. They and other people may get the wrong impression; frankly you may get to meaning the wrong thing. Remember that in America same-sex hugging among men and cross-sex hugging is a newer social development. People in their late thirties and older are not nearly so likely to feel comfortable doing this as high school and college-age people are.
+
+A genuine smile is a most valuable tool to use in personal relationships and therefore in ministry because ministry operates through personal relationship. A smile says, “I am comfortable with myself in this situation and with you; I am not self-conscious.” A smile acknowledges the other person; it is outward directed. It communicates acceptance of him and an openness to him and invites him into your circle. It can bring a sense of relief to the tensions that often “weigh down” on people in their uncertainties. A smile is a universal salutation that is always appropriate. Obviously we are not taking about an effusive, embarrassed, shallow, or uneasy smile. It is a smile with the eyes and mouth, not just with the mouth. Learn to look people in the eye when the two of you are talking; you can do that more easily by smiling or having a pleasant expression on your face (of course, you do not want to “look a hole through” people).  When meeting new people, you can use a smile and good eye contact to create a connection between you.
+
+II. Meeting People
+
+An important part of ministry is being able to meet new people and to feel relatively natural in doing it. Meeting new people includes taking the initiative in meeting new people, not only being able to respond graciously to people who come to you or are introduced to you. Develop an inventory of salutations and responses to salutations. Do the same with typical questions that let the other person unfold himself to you: job, family, where raised, where live, hobbies, how long at this job, what got you interested in that, etc. As soon as the people leave, write down as much of it as you can remember and put the information in a file system designed for that very purpose.
+
+When children perform for a VBS program, for example, make a point of introducing yourself to the fathers of those children if they are not normally part of your congregation. Set the example for other church people in this matter of making visitors feel welcome at the church service, Sunday school class, Bible study, or church social.
+
+Meeting new people includes house-to-house visitation for the purpose of simply getting acquainted with the people in the neighborhood. Do not act as if you expect to be invited in. Take along something that introduces the church, its program, and its personnel. In smaller communities you can probably get around to every home once a year. Wanting to do something and enjoying doing it is tied to believing that you can do it reasonably well. Doing it reasonably well means practicing at it, and you have to start sometime.
+
+III. Relating Across Societal Differences
+
+Lack of education or money often has little to do with “spiritual savvy.” People from different walks of life have different things that are important to them and different things they are good at. Not everything has to be made into a moral concern. You do well to learn to feel comfortable around, and appreciate, people who like different kinds of music from what you like, who do not care for sports as much as you do, who like hobbies you see no point to, and so forth.
+
+Churches tend to shy away from the rich, the professional people, the community leaders probably because there is the expectation of greater disinterest in spiritual things. It may simply be a matter of our not feeling comfortable around the upper classes. In the long run, however, going to the leadership of the community can have greater effects because the rank and file people in the area tend to follow where the natural leaders of the community go. As a minister, you have a responsibility for setting the example in this practice.
+
+IV. Relating Intergenerationally
+
+You need to relate to every group in the church and community. This calls for deliberate decision because people naturally gravitate toward their own kind, their own age group, their own interest groups, etc. If you do not rise above this tendency, people outside your age group, interest group, etc., will think you are playing favorites.
+
+The differences between people are not only referenced to their different vocations or economic and educational levels but also to the life-span development. Young adults (18-30) are concerned with getting a job, looking for a career, wanting security; theirs is an exploratory stage. Middle adults (30-45) are in the midst of family rearing, career frustration and burnout; theirs is a time of re-evaluation, renewal, and change. The men are becoming more family centered while women are becoming more assertive. Later adults (45-60) are in the top corporate levels; so they are in a better financial position , have generally better stability as they head toward retirement. Aged (60-) are beginning to notice health problems. Theirs is a situation of greater threat and so their primary impulse is preservation and conservation of the past. They want free time and not too much demand on resources and time.
+
+Youth want to have their own culture and relate within their own generation. They have their own dress, music, language, pastimes, heroes, etc. A young person headed for ministry needs to understand that things all right in themselves will work against them in intergenerational circumstances and ministry is just such a circumstance. As regards yourself, then, learn to like older people as well as younger people, including kids. You are not ready for ministry if you are still having hang-ups with older people as authority figures that must resisted or with younger people as “little guys” that are beneath you. As regards your young people, if you are serving as a youth minister, help them cultivate relationships with adults.
+
+Senior citizens are an important group within the church that can be overlooked because they cannot always contribute a lot in service and finances. When you do something for them, however, they will appreciate it more than will any other group you serve. That affirmation of your ministry supplies you with an encouragement that is more beneficial to your ministry generally than you may realize. Much of your success in becoming a minister depends on your ability to live above your feelings. Finding people who affirm you in a healthy, genuine sense needs to be a conscious quest. Senior citizens are about the most likely group of people in which to find that source of encouragement. In order to tap into this source, you need to be able to take an interest in the slower, more restricted world in which they live and feel comfortable doing it. You will need to learn to identify with them in their aches and pains, their depression, their fears, their helplessness, their disappointment with grown children and grandchildren.
+
+V. Conversation
+
+Learn to express yourself verbally. You do not have to hog conversations, but the truth is that being quiet and shy-acting does not mix with being a leader. Most people feel somewhat restrained in talking to other people, but being non-verbal is as much a learned behavior as being verbal is. You will feel better about yourself if you start breaking our of verbal inhibitedness. Most of the time being non-verbal is only a habit; we have gotten into the habit of thinking without saying anything to anyone else about what we are thinking. People who talk more do not have more thoughts or better thoughts than you have. They have simply gotten into the habit of saying those thoughts more frequently. Asking questions is a natural way to begin breaking out of the non-verbal habit. Focusing on the feeling that you care about this other person will tend to free you up for verbal expression.
+
+When you talk, speak up. Of course, being a “loud mouth” is not the idea, because talking too loud for the situation indicates a dysfunctional insensitivity to what is appropriate. Being too timid verbally implies a tentativeness, a lack of self-confidence, a lack of having your thoughts together on the ideas you want to express. Formulate your idea and when you say it speak up.
+
+Be aware of propriety in subject matter. There are some things that we have to be sensitive about in conversation. For one thing, do not talk too freely about sexual matters in mixed situations or with the ladies. Teaching what God says on the subjects is a different thing from bringing them up for no reason. Doing the latter probably shows your preoccupation with sexual talk, which implies your own immaturity. People that are truly comfortable dealing with the full range of human matters do not have to be talking about it all the time. Overfamiliarity with people in terms of these topics makes them uncomfortable and usually comes off risqué. Telling shady stories and making suggestive comments does not make you “one of the boys”; it makes you like one of the boys.
+
+You do not need to talk about gross things. That gets the attention of junior high kids, but being uncouth reduces your influence among adults–and probably among the junior high kids too because even they know the difference between the way a kid acts and the way an adult acts. Matters like these are not just moral questions; they are cultural and developmental questions as well.
+
+VI. Manners
+
+Our culture has reduced the number of things it requires for people to be considered cultured. Nevertheless some things are still considered inexcusable. We are not as concerned as in former days about elbows on the table, but smacking your food and chewing with your mouth open are still unacceptable. Gulping down your meal and eating extreme amounts says something uncomplimentary about you. Table manners are important because people frequently invite the minister and his family out (or in) to eat with them. Get rid of audible “burps.” If you need to blow your nose, you do not need to make resonators out of your nasal passages.
+
+Learn to listen. Leadership is not telling. Having to be the teller and butting into other people’s presentations and statements is probably nothing more than pride or rudeness.
+
+VII. Relating to Fellow Ministers
+
+Help promote ways to get together with other ministers in town. You do not have to agree with them in all doctrinal points to relate to them in respectful, positive ways. Presence with them is not approval of their ideas, and accepting them does not imply accept everything they think. If you maintain association with them, you will have opportunity to influence them in the way of the Lord more perfectly. Most of the time shunning people you disagree with is simply a reflection of you inability to relate to people who are different from you. Using doctrinal differences as a reason for lack of association is probably an unconscious attempt to protect yourself against acknowledging this inadequacy. You are not working against them nor are they working against you. Both of you should be working for the Lord. Admittedly working separately is not as ideal as working unitedly, but it is better than working dividedly. The order of magnitude of difference between you and a Baptist or Methodist or Presbyterian should not be regarded as the same as that between you and a Muslim or a New Ager or Mooney. Consequently, you should not apply to (at least most) fellow ministers in town the biblical prohibitions against false teachers. These were Gnostics and Judaizers who sought to teach another way to salvation and another kind of salvation; they were denying that Jesus Christ was the only basis of relationship to God.
+
+You probably share the vast majority of Christian matters–at least the more central ones. This common ground legitimizes sharing some services together: Maundy Thursday, Good Friday, Easter Sunrise, New Years Eve, and Thanksgiving services, for example. You may be able to do some recreational things together on a personal basis. You will probably rotate with them in services at local senior citizen homes, in the chaplaincy program at local hospitals, in local radio programs, in ministerial alliances and their activities. View these as healthy opportunities rather than as compromise of convictions.

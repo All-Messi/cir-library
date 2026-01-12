@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
+    <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+    {{ block "head" . }}{{ end }}
+</head>
+<body>
+    <header class="site-header">
+        <div class="container">
+            <div class="header-content">
+                <div class="site-branding">
+                    <img src="{{ "images/cir-logo.png" | relURL }}" alt="CIR Logo" class="site-logo">
+                    <div class="site-title-group">
+                        <h1 class="site-title"><a href="{{ .Site.BaseURL }}">{{ .Site.Params.fullName }}</a></h1>
+                        <p class="site-tagline">Interpersonalism in Christian Theology</p>
+                    </div>
+                </div>
+                <nav class="main-nav">
+                    <ul>
+                        {{ range .Site.Menus.main }}
+                        <li><a href="{{ .URL }}" {{ if $.IsMenuCurrent "main" . }}class="active"{{ end }}>{{ .Name }}</a></li>
+                        {{ end }}
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <main class="site-main">
+        <div class="container">
+            {{ block "main" . }}{{ end }}
+        </div>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <div class="footer-branding">
+                <img src="{{ "images/cir-logo.png" | relURL }}" alt="CIR Logo" class="footer-logo">
+                <p><strong>Christian Internet Resources (CIR)</strong></p>
+            </div>
+            <p>&copy; {{ now.Year }} {{ .Site.Params.author }}. All rights reserved.</p>
+            <p class="footer-note">Free to use, reference, and circulate with source notations and logo.</p>
+        </div>
+    </footer>
+
+    <script src="{{ "js/main.js" | relURL }}"></script>
+    {{ block "scripts" . }}{{ end }}
+</body>
+</html>

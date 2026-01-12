@@ -1,0 +1,18 @@
+---
+book: 2 Peter
+chapter: 2
+next: chapter-03
+prev: chapter-01
+title: 2 Peter 2
+translation: WNT
+type: chapter
+weight: 2
+---
+
+## 2 Peter Chapter 2
+
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Now also false-prophets arose among the people as also false-teachers will-be among you, who will-under-false-pretenses-bring-in heresies of-destruction, denying the Master having-bought them, bringing-on themselves swift destruction.  2And many will-follow-after the sensualities of-them on-account-of whom the way of-[the] truth will-be-blasphemed/maligned.  3And in greed they-will-exploit you with-made-up words, for-whom the condemnation of-old is┘not└inactive and the destruction of-then does┘not└sleep.</span>
+
+<span class="verse" id="v4"><sup class="verse-num">4</sup> For if [the] God did┘not└spare angels having-sinned, but having-cast-(them)-into- Tartarus to-pits of-darkness being-held for condemnation, 5and did┘not└spare (the) ancient world, but kept Noah, (the) eighth, (a) preacher of-righteousness, having-brought (a) flood on-(the)-world of-(the) ungodly, 6and having-reduced-to-ashes (the) cities of Sodom and Gomorrah to-destruction, he condemned (them) to-destruction, having-set (them) (as an) example of-ones-going to-live-ungodly, 7and rescuing righteous Lot oppressed by the sensual conduct of-the unprincipled-ones in ungodliness, (8for by-what-he-saw and heard, the righteous-(man) living among them burdened (his) righteous soul with-(the)-lawless deeds (of-them) from day to day) 9(the) Lord knows to-deliver devout-ones from trial, and to-keep unrighteous-ones punished to (the) day of-judgment, 10and above-all the-ones going after flesh with (the) desire of-corruption and despising authority. Daring, self-willed, they-do┘not└tremble blaspheming/railing-at glories/dignitaries, 11whereas angels being greater in might and power do┘not└bring railing condemnation against them before (the) Lord.  12But these like unreasoning animals born (as) creatures for capture and ruin, blaspheming/railing in what-things they-are-ignorant in the ruining they-are-ruined, 13wronged (as) reward of wrong-doing, considering [the] reveling in (the) daytime (a) pleasure, (they are) stains and blemishes reveling in the deceptions of-them, carousing-with you, 14having eyes full of-adultery and unceasing-from sins, luring unstable souls, having (a) heart trained with-greed, accursed children, 15forsaking (the) right way, they-went-astray, following-after the way of-[the] Balaam, (son) of-[the] Beor, who loved (the) reward of-injustice, 16and he-had rebuke for his transgressions; (a) mute donkey speaking in (the) voice of-(a)-man restrained the madness of-the prophet.</span>
+
+<span class="verse" id="v17"><sup class="verse-num">17</sup> These are springs without-water and mists driven by wind, for/to-whom the blackness of-[the] darkness has-been-reserved.  18For speaking arrogant-things of-vanity, they lure with desires of-(the)-flesh the-ones barely escaping the-ones living in error; 19promising them freedom, they themselves being slaves of-[the] corruption, for by-what somebody has-been-overcome, by-this he-has-been enslaved.  20For if, escaping the defilements of-the world by (the) knowledge of-the Lord and Savior Jesus Christ, they-have-been-overcome by these again, the last-things have-happened to-them worse than-the first.  21For it-would-have-been better for-them not to-have-known the way of-[the] righteousness, than having-known (it) to-turn-away from the holy commandment delivered to-them.  22The proverb-of-[the] truth has-happened to-them:</span>

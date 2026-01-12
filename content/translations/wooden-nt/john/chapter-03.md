@@ -1,0 +1,26 @@
+---
+book: John
+chapter: 3
+next: chapter-04
+prev: chapter-02
+title: John 3
+translation: WNT
+type: chapter
+weight: 3
+---
+
+## John Chapter 3
+
+<span class="verse" id="v1"><sup class="verse-num">1</sup> And there-was (a) man of the Pharisees, Nicodemus name to-him, (a) ruler of-the Jews. 2This-one came to-him during–(the)-night, and said to-him, "Rabbi, we-know that you-have-come (as a) teacher from God, for nobody is-able to-do these [the] signs that you are-doing unless2 [the] God is with him."</span>
+
+<span class="verse" id="v3"><sup class="verse-num">3</sup> Jesus answered and said to-him, "Truly, truly, I-tell you, unless2 somebody is-born from-above/again, he-is┘not└able to-see the kingdom of-[the] God. 4[The] Nicodemus says to him, "How is┘(a) man└able to-be-born being (an) old-man? He-is┘not┘┘└able to-enter into the womb of-the mother of-him a-second-time and be-born, └└is-he?"</span>
+
+<span class="verse" id="v5"><sup class="verse-num">5</sup> Jesus answered, "Truly, truly, I-tell you, unless2 (a)-person is-born from water and spirit, he-is┘not└able to enter into the kingdom of-[the] God. 6The-thing born out-of the flesh is flesh, and the-thing born out-of the spirit is spirit. 7Do┘not└marvel that I-said to-you, 'It-is-necessary for youpl to-be-born again.' 8The wind blows wherever it-wants, and yousg hear the sound of-it, but you-do┘not└know whence it-comes or where it-goes. Thus is every the-one born of the spirit."</span>
+
+<span class="verse" id="v9"><sup class="verse-num">9</sup> Nicodemus answered and said to-him, "How are┘these-things└able to-happen?"</span>
+
+<span class="verse" id="v10"><sup class="verse-num">10</sup> Jesus answered and said to-him, "You are [the]/a teacher of-[the] Israel, and do┘not└know these-things? 11Truly, truly, I-tell you that we-are-talking-about what we-know, and we-are-testifying-about what we-have-seen, and you-are┘not└receiving the testimony of-us. 12If I-told youpl [the] earthly-things and youpl-do┘not└believe, how will-you-believe if I-tell you [the] heavenly-things? 13And nobody has-ascended into [the] heaven except2 the-one having-descended out-of [the] heaven, the Son of-[the] Man. 14And even-as Moses lifted-up the snake in the wilderness, so it-is-necessary for-the Son of-[the] Man to-be-lifted-up, 15in-order-that everybody [the] believing in him may-have eternal life. 16"For [the] God so/so-much loved the world that he-gave the only-begotten [the] Son, in-order-that everybody the-one believing in him may┘not└be-destroyed, but have eternal life. 17For [the] God did┘not└send the Son into the world in-order-that he-might-condemn the world, but in-order-that the world might-be-saved through him. 18The-one believing in him is┘not└condemned, but the-one not believing has-condemned-himself/has-been condemned already, because he-has┘not└believed in the name of-the only-begotten Son of-[the] God. 19And this is the condemnation: [that] [the] light has-come into the world, and [the] men loved [the] darkness rather than [the] light for the deeds of-them were evil. 20For everybody [the-one] doing vile-things hates [the] light and does┘not└come to the light lest2 the deeds of-him may-be-reproved. 21But the-one doing the truth comes to the light in-order-that the deeds of-him may-be-made-manifest that/because they-are worked in God."</span>
+
+<span class="verse" id="v22"><sup class="verse-num">22</sup> After these-things [the] Jesus and the disciples of-him went into the Judaea land, and he-was-staying there with them and was-baptizing. 23And [the] John was baptizing in/at Aenon near [the] Salem because much water/many waters were there, and they-were-coming and being-baptized. 24For [the] John was not yet cast into [the] prison. 25Then (a) controversy arose from the disciples of-John with (a) Jew about purification. 26And they-came to [the] John and said to-him, "Teacher, who was with you beyond the Jordan, to-whom you have-borne-testimony—behold, this-One is-baptizing and all are-coming to him."</span>
+
+<span class="verse" id="v27"><sup class="verse-num">27</sup> John answered and said, "(A) man is┘not└able to-receive even one-thing unless2 it-has-been given2 to-him from [the] heaven. 28You yourselves testify to-me that I-said [that], 'I am not the Messiah,' but [that] 'I-have-been-sent2 before him.' 29The-one having the bride is the groom; and friend of-the groom the-one having-stood and hearing him rejoices with-joy/greatly rejoices. 30It-is-necessary-for him to-increase, and me to-decrease. 31The-one coming from above is above all-things/people; the-one being from the earth is of the earth and speaks from the earth, but the-one coming from [the] heaven [is above all-things/people]ms. 32What he-has-seen and heard—this he testifies and nobody receives the testimony of-him. 33The-one having-received the testimony of-him marked-with-a-seal that [the] God is true. 34For whom [the] God sent speaks the words of-[the] God, for he-does┘not└give the spirit in/with measure. 35The Father loves the Son and has-put all-things in the hand of-him. 36The-one believing in the Son has eternal life; but the-one disbelieving the Son will┘not└see life, but the wrath of-[the] God remains on him."</span>
