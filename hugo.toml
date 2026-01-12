@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'https://all-messi.github.io/cir-library/'
 languageCode = 'en-us'
 title = 'Christian Internet Resources'
 theme = 'scholarly'

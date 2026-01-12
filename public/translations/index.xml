@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Translations on Christian Internet Resources</title>
-    <link>http://localhost:1313/translations/</link>
+    <link>http://localhost:1313/cir-library/translations/</link>
     <description>Recent content in Translations on Christian Internet Resources</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/translations/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/cir-library/translations/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

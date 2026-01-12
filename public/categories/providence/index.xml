@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PROVIDENCE on Christian Internet Resources</title>
-    <link>http://localhost:1313/categories/providence/</link>
+    <link>http://localhost:1313/cir-library/categories/providence/</link>
     <description>Recent content in PROVIDENCE on Christian Internet Resources</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/providence/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/cir-library/categories/providence/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>THINKING ABOUT GOD’S WILL</title>
-      <link>http://localhost:1313/essays/thinking-about-gods-will/</link>
+      <link>http://localhost:1313/cir-library/essays/thinking-about-gods-will/</link>
       <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/essays/thinking-about-gods-will/</guid>
+      <guid>http://localhost:1313/cir-library/essays/thinking-about-gods-will/</guid>
       <description>&lt;p&gt;THINKING ABOUT GOD’S WILL&lt;/p&gt;&#xA;&lt;p&gt;Asking whether something that happened was God’s will, depends on what the question means. There are two possibilities:&lt;/p&gt;&#xA;&lt;p&gt;what God causes/what he makes happen (prescriptive will) and&lt;/p&gt;&#xA;&lt;p&gt;what he allows to happen (permissive will).&lt;/p&gt;&#xA;&lt;p&gt;What he causes starts with him; he initiates it.&lt;/p&gt;&#xA;&lt;p&gt;What he allows starts outside of him; something/someone else initiates it.&lt;/p&gt;&#xA;&lt;p&gt;There is also a difference between supernatural intervention and natural cause. In the first case, God directly does what occurs; in the second case, he allows built-in laws to carry things forward; he is working “indirectly.”&lt;/p&gt;</description>
     </item>
   </channel>

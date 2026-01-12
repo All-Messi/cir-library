@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PRIME PASSAGES on Christian Internet Resources</title>
-    <link>http://localhost:1313/categories/prime-passages/</link>
+    <link>http://localhost:1313/cir-library/categories/prime-passages/</link>
     <description>Recent content in PRIME PASSAGES on Christian Internet Resources</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/prime-passages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/cir-library/categories/prime-passages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PRIME PASSAGES</title>
-      <link>http://localhost:1313/essays/prime-passages/</link>
+      <link>http://localhost:1313/cir-library/essays/prime-passages/</link>
       <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/essays/prime-passages/</guid>
+      <guid>http://localhost:1313/cir-library/essays/prime-passages/</guid>
       <description>&lt;p&gt;PRIME PASSAGES&lt;/p&gt;&#xA;&lt;p&gt;Genesis 3:20: “He named his wife Eve because she was the mother of all living.” Evolution&lt;/p&gt;&#xA;&lt;p&gt;pictures descent as a group process instead of something that derives from one&lt;/p&gt;&#xA;&lt;p&gt;pair of individuals.&lt;/p&gt;&#xA;&lt;p&gt;Genesis 3:22: “Man has become like one of us.” Trinity in the Old Testament.&lt;/p&gt;&#xA;&lt;p&gt;Cp. also Isaiah 6:8.&lt;/p&gt;&#xA;&lt;p&gt;Exodus 3:14: God’s self-existence (aseity). “I am because I am.” He is independent being; there&lt;/p&gt;&#xA;&lt;p&gt;is no higher frame of reference than God.&lt;/p&gt;</description>
     </item>
   </channel>

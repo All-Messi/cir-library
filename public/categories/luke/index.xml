@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LUKE on Christian Internet Resources</title>
-    <link>http://localhost:1313/categories/luke/</link>
+    <link>http://localhost:1313/cir-library/categories/luke/</link>
     <description>Recent content in LUKE on Christian Internet Resources</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/luke/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/cir-library/categories/luke/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PECULIARITIES OF LUKE</title>
-      <link>http://localhost:1313/essays/peculiarities-of-luke/</link>
+      <link>http://localhost:1313/cir-library/essays/peculiarities-of-luke/</link>
       <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/essays/peculiarities-of-luke/</guid>
+      <guid>http://localhost:1313/cir-library/essays/peculiarities-of-luke/</guid>
       <description>&lt;p&gt;PECULIARITIES OF LUKE&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Indicates most noticeably the prayer life of Jesus&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;pre&gt;&lt;code&gt; More attention given to women involved in the life and ministry of Jesus, which could fit&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;with writing from Mary’s viewpoint&lt;/p&gt;&#xA;&lt;ol start=&#34;3&#34;&gt;&#xA;&lt;li&gt;&#xA;&lt;pre&gt;&lt;code&gt; The infancy narrative and some other materials are written from Mary’s viewpoint.&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;pre&gt;&lt;code&gt; Contains a section of “new material” in 10:1-18:14&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Speaks of two angels rather than one:  Luke 24:4 ( = Matthew 28:2; Mark 16:5)&lt;/p&gt;</description>
     </item>
   </channel>
