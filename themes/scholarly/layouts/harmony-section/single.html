@@ -1,0 +1,68 @@
+{{ define "main" }}
+<div class="harmony-section">
+    <!-- Sticky Navigation -->
+    <div class="harmony-sticky-nav">
+        <div class="harmony-nav-inner">
+            <a href="{{ "translations/harmony/" | absURL }}" class="harmony-back">← Outline</a>
+            
+            <select class="harmony-dropdown" id="topic-dropdown">
+                <option value="">Jump to a topic...</option>
+                {{ $currentPage := .File.Path }}
+                {{ range $.Site.Data.harmony_topics }}
+                <option value="{{ .url }}">{{ .title }}{{ if .ref }} ({{ .ref }}){{ end }}</option>
+                {{ end }}
+            </select>
+            
+            <div class="harmony-legend-mini">
+                <span class="gospel-mt">Mt</span>
+                <span class="gospel-mk">Mk</span>
+                <span class="gospel-lk">Lk</span>
+                <span class="gospel-jn">Jn</span>
+            </div>
+        </div>
+    </div>
+
+    <header class="page-header harmony-header">
+        <h1>{{ .Title }}</h1>
+        <p class="section-reference">{{ .Params.reference }}</p>
+    </header>
+
+    <!-- Full Color Legend -->
+    <div class="harmony-legend">
+        <span class="gospel-mt">Matthew</span>
+        <span class="gospel-mk">Mark</span>
+        <span class="gospel-lk">Luke</span>
+        <span class="gospel-jn">John</span>
+    </div>
+
+    <!-- Main Content -->
+    <div class="harmony-content">
+        {{ .Content }}
+    </div>
+
+    <!-- Bottom Navigation -->
+    <div class="harmony-section-nav">
+        {{ if .Params.prev }}
+        <a href="{{ .Params.prev }}/" class="nav-prev">← Previous</a>
+        {{ else }}
+        <span class="nav-placeholder"></span>
+        {{ end }}
+        
+        <a href="{{ "translations/harmony/" | absURL }}" class="nav-outline">Outline</a>
+        
+        {{ if .Params.next }}
+        <a href="{{ .Params.next }}/" class="nav-next">Next →</a>
+        {{ else }}
+        <span class="nav-placeholder"></span>
+        {{ end }}
+    </div>
+</div>
+
+<script>
+document.getElementById('topic-dropdown').addEventListener('change', function() {
+    if (this.value) {
+        window.location.href = '{{ "translations/harmony/" | absURL }}' + this.value;
+    }
+});
+</script>
+{{ end }}

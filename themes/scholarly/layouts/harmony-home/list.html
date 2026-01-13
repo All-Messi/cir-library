@@ -1,0 +1,129 @@
+{{ define "main" }}
+<div class="harmony-home">
+    <header class="page-header">
+        <h1>{{ .Title }}</h1>
+        <p class="translator-credit">Compiled by {{ .Params.translator }}</p>
+    </header>
+
+    <!-- Color Legend -->
+    <div class="harmony-legend">
+        <span class="gospel-mt">Matthew</span>
+        <span class="gospel-mk">Mark</span>
+        <span class="gospel-lk">Luke</span>
+        <span class="gospel-jn">John</span>
+    </div>
+
+    <!-- Topic Dropdown -->
+    <div class="harmony-nav-home">
+        <select class="harmony-dropdown" id="topic-dropdown-home">
+            <option value="">Jump to a topic...</option>
+            {{ range $.Site.Data.harmony_topics }}
+            <option value="{{ .url }}">{{ .title }}{{ if .ref }} ({{ .ref }}){{ end }}</option>
+            {{ end }}
+        </select>
+    </div>
+
+    <!-- Main Content (intro + topics) -->
+    <div class="harmony-home-content">
+        {{ .Content }}
+    </div>
+</div>
+
+<script>
+document.getElementById('topic-dropdown-home').addEventListener('change', function() {
+    if (this.value) {
+        window.location.href = '{{ "translations/harmony/" | absURL }}' + this.value;
+    }
+});
+</script>
+
+<style>
+.harmony-home-content {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.harmony-nav-home {
+    max-width: 500px;
+    margin: 1.5rem auto;
+}
+
+.harmony-nav-home .harmony-dropdown {
+    width: 100%;
+    padding: 0.75rem 1rem;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+}
+
+.harmony-home-content h2 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    color: var(--primary-color);
+}
+
+.harmony-intro {
+    font-size: 1.1rem;
+    line-height: 1.7;
+    color: #4a4a4a;
+    margin-bottom: 1.5rem;
+    padding: 1rem;
+    background: #f8f5f0;
+    border-radius: 8px;
+}
+
+.harmony-start {
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.harmony-start .btn-primary {
+    display: inline-block;
+    padding: 1rem 2rem;
+    background: var(--primary-color, #8b6914);
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+.harmony-start .btn-primary:hover {
+    background: #6d5310;
+}
+
+/* Compact topics grid */
+.harmony-topics-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 0.5rem;
+}
+
+.harmony-topics-grid .topic-link {
+    display: block;
+    padding: 0.5rem 0.75rem;
+    text-decoration: none;
+    color: #2c3e50;
+    border-bottom: 1px solid #eee;
+    font-size: 0.95rem;
+    transition: background 0.2s;
+}
+
+.harmony-topics-grid .topic-link:hover {
+    background: #f8f5f0;
+    color: var(--primary-color, #8b6914);
+}
+
+.harmony-topics-grid .ref {
+    color: #888;
+    font-size: 0.8rem;
+    font-style: italic;
+}
+
+@media (max-width: 600px) {
+    .harmony-topics-grid {
+        grid-template-columns: 1fr;
+    }
+}
+</style>
+{{ end }}

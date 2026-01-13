@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tithing on Christian Internet Resources</title>
-    <link>http://localhost:61882/cir-library/categories/tithing/</link>
+    <link>http://localhost:61779/cir-library/categories/tithing/</link>
     <description>Recent content in Tithing on Christian Internet Resources</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:61882/cir-library/categories/tithing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:61779/cir-library/categories/tithing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hi Dad,</title>
-      <link>http://localhost:61882/cir-library/essays/hi-dad/</link>
+      <link>http://localhost:61779/cir-library/essays/hi-dad/</link>
       <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:61882/cir-library/essays/hi-dad/</guid>
+      <guid>http://localhost:61779/cir-library/essays/hi-dad/</guid>
       <description>&lt;p&gt;Hi Dad,&lt;/p&gt;&#xA;&lt;p&gt;This is the conversation thread that Barry, Jack, and I had.  To get the best flow, start at the bottom and read upward.  I realize you&amp;rsquo;ve got a lot on your mind before you leave, so you don&amp;rsquo;t have to bother with it until you get back, if you would rather.  I&amp;rsquo;m not in a hurry.&lt;/p&gt;&#xA;&lt;p&gt;It would be nice to know if there&amp;rsquo;s anything I said that aren&amp;rsquo;t consistent with what the Bible says, so that I can get a better grasp on it.  So don&amp;rsquo;t shy away from letting me know.  :-)&lt;/p&gt;</description>
     </item>
   </channel>
