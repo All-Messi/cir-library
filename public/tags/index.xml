@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Christian Internet Resources</title>
-    <link>https://all-messi.github.io/cir-library/tags/</link>
+    <link>http://localhost:1313/cir-library/tags/</link>
     <description>Recent content in Tags on Christian Internet Resources</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 08 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://all-messi.github.io/cir-library/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/cir-library/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1 John</title>
-      <link>https://all-messi.github.io/cir-library/tags/1-john/</link>
+      <link>http://localhost:1313/cir-library/tags/1-john/</link>
       <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://all-messi.github.io/cir-library/tags/1-john/</guid>
+      <guid>http://localhost:1313/cir-library/tags/1-john/</guid>
       <description></description>
     </item>
     <item>
       <title>Agape</title>
-      <link>https://all-messi.github.io/cir-library/tags/agape/</link>
+      <link>http://localhost:1313/cir-library/tags/agape/</link>
       <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://all-messi.github.io/cir-library/tags/agape/</guid>
+      <guid>http://localhost:1313/cir-library/tags/agape/</guid>
       <description></description>
     </item>
     <item>
       <title>Biblical Languages</title>
-      <link>https://all-messi.github.io/cir-library/tags/biblical-languages/</link>
+      <link>http://localhost:1313/cir-library/tags/biblical-languages/</link>
       <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://all-messi.github.io/cir-library/tags/biblical-languages/</guid>
+      <guid>http://localhost:1313/cir-library/tags/biblical-languages/</guid>
       <description></description>
     </item>
     <item>
       <title>Grace</title>
-      <link>https://all-messi.github.io/cir-library/tags/grace/</link>
+      <link>http://localhost:1313/cir-library/tags/grace/</link>
       <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://all-messi.github.io/cir-library/tags/grace/</guid>
+      <guid>http://localhost:1313/cir-library/tags/grace/</guid>
       <description></description>
     </item>
     <item>
       <title>Love</title>
-      <link>https://all-messi.github.io/cir-library/tags/love/</link>
+      <link>http://localhost:1313/cir-library/tags/love/</link>
       <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://all-messi.github.io/cir-library/tags/love/</guid>
+      <guid>http://localhost:1313/cir-library/tags/love/</guid>
       <description></description>
     </item>
     <item>
       <title>Salvation</title>
-      <link>https://all-messi.github.io/cir-library/tags/salvation/</link>
+      <link>http://localhost:1313/cir-library/tags/salvation/</link>
       <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://all-messi.github.io/cir-library/tags/salvation/</guid>
+      <guid>http://localhost:1313/cir-library/tags/salvation/</guid>
       <description></description>
     </item>
     <item>
       <title>Short Answers</title>
-      <link>https://all-messi.github.io/cir-library/tags/short-answers/</link>
+      <link>http://localhost:1313/cir-library/tags/short-answers/</link>
       <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://all-messi.github.io/cir-library/tags/short-answers/</guid>
+      <guid>http://localhost:1313/cir-library/tags/short-answers/</guid>
       <description></description>
     </item>
   </channel>

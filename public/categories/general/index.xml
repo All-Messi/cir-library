@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>General on Christian Internet Resources</title>
-    <link>https://all-messi.github.io/cir-library/categories/general/</link>
+    <link>http://localhost:58357/cir-library/categories/general/</link>
     <description>Recent content in General on Christian Internet Resources</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://all-messi.github.io/cir-library/categories/general/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:58357/cir-library/categories/general/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GLOSSARY OF COMMUNICATION-RELATED TERMS</title>
-      <link>https://all-messi.github.io/cir-library/essays/glossary-of-communication-related-terms/</link>
+      <link>http://localhost:58357/cir-library/essays/glossary-of-communication-related-terms/</link>
       <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://all-messi.github.io/cir-library/essays/glossary-of-communication-related-terms/</guid>
+      <guid>http://localhost:58357/cir-library/essays/glossary-of-communication-related-terms/</guid>
       <description>&lt;p&gt;GLOSSARY OF COMMUNICATION-RELATED TERMS&lt;/p&gt;&#xA;&lt;p&gt;The Glossary of Communication-Related Terms describes terms and expressions used with language structure, usage, and writing. It highlights biblical and theological studies, hence, the numerous references to Greek, Latin, English, Hebrew, and Aramaic. Usages beyond these languages exist, of course, but they do not usually appear in these entries. This subject has fuzzy edges because language itself bleeds across into content—into the surrounding that it is used to talk about; besides, truth itself is holistic. Language, oral and written, involves linguistics, hermeneutics; specific languages like English, Greek, Latin, and Hebrew and their grammars; some issues in New and Old Testament textual criticism; rhetoric, and writing. With such a breadth of interest, the material presented stretches at times in the direction of an encyclopedia.&lt;/p&gt;</description>
     </item>
     <item>
       <title>GREEK ANALYSIS PLUS WOODEN TRANSLATION</title>
-      <link>https://all-messi.github.io/cir-library/essays/greek-analysis-plus-wooden-translation/</link>
+      <link>http://localhost:58357/cir-library/essays/greek-analysis-plus-wooden-translation/</link>
       <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://all-messi.github.io/cir-library/essays/greek-analysis-plus-wooden-translation/</guid>
+      <guid>http://localhost:58357/cir-library/essays/greek-analysis-plus-wooden-translation/</guid>
       <description>&lt;p&gt;GREEK ANALYSIS PLUS WOODEN TRANSLATION&lt;/p&gt;&#xA;&lt;p&gt;Matthew 26&lt;/p&gt;&#xA;&lt;p&gt;S&#x9;  3sg impf mid ind     adv&#x9;         O P       cconj    3sg aor act ind       seq D&#x9;        S&lt;/p&gt;&#xA;&lt;p&gt;69 Ὁ δὲ Πέτρος ἐκάθητο       ἔξω    ἐν τῇ αὐλῇ·  καὶ  προσῆλθεν   αὐτῷ   μία πραιδίσκη&lt;/p&gt;&#xA;&lt;p&gt;κάθημαι&#x9;                       αὐλή&#x9;  προσέρχομαι     αὐτός     εἷς        dict&lt;/p&gt;&#xA;&lt;p&gt;And (the) Peter sat-down outside in the courtyard and a servant-girl came-to him,&lt;/p&gt;&#xA;&lt;p&gt;Νfem sg pres act ptc&#x9;    adv&#x9;S   2sg impf mid ind                   O P                     app/subs adj&lt;/p&gt;</description>
     </item>
   </channel>

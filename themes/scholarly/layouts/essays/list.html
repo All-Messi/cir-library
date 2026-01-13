@@ -5,15 +5,18 @@
         <p>Theological writings organized by topic and category</p>
     </header>
 
-    <div class="filters">
-        <div class="filter-group">
-            <h3>Categories</h3>
-            <ul>
-                {{ range .Site.Taxonomies.categories }}
-                <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }} ({{ .Count }})</a></li>
-                {{ end }}
-            </ul>
+    <div class="categories-preview">
+        <h3>Categories</h3>
+        <div class="category-tags">
+            {{ $count := 0 }}
+            {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+            {{ if lt $count 20 }}
+            <a href="{{ "/categories/" | absURL }}{{ $name | urlize }}/" class="category-tag">{{ $name }} ({{ len $taxonomy }})</a>
+            {{ $count = add $count 1 }}
+            {{ end }}
+            {{ end }}
         </div>
+        <a href="{{ "categories/" | absURL }}" class="btn-secondary">Browse All Categories →</a>
     </div>
 
     <div class="essays-grid">
@@ -35,4 +38,38 @@
         {{ end }}
     </div>
 </div>
+
+<style>
+.categories-preview {
+    background: #f8f9fa;
+    padding: 1.5rem;
+    border-radius: 8px;
+    margin-bottom: 2rem;
+}
+.categories-preview h3 {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+.category-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+    max-height: 100px;
+    overflow: hidden;
+}
+.category-tag {
+    background: white;
+    padding: 0.25rem 0.75rem;
+    border-radius: 4px;
+    text-decoration: none;
+    font-size: 0.9rem;
+    border: 1px solid #ddd;
+    color: var(--primary-color);
+}
+.category-tag:hover {
+    background: var(--primary-color);
+    color: white;
+}
+</style>
 {{ end }}

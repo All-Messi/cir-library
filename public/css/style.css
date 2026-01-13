@@ -1440,3 +1440,76 @@ blockquote {
 .search-submit:hover {
     background: var(--primary-color);
 }
+
+/* About Author Section */
+.about-author-section {
+    display: flex;
+    gap: 2rem;
+    margin-bottom: 2rem;
+    align-items: flex-start;
+}
+.author-text {
+    flex: 1;
+}
+.author-image img {
+    width: 300px;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+@media (max-width: 768px) {
+    .about-author-section {
+        flex-direction: column-reverse;
+    }
+    .author-image img {
+        width: 100%;
+        max-width: 300px;
+    }
+}
+
+/* Fix nested list bullets on About page */
+.single-content ul {
+    list-style-type: disc;
+    margin-left: 1.5rem;
+}
+.single-content ul ul {
+    list-style-type: circle;
+    margin-left: 1.5rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+.single-content ul li {
+    margin-bottom: 0.3rem;
+}
+
+/* Fix nested list bullets on About page */
+.content ul {
+    list-style-type: disc;
+    margin-left: 1.5rem;
+    padding-left: 1rem;
+}
+.content ul ul {
+    list-style-type: circle;
+    margin-left: 1.5rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+.content ul li {
+    margin-bottom: 0.5rem;
+}
+
+/* Fix nested list bullets on About page */
+.content ul {
+    list-style-type: disc;
+    margin-left: 1.5rem;
+    padding-left: 1rem;
+}
+.content ul ul {
+    list-style-type: circle;
+    margin-left: 1.5rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+.content ul li {
+    margin-bottom: 0.5rem;
+}
