@@ -4,7 +4,7 @@ categories:
 - CHRISTIAN DOCTRINE 1
 - MANKIND (anthropology)
 - THE NATURE OF MAN  (book)
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: PRIMARY EVIDENCE FOR THE IMAGE
 weight: 999

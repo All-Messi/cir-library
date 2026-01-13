@@ -4,7 +4,7 @@ categories:
 - EVIDENCES
 - CRITICAL INTRO, New Testament
 - 1 2 3 JOHN
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: CRITICAL INTRODUCTION TO 2 JOHN
 weight: 38

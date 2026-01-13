@@ -4,7 +4,7 @@ categories:
 - INTERPERSONALISM
 - IP IMPACT ON TOPICS
 - UNITY Christian and IP
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: 'Central to Less Central: An Interpersonal Format'
 weight: 999

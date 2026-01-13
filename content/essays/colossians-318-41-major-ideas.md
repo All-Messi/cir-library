@@ -3,7 +3,7 @@ author: Virgil Warren, PhD
 categories:
 - Book Studies
 - Colossians
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: 'COLOSSIANS 3:18-4:1:  MAJOR IDEAS'
 weight: 999

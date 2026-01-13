@@ -4,7 +4,7 @@ categories:
 - CHRISTIAN DOCTRINE 1
 - HOLY SPIRIT (pneumatology)
 - Speaking in Languages TONGUE SPEAKING
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: "D. \tApplying tests to contemporary claims of speaking in languages (“tongues\
   \ speaking”)"

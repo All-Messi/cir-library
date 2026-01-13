@@ -4,7 +4,7 @@ categories:
 - EVIDENCES
 - CRITICAL INTRO, New Testament
 - Acts
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: PLACE OF ACTS IN THE NEW TESTAMENT
 weight: 13

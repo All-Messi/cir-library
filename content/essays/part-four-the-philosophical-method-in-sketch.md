@@ -3,7 +3,7 @@ author: Virgil Warren, PhD
 categories:
 - EVIDENCES
 - APOLOGETICS (book)
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: 'PART FOUR: THE PHILOSOPHICAL METHOD IN SKETCH'
 weight: 999

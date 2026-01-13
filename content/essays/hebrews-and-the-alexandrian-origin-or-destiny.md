@@ -4,7 +4,7 @@ categories:
 - EVIDENCES
 - CRITICAL INTRO, New Testament
 - HEBREWS
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: HEBREWS AND THE ALEXANDRIAN ORIGIN OR DESTINY
 weight: 31

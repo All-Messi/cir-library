@@ -4,7 +4,7 @@ author: "I. Setting the conclusion and then working toward it\t             Virg
 categories:
 - INTERPRETATION
 - INTERPRETATION--GETTING THE POINT book
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: "I. Setting the conclusion and then working toward it\t             Virgil\
   \ Warren, PhD"

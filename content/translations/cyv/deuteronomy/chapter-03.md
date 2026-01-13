@@ -1,0 +1,16 @@
+---
+book: Deuteronomy
+chapter: 3
+next: chapter-04
+prev: chapter-02
+title: Deuteronomy 3
+translation: CYV
+type: chapter
+weight: 3
+---
+
+## Deuteronomy Chapter 3
+
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Then we turned and went up the highway to Bashan. Og king of Bashan and his people came out to battle at Edrei. 2But Yahveh told me, 'Don't be afraid of him. I'll deliver him, his people, and his land to you. Do what you did to Sihon.' 3He delivered Og and his people to us. We didn't leave any survivors. 4"We captured all 60 of Og's towns, the whole region of Argob, his kingdom in Bashan. 5They were fortified towns with high walls, gates, and bars—besides a great many country villages.  6We destroyed them—men, women, and children—in every city, 7and took the animals and the spoil. 8We took the land of two Amorite kings east of the Jordan from Wadi Arnon to Mount Hermon. [9Sidonians call Hermon Sirion; the Amorites call it Senir.] 10We took all the towns on the plateau, all Gilead and Bashan as far as Salecah and Edrei. [11Og was the only Rephaim left. He had an iron bed 6 x 13½ft. It's in Rabbah with the descendants of Ammon.] Division of the Land East of the Jordan 12"We took over that land. I gave Reuben and Gad the territory from Aroer by Wadi Arnon and half the hill country of Gilead and its towns. 13The rest of Gilead and all Bashan I gave to the Manasseh half-tribe—the whole region of Argob. [All Bashan is called The Land of Rephaim. 14Jair Ben-Manasseh took the whole region of Argob as far as the border of the Geshurites and the Maacathites. He called Bashan by his own name. It's still Havvoth-jair.] 15I gave Gilead to Machir. 16I gave Reuben and Gad the territory from Gilead to the middle of the Arnon valley. Their territory continued to Wadi Jabbok, the border of the Ammonites. 17I also gave them the Arabah, with the Jordan for a border from Chinnereth to the Sea of Arabah [the Dead Sea] at the foot of Pisgah to the east. 18"I told you at that time, 'Yahveh your God has given you this land. You trained soldiers, cross over armed, with your relatives, the people of Israel. 19Your wives, little ones, and livestock—I know you have lots of livestock—can stay in the towns I've given you. 20Stay there till Yahveh gives your fellow citizens peace like he's given you, and they take over the land west of the Jordan. Then you can go back to your possession.' Moses Forbidden to Cross the Jordan</span>
+
+<span class="verse" id="v21"><sup class="verse-num">21</sup> I told Joshua, 'You saw what Yahveh did to those two kings. That's what he'll do to all the kingdoms you invade. 22Don't be afraid of them. He'll fight for you.' 23"I also pleaded with Yahveh, 24'You've begun to show me how great and strong you are. What God is there in the sky or on earth that can demonstrate such power? 25Let me cross over and see the fair land beyond the Jordan, the good hill country and Lebanon.' 26But he was angry with me out of regard for you. 'That's enough! Don't bring it up again. 27Go to the top of Pisgah and look in every direction. You're not going to cross the Jordan. 28Commission Joshua, encourage him and strengthen him. He'll lead the people across and give them the land you'll see.' 29We stayed in the valley across from Beth-peor. Moses Commands Israel to Obey</span>

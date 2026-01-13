@@ -1,0 +1,48 @@
+---
+book: Isaiah
+chapter: 24
+next: chapter-25
+prev: chapter-23
+title: Isaiah 24
+translation: CYV
+type: chapter
+weight: 24
+---
+
+## Isaiah Chapter 24
+
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Yahveh is laying the earth waste, defacing its surface, scattering its residents. 2People and priests, servants and masters, maids and mistresses, buyers and sellers, lenders and borrowers, creditors and debtors—everyone will be affected. 3The earth will be completely despoiled because Yahveh said so. 4The earth withers, and its people waste away, even its high-ranking ones, 5because they've polluted it by sinning against God's laws, statutes, and everlasting covenant. 6So a curse devastates the earth, and its people have to pay for their guilt. They're burned; there aren't many left.</span>
+
+<span class="verse" id="v7"><sup class="verse-num">7</sup> There's no new wine to drink; the grapevines have dried up; the light-hearted sigh.</span>
+
+<span class="verse" id="v8"><sup class="verse-num">8</sup> Celebrating with tambourines has stopped; the noise from revelers has ceased; happiness with harps has disappeared.</span>
+
+<span class="verse" id="v9"><sup class="verse-num">9</sup> They don't drink wine and sing; alcohol tastes bitter.</span>
+
+<span class="verse" id="v10"><sup class="verse-num">10</sup> The city in chaos has broken-down walls; its houses are boarded up to keep intruders out.</span>
+
+<span class="verse" id="v11"><sup class="verse-num">11</sup> Stragglers in the streets holler for wine; joy has turned to gloom; happiness has vanished.</span>
+
+<span class="verse" id="v12"><sup class="verse-num">12</sup> The city's in ruins; its gates are battered down.</span>
+
+<span class="verse" id="v13"><sup class="verse-num">13</sup> That's the way it is in the rural areas too— as when they shake the olive tree or glean for grapes.</span>
+
+<span class="verse" id="v14"><sup class="verse-num">14</sup> But a few raise their voices and shout for joy; they shout from the west about the majesty of Yahveh.</span>
+
+<span class="verse" id="v15"><sup class="verse-num">15</sup> So honor him in the east, the God of Israel in lands beyond the sea.</span>
+
+<span class="verse" id="v16"><sup class="verse-num">16</sup> In the distance we hear singing, "Honor to the Righteous One." But I say, "Misfortune awaits me! Misfortune awaits me! The devious deal deviously, so deviously!"</span>
+
+<span class="verse" id="v17"><sup class="verse-num">17</sup> Terror, pit, and snare threaten you, people of the earth;</span>
+
+<span class="verse" id="v18"><sup class="verse-num">18</sup> the one that runs from terror falls into a pit; the one that climbs out of the pit gets caught in a snare.					Is 24:17-18a The windows in the sky rain down destruction; the foundations of the earth quake.</span>
+
+<span class="verse" id="v19"><sup class="verse-num">19</sup> The earth breaks into pieces; earthquakes split it apart and shake it violently.</span>
+
+<span class="verse" id="v20"><sup class="verse-num">20</sup> It staggers like a drunk; it leans like a shack because its sins press heavily against it; it will fall over permanently.</span>
+
+<span class="verse" id="v21"><sup class="verse-num">21</sup> At that time, Yahveh will punish the gods in the sky above and the kings on the earth below.</span>
+
+<span class="verse" id="v22"><sup class="verse-num">22</sup> They'll be rounded up together like prisoners in a dungeon and finally be punished,</span>
+
+<span class="verse" id="v23"><sup class="verse-num">23</sup> The moon will fade, and the sun will lose its brightness, compared to Yahveh of hosts, who will reign on Zion and display his glory to his people's leaders.	Is 24:18b-23 Praise for Judgment and Salvation</span>

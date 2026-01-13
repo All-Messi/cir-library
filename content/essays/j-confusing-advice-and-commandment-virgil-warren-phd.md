@@ -3,7 +3,7 @@ author: "J. Confusing advice and commandment\t                Virgil Warren, PhD
 categories:
 - INTERPRETATION
 - INTERPRETATION--GETTING THE POINT book
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: "J. Confusing advice and commandment\t                Virgil Warren, PhD"
 weight: 10

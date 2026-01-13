@@ -3,7 +3,7 @@ author: Virgil Warren, PhD
 categories:
 - MINISTRY
 - STRAIGHT THINKING FOR YOUTH
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: Straight Thinking
 weight: 999

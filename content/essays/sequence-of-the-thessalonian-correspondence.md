@@ -4,7 +4,7 @@ categories:
 - EVIDENCES
 - CRITICAL INTRO, New Testament
 - THESSALONIANS
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: SEQUENCE OF THE THESSALONIAN CORRESPONDENCE
 weight: 27

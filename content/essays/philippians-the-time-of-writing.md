@@ -4,7 +4,7 @@ categories:
 - EVIDENCES
 - CRITICAL INTRO, New Testament
 - Philippians
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: 'PHILIPPIANS: THE TIME OF WRITING'
 weight: 23

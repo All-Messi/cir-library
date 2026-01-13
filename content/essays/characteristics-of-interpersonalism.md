@@ -3,7 +3,7 @@ author: Virgil Warren, PhD
 categories:
 - INTERPERSONALISM
 - CHARACTERISTICS OF IINTERPERSONALISM
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: CHARACTERISTICS OF INTERPERSONALISM
 weight: 999

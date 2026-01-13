@@ -2,7 +2,7 @@
 author: Virgil Warren     christir.org
 categories:
 - CIR  NOTION IN A NUTSHELL needs addeds
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: SUPPORT OF THE MINISTRY
 weight: 999

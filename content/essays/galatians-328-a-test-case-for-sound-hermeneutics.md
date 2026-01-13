@@ -4,7 +4,7 @@ categories:
 - CHRISTIAN DOCTRINE 1
 - WOMEN'S STUDIES
 - Women's Studies S Gal 3 28
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: 'GALATIANS 3:28: A TEST CASE FOR SOUND HERMENEUTICS'
 weight: 999

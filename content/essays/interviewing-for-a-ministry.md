@@ -3,7 +3,7 @@ author: Virgil Warren, PhD
 categories:
 - MINISTRY
 - Cm-101
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: INTERVIEWING FOR A MINISTRY
 weight: 999

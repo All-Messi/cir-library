@@ -4,7 +4,7 @@ categories:
 - MINISTRY
 - Sermons
 - Memorial Day Messages
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: MEMORIAL DAY ADDRESS
 weight: 999

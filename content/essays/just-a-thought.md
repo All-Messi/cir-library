@@ -2,7 +2,7 @@
 author: Virgil Warren     christir.org
 categories:
 - CIR JUST A THOUGHT needs more
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: JUST A THOUGHT
 weight: 999

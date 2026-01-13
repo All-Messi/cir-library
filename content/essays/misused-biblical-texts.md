@@ -3,7 +3,7 @@ author: Virgil Warren, PhD
 categories:
 - INTERPRETATION
 - MISUSED OASSAGES
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: MISUSED BIBLICAL TEXTS
 weight: 5

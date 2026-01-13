@@ -3,7 +3,7 @@ author: Virgil Warren, PhD
 categories:
 - CHRISTIAN DOCTRINE 1
 - GOD  (theology proper)
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: LAYOUT OF THOUGHTS ON DEUTERONOMY 6:4
 weight: 50

@@ -3,7 +3,7 @@ author: Virgil Warren, PhD
 categories:
 - MINISTRY
 - Cm-105
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: A MINISTER AND HIS FAMILY
 weight: 999

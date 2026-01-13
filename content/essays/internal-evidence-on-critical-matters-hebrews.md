@@ -4,7 +4,7 @@ categories:
 - EVIDENCES
 - CRITICAL INTRO, New Testament
 - HEBREWS
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: 'INTERNAL EVIDENCE ON CRITICAL MATTERS: HEBREWS'
 weight: 31

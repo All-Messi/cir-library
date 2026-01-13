@@ -4,7 +4,7 @@ categories:
 - CHRISTIAN DOCTRINE 1
 - REVELATION  SCRIPTURE (bibliology)
 - SCRIPTURE
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: “GOD-BREATHEDNESS” AS THE CHARACTER OF SCRIPTURE
 weight: 999

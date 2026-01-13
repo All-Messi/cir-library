@@ -4,7 +4,7 @@ categories:
 - CHRISTIAN DOCTRINE 1
 - WOMEN'S STUDIES
 - Women's Studies S 1TIM 2
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: 'WOMEN’S STUDIES IN 1 TIMOTHY 2:'
 weight: 999

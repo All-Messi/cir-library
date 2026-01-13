@@ -2,7 +2,7 @@
 author: Virgil Warren, PhD
 categories:
 - INTERPRETATION
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: SOME IMPLICATIONS OF LEGAL PROCESS FOR
 weight: 999

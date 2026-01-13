@@ -4,7 +4,7 @@ categories:
 - CHRISTIAN DOCTRINE 1
 - WOMEN'S STUDIES
 - Women's Studies Eph 5 21
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: GREEK ELEMENTS IN THE INTERPRETATION
 weight: 999

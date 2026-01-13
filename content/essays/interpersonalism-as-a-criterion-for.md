@@ -3,7 +3,7 @@ author: Virgil Warren, PhD
 categories:
 - INTERPERSONALISM
 - IP IMPACT ON TOPICS
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: INTERPERSONALISM AS A CRITERION FOR
 weight: 999

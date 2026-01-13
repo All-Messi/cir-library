@@ -4,7 +4,7 @@ categories:
 - EVIDENCES
 - CRITICAL INTRO, New Testament
 - Ephesians
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: CHARACTERISTICS AND PECULIARITIES OF EPHESIANS
 weight: 21

@@ -4,7 +4,7 @@ categories:
 - CHRISTIAN DOCTRINE 1
 - MANKIND (anthropology)
 - DEPRAVITY, ESSAYS ON hUMAN
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: PREVENIENT GRACE AND NATURAL DEPRAVITY
 weight: 999

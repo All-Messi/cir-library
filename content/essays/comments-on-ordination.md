@@ -4,7 +4,7 @@ categories:
 - CHRISTIAN DOCTRINE 1
 - CHURCH  (ecclesiology)
 - ORDINATION
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: COMMENTS ON ORDINATION
 weight: 999

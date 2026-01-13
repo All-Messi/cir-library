@@ -2,7 +2,7 @@
 author: Virgil Warren, PhD
 categories:
 - INTERPRETATION
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: LOVE AND HATE IN SEMITIC PARLANCE
 weight: 999

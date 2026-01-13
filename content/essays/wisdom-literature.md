@@ -4,7 +4,7 @@ categories:
 - EVIDENCES
 - CRITICAL INTRO, New Testament
 - JAMES
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: WISDOM LITERATURE
 weight: 33

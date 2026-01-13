@@ -3,7 +3,7 @@ author: Virgil Warren, PhD
 categories:
 - CHRISTIAN DOCTRINE 1
 - HOLY SPIRIT (pneumatology)
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: PRIME FACTS ABOUT THE HOLY SPIRIT
 weight: 55

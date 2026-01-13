@@ -4,7 +4,7 @@ categories:
 - EVIDENCES
 - CRITICAL INTRO, New Testament
 - Eph Col Phil RPISON EPSITLES
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: PLACE OF WRITING THE PRISON EPISTLES
 weight: 21

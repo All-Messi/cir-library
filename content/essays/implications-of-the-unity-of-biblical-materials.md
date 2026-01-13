@@ -4,7 +4,7 @@ categories:
 - EVIDENCES
 - CRITICAL INTRO, New Testament
 - Corinthians
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: IMPLICATIONS OF THE UNITY OF BIBLICAL MATERIALS
 weight: 17

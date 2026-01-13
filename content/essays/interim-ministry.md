@@ -3,7 +3,7 @@ author: Virgil Warren, PhD
 categories:
 - MINISTRY
 - Interim Ministry
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: Interim Ministry
 weight: 999

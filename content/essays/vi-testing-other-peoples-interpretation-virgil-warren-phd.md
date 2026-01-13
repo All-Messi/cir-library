@@ -4,7 +4,7 @@ author: VI. TESTING OTHER PEOPLE’S INTERPRETATION                   Virgil War
 categories:
 - INTERPRETATION
 - INTERPRETATION--GETTING THE POINT book
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: VI. TESTING OTHER PEOPLE’S INTERPRETATION                   Virgil Warren,
   PhD

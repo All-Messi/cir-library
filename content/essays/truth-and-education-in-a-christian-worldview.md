@@ -3,7 +3,7 @@ author: Virgil Warren, PhD
 categories:
 - MINISTRY
 - PREPARATION for Ministry
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: TRUTH AND EDUCATION IN A CHRISTIAN WORLDVIEW
 weight: 999

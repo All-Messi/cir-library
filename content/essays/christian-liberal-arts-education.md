@@ -3,7 +3,7 @@ author: Virgil Warren, PhD
 categories:
 - MINISTRY
 - PREPARATION for Ministry
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: CHRISTIAN LIBERAL ARTS EDUCATION
 weight: 999

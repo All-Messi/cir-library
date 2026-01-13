@@ -3,7 +3,7 @@ author: Virgil Warren, PhD
 categories:
 - INTERPRETATION
 - Brain Teasers (assignments)
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: BIBLICAL BRAIN TEASERS
 weight: 999

@@ -4,7 +4,7 @@ categories:
 - EVIDENCES
 - CRITICAL INTRO, New Testament
 - Colossians
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: THE ORIGIN OF GNOSTICISM AND ITS BEARING ON THE
 weight: 25

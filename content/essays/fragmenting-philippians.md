@@ -4,7 +4,7 @@ categories:
 - EVIDENCES
 - CRITICAL INTRO, New Testament
 - Philippians
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: FRAGMENTING PHILIPPIANS
 weight: 23

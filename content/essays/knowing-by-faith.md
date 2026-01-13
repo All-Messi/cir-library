@@ -3,7 +3,7 @@ author: Virgil Warren, PhD
 categories:
 - EVIDENCES
 - KNOW, how we,   (epistemology)
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: KNOWING BY FAITH
 weight: 999

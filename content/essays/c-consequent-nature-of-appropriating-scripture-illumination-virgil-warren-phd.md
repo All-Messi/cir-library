@@ -4,7 +4,7 @@ author: C. Consequent nature of appropriating scripture (illumination)      Virg
 categories:
 - INTERPRETATION
 - INTERPRETATION--GETTING THE POINT book
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: C. Consequent nature of appropriating scripture (illumination)      Virgil
   Warren, PhD

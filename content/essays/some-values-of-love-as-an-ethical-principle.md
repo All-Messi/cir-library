@@ -3,7 +3,7 @@ author: Virgil Warren, PhD
 categories:
 - CHRISTIAN DOCTRINE 1
 - ETHICS
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: SOME VALUES OF LOVE AS AN ETHICAL PRINCIPLE
 weight: 35

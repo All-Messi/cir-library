@@ -3,7 +3,7 @@ author: Reviewed by Virgil Warren, PhD
 categories:
 - CHRISTIAN DOCTRINE 1
 - WOMEN'S STUDIES
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: Man & Woman in Christian Perspective, by Werner Neuer
 weight: 999

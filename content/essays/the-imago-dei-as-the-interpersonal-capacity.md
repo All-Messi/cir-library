@@ -4,7 +4,7 @@ categories:
 - CHRISTIAN DOCTRINE 1
 - MANKIND (anthropology)
 - Image of God
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: 'THE IMAGO DEI AS THE INTERPERSONAL CAPACITY:'
 weight: 999

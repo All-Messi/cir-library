@@ -2,7 +2,7 @@
 author: Virgil Warren, PhD
 categories:
 - SALVATION none
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: FRIENDS OF GOD, SONS OF ABRAHAM
 weight: 999

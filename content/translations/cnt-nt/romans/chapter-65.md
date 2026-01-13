@@ -1,6 +1,7 @@
 ---
 book: Romans
 chapter: 65
+next: chapter-69
 prev: chapter-16
 title: Romans 65
 translation: CNT
@@ -10,4 +11,4 @@ weight: 65
 
 ## Romans Chapter 65
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> LXX].</span>
+<span class="verse" id="v2"><sup class="verse-num">2</sup> LXX]. Israel's Remnant</span>

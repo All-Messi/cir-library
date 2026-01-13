@@ -1,0 +1,16 @@
+---
+book: Leviticus
+chapter: 22
+next: chapter-23
+prev: chapter-21
+title: Leviticus 22
+translation: CYV
+type: chapter
+weight: 22
+---
+
+## Leviticus Chapter 22
+
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Yahveh told Moses to tell Aaron and his sons, "Handle the holy gifts carefully that the Israelites dedicate to me so you don't profane my name. 3Don't approach the holy gifts while you're ceremonially unclean. I'll remove you from me. 4If you're a leper or have a discharge, you can't eat the holy gifts till you're clean. Touching anything made ceremonially unclean by a corpse or seminal emission, 5or touching any teeming thing that makes any person unclean, 6makes you unclean till evening. You can't eat the sacred gifts till you take a bath. 7When the sun sets, you'll be clean and can eat them. 8You can't eat an animal that dies or is torn to pieces by wild animals; that makes you ceremonially unclean. 9Keep my charge so you won't be considered defiled and die for profaning my name. I'm Yahveh that sanctifies them. 10"No layman, visitor with a priest, or hired hand can eat the sacred gifts. 11But a slave that a priest buys with his own money can eat them; so can slaves born in his house. 12If a priest's daughter marries a layman, she can't continue to eat the gifts. 13But if she becomes a widow or is divorced, doesn't have any children, and goes back to her father's family, she can eat her father's food. 14If any of you laymen unintentionally eat a sacred gift, add a fifth to it and give it to the priest. 15Laymen are not to profane the sacred gift Israelites offer to Yahveh; 16so they're fined for it. I'm Yahveh that sanctifies them.'" 17-18Yahveh told Moses to tell Aaron, his sons, and all Israel: "When an Israelite or foreigner presents a burnt offering, an offering for fulfilling a vow, or a freewill offering, 19for God to accept it, it must be a male without defect from the cattle, sheep, or goats. 20Don't offer anything that has a defect. 21When anyone sacrifices a peace offering to Yahveh to fulfill a special vow or for a freewill offering from the herd or flock, it must be perfect. 22Don't offer a blind, crippled, or injured animal, or one with a running sore, eczema, or scab. Don't make it an offering by fire on the altar to Yahveh.  23An ox or lamb that has an enlarged or undersized member, you can present for a freewill offering, but not for a vow. 24Don't offer anything that has its testicles bruised, crushed, torn to pieces by wild animals, or castrated. 25Don't accept anything like that from a foreigner for an offering as the food of your God. It has a defect; he won't accept it."</span>
+
+<span class="verse" id="v26"><sup class="verse-num">26</sup> Yahveh told Moses, 27"A newborn ox, sheep, or goat will remain with its mother for a week. After that it's acceptable as an offering by fire to Yahveh. 28But don't slaughter an ox or sheep and its young the same day. 29When you offer a sacrifice of thanksgiving to Yahveh, do it so he will accept you. 30Eat it the same day; don't leave any till morning. 31Keep my commandments that way. 32Don't profane my holy name; treat me as holy in Israel. I'm Yahveh that sanctifies you, 33who brought you out of Egypt to be your God."</span>

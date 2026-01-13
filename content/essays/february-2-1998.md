@@ -2,7 +2,7 @@
 author: Virgil Warren, PhD
 categories:
 - Book Reviews
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: February 2, 1998
 weight: 999

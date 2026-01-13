@@ -1,0 +1,32 @@
+---
+book: 2 Samuel
+chapter: 8
+next: chapter-09
+prev: chapter-07
+title: 2 Samuel 8
+translation: CYV
+type: chapter
+weight: 8
+---
+
+## 2 Samuel Chapter 8
+
+<span class="verse" id="v1"><sup class="verse-num">1</sup> After that, David defeated the Philistines and took Methegammah.</span>
+
+<span class="verse" id="v2"><sup class="verse-num">2</sup> He defeated Moab and counted them off in lines and made them lie down on the ground. Two lines he counted off to be put to death, and one line he let live. The Moabites served him and brought tribute.</span>
+
+<span class="verse" id="v3"><sup class="verse-num">3</sup> David also defeated Hadadezer Ben-Rehob, king of Zobah, as he went to restore his power at the Euphrates River. 4He took 1,700 cavalry and 20,000 infantry. He hamstrung the chariot horses but left enough for 100 chariots.</span>
+
+<span class="verse" id="v5"><sup class="verse-num">5</sup> When the Arameans from Damascus came to help Hadadezer, David killed 22,000 of them 6and put garrisons around Damascus, the Aramean capital. The Arameans served him and paid tribute money. 7The gold shields that Hadadezer's officers carried, he took to Jerusalem. 8He took a large store of bronze from Betah and Berothai, towns that belonged to Hadadezer. 2</span>
+
+<span class="verse" id="v9"><sup class="verse-num">9</sup> Toi/Tou, king of Hamath, heard that David had defeated Hadadezer's whole army. 10He sent his son Joram to greet him and congratulate him. Hadadezer had fought several wars with Toi/Tou. Joram brought articles made out of silver, gold, and bronze. 11David dedicated them to Yahveh together with the silver and gold from the nations he subdued: 12Aram, Moab, the Ammonites, the Philistines, Amalek, along with the spoils from Hadadezer.</span>
+
+<span class="verse" id="v13"><sup class="verse-num">13</sup> David's reputation kept growing. When he came back, he killed 18,000 Edomites in the Valley of Salt. 14He put garrisons all over Edom, and the Edomites served him. Yahveh gave him victory wherever he went. David's Officials</span>
+
+<span class="verse" id="v15"><sup class="verse-num">15</sup> David ruled Israel and administered justice fairly to his people.</span>
+
+<span class="verse" id="v16"><sup class="verse-num">16</sup> Joab Ben-Zeruiah was general over the army; Jehoshaphat Ben-Ahilud was recorder;</span>
+
+<span class="verse" id="v17"><sup class="verse-num">17</sup> Zadok Ben-Ahitub and Ahimelech Ben-Abiathar were priests; Seraiah was secretary;</span>
+
+<span class="verse" id="v18"><sup class="verse-num">18</sup> Benaiah Ben-Jehoiada was captain of David's bodyguard; David's sons were chief administrators. David's Kindness to Mephibosheth</span>

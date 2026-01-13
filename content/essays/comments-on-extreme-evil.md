@@ -3,7 +3,7 @@ author: Virgil Warren, PhD
 categories:
 - EVIDENCES
 - EVIL, Problem of (theodicy)
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: COMMENTS ON EXTREME EVIL
 weight: 999

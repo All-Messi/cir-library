@@ -3,7 +3,7 @@ author: Virgil Warren, PhD
 categories:
 - CHRISTIAN DOCTRINE 1
 - DISPESNATIONS
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: PAUL VS. THE LAW OR THE TRADITION OF THE ELDERS?
 weight: 30

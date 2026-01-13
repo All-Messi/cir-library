@@ -2,7 +2,7 @@
 author: Virgil Warren, PhD
 categories:
 - CHRISTIAN INTERNET MIN  March ff corresp
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: (December, 2024 Home Page Preliminary Structure)
 weight: 999

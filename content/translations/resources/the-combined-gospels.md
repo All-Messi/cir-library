@@ -2,7 +2,7 @@
 author: Virgil Warren, PhD
 categories:
 - Bible Resources
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: THE COMBINED GOSPELS
 weight: 1

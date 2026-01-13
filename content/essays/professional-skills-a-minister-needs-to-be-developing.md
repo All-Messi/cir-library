@@ -3,7 +3,7 @@ author: Virgil Warren, PhD
 categories:
 - MINISTRY
 - Cm-101
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: PROFESSIONAL SKILLS A MINISTER NEEDS TO BE DEVELOPING
 weight: 999

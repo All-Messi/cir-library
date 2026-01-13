@@ -4,7 +4,7 @@ categories:
 - EVIDENCES
 - CRITICAL INTRO, New Testament
 - REVELATION
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: THE SEVEN DAYS OF CONSUMMATION
 weight: 42

@@ -2,7 +2,7 @@
 author: Virgil Warren, PhD
 categories:
 - General
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: GREEK ANALYSIS PLUS WOODEN TRANSLATION
 weight: 999

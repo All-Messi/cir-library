@@ -4,7 +4,7 @@ categories:
 - INTERPRETATION
 - COMMENTARIES
 - Seermon on the Mount comment bok
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: THE SERMON AS A WHOLE
 weight: 11

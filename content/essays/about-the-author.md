@@ -2,7 +2,7 @@
 author: Virgil Warren
 categories:
 - Features of Internet Ministry  right one for 2025
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: ABOUT THE AUTHOR
 weight: 999

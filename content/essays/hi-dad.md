@@ -10,7 +10,7 @@ author: 'From: Barry Park <barry@uccmanhattan.net>
   Subject: Re: Tithing'
 categories:
 - Tithing
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: Hi Dad,
 weight: 999

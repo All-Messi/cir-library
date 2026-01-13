@@ -3,7 +3,7 @@ author: Virgil Warren, PhD
 categories:
 - CHRISTIAN DOCTRINE 1
 - FUTURE THINGS (eschatology)
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: THE DOCTRINE OF “SOUL-SLEEPING”
 weight: 45

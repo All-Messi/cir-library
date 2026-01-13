@@ -2,7 +2,7 @@
 author: Virgil Warren, PhD
 categories:
 - CIR  NOTION IN A NUTSHELL needs addeds
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: WHENCE DENOMINATIONS?
 weight: 999

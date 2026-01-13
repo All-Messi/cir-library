@@ -2,7 +2,7 @@
 author: Virgil Warren, PhD
 categories:
 - EVIDENCES
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: GAMALIEL’S ARGUMENT FOR THE RESURRECTION OF JESUS
 weight: 999

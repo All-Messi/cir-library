@@ -1,0 +1,46 @@
+---
+book: Psalms
+chapter: 7
+next: chapter-08
+prev: chapter-06
+title: Psalms 7
+translation: CYV
+type: chapter
+weight: 7
+---
+
+## Psalms Chapter 7
+
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Yahveh my God, I've taken refuge in you; protect me from persecutors</span>
+
+<span class="verse" id="v2"><sup class="verse-num">2</sup> so they won't tear me apart like a lion does, and drag me away with no one to rescue me.</span>
+
+<span class="verse" id="v3"><sup class="verse-num">3</sup> Yahveh my God, if I've done wrong, if there's any injustice in me,</span>
+
+<span class="verse" id="v4"><sup class="verse-num">4</sup> if I've betrayed a friend or plundered an adversary for no reason,</span>
+
+<span class="verse" id="v5"><sup class="verse-num">5</sup> chase me down and slay me; trample me on the ground, lay my honor in the dust.</span>
+
+<span class="verse" id="v6"><sup class="verse-num">6</sup> Rise up in anger, Yahveh, against my angry enemies; wake up and decree justice on my behalf.</span>
+
+<span class="verse" id="v7"><sup class="verse-num">7</sup> Gather the nations around you and rule them from on high.</span>
+
+<span class="verse" id="v8"><sup class="verse-num">8</sup> You that judge all people, judge me by my goodness and integrity.</span>
+
+<span class="verse" id="v9"><sup class="verse-num">9</sup> Put an end to people's sinfulness; establish goodness because our good God tests hearts and minds.</span>
+
+<span class="verse" id="v10"><sup class="verse-num">10</sup> You're my shield who saves the godly in heart,</span>
+
+<span class="verse" id="v11"><sup class="verse-num">11</sup> a just judge that's angry with sinners every day.</span>
+
+<span class="verse" id="v12"><sup class="verse-num">12</sup> For someone that doesn't repent, God sharpens his sword, bends his bow, and strings it;</span>
+
+<span class="verse" id="v13"><sup class="verse-num">13</sup> he has his deadly weapons ready and makes arrows with flaming shafts.</span>
+
+<span class="verse" id="v14"><sup class="verse-num">14</sup> Wicked people conceive evil, get pregnant with sin, and give birth to lies.</span>
+
+<span class="verse" id="v15"><sup class="verse-num">15</sup> They dig a pit and hollow it out, and fall into the hole they've dug to trap others.</span>
+
+<span class="verse" id="v16"><sup class="verse-num">16</sup> Their scheming comes back on them; their violence crashes down on their own heads.</span>
+
+<span class="verse" id="v17"><sup class="verse-num">17</sup> I'll give Yahveh the thanks his goodness calls for and sing praise to theY Most High.</span>

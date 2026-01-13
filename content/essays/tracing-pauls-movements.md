@@ -4,7 +4,7 @@ categories:
 - EVIDENCES
 - CRITICAL INTRO, New Testament
 - THESSALONIANS
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: TRACING PAUL’S MOVEMENTS
 weight: 27

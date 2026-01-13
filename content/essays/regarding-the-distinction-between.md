@@ -3,7 +3,7 @@ author: Virgil Warren, PhD
 categories:
 - CHRISTIAN DOCTRINE 1
 - CHURCH  (ecclesiology)
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: REGARDING THE DISTINCTION BETWEEN
 weight: 15

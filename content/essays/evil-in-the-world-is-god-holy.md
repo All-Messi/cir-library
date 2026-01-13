@@ -3,7 +3,7 @@ author: Virgil Warren, PhD
 categories:
 - EVIDENCES
 - EVIL, Problem of (theodicy)
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: 'EVIL IN THE WORLD: IS GOD HOLY?'
 weight: 999

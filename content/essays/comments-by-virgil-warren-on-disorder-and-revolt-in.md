@@ -2,7 +2,7 @@
 author: Comments by Virgil Warren on “Disorder and Revolt” in
 categories:
 - Book Reviews
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: Comments by Virgil Warren on “Disorder and Revolt” in
 weight: 999

@@ -3,7 +3,7 @@ author: Virgil Warren, PhD
 categories:
 - CHRISTIAN DOCTRINE 1
 - BAPTISM
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: BAPTISM AS IDENTIFICATION WITH CHRIST
 weight: 5

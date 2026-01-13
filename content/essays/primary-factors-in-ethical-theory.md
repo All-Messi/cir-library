@@ -3,7 +3,7 @@ author: Virgil Warren, PhD
 categories:
 - CHRISTIAN DOCTRINE 1
 - ETHICS
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: PRIMARY FACTORS IN ETHICAL THEORY
 weight: 35

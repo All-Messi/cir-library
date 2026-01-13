@@ -4,7 +4,7 @@ categories:
 - EVIDENCES
 - CRITICAL INTRO, New Testament
 - CANON  NT BOOKS
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: PRIMARY QUESTIONS IN THE COLLECTION
 weight: 1

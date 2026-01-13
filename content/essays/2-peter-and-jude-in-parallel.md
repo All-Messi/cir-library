@@ -4,7 +4,7 @@ categories:
 - EVIDENCES
 - CRITICAL INTRO, New Testament
 - 2 PETER
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: 2 PETER AND JUDE IN PARALLEL
 weight: 36

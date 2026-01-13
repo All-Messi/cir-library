@@ -4,7 +4,7 @@ categories:
 - EVIDENCES
 - CRITICAL INTRO, New Testament
 - Acts
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: INTERNAL EVIDENCE ON THE AUTHORSHIP OF
 weight: 13

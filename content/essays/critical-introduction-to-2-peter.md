@@ -4,7 +4,7 @@ categories:
 - EVIDENCES
 - CRITICAL INTRO, New Testament
 - 2 PETER
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: CRITICAL INTRODUCTION TO 2 PETER
 weight: 36

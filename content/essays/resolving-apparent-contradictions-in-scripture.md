@@ -3,7 +3,7 @@ author: Virgil Warren, PhD
 categories:
 - EVIDENCES
 - CONTRADICTIONS, Resolving in Scripture
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: RESOLVING APPARENT CONTRADICTIONS IN SCRIPTURE
 weight: 999

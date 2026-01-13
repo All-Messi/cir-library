@@ -3,7 +3,7 @@ author: Virgil Warren, Straight, April 17, 1966, p6
 categories:
 - MINISTRY
 - STRAIGHT THINKING FOR YOUTH
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: Showers of Blessings
 weight: 999

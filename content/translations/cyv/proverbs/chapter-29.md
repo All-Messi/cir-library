@@ -1,0 +1,66 @@
+---
+book: Proverbs
+chapter: 29
+next: chapter-30
+prev: chapter-28
+title: Proverbs 29
+translation: CYV
+type: chapter
+weight: 29
+---
+
+## Proverbs Chapter 29
+
+<span class="verse" id="v1"><sup class="verse-num">1</sup> If you stiffen your neck after repeated correction, you'll suddenly be broken beyond recovery.</span>
+
+<span class="verse" id="v2"><sup class="verse-num">2</sup> When good people rule, people are happy; when corrupt leaders take over, the citizens groan.</span>
+
+<span class="verse" id="v3"><sup class="verse-num">3</sup> A son that loves wisdom makes his father happy, but one that visits prostitutes squanders his wealth.</span>
+
+<span class="verse" id="v4"><sup class="verse-num">4</sup> A good king creates a stable country, but one that accepts bribes ruins it.</span>
+
+<span class="verse" id="v5"><sup class="verse-num">5</sup> Flattering your friends spreads a net for them to step in.</span>
+
+<span class="verse" id="v6"><sup class="verse-num">6</sup> Bad people's sins become their downfall, but the righteous can sing and celebrate.</span>
+
+<span class="verse" id="v7"><sup class="verse-num">7</sup> The godly care about the rights of the poor; sinful people don't care about such things.</span>
+
+<span class="verse" id="v8"><sup class="verse-num">8</sup> Scoffers can set a city in an uproar, but the wise defuse anger.</span>
+
+<span class="verse" id="v9"><sup class="verse-num">9</sup> When the wise argue with the foolish, the foolish get mad or mock; there's no quiet response.</span>
+
+<span class="verse" id="v10"><sup class="verse-num">10</sup> Bloodthirsty people hate anybody that's blameless, but the godly are concerned about other people's lives.</span>
+
+<span class="verse" id="v11"><sup class="verse-num">11</sup> Fools lose their temper; the wise keep it in check.</span>
+
+<span class="verse" id="v12"><sup class="verse-num">12</sup> If a ruler is willing to listen to lies, his advisors become corrupt.</span>
+
+<span class="verse" id="v13"><sup class="verse-num">13</sup> The poor and the oppressor have this in common: Yahveh makes both of them able to see.</span>
+
+<span class="verse" id="v14"><sup class="verse-num">14</sup> If a king judges the poor fairly, his throne will be permanently secure.</span>
+
+<span class="verse" id="v15"><sup class="verse-num">15</sup> Discipline gives children wisdom, but kids that get their way are an embarrassment to their mother.</span>
+
+<span class="verse" id="v16"><sup class="verse-num">16</sup> When corrupt leaders get control, sin multiplies; but the godly will see them fall.</span>
+
+<span class="verse" id="v17"><sup class="verse-num">17</sup> Correct your children, and they'll bring you comfort and delight.</span>
+
+<span class="verse" id="v18"><sup class="verse-num">18</sup> Where there's no revelation, people cast off restraint; but those who keep the Law stay happy.</span>
+
+<span class="verse" id="v19"><sup class="verse-num">19</sup> Words alone won't correct a slave; though he understands, he won't respond.</span>
+
+<span class="verse" id="v20"><sup class="verse-num">20</sup> There's more hope for a fool than for someone that's rash with words</span>
+
+<span class="verse" id="v21"><sup class="verse-num">21</sup> A slave pampered from childhood will turn out to be a rebel.</span>
+
+<span class="verse" id="v22"><sup class="verse-num">22</sup> Angry people stir up conflict; hotheads commit a lot of sins.</span>
+
+<span class="verse" id="v23"><sup class="verse-num">23</sup> Pride brings humiliation; humility lifts up to places of honor.</span>
+
+<span class="verse" id="v24"><sup class="verse-num">24</sup> Helping a thief puts you in jeopardy: you've taken an oath against perjury, but you can't tell the truth in court.</span>
+
+<span class="verse" id="v25"><sup class="verse-num">25</sup> Fearing other people entraps you; trusting Yahveh makes you secure.</span>
+
+<span class="verse" id="v26"><sup class="verse-num">26</sup> People look to rulers for approval, but justice comes from Yahveh.</span>
+
+<span class="verse" id="v27"><sup class="verse-num">27</sup> The wicked despise the righteous, and the righteous despise them back.</span>

@@ -3,7 +3,7 @@ author: Virgil Warren, PhD
 categories:
 - INTERPERSONALISM
 - IP IMPACT ON TOPICS
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: MISAPPLYING THE CHRISTIAN SYSTEM (IP)
 weight: 999

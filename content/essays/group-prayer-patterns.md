@@ -3,7 +3,7 @@ author: Virgil Warren, PhD
 categories:
 - MINISTRY
 - Cm-102
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: GROUP PRAYER PATTERNS
 weight: 999

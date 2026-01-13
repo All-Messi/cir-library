@@ -1,0 +1,41 @@
+---
+book: Judges
+chapter: 1
+next: chapter-02
+title: Judges 1
+translation: CYV
+type: chapter
+weight: 1
+---
+
+## Judges Chapter 1
+
+<span class="verse" id="v1"><sup class="verse-num">1</sup> After Joshua died, the people asked Yahveh, "Who will go up first to fight the Canaanites?"</span>
+
+<span class="verse" id="v2"><sup class="verse-num">2</sup> He said, "Judah. I'll deliver the land to him."</span>
+
+<span class="verse" id="v3"><sup class="verse-num">3</sup> Judah said to his brother Simeon, "Go with me to my territory to fight the Canaanites, and I'll go with you to yours." So he went with him.</span>
+
+<span class="verse" id="v4"><sup class="verse-num">4</sup> Judah went up and Yahveh delivered 10,000 Canaanites and Perizzites to him at Bezek. 5-6They attacked Adoni-bezek 6and he fled, but they caught him and cut off his thumbs and big toes. 7He said, "Seventy kings with their thumbs and big toes cut off used to pick up scraps under my table. God has done to me what I've done." They took him to Jerusalem, where he died.</span>
+
+<span class="verse" id="v8"><sup class="verse-num">8</sup> Judah fought Jerusalem and took it. They struck it with the sword and set it on fire. 9Then they went down to fight the Canaanites in the hill country, the Negev, and the western foothills. 10Judah attacked the Canaanites in Hebron (called Kiriath-arba before) and defeated Sheshai, Ahiman, and Talmai.</span>
+
+<span class="verse" id="v11"><sup class="verse-num">11</sup> From there they attacked Debir (called Kiriath-sepher before). 12Caleb said, "Whoever takes Keriath-sepher, I'll give my daughter Achsah as a wife." 13Othniel Ben-Kenaz, Caleb's younger brother, took it, and Caleb gave her to him. 14When she came to him, she urged him to ask her father for a field. She got down from her donkey, and Caleb asked, "What do you want for yourself?" 15"A present. Since you've put me in the Negev, give me springs." Caleb gave her the upper and lower springs.</span>
+
+<span class="verse" id="v16"><sup class="verse-num">16</sup> The descendants of Moses' father-in-law, the Kenite, moved from the City of Palms to the Wilderness of Judah in the Negev near Arad, and settled with the people. 17Judah went with Simeon and defeated the Canaanites in Zephath and destroyed it; so the city was called Hormah. 18Judah also took Gaza, Ashkelon, and Ekron, and their territories. Yahveh was with Judah, and he gained possession of the hill country, but he couldn't drive out the people in the plain; they had iron chariots. 20They gave Hebron to Caleb, like Moses had said. He drove out Anak's three sons.</span>
+
+<span class="verse" id="v21"><sup class="verse-num">21</sup> But Benjamin didn't drive out the Jebusites in Jerusalem; they still live there among them.</span>
+
+<span class="verse" id="v22"><sup class="verse-num">22</sup> Joseph went up against Bethel and Yahveh was with them. 23Joseph's house spied out Bethel (called Luz before). 24The spies saw a man coming out of the city, and said, "Show us how to get into the city, and we'll have mercy you." 25He showed them. They struck it with the sword, but they let him and his family go. 26He went to the Hittites and built a city he called Luz. That's still its name.</span>
+
+<span class="verse" id="v27"><sup class="verse-num">27</sup> Manasseh didn't drive out the people in Beth-shean, Taanach, Dor, Ibleam, or Megiddo and their villages. The Canaanites kept living there. 28When Israel grew stronger, they put them to forced labor; but they didn't completely drive them out.</span>
+
+<span class="verse" id="v29"><sup class="verse-num">29</sup> Ephraim didn't drive out the Canaanites in Gezer, who kept living among them.</span>
+
+<span class="verse" id="v30"><sup class="verse-num">30</sup> Zebulun didn't drive out the people in Kitron or Nahalol, who kept living among them, subject to forced labor.</span>
+
+<span class="verse" id="v31"><sup class="verse-num">31</sup> Asher didn't drive out the people in Acco, Sidon, Ahlab, Achzib, Helbah, Aphik, or Rehob. 32They lived among the Canaanites.</span>
+
+<span class="verse" id="v33"><sup class="verse-num">33</sup> Naphtali didn't drive out the people in Beth-shemesh or Beth-anath. They lived among 	those Canaanites, who became forced labor.</span>
+
+<span class="verse" id="v34"><sup class="verse-num">34</sup> The Amorites pressed the Danites back into the hill country. They wouldn't let them come down to the plain. 35They went on living in Mount Heres. Aijalon, and Shaalbim. But Joseph's house pressed heavily on them and subjected them to forced labor. 36The border of the Amorites ran from the ascent of Akrabbim, from Sela and up. The Angel of the Lord Comes to Bokim</span>

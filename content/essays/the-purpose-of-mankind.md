@@ -3,7 +3,7 @@ author: Virgil Warren, PhD
 categories:
 - CHRISTIAN DOCTRINE 1
 - MANKIND (anthropology)
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: 'THE PURPOSE OF MANKIND:'
 weight: 60

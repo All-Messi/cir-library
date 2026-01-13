@@ -3,7 +3,7 @@ author: Virgil Warren, PhD
 categories:
 - CHRISTIAN DOCTRINE 1
 - BAPTISM
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: TYPES OF SYSTEMS
 weight: 5

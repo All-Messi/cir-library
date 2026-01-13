@@ -4,7 +4,7 @@ categories:
 - EVIDENCES
 - CRITICAL INTRO, New Testament
 - TIMOTHY TITUS Pastoral Epistles
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: SOURCES OF THE PAULINE MATERIAL
 weight: 29

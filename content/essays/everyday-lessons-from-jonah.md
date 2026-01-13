@@ -3,7 +3,7 @@ author: Virgil Warren, PhD
 categories:
 - Book Studies
 - Jonah
-date: '2026-01-11'
+date: '2026-01-13'
 draft: false
 title: EVERYDAY LESSONS FROM JONAH
 weight: 999

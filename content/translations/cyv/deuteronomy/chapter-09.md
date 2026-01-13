@@ -1,0 +1,18 @@
+---
+book: Deuteronomy
+chapter: 9
+next: chapter-10
+prev: chapter-08
+title: Deuteronomy 9
+translation: CYV
+type: chapter
+weight: 9
+---
+
+## Deuteronomy Chapter 9
+
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Israel, you're crossing the Jordan now to take over nations bigger and stronger than you, to take over big cities fortified to the sky, 2to take over people big and tall, the Anakim you've heard people say about, 'Who can stand up to the descendants of Anak?' 3"Understand that it's Yahveh your God who's crossing over ahead of you like a consuming fire. He'll conquer and destroy them so you can drive them out quickly. 4"When he drives them out, don't tell yourselves it's because of your goodness that he brought you to this land. Instead, it's because of their sinfulness that he drove them out. 5It's not that you're godly, but that they're sinful. He's confirming his oath to Abraham, Isaac, and Jacob. 6"It's not your goodness; you're stubborn. The Gold Calf</span>
+
+<span class="verse" id="v7"><sup class="verse-num">7</sup> Don't forget how you've provoked Yahveh in the desert. From the time you left Egypt, you've been rebellious toward him. 8Even at Horeb/Sinai you provoked him. He was so angry with you he was ready to destroy you. 9When I went up on the mountain to receive the stone tablets of his covenant with you, I stayed there 40 days and nights without eating or drinking. 10He gave me the tablets he wrote that contained everything he'd told you out of the fire at your assembly. 11At the end of the 40 days, he gave them to me, 12'Quick, go down. Your people have acted corruptly. They've turned aside so soon from what I commanded and made themselves a molten image. 13I've seen how stubborn they are. 14Stand aside so I can destroy them and erase their name. I'll make a nation out of you that's bigger and stronger than they are.'</span>
+
+<span class="verse" id="v15"><sup class="verse-num">15</sup> I came down from the burning mountain with the two tablets in my hands. 16I saw you'd really sinned against him and made a molten calf. 17I threw the tablets down and shattered them in front of you. 18I fell down to Yahveh as at the first for 40 days and nights. I didn't eat or drink anything because your sin stirred him up. 19I was afraid his anger was going to destroy you, but he listened to me that time too. 20He was angry enough with Aaron to destroy him; so I prayed for him at the same time. 21I burned the sinful calf you'd made, pulverized it, ground it up, and threw the dust into the creek that was running down from the mountain. 22"Again at Taberah, Massah, and Kibroth-hattaavah you provoked him. 23When he sent you from Kadesh-barnea to go up and take over the land he'd given you, you wouldn't listen or trust him. 24You've kept rebelling since I first knew you. 25"I fell down to him for 40 days and nights because he said he'd destroy you. 26I prayed, 'Lord Yahveh, don't destroy your people, the permanent possession you redeemed with your greatness, the nation you brought out of Egypt by your power. 27Remember Abraham, Isaac, and Jacob. Don't just look at these people's stubbornness and sin. 28Otherwise, the country you brought us from will say, "Yahveh took them out to kill them in the desert. He hated them and couldn't take them to the land he'd promised them." 29But they're your people, your inheritance that you brought out with your great power and outstretched arm.' The Second Stone Tablets</span>
