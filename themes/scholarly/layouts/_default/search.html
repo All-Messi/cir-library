@@ -16,7 +16,7 @@
 let searchIndex = null;
 
 // Load search index
-fetch('/index.json')
+fetch('{{ "index.json" | absURL }}')
     .then(response => response.json())
     .then(data => {
         searchIndex = data;
@@ -56,6 +56,15 @@ function performSearch() {
         return titleMatch || contentMatch || categoryMatch;
     });
     
+    // Sort: essays first
+    results.sort((a, b) => {
+        const aIsEssay = !a.book;
+        const bIsEssay = !b.book;
+        if (aIsEssay && !bIsEssay) return -1;
+        if (!aIsEssay && bIsEssay) return 1;
+        return 0;
+    });
+    
     if (results.length === 0) {
         resultsDiv.innerHTML = '<p class="search-note">No results found for "' + query + '"</p>';
         return;
@@ -65,9 +74,12 @@ function performSearch() {
     
     results.forEach(function(result) {
         const snippet = getSnippet(result.content || '', query);
-        html += '<article class="search-result-card">';
+        const isEssay = !result.book;
+        html += '<article class="search-result-card ' + (isEssay ? 'essay-result' : 'bible-result') + '">';
         html += '<h3><a href="' + result.permalink + '">' + result.title + '</a></h3>';
-        if (result.categories && result.categories.length > 0) {
+        if (result.book) {
+            html += '<p class="result-meta">' + result.book + '</p>';
+        } else if (result.categories && result.categories.length > 0) {
             html += '<p class="result-meta">' + result.categories.join(', ') + '</p>';
         }
         html += '<p class="result-snippet">' + snippet + '</p>';
@@ -162,6 +174,14 @@ document.getElementById('search-input').addEventListener('keypress', function(e)
     border: 1px solid var(--border-color);
     border-radius: 4px;
     transition: box-shadow 0.2s;
+}
+
+.search-result-card.essay-result {
+    border-left: 3px solid var(--primary-color);
+}
+
+.search-result-card.bible-result {
+    border-left: 3px solid var(--accent-color);
 }
 
 .search-result-card:hover {
