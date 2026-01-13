@@ -1,6 +1,6 @@
 ---
 title: "Bible Translation Resources"
-type: "translation-home"
+type: "resources"
 layout: "list"
 weight: 100
 ---

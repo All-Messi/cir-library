@@ -1,71 +1,49 @@
 {{ define "main" }}
 <div class="resources-list">
-    <header class="page-header">
+    <header class="section-header">
         <h1>{{ .Title }}</h1>
+        <p>Supplemental materials related to Dr. Warren's Bible translations</p>
     </header>
 
-    <div class="intro-content">
-        {{ .Content }}
-    </div>
-
-    <div class="resources-grid">
-        {{ range .Pages }}
-        <article class="resource-card">
-            <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-            {{ if .Params.categories }}
-            <div class="resource-meta">
-                {{ range .Params.categories }}
-                <span class="category">{{ . }}</span>
-                {{ end }}
-            </div>
+    <div class="resources-preview">
+        <h3>Resources</h3>
+        <div class="resource-tags">
+            {{ range .Pages }}
+            <a href="{{ .Permalink }}" class="resource-tag">{{ .Title }}</a>
             {{ end }}
-            {{ if .Summary }}
-            <p class="resource-summary">{{ .Summary }}</p>
-            {{ end }}
-        </article>
-        {{ end }}
+        </div>
     </div>
 </div>
 
 <style>
-/* Keep existing site styling, just minor additions */
-.resources-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 1.5rem;
-    margin: 2rem 0;
-}
-
-.resource-card {
-    background: var(--bg-white);
+.resources-preview {
+    background: #f8f9fa;
     padding: 1.5rem;
-    border: 1px solid var(--border-color);
-    border-radius: 4px;
-    transition: all 0.2s;
+    border-radius: 8px;
+    margin-bottom: 2rem;
 }
-
-.resource-card:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-}
-
-.resource-card h3 {
+.resources-preview h3 {
     margin-top: 0;
+    margin-bottom: 1rem;
 }
-
-.resource-meta {
-    margin: 0.5rem 0;
-    font-size: 0.9em;
+.resource-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
 }
-
-.resource-meta .category {
-    color: var(--secondary-color);
-    font-weight: 600;
+.resource-tag {
+    background: white;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    text-decoration: none;
+    font-size: 0.9rem;
+    border: 1px solid #ddd;
+    color: var(--primary-color);
+    white-space: nowrap;
 }
-
-.resource-summary {
-    color: var(--text-light);
-    margin-bottom: 0;
+.resource-tag:hover {
+    background: var(--primary-color);
+    color: white;
 }
 </style>
 {{ end }}

@@ -13,9 +13,6 @@
         {{ if ne .Title "Bible Translation Resources" }}
         <div class="translation-card">
             <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-            <p class="translation-meta">
-                <span class="book-count">{{ len .Sections }} books</span>
-            </p>
             <p class="translation-desc">{{ .Summary }}</p>
             <div class="translation-actions">
                 {{ $firstBook := index .Sections 0 }}
