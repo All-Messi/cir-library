@@ -2,10 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brain Teasers (assignments) on Christian Internet Resources</title>
-    <link>http://localhost:58357/cir-library/categories/brain-teasers-assignments/</link>
+    <link>http://localhost:1313/cir-library/categories/brain-teasers-assignments/</link>
     <description>Recent content in Brain Teasers (assignments) on Christian Internet Resources</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:58357/cir-library/categories/brain-teasers-assignments/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/cir-library/categories/brain-teasers-assignments/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
+.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BIBLICAL BRAIN TEASERS</title>
+      <link>http://localhost:1313/cir-library/essays/biblical-brain-teasers/</link>
+      <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/essays/biblical-brain-teasers/</guid>
+      <description>&lt;p&gt;BIBLICAL BRAIN TEASERS&lt;/p&gt;&#xA;&lt;p&gt;Many of the examples below raise issues that are not in themselves very important. We offer them, however, as (1) “exercises” in hermeneutical creativity on matters where frankly it does not hurt to be wrong. Besides, it is not healthy to get in the habit of “dodging” critical issues because they impact (2) evaluating biblical accuracy. Though the points themselves are often not significant, their existence in a religious text does raise a point that is significant—whether people can trust the biblical accounts. Distrusting them for unnecessary reasons should be avoided, and we cannot legitimately trust them without correct exegetical work as a means of properly avoiding unnecessary criticism of scripture.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BRAIN TEASERS</title>
+      <link>http://localhost:1313/cir-library/essays/brain-teasers/</link>
+      <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/essays/brain-teasers/</guid>
+      <description>&lt;p&gt;BRAIN TEASERS&lt;/p&gt;&#xA;&lt;p&gt;The following examples provide occasions for working through paradoxes, apparent contradictions, hard sayings, and ambiguous comments. A summary of ways to resolve difficulties accompanies the course description and agenda sheets: “Resolving Apparent Contradictions in Scripture.”&lt;/p&gt;&#xA;&lt;p&gt;(a) Indicate the class, the assignment number, and your name at the top of the paper.&lt;/p&gt;&#xA;&lt;p&gt;(b) Repeat the text of the brain teaser at the outset of the paper; otherwise, your answers will not be readily retrievable for future use.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
