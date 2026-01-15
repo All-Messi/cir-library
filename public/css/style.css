@@ -1908,3 +1908,308 @@ span.gospel-jn { color: #C00000 !important; }
     font-size: 0.85rem;
     font-style: italic;
 }
+/* Harmony verse numbers superscript styling */
+.harmony-text sup {
+    font-size: 0.7em;
+    color: #666;
+    font-weight: normal;
+    vertical-align: super;
+    line-height: 0;
+    margin-right: 1px;
+}
+
+/* Preserve tabs for genealogy columns */
+.harmony-text {
+    white-space: pre-wrap;
+    tab-size: 20;
+    -moz-tab-size: 20;
+}
+
+/* Topic reference with colored abbreviations */
+.topic-reference .gospel-mt,
+.topic-reference .gospel-mk,
+.topic-reference .gospel-lk,
+.topic-reference .gospel-jn {
+    font-weight: 600;
+}
+/* Harmony of the Gospels - Stylesheet v4 */
+
+/* ==========================================
+   Gospel Source Colors
+   ========================================== */
+
+/* Matthew - Black (default text color) */
+.gospel-mt {
+    color: #000000;
+}
+
+/* Mark - Teal */
+.gospel-mk {
+    color: #215868;
+}
+
+/* Luke - Purple */
+.gospel-lk {
+    color: #7030A0;
+}
+
+/* John - Red */
+.gospel-jn {
+    color: #C00000;
+}
+
+/* Color legend styling */
+.harmony-legend {
+    display: flex;
+    gap: 1.5rem;
+    margin-bottom: 1.5rem;
+    padding: 0.75rem 1rem;
+    background: #f8f9fa;
+    border-radius: 4px;
+    flex-wrap: wrap;
+}
+
+.harmony-legend span {
+    font-weight: 600;
+}
+
+/* ==========================================
+   Verse Number Superscript
+   ========================================== */
+
+.verse-num {
+    font-size: 0.7em;
+    color: #666;
+    font-weight: bold;
+    vertical-align: super;
+    line-height: 0;
+    margin-right: 2px;
+    font-family: sans-serif;
+}
+
+/* Verse numbers inside bold/italic should still be styled */
+strong .verse-num,
+em .verse-num,
+strong em .verse-num {
+    font-weight: bold;
+}
+
+/* ==========================================
+   Genealogy Formatting (Tab Columns)
+   ========================================== */
+
+.genealogy-text {
+    font-family: inherit;
+    font-size: 1em;
+    line-height: 1.6;
+    white-space: pre-wrap;
+    tab-size: 20;
+    -moz-tab-size: 20;
+    margin: 0.5em 0;
+    padding: 0;
+    background: transparent;
+    border: none;
+    overflow-x: auto;
+}
+
+/* ==========================================
+   Topic Structure
+   ========================================== */
+
+.harmony-topic {
+    margin-bottom: 2rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.harmony-topic:last-child {
+    border-bottom: none;
+}
+
+.topic-header {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-bottom: 0.25rem;
+    color: #1a1a1a;
+}
+
+.topic-reference {
+    font-size: 0.9rem;
+    color: #666;
+    margin-bottom: 1rem;
+    font-style: italic;
+}
+
+.topic-reference .gospel-mt,
+.topic-reference .gospel-mk,
+.topic-reference .gospel-lk,
+.topic-reference .gospel-jn {
+    font-weight: 600;
+    font-style: normal;
+}
+
+/* ==========================================
+   Text Content
+   ========================================== */
+
+.harmony-text {
+    line-height: 1.7;
+    margin: 0.5em 0;
+    text-align: justify;
+}
+
+/* Direct speech (italic within color spans) */
+.harmony-text em {
+    font-style: italic;
+}
+
+/* Bold content (emphasized text, John's prologue, etc.) */
+.harmony-text strong {
+    font-weight: 600;
+}
+
+/* ==========================================
+   Section Navigation
+   ========================================== */
+
+.section-nav {
+    display: flex;
+    justify-content: space-between;
+    margin: 2rem 0;
+    padding-top: 1rem;
+    border-top: 1px solid #e5e5e5;
+}
+
+.section-nav a {
+    padding: 0.5rem 1rem;
+    background: #f0f0f0;
+    border-radius: 4px;
+    text-decoration: none;
+    color: #333;
+}
+
+.section-nav a:hover {
+    background: #e0e0e0;
+}
+
+/* ==========================================
+   Topics Index/Grid
+   ========================================== */
+
+.harmony-topics-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+}
+
+.topic-link {
+    display: block;
+    padding: 0.5rem;
+    text-decoration: none;
+    color: #333;
+    border-radius: 4px;
+}
+
+.topic-link:hover {
+    background: #f5f5f5;
+}
+
+.topic-link .ref {
+    color: #666;
+    font-size: 0.85em;
+}
+
+/* ==========================================
+   Intro Section
+   ========================================== */
+
+.harmony-intro {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #444;
+    margin-bottom: 1.5rem;
+}
+
+.harmony-start {
+    margin: 2rem 0;
+    text-align: center;
+}
+
+.btn-primary {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    background: #2563eb;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: 500;
+}
+
+.btn-primary:hover {
+    background: #1d4ed8;
+}
+
+.btn-large {
+    font-size: 1.1rem;
+    padding: 1rem 2rem;
+}
+
+/* ==========================================
+   Dropdown Navigation
+   ========================================== */
+
+.harmony-dropdown {
+    position: relative;
+    margin-bottom: 1rem;
+}
+
+.harmony-dropdown select {
+    width: 100%;
+    padding: 0.75rem;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background: white;
+    cursor: pointer;
+}
+
+/* ==========================================
+   Responsive Adjustments
+   ========================================== */
+
+@media (max-width: 768px) {
+    .genealogy-text {
+        font-size: 0.9em;
+        tab-size: 12;
+        -moz-tab-size: 12;
+    }
+    
+    .harmony-legend {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+    
+    .topic-header {
+        font-size: 1.1rem;
+    }
+}
+
+/* ==========================================
+   Print Styles
+   ========================================== */
+
+@media print {
+    .gospel-mt { color: #000000 !important; }
+    .gospel-mk { color: #215868 !important; }
+    .gospel-lk { color: #7030A0 !important; }
+    .gospel-jn { color: #C00000 !important; }
+    
+    .section-nav,
+    .harmony-dropdown {
+        display: none;
+    }
+    
+    .harmony-topic {
+        page-break-inside: avoid;
+    }
+}
