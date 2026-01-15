@@ -1,7 +1,7 @@
 {{ define "main" }}
 <article class="chapter-reading">
     <nav class="breadcrumb">
-        <a href="/translations/">Translations</a> › 
+        <a href="{{ "translations/" | absURL }}">Translations</a> › 
         <a href="{{ .Parent.Parent.RelPermalink }}">{{ .Parent.Parent.Title }}</a> ›
         <a href="{{ .Parent.RelPermalink }}">{{ .Params.book }}</a>
     </nav>

@@ -1,7 +1,7 @@
 {{ define "main" }}
 <div class="book-home">
     <nav class="breadcrumb">
-        <a href="/translations/">Translations</a> › 
+        <a href="{{ "translations/" | absURL }}">Translations</a> › 
         <a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a>
     </nav>
 

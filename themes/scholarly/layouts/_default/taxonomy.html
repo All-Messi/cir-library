@@ -33,7 +33,7 @@
         <h2>Subcategories</h2>
         <div class="subcategory-grid">
             {{ range $uniqueSubs }}
-            <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}/" class="subcategory-card">
+            <a href="{{ "categories/" | absURL }}{{ . | urlize }}/" class="subcategory-card">
                 {{ . }}
             </a>
             {{ end }}
@@ -53,7 +53,7 @@
                 {{ if .Params.categories }}
                 <p class="essay-categories">
                     {{ range .Params.categories }}
-                    <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}/" class="category-tag">{{ . }}</a>
+                    <a href="{{ "categories/" | absURL }}{{ . | urlize }}/" class="category-tag">{{ . }}</a>
                     {{ end }}
                 </p>
                 {{ end }}

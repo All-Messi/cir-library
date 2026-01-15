@@ -11,7 +11,7 @@
             {{ $count := 0 }}
             {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
             {{ if lt $count 20 }}
-            <a href="{{ "/categories/" | absURL }}{{ $name | urlize }}/" class="category-tag">{{ $name }} ({{ len $taxonomy }})</a>
+            <a href="{{ "categories/" | absURL }}{{ $name | urlize }}/" class="category-tag">{{ $name }} ({{ len $taxonomy }})</a>
             {{ $count = add $count 1 }}
             {{ end }}
             {{ end }}
