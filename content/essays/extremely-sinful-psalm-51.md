@@ -1,9 +1,9 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- CHRISTIAN DOCTRINE 1
-- MANKIND (anthropology)
-- DEPRAVITY, ESSAYS ON hUMAN
+- Christian Doctrine 1
+- Mankind (anthropology)
+- Depravity, Essays on Human
 date: '2026-01-13'
 draft: false
 title: 'EXTREMELY SINFUL: Psalm 51'

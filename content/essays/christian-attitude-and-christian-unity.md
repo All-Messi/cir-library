@@ -1,9 +1,9 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- INTERPERSONALISM
-- IP IMPACT ON TOPICS
-- UNITY Christian and IP
+- Interpersonalism
+- Ip Impact on Topics
+- Unity Christian and Ip
 date: '2026-01-13'
 draft: false
 title: CHRISTIAN ATTITUDE AND CHRISTIAN UNITY

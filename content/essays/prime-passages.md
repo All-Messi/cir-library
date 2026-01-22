@@ -1,8 +1,8 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- INTERPRETATION
-- PRIME PASSAGES
+- Interpretation
+- Prime Passages
 date: '2026-01-13'
 draft: false
 title: PRIME PASSAGES

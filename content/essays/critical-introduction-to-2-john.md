@@ -1,9 +1,9 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- EVIDENCES
-- CRITICAL INTRO, New Testament
-- 1 2 3 JOHN
+- Evidences
+- Critical Intro, New Testament
+- 1, 2, 3 John
 date: '2026-01-13'
 draft: false
 title: CRITICAL INTRODUCTION TO 2 JOHN

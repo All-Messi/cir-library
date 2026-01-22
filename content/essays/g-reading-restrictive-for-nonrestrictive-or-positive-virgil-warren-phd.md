@@ -2,8 +2,8 @@
 author: "G.\tReading restrictive for nonrestrictive (or positive)\t              \
   \ Virgil Warren, PhD"
 categories:
-- INTERPRETATION
-- INTERPRETATION--GETTING THE POINT book
+- Interpretation
+- Interpretation--getting the Point Book
 date: '2026-01-13'
 draft: false
 title: "G.\tReading restrictive for nonrestrictive (or positive)\t               Virgil\

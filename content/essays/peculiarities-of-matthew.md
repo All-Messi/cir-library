@@ -1,9 +1,9 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- EVIDENCES
-- CRITICAL INTRO, New Testament
-- MATTHEW
+- Evidences
+- Critical Intro, New Testament
+- Matthew
 date: '2026-01-13'
 draft: false
 title: PECULIARITIES OF MATTHEW

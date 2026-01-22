@@ -1,8 +1,8 @@
 ---
 author: Virgil Warren, christir.org
 categories:
-- MINISTRY
-- COMMUNION MEDITATIONS
+- Ministry
+- Communion Meditations
 date: '2026-01-13'
 draft: false
 title: Communion Meditation

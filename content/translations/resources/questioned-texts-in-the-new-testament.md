@@ -5,7 +5,7 @@ categories:
 date: '2026-01-13'
 draft: false
 title: QUESTIONED TEXTS IN THE NEW TESTAMENT
-weight: 1
+weight: 50
 ---
 
 QUESTIONED TEXTS IN THE NEW TESTAMENT

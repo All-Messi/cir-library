@@ -1,7 +1,7 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- SALVATION none
+- Salvation None
 date: '2026-01-13'
 draft: false
 title: FRIENDS OF GOD, SONS OF ABRAHAM

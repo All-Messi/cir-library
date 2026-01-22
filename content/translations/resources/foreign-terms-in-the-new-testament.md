@@ -5,7 +5,7 @@ categories:
 date: '2026-01-13'
 draft: false
 title: FOREIGN TERMS IN THE NEW TESTAMENT
-weight: 1
+weight: 30
 ---
 
 FOREIGN TERMS IN THE NEW TESTAMENT

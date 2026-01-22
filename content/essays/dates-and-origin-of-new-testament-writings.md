@@ -1,9 +1,9 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- EVIDENCES
-- CRITICAL INTRO, New Testament
-- CANON  NT BOOKS
+- Evidences
+- Critical Intro, New Testament
+- Canon Nt Books
 date: '2026-01-13'
 draft: false
 title: DATES AND ORIGIN OF NEW TESTAMENT WRITINGS

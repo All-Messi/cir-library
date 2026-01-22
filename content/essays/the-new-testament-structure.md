@@ -1,8 +1,8 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- CHRISTIAN DOCTRINE 1
-- CHURCH  (ecclesiology)
+- Christian Doctrine 1
+- Church (ecclesiology)
 date: '2026-01-13'
 draft: false
 title: THE NEW TESTAMENT STRUCTURE

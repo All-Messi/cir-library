@@ -1,7 +1,7 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- MINISTRY
+- Ministry
 - Interim Ministry
 date: '2026-01-13'
 draft: false

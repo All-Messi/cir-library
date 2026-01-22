@@ -1,8 +1,8 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- CHRISTIAN DOCTRINE 1
-- ETHICS
+- Christian Doctrine 1
+- Ethics
 date: '2026-01-13'
 draft: false
 title: 'COMMENTS ON DIVORCE: MATTHEW 5:32'

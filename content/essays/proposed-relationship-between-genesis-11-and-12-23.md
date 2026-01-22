@@ -1,8 +1,8 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- CHRISTIAN DOCTRINE 1
-- CREATION
+- Christian Doctrine 1
+- Creation
 date: '2026-01-13'
 draft: false
 title: PROPOSED RELATIONSHIP BETWEEN GENESIS 1:1 AND 1:2-2:3

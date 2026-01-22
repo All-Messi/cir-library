@@ -1,8 +1,8 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- INTERPERSONALISM
-- IP IMPACT ON TOPICS
+- Interpersonalism
+- Ip Impact on Topics
 date: '2026-01-13'
 draft: false
 title: PSYCHOLOGICAL STRENGTH FROM INTERPERSONALISM

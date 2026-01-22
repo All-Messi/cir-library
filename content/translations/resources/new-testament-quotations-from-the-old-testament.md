@@ -5,7 +5,7 @@ categories:
 date: '2026-01-13'
 draft: false
 title: New Testament Quotations from the Old Testament
-weight: 1
+weight: 40
 ---
 
 New Testament Quotations from the Old Testament

@@ -1,8 +1,8 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- CHRISTIAN DOCTRINE 1
-- REVELATION  SCRIPTURE (bibliology)
+- Christian Doctrine 1
+- Revelation Scripture (bibliology)
 date: '2026-01-13'
 draft: false
 title: NOTATIONS ON GENERAL REVELATION

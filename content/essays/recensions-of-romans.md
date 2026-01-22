@@ -1,9 +1,9 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- EVIDENCES
-- CRITICAL INTRO, New Testament
-- ROMANS
+- Evidences
+- Critical Intro, New Testament
+- Romans
 date: '2026-01-13'
 draft: false
 title: RECENSIONS OF ROMANS

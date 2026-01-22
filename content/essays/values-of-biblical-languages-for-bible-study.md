@@ -1,8 +1,8 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- INTERPRETATION
-- PASSAGES WHERE GREEK HELPS
+- Interpretation
+- Passages Where Greek Helps
 date: '2026-01-13'
 draft: false
 title: VALUES OF BIBLICAL LANGUAGES FOR BIBLE STUDY

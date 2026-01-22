@@ -1,8 +1,8 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- EVIDENCES
-- CONTRADICTIONS, Resolving in Scripture
+- Evidences
+- Contradictions, Resolving in Scripture
 date: '2026-01-13'
 draft: false
 title: RESOLVING APPARENT CONTRADICTIONS IN SCRIPTURE

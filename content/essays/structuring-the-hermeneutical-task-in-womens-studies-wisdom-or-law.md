@@ -1,8 +1,8 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- CHRISTIAN DOCTRINE 1
-- WOMEN'S STUDIES
+- Christian Doctrine 1
+- Women's Studies
 date: '2026-01-13'
 draft: false
 title: 'STRUCTURING THE HERMENEUTICAL TASK IN WOMEN’S STUDIES: WISDOM OR LAW?'

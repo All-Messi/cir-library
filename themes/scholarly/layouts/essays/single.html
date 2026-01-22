@@ -25,7 +25,7 @@
         <div class="essay-meta">
             <span class="categories">
                 {{ range .Params.categories }}
-                <a href="{{ "categories/" | absURL }}{{ . | urlize }}/">{{ . }}</a>
+                <a href="{{ "categories/" | absURL }}{{ . | urlize }}/">{{ . | lower | title }}</a>
                 {{ end }}
             </span>
         </div>

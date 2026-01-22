@@ -1,8 +1,8 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- EVIDENCES
-- EVIL, Problem of (theodicy)
+- Evidences
+- Evil, Problem of (theodicy)
 date: '2026-01-13'
 draft: false
 title: 'GOOD AND EVIL IN ETERNAL PERSPECTIVE:'

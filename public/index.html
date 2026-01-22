@@ -79,7 +79,14 @@
         const results = searchData.filter(item => {
             return (item.title && item.title.toLowerCase().includes(query)) ||
                    (item.content && item.content.toLowerCase().includes(query));
-        }).slice(0, 6); 
+        }).sort((a, b) => {
+            
+            const aIsEssay = !a.book;
+            const bIsEssay = !b.book;
+            if (aIsEssay && !bIsEssay) return -1;
+            if (!aIsEssay && bIsEssay) return 1;
+            return 0;
+        }).slice(0, 8); 
 
         if (results.length === 0) {
             dropdown.style.display = 'none';

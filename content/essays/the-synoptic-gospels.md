@@ -1,9 +1,9 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- EVIDENCES
-- CRITICAL INTRO, New Testament
-- Mt Mk Lk  SYNOPTICS
+- Evidences
+- Critical Intro, New Testament
+- Mt Mk Lk Synoptics
 date: '2026-01-13'
 draft: false
 title: THE SYNOPTIC GOSPELS

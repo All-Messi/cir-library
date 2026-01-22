@@ -1,9 +1,9 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- EVIDENCES
-- CRITICAL INTRO, New Testament
-- THESSALONIANS
+- Evidences
+- Critical Intro, New Testament
+- Thessalonians
 date: '2026-01-13'
 draft: false
 title: TRACING PAUL’S MOVEMENTS

@@ -1,7 +1,7 @@
 ---
 author: Virgil warren     christir.org
 categories:
-- CIR  NOTION IN A NUTSHELL needs addeds
+- CIR Notion in a Nutshell
 date: '2026-01-13'
 draft: false
 title: BAPTISM

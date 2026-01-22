@@ -2135,24 +2135,7 @@ strong em .verse-num {
     text-align: center;
 }
 
-.btn-primary {
-    display: inline-block;
-    padding: 0.75rem 1.5rem;
-    background: #2563eb;
-    color: white;
-    text-decoration: none;
-    border-radius: 6px;
-    font-weight: 500;
-}
-
-.btn-primary:hover {
-    background: #1d4ed8;
-}
-
-.btn-large {
-    font-size: 1.1rem;
-    padding: 1rem 2rem;
-}
+/* btn-primary and btn-large are defined earlier in file - removed duplicate blue definition */
 
 /* ==========================================
    Dropdown Navigation
@@ -2212,4 +2195,48 @@ strong em .verse-num {
     .harmony-topic {
         page-break-inside: avoid;
     }
+}
+
+/* ==========================================
+   Essay Overflow Fix - Prevent Horizontal Scrolling
+   ========================================== */
+
+.essay {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.essay-content {
+    overflow-x: hidden;
+}
+
+.content-body {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-word;
+    overflow-x: hidden;
+}
+
+/* Handle long URLs and strings */
+.content-body a,
+.content-body p,
+.content-body li {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}
+
+/* Prevent tables from causing overflow */
+.content-body table {
+    max-width: 100%;
+    overflow-x: auto;
+    display: block;
+}
+
+/* Prevent pre/code blocks from causing overflow */
+.content-body pre,
+.content-body code {
+    max-width: 100%;
+    overflow-x: auto;
+    white-space: pre-wrap;
+    word-wrap: break-word;
 }

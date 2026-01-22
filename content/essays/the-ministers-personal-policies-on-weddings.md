@@ -1,7 +1,7 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- MINISTRY
+- Ministry
 - Cm-105
 date: '2026-01-13'
 draft: false

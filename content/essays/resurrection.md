@@ -1,8 +1,8 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- CHRISTIAN DOCTRINE 1
-- FUTURE THINGS (eschatology)
+- Christian Doctrine 1
+- Future Things (eschatology)
 date: '2026-01-13'
 draft: false
 title: RESURRECTION

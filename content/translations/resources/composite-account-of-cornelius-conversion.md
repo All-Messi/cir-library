@@ -5,7 +5,7 @@ categories:
 date: '2026-01-13'
 draft: false
 title: COMPOSITE ACCOUNT OF CORNELIUS’ CONVERSION
-weight: 1
+weight: 20
 ---
 
 COMPOSITE ACCOUNT OF CORNELIUS’ CONVERSION

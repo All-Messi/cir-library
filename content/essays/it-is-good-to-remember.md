@@ -1,7 +1,7 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- MINISTRY
+- Ministry
 - Sermons
 - Memorial Day Messages
 date: '2026-01-13'

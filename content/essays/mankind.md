@@ -1,8 +1,8 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- CHRISTIAN DOCTRINE 1
-- MANKIND (anthropology)
+- Christian Doctrine 1
+- Mankind (anthropology)
 date: '2026-01-13'
 draft: false
 title: MANKIND

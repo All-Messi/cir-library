@@ -1,8 +1,8 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- EVIDENCES
-- CREATION (AND EVOLUTION)
+- Evidences
+- Creation (and Evolution)
 date: '2026-01-13'
 draft: false
 title: INTELLIGENTLY DISCUSSING CREATION AND EVOLUTION

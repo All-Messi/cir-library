@@ -1,9 +1,9 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- CHRISTIAN DOCTRINE 1
-- MANKIND (anthropology)
-- THE NATURE OF MAN  (book)
+- Christian Doctrine 1
+- Mankind (anthropology)
+- The Nature of Man (book)
 date: '2026-01-13'
 draft: false
 title: IMAGE AND LIKENESS

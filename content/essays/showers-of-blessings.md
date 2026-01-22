@@ -1,8 +1,8 @@
 ---
 author: Virgil Warren, Straight, April 17, 1966, p6
 categories:
-- MINISTRY
-- STRAIGHT THINKING FOR YOUTH
+- Ministry
+- Straight Thinking for Youth
 date: '2026-01-13'
 draft: false
 title: Showers of Blessings

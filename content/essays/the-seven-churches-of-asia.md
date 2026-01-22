@@ -1,9 +1,9 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- EVIDENCES
-- CRITICAL INTRO, New Testament
-- REVELATION
+- Evidences
+- Critical Intro, New Testament
+- Revelation
 date: '2026-01-13'
 draft: false
 title: THE SEVEN CHURCHES OF ASIA

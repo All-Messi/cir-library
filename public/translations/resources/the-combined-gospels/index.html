@@ -39,30 +39,26 @@
     <main class="site-main">
         <div class="container">
             
-<article class="bible-chapter">
-    <header class="chapter-header">
-        <nav class="book-nav">
-            <a href="http://localhost:1313/cir-library/translations/">← All Books</a>
-            
-        </nav>
-        <h1>THE COMBINED GOSPELS</h1>
-    </header>
-
-    <nav class="chapter-nav">
-        
-        
-        <div class="chapter-selector">
-            <label for="chapter-select">Jump to Chapter:</label>
-            <select id="chapter-select" onchange="location = this.value;">
-                <option value="">Select...</option>
-                
-            </select>
-        </div>
-
-        
+<article class="resource-article">
+    <nav class="breadcrumb">
+        <a href="http://localhost:1313/cir-library/resources/">← Resources</a>
     </nav>
 
-    <div class="chapter-content">
+    <header class="article-header">
+        <h1>THE COMBINED GOSPELS</h1>
+        
+        <p class="author">Virgil Warren, PhD</p>
+        
+        
+        <div class="categories">
+            
+            <span class="category-tag">Bible Resources</span>
+            
+        </div>
+        
+    </header>
+
+    <div class="article-content">
         <p>THE COMBINED GOSPELS</p>
 <p>Mt Mk Lk Jn</p>
 <p>Luke’s Prologue (Lk 1:1-4)</p>
@@ -2023,16 +2019,25 @@
 <p>christir.org</p>
 
     </div>
-
-    <nav class="chapter-nav bottom">
-        
-        
-    </nav>
-
-    <footer class="chapter-footer">
-        <p class="translation-note">From the Conversational New Testament translation by Virgil Warren, PhD</p>
-    </footer>
 </article>
+
+<style>
+.resource-article {
+    max-width: var(--reading-width);
+    margin: 0 auto;
+}
+
+.category-tag {
+    display: inline-block;
+    padding: 0.25rem 0.75rem;
+    background: var(--hover-color);
+    color: var(--secondary-color);
+    border-radius: 3px;
+    font-size: 0.85em;
+    font-weight: 600;
+    margin-right: 0.5rem;
+}
+</style>
 
         </div>
     </main>
@@ -2050,7 +2055,5 @@
 
     <script src="/cir-library/js/main.js"></script>
     
-<script src="/cir-library/js/bible.js"></script>
-
 </body>
 </html>

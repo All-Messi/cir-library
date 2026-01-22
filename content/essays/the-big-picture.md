@@ -1,8 +1,8 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- CHRISTIAN DOCTRINE 1
-- DOCTRINAL Summaries
+- Christian Doctrine 1
+- Doctrinal Summaries
 date: '2026-01-13'
 draft: false
 title: THE BIG PICTURE

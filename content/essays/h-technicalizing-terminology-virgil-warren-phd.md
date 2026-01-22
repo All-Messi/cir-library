@@ -1,8 +1,8 @@
 ---
 author: "H. Technicalizing terminology\t\t Virgil Warren, PhD"
 categories:
-- INTERPRETATION
-- INTERPRETATION--GETTING THE POINT book
+- Interpretation
+- Interpretation--getting the Point Book
 date: '2026-01-13'
 draft: false
 title: "H. Technicalizing terminology\t\t Virgil Warren, PhD"

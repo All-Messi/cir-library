@@ -1,8 +1,8 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- CHRISTIAN DOCTRINE 1
-- CREATION
+- Christian Doctrine 1
+- Creation
 date: '2026-01-13'
 draft: false
 title: THE MOSES-TIME VIEWPOINT OF GENESIS-DEUTERONOMY

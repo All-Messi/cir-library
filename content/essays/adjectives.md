@@ -1,9 +1,9 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- GrkFeatures
 - Greek Features
-- GreeKVOCPRJ
+- Greek Features
+- Greekvocprj
 date: '2026-01-13'
 draft: false
 title: ADJECTIVES

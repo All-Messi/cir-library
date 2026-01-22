@@ -1,8 +1,8 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- CHRISTIAN DOCTRINE 1
-- SALVATION (soteriology)
+- Christian Doctrine 1
+- Salvation (soteriology)
 date: '2026-01-13'
 draft: false
 title: TWO RESPONSES TO SIN

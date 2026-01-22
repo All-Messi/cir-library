@@ -1,9 +1,9 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- INTERPRETATION
-- COMMENTARIES
-- Seermon on the Mount comment bok
+- Interpretation
+- Commentaries
+- Sermon on the Mount Commentary
 date: '2026-01-13'
 draft: false
 title: OATHS AND ADVERSARIES

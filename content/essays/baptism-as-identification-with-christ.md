@@ -1,8 +1,8 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- CHRISTIAN DOCTRINE 1
-- BAPTISM
+- Christian Doctrine 1
+- Baptism
 date: '2026-01-13'
 draft: false
 title: BAPTISM AS IDENTIFICATION WITH CHRIST

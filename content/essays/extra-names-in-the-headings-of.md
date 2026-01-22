@@ -1,8 +1,8 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- EVIDENCES
-- CRITICAL INTRO, New Testament
+- Evidences
+- Critical Intro, New Testament
 - Corinthians
 date: '2026-01-13'
 draft: false

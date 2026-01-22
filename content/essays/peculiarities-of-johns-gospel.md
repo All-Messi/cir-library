@@ -1,9 +1,9 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- EVIDENCES
-- CRITICAL INTRO, New Testament
-- JOHN
+- Evidences
+- Critical Intro, New Testament
+- John
 date: '2026-01-13'
 draft: false
 title: PECULIARITIES OF JOHN’S GOSPEL

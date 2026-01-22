@@ -5,7 +5,7 @@ categories:
 date: '2026-01-13'
 draft: false
 title: CHRIST’S RESURRECTION APPEARANCES
-weight: 1
+weight: 10
 ---
 
 CHRIST’S RESURRECTION APPEARANCES

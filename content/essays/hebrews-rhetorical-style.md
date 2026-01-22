@@ -1,9 +1,9 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- EVIDENCES
-- CRITICAL INTRO, New Testament
-- HEBREWS
+- Evidences
+- Critical Intro, New Testament
+- Hebrews
 date: '2026-01-13'
 draft: false
 title: HEBREWS’ RHETORICAL STYLE

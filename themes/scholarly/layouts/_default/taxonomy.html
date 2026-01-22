@@ -1,7 +1,7 @@
 {{ define "main" }}
 <div class="taxonomy-list">
     <header class="page-header">
-        <h1>{{ .Title }}</h1>
+        <h1>{{ .Title | lower | title }}</h1>
         <p class="taxonomy-count">{{ len .Pages }} essays in this category</p>
     </header>
 
@@ -28,13 +28,21 @@
     {{ end }}
     
     {{ $uniqueSubs := uniq $subCategories }}
-    {{ if gt (len $uniqueSubs) 0 }}
+    {{ $nonEmptySubs := slice }}
+    {{ range $uniqueSubs }}
+        {{ $subCatPage := $.Site.GetPage (printf "categories/%s" (. | urlize)) }}
+        {{ if and $subCatPage (gt (len $subCatPage.Pages) 0) }}
+            {{ $nonEmptySubs = $nonEmptySubs | append . }}
+        {{ end }}
+    {{ end }}
+    
+    {{ if gt (len $nonEmptySubs) 0 }}
     <section class="subcategories">
         <h2>Subcategories</h2>
         <div class="subcategory-grid">
-            {{ range $uniqueSubs }}
+            {{ range $nonEmptySubs }}
             <a href="{{ "categories/" | absURL }}{{ . | urlize }}/" class="subcategory-card">
-                {{ . }}
+                {{ . | lower | title }}
             </a>
             {{ end }}
         </div>
@@ -47,13 +55,10 @@
             {{ range .Pages.ByTitle }}
             <article class="essay-card">
                 <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-                {{ if .Params.author }}
-                <p class="essay-author">{{ .Params.author }}</p>
-                {{ end }}
                 {{ if .Params.categories }}
                 <p class="essay-categories">
                     {{ range .Params.categories }}
-                    <a href="{{ "categories/" | absURL }}{{ . | urlize }}/" class="category-tag">{{ . }}</a>
+                    <a href="{{ "categories/" | absURL }}{{ . | urlize }}/" class="category-tag">{{ . | lower | title }}</a>
                     {{ end }}
                 </p>
                 {{ end }}

@@ -5,7 +5,7 @@ categories:
 date: '2026-01-13'
 draft: false
 title: COMPOSITE ACCOUNT OF PAUL’S CONVERSION
-weight: 1
+weight: 21
 ---
 
 COMPOSITE ACCOUNT OF PAUL’S CONVERSION

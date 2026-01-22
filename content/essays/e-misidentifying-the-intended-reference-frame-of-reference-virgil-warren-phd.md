@@ -2,8 +2,8 @@
 author: E. Misidentifying the Intended Reference (frame of reference)      Virgil
   Warren, PhD
 categories:
-- INTERPRETATION
-- INTERPRETATION--GETTING THE POINT book
+- Interpretation
+- Interpretation--getting the Point Book
 date: '2026-01-13'
 draft: false
 title: E. Misidentifying the Intended Reference (frame of reference)      Virgil Warren,

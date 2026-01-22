@@ -1,8 +1,8 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- CHRISTIAN DOCTRINE 1
-- PROVIDENCE
+- Christian Doctrine 1
+- Providence
 date: '2026-01-13'
 draft: false
 title: THINKING ABOUT GOD’S WILL

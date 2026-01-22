@@ -1,9 +1,9 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- EVIDENCES
-- CRITICAL INTRO, New Testament
-- LUKE
+- Evidences
+- Critical Intro, New Testament
+- Luke
 date: '2026-01-13'
 draft: false
 title: PECULIARITIES OF LUKE

@@ -1,9 +1,9 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- CHRISTIAN DOCTRINE 1
-- CHURCH  (ecclesiology)
-- ORDINATION
+- Christian Doctrine 1
+- Church (ecclesiology)
+- Ordination
 date: '2026-01-13'
 draft: false
 title: ORIENTATION TO ORDINATION

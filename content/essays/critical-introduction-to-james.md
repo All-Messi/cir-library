@@ -1,9 +1,9 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- EVIDENCES
-- CRITICAL INTRO, New Testament
-- JAMES
+- Evidences
+- Critical Intro, New Testament
+- James
 date: '2026-01-13'
 draft: false
 title: CRITICAL INTRODUCTION TO JAMES

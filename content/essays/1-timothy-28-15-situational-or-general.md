@@ -1,9 +1,9 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- CHRISTIAN DOCTRINE 1
-- WOMEN'S STUDIES
-- Women's Studies S 1TIM 2
+- Christian Doctrine 1
+- Women's Studies
+- Women's Studies S 1tim 2
 date: '2026-01-13'
 draft: false
 title: '1 TIMOTHY 2:8-15: SITUATIONAL OR GENERAL?'

@@ -1,8 +1,8 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- MINISTRY
-- COMMUNION MEDITATIONS
+- Ministry
+- Communion Meditations
 date: '2026-01-13'
 draft: false
 title: COMMUNION MEDITATIONS

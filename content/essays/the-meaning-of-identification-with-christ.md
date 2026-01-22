@@ -1,8 +1,8 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- CHRISTIAN DOCTRINE 1
-- ATONEMENT
+- Christian Doctrine 1
+- Atonement
 date: '2026-01-13'
 draft: false
 title: THE MEANING OF “IDENTIFICATION WITH CHRIST”

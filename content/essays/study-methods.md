@@ -1,7 +1,7 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- INTERPRETATION
+- Interpretation
 date: '2026-01-13'
 draft: false
 title: STUDY METHODS

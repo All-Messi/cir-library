@@ -1,8 +1,8 @@
 ---
 author: Virgil Warren, christir.org
 categories:
-- MINISTRY
-- INTERMENTS
+- Ministry
+- Interments
 date: '2026-01-13'
 draft: false
 title: INTERMENT

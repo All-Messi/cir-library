@@ -1,7 +1,7 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- INTERPRETATION
+- Interpretation
 - Brain Teasers (assignments)
 date: '2026-01-13'
 draft: false

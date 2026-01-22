@@ -1,8 +1,8 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- INTERPRETATION
-- MISUSED OASSAGES
+- Interpretation
+- Misused Passages
 date: '2026-01-13'
 draft: false
 title: MISUSED BIBLICAL TEXTS

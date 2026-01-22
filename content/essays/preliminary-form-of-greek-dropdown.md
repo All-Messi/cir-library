@@ -1,7 +1,7 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Features of Internet Ministry  right one for 2025
+- Features of Internet Ministry Right One for 2025
 date: '2026-01-13'
 draft: false
 title: Preliminary Form of Greek Dropdown

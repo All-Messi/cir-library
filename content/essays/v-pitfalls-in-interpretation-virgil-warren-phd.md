@@ -1,8 +1,8 @@
 ---
 author: "V. PITFALLS IN INTERPRETATION  \t               Virgil Warren, PhD"
 categories:
-- INTERPRETATION
-- INTERPRETATION--GETTING THE POINT book
+- Interpretation
+- Interpretation--getting the Point Book
 date: '2026-01-13'
 draft: false
 title: "V. PITFALLS IN INTERPRETATION  \t               Virgil Warren, PhD"

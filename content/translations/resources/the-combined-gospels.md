@@ -5,7 +5,7 @@ categories:
 date: '2026-01-13'
 draft: false
 title: THE COMBINED GOSPELS
-weight: 1
+weight: 60
 ---
 
 THE COMBINED GOSPELS

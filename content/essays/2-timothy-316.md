@@ -1,9 +1,9 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- CHRISTIAN DOCTRINE 1
-- REVELATION  SCRIPTURE (bibliology)
-- SCRIPTURE
+- Christian Doctrine 1
+- Revelation Scripture (bibliology)
+- Scripture
 date: '2026-01-13'
 draft: false
 title: 2 TIMOTHY 3:16

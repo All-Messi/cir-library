@@ -1,9 +1,9 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- EVIDENCES
-- CRITICAL INTRO, New Testament
-- TIMOTHY TITUS Pastoral Epistles
+- Evidences
+- Critical Intro, New Testament
+- Timothy Titus Pastoral Epistles
 date: '2026-01-13'
 draft: false
 title: 'PASTORALS: DATE, DESTINATION, SEQUENCE, PURPOSE'

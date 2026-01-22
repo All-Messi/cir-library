@@ -5,43 +5,19 @@
     <loc>http://localhost:1313/cir-library/translations/resources/2-peter-2-and-jude-compared/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cir-library/categories/canon--nt-books/</loc>
-    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/cir-library/essays/canon-criticism/</loc>
-    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/resources/christs-resurrection-appearances/</loc>
-    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/resources/composite-account-of-cornelius-conversion/</loc>
-    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/resources/composite-account-of-pauls-conversion/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/essays/dates-and-origin-of-new-testament-writings/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/resources/foreign-terms-in-the-new-testament/</loc>
-    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/cir-library/essays/general-schematic-for-christian-apologetics/</loc>
-    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/resources/new-testament-quotations-from-the-old-testament/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/essays/peg-dates-for-new-testament-studies/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/essays/primary-questions-in-the-collection/</loc>
-    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/resources/questioned-texts-in-the-new-testament/</loc>
-    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/resources/the-combined-gospels/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/essays/the-determining-principles-for-canonicity/</loc>
@@ -134,6 +110,8 @@
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/amos/chapter-01/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/amos/chapter-01/</loc>
+  </url><url>
+    <loc>http://localhost:1313/cir-library/categories/canon--nt-books/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-nt/colossians/chapter-01/</loc>
   </url><url>
@@ -330,6 +308,9 @@
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/zephaniah/chapter-01/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/zephaniah/chapter-01/</loc>
+  </url><url>
+    <loc>http://localhost:1313/cir-library/translations/resources/2-peter-and-jude-greek/</loc>
+    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/categories/doctrinal-summaries/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
@@ -1118,12 +1099,6 @@
     <loc>http://localhost:1313/cir-library/essays/misused-biblical-texts/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cir-library/categories/misused-oassages/</loc>
-    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/categories/mt-mk-lk--synoptics/</loc>
-    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/cir-library/essays/questions-about-christian-baptism/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -1316,6 +1291,8 @@
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/micah/chapter-05/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/micah/chapter-05/</loc>
+  </url><url>
+    <loc>http://localhost:1313/cir-library/categories/mt-mk-lk--synoptics/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/nehemiah/chapter-05/</loc>
   </url><url>
@@ -2057,6 +2034,9 @@
     <loc>http://localhost:1313/cir-library/essays/c-irrationalism-improper-thinking-patterns-virgil-warren-phd/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/cir-library/translations/resources/christs-resurrection-appearances/</loc>
+    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/cir-library/essays/comments-on-fulfill/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -2310,9 +2290,6 @@
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/essays/peculiarities-of-johns-gospel/</loc>
-    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/categories/seermon-on-the-mount-comment-bok/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/essays/strength-for-today/</loc>
@@ -3511,6 +3488,9 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/wooden-nt/revelation/chapter-19/</loc>
   </url><url>
+    <loc>http://localhost:1313/cir-library/translations/resources/composite-account-of-cornelius-conversion/</loc>
+    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/1-chronicles/chapter-20/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/1-chronicles/chapter-20/</loc>
@@ -3622,7 +3602,7 @@
     <loc>http://localhost:1313/cir-library/essays/colossians-philemon-and-ephesians-sent/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cir-library/categories/eph-col-phil-rpison-epsitles/</loc>
+    <loc>http://localhost:1313/cir-library/translations/resources/composite-account-of-pauls-conversion/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/categories/ephesians/</loc>
@@ -4439,10 +4419,10 @@
     <loc>http://localhost:1313/cir-library/essays/dispensations/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cir-library/categories/dispesnations/</loc>
+    <loc>http://localhost:1313/cir-library/essays/exegesis-and-the-gospels/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cir-library/essays/exegesis-and-the-gospels/</loc>
+    <loc>http://localhost:1313/cir-library/translations/resources/foreign-terms-in-the-new-testament/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/essays/israels-core-commandments/</loc>
@@ -4819,9 +4799,6 @@
     <loc>http://localhost:1313/cir-library/categories/2-peter/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cir-library/essays/2-peter-and-jude-in-parallel/</loc>
-    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/cir-library/essays/critical-introduction-to-2-peter/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -4897,9 +4874,6 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/psalms/chapter-37/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/categories/1-2-3-john/</loc>
-    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/cir-library/essays/critical-introduction-to-1-john/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -4908,6 +4882,8 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/essays/critical-introduction-to-3-john/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cir-library/categories/1-2-3-john/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/exodus/chapter-38/</loc>
   </url><url>
@@ -4976,7 +4952,7 @@
     <loc>http://localhost:1313/cir-library/essays/a-format-for-thinking-about-feet-washing/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cir-library/categories/feetwashiing/</loc>
+    <loc>http://localhost:1313/cir-library/translations/resources/new-testament-quotations-from-the-old-testament/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/exodus/chapter-40/</loc>
@@ -5284,6 +5260,9 @@
     <loc>http://localhost:1313/cir-library/essays/layout-of-thoughts-on-deuteronomy-64/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/cir-library/translations/resources/questioned-texts-in-the-new-testament/</loc>
+    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/cir-library/essays/the-divine-trinity/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -5449,6 +5428,9 @@
     <loc>http://localhost:1313/cir-library/translations/cyv/psalms/chapter-59/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/essays/mankind/</loc>
+    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cir-library/translations/resources/the-combined-gospels/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/essays/the-purpose-of-mankind/</loc>
@@ -5630,9 +5612,6 @@
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/essays/two-systems-for-righteousness/</loc>
-    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/essays/x-x-x/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/psalms/chapter-75/</loc>
@@ -5950,19 +5929,10 @@
     <loc>http://localhost:1313/cir-library/essays/god-breathedness-as-the-character-of-scripture/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cir-library/essays/12-02-2024-home-page-structure/</loc>
-    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/essays/12-11-2023-home-page-structure/</loc>
-    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/cir-library/essays/2-james-conviction-converted-to-works/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/essays/3-james-self-determination-converted-to-prayer/</loc>
-    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/essays/december-2024-home-page-preliminary-structure/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/essays/1-timothy-28-15-situational-or-general/</loc>
@@ -5984,12 +5954,6 @@
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/essays/abbreviated-time/</loc>
-    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/essays/about-the-author/</loc>
-    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/essays/about-the-site/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/essays/abstract-of-concepts-relevant-to-womens-studies/</loc>
@@ -6079,7 +6043,7 @@
     <loc>http://localhost:1313/cir-library/essays/chapter-iv/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cir-library/categories/characteristics-of-iinterpersonalism/</loc>
+    <loc>http://localhost:1313/cir-library/categories/characteristics-of-interpersonalism/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/essays/characteristics-of-interpersonalism/</loc>
@@ -6089,9 +6053,6 @@
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/categories/christian-doctrine-1/</loc>
-    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/categories/christian-internet-min--march-ff-corresp/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/essays/christian-liberal-arts-education/</loc>
@@ -6110,12 +6071,6 @@
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/essays/church-policies-on-weddings/</loc>
-    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/categories/cir--notion-in-a-nutshell-needs-addeds/</loc>
-    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/categories/cir-just-a-thought-needs-more/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/categories/cm-101/</loc>
@@ -6202,6 +6157,9 @@
     <loc>http://localhost:1313/cir-library/essays/d-applying-tests-to-contemporary-claims-of-speaking-in-languages-tongues-speaking/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/cir-library/categories/dispensations/</loc>
+    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/cir-library/essays/distinctives-of-a-rural-ministry/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -6212,6 +6170,9 @@
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/essays/education-for-use/</loc>
+    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cir-library/categories/eph-col-phil-prison-epistles/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/essays/epistemology-as-interpersonal/</loc>
@@ -6256,10 +6217,7 @@
     <loc>http://localhost:1313/cir-library/essays/faith-as-interpersonal/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cir-library/categories/features-of-internet-ministry--right-one-for-2025/</loc>
-    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/essays/february-2-1998/</loc>
+    <loc>http://localhost:1313/cir-library/categories/feet-washing/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/essays/female-metaphors-for-god/</loc>
@@ -6316,12 +6274,6 @@
     <loc>http://localhost:1313/cir-library/categories/greek-features/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cir-library/categories/greekvocprj/</loc>
-    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/categories/grkfeatures/</loc>
-    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/cir-library/essays/group-prayer-patterns/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -6344,9 +6296,6 @@
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/essays/hermeneutics-as-interpersonal/</loc>
-    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/essays/hi-dad/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/essays/holy-spirit-as-interpersonal/</loc>
@@ -6448,9 +6397,6 @@
     <loc>http://localhost:1313/cir-library/categories/jonah/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cir-library/essays/just-a-thought/</loc>
-    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/cir-library/essays/keeping-current/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -6530,6 +6476,9 @@
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/essays/misapplying-the-christian-system-ip/</loc>
+    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cir-library/categories/misused-passages/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/essays/moralityethics/</loc>
@@ -6649,9 +6598,6 @@
     <loc>http://localhost:1313/cir-library/essays/salvation-as-interpersonal/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cir-library/categories/salvation-none/</loc>
-    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/cir-library/essays/sanctification-as-interpersonal/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -6662,6 +6608,9 @@
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/essays/self-image-as-interpersonal/</loc>
+    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cir-library/categories/sermon-on-the-mount-commentary/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/categories/sermons/</loc>
@@ -6835,12 +6784,6 @@
     <loc>http://localhost:1313/cir-library/essays/time-and-distance-terms/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cir-library/categories/tithing/</loc>
-    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/essays/topics-list-for-the-home-page/</loc>
-    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/cir-library/essays/traditional-reasons-for-gods-creating-us/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -6856,13 +6799,7 @@
     <loc>http://localhost:1313/cir-library/essays/truth-and-education-in-a-christian-worldview/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cir-library/essays/try-this-httpswwwbillmouncecomfreegreekfontunicode-windows/</loc>
-    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/cir-library/categories/unity-christian-and-ip/</loc>
-    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/essays/untitled/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/essays/verbs/</loc>
@@ -6918,9 +6855,13 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/categories/evil-problem-of-theodicy/</loc>
   </url><url>
+    <loc>http://localhost:1313/cir-library/categories/grkfeatures/</loc>
+  </url><url>
     <loc>http://localhost:1313/cir-library/categories/know-how-we---epistemology/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/categories/the-nature-of-man--book/</loc>
+  </url><url>
+    <loc>http://localhost:1313/cir-library/categories/tithing/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/categories/womens-studies/</loc>
   </url><url>
@@ -6929,6 +6870,9 @@
     <loc>http://localhost:1313/cir-library/categories/womens-studies-s-1tim-2/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/categories/womens-studies-s-gal-3-28/</loc>
+  </url><url>
+    <loc>http://localhost:1313/cir-library/categories/1-2-3-john/</loc>
+    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/categories/apologetics-book/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
@@ -6942,16 +6886,25 @@
     <loc>http://localhost:1313/cir-library/categories/brain-teasers-assignments/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/cir-library/categories/canon-nt-books/</loc>
+    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/cir-library/categories/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/categories/christ-christology/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/cir-library/categories/christian-internet-min-march-ff-corresp/</loc>
+    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/cir-library/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cir-library/categories/church--ecclesiology/</loc>
+    <loc>http://localhost:1313/cir-library/categories/church-ecclesiology/</loc>
+    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cir-library/categories/cir-notion-in-a-nutshell/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/categories/contradictions-resolving-in-scripture/</loc>
@@ -6972,28 +6925,40 @@
     <loc>http://localhost:1313/cir-library/categories/evil-problem-of-theodicy/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/cir-library/categories/features-of-internet-ministry-right-one-for-2025/</loc>
+    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/cir-library/categories/future-things-eschatology/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cir-library/categories/god--theology-proper/</loc>
+    <loc>http://localhost:1313/cir-library/categories/god-theology-proper/</loc>
+    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cir-library/categories/greekvocprj/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/categories/holy-spirit-pneumatology/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cir-library/categories/know-how-we---epistemology/</loc>
+    <loc>http://localhost:1313/cir-library/categories/know-how-we-epistemology/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/categories/mankind-anthropology/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cir-library/categories/revelation--scripture-bibliology/</loc>
+    <loc>http://localhost:1313/cir-library/categories/mt-mk-lk-synoptics/</loc>
+    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cir-library/categories/revelation-scripture-bibliology/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/categories/salvation-soteriology/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cir-library/categories/the-nature-of-man--book/</loc>
+    <loc>http://localhost:1313/cir-library/categories/salvation-none/</loc>
+    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cir-library/categories/the-nature-of-man-book/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/categories/womens-studies/</loc>

@@ -8,7 +8,7 @@
     <div class="resources-preview">
         <h3>Resources</h3>
         <div class="resource-tags">
-            {{ range .Pages }}
+            {{ range .Pages.ByWeight }}
             <a href="{{ .Permalink }}" class="resource-tag">{{ .Title }}</a>
             {{ end }}
         </div>

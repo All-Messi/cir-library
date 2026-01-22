@@ -1,9 +1,9 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- CHRISTIAN DOCTRINE 1
-- HOLY SPIRIT (pneumatology)
-- Speaking in Languages TONGUE SPEAKING
+- Christian Doctrine 1
+- Holy Spirit (pneumatology)
+- Speaking in Languages Tongue Speaking
 date: '2026-01-13'
 draft: false
 title: "2. \tXenoglossia"

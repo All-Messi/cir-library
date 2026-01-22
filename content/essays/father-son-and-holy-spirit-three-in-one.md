@@ -1,8 +1,8 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- CHRISTIAN DOCTRINE 1
-- GOD  (theology proper)
+- Christian Doctrine 1
+- God (theology Proper)
 date: '2026-01-13'
 draft: false
 title: 'FATHER, SON, AND HOLY SPIRIT: THREE-IN-ONE'

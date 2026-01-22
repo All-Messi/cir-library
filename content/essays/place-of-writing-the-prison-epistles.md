@@ -1,9 +1,9 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- EVIDENCES
-- CRITICAL INTRO, New Testament
-- Eph Col Phil RPISON EPSITLES
+- Evidences
+- Critical Intro, New Testament
+- Eph Col Phil Prison Epistles
 date: '2026-01-13'
 draft: false
 title: PLACE OF WRITING THE PRISON EPISTLES

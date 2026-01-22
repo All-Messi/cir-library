@@ -1,7 +1,7 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- GrkFeatures
+- Greek Features
 - Greek Features
 date: '2026-01-13'
 draft: false
