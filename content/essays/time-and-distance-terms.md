@@ -2,8 +2,7 @@
 author: Virgil Warren, PhD
 categories:
 - Greek Features
-- Greek Features
-date: '2026-01-13'
+date: '2026-01-23'
 draft: false
 title: TIME AND DISTANCE TERMS
 weight: 999

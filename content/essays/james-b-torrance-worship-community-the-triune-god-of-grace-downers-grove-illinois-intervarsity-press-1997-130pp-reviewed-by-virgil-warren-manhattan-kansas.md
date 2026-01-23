@@ -3,9 +3,11 @@ author: 'James B. Torrance. Worship, Community & the Triune God of Grace. Downer
   Grove, Illinois: InterVarsity Press, 1997. 130pp. Reviewed by Virgil Warren, Manhattan,
   Kansas.'
 categories:
-- Christian Doctrine 1
-- Women's Studies
-date: '2026-01-13'
+- Topics
+- CHRISTIAN DOCTRINE
+- MANKIND (anthropology)
+- WOMEN'S STUDIES
+date: '2026-01-23'
 draft: false
 title: 'James B. Torrance. Worship, Community & the Triune God of Grace. Downers Grove,
   Illinois: InterVarsity Press, 1997. 130pp. Reviewed by Virgil Warren, Manhattan,

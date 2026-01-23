@@ -1,10 +1,10 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Interpretation
-- Commentaries
-- Sermon on the Mount Commentary
-date: '2026-01-13'
+- INTERPRETATION
+- COMMENTARIES
+- Sermon on the Mount Commentary (Book)
+date: '2026-01-23'
 draft: false
 title: JESUS AND THE LAW
 weight: 11

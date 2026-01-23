@@ -1,10 +1,10 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Evidences
-- Critical Intro, New Testament
-- Mt Mk Lk Synoptics
-date: '2026-01-13'
+- EVIDENCES
+- CRITICAL INTRODUCTION -  New Testament
+- Mt Mk Lk  SYNOPTICS
+date: '2026-01-23'
 draft: false
 title: THE RELATIONSHIP OF THE SYNOPTICS
 weight: 5

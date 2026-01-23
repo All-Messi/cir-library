@@ -1,9 +1,9 @@
 ---
 author: "case)\t\t\t                     Virgil Warre, PhD"
 categories:
-- Interpretation
-- Interpretation--getting the Point Book
-date: '2026-01-13'
+- INTERPRETATION
+- GETTING THE POINT book
+date: '2026-01-23'
 draft: false
 title: "D.\tAdopting an inappropriate model (cp. allegorizing comparisons and nature\
   \ of the"

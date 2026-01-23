@@ -3,7 +3,7 @@ author: Virgil Warren, PhD
 categories:
 - Book Studies
 - James
-date: '2026-01-13'
+date: '2026-01-23'
 draft: false
 title: '(2) JAMES: CONVICTION CONVERTED TO WORKS'
 weight: 999

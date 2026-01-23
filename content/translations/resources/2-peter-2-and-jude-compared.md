@@ -1,15 +1,20 @@
 ---
-title: "2 Peter and Jude Parallel"
+title: "2 Peter 2 and Jude Compared"
 author: "Virgil Warren, PhD"
-date: 2026-01-13
+date: 2026-01-23
 draft: false
 weight: 1
 categories:
   - Bible Resources
+  - 2 Peter
+  - Jude
+see_also:
+  - /essays/critical-introduction-to-2-peter/
+  - /essays/critical-introduction-to-jude/
 ---
 
 <div class="comparison-intro">
-<p>This resource shows the close parallels between 2 Peter chapter 2 and the epistle of Jude, demonstrating the literary relationship between these two New Testament letters.</p>
+<p>This resource shows the English text parallels between 2 Peter and Jude, demonstrating the literary relationship between these two New Testament letters.</p>
 </div>
 
 <table class="comparison-table">
@@ -21,7 +26,7 @@ categories:
 </thead>
 <tbody>
 <tr>
-<td><strong>1:2</strong> Grace to you and peace be multiplied</td>
+<td><strong>1:2</strong> Grace to you and peace be multiplied.</td>
 <td><strong>2</strong> Mercy to you and peace and love be multiplied.</td>
 </tr>
 <tr>
@@ -81,24 +86,24 @@ categories:
 <td><strong>9</strong> Michael the archangel . . . did not dare bring railing judgment against [the devil]</td>
 </tr>
 <tr>
-<td><strong>2:12</strong> but these are creatures without reason, born natural animals to be taken and destroyed, railing in matters of which they are ignorant, will in their destroying . . . be destroyed</td>
-<td><strong>10</strong> these rail at whatever they do not know, and what they understand naturally like creatures without reason, in these things they are destroyed</td>
+<td><strong>2:12</strong> but these are creatures without reason born natural animals to be taken and destroyed railing in matters of which they are ignorant will in their destroying . . . be destroyed</td>
+<td><strong>10</strong> these rail at whatever they do not know and what they understand naturally like creatures without reason in these things they are destroyed</td>
 </tr>
 <tr>
 <td><strong>2:13</strong> while they feast with you</td>
-<td></td>
-</tr>
-<tr>
-<td><strong>2:15</strong> forsaking the right way, they went astray, having followed the way of Balaam the son of Beor, who loved the hire of wrongdoing</td>
-<td><strong>11</strong> . . . they went in the way of Cain, and ran riotously in the error of Balaam for hire.</td>
-</tr>
-<tr>
-<td></td>
 <td><strong>12</strong> These are hidden rocks in your love-feasts when they feast with you</td>
 </tr>
 <tr>
-<td><strong>2:17</strong> These are springs without water, mists driven by a storm, for whom the blackness of darkness has been reserved.</td>
-<td>. . . clouds without water, carried along by winds . . . for whom the blackness of darkness has been reserved forever.</td>
+<td><strong>2:15</strong> forsaking the right way, they went astray having followed the way of Balaam the son of Beor who loved the hire of wrongdoing</td>
+<td><strong>11</strong> . . . they went in the way of Cain and ran riotously in the error of Balaam for hire.</td>
+</tr>
+<tr>
+<td><strong>2:17</strong> These are springs without water mists driven by a storm for whom the blackness of darkness has been reserved.</td>
+<td>. . . clouds without water carried along by winds . . . for whom the blackness of darkness has been reserved forever.</td>
+</tr>
+<tr>
+<td></td>
+<td><strong>13</strong> wild waves of the sea, foaming out their own shame, wandering stars for whom the blackness of darkness has been reserved forever.</td>
 </tr>
 <tr>
 <td><strong>2:18</strong> uttering great swelling (words) of vanity, they entice in the lusts of the flesh</td>
@@ -114,7 +119,7 @@ categories:
 </tr>
 <tr>
 <td><strong>3:3</strong> knowing this first that in the last days mockers will come with mockery walking after their own lusts</td>
-<td><strong>18</strong> that they said to you, "In the last time there will be mockers walking after their own ungodly lusts</td>
+<td><strong>18</strong> that they said to you, "In the last time there will be mockers walking after their own ungodly lusts"</td>
 </tr>
 </tbody>
 </table>

@@ -1,9 +1,10 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Christian Doctrine 1
-- Christ (christology)
-date: '2026-01-13'
+- Topics
+- CHRISTIAN DOCTRINE
+- CHRIST (Christology)
+date: '2026-01-23'
 draft: false
 title: THE CHRIST
 weight: 6

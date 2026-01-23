@@ -1,9 +1,10 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Christian Doctrine 1
-- Future Things (eschatology)
-date: '2026-01-13'
+- Topics
+- CHRISTIAN DOCTRINE
+- FUTURE THINGS (eschatology)
+date: '2026-01-23'
 draft: false
 title: RESURRECTION
 weight: 45

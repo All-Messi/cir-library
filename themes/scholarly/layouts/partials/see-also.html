@@ -1,0 +1,29 @@
+{{/* See Also / Related Content Partial */}}
+{{/* Usage: Add see_also list to frontmatter with page paths */}}
+{{/* Example:
+see_also:
+  - /essays/critical-introduction-to-2-peter/
+  - /essays/critical-introduction-to-jude/
+*/}}
+
+{{ if .Params.see_also }}
+<div class="see-also">
+    <h3>📚 Related Resources</h3>
+    <ul>
+        {{ range .Params.see_also }}
+            {{ $page := site.GetPage . }}
+            {{ if $page }}
+                <li>
+                    <a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a>
+                    {{ if $page.Params.author }}
+                        <span class="see-also-meta">by {{ $page.Params.author }}</span>
+                    {{ end }}
+                </li>
+            {{ else }}
+                {{/* If page not found, try as URL */}}
+                <li><a href="{{ . }}">{{ . }}</a></li>
+            {{ end }}
+        {{ end }}
+    </ul>
+</div>
+{{ end }}

@@ -1,9 +1,10 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Christian Doctrine 1
-- God (theology Proper)
-date: '2026-01-13'
+- Topics
+- CHRISTIAN DOCTRINE
+- GOD  (theology proper)
+date: '2026-01-23'
 draft: false
 title: THE DIVINE TRINITY
 weight: 50

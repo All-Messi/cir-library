@@ -2,7 +2,7 @@
 author: Virgil Warren, PhD
 categories:
 - General
-date: '2026-01-13'
+date: '2026-01-23'
 draft: false
 title: GLOSSARY OF COMMUNICATION-RELATED TERMS
 weight: 999

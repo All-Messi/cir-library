@@ -1,9 +1,10 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Christian Doctrine 1
-- Salvation (soteriology)
-date: '2026-01-13'
+- Topics
+- CHRISTIAN DOCTRINE
+- SALVATION (soteriology)
+date: '2026-01-23'
 draft: false
 title: PRESENTING THE GOSPEL TO “THE GOOD MORAL MAN”
 weight: 75

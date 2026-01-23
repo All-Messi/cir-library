@@ -1,9 +1,10 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Interpersonalism
-- Characteristics of Interpersonalism
-date: '2026-01-13'
+- Topics
+- INTERPERSONALISM
+- CHARACTERISTICS OF IINTERPERSONALISM
+date: '2026-01-23'
 draft: false
 title: 'CHRISTIANITY BY CONTRAST: SKETCHES'
 weight: 999

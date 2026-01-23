@@ -1,9 +1,9 @@
 ---
 author: Virgil Warren, Ph.D.
 categories:
-- Evidences
-- Evil, Problem of (theodicy)
-date: '2026-01-13'
+- EVIDENCES
+- EVIL, Problem of (theodicy)
+date: '2026-01-23'
 draft: false
 title: 'SUFFERING IN THE WORLD: DOES GOD LOVE US?'
 weight: 999

@@ -1,10 +1,12 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Christian Doctrine 1
-- Women's Studies
+- Topics
+- CHRISTIAN DOCTRINE
+- MANKIND (anthropology)
+- WOMEN'S STUDIES
 - Women's Studies S Gal 3 28
-date: '2026-01-13'
+date: '2026-01-23'
 draft: false
 title: 'ADDENDUM: “MALE AND FEMALE”'
 weight: 999

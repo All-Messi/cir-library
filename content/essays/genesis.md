@@ -1,0 +1,1954 @@
+---
+author: Virgil Warren, PhD
+categories:
+- Texts
+- The Conversational Version
+- The Conversational Old Testament ok 3-20-19
+- THE YAHVEH COVENANT (by book)
+date: '2026-01-23'
+draft: false
+title: GENESIS
+weight: 9
+---
+
+GENESIS
+
+Conversational Yahveh Version
+
+The Whole Creation
+
+1:1In the beginning God created earth and sky.
+
+2Earth was unformed and empty, and open water lay in the darkness. God’s Spirit was moving over the ocean. 3God said, “Let there be light,” and there was light. 4He saw the light was good and separated it from darkness. 5He called light “day” and darkness “night.” Morning and evening made day one.
+
+6God said, “Let an expanse separate the water 7below it from the water above it.” It happened. 8He called the expanse “sky.” Morning and evening made day two.
+
+9God said, “Let the water below the sky gather in one place and dry land appear.” It happened. 10He called the dry part “land” and called the water “ocean.” He saw it was good. 11He said, “Let the land sprout vegetation—plants with seeds and trees that bear fruit with seeds after their kind.” It happened. 12The land sprouted vegetation—plants with seeds like themselves and trees that bore fruit with seeds in them. 13He saw it was good. Morning and evening made day three.	 Gen 1:1-13
+
+14God said, “Let there be lights in the sky to separate day from night and to mark days, years, and seasons. 15Let them shine on the earth.” It happened. 16He made two big lights, the bigger one to govern the day and the smaller one to govern the night. He made the stars too. 17God put them in the sky to shine on the earth, 18to separate light from darkness, and to preside over day and night. He saw it was good. 19Morning and evening made day four.
+
+20God said, “Let the water teem with animals, and let birds fly in the sky above the land.” 21He created large ocean animals and every animal that moves in the water after their kind and the birds that fly after their kind. He saw it was good. 22He blessed them, “Reproduce and fill the water in the oceans, and let birds multiply on the land.” 23Morning and evening made day five.
+
+Gen 1:14-23
+
+24God said, “Let the ground produce animals that reproduce after their kind: cattle, crawling things, living things.” It happened. 25He made living things from the ground after their kind, cattle after their kind, and every small animal that moves around on the ground after its kind. He saw it was good.
+
+26God said,
+
+“Let’s make people in our image—like us. Let’s make them responsible for the fish, the birds, the cattle, the earth, and everything that moves around on the ground.”
+
+27So he created people in his own image, created them male and female, 28and blessed them, “Reproduce, populate the earth, and preside over it. Be responsible for the fish in the ocean, the birds in the sky, and the animals on the ground. 29-30Green plants that yield seed and trees that bear fruit I’ve given you and the animals for food.” It happened. 31He saw that everything he’d made was very good. Morning and evening made day six.
+
+2:1-2The seventh day God had finished creating the earth and sky and everything in them, and he rested from his work. 3He blessed the seventh day and set it aside because he’d finished working that day.	Gen 1:24-2:3
+
+The Creation of Mankind
+
+4This is what Yahveh God did when he created the earth and sky. 5Shrubs and plants hadn’t sprouted yet, because heY hadn’t made it rain and there wasn’t anybody to cultivate the ground. 6A mist was coming up from the ground to water it. 7Then heY formed a man out of the “ground,” breathed into him, and made him alive. The man became a living, breathing being.
+
+8Yahveh God planted an orchard in the East in Eden and put the man there. 9From the ground heY made trees grow that looked nice and were good for producing food. In the orchard he planted the tree of life and the tree for knowing good and bad. 10A river ran out of Eden to water the orchard. Then it separated into four rivers: 11-12the Pishon, that flows around the land of Havilah, where there’s fine gold, bdellium, and onyx; 13the Gihon, that flows around Cush; 14the Tigris, that flows east of Assyria; and the Euphrates. 	Gen 2:4-14
+
+15Yahveh God put the man in the orchard to trim it and take care of it. 16HeYG told him,
+
+“You’re free to eat the fruit from any tree in the orchard 17except the one that gives the knowledge of good and bad. If you eat its fruit, you’ll die.”
+
+18Yahveh God said, “It’s not good for the man to be by himself. I’ll make him a helper that corresponds to him.” 19Out of the ground he’dY formed every land animal and bird. He brought them to the man to see what he’d call them. Whatever he called them became their name. 20He named the cattle, birds, and wild animals; but he didn’t find a helper that corresponded to him.	Gen 2:15-20
+
+21So Yahveh God put him into a deep sleep, took one of his ribs, and closed up the flesh in place of it. 22HeY formed a woman from the rib and brought her to him. 23The man said,
+
+“This is bone from my bones,
+
+flesh from my flesh.
+
+She’ll be called ‘woman,’
+
+because she was taken out of ‘man.’”
+
+24That’s why a man is to leave his parents and unite with his wife, and they’ll become one physical identity. 25The man and his wife were both naked, but they weren’t self-conscious.
+
+Gen 2:21-25
+
+The Fall
+
+3:1The snake was more devious than any other wild animal Yahveh God had made. It asked the woman, “Did God really tell youpl not to eat the fruit of any tree in the orchard?”
+
+2She said, “We’re free to eat fruit from any tree 3but the one in the middle of the orchard. God said not to eat its fruit or touch it. We’ll die.”
+
+4The snake said, “You’repl not going to die! 5God knows that when youpl eat its fruit, it’ll open yourpl eyes, and you’llpl be like gods, knowing good and bad.”
+
+6When she saw that the tree was good for food, looked nice, and was desirable for making a person wise, she ate some of its fruit and gave it to her husband, and he ate some. 7Their eyes were opened, and they realized they were naked. They sewed fig leaves together and made loin cloths. 	Gen 3:1-7
+
+Punishments for Sin
+
+8When they heard Yahveh walking in the orchard in the evening, they hid from him Yahveh among the trees. 9HeY called out for the man, “Where are you?”
+
+10The man said, “When I heard you walking in the orchard, I was afraid because I was naked, so I hid.”
+
+11“Who told you you were naked? Did you eat some fruit from the tree I told you not to?”
+
+12“The woman you made to be with me gave me some, and I ate it.”
+
+13Yahveh God asked her, “What did you do?”
+
+“The snake lied to me, and I ate the fruit.”	Gen 3:8-13
+
+14Yahveh God told it,
+
+“Because you’ve done that,
+
+you’re more accursed than any cattle
+
+or animals in the field.
+
+You’ll slither around on your belly,
+
+and eat dust your whole life.
+
+15I’ll put hostility
+
+between you and the woman,
+
+between your offspring and hers.
+
+Her offspring will crush your head,
+
+and you’ll bruise her offspring’s heel.”			      Gen 3:14-15
+
+16He told the woman,
+
+“I’ll significantly increase
+
+your pain in childbirth.
+
+Though you’ll bear children in pain,
+
+you’ll still desire your husband,
+
+and he’ll have authority over you.”
+
+17He told the man,
+
+“Because you’ve listened to your wife
+
+and eaten fruit from the tree I told you not to,
+
+the ground is cursed.
+
+Your whole life you’ll work to eat from it.
+
+18-19It’ll grow thorns and thistles for you;
+
+you’ll eat by sweating
+
+till you go back to the ground.
+
+You were taken from dust,
+
+and you’ll go back to it.”					     Gen 3:16-19
+
+20Adam called his wife Eve because she was the mother of everyone that’s “lived.” 21Yahveh God made clothes for them out of skin. 22HeY said, “People have become like one of us, knowing good and bad. Now, to keep them from taking fruit from the tree of life, eating it, and living forever . . . .” 23HeY sent them out of the orchard to cultivate the ground he’d taken them from. 24He stationed cherubs east of the orchard in Eden, and a flaming sword that pointed in every direction to block access to the tree of life.  	Gen 3:20-24
+
+Cain Murders Abel
+
+4:1Adam had relations with Eve, and she had Cain. She said, “I’ve ‘produced’ a man with Yahveh’s help.” 2She also had Abel. Abel herded sheep; Cain cultivated the ground. 3In time, Cain brought some produce to offer to Yahveh. 4Abel brought some firstborn from the best in his flock. Yahveh regarded Abel and his offering favorably, 5but not Cain and his offering. It made Cain mad.
+
+6Yahveh God asked him, “What are you mad about? Why are you sad? 7Won’t you feel happy if you do well? If you don’t, sin’s making its den at your door. It wants you, but you have to overrule it.” 8Cain told Abel about it. While they were in the field, Cain attacked him and killed him.      	Gen 4:1-8
+
+9Yahveh God asked him, “Where’s your brother?”
+
+“I don’t know. I’m not his shepherd, am I?”
+
+10“What’ve you done? His blood is crying out to me from the ground. 11You’re cursed from the ground that soaked up his blood that you shed. 12When you cultivate it, it won’t produce like it did. You’ll roam around and be on the run in the world.”
+
+13Cain said,
+
+“I can’t take such punishment! 14You’ve driven me away from the ground, you’re withdrawing from me, and I’ll be roaming around and on the run in the world. Whoever finds me will kill me!”
+
+15Yahveh told him, “Whoever kills you I’ll pay back seven times as much.” HeY put a mark on him so nobody would kill him. 16He went away from Yahveh and settled in Nod, east of Eden.	Gen 4:9-16
+
+17Cain had relations with his wife, and she had Enoch. Cain built a city and named it after his son. 18Enoch was father of Irad Avi-Mehujael Avi-Methushael Avi-Lamech.
+
+19Lamech had two wives, Adah and Zillah. 20Adah had Jabal, the forerunner of nomads and herdsmen. 21His brother Jubal was the forerunner of musicians that play lyres and flutes. 22Zillah had Tubalcain, the forerunner of artisans in bronze and iron. His sister was Naamah.
+
+23Lamech told his wives,
+
+“Adah and Zillah, listen;
+
+wives of Lamech, attend to what I’m saying.
+
+I killed a man for wounding me,
+
+a young man for striking me.
+
+24If Cain was avenged 7 times over,
+
+Lamech will be avenged 77 times.”
+
+25Adam had relations with his wife again, and she had a son she named Seth, because “God gave me an ‘offspring’ to replace Abel that Cain killed.” 26Seth had a son he named Enosh.
+
+People began to call on Yahveh.	Gen 4:17-26
+
+5:1Adam’s Descendants
+
+God created people to be like himself. 2He made them male and female, blessed them, and called them human.
+
+3Adam lived 130 years and had a son in his own image like himself. He named him Seth. 4He lived 800 years after that and had sons and daughters. 5Altogether he lived 930 years and died.
+
+6Seth lived 105 years and had Enosh. 7He lived 807 years after that and had sons and daughters. 8Altogether he lived 912 years and died.	Gen 5:1-8
+
+9Enosh lived 90 years and had Kenan. 10He lived 815 years after that and had sons and daughters. 11Altogether he lived 905 years and died.
+
+12Kenan lived 70 years and had Mahalalel. 13He lived 840 years after that and had sons and daughters. 14Altogether he lived 910 years and died.
+
+15Mahalalel lived 65 years and had Jared. 16He lived 830 years after that and had sons and daughters. 17Altogether he lived 895 years and died.
+
+18Jared lived 162 years and had Enoch. 19He lived 800 years after that and had sons and daughters. 20Altogether he lived 962 years and died.	Gen 5:9-20
+
+21Enoch lived 65 years and had Methuselah. 22Then Enoch walked with God 300 years after that and had sons and daughters. 32Altogether he lived 365 years. 24He walked with God and wasn’t there because God took him.
+
+25Methuselah lived 187 years and had Lamech. 26He lived 782 years after that and had sons and daughters. 27Altogether he lived 969 years and died.
+
+28Lamech lived 182 years and had a son. 29He named him “Noah,” “He’ll ‘relieve’ us of our labor from the ground Yahveh cursed.” 30Lamech lived 595 years after that and had sons and daughters. 31Altogether he lived 775 years and died.
+
+32Noah was 500 years old and had Shem, Ham, and Japheth.	 Gen 5:21-32
+
+Evil Multiplies
+
+6:1When people were multiplying and having daughters, 2the sons of God saw they were beautiful and took as many wives as they wanted.
+
+3Yahveh God said, “My breath won’t remain in humans as long because they’re physical. They’ll come to live 120 years.”
+
+4There were important men then and later when the sons of God had relations with women and had children. They were the powerful men of old, men of renown. 5Yahveh saw that people had become so wicked that every motive was evil. 6HeY was grieved from having made them. 7“I’llY wipe them out along with the animals, crawling things, and birds.” 8But Noah was pleasing to himY. 	Gen 6:1-8
+
+9Noah’s Generations
+
+Noah was a good man, blameless in his time, one that followed God. 10He had three sons: Shem, Ham, and Japheth. 11The world had become corrupt and full of violence. [12]
+
+13God told Noah,
+
+“It’s obvious that I need to wipe people out. They’ve filled the world with violence. I’m going to destroy them along with the world. 14Build an ark out of gopher wood, make rooms in it, and coat it with pitch inside and out. 15Make it 450 x 75 x 45ft tall. 16Put a window in it 1½ft from the top and a door in the side of it. Build 3 floors in it. 17I’m going to bring a flood on the world to destroy everything that breathes, everything on land. 18But I’ll make a covenant with you. Get in the ark with your wife, sons, and their wives. 19Take a male and female from every kind of animal to keep them alive: 20birds, animals, and crawling things will come to you. 21Gather as much food as you and the animals will eat.”
+
+22Noah followed his instructions.	Gen 6:9-22
+
+The Great Flood
+
+7:1Then Yahveh told Noah,
+
+“Get in the ark with your family. I’ve seen that you’re good. 2Take every clean animal by sevens, male and female. Take every ceremonially unclean animal by twos, male and female. 3Take birds by sevens, male and female, to keep offspring alive. 4A week from now, I’ll make it rain for 40 days and nights, and wipe out every living thing I’ve made.”
+
+5Noah followed hisY instructions.	 Gen 7:1-5
+
+6Noah was 600 years old when the flood came. 7He, his wife, sons, and their wives went into the ark because the flood was coming. 8Ceremonially clean and unclean animals, birds, and small animals 9went into the ark to Noah by twos, male and female—like God told him.
+
+10After a week the flood started. 11In Noah’s 600th year, on the seventeenth day, second month, the fountains in the great deep burst, and the flood gates in the sky opened. 12Rain fell for 40 days and nights.	Gen 7:6-12
+
+13Noah, his wife, his sons, and their wives went into the ark the same day. 14So did every wild animal, all the cattle, every small animal that moves around on the ground, and every kind of bird after their kind. 15Two by two everything that breathes went into the ark to Noah—like God told him. 16Yahveh closed the door behind him.
+
+17The flood kept coming for 40 days. 18As it got deeper and deeper, the ark floated on it. 19-20Water covered the tall mountains everywhere by some 22ft. 21Land animals died—birds, cattle, wild animals, swarming things, people—22everything that breathed. 23Only Noah and what was with him in the ark were left. 24The water prevailed over the world for 150 days.
+
+Gen 7:13-24
+
+8:1God remembered Noah and the animals in the ark. He made wind blow over the whole world, and the water started to recede. 2The fountains in the deep and the floodgates in the sky closed, and the rain stopped. 3The water receded steadily for 150 days. 4On the seventeenth day, seventh month, the ark came to rest on the mountains of Ararat. 5The water kept going down till the tenth month. The first day, tenth month, mountains became visible.   	Gen 8:1-5
+
+6After 40 days Noah opened the window of the ark, 7and sent out a raven that flew around till the water dried up. 8Then he sent out a pigeon to see if the water had gone down, 9but it didn’t find anywhere to land and came back. The water was still covering the ground. Noah held out his hand and brought the pigeon into the ark. 10After a week he sent it out again. 11It came back toward evening with a new olive leaf in its beak. So Noah knew the water had gone down. 12Another week later he sent it out again, and it didn’t come back.
+
+13-14On the first day, first month, 601st year, the water had dried up. The twenty-seventh day, second month Noah took the roof off the ark and saw that the ground was dry. 14-15God told him 16to leavepl the ark 17and take the animals out so they could reproduce and multiply. 18Noah’s family went out, 19and the animals left the ark after their kind.	 Gen 8:6-19
+
+Life After the Flood
+
+20Noah built an altar to Yahveh and took one from every ceremonially clean animal and bird, and offered burnt offerings on it. 21Yahveh smelled the pleasing aroma and said to himself,
+
+“I’ll never curse the ground again because of people’s evil motives from their youth up. I’ll never destroy every living thing again. 22As long as the world is here, seedtime and harvest, heat and cold, summer and winter, day and night will keep happening.”
+
+9:1God blessed Noah and his sons,
+
+“Reproduce and repopulate the world. 2Animals and birds will be afraid of you. I’ve made you responsible for what moves on the ground and for the fish in the ocean. 3You can eat anything that lives and moves as well as the green plants, 4but don’t eat the blood with the meat. 5I’ll demand your life from every animal and everyone 6that sheds someone’s blood. They will have their blood shed because I made people in my image. 7Reproduce and repopulate the world abundantly.” 	Gen 8:20-9:7
+
+8God told Noah and his sons,
+
+9“I’m establishing a covenant with you, your descendants, 10and the living things that left the ark: 11I’ll never again get rid of people and animals and destroy the world with a flood. 12-13My rainbow in the clouds represents that covenant for all generations: 14when I bring clouds over the earth, the rainbow 15will remind me of my covenant.” [16-17]
+
+18Noah’s sons that came out of the ark were Shem, Ham, and Japheth; Ham was Canaan’s father. 19Noah’s sons began to repopulate the world.	 Gen 9:8-19
+
+20Noah began to cultivate the ground and planted a vineyard. 21He drank the wine and got drunk and uncovered himself in his tent. 22Ham saw him naked and told his brothers outside. 23Shem and Japheth held a cloak over their shoulders, walked backwards, and looked away so they wouldn’t see him naked.
+
+24When Noah woke up from his wine, he found out what his youngest son had done. 25He said,
+
+“Accursed be Canaan. He’ll be the lowest of servants to his brothers. 26Bless Yahveh, Shem’s God. Canaan will serve Shem. 27May God give Japheth an extensive inheritance. He’ll live in Shem’s tents, and Canaan will serve him.”
+
+28Noah lived 350 years after the flood. 29Altogether he lived 950 years and died.  	Gen 9:20-29
+
+The Table of Nations
+
+10:1The Generations of Shem, Ham, and Japheth,
+
+Noah’s Sons and Their Descendants
+
+2Japheth was the father of Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.
+
+3Gomer was the father of Ashkenaz, Riphath, and Togarmah.
+
+4Javan was the father of Elishah, Tarshish, Kittim, and Dodanim.
+
+5Those descendants spread inland from the coasts into their nations, each by language and clan.
+
+Gen 10:1-5
+
+6Ham was the father of Cush, Mizraim, Put, and Canaan.
+
+7Cush was the father of Seba, Havilah, Sabtah, Raamah, and Sabteca.
+
+Raamah was the father of Sheba and Dedan.
+
+8Cush was also the father of Nimrod, who became prominent in the world, 9a great hunter before Yahveh. It became an expression, “Like Nimrod, a great hunter before Yahveh.” 10His kingdom stretched across Babel, Erech, Accad, and Calneh in Shinar. 11From that land he went to Assyria and built Nineveh, Rehoboth-Ir, Calah, 12and Resen, a big city between Nineveh and Calah.
+
+13Mizraim became the father of the Ludim, Anamim, Lehabim, Naphtuhim, 14Pathrusim, Casluhim (ancestors of the Philistines), and Caphtorim. 	Gen 10:6-14
+
+15Canaan became the father of Sidon, his firstborn, Heth, 16the Jebusites, Amorites, Girgashites, 17Hivites, Arkites, Simites, 18Arvadites, Zemarites, Hamathites. Afterwards the Canaanite clans spread out 19from Sidon—on the way to Gera—as far as Gaza across to Sodom, Gomorrah, Admah, and Zeboiim as far as Lasha.
+
+20Those were Ham’s descendants by clan, language, territory, and nation.	 Gen 10:15-20
+
+21Shem, Japheth’s older brother, became the ancestor of Eber’s descendants. 22Shem’s sons were Elam, Asshur, Arpachshad, Lud, and Aram.
+
+23Aram’s sons were Uz, Hul, Gether, and Mash.
+
+24Arpachshad became the father of Shelah Avi-Eber.
+
+25Eber had two sons.
+
+One was Peleg; in his time the earth divided. Joktan was his brother, 26and father of Almodad, Sheleph, Hazarmaveth, Jerah, 27Hadoram, Uzal, Diklah, 28Obal, Abimael, Sheba, 29Ophir, Havilah, and Jobab. 30They lived from Mesha all the way to Sephar in the eastern hill country.
+
+31Those were Shem’s descendants by clan, language, territory, and nation.
+
+32Those were the clans of Noah’s descendants by genealogy, language, and nation. Nations spread out from them after the flood.	 Gen 10:21-32
+
+The Confusion of Languages
+
+11:1The whole world was speaking the same language. 2As people spread east, they found a plain in Shinar and settled there. 3They said, “Let’s make bricks and fire them thoroughly.” They used brick for stone and tar for mortar. 4“Let’s build a city and a tower that reaches the sky. Let’s make a name for ourselves so we won’t get scattered out all over the world.”
+
+5Yahveh came down to see the city and tower they were building,
+
+6“They’re one set of people with the same language. They’re starting to do this, and they’ll be able to do anything they want to.  7Let’s confuse their language so they can’t understand each other.”
+
+8Yahveh scattered them across the world, and they stopped building their city. 9They called the city Babel because that’s where Yahveh “confused” the language of the world.    	Gen 11:1-9
+
+10Shem’s Generations
+
+Shem was 100 years old when Arpachshad was born, two years after the flood. 11He lived 500 years after that and had sons and daughters.
+
+12Arpachshad had lived 35 years when Shelah was born. 13He lived 403 years after that and had sons and daughters.
+
+14Shelah had lived 30 years when Eber was born. 15He lived 403 years after that and had sons and daughters.
+
+16Eber had lived 34 years when Peleg was born. 17He lived 209 years after that and became the father of sons and daughters.	Gen 11:10-17
+
+18Peleg had lived 30 years when Reu was born. 19Peleg lived 209 years after that and had sons and daughters.
+
+20Reu had lived 32 years when Serug was born. 21He lived 207 years after that and had sons and daughters.
+
+22Serug had lived 30 years when Nahor was born. 23He lived 200 years after that and had sons and daughters.
+
+24Nahor had lived 29 years when Terah was born. 25He lived 119 years after that and had sons and daughters.
+
+26Terah had lived 70 years when Abram, Nahor, and Haran were born.	Gen 11:18-26
+
+27Terah’s Generations
+
+Terah was the father of Abram, Nahor, and Haran Avi-Lot. 28Haran died before his father Terah in Ur of the Chaldeans, where he was born.
+
+29Abram and Nahor married. Abram’s wife was Sarai; Nahor’s wife was Micah, daughter of Haran and sister of Iscah. 30Sarai couldn’t have children. 31Terah took his son Abram and his grandson Lot, and left Ur to settle in Canaan. They made it as far as Haran and lived there. 32Terah died in Haran at age 205.	Gen 11:27-32
+
+The Call of Abram
+
+12:1Yahveh told Abram,
+
+“Leave your country, your relatives, your father’s family,
+
+and go to the land I’ll show you.
+
+2I’ll make you into a big nation, bless you,
+
+and give you a great reputation so you’ll be a blessing.
+
+3I’ll bless the ones that bless you and curse the ones that curse you.
+
+In you I will bless all the families in the world.”
+
+4Abram left when he was 75. 5He took his wife Sarai, his nephew Lot, everything they owned, and the persons they’d gained in Haran. They got to Canaan, 6and Abram traveled through it as far as Shechem, to the Oak of Moreh. Canaanites were living in the land. 	Gen 12:1-6
+
+7Yahveh appeared to Abram, “I’m going to give your descendants this land”; so he built an altar to him. 8He went on from there to the mountain east of Bethel and pitched his tent with Bethel on the west and Ai on the east. He built an altar to Yahveh and called on him. 9He kept on migrating toward the Negev.
+
+10A severe famine arose in the land; so he went on down to Egypt to stay awhile. 11When he got close to Egypt, he told Sarai, “You’re a beautiful woman. 12When the Egyptians see you, they’ll say you’re my wife and kill me. 13Say you’re my sister so they will treat me well.”
+
+Gen 12:7-13
+
+Abram and Sarai in Egypt
+
+14When Abram got to Egypt, the Egyptians did see she was really beautiful. 15Pharaoh’s officials praised her to Pharaoh and took her to his palace. 16He treated Abram well out of regard for her, and gave him sheep, cattle, donkeys, male and female servants, and female donkeys and camels.
+
+17But Yahveh struck Pharaoh and his household with severe plagues because of her. 18Pharaoh called Abram, “What have you done to me? Why didn’t you tell me she was your wife? 19Why did you say she was your sister; so I took her for my wife? Here’s your wife; take her and get out.” 20Pharaoh told his men to escort him away with his wife and everything he had.	Gen 12:14-20
+
+Abram and Lot Separate
+
+13:1Abram, his wife, Lot, and everything he had, went up from Egypt to the Negev. 2He was wealthy in livestock, silver, and gold. 3From the Negev he traveled back to the place between Bethel and Ai where he’d pitched his tent before. 4He went to the altar he’d built there and called on Yahveh.
+
+5Lot had flocks, herds, and tents too, 6and the land couldn’t support them both. They had too many possessions, 7and conflict kept breaking out between their herdsmen. There were Canaanites and Perizzites in the land as well. 8Abram told Lot,
+
+“Let’s not have conflicts between us or our herdsmen; we’re relatives. 9The whole land lies open to you. Separate from me. If you go left, I’ll go right; or vice versa.”
+
+10Lot could see that the Jordan valley was well-watered—like Yahveh’s orchard, like Egypt on the way to Zoar. (That was before Yahveh destroyed Sodom and Gomorrah). 11So Lot chose the Jordan valley and moved east. 12Abram settled in Canaan; Lot settled in the towns in the valley and moved his tents as far as Sodom. 13The men in Sodom were especially wicked.  	 Gen 13:1-13
+
+14After Lot separated from Abram, Yahveh said,
+
+“Look around in every direction. 15I’m going to give your descendants permanently the land you see. 16I’ll make them like dust; if you could count it, that’s how many there’d be. 17Travel around all over it.”
+
+18Abram moved and settled by the grove of oaks that belonged to Mamre at Hebron and built an altar to Yahveh.	 Gen 13:14-18
+
+Abram Rescues Lot
+
+14:1Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of Goiim 2fought Bera king of Sodom, Birsha king of Gomorrah, Shinab king of Adman, Shemeber king of Zeboiim, and the king of Bela (Zoar). 3Those 5 joined forces in the Valley of Siddim (the Dead Sea). 4They’d served Chedorlaomer for 12 years, then revolted. 5That year, he and his allied kings came and defeated the Rephaim in Asheroth-karnaim, the Zuzim in Ham, the Emim in Shaveh-kiriathaim, 6and the Horites in Mount Seir, as far as El-paran by the open country. 7Then they turned back to En-mishpat (Kadesh) and conquered the Amalekites and Amorites in Hazazon-tamar. 8The kings of Sodom, Gomorrah, Admah, Zeboiim, and Bela (Zoar) pitched battle against them in the Valley of Siddim—95 kings against 4. 10The valley was full of tar pits. When the kings of Sodom and Gomorrah fled, they fell into them. The ones that survived escaped to the hills. 11The four kings took the goods and food from Sodom and Gomorrah and left. 12They also took Lot and what he had because he was living in Sodom.	Gen 14:1-12
+
+13One man escaped to tell Abram the Hebrew. He was living by the Oaks of Mamre the Amorite, brother of Eshcol and Aner, Abram’s allies. 14When Abram heard they’d captured his nephew, he mustered 318 trained men born in his house, and pursued them all the way to Dan. 15He divided his men against them at night. He and his forces defeated them and chased them all the way to Hobah, north of Damascus. 16He brought back the goods, Lot, and Lot’s possessions, along with the women and other captives.    	         Gen 14:13-16
+
+Melchizedek Blesses Abram
+
+17When he got back from defeating Chedorlaomer and his allies, the king of Sodom came out to meet him in the Valley of Shaveh (the King’s Valley). 18Melchizedek, king of Salem, priest of God Most High, brought out bread and wine 19and blessed Abram, “May you be blessed by God Most High, owner of earth and sky, 20who delivered your enemies to you.” Abram gave him a tenth of everything.
+
+21The king of Sodom said to Abram, “Give me the captives and keep the goods.”
+
+22Abram said,
+
+“I’ve sworn to Yahveh God Most High, owner of earth and sky, 23that I won’t take a thread, a sandal thong, or anything else that’s yours. I don’t want you to claim you made me rich. 24I’ll only take what the young fighting men have eaten, and the share that belongs to Aner, Eshcol, and Mamre.”	 Gen 14:17-24
+
+The LORD’s Covenant with Abraham
+
+15:1After that, a message from Yahveh came to Abram in a vision, “Don’t worry, Abram; I’m your shield. You’ll have a great reward.”
+
+2Abram asked,
+
+“Yahveh God, what will you give me? I don’t have any children; Eliezer of Damascus is my heir. 3Since you haven’t given me any offspring, a man born in my household will inherit.”
+
+4A message from Yahveh came to him,
+
+“He won’t inherit. Your heir will come from your body.” 5He took him outside, “Look at the sky and count the stars if you can. That’s how many descendants you’ll have,”
+
+6Abram trusted him, and Yahveh considered him good because of it.
+
+7God said, “I’m Yahveh who brought you out of Ur in Chaldea to give you this land.”	8“What guarantee do I have of that?”
+
+9“Bring me a three-year-old heifer, goat, and ram, and a turtledove and young pigeon.”
+
+10He brought them, cut them in half—except for the birds—and laid the halves across from each other. 11Birds of prey came down on the carcasses, but he shooed them away.
+
+Gen 15:1-11
+
+12As the sun was going down, he fell into a deep sleep, and an eerie darkness came over him. 13God told him,
+
+“Your descendants will be foreigners in a country that enslaves them and oppresses them for 400 years. 14I’ll judge that nation, and your descendants will come out with lots of possessions. 15You will pass on to your ancestors in peace and be buried at a good old age. 16In the fourth generation, they’ll come back here. The sinfulness of the Amorites hasn’t climaxed yet.”
+
+17After sundown, it was pitch dark. A fire pot and flaming torch passed between the halves of the carcasses. 18That day Yahveh made a covenant with Abram,
+
+“I’ll give your descendants this land from the River of Egypt to the Euphrates River, along with 19the Kenites, Kenizzites, Kadmonites, 20Hittites, Perizzites, Rephaim, 21Amorites, Canaanites, Girgashites, and Jebusites.” 	Gen 15:12-21
+
+The Birth of Ishmael
+
+16:1Sarai, Abram’s wife, hadn’t had any children. She had an Egyptian maid named Hagar. 2Sarai told Abram, “Yahveh has kept me from having children. Sleep with my maid. Maybe I can have children through her.” Abram took her advice. 3That happened after Abram had lived in Canaan for 10 years. 4He slept with Hagar, and she became pregnant. When she saw she was pregnant, she started disrespecting her mistress. 5Sarai told Abram,
+
+“You’re responsible for the way she’s acting toward me. I gave you my servant; but when she saw she was pregnant, she started disrespecting me. Yahveh decide between you and me.”
+
+6Abram said, “She’s under your authority. Deal with her as you see fit.”
+
+Sarai was so rough on her that she ran away. 	Gen 16:1-6
+
+7The angel of Yahveh found her by a spring in the desert on the way to Shur. 8“Hagar, Sarai’s servant, where have you come from? Where are you going?”
+
+“I’m getting away from my mistress.”
+
+9The angel told her,
+
+“Go back and submit to her. 10I’ll multiply your descendants till they’ll be too many to count. 11You’ll have a son. Call him Ishmael because ‘Yahveh has listened’ to your plight. 12He’ll be like a wild donkey, opposed to everybody and by everybody. He’ll live east of his relatives.”
+
+13She called Yahveh Elroi because she said, “I’m still alive after ‘I saw him.’” 14So the well was called Beer-lahai-roi between Kadesh and Bered. 15Hagar gave Abram a son he named Ishmael. 16He was 86 when she had him.    	Gen 16:7-16
+
+Abram Renamed Abraham
+
+17:1When Abram was 99, Yahveh appeared to him, “I’m God Almighty [El-Shaddai]. Follow me faithfully, 2and I’ll multiply you many times over.” 3Abram fell on his face, and God told him,
+
+4“This is my side of the covenant with you: you’ll be the ancestor of many nations. 5Your name won’t be Abram anymore; it’ll be Abraham because I’ll make you ‘the ancestor of many nations.’ 6I’ll make you really numerous. Nations will descend from you; kings will come out of you. 7With you and your descendants I’ll establish my permanent covenant to be your God. 8I’ll give you and your descendants an ongoing possession—Canaan, where you’ve lived as a nomad. 	Gen 17:1-8
+
+Circumcision as the Covenant Sign
+
+9-10“This is your and your descendants’ side of the covenant: circumcise every male among you 11as a covenant sign between us. 12Circumcise them when they’re eight days old. Circumcise a servant that’s not your descendant whether born in your house or bought from a foreigner. 13Circumcision will be the ongoing, physical covenant sign in sons and servants. 14Any uncircumcised male will be excluded from the community because he hasn’t observed the terms of my covenant.	 Gen 17:9-14
+
+Sarai Renamed Sarah
+
+15“Your wife’s name won’t be Sarai anymore; it’ll be Sarah. 16I’ll bless her and give you a son by her. She’ll be the mother of many nations; kings will come from her.”
+
+17Abraham fell on his face and “laughed” to himself,
+
+“Can a man that’s 100 years old become a father? Can Sarah have a baby when she’s 90? 18If only Ishmael would live under your blessing!”
+
+19God said,
+
+“No, Sarah will have a child. Name him Isaac. I’ll make a permanent covenant with him and his descendants. 20I’ve listened to you about Ishmael. I’ll bless him and make him really numerous, the father of 12 princes, a large nation. 21But my covenant will be with Isaac that Sarah will have next year.”
+
+22When God finished talking, he ascended. 23That same day Abraham circumcised Ishmael, the male servants born in his house, and the ones he’d bought—like God said. 24He was 99 when he was circumcised; 25Ishmael was 13. [26-27]	 Gen 17:15-27
+
+The Birth of Isaac Promised
+
+18:1Yahveh appeared to Abraham by the grove of oaks that belonged to Mamre while he was sitting at the entrance to his tent during the heat of the day. 2He looked up and saw three men standing a little way off. He ran to meet them and bowed to the ground,
+
+3“Sir, if yousg please, 4let me bring some water so you can wash your feet and rest under the tree. 5I’ll bring a loaf of bread so you can refresh yourselves. Then you can go on.”
+
+“All right.”
+
+6Abraham hurried to Sarah in the tent, “Quick! Get three measures of fine flour ready, knead it, and make bread cakes.” 7He ran to the herd and took a choice, tender calf, and gave it to a servant to fix quickly. 8He took yogurt, milk, and the veal he’d fixed and set it in front of them. He stood there under the tree while they ate. 	Gen 18:1-8
+
+9Then they asked, “Where’s Sarah?”
+
+“In the tent.”
+
+10He said, “I’ll come back next year at this time, and Sarah will have a son.” She was listening at the entrance to the tent behind him. 11Abraham and Sarah were getting old. She was too old to have children.
+
+12Sarah laughed to herself, “At this age, am I really going to have that delight? My husband [lord] is old too.”
+
+13Yahveh asked Abraham,
+
+“Why did Sarah laugh and say, ‘Will I really have a child when I’m so old?’ 14Is there anything IY can’t do? Like I said, at this time next year Sarah will have a son.”
+
+15Sarah denied it, “I didn’t laugh.” (She was afraid.)
+
+“Oh yes, you did.”	Gen 18:9-15
+
+Abraham Intercedes for Sodom
+
+16The men got up and looked down toward Sodom. Abraham was walking with them to see them off. 17Yahveh said,
+
+“Should I keep from Abraham what I’m about to do?  18He’ll certainly become a large, strong nation, and bless every nation. 19I’ve chosen him to command his children and household after him to keep myY way by doing what’s good and just; so I can bring on him what I’ve promised.”
+
+20HeY told Abraham, “The outcry from Sodom and Gomorrah is extreme. Their sin is awful. 21I’m going down to see if they’re as bad as their outcry. If not, I’ll know.”	Gen 18:16-21
+
+22The other men turned and started toward Sodom while Abraham was still standing in front of Yahveh, 23Abraham came and said,
+
+“Will you sweep away the good with the bad? 24Supposing there are 50 good people in the city; won’t you spare it for their sake? 25Surely you wouldn’t kill the good with the bad and treat them alike! Surely not! Won’t the Judge of the whole world do what’s right?”
+
+26Yahveh said, “If I find 50 good people in Sodom, I’ll spare the whole place.”
+
+Gen 18:22-26
+
+27Abraham answered, “I’ve dared to speak to you though I’m only dust and ashes, 28Suppose there are 45, will you destroy the whole city because of 5?”
+
+“I won’t destroy it if I find 45.”
+
+29“Suppose there are 40?”
+
+“I won’t do it for the 40.”
+
+30“Lord, don’t be angry. I’ll ask again: suppose you find 30 there?”
+
+“I won’t do it if I find 30 there.”
+
+31“I’ve dared to speak to the Lord; suppose there are 20?”
+
+“I won’t destroy it for the 20.”
+
+32“Lord, don’t be angry, and I’ll speak just one more time. Suppose there are 10?”
+
+“I won’t destroy it for the 10.”
+
+33As soon as he’d finished talking to Abraham, he left, and Abraham went back. 	       Gen 18:27-33
+
+The Destruction of Sodom and Gomorrah
+
+19:1The two angels went to Sodom in the evening as Lot sat in Sodom’s gate. When he saw them, he got up to meet them and bowed to the ground. 2“Sirs, turn aside to my house, wash your feet, and spend the night. You can get up early and go on.”
+
+“No, we’ll spend the night in the square.”
+
+3But he urged them strongly, so they went to his house. He fixed them a meal and baked flat bread, and they ate. 4Before they went to bed, men from all over the city surrounded the house—young and old. 5They called out to Lot, “Where are the men that came tonight? Bring them out so we can rape them.”
+
+6But Lot went out and shut the door behind him,
+
+7“Brothers, don’t be wicked. 8Look, I have two daughters that haven’t slept with men. Let me bring them out, and you can do to them whatever you like. Just don’t do anything to those men, since they’ve come under my roof.”
+
+Gen 19:1-8
+
+9“Get out of the way.” Besides, they said, “This foreigner has come in already acting like a judge. We’ll treat you worse than them.” They pressed toward Lot to break down the door. 10But the angels reached out and pulled him in and shut the door. 11They struck the men blind, big and small; so they wore themselves out groping around for the door.
+
+12The two angels said to Lot,
+
+“Who else do you have here? Bring out any son-in-law, your sons, your daughters, and whoever else you have in the city. 13We’re about to destroy this place; their outcry has become so great before Yahveh that he has sent us to destroy it.”	Gen 19:9-13
+
+14Lot went out to tell his daughters’ fiancés, “Get up! Get out of here! Yahveh is going to destroy the city.” But they acted like he was joking. 15When it started to get daylight, the angels urged Lot, “Get up! Take your wife and two daughters so you won’t get swept away in the punishment of the city.” 16He hesitated so the angels grabbed his hand and his wife’s and daughters’ hands. Yahveh had mercy on him and took him outside the city.
+
+17Then one of them said, “Escape for your life! Don’t look back or stay anywhere in the valley. Escape to the mountains so you won’t be swept away.”
+
+18Lot said,
+
+“No, Sir! 19I’m pleasing to you, and you’ve shown me great kindness by saving me; but I can’t escape to the mountains. The disaster would overtake me, and I’d die. 20That town is near enough to run to. Isn’t it small? Let me escape there to save my life.”
+
+21“All right, I won’t overthrow it. 22Hurry and get on over there! I can’t do anything till you do.” The town was Zoar.	Gen 19:14-22
+
+23The sun had climbed high by the time Lot got to Zoar. 24Then Yahveh rained fire and sulfur on Sodom and Gomorrah. 25He overthrew those towns, the whole valley, its people, and what grew there. 26But Lot’s wife, behind him, looked back, and became a pillar of salt.
+
+27Abraham got up early and went to where he’d stood with Yahveh. 28He looked down toward Sodom, Gomorrah, and the valley, and saw smoke coming up as from a furnace. 29When God destroyed the towns in the valley, he remembered Abraham and got Lot away from his house.	 	Gen 19:23-29
+
+Lot and His Daughters
+
+30Lot went up from Zoar and stayed in the mountains with his two daughters. He was afraid to keep staying in Zoar. They were living in a cave. 31The older daughter told the younger one,
+
+“There’s not a man around to come into us in the normal way. 32Let’s get our father drunk on wine and lie with him so we can preserve our family through him.”
+
+33They got him drunk that night, and the older one went in and lay with him. He didn’t know when she lay down or got up. 34The next day the older one said, “Last night I lay with my father. Let’s get him drunk again tonight. You go in and lie with him so we can preserve our family.” 35They got their father drunk that night too, and the younger daughter lay with him. He didn’t know when she lay down or got up. 36So both daughters got pregnant from their father. 37The firstborn had a boy she named Moab (ancestor of today’s Moabites). 38The younger daughter had a boy too and named him Ben-ammi (ancestor of the Ammonites). 	Gen 19:30-38
+
+Abraham and Abimelech
+
+20:1Abraham moved toward the Negev and settled between Kadesh and Shur, living for a while in Gerar. 2He said of Sarah, “She’s my sister”; so Abimelech, king of Gerar, sent and took her. 3But God came to him in a dream at night, “You’re a dead man. The woman you’ve taken is married.”
+
+4Abimelech hadn’t come near her, and he said,
+
+“Lord, will you kill a blameless nation? 5Didn’t he say she was his sister, and she say he was her brother? I’ve done this in integrity and innocence.”
+
+6God said to him in the dream,
+
+“I know. I’ve kept you from sinning against me and didn’t let you touch her. 7Give the man his wife. He’s a prophet; he’ll pray for you, and you’ll live. If you don’t, you can be sure you and everybody you have will die.”   	Gen 20:1-7
+
+8Abimelech got up early and called his officials and told them. They were really afraid. 9He called Abraham,
+
+“What have you done to us? How have I sinned against you that you brought a serious sin on me and my kingdom? That shouldn’t be done. 10What made you do it?”
+
+11“I thought, there’s no respect for God here. They’ll kill me for my wife. 12Besides, she really is my sister, my father’s daughter, but not my mother’s. 13When God had me wander from my father’s family, I told her to show me kindness wherever we went by saying I was her brother.”   	  Gen 20:8-13
+
+14Abimelech gave Abraham sheep, cattle, male and female servants, and gave Sarah back to him. 15He said, “My land is open to you. Settle anywhere you like.” 16He told Sarah, “I’ve given your brother 1,000 pieces of silver to exonerate you to everybody with you and anywhere else.
+
+17Abraham prayed and God restored Abimelech, his wife, and maids so they could have children again. 18Yahveh had closed the wombs in his household because of Sarah.	 Gen 20:14-18
+
+The Birth of Isaac
+
+21:1Yahveh kept his promise to Sarah. 2She became pregnant and bore Abraham a son in his old age at the time God had indicated. 3He named him Isaac 4and circumcised him the eighth day—like God said. 5Abraham was 100 when Isaac was born. 6Sarah said,
+
+“God made me ‘laugh.’ Everybody that hears about this will laugh too. 7Who would’ve told Abraham that Sarah would nurse children? Yet I’ve borne him a son in his old age.”	Gen 21:1-7
+
+8The child grew and was weaned, and Abraham held a big feast the day he was weaned.
+
+Hagar and Ishmael Sent Away
+
+9Sarah saw Hagar’s son making fun of Isaac 10and told Abraham, “Get rid of her and her son. He’s not going to inherit with my son.” 11Abraham agonized over it, 12but God told him,
+
+“Don’t agonize over the boy and your maid. Take Sarah’s advice. Your lineage will descend through Isaac, 13but I’ll make a nation out of the maid’s son too because he’s your descendant.”
+
+14Abraham got up early and gave Hagar bread and a skin of water. He put them on her shoulder, gave her the boy, and sent her away. She wandered in the desert around Beersheba. 15When the water in the skin was gone, she left him under a bush 16and sat down about a bowshot away, “Don’t let me watch him die.” She cried out loud. 17God heard the boy crying, and his angel called to Hagar from the sky, “What’s wrong, Hagar? Don’t be afraid. God has heard the boy. 18Go get him up and hold him by the hand; I’ll make a big nation out of him.” 19God caused her to notice a well. She went and filled the skin with water and gave him a drink. 20-21God was with him. He grew up and lived in the Wilderness of Paran and became an archer. His mother took a wife for him out of Egypt. 	Gen 21:8-21
+
+Treaty with Abimelech
+
+22At that time, Abimelech and Phicol, commander of his army, said to Abraham,
+
+“God’s with you whatever you do. 23So swear by him here that you won’t deal falsely with me or my descendants. The kindness I’ve shown you please show me and the land where you’ve lived.”
+
+24“I swear it.”
+
+25But Abraham complained to him about the well his servants had seized.
+
+26Abimelech said, “I don’t know who did that. I hadn’t heard about it.”
+
+27Abraham gave Abimelech sheep and cattle, and the two made a treaty. 28Abraham also set aside 7 ewe lambs. 29Abimelech asked, “What are they for?”
+
+30“Take them as a sign of agreement that I dug this well.” 31He called the place Beersheba because the two of them took an “oath” at that “well.” 32Abimelech and Phicol went back to Philistine territory. 33Abraham planted a tamarisk tree there and called on Yahveh, the eternal God. 34He lived in Philistine territory quite a while.	   Gen 21:22-34
+
+God Tests Abraham
+
+22:1After this, God tested Abraham, “Abraham.”
+
+“Yes”
+
+2“Take Isaac, that you love, your only son, and go to the area around Moriah. Offer him as a burnt offering on the mountain where I tell you.”
+
+3Abraham got up early, saddled his donkey, and took two of his young men and Isaac. He split wood for the burnt offering and left for the place God told him.
+
+4On the third day, Abraham saw it in the distance. 5He told his young men, “Stay here with the donkey. The boy and I are going up there to worship and come back.” 6Abraham took the wood for the burnt offering and laid it on Isaac and carried the fire and knife by hand; so the two of them walked on together.
+
+7Isaac said, “Dad.”
+
+“Yes?”
+
+“There’s fire and wood, but where’s the lamb for the burnt offering?”
+
+8“God will provide it, Son”; so the two of them walked on together.	 Gen 22:1-8
+
+9They came to where God had told him. Abraham built an altar, arranged the wood, bound Isaac, and laid him on the altar on top of the wood. 10He took a knife to kill him, 11but the angel of Yahveh called from the sky, “Abraham!”
+
+12“Yes?”
+
+“Don’t do anything to him. I know now that you respect me; you haven’t withheld your only son from me.”
+
+13Then Abraham looked up and noticed a ram caught in a thicket by its horns. He took it and offered it for a burnt offering in place of his son. 14He called the place Yahveh Will Provide [Yahveh-jireh], as it’s still said, “In ‘Yahveh’s’ mountain he‘ll ‘provide.’” 	  Gen 22:9-14
+
+15The angel called to Abraham again from the sky,
+
+16“I’ve sworn by myself 17to multiply your descendants like stars in the sky and sand on the shore. Your descendants will conquer the cities of their enemies 18and bless all nations because you’ve obeyed me.”
+
+19Abraham returned to his young men, and they went back to Beersheba to live.
+
+Nahor’s Sons
+
+20After that, Abraham heard,
+
+“Milcah has also had children to your brother Nahor: 21Uz his oldest, Buz his brother; Kemuel Avi-Aram; 22Chesed, Hazo, Pildash, Jidlaph; and Bethuel 23[Rebekah’s father]—those eight. 24Nahor’s concubine Reumah had Tebah, Gaham, Tahash, and Maacah.”	 Gen 22:15-24
+
+The Death of Sarah
+
+23:1Sarah lived 127 years 2and died in Kiriath-arba (Hebron) in Canaan. Abraham went in to mourn for her and cry. 3Then he got up from beside his dead and said to the descendants of Heth, 4“I’m a foreigner among you. Let me have a place to bury my dead.”
+
+[5] 6“Listen, Sir, you’re a prince of God among us. Bury your dead in the best grave we have. None of us will refuse you his grave.”
+
+7Abraham stood up and bowed to the local people,
+
+8“If you’ll let me bury my dead, approach Ephron Ben-Zohar for me, 9to let me have the Cave of Machpelah at the end of his field. Will he let me buy it at full price for a burial place among you?” 	Gen 23:1-9
+
+10Ephron was sitting there and answered Abraham in front of everyone that was going in his city gate, 11“No, Sir; listen. In my people’s presence, I’ll give you the field and the cave that’s in it. Bury your dead.”
+
+12Abraham bowed 13and told him, “I’ll pay you the price for the field. Accept it so I can bury my dead there.”
+
+14He answered, 15“Listen, a piece of land worth 10 lbs 400 shekels of silver—what’s that between us? Bury your dead.”
+
+16Abraham listened and weighed out 10 lbs 400 shekels of silver, merchant’s standard. 17Ephron deeded the field, its trees, and the cave 18to Abraham in front of everyone in his city gate. It became a possession among the descendants of Heth. 19Abraham buried Sarah in the Cave of Machpelah east of Mamre (Hebron) in Canaan. [20]	Gen 23:10-20
+
+A Wife for Isaac
+
+24:1Abraham was getting older, and Yahveh had blessed him in every way. 2He told his oldest servant that managed everything he owned,
+
+“Put your hand under my thigh 3and swear by Yahveh God of earth and sky that you won’t choose a wife for my son from the Canaanites where I’m living. 4Go to my relatives in my country to find him a wife.”
+
+5“What if she doesn’t want to come back with me? Should I take your son there?”
+
+6“Make sure you don’t! 7Yahveh God in heaven took me from my father’s family in the land where I was born. He swore to me he’d give my descendants this land. He’ll send his angel ahead of you. Choose a wife for my son from there. 8If she doesn’t want to come with you, you’ll be free from this oath. Just don’t take my son back there.”
+
+9The servant put his hand under Abraham’s thigh and swore to him.  	Gen 24:1-9
+
+10The servant took 10 camels and left with lots of his master’s good things and went to Nahor’s city in Mesopotamia. 11He had the camels kneel down outside the city by the well in the evening when the women came out to draw water. 12He said,
+
+“Yahveh, my master’s God, make me successful today and be kind to my master. 13I’m standing by the well, and the daughters of men in the city are coming out to draw water. 14The girl I ask to let her jar down so I can have a drink, and she says, ‘Take a drink. I’ll water your camels too’—may she be the one you’ve chosen for Isaac. That way I’ll know you’ve been gracious to my master.”
+
+15Before he’d finished talking, Rebekah came out with her jar on her shoulder. She was a daughter of Bethuel, son of Abraham’s brother Nahor and his wife Milcah. 16The girl was beautiful, a virgin. She went down to the spring, filled her jar, and came back up. 17The servant hurried over to her, “Let me have a drink from your jar.” 	Gen 24:10-17
+
+18“Take a drink, Sir.” Right away she lowered her jar and gave him a drink. 19Then she said, “I’ll draw water for your camels too, till they finish drinking.” 20She emptied her jar into the trough and hurried back to the well to draw water for his camels. 21In the meantime, the man was gazing at her silently to know if Yahveh had made his journey successful. 22When the camels finished, he took a gold ring weighing .2 oz a half-shekel and two bracelets for her wrists weighing 4 lbs ten shekels of gold, 23and asked, “Who’s your father? Does he have room for us to stay?”
+
+24“Bethuel Ben-Milcah, Nahor’s wife. 25We have plenty of straw and feed, and room for you to stay.”
+
+26The man bowed low in worship to Yahveh 27and said, “Bless Yahveh God of Abraham, who hasn’t abandoned his kindness and truthfulness toward my master. He has guided me to my master’s relatives.”   	  Gen 24:18-27
+
+28The girl ran to tell her mother’s household. 29Rebekah’s brother Laban rushed out to meet the man at the spring. 30When he saw the ring and the bracelets on his sister’s wrists and heard her tell what the man had told her, he went to him standing with his camels. 31“Come in, blessed by Yahveh! Why stand out here? The house is ready, and there’s room for your camels.”
+
+Gen 24:28-31
+
+32He went in. Laban unloaded the camels and gave them straw and feed. He brought water to wash the feet of Abraham’s servant and the ones that were with him. 33But when Laban brought him food, Abraham’s servant said, “I won’t eat till I’ve told you my business.”
+
+“Go ahead.”
+
+34“I’m Abraham’s servant. 35Yahveh has greatly blessed my master, so he’s become wealthy in flocks and herds, silver and gold, servants and maidservants, camels and donkeys. 36His wife Sarah had a son when she was old, and Abraham has willed everything to him. 37He made me swear, ‘Don’t choose a wife for my son from the Canaanites where I live. 38Go to my father’s family to find him a wife.’ 39I said, ‘What if she doesn’t want to come back with me?’ 40He said, ‘Yahveh I serve will send his angel with you to make your journey successful. 41You’ll be free from my oath if you get to my relatives and they won’t give her to you.’ 	Gen 24:32-41
+
+42“I came to the spring today and said, ‘Yahveh, God of Abraham, make my journey successful. 43I’m standing by the spring. The young woman who comes out to draw water, and I say, ‘Let me have a drink from your jar,’ 44and she says, ‘Take a drink, and I’ll draw water for your camels too’—may she be the woman you’ve chosen for my master’s son.’ 45Before I’d finished talking to myself, Rebekah came out with her jar on her shoulder and went down to the spring and drew water. I said to her, ‘Let me have a drink.’ 46Right away she lowered the jar from her shoulder and said, ‘Take a drink. I’ll water your camels too.’ I took a drink, and she watered them.	 Gen 24:42-46
+
+47“Then I asked her whose daughter she was. She said, ‘The daughter of Bethuel, Nahor’s son that Micah had.’ I put the ring on her nose and the bracelets on her wrists. 48I bowed in worship and blessed my master’s God, who had guided me on the right road to choose the daughter of my master’s relative for his son. 49Tell me now if you’re going to deal graciously and honestly with my master. If not, let me know so I can decide what to do.”
+
+50Laban and Bethuel said,
+
+“Since the thing comes from Yahveh, there’s nothing for us to say. 51Rebekah’s here; take her and go. She can be the wife of your master’s son, like Yahveh has said.”	 Gen 24:47-51
+
+52When Abraham’s servant heard it, he bowed to the ground in front of Yahveh. 53He brought out silver and gold articles, and clothes for Rebekah, and gave precious things to her brother and mother. 54He and his men ate and spent the night. When they got up, he said, “Let me go to my master.”
+
+55Her brother and mother said, “Let the girl stay with us a few days, maybe ten. Then she can go.”
+
+56He said, “Let me leave so I can go to my master.”
+
+57They said, “We’ll call her and see what she says.”
+
+58“Will you go with this man?”
+
+“Yes.”
+
+59They sent away their sister and her nurse with Abraham’s servant and his men. 60They blessed Rebekah,
+
+“May you, our sister, become thousands of ten thousands.
+
+May your descendants conquer the cities of their enemies.”
+
+61Rebekah got up with her servant girls and mounted the camels the man had with him. He took her and left.	Gen 24:52-61
+
+62Isaac had come from a trip to Beer-lahai-roi because he was living in the Negev. 63He had gone out to meditate in the field toward evening and looked up and saw camels coming. 64Rebekah saw him and got down from the camel. 65She asked the servant, “Who is the man walking in the field to meet us?”
+
+“He’s my master.”
+
+She put on her veil.
+
+66The servant told Isaac what all he’d done. 67Isaac took Rebekah into his mother’s tent, and she became his wife. He loved her, and she was a comfort to him after his mother died.
+
+Gen 24:62-67
+
+The Death of Abraham
+
+25:1Abraham married another wife, Keturah. 2She had Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah.
+
+3Jokshan had Sheba and Dedan. The sons of Dedan were Asshurim, Letushim, and Leummim.
+
+4Midian’s sons were Ephah, Epher, Hanoch, Abida, and Eldaah.
+
+Those descended from Keturah.
+
+5Abraham willed everything to Isaac. 6He gave gifts to his concubines’ sons before he died and sent them east away from Isaac. 7Abraham lived 175 years 8and died at a good old age, satisfied with life; and passed on to his people. 9-10Isaac and Ishmael buried him with Sarah in the Cave of Machpelah, in the field Abraham had bought from Ephron, east of Mamre. 11After Abraham died, God blessed Isaac, who continued to live in Beer-lahai-roi.    	Gen 25:1-11
+
+12Ishmael’s Generations
+
+(Abraham’s Son by Hagar the Egyptian, Sarah’s Maid)
+
+13, 16Ishmael’s sons in the order of birth, by villages and camps, 12 princes by tribes: Nebaioth, Kedar, Adbeel, Mibsam, 14Mishma, Dumah, Massa, 15Hadad, Tema, Jetur, Naphish, and Kedemah. 17Ishmael lived 137 years and passed on to his relatives. 18His descendants settled from Havilah to Shur, east of Egypt on the road to Assyria, away from his relatives. 	Gen 25:12-18
+
+19Isaac’s Generations
+
+20Isaac was 40 when he married Rebekah. 21He prayed for her because she wasn’t having children. Yahveh answered him, and she became pregnant, 22but the children struggled with each other inside her. She said, “Why am I this way?” She went to ask Yahveh. 23He said,
+
+“You have two nations in your womb;
+
+two nations will come from your body.
+
+One will be stronger than the other;
+
+the older will serve the younger.”
+
+24When it came time to deliver, she had twins. 25The first was born red all over like a “hairy” piece of clothes. They named him Esau. 26His brother was born “holding” onto Esau’s “heel”; so they named him Jacob. Isaac was 60 when she had them.			     	     Gen 25:19-26
+
+27When the boys grew up, Esau became a skilled hunter, an outdoorsman. Jacob stayed around home, living in tents. 28Isaac liked Esau because he had a taste for game; Rebekah liked Jacob. 29One day when Jacob was cooking stew, Esau came in from the countryside famished. 30He told Jacob, “Let me have some of that ‘red’ stew. I’m starving.” (So he was called Edom.)
+
+31“Sell me your birthright first.”
+
+32“I’m about to die. What good’s a birthright?”
+
+33“Swear to me first;” so he swore to him and gave him his birthright. 34Then Jacob gave him bread and lentil stew. He ate it, got up, and left. 			     	     Gen 25:27-34
+
+Isaac and Abimelech
+
+26:1Another famine came over the region besides the one in Abraham’s time. Isaac went to Gerar, to Abimelech, king of the Philistines. 2Yahveh appeared to him,
+
+“Don’t go down to Egypt. 3Stay here, and I’ll be with you and bless you. I’ll give your descendants these lands and keep the oath I swore to your father. 4I’ll multiply your descendants like stars in the sky. Your seed will bless all the nations in the world 5because Abraham obeyed me, kept my charges, commandments, statutes, and laws.”
+
+6So Isaac lived in Gerar. 7When the men there asked about his wife, he said, “She’s my sister.” He was afraid to say, “My wife,” afraid the men would kill him on account of Rebekah; she was beautiful. 8When he’d been there a long time, Abimelech looked out the window, and saw Isaac caressing Rebekah. 9He called him, “She has to be your wife! Why say she was your sister?”
+
+“For fear that I’d die on account of her.’”
+
+10Abimelech said, “What have you done to us? One of the men might easily have lain with your wife, and you would have brought guilt on us.” 11Abimelech charged everybody, “I’ll execute whoever touches this man or his wife.”	Gen 26:1-11
+
+12Isaac sowed grain, and the same year it yielded 100 times as much as he planted. Yahveh blessed him, 13and he kept getting richer and richer till he was extremely wealthy. 14He had flocks, herds, and such a large household that the Philistines got jealous. 15They filled the wells his father’s servants had dug. 16Abimelech told Isaac, “Go away from us. You’re too big to be around us.” 17Isaac left and settled down in the Valley of Gerar.
+
+18He dug again the wells they’d dug in Abraham’s time. The Philistines had stopped them up after Abraham died. He named them the same as his father did. 19But when Isaac’s servants dug in the valley and found a well with flowing water, 20the herdsmen at Gerar “quarreled” with his herdsmen, “That’s our water!” so he named the well Esek. 21They dug another well, and they “quarreled” over that one too; so he named it Sitnah. 22He moved and dug another well. They didn’t quarrel over it; so he named it Rehoboth because he said, “Finally, Yahveh has made ‘room’ for us to prosper here.”	  Gen 26:12-22
+
+23He went up to Beersheba, 24and Yahveh appeared to him that night, “I’m your father’s God. Don’t be afraid; I’m with you. I’ll bless you and multiply your descendants out of regard for Abraham.” 25He built an altar and called on Yahveh. He pitched his tent there, and his servants dug a well.
+
+26Abimelech came to him from Gerar with Ahuzzath his advisor and Phicol his commander. 27Isaac asked them,
+
+“Why did you come to me? You despise me and drove me away.”
+
+28“We can see Yahveh’s been with you, so we said, ‘Let’s take an oath between us now.’  Let us make a treaty with you: 29you won’t harm us like we haven’t done anything but good to you and sent you away on good terms. You’re Yahveh’s blessed.”
+
+30He held a feast for them, and they ate together.	   Gen 26:23-30
+
+31In the morning they got up early and exchanged oaths. Isaac saw them off, and they left on good terms. 32The same day, Isaac’s servants came in and told him about the “well” they’d dug, “We found water.” 33So he called it Shibah. The town’s name is still Beersheba.
+
+34When Esau was 40, he married two Hittite wives: Judith Bat-Beeri and Basemath Bat-Elon. 35They were a grief to Isaac and Rebekah.     	Gen 26:31-35
+
+Isaac Blesses Jacob
+
+27:1When Isaac grew old, his eyesight was bad. He called for his older son Esau.
+
+“Yes?”
+
+2“I’m getting old, and I don’t know how long I’ll live. 3Take your bow and quiver, and hunt game for me. 4Make the kind of dish I like and bring it to me so I can eat it and bless you before I die.”
+
+5Rebekah overheard it. When Esau went out into the countryside to hunt, 6she told Jacob,
+
+“I overheard your father tell your brother, 7‘Bring me some game and make me a tasty dish. I’ll bless you in Yahveh’s presence before I die.’ 8Listen, son. 9Bring me two choice kids from the flock so I can make a dish your father likes. 10Then take it to him so he can bless you before he dies.”   	Gen 27:1-10
+
+11“I’m not hairy like Esau. 12My father may feel me. I’ll be a liar in his mind and bring a curse on myself, not a blessing.”
+
+13“That curse be on me. Just do what I’m telling you. Go get them.”
+
+14He got them and she made a meal Isaac liked. 15Then she took Esau’s best clothes, which were in the house, and put them on her younger son. 16She put the kids’ skins on his hands and neck, 17and gave Jacob the tasty food and bread she’d made.      	     	     Gen 27:11-17
+
+18He went to his father and said, “Father.”
+
+“Yes, who are you, son?”
+
+19“Esau your firstborn. I’ve done like you said. Sit up and eat my game so you can bless me.”
+
+20“How did you get it so quick?”
+
+“Yahveh our God helped me.”
+
+21“Come here so I can feel if you’re really Esau.”
+
+22Jacob went up to him, and he felt him, “It’s Jacob’s voice but Esau’s hands.” 23He didn’t recognize him because his hands were hairy like Esau’s; so he blessed him. 24“Are you really Esau?”
+
+“Yes.”
+
+25“Bring it to me, and I’ll eat your game so I can bless you.” He took it to him, and he ate it. He took him wine to drink too. 26Then he said, “Come and kiss me, son.” 27He went and kissed him. When he smelled his clothes, he blessed him,
+
+“You smell like a field Yahveh has blessed.
+
+28Now may God give you dew from the sky,
+
+fertility from the ground,
+
+and abundant grain and new wine.
+
+29May nations serve you;
+
+may they bow to you.
+
+Have authority over your relatives;
+
+may your mother’s sons bow to you.
+
+Cursed be the ones that curse you;
+
+blessed be those who bless you.”	Gen 27:18-29
+
+30No sooner had Isaac finished blessing him and he’d left than Esau came in from hunting. 31He made delicious food too and took it to his father, “Sit up, Father, and eat your son’s game so you can bless me.”
+
+32Isaac said, “Who are you?”
+
+“Esau, your firstborn.”
+
+33Isaac shook terribly “Then who was it that hunted game and brought it to me to eat and I blessed him? Yes, and he’ll stay blessed.”
+
+34When Esau heard it, he let out a bitter cry, “Bless me too, father!”
+
+35“Your brother came and deceived me and took your blessing.”
+
+36Esau said, “Isn’t ‘Jacob’ a good name for him? He’s ‘usurped’ my position twice. He took my birthright; now he’s taken my blessing. Haven’t you kept a blessing for me?”
+
+37“I’ve put him over you and given him his relatives as servants. I’ve sustained him with grain and new wine. What’s left that I can do, son?”
+
+38“Don’t you even have one blessing for me, father?” Esau cried out loud.
+
+39Isaac said,
+
+“You’ll live away from fertile ground
+
+and dew from the sky.
+
+40You’ll live by your sword
+
+and serve your brother.
+
+But when you break free,
+
+you’ll break his yoke from off your neck.”	Gen 27:30-40
+
+41Esau held a grudge against Jacob because his father had given Jacob the blessing. He said under his breath, “The days for mourning my father’s death are coming. Then I’ll kill Jacob.”
+
+42When his threat reached Rebekah, she called Jacob,
+
+“Your brother is consoling himself with the thought of killing you. 43Run off to my brother in Haran. 44Stay with him 45till your brother’s anger wears off. Then I’ll send for you. Why should I mourn for both of you the same day?”
+
+46Rebekah told Isaac, “I’m as grieved as I can be over these Hittite women. If Jacob marries a woman like them, what good will my life be to me?”	Gen 27:41-46
+
+Jacob Sent to Laban
+
+28:1Isaac called Jacob, blessed him, and charged him,
+
+“Don’t marry a Canaanite. 2Go to Paddan-aram, to Bethuel your mother’s father, and choose a wife from Laban your uncle. 3May God Almighty [El-Shaddai] bless you and make you numerous so you’ll become a group of nations. 4May he give you and your descendants Abraham’s blessing so you’ll receive the land where you’ve lived as a nomad, the land God gave Abraham.”
+
+5Isaac sent Jacob to Paddan-aram, to Laban Ben-Bethuel the Aramean.
+
+Esau Marries an Ishmaelite
+
+6Esau saw that Isaac had blessed him, sent him to Paddan-aram to find a wife, and charged him not to marry a Canaanite. 7He saw that Jacob had obeyed his parents 8and that Isaac didn’t like Canaanite women. 9So he went to Ishmael and—besides the wives he had—married Ishmael’s daughter Mahalath/Basemath, sister of Nebaioth. 	Gen 28:1-9
+
+Jacob’s Dream
+
+10Jacob left Beersheba and set out for Haran. 11After sundown he stopped for the night and lay down with a stone under his head. 12He dreamed that a ladder was set up on the earth with its top in the sky. God’s angels were climbing up and down on it. 13Yahveh stood at the top of it and said,
+
+“I’m Yahveh God of Abraham and your father Isaac. I’ll give you and your descendants the ground you’re lying on. 14They’ll be like the dust on the ground and spread out in every direction. In you and your descendants, I will bless all the families in the world. 15I’ll protect you wherever you go, and bring you back here. I won’t leave you till I’ve done what I’ve promised.”
+
+16Jacob woke up and said, “Yahveh is certainly here, and I didn’t know it.” 17He was afraid, “This place is awesome! It’s nothing but ‘God’s house’ and heaven’s door.”     	Gen 28:10-17
+
+18He got up early and took the stone that was under his head, set it up as a marker, and poured olive oil on it. 19He called the place Bethel (named Luz before) 20and vowed, “If God protects me on this trip, gives me food and clothes, 21and brings me back to my father’s family safely, then Yahveh will be my God. 22This stone will be ‘God’s house,’ and I’ll give him a tenth of what he gives me.”   	 Gen 28:18-22
+
+Jacob Marries Leah and Rachel
+
+29:1Jacob continued on his trip to the country in the east. 2Up ahead he saw a well in a pasture where they watered the flocks. Three flocks of sheep were lying by it, and it had a big stone over it. 3When all the flocks got there, they’d roll the stone off the well, water the sheep, and put it back. 4Jacob asked them, “Brothers, where are you from?”
+
+“Haran.”
+
+5“Do you know Laban Ben-Nahor.”
+
+“Yes.”
+
+6“How is he?”
+
+“He’s good. That’s his daughter Rachel coming with the sheep.”
+
+7Jacob said, “It’s still the middle of the day, not time to herd the livestock. Why aren’t you watering the sheep and taking them to pasture?”
+
+8“We can’t water them till all the flocks get here and they roll the stone off the well.”
+
+9While he was still talking to them, Rachel came with her father’s sheep. 10When Jacob saw her and Laban’s sheep, he went and rolled the stone off the well and watered Laban’s flock. 11He kissed Rachel and cried out loud. 12He told her he was Rebekah’s son, a relative of her father. She ran to tell her father.	Gen 29:1-12
+
+13When Laban heard it, he rushed to meet Jacob, hugged him, kissed him, and took him to his house. Jacob told him what all had happened. 14Laban said, “For sure, you’re my flesh and bone.” Jacob stayed with him a month.
+
+15Laban said, “Because you’re my relative doesn’t mean you have to work for nothing. What do you want for pay?”
+
+16Laban had two daughters, Leah, the older one, and Rachel. 17Leah had less beautiful eyes, but Rachel was beautiful in form and appearance. 18Jacob loved Rachel, so he said, “I’ll work for you seven years for your younger daughter Rachel.”
+
+19Laban said, “It’s better to give her to you than to anybody else. Stay on with me.” 20Jacob worked seven years for Rachel, but they seemed like just a few days because he loved her so much.	Gen 29:13-20
+
+21Then Jacob told Laban, “Give me my wife so I can sleep with her. I’ve completed my time.” 22Laban gathered the men in the place and made a feast. 23In the evening he brought Leah to him, and Jacob slept with her. 24Laban also gave his maid Zilpah to Leah as a servant. 25In the morning, it was Leah! Jacob said to Laban, “What’ve you done to me? Didn’t I work for you for Rachel? Why have you deceived me?”
+
+26But Laban said, “It’s not the custom here to marry off the younger before the firstborn. 27Complete the bridal week for this one, and we’ll give you the other one too for another seven years’ work.”
+
+28Jacob completed her week, and Laban gave him Rachel as a wife. 29He also gave his servant Bilhah to Rachel as her maid. 30Jacob slept with Rachel too. He loved her more than Leah and worked for Laban for seven more years.     	Gen 29:21-30
+
+Jacob’s Children
+
+31Yahveh saw that Leah wasn’t loved, and opened her womb, but Rachel was barren. 32Leah had a son she named Reuben, “Because Yahveh has ‘seen’ my misery. Surely my husband will love me now.” 33She had another son, “Because Yahveh has ‘heard’ that I’m not loved, he gave me this son too”; so she named him Simeon. 34She had another son, “This time my husband will be ‘attached’ to me, because I’ve borne him three sons”; so she named him Levi. 35She became pregnant again and bore Jacob a son and said, “This time I’ll ‘praise’ Yahveh”; so she named him Judah. Then she stopped having children. 	Gen 29:31-35
+
+30:1When Rachel saw she wasn’t having children, she became jealous of her sister and told Jacob, “Give me children, or I’m going to die!”
+
+2Jacob’s anger flared, “I’m not God, am I? He’s the One that‘s kept you from having children!”
+
+3“Here’s my maid Bilhah. Sleep with her so I can have children through her”; 4so she gave him Bilhah as a wife. 5She became pregnant and had a son. 6Rachel said, “God has ‘vindicated’ me. He’s heard me and given me a son”; so she named him Dan. 7Rachel’s maidservant had a second son. 8So Rachel said, “I’ve ‘wrestled’ hard with my sister and won”; so she named him Naphtali.	Gen 30:1-8
+
+9When Leah saw she’d stopped having children, she gave her maid Zilpah to Jacob as a wife. 10Zilpah had a son. 11Leah said, “How ‘fortunate!’” so she named him Gad. 12Zilpah had a second son. 13Leah said, “I’m happy, and women will call me ‘happy’”; so she named him Asher.
+
+14During wheat harvest Reuben found mandrakes in the field and brought them to his mother Leah. Rachel said to Leah, “Give me some of your son’s mandrakes.” 15But she said, “Is it a small matter for you to take my husband? Would you take my son’s mandrakes too?” 16When Jacob came in from the field in the evening, Leah went out to meet him, “You have to sleep with me; I’ve certainly hired you with my son’s mandrakes”; he slept with her that night. 17God listened to Leah, and she had a fifth son. 18Leah said, “God has paid me my ‘wages’ because I gave my maid to my husband”; so she named him Issachar. 19She had a sixth son, 20“God has endowed me with a good gift. Now my husband will ‘live with’ me; I’ve had six sons for him”; so she named him Zebulun. 21Later she had a daughter she named Dinah. 22God remembered Rachel, listened to her, and opened her womb. 23So she had a son and said, “God has taken away my disgrace.” 24She named him Joseph, “May Yahveh give me ‘another’ son.”
+
+Gen 30:9-24
+
+Jacob’s Prosperity
+
+25At the time when Rachel had Joseph, Jacob said to Laban, “Let me go now so I can return to my own country. 26Let me have the wives and little ones I’ve worked for. You know the work I’ve done for you.”
+
+27But Laban said to him, “If it pleases you, stay. I’ve seen that Yahveh has blessed me because of you. 28Name your wages; I’ll pay it.”
+
+29But Jacob said,
+
+“You know how I’ve worked for you and how your livestock fared with me. 30You didn’t have much before I came, but it has increased to a big herd. Yahveh has blessed you wherever I turned. But when will I provide for my own family?”
+
+31Laban asked, “What do you want me to give you?”
+
+Jacob said,
+
+“Don’t give me anything. Do this, and I’ll go on shepherding your flock: 32let me go through your entire flock today and take out every speckled and spotted sheep, black lamb, and speckled and spotted goat. That’ll be my pay. 33So my honesty can answer for me later when you figure my pay, consider stolen each one with me that’s not speckled and spotted among the goats or black among the lambs.”
+
+34“All right.”	Gen 30:25-34
+
+35That day, Jacob took out the striped and spotted male goats, the speckled and spotted female goats, the ones with white on them, and the black sheep. He gave them to his sons to take care of. 36Laban put three-days’ distance between himself and Jacob, and Jacob fed the rest of Laban’s flocks. 37Then Jacob took fresh poplar, almond, and plane stakes, and peeled white stripes around them. 38He set the peeled stakes in front of the flocks by the watering troughs where the flocks drank, and they mated when they came to drink. 39So the flocks mated by the stakes and brought forth striped, speckled, and spotted young. 40Jacob separated the lambs and had the flocks face the striped and the black in Laban’s flock. He set his own herds apart and didn’t put them with Laban’s. 41In addition, whenever the stronger ones in the flock were mating, Jacob would put the stakes by the troughs so the flock could see them so they’d mate by the stakes. 42But when the flock was weak, he didn’t put them there; so the weaker ones were Laban’s, and the stronger ones were Jacob’s. 43Jacob became really prosperous with large flocks, with camels, donkeys, and male and female servants.	 Gen 30:35-43
+
+Jacob Flees from Laban
+
+31:1Jacob overheard Laban’s sons say, “Jacob has taken everything our father had and created that wealth.” 2He saw that Laban’s attitude had changed. 3Yahveh told him, “Go back to the land of your ancestors and relatives. I’ll be with you.”
+
+4Jacob sent for Rachel and Leah to come to his flock in the pasture. 5He told them,
+
+“Your father’s attitude toward me has changed, but my father’s God has been with me. 6You know I worked hard for him, 7but he cheated me and switched my pay ten times. But God didn’t let him hurt me. 8If he said, ‘The speckled will be your pay,’ the flock brought forth speckled. If he said, ‘The striped will be your pay,’ the flock brought forth striped. 9That’s how God took your father’s livestock and gave them to me. 10At the time when the flock was mating, I looked up and saw in a dream that the male goats were striped, speckled, and mottled. 11Then God’s angel said in the dream, ‘Jacob,’ and I said, ‘Yes?’ 12‘Look up and see that the male goats that are mating are striped, speckled, and mottled, because I’ve seen what Laban’s been doing to you. 13I’m the God in Bethel, where you anointed a marker and took a vow to me. Now leave this country and go back where you were born.”
+
+14Rachel and Leah answered,
+
+“Do we still have any inheritance in our father’s family? 15Doesn’t he treat us like foreigners? He’s sold us and completely used up our purchase price. 16The wealth God has taken from him clearly belongs to us and our children; do what God has told you.”	  Gen 31:1-16
+
+17Then Jacob put his wives and offspring on camels, 18and drove away the livestock and property he’d accumulated in Paddan-aram, to go to his father Isaac in Canaan. 19When Laban went to shear his flock, Rachel stole his household idols. 20Jacob deceived Laban the Aramean by not telling him he was leaving. 21He left with everything he had, crossed the Euphrates River, and headed toward the hill country in Gilead. 	Gen 31:17-21
+
+22Three days later, Laban heard Jacob had left. 23He took some of his relatives and chased him for a week. He caught up with him in the hill country in Gilead. 24God came to Laban in a dream at night, “Don’t say anything to Jacob good or bad.” 25Jacob had pitched his tent in the hill country, and Laban and his relatives also camped there. 26Laban said to Jacob,
+
+“What have you done, deceiving me and taking my daughters like captives of the sword? 27Why did you leave secretly so I couldn’t send you away with joy and songs, with tambourine and harp? 28You didn’t let me kiss my sons and daughters. You’ve done foolishly. 29I can do you harm, but your father’s God told me last night not to say anything to you good or bad. 30Okay, you’ve indeed gone away because you longed for your father’s family, but why steal my gods?”
+
+31Jacob answered him,
+
+“I left secretly because I was afraid you’d take your daughters away from me by force. 32The one you find your gods with will die. In front of everybody, point out what’s yours in my belongings and take it.”
+
+Jacob didn’t know Rachel had stolen them.	Gen 31:22-32
+
+33Laban went to Jacob’s tent, Leah’s tent, the two maids’ tent, but didn’t find them. He left Leah’s tent and went to Rachel’s. 34She’d put the household idols in a camel’s saddle and sat on them. Laban rummaged through the tent but didn’t find them. 35She told her father, “Don’t be mad at me for not getting up. The way of women is on me.” He looked around but didn’t find them.	Gen 31:33-35
+
+36Jacob fussed at Laban,
+
+“What’s my transgression? What’s my sin that you’ve hotly chased me? 37You’ve rummaged through everything. What have you found from your household goods? Set it here in front of my relatives so they can decide between us. 38For the 20 years I’ve been with you, your ewes and female goats haven’t miscarried. I haven’t eaten the rams from your flocks. 39I didn’t bring you what wild animals tore apart; I took the loss myself. You required from me what was stolen day or night. 40That’s how I was: in the daytime the heat consumed me; at night the frost kept me awake. 41I worked 14 years for your two daughters and 6 for your flocks. You switched my pay ten times. 42If the God of my grandfather Abraham, the one Isaac fears, hadn’t been on my side, you would’ve sent me away with nothing. He’s seen my mistreatment and hard work, and he rendered judgment last night.”	Gen 31:36-42
+
+43Laban answered him,
+
+“By rights, the daughters belong to me, the little ones and flocks too; everything you’re looking at is mine. But what can I do about my daughters and their children now? 44Let’s make a treaty, a witness between us.”
+
+45Jacob set up a stone marker. 46He told his relatives to gather up some rocks; they made a cairn of rocks and ate a covenant meal beside it. 47Laban called it Jegar-sahadutha; Jacob called it Galeed. 48Laban said, “This ‘mound’ serves as a ‘witness’ between us”; so they named it Galeed 49(also called Mizpah) because he said,
+
+“May Yahveh ‘watch over’ us while we’re apart. 50If you mistreat my daughters or take other wives, though no one is with us, God is ‘witness’ between us. 51This ‘cairn’ 52signifies that neither of us will go past it to harm the other. 53The God of Abraham, Nahor, and their father judge between us.”
+
+Jacob swore out of respect for his father Isaac. 54He offered a sacrifice on the mountain and called his relatives to eat and spent the night there. 55In the morning, Laban got up early, kissed his daughters and grandchildren, blessed them, and went home.	Gen 31:43-55
+
+Jacob Travels to Meet Esau
+
+32:1As Jacob was going along, angels from God met him. 2When he saw them, he said, “This is God’s ‘camp’”; so he named the place Mahanaim.
+
+3He sent messengers to his brother Esau in Seir (Edom).
+
+4“Tell Esau that his servant Jacob says, ‘I’ve lived temporarily with Laban till now. I have cattle, donkeys, flocks, male and female servants. 5I’ve sent to tell you so I’ll be pleasing to you.’”
+
+6The messengers came back to Jacob and said, “We went to Esau; he’s coming to meet you with 400 men.” 7Jacob was terribly afraid and distressed. He divided the people, the flocks, herds, and camels into two companies. 8“If Esau attacks one drove, the other can escape.”
+
+9He said,
+
+“God of my grandfather Abraham and my father Isaac, Yahveh who told me to go back to my country and my relatives, and you’d make me prosper, 10I don’t deserve the kindness and faithfulness you’ve shown me. I crossed this Jordan with just a staff. Now I’ve become two companies. 11Protect me from Esau. I’m afraid he might attack me and the mothers of my offspring. 12You did say, ‘I’ll make you prosper and make your descendants like sand on the shore that can’t be counted.’”	Gen 32:1-12
+
+13He spent the night there. Then he chose from what he had with him a gift for Esau: 14200 female goats, 20 male goats, 200 ewes, 20 rams, 1530 milking camels and their colts, 40 cows and 10 bulls, 20 female donkeys and 10 male donkeys. 16He gave them to his servants, “Go on ahead and space out the droves.” 17He told the first drove, “When Esau meets you and asks who they belong to and where you’re going, 18say, ‘They belong to Jacob. They’re a gift to you. Jacob is behind us.’” 19He told the second and third drove, and everybody that followed the droves, 20“Tell Esau when you meet him, ‘Your servant Jacob is behind us too.’” He said, “I’ll appease him with the gift first. Then when I see him, maybe he’ll accept me.” 21His gift passed on ahead while he spent that night in the camp.	Gen 32:13-21
+
+Jacob Wrestles with a Man
+
+22He got up that night and took his 2 wives, 2 maids, and 11 children, and crossed the Jabbok ford. 23He sent them across the stream along with what he had. 24He was left alone, and a man wrestled with him till dawn. 25When the man saw he hadn’t won, he struck the socket of Jacob’s hip and dislocated it as they wrestled. 26Then the man said, “Let me go; it’s getting daylight.”
+
+“I won’t let you go unless you bless me.”
+
+27“What’s your name?”
+
+“Jacob.”
+
+28“It won’t be Jacob anymore. It’ll be Israel; you’ve ‘wrestled with God’ and men and prevailed.”
+
+29“Tell me your name.”
+
+“Why are you asking?” That’s where he blessed him.
+
+30Jacob named the place Peniel; “I’ve seen ‘God face to face,’ but I’m still alive.” 31The sun was coming up as he crossed Penuel, and he was limping because of his hip. 32Israelites still don’t eat the sinew that’s on the hip socket, because the man struck the sinew on Jacob’s hip socket.
+
+Gen 32:22-32
+
+Jacob Meets Esau
+
+33:1Jacob looked up and saw Esau coming with his 400 men. He divided the children between Leah, Rachel, and the two maids. 2He put the maids and their children in front, Leah and her children next, Rachel and Joseph last. 3He went on ahead of them and bowed to the ground seven times as he got closer to his brother. 4Then Esau ran to meet him, embraced him, hugged him, and kissed him. They cried together. 5Esau looked up and saw the women and children, “Who are these?”
+
+“Children God has graciously given me.”	Gen 33:1-5
+
+6The maids came with their children and bowed. 7Leah came up with her children and bowed. Last, Joseph and Rachel came and bowed.
+
+8Esau asked, “What do you mean by all this?”
+
+Jacob said, “To please you.”
+
+9But Esau said, “I have plenty, brother. Keep what you have.”
+
+10“No, if I’m pleasing to you, accept my present; I look up to you like someone looks up to God, and you’ve received me graciously. 11Take the gift I’ve brought you; God has been generous to me; I have plenty.”
+
+He kept urging him, so he took it.
+
+12Esau said, “Let’s travel on. I’ll go ahead of you.”
+
+13But he told him,
+
+“You know the children are young, and I’m concerned about the flocks and herds that are nursing. If they’re driven hard for a day, they’ll die. 14Go on ahead. I’ll go at the pace of the livestock and children till I come to you in Seir.”
+
+15“Let me leave some of my people.”
+
+“What’s the need? Be gracious to me on this.”
+
+16Esau went back that day to Seir. 17Jacob traveled to Succoth, built a house, and made “corrals” for his livestock; so the name of the place became Succoth.
+
+18Jacob went safely to Shechem in Canaan and camped by the city. 19The piece of land where he’d pitched his tent, he bought from the sons of Hamor, Shechem’s father, for 100 pieces of silver. 20He built an altar and called it El-Elohe-Israel [El the God of Israel].  	Gen 33:6-20
+
+Dinah and the Shechemites
+
+34:1Leah’s daughter Dinah went out to visit the daughters in the area. 2When Shechem Ben-Hamor the Hivite, the prince of the territory, saw her, he took her and lay with her. 3He was deeply attracted to her, and loved her, and spoke tenderly to her. 4Shechem spoke to his father, “Get me this young girl for a wife.” 5Jacob heard that he’d defiled Dinah, but his sons were with his livestock in the pasture; he kept quiet till they came in. 6Then Hamor went to speak to Jacob. 7Jacob’s sons came in from the pasture when they heard. They were grieved and mad, because Shechem had done such an awful thing in Israel. Something like that shouldn’t be done. 	Gen 34:1-7
+
+8But Hamor said to them,
+
+“My son longs for your daughter. Let him marry her. 9Intermarry with us. 10That way you’ll live with us, and the country will be open to you. Live, carry on business, and buy property in it.”
+
+11Shechem also told her father and brothers, “If I’m pleasing to you, I’ll give whatever you say. 12Ask me whatever bridal price and gift, and I’ll give it, but let me marry the girl.”
+
+13But Jacob’s sons answered Shechem and his father with deception because Shechem had defiled their sister,
+
+14“We can’t give our sister to someone that’s not circumcised. That would be offensive to us. 15There’s only one way we’ll consent. If you’ll become like us by circumcising every male among you, 16we’ll intermarry with you and live with you as one people. 17If you won’t be circumcised, we’ll take our daughter and go.”	Gen 34:8-17
+
+18Their proposal seemed agreeable to Hamor and Shechem. 19The young man didn’t delay doing what they asked because he was delighted with Jacob’s daughter. He was more respected than anybody else in his father’s family. 20He and Hamor went to their city gate and said,
+
+21“These men are peaceful with us. Let them live in the land and do business here. The land is big enough for them. Let them intermarry with us. 22Only on this condition will they agree to live with us and become one people: every male among us must be circumcised like they are. 23Won’t their livestock, property, and animals be ours? Let’s agree with them, and they’ll live with us.”
+
+24Everybody that went out of the city gate listened to Hamor and Shechem, and every male was circumcised.	Gen 34:18-24
+
+25On the third day, when the men in Shechem were very sore, Simeon and Levi, Dinah’s brothers, took a sword apiece and attacked the city by surprise and killed every male. 26They killed Hamor and Shechem, took Dinah out of Shechem’s house, and left. 27Jacob’s sons came on the slain and looted the city because they’d defiled their sister. 28They took their flocks, herds, donkeys, what was in the city and in the countryside. 29They captured and looted their wealth, took their little ones, their wives, and everything in the houses. 30Jacob told Simeon and Levi,
+
+“You’ve created a problem for me and made me repulsive to the Canaanites and Perizzites here. We only have a few men. They’ll gather against me and destroy me and my household.”
+
+31They said, “Should he treat our sister like a prostitute?”	   Gen 34:25-31
+
+Jacob Returns to Bethel
+
+35:1God told Jacob,
+
+“Go up to Bethel and live and build an altar to me. I’m the One that appeared to you when you were running from Esau.”
+
+2Jacob told his household and everybody with him,
+
+“Put away your foreign gods, purify yourselves, and change clothes. 3Let’s go to Bethel. I’m going to build an altar to God there, who answered me in my distress and was with me wherever I’ve gone.”
+
+4They gave Jacob their foreign gods and earrings, and he buried them under a terebinth tree near Shechem.
+
+5As they moved along, a deep dread hovered over the towns around them, and they didn’t pursue Jacob’s sons. 6So Jacob and his people were able to reach Luz (Bethel) in Canaan. 7He built an altar, and called the place El-Bethel, because “God” revealed himself to him there when he was running from his brother. 8Deborah, Rebekah’s nurse, died, and Jacob buried her below Bethel under the oak named Allonbacuth [Oak of Weeping]. 	Gen 35:1-8
+
+9God appeared to Jacob again after he came from Paddan-aram and blessed him.
+
+10“You’re Jacob,
+
+but you won’t be called Jacob anymore.
+
+Your name will be Israel.
+
+11I’m God Almighty [El-Shaddai].
+
+Have children and multiply.
+
+A group of nations will come from you;
+
+kings will descend from you.
+
+12I’ll give you and your descendants
+
+the land I promised Abraham and Isaac.”
+
+13God ascended from him, 14and Jacob set up a stone marker “where God” had spoken to him. He poured out a liquid offering on it, poured olive oil on it, 15and named the place Bethel.
+
+Gen 35:9-15
+
+The Deaths of Rachel and Isaac
+
+16They moved on from Bethel. When they were still some distance from Ephrath (Bethlehem), Rachel started to have contractions and suffered hard labor. 17The midwife said, “Don’t be afraid; you have another son.” 18As her life was draining away, she named him Benoni; but his father called him Benjamin. 19Rachel died and was buried along the road to Ephrath. 20Jacob set up a marker over her grave that’s still there. 21Jacob kept traveling and pitched his tent beyond the Tower of Eder. 22While he was living there, Reuben went and slept with Bilhah, his father’s concubine, and Israel found out about it.	 Gen 35:16-22a
+
+Jacob had 12 sons.
+
+23by Leah: Reuben, his firstborn, Simeon, Levi, Judah, Issachar, Zebulun;
+
+24by Rachel: Joseph and Benjamin;
+
+25by Bilhah, Rachel’s maid: Dan and Naphtali; and
+
+26by Zilpah, Leah’s maid: Gad and Asher.
+
+His 12 sons were born in Paddan-aram.
+
+27Jacob went to see his father Isaac at Mamre near Kiriath-arba (Hebron), where Abraham and Isaac had lived temporarily. 28Isaac lived 180 years, 29breathed his last, and passed on to his people. He’d lived to a ripe age, and his sons Esau and Jacob buried him.	Gen 35:22b-29
+
+36:1Esau’s (Edom’s) Generations
+
+2Esau married Canaanite women: Adah Bat-Elon the Hittite; Oholibamah Bat-Anah Ben-Zibeon the Hivite; 3and Basemath/Mahalath Bat-Ishmael, sister of Nebaioth. 4Adah had Eliphaz; Basemath had Reuel, 5Oholibamah had Jeush, Jalam, and Korah—all born in Canaan.
+
+6Esau took his wives, sons, daughters, household, livestock, cattle, and goods he’d gained in Canaan, and moved to a territory away from Jacob. 7Their livestock had become too much for the land to support them both. 8-9Esau, ancestor of the Edomites, lived in the hill country of Seir.
+
+Gen 36:1-9
+
+10Esau’s sons
+
+Eliphaz by Adah, Reuel by Basemath, and
+
+(11Eliphaz was father of Teman, Omar, Zepho, Gatam, and Kenaz.
+
+12Timna, the concubine of Eliphaz, had Amalek.)
+
+(13Reuel was father of Nahath, Zerah, Shammah, and Mizzah.)
+
+14Jeush, Jalam, and Korah by Oholibamah.
+
+15The chiefs descending from Esau’s sons
+
+(The sons of Eliphaz, Esau’s firstborn): Teman, Omar, Zepho, 16Korah, Gatam, Amalek—descendants by Adah.
+
+(17The sons of Reuel, Esau’s son): Nahath, Zerah, Shammah, Mizzah—descendants by Basemath;
+
+18Jeush, Jalam, Korah—descendants by Oholibamah Bat-Anah
+
+19Esau’s sons and their chiefs		  Gen 36:10-19
+
+The Previous Inhabitants of Edom
+
+20The sons of Seir the Horite, the people in the land: Lotan, Shobal, Zibeon, Anah, 21Dishon, Ezer, and Dishan—chiefs descended from the Horites, sons of Seir in Edom
+
+22The sons of Lotan: Hori and Hemam; Lotan’s sister was Timna.
+
+23The sons of Shobal: Alvan, Manahath, Ebal, Shepho, and Onam
+
+24The sons of Zibeon: Aiah and Anah (who found the hot springs in the
+
+countryside when he was pasturing Zibeon’s donkeys)
+
+25The children of Anah: Dishon and Oholibamah, Anah’s daughter
+
+26The sons of Dishon: Hemdan, Eshban, Ithran, and Cheran
+
+27The sons of Ezer: Bilhan, Zaavan, and Akan
+
+28The sons of Dishan: Uz and Aran
+
+[29-30] 	Gen 36:20-30
+
+Rulers of Edom
+
+31The kings that ruled in Edom before any king ruled in Israel:
+
+32Bela Ben-Beor ruled over Edom; his city was Dinhabah. 33He died, and
+
+Jobab Ben-Zerah from Bozrah ruled. 34He died, and
+
+Husham from the land of the Teman ruled. 35He died, and
+
+Hadad Ben-Bedad (who defeated Midian in Moab) ruled. 36He died, and
+
+Samlah from Masrekah ruled. 37He died, and
+
+Shaul from Rehoboth on the River Euphrates ruled. 38He died;
+
+Baal-hanan Ben-Achbor ruled. 39He died, and
+
+Hadar ruled. His city was Pau; his wife was Mehetabel Bat-Matred Bat-Mezahab.
+
+40The chiefs that descended from Esau by family, locality, and name: Timna, Alvah, Jetheth, 41Oholibamah, Elah, Pinon, 42Kenaz, Teman, Mibzar, 43Magdiel, and Iram
+
+37:1Jacob lived in Canaan, where his father had lived as a nomad. 	   Gen 36:31-37:1
+
+2Jacob’s Generations
+
+When Joseph was still a youth of 17, he was pasturing the flock with his half-brothers, including the sons of Bilhah and Zilpah, his father’s wives. He brought his father a bad report about what they were doing. 3Now Israel loved Joseph more than his other sons because he was born when Israel was old. He made him a tunic with many colors in it. 4His brothers saw that their father loved him more than them, so they despised him and wouldn’t speak to him in a civil way.
+
+5Joseph had a dream. When he told it to his brothers, they despised him more, 6“Let me tell you a dream I had. 7We were tying up bundles in the field. My bundle stood up straight and yours gathered around and bowed to mine.” 8His brothers asked, “You’re think you’re going to reign over us? You’re going to rule us?” They hated him even more for his dreams and what he said.
+
+9He told his brothers another dream he had, “The sun, moon, and 11 stars were bowing down to me.” 10He told his father too, who scolded him, “What’s a dream like that mean? Are your brothers, your mother, and I really going to bow to you?” 11His brothers resented him, but his father wondered what it might mean.  	Gen 37:2-11
+
+Joseph Sold by His Brothers
+
+12His brothers went to pasture their father’s flock at Shechem. 13Israel told Joseph, “Your brothers are pasturing at Shechem? Go join them.” 14He told him to bring him word how they and the flock were doing. He sent him from the Valley of Hebron to Shechem. 15A fellow found him walking in the countryside and asked him, “What are you looking for?”
+
+16“My brothers. Where are they pasturing the flock?”
+
+17“They’ve moved on from here. I heard them say they were going to Dothan.”
+
+Joseph trailed them to Dothan. 	Gen 37:12-17
+
+18When they saw him in the distance, they said,
+
+19“Here comes the dreamer! 20Let’s kill him and throw him into one of the cisterns. We can say a wild animal ate him. Then let’s see what comes of his dreams!”
+
+21But Reuben heard about their scheme and came to his rescue, “Let’s not kill him. 22Don’t shed blood. Throw him into this cistern in the open country, but don’t lay hands on him.” He intended to rescue him and get him back to his father. 23When Joseph got to his brothers, they stripped off his multi-colored robe 24and put him in an empty cistern. 	Gen 37:18-24
+
+25They sat down to eat. When they looked up, a caravan of Ishmaelite traders was coming from Gilead with camels carrying aromatic gum, salve, and myrrh—headed for Egypt. 26Judah said to his brothers, “What’s in it for us if we kill our brother and cover up his blood? 27Let’s sell him to the Ishmaelites, not hurt him. He’s our brother, our own flesh.” They agreed. 28Then some of the Midianite traders (Ishmaelites) went by; they pulled him out of the cistern and sold him to them for 20 pieces of silver. They took him to Egypt. 	Gen 37:25-28
+
+29Reuben went back to the cistern, and Joseph wasn’t in it. He tore his clothes! 30He went to his brothers, “The boy’s not there. What am I going to do?” 31They took Joseph’s robe and slaughtered a male goat. They dipped the robe in its blood 32and took it to their father,
+
+“We found this. See if it’s your son’s robe.”
+
+33He examined it, “It’s his. A wild animal has torn him to pieces and eaten him!”
+
+34Jacob tore his clothes and put burlap around his waist and mourned for him many days. 35His sons and daughters tried to comfort him, but he refused to be comforted, “I’ll go down to Sheol mourning for him.” His father cried over him. 36Meanwhile, the Midianites sold him in Egypt to Potiphar, an officer of Pharaoh, captain of the bodyguard.	     		     Gen 37:29-36
+
+Judah and Tamar
+
+38:1About that time, Judah left his brothers and went down to visit an Adullamite named Hirah. 2He saw the daughter of a Canaanite named Shuamas. He married her and slept with her. 3She had a son he named Er, 4another he named Onan, 5and one he named Shelah. That happened at Chezib.
+
+6Judah took a wife named Tamar for Er his firstborn. 7But Er did what Yahveh considered evil, so he took Er’s life. 8Judah told Onan, “Sleep with your brother’s wife and perform your duty as a brother-in-law to her. Raise up offspring for your brother.” 9Onan knew the offspring wouldn’t be his; so when he slept with her, he ejected his semen on the ground so he wouldn’t provide offspring for his brother. 10That displeased Yahveh; so he took his life too. 11Judah told Tamar, “Remain a widow in your father’s family till my son Shelah grows up.” (He told himself, “I’m afraid he’ll die like his brothers.”) Tamar went and lived in her father’s family.
+
+Gen 38:1-11
+
+12After quite a while, Shua’s daughter, Judah’s wife, died. After the time of mourning, Judah went up to his sheepshearers at Timnah with his friend Hirah the Adullamite. 13Tamar found out that her father-in-law was going there to shear his sheep. 14She took off her widow’s clothes, put on a veil, wrapped herself, and sat in the gate of Enaim, which is on the road to Timnah. She’d seen that Shelah had grown up, but Judah hadn’t given her to him as a wife. 15When Judah saw her, he thought she was a shrine prostitute, because she’d covered her face. 16He turned aside to her by the road, and said, “Let me sleep with you.”
+
+“What will you give me?”
+
+17“I’ll send you a kid from the flock.”
+
+“Will you give me a pledge till you send it?”
+
+18“What pledge do you want?”
+
+“Your seal and cord, and the staff that’s in your hand.”
+
+He gave them to her and slept with her, and she got pregnant. 19She got up and left, took off her veil, and put her widow’s clothes back on.	Gen 38:12-19
+
+20When Judah sent the kid by his friend the Adullamite to get back the pledge, he couldn’t find her. 21He asked the men there, “Where’s the shrine prostitute that was by the road at Enaim?”
+
+“There hasn’t been any shrine prostitute here.”
+
+22So he went back, “I couldn’t find her. The men said there hasn’t been any shrine prostitute there. 23Judah said, “Let her keep them so they don’t ridicule us. I did send this kid, but you couldn’t find her.”	Gen 38:20-23
+
+24About three months later, Judah was informed, “Your daughter-in-law Tamar has served as a shrine prostitute and got pregnant.”
+
+Judah said, “Bring her out and burn her!”
+
+25While she was being brought out, she sent to her father-in-law, “I’m pregnant by the man that owns these things. See whose signet ring, cords, and staff they are.”
+
+26Judah recognized them, “She’s better than I am, because I didn’t give her to my son Shelah.” He never slept with her again.
+
+27When it was time for her to deliver, she was carrying twins. 28As she was giving birth, one put out a hand, and the midwife tied a red thread on it, “This one came out first.” 29But he pulled his hand back and his brother came out. The midwife said, “What a ‘breach’ you’ve made for yourself”; so he was named Perez. 30Afterward his brother was born with the “red” thread on his hand. He was named Zerah.	Gen 38:24-30
+
+Joseph and Potiphar’s Wife
+
+39:1The Ishmaelite traders had taken Joseph down to Egypt, and sold him to Potiphar, an Egyptian officer of Pharaoh, captain of the bodyguard. 2Yahveh was with him, so he became successful in his master’s house. 3His master saw Yahveh was with him to make everything he did succeed. 4He was pleased with Joseph and made him his personal servant. Joseph oversaw his household and everything he owned. 5From the time he made him overseer, Yahveh blessed his house, everything in it and in the field. 6So he left everything in his charge. With him around, he didn’t concern himself with anything except what to eat.	   Gen 39:1-6a
+
+Joseph was good looking. 7His master’s wife looked at him with lust and said, “Lie with me.” 8But he refused,
+
+“With me here, my master doesn’t concern himself with anything in the house. He’s put me in charge of everything. 9There’s nobody higher than me, and he hasn’t withheld anything from me except you because you’re his wife. How could I do such a thing and sin against God?”
+
+10She hounded Joseph day after day, but he wouldn’t give in to her. 11One day he went into the house to work; none of the other men were inside. 12She grabbed his cloak, “Lie with me!” He left his cloak in her hand and ran outside. 13When she saw his cloak in her hand, 14she yelled to the other men in her household,
+
+“Look, he brought us a Hebrew to abuse us. He came in to rape me. 15When I screamed, he ran out and left his cloak beside me.”
+
+16She left his cloak lying beside her till her husband came home. 17Then she told him, “The Hebrew slave you brought us came in to abuse me. 18When I screamed, he left his cloak and fled outside.”	     Gen 39:6b-18
+
+19When she said, “That’s what your slave did to me,” he was mad 20and put him in jail with his prisoners. 21Yahveh was with Joseph and made him a favorite of the chief jailer. 22He committed the prisoners to his charge and made him responsible for whatever happened there. 23The chief jailer didn’t supervise anything under his charge. Yahveh prospered whatever Joseph did.	     Gen 39:19-23
+
+The Cupbearer and the Baker
+
+40:1After that, the king’s cupbearer and baker offended him. 2Pharaoh was furious 3and jailed them in the captain of the bodyguard’s house, where Joseph was. 4The captain put Joseph in charge of them, and he took care of them for some time. 5The cupbearer and baker both had a dream the same night, each man’s dream with its own meaning.
+
+6When Joseph came to them in the morning, he saw how dejected they looked.
+
+7“Why are you so down?”
+
+8“We’ve had a dream nobody can interpret.”	Gen 40:1-8
+
+9The chief cupbearer told Joseph his dream,
+
+“I saw a vine 10that had three branches. It blossomed, and its clusters produced ripe grapes. 11I had Pharaoh’s cup in my hand. I took the grapes and squeezed them into it and gave it to him.”
+
+12Joseph said,
+
+“The three branches represent three days. 13In three days Pharaoh will put you back in office. You’ll hand him the cup like before. 14Just keep me in mind when that happens and get me out of this house. 15I was kidnapped from the land of the Hebrews, and I haven’t done anything here that warranted putting me in the dungeon.”	Gen 40:9-15
+
+16When the chief baker saw he’d interpreted sensibly, he told Joseph, “I dreamed I saw three baskets of white bread on my head. 17The top basket had all kinds of baked food for Pharaoh, and birds were eating it.”
+
+18Joseph said,
+
+“The three baskets represent three days. 19In three days Pharaoh will take off your head and impale you on a pole, and birds will peck away at your body.”
+
+20Three days later, on his birthday, Pharaoh held a banquet for all his officials. He called up the chief cupbearer and the chief baker. 21He gave the cupbearer his office back; he gave the cup to Pharaoh. 22He impaled the baker like Joseph had interpreted, 23but the cupbearer didn’t remember to mention Joseph.	Gen 40:16-23
+
+Pharaoh’s Dreams
+
+41:1Two years later, Pharaoh dreamed he was standing by the Nile. 2Seven healthy, well-fed cows came up from the river and started grazing on the marsh grass. 3Seven scrawny, bony cows came up 4and ate the seven healthy, well-fed ones. Then he woke up.
+
+5He went back to sleep and had another dream. Seven heads of filled-out, good grain grew on a single stalk. 6Seven thin, wind-scorched grain heads sprouted up 7and swallowed the filled-out heads. Pharaoh woke up and realized it was a dream. 8In the morning, the dreams haunted him. He sent for Egypt’s astrologers and wise men. He told them the dreams, but no one could figure out what they meant. 	Gen 41:1-8
+
+9The cupbearer said to Pharaoh,
+
+“I remember my own sins today. 10You were furious with us and confined me and the chief baker in the captain of the bodyguard’s house. 11We both had a dream the same night. 12A Hebrew young man was with us there, a servant to the captain. We told him the dreams, and he interpreted them for us. 13Things came about like he said. You gave me back my office but impaled the chief baker.”
+
+Gen 41:9-13
+
+14Pharaoh called for Joseph, and they hurried and brought him out of the dungeon. He shaved and changed clothes and went to Pharaoh. 15Pharaoh told him, “I’ve had a dream that no one can interpret. I’ve heard that you can interpret dreams.”
+
+16“It’s not me. God will give you a sensible answer.”
+
+17Pharaoh told Joseph,
+
+“I dreamed I was standing on the bank of the Nile. 18Seven healthy, well-fed cows came up from the river and started grazing on the marsh grass. 19Seven unhealthy, scrawny, boniest cows I’d ever seen anywhere in Egypt, 20came up and ate the first seven cows. 21Yet when they’d eaten them, you couldn’t tell it. They were as scrawny as before. Then I woke up.
+
+22“I also dreamed about seven filled-out, good grain heads that grew on a single stalk. 23Seven withered, thin, wind-scorched grain heads sprouted up, 24and swallowed the seven good heads. When I told the astrologers the dream, none of them could explain it to me.” 	Gen 41:14-24
+
+25Joseph told him,
+
+“Your dreams both mean the same thing. God has told you what he’s going to do. 26The seven good cows and seven good ears represent seven years. 27The seven bony, scrawny cows that came up after them and the seven thin heads scorched by the east wind represent seven years of famine. [28] 29Seven abundant years are coming on Egypt. [30] 31The seven-year famine that follows will ruin the land. It’ll be severe enough to erase the memory of previous abundance. 32Repeating the dream emphasizes that God is determined to do it. He’ll make it happen soon. 33Now you can look for a discerning man to appoint over Egypt. 34He can appoint land managers and exact a fifth of the crop during the seven abundant years. 35They can gather the food during those years, store it up in cities under your authority, and guard it. 36It can remain in reserve for the seven famine years so the land won’t perish from the famine. 	Gen 41:25-36
+
+Joseph Made Ruler of Egypt
+
+37The plan made sense to him and his officials. 38He asked, “Can we find anyone else like this who has a divine spirit in him?” 39Pharaoh told Joseph,
+
+“Since God has informed you about this, there’s nobody more discerning and wise than you. 40You’ll be over my house, and my people will pay you homage. Only in regard to the throne will I have more authority than you. 41I’ve set you over Egypt.”
+
+42Pharaoh took off his signet ring and put it on Joseph’s finger, dressed him in fine linen, and put a gold chain around his neck. 43He had him ride in his second chariot, and they declared ahead of him, “Bend the knee!” 44Pharaoh told him, “I’m Pharaoh, but without your permission nobody will lift hand or foot anywhere in Egypt.” 45Pharaoh named him Zaphenath-paneah and gave him as a wife Asenath, daughter of Potiphera, priest of On.	 Gen 41:37-45
+
+46Joseph was 30 when he stood in front of Pharaoh. He went out from Pharaoh all over Egypt. 47During the seven abundant years, the ground produced abundantly. 48He gathered food during those years and put it in each city from its own fields. 49He stored up so much grain that he stopped trying to measure it—like sand on the seashore.
+
+50Before the first famine year, Asenath bore Joseph two sons. 51He named the first son Manasseh, “God has ‘made me forget’ my problems and my father’s family.” 52He named the second son Ephraim, “God has made me ‘productive’ in the country where I suffered adversity.”
+
+53The seven abundant years came to an end, 54and seven famine years set in—like Joseph had said. The famine spread over all the surrounding countries, but Egypt had food. 55The entire country was famished, and the people appealed to Pharaoh for food. He told them to go to Joseph and do what he said. 56When the famine had spread over the whole region, Joseph opened the storehouses and sold grain to the Egyptians. 57People from all over the region came to Egypt to buy grain from him because the famine was severe everywhere.	Gen 41:46-57
+
+Joseph’s Brothers Come to Egypt
+
+42:1Jacob found out that Egypt had grain and said to his sons, “Why are you just looking at one another? 2I’ve heard that Egypt has grain. Go down and buy some so we can stay alive.” 3Ten of Joseph’s brothers went down, 4but Jacob didn’t send Joseph’s full brother Benjamin with them; he was afraid something would happen to him. 5His sons went with other people from Canaan because the famine wore on in Canaan too.
+
+6Joseph governed the country and was the one that sold people the grain. His brothers came and bowed to the ground. 7When he recognized them, he disguised himself and was gruff with them, “Where are you from?”
+
+“Canaan; we came to buy food.”
+
+8They didn’t recognize him. 9He remembered his dreams about them, and said, “You’re spies. You’ve come to look for weak places in our country.”
+
+10“No, my lord; we’ve come to buy food. 11We’re honest men, not spies.”
+
+12“No, you’ve come to look for weak places in our country!”
+
+13“We’re 12 brothers, sons of one man in Canaan. The youngest is with our father and one has died.”
+
+14“The truth is, you’re spies. 15I’ll check out your claims. By Pharaoh’s life, you won’t leave here unless your youngest brother comes! 16One of you, go back to get him while the others stay here confined so I can verify what you claim.”
+
+17He put them in prison together for three days.  	Gen 42:1-17
+
+18The third day, he said,
+
+“Do this and live; I respect God: 19if you’re telling the truth, one of you can remain in custody. The rest can take grain for your households. 20Bring your youngest brother, and you won’t die.”
+
+That’s what they did.
+
+21They said to one another, “We’re guilty about our brother. We saw his distress when he pleaded with us, but we didn’t care. That‘s why this distress has come on us.”
+
+22Reuben answered, “Didn’t I tell you not to sin against the boy? But you wouldn’t listen. Now comes the reckoning for his blood.”
+
+23They didn’t know Joseph understood them; there had been a translator between them. 24He turned the other way and got tears in his eyes. But when he turned back around and spoke to them, he had Simeon bound right in front of them. 25He gave orders to fill their bags with grain, put each man’s money back in his sack, and give them supplies for the return trip.
+
+Gen 42:18-25
+
+26They loaded their donkeys with grain and left. 27When one of them opened his sack to feed his donkey where they stopped for the night, he saw his money in the top of the sack. 28He told his brothers, “My money’s been put back in my sack!” Their hearts sank, and they turned to one another shaking, “What’s God done to us?”
+
+29When they got to Canaan, they told their father what had happened,
+
+30“The lord of the land was gruff with us and accused us of being spies. 31But we told him, ‘We’re honest men, not spies. 32We’re 12 brothers. One’s dead and the youngest is with our father in Canaan.’ 33The man said, ‘Here’s how I’ll find out if you’re telling the truth: leave one of your brothers. Take the grain for your households and go. 34Bring your youngest brother to me so I can tell you’re not spies. I’ll release your brother, and you can do business here.’” 	Gen 42:26-34
+
+35When they emptied their sacks, every man’s bag of money was in his sack. When they and their father saw their money, they were scared. 36Jacob said, “You’ve deprived me of my children: Joseph’s gone, Simeon’s gone, and you want to take Benjamin! Everything’s going against me!”
+
+37Reuben told him, “You can put my two sons to death if I don’t bring him back. Put him in my care.”
+
+38But Jacob said, “He’s not going. His brother’s dead; he’s the only one left. If something happens to him on the trip, you’ll send my gray hair down to Sheol in grief.”
+
+Gen 42:35-38
+
+Joseph’s Brothers Return to Egypt
+
+43:1The famine continued to be severe. 2When they’d eaten their grain from Egypt, their father said, “Go back and buy us a little food.”
+
+3But Judah told him,
+
+“The man strictly warned us that we wouldn’t see him unless our brother came with us. 4If you send our brother with us, we’ll go down and buy you food. 5If you don’t, we won’t go.”
+
+6Israel said, “Why did you do me such a bad turn by telling the man you had another brother?”
+
+7They said,
+
+“He questioned us closely about us and our relatives, ‘Is your father still alive? Do you have another brother?’ We were just answering his questions. Could we possibly know he’d say, ‘Bring your brother down here’?”
+
+8Judah said,
+
+“Send the boy with me, and we, you, and your children will live. 9I’ll be his guarantee. Hold me responsible. If I don’t bring him back, you can blame me permanently. 10If we hadn’t delayed, we could have gone back twice.”	 Gen 43:1-10
+
+11Israel told them,
+
+“If it has to be that way, in your bags take some of the best things our land produces. Take them to the man as a gift—some salve, honey, aromatic gum and myrrh, pistachio nuts, almonds. 12Take twice the money that someone put back in your sacks. Maybe it was a mistake. 13Take your brother too. 14May God Almighty [El-Shaddai] grant you mercy so he’ll release your other brother and Benjamin. If I grieve, I grieve.”
+
+15They took the gift, twice the money, and Benjamin, and went down to meet Joseph.
+
+Gen 43:11-15
+
+16When Joseph saw Benjamin with them, he told his palace overseer, “Bring them into the house, butcher an animal, and prepare for them to eat with me at noon.” [17].
+
+18They were afraid, “Because of the money brought back the first time, he’s taking us in to arrest us and make slaves out of us and our donkeys.” 19They went and talked to the overseer at the entrance to Joseph’s house,
+
+20“Sir, we really did come down the first time to buy food. 21When we stopped at a place to stay and opened our sacks, each man’s money was in the top of the sack. We’ve brought it back. 22We’ve brought other money to buy food this time. We don’t know who put our money back in our sacks before.”
+
+23“Don’t worry. Your and your father’s God put your treasure in your sacks. I handled it.”
+
+Then he brought Simeon out. 24He took the brothers into Joseph’s house, gave them some water to wash their feet, and fed their donkeys some hay. 25They got their gift ready for when Joseph came at noon; they’d heard they were to eat a meal there. 	Gen 43:16-25
+
+26When he came home, they brought their gift into the house and bowed to the floor. 27He asked them how they were doing, “How’s your elderly father? Is he still alive?”
+
+28“He’s alive and well.” They bowed again in homage.
+
+29He looked up and saw his brother Benjamin, his mother’s son, “Is this your youngest brother you told me about? God be gracious to you, son.”
+
+30He hurried out because he was deeply moved over his brother, and looked for a place to cry. He went back to his room and cried, 31then washed his face and came back. He controlled himself and said, “Serve the meal.” 32They served him by himself, the brothers by themselves, and the Egyptians that ate with him by themselves. (Egyptians wouldn’t eat with Hebrews. That would have been demeaning.) 33They were sitting, the firstborn according to his birthright, the youngest according to his youth. They looked at one another amazed. 34He took portions to them from his own table; Benjamin’s portion was 5 times any of theirs. They ate with him as much as they wanted.    	  Gen 43:26-34
+
+Joseph’s Silver Cup
+
+44:1Then he told his palace overseer, “Fill their sacks with as much as they can transport. Put each man’s money in his sack, 2and put my silver cup with the money in the top of the youngest man’s sack.”
+
+3At daylight they sent them away with their donkeys. 4They’d just got out of the city when Joseph told his palace overseer, “Follow them. When you catch up with them, say, ‘Why repay good with bad? 5Isn’t this what my lord drinks out of and uses for fortunetelling? You’ve done wrong.’” 6He caught up with them and told them that.
+
+7“Why say something like that? We wouldn’t do that. 8We brought back the money we found in our sacks. Why would we steal silver or gold from your lord’s house? 9Kill whoever you find it with, and we’ll be your slaves.”
+
+10“All right. The one that has it will be my slave. The rest of you will go free.”
+
+11They hurried and lowered their sacks to the ground and opened them. 12He searched from the oldest to the youngest and found the cup in Benjamin’s sack. 13They tore their clothes and loaded their donkeys and went back to the city. 	Gen 44:1-13
+
+14When Judah and his brothers got to Joseph’s house, he was still there. They prostrated themselves on the floor. 15He asked, “What’ve you done? Don’t you know a man like me can tell fortunes?”
+
+16Judah said, “What can we say? How can we explain this? God has found out our sin. We’re your slaves, we and the one he found the cup with.”
+
+17He said, “I wouldn’t do that. The one the cup was with will be my slave. The rest of you can go up to your father in peace.”	 Gen 44:14-17
+
+18Judah came up to him and said,
+
+“May I say something to you? Don’t be mad; you’re equal to Pharaoh. 19You asked us if we had a father or brother. 20We told you we had an elderly father and a young brother that was born when our father was old. He’s the only one left from his mother, and his father loves him (a full brother of his is dead).”
+
+21“Bring him down so I can see him.”
+
+22“The boy can’t leave his father. His father would die.”
+
+23“Unless he comes with you, you won’t see me again.”
+
+24“We went up and told him what you said.
+
+25“Later, he told us to come back and buy more food.
+
+26“But we said, ‘We can’t. If our youngest brother’s not with us, we won’t be able to see the man.’
+
+27“You know my wife had two sons. 28One of them went out and must have been torn to pieces by wild animals. I haven’t seen him since. 29If you take this one and something happens to him, you’ll send my gray hair down to Sheol in grief.” 	Gen 44:18-29
+
+30-31“If I go back and he sees the boy’s not with us, he’ll die. His life is wrapped up in the boy’s life. We’ll send his gray hair down to Sheol in grief. 32I became a guarantee for the boy, I said I’d bear the blame permanently if I didn’t bring him back. 33Let me stay in his place so he can go with his half-brothers. 34How could I go up to my father if he’s not with me? I’d see how hard it would be on him.” 	Gen 44:30-34
+
+Joseph Reveals Himself to His Brothers
+
+45:1Joseph couldn’t control himself in front of everybody that was standing there. He cried out, “Everybody out!” Nobody was with him when he introduced himself to his brothers. 2He cried so loud the Egyptians heard it, and Pharaoh’s household heard about it. 3He told his brothers,
+
+“I’m Joseph. Is my father still alive?”
+
+They were so overwhelmed by his presence they couldn’t answer him.
+
+4Then he said, “Come closer.”
+
+“I’m Joseph that you sold into Egypt. 5Don’t grieve or be angry with yourselves. God sent me ahead of you to save you. 6The famine has been in the land for two years. There won’t be any plowing or harvesting for five more years. 7God sent me ahead to preserve you as a remnant here and keep you alive by a great rescue. 8It wasn’t so much you as God. He’s made me like a father to Pharaoh, manager over his household and ruler over Egypt. 9Hurry back and tell my father his son Joseph says, ‘God has made me lord over Egypt. Come down to me right away. 10You’ll live in the territory of Goshen near me—you, your children, grandchildren, flocks and herds, everything you own. 11I’ll take care of you there so your household and possessions won’t perish. The famine’s going to last five more years.’ 12You and my brother Benjamin can see I’m telling you this directly. 13Tell my father about my splendor in Egypt and everything you’ve seen. Hurry and bring him down here.”
+
+14Then he embraced Benjamin and cried, and Benjamin cried and embraced Joseph. 15Joseph kissed his brothers and cried on them. Afterward they talked.	Gen 45:1-15
+
+16When Pharaoh’s household heard that Joseph’s brothers had come, they were happy. 17Pharaoh said,
+
+“Tell them to load their animals and go to Canaan, 18get their father and households, and come to me. I’ll give them the best land in Egypt. They’ll eat off the rich land. 19Have them take wagons for their wives and little ones, and bring their father. 20Tell them not to worry about their personal belongings; they’ll have the best in Egypt.’”	 Gen 45:16-20
+
+21Joseph gave them wagons and supplies for their trip. 22He gave each of them a change of clothes, but he gave Benjamin 300 pieces of silver and 5 changes of clothes. 23He sent his father 10 donkeys loaded with the best things Egypt had to offer and 10 female donkeys loaded with grain, bread, and provisions for his father’s trip back. 24He sent them off, “Don’t quarrel on the trip.” 25They went up to Canaan 26and told their father, “Joseph’s still alive! He’s actually the ruler of Egypt!” He was stunned! He couldn’t believe it! 27When they told him what Joseph had said and he saw the wagons he sent to take him back, he revived. 28“Joseph must still be alive! I’ll go see him before I die.” 	 Gen 45:21-28
+
+Joseph Brings His Brothers to Egypt
+
+46:1Israel set out with everything he had. He went to Beersheba and offered sacrifices to the God of his father Isaac. 2God spoke to him in a vision at night,
+
+“Jacob, Jacob.”
+
+“Yes?”
+
+3“I’m God, your father’s God. Don’t be afraid to go down to Egypt. I’ll make a big nation out of you there. 4I’ll go down with you and bring you back. Joseph will close your eyes.”
+
+5He left Beersheba. His sons hauled him, their little ones, and wives in the wagons Pharaoh sent. 6-7They took him, his sons, grandsons, daughters, and granddaughters, their livestock and property they’d gained in Canaan, and went to Egypt.	        Gen 46:1-7
+
+8The names of Jacob’s sons that went to Egypt
+
+Reuben, Jacob’s firstborn: 9his sons Hanoch, Pallu, Hezron, and Carmi
+
+10Simeon: his sons Jemuel, Jamin, Ohad, Jachin, Zohar—and Shaul, the son of a
+
+Canaanite woman
+
+11Levi: his sons Gershon, Kohath, Merari
+
+12Judah: his sons Er, Onan, Shelah, Perez, Zerah (Er and Onan died in Canaan.)
+
+Perez’s sons: Hezron and Hamul
+
+13Issachar: his sons Tola, Puvvah, Iob, and Shimron
+
+14Zebulun: his sons Sered, Elon, Jahleel
+
+15The descendants of Leah that she bore to Jacob in Paddan-aram with his daughter Dinah, were 34.
+
+16Gad: his sons Ziphion, Haggi, Shuni, Ezbon, Eri, Arodi, and Areli
+
+17Asher: his sons Imnah, Ishvah, Ishvi, Beriah (and their sister Serah)
+
+Beriah’s sons: Heber and Malchiel.
+
+18The descendants of Zilpah that Laban gave his daughter Leah, were 16.
+
+19Joseph: his sons Manasseh and Ephraim, 20born to him in Egypt by Asaneth,
+
+daughter of Potiphera, priest of On
+
+21Benjamin: his sons Bela, Becher, Ashbel, Gera, Naaman, Ehi, Rosh, Muppim,
+
+Huppim, and Ard
+
+22The descendants of Rachel born to Jacob were 14.
+
+23Dan: his son Hushim
+
+24Naphtali: his sons Jahzeel, Guni, Jezer, and Shillem
+
+25The descendants of Bilhah that Laban gave his daughter Rachel, were 7.
+
+2666 direct descendants of Jacob went to Egypt (not including his daughters-in-law) 27plus Joseph’s two sons born there. 70 people in Jacob’s household ended up Egypt.	 Gen 46:8-27
+
+28Jacob sent Judah on ahead so Joseph could give them directions to Goshen. 29Joseph prepared his chariot and went there to meet his father. When he met him, he hugged him and cried on his shoulder a long time. 30Israel told him, “Now I can die! I’ve seen you’re still alive!”
+
+31Joseph told his brothers and his father’s family,
+
+“I’ll go tell Pharaoh you’ve arrived from Canaan 32with your herdsmen, flocks and herds, and everything you have. 33When he calls you and asks what your occupation is, 34tell him you and your ancestors have always been herdsmen. Say that so you can live in Goshen; shepherds have low status in Egypt.”  	Gen 46:28-34
+
+Jacob’s Family Settles in Goshen
+
+47:1Joseph went in and told Pharaoh, “My father and brothers, their flocks and herds, and everything they own have come from Canaan to Goshen.” 2He took five of his brothers and presented them to Pharaoh. 3Pharaoh asked,
+
+“What’s your occupation?”
+
+“We and our ancestors have been shepherds. 4We’ve come here to live a while. There’s no pasture in Canaan because the famine’s severe. Would you let us live in Goshen?”
+
+5-6Pharaoh told Joseph,
+
+“Egypt is at your disposal. Settle your father and brothers in the best land—in Goshen. If you know any capable men among them, have them manage my livestock.”
+
+7Joseph brought Jacob and introduced him to Pharaoh, and Jacob blessed Pharaoh.
+
+8Pharaoh asked, “How old are you?”
+
+9“130. My years have been few and unpleasant, not as many as my ancestors’.” 10He blessed Pharaoh and went out.
+
+11Joseph settled his father and brothers, and gave them a possession in Rameses, the best land in Egypt. 12He provided his father, brothers, and Jacob’s household with food in proportion to how many children they had. 	Gen 47:1-12
+
+Joseph and the Famine in Egypt
+
+13There wasn’t any food in the whole region because the famine was so severe. Egypt and Canaan were starving. 14Joseph collected all the money in Egypt and Canaan for the grain people bought, and brought it to Pharaoh’s house. 15When the money was gone in Egypt and Canaan, the Egyptians came to Joseph, “Give us food. Why should we die in front of you? Our money’s gone.” 16Joseph said, “Trade your livestock for food.” 17So they brought their livestock, and he gave them food in exchange for horses, flocks, herds, and donkeys that year.
+
+18At the end of the year, they came and said,
+
+“We won’t hide it from you that we’ve spent all our money, and the livestock belong to you. We don’t have anything left except our bodies and land. 19Why should we and our land die in front of you? Buy us and our land for food, and we and our land will be Pharaoh’s slaves. Give us seed so we can stay alive, and the land won’t be desolate.” 	Gen 47:13-19
+
+20Joseph bought the land in Egypt for Pharaoh. Every Egyptian sold his field because the famine was so severe. The land became Pharaoh’s. 21He moved the people to the cities from all over Egypt. 22He didn’t buy the priests’ lands because they lived off their allotments from Pharaoh. 23Joseph told the people,
+
+“I’ve bought you and your land for Pharaoh today. Here’s seed so you can sow the land. 24At harvest, give a fifth to Pharaoh, and four-fifths will be yours for planting and for feeding your household and little ones.”
+
+25They said, “You’ve saved us! Be gracious to us, my lord, and we’ll be Pharaoh’s slaves.” 26Joseph made it a statute about land in Egypt that’s still in force: Pharaoh would have a fifth. The priests’ land was all that didn’t become Pharaoh’s.           	Gen 47:20-26
+
+27Israel kept living in Goshen, acquired property, and became very numerous. 28Jacob lived in Egypt 17 years, 147 years in all. 29When the time came to die, he called Joseph,
+
+“Do me a favor. Put your hand under my thigh and deal with me in kindness and truth. Don’t bury me in Egypt. 30When I lie down with my ancestors, carry me out of Egypt and bury me in their burial place.”
+
+“I’ll do that.”
+
+31“Swear to me.”
+
+He swore to him.
+
+Then Israel bowed at the head of the bed.	Gen 47:27-31
+
+Jacob Blesses Ephraim and Manasseh
+
+48:1After this, they told Joseph, “Your father is failing.” So he took his sons Manasseh and Ephraim with him. 2When they told Jacob, “Joseph’s here,” Israel gathered his strength and sat up in bed. 3He told Joseph,
+
+“God Almighty [El-Shaddai] appeared to me in Luz and blessed me: 4‘I’ll make you countless, a group of nations. I’ll give your descendants this land as a permanent possession.’ 5Your two sons born in Egypt before I came will be considered mine alongside Reuben and Simeon. (6Your later offspring will be yours.) They’ll inherit with their brothers. 7When I was coming from Paddan, sadly, Rachel died in Canaan on the way before we got to Ephrath (Bethlehem). I buried her there.”	Gen 48:1-7
+
+8When Israel saw Joseph’s sons, he asked, “Who are these?”
+
+9“They’re the sons God gave me here.”
+
+“Bring them to me so I can bless them.”
+
+10Israel’s sight was so weak from age he could hardly see. Joseph brought them, and he kissed them and hugged them. 11He told Joseph, “I never expected to see you, and God has let me see your children too!” 12Joseph took them from his knees and bowed to the ground. 13Joseph took Ephraim with his right hand toward Israel’s left, and Manasseh with his left hand toward Israel’s right. 14But Israel put his right hand on Ephraim’s head, crossing his hands, even though Manasseh was the firstborn. 15He blessed Joseph,
+
+“God in whose presence my forefathers Abraham and Isaac lived,
+
+God that’s been my shepherd my whole life,
+
+16the angel that redeemed me from every misfortune,
+
+bless the boys.
+
+May I and my forefathers live on in them,
+
+and they become a large number.”	Gen 48:8-16
+
+17When Joseph saw his father put his right hand on Ephraim’s head, it displeased him. He took hold of his father’s hand to move it to Manasseh’s head, 18“Not that way, father. This is the firstborn. Put your hand on his head.”
+
+19But his father refused, “I know, son; I know. He’ll become numerous too. But his younger brother will be more numerous. Many nations will descend from him.” 20He blessed them that day,
+
+“By you Israel will pronounce blessing and say,
+
+‘May God make you like Ephraim and Manasseh!’”
+
+He put Ephraim ahead of Manasseh.
+
+21Then he told Joseph,
+
+“I’m about to die, but God will be with you and take you back to where your ancestors lived. 22I’m giving you one portion more than your brothers, which I took from the Amorite with my sword and bow.” 	Gen 48:17-22
+
+Jacob Blesses His Sons
+
+49:1Jacob called for his sons, “Gather around so I can tell you what will happen to you.
+
+2Gather together, sons of Jacob;
+
+listen to your father Israel.”
+
+3“Reuben, my firstborn,
+
+my power and the first issue of my virility,
+
+preeminent in dignity and power,
+
+4uncontrolled like water.
+
+You won’t have preeminence,
+
+because you defiled your father’s bed;
+
+you got on my marriage couch.”	Gen 49:1-4
+
+5“Simeon and Levi are brothers;
+
+their swords are violent tools.
+
+6Let my soul not join their council;
+
+let my honor not agree with their assembly;
+
+because in their anger they killed people,
+
+in their unrestraint they lamed oxen.
+
+7Cursed be their fierce anger,
+
+their cruel wrath.
+
+I’ll disperse them in Jacob
+
+and scatter them in Israel.”				Gen 49:5-7
+
+8“Judah, your brothers will praise you;
+
+your hand will be on your enemies’ neck;
+
+your father’s sons will bow to you.
+
+9Judah is a lion’s whelp;
+
+son, you’ve risen up from the prey.
+
+He crouches and lies down like a lioness;
+
+who dares to rouse him?
+
+10The scepter won’t leave Judah,
+
+or the ruler’s staff from between his feet
+
+till Shiloh comes.
+
+The nations will obey him.
+
+11He ties his foal to a grapevine,
+
+his donkey colt to the best vine.
+
+He washes his clothes in wine,
+
+his robes in the juice from grapes.
+
+12His eyes are stained from wine;
+
+his teeth are white from milk.”	Gen 49:8-12
+
+13“Zebulun will live by the lake;
+
+he’ll be a haven for boats;
+
+his border will extend toward Sidon.”
+
+14“Issachar is a strong donkey,
+
+lying between the sheepfolds.
+
+15When he sees how good his resting place is
+
+and how pleasant his land is,
+
+he’ll bend his shoulder to carry burdens
+
+and submit to forced labor.”	Gen 49:13-15
+
+16“Dan will judge his people,
+
+as one of the tribes in Israel.
+
+17He’ll be a snake along the road,
+
+a pit viper in the path
+
+that bites a horse’s heels,
+
+so its rider falls off backward.
+
+18I wait for your salvation, Yahveh.”
+
+19“Raiders will raid Gad,
+
+but he’ll raid back.	Gen 49:16-19
+
+20“Asher will eat tasty food
+
+and produce food fit for kings.”
+
+21“Naphtali is an untamed doe
+
+that bears beautiful fauns.”
+
+22“Joseph is a fruitful limb,
+
+a fruitful bough beside a spring;
+
+its branches extend out over the wall.
+
+23The archers bitterly attacked him,
+
+shot at him, and harassed him;
+
+24but his bow stayed strong,
+
+and his arms maintained their endurance
+
+because of the hands of the Mighty One of Jacob
+
+(from there is the Shepherd, the Stone of Israel),
+
+25because your father’s God helps you,
+
+because the Almighty blesses you
+
+with blessings of the deep that lies below,
+
+blessings of the animals and the womb.
+
+26Your father’s blessings
+
+have surpassed his ancestors’ blessings
+
+up to the utmost boundary of the everlasting hills.
+
+May they be on Joseph’s head,
+
+the distinguished one among his brothers.”		  Gen 49:20-26
+
+27“Benjamin is a ravenous wolf.
+
+He eats prey in the morning
+
+and divides spoil at dusk.”
+
+Jacob’s Death and Burial
+
+28That’s what their father told his sons when he blessed them, each with an appropriate blessing. 29Then he charged them,
+
+“I’m about to pass on to my people. Bury me with my ancestors in the cave in the field of Ephron the Hittite, 30in Machpelah east of Mamre, in Canaan, in the cave Abraham bought for a burial site. 31They buried Abraham and his wife Sarah there. They buried Isaac and his wife Rebekah there. That’s where I buried Leah.” [32] 	Gen 49:27-32
+
+33When Jacob finished charging his sons, he drew his feet into bed, breathed his last, and passed on to his people. 50:1Joseph fell on his father’s face and cried and kissed him. 2He told the physicians to embalm him. 3The embalming took 40 days, and the Egyptians mourned him 70 days.  	Gen 49:33-50:3
+
+4After the time of mourning, Joseph told Pharaoh’s advisors,
+
+“If I’m pleasing to you, tell Pharaoh 5my father had me swear, ‘I’m about to die. Bury me in the grave I dug for myself in Canaan.’ Let me go up and bury him. Then I’ll be back.”
+
+6Pharaoh said, “Go up and bury him like he had you swear.” 	  Gen 50:4-6
+
+-8So Joseph went up to bury him. Pharaoh’s officials, the senior members of his household, the senior officers of Egypt, Joseph’s household, his brothers, and his father’s family went with him. They left only their little ones, flocks, and herds in Goshen. 9A large company of chariots and cavalry also went up. 10When they came to Atad’s threshing floor, not far from the Jordan, they mourned greatly. Joseph observed a week of mourning. 11When the Canaanites saw the mourning, they said, “This is extreme ‘mourning’ for ‘Egyptians’”; so they named it Abel-mizraim. 12His sons did for him what he’d said. 13They carried him to the Cave of Machpelah east of Mamre, which Abraham had bought for a burial site from Ephron the Hittite along with the field. 14After he’d buried him, Joseph and the whole company went back to Egypt.
+
+Gen 50:7-14
+
+Joseph Reassures His Brothers
+
+15When Joseph’s brothers thought about the fact that their father was dead, they said “What if Joseph holds a grudge against us and pays us back for what we did to him?” 16They sent him a message, “Before our father died, he charged us 17to tell you, ‘Forgive your brothers’ sin; they did wrong.’ Forgive the servants of your father’s God.” Joseph cried when they spoke to him. 18Then his brothers came and prostrated themselves, “We’re your servants.” 19But Joseph said,
+
+“I’m not God, am I? 20You meant to harm me, but he turned it out for good to bring about saving lots of people. 21Don’t worry. I’ll keep taking care of you and your little ones.”
+
+He reassured them and dealt with them graciously. 	Gen 50:15-21
+
+The Death of Joseph
+
+22Joseph and his father’s family stayed in Egypt. 23He saw three generations of Ephraim’s descendants and claimed the sons of Machir Ben-Manasseh as his own. 24He told his brothers, “I’m about to die, but God will take care of you, and take you up to the land he swore to Abraham, Isaac, and Jacob.” 25He had the sons of Israel swear, “Take my bones up from here.” 26Joseph died at 110; his body was embalmed and placed in a coffin in Egypt.	Gen 50:22-26

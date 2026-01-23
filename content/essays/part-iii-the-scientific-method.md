@@ -1,9 +1,9 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Evidences
-- Apologetics (book)
-date: '2026-01-13'
+- EVIDENCES
+- APOLOGETICS (book)
+date: '2026-01-23'
 draft: false
 title: 'PART III: THE SCIENTIFIC METHOD'
 weight: 999

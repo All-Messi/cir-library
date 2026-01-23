@@ -1,9 +1,10 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Christian Doctrine 1
-- Dispensations
-date: '2026-01-13'
+- Topics
+- CHRISTIAN DOCTRINE
+- DISPESNATIONS
+date: '2026-01-23'
 draft: false
 title: ISRAEL’S CORE COMMANDMENTS
 weight: 30

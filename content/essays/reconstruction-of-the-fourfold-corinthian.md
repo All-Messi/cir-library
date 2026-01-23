@@ -1,10 +1,10 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Evidences
-- Critical Intro, New Testament
+- EVIDENCES
+- CRITICAL INTRODUCTION -  New Testament
 - Corinthians
-date: '2026-01-13'
+date: '2026-01-23'
 draft: false
 title: RECONSTRUCTION OF THE FOURFOLD CORINTHIAN
 weight: 17

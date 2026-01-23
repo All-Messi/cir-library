@@ -1,10 +1,11 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Christian Doctrine 1
-- Holy Spirit (pneumatology)
-- Speaking in Languages Tongue Speaking
-date: '2026-01-13'
+- Topics
+- CHRISTIAN DOCTRINE
+- HOLY SPIRIT (pneumatology)
+- Speaking in Languages TONGUE SPEAKING
+date: '2026-01-23'
 draft: false
 title: "D. \tApplying tests to contemporary claims of speaking in languages (“tongues\
   \ speaking”)"

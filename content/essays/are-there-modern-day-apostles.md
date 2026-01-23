@@ -1,9 +1,10 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Christian Doctrine 1
-- Church (ecclesiology)
-date: '2026-01-13'
+- Topics
+- CHRISTIAN DOCTRINE
+- CHURCH  (ecclesiology)
+date: '2026-01-23'
 draft: false
 title: ARE THERE MODERN-DAY APOSTLES?
 weight: 15

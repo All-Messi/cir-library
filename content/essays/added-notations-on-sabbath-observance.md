@@ -1,9 +1,10 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Christian Doctrine 1
-- Sabbath-sunday
-date: '2026-01-13'
+- Topics
+- CHRISTIAN DOCTRINE
+- SABBATH-SUNDAY
+date: '2026-01-23'
 draft: false
 title: ADDED NOTATIONS ON SABBATH OBSERVANCE
 weight: 70

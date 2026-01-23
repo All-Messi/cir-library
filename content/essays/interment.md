@@ -1,9 +1,10 @@
 ---
 author: Virgil Warren, christir.org
 categories:
-- Ministry
-- Interments
-date: '2026-01-13'
+- Topics
+- MINISTRY
+- INTERMENTS
+date: '2026-01-23'
 draft: false
 title: INTERMENT
 weight: 999

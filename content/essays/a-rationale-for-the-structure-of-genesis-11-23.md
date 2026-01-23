@@ -1,9 +1,10 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Christian Doctrine 1
-- Creation
-date: '2026-01-13'
+- Topics
+- CHRISTIAN DOCTRINE
+- CREATION
+date: '2026-01-23'
 draft: false
 title: A RATIONALE FOR THE STRUCTURE OF GENESIS 1:1-2:3
 weight: 25

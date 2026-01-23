@@ -1,9 +1,10 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Christian Doctrine 1
-- Ethics
-date: '2026-01-13'
+- Topics
+- CHRISTIAN DOCTRINE
+- ETHICS
+date: '2026-01-23'
 draft: false
 title: ETHICS AND THE GOLDEN RULE
 weight: 35

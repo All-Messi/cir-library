@@ -1,10 +1,11 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Christian Doctrine 1
-- Mankind (anthropology)
+- Topics
+- CHRISTIAN DOCTRINE
+- MANKIND (anthropology)
 - Image of God
-date: '2026-01-13'
+date: '2026-01-23'
 draft: false
 title: 'THE IMAGO DEI AS THE INTERPERSONAL CAPACITY:'
 weight: 999

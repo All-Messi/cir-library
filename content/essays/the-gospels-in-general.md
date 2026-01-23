@@ -1,10 +1,10 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Evidences
-- Critical Intro, New Testament
-- Mt Mk Lk Jn Gospels
-date: '2026-01-13'
+- EVIDENCES
+- CRITICAL INTRODUCTION -  New Testament
+- Mt Mk Lk Jn GOSPELS
+date: '2026-01-23'
 draft: false
 title: THE GOSPELS IN GENERAL
 weight: 3

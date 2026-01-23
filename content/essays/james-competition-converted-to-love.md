@@ -3,7 +3,7 @@ author: Virgil Warren, PhD
 categories:
 - Book Studies
 - James
-date: '2026-01-13'
+date: '2026-01-23'
 draft: false
 title: 'JAMES: COMPETITION CONVERTED TO LOVE'
 weight: 999

@@ -1,9 +1,11 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Christian Doctrine 1
-- Women's Studies
-date: '2026-01-13'
+- Topics
+- CHRISTIAN DOCTRINE
+- MANKIND (anthropology)
+- WOMEN'S STUDIES
+date: '2026-01-23'
 draft: false
 title: PARAMETERS IN WOMEN’S STUDIES
 weight: 999

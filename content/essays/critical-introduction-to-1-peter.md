@@ -1,10 +1,10 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Evidences
-- Critical Intro, New Testament
-- 1 Peter
-date: '2026-01-13'
+- EVIDENCES
+- CRITICAL INTRODUCTION -  New Testament
+- 1 PETER
+date: '2026-01-23'
 draft: false
 title: CRITICAL INTRODUCTION TO 1 PETER
 weight: 35

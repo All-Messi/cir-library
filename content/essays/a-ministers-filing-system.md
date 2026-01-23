@@ -1,9 +1,10 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Ministry
-- Cm-102
-date: '2026-01-13'
+- Topics
+- MINISTRY
+- Christian Ministry 102
+date: '2026-01-23'
 draft: false
 title: A MINISTER’S FILING SYSTEM
 weight: 999

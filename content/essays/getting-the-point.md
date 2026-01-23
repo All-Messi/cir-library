@@ -1,9 +1,9 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Interpretation
-- Interpretation--getting the Point Book
-date: '2026-01-13'
+- INTERPRETATION
+- GETTING THE POINT book
+date: '2026-01-23'
 draft: false
 title: GETTING THE POINT
 weight: 10

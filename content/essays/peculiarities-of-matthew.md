@@ -1,10 +1,10 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Evidences
-- Critical Intro, New Testament
-- Matthew
-date: '2026-01-13'
+- EVIDENCES
+- CRITICAL INTRODUCTION -  New Testament
+- MATTHEW
+date: '2026-01-23'
 draft: false
 title: PECULIARITIES OF MATTHEW
 weight: 7

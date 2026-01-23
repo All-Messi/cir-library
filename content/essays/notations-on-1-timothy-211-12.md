@@ -1,10 +1,12 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Christian Doctrine 1
-- Women's Studies
-- Women's Studies S 1tim 2
-date: '2026-01-13'
+- Topics
+- CHRISTIAN DOCTRINE
+- MANKIND (anthropology)
+- WOMEN'S STUDIES
+- Women's Studies S 1TIM 2
+date: '2026-01-23'
 draft: false
 title: NOTATIONS ON 1 TIMOTHY 2:11-12
 weight: 999

@@ -1,9 +1,10 @@
 ---
 author: Virgil Warren, christir.org
 categories:
-- Ministry
-- Communion Meditations
-date: '2026-01-13'
+- Topics
+- MINISTRY
+- COMMUNION MEDITATIONS
+date: '2026-01-23'
 draft: false
 title: Communion Meditation
 weight: 999

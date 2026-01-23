@@ -1,10 +1,11 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Ministry
+- Topics
+- MINISTRY
 - Sermons
 - Memorial Day Messages
-date: '2026-01-13'
+date: '2026-01-23'
 draft: false
 title: IT IS GOOD TO REMEMBER
 weight: 999

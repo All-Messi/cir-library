@@ -1,9 +1,10 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Interpersonalism
-- Bases for Interpersonalism
-date: '2026-01-13'
+- Topics
+- INTERPERSONALISM
+- BASES FOR INTERPERSONALISM
+date: '2026-01-23'
 draft: false
 title: BASES FOR INTERPERSONALISM
 weight: 999

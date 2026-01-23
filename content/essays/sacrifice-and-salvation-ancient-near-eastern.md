@@ -1,9 +1,10 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Christian Doctrine 1
-- Atonement
-date: '2026-01-13'
+- Topics
+- CHRISTIAN DOCTRINE
+- ATONEMENT
+date: '2026-01-23'
 draft: false
 title: 'SACRIFICE AND SALVATION: ANCIENT NEAR EASTERN'
 weight: 3

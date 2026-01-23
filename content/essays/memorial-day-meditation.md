@@ -1,10 +1,11 @@
 ---
 author: Virgil Warren, Minister
 categories:
-- Ministry
+- Topics
+- MINISTRY
 - Sermons
 - Memorial Day Messages
-date: '2026-01-13'
+date: '2026-01-23'
 draft: false
 title: Memorial Day Meditation
 weight: 999

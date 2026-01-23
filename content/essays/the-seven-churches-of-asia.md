@@ -1,10 +1,10 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Evidences
-- Critical Intro, New Testament
-- Revelation
-date: '2026-01-13'
+- EVIDENCES
+- CRITICAL INTRODUCTION -  New Testament
+- REVELATION
+date: '2026-01-23'
 draft: false
 title: THE SEVEN CHURCHES OF ASIA
 weight: 42

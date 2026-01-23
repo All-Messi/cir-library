@@ -1,10 +1,10 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Evidences
-- Critical Intro, New Testament
-- Thessalonians
-date: '2026-01-13'
+- EVIDENCES
+- CRITICAL INTRODUCTION -  New Testament
+- THESSALONIANS
+date: '2026-01-23'
 draft: false
 title: THESSALONIANS TIME LINE
 weight: 27

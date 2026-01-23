@@ -1,9 +1,10 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Christian Doctrine 1
-- Theology
-date: '2026-01-13'
+- Topics
+- CHRISTIAN DOCTRINE
+- THEOLOGY
+date: '2026-01-23'
 draft: false
 title: THEOLOGY AND LIBERAL ARTS
 weight: 1

@@ -2,9 +2,8 @@
 author: Virgil Warren, PhD
 categories:
 - Greek Features
-- Greek Features
-- Greekvocprj
-date: '2026-01-13'
+- GreeKVOCPRJ
+date: '2026-01-23'
 draft: false
 title: VERBS
 weight: 999

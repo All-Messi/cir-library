@@ -1,9 +1,10 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Christian Doctrine 1
-- Revelation Scripture (bibliology)
-date: '2026-01-13'
+- Topics
+- CHRISTIAN DOCTRINE
+- REVELATION  SCRIPTURE (bibliology)
+date: '2026-01-23'
 draft: false
 title: THE RELATIONSHIP OF GENERAL REVELATION
 weight: 65

@@ -1,10 +1,10 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Evidences
-- Critical Intro, New Testament
+- EVIDENCES
+- CRITICAL INTRODUCTION -  New Testament
 - Philippians
-date: '2026-01-13'
+date: '2026-01-23'
 draft: false
 title: FRAGMENTING PHILIPPIANS
 weight: 23

@@ -1,9 +1,9 @@
 ---
 author: (Excerpt from Virgil Warren’s doctoral dissertation)
 categories:
-- Interpretation
-- Interpretation--getting the Point Book
-date: '2026-01-13'
+- INTERPRETATION
+- GETTING THE POINT book
+date: '2026-01-23'
 draft: false
 title: 'THE IMPLICATION OF DIVINE SELF-CONSISTENCY FOR THE DOCTRINE OF NATURAL DEPRAVITY:'
 weight: 10

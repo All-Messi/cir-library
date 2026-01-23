@@ -1,8 +1,9 @@
 ---
 author: Virgil & Ruth Ann Warren
 categories:
+- Topics
 - Music
-date: '2026-01-13'
+date: '2026-01-23'
 draft: false
 title: 'LEADING CONGREGATIONAL SINGING:'
 weight: 999

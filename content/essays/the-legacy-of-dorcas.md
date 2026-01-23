@@ -1,10 +1,11 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Ministry
+- Topics
+- MINISTRY
 - Sermons
 - Funerals
-date: '2026-01-13'
+date: '2026-01-23'
 draft: false
 title: THE LEGACY OF DORCAS
 weight: 999

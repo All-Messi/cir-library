@@ -3,7 +3,7 @@ author: Virgil Warren, PhD
 categories:
 - Book Studies
 - Revelation
-date: '2026-01-13'
+date: '2026-01-23'
 draft: false
 title: 'REVELATION:  GOOD AND EVIL IN ETERNAL PERSPECTIVE'
 weight: 999

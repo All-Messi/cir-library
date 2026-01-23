@@ -1,10 +1,10 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Evidences
-- Critical Intro, New Testament
-- 2 Peter
-date: '2026-01-13'
+- EVIDENCES
+- CRITICAL INTRODUCTION -  New Testament
+- 2 PETER
+date: '2026-01-23'
 draft: false
 title: CRITICAL INTRODUCTION TO 2 PETER
 weight: 36

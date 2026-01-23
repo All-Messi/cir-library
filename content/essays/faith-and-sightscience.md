@@ -1,9 +1,9 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Evidences
-- Know, How We, (epistemology)
-date: '2026-01-13'
+- EVIDENCES
+- KNOW, how we, (epistemology)
+date: '2026-01-23'
 draft: false
 title: FAITH AND SIGHT/SCIENCE
 weight: 999

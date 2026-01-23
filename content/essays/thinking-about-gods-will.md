@@ -1,9 +1,10 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Christian Doctrine 1
-- Providence
-date: '2026-01-13'
+- Topics
+- CHRISTIAN DOCTRINE
+- PROVIDENCE
+date: '2026-01-23'
 draft: false
 title: THINKING ABOUT GOD’S WILL
 weight: 62

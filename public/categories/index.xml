@@ -6,68 +6,89 @@
     <description>Recent content in Categories on Christian Internet Resources</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/cir-library/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>THEOLOGY</title>
-      <link>http://localhost:1313/cir-library/categories/theology/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cir-library/categories/theology/</guid>
-      <description></description>
-    </item>
     <item>
       <title>CANON  NT BOOKS</title>
       <link>http://localhost:1313/cir-library/categories/canon--nt-books/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/canon--nt-books/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>THEOLOGY</title>
+      <link>http://localhost:1313/cir-library/categories/theology/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/theology/</guid>
       <description></description>
     </item>
     <item>
       <title>DOCTRINAL Summaries</title>
       <link>http://localhost:1313/cir-library/categories/doctrinal-summaries/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/doctrinal-summaries/</guid>
       <description></description>
     </item>
     <item>
       <title>PRIME PASSAGES</title>
       <link>http://localhost:1313/cir-library/categories/prime-passages/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/prime-passages/</guid>
       <description></description>
     </item>
     <item>
       <title>ATONEMENT</title>
       <link>http://localhost:1313/cir-library/categories/atonement/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/atonement/</guid>
       <description></description>
     </item>
     <item>
       <title>Mt Mk Lk Jn GOSPELS</title>
       <link>http://localhost:1313/cir-library/categories/mt-mk-lk-jn-gospels/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/mt-mk-lk-jn-gospels/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Conversational Version</title>
+      <link>http://localhost:1313/cir-library/categories/the-conversational-version/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/the-conversational-version/</guid>
       <description></description>
     </item>
     <item>
       <title>BAPTISM</title>
       <link>http://localhost:1313/cir-library/categories/baptism/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/baptism/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MISUSED PASSAGES</title>
+      <link>http://localhost:1313/cir-library/categories/misused-passages/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/misused-passages/</guid>
       <description></description>
     </item>
     <item>
       <title>Mt Mk Lk  SYNOPTICS</title>
       <link>http://localhost:1313/cir-library/categories/mt-mk-lk--synoptics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/mt-mk-lk--synoptics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conversational O T (by book)</title>
+      <link>http://localhost:1313/cir-library/categories/conversational-o-t-by-book/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/conversational-o-t-by-book/</guid>
       <description></description>
     </item>
     <item>
       <title>PASSAGES WHERE GREEK HELPS</title>
       <link>http://localhost:1313/cir-library/categories/passages-where-greek-helps/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/passages-where-greek-helps/</guid>
       <description></description>
     </item>
@@ -81,49 +102,63 @@
     <item>
       <title>MATTHEW</title>
       <link>http://localhost:1313/cir-library/categories/matthew/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/matthew/</guid>
       <description></description>
     </item>
     <item>
       <title>MARK</title>
       <link>http://localhost:1313/cir-library/categories/mark/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/mark/</guid>
       <description></description>
     </item>
     <item>
       <title>LUKE</title>
       <link>http://localhost:1313/cir-library/categories/luke/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/luke/</guid>
       <description></description>
     </item>
     <item>
-      <title>INTERPRETATION--GETTING THE POINT book</title>
-      <link>http://localhost:1313/cir-library/categories/interpretation--getting-the-point-book/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cir-library/categories/interpretation--getting-the-point-book/</guid>
+      <title>THE YAHVEH COVENANT (by book)</title>
+      <link>http://localhost:1313/cir-library/categories/the-yahveh-covenant-by-book/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/the-yahveh-covenant-by-book/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GETTING THE POINT book</title>
+      <link>http://localhost:1313/cir-library/categories/getting-the-point-book/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/getting-the-point-book/</guid>
       <description></description>
     </item>
     <item>
       <title>JOHN</title>
       <link>http://localhost:1313/cir-library/categories/john/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/john/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sermon on the Mount Commentary (Book)</title>
+      <link>http://localhost:1313/cir-library/categories/sermon-on-the-mount-commentary-book/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/sermon-on-the-mount-commentary-book/</guid>
       <description></description>
     </item>
     <item>
       <title>Acts</title>
       <link>http://localhost:1313/cir-library/categories/acts/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/acts/</guid>
       <description></description>
     </item>
     <item>
       <title>ROMANS</title>
       <link>http://localhost:1313/cir-library/categories/romans/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/romans/</guid>
       <description></description>
     </item>
@@ -137,105 +172,126 @@
     <item>
       <title>Corinthians</title>
       <link>http://localhost:1313/cir-library/categories/corinthians/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/corinthians/</guid>
       <description></description>
     </item>
     <item>
       <title>Galatians</title>
       <link>http://localhost:1313/cir-library/categories/galatians/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/galatians/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eph Col Phil RPISON EPSITLES</title>
+      <link>http://localhost:1313/cir-library/categories/eph-col-phil-rpison-epsitles/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/eph-col-phil-rpison-epsitles/</guid>
       <description></description>
     </item>
     <item>
       <title>Ephesians</title>
       <link>http://localhost:1313/cir-library/categories/ephesians/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/ephesians/</guid>
       <description></description>
     </item>
     <item>
       <title>Philippians</title>
       <link>http://localhost:1313/cir-library/categories/philippians/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/philippians/</guid>
       <description></description>
     </item>
     <item>
       <title>Colossians</title>
       <link>http://localhost:1313/cir-library/categories/colossians/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/colossians/</guid>
       <description></description>
     </item>
     <item>
       <title>CREATION</title>
       <link>http://localhost:1313/cir-library/categories/creation/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/creation/</guid>
       <description></description>
     </item>
     <item>
       <title>THESSALONIANS</title>
       <link>http://localhost:1313/cir-library/categories/thessalonians/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/thessalonians/</guid>
       <description></description>
     </item>
     <item>
       <title>TIMOTHY TITUS Pastoral Epistles</title>
       <link>http://localhost:1313/cir-library/categories/timothy-titus-pastoral-epistles/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/timothy-titus-pastoral-epistles/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DISPESNATIONS</title>
+      <link>http://localhost:1313/cir-library/categories/dispesnations/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/dispesnations/</guid>
       <description></description>
     </item>
     <item>
       <title>HEBREWS</title>
       <link>http://localhost:1313/cir-library/categories/hebrews/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/hebrews/</guid>
       <description></description>
     </item>
     <item>
       <title>JAMES</title>
       <link>http://localhost:1313/cir-library/categories/james/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/james/</guid>
       <description></description>
     </item>
     <item>
       <title>1 PETER</title>
       <link>http://localhost:1313/cir-library/categories/1-peter/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/1-peter/</guid>
       <description></description>
     </item>
     <item>
       <title>ETHICS</title>
       <link>http://localhost:1313/cir-library/categories/ethics/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/ethics/</guid>
       <description></description>
     </item>
     <item>
       <title>2 PETER</title>
       <link>http://localhost:1313/cir-library/categories/2-peter/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/2-peter/</guid>
       <description></description>
     </item>
     <item>
       <title>1 2 3 JOHN</title>
       <link>http://localhost:1313/cir-library/categories/1-2-3-john/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/1-2-3-john/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FEETWASHIING</title>
+      <link>http://localhost:1313/cir-library/categories/feetwashiing/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/feetwashiing/</guid>
       <description></description>
     </item>
     <item>
       <title>REVELATION</title>
       <link>http://localhost:1313/cir-library/categories/revelation/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/revelation/</guid>
       <description></description>
     </item>
@@ -270,7 +326,7 @@
     <item>
       <title>PROVIDENCE</title>
       <link>http://localhost:1313/cir-library/categories/providence/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/providence/</guid>
       <description></description>
     </item>
@@ -284,7 +340,7 @@
     <item>
       <title>SABBATH-SUNDAY</title>
       <link>http://localhost:1313/cir-library/categories/sabbath-sunday/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/sabbath-sunday/</guid>
       <description></description>
     </item>
@@ -298,266 +354,308 @@
     <item>
       <title>BASES FOR INTERPERSONALISM</title>
       <link>http://localhost:1313/cir-library/categories/bases-for-interpersonalism/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/bases-for-interpersonalism/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BASIC CHRISTIANITY</title>
+      <link>http://localhost:1313/cir-library/categories/basic-christianity/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/basic-christianity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BASIC CHRISTINAITY STUDY GUIDES</title>
+      <link>http://localhost:1313/cir-library/categories/basic-christinaity-study-guides/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/basic-christinaity-study-guides/</guid>
       <description></description>
     </item>
     <item>
       <title>Book Reviews</title>
       <link>http://localhost:1313/cir-library/categories/book-reviews/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/book-reviews/</guid>
       <description></description>
     </item>
     <item>
       <title>Book Studies</title>
       <link>http://localhost:1313/cir-library/categories/book-studies/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/book-studies/</guid>
       <description></description>
     </item>
     <item>
-      <title>Characteristics Of Interpersonalism</title>
-      <link>http://localhost:1313/cir-library/categories/characteristics-of-interpersonalism/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cir-library/categories/characteristics-of-interpersonalism/</guid>
+      <title>CHARACTERISTICS OF IINTERPERSONALISM</title>
+      <link>http://localhost:1313/cir-library/categories/characteristics-of-iinterpersonalism/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/characteristics-of-iinterpersonalism/</guid>
       <description></description>
     </item>
     <item>
-      <title>CHRISTIAN DOCTRINE 1</title>
-      <link>http://localhost:1313/cir-library/categories/christian-doctrine-1/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cir-library/categories/christian-doctrine-1/</guid>
+      <title>CHRISTIAN DOCTRINE</title>
+      <link>http://localhost:1313/cir-library/categories/christian-doctrine/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/christian-doctrine/</guid>
       <description></description>
     </item>
     <item>
-      <title>Cm-101</title>
-      <link>http://localhost:1313/cir-library/categories/cm-101/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cir-library/categories/cm-101/</guid>
+      <title>Christian Ministry 101</title>
+      <link>http://localhost:1313/cir-library/categories/christian-ministry-101/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/christian-ministry-101/</guid>
       <description></description>
     </item>
     <item>
-      <title>Cm-102</title>
-      <link>http://localhost:1313/cir-library/categories/cm-102/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cir-library/categories/cm-102/</guid>
+      <title>Christian Ministry 102</title>
+      <link>http://localhost:1313/cir-library/categories/christian-ministry-102/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/christian-ministry-102/</guid>
       <description></description>
     </item>
     <item>
-      <title>Cm-105</title>
-      <link>http://localhost:1313/cir-library/categories/cm-105/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cir-library/categories/cm-105/</guid>
+      <title>Christian Ministry 105</title>
+      <link>http://localhost:1313/cir-library/categories/christian-ministry-105/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/christian-ministry-105/</guid>
       <description></description>
     </item>
     <item>
       <title>COMMENTARIES</title>
       <link>http://localhost:1313/cir-library/categories/commentaries/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/commentaries/</guid>
       <description></description>
     </item>
     <item>
       <title>COMMUNION MEDITATIONS</title>
       <link>http://localhost:1313/cir-library/categories/communion-meditations/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/communion-meditations/</guid>
       <description></description>
     </item>
     <item>
-      <title>Dispensations</title>
-      <link>http://localhost:1313/cir-library/categories/dispensations/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cir-library/categories/dispensations/</guid>
+      <title>CRITICAL INTRODUCTION -  New Testament</title>
+      <link>http://localhost:1313/cir-library/categories/critical-introduction----new-testament/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/critical-introduction----new-testament/</guid>
       <description></description>
     </item>
     <item>
-      <title>Ephesians, Colossians, Philippians Prison Epistles</title>
-      <link>http://localhost:1313/cir-library/categories/eph-col-phil-prison-epistles/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cir-library/categories/eph-col-phil-prison-epistles/</guid>
+      <title>CRITICAL INTRODUCTION - Old Testament</title>
+      <link>http://localhost:1313/cir-library/categories/critical-introduction---old-testament/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/critical-introduction---old-testament/</guid>
       <description></description>
     </item>
     <item>
       <title>EVIDENCES</title>
       <link>http://localhost:1313/cir-library/categories/evidences/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/evidences/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Feet Washing</title>
-      <link>http://localhost:1313/cir-library/categories/feet-washing/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cir-library/categories/feet-washing/</guid>
       <description></description>
     </item>
     <item>
       <title>Funerals</title>
       <link>http://localhost:1313/cir-library/categories/funerals/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/funerals/</guid>
       <description></description>
     </item>
     <item>
       <title>General</title>
       <link>http://localhost:1313/cir-library/categories/general/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/general/</guid>
       <description></description>
     </item>
     <item>
       <title>Greek Features</title>
       <link>http://localhost:1313/cir-library/categories/greek-features/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/greek-features/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GreeKVOCPRJ</title>
+      <link>http://localhost:1313/cir-library/categories/greekvocprj/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/greekvocprj/</guid>
       <description></description>
     </item>
     <item>
       <title>Image of God</title>
       <link>http://localhost:1313/cir-library/categories/image-of-god/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/image-of-god/</guid>
       <description></description>
     </item>
     <item>
       <title>Interim Ministry</title>
       <link>http://localhost:1313/cir-library/categories/interim-ministry/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/interim-ministry/</guid>
       <description></description>
     </item>
     <item>
       <title>INTERMENTS</title>
       <link>http://localhost:1313/cir-library/categories/interments/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/interments/</guid>
       <description></description>
     </item>
     <item>
       <title>INTERPERSONALISM</title>
       <link>http://localhost:1313/cir-library/categories/interpersonalism/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/interpersonalism/</guid>
       <description></description>
     </item>
     <item>
       <title>INTERPRETATION</title>
       <link>http://localhost:1313/cir-library/categories/interpretation/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/interpretation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IP IMPACT ON TOPICS</title>
-      <link>http://localhost:1313/cir-library/categories/ip-impact-on-topics/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cir-library/categories/ip-impact-on-topics/</guid>
       <description></description>
     </item>
     <item>
       <title>Jonah</title>
       <link>http://localhost:1313/cir-library/categories/jonah/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/jonah/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JUST A THOUGHT</title>
+      <link>http://localhost:1313/cir-library/categories/just-a-thought/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/just-a-thought/</guid>
       <description></description>
     </item>
     <item>
       <title>MA THESIS</title>
       <link>http://localhost:1313/cir-library/categories/ma-thesis/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/ma-thesis/</guid>
       <description></description>
     </item>
     <item>
       <title>Memorial Day Messages</title>
       <link>http://localhost:1313/cir-library/categories/memorial-day-messages/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/memorial-day-messages/</guid>
       <description></description>
     </item>
     <item>
       <title>MINISTRY</title>
       <link>http://localhost:1313/cir-library/categories/ministry/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/ministry/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Misused Passages</title>
-      <link>http://localhost:1313/cir-library/categories/misused-passages/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cir-library/categories/misused-passages/</guid>
       <description></description>
     </item>
     <item>
       <title>Music</title>
       <link>http://localhost:1313/cir-library/categories/music/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/music/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NOTION IN A NUTSHELL</title>
+      <link>http://localhost:1313/cir-library/categories/notion-in-a-nutshell/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/notion-in-a-nutshell/</guid>
       <description></description>
     </item>
     <item>
       <title>ORDINATION</title>
       <link>http://localhost:1313/cir-library/categories/ordination/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/ordination/</guid>
       <description></description>
     </item>
     <item>
       <title>PREPARATION for Ministry</title>
       <link>http://localhost:1313/cir-library/categories/preparation-for-ministry/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/preparation-for-ministry/</guid>
       <description></description>
     </item>
     <item>
       <title>SCRIPTURE</title>
       <link>http://localhost:1313/cir-library/categories/scripture/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/scripture/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sermon On The Mount Commentary</title>
-      <link>http://localhost:1313/cir-library/categories/sermon-on-the-mount-commentary/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cir-library/categories/sermon-on-the-mount-commentary/</guid>
       <description></description>
     </item>
     <item>
       <title>Sermons</title>
       <link>http://localhost:1313/cir-library/categories/sermons/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/sermons/</guid>
       <description></description>
     </item>
     <item>
       <title>Speaking in Languages TONGUE SPEAKING</title>
       <link>http://localhost:1313/cir-library/categories/speaking-in-languages-tongue-speaking/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/speaking-in-languages-tongue-speaking/</guid>
       <description></description>
     </item>
     <item>
       <title>STRAIGHT THINKING FOR YOUTH</title>
       <link>http://localhost:1313/cir-library/categories/straight-thinking-for-youth/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/straight-thinking-for-youth/</guid>
       <description></description>
     </item>
     <item>
       <title>Sunrise</title>
       <link>http://localhost:1313/cir-library/categories/sunrise/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/sunrise/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Texts</title>
+      <link>http://localhost:1313/cir-library/categories/texts/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/texts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Conversational New Testament</title>
+      <link>http://localhost:1313/cir-library/categories/the-conversational-new-testament/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/the-conversational-new-testament/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Conversational Old Testament ok 3-20-19</title>
+      <link>http://localhost:1313/cir-library/categories/the-conversational-old-testament-ok-3-20-19/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/the-conversational-old-testament-ok-3-20-19/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Harmonized Gospels</title>
+      <link>http://localhost:1313/cir-library/categories/the-harmonized-gospels/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/the-harmonized-gospels/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Topics</title>
+      <link>http://localhost:1313/cir-library/categories/topics/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/topics/</guid>
       <description></description>
     </item>
     <item>
       <title>UNITY Christian and IP</title>
       <link>http://localhost:1313/cir-library/categories/unity-christian-and-ip/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/unity-christian-and-ip/</guid>
       <description></description>
     </item>
@@ -566,6 +664,13 @@
       <link>http://localhost:1313/cir-library/categories/apologetics-book/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/apologetics-book/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Basic Christianity (Book)</title>
+      <link>http://localhost:1313/cir-library/categories/basic-christianity-book/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/basic-christianity-book/</guid>
       <description></description>
     </item>
     <item>
@@ -590,13 +695,6 @@
       <description></description>
     </item>
     <item>
-      <title>CRITICAL INTRO, New Testament</title>
-      <link>http://localhost:1313/cir-library/categories/critical-intro-new-testament/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cir-library/categories/critical-intro-new-testament/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>DEPRAVITY, ESSAYS ON hUMAN</title>
       <link>http://localhost:1313/cir-library/categories/depravity-essays-on-human/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -611,17 +709,17 @@
       <description></description>
     </item>
     <item>
-      <title>GrkFeatures</title>
-      <link>http://localhost:1313/cir-library/categories/grkfeatures/</link>
+      <title>IP (interpersonalism) IMPACT ON TOPICS</title>
+      <link>http://localhost:1313/cir-library/categories/ip-interpersonalism-impact-on-topics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cir-library/categories/grkfeatures/</guid>
+      <guid>http://localhost:1313/cir-library/categories/ip-interpersonalism-impact-on-topics/</guid>
       <description></description>
     </item>
     <item>
-      <title>KNOW, how we,   (epistemology)</title>
-      <link>http://localhost:1313/cir-library/categories/know-how-we---epistemology/</link>
+      <title>KNOW, how we, (epistemology)</title>
+      <link>http://localhost:1313/cir-library/categories/know-how-we-epistemology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cir-library/categories/know-how-we---epistemology/</guid>
+      <guid>http://localhost:1313/cir-library/categories/know-how-we-epistemology/</guid>
       <description></description>
     </item>
     <item>
@@ -629,13 +727,6 @@
       <link>http://localhost:1313/cir-library/categories/the-nature-of-man--book/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/the-nature-of-man--book/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tithing</title>
-      <link>http://localhost:1313/cir-library/categories/tithing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cir-library/categories/tithing/</guid>
       <description></description>
     </item>
     <item>
@@ -667,227 +758,192 @@
       <description></description>
     </item>
     <item>
-      <title>1, 2, 3 John</title>
-      <link>http://localhost:1313/cir-library/categories/1-2-3-john/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cir-library/categories/1-2-3-john/</guid>
+      <title>APOLOGETICS (Book)</title>
+      <link>http://localhost:1313/cir-library/categories/apologetics-book/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/apologetics-book/</guid>
       <description></description>
     </item>
     <item>
-      <title>Apologetics (Book)</title>
-      <link>http://localhost:1313/cir-library/categories/apologetics-book/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cir-library/categories/apologetics-book/</guid>
+      <title>Basic Christianity (Book)</title>
+      <link>http://localhost:1313/cir-library/categories/basic-christianity-book/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/basic-christianity-book/</guid>
       <description></description>
     </item>
     <item>
       <title>Bible Resources</title>
       <link>http://localhost:1313/cir-library/categories/bible-resources/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/bible-resources/</guid>
       <description></description>
     </item>
     <item>
       <title>Brain Teasers (Assignments)</title>
       <link>http://localhost:1313/cir-library/categories/brain-teasers-assignments/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/brain-teasers-assignments/</guid>
       <description></description>
     </item>
     <item>
-      <title>Canon Nt Books</title>
-      <link>http://localhost:1313/cir-library/categories/canon-nt-books/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cir-library/categories/canon-nt-books/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Christ (Christology)</title>
+      <title>CHRIST (Christology)</title>
       <link>http://localhost:1313/cir-library/categories/christ-christology/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/christ-christology/</guid>
       <description></description>
     </item>
     <item>
-      <title>Christian Internet Min March Ff Corresp</title>
-      <link>http://localhost:1313/cir-library/categories/christian-internet-min-march-ff-corresp/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cir-library/categories/christian-internet-min-march-ff-corresp/</guid>
+      <title>CHURCH  (Ecclesiology)</title>
+      <link>http://localhost:1313/cir-library/categories/church--ecclesiology/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/church--ecclesiology/</guid>
       <description></description>
     </item>
     <item>
-      <title>Church (Ecclesiology)</title>
-      <link>http://localhost:1313/cir-library/categories/church-ecclesiology/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cir-library/categories/church-ecclesiology/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>CIR Notion in a Nutshell</title>
-      <link>http://localhost:1313/cir-library/categories/cir-notion-in-a-nutshell/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cir-library/categories/cir-notion-in-a-nutshell/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Contradictions, Resolving in Scripture</title>
+      <title>CONTRADICTIONS, Resolving in Scripture</title>
       <link>http://localhost:1313/cir-library/categories/contradictions-resolving-in-scripture/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/contradictions-resolving-in-scripture/</guid>
       <description></description>
     </item>
     <item>
-      <title>Creation (And Evolution)</title>
+      <title>Conversational O T (By Book)</title>
+      <link>http://localhost:1313/cir-library/categories/conversational-o-t-by-book/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/conversational-o-t-by-book/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CREATION (AND EVOLUTION)</title>
       <link>http://localhost:1313/cir-library/categories/creation-and-evolution/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/creation-and-evolution/</guid>
       <description></description>
     </item>
     <item>
-      <title>Critical Intro, New Testament</title>
-      <link>http://localhost:1313/cir-library/categories/critical-intro-new-testament/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cir-library/categories/critical-intro-new-testament/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Depravity, Essays on Human</title>
+      <title>DEPRAVITY, ESSAYS on HUMAN</title>
       <link>http://localhost:1313/cir-library/categories/depravity-essays-on-human/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/depravity-essays-on-human/</guid>
       <description></description>
     </item>
     <item>
-      <title>Evil, Problem of (Theodicy)</title>
+      <title>EVIL, Problem of (Theodicy)</title>
       <link>http://localhost:1313/cir-library/categories/evil-problem-of-theodicy/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/evil-problem-of-theodicy/</guid>
       <description></description>
     </item>
     <item>
-      <title>Features of Internet Ministry Right One for 2025</title>
-      <link>http://localhost:1313/cir-library/categories/features-of-internet-ministry-right-one-for-2025/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cir-library/categories/features-of-internet-ministry-right-one-for-2025/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Future Things (Eschatology)</title>
+      <title>FUTURE THINGS (Eschatology)</title>
       <link>http://localhost:1313/cir-library/categories/future-things-eschatology/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/future-things-eschatology/</guid>
       <description></description>
     </item>
     <item>
-      <title>God (Theology Proper)</title>
-      <link>http://localhost:1313/cir-library/categories/god-theology-proper/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cir-library/categories/god-theology-proper/</guid>
+      <title>GOD  (Theology Proper)</title>
+      <link>http://localhost:1313/cir-library/categories/god--theology-proper/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/god--theology-proper/</guid>
       <description></description>
     </item>
     <item>
-      <title>Greekvocprj</title>
-      <link>http://localhost:1313/cir-library/categories/greekvocprj/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cir-library/categories/greekvocprj/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Holy Spirit (Pneumatology)</title>
+      <title>HOLY SPIRIT (Pneumatology)</title>
       <link>http://localhost:1313/cir-library/categories/holy-spirit-pneumatology/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/holy-spirit-pneumatology/</guid>
       <description></description>
     </item>
     <item>
-      <title>Know, How We, (Epistemology)</title>
+      <title>IP (Interpersonalism) IMPACT on TOPICS</title>
+      <link>http://localhost:1313/cir-library/categories/ip-interpersonalism-impact-on-topics/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/ip-interpersonalism-impact-on-topics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jude</title>
+      <link>http://localhost:1313/cir-library/categories/jude/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/jude/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>KNOW, How We, (Epistemology)</title>
       <link>http://localhost:1313/cir-library/categories/know-how-we-epistemology/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/know-how-we-epistemology/</guid>
       <description></description>
     </item>
     <item>
-      <title>Mankind (Anthropology)</title>
+      <title>MANKIND (Anthropology)</title>
       <link>http://localhost:1313/cir-library/categories/mankind-anthropology/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/mankind-anthropology/</guid>
       <description></description>
     </item>
     <item>
-      <title>Mt Mk Lk Synoptics</title>
-      <link>http://localhost:1313/cir-library/categories/mt-mk-lk-synoptics/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cir-library/categories/mt-mk-lk-synoptics/</guid>
+      <title>REVELATION  SCRIPTURE (Bibliology)</title>
+      <link>http://localhost:1313/cir-library/categories/revelation--scripture-bibliology/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/revelation--scripture-bibliology/</guid>
       <description></description>
     </item>
     <item>
-      <title>Revelation Scripture (Bibliology)</title>
-      <link>http://localhost:1313/cir-library/categories/revelation-scripture-bibliology/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cir-library/categories/revelation-scripture-bibliology/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Salvation (Soteriology)</title>
+      <title>SALVATION (Soteriology)</title>
       <link>http://localhost:1313/cir-library/categories/salvation-soteriology/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/salvation-soteriology/</guid>
       <description></description>
     </item>
     <item>
-      <title>Salvation None</title>
-      <link>http://localhost:1313/cir-library/categories/salvation-none/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cir-library/categories/salvation-none/</guid>
+      <title>Sermon on the Mount Commentary (Book)</title>
+      <link>http://localhost:1313/cir-library/categories/sermon-on-the-mount-commentary-book/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/sermon-on-the-mount-commentary-book/</guid>
       <description></description>
     </item>
     <item>
-      <title>The Nature of Man (Book)</title>
-      <link>http://localhost:1313/cir-library/categories/the-nature-of-man-book/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cir-library/categories/the-nature-of-man-book/</guid>
+      <title>THE NATURE of MAN  (Book)</title>
+      <link>http://localhost:1313/cir-library/categories/the-nature-of-man--book/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/the-nature-of-man--book/</guid>
       <description></description>
     </item>
     <item>
-      <title>Women&#39;s Studies</title>
+      <title>THE YAHVEH COVENANT (By Book)</title>
+      <link>http://localhost:1313/cir-library/categories/the-yahveh-covenant-by-book/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/the-yahveh-covenant-by-book/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WOMEN&#39;S STUDIES</title>
       <link>http://localhost:1313/cir-library/categories/womens-studies/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/womens-studies/</guid>
       <description></description>
     </item>
     <item>
       <title>Women&#39;s Studies Eph 5 21</title>
       <link>http://localhost:1313/cir-library/categories/womens-studies-eph-5-21/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/womens-studies-eph-5-21/</guid>
       <description></description>
     </item>
     <item>
-      <title>Women&#39;s Studies S 1tim 2</title>
+      <title>Women&#39;s Studies S 1TIM 2</title>
       <link>http://localhost:1313/cir-library/categories/womens-studies-s-1tim-2/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/womens-studies-s-1tim-2/</guid>
       <description></description>
     </item>
     <item>
       <title>Women&#39;s Studies S Gal 3 28</title>
       <link>http://localhost:1313/cir-library/categories/womens-studies-s-gal-3-28/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/womens-studies-s-gal-3-28/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Basic Christianity</title>
-      <link>http://localhost:1313/cir-library/categories/basic-christianity/</link>
-      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cir-library/categories/basic-christianity/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Christian Doctrine</title>
-      <link>http://localhost:1313/cir-library/categories/christian-doctrine/</link>
-      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cir-library/categories/christian-doctrine/</guid>
       <description></description>
     </item>
   </channel>

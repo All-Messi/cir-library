@@ -1,9 +1,9 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Interpretation
-- Prime Passages
-date: '2026-01-13'
+- INTERPRETATION
+- PRIME PASSAGES
+date: '2026-01-23'
 draft: false
 title: PRIME PASSAGES
 weight: 2

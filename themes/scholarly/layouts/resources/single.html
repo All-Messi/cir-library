@@ -1,7 +1,7 @@
 {{ define "main" }}
 <article class="resource-article">
     <nav class="breadcrumb">
-        <a href="{{ "resources/" | absURL }}">← Resources</a>
+        <a href="{{ "translations/resources/" | absURL }}">← Resources</a>
     </nav>
 
     <header class="article-header">
@@ -12,7 +12,7 @@
         {{ if .Params.categories }}
         <div class="categories">
             {{ range .Params.categories }}
-            <span class="category-tag">{{ . }}</span>
+            <a href="{{ "categories/" | absURL }}{{ . | urlize }}/" class="category-tag">{{ . }}</a>
             {{ end }}
         </div>
         {{ end }}
@@ -21,6 +21,9 @@
     <div class="article-content">
         {{ .Content }}
     </div>
+
+    {{/* Related content / See Also */}}
+    {{ partial "see-also.html" . }}
 </article>
 
 <style>
@@ -38,6 +41,12 @@
     font-size: 0.85em;
     font-weight: 600;
     margin-right: 0.5rem;
+    text-decoration: none;
+}
+
+.category-tag:hover {
+    background: var(--secondary-color);
+    color: white;
 }
 </style>
 {{ end }}

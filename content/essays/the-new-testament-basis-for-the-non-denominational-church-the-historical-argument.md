@@ -1,10 +1,11 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Christian Doctrine 1
-- Church (ecclesiology)
-- Ma Thesis
-date: '2026-01-13'
+- Topics
+- CHRISTIAN DOCTRINE
+- CHURCH  (ecclesiology)
+- MA THESIS
+date: '2026-01-23'
 draft: false
 title: 'THE NEW TESTAMENT BASIS FOR THE NON-DENOMINATIONAL CHURCH: THE HISTORICAL
   ARGUMENT'

@@ -1,9 +1,10 @@
 ---
 author: Virgil Warren
 categories:
-- Ministry
+- Topics
+- MINISTRY
 - Interim Ministry
-date: '2026-01-13'
+date: '2026-01-23'
 draft: false
 title: CHRISTIAN MINISTRY INTERNSHIP
 weight: 999

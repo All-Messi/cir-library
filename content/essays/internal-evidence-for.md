@@ -1,10 +1,10 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Evidences
-- Critical Intro, New Testament
-- John
-date: '2026-01-13'
+- EVIDENCES
+- CRITICAL INTRODUCTION -  New Testament
+- JOHN
+date: '2026-01-23'
 draft: false
 title: INTERNAL EVIDENCE FOR
 weight: 11

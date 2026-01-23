@@ -1,9 +1,10 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Christian Doctrine 1
-- Holy Spirit (pneumatology)
-date: '2026-01-13'
+- Topics
+- CHRISTIAN DOCTRINE
+- HOLY SPIRIT (pneumatology)
+date: '2026-01-23'
 draft: false
 title: SUMMARY OBSERVATIONS ON BIBLICAL MIRACLES
 weight: 55

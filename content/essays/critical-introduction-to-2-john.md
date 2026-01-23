@@ -1,10 +1,10 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Evidences
-- Critical Intro, New Testament
-- 1, 2, 3 John
-date: '2026-01-13'
+- EVIDENCES
+- CRITICAL INTRODUCTION -  New Testament
+- 1 2 3 JOHN
+date: '2026-01-23'
 draft: false
 title: CRITICAL INTRODUCTION TO 2 JOHN
 weight: 38

@@ -3,7 +3,7 @@ author: Virgil Warren, PhD
 categories:
 - Book Studies
 - Colossians
-date: '2026-01-13'
+date: '2026-01-23'
 draft: false
 title: COLOSSIANS 2
 weight: 999

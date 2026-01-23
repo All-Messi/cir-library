@@ -1,0 +1,2051 @@
+---
+author: Virgil Warren, PhD
+categories:
+- Texts
+- The Conversational Version
+- The Conversational New Testament
+date: '2026-01-23'
+draft: false
+title: THE CONVERSATIONAL VERSION
+weight: 999
+---
+
+THE CONVERSATIONAL VERSION
+
+TRANSLATION NOTES FOR THE NEW TESTAMENT
+
+The Conversational Version falls between wooden translation and loose paraphrase. It is not a word-for-word translation or one told “in our own words.” Its main contribution is at the second level of translation, the custom-of-usage level, that is, semantic equivalence. The aim has been to use a casual, everyday manner of speaking. The translation tries to follow specific patterns of form and grammar that do not affect subject matter. That includes several standard principles of written composition:
+
+*a. transforming passive clauses and phrases to active ones
+
+b.	changing sequences in lists to make them natural and to fit English conventions
+
+c.	replacing negative statements with equivalent positive statements
+
+d. preferring action-verb wording over linking-verb constructions
+
+*e.	negating the verb rather than the direct object
+
+*f.	eliminating unnecessary conjunctions between clauses and in lists
+
+*g.	using “pro-verbs,” contractions, and other “shorts”
+
+h.	eliminating unnecessarily repetitious statements
+
+i.	using restrained language
+
+j.	using words and expressions common in current conversation
+
+*k.	replacing participles with finite verbs
+
+*l.	replacing “of” constructions with more specific connections to the phrase head
+
+*m.	avoiding pendens constructions, historical presents, futuristic presents, timeless aorists, imperatival futures, third-person imperatives, absolute constructions, and other less customary English verbal usages
+
+*n.	deleting “body-part” language, litotes, and other idioms less customary in English
+
+o.	establishing continuity of person, tense, number, and viewpoint
+
+*p.	shortening long sentences fostered by Greek and Hebrew syntax as created by the pleonastic expression, tautology, redundancy, conjunctive elements, and the general verbosity of Hebrew idiom compared to English
+
+Symbols
+
+words	original Greek authors’ words translated
+
+wordp	(a) historic present in the Greek; vivid narration. Many of these instances drop out altogether in CV because they appear on the present of λέγω in seemingly unnecessary introductions to direct quotations.
+
+(b) futuristic present in the Greek (John 7:52; Philippians 1:17-18)
+
+(c) aoristic or perfective present in the Greek (Luke 15:29)
+
+wordf	imperatival future
+
+wordsg 	unclear word that is singular; particularly with the word you and with command forms
+
+wordpl	unclear word that is plural
+
+wordmas	masculine reference
+
+wordfem	feminine reference
+
+wordlit 	significantly interpreted expression
+
+“words”	dialog and quotations by the original authors
+
+“words”	words from quoted material that appear in the New Testament author’s comments: very frequently as in Hebrews: 2:5-14; 3:13-4:6; 6:20-7:3, 25; 8:13; 10:10, etc. cp. 1 Peter 5:6.
+
+‘word’	words used in adapted ways, including bending the terminology of one system to label the corresponding feature of an alternative system, instances like
+
+‘Babylon’ (1 Peter 5:13; Revelation 14:8; 16:19; 17:5; 18:2, 10, 21),
+
+‘eunuch’ (Matthew 19:12), ‘Israel’ (Galatians 6:16), ‘wisdom’ (James 3:15),
+
+‘wealth’ (James 5:3), ‘dress’ (1 Timothy 2:10), ‘Father’ (1:16; 8:5),
+
+‘slave’ (6:15, 16, 18, 22; 1 Corinthians 7:22; ‘free’ (Romans 6:20),
+
+‘law’ (Romans 3:273; 1 Corinthians 9:21; Galatians 6:2; 1 Timothy 2:8; James 1:24; 2:12),
+
+‘circumcision’ (Philippians 3:2, 23; Colossians 2:112;
+
+‘dead’ (Ephesians 2:1, 5; 2:5; Colossians 2:13),
+
+‘make alive’ (Ephesians 2:5; Colossians 2:13)
+
+words	translator’s added words for clarification in non-dialog material
+
+words 	Old Testament quotations
+
+words	translator’s addition for highlighting lists and for suggested stress in reading
+
+[words]	translator’s occasional explanatory notation within the text: Matthew 2:23; Revelation 6:15; 9:7, 9, 11; 21:202
+
+[444]ms 	original standard English verses omitted by the UBS 5th rev ed based on manuscript evidence
+
+Matthew 6:13b (conclusion to the Model Prayer);
+
+18:11 (“the Son of Man came to save sinners”);
+
+23:14 (woe for devouring widows houses);
+
+Mark 7:16 (“if anybody has ears, let him hear”);
+
+9:44 or 46 (“where their worm doesn’t die, and the fire is not quenched”);
+
+11:26 (“But if you don’t forgive, your Father in heaven won’t forgive your transgressions”; cp. Matthew 6:15; 18:35);
+
+15:28 (scripture fulfilled, “He was numbered with the
+
+transgressors”);
+
+Luke 9:55b (“You don’t know what mentality you’re supposed to have.”);
+
+17:36 (two in the field; one taken/left);
+
+23:17 (Pilate’s releasing a prisoner at the feast);
+
+John 5:4 (troubling of the waters);
+
+Acts 8:37 (“if you believe, you may,” etc.);
+
+15:34 (Silas stays in Antioch);
+
+24:6b-8a (additional accusations against Paul before Felix);
+
+28:29 (the Jews’ leaving Paul while disputing among themselves;
+
+Romans 16:24 (“The grace of the Lord Jesus Christ be with you all.
+
+Amen.”)
+
+1 John 3:8 (“the three witnesses passage”; re-versified in translations
+
+later than the King James Version).
+
+All the omitted verses (except Romans 16:24 and 1 John 3:8) are in the historical books of the New Testament—about fifteen texts.
+
+[words]ms	parts of verses textual critics question but leave in the text: Matthew 6:4, 6, 13b*; 12:15; 22:35; 27:16, 17, 35b (fulfilled Psalm 22:19), 49b; Mark 3:32; 7:4; 11:26; Luke 11:33; 13:35; 17:3; 22:43-44*; 23:34*; 24:32, 52; John 6:64; 1 Corinthians 11:29; 2 Corinthians 11:3; Ephesians 1:1*; Colossians 3:6; 2 Thessalonians 1:2; 3:6; 1 Timothy 6:13; Hebrews 13:21.
+
+[x]repeat or [ ] CV omits a few standard English verses as repetitive or unnecessary: John 9:23; Ephesians 4:21 (repeat); Matthew 24:25; 2 Corinthians 5:3; 12:3; 1 John 2:13b
+
+x-x	+CV combines some verses: Matthew 7:17-18; Mark 7:8-9; Luke 10:22-23; John 19:19-20; Acts 1:21-22; 10:39-40; Romans 1:3-5, 14-15; 9:1-2, 11-12; 15:22-23; 1 Corinthians 4:12-13; 16:15-16; Galatians 1:11-12; Ephesians 1:22-23; 2:11-12; 14-15; 5:8-9; 6:2-3; Philemon 15-16; Hebrews 7:20-21; 13:20-21; 1 Peter 3:15-16; 1 John 1:8-10; Revelation 1:5-6; 2:22-23. Greek has number-gender-case endings to help tie words together. English has only position for that purpose. To create appropriate connections, sometimes we have lifted elements from farther along in long constructions. so they fit together better for English purposes.
+
+x, z, y	In Revelation 21:24, 26, 25 CV re-sequences verses to clarify the connections; see also John 2:14.
+
+(words)	original authors’ comments parenthesized by Greek text editors or in typical translations
+
+[words]	original authors’ comments inside quoted material; we have bracketed what Greek text editors parenthesized.
+
+[[words]] manuscript material highly questioned by textual critics but retained in the UBS text: Matthew 17:21; 21:44; Mark 16:9-12; Luke 22:43-44 (angels helped him; he sweat drops of blood); 23:34a (“forgive them; they don’t know what they’re doing”); John 7:53-8:11. About a half dozen texts.
+
+LXX	distinctive Septuagint wording: Matthew 15:9; 20:16; Mark 7:7; Acts 8:33; 13:34, 35, 41; Romans 10:21; Hebrews 2:8, 13; 13:21; James 4:6; 1 Peter 4:18; 5:5 as per UBS 5th rev ed
+
+!?	punctuation used exclusively for several deliberative questions
+
+wordlit	significant rewording from the literal original: Matthew 12:8; Mark 2:28; Luke 7:35; 17:21; 24:16, 31
+
++	complete list in these notations
+
+*	major point in these notations
+
+Writing the way American English speakers talk informally does not amount to aiming for a certain “grade level” vocabulary, although the endeavor tends to have that effect.
+
+We have not followed the principle of translating the same Greek word with the same English word each time. That ideal takes second place to letting different contexts nuance Greek terms in ways that English’s closest equivalents cannot match. Similar terms across different languages seldom correspond one-for-one.
+
+Likewise, we have not necessarily been able to translate the same Old Testament citation the same way each time. A prime example occurs with Isaiah 6:9-10, which the New Testament cites five times: +Matthew 13:14-15 = Mark 4:123 = Luke 8:10; John 12:39; Acts 28:27. The quotations vary as references to the “sense” of the original text that the New Testament writer wants to draw on.
+
+The New Testament wording of Old Testament texts is also different from the original Hebrew because New Testament writers usually follow the Septuagint Greek translation (LXX), which introduces some differences from the original standardized Hebrew text. Besides, they tend to word the citations in a way that fits their immediate application of the reference. Their interest may be more in the sense of the text and its implications than in the wording itself. Recitation from memory may have come into play as well.
+
+A broader illustration of the point derives from Isaiah 56:7, “Because my house will be called a house of prayer for all the peoples.”
+
+In Matthew 21:13 CV frames the idea in command form, “Call my house a house for prayer”; for “My house shall be called a house of prayer” (NASB).
+
+Mark 11:17 reads in CV, “Call my house a house of prayer for all the nations”; for the literal “My house will be called a house of prayer for all the nations.”
+
+Luke 19:46 in CV says, “My house will be a house for prayer” for “My house will be a house of prayer” (lit).
+
+Our wording of Isaiah 56:8 (CV) makes the Hebrew into (1) an imperatival future after (2) shifting the passive construction to active (Matthew). Only Mark’s account picks up on (a) the Gentile inclusion (perhaps because his gospel was aimed at a Gentile first readership) and follows (b) the LXX by using (“all the nations [ἔθνεσιν]” < “the peoples” [הָעַמִּים]). Luke shifts “call” to “be” (c) and CV understands the final genitive (d) as purposive beyond sheer description. That range of variants falls within the import of Isaiah’s original wording plus its implications.
+
+Major Elements of Conversational Style in CV
+
+1. Extensive use of pro-verbs, that is, auxiliary verbs without their main verbs: John 16:3 (“So when it happens, remember that I told you it would”); 21:6, 8; Romans 14:1; 1 Corinthians 8:2; 15:16 (“If dead people don’t resurrect, Christ didn’t.”); also Mark 11:24, etc.
+
+2. Extensive use of contractions, especially (a) with subject pronouns plus linking verbs: it’s, we’re, we’ve, you’d, you’ll, I’ll (John 4:14), I’ve, we’ll, they’ll, they’re, let’s, he’s (for “he is,” less frequently for “he has”; cp. Romans 10:16, “who’s” for “who has”); Romans 8:31 (what’s for “what does” occurs once.)
+
+(b) with axillary verbs plus negatives: doesn’t, don’t, won’t, can’t, hasn’t, aren’t, hadn’t, haven’t, isn’t (sparingly; usually substituting pronoun plus auxiliary: he’s not, etc.)
+
+(c) occasionally, a noun plus is: “his work’s not done”: “that God’s unjust” (Romans 3:5); Romans 3:13; “We know that no person’s made good by doing the law” (Galatians 2:16).
+
+3. Simplified syntax, choice of current terms; avoidance of slang, regionalisms, cutesy expressions, words with negative connotations, including lighter words like “puny,” and shocking language (as might be done with Acts 8:20, “To hell with you and your money”?).
+
+Drawing a line between current, everyday usage and some level perceived as ignorant and “uneducated” is somewhat arbitrary and varies from place to place. Vivid narration is a case in point. Even when the Greek text does use present-tense verbs in past-tense contexts, CV has switched the verbs into some kind of past-tense form with superscript p added. A similar thing can happen occasionally with present-tense indicative verbs that have future reference (futuristic presents).
+
+Magazine level on up to technical writing has dispensed with the use of “whom” or “unsplit infinitives”; so does CV. But our manner of wording here does not weaken to stylized expressions like “you and I” after prepositions or transitive verbs—ways of speaking on the street, in mass media sports commentary, or in dormitory bull sessions. Likewise, it is not obvious that Peter lapsed into cussing like a foul-mouthed fisherman in the court of the high priest; we are content to suppose he pronounced curses and took oaths: “taking oaths and swearing” (Mark 14:71); “denied it again with an oath” (Matthew 26:72).
+
+4. The translation observes current American English punctuation and spelling rules. They differ somewhat from British custom, from rules at play in earlier English translations, as well as from the punctuation in edited Greek texts. The Gregg Reference Manual, 11th ed., by William A. Sabin serves generally  as style guide in such matters.
+
+5. Modern style prefers restrained expression.
+
+That has led to getting rid of some very’s (elative superlatives) and to weakening some superlative adjectives and adverbs.
+
+Reducing the degree of intensive expression has also led to dropping the “verily’s” in the synoptic gospels as well as the “double verily’s” in John. We have reduced the perceived overuse of vocatives, leaving them out altogether when the addressee is obvious from context: John 4:15; Acts 15:13; 22:6; 2 Thessalonians 3:13. Two double vocative remain:  “Saul, Saul” (Acts 9:4; 22:7; 26:14) and “Jerusalem, Jerusalem” (Matthew 23:37; Luke 13:34). That changes “Lord, Lord” (Matthew 7:21, 22; Luke 6:46), “Martha, Martha” (Luke 10:41), “Simon, Simon” (Luke 22:31), or Rabbi, Rabbi” (Matthew 23:7ms). English usage does not usually employ geminated vocatives except perhaps in certain urgent circumstances: “John! John! don’t harm yourself!”
+
+Included under restrained expression is a Hebrew idiom for intensified action: infinitive absolute plus cognate finite verb. New Testament writers make this expression into a Greek solecism by a couple unusual constructions: a finite verb + a cognate dative noun (Matthew 13:14; Mark 7:10; Acts 28:26-27 < Isaiah 6:9-10) or a finite verb + cognate participle (Matthew 13:14, right beside the other Greek solecism; Mark 4:12; Luke 8:10 < Isaiah 6:9). Older English translations created some artificial English constructions for rendering it: “With desire I have desired to eat this Passover with you before I suffer” (Luke 22:15, ASV). We have used conceptual equivalency rather than grammatical equivalency, “I have really wanted to eat this Passover with you before I suffer.” The idiom appears in Acts 2:30 (“swear with an oath”); 5:4, 28; 23:14; as well as in Hebrews 6:142 (Greek finite verb + participles) < Genesis 22:14).
+
+5. After much soul-searching, the CV has replaced “Christ” in the gospels and Acts with “Messiah” as a translation of χριστός, the Greek equivalent of the Hebrew מָשִׁיחַ, “anointed one.” The idea was to foster a closer connection between the New Testament term and the Old Testament terminology. That may help make it clear that Jesus was the fulfillment of the Messianic hope. In the epistles, Christ takes on the character of a name, especially in combinations like Jesus Christ and Christ Jesus. Messiah in such cases takes on the feel of a name besides running counter to the long-established wording people have become accustomed to seeing.
+
+Attempting to express the biblical text in conversational style sometimes gets at cross purposes with preferences in written expression. The frequent use of the expletives it (is/was) and there (is/are/were) in everyday speaking is a case in point. Written form aims to eliminate them—along with linking-verb constructions—in favor of action-verb expressions. When such a conflict arises, CV has usually chosen the written preferences since the medium here is writing.
+
+Ambiguities in the Greek Text
+
+1. Capitalization is a judgment call in edited Greek texts, because the earliest New Testament manuscripts had only capital letters. Distinguishing higher and lower case presents a few issues.
+
+a. Spirit/spirit has some importance because it involves distinguishing the Holy Spirit from the other seven or so usages of πνεῦμα in the New Testament. (See spirit below.)
+
+b. A few places raise the question whether a word or expression is a description or a name: Acts 14:13 might be “the priest of Zeus/Jupiter Propolis” or “the priest of Zeus/Jupiter the one being in-front-of the city,” ὁ ἱερεὺς τοῦ Διὸς τοῦ ὄντος πρὸ τῆς πόλεως. Philippians 4:3 could be “I ask you, true yokefellow, help these women” or “I ask you, Syzygos/Σύζυγος, help these women.” 2 John 1 carries the word κυρία. Is it “elect lady” (referencing the church addressed) or “elect Curia.” Revelation 17:5 has “mystery/Mystery” written on the head of the great harlot. Cp. “The Power of God Called Great” in Acts 8:10.
+
+c. Lord (κύριος) covers God’s personal name Yahveh, a person of superior rank (“lord”), and sir as a general term of respect (“lord”). New Testament writers never use God’s personal name. They do not challenge the Jews’ post-exilic sensitivities that went beyond making it respectful to considering it ineffable. Κύριος (Lord) in the Septuagint (a pre-Christian Greek translation of the Old Testament) replaces the Tetragrammaton (יהוה). New Testament quotations and paraphrases of Old Testament passages come from the Septuagint, instead of being direct translations of the Hebrew. In sum, the overlapping usages cluster as follows in our pattern:
+
+Lord capitalized refers to deity—both for Father and Son.
+
+Lower case lord applies to persons of honored rank—as an honorific.
+
+Sir expresses respect aside from rank.
+
+Master addresses a slave owner of superior rank, often translating δεσπότης.
+
+d. Son as a reference to Jesus the Messiah is capitalized throughout as a reference to deity: “You are my Son” (Hebrews 1:5 < Psalm 2:7).
+
+2. Editors supply textual divisions: paragraphing, chapters, and verses. As with every translation, we have inserted breaks that make sense to us, most of them following the Greek or current English-text layouts.
+
+3. The original Greek uncial manuscripts of the New Testament lacked punctuation, spacing between words, accents, and breathing marks. Those entries in modern Greek New Testaments come from the editors’ choices.
+
+a. The Greek punctuation patterns in the edited New Testament text do not parallel English usage entirely. Greek has several interrogative words, that is, they appear in questions so that punctuation is in addition to indicating the interrogative value of the sentence. In a great number of cases, the text editors of the Greek New Testament text have decided whether a clause is a statement or a question. A significant number of passages could have been punctuated either way: Matthew 7:11; 8:7; 16:3; 17:11; 23:37; 25:26; 26:45b, 55, 64; 27:11, 42; Mark 1:24; 9:11, 28; 14:41, 48, 64; 15:2; Luke 4:34; 7:28; 11:13; 13:34; 19:22; 22:52, 70; 23:3; John 4:48; 6:70; 8:25; 12:19; 16:19, 31; 18:37; 20:29; Acts 23:9; 26:28; Romans 2:27; 8:33, 34; 11:12, 24; 13:3b; 1 Corinthians 6:12, 13, 19; 11:22; 12:15, 16; 15:32; 2 Corinthians 10:7; 12:19; Hebrews 9:14, 17; 10:29; 12:7; James 2:1, 18, 19, 22; 5:6. Footnotes in Greek editions alert readers to those possibilities.
+
+b. Greek punctuation in the edited texts does not distinguish restrictive and non-restrictive clauses. Note the difference between these two punctuations: “Young people need to pay attention to adults, who know what young people are up against”; vs. “young people need to pay attention to adults who know what young people are up against.” The first sentence suggests that adults—at least as a rule—know what young people are up against. The second sentence directs young people to pay attention to the adults that do know what young people are up against; of course, some do not.
+
+c. Written Greek lacks exclamation marks; CV has added quite a number: Mathew 7:14; John 20:16, 18, 28; 21:7, etc., altogether about 273. Some texts could be commands or exclamations: 1 Corinthians 6:4; Revelation 2:7, 11, 17, 29; 3:6, 13, 22; or a statement or exclamation: 1 Corinthians 6:5-6; 2 Corinthians 10:7; Galatians 3:1; 1 Thessalonians 3:9.
+
+d. Should it be a question, statement, or exclamation in John 7:28; Acts 26:28; 1 Corinthians 1:13?
+
+e. Quotation marks do not appear in the Greek text; so it is unclear in some cases whether the wording is direct or indirect discourse: Matthew 2:4, 23; Mark 11:3; Luke 19:31; 1 Corinthians 6:12, 13, 18; 7:12; 8:12, 4, 6, 8; 14:25; 1 John 1:6, 8; 2:10, 12, 13, 14. Where does the quotation begin in Acts 1:20?
+
+Other cues in the context almost always show where a quotation starts, but where a quotation ends may not be obvious: Matthew 21:3; 28:7; Luke 7:28; John 1:15 or 16 or 18?; 3:13 or 15 or 16 or 21?; 3:30 or 36?; Acts 1:17?; 8:26 a or b?; 2 Corinthians 2:14 or 21?; Galatians 2:14 or 21?; Colossians 2:21 or 22?; 1 Timothy 4:8a or b or 10?; James 2:18 or 19 or 23?.
+
+As per standard English practice, quotations within quotations (“embedded quotations”) have single quotes; quotations within embedded quotations are double quotes again, and switching back and forth as progressively deeper embedding occurs: “ ‘ “ ‘ . . .          ’ ” ’ ”.
+
+Double quotation marks on words near an Old Testament quotation draw attention to words the New Testament author incorporates into his comments on the quotation. In Ephesians 4:8, e.g., Paul quotes Psalm 68:18 and then lifts the expressions “he ascended” and “gave” out of the Psalm as he comments on its connection with his point. The practice is quite widespread in the New Testament, especially in Hebrews, where the writer makes every major point from an Old Testament text.
+
+Double quotes also mark words adapted to functional equivalents, suggestive parallels, or correlative aspects of two pictorial sets: “immerse” you in the Holy Spirit (Mark 1:82; Luke 3:16; John 1:26, 31, 332; Acts 1:5; 11:162); “law” of Christ (Galatians 6:2; James 1:25); “circumcision” (Colossians 2:11), “dead,” and “made you alive” in Colossians 2:11-13; “father” (Romans 4:16); “wisdom” (James 3:15).
+
+f. The placement of a comma can alter the sense of a passage: John 1:3-4, “Without him not even one thing came to be that came to be. 4In him was life.” or “Without him not even one thing came to be. What came to be 4in him was life” [Westcott & Hort NT text]. CV ends up, however, rewording the flow of thought: “nothing came into existence without him.” A similar uncertainty appears in Ephesians 1:4; should “in love” connect with the next verse or does it modify some previous entry like “holy and blameless” or perhaps “chose” (that is, “lovingly chose”)? Such possibilities arise elsewhere as per Paul’s habit of attaching a short prepositional phrase after an otherwise full statement.
+
+g. We have supplied underlining in some places to give clarity, show emphasis, or mark contrast.
+
+Some of our underlining comes from indications in the Greek text itself; those include passages that show (1) nominative-case pronouns. Since Greek verbs have person-and-number endings, a subject pronoun is unnecessary. When the Greek text does use a nominative-case pronoun, the usual inference is that it shows emphasis or marks contrast. In many of those cases that call for emphasis, we have underlined the English pronoun subject. English almost always states the pronoun subject; so we add underlining to indicate the emphasis. Spoken English does the emphasizing by raising pitch and volume slightly and perhaps adding a short pause afterwards. Such cases include Romans 11:22, 23, 24; 1 Corinthians 5:9 + 11; 6:8; 9:25; 2 Corinthians 4:13; 13:7; Galatians 1:8; 6:1; 1 Thessalonians 5:4; 2 Timothy 3:10; Hebrews 12:25; James 2:18. John’s gospel uses subject pronouns so often that emphasis does not seem to have been his intention.
+
+Many other texts with Greek subject pronouns do not have English underlining because the subject pronoun marks contrast more than emphasis; English does not necessarily stress the pronoun in such cases: “the dead will resurrect incorruptible, and we’ll be changed” (1 Corinthians 15:52). “We” and “the dead” do not so much indicate contrast as equal entries in a list of alternatives. In sum, if the underlining is a subject pronoun, it is because the Greek states a pronoun subject in an apparently emphatic entry; other underlined words represent the translator’s choice to clarify written communication in comparison to oral presentation.
+
+Aside from pronoun subjects, (2) underlining draws attention to lists or
+
+(3) aids in proper reading for clarity. In Luke 15:29-30, underlining draws attention to the prodigal’s “grain-fed calf” vs. the older brother’s “kid.” Underlining for clarity draws attention to a list spread across a context: “donate, pray, fast” (Matthew 6:2-10); “people passing by, chief priests, rebels” (Matthew 27:39-44); “good shepherd/owner, hireling, wolf” (John 9:10-16).
+
+(4) Underlining for emphasis (aside from pronoun subjects) corrects a possible misreading of the text: “Nobody can come to me unless the Father that sent me is drawing him” rather than “Nobody can come to me unless the Father that sent me draws him” (John 6:44). The contrast is with other people’s interests drawing him (Jewish national independence vs. Jesus’ spiritual kingdom—John 18:36). Other places where our translation has supplied emphasis include Romans 2:23; 3:20-23; 4:11-16; 5:3-4, 7, 17, 20; 7:18; 8:17; 9:32-33; 10:5; 14:14; 1 Corinthians 2:10; 4:8; 14:15; 15:13; Philippians 2:27; 3:4; 1 Thessalonians 4:10-12; Hebrews 9:13-14; 1 John 2:24.
+
+h. Italics identify added words not in the original.
+
+(a) That happens when Greek uses the article rather than the possessive modifier (αὐτοῦ/his, ἐμοῦ/my, σοῦ/your, etc.).
+
+(b) It happens when Greek uses elliptical expressions without repeating some of the words common to both parts: repeated verbs, direct objects, indirect objects, prepositional phrases in the next segment; Acts 10:23, “having called them in, he lodged them”; 1 Corinthians 11:9, “Man was not created on account of woman, but woman was created on account of man.” In such circumstances, English often wants to restate those words.
+
+(c) Greek may omit forms of the verb to be even when not in repeat segments if they are timeless/equative/linking/copulative usages (1 Corinthians 8:6, “To us there is one God”) rather than time words (“He is in the inner rooms” [Matthew 24:26]); 1 Corinthians 15:39, “Not all flesh is the same kind of flesh.” (unitalicized here in italicized quotation)
+
+(d) Italics go into the text when CV adds in phrases to clarify its meaning in the way the translator understands it. Romans 3:31 says, “So are we contradicting law by advocating trust? Goodness, no! Instead, we’re establishing the purpose of law another way. Romans 12:7 reads, “If it’s service, let’s carry out our commitment to him in our service.” Such additions can shape the meaning significantly. That is the reason for showing by italics what has been added beyond the author’s own words.
+
+(e) Italics also mark all direct quotations from speakers in the text, from the Old Testament, or other sources. (Unitalicized words within italicized quotes identify added words within direct quotations.)
+
+i. Bold type—along with italics—indicates Old Testament quotations—accompanied at the end by small bold-letter scripture references in brackets.
+
+j. Parentheses within the text provide the original author’s explanatory comments identified by editors of the Greek text: Matthew 21:26; 27:18, 33, 52-53; Mark 5:8; 7:3-4; 5:10; Luke 23:19; 24:10; John 2:21-22; 3:24; 4:2, 8; 6:1, 6, 71; 7:5, 39, [[8:6]], 8:22, 27-28; 9:22; 11:6; 12:16, 33; 13:11; 14:22; 18:9, 32, 40; 19:17, 31, 35; 21:7, 19; Acts 1:15; 5:1; 9:36; 12:3; 13:8; 17:18, 21; 25:3; Romans 3:5, 8, 19, 22; 1 Corinthians 1:16; 7:11, 21; 14:20; 15:6; 2 Corinthians 5:7; 6:13; 9:4; 13:13; Galatians 2:6; Ephesians 2:5; 5:9; 6:3; Philippians 1:23, 24; Colossians 4:10; 1 Thessalonians 4:5; 1 Timothy 3:5; Philemon 19; Hebrews 6:18; 7:11; 11:4; 13:2, 17; 1 Peter 5:2; Revelation 2:9; 9:16; 14:18; 20:5 (about 80 instances).
+
+k. Brackets within quoted material are the original author’s explanatory comments. In a few cases, we have added our own italicized brackets of explanations within the text: Matthew 2:23; Luke 9:7; John 10:22; Acts 27:9; Galatians 2:12; Revelation 6:15; 9:7, 9, 11; 16:16; 19:18; 21:202. [ x x ]ms indicates textually questionable wording.
+
+l. Word division does not create a problem in the New Testament except in 1 Corinthians 15:32, where Paul invokes the Aramaic expression Μαρανα θα [מרנא תא], “Lord, come!” The less likely division could be Μαραν αθα [מרנ אתא], “Our Lord has come!”
+
+Ambiguities in the Greek Language Itself
+
+*1. Avoiding participle constructions, particularly introductory and mid-sentence participial phrases. Introductory adverbial clauses can replace them in English: Mark 1:16, e.g. Sometimes the two expressions can become two independent clauses. Greek loves participles; so changing them to finite verbs and other substitutes happens quite often in CV.
+
+Replacing participles goes hand in hand with avoiding the hypotactic syntax created by participles—creating verbal elements that have a different grammatical level from the main clause. Hypotactic arrangement calls for attaching dependent clauses and verbal phrases onto independent clauses (ones that make complete sense standing alone). It does so by participles, subordinate conjunctions plus clauses, gerund phrases, infinitive phrases, adverbial clauses, and relative clauses. In many such cases, English prefers to reduce the number of paratactic constructions, that is, segments of equal grammatical levels (unless adverbial, relative, purposes, or nominal clauses create the subordination). Making the switch from hypotactic to paratactic syntax in conversational translation has been a formidable task! Note also #41 below.
+
+The abundant use of participles in the Greek text creates a recurrent source of ambiguity. Participles can “cover for” all aspects and concepts associated with verbs: time, means, manner, cause, condition, concession, attendant circumstance, purpose, result—even command (rarely). Readers must judge from the topic and context which possibilities apply—if any one of them specially applies; translators face that same task. Their renderings are judgment calls that give a more specific meaning than the Greek text itself expresses.
+
+The most accurate way to translate a Greek participle is to use an English participle. Participles by their nature—in any language—have the range of possibilities listed in our previous paragraph. Using a participle in the receptor language keeps ambiguity at the same level as in the original language. Getting rid of participles to satisfy English custom of usage forces a choice, and that presses translation somewhat into interpretation. Thankfully, nothing significant is hardly ever at stake. If that were not so, the New Testament writers themselves would have created uncertainty for their own readers by the prolific use of participles.
+
+*2. The second main source of ambiguity in New Testament Greek comes from the abundant use of the genitive-case nouns tied to other nouns. The writers’ Hebrew-speaking background probably fostered adopting such wording more frequently. Hebrew syntax habitually puts nouns in “construct” relationship with other nouns to show that they are connected. Hearers—by their own perception based on experience—supply how they are connected. Of expressions in English replicate pretty much that same range of ambiguity, but in many instances, they are not satisfying to the English ear. The most frequent use of the Greek genitive case is for tying one noun to another grammatically. That does not indicate how the referents of the two nouns are connected really or conceptually. Eliminating “of constructions” means choosing between appositive genitive, descriptive genitive, genitive of cause, genitive of material, genitive of source; genitive of value, objective genitive vs. subjective genitive, (partitive genitive), possessive genitive, and some relationships that are difficult to classify because they have merely topical connection.
+
+Not every possible genitive value can apply to every usage, but the choice between just two can be challenging. Romans 8:35 affords an example of the dilemma between subjective and objective genitive. The issue comes up when a genitive noun for a person follows a noun for an action: “What will separate us from the love of Christ?” Does Paul mean the love Christ has for us (Christ’s love) or the love we have for Christ (our loving Christ)? By going ahead to 8:37, we get an answer: “the one who loved us.” So “love of Christ” means “Christ’s love for us” (subjective genitive); hence, the sufferings Paul lists do not indicate that Christ does not love us. Romans 11:15 is another instance of needing to decide between objective and subjective genitive. The πϊστις χριστοῦ (“faith of Christ”) expression affords another famous example: Romans 3:22, 26; Galatians 2:162, 20; 3:22; Philippians 3:9, and Ephesians 3:12. Is it “faithfulness of Christ” or “(our) trust in Christ”?
+
+In some cases, replacing of pushes a translator into circumlocution, and that can break up the flow of thought.
+
+Partitive genitives after verbs indicate that the action affects “part of” the subsequent noun instead the whole direct object. English speakers automatically understand that nobody drinks “(all) the milk from the flock” (1 Corinthians 9:7) as surely as Adam and Eve did were not to eat all the fruit of the tree of knowledge (eat of is the Hebraism here for source or part; Genesis 2:16-17).
+
+Descriptive genitive is the most foreign to English idiom: “sons of disobedience” becomes “disobedient people” (Colossians 3:6); “the bodies of our humiliation” means “our humble bodies” (Philippians 3:21), “by the word of the power of him” becomes “his powerful word” (Hebrews 1:3). We have opted in Ephesians 4:3 to say “spiritual unity” rather than “unity of the s/Spirit.” The passage raises two issues at once: capitalization of Spirit/spirit and the force of the “of expression” (genitive case). Is it a spiritual unity (vs. a physical one), or is it a unity overseen/caused in some way by the Holy Spirit?
+
+A similar import—descriptive genitive—is conveyed by bringing “sons of” into the wording: “You are sons of the ones that murdered the prophets” (Matthew 23:31). The phraseology evidently does not mean “You are descendants of the murderers,” but “you’re like the ones that murdered the prophets.” (Otherwise, Jesus’ argument would seem questionable.) In all these cases, the second noun refers to a characteristic that English of ties to the first noun; English prefers to put that characteristic in an adjective form that modifies that first noun. As said before, the probable reason descriptive genitives appear more often in the New Testament is that the writers were Jewish. Hebrew had few adjectives and made up for it by using a two-noun construction comprised of a “construct noun” tied to a subsequent absolute noun. That arrangement got reproduced in Greek by a noun plus genitive noun, and that in turn comes into English literally in a “____ of ____” format.
+
+We have tried to get rid of “genitive strings” (catenations): “to the praise of the glory of the grace of him” (Ephesians 1:6); “the light of the gospel of the glory of Jesus Christ” (2 Corinthians 4:4); “the light of the knowledge of the glory of God” (2 Corinthians 4:6). “The riches of the glory of this mystery” becomes “the value of this glorious mystery” (Colossians 1:27).
+
+3. The second person plural always has the same form in the Greek indicative and imperative moods in the present tense. In places, more than one translation fits: “Are you sleeping?” or “Sleep on!” (Mark 14:41, in Gethsemane); Matthew 26:25; John 14:11; 1 Peter 1:6 (“rejoice” or “you rejoice”).
+
+4. In several cases, ὅτι (that) could introduce indirect discourse or an adverbial clause (because): Matthew 8:16; 12:32; 23:31; Luke 16:8; 19:34; John 4:27; 14:2, 28; 20:13; Acts 6:1; 24:11; Philippians 2:16; Hebrews 12:7; 1 John 2:14; Revelation 21:5.
+
+5. The genitive singular masculine and neuter of second declension is the same form (ου). That creates something of an uncertainty in whether a pronoun like αὐτοῦ means “of it” (for instance “of [the paschal lamb]”) or “of him” (the functional equivalent person of the paschal lamb (John 19:36).
+
+The problem comes up familiarly in the model prayer: from evil or from the evil one (Matthew 6:13). Other instances are Matthew 5:37; 13:19; 38; Luke 11:4ms; John 17:15; Ephesians 6:16; 2 Thessalonians 3:3; 1 John 2:13-14; 3:12; 5:18, 19. Invoking the principle of interpreting the unclear in light of the clear, CV has used 2 John 2:13 as the clear case and then applied that understanding to some of the other cases. The first usage (from evil) appears in Luke 6:45; Acts 28:21; Romans 12:9; 1 Thessalonians 5:22.
+
+Did Jesus tell the disciples to drink of the cup or of the wine at the Last Supper (Matthew 26:27 = Mark 14:23)?
+
+6. The indefinite pronoun τις/τι or interrogative pronoun τίς/τί can mean what or who even in the masculine-feminine form τίς. Romans 8:35 asks, τίς ἡμᾶς χωρίσει ἀπὸ τῆς ἀγάπης τοῦ Χριστός; “What/who will separate us from the love of Christ?” The problem comes from the fact that Greek has grammatical gender; English has only sex reference. In Greek, nouns for male and female sex references are (almost) always masculine and feminine grammatical gender. But neuter does not match asexual things; neuter things (sexually speaking) can be masculine feminine, or neuter (grammatically speaking). In this passage, the choice needs to be “what” because the apostle accompanies his question with another question that lists (asexual) difficulties: θλίψις ἢ στενοχωρία ἢ διωγμὸς ἢ λιμὸς ἢ γυμνότης ἢ κίνδυνος ἢ μάχαιρα (“Will tribulation or distress or persecution or famine or nakedness or danger or sword separate us from his loving us?”) All the words in that list are grammatically masculine or feminine; so the reference in τίς (grammatically mas or fem) is to these grammatically m/f items in the context, not to people, who are not part of the discussion. In English those list items are neuter and so call for what, not who, despite the masculine/feminine form of the Greek pronoun at the start of the verse.
+
+7. Definite vs. indefinite nouns in Hebrew construct form bring up an ambiguity. When that construction comes into Greek by quotation or thought pattern, the problem comes with it. A Hebrew noun in construct tied to a subsequent noun cannot carry the Hebrew definite article. So, in the case of מלאך‾יהוה the translation could be an angel of the Lord or the angel of the Lord. The typical translation in, say, Genesis 22:11 says the angel of the Lord, as if there is one angel involved in this kind of activity or that has rank above others. English translations of Genesis 22:11 usually say the angel of the Lord. The LXX (Septuagint Greek translation of the Old Testament) says, ἄγγελος κυρίου, which would normally become an angel of the Lord in English. The Jewish translators of the LXX evidently had some reason for making angel anarthrous here. The LXX here does not follow the rule that if the second noun is definite the construct noun is definite as well—or at least as definite as the phrase head. Perhaps those translators conceived of the full expression as a title. At any rate, we are left with an English conundrum: what to do with the parallel cases in the New Testament. The English article on the Hebrew noun in construct appears if the second Hebrew noun is definite, a situation that could include God’s personal name as something definite. But this Genesis text does not evidence that take on the construction.
+
+We opted to use an angel of the Lord for ἄγγελος κυρίου and change the expression to the angel when articular. The angel could be Gabriel in all the references associated with Messiah’s birth as he was in the Annunciation to Mary (Luke 1:26). In the angelic appearance to the shepherds, Luke’s account begins in 2:9 with an angel and switches to the angel in 9, 10, 13. The pattern reflects the use of the Greek article on nouns that reappear after being used without the article the first time (anaphoric nouns). English follows the same practice.
+
+Ambiguities in English Relative to Greek
+
+Greek has some precision that requires special handling to reproduce in English. Greek has personal endings on its finite verbs; so subject pronouns are not needed. But Greek does have nominative-case pronouns. If they do appear with the finite verbs, they imply emphasis—that is, contrast usually. That nuance in spoken English is covered by a special pitch pattern with perhaps a pause following. In written form, underlining can cover it, as in Matthew 28:5: “You don’t need to be afraid” in contrast to the guards at Jesus’ tomb, who were terrified (?) Underlined subject pronouns often represent the presence of subject pronouns in the original text.
+
+The verb endings and pronouns for second person are different for singular and plural in Greek whereas English uses you/your for both numbers. A superscript sg or pl appears in the English CV wording to clarify the reference if the context is ambiguous.
+
+Occasionally, mas or fem appears after an English word to show that the Greek has a masculine or feminine reference: 1 Timothy 5:16, “If a believerfem has widows . . .”
+
+Changes from Greek/Hebrew to English Custom of Usage
+
+English shares many features with Greek and Hebrew, especially “standard English,” which exhibits a more “trained usage.” Standard English adheres to traditional “rules” of grammar, with a healthy amount of participle constructions, gerunds, upper-case pronouns, long compound and complex sentences. (a) The differences in going from Greek to English combine with additional differences going (b) from earlier English to current usage and then (c) from current “standard English” to current conversational style (part III). The entries below look at shifts from Greek to English. Subsequent entries address current and conversational matters.
+
+*1. Nuanced Greek verbs. More frequently than other versions, CV has nuanced Greek present and imperfect verbs with wording for conative, ingressive/inceptive, and progressive action. It has even used a few progressive futures: Luke 17:35; John 8:12; 16:23; Hebrews 8:11.
+
+Using the imperfect progressive action seems to make better sense in Luke 4:41, for example: “He wouldn’t let demons keep talking when they declared he was God’s Son.” They had already actually said he was God’s Son; so the verse does not seem to mean he kept them from saying it at all.
+
+In the other direction, we have significantly reduced Greek’s (and Hebrew’s) “obsession” with indicating the beginning of an action (ingressive action)—“began to, arise and __”: Matthew 26:22; Mark 15:18; Luke 13:25; John 14:31; Acts 1:1, etc. Classical Greek more often covered inceptive/ingressive action with the aorist tense; but in the process of creating this translation, we have come think that aspect in Hellenistic New Testament Greek comes quite often with the imperfect tense—as in Latin. What seem to be aorist and imperfect ingressives both appear in Matthew 2:9, “They started traveling, and the star they saw/had-seen when they were in the East started going ahead of them till it stood above where the child was.”
+
+Comparatively speaking, the New Testament highlights ingressive action more frequently than English does. Acts 1:1 is a rather familiar example, where Luke adds ἄρχω (“begin”) to the verbs. Commentaries frequently indicate that the “began to do and to teach” adds little to the meaning. Well, it adds little to the meaning from the standpoint of English idiom, but it is not a pointless word. English custom of usage is just not as inclined to call attention to the inception of an act. Note similarly Luke 23:30, “They will begin to say to the mountains . . .” instead of “they will say to the mountains.”
+
+The conative value of the Greek present tense appears in our wording of Paul’s comments in 1 Corinthians 7:32-34 about differing concerns of married and unmarried men and women. CV uses “feel a need” to be pleasing to spouses.
+
+Behind these comments about verbal nuances lies the fact that English has an even more replete verb system than New Testament Greek did, especially for expressing verbal aspects. The same present-tense verb form in Greek could translate as “they stone,” “they are stoning,” “they are trying to stone,” “they keep stoning,” “they do stone (people there, emphatic).” (There is also the historic present that we have avoided—a present-tense form referring to a past action.) Note as well the futuristic present (1 Corinthians 15:32, etc.). The same imperfect-tense form could translate as “they were stoning (simple linear),” “they were too stoning (him; emphatic linear),” “they tried to stone (conative),” “they kept stoning,” “they started stoning (ingressive),” “they would stone (people whenever execution was in order),” “they used to stone (people in ancient Israel—but probably do so no longer).” It could also translate into English as “they stoned” (simple past) if context already makes clear the “linear character” of the author’s interest in the action.
+
+*2. Negating the verb rather than the direct object: “I have no silver or gold” (Acts 3:6) becomes “I don’t have any silver or gold.” “They don’t have any wine” replaces “They have no wine” (John 2:2); cp. John 7:26.
+
+3. Negatives preceding what they negate: “Forbid him not” becomes “Don’t forbid him” (Mark 9:39). English translations from the 1940’s on have discarded the older sequence.
+
+4. Relative negative. We have sometimes translated as relative negatives what in form of expression are direct opposites. Readers can tell from the kind of action that the two elements are not exclusive opposites, but are different degrees of the same thing or function together rather than separately.
+
+(1) and not translated not so much
+
+Matthew 9:13: “I didn’t come to call righteous, but sinners” becomes
+
+“I didn’t come so much to call good people, as to call
+
+sinners”; cp. Mark 2:17; Luke 5:32
+
+Matthew 9:13 & 12:7 < Hosea 6:6
+
+“I want mercy and not sacrifice” becomes
+
+“I want mercy more than sacrifice.”
+
+John 6:26: “not because you saw signs, but because you ate the loaves”
+
+becomes
+
+“not so much because you saw signs, but because you ate bread”
+
+John 12:30: “That voice didn’t come for my sake but for yours” becomes
+
+“That voice didn’t come for my sake so much as for yours.”
+
+(1 Corinthians 10:24): “Don’t look after your own welfare as much as
+
+other people’s welfare.”
+
+1 Corinthians 14:222: “So other languages serve as signs for unbelievers,
+
+more than believers; prophecy is for believers, more than
+
+unbelievers.”
+
+1 Corinthians 15:10: “Not I, but God’s grace in me” becomes
+
+“not so much I, but God’s grace in me”
+
+2 Corinthians 5:7: “We walk by faith, not by sight” becomes
+
+“We operate by faith more than by sight.”
+
+Philippians 2:4: “4Don’t just look at your own interests, but at the
+
+interests of other people too.”
+
+1 Timothy 1:9: “[The law is] not there so much for good people, as for
+
+lawless, disorderly . . . ”
+
+1 John 4:10: “not that we loved God, but that he loved us” becomes
+
+“not so much that we’ve loved God as he’s loved us.”
+
+(2) verb opposites
+
+Romans 9:3: “I loved Jacob and hated Esau” becomes
+
+“I loved Jacob more than Esau.”
+
+Note also 1 Corinthians 14:22; 15:10; 1 Timothy 3:9; James 2:24.
+
+5. Eliminating pendens constructions: “Those parts of the body that we think are less honorable—on them we bestow more abundant honor” (1 Corinthians 12:23). Getting rid of the pendens makes the sentence, “Parts we consider less honorable we give more attention to.” 1 Corinthians 16:3, “Whoever you approve—through letters I will send them to deliver your gift to Jerusalem.” Cp. Matthew 5:19; Mark 6:16; John 3:26; 6:39; 7:20; 1 Corinthians 16:3; Galatians 3:7; Revelation 2:24; 17:16. Sometimes pendens constructions are hard to eliminate: note 1 John 1:1-3. CV retains a double-subject pendens in Romans 2:22: “You that detest idols, do you rob temples?”
+
+6. Gerunds preferred over infinitives in noun slots. Infinitives in such places carry a quaint feel in English. Greek infinitives in noun slots come into English best as gerunds: “They kept the matter to themselves and wondered what ‘arising from the dead’ meant” vs. “wondered what ‘to rise from the dead meant’” (Mark 9:10).
+
+7. Eliminating historical presents in the historical books: especially frequent in Mark’s gospel: 1:12, 21; 8:6, 17, 22; 9:2, etc.
+
+8. Eliminating futuristic presents: 1 Corinthians 15:32, “We’re going to die tomorrow.” In place of “Tomorrow we die [ἀποθνῄσκομεν].” “I’ll come to you when I pass through Macedonia,” for “I pass through Macedonia” (1 Corinthians 16:5). Note also Matthew 26:18; Mark 4:38; 14:41; Luke 13:32; John 12:34, 48.
+
+9. Eliminating imperatival futures. The construction is something of a Hebraism that increased in New Testament Greek usage via influence from the Septuagint. Everyday English rarely says, “You shall not pass.” If it does, it carries strong emphasis—as in the example. “You will stay home this evening, Johnny” gets restated with the future command form “going to __”: “You’re going to stay home this evening.” Cp. Matthew 23:24. We rendered as command forms what are apparently imperatival futures.
+
+10. Linking verbs. Action verbs replace linking verbs whenever possible. Sometimes we have “covered them up” inside of contractions with the subject.
+
+11. Timeless aorist (gnomic/omnitemporal). We rendered as normal English presents (or perfects) what seem like timeless aorists in the Greek: Matthew 3:17; 11:19; 13:44?, 46?, 48?, 17:5; 18:23; 23:2; Mark 1:11; Luke 3:22; 7:35; 11:52?, 12:3?; John 15:6, 8?; 17:253; Romans 3:23 (have sinned); 8:24 (have been saved); Galatians 5:24 (have crucified); James 1:11; 1 Peter 1:24; 1 John 4:8.
+
+*12. Active transforms. Passive-verb sentences can change into active ones whenever the actor in the verb is known: John 1:2, 10; 1 Corinthians 15:54, and many other texts. CV has changed passive to active in Galatians 5:11 even though the agent is not specified in the wording.
+
+13. Reduced number of vocatives. Sometimes they move to the front of the sentence: 1 Corinthians 4:6, 10; 15:1. In other cases they fall out when they seem unnecessarily frequent: Matthew 14:28, 29; 18:21; 25:22, 37, 44; 26:22; Acts 7:25. See below under Lord, Master, brother, and the aging word beloved, which appears often in the vocative: Romans 7:4; 1 Corinthians 10:14; 15:58; 2 Corinthians 7:1; 12:19; Philippians 2:12; Philemon 1; Hebrews 6:9; James 1:16, 19; 2:5; 1 Peter 2:11; 4:12; 2 Peter 3:1, 15; 1 John 3:2, 21; 4:7, 11; 2 John 5, 11; Jude 20.
+
+14. Measurements of time, volume, and distance. These come into English in modern units because they stay the same over time. CV leaves monetary values in the original Jewish, Greek, and Roman coinage because inflation keeps adjusting the equivalency.
+
+15. Word order. CV has changed some word orders to fit English custom: “earth and sky” rather than “heaven and earth” (Revelation 21:1); “day and night” vs. “night and day” (2 Timothy 1:3); “you and I” vs. the text’s sequence (Luke 8:17; Acts 15:9; 1 Corinthians 4:6, 10, 12-15; 9:6; 2 Corinthians 1:19); “feet and hands” becomes “hands and feet” (Acts 21:11); “fall and rise” becomes “rise and fall” (Luke 2:34).
+
+More broadly speaking, CV has re-sequenced entries to match English custom. The New Testament tends to start with the main or most important and work down or add in the lesser. A prime example is in the Parable of the Sower: “hundred, sixty, thirtyfold” changes to “thirty, sixty, a hundredfold” (Matthew 13:23). English custom favors working up to the highest instead of working down from it. Note also the following:
+
+Matthew 6:29 (toil and spin reversed); 23:27; Mark 12:8; John 20:27; 1 Timothy 4:11; Revelation 5:6; 21:5; 22:12.
+
+Matthew 7:13: “broad road and wide gate” instead of “wide gate and broad road”; travelers use the road before they enter a gate.
+
+Matthew 18:17: “dead men’s bones and filth” becomes “filth and dead men’s bones”; that sequence puts the bigger word group second.
+
+Mark 6:40: “sit in hundreds and fifties” changes to “fifties and hundreds.”
+
+Luke 6:1: “his disciples were picking off heads, rubbing them in their hands, and eating the seeds” changed from “his disciples were picking off heads, eating the seeds, rubbing them with their hands.”
+
+Acts 10:12 speaks of “four-footed animals, reptiles, and birds.” The problem for English is that an adjective on the lead noun can feel like it belongs to the next one(s) too. There cannot be any four-footed birds; so the reversed sequence lists the “four-footed animals” last. Similarly, in Hebrews 9:19, choosing to say “young bulls” instead of “calves” calls for reversing the order to read “goats and young bulls.” Luke 8:2 says some women were “healed from evil spirits and illnesses,” which becomes “healed from illnesses and evil spirits.”
+
+2 Corinthians 8:10: “A year ago you began to want to do and to do” changed from “A year ago you began to do and want to do”; wanting precedes doing.
+
+Revelation 18:8: “death, mourning, and famine” reversed;
+
+Revelation 21:4: “death, weeping, crying, or pain” re-sequenced to “pain, weeping, crying, or death.”
+
+Greek and English differ greatly in their possibilities for sentence structure. English depends on placement in the sentence (distribution) to indicate subject, direct object, indirect object, and modifiers. Greek uses case endings instead. That leaves distribution for other uses like emphasis and easier connection with preceding material. The most prominent places in sentences are the front and end. Greek can play on that fact by putting, say, the direct object on the front of a sentence or by placing the verb at the end. English is usually understandable with a direct object ahead of the subject, but it is not customary to put it there: “My house I painted last summer.”
+
+So, one unavoidable loss in translation is nuance, as in emphasis. The loss does not usually change the semantic meaning—the substance of expression, but it is a small loss, nonetheless. That matter is prominent in conversational re-expression. To compensate for the loss, a reader can consult the wooden or classical translations available on this website.
+
+Also note #34 below.
+
+16. Noun-Pronoun Shifts. Pronouns have replaced nouns and vice versa for clarity, efficiency of expression, and eliminating repetition: Matthew 3:16; Mark 9:50; Luke 23:46; John 6:24; 21:13; Revelation 14:14-15.
+
+17. Preference for Positive Expression. Written English prefers positive expression: Luke 1:37; 8:17; 12:2; 18:29. “Nothing will be impossible for you” changes to “You can do anything.” Note also Mathew 12:24.
+
+Hebrew idiom often states the positive plus the negative as perhaps a way to emphasize or clarify. CV sometimes reduces double expressions to positive ones: Ephesians 5:15, “Live like wise people” rather than “not live like unwise but as wise.” Cp. Matthew 13:34; Mark 4:18, etc.
+
+18. Litotes Removed. Most cases of litotes sound less natural to conversational style, and so have fallen out: Matthew 15:24; 17:20; Mark 6:4; Acts 21:39 (“No mean city” becomes “an important city.”); Titus 3:14.
+
+*19. Removing Body-Part Imagery. English uses a certain amount of body-part terminology: “how did you get that in your head?” “give me a hand with this problem,” “keep your nose out of my business.” CV removes a high percentage of body-part expression as scripture uses them. Though understandable, they are more foreign to English idiom, but they are exceptionally frequent in the Bible. That Hebrew manner of speaking focuses action: “The feet of them that buried your husband are at the door” (Acts 5:9). Some examples are part of pleonastic expression that emphasizes action: “He opened his mouth and said,” instead of simply, “He said.” The Hebrew idiom can give concrete expression to abstractions: Matthew 26:50; John 16:22; Acts 11:21, 22, 30; 17:26; Revelation 1:4 (“Everyone/eye will see him.”). Some body-part examples belong too much to the warp and woof of the text to eliminate them: “every knee . . . would bend, and every tongue would agree” (Philippians 2:18). Note Matthew 13:15 = Acts 28:27; Romans 3:13-15 (< Psalm 5:9; 140:3; 10:7); 1 Peter 3:10-13 (< Psalm 34:12-16); Revelation 13:5. A few are too expressive to replace appropriately: “Mary treasured these things up in her heart” (Luke 2:19, 51; cp. 2:35).
+
+20. Possessive Adjectives for the Greek Article. It is not that the Greek article means possessive adjective; Greek custom of usage is satisfied to use the article when the possessor is otherwise clear. English wants to say it regardless. Mark 4:29 (his scythe); 7:3 (wash their hands); 2 Peter 3:16.
+
+21. Dropping Dative of Possession. Have replaces it: “There is a flock to the man” vs. “The man has a flock.” Luke says of Zachariah and Elizabeth, “No child was to them” (Luke 1:7); that can become “they didn’t have any children.” Cp. Luke 4:7; John 1:6.
+
+Dative of possession remains in texts like 1 Corinthians 15:57: “Thanks be to God”; “Thanks to God.” The “have” wording does not cover the same idea in such a case.
+
+22. Avoiding Third Person Imperatives. Greek third-person imperative forms have no exact parallel in English. English imperative forms exist only in the second person. “Let him/her/it” is the closest English construction; “let” does not mean “allow” in that formula, so it can have an imperative value. Today’s English does not readily use that idiom, so we have substituted should, ought, or something similar. Though it is not the exact same meaning, that is what we would say—a kind of moral “oughtness.” 1 Corinthians 3:18, 21, “Don’t anybody . . . ”
+
+23. Reduced Sentence Length. Considerations noted above include reducing sentence length. Several devices help achieve that end. To an English reader, the classical biblical translations feel burdened down with wordiness—tautology, redundancy, circumlocution, verbosity, pleonastic expression. To English speakers, that factor reduces interest and clarity. Examples of wordiness: John 5:25; 1 Corinthians 9:8-9; 2 Corinthians 3:14-15; 11:21; 12:3. Reduced sentence length comes from using several of the mechanisms noted above:
+
+making two sentences by omitting coordinate—and sometimes subordinate—conjunctions between them: Luke 1:1-4; Ephesians 1:3-14; 2:8; 5:21; Hebrews 1:1-4; James 1:5-8; 2 Peter 2:4-9; Jude 12-15; Revelation 14:5 (at the end);
+
+replacing participial phrases with full verbs to create clauses;
+
+omitting some whole verses to keep the thought moving more quickly: Matthew 24:25; John 9:23; 2 Corinthians 5:3; 12:3; Ephesians 4:21.
+
+dropping for and because in several instances. For (γάρ) is often illative anyway; that is, it makes a connection with the preceding comment, but it is not a logical connection or causal sequence. So to speak, CV has weakened significantly the dictum, “When you see a ‘therefore,’ see what it is there for”; the saying does not necessarily hold true. See 2 Timothy 2:7: “Think about what I’m saying; for the Lord will help you understand.” Cp. John 7:29.
+
+eliminating nuancing particles that Greek sprinkles into sentences quite understandable without them: ἄρα, γὲ, μὲν . . . δὲ, μὴν often, πὲρ, νή. Compounds with τοὶ, πέρ, κέν are treated as if they were not affixed to the word;
+
+replacing and’s with commas between list items; replacing and’s with periods—or perhaps semi-colons—between what can become independent clauses.
+
+getting rid of “genitive strings”
+
+dropping redundancies caused by extra words like these in Revelation: “held palm branches in their hands” (7:9, “held” covers the prepositional phrase as well); “dressed in white clothes” (4:4); “the first looked like a lion, the second looked like a calf” (4:7); “He gave each one of them a white robe” (6:11); “till their fellow servants that were going to be martyred/ martyrs would fulfill their course” (6:11); “coming on the clouds of the sky” (Matthew 26:64; dropping the prepositional phrase does interfere with the parallelism “sitting on the right hand of Power”)
+
+dividing long sentences into sets of shorter ones. Long sentences show up notably in the longer prison letters, as an English reader can see by looking at the American Standard Version (1901): Ephesians 1:3-14, 15-23; 2:1-10, 11-18, 20-22; 3:1-12, 14-19; 4:1-3, 4-6, 11-16, 17-24; 5:7-12, 18-21, 25-27; 6:5-8, 14-16, 17-20; Philippians 1:3-7, 9-11, 12-14, 15-17, 27-30; 2:1-4, 5-8, 9-11, 12-13, 14-16, 25-27; 3:2-6; Colossians 1:3-8, 9-17, 18-20, 21-23, 24-29; 2:8-12, 13-15. See also 2 Peter 2:4-10a.
+
+24. Asyndetic Construction. English tends toward sentences not connected by conjunctions; Greek and Hebrew have much the opposite bent. CV has omitted as many coordinating conjunctions as possible, particularly conjunctive ones (and). As noted earlier, it even omits because in a good many places; English expects the hearer to perceive that the next sentence expresses the reason for the preceding one when it has that possibility. (These last two sentences illustrate the phenomenon.) Asyndetic construction also shortens sentences a little.
+
+25. Purpose Clauses. Purpose clauses shift into infinitive phrases: “in order that he might ___” shortens to “to ___.”
+
+26. English Present Perfect for Greek Aorist. Both languages have both verbal aspects: action in the past connected with present time (perfect; “has gone”; linear) and simple reference to the fact of past action (aorist; “went”). (Also, the Greek imperfect views past action as in progress: “was going”; linear). The real action itself can be the same in all these cases, of course, but it is viewed differently by the writer for communication purposes—emphasis, vividness, relationship to other actions, what the author wants to draw attention to, habit of expression, etc. So, shifting from one to the other does not alter the fact, but it does change the way the writer talks about it.
+
+Although both English and Greek have perfect and aoristic aspects in their verbs, they do not have the same custom of usage with them. English more often wants to connect the past act to the present time, that is, it wants to use the present perfect rather than the simple past (aorist); Greek tends the other way. The difference shows up famously in a couple texts that are part of theological discussion: Romans 3:23; 5:12. CV translates both aorists as present perfects to match the preferred understanding of Paul’s doctrinal intent: “Everybody has sinned and falls short of God’s glory”; “death passed on to everybody because everybody has sinned.” The punctiliar wording “all sinned” is easier to mistake into meaning all sinned in Adam’s act of sinning because he was all the race—Augustine’s notion of federal guilt in federal man—whereas guilt is, by nature and revelation, personal and limited to the actor. (Now of course, one person can be thought of as, so to speak, guilty of another person’s action by sympathizing with it, an idea included in the Christ-Adam parallels Paul talks about: Romans 5:14; 1 Corinthians 15:22, 43.)
+
+27. Preference for Action Verbs. Action verbs take precedence over nouns, adjectives, and “is” expressions. “After his suffering” can become “after he suffered (Acts 1:16).” Cp. 1 Corinthians 5:5; 8:7; 14:21 (“I have no need of you” becomes “I don’t need you”); Hebrews 10:26, 35.
+
+28. Continuity of Person, To keep the same grammatical person as subject throughout a segment, CV changes the original person when the shift does not alter the point: Matthew 6:24; 13:14; Mark 7:18-23; Luke 1:44-45; John 3:36; 5:24; 12:40 < Isaiah 6:10; John 15:5-6; Acts 17:15; 28:27-28; Romans 13:11; 1 Corinthians 3:19; 14:15-17, 23-24, 27-28; 2 Corinthians 4:16-5:6; Hebrews 4:1; James 1:22-27; Revelation 18:19-20.
+
+29. Continuity of Figure. CV goes as far as “unmixing” a few mixed metaphors. They seem unnecessarily distracting. 2 Corinthians 5:2 changes from “undressed” to “unhoused.”
+
+30. Continuity of Tense. Time viewpoint presents another translation issue. Mark 8:6 illustrates a tense shift that CV covers up: “And he instructs the crowd to sit down on the ground; and having taken the seven loaves and having blessed them, he gave . . . .” The new wording becomes, “He told the crowd to sit down. He took the seven loaves, blessed them, and gave . . . .” Mark’s gospel lends itself to many such shifts because Mark so frequently uses the “historic present,” a practice called “vivid narration.” The device uses a present-tense verb to put the listener inside the past-time event. English speakers talk the same way, but it has a “colloquial” feel more common in oral exchange. Cp. Matthew 2:13.
+
+31. Close Subject-Verb Connection. CV endeavors to limit the number of words between subject and verb (and verb plus direct objects). Spoken English can tolerate more words there than written speech can, because pitch pattern and phrasing can help establish the connections. One blight in newspaper and magazine writing of late is attempting to say too many things about the subject before introducing its verb. Holding all that information in mental abeyance while anticipating what the verb will be when it comes into the picture is maddening! (See!) 2 Peter 2:4-8 finally gets its verb in 2:9! In English, rearrangement and breakdown into smaller units seem to be in order.
+
+32. Double Entries. New Testament writers show the Hebrew penchant for double entry. In some cases, CV cuts such entries in half, especially if the double comes from the following:
+
+(a) affirming a fact plus denying its opposite. Proverbs 31:12 illustrates the idea in its familiar description of an ideal wife: “She will do him good and not evil all her life.” 2 Timothy 4:16 says, “Nobody stood by me . . . . everybody deserted me.” “Is it lawful to pay tribute to Caesar or not?” (Matthew 22:17 = Mark 12:14 = Luke 20:22). Cp. Luke 18:16 (“Let them come over to me. . . and don’t get in their way”)
+
+Cp. Matthew 6:13; 21:21; Mark 4:33-34; Luke 14:3; 16:13; 18:15; John 1:3; 3:20; 20:27; Acts 1:4; 2 Corinthians 13:8; Ephesians 5:15; 1 Timothy 2:9; Hebrews 1:9; 13:5.
+
+(b) Sometimes the double entry simply emphasizes with synonyms or restatement: “grief and constant sorrow” (Romans 9:2; “trespasses and sins” (Ephesians 2:1). “Where will the ungodly and sinner appear?” becomes “where will godless people come in” (1 Peter 4:18)? Luke 8:1 has “proclaiming and preaching” (κηρύσσω, εὐαγγελίζομαι). Matthew’s account of Jesus in Gethsemane has him beginning to “feel stressed and be in distress” (λυπεῖσθαι καὶ ἀδημονεῖν, 26:37). The close meanings provide different word pictures that deepen intensity; the CV wording is “became overwhelmed with dread.” Jesus himself expresses the experience as “distressed to death” (Matthew 26:38). The Hebrew writer describes the occasion as “loud [audible?] crying and tears” (Hebrews 5:7 NASB). Luke 8:17 says, “secret that will not be known and come to light,” which, reordered to natural sequence, becomes “secret that will not come to light and be known,” which, with double entry removed, becomes “everything secret will come to light and be known.” “Everything that’s possible is not necessarily beneficial or helpful” (1 Corinthians 10:23). One notable verse has a triple entry: “The disciples did not understand any of that, and the saying was hidden from them. They did not comprehend what was said” (Luke 18:34). The disciples really did not get it! CV reduces their response to “None of that made any sense to them whatever.” Cp. John 11:33; 15:5.
+
+(c) A third kind of double entry is hendiadys, where two grammatically parallel nouns, verbs, or adjectives combine for one composite idea: “authoritative rule/ruling authority” for “rule and authority” (Luke 20:20). Paul “was still breathing out threats and murder” becomes “was still making murderous threats” (Acts 9:1). “Spoke in languages and prophesied” likely means “they prophesied in languages” (Acts 19:6). “A wide and effective door has opened up for me” (1 Corinthians 16:9). “We have boldness and access” probably equals “we have bold access” (Ephesians 3:12). “With the command and shout of the archangel” becomes “with the shout of the archangel” (1 Thessalonians 4:16). Simon in Samaria was impressed with Philip’s “outstanding signs and miracles”; CV combines the two into “miraculous signs,” meaning the supernatural acts that signified something; they were not sorcery like Simon the sorcerer’s demonstrations, sheer display with nothing more than entertainment value like magicians and illusionists do.
+
+(d) A fourth kind of double entry seems to be a rhetorical device for balance or emphasis: “a merciful and faithful high priest” (Hebrews 2:17), “the Apostle and High Priest of our confession” (Hebrews 3:1), “hold fast our boldness and glorying firm to the end” (Hebrews 3:6; both are true, and they are not the same idea, but why say them both here except for rhetorical balance?).
+
+(e) In a few examples, the double seems to be customary expression, as in “eat and drink,” which CV sometimes reduces to “eat” (Matthew 24:38; Luke 5:30, 33; 10:7; 13:26; 17:82; 17:27, 28; 22:30; 1 Corinthians 9:4; 11:22.). That has not happened in Matthew 6:25, 31; 11:18, 19; 24:49; Luke 7:33, 34; 12:19, 29, 45; John 6:53-54, 56; Acts 9:9; 23:12, 21; Romans 14:21; 1 Corinthians 10:7, 31; 15:32, because both eating and drinking are integral to the writer’s point. Note also Matthew 5:6, “Hungry and thirsty for righteousness.”
+
+“Marry and given in marriage” can reduce to “get married”: Matthew 22:30; 24:38; Mark 12:25; Luke 20:34, 35. The shift fits better the modern Western marriage custom where there is one action: the couple’s decision to marry, instead of one set of parents searching for a suitable in-law and the other parents agreeing to give a daughter in marriage.
+
+“See and hear” becomes “see” in some cases: Luke 2:20; 7:22; 2 Corinthians
+
+2:6.
+
+“Flesh and blood” means “people (in this world)” in contrast to God as spirit: Matthew 16:17 (“Flesh and blood did not reveal that to you”); 1 Corinthians 15:50, etc.
+
+“Fear and trembling” (1 Corinthians 2:3; 2 Corinthians 7:15; Ephesians 6:5; Philippians 2:12; cp. Psalm 55:5) seems too strong for some circumstances where it appears. Perhaps the set expression had become so familiar that it lost some of its intensity.
+
+“Day and night” for “all the time,” “every day,” continually, characteristically: +Matthew 4:2 (Jesus fasted forty days and nights); 12:40 (Jonah in the stomach of the big fish three days and nights); Mark 4:27 (“day after day”); 5:5; Luke 2:37; 18:7; Acts 9:24; 20:31; 26:7 (“every day”); 1 Thessalonians 2:9; 3:10; 2 Thessalonians 3:8; 1 Timothy 5:5; 2 Timothy 1:3; Revelation 4:8; 7:15; 12:10; 14:11; 20:10).
+
+In the case of Jesus’ being in the ground three days and nights like Jonah, it is not possible for that to fit literally with “resurrect the third day” (Matthew 16:21; 17:23; 27:64; Mark 9:31; 10:34; Luke 9:22; 13:22; 20:12; 24:7). He was crucified in the daytime and was to arise the third day. No combination of day-night ending in day will get the same number of nights as days—three and three. The statement would have to change the meaning of day to twenty-four-hour day for the last “day” to make the statement work at all, but the prophecy in Matthew 12:40 says “three days and three nights.” The Jonah-Jesus comparison could work if (in the Jonah statement of the comparison) the accounts mean to say Jesus resurrected while it was still dark (sometime before the fourth day). But understood that way, the accounts themselves do not fit the other wording about his resurrecting the third day. Besides, Matthew 28:1; Mark 16:2; Luke 24:1 say early dawn while John 20:1 says ‘it was dark” when the women came.
+
+(f) “word and deed”: Acts 7:22; Romans 15:18; Colossians 3:17; (1 John 3:18)
+
+(g) “miracles and wonders and signs”: Matthew 24:24; Mark 13:22; Acts 2:19, 22, 43; 4:30; 5:12; 6:8; 7:36; 14:3; 15:12; Romans 15:19; 2 Corinthians 12:12; 2 Thessalonians 2:9; Hebrews 2:4.  Miracles could relate to being above natural causation; wonders could speak to the impact on observers; signs could reference the meaningfulness of the event; on the other hand, the triple could simply be a strong emphatic.
+
+(h) Other kinds of double entries show up in 1 Corinthians 5:8 (malice and wickedness, sincerity and truth); Ephesians 3:20 (ask or think); James 1:17 (every good and perfect gift); 1 Timothy 6:9 (plunges them into ruin and destruction). Especially with noun synonyms based on different word pictures, double entries are a way to create degrees with nouns comparable to comparative or superlative degrees on adjectives. Sometimes the doubles are longer segments laid side by side, not standard expressions. They represent rhetorical custom of expression—like some speakers’ habit of speaking in threes. Reading Romans, etc., with an eye for doublets shows how prevalent that habit of expression was.
+
+33. Avoiding Cognate Accusatives
+
+New Testament authors may use a verb plus a direct object from the same root (or equivalent expression), as in “I’ve fought a good fight” (2 Timothy 4:7). Timothy “is working the work of the Lord” (1 Corinthians 16:10), reworded, becomes, “He’s doing the Lord’s work.” Matthew 2:10 says “they rejoiced an exceedingly great joy” becomes “they were overjoyed.” Cp. Luke 1:73; 2:8, 9; Acts 19:4; 1 Peter 5:2. The cognate accusative is often a Hebraism for intensity: Revelation 18:6 (διπλώσατε τὰ διπλᾶ, pay her back double). Some, of course, CV lets stand as the classic double cognate in Ephesians 4:8 < Psalm 68:18, “captured captivity and gave gifts to people.” There are a few “near cognate accusatives” like Ephesians 4:1.
+
+34. Keeping All Parts of Indirect Discourse Together
+
+New Testament writers sometimes state part of the indirect discourse portion ahead of the conjunction that leads into the noun clause. That part comes up again in the indirect discourse portion. 1 Corinthians 16:15 says, for example, “You know the household of Stephanas—that it is the first fruits of Achaia” (comparable to double subject). Adjusted, the sentence becomes, “You know that the household of Stephanas was the first fruits of Achaia.” See also Matthew 26:10, 24; Mark 14:6; John 6:28; 9:4; Acts 13:41.
+
+A similar repetition ahead of the main construction happens with relative clauses: “I’ve seen your salvation, which you prepared in front of all nations” (Luke 2:30). CV words it, “I’ve seen the salvation you’ve prepared for all nations.” See this recurring pleonastic feature with pronouns in Revelation 2:17; 3:21.
+
+A similar double possessive happens in the phrase “her passion of her immorality,” which gets changed to “her immoral passion” (Revelation 14:8).
+
+35. Avoiding Absolute Constructions
+
+New Testament Greek uses lots of absolute constructions, that is, constructions that are not by grammar tied to elements in the main clause. It occurs quite often as illustrated by the cases just in Matthew: 1:18, 20; 2:1, 13, 19; 6:3; 8:16, 28; 9:32, 33; 11:7; 12:46; 13:6, 19; 14:15, 23, 32; 16:2; 17:5, 9, 14, 22, 24, 26; 18:24, 25; 20:8, 29; 21:10, 23; 22:41; 24:3; 25:5, 10, 60; 26:6, 7, 20, 21, 47; 27:1, 17, 19, 57; 28:11, 13. There are a few accusative absolutes: Matthew 17:25?; Acts 25:27; 26:3; Ephesians 1:18. Some dative absolutes show up: Matthew 9:27, 28?; 14:6; Luke 8:27; Acts 22:6, 17; 28:10?. There are nominative absolutes in Romans 12:9, 16; Revelation 2:26. (Latin has ablative absolutes). The construction consists of a genitive/dative/accusative/nominative noun plus the same number-and-gender participle without modifying any substantive in the main clause. Mark 1:32, for example, says, “And evening having come, . . . they were bringing him . . . (Ὀψίας δὲ γενομένης . . . ἔφερον πρὸς αὐτὸν . . . ).” Using the English nominative absolute, as we have done in this example, offers a comparable wording still encountered in English in short, set expressions like “That said, . . . .”; “weather permitting, . . .” The Mark 1:32 example we simplified to “That evening.” At other times a full adverbial clause works, “when evening came.”
+
+36. Deliberative Questions
+
+Deliberative questions imply uncertainty about what to do together perhaps with an element of intensity or urgency. The nuance is not easy to indicate noticeably in the English wording; so we have resorted to +special punctuation in a few cases (which replaces voice modulation in oral presentation): “What are we going to eat!?” (Matthew 6:31); “What should I ask for!?” (Mark 6:24; CV hides the deliberation in indirect question); “Should we go spend two hundred denarii on bread to feed them!?” (Mark 6:37); “Should we strike with a sword!?” (Luke 22:49); “What are we going to do!?” (Acts 2:37); “You want me to crucify your king!?” (John 19:15); “What are we going to do with these men!?” (Acts 4:15); “What should I do, Lord!?” (Acts 22:10). Some questions with subjunctive seem to have weaker uncertainty, so special punctuation does not accompany them. Examples include Matthew 3:14?; 6:25, 37; 13:28; 18:21; 23:33; 26:14, 17, 54; Mark 12:14; Luke 3:10; 9:54; 11:5; 12:5; 14:34; 16:3-4; 18:7, 41; 22:9; 23:31; John 6:28, 38, 68; 12:27; 18:11, 39; Romans 10:14; 15:4; 1 Corinthians 4:21; 11:22; Hebrews 11:32; Revelation 15:4.
+
+37. Actual vs. Tendential Result
+
+The classical Greek distinction between actual result (so that) and tendential result (so as to) is not sharply maintained in the New Testament (ὥστε + indicative vs. ὥστε + infinitive). We have not always worded the texts with a clear preference for either. See comments below under so.
+
+Our comments on the “wordiness” of biblical expression observes custom of usage, not literary competence. Some of these usages amount to mechanisms for emphasis, which vary across languages. In written material especially, English likes to emphasize with short, quick, pregnant expression; New Testament authors seem to emphasize by saying lots of words (cp. Matthew 6:7!). 1 Corinthians 4:16 illustrates: “I urge you to be imitators of me.” It sounds more natural to say, “Imitate me.” The urging part comes from using the imperative mood; “imitate” is an action verb with greater punch than “to be” plus a noun “imitator.” Redundancy and restatement disappear by simple omission: Luke 11:36 (dropping “not having any part dark”). Note Philippians 2:21. Note also the [x] and [x]repeat sigla at the beginning of these notes.
+
+38. Third Person for First-Person Reference
+
+Using third-person for first-person reference grates on English expectancies, but CV has retained it in a majority of Jesus’ “Son of Man” usages instead of changing it to I or me. We have supposed he did it deliberately to identify himself with the “Son of Man” expression in Daniel 7:13 as an oblique claim to be the Messiah: “One like a son of man came up to the Ancient One” (Matthew 8:20; 9:6, 23; 11:19; 12:40; 13:37, 42; 16:13, 272; 17:12; 18:28; 24:27, 30, 37, 39,44; 25:31; 26:24; Mark 2:10; 8:31; 9:9, 12, 30; 10:33, 45; 13:26, 32; 14:20, 41, 62; Luke 5:24; 6:22; 7:34; 9:22, 26, 44, 58; 11:30; 12:40; 17:22, 24, 26, 30; 18:8, 31; 19:10; 21:27, 36; 22:70; John 1:51; 3:13, 14; 5:19; 6:27, 53, 62; 8:28; 9:35; 12:23, 34, 35; 13:312; Acts 7:56; 8:20. All but two appear in the gospels. CV makes the preferred reading in Mark 2:28 a general reference to people instead of a specific one about Jesus.
+
+Farther along in Jesus’ ministry especially, CV has replaced several third-person “Son of Man” cases with first-person pronouns:  Matthew 12:32; 17:9, 12, 22; 20:18-19, 28; 26:2, 45; Mark 8:38; 10:33, 45; Luke 12:8, 10; 22:22, 48; 24:7
+
+39. Pronoun Replacement for Anaphoric Nouns
+
+Under the influence of Hebrew grandiloquence, New Testament writers sometimes restate a noun (or clause) that English replaces with a pronoun.  Revelation 17:8, The beast was, is not, and is to come up from the abyss to its eternal destruction. People on earth will marvel when they see it. It in CV replaces a restatement of “He was, is not, and will come” from earlier. Cp. John 2:24; Colossians 1:18, 20, 27.
+
+40. In some cases, natural sequence has replaced the sequence of actions in the texts: Acts 23:32; Jude 1(?).
+
+41. Comments above note Greek’s tendency to proliferate participial constructions, which produce hypotactic arrangements. Hebrew idiom shows through in some constructions joined by and where English prefers hypotactic arrangement, particularly when the second verb fulfills the purpose of the first. For example, Matthew 24:31 says, “He’ll send out his angels with a loud trumpet blast and gather his chosen ones from every direction.” CV reads, “He’ll send out his angels with a loud trumpet blast to gather his chosen ones.”
+
+Hebrew grandiloqu3ence,gr
+
+Current Shifts in English Usage
+
+As with Bible translations prepared since the 1940’s, the archaic pronouns (thou/thee/thy, ye, mine in attributive position—mine eyes) and old verb endings (-est, -eth) have dropped out, along with a host of words and phrases no longer in use, though probably still understandable. Other words have shifted their meaning and need to be replaced. (Let, to hinder, moved to its opposite! KJV used to say in Romans 1:13, “I was let hitherto” for “I was prevented up to now.”) Linguistic drift happens in every language, so new versions come out to accommodate the changes. Besides that, the impetus for this translation comes from wanting to provide scripture in one kind of current English. Its features appear above under “III. Elements of Conversational Style.” It attempts to bring scripture closer to this generation’s oral style.
+
+1. The may/can distinction falls aside—at least where a reader can easily get the correct import (Revelation 4:13). Today, may indicates contingent action only; can has taken over its duties for expressing permission. “You may use the car” sounds stilted, and so changes to, “You can use it.” Note John 9:39.
+
+2. Not surprisingly, CV also drops the will/shall distinction. For the last couple generations English speakers have not used shall for first person and will for second and third person—with reversal for emphasis. Now, will covers all three persons and there is no emphasis by reversal; shall falls out altogether. Calling attention to that obvious shift would not be necessary except for familiar biblical texts like the Ten Commandments—“Thou shalt not steal.” “Do not steal” gets rid of the archaic second person singular pronoun thou, replaces imperatival future with plain imperative, changes the obsolete form of second-person shall (shalt), and eliminates the rare use of a pronoun with an imperative—except occasionally for strong demand. CV uses contractions almost everywhere it can, but in the Ten Commandments it leaves the words uncontracted, as in this example.
+
+3. In general, we have deferred to “inclusive language.” Except in third singular, English has common gender in all its pronoun types and their inflexions: personal (I/we/you/he/ she/they), reflexive (-self), intensive (-self), reciprocal (one another), interrogative (who?/which?), indefinite (some/any/every/body), and relative (who/which/that). Classical languages (Greek and Latin), Hebrew/Aramaic, and English speakers (traditionally) have used he/him/his (and their corresponding terms) where sex reference is mixed, unknown, or irrelevant. The modern concern for egalitarianism has pressed for a shift away from masculine pronouns in those situations. Written and oral custom has begun to foster using “he or she,” mixing the two pronouns in a speech segment, or using they/their as a replacement for singular third-person reference by resumptive pronouns (“as anyone who does it for their job can tell you”). We have also not revived the free-standing one to cover generic reference: “One should not . . . .” The word has picked up a pedantic feel due to its infrequent usage in that way.
+
+The replacement options seem cumbersome, distracting, and ambiguous. Indefinite pronouns and their equivalents are more natural: some/body/any/body/everybody-one, a person, or people. It is possible as well to use you or they “advisedly,” that is, as indefinite pronouns—as in the expression “they say.” There is also editorial we and the use of plurals in place of singulars. Passive voice can replace literal construction, but CV has tried to avoid passive constructions. Where such indefinite reference seems forced, we have reverted to traditional usage, as explained below. In Revelation 13:16 we resort to their as a plural cover-up for his because of its distributive sense: “It made everybodysg . . . receive a stamp on theirpl forehead or right hand”; note also Matthew 5:39, 40, 41; 7:5; 18:6; Acts 2:6; Romans 2:6; 1 Corinthians 8:10; 2 Corinthians 5:16, 17; Colossians 2:18, 2 Thessalonians 3:10; 2 Timothy 2:18; Revelation 22:12. Cp. Mark 3:29.
+
+Using indefinite pronouns, etc., to replace man does not solve the inclusive language problem where resumptive pronouns come in; hence, the use of plurals in the resumptive positions is becoming English idiom whether the leading reference is singular or plural. The exception is that originating references intended to specify one gender can carry the same gender resumptive pronoun. CV implements the new idiom in cases like the following: “Each one of us has to carry our own load” (Galatians 6:5); “whoever tries to preserve their life will lose it” (Luke 17:33).
+
+Inclusive language also comes into play when the original text uses the nouns son, brother, father, man, and their plurals for mixed referents. In CV the word man appears where it contrasts with woman; but when it contrasts with God, animal, idea, or inanimate thing we have sought some alternative replacement. Where man does not contrast in those ways, ἄνθρωπος (man)—and to a lesser extent ὰνήρ (man/husband)—we have endeavored to replace with a person, people, plurals, first or second person (Romans 10:9-10), or some other inclusive term. In such cases, man in the original text does not mean “man as in contrast to woman” anyway; it means humankind, but humankind is a bit cumbersome. CV has replaced brothers with siblings in Romans 15:14; Hebrews 2:11-12, with members of Christ’s family in 1 Corinthians 2:1; Philippians 3:1; 1 Thessalonians 1:4; 2 Thessalonians 2:13; 3:15, with fellow Christians in 1 Corinthians 6:8; 8:13; 15:1; 2 Corinthians 1:8; Philippians 4:1; 1 Thessalonians 4:6; James 2:1; 1 John 3:14, with a Christian in 1 Corinthians 8:11, with Christians in Colossians 4:15; 1 John 3:20, with God’s children in 1 John 4:21.
+
+Biblical writers always present God himself in masculine terms. We have maintained that presentation because a translator’s role is to express what the author said, not what a translator or reader might think is true. Of course, from the perspective of canonical revelation about that truth, God is (a) spirit (John 4:24) and as such does not have “flesh and bones” (Luke 24:39). So, sexuality/gender cannot belong to his ontic nature. That fact, we surmise, lies in part behind proscribing idolatry. It also coincides with placing final responsibility in the “hands” of the masculine and with observing that the female is physically weaker—statistically by degree (cp. 1 Peter 3:7: weaker vessel). The God of the Bible has ultimate responsibility for the rest of reality, hence authority over it, and ultimate power to direct it. His omnipotence establishes stability and security and guarantees hope for his people. The human parallel in his image likewise issues in a generality where greater physical strength conveys greater psychological security. (“In his image” we understand as the interpersonal capacity and therefore aside from the human sexuality question altogether.)
+
+Additionally, references to angels are always masculine in scripture and hence in renderings here. Angels also are “spirits” (Hebrews 1:14 + Luke 24:39). With demons this version nearly always uses it in pronoun references. That usage fits the demons’ tendency toward depersonalizing people by the effects they have on the ones they “possess.” Additionally, demon has an impersonal feel in English even though the Greek word is grammatically masculine (δαίμων, appearing only in Matthew 8:31). As a word, Spirit has a more impersonal feel than Father and Son; perhaps that is part of the reason for some slip-ups in some translations that render πνεῦμα (n.) as “it.”
+
+4. We have used a with a noun typical of its class. Older English custom used the—as did Greek and Hebrew: “To do his work credibly, the artist needs to know human anatomy” vs. “To do his work credibly, an artist needs to know human anatomy.” Cp. Mathew 24:32; 25:31; Mark 1:44?; 7:20?; Luke 12:27; John 10:2, 112, 14; 1 Corinthians 11:3; 1 Timothy 3:2; 4:8; James 5:7; 1 John 2:2. In 1 Timothy 5:14, 18. We have even applied the indefinite-article usage to Paul’s classic statement, “I have fought the good fight,” altering it to “I have fought a good fight” (2 Timothy 4:7). CV has also used a plural for a noun typical of its class: “so they don’t give critics [τῷ ἀντικειμένῳ] a chance to find fault” 1 Timothy 5:14).
+
+5. Although not always observed in contemporary speaking, we have sometimes retained the subjunctive mood in contrary-to-fact conditional sentences: “If I were a rich man” vs. “If I was a rich man.” Current use of indicative for subjunctive works because contrary-to-fact is nearly always clear from context and subject matter. For that reason, the New Testament writers themselves sometimes omit the particle ἄν in the apodosis of contrary-to-fact conditional sentences. That particle distinguishes contrary-to-fact (Type C) from “real” (Type A, also called present or past particular conditional sentences). Omission of ἄν occurs in Matthew 26:24; John 9:33; 15:22; Acts 26:32; 1 Corinthians 12:172, 19; 2 Corinthians 2:2. We did let our guard down in Galatians 1:10: “If I was trying to please people, I wouldn’t be serving Christ”—likewise in Luke 7:39; 12:49; 17:2; John 18:30, 36; 21:24; 1 Corinthians 12:17.
+
+6. Intensive pronouns appear last in their clauses—instead of after the nouns they intensify: “Jesus didn’t perform the baptisms himself; his disciples did them”; vs. “Jesus himself didn’t perform the baptisms” (John 4:2).
+
+Intensive pronouns have also been dropped when deemed unnecessary: 1 Thessalonians 1:19; 2 Thessalonians 2:16.
+
+*7. (a) CV does not capitalize pronouns for deity except for the indefinite pronoun One when standing alone: “God’s ‘bread’ is the One that comes down from heaven” (John 6:35). Older English usage capitalized personal pronouns for deity to show respect. Some earlier authors even capitalized intensive, reflexive, and relative pronouns.
+
+(b) For the most part, descriptive nouns for God in some role appear in lower case: creator, judge, redeemer.
+
+(c) We have regarded as titles quite a few nouns and phrases that serve as names for deity and for other significant references:
+
+“Advocate” (1 John 2:1)
+
+“Alpha and Omega” (Revelation 1:8; 22:13),
+
+“Apostle and High Priest” (Hebrews 3:1),
+
+“Assassins” (Acts 21:38),
+
+“Author” (Hebrews 2:10),
+
+“(Gate) Beautiful” (Acts 3:2),
+
+“the Beloved” (Ephesians 1:6),
+
+“the Blessed” (Mark 14:61),
+
+“Blessed and only Master” (1 Timothy 6:15),
+
+“Chief Shepherd” (1 Peter 5:4),
+
+“Circumcision” (as a title for Jews: Acts 10:45; 11:2; Romans 3:30; 15:8;
+
+Galatians 2:9, 12; Ephesians 2:11-12; Philippians 3:2, 3; Colossians 4:10;
+
+Titus 1:10),
+
+“Commonwealth of Israel” (Ephesians 2:12),
+
+“Death” and “Grave” (Revelation 6:8);
+
+“the Fast” (that is, the Day of Atonement, Acts 27:9),
+
+“the First and the Last” (Revelation 1:17; 2:8; 21:6),
+
+‘the Firstborn” (Hebrews 1:6),
+
+“God’s Holy One” (Luke 4:34),
+
+“Governor Felix” (Acts 23:26),
+
+“the Great Shepherd of the sheep” (Hebrews 13:20-21),
+
+“Head” (Colossians 2:19; not capitalized in all other such uses),
+
+“Helper” (John 14:16, 26; 15:26; 16:7)
+
+“Heaven” (Luke 15:18, 20),
+
+“the Holy and Just One” (Acts 3:14),
+
+“Holy City” (Revelation 1:10),
+
+“Holy One begotten (Luke 1:35)
+
+“(your) Holy Servant Jesus” (Acts 5:27),
+
+“Householder’s honorable uses” (2 Timothy 2:21),
+
+“I’ve sinned against Heaven” (Luke 15:18, 21),
+
+“Justice didn’t let live” (Acts 28:4),										 “King” (1 Timothy 6:15; Revelation 15:3),
+
+“King Agrippa” (Acts 26:2, 9, 13, 27),
+
+“Lamb” (32 times in Revelation: +5:6, 8, 12; 6:1, 3, 5, 7, 9, 12, 16; 7:9, 10, 14,
+
+17; 8:1; 12:11; 13:82; 14:1, 5, 11; 17:142; 19:7, 9; 21:9, 14, 22, 23, 27;
+
+22:1, 3; plus 1 John 1:29, 35; 1 Peter 1:19),
+
+eaven.””.”
+
+“Leader and Savior” (Acts 5:31),
+
+“the Lion from the tribe of Judah” (Revelation 5:5),
+
+“Living One” (Revelation 1:18),
+
+“the Majestic Glory” (2 Peter 1:17),
+
+“the Majesty on high” (Hebrews 1:3),
+
+“Master” (2 Peter 2:1),
+
+“Mediator” (1 Timothy 2:5),
+
+“the Mighty One” (Luke 1:49),
+
+“Most High” and expanded expressions (+Mark 5:7; Luke 1:32, 35, 76; 6:35; 8:28; Acts 7:48; 16:17; Hebrews 7:1),
+
+“the Name” (+Acts 5:41; 3 John 7),
+
+“the People” (+Acts 28:17),
+
+“Perfecter” (Hebrews 3:1),
+
+“Person” (Galatians 3:2, 5),
+
+,, , ,“Power” (Matthew 26:64 < Psalm 11:1 + Daniel 7:13),
+
+“(The) Power of God Called Great” (8:10),
+
+“Preparation” (John 19:14),
+
+“The Principal in the island” (Acts 28:7),
+
+“The Righteous One” (Acts 7:52),
+
+“Savior” (1 Timothy 4:10),
+
+“Shepherd and Overseer” (1 Peter 2:25),
+
+“Son of Man” (Jesus’ self-designation throughout the gospels),
+
+“Song of Moses and the Lamb” (Revelation 15:3),
+
+the Sunrise from on high (Luke 1:78),
+
+“Treasury” (Matthew 27:6),
+
+“Uncircumcision” (Romans 3:30; Ephesians 2:11),
+
+“Unleavened Bread” (Matthew 26:17; Mark 14:1; Luke 22:1, 7; John 7:2; Acts
+
+12:3; Acts 20:6).
+
+“the Way” (+Acts 9:2; 19:9, 23; 22:4; 24:14, 22; 2 Peter 2:2)
+
+(d) Other capitalization matters: lower case: law (as a kind of thing)
+
+regularly capitalized: Passover, Sabbath, Savior, Son, the Law (of Moses)
+
+8. Some misplaced only’s and just’s appear: “You can only serve one master” vs. “You can serve only one master” (Matthew 6:24). As per standard usage, only serve contrasts with some other act because it precedes the verb. But that is not the way speakers have come to mean it. Rewording can avoid the issue in this example: CV says, “Nobody can serve two masters.”
+
+9. Some conjunction-preposition switches have occurred: than me (preposition) vs. than I (conjunction). “He is taller than me” idiomatic for “He is taller than I (am).” In the last sentence, adding am takes away the artificial sound. Than, as a conjunction, carries the same case after as before. Used as a preposition, than governs the objective case.
+
+As, the subordinate conjunction, likewise carries the same case after as before; that is, it has the same case on the subsequent noun or pronoun as the previous substantive it compares with: “He is as tall as I”; “the loss hit him as hard as me.” Considering as a preposition shows up when the speaker uses objective case after it on a pronoun that pairs with a previous subjective form—as in the first example here: “He is as tall as me.”
+
+That switch happens as well with as-like: “as me” (preposition) vs. “as I” (conjunction); “like they are” (conjunction) vs. “like them” (preposition). Cp. than and like in the word list that closes these notes.
+
+The issue comes up only if a pronoun appears after as, like, or than. Only pronouns have different subjective and objective forms. And it comes up only if the parallels are with a previous subjective case.
+
+10. CV has retained the transitive-intransitive distinction between lie-lay, rise-raise, sit-set, even though in common speech people often say, “I am going to lay down for a nap”; “I’ve set here long enough”; “I can’t raise up; my knee hurts.”
+
+11. Double negative for emphasis does not appear. That practice includes can’t help but. Greek uses double—even triple—negatives for emphasis, but English continues to frown on them: “I’m not doing nothing, Mom!”
+
+*12. CV has assigned pronoun forms by distribution more than case. If a pronoun precedes the verb, it carries subjective form (I, we, he, she, they, who). After the verb, it carries objective form (me, us, him, her, them, [whom]). Since English has lost case form on adjectives and all substantives except pronouns, English speakers have lost an automatic feel for syntax based on form; they have moved to syntax based on placement (distribution). They continually confuse what form to use where. They apply the distributive pattern the same way in sentences with linking/equative/copulative/state-of-being verbs as they do with action-verb sentences: “It is me/it’s me” (Matthew 14:27; ASV, e.g., has “It is I”; literally the Greek says, “I am” as comparable to “It hit me”; cp. John 21:4, “They didn’t know it was him”; “Who Jesus meant” (+John 13:24; cp. 13:22). So CV has adopted the pattern in, “Don’t be afraid; it’s me”; cp. Luke 24:39. “It’s not me that’s living, but Christ” (Galatians 2:20. Such wording seems appropriate enough in oral exchange (“conversational” and “simple”). “It’s not me, is it?” (Matthew 26:22, 25 = Mark 14:19. See also Matthew 26:48 = Mark 14:44; 1 Corinthians 7:10; 15:10, 11; Galatians 2:20.
+
+In something of the opposite direction, modern English speakers frequently misuse pronouns in compound objects of a preposition: between you and I is a recurring slip-up. Objective forms always follow prepositions in standard English—in this illustration between you and me. The substitute formulation makes you and I a set expression regardless of syntactical connection—objects of prepositions or compound direct objects (Note Current World Archaeology #122, p38). The situation with “___ and me” does come up in Matthew 17:27 (“Give it to them for you and me”); John 2:4 (“What to you and me” replaced with “What is this?”); 1 Corinthians 4:6 (“I’ve applied these matters to Apollos and me.”); Philemon 11 (“He’s useful to you and me”); Acts 15:9 (“He made no distinction between them and us”).
+
+In some other instances, it is simply a matter of discarding grammatical niceties: “Who sinned, him or his parents?” (John 9:2) vs. “Who sinned, he or his parents.” 4”Whoever says they know him but don’t keep his commandments, is not telling the truth and doesn’t have the truth” (1 John 2:4).
+
+13. Whom(ever) does not occur. The objective form whom hardly comes out “natural” in modern English. It sounds pedantic, perfunctory, stilted, aloof. Instead, CV uses that or even rewords the sentence to avoid the offending word. In a few cases, to avoid whom, the wording has that after a comma to begin a non-restrictive clause (even though such a construction conflicts with the consistent use of that for restrictive clauses—not enclosed in commas—vs. which for non-restrictive impersonal—enclosed in commas).
+
+14. CV wording freely uses postpositive prepositions: “Who did you give the ticket to?” vs. “To whom did you give the ticket?” Here, who is the conceptual object of to in the first example, but it does not use the standard syntactical sequence and case form to make that connection. Note Matthew 11:10, 27, etc.
+
+15. Some split infinitives appear because that usage is increasingly establishing itself in modern English. The objection to split infinitives never had any more of a real basis than split progressive verbs: “We are continually striving to improve.” Latin, Greek, and Hebrew infinitives are always one word (portare, λῦειν,קְטֹל ), and therefore indivisible/“unsplitable” (except for the rare possibility of a Greek periphrastic infinitive). Most of the time, to precedes a verb as the “sign” of an English infinitive: “to work.” (“Let us go” does not use the sign.) So, the two words in the infinitive can be separated as they are in progressive verbs: 1 Thessalonians 3:5, “I didn’t want your tempter to somehow make our labor be for nothing”; also Acts 5:11; 1 John 1:4.
+
+16. In indirect discourse, CV puts all the indirect discourse clause after the conjunction that introduces it—after that, whether expressed or implied: “I want you to know the gospel preached by me that it was not according to man” becomes “the message I presented to you didn’t come from other people” (Galatians 1:11). Cp. John 4:35; 9:8; 11:31; 1 Corinthians 3:20 < Psalm 94:11; 14:57; 2 Corinthians 2:1.
+
+17. In indirect discourse, that is not usually used to introduce the subordinate noun clause. Jesus said, “I am not going up to the feast yet” could be expressed as indirect discourse with no that, “He said that he wasn’t going up to the feast yet” (cp. John 7:1-9)
+
+18. CV almost always omits the relative pronoun that when it fills an objective slot in a subsequent relative clause: “I didn’t read the book that he gave me.” That arrangement can happen in combination with postpositive prepositions: “I didn’t like the school he sent me to” vs. “I didn’t like the school to which he sent me.”
+
+19. CV generally avoids participial phrases. They sound too unusual for conversational taste. In this work, participles have become finite verbs in relative, adverbial, or independent clauses.
+
+20. Colloquial wording has sometime replaced standard grammatical formulae as with possessives before gerunds for agency: “They resented them teaching the people” (Acts 4:2) vs. standard English “resented their teaching the people”; 2 Thessalonians 2:5, “me telling you” vs. “my telling you”; 2 Corinthians 13:9 “you being strong”; note also Matthew 10:29; John 15:8. The difference comes from switching an -ing gerund to an –ing participle that looks and sounds the same. Another way of looking at it considers it indirect discourse with a participle for its verb. Retained possessives with gerunds include Romans 4:5; 9:11-12; 11:152; 2 Peter 2:12.
+
+21. CV tries to eliminate cumbersome assonance: “those that,” “think through.”
+
+22. In many lists, we have dropped coordinating conjunctions between their last two entries—and, or. (If a CV list does use a conjunction in that position, the “serial/Oxford comma” appears.) Omitting that coordinate conjunction gives the list a representative feel rather than exhaustive one. New Testament lists frequently have that “for example” character: Romans 1:23, 30, 31. Lists are a frequent features of Paul’s writings especially, so omitting the last and occurs frequently in his letters.
+
+23. Predicate nouns, direct objects, objective complements, retained objects, and indirect objects appear after the verb in sentences instead of using some kind of inverted order: Matthew 6:22 = Luke 11:34. Following that plan takes away some variety of expression, but it comes across more easily.
+
+24. All three forms of Greek indirect discourse come into English with a finite verb. Most frequently by far, Greek uses (a) ὅτι plus a finite verb after a leading verb of saying, the senses, and mental action. Greek can also use (b) an infinitive or (c) a participle for the verbal in the indirect-discourse part. English has virtually dropped those last two options. If purpose-clause formulas replace indirect-discourse constructions—as after “asking” or” thanking,” CV uses an infinitive phrase or some other format.
+
+25. To reduce the seeming overuse of direct discourse, CV has transformed direct into indirect discourse in many cases: Matthew 6:31; 9:30, 34; 12:10; 17:20; 21:3, 22; 26:67; 27:10, 64; 28:13, 63; Mark 3:30; 5:8; 6:24, 38; 14:58; Luke 5:14; 7:13; 14:17; 18:3; 19:3; 23:30; John 1:19; 2:3; 3:7; 4:10, 35; 5:11; 6:42; 9:11; 10:36; 12:27; 14:28; 13:29; 15:20; 16:5; 20:17; 21:12; Acts 16:35; Colossians 4:17; 1 John 5:20; Revelation 9:14.
+
+26. We have not always used distinctive reflexive forms for reflexive pronoun reference—myself vs. me: “I’ve applied these matters to me and Apollos to teach you . . .” (1 Corinthians 4:6). Older English often did the same thing, as in “Now I lay me down to sleep.” The American Standard Version (1901) has Ezekiel say, “The righteousness of the righteous shall be upon him [that is, on himself]” (18:20). In most cases, Greek, Latin, and English calls for using -self pronouns for restating the sentence subject if necessary for making the reference clear. Where no confusion arises, speakers dispense with the difference. Using reflexive pronouns in other than reflexive situations is a breach of standard usage, and so is avoided in conversation as well. English speakers often use reflexive pronouns to avoid sounding self-centered: “That is an issue between him and myself.” Such a situation does not arise in the New Testament text.
+
+27. CV uses Arabic numbers more frequently than style manuals normally suggest, especially where several occur in the same context.
+
+Hebrew grandiloqu3ence,gr
+
+Individual Words and Expressions
+
+a		(a) replaces the with nouns typical of their class: Mark 4:2; John 10:112, 14; 1 Corinthians 11:3; 12:51, 21; 1 Timothy 3:2
+
+The familiar case in Matthew 1:23 bears comment. The Greek carries an article on virgin: Ἰδοὺ ἡ παρθένος ἐν γαστρί ἕξει καὶ τέξεται υἱόν. The quotation comes from Isaiah 7:14. The LXX carries the article on παρθένος. Ιt does so perhaps because the Hebrew text behind it carries an article. Αrticle usage in Hebrew does not exactly parallel article usage in Greek, and neither parallels article usage in English. Hebrew could use its article for something known and definite to the writer, though not to the reader: note Genesis 14:13. For English purposes, the definite article implies the referent is known to both. The inference seems to be that no English definite article belongs in Isaiah 7:14 because the reader of Isaiah would not know about the virgin aside from the author’s comment.
+
+(b) as one translation of τις/τι
+
+(c) as an occasional translation of εἷς (one): Matthew 9:18; 12:11; 26:69; Mark 10:17.
+
+across from you rephrased as over there: Matthew 21:2 = Mark 11:2 = Luke 19:30 (but not in Luke 2:3)
+
+albeit	not used
+
+(is) able (to): usually replaced with can
+
+(is) not able (to): usually replaced with cannot
+
+also	often replaced with too, as well
+
+all			(a) often omitted when apparently indicating a generality instead of a uniformity—as seems to be the case in most examples. That tendency, in fact, applies to a majority of Greek absolute and universal terms: every, everybody, all, nobody, whole. Πᾶς is greatly overused in comparison to English all. Instead, English custom indicates generality by simple statement: “The people shouted, ‘Crucify him.’” It would not say “All the people shouted” (cp. Luke 24:9). In that respect, πᾶς carries the force of the Hebrew כל. The usage reminds us of such and such.
+
+(b) English speakers use all—and universal or absolute terms generally—as part of a construction for emphasis: “all that fussin’ around was just to get attention.”
+
+(c) replaced with every. Everyday English prefers every to all; it thinks of distributive plural instead of the examples as a set.
+
+amazed   The word translated amazed we have replaced with surprised when the incidents seem to emphasize that what happened was unexpected: Matthew 19:25; 21:20; 27:14; Mark 10:24, 26; 15:4, 44, etc.
+
+and		(a) omitted in lists and replaced by commas. The Greek text often puts and (καί) between list entries, as is the case with inseparable וְ (and) in Hebrew: Acts 6:5 (list of the seven chosen to serve table), 6:9 (list of nationalities in Jerusalem’s Hellenistic synagogue). (The Greek text can omit καί between items in a list: Titus 2:5.)
+
+(b) We have omitted and even between the last two entries in many lists, because New Testament lists often seem representative instead of exhaustive: 1 Corinthians 1:30; 2:3; 6:9-10; 1 Peter 1:5-8; 2:1; 4:3. Paul gives other virtue, vice, qualification, and general types of lists: Romans 1:29-31; 8:30, 35; 9:4; 14:17; 1 Corinthians 1:30; 6:9-11; 5:9, 11; 12:28; 2 Corinthians 6:4-6; 12:20-21; Philippians 4:8; 1 Timothy 1:10, 12; 3:2-7, 8-13; 6:17-18; 2 Timothy 3:10; 4:5; Titus 1:6-9, 10; 2:5; 3:9.
+
+(c) omitted even between two adjectives preceding a noun: “An evil, adulterous generation is straining to see a sign” instead of “An evil and adulterous generation is straining to see a sign” (Matthew 12:39; cp. 16:4).
+
+(d) “Jesus rebuked the demon, and it came out of him, and the child was healed from then on.” The alteration becomes ‘Jesus rebuked the demon, and it came out of him. The child was healed from then on” (Matthew 16:4).
+
+(e) in several places translated but where the two linked elements actually contrast, but the author still uses and (καί): Matthew 1:25; 11:17; 17:23; 20:10, 19; 21:30; 26:60; Luke 18:2; 19:48; 20:19; 21:18; 24:11; Luke 15:16; John 1:6; 7:28, 34; 8:52; 9:3; 14:22; 17:11; 20:14; Acts 7:5, 9; 10:38; 1 Corinthians 13:2, 3. Adversative καί comes into the gospels especially; perhaps the impulse to use it that way originated—as did several tendencies of New Testament Greek—from the Hebrew-speaking background of its writers. The Hebrew inseparable prefixed conjunction ו covered both conjunctive and adversative relationships. Its closest equivalent tended to pick up that same flexibility more often perhaps than Greek itself would have shown.
+
+and it came to pass generally omitted as wordy and unnecessary. The construction represents the Hebrew ויהי ו, which Greek covers somewhat artificially with καὶ ἐγένετο + preposition + infinitive, or some other run-up to the main clause. Normal English also does not have an expression like the Hebrew one.
+
+angel		(a) angel as in supernatural messenger from God. As such, it refers to a guardian angel for an individual (Matthew 18:10?) or perhaps the church in Revelation 1-3.
+
+(b) evangelist in +Revelation 1:20; 2:1, 9, 12, 18; 3:1, 7, 14. Apparently ἄγγελος carries the sense of εὐαγγελιστής and refers to the evangelist for the church or serves as an idealized term for that work however many individuals were doing it.
+
+another 	(a) not often used alone as a substantive. We have put a noun after it, as in another man.
+
+(b) The classical Greek distinction between ἕτερος and ἄλλος does not hold very well in the New Testament: another in kind (ἕτερος) vs. another in number (ἄλλος). The new difference is another viewed as distinct from (ἕτερος) vs. another viewed as in relationship to (ἄλλος). In Galatians 1:6-7, where both occur, we retained the classical distinction: “You’re turning away to a different kind of [ἕτερος] gospel that’s not really another [ἄλλος] gospel at all.”
+
+answered 	(a) usually omitted from the full expression answered and said
+
+(b) often omitted altogether after a question that the next sentence obviously answers. As with dialog generally, the respondent’s words begin on a new line without an introductory formula.
+
+anyone replaced with anybody as part of a general preference for –body indefinite pronoun in place of –one indefinite relative
+
+arise	often omitted when it introduces an action and the actor is not actually seated or lying down. It has the force of a Hebraism for ingressive action: Matthew 2:7 (cp. 14); Mark 10:1; 7:24
+
+as		rendered like for ὡς/καθώς as a conjunction in keeping with modern usage. The traditional as in such instances does not seem idiomatic: Luke 22:29; note examples in Hebrews: 3:8, 15; 4:2, 3, 10; 5:4; 9:25
+
+ass  	donkey
+
+aught	not used
+
+authority often replaced by right to present a more positive connotation
+
+baptize/baptism (a) used as loan words in most cases because they seem to label the act more than its action
+
+(b) Immerse/immersion appears where John’s baptism is linked to baptism in the Holy Spirit: “I’m immersing you in water, but he’ll ‘immerse’ you in the Holy Spirit” (Matthew 3:112; Mark 1:82; Luke 3:162; John 1:26, 33; Acts 1:52; 11:162. Paul tells Timothy to immerse himself in the use of his spiritual gift (1 Timothy 4:15). It seemed advisable to use immerse also in the account of Philip’s baptizing the Ethiopian eunuch, where the form of the action is more evident (Acts 8:38). Mark comments as well in 7:4 about the purification customs of the Jews and their immersing pots, etc. Wash might have served in Mark 7:4b if the writer is thinking of these as lustrations.
+
+(c) The baptism (of suffering) has the simple wording baptism instead of its evident meaning overwhelming by tribulation: +[Matthew 20:23 =], Mark 10:38, 39; Luke 12:50; 1 Corinthians 15:29.
+
+Bar-	Bar- on the front of names invariably means son of. Those names always appear here without a hyphen, even though originally they may have been written with a Maqqeph in Aramaic. They are evidently considered names rather than descriptions because they stand by themselves—they are not add-ons to another name. The exception here is Simon Barjonah in John 1:42; 21:15, 16, 17. The Greek text says Σίμον Ἰωάννου, Simon (son) of-John. Matthew 17:16 has Σίμων Βαριωνά. The other cases are as follows:
+
+Barabbas, the insurrectionist: Matthew 17:20, 21, 26; 27:17; Mark 15:7, 11, 15; Luke 23:18; John 18:40,
+
+Barjesus, the sorcerer: Acts 13:6,
+
+Barnabas, Paul’s companion missionary: Acts 5:36, etc.,
+
+Barsabbas, chosen as a possible replacement for Judas: Acts 1:23,
+
+Bartholomew, the apostle: Matthew 19:3; Mark 3:18; Luke 6:14; Acts 1:13,
+
+Bartimaeus: Mark 10:46
+
+In a related matter, CV has not used a comma after a name follow by “son of x” as in “x son of y.” On the analogy of Simon Barjonah (Matthew 16:17) and Timaeus Bartimaeus (Mark 10:46), the supposition has been that the full set would have been considered the name in most cases rather than a name plus a descriptive appositive: Balaam son of Beor (2 Peter 2:15); James son of Alphaeus (Matthew 10:3; Mark 3:18; Luke 6:15; Acts 1:13); James son of Zebedee (Matthew 10:2); John son of Zechariah (Luke 3:2); Joseph son of David (Matthew 1:20);  Judas son of James (Luke 6:15; Acts 1:13); Levi son of Alphaeus (Mark 2:14); Saul son of Kish (Acts 13:21); Sopater son of Pyrrhus (Acts 20:4); and Zechariah son of Berechiah (Matthew 23:35). One exception has been Judas son of Simon Iscariot because of the longer appositive (John 15:2).
+
+because often dropped as a subordinating conjunction. In English a hearer naturally takes the following clause as a reason for the preceding one when cause-effect, purpose-result fits the context: Matthew 4:17; Luke 6:20-21, 24-25; 1 Corinthians 2:14; 3:13.
+
+In modern usage because has come to cover both subordinate and coordinate values, previously because and for, respectively. When because introduces a clause that is both short and subordinate, no comma appears: When it introduces a long clause, a preceding comma usually does appear: If the because is covering an illative value for for, a comma or semi-colon shows that because has that value—or no conjunction is used at all: see earlier note. Consistency on these points is challenging!
+
+before replaced with in front of when indicating position rather than time. A positional use of before seems to appear less frequently in modern English usage. In front of translates ἔμπροσθεν, ἐνώπιον, ἐπί, and πρό in positional usages. A hearer first thinks of before as a time word, and then has to adjust to take it as a position word when the sentence proceeds as a position statement.
+
+began usually omitted because the New Testament has such a propensity for indicating the beginning of an action. English usually omits making a point of that fact, and lets the reader infer it. Note above the similarity with the use of arise.
+
+beget/begat (a) is/was father of
+
+(b) began in us (1 Peter 1:3)
+
+behold   always omitted—along with lo; both translate ἰδού and ἴδε;
+
+interjections generally have been omitted
+
+believe		 (a) in the name of him shortened to “believe in him”: John 1:12; 3:15, 16, 18; 2:23). The name of is Hebrew idiom for noting identity, something not considered necessary in English.
+
+(b) trust in often replaces believe in
+
+beloved    a word falling out of use except in the traditional beginning of a wedding ceremony; consequently, quite variously handled in CV
+
+(a) often omitted (Romans 16; 5, 9; 1 Corinthians 10:14; 2 Corinthians 6:7; 12:19; Philemon 12; 1 John 3:2; 4:11);
+
+(b) dearly loved (Matthew 3:17; Mark 1:9; Luke 3:22; Acts 15:25; Colossians 4:14; 2 Peter 1:17; Revelation 20:9);
+
+(c) dear (Mark 12:6; Luke 20:13; Ephesians 6:21; 1:6; Colossians 1:7, 13; 4:7, 9; 1 Thessalonians 2:8; 2 Timothy 1:2; Philemon 16; 2 Peter 3:15)
+
+(d) dear friend (Jude 17);
+
+(e) friend(s) (Romans 9:25; 16:8; 2 Peter 3:8; 2 Peter 3:8, 14; 1 John 2:7; 4:1; Jude 3, 17);
+
+(f) close friend (Romans 16:13);
+
+(g) loved (Romans 1:7; 1 Timothy 6:2; Philippians 4:1; Jude 1);
+
+(h) highly regarded (Romans 11:28);
+
+(i) I care about (1 Corinthians 4:14);
+
+(j) he loves (Ephesians 5:1);
+
+(k) I truly love (3 John 1);
+
+(l) dear fellow (servant) (Colossians 1:7)
+
+beware   expressed as watch out for (the leaven of the Pharisees: Matthew 16:6, 11; Mark 8:5; Luke 12:1), be careful (Luke 8:18; Acts 5:35; 13:40)
+
+bishop 		(a) Bishop appears twice to translate ἐπίσκοπος (Philippians 1:1; Titus 1:7; the other uses are Acts 20:28; 1 Timothy 3:2; 1 Peter 2:25+). We have retained it in Titus because it shows that the New Testament uses ἐπίσκοπος and πρεσβύτερος interchangeably. (Cp. also Acts 20:17 + 28 for the synonymy of those terms, even though we have used oversee in Acts 20:28.)
+
+(b) overseer in 1 Timothy 3:2; used once for Christ in 1 Peter 2:25; elsewhere a label for local leaders
+
+blaspheme 	(a) reserved for slanderous speech toward deity
+
+(b) insult, rail out at, slander, or equivalent expressions when directed at people
+
+blessed 	(a) bless/blessed used especially where one person is regarded favorably by another; μακάριος: Acts 3:26; etc.
+
+(b) replaced by fortunate (μακάριος). Paul before Agrippa, “Í consider myself fortunate to present my own defense” (Acts 26:2); cp. +Matthew 5:3, 4, 5, 6, 7, 8, 9, 10, 11; 13:16; Luke 6:202; 23:29; Romans 4:7, 8; 14:22; 1 Peter 3:14; 4:14; Revelation 14:13; 19:19.
+
+(c) good fortune in Romans 4:6, 9; James 1:25; 1 Peter 3:9
+
+boat 	the term for a smaller craft as used on Lake Galilee; ship used for sea-going vessels as on the Mediterranean.
+
+book 	(a) book in many places that could be talking about a scroll
+
+(b) replaced with scroll to translate βιβλίον in Revelation 5:1, 2, 3, 7, 9, because John could tell that the book with seven seals had writing inside and on the back. A codex would not necessarily show that. Scroll appears also in Luke 4:17-20 in connection with Jesus’ first rejection at Nazareth.
+
+brimstone replaced by sulfur
+
+brother 	(a) omitted if seemingly overused (Acts 15:40; 21:20; 22:5; Romans 1:13; 7:1, 4; 8:12; 16:17; 1 Corinthians 1:26; 2:1; 4:6; 7:14, 29; 10:1; 11:33; 14:6, 20, 39; 15:50, 58; 16:12; 2 Corinthians 8:1; Galatians 3:15; 4:28; 5:11; 6:1; Philippians 1:12; 1 Thessalonians 4:13; 5:4; Hebrews 3:12; James 1:2; 5:7; 2 Peter 1:20; 3:17)
+
+as a nod to inclusive speech, the following:
+
+(b) brother and/or sisters: Matthew 18:35; Romans 11:15; 14:13; 15:142; 1 Corinthians 1:10; 3:1; 12:1; 14:26; 15:1, 50; 16:16; 2 Corinthians 1:8; 13:11; Galatians 1:2; Philippians 3:1; 4:1, 21; Colossians 4:15; 2 Thessalonians 2:13; 3:15; 2 Timothy 2:14; James 2:1; 4:11; 5:19; 1 John 1:10; 3:17
+
+(c) (fellow) Christians: Acts 11:29; 14:2; 15:3, 33; 16:2; Romans 14:10, 15; 1 Corinthians 5:11; 6:1; 8:11; 1 Thessalonians 3:6; 1 John 3:14, 16; 4:202;
+
+(d) church: Acts 16:40;
+
+(e) converts: Acts 15:1, 32; 17:6, 14; 18:27; 21:7; 28:14, 15; Romans 16:14; 1 Corinthians 13:25; 16:11, 20; 1 Timothy 4:6;
+
+(f) disciples: Colossians 1:2; James 1:9, 10; 3 John 10;
+
+(g) equals: 1 Timothy 6:2
+
+(h) fellow believers: 1 Thessalonians 1:10; 5:26; 2 Thessalonians 4:21; Hebrews 13:1; 1 Peter 5:9; 1 John 2:9, 10; 3:10; 5:16; 3 John 5;
+
+(i) fellow Jews: Romans 9:32;
+
+(j) friends: Matthew 25:40; 2 Thessalonians 3:15; Hebrews 9:11 < Jeremiah 31:34;
+
+(k) replaced by somebody else’s (eye) (Matthew 7:3; 1 Corinthians 15:1)
+
+but   Uncapitalized but between adversative clauses almost always has a comma, even if the subject of the two clauses is the same. If the value of but seems emphatic, capitalized But following a period is used in place of the heavier, post-positive however.
+
+can In English, can has pretty well taken over the duties of may when meaning allow: “Yes, you can go.” May applies to contingent action: “That may happen if you don’t take your medicine,” a situation where can often appears. Most English speakers no longer limit can to be able.
+
+(a) certain one(s) traditionally used to translate the Greek indefinite pronoun τις/τι. We have let the English indefinite article (a/an) suffice when the text has a Greek singular τις, especially if followed by a noun: “He saw a certain poor widow” becomes “He saw a poor widow” (Luke 21:2, A certain (widow) seems redundant; “certain” can sound like the opposite of indefinite. In such cases, the wording becomes a (____); note Luke 15:11; 18:2; 23:19. With plural τινες, we have reverted to some.
+
+child/children (a) used only for immediate offspring, not for descendants
+
+(b) limited as an affectionate or familiar term; guys substitutes for it in John 21:5; sometimes replaced with kids: +Matthew 7:11; 11:16; 15:26; 19:13, 14; 21:15; Mark 7:11, 28; 10:13, 14, 15; Luke 7:32; 11:7, 13; 18:16, 17; 1 Corinthians 13:11; 14:20; Ephesians 6:4; 1 Thessalonians 2:7, 11
+
+(c) inhabitants of a city: Luke 19:44 (Jerusalem)
+
+Christ 		(a) replaced by Messiah in the gospels and Acts 1-12, which cover mostly activities in the Jewish arena;
+
+(b) kept generally as Christ in Acts 13-28, the epistles, and Revelation, which deal with the Gentile mission. As a reminder that Christ is the same as Messiah, Messiah is added in superscript after the first use of Christ in each epistle: ChristMessiah. Additionally, in several places that seem to connect conceptually with the Messianic anticipation, CV has arbitrarily added Messiah in superscript: Romans 5:6, 8; 9:3, 5; 1 Corinthians 10:4; 2 Corinthians 3:15; Galatians 2:21; 6:12; Colossians 1:20, 24; 1 John 2:22; 5:1; Revelation 11:15; 12:10. These are a few of the texts that highlight the stick point in the Jews’ acceptance of Jesus as Messiah: that he would suffer: Luke 24:25-28; John 12:34; Acts 2:32-32.
+
+church of God (a) the expression used in lower case if apparently an identity: +1 Corinthians 1:2; 10:32; 11:22; 15:9; 2 Corinthians 1:1
+
+(b) changed to God’s church as a descriptor: +Acts 20:28; Galatians 1:13; 1 Timothy 3:5
+
+Circumcision 	(a) capitalized when designating Jews collectively more than describing them: +Acts 10:45; 11:2; Romans 3:30; 15:8; Galatians 2:9, 12; Philippians 3:2, 3; Colossians 4:11; Titus 1:10
+
+(b) in lower case as a reference to the rite: Galatians 5:6, 11; 6:15; Colossians 2:11, 13, etc.
+
+city		(a) reserved for the largest urban places that are called πόλεις: Antioch, Athens, Bethlehem, Caesarea, Corinth. Damascus, Ephesus, Gaza, Gerasa, Hebron, Philippi, Jericho, Jerusalem, Lysea, Rome, Samaria, Sidon, Tarsus, Tyre. Because of uncertainty about the urban areas Paul and Barnabas went to on their first tour, we used the expression towns and cities to translate πόλεις in Act 15:36: Salamis, Paphos, Antioch of Pisidia, Iconium, Lystra, Derbe. We have kept Bethlehem as a “city” because of the familiar phrase city of David, though it probably would not have qualified as a city from the standpoint of size. The judgment call here is tentative because knowing the population for ancient places is difficult. A number of New Testament locations are not called πόλις; so the issue is moot for them.
+
+(b) Most other places called πόλεις we have called towns as a reflection of our sense that they were not large. Village translates κώμη for smaller country house groupings without public centers.
+
+Basing the rendering on supposed size contrasts with a more technical approach illustrated by Bethsaida. In A.D. 30, Herod Philip upgraded the earlier village (κώμη) into a city (πόλις) with certain features of status as an administrative center in the Roman provincial structure. Mark 8:22 calls it a (κώμη), Elsewhere it is called a (πόλις): Matthew 11:21 (< 11:20; hence, 6:45?); Luke 9:10; 10:13; John in 1:44 (hence, 12:21?). Of course, the two systems of designation tend to correspond.
+
+cock	rooster
+
+cold (water) weakened to cool; ancients around the Mediterranean would not normally have had ice to make drinks “cold” in todays’ parlance: +Matthew 10:42 (Luke 16:24).
+
+command(ment) sometimes weakened to tell or direct when authority is not prominent in the context
+
+conceived   replaced by became pregnant
+
+conceived and had a son    often shortened to had a son
+
+concerning   replaced with about
+
+confess 	(a) confess, if guilt is involved, as is its modern implication (Mark 1:5)
+
+(b) agree, regard themselves as, if agreeing with some fact, a meaning that plays on the word picture in ὁμολογέω, to say the same thing: “They regarded themselves as foreigners and temporary residents on earth” (Hebrews 11:13)
+
+(c) acknowledge that, say, Jesus Christ is Lord: “Everybody that acknowledges me in front of people, I’ll acknowledge in front of my Father in heaven” (Matthew 10:32).
+
+creature replaced with created being, as with the living creatures of Revelation 4:6; 5:6, 8, 11, 14; 6:1; 7:11; 14:3; 15:7; 19:4; not used to mean something created vs. the creator. Modern usage typically adds an unreal, abnormal connotation to the word.
+
+crowd kept singular in most cases for ὄχλος (used in the historical books) or λαός; people as an alternative translation: John 7:12, etc.
+
+cry (out) 	(a) covered by shout, as in John the Baptist’s “shouting” in the desert (Matthew 3:3; Mark 1:3; Luke 3:4; John 1:15, 23)
+
+(b) Cry is reserved for mourning, except for cases where people express obvious fear or when demons cry out.
+
+day	(a) day for a twenty-four hour period
+
+(b) daylight for when the sun shines
+
+(c) for indefinite time: Luke 5:35; 21:6, 22; 1 Corinthians 1:14; Revelation 6:17
+
+(d) last day recast as in the end (John 6:40, 54; 11:24)
+
+(e) NOTE on John 2:1: John traces a series of days in 1:19-28, 1:29 (“the next day”), 1:35 (“the next day”), 1:43 (“the next day”), and then 2:1 says “on the third day.” CV has taken “the third day” as after the immediately previous “morrow/next day” (1:43) rather than as a third day in sequence with the immediately preceding two “next days” in 1:35 and 43. (a)The location of Bethany (Bethabara?) beyond the Jordan River is unknown, but of the minimum five days in 1:19-2:1, the middle day seems still to be at Bethany because in 1:43 Jesus has not left for Galilee. It might be a stretch to walk from Bethany to Cana in two/three days while stopping by Nazareth with Peter, Andrew, Phillip, and Nathaniel on the way (2:2), maybe fifty miles as the crow flies. (b) There are four preceding days enumerated, not just two; “third day” does not sequence after four. It seems less likely to take only two of those four in speaking of a “third day” for 2:1. (c) A Sabbath may be included as well in the final set of three days as envisioned by this reconstruction. So the translation of 2:1 becomes “three days later,” that is, “the third day” after the previous “next day.”
+
+debts	not used for sins
+
+(the) deep called open water (2 Corinthians 11:25) or deep water (Luke 5:4). Elsewhere deep when used as an adjective: Acts 20:9; Romans 8:9; 2 Corinthians 8:2; Ephesians 5:32; Colossians 4:13; Revelation 2:24.
+
+demon	  one involved in “demon possession.” It serves as the pronoun for demons.
+
+deny 	(a) deny if referring to a fact
+
+(b) deny who ____ is if referring to an identity: “Whoever denies who I am in front of people, I’ll deny as belonging to me in front of my Father in heaven” (Matthew 10:33)
+
+desert	(a) desert for an inhospitable place
+
+(b) open country for an unpopulated, sparsely populated, or remote area as “deserted of people
+
+devil	only as a reference to Satan; there are many demons but one devil
+
+disbelieve/disbelief/disbeliever used instead of unbelief because unbelief could mean not believing because of not hearing: +Mark 6:6; [[16:16]]; Luke 12:46; John 3:18; 2 Corinthians 4:4; 6:15; 2 Thessalonians 2:12; 1 Timothy 1:13; Hebrews 3:18, 19; 4:6; 1 Peter 2:7; 4:17
+
+drink	usually omitted in the expression eat and drink: Matthew 6:25; 1 Corinthians 9:4; 11:22. In English, eating includes whatever is part of the meal
+
+dumb	not used, so never used to mean mute, that is, as designating someone who cannot speak
+
+edify dropped in favor of help (Even though it is not a close equivalent, it is a more everyday term): +Romans 14:19; 1 Corinthians 10:23; 14:33, 5, 12, 17, 26; 2 Corinthians 12:19
+
+(the) elect replaced by chosen ones/people; the elect may not be clear to people not acquainted with its specialized usage in Christianity: Matthew 24:22, 24, 31; Mark 13:20, 22, 27; Luke 18:7; Romans 11:7; 1 Peter 1:1
+
+election     choice or divine choice
+
+empire   the translation for οἰκουμένη: +Luke 2:1; Acts 11:28; 17:6; 24:5; see also world below.
+
+every    Contemporary usage often makes every and its cognates distributive plurals as shown by the plural pronouns sometimes used to refer back to them. CV has allowed that idiom in a few places like James 1:5, “If you need wisdom, ask God. He gives it generously to everybody without blaming them for asking.” Cp. Luke 4:20, “Everybody in the synagogue gave him their full attention.” Romans 13:7, “Pay everybody what’s due them.” See also Revelation 13:16.
+
+Every, like all, indicates a significant number rather than an absolute number. In Mark 1:5, for example, CV has said the people instead of everyone went out to have John baptize them. The religious leaders certainly did not.
+
+evil 		In the model prayer (Matthew 6:9-13), we have said “deliver us from the evil one [ἐκ τοῦ πονηροῦ],” rather than “from evil.” This first alternative takes it as a masculine substantive on the analogy of Matthew 13:19, “the evil one comes and snatches it away”; note also the evil one in Matthew 5:37; 13:38; John 17:15; Ephesians 6:16 (“the flaming arrows from the evil one”), 2 Thessalonians 3:3.
+
+1 John 5:18-20 makes it clear that the phrase means “the evil one” rather the “evil,” because the texts goes on to say that the whole world lies in “the evil one.” We would not expect the text to say that the whole world lies in “evil.” Besides, the passage goes on to contrast the world with us who lie in “the true one.”
+
+An alternative takes the genitive singular as a neuter substantive on the analogy of Matthew 5:11, “say all (kinds of) evil-things about you.”
+
+CV has often substituted words like bad and sinful for evil because the latter seems too strong. Bad may be too weak, and sinful is too narrow. Sinful has more to do with behavior whereas evil can cover undesirable circumstances that come to the sinner.
+
+eyes		(a) eyes when indicating the organ for sight
+
+(b) eyelids where Jesus “touched the eyes” in healing blindness: +John 9:6, 11, 15 (the man born blind), Matthew 9:28 (two blind men), Matthew 20:34 (two blind men at Jericho)
+
+(c) “in the eyes of,” an example of body-part speaking, usually replaced with a circumlocution if indicating someone’s way of looking at something/someone; similarly, “open the eyes of” (caused to see as with the man born blind in John 9:30); “eye fell on”; “lifted up the eyes” (for “looked”)
+
+faith		(a) Faith translates πίστις as in Hebrews 11, where the term’s broad meaning applies as seen by how the Hebrew writer describes the faithful ones he cites.
+
+(b) Trust translates πίστις in salvation contexts of (Romans, Galatians, and in some other places). Paul’s point is that the decisive act in salvation lies in divine choice rather than in human effort (whether formal, interpersonal, or behavioral). His reasoning rests on Habakkuk 2:4 and its terminology. As in all cases of renewing broken interpersonal relationships, the one “saved” from the alienation (lostness) can only “trust” the other to forgive and receive back into the relationship (reconciliation). In that light, our translation of Habakkuk 2:4 as worded in Romans 1:17 and Galatians 3:11 is, “A good person will have life by trusting.” Hebrews 10:38 reads, “My good person will have life by faith,” because the Hebrew writer applies it broadly throughout the upcoming examples in chapter 11.
+
+(c) Believe translates πίστις when information more than relationship is the topic. James 2:14-26 demonstrates this usage of πίστις/πιστεύω, something even demons do. We believe ideas; we trust persons.
+
+(d) We have considered believe in as a verb-form construction equal to faith as trust.
+
+fall down  in some cases replaced with kneel down: Matthew 9; Mark 3:4; Revelation 4:10; 5:8, 14; 19:4
+
+father(s) 	(a) reserved for a parent
+
+(b) sometimes replaced by dad: +Mark 9:21, 24; Luke 9:42; 15:21; John 4:53; Ephesians 6:4; Colossians 3:21
+
+(c) not used for ancestors
+
+See the entry for sons, a correlative term with father; that is, the range of applications for one word corresponds to the range of usages for the other.
+
+fear 		(a) fear in the normal sense
+
+(b) covered by less extreme terms like respect (Acts 9:31) or take heed (1 Tomothy 5:20). Like hate and rule, the word φόβος covers a wider range of degrees than the English fear.
+
+fear and trembling (a) The expression seems too extreme in some examples: 1 Corinthians 2:3; 2 Corinthians 7:15; Ephesians 6:5; Philippians 2:12.
+
+(b) perhaps a hendiadys: trembling fear, as in “felt fear” vs. mental apprehension.
+
+See also comments on “double entry” herein.
+
+Feast   entered as festival when speaking of the stated Jewish “feasts,” especially in John’s gospel: Matthew 26:5; 27:15; Mark 14:1, 2; 15:6; Luke 2:41, 42; 22:1; John 4:45; 5:1; 6:4; 7:2, 8, 11, 14, 37: 10:22; 11:56; 12:12, 20; 13:1, 29; Colossians 2:16
+
+(at the) feet (of) __ The phrase is an example of Hebrew’s body-parts idiom. It implies subordination to the person named. We have largely avoided the expression, saying instead
+
+that Jairus came and knelt in front of Jesus (Mark 5:22);
+
+that the healed demoniac was sitting by Jesus (Luke 8:35);
+
+Mary fell down to Jesus (John 11:32ms);
+
+that Paul studied under Gamaliel (Acts 22:3);
+
+that God subjected everything to Christ (1 Corinthians 15:27).
+
+flee	sometimes replaced by run away, escape, get away from
+
+flesh 	English seldom speaks of flesh in the sense of “meat,” except perhaps in medical circumstances. Finding alternatives for the frequent use of the word (σάρξ) has proved difficult.
+
+(a) Physical sometimes works: John 1:13, 14; 3:22; Romans 1:3-5; 9:3, 5; 9:8; 13:14, etc. Physical also covers for σαρκινός (Romans 7:14) and σαρκικός (Romans 15:27).
+
+(b) Flesh and blood becomes other people (in contrast to God) as in Jesus’ observation about Peter’s Good Confession (Matthew 16:17). See also Galatians 1:16; Ephesians 6:12.
+
+(c) In the flesh falls out altogether when Paul speaks of “your masters according to the flesh” (Ephesians 6:5). His reference seems clear enough without the added phrase.
+
+NOTE: Finding a replacement for “flesh” is especially difficult because Paul uses that “body-part” term as a code word for self-centered living (Romans 8:1-19). To satisfy the “flesh,” something must be taken into it. The words body and meat do not usually function well in that regard.
+
+(d) We have rendered it “body” in Ephesians 5:29.
+
+follow me   come (on) with me as in the calling of various disciples: +Matthew 4:19; 8:22; 9:9; 19:21; Mark 1:17; 2:14; 10:21; Luke 5:27; 9:59; 18:22; John 1:43.
+
+for      used only as a preposition: “for the Lord”; not as a conjunction
+
+English has lost the for-because distinction. For falls out, and because serves as coordinating conjunction (for) and subordinating conjunction (because). That is one reason writers have to think whether to insert a comma ahead of because, which is done especially when it has coordinate conjunctive value.
+
+Besides, the Greek word γάρ (for) often carries an illative sense rather than a logical or causal sequence. The wording after for expands on the previous point rather than giving a reason or cause for it. Aside from translating classical works, English does not use for as illative; it is reserved for use as a preposition: “He did it for me.”
+
+Beyond these points lies the English tendency to omit altogether any word for the causal connection between two statements, coordinate or subordinate. The listener makes the connection automatically for contextual reasons; hence, for and because end up being omitted.
+
+forever translates εἰς τοὺς αἰῶνας, to the ages
+
+forevermore translates εἰς τοὺς αἰῶνας τῶν αἰώνων, to the ages of the ages
+
+(for the) forgiveness of sins  John’s “baptism of repentance to forgive sins”: Mark 1:4; Luke 3:3; without the added prepositional phrase (Acts 13:24). Note also Christ’s blood “shed for remission/forgiveness of sins” (Matthew 26:28); “baptism to [identity with] Christ [identity with whom serves as the basis] for the forgiveness of sins” (Acts 2:38; cp. 8:16; 19:5; Romans 6:3; Galatians 3:27) in contrast to “baptized to Paul” (1 Corinthians 1:13, 15), “baptized to Moses” (1 Corinthians 10:2); “baptized to repentance” (Acts 19:4).
+
+foundation    founding as in the founding of the world: Matthew 13:35; 25:34; Luke 11:50; John 17:24 (“before the world existed”); Ephesians 1:4 (“founded the world”); Hebrews 1:10 (“founded the earth”); 4:3 (“founded the world”); 9:26 (“since the world began”); 1 Peter 1:20; Revelation 13:8; 17:8. English uses foundation for the basis of a structure or what a foundation can serve to represent. Foundation as the act of founding has fallen out of English usage.
+
+fruit 	(a) used only for what trees produce or some plant item that is sweet (There is a more technical use, but we have dispensed with that usage.)
+
+(b) grain, produce, result
+
+(c) descendant, offspring, your baby translates καρπός in other situations (Luke 1:42; Acts 2:30)
+
+fulfill  		 (a) fulfill as the accomplishment of a prediction
+
+Fulfill is a correlative term with prophesy; that is, the range of meanings for the one matches the range of meanings for the other.
+
+(b) Matthew 2:23 says Nazareth fulfills Isaiah’s prophecy about a “shoot” that comes out of Jesse (nezer, shoot [נצר]; Isaiah 11:1; 53:2). The connection evidently lies in the sound of the word for “shoot” in the Messianic prediction. So we have rendered it reminds us of. We have supposed that Matthew does not intend to claim that Jesus’ living in Nazareth directly fulfilled an Old Testament prediction; it was a fitting fact.
+
+(c) Matthew 2:15 cites Hosea 11:1, “I’ve called my son out of Egypt.” But son refers to Israel, not to Israel’s Messiah. The connection lies in the fact that God constituted Israel—of whom Messiah was the future leader—as a separate nation, rather than a subunit under Egypt. We have rendered it in keeping with.
+
+(d) Matthew 13:14 we have supposed illustrates Isaiah’s more general description of Israelites as “hearing but not comprehending,” etc. (Isaiah 6:9-10). The passage appears not to reference Jesus’ immediate audience particularly (cp. Mark 4:12; Luke 8:10; John 12:40; Acts 28:26-27; as well as Romans 10:16; 11:8). If applied in multiple situations, the Isaianic text is not a specific prediction of any one of them
+
+So the similar uses of fulfill—as not meaning fulfilling a specific prediction, but as a class reference applied to this situation—in Matthew 8:17; 13:35 are translated accordingly.
+
+generation	 (a) people today (Luke 7:8-35), at this time
+
+(b) their own kind (Luke 16:8)
+
+Gentiles  In the New Testament, Gentiles regularly refers to non-Jews. It is something of a specialization of the Hebrew word for nations in the Old Testament. Only in New Testament citations of Old Testament texts where nations occurs does Gentiles show up as the Old Testament translation of גוֹי (to show OT-NT connection): Deuteronomy 32:43; Psalm 2:1; 18:49; 117:1; Isaiah 9:1; 11:10; 42:1, 49:6; Amos 9:12. If nations does not contrast with Jews, it can carry it elemental meaning; otherwise Gentiles is its natural translation.
+
+give	(a) frequently give in the normal sense
+
+(b) allow: To give someone to do something means to let them to do it: John 3:27; 6:65; 10:11; Acts 13:35. As such it follows the usages of the Hebrew נתן.
+
+(c) offer, make available (Acts 11:18)
+
+glory	(a) sometimes brightness (Acts 22:11)
+
+(b) give credit to (Acts 12:23)
+
+(c) honor covers instances where glory seems too extreme or foreign for current usage of the English term: Luke 2:32; John 7:18; Romans 9:4, 23, 24; 15:7; 1 Corinthians 2:7; 10:31; 15:43; 2 Corinthians 1:20; 8:19, 23; Philippians 3:19; 1 Thessalonians 2:6, 12, 19; 2 Thessalonians 2:14; Hebrews 3:3; 2 Peter 1:3; Revelation 14:7. Honor could not be substituted in passages that also gave the regular word for honor (τιμή: Romans 2:7; 1 Timothy 1:17, etc.). Glory was kept in places that applied it to God.
+
+go	(a) used only for traveling
+
+(b) sometimes omitted as an ingressive marker: “(Go) tell that old fox” (Luke 13:32)
+
+(c) “go __” retained especially if movement is involved: Matthew 5:24; 8:21; 9:13; 13:28; 18:15; 19:21; 21:28; 28:10, 19; Mark 6:37, 38; 16:7
+
+Go in peace   replaced with “Have a good day” (Mark 6:34; Luke 7:50; 8:48; Acts 16:56), hardly having the same quality, but more akin to what we would say.
+
+God		(a) capitalized in reference to the Father (or perhaps to the Godhead)
+
+(b) lower case for pagan deities (Acts 17:18; 1 Corinthians 8:5; Acts 7:40; 14:11; 17:18; Galatians 4:8),
+
+idols used to represent them (Acts 19:262; 1 Corinthians 8:5), and
+
+leaders under God (John 10:34, 35 < Psalm 82:6)
+
+(c) translated deity in passages where θεός seems not to refer to God as an individual but to deity as a kind of being: +John 1:1, 18; 5:18; 10:33; Acts 17:29; Philippians 2:6; Colossians 2:9; 2 Thessalonians 2:42; 1 John 5:20. Our assumption has been that such passages used θεός as the noun equivalent of the adjective θεῖος, divine/deific. As such, it is a synonym for the hapax legomenon θειότης (Romans 1:20).
+
+God-fearer 	(a) the translation for four times in Acts where Luke uses σεβόμενος to designate a believer in God not officially joined to Judaism as by circumcision: 16:14 (Lydia); 17:4, 17; 18:7 (Titus). The specialized term is a substantive participle that comes from a verb meaning to worship; hence, a worshiping one, devout one, godly one. As a participle modifier, it describes devout proselytes (13:43) and women in Antioch of Pisidia (13:50). The full verb σεβέομαι translates to worship in 18:13 (God) and 19:27 (Artemis) as well as in two quotations of Isaiah 39:13 (Matthew 15:9 = Mark 7:7).
+
+(b) the translation for four times in Acts where Luke uses the phrase φωβούμενοι τὸν θεόν (“the ones fearing God”), which we have taken as a semantic equivalent to the other expression: 10:1, 22 (Cornelius); 13:16, 26.
+
+God forbid replaced with “goodness, no” to translate μὴ γένοιτο, literally, it ought not be: +Luke 20:16; Romans 3:4, 6, 31; 6:2, 15; 7:7, 13; 9:14; 11:1, 11; 1 Corinthians 6:15; Galatians 2:17; 3:21. Equals the God forbid in older translations
+
+gospel	      gospel or message when εὐαγγέλιον and εὐαγγελίζομαι are a label for the Christian message, and good news when εὐαγγέλιον highlights content. The passages involved are Matthew 4:23; 9:35; 11:5; 24:14; 26:13; Mark 1:14, 15; 8:35; 13:10; 14:9; [[16:15, 20]]; Luke 1:19; 2:10; 3:18; 4:18; 7:22; Acts 8:25, 35, 40; 10:36; 13:32; 14:7, 14, 21; 15:7; 20:24; Romans 1:1, 9, 16; 2:16; 10:16; 11:28;  15:16, 19; 16:25; 1 Corinthians 1:17; 4:15; 9:12, 14, 16, 18, 23; 15:1; 2 Corinthians 2:12; 4:3, 4; 9:13; 10:14, 16; 11:7;  Galatians 2:5, 7; 3:8; 4:13; Ephesians 1:13; 3:6; 6:15, 19; Philippians 1:12, 16, 272; 2:22; 4:15; Colossians 1:23; 1 Thessalonians 1:5; 2:2, 4, 8, 9; 3:2, 6; 2 Thessalonians 1:8; 2:14; 1 Timothy 1:112; 2 Timothy 1:8, 10; 2:8; Philemon 13; Hebrews 4:2, 6; 1 Peter 4:6, 17; Revelation 14:6, and other texts.
+
+In Galatians 1:6-12 we retained gospel throughout; another kind of “good news” would not fit the situation very well.
+
+grave		(a) grave for a burial place dug in the ground (ταφή/τάφος);
+
+(b) tomb for an erected burial chamber or one hewn into a hillside (μνημεῖον, Luke 11:47);
+
+Sepulcher, crypt, vault, and burial chamber are not used.
+
+great 	(a) used only for quality,
+
+(b) not used for size (except Revelation 20:11); replaced by big, large, huge, even tremendous to describe the big herd of 2,000 pigs (Matthew 8:30 and parallels)!
+
+greet/salute reduced in number in Paul’s lengthy set of salutations in Romans 16:1-24 and Colossians 4:7-17.
+
+hand		(a) regularly hand as the meaning of χείρ
+
+(b) In the context of Christ’s crucifixion, we have used wrist, supposing that the spikes were likely driven between the ulna and the radius there (John 20:25, 26). That manner of driving the spike would also be less likely to break a “bone,” which texts elsewhere say did not happen with him.
+
+(c) omitted as a body-part term for agency: John 13:3
+
+harlot  prostitute
+
+hate 		(a) In love-hate combinations, we have said love more than (cp. Genesis 29:30 re Rachel and Leah; Malachi 2:1-2 < Romans 9:3 re Jacob and Esau).
+
+(b) Sometimes we have taken hate to mean Loves less than (Luke 18:46).
+
+(c) Disregard or neglect can work occasionally (as in Ephesians 5:29).
+
+NOTE: This kind of weakening, strengthening, and bending of terms comes from the Hebrew tendency to use words for what is a less degree of the same thing, what leads to the same thing, what grows out of the same thing, what is like the same thing. Jesus demonstrates the principle in the Sermon on the Mount when he “enlarges” the murder prohibition to include hate, and the adultery prohibition to include fostering lust (Matthew 5:21-27; cp. 1 John 3:15).
+
+he		(a) always he/himself in reference to the Holy Spirit because the Spirit as to nature has personal characteristics. The mistake in King James Version at Romans 8:26 was perhaps a slip because of the grammatically neuter Greek word for spirit/Spirit (πνεῦμα). Grammatical gender does not correspond to physical sex reference particularly. Note the same issue applies to βρέφος (n.) “baby.” The American Standard Version likewise makes a doubtful use of ít for the Spirit in Acts 8:16: “as yet it had fallen on none of them” (changed to he in NASB). The ASV does similarly in 1 Peter 1:11.
+
+(b) It is the translation for all the several other uses of πνεῦμα that do not refer to deity: spirit vs. letter, spirit as part of the human make-up; attitude, wind, breath. The it pronoun we have used as well for demons with their depersonalizing effects on the ones they possessed; we have applied he to God and angels
+
+head 		(a) head when referring to a person’s physical head (1 Corinthians 11:1-10, etc.)
+
+(b) head when referring to Christ as “head” of the church (Ephesians 1:22; Colossians 1:18, etc.)
+
+(c) head as the one responsible for the family, including his wife (Ephesians 5:23)
+
+hear 	used only for hearing a sound	, not for listening or obeying (heeding)
+
+heart	replaced with mind in Mark 8:17, with to herself in Revelation 18:4
+
+heaven (οὐρανός/οὐρανοί)
+
+unless translated sky, always rendered heaven in the singular on the supposition that the Greek plural reflects the Hebrew word, which is a dual form.
+
+(a) heaven for God’s dwelling place (note Paul’s third heaven and Paradise; 2 Corinthians 12:2)
+
+(b) sky for where birds fly, clouds drift, and celestial bodies appear. Heaven and earth changed to earth and sky in the combination: +Matthew 5:18; 24:35; Mark 13:31; Luke 10:21; 16:17; 21:33; Acts 17:24; 2 Peter 3:7, 13; Revelation 20:11; 21:12
+
+The uncertainty between option (a) and (b) can be difficult to overcome. In Colossians 1:16 and 20, for example, do not seem to use heaven the same way though they are near each other, It seems surprising to say that Christ “created everything in heaven(s)” (1:16) if it means God’s dwelling place; but in the second text it seems surprising to speak of Christ’s “making peace with things in the sky” (1:20). So CV has sky in the first (with Christ as firstborn over all creation, which he could pre-exist) and heaven in the second. Perhaps heaven refers to everything that is not earth, whether sky or Paul’s “third heaven” (2 Corinthians 12:2); so the referents are not distinguishable terminologically but by context—with the possibility of blurred usage. Creation predominates here in the first verse while reconciliation predominates in the second.
+
+(c) capitalized when a substitute for God: Luke 10:18, 21
+
++Hebrew  	(a) The Hebr- root is once translated “Aramaic” in John 19:20 (cp. Luke 23:38ms), one of the three languages of the superscription on the cross. Presumably Pilate would not have known classical “Hebrew.”
+
+The next entry (b) would justify saying “Hebrew” even here for a different reason, and the short inscription would probably not have involved a Hebrew-Aramaic variant since Pilate probably wrote in a consonantal text (vowel points came centuries later).
+
+(c) translated Hebrew elsewhere in John’s writings because the translation of “Hebrew” names into Greek equivalents implies consideration for the Greek audience he primarily addressed: John 5:2; 19:13, 17; Revelation 9:11; 16:16. A Gentile readership might not operate with a Hebrew-Aramaic distinction in mind.
+
+(d) Acts 26:14 carries Hebrew on the chance that the Lord in his appearance may have addressed Paul in classical Hebrew, which might explain how the fellow travelers heard a voice (Acts 26:14) but did not understand (Acts 22:9) Christ. Hebrew also appears in Paul’s defense before the mob in Jerusalem, who gave him their attention when they heard him speak in Hebrew (Acts 21:40; 22:2). Was it because they heard him speaking in Aramaic rather than Greek, or because he was speaking in classical Hebrew rather than Aramaic? Did their greater silence (22:2) come from having to concentrate more intensely to understand his Hebrew? All these notations depend on how well the general populace would understand classical Hebrew. Nehemiah 8:1-8 speaks of translating the Law so the people could understand. Those new repatriates to Palestine evidently did not have a good grasp of the Hebrew in the Torah.
+
+(e) translated Hebrews when in reference to nationality/race (Acts 6:1; 2 Corinthians 11:22; Philippians 3:32)
+
+As it works out, Hebrew could probably have been sufficient in all these cases: because the same word customarily covered both for foreign audiences, because Pilate’s consonantal heading would have been the same in Hebrew or Aramaic, or because circumstances of usage in Paul’s conversion and the report of it to the Jerusalem mob are not clear enough to warrant inferring classical Hebrew. Such are the uncertainties of translation work.
+
+henceforth   replaced with from now on
+
+herein   not used
+
+he’s		(a) contraction for he is in most cases;
+
+(b) in quite a number of passages, a contraction for he has: +Matthew 11:18; 17:12; Mark 7:37; Luke 4:18; 7:23; 14:29; John 4:22, 24, 26, 27; 6:39, 46; 10:20; 11:25, 39; 15:16; 16:13; Acts 13:33; 17:312; 21:28; Romans 1:20; 2:6; 5:11; 2 Corinthians 1:19; Philippians 3:262; Colossians 1:8; 2 Timothy 1:11. 14; 1 Peter 2:21; 3:22; 2 Peter 1:9; 1 John 4:13, 202; Revelation 22:12.
+
+holy	Its basic meaning is set apart from general use to a special one.
+
+(a) That has led to using holy for deity, angels, and divine things.
+
+(b) legitimate as opposed to illegitimate children: 1 Corinthians 7:14 in reference to the offspring of a mixed marriage with an unbeliever; possibly also Luke 1:35 regarding the Holy One [βρέφος, neuter] begotten as in “the [considered] legitimate [baby] will be called the Son of the Most High” (vs. being the bastard son of an unmarried couple)
+
+(pay) homage or bowed down to (a) when directed to other than God: Acts 10:25, Cornelius to Peter (+cp. Matthew 2:2, 8, 11)
+
+(b) worship when directed to deity
+
+Keeping the ideal distinction proves uncertain in the New Testament historical books because of the difficulty of assessing the awareness of, say, the Magi when they see Jesus (Matthew 2:11), the disciples in the early parts of the Lord’s ministry, members of the general population that come to Jesus for help and healing. The same problem corresponds with whether to capitalize “lord” in reference to deity.
+
+hour		(a) hour used only for a specific amount of time: “third hour of the day,” etc., 9 o’clock
+
+(b) replaced with time for an indefinite point in time
+
+(c) not for a minute (Galatians 2:5)
+
+(d) a.m. and p.m. could replace o’clock
+
+house/household   sometimes replaced with family, which can allow for extended family and perhaps servants: John 4:53; 1 Timothy 3:12
+
+household appears when a much larger situation is indicated: Caesar’s household (Philippians 4:22); likewise in Mark 14:35; Acts 7:10 (Pharaoh); Acts 10:1, 7, 14 (Cornelius); 2 Timothy 2:21.
+
+however  Between adversative statements, replaced by but except in Philippians 3:16 and Hebrews 2:9. However as an adverb of manner occurs in Matthew 17:12 = Mark 9:13; 2 Corinthians 1:20.
+
+husbandman    vine dresser
+
+if	replaces the more formal whether for introducing indirect questions. English speakers seldom distinguish between if for condition and whether for indirect question (+Matthew 26:63; Mark 3:2; 10:2; 11:13; 15:36, 44: Luke 3:1, 15; 6:7; 14:28; 14:1; 23:6; John 7:172; 9:18, 25; Acts 4:19; 10:18; 17:11; 19:2; 1 Corinthians 1:16; 2 Corinthians 2:9; 13:5). Interestingly, the Greek word εἰ regularly serves both purposes as well. Whether has been kept for statements of alternatives between real options; if addresses positive vs. negative (conditionality).
+
+immediately We have greatly reduced the number of usages, especially in Mark’s gospel (for εὐθύς). Mark seems to use it like οὖν (then) in John’s gospel, and not much more specific than and (καί and δέ) in the other gospels. Such frequent usage “wears the edge off” of immediately and reduces it to something like then or next in what the writer wants to tell
+
+in/inside/within In Luke’s classic quotation of the Lord (17:21), we have departed typical renderings (inside you, within you, in you, in your midst) in favor of interpersonal. Ἐντός occurs only twice in the New Testament—here and in Matthew 23:26. Knowing what the “kingdom” turned out to be, we have read back into Jesus’ wording the character of the “kingdom” as we understand it. It has a non-locational nature—“not here or there”; it is held together by the “bonds of love,” not by geography, nationality, race, or some other non-interpersonal characteristic; it is not spread or established by military activity (John 18:36) but by influence (Matthew 28:18-20), and it is eternal and timeless (2 Peter 1:11).
+
+in order that + clause    replaced by an infinitive phrase to indicate purpose whenever possible: “I’m saying this to benefit you” (1 Corinthians 7:35)
+
+iniquity     sin
+
+insurrectionist the translation used for Barabbas and the two “thieves” crucified with Jesus. Rebel seems not strong enough because it does not necessarily indicate their being part of a larger group (Mark 15:7). Their designation λῃστής can be thief, but in this circumstance something more serious must be involved than stealing. Murder was involved for Barabbas in their endeavors (Mark 15:7; Luke 23:19, 25; Acts 3:14). An insurrectionist is someone involved in trying to overthrow the government or to incite riot. In that endeavor, murder fits and would be a more likely crime for carrying the death penalty, especially with the Roman government.
+
+into 	(a) usually replaced by to for destination as to a city or province
+
+(b) sometimes replaced by in when speaking of entering something: “He got in the boat.”
+
+is        	rendered amounts to: Romans 2:25; 1 Corinthians 3:19; Ephesians 5:5, 28; Colossians 3:5; James 4:4; 1 John 2:15
+
+is characterized by (1 John 4:16)
+
+it	(a) references impersonal things or abstractions
+
+(b) generally avoided as an expletive as in “It is necessary to fulfill all righteousness.”
+
+(c) used instead of her for a country, ship, city, etc., as traditional references
+
+(d) used also for demons except in Matthew 12:44-45
+
+(e) not used for the Holy Spirit (in contrast to ASV for Acts 8:16; ASV for Romans 5:5; Ephesians 1:13-14 (which); KJV for Romans 8:21)
+
+Jehovah   not used; Jehovah is an artificial word created from mixing the consonants of the Hebrew Tetragrammaton (יהוה), God’s personal name, and the vowels from אֲדֹנָי (“my Lord”). The result is יְהֹוָה.
+
+joy 	used often, even though the word does not commonly appear in conversational English. In some places we have replaced it with excitement and excited: Matthew 13:44; 28:8; Mark 16:8; Luke 10:17, 202; John 20:20; Acts 12:4; 15:3. Happy serves also—as something of a weak equivalent that has the feel of depending on what “happens.” Joy has more the feel of a sense of well-being or positive mental attitude; but those ideas are difficult to capture in efficient wording
+
+kid 	sometimes used in place of child/children as an affectionate term or as a term for immature people: +Matthew 7:11; 11:16; 15:26; 19:13, 14; 21:15; Mark 7:11, 28; 10:13, 14, 15; Luke 7:32; 11:7, 13; 18:16, 17; 1 Corinthians 13:11; 14:20; Ephesians 6:4; 1 Thessalonians 2:7, 11
+
+kill 	(a) put to death in cases of legal execution
+
+(b) murder for killing people illegally
+
+(c) kill rather than slay for animals and people generally
+
+King of kings  For familiarity purposes, CV keeps the traditional expression, which always combines with Lord of lords even though the Hebrew idiom has no exact English equivalent. The closest might be something like, “He’s a man among men,” or “the best of the best.” It is a kind of superlative, meaning “the Lord/King over everything else,” “the lord/king with the highest ranking among lords/kings.” See 1 Timothy 6:15; Revelation 17:14; 19:16. In earlier political situations like the king of Babylon, Nebuchadnezzar was the king over the kings of individual subdued countries. That arrangement may also contribute to the idiom.
+
+kingdom of God   (a) kingdom of God if it sounds more like a title
+
+(b) God’s kingdom if it sounds like a description—note parallelism in the “needle’s eye” texts: +Matthew 19:24; Mark 10:23, 25; Luke 18:25
+
+lampstand   lampstand in +Hebrews 9:2; Revelation 1:12, 20; 2:1, 5; 11:4
+
+(b) simply stand: Matthew 5:15; Mark 4:21; Luke 8:16
+
+law		(a) Even when articular, νόμος translates to law (identity, lower case) when contrasted to grace/faith: “Moses gave law; Messiah brought grace and truth [reality]” (John 1:17); law as a kind of thing.
+
+(b) translated the Law as an identity—not in contrast to faith-grace—but as if in contrast to another law. Galatians 3:15-26 is a text where we have mixed law (kind of thing) and the Law (the Mosaic Law as an identity). The Mosaic Law, of course, has the characteristics of law as such. In Paul’s comments, the Law is CV’s rendering in 3:17, 19 and law in 3:18, 21, 23 because Paul is concerned with the kind of thing law is in contrast to grace/faith/promise/give.
+
+(c) CV translates νόμος with quotes around “law” (of Christ) to show a specialized use of the word to refer to the gospel in Christianity as the corresponding element for the Law of Moses in Judaism—even though the gospel in the Christian system is different in kind from the Law in the Mosaic system. Christ’s system (“law”) is correlative with the Law of Moses, so Paul applies the same term to it “adjusted.” As such, it refers to a pattern of things: Romans 3:273; Galatians 6:2; 1 Corinthians 9:21. A similar “principle” usage—but aside from the Mosaic law—appears in Romans 7:21, 232; 25.
+
+(d) law when referring to a law within the full body of law
+
+leaven	replaced with yeast wherever possible (except for 1 Corinthians 5:8 and references to the standardized title Feast of Unleavened Bread)
+
+lest	replaced with for fear that, so that . . . not as introductions to fear clauses; general circumlocution may also replace the fear clause: “lest at any time you trip over a rock” becomes “so you’ll never trip over a rock” (Matthew 4:6)
+
+let		(a) avoided wherever possible as a translation for the Greek third person imperative: “let him hear.” Strictly speaking, English has no third person imperative; English substitutes the let construction, in which let loses its sense of “allow” and approaches an imperatival value.
+
+(b) Let’s for hortatory subjunctive (first person plural), that is, exhortation: “He’s the heir; let’s kill him” (Luke 20:14; often elsewhere).
+
+like 		(a) frequently a conjunction in place of as: “Shouldn’t you have been merciful like I was with you?” (Matthew 18:33; see also 5:48; 6:2, 7, 10, 12; 13:35, 44; 18:33; 20:28; 25:32; 27:10; 28:6; etc. cp. 1 Corinthians 16:10).
+
+(b) retained as a preposition: “like a mustard seed” (Matthew 13:31, etc.)
+
+lo	usually omitted along with behold as translations of ἰδού and ἴδε. English often dispenses with “attention fixers,” perhaps instead using “look” (I want to help you, but . . . ”). Note Look in John 19:5, 14.
+
+LORD		(a) all caps when obviously referring to the deity Yahveh: LORD
+
+angel of the LORD (Matthew 1:20, 24 [omitted]; 2:13, 19; 28:2; Luke 1:11; 2:9b; Acts 5:19; 8:26; 12:7, 23)
+
+Old Testament quotations: Matthew 5:23; 21:9; 27:10; Mark 12:11; Luke 4:18; Acts 2:20, 21; 4:26; 7:33, 49; Hebrews 7:21; 12:6; 1 Peter 1:25;
+
+(b) kept in lower case (κύριος) for people addressing other people and angels or when someone speaking to Jesus was not likely to have recognized him as deity
+
+(c) sir in several cases to Jesus: +Matthew 8:2, 6, 8, 21; 9:28 (omitted); 17:15; Luke 5:12; 7:6; 9:59; 19:8; John 4:11, 15, 19, 49; 5:7; 6:34; [[8:11]].
+
+In something of a special case, we have used Sir as Saul’s address to the Lord during his appearance to him (Acts 9:5; 22:8; 26:15). The translation assumption was that Saul at first did not know who he was talking to—an angel, the angel of the LORD, a person Saul had previously put to death, the “angel” of an executed disciple. Otherwise, why ask? That should have been clear from the preceding question “Why are you persecuting me?” Maybe it was more of a bewildered response with no definite addressee in mind.
+
+(d) sir to others besides Jesus: +Matthew 25:11; 27:63; Luke 2:9a; 13:8, 25; 19:25; John 20:15; 12:21; Acts 9:5 (cp. 22:10); 10:4 (Cornelius to the angel), 14; 11:8; 1 Peter 3:6 (Sarah to Abraham); John to one of the twenty-four elders in Revelation 7:14
+
+Tying capitalization to deity creates the same problem that shows up with “worship” vs. “pay homage, bow down to.” See below under worship.
+
+Lord of lords Because of its familiarity, CV keeps the traditional expression that is always coupled with “King of kings” even though the Hebrew idiom does not have a close English parallel. “X of x” is a kind of superlative reference, meaning “the Lord/King over every other lord/king,” “the one with the highest ranking among lords/kings.” See +1 Timothy 6:15; Revelation 17:14; 19:16.
+
+LORD 		(a) the all-caps rendering of κύριος in the New Testament in quotations of, or references to, the Old Testament that carry the Tetragrammaton or refer to it:
+
+Matthew 1:22; 2:15; 3:3; 4:7, 10; 5:33; 21:9, 42; 22:37, 44; 23:39; 27:10;
+
+Mark 1:3; 12:292, 30, 36;
+
+Luke 2:23; 3:4; 4:8, 12, 18; 4:19; 10:27; 13:35; 19:38; 20:37, 42;
+
+John 1:23; 12:13, 382;
+
+Acts 1:20, 21, 25, 35, 39; 3:22; 4:26; 7:31, 33, 49; 8:39; 13:47; 15:172;
+
+Romans 9:28, 29; 10:13, 16; 11:3, 34; 12:19; 14:11; 15:11;
+
+1 Corinthians 1:31; 2:16; 3:20; 10:26; 14:21;
+
+2 Corinthians 6:17, 18; 10:17;
+
+2 Timothy 2:192;
+
+James 5:10;
+
+1 Peter 1:25; 3:12;
+
+Jude 5.
+
+(b) the rendering of κύριος in the New Testament in references to other than the Lord Jesus and having the phraseology of Old Testament texts that refer to the God of Israel:
+
+Matthew 1:20; 2:13, 19; 11:25; 24:22; 28:2;
+
+Mark [2:28]; 11:10; 12:11;
+
+Luke 1:9, 11, 15, 16, 172, 19, 25, 28, 32, 38, 43, 45, 46, 58, 66, 76; 2:92, 15, 22,
+
+23, 26;
+
+Acts 1:24, 47; 3:20; 4:29; 5:19; 12:7, 11; 12:17, 23; 13:15;
+
+Romans 4:8;
+
+2 Corinthians 10:18;
+
+Hebrews 8:2;
+
+James 5:10;
+
+Jude 9, 14;
+
+Revelation 4:8, 11; 11:15, 17; 15:3; 16:7; 18:8; 19:6; 22:6.
+
+(c) in the expression “angel of the LORD”: +Matthew 1:20; 2:13, 19; 28:2; Luke 1:11; 2:9; 5:19; 8:26; 12:7, 23
+
+(d) in the mouth of Jesus to God: Matthew 24:22; Mark 13:20; Luke 10:21;
+
+Lord	kept in c & lc when referring to Jesus by the authors of the New Testament books or as expressed by Jesus’ disciples to him: Matthew 8:25; 14:28; 1 Timothy 1:14, and the majority of New Testament references.
+
+(a) κύριος variously translated when not referring to Jesus: Luke 10:2 (harvest foreman);
+
+(b) Acts 25:26 (my superior);
+
+(c) master of a slave (Matthew 6:24; 10:24, 25; 13:27; 18:31; 24:48; 25:20, 22, 24; Luke 12:36, 37, 42, 46; 13:8; 14:22; 19:16, 18, 20, 25; John 13:16; 15:15; Acts 16:16, 19, 30 (sirs); Romans 14:4; Ephesians 6:5, 9; Colossians 3:22; 4:1;
+
+(d) sir by general audience member to Jesus and others: Matthew 8:2, 6, 8, 21, 25; 9:28; 14:28, 30; 15:22, 25, 27; 16:22; 25:11, 22; Mark 7:28; Luke 14:23; John 4:11, 15, 19, 49; 5:7; 6:34, 68; 12:21; 20:15; Acts 16:30 (sirs); Revelation 7:14.
+
+(e) “Lord of the Sabbath” handled differently from literal wording: Matthew 12:8 = Mark 2:28 = Luke 6:5 (“Person takes precedence over Sabbath.”)
+
+(f) owner in Matthew 20:8; 21:40; Mark 12:9; 13:35; Luke 19:33; 20:13, 15; Acts 16:16
+
+(g) omitted where the number of vocatives seems excessive as per English custom: Matthew 15:27; 16:22; 20:33; Mark 10:20; Luke 9:54; 10:16; 11:1; 17:37; 19:8, 18; John 13:37; 17:24; Acts 6:3; 13:38; 26:7
+
+loud voice    shout
+
+love	replaced in a few cases by care/caring to get away from the romantic—or at least emotional—connotation the English term has picked up: John 12:43; 2 Corinthians 2:4, 8; James 1:12; 2:5; 1 John 3:10, 11; Revelation 3:19 (φιλέω).
+
+lust/s	replaced by desires or drives
+
+man		(a) retained when referring to a husband (ἀνήρ) and when in direct contrast to woman. When in contrast to God, animal, child, or idea, some kind of appropriate alternative comes into play for inclusive language purposes; see next comments.
+
+(b) replaced by a person, people, indefinite pronouns (2 Corinthians 4:6; Revelation 18:23), you advisedly (John 11:9-11), they advisedly (ἄνθρωπος), (hu)mankind (John 1:4; Acts 15:17; 22:15; Revelation 9:15, 18, 20), fellow(s) (Acts 16:20, etc.), servants (3 John 8).
+
+(c) replaced by plurals: 1 Corinthians 14:23-25, etc.
+
+(d) Christians (Galatians 1:2)
+
+many		(a) usually omitted as overused compared to English custom; left out or replaced especially if used as a pronoun/substantive adjective
+
+(b) often replaced with a lot of/lots of
+
+marry	replacement for the habitual phraseology marry and given in marriage. In light of the arranged marriage custom, Greek/Hebrew idiom mentions both sides of the process.
+
+master		(a) translates δεσπότης; Lord/lord usually renders κύριος
+
+(b) translates ἐπιστάτα, a vocative term for the Lord unique to Luke: +5:5; 8:24, 43; 9:33, 49; 17:12
+
+may 	for contingent action only: “That may happen in two weeks”; hence, used for “may” vs. “is/will,” rather than “may” vs. “can.”
+
+(the) morrow     tomorrow
+
+(“in/into the) name (of”) (a) shortens to (in/into) . . . x. The customary phraseology seems unnecessarily long in some “name” usages. Believe in the name of shortens to believe in.
+
+(b) Name draws attention to “identity with”; so we have not removed the longer form in the Great Commission (Matthew 28:18-20): Jesus charged the apostles with presenting the good news to people in every nation and identifying them with the Messiah. The same emphasis on identity comes with a longer wording of the first command to identify with Jesus as the Messiah, so that on the basis of that identity with him—total, permanent, exclusive—God would view them as sinless like Messiah, grant his Spirit to them, and incorporate them into the body of Christ (Acts 2:38-42). The baptizing in those texts was what the people were commanded to do as the manner of expressing their willingness to respond to God’s condition for his gifts (cp. Galatians 6:3, 27). A parallel example surfaces in Paul’s comment to the Corinthians: he was glad he had not baptize more people than he did, lest the critics in Corinth would claim he baptized into his own name (1 Corinthians 1:15). Cp. comments above on for the forgiveness of sins.
+
+nation		(a) usually becomes country in cases of national reference
+
+(b) avoided as a designation for a smaller people group like the Kickapoo nation;
+
+replaced by Gentiles when in contrast to Israel: Matthew 12:18, 21 (< Isaiah 42:1, 4); 24:9, 14)
+
+(fell on his) neck    hugged (Luke 15:20; Acts 20:37)
+
+nobody replaces no one; indefinite pronouns in ___body take precedence over ____one: anybody, everybody, nobody, somebody
+
+none can be treated as singular or plural. In Romans 14:7, for example, CV uses it as plural to conform to inclusive language: “None of us live to ourselves or die to ourselves,” instead of “None of us lives to himself . . .”
+
+no one     nobody
+
+nor	dropped even when it would combine with neither; replaced by or (+John 9:3; Acts 15:10; 19:37; Galatians 5:6; 6:15)
+
+not		(a) negatives in modern usage appear before the verb rather than the direct object: “We don’t have such a custom” in place of “We have no such custom” (1 Corinthians 11:16); “Love not the world” becomes “Don’t love the world” (1 John 2:15).
+
+(b) double negatives are not used (including “can’t help but”). They are quite common in Greek for emphasis—even triple negatives (Matthew 25:9, μήποτε οὐ μὴ, “There will certainly not at all be enough for you and us”)!
+
+(c) negatives as part of litotes fall away because we have eliminated most examples of it. Litotes is a figure of speech that affirms by denying the opposite. The effect is emphasis or variety of expression; “No mean city” becomes “a prominent city” (Acts 21:39).
+
+O	always omitted before vocatives as per current English custom: +Matthew 15:28; 17:17; Mark 9:19; Luke 9:41; 24:25; Acts 1:1; 13:10; 18:14; 27:21; Romans 2:1, 3; 9:20; 11:33; Galatians 3:1; 1 Timothy 6:11, 20; James 2:20
+
+of	CV reduces the number of of’s as much as possible because they can be too ambiguous. Of is the standard equivalent for the Greek genitive case when it ties one noun to another or indicates that part of the object is affected by the verb. We have supplied other, more specific prepositions to satisfy English expectancy as per context and nature of the case.
+
+(a) of for appositional genitive is sometimes omitted: “the cities of Sodom and Gomorrah” becomes “Sodom and Gomorrah” or “the cities Sodom and Gomorrah” (Acts 10:22; John 3:22). When readers can likely tell that the preposition’s object is a city rather than a country, etc., cities of is unnecessary.
+
+(b) replaced with about as in “the gospel of Christ” changed to “the good news about Christ”
+
+(c) replaced with ’s: We have usually kept kingdom of God to make noticeable the difference between Matthew’s kingdom of heaven (except 6:33; 12:28; 19:24; 21:31, 43) in place of kingdom of God in parallels in the other synoptic gospels. Church of God keeps the of construction (except Acts 20:28) in parallel to kingdom of God/heaven. See essay entitled “Kingdom of Heaven/Kingdom of God/Church.”
+
+(d) replaced with an adjective for the second noun in descriptive genitive usages: “God of peace” becomes “peace-giving God”;
+
+“money of blood” becomes “blood money” (Matthew 27:6);
+
+“judge of unrighteousness” becomes “unrighteous judge” (Luke 18:6);
+
+“unity of the spirit” becomes “spiritual unity” (Ephesians 4:3);
+
+“scheming of deceit” becomes “deceitful scheming” (Ephesians 4:14);
+
+“sons of disobedience” becomes  disobedient people” (Ephesians 5:6);
+
+“the sword of the Spirit” becomes “a spiritual sword” (Ephesians 6:17);
+
+“evil heart of disbelief” becomes “an evil, disbelieving heart” (Hebrews 3:12);
+
+“a hearer of forgetfulness” become “a forgetful hearer” (James 1:25);
+
+“children of obedience” becomes “obedient children” (1 Peter 1:14).
+
+Note also Matthew 5:22; Galatians 5:22.
+
+On the ambiguity of the genitive, see above under “Ambiguities in the Greek Language Itself.” The same ambiguity pertains to the Hebrew construct state in the Old Testament and the “of” prepositional phrases in English. The proliferation of genitive constructions in the New Testament comes in part from the fact that New Testament writers were operating from a Hebrew-Aramaic background.
+
+once   CV has translated ἅπαξ (once) once and for all to keep it as a time word distinguishable from number, from one time vs. two: Romans 6:10; Hebrews 7:29; 9:12. 26; 10:2; 1 Peter 3:18; Jude 3. 5.
+
+or		(a) appositional or drops out altogether: Mark 4:30, “What can we compare God’s kingdom to? What’s it like?” vs. “What will we compare God’s kingdom to, or what’s it like.?”
+
+(b) appositional genitive means the second noun is another way of referring to the same referent as the first noun, not to a second thing. “City of __” affords an example: city of Samaria, city of Thyatira, city of Lysea. These phrases could be reduced to Samaria, Thyatira, Lysea if city of were not advisable to inform readers that these nouns were cities rather than, say, provinces.
+
+one	The indefinite pronoun is not used as a free-standing indefinite pronoun as in “One does not . . . .” It is used as an indefinite pronoun if modified by a relative clause as in, “He is the one that did so and so.” It does get regularly compounded with any-, some-, and every-. In reference to deity, one is capitalized as an exception to not capitalizing pronouns in reference to deity.
+
+one(s) The one(s) ___ing can cover for Greek (a) articular substantive participles and adjectives. In their place we have often used indefinite relative pronouns (___ever) or something equivalent.
+
+The one(s) can also cover (b) stand-alone Greek articles that serve as quasi-pronouns. CV substitutes the appropriate personal pronoun (1 Corinthians 15:23).
+
+One another  (a) In format one, A does toward B what B also does to A: one another covers cases like “love one another.”
+
+(b) In format two, A does toward B what C does to D, etc. Some of those cases are clear under the one another expression, like “They would kill one another” (Revelation 6:4). In other cases like Ephesians 5:21, CV uses one to another, each other to signal that the author intends this second format. The sometimes suggested “mutual submission” idea misses the point of the household teaching segment in Ephesians and elsewhere; masters do not submit to servants or parents to children.
+
+only	have allowed some “misplaced” only’s as people do in casual conversation: Mark 8:14; John 13:10; 1 Timothy 5:23
+
+open		(a) used for general purposes;
+
+(b) replaced with unroll (vs. roll up) in Luke 4:17, 20 and Revelation 5:2-5 regarding a writing because the texts evidently deal with a scroll
+
+own	The intensive reflexive pronouns your own, etc. (ἴδιος, used for any person and number) are often reduced to a possessive adjective: her/his own husband/wife becomes her/his husband/wife. Ιntensity seems to be beside the point in such cases: 1 Corinthians 14:35; Ephesians 5:22, 28, 33; 1 Peter 3:1).
+
+peace    Peace to you becomes simply “Hello”: Luke 24:36; John 20:19, 26 (20:21 not restated)
+
+people		(a) for indefinite reference in the plural: Matthew 5:11, 13
+
+indefinite reference can be the point of men (ἄνθρωποι), somebody (τις/τι), the plural Greek article (οἱ//αἱ/τὰ) as a quasi-pronoun, plural articular substantive adjectives (Matthew 12:16), plural articular substantive particles.
+
+Cp. person below
+
+(b) People translates λαός and ὄχλος; crowd is an alternative term for them. Multitude has fallen out of familiar usage.
+
+perhaps    replaced by maybe as less formal sounding
+
+person for indefinite reference in the singular: as indicated by a free-standing singular Greek article, by the indefinite pronoun τις, by ἄνθρωπος, by a singular substantive adjective, by a singular substantive participle
+
+Cp. people above for the same possibilities with plural indefinite references
+
+please 		(a) for an urgent request in place of the traditional rendering I beg of you, for translating δέομαι (+Luke 8:28; 9:39; Acts 21:39; 26:3; 2 Corinthians 5:20) or ἐρωτάω σε (+Luke 14:18, 19).
+
+(b) simply added to soften the imperative (+Mark 5:23; Acts 9:38; 10:26)
+
+preach usually replaced with present (Acts 8:35; 14:21; Romans 2:16; 15:19, etc.) or deliver (Matthew 4:23; 9:35; 24:14; Mark 1:14; 14:9; 16:20; Luke 3:19, etc.)
+
+The English word has become a religious term or one that carries a negative connotation.
+
+predict one translation of προφητεύω when it is, in fact, predicting the future, as a possible rendering of 1 Peter 1:1
+
+(chief/high) priests translated chief priests and high priests depending on whether the text (ἀρχιερεύς) is speaking only about Annas and Caiaphas or is more generally the main priests. Matthew 26:47 says that chief priests (ἀρχιερέων) were at the arrest of Jesus, and the whole group took Jesus to Caiaphas the high priest (ἀρχιερέα).
+
+Hebrews 5-8 exegetes Psalm 110:4, which says among other things, “You are a priest after the order of Melchizedek.” In his comments, the Hebrew writer switches back and forth between priest and high priest. CV likewise switches back and forth as well even though both terms apply to the same person in that text.
+
+prison 		(a) jail, especially if not a lengthy confinement: Matthew 5:25; Luke 12:582; 20:12; Acts 4:3, 19-23; 12:4-6, 17; 16:23-40; 22:4, 19; 23:10; 2 Corinthians 11:23; Revelation 2:8
+
+(b) prison if long term:
+
+John’s imprisonment: Matthew 11:2; 14:3, 10; Mark 6:17, 27; Luke 3:20; John 3:24; 18:39
+
+Barabbas: Matthew 27:15, 16; Mark 15:6, 7; Luke 23:19, 24
+
+Paul’s imprisonments in Rome along with his fellow prisoners (Acts 23:18; 24:27; 25:14, 27; 27:1, 42; 28:17; Romans 16:7; Ephesians 4:1; Philippians 1:7, 13, 14, 18; Colossians 4:3, 10; 2 Timothy 1:8; 2:8, 9; Phil 1, 8, 13, 23
+
+the law as a prison: Romans 7:6. 23
+
+Rome as a prison: Revelation 18:2
+
+Spirits and Satan held in prison: 1 Peter 3:19; 2 Peter 2:4; Revelation 20:7
+
+general reference: Matthew 18:30; 25:36-44; Luke 22:33; Hebrews 10:34, 36; 13:32
+
+The principle about shorter and longer confinement applies to prisoner, imprison, and imprisonment as well.
+
+proclaim  replaced often with present, announce, or deliver
+
+prophecy/prophesy Prophesy can mean (a) predict the future (“foretelling”), which is what usually comes to mind when people hear the word. That is the way CV translates it when prediction is apparently the point.
+
+It can more broadly (b) speak on behalf of another regardless of content (“for-telling”). In this use, CV has rendered it communicate in 1 Corinthians 14:1-5. Paul contrasts προφητεύω with “speaking in a language people cannot understand.” Speaking that way would not be communicating anything; so, actually communicating something must be the apostle’s meaning for προφητεύω here. Later, in that same vein, CV says, “If everybody is ‘speaking on behalf of’ God, and an unbeliever or layman comes in, they’ll be convincing him and calling him to account” (14:24).
+
+An even broader reference (“forth-telling”) happens in Matthew 26:68, where Pilate’s soldiers are slapping the blindfolded Jesus and saying, “Prophesy to us, Christ; who slapped you?” CV says, (c) “Tell us, ‘Messiah,’ who slapped you?” Here Jesus is not even “speaking for another.” (The soldiers may have been “hyping” the term as part of their mockery because he had claimed to be a prophet and the Messiah.)
+
+publican     replaced with tax collector
+
+pursue    follow, if not with harmful intent (διώκω)
+
+rebel   see insurrectionist above
+
+rebuke   replaced often by the more current word reprimand to avoid the former’s negative connotation, but kept with Jesus’ commands to the natural elements (Matthew 8:26 = Mark 4:19 = Luke 8:24) and to demons (Matthew 17:18; Mark 1:25; Luke 9:42) and in Michael’s words to the devil (Jude 9)
+
+remission   forgiveness (of sins)
+
+reproach	replaced by disgrace, disparage, and the like
+
+reveal/revelation In texts where these words indicate Christ’s return, CV substitutes coming or return to clarify the point, even though the two expressions use different word pictures.
+
+righteous(ness) The words have disappeared from everyday use, and there are no good substitutes for them. Good has replaced righteous in several passages even though it is a weaker term. Goodness works in Luke 18:9; John 16:10; Acts 13:10; 17:31; 2 Corinthians 6:14; 9:9.
+
+rule		(a) manage has been CV’s term in household and church settings: +1 Timothy 3:4, 5; 5:14, 17. Also appropriate is be responsible for, oversee the operation of, have greater authority than. Words traditionally translated rule cover a greater range of degrees than the English rule; rule has a “heavy-handed” feel (cp. fear, hate). Given the fundamental character of the Christian faith as interpersonal, such a sentiment does not fit Christian leadership in principle.
+
+Greek words traditionally translated rule include ἄρχω (Mark 10:42), ἡγέομαι (Hebrews 13:7, 17, 24 for elders), ποιμαίνω (Matthew 2:6, Messiah), προΐστημι (Romans 12:8; 1 Timothy 3:4, 5, 12; 5:17).
+
+Rule and submit are correlative terms (cp. son/father, prophesy/fulfill). What nuances belong to one belong to the other. What CV has done with one side, it has endeavored to do with the other.
+
+(b) Rule/ruler comes in often, as in Titus 3:1; Revelation 12:5, etc.
+
+Sabbath  	(a) capitalized when a reference to Saturday, the Jewish national “rest day.”
+
+(b) the Sabbath for a specific Sabbath: Matthew 28:1; Mark 1:21; 6:2; Luke 23:56; Acts 13:14, 42, 44; 16:12
+
+(c) Sabbath as a generality or kind of thing: Matthew 12:5, 8; Mark 2:272, 28; 15:42; 16:1; Luke 6:5; 23:54; John 5:18; 9:16
+
+(d) a Sabbath: Matthew 12:10, 11, 12; 24:20; Mark 2:23, 24; 3:1, 4; Luke 4:31; 6:1, 2, 7, 9; 13:142, 15, 16; 14:1, 3, 5; John 5:9, 16; 7:22, 232; 9:13, 31; 19:31
+
+sackcloth  replaced by burlap
+
+salute/greet   reduced in number in Paul’s long set of salutations in Romans 16:1-24 and Colossians 4:7-17.
+
+save	(a) reserved for saving from sin (σῴζω).
+
+(b) heal for diseases,
+
+(c) exorcise for exorcisms
+
+Savior   capitalized throughout the New Testament because always in reference to Jesus Christ
+
+(I) say (unto you)    I’m telling you (some thirty times in CV)
+
+saying  Virtually always omitted as a free-standing participle. The habitual use of saying ahead of a direct quotation reflects the Hebrew לֵאמֹר as a marker for direct quotations. Translating it creates a redundancy in English, “He spoke to him, saying.”
+
+sea		(a) replaced by lake since the internal bodies of water in Palestine do not qualify as seas in current English usage: Lake Galilee, Lake Tiberias (+John 6:1, 23; 21:1), Lake Gennesaret (+Matthew 14:34; Mark 6:53; Luke 5:1). The Dead Sea would meet the requirements, but the New Testament does not name it.
+
+(b) called sea when referring to the Mediterranean Sea (Simon the tanner beside the sea (Acts 10:6, 32), in Revelation because it evidently refers to the Mediterranean Sea, the Red Sea (1 Corinthians 10:1, 2), places that mention sand of the sea (Romans 9:27).
+
+Sea of Galilee   Lake Galilee: +Matthew 4:18; 15:29; Mark 1:16; 7:31; John 6:1; 21:1
+
+Sea of Gennesaret   Lake Gennesaret: +Luke 5:1
+
+Sea of Tiberias   Lake Tiberias: +John 6:1; 21:1
+
+see	see again as a possible translation of ἀναβλέπω in Jesus’ healings of the blind, because they do not all seem to have been born blind (Mark 8:24, “I see men like trees, walking”; cp. Acts 9:12, 17, 18; 22:13 re the apostle Paul). That assumption plays on the prefix ἀνα- to mean again rather than (to look) up either to heaven (Matthew 14:19) or up ahead (Mark 16:14). The point cannot be pressed, because seeing again could be called seeing in the sense of looking up. Besides, ἀναβλέπω occurs in the account of the man born blind (John 9:11, 15, 18). So, it is best to rely on context for detecting the difference. That can leave the matter unresolvable in several cases
+
+seek 	used only for look for, which often replaces it
+
+not used if conative try to
+
+seize	reduced usage; replaced with grab, arrest, capture
+
+-self/selves (reflexive pronouns, intensive reflexive pronouns, and intensive-reflexive adjectives)
+
+(a) Reflexive pronouns “reflect” the subject of their clause. English sometimes uses a simple pronoun if the reference is clear: “You always have poor people with you [ἑαυτοῦ]” (Matthew 26:11). When they are direct objects, –self pronouns come into play consistently: “I hurt myself.”
+
+(b) Intensive pronouns emphasize the noun they restate, and thereby create a contrast with parallel possibilities. In CV, intensive pronouns consistently fall at the end of their clauses, as in “I did it myself” (rather than immediately after the noun they intensify, “I myself did it.”).
+
+(c) Intensive reflexive adjectives (ἴδιος) ideally combine the previous two elements. Vocabulary lists typically add own to my, you, his, her, and their to distinguish the English usage from simple possessive. But that addition intensifies as well as possesses—a feature English often drops. For one’s own, we have simply said her, etc.: defer to your own husband becomes defer to your husband (Ephesians 5:22; cp. 1 Corinthians 14:35; Titus 2:5; 1 Peter 3:1). Her own sounds like her husband rather than somebody else’s husband; the writer surely did not mean that.
+
+servant    the translation for δοῦλος in a majority of cases. Practically everybody that works for somebody is called a “slave.” That seems unlikely. Mark 1:20 does speak of “hired servants” that were working for Zebedee (Mark 1:20).
+
+serve	replaced with wait on when rank is aside from the issue: Peter’s mother-in-law waited on them right after Jesus healed her (Matthew 5:15).
+
+shall 	(a) not used; replaced with will or going to for futures indicatives
+
+(b) replaced with a command form in cases of the Greek imperatival future
+
+she’s	(a) contraction for she is
+
+(b) sometimes a contraction for she has: +Matthew 26:10; Mark 14:6, 9; Luke 7:45; Romans 16:2
+
+ship	reserved for larger, sea-going vessels; boat used for smaller craft as on Lake Galilee
+
+sir	See entries above under LORD.
+
+sit/sat 	In place of sit down or sat down, CV has used reclined at table, because the customary eating position seems to be resting in at least semi-prone position on “couches.” The custom shows through when John leaned back on Jesus’ chest at the Last Supper to ask who the betrayer was (John 13:25).
+
+sky	instead of heaven unless apparently referring to God’s dwelling place
+
+slave	usually rendered servant (δοῦλος) to remove some of the harshness in the word slave. The term occurs so often, we wonder whether it carries a broader reference in the New Testament. CV keeps slave in Colossians 3:11; Revelation 18:13.
+
+sleep	(a) translated die/death when used euphemistically for death
+
+(b) asleep replaces the adjective dead
+
+so		(a) one way of indicating purpose (along with simple infinitives): “I’ve made myself a servant to everybody so I can win more of them” (1 Corinthians 9:19).
+
+(b) one way of indicating result (along with εἰς τὸ infinitive) either with an infinitive or the indicative. The classical distinction between tendential result (so as to) and actual result (so that) does not hold well in the New Testament. The actual-result formula appears in about twenty places, including Matthew 19:6: “ . . . so they’re no longer two but one” (= Mark 10:8).
+
+The tendential formula, the majority usage, appears in Mark 1:45: “ . . . so he was no longer able to go into a town openly.” If we maintain the tendential distinction here, the statement means “so he tended not to be able to go into any town openly.” In this passage, we rendered it tendential: “ . . . so he had a hard time going into a town openly anymore.”
+
+Some places sound more like an inference of thought than a result of action: “So don’t take pride in people” (1 Corinthians 3:21).
+
+Using so by itself—without that or as to—leaves the matter unspecified. The difficulty there is that a typical English reader would probably not have reason to think about the actual-tendential distinction.
+
+Punctuation with so can be complicated and indefinite.
+
+(1) CV does not usually place a comma ahead of so when it introduces a purpose statement, unless the purpose construction is especially long.
+
+(2) When so introduces a result clause, a comma usually appears before it: Mark 1:45; 3:9, 14, 32; etc.
+
+(3) In longer instances with so as result, a semicolon separates the clauses: John 12:50; Acts 16:3; 20:3, etc.
+
+(4) If the break before the result seems significant, a period precedes the clause and So is capitalized in the next sentence: Hebrews 4:14; 10:1; 11:16, etc.
+
+(5) With the feel of an even greater break, there may be a period and So followed by a comma as a kind of replacement for therefore: Matthew 22:28; 25:13; Acts 2:30; 19:13; 26:19; Romans 3:1; 5:12; 6:21; 7:4, 13; 8:12; 11:11; 15:19; `1 Corinthians 3:21; 4:5; 7:33; 8:4; 14:39; 2 Corinthians 4:1; Galatians 3:19, 21; 4:16; Ephesians 2:11; Philippians 2:1, 12; 3:1; 4:1; 2 Thessalonians 2:15; Hebrews 3:7; 1 Peter 1:21; 2:1, 9. On occasion,
+
+(6) so is omitted in the purpose-result complex: “they’re no longer two but one” (Mark 8:10). The rationale is the same as for omitting because when the purpose-result is obvious without statement.
+
+someone somebody   Somebody appears in less formal circumstances.
+
+Son	(a) capitalized in reference to Jesus;
+
+(b) lower case for other references
+
+son of man   a person; reference to a typical person: Matthew 12:8, “A person is more important than the Sabbath” or “A person takes precedence over Sabbath” instead of “The Son of Man is Lord of the Sabbath.” Taken s a reference to Jesus would, of course, work  too.
+
+Son of Man   as a reference to Jesus capitalizes both nouns: Matthew 24:30, etc.
+
+sons  	when not referring to biological sons, rendered children in the interests of inclusive language: Matthew 5:9; Luke 16:8, Galatians 4:5, 6, 7, 28, etc.
+
+sons of   (a) replaced by descendants of when not referring to immediate offspring;
+
+(b) like when covering a descriptive genitive: Matthew 23:31; Luke 6:35; Colossians 3:6
+
+(c) participants in (the resurrection): Luke 20:36
+
+sound   the translation for φωνή, when not referring to a person; voice, when a person is making the sound.
+
+spirit/Spirit   (a) capitalized for deity, that is, when classed with Father and Son, especially when combine with Holy.
+
+(b) CV has reduced Spirit to spirit in several cases involving descriptive genitive and the like:
+
+when contrasted to flesh (John 3:5-7; Romans 8:4; Galatians 5:16-24; Philippians 3:3; Ephesians 6:17 in context; 1 Timothy 3:16 e.g.)
+
+when in contrast to other parts of a human being: body, soul, and spirit (1 Thessalonians 5:23)
+
+when referring to angels (Hebrews 1:7)
+
+when referring to people in the intermediate state (1 Peter 3:19)
+
+when vs. letter referring to the intended meaning of scripture (Romans 2:29; 7:6;
+
+2 Corinthians 3:62)
+
+when in reference to evil spirits, unclean spirits, demons that were exorcised: Matthew 8:16; 10:1; 12:28, etc.
+
+when seeming to indicate the attitude Christians have that comes from God’s influence in us: “We know he’s in us by the spirit he’s given us” (1 John 3:24, for example); note as well our rendering of the textual variant in Luke 5:55b: “you don’t know what mentality/attitude you’re supposed to have.”
+
+The Greek word πνεῦμα also means (c) wind (John 3:8; Hebrews 1:7) and (d) breath (Matthew 27:50; 2 Thessalonians 2:8; cp. the verb in John 20:22 (blew).
+
+steward   property manager
+
+stoicheia   typical understandings, basic beliefs, fundamentals, elements (στοιχεῖα)
+
+straightway    replaced with right away, immediately
+
+submit to 	(a) Defer to has been our rendering in the household teaching material (Ephesians 5:22-33; Colossians 3:18-25; 1 Peter 2:18-3:7) and characteristics lists (1 Timothy 3:1-7, 8-13; 5:5-10. It better indicates the attitude and behavior people take with someone else they know is being held responsible (“head”) for the work involved. Besides, submit has picked up a negative connotation present in response to bullying.
+
+(b) Less intense, cooperate seems right for 1 Corinthians 16:16. “Cooperating” with people like the household of Stephanas in ministry seems more likely Paul’s point. There is no indication Stephanas’ household had some authoritative or directive role over the Corinthians. If people willingly volunteer themselves in ministry, those around them with less involvement should do what they can to help.
+
+suffer 	(a) used for painful experiences
+
+(b) otherwise replaced by let, allow: Matthew 19:14
+
+talk with   replaced with talk to
+
+testify/testimony   CV attempts to replace some of the many uses of μαρτυρέω/μαρτύριον when it means merely to speak on behalf of. Current English usage associates testifying and testimony with courtroom settings.
+
+(a) speak (Matthew 23:31; Mark 13:4, etc.);
+
+(b) speak for me (Luke 21:13, etc.);
+
+(c) speak to the fact that (John 7:7; 2 Corinthians 8:3; 1 John 4:14).
+
+than    		(a) used colloquially as a preposition: +Luke 11:22 (“stronger than him”); Matthew 3:11 (“greater than me”); “greater than him” (Matthew 11:11).
+
+(b) otherwise treated as a conjunction, that is, using the same case after as the parallel element before
+
+that 		(a) usually used for aforesaid demonstratives even when Greek has the near demonstrative for this/these.
+
+(b) Once the item of discussion is on the table, that rather than this can usually become the demonstrative for it: 1 Corinthians 12:11; 13:13.
+
+(c) That, for translating the Greek ὅτι, is omitted for introducing indirect discourse, that is, for constructions that purport to give someone’s idea rather than the actual words in expressing it. The construction comes after leading verbs of saying, the senses, or mental action: John 18:34, etc., very often.
+
+In New Testament Greek, the ὅτι conjunction appears with direct discourse as well. Under both circumstances we have dropped the that.
+
+(d) omitted if covering a relative pronoun for the direct object inside a relative clause: “I love the picture that you sent me.”
+
+We have endeavored to keep from having too many that’s close together.  That can be a demonstrative, a conjunction introducing indirect discourse, purpose clauses, and fear clauses; or it can be a relative pronoun. So, more than one of them can come close to each other. For example, Matthew 3:8-11 could read,
+
+“Who warned you to flee from God’s fury that’s coming? 8Bear fruit that’s appropriate to repentance. 9Don’t think, ‘Abraham’s our father.’ From these rocks God can raise descendants of Abraham. 10An axe is already lying at the base of the trees. Every tree that doesn’t bear good fruit will be chopped down and thrown in the fire. 11I’m immersing you in water to repentance. The One that’s who’s coming after me is greater than me.”
+
+Some of them can be omitted; others can be changed to who.
+
+that which  not used; replaced by what
+
+the 		(a) usually covers the Greek article
+
+(b) Greek article sometimes replaced with an English possessive adjective: his, her, their, etc. Greek is often content to use an article where English wants to specify the possessor even if that is obvious: Romans 7:25; 1 Corinthians 4:19; 15:25; 16:12; 1 Timothy 1:16. It is not that the Greek article means possessive adjective, but that Greek idiom is satisfied to use an article by custom in places where English wants to specify a possessive pronoun.
+
+(c) Sometimes we have used neither the nor a where the Greek article appears.
+
+SPECIAL NOTE. The Greek article marks contrast/identity; the absence of the article marks quality. It does not indicate definiteness particularly, as the does in English. Its absence draws attention to the characteristics/qualities/nature that the referent has. Its presence just refers to it, period—as in distinction from another parallel thing, period. For example, we have translated John 1:17, “Law came through Moses; grace and truth came through Jesus Christ” (ὁ νόμος διὰ Μωϋσέως ἐδόθην, ἡ χάρις καὶ ἡ ἀληθεῖα διὰ Ἰησοῦς Χριστὸς ἐγένετο). That rendering understands the passages as contrasting the kind of thing law is and the kind of thing grace-and-truth is. Putting the with law would make it mean the Law of Moses as distinguished from some other law or thing. Putting the with grace or truth does not “sound right” (because they are not definite, but kinds of things, abstractions); yet Greek has articles on both as well as on law. Generic reference is the reason CV omits the English definite article in some high-profile cases; “I’m resurrection and life” (John 11:25); “I’m the way, truth, and life” (John 14:6).
+
+The Greek article vs. no article cannot correspond to the English definite article, indefinite article, and no article; two cannot readily correspond with three. English uses the to identify one example vs. other examples in the group (definite/identity). A indicates any example in the group; it does not matter which one (indefinite identity). In English, the difference is between definite and indefinite. The lack of either kind of English article means quality, that is, a kind of thing. A complicating factor in English is that a can also be used with non-abstractions to mean quality too or a noun typical of its class: “A dog is a man’s best friend.” The point is not that the dog is indefinite (“any dog will do”). The point is that the kind of thing a dog is makes it a best friend for the kind of thing a man is! The a moves the non-abstraction into an abstraction.
+
+this	We have somewhat reduced the number of demonstrative pronouns, replacing them with personal pronouns: Matthew 11:7; Luke 19:40.
+
+this day   today
+
+this night   tonight
+
+those sometimes replaced with the one(s) or people as a translation of an articular participle; they are translations when those would not be a demonstrative pronoun or adjective
+
+those who   frequently becomes the ones that
+
+thence   not used
+
+there 	avoided as an expletive (“There’s a bat in the attic.”); used only as an adverb for location
+
+therein  not used
+
+this/these   reserved for an upcoming demonstrative; that/those used for aforesaid references
+
+tithe  replaced with “give a tenth”: Matthew 23:23; Luke 19:12; 11:42
+
+thither  not used
+
+thereupon  not used
+
+therefore  replaced with so;
+
+frequently omitted whether translating ἄρα, γάρ, διὰ τοῦτο, διότι, οὖν, or τοίνυν.
+
+they	sometimes used advisedly, that is, as an indefinite pronoun equal to people (say): Matthew 5:16; Acts 10:47
+
+thief 	for the men crucified with Jesus, see under insurrectionist above
+
+those 	used as a plural distant demonstrative and infrequently as equal to the ones, that is, to translate a plural articular substantive participle
+
+tomb	for a burial chamber erected above ground or dug into a hillside; grave for burial in the ground
+
+transgression    replaced with sin
+
+tribulation   replaced usually with hardship, suffering, ordeal
+
+truly	omitted as an equivalent for “verily”
+
+unbelief  replaced by disbelief if the text is dealing with a person that has heard the message
+
+Uncircumcision   capitalized as a designation for the Gentiles: +Romans 3:30; Ephesians 2:11
+
+unquenchable fire replaced with a fire you can’t put out: Matthew 3:12; Luke 3:17
+
+unto	not used; replaced with to
+
+upon	not used; replaced with on
+
+verily (verily) I say to you The verily is dropped completely. The I say to you becomes I tell you. The whole expression falls from the text except for perhaps once a chapter, where the shorter expression suffices.
+
+very often eliminated to accommodate English preference for expressive restraint: Matthew 4:8; Luke 19:17; 1 Corinthians 6:11; 2 Corinthians 8:24.
+
+village the translation for κώμη. Town and city translate πόλις—town when designating an urban area that does not seem to qualify as a city in the modern sense. See city above.
+
+voice 		(a) used only for human audible expression
+
+(b) replaced with sound in passages like 1 Corinthians 14:10-11 that refer to other than human audible expression
+
+(c) dropped altogether in phrases like hear the Son of Man, which shortens, hear the voice of the Son of Man. That wording eliminates the body-part aspect of the original.
+
+walk		(a) reserved almost exclusively for physically walking
+
+(b) replaced by live/living when figurative for conducting life: Romans 13:13; 2 Corinthians 10:2, 3; Ephesians 2:2; 1 John 2:6, 7; 2 John 4, 6; 3 John 3; Revelation 3:4; 21:24
+
+we	Galatians 6:7-8 substitutes we for “a man” as a kind of advised usage of we.
+
+weep/wept  replaced by cry, even sob as when Peter “broke down” after his denials (Luke 22:62)
+
+What have ___ to do with you? What’s between __ and __: What to me and to you? Possible ways of translating a Hebrew idiom in the gospels, which we have rephrased as What is this? (+Matthew 8:29; Mark 1:24; 5:7; Luke 4:34; 8:28; John 2:4)
+
+whence    not used—along with hither, thither, hence, thence as out-of-date directionals
+
+wherein   not used
+
+whereupon   not used
+
+whether kept for statements of alternatives between real options: Romans 4:16; 14:8; 1 Corinthians 10:31; 12:13; 2 Corinthians 5:9, 132; 7:3; 12:2; Ephesians 6:8; Philippians 1:18, 20, 27; 2:12; 1 Thessalonians 5:10; 1 John 4:1, 2; 5:2. If addresses positive vs. negative as in the case of an introduction to indirect questions: “He asked if he could borrow the car” (cp. Matthew 26:63, etc.; see comments under if above).
+
+who	avoided almost entirely; replaced with that for relative pronouns for persons
+
+whom 	never used because of its pedantic feel;
+
+(a) +who replaces whom even when standard grammar calls for whom: Luke 11:19; 12:5; John 6:68; 13:18, 22, 24; 18:4, 7; 20:15; 2 Corinthians 10:18.
+
+(b) Who is used to create variety in John 5:24.
+
+(four) winds   every direction (Matthew 24:31)
+
+wise  sometimes replaced by smart to translate σόφος: +Matthew 7:24; 24:45; Luke 16:8; Romans 1:22; 12:16; 1 Corinthians 6:5; 10:15; 2 Corinthians 11:19
+
+woman (a) used only outside the vocative;
+
+(b) omitted (+Luke 22:57; John 2:4; 4:21; [[8:10]]; 19:26; 20:15)
+
+(c) translated dear woman (+Matthew 15:28; Luke 13:12; John 20:13).
+
+As a word of direct address, woman has a negative connotation in English that does not fit any of the vocative uses of γυνή in the New Testament (γύναι). At first, when we included it, we rendered it ma’am, but dear woman seemed to be a better option.
+
+(from the) womb adjusted to from birth, as part of the shift away from body-part language (Luke 1:15) or used circumlocution (Luke 1:44); elsewhere retained as imbedded idiom (Luke 11:27; 23:29; John 3:4).
+
+word	(a) word, an individual word
+
+(b) message, frequently when not referring to an individual word
+
+work 	(a) something that a person does, a deed (James 2)
+
+(b) something that produces a result vs. something bestowed by another, like righteousness that God considers a person as having. This second usage predominates in Romans and Galatians with respect to salvation theory: note Romans 4:4-5, e.g.
+
+world	(a) an English term sometimes omitted as overly “broad-scoped” (2 Corinthians 1:14);
+
+(b) empire, when the Roman empire—the territory around the Mediterranean Sea—is the apparent reference (+Luke 2:1; Acts 11:28; 17:6; 24:5)
+
+worship 	(a) worship, when directed toward deity (עבד , שׁבד , שׁחה)
+
+(b) pay homage to, bow down to, when applied to other than deity
+
+In occasions that involve Jesus, choosing between worship and paying homage to makes a translator decide whether a person recognized him as deity. The choice depends on what understanding the person had; the viewpoint of the translator/reader would otherwise project himself into the text. So, the actual text presented in CV is tentative. The only reason for getting into such decisions at all is that worship in English has specialized its meaning as directed to deity. Bowing down in homage to another human being has fallen out of western culture as an expression of respect or homage. So the English term does not have the second application that προσκυνέω had. In everyday speech, worship sometimes describes exaggerated respect for someone (“He worshipped the very ground she walked on.”), but that does not come up in the biblical text. So, worship and lord put a translator in the awkward position the Revised Standard Version brought into gospels when it used thou for deity and you for other references.
+
+(is) worthy (of)   replaced by deserves, considered appropriate for, good enough for
+
+wrath   an outmoded word replaced by anger, rage, fury; displeasure (Colossians 3:6)
+
+(is) written switched to anarthrous scripture says for γέγραπται to avoid passive voice. The phrasing assumes a stative value for the passive perfect here (it stands written) and uses a simple present to cover the original wording.
+
+wrote	shifted often to have written (ἔγραψα) to leave the possibility for epistolary aorist (2 Corinthians 5:9; 1 John 2:14), epistolary aorist meaning a simple past-tense verb used in reference to the same writing in which it appears. The custom grew out of the greater time distance the slow postal system had in those bygone centuries; by the time the recipient got the letter, some time had passed.
+
+Yahveh not used in the original Greek New Testament or New Testament quotations from the Old Testament. Its Old Testament quotations follow the Septuagint, where κύριος, Lord, replaces God’s personal name in the Hebrew text.  See statistics under LORD above.
+
+you		sometimes used advisedly, that is, as an indefinite pronoun: 2 Corinthians 4:18; 12:4; 1 Timothy 6:16
+
+A sizeable set of English words currently appear mostly in religious contexts and with religious connotations—sometimes negative ones. It is difficult to find accurate and authentic-sounding, modern replacements for Bible words like Almighty, beget, bless(ed/ness), confession, defile, the elect, faith, fellowship, flesh, fulfill, glory, godly, gospel, heaven (for sky), holy/holiness, iniquity, joy, persecution, preach, proclaim, prophesy/prophecy, rejoice, repent/ance, righteous/ness, redeemer, remission, salvation/save/savior, sanctify, sin/sinner/sinful/sinless, testify outside of courtroom proceedings, tongue (for language), transgression, tribulation, voice (for sound), witness outside of court proceedings, worship, wrath.
+
+The notations above indicate two major goals in the Conversational Version. The first is to express biblical content in conversational usage. The second is to reduce the wordiness of Hebraic idiom by several shortening mechanisms scattered throughout the explanations here. Hopefully the desired effect has been achieved, and the biblical message comes fresh to today’s readers of the everlasting message.
+
+christir.org

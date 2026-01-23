@@ -1,9 +1,10 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Ministry
-- Straight Thinking for Youth
-date: '2026-01-13'
+- Topics
+- MINISTRY
+- STRAIGHT THINKING FOR YOUTH
+date: '2026-01-23'
 draft: false
 title: Straight Thinking
 weight: 999

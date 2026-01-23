@@ -1,10 +1,11 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Christian Doctrine 1
-- Mankind (anthropology)
-- Depravity, Essays on Human
-date: '2026-01-13'
+- Topics
+- CHRISTIAN DOCTRINE
+- MANKIND (anthropology)
+- DEPRAVITY, ESSAYS ON hUMAN
+date: '2026-01-23'
 draft: false
 title: ANALYSIS OF AUGUSTINE’S DOCTRINE OF EVIL
 weight: 999

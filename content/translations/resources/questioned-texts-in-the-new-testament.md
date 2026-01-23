@@ -2,10 +2,10 @@
 author: Virgil Warren, PhD
 categories:
 - Bible Resources
-date: '2026-01-13'
+date: '2026-01-23'
 draft: false
 title: QUESTIONED TEXTS IN THE NEW TESTAMENT
-weight: 50
+weight: 1
 ---
 
 QUESTIONED TEXTS IN THE NEW TESTAMENT

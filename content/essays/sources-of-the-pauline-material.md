@@ -1,10 +1,10 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Evidences
-- Critical Intro, New Testament
-- Timothy Titus Pastoral Epistles
-date: '2026-01-13'
+- EVIDENCES
+- CRITICAL INTRODUCTION -  New Testament
+- TIMOTHY TITUS Pastoral Epistles
+date: '2026-01-23'
 draft: false
 title: SOURCES OF THE PAULINE MATERIAL
 weight: 29

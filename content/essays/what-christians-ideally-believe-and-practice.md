@@ -1,9 +1,10 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Christian Doctrine 1
-- Doctrinal Summaries
-date: '2026-01-13'
+- Topics
+- CHRISTIAN DOCTRINE
+- DOCTRINAL Summaries
+date: '2026-01-23'
 draft: false
 title: 'WHAT CHRISTIANS IDEALLY BELIEVE AND PRACTICE:'
 weight: 2

@@ -1,0 +1,676 @@
+---
+author: Virgil Warren, PhD
+categories:
+- Texts
+- The Conversational Version
+- The Conversational Old Testament ok 3-20-19
+- THE YAHVEH COVENANT (by book)
+date: '2026-01-23'
+draft: false
+title: JOSHUA
+weight: 9
+---
+
+JOSHUA
+
+Conversational Yahveh Covenant
+
+Yahveh’s Charge to Joshua
+
+1:1After Moses died, God said to Joshua Ben-Nun, Moses’ assistant,
+
+2“Moses has died. You and the people, cross the Jordan to the land I’m giving you. 3Like I promised Moses, everywhere you go I’ll deliver it to you. 4Your territory will be from the desert and Lebanon to the big Euphrates River, the land of the Hittites to the Mediterranean Sea in the west. 5Nobody will be able to stand up to you all your life. I’ll be with you like I was with Moses; I won’t fail you or abandon you. 6Be strong and courageous. You’ll enable my people to inherit the land I swore to their ancestors I’d give them. 7Make sure you do everything in the Law that Moses commanded you. 8Think about it day and night. You’ll prosper and succeed. 9Haven’t I commanded you? Don’t be afraid or intimidated. Yahveh your God is with you.”	Josh 1:1-9
+
+10Joshua told the officers of the people,
+
+11“Go through the camp and tell the people to get baggage ready. Three days from now, you’re going to cross the Jordan to take the land Yahveh your God is giving you.”
+
+12Joshua told Reuben, Gad, and the Manasseh half-tribe,
+
+13“Remember what Moses told you, Yahveh your God is providing you this land as a place to rest.’ 14Your wives, little ones, and livestock will stay beyond the Jordan; but your fighting men will cross over armed to help your fellow Jews 15till they have their land and Yahveh gives them peace. Then you can go back east of the Jordan.”
+
+16They answered,
+
+“We’ll do everything you’ve said and go wherever you go. 17We’ll obey you like we did Moses. Yahveh be with you like he was with him! 18We’ll execute whoever disobeys you. Be strong and courageous.”	Josh 1:10-18
+
+Rahab and the Spies
+
+2:1Joshua sent two men secretly from Shittim to check out the land, Jericho in particular. They went to the house of a harlot named Rahab to lodge. 2The king of Jericho heard about it, “Some men from Israel have come here tonight to spy out the land.” 3He sent to Rahab, “Bring the men that have come to your house. They’re spies.” 4But the woman had hidden them, “Men did come, but I didn’t know where they came from. 5They left when the gate closed at dark. I don’t know where they went. Follow them right away so you can catch up with them.” 6But she’d taken them up to the roof and hidden them under stalks of flax. 7The men pursued them toward the Jordan as far as the fords. As soon as they left, the gate was shut.	 Josh 2:1-7
+
+8Before they lay down, she came up to the roof 9and said,
+
+“I know Yahveh is going to deliver the land to you. We’re all afraid; the people are melting away on account of you. 10We’ve heard how he dried up the Red Sea for you when you left Egypt, and how you destroyed Sihon and Og beyond the Jordan. 11As soon as we heard it, our hearts melted. Nobody had any courage left. Yahveh your God is God in heaven above and on earth below. 12Now, swear by him that as I’ve dealt graciously with you, you’ll deal graciously with my father’s family. Give me a guarantee 13that you’ll save my parents, brothers and sisters, and their relatives.”
+
+14They said, “Our life for yours! If you don’t tell why we’re here, you can trust us to deal graciously with you when Yahveh gives us the land.”
+
+15Her house was built against the city wall. She let them down by a rope through the window and 16told them, “Go up into the hills so you won’t run into the ones that are searching for you. Hide there three days till they get back. Then you’ll be able to go.” 	Josh 2:8-16
+
+17They said, “We won’t be guilty of the oath you had us swear. 18When we come, tie this scarlet cord in the window you let us down through. Get your parents, brothers, and father’s family into the house. 19If any of them goes out into the street, their blood’s on themselves. But if a hand is laid on anybody that’s in the house with you, that person’s blood’s on us. 20If you tell why we’re here, we won’t be obligated by the oath.”
+
+21“All right.”
+
+She sent them away and tied the scarlet cord in the window.
+
+22They went into the hills for three days till the ones that were looking for them got back. They’d looked all along the road and didn’t find anything. 23Then the two men came back down from the hills and crossed over to Joshua. They told him what all had happened, 24“Yahveh has for sure delivered the land to us. The inhabitants have lost heart over us.”	Josh 2:17-24
+
+Crossing the Jordan
+
+3:1Joshua got up early and set out from Shittim with the people. They got to the Jordan and stayed there before they crossed. 2After three days the officers went through the camp 3and told the people,
+
+“When you see the priests pick up the Ark of the Covenant, follow it so you’ll know where to go. You haven’t gone this way before. 4Don’t get near it. Stay back about 3,000ft.”
+
+5Joshua told the people, “Sanctify yourselves; tomorrow Yahveh will do wonders among you.” 6He told the priests to pick up the Ark and go out ahead of the people.    	Josh 3:1-6
+
+7Yahveh told Joshua,
+
+“Today I’ll start elevating you in Israel so they’ll know I’m with you like I was with Moses. 8Tell the priests that carry the Ark when they come to the edge of the Jordan, to stand still in it.’”
+
+9Joshua said,
+
+“Come and listen to a message from your God. 10This is how you’ll know the living God is among you, and will drive out the Canaanites, Hittites, Hivites, Perizzites, Girgashites, Amorites, and Jebusites. 11The Ark will cross the Jordan first. 12Select a man from each of the 12 tribes. 13When the priests’ feet rest in the water, the Jordan will stop flowing. The water coming downstream will pile up.”
+
+14The people set out from their tents to cross the Jordan. 15When the priests waded into the water (The Jordan floods during harvest.), 16the water coming downstream piled up all the way back to Adam, a town beside Zarethan. What was flowing toward the Sea of Arabah (the Dead Sea) held back while the people crossed near Jericho. 17The priests stood on dry riverbed till the whole nation finished crossing.	       Josh 3:7-17
+
+Memorial to the Jordan Crossing
+
+4:1When they’d crossed, Yahveh told Joshua,
+
+2“Appoint a man from each tribe 3to take a rock from the Jordan, carry it over, and lay it down where they’ll spend the night.”
+
+4Joshua called the twelve men,
+
+5“Go on past the Ark to the middle of the Jordan and pick up a rock onto your shoulder. 6They’ll be a sign when your children ask what these rocks mean. 7Tell them the Jordan River held back ahead of the Ark as it crossed. These rocks serve as a permanent memorial for Israelites.”
+
+8They picked up 12 rocks out of the Jordan, carried them over to where they would spend the night, and laid them down. 9Joshua set up 12 rocks in the Jordan where the priests had stood. They’re still there. 10The priests stood in the Jordan till everything happened that Yahveh had Joshua tell the people. 	Josh 4:1-10a
+
+The people crossed in a hurry. 11Then the priests and the Ark went on over. 12Reuben, Gad, and the Manasseh half-tribe also went over to the plains by Jericho—13about 40,000. 14That day Yahveh elevated Joshua in Israel. They stood in awe of him all his life.
+
+15Yahveh said to Joshua, 16“Tell the priests that are carrying the Ark to come up out of the Jordan.” [17] 18When they’d come up, the water went back to overflowing its banks.
+
+19The people came up out of the Jordan on the tenth day, first month, and camped at Gilgal east of Jericho. 20Joshua set up the 12 stones from the Jordan at Gilgal 21and told the people,
+
+“When your descendants ask what these stones mean, 22tell them, ‘Israel crossed the Jordan on dry riverbed. 23Yahveh our God dried up the water till we crossed it like he did at the Red Sea.’ 24Everybody in the world will know Yahveh is powerful, and you’ll respect him forever.” 	Josh 4:10b-24
+
+Circumcision at Gilgal
+
+5:1The Amorite kings west of the Jordan and the Canaanite kings by the sea, heard that Yahveh had dried up the Jordan for the Israelites to cross. Their hearts melted; there was no spirit in them.
+
+2At that time, Yahveh told Joshua to make flint knives and circumcise the Israelites this second time. 3He did that at Gibeath-haaraloth. 4The fighting men who came out of Egypt 5had been circumcised, but the ones born in the desert hadn’t. 6The Israelites lived there 40 years till those fighting men died. Yahveh swore they wouldn’t see the land flowing with milk and honey that he’d promised their ancestors. 7So Joshua circumcised the offspring Yahveh raised up to replace them.
+
+8After the circumcising, they stayed in the camp till they healed up. 9Yahveh told Joshua, “I’ve ‘rolled away’ from you the disgrace of Egypt today”; so the place has been called Gilgal ever since.
+
+10While the people camped in Gilgal, they kept Passover on the fourteenth of the month in the evening in the plains by Jericho. 11The next day, they began eating the produce in the land—parched grain and cakes without yeast in them. 12The manna stopped the next day; they didn’t have it anymore. They ate the produce in Canaan that year.   	Josh 5:1-12
+
+13When Joshua was near Jericho, he looked up and saw a man with his sword drawn. He went to him and asked, “Are you for us or our enemies?”
+
+14“I’ve come to command Yahveh’s army.”
+
+Joshua fell on his face in homage, “What do you want me to do?”
+
+15“Take your shoes off. Where you’re standing is holy.” Joshua obeyed. 	Josh 4:13-15
+
+The Fall of Jericho
+
+6:1Jericho was shut up inside and out. Nobody was coming out or going in. 2Yahveh told Joshua,
+
+“I’ll deliver Jericho to you, its king and strong fighting men. 3Have Israel’s fighting men march around the city once a day for a week. 4Have seven priests each a carry ram’s horn ahead of the Ark. On the seventh day, march around the city seven times while the priests blow their rams’ horns. 5As soon as you hear a long blast on the rams’ horns, raise the battle cry as loud as you can, and the city wall will fall down flat. Every man, go straight in.”
+
+6Joshua called the priests and told them to take the Ark and have seven priests each carry a ram’s horn ahead of it.
+
+7He told the people to start marching around the city with the armed men ahead of the Ark. 	Josh 6:1-7
+
+8The seven priests went forward blowing rams’ horns in front of Yahveh with the Ark behind them. 9The armed men went first ahead of the priests, and the rear guard came last after the Ark. The rams’ horns blew continually.
+
+10Joshua told the people, “Don’t raise the war cry till the day I tell you.” 11He sent the Ark around the city once. Then they spent the night in camp.
+
+12Joshua got up early and the priests took the Ark, 13and the seven priests went along, blowing the horns continually. The armed men went first ahead of them, and the rear guard came last after the Ark. 14The second day they marched around the city once and went back to camp. They did that for six days.	Josh 6:8-14
+
+15The seventh day, they got up at dawn and marched around the city the same way seven times. 16The seventh time, when the priests blew the rams’ horns, Joshua told the people,
+
+“Raise the battle cry! Yahveh is delivering the city to you. 17The city and everything in it will be devoted to him for destruction. Only Rahab the harlot and her household will live; she hid the messengers we sent. 18Make sure you keep away from the things devoted to destruction. If you take any devoted thing, you’ll bring trouble on Israel’s camp and get it destroyed. 19All the silver and gold, the bronze and iron items, are sacred to Yahveh. They’ll go into his treasury.”
+
+20The priests blew the rams’ horns. As soon as the people heard them, they raised the battle cry as loud as they could, and the wall fell down flat. Every man went straight ahead up into the city and took it. 21With swords they destroyed men and women, young and old, cattle, sheep, and donkeys. 	Josh 6:15-21
+
+22Joshua told the two men that had spied out the land to go to the harlot’s house and bring her and her relatives out, like they’d promised.
+
+23They went in and brought out her, her parents, brothers, and relatives; and put them outside the camp. 24They burned the city and everything in it, but put in Yahveh’s treasury the silver and gold, the bronze and iron items. 25Rahab and her father’s family still live in Israel because she hid the spies.
+
+26Joshua bound an oath on them,
+
+“Cursed by Yahveh is anyone that rebuilds this city.
+
+He’ll lay its foundation at the cost of his firstborn
+
+and set up its gates at the cost of his youngest son.”
+
+27Yahveh was with Joshua, and his fame spread all over the territory. 	Josh 6:22-27
+
+Achan’s Sin
+
+7:1But the people violated the instructions about the things set apart to Yahveh. Achan Ben-Carmi (Ben-Zabdi Ben- Zerah) from the tribe of Judah, took some devoted things, and Yahveh’s anger burned against Israel.
+
+2Joshua sent men from Jericho to Ai near Beth-aven, east of Bethel to spy out the area. They spied it out, 3came back and said, “Just have 2,000 or 3,000 go up to attack Ai. There aren’t many of them. 4About 3,000 went up but fled. 5The men from Ai killed about 36. They chased them from the gate as far as Shebarim and killed them at the descent. The people’s hearts melted and became like water. 	Josh 7:1-5
+
+6Joshua tore his clothes. He and the elders fell on their faces by the Ark of Yahveh till evening and put dust on their heads. 7Joshua said,
+
+“Lord Yahveh, why bring us across the Jordan and turn us over to the Amorites? If only we’d been content to live beyond the Jordan! 8What can I say when Israel has turned its back on its enemies? 9The Canaanites and the people in the land will hear about it and surround us. They’ll remove our name from the earth, and what will you do for your great name?”
+
+10Yahveh told Joshua,
+
+“Why fall on your face? Get up.  11Israel has broken my covenant and taken some devoted things. They’ve stolen and lied about it and put them among their own things. 12So Israel can’t stand up to its enemies. They turn their backs on them because now they’re something to be destroyed. 13Get up. Sanctify yourselves for tomorrow. You can’t stand up to your enemies till you get rid of the devoted things. 14In the morning, come forward by tribes. The tribe Yahveh takes will come forward by families. The family he takes will come by households. The household he takes will come one by one. 15The one that took the devoted things and everything he has will be burned. He’s sinned against Yahveh’s covenant by doing something horrible.”	Josh 7:6-15
+
+16Joshua got up early and brought Israel forward tribe by tribe; Yahveh took Judah. 17He brought the clans of Judah forward; Yahveh took the family of Zerah. He brought the family of Zerah forward one household at a time; Yahveh took the household of Zabdi/Zimrimss. 18He brought Zabdi’s household forward one man at a time; Yahveh took Achan Ben-(Carmi Ben-Zabdi/Zimri Ben-) Zerah. 19Joshua told Achan, “Son, honor Yahveh God of Israel and praise him. What have you done?”
+
+20Achan answered,
+
+“Truthfully, I did sin against Yahveh God of Israel. 21I saw among the spoils a beautiful mantle from Shinar, 5 lbs 200 shekels of silver, and a gold bar weighing 20 oz 50 shekels. I wanted them and took them and hid them in the ground inside my tent with the silver underneath.”
+
+22Joshua sent messengers to the tent. The devoted things were there with the silver under them. 23They brought them out to Joshua and put them down in front of Yahveh. 24Joshua and all Israel took Achan, the silver, the mantle, the gold bar, his children, cattle, donkeys, and sheep, his tent and everything he had, and went up to the Valley of Achor. 25Joshua said, “Why trouble on us? Yahveh is bringing trouble on you now.” Israel stoned them and burned them. 26They piled a big mound of rocks over him that’s still there. Then Yahveh turned away his burning anger.	Josh 7:16-26
+
+Israel Destroys Ai
+
+8:1Yahveh told Joshua,
+
+“Don’t be afraid or intimidated. Take the fighting men up to Ai. I’ll deliver the king, his people, his city, and his land to you. 2Do to Ai and its king what you did to Jericho and its king. Just take its spoil and livestock for yourselves. Ambush the city from behind.”
+
+3Joshua and the fighting men got up to go to Ai. Joshua chose 30,000 trained men and sent them out at night. 4He told them,
+
+“Lie in ambush behind the city. Stay fairly close to it and be ready. 5The people and I will approach the city. When they come out against us, we’ll flee. 6They’ll chase us till we’ve drawn them away from the city; they’ll think we’re running from them like the last time. 7Then rise up from the ambush and seize the city; Yahveh your God will give it to you. 8When you’ve taken it, set it on fire like he said.”
+
+9Joshua sent them out to the place for the ambush between Bethel and Ai, west of Ai. He spent that night with the people.	Josh 8:1-9
+
+10He got up early, mustered the people, and went up with the elders to Ai. 11The fighting men that were with him came close to the city and camped north of it with a ravine between them and Ai. 12He set about 5,000 men in ambush between Bethel and Ai, west of the city. 13So they stationed the main camp north of the city and its rear guard west of it. Joshua spent that night in the valley. 14When the king of Ai saw it, the men in the city hurried out early to the descent toward the Arabah to meet Israel in battle. But he didn’t know about the ambush behind the city. 15Joshua and the Israelites pretended to be beaten and retreated toward open country. 16The people in the city were called together to chase them and drew away from it. 17Every man in Ai and Bethel went out after Israel and left the city wide open. 	Josh 8:10-17
+
+18Yahveh told Joshua, “Hold out your javelin.” He held it out toward the city, 19and the ambush got up at once, went in, and took it. They hurried and set it on fire. 20When the men from Ai looked back, they saw the smoke going up from the city. They couldn’t escape because the ones that ran toward open country turned back on them. 21When Joshua and the Israelites saw that the ambush had taken the city and its smoke was going up, they turned around and attacked. 22The others came out of the city, and the Israelites trapped them between their two companies. They killed till no one survived or escaped. 23They captured the king of Ai alive and brought him to Joshua.
+
+24When Israel had finished killing the people of Ai in the open country, they went back to and struck the city with the sword. 25All its people fell that day, 12,000 men and women. 26Joshua didn’t draw back his javelin till he’d destroyed everybody. 27Israel just took the livestock and spoils—like Yahveh said. 28Joshua burned the city and made it a pile of ruins till now. 29He hanged the king on a tree till sundown. Then he had them take his body down and throw it at the entrance to the city gate. They piled stones over it, which are still there.
+
+Josh 8:18-29
+
+30Joshua built an altar to Yahveh on Mount Ebal 31the way Moses commanded in the Law—with uncut stones nobody has used an iron tool on. They offered burnt offerings and peace offerings. 32There in the presence of the people, he wrote on the stones a copy of Moses’ Law. 33All Israel, foreigner and home born, elders, officers, and judges stood on opposite sides of the Ark in front of the Levitical priests who carried it. Half were in front of Mount Gerizim and half in front of Mount Ebal—like Moses had commanded them to bless Israel. 34Afterward he read the whole Law, the blessing, and the curse. 35He read it to Israel, the women, children, and foreigners among them.	 Josh 8:30-35
+
+9:1The kings heard about it in the hill country and the western foothills along the Mediterranean Sea up to Lebanon—the Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites. 2They formed an alliance against Israel.
+
+The Gibeonites Deceive Israel
+
+3But when the people in Gibeon heard what Joshua had done to Jericho and Ai, 4they resorted to trickery. They made fake preparations: worn-out sacks on their donkeys; worn-out, torn, and mended wineskins; 5worn-out and patched sandals, and worn-out clothes. Their provisions were dry and moldy. 6They went to Joshua in the camp at Gilgal, and told him and Israel, “We’ve come from a distant country. Make a treaty with us.” 	Josh 9:1-6
+
+7But the men of Israel said to the Hivites, “Maybe you’re living among us. How could we make a treaty with you?”
+
+8They said to Joshua, “We’re your servants.”
+
+“Who are you? Where do you come from?”
+
+9“We’ve come a long way because of Yahveh your God. We’ve heard what all he did in Egypt, 10and to the Amorite kings beyond the Jordan—Sihon and Og, who lived in Ashtaroth. 11Our elders and the people in our country told us to take provisions for the journey, go meet you, and say, ‘We’re your servants. Make a treaty with us.’ 12Our bread was still warm when we took it from our houses for the trip. Now it’s dry and moldy. 13These wineskins were new when we filled them; now they’ve burst. These clothes and shoes are worn out from the trip.”
+
+14The men took some of their provisions and didn’t ask direction from Yahveh. 15Joshua made peace with them and let them live. The leaders of the community swore to them.  	Josh 9:7-15
+
+16Three days later, they found out they were neighbors. 17Israel set out and reached their towns on the third day: Gibeon, Cherphirah, Beeroth, and Kiriath-jearim. 18But they didn’t kill them, because their leaders had sworn by Yahveh God of Israel. The community murmured against the leaders, 19“We’ve sworn to them by Yahveh God of Israel. We can’t touch them. 20We’ll let them live so wrath won’t come on us.” 21They cut wood and drew water for the community—like the leaders told them.
+
+22Joshua sent for them and said,
+
+“Why lie to us and say you were from a distant country when you were living among us? 23Now you’re cursed. Some of you will always be slaves, cutting wood and drawing water for my God’s house.”
+
+24They answered Joshua,
+
+“We heard that Yahveh your God had commanded Moses to give you the land and destroy its people. We were afraid we’d be killed 25We’re at your mercy. Do to us what you think’s right.”
+
+26That’s what he did and rescued them from the people. 27He made them cut wood and draw water for the community and Yahveh’s altar where he chose. They still do that.  	Josh 9:16-27
+
+The Sun Stands Still
+
+10:1Adonizedek, king of Jerusalem, heard how Joshua had taken Ai and destroyed it like Jericho and its king. He heard how Gibeon had made peace with Israel and was among them. 2He was really afraid because Gibeon was a big city, like a royal city. It was bigger than Ai and its men were strong. 3So he sent to Hoham king of Hebron, Piram king of Jarmuth, Japhia king of Lachish, and Debir king of Eglon, 4“Help me attack Gibeon; it has made peace with Israel.” 5Those five allied forces camped against Gibeon and attacked it.
+
+6The men in Gibeon sent to Joshua at camp in Gilgal, “Don’t relax your grip on us. Come quick and save us! The Amorite kings from the hill country have formed an alliance against us.”
+
+7So Joshua and the fighting men went up from Gilgal. 8Yahveh told Joshua, “Don’t be afraid of them. I’ll deliver them to you. Not a man will stand against you.”
+
+9He marched up all night and attacked them by surprise. 10Yahveh threw them into panic, and Israel killed them with a great slaughter. They chased them by the way of the ascent of Beth-horon and struck them all the way to Azekah and Makkedah. 11As they fled down the ascent of Beth-horon, Yahveh sent big hailstones on them all the way to Azekah. More died from hailstones than Israel killed with the sword. 	Josh 10:1-11
+
+12Then in front of Israel, Joshua spoke to Yahveh the day he gave the Amorites to Israel,
+
+“Have the sun stand still at Gibeon
+
+and the moon over the Valley of Aijalon.”
+
+13So the sun stood still, and the moon stayed till the nation took revenge on its enemies. It’s recorded in The Book of Jashar. The sun stood still at midday and didn’t go down for about a day. 14There wasn’t a day like it before or since when Yahveh listened to such an extreme request by someone, because he fought for Israel.
+
+15Joshua and Israel came back to camp at Gilgal.
+
+Five Amorite Kings Executed
+
+16The five kings fled and hid in the cave at Makkedah. 17People told Joshua where they were hiding.
+
+18He said,
+
+“Roll large rocks against the mouth of the cave and post a guard. 19Don’t stay there. Chase your enemies and fall on them. Don’t let them get into their towns. Yahveh your God will deliver them to you.”
+
+20Joshua and the Israelites killed them with a great slaughter till they wiped them out, but some stragglers got back into the fortified towns. 21The people came back safe to Joshua at Makkedah. Nobody said a word against Israel.	 Josh 10:12-21
+
+22Then Joshua told them to open the cave and bring out the five kings. [23]
+
+24He told the commanders and fighting men, “Put your feet on their necks. 25Don’t be afraid or intimidated; be strong and courageous. This is what Yahveh will do to all the enemies you fight.”
+
+26He struck them and put them to death and hung them on five trees. 27At sundown he had the men take them down, throw them back into the cave, and put large rocks against its mouth. They’re still there.
+
+28That day Joshua struck down everybody in Makkedah with the sword and did to its king what he’d done to Jericho’s king. 	Josh 10:22-28
+
+Southern Towns Conquered
+
+29He and Israel passed on from Makkedah and attacked Libnah. 30Yahveh gave it and its king to Israel. He struck everybody in it with the sword.
+
+31Next, Joshua lay siege to Lachish, 32and Yahveh gave it to Israel. He took it on the second day and stuck everybody in it with the sword.
+
+33Then Horam, king of Gezer, came to help Lachish, and Joshua struck him and his people till there weren’t any left.
+
+34He passed on from Lachish, laid siege to Eglon, and attacked it. 35They took it that day, struck it with the sword and destroyed everyone in it.
+
+36Joshua went up from Eglon to attack Hebron. 37He struck it, its king, and surrounding villages with the sword and destroyed everybody in them.
+
+38Then he turned back and attacked Debir. 39He struck it, its king, and surrounding villages with the sword and destroyed everybody in them. So he did to Debir what he’d done to Hebron, Libnah, and their kings.
+
+40Joshua defeated the hill country, the Negev, the western foothills, the slopes, and their kings. He destroyed everybody that breathed—like Yahveh commanded. 41He defeated them from Kadesh-barnea to Gaza, the whole country of Goshen as far as Gibeon. 42He took those kings and their land in one campaign because Yahveh God of Israel fought for them. 43Then he and Israel went back to camp at Gilgal.	 Josh 10:29-43
+
+Northern Kings Defeated
+
+11:1When Jabin, king of Hazor, heard about it, he sent
+
+to Jobab, king of Madon,
+
+to the king of Shimron
+
+to the king of Achshaph,
+
+2to the kings in the northern hill country,
+
+the Arabah south of Chinneroth,
+
+the western foothills,
+
+Naphothdor on the west,
+
+3to the Canaanites in the east and west,
+
+the Amorites,
+
+Hittites,
+
+Perizzites,
+
+Jebusites in the hill country, and
+
+Hivites on the slopes of Mount Hermon in the land of Mizpah.
+
+4They came out with their troops, a large army like sand on the shore, with very many horses and chariots. 5All those kings joined forces, came and camped together at the water by Merom.
+
+6Yahveh told Joshua, “Don’t be afraid of them. At this time tomorrow, I’ll deliver them to Israel. Hamstring their horses and burn their chariots.” 7He came suddenly on them with all his fighting men. 8Yahveh gave them to Israel, who struck them and chased them to Great Sidon and Misrephoth-maim and eastward to the Valley of Mizpah. There weren’t any left. 9Joshua hamstrung their horses and burned their chariots.	 Josh 11:1-9
+
+10Joshua turned back and took Hazor and struck its king with the sword. Hazor was formerly the head of those kingdoms. 11The Israelites put to the sword everything in it that breathed, and Joshua burned Hazor. 12He took the kings and their towns and destroyed them—like Moses Yahveh’s servant commanded. 13Israel didn’t burn towns that stood on mounds, but Joshua did burn Hazor. 14The people took the spoil in those towns and the livestock for plunder. They struck every man with the sword till they’d destroyed them. 15What Yahveh told Moses, Moses told Joshua, and he did it.
+
+16Joshua conquered the hill country, the Negev, Goshen, the lowland, the Arabah, the hill country of Israel and its lowland 17from Mount Halak that rises toward Seir, all the way to Baal-gad in the Valley of Lebanon below Mount Hermon. He put their kings to death. 18Joshua fought those kings for a long time. 19No town made peace with Israel except the Hivites in Gibeon. 20Yahveh hardened their hearts to come out against Israel so they’d be destroyed without mercy.
+
+21At that time, Joshua completely wiped out the Anakim and their towns in the hill county—Hebron, Debir, Anab, and the towns in the territory of Judah, and Israel. 22The only Anakim left were a few in Gaza, Gath, and Ashdod. 23He took the whole land the way Yahveh had told Moses. He gave it to Israel by tribal allotments. The land rested from war.	 Josh 11:10-23
+
+List of Defeated Kings
+
+12:1These are the kings the Israelites defeated and whose land they took east of the Jordan—from the Wadi Arnon to Mount Hermon with all the eastern Arabah:
+
+2Sihon, king of the Amorites. He lived in Heshbon, and ruled from Aroer, on the edge of the valley of the Arnon—from the middle of the valley to the river Jabbok, which is the boundary with the Ammonites, that is, half of Gilead, 3and the Arabah to the Sea of Chinneroth east, and in the direction of Beth-jeshimoth to the Sea of Arabah (the Dead Sea), south to the foot of Pisgah.
+
+4Og, king of Bashan, one of the remaining Rephaim that lived at Ashtaroth and Edrei 5and ruled Mount Hermon, Salecah, all Bashan to the boundary of the Geshurites and the Maacathites, and half of Gilead to the boundary of Sihon, king of Heshbon.
+
+6Moses and Israel gave their land to Reuben, Gad, and the Manasseh half-tribe.	 Josh 12:1-6
+
+7These are the kings Joshua and Israel defeated west of the Jordan, from Baal-gad in the Valley of Lebanon to Mount Halak, which rises toward Seir: (Joshua gave their land to the tribes by allotments, 8in the hill country, the lowland, the Arabah, the mountain slopes, the open country, the Negev, the land of the Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites.)
+
+9one king each in Jericho; Ai, next to Bethel; 10Jerusalem, Hebron, 11Jarmuth, Lachish, 12Eglon, Gezer, 13Debir, Geder, 14Hormah, Arad, 15Libnah, Adullam, 16Makkedah, Bethel, 17Tappuah, Hepher, 18Aphek, Lasharon, 19Madon, Hazor, 20Shimron-meron, Achshaph, 21Taanach, Megiddo, 22Kedesh, Jokneam in Carmel, 23Dor in Naphath-dor, Goiim in Galilee, 24and Tirzah (31 kings).
+
+Josh 12:7-24
+
+Land Still to Be Taken
+
+13:1When Joshua was getting along in years, Yahveh told him,
+
+“You’re getting old, and there’s still a lot of land to take:
+
+2the territory of the Philistines,
+
+Geshurites (3From the Shihor, east of Egypt, north to the boundary of Ekron, is
+
+considered Canaanite. The Philistines have five rulers: in Gaza, Ashdod,
+
+Ashkelon, Gath, and Ekron.) and
+
+the Avvim, 4in the south;
+
+the land of the Canaanites, and
+
+Mearah, which belongs to the Sidonians, to Aphek, to the boundary of the
+
+Amorites,
+
+5the Gebalites, and
+
+all of Lebanon, toward the east,
+
+from Baal-gad at the foot of Mount Hermon to Lebo-hamath,
+
+6-7the people in the hill country from Lebanon to Misrephoth-maim, that is, the Sidonians.
+
+I’ll drive them out in front of Israel.  Allot the land to the nine tribes and the Manasseh half-tribe.” 	Josh 13:1-7
+
+Land East of the Jordan Divided
+
+8The other Manasseh half-tribe together with Reuben and Gad had received their inheritance from Moses east of the Jordan: 9from Aroer, on the edge of the Arnon valley, the city in the middle of the valley, the whole tableland of Medeba as far as Dibon; 10the towns of Sihon, king of the Amorites; 11Gilead, the region of the Geshurites and Maacathites; all of Mount Hermon, the whole of Bashan to Salecah; 12the kingdom of Og in Bashan, who ruled in Ashtaroth and Edrei. (He was the only Rephaim left.) Moses had defeated them and driven them out. 13Yet the people of Israel didn’t drive out the Geshurites or Maacathites. They still live among the Israelites.
+
+14Moses didn’t give an inheritance to the tribe of Levi; their inheritance was the offerings by fire to Yahveh.	Josh 13:8-14
+
+15Moses gave an inheritance to the tribe of Reuben by clans. 16Their territory went from Aroer—on the edge of the Arnon valley, and the city that’s in the middle of the valley—the whole tableland of Medeba; 17Heshbon and the other towns on the tableland: Dibon, Bamoth-baal, Beth-baalmeon, 18Jahaz, Kedemoth, Mephaath, 19Kiriathaim, Sibmah, Zereth-shahar on the hill of the valley, 20Beth-peor and the slopes of Pisgah, Beth-jeshimoth. 21Reuben’s territory included the whole kingdom of Sihon, king of the Amorites, who ruled in Heshbon, whom Moses defeated together with the leaders of Midian—Evi, Rekem, Zur, Hur, and Reba, allies of Sihon. 22The people of Israel also killed with the sword Balaam Ben-Beor, the fortuneteller. 23The Jordan was the boundary of Reuben. That was Reuben’s inheritance by clans, towns, and villages. 	Josh 13:15-23
+
+24Moses gave an inheritance to Gad by clans. 25Their territory was Jazer, the towns in Gilead, half the land of the Ammonites to Aroer, east of Rabbah; 26from Heshbon to Ramath-mizpah and Betonim, from Mahanaim to the territory around Debir; 27the valley Beth-haram, Beth-nimrah, Succoth, and Zaphon, the rest of the kingdom of Sihon, king of Heshbon. The Jordan was its boundary to the lower end of the Sea of Chinnereth eastward from the Jordan. 28That was Gad’s inheritance by clans, towns, and villages.	Josh 13:24-28
+
+29Moses gave an inheritance to the Manasseh half-tribe by clans. 30Their territory extended from Mahanaim through Bashan—the whole kingdom of Og, king of Bashan—all the towns of Jair in Bashan (60 towns), 31half of Gilead, Ashtaroth, and Edrei, towns in Og’s kingdom in Bashan. Those were allotted to the people of Machir Ben-Manasseh for half of the Machirites by clans.
+
+32Those inheritances Moses had distributed by God’s command in the plains of Moab beyond the Jordan east of Jericho. 33He didn’t give an inheritance to Levi; Yahveh is their inheritance.	Josh 13:29-33
+
+Land West of the Jordan Divided
+
+14:1These are the territories the Israelites inherited in Canaan, which Eleazar the priest, Joshua Ben-Nun, and the heads of families distributed. 2Their inheritance came by lot for the 9½ tribes. [3] 4Joseph’s people consisted of two tribes, Manasseh and Ephraim. Moses just gave the Levites towns to live in along with land for pasturing livestock and raising crops for them. 5The Israelites allotted the land like Yahveh commanded.   	Josh 14:1-5
+
+6Then the people of Judah came to Joshua at Gilgal. Caleb Ben-Jephunneh the Kenizzite told him,
+
+“You know what Yahveh told Moses in Kadesh-barnea about you and me. 7I was 40 when Moses sent me to spy out the land. I brought back word to him as it was in my heart. 8But my brothers that went up with me made the people’s heart melt. Yet I wholly followed Yahveh. 9Moses swore that day, ‘The land you’ve walked on will belong to you and your descendants permanently. You’ve followed Yahveh my God.’ 10HeY has kept me alive these 45 years since he said that to Moses in the desert. Today I’m 85, 11still as strong as I was when Moses sent me—strong for war and everyday life. 12Give me this hill country Yahveh spoke about that day. At that time, you heard that Anakim were there with big, fortified towns. Yahveh may be with me, and I can drive them out.”
+
+13Joshua blessed him and gave him Hebron. 14It’s still his inheritance because he wholly followed Yahveh. (15Hebron’s earlier name had been Kiriath-arba because Arba was the greatest man among the Anakim.) The land rested from war.	 Josh 14:6-15
+
+Allotment to Judah
+
+15:1Judah’s allotment by clans reached the border of Edom, went south to the Wilderness of Zin at the farthest. 2Their south border went from the lower end of the Dead Sea, from the bay that turns south. 3It went on south to the ascent of Akrabbim and continued to Zin, then went up south of Kadesh-barnea, continued to Hezron, up to Addar, and turned to Karka. 4It went on to Azmon and the River of Egypt and ended at the Mediterranean Sea. That was their south border.
+
+5The east border was the Dead Sea to the mouth of the Jordan. 	Josh 15:1-5a
+
+The north border went from the mouth of the Jordan 6up to Beth-hoglah, continued on the north of Beth-arabah, and up to the stone of Bohan Ben-Reuben. 7The border went up to Debir from the Valley of Achor, turned north toward Gilgal, which is across from the ascent of Adummim, on the south of the valley. It continued to En-shemesh and ended at En-rogel. 8Then the border went up the Valley of (Ben)Hinnom to the slope of the Jebusite on the south (Jerusalem). It went on up to the top of the mountain that lies across from the Valley of Hinnom to the west, at the northern end of the Valley Rephaim. 9From the top of the mountain, the border curved to the spring of Nephtoah, went on to the towns of Mount Ephron, and curved to Baalah (Kiriath-jearim). 10It turned west from Baalah to Mount Seir, continued to the slope of Mount Jearim on the north (Chesalon), went down to Beth-shemesh, and continued through Timnah. 11The border proceeded to the north side of Ekron, curved to Shikkeron and to Mount Baalah and Jabneel, and ended at the Mediterranean Sea.
+
+12The west border was the coastline of the Mediterranean Sea. 	Josh 15:5b-12
+
+13By Yahveh’s command, Joshua gave Caleb a territory among the descendants of Judah: Kiriath-arba (Hebron). 14Caleb drove out Anak’s three sons: Sheshai, Ahiman, and Talmai. 15He went up from there against Debir (formerly Kiriath-sepher). 16Caleb said, “Whoever takes Kiriath-sepher, I’ll give Achsah my daughter as a wife.” 17Othniel Ben-Kenaz, Caleb’s brother, took it; so Caleb gave her to him as a wife. 18When she came to him, she urged him to ask her father for a field. She got down from her donkey, and Caleb asked her what she wanted.
+
+19“Give me another endowment. Since you’ve put me in the Negev, give me springs too.” He gave her the upper and lower springs.	 Josh 15:13-19
+
+20This is Judah’s inheritance by clans—21the towns belonging to Judah in the south toward the boundary with Edom:
+
+Kabzeel, Eder, Jagur,
+
+22Kinah, Dimonah, Adadah,
+
+23Kedesh, Hazor, Ithnan,
+
+24Ziph, Telem, Bealoth,
+
+25Hazor-hadattah, Kerioth-hezron (Hazor),
+
+26Amam, Shema, Moladah,
+
+27Hazar-gaddah, Heshmon, Beth-pelet,
+
+28Hazar-shual, Beersheba, Biziothiah,
+
+29Baalah, Iim, Ezem,
+
+30Eltolad, Chesil, Hormah,
+
+31Ziklag, Madmannah, Sansannah,
+
+32Lebaoth, Shilhim, Ain, and Rimmon—29 towns with their villages. 	Josh 15:20-32
+
+33In the western foothills:
+
+Eshtaol, Zorah, Ashnah,
+
+34Zanoah, En-gannim, Tappuah, Enam,
+
+35Jarmuth, Adullam, Socob, Azekah,
+
+36Shaaraim, Adithaim, Gederah, Gederothaim—14 towns with their villages.
+
+37Zenan, Hadashah, Migdal-gad,
+
+38Dilean, Mizpah, Jokthe-el,
+
+39Lachish, Bozkath, Eglon,
+
+40Cabbon, Lahmas, Chitlish,
+
+41Gederoth, Beth-dagon, Naamah, and Makkedah—16 towns with their villages
+
+Josh 15:33-41
+
+42Libnah, Ether, Ashan,
+
+43Iphtah, Ashnah, Nezib,
+
+44Keilah, Achzib, and Mareshah—9 towns with their villages.
+
+45Ekron with its towns and villages,
+
+46from Ekron to the Sea, everything beside Ashdod with their villages,
+
+47Ashdod with its towns and villages,
+
+Gaza with its towns and villages; to the River of Egypt and the Mediterranean Sea with its coastline. 	Josh 15:42-47
+
+48In the hill country,
+
+Shamir, Jattir, Socoh,
+
+49Dannah, Kiriath-sannah (Debir),
+
+50Anab, Eshtemoh, Anim,
+
+51Goshen, Holon, and Gioloh—11 towns with their villages.
+
+52Arab, Dumah, Eshan,
+
+53Janum, Beth-tappuah, Aphekah,
+
+54Humtah, Kiriath-arba (Hebron), and Zior—9 towns with their villages.
+
+55Maon, Carmel, Ziph, Juttah,
+
+56Jezreel, Jokdeam, Zanoah,
+
+57Kain, Gibeah, and Timnah—10 towns with their villages.
+
+58Halhul, Beth-zur, Gedor,
+
+59Maarath, Beth-anoth, and Eltekon—6 towns with their villages.
+
+60Kiriath-baal (Kiriath-jearim) and Rabbah—2 towns with their villages.	 Josh 15:48-60
+
+61In the open country, Beth-arabah, Middin, Secacah,
+
+62Nibshan, the City of Salt, and En-gedi—6 towns with their villages.
+
+63But Judah couldn’t drive the Jebusites out of Jerusalem. They still live there
+
+with the people of Judah.	   Josh 15:61-63
+
+Allotment to Ephraim and Manasseh
+
+16:1The allotment for Joseph’s descendants goes from the Jordan by Jericho to the open country to the hill country of Bethel. 2Then it goes from Bethel to Luz and passes along to Ataroth, the territory of the Archites. 3Then it runs west to the territory of the Japhletites as far as the area around Lower Beth-horon, then to Gezer, and ends at the Mediterranean Sea. 4Joseph’s people—Manasseh and Ephraim—received their inheritance.
+
+5This is the territory of Ephraim by clans. The boundary on the east is Ataroth-addar as far as Upper Beth-horon 6and from there to the Mediterranean Sea. Michmethath is on the north. The boundary turns east toward Taanath-shiloh and continues east to Janoah. 7Then it goes down to Ataroth and Naarah, touches Jericho, and ends at the Jordan. 8From Tappuah the boundary goes west to Brook Kanah and ends at the Mediterranean Sea. That’s the inheritance for the Ephraimites by families, 9together with their towns and villages that were set apart for the Ephraimites within the inheritance of the Manassites. 10But they didn’t drive out the Canaanites in Gezer. They still live among the Ephraimites, doing forced labor.	 Josh 16:1-10
+
+17:1Manasseh, Joseph’s firstborn, received an allotment. Gilead and Bashan went to Machir, Manasseh’s firstborn and father of Gilead, because he was a soldier. 2Allotment came to the rest of Manasseh’s male descendants by clans: the sons of Abiezer, Helek, Asriel, Shechem, Hepher, and Shemida. 3However, Zelophehad Ben-Hepher (Ben-Gilead Ben-Machir Ben-Manasseh) only had daughters: Mahlah, Noah, Hoglah, Milcah, and Tirzah. 4They approached Eleazar the priest, Joshua, and the elders, “Yahveh told Moses to give us an inheritance among our relatives.” So he gave them an inheritance among their uncles. 5Ten sections fell to Manasseh besides Gilead and Bashan beyond the Jordan, 6because Manasseh’s daughters received an inheritance with his sons. Gilead belonged to the rest of Manasseh’s sons.  	Josh 17:1-6
+
+7Manasseh’s territory reached from Asher to Michmethath, east of Shechem. Then the boundary went south to En-tappuah. 8The land of Tappuah belonged to Manasseh, but the town of Tappuah on the boundary of Manasseh belonged to Ephraim. 9Then the boundary went down to Brook Kanah. The towns there, south of the stream, among the towns in Manasseh, belonged to Ephraim. Then Manasseh’s boundary went on the north side of the stream and ended at the Mediterranean Sea. 10The land to the south was Ephraim’s, that to the north was Manasseh’s, and the Mediterranean Sea formed its western boundary. The north reached Asher; the east reached Issachar. 11Also in Issachar and Asher, Manasseh had Beth-shean/Beth-shan, Ibleam, Dor, En-dor, Taanach, and Megiddo, each with their surrounding settlements. (The third was Naphath.) 12Yet Manasseh’s descendants couldn’t conquer those towns, so the Canaanites kept living there. 13When Israel grew stronger, they put them to forced labor, but didn’t completely drive them out.	 Josh 17:7-13
+
+14The tribe of Joseph asked Joshua, “Why have you given us only one territory though we’re numerous because Yahveh has blessed us?”
+
+15“If the hill country of Ephraim is not big enough, go up into the wooded land and clear ground in the territory of the Perizzites and Rephaim.”
+
+16“The hill country’s still not big enough. The Canaanites that still live in the lowlands have iron chariots, those in Beth-shean/Beth-shan and its settlements and those in the Valley of Jezreel.”
+
+17Then Joshua told the House of Joseph, Ephraim and Manasseh,
+
+“You’re numerous and strong. You won’t just have one lot 18but the hill country too. Though it’s wooded land, clear it and take possession of it to its full extent. You’ll drive out the Canaanites too though they’re strong and have iron chariots.” 	  Josh 17:14-18
+
+Allotment of Remaining Land
+
+18:1The whole community of Israel gathered at Shiloh and set up the Tent of Meeting. The land had been conquered, 2but seven tribes hadn’t yet received their inheritance. 3Joshua said,
+
+“How long will you put off taking possession of what Yahveh has given you? 4Select three men from each tribe that I can send through the land to write a description of their inheritance. 5-6Divide it into seven territories and describe them. Judah will stay in its territory on the south. Joseph will stay in its territory on the north. I’ll cast lots for you here in front of Yahveh. 7The Levites don’t have any territory; the priesthood is their inheritance. Moses has given Gad, Reuben, and the Manasseh half-tribe their inheritance east of the Jordan.”
+
+8Joshua told the men, “Go through the land, describe it, and come back. I’ll cast lots for you here in front of Yahveh in Shiloh.” 9They went through the land and described it by cites in seven divisions in a scroll. They came back to him at Shiloh. 10He cast lots for them and divided the land according to their divisions.	Josh 18:1-10
+
+Allotment to Benjamin
+
+11The lot for Benjamin came out by clans. Their territory lay between Judah and Joseph. 12The north border ran from the Jordan up past Jericho through the hill country west, ending at the Wilderness of Beth-aven.
+
+13From there it went south toward Luz (Bethel), and down to Ataroth-addar, near the hill south of Lower Beth-horon. 14The border extended around on the west side southward from the hill facing Beth-horon and ended at Kiriath-baal (Kiriath-jearim), a city of Judah. That was the west border.
+
+15The south side began at the outskirts of Kiriath-jearim and ran to Ephron to the Spring of Nephtoah. 16Then it went down south to the edge of the mountain that’s in the Valley of (Ben)Hinnom, at the north end of the Valley of Rephaim. From there it extended down to the Valley of Hinnom, south to the slope of the Jebusites down to En-rogel. 17It curved around north to En-shemesh and then to Geliloth, across from the ascent of Adummim. Then it went down to the stone of Bohan Ben-Reuben. 18It passed on to the north of Beth-arabah and went down to the Arabah. 19It passed north of Beth-hoglah and ended at the northern bay of the Dead Sea, the south end of the Jordan. That was the south border.
+
+20The Jordan was its east border.	 Josh 18:11-20
+
+21The towns in Benjamin by clans were Jericho, Beth-hoglah, Emek-keziz, 22Beth-arabah, Zemaraim, Bethel, 23Avvim, Parah, Ophrah, 24Chephar-ammoni, Ophni, and Geba—12 towns with their villages;
+
+25Gibeon, Ramah, Beeroth, 26Mizpah, Chephirah, Mozah, 27Rekem, Irpeel, Taralah, 28Zelah, Haeleph, Jebus (Jerusalem), Gibeah, and Kiriath-jearim—14 towns with their villages.
+
+That was Benjamin’s inheritance by clans.    	Josh 18:21-28
+
+Allotment to Simeon
+
+19:1The second lot came out for Simeon by clans. Its inheritance was inside Judah. 2It had
+
+Beer-sheba, Sheba, Moladah, 3Hazarshual, Balah, Ezem, 4Eltolad, Bethul, Hormah, 5Ziklag, Beth-marcaboth, Hazar-susah, 6Beth-lebaoth, Sharuhen—13 towns with their villages.
+
+7Ain, Rimmon, Ether, Ashan—4 towns with their villages, 8and the villages around those towns as far as Baalath-beer, Ramah in the Negev. That was Simeon’s inheritance by clans. 9They took his territory out of Judah’s, because Judah’s share was too big. 	Josh 19:1-9
+
+Allotment to Zebulun
+
+10The third lot came out for Zebulun by clans. The territory went as far as Sarid. 11Then their border passed up to the west to Maralah, touched Dabbesheth, and reached the stream east of Jokneam. 12It turned from Sarid east as far as the border of Chisloth-tabor, proceeded to Daberath and up to Japhia. 13It continued east to Gath-hepher, to Eth-kazin, and on to Rimmon that stretches to Neah. 14The border on the north turned to Hannathon and ended at the Valley of Iphtahel. 15It included Kattah, Nahalal, Shimron, Idalah, Bethlehem—12 towns with their villages. 16That was Zebulun’s inheritance by clans.
+
+Allotment to Issachar
+
+17The fourth lot fell to Issachar by clans. 18Their territory included Jezreel, Chesulloth, Shunem, 19Hapharaim, Shion, Anaharath, 20Rabbith, Kishion, Ebez, 21Remeth, En-gannim, En-haddah, Beth-pazzez. 22The border reached Tabor, Shahazumah, Beth-shemesh, and ended at the Jordan—16 towns with their villages. 23That was Issachar’s inheritance by clans. 	Josh 19:10-23
+
+24The fifth lot fell to Asher by clans. 25Their territory included Helkath, Hali, Beten, Achshaph, 26Allammelech, Amad, and Mishal. On the west it reached Carmel and Shihor-libnath. 27It turned east to Beth-dagon and reached Zebulun and the Valley of Iphtahel north to Beth-emek and Neiel. Then it proceeded north to Cabul, 28Ebron, Rehob, Hammon, Kanah, as far as Great Sihon. 29The border turned to Ramah and the fortified city of Tyre, then turned to Hosah, and ended at the sea; Mehebel, Achzib, 30 Ummah, Aphek, Rehob—22 towns with their villages. 31That was Asher’s inheritance by clans.	Josh 19:24-31
+
+Allotment to Naphtali
+
+32The sixth lot fell to Naphtali by clans. 33Their border was from Heleph, from the oak in Zaanannim, Adami-nekeb, and Jabneel as far as Lakkum, and ended at the Jordan. 34The border turned west to Aznoth-tabor, proceeded to Hukkok, and reached Zebulun on the south, Asher on the west, and Judah at the Jordan on the east. 35The fortified towns were Ziddim, Zer, Hammath, Rakkath, Chinnereth, 36Adamah, Ramah, Hazor, 37Kedesh, Edrei, En-hazor, 38Yiron, Migdal-el, Horem, Beth-anath, and Beth-shemesh—19 towns with their villages. 39That was Naphtali’s inheritance by clans.	Josh 19:32-39
+
+Allotment to Dan
+
+40The seventh lot fell to Dan by clans. 41Their territory included Zorah, Eshtaol, Irshemesh, 42Sha-alabbin, Aijalon, Ithlah, 43Elon, Timnah, Ekron, 44Eltekeh, Gibbethon, Baalath, 45Jehud, Bene-berak, Gath-rimmon, 46Me-jarkon, Rakkon, with the territory against Joppa. 47When Dan’s territory was lost to them, they went up and fought Leshem and captured it. They struck it with the sword, possessed it, and settled in it. They called it Dan after their ancestor. 48That was the inheritance of Dan by clans.	Josh 19:40-48
+
+Allotment to Joshua
+
+49When they finished dividing up the land, the Israelites gave Joshua an inheritance. 50In accordance with Yahveh’s command, they gave him the city he asked for, Timnath-serah in the hill country of Ephraim. He rebuilt the city and settled in it.
+
+51Those are the inheritances that Eleazar the priest, Joshua, and the heads of households distributed by lot in Shiloh in front of Yahveh, at the doorway of the Tent of Meeting. So they finished dividing up the land.	Josh 19:49-51
+
+Cities of Refuge
+
+20:1Then Yahveh said to Joshua,
+
+2“Have the people establish the cities of refuge I spoke to you about through Moses, 3so anyone that kills somebody accidentally can flee there from an avenger. 4Standing at the entrance to the city gate, the slayer will explain his case to the elders, and they’ll give him a place to stay in the city. 5They won’t give him up to any avenger because the death was an accident, no previous animosity involved. 6The slayer will stay in that city for judgment till the death of the current high priest, and hen he go back home.”
+
+7They set apart Kedesh in Galilee in the hill country of Naphtali, Shechem in the hill country of Ephraim, and Kiriath-arba (Hebron) in the hill country of Judah. 8East of Jericho and the Jordan, they designated Bezer on the tableland in Reuben, Ramoth in Gilead in Gad, and Golan in Bashan in Manasseh. 9They designated those towns for Israelites and foreigners among them to flee to, so the avenger of blood couldn’t take revenge before the slayer could stand in public trial. 	Josh 20:1-9
+
+Towns for the Levites
+
+21:1The heads of families among the Levites came to Eleazar the priest, Joshua, and the heads of families in Israel. 2They said, “Yahveh commanded Moses to give us towns to live in along with pastures for our livestock.” 3Israel gave the Levites those towns and their pastures out of their inheritance.
+
+4The lot came out for the clans of Kohathites; the descendants of Aaron received 13 towns from Judah, Simeon, and Benjamin.
+
+5The rest of the Kohathites received by lot 10 towns from Ephraim, Dan, and the Manasseh half-tribe.
+
+6The Gershonites received by lot 13 towns from Issachar, Asher, and Naphtali, and the Manasseh half-tribe in Bashan.
+
+7The Merarites by clans received 12 towns from Reuben, Gad, and Zebulun. [8]
+
+Josh 21:1-8
+
+9From Judah and Simeon they gave the following towns. 10They went to Aaron’s descendants, one clan of Kohathites among the Levites, since the lot fell to them first. 11They gave them Kiriath-arba (Hebron; Arba was father of Anak.) in the hill country of Judah, along with its pastureland. 12But the city’s fields and villages had been given to Caleb Ben-Jephunneh. 13They gave them Hebron, a city of refuge; Libnah, 14Jattir, Eshtemoa, 15Holon, Debir, 16Ain, Juttah, and Beth-shemesh—9 towns with their pastures. 17From Benjamin they gave Gibeon, Geba, 18Anathoth, and Almon—4 towns with their pastures. 19Aaron’s descendants had 13 towns in all.
+
+20To the rest of the Kohathites the towns were allotted from Ephraim: 21Shechem, a city of refuge in the hill country of Ephraim; Gezer, 22Kibzaim, and Beth-horon—4 towns with their pastures. 23From Dan they gave Elteke, Gibbethon, 24Aijalon, Gath-rimmon—4 towns with their pastures. 25From the Manasseh half-tribe they gave Taanach and Gath-rimmon—2 towns with their pastures. 26The rest of the Kohathites had 10 towns with their pastures.	 Josh 21:9-26
+
+27To the Gershonites—one clan of the Levites—from the Manasseh half-tribe they gave Golan in Bashan, a city of refuge; and Be-eshterah—2 towns with their pastures. 28From Issachar they gave Kishion, Daberath, 29Jarmuth, En-gannim—4 towns with their pastures. 30From Asher they gave Mishal, Abdon, 31Helkath, and Rehob—4 towns with their pastures. 32From Naphtali they gave Kedesh in Galilee, a city of refuge, Hammoth-dor, and Kartan—3 towns with their pastures. 33The Gershonites had 13 towns with their pastures.   	Josh 21:27-33
+
+34To the rest of the Levites—the Merarite clan—from Zebulun they gave Jokneam, Kartah, 35Dimnah, and Nahalal—4 towns with their pastures. 36From Reuben they gave Bezer, Jahaz, 37Kedemoth, and Mephaath—4 towns with their pastures. 38From Gad they gave Ramoth in Gilead, a city of refuge; Mahanaim, 39Heshbon, and Jazer—4 towns with their pastures. 40The Merarite clan had 12 towns.
+
+41-42Throughout Israel the Levites had 48 towns with their pastures around them.
+
+43Yahveh gave Israel all the land he swore to their ancestors. They took it and settled there. 44He gave them peace from every direction. Not one of their enemies could stand against them. 45None of his good promises failed.	Josh 21:34-45
+
+Eastern Tribes Return Home
+
+22:1Then Joshua called Reuben, Gad, and the Manasseh half-tribe,
+
+2“You’ve done everything Moses and I have commanded you. 3You haven’t abandoned your fellow Jews. You’ve kept Yahveh’s charge, 4and he’s given them peace. Go to your possession beyond the Jordan. 5Observe the Law Moses commanded you: love Yahveh your God, follow his ways, hold onto him, and serve him with all your heart and soul.”
+
+6Joshua blessed them and sent them home.
+
+7To the one Manasseh half-tribe, Moses had given a possession in Bashan. To the other half, Joshua had given a possession beside them west of the Jordan. When Joshua sent them home, 8he said, “Go with your considerable wealth in livestock, silver, gold, bronze, iron, and clothing. Divide the spoil from your enemies with your relatives.” 9Reuben, Gad, and the Manasseh half-tribe separated from Israel at Shiloh in Canaan and went to Gilead.	    Josh 22:1-9
+
+10When they came to the region around the Jordan (which lies in Canaan), Reuben, Gad, and the Manasseh half-tribe built a large altar by the Jordan. 11People in Israel heard that Reuben, Gad, and the Manasseh half-tribe had built an altar at the frontier with Canaan near the Jordan on Israel’s side. 12When they heard about it, they gathered at Shiloh to fight them.
+
+13Israel sent them Phinehas Ben-Eleazar the priest 14and one family head from each tribe. 15They said,
+
+16“The whole community says, ‘What’s this treachery you’ve committed against Yahveh God of Israel by building yourselves an altar in rebellion against him? 17Didn’t we have enough sin at Peor that we haven’t yet cleansed ourselves from? Because of it a plague came on the community. 18If you rebel against him today, he’ll be angry with the whole community tomorrow. 19If your land is ceremonially unclean, pass over to where his Tabernacle stands. Take a possession among us. Just don’t rebel against Yahveh or make us rebels by building yourselves an altar other than the altar of Yahveh. 20Didn’t Achan Ben-Zerah break faith with the devoted things, and wrath fell on the whole community? He didn’t perish alone in his sin.’”    	Josh 22:10-20
+
+21Then Reuben, Gad, and the Manasseh half-tribe answered,
+
+22“The Mighty One, God Yahveh! The Mighty One, God Yahveh! He knows, and let Israel know! If it’s rebellion or unfaithfulness toward himY, don’t spare us. 23If we did it to offer burnt offerings, grain offerings, or peace offerings, may heY take revenge. 24No! We did it so that later on your descendants couldn’t say to ours, ‘What do you have to do with Yahveh God of Israel? 25He has made the Jordan a boundary between us. You don’t have any territory in him.’ Your descendants might make ours stop worshiping Yahveh. 26So we said we’d build an altar now, not for sacrifice, 27but to testify that we and our descendants do serve Yahveh with our burnt offerings, sacrifices, and peace offerings. We did it for fear that your descendants might tell ours they didn’t have any territory in Yahveh. 28Then we could say, ‘Look at the copy of his altar our ancestors built for a witness between us.’ 29We’re certainly not rebelling against himY by building an altar to replace the one in front of his Tabernacle!”  	Josh 22:21-29
+
+30Phinehas and the heads of the community liked what they heard. 31He told them, “Now we know Yahveh is among us. You haven’t committed treachery. You’ve saved Israel from Yahveh.” 32They left and took word back to Israel in Canaan. 33The report pleased them, and they blessed God and didn’t say anything more about fighting. 34Reuben and Gad called the altar Ed, a ‘witness’ that Yahveh is God.	Josh 22:30-34
+
+Joshua’s Farewell
+
+23:1A good while later, when Joshua was old, 2he called in Israel’s elders, heads, judges, and officers, and told them,
+
+“I’m getting old. 3You’ve seen everything Yahveh your God has done to those nations for you. He fought for you. 4I’ve allotted to your tribes those nations that remain, along with the nations I’ve already removed, from the Jordan to the Mediterranean Sea in the west. 5Yahveh will push them back. 6Keep doing everything in the Law of Moses. 7Don’t mix with the nations left among you. Don’t mention their gods, swear by them, serve them, bow down to them. 8Hold onto Yahveh like you’ve done so far. 9He has driven out big, strong nations. Nobody has been able to resist you. 10One of you puts a thousand to flight, because he fights for you like he promised. 11Give attention to loving him. 12If you join the remnants of nations left among you and intermarry with them, 13you can be sure he won’t keep driving them out. They’ll be a snare, a trap, a scourge in your sides, thorns in your eyes, till you perish from this good land he’s given you.
+
+14“I’m going to die soon. You know in your hearts and souls that not one good thing has failed to happen that Yahveh promised. 15Just as he has done all the good things he promised, he’ll bring about all the bad things till he’s destroyed you. 16If you sin against his covenant, serve other gods, and bow to them, his anger will flare at you, and you’ll soon perish.”  	Josh 23:1-16
+
+Covenant Renewed at Shechem
+
+24:1Then Joshua gathered the tribes to Shechem with their elders, heads, judges, and officers. They presented themselves to God. 2Joshua said,
+
+“Yahveh God of Israel, says, ‘Your ancestors lived beyond the Euphrates River. Nahor and Terah, Abraham’s father, served other gods. 3I led Abraham from there all over Canaan and multiplied his offspring. I gave him Isaac, 4and gave Isaac Jacob and Esau. I gave Esau the hill country of Seir, but Jacob and his descendants went down to Egypt. 5I sent Moses and Aaron, and plagued Egypt in its own land. 6Afterwards I brought you out of there. You came to the Red Sea, and the Egyptians chased you with chariots and cavalry to the sea. 7When you cried out to me, I put darkness between you and them, and made the sea cover them. You saw that and lived a long time in the desert. 8Then I brought you to Amorite country east of the Jordan. They fought you, and I destroyed them in front of you. You took their land. 9Then Balak Ben-Zippor, king of Moab, rose up to oppose you. He sent for Balaam Ben-Beor and invited him to curse you. 10But I wouldn’t listen to Balaam. So he blessed you, and I delivered you from him. 11You crossed the Jordan to Jericho, and the people in Jericho fought you as did the Amorites, Perizzites, Canaanites, Hittites, Girgashites, Hivites, and Jebusites. I gave them to you. 12I sent hornets to drive out the two Amorite kings. Your sword and bow didn’t do it. 13I gave you a land you hadn’t worked and towns you didn’t build, and you lived in them. You’re eating the fruit from vineyards and olive orchards you didn’t plant.’ 		       				      Josh 24:1-13
+
+14“Now then, respect Yahveh, serve him sincerely and faithfully. Put away the gods your ancestors served beyond the River and in Egypt. 15If you won’t serve him, choose today who you will serve: the gods of your ancestors beyond the River or the gods of the Amorites where you’re living. My house and I will serve Yahveh.”
+
+16The people answered,
+
+“We’ll never leave Yahveh and serve other gods. 17He’s the one that brought us and our ancestors out of slavery in Egypt. He did those great signs for us and preserved us all the way among the nations we passed through. 18He drove the Amorites out of the land, so we’ll serve Yahveh. He’s our God.”
+
+19But Joshua told the people,
+
+“You can’t serve Yahveh, a holy, exclusive God that won’t forgive your sins. 20If you serve foreign gods, he’ll consume you, after doing you good.”
+
+21“No! We’ll serve Yahveh.”
+
+22“You’re witnesses to yourselves that you’ve chosen to serve Yahveh.”
+
+“We’re witnesses.”
+
+23“Then put away your foreign gods. Incline your heart to Yahveh God of Israel.”
+
+24“We’ll serve Yahveh our God and obey him.” 	Josh 24:14-24
+
+25Joshua made a covenant with them that day at Shechem, with a statute and an ordinance 26that he wrote in the Law of God. He set up a large stone there under the oak in Yahveh’s sanctuary. 27He told the people,
+
+“This stone will testify against us. It has heard everything Yahveh told us. It’ll testify against you so you won’t deal falsely with him.”
+
+28Joshua sent everybody home to their inheritance.
+
+Leaders Buried in the Promised Land
+
+29After that, Joshua died at 110. 30They buried him in his inheritance at Timnath-serah in the hill country of Ephraim north of Mount Gaash. 31Israel served Yahveh all his life and the lives of the elders that outlived him and knew what Yahveh had done for Israel.
+
+32The Israelites had brought up Joseph’s bones from Egypt and buried them at Shechem in the piece of ground Jacob bought from the descendants of Hamor, Shechem’s father, for 100 pieces of money. It became an inheritance for Joseph’s descendants.
+
+33Eleazar, Aaron’s son, died, and they buried him at Gibeah, the town of Phinehas his son, which had been given to him in the hill country of Ephraim.	Josh 24:25-33

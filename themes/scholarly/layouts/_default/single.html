@@ -2,10 +2,26 @@
 <article class="single-page">
     <header>
         <h1>{{ .Title }}</h1>
+        {{ if .Params.author }}
+        <p class="author">by {{ .Params.author }}</p>
+        {{ end }}
     </header>
     
     <div class="content">
         {{ .Content }}
     </div>
+    
+    {{/* Related content / See Also */}}
+    {{ partial "see-also.html" . }}
+    
+    {{/* Categories */}}
+    {{ if .Params.categories }}
+    <div class="categories">
+        <span>Categories:</span>
+        {{ range .Params.categories }}
+            <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}/" class="category-tag">{{ . }}</a>
+        {{ end }}
+    </div>
+    {{ end }}
 </article>
 {{ end }}

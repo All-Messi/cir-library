@@ -1,8 +1,8 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Evidences
-date: '2026-01-13'
+- EVIDENCES
+date: '2026-01-23'
 draft: false
 title: THE THIRD REASON
 weight: 999

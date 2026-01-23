@@ -1,10 +1,11 @@
 ---
 author: Virgil Warren
 categories:
-- Ministry
+- Topics
+- MINISTRY
 - Sermons
 - Memorial Day Messages
-date: '2026-01-13'
+date: '2026-01-23'
 draft: false
 title: MEMORIAL DAY ADDRESS
 weight: 999

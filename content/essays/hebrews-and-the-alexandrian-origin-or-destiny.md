@@ -1,10 +1,10 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Evidences
-- Critical Intro, New Testament
-- Hebrews
-date: '2026-01-13'
+- EVIDENCES
+- CRITICAL INTRODUCTION -  New Testament
+- HEBREWS
+date: '2026-01-23'
 draft: false
 title: HEBREWS AND THE ALEXANDRIAN ORIGIN OR DESTINY
 weight: 31

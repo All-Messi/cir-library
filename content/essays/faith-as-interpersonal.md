@@ -1,9 +1,10 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Interpersonalism
-- Ip Impact on Topics
-date: '2026-01-13'
+- Topics
+- INTERPERSONALISM
+- IP (interpersonalism) IMPACT ON TOPICS
+date: '2026-01-23'
 draft: false
 title: FAITH AS INTERPERSONAL
 weight: 999

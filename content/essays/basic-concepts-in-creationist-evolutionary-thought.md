@@ -1,9 +1,9 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Evidences
-- Creation (and Evolution)
-date: '2026-01-13'
+- EVIDENCES
+- CREATION (AND EVOLUTION)
+date: '2026-01-23'
 draft: false
 title: BASIC CONCEPTS IN CREATIONIST-EVOLUTIONARY THOUGHT
 weight: 999

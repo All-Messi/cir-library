@@ -2,10 +2,10 @@
 author: Virgil Warren, PhD
 categories:
 - Bible Resources
-date: '2026-01-13'
+date: '2026-01-23'
 draft: false
 title: CHRIST’S RESURRECTION APPEARANCES
-weight: 10
+weight: 1
 ---
 
 CHRIST’S RESURRECTION APPEARANCES

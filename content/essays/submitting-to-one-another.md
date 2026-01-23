@@ -1,10 +1,12 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Christian Doctrine 1
-- Women's Studies
+- Topics
+- CHRISTIAN DOCTRINE
+- MANKIND (anthropology)
+- WOMEN'S STUDIES
 - Women's Studies Eph 5 21
-date: '2026-01-13'
+date: '2026-01-23'
 draft: false
 title: 'SUBMITTING TO ONE ANOTHER:'
 weight: 999

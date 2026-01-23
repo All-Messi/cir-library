@@ -1,8 +1,8 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- CIR Notion in a Nutshell
-date: '2026-01-13'
+- NOTION IN A NUTSHELL
+date: '2026-01-23'
 draft: false
 title: WHENCE DENOMINATIONS?
 weight: 999

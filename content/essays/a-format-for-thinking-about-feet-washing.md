@@ -1,9 +1,10 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Christian Doctrine 1
-- Feet Washing
-date: '2026-01-13'
+- Topics
+- CHRISTIAN DOCTRINE
+- FEETWASHIING
+date: '2026-01-23'
 draft: false
 title: A FORMAT FOR THINKING ABOUT FEET WASHING
 weight: 40

@@ -1,8 +1,8 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Interpretation
-date: '2026-01-13'
+- INTERPRETATION
+date: '2026-01-23'
 draft: false
 title: HARDENING PHARAOH’S HEART
 weight: 999
