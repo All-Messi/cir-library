@@ -1,6 +1,6 @@
 ---
 book: Proverbs
-chapters: 31
+chapters: 30
 title: Proverbs
 translation: CYV
 type: book
@@ -9,6 +9,4 @@ weight: 20
 
 ## Proverbs
 
-**31 Chapters**
-
-Select a chapter to begin reading:
+**30 Chapters**

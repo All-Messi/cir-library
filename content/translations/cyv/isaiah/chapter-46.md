@@ -9,20 +9,41 @@ type: chapter
 weight: 46
 ---
 
-## Isaiah Chapter 46
+## Isaiah Chapter **46**
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Bel bows down, Nebo stoops over; their images, loaded on beasts of burden and livestock, are too heavy for their tired animals to bear.</span>
+<span class="verse" id="v1"><sup><strong>1</strong></sup>Bel bows down, Nebo stoops over; their images, loaded on beasts of burden and livestock, are too heavy for their tired animals to bear.</span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> The idols themselves are stooped over; their owners are bowed down too; the people couldn't keep the burden from going into captivity with them. 3"Listen to me, House of Jacob, remnant of Israel, you that I've carried from birth,</span>
+<span class="verse" id="v2"><strong><sup>2</sup></strong>The idols themselves are stooped over; their owners are bowed down too; the people couldn’t keep the burden from going into captivity with them.</span>
+<p class="section-ref">Is 46:1-2</p>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> till your graying years I'll do the same; I've made you, and I'll take care of you, carry you along, and save you. 5"What can you compare me with? Who's my equal?</span>
+### 3“Listen to me, House of Jacob, 			remnant of Israel, you that I’ve carried from birth,
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> Those who lavish gold from the purse and weigh silver on the scale, hire a goldsmith to make a god out of it; then they bow down to worship it.</span>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> They lift it up on their shoulder and carry it around; they set it in its place, and it doesn't move. If they call out to it, it can't answer or deliver them from their trouble. 8"Remember this and be confident about it, sinners. Keep in mind the things from long ago, because I'm God; there's no one like me.</span>
+<span class="verse" id="v4"><sup><strong>4</strong></sup><em>	</em><em>	</em><strong><sup>4</sup></strong><em>till</em><em> your </em><em>graying years</em><em> I’ll do the </em><em>same;</em> <em>	</em><em>	</em><em>	I’ve made </em>you,<em> and I’</em><em>ll </em><em>take care of</em><em> </em>you<em>,</em> <em>	</em><em>	</em><em>	</em><em>	carry you </em><em>along, and</em><em> save you. </em><strong>	</strong></span>
+<p class="section-ref">Is 46:3-4</p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> I predict the end from the beginning, from ancient times what hasn't happened yet. I say, 'My purpose will come about; I'll accomplish what I delight in.'</span>
+### 5“What can you compare me with? 			Who’s my equal?
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> I'll call a bird of prey from the east, a leader from a distant country to do my bidding. I've said truthfully what I'd do, and I'll do it. 12"Listen to me, stubborn people who are so far from being good;</span>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> I'm willing to bring my goodness now; my salvation is not something distant that will take a long time to get here; I'll show Zion my salvation and Israel my glory now. Prediction of the Fall of Babylon</span>
+<span class="verse" id="v6"><sup><strong>6</strong></sup><em>	</em><strong><sup>6</sup></strong><em>Those</em><em> who lavish gold from the purse</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	and weigh silver on the scale, </em> <em>	</em><em>	</em><em>	</em><em>	hire a goldsmith to make a god out of </em><em>it;</em> <em>	</em><em>	</em><em>	then they bow down to worship it.</em></span>
+
+<span class="verse" id="v7"><sup><strong>7</strong></sup><em>	</em><strong><sup>7</sup></strong><em>They</em><em> lift it up on their shoulder and carry it </em><em>around;</em> <em>	</em><em>	</em><em>	</em><em>	they set it in its place, and it doesn’t move.</em> <em>	</em><em>	</em><em>	If they call out to it, it can’t answer</em> <em>	</em><em>	</em><em>	</em><em>	or deliver them from their trouble.</em><strong>	</strong><strong>Is</strong><strong> 46:5-7</strong> <strong>	</strong><strong>	</strong><strong><sup>8</sup></strong><em>“Remember</em><em> this and be confident </em><em>about it, sinners.</em> <em>	</em><em>	</em><em>Keep in mind</em><em> the things from long ago,</em> <em>	</em><em>	</em><em>	because </em><strong><em>I’m God; there’s no</em></strong><strong><em> one</em></strong><strong><em> like me</em></strong><em>.</em></span>
+
+<span class="verse" id="v10"><strong><sup>10</sup></strong><em>I</em><em> predict the end from the beginning,</em> <em>	</em><em>	</em><em>	</em><em>	from ancient </em><em>times</em><em> what hasn’t happened yet.</em> <em>	</em><em>	</em><em>	I say, ‘My purpose will come </em><em>about;</em> <em>	</em><em>	</em><em>	</em><em>	I’ll accomplish what I </em><em>delight</em><em> in.’</em></span>
+
+<span class="verse" id="v11"><strong><sup>11</sup></strong><em>I’ll</em><em> call a bird of prey from the east,</em> <em>	</em><em>	</em><em>	</em><em>	a leader from a distant country to do my bidding.</em> <em>	</em><em>	</em><em>	I’ve said truthfully what I’d do,</em> <em>	</em><em>	</em><em>	</em><em>	and I’ll do it.</em><strong>	</strong></span>
+<p class="section-ref">Is 46:8-11</p>
+
+### 12“Listen to me, stubborn people 				who are so far from being good;
+
+
+<span class="verse" id="v13"><strong><sup>13</sup></strong><em>I’m</em><em> willing to bring my goodness </em><em>now;</em> <em>	</em><em>	</em><em>	</em><em>	 my salvation is not something distant</em> <em>	</em><em>	</em><em>	</em><em>	that will take a long time to get </em><em>here;</em> <em>	</em><em>	</em><em>	I’ll show Zion my salvation  </em> <em>	</em><em>	</em><em>	</em><em>	and Israel my glory now.</em><strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>Is</strong><strong> 46:12-13</strong> <strong>Prediction of the Fall of Babylon</strong></span>
+
+
+<style>
+.verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
+.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
+.verse em { font-style: italic; }
+.verse strong sup { color: var(--secondary-color, #8b6914); }
+.section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+</style>

@@ -10,5 +10,3 @@ weight: 11
 ## 1 Kings
 
 **22 Chapters**
-
-Select a chapter to begin reading:

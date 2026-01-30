@@ -3,51 +3,69 @@ book: Lamentations
 chapter: 1
 next: chapter-02
 title: Lamentations 1
-translation: CNT
+translation: COT
 type: chapter
 weight: 1
 ---
 
-## Lamentations Chapter 1
+## Lamentations Chapter **1**
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> How lonely the city sits that used to bustle with people!</span>
+<span class="verse" id="v1"><strong><sup>1</sup></strong>How lonely the city sits that used to bustle with people! She’s like a widow that was once great among the nations! The princess among the provinces has become a slave!</span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> She cries bitterly at night; tears are on her cheeks.</span>
+<span class="verse" id="v2"><strong><sup>2</sup></strong>She cries bitterly at night; tears are on her cheeks. Nobody among her lovers is there to comfort her. Her friends have betrayed her and become her enemies.</span>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> Judah has gone into exile in suffering and hard servitude;</span>
+<span class="verse" id="v3"><strong><sup>3</sup></strong>Judah has gone into exile in suffering and hard servitude; she’s spread out among the nations now; with no resting place. Her pursuers have caught up with her in the middle of her distress.</span>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> The roads to Zion are in mourning</span>
+<span class="verse" id="v4"><strong><sup>4</sup></strong>The roads to Zion are in mourning because nobody attends the appointed festivals. Her gates are desolate, her priests groan, her virgins suffer, and she suffers bitterly herself.</span>
+<p class="section-ref">Lam 1:1-4</p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> Her adversaries have become her masters; her enemies prosper.</span>
+<span class="verse" id="v5"><strong><sup>5</sup></strong>Her adversaries have become her masters; her enemies prosper. The LORD has made her suffer for her many sins. Her children have gone away captive to the foe.</span>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> The majesty is gone from Zion;</span>
+<span class="verse" id="v6"><strong><sup>6</sup></strong>The majesty is gone from Zion; her officials are like bucks that can’t find pasture; they’ve fled away weak before their pursuers.</span>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> In her time of suffering and homelessness,</span>
+<span class="verse" id="v7"><strong><sup>7</sup></strong>In her time of suffering and homelessness, Jerusalem remembers her treasured things from before; when her people fell to her adversaries and nobody helped her, the enemies gloated over her and mocked her downfall.</span>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> Jerusalem sinned grievously, so she's become filthy.</span>
+<span class="verse" id="v8"><strong><sup>8</sup></strong>Jerusalem sinned grievously, so she’s become filthy. Everybody that honored her before despises her now, because they’ve seen her nakedness; she groans and turns away.<strong>	</strong></span>
+<p class="section-ref">Lam 1:5-8</p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> Her uncleanness was in her skirts;</span>
+<span class="verse" id="v9"><strong><sup>9</sup></strong>Her uncleanness was in her skirts; she didn’t give any thought to her doom; so she’s fallen terribly with no comforter.</span>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> The foe has reached out for her treasured things;</span>
+<span class="verse" id="v10"><strong><sup>0</sup></strong>The foe has reached out for her treasured things; she has watched the nations invade her sanctuary, people you commanded not to enter your community.</span>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> The people are groaning as they look for bread;</span>
+<span class="verse" id="v11"><strong><sup>1</sup></strong>The people are groaning as they look for bread; they’ve given their treasured things for food to stay alive; <em>“Look, </em><em>L</em><em>ORD</em><em>, I’m despised.</em></span>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> Is it nothing to you that go by?</span>
+<span class="verse" id="v12"><strong><sup>2</sup></strong><em>Is</em><em> it nothing to you that go by?</em> <em>	</em><em>	Look and see if there’s any pain like my pain</em> <em>	</em><em>	</em><em>	that was severely dealt out to me,</em> <em>	</em><em>	</em><em>	that the </em><em>L</em><em>ORD</em><em> inflicted in his fierce anger.</em><strong>	</strong></span>
+<p class="section-ref">Lam 1:9-12</p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> He sent fire from on high into my bones, and it descended on them.</span>
+<span class="verse" id="v13"><strong><sup>3</sup></strong><em>He</em><em> sent fire from on high into my bones, and it descended on them.</em> <em>	</em><em>	He spread a net for my feet and turned me </em><em>back;</em> <em>	</em><em>	he left me desolate and faint all day long.</em></span>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> He has tied my sins together into a yoke around my neck;</span>
+<span class="verse" id="v14"><strong><sup>4</sup></strong><em>He</em><em> has tied my sins together into a yoke around my </em><em>neck;</em> <em>	</em><em>	he has made my strength fail,</em> <em>	</em><em>	</em><em>	and turned me over to those I can’t withstand.</em></span>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> The Lord has rejected the strong men that are with me;</span>
+<span class="verse" id="v15"><strong><sup>5</sup></strong><em>The</em><em> Lord has rejected the strong men that are with </em><em>me;</em> <em>	</em><em>	he has called an appointed time against me to crush my young </em><em>men;</em> <em>	</em><em>	like a winepress he has trodden down the young virgin Judah.</em></span>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> I weep for those things; my eyes run down with tears</span>
+<span class="verse" id="v16"><strong><sup>6</sup></strong><em>I</em><em> weep for those things; my eyes run down with tears</em> <em>	</em><em>	</em><em>	because there’s no comforter near to restore my soul.</em> <em>	</em><em>	My children are desolate because the enemy has prevailed.”</em><strong>	</strong></span>
+<p class="section-ref">Lam 1:13-16</p>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> Zion holds out her hands, but there's no one to comfort her;</span>
+<span class="verse" id="v17"><strong><sup>7</sup></strong>Zion holds out her hands, but there’s no one to comfort her; the LORD has commanded against Jacob that his neighbors would be his enemies; Jerusalem has become something filthy in their minds. <strong><sup>18</sup></strong><em>“The</em><em> </em><em>LORD</em><em> is good; I’ve rebelled against his </em><em>command;</em> <em>	</em><em>	listen now, all </em><em>you</em><em> nations, and look at my </em><em>pain;</em> <em>	</em><em>	my virgins and young men have gone into captivity.</em></span>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> I called to my lovers, but they deceived me;</span>
+<span class="verse" id="v19"><strong><sup>9</sup></strong><em>I</em><em> called to my lovers, but they deceived </em><em>me;</em> <em>	</em><em>	my priests and elders perished in the city</em> <em>	</em><em>	as they looked for food to stay alive.</em></span>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> Look, LORD, because I'm in distress; my soul is in turmoil.</span>
+<span class="verse" id="v20"><strong><sup>0</sup></strong><em>Look</em><em>, </em><em>L</em><em>ORD</em><em>, because I’m in distress; my soul is in turmoil.</em> <em>	</em><em>	My heart’s upset because I’ve been rebellious.</em> <em>	</em><em>	The sword bereaves in the street; it’s like death in the house.</em><strong>	</strong></span>
+<p class="section-ref">Lam 1:17-20</p>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> They've heard that I'm groaning with nobody to comfort me.</span>
+<span class="verse" id="v21"><strong><sup>1</sup></strong><em>They’ve</em><em> heard that I’m groaning with nobody to comfort me.</em> <em>	</em><em>	My enemies have heard about my </em><em>trouble;</em> <em>	</em><em>	</em><em>	 they’re glad you’ve done it.</em> <em>	</em><em>	Bring the time you’ve promised, </em> <em>	</em><em>	</em><em>	and let them be like me.</em></span>
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> Pay attention to their sinfulness,,</span>
+<span class="verse" id="v22"><strong><sup>2</sup></strong><em>Pay</em><em> attention to their </em><em>sinfulness,,</em><em> </em> <em>	</em><em>	</em><em>	and deal with them like you’ve dealt with me for my sins.</em> <em>	</em><em>	I groan a lot, and my heart is faint.”</em><strong>	</strong></span>
+<p class="section-ref">Lam 1:21-22</p>
+
+### Destruction for Sin
+
+
+
+<style>
+.verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
+.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
+.verse em { font-style: italic; }
+.verse strong sup { color: var(--secondary-color, #8b6914); }
+.section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+</style>

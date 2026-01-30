@@ -9,20 +9,38 @@ type: chapter
 weight: 18
 ---
 
-## Joshua Chapter 18
+## Joshua Chapter **18**
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> The whole community of Israel gathered at Shiloh and set up the Tent of Meeting. The land had been conquered, 2but seven tribes hadn't yet received their inheritance. 3Joshua said, "How long will you put off taking possession of what Yahveh has given you? 4Select three men from each tribe that I can send through the land to write a description of their inheritance. 5-6Divide it into seven territories and describe them. Judah will stay in its territory on the south. Joseph will stay in its territory on the north. I'll cast lots for you here in front of Yahveh. 7The Levites don't have any territory; the priesthood is their inheritance. Moses has given Gad, Reuben, and the Manasseh half-tribe their inheritance east of the Jordan."</span>
+<span class="verse" id="v1"><sup><strong>1</strong></sup>The whole community of Israel gathered at Shiloh and set up the Tent of Meeting. The land had been conquered, <strong><sup>2</sup></strong>but seven tribes hadn’t yet received their inheritance. <strong><sup>3</sup></strong>Joshua said, <em>“How long will you put off taking possession of </em><em>what</em><em> </em><em>Yahveh</em> <em>has given you?</em><em> </em><strong><sup>4</sup></strong><em>Select</em><em> </em><em>three men from each tribe that I can send through the land </em><em>to</em><em> write a description of their</em><em> inheritance</em><em>.</em><em> </em><strong><sup>5</sup></strong><strong><sup>-</sup></strong><strong><sup>6</sup></strong><em>Divide</em><em> it into seven </em><em>territorie</em><em>s</em><em> and describe them</em><em>.</em><em> </em><em>Judah will stay in its territory </em><em>on</em><em> the south.</em><em> </em><em>Joseph will stay in its territory </em><em>on</em><em> the north.</em><em> </em><em>I’ll cast lots for you here </em><em>in front of</em><em> </em><em>Yahveh</em><em>.</em><em> </em><strong><sup>7</sup></strong><em>The</em><em> Levites don’t have any </em><em>territory; the priesthood i</em><em>s their inheritance.</em><em> Moses has given Gad,</em><em> Reuben</em><em>,</em><em> and the Manasseh</em><em> </em><em>half-tribe</em><em> their inheritance east of the Jordan.”</em></span>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> Joshua told the men, "Go through the land, describe it, and come back. I'll cast lots for you here in front of Yahveh in Shiloh." 9They went through the land and described it by cites in seven divisions in a scroll. They came back to him at Shiloh. 10He cast lots for them and divided the land according to their divisions. Allotment to Benjamin</span>
+<span class="verse" id="v8"><sup><strong>8</strong></sup>Joshua told the men, <em>“</em><em>Go through the land,</em><em> describe it, and come back.</em><em> </em><em>I’ll cast lots f</em><em>or you here in front of Yahveh</em> <em>in </em><em>Shiloh.”</em> <strong><sup>9</sup></strong>They went through the land and described it by cites in seven divisions in a scroll. They came back to him at Shiloh. <strong><sup>10</sup></strong>He cast lots for them and divided the land according to their divisions.</span>
+<p class="section-ref">Josh 18:1-10</p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> The lot for Benjamin came out by clans. Their territory lay between Judah and Joseph. 12The north border ran from the Jordan up past Jericho through the hill country west, ending at the Wilderness of Beth-aven.</span>
+### Allotment to Benjamin
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> From there it went south toward Luz (Bethel), and down to Ataroth-addar, near the hill south of Lower Beth-horon. 14The border extended around on the west side southward from the hill facing Beth-horon and ended at Kiriath-baal (Kiriath-jearim), a city of Judah. That was the west border.</span>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> The south side began at the outskirts of Kiriath-jearim and ran to Ephron to the Spring of Nephtoah. 16Then it went down south to the edge of the mountain that's in the Valley of (Ben)Hinnom, at the north end of the Valley of Rephaim. From there it extended down to the Valley of Hinnom, south to the slope of the Jebusites down to En-rogel. 17It curved around north to En-shemesh and then to Geliloth, across from the ascent of Adummim. Then it went down to the stone of Bohan Ben-Reuben. 18It passed on to the north of Beth-arabah and went down to the Arabah. 19It passed north of Beth-hoglah and ended at the northern bay of the Dead Sea, the south end of the Jordan. That was the south border.</span>
+<span class="verse" id="v11"><sup><strong>11</strong></sup>The lot for <strong>Benjamin</strong> came out by clans. Their territory lay between Judah and Joseph. <strong><sup>12</sup></strong>The <u>north</u><u> border</u> ran from the Jordan up past Jericho through the hill country west, ending at the Wilderness of Beth-aven.</span>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> The Jordan was its east border.</span>
+<span class="verse" id="v13"><sup><strong>13</strong></sup>From there it went south toward Luz (Bethel), and down to Ataroth-addar, near the hill south of Lower Beth-horon. <strong><sup>14</sup></strong>The border extended around on the west side southward from the hill facing Beth-horon and ended at Kiriath-baal (Kiriath-jearim), a city of Judah. That was the <u>west </u><u>border</u>.</span>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> The towns in Benjamin by clans were Jericho, Beth-hoglah, Emek-keziz, 22Beth-arabah, Zemaraim, Bethel, 23Avvim, Parah, Ophrah, 24Chephar-ammoni, Ophni, and Geba—12 towns with their villages;</span>
+<span class="verse" id="v15"><sup><strong>15</strong></sup>The south side began at the outskirts of Kiriath-jearim and ran to Ephron to the Spring of Nephtoah. <strong><sup>16</sup></strong>Then it went down south to the edge of the mountain that’s in the Valley of (Ben)Hinnom, at the north end of the Valley of Rephaim. From there it extended down to the Valley of Hinnom, south to the slope of the Jebusites down to En-rogel. <strong><sup>17</sup></strong>It curved around north to En-shemesh and then to Geliloth, across from the ascent of Adummim. Then it went down to the stone of Bohan Ben-Reuben. <strong><sup>18</sup></strong>It passed on to the north of Beth-arabah and went down to the Arabah. <strong><sup>19</sup></strong>It passed north of Beth-hoglah and ended at the northern bay of the Dead Sea, the south end of the Jordan. That was the <u>south </u><u>border</u>.</span>
 
-<span class="verse" id="v25"><sup class="verse-num">25</sup> Gibeon, Ramah, Beeroth, 26Mizpah, Chephirah, Mozah, 27Rekem, Irpeel, Taralah, 28Zelah, Haeleph, Jebus (Jerusalem), Gibeah, and Kiriath-jearim—14 towns with their villages. That was Benjamin's inheritance by clans. Allotment to Simeon</span>
+<span class="verse" id="v20"><sup><strong>20</strong></sup>The Jordan was its <u>east border</u>.</span>
+<p class="section-ref">Josh 18:11-20</p>
+
+<span class="verse" id="v21"><sup><strong>21</strong></sup>The towns in Benjamin by clans were Jericho, Beth-hoglah, Emek-keziz, <strong><sup>22</sup></strong>Beth-arabah, Zemaraim, Bethel, <strong><sup>23</sup></strong>Avvim, Parah, Ophrah, <strong><sup>24</sup></strong>Chephar-ammoni, Ophni, and Geba—12 towns with their villages;</span>
+
+<span class="verse" id="v25"><sup><strong>25</strong></sup>Gibeon, Ramah, Beeroth, <strong><sup>26</sup></strong>Mizpah, Chephirah, Mozah, <strong><sup>27</sup></strong>Rekem, Irpeel, Taralah, <strong><sup>28</sup></strong>Zelah, Haeleph, Jebus (Jerusalem), Gibeah, and Kiriath-jearim—14 towns with their villages. That was Benjamin’s inheritance by clans.</span>
+<p class="section-ref">Josh 18:21-28</p>
+
+### Allotment to Simeon
+
+
+
+<style>
+.verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
+.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
+.verse em { font-style: italic; }
+.verse strong sup { color: var(--secondary-color, #8b6914); }
+.section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+</style>

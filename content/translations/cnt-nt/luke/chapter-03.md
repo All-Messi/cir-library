@@ -9,146 +9,57 @@ type: chapter
 weight: 3
 ---
 
-## Luke Chapter 3
+## Luke Chapter **3**
 
-### John the Baptist's Ministry
+<span class="verse" id="v1"><strong><sup>1</sup></strong>In the fifteenth year of Tiberias Caesar, Pontius Pilate was governing Judaea, Herod was tetraarch of Galilee, his brother Philip was tetraarch of Iturea and Trachonitis, Lysanius was tetraarch of Abilene, <strong><sup>2</sup></strong>Annas and Caiaphas were high priests. That’s when a message came from God to John son of Zachariah in the desert. <strong><sup>3</sup></strong>He went to the area around the Jordan River and started presenting a baptism of repentance to forgive sins. <strong><sup>4</sup></strong>Scripture says in Isaiah the prophet, <strong><em>“One shouting in the desert,</em></strong> <strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	‘Get the road ready for the </em></strong><strong><em>L</em></strong><strong><em>ORD</em></strong><strong><em>!</em></strong> <strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>Make it straight!</em></strong></span>
 
-<p class="verse"><sup>1</sup>In the fifteenth year of Tiberias Caesar, Pontius Pilate was governing Judaea, Herod was tetrarch of Galilee, his brother Philip was tetrarch of Iturea and Trachonitis, Lysanius was tetrarch of Abilene, <sup>2</sup>Annas and Caiaphas were high priests. That's when a message came from God to John son of Zachariah in the desert. <sup>3</sup>He went to the area around the Jordan River and started presenting a baptism of repentance to forgive sins. <sup>4</sup>Scripture says in Isaiah the prophet,</p>
+<span class="verse" id="v5"><sup><strong>5</strong></sup><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><sup>5</sup></strong><strong><em>Fill </em></strong><strong><em>every chuck hole.</em></strong> <strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>l</em></strong><strong><em>evel out every bump</em></strong><strong><em>;</em></strong> <strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>s</em></strong><strong><em>traighten out the curves</em></strong><strong><em>;</em></strong> <strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>s</em></strong><strong><em>mooth out the rough </em></strong><strong><em>stretches</em></strong><strong><em>.</em></strong></span>
 
-<blockquote class="scripture-quote">
-"A voice is crying out in the desert,<br>
-'Prepare the LORD's road,<br>
-straighten his paths.<br>
-<sup>5</sup>Fill every chuck hole.<br>
-Level every hill and mound.<br>
-Straighten the crooked ways.<br>
-Smooth out the rough spots.<br>
-<sup>6</sup>Everybody will see God's salvation'" [Is 40:3-5].
-</blockquote>
+<span class="verse" id="v6"><sup><strong>6</strong></sup><strong><em>Everybody will see God’s </em></strong><strong><em>salvation</em></strong><strong><em>”</em></strong><strong> </strong><strong>[Is</strong><strong> 40:3-5].</strong></span>
+<p class="section-ref">Lk 3:1-6</p>
 
-<p class="verse"><sup>7</sup>He was saying to the crowds that were coming out to have him baptize them, "You bunch of poisonous snakes! Who warned you to run from God's wrath that's coming? <sup>8</sup>Bear fruit appropriate for repentance and don't even begin to tell yourselves, 'Abraham's our ancestor.' God can raise up descendants of Abraham from these stones. <sup>9</sup>An axe is already lying at the root of the trees. Every tree that doesn't bear good fruit will be chopped down and burned."</p>
+### An Example of John’s Preaching
 
-<p class="verse"><sup>10</sup>The crowds asked him, "What should we do?" <sup>11</sup>"If you have two shirts, give one to a person that doesn't have any. If you have food, do the same thing."</p>
 
-<p class="verse"><sup>12</sup>Tax collectors came to be baptized, "Rabbi, what should we do?" <sup>13</sup>"Don't collect any more than what you're supposed to."</p>
+<span class="verse" id="v7"><strong><sup>7</sup></strong>He was saying to the crowds that were coming out to have him baptize them, <em>“</em>You <em>bunch of poisonous snakes</em><em>! Who warned you to </em><em>run</em><em> from </em><em>God’s wrath</em><em> </em><em>that’s coming</em><em>?</em><em> </em><strong><sup>8</sup></strong><em>Bear fruit </em><em>appropriate</em><em> for repentance and don’t </em><em>even begin to tell</em><em> yourselves, ‘Abraham’s our </em><em>ancesto</em><em>r.’</em><em> God can raise up descendants of</em><em> Abraham</em><em> </em><em>from these </em><em>stones</em><em>.</em><em> </em><strong><sup>9</sup></strong><em>An axe is already lying at the </em><em>root</em><em> of the trees.</em><em> </em><em>Every tree that doesn’t bear good fruit will be </em><em>chopped</em><em> down and </em><em>burned</em><em>.” </em></span>
 
-<p class="verse"><sup>14</sup>Soldiers asked, "What should we do?" "Don't extort money from people by force or false charges. Be content with your pay."</p>
+<span class="verse" id="v10"><strong><sup>0</sup></strong>The crowds asked him, <em>“What should </em><em>we</em><em> do?”</em> <strong><sup>11</sup></strong><em>“</em><em>If you have</em><em> two </em><em>shirts,</em><em> give one to a person that doesn’t have any.</em><em> If you have</em><em> food</em><em>,</em><em> do the same thing.”</em></span>
 
-<p class="verse"><sup>15</sup>While people were wondering if John might be the Messiah, <sup>16</sup>he said, "I'm immersing you in water, but Someone more important is coming, whose sandals I'm not worthy to unstrap. He'll 'immerse' you in the Holy Spirit. <sup>17</sup>He'll use his winnowing fork to thoroughly clean up his threshing floor. He'll gather the seed into his granary and burn up the chaff with a fire you can't put out."</p>
+<span class="verse" id="v12"><strong><sup>2</sup></strong>Tax collectors came to be baptized, <em>“Rabbi, what should </em><em><u>we</u></em><em> do?”</em> <strong><sup>13</sup></strong><em>“Don’t collect more than </em><em>required</em><em>.”</em></span>
 
-<p class="verse"><sup>18</sup>He encouraged them about lots of other things and delivered good news to the people.</p>
+<span class="verse" id="v14"><strong><sup>4</sup></strong>Soldiers asked,<em> “What should </em><em><u>we</u></em><em> do?”</em> <em>“Don’t exto</em><em>rt money by false charges. B</em><em>e satisfied with your pay.”</em></span>
 
-<p class="verse"><sup>19</sup>When John reprimanded Herod Antipas the tetrarch about Herodias, his half-brother's wife, <sup>20</sup>and all the wicked things he'd done, Herod added this on top of them: he locked John up in prison.</p>
+<span class="verse" id="v15"><sup><strong>15</strong></sup>While people were wondering if John might be the Messiah, <strong><sup>16</sup></strong>he said, <em>“</em><em><u>I’m</u></em><em> immers</em><em>ing you in water, but </em><em>Someone more important</em><em> is com</em><em>ing, whose sandals I’m not worthy to unstrap</em><em>.</em><em> </em><em><u>He’ll</u></em><em> </em><em>‘immerse’</em><em> you in the Holy Spirit.</em><em> </em><strong><sup>17</sup></strong><em>H</em><em>e’ll use h</em><em>is </em><em>winnowing fork to </em><em>thoroughly clean up his threshing floor</em><em>. He’ll</em><em> gather the seed into his granary </em><em>and </em><em>burn </em><em>up </em><em>the chaff with a fire you can’t put out.</em><em>”</em></span>
 
-### Jesus' Baptism
+<span class="verse" id="v18"><sup><strong>18</strong></sup>He encouraged them about lots of other things and delivered good news to the people.</span>
+<p class="section-ref">Lk 3:7-18</p>
 
-<p class="verse"><sup>21</sup>While John had been baptizing the people, Jesus was baptized too. As he was praying, the sky opened up, <sup>22</sup>and the Holy Spirit came down on him in bodily form like a dove. A voice came out of the sky, "You're my dearly loved Son that I delight in."</p>
+### The Arrest of John the Baptist
 
-### The Genealogy of Jesus According to <u>Luke</u> (cp. Mt 1:1-17)
 
-<p class="verse"><sup>23</sup>Jesus was about 30 when he began his ministry. He was—as supposed—the</p>
+<span class="verse" id="v19"><sup><strong>19</strong></sup>When John reprimanded Herod <em>Antipas </em>the tetraarch about Herodias, his half-brother’s wife, <strong><sup>20</sup></strong>and all the wicked things he’d done, <em>Herod</em> added this on top of them: he locked John up in prison.</span>
+<p class="section-ref">Lk 3:19-20</p>
 
-<div class="genealogy-table">
-<table class="genealogy luke-genealogy">
-<tr><td>son of Joseph,</td><td>son-in-law of Eli,</td><td>son of <u>Matthat</u>,</td><td><sup>24</sup>son of Levi,</td><td>son of Melchi,</td></tr>
-<tr><td>son of Jannai,</td><td>son of Joseph,</td><td><sup>25</sup>son of Mattathias,</td><td>son of Amos,</td><td>son of Nahum,</td></tr>
-<tr><td>son of Hesli,</td><td>son of <u>Naggai</u>,</td><td><sup>26</sup>son of Maath,</td><td>son of Mattathias,</td><td>son of Semein,</td></tr>
-<tr><td>son of Josech,</td><td>son of Joda,</td><td><sup>27</sup>son of Joanan,</td><td>son of Rhesa,</td><td>son of Zerubbabel,</td></tr>
-<tr><td>son of Shealtiel,</td><td>son of Neri,</td><td><sup>28</sup>son of Melchi,</td><td>son of Addi,</td><td>son of Cosam,</td></tr>
-<tr><td>son of Elmadam,</td><td>son of Er,</td><td><sup>29</sup>son of Joshua,</td><td>son of Eliezer,</td><td>son of Jorim,</td></tr>
-<tr><td>son of <u>Matthat</u>,</td><td>son of Levi,</td><td><sup>30</sup>son of Simeon,</td><td>son of Judah,</td><td>son of Joseph,</td></tr>
-<tr><td>son of Jonam,</td><td>son of Eliakim,</td><td><sup>31</sup>son of Melea,</td><td>son of Menna,</td><td>son of <u>Mattathia</u>,</td></tr>
-<tr><td>son of Nathan,</td><td>son of David,</td><td><sup>32</sup>son of Jesse,</td><td>son of Obed,</td><td>son of Boaz,</td></tr>
-<tr><td>son of Salmon,</td><td>son of Nahshon,</td><td><sup>33</sup>son of Amminadab,</td><td>son of Admin,</td><td>son of Ram,</td></tr>
-<tr><td>son of Hezron,</td><td>son of Perez,</td><td>son of Judah,</td><td><sup>34</sup>son of Jacob,</td><td>son of Isaac,</td></tr>
-<tr class="section-break"><td>son of Abraham,</td><td>son of Terah,</td><td>son of Nahor,</td><td><sup>35</sup>son of Serug,</td><td>son of Reu,</td></tr>
-<tr><td>son of Peleg,</td><td>son of Heber,</td><td>son of Shelah,</td><td><sup>36</sup>son of Cainan,</td><td>son of Arphaxad,</td></tr>
-<tr><td>son of Shem,</td><td>son of Noah,</td><td>son of Lamech,</td><td><sup>37</sup>son of Methuselah,</td><td>son of Enoch,</td></tr>
-<tr><td>son of Jared,</td><td>son of Mahalaleel,</td><td>son of Cainan,</td><td><sup>38</sup>son of Enosh,</td><td>son of Seth,</td></tr>
-<tr><td>son of Adam,</td><td>son of God.</td><td></td><td></td><td></td></tr>
-</table>
-</div>
+### The Baptism of Jesus
 
-<p class="section-ref">Lk 3:23-38</p>
+
+<span class="verse" id="v21"><sup><strong>21</strong></sup>While John had been baptizing the people, Jesus was baptized too. As he was praying, the sky opened up, <strong><sup>22</sup></strong>and the Holy Spirit came down on him in bodily form like a dove. A voice came out of the sky, <em>“You’re my </em><em>dearly </em><em>loved Son that I delight in.”</em></span>
+<p class="section-ref">Lk 3:21-22</p>
+
+### The Genealogy of Jesus According to Luke  (cp. Mt 1:1-17)
+
+
+<span class="verse" id="v23"><strong><sup>3</sup></strong>Jesus was</span>
+<p class="section-ref">about 30</p>
+
+### when he began his ministry. He was—as supposed—the son of Joseph, 	son-in-law of Eli,	son of Matthat, 	24son of Levi,	son of Melchi, son of Jannai,	son of Joseph,	25son of Mattathias, son of Amos,	son of Nahum, son of Hesli,	son of Naggai,	26son of Maath, 	son of Mattathias, son of Semein, son of Josech,	son of Joda,	27son of Joanan, 	son of Rhesa,	son of Zerubbabel, son of Shealtiel, 	son of Neri, 	28son of Melchi,	son of Addi,	son of Cosam, son of Elmadam,	son of Er,	29son of Joshua,	son of Eliezer,	son of Jorim, son of Matthat, 	son of Levi,	30son of Simeon,	son of Judah,	son of Joseph, son of Jonam,	son of Eliakim,	31son of Melea,	son of Menna, 	son of Mattathia, son of Nathan,	son of David,	32son of Jesse,	son of Obed,	son of Boaz, son of Salmon,	son of Nahshon,	33son of Amminadab, son of Admin, son of Ram, son of Hezron,	son of Perez,	son of Judah, 	34son of Jacob, 	son of Isaac, son of Abraham,	son of Terah,	son of Nahor,	35son of Serug,	son of Reu, son of Peleg,	son of Heber,	son of Shelah, 	36son of Cainan,	son of Arphaxad, son of Shem,	son of Noah,	son of Lamech,	37son of Methuselah, son of Enoch, son of Jared,	son of Mahalaleel, son of Cainan,	38son of Enosh,	son of Seth, son of Adam,	son of God.		Lk 3:23-38 The Temptation of Jesus
+
+
 
 <style>
-.genealogy-table {
-    margin: 1.5rem 0 2rem 0;
-    overflow-x: auto;
-}
-
-.genealogy {
-    width: 100%;
-    border-collapse: collapse;
-    font-size: 1.05rem;
-    line-height: 1.5;
-}
-
-.luke-genealogy td {
-    padding: 0.3rem 0.4rem;
-    vertical-align: top;
-    width: 20%;
-}
-
-.genealogy td.indent {
-    padding-left: 1.5rem;
-}
-
-.genealogy sup {
-    color: var(--secondary-color, #8b6914);
-    font-weight: bold;
-    font-size: 0.8em;
-    margin-right: 0.15em;
-}
-
-.genealogy u {
-    text-decoration-color: var(--secondary-color, #8b6914);
-}
-
-.genealogy tr.section-break td {
-    padding-top: 1rem;
-}
-
-.section-ref {
-    text-align: right;
-    font-size: 0.9rem;
-    color: #666;
-    margin: 0.5rem 0 2.5rem 0;
-    font-style: italic;
-}
-
-.verse {
-    line-height: 1.8;
-    margin-bottom: 1rem;
-}
-
-.verse sup {
-    color: var(--secondary-color, #8b6914);
-    font-weight: bold;
-    font-size: 0.8em;
-    margin-right: 0.1em;
-}
-
-.scripture-quote {
-    margin: 1rem 2rem;
-    padding-left: 1rem;
-    border-left: 3px solid var(--secondary-color, #8b6914);
-    font-style: italic;
-    line-height: 1.6;
-}
-
-.scripture-quote sup {
-    color: var(--secondary-color, #8b6914);
-    font-weight: bold;
-    font-size: 0.8em;
-}
-
-@media (max-width: 768px) {
-    .genealogy {
-        font-size: 0.85rem;
-    }
-    .luke-genealogy td {
-        padding: 0.2rem 0.25rem;
-    }
-}
+.verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
+.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
+.verse em { font-style: italic; }
+.verse strong sup { color: var(--secondary-color, #8b6914); }
+.section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
 </style>

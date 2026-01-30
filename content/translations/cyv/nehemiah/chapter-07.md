@@ -9,88 +9,204 @@ type: chapter
 weight: 7
 ---
 
-## Nehemiah Chapter 7
+## Nehemiah Chapter **7**
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> The wall had been rebuilt, and I'd set up the doors and appointed gatekeepers, singers, and Levites. 2I put Hanani my brother—along with Hananiah commander of the fortress—in charge of Jerusalem because he was a reliable man that respected God more than most. 3I told them, "Don't open the gates till the sun is hot. While they're standing guard, shut and bolt the doors. Appoint guards from the people that live inside Jerusalem, each at his post by his own house."</span>
+<span class="verse" id="v1"><sup><strong>1</strong></sup>The wall had been rebuilt, and I’d set up the doors and appointed gatekeepers, singers, and Levites. <strong><sup>2</sup></strong>I put Hanani my brother—along with Hananiah commander of the fortress—in charge of Jerusalem because he was a reliable man that respected God more than most. <strong><sup>3</sup></strong>I told them, <em>“Don’t open the gates till the sun is hot</em><em>. W</em><em>hile they’re standing guard, shut and bolt the doors.</em><em> </em><em>Appoint guards from the </em><em>people that live inside</em><em> Jerusalem, each at his post </em><em>by</em><em> </em><em>his own house.” </em></span>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> The city was big and open, but there weren't many people in it, and houses hadn't been built.</span>
+<span class="verse" id="v4"><sup><strong>4</strong></sup>The city was big and open, but there weren’t many people in it, and houses hadn’t been built.</span>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> Then God put it in my heart to gather the nobles, the officials, and the people to be enrolled by genealogies. I found the scroll with the genealogies for the ones that came up first; it read as follows: Lists of Returning Exiles 6-7the number of Israelites that came back to Jerusalem and Judah with Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum, and Baanah:</span>
+<span class="verse" id="v5"><sup><strong>5</strong></sup>Then God put it in my heart to gather the nobles, the officials, and the people to be enrolled by genealogies. I found the scroll with the genealogies for the ones that came up first; it read as follows:<strong>	</strong><strong>	</strong><strong>	  </strong></span>
+<p class="section-ref">Neh 7:1-5</p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> the family of Parosh		2,172</span>
+### Lists of Returning Exiles 6-7the number of Israelites that came back to Jerusalem and Judah with Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum, and Baanah:
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> the family of Shephatiah 			372</span>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> the family of Arah	652</span>
+<span class="verse" id="v8"><strong><sup>8</sup></strong>the family of P</span>
+<p class="section-ref">arosh		2</p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> the family of Pahath-moab (descendants of Jeshua and Joab)	2,818</span>
+### ,172
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> the family of Elam 	1,254</span>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> the family of Zattu 	845</span>
+<span class="verse" id="v9"><strong><sup>9</sup></strong>the family of Sheph</span>
+<p class="section-ref">atiah 			372</p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> the family of Zaccai	760</span>
+<span class="verse" id="v10"><strong><sup>0</sup></strong>the family of</span>
+<p class="section-ref">Arah	652</p>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> the family of Binnui 	648</span>
+<span class="verse" id="v11"><strong><sup>11</sup></strong>the family of Pahath-moab (descendants of Jeshua and Joab)	2,818</span>
+<p class="section-ref">Neh 7:6-11</p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> the family of Bebai 	628</span>
+<span class="verse" id="v12"><strong><sup>12</sup></strong>the family of</span>
+<p class="section-ref">Elam 	1</p>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> the family of Azgad 			2,322</span>
+### ,254
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> the family of Adonikam 		667</span>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> the family of Bigvai 			2,067</span>
+<span class="verse" id="v13"><strong><sup>13</sup></strong>the family of</span>
+<p class="section-ref">Zattu 	845</p>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> the family of Adin			655</span>
+<span class="verse" id="v14"><strong><sup>4</sup></strong>the family of Z</span>
+<p class="section-ref">accai	760</p>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> the family of Ater (descendants of Hezekiah) 	98</span>
+<span class="verse" id="v15"><strong><sup>5</sup></strong>the family of B</span>
+<p class="section-ref">innui 	648</p>
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> the family of Hashum,			328</span>
+<span class="verse" id="v16"><strong><sup>6</sup></strong>the family of</span>
+<p class="section-ref">Bebai 	628</p>
 
-<span class="verse" id="v23"><sup class="verse-num">23</sup> the family of Bezai 				324</span>
+<span class="verse" id="v17"><strong><sup>17</sup></strong>the family of</span>
+<p class="section-ref">Azgad 			2</p>
 
-<span class="verse" id="v24"><sup class="verse-num">24</sup> the family of Hariph 			112</span>
+### ,322
 
-<span class="verse" id="v25"><sup class="verse-num">25</sup> the family of Gibeon 			95</span>
 
-<span class="verse" id="v26"><sup class="verse-num">26</sup> the people from Bethlehem and Netophah	 			188</span>
+<span class="verse" id="v18"><strong><sup>18</sup></strong>the family of Ado</span>
+<p class="section-ref">nikam 		667</p>
 
-<span class="verse" id="v27"><sup class="verse-num">27</sup> the people from Anathoth 	128</span>
+<span class="verse" id="v19"><strong><sup>19</sup></strong>the family of B</span>
+<p class="section-ref">igvai 			2</p>
 
-<span class="verse" id="v28"><sup class="verse-num">28</sup> the people from Beth-azmaveth 	42</span>
+### ,067
 
-<span class="verse" id="v29"><sup class="verse-num">29</sup> the people from Kiriath-jearim, Chephirah, and Beeroth		743</span>
 
-<span class="verse" id="v30"><sup class="verse-num">30</sup> the people from Rama and Geba 				621</span>
+<span class="verse" id="v20"><strong><sup>20</sup></strong>the family of</span>
+<p class="section-ref">Adin			655</p>
 
-<span class="verse" id="v31"><sup class="verse-num">31</sup> the people from Michmas 		122</span>
+<span class="verse" id="v21"><strong><sup>21</sup></strong>the family of Ater (descendants of Hezekiah) 	98</span>
 
-<span class="verse" id="v32"><sup class="verse-num">32</sup> the people from Bethel and Ai 	123</span>
+<span class="verse" id="v22"><strong><sup>22</sup></strong>the family of Hashum,			328</span>
 
-<span class="verse" id="v33"><sup class="verse-num">33</sup> the people from the other Nebo	 52</span>
+<span class="verse" id="v23"><strong><sup>23</sup></strong>the family of</span>
+<p class="section-ref">Bezai 				324</p>
 
-<span class="verse" id="v34"><sup class="verse-num">34</sup> the people from the other Elam 			1,254</span>
+<span class="verse" id="v24"><strong><sup>24</sup></strong>the family of H</span>
+<p class="section-ref">ariph 			112</p>
 
-<span class="verse" id="v35"><sup class="verse-num">35</sup> the people from Harim 			320</span>
+<span class="verse" id="v25"><strong><sup>25</sup></strong>the family of G</span>
+<p class="section-ref">ibeon 			95</p>
 
-<span class="verse" id="v36"><sup class="verse-num">36</sup> the people from Jericho 			345</span>
+<span class="verse" id="v26"><strong><sup>26</sup></strong>the people from Bethlehem and Net</span>
+<p class="section-ref">ophah	 			188</p>
 
-<span class="verse" id="v37"><sup class="verse-num">37</sup> the people from Lod, Hadid, And Ono				721</span>
+### Neh 7:12-26
 
-<span class="verse" id="v38"><sup class="verse-num">38</sup> the people from Senaah 		3,930</span>
 
-<span class="verse" id="v39"><sup class="verse-num">39</sup> the priests the family of Jehaiah (through Jeshua)  			973</span>
+<span class="verse" id="v27"><strong><sup>27</sup></strong>the people from Ana</span>
+<p class="section-ref">thoth 	128</p>
 
-<span class="verse" id="v40"><sup class="verse-num">40</sup> the family of Immer			1,052</span>
+<span class="verse" id="v28"><strong><sup>28</sup></strong>the people from Beth-azm</span>
+<p class="section-ref">aveth 	42</p>
 
-<span class="verse" id="v41"><sup class="verse-num">41</sup> the family of Passhur		1,247</span>
+<span class="verse" id="v29"><strong><sup>29</sup></strong>the people from Kiriath-jearim, Chephirah, and Be</span>
+<p class="section-ref">eroth		743</p>
 
-<span class="verse" id="v42"><sup class="verse-num">42</sup> the family of Harim			1,017</span>
+<span class="verse" id="v30"><strong><sup>30</sup></strong>the people from Rama and</span>
+<p class="section-ref">Geba 				621</p>
 
-<span class="verse" id="v43"><sup class="verse-num">43</sup> the Levites the families of Jeshua and Kadmiel (descendants of Hodevah) 	74</span>
+<span class="verse" id="v31"><strong><sup>31</sup></strong>the people from Mi</span>
+<p class="section-ref">chmas 		122</p>
 
-<span class="verse" id="v44"><sup class="verse-num">44</sup> the singers: the family of Asaph 	148</span>
+<span class="verse" id="v32"><strong><sup>32</sup></strong>the people from Bethel and</span>
+<p class="section-ref">Ai 	123</p>
 
-<span class="verse" id="v45"><sup class="verse-num">45</sup> the gatekeepers: the families of Shallum, Ater, Talmon, Akkub, Hatita, and Shobai 	138</span>
+<span class="verse" id="v33"><strong><sup>33</sup></strong>the people from the other</span>
+<p class="section-ref">Nebo	 52</p>
 
-<span class="verse" id="v46"><sup class="verse-num">46</sup> the Temple servants: the descendants of Ziha, Hasupha, Tabbaoth, 47Keros, Sia, Padon, 48Lebana, Hagaba, Shalmai, 49Hanan, Giddel, Gahar, 50Reaiah, Rezin, Nekoda, 51Gazzam, Uzza, Paseah, 52Besai, Meunim, Nephushesim, 53Bakbuk, Hakupha, Harhur, 54Bazlith, Mahida, Harsha, 55Barkos, Sisera, Temah, 56Neziah, and Hatipha. 57the sons of Solomon's servants: the descendants of Sotai, Sophereth, Perida, 58Jaala, Darkon, Giddel, 59Shephatiah, Hattil, Pochereth-hazzebaim, and Amon. 60All the Temple servants and sons of Solomon's servants numbered 		392. 61These were the ones that came up from Tel-melah, Tel-harsha, Cherub, Addon, and Immer; but couldn't show that their ancestors' houses or their descendants were from Israel: 62the sons of Delaiah, Tobiah, and Nekoda, 	642. 63from the priests: the families of Hobaiah, Hakkoz, and Barzillai. (This Barzillai had married a daughter of Barzillai from Gilead and had taken his family name.) 64They searched the genealogical records but couldn't find their names. So they were considered unqualified and excluded from the priesthood. 65The governor told them not to eat the priests' portion of the sacrifices till a priest arose with Urim and Thummim. Totals of People and Gifts 66The whole assembly numbered 	42,360, 67plus the male and female servants   (7,337) and male and female singers 	(245). 68They had 736 horses, 245 mules, 69435 camels, and 6,720 donkeys. 70The governor donated to the treasury 19 lbs 1,000 drachmas of gold, 50 basins, and 530 priests' vestments. 71For the work, some leaders of families donated to the treasury 375 lbs 20,000 darics of gold and 2,750 lbs 2,200 minas of silver. 72The rest of the people gave 375 lbs 20,000 drachmas of gold, 2,500 lbs 2,000 minas of silver, and 67 priests' vestments. 73The priests, Levites, gatekeepers, singers, some of the people, the Temple servants, and all Israel, lived in their towns. By the seventh month, the Israelites were in their towns. Ezra Reads the Law</span>
+<span class="verse" id="v34"><strong><sup>4</sup></strong>the people from the other</span>
+<p class="section-ref">Elam 			1</p>
+
+### ,254
+
+
+<span class="verse" id="v35"><strong><sup>35</sup></strong>the people from</span>
+<p class="section-ref">Harim 			320</p>
+
+<span class="verse" id="v36"><strong><sup>36</sup></strong>the people from Je</span>
+<p class="section-ref">richo 			345</p>
+
+<span class="verse" id="v37"><strong><sup>37</sup></strong>the people from Lod, Hadid, And</span>
+<p class="section-ref">Ono				721</p>
+
+### 38 the people from Senaah 		3,930
+
+
+<span class="verse" id="v39"><strong><sup>39</sup></strong><u>the priests</u> the family of Jehaiah (through Jeshua)  			973</span>
+<p class="section-ref">Neh 7:27-39</p>
+
+<span class="verse" id="v40"><strong><sup>	40</sup></strong>the family of</span>
+<p class="section-ref">Immer			1</p>
+
+### ,052
+
+
+<span class="verse" id="v41"><strong><sup>	41</sup></strong>the family of Pa</span>
+<p class="section-ref">sshur		1</p>
+
+### ,247
+
+
+<span class="verse" id="v42"><strong><sup>	42</sup></strong>the family of</span>
+<p class="section-ref">Harim			1</p>
+
+### ,017
+
+
+<span class="verse" id="v43"><strong><sup>3</sup></strong><u>the Levites</u> the families of Jeshua and Kadmiel (descendants of Hodevah) 	74</span>
+
+<span class="verse" id="v44"><strong><sup>44</sup></strong><u>the singers</u>: the family of</span>
+<p class="section-ref">Asaph 	148</p>
+
+<span class="verse" id="v45"><strong><sup>45</sup></strong><u>the gatekeepers</u>: the families of Shallum, Ater, Talmon, Akkub, Hatita, and S</span>
+<p class="section-ref">hobai 	138</p>
+
+<span class="verse" id="v46"><sup><strong>46</strong></sup><u>the </u><u>Temple</u><u> servants</u>: the descendants of Ziha, Hasupha, Tabbaoth, <strong><sup>47</sup></strong>Keros, Sia, Padon, <strong><sup>48</sup></strong>Lebana, Hagaba, Shalmai, <strong><sup>49</sup></strong>Hanan, Giddel, Gahar, <strong><sup>50</sup></strong>Reaiah, Rezin, Nekoda, <strong><sup>51</sup></strong>Gazzam, Uzza, Paseah, <strong><sup>52</sup></strong>Besai, Meunim, Nephushesim, <strong><sup>53</sup></strong>Bakbuk, Hakupha, Harhur, <strong><sup>54</sup></strong>Bazlith, Mahida, Harsha, <strong><sup>55</sup></strong>Barkos, Sisera, Temah, <strong><sup>56</sup></strong>Neziah, and Hatipha.</span>
+
+<span class="verse" id="v57"><sup><strong>57</strong></sup><u>the sons of Solomon’s servants</u>: the descendants of Sotai, Sophereth, Perida, <strong><sup>58</sup></strong>Jaala, Darkon, Giddel, <strong><sup>59</sup></strong>Shephatiah, Hattil, Pochereth-hazzebaim, and Amon. <strong><sup>60</sup></strong>All the Temple servants and sons of Solomon’s servants <em>n</em><em>umbered</em> 		392.</span>
+<p class="section-ref">Neh 7:40-60</p>
+
+<span class="verse" id="v61"><sup><strong>61</strong></sup>These were the ones that came up from Tel-melah, Tel-harsha, Cherub, Addon, and Immer; but <u>couldn’t show </u><u>that</u><u> their </u><u>ancestors</u><u>’ houses</u> or their descendants were from Israel: <strong><sup>62</sup></strong>the sons of Delaiah, Tobiah, and Nekoda, 	642.</span>
+
+<span class="verse" id="v63"><strong><sup>3</sup></strong><u>from the priests</u>: the families of Hobaiah, Hakkoz, and Barzillai. (This Barzillai had married a daughter of Barzillai from Gilead and had taken his family name.) <strong><sup>64</sup></strong>They searched the genealogical records but couldn’t find their names. So they were considered unqualified <em>and excluded</em> from the priesthood. <strong><sup>65</sup></strong>The governor told them not to eat the priests’ portion of the sacrifices till a priest arose with Urim and Thummim. <strong>Totals of People and Gifts</strong></span>
+
+<span class="verse" id="v66"><sup><strong>66</strong></sup>The whole assembly <em>numbered</em> 	42,360,</span>
+
+<span class="verse" id="v67"><sup><strong>67</strong></sup>plus the male and female servants   (7,337) and male and female singers 	(245).</span>
+
+<span class="verse" id="v68"><sup><strong>68</strong></sup>They</span>
+<p class="section-ref">had 736</p>
+
+### horses, 245 mules, 69435 camels, and 6,720 donkeys.
+
+
+<span class="verse" id="v70"><sup><strong>70</strong></sup>The governor donated to the tre</span>
+<p class="section-ref">asury 19</p>
+
+### lbs 1,000 drachmas of gold, 50 basins, and 530 priests’ vestments.
+
+
+<span class="verse" id="v71"><sup><strong>71</strong></sup>For the work, some leaders of families donated to the tre</span>
+<p class="section-ref">asury 375</p>
+
+### lbs 20,000 darics of gold and 2,750 lbs 2,200 minas of silver. 		  Neh 7:61-71
+
+
+<span class="verse" id="v72"><sup><strong>72</strong></sup>The rest of the people</span>
+<p class="section-ref">gave 375</p>
+
+### lbs 20,000 drachmas of gold, 2,500 lbs 2,000 minas of silver, and 67 priests’ vestments.
+
+
+<span class="verse" id="v73"><sup><strong>73</strong></sup>The priests, Levites, gatekeepers, singers, some of the people, the Temple servants, and all Israel, lived in their towns. By the <strong>seventh month</strong>, the Israelites were in their towns.</span>
+<p class="section-ref">Neh 7:72-73</p>
+
+### Ezra Reads the Law
+
+
+
+<style>
+.verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
+.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
+.verse em { font-style: italic; }
+.verse strong sup { color: var(--secondary-color, #8b6914); }
+.section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+</style>

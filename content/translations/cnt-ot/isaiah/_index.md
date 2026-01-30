@@ -2,7 +2,7 @@
 book: Isaiah
 chapters: 66
 title: Isaiah
-translation: CNT
+translation: COT
 type: book
 weight: 23
 ---
@@ -10,5 +10,3 @@ weight: 23
 ## Isaiah
 
 **66 Chapters**
-
-Select a chapter to begin reading:

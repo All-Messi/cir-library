@@ -10,5 +10,3 @@ weight: 33
 ## Micah
 
 **7 Chapters**
-
-Select a chapter to begin reading:

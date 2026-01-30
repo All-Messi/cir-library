@@ -2,7 +2,7 @@
 book: Amos
 chapters: 9
 title: Amos
-translation: CNT
+translation: COT
 type: book
 weight: 30
 ---
@@ -10,5 +10,3 @@ weight: 30
 ## Amos
 
 **9 Chapters**
-
-Select a chapter to begin reading:

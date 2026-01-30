@@ -1,6 +1,6 @@
 ---
 book: Philippians
-chapters: 4
+chapters: 3
 title: Philippians
 translation: CNT
 type: book
@@ -9,6 +9,4 @@ weight: 50
 
 ## Philippians
 
-**4 Chapters**
-
-Select a chapter to begin reading:
+**3 Chapters**

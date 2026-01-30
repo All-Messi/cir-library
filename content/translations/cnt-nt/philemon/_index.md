@@ -10,5 +10,3 @@ weight: 57
 ## Philemon
 
 **1 Chapters**
-
-Select a chapter to begin reading:

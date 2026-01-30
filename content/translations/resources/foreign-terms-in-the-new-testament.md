@@ -1,14 +1,20 @@
 ---
 author: Virgil Warren, PhD
-categories:
-- Bible Resources
-date: '2026-01-23'
+date: '2026-01-24'
 draft: false
 title: FOREIGN TERMS IN THE NEW TESTAMENT
-weight: 1
+weight: 10
 ---
 
 FOREIGN TERMS IN THE NEW TESTAMENT
+
+
+
+Virgil Warren, PhD
+
+
+
+
 
 Abaddon (Ἀβαδδών): “Destroyer” (Revelation 9:11**)
 
@@ -125,5 +131,7 @@ Talitha cumi (Ταλιθα κουμ < טַלְיְתָא): (Mark 5:41, “which 
 get up [ὅ ἐστιν μεθερμηνεύω Τὸ κοράσιον, ἔγειρε]’”)
 
 Three Taverns (Τριῶν Ταβερνῶν): Acts 28:15
+
+
 
 christir.org

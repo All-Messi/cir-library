@@ -10,5 +10,3 @@ weight: 22
 ## Song of Solomon
 
 **8 Chapters**
-
-Select a chapter to begin reading:

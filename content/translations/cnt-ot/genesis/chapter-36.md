@@ -4,49 +4,67 @@ chapter: 36
 next: chapter-37
 prev: chapter-35
 title: Genesis 36
-translation: CNT
+translation: COT
 type: chapter
 weight: 36
 ---
 
-## Genesis Chapter 36
+## Genesis Chapter **36**
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Esau's (Edom's) Generations</span>
+<span class="verse" id="v1"><sup><strong>1</strong></sup>Esau’s (Edom’s) Generations</span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> Esau married Canaanite women: Adah daughter of Elon the Hittite; Oholibamah daughter of Anah and granddaughter of Zibeon the Hivite; 3and Basemath/Mahalath Ishmael's daughter, sister of Nebaioth. 4Adah had Eliphaz; Basemath had Reuel, 5Oholibamah had Jeush, Jalam, and Korah—all born in Canaan.</span>
+<span class="verse" id="v2"><strong><sup>2</sup></strong>Esau married Canaanite women: <u>Adah</u> daughter of Elon the Hittite; <u>Oholibamah</u> daughter of Anah and granddaughter of Zibeon the Hivite; <strong><sup>3</sup></strong>and <u>Basemath</u>/<em>Mahalath</em> Ishmael’s daughter, sister of Nebaioth. <strong><sup>4</sup></strong>Adah had Eliphaz; Basemath had Reuel, <strong><sup>5</sup></strong>Oholibamah had Jeush, Jalam, and Korah—all born in Canaan.</span>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> Esau took his wives, sons, daughters, household, livestock, cattle, and goods he'd gained in Canaan, and moved to a territory away from Jacob. 7Their livestock had become too much for the land to support them both. 8-9Esau, ancestor of the Edomites, lived in the hill country of Seir.</span>
+<span class="verse" id="v6"><sup><strong>6</strong></sup>Esau took his wives, sons, daughters, household, livestock, cattle, and goods he’d gained in Canaan, and moved to a territory away from Jacob. <strong><sup>7</sup></strong>Their livestock had become too much for the land to support them both. <strong><sup>8</sup></strong><strong><sup>-9</sup></strong>Esau, ancestor of the Edomites, lived in the hill country of Seir.</span>
+<p class="section-ref">Gen 36:1-9</p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> Esau's sons</span>
+<span class="verse" id="v10"><strong><sup>0</sup></strong>Esau’s sons <u>Eliphaz</u> by Adah, <u>Reuel</u> by Basemath, and (<strong><sup>11</sup></strong>Eliphaz was father of Teman, Omar, Zepho, Gatam, and Kenaz.</span>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> Timna, the concubine of Eliphaz, had Amalek.)</span>
+<span class="verse" id="v12"><sup><strong>12</strong></sup>Timna, the concubine of Eliphaz, had Amalek.) (<strong><sup>13</sup></strong>Reuel was father of Nahath, Zerah, Shammah, and Mizzah.)</span>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> Jeush, Jalam, and Korah by Oholibamah.</span>
+<span class="verse" id="v14"><strong><sup>14</sup></strong><u>Jeush</u>, <u>Jalam</u>, and <u>Korah</u> by Oholibamah.</span>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> The chiefs descending from Esau's sons (The sons of Eliphaz, Esau's firstborn): Teman, Omar, Zepho, 16Korah, Gatam, Amalek—descendants by Adah. (17The sons of Reuel, Esau's son): Nahath, Zerah, Shammah, Mizzah—descendants by Basemath;</span>
+<span class="verse" id="v15"><strong><sup>5</sup></strong>The chiefs descending from Esau’s sons (The sons of Eliphaz, Esau’s firstborn): Teman, Omar, Zepho, <strong><sup>16</sup></strong>Korah, Gatam, Amalek—descendants by Adah. (<strong><sup>17</sup></strong>The sons of Reuel, Esau’s son): Nahath, Zerah, Shammah, Mizzah—descendants by Basemath;</span>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> Jeush, Jalam, Korah—descendants by Oholibamah, daughter of Anah</span>
+<span class="verse" id="v18"><sup><strong>18</strong></sup>Jeush, Jalam, Korah—descendants by Oholibamah, daughter of Anah</span>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> Esau's sons and their chiefs</span>
+<span class="verse" id="v19"><strong><sup>9</sup></strong>Esau’s sons and their chiefs<strong> </strong><strong>   </strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	          </strong><strong>	</strong><strong>	      </strong></span>
+<p class="section-ref">Gen 36:10-19</p>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> The sons of Seir the Horite, the people in the land: Lotan, Shobal, Zibeon, Anah, 21Dishon, Ezer, and Dishan—chiefs descended from the Horites, sons of Seir in Edom</span>
+### The Previous Inhabitants of Edom
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> The sons of Lotan: Hori and Hemam; Lotan's sister was Timna.</span>
 
-<span class="verse" id="v23"><sup class="verse-num">23</sup> The sons of Shobal: Alvan, Manahath, Ebal, Shepho, and Onam</span>
+<span class="verse" id="v20"><strong><sup>0</sup></strong>The sons of Seir the Horite, the people in the land: <u>Lotan</u>, <u>Shobal</u>, <u>Zibeon</u>, <u>Anah</u>, <strong><sup>21</sup></strong><u>Dishon</u>, <u>Ezer</u>, and <u>Dishan</u>—chiefs descended from the Horites, sons of Seir in Edom</span>
 
-<span class="verse" id="v24"><sup class="verse-num">24</sup> The sons of Zibeon: Aiah and Anah (who found the hot springs in the</span>
+<span class="verse" id="v22"><strong><sup>22</sup></strong>The sons of <u>Lotan</u>: Hori and Hemam; Lotan’s sister was Timna.</span>
 
-<span class="verse" id="v25"><sup class="verse-num">25</sup> The children of Anah: Dishon and Oholibamah, Anah's daughter</span>
+<span class="verse" id="v23"><strong><sup>23</sup></strong>The sons of <u>Shobal</u>: Alvan, Manahath, Ebal, Shepho, and Onam</span>
 
-<span class="verse" id="v26"><sup class="verse-num">26</sup> The sons of Dishon: Hemdan, Eshban, Ithran, and Cheran</span>
+<span class="verse" id="v24"><strong><sup>24</sup></strong>The sons of <u>Zibeon</u>: Aiah and Anah (who found the hot springs in the countryside when he was pasturing Zibeon’s donkeys)</span>
 
-<span class="verse" id="v27"><sup class="verse-num">27</sup> The sons of Ezer: Bilhan, Zaavan, and Akan</span>
+<span class="verse" id="v25"><strong><sup>25</sup></strong>The children of <u>Anah</u>: Dishon and Oholibamah, Anah’s daughter</span>
 
-<span class="verse" id="v28"><sup class="verse-num">28</sup> The sons of Dishan: Uz and Aran</span>
+<span class="verse" id="v26"><strong><sup>26</sup></strong>The sons of <u>Dishon</u>: Hemdan, Eshban, Ithran, and Cheran</span>
 
-<span class="verse" id="v31"><sup class="verse-num">31</sup> The kings that ruled in Edom before any king ruled in Israel:</span>
+<span class="verse" id="v27"><strong><sup>27</sup></strong>The sons of <u>Ezer</u>: Bilhan, Zaavan, and Akan</span>
 
-<span class="verse" id="v32"><sup class="verse-num">32</sup> Bela son of Beor ruled Edom; his city was Dinhabah. 33He died, and</span>
+<span class="verse" id="v28"><strong><sup>28</sup></strong>The sons of <u>Dishan</u>: Uz and Aran [<strong><sup>29-30</sup></strong>]<strong> </strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong></span>
+<p class="section-ref">Gen 36:20-30</p>
 
-<span class="verse" id="v40"><sup class="verse-num">40</sup> The chiefs that descended from Esau by family, locality, and name: Timna, Alvah, Jetheth, 41Oholibamah, Elah, Pinon, 42Kenaz, Teman, Mibzar, 43Magdiel, and Iram</span>
+### Rulers of Edom
+
+
+<span class="verse" id="v31"><strong><sup>1</sup></strong>The kings that ruled in Edom before any king ruled in Israel:</span>
+
+<span class="verse" id="v32"><strong><sup>32</sup></strong><u>Bela</u> son of Beor ruled Edom; his city was Dinhabah. <strong><sup>33</sup></strong>He died, and <u>Jobab</u> son of Zerah from Bozrah ruled. <strong><sup>34</sup></strong>He died, and <u>Husham</u> from the land of the Temanites ruled. <strong><sup>35</sup></strong>He died, and <u>Hadad</u> son of Bedad (who defeated Midian in Moab) ruled. <strong><sup>36</sup></strong>He died, and <u>Samlah</u> from Masrekah ruled. <strong><sup>37</sup></strong>He died, and <u>Shaul</u> from Rehoboth on the River <em>Euphrates </em>ruled. <strong><sup>38</sup></strong>He died; <u>Baal-hanan</u> son of Achbor ruled. <strong><sup>39</sup></strong>He died, and <u>Hadar</u> ruled. His city was Pau; his wife was Mehetabel, daughter of Matred, daughter of Mezahab.</span>
+
+<span class="verse" id="v40"><sup><strong>40</strong></sup>The chiefs that descended from Esau by family, locality, and name: Timna, Alvah, Jetheth, <strong><sup>41</sup></strong>Oholibamah, Elah, Pinon, <strong><sup>42</sup></strong>Kenaz, Teman, Mibzar, <strong><sup>43</sup></strong>Magdiel, and Iram</span>
+
+
+<style>
+.verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
+.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
+.verse em { font-style: italic; }
+.verse strong sup { color: var(--secondary-color, #8b6914); }
+.section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+</style>

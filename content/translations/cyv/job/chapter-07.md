@@ -9,38 +9,63 @@ type: chapter
 weight: 7
 ---
 
-## Job Chapter 7
+## Job Chapter **7**
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Aren't people forced into hard labor? Aren't their days like those of a hired hand?</span>
+<span class="verse" id="v1"><strong><sup>1</sup></strong><em>“Aren’t</em><em> people forced into hard labor?</em> <em>	</em><em>	Aren’t their days like those of a hired hand?</em></span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> Like a slave panting for shade, like an employee waiting for wages,</span>
+<span class="verse" id="v2"><strong><sup>2</sup></strong><em>Like</em><em> a slave panting for shade,</em> <em>	</em><em>	like an employee waiting for wages,</em></span>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> I've been allotted months of emptiness and given restless nights.</span>
+<span class="verse" id="v3"><sup><strong>3</strong></sup><em>	</em><strong><sup>3</sup></strong><em>I’ve</em><em> been allotted months of emptiness</em> <em>	</em><em>	</em><em>	and given restless nights.</em></span>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> When I'm in bed, I say, 'When is morning ever going to get here?' But night goes on and on, and I toss and turn till dawn.</span>
+<span class="verse" id="v4"><strong><sup>4</sup></strong><em>When</em><em> </em><em>I‘</em><em>m in bed, I say, ‘When is morning ever going to get here?’</em> <em>	</em><em>	But night goes on and on, and I toss and turn till dawn.</em></span>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> My body is covered with maggots and scabs; my skin hardens and breaks open and festers. 6"My days fly by faster than a weaver's shuttle and end without hope. 7"Remember that my life is only a breath, God; I won't see good times again.</span>
+<span class="verse" id="v5"><strong><sup>5</sup></strong><em>My</em><em> body is covered with maggots and </em><em>scabs;</em> <em>	</em><em>	my skin hardens and breaks open and festers.</em><em>	</em></span>
+<p class="section-ref">Job 7:1-</p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> People won't see me for long because I'll be gone.</span>
+### 5 	6“My days fly by faster than a weaver’s shuttle 		and end without hope. 	 	7“Remember that my life is only a breath, God; 		I won’t see good times again.
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> Like a dissipating cloud, those who go down to Sheol don't come up again.</span>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> They won't come home or ever be seen again. 11"So I won't hold back; I'll speak with anguished spirit; I'll complain from my bitter soul.</span>
+<span class="verse" id="v8"><strong><sup>8</sup></strong><em>People</em><em> won’t see me for long</em> <em>	</em><em>	because I’ll be gone.</em></span>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> Am I the sea or a sea monster that you set a guard over me?</span>
+<span class="verse" id="v9"><strong><sup>9</sup></strong><em>Like</em><em> a dissipating cloud,</em> <em>	</em><em>	those who go down to Sheol don’t come up again.</em></span>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> If I say, 'My bed will comfort me, my couch will ease my discomfort,'</span>
+<span class="verse" id="v10"><strong><sup>0</sup></strong><em>They</em><em> won’t come home</em> <em>	</em><em>	or ever be seen again.</em></span>
+<p class="section-ref">Job 7:</p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> then you scare me with dreams and terrify me with nightmares;</span>
+### 6-10 	11“So I won’t hold back; 		I’ll speak with anguished spirit; 		I’ll complain from my bitter soul.
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> so I'd have chosen strangulation and death instead of these pains.</span>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> I'm wasting away; I won't live forever; leave me alone; my life is just a breath. 17"What are people that you pay so much attention to them, that you concern yourself with them,</span>
+<span class="verse" id="v12"><strong><sup>2</sup></strong><em>Am</em><em> I the sea or a sea monster</em> <em>	</em><em>	that you set a guard over </em><em>me?</em></span>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> that you examine them every morning and test them all day?</span>
+<span class="verse" id="v13"><strong><sup>3</sup></strong><em>If</em><em> I say, ‘My bed will comfort me</em><em>,</em> <em>	</em><em>	</em><em>	my couch will ease my discomfort,’</em></span>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> Won't you ever look the other way or let me alone long enough to swallow?</span>
+<span class="verse" id="v14"><strong><sup>14</sup></strong><em>then</em><em> you scare me with dreams</em> <em>	</em><em>	</em><em>	and terrify me with </em><em>nightmares;</em></span>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> Have I sinned? What have I ever done to you that you keep hounding me? Why do you target me and burden yourself with me?</span>
+<span class="verse" id="v15"><strong><sup>15</sup></strong><em>so</em><em> I’d have chosen strangulation </em> <em>	</em><em>	</em><em>	and death instead of these pains.</em></span>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> Why don't you just pardon my sin, take away my guilt? Soon I'll lie down in the ground and die; you'll look for me, but I wouldn't be there."</span>
+<span class="verse" id="v16"><strong><sup>6</sup></strong><em>I’m</em><em> wasting away; I won’t live </em><em>forever;</em> <em>	</em><em>	leave me alone; my life is just a breath.</em><em>	</em><em>	</em></span>
+<p class="section-ref">Job 7:</p>
+
+### 11-16 	17“What are people that you pay so much attention to them,	 			that you concern yourself with them,
+
+
+<span class="verse" id="v18"><strong><sup>18</sup></strong><em>that</em><em> you examine them every morning </em> <em>	</em><em>	</em><em>	and test them all day?</em></span>
+
+<span class="verse" id="v19"><strong><sup>9</sup></strong><em>Won’t</em><em> you ever look the other way</em> <em>	</em><em>	or let me alone long enough to swallow?</em><strong>	</strong></span>
+
+<span class="verse" id="v20"><strong><sup>0</sup></strong><em>Have</em><em> I sinned? What have I ever done to you</em> <em>	</em><em>	that you keep hounding </em><em>me?</em> <em>	Why do you target me</em> <em>	</em><em>	and burden yourself with me?</em></span>
+
+<span class="verse" id="v21"><strong><sup>1</sup></strong><em>Why</em><em> don’t you just pardon my sin,</em> <em>	</em><em>	take away my guilt?</em> <em>	Soon I’ll lie down </em><em>in</em><em> the ground and </em><em>die;</em> <em>	</em><em>	you’ll look for me, but I wouldn’t be there.”</em><strong>	</strong></span>
+<p class="section-ref">Job 7:</p>
+
+### 17-21
+
+
+
+<style>
+.verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
+.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
+.verse em { font-style: italic; }
+.verse strong sup { color: var(--secondary-color, #8b6914); }
+.section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+</style>

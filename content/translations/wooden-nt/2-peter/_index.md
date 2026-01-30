@@ -10,5 +10,3 @@ weight: 61
 ## 2 Peter
 
 **3 Chapters**
-
-Select a chapter to begin reading:

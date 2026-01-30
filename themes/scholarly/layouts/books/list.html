@@ -1,0 +1,88 @@
+{{ define "main" }}
+<div class="books-page">
+    <header class="section-header">
+        <h1>{{ .Title }}</h1>
+        {{ if .Description }}
+        <p>{{ .Description }}</p>
+        {{ end }}
+    </header>
+
+    <div class="intro-content">
+        {{ .Content }}
+    </div>
+
+    <div class="books-grid">
+        {{/* List book categories dynamically */}}
+        {{ $bookSlugs := slice "getting-the-point-book" "basic-christianity-book" "sermon-on-the-mount-commentary-book" "apologetics-book" "the-nature-of-man--book" }}
+        
+        {{ range $bookSlugs }}
+            {{ $cat := site.GetPage (printf "categories/%s" .) }}
+            {{ if $cat }}
+            <article class="book-card">
+                <h2><a href="{{ $cat.RelPermalink }}">{{ $cat.Title }}</a></h2>
+                <p class="book-meta">{{ len $cat.Pages }} chapters</p>
+                {{ if $cat.Params.description }}
+                <p class="book-desc">{{ $cat.Params.description }}</p>
+                {{ end }}
+                <a href="{{ $cat.RelPermalink }}" class="btn">Read Book →</a>
+            </article>
+            {{ end }}
+        {{ end }}
+    </div>
+</div>
+
+<style>
+.books-page .intro-content {
+    max-width: 800px;
+    margin-bottom: 2rem;
+}
+
+.books-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 1.5rem;
+    margin-top: 2rem;
+}
+
+.book-card {
+    background: white;
+    padding: 2rem;
+    border-radius: 8px;
+    border: 1px solid var(--color-border-light, #e8e4dc);
+    border-top: 4px solid var(--color-primary, #1e3a5f);
+    transition: all 0.25s ease;
+}
+
+.book-card:hover {
+    box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+    transform: translateY(-4px);
+}
+
+.book-card h2 {
+    margin: 0 0 0.5rem;
+    font-size: 1.4rem;
+}
+
+.book-card h2 a {
+    color: var(--color-primary, #1e3a5f);
+}
+
+.book-card h2 a:hover {
+    color: var(--color-accent-dark, #8b6914);
+}
+
+.book-meta {
+    font-family: var(--font-ui, sans-serif);
+    font-size: 0.85rem;
+    color: var(--color-text-muted, #888);
+    margin: 0 0 1rem;
+}
+
+.book-desc {
+    color: var(--color-text-secondary, #5a5a5a);
+    font-size: 0.95rem;
+    margin-bottom: 1.5rem;
+    line-height: 1.6;
+}
+</style>
+{{ end }}

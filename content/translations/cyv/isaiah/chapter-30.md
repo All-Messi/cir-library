@@ -9,50 +9,60 @@ type: chapter
 weight: 30
 ---
 
-## Isaiah Chapter 30
+## Isaiah Chapter **30**
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Yahveh says, "Misfortune awaits rebellious children that carry out plans, but not mine, that make alliances, but not by my Spirit, and thereby pile sin on top of error;</span>
+<span class="verse" id="v1"><strong><sup>1</sup></strong>Yahveh says,<strong><sup> </sup></strong><em>“Misfortune awaits rebellious children</em> <em>	</em><em>	</em><em>	that carry out plans, but not mine,</em> <em>	</em><em>	</em><em>	that make alliances, but not by my Spirit,</em> <em>	</em><em>	</em><em>	</em><em>	and thereby pile sin on top of </em><em>error;</em></span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> children that go down to Egypt to get help instead of consulting me, to take refuge in Pharaoh's safety, to look for shelter under Egypt's shadow.</span>
+<span class="verse" id="v2"><sup><strong>2</strong></sup><em>	</em><em>	</em><strong><sup>2</sup></strong>children<em> that go down to Egypt </em>to get help <em>instead of consulting me,</em> <em>	</em><em>	</em><em>	</em><em>	to take refuge in Pharaoh’s safety,</em> <em>	</em><em>	</em><em>	</em><em>	to look for shelter under Egypt’s shadow.</em></span>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> The safety that comes from Pharaoh will humiliate them; the shelter under Egypt's shadow will disgrace them.</span>
+<span class="verse" id="v3"><sup><strong>3</strong></sup><em>	</em><strong><sup>3</sup></strong><em>The</em><em> safety that comes from Pharaoh will humiliate </em><em>them;</em> <em>	</em><em>	</em><em>	the shelter under Egypt’s shadow will disgrace them.</em></span>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> Their princes may be at Zoan, their ambassadors may arrive at Hanes,</span>
+<span class="verse" id="v4"><sup><strong>4</strong></sup><em>	</em><strong><sup>4</sup></strong><em>Their</em><em> princes may be at Zoan,</em> <em>	</em><em>	</em><em>	their ambassadors may arrive at Hanes,</em></span>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> but they'll all be disgraced by a people that can't help them, but bring shame and dishonor."</span>
+<span class="verse" id="v5"><sup><strong>5</strong></sup><em>	</em><em>	 </em><strong><sup>5</sup></strong>but they’ll<em> all be disgraced</em> <em>	</em><em>	</em><em>	</em><em>	by a people that can’t help them,</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	but bring shame and dishonor.”</em><strong>	</strong><strong>Is</strong><strong> 30:1-5</strong></span>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> Oracle About Animals in the Negev Through a land of distress and anguish— where lions and lionesses, vipers and poisonous snakes live— a caravan transports their wealth on the backs of donkeys, their treasure on the humps of camels. They're taking tribute to a nation that can't help them,</span>
+<span class="verse" id="v6"><sup><strong>6</strong></sup>Oracle About Animals in the Negev Through a land of distress and anguish— where lions and lionesses, vipers and poisonous snakes live— a caravan transports their wealth on the backs of donkeys, their treasure on the humps of camels. <em>They</em><em>’re</em><em> </em><em>taking</em><em> t</em><em>ribute</em> to a nation that can’t help them,</span>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> to Egypt, "Harmless Rahab [Dragon]," as I describe it. Warning to Judah</span>
+<span class="verse" id="v7"><sup><strong>7</strong></sup><em>	</em><em>	</em><strong><sup>7</sup></strong>to Egypt, “Harmless Rahab [Dragon],” as I describe it. <strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>Is</strong><strong> 30:6-7</strong> <strong>Warning to Judah</strong></span>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> Go write this on a scroll, so it can serve as a lasting testimony.</span>
+<span class="verse" id="v8"><strong><sup>8</sup></strong>Go write this on a scroll, so it can serve as a lasting testimony.</span>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> This is a rebellious nation, unfaithful children that refuse to hear Yahveh's instruction;</span>
+<span class="verse" id="v9"><strong><sup>9</sup></strong>This is a rebellious nation, unfaithful children that refuse to hear Yahveh’s instruction;</span>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> that say to seers, "Don't see visions," that tell prophets, "Don't prophesy what's true. Say pleasant things; prophesy illusions.</span>
+<span class="verse" id="v10"><strong><sup>10</sup></strong>that say to seers, <em>“Don’t see</em> visions,<em>”</em> <em>	</em><em>	</em><em>	</em>that tell prophets, <em>“Don’t prophesy what’s true</em><em>.</em> <em>	</em><em>	</em><em>	</em><em>	Say</em><em> pleasant </em><em>things;</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>prophesy illusions.</em></span>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> Get off the road, turn away from the beaten path; we don't want to hear any more about the Holy One of Israel."</span>
+<span class="verse" id="v11"><strong><sup>11</sup></strong><em>Get</em><em> </em><em>off the road</em><em>, </em><em>turn away from the beaten </em><em>path;</em> <strong><sup>	</sup></strong><strong><sup>	</sup></strong><em>	</em><em>	we don’t want to hear any more </em> <em>	</em><em>	</em><em>	</em><em>	about the Holy One of Israel.”               </em><strong>       </strong></span>
+<p class="section-ref">Is 30:8-11</p>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> This is what the Holy One of Israel says, "Since you've rejected that message and relied on oppression and perversion,</span>
+<span class="verse" id="v12"><strong><sup>12</sup></strong>This is what the Holy One of Israel says, <strong><sup>	</sup></strong><strong><sup>	</sup></strong><em>“Since you’ve rejected that message</em> <em>	</em><em>	</em><em>	and relied on oppression and perversion,</em></span>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> your sin is like a bulge in a wall that's ready to collapse.</span>
+<span class="verse" id="v13"><strong><sup>13</sup></strong><em>your</em><em> sin is like a bulge in a wall</em> <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><em>that’s ready to collapse.</em></span>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> It will fall like a smashed clay pot so completely shattered that not a sherd of it can take coals from a hearth or dip water from a well." Blessings for Yahveh's People</span>
+<span class="verse" id="v14"><sup><strong>14</strong></sup><em>	</em><strong><sup>14</sup></strong><em>I</em><em>t</em> will <em>fall like a smashed clay pot</em> <em>	</em><em>	</em><em>	</em><em>	so completely shattered that not a </em><em>sherd</em><em> of it </em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	can take coals from </em><em>a hearth</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	or dip water from a well.”</em><strong>	</strong><strong>Is</strong><strong> 30:12-14</strong> <strong>Blessings </strong><strong>for</strong><strong> Yahveh’s People</strong></span>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> This is what the Lord Yahveh, the Holy One of Israel, says, "Only in repenting and resting in me will you be saved; your strength lies in quietness and trust. But you didn't want to do that.</span>
+<span class="verse" id="v15"><strong><sup>5</sup></strong>This is what the Lord Yahveh, the Holy One of Israel, says, <em>“</em><em>Only i</em><em>n </em><em>repenting</em><em> and resting </em><em>in me will </em><em>you</em><em> be </em><em>saved;</em> <em>	</em><em>	</em><em>	</em><em>	your strength lies in quietness and trust</em><em>.</em> <em>But you didn’t want to do that.</em></span>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> You said, 'No, we'll flee on horses brought from Egypt.' You'll flee all right! 'We'll ride on fast horses.' Your pursuers will ride fast too!</span>
+<span class="verse" id="v16"><strong><sup>16</sup></strong><em>You</em><em> said,</em> ‘<em>No, we’ll flee on horses</em><em> </em>brought from Egypt<em>.</em>’<em>	</em> <em>	</em><em>	</em><em>	</em><em>	</em>	<em>You’ll flee all right!</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>‘</em><em>We’ll ride on </em><em>fast</em><em> horses</em><em>.’</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em> <em>	</em><em>	</em><em>	</em><em>	</em>	<em>Your pursuers will ride fast too!</em></span>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> A thousand will flee at the threat of one; you'll all run at the threat of five, till you're abandoned like a flagpole on a mountaintop, like a signal on a hill."</span>
+<span class="verse" id="v17"><strong><sup>17</sup></strong><em>A</em><em> thousand will flee at the threat of </em><em>one;</em> <em>	</em><em>	</em><em>	</em><em>	you’ll all run at the threat of five,</em> <em>	</em><em>	</em><em>	</em><em>	till you’</em><em>re </em><em>abandoned like a flagpole on a mountaintop,</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	like a </em><em>signal</em><em> on a hill.”</em>	<strong>Is</strong><strong> 30:15-17</strong></span>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> Yahveh wants to be gracious to you; he waits on high to show you mercy because he's a just God. How blessed they are who wait for him to help.</span>
+<span class="verse" id="v18"><strong><sup>18</sup></strong>Yahveh wants to be gracious to you; <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong>he waits on high to show you mercy because he’s a just God. How blessed they are who wait for him to help.<strong>	</strong><strong>Is</strong><strong> 30:18</strong></span>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> People in Zion, residents of Jerusalem, don't cry; he'll be gracious to you. When he hears you cry out to him for help, he'll answer. 20Although he's given you adversity for food and suffering for water, your Teacher won't hide any longer; you'll see him. 21When you swerve to left or right, you'll hear a voice behind you, "This is the way; walk here." 22You'll defile your carved images overlaid with silver, your molten images plated with gold. You'll throw them out like filthy rags and say, "Get them out of here!"</span>
+<span class="verse" id="v19"><sup><strong>19</strong></sup>People in Zion, residents of Jerusalem, don’t cry; he’ll be gracious to you. When he hears you cry out to him <em>for help</em>, he’ll answer. <strong><sup>20</sup></strong>Although he’s given you adversity for food and suffering for water, your Teacher won’t hide any longer; you’ll see him. <strong><sup>21</sup></strong>When you swerve to left or right, you’ll hear a voice behind you, <em>“This is the way;</em><em> walk here.”</em> <strong><sup>22</sup></strong>You’ll defile your carved images overlaid with silver, your molten images plated with gold. You’ll throw them out like filthy rags and say, <em>“Get </em><em>them out of here</em><em>!”</em></span>
 
-<span class="verse" id="v23"><sup class="verse-num">23</sup> Then he'll give you rain for the seed you sow and bread from the yield. It'll be rich and abundant. Your livestock will have plenty of pasture. 24Your oxen and donkeys that work the ground will eat salted fodder winnowed with fork and shovel. 25After the great slaughter when the towers fall, on every tall mountain and tall hill, there'll be streams of water running down. 26Moonlight will be like sunlight, and sunlight will be seven times brighter—a week's worth a day—when Yahveh sets his people's fractures and heals the bruises he's inflicted on them.</span>
+<span class="verse" id="v23"><sup><strong>23</strong></sup>Then he’ll give you rain for the seed you sow and bread from the yield. It’ll be rich and abundant. Your livestock will have plenty of pasture. <strong><sup>24</sup></strong>Your oxen and donkeys that work the ground will eat salted fodder winnowed with fork and shovel. <strong><sup>25</sup></strong>After the great slaughter when the towers fall, on every tall mountain and tall hill, there’ll be streams of water running down. <strong><sup>26</sup></strong>Moonlight will be like sunlight, and sunlight will be seven times brighter—a week’s worth a day—when Yahveh sets his people’s fractures and heals the bruises he’s inflicted on them.        							                                                                                    <strong>Is</strong><strong> 30:19-26</strong><strong>	</strong></span>
 
-<span class="verse" id="v27"><sup class="verse-num">27</sup> Yahveh will come from a remote place with burning anger and thick smoke. His lips will be full of indignation, his tongue a consuming fire,</span>
+<span class="verse" id="v27"><strong><sup>7</sup></strong>Yahveh will come from a remote place with burning anger and thick smoke. His lips will be full of indignation, his tongue a consuming fire,</span>
 
-<span class="verse" id="v28"><sup class="verse-num">28</sup> his breath an overflowing torrent neck deep. He'll sift out the nations in his sieve and put a bridle in their mouths to ride them to ruin.</span>
+<span class="verse" id="v28"><strong><sup>28</sup></strong>his breath an overflowing torrent neck deep. He’ll sift out the nations in <em>his</em> sieve and put a bridle in their mouths to ride them to ruin.</span>
 
-<span class="verse" id="v29"><sup class="verse-num">29</sup> But you'll sing songs at night like you do at the holy festivals. You'll celebrate like you do when you march to a flute as pilgrims and go up to the mountain of Yahveh, the Rock of Israel. 30HeY will make his majestic voice heard and bring down his arm in lightning, cloudbursts, and downpours with hailstones. 31The Assyrians will panic when they hear him strike with his rod. 32Every punishing blow he lays on them will be to the accompaniment of tambourines and harps. He'll fight them in battles and brandish his weapons. 33Topheth has long been ready, prepared for the Assyrian king. Yahveh has made it deep and wide, a pyre with plenty of wood. His breath like a lava stream of sulfur will light it. Warning to Those Who Rely on Egypt</span>
+<span class="verse" id="v29"><sup><strong>29</strong></sup>But you’ll sing songs at night like you do at the holy festivals. You’ll celebrate like you do when you march to a flute as pilgrims and go up to the mountain of Yahveh, the Rock of Israel. <strong><sup>30</sup></strong>He<sup>Y</sup> will make his majestic voice heard and bring down his arm in lightning, cloudbursts, and downpours with hailstones. <strong><sup>31</sup></strong>The Assyrians will panic when they hear him strike with his rod. <strong><sup>32</sup></strong>Every punishing blow he lays on them will be to the accompaniment of tambourines and harps. He’ll fight them in battles and brandish <em>his </em>weapons. <strong><sup>33</sup></strong>Topheth has long been ready, prepared for <em>the</em><em> Assyrian</em> king. <em>Yahveh</em> has made it deep and wide, a pyre with plenty of wood. His breath like a lava stream of sulfur will light it.<strong> </strong><strong>     </strong><strong>	</strong><strong>                                                                   </strong><strong> </strong><strong>Is</strong><strong> 30:27-33</strong><strong>	</strong> <strong>Warning to Those Who Rely on Egypt</strong></span>
+
+
+<style>
+.verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
+.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
+.verse em { font-style: italic; }
+.verse strong sup { color: var(--secondary-color, #8b6914); }
+.section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+</style>

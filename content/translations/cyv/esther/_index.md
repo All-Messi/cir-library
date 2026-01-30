@@ -10,5 +10,3 @@ weight: 17
 ## Esther
 
 **10 Chapters**
-
-Select a chapter to begin reading:

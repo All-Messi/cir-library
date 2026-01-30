@@ -9,42 +9,54 @@ type: chapter
 weight: 18
 ---
 
-## Job Chapter 18
+## Job Chapter **18**
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Bildad the Shuhite answered: 2"How long will you stumble around for words? Make some sense so we can talk.</span>
+<span class="verse" id="v1"><sup><strong>1</strong></sup><strong>Bildad</strong><strong> the Shuhite answered:</strong> <strong><sup>2</sup></strong><em>“How</em><em> long will you stumble around for words?</em> <em>	</em><em>	Make some sense so we can talk.</em></span>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> Why do you treat us like animals? You think we're stupid?</span>
+<span class="verse" id="v3"><strong><sup>3</sup></strong><em>Why</em><em> do you treat us like animals?</em> <em>	</em><em>	You think we’re stupid?</em></span>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> Are you going to tear yourself to pieces in your anger? Are we supposed to leave the world for fear of you? Should ledge rocks quake out of place? 5"The light of the wicked goes out; their flame stops giving light.</span>
+<span class="verse" id="v4"><strong><sup>4</sup></strong><em>Are</em><em> you going to tear yourself to pieces in your anger?</em> <em>	</em><em>	Are we supposed to leave the world for fear of you?</em> <em>	</em><em>	Should ledge rocks quake out of place?</em><strong>	</strong> <em>	</em><strong><sup>5</sup></strong><em>“The</em><em> light of the wicked goes </em><em>out;</em> <em>	</em><em>	their flame stops giving light.</em></span>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> Their tent is dark inside; the lamp above them has gone out.</span>
+<span class="verse" id="v6"><strong><sup>6</sup></strong><em>Their</em><em> tent is dark </em><em>inside;</em> <em>	</em><em>	the lamp above them has gone out.</em></span>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> Their long strides have shortened; their schemes have tripped them up.</span>
+<span class="verse" id="v7"><strong><sup>7</sup></strong><em>Their</em><em> long strides have </em><em>shortened;</em> <em>	</em><em>	their schemes have tripped them up.</em><em>	</em><em>	</em></span>
+<p class="section-ref">Job 18:1-7</p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> They get caught in a net by their feet when they step on its mesh.</span>
+<span class="verse" id="v8"><strong><sup>8</sup></strong><em>They</em><em> get caught in a net by their feet</em> <em>	</em><em>	when they step on </em><em>its</em><em> mesh.</em><strong>	</strong></span>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> A trap seizes them by the heel; a snare snaps shut on them.</span>
+<span class="verse" id="v9"><strong><sup>9</sup></strong><em>A</em><em> trap seizes them by the </em><em>heel;</em> <em>	</em><em>	a snare snaps shut on them.</em></span>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> A noose for them is hidden on the ground; a trap lies on their path.</span>
+<span class="verse" id="v10"><strong><sup>0</sup></strong><em>A</em><em> </em><em>noose</em><em> for them is hidden on the </em><em>ground;</em> <em>	</em><em>	a trap </em>lies<em> on their path.</em></span>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> Panic all around terrifies them and nips at their heels.</span>
+<span class="verse" id="v11"><strong><sup>1</sup></strong><em>Panic</em><em> all around terrifies them</em> <em>	</em><em>	and nips at their heels.</em></span>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> Their strength is famished; disaster is ready to knock them down.</span>
+<span class="verse" id="v12"><strong><sup>2</sup></strong><em>Their</em><em> strength is </em><em>famished;</em> <em>	</em><em>	disaster is ready to knock them down.</em></span>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> Disease eats away at their skin; their rigid limbs are the first signs of death.</span>
+<span class="verse" id="v13"><strong><sup>3</sup></strong><em>Disease</em><em> eats away at their </em><em>skin;</em> <em>	</em><em>	their rigid limbs are the first signs of death. </em></span>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> They're torn from their secure tent and taken to the king of terrors.</span>
+<span class="verse" id="v14"><strong><sup>4</sup></strong><em>They’re torn from their secure tent</em> <em>	</em><em>	and taken to the king of terrors.</em></span>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> Nothing of theirs stays in their tent; sulfur rains on their houses.</span>
+<span class="verse" id="v15"><strong><sup>5</sup></strong><em>Nothing</em><em> of theirs stays in their </em><em>tent;</em> <em>	</em><em>	sulfur rains on their houses.</em><strong>	</strong></span>
+<p class="section-ref">Job 18:8-15</p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> Their roots have dried up below; their branches break off above.</span>
+<span class="verse" id="v16"><strong><sup>6</sup></strong><em>Their</em><em> roots have dried up </em><em>below;</em> <em>	</em><em>	their branches break off above.</em></span>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> The memory of them fades from the land; they don't have a name people keep in mind.</span>
+<span class="verse" id="v17"><strong><sup>7</sup></strong><em>The memory of them fades from the </em><em>land;</em> <em>	</em><em>	they don’t have a name people keep in mind.</em></span>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> They've been driven from light into darkness and chased out of the world.</span>
+<span class="verse" id="v18"><strong><sup>8</sup></strong><em>They’ve</em><em> been driven from light into darkness</em> <em>	</em><em>	and chased out of the world.</em></span>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> They don't have any offspring among their people, no survivors where they used to live.</span>
+<span class="verse" id="v19"><strong><sup>9</sup></strong><em>They</em><em> don’t have any offspring among their people,</em> <em>	</em><em>	no survivors where they used to live.</em></span>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> People to the west are appalled at their fate; those to the east are gripped with horror.</span>
+<span class="verse" id="v20"><strong><sup>0</sup></strong><em>People</em><em> to the west are appalled at their </em><em>fate;</em><em>	</em> <em>	</em><em>	those to the east are gripped with horror.</em></span>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> Surely that's the kind of house ungodly people have; such is the place of those who don't know God."</span>
+<span class="verse" id="v21"><strong><sup>1</sup></strong><em>Surely</em><em> that’s the kind of house ungodly people </em><em>have;</em> <em>	</em><em>	such is the place of those who don’t know God.”</em></span>
+<p class="section-ref">Job 18:16-21</p>
+
+
+<style>
+.verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
+.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
+.verse em { font-style: italic; }
+.verse strong sup { color: var(--secondary-color, #8b6914); }
+.section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+</style>

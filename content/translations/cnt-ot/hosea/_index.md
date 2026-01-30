@@ -2,7 +2,7 @@
 book: Hosea
 chapters: 14
 title: Hosea
-translation: CNT
+translation: COT
 type: book
 weight: 28
 ---
@@ -10,5 +10,3 @@ weight: 28
 ## Hosea
 
 **14 Chapters**
-
-Select a chapter to begin reading:

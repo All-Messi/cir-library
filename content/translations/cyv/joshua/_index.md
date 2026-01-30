@@ -10,5 +10,3 @@ weight: 6
 ## Joshua
 
 **24 Chapters**
-
-Select a chapter to begin reading:

@@ -4,45 +4,64 @@ chapter: 20
 next: chapter-21
 prev: chapter-19
 title: 1 Samuel 20
-translation: CNT
+translation: COT
 type: chapter
 weight: 20
 ---
 
-## 1 Samuel Chapter 20
+## 1 Samuel Chapter **20**
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Then David fled from Naioth in Ramah and came to Jonathan, "What have I done? What am I guilty of? What sin did I commit to make your father try to kill me?"</span>
+<span class="verse" id="v1"><sup><strong>1</strong></sup>Then David fled from Naioth in Ramah and came to Jonathan, <em>“What have I done?</em><em> </em><em>What am I guilty of?</em><em> </em><em>What sin </em><em>did I commit to make</em><em> your father</em><em> try</em><em> to kill me?”</em></span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> He said, "Far from it! You're not going to die. My father doesn't do anything big or small without letting me know. Why would he keep that from me? It's not so."</span>
+<span class="verse" id="v2"><sup><strong>2</strong></sup>He said, <em>“Far from it!</em><em> </em><em>You’re not going to die.</em><em> </em><em>My father doesn’t do anything big or </em><em>small</em><em> without letting me know.</em><em> Why would he keep that from me? </em><em>It’s not so.”</em></span>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> But David answered, "Your father knows we're friends and thinks, 'Don't let Jonathan find this out so it won't grieve him.' But as sure as the LORD lives and you live, there's just a step between me and death."</span>
+<span class="verse" id="v3"><sup><strong>3</strong></sup>But David answered, <em>“Your father knows </em><em>we’re friends</em><em> and thinks, ‘Don’t let Jonathan find this out so </em><em>it won’t grieve him</em><em>.</em><em>’ </em><em>But </em><em>as sure as </em><em>the </em><em>L</em><em>ORD</em><em> lives and you live, there’</em><em>s </em><em>just</em><em> a step between me and death.”</em></span>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> Jonathan said, "I'll do for you whatever you say."</span>
+<span class="verse" id="v4"><sup><strong>4</strong></sup>Jonathan said, <em>“I’ll do for you </em><em>w</em><em>hatever you say.”</em><em> </em><strong>	</strong></span>
+<p class="section-ref">1 Sam 20:1-4</p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> David said, "Tomorrow is the new moon, and I should sit at table with the king, but let me go so I can hide in the field till the evening of the third day. 6If he misses me, say, 'David earnestly asked my permission to run to Bethlehem, his town; there's a yearly sacrifice there for the whole family.' 7If he says, 'Good!' it'll be well with me. But if he's angry, then know that he intends to do something bad. 8Deal graciously with me; you've brought me into a sacred pact with you. But if I've done anything wrong, kill me yourself. Why take me to your father?"</span>
+<span class="verse" id="v5"><sup><strong>5</strong></sup>David said, <em>“Tomorrow </em><em>is the new moon, and I should</em><em> sit at table with the king, but let me go so I can hid</em><em>e</em><em> in the field till the </em><em>evening of the third day</em><em>.</em><em> </em><strong><sup>6</sup></strong><em>If </em><em>he</em><em> misses me, </em><em>say, ‘</em><em>David earnestly asked my permission to run to Bet</em><em>hlehem, his town; there’</em><em>s a yearly sacrifice there for the whole family.’</em><em> </em><strong><sup>7</sup></strong><em>If he says, ‘Good!’</em><em> it’</em><em>ll be well with </em><em>me</em><em>.</em><em> </em><em>But if he’s angry, then know that he </em><em>intend</em><em>s to do </em><em>something bad</em><em>.</em><em> </em><strong><sup>8</sup></strong><em>D</em><em>eal </em><em>graciously</em><em> with </em><em>me;</em><em> you’ve brought me into a s</em><em>acred pact with you. But if</em><em> </em><em>I’ve done anything wrong</em><em>, </em><em>kill</em><em> me yourself.</em><em> </em><em>Why </em><em>take</em><em> me to your father?”</em></span>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> Jonathan said, "I'd never do that! If I knew that he's determined to harm you, wouldn't I tell you?"</span>
+<span class="verse" id="v9"><sup><strong>9</strong></sup>Jonathan said, <em>“</em><em>I’d never do that</em><em>!</em><em> </em><em>If I knew that </em><em>he’s</em><em> determined </em><em>to harm you</em><em>, wouldn’t I tell you?”</em><em> </em></span>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> David asked, "How will I know if your father is angry?"</span>
+<span class="verse" id="v10"><sup><strong>10</strong></sup>David asked, <em>“</em><em>How will I know</em><em> if your father </em><em>is angry</em><em>?”</em> <strong>	</strong></span>
+<p class="section-ref">1 Sam 20:5-10</p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> Jonathan said, "Let's go out to the field."</span>
+<span class="verse" id="v11"><sup><strong>11</strong></sup>Jonathan said, <em>“Let’s go out to the field</em><em>.</em><em>”</em></span>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> Jonathan told David, "The LORD God of Israel is witness! When I've sounded out my father about this time tomorrow or the third day, if he's well disposed toward you, won't I send and let you know? 13But if he wants to harm you, the LORD do so to me and more if I don't let you know so you can get away. The LORD be with you as he's been with my father. 14If I'm still alive, show me the LORD's enduring love so I won't die. 15Don't remove your loyalty from my house permanently. When the LORD gets rid of every enemy of yours, 16don't remove my name from your house. May the LORD take vengeance on your enemies."</span>
+<span class="verse" id="v12"><sup><strong>12</strong></sup>Jonathan told David, <em>“The </em><em>L</em><em>ORD</em><em> G</em><em>od of Israel</em><em> is witness!</em><em> </em><em>When I’ve sounded out my father about this time tomorrow or the third day, if he’s well disposed toward you, won’t I send and let you know?</em><em> </em><strong><sup>13</sup></strong><em>But if </em><em>he wants</em><em> to harm you, the </em><em>L</em><em>ORD</em><em> do so to me and more if I don’t let you know</em><em> so you can get away. T</em><em>he </em><em>L</em><em>ORD</em><em> be with you as he’s been with my father.</em><em> </em><strong><sup>14</sup></strong><em>If I’m still alive, show me the </em><em>L</em><em>ORD</em><em>’s</em><em> enduring love</em><em> so I won’t die.</em><em> </em><strong><sup>15</sup></strong><em>Don’t </em><em>remove</em><em> your loyalty from my house permanently.</em><em> </em><em>When the </em><em>L</em><em>ORD</em><em> </em><em>gets rid of</em><em> every enemy of </em><em>yours</em><em>, </em><strong><sup>16</sup></strong><em>don’t </em><em>remove</em><em> </em><em>my name</em><em> from </em><em>your</em><em> house</em><em>. May t</em><em>he </em><em>L</em><em>ORD</em><em> take vengeance on </em><em>your</em><em> enemies.”</em><em> </em><em>	 </em></span>
+<p class="section-ref">1 Sam 20:11-16</p>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> Jonathan made David swear again by his love for him, because he loved him as he loved himself.</span>
+<span class="verse" id="v17"><sup><strong>17</strong></sup>Jonathan made David swear again by his love for him, because he loved him as he loved himself.</span>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> Then Jonathan told him, "Tomorrow is a new moon. He'll miss you because your seat will be empty. 19On the third day, he'll miss you for sure. Then go to where you hid when the matter was in hand and stay beside that rock pile over there. 20I'll shoot three arrows to the side of it, as though I was shooting at a target. 21I'll send the boy, and say, 'Go find the arrows.' If I tell him, 'Look, the arrows are on this side of you, get them,' then come because, as sure as the LORD lives, it's safe. 22But if I tell him, 'Look, the arrows are on past you,' then go, because the LORD has sent you away. 23On the promises we've made, the LORD stands with you and me permanently."</span>
+<span class="verse" id="v18"><sup><strong>18</strong></sup>Then Jonathan told him, <em>“Tomorrow is </em><em>a</em><em> new moon</em><em>.</em><em> </em><em>H</em><em>e’ll miss you because your seat will be empty.</em><em> </em><strong><sup>19</sup></strong><em>On the third day</em><em>, he’ll </em><em>miss </em><em>you </em><em>for sure.</em><em> </em><em>Then go to where you hid when the matter was in hand and </em><em>stay</em><em> beside that</em><em> rock</em><em> pile over there.</em><em> </em><strong><sup>20</sup></strong><em>I’ll shoot three arrows to the side of it, as though I was shooting at a </em><em>target</em><em>.</em><em> </em><strong><sup>21</sup></strong><em>I’ll send the </em><em>boy</em><em>, </em><em>and say</em><em>, </em><em>‘Go</em><em> find the arrows.’</em><em> </em><em>If I </em><em>tell</em><em> him, ‘Look, the arrows are on this side of you, </em><em>get </em><em>them,’ then come because, as </em><em>sure as </em><em>the </em><em>L</em><em>ORD</em><em> lives, it’s safe.</em><em> </em><strong><sup>22</sup></strong><em>But if I </em><em>tell</em><em> him, ‘Look, the arrows are on past you,’ then go, because the </em><em>L</em><em>ORD</em><em> has sent you away.</em><em> </em><strong><sup>23</sup></strong><em>On </em><em>the </em><em>promises we’ve made</em><em>, the </em><em>L</em><em>ORD</em><em> </em><em>stands with</em><em> you and me permanently.”</em><strong>	</strong></span>
+<p class="section-ref">1 Sam 20:17-23</p>
 
-<span class="verse" id="v24"><sup class="verse-num">24</sup> David hid in the field. When the new moon came, the king sat down to eat. 25He sat by the wall as usual. Jonathan sat across from him, and Abner sat beside Saul, but David's place was empty.</span>
+<span class="verse" id="v24"><sup><strong>24</strong></sup>David hid in the field. When the new moon came, the king sat down to eat. <strong><sup>25</sup></strong>He sat by the wall as usual. Jonathan sat across from him, and Abner sat beside Saul, but David’s place was empty.</span>
 
-<span class="verse" id="v26"><sup class="verse-num">26</sup> Saul didn't say anything that day because he thought, "Something's happened. He's not clean; surely that's it." 27But the second day, the day after the new moon, David's place was empty. Saul asked Jonathan, "Why hasn't Jesse's son come to the meal yesterday or today?"</span>
+<span class="verse" id="v26"><sup><strong>26</strong></sup>Saul didn’t say anything that day because he thought, <em>“Something’</em><em>s </em><em>happened</em><em>.</em><em> </em><em>He’s not clean; surely </em><em>that’s it</em><em>.”</em><em> </em><strong><sup>27</sup></strong>But the second day, the day after the new moon, David’s place was empty. Saul asked Jonathan, <em>“Why hasn’t </em><em>Jesse’s</em><em> son come to the meal yesterday or today?”</em><em> </em><strong>	</strong> <strong>	  </strong></span>
+<p class="section-ref">1 Sam 20:24-27</p>
 
-<span class="verse" id="v28"><sup class="verse-num">28</sup> Jonathan answered him, "David earnestly asked me to let him go to Bethlehem. 29He said, 'Our family is holding a sacrifice in the town, and my brother insisted that I be there. If I'm pleasing to you, let me get away to see my brothers.' That's why he's not at the king's table."</span>
+<span class="verse" id="v28"><sup><strong>28</strong></sup>Jonathan answered him, <em>“David earnestly asked me </em><em>to let him </em><em>go to Bethlehem.</em><em> </em><strong><sup>29</sup></strong><em>He said, ‘Our family is holding</em><em> a sacrifi</em><em>ce in the town, and my brother insisted that I</em><em> be there.</em><em> I</em><em>f I’</em><em>m pleasing to you, let me get away to</em><em> see my brothers.’</em><em> </em><em>That’s why </em><em>he’s not at</em><em> the king’s table.”</em></span>
 
-<span class="verse" id="v30"><sup class="verse-num">30</sup> Saul's anger flared at Jonathan, "You son of a perverse, rebellious woman, don't I know you've chosen Jesse's son to your own shame and the shame of your mother's nakedness? 31As long as he's alive, you and your kingdom will neither one be secure. Send and bring him to me. He has to die."</span>
+<span class="verse" id="v30"><sup><strong>30</strong></sup>Saul’s anger flared at Jonathan, <em>“You son of a perverse, rebellious woman, do</em><em>n’t I know </em><em>you</em><em>’</em><em>ve chosen </em><em>Jesse’s son to your own shame and </em><em>the shame of your mother’s nakedness?</em><em> </em><strong><sup>31</sup></strong><em>As long as </em><em>he’s alive, you and</em><em> your kingdom will </em><em>neither one </em><em>be </em><em>secure</em><em>.</em><em> </em><em>Send and bring</em><em> him to me. He has </em><em>to die.”</em><em>  </em></span>
 
-<span class="verse" id="v32"><sup class="verse-num">32</sup> Then Jonathan answered Saul, "Why put him to death? What's he done?"</span>
+<span class="verse" id="v32"><sup><strong>32</strong></sup>Then Jonathan answered Saul, <em>“Why put him to death? What’</em><em>s he done?”</em><em> </em></span>
 
-<span class="verse" id="v33"><sup class="verse-num">33</sup> Saul threw his spear at him. So Jonathan knew he was determined to kill David. 34Jonathan got up from the table mad and didn't eat anything the second day of the month because he grieved for David. His father had put him down.</span>
+<span class="verse" id="v33"><sup><strong>33</strong></sup>Saul threw his spear at him. So Jonathan knew he was determined to kill David. <strong><sup>34</sup></strong>Jonathan got up from the table mad and didn’t eat anything the second day of the month because he grieved for David. His father had put him down.<strong> </strong><strong>	 </strong></span>
+<p class="section-ref">1 Sam 20:28-34</p>
 
-<span class="verse" id="v35"><sup class="verse-num">35</sup> The next morning, Jonathan and a boy went out to the field to the appointment with David. 36He told the boy, "Run and find the arrows that I shoot." As the boy ran, Jonathan shot an arrow past him. 37When the boy came to where Jonathan had shot the arrow, he called after the boy, "Isn't the arrow on past you?" 38Jonathan called after the boy, "Hurry." So he gathered up the arrows and came back to him. 39But he didn't know anything; only Jonathan and David knew. 40Jonathan gave the boy his weapons and told him to take them into town. 41As soon as he'd gone, David got up from beside the rock pile and fell on his face and bowed three times. They kissed one another and cried till David composed himself. 42Then Jonathan said, "Goodbye. We've sworn loyalty to one another in the LORD's name, 'He will always be with you and me, with my descendants and yours.'"</span>
+<span class="verse" id="v35"><sup><strong>35</strong></sup>The next morning, Jonathan and a boy went out to the field to the appointment with David. <strong><sup>36</sup></strong>He told the boy, <em>“Run and find the arrows that I shoot.”</em> As the boy ran, Jonathan shot an arrow past him. <strong><sup>37</sup></strong>When the boy came to where Jonathan had shot the arrow, he called after the boy, <em>“Isn’t the arrow on past you?”</em> <strong><sup>38</sup></strong>Jonathan called after the boy, <em>“Hurry.”</em> So he gathered up the arrows and came back to him. <strong><sup>39</sup></strong>But he didn’t know anything; only Jonathan and David knew. <strong><sup>40</sup></strong>Jonathan gave the boy his weapons and told him to take them into town<em>.</em> <strong><sup>41</sup></strong>As soon as he’d gone, David got up from beside the rock pile and fell on his face and bowed three times. They kissed one another and cried till David composed himself. <strong><sup>42</sup></strong>Then Jonathan said, <em>“Go</em><em>odbye.</em><em> </em><em>We’</em><em>ve sworn </em><em>loyalty to one another </em><em>in the </em><em>L</em><em>ORD</em><em>’s</em><em> </em><em>name, ‘</em><em>He will always</em><em> be </em><em>with</em><em> </em><em>you</em><em> and </em><em>me</em><em>, </em><em>with </em><em>my descendants and your</em><em>s</em><em>.’”</em> He got up and left, and Jonathan went into town.<strong>	  </strong></span>
+<p class="section-ref">1 Sam 20:35-42</p>
+
+### David and the Bread of the Presence
+
+
+
+<style>
+.verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
+.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
+.verse em { font-style: italic; }
+.verse strong sup { color: var(--secondary-color, #8b6914); }
+.section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+</style>

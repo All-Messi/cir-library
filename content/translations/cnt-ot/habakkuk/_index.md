@@ -2,7 +2,7 @@
 book: Habakkuk
 chapters: 3
 title: Habakkuk
-translation: CNT
+translation: COT
 type: book
 weight: 35
 ---
@@ -10,5 +10,3 @@ weight: 35
 ## Habakkuk
 
 **3 Chapters**
-
-Select a chapter to begin reading:

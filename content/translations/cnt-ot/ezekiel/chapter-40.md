@@ -4,33 +4,86 @@ chapter: 40
 next: chapter-41
 prev: chapter-39
 title: Ezekiel 40
-translation: CNT
+translation: COT
 type: chapter
 weight: 40
 ---
 
-## Ezekiel Chapter 40
+## Ezekiel Chapter **40**
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> At the beginning of the twenty-fifth year of our exile, tenth month, fourteenth year after the city fell, the LORD's hand weighed heavy on me. 2In visions he took me to Israel and set me on a tall mountain. On it to the south was a structure like a city. 3He took me over there. Standing in the gate was a bronze-looking man with a flax line and a measuring rod in his hand. 4He told me, "Son of man, look, listen, pay attention to everything I show you. That's why the LORD brought you here. Tell Israel everything you see."</span>
+<span class="verse" id="v1"><sup><strong>1</strong></sup>At the <strong>beginning of the twenty-fifth </strong><strong>year of our exile,</strong> <strong>tenth month, fourteenth year</strong> after the city fell, the LORD’s hand weighed heavy on me. <strong><sup>2</sup></strong>In visions he took me to Israel and set me on a tall mountain. On it to the south was a structure like a city. <strong><sup>3</sup></strong>He took me over there. Standing in the gate was a bronze-looking man with a flax line and a measuring rod in his hand. <strong><sup>4</sup></strong>He told me, <em>“Son of man, </em><em>look</em><em>, </em><em>listen, p</em><em>ay attention to everything I show</em><em> you. T</em><em>hat’s why </em>the LORD<em> brought </em><em>you </em><em>here.</em><em> </em><em>Tel</em><em>l</em><em> Israel everything you see.”</em><strong> </strong><strong>	</strong></span>
+<p class="section-ref">Ezek 40:1-4</p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> There was a wall all the way around the Temple. The man holding a measuring rod (10' 4" long, each cubit being 17.72" ordinary cubit plus 2.95" ordinary palm = 20.8" royal cubit) measured the thickness and height of the wall at 10' 4" 1 reed each. 6Then he went to the east gate, up its steps, and measured its threshold at 10' 4" 1 reed wide and deep. 7The guard rooms were 10' 4" 1 reed square with 8' 7" 5 cubits between them. The threshold of the gate facing inward was 10' 4" 1 reed, 8and the porch of the gate facing inward was 10' 4" 1 reed. 9He measured the porch of the gate at 13' 10" 8 cubits; the porch of the gate faced inward. 10There were 3 guardrooms on each side of the gate, all the same size. The side pillars were square. 11The opening of the gate was 17' 3" 10 cubits wide and 20' 5" 13 cubits deep. 12There was a barrier wall in front of the guardrooms 21" 1 cubit thick on each side, and the guardrooms were 10' 4" 6 cubits square. 13He measured the gate from the roof of the one guardroom to the roof of the other as 43' 1" 25 cubits wide from one door to the opposite door. 14He made the side pillars 103' 6" 60 cubits high. The gate extended around to the side pillar of the courtyard. 15From the front of the entrance gate to the front of the inner porch of the gate was 86' 3" 50 cubits. 16There were beveled windows narrowing inward toward their side pillars within the gate all around; the same for the porches. The porch had windows all around inside, and the dividing walls were decorated with palm trees.</span>
+### The East Gate
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> Then he took me to the outer court. There were rooms and a pavement made for the court all the way around—30 rooms that faced the pavement. 18The lower pavement ran alongside the gates, corresponding to their length. 19Then he measured the width from the front of the lower gate to the outside of the inner court at 172' 5" 50 cubits on the east and north.</span>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> He measured the length and width of the gate of the outer court that faced north. 21It had 3 guardrooms on each side, and its side pillars and porches had the same measurements as the first gate. It was 86' 3" long and 43' 1" wide 50 x 25 cubits. 22Its windows and porches and its palm tree had the same measurements as the gate that faced east. 7 steps led up to it, and its porch was in front of them. 23The inner court had a gate across from the gate on the north as well as the gate on the east; he measured 172' 5" 1o0 cubits from one gate to the other.</span>
+<span class="verse" id="v5"><sup><strong>5</strong></sup>There was a wall all the way around the Temple. The man holding a measuring rod (10' 4" long, each cubit</span>
+<p class="section-ref">being 17</p>
 
-<span class="verse" id="v24"><sup class="verse-num">24</sup> Then he led me south to the south gate. He measured its side pillars and porches; they were the same as the others. 25The gate and its porches had windows all the way around like the other windows. It was 86' 3" long and 43' 1"wide 50 x 25 cubits. 26There were 7 steps going up to it, and its porches were in front of them. It had palm tree decorations on its side pillars, one on each side. 27The inner court had a gate facing south, and he measured 86' 3" 50 cubits from gate to gate.</span>
+### .72" ordinary cubit plus 2.95" ordinary palm = 20.8" royal cubit) measured the thickness and height of the wall at 10' 4" 1 reed each. 6Then he went to the east gate, up its steps, and measured its threshold at 10' 4" 1 reed wide and deep. 7The guard rooms were 10' 4" 1 reed square with 8' 7" 5 cubits between them. The threshold of the gate facing inward was 10' 4" 1 reed, 8and the porch of the gate facing inward was 10' 4" 1 reed. 9He measured the porch of the gate at 13' 10" 8 cubits; the porch of the gate faced inward. 10There were 3 guardrooms on each side of the gate, all the same size. The side pillars were square. 11The opening of the gate was 17' 3" 10 cubits wide and 20' 5" 13 cubits deep. 12There was a barrier wall in front of the guardrooms 21" 1 cubit thick on each side, and the guardrooms were 10' 4" 6 cubits square. 13He measured the gate from the roof of the one guardroom to the roof of the other as 43' 1" 25 cubits wide from one door to the opposite door. 14He made the side pillars 103' 6" 60 cubits high. The gate extended around to the side pillar of the courtyard. 15From the front of the entrance gate to the front of the inner porch of the gate was 86' 3" 50 cubits. 16There were beveled windows narrowing inward toward their side pillars within the gate all around; the same for the porches. The porch had windows all around inside, and the dividing walls were decorated with palm trees.                                                                                               	Ezek 40:5-16 The Outer Court
 
-<span class="verse" id="v28"><sup class="verse-num">28</sup> Then he took me to the inner court by the south gate. It was the same size as the others. 29Its guardrooms, side pillars, and porches were the same size as the others. The gate and its porches had windows all the way around; it was 86' 3" by 43' 1" 50 x 25 cubits. 30There were porches all the way around that measured 43' 1" by 8' 7" 25 x 5 cubits. 31Its porches faced the outer court. There were palm trees on its side pillars; its stairway had 8 steps.</span>
 
-<span class="verse" id="v32"><sup class="verse-num">32</sup> He took me to the inner court on the east side. That gate had the same measurements as the others. 33Its guardrooms, side pillars, and porches measured the same as the others. The gate and its porches had windows all the way around; it was 86' 3" by 43' 1" 50 x 25 cubits. 34Its porches faced the outer court.  There were palm trees on its side pillars on each side; its stairway had 8 steps.</span>
+<span class="verse" id="v17"><sup><strong>17</strong></sup>Then he took me to the outer court. There were rooms and a pavement made for the court all the way around—30 rooms that faced the pavement. <strong><sup>18</sup></strong>The lower pavement ran alongside the gates, corresponding to their length. <strong><sup>19</sup></strong>Then he measured the width from the front of the lower gate to the outside of the inner court</span>
+<p class="section-ref">at 172</p>
 
-<span class="verse" id="v35"><sup class="verse-num">35</sup> Then he took me to the north gate. It also had the same measurements as the others. 36Its guardrooms, side pillars, and porches were the same as the others. The gate had windows all the way around; it, too, was 86' 3" by 43' 1" 50 x 25 cubits. 37Its side pillars faced the outer court. There were palm trees on each side of its side pillars; its stairway had 8 steps.</span>
+### ' 5" 50 cubits on the east and north. The North Gate
 
-<span class="verse" id="v38"><sup class="verse-num">38</sup> There was a room with its doorway by the side pillars at the gates, where they would wash the burnt offering. 39In the porch of the gate, there were 2 tables on each side for slaughtering the burnt offering, sin offering, and guilt offering. 40On the outer side, as you went up to the gate toward the north, there were 2 tables on each side of the gate; 414 tables were on each side next to the gate—8 tables for slaughtering sacrifices. 42For the burnt offering there were 4 hewn-stone tables 2' 7" 1½ cubits square and 1' 8" high 1 cubit. On them they lay the instruments for slaughtering the burnt offering and the sacrifice. 43The double hooks—4" 1 handbreadth long—were fastened on the Temple all the way around. The meat from the offering was to be laid on the tables.</span>
 
-<span class="verse" id="v44"><sup class="verse-num">44</sup> From the outside to the inner gate were rooms for the singers in the inner court, one of which was at the side of the north gate with its front toward the south, and one at the side of the east gate facing north. 45He said, "This room that faces south is for the priests that oversee maintenance of the Temple. 46The room that faces north is for the priests that are in charge of the altar. These are the descendants of Zadok from the Levites, who approach the LORD to minister to him."</span>
+<span class="verse" id="v20"><sup><strong>20</strong></sup>He measured the length and width of the gate of the outer court that faced north. <strong><sup>21</sup></strong>It</span>
+<p class="section-ref">had 3</p>
 
-<span class="verse" id="v47"><sup class="verse-num">47</sup> He measured the court at 172' 5" 100 cubits square. The altar stood in front of the Temple.</span>
+### guardrooms on each side, and its side pillars and porches had the same measurements as the first gate. It was 86' 3" long and 43' 1" wide 50 x 25 cubits. 22Its windows and porches and its palm tree had the same measurements as the gate that faced east. 7 steps led up to it, and its porch was in front of them. 23The inner court had a gate across from the gate on the north as well as the gate on the east; he measured 172' 5" 1o0 cubits from one gate to the other. 	Ezek 40:17-23 The South Gate
 
-<span class="verse" id="v48"><sup class="verse-num">48</sup> Then he took me to the porch of the Temple and measured each side pillar of it—8' 7" 5 cubits square; each side of the gate was 5' 2" 3 cubits square. 49The porch measured 34' 6" x 19' 20 x 11 cubits. At the stairway by which it was ascended, were columns belonging to the side pillars, one on each side.</span>
+
+<span class="verse" id="v24"><sup><strong>24</strong></sup>Then he led me south to the south gate. He measured its side pillars and porches; they were the same as the others. <strong><sup>25</sup></strong>The gate and its porches had windows all the way around like the other windows. It</span>
+<p class="section-ref">was 86</p>
+
+### ' 3" long and 43' 1"wide 50 x 25 cubits. 26There were 7 steps going up to it, and its porches were in front of them. It had palm tree decorations on its side pillars, one on each side. 27The inner court had a gate facing south, and he measured 86' 3" 50 cubits from gate to gate. Gates to the Inner Court
+
+
+<span class="verse" id="v28"><sup><strong>28</strong></sup>Then he took me to the inner court by the south gate. It was the same size as the others. <strong><sup>29</sup></strong>Its guardrooms, side pillars, and porches were the same size as the others. The gate and its porches had windows all the way around; it</span>
+<p class="section-ref">was 86</p>
+
+### ' 3" by 43' 1" 50 x 25 cubits. 30There were porches all the way around that measured 43' 1" by 8' 7" 25 x 5 cubits. 31Its porches faced the outer court. There were palm trees on its side pillars; its stairway had 8 steps.	 Ezek 40:24-31
+
+
+<span class="verse" id="v32"><sup><strong>32</strong></sup>He took me to the inner court on the east side. That gate had the same measurements as the others. <strong><sup>33</sup></strong>Its guardrooms, side pillars, and porches measured the same as the others. The gate and its porches had windows all the way around; it</span>
+<p class="section-ref">was 86</p>
+
+### ' 3" by 43' 1" 50 x 25 cubits. 34Its porches faced the outer court.  There were palm trees on its side pillars on each side; its stairway had 8 steps.
+
+
+<span class="verse" id="v35"><sup><strong>35</strong></sup>Then he took me to the north gate. It also had the same measurements as the others. <strong><sup>36</sup></strong>Its guardrooms, side pillars, and porches were the same as the others. The gate had windows all the way around; it, too,</span>
+<p class="section-ref">was 86</p>
+
+### ' 3" by 43' 1" 50 x 25 cubits. 37Its side pillars faced the outer court. There were palm trees on each side of its side pillars; its stairway had 8 steps.             	 Ezek 40:32-37 Rooms for Preparing Sacrifices
+
+
+<span class="verse" id="v38"><sup><strong>38</strong></sup>There was a room with its doorway by the side pillars at the gates, where they would wash the burnt offering. <strong><sup>39</sup></strong>In the porch of the gate, there</span>
+<p class="section-ref">were 2</p>
+
+### tables on each side for slaughtering the burnt offering, sin offering, and guilt offering. 40On the outer side, as you went up to the gate toward the north, there were 2 tables on each side of the gate; 414 tables were on each side next to the gate—8 tables for slaughtering sacrifices. 42For the burnt offering there were 4 hewn-stone tables 2' 7" 1½ cubits square and 1' 8" high 1 cubit. On them they lay the instruments for slaughtering the burnt offering and the sacrifice. 43The double hooks—4" 1 handbreadth long—were fastened on the Temple all the way around. The meat from the offering was to be laid on the tables.	 					Ezek 40:38-43 Rooms for the Priests
+
+
+<span class="verse" id="v44"><sup><strong>44</strong></sup>From the outside to the inner gate were rooms for the singers in the inner court, one of which was at the side of the north gate with its front toward the south, and one at the side of the east gate facing north. <strong><sup>45</sup></strong>He said, <em>“This </em><em>room</em><em> </em><em>that faces south is</em><em> </em><em>for </em><em>the priests that </em><em>oversee maintenance</em><em> of the </em><em>Temple</em><em>.</em><em> </em><strong><sup>46</sup></strong><em>T</em><em>he</em><em> </em><em>room</em><em> that faces north is for the priests that </em><em>are in charge</em><em> of</em><em> the altar.</em><em> </em><em>These are the </em><em>descendant</em><em>s of Zadok from the </em><em>Levites, who</em><em> </em><em>approach</em><em> the </em><em>L</em><em>ORD</em><em> to minister to him.”</em><em> </em> <strong>The Temple Courtyard</strong><strong> and Temple</strong></span>
+
+<span class="verse" id="v47"><sup><strong>47</strong></sup>He measured the court</span>
+<p class="section-ref">at 172</p>
+
+### ' 5" 100 cubits square. The altar stood in front of the Temple.
+
+
+<span class="verse" id="v48"><sup><strong>48</strong></sup>Then he took me to the porch of the Temple and measured each side pillar of it—8' 7" <sup>5 cubits</sup> square; each side of the gate</span>
+<p class="section-ref">was 5</p>
+
+### ' 2" 3 cubits square. 49The porch measured 34' 6" x 19' 20 x 11 cubits. At the stairway by which it was ascended, were columns belonging to the side pillars, one on each side.					Ezek 40:44-49
+
+
+
+<style>
+.verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
+.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
+.verse em { font-style: italic; }
+.verse strong sup { color: var(--secondary-color, #8b6914); }
+.section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+</style>

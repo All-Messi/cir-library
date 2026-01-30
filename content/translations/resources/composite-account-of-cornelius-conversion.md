@@ -1,11 +1,9 @@
 ---
 author: Virgil Warren, PhD
-categories:
-- Bible Resources
-date: '2026-01-23'
+date: '2026-01-24'
 draft: false
 title: COMPOSITE ACCOUNT OF CORNELIUS’ CONVERSION
-weight: 1
+weight: 10
 ---
 
 COMPOSITE ACCOUNT OF CORNELIUS’ CONVERSION
@@ -17,6 +15,10 @@ Acts 10:1-24 (Caesarea/Joppa); 10:25-48 (Caesarea); 11:1-18 (Jerusalem)
 [generalization] [italics viewpoint adjustment]
 
 (presented as from Peter’s defense in Jerusalem)
+
+
+
+
 
 11:1The apostles and brothers in Judaea heard that Gentiles had received God’s message. 2When Peter went up to Jerusalem, members of the Circumcision took issue with him, 3“You went in and ate with uncircumcised men.”
 
@@ -58,9 +60,15 @@ Peter explained step by step. 10:1“A centurion in Caesarea named Cornelius, fr
 
 11:18When the apostles and brothers heard this, they backed off and glorified God. “Then to Gentiles too God has offered repentance to life.”
 
+
+
 Conflated from The Conversational Version of Acts of the Apostles
 
 For a parallel layout in the Greek, see elsewhere on this site the supplement to “The Witness of Acts to the Keygma.”
+
+
+
+Virgil Warren, PhD
 
 Translator and Compiler
 

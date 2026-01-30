@@ -4,17 +4,31 @@ chapter: 29
 next: chapter-30
 prev: chapter-28
 title: 1 Samuel 29
-translation: CNT
+translation: COT
 type: chapter
 weight: 29
 ---
 
-## 1 Samuel Chapter 29
+## 1 Samuel Chapter **29**
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> The Philistines gathered their forces to Aphek while the Israelites were camping by the spring in Jezreel. 2The Philistine lords were moving forward by hundreds and thousands; David and his men were moving forward in the rear with Achish. 3The commanders of the Philistines said, "What are these Hebrews doing here?" Achish said, "Isn't this David, Saul's servant, that's been with me these days, or years? I haven't found a fault in him from the day he deserted to me till now." 4But the commanders were mad, "Make him go back to where you've assigned him. Don't let him go down to battle with us and become our adversary during the fight. For how could he make himself acceptable to his lord? Wouldn't it be with the heads of these men? 5Isn't this David they sang about in the dances,</span>
+<span class="verse" id="v1"><sup><strong>1</strong></sup>The Philistines gathered their forces to Aphek while the Israelites were camping by the spring in Jezreel. <strong><sup>2</sup></strong>The Philistine lords were moving forward by hundreds and thousands; David and his men were moving forward in the rear with Achish. <strong><sup>3</sup></strong>The commanders of the Philistines said, <em>“What are these Hebrews doing here?”</em> Achish said, <em>“Isn’t t</em><em>his David, Saul’s</em><em> servant</em><em>,</em><em> </em><em>that’</em><em>s been with me these da</em><em>ys, or years? I haven’t found a </em><em>fault in him from the day he deserted to me till now.”</em><em> </em><strong><sup>4</sup></strong>But the commanders were mad, “<em>Make him go back to </em><em>where</em><em> you’ve assigned him.</em><em> </em><em>Don’t let him go down to battle with us </em><em>and</em><em> become our adversary</em><em> during the fight</em><em>.</em><em> </em><em>For how could he make himself acceptable to his lord?</em><em> </em><em>Wouldn’t it be with the heads of these men?</em><em> </em><strong><sup>5</sup></strong><em>Isn’t this David they sang about in the dances, </em> <em>‘</em><em>Saul has slain his thousands,</em> <em>	</em><em>David his ten thousands</em><em>!</em><em>’?”</em><strong>	   </strong></span>
+<p class="section-ref">1 Sam 29:1-5</p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> Achish called David, "As sure as the LORD lives, you've been upright. Your conduct with me in the army is fine. I haven't found anything bad in you since you came, but the other Philistine lords don't want you here. 7Go back quietly so you won't upset them."</span>
+<span class="verse" id="v6"><sup><strong>6</strong></sup>Achish called David, <em>“As </em><em>sure as </em><em>the </em><em>L</em><em>ORD</em><em> lives, you’ve been upright.</em><em> </em><em>Your </em><em>conduct</em><em> with me in the army </em><em>is</em><em> </em><em>fine.</em><em> I</em><em> haven’t </em><em>found anything bad in you </em><em>since </em><em>you came</em><em>, but</em><em> the </em>other Philistine<em> </em><em>lords</em><em> don’t want you here</em><em>.</em><em> </em><strong><sup>7</sup></strong><em>G</em><em>o back </em><em>quietly so you won’t upset them</em><em>.”</em><em> </em></span>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> David asked him, "What have I done? What have you found in me since I came to you, that I can't go and fight my king's enemies?" 9"You're pleasing to me, like an angel of God, but the commanders have said you can't go into battle with us. 10Get up early with your men and leave as soon as it gets daylight."</span>
+<span class="verse" id="v8"><sup><strong>8</strong></sup>David asked him, <em>“W</em><em>hat have I done?</em><em> </em><em>What have you found in </em><em>me since</em><em> I came to you, that I can’t go and fight </em><em>my king’s</em><em> enemies?”</em><em> </em> <strong><sup>9</sup></strong><em>“</em><em>You’</em><em>re pleasing to me, like an angel of God</em><em>, but</em><em> the commanders have said</em><em> you</em><em> </em><em>can’t go into </em><em>battle</em><em> </em><em>with us</em><em>.</em><em> </em><strong><sup>10</sup></strong><em>Get up early </em><em>with </em><em>your men</em><em> and </em><em>leave as soon as it gets daylight</em><em>.”</em><em> </em></span>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> David and his men got up early to go back to the land of the Philistines. Then the Philistines went up to Jezreel.</span>
+<span class="verse" id="v11"><sup><strong>11</strong></sup>David and his men got up early to go back to the land of the Philistines. Then the Philistines went up to Jezreel.</span>
+<p class="section-ref">1 Sam 29:6-11</p>
+
+### David’s Wives Are Captured
+
+
+
+<style>
+.verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
+.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
+.verse em { font-style: italic; }
+.verse strong sup { color: var(--secondary-color, #8b6914); }
+.section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+</style>

@@ -4,39 +4,62 @@ chapter: 6
 next: chapter-07
 prev: chapter-05
 title: Micah 6
-translation: CNT
+translation: COT
 type: chapter
 weight: 6
 ---
 
-## Micah Chapter 6
+## Micah Chapter **6**
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Listen to what the LORD says:</span>
+<span class="verse" id="v1"><sup><strong>1</strong></sup>Listen to what the LORD says: <em>“</em><em>Present</em><em> </em><em>to</em><em> the mountains</em><em> </em>your case against me<em>;</em> <em>	</em><em>	let the hills hear </em><em>your</em><em> complaint</em><em>.</em><em>”</em></span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> But then listen, mountains, to the LORD's complaint,</span>
+<span class="verse" id="v2"><strong><sup>2</sup></strong>But then <em>l</em><em>isten, mountains, to the</em><em> </em><em>L</em><em>ORD</em><em><u>’s</u></em><em> </em><em>complaint</em><em>,</em> <em>	</em><em>	you</em><em> enduring foundations of the world.</em> <em>	</em><em>He</em><em> has </em><em>a </em><em>suit against his </em><em>people;</em> <em>	</em><em>	h</em><em>e’</em><em>ll</em><em> </em><em>bring charges against</em><em> Israel</em><em>.</em> <strong><sup>	</sup></strong><strong><sup>3</sup></strong><em>“W</em><em>hat</em><em> have I done to you</em><em>, m</em><em>y people?</em> <em>	</em><em>	</em><em>How have I </em><em>wearied</em><em> you?</em><em> Answer</em><em> me.</em></span>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> I brought you out of Egypt</span>
+<span class="verse" id="v4"><strong><sup>4</sup></strong><em>I</em><em> brought you out of Egypt</em> <em>	</em><em>	</em><em>and ransomed you from slavery.</em> <em>	</em><em>I sent Moses, Aaron, and Miriam </em><em>to lead</em><em> you,</em></span>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> My people, remember now</span>
+<span class="verse" id="v5"><strong><sup>5</sup></strong><em>My</em><em> people, remember now</em> <em>	</em><em>	the </em>curse<em> </em><em>that </em><em>Balak</em><em>,</em><em> king of Moab</em><em>,</em><em> </em><em>proposed,</em> <em>	</em><em>	the blessing</em><em> </em><em>that B</em><em>alaam son of Beor answered</em><em> with</em><em>,</em> <em>	</em><em>	</em>the laws that led you<em> </em><em>from Shittim to Gilgal,</em> <em>	</em><em>	</em><em>	</em><em>so</em><em> you c</em><em>ould</em><em> learn about </em><em>my faithfulness</em><em>.”</em><strong> </strong></span>
+<p class="section-ref">Mic 6:1-5</p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> What should I bring to the LORD?</span>
+<span class="verse" id="v6"><sup><strong>6</strong></sup>What should I bring to the LORD? What should I bow with before God on high? Should I come to him with burnt offerings and yearling calves?</span>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> Does the LORD delight in thousands of rams,</span>
+<span class="verse" id="v7"><strong><sup>7</sup></strong>Does the LORD delight in thousands of rams,</span>
+<p class="section-ref">in 10</p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> No, he's told you what's good:</span>
+### ,000 rivers of olive oil? Am I to present my firstborn for my transgression, the fruit of my body for the sin of my soul?
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> The LORD will call out to the city—</span>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> Can I overlook the wealth gained from cheating</span>
+<span class="verse" id="v8"><sup><strong>8</strong></sup><em>No</em>, he’s told you what’s good: what does the LORD require from you but to do good, love kindness, and walk humbly with him?</span>
+<p class="section-ref">Mic 6:6-8</p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> Can I acquit a businessman that uses dishonest scales</span>
+### Israel’s Guilt and Punishment
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> The rich in the city extort;</span>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> So I'll send diseases to strike you down,</span>
+<span class="verse" id="v9"><sup><strong>9</strong></sup>The LORD will call out to the city— it’s wise to respect him— <em>“Listen, tribe</em><em> and </em><em>city council.</em></span>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> You'll eat, but you won't be satisfied;</span>
+<span class="verse" id="v10"><strong><sup>0</sup></strong><em>Can</em><em> I </em><em>overlook the wealth gained from</em><em> </em><em>cheating</em><em> </em> <em>	</em><em>	</em><em>	</em><em>	that’s </em><em>in </em><em>sinners’</em><em> </em><em>hous</em><em>e</em><em>s</em><em> </em> <em>	</em><em>	a</em><em>nd </em><em>the short measure that’</em><em>s accursed?</em><em> </em></span>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> You'll plant, but not harvest;</span>
+<span class="verse" id="v11"><strong><sup>1</sup></strong><em>Can</em><em> I acquit a </em>businessman<em> that uses dishonest scales</em> <em>	</em><em>	and a bag of false weights?</em></span>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> You've followed the statutes of sinful Omri</span>
+<span class="verse" id="v12"><strong><sup>2</sup></strong><em>The</em><em> rich in the city </em><em>extort;</em> <em>	</em><em>	its residents lie and deceive.</em></span>
+<p class="section-ref">Mic 6:9-12</p>
+
+<span class="verse" id="v13"><strong><sup>3</sup></strong><em>So</em><em> I’ll send diseases to strike you down,</em> <em>	</em><em>	and bring you to ruin for your sins.</em></span>
+
+<span class="verse" id="v14"><strong><sup>4</sup></strong><em>You’ll</em><em> eat, but you won’t be </em><em>satisfied;</em> <em>	</em><em>	there’ll be hunger among you.</em> <em>	You’ll store up for safe keeping,</em> <em>	</em><em>	but I’ll deliver most of it to the sword.</em></span>
+
+<span class="verse" id="v15"><strong><sup>5</sup></strong><em>You’ll</em><em> plant, but not </em><em>harvest;</em> <em>	</em><em>	you’ll tread olives, but not anoint yourself with the </em><em>oil;</em> <em>	</em><em>	you’ll </em>tread<em> </em><em>grapes, but</em><em> not drink the wine.</em></span>
+
+<span class="verse" id="v16"><strong><sup>6</sup></strong><em>You’ve</em><em> followed the statutes of </em>sinful <em>Omri</em> <em>	</em><em>	</em><em>	and the example of </em><em>Ahab;</em> <em>	</em><em>	you’ve taken their advice.</em> <em>	</em><em>So</em><em> I’ll deliver you to destruction</em> <em>	</em><em>	</em><em>	and your people to </em><em>ridicule;</em> <em>	</em><em>	you’ll endure the nations’ scorn.”</em><strong>	</strong></span>
+<p class="section-ref">Mic 6:13-16</p>
+
+### Israel’s Misery Turned to Hope
+
+
+
+<style>
+.verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
+.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
+.verse em { font-style: italic; }
+.verse strong sup { color: var(--secondary-color, #8b6914); }
+.section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+</style>

@@ -9,54 +9,77 @@ type: chapter
 weight: 13
 ---
 
-## Job Chapter 13
+## Job Chapter **13**
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> I've seen that; I've heard it and understand it.</span>
+<span class="verse" id="v1"><strong><sup>1</sup></strong><em>“I’ve</em><em> seen </em><em>that;</em><em> </em> <em>	</em><em>	I’ve heard it and </em><em>understand</em><em> it.</em></span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> What you know, I know too; I'm not more ignorant than you. 3"But I'm willing to speak to the Almighty himself; I want to argue with God.</span>
+<span class="verse" id="v2"><strong><sup>2</sup></strong><em>What</em><em> you know, I know </em><em>too;</em> <em>	</em><em>	I’m not more ignorant than you.</em><strong>	</strong></span>
+<p class="section-ref">Job 13:1-2</p>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> You men are smearing me with things that aren't true; you're untrained doctors.</span>
+### 3“But I’m willing to speak to the Almighty himself; 		I want to argue with God.
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> Oh that you'd just be quiet and show your wisdom that way!</span>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> Hear me out; listen to what I'm arguing.</span>
+<span class="verse" id="v4"><strong><sup>4</sup></strong><em><u>You</u></em><em><u> men</u></em><em> are smearing me with things that aren’t </em><em>true;</em> <em>	</em><em>	you’re untrained doctors.</em></span>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> Will you lie to defend God? Will you speak deceitfully on his behalf?</span>
+<span class="verse" id="v5"><strong><sup>5</sup></strong><em>Oh</em><em> that you’d just be quiet</em> <em>	</em><em>	and show your wisdom that way!</em></span>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> Will you favor him by how you testify? Will you argue his case for him?</span>
+<span class="verse" id="v6"><strong><sup>6</sup></strong><em>Hear</em><em> me </em><em>out;</em><em>  </em> <em>	</em><em>	listen to what I’m arguing.</em></span>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> How will you fare when he examines you? Will you try to deceive him like you deceive people?</span>
+<span class="verse" id="v7"><strong><sup>7</sup></strong><em>Will</em><em> you lie to defend God?</em> <em>	</em><em>	Will you speak deceitfully on his behalf?</em></span>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> He'll rebuke you for sure if you secretly skew your testimony to favor him.</span>
+<span class="verse" id="v8"><strong><sup>8</sup></strong><em>Will</em><em> you favor him by how you testify? </em> <em>	</em><em>	Will you argue his case for him?</em><strong>	</strong></span>
+<p class="section-ref">Job 13:3-8</p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> Doesn't his majesty terrify you, and the dread of him fall on you?</span>
+<span class="verse" id="v9"><strong><sup>9</sup></strong><em>How</em><em> will you fare when he examines </em><em><u>you</u></em><em>?</em> <em>	</em><em>	Will you try to deceive him like you deceive people?</em></span>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> Your memorable sayings are proverbs made of ashes, defenses made of clay. 13"Be quiet so I can talk; then let come on me what may.</span>
+<span class="verse" id="v10"><strong><sup>0</sup></strong><em>He’ll</em><em> rebuke you for sure</em> <em>	</em><em>	if you secretly skew your testimony to favor him. </em></span>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> Why should I bite my body and take my life in my hands?</span>
+<span class="verse" id="v11"><strong><sup>1</sup></strong><em>Doesn’t</em><em> his majesty </em><em>terrify</em><em> you,</em> <em>	</em><em>	and the dread of him </em><em>fall</em><em> on you?</em></span>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> Even if he kills me, I'll trust him; but I'll still defend myself to him.</span>
+<span class="verse" id="v12"><strong><sup>2</sup></strong><em>Your</em><em> memorable sayings are proverbs made of ashes,</em> <em>	</em><em>	defenses made of clay.</em><strong>	</strong></span>
+<p class="section-ref">Job 13:9-12</p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> That will also be to my salvation because godless people can't approach him.</span>
+### 13“Be quiet so I can talk; 		then let come on me what may.
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> Listen carefully to what I'm saying; let what I'm claiming fill your minds.</span>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> I've prepared my case; I know I'll be acquitted.</span>
+<span class="verse" id="v14"><strong><sup>4</sup></strong><em>Why</em><em> should I bite my body</em> <em>	</em><em>	and take my life in my hands?</em></span>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> Will you defeat me in this argument? If so, I'll shut up and die. 20"Just grant me two things, God; then I can face you:</span>
+<span class="verse" id="v15"><strong><sup>5</sup></strong><em>Even</em><em> if he kills me, I’ll trust </em><em>him;</em> <em>	</em><em>	but I’ll </em>still <em>defend myself </em><em>to</em><em> him.</em></span>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> don't remove your hand from me or let my dread of you terrify me.</span>
+<span class="verse" id="v16"><strong><sup>6</sup></strong><em>That</em><em> will also be to my salvation</em> <em>	</em><em>	because godless people can’t approach him.</em></span>
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> Then call and I'll answer; or let me speak, then reply to me.</span>
+<span class="verse" id="v17"><strong><sup>7</sup></strong><em>Listen</em><em> carefully to what I’m </em><em>saying;</em> <em>	</em><em>	let what I’m claiming fill your </em><em>minds</em><em>.</em></span>
 
-<span class="verse" id="v23"><sup class="verse-num">23</sup> How many iniquities do I have? Tell me what my rebellions are.</span>
+<span class="verse" id="v18"><strong><sup>8</sup></strong><em>I’ve</em><em> prepared my </em><em>case;</em> <em>	</em><em>	I know I’ll be acquitted.</em></span>
 
-<span class="verse" id="v24"><sup class="verse-num">24</sup> Why do you hide from me and treat me like your enemy?</span>
+<span class="verse" id="v19"><strong><sup>9</sup></strong><em>Will</em><em> you defeat me in this argument?</em> <em>	</em><em>	If so, I’ll shut up and die.</em><strong>	</strong><strong>	</strong></span>
+<p class="section-ref">Job 13:13-19</p>
 
-<span class="verse" id="v25"><sup class="verse-num">25</sup> Do you make a driven leaf tremble or chase dry chaff?</span>
+### 20“Just grant me two things, God; 			then I can face you:
 
-<span class="verse" id="v26"><sup class="verse-num">26</sup> You list bitter accusations against me and charge me with sins from my youth.</span>
 
-<span class="verse" id="v27"><sup class="verse-num">27</sup> You put my feet in shackles and hover over the path as I walk. You set a boundary for where I could go</span>
+<span class="verse" id="v21"><strong><sup>21</sup></strong><em>don’t</em><em> remove your hand from me</em> <em>	</em><em>	</em><em>	or let my dread of you terrify me.</em></span>
 
-<span class="verse" id="v28"><sup class="verse-num">28</sup> while I was decaying like something rotten, like a moth-eaten shirt.</span>
+<span class="verse" id="v22"><strong><sup>2</sup></strong><em>Then</em><em> call and I’ll </em><em>answer;</em> <em>	</em><em>	or let me speak, then reply to me.</em></span>
+
+<span class="verse" id="v23"><strong><sup>3</sup></strong><em>How</em><em> many iniquities do I have?</em> <em>	</em><em>	Tell me what my rebellions are.</em></span>
+
+<span class="verse" id="v24"><strong><sup>4</sup></strong><em>Why</em><em> do you hide from me</em> <em>	</em><em>	and treat me like your enemy?</em></span>
+
+<span class="verse" id="v25"><strong><sup>5</sup></strong><em>Do</em><em> you make a driven leaf tremble</em> <em>	</em><em>	or chase dry chaff?</em></span>
+
+<span class="verse" id="v26"><strong><sup>6</sup></strong><em>You</em><em> list bitter accusations against me</em> <em>	</em><em>	and charge me with sins from my youth.</em></span>
+
+<span class="verse" id="v27"><strong><sup>7</sup></strong><em>You</em><em> put my feet in shackles</em> <em>	</em><em>	and hover over the path as I walk.</em> <em>	You set a boundary for where I could go</em></span>
+
+<span class="verse" id="v28"><strong><sup>28</sup></strong><em>while</em><em> I was decaying like something rotten,</em><strong>	</strong> <em>	</em><em>	like a moth-eaten shirt.</em><em>	</em><em>	</em></span>
+<p class="section-ref">Job 13:20-28</p>
+
+
+<style>
+.verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
+.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
+.verse em { font-style: italic; }
+.verse strong sup { color: var(--secondary-color, #8b6914); }
+.section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+</style>

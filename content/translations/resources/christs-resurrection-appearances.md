@@ -1,14 +1,16 @@
 ---
 author: Virgil Warren, PhD
-categories:
-- Bible Resources
-date: '2026-01-23'
+date: '2026-01-24'
 draft: false
 title: CHRIST’S RESURRECTION APPEARANCES
-weight: 1
+weight: 10
 ---
 
 CHRIST’S RESURRECTION APPEARANCES
+
+Virgil Warren, PhD
+
+
 
 Matthew	[Mark]	Luke	John
 
@@ -43,3 +45,8 @@ Appearance to Paul (Acts 9:3-9;
 22:6-11; 26:12-18; 1 Corinthians 15:8)
 
 christir.org
+
+
+
+
+

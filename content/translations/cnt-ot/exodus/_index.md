@@ -1,14 +1,12 @@
 ---
 book: Exodus
-chapters: 40
+chapters: 38
 title: Exodus
-translation: CNT
+translation: COT
 type: book
 weight: 2
 ---
 
 ## Exodus
 
-**40 Chapters**
-
-Select a chapter to begin reading:
+**38 Chapters**

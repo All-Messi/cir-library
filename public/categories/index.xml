@@ -16,6 +16,13 @@
       <description></description>
     </item>
     <item>
+      <title>Getting the Point (Book)</title>
+      <link>http://localhost:1313/cir-library/categories/getting-the-point-book/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/getting-the-point-book/</guid>
+      <description>&lt;p&gt;A comprehensive guide to biblical hermeneutics and interpretation principles. Learn the tools and methods for understanding Scripture rightly.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>THEOLOGY</title>
       <link>http://localhost:1313/cir-library/categories/theology/</link>
       <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
@@ -35,6 +42,13 @@
       <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/prime-passages/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>Basic Christianity (Book)</title>
+      <link>http://localhost:1313/cir-library/categories/basic-christianity-book/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/basic-christianity-book/</guid>
+      <description>&lt;p&gt;Foundational studies in Christian doctrine with an interpersonal emphasis. This book explores the core tenets of the Christian faith through the lens of Interpersonalism.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ATONEMENT</title>
@@ -58,6 +72,20 @@
       <description></description>
     </item>
     <item>
+      <title>The Nature of Man (Book)</title>
+      <link>http://localhost:1313/cir-library/categories/the-nature-of-man--book/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/the-nature-of-man--book/</guid>
+      <description>&lt;p&gt;An exploration of biblical anthropology—what the Bible teaches about human nature, purpose, and destiny.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sermon on the Mount Commentary</title>
+      <link>http://localhost:1313/cir-library/categories/sermon-on-the-mount-commentary-book/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/sermon-on-the-mount-commentary-book/</guid>
+      <description>&lt;p&gt;A detailed exposition of Matthew 5-7, exploring Jesus&amp;rsquo; teachings on the mountain.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>BAPTISM</title>
       <link>http://localhost:1313/cir-library/categories/baptism/</link>
       <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
@@ -77,6 +105,13 @@
       <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/mt-mk-lk--synoptics/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>Apologetics</title>
+      <link>http://localhost:1313/cir-library/categories/apologetics-book/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/apologetics-book/</guid>
+      <description>&lt;p&gt;Defending the Christian faith through evidence and reason. A systematic approach to answering objections and presenting the case for Christianity.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Conversational O T (by book)</title>
@@ -128,24 +163,10 @@
       <description></description>
     </item>
     <item>
-      <title>GETTING THE POINT book</title>
-      <link>http://localhost:1313/cir-library/categories/getting-the-point-book/</link>
-      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cir-library/categories/getting-the-point-book/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>JOHN</title>
       <link>http://localhost:1313/cir-library/categories/john/</link>
       <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/john/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sermon on the Mount Commentary (Book)</title>
-      <link>http://localhost:1313/cir-library/categories/sermon-on-the-mount-commentary-book/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cir-library/categories/sermon-on-the-mount-commentary-book/</guid>
       <description></description>
     </item>
     <item>
@@ -660,20 +681,6 @@
       <description></description>
     </item>
     <item>
-      <title>APOLOGETICS (book)</title>
-      <link>http://localhost:1313/cir-library/categories/apologetics-book/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cir-library/categories/apologetics-book/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Basic Christianity (Book)</title>
-      <link>http://localhost:1313/cir-library/categories/basic-christianity-book/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cir-library/categories/basic-christianity-book/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Brain Teasers (assignments)</title>
       <link>http://localhost:1313/cir-library/categories/brain-teasers-assignments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -723,13 +730,6 @@
       <description></description>
     </item>
     <item>
-      <title>THE NATURE OF MAN  (book)</title>
-      <link>http://localhost:1313/cir-library/categories/the-nature-of-man--book/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cir-library/categories/the-nature-of-man--book/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>WOMEN&#39;S STUDIES</title>
       <link>http://localhost:1313/cir-library/categories/womens-studies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -769,13 +769,6 @@
       <link>http://localhost:1313/cir-library/categories/basic-christianity-book/</link>
       <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/basic-christianity-book/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Bible Resources</title>
-      <link>http://localhost:1313/cir-library/categories/bible-resources/</link>
-      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cir-library/categories/bible-resources/</guid>
       <description></description>
     </item>
     <item>
@@ -863,13 +856,6 @@
       <description></description>
     </item>
     <item>
-      <title>Jude</title>
-      <link>http://localhost:1313/cir-library/categories/jude/</link>
-      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cir-library/categories/jude/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>KNOW, How We, (Epistemology)</title>
       <link>http://localhost:1313/cir-library/categories/know-how-we-epistemology/</link>
       <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
@@ -945,6 +931,13 @@
       <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cir-library/categories/womens-studies-s-gal-3-28/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>Books</title>
+      <link>http://localhost:1313/cir-library/categories/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cir-library/categories/books/</guid>
+      <description>&lt;p&gt;Dr. Warren&amp;rsquo;s book-length studies provide in-depth exploration of theological topics, interpretation methods, and Christian doctrine. Each book is a collection of related essays that build upon one another.&lt;/p&gt;&#xA;&lt;h2 id=&#34;available-books&#34;&gt;Available Books&lt;/h2&gt;&#xA;&lt;h3 id=&#34;interpretation&#34;&gt;Interpretation&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Getting the Point&lt;/strong&gt; - A comprehensive guide to biblical hermeneutics and interpretation principles&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;theology&#34;&gt;Theology&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Basic Christianity&lt;/strong&gt; - Foundational studies in Christian doctrine with an interpersonal emphasis&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;The Nature of Man&lt;/strong&gt; - An exploration of biblical anthropology&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;commentaries&#34;&gt;Commentaries&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sermon on the Mount Commentary&lt;/strong&gt; - Detailed exposition of Matthew 5-7&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;evidences&#34;&gt;Evidences&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Apologetics&lt;/strong&gt; - Defending the Christian faith through evidence and reason&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

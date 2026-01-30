@@ -1,16 +1,22 @@
 ---
 author: Virgil Warren, PhD
-categories:
-- Bible Resources
-date: '2026-01-23'
+date: '2026-01-24'
 draft: false
 title: New Testament Quotations from the Old Testament
-weight: 1
+weight: 10
 ---
 
 New Testament Quotations from the Old Testament
 
+
+
+Virgil Warren, PhD
+
+
+
 LXX: wording following the Septuagint Greek translation of the Hebrew Old Testament
+
+
 
 Matthew 1:23 	< Isaiah 7:14
 
@@ -108,6 +114,8 @@ Matthew 1:23 	< Isaiah 7:14
 
 27:46	< Psalm 22:1	48 quotations
 
+
+
 Mark	1:2	< Malachi 3:1
 
 1:3	< Isaiah 40:3
@@ -155,6 +163,8 @@ Mark	1:2	< Malachi 3:1
 14:62	< Psalm 110:1
 
 15:34	< Psalm 22:1	24 quotations
+
+
 
 Luke 	2:23	< Exodus 13:2, 12, 15
 
@@ -204,6 +214,8 @@ Luke 	2:23	< Exodus 13:2, 12, 15
 
 22:69	< Psalm 110:1	24 quottions
 
+
+
 John 	1:23	< Isaiah 40:3
 
 2:17	< Psalm 69:9a
@@ -227,6 +239,8 @@ John 	1:23	< Isaiah 40:3
 19:36	< Exodus 12:46; Numbers 9:12; Psalm 34:20
 
 19:37	< Zechariah 12:10	12 quotations
+
+
 
 Acts 	1:20	< Psalm 69:25
 
@@ -293,6 +307,8 @@ Acts 	1:20	< Psalm 69:25
 23:5	< Exodus 22:28
 
 28:26-27	< Isaiah 6:9-10	33 quotations
+
+
 
 Romans	1:17	< Habakkuk 2:4
 
@@ -396,6 +412,8 @@ Romans	1:17	< Habakkuk 2:4
 
 15:21	< Isaiah 52:15	51 quotations
 
+
+
 1 Corinthians 1:19	< Isaiah 29:14
 
 1:31	< Jeremiah 9:23-24
@@ -420,6 +438,8 @@ Romans	1:17	< Habakkuk 2:4
 
 15:54-55	< Hosea 13:14	12 quotations
 
+
+
 2 Corinthians 4:6	< Genesis 1:3; Isaiah 9:2
 
 4:13		< Psalm 116:10
@@ -438,6 +458,8 @@ Romans	1:17	< Habakkuk 2:4
 
 13:1		< Deuteronomy 17:6; 19:15	8 quotations
 
+
+
 Galatians 3:8	< Genesis 12:3; 18:18
 
 3:10	< Deuteronomy 27:26
@@ -454,6 +476,8 @@ Galatians 3:8	< Genesis 12:3; 18:18
 
 4:30	< Genesis 21:10	8 quotations
 
+
+
 Ephesians 4:8	< Psalm 68:18
 
 4:25	< Zechariah 8:16
@@ -464,7 +488,11 @@ Ephesians 4:8	< Psalm 68:18
 
 6:2-3	< Exodus 20:12; Deuteronomy 5:16	5 quotations
 
+
+
 2 Timothy 2:19	< Numbers 16:5	1 quotation
+
+
 
 Hebrews	1:5a	< Psalm 2:7
 
@@ -546,6 +574,8 @@ Hebrews	1:5a	< Psalm 2:7
 
 13:6	< Psalm 118:6	40 quotations
 
+
+
 James 	2:8	< Leviticus 19:18
 
 2:11a	< Exodus 20:14; Deuteronomy 5:18
@@ -553,6 +583,8 @@ James 	2:8	< Leviticus 19:18
 2:11b	< Exodus 20:13; Deuteronomy 5:17
 
 4:6	< Proverbs 3:34 LXX	4 quotations
+
+
 
 1 Peter 	1:16	< Leviticus 11:44-45; 19:2; 20:7
 
@@ -580,29 +612,113 @@ James 	2:8	< Leviticus 19:18
 
 5:5	< Proverbs 3:34	13 quotations
 
+
+
 2 Peter 	2:22	< Proverbs 26:11	1 quotation
 
 ________________
 
 284 quotations
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 OLD TESTAMENT QUOTATIONS IN THE NEW TESTAMENT
+
+
+
+Virgil Warren, PhD
+
+
 
 Genesis 1:3 < 2 Corinthians 4:6
 
 “Light will shine out of darkness” [Gen 1:3; Is. 9:2],
 
+
+
 Genesis 1:27 < Matthew 19:4
 
 ‘made them male and female’? [Gen 1:27; 5:2]
+
+
 
 Genesis 2:2 < Hebrews 4:4
 
 “On the seventh day God rested from his work” [Gen 2:2];
 
+
+
 Genesis 2:7 < 1 Corinthians 15:45
 
 “The first man Adam became a living soul” [Gen 2:7].
+
+
 
 Genesis 2:24 < Matthew 19:5
 
@@ -622,6 +738,8 @@ Genesis 2:24 < 1 Corinthians 6:16
 
 “The two will become one physical unit” [Gen 2:24].
 
+
+
 Genesis 5:2 < Matthew 19:4
 
 ‘made them male and female’? [Gen 1:27; 5:2]
@@ -630,9 +748,13 @@ Genesis 5:2 < Mark 10:6
 
 ‘he made them male and female [Gen 5:2]. 7So a man is to leave his father and mother and be joined to his wife, 8and the two will become a physical unit’ [Gen 2:24].
 
+
+
 Genesis 5:24 < Hebrews 11:5
 
 “God took him up, and he simply wasn’t there” [Gen 5:24]. Before God took him up, the ancient writings say “he pleased God” Sir 44:16; Enoch 70:1-4; 4:10).
+
+
 
 Genesis 12:1 < Acts 7:3
 
@@ -640,21 +762,31 @@ Genesis 12:1 < Acts 7:3
 
 12:1].
 
+
+
 Genesis 12:2-3 < Galatians 3:8
 
 “You’ll bless all the nations” [Gen 12:2-3; 18:18].
+
+
 
 Genesis 12:7 < Galatians 3:16
 
 “to your seed” [Gen 12:7; 13:15; 17:7; 24:7]
 
+
+
 Genesis 13:35 < Galatians 3:16
 
 “to your seed” [Gen 12:7; 13:15; 17:7; 24:7]
 
+
+
 Genesis 14:17-20 < Hebrews 7:1-2
 
 1This Melchizedek—king of Salem, priest of God Most High—met Abraham when he came back from killing the kings, and blessed him. 2Abraham separated off to him a tenth of everything [Gen 14:17-20].
+
+
 
 Genesis 15:6 < Romans 4:3
 
@@ -668,31 +800,45 @@ Genesis 15:6 < Galatians 3:6
 
 Abraham “trusted God, and God considered him good” [Gen 15:6].
 
+
+
 Genesis 15:13-14 < Acts 7:6-7
 
 his descendants would live in a foreign land that would enslave them and abuse them for four hundred years. 7‘I’ll judge that nation, and afterwards I’ll bring them out, and they’ll serve me here’ [Gen 15:13-14].
+
+
 
 Genesis 17:7 < Galatians 3:16
 
 “to your seed” [Gen 12:7; 13:15; 17:7; 24:7]
 
+
+
 Genesis 18:10 < Romans 9:9
 
 “At this time I’ll come, and Sarah will have a son” [Gen 18:10, 14].
+
+
 
 Genesis 18:14 < Romans 9:9
 
 “At this time I’ll come, and Sarah will have a son” [Gen 18:10, 14].
 
+
+
 Genesis 18:18 < Galatians 3:8
 
 “You’ll bless all the nations” [Gen 12:2-3; 18:18].
+
+
 
 Genesis 21:10 < Galatians 4:30
 
 “Dismiss the slave girl and her son; her son will not inherit with the son” [Gen
 
 21:10], of the free woman.
+
+
 
 Genesis 21:12 < Romans 9:7
 
@@ -702,27 +848,39 @@ Genesis 21:12 < Hebrews 11:18
 
 “Your lineage will descend through Isaac” [Gen 21:12].
 
+
+
 Genesis 22:16-17 < Hebrews 6:13-14
 
 “he swore by himself [Gen 22:16],
 
 14I will certainly bless you and multiply” [Gen 22:17]
 
+
+
 Genesis 22:18 < Acts 3:25
 
 ‘Your seed will bless all nations’ [Gen 22:18; 26:4].
+
+
 
 Genesis 24:7 < Galatians 3:16
 
 “to your seed” [Gen 12:7; 13:15; 17:7; 24:7]
 
+
+
 Genesis 25:23 < Romans 9:12
 
 “The older will serve the younger” [Gen 25:23].
 
+
+
 Genesis 26:4 < Acts 3:25
 
 ‘Your seed will bless all nations’ [Gen 22:18; 26:4].
+
+
 
 Genesis 38:8 < Matthew 22:24
 
@@ -736,29 +894,45 @@ Genesis 38:8 < Luke 20:28
 
 ‘If a brother dies and has a wife but no children, his brother is to marry his wife and raise up offspring to his brother’ [Deut 25:5; Gen 38:8].
 
+
+
 Genesis 47:31 < Hebrews 11:21
 
 21By faith Jacob, worshiped, leaning on his staff [Gen 48:15-16; 47:31 LXX].
+
+
 
 Genesis 48:15-16 <Hebrews 11:21
 
 21By faith Jacob, as he was dying, blessed each of Joseph’s sons and worshiped, leaning on his staff [Gen 48:15-16; 47:31 LXX].
 
+
+
+
+
 Exodus 1:7-8 < Acts 7:17
 
 ‘another king arose that didn’t know Joseph’ [Ex 1:7-8].
+
+
 
 Exodus 2:4 < Acts 7:35
 
 ‘Who made you a ruler and judge’ [Ex 2:14]
 
+
+
 Exodus 2:13-14 < Acts 7:27-28
 
 ‘Who made you a ruler and judge over us? 28You don’t intend to kill me, do you, the way you killed the Egyptian yesterday?’ [Ex 2:13-14]
 
+
+
 Exodus 3:2-3 < Acts 7:30
 
 “After forty years, ‘an angel appeared to him in the flame of a burning bush in the desert’ [Ex 3:2-3] around Mt. Sinai.
+
+
 
 Exodus 3:4-10 < Acts 7:33-34
 
@@ -788,17 +962,25 @@ Exodus 3:6 < Acts 7:32
 
 32‘I’m your ancestors’ God, the God of Abraham, Isaac, and Jacob.’
 
+
+
 Exodus 9:16 < Romans 9:127
 
 “I raised you up specifically to show my power in connection with you and to make myself known in the whole world” [Ex 9:16].
+
+
 
 Exodus 12:46 < John 19:36
 
 “Don’t break any of its bones” [Ex 12:46; Num 9:12; (Ps 34:20)].
 
+
+
 Exodus 13:2 < Luke 2:23
 
 “Set aside to the LORD every male firstborn” [Ex 13:2, 12, 15].
+
+
 
 Exodus 16:18 < 2 Corinthians 8:15
 
@@ -806,13 +988,19 @@ Exodus 16:18 < 2 Corinthians 8:15
 
 the one that gathered a little had enough” [Ex 16:18].
 
+
+
 Exodus 19:6 < 1 Peter 2:9
 
 a royal priesthood, a holy nation [Ex 19:6]
 
+
+
 Exodus 19:12-13 < Hebrews 12:20
 
 “If even an animal touches the mountain, stone it” [Ex 19:12-13].
+
+
 
 Exodus 20:12-16 < Matthew 19:18-19
 
@@ -868,6 +1056,8 @@ Exodus 20:17 < Romans 7:7
 
 “Do not covet” [Ex 20:17; Deut 5:21].
 
+
+
 Exodus 20:34 < 2 Corinthians 6:16-18
 
 “‘I’ll live and walk among them;
@@ -891,6 +1081,8 @@ and you’ll be my sons and daughters,’
 the LORD Almighty says” [Ex 20:34, 41; 25:8; 29:45; Lev 26:12; 2Sam 7:8, 14; Is 43:6;
 
 52:11; Jer 31:1, 9; 32:28; Ezek 37:27; Hos 1:10].
+
+
 
 Exodus 20:41 < 2 Corinthians 6:16-18
 
@@ -916,6 +1108,8 @@ the LORD Almighty says” [Ex 20:34, 41; 25:8; 29:45; Lev 26:12; 2 Sam 7:8, 14; 
 
 52:11; Jer 31:1, 9; 32:28; Ezek 37:27; Hos 1:10].
 
+
+
 Exodus 21:17 < Matthew 15:4
 
 ‘Put to death whoever cusses at his father or mother’ [Ex 21:17].
@@ -924,13 +1118,19 @@ Exodus 21:17 < Mark 6:10
 
 ‘Put to death whoever cusses at his father or mother’ [Ex 21:17].
 
+
+
 Exodus 21:24 < Matthew 5:38
 
 ‘An eye for an eye’ and ‘a tooth for a tooth’ [Ex 21:24; Lev 24:20; Deut 19:21].
 
+
+
 Exodus 22:28 < Acts 25:5
 
 ‘Don’t say evil things about a ruler of your people’” [Ex 22:28].
+
+
 
 Exodus 23:20 < Matthew 11:10
 
@@ -950,9 +1150,13 @@ to prepare your way [Ex 23:20; Mal 3:1],
 
 Make it straight’” [Is 40:3].
 
+
+
 Exodus 24:8 < Hebrews 8:20
 
 “This is the blood of the covenant that God commanded you” [Ex. 24:8].
+
+
 
 Exodus 25:8 < 2 Corinthians 6:16-18
 
@@ -978,9 +1182,13 @@ the LORD Almighty says” [Ex 20:34, 41; 25:8; 29:45; Lev 26:12; 2 Sam 7:8, 14; 
 
 52:11; Jer 31:1, 9; 32:28; Ezek 37:27; Hos 1:10].
 
+
+
 Exodus 25:40 < Hebrews 8:5
 
 “Be sure you make everything like the design I showed you on the mountain” [Ex 25:40].
+
+
 
 Exodus 29:45 < 2 Corinthians 6:16-18
 
@@ -1006,39 +1214,57 @@ the LORD Almighty says” [Ex 20:34, 41; 25:8; 29:45; Lev 26:12; 2 Sam 7:8, 14; 
 
 52:11; Jer 31:1, 9; 32:28; Ezek 37:27; Hos 1:10].
 
+
+
 Exodus 32:1 < Acts 7:40
 
 ‘Make us gods to go ahead of us. We don’t know what’s become of this Moses who brought us out of Egypt’ [Ex 32:1, 23].
+
+
 
 Exodus 32:6 < 1 Corinthians 10:7
 
 “The people sat down to eat and got up to dance” [Ex 32:6].
 
+
+
 Exodus 32:12 < Acts 7:40
 
 ‘Make us gods to go ahead of us. We don’t know what’s become of this Moses who brought us out of Egypt’ [Ex 32:1, 23].
+
+
 
 Leviticus 11:44 < 1 Peter 1:16
 
 “Be holy because I’m holy” [Lev 11:44-45; 19:2; 20:7].
 
+
+
 Leviticus 12:8 < Luke 2:24
 
 “a pair of turtledoves or two young pigeons” [Lev 12:8]
+
+
 
 Leviticus 18:5 < Galatians 3:12
 
 “The one that does them is the one that has life by them” [Lev 18:5].
 
+
+
 Leviticus 19:2 < 1 Peter 1:16
 
 “Be holy because I’m holy” [Lev 11:44-45; 19:2; 20:7].
+
+
 
 Leviticus 19:12 < Matthew 5:33
 
 ‘Don’tsg swear falsely’; but, ‘performsg yoursg oaths to the LORD’ [Lev 19:12; Num
 
 30:3; Deut 23:21].
+
+
 
 Leviticus 19:18 < Matthew 5:43
 
@@ -1074,13 +1300,19 @@ Leviticus 19:18 < James 2:8
 
 “Love your neighbor as yourself” [Lev 19:18].
 
+
+
 Leviticus 20:7 < 1 Peter 12:16
 
 “Be holy because I’m holy” [Lev 11:44-45; 19:2; 20:7].
 
+
+
 Leviticus 24:20 < Matthew 5:38
 
 ‘An eye for an eye’ and ‘a tooth for a tooth’ [Ex 21:24; Lev 24:20; Deut 19:21].
+
+
 
 Leviticus 26:12 < 2 Corinthians 6:16-18
 
@@ -1106,13 +1338,19 @@ the LORD Almighty says” [Ex 20:34, 41; 25:8; 29:45; Lev 26:12; 2 Sam 7:8, 14; 
 
 52:11; Jer 31:1, 9; 32:28; Ezek 37:27; Hos 1:10].
 
+
+
 Numbers 9:12 < John 19:36
 
 “Don’t break any of its bones” [Ex 12:46; Num 9:12; (Ps 34:20)].
 
+
+
 Number 16:5 < 2 Timothy 2:19
 
 “The LORD knows who belong to him” [Num 16:5];
+
+
 
 Numbers 30:3 < Matthew 5:33
 
@@ -1120,13 +1358,19 @@ Numbers 30:3 < Matthew 5:33
 
 30:3; Deut 23:21].
 
+
+
 Deuteronomy 2:5 < Acts 7:5
 
 ‘to give it to him and his descendants’ [Deut 2:5]
 
+
+
 Deuteronomy 4:35 < Mark 12:32
 
 there’s no other God besides him [Deut 4:35; Is 45:21].
+
+
 
 Deuteronomy 5:16-20 < Matthew 19:18-19
 
@@ -1174,6 +1418,8 @@ Deuteronomy 5:21 < Romans 7:7
 
 “Do not covet” [Ex 20:17; Deut 5:21].
 
+
+
 Deuteronomy 6:4-5 < Mark 12:30
 
 ‘Listen, Israel, the LORD your God is LORD alone. 30Love the LORD your God with all your heart, all your soul, all your mind, all your strength’ [Deut 6:4-5].
@@ -1194,6 +1440,8 @@ Deuteronomy 6:5 < Luke 10:27
 
 “Love the LORD your God with all your heart, soul, strength [Deut 6:5; 10:12; Josh 22:5],
 
+
+
 Deuteronomy 6:13 < Matthew 4:10
 
 ‘Worship the LORD your God,
@@ -1206,6 +1454,8 @@ Deuteronomy 6:13 < Luke 4:8
 
 and only serve him’” [Deut 6:13].
 
+
+
 Deuteronomy 6:16 < Matthew 4:7
 
 ‘Don’t test the LORD your God’” [Deut 6:16].
@@ -1213,6 +1463,8 @@ Deuteronomy 6:16 < Matthew 4:7
 Deuteronomy 6:16 < Luke 4:12
 
 ‘Don’t test the LORD your God’” [Deut 6:16].
+
+
 
 Deuteronomy 8:3 < Matthew 4:4; Luke 4:4: “People aren’t to live just by food,
 
@@ -1226,6 +1478,8 @@ Deuteronomy 8:3 < Luke 4:4
 
 ‘People are not to live by food alone’” [Deut 8:3].
 
+
+
 Deuteronomy 9:4 < Romans 10:6-8
 
 “The one that does them is the one that will have life by them” [Lev 18:5]. 6But righteousness from trust says, “Don’t say in your heart, ‘Who’ll go up into heaven? (that is, to bring Christ down); 7or, ‘Who’ll go down into the grave’? (that is, to raise Christ up from the dead).” 8But what does it say?
@@ -1236,13 +1490,19 @@ in your mouth
 
 and in your heart” [Deut 9:4].
 
+
+
 Deuteronomy 10:12 < Luke 10:27
 
 “Love the LORD your God with all your heart, soul, strength [Deut 6:5; 10:12; Josh 22:5],
 
+
+
 Deuteronomy 17:7 < 1 Corinthians 5:13
 
 “Remove the sinful man from you” [Deut 17:7; 19:19; 22:21, 24; 24:7].
+
+
 
 Deuteronomy 18:15-16 < Acts 3:22
 
@@ -1254,6 +1514,8 @@ Deuteronomy 18:15 < Acts 7:37
 
 [Deut.18:15].
 
+
+
 Deuteronomy 19:15 < Matthew 18:16
 
 ‘two or three witnesses will confirm every matter’ [Deut 19:15].
@@ -1262,31 +1524,45 @@ Deuteronomy 19:15 < 2 Corinthians 13:1
 
 “Establish everything by two or three witnesses” [Deut 19:15].
 
+
+
 Deuteronomy 19:19 < 1 Corinthian 5:13
 
 “Remove the sinful man from you” [Deut 17:7; 19:19; 22:21, 24; 24:7].
+
+
 
 Deuteronomy 19:21 < Matthew 5:38
 
 ‘An eye for an eye’ and ‘a tooth for a tooth’ [Ex 21:24; Lev 24:20; Deut 19:21].
 
+
+
 Deuteronomy 21:23 < Galatians 3:13
 
 “Everybody’s under a curse that hangs on a tree” [Deut 21:23].
+
+
 
 Deuteronomy 22:21 < 1 Corinthians 5:13
 
 “Remove the sinful man from you” [Deut 17:7; 19:19; 22:21, 24; 24:7].
 
+
+
 Deuteronomy 22:24 < 1 Corinthians 5:13
 
 “Remove the sinful man from you” [Deut 17:7; 19:19; 22:21, 24; 24:7].
+
+
 
 Deuteronomy 23:21 < Matthew 5:33
 
 ‘Don’tsg swear falsely’; but, ‘performsg yoursg oaths to the LORD’ [Lev 19:12; Num
 
 30:3; Deut 23:21].
+
+
 
 Deuteronomy 24:1 < Matthew 5:31
 
@@ -1302,13 +1578,19 @@ Deuteronomy 24:1 < Matthew 19:7
 
 become a physical unit’ [Gen 2:24].
 
+
+
 Deuteronomy 24:14 < Mark 10:19
 
 ‘do not murder, commit adultery, steal, lie, or swindle; respect your father and mother’” [Ex 20:12-16; Deut 5:16-20; 24:14].
 
+
+
 Deuteronomy 25:4 < 1 Corinthians 9:9
 
 “Don’t put a muzzle on an ox while it’s threshing” [Deut 25:4].
+
+
 
 Deuteronomy 25:5 < Mattthew 22:24
 
@@ -1322,9 +1604,13 @@ Deuteronomy 25:5 < Luke 20:28
 
 ‘If a brother dies and has a wife but no children, his brother is to marry his wife and raise up offspring to his brother’ [Deut 25:5; Gen 38:8].
 
+
+
 Deuteronomy 27:26 < Galatians 3:10
 
 “Everybody’s under a curse that doesn’t do everything all the time that the Law requires” [Deut 27:26].
+
+
 
 Deuteronomy 28:49 < 1 Corinthians 14:21
 
@@ -1336,6 +1622,8 @@ with the lips of foreigners;
 
 they won’t even listen to me that way,’ the LORD sys” [Is 28:11; Deut 28:49].
 
+
+
 Deuteronomy 29:4 < Romans 11:8
 
 “To this day, God has given them a stupor,
@@ -1343,6 +1631,8 @@ Deuteronomy 29:4 < Romans 11:8
 eyes that can’t see,
 
 and ears that can’t hear” [Deut 29:4; Is. 29:10].
+
+
 
 Deuteronomy 30:12-14 < Romans 10:6-8
 
@@ -1354,11 +1644,15 @@ in your mouth
 
 and in your heart” [Deut 9:4].
 
+
+
 Deuteronomy 31:6 < Hebrews 13:5
 
 “One more time I’ll shake,
 
 not just the earth, but the sky too” [Hag 2:6].
+
+
 
 Deuteronomy 32:4 < Romans 9:15
 
@@ -1366,11 +1660,15 @@ Deuteronomy 32:4 < Romans 9:15
 
 and I’ll have compassion on whoever I want to” [Deut 32:4].
 
+
+
 Deuteronomy 32:21 < Romans 10:19
 
 “I’ll make you jealous by what isn’t a nation;
 
 I’ll anger you by a nation that doesn’t understand” [Deut 32:21].
+
+
 
 Deuteronomy 32:35 < Hebrews 10:30a
 
@@ -1378,17 +1676,25 @@ Deuteronomy 32:35 < Hebrews 10:30a
 
 I’ll repay it” [Deut. 32:35].
 
+
+
 Deuteronomy 32:36 < Hebrews 10:30b
 
 “The LORD will judge his people” [Deut 32:36; Ps 135:14].
+
+
 
 Deuteronomy 32:43 < Romans 15:10
 
 “Gentiles, rejoice with his people” [Deut 32:43].
 
+
+
 Deuteronomy 32:45 < Romans 12:19
 
 “All God’s angels are to worship him” [Deut 32:43].
+
+
 
 Joshua 22:5 < Mark 12:33
 
@@ -1397,6 +1703,8 @@ Joshua 22:5 < Mark 12:33
 Joshua 22:5 < Luke 10:27
 
 “Love the LORD your God with all your heart, soul, strength [Deut 6:5; 10:12; Josh 22:5],
+
+
 
 2 Samuel 7:8 < 2 Corinthians 6:16-18
 
@@ -1421,6 +1729,8 @@ and you’ll be my sons and daughters,’
 the LORD Almighty says” [Ex 20:34, 41; 25:8; 29:45; Lev 26:12; 2 Sam 7:8, 14; Is 43:6;
 
 52:11; Jer 31:1, 9; 32:28; Ezek 37:27; Hos 1:10].
+
+
 
 2 Samuel 7:14 < 2 Corinthians 6:16-18
 
@@ -1450,6 +1760,8 @@ the LORD Almighty says” [Ex 20:34, 41; 25:8; 29:45; Lev 26:12; 2 Sam 7:8, 14; 
 
 “I’ll be his Father; he’ll be my son” [2 Sam 7:14; 1 Ch 17:13]?
 
+
+
 1 Kings 19:10 < Romans 11:3
 
 3“LORD, they’ve killed your prophets;
@@ -1460,19 +1772,27 @@ I’m the only one left,
 
 and they’re trying to kill me” [1 Kg 19:10].
 
+
+
 1 Kings 19:18 < Romans 11:4
 
 “I’ve reserved for myself seven thousand men
 
 who haven’t bent a knee to Baal” [1 Kg 19:18].
 
+
+
 1 Chronicles 17:13 < Hebrews 1:5b
 
 “I’ll be his Father; he’ll be my Son” [2 Sam 7:14; 1 Ch 17:13]?
 
+
+
 Job 5:13 < 1 Corinthians 3:19
 
 “He traps the wise in their craftiness” [Job 5:13]
+
+
 
 Job 41:3 < Romans 11:34-35
 
@@ -1483,6 +1803,8 @@ Who was his counselor? [Is 40:13]
 35Who gave to him first,
 
 and will have it paid back to him?” [Job 41:3]
+
+
 
 Psalm 2:1-2 < Acts 4:25-26
 
@@ -1495,6 +1817,8 @@ and the peoples plot pointless threats?
 the rulers assembled as one
 
 against the Lord and his Messiah’ [Ps 2:1-2].
+
+
 
 Psalm 2:7 < Acts 13:33
 
@@ -1512,9 +1836,13 @@ Psalm 2:7 < Hebrews 5:5
 
 I’ve begotten you today” [Ps 2:7],
 
+
+
 Psalm 4:4 < Ephesians 4:26
 
 26“If you get angry, don’t sin” [Ps 4:4].
+
+
 
 Psalm 5: 9 < Romans 3:13a
 
@@ -1548,11 +1876,15 @@ there’s snake poison behind their lips [Ps 140:3];
 
 18There’s no respect for God in them [Ps 36:1].
 
+
+
 Psalm 8:3 < Matthew 21:16
 
 ‘Out of the mouth of infants and nursing babies you’ve prepared yourself
 
 perfect praise’?” [Ps 8:3 LXX]
+
+
 
 Psalm 8:5-7 < Hebrews 2:6-8
 
@@ -1564,13 +1896,19 @@ You crowned him with glory and honor, and
 
 8put everything under his authority” [Ps 8:5-7 LXX].
 
+
+
 Psalm 8:17 LXX < Hebrews 2:13a
 
 “I’ll trust him” [Is 8:17 LXX];
 
+
+
 Psalm 8:18 < Hebrews 2:13b
 
 “ . . . I and the children God gave me” [Is 8:18].
+
+
 
 Psalm 10:7 < Romans 3:14
 
@@ -1604,6 +1942,8 @@ there’s snake poison behind their lips [Ps 140:3];
 
 18There’s no respect for God in them [Ps 36:1].
 
+
+
 Psalm 14:1 < Romans 3:10-12
 
 “Not one person is righteous,
@@ -1636,6 +1976,8 @@ there’s snake poison behind their lips [Ps 140:3];
 
 18There’s no respect for God in them [Ps 36:1].
 
+
+
 Psalm 16:10 < Acts 2:31
 
 ‘He wouldn’t remain in the grave, and his flesh wouldn’t decay’ [Ps 16:10].
@@ -1644,11 +1986,15 @@ Psalm 16:10 < Acts 13:35
 
 ‘You won’t let your Holy One decay’ [Ps 16:10 LXX].
 
+
+
 Psalm 18:49 < Romans 15:9
 
 “Because of this I’ll acknowledge you among the Gentiles;
 
 I’ll sing praises to you” [Ps 18:49].
+
+
 
 Psalm 19:4 < Romans 10:18
 
@@ -1666,11 +2012,15 @@ Psalm 22:1 < Mark 15:34
 
 22:1]
 
+
+
 Psalm 22:18 < John 19:24
 
 “They divided my garments among them,
 
 and cast lots for my clothes” [Ps 22:18].
+
+
 
 Psalm 22:22 < Hebrews 2:12
 
@@ -1678,9 +2028,13 @@ Psalm 22:22 < Hebrews 2:12
 
 I’ll sing your praises in the congregation” [Ps 22:22].
 
+
+
 Psalm 24:1 < 1 Corinthians 10:26
 
 “The earth and everything in it belongs to the LORD” [Ps 24:1; 50:12; 89:1].
+
+
 
 Psalm 32:1-2 < Romans 4:7-8
 
@@ -1691,6 +2045,8 @@ whose sins he covers up.
 8Fortunae is the person whose sin the Lord
 
 doesn’t hold against him” [Ps 32:1-2].
+
+
 
 Psalm 34:12-16 < 1 Peter 3:10-12
 
@@ -1714,9 +2070,13 @@ He sets his face against
 
 the ones that do evil” [Ps 34:12-16].
 
+
+
 Psalm 34:20 < John 19:36
 
 “Don’t break any of its bones” [Ex 12:46; Num 9:12; (Ps 34:20)].
+
+
 
 Psalm 36:1 < Romans 3:19
 
@@ -1750,6 +2110,8 @@ there’s snake poison behind their lips [Ps 140:3];
 
 18There’s no respect for God in them [Ps 36:1].
 
+
+
 Psalm 40:6-8 < Hebrews 10:5-7
 
 “You didn’t want sacrifice and offering,
@@ -1766,11 +2128,15 @@ and sacrifices for sins.
 
 it’s been written about me in the scroll’” [Ps 40:6-8].
 
+
+
 Psalm 44:22 < Romans 8:36
 
 “We’re killed all day long for your sake;
 
 we’re considered sheep for slaughter” [Ps 44:22].
+
+
 
 Psalm 45:6-7 < Hebrews 1:8
 
@@ -1784,9 +2150,13 @@ so God has anointed you
 
 with greater gladness than your companions” [Ps 45:6-7].
 
+
+
 Psalm 50:12 < 1 Corinthians 10:26
 
 “The earth and everything in it belongs to the LORD” [Ps 24:1; 50:12; 89:1].
+
+
 
 Psalm 51:4 < Romans 3:4
 
@@ -1795,6 +2165,8 @@ Psalm 51:4 < Romans 3:4
 as just in your words
 
 and correct in your judgments” [Ps 51:4].
+
+
 
 Psalm 53:3 < Romans 3:10-12
 
@@ -1812,6 +2184,8 @@ as a group they’re depraved.
 
 None of them are kind, not a one [Ps 14:1-3; 53:1-3].
 
+
+
 Psalm 68:18 < Ephesians 4:8
 
 “He ascended on high
@@ -1820,9 +2194,13 @@ and captured captivity;
 
 he gave gifts to men” [Ps 68:18].
 
+
+
 Psalm 69:4 < John 15:25
 
 ‘They hated me for no reason’ [Ps 35:19; 69:4].
+
+
 
 Psalm 69:9 < John 2:17
 
@@ -1831,6 +2209,8 @@ Psalm 69:9 < John 2:17
 Psalm 69:9 < Romans 15:3
 
 “The insults of the ones that insulted you have fallen on me” [Ps. 69:9b].
+
+
 
 Psalm 69:22-23 < Romans 11:9-10
 
@@ -1842,11 +2222,15 @@ a stumbling block and payback.
 
 bend their backs always” [Ps 69:22-23].
 
+
+
 Psalm 69:25 < Acts 1:20
 
 ‘Let his house be deserted, and
 
 let nobody live in it’ [Ps 69:25].
+
+
 
 Psalm 78:2 < Matthew 13:35
 
@@ -1856,13 +2240,19 @@ I’ll declare things not revealed
 
 since the founding of the world” [Ps 78:2].
 
+
+
 Psalm 78:24 < John 6:31
 
 ‘He gave them food from the sky to eat’” [Ps 78:24].
 
+
+
 Psalm 82:6 < John 6:31
 
 ‘I said, you are gods’? [Ps 82:6]
+
+
 
 Psalm 89:1 < 1 Corinthians 10:26
 
@@ -1870,11 +2260,15 @@ Psalm 89:1 < 1 Corinthians 10:26
 
 belongs to the LORD” [Ps 24:1; 50:12; 89:1].
 
+
+
 Psalm 89:20 < Acts 13:22
 
 ‘I’ve found David, son of Jesse, a man after my own heart, who’ll do my will’ [Ps
 
 89:20].
+
+
 
 Psalm 91:11-12 < Matthew 4:5; Luke 4:10-11: “He’ll command his angels to catch you so you’ll
 
@@ -1894,11 +2288,15 @@ Psalm 91:12 < Luke 4:11
 
 so you’ll never trip over a rock’” [Ps 91:12].
 
+
+
 Psalm 94:11 < 1 Corinthians 3:20
 
 “The LORD knows that the speculations of the wise don’t mean anything” [Ps
 
 94:11].
+
+
 
 Psalm 95:7-11 < Hebrews 3:7-11
 
@@ -1950,6 +2348,8 @@ Psalm 95:11 < Hebrews 4:5
 
 “They’re not going to go into my rest!” [Ps 95:11]
 
+
+
 Psalm 102:25-27 < Hebrews 1:10-12
 
 “In the beginning, LORD, you founded the earth
@@ -1968,15 +2368,21 @@ But you’re the same;
 
 your years won’t end” [Ps 102:25-27].
 
+
+
 Psalm 104:4 < Hebrews 1:7
 
 “Who makes his angels spirits,
 
 and his ministers flames of fire” [Ps 104:4].
 
+
+
 Psalm 109:8 < Acts 1:20
 
 ‘Let someone else take his place of oversight’ [Ps 109:8].
+
+
 
 Psalm 110:1 < Matthew 22:44
 
@@ -2040,6 +2446,8 @@ and won’t change his mind,
 
 ‘You’re a priest forever’” [Ps 110:4].
 
+
+
 Psalm 110:4 < Hebrews 5:6
 
 “You’re a priest forever
@@ -2052,9 +2460,13 @@ Psalm 110:4 < Hebrews 7:17
 
 after the order of Melchizedek” [Ps 110:4].
 
+
+
 Psalm 110:11 < Luke 22:69
 
 “the Son of Man will sit on the right hand of the power of God” [Ps 110:1].
+
+
 
 Psalm 112:9 < 2 Corinthians 9:9
 
@@ -2064,15 +2476,21 @@ he has given to the poor.
 
 His goodness remains forever” [Ps 112:9].
 
+
+
 Psalm 116:10 < 2 Corinthians 4:13
 
 “I believed; so I spoke” [Ps 116:10].
+
+
 
 Psalm 117:1 < Romans 15:11
 
 “Praise the LORD, all nations;
 
 praise him, all peoples” [Ps 117:1].
+
+
 
 Psalm 118:6 < Hebrews 13:6
 
@@ -2081,6 +2499,8 @@ Psalm 118:6 < Hebrews 13:6
 I won’t be afraid.
 
 What are people going to do to me?” [Ps 118:6].
+
+
 
 Psalm 118:22-23 < Matthew 21:42
 
@@ -2119,6 +2539,8 @@ Psalm 118:22 < 1 Peter 2:7a
 “a stone the builders rejected
 
 that has become the cornerstone” [Ps 118:22],
+
+
 
 Psalm 118:25-26 < Matthew 21:9
 
@@ -2160,13 +2582,19 @@ Blessed is the One that’s coming in the name of the LORD,’
 
 even the King of Israel” [Ps 118:26].
 
+
+
 Psalm 132:11 < Acts 2:30
 
 ‘God had solemnly sworn that his descendant would sit on his throne’ [Ps 132:11].
 
+
+
 Psalm 135:14 < Hebews 10:30b
 
 “The LORD will judge his people” [Deut 32:36; Ps 135:14].
+
+
 
 Psalm 140:3 < Romans 3:13b
 
@@ -2200,6 +2628,8 @@ there’s snake poison behind their lips [Ps 140:3];
 
 18There’s no respect for God in them [Ps 36:1].
 
+
+
 Proverbs 3:11-12 < Hebrews 12:5-6
 
 “My son, don’t take lightly the LORD’s discipline,
@@ -2209,6 +2639,8 @@ or give up when he scolds you.
 6The LORD disciplines the one he loves,
 
 and punishes every son he receives” [Pro 3:11-12].
+
+
 
 Proverbs 3:34 LXX < James 4:6
 
@@ -2220,11 +2652,15 @@ Proverbs 3:34 < 1 Peter 5:5
 
 and gives grace to the humble” [Pro 3:34 LXX].
 
+
+
 Proverbs 11:31 < 1 Peter 4:18
 
 18“If good people are barely saved,
 
 where will godless people come in?” [Pro 11:31 LXX].
+
+
 
 Proverbs 25:21-22 < Romans 12:20
 
@@ -2236,11 +2672,17 @@ If you do that,
 
 you’ll pour hot coals on his head” [Pro 25:21-22].
 
+
+
 Proverbs 26:11 < 2 Perter 2:22
 
 “The dog returned to his vomit” [Pro 26:11],
 
+
+
 Isaiah 1:9 < Romans 9:29
+
+
 
 Isaiah 6:6-10 < Mark 4:12
 
@@ -2318,17 +2760,23 @@ be converted, and
 
 I could heal them” [Is 6:10].
 
+
+
 Isaiah 7:14 < Matthew 1:23
 
 23“A virgin will have a son;
 
 they’ll call him ‘Emmanuel’ (‘God with us’)” [Is 7:14].
 
+
+
 Isaiah 8:14 < 1 Peter 2:8
 
 “a stone they trip over,
 
 a rock that offends them” [Is 8:14].
+
+
 
 Isaiah 9:1-2 < Matthew 4:15-16
 
@@ -2352,6 +2800,8 @@ Isaiah 9:2 < 2 Corinthians 4:6
 
 “Light will shine out of darkness” [Gen 1:3; Is. 9:2],
 
+
+
 Isaiah 10:22-23 < Romans 9:27
 
 “Though the number of Israelites is like the sand by the sea,
@@ -2362,6 +2812,8 @@ only a remnant will be saved.
 
 10:22-23; Hos 1:10].
 
+
+
 Isaiah 11:10 < Romans 15:12
 
 “A root will come out of Jesse,
@@ -2370,11 +2822,15 @@ One who will arise to govern the Gentiles.
 
 They’ll put their hope in him” [Is 11:10].
 
+
+
 Isaiah 22:13 < 1 Corinthians 15:32
 
 “Let’s eat and drink;
 
 we’re going to die tomorrow” [Is 22:13; 56:12].
+
+
 
 Isaiah 28:11 < 1 Corinthians 14:21
 
@@ -2385,6 +2841,8 @@ in foreigner languages
 with the lips of foreigners;
 
 they won’t even listen to me that way,’ the LORD says” [Is 28:11; Deut 28:49].
+
+
 
 Isaiah 28:16 < Romans 9:33
 
@@ -2410,6 +2868,8 @@ Isaiah 28:16 < Romans 10:11
 
 “He won’t disappoint the one that trusts him” [Is 28:16].
 
+
+
 Isaiah 29:10 < Romans 11:8
 
 “To this day, God has given them a stupor,
@@ -2417,6 +2877,8 @@ Isaiah 29:10 < Romans 11:8
 eyes that can’t see,
 
 and ears that can’t hear” [Deut 29:4; Is 29:10].
+
+
 
 Isaiah 29:12 LXX < Matthew 15:8-9
 
@@ -2428,6 +2890,8 @@ but their heart is far from me.
 
 teach as doctrines the rules of men’” [Is 29:12 LXX].
 
+
+
 Isaiah 29:13 < Mark 6:6-7
 
 ‘This people honors me with their lips,
@@ -2438,11 +2902,15 @@ but their heart is far from me.
 
 and teach as doctrines the rules of men’ [Is 29:13 LXX].
 
+
+
 Isaiah 29:14 < 1 Corinthians 1:19
 
 “I’ll destroy the wisdom of the wise,
 
 and set aside the insight of the insightful” [Is 29:14].
+
+
 
 Isaiah 40:3-5 < Luke 3:4
 
@@ -2486,6 +2954,8 @@ Isaiah 40:3 < John 1:23
 
 “I’m the one shouting in the desert, ‘Make the way of the LORD straight’ [Is 40:3]
 
+
+
 Isaiah 40:6-8 < 1 Peter 1:24-25
 
 24“Flesh is like grass;
@@ -2498,11 +2968,15 @@ the blossoms fall off;
 
 25but what the LORD says lasts forever” [Is 40:6-8].
 
+
+
 Isaiah 40:13 < 1 Corinthians 2:16
 
 16“Who knows the mind of the LORD;
 
 Who’s going to advise him?” [Is 40:13].
+
+
 
 Isaiah 42:1-4 < Matthew 12:18-21
 
@@ -2550,9 +3024,13 @@ the LORD Almighty says” [Ex 20:34, 41; 25:8; 29:45; Lev 26:12; 2 Sam 7:8, 14; 
 
 52:11; Jer 31:1, 9; 32:28; Ezek 37:27; Hos 1:10].
 
+
+
 Isaiah 43:20 < 1 Peter 2:9
 
 a chosen race [Is 43:20]
+
+
 
 Isaiah 43:21 < 1 Peter 2:9
 
@@ -2560,9 +3038,13 @@ a people that belongs to God. That’s so you can proclaim his excellence [Is
 
 43:21]
 
+
+
 Isaiah 45:21 < Mark 12:32
 
 there’s no other God besides him [Deut 4:35; Is 45:21].
+
+
 
 Isaiah 45:23 < Romans 14:11
 
@@ -2572,17 +3054,23 @@ Isaiah 45:23 < Romans 14:11
 
 and every tongue will acknowledge me’” [Is 49:18; 45:23].
 
+
+
 Isaiah 49:6 < Acts 13:47
 
 ‘I’ll make you a light to the Gentiles,
 
 so you can save the whole world’” [Is 49:6].
 
+
+
 Isaiah 49:8 < 2 Corinthians 6:2
 
 “At the right time I listened to you;
 
 on a day of salvation I helped you” [Is 49:8].
+
+
 
 Isaiah 49:18 < Romans 14:11
 
@@ -2592,13 +3080,19 @@ Isaiah 49:18 < Romans 14:11
 
 and every tongue will acknowledge me’” [Is 49:18; 45:23].
 
+
+
 Isaiah 52:5 < Romans 2:24
 
 “Gentiles blaspheme God because of you” [Is 52:5],
 
+
+
 Isaiah 52:7 < Romans 10:15
 
 “How welcome are the ones that bring good news!” [Is 52:7; Nah 1:15]
+
+
 
 Isaiah 52:11 < 2 Corinthians 6:16-18
 
@@ -2624,11 +3118,15 @@ the LORD Almighty says” [Ex 20:34, 41; 25:8; 29:45; Lev 26:12; 2 Sam 7:8, 14; 
 
 52:11; Jer 31:1, 9; 32:28; Ezek 37:27; Hos 1:10].
 
+
+
 Isaiah 52:15 < Romans 15:21
 
 “They’ll see, who haven’t received news about him;
 
 They’ll understand, who haven’t heard” [Is 52:15].
+
+
 
 Isaiah 52:15 < 1 Corinthians 2:9
 
@@ -2637,6 +3135,8 @@ Isaiah 52:15 < 1 Corinthians 2:9
 people haven’t imagined
 
 what God’s prepared for the ones that love him” [Is 64:4; 52:15; Sir 1:10].
+
+
 
 Isaiah 53:1-3 < Romans 3:10-12
 
@@ -2680,11 +3180,15 @@ Isaiah 53:1 < Romans 10:16
 
 “LORD, who’s believed our report?” [Is 53:1]
 
+
+
 Isaiah 53:4 < Matthew 8:17
 
 “He took our weaknesses,
 
 and bore our illnesses” [Is 53:4].
+
+
 
 Isaiah 53:7-8 < Acts 8:32-33
 
@@ -2700,13 +3204,19 @@ Who will tell about his family,
 
 because his life has been taken from the earth?” [Is 53:7-8 LXX]
 
+
+
 Isaiah 53:9 < 1 Peter 2:22
 
 22He “didn’t sin or deceive” [Is 53:9].
 
+
+
 Isaiah 53:12 < Luke 22:37
 
 ‘They considered me a criminal’ [Is 53:12].
+
+
 
 Isaiah 54:1 < Galatians 4:27
 
@@ -2718,9 +3228,13 @@ The woman that’s by herself has more children
 
 than the one with a husband” [Is 54:1].
 
+
+
 Isaiah 55:3 < Acts 13:34
 
 ‘I’ll give you the sure blessings of David’ [Is 55:3: LXX].
+
+
 
 Isaiah 56:7 < Matthew 21:13
 
@@ -2734,11 +3248,15 @@ Isaiah 56:7 < Luke 19:46
 
 ‘Call my house a house of prayer’ [Is 56:7].
 
+
+
 Isaiah 56:12 < 1 Corinthians 15:32
 
 “Let’s eat and drink;
 
 we’re going to die tomorrow” [Is 22:13; 56:12].
+
+
 
 Isaiah 58:6 < Luke 4:19
 
@@ -2753,6 +3271,8 @@ and sight to the blind,
 to free the afflicted,
 
 19to announce the LORD’s acceptable time” [Is 61:1-2; 58:6].
+
+
 
 Isaiah 59:7-8 < Romans 3:15-16
 
@@ -2786,6 +3306,8 @@ there’s snake poison behind their lips [Ps 140:3];
 
 18They have no respect for God [Ps 36:1].
 
+
+
 Isaiah 59:20-21 < Romans 11:26-27
 
 “A deliverer will come out of Zion;
@@ -2795,6 +3317,8 @@ he’ll turn away ungodliness from Jacob.
 27That’s my covenant with them,
 
 when I take away their sins” [Is 59:20-21].
+
+
 
 Isaiah 61:1-2 < Luke 4:18
 
@@ -2820,6 +3344,8 @@ humble and riding on a donkey—
 
 the colt of a donkey’” [Zech 9:9].
 
+
+
 Isaiah 64:4 < 1 Corinthians 2:9
 
 “Eye hasn’t seen, ear hasn’t heard,
@@ -2828,17 +3354,23 @@ people haven’t imagined
 
 what God’s prepared for the ones that love him” [Is 64:4; 52:15; Sir 1:10].
 
+
+
 Isaiah 65:1 < Romans 10:20
 
 “People found me that weren’t looking for me;
 
 they saw me who weren’t asking about me” [Is 65:1].
 
+
+
 Isaiah 65:2 LXX < Romans 10:21
 
 “All day long I’ve stretched out my hands
 
 to a disobedient, stubborn people” [Is.65:2 LXX].
+
+
 
 Isaiah 66:1 < Acts 7:49-50
 
@@ -2852,13 +3384,21 @@ Where will I rest?
 
 50Haven’t I made all this?”’ [Is 66:1-2]
 
+
+
+
+
 Jeremiah 6:24 < 1 Corinthians 1:31
 
 “Whoever is proud should be proud of what he has in the Lord” [Jer 9:24].
 
+
+
 Jeremiah 9:24 < 2 Corinthians 10:17
 
 “The one that boasts should boast in the LORD” [Jer 9:24].
+
+
 
 Jeremiah 31:1 < 2 Corinthians 6:16-18
 
@@ -2884,6 +3424,8 @@ the LORD Almighty says” [Ex 20:34, 41; 25:8; 29:45; Lev 26:12; 2 Sam 7:8, 14; 
 
 52:11; Jer 31:1, 9; 32:28; Ezek 37:27; Hos 1:10].
 
+
+
 Jeremiah 31:9 < 2 Corinthians 6:16-18
 
 “‘I’ll live and walk among them;
@@ -2908,6 +3450,8 @@ the LORD Almighty says” [Ex 20:34, 41; 25:8; 29:45; Lev 26:12; 2 Sam 7:8, 14; 
 
 52:11; Jer 31:1, 9; 32:28; Ezek 37:27; Hos 1:10].
 
+
+
 Jeremiah 31:15 < Matthew 2:18
 
 18“A sound was heard in Ramah,
@@ -2919,6 +3463,8 @@ Rachel weeping for her children.
 She wouldn’t be consoled;
 
 they were no longer living” [Jer 31:15].
+
+
 
 Jeremiah 31:31-34 < Hebrews 8:8-12
 
@@ -2972,6 +3518,8 @@ Jeremiah 31:34 < Hebrews 10:17
 
 and lawless deeds anymore’” [Jer 31:34].
 
+
+
 Jeremiah 32:6-9 < Matthew 27:9-10
 
 “They took thirty silver shekels,
@@ -3006,6 +3554,8 @@ the LORD Almighty says” [Ex 20:34, 41; 25:8; 29:45; Lev 26:12; 2 Sam 7:8, 14; 
 
 52:11; Jer 31:1, 9; 32:28; Ezek 37:27; Hos 1:10].
 
+
+
 Ezekiel 37:27 < 2 Corinthians 6:16-18
 
 “‘I’ll live and walk among them;
@@ -3030,6 +3580,8 @@ the LORD Almighty says” [Ex 20:34, 41; 25:8; 29:45; Lev 26:12; 2 Sam 7:8, 14; 
 
 52:11; Jer 31:1, 9; 32:28; Ezek 37:27; Hos 1:10].
 
+
+
 Daniel 7:13-14 < Mark 13:26
 
 26Then people will see the Son of Man coming on the clouds [Dan 7:13-14] with
@@ -3047,6 +3599,8 @@ and coming on the clouds in the sky’” [Ps 110:1; Dan 9:13].
 Daniel 7:13 < Luke 21:27
 
 . 		 27People will see ‘the Son of Man coming on a cloud’ [Dan 7:13]
+
+
 
 Hosea 1:8 < 2 Corinthians 6:16-18
 
@@ -3072,6 +3626,8 @@ the LORD Almighty says” [Ex 20:34, 41; 25:8; 29:45; Lev 26:12; 2 Sam 7:8, 14; 
 
 52:11; Jer 31:1, 9; 32:28; Ezek 37:27; Hos 1:10].
 
+
+
 Hosea 1:10 < Romans 9:26
 
 “I’ll call them my people that weren’t my people;
@@ -3092,6 +3648,8 @@ only a remnant will be saved.
 
 10:22-23; Hos 1:10].
 
+
+
 Hosea 2:23 < Romans 9:25
 
 “I’ll call them my people that weren’t my people;
@@ -3102,9 +3660,13 @@ and I’ll call them beloved that weren’t beloved [Hos 2:23].
 
 there they’ll be called ‘sons of the living God’” [Hos 1:10].
 
+
+
 Hosea 11:1 < Matthew 2:15
 
 “I’ve called my son out of Egypt” [Hos 11:1].
+
+
 
 Hosea 13:14 < 1 Corinthians 15:54-55
 
@@ -3113,6 +3675,8 @@ Hosea 13:14 < 1 Corinthians 15:54-55
 55Death, where’s your victory?
 
 Death, where’s your sting?” [Hos 13:14]
+
+
 
 Joel 2:28-32 < Acts 2:17-21
 
@@ -3146,6 +3710,8 @@ Joel 2:32 < Romans 10:13
 
 .		“The LORD will save everybody that calls on him” [Joel 2:32].
 
+
+
 Amos 5:25 < Acts 7:42-43
 
 ‘You didn’t offer me slain victims and sacrifices,
@@ -3178,11 +3744,15 @@ the LORD says who is doing this’ [Amos 9:11-12],
 
 18who is known from of old.’
 
+
+
 Jonah 1:7 < Matthew 12:40
 
 ‘Jonah was in the stomach of the sea monster for three days and three nights’
 
 [Jon 1:17],
+
+
 
 Micah 5:2 < Matthew 2:6
 
@@ -3204,9 +3774,13 @@ man ‘against father,’
 
 36‘A man’s enemies will be in his own house’ [Mic 7:6].
 
+
+
 Nahum 1:15 < Romans 10:15
 
 “How welcome are the ones that bring good news!” [Is 52:7; Nah 1:15]
+
+
 
 Habakkuk 1:5 < Acts 13:41
 
@@ -3217,6 +3791,8 @@ marvel and perish.
 I’ll do something in your day you wouldn’t believe
 
 even if someone explained it to you’” [Hab 1:5 LXX].
+
+
 
 Habakkuk 2:3-4 < Hebrews 10:37-38
 
@@ -3238,15 +3814,21 @@ Habakkuk 2:4 < Galatians 3:11
 
 “A good person will have life by trusting” [Hab 2:4].
 
+
+
 Haggai 2:6 < Hebrews 12:26
 
 “One more time I’ll shake,
 
 not just the earth, but the sky too” [Hag 2:6].
 
+
+
 Zechariah 8:16 < Ephesians 4:25
 
 “each of you speak truthfully with your neighbor” [Zech 8:16],
+
+
 
 Zechariah 9:9 < Matthew 21:5b
 
@@ -3266,6 +3848,8 @@ Look! Your king’s coming,
 
 sitting on a donkey’s colt” [Zech 9:9].
 
+
+
 Zechariah 11:12-13 < Matthew 27:9-10
 
 “They took thirty silver shekels,
@@ -3276,9 +3860,13 @@ the price of the One they priced,
 
 like the LORD commanded me” [Zech 11:12-13; Jer 32:6-9].
 
+
+
 Zechariah 12:10 < John 19:37
 
 “They’ll look at the one they speared” [Zech 12:10].
+
+
 
 Zechariah 13:7 < Matthew 26:31
 
@@ -3292,9 +3880,13 @@ Zechariah 13:7 < Mark 14:27
 
 and his sheep will scatter’ [Zech 13:7].
 
+
+
 Malachi 1:2-3 < Romans 9:13
 
 “I loved Jacob more than Esau” [Mal 1:2-3].
+
+
 
 Malachi 3:1 < Matthew 11:10
 
@@ -3320,7 +3912,13 @@ Malachi 3:1 < Luke 7:27
 
 to fix the road ahead of you’ [Mal 3:1].
 
+
+
+
+
 Summary of Quoted Passages
+
+
 
 Genesis 	28	1 Chronicles	 1 		Hosea 		5  	 Haggai   1
 
@@ -3338,10 +3936,23 @@ Deuteronomy	32		Jeremiah 	 9		Micah 		2
 
 Total   245
 
+
+
 Books not formally quoted: 1 Samuel, 2 Kings, 2 Chronicles, Ezra, Nehemiah, Esther, Job, Ecclesiastes, Song of Solomon, Lamentations, Obadiah, Zephaniah
+
+
 
 Notes: Longer quotations include shorter parts within them quoted in other places. In the counting they are considered as one Old Testament passage quoted. Example: Jeremiah 31:31-34 and 31:31 and 31:34 are counted as one quoted Old Testament text.
 
+
+
 This listing is based on the Greek text UBS 5th ed rev, 2014
 
+
+
 The listing refers only to quotations from the Old Testament. It does not include verbal allusions or factual references.
+
+
+
+
+

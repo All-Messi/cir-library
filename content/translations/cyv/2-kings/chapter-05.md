@@ -9,34 +9,54 @@ type: chapter
 weight: 5
 ---
 
-## 2 Kings Chapter 5
+## 2 Kings Chapter **5**
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Naaman, commander of Aram's army, was a great man with his master and highly respected, because by him Yahveh had given victory to Aram. He was a mighty soldier, but he was a leper. 2The Arameans had gone out in bands and taken captive a little girl from Israel, who became a maid for Naaman's wife. 3She told her mistress, "I wish my master would go see the prophet that's in Samaria. He'd cure his leprosy."</span>
+<span class="verse" id="v1"><sup><strong>1</strong></sup>Naaman, commander of Aram’s army, was a great man with his master and highly respected, because by him Yahveh had given victory to Aram. He was a mighty soldier, but he was a leper. <strong><sup>2</sup></strong>The Arameans had gone out in bands and taken captive a little girl from Israel, who became a maid for Naaman’s wife. <strong><sup>3</sup></strong>She told her mistress<em>, “I wish my master would go see the prophet that’s in Samaria. He’d cure his leprosy.”</em></span>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> Naaman went in and told his master what she'd said.</span>
+<span class="verse" id="v4"><sup><strong>4</strong></sup>Naaman went in and told his master what she’d said.</span>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> The king said, "Go ahead. I'll send a letter to the king of Israel." He left with 755 lbs 10 talents of silver, 150 lbs 6,000 shekels of gold, and 10 changes of clothes. 6He took the letter to king Ahab and said, "Along with this letter, I've sent my servant Naaman so you can cure his leprosy."</span>
+<span class="verse" id="v5"><sup><strong>5</strong></sup>The king said, <em>“Go ahead. I’ll send a letter to the king of Israel.”</em> He left</span>
+<p class="section-ref">with 755</p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> When he read it, he tore his clothes, "Am I God, to kill and make alive, that this man is sending me a message to cure a man from leprosy? He's trying to pick a fight."	 2 Kg 5:1-7</span>
+### lbs 10 talents of silver, 150 lbs 6,000 shekels of gold, and 10 changes of clothes. 6He took the letter to king Ahab and said, “Along with this letter, I’ve sent my servant Naaman so you can cure his leprosy.”
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> When Elisha heard the king had torn his clothes, he sent him a message, "Why tear your clothes? Send him to me. He'll know there's a prophet in Israel." 9Naaman went with his horses and chariots, and stood at Elisha's door. 10Elisha sent his messenger to him, "Go dip yourself seven times in the Jordan River. Your flesh will be restored, and you'll be clean." 11Naaman was furious and left, "I thought surely he'd come out and call on Yahveh his God, and wave his hand over the place to cure a leper. 12Aren't Abanah and Pharpar, rivers of Damascus, better than any river in Israel? Couldn't I have dipped myself in them to be clean?" He turned around and left in a rage.</span>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> His officers came up to him, "Father, if the prophet had told you to do something difficult, wouldn't you have done it? How much more when he just says to dip yourself to be clean?"</span>
+<span class="verse" id="v7"><strong><sup>7</sup></strong>When he read it, he tore his clothes, <em>“Am I God, to kill and make alive, that this man is sending me a message to cure a man from leprosy? He’s trying to pick a fight.”</em><strong>	 </strong></span>
+<p class="section-ref">2 Kg 5:1-7</p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> He went down and dipped himself seven times in the Jordan. His flesh became like a little child's, and he was clean. 	2 Kg 5:8-14</span>
+<span class="verse" id="v8"><sup><strong>8</strong></sup>When Elisha heard the king had torn his clothes, he sent him a message, <em>“Why tear your clothes? Send him to me. He’ll know there’s a prophet in Israel.”</em> <strong><sup>9</sup></strong>Naaman went with his horses and chariots, and stood at Elisha’s door. <strong><sup>10</sup></strong>Elisha sent his messenger to him, <em>“Go dip yourself seven times in the Jordan </em>River<em>. Your flesh will be restored, and you’ll be clean.”</em> <strong><sup>11</sup></strong>Naaman was furious and left, <em>“I thought </em><em>surely</em><em> he’d come out and call on Yahveh his </em><em>God, and</em><em> wave his hand over the place to cure a leper. </em><strong><sup>12</sup></strong><em>Aren’t</em><em> Abanah and Pharpar, rivers of Damascus, better than any river in Israel? Couldn’t I have dipped myself in them to be clean?”</em> He turned around and left in a rage.</span>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> He went back to the man of God with his company, stood in front of him, and said, "Now I know there's no God except in Israel. Please accept a present from me."</span>
+<span class="verse" id="v13"><sup><strong>13</strong></sup>His officers came up to him, <em>“Father, if the prophet had told you to do something difficult, wouldn’t you have done it? How much more when he </em>just <em>says to dip yourself to be clean?”</em></span>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> But Elisha swore, "As sure as Yahveh lives that I serve, I won't take a thing." He urged him to take it, but he refused.</span>
+<span class="verse" id="v14"><sup><strong>14</strong></sup>He went down and dipped himself seven times in the Jordan. His flesh became like a little child’s, and he was clean. <strong>	</strong></span>
+<p class="section-ref">2 Kg 5:8-14</p>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> Naaman said, "If not, please let me at least have two mules' loads of dirt, because I won't offer burnt offering or sacrifice to any god but Yahveh. 18May Yahveh pardon me when my master goes into Rimmon's temple to worship and leans on my hand and I bow there too."</span>
+<span class="verse" id="v15"><sup><strong>15</strong></sup>He went back to the man of God with his company, stood in front of him, and said, <em>“Now I know there’s no God except in Israel. Please accept a present from me.”</em></span>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> He told him, "Have a good day." He went away to go home.	  2 Kg 5:15-19</span>
+<span class="verse" id="v16"><sup><strong>16</strong></sup>But <em>Elisha</em> swore, <em>“As sure as Yahveh lives that I serve, I won’t take a thing.” </em> He urged him to take it, but he refused.</span>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> Gehazi thought, "My master has spared this Naaman the Aramean by not accepting what he brought. As sure as Yahveh lives, I'll run and accept something from him." 21When Naaman saw somebody running after him, he got down out of the chariot to meet him, "Is everything all right?"</span>
+<span class="verse" id="v17"><sup><strong>17</strong></sup>Naaman said, <em>“If not, please let me at least have two mules’ loads of dirt, because I won’t offer burnt offering or sacrifice to any god but Yahveh. </em><strong><sup>18</sup></strong><em>May</em><em> Yahveh pardon me when my master goes into Rimmon’s temple to worship and leans on my hand and I bow there too.”</em></span>
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> He said, "Everything's fine. My master sent me to say that two young men from the school of the prophets just came from the hill country of Ephraim. Please give them 75½ lbs a talent of silver and two changes of clothes."</span>
+<span class="verse" id="v19"><sup><strong>19</strong></sup>He told him, <em>“Have a good day.”</em> He went away <em>to go home</em>.<strong>	  </strong></span>
+<p class="section-ref">2 Kg 5:15-19</p>
 
-<span class="verse" id="v23"><sup class="verse-num">23</sup> Naaman said, "Please take 151 lbs two talents." 	2 Kg 5:20-23a He urged him and put 151 lbs two talents of silver in two bags with two changes of clothes, and gave them to two of his men to carry ahead of him. 24When Gehazi got to the hill, he took them and put them in the house, and they left. 25But when he went inside, Elisha said, "Where've you been?" "I didn't go anywhere."</span>
+<span class="verse" id="v20"><sup><strong>20</strong></sup>Gehazi thought, <em>“My master has spared this Naaman the Aramean by not accepting what he brought. As sure as Yahveh lives, I’ll run and accept something from him.” </em><strong><sup>21</sup></strong>When Naaman saw somebody running after him, he got down out of the chariot to meet him, <em>“Is everything all right?”</em></span>
 
-<span class="verse" id="v26"><sup class="verse-num">26</sup> Didn't my spirit go with you when the man turned from his chariot to meet you? Is it a time to receive money and clothes, olive orchards and vineyards, sheep and oxen, male and female servants? 27You and your descendants will permanently have to cope with leprosy like Naaman's." He went away as a leper as white as snow.	 2 Kg 5:23b-27 The Floating Ax head</span>
+<span class="verse" id="v22"><sup><strong>22</strong></sup>He said, <em>“Everything’s fine. My master sent me to say that two young men from the school of the prophets just came from the hill country of Ephraim. Please give them </em><em>75½ lbs </em><em><sup>a talent</sup></em><em> of silver </em><em>and two changes of clothes.”</em></span>
+
+<span class="verse" id="v23"><sup><strong>23</strong></sup>Naaman said, <em>“Please take </em><em>151 lbs </em><em><u><sup>two</sup></u></em><em><sup> talents</sup></em><em>.”</em> <strong>	</strong></span>
+<p class="section-ref">2 Kg 5:20-</p>
+
+### 23a He urged him and put 151 lbs two talents of silver in two bags with two changes of clothes, and gave them to two of his men to carry ahead of him. 24When Gehazi got to the hill, he took them and put them in the house, and they left. 25But when he went inside, Elisha said, “Where’ve you been?” “I didn’t go anywhere.”
+
+
+<span class="verse" id="v26"><sup><strong>26</strong></sup><em>Didn’t</em><em> my spirit </em><em>go</em><em> with you when the man turned from his chariot to meet you? Is it a time to receive money and clothes, olive orchards and vineyards, sheep and oxen, male and female servants? </em><strong><sup>27</sup></strong><em>You</em><em> and your descendants will permanently have to cope with leprosy like Naaman’s</em>.” He went away as a leper as white as snow.<strong>	 </strong><strong>2 Kg </strong><strong>5:23b-27</strong> <strong>The Floating Ax head</strong></span>
+
+
+<style>
+.verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
+.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
+.verse em { font-style: italic; }
+.verse strong sup { color: var(--secondary-color, #8b6914); }
+.section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+</style>

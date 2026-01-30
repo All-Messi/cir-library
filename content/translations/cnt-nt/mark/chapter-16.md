@@ -8,12 +8,39 @@ type: chapter
 weight: 16
 ---
 
-## Mark Chapter 16
+## Mark Chapter **16**
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> When Sabbath had passed, Mary the Magdalene; Mary, mother of James; and Salome bought aromatic oils to put on his body. 2Very early on the first day of the week, they camep to the tomb as the sun was just starting to come up. 3They were saying to one another, "Who's going to roll the stone away for us from the entrance to the tomb?" 4When they looked up, they sawp the big stone had been rolled away. 5They went into the tomb and saw a young man sitting on the right wearing a white robe, and they were startled. 6He saidp, "Don't be startled. You're looking for Jesus the Nazarene that was crucified. He's not here; he resurrected. See where they laid him. 7Go tell his disciples and Peter, 'He's going on ahead of you to Galilee. You'll see him there like he said.'" 8They went out and ran from the tomb because trembling and excitement gripped them. They didn't talk to anybody because they were afraid. [[9After he'd resurrected early on the first day of the week, he appeared first to Mary the Magdalene, that he'd cast seven demons out of. 10She reported it to the ones that had been with him, who were mourning and crying. 11When they heard she'd seen him alive, they didn't believe it.    [Mk 16:9-11]</span>
+<span class="verse" id="v1"><sup><strong>1</strong></sup>When Sabbath had passed, Mary the Magdalene; Mary, mother of James; and Salome bought aromatic oils to put on his body. <strong><sup>2</sup></strong>Very early on the first day of the week, they came<sup>p</sup> to the tomb as the sun was just starting to come up. <strong><sup>3</sup></strong>They were saying to one another, <em>“Who’s going to roll the stone away for us from the entrance to the tomb?”</em> <strong><sup>4</sup></strong>When they looked up, they saw<sup>p</sup> the big stone had been rolled away. <strong><sup>5</sup></strong>They went into the tomb and saw a young man sitting on the right wearing a white robe, and they were startled. <strong><sup>6</sup></strong>He said<sup>p</sup>, <em>“Don’t be </em><em>startled</em><em>.</em><em> </em><em>You’re looking for Jesus the Na</em><em>zarene that was crucified. H</em><em>e’s not here</em><em>; he</em><em> resurrected.</em><em> </em><em>See where they laid him.</em><em> </em><strong><sup>7</sup></strong><em>Go</em><em> tell his disciples and Peter, ‘He’s going </em><em>on </em><em>ahead of you </em><em>to</em><em> Galilee.</em><em> </em><em>You’ll see him there like he </em><em>said</em><em>.’”</em> <strong><sup>8</sup></strong>They went out and ran from the tomb because trembling and excitement gripped them. They didn’t talk to anybody because they were afraid.<strong> </strong><strong>	</strong><strong>Mk</strong><strong> </strong><strong>16:1-8</strong> <strong>Appearance to Mary the Magdalene</strong> [[<strong><sup>9</sup></strong>After he’d resurrected early on the first day of the week, he appeared first to Mary the Magdalene, that he’d cast seven demons out of. <strong><sup>10</sup></strong>She reported it to the ones that had been with him, who were mourning and crying. <strong><sup>11</sup></strong>When they heard she’d seen him alive, they didn’t believe it.<strong>    </strong><strong>[</span>
+<p class="section-ref">Mk 16:9-11</p>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> After that, he appeared to two of them in a different form as they were walkingp into the countryside. 13They went back to Jerusalem to report it to the rest, but they didn't believe them either. 14Later, he appeared to the eleven as they were reclining at table and chided them for their resistance to believing the ones that had seen him resurrected.	                  [Mk 16:12-14]</span>
+### ] Appearance to Two Disciples	 and to the Ten
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> He told them, "Go all over the world and tell everybody the good news. 16Whoever believes and is baptized will be saved; whoever disbelieves will be condemned. 17These signs will follow the ones that believe:</span>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> After the Lord Jesus had spoken to them, he was taken up into heaven and sat down on God's right hand. 20The disciples went out and delivered the good news everywhere, and the Lord worked with them by confirming the message with the signs that followed.]]	 [Mk 16:19-20]</span>
+<span class="verse" id="v12"><sup><strong>12</strong></sup>After that, he appeared to two of them in a different form as they were walking<sup>p</sup> into <em>the</em> countryside. <strong><sup>13</sup></strong>They went back <em>to Jerusalem </em>to report it to the rest, <em>but</em> they didn’t believe them either. <strong><sup>14</sup></strong>Later, he appeared to the eleven as they were reclining at table and chided them for their resistance to believing the ones that had seen him resurrected.	                  [</span>
+<p class="section-ref">Mk 16:12-14</p>
+
+### ] Appearance in Jerusalem
+
+
+<span class="verse" id="v15"><sup><strong>15</strong></sup>He told them, <em>“Go all over the world and tell everybody the good news. </em><strong><sup>16</sup></strong><em>Whoever</em><em> believes and is baptized will be saved; whoever disbelieves will be condemned. </em><strong><sup>17</sup></strong><em>These</em><em> signs will follow the ones that believe: </em> <em>they’ll cast out demons in my name; </em> <em>they’ll speak in new languages; </em></span>
+
+<span class="verse" id="v18"><sup><strong>18</strong></sup><em>they’ll</em><em> pick up snakes, and </em> <em>if they drink anything deadly, it won’t hurt them; </em> <em>they’ll lay hands on sick people</em><em>,</em><em> and they’ll recover.”</em><strong>	</strong><strong>[</span>
+<p class="section-ref">Mk 16:15-18</p>
+
+### ] The Ascension
+
+
+<span class="verse" id="v19"><sup><strong>19</strong></sup>After the Lord Jesus had spoken to them, he was taken up into heaven and sat down on God’s right hand. <strong><sup>20</sup></strong><em>The</em><em> disciples </em>went out and delivered the good news everywhere, and the Lord worked with them by confirming the message with the signs that followed.]]	 [</span>
+<p class="section-ref">Mk 16:19-20</p>
+
+### ] Translator: Virgil Warren     								      christir.org
+
+
+
+<style>
+.verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
+.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
+.verse em { font-style: italic; }
+.verse strong sup { color: var(--secondary-color, #8b6914); }
+.section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+</style>

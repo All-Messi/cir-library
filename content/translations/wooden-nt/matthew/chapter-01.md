@@ -8,125 +8,27 @@ type: chapter
 weight: 1
 ---
 
-## Matthew Chapter 1
+## Matthew Chapter **1**
 
-**1:**<sup>1</sup>**The Book of the Beginning of Jesus Messiah,<br>Son of-David, Son of-Abraham**
+<span class="verse" id="v1"><sup><strong>1</strong></sup>The Book of the Beginning of Jesus Messiah, Son of-David, Son of-Abraham</span>
 
-<div class="genealogy-table">
-<table class="genealogy">
-<tr><td><sup>2</sup>Abraham was father of</td><td>David was father of</td><td>Shealtiel, father of</td></tr>
-<tr><td>Isaac, father of</td><td>Solomon by his wife, who</td><td>Zerubbabel, <sup>13</sup>father of</td></tr>
-<tr><td>Jacob, father of</td><td>had been the wife of Uriah.</td><td>Abiud, father of</td></tr>
-<tr><td>Judah and his brothers;</td><td><sup>7</sup>Solomon was father of</td><td>Eliakim, father of</td></tr>
-<tr><td><sup>3</sup>Judah was father of</td><td>Rehoboam, father of</td><td>Azer, <sup>14</sup>father of</td></tr>
-<tr><td>Peres and Zerah by Tamar;</td><td>Abijah, father of</td><td>Sadoc, father of</td></tr>
-<tr><td>Peres was father of</td><td>Asa, <sup>8</sup>father of</td><td>Achim, father of</td></tr>
-<tr><td>Hezron, father of</td><td>Jehoshaphat, father of</td><td>Eliud, <sup>15</sup>father of</td></tr>
-<tr><td>Ram, <sup>4</sup>father of</td><td>Joram, father of</td><td>Eleazar, father of</td></tr>
-<tr><td><u>Aminidab</u>, father of</td><td>Uzziah, <sup>9</sup>father of</td><td>Mattham, father of</td></tr>
-<tr><td>Nahshon, father of</td><td>Jotham, father of</td><td>Jacob, <sup>16</sup>father of Joseph,</td></tr>
-<tr><td>Salmon, <sup>5</sup>father of</td><td>Ahaz, father of</td><td>husband of Mary, who</td></tr>
-<tr><td>Boaz by Rahab;</td><td>Hezekiah, <sup>10</sup>father of</td><td>gave birth to Jesus,</td></tr>
-<tr><td>Boaz was father of</td><td>Manasseh, father of</td><td>called Messiah.</td></tr>
-<tr><td>Obed by Ruth;</td><td>Amon, father of</td><td></td></tr>
-<tr><td>Obed was father of</td><td>Josiah, <sup>11</sup>father of</td><td></td></tr>
-<tr><td>Jesse, <sup>6</sup>father of</td><td>Jechoniah and his brothers</td><td></td></tr>
-<tr><td>David the king.</td><td>at the exile to Babylon.</td><td></td></tr>
-<tr><td></td><td><sup>12</sup>After the exile to</td><td></td></tr>
-<tr><td></td><td>Babylon, Jechoniah</td><td></td></tr>
-<tr><td></td><td>was father of</td><td></td></tr>
-</table>
-</div>
+<span class="verse" id="v2"><sup><strong>2</strong></sup>Abraham was father of	David was father of	Shealtiel, father of Isaac, father of	Solomon by his wife, who		Zerubbabel, <strong><sup>13</sup></strong>father of Jacob, father of 		   had been the wife of Uriah.	Abiud, father of Judah and his brothers;	   <strong><sup>7</sup></strong>Solomon was father of	Eliakim, father of</span>
 
-<p class="verse"><sup>17</sup>So all the generations from Abraham to David (are) fourteen generations, and from David to the carrying-off of-Babylon (are) fourteen generations, and from the carrying-off of-Babylon to [the] Messiah (are) fourteen generations.</p>
+<span class="verse" id="v3"><strong><sup>3</sup></strong>Judah was father of	Rehoboam, father of 	Azer, <strong><sup>14</sup></strong>father of Peres and Zerah by Tamar;	Abijah, father of 	Sadoc, father of Peres was father of 	Asa, <strong><sup>8</sup></strong>father of 	Achim, father of Hezron, father of 		Jehoshaphat, father of	Eliud, <strong><sup>15</sup></strong>father of Ram, <strong><sup>4</sup></strong>father of		Joram, father of	Eleazar, father of Aminidab, father of 		Uzziah, <strong><sup>9</sup></strong>father of 	Mattham, father of Nahshon, father of 		Jotham, father of	Jacob, <strong><sup>16</sup></strong>father of Joseph, Salmon, <strong><sup>5</sup></strong>father of		Ahaz, father of 	   husband of Mary, who Boaz by Rahab;		Hezekiah, <strong><sup>10</sup></strong>father of	   gave birth to Jesus, Boaz was father of	Manasseh, father of	   called Messiah. Obed by Ruth;		Amon, father of Obed was father of		Josiah, <strong><sup>11</sup></strong>father of Jesse, <strong><sup>6</sup></strong>father of 		Jechoniah and his brothers David the king.		   at the exile to Babylon.</span>
 
-<p class="section-ref">Mt 1:1-17</p>
+<span class="verse" id="v12"><strong><sup>12</sup></strong>After the exile to Babylon, Jechoniah was father of</span>
 
-### The Birth of Jesus Messiah
+<span class="verse" id="v17"><sup><strong>17</strong></sup>So all the generations from Abraham to David (are) fourteen generation, and from David to the carrying-off of-Babylon (are) fourteen generations, and from the carrying-off of-Babylon to [the] Messiah (are) fourteen generations.</span>
 
-<p class="verse"><sup>18</sup>The birth of-Jesus Messiah was thus. The mother of-him, Mary, having-been-engaged to-[the] Joseph, before their coming-together she-was-found having in (the) womb/pregnant by (the) Holy Spirit. <sup>19</sup>And Joseph the husband of-her, being righteous and not willing to-make-a-public-example-out-of her, planned to-divorce her privately. <sup>20</sup>And he having-thought-about these-things, behold (an) angel of-(the)-Lord in (a) dream appeared to-him, saying, "Joseph, son of-David, do˥not˩be-afraid to-take Mary as-the wife of-you, for the-one begotten in her is from/by (the) Holy Spirit. <sup>21</sup>And she-will-bear (a) son, and you-will-call the name of-him Jesus; for he will-save the people of-him from the sins of-them." <sup>22</sup>And this all has-happened in-order-that the-thing might-be-fulfilled spoken by (the) Lord through the prophet, saying,</p>
+<span class="verse" id="v18"><sup><strong>18</strong></sup>The birth of-Jesus Messiah was thus. The mother of-him, Mary, having-been-engaged to-[the] Joseph, before<sup>2</sup> their coming-together she-was-found having in (the) womb/pregnant by (the) Holy Spirit. <strong><sup>19</sup></strong>And Joseph the husband of-her, being righteous and not willing to-make-a-public example-out-of her, planned to-divorce her privately. <strong><sup>20</sup></strong>And he having-thought-about these-things, behold (an) angel of-(the)-Lord in (a) dream appeared to-him, saying, <em>“Joseph, son of-David, do</em><em>┘not└</em><em>be-afraid to-take Mary as-the wife of-you, for the-one begotten in her is </em><em>from/by (the) Holy Spirit.</em><em> </em><strong><sup>21</sup></strong><em>And she-will-bear (a) son, and you-will-call</em><em> the name of-him Jesus; f</em><em>or </em><em><u>he</u></em><em> will-save the people of-him from the sins of-them.</em><em>”</em><em> </em><strong><sup>22</sup></strong>And this all has-happened in-order-that the-thing might-be-fulfilled spoken by (the) Lord through the prophet, saying, <strong><sup>23</sup></strong><strong><em>“Behold, the/a virgin will-have-in (the) womb/will-be pregnant,</em></strong> <strong><em>	</em></strong><strong><em>	And she-will-bear (a) son,</em></strong> <strong><em>	</em></strong><strong><em>	And they-will-call the name of-him ‘Emmanuel</em></strong><strong><em>,’”</em></strong> that is, translated, <strong><em>‘[The] God (is) with us.’</em></strong></span>
 
-<blockquote class="scripture-quote">
-<sup>23</sup>"Behold, the virgin will-have in (the) womb<br>
-and will-bear (a) son,<br>
-and they-will-call the name of-him Emmanuel"<br>
-—which is being-translated "God with us" [Is 7:14].
-</blockquote>
+<span class="verse" id="v24"><strong><sup>4</sup></strong>And [the] Joseph, having-arisen from [the] sleep, did as the angel of-the Lord commanded and took the wife of-him, <strong><sup>25</sup></strong>and did┘not└know her/have marital relations with her until<sup>2</sup> she-bore (a) son, and he called the name of-him Jesus.</span>
 
-<p class="verse"><sup>24</sup>And [the] Joseph, having-arisen from [the] sleep, did as the angel of-the Lord commanded and took the wife of-him, <sup>25</sup>and did˥not˩know her/have-marital-relations-with-her until she-bore (a) son, and he called the name of-him Jesus.</p>
-
-<p class="section-ref">Mt 1:18-25</p>
 
 <style>
-.genealogy-table {
-    margin: 1.5rem 0 2rem 0;
-    overflow-x: auto;
-}
-
-.genealogy {
-    width: 100%;
-    border-collapse: collapse;
-    font-size: 1.05rem;
-    line-height: 1.5;
-}
-
-.genealogy td {
-    padding: 0.3rem 0.5rem;
-    vertical-align: top;
-    width: 33.33%;
-}
-
-.genealogy sup {
-    color: var(--secondary-color, #8b6914);
-    font-weight: bold;
-    font-size: 0.8em;
-    margin-right: 0.15em;
-}
-
-.genealogy u {
-    text-decoration-color: var(--secondary-color, #8b6914);
-}
-
-.section-ref {
-    text-align: right;
-    font-size: 0.9rem;
-    color: #666;
-    margin: 0.5rem 0 2.5rem 0;
-    font-style: italic;
-}
-
-.verse {
-    line-height: 1.8;
-    margin-bottom: 1rem;
-}
-
-.verse sup {
-    color: var(--secondary-color, #8b6914);
-    font-weight: bold;
-    font-size: 0.8em;
-    margin-right: 0.1em;
-}
-
-.scripture-quote {
-    margin: 1rem 2rem;
-    padding-left: 1rem;
-    border-left: 3px solid var(--secondary-color, #8b6914);
-    font-style: italic;
-    line-height: 1.6;
-}
-
-.scripture-quote sup {
-    color: var(--secondary-color, #8b6914);
-    font-weight: bold;
-    font-size: 0.8em;
-}
-
-@media (max-width: 768px) {
-    .genealogy {
-        font-size: 0.9rem;
-    }
-    .genealogy td {
-        padding: 0.2rem 0.3rem;
-    }
-}
+.verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
+.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
+.verse em { font-style: italic; }
+.verse strong sup { color: var(--secondary-color, #8b6914); }
+.section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
 </style>

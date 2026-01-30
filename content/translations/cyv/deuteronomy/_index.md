@@ -10,5 +10,3 @@ weight: 5
 ## Deuteronomy
 
 **34 Chapters**
-
-Select a chapter to begin reading:

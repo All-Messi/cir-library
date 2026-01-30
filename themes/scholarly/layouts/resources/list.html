@@ -2,48 +2,23 @@
 <div class="resources-list">
     <header class="section-header">
         <h1>{{ .Title }}</h1>
-        <p>Supplemental materials related to Dr. Warren's Bible translations</p>
+        <p>Supplemental materials and studies related to Dr. Warren's Bible translations</p>
     </header>
 
-    <div class="resources-preview">
-        <h3>Resources</h3>
-        <div class="resource-tags">
-            {{ range .Pages.ByWeight }}
-            <a href="{{ .Permalink }}" class="resource-tag">{{ .Title }}</a>
+    <nav class="breadcrumb">
+        <a href="{{ "translations/" | absURL }}">← Back to Translations</a>
+    </nav>
+
+    <div class="essays-grid">
+        {{ range .Pages.ByTitle }}
+        <article class="essay-card">
+            <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+            {{ if .Summary }}
+            <p class="excerpt">{{ .Summary | truncate 200 }}</p>
             {{ end }}
-        </div>
+            <a href="{{ .RelPermalink }}" class="read-more">Read Resource →</a>
+        </article>
+        {{ end }}
     </div>
 </div>
-
-<style>
-.resources-preview {
-    background: #f8f9fa;
-    padding: 1.5rem;
-    border-radius: 8px;
-    margin-bottom: 2rem;
-}
-.resources-preview h3 {
-    margin-top: 0;
-    margin-bottom: 1rem;
-}
-.resource-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.75rem;
-}
-.resource-tag {
-    background: white;
-    padding: 0.5rem 1rem;
-    border-radius: 4px;
-    text-decoration: none;
-    font-size: 0.9rem;
-    border: 1px solid #ddd;
-    color: var(--primary-color);
-    white-space: nowrap;
-}
-.resource-tag:hover {
-    background: var(--primary-color);
-    color: white;
-}
-</style>
 {{ end }}

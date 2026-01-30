@@ -10,5 +10,3 @@ weight: 18
 ## Job
 
 **42 Chapters**
-
-Select a chapter to begin reading:

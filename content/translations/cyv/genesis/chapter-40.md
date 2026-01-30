@@ -9,18 +9,33 @@ type: chapter
 weight: 40
 ---
 
-## Genesis Chapter 40
+## Genesis Chapter **40**
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> After that, the king's cupbearer and baker offended him. 2Pharaoh was furious 3and jailed them in the captain of the bodyguard's house, where Joseph was. 4The captain put Joseph in charge of them, and he took care of them for some time. 5The cupbearer and baker both had a dream the same night, each man's dream with its own meaning.</span>
+<span class="verse" id="v1"><sup><strong>1</strong></sup>After that, the king’s cupbearer and baker offended him. <strong><sup>2</sup></strong>Pharaoh was furious <strong><sup>3</sup></strong>and jailed them in the captain of the bodyguard’s house, where Joseph was. <strong><sup>4</sup></strong>The captain put Joseph in charge of them, and he took care of them for some time. <strong><sup>5</sup></strong>The cupbearer and baker both had a dream the same night, each man’s dream with its own meaning.</span>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> When Joseph came to them in the morning, he saw how dejected they looked. 7"Why are you so down?" 8"We've had a dream nobody can interpret."</span>
+<span class="verse" id="v6"><strong><sup>6</sup></strong>When Joseph came to them in the morning, he saw how dejected they looked. <strong><sup>7</sup></strong><em>“Why</em><em> are you so </em><em>down</em><em>?”</em><em> </em> <strong><sup>8</sup></strong><em>“We’ve</em><em> had</em><em> a dream nobody can interpret</em><em>.”</em><em>	</em></span>
+<p class="section-ref">Gen 40:1-8</p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> The chief cupbearer told Joseph his dream, "I saw a vine 10that had three branches. It blossomed, and its clusters produced ripe grapes. 11I had Pharaoh's cup in my hand. I took the grapes and squeezed them into it and gave it to him."</span>
+<span class="verse" id="v9"><strong><sup>9</sup></strong>The chief cupbearer told Joseph his dream, <em>“</em><em>I saw</em><em> a vine </em><strong><sup>10</sup></strong><em>that</em><em> had </em><em>three</em><em> branches.</em><em> </em><em>It blossomed, and its clusters produced ripe grapes.</em><em> </em><strong><sup>11</sup></strong><em>I</em><em> ha</em><em>d Pharaoh’s cup in my hand.</em><em> I took the grapes and squeezed them into it and gave it to him.”</em></span>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> Joseph said, "The three branches represent three days. 13In three days Pharaoh will put you back in office. You'll hand him the cup like before. 14Just keep me in mind when that happens and get me out of this house. 15I was kidnapped from the land of the Hebrews, and I haven't done anything here that warranted putting me in the dungeon."</span>
+<span class="verse" id="v12"><strong><sup>2</sup></strong>Joseph said, <em>“The </em><em>three branches represent</em><em> three days.</em><em> </em><strong><sup>13</sup></strong><em>In</em><em> </em><em>three</em><em> days Pharaoh will </em><em>put you back in</em><em> office</em><em>. Y</em><em>ou’ll hand him the cup like before.</em><em> </em><strong><sup>14</sup></strong><em>Just</em><em> ke</em><em>ep me in mind when that happens </em><em>and get me out of this house.</em><em> </em><strong><sup>15</sup></strong><em>I</em><em> was kidnapped from the land of the Hebrews, and I haven’t done anything </em><em>here </em><em>that warranted putting me in </em><em>the </em><em>dungeon.</em><em>”</em><em>	</em></span>
+<p class="section-ref">Gen 40:9-15</p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> When the chief baker saw he'd interpreted sensibly, he told Joseph, "I dreamed I saw three baskets of white bread on my head. 17The top basket had all kinds of baked food for Pharaoh, and birds were eating it."</span>
+<span class="verse" id="v16"><strong><sup>6</sup></strong>When the chief baker saw he’d interpreted sensibly, he told Joseph, <em>“I dreamed</em><em> </em><em>I saw three</em><em> baskets of white bread on my head.</em> <strong><sup>17</sup></strong><em>The</em><em> top basket had all kinds of baked food for Pharaoh, and birds were eating </em><em>it</em><em>.”</em></span>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> Joseph said, "The three baskets represent three days. 19In three days Pharaoh will take off your head and impale you on a pole, and birds will peck away at your body."</span>
+<span class="verse" id="v18"><strong><sup>8</sup></strong>Joseph said, <em>“</em><em>The three baskets represent</em><em> three days.</em><em> </em><strong><sup>19</sup></strong><em>In</em><em> </em><em>three</em><em> days Pharaoh will </em><em>take</em><em> </em><em>off</em><em> your head and </em><em>impale</em><em> you on a </em><em>pole, and birds will peck away at your body</em><em>.”</em></span>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> Three days later, on his birthday, Pharaoh held a banquet for all his officials. He called up the chief cupbearer and the chief baker. 21He gave the cupbearer his office back; he gave the cup to Pharaoh. 22He impaled the baker like Joseph had interpreted, 23but the cupbearer didn't remember to mention Joseph. Pharaoh's Dreams</span>
+<span class="verse" id="v20"><sup><strong>20</strong></sup>Three days later, on his birthday, Pharaoh held a banquet for all his officials. He called up the chief cupbearer and the chief baker. <strong><sup>21</sup></strong>He gave the cupbearer his office back; he gave the cup to Pharaoh. <strong><sup>22</sup></strong>He impaled the baker like Joseph had interpreted<em>,</em> <strong><sup>23</sup></strong>but the cupbearer didn’t remember to <em>mention </em>Joseph.</span>
+<p class="section-ref">Gen 40:16-23</p>
+
+### Pharaoh’s Dreams
+
+
+
+<style>
+.verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
+.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
+.verse em { font-style: italic; }
+.verse strong sup { color: var(--secondary-color, #8b6914); }
+.section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+</style>

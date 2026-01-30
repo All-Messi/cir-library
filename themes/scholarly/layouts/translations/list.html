@@ -1,19 +1,22 @@
 {{ define "main" }}
 <div class="translations-list">
-    <header class="page-header">
-        <h1>{{ .Title }}</h1>
+    <header class="section-header">
+        <h1>Bible Translations</h1>
+        <p>Dr. Virgil Warren's original Bible translations, created over decades of scholarly work. Each translation serves a specific purpose in making Scripture accessible and understandable.</p>
     </header>
-
-    <div class="intro-content">
-        {{ .Content }}
-    </div>
 
     <div class="translations-grid">
         {{ range .Sections }}
-        {{ if ne .Title "Bible Translation Resources" }}
+        {{ if and (ne .Title "Textual Resources") (ne .Title "Bible Translation Resources") }}
         <div class="translation-card">
             <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+            {{ if .Params.description }}
+            <p class="translation-desc">{{ .Params.description }}</p>
+            {{ else if .Summary }}
             <p class="translation-desc">{{ .Summary }}</p>
+            {{ else }}
+            <p class="translation-desc">A translation by Dr. Virgil Warren</p>
+            {{ end }}
             <div class="translation-actions">
                 {{ $firstBook := index .Sections 0 }}
                 {{ if $firstBook }}
@@ -29,15 +32,75 @@
         {{ end }}
     </div>
 
-    <!-- Resources Section -->
+    <!-- Textual Resources Section -->
     {{ range .Sections }}
-    {{ if eq .Title "Bible Translation Resources" }}
-    <section class="translation-resources">
-        <h2>Translation Resources</h2>
-        <p>{{ .Summary }}</p>
-        <a href="{{ .RelPermalink }}" class="btn-secondary">View Resources →</a>
+    {{ if or (eq .Title "Textual Resources") (eq .Title "Bible Translation Resources") }}
+    <section class="textual-resources-section">
+        <h2>Textual Resources</h2>
+        <p>Supplemental studies and reference materials related to the biblical texts.</p>
+        
+        <div class="resource-list">
+            {{ range .Pages.ByTitle }}
+            <a href="{{ .RelPermalink }}" class="resource-item">
+                <span class="resource-title">{{ .Title }}</span>
+                <span class="resource-arrow">→</span>
+            </a>
+            {{ end }}
+        </div>
+        
+        <a href="{{ .RelPermalink }}" class="btn-secondary" style="margin-top: 1rem;">View All Resources</a>
     </section>
     {{ end }}
     {{ end }}
 </div>
+
+<style>
+.textual-resources-section {
+    margin-top: 3rem;
+    padding: 2rem;
+    background: var(--color-ivory, #f5f2ed);
+    border-radius: 8px;
+    border-left: 4px solid var(--color-accent, #b8860b);
+}
+
+.textual-resources-section h2 {
+    margin-top: 0;
+    color: var(--color-primary, #1e3a5f);
+}
+
+.resource-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    margin: 1.5rem 0;
+}
+
+.resource-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.75rem 1rem;
+    background: white;
+    border-radius: 6px;
+    border: 1px solid var(--color-border-light, #e8e4dc);
+    text-decoration: none;
+    transition: all 0.2s ease;
+}
+
+.resource-item:hover {
+    border-color: var(--color-accent, #b8860b);
+    background: white;
+    transform: translateX(4px);
+}
+
+.resource-title {
+    color: var(--color-primary, #1e3a5f);
+    font-weight: 500;
+}
+
+.resource-arrow {
+    color: var(--color-accent, #b8860b);
+    font-weight: 600;
+}
+</style>
 {{ end }}

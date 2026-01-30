@@ -9,30 +9,60 @@ type: chapter
 weight: 4
 ---
 
-## Matthew Chapter 4
+## Matthew Chapter **4**
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> 1Then the Spirit led Jesus into the desert to be tempted by the devil. 2After fasting 40 days, he was hungry, 3and the tempter came, “If you’re God’s Son, tell these stones to become loaves of bread.”</span>
+<span class="verse" id="v1"><strong><sup>1</sup></strong>Then the Spirit led Jesus into the desert to be tempted by the devil. <strong><sup>2</sup></strong>After fa</span>
+<p class="section-ref">sting 40</p>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> But he answered, “People aren’t to live by bread only, but by everything God says” [Deut 8:3].</span>
+### days, he was hungry, 3and the tempter came, “If you’re God’s Son, tell these stones to become loaves of bread.”
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> The devil tookp him to the Holy City and stood him on the pinnacle of the Temple, 6“If you’re God’s Son, throw yourself down. Scripture says, ‘He’ll tell his angels to catch you so you’ll never trip over a rock’” [Ps 91:11-12].</span>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> Jesus said, “Again scripture says, ‘Don’t tempt the LORD your God’” [Deut 6:16].</span>
+<span class="verse" id="v4"><strong><sup>4</sup></strong>But he answered, <strong><em>“</em></strong><strong><em>People aren’t to live by bread only</em></strong><strong><em>,</em></strong> <strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	bu</em></strong><strong><em>t by everything God says</em></strong><strong><em>”</em></strong><strong> </strong><strong>[Deut</strong><strong> 8:3]</strong>.</span>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> The devil tookp him to a tall mountain and showedp him the kingdoms of the world and their splendor, 9“If you kneel down and worship me, I’ll give you all this.”</span>
+<span class="verse" id="v5"><strong><sup>5</sup></strong>The devil took<sup>p</sup> him to the Holy City and stood him on the pinnacle of the Temple, <strong><sup>6</sup></strong><em>“If</em><em> you’re God’s Son,</em><em> throw yourself down. S</em><em>cripture says,</em> <strong><em>‘He’ll </em></strong><strong><em>tell his angels to catch you</em></strong> <strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>so</em></strong><strong><em> you’ll never trip</em></strong><strong><em> over a rock</em></strong><strong><em>’</em></strong><em>”</em> <strong>[Ps</strong><strong> 91:11-12]</strong>.</span>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> Jesus saidp, “Go away, Satan. Scripture says, ‘Worship the LORD your God, and only serve him’” [Deut 6:13].</span>
+<span class="verse" id="v7"><strong><sup>7</sup></strong>Jesus said, <em>“Again scripture says,</em> <strong><em>‘Don’t </em></strong><strong><em>tempt</em></strong><strong><em> </em></strong><strong><em>the L</em></strong><strong><em>ORD</em></strong><strong><em> your God</em></strong><strong><em>’</em></strong><em>”</em> <strong>[</span>
+<p class="section-ref">Deut 6:16</p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> The devil leftp, and angels came to give him support. 	Mt 4:1-11 Introductory Statements About the Galilean Ministry</span>
+<span class="verse" id="v8"><strong><sup>8</sup></strong>The devil took<sup>p</sup> him to a tall mountain and showed<sup>p</sup> him the kingdoms of the world and their splendor, <strong><sup>9</sup></strong><em>“If</em><em> you</em><em> </em><em>kneel</em><em> down</em><em> and worship me, I’ll give you all this.”</em></span>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> When Jesus heard that John had been arrested, he withdrew into Galilee, 13and moved from Nazareth to Capernaum by the lake in the region of Zebulun and Naphtali. 14That fulfills what Isaiah the prophet said, 15“Land of Zebulun, land of Naphtali, by the road along the lake, by the Jordan, Galilee of the Gentiles—</span>
+<span class="verse" id="v10"><strong><sup>0</sup></strong>Jesus said<sup>p</sup>, <em>“Go away, Satan.</em><em> Scripture</em><em> says, </em> <strong><em>‘W</em></strong><strong><em>orship the L</em></strong><strong><em>ORD</em></strong><strong><em> you</em></strong><strong><em>r</em></strong><strong><em> God,</em></strong> <strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	and </em></strong><em>only </em><strong><em>serve </em></strong><strong><em><u>him</u></em></strong><strong><em>’</em></strong><em>”</em> <strong>[Deut</strong><strong> 6:13].</strong></span>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> people that lived in darkness have seen a bright light. It has dawned on those who lived in a region of deep darkness” [Is 9:1-2].</span>
+<span class="verse" id="v11"><strong><sup>1</sup></strong>The devil left<sup>p</sup>, and angels came to give him support.</span>
+<p class="section-ref">Mt 4:1-11</p>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> From then on, Jesus preached, “Repent; the kingdom of heaven’s coming.”   Mt 4:12-17 Calling Four Fishermen</span>
+### Introductory Statements About the Galilean Ministry
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> As he was walking along Lake Galilee, he saw two brothers, Simon called Peter, and Andrew. They were casting nets into the lake; they were fishermen. 19He toldp them, “Come with me, and I’ll have you ‘fishing’ for people.” 20Right away, they left their nets and went with him.</span>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> He went on from there and saw two more brothers, James and John, sons of Zebedee, in a boat with their father, mending nets; and he called them. 22At once, they left the boat and their father and went with him.	Mt 4:18-22 The First General Tour of Galilee</span>
+<span class="verse" id="v12"><strong><sup>2</sup></strong>When Jesus heard that John had been arrested, he withdrew into Galilee, <strong><sup>13</sup></strong>and moved from Nazareth to Capernaum by the lake in the region of Zebulun and Naphtali. <strong><sup>14</sup></strong>That fulfills what Isaiah the prophet said, <strong><sup>15</sup></strong><strong><em>“Land</em></strong><strong><em> of Zebulun,</em></strong><strong><em> land of Naphtali,</em></strong> <strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	by the road along the </em></strong><strong><em>lake</em></strong><strong><em>, </em></strong> <strong><em>by</em></strong><strong><em> the Jordan, </em></strong> <strong><em>Galilee of the Gentiles—</em></strong></span>
 
-<span class="verse" id="v23"><sup class="verse-num">23</sup> He started going all over Galilee, teaching in their synagogues, delivering the good news about the kingdom, and healing all kinds of disease and illness among the people. 24The news about him spread all over Syria, and they brought him people that were ill, people distressed with various sicknesses and pains, demoniacs, epileptics, paralytics; and he healed them. 25Big crowds followed him from Galilee, Decapolis, Jerusalem, Judaea, and beyond the Jordan. 										        Mt 4:23-25 The Sermon on the Mount**</span>
+<span class="verse" id="v16"><strong><sup>16</sup></strong><strong><em>people</em></strong><strong><em> that lived in darkness</em></strong> <strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>have seen</em></strong><strong><em> a </em></strong><strong><em>bright</em></strong><strong><em> light.</em></strong> <strong><em>	</em></strong><strong><em>	</em></strong><strong><em>It has dawned on those who lived</em></strong><strong><em> </em></strong> <strong><em>in</em></strong><strong><em> a region of deep darkness</em></strong><strong><em>”</em></strong><strong> </strong><strong>[I</strong><strong>s</strong><strong> 9:1-2]</strong>.<em>	</em><strong><em>  </em></strong><strong><em> </em></strong></span>
+
+<span class="verse" id="v17"><strong><sup>7</sup></strong>From then on, Jesus preached, <em>“Repent; the kingdom of heaven’s coming.”</em><strong> </strong><strong>  </strong></span>
+<p class="section-ref">Mt 4:12-17</p>
+
+### Calling Four Fishermen
+
+
+<span class="verse" id="v18"><sup><strong>18</strong></sup>As he was walking along Lake Galilee, he saw two brothers, Simon called Peter, and Andrew. They were casting nets into the lake; they were fishermen. <strong><sup>19</sup></strong>He told<sup>p</sup> them, <em>“Come </em><em>with</em><em> me, and I’ll have you ‘fishing’ for people.”</em><em> </em><strong><sup>20</sup></strong>Right away, they left their nets and went with him.</span>
+
+<span class="verse" id="v21"><sup><strong>21</strong></sup>He went on from there and saw two more brothers, James and John, sons of Zebedee, in a boat with their father, mending nets; and he called them. <strong><sup>22</sup></strong>At once, they left the boat and their father and went with him.</span>
+<p class="section-ref">Mt 4:18-22</p>
+
+### The First General Tour of Galilee
+
+
+<span class="verse" id="v23"><sup><strong>23</strong></sup>He started going all over Galilee, teaching in their synagogues, delivering the good news about the kingdom, and healing all kinds of disease and illness among the people. <strong><sup>24</sup></strong>The news about him spread all over Syria, and they brought him people that were ill, people distressed with various sicknesses and pains, demoniacs, epileptics, paralytics; and he healed them. <strong><sup>25</sup></strong>Big crowds followed him from Galilee, Decapolis, Jerusalem, Judaea, and beyond the Jordan.<strong> </strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	        </strong></span>
+<p class="section-ref">Mt 4:23-25</p>
+
+### The Sermon on the Mount**
+
+
+
+<style>
+.verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
+.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
+.verse em { font-style: italic; }
+.verse strong sup { color: var(--secondary-color, #8b6914); }
+.section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+</style>

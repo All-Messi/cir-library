@@ -9,46 +9,67 @@ type: chapter
 weight: 65
 ---
 
-## Isaiah Chapter 65
+## Isaiah Chapter **65**
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> I let people look for me who weren't asking about me; people that weren't looking for me found me. I said, 'I'm here! Over here!' to people that didn't call on me.</span>
+<span class="verse" id="v1"><strong><sup>1</sup></strong><em>“I</em><em> let people look for me who weren’t asking about </em><em>me;</em> <em>	</em><em>	</em><em>	people that weren’t looking for me found me.</em> <em>	</em><em>	I said, ‘I’m here! Over here!’</em> <em>	</em><em>	</em><em>	to people that didn’t call on me.</em></span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> All day long I spread out my hands to a rebellious nation that follows its own ideas,</span>
+<span class="verse" id="v2"><sup><strong>2</strong></sup><em>	</em><strong><sup>2</sup></strong><em>All</em><em> day long I spread out my hands to a rebellious nation</em> <em>	</em><em>	</em><em>	</em><em>	that follows its own ideas,</em></span>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> that continually angers me to my face by offering sacrifices to idols in sacred gardens and burning incense on pagan altars,</span>
+<span class="verse" id="v3"><sup><strong>3</strong></sup><em>	</em><em>	</em><em>	</em><strong><sup>3</sup></strong><em>that</em><em> continually angers me to my face</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	by offering sacrifices to idols in sacred gardens </em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	and burning incense on pagan altars,</em></span>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> that sit in tombs and spend the night in secret places, that eat pig meat and have broth from unclean meat in their pots,</span>
+<span class="verse" id="v4"><sup><strong>4</strong></sup><em>	</em><em>	</em><em>	</em><strong><sup>4</sup></strong><em>that</em><em> sit in tombs and spend the night in secret places,</em> <em>	</em><em>	</em><em>	</em><em>	that eat pig meat</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	and have broth from unclean meat in their pots,</em></span>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> that say, 'Stay away from me; don't touch me; I'm holier than you are!' They're smoke in my nose, a fire that burns all day.</span>
+<span class="verse" id="v5"><sup><strong>5</strong></sup><em>	</em><em>	</em><em>	</em><strong><sup>5</sup></strong><em>that</em><em> say, ‘Stay away from </em><em>me;</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	       </em><em>	    don’t touch </em><em>me;</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	     I’m holier than you are!’ </em> <em>	</em><em>	They’re smoke in my nose, a fire that burns all day.</em><strong>	</strong></span>
+<p class="section-ref">Is 65:1-5</p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> I've written it out in front of me: I won't stand idly by; I'll repay. I'll pay back into their laps</span>
+<span class="verse" id="v6"><sup><strong>6</strong></sup><em>	</em><strong><sup>6</sup></strong><em>I’ve</em><em> written it out in front of me:</em> <em>	</em><em>	</em><em>	I won’t stand idly by; I’ll repay.</em> <em>	</em><em>	</em><em>	I’ll pay back into their laps</em></span>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> the sins they and their ancestors committed; since they've burned incense on the mountains and scorned me on the hills, I'll measure out their former deeds into their arms," Yahveh says. 8"As new wine comes from clusters and somebody says, 'Don't ruin it; it's useful'; that's what I'll do with my servants and not destroy them all.</span>
+<span class="verse" id="v7"><sup><strong>7</strong></sup><em>	</em><em>	</em><em>	</em><strong><sup>7</sup></strong><em>the</em><em> sins they and their ancestors </em><em>committed;</em> <em>	</em><em>	</em><em>	</em><em>	since they’ve burned incense on the mountains</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	and scorned me on the hills, </em> <em>	</em><em>	</em><em>	</em><em>	I’ll measure out their former deeds</em><em> </em><em>into their arms,”</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em>Yahveh says. <strong><sup>8</sup></strong><em>“As</em><em> new wine comes from clusters</em> <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><em>and somebody says,  </em> <em>	</em><em>	</em><em>	</em><em>	‘Don’t ruin it; it’s useful</em><em>’;</em> <em>	</em><em>	that’s what I’ll do with my servants </em> <em>	</em><em>	</em><em>	and not destroy them all.</em></span>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> I'll preserve a remnant from Jacob and Judah to inherit my mountains; my chosen ones will inherit it; my servants will live there.</span>
+<span class="verse" id="v9"><strong><sup>9</sup></strong><em>I’ll</em><em> preserve a remnant from Jacob and Judah</em> <em>	</em><em>	</em><em>	to inherit my </em><em>mountains;</em> <em>	</em><em>	my chosen ones will inherit </em><em>it;</em> <em>	</em><em>	</em><em>	my servants will live there. </em></span>
+<p class="section-ref">Is 65:6-9</p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> Sharon will be a pasture for flocks; the Valley of Achor will be a resting place for herds— for my people that look to me. 11-12But I'll destine for the sword you that leave me, that forget my holy mountain, that set a table for Fortune and fill cups with mixed wine for Destiny. You'll bow down to slaughter, because I called, but you didn't answer; I spoke, but you ignored me; you did what I consider sinful; you chose what I don't delight in."</span>
+<span class="verse" id="v10"><strong><sup>0</sup></strong><em>Sharon</em><em> will be a pasture for </em><em>flocks;</em> <em>	</em><em>	the Valley of Achor will be a resting place for herds—</em> <em>	</em><em>	</em><em>	for my people that look to me.</em> <em>	</em><strong><sup>11</sup></strong><strong><sup>-</sup></strong><strong><sup>12</sup></strong><em>But</em><em> I’ll destine for the sword </em> <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><em>you that leave me,</em> <em>	</em><em>	</em><em>	that forget my holy mountain,</em> <em>	</em><em>	</em><em>	that set a table for Fortune</em> <em>	</em><em>	</em><em>	</em><em>	and fill cups with mixed wine for Destiny. </em> <em>	You’ll bow down to slaughter,</em> <em>	</em><em>	</em><em>	</em><em>	 because </em><strong><em>I called, but you didn’t </em></strong><strong><em>answer;</em></strong> <strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>I spoke, but you </em></strong><strong><em>ignored </em></strong><strong><em>me</em></strong><strong><em>;</em></strong> <strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>you did what I consider </em></strong><strong><em>sinful;</em></strong> <strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	you</em></strong><strong><em> chose what I d</em></strong><strong><em>o</em></strong><strong><em>n’t delight in.”</em></strong><strong>	</strong></span>
+<p class="section-ref">Is 65:10-12</p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> So the Lord Yahveh says, "My servants will eat, but you'll be hungry; my servants will drink, but you'll be thirsty; my servants will celebrate, but you'll be humiliated;</span>
+<span class="verse" id="v13"><strong><sup>3</sup></strong>So the Lord Yahveh says, <em>	</em><em>	</em><em>	“My servants will eat, but </em><em><u>you</u></em><em>’ll be </em><em>hungry;</em> <em>	</em><em>	</em><em>	</em><em>	my servants will drink, but </em><em><u>you</u></em><em>’ll be </em><em>thirsty;</em> <em>	</em><em>	</em><em>	</em><em>	my servants will celebrate, but </em><em><u>you</u></em><em>’ll be </em><em>humiliated;</em></span>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> my servants will make a joyful sound with a happy heart, but you'll cry with a heavy heart and wail with a broken spirit.</span>
+<span class="verse" id="v14"><sup><strong>14</strong></sup><em>	</em><em>	</em><strong><sup>14</sup></strong><em>my</em><em> servants will make a joyful sound with a happy heart,</em> <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><em>but </em><em><u>you</u></em><em>’ll cry with a heavy heart</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	and wail with a broken spirit.</em></span>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> The name you leave behind will be a curse to my chosen ones, and the Lord Yahveh will slay you; but I'll call my servants another name</span>
+<span class="verse" id="v15"><strong><sup>5</sup></strong><em>The</em><em> name you leave behind will be a curse</em><em> </em><em>to my chosen ones,</em> <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><em>and the Lord Yahveh will slay </em><em>you;</em> <em>	</em><em>	</em><em>	but I’ll call my servants another name</em></span>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> because those who bless themselves on earth will bless themselves by the true God; the ones that take an oath in the land will swear by the true God; because I'll forget the former troubles and hide them from me. New Earth and Sky 17"I'm creating a new earth and sky; people won't think about previous things anymore.</span>
+<span class="verse" id="v16"><sup><strong>16</strong></sup><em>	</em><em>	</em><strong><sup>16</sup></strong><em>because</em><em> those who bless themselves on earth</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	will bless themselves by the true </em><em>God;</em> <em>	</em><em>	</em><em>	</em><em>	the ones that take an oath in the land</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	will swear by the true </em><em>God;</em> <em>	</em><em>	</em><em>	</em><em>	because I’ll forget the former troubles </em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	and hide them from me.</em></span>
+<p class="section-ref">Is 65:13-16</p>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> Be happy and celebrate forever in what I create, because I'll create Jerusalem for celebrating and its people for happiness.</span>
+### New Earth and Sky 	17“I’m creating a new earth and sky; 			people won’t think about previous things anymore.
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> I'll celebrate over Jerusalem and be happy with my people; they won't hear weeping and crying anymore.</span>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> No longer will babies live just a few days, or adults die young; they'll die when they're 100; anybody that dies young will be considered cursed.</span>
+<span class="verse" id="v18"><strong><sup>8</sup></strong><em>Be</em><em> happy and celebrate forever in what I create,</em> <em>	</em><em>	</em><em>	because I’ll create Jerusalem for celebrating</em> <em>	</em><em>	</em><em>	</em><em>	and its people for happiness.</em></span>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> They'll build houses and live in them, plant vineyards and eat their fruit.</span>
+<span class="verse" id="v19"><strong><sup>9</sup></strong><em>I’ll</em><em> celebrate over Jerusalem </em> <em>	</em><em>	</em><em>	and be happy with my </em><em>people;</em> <em>	</em><em>	they won’t hear weeping and crying anymore. </em></span>
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> They won't build and someone else occupy them; they won't plant and somebody else eat the fruit. The lifetime of my people will be like the lifetime of a tree; my chosen ones will enjoy what they make.</span>
+<span class="verse" id="v20"><strong><sup>0</sup></strong><em>No</em><em> longer will babies live just a few days,</em> <em>	</em><em>	</em><em>	or adults die </em><em>young;</em> <em>	</em><em>	</em><em>	</em><em>	they’ll die when they’re </em><em>100;</em> <em>	</em><em>	anybody that dies young will be considered cursed.</em></span>
 
-<span class="verse" id="v23"><sup class="verse-num">23</sup> They won't work to no end or have children that face catastrophes; they'll be the offspring of people Yahveh has blessed— their descendants as well.</span>
+<span class="verse" id="v21"><strong><sup>1</sup></strong><em>They’ll</em><em> build houses and live in them,</em> <em>	</em><em>	</em><em>	plant vineyards and eat their fruit.</em><strong>	</strong></span>
+<p class="section-ref">Is 65:17-21</p>
 
-<span class="verse" id="v24"><sup class="verse-num">24</sup> Before they call, I'll answer; while they're speaking, I'll listen.</span>
+<span class="verse" id="v22"><strong><sup>2</sup></strong><em>They</em><em> won’t build and someone else occupy </em><em>them;</em> <em>	</em><em>	</em><em>	they won’t plant and somebody else eat the fruit.</em> <em>	</em><em>	The lifetime of my people will be like the lifetime of a </em><em>tree;</em> <em>	</em><em>	</em><em>	my chosen ones will enjoy what they make.</em></span>
 
-<span class="verse" id="v25"><sup class="verse-num">25</sup> Wolf and lamb will graze together; a lion will eat straw like an ox, but snakes will eat dust. They won't hurt anything in all my holy mountain," Yahveh says. Judgment and Hope</span>
+<span class="verse" id="v23"><strong><sup>3</sup></strong><em>They</em><em> won’t work to no end</em> <em>	</em><em>	</em><em>	or have children that face </em><em>catastrophes;</em> <em>	</em><em>	they’ll be the offspring of people Yahveh has blessed—</em> <em>	</em><em>	</em><em>	their descendants as well.</em></span>
+
+<span class="verse" id="v24"><strong><sup>4</sup></strong><em>Before</em><em> they call, I’ll </em><em>answer;</em> <em>	</em><em>	</em><em>	while they’re speaking, I’ll listen. </em></span>
+
+<span class="verse" id="v25"><strong><sup>5</sup></strong><em>Wolf</em><em> and lamb will graze </em><em>together;</em> <em>	</em><em>	</em><em>	a lion will eat straw like an ox,</em> <em>	</em><em>	</em><em>	</em><em>	but snakes will eat dust.</em> <em>	</em><em>	</em><em>	They won’t hurt anything in all my holy mountain,”</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em>Yahveh says.</span>
+<p class="section-ref">Is 65:22-25</p>
+
+### Judgment and Hope
+
+
+
+<style>
+.verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
+.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
+.verse em { font-style: italic; }
+.verse strong sup { color: var(--secondary-color, #8b6914); }
+.section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+</style>

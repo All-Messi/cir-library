@@ -8,18 +8,35 @@ type: chapter
 weight: 4
 ---
 
-## Ruth Chapter 4
+## Ruth Chapter **4**
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Boaz went up to the gate and sat down, and the close relative went past. He said, "Come over here, my friend, and have a seat." He went over and sat down. 2He had ten elders of the town sit down there. 3He told the closest relative, "Naomi is back from Moab and has to sell the ground that belonged to our relative Elimelech. 4I thought to inform you to buy it with my people sitting here as witnesses. If you'll redeem it, redeem it. If not, tell me so I'll know. There's nobody but you to redeem it. I'm after you.'" "I'll redeem it." 5"When you buy the field from Naomi, you also need to acquire Ruth the Moabitess, the widow of the deceased, to maintain title to his inheritance."</span>
+<span class="verse" id="v1"><sup><strong>1</strong></sup>Boaz went up to the gate and sat down, and the close relative went past. He said, <em>“</em><em>Come over here, </em>my<em> friend, and have a seat</em><em>.”</em> He went over and sat down. <strong><sup>2</sup></strong>He had ten elders of the town sit down there. <strong><sup>3</sup></strong>He told the closest relative, <em>“Naomi</em><em> is </em><em>back from Moab </em><em>and </em><em>has to</em><em> sell the ground that belonged to our </em><em>relative</em><em> Elimelech.</em><em> </em><strong><sup>4</sup></strong><em>I</em><em> thought to inform you</em><em> to buy</em><em> it </em><em>with my people</em><em> sitting here</em><em> as witnesses</em><em>.</em><em> </em><em>If </em><em>you’</em><em>ll</em><em> redeem it, redeem it. I</em><em>f not, tell me so I’ll know</em><em>. T</em><em>here’s nobody but you to redeem it</em><em>.</em><em> I’m after you.’”</em> <em>“I’ll redeem it.”</em> <strong><sup>5</sup></strong><em>“When</em><em> </em><em>you buy the field from Naomi, you also </em><em>need to </em><em>acquire Ruth the Moabitess, the widow of the deceased, to </em><em>maintain title to</em><em> his inheritance.”</em></span>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> The close relative said, "I can't do that. I'd jeopardize my own inheritance. You redeem it. Take my right of redemption."</span>
+<span class="verse" id="v6"><sup><strong>6</strong></sup>The close relative said, <em>“I can’t </em><em>do that. I’d jeopardiz</em><em>e my own inheritance.</em><em> You r</em><em>edeem it.</em><em> </em><em>Take my right of redemption.”</em><strong>	 </strong><strong>Ruth</strong><strong> </strong><strong>4:1-6</strong></span>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> This was the former custom in Israel when they redeemed and exchanged land. To confirm the transaction, a man would remove his sandal and give it to the other one. 8The closest relative told Boaz, "Buy it." The other close relative took off his sandal. 9Then Boaz told the elders and the people, "You're witnesses today that I've bought from Naomi everything that belonged to Elimelech, Chilion, and Mahlon. 10I've acquired Ruth the Moabitess, Mahlon's widow, as my wife to maintain title to his inheritance, so his name won't disappear from his relatives or the court in his birthplace."</span>
+<span class="verse" id="v7"><sup><strong>7</strong></sup>This was the former custom in Israel when they redeemed and exchanged land. To confirm the transaction, a man would remove his sandal and give it to the other one. <strong><sup>8</sup></strong>The closest relative told Boaz, <em>“Buy it.”</em> <em>The other close relative</em> took off his sandal. <strong><sup>9</sup></strong>Then Boaz told the elders and the people, <em>“You’</em><em>re witnesses today t</em><em>hat I’ve bought from Naomi everything</em><em> that belonged to Elimelech</em><em>, </em><em>Chilion</em><em>,</em><em> and Mahlon.</em><em> </em><strong><sup>10</sup></strong><em>I’</em><em>ve</em><em> acquired Ruth the Moabitess, </em><em>Mahlon’s</em><em> widow, </em><em>as </em><em>my wife to </em><em>maintain</em><em> </em><em>title to his inheritance, so his</em><em> name </em><em>won’t</em><em> </em><em>disappear</em><em> f</em><em>rom his relatives or the court in his birthplace.”</em></span>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> The elders and people in court said, "We're witnesses. May Yahveh make the woman that's coming to your home like Rachel and Leah, who built the House of Israel. May you gain wealth in Ephrathah and become famous in Bethlehem. 12May your house be like the House of Perez that Tamar bore to Judah, through the offspring Yahveh gives by this young woman." The Genealogy of David</span>
+<span class="verse" id="v11"><sup><strong>11</strong></sup>The elders and people in court said, <em>“</em><em>We’</em><em>re witnesses.</em><em> </em><em>Ma</em><em>y Yahveh make the woman that’</em><em>s coming to you</em><em>r</em><em> home like Rachel and Leah, </em><em>who built the H</em><em>ouse of Israel.</em><em> </em><em>May you </em><em>gain</em><em> wealth in Ephrathah and become famous in Bethlehem.</em><em> </em><strong><sup>12</sup></strong><em>M</em><em>a</em><em>y</em><em> your </em><em>house be like the H</em><em>ouse of Perez that Tamar bore to Judah, thro</em><em>ugh the offspring Yahveh </em><em>give</em><em>s</em><em> by this young woman.”</em><strong>	 </strong></span>
+<p class="section-ref">Ruth 4:7-12</p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> Boaz married Ruth, and Yahveh enabled her to have a son. 14The women said to Naomi, "Blessed is Yahveh who has given you a redeemer today. May he become famous in Israel. 15May he restore your life and sustain you in your old age. Your daughter-in-law, who loves you and is better to you than seven sons, has given birth to him."</span>
+### The Genealogy of David
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> Naomi took the child and laid him on her lap and became his nurse. 17The neighbor women said, "Naomi has a son!" They named him Obed, who became father of Jesse Avi-David.</span>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> This is the genealogy of their ancestor Perez: Perez was father of Hezron 19Avi-Ram Avi- Amminadab 20Avi-Nahshon Avi- Salmon 21Avi-Boaz Avi- Obed 22Avi-Jesse Avi-David.</span>
+<span class="verse" id="v13"><sup><strong>13</strong></sup>Boaz married Ruth, and Yahveh enabled her to have a son. <strong><sup>14</sup></strong>The women said to Naomi, <em>“Blessed is </em><em>Yahveh who has</em><em> </em><em>given you a redeemer today. M</em><em>ay </em><em>he</em><em> become famous in Israel.</em><em> </em><strong><sup>15</sup></strong><em>May</em><em> he </em><em>res</em><em>tore</em><em> your life and sustain </em>you<em> in</em><em> your old age</em><em>. Your daughter-in-law, who loves</em><em> you and is better to you than seven sons, has given birth to him.”</em></span>
+
+<span class="verse" id="v16"><sup><strong>16</strong></sup>Naomi took the child and laid him on her lap and became his nurse. <strong><sup>17</sup></strong>The neighbor women said, <em>“Naomi</em><em> has a son</em><em>!”</em><em> </em>They named him Obed, <em>who became</em> father of Jesse Avi-David.</span>
+
+<span class="verse" id="v18"><sup><strong>18</strong></sup>This is the genealogy of <em>their ancestor </em>Perez: Perez was father of Hezron <strong><sup>19</sup></strong>Avi-Ram Avi- Amminadab <strong><sup>20</sup></strong>Avi-Nahshon Avi- Salmon <strong><sup>21</sup></strong>Avi-Boaz Avi- Obed <strong><sup>22</sup></strong>Avi-Jesse Avi-David.<strong>    </strong><strong>	</strong><strong>	</strong></span>
+<p class="section-ref">Ruth 4:13-22</p>
+
+### Version by Virgil Warren: christir.org
+
+
+
+<style>
+.verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
+.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
+.verse em { font-style: italic; }
+.verse strong sup { color: var(--secondary-color, #8b6914); }
+.section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+</style>

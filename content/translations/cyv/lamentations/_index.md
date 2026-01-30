@@ -10,5 +10,3 @@ weight: 25
 ## Lamentations
 
 **5 Chapters**
-
-Select a chapter to begin reading:

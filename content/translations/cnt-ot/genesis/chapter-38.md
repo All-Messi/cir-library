@@ -4,27 +4,43 @@ chapter: 38
 next: chapter-39
 prev: chapter-37
 title: Genesis 38
-translation: CNT
+translation: COT
 type: chapter
 weight: 38
 ---
 
-## Genesis Chapter 38
+## Genesis Chapter **38**
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> About that time, Judah left his brothers and went down to visit an Adullamite named Hirah. 2He saw the daughter of a Canaanite named Shuamas. He married her and slept with her. 3She had a son he named Er, 4another he named Onan, 5and one he named Shelah. That happened at Chezib.</span>
+<span class="verse" id="v1"><strong><sup>1</sup></strong>About that time, Judah left his brothers and went down to visit an Adullamite named Hirah. <strong><sup>2</sup></strong>He saw the daughter of a Canaanite named Shua<sup>mas</sup>. He married her and slept with her. <strong><sup>3</sup></strong>She had a son he named Er, <strong><sup>4</sup></strong>another he named Onan, <strong><sup>5</sup></strong>and one he named Shelah. That happened at Chezib.</span>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> Judah took a wife named Tamar for Er his firstborn. 7But Er did what the LORD considered sin, so he took Er's life. 8Judah told Onan, "Sleep with your brother's wife and perform your duty as a brother-in-law to her. Raise up offspring for your brother." 9Onan knew the offspring wouldn't be his; so when he slept with her, he ejected his semen on the ground so he wouldn't provide offspring for his brother. 10That displeased the LORD; so he took his life too. 11Judah told Tamar, "Remain a widow in your father's family till my son Shelah grows up." (He told himself, "I'm afraid he'll die like his brothers.") Tamar went and lived in her father's family.</span>
+<span class="verse" id="v6"><sup><strong>6</strong></sup>Judah took a wife named Tamar for Er his firstborn. <strong><sup>7</sup></strong>But Er did what the LORD considered sin, so he took Er’s life. <strong><sup>8</sup></strong>Judah told Onan, <em>“</em><em>Sleep with</em><em> your brother’s w</em><em>ife and perform your duty as a </em><em>brother-in-law to her</em><em>. R</em><em>aise up offspring for your brother.”</em> <strong><sup>9</sup></strong>Onan knew the offspring wouldn’t be his; so when he slept with her, he ejected his semen on the ground so he wouldn’t provide offspring for his brother. <strong><sup>10</sup></strong>That displeased the LORD; so he took his life too. <strong><sup>11</sup></strong>Judah told Tamar, <em>“Remain a widow in your father’s </em><em>family</em><em> till my son Shelah grows up.”</em> (He told<em> himself</em>, <em>“I’m afraid he’ll die like his brothers.”</em>)<em> </em>Tamar went and lived in her father’s family.</span>
+<p class="section-ref">Gen 38:1-11</p>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> After quite a while, Shua's daughter, Judah's wife, died. After the time of mourning, Judah went up to his sheepshearers at Timnah with his friend Hirah the Adullamite. 13Tamar found out that her father-in-law was going there to shear his sheep. 14She took off her widow's clothes, put on a veil, wrapped herself, and sat in the gate of Enaim, which is on the road to Timnah. She'd seen that Shelah had grown up, but Judah hadn't given her to him as a wife. 15When Judah saw her, he thought she was a shrine prostitute, because she'd covered her face. 16He turned aside to her by the road, and said, "Let me sleep with you." He gave them to her and slept with her, and she got pregnant. 19She got up and left, took off her veil, and put her widow's clothes back on.</span>
+<span class="verse" id="v12"><strong><sup>2</sup></strong>After quite a while, Shua’s daughter, Judah’s wife, died. After the time of mourning, Judah went up to his sheepshearers at Timnah with his friend Hirah the Adullamite. <strong><sup>13</sup></strong>Tamar found out that her father-in-law was going there to shear his sheep. <strong><sup>14</sup></strong>She took off her widow’s clothes, put on a veil, wrapped herself, and sat in the gate of Enaim, which is on the road to Timnah. She’d seen that Shelah had grown up, but <em>Judah</em> hadn’t given her to him as a wife. <strong><sup>15</sup></strong>When Judah saw her, he thought she was a <em>shrine</em> prostitute, because she’d covered her face. <strong><sup>16</sup></strong>He turned aside to her by the road, and said, <em>“Let me sleep with</em><em> you.”</em> <em>“What will you give me?”</em> <strong><sup>17</sup></strong><em>“I’ll send you a kid from the flock.”</em> <em>“Will you give me a pledge till you send it?”</em> <strong><sup>18</sup></strong><em>“What pledge do you want?</em><em>”</em> <em>“Your seal and cord, and the staff that’s in your hand.”</em> He gave <em>them</em> to her and slept with her, and she got pregnant. <strong><sup>19</sup></strong>She got up and left, took off her veil, and put her widow’s clothes <em>back</em> on.</span>
+<p class="section-ref">Gen 38:12-19</p>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> When Judah sent the kid by his friend the Adullamite to get back the pledge, he couldn't find her. 21He asked the men there, "Where's the shrine prostitute that was by the road at Enaim?"</span>
+<span class="verse" id="v20"><sup><strong>20</strong></sup>When Judah sent the kid by his friend the Adullamite to get back the pledge, he couldn’t find her. <strong><sup>21</sup></strong>He asked the men there, <em>“Where’</em><em>s the </em>shrine <em>prostitute that was by the road at Enaim?” </em> <em>“There hasn’t been a</em><em>ny</em><em> </em>shrine<em> prostitute here.”</em></span>
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> So he went back, "I couldn't find her. The men said there hasn't been any shrine prostitute there. 23Judah said, "Let her keep them so they don't ridicule us. I did send this kid, but you couldn't find her."</span>
+<span class="verse" id="v22"><sup><strong>22</strong></sup>So he went back, <em>“I could</em><em>n’t find her.</em><em> </em>The men said<em> </em>there hasn’t been any <em>shrine</em> prostitute there. <strong><sup>23</sup></strong>Judah said, <em>“Let her keep them so </em><em>they don’t ridicule us</em><em>.</em><em> </em><em>I did send this kid, but you couldn’t find her.”</em><em>	</em></span>
+<p class="section-ref">Gen 38:20-23</p>
 
-<span class="verse" id="v24"><sup class="verse-num">24</sup> About three months later, Judah was informed, "Your daughter-in-law Tamar has served as a shrine prostitute and got pregnant."</span>
+<span class="verse" id="v24"><strong><sup>4</sup></strong>About three months later, Judah was informed, <em>“Your daughter-in-law T</em><em>amar has served as a </em>shrine<em> prostitute and got</em><em> pregnant.”</em><em> </em> Judah said, <em>“Bring her out and </em><em>burn her</em><em>!”</em></span>
 
-<span class="verse" id="v25"><sup class="verse-num">25</sup> While she was being brought out, she sent to her father-in-law, "I'm pregnant by the man that owns these things. See whose signet ring, cords, and staff they are."</span>
+<span class="verse" id="v25"><sup><strong>25</strong></sup>While she was being brought out, she sent to her father-in-law, <em>“I’m pregnant by the man that owns these </em><em>things. See</em><em> whose signet ring, cords, and staff </em><em>they are.</em><em>”</em></span>
 
-<span class="verse" id="v26"><sup class="verse-num">26</sup> Judah recognized them, "She's better than I am, because I didn't give her to my son Shelah." He never slept with her again.</span>
+<span class="verse" id="v26"><sup><strong>26</strong></sup>Judah recognized them, <em>“She’s </em><em>better</em><em> than I am</em><em>,</em><em> because I didn’t give her to my son Shelah.”</em> He never slept with her again.</span>
 
-<span class="verse" id="v27"><sup class="verse-num">27</sup> When it was time for her to deliver, she was carrying twins. 28As she was giving birth, one put out a hand, and the midwife tied a red thread on it, "This one came out first." 29But he pulled his hand back and his brother came out. The midwife said, "What a 'breach' you've made for yourself"; so he was named Perez. 30Afterward his brother was born with the "red" thread on his hand. He was named Zerah.</span>
+<span class="verse" id="v27"><sup><strong>27</strong></sup>When it was time for her to deliver, she was carrying twins. <strong><sup>28</sup></strong>As she was giving birth, one put out a hand, and the midwife tied a red <em>thread</em> on it, <em>“This one came out first.”</em> <strong><sup>29</sup></strong>But he pulled his hand back and his brother came out. <em>The midwife</em> said, <em>“</em><em>What a </em><em>‘</em><em>breach</em><em>’</em><em> you’ve made for yourself”</em>; so he was named Perez. <strong><sup>30</sup></strong>Afterward his brother was born with the “red” <em>thread</em> on his hand. He was named Zerah.</span>
+<p class="section-ref">Gen 38:24-30</p>
+
+### Joseph and Potiphar’s Wife
+
+
+
+<style>
+.verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
+.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
+.verse em { font-style: italic; }
+.verse strong sup { color: var(--secondary-color, #8b6914); }
+.section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+</style>

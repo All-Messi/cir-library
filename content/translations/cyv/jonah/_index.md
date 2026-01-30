@@ -10,5 +10,3 @@ weight: 32
 ## Jonah
 
 **4 Chapters**
-
-Select a chapter to begin reading:

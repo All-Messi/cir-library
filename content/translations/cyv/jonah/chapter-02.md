@@ -9,22 +9,35 @@ type: chapter
 weight: 2
 ---
 
-## Jonah Chapter 2
+## Jonah Chapter **2**
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Jonah prayed to Yahveh his God from the fish's stomach, 2"I called to you in my distress, and you answered me; I cried out for help from the belly of Sheol, and you heard me.</span>
+<span class="verse" id="v1"><sup><strong>1</strong></sup>Jonah prayed to Yahveh his God from the fish’s stomach, <strong><sup>2</sup></strong><em>“</em><em>I</em><em> called to </em><em>you in</em><em> my distress,</em> <em>	</em><em>	</em><em>a</em><em>n</em><em>d you</em><em> answered </em><em>me</em><em>;</em> <em>	I cried out for help from the </em><em>belly of Sheol,</em> <em>	</em><em>	</em><em>and </em><em>you heard me.</em></span>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> You threw me into the deep, into the heart of the sea; the current swirled over me; your waves and breakers overwhelmed me.</span>
+<span class="verse" id="v3"><strong><sup>3</sup></strong><em>You</em><em> </em><em>threw</em><em> me into the deep, </em> <em>	</em><em>	</em><em>i</em><em>nto </em><em>the heart of the </em><em>sea;</em> <em>	the current swirled over </em><em>me;</em> <em>your </em><em>waves and </em><em>brea</em><em>kers overwhelmed me</em><em>.</em></span>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> So I said, 'I've been driven away from you, but I'll still look toward your holy Temple.'</span>
+<span class="verse" id="v4"><sup><strong>4</strong></sup><em>So</em><em> I said, ‘I’ve been driven away from you,</em> <em>	but I’ll still look toward your holy Temple.’</em>  	<strong>Jo</strong><strong>n 2:</strong><strong>1-4</strong></span>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> Water closed in over me; the great deep surrounded me; seaweed wrapped around my head.</span>
+<span class="verse" id="v5"><sup><strong>5</strong></sup><em>Water</em><em> closed in over </em><em>me;</em><em> </em> <em>	the great deep surrounded </em><em>me;</em> <em>	seaweed wrapped around my head.</em></span>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> I sank down to the base of the mountains; the earth imprisoned me forever, but you brought me up from the Pit, Yahveh my God.</span>
+<span class="verse" id="v6"><sup><strong>6</strong></sup><em>I</em><em> sank down to the base of the </em><em>mountains;</em> <em>	the earth imprisoned me forever, </em> <em>	</em><em>	but you brought me up from the Pit,</em> <em>	Yahveh my God.</em></span>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> As my life was fading away, I remembered you; and prayed to you in your holy Temple.</span>
+<span class="verse" id="v7"><sup><strong>7</strong></sup><em>As</em><em> my life was fading away,</em> <em>	I remembered </em><em>you;</em> <em>	and prayed to you in your holy Temple.</em></span>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> Those who pay respects to pointless idols forfeit your faithfulness,</span>
+<span class="verse" id="v8"><sup><strong>8</strong></sup><em>Those</em><em> who pay respects to pointless idols</em> <em>	forfeit </em>your<em> faithfulness,</em></span>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> but I'll sacrifice to you with thanksgiving. I'll do what I've vowed; salvation comes from youY."</span>
+<span class="verse" id="v9"><strong><sup>9</sup></strong><em>but</em><em> I’ll sacrifice to you with thanksgiving.</em> <em>I’ll do what I’ve </em><em>vowed;</em> <em>	</em><em>	salvation comes from you</em><em><sup>Y</sup></em><em>.”</em></span>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> Then Yahveh had the fish cough Jonah up onto the shore. Jonah's Trip to Nineveh</span>
+<span class="verse" id="v10"><sup><strong>10</strong></sup>Then Yahveh had the fish cough Jonah up onto the shore.</span>
+<p class="section-ref">Jon 2:5-10</p>
+
+### Jonah’s Trip to Nineveh
+
+
+
+<style>
+.verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
+.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
+.verse em { font-style: italic; }
+.verse strong sup { color: var(--secondary-color, #8b6914); }
+.section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+</style>

@@ -9,32 +9,51 @@ type: chapter
 weight: 20
 ---
 
-## Exodus Chapter 20
+## Exodus Chapter **20**
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Then God spoke,</span>
+<span class="verse" id="v1"><strong><sup>1</sup></strong>Then God spoke,</span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> I am Yahveh your God who brought you out of slavery in Egypt.</span>
+<span class="verse" id="v2"><strong><sup>2</sup></strong><em>I a</em><em>m </em><em>Yahveh your God</em><em> </em><em>who</em><em> brought you out of </em><em>slavery in Egypt</em><em>.</em></span>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> Do not havef any god but me.</span>
+<span class="verse" id="v3"><strong><sup>3</sup></strong><em>Do not have</em><em><sup>f</sup></em><em> any god </em><em>but</em><em> me.</em></span>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> Do not makef any carved image, any likeness of what is in the sky, on the ground, or in the water 5to worship or serve. IY am an exclusive God. I visit the consequences of parents' sins on their descendants for three or four generations that hate me. 6I am kind to thousands who love me and obey me.</span>
+<span class="verse" id="v4"><sup><strong>4</strong></sup><em>Do not ma</em><em>ke</em><em><sup>f</sup></em><em> any carved image, any likeness of what i</em><em>s in </em><em>the sky, </em><em>on </em><em>the ground</em><em>, or in the water</em><em> </em><strong><sup>5</sup></strong><em>to</em><em> wor</em><em>ship or serve. I</em><em><sup>Y</sup></em><em> </em><em>am </em><em>an exclusive</em><em> God.</em><em> </em><em>I visit </em><em>the consequences of parents’</em><em> sin</em><em>s</em><em> on </em><em>their descendants for</em><em> th</em><em>ree or four generations that </em><em>hate me.</em><em> </em><strong><sup>6</sup></strong><em>I</em><em> am</em><em> </em><em>kind</em><em> to thousands who love me and </em><em>obey me</em><em>.</em><em>	 </em></span>
+<p class="section-ref">Ex 20:1-6</p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> Do not usef my name Yahveh as a byword. I will punish whoever does that.</span>
+<span class="verse" id="v7"><strong><sup>7</sup></strong><em>Do not use</em><em><sup>f</sup></em><em> </em><em>my</em><em> name </em><em>Yahveh</em><em> as a byword.</em><em> I wi</em><em>ll punish </em><em>whoever</em><em> </em><em>does that</em><em>.</em><em>  </em></span>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> Remember to set the Sabbath day aside. 9Workf six days, 10but on the seventh day rest to me, Yahveh your God. Do not workf that day—you, your son or daughter, male or female servant, livestock, or foreigner living among you. 11In six days IY made earth and sky, the ocean and everything in them, and rested the seventh day. I have blessed the Sabbath day and set it apart.</span>
+<span class="verse" id="v8"><sup><strong>8</strong></sup><em>Remember to </em><em>set</em><em> the Sabbath day </em><em>aside</em><em>.</em><em> </em><strong><sup>9</sup></strong><em>Work</em><em><sup>f</sup></em><em> six days,</em><em> </em><strong><sup>10</sup></strong><em>but on the seventh day rest to</em><em> </em>me, <em>Yahveh</em><em> your God.</em><em> Do not work</em><em><sup>f</sup></em><em> that day—you, your son or</em><em> daughter, male or female servant, </em><em>livestock</em><em>, or </em><em>foreigner </em>living <em>among you. </em><strong><sup>11</sup></strong><em>I</em><em>n six days </em><em>I</em><em><sup>Y</sup></em><em> made earth and sky, the ocean and e</em><em>verything in them, and rested</em><em> the seventh day.</em><em> I</em><em> </em><em>have </em><em>blessed the Sabbath day and set it apart.</em></span>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> Honor your parents so you will live a long time in the land I give you.</span>
+<span class="verse" id="v12"><strong><sup>2</sup></strong><em>Honor your </em><em>parents so you wi</em><em>ll live </em><em>a </em><em>long</em><em> time</em><em> in the land </em><em>I </em><em>giv</em><em>e</em><em> you.</em></span>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> Do not commit commit murderf.</span>
+<span class="verse" id="v13"><strong><sup>3</sup></strong><em>Do not </em><em>commit commit </em><em>murder</em><em><sup>f</sup></em><em>.</em></span>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> Do not commit adulteryf.</span>
+<span class="verse" id="v14"><strong><sup>4</sup></strong><em>Do not commit adultery</em><em><sup>f</sup></em><em>.</em></span>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> Do not stealf.</span>
+<span class="verse" id="v15"><strong><sup>5</sup></strong><em>Do not steal</em><em><sup>f</sup></em><em>.</em></span>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> Do not lief about other people.</span>
+<span class="verse" id="v16"><strong><sup>6</sup></strong><em>Do not </em><em>lie</em><em><sup>f</sup></em><em> about </em><em>other people</em><em>.</em></span>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> Do not covetf someone else's house, his wife, male or female servant, ox or donkey—anything that is his."</span>
+<span class="verse" id="v17"><strong><sup>7</sup></strong><em>Do not covet</em><em><sup>f</sup></em><em> </em><em>someone else’s</em><em> house, his wife, male or female servant, ox</em> <em> or donkey</em><em>—</em><em>anything </em><em>that is his</em><em>.”</em><em>	 </em></span>
+<p class="section-ref">Ex 20:7-17</p>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> When people witnessed the thunder and lightning, the bugle sound and smoking mountain, they trembled and stood back a long way. 19They told Moses, "You speak to us, and we'll listen. Don't have God speak to us—so we won't die." 20Moses told them, "Don't be afraid. God has come to test you, to make you respect him and not sin." 21They stood a long way off while Moses approached the dark cloud where God was. The Proper Use of Altars</span>
+<span class="verse" id="v18"><sup><strong>18</strong></sup>When people witnessed the thunder and lightning, the bugle sound and smoking mountain, they trembled and stood back a long way. <strong><sup>19</sup></strong>They told Moses, <em>“You speak to us, and we’ll listen. Don’t have God speak to us—</em><em>so we won’t die</em>.<em>”</em> <strong><sup>20</sup></strong>Moses told them, <em>“Don’t be afraid. </em><em>God has come to test you</em><em>,</em><em> to make you respect him and not sin.”</em> <strong><sup>21</sup></strong>They stood a long way off while Moses approached the dark cloud where God was.</span>
+<p class="section-ref">Ex 20:18-21</p>
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> Yahveh told him to tell Israel, "You've seen that I've spoken to you from the sky. 23Don't makef other gods, silver or gold. 24Makef an altar out of dirt for me for sacrificing your burnt offerings, peace offerings, sheep and cattle. Everywhere I make my name remembered, I'll come to you and bless you. 25If you build a stone altar for me, don't buildf it with cut stones. You'll desecrate it if you use a tool on it. 26Don't climbf steps to my altar so you won't show your nakedness on it. Laws About Slaves</span>
+### The Proper Use of Altars
+
+
+<span class="verse" id="v22"><strong><sup>2</sup></strong>Yahveh told him to tell Israel, <em>“</em><em>You’ve seen that I’ve </em><em>spoken</em><em> to you from the sky.</em><em> </em><strong><sup>23</sup></strong><em>Don’</em><em>t make</em><em><sup>f</sup></em><em> other gods, silver or gold.</em><em> </em><strong><sup>24</sup></strong><em>M</em><em>ake</em><em><sup>f</sup></em><em> an altar</em><em> out</em><em> of </em><em>dirt</em><em> for me </em><em>for</em><em> sacrific</em><em>ing</em><em> your burnt </em><em>offerings, peace offerings, sheep and </em><em>cattle</em><em>.</em><em> </em><em>Everywhere I make my name remembered</em><em>,</em><em> I’ll come to you and bless you.</em><em> </em><strong><sup>25</sup></strong><em>If you </em><em>build</em><em> a</em><em> stone altar for me, don’t build</em><em><sup>f</sup></em><em> it with cut stones.</em><em> Y</em><em>ou’ll </em><em>desecrate</em><em> it</em><em> i</em><em>f you use a tool on it.</em><em> </em><strong><sup>26</sup></strong><em>Don’</em><em>t </em><em>climb</em><em><sup>f</sup></em><em> steps to my altar so you won’t show your nakedness</em><em> on it</em><em>.</em><em> </em><em>	</em></span>
+<p class="section-ref">Ex 20:22-26</p>
+
+### Laws About Slaves
+
+
+
+<style>
+.verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
+.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
+.verse em { font-style: italic; }
+.verse strong sup { color: var(--secondary-color, #8b6914); }
+.section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+</style>

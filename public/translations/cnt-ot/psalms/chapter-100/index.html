@@ -5,20 +5,37 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Psalms 100 | Christian Internet Resources</title>
     <meta name="description" content="Christian Internet Resources (CIR) presents essays with interpersonalism (IP) in mind">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Source+Sans+Pro:wght@400;500;600;700&family=Source+Serif+Pro:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="/cir-library/css/style.css">
+    <link rel="stylesheet" href="/cir-library/css/main.css">
+    <link rel="stylesheet" href="/cir-library/css/enhancements.css">
     
 </head>
 <body>
     <header class="site-header">
         <div class="container">
             <div class="header-content">
-                <div class="site-branding">
+                <a href="http://localhost:1313/cir-library/" class="site-branding">
                     <img src="/cir-library/images/cir-logo.png" alt="CIR Logo" class="site-logo">
-                    <div class="site-title-group">
-                        <h1 class="site-title"><a href="http://localhost:1313/cir-library/">Christian Internet Resources</a></h1>
-                        <p class="site-tagline">Interpersonalism in Christian Theology</p>
+                </a>
+
+                <div class="header-search">
+                    <div class="search-wrapper">
+                        <form action="http://localhost:1313/cir-library/search/" method="get" class="header-search-form">
+                            <input type="search" name="q" class="header-search-input" placeholder="Search essays and topics..." autocomplete="off" id="header-search-input">
+                            <button type="submit" class="header-search-btn" aria-label="Search">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                                    <circle cx="11" cy="11" r="8"></circle>
+                                    <path d="m21 21-4.35-4.35"></path>
+                                </svg>
+                            </button>
+                        </form>
+                        <div id="header-search-dropdown" class="search-dropdown"></div>
                     </div>
                 </div>
+
                 <nav class="main-nav">
                     <ul>
                         
@@ -48,7 +65,7 @@
 
     <header class="chapter-header">
         <h1>Psalms 100</h1>
-        <p class="chapter-meta">CNT Translation</p>
+        <p class="chapter-meta">COT Translation</p>
     </header>
 
     
@@ -274,10 +291,6 @@
                 
                 <option value="/cir-library/translations/cnt-ot/psalms/chapter-13/" >
                     Chapter 13
-                </option>
-                
-                <option value="/cir-library/translations/cnt-ot/psalms/chapter-14/" >
-                    Chapter 14
                 </option>
                 
                 <option value="/cir-library/translations/cnt-ot/psalms/chapter-15/" >
@@ -834,11 +847,19 @@
 
     
     <div class="chapter-content">
-        <h2 id="psalms-chapter-100">Psalms Chapter 100</h2>
-<p><span class="verse" id="v1"><sup class="verse-num">1</sup> Make a joyful sound to the LORD, all the earth.</span></p>
-<p><span class="verse" id="v2"><sup class="verse-num">2</sup> Serve him gladly;</span></p>
-<p><span class="verse" id="v3"><sup class="verse-num">3</sup> Acknowledge that the LORD is God;</span></p>
-<p><span class="verse" id="v4"><sup class="verse-num">4</sup> Enter his gates with thanksgiving</span></p>
+        <h2 id="psalms-chapter-100">Psalms Chapter <strong>100</strong></h2>
+<p><span class="verse" id="v1"><sup><strong>1</strong></sup>Make a joyful sound to the LORD, all the earth.</span></p>
+<p><span class="verse" id="v2"><sup><strong>2</strong></sup>Serve him gladly; <strong><sup>	</sup></strong>come to him with singing.</span></p>
+<p><span class="verse" id="v3"><sup><strong>3</strong></sup>Acknowledge that the LORD is God; he made us; we didn’t make ourselves. We’re his people, sheep in his pasture.</span></p>
+<p><span class="verse" id="v4"><sup><strong>4</strong></sup>Enter his gates with thanksgiving and his courts with praise. Thank him and bless him <strong><sup>5</sup></strong>because he’s good; his enduring love never ends; his faithfulness extends to every generation.</span></p>
+<p class="section-ref">Ps 100:1-5</p>
+<style>
+.verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
+.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
+.verse em { font-style: italic; }
+.verse strong sup { color: var(--secondary-color, #8b6914); }
+.section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+</style>
 
     </div>
 
@@ -857,7 +878,7 @@
 
     <footer class="chapter-footer">
         <p class="translation-note">
-            From the CNT translation by Virgil Warren, PhD
+            From the COT translation by Virgil Warren, PhD
         </p>
     </footer>
 </article>
@@ -884,6 +905,60 @@ function handleBookChange(bookUrl) {
     </footer>
 
     <script src="/cir-library/js/main.js"></script>
+    
+    
+    <script>
+    (function() {
+        let searchData = null;
+        fetch('http:\/\/localhost:1313\/cir-library\/index.json')
+            .then(r => r.json())
+            .then(data => { searchData = data; })
+            .catch(err => console.log('Search index not yet available'));
+
+        const searchInput = document.getElementById('header-search-input');
+        const dropdown = document.getElementById('header-search-dropdown');
+
+        if (searchInput && dropdown) {
+            searchInput.addEventListener('input', function() {
+                const query = this.value.toLowerCase().trim();
+                
+                if (query.length < 2 || !searchData) {
+                    dropdown.style.display = 'none';
+                    return;
+                }
+
+                const results = searchData.filter(item => {
+                    return (item.title && item.title.toLowerCase().includes(query)) ||
+                           (item.content && item.content.toLowerCase().includes(query));
+                }).slice(0, 6);
+
+                if (results.length === 0) {
+                    dropdown.style.display = 'none';
+                    return;
+                }
+
+                dropdown.innerHTML = results.map(r => 
+                    '<a href="' + r.permalink + '" class="dropdown-item">' +
+                    '<span class="dropdown-title">' + r.title + '</span>' +
+                    (r.categories ? '<span class="dropdown-cat">' + r.categories[0] + '</span>' : '') +
+                    '</a>'
+                ).join('');
+                dropdown.style.display = 'block';
+            });
+
+            document.addEventListener('click', function(e) {
+                if (!e.target.closest('.search-wrapper')) {
+                    dropdown.style.display = 'none';
+                }
+            });
+
+            searchInput.closest('form').addEventListener('submit', function() {
+                dropdown.style.display = 'none';
+            });
+        }
+    })();
+    </script>
+    
     
 <script src="/cir-library/js/bible.js"></script>
 

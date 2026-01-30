@@ -2,40 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/cir-library/translations/resources/2-peter-2-and-jude-compared/</loc>
-    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/cir-library/categories/canon--nt-books/</loc>
     <lastmod>2026-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/essays/canon-criticism/</loc>
     <lastmod>2026-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/resources/christs-resurrection-appearances/</loc>
-    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/resources/composite-account-of-cornelius-conversion/</loc>
-    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/resources/composite-account-of-pauls-conversion/</loc>
-    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/cir-library/essays/dates-and-origin-of-new-testament-writings/</loc>
     <lastmod>2026-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/resources/foreign-terms-in-the-new-testament/</loc>
-    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/resources/new-testament-quotations-from-the-old-testament/</loc>
+    <loc>http://localhost:1313/cir-library/categories/getting-the-point-book/</loc>
     <lastmod>2026-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/essays/peg-dates-for-new-testament-studies/</loc>
     <lastmod>2026-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/essays/primary-questions-in-the-collection/</loc>
-    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/resources/questioned-texts-in-the-new-testament/</loc>
     <lastmod>2026-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/essays/the-determining-principles-for-canonicity/</loc>
@@ -93,8 +75,6 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/wooden-nt/2-corinthians/chapter-01/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cnt-nt/2-john/chapter-01/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/wooden-nt/2-john/chapter-01/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/2-kings/chapter-01/</loc>
@@ -107,8 +87,6 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/2-samuel/chapter-01/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cyv/2-samuel/chapter-01/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-nt/2-thessalonians/chapter-01/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/wooden-nt/2-thessalonians/chapter-01/</loc>
@@ -116,8 +94,6 @@
     <loc>http://localhost:1313/cir-library/translations/cnt-nt/2-timothy/chapter-01/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/wooden-nt/2-timothy/chapter-01/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cnt-nt/3-john/chapter-01/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/wooden-nt/3-john/chapter-01/</loc>
   </url><url>
@@ -263,13 +239,7 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/micah/chapter-01/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cnt-ot/nahum/chapter-01/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/nahum/chapter-01/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cnt-ot/nehemiah/chapter-01/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cyv/nehemiah/chapter-01/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/numbers/chapter-01/</loc>
   </url><url>
@@ -286,8 +256,6 @@
     <loc>http://localhost:1313/cir-library/translations/cnt-nt/philippians/chapter-01/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/wooden-nt/philippians/chapter-01/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/harmony/section-01/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/proverbs/chapter-01/</loc>
   </url><url>
@@ -346,9 +314,6 @@
     <loc>http://localhost:1313/cir-library/essays/what-christians-ideally-believe-and-practice/</loc>
     <lastmod>2026-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/resources/2-peter-and-jude-greek/</loc>
-    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/1-chronicles/chapter-02/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/1-chronicles/chapter-02/</loc>
@@ -385,10 +350,6 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/2-chronicles/chapter-02/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cnt-nt/2-corinthians/chapter-02/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/wooden-nt/2-corinthians/chapter-02/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/2-kings/chapter-02/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/2-kings/chapter-02/</loc>
@@ -398,8 +359,6 @@
     <loc>http://localhost:1313/cir-library/translations/wooden-nt/2-peter/chapter-02/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/2-samuel/chapter-02/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cyv/2-samuel/chapter-02/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-nt/2-thessalonians/chapter-02/</loc>
   </url><url>
@@ -417,11 +376,7 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/amos/chapter-02/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/harmony/section-02/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cnt-nt/colossians/chapter-02/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/wooden-nt/colossians/chapter-02/</loc>
+    <loc>http://localhost:1313/cir-library/categories/basic-christianity-book/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/</loc>
   </url><url>
@@ -557,10 +512,6 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/nehemiah/chapter-02/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cnt-ot/numbers/chapter-02/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cyv/numbers/chapter-02/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-nt/philippians/chapter-02/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/wooden-nt/philippians/chapter-02/</loc>
@@ -644,8 +595,6 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-nt/1-john/chapter-03/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/wooden-nt/1-john/chapter-03/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/1-kings/chapter-03/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/1-kings/chapter-03/</loc>
@@ -684,8 +633,6 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/2-samuel/chapter-03/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cyv/2-samuel/chapter-03/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-nt/2-thessalonians/chapter-03/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/wooden-nt/2-thessalonians/chapter-03/</loc>
@@ -701,8 +648,6 @@
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/amos/chapter-03/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/amos/chapter-03/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/harmony/section-03/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-nt/colossians/chapter-03/</loc>
   </url><url>
@@ -731,10 +676,6 @@
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/exodus/chapter-03/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/exodus/chapter-03/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cnt-ot/ezekiel/chapter-03/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cyv/ezekiel/chapter-03/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/ezra/chapter-03/</loc>
   </url><url>
@@ -868,9 +809,13 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/song-of-solomon/chapter-03/</loc>
   </url><url>
+    <loc>http://localhost:1313/cir-library/categories/the-nature-of-man--book/</loc>
+  </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-nt/titus/chapter-03/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/wooden-nt/titus/chapter-03/</loc>
+  </url><url>
+    <loc>http://localhost:1313/cir-library/translations/wooden-nt/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/zechariah/chapter-03/</loc>
   </url><url>
@@ -926,8 +871,6 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/2-samuel/chapter-04/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cyv/2-samuel/chapter-04/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-nt/2-timothy/chapter-04/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/wooden-nt/2-timothy/chapter-04/</loc>
@@ -940,11 +883,7 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/amos/chapter-04/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/harmony/section-04/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-nt/colossians/chapter-04/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/wooden-nt/colossians/chapter-04/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/</loc>
   </url><url>
@@ -1068,8 +1007,6 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/numbers/chapter-04/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cnt-nt/philippians/chapter-04/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/wooden-nt/philippians/chapter-04/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/proverbs/chapter-04/</loc>
@@ -1091,6 +1028,8 @@
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/ruth/chapter-04/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/ruth/chapter-04/</loc>
+  </url><url>
+    <loc>http://localhost:1313/cir-library/categories/sermon-on-the-mount-commentary-book/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/song-of-solomon/chapter-04/</loc>
   </url><url>
@@ -1196,17 +1135,11 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/2-chronicles/chapter-05/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cnt-nt/2-corinthians/chapter-05/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/wooden-nt/2-corinthians/chapter-05/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/2-kings/chapter-05/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/2-kings/chapter-05/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/2-samuel/chapter-05/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cyv/2-samuel/chapter-05/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-nt/acts/chapter-05/</loc>
   </url><url>
@@ -1215,6 +1148,8 @@
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/amos/chapter-05/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/amos/chapter-05/</loc>
+  </url><url>
+    <loc>http://localhost:1313/cir-library/categories/apologetics-book/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/categories/conversational-o-t-by-book/</loc>
   </url><url>
@@ -1253,10 +1188,6 @@
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/ezra/chapter-05/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/ezra/chapter-05/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cnt-nt/galatians/chapter-05/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/wooden-nt/galatians/chapter-05/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/genesis/chapter-05/</loc>
   </url><url>
@@ -1350,10 +1281,6 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/song-of-solomon/chapter-05/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/harmony/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/harmony/section-05/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/zechariah/chapter-05/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/zechariah/chapter-05/</loc>
@@ -1403,8 +1330,6 @@
     <loc>http://localhost:1313/cir-library/translations/cyv/2-kings/chapter-06/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/2-samuel/chapter-06/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cyv/2-samuel/chapter-06/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-nt/acts/chapter-06/</loc>
   </url><url>
@@ -1540,8 +1465,6 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/song-of-solomon/chapter-06/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/harmony/section-06/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/zechariah/chapter-06/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/zechariah/chapter-06/</loc>
@@ -1564,10 +1487,6 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/1-kings/chapter-07/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cnt-ot/1-samuel/chapter-07/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cyv/1-samuel/chapter-07/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/2-chronicles/chapter-07/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/2-chronicles/chapter-07/</loc>
@@ -1581,8 +1500,6 @@
     <loc>http://localhost:1313/cir-library/translations/cyv/2-kings/chapter-07/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/2-samuel/chapter-07/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cyv/2-samuel/chapter-07/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-nt/acts/chapter-07/</loc>
   </url><url>
@@ -1619,8 +1536,6 @@
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/ezra/chapter-07/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/ezra/chapter-07/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/harmony/section-07/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/genesis/chapter-07/</loc>
   </url><url>
@@ -1750,10 +1665,6 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/2-samuel/chapter-08/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cyv/2-samuel/chapter-08/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cnt-nt/acts/chapter-08/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/wooden-nt/acts/chapter-08/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/amos/chapter-08/</loc>
@@ -1867,8 +1778,6 @@
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/ruth/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/ruth/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/harmony/section-08/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/song-of-solomon/chapter-08/</loc>
   </url><url>
@@ -2032,8 +1941,6 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/2-samuel/chapter-09/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cyv/2-samuel/chapter-09/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-nt/acts/chapter-09/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/wooden-nt/acts/chapter-09/</loc>
@@ -2114,8 +2021,6 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/wooden-nt/luke/chapter-09/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cnt-nt/mark/chapter-09/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/wooden-nt/mark/chapter-09/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-nt/matthew/chapter-09/</loc>
@@ -2146,13 +2051,41 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/wooden-nt/romans/chapter-09/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/harmony/section-09/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/categories/the-yahveh-covenant-by-book/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/zechariah/chapter-09/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/zechariah/chapter-09/</loc>
+  </url><url>
+    <loc>http://localhost:1313/cir-library/translations/resources/2-peter-2-and-jude-compared/</loc>
+    <lastmod>2026-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cir-library/translations/resources/2-peter-and-jude-in-parallel/</loc>
+    <lastmod>2026-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cir-library/translations/resources/christs-resurrection-appearances/</loc>
+    <lastmod>2026-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cir-library/translations/resources/composite-account-of-cornelius-conversion/</loc>
+    <lastmod>2026-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cir-library/translations/resources/composite-account-of-pauls-conversion/</loc>
+    <lastmod>2026-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cir-library/translations/resources/foreign-terms-in-the-new-testament/</loc>
+    <lastmod>2026-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cir-library/translations/resources/formats-for-scripture-references/</loc>
+    <lastmod>2026-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cir-library/translations/resources/new-testament-quotations-from-the-old-testament/</loc>
+    <lastmod>2026-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cir-library/translations/resources/questioned-texts-in-the-new-testament/</loc>
+    <lastmod>2026-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cir-library/translations/resources/</loc>
+    <lastmod>2026-01-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/essays/8-hindrances-to-interpretation-virgil-warren-phd/</loc>
     <lastmod>2026-01-23T00:00:00+00:00</lastmod>
@@ -2197,9 +2130,6 @@
     <lastmod>2026-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/essays/getting-the-point/</loc>
-    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/categories/getting-the-point-book/</loc>
     <lastmod>2026-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/essays/h-technicalizing-terminology-virgil-warren-phd/</loc>
@@ -2277,11 +2207,7 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/2-samuel/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cyv/2-samuel/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/2-samuel/chapter-10/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cyv/2-samuel/chapter-10/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-nt/acts/chapter-10/</loc>
   </url><url>
@@ -2318,8 +2244,6 @@
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/genesis/chapter-10/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/genesis/chapter-10/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/harmony/section-10/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-nt/hebrews/chapter-10/</loc>
   </url><url>
@@ -2449,10 +2373,6 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/1-chronicles/chapter-11/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cnt-nt/1-corinthians/chapter-11/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/wooden-nt/1-corinthians/chapter-11/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/1-kings/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/1-kings/</loc>
@@ -2479,17 +2399,9 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/2-samuel/chapter-11/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cyv/2-samuel/chapter-11/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-nt/acts/chapter-11/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/wooden-nt/acts/chapter-11/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/harmony/section-11/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cnt-ot/daniel/chapter-11/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cyv/daniel/chapter-11/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/deuteronomy/chapter-11/</loc>
   </url><url>
@@ -2583,8 +2495,6 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/wooden-nt/romans/chapter-11/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/categories/sermon-on-the-mount-commentary-book/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/zechariah/chapter-11/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/zechariah/chapter-11/</loc>
@@ -2622,8 +2532,6 @@
     <loc>http://localhost:1313/cir-library/translations/cyv/2-kings/chapter-12/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/2-samuel/chapter-12/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cyv/2-samuel/chapter-12/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-nt/acts/chapter-12/</loc>
   </url><url>
@@ -2701,8 +2609,6 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/wooden-nt/matthew/chapter-12/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/harmony/section-12/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/nehemiah/chapter-12/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/nehemiah/chapter-12/</loc>
@@ -2763,10 +2669,6 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/1-chronicles/chapter-13/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cnt-nt/1-corinthians/chapter-13/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/wooden-nt/1-corinthians/chapter-13/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/1-kings/chapter-13/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/1-kings/chapter-13/</loc>
@@ -2789,8 +2691,6 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/2-samuel/chapter-13/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cyv/2-samuel/chapter-13/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-nt/acts/chapter-13/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/wooden-nt/acts/chapter-13/</loc>
@@ -2810,8 +2710,6 @@
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/genesis/chapter-13/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/genesis/chapter-13/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/harmony/section-13/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-nt/hebrews/chapter-13/</loc>
   </url><url>
@@ -2879,8 +2777,6 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-nt/revelation/chapter-13/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/wooden-nt/revelation/chapter-13/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-nt/romans/chapter-13/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/wooden-nt/romans/chapter-13/</loc>
@@ -2918,8 +2814,6 @@
     <loc>http://localhost:1313/cir-library/translations/cyv/2-kings/chapter-14/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/2-samuel/chapter-14/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cyv/2-samuel/chapter-14/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-nt/acts/chapter-14/</loc>
   </url><url>
@@ -2985,8 +2879,6 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/wooden-nt/matthew/chapter-14/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/harmony/section-14/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/numbers/chapter-14/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/numbers/chapter-14/</loc>
@@ -2994,8 +2886,6 @@
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/proverbs/chapter-14/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/proverbs/chapter-14/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cnt-ot/psalms/chapter-14/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/psalms/chapter-14/</loc>
   </url><url>
@@ -3088,8 +2978,6 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/2-samuel/chapter-15/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cyv/2-samuel/chapter-15/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-nt/acts/chapter-15/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/wooden-nt/acts/chapter-15/</loc>
@@ -3176,8 +3064,6 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/wooden-nt/romans/chapter-15/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/harmony/section-15/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/1-chronicles/chapter-16/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/1-chronicles/chapter-16/</loc>
@@ -3203,8 +3089,6 @@
     <loc>http://localhost:1313/cir-library/translations/cyv/2-kings/chapter-16/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/2-samuel/chapter-16/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cyv/2-samuel/chapter-16/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-nt/acts/chapter-16/</loc>
   </url><url>
@@ -3290,8 +3174,6 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/wooden-nt/romans/chapter-16/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/harmony/section-16/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/categories/corinthians/</loc>
     <lastmod>2026-01-23T00:00:00+00:00</lastmod>
   </url><url>
@@ -3331,8 +3213,6 @@
     <loc>http://localhost:1313/cir-library/translations/cyv/2-kings/chapter-17/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/2-samuel/chapter-17/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cyv/2-samuel/chapter-17/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-nt/acts/chapter-17/</loc>
   </url><url>
@@ -3398,8 +3278,6 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/numbers/chapter-17/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/harmony/section-17/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/proverbs/chapter-17/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/proverbs/chapter-17/</loc>
@@ -3433,8 +3311,6 @@
     <loc>http://localhost:1313/cir-library/translations/cyv/2-kings/chapter-18/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/2-samuel/chapter-18/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cyv/2-samuel/chapter-18/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-nt/acts/chapter-18/</loc>
   </url><url>
@@ -3512,8 +3388,6 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/wooden-nt/revelation/chapter-18/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/harmony/section-18/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/essays/destination-and-date-of-galatians/</loc>
     <lastmod>2026-01-23T00:00:00+00:00</lastmod>
   </url><url>
@@ -3548,13 +3422,9 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/2-samuel/chapter-19/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cyv/2-samuel/chapter-19/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-nt/acts/chapter-19/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/wooden-nt/acts/chapter-19/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/harmony/section-19/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/deuteronomy/chapter-19/</loc>
   </url><url>
@@ -3650,8 +3520,6 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/2-samuel/chapter-20/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cyv/2-samuel/chapter-20/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-nt/acts/chapter-20/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/wooden-nt/acts/chapter-20/</loc>
@@ -3707,8 +3575,6 @@
     <loc>http://localhost:1313/cir-library/translations/cnt-nt/matthew/chapter-20/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/wooden-nt/matthew/chapter-20/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/harmony/section-20/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/numbers/chapter-20/</loc>
   </url><url>
@@ -3782,8 +3648,6 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/2-samuel/chapter-21/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cyv/2-samuel/chapter-21/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-nt/acts/chapter-21/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/wooden-nt/acts/chapter-21/</loc>
@@ -3803,8 +3667,6 @@
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/ezekiel/chapter-21/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/ezekiel/chapter-21/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/harmony/section-21/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/genesis/chapter-21/</loc>
   </url><url>
@@ -3862,10 +3724,6 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/wooden-nt/revelation/chapter-21/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cnt-ot/1-chronicles/chapter-22/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cyv/1-chronicles/chapter-22/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/1-kings/chapter-22/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/1-kings/chapter-22/</loc>
@@ -3883,8 +3741,6 @@
     <loc>http://localhost:1313/cir-library/translations/cyv/2-kings/chapter-22/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/2-samuel/chapter-22/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cyv/2-samuel/chapter-22/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-nt/acts/chapter-22/</loc>
   </url><url>
@@ -3954,8 +3810,6 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/song-of-solomon/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/harmony/section-22/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/essays/fragmenting-philippians/</loc>
     <lastmod>2026-01-23T00:00:00+00:00</lastmod>
   </url><url>
@@ -3983,10 +3837,6 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/2-samuel/chapter-23/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cyv/2-samuel/chapter-23/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cnt-nt/acts/chapter-23/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/wooden-nt/acts/chapter-23/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/deuteronomy/chapter-23/</loc>
@@ -4013,10 +3863,6 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/isaiah/chapter-23/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cnt-ot/jeremiah/chapter-23/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cyv/jeremiah/chapter-23/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/job/chapter-23/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/job/chapter-23/</loc>
@@ -4024,8 +3870,6 @@
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/joshua/chapter-23/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/joshua/chapter-23/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/harmony/section-23/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/leviticus/chapter-23/</loc>
   </url><url>
@@ -4068,8 +3912,6 @@
     <loc>http://localhost:1313/cir-library/translations/cyv/2-kings/chapter-24/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/2-samuel/chapter-24/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cyv/2-samuel/chapter-24/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-nt/acts/chapter-24/</loc>
   </url><url>
@@ -4123,10 +3965,6 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/wooden-nt/matthew/chapter-24/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cnt-ot/numbers/chapter-24/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cyv/numbers/chapter-24/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/proverbs/chapter-24/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/proverbs/chapter-24/</loc>
@@ -4134,8 +3972,6 @@
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/psalms/chapter-24/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/psalms/chapter-24/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/harmony/section-24/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/essays/a-rationale-for-the-structure-of-genesis-11-23/</loc>
     <lastmod>2026-01-23T00:00:00+00:00</lastmod>
@@ -4257,8 +4093,6 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/psalms/chapter-25/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/harmony/section-25/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/1-chronicles/chapter-26/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/1-chronicles/chapter-26/</loc>
@@ -4326,8 +4160,6 @@
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/psalms/chapter-26/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/psalms/chapter-26/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/harmony/section-26/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/essays/sequence-of-the-thessalonian-correspondence/</loc>
     <lastmod>2026-01-23T00:00:00+00:00</lastmod>
@@ -4409,8 +4241,6 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/psalms/chapter-27/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/harmony/section-27/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/1-chronicles/chapter-28/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/1-chronicles/chapter-28/</loc>
@@ -4426,8 +4256,6 @@
     <loc>http://localhost:1313/cir-library/translations/cnt-nt/acts/chapter-28/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/wooden-nt/acts/chapter-28/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/harmony/section-28/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/deuteronomy/chapter-28/</loc>
   </url><url>
@@ -4506,8 +4334,6 @@
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/2-chronicles/chapter-29/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/2-chronicles/chapter-29/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/harmony/section-29/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/deuteronomy/chapter-29/</loc>
   </url><url>
@@ -4629,8 +4455,6 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/psalms/chapter-30/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/harmony/section-30/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/essays/characteristics-and-peculiarities-of-hebrews/</loc>
     <lastmod>2026-01-23T00:00:00+00:00</lastmod>
   </url><url>
@@ -4667,10 +4491,6 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/deuteronomy/chapter-31/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cnt-ot/exodus/chapter-31/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cyv/exodus/chapter-31/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/ezekiel/chapter-31/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/ezekiel/chapter-31/</loc>
@@ -4698,10 +4518,6 @@
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/obadiah/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/obadiah/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cnt-ot/proverbs/chapter-31/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cyv/proverbs/chapter-31/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/psalms/chapter-31/</loc>
   </url><url>
@@ -4945,10 +4761,6 @@
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/2-chronicles/chapter-36/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/2-chronicles/chapter-36/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cnt-ot/exodus/chapter-36/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cyv/exodus/chapter-36/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/ezekiel/chapter-36/</loc>
   </url><url>
@@ -5413,10 +5225,6 @@
     <loc>http://localhost:1313/cir-library/essays/views-of-deity/</loc>
     <lastmod>2026-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cnt-ot/genesis/chapter-50/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cyv/genesis/chapter-50/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/categories/god--theology-proper/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/isaiah/chapter-50/</loc>
@@ -5574,9 +5382,6 @@
     <loc>http://localhost:1313/cir-library/essays/unity-and-diversity-in-the-universal-body-of-christ/</loc>
     <lastmod>2026-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/resources/the-combined-gospels/</loc>
-    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-nt/1-peter/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/wooden-nt/1-peter/</loc>
@@ -5621,8 +5426,6 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/psalms/chapter-62/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cnt-nt/2-john/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/wooden-nt/2-john/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/isaiah/chapter-63/</loc>
@@ -5632,8 +5435,6 @@
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/psalms/chapter-63/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/psalms/chapter-63/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cnt-nt/3-john/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/wooden-nt/3-john/</loc>
   </url><url>
@@ -5665,8 +5466,6 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/categories/revelation--scripture-bibliology/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cnt-nt/romans/chapter-65/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/isaiah/chapter-66/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/isaiah/chapter-66/</loc>
@@ -5690,8 +5489,6 @@
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/psalms/chapter-69/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/psalms/chapter-69/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cnt-nt/romans/chapter-69/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/essays/added-notations-on-sabbath-observance/</loc>
     <lastmod>2026-01-23T00:00:00+00:00</lastmod>
@@ -5856,9 +5653,6 @@
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/psalms/chapter-99/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cyv/psalms/chapter-99/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/resources/</loc>
-    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/translations/cnt-ot/psalms/chapter-100/</loc>
   </url><url>
@@ -7210,10 +7004,6 @@
     <loc>http://localhost:1313/cir-library/essays/%CE%B1%CF%85%CE%B8%CE%B5%CE%BD%CF%84%CE%B7%CF%82-authent%C4%93s/</loc>
     <lastmod>2026-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cir-library/categories/apologetics-book/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/categories/basic-christianity-book/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/categories/brain-teasers-assignments/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/categories/contradictions-resolving-in-scripture/</loc>
@@ -7228,8 +7018,6 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/categories/know-how-we-epistemology/</loc>
   </url><url>
-    <loc>http://localhost:1313/cir-library/categories/the-nature-of-man--book/</loc>
-  </url><url>
     <loc>http://localhost:1313/cir-library/categories/womens-studies/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/categories/womens-studies-eph-5-21/</loc>
@@ -7238,16 +7026,16 @@
   </url><url>
     <loc>http://localhost:1313/cir-library/categories/womens-studies-s-gal-3-28/</loc>
   </url><url>
+    <loc>http://localhost:1313/cir-library/</loc>
+    <lastmod>2026-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cir-library/translations/</loc>
+    <lastmod>2026-01-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/cir-library/categories/apologetics-book/</loc>
     <lastmod>2026-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/categories/basic-christianity-book/</loc>
-    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/categories/bible-resources/</loc>
-    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/</loc>
     <lastmod>2026-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/categories/brain-teasers-assignments/</loc>
@@ -7257,9 +7045,6 @@
     <lastmod>2026-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/categories/christ-christology/</loc>
-    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/</loc>
     <lastmod>2026-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/categories/church--ecclesiology/</loc>
@@ -7293,9 +7078,6 @@
     <lastmod>2026-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/categories/ip-interpersonalism-impact-on-topics/</loc>
-    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/categories/jude/</loc>
     <lastmod>2026-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cir-library/categories/know-how-we-epistemology/</loc>
@@ -7334,14 +7116,14 @@
     <loc>http://localhost:1313/cir-library/about/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cir-library/translations/cyv/introduction/</loc>
+    <loc>http://localhost:1313/cir-library/books/</loc>
+  </url><url>
+    <loc>http://localhost:1313/cir-library/categories/books/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/search/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/tags/</loc>
   </url><url>
     <loc>http://localhost:1313/cir-library/topics/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cir-library/translations/wooden-nt/</loc>
   </url>
 </urlset>

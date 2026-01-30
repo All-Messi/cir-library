@@ -10,5 +10,3 @@ weight: 12
 ## 2 Kings
 
 **25 Chapters**
-
-Select a chapter to begin reading:

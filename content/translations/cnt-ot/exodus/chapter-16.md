@@ -4,35 +4,52 @@ chapter: 16
 next: chapter-17
 prev: chapter-15
 title: Exodus 16
-translation: CNT
+translation: COT
 type: chapter
 weight: 16
 ---
 
-## Exodus Chapter 16
+## Exodus Chapter **16**
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> The fifteenth day, second month after they left Egypt, they went from Elim to the Wilderness of Sin, between Elim and Sinai, 2They criticized Moses and Aaron in the desert, 3"If only the LORD had killed us in Egypt when we sat by pots of meat and ate bread till we were full. You've brought us out to this empty place to starve to death."</span>
+<span class="verse" id="v1"><sup><strong>1</strong></sup>The <strong>fifteenth day, second month</strong> after they left Egypt, they went from Elim to the Wilderness of Sin, between Elim and Sinai, <strong><sup>2</sup></strong>They criticized Moses and Aaron in the desert, <strong><sup>3</sup></strong><em>“</em><em>If only</em><em> the </em><em>LORD</em><em> had killed us in Egy</em><em>pt when we sat by pots of meat</em><em> </em><em>and</em><em> ate bread till we were full.</em><em> You’ve brought us out </em><em>to this </em><em>empty place</em><em> to starve to death.”</em><em> </em></span>
+<p class="section-ref">Ex 16:1-3</p>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> The LORD told Moses, "I'll rain bread from the sky, and they can go out each day and pick up a day's supply. That will test whether they'll follow my law: 5On the sixth day, they'll prepare twice as much as on other days."</span>
+<span class="verse" id="v4"><strong><sup>4</sup></strong>The LORD told Moses, <em>“I’ll rain bread from </em><em>the sky</em><em>, and the</em><em>y can </em><em>go out </em><em>each day </em><em>and pick up a day’s </em><em>supply</em><em>.</em><em> That</em><em> </em><em>will</em><em> test whether they’ll </em><em>follow</em><em> my law</em><em>: </em><strong><sup>5</sup></strong><em>O</em><em>n the sixth day, they</em><em>’ll</em><em> prepare twice as much as </em><em>on </em>other <em>day</em><em>s</em><em>.”</em><em> </em></span>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> Moses and Aaron told them, "In the evening you'll know the LORD brought you out of Egypt. 7In the morning you'll see his glory. He hears you complaining about him. Why are you complaining to us? 8The LORD will give you bread in the morning and meat in the evening. You're complaining to him more than to us."</span>
+<span class="verse" id="v6"><strong><sup>6</sup></strong>Moses and Aaron told them, <em>“In the</em><em> evening you’ll know the </em><em>L</em><em>ORD</em><em> brought you out of Egypt.</em><em> </em><strong><sup>7</sup></strong><em>In the morning you’ll see </em><em>his</em><em> glory</em><em>. He hears you</em><em> </em><em>complaining</em><em> </em><em>about him. Why are you complaining to </em><em><u>us</u></em><em>?</em><em> </em><strong><sup>8</sup></strong><em>The </em><em>L</em><em>ORD</em><em> will give you brea</em><em>d in the morning</em><em> </em><em>and meat in the evening. You’re</em><em> </em><em>complaining to him more than to</em><em> us.”</em></span>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> Moses said to Aaron, "Tell the whole community to come into the LORD's presence; he's heard their complaining." 10As Aaron spoke to them, they looked toward the open country, and the glory of the LORD appeared in the cloud. 11He told Moses, 12"I've heard them complaining. Tell them they'll eat their fill of bread in the morning and meat in the evening. They'll know I'm the LORD their God."</span>
+<span class="verse" id="v9"><strong><sup>9</sup></strong>Moses said to Aaron, <em>“Tell the whole </em><em>community to c</em><em>ome </em><em>into</em><em> the </em><em>L</em><em>ORD</em><em>’s</em><em> presence; he’s heard their</em><em> </em><em>complaining</em><em>.”</em><em> </em><strong><sup>10</sup></strong>As Aaron spoke to them, they looked toward the open country, and the glory of the LORD appeared in the cloud. <strong><sup>11</sup></strong>He told Moses, <strong><sup>12</sup></strong><em>“I’ve heard them</em><em> </em><em>complain</em><em>ing.</em><em> </em><em>Tell them</em><em> they’ll eat their fill of</em><em> bread</em><em> in the morning</em><em> </em><em>and </em><em>meat</em><em> in the evening</em><em>.</em><em> </em><em><u>They</u></em><em><u>’ll know I’m the </u></em><em><u>L</u></em><em><u>ORD</u></em><em> their God.</em><em>”</em><strong>          </strong><strong>	          </strong><strong>	              </strong></span>
+<p class="section-ref">Ex 16:4-12</p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> That evening quail came and covered the camp. In the morning, there was a coating of dew around the camp. 14When it evaporated, a fine flakey residue like frost lay all over the countryside. 15When the Israelites saw it, they asked one another what it was. "It's the bread the LORD has given you to eat. 16He has commanded everyone to gather as much as they'll eat, .11 bushel 1 omer for each one in their tent."</span>
+<span class="verse" id="v13"><strong><sup>3</sup></strong>That evening quail came and covered the camp. In the morning, there was a coating of dew around the camp. <strong><sup>14</sup></strong>When it evaporated, a fine flakey residue like frost lay all over the countryside. <strong><sup>15</sup></strong>When the Israelites saw it, they asked one another what it was. Moses told them, <em>“It’s the bread the </em><em>L</em><em>ORD</em><em> has given you to eat.</em><em> </em><strong><sup>16</sup></strong><em>He </em><em>has</em><em> commanded everyone</em><em> </em><em>to </em><em>gather as much as </em><em>they</em><em>’ll eat</em><em>, .11 bushel </em><em><sup>1 omer</sup></em><em> </em><em>for each</em><em> </em><em>one </em><em>in </em><em>their</em><em> tent.”</em></span>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> Some gathered a lot, some a little. 18When they measured it with .11 bushel 1 omer, the ones that had gathered a lot didn't have any left over. The ones that had gathered a little had enough. Everybody gathered enough to eat. 19Moses told them not to leave any of it till morning. 20But some did, and it bred maggots and spoiled. Moses was mad at them. 21They gathered it each morning. When the sun got hot, it evaporated.</span>
+<span class="verse" id="v17"><sup><strong>17</strong></sup>Some gathered a lot, some a little. <strong><sup>18</sup></strong>When they measured it with .11 bushel <sup>1 omer</sup>, the ones that had gathered a lot didn’t have any left over. The ones that had gathered a little had enough. Everybody gathered enough to eat. <strong><sup>19</sup></strong>Moses told them not to<em> </em>leave any of it till morning. <strong><sup>20</sup></strong>But some did, and it bred maggots and spoiled. Moses was mad at them. <strong><sup>21</sup></strong>They gathered it each morning. When the sun got hot, it evaporated.</span>
+<p class="section-ref">Ex 16:13-21</p>
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> On the sixth day, they gathered twice as much, .22 bushel 2 omers apiece. When the leaders of the community came and told Moses, 23he said, "The LORD said, 'Tomorrow is a Sabbath observance, a holy Sabbath to me. Bake what you'll bake and boil what you'll boil. What's left over set aside till morning.'"</span>
+<span class="verse" id="v22"><strong><sup>2</sup></strong>On the sixth day, they gathered twice as much, .22 bushel <sup>2 omers</sup> apiece. When the leaders of the community came and told Moses, <strong><sup>23</sup></strong>he said, <em>“The </em><em>L</em><em>ORD</em><em> said, ‘</em><em>Tomorrow is a Sabbath observance, a holy Sabbath to </em><em>me</em><em>.</em><em> </em><em>Bake what you’ll bake and boil what you’ll boil.</em><em> What’s left over se</em><em>t aside till morning.</em><em>’</em><em>”</em></span>
 
-<span class="verse" id="v24"><sup class="verse-num">24</sup> They did that, and it didn't spoil or breed maggots.</span>
+<span class="verse" id="v24"><sup><strong>24</strong></sup>They did that, and it didn’t spoil or breed maggots.</span>
 
-<span class="verse" id="v25"><sup class="verse-num">25</sup> Moses said, "Eat it today; it's a Sabbath to the LORD. 26Gather it six days; there won't be any the seventh day."</span>
+<span class="verse" id="v25"><strong><sup>5</sup></strong>Moses said, <em>“Ea</em><em>t it today; it’s a S</em><em>abbath</em><em> to the </em><em>L</em><em>ORD</em><em>. </em><strong><sup>26</sup></strong><em>Gather it six days; t</em><em>here won’t be any</em><em> </em><em>the seventh day</em><em>.”</em><em> </em></span>
 
-<span class="verse" id="v27"><sup class="verse-num">27</sup> Some people did go out anyway, but they didn't find any. 28"How long will you refuse to follow my instructions? 29The LORD gave you the Sabbath; he'll provide bread for two days on the sixth day. Stay home the seventh day."</span>
+<span class="verse" id="v27"><strong><sup>7</sup></strong>Some people did go out anyway, but they didn’t find any. <strong><sup>28</sup></strong><em>“</em><em>How long will you refuse to </em><em>follow my instructions?</em><em> </em><strong><sup>29</sup></strong><em>The </em><em>L</em><em>ORD</em><em> gave you the Sabbath; </em><em>he</em><em>’ll</em><em> </em><em>provide</em><em> bread for two days on the sixth</em><em> day. Stay home</em><em> the seventh day.”</em><em> </em></span>
 
-<span class="verse" id="v30"><sup class="verse-num">30</sup> The people rested that day.</span>
+<span class="verse" id="v30"><strong><sup>0</sup></strong>The people rested that day.</span>
+<p class="section-ref">Ex 16:22-30</p>
 
-<span class="verse" id="v31"><sup class="verse-num">31</sup> Israel called it manna. It was white like coriander seed and tasted like honey-flavored wafers. 32-33Moses told Aaron, "The LORD has said to keep .11 bushel 1 omer of it in a jar so later generations can see what he fed us in the desert. Set it in front of the LORD."</span>
+<span class="verse" id="v31"><strong><sup>1</sup></strong>Israel called it manna. It was white like coriander seed and tasted like honey-flavored wafers. <strong><sup>32</sup></strong><strong><sup>-33</sup></strong>Moses told Aaron, <em>“T</em><em>he </em><em>L</em><em>ORD</em><em> has </em><em>said to keep .11 bushel </em><em><sup>1 omer</sup></em><em> of it </em><em>in a jar so later generations</em><em> </em><em>can</em><em> see </em><em>what he</em><em> fed </em><em>us</em><em> in the </em><em>desert. Set</em><em> it in front of the </em><em>L</em><em>ORD</em><em>.”</em></span>
 
-<span class="verse" id="v34"><sup class="verse-num">34</sup> Aaron put it in front of the Testimony. 35The Israelites ate it for 40 years, till they came to the border of Canaan, where people lived. (36An omer is .11 bushels .1 ephah.)</span>
+<span class="verse" id="v34"><sup><strong>34</strong></sup>Aaron put it in front of the Testimony. <strong><sup>35</sup></strong>The Israelites ate it</span>
+<p class="section-ref">for 40</p>
+
+### years, till they came to the border of Canaan, where people lived. (36An omer is .11 bushels .1 ephah.)	Ex 16:31-36 Water from the Rock
+
+
+
+<style>
+.verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
+.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
+.verse em { font-style: italic; }
+.verse strong sup { color: var(--secondary-color, #8b6914); }
+.section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+</style>

@@ -1,12 +1,14 @@
 ---
 author: Virgil Warren, PhD
-categories:
-- Bible Resources
-date: '2026-01-23'
+date: '2026-01-24'
 draft: false
 title: COMPOSITE ACCOUNT OF PAUL’S CONVERSION
-weight: 1
+weight: 10
 ---
+
+
+
+
 
 COMPOSITE ACCOUNT OF PAUL’S CONVERSION
 
@@ -15,6 +17,12 @@ COMPOSITE ACCOUNT OF PAUL’S CONVERSION
 (Acts 9:1b-22; 22:4-16; 26:10-20;
 
 common material; 3rd to 1st person)
+
+
+
+
+
+
 
 “I persecuted The Way to death, binding and imprisoning men and women as the high priest and presbytery can confirm. That’s what I did in Jerusalem. Not only did I lock up many saints in prison with the authority of the chief priests; but when they were being put to death, I voted against them. When I punished them often in every synagogue, I tried to make them blaspheme. I was insanely furious and started persecuting them even to foreign cities.
 
@@ -52,9 +60,15 @@ common material; 3rd to 1st person)
 
 “I’ve continued to declare in Jerusalem and Judaea, then to the Gentiles that people should repent toward God and do what fits with repentance.”
 
+
+
 Conflated from The Conversational Acts of Apostles
 
 For a parallel Greek layout of Paul’s conversion accounts, see elsewhere on this site the supplementary material in “The Witness of Acts to the Kerygma.”
+
+
+
+Virgil Warren, PhD
 
 Translator and Compiler
 

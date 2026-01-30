@@ -6,20 +6,37 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Christian Internet Resources</title>
     <meta name="description" content="Christian Internet Resources (CIR) presents essays with interpersonalism (IP) in mind">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Source+Sans+Pro:wght@400;500;600;700&family=Source+Serif+Pro:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="/cir-library/css/style.css">
+    <link rel="stylesheet" href="/cir-library/css/main.css">
+    <link rel="stylesheet" href="/cir-library/css/enhancements.css">
     
 </head>
 <body>
     <header class="site-header">
         <div class="container">
             <div class="header-content">
-                <div class="site-branding">
+                <a href="http://localhost:1313/cir-library/" class="site-branding">
                     <img src="/cir-library/images/cir-logo.png" alt="CIR Logo" class="site-logo">
-                    <div class="site-title-group">
-                        <h1 class="site-title"><a href="http://localhost:1313/cir-library/">Christian Internet Resources</a></h1>
-                        <p class="site-tagline">Interpersonalism in Christian Theology</p>
+                </a>
+
+                <div class="header-search">
+                    <div class="search-wrapper">
+                        <form action="http://localhost:1313/cir-library/search/" method="get" class="header-search-form">
+                            <input type="search" name="q" class="header-search-input" placeholder="Search essays and topics..." autocomplete="off" id="header-search-input">
+                            <button type="submit" class="header-search-btn" aria-label="Search">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                                    <circle cx="11" cy="11" r="8"></circle>
+                                    <path d="m21 21-4.35-4.35"></path>
+                                </svg>
+                            </button>
+                        </form>
+                        <div id="header-search-dropdown" class="search-dropdown"></div>
                     </div>
                 </div>
+
                 <nav class="main-nav">
                     <ul>
                         
@@ -47,157 +64,150 @@
     </section>
 
     
-    <section class="home-search">
-        <div class="search-wrapper">
-            <form action="http://localhost:1313/cir-library/search/" method="get" class="search-form">
-                <input type="search" name="q" id="home-search-input" placeholder="Search essays and topics..." autocomplete="off">
-                <button type="submit" class="search-submit">Search</button>
-            </form>
-            <div id="search-dropdown" class="search-dropdown"></div>
+    <section class="content-sections">
+        <div class="section-label">Essays & Studies</div>
+        <div class="section-grid section-grid-3">
+            <div class="section-card card-accent-1">
+                <h3>Topics</h3>
+                <p>Interpersonalism, Basic Christianity, Doctrine, and theological studies</p>
+                <a href="http://localhost:1313/cir-library/categories/topics/" class="btn">Explore Topics</a>
+            </div>
+            <div class="section-card card-accent-2">
+                <h3>Interpretation</h3>
+                <p>Hermeneutics and principles for understanding Scripture rightly</p>
+                <a href="http://localhost:1313/cir-library/categories/interpretation/" class="btn">Study Interpretation</a>
+            </div>
+            <div class="section-card card-accent-3">
+                <h3>Ministry</h3>
+                <p>Practical resources for ministers, church leadership, and Christian service</p>
+                <a href="http://localhost:1313/cir-library/categories/ministry/" class="btn">Explore Ministry</a>
+            </div>
         </div>
     </section>
 
-    <script>
     
-    let searchData = null;
-    fetch('http:\/\/localhost:1313\/cir-library\/index.json')
-        .then(r => r.json())
-        .then(data => { searchData = data; })
-        .catch(err => console.log('Search index not yet available'));
-
-    const searchInput = document.getElementById('home-search-input');
-    const dropdown = document.getElementById('search-dropdown');
-
-    searchInput.addEventListener('input', function() {
-        const query = this.value.toLowerCase().trim();
-        
-        if (query.length < 2 || !searchData) {
-            dropdown.style.display = 'none';
-            return;
-        }
-
-        const results = searchData.filter(item => {
-            return (item.title && item.title.toLowerCase().includes(query)) ||
-                   (item.content && item.content.toLowerCase().includes(query));
-        }).sort((a, b) => {
-            
-            const aIsEssay = !a.book;
-            const bIsEssay = !b.book;
-            if (aIsEssay && !bIsEssay) return -1;
-            if (!aIsEssay && bIsEssay) return 1;
-            return 0;
-        }).slice(0, 8); 
-
-        if (results.length === 0) {
-            dropdown.style.display = 'none';
-            return;
-        }
-
-        dropdown.innerHTML = results.map(r => 
-            '<a href="' + r.permalink + '" class="dropdown-item">' +
-            '<span class="dropdown-title">' + r.title + '</span>' +
-            (r.categories ? '<span class="dropdown-cat">' + r.categories[0] + '</span>' : '') +
-            '</a>'
-        ).join('');
-        dropdown.style.display = 'block';
-    });
-
-    
-    document.addEventListener('click', function(e) {
-        if (!e.target.closest('.search-wrapper')) {
-            dropdown.style.display = 'none';
-        }
-    });
-
-    
-    document.querySelector('.search-form').addEventListener('submit', function() {
-        dropdown.style.display = 'none';
-    });
-    </script>
-
-    <style>
-    .search-wrapper {
-        position: relative;
-        max-width: 800px;
-        margin: 0 auto;
-    }
-
-    .search-dropdown {
-        display: none;
-        position: absolute;
-        top: 100%;
-        left: 0;
-        right: 0;
-        background: var(--bg-white);
-        border: 2px solid var(--border-color);
-        border-top: none;
-        border-radius: 0 0 8px 8px;
-        box-shadow: 0 4px 20px rgba(0,0,0,0.15);
-        z-index: 100;
-        max-height: 400px;
-        overflow-y: auto;
-    }
-
-    .dropdown-item {
-        display: block;
-        padding: 1rem 1.5rem;
-        text-decoration: none;
-        border-bottom: 1px solid var(--border-color);
-        transition: background 0.15s;
-    }
-
-    .dropdown-item:last-child {
-        border-bottom: none;
-    }
-
-    .dropdown-item:hover {
-        background: var(--hover-color);
-    }
-
-    .dropdown-title {
-        display: block;
-        color: var(--primary-color);
-        font-weight: 600;
-        font-family: var(--font-sans);
-    }
-
-    .dropdown-cat {
-        display: block;
-        color: var(--text-light);
-        font-size: 0.85em;
-        margin-top: 0.25rem;
-    }
-    </style>
-
     <section class="content-sections">
-        <div class="section-grid">
-            <div class="section-card">
-                <h3>Texts</h3>
-                <p>Bible translations and study resources</p>
-                <a href="http://localhost:1313/cir-library/translations/" class="btn">Browse Texts</a>
+        <div class="section-label">Scripture Resources</div>
+        <div class="section-grid section-grid-3">
+            <div class="section-card card-accent-4">
+                <h3>Bible Translations</h3>
+                <p>Original translations including the Conversational Version and Wooden NT</p>
+                <a href="http://localhost:1313/cir-library/translations/" class="btn">Browse All</a>
             </div>
-            <div class="section-card">
-                <h3>Topics</h3>
-                <p>Interpersonalism, Basic Christianity, Doctrine, and more</p>
-                <a href="http://localhost:1313/cir-library/categories/" class="btn">Explore Topics</a>
+            <div class="section-card card-accent-5">
+                <h3>Gospel Harmony</h3>
+                <p>The four Gospels woven together in chronological narrative</p>
+                <a href="http://localhost:1313/cir-library/translations/harmony/" class="btn">Read Harmony</a>
             </div>
-            <div class="section-card">
-                <h3>Interpretation</h3>
-                <p>Hermeneutics and principles for understanding Scripture</p>
-                <a href="http://localhost:1313/cir-library/categories/interpretation/" class="btn">Study Interpretation</a>
+            <div class="section-card card-accent-6">
+                <h3>Textual Resources</h3>
+                <p>Supplementary materials including parallel texts and study aids</p>
+                <a href="http://localhost:1313/cir-library/translations/resources/" class="btn">View Resources</a>
+            </div>
+        </div>
+    </section>
+
+    
+    <section class="content-sections">
+        <div class="section-grid section-grid-1">
+            <div class="section-card section-card-wide card-accent-7">
+                <h3>Books</h3>
+                <p>Extended studies and book-length works on theology, interpretation, and Christian living</p>
+                <a href="http://localhost:1313/cir-library/categories/books/" class="btn">Browse Books</a>
             </div>
         </div>
     </section>
 
     <section class="browse-more">
-        <h3>Browse More</h3>
+        <h3>Continue Exploring</h3>
         <div class="browse-links">
             <a href="http://localhost:1313/cir-library/categories/">All Categories</a>
             <a href="http://localhost:1313/cir-library/essays/">All Essays</a>
             <a href="http://localhost:1313/cir-library/translations/">Translations</a>
+            <a href="http://localhost:1313/cir-library/about/">About Dr. Warren</a>
         </div>
     </section>
 </div>
+
+<style>
+ 
+.section-label {
+    text-align: center;
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    color: var(--color-text-muted, #888);
+    margin-bottom: var(--space-lg, 1.5rem);
+}
+
+.section-grid-3 {
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.section-grid-2 {
+    grid-template-columns: repeat(2, 1fr);
+    max-width: 680px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.section-grid-1 {
+    grid-template-columns: 1fr;
+    max-width: 480px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.section-card-wide {
+    text-align: center;
+}
+
+ 
+.section-card {
+    position: relative;
+    overflow: hidden;
+}
+
+.section-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background: #e5e5e5;
+    transition: all 0.3s ease;
+}
+
+ 
+.card-accent-1::before { background: linear-gradient(90deg, #2c3e50, #34495e); }   
+.card-accent-2::before { background: linear-gradient(90deg, #8b6914, #a67c00); }   
+.card-accent-3::before { background: linear-gradient(90deg, #5d4e37, #7a6548); }   
+.card-accent-4::before { background: linear-gradient(90deg, #1a5f4a, #2d8a6e); }   
+.card-accent-5::before { background: linear-gradient(90deg, #6b3a3a, #8b4a4a); }   
+.card-accent-6::before { background: linear-gradient(90deg, #3a5a6b, #4a7a8b); }   
+.card-accent-7::before { background: linear-gradient(90deg, #4a4a4a, #6a6a6a); }   
+
+ 
+.section-card:hover::before {
+    height: 6px;
+}
+
+@media (max-width: 900px) {
+    .section-grid-3 {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 600px) {
+    .section-grid-3,
+    .section-grid-2 {
+        grid-template-columns: 1fr;
+    }
+}
+</style>
 
         </div>
     </main>
@@ -214,6 +224,60 @@
     </footer>
 
     <script src="/cir-library/js/main.js"></script>
+    
+    
+    <script>
+    (function() {
+        let searchData = null;
+        fetch('http:\/\/localhost:1313\/cir-library\/index.json')
+            .then(r => r.json())
+            .then(data => { searchData = data; })
+            .catch(err => console.log('Search index not yet available'));
+
+        const searchInput = document.getElementById('header-search-input');
+        const dropdown = document.getElementById('header-search-dropdown');
+
+        if (searchInput && dropdown) {
+            searchInput.addEventListener('input', function() {
+                const query = this.value.toLowerCase().trim();
+                
+                if (query.length < 2 || !searchData) {
+                    dropdown.style.display = 'none';
+                    return;
+                }
+
+                const results = searchData.filter(item => {
+                    return (item.title && item.title.toLowerCase().includes(query)) ||
+                           (item.content && item.content.toLowerCase().includes(query));
+                }).slice(0, 6);
+
+                if (results.length === 0) {
+                    dropdown.style.display = 'none';
+                    return;
+                }
+
+                dropdown.innerHTML = results.map(r => 
+                    '<a href="' + r.permalink + '" class="dropdown-item">' +
+                    '<span class="dropdown-title">' + r.title + '</span>' +
+                    (r.categories ? '<span class="dropdown-cat">' + r.categories[0] + '</span>' : '') +
+                    '</a>'
+                ).join('');
+                dropdown.style.display = 'block';
+            });
+
+            document.addEventListener('click', function(e) {
+                if (!e.target.closest('.search-wrapper')) {
+                    dropdown.style.display = 'none';
+                }
+            });
+
+            searchInput.closest('form').addEventListener('submit', function() {
+                dropdown.style.display = 'none';
+            });
+        }
+    })();
+    </script>
+    
     
 </body>
 </html>

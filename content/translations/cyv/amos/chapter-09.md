@@ -8,32 +8,51 @@ type: chapter
 weight: 9
 ---
 
-## Amos Chapter 9
+## Amos Chapter **9**
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> I saw Yahveh standing by the altar. He said, "Strike the capitals till the thresholds shake; shatter them on the people's heads. What's left, I'll slay with the sword; no fugitive will get away or refugee escape.</span>
+<span class="verse" id="v1"><sup><strong>1</strong></sup>I saw Yahveh standing by the altar. He said, <em>	</em><em>“Strike the capitals till the thresholds </em><em>shake;</em> <em>	</em><em>	</em><em>shatter them on the </em><em>people’s </em><em>heads.</em> <em>	What’s left, I’ll </em><em>slay</em><em> with the </em><em>sword;</em> <em>	</em><em>	no fugitive will get away or refugee escape.</em></span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> Though they dig down to Sheol, I'll bring them up. Though they fly up to the sky, I'll bring them down.</span>
+<span class="verse" id="v2"><strong><sup>2</sup></strong><em>Though</em><em> they dig down to Sheol,</em> <em>	</em><em>	I’ll bring them up.</em> <em>	Though they fly up to the sky,</em> <em>	</em><em>	I’ll bring them down.</em></span>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> Though they hide on top of Carmel, I'll look for them and banish them. Though they hide on the floor of the sea, I'll tell a sea serpent to bite them.</span>
+<span class="verse" id="v3"><strong><sup>3</sup></strong><em>Though</em><em> they hide on top of Carmel,</em> <em>	</em><em>	I’ll look for them and banish them.</em> <em>	Though they hide on the floor of the sea,</em> <em>	</em><em>	I’ll tell a sea serpent to bite them.</em></span>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> Even if their enemies take them into exile, I'll command a sword to slay them. I'm determined to oppose them."</span>
+<span class="verse" id="v4"><strong><sup>4</sup></strong><em>Even</em><em> if their enemies take them into exile,</em> <em>	</em><em>	I’ll command a sword to slay them.</em> <em>	I’m determined to oppose them.”</em></span>
+<p class="section-ref">Amos 9:1-4</p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> The Lord Yahveh of Hosts— who touches the land and turns it into lava that makes the people mourn, and the ground floods like the Nile and goes down again;</span>
+<span class="verse" id="v5"><strong><sup>5</sup></strong>The Lord Yahveh of Hosts— who touches the land and turns it into lava that makes the people mourn, and the ground floods like the Nile and goes down again;</span>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> the One who builds upper rooms that reach into the sky and lays their foundations on the earth, who draws up water from the sea and pours it out as rain on the land— his name is Yahveh. 7"Aren't you like Nubia to me, Israel? Haven't I brought Israel up from Egypt, the Philistines from Crete, the Syrians from Kir?</span>
+<span class="verse" id="v6"><strong><sup>6</sup></strong>the One who builds upper rooms that reach into the sky and lays their foundations on the earth, who draws up water from the sea and pours it out <em>as rain</em> on the land— his name is Yahveh.<strong>	</strong></span>
+<p class="section-ref">Amos 9:5-6</p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> I keep my eye on sinful kingdoms and destroy them; but I won't completely destroy the House of Jacob.</span>
+### 7“Aren’t you like Nubia to me, Israel?   	 Haven’t I brought Israel up from Egypt, 		the Philistines from Crete,  		the Syrians from Kir?
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> I'll give the command to shake the House of Jacob among all nations like grain in a sieve, but not a kernel will fall on the ground.</span>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> All the sinners among my people will die by the sword who say, 'Catastrophe won't overtake us.' A Promise of Restoration</span>
+<span class="verse" id="v8"><strong><sup>8</sup></strong><em>I</em><em> keep my </em><em>eye on sinful kingdom</em><em>s and destroy </em><em>them</em><em>;</em> <em>	</em><em>	but</em><em> I won’t </em><em>completely</em><em> destroy</em><em> </em><em>the House of </em><em>Jacob</em><em>.</em></span>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> At that time, I'll rebuild David's fallen shelter and fix the breaches in its walls. I'll raise it up from its ruins and rebuild it like it was in the old days,</span>
+<span class="verse" id="v9"><strong><sup>9</sup></strong><em>I’</em><em>ll</em><em> give the</em><em> command</em> <em>	</em><em>	</em><em>to</em><em> shake </em><em>the House</em><em> </em><em>of Jacob </em><em>among all nations</em> <em>	</em><em>	</em><em>	</em><em>like grain in a sieve,</em> <em>	</em><em>	</em><em>but not a kernel will </em><em>fall</em><em> on the ground.</em></span>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> so they can possess what's left of Edom and all the nations that wear my name."</span>
+<span class="verse" id="v10"><strong><sup>0</sup></strong><em>All</em><em> the sinners among</em><em> my people will die by the sword</em> <em>	</em><em>	who</em><em> say, ‘</em><em>Catastrophe</em><em> won</em><em>’t overtake </em><em>us.’</em> <strong>A Promise of Restoration</strong></span>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> Yahveh says, "The time's coming, when reaping will last till plowing will and grape treading will go on till sowing time, when new wine will drip from the mountains and flow from the hills.</span>
+<span class="verse" id="v11"><strong><sup>1</sup></strong><em>At</em><em> that time, </em><em>I’ll </em><em>rebuild</em><em> </em><em>David’s</em><em> fallen </em><em>shelter</em> <em>	</em><em>	</em><em>	</em><em>and </em><em>fix the breaches in its walls.</em> <em>	</em><em>	</em><em>I’ll raise</em><em> it</em><em> up </em><em>from </em><em>its ruins</em> <em>	</em><em>	</em><em>	and rebuild it like </em>it was<em> in the old days</em><em>,</em></span>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> I'll return my people Israel from captivity. They'll rebuild the ruined towns and live in them, plant vineyards and drink their wine, plant gardens and eat their produce.</span>
+<span class="verse" id="v12"><strong><sup>12</sup></strong><em>so</em><em> they can possess </em><em>what’s left</em><em> of Edom</em> <em>	</em><em>	</em><em>	</em><em>and all the </em><em>nations</em><em> </em><em>that wear my name.”</em><strong>  </strong></span>
+<p class="section-ref">Amos 9:7-12</p>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> I'll plant them in their own country; they won't be uprooted again from the land I've given them."</span>
+<span class="verse" id="v13"><sup><strong>13</strong></sup>Yahveh says,<em> </em> <em>	</em><em>“</em><em>The time’s coming,</em> <em>w</em><em>hen</em><em> reaping will last till</em><em> plow</em><em>ing will </em> <em>	</em><em>	</em><em>	</em><em>and </em><em>grape</em><em> treading </em><em>will</em><em> </em><em>go on</em><em> t</em><em>ill</em><em> </em><em>sowing time</em><em>,</em> <em>	</em><em>	</em><em>when </em><em>new wine will drip from the mountains </em> <em>	</em><em>	</em><em>	and flow from the hills.</em></span>
+
+<span class="verse" id="v14"><sup><strong>14</strong></sup><em>I’ll</em><em> return</em><em> my people Israel</em><em> </em><em>from captivity.</em><em> </em> <em>	They’ll rebuild</em><em> the </em><em>ruined towns and live in them,</em> <em>	</em><em>	</em><em>plant</em><em> vineyards and drink their wine,</em> <em>	</em><em>	plant</em><em> </em><em>gardens</em><em> and eat their </em><em>produce</em><em>.</em></span>
+
+<span class="verse" id="v15"><sup><strong>15</strong></sup><em>I’ll</em><em> plant them in their own </em><em>country</em><em>;</em> <em>	they</em><em> won’t </em><em>be uprooted </em><em>again </em><em>from the land</em> <em>	</em><em>	I’ve given them.</em><em>”</em></span>
+<p class="section-ref">Amos 9:13-15</p>
+
+### Version by Virgil Warren: christir.org
+
+
+
+<style>
+.verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
+.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
+.verse em { font-style: italic; }
+.verse strong sup { color: var(--secondary-color, #8b6914); }
+.section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+</style>

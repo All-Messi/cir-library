@@ -9,26 +9,40 @@ type: chapter
 weight: 10
 ---
 
-## Zechariah Chapter 10
+## Zechariah Chapter **10**
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Ask Yahveh for showers in the spring; the One that forms the storm clouds will give each farmer crops in his field.</span>
+<span class="verse" id="v1"><sup><strong>1</strong></sup>Ask Yahveh for showers in the spring; the One that forms the storm clouds will give each <em>farmer</em> crops in his field.</span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> Household gods speak nonsense; fortunetellers see false dreams and give empty consolation. So people wander in danger like lost sheep because they don't have a shepherd. 3"My anger flares at the shepherds; I'll punish the male goats, because I care about my flock, the House of Judah; I'll make them like my majestic steed in battle.</span>
+<span class="verse" id="v2"><sup><strong>2</strong></sup>Household gods speak nonsense; fortunetellers see false dreams and give empty consolation. So people wander in danger like lost sheep because they don’t have a shepherd. <strong><sup>3</sup></strong><em>“</em><em>My</em><em> anger </em><em>flar</em><em>es at the </em><em>shepherds;</em> <em>	I’ll punish the male goats</em><em>,</em> <em>	</em><em>	</em><em>because </em><em>I care</em><em> about</em><em> my flock, the House of </em><em>Judah;</em> <em>	I</em><em>’ll make them like </em><em>my</em><em> majestic steed in battle.</em></span>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> The cornerstone will come from Judah, the tent peg, the bow in battle, and every ruler.</span>
+<span class="verse" id="v4"><sup><strong>4</strong></sup><em>T</em><em>he</em><em> cornerstone </em><em>will come f</em><em>rom </em>Judah<em>,</em> <em>	the tent peg, the bow in battle, </em><em>and </em><em>every ruler.</em></span>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> Together they'll become great warriors and walk all over their enemies like dirt on a road; they'll fight because Yahveh will be on their side; they'll outfight enemies that ride horses.</span>
+<span class="verse" id="v5"><sup><strong>5</strong></sup><em>Together</em><em> </em><em>they’ll become great warriors</em> <em>	</em><em>	and</em><em> </em><em>walk all over</em><em> the</em><em>ir enemies</em><em> </em><em>like dirt on a </em><em>road</em><em>;</em> <em>	they’ll fight because </em><em>Yahveh</em><em> will be </em><em>on their </em><em>side;</em> <em>	they’</em><em>ll </em><em>outfight enemies that ride </em><em>horses.</em></span>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> He'll strengthen Judah and save Joseph, and bring them back.</span>
+<span class="verse" id="v6"><sup><strong>6</strong></sup><em>He</em><em>’ll</em><em> strengthen Judah</em><em> </em><em>and save Joseph</em><em>,</em> <em>	</em><em>and</em><em> bring them back.</em></span>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> Ephraim will become a powerful man and be happy as if from wine. His children will see it and be happy too, and celebrate in Yahveh.</span>
+<span class="verse" id="v7"><sup><strong>7</strong></sup><em>E</em><em>phraim will become a powerful man</em> <em>	</em><em>	</em><em>and</em><em> be </em><em>happy</em><em> as if fro</em><em>m</em><em> wine.</em> <em>	His children will see it and be </em><em>happy too,</em> <em>	</em><em>	</em><em>and</em><em> </em><em>celebrat</em><em>e in </em><em>Yahveh</em><em>.</em><strong>	</strong></span>
+<p class="section-ref">Zech 10:1-7</p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> I'll whistle for them to gather because I've redeemed them; there'll be as many of them as before.</span>
+<span class="verse" id="v8"><sup><strong>8</strong></sup><em>I’ll</em><em> whistle </em><em>for them </em><em>to gather</em> <em>	</em><em>	</em><em>because I’ve redeemed </em><em>them;</em> <em>	the</em><em>re</em><em>’ll be as </em><em>many of them</em><em> as before.</em></span>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> Though I scattered them among the nations, they'll remember me in far countries, survive with their children, and return.</span>
+<span class="verse" id="v9"><sup><strong>9</strong></sup><em>Though</em><em> I scatter</em><em>ed</em><em> them </em><em>among</em><em> the nations,</em> <em>	they’</em><em>ll remember me in far countries,</em> <em>	survive</em><em> with their children</em><em>,</em><em> </em> <em>	</em><em>and </em><em>return</em><em>.</em></span>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> I'll bring them back from Egypt and Assyria and settle them in Gilead and Lebanon till they take up the whole area.</span>
+<span class="verse" id="v10"><sup><strong>10</strong></sup><em>I’ll</em><em> bring them back from Egypt</em><em> and Assyria</em> <em>	and settle them in</em><em> Gilead and Lebanon</em> <em>	till </em><em>they take up the whole area</em><em>.</em></span>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> I'll escort them through the distressing Red Sea and hold back its waves; I'll completely dry up the Nile, crush Assyria's pride, and end Egypt's rule.</span>
+<span class="verse" id="v11"><sup><strong>11</strong></sup><em>I</em><em>’ll</em><em> </em><em>escort them </em><em>through the </em><em>distressing </em>Red<em> S</em><em>ea</em> <em>	</em><em>	</em><em>and </em><em>hold back its</em><em> </em><em>waves;</em> <em>	I’ll completely dry up</em><em> the Nile</em><em>,</em> <em>	</em><em>	</em><em>crush Assyria’s</em><em> pride</em><em>,</em> <em>	</em><em>	</em><em>and end </em><em>Egypt</em><em>’s rule</em><em>.</em></span>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> I'll make my people strong, and they'll follow me." Good and Bad Shepherds</span>
+<span class="verse" id="v12"><sup><strong>12</strong></sup><em>I’ll</em><em> </em><em>make my people strong</em><em>,</em> <em>	and</em><em> they’ll follow me.</em><em>”</em> <strong>	</strong></span>
+<p class="section-ref">Zech 10:8-12</p>
+
+### Good and Bad Shepherds
+
+
+
+<style>
+.verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
+.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
+.verse em { font-style: italic; }
+.verse strong sup { color: var(--secondary-color, #8b6914); }
+.section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+</style>

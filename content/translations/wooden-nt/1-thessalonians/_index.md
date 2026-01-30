@@ -10,5 +10,3 @@ weight: 52
 ## 1 Thessalonians
 
 **5 Chapters**
-
-Select a chapter to begin reading:

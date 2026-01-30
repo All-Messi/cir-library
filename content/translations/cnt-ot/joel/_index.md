@@ -2,7 +2,7 @@
 book: Joel
 chapters: 3
 title: Joel
-translation: CNT
+translation: COT
 type: book
 weight: 29
 ---
@@ -10,5 +10,3 @@ weight: 29
 ## Joel
 
 **3 Chapters**
-
-Select a chapter to begin reading:

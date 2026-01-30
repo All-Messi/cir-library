@@ -10,5 +10,3 @@ weight: 29
 ## Joel
 
 **3 Chapters**
-
-Select a chapter to begin reading:

@@ -10,5 +10,3 @@ weight: 53
 ## 2 Thessalonians
 
 **3 Chapters**
-
-Select a chapter to begin reading:

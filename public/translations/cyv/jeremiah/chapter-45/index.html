@@ -5,20 +5,37 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Jeremiah 45 | Christian Internet Resources</title>
     <meta name="description" content="Christian Internet Resources (CIR) presents essays with interpersonalism (IP) in mind">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Source+Sans+Pro:wght@400;500;600;700&family=Source+Serif+Pro:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="/cir-library/css/style.css">
+    <link rel="stylesheet" href="/cir-library/css/main.css">
+    <link rel="stylesheet" href="/cir-library/css/enhancements.css">
     
 </head>
 <body>
     <header class="site-header">
         <div class="container">
             <div class="header-content">
-                <div class="site-branding">
+                <a href="http://localhost:1313/cir-library/" class="site-branding">
                     <img src="/cir-library/images/cir-logo.png" alt="CIR Logo" class="site-logo">
-                    <div class="site-title-group">
-                        <h1 class="site-title"><a href="http://localhost:1313/cir-library/">Christian Internet Resources</a></h1>
-                        <p class="site-tagline">Interpersonalism in Christian Theology</p>
+                </a>
+
+                <div class="header-search">
+                    <div class="search-wrapper">
+                        <form action="http://localhost:1313/cir-library/search/" method="get" class="header-search-form">
+                            <input type="search" name="q" class="header-search-input" placeholder="Search essays and topics..." autocomplete="off" id="header-search-input">
+                            <button type="submit" class="header-search-btn" aria-label="Search">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                                    <circle cx="11" cy="11" r="8"></circle>
+                                    <path d="m21 21-4.35-4.35"></path>
+                                </svg>
+                            </button>
+                        </form>
+                        <div id="header-search-dropdown" class="search-dropdown"></div>
                     </div>
                 </div>
+
                 <nav class="main-nav">
                     <ul>
                         
@@ -97,10 +114,6 @@
                 
                 <option value="/cir-library/translations/cyv/1-samuel/" >
                     1 Samuel
-                </option>
-                
-                <option value="/cir-library/translations/cyv/2-samuel/" >
-                    2 Samuel
                 </option>
                 
                 <option value="/cir-library/translations/cyv/1-kings/" >
@@ -312,10 +325,6 @@
                     Chapter 22
                 </option>
                 
-                <option value="/cir-library/translations/cyv/jeremiah/chapter-23/" >
-                    Chapter 23
-                </option>
-                
                 <option value="/cir-library/translations/cyv/jeremiah/chapter-24/" >
                     Chapter 24
                 </option>
@@ -442,8 +451,16 @@
 
     
     <div class="chapter-content">
-        <h2 id="jeremiah-chapter-45">Jeremiah Chapter 45</h2>
-<p><span class="verse" id="v1"><sup class="verse-num">1</sup> The Message Jeremiah Spoke to Baruch When He&rsquo;d Written It in a Scroll at Jeremiah&rsquo;s Dictation in the Fourth Year of Jehoiakim Ben-Josiah, King of Judah A Message for Baruch 2&quot;This is what Yahveh God of Israel says to you, Baruch: 3&rsquo;You said, &ldquo;Misfortune awaits me! Yahveh has added sorrow to pain. I&rsquo;m exhausted from groaning. I can&rsquo;t sleep.&rdquo;&rsquo; 4Tell him Yahveh says, &lsquo;What I&rsquo;ve built up I&rsquo;m about to tear down. What I&rsquo;ve planted I&rsquo;m about to uproot—the whole land. 5Are you anticipating great things for yourself? Don&rsquo;t. I&rsquo;m going to bring disaster on everybody, but I&rsquo;ll give you your life as a reward of war wherever you go.&rsquo;&quot;</span></p>
+        <h2 id="jeremiah-chapter-45">Jeremiah Chapter <strong>45</strong></h2>
+<p><span class="verse" id="v1"><sup><strong>1</strong></sup>The Message Jeremiah Spoke to Baruch When He’d Written It in a Scroll at Jeremiah’s Dictation in the <strong>Fourth Year of Jehoiakim</strong> <strong>Ben-Josiah, King of Judah</strong> <strong>A Message for Baruch</strong> <strong><sup>2</sup></strong><em>“This</em><em> is what Yahveh God of Israel says to you, Baruch: </em><strong><sup>3</sup></strong><em>‘You</em><em> said, “Misfortune awaits me! Yahveh has added sorrow to pain. I’m exhausted from groaning. I can’t sleep.”’ </em><strong><sup>4</sup></strong><em>Tell</em><em> him Yahveh says, ‘What I’ve built up I’m about to tear down. What I’ve planted I’m about to uproot—the whole land. </em><strong><sup>5</sup></strong><em>Are</em><em> you </em><em>anticipating great things for yourself? Don’t. I’m going to bring disaster on everybody, but I’ll give you your life as a reward of war wherever you go.’”</em><strong> </strong><strong>	</strong> <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	  </sup></strong></span></p>
+<p class="section-ref">Jer 45:1-5</p>
+<style>
+.verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
+.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
+.verse em { font-style: italic; }
+.verse strong sup { color: var(--secondary-color, #8b6914); }
+.section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+</style>
 
     </div>
 
@@ -489,6 +506,60 @@ function handleBookChange(bookUrl) {
     </footer>
 
     <script src="/cir-library/js/main.js"></script>
+    
+    
+    <script>
+    (function() {
+        let searchData = null;
+        fetch('http:\/\/localhost:1313\/cir-library\/index.json')
+            .then(r => r.json())
+            .then(data => { searchData = data; })
+            .catch(err => console.log('Search index not yet available'));
+
+        const searchInput = document.getElementById('header-search-input');
+        const dropdown = document.getElementById('header-search-dropdown');
+
+        if (searchInput && dropdown) {
+            searchInput.addEventListener('input', function() {
+                const query = this.value.toLowerCase().trim();
+                
+                if (query.length < 2 || !searchData) {
+                    dropdown.style.display = 'none';
+                    return;
+                }
+
+                const results = searchData.filter(item => {
+                    return (item.title && item.title.toLowerCase().includes(query)) ||
+                           (item.content && item.content.toLowerCase().includes(query));
+                }).slice(0, 6);
+
+                if (results.length === 0) {
+                    dropdown.style.display = 'none';
+                    return;
+                }
+
+                dropdown.innerHTML = results.map(r => 
+                    '<a href="' + r.permalink + '" class="dropdown-item">' +
+                    '<span class="dropdown-title">' + r.title + '</span>' +
+                    (r.categories ? '<span class="dropdown-cat">' + r.categories[0] + '</span>' : '') +
+                    '</a>'
+                ).join('');
+                dropdown.style.display = 'block';
+            });
+
+            document.addEventListener('click', function(e) {
+                if (!e.target.closest('.search-wrapper')) {
+                    dropdown.style.display = 'none';
+                }
+            });
+
+            searchInput.closest('form').addEventListener('submit', function() {
+                dropdown.style.display = 'none';
+            });
+        }
+    })();
+    </script>
+    
     
 <script src="/cir-library/js/bible.js"></script>
 

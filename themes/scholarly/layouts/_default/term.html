@@ -1,0 +1,97 @@
+{{ define "main" }}
+{{/* Check if this is a book category by looking at the slug or title */}}
+{{ $isBook := or (strings.HasSuffix .Title "Book)") (strings.HasSuffix .File.ContentBaseName "-book") (eq .Params.layout "book-toc") }}
+
+{{ if $isBook }}
+{{/* Bible.com-style book navigation */}}
+<div class="book-reader">
+    <div class="reader-nav-bar">
+        <div class="book-selector">
+            <a href="{{ "categories/books/" | absURL }}" class="back-to-books">← All Books</a>
+            <span class="current-book">{{ replace .Title " (Book)" "" }}</span>
+        </div>
+    </div>
+
+    <div class="chapter-grid-container">
+        <h2 class="chapter-grid-title">Chapters</h2>
+        <div class="chapter-grid">
+            {{ range $index, $page := .Pages.ByWeight }}
+            <a href="{{ .RelPermalink }}" class="chapter-cell">{{ add $index 1 }}</a>
+            {{ end }}
+        </div>
+    </div>
+
+    <div class="chapter-list">
+        <h2>Table of Contents</h2>
+        {{ range $index, $page := .Pages.ByWeight }}
+        <a href="{{ .RelPermalink }}" class="chapter-item">
+            <span class="chapter-number">{{ add $index 1 }}</span>
+            <span class="chapter-title">{{ .Title }}</span>
+        </a>
+        {{ end }}
+    </div>
+
+    {{ if .Content }}
+    <div class="book-intro">{{ .Content }}</div>
+    {{ end }}
+</div>
+
+<style>
+.book-reader { max-width: 900px; margin: 0 auto; }
+.reader-nav-bar { display: flex; align-items: center; padding: 1rem 0; border-bottom: 1px solid #e5e5e5; margin-bottom: 2rem; }
+.book-selector { display: flex; align-items: center; gap: 1.5rem; }
+.back-to-books { font-family: 'Source Sans Pro', sans-serif; font-size: 0.9rem; color: #666; text-decoration: none; }
+.back-to-books:hover { color: #000; }
+.current-book { font-family: 'Playfair Display', Georgia, serif; font-size: 1.5rem; font-weight: 600; color: #000; }
+.chapter-grid-container { background: #f9f9f9; border-radius: 12px; padding: 1.5rem; margin-bottom: 2rem; }
+.chapter-grid-title { font-family: 'Source Sans Pro', sans-serif; font-size: 0.85rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.1em; color: #888; margin: 0 0 1rem; text-align: center; }
+.chapter-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(48px, 1fr)); gap: 8px; max-width: 600px; margin: 0 auto; }
+.chapter-cell { aspect-ratio: 1; display: flex; align-items: center; justify-content: center; background: #fff; border: 1px solid #e5e5e5; border-radius: 8px; font-family: 'Source Sans Pro', sans-serif; font-size: 0.95rem; font-weight: 500; color: #333; text-decoration: none; transition: all 0.15s ease; }
+.chapter-cell:hover { background: #000; border-color: #000; color: #fff; }
+.chapter-list { margin-bottom: 2rem; }
+.chapter-list h2 { font-family: 'Playfair Display', Georgia, serif; font-size: 1.25rem; color: #000; margin: 0 0 1rem; padding-bottom: 0.75rem; border-bottom: 1px solid #e5e5e5; }
+.chapter-item { display: flex; align-items: center; gap: 1rem; padding: 1rem; border-bottom: 1px solid #f0f0f0; text-decoration: none; transition: background 0.15s ease; }
+.chapter-item:hover { background: #f9f9f9; }
+.chapter-number { width: 32px; height: 32px; display: flex; align-items: center; justify-content: center; background: #f3f3f3; border-radius: 6px; font-family: 'Source Sans Pro', sans-serif; font-size: 0.85rem; font-weight: 600; color: #666; flex-shrink: 0; }
+.chapter-title { font-family: 'Source Serif Pro', Georgia, serif; font-size: 1rem; color: #1a1a1a; line-height: 1.4; }
+.chapter-item:hover .chapter-number { background: #000; color: #fff; }
+.book-intro { background: #fff; padding: 1.5rem; border: 1px solid #e5e5e5; border-radius: 12px; margin-top: 2rem; }
+.book-intro p { color: #555; line-height: 1.7; }
+</style>
+
+{{ else }}
+{{/* Default taxonomy term template */}}
+<div class="taxonomy-list">
+    <header class="page-header">
+        <h1>{{ .Title }}</h1>
+        <p class="taxonomy-count">{{ len .Pages }} essays in this category</p>
+    </header>
+
+    <section class="essays-section">
+        <h2>Essays</h2>
+        <div class="essays-grid">
+            {{ range .Pages.ByTitle }}
+            <article class="essay-card">
+                <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+                <a href="{{ .RelPermalink }}" class="read-link">Read Essay →</a>
+            </article>
+            {{ end }}
+        </div>
+    </section>
+</div>
+
+<style>
+.taxonomy-list .page-header { margin-bottom: 2rem; }
+.taxonomy-count { color: #666; font-family: 'Source Sans Pro', sans-serif; }
+.essays-section h2 { margin-top: 2rem; color: #8b4513; border-bottom: 2px solid #ddd; padding-bottom: 0.5rem; }
+.essays-grid { display: grid; gap: 1.5rem; }
+.essay-card { background: #fff; padding: 1.5rem; border: 1px solid #ddd; border-radius: 4px; transition: all 0.2s; }
+.essay-card:hover { box-shadow: 0 4px 12px rgba(0,0,0,0.08); border-color: #8b4513; }
+.essay-card h3 { margin-top: 0; margin-bottom: 0.5rem; }
+.essay-card h3 a { color: #2c3e50; text-decoration: none; }
+.essay-card h3 a:hover { color: #8b4513; }
+.read-link { color: #8b4513; font-family: 'Source Sans Pro', sans-serif; font-weight: 600; text-decoration: none; }
+.read-link:hover { text-decoration: underline; }
+</style>
+{{ end }}
+{{ end }}

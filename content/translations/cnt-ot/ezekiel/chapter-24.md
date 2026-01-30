@@ -4,35 +4,64 @@ chapter: 24
 next: chapter-25
 prev: chapter-23
 title: Ezekiel 24
-translation: CNT
+translation: COT
 type: chapter
 weight: 24
 ---
 
-## Ezekiel Chapter 24
+## Ezekiel Chapter **24**
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> The tenth day, tenth month, ninth year, a message from the LORD came to me: 2"Son of man, write down the date. Today the king of Babylon laid siege to Jerusalem. 3Tell the rebellious people a parable, 'The Lord GOD says,</span>
+<span class="verse" id="v1"><strong><sup>1</sup></strong>The <strong>tenth day, tenth month, ninth year</strong>, a message from the LORD came to me: <strong><sup>2</sup></strong><em>“Son</em><em> of man, write down the date. Today the king of Babylon laid siege to Jerusalem. </em><strong><sup>3</sup></strong><em>Tell</em><em> the rebellious people a parable, ‘The Lord G</em><em>OD</em><em> says,</em> <strong><sup>	</sup></strong><em>“Put a pot on and pour water in </em><em>it;</em></span>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> Take the best of the flock</span>
+<span class="verse" id="v4"><sup><strong>4</strong></sup><em>	</em><strong><sup>4</sup></strong><em>put</em><em> good pieces of meat in it,</em> <em>	</em><em>	thigh and </em><em>shoulder;</em> <em>	</em><em>	fill it with choice bones.</em></span>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> The blood she shed is in her;</span>
+<span class="verse" id="v5"><strong><sup>5</sup></strong><em>Take</em><em> the best of the flock</em> <em>	</em><em>	and put wood under the pot.</em> <em>	</em><em>	Boil it </em><em>hard;</em> <em>	</em><em>	seethe the bones with the meat.”</em><strong>	</strong></span>
+<p class="section-ref">Ezek 24:1-5</p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> To cause anger to rise up</span>
+### 6‘The Lord GOD says, 		“Misfortune awaits the bloody city; 		it awaits the rusty pot! 		Take out piece after piece 			without choosing which ones.
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> Pile on the wood, kindle the fire,</span>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> Then set it empty on the coals</span>
+<span class="verse" id="v7"><strong><sup>7</sup></strong><em>The</em><em> blood she shed is in </em><em>her;</em><em>  </em> <em>	</em><em>	she put it on a bare </em><em>rock;</em> <em>	</em><em>	she didn’t pour it on the ground</em> <em>	</em><em>	</em><em>	and cover it with dirt.</em></span>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> I've worked hard for nothing,</span>
+<span class="verse" id="v8"><strong><sup>8</sup></strong><em>To</em><em> cause anger to rise up </em> <em>	</em><em>	</em><em>	and take revenge,</em> <em>	</em><em>	I’ve put her blood on a bare rock</em> <em>	</em><em>	</em><em>	</em><em>so</em><em> it won’t be covered.”</em><strong>	</strong><strong>	</strong></span>
+<p class="section-ref">Ezek 24:6-8</p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> In your filthiness is lewdness;</span>
+### 9‘So the Lord GOD says,  		“Misfortune awaits the bloody city! 		I’ll make it a big pile.
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> I, the LORD, have said it; it's coming, I'll do it. I won't hold back. I won't pity or be sorry. I'll judge you according to your ways and deeds."'"</span>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> A message from the LORD came to me: 16"Son of man, I'm about to take away the delight of your eyes in one stroke, but don't mourn or cry or shed tears. 17Groan silently; don't perform ritual mourning for the dead. Wrap your turban on, put your shoes on, don't cover your mouth in sorrow, or eat the bread of mourning."</span>
+<span class="verse" id="v10"><strong><sup>0</sup></strong><em>Pile</em><em> on the wood, kindle the fire,</em> <em>	</em><em>	boil the meat well,</em> <em>	</em><em>	mix in the spices,</em> <em>	</em><em>	burn the bones.</em></span>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> I told the people about it in the morning; that evening my wife died. The next morning, I did what God told me.</span>
+<span class="verse" id="v11"><strong><sup>1</sup></strong><em>Then</em><em> set it empty on the coals</em> <em>	</em><em>	to get it hot</em> <em>	</em><em>	</em><em>so</em><em> its bronze will glow,</em> <em>	</em><em>	its dross will dissolve,</em> <em>	</em><em>	and its rust will burn off.</em></span>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> The people said, "Won't you tell us what you're doing means for us?"</span>
+<span class="verse" id="v12"><strong><sup>2</sup></strong><em>I’ve</em><em> worked hard for nothing,</em> <em>	</em><em>	because its extreme rust isn’t </em><em>gone;</em> <em>	</em><em>	let it rust in the fire!</em><strong>	</strong><strong>	</strong></span>
+<p class="section-ref">Ezek 24:9-12</p>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> I told them, "A message from the LORD came to me, 21'Tell Israel, "I'm about to profane my sanctuary, the pride of your power, the delight of your eyes and soul. The children you've left behind will fall by the sword. 22Do what I've done. Don't cover your mouth in sorrow or eat the bread of mourning. 23Put your turbans on your heads and your shoes on your feet. Don't mourn or weep, but pine away in your sins and groan to one another. 24Follow Ezekiel's example. When it comes, you'll know I'm the Lord GOD."' 25"Son of man, won't that be when I take their fortresses away from them, their pride and joy, the delight of their eyes, their heart's desire, their children—26when somebody escapes and comes to you with the news? 27Then you can speak to the one that escaped. You'll be a sign to them. They'll know I'm the LORD."</span>
+<span class="verse" id="v13"><strong><sup>3</sup></strong><em>In</em><em> your filthiness is </em><em>lewdness;</em> <em>	</em><em>	I wanted to clean you up,</em> <em>	</em><em>	</em><em>	but you didn’t want to be clean.</em> <em>	</em><em>	You won’t be clean from your filthiness</em> <em>	</em><em>	</em><em>	till I’ve spent my anger on you.</em></span>
+
+<span class="verse" id="v14"><sup><strong>14</strong></sup><em>I</em><em>, the </em><em>L</em><em>ORD</em><em>, have said it; it’s coming, I’ll do it. I won’t hold back. I won’t pity or be sorry. I’ll judge </em>you <em>according to your ways and deeds.”’”</em><em>	 </em></span>
+<p class="section-ref">Ezek 24:13-14</p>
+
+### Ezekiel’s Wife Dies
+
+
+<span class="verse" id="v15"><sup><strong>15</strong></sup>A message from the LORD came to me: <strong><sup>16</sup></strong><em>“Son</em><em> of man, I’m about to take away the delight of your eyes </em><em>in one</em><em> </em><em>stroke</em><em>, but don’t mourn</em><em> or</em><em> </em><em>cry or</em><em> </em><em>shed tears</em><em>.</em><em> </em><strong><sup>17</sup></strong><em>Groan</em><em> silently; don’</em><em>t </em>perform ritual <em>mourning for the dead. Wrap </em><em>your </em><em>turban on, put your shoes on, don’t cover your mouth </em>in sorrow<em>, or eat the bread of mourning.” </em><em>	</em></span>
+<p class="section-ref">Ezek 24:15-17</p>
+
+<span class="verse" id="v18"><sup><strong>18</strong></sup>I told the people <em>about it </em>in the morning; that evening my wife died. The next morning, I did what God told me.</span>
+
+<span class="verse" id="v19"><sup><strong>19</strong></sup>The people said, <em>“Won’t </em><em>you tell us what </em><em>you’re doing mean</em><em>s</em><em> for us?”</em></span>
+
+<span class="verse" id="v20"><sup><strong>20</strong></sup>I told them, <em>“</em><em>A message from </em><em>the </em><em>L</em><em>ORD</em><em> came to me, </em><strong><sup>21</sup></strong><em>‘</em><em>Tell</em><em> Israel, </em><em>“</em><em>I’m about to profane my sanctuary, the pride of your power</em><em>, the delight of your eyes and </em><em>soul.</em><em> </em><em>The </em><em>children</em><em> you’ve left behind will fall by the sword.</em><em> </em><strong><sup>22</sup></strong><em>Do</em><em> what</em><em> I’ve done.</em><em> </em><em>Don’t cover your </em><em>mouth </em>in sorrow<em> or eat the bread of </em><em>mourn</em><em>ing.</em><em> </em><strong><sup>23</sup></strong><em>Put</em><em> your turbans on your heads and your shoes on your feet. Don’t mourn or weep, but pine away in your sins and groan to one another. </em><strong><sup>24</sup></strong><em>Follow</em><em> Ezekiel’s example. When it comes, </em><em><u>you’ll know I’m the Lord G</u></em><em><u>OD</u></em><em>.”’</em><strong> </strong></span>
+<p class="section-ref">Ezek 24:18-24</p>
+
+### 25“Son of man, won’t that be when I take their fortresses away from them, their pride and joy, the delight of their eyes, their heart’s desire, their children—26when somebody escapes and comes to you with the news? 27Then you can speak to the one that escaped. You’ll be a sign to them. They’ll know I’m the LORD.”	    	 			Ezek 24:25-27 A Message for Ammon
+
+
+
+<style>
+.verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
+.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
+.verse em { font-style: italic; }
+.verse strong sup { color: var(--secondary-color, #8b6914); }
+.section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+</style>

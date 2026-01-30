@@ -10,5 +10,3 @@ weight: 60
 ## 1 Peter
 
 **5 Chapters**
-
-Select a chapter to begin reading:

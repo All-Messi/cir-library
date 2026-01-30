@@ -4,39 +4,53 @@ chapter: 23
 next: chapter-24
 prev: chapter-22
 title: Job 23
-translation: CNT
+translation: COT
 type: chapter
 weight: 23
 ---
 
-## Job Chapter 23
+## Job Chapter **23**
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Job answered:</span>
+<span class="verse" id="v1"><sup><strong>1</strong></sup><strong>Job answered:</strong> <strong><sup>2</sup></strong><em>“My complaint is still bitter;</em> <em>	</em><em>	</em>God’s<em> hand weighs heavily on me despite my groaning.</em></span>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> If only I knew where to find him</span>
+<span class="verse" id="v3"><strong><sup>3</sup></strong><em>If only I knew where to find him</em> <em>	</em><em>	so I could go to his courtroom!</em></span>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> I'd present my case</span>
+<span class="verse" id="v4"><strong><sup>4</sup></strong><em>I’d present my case </em> <em>	</em><em>	and offer my arguments.</em></span>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> I'd find out what he'd answer</span>
+<span class="verse" id="v5"><strong><sup>5</sup></strong><em>I’d find out what he’d answer</em> <em>	</em><em>	and understand what he’d say.</em></span>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> Would he oppose me with his great power?</span>
+<span class="verse" id="v6"><strong><sup>6</sup></strong><em>Would he oppose me with his great power?</em> <em>	</em><em>	No, he’d listen!</em></span>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> Someone godly would be reasoning with him,</span>
+<span class="verse" id="v7"><strong><sup>7</sup></strong><em>Someone godly would be reasoning with him,</em> <em>	</em><em>	and my Judge would acquit me permanently.</em></span>
+<p class="section-ref">Job 23:1-7</p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> When he acts in the north, I can't see it;</span>
+### 8“I go east, but he’s not there; 		I go west, but I can’t find him.
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> But he knows where I'm going;</span>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> I've stayed close to his steps</span>
+<span class="verse" id="v9"><strong><sup>9</sup></strong><em>When he acts in the north, I can’t see it;</em> <em>	</em><em>	when he turns to the south, he’s hidden there too</em>.</span>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> I haven't veered off from his commands;</span>
+<span class="verse" id="v10"><strong><sup>0</sup></strong><em>But he knows where </em><em><u>I’m</u></em><em> going;</em> <em>	</em><em>	when he tests me, I’ll come out like pure gold.</em></span>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> But once he's made up his mind, who can change it?</span>
+<span class="verse" id="v11"><strong><sup>1</sup></strong><em>I’ve stayed close to his steps</em> <em>	</em><em>	and kept to his ways without turning aside.</em></span>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> He'll do fulfill his plans;</span>
+<span class="verse" id="v12"><strong><sup>2</sup></strong><em>I haven’t veered off from his commands;</em> <em>	</em><em>	I’ve treasured up what he says more than food.</em></span>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> So I'm intimidated by him;</span>
+<span class="verse" id="v13"><strong><sup>3</sup></strong><em>But once he’s made up his mind, who can change it?</em> <em>	</em><em>	He’ll go ahead and do to me what he wants.</em></span>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> It's God that's made my heart faint,</span>
+<span class="verse" id="v14"><strong><sup>4</sup></strong><em>He’ll do fulfill his plans;</em><em>	</em> <em>	</em><em>	he has intentions for my whole destiny.</em></span>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> Yet the darkness doesn't silence me</span>
+<span class="verse" id="v15"><strong><sup>5</sup></strong><em>So I’m intimidated by him;</em> <em>	</em><em>	when I think about all this, it scares me.</em></span>
+
+<span class="verse" id="v16"><strong><sup>6</sup></strong><em>It’s God that’s made my heart faint,</em> <em>	</em><em>	the Almighty that’s terrified me.</em></span>
+
+<span class="verse" id="v17"><strong><sup>7</sup></strong><em>Yet the darkness doesn’t silence me</em> <em>	</em><em>	or the deep gloom that covers me.</em><strong>	</strong></span>
+<p class="section-ref">Job 23:8-17</p>
+
+
+<style>
+.verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
+.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
+.verse em { font-style: italic; }
+.verse strong sup { color: var(--secondary-color, #8b6914); }
+.section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+</style>

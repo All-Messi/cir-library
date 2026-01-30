@@ -10,5 +10,3 @@ weight: 19
 ## Psalms
 
 **150 Chapters**
-
-Select a chapter to begin reading:

@@ -1,14 +1,12 @@
 ---
 book: 1 Chronicles
-chapters: 29
+chapters: 28
 title: 1 Chronicles
-translation: CNT
+translation: COT
 type: book
 weight: 13
 ---
 
 ## 1 Chronicles
 
-**29 Chapters**
-
-Select a chapter to begin reading:
+**28 Chapters**

@@ -1,14 +1,12 @@
 ---
 book: Genesis
-chapters: 50
+chapters: 49
 title: Genesis
-translation: CNT
+translation: COT
 type: book
 weight: 1
 ---
 
 ## Genesis
 
-**50 Chapters**
-
-Select a chapter to begin reading:
+**49 Chapters**

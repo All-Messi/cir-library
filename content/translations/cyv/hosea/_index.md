@@ -10,5 +10,3 @@ weight: 28
 ## Hosea
 
 **14 Chapters**
-
-Select a chapter to begin reading:

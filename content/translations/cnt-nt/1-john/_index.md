@@ -10,5 +10,3 @@ weight: 62
 ## 1 John
 
 **5 Chapters**
-
-Select a chapter to begin reading:

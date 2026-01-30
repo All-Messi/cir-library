@@ -10,5 +10,3 @@ weight: 54
 ## 1 Timothy
 
 **6 Chapters**
-
-Select a chapter to begin reading:

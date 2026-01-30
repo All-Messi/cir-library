@@ -8,32 +8,51 @@ type: chapter
 weight: 21
 ---
 
-## John Chapter 21
+## John Chapter **21**
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> After that, Jesus appeared again to his disciples at Lake Tiberias. 2Simon Peter, Thomas, Nathanael from Cana in Galilee, Zebedee's sons, and two other disciples were together.</span>
+<span class="verse" id="v1"><strong><sup>1</sup></strong><strong>After this, Jesus appeared again to his disciples at the Sea of Tiberias.</strong><strong> </strong><strong>This is </strong><strong>what</strong><strong> happened.</strong><strong> </strong><strong><sup>2</sup></strong><strong>Together were Simon Peter, Thomas, Nathanael from Cana of Galilee, the sons of Zebedee, and two other disciples.</strong></span>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> Simon Peter saidp, "I'm going fishing." They went out and got in the boat, and that night didn't catch anything. 4When morning came, Jesus stood on the shore, but the disciples didn't know it was him.</span>
+<span class="verse" id="v3"><strong><sup>3</sup></strong><strong>Simon Peter said, </strong><strong><em>“I’m going fishing.”</em></strong> <strong>	</strong><strong><em>“We’ll go with you.”</em></strong> <strong>They went out and got in the boat, and that night they didn‘t catch anything.</strong><strong> </strong><strong><sup>4</sup></strong><strong>When morning was coming, Jesus stood on the shore, but the disciples did not know it was Jesus.</strong> <strong>	</strong><strong><sup>5</sup></strong><strong><em>“Children, you haven’t had anything to eat, have you?”</em></strong> <strong>	</strong><strong><em>“No.”</em></strong> <strong>	</strong><strong><sup>6</sup></strong><strong><em>“Cast the net on the right side of the boat and you’ll find some.”</em></strong> <strong>So they cast</strong><strong> it</strong><strong>, and they weren’</strong><strong>t strong enoug</strong><strong>h to haul it in because ot</strong><strong> the number of fish.</strong></span>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> The disciple Jesus loved saidp to Peter, "It's the Lord!" When Simon Peter heard that, he put on his outer garment (he'd stripped down) and dived into the lake. 8The rest of the disciples came in the small boat because they were only about 300 feet from shore, dragging the net full of fish. 9When they got out of the boat, they sawp a charcoal fire with a fish and a loaf laid on it.</span>
+<span class="verse" id="v7"><strong><sup>7</sup></strong><strong>The disciple Jesus loved said to Peter, </strong><strong><em>“It’s the Lord!”</em></strong> <strong>	When Simon Peter heard it was the Lord, he put on his outer garment </strong><strong>(he had stripped down) </strong><strong>and jumped in the sea.</strong><strong> </strong><strong><sup>8</sup></strong><strong>The other disciples came in the small boat, because they were not far from land—only about three hundred feet</strong><strong> away</strong><strong>, dragging the net full of fish.</strong><strong> </strong><strong><sup>9</sup></strong><strong>When they got out of the boat, they saw a charcoal fire laid with a fish and </strong><strong>a loaf</strong><strong> laid on it.</strong></span>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> Jesus toldp them, "Bring some of the fish you just caught."</span>
+<span class="verse" id="v10"><strong><sup>0</sup></strong><strong>Jesus told them, </strong><strong><em>“Bring some of the fish you just caught.”</em></strong></span>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> Simon Peter got up and pulled the net up onto land full of big fish—153. Although there were so many, the net didn't tear.</span>
+<span class="verse" id="v11"><sup><strong>11</strong></sup><strong>Simon Peter got up and drew the net </strong><strong>on</strong><strong>to land full of large fish—153; and though th</strong><strong>ere were so many, the net didn’</strong><strong>t tear.</strong></span>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> Jesus saidp, "Come eat breakfast." None of the disciples dared to ask him who he was; they knew it was the Lord. 13He gavep them the bread and fish. 14That was a third time Jesus appeared to his disciples after he resurrected.</span>
+<span class="verse" id="v12"><strong><sup>2</sup></strong><strong>Jesus said, </strong><strong><em>“Come and eat breakfast.”</em></strong> <strong>None of the disciples dared to ask him, </strong><strong><em>“Who are you?”</em></strong><strong><em> </em></strong><strong>They knew it was the Lord.</strong><strong> </strong><strong><sup>13</sup></strong><strong>Jesus came and took the bread and gave it to them, and the fish as well.</strong><strong> </strong><strong><sup>14</sup></strong><strong>This was </strong><strong>a</strong><strong> third time Jesus appeared to his disciples after being raised from the dead.</strong><strong> </strong></span>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> When they'd finished breakfast, Jesus saidp, "Simon Barjonah, do you love me more than these do?"</span>
+<span class="verse" id="v15"><strong><sup>5</sup></strong><strong>When they had finished breakfast, Jesus said </strong><strong>to</strong><strong> Peter, </strong><strong><em>“Simon, son of John, do you love me more than these do?”</em></strong> <strong>	</strong><strong><em>“Yes, Lord, you know I love you.”</em></strong> <strong>	</strong><strong><em>“Tend my lambs.”</em></strong><strong><em> </em></strong></span>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> He saidp the second time, "Simon Barjonah, do you love me?"</span>
+<span class="verse" id="v16"><strong><sup>6</sup></strong><strong>He said a second time, </strong><strong><em>“Simon, son of John, do you love me?”</em></strong> <strong>	</strong><strong><em>“Yes, Lord, you know I love you.”</em></strong> <strong>	</strong><strong><em>“Tend my sheep.”</em></strong><strong><em> </em></strong></span>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> He saidp the third time, "Simon Barjonah, do you love me?" It pained Peter that Jesus asked a third time, "Do you love me?" He saidp, "Lord, you know everything; you know I love you."</span>
+<span class="verse" id="v17"><strong><sup>7</sup></strong><strong>He said the third time, </strong><strong><em>“Simon, son of John, do you love me?”</em></strong> <strong>	Peter was pained that Jesus said a third time, </strong><strong><em>“Do you love me?” </em></strong><strong>and said, </strong><strong><em>“Lord, you know everything; you know I love you.”</em></strong></span>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> Jesus told him, "Tend my sheep. When you were younger, you'd get dressed and walk wherever you wanted to. When you get old, you'll stretch out your hands, and somebody else will dress you and carry you where you don't want to go." 19(He said that to indicate by what kind of death he would honor God.) When he'd said that, he told him. "Follow me."</span>
+<span class="verse" id="v18"><strong><sup>8</sup></strong><strong>Jesus said to him, </strong><strong><em>“Tend my sheep.</em></strong><strong><em> </em></strong><strong><em>I</em></strong><strong><em>’m</em></strong><strong><em> tell</em></strong><strong><em>ing</em></strong><strong><em> </em></strong><strong><em>you, when you were younger, you’</em></strong><strong><em>d dress yourself and walk</em></strong><strong><em> around</em></strong><strong><em> wherever you wanted to.</em></strong><strong><em> </em></strong><strong><em>When you get old, you’ll stretch out your hands, and somebody else will dress you and carry you where you don’t want to go.” </em></strong><strong><sup>19</sup></strong><strong>(He said this to </strong><strong>indicte</strong><strong> by what kind of death he would glorify God.)</strong><strong> </strong><strong>When he had said this, he said to him.</strong><strong> </strong><strong><em>“Follow me.”</em></strong></span>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> Peter turned around and sawp the disciple Jesus loved, following, the one that leaned back on Jesus' chest at the supper and asked, "Lord, who's going to betray you?" 21Peter saidp, "What about him?"</span>
+<span class="verse" id="v20"><strong><sup>0</sup></strong><strong>When Peter tur</strong><strong>ned around, he saw the disciple</strong><strong> Jesus loved, following, who had leaned back on Jesus’ chest at the supper and said, </strong><strong><em>“Lord, who’s the one that’s going to betray you?”</em></strong><strong><em> </em></strong><strong><sup>21</sup></strong><strong>When Peter saw him, he said, </strong><strong><em>“Lord, what about him?”</em></strong></span>
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> Jesus saidp, "If I want him to live till I come back, what's that to you? You follow me."</span>
+<span class="verse" id="v22"><strong><sup>2</sup></strong><strong>J</strong><strong>esus</strong><strong> said, </strong><strong><em>“If I want him to </em></strong><strong><em>live</em></strong><strong><em> till I come back, what’s that to you?</em></strong><strong><em> </em></strong><strong><em>You follow me.”</em></strong></span>
 
-<span class="verse" id="v23"><sup class="verse-num">23</sup> So the rumor got out among the believers that he wouldn't die. But Jesus didn't say he wouldn't die; he said, "If I want him to live till I come back, what's that to you?"</span>
+<span class="verse" id="v23"><strong><sup>3</sup></strong><strong>So the idea circulated among the brothers that he wouldn’t die.</strong><strong> </strong><strong>But Jesus </strong><strong>didn’t day he wouldn’t die; he </strong><strong>said, “If I want him to </strong><strong>live</strong><strong> till I come, what’s that to you?”</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>   </strong><strong> </strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>    </strong><strong> </strong><strong>    </strong></span>
+<p class="section-ref">Jn 21:1-23</p>
 
-<span class="verse" id="v24"><sup class="verse-num">24</sup> I'm the disciple that wrote this book. I know what I'm telling you is true. 25Jesus did a lot of other things too, but if every one was written down, I suppose the world couldn't hold all the books. Translator: Virgil Warren                                                                                                christir.org</span>
+### Epilogue
+
+
+<span class="verse" id="v24"><strong><sup>4</sup></strong><strong>This is the disciple</strong><strong> that </strong><strong>wrote down</strong><strong> these matters, and we know his witness is true.</strong></span>
+
+<span class="verse" id="v25"><strong><sup>5</sup></strong><strong>Jesus did many other things.</strong><strong> </strong><strong>If every one was written down, the world could</strong><strong>n’t</strong><strong> hold the books.</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>   </strong><strong> </strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>  </strong><strong>    </strong><strong> </strong></span>
+<p class="section-ref">Jn 21:24-25</p>
+
+### Translator: Virgil Warren, PhD								          christir.org
+
+
+
+<style>
+.verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
+.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
+.verse em { font-style: italic; }
+.verse strong sup { color: var(--secondary-color, #8b6914); }
+.section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+</style>

@@ -1,6 +1,6 @@
 ---
 book: Jeremiah
-chapters: 52
+chapters: 51
 title: Jeremiah
 translation: CYV
 type: book
@@ -9,6 +9,4 @@ weight: 24
 
 ## Jeremiah
 
-**52 Chapters**
-
-Select a chapter to begin reading:
+**51 Chapters**

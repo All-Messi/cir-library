@@ -10,5 +10,3 @@ weight: 55
 ## 2 Timothy
 
 **4 Chapters**
-
-Select a chapter to begin reading:

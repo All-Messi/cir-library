@@ -8,28 +8,47 @@ type: chapter
 weight: 3
 ---
 
-## Joel Chapter 3
+## Joel Chapter **3**
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> When I restore the fortunes of Judah and Jerusalem, 2I'll gather the nations to the Valley of Jehoshaphat and condemn them there on behalf of Israel, my permanent possession, my people. They scattered them among the nations, divided up my land, 3cast lots for my people, traded a boy for a prostitute, and sold a girl for wine to get drunk on. 4"What are you to me, Tyre, Sidon, Philistia? You think you're going to pay me back? If you try, I'll return it on your head swift and soon. 5You've stolen my silver and gold, taken my precious treasures into your temples, 6and sold Judah and Jerusalem to the Greeks to remove them far away. 7So I'm going to raise them up from where you sold them and pay you back on your own head. 8I'll sell your sons and daughters to Judah to sell to the Sabeans far away. I, Yahveh, have spoken."</span>
+<span class="verse" id="v1"><sup><strong>1</strong></sup><em>“When</em><em> I restore the fortunes of Judah and Jerusalem, </em><strong><sup>2</sup></strong><em>I’ll</em><em> gather the nations to the V</em><em>alley of Jehoshaphat</em><em> and</em><em> </em><em>condemn</em><em> them there on behalf of Israel, </em><em>my permanent possession, my people.</em><em> </em><em>T</em><em>hey scattered them among the nations, divided up my land, </em><strong><sup>3</sup></strong><em>cast</em><em> lots for my people, traded a boy for a </em><em>prostitute</em><em>, and </em><em>sold a girl for wine to get drunk on</em><em>.</em><em> </em> <strong><sup>4</sup></strong><em>“What</em><em> are you to </em><em>me,</em><em> Tyre,</em><em> Sidon</em><em>, </em><em>Philistia?</em><em> </em>You think <em>you’re </em><em>going to pay me back?</em><em> If you try, I’ll return it</em><em> on your head </em><em>swift</em><em> and soon</em><em>.</em><em> </em><strong><sup>5</sup></strong><em>Y</em><em>ou’ve</em><em> </em><em>stolen</em><em> my silver and gold, taken my precious treasures into your temple</em><em>s</em><em>, </em><strong><sup>6</sup></strong><em>and</em><em> sold </em><em>Judah and Jerusalem to the Greeks to remove the</em><em>m far away.</em><em> </em><strong><sup>7</sup></strong><em>So</em><em> I</em><em>’m going to raise them up from where you sold them and </em><em>pay you back on your own hea</em><em>d.</em><em> </em><strong><sup>8</sup></strong><em>I’ll</em><em> sell </em><em><u>your</u></em><em> sons and daughters to Judah</em><em> to</em><em> sel</em><em>l to the Sabeans far away.</em> <strong><sup>	</sup></strong><strong><sup>	</sup></strong>I, Yahveh, have spoken.”	<strong> </strong></span>
+<p class="section-ref">Joel 3:1-8</p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> Declare this among the nations: "Prepare for war; rouse the powerful; let the fighting men advance and engage.</span>
+<span class="verse" id="v9"><sup><strong>9</strong></sup>Declare this among the nations: <em>“</em><em>Prepare</em><em> for war; rouse the </em><em>powerful;</em> <em>	</em><em>l</em><em>et the fighting men advance</em><em> and engage</em><em>.</em></span>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> Beat your plowshares into swords, your pruning hooks into spears; have even the weak say, 'I'm a soldier now.'</span>
+<span class="verse" id="v10"><sup><strong>10</strong></sup><em>Beat</em><em> your plowshares into swords,</em> <em>	</em><em>	your pruning hooks into </em><em>spears;</em> <em>	have even the weak say, </em><em>‘</em><em>I’m a </em><em>soldier now</em><em>.</em><em>’</em></span>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> Come quickly, nations everywhere; gather there." Yahveh, bring out your soldiers! 12"Let the nations muster to the Valley of Jehoshaphat; that's where I'll pronounce judgment on them all.</span>
+<span class="verse" id="v11"><sup><strong>11</strong></sup><em>Come</em><em> quickly, nations </em><em>everywhere</em><em>;</em> <em>	gather there.”</em> Yahveh, bring out <u>your</u> soldiers! <strong><sup>12</sup></strong><em>“</em><em>Let</em><em> the nations muster to the Valley of </em><em>Jehoshaphat</em><em>;</em> <em>t</em><em>hat’s where I’ll pronounce judgment</em><em> on them all.</em><em>	</em></span>
+<p class="section-ref">Joel 3:9-12</p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> Use the sickle; the harvest is ripe. Come and tread; the winepress is full; the vats are overflowing with those people's sinfulness."</span>
+<span class="verse" id="v13"><sup><strong>13</strong></sup><em>Use</em><em> the sickle; the harvest is ripe.</em> <em>	Come and tread; the winepress is </em><em>full;</em> <em>	the vats are overflowing with </em><em>those people’s sinful</em><em>ness.”</em></span>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> Thousands upon thousands in the valley of decision! The day of Yahveh is near in the valley of decision!</span>
+<span class="verse" id="v14"><sup><strong>14</strong></sup><em>Thousands</em><em> upon thousands in the valley of decision!</em> <em>	</em><em>The day of </em><em>Yahveh</em><em> is near in the valley of decision!</em></span>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> The sun and moon will grow dark; the stars will quit shining.</span>
+<span class="verse" id="v15"><sup><strong>15</strong></sup><em>The</em><em> sun and moon will grow </em><em>dark;</em> <em>	the stars will quit shining.</em></span>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> Yahveh will roar out of Zion; he'll thunder from Jerusalem. Earth and sky will reverberate; Yahveh will be his people's refuge, a strong fortress for the sons of Israel.</span>
+<span class="verse" id="v16"><sup><strong>16</strong></sup><em>Yahveh</em><em> </em><em>will roar out of </em><em>Zion;</em> <em>	</em><em>	</em><em>	he’ll thunder from Jerusalem.</em> <em>	Earth and sky will </em><em>reverberate</em><em>;</em> <em>	</em><em>	</em><em>Yahveh</em><em> will be his people’s refuge,</em> <em>	</em><em>	a strong fortress for the sons of Israel.</em></span>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> Then you'll know I'm Yahveh your God, who lives on Zion, my holy mountain. So Jerusalem will be holy; foreigners will never overrun it again. Blessings for God's People 18"At that time, the mountains will drip with sweet wine; the hills will flow with milk. Water will run down the wadis in Judah; a spring will gush out of Yahveh's Temple and water the Valley of Shittim.</span>
+<span class="verse" id="v17"><sup><strong>17</strong></sup><em>Then</em><em> </em><em><u>you’ll know </u></em><em><u>I’m</u></em><em><u> </u></em><em><u>Yahveh</u></em><em><u> your God</u></em><em>,</em> <em>	who lives on Zion, </em><em>my</em><em> holy mountain.</em> <em>So</em><em> Jerusalem will be </em><em>holy;</em> <em>	foreigners will never overrun it again.</em><em>	</em></span>
+<p class="section-ref">Joel 3:13-17</p>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> Egypt will be a wasteland and Edom a desert because of their violence against Judah and the murder of its innocent people.</span>
+### Blessings for God’s People 18“At that time, the mountains will drip with sweet wine; 	the hills will flow with milk. Water will run down the wadis in Judah; 	a spring will gush out of Yahveh’s Temple  		and water the Valley of Shittim.
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> But people will live in Judah forever, in Jerusalem for all generations.</span>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> I'll avenge their blood that I haven't already avenged and make my home with them in Zion."</span>
+<span class="verse" id="v19"><sup><strong>19</strong></sup><em>Egypt</em><em> will be a wasteland</em> <em>	and Edom a desert</em> <em>	</em><em>	because of their violence against Judah</em> and the murder of its innocent people.</span>
+
+<span class="verse" id="v20"><sup><strong>20</strong></sup><em>But</em><em> people will live in Judah forever,</em> <em>	in Jerusalem for all generations.</em></span>
+
+<span class="verse" id="v21"><sup><strong>21</strong></sup><em>I’ll</em><em> avenge their blood that I</em><em> haven’t already </em><em>avenged</em> <em>	</em><em>and make my home with them</em><em> in Zion.”</em></span>
+<p class="section-ref">Joel 3:18-21</p>
+
+### Version by Virgil Warren: christir.org
+
+
+
+<style>
+.verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
+.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
+.verse em { font-style: italic; }
+.verse strong sup { color: var(--secondary-color, #8b6914); }
+.section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+</style>

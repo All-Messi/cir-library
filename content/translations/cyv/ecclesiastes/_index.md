@@ -10,5 +10,3 @@ weight: 21
 ## Ecclesiastes
 
 **12 Chapters**
-
-Select a chapter to begin reading:
