@@ -4,23 +4,6 @@ date: 2024-01-01
 draft: false
 ---
 
-<div class="about-author-section">
-<div class="author-text">
-
-## About the Author
-
-**Dr. Virgil Warren, PhD** has dedicated his life to Biblical scholarship and making Scripture accessible to modern readers. His work emphasizes *interpersonalism* — understanding Christianity through the lens of personal relationship with God and others.
-
-One author stands behind virtually everything the website presents. That fact correlates with our striving to achieve consistency and emphasizing ideas more than concentrating on who says what about which.
-
-</div>
-<div class="author-image">
-<img src="/cir-library/images/warren.jpg" alt="Dr. Virgil Warren and his wife">
-</div>
-</div>
-
----
-
 ## CIR: The Site
 
 Christian Internet Resources (CIR) presents its essays with the characteristics of personal relationship in mind: **interpersonalism (IP)**. That feature of the Christian worldview joins our personal creator to us and to each other, and provides for a systematic theology in website form. IP establishes the context for every topic and impacts the interpretation of scripture since the convictions about interpersonalism arise in the first place from revelation's self-consistent witness. The approach calls for all personal operations to operate in the mode of First and Second Great Commandments. Love as defined by the Golden Rule serves as the positive code word for all vertical and horizontal actions between persons.
