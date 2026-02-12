@@ -1,0 +1,14 @@
+# Hugo build output (GitHub Actions rebuilds this)
+public/
+
+# macOS
+.DS_Store
+
+# Hugo resources cache
+resources/_gen/
+
+# Editor files
+*.swp
+*~
+.idea/
+.vscode/
