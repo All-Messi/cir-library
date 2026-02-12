@@ -4,14 +4,14 @@ chapter: 56
 next: chapter-57
 prev: chapter-55
 title: Isaiah 56
-translation: COT
+translation: CNT
 type: chapter
 weight: 56
 ---
 
-## Isaiah Chapter **56**
+## Isaiah Chapter 56
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>The LORD says, <em>“Maintain </em><em>righteousness</em><em> and be </em><em>godly</em> <em>	</em><em>	because my salvation’</em><em>s </em><em>coming</em><em>;</em> <em>	</em><em>	</em><em>	my </em><em>deliverance</em><em> will </em><em>arrive</em><em>.</em></span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> The LORD says, <em>“Maintain </em><em>righteousness</em><em> and be </em><em>godly</em> <em>	</em><em>	because my salvation’</em><em>s </em><em>coming</em><em>;</em> <em>	</em><em>	</em><em>	my </em><em>deliverance</em><em> will </em><em>arrive</em><em>.</em></span>
 
 <span class="verse" id="v2"><strong><sup>2</sup></strong><em>They</em><em> are fortunate who</em><em> do that</em><em>,</em> <em>	</em><em>	</em><em>who</em><em> hold onto it,</em> <em>	</em><em>	</em><em>who</em><em> </em><em>honor</em><em> my</em><em> Sabbath</em> <em>	</em><em>	</em><em>	</em><em>and</em><em> do</em><em>n’t do</em><em> anything </em><em>sinful</em><em>.</em></span>
 
@@ -19,25 +19,17 @@ weight: 56
 
 <span class="verse" id="v4"><strong><sup>4</sup></strong>The LORD says, <em>“For</em><em> eunuchs that keep my Sabbaths</em><em> holy</em><em>,</em> <em>	</em><em>	</em><em>	</em><em>choose </em><em>to do</em><em> </em><em>what pleases me,</em> <em>	</em><em>	</em><em>	and keep my covenant—</em></span>
 
-<span class="verse" id="v5"><sup><strong>5</strong></sup><em>	</em><strong><sup>5</sup></strong><em>I’ll</em><em> </em><em>erect a memorial</em><em> in</em><em>side</em><em> my </em><em>Temple walls </em> <em>	</em><em>	</em><em>	and </em><em>inscribe on it </em><em>a name that’s better than </em><em>heirs.</em><em>	</em><strong> </strong></span>
-<p class="section-ref">Is 56:1-5</p>
+<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>	</em><strong><sup>5</sup></strong><em>I’ll</em><em> </em><em>erect a memorial</em><em> in</em><em>side</em><em> my </em><em>Temple walls </em> <em>	</em><em>	</em><em>	and </em><em>inscribe on it </em><em>a name that’s better than </em><em>heirs.</em><em>	</em><strong> </strong><strong>Is 56:1-5</strong></span>
 
-### 6“Foreigners that join me 			to minister to me, love and serve me, 			observe my Sabbaths, and keep my covenant—
+<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>	</em><strong><sup>7</sup></strong><em>I’ll</em><em> </em><em>bring</em><em> to my holy mountain</em> <em>	</em><em>	</em><em>	</em><em>and make happy in my Temple</em><em> </em><em>for</em><em> </em><em>prayer</em><em>;</em> <em>	</em><em>	I’ll accept their sacrifices and </em><em>burnt</em><em> offerings on my </em><em>altar;</em> <em>	</em><em>	</em><em>	I’ll make my Temple a house for prayer for all nations.”</em></span>
 
-
-<span class="verse" id="v7"><sup><strong>7</strong></sup><em>	</em><strong><sup>7</sup></strong><em>I’ll</em><em> </em><em>bring</em><em> to my holy mountain</em> <em>	</em><em>	</em><em>	</em><em>and make happy in my Temple</em><em> </em><em>for</em><em> </em><em>prayer</em><em>;</em> <em>	</em><em>	I’ll accept their sacrifices and </em><em>burnt</em><em> offerings on my </em><em>altar;</em> <em>	</em><em>	</em><em>	I’ll make my Temple a house for prayer for all nations.”</em></span>
-
-<span class="verse" id="v8"><sup><strong>8</strong></sup><em>	</em><strong><sup>8</sup></strong>The Lord GOD who brings back the dispersed from Israel, says, <em>	</em><em>	</em><em>	“Still others I’ll bring to those I’ve already gathered.”</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em></span>
-<p class="section-ref">Is 56:6-8</p>
-
-### Sinful Leaders Condemned
-
+<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>	</em><strong><sup>8</sup></strong>The Lord GOD who brings back the dispersed from Israel, says, <em>	</em><em>	</em><em>	“Still others I’ll bring to those I’ve already gathered.”</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><strong>Is 56:6-8</strong> <strong>Sinful Leaders</strong><strong> Condemned</strong></span>
 
 <span class="verse" id="v9"><strong><sup>9</sup></strong>All you wild animals in the field and forest, come and devour <em>my people</em>.<strong>	</strong></span>
 
 <span class="verse" id="v10"><strong><sup>10</sup></strong>The watchmen are blind; they don’t know what’s going on. They’re dogs that can’t bark, always lying around asleep, dreaming.</span>
 
-<span class="verse" id="v11"><strong><sup>11</sup></strong>They have huge appetites they can never satisfy; they’re shepherds that don’t know how to shepherd. They’ve all turned to their selfish interests, looking for personal profit. <strong><sup>12</sup></strong><em>“Come</em><em> on,” </em>they say,<em> “let’</em><em>s get some wine</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	and</em><em> </em><em>drink </em><em>lots of </em><em>alcohol;</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>t</em><em>omorrow let’s do </em><em>it again—and</em><em> more</em><em> so</em><em>.”</em>	<strong>Is</strong><strong> 56:</strong><strong>9</strong><strong>-12</strong></span>
+<span class="verse" id="v11"><strong><sup>11</sup></strong>They have huge appetites they can never satisfy; they’re shepherds that don’t know how to shepherd. They’ve all turned to their selfish interests, looking for personal profit.</span>
 
 
 <style>

@@ -9,7 +9,7 @@ type: chapter
 weight: 3
 ---
 
-## 2 Timothy Chapter **3**
+## 2 Timothy Chapter 3
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Now know this:  that in (the) last days hard times will-be-present.  <strong><sup>2</sup></strong>For [the] men will-be self-lovers, lovers-of-silver, boasters, arrogant, slanderers, disobedient to-parents, ungrateful, not-lovers-of-good, <strong><sup>3</sup></strong>lacking-natural-affection, heartless, malicious-gossiping-ones, without-self-control, vicious, not-loving-good, <strong><sup>4</sup></strong>treacherous, reckless, having-been-puffed-up-with-pride, lovers-of-pleasure rather than lovers-of-God, <strong><sup>5</sup></strong>having the/a form of-godliness but having-denyed the power of-it, and avoid these-(men).  <strong><sup>6</sup></strong>For out-of these are the-ones sneaking-into [the] houses and seducing morally-weak-women having-been-weighed-down with sins, led-on by-various desires, <strong><sup>7</sup></strong>always learning<sup>fem</sup>, and never able to-come to (a) knowledge of-(the)-truth.  <strong><sup>8</sup></strong>And in-the-same-way<sup>2</sup> Jannes and Jambres opposed Moses, so also these oppose the truth, men having-been-corrupted with-regard-to-the mind, rejected concerning the faith.  <strong><sup>9</sup></strong>But they-will┘not└progress on further, for the foolishness of-them will-be clear to-all, as also the (foolishness) of-those-(men) became (clear).</span>
 

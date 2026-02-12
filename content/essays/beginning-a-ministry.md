@@ -1,18 +1,20 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Topics
+- Essays
 - MINISTRY
 - Christian Ministry 101
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: BEGINNING A MINISTRY
 weight: 999
 ---
 
-BEGINNING A MINISTRY
 
-I.	Physical Matters
+
+
+<strong>	I.	Physical Matters</strong>
+
 
 A.	Changes of address on all mailings: periodicals, credit cards, friends and relatives you want to keep in contact with.
 
@@ -26,11 +28,16 @@ E.	Places to do business with:  grocery stores and the like, car repairs, banks
 
 F.	Schools
 
+
 Asking questions about these matters can be a way you use to meet neighbors and get acquainted with church people.
 
-II.	Church Matters
+
+
+<strong>II.	Church Matters</strong>
+
 
 Many ministry-related items should be taken care of before moving into the ministry: salary package, vacation guidelines, revival privileges, convention attendance, rules about performing weddings, use of facilities. There will be enough surprises on things you would never have guessed.
+
 
 A. Set up your office and work out the division of labor that exists with other people
 
@@ -42,7 +49,7 @@ C. Get lists of general and active membership as well as the personnel on commit
 
 D.	Call on the membership beginning with the elders and deacons and their families; the teachers, youth workers, Bible study leaders, musicians and other worship personnel; then the active membership, and lastly the relatively inactive members and friends of the congregation.
 
-E.	Do not start changing lots of things. A good rule of thumb is not to change anything major for a year, especially things that involved how other people make their contribution to the ministry of the congregation. A year allows you to establish credibility with church members so they will be confident that you have seen why things have been done the way they have; any change after that time is at least an informed change. They can see that you are not just changing things to be different or to communicate that you are in charge. Often there are reasons for doing things the way they do them that you would never understand until you get inside of the situation. Frankly, many changes ministers introduce are more for proving to themselves that they are in charge or that they can get people to follow them than for improving the quality of the church’s ministry. Too much change too quickly makes people uneasy especially in more stable communities because tradition provides security and a sense of knowing how to fit into the system.
+E.	<strong>Do not start changing lots of things.</strong> A good rule of thumb is not to change anything major for a year, especially things that involved how other people make their contribution to the ministry of the congregation. A year allows you to establish credibility with church members so they will be confident that you have seen why things have been done the way they have; any change after that time is at least an informed change. They can see that you are not just changing things to be different or to communicate that you are in charge. Often there are reasons for doing things the way they do them that you would never understand until you get inside of the situation. Frankly, many changes ministers introduce are more for proving to themselves that they are in charge or that they can get people to follow them than for improving the quality of the church’s ministry. Too much change too quickly makes people uneasy especially in more stable communities because tradition provides security and a sense of knowing how to fit into the system.
 
 If there are procedures that you think are unhealthy, you need to discuss them with the leadership before coming to the ministry. Without nearly so much disruption you can also make changes in the way you do your own things in contrast to the way previous ministers did them; people are more likely to see that as “your business.” When the time does come for making changes, try to add to what already exists rather than substitute for what is already being done. Approach change through personal influence before structural machinery. Bring people along with you, do not surprise people, and do not try to hurry the process unnaturally. In general, ministry depends on people’s being able to trust you; so concentrate on building trust. One “mess-up” will set you back farther than the extra time caution may lead you to use.
 
@@ -56,7 +63,7 @@ J.	Get acquainted with the funeral directors. Find out what customs are associat
 
 K.	Attend local functions: local college or vocational-technical institute, local high school and nearest grade schools.
 
-L.	Learn about the community organizations: Kiwanis, Rotary, Scouts, etc.
+L.	Learn about the community organizations: Kiwanis, Rotary, Scouts, <em>etc</em>.
 
 M. Locate community and professional services for referral purposes. By finding out what local agencies exist for welfare and social services, you protect yourself against getting “hit up” by transients, leeches, and the like. These kinds of people need to have ministry, too; but it is not best for you to leave the “ministry of the word” to serve tables. Other people including government services can do a better job with some of these you can anyway. You need to concentrate your time on people that can be taught and trained to turn around and do many of the more time-consuming things in church ministry.
 
@@ -68,11 +75,15 @@ P.	Piece together the friendship webs, relationship clusters, interest groups, a
 
 Q. Learn the history of the church–its founding, previous ministers, and the like. Keep an ear open for previous difficulties but be more than cautious in asking about them or otherwise showing too much interest in them. Let the difficulties of the past die, if they will, through lack of attention.
 
+
 In general, remember that in all probability there has been some difficulty in the previous ministry either because the minister did not use good judgment in his work or because there were problems in the congregation that he could not remedy or that were undoing his work. You will only find out the full extent of such disturbances after you have been their for a time. Do not identify yourself with either side of old (or new) controversies. Even if there has been an amiable close to the previous ministry, those who felt close to him may feel somewhat at a loss for a spiritual mentor, and it may be difficult for anyone else to fill that slot. Change creates anxiety and insecurity, which in turn produces behaviors that are counterproductive to your new ministry. Do not suppose that “honeymoon” will last forever.
 
 When you go to a church, go there with the feeling that you will minister there all your life. That approach will give you a mentality for long-term ministry and , and you will not be looking past this work to something more challenging or prestigious.
 
-III. 	Family matters
+
+
+<strong>III. 	Family matters</strong>
+
 
 A.	Spend extra time with your children. They are experiencing a lot of change and may feel insecure about their new environment. Acquaint them with the town. Give them opportunities to establish new friendships with kids at church, in the area, and at school. The idea here is “emotional time,” not just physical presence. A general problem of ministry can be aggravated at the beginning of a ministry: you can be at home but your mind and attention may be elsewhere “on your work.”
 
@@ -80,17 +91,23 @@ B.	Be considerate of your wife. As a minister’s wife she is more “on display
 
 One of the most neglected parts of a minister’s life is his family. If you do not have your marriage and family life reasonably well together, you do not have much you can do in ministry.
 
-V.	Community Matters
+
+
+<strong>	V.	Community Matters</strong>
+
 
 A.	Make yourself known in the community.  Find out how news spreads in the town and surrounding territory–items like local newspapers, radio stations, television station. Find out what access the church has to the media in making their ministry known to the general populace.
 
 B.	Find out the community needs by listening to the local media and reading the mail and the paper. This is important to keep from duplicating services already provided elsewhere and to discover unmet needs that can be used to make natural points of contact for the Christian message in the community.
 
-C. Locate the hospital, nursing homes, the jail, etc., and get acquainted with their personnel, programs, and schedule.
+C. Locate the hospital, nursing homes, the jail, <em>etc</em>., and get acquainted with their personnel, programs, and schedule.
 
-D.	Identify special interests in the area: rodeos, country music gatherings, sports activities, fairs, social events, etc.
+D.	Identify special interests in the area: rodeos, country music gatherings, sports activities, fairs, social events, <em>etc</em>.
 
-V.	Personal and Spiritual Matters
+
+
+<strong>	V.	Personal and Spiritual Matters</strong>
+
 
 A.	Spend time in meditation, prayer, study, and communion so that your emotional and spiritual requirements are adequately provided for. Early in a ministry especially, it is easy to go on general preparation and past preparations. Your old “sermon barrel” and general preparation will probably run out after a year or so at best. Meanwhile you have established an expectancy you cannot keep up and the quality of your preaching and teaching begins to drop.
 

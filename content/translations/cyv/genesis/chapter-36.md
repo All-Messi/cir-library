@@ -9,24 +9,23 @@ type: chapter
 weight: 36
 ---
 
-## Genesis Chapter **36**
+## Genesis Chapter 36
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>Esau’s (Edom’s) Generations</span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Esau’s (Edom’s) Generations</span>
 
 <span class="verse" id="v2"><strong><sup>2</sup></strong>Esau married Canaanite women: <u>Adah</u> Bat-Elon the Hittite; <u>Oholibamah</u> Bat-Anah Ben-Zibeon the Hivite; <strong><sup>3</sup></strong>and <u>Basemath</u>/<em>Mahalath</em> Bat-Ishmael, sister of Nebaioth. <strong><sup>4</sup></strong>Adah had Eliphaz; Basemath had Reuel, <strong><sup>5</sup></strong>Oholibamah had Jeush, Jalam, and Korah—all born in Canaan.</span>
 
-<span class="verse" id="v6"><sup><strong>6</strong></sup>Esau took his wives, sons, daughters, household, livestock, cattle, and goods he’d gained in Canaan, and moved to a territory away from Jacob. <strong><sup>7</sup></strong>Their livestock had become too much for the land to support them both. <strong><sup>8</sup></strong><strong><sup>-</sup></strong><strong><sup>9</sup></strong>Esau, ancestor of the Edomites, lived in the hill country of Seir.</span>
-<p class="section-ref">Gen 36:1-9</p>
+<span class="verse" id="v6"><sup class="verse-num">6</sup> Esau took his wives, sons, daughters, household, livestock, cattle, and goods he’d gained in Canaan, and moved to a territory away from Jacob. <strong><sup>7</sup></strong>Their livestock had become too much for the land to support them both. <strong><sup>8</sup></strong><strong><sup>-</sup></strong><strong><sup>9</sup></strong>Esau, ancestor of the Edomites, lived in the hill country of Seir. <strong>Gen 36:1-9</strong></span>
 
 <span class="verse" id="v10"><strong><sup>0</sup></strong>Esau’s sons <u>Eliphaz</u> by Adah, <u>Reuel</u> by Basemath, and (<strong><sup>11</sup></strong>Eliphaz was father of Teman, Omar, Zepho, Gatam, and Kenaz.</span>
 
-<span class="verse" id="v12"><sup><strong>12</strong></sup>Timna, the concubine of Eliphaz, had Amalek.) (<strong><sup>13</sup></strong>Reuel was father of Nahath, Zerah, Shammah, and Mizzah.)</span>
+<span class="verse" id="v12"><sup class="verse-num">12</sup> Timna, the concubine of Eliphaz, had Amalek.) (<strong><sup>13</sup></strong>Reuel was father of Nahath, Zerah, Shammah, and Mizzah.)</span>
 
 <span class="verse" id="v14"><strong><sup>14</sup></strong><u>Jeush</u>, <u>Jalam</u>, and <u>Korah</u> by Oholibamah.</span>
 
 <span class="verse" id="v15"><strong><sup>5</sup></strong>The chiefs descending from Esau’s sons (The sons of Eliphaz, Esau’s firstborn): Teman, Omar, Zepho, <strong><sup>16</sup></strong>Korah, Gatam, Amalek—descendants by Adah. (<strong><sup>17</sup></strong>The sons of Reuel, Esau’s son): Nahath, Zerah, Shammah, Mizzah—descendants by Basemath;</span>
 
-<span class="verse" id="v18"><sup><strong>18</strong></sup>Jeush, Jalam, Korah—descendants by Oholibamah Bat-Anah</span>
+<span class="verse" id="v18"><sup class="verse-num">18</sup> Jeush, Jalam, Korah—descendants by Oholibamah Bat-Anah</span>
 
 <span class="verse" id="v19"><strong><sup>9</sup></strong>Esau’s sons and their chiefs		  <strong>Gen</strong><strong> 36:10-19</strong> <strong>The Previous Inhabitants of Edom</strong></span>
 
@@ -50,7 +49,7 @@ weight: 36
 
 <span class="verse" id="v32"><strong><sup>32</sup></strong><u>Bela</u> Ben-Beor ruled over Edom; his city was Dinhabah. <strong><sup>33</sup></strong>He died, and <u>Jobab</u> Ben-Zerah from Bozrah ruled. <strong><sup>34</sup></strong>He died, and <u>Husham</u> from the land of the Teman ruled. <strong><sup>35</sup></strong>He died, and <u>Hadad</u> Ben-Bedad (who defeated Midian in Moab) ruled. <strong><sup>36</sup></strong>He died, and <u>Samlah</u> from Masrekah ruled. <strong><sup>37</sup></strong>He died, and <u>Shaul</u> from Rehoboth on the River <em>Euphrates </em>ruled. <strong><sup>38</sup></strong>He died; <u>Baal-hanan</u> Ben-Achbor ruled. <strong><sup>39</sup></strong>He died, and <u>Hadar</u> ruled. His city was Pau; his wife was Mehetabel Bat-Matred Bat-Mezahab.</span>
 
-<span class="verse" id="v40"><sup><strong>40</strong></sup>The chiefs that descended from Esau by family, locality, and name: Timna, Alvah, Jetheth, <strong><sup>41</sup></strong>Oholibamah, Elah, Pinon, <strong><sup>42</sup></strong>Kenaz, Teman, Mibzar, <strong><sup>43</sup></strong>Magdiel, and Iram</span>
+<span class="verse" id="v40"><sup class="verse-num">40</sup> The chiefs that descended from Esau by family, locality, and name: Timna, Alvah, Jetheth, <strong><sup>41</sup></strong>Oholibamah, Elah, Pinon, <strong><sup>42</sup></strong>Kenaz, Teman, Mibzar, <strong><sup>43</sup></strong>Magdiel, and Iram</span>
 
 
 <style>

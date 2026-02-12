@@ -10,3 +10,5 @@ weight: 36
 ## Zephaniah
 
 **3 Chapters**
+
+Select a chapter to begin reading:

@@ -1,17 +1,16 @@
 ---
 author: Virgil Warren
 categories:
-- Topics
+- Essays
 - MINISTRY
 - Sermons
 - Memorial Day Messages
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: What Do You Have That You Didn’t Receive?
 weight: 999
 ---
 
-What Do You Have That You Didn’t Receive?
 
 Lord, today we consider our place in the larger scheme of things, and so acknowledge you, first of all, as the beginning of all else besides you, the sustainer of all you have made, and the basis for the hope that stretches out before us. Amen
 
@@ -24,3 +23,4 @@ So we come to this day in this place and to the recognition of those who have pr
 Though we contribute to specific results we enjoy, that contribution is less than at first we might suppose. So our response to the situation is that of humility—not to think of ourselves more highly than we ought to think, gratitude—not to forget we are debtors, every one, and to resolve that we will not be a weak link in the chain of remembrance. We pay our heritage forward and provide in our legacy the difference between what we have received and what we have to give. Ours is the rest of the story. We must tell it well.
 
 christir.org
+

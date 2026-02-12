@@ -9,9 +9,9 @@ type: chapter
 weight: 13
 ---
 
-## Numbers Chapter **13**
+## Numbers Chapter 13
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup><strong>3</strong><strong><sup>:1</sup></strong>Yahveh told Moses, <strong><sup>2</sup></strong><em>“Send</em><em> </em><em>one leader from each tribe </em><em>to spy out Canaan</em><em> that</em><em> I’m </em><em>giving to</em><em> Israel.”</em></span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> <strong>3</strong><strong><sup>:1</sup></strong>Yahveh told Moses, <strong><sup>2</sup></strong><em>“Send</em><em> </em><em>one leader from each tribe </em><em>to spy out Canaan</em><em> that</em><em> I’m </em><em>giving to</em><em> Israel.”</em></span>
 
 <span class="verse" id="v3"><strong><sup>3</sup></strong>Moses sent out these leaders from Paran:</span>
 
@@ -44,27 +44,19 @@ weight: 13
 
 <span class="verse" id="v17"><strong><sup>7</sup></strong>He told them, <em>	“Go up in</em><em>to</em><em> the Negev, then </em><em>to</em><em> the hill country.</em><em> </em><strong><sup>18</sup></strong><em>See</em><em> what the land is like, how strong the people are, how many</em><em> there are. </em><strong><sup>19</sup></strong><em>S</em><em>ee</em><em> if the land is good or bad.</em><em> </em><em>See if the </em><em>towns</em><em> are like open camps or if they’re fortified.</em><em> </em><strong><sup>20</sup></strong><em>Is</em><em> the ground lush or with little vegetation?</em><em> </em><em>Do they have trees?</em><em> Bring back</em><em> some fruit.” </em> <em> </em>It was the season for the first-ripe grapes.</span>
 
-<span class="verse" id="v21"><sup><strong>21</strong></sup>They spied out the land from the Wilderness of Zin as far as Rehob to Lebo-hamath. <strong><sup>22</sup></strong>After they’d gone up to the Negev, they went to Hebron, where Ahiman, Sheshai, and Talmai, descendants of Anak, lived. (Hebron was</span>
-<p class="section-ref">built 7</p>
+<span class="verse" id="v21"><sup class="verse-num">21</sup> They spied out the land from the Wilderness of Zin as far as Rehob to Lebo-hamath. <strong><sup>22</sup></strong>After they’d gone up to the Negev, they went to Hebron, where Ahiman, Sheshai, and Talmai, descendants of Anak, lived. (Hebron was built 7 years before Zoan in Egypt.) <strong><sup>23</sup></strong>They went to the Valley of Eshcol and cut off a branch with a single cluster of grapes. They carried it on a pole between two men along with some pomegranates and figs. <strong><sup>24</sup></strong>They called that place The Valley of Eshcol because of the “cluster” of grapes they cut off there.</span>
+<p class="section-ref">Num 13:16-24</p>
 
-### years before Zoan in Egypt.) 23They went to the Valley of Eshcol and cut off a branch with a single cluster of grapes. They carried it on a pole between two men along with some pomegranates and figs. 24They called that place The Valley of Eshcol because of the “cluster” of grapes they cut off there. 	Num 13:16-24 The Report of the Spies
-
-
-<span class="verse" id="v25"><strong><sup>5</sup></strong>When they came back</span>
-<p class="section-ref">after 40</p>
-
-### days, 26they went to Moses, Aaron, and the whole community in the Wilderness of Paran, at Kadesh. They brought back their report and showed them the fruit from the land: 27“We went into the land, and it does flow with milk and honey. Here’s some of its fruit. 28But the people are strong, and the towns are fortified and big. Besides, we saw descendants of Anak there. 29Amalek lives in the Negev; the Hittites, Jebusites, and Amorites live in the hill country; and the Canaanites live by the sea and along the Jordan.”
+### The Report of the Spies
 
 
-<span class="verse" id="v30"><sup><strong>30</strong></sup>Caleb quieted the people in front of Moses, <em>“We should certainly </em><em>go up and take possession of it. W</em><em>e can conquer it.”</em></span>
+<span class="verse" id="v25"><strong><sup>5</sup></strong>When they came back after 40 days, <strong><sup>26</sup></strong>they went to Moses, Aaron, and the whole community in the Wilderness of Paran, at Kadesh. They brought back their report and showed them the fruit from the land:</span>
+
+<span class="verse" id="v30"><sup class="verse-num">30</sup> Caleb quieted the people in front of Moses, <em>“We should certainly </em><em>go up and take possession of it. W</em><em>e can conquer it.”</em></span>
 
 <span class="verse" id="v31"><strong><sup>1</sup></strong>But the men that had gone up with him said, <em>“We</em><em> can’t go up against the people. T</em><em>hey’re </em><em>too strong for us.”</em></span>
 
-<span class="verse" id="v32"><strong><sup>2</sup></strong>They gave the people a discouraging report, <em>“The land </em><em>overruns</em><em> </em><em>its people. They’</em><em>re big </em><em>people</em><em>.</em><em> </em><strong><sup>33</sup></strong><em>We</em><em> saw the Nephilim </em>[Descendants of Anak are one part of the Nephilim.]<em>;</em><em> we felt like grasshoppers, and that’s what we looked like to them.”</em><em>	</em></span>
-<p class="section-ref">Num 13:25-33</p>
-
-### The People Rebel
-
+<span class="verse" id="v32"><strong><sup>2</sup></strong>They gave the people a discouraging report, <em>“The land </em><em>overruns</em><em> </em><em>its people. They’</em><em>re big </em><em>people</em><em>.</em><em> </em><strong><sup>33</sup></strong><em>We</em><em> saw the Nephilim </em>[Descendants of Anak are one part of the Nephilim.]<em>;</em><em> we felt like grasshoppers, and that’s what we looked like to them.”</em><em>	</em><strong>Num 13:25-33</strong> <strong>The People Rebel</strong></span>
 
 
 <style>

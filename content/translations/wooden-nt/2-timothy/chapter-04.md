@@ -8,7 +8,7 @@ type: chapter
 weight: 4
 ---
 
-## 2 Timothy Chapter **4**
+## 2 Timothy Chapter 4
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>I-solemnly-charge (you) before [the] God and Christ Jesus, the-One going to-judge (the) living and (the) dead, and with-respect-to-the appearing of-him and the kingdom of-him:  <strong><sup>2</sup></strong>preach the word, be-ready in season (and) out-of-season; refute, rebuke, encourage with all longsuffering and teaching.  <strong><sup>3</sup></strong>For (the) time will-be when they-will┘not└put-up-with/endure [the] sound teaching; but according-to [the] their-own desires, they-will-accumulate for-themselves teachers itching<sup>nom</sup> with-respect-to-the what-they-hear, <strong><sup>4</sup></strong>and will-wander-off-from/turn-away-from the truth with-respect-to-the message, and will turn-aside to [the] myths.  <sup>5</sup>But <u>y</u><u>ou</u> be-self-controlled in all-things, suffer-hardship, do (the) work of-(an)-evangelist, fulfill the ministry of-you.</span>
 

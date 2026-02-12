@@ -4,18 +4,18 @@ chapter: 133
 next: chapter-134
 prev: chapter-132
 title: Psalms 133
-translation: COT
+translation: CNT
 type: chapter
 weight: 133
 ---
 
-## Psalms Chapter **133**
+## Psalms Chapter 133
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>It’s so good and pleasant for brothers to live together in peace.</span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> It’s so good and pleasant for brothers to live together in peace.</span>
 
-<span class="verse" id="v2"><sup><strong>2</strong></sup>It’s like precious <em>anointing </em>oil <strong><sup>	</sup></strong>running down like it did on Aaron’s beard and dripped on his robe.</span>
+<span class="verse" id="v2"><sup class="verse-num">2</sup> It’s like precious anointing oil running down like it did on Aaron’s beard and dripped on his robe.</span>
 
-<span class="verse" id="v3"><sup><strong>3</strong></sup>It’s like the dew from <em>Mount </em>Hermon <strong><sup>	</sup></strong>that falls on the hills around <em>Mount </em>Zion; <em>	</em>the LORD commanded the blessing there—eternal life.</span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> It’s like the dew from Mount Hermon that falls on the hills around Mount Zion; the LORD commanded the blessing there—eternal life.</span>
 <p class="section-ref">Ps 133:1-3</p>
 
 

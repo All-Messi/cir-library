@@ -9,9 +9,9 @@ type: chapter
 weight: 15
 ---
 
-## Isaiah Chapter **15**
+## Isaiah Chapter 15
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>Oracle About Moab Moab will be ruined because Ar and Kir will be wiped out overnight.</span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Oracle About Moab Moab will be ruined because Ar and Kir will be wiped out overnight.</span>
 
 <span class="verse" id="v2"><strong><sup>2</sup></strong>The people of Dibon will go up to their temple and high places to weep. Moab will mourn over Nebo and Medeba; everyone’s head will be bald, and their beard shaved off.</span>
 

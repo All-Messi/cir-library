@@ -9,11 +9,11 @@ type: chapter
 weight: 9
 ---
 
-## Hebrews Chapter **9**
+## Hebrews Chapter 9
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>So the first (covenant) used-to-have ordinances of-divine-service and the/a worldly/earthly sanctuary.  <strong><sup>2</sup></strong>For the first tabernacle was-prepared on which (were) both the candelabra and the table and the presentation of-the loaves, which is-called “(The) Holy Place.”</span>
 
-<span class="verse" id="v3"><sup><strong>3</strong></sup>And behind the second curtain (was a) tabernacle [the] called “(The) Holy of-Holies,” <strong><sup>4</sup></strong>having (a) golden altar-of-service and the ark of-the covenant covered-over everywhere with-gold, in which was (a) golden jar having [the] manna, and the rod of-Aaron—the-one having-sprouted, and the tablets of-the covenant, <strong><sup>5</sup></strong>and above it cherubs of-glory overshadowing the mercy-seat, concerning which-things to-speak is not now according-to part.</span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> And behind the second curtain (was a) tabernacle [the] called “(The) Holy of-Holies,” <strong><sup>4</sup></strong>having (a) golden altar-of-service and the ark of-the covenant covered-over everywhere with-gold, in which was (a) golden jar having [the] manna, and the rod of-Aaron—the-one having-sprouted, and the tablets of-the covenant, <strong><sup>5</sup></strong>and above it cherubs of-glory overshadowing the mercy-seat, concerning which-things to-speak is not now according-to part.</span>
 
 <span class="verse" id="v6"><strong><sup>6</sup></strong>Now these-things thus having-been-prepared, the priests enter into the first tabernacle through-all/continually<sup>2</sup> every-day fulfilling the services <strong><sup>7</sup></strong>but into the second (tabernacle) once during-the-year only the high-priest (enters), not without blood that he-offers for himself and the ignorances/sins of-the people, <strong><sup>8</sup></strong>the Holy Spirit making evident that they way of-the (Holy of) Holies not-yet to-have-been-made-manifest, the first tabernacle having standing/existence, <strong><sup>9</sup></strong>which (is a) picture for the having-stood/present/standing [the] season, according-to which both gifts and sacrifices are-being-offered not-being-able according-to (the) conscience to-make┘the/a worshiping-one└perfect, <strong><sup>10</sup></strong>(being) only on meats and drinks and various washings, ordinances of-flesh put-in-place until (the) time of-reformation.</span>
 

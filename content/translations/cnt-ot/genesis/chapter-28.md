@@ -4,33 +4,28 @@ chapter: 28
 next: chapter-29
 prev: chapter-27
 title: Genesis 28
-translation: COT
+translation: CNT
 type: chapter
 weight: 28
 ---
 
-## Genesis Chapter **28**
+## Genesis Chapter 28
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Isaac called Jacob, blessed him, and charged him, <em>“Don’t marry a </em><em>Canaan</em><em>ite</em><em>.</em><em> </em><strong><sup>2</sup></strong><em>Go to Pad</em><em>dan-aram, to Bethuel your mother’s father, and </em><em>choose</em><em> a </em><em>wife</em><em> from Laban your uncle.</em><em> </em><strong><sup>3</sup></strong><em>May God Almighty </em>[El-Shaddai]<em> </em><em>bless you </em><em>and </em><em>make you </em><em>numerous </em><em>so you’ll become a </em><em>group</em><em> of </em><em>nation</em><em>s.</em><em> </em><strong><sup>4</sup></strong><em>May he give you </em><em>and your descendants Abraham’s blessing so you’ll</em><em> </em><em>receive the land where you’ve lived as a nomad, </em>the land<em> </em><em>God gave Abraham.</em><em>”</em></span>
 
-<span class="verse" id="v5"><sup><strong>5</strong></sup>Isaac sent Jacob to Paddan-aram, to Laban son of Bethuel the Aramean. <strong>E</strong><strong>sau Marries an Ishmaelite</strong></span>
+<span class="verse" id="v5"><sup class="verse-num">5</sup> Isaac sent Jacob to Paddan-aram, to Laban son of Bethuel the Aramean. <strong>E</strong><strong>sau Marries an Ishmaelite</strong></span>
 
-<span class="verse" id="v6"><sup><strong>6</strong></sup>Esau saw that Isaac had blessed him, sent him to Paddan-aram to find a wife, and charged him not<em> </em>to marry a<em> </em>Canaanite<em>.</em> <strong><sup>7</sup></strong>He saw that Jacob had obeyed his parents <strong><sup>8</sup></strong>and that Isaac didn’t like Canaanite women. <strong><sup>9</sup></strong>So he went to Ishmael and—besides the wives he had—married Ishmael’s daughter Mahalath/<em>Bashemath</em>, sister of Nebaioth.</span>
+<span class="verse" id="v6"><sup class="verse-num">6</sup> Esau saw that Isaac had blessed him, sent him to Paddan-aram to find a wife, and charged him not<em> </em>to marry a<em> </em>Canaanite<em>.</em> <strong><sup>7</sup></strong>He saw that Jacob had obeyed his parents <strong><sup>8</sup></strong>and that Isaac didn’t like Canaanite women. <strong><sup>9</sup></strong>So he went to Ishmael and—besides the wives he had—married Ishmael’s daughter Mahalath/<em>Bashemath</em>, sister of Nebaioth.</span>
 <p class="section-ref">Gen 28:1-9</p>
 
 ### Jacob’s Dream
 
 
-<span class="verse" id="v10"><sup><strong>10</strong></sup>Jacob left Beersheba and set out for Haran. <strong><sup>11</sup></strong>After sundown he stopped for the night and lay down with a stone under his head. <strong><sup>12</sup></strong>He dreamed that a ladder was set up on the earth with its top in the sky. God’s angels were climbing up and down on it. <strong><sup>13</sup></strong>The LORD stood at the top of it and said, <em>“</em><em><u>I’m the </u></em><em>L</em><em>ORD</em><em> God of Abraham and </em><em>your father </em><em>Isaac.</em><em> </em><em>I’ll give you and your descendants the gro</em><em>und you’</em><em>re lying on.</em><em> </em><strong><sup>14</sup></strong><em>They’ll be like the dust on</em><em> the </em><em>ground</em><em> and spread out </em><em>in every direction</em><em>.</em><em> In y</em><em>ou and your descendant</em><em>s, I will bless all the families in</em><em> the world.</em><em> </em><strong><sup>15</sup></strong><em>I’ll protect you</em><em> wherever you go, and bring you back </em><em>here. I won’t leave you till I’ve done what I’ve promised</em><em>.”</em></span>
+<span class="verse" id="v10"><sup class="verse-num">10</sup> Jacob left Beersheba and set out for Haran. <strong><sup>11</sup></strong>After sundown he stopped for the night and lay down with a stone under his head. <strong><sup>12</sup></strong>He dreamed that a ladder was set up on the earth with its top in the sky. God’s angels were climbing up and down on it. <strong><sup>13</sup></strong>The LORD stood at the top of it and said, <em>“</em><em><u>I’m the </u></em><em>L</em><em>ORD</em><em> God of Abraham and </em><em>your father </em><em>Isaac.</em><em> </em><em>I’ll give you and your descendants the gro</em><em>und you’</em><em>re lying on.</em><em> </em><strong><sup>14</sup></strong><em>They’ll be like the dust on</em><em> the </em><em>ground</em><em> and spread out </em><em>in every direction</em><em>.</em><em> In y</em><em>ou and your descendant</em><em>s, I will bless all the families in</em><em> the world.</em><em> </em><strong><sup>15</sup></strong><em>I’ll protect you</em><em> wherever you go, and bring you back </em><em>here. I won’t leave you till I’ve done what I’ve promised</em><em>.”</em></span>
 
-<span class="verse" id="v16"><sup><strong>16</strong></sup>Jacob woke up and said, <em>“T</em><em>he </em><em>L</em><em>ORD</em><em> is </em><em>certainly </em><em>here</em><em>,</em><em> and I didn’t know it.”</em><em> </em><strong><sup>17</sup></strong>He was afraid,<em> </em><em>“T</em><em>his place is</em><em> awesome</em><em>!</em><em> It’s nothing but ‘God’s house’ </em><em>and </em><em>heaven’s door</em><em>.”</em><em>  </em><em>	</em></span>
-<p class="section-ref">Gen 28:10-17</p>
+<span class="verse" id="v16"><sup class="verse-num">16</sup> Jacob woke up and said, <em>“T</em><em>he </em><em>L</em><em>ORD</em><em> is </em><em>certainly </em><em>here</em><em>,</em><em> and I didn’t know it.”</em><em> </em><strong><sup>17</sup></strong>He was afraid,<em> </em><em>“T</em><em>his place is</em><em> awesome</em><em>!</em><em> It’s nothing but ‘God’s house’ </em><em>and </em><em>heaven’s door</em><em>.”</em><em>  </em><em>	</em><strong>Gen 28:10-17</strong></span>
 
-<span class="verse" id="v18"><sup><strong>18</strong></sup>He got up early and took the stone that was under his head, set it up as a marker, and poured olive oil on it. <strong><sup>19</sup></strong>He called the place Bethel (named Luz before) <strong><sup>20</sup></strong>and vowed, <em>“If God</em><em> protect</em><em>s</em><em> me on this trip, give</em><em>s</em><em> me food and clothes, </em><strong><sup>21</sup></strong><em>and brings</em><em> </em><em>me back </em><em>to my father’s </em><em>family</em><em> safely, then </em><em>the </em><em>L</em><em>ORD</em><em> will be my God.</em><em> </em><strong><sup>22</sup></strong><em>This stone will be </em><em>‘</em><em>God’s house,</em><em>’</em><em> and I’ll give </em><em>him a tenth of what he gives</em><em> me.”</em><em>    </em><em>	     </em></span>
-<p class="section-ref">Gen 28:18-22</p>
-
-### Jacob Marries Leah and Rachel
-
+<span class="verse" id="v18"><sup class="verse-num">18</sup> He got up early and took the stone that was under his head, set it up as a marker, and poured olive oil on it. <strong><sup>19</sup></strong>He called the place Bethel (named Luz before) <strong><sup>20</sup></strong>and vowed, <em>“If God</em><em> protect</em><em>s</em><em> me on this trip, give</em><em>s</em><em> me food and clothes, </em><strong><sup>21</sup></strong><em>and brings</em><em> </em><em>me back </em><em>to my father’s </em><em>family</em><em> safely, then </em><em>the </em><em>L</em><em>ORD</em><em> will be my God.</em><em> </em><strong><sup>22</sup></strong><em>This stone will be </em><em>‘</em><em>God’s house,</em><em>’</em><em> and I’ll give </em><em>him a tenth of what he gives</em><em> me.”</em><em>    </em><em>	     </em><strong>Gen 28:18-22</strong> <strong>Jacob Marries Leah and Rachel</strong></span>
 
 
 <style>

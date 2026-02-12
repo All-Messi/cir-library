@@ -1,15 +1,17 @@
 ---
 author: Virgil Warren, PhD
 categories:
+- Essays
+- Topics
 - Greek Features
 - GreeKVOCPRJ
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: VERBS
 weight: 999
 ---
 
-VERBS
+
 
 Compounds, types of (not including morpheme-root combinations)
 
@@ -29,6 +31,7 @@ preposition + preposition + _______
 
 preposition + preposition + _______ + _______
 
+
 Contract verbs
 
 α-contract
@@ -37,7 +40,9 @@ Contract verbs
 
 ο-contract
 
+
 Enclitics
+
 
 Governance
 
@@ -56,6 +61,7 @@ genitive or accusative  [ajkouvw, ajnevcomai, a[rcomai, geuvomai, ejpiqumevw, kr
 genitive and accusative objects at the same time [kathgorevw, pivmplhmi, plhrovw]
 
 dative or accusative  [;diakonevw, latreuvw, proskunevw, cravomai]
+
 
 Inflection considerations
 
@@ -83,6 +89,7 @@ augment of prefixed preposition  [very rare]
 
 double augment
 
+
 reduplication
 
 vowel-initial perfects with syllabic reduplication  [ajkouvwajkhvkoa]
@@ -95,25 +102,28 @@ w-verbs
 
 mi-verbs
 
+
 Impersonal  [dei', crh'/]
+
 
 Principle parts
 
-defective  vs.
+defective  <strong>vs.</strong>
 
 deponent verbs (lacking a voice form in the dictionary form , 2, 3,4, 6 principal
 
 part)
 
-first deponents (lacking one voice form)  vs.
+first deponents (lacking one voice form)  <strong>vs.</strong>
 
 second deponents (lacking two voice forms in the future or aorist tenses, that is, lacking the second and/or third and/or fourth principal part altogether)
 
-labial stems (p b f pt)  vs.
 
-dental stems ([no plain t stems]  d q z )  vs.
+labial stems (p b f pt)  <strong>vs.</strong>
 
-guttural stems (k g c ss  tt sk, and some z roots)  vs.
+dental stems ([no plain t stems]  d q z )  <strong>vs.</strong>
+
+guttural stems (k g c ss  tt sk, and some z roots)  <strong>vs.</strong>
 
 nasal stems [note futures and first aorists]
 
@@ -121,37 +131,44 @@ nasal stems [note futures and first aorists]
 
 -aivnw
 
-regular  [having competely predictable changes across the principal parts] vs.
 
-irregular  [having merely unpredictable changes across the principal parts] vs.
+regular  [having competely predictable changes across the principal parts] <strong>vs.</strong>
+
+irregular  [having merely unpredictable changes across the principal parts] <strong>vs.</strong>
 
 suppletive [having principal parts from entirely different roots]
 
+
 liquid futures  [futures in l and r]
 
-first-aorist  vs.
 
-first aorist not showing s  [mevnw  e[meina] vs.
+first-aorist  <strong>vs.</strong>
 
-aorists with -ka   vs.
+first aorist not showing s  [mevnw  e[meina] <strong>vs.</strong>
 
-second-aorist  vs.
+aorists with -ka   <strong>vs.</strong>
 
-first- and second-aorist forms, having both   vs.
+second-aorist  <strong>vs.</strong>
+
+first- and second-aorist forms, having both   <strong>vs.</strong>
 
 root aorists [e[bhn < ba-, present = baivnw]
 
-first perfects  vs.
 
-second perfects   vs.
+first perfects <strong> vs.</strong>
+
+second perfects  <strong> vs.</strong>
 
 perfect form with present meaning [oi\da]
 
-first-aorist passives vs. second-aorist passives
+
+first-aorist passives <strong>vs.</strong> second-aorist passives
+
 
 building up roots by adding corresponding nasal + avnw  [la(m)b(avnw) < lab;
 
 tu(g)c(avnw) < tuc]
+
 
 Reduplication
 
@@ -161,15 +178,19 @@ perfects  [see under "Inflection considerations"]
 
 presents:  divdwmi, i{sthmi, tivqhmi, pipravzw, gignwvskw, giv(g)nomai
 
+
+
 Root  [Metzger Lex Aids, 49; Trenchard Voc Guide, 5]
 
-Transitive vs. intransitive
 
-Word Formation:  Meaning Classification
+Transitive <strong>vs.</strong> intransitive
 
-Action verbs vs.
 
-linking verbs  [eijmiv, giv(g)nomai, uJpavrcw]  vs.
+<strong>Word Formation:  Meaning Classification</strong>
+
+Action verbs <strong>vs.</strong>
+
+linking verbs  [eijmiv, giv(g)nomai, uJpavrcw]  <strong>vs.</strong>
 
 fientive verbs [verbs equal to a linking verb + predicate adjective; null category in
 
@@ -183,7 +204,8 @@ desideratives:  -seivw, avw, iavw
 
 inchoatives [ingressive, or beginning of a state or action]
 
-Word Formation:  Morpheme Classification
+
+<strong>Word Formation:  Morpheme Classification</strong>
 
 a-privatives
 
@@ -246,3 +268,4 @@ ajrci-, dus-, euj-, hJmi-, nh-,
 -uvrw [denominatives]
 
 -w
+

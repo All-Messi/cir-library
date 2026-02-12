@@ -1,18 +1,21 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Topics
+- Essays
 - MINISTRY
 - Christian Ministry 101
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: MAKING APPLICATION FOR MINISTRY
 weight: 999
 ---
 
-MAKING APPLICATION FOR MINISTRY
 
-I. Cover Letter
+
+
+
+<strong>I. Cover Letter</strong>
+
 
 Applying for a ministry can have two written aspects beyond any (a) verbal contacts with the prospective church by phone or otherwise. The first is a (b) cover letter and the second is a (c) resumé. In the cover letter you can indicate how you became aware of the opening and why you are interested in the job. Depending on the circumstance, you may reinforce your interest in that ministry by relating you background briefly as well as the reason for your sense of calling to ministry. You may include some statement about your family’s commitment with you to this work. Giving a general statement of faith helps those who review applications know where you are doctrinally. They will want to know about your view of the nature and work of Christ, the nature of scripture, the process of salvation, and so forth. Christian churches will be interested in your commitment to the restoration plea. Giving your concept of ministry may also be useful. In the statement of background applicants may give an account of their conversion, especially if they became Christians after their high school years.
 
@@ -22,7 +25,11 @@ Since the resumé contains objective information without comment, you may use th
 
 As a general safeguard against unintentional omissions, offer to furnish orally or in writing any additional information, including a transcript of your college work (legally they will not be able to get a transcript except through you).
 
-II. Resumé
+
+
+
+<strong>II. Resumé</strong>
+
 
 In addition to the cover letter, a resumé has become traditional. Whereas the above item has the form of a letter with full sentences and paragraph layout, a resumé has the form of an outline, or listing, organized under main headings with sub-entries. Usually it differs from a strict outline in not using Roman numerals, capital and lower-case numbers and letters before the headings and sub-entries.
 
@@ -36,11 +43,19 @@ Select references who relate to you in various ways so the committee can get dif
 
 As a final entry in your application, include a recent photograph of yourself and if possible a picture of your spouse (and family).
 
-RESUMÉ FOR BIBLE COLLEGE GRADUATE
+
+
+
+
+<strong>RESUMÉ FOR BIBLE COLLEGE GRADUATE</strong>
+
 
 POSITION OBJECTIVE: ministry with a congregation desiring to strengthen its educational program
 
+
+
 PERSONAL
+
 
 Address:	James R. Dobbins	Health: Excellent
 
@@ -48,33 +63,48 @@ Address:	James R. Dobbins	Health: Excellent
 
 Manhattan, Kansas 66502
 
+
 Phone:	(913) 539-3571	Marital Status: Married (no children)
+
 
 Home Address:	707 S. Jefferson Street	Age:      24 (born August 27, l966)
 
 Stillwell, Kansas 67721
 
+
+
 EDUCATIONAL
+
 
 A. B. Bible/Christian Education (Spring, l991); Manhattan Christian College, Manhattan, 				Kansas; 3.25 GPA
 
+
 One semester’s study at Barton County Community College, Fall, l986
 
+
+
 VALUABLE COLLEGE EXPERIENCES
+
 
 Weekend youth ministry, August, l990 to June, 1991; Lenexa Christian Church, Lenexa, 			Kansas. Responsibilities included calling, preparing youth lessons for senior high 			youth group, teaching junior high Sunday school, organizing youth activities
 
 Gospel Team captain for two years: l987-l988 and l988-l989 school years. Responsi- 			bilities including liaison work between churches and the gospel team, scheduling, 			making arrangements for travel, housing, and the like.
 
+
+
 WORK EXPERIENCE
 
-Summer, l990	 Gibson’s Discount Center, 2219 East 6th, Stillwater, Oklahoma. 				   Full-time stocker
+
+Summer, l990	 Gibson’s Discount Center, 2219 East <sup>6</sup>th, Stillwater, Oklahoma. 				   Full-time stocker
 
 Summer, l989    Hardee’s Restaurant, 606 N. Manhattan, Manhattan, Kansas. Full-time 			              cook.
 
 Summer, l987 and l988 Brewer Motor Company, 606 N. Poyntz, Manhattan, Kansas. 			              Full-time sales assistant.
 
+
+
 COLLEGE EXTRA-CURRICULAR ACTIVITIES AND HONORS
+
 
 Junior class President
 
@@ -86,7 +116,11 @@ Who’s Who Among College Students (1991)
 
 Sunday School Teach at Crestview Christian Church, Manhattan, Kansas
 
+
+
+
 REFERENCES
+
 
 Mr. Hiram Cassel
 
@@ -100,6 +134,7 @@ Manhattan, Kansas 66502
 
 Ph. (913) 539-5031
 
+
 Mr. John Brewer
 
 Sales Manager              (my supervisor while I worked at Brewer Motor Company)
@@ -111,6 +146,7 @@ Brewer Motor Company
 Manhattan, Kansas 66502
 
 Ph. (913) 539-3328
+
 
 Mr. James Conway
 
@@ -124,9 +160,45 @@ Manhattan, Kansas 66502
 
 Ph. (913) 776-3798
 
-BIOGRAPHICAL DATA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<strong>BIOGRAPHICAL DATA</strong>
+
+
+
 
 PERSONAL
+
 
 Born:	September 25, l942
 
@@ -142,7 +214,9 @@ Tara Daun, born November 3, l968
 
 Donna Michelle, born February 1, l977
 
+
 EDUCATIONAL
+
 
 Public Schools, Guilford (grades 1-9) and Lawrenceburg, Indiana (9-12), l948-l960
 
@@ -158,7 +232,9 @@ Graduate Study, Louisville Presbyterian Theological Seminary, 1975; Indiana Univ
 
 Ph.D., The Southern Baptist Theological Seminary, 1977
 
+
 MINISTERIAL
+
 
 Board of Elders and Deacons, The Lawrenceburg Christian Church, Lawrenceburg, Indiana, 		1965-1968
 
@@ -170,11 +246,17 @@ Guitarist for Missionary Broadcasts of The Southeast Asia Evangelizing Associati
 
 Minister of the Maryville Church of Christ, Louisville, Kentucky, 1974-1977
 
+
 ACADEMIC
+
 
 Assistant to R. C. Foster, Head of Bible Department, The Cincinnati Bible Seminary, 		1963-1968
 
 Student Instructor in Greek, English, and Biblical Theology, The Cincinnati Bible Seminary, 		1964-1968
+
+
+
+
 
 Graduate Assistant to Merrill C. Tenney, Dean of the Graduate School, Wheaton College, 		1968-1971
 
@@ -184,7 +266,9 @@ Professor of Theology, Manhattan Christian College, 1977-
 
 Courses taught: Written Composition I & II, Introduction to Greek I & II, 		Intermediate Greek Readings and Syntax I & II, Advanced Greek I & II, Introduction to Hebrew I & II, Advanced Hebrew I & II, Critical Introduction to the Old Testament, Critical Introduction to the New Testament, Introduction to Bible Study, Interpretation, Eighth Century Prophets, Hebrew Wisdom Literature, Salvation, Apologetics, Basic Christianity, Gifts of the Spirit, Epistles I & II, Life and Teachings of Jesus I & II; Christian Ministries Seminars CM 101, 102, 103, 104, 105, 106; Theology Seminar
 
+
 ORGANIZATIONAL
+
 
 Delta Aleph Tau, The Cincinnati Bible Seminary Honorary Society, 1967-
 
@@ -218,7 +302,9 @@ Associates for Biblical Research, 1983-
 
 Who’s Who in Biblical Studies and Archaeology (1st Edition)
 
+
 PUBLICATION
+
 
 What the Bible Says About Salvation. Joplin, Missouri: College Press, 1982.
 
@@ -227,3 +313,4 @@ Articles for Christian Standard, Lookout, and Straight published by Standard Pub
 Video-tape series of 13 x 1/2 hour presentations entitled Building Life on a Firm Foundation: 		Studies in the Sermon on the Mount. Good News Productions, Int’l; Joplin, 		Missouri, 1984
 
 Basic Christianity (39 x 1/2 hour tapes) GNPI, 1985
+

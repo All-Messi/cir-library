@@ -4,12 +4,12 @@ chapter: 15
 next: chapter-16
 prev: chapter-14
 title: Exodus 15
-translation: COT
+translation: CNT
 type: chapter
 weight: 15
 ---
 
-## Exodus Chapter **15**
+## Exodus Chapter 15
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Then Moses and the Israelites sang this song to the LORD: <em>“I’ll sing to the </em><em>L</em><em>ORD</em><em> because he’s triumphed gloriously;</em> <em>	</em><em>	he’s thrown t</em><em>he horse and its rider into the sea.</em></span>
 
@@ -45,21 +45,15 @@ weight: 15
 
 <span class="verse" id="v17"><strong><sup>7</sup></strong><em>You’</em><em>ll </em><em>take</em><em> them and plan</em><em>t them in the mountain </em> <em>	</em><em>	in</em><em> your </em><em>permanent possession</em><em>,</em> <em>	</em><em>	where you’</em><em>ve made</em><em> yourself a place</em><em> </em><em>to live</em><em>.</em></span>
 
-<span class="verse" id="v18"><strong><sup>8</sup></strong><em>The </em><em>L</em><em>ORD</em><em> will reign </em><em>forever</em><em>.”</em><em>	  </em><em>	</em><em>	                    </em></span>
-<p class="section-ref">Ex 15:1-18</p>
+<span class="verse" id="v18"><strong><sup>8</sup></strong><em>The </em><em>L</em><em>ORD</em><em> will reign </em><em>forever</em><em>.”</em><em>	  </em><em>	</em><em>	                    </em><strong>Ex 15:1-18</strong></span>
 
 <span class="verse" id="v19"><strong><sup>9</sup></strong>Pharaoh’s horses, chariots, and cavalry went into the sea, and the LORD washed the water back over them; but the Israelites walked through on dry seabed. <strong><sup>20</sup></strong>Miriam the prophetess, Aaron’s sister, took a tambourine and went out with the women with tambourines and dancing.</span>
 
-<span class="verse" id="v21"><strong><sup>1</sup></strong>She lined out a song to them, <em>	</em><em>	“Sing to the </em><em>L</em><em>ORD</em><em> because he has triumphed gloriously</em><em>;</em> <em>	</em><em>	</em><em>	he threw the horse and its rider into</em><em> the sea.”</em><em>	</em></span>
-<p class="section-ref">Ex 15:19-21</p>
+<span class="verse" id="v21"><strong><sup>1</sup></strong>She lined out a song to them, <em>	</em><em>	“Sing to the </em><em>L</em><em>ORD</em><em> because he has triumphed gloriously</em><em>;</em> <em>	</em><em>	</em><em>	he threw the horse and its rider into</em><em> the sea.”</em><em>	</em><strong>Ex 15:19-21</strong></span>
 
-<span class="verse" id="v22"><strong><sup>2</sup></strong>Moses led the Israelites from the Red Sea to the Wilderness of Shur. They traveled three days without finding water. <strong><sup>23</sup></strong>When they got to Marah, the water was too “brackish” to drink. That’s why it was called Marah. <strong><sup>24</sup></strong>The people complained to Moses, <em>“What are we going to drink?”</em><em> </em><strong><sup>25</sup></strong>He called out to the LORD, and he showed him a tree. <em>Moses</em> threw it in the water and made it drinkable. <em>The </em><em>L</em><em>ORD</em> made a statute and regulation to test them.<em> </em> <em>	</em><strong><sup>26</sup></strong><em>“If you </em><em>sincere</em><em>ly</em><em> </em><em>pay </em><em>attention to </em><em>me</em><em>, do what </em><em>I</em><em> consider right, listen to </em><em>my</em><em> commandments, </em><em>and </em><em>keep </em><em>my</em><em> statu</em><em>t</em><em>es, I won’t put any disease on you that I put on the Egyptians, because I</em><em>’</em><em>m your healer.”</em></span>
+<span class="verse" id="v22"><strong><sup>2</sup></strong>Moses led the Israelites from the Red Sea to the Wilderness of Shur. They traveled three days without finding water. <strong><sup>23</sup></strong>When they got to Marah, the water was too “brackish” to drink. That’s why it was called Marah. <strong><sup>24</sup></strong>The people complained to Moses, <em>“What are we going to drink?”</em><em> </em><strong><sup>25</sup></strong>He called out to the LORD, and he showed him a tree. <em>Moses</em> threw it in the water and made it drinkable. <em>The </em><em>L</em><em>ORD</em> made a statute and regulation to test them.<em> </em></span>
 
-<span class="verse" id="v27"><sup><strong>27</strong></sup>They came to Elim with</span>
-<p class="section-ref">its 12</p>
-
-### springs and 70 date palms, and camped there beside the water. Ex 15:22-27 Manna and Quail
-
+<span class="verse" id="v27"><sup class="verse-num">27</sup> They came to Elim with its 12 springs and 70 date palms, and camped there beside the water. <strong>Ex 15:22-27</strong> <strong>Manna and Quail</strong></span>
 
 
 <style>

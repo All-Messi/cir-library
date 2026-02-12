@@ -4,14 +4,14 @@ chapter: 15
 next: chapter-16
 prev: chapter-14
 title: Job 15
-translation: COT
+translation: CNT
 type: chapter
 weight: 15
 ---
 
-## Job Chapter **15**
+## Job Chapter 15
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup><strong>Eliphaz the Temanite answered:</strong> <strong><sup>2</sup></strong><em>“Should you answer with empty talk</em> <em>	</em><em>	and fill yourself with the east wind?</em></span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> <strong>Eliphaz the Temanite answered:</strong></span>
 
 <span class="verse" id="v3"><strong><sup>3</sup></strong><em>Should you argue with useless speech,</em> <em>	</em><em>	with words that </em><em>do no</em><em> good?</em></span>
 
@@ -19,11 +19,7 @@ weight: 15
 
 <span class="verse" id="v5"><strong><sup>5</sup></strong><em>Your sin is telling you what you say,</em> <em>	</em><em>	and you’re choosing misleading language.</em></span>
 
-<span class="verse" id="v6"><strong><sup>6</sup></strong><em>You condemn yourself; I don’t;</em> <em>	</em><em>	you’re testifying against yourself.</em><strong>	</strong></span>
-<p class="section-ref">Job 15:1-6</p>
-
-### 7“Were you the first person ever born? 		Were you brought forth before the hills?
-
+<span class="verse" id="v6"><strong><sup>6</sup></strong><em>You condemn yourself; I don’t;</em> <em>	</em><em>	you’re testifying against yourself.</em><strong>	</strong><strong>Job 15:1-6</strong></span>
 
 <span class="verse" id="v8"><strong><sup>8</sup></strong><em>Can you hear God’s secret counsel?</em> <em>	</em><em>	Do you think you’re the only one that’s wise?</em></span>
 
@@ -31,8 +27,7 @@ weight: 15
 
 <span class="verse" id="v10"><strong><sup>0</sup></strong><em>There are gray-haired, aged men around here</em> <em>	</em><em>	that are older than your father.</em></span>
 
-<span class="verse" id="v11"><strong><sup>1</sup></strong><em>Are God’s consolations too small for you</em> <em>	</em><em>	or spoken too gently to you?</em><strong>	</strong></span>
-<p class="section-ref">Job 15:7-11</p>
+<span class="verse" id="v11"><strong><sup>1</sup></strong><em>Are God’s consolations too small for you</em> <em>	</em><em>	or spoken too gently to you?</em><strong>	</strong><strong>Job 15:7-11</strong></span>
 
 <span class="verse" id="v12"><strong><sup>2</sup></strong><em>Why does your heart carry you away?</em> <em>	</em><em>	</em><em>	Why do your eyes flash</em></span>
 
@@ -42,15 +37,11 @@ weight: 15
 
 <span class="verse" id="v15"><strong><sup>5</sup></strong><em>God doesn’t even trust his angels absolutely</em> <em>	</em><em>	</em><em>	</em><em>	or regard the sky as perfectly pure.</em></span>
 
-<span class="verse" id="v16"><strong><sup>16</sup></strong><em>How much less someone disgusting and corrupt</em> <em>	</em><em>	</em><em>	that drinks sin like water!</em><strong>	</strong></span>
-<p class="section-ref">Job 15:12-16</p>
+<span class="verse" id="v16"><strong><sup>16</sup></strong><em>How much less someone disgusting and corrupt</em> <em>	</em><em>	</em><em>	that drinks sin like water!</em><strong>	</strong><strong>Job 15:12-16</strong></span>
 
-### 17“Listen, I’ll tell you something;  		I’ll tell you what I’ve seen—
+<span class="verse" id="v18"><sup class="verse-num">18</sup> <em>	</em><strong><sup>18</sup></strong><em>what the wise have said,</em> <em>	</em><em>	</em><em>	and their ancestors haven’t kept to themselves,</em></span>
 
-
-<span class="verse" id="v18"><sup><strong>18</strong></sup><em>	</em><strong><sup>18</sup></strong><em>what the wise have said,</em> <em>	</em><em>	</em><em>	and their ancestors haven’t kept to themselves,</em></span>
-
-<span class="verse" id="v19"><sup><strong>19</strong></sup><em>	</em><strong><sup>19</sup></strong><em>people the land was given to</em> <em>	</em><em>	</em><em>	and no foreigners passed through—</em></span>
+<span class="verse" id="v19"><sup class="verse-num">19</sup> <em>	</em><strong><sup>19</sup></strong><em>people the land was given to</em> <em>	</em><em>	</em><em>	and no foreigners passed through—</em></span>
 
 <span class="verse" id="v20"><strong><sup>0</sup></strong><em>the sinful writhe in pain their whole life;</em> <em>	</em><em>	the ruthless have a limited number of years.</em></span>
 
@@ -58,8 +49,7 @@ weight: 15
 
 <span class="verse" id="v22"><strong><sup>2</sup></strong><em>They don’t expect to come back from darkness;</em> <em>	</em><em>	they </em>feel<em> destined for the sword.</em></span>
 
-<span class="verse" id="v23"><strong><sup>3</sup></strong><em>They wander around asking for food;</em> <em>	</em><em>	they know darkness is on its way.</em><strong>	</strong></span>
-<p class="section-ref">Job 15:17-23</p>
+<span class="verse" id="v23"><strong><sup>3</sup></strong><em>They wander around asking for food;</em> <em>	</em><em>	they know darkness is on its way.</em><strong>	</strong><strong>Job 15:17-23</strong></span>
 
 <span class="verse" id="v24"><strong><sup>4</sup></strong><em>Distress and anguish terrify them</em> <em>	</em><em>	</em><em>	like a king preparing for battle,</em></span>
 
@@ -73,7 +63,7 @@ weight: 15
 
 <span class="verse" id="v29"><strong><sup>9</sup></strong><em>They won’t get rich, their wealth won’t last;</em> <em>	</em><em>	their grain won’t be so heavy it bends over.</em></span>
 
-<span class="verse" id="v30"><strong><sup>0</sup></strong><em>They won’t escape from darkness;</em> <em>	</em><em>	the hot sun will wither their roots;</em> <em>	</em><em>	the wind will blow away their blossoms.</em></span>
+<span class="verse" id="v30"><strong><sup>0</sup></strong><em>They won’t escape from darkness;</em> <em>	</em><em>	the hot sun will wither their roots;</em> <em>	</em><em>	the wind will blow away their blossoms.</em><strong></span>
 <p class="section-ref">Job 15:24-30</p>
 
 <span class="verse" id="v31"><strong><sup>1</sup></strong><em>They shouldn’t trust in emptiness and deceive themselves;</em> <em>	</em><em>	emptiness will be their payback.</em></span>
@@ -84,8 +74,7 @@ weight: 15
 
 <span class="verse" id="v34"><strong><sup>4</sup></strong><em>The godless live in barren company;</em> <em>	</em><em>	fire consumes the tents of those who bribe.</em></span>
 
-<span class="verse" id="v35"><strong><sup>5</sup></strong><em>They conceive schemes and give birth to evil;</em> <em>	</em><em>	their mind prepares deceit.”</em><strong>	</strong></span>
-<p class="section-ref">Job 15:31-35</p>
+<span class="verse" id="v35"><strong><sup>5</sup></strong><em>They conceive schemes and give birth to evil;</em> <em>	</em><em>	their mind prepares deceit.”</em><strong>	</strong><strong>Job 15:31-35</strong></span>
 
 
 <style>

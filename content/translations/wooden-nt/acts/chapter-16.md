@@ -9,7 +9,7 @@ type: chapter
 weight: 16
 ---
 
-## Acts Chapter **16**
+## Acts Chapter 16
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>But [also]<sup>ms</sup> he-arrived in Derbe and in Lystra. And, behold, a-certain disciple was there, Timothy by-name, (the) son of-(a)-Jewish woman of-faith and of-(a)-Greek father, <strong><sup>2</sup></strong>who was testified-to by the brothers in Lystra and Iconium. <strong><sup>3</sup></strong>This-one [the] Paul wanted to-go-out with him; and having-taken (him), he-circumcised him on-account-of the Jews [the] being in [the] those places, for all knew that the father of-him was (a) Greek. <strong><sup>4</sup></strong>And as they-were-traveling-through the cities, they-were-delivering to-them to-keep the decrees [the] judged by the apostles and elders [the] in Jerusalem. <strong><sup>5</sup></strong>So the churches were-being-strengthened in-the/[the] faith, and they-were-increasing in–[the] number according-to (the) day/daily<sup>2</sup>.</span>
 
@@ -21,21 +21,21 @@ weight: 16
 
 <span class="verse" id="v25"><strong><sup>5</sup></strong>And about [the] midnight Paul and Silas, praying, were-singing-praises-to [the] God, and the prisoners were-listening-to them. <strong><sup>26</sup></strong>And suddenly (a) severe earthquake occurred so-that the foundations of-the prison were-shaken. And immediately all the doors were-opened and the shackles of-all were-unfastened. <strong><sup>27</sup></strong>And the jailor, having been asleep and seeing the doors of-the prison opened, having-drawn [the]<sup>ms</sup> sword, was-about to-kill himself, supposing/thinking the prisoners to-have-fled-out.</span>
 
-<span class="verse" id="v28"><sup><strong>28</strong></sup>But [the]<sup>ms</sup> Paul shouted with-(a)-loud voice, saying, <em>“Do no harm to-yourself, for we-are </em><em>all </em><em>here.”</em><em> </em></span>
+<span class="verse" id="v28"><sup class="verse-num">28</sup> But [the]<sup>ms</sup> Paul shouted with-(a)-loud voice, saying, <em>“Do no harm to-yourself, for we-are </em><em>all </em><em>here.”</em><em> </em></span>
 
-<span class="verse" id="v29"><sup><strong>29</strong></sup>And having-asked-for (a) light, he-rushed-in and, having-become trembling, fell-to [the] Paul and [the]<sup>ms</sup> Silas, <strong><sup>30</sup></strong>and, having-brought them out, said, <em>“Sirs, what is-necessary for-me to-do in-order-that I-may-be-saved.”</em><em> </em></span>
+<span class="verse" id="v29"><sup class="verse-num">29</sup> And having-asked-for (a) light, he-rushed-in and, having-become trembling, fell-to [the] Paul and [the]<sup>ms</sup> Silas, <strong><sup>30</sup></strong>and, having-brought them out, said, <em>“Sirs, what is-necessary for-me to-do in-order-that I-may-be-saved.”</em><em> </em></span>
 
-<span class="verse" id="v31"><sup><strong>31</strong></sup>And the-ones/they said, <em>“Trust in the Lord</em><em> Jesus</em><em>,</em><em> and you-will-be-saved, you and the household of-you.”</em><em> </em></span>
+<span class="verse" id="v31"><sup class="verse-num">31</sup> And the-ones/they said, <em>“Trust in the Lord</em><em> Jesus</em><em>,</em><em> and you-will-be-saved, you and the household of-you.”</em><em> </em></span>
 
-<span class="verse" id="v32"><sup><strong>32</strong></sup>And they-spoke the word of-the Lord to-him with all the-ones in-the house of-him. <strong><sup>33</sup></strong>And having-taken┘them└aside in that [the] hour of-the night, he-washed out the wounds-from-the blows, and he-was-baptized, he and all the-ones of-him immediately, <strong><sup>34</sup></strong>and having-brought them into the house he-set table and rejoiced with-his-household having-trusted [the] God.</span>
+<span class="verse" id="v32"><sup class="verse-num">32</sup> And they-spoke the word of-the Lord to-him with all the-ones in-the house of-him. <strong><sup>33</sup></strong>And having-taken┘them└aside in that [the] hour of-the night, he-washed out the wounds-from-the blows, and he-was-baptized, he and all the-ones of-him immediately, <strong><sup>34</sup></strong>and having-brought them into the house he-set table and rejoiced with-his-household having-trusted [the] God.</span>
 
 <span class="verse" id="v35"><strong><sup>5</sup></strong>And when day came, the soldiers/magistrates/praeters sent the-ones having-billy-clubs/police-officers, saying, <em>“Release [the] those men.”</em></span>
 
-<span class="verse" id="v36"><sup><strong>36</strong></sup>And the jailor reported [the] these<sup>ms</sup> to [the] Paul [that]. <em>“The soldiers/magistrates/praeters sent in-order-that you-may-be-released.</em><em> </em><em>Now then having-gone-out, go/travel in peace.</em><em>”</em><em> </em></span>
+<span class="verse" id="v36"><sup class="verse-num">36</sup> And the jailor reported [the] these<sup>ms</sup> to [the] Paul [that]. <em>“The soldiers/magistrates/praeters sent in-order-that you-may-be-released.</em><em> </em><em>Now then having-gone-out, go/travel in peace.</em><em>”</em><em> </em></span>
 
-<span class="verse" id="v37"><sup><strong>37</strong></sup>But [the] Paul said to them, <em>“Having-beaten</em><em> us publicly, uncondemned, being Roman men, they-put (us) in prison, and now privately the</em><em>y</em><em>-put/are-putting┘(us)└out?</em><em> </em><em>No, for; but having-come, let-them┘themselves└lead-us-out.”</em><em> </em></span>
+<span class="verse" id="v37"><sup class="verse-num">37</sup> But [the] Paul said to them, <em>“Having-beaten</em><em> us publicly, uncondemned, being Roman men, they-put (us) in prison, and now privately the</em><em>y</em><em>-put/are-putting┘(us)└out?</em><em> </em><em>No, for; but having-come, let-them┘themselves└lead-us-out.”</em><em> </em></span>
 
-<span class="verse" id="v38"><sup><strong>38</strong></sup>And when the police/officers reported [the] these words to-the soldiers/magistrates/praeters, and they-were-afraid, having-heard that they-are/were Romans. <strong><sup>39</sup></strong>And having-come they-urged them and having-brought┘(them)└out, they-began-to-ask (them) to-go-away from the city. <strong><sup>40</sup></strong>And having-gone-out from the prison, they-entered to [the] Lydia; and having-seen (her) they-summoned the brothers and went-out.</span>
+<span class="verse" id="v38"><sup class="verse-num">38</sup> And when the police/officers reported [the] these words to-the soldiers/magistrates/praeters, and they-were-afraid, having-heard that they-are/were Romans. <strong><sup>39</sup></strong>And having-come they-urged them and having-brought┘(them)└out, they-began-to-ask (them) to-go-away from the city. <strong><sup>40</sup></strong>And having-gone-out from the prison, they-entered to [the] Lydia; and having-seen (her) they-summoned the brothers and went-out.</span>
 
 
 <style>

@@ -1,72 +1,74 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Topics
+- Essays
 - MINISTRY
 - Christian Ministry 102
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: COMMUNION SCRIPTURES
 weight: 999
 ---
 
-COMMUNION SCRIPTURES
+
+
 
 There are many aspects to the total meaning of the Lord's Supper, and there are many ways of applying those meanings to Christian life and worship. As a result any number of scripture passages connect naturally to the experience of coming around the Lord's table with fellow Christians. Below are several portions of scripture that belong among those that speak of matters relevant to this worship experience.
 
-Psalms 23
 
-51:10 (New Year)
+<strong>Psalms 23</strong>
 
-103 (excerpts)
+<strong><sup>51</sup></strong>:10 (New Year)
 
-136:1
+<strong><sup>103</sup></strong> (excerpts)
 
-Isaiah 53:1-4
+<strong><sup>136</sup></strong>:1
 
-53:6-9
+<strong>Isaiah</strong> <strong><sup>53</sup></strong>:1-4
 
-Matthew 2:1-2 (Christmas)
+<strong><sup>53</sup></strong>:6-9
 
-5:6
+<strong>Matthew 2</strong>:1-2 (Christmas)
 
-16:24-25
+<strong><sup>5</sup></strong>:6
 
-17:1-8
+<strong><sup>16</sup></strong>:24-25
 
-26:26-41
+<strong><sup>17</sup></strong>:1-8
 
-28:20
+<strong><sup>26</sup></strong>:26-41
+
+<strong><sup>28</sup></strong>:20
 
 5-7 (Easter)
 
-Mark 14:14-15
+<strong>Mark 14</strong>:14-15
 
-14:22-26
+<strong>	14</strong>:22-26
 
-15:21
+<strong><sup>15</sup></strong>:21
 
-Luke 22:17-20
+<strong>Luke 22</strong>:17-20
 
-22:13-35
+<strong><sup>22</sup></strong>:13-35
 
-24:25
+<strong><sup>24</sup></strong>:25
 
-John 3:16
+<strong>John 3</strong>:16
 
-6:53-56
+<strong><sup>6</sup></strong>:53-56
 
-10:14-15
+<strong>	10</strong>:14-15
 
-12:31-32
+<strong><sup>12</sup></strong>:31-32
 
-13:1
+<strong><sup>13</sup></strong>:1
 
 23
 
 33-35
 
-14:1-4
+<strong><sup>14</sup></strong>:1-4
 
 15-21
 
@@ -74,50 +76,50 @@ John 3:16
 
 27-31
 
-15:9-10
+<strong><sup>15</sup></strong>:9-10
 
 13-15
 
-Acts 2:1-4 (Pentecost Sunday)
+<strong>Acts 2</strong>:1-4 (Pentecost Sunday)
 
-2:36
+<strong><sup>2</sup></strong>:36
 
 42
 
-Romans 5:6-8
+<strong>Romans</strong> <strong><sup>5</sup></strong>:6-8
 
-1 Corinthians 10:16-17
+<strong>1 Corinthians</strong> <strong><sup>10</sup></strong>:16-17
 
-10:21
+<strong><sup>10</sup></strong>:21
 
-11:23-30
+<strong><sup>11</sup></strong>:23-30
 
-15:3
+<strong><sup>15</sup></strong>:3
 
-2 Corinthians 3:17-18
+<strong>2 Corinthians 3</strong>:17-18
 
-Ephesians 3:18-19 (Christmas)
+<strong>Ephesians 3</strong>:18-19 (Christmas)
 
-Philippians 2:1-11
+<strong>Philippians 2</strong>:1-11
 
-Colossians 1:24
+<strong>Colossians 1</strong>:24
 
-2 Timothy 2:8-9
+<strong>2 Timothy 2</strong>:8-9
 
-Hebrews 2:9-10
+<strong>Hebrews 2</strong>:9-10
 
-2:14-15
+<strong>2:</strong>14-15
 
-6:4-6
+<strong><sup>6</sup></strong>:4-6
 
-9:24 + 26
+<strong><sup>9</sup></strong>:24 + 26
 
-13:8
+<strong><sup>13</sup></strong>:8
 
 20-21
 
-1 Peter 1:18-21
+<strong>1 Peter 1</strong>:18-21
 
-4:13
+<strong>	4</strong>:13
 
-Revelation 7:17
+<strong>Revelation</strong> <strong><sup>7</sup></strong>:17

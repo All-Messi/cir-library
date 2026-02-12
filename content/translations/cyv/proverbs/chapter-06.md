@@ -9,9 +9,9 @@ type: chapter
 weight: 6
 ---
 
-## Proverbs Chapter **6**
+## Proverbs Chapter 6
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>Son, if you sign for your neighbor or give a pledge for a stranger,</span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Son, if you sign for your neighbor or give a pledge for a stranger,</span>
 
 <span class="verse" id="v2"><strong><sup>2</sup></strong>if you get snared by a promise you’ve made or caught by what you’ve said,</span>
 
@@ -22,18 +22,18 @@ weight: 6
 <span class="verse" id="v5"><strong><sup>5</sup></strong>deliver yourself like a gazelle from <em>a hunter</em>, like a bird from a fowler.</span>
 <p class="section-ref">Prov 6:1-5</p>
 
-<span class="verse" id="v6"><sup><strong>6</strong></sup>Go observe ants, lazy guy; watch what they do and wise up.</span>
+<span class="verse" id="v6"><sup class="verse-num">6</sup> Go observe ants, lazy guy; watch what they do and wise up.</span>
 
-<span class="verse" id="v7"><sup><strong>7</strong></sup>Though they don’t have a chief, an officer, or ruler,</span>
+<span class="verse" id="v7"><sup class="verse-num">7</sup> Though they don’t have a chief, an officer, or ruler,</span>
 
 <span class="verse" id="v8"><strong><sup>8</sup></strong>they prepare their food in the summer; at harvest time they gather provisions <em>for winter</em>.</span>
 
-<span class="verse" id="v9"><sup><strong>9</strong></sup>How long will you lie around? When will you get up from napping? <strong><sup>10</sup></strong><em>“A</em><em> little sleep, a little slumber,</em> <em>	</em><em>	a little folding of the hands to rest”</em>—</span>
+<span class="verse" id="v9"><sup class="verse-num">9</sup> How long will you lie around? When will you get up from napping?</span>
 
 <span class="verse" id="v11"><strong><sup>1</sup></strong>your poverty will come on you like a bandit; your need <em>will attack you </em>like an armed man.</span>
 <p class="section-ref">Prov 6:6-11</p>
 
-<span class="verse" id="v12"><sup><strong>12</strong></sup>A worthless, wicked man is one that goes around lying,</span>
+<span class="verse" id="v12"><sup class="verse-num">12</sup> A worthless, wicked man is one that goes around lying,</span>
 
 <span class="verse" id="v13"><strong><sup>3</sup></strong>that winks with his eye, signals with his feet, gestures with his fingers,</span>
 
@@ -42,7 +42,7 @@ weight: 6
 <span class="verse" id="v15"><strong><sup>5</sup></strong>Tragedy will come crashing down on him; all at once he’ll be crushed beyond recovery.</span>
 <p class="section-ref">Prov 6:11-15</p>
 
-<span class="verse" id="v16"><sup><strong>16</strong></sup>Six things the LORD despises; <em>no</em><em>, make that </em>seven that disgust him:</span>
+<span class="verse" id="v16"><sup class="verse-num">16</sup> Six things the LORD despises; <em>no</em><em>, make that </em>seven that disgust him:</span>
 
 <span class="verse" id="v17"><strong><sup>17</sup></strong>arrogant eyes, lying tongues, blood-shedding hands,</span>
 
@@ -51,7 +51,7 @@ weight: 6
 <span class="verse" id="v19"><strong><sup>19</sup></strong>witnesses who perjure themselves and people that stir up conflict between friends.</span>
 <p class="section-ref">Prov 6:16-19</p>
 
-<span class="verse" id="v20"><sup><strong>20</strong></sup>Son, observe your father’s commands; don’t leave your mother’s teaching.</span>
+<span class="verse" id="v20"><sup class="verse-num">20</sup> Son, observe your father’s commands; don’t leave your mother’s teaching.</span>
 
 <span class="verse" id="v21"><strong><sup>1</sup></strong>Tie them next to your heart; hang them around your neck.</span>
 
@@ -60,7 +60,7 @@ weight: 6
 <span class="verse" id="v23"><strong><sup>3</sup></strong>A commandment is a lamp; teaching is a light; corrections that discipline lead to life.</span>
 <p class="section-ref">Prov 6:20-23</p>
 
-<span class="verse" id="v24"><sup><strong>24</strong></sup>They keep your eyes off an immoral woman, a loose woman with smooth talk.</span>
+<span class="verse" id="v24"><sup class="verse-num">24</sup> They keep your eyes off an immoral woman, a loose woman with smooth talk.</span>
 
 <span class="verse" id="v25"><strong><sup>5</sup></strong>Don’t desire her beauty or let her catch your attention with her eyes.</span>
 
@@ -73,11 +73,11 @@ weight: 6
 <span class="verse" id="v29"><strong><sup>9</sup></strong>Can a man go to his neighbor’s wife and not suffer for it?</span>
 <p class="section-ref">Prov 6:24-29</p>
 
-<span class="verse" id="v30"><sup><strong>30</strong></sup>People don’t despise a thief that steals because he’s hungry;</span>
+<span class="verse" id="v30"><sup class="verse-num">30</sup> People don’t despise a thief that steals because he’s hungry;</span>
 
 <span class="verse" id="v31"><strong><sup>1</sup></strong>but when he’s caught, he still needs to repay it seven times over; even if he has to sell everything in his house to make it right.</span>
 
-<span class="verse" id="v32"><sup><strong>32</strong></sup>A man that commits adultery lacks good judgment; he’s looking to destroy himself.</span>
+<span class="verse" id="v32"><sup class="verse-num">32</sup> A man that commits adultery lacks good judgment; he’s looking to destroy himself.</span>
 
 <span class="verse" id="v33"><strong><sup>3</sup></strong>He’ll find wounds and disgrace and shame he can’t erase.</span>
 

@@ -1,22 +1,25 @@
 ---
 author: Virgil Warren, PhD
 categories:
+- Essays
 - Topics
 - CHRISTIAN DOCTRINE
-- CHURCH  (ecclesiology)
-date: '2026-01-23'
+- CHURCH (ecclesiology)
+date: '2026-02-12'
 draft: false
 title: STUDY GUIDE ON ELDERSHIP
 weight: 15
 ---
 
-STUDY GUIDE ON ELDERSHIP
 
-Passage	Term	#		Reference			               Scope
 
-S  Pl	Old/	Men of	Jewish 	24 in	Church	City/ House
 
-Older  Old  	Elders	  Rev	Office 	Area
+<strong><u>Passage</u></strong>	<strong><u>Term</u></strong>	<strong><u>#</u></strong>		<strong><u>Reference</u></strong>			               <strong><u>Scope</u></strong>
+
+<strong>			S  Pl	Old/	Men of	Jewish</strong> <strong>	24 in	Church	City/ House</strong>
+
+<strong>Older  Old  	Elders	  Rev	Office 	Area          </strong>
+
 
 1.  Mt. 15:2	πρεσβύτερος	pl			  x
 
@@ -104,11 +107,15 @@ Older  Old  	Elders	  Rev	Office 	Area
 
 43.  Acts 21:18	         "							   x	Jerusalem
 
-Passage	Term	#		Reference			               Scope
 
-S  Pl	Old/	Men of	Jewish 	24 in	Church 	City/  House
 
-Older   Old  	Elders	  Rev	Office  	Area
+
+<strong><u>Passage</u></strong>	<strong><u>Term</u></strong>	<strong><u>#</u></strong>		<strong><u>Reference</u></strong>			               <strong><u>Scope</u></strong>
+
+<strong>			S  Pl	Old/	Men of	Jewish</strong> 	<strong>24 in</strong>	<strong>Church 	City/  House</strong>
+
+<strong>Older   Old  	Elders	  Rev	Office  	Area          </strong>
+
 
 44.  Acts 22:5	πρεσβυτέριον					    x
 
@@ -152,29 +159,30 @@ Crete
 
 63.  3 Jn. 1	          "							    x
 
-64.  Rev. 4:4	          "						x
+64.  Rev. 4:4	          "						<strong>x</strong>
 
-65.  Rev. 4:10	          "						x
+65.  Rev. 4:10	          "						<strong>x</strong>
 
-66.  Rev. 5:5	          "						x
+66.  Rev. 5:5	          "						<strong>x</strong>
 
-67.  Rev. 5:6	          "						x
+67.  Rev. 5:6	          "						<strong>x</strong>
 
-68.  Rev. 5:8	          "						x
+68.  Rev. 5:8	          "						<strong>x</strong>
 
-69.  Rev. 5:11	          "						x
+69.  Rev. 5:11	          "						<strong>x</strong>
 
-70.  Rev. 5:14	          "						x
+70.  Rev. 5:14	          "						<strong>x	</strong>
 
-71.  Rev. 7:11	          "						x
+71.  Rev. 7:11	          "						<strong>x</strong>
 
-72.  Rev. 7:13	          "						x
+72.  Rev. 7:13	          "						<strong>x</strong>
 
-73.  Rev. 11:16	          "						x
+73.  Rev. 11:16	          "						<strong>x</strong>
 
-74.  Rev. 14:3	          "						x
+74.  Rev. 14:3	          "						<strong>x</strong>
 
-75.  Rev. 19:4	          "						x
+75.  Rev. 19:4	          "						<strong>x</strong>
+
 
 a.  Acts 13:1?	διδάσκαλος		pl					elder?	Antioch
 
@@ -192,11 +200,22 @@ f.  Heb. 13:17?	          "		pl					   x   ?	     ?
 
 g.  Heb. 13:24?           "		pl					   x   ?	     ?
 
-Passage	Term	#		Reference			               Scope
 
-S  Pl	Old/	Men of	Jewish 	24 in	Church 	City/  House
 
-Older   Old  	Elders	  Rev	Office  	Area
+
+
+
+
+
+
+
+
+<strong><u>Passage</u></strong>	<strong><u>Term</u></strong>	<strong><u>#</u></strong>		<strong><u>Reference</u></strong>			               <strong><u>Scope</u></strong>
+
+<strong>			S  Pl	Old/	Men of	Jewish</strong> 	<strong>24 in</strong>	<strong>Church 	City/  House</strong>
+
+<strong>Older   Old  	Elders	  Rev	Office  	Area          </strong>
+
 
 A.  Acts 1:20	ἐπίσκοπή							(apostle)
 
@@ -214,7 +233,10 @@ Crete)
 
 G.  1 Pet. 2:25	          "	s						Lord
 
-Observations
+
+
+<strong>Observations</strong>
+
 
 General observations on the work sheet above
 
@@ -226,20 +248,23 @@ General observations on the work sheet above
 
 4.	Elders existed in Jewish and Gentile territories.
 
-5.	Elders existed in connection with the work or Peter (1 Peter 5:1) and the other original apostles as well as Paul.
+5.	Elders existed in connection with the work or Peter (1 Peter <strong><sup>5</sup></strong>:1) and the other original apostles as well as Paul.
+
+
 
 The statistics on πρεσβύτερος and its cognates are as follows:
 
-(a) Church office: Acts 11:30; 14:23; 15:2, 4, 6, 22, 23; 16:4; 20:17; 21:18; 1 Timothy 4:14 (πρεσβυτέριον); 5:17, 19; Titus 1:5; James 5:14; 1 Peter 5:1
+(a) Church office: Acts <strong><sup>11</sup></strong>:30; <strong><sup>14</sup></strong>:23; <strong><sup>15</sup></strong>:2, 4, 6, 22, 23; <strong><sup>16</sup></strong>:4; <strong><sup>20</sup></strong>:17; <strong><sup>21</sup></strong>:18; 1 Timothy <strong><sup>4</sup></strong>:14 (πρεσβυτέριον); <strong><sup>5</sup></strong>:17, 19; Titus <strong><sup>1</sup></strong>:5; James<strong> 5</strong>:14; 1 Peter <strong><sup>5</sup></strong>:1
 
-the references to apostles (possibly to be included in the first listing): 1 Peter 5:1 (συμπρεσβύτερος); 2 John 1; 3 John 1
+the references to apostles (possibly to be included in the first listing): 1 Peter <strong><sup>5</sup></strong>:1 (συμπρεσβύτερος); 2 John 1; 3 John 1
 
-Jewish elders: Matthew 16:21; 21:23; 26:3, 47, 57, 59; 27:1, 3, 12, 20, 41; 28:12; Mark 8:31; 11:27; 14:43, 53; 15:1; Luke 7:3; 9:22; 20:1; 22:52, 66 (πρεσβυτέριον); Acts 4:5, 8, 23; 6:12; 22:5 (πρεσβύτης); 23:14; 24:1; 25:15; (elders, tradition of:  Matthew 15:2; Mark 7:3, 5)
+Jewish elders: Matthew <strong><sup>16</sup></strong>:21; <strong><sup>21</sup></strong>:23; 2<strong><sup>6</sup></strong>:3, 47, 57, 59;<strong> 27</strong>:1, 3, 12, 20, 41; <strong><sup>28</sup></strong>:12; Mark<strong> 8</strong>:31; <strong><sup>11</sup></strong>:27; <strong><sup>14</sup></strong>:43, 53; <strong><sup>15</sup></strong>:1; Luke <strong><sup>7</sup></strong>:3; <strong><sup>9</sup></strong>:22; <strong><sup>20</sup></strong>:1; <strong><sup>22</sup></strong>:52, 66 (πρεσβυτέριον); Acts <strong><sup>4</sup></strong>:5, 8, 23; <strong><sup>6</sup></strong>:12;<strong> 22</strong>:5 (πρεσβύτης); <strong><sup>23</sup></strong>:14; <strong><sup>24</sup></strong>:1; 25:15; (elders, tradition of:  Matthew <strong><sup>15</sup></strong>:2; Mark<strong> 7</strong>:3, 5)
 
-men of old: Hebrews 11:2 (see in loco F. F. Bruce, The Epistle to the Hebrews:  The English Text with Introduction, Exposition and Notes in The New International Commentary on the New Testament, ed. by F. F. Bruce)
+men of old: Hebrews <strong><sup>11</sup></strong>:2 (see <em>in loco</em> F. F. Bruce, <em>The Epistle to the Hebrews:  The English Text with Introduction, Exposition and Notes</em> in <em>The New International Commentary on the New Testament,</em> ed. by F. F. Bruce)
 
-old (wo)men: Luke 15:25; John 8:9; Acts 2:17; 1 Timothy 5:1, 2 (fem.); 1 Peter 5:5; πρεσβύτερος:  Luke 1:18; Titus 2:2; Philemon 9; πρεσβῦτις:  Titus 2:3
+old (wo)men: Luke <strong><sup>15</sup></strong>:25; John <strong><sup>8</sup></strong>:9; Acts <strong><sup>2</sup></strong>:17; 1 Timothy <strong><sup>5</sup></strong>:1, 2 (fem.); 1 Peter<strong> 5</strong>:5; πρεσβύτερος:  Luke<strong> 1</strong>:18; Titus<strong> 2</strong>:2; Philemon 9; πρεσβῦτις:  Titus <strong><sup>2</sup></strong>:3
 
-twenty-four elders of the Apocalypse: 4:4, 10; 5:5, 6, 8, 11, 14; 7:11, 13; 11:16; 14:3; 19:4.
+twenty-four elders of the Apocalypse: <strong><sup>4</sup></strong>:4, 10; <strong><sup>5</sup></strong>:5, 6, 8, 11, 14; <strong><sup>7</sup></strong>:11, 13; <strong><sup>11</sup></strong>:16; <strong><sup>14</sup></strong>:3; <strong><sup>19</sup></strong>:4.
+
 
 christir.org

@@ -1,36 +1,39 @@
 ---
 author: Virgil Warren, PhD
 categories:
+- Essays
 - EVIDENCES
-- CRITICAL INTRODUCTION -  New Testament
+- CRITICAL INTRODUCTION - New Testament
 - Galatians
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: HISTORICAL BACKGROUND BEHIND GALATIANS
 weight: 19
 ---
 
-HISTORICAL BACKGROUND BEHIND GALATIANS
+
+
 
 Acts	Secular Sources	                     Galatians
 
-Pilate deposed?  A.D. 36
 
-death of Stephen (Acts 7)
+<em>Pilate deposed?  A.D. 36</em>
+
+death of Stephen (Acts <strong><sup>7</sup></strong>)
 
 Paul leads a generalized persecution of
 
-the church (9:1-2; 26:9-12).
+the church (<strong><sup>9</sup></strong>:1-2; <strong><sup>26</sup></strong>:9-12).
 
-Pilate deposed?  A.D. 36
+<em>Pilate deposed?  A.D. 36</em>
 
-is converted at Damascus		conversion of Paul (1:15-17)
+is converted at Damascus		conversion of Paul (<strong><sup>1</sup></strong>:15-17)
 
-(9:3-25; 22:3-16; 26:13-20a)
+(<strong><sup>9</sup></strong>:3-25; <strong><sup>22</sup></strong>:3-16; <strong><sup>26</sup></strong>:13-20a)
 
-Pilate deposed?  A.D. 36
+<em>Pilate deposed?  A.D. 36</em>
 
-3 years in Arabia (1:18)
+3 years in Arabia (<strong><sup>1</sup></strong>:18)
 
 goes to Jerusalem by way of Damascus,
 
@@ -38,31 +41,31 @@ Paul travels to Jerusalem, feared by 	     	     stays with Peter 15 days, sees 
 
 Christians there, meets apostles,                       = ? =	     other apostles (except James), is not
 
-and preaches to Hellenists (9:26-	     	     known on sight by Judaean churches
+and preaches to Hellenists (<strong><sup>9</sup></strong>:26-	     	     known on sight by Judaean churches
 
-29a).		     (1:18-19, 22)
+<sup>29</sup>a).		     <strong>(1</strong>:18-19, 22)
 
 Paul returns to Tarsus to escape a		comes to regions of Syria and Cilicia
 
-plot against his life (9:29b-30; 		     (1:21)
+plot against his life (<strong><sup>9</sup></strong>:29b-30; 		     (<strong><sup>1</sup></strong>:21)
 
-22:17-21).
+<strong><sup>22</sup></strong>:17-21).
 
 Barnabas brings him from Tarsus to
 
 Antioch, where he teaches for 1 year
 
-(11:25-26).
+(<strong><sup>11</sup></strong>:25-26).
 
 the famine visit to Jerusalem with
 
-Barnabas (11:27-12:25)
+Barnabas (<strong><sup>11</sup></strong>:27-<strong><sup>12</sup></strong>:25)
 
-first missionary tour (13:1-14:28)		Paul preached the gospel to the Galatians
+first missionary tour (<strong><sup>13</sup></strong>:1-<strong><sup>14</sup></strong>:28)		Paul preached the gospel to the Galatians
 
 [τὸ πρότερον] "at first/the first
 
-time/before" (4:13).
+time/before" (<strong><sup>4</sup></strong>:13).
 
 goes by revelation to Jerusalem with Titus
 
@@ -70,38 +73,38 @@ goes by revelation to Jerusalem with Titus
 
 meets privately with the pillars of the
 
-Jerusalem church (2:1-10)
+Jerusalem church <strong>(2</strong>:1-10)
 
 the dissimulation of Barnabas and Peter
 
-(2:11-21)
+(<strong><sup>2</sup></strong>:11-21)
 
-writing of Galatians (at Antioch)?
+<strong>writing of Galatians</strong> (at Antioch)?
 
 goes with Barnabas to the conference on
 
-circumcision (15:1-35) and returns
+circumcision (<strong><sup>15</sup></strong>:1-35) and returns
 
 to Antioch with the Jerusalem letter
 
-edict of Claudius A.D. 49
+<em>edict of Claudius A.D. 49</em>
 
-writing of Galatians (at Antioch)?
+<strong>writing of Galatians </strong>(at Antioch)?
 
-second missionary tour (15:36-18:22)
+second missionary tour (<strong><sup>15</sup></strong>:36-1<strong><sup>8</sup></strong>:22)
 
 through Syria, Cilicia, and Galatia,
 
 where he delivered copies of the
 
-Jerusalem letter (16:4). Points
+Jerusalem letter (<strong><sup>16</sup></strong>:4). Points
 
-west include 1½ years                        Gallio's proconsulship
+west include 1½ years                        <em>Gallio's proconsulship </em>
 
-at Corinth.	   A.D. 51-52	writing of Galatians (at Corinth)?
+at Corinth.	   <em>A.D. 51-52</em>	<strong>writing of Galatians</strong> (at Corinth)?
 
 third missionary tour, including 2 years
 
-and 3 months at Ephesus (18:23-		writing of Galatians (at Ephesus or     21:16) 		     in Macedonia)?
+and 3 months at Ephesus (<strong><sup>18</sup></strong>:23-		<strong>writing of Galatians </strong>(at Ephesus or     <strong><sup>21</sup></strong>:16) 		     in Macedonia)?
 
 christir.org

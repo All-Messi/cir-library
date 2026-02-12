@@ -1,21 +1,23 @@
 ---
 author: Virgil Warren, PhD
 categories:
+- Essays
 - Topics
 - CHRISTIAN DOCTRINE
 - MANKIND (anthropology)
-- DEPRAVITY, ESSAYS ON hUMAN
-date: '2026-01-23'
+- DEPRAVITY, ESSAYS ON HUMAN
+date: '2026-02-12'
 draft: false
 title: SUMMARY STATEMENT REGARDING NATURAL DEPRAVITY
 weight: 999
 ---
 
-SUMMARY STATEMENT REGARDING NATURAL DEPRAVITY
+
+
 
 The proposition counter to natural depravity is as follows:
 
-There is no (1) clear (2) biblical basis for saying that Adam’s ability in regard to (3) spiritual things after the fall was any different from what it was (4) before the fall in a (5) biologically inheritable sense.
+<em>There is no (1) </em><em><u>clear</u></em><em> (2) </em><em><u>biblical</u></em><em> basis for saying that Adam’s ability in regard to (3) </em><em><u>spiritual</u></em><em> things after the fall was any different from what it was (4) </em><em><u>before the fall</u></em><em> in a (5) </em><em><u>biologically</u></em><em> inheritable sense. </em>
 
 By “clear” biblical base we mean that there are some passages that could be understood the way natural depravity takes them. However, no passage requires such an understanding. In fact, many texts offered in support of that concept cannot have that meaning.
 
@@ -27,4 +29,10 @@ The phrase “before the fall” draws attention to a comparison between the way
 
 “Biologically” inheritable specifies that whatever defect a person could have must be transmitted genetically for it to require supernatural remedying by the Spirit. Behavioral depravity can be socially transmitted as well as originated repeatedly in each person through ignorance plus the pull of neutral bodily drives that can be fulfilled in negative ways. The failure to live above a person’s viewpoint of consciousness and to override bodily drives by rational values stems from the fact that it is easier not to live transcendently. It is easier to act on the basis of our own present material interests than to curb self-gratification by taking into consideration the welfare of others, future consequences, and transcendent principles. After sin has originated in individuals, the neutral ability to form habits explains how it is perpetuated in them. In other words, psychological depravity—the power of sin to hold us down, the bondage of the will—results from previous sin. It is the pull of past sin on present resolve, that is, ingrained habit rather than inborn defect. Psychological depravity comes from “self-depravitization” rather than hereditary corruption. The natural-depravity proposal represents overkill for explaining universal, all-pervasive sin in mankind.
 
+
 christir.org
+
+
+
+
+

@@ -1,12 +1,14 @@
 ---
 book: Psalms
-chapters: 149
+chapters: 150
 title: Psalms
-translation: COT
+translation: CNT
 type: book
 weight: 19
 ---
 
 ## Psalms
 
-**149 Chapters**
+**150 Chapters**
+
+Select a chapter to begin reading:

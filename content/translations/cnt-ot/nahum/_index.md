@@ -1,12 +1,14 @@
 ---
 book: Nahum
-chapters: 2
+chapters: 3
 title: Nahum
-translation: COT
+translation: CNT
 type: book
 weight: 34
 ---
 
 ## Nahum
 
-**2 Chapters**
+**3 Chapters**
+
+Select a chapter to begin reading:

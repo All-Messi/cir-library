@@ -4,14 +4,14 @@ chapter: 11
 next: chapter-12
 prev: chapter-10
 title: Job 11
-translation: COT
+translation: CNT
 type: chapter
 weight: 11
 ---
 
-## Job Chapter **11**
+## Job Chapter 11
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup><strong>Zophar the Naamathite answered:</strong> <strong><sup>2</sup></strong><em>“Should your barrage of words go unchallenged,</em> <em>	</em><em>	and you exonerate yourself by talking a lot?</em></span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> <strong>Zophar the Naamathite answered:</strong></span>
 
 <span class="verse" id="v3"><strong><sup>3</sup></strong><em>Will your babble shut people up?</em> <em>	</em><em>	Will you mock and nobody rebuke you?</em></span>
 
@@ -19,11 +19,7 @@ weight: 11
 
 <span class="verse" id="v5"><strong><sup>5</sup></strong><em>but I just wish God would speak out against you</em></span>
 
-<span class="verse" id="v6"><sup><strong>6</strong></sup><em>	</em><strong><sup>6</sup></strong><em>and disclose to you the secrets of wisdom,</em> <em>	</em><em>	</em><em>	because sound wisdom is not simple;</em> <em>	</em><em>	</em><em>	be assured that God doesn’t remember </em> <em>	</em><em>	</em><em>	</em><em>	just one part of your sin.</em><strong> </strong><strong>	</strong></span>
-<p class="section-ref">Job 11:1-6</p>
-
-### 7“Can you find out the deep things of God 		or probe the limits of the Almighty?
-
+<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>	</em><strong><sup>6</sup></strong><em>and disclose to you the secrets of wisdom,</em> <em>	</em><em>	</em><em>	because sound wisdom is not simple;</em> <em>	</em><em>	</em><em>	be assured that God doesn’t remember </em> <em>	</em><em>	</em><em>	</em><em>	just one part of your sin.</em><strong> </strong><strong>	</strong><strong>Job 11:1-6</strong></span>
 
 <span class="verse" id="v8"><strong><sup>8</sup></strong><em>They’re higher than the sky—what can you do?</em> <em>	</em><em>	They’re deeper than Sheol—what can you know?</em></span>
 
@@ -33,11 +29,7 @@ weight: 11
 
 <span class="verse" id="v11"><strong><sup>1</sup></strong><em>He knows worthless people;</em> <em>	</em><em>	he knows about their sin without having to investigate.</em></span>
 
-<span class="verse" id="v12"><strong><sup>2</sup></strong><em>A stupid man can no more become intelligent</em> <em>	</em><em>	than a wild donkey can have a baby.</em><strong> </strong><strong>	</strong></span>
-<p class="section-ref">Job 11:7-12</p>
-
-### 13“If you set your heart right, 		you can raise your hands and pray to him.
-
+<span class="verse" id="v12"><strong><sup>2</sup></strong><em>A stupid man can no more become intelligent</em> <em>	</em><em>	than a wild donkey can have a baby.</em><strong> </strong><strong>	</strong><strong>Job 11:7-12</strong></span>
 
 <span class="verse" id="v14"><strong><sup>4</sup></strong><em>If there’s sin in you, get rid of it;</em> <em>	</em><em>	don’t let it live in your house.</em></span>
 
@@ -51,8 +43,7 @@ weight: 11
 
 <span class="verse" id="v19"><strong><sup>9</sup></strong><em>You’ll lie down, and no one will disturb you;</em><em>	</em> <em>	</em><em>	others will ask for your blessing.</em></span>
 
-<span class="verse" id="v20"><strong><sup>0</sup></strong><em>But the eyes of sinners will be blinded;</em><em>	</em> <em>	</em><em>	they can’t escape;</em> <em>	</em><em>	their only hope is death.”</em><strong>	</strong><strong>	</strong></span>
-<p class="section-ref">Job 11:13-20</p>
+<span class="verse" id="v20"><strong><sup>0</sup></strong><em>But the eyes of sinners will be blinded;</em><em>	</em> <em>	</em><em>	they can’t escape;</em> <em>	</em><em>	their only hope is death.”</em><strong>	</strong><strong>	</strong><strong>Job 11:13-20</strong></span>
 
 
 <style>

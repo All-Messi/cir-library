@@ -4,29 +4,24 @@ chapter: 40
 next: chapter-41
 prev: chapter-39
 title: Job 40
-translation: COT
+translation: CNT
 type: chapter
 weight: 40
 ---
 
-## Job Chapter **40**
+## Job Chapter 40
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup><strong>The </strong><strong>L</strong><strong>ORD</strong><strong> said to Job,</strong> <strong><sup>2</sup></strong><em>“Will a faultfinder spar with the Almighty?</em> <em>	</em><em>	Let the one that argues with God answer that.”</em></span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> <strong>The </strong><strong>L</strong><strong>ORD</strong><strong> said to Job,</strong></span>
 
-<span class="verse" id="v3"><sup><strong>3</strong></sup><strong>Job said,</strong> <strong><sup>4</sup></strong><em>“I’m insignificant; what kind of answer can I give?</em> <em>	</em><em>	I’ve put my hand over my mouth.</em></span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> <strong>Job said,</strong></span>
 
-<span class="verse" id="v5"><strong><sup>5</sup></strong><em>I’ve spoken once or twice; that’s enough;</em> <em>	</em><em>	I don’t have anything else to say.”</em><em>	</em></span>
-<p class="section-ref">Job 40:1-5</p>
+<span class="verse" id="v5"><strong><sup>5</sup></strong><em>I’ve spoken once or twice; that’s enough;</em> <em>	</em><em>	I don’t have anything else to say.”</em><em>	</em><strong>Job 40:1-5</strong></span>
 
-<span class="verse" id="v6"><sup><strong>6</strong></sup><strong>The </strong><strong>L</strong><strong>ORD</strong><strong> answered him out of the storm:</strong><strong>	</strong> <strong><sup>7</sup></strong><em>“Gird up* like a man;</em> <em>	</em><em>	I’ll ask you </em>some questions<em>, and you </em><em>answer</em><em> me.</em></span>
+<span class="verse" id="v6"><sup class="verse-num">6</sup> <strong>The </strong><strong>L</strong><strong>ORD</strong><strong> answered him out of the storm:</strong><strong>	</strong></span>
 
 <span class="verse" id="v8"><strong><sup>8</sup></strong><em>Will you really try to discredit me to justify yourself?</em></span>
 
-<span class="verse" id="v9"><strong><sup>9</sup></strong><em>Do you have an arm like mine?</em> <em>	</em><em>	Can you thunder like me?  </em><strong>	</strong></span>
-<p class="section-ref">Job 40:6-9</p>
-
-### 10“Go ahead and put on eminence and dignity; 		dress yourself with honor and majesty.
-
+<span class="verse" id="v9"><strong><sup>9</sup></strong><em>Do you have an arm like mine?</em> <em>	</em><em>	Can you thunder like me?  </em><strong>	</strong><strong>Job 40:6-9</strong></span>
 
 <span class="verse" id="v11"><strong><sup>1</sup></strong><em>Pour out your overflowing anger;</em> <em>	</em><em>	look at everybody that’s proud and humble them.</em></span>
 
@@ -34,18 +29,13 @@ weight: 40
 
 <span class="verse" id="v13"><strong><sup>3</sup></strong><em>Bury them in the dust together;</em> <em>	</em><em>	imprison them in the hidden place.</em></span>
 
-<span class="verse" id="v14"><strong><sup>4</sup></strong><em>Then I’ll acknowledge to you</em> <em>	</em><em>	that your own right hand can save you.</em><strong>	</strong></span>
-<p class="section-ref">Job 40:10-14</p>
-
-### 15“Look at Behemoth, which I made as well as I did you; 		it eats grass like an ox.
-
+<span class="verse" id="v14"><strong><sup>4</sup></strong><em>Then I’ll acknowledge to you</em> <em>	</em><em>	that your own right hand can save you.</em><strong>	</strong><strong>Job 40:10-14</strong></span>
 
 <span class="verse" id="v16"><strong><sup>6</sup></strong><em>It has strong loins</em> <em>	</em><em>	and powerful muscles in its stomach.</em></span>
 
 <span class="verse" id="v17"><strong><sup>7</sup></strong><em>It swings its tail like a cedar beam;</em> <em>	</em><em>	the sinews in its thighs intertwine.</em></span>
 
-<span class="verse" id="v18"><strong><sup>8</sup></strong><em>Its bones are like bronze tubes;</em> <em>	</em><em>	its limbs, like iron bars.</em><strong>	</strong></span>
-<p class="section-ref">Job 40:15-18</p>
+<span class="verse" id="v18"><strong><sup>8</sup></strong><em>Its bones are like bronze tubes;</em> <em>	</em><em>	its limbs, like iron bars.</em><strong>	</strong><strong>Job 40:15-18</strong></span>
 
 <span class="verse" id="v19"><strong><sup>9</sup></strong><em>It’s a prime example of my what I’ve created;</em> <em>	</em><em>	only the One that made it need bring his sword!</em></span>
 
@@ -57,7 +47,7 @@ weight: 40
 
 <span class="verse" id="v23"><strong><sup>3</sup></strong><em>It doesn’t care if the river rages</em> <em>	</em><em>	or worry if the Jordan rushes at its mouth.</em></span>
 
-<span class="verse" id="v24"><strong><sup>4</sup></strong><em>Can anyone capture it when it’s awake?</em> <em>	</em><em>	Can anybody trap it and put a ring in its nose?</em></span>
+<span class="verse" id="v24"><strong><sup>4</sup></strong><em>Can anyone capture it when it’s awake?</em> <em>	</em><em>	Can anybody trap it and put a ring in its nose?</em><strong></span>
 <p class="section-ref">Job 40:19-24</p>
 
 

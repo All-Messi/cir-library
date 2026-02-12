@@ -4,33 +4,33 @@ chapter: 149
 next: chapter-150
 prev: chapter-148
 title: Psalms 149
-translation: COT
+translation: CNT
 type: chapter
 weight: 149
 ---
 
-## Psalms Chapter **149**
+## Psalms Chapter 149
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup><strong>Hallelujah!</strong> Sing the LORD a new song; praise him in the assembly of his holy people.</span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Hallelujah! Sing the LORD a new song; praise him in the assembly of his holy people.</span>
 
-<span class="verse" id="v2"><sup><strong>2</strong></sup>Be happy in your Maker, Israel; celebrate your King, people of Zion.</span>
+<span class="verse" id="v2"><sup class="verse-num">2</sup> Be happy in your Maker, Israel; celebrate your King, people of Zion.</span>
 
-<span class="verse" id="v3"><sup><strong>3</strong></sup>Praise him with dancing; sing praises with tambourines and lyres,</span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> Praise him with dancing; sing praises with tambourines and lyres,</span>
 
-<span class="verse" id="v4"><sup><strong>4</strong></sup>because the LORD delights in you and graces harassed people with deliverance.<strong>	</strong></span>
+<span class="verse" id="v4"><sup class="verse-num">4</sup> because the LORD delights in you and graces harassed people with deliverance.</span>
 <p class="section-ref">Ps 149:1-4</p>
 
-<span class="verse" id="v5"><sup><strong>5</strong></sup>Holy people, celebrate in glory; sing for joy on your couches.</span>
+<span class="verse" id="v5"><sup class="verse-num">5</sup> Holy people, celebrate in glory; sing for joy on your couches.</span>
 
-<span class="verse" id="v6"><sup><strong>6</strong></sup>Have the high praises of God in your voices and two-edged swords in your hands</span>
+<span class="verse" id="v6"><sup class="verse-num">6</sup> Have the high praises of God in your voices and two-edged swords in your hands</span>
 
-<span class="verse" id="v7"><sup><strong>7</strong></sup>to carry out vengeance on nations and punishment on peoples,</span>
+<span class="verse" id="v7"><sup class="verse-num">7</sup> to carry out vengeance on nations and punishment on peoples,</span>
 
-<span class="verse" id="v8"><sup><strong>8</strong></sup>to bind kings with chains and nobles with iron restraints,</span>
+<span class="verse" id="v8"><sup class="verse-num">8</sup> to bind kings with chains and nobles with iron restraints,</span>
 
-<span class="verse" id="v9"><sup><strong>9</strong></sup>to carry out prescribed judgment on them. That’s an honor for all his holy people.</span>
+<span class="verse" id="v9"><sup class="verse-num">9</sup> to carry out prescribed judgment on them. That’s an honor for all his holy people.</span>
 
-<span class="verse" id="v10"><sup><strong>10</strong></sup><strong>Hallelujah!</strong></span>
+<span class="verse" id="v10"><sup class="verse-num">10</sup> Hallelujah!</span>
 <p class="section-ref">Ps 149:5-10</p>
 
 

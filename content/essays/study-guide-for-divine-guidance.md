@@ -1,22 +1,29 @@
 ---
 author: Virgil Warren, PhD
 categories:
+- Essays
 - Topics
 - BASIC CHRISTIANITY
-- BASIC CHRISTINAITY STUDY GUIDES
-date: '2026-01-23'
+- BASIC CHRISTIANITY STUDY GUIDES
+date: '2026-02-12'
 draft: false
 title: STUDY GUIDE FOR DIVINE GUIDANCE
 weight: 999
 ---
 
-STUDY GUIDE FOR DIVINE GUIDANCE
 
-Passages on divine calling and direction that are helpful in understanding the manner of God’s specially leading people are (1) Genesis 6:13ff.; (2) Genesis 12:1ff.; 13:14ff.; (3) Exodus 3; (4) Judges 6:11-25ff.; (5) Judges 13:2ff.; (6) 1 Samuel 3;           (7)  Amos 7:14ff.; (8) Jonah 1:1-2; 3:1-2; (9) Isaiah 6; (10) Jeremiah 1:1-2:1; (11) Ezekiel 2:1-7; 3:16ff., 22ff.; 6:1ff.; etc.; (12) Haggai 2:10ff.; 20; (13) Zechariah 1:1-3ff.; (14) Luke 1:5-25, 39-80; 3:1-20 (Matthew 3; Mark 1:11); John 1:6-36; (15) Matthew 10:1-4ff.; (Mark 3:13-19; Luke 6:12-16); Acts 1:1-11; (16) Acts 8:26-40; (17) Acts 9:10-19; (18) Acts 9:1-18; 22:3-21; 26:2-23; Galatians 1:11-2:10; Acts 16:9-10; 22:17-21 (cp. 9:26-30).
+
+
+Passages on divine calling and direction that are helpful in understanding the manner of God’s specially leading people are (1) Genesis <strong><sup>6</sup></strong>:13ff.; (2) Genesis <strong><sup>12</sup></strong>:1ff.; <strong><sup>13</sup></strong>:14ff.; (3) Exodus <strong><sup>3</sup></strong>; (4) Judges <strong><sup>6</sup></strong>:11-25ff.; (5) Judges <strong><sup>13</sup></strong>:2ff.; (6) 1 Samuel <strong><sup>3</sup></strong>;           (7)  Amos<strong> 7</strong>:14ff.; (8) Jonah <strong><sup>1</sup></strong>:1-2; <strong><sup>3</sup></strong>:1-2; (9) Isaiah <strong><sup>6</sup></strong>; (10) Jeremiah <strong><sup>1</sup></strong>:1-<strong><sup>2</sup></strong>:1; (11) Ezekiel <strong><sup>2</sup></strong>:1-7; <strong><sup>3</sup></strong>:16ff., <sup>22</sup>ff.; <strong><sup>6</sup></strong>:1ff.; <em>etc</em>.; (12) Haggai <strong><sup>2</sup></strong>:10ff.; 20; (13) Zechariah <strong><sup>1</sup></strong>:1-3ff.; (14) Luke <strong><sup>1</sup></strong>:5-25, 39-80; <strong><sup>3</sup></strong>:1-20 (Matthew <strong><sup>3</sup></strong>; Mark <strong><sup>1</sup></strong>:11); John <strong><sup>1</sup></strong>:6-36; (15) Matthew<strong> 10</strong>:1-4ff.; (Mark <strong><sup>3</sup></strong>:13-19; Luke <strong><sup>6</sup></strong>:12-16); Acts<strong> 1</strong>:1-11; (16) Acts <strong><sup>8</sup></strong>:26-40; (17) Acts <strong><sup>9</sup></strong>:10-19; (18) Acts<strong> 9</strong>:1-18; <strong><sup>22</sup></strong>:3-21; <strong><sup>26</sup></strong>:2-23; Galatians <strong><sup>1</sup></strong>:11-<strong><sup>2</sup></strong>:10; Acts <strong><sup>16</sup></strong>:9-10; <strong><sup>22</sup></strong>:17-21 (cp. <strong><sup>9</sup></strong>:26-30).
+
 
 God’s will for my life may be defined in two related ways: (1) the general principles of behavior that he has laid down for all people to his glory; we call that his “general will”; (2) the work that he may want a given individual to do at a certain time; we call “specific will.”
 
+
+
+
 The problem is how general and specific relate: both of them always, sometimes, or never. In light of biblical material and these definitions, interact with the following questions:
+
 
 1.	How did God call to specific tasks and direct his special messengers in the Scriptures?
 

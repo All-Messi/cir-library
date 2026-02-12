@@ -8,7 +8,7 @@ type: chapter
 weight: 6
 ---
 
-## 1 Timothy Chapter **6**
+## 1 Timothy Chapter 6
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Let┘as-many-as are slaves under (the) yoke└consider [the] their masters worthy of-all honor, in-order-that the name of-[the] God and the doctrine may┘not└be-slandered.  <strong><sup>2</sup></strong>And let┘the-ones having faithful masters not└disregard (them) because they-are brothers; but let-them-serve-as-slaves all-the-more, because the-ones benefiting-from the/their service are faithful and beloved.  Teach and encourage these-things.</span>
 

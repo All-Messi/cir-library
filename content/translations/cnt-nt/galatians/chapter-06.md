@@ -1,16 +1,16 @@
 ---
 book: Galatians
 chapter: 6
-prev: chapter-04
+prev: chapter-05
 title: Galatians 6
 translation: CNT
 type: chapter
 weight: 6
 ---
 
-## Galatians Chapter **6**
+## Galatians Chapter 6
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>If someone gets caught up in some sin, you that are spiritual should humbly restore that person. Keep an eye on yourselves so <u>you</u> don’t get caught up in temptation. <strong><sup>2</sup></strong>Share each other’s burdens and fulfill Christ’s ‘law’ that way. <strong><sup>3</sup></strong>If we think we’re special when we’re not, we’re kidding ourselves. <strong><sup>4</sup></strong>We each one must examine our own behavior and take pride in it only in respect to ourselves, not <em>in comparison t</em>o somebody else. <strong><sup>5</sup></strong>Each one of us has to carry our own load. <strong><sup>6</sup></strong>The one that’s being taught the message needs to share everything good with the one that’s teaching it. <strong><sup>7</sup></strong>Make no mistake, we can’t mock God. We reap what we sow. <strong><sup>8</sup></strong>If we sow in the flesh, we’ll reap decay. If we sow in the spirit, we’ll reap eternal life. <strong><sup>9</sup></strong>Let’s not get discouraged with doing what’s right. In due time we’ll reap if we don’t give up. <strong><sup>10</sup></strong>So while we’ve got a chance, let’s work at doing good to everybody, especially to members of the family of faith.</span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> If someone gets caught up in some sin, you that are spiritual should humbly restore that person. Keep an eye on yourselves so <u>you</u> don’t get caught up in temptation. <strong><sup>2</sup></strong>Share each other’s burdens and fulfill Christ’s ‘law’ that way. <strong><sup>3</sup></strong>If we think we’re special when we’re not, we’re kidding ourselves. <strong><sup>4</sup></strong>We each one must examine our own behavior and take pride in it only in respect to ourselves, not <em>in comparison t</em>o somebody else. <strong><sup>5</sup></strong>Each one of us has to carry our own load. <strong><sup>6</sup></strong>The one that’s being taught the message needs to share everything good with the one that’s teaching it. <strong><sup>7</sup></strong>Make no mistake, we can’t mock God. We reap what we sow. <strong><sup>8</sup></strong>If we sow in the flesh, we’ll reap decay. If we sow in the spirit, we’ll reap eternal life. <strong><sup>9</sup></strong>Let’s not get discouraged with doing what’s right. In due time we’ll reap if we don’t give up. <strong><sup>10</sup></strong>So while we’ve got a chance, let’s work at doing good to everybody, especially to members of the family of faith.</span>
 <p class="section-ref">Gal 6:1-10</p>
 
 ### Closing Encouragements
@@ -20,7 +20,7 @@ weight: 6
 
 <span class="verse" id="v17"><strong><sup>7</sup></strong>From now on, don’t create problems for me. I <em>already </em>have on my body the branding marks of the Lord Jesus.</span>
 
-<span class="verse" id="v18"><sup><strong>18</strong></sup>The grace of our Lord Jesus Christ <em>be</em> with your spirit. Amen.<strong>          </strong></span>
+<span class="verse" id="v18"><sup class="verse-num">18</sup> The grace of our Lord Jesus Christ <em>be</em> with your spirit. Amen.<strong>          </strong><strong></span>
 <p class="section-ref">Gal 6:11-18</p>
 
 ### Translator: Virgil Warren     								      christir.org

@@ -9,7 +9,7 @@ type: chapter
 weight: 5
 ---
 
-## Revelation Chapter **5**
+## Revelation Chapter 5
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>And I-saw on the right (hand) of-the-One sitting on the throne (a) book/scroll written inside/front and out/back, securely-sealed with-seven seals.  <strong><sup>2</sup></strong>And I-saw (a) strong angel proclaiming with (a) loud voice, <em>“Who (is) worthy to-open-up the book/scroll and to-undo</em><em>/break</em><em> the seals of-it?”  </em><strong><sup>3</sup></strong>And nobody was-able in [the] heaven neither on [the] earth nor under the earth to-open-up the book/scroll nor to-look-at it.  <strong><sup>4</sup></strong>And I-was-crying/began-to-cry much, because nobody was-found worthy to-open-up the book/scroll nor to-look-at it.  <strong><sup>5</sup></strong>And one of the elders says to-me, <em>“</em><em>Do┘not└cry</em><em>.  Behold, the lion [the] of the tribe of-Judah, the root of-David</em><em>,</em><em> conquered/overcame to-open-up the book/scroll and the seven seals of-it.”</em></span>
 
@@ -19,9 +19,9 @@ weight: 5
 
 <span class="verse" id="v11"><strong><sup>1</sup></strong>And I-looked, and I-heard (the) sound/voice of-many angels around the throne and the living-beings and the elders, and the number of-them was ten-thousands of-ten thousands and thousands of-thousands, <strong><sup>12</sup></strong>saying with-(a)-loud voice, <em>“Worthy is the having-been-slain [the] Lamb</em> <em>	</em><em>	</em><em>	</em><em>t</em><em>o-receive [the] power and wealth and wisdom and strength </em> <em>a</em><em>nd honor and glory and blessing.”</em></span>
 
-<span class="verse" id="v13"><sup><strong>13</strong></sup>And every creation/creature that (was) in [the] heaven and on [the] earth and under the earth and on the sea and all the-things in them I-heard, saying, <em>“To-the-One sitting on the throne and to-the </em><em>Lamb</em> <em>	</em><em>	</em><em>	</em><em>(</em><em>b</em><em>e) blessing and [the] honor and [the] glory </em> <em>a</em><em>nd [the] might </em><em>forevermore</em><em><sup>5</sup></em><em>.”</em></span>
+<span class="verse" id="v13"><sup class="verse-num">13</sup> And every creation/creature that (was) in [the] heaven and on [the] earth and under the earth and on the sea and all the-things in them I-heard, saying, <em>“To-the-One sitting on the throne and to-the </em><em>Lamb</em> <em>	</em><em>	</em><em>	</em><em>(</em><em>b</em><em>e) blessing and [the] honor and [the] glory </em> <em>a</em><em>nd [the] might </em><em>forevermore</em><em><sup>5</sup></em><em>.”</em></span>
 
-<span class="verse" id="v14"><sup><strong>14</strong></sup>And the four living-beings were-saying, <em>“Amen.”</em>  And the elders fell-down and worshiped.</span>
+<span class="verse" id="v14"><sup class="verse-num">14</sup> And the four living-beings were-saying, <em>“Amen.”</em>  And the elders fell-down and worshiped.</span>
 
 
 <style>

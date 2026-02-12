@@ -9,13 +9,9 @@ type: chapter
 weight: 12
 ---
 
-## Leviticus Chapter **12**
+## Leviticus Chapter 12
 
-<span class="verse" id="v1"><strong><sup>-</sup></strong><strong><sup>2</sup></strong>Yahveh told Moses to tell Israel, <em>“</em><em>When a woman </em><em>has</em><em> a </em><em>boy</em><em>, she’</em><em>s ceremonially </em><em>unclean for </em><em>a week like</em><em> during </em><em>her </em><em>menstruation.</em><em> </em><strong><sup>3</sup></strong><em>On</em><em> the eighth day, circumcise his foreskin. </em><strong><sup>4</sup></strong><em>For</em><em> 33 </em>more<em> days, she’ll be impure from her bleeding at childbirth. She’s not to touch </em><em>anything consecrated or enter the sanctuary until after her purification time. </em><strong><sup>5</sup></strong><em>If</em><em> she has a girl, she’s ceremonially unclean for two weeks like during menstruation.</span>
-<p class="section-ref">For 66</p>
-
-### more days, she’ll be impure from her bleeding at childbirth. 	Lev 12:1-5 6“When her purification days are over for a son or daughter, she’ll take to the priest at the entrance to the Tent of Meeting, a year-old lamb for a burnt offering and a young pigeon or turtledove for a sin offering. 7He’ll offer it to Yahveh for her purification, and she’ll be ceremonially cleansed from her bleeding at childbirth. That’s the law for a woman that has a male or female child. 8If she can’t afford a lamb, she can take two turtledoves or young pigeons, one for a burnt offering, the other for a sin offering. The priest will offer them for her, and she’ll be ceremonially clean.”  	Lev 12:6-8          The Tests for Leprosy
-
+<span class="verse" id="v1"><strong><sup>-</sup></strong><strong><sup>2</sup></strong>Yahveh told Moses to tell Israel, <em>“</em><em>When a woman </em><em>has</em><em> a </em><em>boy</em><em>, she’</em><em>s ceremonially </em><em>unclean for </em><em>a week like</em><em> during </em><em>her </em><em>menstruation.</em><em> </em><strong><sup>3</sup></strong><em>On</em><em> the eighth day, circumcise his foreskin. </em><strong><sup>4</sup></strong><em>For</em><em> 33 </em>more<em> days, she’ll be impure from her bleeding at childbirth. She’s not to touch </em><em>anything consecrated or enter the sanctuary until after her purification time. </em><strong><sup>5</sup></strong><em>If</em><em> she has a girl, she’s ceremonially unclean for two weeks like during menstruation. For 66 </em>more <em>days, she’ll be impure from her bleeding at childbirth. </em><em>	</em><strong>Lev 12:1-5</strong></span>
 
 
 <style>

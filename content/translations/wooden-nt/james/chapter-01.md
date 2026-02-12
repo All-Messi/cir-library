@@ -8,7 +8,7 @@ type: chapter
 weight: 1
 ---
 
-## James Chapter **1**
+## James Chapter 1
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>James, servant of-God and (the) Lord Jesus Christ, to-the twelve tribes [the] in the Diaspora.  Greetings.</span>
 

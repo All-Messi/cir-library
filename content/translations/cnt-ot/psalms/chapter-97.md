@@ -4,37 +4,37 @@ chapter: 97
 next: chapter-98
 prev: chapter-96
 title: Psalms 97
-translation: COT
+translation: CNT
 type: chapter
 weight: 97
 ---
 
-## Psalms Chapter **97**
+## Psalms Chapter 97
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>The LORD reigns; let the world rejoice; let the distant shores be glad.</span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> The LORD reigns; let the world rejoice; let the distant shores be glad.</span>
 
-<span class="verse" id="v2"><sup><strong>2</strong></sup>Clouds and dense darkness surround him; goodness and justice are the foundation for his throne.</span>
+<span class="verse" id="v2"><sup class="verse-num">2</sup> Clouds and dense darkness surround him; goodness and justice are the foundation for his throne.</span>
 
-<span class="verse" id="v3"><sup><strong>3</strong></sup>Fire goes forth ahead of him and burns up his adversaries.</span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> Fire goes forth ahead of him and burns up his adversaries.</span>
 
-<span class="verse" id="v4"><sup><strong>4</strong></sup>His lightning lights up the world; the world sees it and trembles.</span>
+<span class="verse" id="v4"><sup class="verse-num">4</sup> His lightning lights up the world; the world sees it and trembles.</span>
 
-<span class="verse" id="v5"><sup><strong>5</strong></sup>The mountains melt like wax <strong><sup>	</sup></strong>at his presence everywhere.</span>
+<span class="verse" id="v5"><sup class="verse-num">5</sup> The mountains melt like wax at his presence everywhere.</span>
 
-<span class="verse" id="v6"><sup><strong>6</strong></sup>The sky declares his goodness; every nation can see his glory.<strong>	</strong></span>
+<span class="verse" id="v6"><sup class="verse-num">6</sup> The sky declares his goodness; every nation can see his glory.</span>
 <p class="section-ref">Ps 97:1-6</p>
 
-<span class="verse" id="v7"><sup><strong>7</strong></sup>Let those who worship carved images be discredited, those who take pride in idols; bow to him, all you gods.</span>
+<span class="verse" id="v7"><sup class="verse-num">7</sup> Let those who worship carved images be discredited, those who take pride in idols; bow to him, all you gods.</span>
 
-<span class="verse" id="v8"><sup><strong>8</strong></sup>Zion hears that and is happy; <strong><sup>	</sup></strong>the towns in Judah celebrate <strong><sup>	</sup></strong><strong><sup>	</sup></strong>because of your justice, LORD,</span>
+<span class="verse" id="v8"><sup class="verse-num">8</sup> Zion hears that and is happy; the towns in Judah celebrate because of your justice, LORD,</span>
 
-<span class="verse" id="v9"><sup><strong>9</strong></sup>You’re greater than all gods.</span>
+<span class="verse" id="v9"><sup class="verse-num">9</sup> You’re greater than all gods.</span>
 
-<span class="verse" id="v10"><sup><strong>10</strong></sup>Hate evil, you that love the LORD, <strong><sup>	</sup></strong>who preserves his holy people and delivers them from sinners.</span>
+<span class="verse" id="v10"><sup class="verse-num">10</sup> Hate evil, you that love the LORD, who preserves his holy people and delivers them from sinners.</span>
 
-<span class="verse" id="v11"><sup><strong>11</strong></sup>Light is sown like seed for the godly, like happiness for the godly in heart.</span>
+<span class="verse" id="v11"><sup class="verse-num">11</sup> Light is sown like seed for the godly, like happiness for the godly in heart.</span>
 
-<span class="verse" id="v12"><sup><strong>12</strong></sup>Be happy in him, good people; praise him for his holiness.<strong>	</strong></span>
+<span class="verse" id="v12"><sup class="verse-num">12</sup> Be happy in him, good people; praise him for his holiness.</span>
 <p class="section-ref">Ps 97:7-12</p>
 
 

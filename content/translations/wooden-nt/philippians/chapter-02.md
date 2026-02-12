@@ -9,7 +9,7 @@ type: chapter
 weight: 2
 ---
 
-## Philippians Chapter **2**
+## Philippians Chapter 2
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>So if (there is) any encouragement in Christ, if any comfort of-love, if any fellowship of-(the)-Spirit, if any affection and compassion, <strong><sup>2</sup></strong>make┘the joy of-me└full in-order-that you-may-have-in-mind the same thing, having the same love, united-in-spirit, intending the one purpose, <strong><sup>3</sup></strong>(doing)<strong><sup> </sup></strong>nothing according-to selfishness, nothing according-to empty-conceit, but with-[the] humility considering one-another more-important than-yourselves, <strong><sup>4</sup></strong>each-one not looking-at the-things of yourselves, but [also]<sup>ms</sup> everyone the-things of-others. <strong><sup>5</sup></strong>Have┘this└attitude in you that (was) also in Christ Jesus, <strong><sup>6</sup></strong>who, being in (the) form of-deity, did┘not└consider [the] being equal to-God (a) clung-to-thing, <strong><sup>7</sup></strong>but emptied himself, having-taken (the) form of-(a)-servant, having-been in (the) likeness of-man, and having-been-found in-form like (a) man, <strong><sup>8</sup></strong>he-humbled himself, becoming obedient unto death, even (the) death of-(a)-cross. <strong><sup>9</sup></strong>Wherefore also [the] God exalted him and gave to-him the name [the] above every name, <strong><sup>10</sup></strong>in-order-that at the name of-Jesus every knee would-bend of-heavenly-ones and earthly-ones and subterranean-ones, <strong><sup>11</sup></strong>and every tongue would-confess that Jesus Christ (is) Lord to (the) glory of-God (the) Father.</span>
 

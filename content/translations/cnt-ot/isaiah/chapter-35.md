@@ -4,12 +4,12 @@ chapter: 35
 next: chapter-36
 prev: chapter-34
 title: Isaiah 35
-translation: COT
+translation: CNT
 type: chapter
 weight: 35
 ---
 
-## Isaiah Chapter **35**
+## Isaiah Chapter 35
 
 <span class="verse" id="v1"><strong><sup>-</sup></strong><strong><sup>2</sup></strong>The desert wilderness will be happy; the Arabah will blossom profusely with crocuses, and sing and celebrate. It will be as glorious as Lebanon, as majestic as Carmel and Sharon. They’ll see the glory of the LORD, the majesty of our God.</span>
 

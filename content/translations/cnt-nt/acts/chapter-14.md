@@ -9,9 +9,9 @@ type: chapter
 weight: 14
 ---
 
-## Acts Chapter **14**
+## Acts Chapter 14
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>At Iconium they went into the Jews’ synagogue as usual and spoke so convincingly that a great number of Jews and Greeks believed. <strong><sup>2</sup></strong>But the disbelieving Jews stirred up the Gentiles and poisoned their minds against the Christians. <strong><sup>3</sup></strong>For a good while, they stayed and kept speaking boldly for the Lord, and he confirmed his message about grace by providing signs and wonders they performed. <strong><sup>4</sup></strong>The city was divided, some with the Jews, some with the apostles. <strong><sup>5</sup></strong>The Gentiles and Jews instigated an attempt to mistreat them and stone them. <strong><sup>6</sup></strong>When the apostles found out, they hurried to Lycaonia to the cities Lystra and Derbe, as well as the surrounding area. <strong><sup>7</sup></strong>They were delivering the good news there as well.</span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> At Iconium they went into the Jews’ synagogue as usual and spoke so convincingly that a great number of Jews and Greeks believed. <strong><sup>2</sup></strong>But the disbelieving Jews stirred up the Gentiles and poisoned their minds against the Christians. <strong><sup>3</sup></strong>For a good while, they stayed and kept speaking boldly for the Lord, and he confirmed his message about grace by providing signs and wonders they performed. <strong><sup>4</sup></strong>The city was divided, some with the Jews, some with the apostles. <strong><sup>5</sup></strong>The Gentiles and Jews instigated an attempt to mistreat them and stone them. <strong><sup>6</sup></strong>When the apostles found out, they hurried to Lycaonia to the cities Lystra and Derbe, as well as the surrounding area. <strong><sup>7</sup></strong>They were delivering the good news there as well.</span>
 <p class="section-ref">Acts 14:1-7</p>
 
 ### Healing a Crippled Man
@@ -19,9 +19,9 @@ weight: 14
 
 <span class="verse" id="v8"><strong><sup>8</sup></strong>At Lystra a man crippled in his feet from birth, had never walked. <strong><sup>9</sup></strong>He was listening to Paul speak. Paul looked at him and saw he had faith to be cured. <strong><sup>10</sup></strong>He shouted, <em>“Stand up!”</em> He jumped up and started walking.</span>
 
-<span class="verse" id="v11"><strong><sup>1</sup></strong>When the crowd saw what Paul did, they shouted out in Lycaonian, <em>“Gods hav</em><em>e come down to us in human form!</em><em>”</em><em> </em><strong><sup>12</sup></strong>They started calling Barnabas “Zeus” and Paul “Hermes” because Paul did most of the speaking. <strong><sup>13</sup></strong>The priest of Zeus Propolis took bulls decked with wreaths of flowers to the gates and wanted to offer sacrifice with the crowd. <strong><sup>14</sup></strong>When the apostles Barnabas and Paul heard about it, they tore their clothes and rushed into the crowd, shouting, <strong><sup>15</sup></strong><em>“W</em><em>hy</em><em> are you doing this?</em><em> </em><em>We’re </em><em>normal</em><em> men like you, bringing you good news to turn away from these meaningless things to the living God who made earth, </em><em>sky, and</em><em> sea, and everything in them.</em><em> </em><strong><sup>16</sup></strong><em>In</em><em> the </em><em>past, he let </em><em>nations go their own ways, </em><strong><sup>17</sup></strong><em>but</em><em> </em><em>left </em><em>evidence of himself</em><em> by doing good, giving you rain and </em><em>crops</em><em>, filling you with food and happiness.”</em><em> </em></span>
+<span class="verse" id="v11"><strong><sup>1</sup></strong>When the crowd saw what Paul did, they shouted out in Lycaonian, <em>“Gods hav</em><em>e come down to us in human form!</em><em>”</em><em> </em><strong><sup>12</sup></strong>They started calling Barnabas “Zeus” and Paul “Hermes” because Paul did most of the speaking. <strong><sup>13</sup></strong>The priest of Zeus Propolis took bulls decked with wreaths of flowers to the gates and wanted to offer sacrifice with the crowd. <strong><sup>14</sup></strong>When the apostles Barnabas and Paul heard about it, they tore their clothes and rushed into the crowd, shouting,</span>
 
-<span class="verse" id="v18"><sup><strong>18</strong></sup>With that, he barely stopped the crowds from offering sacrifices to them.</span>
+<span class="verse" id="v18"><sup class="verse-num">18</sup> With that, he barely stopped the crowds from offering sacrifices to them.</span>
 <p class="section-ref">Acts 14:8-18</p>
 
 ### Paul Stoned at Lystra
@@ -31,7 +31,7 @@ weight: 14
 
 <span class="verse" id="v21"><strong><sup>1</sup></strong>When they’d presented the good news in that city and made a significant number of disciples, they went back to Lystra, Iconium, and Antioch <em>of Pisidia</em>. <strong><sup>22</sup></strong>They were strengthening the disciples and encouraging them to continue in the faith and to enter God’s kingdom through many difficulties. <strong><sup>23</sup></strong>When they’d appointed elders in every city, they prayed and fasted, and commended them to the Lord they’d trusted in. <strong>Return to Antioch of Syria</strong></span>
 
-<span class="verse" id="v24"><sup><strong>24</strong></sup>They passed through Pisidia to Pamphylia. <strong><sup>25</sup></strong>After they’d presented the message in Perga, they went down to Attalia <strong><sup>26</sup></strong>and sailed back to Antioch <em>of Syria</em>, where they’d been committed to God’s grace for the work they’d done. <strong><sup>27</sup></strong>When they arrived and assembled the church, they recounted what God had done with them and how he’d opened a door of faith for the Gentiles. <strong><sup>28</sup></strong>They stayed there a good while with the disciples.</span>
+<span class="verse" id="v24"><sup class="verse-num">24</sup> They passed through Pisidia to Pamphylia. <strong><sup>25</sup></strong>After they’d presented the message in Perga, they went down to Attalia <strong><sup>26</sup></strong>and sailed back to Antioch <em>of Syria</em>, where they’d been committed to God’s grace for the work they’d done. <strong><sup>27</sup></strong>When they arrived and assembled the church, they recounted what God had done with them and how he’d opened a door of faith for the Gentiles. <strong><sup>28</sup></strong>They stayed there a good while with the disciples.</span>
 <p class="section-ref">Acts 14:19-28</p>
 
 ### The Conference on Circumcision

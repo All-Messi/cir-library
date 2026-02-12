@@ -2,14 +2,14 @@
 book: 1 John
 chapter: 4
 next: chapter-05
-prev: chapter-02
+prev: chapter-03
 title: 1 John 4
 translation: WNT
 type: chapter
 weight: 4
 ---
 
-## 1 John Chapter **4**
+## 1 John Chapter 4
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Beloved, do┘not└believe every spirit, but test the spirits if/whether they-are from [the] God, because many false-prophets have-gone-out into the world.  <strong><sup>2</sup></strong>By this you-know the Spirit of-[the] God:  every spirit that confesses Jesus Christ has-come in (the) flesh is from [the] God.  <strong><sup>3</sup></strong>And every spirit that does┘not└confess [the] Jesus is not of/from [the] God.  And this is the (spirit) of-the antichrist that you-have-heard that he-is-coming, and now is already in the world.  <strong><sup>4</sup></strong><u>You</u> are of/from [the] God, little-children; and you-have-overcome them, because greater is the-One in you than the-One in the world.  <strong><sup>5</sup></strong><u>They</u> are of/from the world; because-of this they-speak of/from the world, and the world listens-to them.  <strong><sup>6</sup></strong><u>We</u> are of/from [the] God.  The-one knowing [the] God listens-to us.  Who is not of/from [the] God, does┘not└listen-to us.  By this we-know the Spirit of-[the] truth and the spirit of-[the deception.</span>
 

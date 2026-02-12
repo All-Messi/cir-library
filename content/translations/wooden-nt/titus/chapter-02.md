@@ -9,7 +9,7 @@ type: chapter
 weight: 2
 ---
 
-## Titus Chapter **2**
+## Titus Chapter 2
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>But <u>you</u> speak<sup>imper</sup> what-things are–fitting to-[the] sound doctrine, <strong><sup>2</sup></strong>(that) older-men (are) to-be serious-minded, respectable, sensible; sound with-respect-to-[the] faith, [the] love, [the] perseverance; <strong><sup>3</sup></strong>(that) older-women likewise (are to be) reverent in behavior, not slanderous, not enslaved to-much wine, teaching-what-is-good, <strong><sup>4</sup></strong>in-order-that they-may advise the young (women) to-be husband-lovers, children-lovers, <strong><sup>5</sup></strong>sensible, pure, devoted-to-the-house, upright, deferring to-[the] their husbands, in-order-that the word of-[the] God may┘not└be-slandered.</span>
 

@@ -9,30 +9,26 @@ type: chapter
 weight: 6
 ---
 
-## Hosea Chapter **6**
+## Hosea Chapter 6
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup><em>“</em>They’ll say<em>,</em> <em>‘</em><em>Let’s </em><em>return</em><em> to </em><em>Yahveh</em><em>.</em> <em>	</em><em>	</em><em>He has torn us, but he’ll heal </em><em>us;</em> <em>	</em><em>	he has wounded us, </em><em>but he’ll bandage</em><em> us up.</em></span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> <em>“</em>They’ll say<em>,</em> <em>‘</em><em>Let’s </em><em>return</em><em> to </em><em>Yahveh</em><em>.</em> <em>	</em><em>	</em><em>He has torn us, but he’ll heal </em><em>us;</em> <em>	</em><em>	he has wounded us, </em><em>but he’ll bandage</em><em> us up.</em></span>
 
-<span class="verse" id="v2"><sup><strong>2</strong></sup><em>He’ll</em><em> revive us in two days,</em> <em>	</em><em>and</em><em> </em><em>raise us up </em><em>the third</em><em>,</em><em> </em> <em>	</em><em>	</em><em>so</em><em> we can live </em><em>in his presence</em><em>.</em></span>
+<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>He’ll</em><em> revive us in two days,</em> <em>	</em><em>and</em><em> </em><em>raise us up </em><em>the third</em><em>,</em><em> </em> <em>	</em><em>	</em><em>so</em><em> we can live </em><em>in his presence</em><em>.</em></span>
 
-<span class="verse" id="v3"><sup><strong>3</strong></sup><em>So</em><em> let’</em><em>s press on to know </em><em>Yahveh</em><em>.</em> <em>	H</em><em>e’ll respond to us </em><em>as </em><em>sure</em><em> as dawn</em><em> </em><em>comes</em><em>;</em> <em>	</em><em>	he’ll come to us like </em><em>rain,</em> <em>	</em><em>	like the spring rain that waters the </em><em>ground</em><em>.</em><em>’</em><strong>	</strong></span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> <em>So</em><em> let’</em><em>s press on to know </em><em>Yahveh</em><em>.</em> <em>	H</em><em>e’ll respond to us </em><em>as </em><em>sure</em><em> as dawn</em><em> </em><em>comes</em><em>;</em> <em>	</em><em>	he’ll come to us like </em><em>rain,</em> <em>	</em><em>	like the spring rain that waters the </em><em>ground</em><em>.</em><em>’</em><strong>	</strong><strong></span>
 <p class="section-ref">Hos 6:1-3</p>
 
-### 4“What am I going to do with you, Ephraim, 		or with you, Judah? 	Your loyalty is like a morning cloud, 		like dew that evaporates early.
+<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>I’ve</em><em> cut both of you up in pieces by the </em><em>prophets;</em> <em>	I’ve slain you with my </em><em>words;</em> <em>	the condemnations on you are as inescapable as light.</em></span>
 
+<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>I</em><em> delight in loyalty more than sacrifice,</em> <em>	</em><em>in knowing</em><em> me more than in burnt offerings.</em></span>
 
-<span class="verse" id="v5"><sup><strong>5</strong></sup><em>I’ve</em><em> cut both of you up in pieces by the </em><em>prophets;</em> <em>	I’ve slain you with my </em><em>words;</em> <em>	the condemnations on you are as inescapable as light.</em></span>
+<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>Like</em><em> Adam </em><em>you</em><em>’ve broken covenant</em> <em>	and dealt deceitfully with me.</em></span>
 
-<span class="verse" id="v6"><sup><strong>6</strong></sup><em>I</em><em> delight in loyalty more than sacrifice,</em> <em>	</em><em>in knowing</em><em> me more than in burnt offerings.</em></span>
+<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>Like</em><em> raiders waiting for </em><em>victims</em><em>,</em> <em>	a band of priests commits murder on the way to </em><em>Shechem;</em> <em>	</em><em>and every shameful</em><em> crime</em><em> imaginable</em><em>.</em></span>
 
-<span class="verse" id="v7"><sup><strong>7</strong></sup><em>Like</em><em> Adam </em><em>you</em><em>’ve broken covenant</em> <em>	and dealt deceitfully with me.</em> <strong><sup>8</sup></strong><em>“Gilead</em><em> is a city of </em><em>sinners</em><em>,</em><em> </em> <em>	</em><em>t</em><em>rack</em><em>ed with</em><em> bloody footprints.</em></span>
+<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>I’ve</em><em> seen a horrible thing in Israel:</em> <em>	Ephraim’s prostitution, Israel’s self-defilement.</em><em> </em></span>
 
-<span class="verse" id="v9"><sup><strong>9</strong></sup><em>Like</em><em> raiders waiting for </em><em>victims</em><em>,</em> <em>	a band of priests commits murder on the way to </em><em>Shechem;</em> <em>	</em><em>and every shameful</em><em> crime</em><em> imaginable</em><em>.</em></span>
-
-<span class="verse" id="v10"><sup><strong>10</strong></sup><em>I’ve</em><em> seen a horrible thing in Israel:</em> <em>	Ephraim’s prostitution, Israel’s self-defilement.</em><em> </em></span>
-
-<span class="verse" id="v11"><sup><strong>11</strong></sup><em>Judah</em><em>, I’ve </em><em>appointed</em><em> a harvest time for you</em> <em>	when I restore my people’s fortunes.</em><strong>	</strong><strong>	</strong></span>
-<p class="section-ref">Hos 6:4-11</p>
+<span class="verse" id="v11"><sup class="verse-num">11</sup> <em>Judah</em><em>, I’ve </em><em>appointed</em><em> a harvest time for you</em> <em>	when I restore my people’s fortunes.</em><strong>	</strong><strong>	</strong><strong>Hos 6:4-11</strong></span>
 
 
 <style>

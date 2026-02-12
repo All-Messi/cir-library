@@ -4,14 +4,14 @@ chapter: 61
 next: chapter-62
 prev: chapter-60
 title: Isaiah 61
-translation: COT
+translation: CNT
 type: chapter
 weight: 61
 ---
 
-## Isaiah Chapter **61**
+## Isaiah Chapter 61
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>The Spirit of the Lord GOD is on me; he’s anointed me to bring good news to the downtrodden. He’s sent me to bandage up the brokenhearted, to liberate captives, to free prisoners,</span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> The Spirit of the Lord GOD is on me; he’s anointed me to bring good news to the downtrodden. He’s sent me to bandage up the brokenhearted, to liberate captives, to free prisoners,</span>
 
 <span class="verse" id="v2"><strong><sup>2</sup></strong>to announce that this is the year the LORD shows blessing, the day he sets things right, to comfort anyone that’s grieving,</span>
 
@@ -23,7 +23,7 @@ weight: 61
 
 <span class="verse" id="v6"><strong><sup>6</sup></strong>But you’ll be the LORD’s priests; people will speak of you as his ministers. You’ll feed on the wealth of nations and take pride in their prosperity.</span>
 
-<span class="verse" id="v7"><strong><sup>7</sup></strong>Instead of humiliation you’ll have a double portion; rather than dishonor you’ll celebrate over your lot. You’ll have everlasting joy in your land. <strong><sup>8</sup></strong><em>“I</em><em>, the </em><em>L</em><em>ORD</em><em>, love justice</em> <em>	</em><em>	</em><em>	</em><em>a</em><em>nd</em><em> despise</em><em> short-changing in burnt </em><em>offering;</em> <em>	</em><em>	I’ll make an everlasting </em><em>contract</em><em> with you</em> <em>	</em><em>	</em><em>	and </em><em>faithfully pay you for your work</em><em>.</em></span>
+<span class="verse" id="v7"><strong><sup>7</sup></strong>Instead of humiliation you’ll have a double portion; rather than dishonor you’ll celebrate over your lot. You’ll have everlasting joy in your land.</span>
 
 <span class="verse" id="v9"><strong><sup>9</sup></strong><em>Then</em><em> the nations will honor your offspring </em><em>worldwide</em><em>;</em> <em>	</em><em>	e</em><em>veryone will recognize you</em><em> </em><em>as the offspring the </em><em>L</em><em>ORD</em><em> blessed.”</em><strong>	</strong> <strong>Is</strong><strong> 61:4-9</strong></span>
 

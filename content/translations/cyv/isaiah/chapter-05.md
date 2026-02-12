@@ -9,18 +9,17 @@ type: chapter
 weight: 5
 ---
 
-## Isaiah Chapter **5**
+## Isaiah Chapter 5
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>For the one I love, let me sing a song about his vineyard: The one I love had a vineyard on a fertile hill.</span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> For the one I love, let me sing a song about his vineyard: The one I love had a vineyard on a fertile hill.</span>
 
-<span class="verse" id="v2"><strong><sup>2</sup></strong>He spaded up the ground, picked up the rocks, and planted the best grapevines in it; he built a tower there and hewed out a <em>stone </em>wine vat; he expected it to produce <em>good </em>grapes, <em>	</em><em>	</em>but it produced wild ones.<strong>	</strong><strong>Is</strong><strong> 5:1-2</strong> <strong><sup>3</sup></strong><em>“P</em><em>eople</em><em> in </em><em>Judah and </em><em>Jerusalem,</em> <em>	</em><em>	judge </em><em>between me and my vineyard.</em></span>
+<span class="verse" id="v2"><strong><sup>2</sup></strong>He spaded up the ground, picked up the rocks, and planted the best grapevines in it; he built a tower there and hewed out a <em>stone </em>wine vat; he expected it to produce <em>good </em>grapes, <em>	</em><em>	</em>but it produced wild ones.<strong>	</strong><strong>Is</strong><strong> 5:1-2</strong></span>
 
 <span class="verse" id="v4"><strong><sup>4</sup></strong><em>What</em><em> could I ha</em><em>ve done for </em><em>it</em><em> that I didn’t do?</em> <em>	</em><em>	Why did it produce </em><em>bitter</em><em> grapes instead of </em><em>sweet</em><em> ones?</em></span>
 
 <span class="verse" id="v5"><strong><sup>5</sup></strong><em>L</em><em>et</em><em> me tell you what I’</em><em>m going to do with</em><em> </em><em>it</em><em>:</em> <em>	</em><em>	I’</em><em>ll cut</em><em> </em><em>down the hedge </em>around it<em> and </em><em>burn </em><em>it;</em> <em>	</em><em>	I’ll tear down </em><em>the</em><em> wall </em> <em>	</em><em>	</em><em>	</em><em>and </em><em>let </em>animals<em> trample it</em><em>.</em></span>
 
-<span class="verse" id="v6"><strong><sup>6</sup></strong><em>I</em><em> won’t take care of it, prune it, or hoe </em><em>it;</em> <em>	</em><em>	briars and thorns will take it </em><em>over;</em> <em>	</em><em>	I’ll tell the clouds </em><em>not to rain on it anymore</em><em>.”</em><strong>	</strong></span>
-<p class="section-ref">Is 5:3-6</p>
+<span class="verse" id="v6"><strong><sup>6</sup></strong><em>I</em><em> won’t take care of it, prune it, or hoe </em><em>it;</em> <em>	</em><em>	briars and thorns will take it </em><em>over;</em> <em>	</em><em>	I’ll tell the clouds </em><em>not to rain on it anymore</em><em>.”</em><strong>	</strong><strong>Is 5:3-6</strong></span>
 
 <span class="verse" id="v7"><strong><sup>7</sup></strong>Israel is Yahveh’s vineyard; the people in Judah are his delightful garden; so he looked for justice but <em>saw</em> bloodshed; <em>he expected</em> goodness but <em>heard</em> cries of distress. <strong>Judah’s Guilt and Judgment</strong></span>
 
@@ -28,16 +27,11 @@ weight: 5
 
 <span class="verse" id="v9"><strong><sup>9</sup></strong>I’ve heard Yahveh of Hosts swear, <em>“</em><em>Lots of</em><em> houses </em><em>will be empty</em><em>, even </em><em>big, nice</em><em> </em><em>ones</em><em>;</em></span>
 
-<span class="verse" id="v10"><strong><sup>10</sup></strong><em>t</em><em>en</em><em> acres of vineyard will only </em><em>produce</em><em> </em><em>9</em><em> gallons </em><em><sup>1 bath </sup></em><em>of </em><em>wine;</em> <em>	</em><em>	</em><em>	11</em><em> bushels </em><em><sup>1 homer </sup></em><em>of seed will only </em><em></span>
-<p class="section-ref">yield 1</p>
-
-### .1 bushels 1 ephah of grain.”
-
+<span class="verse" id="v10"><strong><sup>10</sup></strong><em>t</em><em>en</em><em> acres of vineyard will only </em><em>produce</em><em> </em><em>9</em><em> gallons </em><em><sup>1 bath </sup></em><em>of </em><em>wine;</em> <em>	</em><em>	</em><em>	11</em><em> bushels </em><em><sup>1 homer </sup></em><em>of seed will only </em><em>yield 1.1 bushels </em><em><sup>1 ephah</sup></em><em> </em><em>of grain.”</em></span>
 
 <span class="verse" id="v11"><strong><sup>1</sup></strong>Misfortune awaits those who get up early to drink alcohol and stay up late to get drunk on wine.</span>
 
-<span class="verse" id="v12"><strong><sup>2</sup></strong>Their banquets feature lyres and harps, tambourines and flutes—and wine; but they give no thought to Yahveh or pay attention to what he’s doing.<strong>	</strong></span>
-<p class="section-ref">Is 5:7-12</p>
+<span class="verse" id="v12"><strong><sup>2</sup></strong>Their banquets feature lyres and harps, tambourines and flutes—and wine; but they give no thought to Yahveh or pay attention to what he’s doing.<strong>	</strong><strong>Is 5:7-12</strong></span>
 
 <span class="verse" id="v13"><strong><sup>3</sup></strong>So my people will go into exile for ignoring me; their honored ones will starve; their common people will be parched with thirst.</span>
 

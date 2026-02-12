@@ -1,18 +1,19 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Topics
+- Essays
 - MINISTRY
 - PREPARATION for Ministry
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: EDUCATION FOR USE
 weight: 999
 ---
 
-EDUCATION FOR USE
+
 
 The Teaching Task
+
 
 Bible colleges adapt higher education in partial preparation for ministry. On the one hand, they obviously differ from “secular” institutions by presenting courses from a Christian perspective. Unlike seminaries, Bible colleges begin ministry preparation at the undergraduate level. They differ also from Christian liberal arts institutions by including mostly those courses that have the greatest transfer to ministry, by teaching them with a view to ministering, by reducing the emphasis on liberal arts as such, and by including practical courses. On the other hand, Bible colleges do not try to become simply vocational-technical schools. In both practical and conceptual aspects of the curriculum, a governing principle for Bible colleges is “education for use.”
 
@@ -24,7 +25,9 @@ A second effort can deal with topics in connection with the places where they te
 
 In Greek classes we can make a similar application to practical usage. After a weekly vocabulary quiz is finished, we could spend the rest of the hour looking at significant passages where Greek has come into the interpretation procedure. Sometimes in translating straight through a book, a student may go for a chapter or more before encountering a verse where the study of the original makes a significant contribution. By dealing with these texts intentionally, maximum benefit derives from the effort expended in the study of the language. We think such a procedure illustrates one more way in which the teaching task is consciously brought in line with Bible college educational philosophy—“education for use.”
 
+
 The Learning Task
+
 
 “Education for use” impacts the way professors do their work in the selection of material and the manner of presenting it. It also affects the learning process by supplying appropriate motivation, determining relevant performance, and giving a sense of fulfillment.
 
@@ -38,7 +41,9 @@ As a basis for satisfaction, “education for use” brings a continuing sense o
 
 “Education for use” does not mean that only behavioral things are important. It also does not mean that everything has to have a direct bearing on practical activity. Some things have an indirect bearing on behavior and practice: gnostic dualism, views of anthropology, theories of soteriology, ethical theory, eschatology (especially the doctrine of resurrection). Education for use means we study everything in connection with how it affects action. It means we teach in terms of ministry; it is irrelevant whether the student plans to be a vocational minister, because the Christian life itself calls for the priesthood of all believers. “Education for use” does not mean that we study only what we can use—methods and behavior—but that we study everything in connection with use.
 
+
 Curriculum
+
 
 Structuring preparation for ministry requires going beyond the common format of higher education in America. Since Bible colleges intend to help people prepare for ministry, the components of that endeavor must include the development of personal life-quality and ministry skills as well as Bible-content courses, theological studies, tool courses for Bible study, and integrating courses in certain liberal arts.
 
@@ -65,3 +70,4 @@ A number of extra-curricular experiences give students a chance to gain a sense 
 Efforts such as those outlined above help ensure that the nature of preparation corresponds with the nature of ministry for which students are preparing.
 
 christir.org
+

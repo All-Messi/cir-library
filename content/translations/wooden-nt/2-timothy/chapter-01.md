@@ -8,7 +8,7 @@ type: chapter
 weight: 1
 ---
 
-## 2 Timothy Chapter **1**
+## 2 Timothy Chapter 1
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Paul, apostle of-Christ Jesus by (the) will of-God according-to (the) promise of-life [the] in Christ Jesus, <strong><sup>2</sup></strong>to-Timothy, beloved son.  Grace, mercy, peace from God (the) Father and Christ Jesus the Lord of-us.</span>
 

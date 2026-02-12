@@ -1,6 +1,6 @@
 ---
 book: Colossians
-chapters: 3
+chapters: 4
 title: Colossians
 translation: CNT
 type: book
@@ -9,4 +9,6 @@ weight: 51
 
 ## Colossians
 
-**3 Chapters**
+**4 Chapters**
+
+Select a chapter to begin reading:

@@ -4,14 +4,14 @@ chapter: 23
 next: chapter-24
 prev: chapter-22
 title: Job 23
-translation: COT
+translation: CNT
 type: chapter
 weight: 23
 ---
 
-## Job Chapter **23**
+## Job Chapter 23
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup><strong>Job answered:</strong> <strong><sup>2</sup></strong><em>“My complaint is still bitter;</em> <em>	</em><em>	</em>God’s<em> hand weighs heavily on me despite my groaning.</em></span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> <strong>Job answered:</strong></span>
 
 <span class="verse" id="v3"><strong><sup>3</sup></strong><em>If only I knew where to find him</em> <em>	</em><em>	so I could go to his courtroom!</em></span>
 
@@ -21,11 +21,8 @@ weight: 23
 
 <span class="verse" id="v6"><strong><sup>6</sup></strong><em>Would he oppose me with his great power?</em> <em>	</em><em>	No, he’d listen!</em></span>
 
-<span class="verse" id="v7"><strong><sup>7</sup></strong><em>Someone godly would be reasoning with him,</em> <em>	</em><em>	and my Judge would acquit me permanently.</em></span>
+<span class="verse" id="v7"><strong><sup>7</sup></strong><em>Someone godly would be reasoning with him,</em> <em>	</em><em>	and my Judge would acquit me permanently.</em><strong></span>
 <p class="section-ref">Job 23:1-7</p>
-
-### 8“I go east, but he’s not there; 		I go west, but I can’t find him.
-
 
 <span class="verse" id="v9"><strong><sup>9</sup></strong><em>When he acts in the north, I can’t see it;</em> <em>	</em><em>	when he turns to the south, he’s hidden there too</em>.</span>
 
@@ -43,8 +40,7 @@ weight: 23
 
 <span class="verse" id="v16"><strong><sup>6</sup></strong><em>It’s God that’s made my heart faint,</em> <em>	</em><em>	the Almighty that’s terrified me.</em></span>
 
-<span class="verse" id="v17"><strong><sup>7</sup></strong><em>Yet the darkness doesn’t silence me</em> <em>	</em><em>	or the deep gloom that covers me.</em><strong>	</strong></span>
-<p class="section-ref">Job 23:8-17</p>
+<span class="verse" id="v17"><strong><sup>7</sup></strong><em>Yet the darkness doesn’t silence me</em> <em>	</em><em>	or the deep gloom that covers me.</em><strong>	</strong><strong>Job 23:8-17</strong></span>
 
 
 <style>

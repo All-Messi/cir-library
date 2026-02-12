@@ -9,16 +9,15 @@ type: chapter
 weight: 18
 ---
 
-## Isaiah Chapter **18**
+## Isaiah Chapter 18
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>Ah, land of fluttering wings, land beyond the headwaters of the Nile in Nubia,</span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Ah, land of fluttering wings, land beyond the headwaters of the Nile in Nubia,</span>
 
 <span class="verse" id="v2"><strong><sup>2</sup></strong>that sends envoys by sea in papyrus boats— go swiftly, ambassadors, to <strong>a nation tall and </strong><strong>smooth</strong><strong>,</strong> <strong>a people</strong><strong> feared far and wide,</strong> <strong>	a powerful, oppressive nation</strong> <strong>	</strong><strong>	crisscrossed by rivers.</strong></span>
 
 <span class="verse" id="v3"><strong><sup>3</sup></strong>All of you that live in the world, look when I raise the signal on the mountains, listen when I blow the ram’s horn,</span>
 
-<span class="verse" id="v4"><strong><sup>4</sup></strong>because Yahveh has told me: <em>“I’ll </em><em>watch quietly</em><em> from my </em><em>Temple,</em><em> </em> <em>	</em><em>	</em><em>	</em>as quietly as<em> </em>a <em>cloud forming</em><em> in the </em><em>summer sunshine</em><em>,</em> <em>	</em><em>	</em><em>	like</em><em> dew </em><em>condensing</em><em> at</em><em> harvest</em><em> time</em><em>.”</em><strong> </strong><strong>	</strong></span>
-<p class="section-ref">Is 18:1-4</p>
+<span class="verse" id="v4"><strong><sup>4</sup></strong>because Yahveh has told me: <em>“I’ll </em><em>watch quietly</em><em> from my </em><em>Temple,</em><em> </em> <em>	</em><em>	</em><em>	</em>as quietly as<em> </em>a <em>cloud forming</em><em> in the </em><em>summer sunshine</em><em>,</em> <em>	</em><em>	</em><em>	like</em><em> dew </em><em>condensing</em><em> at</em><em> harvest</em><em> time</em><em>.”</em><strong> </strong><strong>	</strong><strong>Is 18:1-4</strong></span>
 
 <span class="verse" id="v5"><strong><sup>5</sup></strong>Before harvest, as soon as the bud blossoms and the flowers start turning into grapes, he’ll snip off the new shoots with pruning shears and lop off the spreading branches.</span>
 

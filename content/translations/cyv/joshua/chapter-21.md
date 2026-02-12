@@ -9,59 +9,29 @@ type: chapter
 weight: 21
 ---
 
-## Joshua Chapter **21**
+## Joshua Chapter 21
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>The heads of families among the Levites came to Eleazar the priest, Joshua, and the heads of families in Israel. <strong><sup>2</sup></strong>They said, <em>“</em><em>Yahveh</em> <em>commanded Moses </em><em>to give us</em><em> </em><em>towns</em><em> to l</em><em>ive in along with pasture</em><em>s for our </em><em>livestock</em><em>.”</em> <strong><sup>3</sup></strong>Israel gave the Levites those towns and their pastures out of their inheritance.</span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> The heads of families among the Levites came to Eleazar the priest, Joshua, and the heads of families in Israel. <strong><sup>2</sup></strong>They said, <em>“</em><em>Yahveh</em> <em>commanded Moses </em><em>to give us</em><em> </em><em>towns</em><em> to l</em><em>ive in along with pasture</em><em>s for our </em><em>livestock</em><em>.”</em> <strong><sup>3</sup></strong>Israel gave the Levites those towns and their pastures out of their inheritance.</span>
 
-<span class="verse" id="v4"><sup><strong>4</strong></sup>The lot came out for the clans of Kohathites; the descendants of Aaron rec</span>
-<p class="section-ref">eived 13</p>
+<span class="verse" id="v4"><sup class="verse-num">4</sup> The lot came out for the clans of Kohathites; the descendants of Aaron received 13 towns from Judah, Simeon, and Benjamin.</span>
 
-### towns from Judah, Simeon, and Benjamin.
+<span class="verse" id="v5"><sup class="verse-num">5</sup> The rest of the Kohathites received by lot 10 towns from Ephraim, Dan, and the Manasseh<em> </em>half-tribe.</span>
 
+<span class="verse" id="v6"><sup class="verse-num">6</sup> The Gershonites received by lot 13 towns from Issachar, Asher, and Naphtali, and the Manasseh half-tribe<em> </em>in Bashan.</span>
 
-<span class="verse" id="v5"><sup><strong>5</strong></sup>The rest of the Kohathites received by</span>
-<p class="section-ref">lot 10</p>
+<span class="verse" id="v7"><sup class="verse-num">7</sup> The Merarites by clans received 12 towns from Reuben, Gad, and Zebulun. [<strong><sup>8</sup></strong>] <strong><sup>	</sup></strong><strong>Josh 21:1-8</strong></span>
 
-### towns from Ephraim, Dan, and the Manasseh half-tribe.
+<span class="verse" id="v9"><sup class="verse-num">9</sup> From <u>Judah</u> and <u>Simeon</u> they gave the following towns. <strong><sup>10</sup></strong>They went to Aaron’s descendants, one clan of <strong>Kohathites</strong> among the Levites, since the lot fell to them first. <strong><sup>11</sup></strong>They gave them Kiriath-arba (Hebron; Arba was father of Anak.) in the hill country of Judah, along with its pastureland. <strong><sup>12</sup></strong>But the city’s fields and villages had been given to Caleb Ben-Jephunneh. <strong><sup>13</sup></strong>They gave them Hebron, a city of refuge; Libnah, <strong><sup>14</sup></strong>Jattir, Eshtemoa, <strong><sup>15</sup></strong>Holon, Debir, <strong><sup>16</sup></strong>Ain, Juttah, and Beth-shemesh—9 towns with their pastures. <strong><sup>17</sup></strong>From <u>Benjamin</u> <em>they gave</em> Gibeon, Geba, <strong><sup>18</sup></strong>Anathoth, and Almon—4 towns with their pastures. <strong><sup>19</sup></strong>Aaron’s descendants had 13 towns in all.</span>
 
+<span class="verse" id="v20"><sup class="verse-num">20</sup> To the rest of the Kohathites the towns were allotted from <u>Ephraim</u>: <strong><sup>21</sup></strong>Shechem, a city of refuge in the hill country of Ephraim; Gezer, <strong><sup>22</sup></strong>Kibzaim, and Beth-horon—4 towns with their pastures. <strong><sup>23</sup></strong>From <u>Dan</u> <em>they gave </em>Elteke, Gibbethon, <strong><sup>24</sup></strong>Aijalon, Gath-rimmon—4 towns with their pastures. <strong><sup>25</sup></strong>From the <u>Manasseh</u><u> half-tribe</u> they gave Taanach and Gath-rimmon—2 towns with their pastures. <strong><sup>26</sup></strong>The rest of the Kohathites had 10 towns with their pastures.</span>
+<p class="section-ref">Josh 21:9-26</p>
 
-<span class="verse" id="v6"><sup><strong>6</strong></sup>The Gershonites received by</span>
-<p class="section-ref">lot 13</p>
+<span class="verse" id="v27"><sup class="verse-num">27</sup> To the <strong>Gershonites</strong>—one clan of the Levites—from <u>the</u><u> Manasseh</u><u> half-tribe</u> <em>they gave</em> Golan in Bashan, a city of refuge; and Be-eshterah—2 towns with their pastures. <strong><sup>28</sup></strong>From <u>Issachar</u> <em>they gave</em> Kishion, Daberath, <strong><sup>29</sup></strong>Jarmuth, En-gannim—4 towns with their pastures. <strong><sup>30</sup></strong>From <u>Asher</u> they gave Mishal, Abdon, <strong><sup>31</sup></strong>Helkath, and Rehob—4 towns with their pastures. <strong><sup>32</sup></strong>From <u>Naphtali</u> they gave Kedesh in Galilee, a city of refuge, Hammoth-dor, and Kartan—3 towns with their pastures. <strong><sup>33</sup></strong>The Gershonites had 13 towns with their pastures.<strong> </strong><strong>  </strong><strong></span>
+<p class="section-ref">Josh 21:27-33</p>
 
-### towns from Issachar, Asher, and Naphtali, and the Manasseh half-tribe in Bashan.
+<span class="verse" id="v34"><sup class="verse-num">34</sup> To the rest of the Levites—the <strong>Merarite</strong> clan—from <u>Zebulun</u> <em>they gave</em> Jokneam, Kartah, <strong><sup>35</sup></strong>Dimnah, and Nahalal—4 towns with their pastures. <strong><sup>36</sup></strong>From <u>Reuben</u> <em>they gave</em> Bezer, Jahaz, <strong><sup>37</sup></strong>Kedemoth, and Mephaath—4 towns with their pastures. <strong><sup>38</sup></strong>From Gad <em>they gave</em> Ramoth in Gilead, a city of refuge; Mahanaim, <strong><sup>39</sup></strong>Heshbon, and Jazer—4 towns with their pastures. <strong><sup>40</sup></strong>The Merarite clan had 12 towns. <strong><sup>41</sup></strong><strong><sup>-</sup></strong><strong><sup>42</sup></strong>Throughout Israel the Levites had 48 towns with their pastures around them.</span>
 
-
-<span class="verse" id="v7"><sup><strong>7</strong></sup>The Merarites by clans rec</span>
-<p class="section-ref">eived 12</p>
-
-### towns from Reuben, Gad, and Zebulun. [8] 	Josh 21:1-8
-
-
-<span class="verse" id="v9"><sup><strong>9</strong></sup>From <u>Judah</u> and <u>Simeon</u> they gave the following towns. <strong><sup>10</sup></strong>They went to Aaron’s descendants, one clan of <strong>Kohathites</strong> among the Levites, since the lot fell to them first. <strong><sup>11</sup></strong>They gave them Kiriath-arba (Hebron; Arba was father of Anak.) in the hill country of Judah, along with its pastureland. <strong><sup>12</sup></strong>But the city’s fields and villages had been given to Caleb Ben-Jephunneh. <strong><sup>13</sup></strong>They gave them Hebron, a city of refuge; Libnah, <strong><sup>14</sup></strong>Jattir, Eshtemoa, <strong><sup>15</sup></strong>Holon, Debir, <strong><sup>16</sup></strong>Ain, Juttah, and Beth-shemesh—9 towns with their pastures. <strong><sup>17</sup></strong>From <u>Benjamin</u> <em>they gave</em> Gibeon, Geba, <strong><sup>18</sup></strong>Anathoth, and Almon—4 towns with their pastures. <strong><sup>19</sup></strong>Aaron’s descendants</span>
-<p class="section-ref">had 13</p>
-
-### towns in all.
-
-
-<span class="verse" id="v20"><sup><strong>20</strong></sup>To the rest of the Kohathites the towns were allotted from <u>Ephraim</u>: <strong><sup>21</sup></strong>Shechem, a city of refuge in the hill country of Ephraim; Gezer, <strong><sup>22</sup></strong>Kibzaim, and Beth-horon—4 towns with their pastures. <strong><sup>23</sup></strong>From <u>Dan</u> <em>they gave </em>Elteke, Gibbethon, <strong><sup>24</sup></strong>Aijalon, Gath-rimmon—4 towns with their pastures. <strong><sup>25</sup></strong>From the <u>Manasseh</u><u> half-tribe</u> they gave Taanach and Gath-rimmon—2 towns with their pastures. <strong><sup>26</sup></strong>The rest of the Kohathites</span>
-<p class="section-ref">had 10</p>
-
-### towns with their pastures.	 Josh 21:9-26
-
-
-<span class="verse" id="v27"><sup><strong>27</strong></sup>To the <strong>Gershonites</strong>—one clan of the Levites—from <u>the</u><u> Manasseh</u><u> half-tribe</u> <em>they gave</em> Golan in Bashan, a city of refuge; and Be-eshterah—2 towns with their pastures. <strong><sup>28</sup></strong>From <u>Issachar</u> <em>they gave</em> Kishion, Daberath, <strong><sup>29</sup></strong>Jarmuth, En-gannim—4 towns with their pastures. <strong><sup>30</sup></strong>From <u>Asher</u> they gave Mishal, Abdon, <strong><sup>31</sup></strong>Helkath, and Rehob—4 towns with their pastures. <strong><sup>32</sup></strong>From <u>Naphtali</u> they gave Kedesh in Galilee, a city of refuge, Hammoth-dor, and Kartan—3 towns with their pastures. <strong><sup>33</sup></strong>The Gershonites</span>
-<p class="section-ref">had 13</p>
-
-### towns with their pastures.   	Josh 21:27-33
-
-
-<span class="verse" id="v34"><sup><strong>34</strong></sup>To the rest of the Levites—the <strong>Merarite</strong> clan—from <u>Zebulun</u> <em>they gave</em> Jokneam, Kartah, <strong><sup>35</sup></strong>Dimnah, and Nahalal—4 towns with their pastures. <strong><sup>36</sup></strong>From <u>Reuben</u> <em>they gave</em> Bezer, Jahaz, <strong><sup>37</sup></strong>Kedemoth, and Mephaath—4 towns with their pastures. <strong><sup>38</sup></strong>From Gad <em>they gave</em> Ramoth in Gilead, a city of refuge; Mahanaim, <strong><sup>39</sup></strong>Heshbon, and Jazer—4 towns with their pastures. <strong><sup>40</sup></strong>The Merarite clan</span>
-<p class="section-ref">had 12</p>
-
-### towns. 41-42Throughout Israel the Levites had 48 towns with their pastures around them.
-
-
-<span class="verse" id="v43"><sup><strong>43</strong></sup>Yahveh gave Israel all the land he swore to their ancestors. They took it and settled there. <strong><sup>44</sup></strong>He gave them peace from every direction. Not one of their enemies could stand against them. <strong><sup>45</sup></strong>None of his good promises failed.</span>
+<span class="verse" id="v43"><sup class="verse-num">43</sup> Yahveh gave Israel all the land he swore to their ancestors. They took it and settled there. <strong><sup>44</sup></strong>He gave them peace from every direction. Not one of their enemies could stand against them. <strong><sup>45</sup></strong>None of his good promises failed.</span>
 <p class="section-ref">Josh 21:34</p>
 
 ### -45 Eastern Tribes Return Home

@@ -4,31 +4,31 @@ chapter: 20
 next: chapter-21
 prev: chapter-19
 title: Psalms 20
-translation: COT
+translation: CNT
 type: chapter
 weight: 20
 ---
 
-## Psalms Chapter **20**
+## Psalms Chapter 20
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>When trouble comes, may the LORD answer you! May Jacob’s God set you safely on high!</span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> When trouble comes, may the LORD answer you! May Jacob’s God set you safely on high!</span>
 
-<span class="verse" id="v2"><sup><strong>2</strong></sup>May he send help from the sanctuary and support you from Zion!</span>
+<span class="verse" id="v2"><sup class="verse-num">2</sup> May he send help from the sanctuary and support you from Zion!</span>
 
-<span class="verse" id="v3"><sup><strong>3</strong></sup>May he remember your many meal offerings and find your burnt offerings acceptable.</span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> May he remember your many meal offerings and find your burnt offerings acceptable.</span>
 
-<span class="verse" id="v4"><sup><strong>4</strong></sup>May he grant you your heart’s desire and make your plans successful.</span>
+<span class="verse" id="v4"><sup class="verse-num">4</sup> May he grant you your heart’s desire and make your plans successful.</span>
 
-<span class="verse" id="v5"><sup><strong>5</strong></sup>You’ll sing for joy over his deliverance and hoist your banners in his name. May the LORD give you your petitions.</span>
+<span class="verse" id="v5"><sup class="verse-num">5</sup> You’ll sing for joy over his deliverance and hoist your banners in his name. May the LORD give you your petitions.</span>
 <p class="section-ref">Ps 20:1-5</p>
 
-<span class="verse" id="v6"><sup><strong>6</strong></sup>We know the LORD saves his anointed ones; he answers them from his holy heaven with the saving strength of his right hand.</span>
+<span class="verse" id="v6"><sup class="verse-num">6</sup> We know the LORD saves his anointed ones; he answers them from his holy heaven with the saving strength of his right hand.</span>
 
-<span class="verse" id="v7"><sup><strong>7</strong></sup>Some <em>nations </em>boast about chariots and horses, but we’ll boast about the LORD our God.</span>
+<span class="verse" id="v7"><sup class="verse-num">7</sup> Some nations boast about chariots and horses, but we’ll boast about the LORD our God.</span>
 
-<span class="verse" id="v8"><sup><strong>8</strong></sup>Those nations will collapse and fall, but we’ll rise up and stand tall.</span>
+<span class="verse" id="v8"><sup class="verse-num">8</sup> Those nations will collapse and fall, but we’ll rise up and stand tall.</span>
 
-<span class="verse" id="v9"><sup><strong>9</strong></sup>Give <em>us </em>victory, LORD, when we call.</span>
+<span class="verse" id="v9"><sup class="verse-num">9</sup> Give us victory, LORD, when we call.</span>
 <p class="section-ref">Ps 20:6-9</p>
 
 

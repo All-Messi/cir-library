@@ -4,20 +4,16 @@ chapter: 20
 next: chapter-21
 prev: chapter-19
 title: Joshua 20
-translation: COT
+translation: CNT
 type: chapter
 weight: 20
 ---
 
-## Joshua Chapter **20**
+## Joshua Chapter 20
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>Then the LORD said to Joshua, <strong><sup>2</sup></strong><em>“Have the people establish</em><em> the </em><em>cities</em><em> of </em><em>refuge</em><em> I spoke to you about through Moses, </em><strong><sup>3</sup></strong><em>so anyone that</em><em> kills somebody </em><em>accidentally </em><em>can flee there from </em><em>an</em><em> avenger.</em><em> </em><strong><sup>4</sup></strong><em>Standing at the entrance to</em><em> the </em><em>city </em><em>gate, </em><em>the slayer will</em><em> explai</em><em>n his case to the elders, and t</em><em>hey’ll </em><em>provide</em><em> a place</em><em> </em>to stay<em> in the city</em><em>.</em><em> </em><strong><sup>5</sup></strong><em>T</em><em>hey won</em><em>’t betray the slayer to any avenger </em><em>because </em><em>the death was an accident,</em><em> no previous </em><em>animosity</em><em> </em><em>involved</em><em>.</em><em> </em><strong><sup>6</sup></strong><em>The slayer will</em><em> stay in that city for judgment till the death of the current high priest</em><em>, and then go back home.</em><em>”</em></span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Then the LORD said to Joshua,</span>
 
-<span class="verse" id="v7"><sup><strong>7</strong></sup>They set apart <u>Kedesh</u> in Galilee in the hill country of Naphtali, <u>Shechem</u> in the hill country of Ephraim, and <u>Kiriath-arba</u> (Hebron) in the hill country of Judah. <strong><sup>8</sup></strong>East of Jericho and the Jordan, they designated <u>Bezer</u> on the tableland in Reuben, <u>Ramoth</u> in Gilead in Gad, and <u>Golan</u> in Bashan in Manasseh. <strong><sup>9</sup></strong>They designated those towns for Israelites and foreigners among them to flee to, so the avenger of blood couldn’t take revenge before the slayer could stand in public trial.<strong>       </strong><strong>	</strong></span>
-<p class="section-ref">Josh 20:1-9</p>
-
-### Towns for the Levites
-
+<span class="verse" id="v7"><sup class="verse-num">7</sup> They set apart <u>Kedesh</u> in Galilee in the hill country of Naphtali, <u>Shechem</u> in the hill country of Ephraim, and <u>Kiriath-arba</u> (Hebron) in the hill country of Judah. <strong><sup>8</sup></strong>East of Jericho and the Jordan, they designated <u>Bezer</u> on the tableland in Reuben, <u>Ramoth</u> in Gilead in Gad, and <u>Golan</u> in Bashan in Manasseh. <strong><sup>9</sup></strong>They designated those towns for Israelites and foreigners among them to flee to, so the avenger of blood couldn’t take revenge before the slayer could stand in public trial.<strong>       </strong><strong>	</strong><strong>Josh 20:1-9</strong> <strong>Towns for the Levites</strong></span>
 
 
 <style>

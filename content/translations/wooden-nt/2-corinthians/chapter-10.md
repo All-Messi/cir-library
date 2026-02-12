@@ -9,7 +9,7 @@ type: chapter
 weight: 10
 ---
 
-## 2 Corinthians Chapter **10**
+## 2 Corinthians Chapter 10
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Now I, Paul myself urge you by/through the meekness and gentleness of-[the] Christ, who according-to face (was) meek among you, but bold toward you, being-absent, <strong><sup>2</sup></strong>I-ask (that) [the] not, being-present, to be-bold with-the confidence by-which I-reckon to-be-brave against some the-ones reckoning us as walking according-to (the) flesh. <strong><sup>3</sup></strong>For walking in (the) flesh, we-do<strong>┘</strong>not└do-war/battle according-to (the) flesh. <strong><sup>4</sup></strong>For the weapons of-the warfare of-us (are) not fleshly, but powerful before/to-[the] God unto (the) destruction of-strongholds/fortresses destroying speculations <strong><sup>5</sup></strong>and every stronghold/fortress raised-up against the knowledge of-[the] God and taking<strong>┘</strong>every thought└captive to the obedience of [the] Christ, <strong><sup>6</sup></strong>and having in readiness to-punish every disobedience, when the obedience of-you is-fulfilled/complete.</span>
 

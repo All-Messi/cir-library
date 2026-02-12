@@ -4,12 +4,12 @@ chapter: 34
 next: chapter-35
 prev: chapter-33
 title: Isaiah 34
-translation: COT
+translation: CNT
 type: chapter
 weight: 34
 ---
 
-## Isaiah Chapter **34**
+## Isaiah Chapter 34
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Come close, nations, and listen! world and everything in it, pay attention.</span>
 
@@ -17,15 +17,11 @@ weight: 34
 
 <span class="verse" id="v3"><strong><sup>3</sup></strong>Their slain will be thrown out; their corpses will reek; their blood will soak the hillsides.</span>
 
-<span class="verse" id="v4"><strong><sup>4</sup></strong>The stars will fade out; the sky will roll up like a scroll. it’ll wither away like leaves on a grapevine or fig tree.<strong>	</strong></span>
-<p class="section-ref">Is 34:1-4</p>
+<span class="verse" id="v4"><strong><sup>4</sup></strong>The stars will fade out; the sky will roll up like a scroll. it’ll wither away like leaves on a grapevine or fig tree.<strong>	</strong><strong>Is 34:1-4</strong></span>
 
-### 5“My sword has drunk its fill in the sky; 		it will come down in condemnation on Edom, 			a nation I’ve devoted to complete destruction.
+<span class="verse" id="v6"><sup class="verse-num">6</sup> <strong><em><sup>6</sup></em></strong><em>My</em><em> sword will be bloody,</em> <em>	</em><em>	covered with the blood of lambs and goats,</em> <em>	</em><em>	</em><em>	with </em><em>the fat</em><em> on the kidneys of </em><em>rams;</em> <em>	</em><em>	because I’ll hold a sacrifice in Bozrah,</em> <em>	</em><em>	</em><em>	a great slaughter in Edom.</em></span>
 
-
-<span class="verse" id="v6"><sup><strong>6</strong></sup><strong><em><sup>6</sup></em></strong><em>My</em><em> sword will be bloody,</em> <em>	</em><em>	covered with the blood of lambs and goats,</em> <em>	</em><em>	</em><em>	with </em><em>the fat</em><em> on the kidneys of </em><em>rams;</em> <em>	</em><em>	because I’ll hold a sacrifice in Bozrah,</em> <em>	</em><em>	</em><em>	a great slaughter in Edom.</em></span>
-
-<span class="verse" id="v7"><sup><strong>7</strong></sup><strong><em><sup>7</sup></em></strong><em>Wild</em><em> oxen will fall with them,</em> <em>	</em><em>	</em><em>	male calves and great </em><em>bulls;</em> <em>	</em><em>	 Its ground will be soaked with </em><em>blood;</em> <em>	</em><em>	</em><em>	its dust will be greasy from fat.”</em><strong>	</strong><strong>Is</strong><strong> 34:6-7</strong></span>
+<span class="verse" id="v7"><sup class="verse-num">7</sup> <strong><em><sup>7</sup></em></strong><em>Wild</em><em> oxen will fall with them,</em> <em>	</em><em>	</em><em>	male calves and great </em><em>bulls;</em> <em>	</em><em>	 Its ground will be soaked with </em><em>blood;</em> <em>	</em><em>	</em><em>	its dust will be greasy from fat.”</em><strong>	</strong><strong>Is</strong><strong> 34:6-7</strong></span>
 
 <span class="verse" id="v8"><strong><sup>8</sup></strong>The LORD will have a day of vengeance, a year of payback for what Edom did to Zion.</span>
 

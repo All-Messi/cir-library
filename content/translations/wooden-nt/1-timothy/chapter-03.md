@@ -9,7 +9,7 @@ type: chapter
 weight: 3
 ---
 
-## 1 Timothy Chapter **3**
+## 1 Timothy Chapter 3
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Faithful (is) the saying:  “if anyone aspires-to (the) work-of-an-overseer/bishop, he-desires (a) good work.”  <strong><sup>2</sup></strong>So it-is-necessary for the/a bishop/overseer to-be above-reproach, husband of-one wife, temperate, sensible, respectable, hospitable, able-to-teach, <strong><sup>3</sup></strong>not-addicted-to-wine, not pugnacious, but gentle, not contentious, not-greedy-for-money, <strong><sup>4</sup></strong>managing [the] his household well, having children in obedience with all good-character—<strong><sup>5</sup></strong>now if anyone does┘not└know-how to manage [the] his own household, how will-he-take-care-of (the) church of-God?—<strong><sup>6</sup></strong>not (a) new-convert lest<sup>2</sup>, being-conceited/proud, he-should fall into (the) condemnation of-the devil.  <strong><sup>7</sup></strong>And it-is-necessary also (for him) to-have (a) good reputation from the-ones outside in-order-that he┘not└fall into (the) disgrace and trap/snare of-the devil.</span>
 

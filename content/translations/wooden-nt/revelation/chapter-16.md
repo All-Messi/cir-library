@@ -9,7 +9,7 @@ type: chapter
 weight: 16
 ---
 
-## Revelation Chapter **16**
+## Revelation Chapter 16
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>And I-heard (a) loud voice out-of the sanctuary, saying to-the seven angels, <em>“Go and pour-out the seven bowls of-the wrath of-[the] God on the earth.</em><em>”</em></span>
 
@@ -19,7 +19,7 @@ weight: 16
 
 <span class="verse" id="v4"><strong><sup>4</sup></strong>And the third poured-out the bowl of-him on the rivers and the springs of-[the] water[s], and it/they-became blood.  <strong><sup>5</sup></strong>And I-heard the angel of-the water[s], saying, <em>“You-are just, the-One being and the-One he-was, the Holy-One,</em> <em>	</em><em>	</em><em>	</em><em>b</em><em>ecause </em><em>you-judged</em><em> these-</em><em>things;</em></span>
 
-<span class="verse" id="v6"><sup><strong>6</strong></sup><em>	</em><strong><sup>6</sup></strong><em>because</em><em> (the) blood of-(the)-saints and pro</em><em>phets they-poured-out,</em> <em>	</em><em>	</em><em>	</em><em>a</em><em>nd blood you-have-given to-them to-drink.</em> <em>	</em><em>	They-are worthy.</em><em>”</em></span>
+<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>	</em><strong><sup>6</sup></strong><em>because</em><em> (the) blood of-(the)-saints and pro</em><em>phets they-poured-out,</em> <em>	</em><em>	</em><em>	</em><em>a</em><em>nd blood you-have-given to-them to-drink.</em> <em>	</em><em>	They-are worthy.</em><em>”</em></span>
 
 <span class="verse" id="v7"><strong><sup>7</sup></strong>And I-heard the altar saying, <em>“Yes, Lord, [the] God [the] Almighty,</em> <em>	</em><em>	</em><em>	</em><em>t</em><em>rue and just (are) the judgments of-you.”</em></span>
 

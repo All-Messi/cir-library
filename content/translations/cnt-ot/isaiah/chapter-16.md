@@ -4,20 +4,17 @@ chapter: 16
 next: chapter-17
 prev: chapter-15
 title: Isaiah 16
-translation: COT
+translation: CNT
 type: chapter
 weight: 16
 ---
 
-## Isaiah Chapter **16**
+## Isaiah Chapter 16
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>Send tribute lambs to the ruler of the land, from Sela through the desert to Mount Zion.</span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Send tribute lambs to the ruler of the land, from Sela through the desert to Mount Zion.</span>
 
 <span class="verse" id="v2"><strong><sup>2</sup></strong>At the Arnon fords the women of Moab will be left fluttering like birds or homeless nestlings.</span>
 <p class="section-ref">Is 16:1-2</p>
-
-### 3“Give us advice, grant us justice; 			cast your shadow on us like night at noon 			to hide us outcasts; don’t betray us fugitives.
-
 
 <span class="verse" id="v4"><strong><sup>4</sup></strong><em>Let</em><em> </em><em>our</em><em> </em><em>refugees</em><em> from Moab stay </em><em>among</em><em> </em><em>you;</em> <em>	</em><em>	</em><em>	hide us</em><em> from the destroyer.”</em> When oppression and destruction end and raiders have left the land, God will establish one of David’s descendants as king;</span>
 
@@ -37,7 +34,7 @@ weight: 16
 
 <span class="verse" id="v12"><strong><sup>2</sup></strong>When the people of Moab wear themselves out in worship at their shrines and come to their sanctuary to pray, it won’t do them any good.<strong>	</strong><strong>Is</strong><strong> 16:9-12</strong></span>
 
-<span class="verse" id="v13"><sup><strong>13</strong></sup>The LORD spoke that message earlier about Moab. <strong><sup>14</sup></strong>Now he says, <em>“In three years, </em><em>like</em><em> a hired </em><em>hand under contract would</em><em> count them, </em><em>I’ll humble Moab’s</em><em> </em><em>pride and decimate its sizeable population. It</em><em>s </em><em>survivors</em><em> will be </em><em>few</em><em> and </em><em>feeble</em><em>.”</em><strong>	</strong><strong>Is</strong><strong> 16:13-14</strong></span>
+<span class="verse" id="v13"><sup class="verse-num">13</sup> The LORD spoke that message earlier about Moab. <strong><sup>14</sup></strong>Now he says, <em>“In three years, </em><em>like</em><em> a hired </em><em>hand under contract would</em><em> count them, </em><em>I’ll humble Moab’s</em><em> </em><em>pride and decimate its sizeable population. It</em><em>s </em><em>survivors</em><em> will be </em><em>few</em><em> and </em><em>feeble</em><em>.”</em><strong>	</strong><strong>Is</strong><strong> 16:13-14</strong></span>
 
 
 <style>

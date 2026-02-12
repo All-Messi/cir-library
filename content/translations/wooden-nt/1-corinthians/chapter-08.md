@@ -9,7 +9,7 @@ type: chapter
 weight: 8
 ---
 
-## 1 Corinthians Chapter **8**
+## 1 Corinthians Chapter 8
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Now about [the]-things offered to idols. We┘all└have knowledge. [The] knowledge puffs up; [the] love builds up. <strong><sup>2</sup></strong>If anybody thinks (himself) to-know something, he-did┘not-yet└come-to-know as it-is-necessary to-know. <strong><sup>3</sup></strong>And if anybody loves [the] God, this-one has-been-known by him. <strong><sup>4</sup></strong>About [the] eating things-offered-to-idols. We know (there is) no idol in (the) world and that nobody (is) God but<sup>2</sup> one. <strong><sup>5</sup></strong>For even if there-are so-called gods either in heaven or on earth, as there-are many gods and many lords, <sup>6</sup><sup> </sup>[but] for-us (there is) one God the Father, from whom (are) [the] all-things and we (exist) for him, and one Lord Jesus Christ through whom (are) [the] all-things and we (exist) through him.</span>
 

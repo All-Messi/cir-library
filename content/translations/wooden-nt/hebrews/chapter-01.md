@@ -8,7 +8,7 @@ type: chapter
 weight: 1
 ---
 
-## Hebrews Chapter **1**
+## Hebrews Chapter 1
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>In-many-parts and in-many ways [the] God of-old, having-spoken to-the falters in the prophets <strong><sup>2</sup></strong>at (the) last of-[the] these days he-spoke to-us in (a) Son, whom he-appointed heir of-all-things, through whom also he-made the worlds-ages; <strong><sup>3</sup></strong>who being (the) direct-shining of-the/his glory and (the) exact-image of-the substance/nature of-him, and upholding [the] all-things by-the word of-the power of-him, having-made purification of-[the] sins, sat-down on (the) right-(hand) of-the Majesty in (the) high-things, <strong><sup>4</sup></strong>having-become as-much better than-the angels as he-has-inherited (a) more-excellent name than they.</span>
 
@@ -20,7 +20,7 @@ weight: 1
 
 <span class="verse" id="v8"><strong><sup>8</sup></strong>But to the Son (he says), <strong><em>“The throne of-you, [the] God, (is) </em></strong><strong><em>unto the age of-the-age/</em></strong><strong><em>forevermore</em></strong><strong><em><sup>5</sup></em></strong><strong><em>,</em></strong> <strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	and the scepter of-the kingdom of-you</em></strong> <strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>is (a) scepter of-[the] </em></strong><strong><em>righteousness;</em></strong></span>
 
-<span class="verse" id="v9"><sup><strong>9</strong></sup><strong><em>	</em></strong><strong><sup>9</sup></strong><strong><em>y</em></strong><strong><em>ou-loved righteousness and hated </em></strong><strong><em>lawlessness;</em></strong> <strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	o</em></strong><strong><em>n-account-of which [t</em></strong><strong><em>he] God, the G</em></strong><strong><em>od of-you,</em></strong> <strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>anointed┘you└with</em></strong><strong><em> (the) olive-oil of-gladness</em></strong> <strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>more-than the companions of-you.</em></strong><strong><em>”</em></strong></span>
+<span class="verse" id="v9"><sup class="verse-num">9</sup> <strong><em>	</em></strong><strong><sup>9</sup></strong><strong><em>y</em></strong><strong><em>ou-loved righteousness and hated </em></strong><strong><em>lawlessness;</em></strong> <strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	o</em></strong><strong><em>n-account-of which [t</em></strong><strong><em>he] God, the G</em></strong><strong><em>od of-you,</em></strong> <strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>anointed┘you└with</em></strong><strong><em> (the) olive-oil of-gladness</em></strong> <strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>more-than the companions of-you.</em></strong><strong><em>”</em></strong></span>
 
 <span class="verse" id="v10"><strong><sup>0</sup></strong>and, <strong><em>“You from (the) beginning, Lord, founded the earth</em></strong> <strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	and the heavens are works of-the hands of-you.</em></strong></span>
 
@@ -30,7 +30,7 @@ weight: 1
 
 <span class="verse" id="v13"><strong><sup>3</sup></strong>To which of-the angels did-he┘ever└say, <strong><em>“Sit on (the) right-(hand) of-me,</em></strong> <strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>until</em></strong><strong><em><sup>2</sup></em></strong><strong><em> I make the enemies of-you</em></strong> <strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	(a) footstool of-the feet of-you”?</em></strong></span>
 
-<span class="verse" id="v14"><sup><strong>14</strong></sup>Are-they not all ministering spirits sent for ministry on-account-of the-ones going to-inherit salvation?</span>
+<span class="verse" id="v14"><sup class="verse-num">14</sup> Are-they not all ministering spirits sent for ministry on-account-of the-ones going to-inherit salvation?</span>
 
 
 <style>

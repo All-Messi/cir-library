@@ -1,25 +1,31 @@
 ---
 author: Virgil Warren, PhD
 categories:
+- Essays
 - INTERPRETATION
-- GETTING THE POINT book
-date: '2026-01-23'
+- GETTING THE POINT (book)
+date: '2026-02-12'
 draft: false
 title: 'HERMENEUTICS: GETTING THE POINT:'
 weight: 10
 ---
 
-HERMENEUTICS: GETTING THE POINT:
 
-AN OUTLINE
+<strong>AN OUTLINE</strong>
+
+
+
 
 INTRODUCTION: Nature of Language Communication
+
 
 A.	Parallels between working a puzzle and interpreting the Bible
 
 B.	Nature of language
 
+
 1.	Language is always from the subjective viewpoint.
+
 
 a.	Literal language can occur even though language comes from the subjective side.
 
@@ -33,9 +39,12 @@ d.	Poetic language is possible because language comes from the subjective
 
 side.
 
+
 2.	Words do not always mean the same thing.
 
+
 a.	Bases for determining the meaning of words
+
 
 (1)	not particularly by derivational connection (word picture)
 
@@ -57,7 +66,9 @@ contexts
 
 (8)	most particularly by the present intent of the author
 
+
 b.	the multiple meanings of a word
+
 
 3.	Languages change over time.
 
@@ -75,15 +86,20 @@ b.	the multiple meanings of a word
 
 10.	the ambiguity of language
 
+
 C.	Nature of communication
+
 
 I. The Bible: God and Man
 
+
 A.	Relation of divine and human in inscripturation (inspiration)
+
 
 1.	distinction between theological and philosophical method
 
 2.	range of possible human-divine interaction
+
 
 a.	dictation of words
 
@@ -95,9 +111,12 @@ d.	granted experiences
 
 e.	bestowed offices
 
+
 3.	sources of ambiguity in scripture interpretation
 
+
 a.	language deficiencies
+
 
 (1)	the lack of punctuation in the ancient Greek manuscripts
 
@@ -108,6 +127,7 @@ a.	language deficiencies
 (4)	the lack of vowel pointing in the ancient Hebrew manuscripts
 
 (5)	the brevity of biblical accounts
+
 
 b.	written language deficiencies
 
@@ -121,9 +141,12 @@ f. 	time factor
 
 g.	interpretation problems
 
+
 B.	Resultant nature of scripture (bibliology)
 
+
 1.	is, contains, becomes the Word of God, etc.
+
 
 a.	The Bible is the word of God.
 
@@ -131,9 +154,11 @@ b.	The Bible contains the word of God.
 
 c.	The Bible becomes the word of God.
 
+
 2.	inerrancy, infallibility, sufficiency, authority
 
 3.	the Bible and other books
+
 
 a.	The Bible uses human language according to normal language rules
 
@@ -141,9 +166,12 @@ a.	The Bible uses human language according to normal language rules
 
 b.	Biblical interpreters first assume the Bible's harmoniousness (difference).
 
+
 C.	Consequent nature of appropriating scripture (illumination)
 
+
 1.	meaning of "interpret"
+
 
 a.	exegesis
 
@@ -155,7 +183,9 @@ d.	theological method
 
 e.	translation
 
+
 2.	effect of the view of scripture on interpretation
+
 
 a.	the accuracy of scripture
 
@@ -163,7 +193,9 @@ b.	the role of scripture
 
 c.	scripture as common use of human language
 
+
 3.	biblical-systematic hermeneutic
+
 
 a.	Interpretation is more complex than following through an ordered doctrinal presentation.
 
@@ -173,7 +205,9 @@ c.	Interpretation involves reciprocity between individual texts and general
 
 concepts.
 
+
 4.	the idea of peculiar principles for interpreting the Bible
+
 
 a.	double fulfillment/reference
 
@@ -187,6 +221,7 @@ e.	literal taking precedence over figurative interpretation as a questioned
 
 principle
 
+
 (1) the cultural tendency in the use of language
 
 (2) the literary genre being interpreted
@@ -197,9 +232,11 @@ principle
 
 (5) the intent of the author at a given point
 
+
 5.	place of the Holy Spirit in illumination
 
 6.	authority, license, and private judgment
+
 
 a. Authority means submitting one's interpretation to someone other than the original author.
 
@@ -211,7 +248,9 @@ c. License means not submitting one's interpretation even to the original
 
 author.
 
+
 7.	intelligibleness of the Bible
+
 
 a. what is means
 
@@ -219,13 +258,17 @@ b. what is does not mean
 
 c. what is stands against
 
+
 8.	hindrances to interpretation
+
 
 a. pride
 
 b. presuppositions
 
+
 (1)	conscious presuppositions
+
 
 (a) getting the dogmatic question ahead of the exegetical one
 
@@ -233,9 +276,11 @@ b. presuppositions
 
 (c) allowing the existential circumstance to shape the interpretation
 
+
 (2)	unconscious presuppositions
 
 (3)	how presuppositions affect the work of interpretation
+
 
 (a) cause people to try to find other than the obvious meaning
 
@@ -247,19 +292,24 @@ b. presuppositions
 
 (e) cause people to color the terms of discussion
 
+
 (4)	examples of eisegesis
 
 (5)	sources of presuppositions
+
 
 (a) the existential situation
 
 (b) the personality bent
 
+
 c.	irrationalism
+
 
 (1)	occurs when feelings become the ultimate frame of reference
 
 (2)	occurs when the laws of thought are misapplied
+
 
 (a) confusion between validity and truth
 
@@ -271,19 +321,26 @@ c.	irrationalism
 
 (e) all examples of formal and informal fallacies
 
+
 (3)	occurs when people espouse mistaken notions about the nature of language
+
 
 (c) confusing reality and words
 
 (d) confusing words and ideas
 
+
 (4)	occurs when people invoke divine sovereignty against the need for logical consistency
+
 
 9.	distinction between understanding and belief
 
+
 II. Selected Linguistic Phenomena
 
+
 A.	Streamlining causal distinctions
+
 
 1.	prescriptive-permissive will
 
@@ -293,11 +350,14 @@ A.	Streamlining causal distinctions
 
 4.	logical-chronological order
 
+
 a.	made possible by divine omniscience
 
 b.	made possible by interpersonal trust
 
+
 B.	Interchange of nature, state, and action terms
+
 
 1.	nature-state substitution
 
@@ -305,7 +365,9 @@ B.	Interchange of nature, state, and action terms
 
 3.	nature-action correlation
 
+
 C.	General rule and absolute uniformity
+
 
 1.	limited universals
 
@@ -313,11 +375,14 @@ C.	General rule and absolute uniformity
 
 3.	characteristic action
 
+
 D.	Category vs. continuum
+
 
 1.	degree matters
 
 2.	exaggeration for emphasis
+
 
 E.	Semitic tendency to use the concrete for the non-concrete (abstract and spiritual)
 
@@ -325,9 +390,12 @@ F.	Amount and number for degree
 
 G.	Effect for process
 
+
 III. General Mechanics Behind Interpretation
 
+
 A.	Law of harmony
+
 
 1.	analogy of scripture
 
@@ -335,7 +403,9 @@ A.	Law of harmony
 
 3.	examples of decontextualization and recontextualization
 
+
 B.	Law of negation
+
 
 1.	English examples of the law of contrast
 
@@ -351,21 +421,28 @@ B.	Law of negation
 
 7.	note opposing compatibles
 
+
 C.	Nature of the case
+
 
 IV. Interpretation of Classes of Literature
 
+
 A.	Prime concerns
+
 
 1. 	the degree of figurativeness
 
 2.	the amount of material to be believed
 
+
 B.	Prophecy
+
 
 1.	Assume the nearest adequate.
 
 2.	Assume one adequate fulfillment.
+
 
 a. class prediction
 
@@ -381,6 +458,7 @@ f. vs. two unrelated events
 
 g. vs. accommodation
 
+
 3.	Remember the telescoping tendency of predictive prophecy.
 
 4.	Keep in mind the analogy of scripture.
@@ -395,17 +473,21 @@ g. vs. accommodation
 
 9.	type-antitype as a form of prophecy
 
+
 C.	Parable
+
 
 1.	Parables are generally true to life.
 
 2.	Parables teach general spiritual lessons.
+
 
 a. Look for cues within the parable itself.
 
 b. stylistic repetition as a mark of parable
 
 c. Look for statements of purpose in the context of the parable.
+
 
 D.	History
 
@@ -415,11 +497,14 @@ F.	Law
 
 G.	Poetry
 
+
 V. Pitfalls in Interpretation
+
 
 A.	Allegorizing the comparison
 
 B.	Misconstruing the genre
+
 
 1.	Jonah
 
@@ -429,17 +514,22 @@ B.	Misconstruing the genre
 
 4.	accounts of miracles
 
+
 C. Confusing example and precedent
 
+
 1.	distinguishing the types of things
+
 
 a. precedent vs. example
 
 b. apostolic precedent vs. church tradition
 
+
 2.	examples of issues involved
 
 3.	principles used to distinguish precedent and example
+
 
 a. sufficient examples to establish a pattern
 
@@ -459,13 +549,16 @@ h. cultural practice outside the church
 
 i. motives for seeking an alternative to the New Testament practice
 
+
 4.	application of principles to selected issues
+
 
 D.	Adopting an inappropriate model
 
 E.	Misidentifying the intended reference
 
 F.	Confusing grammar and reality
+
 
 1.	Inherent importance does not necessarily correlate with grammatical
 
@@ -485,9 +578,11 @@ thing.
 
 7.	Lists need to be handled carefully in relation to their referents.
 
+
 a.	Lists are not necessarily parallel.
 
 b.	Lists are not necessarily sequential.
+
 
 (1) Lists are not necessarily in logical order.
 
@@ -499,11 +594,13 @@ importance.
 
 (4) Lists are not necessarily in a directional order.
 
+
 c.	Lists are not necessarily exhaustive.
 
 d.	Lists are not necessarily homogeneous.
 
 e.	Lists probably do involve parts of some larger common category.
+
 
 8.	The form of a statement must be distinguished from the reality of the
 
@@ -511,11 +608,13 @@ referent.
 
 9.	the need for the language-referent distinction
 
+
 G.	Assuming peculiar principles for biblical interpretation
 
 H.	"Technicalizing" terminology
 
 I.	Setting the conclusion and then working toward it
+
 
 1.	ways of referring to the problem
 
@@ -523,9 +622,12 @@ I.	Setting the conclusion and then working toward it
 
 3.	examples of situations where this problem arises
 
+
 J.	Equating advice and commandment
 
+
 VI. Procedures of Interpretation
+
 
 A.	The synthetic method
 
@@ -543,11 +645,15 @@ G.	The comparative method
 
 H.	The devotional method
 
+
 For examples of how these methods can be applied to given books and texts, see Merrill C. Tenney's Galatians: The Charter of Christian Liberty (Grand Rapids, Michigan: Wm. B. Eerdmans Publishing Co., l957),
+
 
 VII. Testing the Interpretation of Other People
 
+
 A.	The burden of proof rests on the affirmative.
+
 
 1.	Show that another legitimate way exists for understanding the passage.
 
@@ -556,6 +662,7 @@ A.	The burden of proof rests on the affirmative.
 3.	Show that the interpretation is contradictory to near, distant, cultural, natural
 
 context.
+
 
 B.	Illustrations do not prove.
 
@@ -571,11 +678,14 @@ F.	Do not feel that you have to accept someone else's explanation simply because
 
 G.	Just because you cannot explain a difficulty between scriptures does not mean they contradict.
 
+
 1.	Contradictions are resolved by appealing to first principles.
+
 
 a.	Words have multiple meanings.
 
 b.	Words may be used in figurative ways.
+
 
 2.	Contradictions can be resolved by putting disparate items in a larger frame of reference.
 
@@ -583,15 +693,18 @@ b.	Words may be used in figurative ways.
 
 4.	"contradictions" between scripture and experience
 
+
 H. Understanding another person does not mean agreeing with him.
 
 I. Evaluating an interpretation is largely the same process as coming to your own 		conclusion.
+
 
 1. validity
 
 2. consistency
 
 3. practicality
+
 
 J.	Do not try to refute an idea as you are trying to understand it.
 
@@ -611,7 +724,9 @@ Q.	Be willing to listen to people who have previously been wrong on other points
 
 R.	Do not demand a specific verse for every item of Christian understanding.
 
+
 VIII. Hermeneutics and Life
+
 
 A.	The total process of hermeneutics and life
 
@@ -619,7 +734,9 @@ B.	The structure of the Bible and the nature of Christianity
 
 C.	The structure of truth
 
+
 IX. Aids to Interpretation
+
 
 A.	History of the English Bible
 
@@ -642,5 +759,6 @@ I.	Commentaries
 J.	Topical, doctrinal, and theological studies
 
 K.	Grammars, word studies, lexicons, analyticals
+
 
 christir.org

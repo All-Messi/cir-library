@@ -8,9 +8,9 @@ type: chapter
 weight: 1
 ---
 
-## Malachi Chapter **1**
+## Malachi Chapter 1
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>An Oracle from Yahveh to Israel Through Malachi <strong>Jacob Loved More Than Esau</strong></span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> An Oracle from Yahveh to Israel Through Malachi <strong>Jacob Loved More Than Esau</strong></span>
 
 <span class="verse" id="v2"><strong><sup>2</sup></strong>Yahveh says,<em> “</em><em>I’</em><em>ve loved you</em><em>.</em><em>”</em> But you ask, <em>“</em><em>What do you mean ‘loved us’</em><em>?”</em> <em>“Wasn’t Esau Jacob’s brother?</em><em> Yet I’ve loved Jacob </em><strong><sup>3</sup></strong><em>and</em><em> set Esau aside,</em><em> </em><em>made his hill country desolate, and left his inheritance for desert </em><em>jackals.”</em></span>
 
@@ -18,11 +18,7 @@ weight: 1
 
 <span class="verse" id="v5"><strong><sup>5</sup></strong>You’ll see this and say, <em>“</em><em>May Yahveh</em><em> be </em><em>honored</em><em> beyond </em><em>Israel’s</em><em> boundaries!”</em> <strong>Blemished Sacrifices</strong></span>
 
-<span class="verse" id="v6"><strong><sup>6</sup></strong>Yahveh says to priests that despise him,<em> </em><em>“A son honors his father, and a servant respects his master.</em><em> </em><em>Then if I’m a father, where’s my honor?</em><em> </em><em>If I</em><em>’m a master, where’s my respect?”</em><em> </em> <em>“</em><em>But you </em><em>ask</em><em>,</em> <em>‘Dishonor</em><em>ed you</em><em>? How</em><em>?’</em><em>”</em> <strong><sup>7</sup></strong><em>“You</em><em> present defiled sacrifices on my altar.” </em> <em>“But you ask, ‘Defiled sacrifices, how?’”</em> <em>“By disrespecting my altar. </em><strong><sup>8</sup></strong><em>When</em><em> you offer the blind, lame, and sick, isn’t that disrespect? Why not offer something like that to your governor? Would he be happy with you? Would he accept you?”</em></span>
-<p class="section-ref">Mal 1:1-8</p>
-
-### 9“Will you ask me to bless you and be gracious to you? With offerings like that, why would I be gracious to anybody? 10If only there’d be one among you that would shut the Temple doors so you wouldn’t light fire on my altar for nothing! I’m not happy with you, and I won’t accept your offerings. 11From sunrise to sunset, I intend to be honored as great the world over, wherever there’s incense and pure grain offerings.  12“But you profane me by saying, ‘It won’t hurt anything to defile Yahveh’s table; the sacrifices for it are no big deal.’ 13They’re so tiresome!’  “You blow it off and bring what you stole, something lame or sick, so you can say you brought an offering! 14A curse on the cheat that vows a male from his flock but sacrifices a blemished one. What is this?! I’m a great King to be respected the world over!”	Mal 1:9-14 Warning to Priests
-
+<span class="verse" id="v6"><strong><sup>6</sup></strong>Yahveh says to priests that despise him,<em> </em><em>“A son honors his father, and a servant respects his master.</em><em> </em><em>Then if I’m a father, where’s my honor?</em><em> </em><em>If I</em><em>’m a master, where’s my respect?”</em><em> </em> <em>“</em><em>But you </em><em>ask</em><em>,</em> <em>‘Dishonor</em><em>ed you</em><em>? How</em><em>?’</em><em>”</em></span>
 
 
 <style>

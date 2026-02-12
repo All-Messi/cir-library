@@ -1,4 +1,4 @@
 ---
-title: REVELATION
-weight: 42
+title: Revelation
+weight: 999
 ---

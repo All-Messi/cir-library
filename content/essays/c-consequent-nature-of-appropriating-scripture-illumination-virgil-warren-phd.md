@@ -2,9 +2,10 @@
 author: C. Consequent nature of appropriating scripture (illumination)      Virgil
   Warren, PhD
 categories:
+- Essays
 - INTERPRETATION
-- GETTING THE POINT book
-date: '2026-01-23'
+- GETTING THE POINT (book)
+date: '2026-02-12'
 draft: false
 title: C. Consequent nature of appropriating scripture (illumination)      Virgil
   Warren, PhD
@@ -13,83 +14,97 @@ weight: 10
 
 1. The meaning of “interpret”
 
+
 Interpretation involves (1) discovering the referent, (2) connecting the referent by consistency with the rest of the big picture (integration), and (3) making application to issues the author does not address, including the modern needs of believers. The first two aspects belong to “what it meant”; the last is “what it means.” We “interpret” (exegesis) to discover “meaning” (integration) so we can “understand” and have “wisdom” (application). Until we reach a level of understanding that enables us to use what we know, we do not “understand” in a “useful” way.
 
 First, interpretation means (1) discovering the referent: discovering what an author had in mind at the time of writing. There is a distinction between text and referent, but more importantly between the interpreter’s understanding and the author’s intention. These last two should be the same, but we must make a theoretical difference between the author’s thought and the interpreter’s thought. Even if it is the same thought, it is not guaranteed to be true, because two people are thinking it. Maintaining that distinction is crucial for the following reasons, chronologically arranged:
 
-(a) 	If we think we understand, we are not subject to correction. Because we say, “I see,” our misunderstanding continues (John 9:41).
 
-(b) 	Pride accompanies equating truth with our apprehension of it, and we set other people at naught: “You were altogether born in sin, and you are trying to teach us?” 9:34a.
+(a) 	If we think we understand, we are not subject to correction. Because we say, “I see,” our misunderstanding continues (John <strong><sup>9</sup></strong>:41).
 
-(c) 	The behavior of exclusivism—hence, division—comes from believing “I am right”: “And they excommunicated him [from the synagogue]”; 9:34b.
+(b) 	Pride accompanies equating truth with our apprehension of it, and we set other people at naught: <em>“You were altogether born in sin, and you are trying to teach </em><em><u>us</u></em><em>?”</em> <strong><sup>9</sup></strong>:34a.
+
+(c) 	The behavior of exclusivism—hence, division—comes from believing “I am right”: <em>“And they excommunicated him</em> [from the synagogue]<em>”</em>; <strong><sup>9</sup></strong>:34b.
 
 The resulting division is marked by peculiar doctrine, exclusivistic attitude, restrictive fellowship, distinguishing names, and separate organizations; but the root problem lies in an inappropriate attitude combined with the failure to distinguish between objective meaning and subjective perception of meaning. People often look for security in informational certainty rather than interpersonal certainty.
 
+
 For at least five reasons people fail to differentiate their ideas from the meaning of the text. (a) From a psychological standpoint, since they cannot conceive of any other way to take it, the text must mean what it obviously means to them. The problem can stem from the lack of a sufficient concept inventory, which results in taking the closest idea in their minds as the one meant by the writer.
 
-(b) Sometimes people read the Bible with a naïve view of the nature of language: “It means what it says!” They do not seriously entertain the possibility that a statement can have more than one value and that choosing the right one rests on a contextual and conceptual base. Language can be ambiguous, so statements can be taken in more than one way sometimes though meant in only one—except in “word plays.”
+(b) Sometimes people read the Bible with a naïve view of the nature of language: <em>“It means what it says!” </em>They do not seriously entertain the possibility that a statement can have more than one value and that choosing the right one rests on a contextual and conceptual base. Language can be ambiguous, so statements can be taken in more than one way sometimes though meant in only one—except in “word plays.”
 
 (c) Acknowledging the subjective variable makes truth seem uncertain; so people downplay the uncertainty by insisting on literal-first interpretation.
 
 (d) On the basis of certain expectations about the Spirit’s work, Christians may suppose that the Holy Spirit, operating parallel to the text, puts into their minds directly the concepts meant in what they read (occasionalism). Understanding comes intuitively, not discursively. Impressions, feelings, urges, promptings, and “automatic inferences” become special illumination from the Spirit. As the divine operates on the human in inscripturation, so also they suppose the divine operates on the human in illumination. The Spirit directly implants concepts in the hearer rather than indirectly through the message. Illumination happens parallel to proclamation more than through proclamation.
 
+
 (e) People feel uneasy about saying that what God has said is unclear. The point is that what he said is unclear to us; the fault is not in the message. Whereas supernatural involvement through circumstance and personal relationships is possible, it is not necessary with biblical content any more than with other content. The next diagram pictures significant ways in which illumination as well as guidance and empowerment operate other than through the word: indirectly through other Christians and circumstance and directly through sheer presence. None of these operations directly deposit ideas. The process is always interpersonal in that receivers actively accept rather than passively receive. They reach out to meet what the Spirit provides. The control test on the Spirit’s involvement in interpretation is the different understanding spirit-filled people have even on important matters. If direct implanting were so, the implanted concepts would be the same in every mind.
+
 
 Second, interpretation means (2) integration: coming to understand how one point relates to other parts of the whole. Among other things, that concern means properly relating the pieces that make up the statements and what they point to. When two items are mentioned together in sequence in a text, the reader wants to know what the ideas or actions “mean,” how they relate. There are several possibilities for how they relate:
 
-a may precede b timewise (chronology). That does not tell a reader very much about how they relate if they do. That is why we warn about developing theology out of narrative: the logical relationship between the aspects of the story is not always evident.
+<strong>				a</strong> may precede <strong>b</strong> timewise (chronology). That does not tell a reader very much about how they relate if they do. That is why we warn about developing theology out of narrative: the logical relationship between the aspects of the story is not always evident.
 
-a may cause b or vice versa. (causation)
 
-a may be a condition for b. (conditionality)
+<strong> 				a</strong> may cause <strong>b</strong> or vice versa. (causation)
 
-a and b may be in back-and-forth relationship. (reciprocity)
+<strong>				a</strong> may be a condition for <strong>b</strong>. (conditionality)
 
-a and b may be in tension relationship so as to produce c. (dialecticism)
+<strong>				a</strong> and <strong>b</strong> may be in back-and-forth relationship. (reciprocity)
 
-a may correlate with b. (correlation) One is a function of the other or both 			     are a function of some other factor or set of factors.
+<strong>				a</strong> and <strong>b</strong> may be in tension relationship so as to produce <strong>c</strong>. (dialecticism)
 
-a may be part of b.
+<strong>				a</strong> may correlate with <strong>b</strong>. (correlation) One is a function of the other or both 			     are a function of some other factor or set of factors.
 
-a may include b.
+<strong>				a</strong> may be part of <strong>b</strong>.
 
-a and b may overlap.
 
-a may be parallel to b.
+<strong>a</strong> may include <strong>b</strong>.
 
-a may combine with b to form the whole.
 
-a and b may be two labels for the same thing.
+<strong>a</strong> and <strong>b</strong> may overlap.
+
+
+<strong>a</strong> may be parallel to <strong>b.</strong>
+
+
+<strong>a</strong> may combine with <strong>b</strong> to form the whole.
+
+
+<strong>a</strong> and <strong>b</strong> may be two labels for the same thing.
+
 
 Thirdly, after finding the referent and understanding its relationship to the rest of the author’s mind, an interpreter moves to (3) application: proceeding from “what it meant” to “what it means.” This moves from theory to practice in the original author’s circumstance; but more importantly from original times to the modern setting—especially in the cross-cultural transfer, where the concern is to evangelize rather than culturalize, Westernize, Americanize. The shift from “meant” to “means” parallels “demythologizing,” except that the latter usually involves deistic bias.
 
 In one sense, what it meant is also what it means; that is, once a statement goes “into the air,” its content is fixed forever. Readers can switch from what the author meant to what readers believe, but they cannot change the author’s intentions. Interpretation deals with meaning; apologetics deals with truth. Neither time nor readership affects the original meaning of a text. Biblical principles may be applied more broadly or more narrowly today than in the original writer’s mind because of differences in culture, but such moves are implications of original intent, not interpretations of it.
 
-Application (“what it means”) involves, among other things, the distinction between covenants. Many things commanded in the Old Testament do not apply beyond that dispensation—Issues like Sabbath-keeping, circumcision, tithing, infant baptism, legal vs. interpersonal nature of the covenant and its provisions. Covenant distinctions apply even to some statements in the gospels where Jesus commands his immediate Jewish audience to do what do not apply to his followers later (Matthew 5:23-24; 23:1-3, 23). Application also calls for distinguishing precedent from example, advice from commandment, wisdom from law. (See “Pitfalls in Interpretation.”)
+Application (“what it means”) involves, among other things, the distinction between covenants. Many things commanded in the Old Testament do not apply beyond that dispensation—Issues like Sabbath-keeping, circumcision, tithing, infant baptism, legal <em>vs.</em> interpersonal nature of the covenant and its provisions. Covenant distinctions apply even to some statements in the gospels where Jesus commands his immediate Jewish audience to do what do not apply to his followers later (Matthew <strong><sup>5</sup></strong>:23-24; <strong><sup>23</sup></strong>:1-3, 23). Application also calls for distinguishing precedent from example, advice from commandment, wisdom from law. (See “Pitfalls in Interpretation.”)
 
 Language is not magical as if its meaning could change with the situation. Contemporary cultures do not represent a series of colored panes through which original revelation gives different light. Instead, language and its meaning are constant; otherwise, an interpreter would be controlling the meaning, and scripture could never stand in prophetic relationship with human society to critique it and call for change.
 
 The shift from meant to means (theological interpretation) involves (4) generalization: inferring the use of an idea beyond its original setting. Interpreters must ask who is speaking, who is spoken to, and so on. Generalization follows from the nature of the case; so it must not apply a principle to unlike situations or make blanket statements from special cases. Generalization is always to like cases. (See “Nature of the Case.”)
 
-**The promise of Acts 1:8 applies to the twelve, but whether it applies more broadly must be determined by the elements of the situation and the context of the promise. “Uttermost parts of the earth” may involve more than the lifetime of the apostles; consequently, whether directly or indirectly, miraculously or interpersonally, the empowerment promised to them may not apply beyond them and their lifetime.
 
-**Evangelizing the world as per the Great Commission of Matthew 28:19-20 is similar to empowerment. The kingdom is for creating a new united mankind (Ephesians 2:15); as long as that task remains unfinished, the commandment applies to those who live after the apostles died.
+**The promise of Acts <strong><sup>1</sup></strong>:8 applies to the twelve, but whether it applies more broadly must be determined by the elements of the situation and the context of the promise. <em>“Uttermost parts of the earth”</em> may involve more than the lifetime of the apostles; consequently, whether directly or indirectly, miraculously or interpersonally, the empowerment promised to them may not apply beyond them and their lifetime.
 
-**“Go sell what you have and give it to the poor . . . and come follow me” (Mark 10:21), however, applies only to the rich young ruler; not every Christian is expected to forego private property unless it serves as a stumbling block—as it did to this man.
+**Evangelizing the world as per the Great Commission of Matthew <strong><sup>28</sup></strong>:19-20 is similar to empowerment. The kingdom is for creating a new united mankind (Ephesians <strong><sup>2</sup></strong>:15); as long as that task remains unfinished, the commandment applies to those who live after the apostles died.
+
+**<em>“Go sell what you have and give it to the poor . . . and come follow me” </em>(Mark <strong><sup>10</sup></strong>:21), however, applies only to the rich young ruler; not every Christian is expected to forego private property unless it serves as a stumbling block—as it did to this man.
 
 **Some have argued for generalizing the promise of miraculous gifts because the promise accompanies the permanent commission to evangelize. What might be possible may not be actual for all Christians. That does not make the two promises co-extensive, because the nature of the cases is not the same. The gospel is for converting people; it is not for amazing them.
 
-**Matthew 5:31-32 talks about unchastity in general, not incestuous marriage, betrothal, or some other more specific sexual deviance. As a result, divorce in general compares with adultery in the general sense Jesus means, not to rare and special cases.
+**Matthew <strong><sup>5</sup></strong>:31-32 talks about unchastity in general, not incestuous marriage, betrothal, or some other more specific sexual deviance. As a result, divorce in general compares with adultery in the general sense Jesus means, not to rare and special cases.
 
-**2 Corinthians 8:3, “giving according to their power,” is used to refer to tithing and “[giving] beyond their power” to refer to giving beyond tithing. But 2 Corinthians 8-9 deals with a special benevolence offering, not the ongoing support of the ministry in general. So Paul means that some gave more than they could really afford to give.
+**2 Corinthians <strong><sup>8</sup></strong>:3, <em>“giving according to their power,”</em> is used to refer to tithing and <em>“</em>[giving] <em>beyond their power”</em> to refer to giving beyond tithing. But 2 Corinthians <strong>8-9</strong> deals with a special benevolence offering, not the ongoing support of the ministry in general. So Paul means that some gave more than they could really afford to give.
 
-To some people, “interpretation” is not something we should do; we should “take the text at face value.” But interpretation does not make a text into something the writer did not mean; it comes to understand what the writer did mean. Interpretation is (1) finding the referent that lies beyond the words. Since meaning also has to do with (2) the relationship one item has with the rest of what is meant, it places a communication in its proper frame of reference. Putting something in context qualifies it, focuses it, limits its scope, and clarifies it. “Taking the text at face value” does not mean affirming that it means the first thing that comes to mind or what is its most literal way of being understood.
+
+To some people, “interpretation” is not something we should do; we should “take the text at face value.” But interpretation does not make a text into something the writer did not mean; it comes to understand what the writer did mean. Interpretation is (1) finding the referent that lies beyond the words. Since meaning also has to do with (2) the relationship one item has with the rest of what is meant, it places a communication in its proper frame of reference. Putting something in context qualifies it, focuses it, limits its scope, and clarifies it. <em>“Taking the text at face value”</em> does not mean affirming that it means the first thing that comes to mind or what is its most literal way of being understood.
 
 Modern art and the literary use of the Bible introduce a practice that is problematic. In these disciplines the point is not so much to communicate something as to provide a suggestive form that stimulates observers to create their own content. The readers arter as much involved creatively as the artist-writer. The Bible does not have that character; so interpreting it does not follow that pattern. Scripture does not “inspire” to creating the reader’s content, but to creating the reader’s response to its own content.
 
-The view of the meaning of scripture derives from the view of the meaning of the events scripture recounts. Providence (past) says that the meaning of the event is in the event, not just read into it. Eschatological theology (future) says that the meaning of the event is determined by what it becomes. What it eventuates into, however, depends on what viewers make of it—the Christ event, for example. The meaning of the event may be seen in what develops from it, as we say, “Let’s see what comes of it” or even, “Hindsight is better than foresight.” But the meaning of Christ would have been the same if history had stopped the next month. Sometimes the meaning of an event is not even possible to see by looking at it (John 11:41-42; 13:12). Furthermore, it is an event, not a statement. A statement means what it was originally intended to mean, which in this case reveals the significance God intended into the underlying events.
+The view of the meaning of scripture derives from the view of the meaning of the events scripture recounts. Providence (<em>past</em>) says that the meaning of the event is in the event, not just read into it. Eschatological theology (<em>future</em>) says that the meaning of the event is determined by what it becomes. What it eventuates into, however, depends on what viewers make of it—the Christ event, for example. The meaning of the event may be <em>seen</em> in what develops from it, as we say, <em>“Let’s see what comes of it”</em> or even, <em>“Hindsight is better than foresight.” </em>But the meaning of Christ would have been the same if history had stopped the next month. Sometimes the meaning of an event is not even possible to see by looking at it (John <strong><sup>11</sup></strong>:41-42; <strong><sup>13</sup></strong>:12). Furthermore, it is an event, not a statement. A statement means what it was originally intended to mean, which in this case reveals the significance God intended into the underlying events.
 
-Existentialism (present) says that the meaning is what the participant senses during the experience. Again, the sum of its content is determined by the viewer. Providence, however, says that the meaning of the event is in the event because it was intended into the event. Providence and predestination guarantee the meaning of events objectively because the Author of history decided what he would bring about before it occurred. The reason for bringing it about becomes its significance whether anyone sees it or not. Since the events recorded have built-in objective meaning, people cannot take the record to mean whatever “speaks to them.”
+Existentialism (<em>present</em>) says that the meaning is what the participant senses during the experience. Again, the sum of its content is determined by the viewer. Providence, however, says that the meaning of the event is <em>in</em> the event because it was <em>intended into</em> the event. Providence and predestination guarantee the meaning of events objectively because the Author of history decided what he would bring about before it occurred. The reason for bringing it about becomes its significance whether anyone sees it or not. Since the events recorded have built-in objective meaning, people cannot take the record to mean whatever “speaks to them.”
 
 Exegesis gets the author’s intended meaning out of the text, a process sometimes called “historical-grammatical interpretation”: “what it meant.” This step includes finding the referent and understanding its relationship to the rest of an author’s understanding (consistency). By inference interpretation extracts the principles behind the statements to learn how to deal with issues not directly addressed: application and generalization. Interpreting in this sense finds the functional equivalent of a matter in another culture or era: “theological interpretation,” “what it means” now. Hermeneutics is often technicalized to designate the process of getting from exegesis to interpretation. Theological method systematizes the whole Christian understanding and derives its overall structure. Finally, we may add for the sake of completeness that translation takes all of this as expressed in one language and expresses it in another language. The Greek word from which English gets “hermeneutics” meant both to “translate” and to “explain.”
 
@@ -107,11 +122,12 @@ In relation to predictive prophecy especially, the anti-supernatural bias may ca
 
 By and large, however, the view of scripture more greatly affects what and how much of it a person believes, but it should have less effect on what and how much of it they understand. The former deals with truth; the latter with meaning. The reason Christian might disagree with something in the New Testament is that they adopt as true what they consider fundamental, but think that some secondary teachings are false because New Testament writers made culture-bound inferences from first principles.
 
-An example is the Galatians 3:28 statement that in Christ there is no male or female—taken as a universal principle rather than a soteriological assertion. Paul erred in his teaching elsewhere about men-women roles, because he did not make them in every respect interchangeable. Paul’s application of the equality principle was either clouded by current circumstances or was done to avoid having essential Christianity rejected because of secondary applications. He dealt pastorally rather than idealistically in the hope that underlying attitudes would “eat away” at cultural evils until they had transformed the culture from within. His manner of handling the slavery issue serves as the model for handling other issues like women’s roles.
+An example is the Galatians <strong><sup>3</sup></strong>:28 statement that in Christ there is no male or female—taken as a universal principle rather than a soteriological assertion. Paul erred in his teaching elsewhere about men-women roles, because he did not make them in every respect interchangeable. Paul’s application of the equality principle was either clouded by current circumstances or was done to avoid having essential Christianity rejected because of secondary applications. He dealt pastorally rather than idealistically in the hope that underlying attitudes would “eat away” at cultural evils until they had transformed the culture from within. His manner of handling the slavery issue serves as the model for handling other issues like women’s roles.
 
-As an aside, we may do well to say that all scripture having ultimately one Author does not suggest uniform word meaning or symbolic significances (water for “people” in apocalyptic materials, e.g.). The Bible is not a single treatise where readers expect to find consistent terminology throughout.
 
-One destructive effect in hermeneutics comes from source critical approaches to the Pentateuch, certain Old Testament prophets, the synoptic gospels, and some epistles. Making the resultant “writing” a patchwork strips away context and increases ambiguity; interpretable units are reduced to such small segments that less can be said for sure. About the only basis for continuity would lie in the redactor. Interpretation is significantly impacted by inerrancy. Fragmentation plus denying inerrancy weakens context as an aid to understanding. Interpreters have to stay within an author’s set of writings (the Pauline corpus) or within the same book (because a writer’s thinking changes). In the case of source-critical methods, a person has to stay within the same fragment. Genesis 1, for instance, does not provide a context for Genesis 2 because they originated separately. Readers cannot operate within the whole Bible because they have no justification for affirming homogeneity.
+As an aside, we may do well to say that all scripture having ultimately one Author does not suggest uniform word meaning or symbolic significances (water for “people” in apocalyptic materials, <em>e.g</em>.). The Bible is not a single treatise where readers expect to find consistent terminology throughout.
+
+One destructive effect in hermeneutics comes from source critical approaches to the Pentateuch, certain Old Testament prophets, the synoptic gospels, and some epistles. Making the resultant “writing” a patchwork strips away context and increases ambiguity; interpretable units are reduced to such small segments that less can be said for sure. About the only basis for continuity would lie in the redactor. Interpretation is significantly impacted by inerrancy. Fragmentation plus denying inerrancy weakens context as an aid to understanding. Interpreters have to stay within an author’s set of writings (the Pauline corpus) or within the same book (because a writer’s thinking changes). In the case of source-critical methods, a person has to stay within the same fragment. Genesis <strong><sup>1</sup></strong>, for instance, does not provide a context for Genesis <strong><sup>2</sup></strong> because they originated separately. Readers cannot operate within the whole Bible because they have no justification for affirming homogeneity.
 
 b. The role of scripture
 
@@ -123,7 +139,7 @@ A legal framework gives (b) precedent greater value. We more likely assume that 
 
 Legal methodology legitimizes (c) biblical positivism as a replacement for church authority or direct Holy Spirit guidance as a safeguard against the accretions of time.
 
-Finally, legal methodology fosters (d) quantification. We expect specifications on the amount of giving; the frequency of praying, fasting, and observing communion; the number of times to forgive someone. Instead of the book or the church, theological method should be based on the nature of the case as interpersonal.
+Finally, legal methodology fosters (d) quantification. We expect specifications on the amount of giving; the frequency of praying, fasting, and observing communion; the number of times to forgive someone. Instead of the <em>book</em> or the <em>church</em>, theological method should be based on <em>the nature of the case </em>as interpersonal.
 
 The legal approach to scripture leads to supposing that the New Testament answers all questions about faith and practice, bends statements to address issues they were never intended to address; changes silence into prohibition, example into precedent, non-restrictive into restrictive; multiplies instances of positivism, and eliminates implicit cultural limitation. Law does not represent the nature and purpose of the Christian faith and so does not set the method of interpreting its message. Alternative to the legal-constitutional approach, we need to adopt the New Testament as an interpersonal system that calls for an interpersonal approach to interpreting its literature.
 
@@ -131,45 +147,45 @@ c. Scripture as common use of human language
 
 The Bible is a divine message communicated in (a) human language—“The word of God in the words of men.” It is written in (b) the common use of human language—in popular style, in the language of the people—rather than in technical jargon, scientific precision, or philosophical style. The language of the New Testament is koine, common, or Hellenistic Greek. It is not couched in abstract verbiage, laden with specialized terminology, or concerned with scientific perspective. It contains a healthy mixture of figurative, poetic, phenomenological language. (c) The biblical message is not expressed in an esoteric code known only to an elite few. Biblical language demonstrates normal ways of speaking and being understood.
 
-The law of minimum affirmation runs counter to people’s expectations. One plague in Bible study is trying to get too much out of a text. People may think in extremes, perhaps because they have a habit of black-white, all-or-nothing, binary reasoning. They assume that “being more exact is being more correct.” But in interpretation, making the lesser claim charts a safer course. It does not “outdrive its headlights”; it does not claim more than it can be sure of. It is safer because (a) language is somewhat imprecise (Note “Sources of Ambiguity in Scripture.”), because (b) interpersonal truth has a more fluid character than does scientific truth, legal process, and logical validity; and because (c) truth in general tends to lie between extremes. Hermeneutical restraint must prevail in practical matters because the lack of it works against Christian unity and mission. Enough difficulties exist in core matters that people do well not to see how much they can get out of a text.
+The law of minimum affirmation runs counter to people’s expectations. <strong>One plague in Bible study is trying to get too much out of a text</strong>. People may think in extremes, perhaps because they have a habit of black-white, all-or-nothing, binary reasoning. They assume that “being more exact is being more correct.” But in interpretation, making the lesser claim charts a safer course. It does not “outdrive its headlights”; it does not claim more than it can be sure of. It is safer because (a) language is somewhat imprecise (Note “Sources of Ambiguity in Scripture.”), because (b) interpersonal truth has a more fluid character than does scientific truth, legal process, and logical validity; and because (c) truth in general tends to lie between extremes. Hermeneutical restraint must prevail in practical matters because the lack of it works against Christian unity and mission. Enough difficulties exist in core matters that people do well not to see how much they can get out of a text.
 
-In constitutional matters, lawyers are to use judicial restraint, which contrasts with using the constitution to solve all problems whether it deals with them or not. The New Testament relates to Christian living the same way. Not every issue is dealt with directly or by implication. In unaddressed matters people choose what is best on fundamental principles as they see the situation. Errors in unrevealed areas are not reckoned against a person’s record; where there is no guidance there is no disobedience (Romans 5:13). The interpreter needs to distinguish conceivable from necessary meaning. Minimum affirmation means what can be said for sure. It is akin to the law of parsimony, which says that the lesser explanation is more likely correct. Interpretation does well to adopt the lesser claim that accounts for the data.
+In constitutional matters, lawyers are to use judicial restraint, which contrasts with using the constitution to solve all problems whether it deals with them or not. The New Testament relates to Christian living the same way. Not every issue is dealt with directly or by implication. In unaddressed matters people choose what is best on fundamental principles as they see the situation. Errors in unrevealed areas are not reckoned against a person’s record; where there is no guidance there is no disobedience (Romans <strong><sup>5</sup></strong>:13). The interpreter needs to distinguish <em>conceivable</em> from <em>necessary</em> meaning. Minimum affirmation means what can be said for sure. It is akin to the law of parsimony, which says that the lesser explanation is more likely correct. Interpretation does well to adopt the lesser claim that accounts for the data.
 
 Minimum affirmation corresponds with “the law of minimum meaning.” In the statement “Redheads are hot tempered,” a person is better off to suppose the speaker is voicing an interesting observation rather than an absolute rule.
 
 One additional reason for not expecting close wording of texts comes from the use of amanuenses by some New Testament writers. We cannot know what freedom Paul or Peter may have given Tertius and Silvanus to editorialize copy.
 
-Aristotle said, “One swallow does not make a summer” (Metaphysics 12:7). One incident does not establish a pattern; one example does not establish a precedent. People make “snap judgments,” make “hasty generalizations,” “jump to conclusions,” or “rush to judgment.” Someone may say, “You always . . .” after seeing just a case or two.
+Aristotle said, <em>“One swallow does not make a summer”</em> (<em>Metaphysics</em> <strong><sup>12</sup></strong>:7). One incident does not establish a pattern; one example does not establish a precedent. People make “snap judgments,” make “hasty generalizations,” “jump to conclusions,” or “rush to judgment.” Someone may say, “You always . . .” after seeing just a case or two.
 
 In some instances, what an author meant cannot be discovered, because there may not be enough clues to reconstruct the author’s mind. In such cases interpretation must suspend judgment lest false presuppositions take over. If presuppositions err, interpretation goes awry.
 
 Some examples of minimum affirmation include:
 
-**the temple veil “tore from top to bottom” (Matthew 27:51). Instead of taking this to indicate the direction of the tear (as God would tear it), it would be better understood as meaning torn all the way. The same thing goes for the lightning that will shine “from east to west” at the Lord’s return (Matthew 24:27), and the fig tree that “withered from the roots up” (Mark 11:20).
+**the temple veil <em>“tore from top to bottom” </em>(Matthew <strong><sup>27</sup></strong>:51). Instead of taking this to indicate the direction of the tear (as God would tear it), it would be better understood as meaning torn all the way. The same thing goes for the lightning that will shine “from east to west” at the Lord’s return (Matthew <strong><sup>24</sup></strong>:27), and the fig tree that <em>“withered from the roots up”</em> (Mark <strong><sup>11</sup></strong>:20).
 
-**Paying the laborers “from last to first” could represent a sequence in Matthew 20:8-9.
+**Paying the laborers “from last to first” could represent a sequence in Matthew<strong> 20</strong>:8-9.
 
-**In the episode about the woman taken in adultery, while Jesus was scribbling on the ground, the accusers began to walk away “from the oldest to the last” (John 8:9). Were the older men more sensitive to Jesus’ point and the younger left under their influence? Or is this simply a way of saying that they all left?
+**In the episode about the woman taken in adultery, while Jesus was scribbling on the ground, the accusers began to walk away “from the oldest to the last” (John <strong><sup>8</sup></strong>:9). Were the older men more sensitive to Jesus’ point and the younger left under their influence? Or is this simply a way of saying that they all left?
 
 **It is a lesser claim to consider “make disciples” a generalized idea with the other three verbal ideas as subunits, because one does not have to show that there is significance to the order of acts in the Great Commission.
 
-**In response to the appeal against denominationalism to belong only to Christ, is it wise to claim that the “Christ party” in 1 Corinthians 1(-4) was the most divisive of all because they claimed to be the true Christians?
+**In response to the appeal against denominationalism to belong only to Christ, is it wise to claim that the “Christ party” in 1 Corinthians <strong><sup>1</sup></strong>(<strong>-4</strong>) was the most divisive of all because they claimed to be the true Christians?
 
-**Galatians 5:4: “You are separated from Christ who are justified by law.” Does this mean they were lost or that the two systems (law/works vs. faith/grace/Christ) are mutually exclusive?
+**Galatians<strong> 5</strong>:4: <em>“You are separated from Christ who are justified by law.”</em> Does this mean they were lost or that the two systems (law/works <em>vs.</em> faith/grace/Christ) are mutually exclusive?
 
-**Melchizedek was first king of righteousness and then king of peace (Hebrews 7:2). Does the author mean to prioritize righteousness over peace (cp. James 3:17), or does “first” just indicate what he wants to mention first?
+**Melchizedek was first king of righteousness and then king of peace (Hebrews <strong><sup>7</sup></strong>:2). Does the author mean to prioritize righteousness over peace (cp. James<strong> 3</strong>:17), or does “first” just indicate what he wants to mention first?
 
-Tentatively taking an amillennial view rather than pre- or postmillennial view is a lesser claim. Viewing chapters 4-20 of Revelation as recurring, typical, historical cycles is a lesser claim than as a sequential historical approach throughout in the Christian era.
+Tentatively taking an amillennial view rather than pre- or postmillennial view is a lesser claim. Viewing chapters <strong>4-20</strong> of Revelation as recurring, typical, historical cycles is a lesser claim than as a sequential historical approach throughout in the Christian era.
 
 Regarding Jonah and Job as literary works rather than straightforward history commits the reader and the author to fewer points of information and seeming overabundance of supernatural involvement.
 
 Some examples of making patterns out of single cases include:
 
-**Genesis 14:17-24; 28:18-22: Abraham’s giving to Melchizedek a tenth part of the spoils of war and Jacob’s vow at Bethel to give a tenth of what God gave him are hardly sufficient grounds for claiming that tithing was “practiced” in the patriarchal age. “Practice” implies characteristic behavior when at best the Bible records one case in the life of Abraham. Jacob’s vow may represent a one-time offering when he returned to his homeland rather than a practice for the rest of his days.
+**Genesis <strong><sup>14</sup></strong>:17-24; <strong><sup>28</sup></strong>:18-22: Abraham’s giving to Melchizedek a tenth part of the spoils of war and Jacob’s vow at Bethel to give a tenth of what God gave him are hardly sufficient grounds for claiming that tithing was “practiced” in the patriarchal age. “Practice” implies characteristic behavior when at best the Bible records one case in the life of Abraham. Jacob’s vow may represent a one-time offering when he returned to his homeland rather than a practice for the rest of his days.
 
-**One instance of apostolic imposition of hands for transferring miraculous gifts does not prove that apostles alone could pass them on (Acts 8:18).
+**One instance of apostolic imposition of hands for transferring miraculous gifts does not prove that apostles alone could pass them on (Acts <strong><sup>8</sup></strong>:18).
 
-**Gathering once on the first day of the week does not establish weekly communion (Acts 20:7).
+**Gathering once on the first day of the week does not establish weekly communion (Acts <strong><sup>20</sup></strong>:7).
 
 **Sometimes speakers say that in Bible times they “would” do such and such, implying that it was customary to do so, when there may be only a case or two.
 
@@ -179,15 +195,16 @@ d. 	From the beginning (see “Great Commission”), the gospel was intended to 
 
 3. Biblical-systematic hermeneutic
 
-Scripture is “historically organized”; its parts address practical needs of the times. The Bible is not “conceptually organized”; it does not systematically define terms and then lay out material topically. Interpreting it, then, has more complexity than (1) following through an ordered doctrinal presentation. Not everything about one subject is found in one place; only as much of a subject is treated in each place as was needed for the problem addressed there. Topical understanding must be extracted from the historical documents, assembled into a conceptual whole, and generalized to matters that face the contemporary church. Readers collect information from various places and derive the full picture. That can happen because they consider the text “inspired by God” and therefore possessing a self-consistent perspective. (See What the Bible Says About Salvation, p. 2.)
+Scripture is “historically organized”; its parts address practical needs of the times. The Bible is not “conceptually organized”; it does not systematically define terms and then lay out material topically. Interpreting it, then, has more complexity than (1) following through an ordered doctrinal presentation. Not everything about one subject is found in one place; only as much of a subject is treated in each place as was needed for the problem addressed there. Topical understanding must be extracted from the historical documents, assembled into a conceptual whole, and generalized to matters that face the contemporary church. Readers collect information from various places and derive the full picture. That can happen because they consider the text “inspired by God” and therefore possessing a self-consistent perspective. (See <em>What the Bible Says About Salvation</em>, p. 2.)
 
 Interpretation has more to it than (2) working out items and adding them together to discover what picture they form. The whole meaning is more than the sum of the parts of meaning. The meaning of a word, sentence, paragraph, chapter, or book does not come from adding together the pieces that comprise it. The whole communication forms a gestalt.
 
-Rather, (3) reciprocity occurs between particular passages and general picture. The general picture puts individual statements in context and brings them into focus; one individual statement can provide a general picture that clarifies other specific verses; the accumulated clarity may unpack yet other specifics, and so forth. There is (a) an interaction between specific and general, between exegesis and theology, between verses and topics, between induction and deduction. As to the truth itself, a specific does not precede the general in inductive fashion, nor does the general precede a specific as if the general first had to be supernaturally deposited by the Holy Spirit. In coming to understand truth itself, we look for seminal verses (like Habakkuk 2:4) and trace out their ramifications and connections. Other verses add to the first one with its implications, so a larger, clearer whole emerges.
+Rather, (3) reciprocity occurs between particular passages and general picture. The general picture puts individual statements in context and brings them into focus; one individual statement can provide a general picture that clarifies other specific verses; the accumulated clarity may unpack yet other specifics, and so forth. There is (a) an interaction between specific and general, between exegesis and theology, between verses and topics, between induction and deduction. As to the truth itself, a specific does not precede the general in inductive fashion, nor does the general precede a specific as if the general first had to be supernaturally deposited by the Holy Spirit. In coming to understand truth itself, we look for seminal verses (like Habakkuk <strong><sup>2</sup></strong>:4) and trace out their ramifications and connections. Other verses add to the first one with its implications, so a larger, clearer whole emerges.
 
 “If people do not think rightly about God, they cannot understand the Bible.” “If people do not understand the Bible, they will not think rightly about God.” The apparent problem is how they can understand God through the Bible if they cannot understand the Bible without a correct view of God. We might answer this problem by supposing an act of regeneration in which illumination comes from operation on the nature of man. The mystic might suppose there is a literal flight of the soul to God, which would add special experience to scripture content. Instead, the answer lies in reciprocation between whole and parts and between life experience and propositional revelation.
 
 A second aspect of interpretation is (b) crosswise harmonizing between topics. What we do with one topic often modifies what we do with other topics. The interpretation process is reciprocal and interactive, and participates in what is sometimes called “circular causation.” The following diagram shows the overall process.
+
 
 The full picture emerges from this procedure rather than from a whole-cloth message directly given parallel to the written message. Divine implantation is as unnecessary here as it is on non-religious topics. By way of the law of harmony, the law of negation, and the nature of the case, we “reason in the scripture” from specific to general, from general to specific, and from topic to topic. The biblical-systematic process works part-to-whole, cross doctrines, and reciprocation within the overall process.
 
@@ -205,7 +222,7 @@ Biblical-systematic interpretation contrasts with (c) positing a hypothesis and 
 
 “Biblical-systematic hermeneutic” roughly corresponds to scientific method. When we encounter a difficulty, we (1) postulate a framework from the data we have, (2) check to see whether anything contradicts it, and (3) see whether the hypothesis elucidates other data. The procedure does risk the danger of positing a conclusion and working toward it. (See “Pitfalls of Interpretation.”)
 
-Biblical-systematic hermeneutic means that what does not derive from first principles must come from positive commandment. For an example of this observation, see What the Bible Says About Salvation, pp. 396-98.
+Biblical-systematic hermeneutic means that what does not derive from first principles must come from positive commandment. For an example of this observation, see <em>What the Bible Says About Salvation</em>, pp. 396-98.
 
 Establishing the fundamental character of Christianity is the most important thing for biblical-systematic interpretation to do. From there on, that “theological method” suggests interpretations of texts and sets boundaries on ways of understanding texts and issues. From a systematic investigation into scripture, we have concluded that Christianity is primarily, centrally, essentially, ultimately interpersonal. Its interpersonal character then sets the character of specific matters within that Christian worldview and raises possibilities for understanding individual passages.
 
@@ -229,11 +246,11 @@ b. Law of first mention
 
 The law of first mention is an illusion based on a false view of language and scripture. One difficulty lies in determining the order of its writings; the arrangement of books in the Bible is not chronological. Usually a word with more than one usage has a predominant one; so statistically the first usage likely has that significance. One may as well have a law of middle mention or last mention.
 
-Admittedly the oldest usage of key terms in an expanding literature may set precedent for subsequent usage. The idea is akin to the principle of using Bible terms in biblical ways when discussing biblical topics today. However, prominent texts have as likely a direction-setting effect on such a matter as early texts do. (cp. Hebrews 2:4 < Genesis 1-3; Habakkuk 2:4 < Romans, Galatians, and Hebrews.)
+Admittedly the oldest usage of key terms in an expanding literature may set precedent for subsequent usage. The idea is akin to the principle of using Bible terms in biblical ways when discussing biblical topics today. However, prominent texts have as likely a direction-setting effect on such a matter as early texts do. (cp. Hebrews <strong><sup>2</sup></strong>:4 < Genesis <strong>1-3</strong>; Habakkuk <strong><sup>2</sup></strong>:4 < Romans, Galatians, and Hebrews.)
 
 c. Fourfold interpretation
 
-People may suppose that God, being greater, can do more with human language than humans do, so they would not be surprised to find “levels” of meaning in it: the literal, analogical, allegorical, tropological (“fourfold interpretation”). Philo of Alexandria, an early Jewish scholar, championed the notion of multiple meanings. Subsequently the practice came into the church; setting it aside was a major triumph of the Reformation. The problem had become so serious late in church history that the Westminster Confession included an article that said, “The meaning of scripture is not manifold, but one.” The article does not mean that a certain wording is incapable of being used in more than one way, but that a statement is not intended to mean more than one thing at a time. The “oneness” of meaning in a statement comes from the very purpose of statements; otherwise, communication could not occur. The Bible has to follow the rules for language usage generally or readers could claim to find most anything in Holy Writ. That is a big enough problem as it is. The nature of language is not altered by who uses it.
+People may suppose that God, being greater, can do more with human language than humans do, so they would not be surprised to find “levels” of meaning in it: the literal, analogical, allegorical, tropological (“fourfold interpretation”). Philo of Alexandria, an early Jewish scholar, championed the notion of multiple meanings. Subsequently the practice came into the church; setting it aside was a major triumph of the Reformation. The problem had become so serious late in church history that the Westminster Confession included an article that said, <em>“The meaning of scripture is not manifold, but one.”</em> The article does not mean that a certain wording is incapable of being used in more than one way, but that a statement is not intended to mean more than one thing at a time. The “oneness” of meaning in a statement comes from the very purpose of statements; otherwise, communication could not occur. The Bible has to follow the rules for language usage generally or readers could claim to find most anything in Holy Writ. That is a big enough problem as it is. The nature of language is not altered by who uses it.
 
 While a reader can see how a passage could have more than one possible meaning, the reader does not suppose that the writer had them all in mind. The author may have meant one but did not write with sufficient precision for readers to discover which one. The author may have meant a general concept that includes more than one precise idea. Scripture has no secret code for esoteric messages.
 
@@ -241,7 +258,7 @@ We distinguish between what a passage means, what it could mean, what it is anal
 
 d. The necessity of supernatural enablement
 
-In denying that people need supernatural aid to understand the Bible, we have in mind a general rule; God could supernaturally assist for some practical reason. Furthermore, the supernatural assistance we refer to is direct operation on the ontic nature of man, because we see no reason for believing in the inheritable natural depravity that would necessitate supernatural aid. The Spirit may help, but his supernatural help is not required. He may assist, even supernaturally, in indirect ways through other Christians, through providential intervention that alters experience and triggers understanding. He could even be said to assist through his interpersonal relationship itself. (See “Divine Guidance” in “Gifts of the Spirit” materials.) If the Spirit uniformly provides direct, supernatural assistance to all Christians by necessity, we wonder why equally sincere people disagree.
+In denying that people need supernatural aid to understand the Bible, we have in mind <em>a general rule</em>; God could supernaturally assist for some practical reason. Furthermore, the supernatural assistance we refer to is <em><u>direct</u></em><em> operation on the </em><em><u>ontic nature</u></em><em> of man</em>, because we see no reason for believing in the inheritable natural depravity that would necessitate supernatural aid. The Spirit may help, but his supernatural help is not required. He may assist, even supernaturally, in indirect ways through other Christians, through providential intervention that alters experience and triggers understanding. He could even be said to assist through his interpersonal relationship itself. (See “Divine Guidance” in “Gifts of the Spirit” materials.) If the Spirit uniformly provides direct, supernatural assistance to all Christians by necessity, we wonder why equally sincere people disagree.
 
 While standing outside the faith, we can understand enough about it to enter into it, especially with the assistance of God’s spokesmen. Accepting the Christian faith before experiencing it is not a unique pattern; it happens with any new commitment.
 
@@ -251,45 +268,48 @@ e. 	Literal taking precedence over figurative interpretation
 
 Literal over figurative may work statistically, but that does not settle individual cases. Just because a statement could make some sense literally does not mean the author meant it literally. If authorial intent is basic, we need to take words the way the author meant them in regard to the question of literalness as surely as in any other consideration.
 
-Creationists often call for literal over figurative in Genesis 1 by saying that people do not believe the Bible if they do not believe in twenty-four-hour days. It seems more likely that Moses used the enjoined seven-day week for Israel as a literary device for presenting major sets of God’s creative acts. Exact sequence and precise length of time give way to topical intent—to show that the creator of the whole universe is the one that Israelites were to worship rather than the gods of the surrounding nations.
+Creationists often call for literal over figurative in Genesis <strong><sup>1</sup></strong> by saying that people do not believe the Bible if they do not believe in twenty-four-hour days. It seems more likely that Moses used the enjoined seven-day week for Israel as a literary device for presenting major sets of God’s creative acts. Exact sequence and precise length of time give way to topical intent—to show that the creator of the whole universe is the one that Israelites were to worship rather than the gods of the surrounding nations.
 
 We do well to acknowledge degrees of figurativeness, and that literal historical accounts may contain figurative expressions.
 
-A historical understanding of Genesis 1-3 does not eliminate taking figuratively the statement, “God breathed into [man’s] nostrils the breath of life” (2:7).
+A historical understanding of Genesis <strong>1-3</strong> does not eliminate taking figuratively the statement, <em>“God breathed into </em>[man’s]<em> nostrils the breath of life” </em>(<strong><sup>2</sup></strong>:7).
 
 Jesus’ disciples misunderstood his comment about the leaven of the Pharisees, his statement that Lazarus was asleep, his destroying the temple and rebuilding it in three days. All three cases could have made sense taken literally, but that is not the way he meant them.
 
 Students of the Bible do not always have the same thing in mind when they speak of “literal”; so “literal” is itself ambiguous. It might mean (1) the most concrete, (2) what is closest to the derivational word-picture, or (3) what is the most usual meaning. Actually, it is better to adopt #3 and to speak of the more conventional meaning than to speak of literal meaning. An originally “concrete” usage may become figurative and may be used predominantly that way; the “normal” way of using it would be figurative. The reason the primary meaning tends to be “literal” is that people more often speak in concrete ways.
 
-Supposing literal over figurative creates a negative burden of proof. A better approach builds a positive basis for whatever view a person takes. Preferring literal over figurative is not particularly self-evident, especially in light of Jesus’ love for metaphor and parable. The preference depends on the parenthesized numbers below.
+Supposing literal over figurative creates a negative burden of proof. A better approach <em>builds a positive basis for whatever view a person takes.</em> Preferring literal over figurative is not particularly self-evident, especially in light of Jesus’ love for metaphor and parable. The preference depends on the parenthesized numbers below.
+
 
 (1) The cultural customs of language usage (convention). Setting up a hermeneutical preference for literal may reflect a tendency of modern Western usage in the scientific age. A secondary motivation may be to undergird a certain theological system, as with those who expect a political kingdom of God on earth, those who adopt Augustinian anthropology, those who espouse Calvinistic theology, or those who promote fiat creationism. A study of biblical rhetoric indicates that it is more replete with imagery than, say, modern English. The Bible has more “colorful” expression than American custom does.
 
-(2) The genre being interpreted (law vs. poetry, e.g.).
+
+(2) The genre being interpreted (law <em>vs.</em> poetry, <em>e.g</em>.).
 
 (3) The personal tendencies of a writer.
 
 (4) The nature of the immediate and distant context.
 
-(5) The intent of the writer at this point as determined by context, etc.
+(5) The intent of the writer at this point as determined by context, <em>etc</em>.
 
 (6) The subject matter
 
-We take in a secondary (figurative) sense those elements clearly not in harmony with experience or the pattern of divine operation revealed elsewhere. In other words, one reason for figurative interpretation is to avoid what would cause contradiction if taken literally. Another rule, laid down by Clement of Alexandria, is that those things are to be considered figurative that are unworthy of God. There is a degree of subjectivism here, and we wonder if it is not rather a matter of avoiding contradiction with what is elsewhere revealed about God.
 
-One final factor integrates the literal-figurative variable with the intent-of- statement principle. We regard the Spirit as the ultimate author of scripture. This point (1) allows an author to say things he could not know naturally. It (2) even allows for prophets to say things they did not understand (1 Peter 1:10-12). It also (3) allows a prophet to say something an interpreter might normally suppose would have been meant one way but was meant another way. Everyone agrees that anyone can mean more than a listener can ascertain. Similarly, the Spirit may have more in mind or something slightly different from what even his spokesman might suppose. For example, Old Testament prophets can sound like they espoused a moralizing view of history; that is, sin and misfortune have a one-for-one correlation at the personal level. The prophets themselves perhaps thought of these things literally; but God did not necessarily so mean them; consequently, the interpreter would be free to consider them as figurative, involving indirect operation and non-uniform pattern. (Note this point in relation to our work of interpretation and our view of scripture above.)
+We take in a secondary (figurative) sense those elements clearly not in harmony with experience or the pattern of divine operation revealed elsewhere. In other words, one reason for figurative interpretation is <em>to avoid what would cause contradiction if taken literally</em>. Another rule, laid down by Clement of Alexandria, is that <em>those things are to be considered figurative that are unworthy of God</em>. There is a degree of subjectivism here, and we wonder if it is not rather a matter of avoiding contradiction with what is elsewhere revealed about God.
 
-An example of taking things figuratively when they create conflict literally is the series of cases where conflicting figures about the same thing do not give conflicting messages about it: God dwells in thick darkness (Exodus 20:21); yet he rises up early to send his prophets (2 Chronicles 36:15; Jeremiah 7:25, etc.).
+One final factor integrates the literal-figurative variable with the intent-of- statement principle. We regard the Spirit as the ultimate author of scripture. This point (1) allows an author to say things he could not know naturally. It (2) even allows for prophets to say things they did not understand (1 Peter <strong><sup>1</sup></strong>:10-12). It also (3) allows a prophet to say something an interpreter might normally suppose would have been meant one way but was meant another way. Everyone agrees that anyone can mean more than a listener can ascertain. Similarly, the Spirit may have more in mind or something slightly different from what even his spokesman might suppose. For example, Old Testament prophets can sound like they espoused a moralizing view of history; that is, sin and misfortune have a one-for-one correlation at the personal level. The prophets themselves perhaps thought of these things literally; but God did not necessarily so mean them; consequently, the interpreter would be free to consider them as figurative, involving indirect operation and non-uniform pattern. (Note this point in relation to our work of interpretation and our view of scripture above.)
+
+An example of taking things figuratively when they create conflict literally is the series of cases where conflicting figures about the same thing do not give conflicting messages about it: God dwells in thick darkness (Exodus <strong><sup>20</sup></strong>:21); yet he rises up early to send his prophets (2 Chronicles <strong><sup>36</sup></strong>:15; Jeremiah<strong> 7</strong>:25, <em>etc</em>.).
 
 5. 	The place of the Holy Spirit in illumination
 
 Illumination refers to the enlightenment that comes to a hearer. Historical theology has developed the belief in supernatural enlightenment in consequence of natural depravity in man. It envisions heightened perception and conceptual implantation parallel to proclamation.
 
-1 Corinthians 2:14 has been used as one basis for the concept of supernatural illumination: “Natural human beings do not welcome the things of God’s Spirit, because they are foolishness to them; and they cannot come to know them, because they are spiritually discerned.” However, Paul is describing natural human beings vs. spiritual ones; he does not explain that the reason for this behavior lies in an inherited fallen nature. Natural humans do not welcome spiritual truth and they cannot come to know it on their own. Paul could speak to Christians who were not spiritual, but carnal (3:1). He declares that unspiritual people do not want to hear spiritual things, not that they cannot hear them. He speaks of psychological, not natural, depravity. How such people become willing is not addressed, unless Paul demonstrates that they can be made willing by addressing them as he does in these very comments. Paul could also be declaring a generality regarding unspiritual people.
+1 Corinthians<strong> 2</strong>:14 has been used as one basis for the concept of supernatural illumination: “Natural human beings do not welcome the things of God’s Spirit, because they are foolishness to them; and they cannot come to know them, because they are spiritually discerned.” However, Paul is describing natural human beings <em>vs. </em>spiritual ones; he does not explain that the reason for this behavior lies in an inherited fallen nature. Natural humans do not welcome spiritual truth and they cannot come to know it on their own. Paul could speak to Christians who were not spiritual, but carnal (<strong><sup>3</sup></strong>:1). He declares that unspiritual people do not want to hear spiritual things, not that they cannot hear them. He speaks of psychological, not natural, depravity. How such people become willing is not addressed, unless Paul demonstrates that they can be made willing by addressing them as he does in these very comments. Paul could also be declaring a generality regarding unspiritual people.
 
 We need not deny the possibility of supernatural operation in illumination, even though we deny the necessity of it since we deny the doctrine of natural depravity and affirmed instead psychological depravity. Supernatural activity may occur indirectly at God’s discretion through circumstance or other Christians (or even through the sheer presence), but such operation would not be direct on the substantive nature of the person. God could do it—perhaps for timeliness purposes—to help someone like Peter see something even though he would not normally need to do so.
 
-The doctrine of supernatural illumination blends understanding with belief. Cases exist where attitude makes it improbable that people will put out enough effort to understand; they may “try to misunderstand” because they can see that what they would understand would lay a claim on their life. The pattern happens more specifically with belief, however, and speaks to people’s psychological depravity. Sometimes people caricature Christianity to make disbelief look more intellectually respectable. Jesus got at this problem in John 8:37 when he asked the Pharisees why they could not understand him. He spoke of his words “not having free course in them.” They were not “open” and intellectually “honest.” Generally, though, since people do not require supernatural aid to understand other things, we wonder why they would need it here. Furthermore, the phenomenon occurs in Christians (who need correction) as much as in non-Christians (who need conversion).
+The doctrine of supernatural illumination blends understanding with belief. Cases exist where attitude makes it improbable that people will put out enough effort to understand; they may “try to misunderstand” because they can see that what they would understand would lay a claim on their life. The pattern happens more specifically with belief, however, and speaks to people’s psychological depravity. Sometimes people caricature Christianity to make disbelief look more intellectually respectable. Jesus got at this problem in John <strong><sup>8</sup></strong>:37 when he asked the Pharisees why they could not understand him. He spoke of his words <em>“not having free course in them.”</em> They were not “open” and intellectually “honest.” Generally, though, since people do not require supernatural aid to understand other things, we wonder why they would need it here. Furthermore, the phenomenon occurs in Christians (who need correction) as much as in non-Christians (who need conversion).
 
 6. Authority, license, and private judgment
 
@@ -321,9 +341,11 @@ b. What it does not mean
 
 accounts for the data
 
+
 When context does not show which idea the author meant, we should conclude that (a) our question is not being addressed, (b) the writer is not operating at our level of detail, or (c) the writer’s point can incorporate alternatives; we do not have to adopt one interpretation.
 
 Interpretation is not always a matter of determining the view to take. Sometimes we must be satisfied with eliminating certain false ones while leaving open a range of possibilities. The goal of interpretation in this case is to restrict options, not to establish one view.
+
 
 (4) that all things are equally important
 
@@ -338,3 +360,4 @@ c. What it stands over against
 (3) any idea that scripture is not subject to the common-sense application of the pertinent laws of thought (language and rationality)
 
 christir.org
+

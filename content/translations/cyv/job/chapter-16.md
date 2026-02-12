@@ -9,19 +9,15 @@ type: chapter
 weight: 16
 ---
 
-## Job Chapter **16**
+## Job Chapter 16
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup><strong>Job</strong><strong> answered:</strong> <strong><sup>2</sup></strong><em>“I’ve</em><em> heard a lot of things like </em><em>that;</em> <em>	</em><em>	you’re miserable comforters.</em></span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> <strong>Job</strong><strong> answered:</strong></span>
 
 <span class="verse" id="v3"><strong><sup>3</sup></strong><em>Is</em><em> there no end to windy words?</em> <em>	</em><em>	What’s your problem that you answer </em>me like that<em>?</em></span>
 
 <span class="verse" id="v4"><strong><sup>4</sup></strong><em>I</em><em> could talk to you like you’re talking if I was in your place.</em> <em>	</em><em>	I could string out words and shake my head at you.</em></span>
 
-<span class="verse" id="v5"><strong><sup>5</sup></strong>Or, <em>I could encourage you </em> <em>	</em><em>	</em><em>so</em><em> my comfort could lessen your pain.</em><strong>	</strong></span>
-<p class="section-ref">Job 16:1-5</p>
-
-### 6“If I speak, it doesn’t take away my pain; 		if I don’t speak, how much of it goes away?
-
+<span class="verse" id="v5"><strong><sup>5</sup></strong>Or, <em>I could encourage you </em> <em>	</em><em>	</em><em>so</em><em> my comfort could lessen your pain.</em><strong>	</strong><strong>Job 16:1-5</strong></span>
 
 <span class="verse" id="v7"><strong><sup>7</sup></strong><em>God</em><em> has worn me </em><em>out;</em> <em>	</em><em>	he’s taken away my family.</em></span>
 
@@ -29,8 +25,7 @@ weight: 16
 
 <span class="verse" id="v9"><strong><sup>9</sup></strong><em>His</em><em> anger hunts me down and tears me </em><em>up;</em> <em>	</em><em>	he gnashes his teeth at </em><em>me;</em> <em>	</em><em>	my adversary glares at me.</em></span>
 
-<span class="verse" id="v10"><strong><sup>0</sup></strong><em>People</em><em> gape at me with their mouth</em> <em>	</em><em>	and slap me on the cheek in their </em><em>contempt;</em> <em>	</em><em>	they gang up on me.</em><strong>	 </strong><strong>	</strong></span>
-<p class="section-ref">Job 16:6-10</p>
+<span class="verse" id="v10"><strong><sup>0</sup></strong><em>People</em><em> gape at me with their mouth</em> <em>	</em><em>	and slap me on the cheek in their </em><em>contempt;</em> <em>	</em><em>	they gang up on me.</em><strong>	 </strong><strong>	</strong><strong>Job 16:6-10</strong></span>
 
 <span class="verse" id="v11"><strong><sup>1</sup></strong><em>God</em><em> has handed me over to ungodly people</em> <em>	</em><em>	and thrown me away to </em><em>sinners</em><em>.</em></span>
 
@@ -44,11 +39,7 @@ weight: 16
 
 <span class="verse" id="v16"><strong><sup>6</sup></strong><em>My</em><em> face is flushed from </em><em>crying;</em> <em>	</em><em>	I have dark circles around my eyes</em></span>
 
-<span class="verse" id="v17"><sup><strong>17</strong></sup><em>	</em><strong><sup>17</sup></strong><em>although</em><em> I haven’t been violent,</em> <em>	</em><em>	</em><em>	and my prayer is pure.</em><strong>	</strong></span>
-<p class="section-ref">Job 16:11-17</p>
-
-### 18“Earth, don’t cover up my blood; 		don’t let my outcry cease.
-
+<span class="verse" id="v17"><sup class="verse-num">17</sup> <em>	</em><strong><sup>17</sup></strong><em>although</em><em> I haven’t been violent,</em> <em>	</em><em>	</em><em>	and my prayer is pure.</em><strong>	</strong><strong>Job 16:11-17</strong></span>
 
 <span class="verse" id="v19"><strong><sup>9</sup></strong><em>Even</em><em> now my witness is in </em><em>heaven;</em> <em>	</em><em>	my Advocate </em><em>is on</em><em> high.</em></span>
 

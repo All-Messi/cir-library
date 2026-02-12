@@ -9,9 +9,9 @@ type: chapter
 weight: 9
 ---
 
-## Isaiah Chapter **9**
+## Isaiah Chapter 9
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>But there won’t be any more darkness for those who have been in distress. In earlier times, <em>God</em> didn’t give much prominence to the territory of Zebulun and Naphtali, but at a future time he’ll make it glorious along the road from the Jordan along the Sea <em>of Galilee</em>, Galilee of the Gentiles.</span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> But there won’t be any more darkness for those who have been in distress. In earlier times, <em>God</em> didn’t give much prominence to the territory of Zebulun and Naphtali, but at a future time he’ll make it glorious along the road from the Jordan along the Sea <em>of Galilee</em>, Galilee of the Gentiles.</span>
 
 <span class="verse" id="v2"><strong><sup>2</sup></strong>Those who walk in deep darkness will see a bright light; it will shine on people that live in a dark land.</span>
 
@@ -27,12 +27,11 @@ weight: 9
 
 <span class="verse" id="v8"><strong><sup>8</sup></strong>Yahveh is issuing a message against Jacob, <em>a message of </em>condemnation that falls on Israel.</span>
 
-<span class="verse" id="v9"><strong><sup>9</sup></strong>Everyone in Ephraim will find out, those who live in Samaria who say with such arrogance, <strong><sup>10</sup></strong><em>“The</em><em> </em><em>fallen </em><em>bricks </em><em>in our ruins</em> <em>	</em><em>	</em><em>	</em><em>	we</em><em>’ll replace with dressed </em><em>stones;</em><em>	</em><em>	</em><em>	</em> <em>	</em><em>	</em><em>	s</em><em>ycamores</em><em> that</em><em> have been cut down</em> <em>	</em><em>	</em><em>	</em><em>	we’ll </em><em>replant</em><em> with cedars.”</em></span>
+<span class="verse" id="v9"><strong><sup>9</sup></strong>Everyone in Ephraim will find out, those who live in Samaria who say with such arrogance,</span>
 
 <span class="verse" id="v11"><strong><sup>1</sup></strong>But Yahveh will bring adversaries from Rezin and spur them on.</span>
 
-<span class="verse" id="v12"><strong><sup>2</sup></strong>Syrians from the east plus Philistines from the west will devour Israel with wide-open jaws. <strong>Even then</strong><strong>, his anger </strong><strong>wo</strong><strong>n’t </strong><strong>be </strong><strong>spent</strong><strong>;</strong> <strong>	</strong><strong>	</strong><strong>	his </strong><strong>fist</strong><strong> </strong><strong>will still be</strong><strong> </strong><strong>raised</strong><strong>.</strong><strong>	</strong></span>
-<p class="section-ref">Is 9:8-12</p>
+<span class="verse" id="v12"><strong><sup>2</sup></strong>Syrians from the east plus Philistines from the west will devour Israel with wide-open jaws. <strong>Even then</strong><strong>, his anger </strong><strong>wo</strong><strong>n’t </strong><strong>be </strong><strong>spent</strong><strong>;</strong> <strong>	</strong><strong>	</strong><strong>	his </strong><strong>fist</strong><strong> </strong><strong>will still be</strong><strong> </strong><strong>raised</strong><strong>.</strong><strong>	</strong><strong>Is 9:8-12</strong></span>
 
 <span class="verse" id="v13"><strong><sup>13</sup></strong>Yet the people still won’t come back to the One that disciplined them or look to Yahveh of Hosts.</span>
 

@@ -1,16 +1,17 @@
 ---
 author: Virgil Warren, PhD
 categories:
+- Essays
 - Topics
 - CHRISTIAN DOCTRINE
 - BAPTISM
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: BAPTISM AS IDENTIFICATION WITH CHRIST
 weight: 5
 ---
 
-BAPTISM AS IDENTIFICATION WITH CHRIST
+
 
 Seeing baptism as identification with Christ provides a framework for working through several abnormal situations that arise and helps make sense even of normal situations that may be overlooked in the theory and practice of the ordinance.
 
@@ -28,6 +29,8 @@ This approach applies progressive revelation—a relativity factor—to all cate
 
 That same progression-relativity principle applies not only throughout the dispensations of time and across the boundaries of cultural circumstance, but also over the stages of each person’s development.
 
-We may say in closing that this approach may relate to other matters in the New Testament: (1) the coming of the Spirit on the household of Cornelius a short time before their baptism that identified them with Christ; and (2) Ananias’ addressing the great persecutor of Christians as “Brother Saul.” This expression could be a term of affection or based on his being a fellow Jew. But by the time Ananias says it, Paul was a repentant believer in Christ as the Messiah; he had seen Christ and had been praying and fasting for three days. In attitude he was no longer against Christ, and in that sense was for him. (3) It could relate to the apostles’ receiving the Spirit on Pentecost aside from being baptized.
+We may say in closing that this approach may relate to other matters in the New Testament: (1) the coming of the Spirit on the household of Cornelius a short time before their baptism that identified them with Christ; and (2) Ananias’ addressing the great persecutor of Christians as “<em>Brother Saul.”</em> This expression could be a term of affection or based on his being a fellow Jew. But by the time Ananias says it, Paul was a repentant believer in Christ as the Messiah; he had seen Christ and had been praying and fasting for three days. In attitude he was no longer against Christ, and in that sense was for him. (3) It could relate to the apostles’ receiving the Spirit on Pentecost aside from being baptized.
 
 christir.org
+
+

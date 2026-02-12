@@ -4,37 +4,39 @@ chapter: 140
 next: chapter-141
 prev: chapter-139
 title: Psalms 140
-translation: COT
+translation: CNT
 type: chapter
 weight: 140
 ---
 
-## Psalms Chapter **140**
+## Psalms Chapter 140
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup><strong>L</strong><strong>ORD</strong><strong>, rescue me from sinful people</strong> <strong>	protect me from violent</strong><strong> men</strong><strong>,</strong></span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> LORD, rescue me from sinful people protect me from violent men,</span>
 
-<span class="verse" id="v2"><sup><strong>2</strong></sup>that plot evil things in their minds, and constantly stir up conflict.</span>
+<span class="verse" id="v2"><sup class="verse-num">2</sup> that plot evil things in their minds, and constantly stir up conflict.</span>
 
-<span class="verse" id="v3"><sup><strong>3</strong></sup>They have pointed tongues like a snake; viper’s venom lies behind their lips.</span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> They have pointed tongues like a snake; viper’s venom lies behind their lips.</span>
 
-<span class="verse" id="v4"><sup><strong>4</strong></sup><strong>L</strong><strong>ORD</strong><strong>, protect me from </strong><strong>sinful people</strong><strong>;</strong> <strong>	Protect me from violent</strong><strong> men</strong><strong>,</strong> that try to trip me.</span>
+<span class="verse" id="v4"><sup class="verse-num">4</sup> LORD, protect me from sinful people; Protect me from violent men, that try to trip me.</span>
 
-<span class="verse" id="v5"><sup><strong>5</strong></sup>The arrogant hide traps for me; with cords they spread a net beside the road and set snares for me.<strong>	</strong></span>
+<span class="verse" id="v5"><sup class="verse-num">5</sup> The arrogant hide traps for me; with cords they spread a net beside the road and set snares for me.</span>
 <p class="section-ref">Ps 140:1-5</p>
 
-<span class="verse" id="v6"><sup><strong>6</strong></sup>I said to the LORD, <em>“You’re my God;</em> <em>	listen to my </em><em>petition</em><em>s.</em></span>
+<span class="verse" id="v6"><sup class="verse-num">6</sup> I said to the LORD, “You’re my God; listen to my petitions.</span>
 
-<span class="verse" id="v7"><sup><strong>7</strong></sup><em>G</em><em>OD</em><em> the Lord, </em><em>my strong deliverer</em><em>,</em> <em>	you’ve </em><em>protected</em><em> my head in battle.</em></span>
+<span class="verse" id="v7"><sup class="verse-num">7</sup> GOD the Lord, my strong deliverer, you’ve protected my head in battle.</span>
 
-<span class="verse" id="v8"><sup><strong>8</strong></sup><em>Don’t let sinful</em><em> </em><em>people </em><em>do whatever they </em><em>please</em><em>;</em> <em>	don’t further their evil </em><em>intentions</em><em>.</em><em>	</em> <strong><sup>9</sup></strong><em>“Make</em><em> the </em><em>schemes</em><em> </em><em>they talk about </em> <em>	</em><em>come down on their own heads</em><em>.</em></span>
+<span class="verse" id="v8"><sup class="verse-num">8</sup> Don’t let sinful people do whatever they please; don’t further their evil intentions.</span>
 
-<span class="verse" id="v10"><sup><strong>10</strong></sup><em>Let</em><em> burning coals fall on them;</em> <em>	throw them into</em><em> the fire,</em> <em>	</em><em>	</em><em>into deep pits they can’t </em><em>climb out of</em><em>.</em></span>
+<span class="verse" id="v9"><sup class="verse-num">9</sup> Make the schemes they talk about come down on their own heads.</span>
 
-<span class="verse" id="v11"><sup><strong>11</strong></sup><em>Don’</em><em>t let slanderers get</em><em> </em><em>a foothold in the</em><em> earth;</em> <em>	have</em><em> </em><em>misfortune</em><em> hunt down violent </em><em>people</em><em> quickly.”</em></span>
+<span class="verse" id="v10"><sup class="verse-num">10</sup> Let burning coals fall on them; throw them into the fire, into deep pits they can’t climb out of.</span>
 
-<span class="verse" id="v12"><sup><strong>12</strong></sup>I know you’ll champion the cause of the suffering and <em>render </em>justice for the poor.</span>
+<span class="verse" id="v11"><sup class="verse-num">11</sup> Don’t let slanderers get a foothold in the earth; have misfortune hunt down violent people quickly.”</span>
 
-<span class="verse" id="v13"><sup><strong>13</strong></sup>The godly will thank you and live in your presence.<strong>	</strong></span>
+<span class="verse" id="v12"><sup class="verse-num">12</sup> I know you’ll champion the cause of the suffering and render justice for the poor.</span>
+
+<span class="verse" id="v13"><sup class="verse-num">13</sup> The godly will thank you and live in your presence.</span>
 <p class="section-ref">Ps 140:6-13</p>
 
 

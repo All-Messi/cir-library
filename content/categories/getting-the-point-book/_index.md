@@ -1,7 +1,4 @@
 ---
-title: "Getting the Point (Book)"
-layout: "book-toc"
-weight: 1
+title: GETTING THE POINT (book)
+weight: 10
 ---
-
-A comprehensive guide to biblical hermeneutics and interpretation principles. Learn the tools and methods for understanding Scripture rightly.

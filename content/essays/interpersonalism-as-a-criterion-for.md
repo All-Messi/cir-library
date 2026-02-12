@@ -1,18 +1,21 @@
 ---
 author: Virgil Warren, PhD
 categories:
+- Essays
 - Topics
 - INTERPERSONALISM
 - IP (interpersonalism) IMPACT ON TOPICS
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: INTERPERSONALISM AS A CRITERION FOR
 weight: 999
 ---
 
-INTERPERSONALISM AS A CRITERION FOR
 
-FELLOWSHIP, ORTHODOXY, AND RELATIVE CENTRALITY
+<strong>FELLOWSHIP, ORTHODOXY, AND RELATIVE CENTRALITY</strong>
+
+
+
 
 Interpersonalism serves as a general criterion for deciding what is part of the faith. It is the touchstone for distinguishing “gospel from culture” and truth from preference.
 

@@ -1,16 +1,18 @@
 ---
 author: Virgil Warren, PhD
 categories:
+- Essays
 - Topics
 - CHRISTIAN DOCTRINE
 - DOCTRINAL Summaries
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: THE BIG PICTURE
 weight: 2
 ---
 
-THE BIG PICTURE
+
+
 
 One of the biggest plagues in Bible study is a failure to see the “big picture.” We tend to read a verse, think about it, and discuss it. As a result, that statement gets lifted from its setting and put in the context of our interests or problems even when it may not belong there. Foreign ideas come into the picture because we do not keep context in mind. Bible study needs to cover large portions to keep in sight the flow of thought. In addition, the purpose and character of Christian understanding must provide the framework for individual doctrines.
 
@@ -20,12 +22,17 @@ For another thing, seeing the big picture helps us decide whether to make a give
 
 Understanding the character and purpose of Christianity helps us decide about moral matters not specifically treated in Scripture. Contraceptives were not generally available to first-century men and women. Does that alter anything about premarital and extra-marital sexual relations? Unless we understand the underlying principles, we are limited to operating from specific statements about do’s and don’t’s.
 
-A grasp of the whole helps us see through apparent contradictions. The Scripture has many little “brain teasers” like Galatians 6:2 + 5: “Bear one another’s burdens”; “each person will bear his own burden.” Remembering the interpersonal character of Christianity suggests observations that make these complementary rather than contradictory, generalities rather than absolutes. Do Christians sin or not (1 John 1:8; 3:6)? Does God care for animals or not (1 Corinthians 9:9; Matthew 10:29)? Was Jesus deity or not (James 1:13; Hebrews 4:15)? In these and many others, the principle is the same: apparent contradictions disappear in light of “the rest of the story.”
+A grasp of the whole helps us see through apparent contradictions. The Scripture has many little “brain teasers” like Galatians <strong><sup>6</sup></strong>:2 + 5: <em>“Bear one another’s burdens”</em>; <em>“each person will bear his own burden.”</em> Remembering the interpersonal character of Christianity suggests observations that make these complementary rather than contradictory, generalities rather than absolutes. Do Christians sin or not (1 John <strong><sup>1</sup></strong>:8; <strong><sup>3</sup></strong>:6)? Does God care for animals or not (1 Corinthians <strong><sup>9</sup></strong>:9; Matthew <strong><sup>10</sup></strong>:29)? Was Jesus deity or not (James <strong><sup>1</sup></strong>:13; Hebrews<strong> 4</strong>:15)? In these and many others, the principle is the same: apparent contradictions disappear in light of <em>“the rest of the story.”</em>
 
-“The whole is more than the sum of the parts.” A car is more than a tire and a carburetor and a radiator and a bumper, etc. We could lay out all the parts in a parking lot, but we would not have a car. The relationship between the parts would not exist. Seeing the whole helps us see the meaning of the parts and clarifies the role each one plays. Christian baptism, for example, loses its ritualistic, legal feel when we see its interpersonal context. Baptism is a personal commitment by a person to a person. From this starting point derive other matters associated with the ordinance. This element in Christianity gets its character from the kind of thing Christianity is as a whole. Knowing the whole means having a context in which to place individual pieces that are then qualified by that context.
+<em>“The whole is more than the sum of the parts.”</em> A car is more than a tire and a carburetor and a radiator and a bumper,<em> etc</em>. We could lay out all the parts in a parking lot, but we would not have a car. The relationship between the parts would not exist. Seeing the whole helps us see the meaning of the parts and clarifies the role each one plays. Christian baptism, for example, loses its ritualistic, legal feel when we see its interpersonal context. Baptism is a personal commitment by a person to a person. From this starting point derive other matters associated with the ordinance. This element in Christianity gets its character from the kind of thing Christianity is as a whole. Knowing the whole means having a context in which to place individual pieces that are then qualified by that context.
 
 Since the broad scope clarifies meaning and removes apparent contradictions, it helps give confidence in the truth of what we believe. Consequently, we give ourselves more wholeheartedly to the ministry of that message. There comes a more natural feel for what we need to stress in our work. We may even be able to remember better the parts of Christian doctrine because motivation for permanent learning is higher when we have confidence in the truth of what we study. Remembering itself is easier when we understand what we learn.
 
 There is no substitute for real understanding, but it does not come without a grasp of the “big picture.”
 
+
 christir.org
+
+
+
+

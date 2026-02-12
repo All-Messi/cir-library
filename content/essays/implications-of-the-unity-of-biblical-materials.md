@@ -1,39 +1,54 @@
 ---
 author: Virgil Warren, PhD
 categories:
+- Essays
 - EVIDENCES
-- CRITICAL INTRODUCTION -  New Testament
+- CRITICAL INTRODUCTION - New Testament
 - Corinthians
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: IMPLICATIONS OF THE UNITY OF BIBLICAL MATERIALS
 weight: 17
 ---
 
-IMPLICATIONS OF THE UNITY OF BIBLICAL MATERIALS
+
+
 
 I. Jeremiah as a test case
 
+
+
 II. New Testament books where the unity issue has been raised
+
 
 A.   Matthew
 
+
 B.   Mark		Source theories
+
 
 C.   Luke
 
-D.   Acts	1-12,   13-28
 
-E.   Romans	1-14,   15-16
+D.   Acts	<strong>1-12</strong>,   <strong>13-28</strong>
 
-*F.   2 Corinthians	1-9,   10-13   (See “Reconstruction of the Fourfold Corinthians
+
+E.   Romans	<strong>1-14</strong>,   <strong>15-16</strong>
+
+
+*F.   2 Corinthians	<strong>1-9</strong>,   <strong>10-13</strong>   (See “Reconstruction of the Fourfold Corinthians
 
 Correspondence Theory”)
 
-G.   Philippians	1-2,   3:1-3:19/4:1/4:3
 
-H.   1 Peter	1-3,   4-5
+G.   Philippians	<strong>1-2</strong>,   <strong>3:1-3:19/4:1/4:3</strong>
+
+
+H.   1 Peter	<strong>1-3</strong>,   <strong>4-5</strong>
+
 
 I.     Revelation
 
+
 christir.org
+

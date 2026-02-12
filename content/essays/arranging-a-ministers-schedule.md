@@ -1,26 +1,31 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Topics
+- Essays
 - MINISTRY
 - Christian Ministry 105
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: ARRANGING A MINISTER'S SCHEDULE
 weight: 999
 ---
 
-ARRANGING A MINISTER'S SCHEDULE
+
+
 
 I. The Nature and Purpose of a Schedule
 
-A minister's schedule is not structured so automatically as most people's schedules are. Larger congregations with multiple staffs may foster developing a schedule pattern more like that of a business, but most churches do not lend themselves naturally to such an arrangement. Ministry is highly open-ended with many different kinds of activities. Furthermore, it varies so much from day to day and week to week and can involve all hours of the day and night. The “work-week hours” do not form so definite a block of time. For this last reason a minister should deliberately schedule his professional and non-professional activities. If he does not scheduling deliberately, before long the professional side of his work can take over the non-professional (or conceivably vice versa) and become overwhelming, or the professional part can get lopsided in favor of certain things–things wherein skills are best and interests are greatest or things in which “the tyranny of the urgent/immediate” takes over. Under these conditions laying out a minister’s schedule is both difficult and essential.
+
+A minister's schedule is not structured so automatically as most people's schedules are. Larger congregations with multiple staffs may foster developing a schedule pattern more like that of a business, but most churches do not lend themselves naturally to such an arrangement. Ministry is highly open-ended with many different kinds of activities. Furthermore, it varies so much from day to day and week to week and can involve all hours of the day and night. The “work-week hours” do not form so definite a block of time. For this last reason a minister should deliberately schedule his professional and non-professional activities. If he does not scheduling deliberately, before long the professional side of his work can take over the non-professional (or conceivably <em>vice versa</em>) and become overwhelming, or the professional part can get lopsided in favor of certain things–things wherein skills are best and interests are greatest or things in which “the tyranny of the urgent/immediate” takes over. Under these conditions laying out a minister’s schedule is both difficult and essential.
 
 There are three values to having a schedule: (a) it helps keep things from “falling through the cracks”; (b) it tends to make a person more efficient; and (c) it reduces pressure. On the first point, unless a busy person writes things down, he will forget some rather important things or he may remember them too late. A schedule gives him somewhere to put things so that will not be so likely to happen. Secondly, a schedule gives efficiency because writing things down eliminates the time for trying to recall what needs to be done and when to do it. More importantly, a person can cluster similar activities or take care of all the things that have to be done in a given place. That reduces wasted motion. Thirdly, a schedule reduces pressure because once an item is written down so it will be remembered and done in time, you can put it out of your mind for the present. Pressure and “burn out” come from having too many things on your mind. Having too many things to do is not so much the problem as it is having too many things on your mind at the same time. Because they are all on your mind at once, you feel like you need to be working on them all at the same time particularly since you might forget one otherwise. That “floods the system” and “chokes down the machinery.” A schedule combines with good habits to reduce the number of what needs to be carried consciously.
 
 A schedule is for general purposes to help you keep track of yourself in reference to a general flow. A schedule is a guide, not a master. It deals first with blocks of time and then with specifics inside them. It is general enough that it can soon be logged in your mind as the framework within which you can put specific appointments. One way to look at a schedule is to see it at two levels. The general level indicates, for example, that mornings are office time primarily intended for study. From day to day and week to week there will be variation within that level, however. Some days that time will be used for the evening sermon; other days it will be used for the morning sermon or some special presentation, depending on which one “the spirit moves you” on. At other times you may use it for general reading and personal enrichment. For the sake of persons a schedule can be broken–yourself included.
 
+
+
 II. Non-Professional Aspects of a Minister’s Schedule
+
 
 In actually blocking out the weekly schedule, enter the times for set activities and work the less structured items around them. If in doing that you see that church and community events are taking up too many evenings or too much time, you may have to content yourself with doing fewer of them. Allow some discretionary time into which you can put overflow from other scheduled specifics and for unexpected and non-recurring items. That helps keep the pattern flexible.
 
@@ -30,7 +35,10 @@ In the “I time” belongs recreational reading, devotional experiences, adequa
 
 Scheduling should include your financial responsibilities also–budgeting. You can arrange your bills in, say, three columns per sheet of paper with each column divided into weeks. Into each time slot you can put the bills you anticipate for each week throughout a whole year at a time as well as the typical amounts you spend on food, rent/mortgage, etc. Once or twice through such an arrangement gives you a pretty good idea of what expenses you have and when they occur. Using this guide on payday, you can pull out the bills you already have and the set ones like regular church and mission giving, and write them all up for the time period till your next payday, putting a date on the outside of the envelop when they need to be mailed. Then you can see how much you have left for unexpected needs and discretionary spending.
 
+
+
 II. Professional Aspects of a Minister’s Schedule
+
 
 In the professional category belongs study time in preparation for sermons, Bible studies, articles, and the like. Most people are more creative earlier in the day; so it is advisable to block out morning hours for such work. There may be fewer interruptions in the morning also, depending on the community. Study time for next weekend's teaching-preaching responsibilities should be incorporated into the earlier part of the week because unforeseen emergencies may interfere with any schedule. That way if the study and preparation time is interrupted early in the week, there is some of the week left to get studying done. Of course, planning out sermons for several weeks ahead of time helps avoid this problem as well. Depending on the home situation, the earlier you get to the office the more you are likely to get done, not only because you are fresher in the morning, but because there will be fewer interruptions. This early time is probably better for private devotional activity for the same reasons. If there are family needs in the morning, you may still be able to work some in the morning before the kids get up. Getting started on your own gives you the feeling that you are operating from within rather than being shoved around by the clock, the schedule, the times set by external forces in your life. You are more in charge of your day if you get it started right.
 
@@ -40,9 +48,12 @@ Counseling does not follow a steady pattern, but some work in this area may be r
 
 Try to encourage the congregation not to overload Sunday with meetings. By the time a person goes to Sunday school and morning worship, evening youth meeting and/or church, he does not relish the thought of adding an elders meeting or some committee meeting on top of that. He is weary, not of the Lord or the Lord's people, but of sitting and meeting and listening. Besides, some people have only Sunday as a break in daily routine and as a family time. It would be better to emphasize a mid-week experience in worship or study than make Sunday a meetings marathon. Trying to take care of everything religious on one religious day ends up being counterproductive. These comments on the church schedule relate to a minister's schedule because he should participate in such corporate activities and planning sessions.
 
+
+
 III. Tips for Enhancing Efficiency
 
-Generally speaking, being interested in your work is the single most important aid to efficiency. If you enjoy your calling, you will naturally keep yourself concentrated on your work, which means greater efficiency. Getting adequate physical exercise increases your energy level for greater productivity. Proper diet and sufficient rest also translate into efficiency. It is not just how much time you work and how much time you do not waste in play, and diversionary and non-productive activity; it is the quality of your efforts, which are affected by these considerations.
+
+Generally speaking, <em>being interested in your work </em>is the single most important aid to efficiency. If you enjoy your calling, you will naturally keep yourself concentrated on your work, which means greater efficiency. <em>Getting adequate physical exercise</em> increases your energy level for greater productivity. <em>Proper diet</em> and <em>sufficient</em> <em>rest </em>also translate into efficiency. It is not just how much time you work and how much time you do not waste in play, and diversionary and non-productive activity; it is the quality of your efforts, which are affected by these considerations.
 
 Delegating responsibilities is another practice that has positive impact on a minister's schedule. Delegating responsibilities whenever possible is therefore advisable. In larger congregations funerals and weddings plus rehearsals and counseling can become quite time consuming. Besides the janitor, who takes care of the facilities, and a women's committee that oversees receptions, some congregations have appointed a wedding hostess who makes it her ministry to direct several parts of the rehearsal itself; consequently, the minister does not have to be present for the entire rehearsal time. Using such support personnel releases more time into the minister's schedule.
 
@@ -60,6 +71,29 @@ Another suggestion for efficiency is to work on bigger projects for longer block
 
 One final suggestion not only affects efficiency but also your frame of mind. Go ahead and take care of less enjoyable tasks instead of shoving them aside for “sometime later.” Shoving aside simply means that they are still there “hanging over your head” again sapping your psychological reserves. If there are several less enjoyable things to do, you can spread them out by doing one in the morning, one in the afternoon, one tomorrow morning, etc. Trying to do a whole clump of them is okay to get them over with, but mixing them in among others dilutes the dread of doing them.
 
+
+
 IV. Aids to Scheduling
 
-There are several aids to scheduling. You ought to carry a pocket-sized date book at all times. When you are away from the office, you will be asked to do something at some future time. If you have your date book with you, you can see immediately whether you are free at that time and you can enter it directly into the date-book form of your schedule. Carrying 3 x 5 cards gives you something on which to write down descriptions of such requested involvements. You can use one card to list things that need to be done that are not tied to an exact time. A desk calendar provides a larger framework for hourly entries where you can indicate appointments. At the end of each day you need to develop the habit of looking at the next day's responsibilities so you do not miss something. This is particularly important in regard to breakfast meetings and other early commitments; otherwise your normal time for getting to the office may be too late to let you know in time. Large wall calendars allow you to see a month at a time; they are big enough to write in everything on the church calendar and so can be used as master calendars. A tickler file can serve the same purpose; they are especially handy for reminding your about things that need to be done on an annual basis. If some activity has several stages to it, each stage can be entered over the period of time for preparation that leads up to its culmination. A file folder can also be used to keep track of mailings and other forms of announcements about upcoming events. You can stack the announcements in their chronological order and throw them away as their dates come and go.
+
+There are several aids to scheduling. You ought to carry a pocket-sized <em>date book </em>at all times. When you are away from the office, you will be asked to do something at some future time. If you have your date book with you, you can see immediately whether you are free at that time and you can enter it directly into the date-book form of your schedule. Carrying <em>3 x 5 cards</em> gives you something on which to write down descriptions of such requested involvements. You can use one card to list things that need to be done that are not tied to an exact time. A <em>desk calendar</em> provides a larger framework for hourly entries where you can indicate appointments. At the end of each day you need to develop the habit of looking at the next day's responsibilities so you do not miss something. This is particularly important in regard to breakfast meetings and other early commitments; otherwise your normal time for getting to the office may be too late to let you know in time. <em>Large wall calendars</em> allow you to see a month at a time; they are big enough to write in everything on the church calendar and so can be used as master calendars. A tickler file can serve the same purpose; they are especially handy for reminding your about things that need to be done on an annual basis. If some activity has several stages to it, each stage can be entered over the period of time for preparation that leads up to its culmination. A <em>file folder</em> can also be used to keep track of mailings and other forms of announcements about upcoming events. You can stack the announcements in their chronological order and throw them away as their dates come and go.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

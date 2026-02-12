@@ -1,6 +1,6 @@
 ---
 book: Galatians
-chapters: 5
+chapters: 6
 title: Galatians
 translation: CNT
 type: book
@@ -9,4 +9,6 @@ weight: 48
 
 ## Galatians
 
-**5 Chapters**
+**6 Chapters**
+
+Select a chapter to begin reading:

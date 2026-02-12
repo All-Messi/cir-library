@@ -4,14 +4,14 @@ chapter: 26
 next: chapter-27
 prev: chapter-25
 title: Isaiah 26
-translation: COT
+translation: CNT
 type: chapter
 weight: 26
 ---
 
-## Isaiah Chapter **26**
+## Isaiah Chapter 26
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>At that time, they’ll sing a song in Judah: We have an impregnable city; it’s set up with secure walls and ramparts.</span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> At that time, they’ll sing a song in Judah: We have an impregnable city; it’s set up with secure walls and ramparts.</span>
 
 <span class="verse" id="v2"><strong><sup>2</sup></strong>Open the gates so a good nation can enter, one that stays faithful.</span>
 
@@ -21,8 +21,7 @@ weight: 26
 
 <span class="verse" id="v5"><strong><sup>5</sup></strong>He brings down low the ones that live up high in their “safe city”; <strong>	</strong><strong>	</strong>he throws it to the ground.</span>
 
-<span class="verse" id="v6"><strong><sup>6</sup></strong>The poor and helpless trample it.<strong>	</strong><strong><em>	</em></strong><strong>	</strong><strong>	</strong></span>
-<p class="section-ref">Is 26:1-6</p>
+<span class="verse" id="v6"><strong><sup>6</sup></strong>The poor and helpless trample it.<strong>	</strong><strong><em>	</em></strong><strong>	</strong><strong>	</strong><strong>Is 26:1-6</strong></span>
 
 <span class="verse" id="v7"><strong><sup>7</sup></strong>The road for the righteous is not rough; Righteous One, level out our path.</span>
 
@@ -52,8 +51,7 @@ weight: 26
 
 <span class="verse" id="v20"><strong><sup>0</sup></strong>Go home, my people, and lock the doors behind you; hide for a while till <em>the </em><em>L</em><em>ORD</em><em>’s</em> anger has run its course.</span>
 
-<span class="verse" id="v21"><strong><sup>1</sup></strong>The LORD is coming from heaven to punish people for their sin; the ground will show those whose blood’s been shed; it won’t any longer <em>be able to </em>hide its slain.<strong>	</strong></span>
-<p class="section-ref">Is 26:20-21</p>
+<span class="verse" id="v21"><strong><sup>1</sup></strong>The LORD is coming from heaven to punish people for their sin; the ground will show those whose blood’s been shed; it won’t any longer <em>be able to </em>hide its slain.<strong>	</strong><strong>Is 26:20-21</strong></span>
 
 
 <style>

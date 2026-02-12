@@ -4,23 +4,22 @@ chapter: 28
 next: chapter-29
 prev: chapter-27
 title: Job 28
-translation: COT
+translation: CNT
 type: chapter
 weight: 28
 ---
 
-## Job Chapter **28**
+## Job Chapter 28
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong><em>“There’s a mine for silver</em> <em>	</em><em>	and a refinery for gold.</em></span>
 
 <span class="verse" id="v2"><strong><sup>2</sup></strong><em>Iron comes out of the ground,</em> <em>	</em><em>	</em><em>	and people can smelt copper.</em></span>
 
-<span class="verse" id="v3"><sup><strong>3</strong></sup><em>	</em><strong><sup>3</sup></strong><em>They use a torch in the darkness </em> <em>	</em><em>	</em><em>	and go in as far they can, </em> <em>	</em><em>	</em><em>	</em><em>	searching for the ore in gloom and deep shadow.</em></span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> <em>	</em><strong><sup>3</sup></strong><em>They use a torch in the darkness </em> <em>	</em><em>	</em><em>	and go in as far they can, </em> <em>	</em><em>	</em><em>	</em><em>	searching for the ore in gloom and deep shadow.</em></span>
 
 <span class="verse" id="v4"><strong><sup>4</sup></strong><em>They sink mine shafts far from where people live</em> <em>	</em><em>	and go down them, dangling </em>on ropes, <em>	</em><em>	swinging back and forth.</em></span>
 
-<span class="verse" id="v5"><strong><sup>5</sup></strong><em>People grow food on top of the ground;</em> <em>	</em><em>	</em>but<em> far below, the ground melts as if by fire.</em><strong>	</strong></span>
-<p class="section-ref">Job 28:1-5</p>
+<span class="verse" id="v5"><strong><sup>5</sup></strong><em>People grow food on top of the ground;</em> <em>	</em><em>	</em>but<em> far below, the ground melts as if by fire.</em><strong>	</strong><strong>Job 28:1-5</strong></span>
 
 <span class="verse" id="v6"><strong><sup>6</sup></strong><em>Its rocks yield lapis lazuli,</em><em>	</em> <em>	</em><em>	whose flecks glitter like gold.</em></span>
 
@@ -32,11 +31,7 @@ weight: 28
 
 <span class="verse" id="v10"><strong><sup>0</sup></strong><em>They chisel out tunnels in the rock</em> <em>	</em><em>	to discover precious stones.</em></span>
 
-<span class="verse" id="v11"><strong><sup>1</sup></strong><em>They dam up </em><em>trickling </em><em>streams</em> <em>	</em><em>	and bring hidden treasure out to light.</em><strong>	</strong></span>
-<p class="section-ref">Job 28:6-11</p>
-
-### 12“But where can people discover wisdom? 		Where is intelligence located?
-
+<span class="verse" id="v11"><strong><sup>1</sup></strong><em>They dam up </em><em>trickling </em><em>streams</em> <em>	</em><em>	and bring hidden treasure out to light.</em><strong>	</strong><strong>Job 28:6-11</strong></span>
 
 <span class="verse" id="v13"><strong><sup>3</sup></strong><em>People don’t know what it’s worth;</em> <em>	</em><em>	they can’t find it where people live.</em></span>
 
@@ -44,8 +39,7 @@ weight: 28
 
 <span class="verse" id="v15"><strong><sup>5</sup></strong><em>Pure gold doesn’t exchange for it;</em> <em>	</em><em>	silver doesn’t weigh out equal to its price.</em></span>
 
-<span class="verse" id="v16"><strong><sup>6</sup></strong><em>Its value can’t be calculated in the gold from Ophir,</em> <em>	</em><em>	in precious onyx or lapis lazuli.</em><strong>	</strong></span>
-<p class="section-ref">Job 28:12-16</p>
+<span class="verse" id="v16"><strong><sup>6</sup></strong><em>Its value can’t be calculated in the gold from Ophir,</em> <em>	</em><em>	in precious onyx or lapis lazuli.</em><strong>	</strong><strong>Job 28:12-16</strong></span>
 
 <span class="verse" id="v17"><strong><sup>7</sup></strong><em>Gold or crystal can’t match it;</em> <em>	</em><em>	it can’t be traded for articles made from fine gold.</em></span>
 
@@ -57,11 +51,7 @@ weight: 28
 
 <span class="verse" id="v21"><strong><sup>1</sup></strong><em>Nothing alive can see it;</em> <em>	</em><em>	it’s hid from the birds in the sky.</em></span>
 
-<span class="verse" id="v22"><strong><sup>2</sup></strong><em>Abaddon and Death say,</em> <em>	</em><em>	‘We haven’t heard any report about it.’</em><strong>	</strong></span>
-<p class="section-ref">Job 28:17-22</p>
-
-### 23“God knows where it is 		and understands how to get to it.
-
+<span class="verse" id="v22"><strong><sup>2</sup></strong><em>Abaddon and Death say,</em> <em>	</em><em>	‘We haven’t heard any report about it.’</em><strong>	</strong><strong>Job 28:17-22</strong></span>
 
 <span class="verse" id="v24"><strong><sup>4</sup></strong><em>He can see all the way to the end of the earth</em> <em>	</em><em>	and everything that’s under the sky.</em></span>
 
@@ -71,7 +61,7 @@ weight: 28
 
 <span class="verse" id="v27"><strong><sup>27</sup></strong><em>then he looked at wisdom and appraised it;</em> <em>	</em><em>	</em><em>	he put it in place and tested it.</em></span>
 
-<span class="verse" id="v28"><strong><sup>8</sup></strong><em>He told humanity, ‘Respecting the Lord shows wisdom;</em> <em>	</em><em>	getting away from </em><em>sin</em><em> brings insight.’”</em></span>
+<span class="verse" id="v28"><strong><sup>8</sup></strong><em>He told humanity, ‘Respecting the Lord shows wisdom;</em> <em>	</em><em>	getting away from </em><em>sin</em><em> brings insight.’”</em><strong></span>
 <p class="section-ref">Job 28:23-28</p>
 
 

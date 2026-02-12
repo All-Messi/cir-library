@@ -9,30 +9,22 @@ type: chapter
 weight: 33
 ---
 
-## Numbers Chapter **33**
+## Numbers Chapter 33
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>These are the segments of the journey Israel took when they left Egypt. <strong><sup>2</sup></strong>Yahveh told Moses to write them down. <strong><sup>3</sup></strong>They traveled from Rameses on the <strong>fifteenth day, first month,</strong> <strong>the day after </strong><strong>Passover</strong>. They left right in front of the Egyptians <strong><sup>4</sup></strong>while they were burying the firstborn that Yahveh struck. Yahveh also carried out judgments against their gods.</span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> These are the segments of the journey Israel took when they left Egypt. <strong><sup>2</sup></strong>Yahveh told Moses to write them down. <strong><sup>3</sup></strong>They traveled from Rameses on the <strong>fifteenth day, first month,</strong> <strong>the day after </strong><strong>Passover</strong>. They left right in front of the Egyptians <strong><sup>4</sup></strong>while they were burying the firstborn that Yahveh struck. Yahveh also carried out judgments against their gods.</span>
 <p class="section-ref">Num 33:1-4</p>
 
 <span class="verse" id="v4"><strong><sup>4</sup></strong>in Rephidim, where there was no water to drink.</span>
 
-<span class="verse" id="v5"><sup><strong>5</strong></sup>They left from Ramses 		to Succoth,</span>
+<span class="verse" id="v5"><sup class="verse-num">5</sup> They left from Ramses 		to Succoth,</span>
 
 <span class="verse" id="v6"><strong><sup>6</sup></strong>to Etham on the edge of open country, <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong>where they turned back,</span>
 
 <span class="verse" id="v7"><strong><sup>7</sup></strong>to Pi-hahiroth, in front of Baal-Zephon, and camped near Migdol.</span>
 
-<span class="verse" id="v8"><sup><strong>8</strong></sup>They passed through the sea to the Wilderness of Etham</span>
-<p class="section-ref">for 3</p>
+<span class="verse" id="v8"><sup class="verse-num">8</sup> They passed through the sea to the Wilderness of Etham for 3 days They camped at Marah and</span>
 
-### days They camped at Marah and
-
-
-<span class="verse" id="v9"><strong><sup>9</sup></strong>Elim, where there</span>
-<p class="section-ref">were 12</p>
-
-### springs and 70 palms trees.
-
+<span class="verse" id="v9"><strong><sup>9</sup></strong>Elim, where there were 12 springs and 70 palms trees.</span>
 
 <span class="verse" id="v10"><strong><sup>10</sup></strong>They camped by the Red Sea,</span>
 
@@ -80,31 +72,30 @@ weight: 33
 
 <span class="verse" id="v36"><strong><sup>6</sup></strong>in the Wilderness of Zin (Kadesh),</span>
 
-<span class="verse" id="v37"><strong><sup>37</sup></strong>and at Mount Hor on the edge of Edom</span>
-<p class="section-ref">Num 33:5-37</p>
+<span class="verse" id="v37"><strong><sup>37</sup></strong>and at Mount Hor on the edge of Edom <strong>Num 33:5-37</strong></span>
 
-<span class="verse" id="v38"><strong><sup>38</sup></strong>Yahveh told Aaron to go up to Mount Hor. He died the <strong>first day, fifth month,</strong> <strong>fortieth year after Israel left Egypt</strong>; <strong><sup>39</sup></strong>he</span>
-<p class="section-ref">was 123</p>
-
-### . 40The Canaanite king of Arad, who lived in the Negev, heard Israel was coming.
-
+<span class="verse" id="v38"><strong><sup>38</sup></strong>Yahveh told Aaron to go up to Mount Hor. He died the <strong>first day, fifth month,</strong> <strong>fortieth year after Israel left Egypt</strong>; <strong><sup>39</sup></strong>he was 123. <strong><sup>40</sup></strong>The Canaanite king of Arad, who lived in the Negev, heard Israel was coming.</span>
 
 <span class="verse" id="v41"><strong><sup>1</sup></strong>Israel went					from Mount Hor and camped in Zalmonah,</span>
 
 <span class="verse" id="v42"><strong><sup>42</sup></strong>then Punon, <strong><sup>43</sup></strong> Oboth,</span>
 
+<span class="verse" id="v43"><sup class="verse-num">43</sup> Oboth,</span>
+
 <span class="verse" id="v44"><strong><sup>44</sup></strong>Iyeabarim (Iyim) on the border of Moab,</span>
 
 <span class="verse" id="v45"><strong><sup>45</sup></strong>at Dibon-gad, <strong><sup>46</sup></strong> Almon-diblathaim,</span>
+
+<span class="verse" id="v46"><sup class="verse-num">46</sup> Almon-diblathaim,</span>
 
 <span class="verse" id="v47"><strong><sup>47</sup></strong>the mountains of Abarim near Nebo,</span>
 
 <span class="verse" id="v48"><strong><sup>48</sup></strong>and in the plains of Moab by the Jordan across from Jericho.</span>
 
-<span class="verse" id="v49"><sup><strong>49</strong></sup>They camped by the Jordan from Beth-jeshimoth to Abel-shittim on the plains of Moab.</span>
-<p class="section-ref">Num 33:38-49</p>
+<span class="verse" id="v49"><sup class="verse-num">49</sup> They camped by the Jordan from Beth-jeshimoth to Abel-shittim on the plains of Moab. <strong>Num 33:38-49</strong> <strong><sup>50</sup></strong><strong><sup>-</sup></strong><strong><sup>51</sup></strong>Yahveh told Moses to tell Israel there, <em>“When you cross the Jordan in</em><em>to Canaan, </em><strong><sup>52</sup></strong><em>drive</em><em> out the </em><em>people</em><em>, destroy</em><em> their carved stones and </em><em>molten images, and tear down their </em><em>pagan shrines</em><em>.</em><em> </em><strong><sup>53</sup></strong><em>Take</em><em> the land and live in it because I’ve given it to you.</em><em> </em><strong><sup>54</sup></strong><em>You’ll</em><em> inherit land by allotment per </em><em>clan</em><em>.</em><em> Bigger clans</em><em> will inherit more; the </em><em>smaller ones</em><em> will inherit less.</em><em> Their </em><em>allot</em><em>ments will fall </em><em>within </em><em>their</em><em> tribe.</em><em> </em><strong><sup>55</sup></strong><em>If</em><em> you don’t drive out the </em><em>people</em><em>, they’ll be pricks in your eyes</em><em> and thorns in your sides and cause you </em><em>trouble.</em><em> </em><strong><sup>56</sup></strong><em>I’ll</em><em> end up doing to you what I intend to do to them.”</em><strong> </strong><strong></span>
+<p class="section-ref">Num 33:50-56</p>
 
-### 50-51Yahveh told Moses to tell Israel there, “When you cross the Jordan into Canaan, 52drive out the people, destroy their carved stones and molten images, and tear down their pagan shrines. 53Take the land and live in it because I’ve given it to you. 54You’ll inherit land by allotment per clan. Bigger clans will inherit more; the smaller ones will inherit less. Their allotments will fall within their tribe. 55If you don’t drive out the people, they’ll be pricks in your eyes and thorns in your sides and cause you trouble. 56I’ll end up doing to you what I intend to do to them.” 	Num 33:50-56 Boundaries of the Land
+### Boundaries of the Land
 
 
 

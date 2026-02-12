@@ -4,26 +4,28 @@ chapter: 129
 next: chapter-130
 prev: chapter-128
 title: Psalms 129
-translation: COT
+translation: CNT
 type: chapter
 weight: 129
 ---
 
-## Psalms Chapter **129**
+## Psalms Chapter 129
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>Let Israel say, <strong><sup>	</sup></strong><strong><sup>2</sup></strong><em>“They’</em><em>ve persecuted me </em><em>often </em><em>since </em><em>I was young</em><em>,</em> <em>	</em><em>	</em><em>but they haven’t </em><em>defeated me</em><em>.</em></span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Let Israel say,</span>
 
-<span class="verse" id="v3"><sup><strong>3</strong></sup>My back looks like <em>a farmer plowed it </em> <em>and </em><em>made long furrows.”</em><em> </em></span>
+<span class="verse" id="v2"><sup class="verse-num">2</sup> They’ve persecuted me often since I was young, but they haven’t defeated me.</span>
 
-<span class="verse" id="v4"><sup><strong>4</strong></sup>The LORD is good; he has cut <em>loose from me </em>the cords of the wicked.</span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> My back looks like a farmer plowed it and made long furrows.”</span>
 
-<span class="verse" id="v5"><sup><strong>5</strong></sup>May everyone that hates Zion be driven away and discredited.</span>
+<span class="verse" id="v4"><sup class="verse-num">4</sup> The LORD is good; he has cut loose from me the cords of the wicked.</span>
 
-<span class="verse" id="v6"><sup><strong>6</strong></sup>Let them be like grass on a rooftop <strong><sup>	</sup></strong>that withers before it’s grown.</span>
+<span class="verse" id="v5"><sup class="verse-num">5</sup> May everyone that hates Zion be driven away and discredited.</span>
 
-<span class="verse" id="v7"><sup><strong>7</strong></sup>The reaper doesn’t fill his hand with it, or the bundler fill his arms.</span>
+<span class="verse" id="v6"><sup class="verse-num">6</sup> Let them be like grass on a rooftop that withers before it’s grown.</span>
 
-<span class="verse" id="v8"><sup><strong>8</strong></sup>People that go past don’t say, <em>“The </em><em>L</em><em>ORD</em><em> bless</em><em> </em><em>you;</em> <em>	we bless you in </em><em>his</em><em> name.”</em><em>	</em></span>
+<span class="verse" id="v7"><sup class="verse-num">7</sup> The reaper doesn’t fill his hand with it, or the bundler fill his arms.</span>
+
+<span class="verse" id="v8"><sup class="verse-num">8</sup> People that go past don’t say, “The LORD bless you; we bless you in his name.”</span>
 <p class="section-ref">Ps 129:1-8</p>
 
 

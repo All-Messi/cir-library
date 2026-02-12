@@ -4,12 +4,12 @@ chapter: 37
 next: chapter-38
 prev: chapter-36
 title: Job 37
-translation: COT
+translation: CNT
 type: chapter
 weight: 37
 ---
 
-## Job Chapter **37**
+## Job Chapter 37
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong><em>“My heart pounds when I think about this;</em> <em>	</em><em>	it feels like it’s out of place.</em></span>
 
@@ -23,8 +23,7 @@ weight: 37
 
 <span class="verse" id="v6"><strong><sup>6</sup></strong><em>He tells the snow to fall on the ground</em> <em>	</em><em>	and the rain to be heavy.</em></span>
 
-<span class="verse" id="v7"><strong><sup>7</sup></strong><em>He stops everyone’s labor </em> <em>	</em><em>	so they can watch his work.</em><strong>	</strong></span>
-<p class="section-ref">Job 37:1-7</p>
+<span class="verse" id="v7"><strong><sup>7</sup></strong><em>He stops everyone’s labor </em> <em>	</em><em>	so they can watch his work.</em><strong>	</strong><strong>Job 37:1-7</strong></span>
 
 <span class="verse" id="v8"><strong><sup>8</sup></strong><em>Animals head for their dens</em> <em>	</em><em>	and stay in their lairs.</em></span>
 
@@ -36,11 +35,7 @@ weight: 37
 
 <span class="verse" id="v12"><strong><sup>2</sup></strong><em>They change direction by his guidance;</em> <em>	</em><em>	they do whatever he commands across the world.</em></span>
 
-<span class="verse" id="v13"><strong><sup>3</sup></strong><em>He makes these things happen either to punish his people</em> <em>	</em><em>	or to water the earth and show his love.</em><em>	</em></span>
-<p class="section-ref">Job 37:8-13</p>
-
-### 14“Listen, Job,  		stop and think about God’s wondrous works.
-
+<span class="verse" id="v13"><strong><sup>3</sup></strong><em>He makes these things happen either to punish his people</em> <em>	</em><em>	or to water the earth and show his love.</em><em>	</em><strong>Job 37:8-13</strong></span>
 
 <span class="verse" id="v15"><strong><sup>5</sup></strong><em>Do you know how he controls the clouds</em> <em>	</em><em>	or makes lightning flash in them?</em></span>
 
@@ -52,14 +47,13 @@ weight: 37
 
 <span class="verse" id="v19"><strong><sup>9</sup></strong><em>Teach us what to say to him;</em> <em>	</em><em>	we can’t draw up our case without your help!</em></span>
 
-<span class="verse" id="v20"><strong><sup>0</sup></strong><em>Should somebody let him know I want to speak?</em> <em>	</em><em>	Does anyone ever want to be destroyed?</em><strong> </strong> <em>	</em><strong><sup>21</sup></strong><em>“We can’t look at the bright light in the sky</em> <em>	</em><em>	after the wind has cleared it.</em></span>
+<span class="verse" id="v20"><strong><sup>0</sup></strong><em>Should somebody let him know I want to speak?</em> <em>	</em><em>	Does anyone ever want to be destroyed?</em><strong> </strong></span>
 
 <span class="verse" id="v22"><strong><sup>2</sup></strong><em>Golden splendor comes from the north;</em> <em>	</em><em>	awesome majesty surrounds God.</em></span>
 
 <span class="verse" id="v23"><strong><sup>3</sup></strong><em>We can’t imagine how extremely powerful the Almighty is;</em> <em>	</em><em>	yet he doesn’t violate justice and abundant goodness.</em></span>
 
-<span class="verse" id="v24"><strong><sup>4</sup></strong><em>So people everywhere revere him</em> <em>	</em><em>	because he doesn’t value people that are wise in their own conceit.”</em></span>
-<p class="section-ref">Job 37:14-24</p>
+<span class="verse" id="v24"><strong><sup>4</sup></strong><em>So people everywhere revere him</em> <em>	</em><em>	because he doesn’t value people that are wise in their own conceit.”</em> <strong>Job 37:14-24</strong></span>
 
 
 <style>

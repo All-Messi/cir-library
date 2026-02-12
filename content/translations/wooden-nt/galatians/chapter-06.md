@@ -1,14 +1,14 @@
 ---
 book: Galatians
 chapter: 6
-prev: chapter-04
+prev: chapter-05
 title: Galatians 6
 translation: WNT
 type: chapter
 weight: 6
 ---
 
-## Galatians Chapter **6**
+## Galatians Chapter 6
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Brothers, even if (a) man is-caught-up in any sin, you the-ones spiritual restore [the] such-(a person) in (the) spirit of-humility/gentleness, watching yourselves lest you also get-tempted. <strong><sup>2</sup></strong>Bear the burdens of-one-another, and in-this way fulfill the ‘law’ of-[the] Christ. <strong><sup>3</sup></strong>For if anybody thinks (himself) to-be something, being nothing, he-deceives himself. <strong><sup>4</sup></strong>But let┘each└examine the work of-himself, and then he-will-have [the] boasting to himself only and not to the other-(person). <strong><sup>5</sup></strong>For each will-bear [the] his-own burden. <strong><sup>6</sup></strong>But let┘the-one taught the word└share-with the-one teaching in all good-things. <strong><sup>7</sup></strong>Do┘not└be-deceived; God is┘not└mocked. For what (a) man sows—this he-will┘also└reap; <strong><sup>8</sup></strong>because the-one sowing to-the flesh of-himself will-reap from the flesh corruption, but the-one sowing to the spirit will-reap from the spirit eternal life. <strong><sup>9</sup></strong>But doing [the] good, let-us┘not└become-discouraged, for in-our-own-time we-will-reap, not giving-up. <strong><sup>10</sup></strong>So then, as we-have opportunity, let-us-work-(hard at) the good-thing toward all, but especially toward the-ones of-(the)-household of-[the] faith/trust.</span>
 

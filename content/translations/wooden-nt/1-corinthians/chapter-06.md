@@ -9,7 +9,7 @@ type: chapter
 weight: 6
 ---
 
-## 1 Corinthians Chapter **6**
+## 1 Corinthians Chapter 6
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Does┘anybody of-you having (a) matter against the other└dare to-go-to-law before the unrighteous and not before the saints? <strong><sup>2</sup></strong>Or do-you┘not└know that the saints will-judge the world? And if the world is-judged by you, are-you unable (to be judges) of-(the)-least (matters)? <strong><sup>3</sup></strong>Do-you┘not└know that we-will-judge angels, much-less matters-of-everyday-life? <strong><sup>4</sup></strong>So if you-have matters-of-this life, do-you-appoint these (as judges) the-ones to (your shame: <strong><sup>5</sup></strong>I-speak to-you to (your) humiliation: (is it) so (that) there-is nobody among you wise, who will be-able to-decide in-the-midst<sup>2</sup> of the brother of-him? <strong><sup>6</sup></strong>But brother goes-to court with brother and this before unbelievers? <strong><sup>7</sup></strong>Already [then]<sup>ms</sup> it-is (a) defect to-you actually that you-have lawsuits with each-other. On-account-of what rather not be wronged? <strong><sup>8</sup></strong>But you wrong and defraud, and this brothers. <strong><sup>9</sup></strong>Or do-you┘not└know that unjust-ones will┘not└inherit (the) kingdom of-God? do┘not└deceive-yourselves. Neither immoral-people nor idolaters nor adulterers nor effeminate nor homosexuals <strong><sup>10</sup></strong>not thieves nor covetous-people, not drunkards, not revilers, not swindlers will-inherit (the) kingdom of-God. <strong><sup>11</sup></strong>And some-of you-were these, but you-were-made-righteous in the name of-the Lord Jesus Christ and in the Spirit of-the God of-us.</span>
 

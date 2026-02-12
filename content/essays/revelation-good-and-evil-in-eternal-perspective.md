@@ -1,15 +1,15 @@
 ---
 author: Virgil Warren, PhD
 categories:
+- Essays
+- Topics
 - Book Studies
 - Revelation
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: 'REVELATION:  GOOD AND EVIL IN ETERNAL PERSPECTIVE'
 weight: 999
 ---
-
-REVELATION:  GOOD AND EVIL IN ETERNAL PERSPECTIVE
 
 Good triumphs over evil.
 
@@ -17,23 +17,27 @@ Good and evil are not equal opposites in power or legitimacy.
 
 Good and evil are not equally eternal. Evil has a beginning and an end.
 
+
 Evil is allowed.
 
 Evil does not simply take over and “bully” people around undeterred.
 
+
 Evil is temporary (limited in length).
 
-In comparison to good, individual evils are short-lived along the way.
+In comparison to good<em>, individual evils</em> are short-lived along the way.
 
 Death removes it from the scene.
 
 God intervenes when he decides to do so.
 
-General, over-all evil is limited in the end because God overthrows it.
+General, <em>over-all evil</em> is limited in the end because God overthrows it.
+
 
 Evil is limited in degree.
 
 Evil is limited, not only because it is contrary to nature and so tends to self-destruct, but because it is weaker than good and is subject to the curbing and staying hand of God.
+
 
 Evil can be limited by transformation.
 
@@ -43,6 +47,7 @@ Evil is overcome first by influence before authority and force are brought to be
 
 Influence is exerted by proclamation and faithfulness on the part of good.
 
+
 God himself in Christ participates with us in the suffering that evil directs toward people.
 
 There is a connection between heaven and earth.
@@ -51,11 +56,13 @@ God is aware of what is going on here.
 
 God has a hand in history to curb and stay evil as well as to instigate and promote good.
 
+
 Evil is not necessarily rectified during this life.
 
 What happens in an individual’s lifetime is not the whole story.
 
 What happens during history is not the whole story either.
+
 
 The conquest of good over evil involves resources from outside this realm.
 

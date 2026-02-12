@@ -10,3 +10,5 @@ weight: 8
 ## Ruth
 
 **4 Chapters**
+
+Select a chapter to begin reading:

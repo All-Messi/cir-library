@@ -8,7 +8,7 @@ type: chapter
 weight: 1
 ---
 
-## Mark Chapter **1**
+## Mark Chapter 1
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>The beginning of-the gospel of-Jesus Messiah, (the) Son of-God.</span>
 
@@ -28,25 +28,25 @@ weight: 1
 
 <span class="verse" id="v21"><strong><sup>1</sup></strong>And they-enter into Capernaum and immediately on-the Sabbath[s], having-entered into the synagogue, he-began-to-teach. <strong><sup>22</sup></strong>And they-were-being-amazed at the teaching of-him, for he-was teaching then as one-having authority, and not like the scribes. <strong><sup>23</sup></strong>And immediately in the synagogue of-them was (a) man with (an) unclean spirit; and it-shouted-out, <strong><sup>24</sup></strong>saying, <em>“What to-us and to-you, Jesus Nazarene?</em><em> </em><em>Did-you-come</em><em> </em><em>to-destroy</em><em> us?</em><em> </em><em>I-know you who you-are—the </em><em>Holy One of-[the] God!</em><em>”</em><strong><sup> </sup></strong></span>
 
-<span class="verse" id="v25"><sup><strong>25</strong></sup>And [the] Jesus rebuked it, saying,<em> “Be-quiet</em><em>,</em><em> and come-out of him.”</em><em> </em></span>
+<span class="verse" id="v25"><sup class="verse-num">25</sup> And [the] Jesus rebuked it, saying,<em> “Be-quiet</em><em>,</em><em> and come-out of him.”</em><em> </em></span>
 
-<span class="verse" id="v26"><sup><strong>26</strong></sup>And the unclean [the] spirit, having-convulsed him and having-cried-out with (a) loud noise, came out-of him. <strong><sup>27</sup></strong>And they┘all└were-shocked, so-that they-debated with each-other, saying, <em>“W</em><em>hat is this?</em><em> </em><em>A new teaching </em><em>a</em><em>ccording-to</em><em> authority</em><em>?</em><em> </em><em>E</em><em>ven the unclean [the] spirits </em><em>he-commands</em><em>,</em><em> and they-obey him.”</em> <strong><sup>28</sup></strong>And the report of-him went-out immediately everywhere in the whole region of-[the] Galilee.</span>
+<span class="verse" id="v26"><sup class="verse-num">26</sup> And the unclean [the] spirit, having-convulsed him and having-cried-out with (a) loud noise, came out-of him. <strong><sup>27</sup></strong>And they┘all└were-shocked, so-that they-debated with each-other, saying, <em>“W</em><em>hat is this?</em><em> </em><em>A new teaching </em><em>a</em><em>ccording-to</em><em> authority</em><em>?</em><em> </em><em>E</em><em>ven the unclean [the] spirits </em><em>he-commands</em><em>,</em><em> and they-obey him.”</em> <strong><sup>28</sup></strong>And the report of-him went-out immediately everywhere in the whole region of-[the] Galilee.</span>
 
 <span class="verse" id="v29"><strong><sup>9</sup></strong>And immediately, having-gone-out from the synagogue, they-went into the house of-Simon and Andrew with James and John. <strong><sup>30</sup></strong>And the mother-in-law of-Simon was-lying-down, having-(a)-fever, and immediately they-speak to-him concerning her. <strong><sup>31</sup></strong>And having-come-to (her), he-raised┘her└up, having-taken hold of-the/her hand; and the fever left her, and she-started serving them. <strong><sup>32</sup></strong>And evening having-come, when the sun set, they-were-bringing to him all the-ones having evilly and the-ones being-demon-possessed. <strong><sup>33</sup></strong>And the whole town was gathered to the door, <strong><sup>34</sup></strong>and he-healed all having evilly with-various diseases; and he-cast-out many demons, and he-would not allow the demons to-speak because they-knew him.</span>
 
 <span class="verse" id="v35"><strong><sup>5</sup></strong>And very early before dawn, he-went-out and he-went-away into (an) unpopulated place and-there he-was-praying. <strong><sup>36</sup></strong>And Simon and the-ones with him searched-for him; <strong><sup>37</sup></strong>and they-found him and said to-him [that], <em>“All are looking-for you.”</em></span>
 
-<span class="verse" id="v38"><sup><strong>38</strong></sup>And he-says to-them, <em>“Let-us-go elsewhere into the surrounding towns in-order-that also there I-may-preach, for I-came-out unto this.</em><em>”</em><em> </em></span>
+<span class="verse" id="v38"><sup class="verse-num">38</sup> And he-says to-them, <em>“Let-us-go elsewhere into the surrounding towns in-order-that also there I-may-preach, for I-came-out unto this.</em><em>”</em><em> </em></span>
 
-<span class="verse" id="v39"><sup><strong>39</strong></sup>And he-went preaching in the synagogues of-them in the whole (of) Galilee and casting-out demons.</span>
+<span class="verse" id="v39"><sup class="verse-num">39</sup> And he-went preaching in the synagogues of-them in the whole (of) Galilee and casting-out demons.</span>
 
 <span class="verse" id="v40"><strong><sup>0</sup></strong>And (a) leper comes to him, appealing-to him, [and kneeling]<sup>ms</sup> and saying to-him [that], <em>“If you-are-willing, you-are-able to-heal me.”</em></span>
 
-<span class="verse" id="v41"><sup><strong>41</strong></sup>And having-been-moved-with-compassion, having-stretched/reached out the hand of-him, he-touched (him) and says to-him, <em>“I-am-wi</em><em>l</em><em>ling”; be-cleansed.”</em></span>
+<span class="verse" id="v41"><sup class="verse-num">41</sup> And having-been-moved-with-compassion, having-stretched/reached out the hand of-him, he-touched (him) and says to-him, <em>“I-am-wi</em><em>l</em><em>ling”; be-cleansed.”</em></span>
 
-<span class="verse" id="v42"><sup><strong>42</strong></sup>And immediately the leprosy went-away from him, and he-was-cleansed. <strong><sup>43</sup></strong>And having-spoken-strictly to-him, he-sent┘him└out immediately. <strong><sup>4</sup></strong><strong><sup>4</sup></strong>And he-says to-him, <em>“See (that) you-say nothing to-nobody/anybody, but</em><em> go show yourself-to the priest</em><em> and offer concerning the cleansing of-you what-things Moses commanded unto (a) testimony to-them.”</em><em> </em></span>
+<span class="verse" id="v42"><sup class="verse-num">42</sup> And immediately the leprosy went-away from him, and he-was-cleansed. <strong><sup>43</sup></strong>And having-spoken-strictly to-him, he-sent┘him└out immediately. <strong><sup>4</sup></strong><strong><sup>4</sup></strong>And he-says to-him, <em>“See (that) you-say nothing to-nobody/anybody, but</em><em> go show yourself-to the priest</em><em> and offer concerning the cleansing of-you what-things Moses commanded unto (a) testimony to-them.”</em><em> </em></span>
 
-<span class="verse" id="v45"><sup><strong>45</strong></sup>But the/he, having-gone-out, began to-tell all-things and to-spread┘the message└around, so-that him no-longer was-able openly to-enter into (a) town, but he-was outside in unpopulated places; and (people) would-come to him from everywhere.</span>
+<span class="verse" id="v45"><sup class="verse-num">45</sup> But the/he, having-gone-out, began to-tell all-things and to-spread┘the message└around, so-that him no-longer was-able openly to-enter into (a) town, but he-was outside in unpopulated places; and (people) would-come to him from everywhere.</span>
 
 
 <style>

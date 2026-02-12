@@ -4,18 +4,18 @@ chapter: 134
 next: chapter-135
 prev: chapter-133
 title: Psalms 134
-translation: COT
+translation: CNT
 type: chapter
 weight: 134
 ---
 
-## Psalms Chapter **134**
+## Psalms Chapter 134
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>Bless the LORD, you servants of the LORD that serve him at night in his Temple!</span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Bless the LORD, you servants of the LORD that serve him at night in his Temple!</span>
 
-<span class="verse" id="v2"><sup><strong>2</strong></sup>Raise your hands toward the sanctuary and bless him.</span>
+<span class="verse" id="v2"><sup class="verse-num">2</sup> Raise your hands toward the sanctuary and bless him.</span>
 
-<span class="verse" id="v3"><sup><strong>3</strong></sup>May the One that made earth and sky <strong><sup>	</sup></strong>bless you from Zion.</span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> May the One that made earth and sky bless you from Zion.</span>
 <p class="section-ref">Ps 134:1-3</p>
 
 

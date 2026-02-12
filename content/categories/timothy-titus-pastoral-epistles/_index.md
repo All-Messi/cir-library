@@ -1,4 +1,4 @@
 ---
-title: TIMOTHY TITUS Pastoral Epistles
+title: TIMOTHY, TITUS Pastoral Epistles
 weight: 29
 ---

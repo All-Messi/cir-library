@@ -1,20 +1,24 @@
 ---
 author: Virgil Warren, PhD
 categories:
+- Essays
 - EVIDENCES
-- CRITICAL INTRODUCTION -  New Testament
+- CRITICAL INTRODUCTION - New Testament
 - Colossians
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: THE ORIGIN OF GNOSTICISM AND ITS BEARING ON THE
 weight: 25
 ---
 
-THE ORIGIN OF GNOSTICISM AND ITS BEARING ON THE
 
-DATE OF COLOSSIANS
+<strong>DATE OF COLOSSIANS</strong>
+
+
+
 
 We do know about a highly developed form of Gnosticism in the second century, but that fact has no bearing on the date and content of Colossians as a Pauline production in the first century.
+
 
 1.	Gnosticism involved a largely secret-knowledge form of religion. It may have taken a while before Gnosticism was openly known to have certain features in its written or otherwise available representations. A secret society might not be inclined to write its doctrine early.
 
@@ -26,6 +30,10 @@ We do know about a highly developed form of Gnosticism in the second century, bu
 
 5.	The external attestation of Colossians is unassailable.
 
-Note: Edwin M. Yamauchi. Pre-Christian Gnosticism: A Survey of Proposed Evidences.   Grand Rapids, MI: Baker Book House, 1983. 2nd ed.
+
+Note: Edwin M. Yamauchi. <em>Pre-Christian Gnosticism: A Survey of Proposed Evidences.</em>   Grand Rapids, MI: Baker Book House, 1983. <sup>2</sup>nd ed.
+
 
 christir.org
+
+

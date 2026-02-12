@@ -1,23 +1,26 @@
 ---
 author: Virgil Warren, PhD
 categories:
+- Essays
 - Topics
 - CHRISTIAN DOCTRINE
 - MANKIND (anthropology)
-- DEPRAVITY, ESSAYS ON hUMAN
-date: '2026-01-23'
+- DEPRAVITY, ESSAYS ON HUMAN
+date: '2026-02-12'
 draft: false
 title: TRIMMING BACK THEOLOGY
 weight: 999
 ---
 
-TRIMMING BACK THEOLOGY
+<strong>BY SHEDDING NATURAL DEPRAVITY</strong>
 
-BY SHEDDING NATURAL DEPRAVITY
+
+
 
 A Contribution of “Restorationism”
 
 A less emphasized contribution of the Restoration Movement has been its dispensing with the centuries-old concept of natural depravity. The idea originated with Augustine of Hippo (354-430), who was emerging from the Greek philosophical tradition that did philosophy in the ontic category, in particular, Manichaeism. His seminal notion was that evil was a privation of form in being relative to its pristine condition, with perverted function arising from the deformation. That explanation of theodicy applied to the human condition and its behavioral outworking called sin. The Reformation and contemporary evangelicalism as well have incorporated that concept into their systematics. A student of historical theology has to go from the Stone-Campbell movement all the way into liberalism to find an absence of the natural depravity concept.
+
 
 The Origin of the Natural Depravity Concept
 
@@ -25,33 +28,35 @@ Despite no satisfactory foundation for it in scripture, Augustine imagined that 
 
 The values of the concept for Christian theology have been to guarantee that (1) we all sin (hamartology) and that (2) self-salvation is not possible; so all notions of “works” are precluded (autosoterism).
 
+
 Systematic Ramifications of Natural Depravity
 
 The natural depravity notion spills over into soteriology by adding a supernatural component to the process. God must reverse the depravity he first plagued us with, before we can respond to the gospel (justification) and Christian growth can take place (sanctification).1
 
 From that point on, soteriology braids out into several courses like the Nile on its way to the Mediterranean. That “braiding” can be organized around the familiar (arbitrary divine choice +) T U L I P in “five-point” Calvinism.
 
-The Total depravity starting point leads to
+The <strong>T</strong>otal depravity starting point leads to
 
-whether the “undepravitizing” is Unconditional or conditional,
+whether the “undepravitizing” is <strong>U</strong>nconditional or conditional,
 
-whether the enabling is Limited to some or done to all,
+whether the enabling is <strong>L</strong>imited to some or done to all,
 
-whether the removal of depravity is Irresistible or resistible, and
+whether the removal of depravity is <strong>I</strong>rresistible or resistible, and
 
-whether it is effective (or at least circumstantially reinforced), that is, Perseverance of the saints.
+whether it is effective (or at least circumstantially reinforced), that is, <strong>P</strong>erseverance of the saints.
 
 In addition, it spreads over into the doctrine of the “second definite work of grace” that removes “the last vestiges of inbred sin” so Christians can lead a perfect life of love.
 
 In broad sweeps (with untold exceptions, cross-fertilizations, and re-combinations),
 
-T U L I P summarizes Calvinism/Orthodox Presbyterianism,
+<strong>T U L I P</strong> summarizes Calvinism/Orthodox Presbyterianism,
 
-T           P summarizes Baptistic theology,
+<strong>T           P</strong> summarizes Baptistic theology,
 
-T              summarizes Wesleyan theology,
+<strong>T </strong>             summarizes Wesleyan theology,
 
 (	  ) summaries restoration theology in respect to the parts of the T U L I P.
+
 
 An Alternative Reconstruction
 
@@ -59,11 +64,13 @@ Augustine’s philosophical programmatic colors the reading of biblical texts in
 
 My own understanding departs from the whole foreign reconstruction in the Augustinian-Calvinistic system by formulating theology (holistic topical understanding) under (a) interpersonalism driven by influence as opposed to the other three major conceptualizations: (b) legalism driven by authority, (c) ontic nature driven by force/power/miracle/authority, and (d) metaphysics driven by form. In this presenter’s opinion, though eschewing Calvinism-Augustinianism has not been completely successful, the Restoration Movement has largely “demystified” anthropology and to a significant extent its soteriological outworkings as well. In practice, cross-fertilization from other Christian traditions affects the thinking of individuals who identify with the movement.
 
+
 Lack of Need for Natural Depravity
 
-In contrast to the Augustinian-Calvinistic formulation, biologically inherited natural depravity seems unnecessary for (1) explaining universal human sinfulness, because Adam and Eve sinned without it. Besides, universal sinfulness is adequately explained by a combination of (a) evil social influence directed at (b) pervertible bodily drives, and (c) at an individual’s viewpoint of consciousness, which lends itself easily to self-centeredness, the essential opposite of “Loving your neighbor as yourself.” All three elements appear in “the falling,” not just in the consequences of it. By implication each of us re-enacts what happened with our first parents. Psychological depravity adequately accounts for universal sin; natural depravity is overkill.
+In contrast to the Augustinian-Calvinistic formulation, biologically inherited natural depravity seems unnecessary for (1) explaining universal human sinfulness, because Adam and Eve sinned without it. Besides, universal sinfulness is adequately explained by a combination of (a) evil social influence directed at (b) pervertible bodily drives, and (c) at an individual’s viewpoint of consciousness, which lends itself easily to self-centeredness, the essential opposite of <em>“Loving your neighbor as yourself.”</em> All three elements appear in “the falling,” not just in the consequences of it. By implication each of us re-enacts what happened with our first parents. Psychological depravity adequately accounts for universal sin; natural depravity is overkill.
 
-(2) Natural depravity also has no necessary place in avoiding self-salvation. (a) The inability in autosoterism lies in the nature of imperfection, not in the nature of us. Imperfection cannot be overcome once it is the case. Perfection is the natural, original, and permanent standard for all personal associations, especially fellowship with our holy God.2 (b) Furthermore, the inability of autosoterism lies in the fact that salvation is reconciliation, which is an interpersonal process. Acceptance back into fellowship (reconciliation) lies decisively in the willingness of the offended person (alienation) to forgive and accept an offender back into relationship.
+(2) Natural depravity also has no necessary place in avoiding self-salvation. (a) The inability in autosoterism lies in the nature of imperfection, not in the nature of us. Imperfection cannot be overcome once it is the case. Perfection is the natural, original, and permanent standard for all personal associations, especially fellowship with our holy God.<strong><sup>2</sup></strong> (b) Furthermore, the inability of autosoterism lies in the fact that salvation is reconciliation, which is an interpersonal process. Acceptance back into fellowship (reconciliation) lies decisively in the willingness of the offended person (alienation) to forgive and accept an offender back into relationship.
+
 
 A Concluding Observation
 
@@ -71,18 +78,21 @@ For practical purposes, we can get on with the Christian enterprise without sett
 
 ____________
 
-1Besides its effects on anthropology and soteriology themselves, natural depravity has bled over into other ideas: the immaculate conception of Mary so she could be theotokos (“deity-bearer”) and our Lord as a man could be born without human depravity (original sin). It specializes regeneration into a supernatural reversal of inborn inability so we can respond to the gospel. That spills depravity over into pneumatology since the Spirit would be the agent who regenerates the fallen nature at least to where response can occur. Further degrees of enablement become part of the sanctification process, including the doctrine of the second definite work of grace in Wesleyanism. Inherited natural depravity contributed to the practice of infant baptism. Depravity lay behind the notion of quietude in missiology because preaching the gospel does not benefit conversion until God decides to parallel the proclamation with regeneration. Human nature is part of the larger theodicy issue.
+<sup>1</sup>Besides its effects on anthropology and soteriology themselves, natural depravity has bled over into other ideas: the immaculate conception of Mary so she could be theotokos (“deity-bearer”) and our Lord as a man could be born without human depravity (original sin). It specializes regeneration into a supernatural reversal of inborn inability so we can respond to the gospel. That spills depravity over into pneumatology since the Spirit would be the agent who regenerates the fallen nature at least to where response can occur. Further degrees of enablement become part of the sanctification process, including the doctrine of the second definite work of grace in Wesleyanism. Inherited natural depravity contributed to the practice of infant baptism. Depravity lay behind the notion of quietude in missiology because preaching the gospel does not benefit conversion until God decides to parallel the proclamation with regeneration. Human nature is part of the larger theodicy issue.
 
 In theology proper, the depravity doctrine raises questions also about divine self-consistency. Why would God depravitize us so he would have to turn around and un-depravitize us for reconciliation even to become possible? Why make the problem even worse by cursing us with inability? Why make us inherently sinful and then blame us for it? At least, if we sinned on our own like our first parents did, it would be our fault.
 
 It will not do to suppose that objectors have no right to question God’s consistency on this point. We are not questioning God’s consistency, but questioning a construction of theology that makes him inconsistent. Sure, it is human reason doing the questioning, but it is also human reason that has created this anomaly. Inconsistency is the mark of error. It calls for reworking a human analysis of the issue. It calls for getting rid of something that raises more questions than it answers, creates more problems than it solves. Claiming no right to question simply attempts to put correction beyond the pale of possibility; but if it is not falsifiable, it is not verifiable. So, apologetics becomes another victim of an ill-advised formulation that in turn works against faith and acceptance of the truth.
 
-Hermeneutics also falls victim to the natural depravity concept because without human ability, there is no way to decide whether to start conceptually with Psalm 51:10 or Ezekiel 18:31: “Create a clean heart and right spirit within me” or “Make for yourselves a new heart and new spirit.”
+Hermeneutics also falls victim to the natural depravity concept because without human ability, there is no way to decide whether to start conceptually with Psalm <strong><sup>51</sup></strong>:10 or Ezekiel <strong><sup>18</sup></strong>:31: <em>“Create a clean heart and right spirit within me”</em> or <em>“Make for yourselves a new heart and new spirit.”</em>
 
-2For a more extended presentation on this subject, see The Implication of Divine Self-Consistency for the Doctrine of Natural Depravity: A Biblical-Systematic Approach. PhD Dissertation, 284 pp., presented to the Faculty of The Southern Baptist Theological Seminary, 1977, written under the supervision of Dr. Dale Moody, professor of systematic theology.
+<sup>2</sup>For a more extended presentation on this subject, see <em>The Implication of Divine Self-Consistency for the Doctrine of Natural Depravity: A Biblical-Systematic Approach</em>. PhD Dissertation, 284 pp., presented to the Faculty of The Southern Baptist Theological Seminary, 1977, written under the supervision of Dr. Dale Moody, professor of systematic theology.
 
-The dissertation argues that insufficient positive basis exists in scripture for the doctrine of natural depravity. Beyond that, the dissertation shoulders the negative burden of proof to argue that scripture eliminates it as an understanding of human nature, hence, the title element Divine Self-Consistency.
+The dissertation argues that insufficient positive basis exists in scripture for the doctrine of natural depravity. Beyond that, the dissertation shoulders the negative burden of proof to argue that scripture eliminates it as an understanding of human nature, hence, the title element <em>Divine Self-Consistency</em>.
+
 
 Based on a presentation at the Stone-Campbell Conference, April 14, 2023
 
+
 christir.org
+

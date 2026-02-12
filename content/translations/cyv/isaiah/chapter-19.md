@@ -9,9 +9,9 @@ type: chapter
 weight: 19
 ---
 
-## Isaiah Chapter **19**
+## Isaiah Chapter 19
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>Oracle About Egypt Yahveh is riding a swift cloud to Egypt; Egypt’s idols tremble in his presence; the Egyptians’ hearts melt. <strong><sup>2</sup></strong><em>“I’ll</em><em> </em><em>pit</em><em> </em><em>the </em><em>Egyptians against one another,</em> <em>	</em><em>	brother against brother, neighbor against </em><em>neighbor;</em> <em>	</em><em>	</em><em>	city against city, </em><em>district</em><em> against </em><em>district</em><em>.</em></span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Oracle About Egypt Yahveh is riding a swift cloud to Egypt; Egypt’s idols tremble in his presence; the Egyptians’ hearts melt.</span>
 
 <span class="verse" id="v3"><strong><sup>3</sup></strong><em>The</em><em>y’</em><em>ll</em><em> be </em><em>demoralized;</em> <em>	</em><em>	I’ll confuse their strategy</em><em>	</em> <em>	</em><em>	</em><em>so</em><em> they’ll resort to their idols and spirits of the dead,</em> <em>	</em><em>	</em><em>	</em><em>to </em><em>mediums and spiritists.</em></span>
 
@@ -39,13 +39,9 @@ weight: 19
 
 <span class="verse" id="v15"><strong><sup>5</sup></strong>There’s nothing helpless Egypt can do with its head or tail, palm branch or reed.<strong>	</strong><strong>Is</strong><strong> 19:11-15</strong></span>
 
-<span class="verse" id="v16"><sup><strong>16</strong></sup>The Egyptians will be like women then, cringing with fear as the fist of Yahveh of Hosts shakes over them. <strong><sup>17</sup></strong>Judah will terrorize Egypt. They’ll dread hearing Judah mentioned because Yahveh has laid out his purpose against them.</span>
+<span class="verse" id="v16"><sup class="verse-num">16</sup> The Egyptians will be like women then, cringing with fear as the fist of Yahveh of Hosts shakes over them. <strong><sup>17</sup></strong>Judah will terrorize Egypt. They’ll dread hearing Judah mentioned because Yahveh has laid out his purpose against them.</span>
 
-<span class="verse" id="v18"><sup><strong>18</strong></sup>At that time, five cities in Egypt will start speaking Hebrew and swear allegiance to Yahveh of Hosts—Heliopolis for one. <strong><sup>19</sup></strong>There’ll be an altar to him in Egypt and a monument to him at its border, <strong><sup>20</sup></strong>a sign and witness. When they call out to him against oppressors, he’ll send them a champion to rescue them. <strong><sup>21</sup></strong>That’s how he’ll make himself known to them. They’ll even worship with sacrifice and offering, take vows to him and keep them. <strong><sup>22</sup></strong>He’ll strike Egypt, striking then healing them, so they’ll come back to him. <strong><sup>23</sup></strong><strong><sup>-</sup></strong><strong><sup>24</sup></strong>A highway then will run from Egypt to Assyria, and people will travel to each other and worship together. Israel will be the third member in an alliance with Egypt and Assyria, with Yahveh’s blessing <em>located</em> between <em>the</em> <em>two</em>. <strong><sup>25</sup></strong><em>“</em><em>Bles</em><em>sed</em><em> be Egypt my people, Assyria my handiwork</em><em>, Israel my </em><em>permanent possession</em><em>.”</em><strong>             </strong> <strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	   </strong></span>
-<p class="section-ref">Is 19:16-25</p>
-
-### A Sign Against Egypt and Nubia
-
+<span class="verse" id="v18"><sup class="verse-num">18</sup> At that time, five cities in Egypt will start speaking Hebrew and swear allegiance to Yahveh of Hosts—Heliopolis for one. <strong><sup>19</sup></strong>There’ll be an altar to him in Egypt and a monument to him at its border, <strong><sup>20</sup></strong>a sign and witness. When they call out to him against oppressors, he’ll send them a champion to rescue them. <strong><sup>21</sup></strong>That’s how he’ll make himself known to them. They’ll even worship with sacrifice and offering, take vows to him and keep them. <strong><sup>22</sup></strong>He’ll strike Egypt, striking then healing them, so they’ll come back to him. <strong><sup>23</sup></strong><strong><sup>-</sup></strong><strong><sup>24</sup></strong>A highway then will run from Egypt to Assyria, and people will travel to each other and worship together. Israel will be the third member in an alliance with Egypt and Assyria, with Yahveh’s blessing <em>located</em> between <em>the</em> <em>two</em>. <strong><sup>25</sup></strong><em>“</em><em>Bles</em><em>sed</em><em> be Egypt my people, Assyria my handiwork</em><em>, Israel my </em><em>permanent possession</em><em>.”</em><strong>             </strong> <strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	   </strong><strong>Is 19:16-25</strong> <strong>A Sign Against Egypt and Nubia</strong><strong>	 </strong></span>
 
 
 <style>

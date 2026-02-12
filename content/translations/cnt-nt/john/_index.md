@@ -10,3 +10,5 @@ weight: 43
 ## John
 
 **21 Chapters**
+
+Select a chapter to begin reading:

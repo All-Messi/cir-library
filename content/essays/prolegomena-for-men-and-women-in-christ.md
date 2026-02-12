@@ -1,23 +1,23 @@
 ---
 author: Virgil Warren, PhD
 categories:
+- Essays
 - Topics
 - CHRISTIAN DOCTRINE
 - MANKIND (anthropology)
 - WOMEN'S STUDIES
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: PROLEGOMENA FOR MEN AND WOMEN IN CHRIST
 weight: 999
 ---
 
-PROLEGOMENA FOR MEN AND WOMEN IN CHRIST
 
 Précis   Neglected or misunderstood factors complicate any endeavor, including the interaction between men and women in the home, the church, and society. An unnecessary “edge” gets into discussions on this matter because of unconscious preconceptions about (a) the bases for self-esteem, (b) the nature of leaders and led and their interaction, and (c) the impact that love has on all interpersonal processes formal or natural.
 
 Introduction
 
-“Prolegomena” refers to ideas already in place before approaching a subject. They include what Paul references in Colossians 2:8, 28 as “rudiments of the world,” which probably refers to the all-pervasive notion of ontic dualism among Gentiles together with spin-offs like secret knowledge, “salvation,” and behavioral implications. In Galatians 4:3, 9, the expression evidently highlights the Judaizers’ belief that Paul is countering: the permanence of Mosaism and the placement of Messianism within it. In our own day, biological general evolution provides the starting point for scientific understanding. Viewpoints that counter that assumption create about the same response as Paul’s reference to resurrection did after his Areopagus speech (Acts 17:32). Until prolegomena get identified, addressed, and resolved, not much progress occurs.
+“Prolegomena” refers to ideas already in place before approaching a subject. They include what Paul references in Colossians <strong><sup>2</sup></strong>:8, 28 as <em>“rudiments of the world</em>,<em>”</em> which probably refers to the all-pervasive notion of ontic dualism among Gentiles together with spin-offs like secret knowledge, “salvation,” and behavioral implications. In Galatians <strong><sup>4</sup></strong>:3, 9, the expression evidently highlights the Judaizers’ belief that Paul is countering: the permanence of Mosaism and the placement of Messianism within it. In our own day, biological general evolution provides the starting point for scientific understanding. Viewpoints that counter that assumption create about the same response as Paul’s reference to resurrection did after his Areopagus speech (Acts <strong><sup>17</sup></strong>:32). Until prolegomena get identified, addressed, and resolved, not much progress occurs.
 
 Prolegomena are what “everybody” already thinks, so examining them does not happen. The situation becomes more difficult when people are not even aware of their assumptions. Attempts to investigate subsequent matters foment resentment, frustration, exaggeration, misrepresentation, even anger and division because advocates of opposing viewpoints do not make sense to each other. The disputants may suppose that the other positions must come from inappropriate motives, sheer ignorance, baseless emotion, arrogance, and the like. There is little interest in re-examining the subject because no conceivable reason exists for an alternate belief.
 
@@ -35,7 +35,7 @@ This construction brings in a sliding-scale basis for self-esteem that eliminate
 
 Leadership and Cooperation
 
-The Second Prolegomenon. Too often, leadership is thought of in terms of authority, rank, power. That displaces attention onto controlling other people and slides back into competition behavior. It implies “putdown” to those not in charge, which grates against the self-esteem they naturally crave as well. A National Geographic issue illustrates the point by choosing “dominance” for household headship (April 2023, pp. 15-18) under patriarchy. That implies “submissiveness” as its correlate, together with its negative connotation. It suggests that if you are not in charge or do not have the opportunity to be in charge, you are not worth as much.
+The Second Prolegomenon. Too often, leadership is thought of in terms of authority, rank, power. That displaces attention onto controlling other people and slides back into competition behavior. It implies “putdown” to those not in charge, which grates against the self-esteem they naturally crave as well. A <em>National Geographic</em> issue illustrates the point by choosing “dominance” for household headship (April 2023, pp. 15-18) under patriarchy. That implies “submissiveness” as its correlate, together with its negative connotation. It suggests that if you are not in charge or do not have the opportunity to be in charge, you are not worth as much.
 
 So, the second prolegomenon requires a corrected understanding of leading. Leadership is responsibility, not rank and control; authority only reinforces assigned responsibility for other people’s awareness. No responsibility, no authority, and nobody “in charge.” The proper perspective puts emphasis on accomplishing purpose. Being head is not a perk; it is an onus. It is not for stroking ego, but for getting the job done.  “Servant leader” becomes the descriptor: servant to the goal and leader in responsibility for achieving it.
 
@@ -45,14 +45,30 @@ What happens in a family or church compares with how a college faculty operates 
 
 So, it is to everyone’s benefit to prioritize interpersonal factors. As in a college, so in a family and church. Not being leader is not a putdown, and being leader is not a perk.
 
+
 The Love Context
 
 The Third Prolegomenon. We have already referenced Jesus’ presentation about love in the form of the Golden Rule. To understand and appreciate parts and their interaction, we need to see the complete picture. Since love is most basic to all positive social interaction, it is likewise most basic to marriage and family function. The nature of the whole and the arrangement of its parts have a qualifying effect on how they work together. The diagram below combines the functioning of “Men and Women in Christ.” Although love sets the nature of all interpersonal operations, it does not always receive the attention it deserves in our topic. Besides getting rid of abuses that Peter and Paul warn against in their household teachings, love is the great equalizer, so competition does not reign, and sameness does not become the ideal. Love avoids exaggeration of difference, denial of relative gifting, and any division of labor that may stem from them. Love can allow for variance in applying the system and bail out some misunderstanding. This diagram pictures the situation, and then the subsequent observations wrap up the discussion.
 
-The Second Great Commandment (Matthew 23:39-40) and Royal Law (James 2:8) as recast in the Golden Rule (Matthew 7:12) set the context for family, church, and all social operations. The Golden Rule calls for looking at the situation through the eyes of the other, not just (1) for following some rule we think the scripture teaches or (b) for doing what we want done to us; there is someone else involved here. It calls for projecting consciousness over behind the eyes of the other so we can go beyond the way we want to be treated, period, to the way we want to be treated in that person’s different circumstance. That is a valuable point between men and women, and between leaders and led simultaneously. Moreover, love finds demonstration in the life of our Lord himself relative to his church. We are obliged to do no less with each other than he does with us. Without love, no pattern of organization eliminates the negatives that can creep into Christian living.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Second Great Commandment (Matthew <strong><sup>23</sup></strong>:39-40) and Royal Law (James <strong><sup>2</sup></strong>:8) as recast in the Golden Rule (Matthew <strong><sup>7</sup></strong>:12) set the context for family, church, and all social operations. The Golden Rule calls for looking at the situation through the eyes of the other, not just (1) for following some rule we think the scripture teaches or (b) for doing what we want done to us; there is someone else involved here. It calls for projecting consciousness over behind the eyes of the other so we can go beyond the way we want to be treated, period, to the way we want to be treated in that person’s different circumstance. That is a valuable point between men and women, and between leaders and led simultaneously. Moreover, love finds demonstration in the life of our Lord himself relative to his church. We are obliged to do no less with each other than he does with us. Without love, no pattern of organization eliminates the negatives that can creep into Christian living.
 
 Epilogue
 
 Identifying prolegomena creates the context for “Men and Women in Christ”: (1) understanding New Testament passages together with (2) identifying custom and culture originally and now. The hermeneutics between (1) and (2) involves decisions about (a) implied cultural limitation and (b) the advice-commandment distinction.
+
 
 christir.org

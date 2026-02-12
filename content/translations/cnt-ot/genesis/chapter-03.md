@@ -4,20 +4,20 @@ chapter: 3
 next: chapter-04
 prev: chapter-02
 title: Genesis 3
-translation: COT
+translation: CNT
 type: chapter
 weight: 3
 ---
 
-## Genesis Chapter **3**
+## Genesis Chapter 3
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>The snake was more devious than any other wild animal the LORD God had made. It asked the woman, <em>“Did God really tell you</em><em><sup>pl</sup></em><em> not to eat the </em>fruit<em> of any tree in the orchard?”</em></span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> The snake was more devious than any other wild animal the LORD God had made. It asked the woman, <em>“Did God really tell you</em><em><sup>pl</sup></em><em> not to eat the </em>fruit<em> of any tree in the orchard?”</em></span>
 
-<span class="verse" id="v2"><sup><strong>2</strong></sup>She said, <em>“We’re free to eat the fruit of any tree </em><strong><sup>3</sup></strong><em>but the one in the middle of the orchard. God said not to eat its fruit or touch it. We’ll die.”</em></span>
+<span class="verse" id="v2"><sup class="verse-num">2</sup> She said, <em>“We’re free to eat the fruit of any tree </em><strong><sup>3</sup></strong><em>but the one in the middle of the orchard. God said not to eat its fruit or touch it. We’ll die.”</em></span>
 
-<span class="verse" id="v4"><sup><strong>4</strong></sup>The snake said, <em>“You’re</em><em><sup>pl</sup></em><em> not going to die! </em><strong><sup>5</sup></strong><em>God knows that when you</em><em><sup>pl</sup></em><em> eat its fruit, it’ll open </em><em>you</em><em><sup> pl</sup></em><em> eyes, and you’ll</em><em><sup>pl</sup></em><em> be like gods, knowing good and bad.” </em></span>
+<span class="verse" id="v4"><sup class="verse-num">4</sup> The snake said, <em>“You’re</em><em><sup>pl</sup></em><em> not going to die! </em><strong><sup>5</sup></strong><em>God knows that when you</em><em><sup>pl</sup></em><em> eat its fruit, it’ll open </em><em>you</em><em><sup> pl</sup></em><em> eyes, and you’ll</em><em><sup>pl</sup></em><em> be like gods, knowing good and bad.” </em></span>
 
-<span class="verse" id="v6"><sup><strong>6</strong></sup>When she saw that<em> </em>the tree was good for food, looked nice, and was desirable for making a person wise, she ate some of its fruit and gave it to her husband, and he ate some. <strong><sup>7</sup></strong>Their eyes were opened, and they realized they were naked. They sewed fig leaves together to make loin cloths.</span>
+<span class="verse" id="v6"><sup class="verse-num">6</sup> When she saw that<em> </em>the tree was good for food, looked nice, and was desirable for making a person wise, she ate some of its fruit and gave it to her husband, and he ate some. <strong><sup>7</sup></strong>Their eyes were opened, and they realized they were naked. They sewed fig leaves together to make loin cloths.</span>
 <p class="section-ref">Gen 3:1-7</p>
 
 ### Punishments for Sin
@@ -25,22 +25,19 @@ weight: 3
 
 <span class="verse" id="v8"><strong><sup>8</sup></strong>When they heard God walking in the orchard in the evening, they hid among the trees. <strong><sup>9</sup></strong>He<sup>Y</sup> called out for the man, <em>“Where are you?”</em></span>
 
-<span class="verse" id="v10"><sup><strong>10</strong></sup><em>The man</em> said, <em>“When I heard you walking in the orchard, I was afraid because I was naked, so I hid.” </em> <strong><sup>11</sup></strong><em>“Who told you you were naked? Did you eat </em>some fruit<em> from the tree I told you not to?” </em> <strong><sup>12</sup></strong><em>“The woman you made to be with me gave me some, and I ate </em>it<em>.”</em></span>
+<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>The man</em> said, <em>“When I heard you walking in the orchard, I was afraid because I was naked, so I hid.” </em></span>
 
-<span class="verse" id="v13"><sup><strong>13</strong></sup>The LORD God asked her, <em>“What did you do?” </em> <em>“The snake lied to me, and I ate the fruit.”</em><em>	</em><em>    </em></span>
-<p class="section-ref">Gen 3:8-13</p>
+<span class="verse" id="v13"><sup class="verse-num">13</sup> The LORD God asked her, <em>“What did you do?” </em> <em>“The snake lied to me, and I ate the fruit.”</em><em>	</em><em>    </em><strong>Gen 3:8-13</strong></span>
 
 <span class="verse" id="v14"><strong><sup>4</sup></strong>The LORD God told it, <em>“Because you’ve done that,</em> <em>	</em><em>	</em><em>	you’re more accursed than any cattle</em> <em>	</em><em>	</em><em>	or animals in the field.</em> <em>	</em><em>	You’ll slither around on your belly</em> <em>	</em><em>	</em><em>	and eat dust your whole life.</em></span>
 
-<span class="verse" id="v15"><strong><sup>15</sup></strong><em>I’ll put hostility</em> <em>	</em><em>	</em><em>	between you and the woman,</em> <em>	</em><em>	</em><em>	between your offspring and hers.</em> <em>	</em><em>	</em>Her offspring will<em> </em><em>crush your head,</em> <em>	</em><em>	</em><em>	and you’ll bruise </em>her offspring’s<em> heel.”</em><em>	</em><em>	</em><em>	      </em></span>
-<p class="section-ref">Gen 3:14-15</p>
+<span class="verse" id="v15"><strong><sup>15</sup></strong><em>I’ll put hostility</em> <em>	</em><em>	</em><em>	between you and the woman,</em> <em>	</em><em>	</em><em>	between your offspring and hers.</em> <em>	</em><em>	</em>Her offspring will<em> </em><em>crush your head,</em> <em>	</em><em>	</em><em>	and you’ll bruise </em>her offspring’s<em> heel.”</em><em>	</em><em>	</em><em>	      </em><strong>Gen 3:14-15</strong></span>
 
 <span class="verse" id="v16"><strong><sup>6</sup></strong>He told the woman, <em>“I’ll significantly increase </em> <em>your pain in childbirth.</em> <em>	Though you’ll bear children in pain,</em> <em>you’ll still desire your husband,</em> <em>and he’ll have authority over you.”</em></span>
 
-<span class="verse" id="v17"><strong><sup>7</sup></strong>He told the man, <em>“Because you’ve listened to your wife </em> <em>	</em><em>	</em><em>	and eaten fruit from the tree I told you not to,</em> <em>	</em><em>	</em><em>	the ground is cursed.</em> <em>	</em><em>	Your whole life you’ll work to eat from it.</em> <em>	</em><strong><sup>18-19</sup></strong><em>It’ll grow thorns and thistles for you;</em> <em>	</em><em>	</em><em>	you’ll eat by sweating</em> <em>	</em><em>	</em><em>	till you go back to the ground.</em> <em>	</em><em>	You were taken from dust,</em> <em>	</em><em>	</em><em>	and you’ll go back to it.”</em><em>	</em></span>
-<p class="section-ref">Gen 3:16-19</p>
+<span class="verse" id="v17"><strong><sup>7</sup></strong>He told the man, <em>“Because you’ve listened to your wife </em> <em>	</em><em>	</em><em>	and eaten fruit from the tree I told you not to,</em> <em>	</em><em>	</em><em>	the ground is cursed.</em> <em>	</em><em>	Your whole life you’ll work to eat from it.</em> <em>	</em><strong><sup>18-19</sup></strong><em>It’ll grow thorns and thistles for you;</em> <em>	</em><em>	</em><em>	you’ll eat by sweating</em> <em>	</em><em>	</em><em>	till you go back to the ground.</em> <em>	</em><em>	You were taken from dust,</em> <em>	</em><em>	</em><em>	and you’ll go back to it.”</em><em>	</em><strong>Gen 3:16-19</strong></span>
 
-<span class="verse" id="v20"><sup><strong>20</strong></sup>Adam called his wife Eve because she was the mother of everyone that’s “lived.” <strong><sup>21</sup></strong>The LORD God made clothes for them out of skin. <strong><sup>22</sup></strong>He<sup>Y</sup> said, <em>“People have become like one of us, knowing good and bad. Now, to keep them from taking fruit from the tree of life, eating it, and living forever . . . .”</em> <strong><sup>23</sup></strong>He sent them out of the orchard to cultivate the ground he’d taken them from. <strong><sup>24</sup></strong>He stationed cherubs east of the Orchard in Eden, and a flaming sword that pointed in every direction to block access to the tree of life.</span>
+<span class="verse" id="v20"><sup class="verse-num">20</sup> Adam called his wife Eve because she was the mother of everyone that’s “lived.” <strong><sup>21</sup></strong>The LORD God made clothes for them out of skin. <strong><sup>22</sup></strong>He<sup>Y</sup> said, <em>“People have become like one of us, knowing good and bad. Now, to keep them from taking fruit from the tree of life, eating it, and living forever . . . .”</em> <strong><sup>23</sup></strong>He sent them out of the orchard to cultivate the ground he’d taken them from. <strong><sup>24</sup></strong>He stationed cherubs east of the Orchard in Eden, and a flaming sword that pointed in every direction to block access to the tree of life.</span>
 <p class="section-ref">Gen 3:20-24</p>
 
 ### Cain Murders Abel

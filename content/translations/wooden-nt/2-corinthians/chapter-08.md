@@ -9,7 +9,7 @@ type: chapter
 weight: 8
 ---
 
-## 2 Corinthians Chapter **8**
+## 2 Corinthians Chapter 8
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Now I-make-known to-you, brothers, the gracious-gift of-[the] God [the] given in the churches of-[the] Macedonia,<strong><sup> 2</sup></strong> that in (a) great abundance of-affliction the abundance of-the joy of-them and the according-to death poverty of-them abounded to the wealth of-the liberality of-them, <strong><sup>3</sup></strong>I-testify that according-to ability/power, even beyond (their) ability/power (they gave) of-their-own-accord <strong><sup>4</sup></strong>with much urging begging<strong>┘</strong>us└for the favor and the fellowship of-the ministry [the] to the saints, <strong><sup>5</sup></strong>and (this) not as we-hoped/expected, but they-gave themselves first to-the Lord and to-us by (the) will of-God <strong><sup>6</sup></strong>unto [the] our urging Titus, [in-order]-that as he-made-(an)-earlier-beginning, so also he-would-complete in you this [the] gracious-gift also. <strong><sup>7</sup></strong>But as in everything you abound both in word and knowledge and all diligence and the love from us in you [in-order]-that also in this [the] gracious-gift you-might-abound.</span>
 

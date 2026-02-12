@@ -1,16 +1,18 @@
 ---
 author: Virgil Warren, PhD
 categories:
+- Essays
 - Topics
 - CHRISTIAN DOCTRINE
 - ETHICS
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: SOME VALUES OF LOVE AS AN ETHICAL PRINCIPLE
 weight: 35
 ---
 
-SOME VALUES OF LOVE AS AN ETHICAL PRINCIPLE
+
+
 
 Love gets us past legal minimums of do’s and don’t’s. It provides a basis for going beyond the call of duty, takes into consideration other people’s differing preferences, watches out for negative effects on weaker brothers’ behavior, and concerns itself with good and better, not just with good and bad. Love fosters a concern for enhancing the quality of other people’s lives, not just with the rightness or wrongness of specific behaviors relative to some standard.
 
@@ -21,5 +23,6 @@ Love integrates with the interpersonal character of ultimate reality and the nat
 Love avoids self-centeredness and egocentrism.
 
 Love addresses both omission and commission.
+
 
 christir.org

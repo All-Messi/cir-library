@@ -1,16 +1,16 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Topics
+- Essays
 - MINISTRY
 - PREPARATION for Ministry
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: 'FORMAL PREPARATION FOR MINISTRY: THE 18-30 YEARS'
 weight: 999
 ---
 
-FORMAL PREPARATION FOR MINISTRY: THE 18-30 YEARS
+
 
 Graduating someone with a ministry degree does not necessarily increase the number of personnel in permanent ministry. Several factors contribute to significant attrition, especially during the early years of ministry.
 
@@ -31,3 +31,12 @@ Stretching out the time lets people phase into ministry and into leadership; it 
 We want people to enjoy ministry in the long term. By deliberately setting a twelve-year expectancy, we help them settle into a natural progress toward leadership ministry. We believe they and the churches benefit in the long run.
 
 christir.org
+
+
+
+
+
+
+
+
+

@@ -1,6 +1,6 @@
 ---
 book: Acts
-chapters: 26
+chapters: 28
 title: Acts
 translation: CNT
 type: book
@@ -9,4 +9,6 @@ weight: 44
 
 ## Acts
 
-**26 Chapters**
+**28 Chapters**
+
+Select a chapter to begin reading:

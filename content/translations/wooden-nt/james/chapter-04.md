@@ -9,11 +9,11 @@ type: chapter
 weight: 4
 ---
 
-## James Chapter **4**
+## James Chapter 4
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Whence (are) wars and battles among you?  (Is it) not whence from the passions of-you the-ones waging-war in the members of-you?  <strong><sup>2</sup></strong>You-lust and do┘not└have; you-murder and envy, and you-are┘not└able to-obtain; you-war and battle; you-do┘not└have on-account-of [the] your not asking; <strong><sup>3</sup></strong>you-ask and do┘not└receive, because you-ask badly, in-order-that you-may-spend (it) on the pleasures of-you.  <strong><sup>4</sup></strong>Adulteresses, do you┘not└know that [the] friendship of-the world is hostility of-[the] God?  Whoever<sup>2</sup> then wants to-be (a) friend of-the world, makes-himself (an) enemy of-[the] God.  <strong><sup>5</sup></strong>Or, do-you-suppose that in-vain the scripture says, <em>“The Spirit that he caused to dwell in us desires unto jealousy”</em>?  <strong><sup>6</sup></strong>But he-gives greater grace:  wherefore it-says, <strong><em>“[The] God resists (the) proud,</em></strong> <strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>b</em></strong><strong><em>ut gives grace to-(the)-humble.”</em></strong></span>
 
-<span class="verse" id="v7"><sup><strong>7</strong></sup>Therefore submit to-[the] God, and resist the devil and he-will-flee from you.  <strong><sup>8</sup></strong>Draw-near to-[the] God, and he-will-draw-near-to you.  Cleanse (your) hands, sinners; and sanctify (your) hearts, double-minded-ones.</span>
+<span class="verse" id="v7"><sup class="verse-num">7</sup> Therefore submit to-[the] God, and resist the devil and he-will-flee from you.  <strong><sup>8</sup></strong>Draw-near to-[the] God, and he-will-draw-near-to you.  Cleanse (your) hands, sinners; and sanctify (your) hearts, double-minded-ones.</span>
 
 <span class="verse" id="v9"><strong><sup>9</sup></strong>Be-sorrowful and mourn and weep.  Let┘the laughter of you└change into mourning, and (let) the joy (of you change) into gloom.  <strong><sup>10</sup></strong>Be-humbled before the Lord, and he-will-exalt you.</span>
 

@@ -1,15 +1,15 @@
 ---
 book: 1 Corinthians
 chapter: 12
-next: chapter-14
-prev: chapter-10
+next: chapter-13
+prev: chapter-11
 title: 1 Corinthians 12
 translation: WNT
 type: chapter
 weight: 12
 ---
 
-## 1 Corinthians Chapter **12**
+## 1 Corinthians Chapter 12
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Now concerning [the] spiritual gifts, brothers, I-do┘not└want you to-be-unaware. <strong><sup>2</sup></strong>You-know that when you-were Gentiles, you-were led-astray to [the] dumb [the] idols. <strong><sup>3</sup></strong>Wherefore I-make-known to-you that nobody speaking by (the) Spirit of-God, says, “Jesus (is) accursed”; and nobody is-able to-say, “Jesus (is) Lord,” except<sup>2</sup> by the Holy Spirit.</span>
 

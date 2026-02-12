@@ -4,34 +4,23 @@ chapter: 7
 next: chapter-08
 prev: chapter-06
 title: Numbers 7
-translation: COT
+translation: CNT
 type: chapter
 weight: 7
 ---
 
-## Numbers Chapter **7**
+## Numbers Chapter 7
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup><strong>7</strong><strong><sup>:1</sup></strong>The day Moses finished setting up the Tabernacle, he anointed and consecrated its furnishings, the altar, and its utensils. <strong><sup>2</sup></strong>The leaders in Israel (besides the numbered men) made an offering <strong><sup>3</sup></strong>and brought it to the Tabernacle: 6 covered carts</span>
-<p class="section-ref">and 12</p>
-
-### cattle, a cart for each pair of leaders and an ox for each leader. 4The LORD told Moses, 5“Accept these things for use in the Tent of Meeting. Give them to each Levite according to his service.” 6Moses accepted the carts and cattle and gave them to the Levites: 72 carts and 4 cattle to Gershon’s descendants to match their service, 8and 4 carts and 8 cattle to Merari’s descendants to match their service—as directed by Ithamar son of Aaron. 9He didn’t give any to Kohath’s descendants because their service was with the holy objects, which they carried on their shoulders. 10The leaders offered the dedication offering for the altar when it was anointed; they offered it in front of the altar. 	Num 7:1-10
-
+<span class="verse" id="v1"><sup class="verse-num">1</sup> <strong>7</strong><strong><sup>:1</sup></strong>The day Moses finished setting up the Tabernacle, he anointed and consecrated its furnishings, the altar, and its utensils. <strong><sup>2</sup></strong>The leaders in Israel (besides the numbered men) made an offering <strong><sup>3</sup></strong>and brought it to the Tabernacle: 6 covered carts and 12 cattle, a cart for each pair of leaders and an ox for each leader. <strong><sup>4</sup></strong>The LORD told Moses,<strong><sup> 5</sup></strong><em>“Accept these things for use in the </em><em>Tent of Meeting</em><em>.</em><em> </em><em>Give them to each </em><em>Levite</em><em> according to his service.”</em> <strong><sup>6</sup></strong>Moses accepted the carts and cattle and gave them to the Levites: <strong><sup>7</sup></strong>2 carts and 4 cattle to Gershon’s descendants to match their service, <strong><sup>8</sup></strong>and 4 carts and 8 cattle to Merari’s descendants to match their service—as directed by Ithamar son of Aaron. <strong><sup>9</sup></strong>He didn’t give any to Kohath’s descendants because their service was with the holy <em>objects</em>, which they carried on their shoulders. <strong><sup>10</sup></strong>The leaders offered the dedication <em>offering</em> for the altar when it was anointed; they offered it in front of the altar.</span>
+<p class="section-ref">Num 7:1-10</p>
 
 <span class="verse" id="v11"><strong><sup>1</sup></strong>Then the LORD told Moses<em>, “Have them present their offering, </em><em>one</em><em> leader a day, for the dedication of the altar.”</em> [Each leader presented the same offering as follows:]</span>
 
 <span class="verse" id="v12"><strong><sup>2</sup></strong>The first day, Nahshon son of Amminadab, from Judah, presented his offering.</span>
 
-<span class="verse" id="v13"><strong><sup>13</sup></strong>one silver platter that we</span>
-<p class="section-ref">ighed 3</p>
+<span class="verse" id="v13"><strong><sup>13</sup></strong>one silver platter that weighed 3¼ lbs <sup>130 </sup><em><sup>shekels</sup></em>, one silver bowl that weighed 28 oz <sup>70 </sup><em><sup>shekels</sup></em><sup> </sup><sup>of the sanctuary</sup>— both full of fine flour mixed with olive oil for a grain offering;</span>
 
-### ¼ lbs 130 shekels, one silver bowl that weighed 28 oz 70 shekels of the sanctuary— both full of fine flour mixed with olive oil for a grain offering;
-
-
-<span class="verse" id="v14"><strong><sup>14</sup></strong>one gold pan wei</span>
-<p class="section-ref">ghing 4</p>
-
-### oz 10 shekels, full of incense;
-
+<span class="verse" id="v14"><strong><sup>14</sup></strong>one gold pan weighing 4 oz <sup>10 </sup><em><sup>shekels</sup></em>, full of incense;</span>
 
 <span class="verse" id="v15"><strong><sup>15</sup></strong>one bull, one ram, one male lamb a year old, for a burnt offering;</span>
 
@@ -50,32 +39,6 @@ weight: 7
 <span class="verse" id="v42"><strong><sup>2</sup></strong>The sixth<sup> </sup>day, Eliasaph son of Deuel, leader of Gad, <em>presented</em>.</span>
 
 <span class="verse" id="v48"><strong><sup>8</sup></strong>The seventh day, Elishama son of Ammihud, leader of Ephraim, <em>presented</em>.</span>
-
-<span class="verse" id="v54"><strong><sup>4</sup></strong>The eighth day, Gamaliel son of Pedahzur, leader of Manasseh, <em>presented</em>.</span>
-
-<span class="verse" id="v60"><strong><sup>0</sup></strong>The ninth day, Abidan son of Gideoni, leader of Benjamin, <em>presented</em>.</span>
-
-<span class="verse" id="v66"><strong><sup>6</sup></strong>The tenth day, Ahiezer son of Ammishaddai, leader of Benjamin, <em>presented</em>.</span>
-
-<span class="verse" id="v72"><strong><sup>2</sup></strong>The eleventh day, Pagiel son of Ochran, leader of Asher, <em>presented</em>.</span>
-
-<span class="verse" id="v78"><strong><sup>8</sup></strong>The twelfth day, Ahira son of Enan, leader of Naphtali, <em>presented</em>. [<strong><sup>19-23</sup></strong>] = [<strong><sup>25-29</sup></strong>] = [<strong><sup>31-35</sup></strong>] = [<strong><sup>37-41</sup></strong>] = [<strong><sup>43-47</sup></strong>] = [<strong><sup>49-53</sup></strong>] = [<strong><sup>55-59</sup></strong>] = [<strong><sup>61-65</sup></strong>] = [<strong><sup>67-71</sup></strong>] = [<strong><sup>73-77</sup></strong>] = [<strong><sup>79-83</sup></strong>] <strong><sup>repeats</span>
-<p class="section-ref">of 13-17</p>
-
-### . 	Num 7:11-83
-
-
-<span class="verse" id="v84"><strong><sup>4</sup></strong>That was the dedication offering for the altar from the leaders of Israel when it was anointed: 12 silver platters, 12 silver bowls, 12 gold pans, <strong><sup>85</sup></strong>each silver platter <em>weighing</em> 3¼ lbs <sup>130 shekels</sup> and each bowl wei</span>
-<p class="section-ref">ghing 28</p>
-
-### oz 70 shekels. The silver of the utensils weighed 60 lbs 2,400 shekels of the sanctuary. 86The 12 gold saucers full of incense weighed 4 oz 10 shekels apiece—3 lbs 120 shekels altogether. 87For the burnt offerings there were 12 bulls, 12 rams, 12 male lambs a year old with their grain offerings, and 12 male goats for a sin offering. 88For the peace offerings there were 24 bulls, 60 rams, 60 male goats, 60 male lambs a year old. That was the dedication offering for the altar after it was anointed.
-
-
-<span class="verse" id="v89"><strong><sup>9</sup></strong>Whenever Moses went into the Tent of Meeting to speak to <em>the </em><em>L</em><em>ORD</em>, he’d hear a voice speaking to him from between the two cherubs above the mercy seat on the Ark of Testimony.</span>
-<p class="section-ref">Num 7:84-89</p>
-
-### The Seven Lamps
-
 
 
 <style>

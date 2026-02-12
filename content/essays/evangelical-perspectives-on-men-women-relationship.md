@@ -1,21 +1,27 @@
 ---
 author: Virgil Warren, PhD
 categories:
+- Essays
 - Topics
 - CHRISTIAN DOCTRINE
 - MANKIND (anthropology)
 - WOMEN'S STUDIES
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: EVANGELICAL PERSPECTIVES ON MEN-WOMEN RELATIONSHIP
 weight: 999
 ---
 
-EVANGELICAL PERSPECTIVES ON MEN-WOMEN RELATIONSHIP
 
-Introductory Observations
+
+
+
+
+<strong>Introductory Observations</strong>
+
 
 In general, women’s studies relate to the genetic nature of men and women and cultural expectancy regarding their interaction. Discussing evangelical perspectives on men and women in relationship adds biblical interpretation to the inquiry.
+
 
 On this subject what makes a viewpoint evangelical is not so much the viewpoint itself as the accompanying attitude toward scripture and the consequent method of interpretation which that attitude involves.
 
@@ -23,11 +29,18 @@ The same viewpoint may be shared by those with different views of scripture. An 
 
 “Egalitarianism” means either that there is no organizational structure in home (or church) or that all places of responsibility are equally open to men and women “on a level playing field.” “Complementarianism” means that there is a pattern that enjoins men to accept the ultimate places of responsibility—at least as a matter of wisdom if not standard norm. Ideally both approaches stand within an original interpersonal condition.
 
+
 NOTE: Labels are often more confusing than helpful, but for present purposes four terms correlate with the following distinctions. In part, evangelicalism may be distinguished from neo-orthodoxy and modernism/liberalism to the left and fundamentalism to the right by hermeneutics and by their variant understandings of the nature of scripture. Fundamentalism tends toward a legal conceptualization of biblical content, which shows up in more rigid thinking patterns and absolute viewpoints, in stressing literalism over anything else as the assumed intention of biblical statements, and in being less amenable to cultural qualification of biblical statements; it produces concepts like the husband/father as priest of the wife and the family. Evangelicalism emphasizes special divine guidance in the origination of scripture whereas neo-orthodoxy emphasizes the guidance of the Spirit on the reader’s response as comparable to that in the writer’s communication (as each writer interprets “events” vs. receives “words” that constitute revelation). Modernism/liberalism pretty well dissociates special divine assistance from either end of the revelation-illumination process.
 
-A Concept Inventory Relevant to Evangelical Interpretation
+
+
+
+
+<strong>A Concept Inventory Relevant to Evangelical Interpretation</strong>
+
 
 Proper interpretation of language depends on having a concept inventory co-extensive with the speaker’s. Otherwise conceptual match-up will not always occur between reader and writer.
+
 
 The interpersonal worldview. Interpersonal relationship is the basic, central, ultimate, most important reality in the Christian understanding of the big picture. That belief has qualifying effects on subsequent considerations. Since love is the summarizing reality for positive interpersonal relationships, its attitude and pattern of operation must be maintained in all subsequent operations. As a result, legal and natural processes between persons are limited in their manner and scope of functioning by the larger interpersonal construct in which they stand. (See documents “Bases for Interpersonalism” and “Characteristics of Interpersonalism” found in the author’s unpublished packet of essays entitled Interpersonalism: The Integrating Reality for Christian Truth.)
 
@@ -61,17 +74,24 @@ Better does not constitute best. Equality of individuals may be better than oppr
 
 A wide range of interpretation principles. Particularly common is the tendency to adopt a conclusion and then work toward it rather than operate, so to speak, from behind “a veil of ignorance” regarding the proper conclusion. The more appropriate hermeneutical method is to establish clear primary frameworks (like interpersonalism) and read ambiguous specifics in light of clear fundamentals.
 
+
 The preceding concepts and distinctions are some of those that come into the discussion as the two evangelical approaches struggle for consensus. In other words, differences on these points are the ones that presently lead to the different views evangelicals are taking.
 
-Organizations
 
-Egalitarianism
+
+
+
+<strong>Organizations</strong>
+
+
+<strong><u>Egalitarianism</u></strong>
 
 Christians for Biblical Equality
 
 122 West Franklin Avenue Suite 218
 
 Minneapolis, Minnesota 55404-2451
+
 
 e-mail: CBE@MINN.NET
 
@@ -81,13 +101,16 @@ Ph. (612) 872-6898
 
 FAX: (612) 872-6891
 
-Complementarianism
+
+
+<strong><u>Complementarianism</u></strong>
 
 Council on Biblical Manhood and Womanhood
 
 P.O. Box 7337
 
 Libertyville, Illinois 60048
+
 
 e-mail: CBMWOFFICE@AOL.COM
 
@@ -98,3 +121,13 @@ Ph. (847) 573-8210
 FAX: (847) 573-8211
 
 christir.org
+
+
+
+
+
+
+
+
+
+

@@ -9,7 +9,7 @@ type: chapter
 weight: 6
 ---
 
-## Romans Chapter **6**
+## Romans Chapter 6
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>What will-we-say then? Let-us-remain-in [the] sin in-order-that [the] grace may increase? <strong><sup>2</sup></strong>May-it┘not└be! Whoever-of us died to-[the] sin—how will-we┘still└live in it? <strong><sup>3</sup></strong>Or do you┘not└know that as-many┘of-us<sup>┘┘</sup>└as <sup>└└</sup>were-baptized into Christ Jesus were-baptized into the death of-him? <strong><sup>4</sup></strong>So we-were-buried-with him by [the] baptism into [the] death in-order-that as Christ was-raised from (the) dead by the glory of-the Father, so also we might-walk in the newness of-life. <strong><sup>5</sup></strong>For if we-have-become united-with the likeness of-the death of-him, certainly we-will-be also (in the likeness) of-the resurrection (of him); <strong><sup>6</sup></strong>knowing this: that the old man/self of-us was-crucified-with (him), in-order-that the body of-[the] sin might-be-destroyed, [the] our no-longer serving [the] sin. <strong><sup>7</sup></strong>For the-one having-died has-been-justified from [the] sin. <strong><sup>8</sup></strong>And if we-died with Christ, we-believe/trust that we will┘also└live-with him, <strong><sup>9</sup></strong>knowing that Christ, having-been-raised from (the) dead does┘not└die anymore—death no-longer is-lord-of him. <strong><sup>10</sup></strong>For what he-died, he-died to-[the] sin once; and what he-lives, he-lives to-[the] God. <strong><sup>11</sup></strong>So also we consider ourselves [to be]<sup>ms</sup> dead with-respect-to [the] sin, but living to-[the] God in Christ Jesus.</span>
 

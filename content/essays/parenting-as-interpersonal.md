@@ -1,16 +1,17 @@
 ---
 author: Virgil Warren, PhD
 categories:
+- Essays
 - Topics
 - INTERPERSONALISM
 - IP (interpersonalism) IMPACT ON TOPICS
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: PARENTING AS INTERPERSONAL
 weight: 999
 ---
 
-PARENTING AS INTERPERSONAL
+
 
 Parenting takes place first by interpersonal means. It is on top of interpersonal process that any authority comes, and that authority is bounded in its application by the distinctive purposes at work in this special setting for interpersonal process. The interpersonal circumstance sets the attitude parents take toward their children. Children are smaller but not less. If love is the medium of interpersonal relationships, love becomes the medium for parenting. The means and manner of parenting are primarily interpersonal influence instead of physical force, intimidation, authoritative control, manipulation, and the like. One of the main means of interpersonal influence is modeling what we want to teach, commend, command, and so on.
 

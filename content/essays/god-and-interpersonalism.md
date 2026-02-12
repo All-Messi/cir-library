@@ -1,22 +1,24 @@
 ---
 author: Virgil Warren, PhD
 categories:
+- Essays
 - Topics
 - INTERPERSONALISM
 - IP (interpersonalism) IMPACT ON TOPICS
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: GOD AND INTERPERSONALISM
 weight: 999
 ---
 
-GOD AND INTERPERSONALISM
 
-Interpersonalism applies to the ultimate frame of reference in that deity forms a three-person unity. In philosophy, “God” refers to ultimate reality. In scripture, this reality is personal because he is counselor who has no counselor (Psalm 11:3-4), his pleasure is what measures all doing, and his glory is the effect of everything that happens (Ephesians 1:11; Psalm 19:1). Interpersonalism represents the most complex form of existence. It stands to reason that if it exists in the created realm, it should be present in what originated everything in the created realm. The stream, we say, cannot rise above its source. The most inclusive understanding of God is at the “corporate,” or triune, level. The traditional doctrine of trinity combines into one concept unity, diversity, equality, and order and puts it before all other reality. Note the title The Eternal We, by Harold J. Green (Chicago, Ill.: Loyola University Press, 1987). Trinity is not just any kind of threeness-in-oneness; it is an interpersonal threeness-in-oneness.
+
+
+Interpersonalism applies to the ultimate frame of reference in that deity forms a three-person unity. In philosophy, “God” refers to ultimate reality. In scripture, this reality is personal because he is counselor who has no counselor (Psalm <strong><sup>11</sup></strong>:3-4), his pleasure is what measures all doing, and his glory is the effect of everything that happens (Ephesians <strong><sup>1</sup></strong>:11; Psalm <strong><sup>19</sup></strong>:1). Interpersonalism represents the most complex form of existence. It stands to reason that if it exists in the created realm, it should be present in what originated everything in the created realm. The stream, we say, cannot rise above its source. The most inclusive understanding of God is at the “corporate,” or triune, level. The traditional doctrine of trinity combines into one concept unity, diversity, equality, and order and puts it before all other reality. Note the title <em>The Eternal We</em>, by Harold J. Green (Chicago, Ill.: Loyola University Press, 1987). Trinity is not just any kind of threeness-in-oneness; it is an interpersonal threeness-in-oneness.
 
 Saying that interpersonalism (trinity) in God is the case is a different thing from needing to understand it fully to relate to him. Otherwise, it would be clearer in the Bible, especially for those living before Christ.
 
-Interpersonalism avoids the specter of a self-centered God who creates and wills to his own glory. Ephesians 1 points out that human behavior redounds to the glory of God’s grace. The implication is that by virtue of grace God himself has first given. By creating what is, God bears responsibility for creation, including personal beings. The association between God and his personal creation is not an impersonal one that manipulates, demands, and coerces; nor does he operate in a one-directional fashion from above to below. It is an association in which, after creating, he also gives of himself to what he has made; and the glory that comes to him is not so much demanded by him as motivated in us. His glory comes from our free response of gratitude for his previous grace.
+Interpersonalism avoids the specter of a self-centered God who creates and wills to his own glory. Ephesians <strong><sup>1</sup></strong> points out that human behavior redounds to the glory of God’s grace. The implication is that by virtue of grace God himself has first given. By creating what is, God bears responsibility for creation, including personal beings. The association between God and his personal creation is not an impersonal one that manipulates, demands, and coerces; nor does he operate in a one-directional fashion from above to below. It is an association in which, after creating, he also gives of himself to what he has made; and the glory that comes to him is not so much demanded by him as motivated in us. His glory comes from our free response of gratitude for his previous grace.
 
 God’s authority flows from his responsibility by virtue of creatorship and grace. Divine authority does not result from ascendancy through conquest as if might makes right; creation and grace are what makes right.
 
@@ -31,3 +33,10 @@ There is a difference between impersonal uniformity and personal consistency. Pe
 Another way of handling this lack of uniformity is to suppose that we simply do not understand the physical laws well enough. If and when we do, these apparent disconformities would disappear by refinements in what we understand.
 
 christir.org
+
+
+
+
+
+
+

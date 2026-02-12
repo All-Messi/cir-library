@@ -4,35 +4,35 @@ chapter: 42
 next: chapter-43
 prev: chapter-41
 title: Psalms 42
-translation: COT
+translation: CNT
 type: chapter
 weight: 42
 ---
 
-## Psalms Chapter **42**
+## Psalms Chapter 42
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>My soul pants for God <strong><sup>	</sup></strong>like a deer pants for water.</span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> My soul pants for God like a deer pants for water.</span>
 
-<span class="verse" id="v2"><sup><strong>2</strong></sup>My soul is thirsty for the living God; when will I <em>ever</em> see him?</span>
+<span class="verse" id="v2"><sup class="verse-num">2</sup> My soul is thirsty for the living God; when will I ever see him?</span>
 
-<span class="verse" id="v3"><sup><strong>3</strong></sup>My tears have been my food day and night as <strong>people</strong><strong> </strong><strong>ask me all the time</strong><strong>, </strong><strong><em>“Where’s your God?”</em></strong></span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> My tears have been my food day and night as people ask me all the time, “Where’s your God?”</span>
 
-<span class="verse" id="v4"><sup><strong>4</strong></sup>I think about these things as I pour out my soul. <strong><sup>	</sup></strong>I used to go with the throng, leading the procession to the house of God, singing for joy and giving thanks in the great celebration.</span>
+<span class="verse" id="v4"><sup class="verse-num">4</sup> I think about these things as I pour out my soul. I used to go with the throng, leading the procession to the house of God, singing for joy and giving thanks in the great celebration.</span>
 
-<span class="verse" id="v5"><sup><strong>5</strong></sup><strong>Why despair, my soul?</strong> <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong>Why be disturbed?</strong> <strong>	</strong><strong>Put your h</strong><strong>ope in God because I’ll still praise him</strong> <strong>	</strong><strong>	for the help his presence brings.</strong></span>
+<span class="verse" id="v5"><sup class="verse-num">5</sup> Why despair, my soul? Why be disturbed? Put your hope in God because I’ll still praise him for the help his presence brings.</span>
 
-<span class="verse" id="v6"><sup><strong>6</strong></sup>I’m in despair, God; so I remember you from the land of the Jordan, from the peaks of Hermon—from Mount Mizar.</span>
+<span class="verse" id="v6"><sup class="verse-num">6</sup> I’m in despair, God; so I remember you from the land of the Jordan, from the peaks of Hermon—from Mount Mizar.</span>
 
-<span class="verse" id="v7"><sup><strong>7</strong></sup>The sounds of your crashing waves echo back and forth; your waves and breakers are sweeping over me.</span>
+<span class="verse" id="v7"><sup class="verse-num">7</sup> The sounds of your crashing waves echo back and forth; your waves and breakers are sweeping over me.</span>
 <p class="section-ref">Ps 42:1-7</p>
 
-<span class="verse" id="v8"><sup><strong>8</strong></sup>The LORD directs his enduring love to me in the daytime; I sing his songs at night, prayers to my living God.</span>
+<span class="verse" id="v8"><sup class="verse-num">8</sup> The LORD directs his enduring love to me in the daytime; I sing his songs at night, prayers to my living God.</span>
 
-<span class="verse" id="v9"><sup><strong>9</strong></sup>I say to God, my Rock, <em>“Why have you forgotten me?</em> <em>	</em><strong><em>Why do I go </em></strong><strong><em>around in </em></strong><strong><em>mourning </em></strong> <strong><em>	</em></strong><strong><em>	</em></strong><strong><em>because my enemies oppress me?</em></strong><em>”</em></span>
+<span class="verse" id="v9"><sup class="verse-num">9</sup> I say to God, my Rock, “Why have you forgotten me? Why do I go around in mourning because my enemies oppress me?”</span>
 
-<span class="verse" id="v10"><sup><strong>10</strong></sup>Like breaking my bones, they taunt me; <strong>people keep</strong><strong> </strong><strong>asking</strong><strong> me, </strong><strong><em>“Where’s your God?”</em></strong></span>
+<span class="verse" id="v10"><sup class="verse-num">10</sup> Like breaking my bones, they taunt me; people keep asking me, “Where’s your God?”</span>
 
-<span class="verse" id="v11"><sup><strong>11</strong></sup><strong>Why despair, my soul?</strong> <strong>	Why </strong><strong>be</strong><strong> disturbed?</strong> <strong>	</strong><strong>Put your h</strong><strong>ope in God because I</strong><strong>’ll</strong><strong> still praise him</strong> <strong>	</strong><strong>	</strong><strong>for the help his </strong><strong>presence brings</strong><strong>.</strong><strong>	</strong></span>
+<span class="verse" id="v11"><sup class="verse-num">11</sup> Why despair, my soul? Why be disturbed? Put your hope in God because I’ll still praise him for the help his presence brings.</span>
 <p class="section-ref">Ps 42:8-11</p>
 
 

@@ -1,6 +1,6 @@
 ---
 book: Daniel
-chapters: 11
+chapters: 12
 title: Daniel
 translation: CYV
 type: book
@@ -9,4 +9,6 @@ weight: 27
 
 ## Daniel
 
-**11 Chapters**
+**12 Chapters**
+
+Select a chapter to begin reading:

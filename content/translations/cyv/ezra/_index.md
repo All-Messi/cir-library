@@ -10,3 +10,5 @@ weight: 15
 ## Ezra
 
 **10 Chapters**
+
+Select a chapter to begin reading:

@@ -1,22 +1,24 @@
 ---
 author: Virgil Warren, PhD
 categories:
+- Essays
 - Topics
 - INTERPERSONALISM
 - IP (interpersonalism) IMPACT ON TOPICS
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: WORSHIP AS INTERPERSONAL
 weight: 999
 ---
 
-WORSHIP AS INTERPERSONAL
 
-Worship is an interpersonal act in the vertical direction. It requires awareness, imagination, and concentration in contrast to habit or a stimulus-response elicited by form, place, or atmosphere. There is no required posture of the body, just a posture of the heart and mind. There is no necessary location such as one mountain or city (John 4:21). Instead, God wants people to worship him in spirit and truth because he is spirit and truth. Spirit lies inside interpersonalism. It does not require a temple, church building, or prayer room. It does not call for quietness or loudness, stillness or movement.
 
-Worship calls for self-expression, which means that the worshipers’ character forms a context for the activity they perform: “The prayer of righteous people avails much” (James 5:16). “People need to test themselves and then observe the Lord’s Supper” (1 Corinthians 11:28). Since worship is interpersonal, the character of the worshiper is relevant to its validity.
 
-Worship seeks closer conscious unity with God—drawing near to God (Hebrews 10:1-4). The goal is not to lose identity in the worship experience, but to express our identity to God through that experience. Our identity is the means of associating with God. Worship is not the mystical experience of the flight of the soul to God, where unity comes from being absorbed into the ultimate monolithic One. Worship is not a striving after nirvana.
+Worship is an interpersonal act in the vertical direction. It requires awareness, imagination, and concentration in contrast to habit or a stimulus-response elicited by form, place, or atmosphere. There is no required posture of the body, just a posture of the heart and mind. There is no necessary location such as one mountain or city (John <strong><sup>4</sup></strong>:21). Instead, God wants people to worship him in spirit and truth because he is spirit and truth. Spirit lies inside interpersonalism. It does not require a temple, church building, or prayer room. It does not call for quietness or loudness, stillness or movement.
+
+Worship calls for self-expression, which means that the worshipers’ character forms a context for the activity they perform: <em>“The prayer of righteous people avails much”</em> (James <strong><sup>5</sup></strong>:16). <em>“People need to test themselves and then observe the Lord’s Supper”</em> (1 Corinthians <strong><sup>11</sup></strong>:28). Since worship is interpersonal, the character of the worshiper is relevant to its validity.
+
+Worship seeks closer conscious unity with God—drawing near to God (Hebrews <strong><sup>10</sup></strong>:1-4). The goal is not to lose identity in the worship experience, but to express our identity to God through that experience. Our identity is the means of associating with God. Worship is not the mystical experience of the flight of the soul to God, where unity comes from being absorbed into the ultimate monolithic One. Worship is not a striving after nirvana.
 
 Worship does not call for making ourselves into zeros replaced by the Spirit. Worship does not reduce us to instruments by which God in the person of the Spirit speaks to himself. Glossolalia destroys worship if it means that we do not even know what we are saying. It cannot be communication. Worship disallows self-negation.
 
@@ -24,7 +26,7 @@ Worship is directed to God. It is not attention-getting behavior aimed at any au
 
 Worship is addressed to God as a person. Stressing the interpersonal nature of worship tempers any tendency to overly exalt God. Exalting him too far loses personal contact with him. Mariolatry and saintly intercession likewise push God away. The same can be said of the confessional and priestly intercession as a means of getting through to God. The more stress there is on priestly, saintly, and Marian mediation, the farther away God becomes from putting them between the worshiper and the Lord.
 
-The prohibition against idolatry comes from the fact that an idol depersonalizes God. Looking at a lifeless statue fosters the sense of a lifeless god, even though in theory the idol or icon only represents the reality beyond it or serves as the dwelling place of the deity within it. (1) Besides causing the worshiper to misconceptualize the deity as an animal or human being, the idol also obscures personhood because of what it is made of—wood, stone, gold, or silver. (2) That problem compounds even more basic difficulties stemming from the fact that producing the statue (Acts 17:29), being able to move it around, being able to leave its presence creates a sense of superiority to it, ability to manipulate it, ability of avoiding it. Idolatry makes god a projection of human imagination in contrast to his coming to us from beyond. God is a person, not a thing.
+The prohibition against idolatry comes from the fact that an idol depersonalizes God. Looking at a lifeless statue fosters the sense of a lifeless god, even though in theory the idol or icon only represents the reality beyond it or serves as the dwelling place of the deity within it. (1) Besides causing the worshiper to misconceptualize the deity as an animal or human being, the idol also obscures personhood because of what it is made of—wood, stone, gold, or silver. (2) That problem compounds even more basic difficulties stemming from the fact that producing the statue (Acts <strong><sup>17</sup></strong>:29), being able to move it around, being able to leave its presence creates a sense of superiority to it, ability to manipulate it, ability of avoiding it. Idolatry makes god a projection of human imagination in contrast to his coming to us from beyond. God is a person, not a thing.
 
 Worship is directed to God as a person, not as a force. God as person differs from god as force. Conceiving of him as a force leads to emotionalism, which is self-centered, individualistic, and person-thing rather than I-Thou. It strives to experience a zing or exhilaration by way of ecstasy, frenzy, psychological release from problems, or emotional detachment from the world. The Spirit gets misconceptualized as a mysterious energy or a force field, and worship means entering that force field or getting on the right “wave length.” God is a person, not a force.
 
@@ -46,4 +48,7 @@ As to a New Testament basis for non-instrumentalism, interpersonalism arises aga
 
 Confusion about the nature of the New Covenant demonstrates itself in the idea that the New Testament is as much a constitution for the church as the Old Testament was a law for Israel. The legalism that results in matters of worship and elsewhere is unfortunate.
 
+
 christir.org
+
+

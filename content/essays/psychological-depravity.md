@@ -1,19 +1,20 @@
 ---
 author: Virgil Warren, PhD
 categories:
+- Essays
 - Topics
 - CHRISTIAN DOCTRINE
 - MANKIND (anthropology)
-- DEPRAVITY, ESSAYS ON hUMAN
-date: '2026-01-23'
+- DEPRAVITY, ESSAYS ON HUMAN
+date: '2026-02-12'
 draft: false
 title: PSYCHOLOGICAL DEPRAVITY
 weight: 999
 ---
 
-PSYCHOLOGICAL DEPRAVITY
+<strong>Summary/Conclusion</strong>
 
-Summary/Conclusion
+
 
 The proposition counter to natural depravity is as follows: there is no (1) clear (2) biblical basis for saying that Adam’s ability in regard to (3) spiritual things after the fall was any different from what it was (4) before the fall in a (5) biologically inheritable sense.
 
@@ -29,4 +30,10 @@ The phrase “before the fall” draws attention to a comparison between the way
 
 The failure to live above our individual viewpoint and to override bodily drives and bad influence by interpersonal values, stems from the fact that it is easier not to live transcendently. It is easier to act by our present material interests than to curb self-gratification by considering future consequences, transcendent principles, and the welfare of others. After sin has originated in an individual, the morally neutral ability to form habits explains how it is perpetuated in them. In other words, psychological depravity—the power of sin to hold us down, the bondage of the will—results from previous sin. It can be explained as the pull of past sin on present resolve, by ingrained habit rather than inborn defect. Psychological depravity comes from “self-depravitization” rather than hereditary corruption. The natural-depravity proposal represents overkill for explaining universal and all-pervasive sin in humankind.
 
+
 christir.org
+
+
+
+
+

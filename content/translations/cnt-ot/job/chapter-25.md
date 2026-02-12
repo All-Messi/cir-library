@@ -4,14 +4,14 @@ chapter: 25
 next: chapter-26
 prev: chapter-24
 title: Job 25
-translation: COT
+translation: CNT
 type: chapter
 weight: 25
 ---
 
-## Job Chapter **25**
+## Job Chapter 25
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup><strong>Bildad the Shuhite answered:</strong> <strong><sup>2</sup></strong><em>“Dominion and awe belong to </em>God<em>,</em> <em>	</em><em>	who establishes order high in his sky.</em></span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> <strong>Bildad the Shuhite answered:</strong></span>
 
 <span class="verse" id="v3"><strong><sup>3</sup></strong><em>Who can count his troops?</em> <em>	</em><em>	Who doesn’t his light rise on?</em></span>
 
@@ -19,8 +19,7 @@ weight: 25
 
 <span class="verse" id="v5"><strong><sup>5</sup></strong><em>If the moon isn’t bright</em> <em>	</em><em>	</em><em>	and the stars aren’t pure to </em>God<em>,</em></span>
 
-<span class="verse" id="v6"><sup><strong>6</strong></sup><em>	</em><strong><sup>6</sup></strong><em>how much less people—like maggots,</em> <em>	</em><em>	</em><em>	and their offspring—mere worms.”</em><strong>	</strong></span>
-<p class="section-ref">Job 25:1-6</p>
+<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>	</em><strong><sup>6</sup></strong><em>how much less people—like maggots,</em> <em>	</em><em>	</em><em>	and their offspring—mere worms.”</em><strong>	</strong><strong>Job 25:1-6</strong></span>
 
 
 <style>

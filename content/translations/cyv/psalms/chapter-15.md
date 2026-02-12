@@ -9,18 +9,21 @@ type: chapter
 weight: 15
 ---
 
-## Psalms Chapter **15**
+## Psalms Chapter 15
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>Yahveh, who can live in your Tabernacle? Who can reside on your holy hill?</span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Yahveh, who can live in your Tabernacle? Who can reside on your holy hill?</span>
 
-<span class="verse" id="v2"><sup><strong>2</strong></sup>Those who act with integrity, who do what’s right and tell the truth;</span>
+<span class="verse" id="v2"><sup class="verse-num">2</sup> Those who act with integrity, who do what’s right and tell the truth;</span>
 
-<span class="verse" id="v3"><sup><strong>3</strong></sup>who don’t mistreat their neighbors or join in gossiping about their friends;</span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> who don’t mistreat their neighbors or join in gossiping about their friends;</span>
 
-<span class="verse" id="v4"><sup><strong>4</strong></sup>who despise reprobates, <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong>but honor people that respect Yahveh, who even swear to their own disadvantage and carry <em>it</em> through,</span>
+<span class="verse" id="v4"><sup class="verse-num">4</sup> who despise reprobates, but honor people that respect Yahveh, who even swear to their own disadvantage and carry it through,</span>
 
-<span class="verse" id="v5"><sup><strong>5</strong></sup>that don’t charge interest or accept bribes against innocent people. People like that will always be secure.</span>
+<span class="verse" id="v5"><sup class="verse-num">5</sup> that don’t charge interest or accept bribes against innocent people. People like that will always be secure.</span>
 <p class="section-ref">Ps 15:1-5</p>
+
+### A Mikhtam of David
+
 
 
 <style>

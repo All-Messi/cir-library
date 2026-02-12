@@ -9,7 +9,7 @@ type: chapter
 weight: 5
 ---
 
-## 1 Corinthians Chapter **5**
+## 1 Corinthians Chapter 5
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Sexual-immorality is┘actually└reported among you, and such immorality that (is) not -even among the Gentiles, that somebody would-be-living-with (the) wife of-the/his father. <strong><sup>2</sup></strong>And are you proud and not mourning instead in-order-that the-one having-done this [the] deed should-be-removed from (the) midst of-you? <strong><sup>3</sup></strong>For I, being-absent with-the body but present in-the spirit, have┘already└judged, as-if being-present, the-one having-committed this thus. <strong><sup>4</sup></strong>In the name of-the Lord [of-us]<sup>ms</sup> Jesus, you having-been-assembled and [the] my spirit with the power of-the Lord of-us Jesus, <strong><sup>5</sup></strong>deliver such-(a person) to-[the] Satan for (the) destruction of-the flesh, in-order-that the spirit may-be-saved in the day of-the Lord. <strong><sup>6</sup></strong>The pride of-you (is) not good. Do-you┘not└know that (a) little yeast leavens the whole lump? <strong><sup>7</sup></strong>Clean-out the old yeast in-order-0that you-may-be (a) new lump, even-as you-are unleavened, for also Christ the Passover of-us was sacrificed. <strong><sup>8</sup></strong>So let-us celebrate-the-festival, not with old yeast nor with yeast of-evil and wickedness, but with unleavened (bread) of-sincerity and truth.</span>
 

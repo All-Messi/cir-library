@@ -1,22 +1,26 @@
 ---
 author: Virgil Warren, PhD
 categories:
+- Essays
 - Topics
 - CHRISTIAN DOCTRINE
-- CHURCH  (ecclesiology)
-date: '2026-01-23'
+- CHURCH (ecclesiology)
+date: '2026-02-12'
 draft: false
 title: STUDY GUIDE ON DEACONS
 weight: 15
 ---
 
-STUDY GUIDE ON DEACONS
 
-“to serve”:  διακονέω (diakoneō)
+
+
+“to serve”:  διακονέω (<em>diakoneō</em>)
+
 
 Non-	Other
 
 Reference	Text	Eccl.	General	Positions	Tech.
+
 
 Mt. 4:11	Angels came and ministered to him	X
 
@@ -94,11 +98,20 @@ and do minister		X
 
 11	if any one ministers, (let him do it)		X	indefinite
 
-“service, ministry”:  διακονία (diakonia)
+
+
+
+
+
+
+
+“service, ministry”:  διακονία (<em>diakonia</em>)
+
 
 Non-	Other
 
 Reference	Text	Eccl.	General	Positions	Tech.
+
 
 Lk. 10:40	Martha was distracted about much serving. X
 
@@ -170,7 +183,10 @@ Heb. 1:14	spirits, sent forth to minister for them	X		angels
 
 Rev. 2:19	I know you works and love and service		X
 
-“deacon, one who serves”:  διάκονος (diakonos)
+
+
+“deacon, one who serves”:  διάκονος (<em>diakonos</em>)
+
 
 Mt. 20:26	let him be your minister;		X
 
@@ -188,9 +204,14 @@ Jn. 2:5	His mother says to the servants	X
 
 12:26	my servants will also be there		X
 
+
+
+
+
 Non-	Other
 
 Reference	Text	Eccl.	General	Positions	Tech.
+
 
 Rom. 13:4	he is the minister of God you	X
 
@@ -198,7 +219,7 @@ Rom. 13:4	he is the minister of God you	X
 
 15:8	a minister of the circumcision for			Lord
 
-16:1	Phoebe our sister, who is a servant of		X?		X?
+16:1	Phoebe our sister, who is a servant of		X?		<strong>X</strong>?
 
 1 Cor. 3:5	ministers by whom you believed,			apostles
 
@@ -220,7 +241,7 @@ Eph. 3:7	Wherefore I was made a minister			apostle
 
 6:21	beloved brother and faithful minister		X to an apostle	evangelist
 
-Phil. 1:1	with the bishops and deacons				X
+Phil. 1:1	with the bishops and deacons				<strong>X</strong>
 
 Col. 1:7	for you a faithful minister of Christ;		X to an apostle	indefinite
 
@@ -234,24 +255,28 @@ evangelist?
 
 1 Th. 3:2	Timothy, our brother and minister of God		evangelist
 
-1 Tim. 3:8	Likewise the deacons (must be) grave				X
+1 Tim. 3:8	Likewise the deacons (must be) grave				<strong>X</strong>
 
-12	deacons be the husbands of one wife,				X
+12	deacons be the husbands of one wife,				<strong>X</strong>
 
 4:6	you will be a good minister of			evangelist
 
-Observations
+
+
+<strong>Observations</strong>
+
 
 1.  	The terms are used generally and technically.
 
 2.  	The term “servant” is used of all New Testament offices with the possible exception of prophet. One implication of that fact is that none of the offices are figurehead positions that delegate all the work to other people.
 
-Deacon is used of a particular formal function in only two contexts: Philippians 1:1; 1 Timothy 3:18-13 (Acts 6:1-6 is conceivably another example although the term involved does not appear.)
+<em>Deacon</em> is used of a particular formal function in only two contexts: Philippians<strong> 1</strong>:1; 1 Timothy<strong> 3</strong>:18-13 (Acts <strong><sup>6</sup></strong>:1-6 is conceivably another example although the term involved does not appear.)
 
 4.	There is nothing to indicate that deacons had supervisory authority.
 
-The question about deaconesses can be raised in connection with three contexts:  Romans 16:1; 1 Timothy 3:11; 5:3-16
+The question about deaconesses can be raised in connection with three contexts:  Romans <strong><sup>16</sup></strong>:1; 1 Timothy<strong> 3</strong>:11; <strong><sup>5</sup></strong>:3-16
 
 The New Testament does not specify what a deacon’s work is.
+
 
 christir.org

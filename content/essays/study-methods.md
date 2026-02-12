@@ -1,53 +1,82 @@
 ---
 author: Virgil Warren, PhD
 categories:
+- Essays
 - INTERPRETATION
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: STUDY METHODS
 weight: 999
 ---
 
-STUDY METHODS
 
-This write-up describes methods of study applied to the Book of Hebrews. It follows the examples in Merrill C. Tenney’s commentary on Galatians: The Charter of Christian Liberty.
 
-A.	The synthetic method
+This write-up describes methods of study applied to the Book of Hebrews. It follows the examples in Merrill C. Tenney’s commentary on <em>Galatians: The Charter of Christian Liberty</em>.
 
-Read the Book of Hebrews in one siting to discover the author’s overall purpose in writing the book. In two or three pages, show how each section of the book (as you perceive it to be divided) relates to its purpose as determined above. Is there any one argument that pervades all the author’s individual arguments? Remember that the purpose of writing is not necessarily the same thing as some prominent theme of the book. Themes may be used to fulfill the purpose of writing. (Note Tenney, Galatians, pp. 25-35)
 
-B.	The critical method
+<strong>A.	The synthetic method</strong>
 
-Glean from Hebrews all the information that sheds light on questions of introduction: author, place of writing, destination, date, readers’ circumstance. The point is not that the information can be linked up with external historical facts successfully, but that it is the kind of information that could be linked up that way. (Note Tenney, Galatians, pp. 39-64, 67-93, 97-109)
 
-C.	The topical method
+Read the Book of Hebrews in one siting to discover the author’s overall purpose in writing the book. In two or three pages, show how each section of the book (as you perceive it to be divided) relates to its purpose as determined above. Is there any one argument that pervades all the author’s individual arguments? Remember that the purpose of writing is not necessarily the same thing as some prominent theme of the book. Themes may be used to fulfill the purpose of writing. (Note Tenney, <em>Galatians</em>, pp. 25-35)
 
-List all the passages in Hebrews that seem to address the possibility of apostasy after salvation. State the conclusion to be reached and the reasons for it. Make a distinction between apostasy, backsliding, and high exposure without commitment to Christ in the first place. Apostasy is leaving the salvation status while backsliding is lessening commitment to it but not to the point of being disinherited (cp. “grieving the Spirit” in Ephesians 4:20). Make a distinction as well between the readers’ actual state and the topic that the author is warning them about. The writer can be warning them about a real possibility without saying they themselves are now apostate. What kinds of things does the writer exhort his readers to do—things that would apply to uncommitted people or to struggling Christians? The point of the topical method here is not to find all three possibilities in Hebrews or to try to support all three from the contents of this book, but to see whether apostasy is possible as per the contents of this writing.
 
-Give the references for each idea you present on this topic. Do not deal with the topic as a topic but with the information in Hebrews that addresses the topic. Show the conclusions to be reached from each text and why they—rather than some other conclusions—are to be reached. Deal only with Hebrews; other books are not being considered here. (Note Tenney, Galatians, pp. 153-61)
 
-D.	The rhetorical method
+<strong>B.	The critical method</strong>
 
-List the passages where “oath,” “swear,” “vow,” and “promise” occur in Hebrews. Find the Old Testament passages where God takes an oath and classify them by topic. Make any observations that come from this procedure. Submit the worksheets for the statistics as well as the list of observations you make. (Note Tenney, Galatians, pp. 135-49)
 
-E.	The theological method
+Glean from Hebrews all the information that sheds light on questions of introduction: author, place of writing, destination, date, readers’ circumstance. The point is not that the information can be linked up with external historical facts successfully, but that it is the kind of information that could be linked up that way. (Note Tenney, <em>Galatians</em>, pp. 39-64, 67-93, 97-109)
 
-What are some theological, or conceptual, assumptions that lie behind the material in Hebrews? What presuppositions must have been in the author’s mind for him to say what he explicitly affirms? For example, what can you infer about his view of history, what is his view of God’s relationship to the created universe, what is the nature of man, what does he assume about the nature of scripture? Explain the reasons for making the inferences you do. The theological method does not deal with what the writer says, but with the assumptions that evidently lie behind what he says. (Note Tenney, Galatians, pp. 118-32)
 
-F.	The analytical method
 
-Make a textual analysis of Hebrews 1:1-4 and note any significant observations. Treat these four verses as one sentence. What is the basic simple sentence? What is the central word and the center of attention? What contrasts exist here? Whereas the topical and theological methods have a conceptual emphasis, the analytical method has a structural emphasis. This kind of study provides the basis for a textual sermon in contrast to an expository one. It also helps the reader appreciate the rhetorical quality of the writing. Turn in the actual work sheet on which you demonstrate the layout of the text. In your analysis, be as detailed as possible. What kinds of parallels, contrasts, emphases, or progressions does this layout suggest? (Note Tenney, Galatians, pp. 165-85)
+<strong>C.	The topical method</strong>
+
+
+List all the passages in Hebrews that seem to address the possibility of apostasy after salvation. State the conclusion to be reached and the reasons for it. Make a distinction between apostasy, backsliding, and high exposure without commitment to Christ in the first place. Apostasy is leaving the salvation status while backsliding is lessening commitment to it but not to the point of being disinherited (cp. “grieving the Spirit” in Ephesians <strong><sup>4</sup></strong>:20). Make a distinction as well between the readers’ actual state and the topic that the author is warning them about. The writer can be warning them about a real possibility without saying they themselves are now apostate. What kinds of things does the writer exhort his readers to do—things that would apply to uncommitted people or to struggling Christians? The point of the topical method here is not to find all three possibilities in Hebrews or to try to support all three from the contents of this book, but to see whether apostasy is possible as per the contents of this writing.
+
+Give the references for each idea you present on this topic. Do not deal with the topic as a topic but with the information in Hebrews that addresses the topic. Show the conclusions to be reached from each text and why they—rather than some other conclusions—are to be reached. Deal only with Hebrews; other books are not being considered here. (Note Tenney, <em>Galatians</em>, pp. 153-61)
+
+
+
+<strong>D.	The rhetorical method</strong>
+
+
+List the passages where “oath,” “swear,” “vow,” and “promise” occur in Hebrews. Find the Old Testament passages where God takes an oath and classify them by topic. Make any observations that come from this procedure. Submit the worksheets for the statistics as well as the list of observations you make. (Note Tenney, <em>Galatians</em>, pp. 135-49)
+
+
+
+<strong>E.	The theological method</strong>
+
+
+What are some theological, or conceptual, assumptions that lie behind the material in Hebrews? What presuppositions must have been in the author’s mind for him to say what he explicitly affirms? For example, what can you infer about his view of history, what is his view of God’s relationship to the created universe, what is the nature of man, what does he assume about the nature of scripture? Explain the reasons for making the inferences you do. The theological method does not deal with what the writer says, but with the assumptions that evidently lie behind what he says. (Note Tenney, <em>Galatians</em>, pp. 118-32)
+
+
+
+<strong>F.	The analytical method</strong>
+
+
+Make a textual analysis of Hebrews<strong> 1</strong>:1-4 and note any significant observations. Treat these four verses as one sentence. What is the basic simple sentence? What is the central word and the center of attention? What contrasts exist here? Whereas the topical and theological methods have a conceptual emphasis, the analytical method has a structural emphasis. This kind of study provides the basis for a textual sermon in contrast to an expository one. It also helps the reader appreciate the rhetorical quality of the writing. Turn in the actual work sheet on which you demonstrate the layout of the text. In your analysis, be as detailed as possible. What kinds of parallels, contrasts, emphases, or progressions does this layout suggest? (Note Tenney, <em>Galatians</em>, pp. 165-85)
 
 For the sake of class uniformity, use the following translation:
 
-“God, having of old spoken to the fathers in the prophets in many parts and in many ways, has at the end of these days spoken to us in his Son, whom he appointed heir of all things, through whom he also made the worlds, who being the effulgence of his glory and the very image of his substance and upholding all things by his powerful word, when he had made purification for sins, sat down on the right hand of the Majesty on high, having become as much better than the angels as he has inherited a more excellent name than they.”
 
-G.	The comparative method
+<em>	“God, having of old spoken to the fathers in the prophets in many parts and in many ways, has at the end of these days spoken to us in his Son, whom he appointed heir of all things, through whom he also made the worlds, who being the effulgence of his glory and the very image of his substance and upholding all things by his powerful word, when he had made purification for sins, sat down on the right hand of the Majesty on high, having become as much better than the angels as he has inherited a more excellent name than they.” </em>
 
-Compare the line of argument in Hebrews 3-4 with 1 Corinthians 10:1-13, noting likenesses, differences, and peculiar elements. Are there other places in scripture that bring the wilderness wanderings to bear on perseverance in Christian living? (Note Tenney, Galatians, pp. 189-203)
 
-H.	The devotional method
 
-What formula does the writer of Hebrews lay down for helping his readers persevere to the end? (Note Tenney, Galatians, pp. 207-11)
+
+
+<strong>G.	The comparative method</strong>
+
+
+Compare the line of argument in Hebrews <strong>3-4</strong> with 1 Corinthians<strong> 10</strong>:1-13, noting likenesses, differences, and peculiar elements. Are there other places in scripture that bring the wilderness wanderings to bear on perseverance in Christian living? (Note Tenney, <em>Galatians</em>, pp. 189-203)
+
+
+
+<strong>H.	The devotional method </strong>
+
+
+What formula does the writer of Hebrews lay down for helping his readers persevere to the end? (Note Tenney, <em>Galatians</em>, pp. 207-11)
 
 christir.org
+
+

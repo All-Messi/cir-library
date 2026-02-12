@@ -1,21 +1,20 @@
 ---
 author: Virgil Warren, PhD
 categories:
+- Essays
 - INTERPRETATION
-- GETTING THE POINT book
-date: '2026-01-23'
+- GETTING THE POINT (book)
+date: '2026-02-12'
 draft: false
 title: INTERPRETATION, HERMENEUTICS, THEOLOGICAL METHOD
 weight: 10
 ---
 
-INTERPRETATION, HERMENEUTICS, THEOLOGICAL METHOD
-
 In dealing with controversial passages, interpreters make their choice by their understanding of the big picture, the general understanding, the conceptual context. They follow this procedure even with passages that at first glance would call for a more likely-sounding interpretation. The readers may choose a less likely sounding meaning because of the general understanding they bring to the text. In such cases, where more than one reading is possible, the text doesn’t prove either idea that the readers are bringing to it; that text rises no higher than confirmatory evidence in contrast to primary proof. The passage falls out of the process of arriving at the general understanding. That general understanding must come from someplace else or from other places taken together.
 
 The process we’re describing here shows the blending of interpretation and theological method. In practical discussions, eliminating another viewpoint can take the following pattern: Instead of hoping to disprove the alternate idea, we go about eliminating that viewpoint by showing with each passage used to support it that there are other natural ways of reading it. When we follow this procedure with each passage used to support the viewpoint, the alternative idea is at best a matter of opinion rather than certainty. Certainty arises from primary proof, that is, evidence that fits with only one viewpoint rather than two or more.
 
-The above observations point up several matters. One is the nature of scripture: that scripture throughout is operating out of the same general picture (inerrancy, infallibility, accuracy, truthfulness, etc.).
+The above observations point up several matters. One is the nature of scripture: that scripture throughout is operating out of the same general picture (inerrancy, infallibility, accuracy, truthfulness, <em>etc</em>.).
 
 Another consideration is canonicity—what writings belong to the authoritative body of literature. A subset of that consideration is what books were written by Paul, for example—whether he wrote only the basic four (Romans, 1 & 2 Corinthians, Galatians), whether the pastorals belong to him, and so forth.
 
@@ -31,10 +30,10 @@ A second dimension of how language operates in interpretation concerns the varia
 
 These considerations show the connections between many disciplines in biblical study.
 
-The truth itself is “simple so that a wayfaring man need not err therein.” The issues raised here about interpretation deal with getting to that truth and keeping it distinguished from other ideas that look similar.
+The truth itself is <em>“simple so that a wayfaring man need not err therein.” </em>The issues raised here about interpretation deal with getting to that truth and keeping it distinguished from other ideas that look similar.
 
 ________
 
-1Not literal over figurative: cp. Matthew 15 leaven of the Pharisees but leaven meant teaching/influence. John 3, “born again,” which Nicodemus mistakes as meant literally.
+<sup>1</sup>Not literal over figurative: cp. Matthew <strong><sup>15</sup></strong> leaven of the Pharisees but leaven meant teaching/influence. John <strong>3,</strong> “born again,” which Nicodemus mistakes as meant literally.
 
 christir.org

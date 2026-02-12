@@ -4,12 +4,12 @@ chapter: 64
 next: chapter-65
 prev: chapter-63
 title: Isaiah 64
-translation: COT
+translation: CNT
 type: chapter
 weight: 64
 ---
 
-## Isaiah Chapter **64**
+## Isaiah Chapter 64
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Oh that you’d open the sky and come down and <strong>the mountains would quake in your presence—</strong></span>
 
@@ -25,7 +25,7 @@ weight: 64
 
 <span class="verse" id="v7"><strong><sup>7</sup></strong>No one calls on you or reaches out to you because you’ve hid from us and delivered us to the consequences of our sins.<strong> </strong><strong>Is</strong><strong> 64:1-7</strong></span>
 
-<span class="verse" id="v8"><sup><strong>8</strong></sup><em>	</em><strong><sup>8</sup></strong>But now, LORD, you’re our Father; we’re the clay, you’re the potter; you’ve made us.</span>
+<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>	</em><strong><sup>8</sup></strong>But now, LORD, you’re our Father; we’re the clay, you’re the potter; you’ve made us.</span>
 
 <span class="verse" id="v9"><strong><sup>9</sup></strong>Don’t be angry beyond measure; don’t hold our sin against us forever; look now, we’re all your people.</span>
 

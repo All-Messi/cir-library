@@ -8,7 +8,7 @@ type: chapter
 weight: 5
 ---
 
-## 1 Peter Chapter **5**
+## 1 Peter Chapter 5
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>(The) elders [the] among you I-exhort, (being) the/a fellow-elder and witness of-the sufferings of-Christ, the/a sharer also of-the future glory to-be-revealed.  <strong><sup>2</sup></strong>Shepherd the flock of-[the] God among you, exercising-(the)-oversight; not under-compulsion, but willingly according-to God; not for-shameful-gain, but eagerly; <strong><sup>3</sup></strong>neither as lording-(it)-over the/your charges, but by-being (an) example of-the flock; <strong><sup>4</sup></strong>and the chief-Shepherd having-appeared, you-will-receive the unfading crown of-[the] glory.</span>
 

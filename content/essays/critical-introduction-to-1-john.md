@@ -1,50 +1,63 @@
 ---
 author: Virgil Warren, PhD
 categories:
+- Essays
 - EVIDENCES
-- CRITICAL INTRODUCTION -  New Testament
-- 1 2 3 JOHN
-date: '2026-01-23'
+- CRITICAL INTRODUCTION - New Testament
+- 1-2-3 JOHN
+date: '2026-02-12'
 draft: false
 title: CRITICAL INTRODUCTION TO 1 JOHN
 weight: 38
 ---
 
-CRITICAL INTRODUCTION TO 1 JOHN
+
+
 
 I. Authorship
 
+
 A.  External
 
-1.  	Earliest allusion in Polycarp (Ad Phil. 7)
 
-2.  	Perhaps Papias (Eusebius’ Ecclesiastical History 3:39:3, 17)
+1.  	Earliest allusion in Polycarp (<em>Ad Phil</em>. 7)
+
+2.  	Perhaps Papias (Eusebius’ <em>Ecclesiastical History</em><strong> 3</strong>:39:3, 17)
 
 3.  	Coincidences of language in Justin, Barnabas, Hermas, Clement of Rome
 
 4.  	Clement of Alexandria, Origen, and Tertullian cite it as John’s.
 
+
 B.  Internal evidence
+
 
 1.  	1 John, 2 John, 3 John, and Hebrews are the four anonymous New Testament epistles.  The opening of I John, like the close of Hebrews, tells something of the author.
 
-2.  	An eyewitness: “What we have seen with our own eyes” (1:1)
+2.  	An eyewitness: <em>“What we have seen with our own eyes”</em> (<strong><sup>1</sup></strong>:1)
 
 3. 	Authoritative condemnation of error
 
 4.  	Only a minority of critics deny that the similarity of thought and expression suffice to establish common authorship between 1 John and the Gospel of John.
 
+
+
 II. Date of writing
+
 
 A.  Current with an incipient state of Docetism such as the kind preached by Cerinthus
 
-B.  The ad quem is fixed by Ignatius’ letter (c. 35-c. 107).
+B.  The <em>ad quem </em>is fixed by Ignatius’ letter (<em>c</em>. 35-<em>c</em>. 107).
 
-C.  The a quo is fixed by Domitian’s persecutions since the epistle reflects tension but not persecution. We could say the same of a time before Domitian’s persecutions.
+C.  The <em>a quo</em> is fixed by Domitian’s persecutions since the epistle reflects tension but not persecution. We could say the same of a time before Domitian’s persecutions.
+
+
 
 III. Destination
 
+
 The best explanation is that 1 John addressed a specific Asiatic community since
+
 
 A.  the readers are contrasted with false teachers in such a way as to suggest that the writer was personally acquainted with the situation.
 
@@ -52,49 +65,59 @@ B.  the readers are addressed as beloved and children.
 
 C.  the book does not identify the author.
 
+
+
 IV. Purpose
 
-A.  stated in 1:3; 2:1; 5:13: to instruct in true knowledge those who already believe
+
+A.  stated in <strong><sup>1</sup></strong>:3;<strong> 2</strong>:1; <strong><sup>5</sup></strong>:13: to instruct in true knowledge those who already believe
 
 B. 	to exhort not to be drawn aside into current doctrinal and practical heresies:
 
 antinomianism and Docetism
 
+
+
 V.  	Relation to the Fourth Gospel
+
 
 A.  Similar verses
 
-1.  1 John 1:1-3; John 3:11; cp. 1:14, 20; 20:27 (note also Luke 24:30)
 
-2.  1 John 1:4; John 16:24
+1.  1 John <strong><sup>1</sup></strong>:1-3; John <strong><sup>3</sup></strong>:11; cp. <strong><sup>1</sup></strong>:14, 20; <strong><sup>20</sup></strong>:27 (note also Luke <strong><sup>24</sup></strong>:30)
 
-3.  1 John 2:11; John 12:35
+2.  1 John <strong><sup>1</sup></strong>:4; John <strong><sup>16</sup></strong>:24
 
-4.  1 John 2:14; John 5:38
+3.  1 John<strong> 2</strong>:11; John <strong><sup>12</sup></strong>:35
 
-5.  1 John 3:5; John 8:46
+4.  1 John <strong><sup>2</sup></strong>:14; John <strong><sup>5</sup></strong>:38
 
-6.  1 John 3:8; John 8:14
+5.  1 John <strong><sup>3</sup></strong>:5; John <strong><sup>8</sup></strong>:46
 
-7.  1 John 3:13; John 15:18
+6.  1 John <strong><sup>3</sup></strong>:8; John <strong><sup>8</sup></strong>:14
 
-8.  1 John 3:14; John 5:24
+7.  1 John<strong> 3</strong>:13; John <strong><sup>15</sup></strong>:18
 
-9.  1 John 3:16; John 10:15
+8.  1 John<strong> 3</strong>:14; John <strong><sup>5</sup></strong>:24
 
-10.  1 John 3:22; John 8:29
+9.  1 John<strong> 3</strong>:16; John <strong><sup>10</sup></strong>:15
 
-11.  1 John 3:23; John 13:34
+10.  1 John <strong><sup>3</sup></strong>:22; John<strong> 8</strong>:29
 
-12.  1 John 4:6; John 8:47
+11.  1 John <strong><sup>3</sup></strong>:23; John <strong><sup>13</sup></strong>:34
 
-13.  1 John 5:9; John 5:32
+12.  1 John <strong><sup>4</sup></strong>:6; John<strong> 8</strong>:47
 
-14.  1 John 5:20; John 17:3
+13.  1 John <strong><sup>5</sup></strong>:9; John <strong><sup>5</sup></strong>:32
+
+14.  1 John <strong><sup>5</sup></strong>:20; John <strong><sup>17</sup></strong>:3
+
 
 B.  Differences
 
+
 1.  Stylistic differences
+
 
 a.  	The language of the epistle is not so “intense” as that of the gospel.
 
@@ -104,12 +127,17 @@ c.  	Certain expressions (about forty) occur in the epistle and not in the gospe
 
 d.  	The epistle, in contrast to the gospel, has no Semitic solecisms.
 
+
 2.  Supposed theological differences
+
 
 a. 	There is a more primitive eschatology in the epistle (no “realized eschatology”); yet the anti-Christ concept is not different, but a new way of expressing the same doctrine.
 
-b.  The death of Christ is more primitively viewed as expiation (2:2; 4:10).  However, the many-faceted death of Christ is not limited by what one document presents.  Critics would do well to pay more attention to the sacrificial language of the epistle.
+b.  The death of Christ is more primitively viewed as expiation (<strong><sup>2</sup></strong>:2; <strong><sup>4</sup></strong>:10).  However, the many-faceted death of Christ is not limited by what one document presents.  Critics would do well to pay more attention to the sacrificial language of the epistle.
 
 c.   In the epistle the doctrine of the Spirit is confined to popular belief (?).
 
+
 christir.org
+
+

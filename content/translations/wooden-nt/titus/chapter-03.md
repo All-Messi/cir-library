@@ -8,7 +8,7 @@ type: chapter
 weight: 3
 ---
 
-## Titus Chapter **3**
+## Titus Chapter 3
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Remind them to-subject-themselves to-rulers (and) to-authorities, to-be-obedient, to-be ready for every good deed, <strong><sup>2</sup></strong>to-slander nobody, to-be uncontentious, gentle, showing all humility to all men.  <strong><sup>3</sup></strong>For once <u>we</u>┘also└ were foolish, disobedient, deceived, enslaved to-various lusts and pleasures, spending-life in evil and envy, hated, hating one-another.  <strong><sup>4</sup></strong>But “when the kindness of-God the Savior of-us and the/his love-for-humanity appeared, <strong><sup>5</sup></strong>not from works [the] in righteousness that <u>we</u> did, but according-to the mercy of-him he-saved us through (the) washing of-regeneration and renewal of-(the) Holy Spirit, <strong><sup>6</sup></strong>whom he-poured-out on us richly through Jesus Christ the Savior of-us, <strong><sup>7</sup></strong>in-order-that, having-been-justified by-[the] that grace, we-might-become heirs according-to (the) hope of-eternal life.”</span>
 

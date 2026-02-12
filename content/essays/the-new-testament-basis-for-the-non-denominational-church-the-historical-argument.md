@@ -1,18 +1,21 @@
 ---
 author: Virgil Warren, PhD
 categories:
+- Essays
 - Topics
 - CHRISTIAN DOCTRINE
-- CHURCH  (ecclesiology)
+- CHURCH (ecclesiology)
 - MA THESIS
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: 'THE NEW TESTAMENT BASIS FOR THE NON-DENOMINATIONAL CHURCH: THE HISTORICAL
   ARGUMENT'
 weight: 999
 ---
 
-THE NEW TESTAMENT BASIS FOR THE NON-DENOMINATIONAL CHURCH: THE HISTORICAL ARGUMENT
+
+
+
 
 The church is saved people serving in divine pattern. The body of Christ possesses essential oneness by virtue of individual unity with Christ and collective unity through Christ. This invisible oneness is manifest by a dynamic structure-function called the church. Functional unity in Christ combines with organizational unity under Christ to form this non-denominational entity that has a fivefold oneness of attitude, doctrine, fellowship, name, and organization.
 

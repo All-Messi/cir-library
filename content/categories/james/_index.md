@@ -1,4 +1,4 @@
 ---
-title: JAMES
-weight: 33
+title: James
+weight: 999
 ---

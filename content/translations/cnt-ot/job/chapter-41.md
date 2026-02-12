@@ -4,14 +4,14 @@ chapter: 41
 next: chapter-42
 prev: chapter-40
 title: Job 41
-translation: COT
+translation: CNT
 type: chapter
 weight: 41
 ---
 
-## Job Chapter **41**
+## Job Chapter 41
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup><em>“Can you pull Leviathan in on a fishhook</em> <em>	</em><em>	or muzzle it with a noose?</em></span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> <em>“Can you pull Leviathan in on a fishhook</em> <em>	</em><em>	or muzzle it with a noose?</em></span>
 
 <span class="verse" id="v2"><strong><sup>2</sup></strong><em>Can you tie it up with a rope in its nose</em> <em>	</em><em>	or pierce its jaw with a hook?</em></span>
 
@@ -23,8 +23,7 @@ weight: 41
 
 <span class="verse" id="v6"><strong><sup>6</sup></strong><em>Will traders bid on it</em><em>	</em> <em>	</em><em>	or divide it up among the merchants’ shops?</em></span>
 
-<span class="verse" id="v7"><strong><sup>7</sup></strong><em>Can you hurt its hide with harpoons</em> <em>	</em><em>	or its head with fishing spears?</em><strong>	</strong></span>
-<p class="section-ref">Job 41:1-7</p>
+<span class="verse" id="v7"><strong><sup>7</sup></strong><em>Can you hurt its hide with harpoons</em> <em>	</em><em>	or its head with fishing spears?</em><strong>	</strong><strong>Job 41:1-7</strong></span>
 
 <span class="verse" id="v8"><strong><sup>8</sup></strong><em>Put </em>your<em> hands on it, and you’ll remember the fight! </em> <em>	</em><em>	You won’t do that again!</em></span>
 
@@ -32,11 +31,7 @@ weight: 41
 
 <span class="verse" id="v10"><strong><sup>0</sup></strong><em>Nobody is fierce enough to dare to disturb it;</em> <em>	</em><em>	who then can stand against </em><em><u>me</u></em><em>?</em></span>
 
-<span class="verse" id="v11"><strong><sup>1</sup></strong><em>Who has given to me that I should repay?</em> <em>	</em><em>	Whatever’s under the sky is </em>already<em> mine.</em><strong> </strong><strong>	</strong></span>
-<p class="section-ref">Job 41:8-11</p>
-
-### 12“I won’t fail to mention its limbs, 		its great strength or graceful frame.
-
+<span class="verse" id="v11"><strong><sup>1</sup></strong><em>Who has given to me that I should repay?</em> <em>	</em><em>	Whatever’s under the sky is </em>already<em> mine.</em><strong> </strong><strong>	</strong><strong>Job 41:8-11</strong></span>
 
 <span class="verse" id="v13"><strong><sup>3</sup></strong><em>Who can strip off its outer armor</em> <em>	</em><em>	or penetrate its double coat of mail?</em></span>
 
@@ -48,8 +43,7 @@ weight: 41
 
 <span class="verse" id="v17"><strong><sup>17</sup></strong><em>They interlock with one another</em> <em>	</em><em>	</em><em>	and can’t be separated.</em></span>
 
-<span class="verse" id="v18"><strong><sup>8</sup></strong><em>When it sneezes, it flashes out light;</em> <em>	</em><em>	</em><em>	its eyes are red like the rays of dawn.</em><strong>	</strong></span>
-<p class="section-ref">Job 41:12-18</p>
+<span class="verse" id="v18"><strong><sup>8</sup></strong><em>When it sneezes, it flashes out light;</em> <em>	</em><em>	</em><em>	its eyes are red like the rays of dawn.</em><strong>	</strong><strong>Job 41:12-18</strong></span>
 
 <span class="verse" id="v19"><strong><sup>19</sup></strong><em>Burning torches blaze out of its mouth;</em> <em>	</em><em>	</em><em>	sparks fly from it.</em></span>
 
@@ -65,8 +59,7 @@ weight: 41
 
 <span class="verse" id="v25"><strong><sup>5</sup></strong><em>When it stands up, mighty men scramble</em> <em>	</em><em>	and retreat at its thrashing.</em></span>
 
-<span class="verse" id="v26"><strong><sup>6</sup></strong><em>No sword can hurt it;</em> <em>	</em><em>	</em><em>	neither can a spear, dart, or javelin.</em><strong>	</strong></span>
-<p class="section-ref">Job 41:19-26</p>
+<span class="verse" id="v26"><strong><sup>6</sup></strong><em>No sword can hurt it;</em> <em>	</em><em>	</em><em>	neither can a spear, dart, or javelin.</em><strong>	</strong><strong>Job 41:19-26</strong></span>
 
 <span class="verse" id="v27"><strong><sup>27</sup></strong><em>They glance off like straws;</em> <em>	</em><em>	</em><em>	it deflects bronze </em>weapons <em>like rotten sticks.</em></span>
 
@@ -82,8 +75,7 @@ weight: 41
 
 <span class="verse" id="v33"><strong><sup>3</sup></strong><em>There’s nothing like it on earth;</em> <em>	</em><em>	it’s not afraid of anything.</em></span>
 
-<span class="verse" id="v34"><strong><sup>4</sup></strong><em>It stares down at everything tall;</em> <em>	</em><em>	it’s king over everything arrogant.”</em><strong>	</strong></span>
-<p class="section-ref">Job 41:27-34</p>
+<span class="verse" id="v34"><strong><sup>4</sup></strong><em>It stares down at everything tall;</em> <em>	</em><em>	it’s king over everything arrogant.”</em><strong>	</strong><strong>Job 41:27-34</strong></span>
 
 
 <style>

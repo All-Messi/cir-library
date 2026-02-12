@@ -8,7 +8,7 @@ type: chapter
 weight: 5
 ---
 
-## James Chapter **5**
+## James Chapter 5
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Go now, [the] rich-ones; cry, wailing over the miseries of-you [the] coming-on (you).  <strong><sup>2</sup></strong>The wealth of-you has-rotted, and the clothes of-you have-become moth-eaten.  <strong><sup>3</sup></strong>The gold and the silver of-you has-tarnished, and the rust of-them will-be for (a) witness to-you, and it-will-consume the flesh[es] of-you like fire.  You-treasured (it up) in the last days.  <strong><sup>4</sup></strong>Behold, the pay of-the laborers [the] mowing the fields of-you, [the] withheld by you, cries-out; and the outcries of-the reapers has-entered into the ears of-(the)-Lord of-hosts/Sabaoth.  <strong><sup>5</sup></strong>You-lived-in-self-indulgence on the earth, and you-lived-in-luxury.  You-nourished the hearts of-you in (the) day of-slaughter/butchering; <strong><sup>6</sup></strong>you-condemned; you-put-to-death the Righteous-One.  He-does┘not└resist you.</span>
 

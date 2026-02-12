@@ -8,7 +8,7 @@ type: chapter
 weight: 1
 ---
 
-## Philippians Chapter **1**
+## Philippians Chapter 1
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Paul and Timothy, servants of-Christ Jesus, to-all the saints in Christ Jesus the-ones being in Philippi with elders and deacons. <strong><sup>2</sup></strong>Grace to-you and peace from God (the) Father of us and (the) Lord Jesus Christ.</span>
 

@@ -1,6 +1,6 @@
 ---
 book: Ezekiel
-chapters: 47
+chapters: 48
 title: Ezekiel
 translation: CYV
 type: book
@@ -9,4 +9,6 @@ weight: 26
 
 ## Ezekiel
 
-**47 Chapters**
+**48 Chapters**
+
+Select a chapter to begin reading:

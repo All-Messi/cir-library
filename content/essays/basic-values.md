@@ -1,20 +1,23 @@
 ---
 author: Virgil Warren, PhD
 categories:
+- Essays
 - Topics
 - BASIC CHRISTIANITY
 - Basic Christianity (Book)
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: BASIC VALUES*
 weight: 999
 ---
 
-BASIC VALUES*
+
 
 Each of the following pairs of tendencies can be arranged on a continuum with each set of values conceived of as opposite extremes.
 
-I. Dichotomizing vs. Holistic
+
+I. Dichotomizing <em>vs</em>. Holistic
+
 
 A. Dichotomizing person
 
@@ -26,9 +29,10 @@ A. Dichotomizing person
 
 4. adapts well to a computer usually.
 
-5. stresses systematizing and classifying experiences, ideas, etc.
+5. stresses systematizing and classifying experiences, ideas, <em>etc.</em>
 
 6. receives security from being able to see where everybody “fit in.”
+
 
 B. Holistic person
 
@@ -40,7 +44,9 @@ B. Holistic person
 
 4. feels insecure when placed in a category.
 
-II. Crisis vs. Non-Crisis
+
+II. Crisis <em>vs.</em> Non-Crisis
+
 
 A.	Crisis person
 
@@ -56,6 +62,7 @@ A.	Crisis person
 
 6. gain security from taking advice in decision making.
 
+
 B. Non-crisis person
 
 1. wants to select solutions from various alternatives.
@@ -66,7 +73,9 @@ B. Non-crisis person
 
 4. can go back through a decision point and choose differently.
 
-III. Time-Schedule vs. Event
+
+III. Time-Schedule <em>vs</em>. Event
+
 
 A. Time-schedule person
 
@@ -82,6 +91,7 @@ factors.
 
 5. pays more attention to “special” days.
 
+
 B. Event persons
 
 1. care more about who is there or what is happening than they do about the length of the time period.
@@ -94,7 +104,9 @@ B. Event persons
 
 5. rely more on their own experience than on the experience of others.
 
-IV. Goal vs. Person
+
+IV. Goal <em>vs</em>. Person
+
 
 A. Goal-oriented person
 
@@ -106,6 +118,7 @@ A. Goal-oriented person
 
 4. will press his physical constitution to the limit in achieving.
 
+
 B. Person-oriented person
 
 1. prefers personal interaction to time schedules or goal achievement.
@@ -116,7 +129,9 @@ B. Person-oriented person
 
 4. feels security in the group.
 
-V. Prestige Ascribed vs. Prestige Achieved
+
+V. Prestige Ascribed <em>vs.</em> Prestige Achieved
+
 
 A. Prestige ascribed person
 
@@ -132,6 +147,7 @@ A. Prestige ascribed person
 
 6. seeks to associate mostly with those of similar rank.
 
+
 B. Prestige-achieved person
 
 1. requires prestige in another to be achieved repeatedly.
@@ -140,7 +156,9 @@ B. Prestige-achieved person
 
 3. pays as much attention to statements made by persons without formal credentials as he does to an “expert.”
 
-VI. Vulnerability-Is-Weakness vs. Vulnerability-Is-Strength.
+
+VI. Vulnerability-Is-Weakness <em>vs</em>. Vulnerability-Is-Strength.
+
 
 A. Vulnerability-is-weakness person
 
@@ -156,6 +174,7 @@ A. Vulnerability-is-weakness person
 
 6. speaks vaguely about his personal life.
 
+
 B. Vulnerability-is-strength person
 
 1. finds it easy to admit mistakes.
@@ -168,6 +187,14 @@ B. Vulnerability-is-strength person
 
 5. can tell stories on himself that show his own weakness
 
-Based on Marvin K. Mayers, Christianity Confronts Culture: A Strategy for Cross-Cultural Evangelism. Grand Rapids, MI: Zondervan Publishing House, 1974, pp. 149-54.
+
+
+Based on Marvin K. Mayers, <em>Christianity Confronts Culture: A Strategy for Cross-Cultural Evangelism</em>. Grand Rapids, MI: Zondervan Publishing House, 1974, pp. 149-54.
+
 
 christir.org
+
+
+
+
+

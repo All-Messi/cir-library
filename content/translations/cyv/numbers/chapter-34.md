@@ -9,21 +9,13 @@ type: chapter
 weight: 34
 ---
 
-## Numbers Chapter **34**
+## Numbers Chapter 34
 
-<span class="verse" id="v1"><strong><sup>1-</sup></strong><strong><sup>2</sup></strong>Yahveh told Moses to say to Israel, <em>“</em><em>When you </em><em>go</em><em> into Canaan, </em><strong><sup>3</sup></strong><em>your</em><em> </em><em><u>south border</u></em><em> will </em><em>run</em><em> from the </em><em>Wilderness</em><em> of Zin alongside Edom from the end of the </em><em>Dead</em><em> Sea eastward.</em><em> </em><strong><sup>4</sup></strong><em>Your</em><em> border will turn from the south to the ascent of Akrabbim and go on along to Zin.</em><em> </em><em>It will end south of Kadesh-barnea</em><em>, </em><em>go out to Hazaraddar</em><em>,</em><em> and on along to Azmon.</em><em> </em><strong><sup>5</sup></strong><em>The</em><em> bord</em><em>er will turn from Azmon to where the River of Egypt</em><em> empties into the </em><em>Mediterranean Sea</em><em>.</em><em>	 </em></span>
-<p class="section-ref">Num 34:1-5</p>
+<span class="verse" id="v1"><strong><sup>1-</sup></strong><strong><sup>2</sup></strong>Yahveh told Moses to say to Israel, <em>“</em><em>When you </em><em>go</em><em> into Canaan, </em><strong><sup>3</sup></strong><em>your</em><em> </em><em><u>south border</u></em><em> will </em><em>run</em><em> from the </em><em>Wilderness</em><em> of Zin alongside Edom from the end of the </em><em>Dead</em><em> Sea eastward.</em><em> </em><strong><sup>4</sup></strong><em>Your</em><em> border will turn from the south to the ascent of Akrabbim and go on along to Zin.</em><em> </em><em>It will end south of Kadesh-barnea</em><em>, </em><em>go out to Hazaraddar</em><em>,</em><em> and on along to Azmon.</em><em> </em><strong><sup>5</sup></strong><em>The</em><em> bord</em><em>er will turn from Azmon to where the River of Egypt</em><em> empties into the </em><em>Mediterranean Sea</em><em>.</em><em>	 </em><strong>Num 34:1-5</strong></span>
 
-### 6“Your west border will be the Mediterranean Sea.  	7“Your north border will stretch from the Mediterranean Sea to Mount Hor, 8Lebo-hamath, Zedad, 9Ziphron, and end at Hazar-enan. 10“Your east border will run from Hazar-enan to Shepham 11down to Riblah on the east of Ain down to the slopes east of the Sea of Chinnereth. 12It will go down to the Jordan and on down to the Dead Sea.”
+<span class="verse" id="v13"><strong><sup>3</sup></strong>Moses told Israel, <em>“That’</em><em>s the land you’ll inherit by </em><em>lot,</em><em> land </em><em>Yahveh</em><em> </em><em>told you to give to the-nine-and-a-</em><em>half tribes.</em><em> </em><strong><sup>14-</sup></strong><strong><sup>15</sup></strong><em>Reuben</em><em>, Gad, and the </em><em>Manasseh </em><em>half-tribe </em><em>have received their in</em><em>heritance </em><strong><sup>15</sup></strong><em>beyond</em><em> the Jordan.”</em><em>	 </em><strong>Num 34:6-15</strong> <strong>Leaders for Dividing the Land</strong></span>
 
-
-<span class="verse" id="v13"><strong><sup>3</sup></strong>Moses told Israel, <em>“That’</em><em>s the land you’ll inherit by </em><em>lot,</em><em> land </em><em>Yahveh</em><em> </em><em>told you to give to the-nine-and-a-</em><em>half tribes.</em><em> </em><strong><sup>14-</sup></strong><strong><sup>15</sup></strong><em>Reuben</em><em>, Gad, and the </em><em>Manasseh </em><em>half-tribe </em><em>have received their in</em><em>heritance </em><strong><sup>15</sup></strong><em>beyond</em><em> the Jordan.”</em><em>	 </em></span>
-<p class="section-ref">Num 34:6-15</p>
-
-### Leaders for Dividing the Land
-
-
-<span class="verse" id="v16"><sup><strong>16</strong></sup>Yahveh told Moses, <strong><sup>17</sup></strong><em>“Eleazar</em><em> the priest and Joshua </em><em>Ben-</em><em>Nun will divide up the land.</em><em> </em><strong><sup>18</sup></strong><em>Name</em><em> one leader from each tribe to divide </em><em>it </em><em>up:</em></span>
+<span class="verse" id="v16"><sup class="verse-num">16</sup> Yahveh told Moses,</span>
 
 <span class="verse" id="v19"><strong><sup>19</sup></strong><em>from</em><em> Judah, Caleb Ben-</em><em>Jephunneh;</em></span>
 
@@ -43,7 +35,7 @@ weight: 34
 
 <span class="verse" id="v28"><strong><sup>28</sup></strong><em>from</em><em> Naphtali, Pedahel </em><em>Ben-</em><em>Ammihud.</em><em>”</em><em> </em></span>
 
-<span class="verse" id="v29"><sup><strong>29</strong></sup>Yahveh commissioned those men to divide up Canaan for Israel.</span>
+<span class="verse" id="v29"><sup class="verse-num">29</sup> Yahveh commissioned those men to divide up Canaan for Israel.</span>
 <p class="section-ref">Num 34:16-29</p>
 
 ### Towns for the Levites

@@ -1,6 +1,6 @@
 ---
 book: Genesis
-chapters: 49
+chapters: 50
 title: Genesis
 translation: CYV
 type: book
@@ -9,4 +9,6 @@ weight: 1
 
 ## Genesis
 
-**49 Chapters**
+**50 Chapters**
+
+Select a chapter to begin reading:

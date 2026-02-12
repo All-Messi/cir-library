@@ -9,11 +9,11 @@ type: chapter
 weight: 117
 ---
 
-## Psalms Chapter **117**
+## Psalms Chapter 117
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>Praise Yahveh, every nation; <strong><sup>	</sup></strong>praise him, every people group,</span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Praise Yahveh, every nation; praise him, every people group,</span>
 
-<span class="verse" id="v2"><sup><strong>2</strong></sup>because he has great enduring love toward us. His<sup>Y</sup> faithfulness lasts forever. <strong>Hallelujah!</strong><strong>	</strong></span>
+<span class="verse" id="v2"><sup class="verse-num">2</sup> because he has great enduring love toward us. HisY faithfulness lasts forever. Hallelujah!</span>
 <p class="section-ref">Ps 117:1-2</p>
 
 

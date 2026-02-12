@@ -9,28 +9,28 @@ type: chapter
 weight: 24
 ---
 
-## Psalms Chapter **24**
+## Psalms Chapter 24
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>The earth and everything in it belongs to Yahveh, the world and those who live here.</span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> The earth and everything in it belongs to Yahveh, the world and those who live here.</span>
 
-<span class="verse" id="v2"><sup><strong>2</strong></sup>He positioned land higher than seas, more elevated than ocean currents.</span>
+<span class="verse" id="v2"><sup class="verse-num">2</sup> He positioned land higher than seas, more elevated than ocean currents.</span>
 
-<span class="verse" id="v3"><sup><strong>3</strong></sup>Who can climb his mountain and stand in his holy place?</span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> Who can climb his mountain and stand in his holy place?</span>
 
-<span class="verse" id="v4"><sup><strong>4</strong></sup>People with clean hands and pure hearts, <strong><sup>	</sup></strong><strong><sup>	</sup></strong>who don’t offer themselves up to idols or lie under oath.</span>
+<span class="verse" id="v4"><sup class="verse-num">4</sup> People with clean hands and pure hearts, who don’t offer themselves up to idols or lie under oath.</span>
 
-<span class="verse" id="v5"><sup><strong>5</strong></sup>They’ll receive a blessing from Yahveh, <strong><sup>	</sup></strong><strong><sup>	</sup></strong>goodness from the God who keeps them safe.</span>
+<span class="verse" id="v5"><sup class="verse-num">5</sup> They’ll receive a blessing from Yahveh, goodness from the God who keeps them safe.</span>
 
-<span class="verse" id="v6"><sup><strong>6</strong></sup>That’s the way it is for those who seek him out and worship him—<em>even</em> <em>the </em><em>House of</em> Jacob.</span>
+<span class="verse" id="v6"><sup class="verse-num">6</sup> That’s the way it is for those who seek him out and worship him—even the House of Jacob.</span>
 <p class="section-ref">Ps 24:1-6</p>
 
-<span class="verse" id="v7"><sup><strong>7</strong></sup><strong>Open up</strong><strong>, gates;</strong> <strong>	open</strong><strong> up, everlasting doors,</strong> <strong>	so the glorious King can </strong><strong>enter</strong><strong>!</strong></span>
+<span class="verse" id="v7"><sup class="verse-num">7</sup> Open up, gates; open up, everlasting doors, so the glorious King can enter!</span>
 
-<span class="verse" id="v8"><sup><strong>8</strong></sup><strong>Who is the glorious King?</strong> <strong>	</strong><strong>Yahveh</strong> strong and powerful, Yahveh mighty in battle.</span>
+<span class="verse" id="v8"><sup class="verse-num">8</sup> Who is the glorious King? Yahveh strong and powerful, Yahveh mighty in battle.</span>
 
-<span class="verse" id="v9"><sup><strong>9</strong></sup><strong>Ope up</strong><strong>, gates;</strong> <strong>	</strong><strong>Open up</strong><strong>,</strong><strong> </strong><strong>everlasting doors,</strong> <strong>	so the glorious King can </strong><strong>enter</strong><strong>!</strong></span>
+<span class="verse" id="v9"><sup class="verse-num">9</sup> Ope up, gates; Open up, everlasting doors, so the glorious King can enter!</span>
 
-<span class="verse" id="v10"><sup><strong>10</strong></sup><strong>Who is </strong>the<strong> glorious King?</strong> <strong>	</strong><strong>Yahveh</strong> of Hosts, <u>he</u> is the glorious King.</span>
+<span class="verse" id="v10"><sup class="verse-num">10</sup> Who is the glorious King? Yahveh of Hosts, he is the glorious King.</span>
 <p class="section-ref">Ps 24:7-10</p>
 
 

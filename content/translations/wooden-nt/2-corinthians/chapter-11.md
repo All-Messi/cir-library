@@ -9,7 +9,7 @@ type: chapter
 weight: 11
 ---
 
-## 2 Corinthians Chapter **11**
+## 2 Corinthians Chapter 11
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Oh-that you-would-bear-with me with-respect-to-some little foolishness; and indeed, do-bear-with me. <strong><sup>2</sup></strong>For I-am-jealous-for you with-(a)-jealousy of-God, for I-joined<strong>┘</strong>you└in-marriage to-one husband to-present (you as a) pure virgin. <strong><sup>3</sup></strong>But I-am-afraid lest somehow, as the snake deceived Eve with the treachery/craftiness of-him, the minds of-you should-be-led-astray from the simplicity [and [the] purity]<sup>ms</sup> [the] unto [the] Christ. <strong><sup>4</sup></strong>For if the-one coming preaches another Jesus whom we-did<strong>┘</strong>not└preach, or you-receive (a) different spirit that you-did<strong>┘</strong>not└receive, or (a) different gospel that you-did<strong>┘</strong>not└receive, you-give-patient-attention-to (him). <strong><sup>5</sup></strong>For I-reckon-myself with-respect-to-nothing to-be-inferior to-the outstanding apostles. <strong><sup>6</sup></strong>But even if I-am unskilled in-[the] speech, [but] (I am) not in-[the] knowledge, but in every-way having-made┘(this)└manifest to-you in all-things.</span>
 

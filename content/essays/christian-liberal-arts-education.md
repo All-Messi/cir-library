@@ -1,16 +1,17 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Topics
+- Essays
 - MINISTRY
 - PREPARATION for Ministry
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: CHRISTIAN LIBERAL ARTS EDUCATION
 weight: 999
 ---
 
-CHRISTIAN LIBERAL ARTS EDUCATION
+
+
 
 People have different reasons for getting an education. (a) Education for knowledge is a German emphasis. The goal is accuracy and completeness in any field of study. If anything develops out of that knowledge, well and good; but the stress falls on knowledge for its own sake and the love for learning as such.
 

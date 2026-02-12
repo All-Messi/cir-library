@@ -8,7 +8,7 @@ type: chapter
 weight: 5
 ---
 
-## 1 Thessalonians Chapter **5**
+## 1 Thessalonians Chapter 5
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Now about times and seasons, brothers, you-do┘not└have need (for anything) to-be-written to you.  <strong><sup>2</sup></strong>For you┘yourselves└know correctly/full-well that (the) day of-(the)-Lord comes just like (a) thief at night.  <strong><sup>3</sup></strong>When they-say, <em>“Peace and safety,”</em> then destruction comes-on them unexpected like [the] birth-pangs to-the-one having in (the) stomach, and they-will┘certainly not└escape.  <strong><sup>4</sup></strong>But <u>you</u>, brothers, are not in (the) dark in-order-that the day might-overtake you like (a) thief.  <strong><sup>5</sup></strong>For you all are sons of-light and sons of-day; e-are not (sons) of-night and of-darkness.  <strong><sup>6</sup></strong>So then let-us┘not└sleep like the rest, but let-us-keep-awake and let-us-be-sober.  <strong><sup>7</sup></strong>For the-ones sleeping sleep during-(the)-night and the-ones getting-drunk get-drunk during-(the)-night.  <strong><sup>8</sup></strong>But let-<u>us</u>┘being (sons) of-day└be-sober, having-put-on (the) breastplate of-faith and love and (the)-helmet (as the) hope of-salvation, <strong><sup>9</sup></strong>because he-did┘not└destine us to wrath, but to (the) obtaining of-salvation through the Lord of-us Jesus Christ, <strong><sup>10</sup></strong>the-One having-died on-behalf-of us in-order-that whether we-are-awake or asleep, we-will-live together with him.  <strong><sup>11</sup></strong>Wherefore comfort one-another, and build┘each-other└up even-as also you-are-doing.</span>
 

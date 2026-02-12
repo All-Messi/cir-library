@@ -1,16 +1,15 @@
 ---
 author: Virgil Warren, PhD
 categories:
+- Essays
 - Topics
 - CHRISTIAN DOCTRINE
 - ETHICS
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: THREE THOUGHTS ON ABORTION
 weight: 35
 ---
-
-THREE THOUGHTS ON ABORTION
 
 I.  Not My Body, Not My Choice
 
@@ -38,6 +37,7 @@ Except in the “hard cases,” abortion sets aside “reverence for human life,
 
 Admittedly, the early stages of fetal development do not involve viability aside from total dependence on the mother. But the fact that the “person in progress” is not self-sufficient does not justify ending the pregnancy any more than killing a two-year-old does. Reliance on other people continues in decreasing degrees even up into adulthood; murdering an adult in principle is no different in kind than killing a preborn baby; it is a matter of degree all the way along. Prohibiting the former while advocating the latter illustrates lack of perception; it reveals self-centeredness.
 
+
 Three final notes:
 
 (a) the “adoption option” exists as an amoral alternative to abortion; there is no real need to invoke abortion to solve even a perceived burden that is unbearable under the circumstances.
@@ -46,4 +46,6 @@ Three final notes:
 
 (c) Abortion as a general practice is one more departure from interpersonalism as the highest frame of reference for human life and living.
 
+
 christir.org
+

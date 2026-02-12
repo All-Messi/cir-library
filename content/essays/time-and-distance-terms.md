@@ -1,16 +1,21 @@
 ---
 author: Virgil Warren, PhD
 categories:
+- Essays
+- Topics
 - Greek Features
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: TIME AND DISTANCE TERMS
 weight: 999
 ---
 
-TIME AND DISTANCE TERMS
+
+
 
 The terms in this list are capable of functioning in terms of genitive of time within which, dative of time when, and/or accusative of extent of time.
+
+
 
 ἀιών 				eternity
 
@@ -128,7 +133,10 @@ ejnautivo"			five year
 
 ὥρα				hour, time
 
+
+
 additional time words not likely to be potential for the genitive, dative, accusative-case usage:
+
 
 αἰώνιος			eternal
 
@@ -138,9 +146,9 @@ additional time words not likely to be potential for the genitive, dative, accus
 
 ἅμα				at the same time, together
 
-ἀπ	έραντος			endless [1 Timothy 1:4]
+ἀπ	έραντος			endless [1 Timothy<strong> 1</strong>:4]
 
-ἐκτενής			constant [1 Peter 4:8]
+ἐκτενής			constant [1 Peter <strong><sup>4</sup></strong>:8]
 
 ἐπιούσιος			for today, today's
 
@@ -150,7 +158,10 @@ additional time words not likely to be potential for the genitive, dative, accus
 
 πρόσκαιρος		temporary
 
+
+
 Terms of distance that accusative of extent can apply to.
+
 
 μίλιον				mile
 
@@ -159,5 +170,6 @@ Terms of distance that accusative of extent can apply to.
 στάδιον			stade
 
 σαββάτου ὁδόν	Sabbath day’s journey
+
 
 christir.org

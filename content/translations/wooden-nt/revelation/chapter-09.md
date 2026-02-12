@@ -9,7 +9,7 @@ type: chapter
 weight: 9
 ---
 
-## Revelation Chapter **9**
+## Revelation Chapter 9
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>And the fifth angel trumpeted, and I-saw (a) star out-of the sky having-fallen on the earth, and the/a key of-the pit of-the abyss was-given to-him.  <strong><sup>2</sup></strong>And he-opened the pit of-the abyss, and smoke came-up out-of the pit like (the) smoke of-(a)-large furnace, and the sun and the air was-darkened out-of/by the smoke of-the pit; <strong><sup>3</sup></strong>and out-of the smoke locusts came onto the earth, and authority/power was-given to-them like [the] scorpions of-the earth have authority/power.  <strong><sup>4</sup></strong>And it-was-said to-them [in-order]-that they-would┘not└injure/harm the grass of-the ground/earth nor any green-plant or any tree, except<sup>2</sup>/only<sup>2</sup> the men who do┘not└have the seal of-[the] God on the/their foreheads.  <strong><sup>5</sup></strong>And it-was-given to-them [in-order]-that they-will-torment (them) for five months, and the torment of-them (was) like (the) torment of-(a)-scorpion when it-stings (a) person.  <strong><sup>6</sup></strong>And in [the] those days [the] men will-seek [the] death and will┘certainly not└find it, and they-will-long to-die, and [the] death flees from them.</span>
 

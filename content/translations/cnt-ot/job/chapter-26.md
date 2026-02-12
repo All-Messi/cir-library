@@ -4,22 +4,18 @@ chapter: 26
 next: chapter-27
 prev: chapter-25
 title: Job 26
-translation: COT
+translation: CNT
 type: chapter
 weight: 26
 ---
 
-## Job Chapter **26**
+## Job Chapter 26
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup><strong>Job answered:</strong> <strong><sup>2</sup></strong><em>“What a help you are to the weak!</em> <em>	</em><em>	How you’ve saved arms with no strength!</em></span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> <strong>Job answered:</strong></span>
 
 <span class="verse" id="v3"><strong><sup>3</sup></strong><em>What counsel you’ve given me in my stupidity!</em> <em>	</em><em>	What brilliant insight you’ve provided!</em></span>
 
-<span class="verse" id="v4"><strong><sup>4</sup></strong><em>Who’ve you been talking to?</em> <em>	</em><em>	Whose spirit has been speaking through you?!</em><strong>	</strong></span>
-<p class="section-ref">Job 26:1-4</p>
-
-### 5“The departed spirits tremble 		below the water and its inhabitants.
-
+<span class="verse" id="v4"><strong><sup>4</sup></strong><em>Who’ve you been talking to?</em> <em>	</em><em>	Whose spirit has been speaking through you?!</em><strong>	</strong><strong>Job 26:1-4</strong></span>
 
 <span class="verse" id="v6"><strong><sup>6</sup></strong><em>Sheol is naked in front of him;</em> <em>	</em><em>	Abaddon has no covering </em>before him<em>.</em></span>
 
@@ -37,8 +33,7 @@ weight: 26
 
 <span class="verse" id="v13"><strong><sup>3</sup></strong><em>He clears </em>clouds from <em>the sky with his breath</em> <em>	</em><em>	and wounds the </em>celestial <em>fleeing Serpent with his hand.</em></span>
 
-<span class="verse" id="v14"><strong><sup>4</sup></strong><em>These are just fringes of what he does:</em> <em>	</em><em>	his faint whisper!</em> <em>	</em><em>	his loud thunder!</em> <em>	</em><em>	</em><em>	Who can comprehend his power?”</em><strong>	</strong></span>
-<p class="section-ref">Job 26:5-14</p>
+<span class="verse" id="v14"><strong><sup>4</sup></strong><em>These are just fringes of what he does:</em> <em>	</em><em>	his faint whisper!</em> <em>	</em><em>	his loud thunder!</em> <em>	</em><em>	</em><em>	Who can comprehend his power?”</em><strong>	</strong><strong>Job 26:5-14</strong></span>
 
 
 <style>

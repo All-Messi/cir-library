@@ -10,3 +10,5 @@ weight: 30
 ## Amos
 
 **9 Chapters**
+
+Select a chapter to begin reading:

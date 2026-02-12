@@ -2,14 +2,14 @@
 book: 1 Corinthians
 chapter: 14
 next: chapter-15
-prev: chapter-12
+prev: chapter-13
 title: 1 Corinthians 14
 translation: WNT
 type: chapter
 weight: 14
 ---
 
-## 1 Corinthians Chapter **14**
+## 1 Corinthians Chapter 14
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Pursue [the] love, and earnestly-desire [the] spiritual (gifts), but specifically in-order-that you-may-be-prophesying. <strong><sup>2</sup></strong>Ffor the-one speaking in (a) language is┘not└speaking to-men but to-God, because nobody is-understanding; but by-(the)-Spirit he-speaks mysteries. <sup>3</sup>But the-one prophesying speaks to-men edification and exhortation and consolation. <strong><sup>4</sup></strong>The-one speaking in-(a)-language builds┘himself└up, but the-one prophesying builds┘(the) church└up. <strong><sup>5</sup></strong>Now I-am-willing for you all to-speak in-languages, but specifically in-order-that you-may-be-prophesying. And the-one prophesying (is) greater than the-one speaking in-languages unless<sup>3</sup> he-translates in-order-that the church may-receive edification.</span>
 
@@ -19,7 +19,7 @@ weight: 14
 
 <span class="verse" id="v20"><strong><sup>0</sup></strong>Brothers, do┘not└be children in-the/your thinking, but in-respect-to-[the] evil be-children, and in-the/your minds be mature. <strong><sup>21</sup></strong>In the Law it-has-been-written [that], <strong>“</strong><strong>‘</strong><strong>With foreign-speaking-ones</strong> <strong>	</strong><strong>	</strong><strong>	</strong><strong>a</strong><strong>nd with (the) lips of strangers</strong> <strong>	</strong><strong>	I-will-speak to-[the] </strong><strong>this</strong><strong> people,</strong> <strong>	</strong><strong>	</strong><strong>	</strong><strong>a</strong><strong>nd not-even </strong>so <strong>will-they-listen</strong>-to me,’ says (the) Lord.”</span>
 
-<span class="verse" id="v22"><sup><strong>22</strong></sup>So [the] languages are [for (a) sign, not to-[the] believers, but to-[the] unbelievers, but [the] prophecy (is) not for-[the] unbelievers, but for-[the] believers. <strong><sup>23</sup></strong>If then the whole church comes together<sup>3</sup>, and all are-speaking in languages, and ungifted-ones or unbelieving-ones come-in, will-they┘not└say that you-are crazy? <strong><sup>24</sup></strong>But if all are-prophesying and (a) certain unbelieving-one or ungifted-one comes-in, he-will-be-convicted by all; he-will-be-called-to-account by all. <strong><sup>25</sup></strong>The hidden-things of-the heart of-him become manifest, and so, having-fallen on (his) face, he-will-worship [the] God, declaring [that], “Surely [the] God is among you.”</span>
+<span class="verse" id="v22"><sup class="verse-num">22</sup> So [the] languages are [for (a) sign, not to-[the] believers, but to-[the] unbelievers, but [the] prophecy (is) not for-[the] unbelievers, but for-[the] believers. <strong><sup>23</sup></strong>If then the whole church comes together<sup>3</sup>, and all are-speaking in languages, and ungifted-ones or unbelieving-ones come-in, will-they┘not└say that you-are crazy? <strong><sup>24</sup></strong>But if all are-prophesying and (a) certain unbelieving-one or ungifted-one comes-in, he-will-be-convicted by all; he-will-be-called-to-account by all. <strong><sup>25</sup></strong>The hidden-things of-the heart of-him become manifest, and so, having-fallen on (his) face, he-will-worship [the] God, declaring [that], “Surely [the] God is among you.”</span>
 
 <span class="verse" id="v26"><strong><sup>6</sup></strong>What is-it then, brothers? When you-assemble, each has (a) psalm, has (a) teaching, has (a) revelation, has (a) language, has (a) translation. Let┘all-things└be to edification. <strong><sup>27</sup></strong>If anybody is-speaking in-(a)-language, (let it be) by two or [the] at-the most three and in turn; and let┘one└translate. <strong><sup>28</sup></strong>And if there-is not (a) translator, let-him-be-silent. <strong><sup>31</sup></strong>For you are-able one-at-(a)-time to-prophesy, in-order-that all may-learn and all may-be-encouraged. <strong><sup>32</sup></strong>And (the) spirits of-(the)-prophets are-subject to-(the)-prophets, <strong><sup>33</sup></strong>for [the] God is not (a God) of-confusion, but of-peace. As in all the churches of-the saints, <strong><sup>34</sup></strong>let┘└the women be-quiet in the church-services. Speaking is┘not└permitted to-them, but let-them-be-in deference, even-as the Law also says. <strong><sup>35</sup></strong>And if they-want to-learn-about something, let-them-ask their husbands at home. For it-is embarrassing for (a) woman to-speak in church. <strong><sup>36</sup></strong>Or did┘the word of-[the] God└go-out from you, or did-it-come to you only?</span>
 

@@ -8,24 +8,20 @@ type: chapter
 weight: 1
 ---
 
-## Exodus Chapter **1**
+## Exodus Chapter 1
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>Israel’s descendants and their households that went to Egypt with Jacob: <strong><sup>2</sup></strong>Reuben, Simeon, Levi, Judah, <strong><sup>3</sup></strong>Issachar, Zebulun, Benjamin, <strong><sup>4</sup></strong>Dan, Naphtali, Gad, and Asher: <strong><sup>5</sup></strong>70 people (though Joseph was <em>already</em> there)</span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Israel’s descendants and their households that went to Egypt with Jacob: <strong><sup>2</sup></strong>Reuben, Simeon, Levi, Judah, <strong><sup>3</sup></strong>Issachar, Zebulun, Benjamin, <strong><sup>4</sup></strong>Dan, Naphtali, Gad, and Asher: <strong><sup>5</sup></strong>70 people (though Joseph was <em>already</em> there)</span>
 
-<span class="verse" id="v6"><sup><strong>6</strong></sup>That whole generation died, <strong><sup>7</sup></strong>but Israel’s descendants multiplied and became so numerous they filled the country.</span>
+<span class="verse" id="v6"><sup class="verse-num">6</sup> That whole generation died, <strong><sup>7</sup></strong>but Israel’s descendants multiplied and became so numerous they filled the country.</span>
 <p class="section-ref">Ex 1:1-7</p>
 
 ### The Israelites Oppressed
 
 
-<span class="verse" id="v8"><sup><strong>8</strong></sup>In time, a new king came to power in Egypt who didn’t know Joseph. <strong><sup>9</sup></strong>He told his people, <em>“There are too many Israelites, and they’re too strong. </em><strong><sup>10</sup></strong><em>Let’s deal with them wisely so, if there’s war, they won’t join our enemies and leave.” </em><strong><sup>11</sup></strong>They appointed taskmasters and subjected the <em>Israelites</em> to hard labor. They built storage cities for Pharaoh: Pithom and Raamses. <strong><sup>12</sup></strong>But the more they mistreated them, the more they multiplied and spread. The <em>Egyptians</em> were afraid of them [<strong><sup>13</sup></strong>] <strong><sup>14</sup></strong>and made their lives miserable, making bricks and mortar and laboring in the fields.</span>
+<span class="verse" id="v8"><sup class="verse-num">8</sup> In time, a new king came to power in Egypt who didn’t know Joseph. <strong><sup>9</sup></strong>He told his people, <em>“There are too many Israelites, and they’re too strong. </em><strong><sup>10</sup></strong><em>Let’s deal with them wisely so, if there’s war, they won’t join our enemies and leave.” </em><strong><sup>11</sup></strong>They appointed taskmasters and subjected the <em>Israelites</em> to hard labor. They built storage cities for Pharaoh: Pithom and Raamses. <strong><sup>12</sup></strong>But the more they mistreated them, the more they multiplied and spread. The <em>Egyptians</em> were afraid of them [<strong><sup>13</sup></strong>] <strong><sup>14</sup></strong>and made their lives miserable, making bricks and mortar and laboring in the fields.</span>
 <p class="section-ref">Ex 1:8-14</p>
 
-<span class="verse" id="v15"><sup><strong>15</strong></sup>The king told the Hebrew midwives Shiphrah and Puah, <strong><sup>16</sup></strong><em>“When you’re helping the Hebrew women on the birth stool, kill the boys.” </em><strong><sup>17</sup></strong>But the midwives respected God and let them live. <strong><sup>18</sup></strong>The king called them in and asked, <em>“Why have you let the boys live?” </em> <strong><sup>19</sup></strong><em>“Hebrew women aren’t like Egyptian women. They deliver quickly before midwives can get there.” </em><strong><sup>20</sup></strong>God was good to the midwives, and the people kept multiplying. <strong><sup>21</sup></strong>Because the midwives respected God, he gave them families of their own. <strong><sup>22</sup></strong>Pharaoh kept telling his people to throw the boys in the Nile but keep the girls.<em>	</em></span>
-<p class="section-ref">Ex 1:15-22</p>
-
-### The Birth of Moses
-
+<span class="verse" id="v15"><sup class="verse-num">15</sup> The king told the Hebrew midwives Shiphrah and Puah, <strong><sup>16</sup></strong><em>“When you’re helping the Hebrew women on the birth stool, kill the boys.” </em><strong><sup>17</sup></strong>But the midwives respected God and let them live. <strong><sup>18</sup></strong>The king called them in and asked, <em>“Why have you let the boys live?” </em></span>
 
 
 <style>

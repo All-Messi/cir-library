@@ -8,7 +8,7 @@ type: chapter
 weight: 6
 ---
 
-## Ephesians Chapter **6**
+## Ephesians Chapter 6
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>[The] children, obey the parents of-you in (the) Lord, for this is right. <strong><sup>2</sup></strong><strong>“</strong><strong>Honor</strong><strong> the father of-you and the mothers,”</strong> which is (the) first commandment with promise, <strong><sup>3</sup></strong><strong>“in-order-that it-may-be well with-you</strong><strong>,</strong><strong> and you-will-be </strong><strong>(a) long-time on the earth.”</strong> <strong><sup>4</sup></strong>And [the] fathers, do┘not└make┘the children of-you└resentful, but raise them in (the) discipline and instruction of-(the)-Lord. <strong><sup>5</sup></strong>[The] slaves, obey the/your masters according-to (the) flesh with fear and trembling with sincerity of-the heart of-you as to-[the[ Christ, <strong><sup>6</sup></strong>not according-to eye-service as men-pleasers, but as slaves of-Christ, doing the will of-[the] God from (the) soul, <strong><sup>7</sup></strong>with good-will serving as [the] Lord and not men, <strong><sup>8</sup></strong>knowing that if you┘each└do anything good, this will-be-received-back from (the) Lord whether slave or free. <strong><sup>9</sup></strong>And [the] lords, do the same-things to them, ceasing [the] threatening, knowing that both the Lord of-them and of-you is in heaven[s], and respect-of-persons is not with him.</span>
 

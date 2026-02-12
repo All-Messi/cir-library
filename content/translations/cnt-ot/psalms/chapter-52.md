@@ -4,30 +4,35 @@ chapter: 52
 next: chapter-53
 prev: chapter-51
 title: Psalms 52
-translation: COT
+translation: CNT
 type: chapter
 weight: 52
 ---
 
-## Psalms Chapter **52**
+## Psalms Chapter 52
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>God’s enduring love lasts all day; <strong><sup>	</sup></strong>so why brag about sinning, great soldier?</span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> God’s enduring love lasts all day; so why brag about sinning, great soldier?</span>
 
-<span class="verse" id="v2"><sup><strong>2</strong></sup>Your tongue cuts like a razor.</span>
+<span class="verse" id="v2"><sup class="verse-num">2</sup> Your tongue cuts like a razor.</span>
 
-<span class="verse" id="v3"><sup><strong>3</strong></sup>You like evil more than good, falsehood more than truth.</span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> You like evil more than good, falsehood more than truth.</span>
 
-<span class="verse" id="v4"><sup><strong>4</strong></sup>You like words that devour <em>and a </em>lying tongue that deceives.<strong>	</strong></span>
+<span class="verse" id="v4"><sup class="verse-num">4</sup> You like words that devour and a lying tongue that deceives.</span>
 
-<span class="verse" id="v5"><sup><strong>5</strong></sup>But God will strike you down once and for all; <strong><sup>	</sup></strong>he’ll pull you out of your tent and uproot you from the land of the living.<strong> </strong></span>
+<span class="verse" id="v5"><sup class="verse-num">5</sup> But God will strike you down once and for all; he’ll pull you out of your tent and uproot you from the land of the living.</span>
 <p class="section-ref">Ps 52:1-5</p>
 
-<span class="verse" id="v6"><sup><strong>6</strong></sup>Good people will see it and be amazed; they’ll laugh at you and say, <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>7</sup></strong><em>“L</em><em>ook at the m</em><em>e</em><em>n that wouldn’</em><em>t t</em><em>ake </em><em>refuge in </em><em>God,</em> <em>	</em><em>	</em><em>	</em><em>but trusted in </em><em>their</em><em> </em><em>great </em><em>wealth</em> <em>	</em><em>	</em><em>	</em><em>and </em><em>used their</em><em> </em><em>strength to</em><em> destroy.”</em></span>
+<span class="verse" id="v6"><sup class="verse-num">6</sup> Good people will see it and be amazed; they’ll laugh at you and say,</span>
 
-<span class="verse" id="v8"><sup><strong>8</strong></sup>But <u>I</u>’m like a green olive tree in God’s house; <sup>	</sup>I’ll always trust in his enduring love<strong>.</strong></span>
+<span class="verse" id="v7"><sup class="verse-num">7</sup> Look at the men that wouldn’t take refuge in God, but trusted in their great wealth and used their strength to destroy.”</span>
 
-<span class="verse" id="v9"><sup><strong>9</strong></sup>I’ll be eternally grateful for what he’s done, <sup>	</sup>and depend on him in front of his holy people because that’s good.</span>
+<span class="verse" id="v8"><sup class="verse-num">8</sup> But I’m like a green olive tree in God’s house; I’ll always trust in his enduring love.</span>
+
+<span class="verse" id="v9"><sup class="verse-num">9</sup> I’ll be eternally grateful for what he’s done, and depend on him in front of his holy people because that’s good.</span>
 <p class="section-ref">Ps 52:6-9</p>
+
+### A Maskil of David
+
 
 
 <style>

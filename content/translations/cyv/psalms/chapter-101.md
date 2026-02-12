@@ -9,25 +9,28 @@ type: chapter
 weight: 101
 ---
 
-## Psalms Chapter **101**
+## Psalms Chapter 101
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>I’ll sing about your enduring love and justice, and sing praises to you, Yahveh.</span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> I’ll sing about your enduring love and justice, and sing praises to you, Yahveh.</span>
 
-<span class="verse" id="v2"><sup><strong>2</strong></sup>I’ll pay attention to the way that’s blameless; when will you come to help me? In my home I’ll walk in integrity.</span>
+<span class="verse" id="v2"><sup class="verse-num">2</sup> I’ll pay attention to the way that’s blameless; when will you come to help me? In my home I’ll walk in integrity.</span>
 
-<span class="verse" id="v3"><sup><strong>3</strong></sup>I won’t set anything base beside me; I’ll hate what they do who fall away; I’ll stay away from them.</span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> I won’t set anything base beside me; I’ll hate what they do who fall away; I’ll stay away from them.</span>
 
-<span class="verse" id="v4"><sup><strong>4</strong></sup>I’ll cast perverse things out of my heart and have nothing to do with evil.</span>
+<span class="verse" id="v4"><sup class="verse-num">4</sup> I’ll cast perverse things out of my heart and have nothing to do with evil.</span>
 
-<span class="verse" id="v5"><sup><strong>5</strong></sup>I’ll withdraw from anyone that slanders another; I won’t put up with people that have haughty looks or arrogant hearts.<strong> </strong></span>
+<span class="verse" id="v5"><sup class="verse-num">5</sup> I’ll withdraw from anyone that slanders another; I won’t put up with people that have haughty looks or arrogant hearts.</span>
 <p class="section-ref">Ps 101:1-5</p>
 
-<span class="verse" id="v6"><sup><strong>6</strong></sup>I’ll focus my attention on the faithful <strong><sup>	</sup></strong>to be my friends. Those who follow the blameless way are the ones that will be my servants.</span>
+<span class="verse" id="v6"><sup class="verse-num">6</sup> I’ll focus my attention on the faithful to be my friends. Those who follow the blameless way are the ones that will be my servants.</span>
 
-<span class="verse" id="v7"><sup><strong>7</strong></sup>I won’t let deceivers serve in my Temple; liars won’t maintain their relationship with me.</span>
+<span class="verse" id="v7"><sup class="verse-num">7</sup> I won’t let deceivers serve in my Temple; liars won’t maintain their relationship with me.</span>
 
-<span class="verse" id="v8"><sup><strong>8</strong></sup>Each morning I’ll destroy the wicked in the land and rid the city of Yahveh of everyone that sins.<strong> </strong></span>
+<span class="verse" id="v8"><sup class="verse-num">8</sup> Each morning I’ll destroy the wicked in the land and rid the city of Yahveh of everyone that sins.</span>
 <p class="section-ref">Ps 101:6-8</p>
+
+### A Prayer by the Oppressed When They’re Faint and Pour Out Their Complaint to Yahveh
+
 
 
 <style>

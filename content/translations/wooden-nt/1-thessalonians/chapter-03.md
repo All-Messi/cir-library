@@ -9,7 +9,7 @@ type: chapter
 weight: 3
 ---
 
-## 1 Thessalonians Chapter **3**
+## 1 Thessalonians Chapter 3
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Wherefore, being┘no-longer└able-to-put-up-with (it), we-thought-it-best to-be-left-behind in Athens alone, <strong><sup>2</sup></strong>and sent Timothy, the brother of-us and fellow-worker of-[the] God in the gospel of-[the] Christ, unto [the] strengthening you and encouraging (you) on-behalf-of the faith of-you <strong><sup>3</sup></strong>to┘[the] nobody’s└being-disturbed by [the] these tribulations, for you┘yourselves└know that we-are-destined for this.  <strong><sup>4</sup></strong>For even when we-were with you, we-were-telling┘you└beforehand that we-would be-afflicted even-as also it-happened and you-know (it).  <strong><sup>5</sup></strong>On-account-of this I-also, no-longer able-to-endure, sent unto the knowing the faith of-you, lest the-one putting┘us└to-the-test might┘somehow└tempt you, and the labor of-us would-have-been in vain.</span>
 

@@ -1,6 +1,6 @@
 ---
 book: 2 Corinthians
-chapters: 11
+chapters: 13
 title: 2 Corinthians
 translation: WNT
 type: book
@@ -9,4 +9,6 @@ weight: 47
 
 ## 2 Corinthians
 
-**11 Chapters**
+**13 Chapters**
+
+Select a chapter to begin reading:

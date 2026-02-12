@@ -1,16 +1,17 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Topics
+- Essays
 - MINISTRY
 - Christian Ministry 102
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: A MINISTER’S FILING SYSTEM
 weight: 999
 ---
 
-A MINISTER’S FILING SYSTEM
+
+
 
 You will not remember! That is the bottom line when it comes to libraries and filing systems. The efficiency with which a minister discharges his responsibilities is directly proportionate to the degree of ready access he has to his materials. The quality of his work is determined by the extent to which he can organize and preserve the information that he generates and that comes to him from a wide range of sources. A person needs to organize his files because he will remember only a small percent of what he learns and needs to know.
 
@@ -20,51 +21,73 @@ Be sure to have materials on hand for preserving information: folders, 3 x 5 car
 
 There are several minister’s filing systems on the market. Many of them are too complicated for practical purposes unless a person has a very capable secretary to keep them up to date. This problem applies particularly to something like Memory-O-Matic. You want to have a system that requires little recopying of information as possible.
 
-There are two important guidelines for filing a system: (1) it must be expandable, and (2) it must be simple enough to remember. In the beginning your folders can be more general. For example, you may simply have a folder called “Salvation.” Before long, however, that folder will become too thick. At that point you can sub-divide it into smaller categories: atonement, faith and works, perseverance, predestination, etc., depending on how the collection is growing. Keep the general folder for articles that make a broad sweep through several of these topics. An expandable approach allows you filing system to grow according to the emphasis of your ministry, something not predictable ahead of time. You do not have to begin with a folder for every conceivable sub-heading under the subjects you use. An expandable approach also allows you filing system to handle different degrees of specificness within topics. General folders (“Salvation”) can be placed ahead of the more detailed ones that are related to them.
+There are two important guidelines for filing a system: (1) it must be expandable, and (2) it must be simple enough to remember. In the beginning your folders can be more general. For example, you may simply have a folder called “Salvation.” Before long, however, that folder will become too thick. At that point you can sub-divide it into smaller categories: atonement, faith and works, perseverance, predestination,<em> etc</em>., depending on how the collection is growing. Keep the general folder for articles that make a broad sweep through several of these topics. An expandable approach allows you filing system to grow according to the emphasis of your ministry, something not predictable ahead of time. You do not have to begin with a folder for every conceivable sub-heading under the subjects you use. An expandable approach also allows you filing system to handle different degrees of specificness within topics. General folders (“Salvation”) can be placed ahead of the more detailed ones that are related to them.
+
 
 The following scheme falls into five groupings: (1) biblical, which includes critical introduction and a format that follows the layout of biblical books; (2) theological, which covers doctrine topically; (3) practical, which covers Christian living; (4) ministerial, which deals with Christian service, and (5) general, which picks up several sets of topics not included under the other four.
 
-In addition to the categories offered here, you may find it helpful to consult a resource like Paul Gericke, The Minister’s Filing System (Grand Rapids, MI: Baker Book House, 1978).
+In addition to the categories offered here, you may find it helpful to consult a resource like Paul Gericke<em>, </em><em><u>The Minister’s Filing System</u></em> (Grand Rapids, MI: Baker Book House, 1978).
+
+
 
 I. BIBLICAL STUDIES
 
+
 A. Introduction
 
+
 1. Critical Introduction to the Bible
+
 
 A. Critical Introduction to the Old Testament (if this section grows large enough, you may have a folder for each book)
 
 B.	Critical Introduction to the New Testament (if this section grows large enough, you may have a folder for each book)
 
+
 2.	Apocrypha
+
 
 3.	Pseudepigrapha
 
+
 B.	Textual Criticism
+
 
 C. Hermeneutics (suggested sub-topics can be found in the layout of the Interpretation course or the outline of a book on interpretation)
 
+
 D. Biblical Languages
+
 
 1. Hebrew
 
 2. Greek
 
+
 E. Archaeology
+
 
 F. Exegesis
 
+
 The breakdown here may begin with a folder per book. Later as need arises, there may be a folder for each chapter of some books. A similar system could be set up in notebooks, but bookshelves are not wide enough or deep enough to store them neatly. If need be, there may be one page per verse within each chapter’s folder.
+
+
 
 II. THEOLOGICAL STUDIES
 
+
 The large headings may be arranged alphabetically by standard designations or according to some natural progression that makes sense to you. Below is an alphabetical arrangement in formal terminology. A logical sequence could be based on the headings in Christian Doctrine I and II: Interpersonalism, revelation (nature and scripture), God (trinity, Father, Son, Spirit), creation and providence (man, angels, providence, miracle), salvation (faith, atonement, baptism), dispensations, Christian life and worship, eschatology.
+
 
 A.	Angels (angelology): use of the term angel; classes of angels (demons, Satan; unfallen angels, archangels, cherubs, seraphs); nature of angels, work of angels
 
+
 B.	Man (anthropology): image of God, male-female, depravity, conditional immortality (see “eschatology”)
 
+
 C.	Church (ecclesiology)
+
 
 1.	nature: non-denominationalism, interdenominationalism, denominationalism
 
@@ -90,9 +113,12 @@ C.	Church (ecclesiology)
 
 12.	church discipline and restoration
 
+
 D. Creation (cosmology) and providence: predestination
 
+
 E. Last Things (eschatology)
+
 
 1.	death (Near Death Experiences)
 
@@ -116,7 +142,9 @@ E. Last Things (eschatology)
 
 8.	miscellaneous: “man of sin,” “antichrist,” “two witnesses”
 
+
 F. Christian Living (ethics)
+
 
 1. 	ethical theory
 
@@ -170,7 +198,7 @@ fertilization in vitro (artificial insemination)
 
 fetal tissue research
 
-gambling (bingo, casinos, lottery; betting on athletic contests, horses, cock fights, greyhound races, etc.)
+gambling (bingo, casinos, lottery; betting on athletic contests, horses, cock fights, greyhound races,<em> etc</em>.)
 
 genetic engineering
 
@@ -236,7 +264,9 @@ work (labor unions, right-to-work laws, strikes),
 
 child)
 
+
 G. Revelation: general revelation, special revelation (bibliology: authenticity, authority, credibility, illumination, inerrancy, infallibility, inspiration/God-breathedness (canonicity, verbal inspiration, plenary inspiration, dynamic inspiration), integrity, perspicuity, sufficiency, progressive revelation, credalism, etc.
+
 
 H. Salvation (soteriology):
 
@@ -266,11 +296,13 @@ treasury of the saints
 
 indulgences
 
+
 I. God (theology proper)
+
 
 1. Characteristics of deity: interpersonality, omnipotence, omniscience, immutability, omnipresence (foreknowledge and free will), sovereignty, spirituality, love/lovingkindness, holiness, grace and mercy, justice, wrath
 
-2. Trinity (vs. monarchianism, tritheism; see below under “Antibiblical Views of
+2. Trinity (<em>vs</em>. monarchianism, tritheism; see below under “Antibiblical Views of
 
 God”)
 
@@ -288,6 +320,7 @@ resurrection (see also under “Apologetics”)
 
 ascension
 
+
 5.	Holy Spirit (pneumatology)
 
 nature of the Spirit: personality, deity
@@ -301,6 +334,7 @@ exorcism, duration of miraculous manifestation.
 For additional categories, see class notes for Gifts of the Spirit.
 
 6.	Views of God: agnosticism, animism, atheism, deism, dialecticism, docetism, fetishism, god of the gaps, henotheism, monarchianism (dualistic, adoptionistic), pantheism, panentheism, polytheism, theism, totemism,
+
 
 J. Corporate Worship:
 
@@ -326,7 +360,9 @@ icons and relics
 
 veneration/adoration of the saints
 
+
 K. Apologetics (Christian evidences)
+
 
 1.	Archaeology
 
@@ -344,11 +380,16 @@ K. Apologetics (Christian evidences)
 
 7.	Theodicy (problem of evil, problem of pain/suffering)
 
+
 In some lists of topics the terms ordinances or sacraments is a separate heading that covers baptism and communion/eucharist/Lord’s Supper (as well as footwashing) and the other five enumerated in the Roman Catholic church: confirmation, matrimony, extreme unction, holy orders, penance.
+
+
 
 III. Practical Christian Living (note topics for the Basic Christianity)
 
+
 A. Vertical
+
 
 1. Worship: meditation, celebration, communion,
 
@@ -370,7 +411,9 @@ A. Vertical
 
 10.	Love
 
+
 B.	Horizontal items with and asterisk could be put under the “Ministry” category)
+
 
 1.	Marriage
 
@@ -388,7 +431,9 @@ B.	Horizontal items with and asterisk could be put under the “Ministry” cate
 
 8.	Weaker-brother relationships
 
+
 C.	Personal
+
 
 1.	Sanctification
 
@@ -411,3 +456,4 @@ C.	Personal
 10.	Mind
 
 11.	Suffering
+

@@ -9,7 +9,7 @@ type: chapter
 weight: 7
 ---
 
-## Romans Chapter **7**
+## Romans Chapter 7
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Or are-you-ignorant, brothers—for I-am-speaking to-ones-knowing (the) Law—that the law rules the/a person for such┘time└as he is alive? <strong><sup>2</sup></strong>For the/a married woman is-bound by-Law to-the/a living husband. But if the/a husband dies, she-is-released from the law of-the husband. <strong><sup>3</sup></strong>So then, the husband living, she-will-be called (an) adulteress if she-becomes to-another man. But if the/a husband dies, she-is-free from the law, unto her not being (an) adulteress, having-become to-another man; <strong><sup>4</sup></strong>so-that, my brothers, you also were-put-to-death with-respect-to-the Law through the body of-[the] Christ, unto [the] your becoming to-another, to-the-one having-been-raised from (the) dead in-order-that we-might-bear-fruit to-[the] God. <strong><sup>5</sup></strong>For when we-were in the flesh, the passions/lusts of-[the] sins that (were) through the Law were-at-work in the members of-us unto [the] bearing-fruit to-[the] death. <strong><sup>6</sup></strong>But now we-were-released from the Law, having-died in that-to-which we-were-held-fast with-the-result-that us to-be-serving in (the) newness of-(the)-spirit, and not (in the) oldness of-(the)-letter.</span>
 

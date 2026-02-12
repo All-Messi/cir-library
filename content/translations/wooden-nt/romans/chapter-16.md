@@ -8,7 +8,7 @@ type: chapter
 weight: 16
 ---
 
-## Romans Chapter **16**
+## Romans Chapter 16
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Now I-commend to-you Phoebe, the sister of-us, being [also]<sup>ms</sup> (a) servant of-the church [the] in Cenchrea, <strong><sup>2</sup></strong>in-order-that you-welcome her in (the) Lord in-a-way-worthy of-[the] saints and (that you-help her in whatever<sup>2</sup> matter she-may-have-need of you; for she also was (a) helper of-many—and └of-me myself.</span>
 

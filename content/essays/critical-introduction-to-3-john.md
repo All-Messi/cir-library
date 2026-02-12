@@ -1,16 +1,15 @@
 ---
 author: Virgil Warren, PhD
 categories:
+- Essays
 - EVIDENCES
-- CRITICAL INTRODUCTION -  New Testament
-- 1 2 3 JOHN
-date: '2026-01-23'
+- CRITICAL INTRODUCTION - New Testament
+- 1-2-3 JOHN
+date: '2026-02-12'
 draft: false
 title: CRITICAL INTRODUCTION TO 3 JOHN
 weight: 38
 ---
-
-CRITICAL INTRODUCTION TO 3 JOHN
 
 I. Authorship
 
@@ -25,3 +24,4 @@ III. Date of Writing
 There is little to establish a date except the lifetime of John the apostle, although it is usually thought by conservatives that 2 and 3 John were written at nearly the same time for similar reasons.
 
 christir.org
+

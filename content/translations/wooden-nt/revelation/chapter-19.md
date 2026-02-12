@@ -9,11 +9,11 @@ type: chapter
 weight: 19
 ---
 
-## Revelation Chapter **19**
+## Revelation Chapter 19
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>After these-things I-heard as-it-were (the) loud voice of-(a)-large multitude in [the] heaven, saying, <em>“</em><em>Halleluia;</em> <em>	</em><em>	</em><em>	[The] salvation and [the] glory and the power of-the God of-us,</em></span>
 
-<span class="verse" id="v2"><sup><strong>2</strong></sup><em>	</em><strong><sup>2</sup></strong><em>because</em><em> the judgments of-you (a</em><em>r</em><em>e) true and just, </em> <em>	</em><em>	</em><em> </em><em> </em><em>b</em><em>ecause he-judged the great [the] prostitute that corrupted </em> <em>	</em><em>	</em><em>	the earth with the immorality of-her,</em> <em>	</em><em>	</em><em> </em><em> </em><em>and the blood of-the servants of-him he-avenged from (the) hand of-it.</em></span>
+<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>	</em><strong><sup>2</sup></strong><em>because</em><em> the judgments of-you (a</em><em>r</em><em>e) true and just, </em> <em>	</em><em>	</em><em> </em><em> </em><em>b</em><em>ecause he-judged the great [the] prostitute that corrupted </em> <em>	</em><em>	</em><em>	the earth with the immorality of-her,</em> <em>	</em><em>	</em><em> </em><em> </em><em>and the blood of-the servants of-him he-avenged from (the) hand of-it.</em></span>
 
 <span class="verse" id="v3"><strong><sup>3</sup></strong>And (a)-second-(time) they-said, <em>“Halleluia,</em> <em>	</em><em>	</em><em>	and the smoke of-it goes-up </em><em>unto the ages of the ages/forevermore</em><em>.”</em></span>
 
@@ -23,9 +23,9 @@ weight: 19
 
 <span class="verse" id="v6"><strong><sup>6</sup></strong>And I-heard as-it-were (the) sound of-(a)-large crowd and as-it-were (the) sound of-many-waters and as-it-were (the) sound of thunders, saying, <em>“Halleluia,</em> <em>	</em><em>	</em><em>	because (the) Lord reigned</em><em>/</em><em>reigns</em><em>,</em> <em>the God [of-us]</em><em><sup>ms</sup></em><em>, the Almighty</em><em>.</em></span>
 
-<span class="verse" id="v7"><sup><strong>7</strong></sup><em>	</em><strong><sup>7</sup></strong><em>Let</em><em>-us-rejoice and let-us-be-glad</em><em>,</em> <em>	</em><em>	</em><em>	</em><em>a</em><em>nd </em><em>let-us-give [the] glory to-</em><em>him;</em> <em>	</em><em>	</em><em>b</em><em>ecause the wedding/marriage of-the Lamb came,</em> <em>	</em><em>	</em><em>	</em><em>a</em><em>nd the wife of-him prepared </em><em>herself;</em></span>
+<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>	</em><strong><sup>7</sup></strong><em>Let</em><em>-us-rejoice and let-us-be-glad</em><em>,</em> <em>	</em><em>	</em><em>	</em><em>a</em><em>nd </em><em>let-us-give [the] glory to-</em><em>him;</em> <em>	</em><em>	</em><em>b</em><em>ecause the wedding/marriage of-the Lamb came,</em> <em>	</em><em>	</em><em>	</em><em>a</em><em>nd the wife of-him prepared </em><em>herself;</em></span>
 
-<span class="verse" id="v8"><sup><strong>8</strong></sup><em>	</em><strong><sup>8</sup></strong><em>and</em><em> it-was-given to-her in-order-[that] she-clothe-herself</em> <em>	</em><em>	</em><em>	</em><em>w</em><em>ith bright, clean linen,</em> <em>	</em><em>	</em><em>	</em><em>f</em><em>or </em><em>linen is the righteousness</em><em>[es] of-the saints.”</em></span>
+<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>	</em><strong><sup>8</sup></strong><em>and</em><em> it-was-given to-her in-order-[that] she-clothe-herself</em> <em>	</em><em>	</em><em>	</em><em>w</em><em>ith bright, clean linen,</em> <em>	</em><em>	</em><em>	</em><em>f</em><em>or </em><em>linen is the righteousness</em><em>[es] of-the saints.”</em></span>
 
 <span class="verse" id="v9"><strong><sup>9</sup></strong>And he-says to-me, <em>“Blessed (are) the-ones called to the dinner/</em><em>marriage-</em><em>feast of-the Lamb.”</em>  And he-says to-me, <em>“These [the] words of-[the] God are true.”</em></span>
 
@@ -35,7 +35,7 @@ weight: 19
 
 <span class="verse" id="v17"><strong><sup>7</sup></strong>And I-saw one/an angel standing on the sun, and he-shouted [with]<sup>ms</sup> (a) loud voice, saying to-all the birds [the-ones] flying in (the) midst-of-heaven/(the)-sky, <em>“Come, be-gathered to the great [the] feast of-[the] God, </em><strong><sup>18</sup></strong><em>in</em><em>-order-that you-may-eat the flesh[es] of-kings and (the) flesh[es] of-tribunes and (the) flesh[es] of-strong-ones and (the) flesh[es] of-horses and </em><em>of</em><em>–the-ones sitting on them and (the) flesh[es] both of-all freemen and slave</em><em>s</em><em> and small and great.</em><em>”</em><em>  </em></span>
 
-<span class="verse" id="v19"><sup><strong>19</strong></sup>And I-saw the beast and the kings of-the earth and the armies of-them gathered to-make war with the-One sitting on the horse and with the army of-him.  <strong><sup>20</sup></strong>And the beast was-seized and with him the false prophet the-one having-done the signs before him, by-which he-deceived the-ones having-received the mark of-the beast and the-ones worshiping the image of-him.  And the two were-thrown, living, into the lake of-[the] fire burning with sulphur.  <strong><sup>21</sup></strong>And the rest were-killed by the sword the-one having-come out-of the mouth of-him, of-the-One sitting on the horse, and all the birds were-fully-satisfied from the flesh[es] of-them.</span>
+<span class="verse" id="v19"><sup class="verse-num">19</sup> And I-saw the beast and the kings of-the earth and the armies of-them gathered to-make war with the-One sitting on the horse and with the army of-him.  <strong><sup>20</sup></strong>And the beast was-seized and with him the false prophet the-one having-done the signs before him, by-which he-deceived the-ones having-received the mark of-the beast and the-ones worshiping the image of-him.  And the two were-thrown, living, into the lake of-[the] fire burning with sulphur.  <strong><sup>21</sup></strong>And the rest were-killed by the sword the-one having-come out-of the mouth of-him, of-the-One sitting on the horse, and all the birds were-fully-satisfied from the flesh[es] of-them.</span>
 
 
 <style>

@@ -10,3 +10,5 @@ weight: 35
 ## Habakkuk
 
 **3 Chapters**
+
+Select a chapter to begin reading:

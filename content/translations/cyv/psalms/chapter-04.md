@@ -9,25 +9,28 @@ type: chapter
 weight: 4
 ---
 
-## Psalms Chapter **4**
+## Psalms Chapter 4
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>Righteous God, answer when I call! <strong><sup>	</sup></strong>Take time for me in my distress; listen graciously to my prayer.</span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Righteous God, answer when I call! Take time for me in my distress; listen graciously to my prayer.</span>
 
-<span class="verse" id="v2"><sup><strong>2</strong></sup>People, how long will you try to ruin my reputation? <strong><sup>	</sup></strong>How long will you love unfounded accusations and outright lies?</span>
+<span class="verse" id="v2"><sup class="verse-num">2</sup> People, how long will you try to ruin my reputation? How long will you love unfounded accusations and outright lies?</span>
 
-<span class="verse" id="v3"><sup><strong>3</strong></sup>Just remember that Yahveh sets good people apart for himself; <strong><sup>	</sup></strong>he’ll listen when I call out to him.</span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> Just remember that Yahveh sets good people apart for himself; he’ll listen when I call out to him.</span>
 <p class="section-ref">Ps 4:1-3</p>
 
-<span class="verse" id="v4"><sup><strong>4</strong></sup>If you’re angry, don’t sin; <strong><sup>	</sup></strong><em>just</em><strong><em><sup> </sup></em></strong>think it to yourself in bed; don’t act it out.</span>
+<span class="verse" id="v4"><sup class="verse-num">4</sup> If you’re angry, don’t sin; just think it to yourself in bed; don’t act it out.</span>
 
-<span class="verse" id="v5"><sup><strong>5</strong></sup>Offer sacrifices with the right attitude <strong><sup>	</sup></strong>and trust in Yahveh.</span>
+<span class="verse" id="v5"><sup class="verse-num">5</sup> Offer sacrifices with the right attitude and trust in Yahveh.</span>
 
-<span class="verse" id="v6"><sup><strong>6</strong></sup>Many say, <em>“Who will show us something good?”</em> Smile on us, Yahveh.</span>
+<span class="verse" id="v6"><sup class="verse-num">6</sup> Many say, “Who will show us something good?” Smile on us, Yahveh.</span>
 
-<span class="verse" id="v7"><sup><strong>7</strong></sup>You make me happier than those who have big crops and new wine.</span>
+<span class="verse" id="v7"><sup class="verse-num">7</sup> You make me happier than those who have big crops and new wine.</span>
 
-<span class="verse" id="v8"><sup><strong>8</strong></sup>I lie down to sleep in peace because you make me able to live safely.<strong> </strong><strong>	</strong></span>
+<span class="verse" id="v8"><sup class="verse-num">8</sup> I lie down to sleep in peace because you make me able to live safely.</span>
 <p class="section-ref">Ps 4:4-8</p>
+
+### with Flute Accompaniment
+
 
 
 <style>

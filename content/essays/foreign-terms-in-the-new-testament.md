@@ -1,129 +1,133 @@
 ---
 author: Virgil Warren, PhD
 categories:
+- Essays
+- Topics
 - Greek Features
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: FOREIGN TERMS IN THE NEW TESTAMENT
 weight: 999
 ---
 
-FOREIGN TERMS IN THE NEW TESTAMENT
 
-Abaddon (Ἀβαδδών): “Destroyer” (Revelation 9:11**)
 
-Abba (Αββα): “father” (Mark 14:36; Romans 8:15; Galatians 4:6**)
 
-Akeldama (Ἀκελδαμάχ): “Field of Blood” (Acts 1:19**)
+Abaddon (Ἀβαδδών): “Destroyer” (Revelation<strong> 9</strong>:11**)
 
-anathema (ἀνάθεμα): Galatians 1:9; 1 Corinthians 16:2
+Abba (Αββα): “father” (Mark <strong><sup>14</sup></strong>:36; Romans <strong>8:</strong>15; Galatians <strong><sup>4</sup></strong>:6**)
 
-Armageddon (Ἁρμαγεδών): “The Hill of Megiddo” (Revelation 16:16**)
+Akeldama (Ἀκελδαμάχ): <em>“Field of Blood”</em> (Acts<strong> 1</strong>:19**)
 
-Bar-Jesus (Βαριησούς): Acts 13:6
+anathema (ἀνάθεμα): Galatians <strong><sup>1</sup></strong>:9; 1 Corinthians <strong><sup>16</sup></strong>:2
+
+Armageddon (Ἁρμαγεδών): <em>“The Hill of Megiddo”</em> (Revelation <strong><sup>16</sup></strong>:16**)
+
+Bar-Jesus (Βαριησούς): Acts <strong><sup>13</sup></strong>:6
 
 (Simon) Bar-Jonah/Bar-Jonah (Βαιωνά/Βαριωνᾶς): “(Simon), son-of John” (Matthew
 
-16:17)
+<strong><sup>16</sup></strong>:17)
 
-Barnabas (Βαρναβᾶς):“Son of Consolation” (Acts 4:36 “which is interpreted [ὅ
+Barnabas (Βαρναβᾶς):<em>“Son of Consolation”</em> (Acts<strong> 4</strong>:36 “which is interpreted [ὅ
 
 ἐστιν μεθερμηνευόμενον]”)
 
-Barsabbas (Βαρσαββᾶς): Joseph Barsabbas (Acts 1:23); Judas Barsabbas (Acts 15:22)
+Barsabbas (Βαρσαββᾶς): Joseph Barsabbas (Acts <strong><sup>1</sup></strong>:23); Judas Barsabbas (Acts <strong><sup>15</sup></strong>:22)
 
-(Timaeus) Bar-Timaeus (Βαρτιμαῖος): “Timaeus, son of Timaeus” (Mark 10:46)
+(Timaeus) Bar-Timaeus (Βαρτιμαῖος): “Timaeus, son of Timaeus” (Mark <strong><sup>10</sup></strong>:46)
 
-Bethesda (Βηθζαθά /Βελζεθά/Βηθεσδά < בֵּית חֶסֶד): “House of Mercy”(?) John 5:2
+Bethesda (Βηθζαθά /Βελζεθά/Βηθεσδά < בֵּית חֶסֶד): “House of Mercy”(?) John<strong> 5</strong>:2
 
-Boanerges (Βοανεργές/Βοανεργής < בְּנֵי רֶגֶשׁ “Sons of Thunder” (Mark 3:17)
+Boanerges (Βοανεργές/Βοανεργής < בְּנֵי רֶגֶשׁ “Sons of Thunder” (Mark<strong> 3</strong>:17)
 
-(Simon the) Cananaean (Καναναῖος): “(Simon the) Zealot” (Matthew 10:4; Mark 3:18)
+(Simon the) Cananaean (Καναναῖος): “(Simon the) Zealot” (Matthew <strong><sup>10</sup></strong>:4; Mark<strong> 3</strong>:18)
 
-Cephas (Κηφᾶς < כֵּיפָא): “Rock” (John 1:42, “which is interpreted,  ‘Peter [ὃ
+Cephas (Κηφᾶς < כֵּיפָא): “Rock” (John <strong><sup>1</sup></strong>:42, <em>“which is interpreted,  ‘Peter</em> [ὃ
 
-ἑρμηνεύεται Πετρός]’”)
+ἑρμηνεύεται Πετρός]<em>’”</em>)
 
-Corban (Κορβᾶν < קָרְבָּן ): “gift, offering” (Mark 7:11, “Given [to God]”)
+Corban (Κορβᾶν < קָרְבָּן ): “gift, offering” (Mark <strong><sup>7</sup></strong>:11, “Given [to God]”)
 
-Eli Eli lama sabachthani (Ηλι ηλι λεμα σαβαχθανι): “My God, my God, why have you
+Eli Eli lama sabachthani (Ηλι ηλι λεμα σαβαχθανι): <em>“My God, my God, why have you </em>
 
-forsaken me?” (Matthew 27:46)
+<em>	forsaken me?”</em> (Matthew <strong><sup>27</sup></strong>:46)
 
-Eloi Eloi lema sabachthani (Ελωι ελωι λεμα σαβαχθανι), (Mark 15:34)
+Eloi Eloi lema sabachthani (Ελωι ελωι λεμα σαβαχθανι), (Mark <strong><sup>15</sup></strong>:34)
 
-Elymas (Ἐλύμας, a magician):  Acts 13:8, “for thus his name is interpreted [οὕτως γὰρ
+Elymas (Ἐλύμας, a magician):  Acts <strong><sup>13</sup></strong>:8, <em>“for thus his name is interpreted</em> [οὕτως γὰρ
 
-μεθερμηνεύεται ὁ ὄνομα αὐτοῦ]” formal name, Bar-Jesus
+μεθερμηνεύεται ὁ ὄνομα αὐτοῦ]<em>” </em>formal name, Bar-Jesus
 
-Emmanuel (Ἐμμανουήλ < עִמָּנוּ אַל): (Matthew 1:23, “which is interpreted [ὅ ἐστιν
+Emmanuel (Ἐμμανουήλ < עִמָּנוּ אַל): (Matthew<strong> 1</strong>:23, “which is interpreted [ὅ ἐστιν
 
 μεθερμηνευόμενον”]
 
-Ephphatha (ἐφφαθα): “Be opened” (Mark 7:34, “that is [ὅ εστιν]”)
+Ephphatha (ἐφφαθα): <em>“Be opened”</em> (Mark <strong><sup>7</sup></strong>:34, “that is [ὅ εστιν]”)
 
 Euroclydon (Εὐρακύλων/Εὐροκλύδων/Εὐρυκλύδων/Εὐροκοίδον/Εὐροκλύδω/
 
-Εὐρουκλύδων): “southwest wind” (Acts 27:14)
+Εὐρουκλύδων): “southwest wind” (Acts<strong> 27</strong>:14)
 
-Forum of Appius (Ἀππίου Φόρον): Acts 28:15
+Forum of Appius (Ἀππίου Φόρον): Acts <strong><sup>28</sup></strong>:15
 
-Gabbatha (Γαββαθα = Λιθόστρωτον): “The Pavement” (“stone pavement”) John
+Gabbatha (Γαββαθα = Λιθόστρωτον): <em>“The Pavement” </em>(“stone pavement”) John
 
-19:13**
+<strong><sup>19</sup></strong>:13**
 
-Gehenna (γέενα <הִנֹּם  גּי(א/גֵּיהִנָּם): Matthew 23:33, etc.
+Gehenna (γέενα <הִנֹּם  גּי(א/גֵּיהִנָּם): Matthew <strong><sup>23</sup></strong>:33, <em>etc.</em>
 
-Golgotha (Γολγοθᾶ): “Place of the Skull” (Matthew 27:33; Mark 15:22, “which is
+Golgotha (Γολγοθᾶ): <em>“Place of the Skull”</em> (Matthew <strong><sup>27</sup></strong>:33; Mark <strong><sup>15</sup></strong>:22, “which is
 
-interpreted [μεθερμηνεύω”]) John 19:27**)
+interpreted [μεθερμηνεύω”]) John <strong><sup>19</sup></strong>:27**)
 
-Hallelujah (ἁλληλουϊά < חַלְלוּ־יָהּ): “Praise Yahweh” (Revelation 19:1, 3, 4, 6)
+Hallelujah (ἁλληλουϊά < חַלְלוּ־יָהּ): <em>“Praise Yahweh”</em> (Revelation<strong> 19</strong>:1, 3, 4, 6)
 
-manna (μάννα):  manna (John 6:3, 49; Hebrews 9:4; Revelation 2:17)
+manna (μάννα):  manna (John <strong><sup>6</sup></strong>:3, 49; Hebrews<strong> 9</strong>:4; Revelation <strong><sup>2</sup></strong>:17)
 
-marana tha (μαρανα θα): “Our Lord!  Come!” [or μαρανα αθα, “Our Lord has come!”],
+marana tha (μαρανα θα): <em>“Our Lord!  Come!”</em> [or μαρανα αθα, <em>“Our Lord has come!”</em>],
 
-1 Corinthians 16:22)
+1 Corinthians <strong><sup>16</sup></strong>:22)
 
-Melchizedek (Μελχισέδεκ < מַלְכִּי־צֶדֶק): “king of righteousness” (Hebrews 7:1-2,
+Melchizedek (Μελχισέδεκ < מַלְכִּי־צֶדֶק): <em>“king of righteousness”</em> (Hebrews <strong><sup>7</sup></strong>:1-2,
 
 “which interpreted [ἑρμηνευόμενος]”)
 
-Messiah/Messias (Μεσσίας < מָשִׁיחַ, “to anoint”): “the Messiah”; “The Anointed One” =
+Messiah/Messias (Μεσσίας < מָשִׁיחַ, “to anoint”): <em>“the Messiah”</em>; “The Anointed One” =
 
-Christos” < χρίω, “to anoint” (John 1:41,“which is interpreted” [ὅ ἐστιν
+Christos” < χρίω, “to anoint” (John <strong><sup>1</sup></strong>:41,<em>“which is interpreted”</em> [ὅ ἐστιν
 
 μεθερμηνευόμενον Χριστός])
 
-rabbi (ῥαββί/ῥαββεί < רַבִּי): teacher (John 1:38, “which is interpreted, ‘teacher’” [ὃ
+rabbi (ῥαββί/ῥαββεί < רַבִּי): teacher (John<strong> 1</strong>:38, <em>“which is interpreted, ‘teacher’”</em> [ὃ
 
 λεγεται μεθερμηνευόμενον Διδάσκαλε])
 
-rabboni (ῥαββουνι/ῥα/ββουωεί/ῥββονί/ῥαββονεί < רַבּןֹנִי):  teacher (John 20:16, “which
+rabboni (ῥαββουνι/ῥα/ββουωεί/ῥββονί/ῥαββονεί < רַבּןֹנִי):  teacher (John <strong><sup>20</sup></strong>:16, “which
 
 means ‘teacher’” [ὃ λεγεται διδάσκαλε])
 
-Raka (ῥακά/ῥαχά < רֵיקָא): “Fool” (Matthew 5:22)
+Raka (ῥακά/ῥαχά < רֵיקָא): “Fool” (Matthew<strong> 5</strong>:22)
 
-Sabaoth (Σαβαώθ < צְבָאוּת): “[Lord of] hosts” (Romans 9:29 ASV)
+Sabaoth (Σαβαώθ < צְבָאוּת): “[Lord of] hosts” (Romans<strong> 9</strong>:29 ASV)
 
-Salem (Σαλήμ):  "peace" (Hebrews 7:2, “that is, King of Peace [ὅ ἐστιν βασιλεὺς
+Salem (Σαλήμ):  "peace" (Hebrews <strong><sup>7</sup></strong>:2, <em>“that is, King of Peace</em> [ὅ ἐστιν βασιλεὺς
 
-εἰρήνης]”)
+εἰρήνης]<em>”</em>)
 
-Siloam (Σιλωάμ < שִׁלַֹח): “Sent” (John 9:7, “which is interpreted [ὃ ἑρμηνεύεται
+Siloam (Σιλωάμ < שִׁלַֹח): “Sent” (John <strong><sup>9</sup></strong>:7, “which is interpreted [ὃ ἑρμηνεύεται
 
 Ἀπεσταλμένος]”)
 
-Tabitha (Ταβιθά < טַבְיְתָא):  Dorcas (Acts 9:36, 40; “which is interpreted [ἣ
+Tabitha (Ταβιθά < טַבְיְתָא):  Dorcas (Acts<strong> 9</strong>:36, 40; “which is interpreted [ἣ
 
 διερμηνευομένη λέγεται] Dorcas”)
 
-Talitha cumi (Ταλιθα κουμ < טַלְיְתָא): (Mark 5:41, “which is interpreted,  ‘Little girl,
+Talitha cumi (Ταλιθα κουμ < טַלְיְתָא): (Mark <strong><sup>5</sup></strong>:41, <em>“which is interpreted,  ‘Little girl,</em>
 
-get up [ὅ ἐστιν μεθερμηνεύω Τὸ κοράσιον, ἔγειρε]’”)
+<em>get up</em> [ὅ ἐστιν μεθερμηνεύω Τὸ κοράσιον, ἔγειρε]<em>’”</em>)
 
-Three Taverns (Τριῶν Ταβερνῶν): Acts 28:15
+Three Taverns (Τριῶν Ταβερνῶν): Acts<strong> 28</strong>:15
+
 
 christir.org

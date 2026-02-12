@@ -9,7 +9,7 @@ type: chapter
 weight: 5
 ---
 
-## 1 Timothy Chapter **5**
+## 1 Timothy Chapter 5
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Do┘not└rebuke (an) elder, but urge (him) like (a) father, younger-(men) like brothers, <strong><sup>2</sup></strong>older-(women) like mothers, younger-(women) like sisters in all purity.</span>
 
@@ -17,7 +17,7 @@ weight: 5
 
 <span class="verse" id="v17"><strong><sup>7</sup></strong>Let┘the managing- ell elders└be-counted-worthy of-double honor, especially the-ones laboring in (the) word and teaching.  <strong><sup>18</sup></strong>For the scripture says, <strong>“You-shall</strong><strong>┘not└</strong><strong>muzzle (an) ox threshing</strong><strong>”</strong><strong>;</strong> and, “The laborer (is) worthy of-the pay of-him.”</span>
 
-<span class="verse" id="v19"><sup><strong>19</strong></sup>Do┘not└accept (an) accusation against (an) elder except<strong><sup>3</sup></strong> on-the-word-of two or three witnesses.  <strong><sup>20</sup></strong>The-ones continuing-in-sin rebuke in-front-of all in-order-that the rest may┘also└have fear.  <strong><sup>21</sup></strong>I-solemnly-charge (you) before [the] God and Christ Jesus and the elect angels that you-keep these-things without discrimination, doing nothing according-to partiality.  <strong><sup>22</sup></strong>Lay hands hastily on-nobody, nor share other-people’s sins.  Keep yourself pure.  <strong><sup>23</sup></strong>No-longer drink-water, but use (a) little wine on-account-of the stomach and the frequent sicknesses of-you.</span>
+<span class="verse" id="v19"><sup class="verse-num">19</sup> Do┘not└accept (an) accusation against (an) elder except<strong><sup>3</sup></strong> on-the-word-of two or three witnesses.  <strong><sup>20</sup></strong>The-ones continuing-in-sin rebuke in-front-of all in-order-that the rest may┘also└have fear.  <strong><sup>21</sup></strong>I-solemnly-charge (you) before [the] God and Christ Jesus and the elect angels that you-keep these-things without discrimination, doing nothing according-to partiality.  <strong><sup>22</sup></strong>Lay hands hastily on-nobody, nor share other-people’s sins.  Keep yourself pure.  <strong><sup>23</sup></strong>No-longer drink-water, but use (a) little wine on-account-of the stomach and the frequent sicknesses of-you.</span>
 
 <span class="verse" id="v24"><strong><sup>4</sup></strong>The sins of-some men are quite-evident, leading (them) into condemnation, and for-some (their sins) also dog┘them└later.  <strong><sup>25</sup></strong>Likewise also [the] good [the] deeds (are) evident, and the-ones having otherwise are┘not└able to-be-hidden.</span>
 

@@ -1,17 +1,18 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Topics
+- Essays
 - MINISTRY
 - Sermons
 - Memorial Day Messages
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: IT IS GOOD TO REMEMBER
 weight: 999
 ---
 
-IT IS GOOD TO REMEMBER
+
+
 
 In the grand cycle of life, only four or five generations of humanity are accessible to our experience at any one moment in history. Those earlier men and women we must remember, and so we set aside this day to reflect on their contribution to our welfare.
 
@@ -25,37 +26,43 @@ It is important to remember so we may have a sense of responsibility. As the leg
 
 That means we must be strong in the moments of decision that bear on our destiny and that of our children. In those moments of choice is set the subsequent course of human existence and world affairs.
 
-“Once to every man and nation Comes the moment to decide,
 
-In the strife of truth with falsehood, For the good or evil side;
+<em>“Once to every man and nation Comes the moment to decide,</em>
 
-Some great cause, some great decision, Off'ring each the bloom or blight,
+<em>In the strife of truth with falsehood, For the good or evil side;</em>
 
-And the choice goes by forever 'Twixt that darkness and that light.
+<em>Some great cause, some great decision, Off'ring each the bloom or blight,</em>
 
-“Then to side with truth is noble, When we share her wretched crust,
+<em>And the choice goes by forever 'Twixt that darkness and that light.</em>
 
-Ere her cause bring fame and profit, And ‘tis prosp'rous to be just;
 
-Then it is the brave man chooses While the coward stands aside,
+<em>“Then to side with truth is noble, When we share her wretched crust,</em>
 
-Till the multitude makes virtue Of the faith they had denied.
+<em>Ere her cause bring fame and profit, And ‘tis prosp'rous to be just;</em>
 
-“Though the cause of evil prosper, Yet the truth alone is strong;
+<em>Then it is the brave man chooses While the coward stands aside,</em>
 
-Though her portion be the scaffold, And upon the throne be wrong,
+<em>Till the multitude makes virtue Of the faith they had denied.</em>
 
-Yet that scaffold sways the future, And, behind the dim unknown,
 
-Standeth God within the shadow, keeping watch above His own.”
+<em>“Though the cause of evil prosper, Yet the truth alone is strong;</em>
+
+<em>Though her portion be the scaffold, And upon the throne be wrong,</em>
+
+<em>Yet that scaffold sways the future, And, behind the dim unknown,</em>
+
+<em>Standeth God within the shadow, keeping watch above His own.”</em>
 
 “Once to Every Man and Nation” by James Russel Lowell
 
-Often set to the hymn tune Ebenezer
+Often set to the hymn tune <em>Ebenezer</em>
+
 
 National conflict and political unrest have taken their toll on the lives of many honored dead we remember today, but those evils manifest more basic and more eternal evils that erupt in strife between nations, classes, and individuals. The spiritual wickedness that separates people from their God separates them also from each other; it devastates people and destroys the quality of life and its meaningfulness for all humankind. For this reason, with these memorable words the apostle Paul urged responsibility on his readers many years ago:
 
-“Be strong in the Lord and in His mighty power. Put on the full armor of God so that you can take your stand against the devil’s schemes. For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms. Therefore, put on the full armor of God, so that when the day of evil comes, you may be able to stand your ground, and after you have done everything, to stand. Stand firm then, with the belt of truth buckled around your waist, with the breastplate of righteousness in place, and with your feet fitted with the readiness that comes from the gospel of peace. In addition to all this, take up the shield of faith, with which you can extinguish all the flaming arrows of the evil one. Take the helmet of salvation and the sword of the Spirit, which is the word of God.” (Ephesians 6:10-17, NIV)
+
+<em>“Be strong in the Lord and in His mighty power. Put on the full armor of God so that you can take your stand against the devil’s schemes. For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms. Therefore, put on the full armor of God, so that when the day of evil comes, you may be able to stand your ground, and after you have done everything, to stand. Stand firm then, with the belt of truth buckled around your waist, with the breastplate of righteousness in place, and with your feet fitted with the readiness that comes from the gospel of peace. In addition to all this, take up the shield of faith, with which you can extinguish all the flaming arrows of the evil one. Take the helmet of salvation and the sword of the Spirit, which is the word of God.”</em> (Ephesians<strong> 6</strong>:10-17, <strong>NIV</strong>)
+
 
 The spiritual aspect of life sets the character of our material existence in the world. We do well to remember today the universal and eternal importance of this factor because from it issues all that we value and hold dear. And therein rests most of all our appreciation, our humility, our responsibility.
 

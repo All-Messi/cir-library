@@ -1,26 +1,30 @@
 ---
 author: Comments by Virgil Warren on “Disorder and Revolt” in
 categories:
+- Essays
+- Topics
 - Book Reviews
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: Comments by Virgil Warren on “Disorder and Revolt” in
 weight: 999
 ---
 
-Authentic Cosmopolitanism
+<strong><u>Authentic Cosmopolitanism</u></strong>
 
-by R. J. Snell & Steven D. Cone
+<strong>by R. J. Snell & Steven D. Cone</strong>
 
-(Stone-Campbell Conference; April 2017)
+<strong>(Stone-Campbell Conference; April 2017)</strong>
+
 
 Chapter 4, entitled “Disorder and Revolt,” addresses the impact of sinning on thinking as one aspect of depraved behavior generally. Perverted thought amidst general depravity connects in turn with university, most relevantly to formal Christian university as part of the over-all Christian enterprise mandated in the Great Commission (cosmopolitanism).
 
 The approach traces the depravity phenomenon from elements in the thought of Aristotle through Aquinas to Lonergan, taking notice of Augustine and the Reformed tradition along the way—without necessarily appealing to the hypostatic and legal elements of their theories of sin as distinct from phenomenology.
 
-Noetic Effects of Sinning
 
-Sinning suppresses information it does not find convenient for what it wants to maintain (note “blind spot,” “scotosis”; 98). It cherry-picks data to obtain favorable, predetermined conclusions. It refuses to listen to “the rest of the story.” It matches Paul’s observation that people refuse to have God in their knowledge (Romans 1:28). Denial is usually easier than providing evidence.
+<strong>Noetic Effects of Sinning</strong>
+
+Sinning suppresses information it does not find convenient for what it wants to maintain (note “blind spot,” “scotosis”; 98). It cherry-picks data to obtain favorable, predetermined conclusions. It refuses to listen to “the rest of the story.” It matches Paul’s observation that people refuse to have God in their knowledge (Romans <strong><sup>1</sup></strong>:28). Denial is usually easier than providing evidence.
 
 Sinning equivocates unlike things to create the desired conclusions. The practice appears in political debates. In the controversy over publicly funding abortions, for example, abortion—late-term and all—gets subsumed under women’s health. Of course, pregnancy is not a disease that a person has some right to be healed from like the mumps. Rare cases involving a mother’s life become highlighted so as to draw attention away from the vast majority of unwanted pregnancies due to sexual immorality. A fetus is not like a tumor someone might want removed; tumors have no potential for human functioning. Pregnancies from rape and incest become emotionally laden calls to justifying abortions generally. The thought pattern departs from the legal principle that hard cases make bad law.
 
@@ -36,11 +40,12 @@ Caricature tries to misrepresent God’s truth in front of those who are not wel
 
 These mental maneuvers largely fall under Lonergan’s “bias” (98-102).
 
-Reflections
 
-A.  In discussions of depravity, the words nature, being, sin can be unclear, because they seem to mean ontic nature (“stuff”) in some cases, and characteristic behavior in others: “man’s nature includes his ability to think”; vs. “he’s grumpy all the time; that’s just his nature.” The phenomenological language advocated in this presentation can avoid that imprecision. More importantly it can avoid reification and faculty psychology, and consequently those biblically unwarranted inferences that root depraved behavior in biologically inheritable hypostasis, an idea that originated in non-biblical, Greek philosophy. That last mental leap from word to referent unnecessarily foments a plethora of complicated theological maneuvers and hermeneutical turns that can impugn divine self-consistency and holiness.
+<strong>Reflections </strong>
 
-B. Phenomenological language still requires avoiding the reification that is not easily overcome by language usage itself. Adopting phenomenological language does allow every act to be regarded as a cluster of compenetrating and interdependent facets (cp. 95, ¶4). A choosing event, for example, is not something a “will” does; willing refers to an “experience” that includes thinking ideas or purposes as well having feelings that better move the willing. People use the word will without ever having seen one; hence, the word really comes from an act event, not a thing—it may get reified if the speaker leaps to an unexperienced, postulated referent he considers a “something.” But, that is not what caused the word to come into usage or what caused the person to use it in a given case.
+A.  In discussions of depravity, the words <em>nature</em>, <em>being</em>, <em>sin</em> can be unclear, because they seem to mean ontic nature (“stuff”) in some cases, and characteristic behavior in others: “man’s nature includes his ability to think”; vs. “he’s grumpy all the time; that’s just his nature.” The phenomenological language advocated in this presentation can avoid that imprecision. More importantly it can avoid reification and faculty psychology, and consequently those biblically unwarranted inferences that root depraved behavior in biologically inheritable hypostasis, an idea that originated in non-biblical, Greek philosophy. That last mental leap from word to referent unnecessarily foments a plethora of complicated theological maneuvers and hermeneutical turns that can impugn divine self-consistency and holiness.
+
+B. Phenomenological language still requires avoiding the reification that is not easily overcome by language usage itself. Adopting phenomenological language does allow every act to be regarded as a cluster of compenetrating and interdependent facets (cp. 95, ¶4). A choosing event, for example, is not something a “will” does; willing refers to an “experience” that includes thinking ideas or purposes as well having feelings that better move the willing. People use the word <em>will</em> without ever having seen one; hence, the word really comes from an act event, not a thing—it may get reified if the speaker leaps to an unexperienced, postulated referent he considers a “something.” But, that is not what caused the word to come into usage or what caused the person to use it in a given case.
 
 Mind, will, and the various appetites can be left as mental abstractions just like being, action, and relationship are; they are “meta-physicals” in the mind aside from whether there are one-for-one correlations in the real “physical.” Phenomenological speech leaves the speaker free, then, to suspend judgment on the ontology involved.
 
@@ -50,15 +55,16 @@ That is something a Christian can do because he has decided to trust at the func
 
 Being created in the image of an interpersonal God, we can infer that our summarizing characteristic is interpersonal capacity along with all the attendant behaviors, goals, and relationships that pertain thereunto.
 
-D. Commonly writers speak of mankind’s original state as morally good (original “justice/just-ness” as in Aquinas? 87-88), perhaps as a take-off on God’s comment that his creation was “very good” (Genesis 1:31). The expression speaks more generally, however, in that it describes God’s whole creative work, most of which was impersonal—and morality applies only to personal beings. So “good” does not describe morally good, but functionally good in being able to conform to the purpose these creations were to serve. Beginning with morally neutral allows good and evil to “become” by action. That works better because an act cannot be created anyway (only indirectly with deterministic creations).
+D. Commonly writers speak of mankind’s original state as morally good (original “justice/just-ness” as in Aquinas? 87-88), perhaps as a take-off on God’s comment that his creation was “very good” (Genesis <strong><sup>1</sup></strong>:31). The expression speaks more generally, however, in that it describes God’s whole creative work, most of which was impersonal—and morality applies only to personal beings. So “good” does not describe morally good, but functionally good in being able to conform to the purpose these creations were to serve. Beginning with morally neutral allows good and evil to “become” by action. That works better because an act cannot be created anyway (only indirectly with deterministic creations).
 
-The approach allows for pervertible neutrality within limited freedom, and most significantly provides the way to remove God from being the creator of evil; instead, evil can become action and be perpetuated through “the free will of secondary agencies” (Satan as “father of lies”; John 8:44). The task of the theologian becomes understanding how sin among mankind is (a) universal, (b) all-pervasive, (c) and inescapable. From the standpoint of revelation, any use of sanctified imagination must begin with the information and necessary inferences from it as regards human ontology, and end up allowing for these three features of anthropology and soteriology.
+The approach allows for pervertible neutrality within limited freedom, and most significantly provides the way to remove God from being the creator of evil; instead, evil can become action and be perpetuated through “the free will of secondary agencies” (Satan as “father of lies”; John <strong><sup>8</sup></strong>:44). The task of the theologian becomes understanding how sin among mankind is (a) universal, (b) all-pervasive, (c) and inescapable. From the standpoint of revelation, any use of sanctified imagination must begin with the information and necessary inferences from it as regards human ontology, and end up allowing for these three features of anthropology and soteriology.
 
 E. Drawing attention to the noetic effects of sin points up the observation that formal education—even formal Christian education—contributes to education for life—education for use—rather than conveys the whole of what is needed. Formal education most easily addresses noetic matters, but people are more than information repositories and reasoning machines, and the accompanying factors in the real situation mean that the noetic aspect is affected by sinning just as surely as the others. Education for the whole person has to be carried forward by the living church, the indwelt body of Christ (interpersonalism). In other words university has to be broadened to something synonymous with the Great Commission (cosmopolitanism), where apprenticeship, internship, family, and daily interpersonal Christian living are vehicles of education properly so called.
 
 Otherwise, the Christian “university” ends up doing with education what science often tries to do with methodological naturalism. “Science” goes beyond its appropriate realm (observable, recurrent, natural process) and tries to arrogate to itself the role of lone purveyor of truth. That automatically eliminates unobservable, one-time, and supernatural occurrence, and ends up with inadequate, artificial conclusions. Scientism absolutely disallows supernatural causation because “it is not scientific,” as if that were a relevant critique. Such “begging the question” represents empiricism gone awry in science falsely so-called.
 
-Addendum: Factors in the Sin Problem
+
+<strong>Addendum: Factors in the Sin Problem</strong>
 
 1. Persons interacting with persons is the most complex reality we know. In keeping with that observation, love is the most complex manner of living.
 
@@ -78,7 +84,7 @@ Addendum: Factors in the Sin Problem
 
 9. Sin is a chosen behavior between persons relative to a standard of behavior that is figured relative to nature and purpose. That means it is not a substance or a deformity (privation) in the form of substance relative to pristine condition (Augustine).
 
-10. Scripture deals almost exclusively with the functional level as to what is good or bad. It gives little information about the creatable elements of “stuff” that makes possible the various endowments it assumes in establishing its expectancies and giving its directives—the “mechanics” of the imago dei. So to speak, scripture enters the situation through the front door on the ground floor of the human condition without explaining how God laid the foundation to make possible the human endowments and expectancies.
+10. Scripture deals almost exclusively with the functional level as to what is good or bad. It gives little information about the creatable elements of “stuff” that makes possible the various endowments it assumes in establishing its expectancies and giving its directives—the “mechanics” of the <em>imago dei</em>. So to speak, scripture enters the situation through the front door on the ground floor of the human condition without explaining how God laid the foundation to make possible the human endowments and expectancies.
 
 11. Scripture gives no indication that humankind differed in moral capacity after the Fall—whether by natural result of sin or by divine curse for it—than what that capacity was before the Fall in a biologically inheritable sense—although some scriptures have been accommodated to that end (contrast 88, ¶4; 99, ¶3). The situation partakes of the dictum that acquired characteristics are not inherited (sinfulness).
 
@@ -108,6 +114,7 @@ Sin tempts us to substitute the immediate for the long term, drives for values, 
 
 16. A word does not necessarily correspond to a “thing.” Reification is an unnecessary projection about reality as based on the fact that there is a word.
 
-17. Sin is an act, guilt arises from an act, penalty is for guilt. Act-guilt-penalty are personal, individual, and non-transferable (cp. Ezekiel 18:4-24).
+17. Sin is an act, guilt arises from an act, penalty is for guilt. Act-guilt-penalty are personal, individual, and non-transferable (cp. Ezekiel <strong><sup>18</sup></strong>:4-24).
+
 
 christir.org

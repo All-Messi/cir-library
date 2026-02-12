@@ -9,7 +9,7 @@ type: chapter
 weight: 4
 ---
 
-## 1 Peter Chapter **4**
+## 1 Peter Chapter 4
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>So Christ having-suffered in-(the)-flesh, <u>you</u> also arm-yourselves-with the same attitude, because the-one having-suffered in-(the)-flesh has-ceased sins <strong><sup>2</sup></strong>unto [the] no-longer living the remaining time in (the) flesh by (the) desires of-men, but (the) will of-God.  <strong><sup>3</sup></strong>For the having passed-by time (is) sufficient to-have-carried-out the will of-the Gentiles, having-pursued-(a)-course/pattern in indecencies, lusts, drunkenness[es], revelries, drunken orgies, and abominable idolatries, <strong><sup>4</sup></strong>in which they-think-strange your not running-with (them) in the same excess of-[the]-reckless-living, slandering (you), <strong><sup>5</sup></strong>who-will-give-(an)-account to-the-One having-prepared to-judge (the) living and (the) dead.  <strong><sup>6</sup></strong>For to this (end) the-gospel-was-preached even to-(the)-dead in-order-that they-might-be-judged according-to men in-(the)-flesh, but living according-to God in-(the)-spirit.</span>
 
@@ -17,7 +17,7 @@ weight: 4
 
 <span class="verse" id="v12"><strong><sup>2</sup></strong>Beloved, do┘not└think-it-strange/be-surprised at-the fiery-trial among you coming at-you for testing, as if something-strange happening to-you; <strong><sup>13</sup></strong>but to-the-degree-that you-share the sufferings of-[the] Christ, rejoice, in-order-that you-may┘also greatly└rejoice at the revelation of-the glory of-him.  <strong><sup>14</sup></strong>If you-are-insulted at (the) name of-Christ, (you are) blessed, because the Spirit of-[the] glory and [the] Spirit of-[the] God rest on you.  <strong><sup>15</sup></strong>For let┘not anybody of-you└suffer as (a) murderer or thief or evildoer or as (a)-busybody/interfering-in-other-people’s-business; <strong><sup>16</sup></strong>but if as (a) Christian (any of you suffer), let-him┘not└be-ashamed, but let-him-glorify [the] God in this matter/part; <strong><sup>17</sup></strong>because (it is) the time of-[the] judgment’s beginning from the household of-[the] God; and if (it is) from us first, what (will be) the end of-the-ones disbelieving the gospel of-[the] God?  <strong><sup>18</sup></strong>And <strong>“</strong><strong>I</strong><strong>f the righteous </strong><strong>is</strong><strong>┘barely└saved,</strong> <strong>	</strong><strong>	</strong><strong>	</strong><strong>w</strong><strong>here will┘the godless</strong><strong>-one</strong><strong> and sinner└appear?</strong><strong>”</strong></span>
 
-<span class="verse" id="v19"><sup><strong>19</strong></sup>so-that also let┘the-ones suffering according-to the till of-[the] God└entrust their souls to-the faithful creator in doing-good.</span>
+<span class="verse" id="v19"><sup class="verse-num">19</sup> so-that also let┘the-ones suffering according-to the till of-[the] God└entrust their souls to-the faithful creator in doing-good.</span>
 
 
 <style>

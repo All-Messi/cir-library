@@ -8,7 +8,7 @@ type: chapter
 weight: 3
 ---
 
-## 2 Thessalonians Chapter **3**
+## 2 Thessalonians Chapter 3
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Finally<sup>2</sup>, brothers, pray for us in-order-that the word of-the Lord may-make-progress and be-glorified even-as also (it was) with you, <strong><sup>2</sup></strong>and in-order-that we-may-be-delivered from harmful and evil men, for [the] faith (is) not of-all.  <strong><sup>3</sup></strong>But the Lord is faithful who will-strengthen you and keep (you) from the evil-(one).  <strong><sup>4</sup></strong>And we-are-confident in (the) Lord over you, that what-things we-command you-are┘both└doing and will-do.  <strong><sup>5</sup></strong>And may┘the Lord└direct the hearts of-you into the love of-[the] God and into the endurance of-[the] Christ.</span>
 

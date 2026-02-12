@@ -2,16 +2,19 @@
 author: "I. Setting the conclusion and then working toward it\t             Virgil\
   \ Warren, PhD"
 categories:
+- Essays
 - INTERPRETATION
-- GETTING THE POINT book
-date: '2026-01-23'
+- GETTING THE POINT (book)
+date: '2026-02-12'
 draft: false
 title: "I. Setting the conclusion and then working toward it\t             Virgil\
   \ Warren, PhD"
 weight: 10
 ---
 
+
 1. Ways of referring to the problem
+
 
 a. It is a “foregone conclusion.”
 
@@ -23,13 +26,17 @@ d. Getting the practical problem ahead of the exegetical one
 
 e. Not reading the Bible “on its own terms”
 
+
 2. Pattern of the procedure (the reason it has apparent validity)
+
 
 People may “work backwards” from what works or what they have experienced to what they believe. At each step in the process, they choose what hooks up with other points that lead toward the desired conclusion. Setting the conclusion and working to it, yields firm interpretations in ambiguous cases, and twists statements in the direction of the foregone conclusion.
 
 Instead of positing a conclusion and working out a scenario to get to it, interpretation should begin “blind” to where it is going. Otherwise, it assigns more significance to information than it should have.
 
+
 3. Situations that foster the problem
+
 
 a. Previous conclusions. People “run to” those positions that harmonize with what they believe on other matters. They do not want to change one point because it may mean changing some other ideas. Change implies a great deal of work and some personal confusion.
 
@@ -42,6 +49,7 @@ d. Need orientation. Reading the Bible in terms of one’s own needs makes the B
 e. Need for settling a controversy. People set out to interpret passages in a way that controverts the viewpoint of someone they think is wrong—even on another subject.
 
 f. Getting the practical problem ahead of the exegetical one
+
 
 (1)  Christians may feel that God will be angry with them for changing convictions; changing “feels” like forsaking. Of course, there is no reason to suppose their present viewpoint is correct; God will be pleased when they adjust to the truth.
 

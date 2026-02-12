@@ -8,7 +8,7 @@ type: chapter
 weight: 1
 ---
 
-## 2 Peter Chapter **1**
+## 2 Peter Chapter 1
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Simon Peter, servant and apostle of-Jesus Christ, to-the-ones having-received (a) faith of-the-same kind-as to-us by (the) righteousness of-the God and Savior of-us Jesus Christ.  <strong><sup>2</sup></strong>Grace to-you and peace be-multiplied in (the) knowledge of-God and of-Jesus the Lord of-us.</span>
 

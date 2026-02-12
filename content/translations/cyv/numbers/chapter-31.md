@@ -9,73 +9,39 @@ type: chapter
 weight: 31
 ---
 
-## Numbers Chapter **31**
+## Numbers Chapter 31
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>Yahveh told Moses, <strong><sup>2</sup></strong><em>“Take</em><em> revenge for Israel </em><em>on</em><em> the Midianites.</em><em> </em><em>Afterward you’ll </em><em>pass on</em><em> to your people.”</em></span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Yahveh told Moses, <strong><sup>2</sup></strong><em>“Take</em><em> revenge for Israel </em><em>on</em><em> the Midianites.</em><em> </em><em>Afterward you’ll </em><em>pass on</em><em> to your people.”</em></span>
 
-<span class="verse" id="v3"><sup><strong>3</strong></sup>Moses told the people, “<em>Arm men to attack Midian and carry out </em><em>Yahveh</em><em>’s revenge on </em><em>it</em><em>.</em><em> </em><strong><sup>4</sup></strong><em>Send</em><em> </em><em>1,000</em><em> men from each tribe.”</em></span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> Moses told the people, “<em>Arm men to attack Midian and carry out </em><em>Yahveh</em><em>’s revenge on </em><em>it</em><em>.</em><em> </em><strong><sup>4</sup></strong><em>Send</em><em> </em><em>1,000</em><em> men from each tribe.”</em></span>
 
-<span class="verse" id="v5"><sup><strong>5</strong></sup>They pro</span>
-<p class="section-ref">vided 12</p>
+<span class="verse" id="v5"><sup class="verse-num">5</sup> They provided 12,000 men. <strong><sup>6</sup></strong>Moses sent them to war with Phinehas Ben-Eleazar the priest along with the holy items from the sanctuary and bugles for signaling. <strong><sup>7</sup></strong>They fought Midian and killed every male, <strong><sup>8</sup></strong>including its five kings: Evi, Rekem, Zur, Hur, Reba. They also killed Balaam Ben-Beor with a sword. <strong><sup>9</sup></strong>They took the women and children, their cattle, flocks, and possessions. <strong><sup>10</sup></strong>They burned their towns, houses, and camps; <strong><sup>11</sup></strong>and took the spoil—people and animals. <strong><sup>12</sup></strong>They brought the captives, prey, and spoil to Moses, Eleazar, and the community on the plains of Moab across the Jordan from Jericho.</span>
+<p class="section-ref">Num 31:1-12</p>
 
-### ,000 men. 6Moses sent them to war with Phinehas Ben-Eleazar the priest along with the holy items from the sanctuary and bugles for signaling. 7They fought Midian and killed every male, 8including its five kings: Evi, Rekem, Zur, Hur, Reba. They also killed Balaam Ben-Beor with a sword. 9They took the women and children, their cattle, flocks, and possessions. 10They burned their towns, houses, and camps; 11and took the spoil—people and animals. 12They brought the captives, prey, and spoil to Moses, Eleazar, and the community on the plains of Moab across the Jordan from Jericho.	 Num 31:1-12
+<span class="verse" id="v13"><sup class="verse-num">13</sup> Moses, Eleazar, and the leaders of the community met them outside the camp. <strong><sup>14</sup></strong>Moses was mad at the officers of the army and the commanders of thousands and hundreds.</span>
 
+<span class="verse" id="v21"><sup class="verse-num">21</sup> Eleazar told the men that fought, <em>“</em><em>Yahveh</em><em> commanded</em> <em>Moses</em><em> </em><em>t</em><em>his statute.</em> <strong><sup>22</sup></strong><em>‘The</em><em> gold, silver, brass, iron, tin, and lead—</em><strong><sup>23</sup></strong><em>anything</em><em> that does</em><em>n’t burn—put through fire </em><em>to cleanse it;</em><em> then purify it with water.</em><em> </em><em>Anything that </em><em>will </em><em>burn</em><em>,</em><em> purify with water.</em><em> </em><strong><sup>24</sup></strong><em>Wash</em><em> your</em><em> </em><em>clothes</em><em> the seventh day. You’ll be ceremonially clean then,</em><em> and you can come in</em><em>to</em><em> the camp.”</em><em>	</em><strong>Num 31:13-24</strong><em>   </em></span>
 
-<span class="verse" id="v13"><sup><strong>13</strong></sup>Moses, Eleazar, and the leaders of the community met them outside the camp. <strong><sup>14</sup></strong>Moses was mad at the officers of the army and the commanders of thousands and hundreds. <strong><sup>15</sup></strong><em>“You’ve</em><em> saved the women alive?</em><em> </em><strong><sup>16</sup></strong><em>They’re</em><em> what </em><em>got</em><em> Israel </em><em>to </em><em>sin against </em><em>Yahveh</em><em> at Peor, and a plague came into the </em><em>community</em><em> </em><em>by Balaam’s </em><em>advice</em><em>.</em><em> </em><strong><sup>17</sup></strong><em>So</em><em> kill every male </em><em>child and every woman that has had intercourse with a man</em><em>.</em><em> </em><strong><sup>18</sup></strong><em>Keep</em><em> alive for yourselves</em><em> the young girls that are virgins</em><em>.</em><em> </em><strong><sup>19</sup></strong><em>Camp</em><em> outside the camp for </em><em>a week</em><em>.</em><em> </em><em>Whoever has killed anybody or touched</em><em> a slain body, purify yourself</em><em> on the third day and seventh day, you and your captives.</em><em> </em><strong><sup>20</sup></strong><em>Purify</em><em> every piece of clothing, an</em><em>ything </em><em>made out of</em><em> skin, goat hair, </em><em>or</em><em> wood.”</em></span>
+<span class="verse" id="v25"><sup class="verse-num">25</sup> Yahveh told Moses,</span>
 
-<span class="verse" id="v21"><sup><strong>21</strong></sup>Eleazar told the men that fought, <em>“</em><em>Yahveh</em><em> commanded</em> <em>Moses</em><em> </em><em>t</em><em>his statute.</em> <strong><sup>22</sup></strong><em>‘The</em><em> gold, silver, brass, iron, tin, and lead—</em><strong><sup>23</sup></strong><em>anything</em><em> that does</em><em>n’t burn—put through fire </em><em>to cleanse it;</em><em> then purify it with water.</em><em> </em><em>Anything that </em><em>will </em><em>burn</em><em>,</em><em> purify with water.</em><em> </em><strong><sup>24</sup></strong><em>Wash</em><em> your</em><em> </em><em>clothes</em><em> the seventh day. You’ll be ceremonially clean then,</em><em> and you can come in</em><em>to</em><em> the camp.”</em><em>	</em></span>
-<p class="section-ref">Num 31:13-24</p>
+<span class="verse" id="v31"><sup class="verse-num">31</sup> Moses and Eleazar did that.</span>
 
-<span class="verse" id="v25"><sup><strong>25</strong></sup>Yahveh told Moses, <strong><sup>26</sup></strong><em>“</em><em>You</em><em>, Eleazar, and heads of families,</em><em> count the spoil—</em><em>people</em><em> and animal</em><em>s</em><em>—</em><strong><sup>27</sup></strong><em>and</em><em> divide it between soldier</em><em>s and </em><em>community</em><em>.</em><em> </em><strong><sup>28</sup></strong><em>Levy</em><em> a tax for </em><em>Yahveh</em><em> from the </em><em>soldier</em><em>s</em><em>’ spoil</em><em>:</em><em> 1</em><em> per</em><em> 500</em><em> person</em><em>s</em><em>, cattle, donkeys, and sheep.</em><em> </em><strong><sup>29</sup></strong><em>Give this </em><em>share</em><em> to Eleazar as a </em><em>heave</em><em> offering to </em><em>Yahveh</em><em>.</em><em> </em><strong><sup>30</sup></strong><em>From</em><em> Israel’s half, take </em><em>1</em><em> from every </em><em>50</em><em> person</em><em>s</em><em>, cattle, donkeys, and sheep, and give them to the Levites that take care of the </em><em>Tabernacle</em><em>.”</em></span>
+<span class="verse" id="v32"><sup class="verse-num">32</sup> The prey that was left from the soldiers’ spoil was 675,000 sheep, <strong><sup>33</sup></strong>72,000 cattle, <strong><sup>34</sup></strong>61,000 donkeys, <strong><sup>35</sup></strong>32,000 virgins.</span>
 
-<span class="verse" id="v31"><sup><strong>31</strong></sup>Moses and Eleazar did that.</span>
+<span class="verse" id="v36"><sup class="verse-num">36</sup> The soldiers’ half was 337,500 sheep; <strong><sup>37</sup></strong>Yahveh’s levy, 675.</span>
 
-<span class="verse" id="v32"><sup><strong>32</strong></sup>The prey that was left from the soldiers’ spoil</span>
-<p class="section-ref">was 675</p>
+<span class="verse" id="v38"><sup class="verse-num">38</sup> There were 36,000 cattle; Yahveh’s levy, 72.</span>
 
-### ,000 sheep, 3372,000 cattle, 3461,000 donkeys, 3532,000 virgins.
+<span class="verse" id="v39"><sup class="verse-num">39</sup> There were 30,500 donkeys; Yahveh’s levy, 61.</span>
 
+<span class="verse" id="v40"><sup class="verse-num">40</sup> There were 16,000 persons; Yahveh’s levy, 32.</span>
 
-<span class="verse" id="v36"><sup><strong>36</strong></sup>The soldiers’ half</span>
-<p class="section-ref">was 337</p>
-
-### ,500 sheep; 37Yahveh’s levy, 675.
-
-
-<span class="verse" id="v38"><sup><strong>38</strong></sup>There</span>
-<p class="section-ref">were 36</p>
-
-### ,000 cattle; Yahveh’s levy, 72.
-
-
-<span class="verse" id="v39"><sup><strong>39</strong></sup>There</span>
-<p class="section-ref">were 30</p>
-
-### ,500 donkeys; Yahveh’s levy, 61.
-
-
-<span class="verse" id="v40"><sup><strong>40</strong></sup>There</span>
-<p class="section-ref">were 16</p>
-
-### ,000 persons; Yahveh’s levy, 32.
-
-
-<span class="verse" id="v41"><sup><strong>41</strong></sup>Moses gave Yahveh’s levy to Eleazar the priest.</span>
+<span class="verse" id="v41"><sup class="verse-num">41</sup> Moses gave Yahveh’s levy to Eleazar the priest.</span>
 <p class="section-ref">Num 31:25-41</p>
 
-<span class="verse" id="v42"><sup><strong>42</strong></sup>Israel’s half was <strong><sup>43</sup></strong>337,500 sheep, <strong><sup>44</sup></strong>36,000 cattle, <strong><sup>45</sup></strong>30,500 donkeys, <strong><sup>46</sup></strong></span>
-<p class="section-ref">and 16</p>
+<span class="verse" id="v42"><sup class="verse-num">42</sup> Israel’s half was <strong><sup>43</sup></strong>337,500 sheep, <strong><sup>44</sup></strong>36,000 cattle, <strong><sup>45</sup></strong>30,500 donkeys, <strong><sup>46</sup></strong>and 16,000 persons. <strong><sup>47</sup></strong>From Israel’s half Moses took out one from every 50 people and animals, and gave them to the Levites that take care of the Tabernacle.</span>
 
-### ,000 persons. 47From Israel’s half Moses took out one from every 50 people and animals, and gave them to the Levites that take care of the Tabernacle.
-
-
-<span class="verse" id="v48"><sup><strong>48</strong></sup>The commanders of thousands and hundreds came to Moses, <strong><sup>49</sup></strong><em>“We’ve</em><em> </em><em>counted</em><em> the men who fought and not a one is missing.</em><em> </em><strong><sup>50</sup></strong><em>So</em><em>,</em><em> </em><em>from w</em><em>hat each man found</em><em>,</em><em> we’ve brought an offering to </em><em>Yahveh: </em><em>articles of gold, armlets, bracelets, signet rings, earrings, and neck</em><em> chain</em><em>s to </em><em>atone</em><em> for ourselves.”</em></span>
-
-<span class="verse" id="v51"><sup><strong>51</strong></sup>Moses and Eleazar took the gold and crafted articles, <strong><sup>52</sup></strong>418¾ lbs <sup>16,750 shekels</sup> worth. <strong><sup>53</sup></strong>Each soldier had taken spoil. <strong><sup>54</sup></strong>Moses and Eleazar brought the commanders’ gold to the Tent of Meeting as a memorial to Israel before Yahveh.</span>
-<p class="section-ref">Num 31:42-54</p>
-
-### Reuben and Gad Settle in Gilead
-
+<span class="verse" id="v48"><sup class="verse-num">48</sup> The commanders of thousands and hundreds came to Moses,</span>
 
 
 <style>

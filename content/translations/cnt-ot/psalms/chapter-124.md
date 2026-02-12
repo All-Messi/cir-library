@@ -4,28 +4,28 @@ chapter: 124
 next: chapter-125
 prev: chapter-123
 title: Psalms 124
-translation: COT
+translation: CNT
 type: chapter
 weight: 124
 ---
 
-## Psalms Chapter **124**
+## Psalms Chapter 124
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>Let Israel acknowledge,<em> </em> <strong><sup>	</sup></strong><em>“If t</em><em>he </em><em>L</em><em>ORD</em><em> hadn’t taken our side</em></span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Let Israel acknowledge, “If the LORD hadn’t taken our side</span>
 
-<span class="verse" id="v2"><sup><strong>2</strong></sup><em>when </em><em>people</em><em> </em><em>attacked</em><em> us,</em></span>
+<span class="verse" id="v2"><sup class="verse-num">2</sup> when people attacked us,</span>
 
-<span class="verse" id="v3"><sup><strong>3</strong></sup><em>they would have swallowed us alive</em><em> in their fury,</em><em> </em></span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> they would have swallowed us alive in their fury,</span>
 
-<span class="verse" id="v4"><sup><strong>4</strong></sup><em>the water would have overwhelmed us,</em> <em>	</em><em>	the river would have rushed over us,</em></span>
+<span class="verse" id="v4"><sup class="verse-num">4</sup> the water would have overwhelmed us, the river would have rushed over us,</span>
 
-<span class="verse" id="v5"><sup><strong>5</strong></sup><em>the raging water would’ve drowned us.”</em></span>
+<span class="verse" id="v5"><sup class="verse-num">5</sup> the raging water would’ve drowned us.”</span>
 
-<span class="verse" id="v6"><sup><strong>6</strong></sup>Bless the LORD, <em>	</em><em>	</em>who didn’t let us be torn to pieces in their teeth.</span>
+<span class="verse" id="v6"><sup class="verse-num">6</sup> Bless the LORD, who didn’t let us be torn to pieces in their teeth.</span>
 
-<span class="verse" id="v7"><sup><strong>7</strong></sup>We escaped like a bird from a trapper’s snare; the snare broke and we got away.</span>
+<span class="verse" id="v7"><sup class="verse-num">7</sup> We escaped like a bird from a trapper’s snare; the snare broke and we got away.</span>
 
-<span class="verse" id="v8"><sup><strong>8</strong></sup>Our help comes from the LORD, maker of earth and sky.</span>
+<span class="verse" id="v8"><sup class="verse-num">8</sup> Our help comes from the LORD, maker of earth and sky.</span>
 <p class="section-ref">Ps 124:1-8</p>
 
 

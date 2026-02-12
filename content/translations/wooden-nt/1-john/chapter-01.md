@@ -8,7 +8,7 @@ type: chapter
 weight: 1
 ---
 
-## 1 John Chapter **1**
+## 1 John Chapter 1
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>What was from (the) beginning, what we-have-heard, what we-have-seen with-the eyes of-us, what we-have-observed and the hands of-us have-handled about the word of-[the] life—<strong><sup>2</sup></strong>and the life was-manifested, and we-have-seen and we-testify and proclaim to-you [the] eternal [the] life that was with the Father and was-manifested to us—<strong><sup>3</sup></strong>what we-have-seen and have-heard, we-proclaim also to-you in-order-that <u>you</u> also may-have fellowship with us, and [the] our [the] fellowship (is) also with the Father and with the Son of-him Jesus Christ.  <strong><sup>4</sup></strong>And we write these-things in-order-that the joy of-us may-be full<sup>p</sup><sup>f</sup>.</span>
 

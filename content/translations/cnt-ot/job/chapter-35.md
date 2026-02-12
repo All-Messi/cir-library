@@ -4,14 +4,14 @@ chapter: 35
 next: chapter-36
 prev: chapter-34
 title: Job 35
-translation: COT
+translation: CNT
 type: chapter
 weight: 35
 ---
 
-## Job Chapter **35**
+## Job Chapter 35
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup><strong>Elihu continued:</strong> <strong><sup>2</sup></strong><em>“Do you think it’s righteous</em> <em>	</em><em>	for you to say you’re upright before God?</em></span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> <strong>Elihu continued:</strong></span>
 
 <span class="verse" id="v3"><strong><sup>3</sup></strong><em>You say, ‘What advantage will I have?</em> <em>	</em><em>	What benefit will I get more than if I’d sinned?’</em></span>
 
@@ -23,11 +23,7 @@ weight: 35
 
 <span class="verse" id="v7"><strong><sup>7</sup></strong><em>If you’re good, what good are you doing for him?</em> <em>	</em><em>	What good does he get out of you?</em></span>
 
-<span class="verse" id="v8"><strong><sup>8</sup></strong><em>Your goodness is for </em>other <em>people like you.</em><strong>	</strong></span>
-<p class="section-ref">Job 35:1-8</p>
-
-### 9“They cry out because they’re oppressed; 		they call for help against powerful people.
-
+<span class="verse" id="v8"><strong><sup>8</sup></strong><em>Your goodness is for </em>other <em>people like you.</em><strong>	</strong><strong>Job 35:1-8</strong></span>
 
 <span class="verse" id="v10"><strong><sup>0</sup></strong><em>But nobody says, ‘Where’s God my Maker,</em> <em>	</em><em>	who gives songs at night,</em></span>
 
@@ -41,7 +37,7 @@ weight: 35
 
 <span class="verse" id="v15"><strong><sup>5</sup></strong><em>Now, since he hasn’t visited in his anger</em> <em>	</em><em>	</em><em>	and acknowledged sin enough,</em></span>
 
-<span class="verse" id="v16"><strong><sup>16</sup></strong><em>you open your mouth with empty talk, Job,</em> <em>	</em><em>	</em><em>	not knowing what you’re talking about.”</em><strong> </strong></span>
+<span class="verse" id="v16"><strong><sup>16</sup></strong><em>you open your mouth with empty talk, Job,</em> <em>	</em><em>	</em><em>	not knowing what you’re talking about.”</em><strong> </strong><strong></span>
 <p class="section-ref">Job 35:9-16</p>
 
 

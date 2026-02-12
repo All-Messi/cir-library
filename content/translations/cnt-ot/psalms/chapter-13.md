@@ -1,30 +1,28 @@
 ---
 book: Psalms
 chapter: 13
-next: chapter-15
+next: chapter-14
 prev: chapter-12
 title: Psalms 13
-translation: COT
+translation: CNT
 type: chapter
 weight: 13
 ---
 
-## Psalms Chapter **13**
+## Psalms Chapter 13
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>Fools keep telling themselves there’s no God, corrupt people that do corrupt things; none <em>of them</em> does what’s right.</span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> LORD, are you going to forget about me forever? How long will you ignore me?</span>
 
-<span class="verse" id="v2"><sup><strong>2</strong></sup>The LORD looks down from heaven <strong><sup>	</sup></strong>to see if there’s anybody that lives wisely, if anybody seeks him.</span>
+<span class="verse" id="v2"><sup class="verse-num">2</sup> How long must I counsel myself in constant sorrow? How long will my enemies lord it over me?</span>
 
-<span class="verse" id="v3"><sup><strong>3</strong></sup>But they’ve all veered off course and become corrupted; not a one of them does what’s right, not a one.</span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> Think about me and respond to me, LORD my God; brighten my eyes so they don’t grow dull as in death,</span>
 
-<span class="verse" id="v4"><sup><strong>4</strong></sup>Don’t sinners realize what they’re doing <strong><sup>	</sup></strong>when they eat up my people like bread and refuse to call on me?</span>
+<span class="verse" id="v4"><sup class="verse-num">4</sup> so my enemies won’t brag about defeating me and celebrate over my downfall.</span>
 
-<span class="verse" id="v5"><sup><strong>5</strong></sup>Terror will overwhelm them later <strong><sup>	</sup></strong>because I’m taking the good people’s side.</span>
+<span class="verse" id="v5"><sup class="verse-num">5</sup> I rely on your enduring love; I’m happy because you’ve delivered me.</span>
 
-<span class="verse" id="v6"><sup><strong>6</strong></sup>Oppressors try to frustrate the endeavors of the oppressed, but I’m their refuge.</span>
-
-<span class="verse" id="v7"><sup><strong>7</strong></sup>Oh that deliverance for Israel would come out of Zion! When the LORD restores his captive people, Jacob will celebrate; Israel will be happy.</span>
-<p class="section-ref">Ps 14:1-7</p>
+<span class="verse" id="v6"><sup class="verse-num">6</sup> I’ll sing to you, LORD, because you’ve blessed me wonderfully.</span>
+<p class="section-ref">Ps 13:1-6</p>
 
 
 <style>

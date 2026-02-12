@@ -9,7 +9,7 @@ type: chapter
 weight: 4
 ---
 
-## 1 Corinthians Chapter **4**
+## 1 Corinthians Chapter 4
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>In-this-way let┘(a) man└consider us: as ministers of-Christ and stewards of-(the)-mysteries of-God. <strong><sup>2</sup></strong>Here beyond-that it-is-required in [the] stewards that (a) person be-found reliable. <strong><sup>3</sup></strong>But to-me it-is (a) very-small-thing that I-should-be-examined by you or by (a) human court; indeed I-do┘not-even└judge myself. I-am-aware-of┘nothing└against myself, but I-do┘not└stand-justified by this; but the-One examining me is (the) Lord. <strong><sup>5</sup></strong>So-that do┘not└judge anything ahead-of time until the Lord comes, who also will-bring-to-light hidden-things of-[the] darkness and will-disclose the plans of-the hearts, and then [the] praise will-be to-each from [the] God.</span>
 

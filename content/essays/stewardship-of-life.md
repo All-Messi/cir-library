@@ -1,44 +1,58 @@
 ---
 author: Virgil Warren, PhD
 categories:
+- Essays
 - Topics
 - BASIC CHRISTIANITY
 - Basic Christianity (Book)
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: STEWARDSHIP OF LIFE
 weight: 999
 ---
 
-STEWARDSHIP OF LIFE
+
+
 
 INTRODUCTION
 
+
 The stewardship of life sees the whole of life as having a primarily vertical direction. It envisions, not a consumer mentality, but a producer mentality. A person must start at the right place in order to think, feel, and act properly in this stewardship.
+
+
 
 I. SELF
 
-Our possessions are not ours; they belong to the creator: Psalm 24:1.
 
-Our privileges: 1 Corinthians 4:7
+Our possessions are not ours; they belong to the creator: Psalm<strong> 24</strong>:1.
 
-Our selves: we do not belong to ourselves: Psalm 24:1.
+Our privileges: 1 Corinthians <strong><sup>4</sup></strong>:7
+
+Our selves: we do not belong to ourselves: Psalm <strong><sup>24</sup></strong>:1.
+
 
 God’s by creation
 
-People’s responsibility for the earth by God’s appointment: Psalm 8:3-6.
+People’s responsibility for the earth by God’s appointment: Psalm<strong> 8</strong>:3-6.
 
-God’s by redemption: 1 Corinthians 6:19b-20a
+God’s by redemption: 1 Corinthians <strong><sup>6</sup></strong>:19b-20a
+
 
 A person plus his accouterments equals the total self.
 
-“First They Gave of Themselves to the Lord”: 2 Corinthians 8:5
+
+<em>“First They Gave of Themselves to the Lord”</em>: 2 Corinthians <strong><sup>8</sup></strong>:5
+
+
 
 II. TIME
 
+
 Adult capacity for deriving satisfaction from work (vs. entertainment or play)
 
+
 III. ABILITIES
+
 
 A.	Natural capacities			talents	A)	THE INDIVIDUAL
 
@@ -52,11 +66,12 @@ Christians.
 
 B.	Developed abilities		skills	B)	THE	BODY
 
-2 Corinthians 8:14
+2 Corinthians <strong><sup>8</sup></strong>:14
+
 
 1. something for everyone
 
-Romans 12:4-8				     to do
+Romans <strong><sup>12</sup></strong>:4-8				     to do
 
 2.	interdependency
 
@@ -68,11 +83,12 @@ C.	Supernatural endowments		miracles 	         	involve the hardest
 
 work and require the
 
-1 Corinthians 12			                                	 	most attention.
+1 Corinthians<strong> 12</strong>			                                	 	most attention.
 
 prophecy
 
 speaking in languages
+
 
 Practically any skill or capacity we have can be applied to the work of the kingdom.
 
@@ -80,57 +96,70 @@ Giving of our abilities, and the like, may be more valuable and give greater sat
 
 than giving resources (money, goods), but we can look at giving money too.
 
+
+
 IV. RESOURCES
+
 
 A.	Motivations
 
+
 1.	Example
+
 
 Jerusalem Christians
 
-Philippian church      (Philippians 4:14-19; 2 Corinthians 8)
+Philippian church      (Philippians <strong><sup>4</sup></strong>:14-19; 2 Corinthians<strong> 8</strong>)
 
-Widow’s mite            (Mark 12:42)
+Widow’s mite            (Mark <strong><sup>12</sup></strong>:42)
 
-Christ himself            (2 Corinthians 8:9)
+Christ himself            (2 Corinthians<strong> 8</strong>:9)
+
 
 2.	Gratitude
 
-1 Corinthians 15:55-58 + 16:1a: Redemption is connected with collection.
+
+1 Corinthians <strong><sup>15</sup></strong>:55-58 + <strong><sup>16</sup></strong>:1a: Redemption is connected with collection.
 
 Why didn’t God give the Law after the exodus?
 
-Ephesians 1:6: “To the praise of the glory of his grace”
+Ephesians<strong> 1</strong>:6: <em>“To the praise of the glory of his grace”</em>
 
-Matthew 10:6: “You received freely; give freely.”
+Matthew <strong><sup>10</sup></strong>:6: <em>“You received freely; give freely.”</em>
 
-3.	Love: 2 Corinthians 8:7-8
+
+3.	Love: 2 Corinthians <strong><sup>8</sup></strong>:7-8
 
 4.	Results
 
-We help change ourselves (Ephesians 4:28).
+
+We help change ourselves (Ephesians <strong><sup>4</sup></strong>:28).
 
 Our affections are tied to the matter to which we contributed (Matthew
 
-6:21).
+<strong><sup>6</sup></strong>:21).
 
 Sense of satisfaction
 
-Blessing that returns to us (Acts 20:35)
+Blessing that returns to us (Acts <strong><sup>20</sup></strong>:35)
 
-Makes people happy (ministers’ support) and God too (Philippians 4:18)
+Makes people happy (ministers’ support) and God too (Philippians <strong><sup>4</sup></strong>:18)
 
 Good that is accomplished
+
 
 God is praised by our actions.
 
 by the gratitude to him from those dependent on our
 
-liberality (2 Corinthians 9:12-13).
+liberality (2 Corinthians <strong><sup>9</sup></strong>:12-13).
 
-As to amount, the more we put into something, the more we get out of it and the more our hearts are tied to it (Matthew 6:21; 2 Corinthians 9:6).
+
+As to amount, the more we put into something, the more we get out of it and the more our hearts are tied to it (Matthew<strong> 6</strong>:21; 2 Corinthians<strong> 9</strong>:6).
+
 
 B.	Amount
+
 
 Not all people are alike in circumstances of life,
 
@@ -138,42 +167,52 @@ resources,
 
 level of faith.
 
-1.	According to the level of faith (Romans 12:3-8); we need to be careful pushing people to give beyond the level of their commitment.
 
-2.	According to need (Acts 4:35; 2:45)
+1.	According to the level of faith (Romans <strong><sup>12</sup></strong>:3-8); we need to be careful pushing people to give beyond the level of their commitment.
 
-3.	According to ability (Acts 11:29; 2 Corinthians 8:3, 11-12; 1 Corinthians
+2.	According to need (Acts<strong> 4</strong>:35; <strong><sup>2</sup></strong>:45)
 
-16:1)
+3.	According to ability (Acts<strong> 11</strong>:29; 2 Corinthians <strong><sup>8</sup></strong>:3, 11-12; 1 Corinthians
 
-4.	According to what creates equality (2 Corinthians 8:13-15; cp. John the Baptist in Luke 3:11)
+<strong><sup>16</sup></strong>:1)
+
+4.	According to what creates equality (2 Corinthians<strong> 8</strong>:13-15; cp. John the Baptist in Luke<strong> 3</strong>:11)
+
 
 C.	Manner
 
-Intentionally:	Ephesians 4:28
 
-Voluntarily:		2 Corinthians 8:3    	(newborn baby—life in itself)
+Intentionally:	Ephesians <strong><sup>4</sup></strong>:28
 
-Cheerfully:		2 Corinthians 9:7	(from the best) (give of self)
+Voluntarily:		2 Corinthians <strong><sup>8</sup></strong>:3    	(newborn baby—life in itself)
+
+Cheerfully:		2 Corinthians <strong><sup>9</sup></strong>:7	(from the best) (give of self)
 
 (purposed/planned)
 
-Regularly:		2 Corinthians 16:1  	Do not get caught by surprise when not
+Regularly:		2 Corinthians<strong> 16</strong>:1  	Do not get caught by surprise when not
 
 able to do much.
 
+
+
 CONCLUSION
 
+
 The interpersonal context removes weaknesses that come from depersonalizing stewardship      like . . .
+
 
 giving in order to get
 
 quantified approach to giving
 
-Giving of ourselves (2 Corinthians 8:5)
 
-to meet the needs of real people (Philippians 4:10-20)
+Giving of ourselves (2 Corinthians <strong><sup>8</sup></strong>:5)
+
+
+to meet the needs of real people (Philippians <strong><sup>4</sup></strong>:10-20)
 
 because Christ has done so much for us
+
 
 christir.org

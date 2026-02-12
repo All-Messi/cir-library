@@ -1,16 +1,17 @@
 ---
 author: Virgil Warren, PhD
 categories:
+- Essays
 - Topics
 - INTERPERSONALISM
 - IP (interpersonalism) IMPACT ON TOPICS
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: INTERPERSONALISM AND THE MYSTERY OF GOD
 weight: 999
 ---
 
-INTERPERSONALISM AND THE MYSTERY OF GOD
+
 
 Interpersonalism integrates with the “mystery of God” because (a) the mystery factor is highest in the interpersonal categories. That is so because the other categories—nature, law, and logic—are deterministic; but persons, especially persons in relationship, are not fully predictable since they have rationality, creativity, and free will on both sides of the relationship.
 
@@ -19,3 +20,4 @@ The mystery of God comes also from (b) the fact that God is supernatural, but we
 Finally, God is mysterious to us because (c) his self-disclosure in history and scripture is not complete; by the nature of the case, it cannot be otherwise. While we know enough to relate to him and to understand his expectations of us, the full range of his nature and purposes lies beyond us.
 
 christir.org
+

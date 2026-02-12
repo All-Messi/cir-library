@@ -9,7 +9,7 @@ type: chapter
 weight: 8
 ---
 
-## Revelation Chapter **8**
+## Revelation Chapter 8
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>And when he-opened the seventh [the] seal, silence became in [the] heaven for┘about└ (a)-half-hour.  <strong><sup>2</sup></strong>And I-saw the seven angels who stood before [the] God and seven trumpets were-given to them.</span>
 

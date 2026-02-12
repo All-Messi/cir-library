@@ -9,7 +9,7 @@ type: chapter
 weight: 7
 ---
 
-## 1 Corinthians Chapter **7**
+## 1 Corinthians Chapter 7
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Now about what-things you-wrote. (It is) good for (a) man not to-touch (a) woman. <strong><sup>2</sup></strong>But on-account-of [the] sexual-immorality, each man should-have [the] his-own wife, and each woman should-have [the] her-own husband. <strong><sup>3</sup></strong>The husband needs-to-give to-the wife the/her due; and likewise also the wife (needs-to-give) to-the husband the/his due. <strong><sup>4</sup></strong>The wife does┘not└have-authority-over [the] her body, but the husband (does). And likewise the husband also does┘not└have-authority-over [the] his body, but the wife (does). <strong><sup>5</sup></strong>Do┘not└deprive one-another, except<sup>2</sup> for (a) time by agreement in-order-that you<sup>pl</sup>-may-devote-yourselves to-[the] prayer and be together<sup>3</sup> again, in-order-that [the] Satan may┘not└tempt you<sup>pl</sup> on-account-of the self-control of-you. <strong><sup>6</sup></strong>But I-say this according-to concession, not according-to commandment. <strong><sup>7</sup></strong>But I-want all men to-be also as myself, but each has his-own gracious-gift from God, the–one thus, on-the-one-hand, and the-other thus, on-the-other-hand.</span>
 

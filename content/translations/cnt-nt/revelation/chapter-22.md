@@ -8,28 +8,23 @@ type: chapter
 weight: 22
 ---
 
-## Revelation Chapter **22**
+## Revelation Chapter 22
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>The angel showed me a crystal-clear river of life flowing from the throne of God and the Lamb. <strong><sup>2</sup></strong>Between the city street and the river stood the tree of life, bearing twelve kinds of fruit and growing leaves that heal the nations. <strong><sup>3</sup></strong>There won’t be any more curse. The throne of God and the Lamb will be in <em>that city</em>, and his servants will worship him. <strong><sup>4</sup></strong>They’ll see his face and have his name on their foreheads. <strong><sup>5</sup></strong>There won’t be any night; they won’t need a lamp or the sun because God will give them light, and they’ll reign forevermore.</span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> The angel showed me a crystal-clear river of life flowing from the throne of God and the Lamb. <strong><sup>2</sup></strong>Between the city street and the river stood the tree of life, bearing twelve kinds of fruit and growing leaves that heal the nations. <strong><sup>3</sup></strong>There won’t be any more curse. The throne of God and the Lamb will be in <em>that city</em>, and his servants will worship him. <strong><sup>4</sup></strong>They’ll see his face and have his name on their foreheads. <strong><sup>5</sup></strong>There won’t be any night; they won’t need a lamp or the sun because God will give them light, and they’ll reign forevermore.</span>
 <p class="section-ref">Rev 22:1-5</p>
 
 ### The Return of Christ
 
 
-<span class="verse" id="v6"><strong><sup>6</sup></strong>The angel said, <em>“</em><em>What you’ve seen and heard</em><em> </em><em>is</em><em> </em><em>true and trustworthy. The </em><em>L</em><em>ORD</em><em> God of the spirits of the prophets sent his angel to show his servants what needs to happen soon.</em><em> </em><strong><sup>7</sup></strong><em>‘</em><em>I’m</em><em> coming soon.</em><em> </em><em>Blessed </em><em>are</em><em> those who</em><em> keep the prophecy </em><em>that’s</em><em> in this book.</em><em>’</em><em>”</em><em>                   </em> <em>	</em></span>
-<p class="section-ref">Rev 22:6-7</p>
+<span class="verse" id="v6"><strong><sup>6</sup></strong>The angel said, <em>“</em><em>What you’ve seen and heard</em><em> </em><em>is</em><em> </em><em>true and trustworthy. The </em><em>L</em><em>ORD</em><em> God of the spirits of the prophets sent his angel to show his servants what needs to happen soon.</em><em> </em><strong><sup>7</sup></strong><em>‘</em><em>I’m</em><em> coming soon.</em><em> </em><em>Blessed </em><em>are</em><em> those who</em><em> keep the prophecy </em><em>that’s</em><em> in this book.</em><em>’</em><em>”</em><em>                   </em> <em>	</em><strong>Rev 22:6-7</strong></span>
 
-<span class="verse" id="v8"><strong><sup>8</sup></strong>I, John, heard and saw those things. When I heard and saw them, I fell down to worship the angel that was showing them to me. <strong><sup>9</sup></strong>But he said, <em>“Don’t d</em><em>o that. I’m a fellow servant with</em><em> your </em><em>brothers</em><em> the prophets and </em><em>the people that</em><em> keep </em><em>the message</em><em> in this book.</em><em> </em><em>Worship God.</em><em> </em><em>	</em> <strong><sup>10</sup></strong><em>“Don’t</em><em> seal up the prophecy in this book because the time is soon.</em></span>
+<span class="verse" id="v8"><strong><sup>8</sup></strong>I, John, heard and saw those things. When I heard and saw them, I fell down to worship the angel that was showing them to me. <strong><sup>9</sup></strong>But he said, <em>“Don’t d</em><em>o that. I’m a fellow servant with</em><em> your </em><em>brothers</em><em> the prophets and </em><em>the people that</em><em> keep </em><em>the message</em><em> in this book.</em><em> </em><em>Worship God.</em><em> </em><em>	</em></span>
 
-<span class="verse" id="v11"><sup><strong>11</strong></sup><em>Let</em><em> the u</em><em>nrighteous stay </em><em>unrighteous;</em><em> </em> <strong><sup> </sup></strong>  <em>let the filthy stay </em><em>filthy;</em><em> </em> <em> </em><em> </em><em>l</em><em>et the holy</em><em> stay</em><em> holy.</em> <strong><sup>12</sup></strong><em>“I’m</em><em> coming soon</em><em>. I’ll bring with me the</em><em> reward for each</em><em> person</em><em> according </em><em>to what they’ve done</em><em>.</em><em> </em><strong><sup>13</sup></strong><em>I’m</em><em> Alpha and Omega, the First and Last, the beginning and end.”</em><em>	</em></span>
-<p class="section-ref">Rev 22:8-13</p>
+<span class="verse" id="v11"><sup class="verse-num">11</sup> <em>Let</em><em> the u</em><em>nrighteous stay </em><em>unrighteous;</em><em> </em> <strong><sup> </sup></strong>  <em>let the filthy stay </em><em>filthy;</em><em> </em> <em> </em><em> </em><em>l</em><em>et the holy</em><em> stay</em><em> holy.</em></span>
 
-### Keeping the Message of This Book
+<span class="verse" id="v14"><strong><sup>4</sup></strong>Blessed are those who wash their robes so they’ll have a right to the tree of life and a right to go into the city through its gates. <strong><sup>15</sup></strong>Outside are dogs, sorcerers, immoral people, murderers, idolaters, and everybody that enjoys telling and doing something false.</span>
 
-
-<span class="verse" id="v14"><strong><sup>4</sup></strong>Blessed are those who wash their robes so they’ll have a right to the tree of life and a right to go into the city through its gates. <strong><sup>15</sup></strong>Outside are dogs, sorcerers, immoral people, murderers, idolaters, and everybody that enjoys telling and doing something false. <strong><sup>16</sup></strong><em>“I</em><em>, Jesus, sent my angel to tell you</em><em><sup>pl </sup></em><em>these things for the churches.</em><em> </em><em>I’m the root and offspring of David, the bright morning star.”</em><em> </em></span>
-
-<span class="verse" id="v17"><sup><strong>17</strong></sup>The Spirit and the bride say, <em>“Come.”</em> Let the one that hears it say, <em>“Come.”</em> Let the thirsty come and drink the water of life free of charge.</span>
+<span class="verse" id="v17"><sup class="verse-num">17</sup> The Spirit and the bride say, <em>“Come.”</em> Let the one that hears it say, <em>“Come.”</em> Let the thirsty come and drink the water of life free of charge.</span>
 <p class="section-ref">Rev 22:14-17</p>
 
 ### No Tampering with the Message
@@ -39,7 +34,7 @@ weight: 22
 
 <span class="verse" id="v20"><strong><sup>0</sup></strong>The One that’s telling <em>you</em> these things says, <em>“Yes, I’m coming soon.”</em> Come, Lord Jesus.</span>
 
-<span class="verse" id="v21"><sup><strong>21</strong></sup>The grace of the Lord Jesus <em>be</em> with <em>you</em> all. 	<strong>Rev. 22:18</strong><strong>-21</strong> Translator: Virgil Warren,     								       christir.org</span>
+<span class="verse" id="v21"><sup class="verse-num">21</sup> The grace of the Lord Jesus <em>be</em> with <em>you</em> all. 	<strong>Rev. 22:18</strong><strong>-21</strong> Translator: Virgil Warren,     								       christir.org</span>
 
 
 <style>

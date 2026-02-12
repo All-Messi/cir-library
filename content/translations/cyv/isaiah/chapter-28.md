@@ -9,7 +9,7 @@ type: chapter
 weight: 28
 ---
 
-## Isaiah Chapter **28**
+## Isaiah Chapter 28
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Misfortune awaits <strong>the proud crown of Ephraim’s drunks</strong>, <strong>	</strong><strong>	</strong>	<strong>the fading flower of its glorious beauty,</strong> <em>Samaria</em>, <strong>that’s at the head of the fertile valley</strong> of those drunk with wine.</span>
 
@@ -25,7 +25,7 @@ weight: 28
 
 <span class="verse" id="v7"><strong><sup>7</sup></strong>But for now the priests and prophets <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong>reel with wine and stagger from alcohol, reeling while having visions, staggering while rendering verdicts.</span>
 
-<span class="verse" id="v8"><strong><sup>8</sup></strong>Their tables are covered with vomit; there’s filth everywhere.</span>
+<span class="verse" id="v8"><strong><sup>8</sup></strong>Their tables are covered with vomit; there’s filth everywhere.<strong></span>
 <p class="section-ref">Is 28:5-8</p>
 
 <span class="verse" id="v9"><strong><sup>9</sup></strong>Yet they say, <em>“Who</em><em>’s</em> Yahveh<em> </em><em>think</em><em> he’s going to</em><em> teach?</em> <strong><sup>	</sup></strong><strong><sup>	</sup></strong><em>	</em><em>	Who’s he going to explain the message to?</em> <em>	</em><em>	</em><em>	Are we little kids just weaned from milk,</em> <em>	</em><em>	</em><em>	</em><em>	just taken from the </em><em>breast?</em></span>
@@ -39,14 +39,13 @@ weight: 28
 <span class="verse" id="v13"><strong><sup>13</sup></strong>So Yahveh will keep on lining out his message to them, <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><em>“</em></strong><strong><em>Precept on precept</em></strong><strong><em>,</em></strong> <strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	line on </em></strong><strong><em>line;</em></strong> <strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	here a little, there a little</em></strong><strong><em>”</em></strong>; <em>	</em><em>	</em><em>	till </em>they stumble and fall backward, broken, snared, and captured.</span>
 <p class="section-ref">Is 28:9-13</p>
 
-<span class="verse" id="v14"><strong><sup>14</sup></strong>So listen to Yahveh’s message, <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong>you scoffing rulers in Jerusalem: <strong><sup>15</sup></strong><em>“Y</em><em>ou</em><em> try </em><em>to tell yourselves</em>, <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	‘</sup></strong><em>We’ve made </em><em>a deal</em><em> with death, </em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>a </em><em>treaty</em><em> with </em><em>Sheol;</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>the overwhelming scourge won’t </em><em>trample us </em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	when it comes </em><em>along;</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	we can lie our way out of danger</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	and hide behind deceit.’”</em></span>
+<span class="verse" id="v14"><strong><sup>14</sup></strong>So listen to Yahveh’s message, <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong>you scoffing rulers in Jerusalem:</span>
 
-<span class="verse" id="v16"><sup><strong>16</strong></sup><em>	</em><strong><sup>16</sup></strong>But the Lord Yahveh says, <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><em>“I’m laying a stone in Zion, a tested stone,</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	a precious cornerstone for a firm </em><em>foundation;</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	nothing that’s built on it will shift out of place.</em><strong>	</strong></span>
+<span class="verse" id="v16"><sup class="verse-num">16</sup> <em>	</em><strong><sup>16</sup></strong>But the Lord Yahveh says, <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><em>“I’m laying a stone in Zion, a tested stone,</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	a precious cornerstone for a firm </em><em>foundation;</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	nothing that’s built on it will shift out of place.</em><strong>	</strong></span>
 
-<span class="verse" id="v17"><sup><strong>17</strong></sup><em>	</em><em>	</em><strong><sup>17</sup></strong><em>I’ll</em><em> make justice the measuring line</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	and goodness the </em><em>level;</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	hail will sweep away </em>your<em> refuge in lies,</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	and water will flood </em>your<em> hiding place.</em></span>
+<span class="verse" id="v17"><sup class="verse-num">17</sup> <em>	</em><em>	</em><strong><sup>17</sup></strong><em>I’ll</em><em> make justice the measuring line</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	and goodness the </em><em>level;</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	hail will sweep away </em>your<em> refuge in lies,</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	and water will flood </em>your<em> hiding place.</em></span>
 
-<span class="verse" id="v18"><sup><strong>18</strong></sup><em>	</em><em>	</em><strong><sup>18</sup></strong><em>I’ll</em><em> undo your deal with death</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	and annul your treaty with </em><em>Sheol;</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	when the overwhelming scourge comes along,</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	it </em><em><u>will</u></em><em> trample you. </em><em>	</em></span>
-<p class="section-ref">Is 28:14-18</p>
+<span class="verse" id="v18"><sup class="verse-num">18</sup> <em>	</em><em>	</em><strong><sup>18</sup></strong><em>I’ll</em><em> undo your deal with death</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	and annul your treaty with </em><em>Sheol;</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	when the overwhelming scourge comes along,</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	it </em><em><u>will</u></em><em> trample you. </em><em>	</em><strong>Is 28:14-18</strong></span>
 
 <span class="verse" id="v19"><strong><sup>19</sup></strong><em>It’</em><em>ll</em><em> s</em><em>eize you again and </em><em>again</em><em>;</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>morning after morning</em><em> </em><em>it will </em><em>come</em><em> through</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>and </em><em>at </em><em>any</em><em> </em><em>time</em><em> day or night</em><em>.</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	That will mean</em><em> </em><em>pure terror for you</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	once you</em><em> </em><em>get what that means</em><em>.”</em></span>
 
@@ -68,7 +67,7 @@ weight: 28
 
 <span class="verse" id="v28"><strong><sup>28</sup></strong>Does he crush grain for bread? <em>No</em><em>, </em><em>he</em> doesn’t keep threshing it over and over; the cart wheel and horses’ <em>hooves </em>would ruin it.</span>
 
-<span class="verse" id="v29"><strong><sup>29</sup></strong>That goes for Yahveh of Hosts too, who made his advice wonderful and his wisdom great.<strong> </strong><strong>	</strong><strong>	</strong></span>
+<span class="verse" id="v29"><strong><sup>29</sup></strong>That goes for Yahveh of Hosts too, who made his advice wonderful and his wisdom great.<strong> </strong><strong>	</strong><strong>	</strong><strong></span>
 <p class="section-ref">Is 28:23-29</p>
 
 ### An Oracle About Jerusalem

@@ -8,11 +8,11 @@ type: chapter
 weight: 16
 ---
 
-## 1 Corinthians Chapter **16**
+## 1 Corinthians Chapter 16
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>About the collection for the saints. Do what I told the churches in Galatia. <strong><sup>2</sup></strong>Every first <em>day</em> of the week, each of you lay aside in store as things go for you, so there won’t be any collecting after I get there. <strong><sup>3</sup></strong>When I arrive, whoever you appoint, I’ll send with letters to carry your gift to Jerusalem. <strong><sup>4</sup></strong>If it’s appropriate for me to go too, we’ll go together.</span>
 
-<span class="verse" id="v5"><sup><strong>5</strong></sup>I’ll see you after I go through Macedonia. <strong><sup>6</sup></strong>I can stay with you a<em> </em>while or even spend the winter so you can send me on. <strong><sup>7</sup></strong>I don’t want to see you this time in passing, because I hope to stay a while, Lord willing. <strong><sup>8</sup></strong>I’m going to stay in Ephesus till Pentecost <strong><sup>9</sup></strong>because a wide, effective door has opened up for me, although there’s a lot of opposition.<strong> </strong><strong></span>
+<span class="verse" id="v5"><sup class="verse-num">5</sup> I’ll see you after I go through Macedonia. <strong><sup>6</sup></strong>I can stay with you a<em> </em>while or even spend the winter so you can send me on. <strong><sup>7</sup></strong>I don’t want to see you this time in passing, because I hope to stay a while, Lord willing. <strong><sup>8</sup></strong>I’m going to stay in Ephesus till Pentecost <strong><sup>9</sup></strong>because a wide, effective door has opened up for me, although there’s a lot of opposition.<strong> </strong><strong></span>
 <p class="section-ref">1 Cor 16:1-9</p>
 
 ### The Activities of Paul’s Fellow Workers
@@ -32,9 +32,9 @@ weight: 16
 
 <span class="verse" id="v21"><strong><sup>1</sup></strong>The salutation with my own hand—Paul.</span>
 
-<span class="verse" id="v22"><sup><strong>22</strong></sup>If somebody doesn’t love the Lord, let him be accursed. Lord, come!</span>
+<span class="verse" id="v22"><sup class="verse-num">22</sup> If somebody doesn’t love the Lord, let him be accursed. Lord, come!</span>
 
-<span class="verse" id="v23"><sup><strong>23</strong></sup>The grace of the Lord Jesus <em>be</em> with you. <strong><sup>24</sup></strong>My love <em>is</em> with you all in Christ Jesus. Amen.</span>
+<span class="verse" id="v23"><sup class="verse-num">23</sup> The grace of the Lord Jesus <em>be</em> with you. <strong><sup>24</sup></strong>My love <em>is</em> with you all in Christ Jesus. Amen.</span>
 <p class="section-ref">1 Cor 16:19-24</p>
 
 ### Translator: Virgil Warren     								      christir.org

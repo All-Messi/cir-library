@@ -4,18 +4,18 @@ chapter: 50
 next: chapter-51
 prev: chapter-49
 title: Isaiah 50
-translation: COT
+translation: CNT
 type: chapter
 weight: 50
 ---
 
-## Isaiah Chapter **50**
+## Isaiah Chapter 50
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>The LORD says, <em>“</em><em>Did</em><em> I put your mother away</em><em> with</em><em> divorce</em><em> papers</em><em>?</em> <em>	</em><em>	</em><em>	Did I sell you as slaves to pay my debts?</em> <em>	</em><em>	</em>No<em>, I sold you because of</em><em> your </em><em>transgressions </em> <em>	</em><em>	</em><em>	and divorced your mother for he</em><em>r </em><em>sins</em><em>.</em></span>
 
-<span class="verse" id="v2"><sup><strong>2</strong></sup><em>	</em><strong><sup>2</sup></strong><em>When</em><em> I came, why wasn’t anybody home?</em> <em>	</em><em>	</em><em>	</em><em>When I </em><em>knock</em><em>ed, why </em><em>didn’t anyone </em><em>answer</em><em> the door</em><em>?</em> <em>	</em><em>	</em><em>	</em><em>Am I too </em><em>poor</em><em> to </em><em>pay</em><em> a </em><em>ransom;</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>don’t I have the </em><em>strength</em><em> to </em><em>rescue</em><em>?</em> <em>	</em><em>	</em><em>	</em><em>I can dry up the sea with </em><em>a</em><em> </em><em>word,</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>make rivers </em><em>empty and the fish in them die and</em><em> stink</em><em>.</em></span>
+<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>	</em><strong><sup>2</sup></strong><em>When</em><em> I came, why wasn’t anybody home?</em> <em>	</em><em>	</em><em>	</em><em>When I </em><em>knock</em><em>ed, why </em><em>didn’t anyone </em><em>answer</em><em> the door</em><em>?</em> <em>	</em><em>	</em><em>	</em><em>Am I too </em><em>poor</em><em> to </em><em>pay</em><em> a </em><em>ransom;</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>don’t I have the </em><em>strength</em><em> to </em><em>rescue</em><em>?</em> <em>	</em><em>	</em><em>	</em><em>I can dry up the sea with </em><em>a</em><em> </em><em>word,</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>make rivers </em><em>empty and the fish in them die and</em><em> stink</em><em>.</em></span>
 
-<span class="verse" id="v3"><sup><strong>3</strong></sup><em>	</em><em>	</em><strong><sup>3</sup></strong><em>I</em><em> </em><em>dress</em><em> </em><em>the </em><em>sky</em><em> </em><em>in</em><em> darkness</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>and </em><em>cover it with</em><em> </em><em>burlap</em><em>.”</em><strong>	</strong><strong>Is</strong><strong> 50:1-3</strong></span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> <em>	</em><em>	</em><strong><sup>3</sup></strong><em>I</em><em> </em><em>dress</em><em> </em><em>the </em><em>sky</em><em> </em><em>in</em><em> darkness</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>and </em><em>cover it with</em><em> </em><em>burlap</em><em>.”</em><strong>	</strong><strong>Is</strong><strong> 50:1-3</strong></span>
 
 <span class="verse" id="v4"><strong><sup>4</sup></strong>The Lord GOD has given me a disciple’s tongue so I can comfort the weary with his message; he wakes me up morning after morning to help me understand his will.</span>
 

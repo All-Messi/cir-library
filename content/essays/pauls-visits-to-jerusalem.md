@@ -1,26 +1,30 @@
 ---
 author: Virgil Warren, PhD
 categories:
+- Essays
 - EVIDENCES
-- CRITICAL INTRODUCTION -  New Testament
+- CRITICAL INTRODUCTION - New Testament
 - Galatians
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: PAUL’S VISITS TO JERUSALEM
 weight: 19
 ---
 
-PAUL’S VISITS TO JERUSALEM
+
+
 
 Events in Galatians	Events in Acts
 
-1:16-17	Paul is converted, goes to
+
+<strong><sup>1</sup></strong>:16-17	Paul is converted, goes to
 
 Arabia, then back to
 
 Damascus (3 years)
 
-1:18-19	Paul goes to Jerusalem, sees	9:26-30	Visits Jerusalem, where Barnabas
+
+<strong><sup>1</sup></strong>:18-19	Paul goes to Jerusalem, sees	<strong><sup>9</sup></strong>:26-30	Visits Jerusalem, where Barnabas
 
 Cephas, stays 15 days, but		    brings him to the Christians—
 
@@ -32,17 +36,21 @@ threatened and he goes to
 
 Tarsus.
 
-1:21	Paul goes to Syria and Cilicia.
+
+<strong><sup>1</sup></strong>:21	Paul goes to Syria and Cilicia.
 
 (He is unknown by face to
 
 Judaean Christians.)
 
-2:1-10	14 years                                           ?11:29-30	Famine visit
 
-Writing of Galatians?
+<strong><sup>2</sup></strong>:1-10	14 years                                           ?<strong><sup>11</sup></strong>:29-30	Famine visit
 
-Paul goes to Jerusalem with               ?15:1ff.	Conference on Circumcision
+
+<strong>Writing of Galatians?</strong>
+
+
+Paul goes to Jerusalem with               ?<strong><sup>15</sup></strong>:1ff.	Conference on Circumcision
 
 Barnabas and Titus. He goes
 
@@ -54,9 +62,11 @@ and John. The “pillars” tell
 
 him to “remember the poor.”
 
-Writing of Galatians?
 
-18:22-23	Paul salutes the Jerusalem
+<strong>Writing of Galatians?</strong>
+
+
+<strong><sup>18</sup></strong>:22-23	Paul salutes the Jerusalem
 
 church, goes to Antioch and
 
@@ -64,7 +74,8 @@ through Galatia and Phrygia
 
 on the third missionary tour.
 
-2:11ff.	Cephas comes to Antioch and
+
+<strong><sup>2</sup></strong>:11ff.	Cephas comes to Antioch and
 
 eats with Gentiles. People
 
@@ -74,10 +85,13 @@ withdraws with Barnabas,
 
 and Paul rebukes him.
 
-Writing of Galatians?
 
-21:15	Paul delivers the offering and
+<strong>Writing of Galatians?</strong>
+
+
+<strong><sup>21</sup></strong>:15	Paul delivers the offering and
 
 is arrested.
+
 
 christir.org

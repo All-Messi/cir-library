@@ -8,9 +8,9 @@ type: chapter
 weight: 1
 ---
 
-## Proverbs Chapter **1**
+## Proverbs Chapter 1
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>Proverbs of Solomon Ben-David, King of Israel</span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Proverbs of Solomon Ben-David, King of Israel</span>
 
 <span class="verse" id="v2"><strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>2</sup></strong>for knowing wisdom and instruction, for understanding words that give insight,</span>
 
@@ -23,14 +23,14 @@ weight: 1
 <span class="verse" id="v6"><strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>6</sup></strong>for understanding proverbs and wise sayings, riddles and profound speech.</span>
 <p class="section-ref">Prov 1:1-6</p>
 
-<span class="verse" id="v7"><sup><strong>7</strong></sup>Respect for Yahveh is the first thing about being wise; foolish people despise wisdom and instruction.</span>
+<span class="verse" id="v7"><sup class="verse-num">7</sup> Respect for Yahveh is the first thing about being wise; foolish people despise wisdom and instruction.</span>
 
-<span class="verse" id="v8"><sup><strong>8</strong></sup>Listen, son, to your father’s instruction; don’t leave your mother’s teaching;</span>
+<span class="verse" id="v8"><sup class="verse-num">8</sup> Listen, son, to your father’s instruction; don’t leave your mother’s teaching;</span>
 
 <span class="verse" id="v9"><strong><sup>9</sup></strong>they’ll be a crown for your head and a garland for your neck.</span>
 <p class="section-ref">Prov 1:7-9</p>
 
-<span class="verse" id="v10"><sup><strong>10</strong></sup>Son, if sinners tempt you, don’t give in to them.</span>
+<span class="verse" id="v10"><sup class="verse-num">10</sup> Son, if sinners tempt you, don’t give in to them.</span>
 
 <span class="verse" id="v11"><strong><sup>1</sup></strong>If they say, <em>“Come </em><em>on,</em><em> </em> <em>	</em><em>	</em><em>	</em><em>let’s lie in wait to shed blood</em> <em>	</em><em>	</em><em>	and ambush </em><em>innocent </em><em>people </em><em>for </em><em>fun</em><em>.</em></span>
 
@@ -45,16 +45,16 @@ weight: 1
 <span class="verse" id="v16"><strong><sup>6</sup></strong>They hurry to do harm; they rush to shed blood.</span>
 <p class="section-ref">Prov 1:10-16</p>
 
-<span class="verse" id="v17"><sup><strong>17</strong></sup>There’s no point in spreading a net while the bird’s watching.</span>
+<span class="verse" id="v17"><sup class="verse-num">17</sup> There’s no point in spreading a net while the bird’s watching.</span>
 
-<span class="verse" id="v18"><sup><strong>18</strong></sup><em>Sinners</em> lie in wait for their own blood; they ambush their own lives.</span>
+<span class="verse" id="v18"><sup class="verse-num">18</sup> <em>Sinners</em> lie in wait for their own blood; they ambush their own lives.</span>
 
 <span class="verse" id="v19"><strong><sup>9</sup></strong>That’s how it is with people that profit from violence; it steals their own lives.</span>
 <p class="section-ref">Prov 1:17-19</p>
 
-<span class="verse" id="v20"><sup><strong>20</strong></sup>Wisdom shouts in the street; it raises its voice in the marketplace.</span>
+<span class="verse" id="v20"><sup class="verse-num">20</sup> Wisdom shouts in the street; it raises its voice in the marketplace.</span>
 
-<span class="verse" id="v21"><sup><strong>21</strong></sup>It cries out from the top of the wall, and says at the city gate: <strong><sup>	</sup></strong><strong><sup>22</sup></strong><em>“How</em><em> long</em><em>, simpletons, will you lik</em><em>e being </em><em>simpletons</em><em>,</em> <em>	</em><em>	</em><em>and you scoffers delight in scoffing,</em> <em>	</em><em>	and you foolish people</em><em> hate knowledge?</em></span>
+<span class="verse" id="v21"><sup class="verse-num">21</sup> It cries out from the top of the wall, and says at the city gate:</span>
 
 <span class="verse" id="v23"><strong><sup>3</sup></strong><em>Pay</em><em> attention when I correct you</em><em>;</em> <em>	</em><em>	I’ll pour out</em><em> my spirit on you</em> <em>	</em><em>	</em><em>and </em><em>tell you what you need to know</em><em>.</em></span>
 
@@ -64,8 +64,7 @@ weight: 1
 
 <span class="verse" id="v26"><strong><sup>6</sup></strong><em>So</em><em> I</em><em>’ll laugh at your </em><em>misfortune</em> <em>	</em><em>	</em><em>and mock </em>you <em>when panic strikes,</em></span>
 
-<span class="verse" id="v27"><strong><sup>27</sup></strong><em>when</em><em> what you dread comes like a tornado,</em> <em>	</em><em>	</em><em>when distress </em><em>come crashing down</em><em> on you.</em><em>	</em><em>	</em></span>
-<p class="section-ref">Prov 1:20-27</p>
+<span class="verse" id="v27"><strong><sup>27</sup></strong><em>when</em><em> what you dread comes like a tornado,</em> <em>	</em><em>	</em><em>when distress </em><em>come crashing down</em><em> on you.</em><em>	</em><em>	</em><strong>Prov 1:20-27</strong></span>
 
 <span class="verse" id="v28"><strong><sup>8</sup></strong><em>Then</em><em> you</em><em>’ll call out to me, and I won’t answer;</em> <em>	</em><em>	you</em><em>’ll </em><em>look</em><em> for me, but </em><em>not find me</em></span>
 
@@ -77,8 +76,7 @@ weight: 1
 
 <span class="verse" id="v32"><strong><sup>2</sup></strong><em>The</em><em> waywardness of simpleminded</em><em> </em><em>people gets</em><em> them</em><em> killed</em><em>;</em> <em>	</em><em>	the complacency of fools </em><em>destroy</em><em>s</em><em> them.</em></span>
 
-<span class="verse" id="v33"><strong><sup>3</sup></strong><em>But</em><em> the one</em><em>s</em><em> that listen to me</em><em>,</em><em> </em><em>live securely;</em> <em>	</em><em>	they’re at ease without</em><em> dreading </em><em>misfortune</em><em>.”</em><em>	</em></span>
-<p class="section-ref">Prov 1:28-33</p>
+<span class="verse" id="v33"><strong><sup>3</sup></strong><em>But</em><em> the one</em><em>s</em><em> that listen to me</em><em>,</em><em> </em><em>live securely;</em> <em>	</em><em>	they’re at ease without</em><em> dreading </em><em>misfortune</em><em>.”</em><em>	</em><strong>Prov 1:28-33</strong></span>
 
 
 <style>

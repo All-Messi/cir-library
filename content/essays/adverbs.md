@@ -1,15 +1,17 @@
 ---
 author: Virgil Warren, PhD
 categories:
+- Essays
+- Topics
 - Greek Features
 - GreeKVOCPRJ
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: ADVERBS
 weight: 999
 ---
 
-ADVERBS
+
 
 Comparison, systems of
 
@@ -20,6 +22,7 @@ Comparison, systems of
 -#   ma'llon/mavla + positive     pavnu/mavlista/sfovdra/livan + positive
 
 irregular
+
 
 Compounds, types of (not including morpheme-root combinations)
 
@@ -39,6 +42,7 @@ preposition + preposition + _______
 
 preposition + preposition + _______ + _______
 
+
 Degree
 
 positive
@@ -47,7 +51,8 @@ comparative
 
 superlative
 
-Formation:  Morpheme Classification
+
+<strong>Formation:  Morpheme Classification</strong>
 
 a-privative:  manner
 
@@ -93,6 +98,9 @@ ajrci-, dus-, euj-, hJmi-, nh-,
 
 -teron [equal neut A of the cognate adj]:  manner, comparative degree
 
+
+
+
 -terw:  manner, comparative degree
 
 -tiv:  manner
@@ -109,7 +117,8 @@ equal D neut sg of cognate adj
 
 no formal characteristics
 
-Formation:  Meaning Classification
+
+<strong>Formation:  Meaning Classification</strong>
 
 direction
 
@@ -139,11 +148,15 @@ equal D neut sg of cognate adj
 
 no formal characteristics
 
+
 Enclitics (?)
+
 
 Indefinites
 
+
 Interrogatives
+
 
 Negatives
 
@@ -155,8 +168,11 @@ ouj, and cognates
 
 mhv, and cognates
 
+
 Postpositives
 
+
 Relatives [239, Goetchius]
+
 
 Root  [See Metzger Lex Aids, 49; Trenchard Voc Guide, 5]

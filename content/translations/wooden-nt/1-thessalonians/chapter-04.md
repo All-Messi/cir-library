@@ -9,7 +9,7 @@ type: chapter
 weight: 4
 ---
 
-## 1 Thessalonians Chapter **4**
+## 1 Thessalonians Chapter 4
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Finally, then, brothers, we-ask you and urge (you) in (the) Lord Jesus, in-order-that even-as you-received from us [the] how it-is-necessary for-you to-walk and to-be-pleasing to-God, even-as also you-walk, in-order-that you increase more.  <strong><sup>2</sup></strong>For you-know what commandments we-gave you by the Lord Jesus.  <strong><sup>3</sup></strong>For this is (the) will of-[the] God the sanctification of-you:  (that) you abstain from sexual-immorality; <strong><sup>4</sup></strong>(that) each of-you know to-exercise-control the vessel of-him in sanctification and honor, <strong><sup>5</sup></strong>not in (the) passion of-lust, like also the Gentiles the-ones not knowing [the] God; <strong><sup>6</sup></strong>(that a man not) [the] transgress and cheat the brother of-him in the matter, because (the) Lord (is the) avenger about all these-things, even-as also we-told┘you└before and solemnly-warned (you).  <strong><sup>7</sup></strong>For [the] God did┘not└call us to uncleanness, but in sanctification.  <strong><sup>8</sup></strong>Consequently, the-one rejecting (this) is┘not└rejecting man, but [the] God, the-one giving the Holy [the] Spirit of-him into us.</span>
 

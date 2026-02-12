@@ -9,30 +9,30 @@ type: chapter
 weight: 32
 ---
 
-## Psalms Chapter **32**
+## Psalms Chapter 32
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>How blessed they are whose sin God forgives, whose transgression he covers;</span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> How blessed they are whose sin God forgives, whose transgression he covers;</span>
 
-<span class="verse" id="v2"><sup><strong>2</strong></sup>whose disobedience Yahveh doesn’t hold against them, whose spirit doesn’t harbor deceit!</span>
+<span class="verse" id="v2"><sup class="verse-num">2</sup> whose disobedience Yahveh doesn’t hold against them, whose spirit doesn’t harbor deceit!</span>
 
-<span class="verse" id="v3"><sup><strong>3</strong></sup>When I didn’t acknowledge my sin, <strong><sup>	</sup></strong>my body wasted away, I moaned all day,</span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> When I didn’t acknowledge my sin, my body wasted away, I moaned all day,</span>
 
-<span class="verse" id="v4"><sup><strong>4</strong></sup>your hand weighed on me day and night, my strength drained away in the summer heat.</span>
+<span class="verse" id="v4"><sup class="verse-num">4</sup> your hand weighed on me day and night, my strength drained away in the summer heat.</span>
 
-<span class="verse" id="v5"><sup><strong>5</strong></sup>When I acknowledged it and said,<em> “I’ll confess my </em><em>sin</em><em> to </em><em>Yahveh,</em><em>”</em> you forgave me.</span>
+<span class="verse" id="v5"><sup class="verse-num">5</sup> When I acknowledged it and said, “I’ll confess my sin to Yahveh,” you forgave me.</span>
 
-<span class="verse" id="v6"><sup><strong>6</strong></sup>So everyone that’s godly needs to pray to you while there’s time; so when distress floods in, it won’t overwhelm them.</span>
+<span class="verse" id="v6"><sup class="verse-num">6</sup> So everyone that’s godly needs to pray to you while there’s time; so when distress floods in, it won’t overwhelm them.</span>
 
-<span class="verse" id="v7"><sup><strong>7</strong></sup>You’re our hiding place <strong><sup>	</sup></strong>for protecting us from trouble <strong><sup>	</sup></strong>and surrounding us with songs about deliverance.</span>
+<span class="verse" id="v7"><sup class="verse-num">7</sup> You’re our hiding place for protecting us from trouble and surrounding us with songs about deliverance.</span>
 <p class="section-ref">Ps 32:1-7</p>
 
-<span class="verse" id="v8"><sup><strong>8</strong></sup>I’ll teach you the way to go; I’ll focus my attention on you and advise you.</span>
+<span class="verse" id="v8"><sup class="verse-num">8</sup> I’ll teach you the way to go; I’ll focus my attention on you and advise you.</span>
 
-<span class="verse" id="v9"><sup><strong>9</strong></sup>Don’t be like a senseless horse or mule that needs a bit and bridle to make it obey.</span>
+<span class="verse" id="v9"><sup class="verse-num">9</sup> Don’t be like a senseless horse or mule that needs a bit and bridle to make it obey.</span>
 
-<span class="verse" id="v10"><sup><strong>10</strong></sup>Sinful people incur lots of sorrow, <strong><sup>	</sup></strong>but enduring love surrounds those who trust Yahveh.</span>
+<span class="verse" id="v10"><sup class="verse-num">10</sup> Sinful people incur lots of sorrow, but enduring love surrounds those who trust Yahveh.</span>
 
-<span class="verse" id="v11"><sup><strong>11</strong></sup>Be happy and celebrate in him; shout for joy, all of you with godly hearts.</span>
+<span class="verse" id="v11"><sup class="verse-num">11</sup> Be happy and celebrate in him; shout for joy, all of you with godly hearts.</span>
 <p class="section-ref">Ps 32:8-11</p>
 
 

@@ -9,11 +9,11 @@ type: chapter
 weight: 6
 ---
 
-## Revelation Chapter **6**
+## Revelation Chapter 6
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>And I-looked when the Lamb opened-up one of the seven seals, and I-heard one of the four living-beings saying like (the) sound of-thunder, <em>“Come.”</em>  <strong><sup>2</sup></strong>And I-looked, and behold, (a) white horse and the-one sitting on it having (a) bow; and (a) crown was-given to-him, and he-went-out conquering and in-order-that he-might-conquer.</span>
 
-<span class="verse" id="v3"><sup><strong>3</strong></sup>And when he-opened the second [the] seal, I-heard the second living-being, saying, <em>“Come.”</em>  <strong><sup>4</sup></strong>And another, fiery-red horse came-out, and to-the-one sitting on it was-given [to-him] to-take peace out-of the earth and in-order-that they-will murder one-another and (a) big sword was-given to-him.</span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> And when he-opened the second [the] seal, I-heard the second living-being, saying, <em>“Come.”</em>  <strong><sup>4</sup></strong>And another, fiery-red horse came-out, and to-the-one sitting on it was-given [to-him] to-take peace out-of the earth and in-order-that they-will murder one-another and (a) big sword was-given to-him.</span>
 
 <span class="verse" id="v5"><strong><sup>5</sup></strong>And when he-opened the third [the] seal, I-heard the third living-being, saying, <em>“Come.”</em>  And I-looked, and behold, (a) black horse, and the-one sitting on it having (a) scales in the hand of-him.  <strong><sup>6</sup></strong>And I-heard as-it-were/like (a) voice in the midst of-the four living-beings, saying, <em>“(A) quart of-wheat of</em><em>/for</em><em>-(a)-denarius and three quarts of-barley of</em><em>/for</em><em>-(a)-denarius, and the olive-oil and the wine </em><em>do┘not└waste</em><em>/harm.”</em></span>
 

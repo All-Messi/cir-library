@@ -1,6 +1,6 @@
 ---
 book: Nehemiah
-chapters: 12
+chapters: 13
 title: Nehemiah
 translation: CYV
 type: book
@@ -9,4 +9,6 @@ weight: 16
 
 ## Nehemiah
 
-**12 Chapters**
+**13 Chapters**
+
+Select a chapter to begin reading:

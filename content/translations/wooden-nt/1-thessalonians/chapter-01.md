@@ -8,7 +8,7 @@ type: chapter
 weight: 1
 ---
 
-## 1 Thessalonians Chapter **1**
+## 1 Thessalonians Chapter 1
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Paul and Silvanus and Timothy to-the church of-(the)-Thessalonians in God (the) Father and (the) Lord Jesus Christ.  Grace and [peace (be) to you.</span>
 

@@ -1,16 +1,17 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Topics
+- Essays
 - MINISTRY
 - Christian Ministry 101
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: STUDENT PREACHING MINISTRIES
 weight: 999
 ---
 
-STUDENT PREACHING MINISTRIES
+
+
 
 For many years a number of congregations have used upper division students as preachers. The churches are small (30-75 in attendance) and rural or small town with memberships that reflect their surroundings. They are spread out across the northeastern sector of the state. Student ministries can be Sunday-only, weekend, or living at the church in a parsonage and commuting to school. The arrangements you enter into depend on your age, marital status, the financial condition of the particular church, and the kind of mix you want between practical experience and academic preparation. If a student takes a ministry in one of these situations, he needs to view his work as a learning experience of service in the church more than a leadership position. There are a number of benefits that such an opportunity can give him. For one thing, he can develop his skill at preaching. In fact, preaching is his main job and other responsibilities fill in around it. Attached to preaching is the discipline of preparing messages on a regular basis, which entails finding topics for sermons, organizing thoughts so they can be presented understandably, and gaining experience at actually making the public oral presentation. Since most of you have not done much like this before, developing preaching skill will probably take quite a bit of emotional energy the first few times until you gain some confidence and sense some acceptance by the congregation. You will probably feel “out of place” for a while since a good number of the people will be old enough to be your parents and grandparents. So the best course is to approach this task as sharing a message addressed to yourself that you are letting them overhear. You will not be “telling them what to do”; you are too young for that–if indeed you ever get old enough to look at preaching that way.
 

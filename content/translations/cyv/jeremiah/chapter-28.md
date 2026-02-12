@@ -9,19 +9,17 @@ type: chapter
 weight: 28
 ---
 
-## Jeremiah Chapter **28**
+## Jeremiah Chapter 28
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>That same year in the <strong>fifth month, fourth year of Zedekiah’s reign</strong>, Hananiah Ben-Azzur, a prophet from Gibeon, spoke to me in Yahveh’s Temple with the priests and the people standing there: <strong><sup>2</sup></strong><em>“Yahveh</em><em> of Hosts</em><em>, the God of Israel, says, ‘I’ve broken the yoke of the king of Babylon.</em><em> </em><strong><sup>3</sup></strong><em>Within</em><em> two y</em><em>ears I’ll bring back the articles from Yahveh’s Temple</em><em> that Nebuchadnezzar took to Babylon.</em><em>  </em><strong><sup>4</sup></strong><em>I’ll</em><em> also bring back Jeconiah, king of Judah, and all the exiles from Judah that went to Babylon. I’ll break the yoke of the king of Babylon.’” </em></span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> That same year in the <strong>fifth month, fourth year of Zedekiah’s reign</strong>, Hananiah Ben-Azzur, a prophet from Gibeon, spoke to me in Yahveh’s Temple with the priests and the people standing there:</span>
 
-<span class="verse" id="v5"><sup><strong>5</strong></sup>Jeremiah answered him, 	  <strong>Jer</strong><strong> 28:1-5</strong> <strong><sup>6</sup></strong><em>“Amen</em><em>!</em><em> </em><em>May </em><em>Yahveh do </em>just<em> that! Bring back the articles and exiles from Babylon! </em><strong><sup>7</sup></strong><em>But</em><em> listen to what I’m telling you! </em><strong><sup>8</sup></strong><em>For</em><em> centuries, the prophets have prophesied against many countries and great kingdoms about war, catastrophe, and disease. </em><strong><sup>9</sup></strong><em>A</em><em> prophet that predicts a peace that </em>actually <em>comes</em><em>, is one Yahveh has </em><em>actually sent</em><em>.”</em></span>
+<span class="verse" id="v5"><sup class="verse-num">5</sup> Jeremiah answered him, 	  <strong>Jer</strong><strong> 28:1-5</strong></span>
 
-<span class="verse" id="v10"><sup><strong>10</strong></sup>Then Hananiah grabbed the yoke off Jeremiah’s neck and broke it. <strong><sup>11</sup></strong>He told the people, <em>“Yahveh says,</em><em> ‘</em><em>In the same way,</em><em> two years</em><em> from now</em><em> I’ll break </em><em>Nebuchadnezzar’s yoke from off the neck of all the nations.’”</em> Jeremiah left.<strong>	</strong><strong>	</strong><strong>	</strong><strong>	  </strong></span>
-<p class="section-ref">Jer 28:6-11</p>
+<span class="verse" id="v10"><sup class="verse-num">10</sup> Then Hananiah grabbed the yoke off Jeremiah’s neck and broke it. <strong><sup>11</sup></strong>He told the people, <em>“Yahveh says,</em><em> ‘</em><em>In the same way,</em><em> two years</em><em> from now</em><em> I’ll break </em><em>Nebuchadnezzar’s yoke from off the neck of all the nations.’”</em> Jeremiah left.<strong>	</strong><strong>	</strong><strong>	</strong><strong>	  </strong><strong>Jer 28:6-11</strong></span>
 
-<span class="verse" id="v12"><sup><strong>12</strong></sup>A Message from Yahveh to Jeremiah <strong>After Hananiah Had Broken the Yoke off His Neck</strong> <strong><sup>13</sup></strong><em>“Go</em><em> </em><em>tell</em><em> Hanani</em><em>ah that Yahveh </em><em>says, ‘</em><em>You’ve broken </em><em>a </em><em>wood</em><em>en</em><em> yoke, but </em><em>I’ve replaced it with an iron one </em><strong><sup>14</sup></strong><em>on</em><em> those nations to</em><em> serve Nebuchadnezzar.</em><em> </em><em>I’ve </em><em>even</em><em> given him the </em><em>wild animals.’</em> <strong><sup>	</sup></strong><strong><sup>15</sup></strong><em>“Hananiah</em><em>, Yahveh didn’t send</em><em> you</em><em>. Y</em><em>ou made the people believe a lie.</em><em> </em><strong><sup>16</sup></strong><em>So</em><em> he says y</em><em>ou’re going to die</em><em> this year</em><em> because you’ve </em><em>advis</em><em>ed rebellion against </em><em>him</em><em>.”</em><em> </em></span>
+<span class="verse" id="v12"><sup class="verse-num">12</sup> A Message from Yahveh to Jeremiah <strong>After Hananiah Had Broken the Yoke off His Neck</strong></span>
 
-<span class="verse" id="v17"><sup><strong>17</strong></sup>Hananiah died two months later in the seventh month.<strong>	              </strong></span>
-<p class="section-ref">Jer 28:12-17</p>
+<span class="verse" id="v17"><sup class="verse-num">17</sup> Hananiah died two months later in the seventh month.<strong>	              </strong><strong>Jer 28:12-17</strong></span>
 
 
 <style>

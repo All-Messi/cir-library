@@ -4,12 +4,12 @@ chapter: 32
 next: chapter-33
 prev: chapter-31
 title: Isaiah 32
-translation: COT
+translation: CNT
 type: chapter
 weight: 32
 ---
 
-## Isaiah Chapter **32**
+## Isaiah Chapter 32
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>A righteous<em> </em>king is coming; his princes will rule honestly.</span>
 
@@ -32,8 +32,7 @@ weight: 32
 
 <span class="verse" id="v10"><strong><sup>10</sup></strong>In a little over a year, trouble will come, complacent daughters; because the grapes will fail, the fruit harvest won’t happen.</span>
 
-<span class="verse" id="v11"><strong><sup>11</sup></strong>Tremble, <strong>women of </strong><strong>leisure;</strong> <strong>	</strong><strong>	</strong><strong>	</strong>shudder,<strong> complacent daughters.</strong> Strip down to the skin and wrap burlap around your waist.<strong>	</strong></span>
-<p class="section-ref">Is 32:9-11</p>
+<span class="verse" id="v11"><strong><sup>11</sup></strong>Tremble, <strong>women of </strong><strong>leisure;</strong> <strong>	</strong><strong>	</strong><strong>	</strong>shudder,<strong> complacent daughters.</strong> Strip down to the skin and wrap burlap around your waist.<strong>	</strong><strong>Is 32:9-11</strong></span>
 
 <span class="verse" id="v12"><strong><sup>12</sup></strong>Beat your breasts for pleasant fields and fruitful vines,</span>
 
@@ -48,6 +47,8 @@ weight: 32
 <span class="verse" id="v17"><strong><sup>7</sup></strong>Goodness will lead to peace and bring extended calm and confidence.</span>
 
 <span class="verse" id="v18"><strong><sup>8</sup></strong>Then my people will live undisturbed in safe houses and peaceful retreats. <strong><sup>19</sup></strong> Though hail flattens the forest and the city’s leveled,</span>
+
+<span class="verse" id="v19"><sup class="verse-num">19</sup> Though hail flattens the forest and the city's leveled,</span>
 
 <span class="verse" id="v20"><strong><sup>0</sup></strong>you’ll still be blessed who sow near water, who let livestock and donkeys range free.<strong>	</strong><strong>Is</strong><strong> 32:16-20</strong> <strong>An Oracle About Assyria</strong></span>
 

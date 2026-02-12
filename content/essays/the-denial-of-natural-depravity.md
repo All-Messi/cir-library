@@ -1,19 +1,20 @@
 ---
 author: Virgil Warren, PhD
 categories:
+- Essays
 - Topics
 - CHRISTIAN DOCTRINE
 - MANKIND (anthropology)
-- DEPRAVITY, ESSAYS ON hUMAN
-date: '2026-01-23'
+- DEPRAVITY, ESSAYS ON HUMAN
+date: '2026-02-12'
 draft: false
 title: 'THE DENIAL OF NATURAL DEPRAVITY:'
 weight: 999
 ---
 
-THE DENIAL OF NATURAL DEPRAVITY:
+<strong>A DISTINCTIVE OF “THE RESTORATION MOVEMENT”</strong>
 
-A DISTINCTIVE OF “THE RESTORATION MOVEMENT”
+
 
 One distinctive of the Churches of Christ/Christian Churches has been their relatively high view of human nature. They have stood virtually alone in denying the traditional doctrine of natural depravity.
 
@@ -35,7 +36,7 @@ Finally, (f) sanctification is understood differently, especially in the Wesleya
 
 Hermeneutically within scripture, there is a need for developing some biblical principle for getting behind the impasse posed by certain pairings of passages that deal with the relationship between human and divine action. The lack of such a principle has caused the deadlock between Calvinistic and non-Calvinistic thinkers throughout much of the history of interpretation on several passages.
 
-For example, Psalm 51:10 says, “Create within me a clean heart, O God; and renew a right spirit within me.” Ezekiel, however, says in 18:31, “Make for yourselves a new heart and a new spirit.” The problem comes in deciding which statement provides the logically prior framework for understanding the other. Similar questions arise between other pairs of passages.
+For example, Psalm <strong><sup>51</sup></strong>:10 says, <em>“Create within me a clean heart, O God; and renew a right spirit within me.”</em> Ezekiel, however, says in <strong><sup>18</sup></strong>:31, <em>“Make for yourselves a new heart and a new spirit.” </em>The problem comes in deciding which statement provides the logically prior framework for understanding the other. Similar questions arise between other pairs of passages.
 
 Interpreters agree that there are ways to understand either passage as guided by the contrasting one, but they must determine which one to start with. They need some principle for that determination. If it can be shown that people have the ability to respond to God, then the interpreter can decide how to limit the hermeneutical possibilities for the passages in question.
 
@@ -43,15 +44,15 @@ Hermeneutically beyond scripture, a Christian seeks some frame of reference for 
 
 In an abbreviated way, the doctrine of natural depravity is questionable on two bases. First, scripture does not say that human nature differed in spiritual ability after the Fall from what it was before Adam sinned. Natural depravity is not necessary for explaining why sin happens, because Adam sinned before he was depraved. Individual texts do speak about the sinfulness of unsaved people and their frequent resistance to respond to the good news. That is quite different from saying that it takes a supernatural operation on their very nature before they can believe. Without going into further detail, we simply affirm that there is no clear positive evidence for natural depravity.
 
-Second, there is negative evidence. Scripture says clearly that God does not want anyone to perish (2 Peter 3:9). Elsewhere, it says that some will perish (Matthew 25:46). Furthermore, God is self-consistent: “God is not a human that he should lie” or repent (Numbers 23:19). The variable that explains the difference between the “all” God desires to save and the “some” he decides to save must lie outside himself or he would be inconsistent. That variable must lie in mankind since they are the ones involved. If, however, people have no ability to respond to God, God becomes the essential chooser of who is saved by virtue of whom he enables to respond unto salvation. People do not have a depraved nature, not only because there is no evidence for it, but also because natural depravity makes God inconsistent in desiring to save all while enabling only some.
+Second, there is negative evidence. Scripture says clearly that God does not want anyone to perish (2 Peter <strong><sup>3</sup></strong>:9). Elsewhere, it says that some will perish (Matthew <strong><sup>25</sup></strong>:46). Furthermore, God is self-consistent<em>: “God is not a human that he should lie”</em> or repent (Numbers <strong><sup>23</sup></strong>:19). The variable that explains the difference between the “all” God desires to save and the “some” he decides to save must lie outside himself or he would be inconsistent. That variable must lie in mankind since they are the ones involved. If, however, people have no ability to respond to God, God becomes the essential chooser of who is saved by virtue of whom he enables to respond unto salvation. People do not have a depraved nature, not only because there is no evidence for it, but also because natural depravity makes God inconsistent in desiring to save all while enabling only some.
 
-Extremes often beget extremes, and so we must not over-react by viewing human spiritual ability too highly. In place of a natural depravity that takes a supernatural miracle to correct, we may speak of a psychological depravity that takes interpersonal influence to correct. We experience the drag of past failure on present resolve. We more than sympathize with Paul in not being able to succeed morally as he wanted (Romans 7:13-25). Our frustration at recurring moral failure is real and appropriate. But the kind and cause of that frustration is true after salvation as well as before it even though the degree of it may not be the same and should decrease over time.
+Extremes often beget extremes, and so we must not over-react by viewing human spiritual ability too highly. In place of a natural depravity that takes a supernatural miracle to correct, we may speak of a psychological depravity that takes interpersonal influence to correct. We experience the drag of past failure on present resolve. We more than sympathize with Paul in not being able to succeed morally as he wanted (Romans <strong><sup>7</sup></strong>:13-25). Our frustration at recurring moral failure is real and appropriate. But the kind and cause of that frustration is true after salvation as well as before it even though the degree of it may not be the same and should decrease over time.
 
 Hopefully, frustration over moral failure will decline as we grow in Christian virtue. We must assist that growth by putting ourselves in contact with the interpersonal influence of other people in fellowship and service and by putting ourselves in contact with the interpersonal influence of God through “spiritual exercises” like prayer, Bible reading, and fasting. The influence of persons provides us with the psychological strength to respond to God and to overcome psychological depravity.
 
 The proposition counter to natural depravity is as follows:
 
-there is no (1) clear (2) biblical basis for saying that Adam’s ability in regard to (3) spiritual things after the fall was any different from what it was (4) before the fall in a (5) biologically inheritable sense.
+<em>there is no (1) </em><em><u>clear</u></em><em> (2) </em><em><u>biblical</u></em><em> basis for saying that Adam’s ability in regard to (3) </em><em><u>spiritual</u></em><em> things after the fall was any different from what it was (4) </em><em><u>before the fall</u></em><em> in a (5) </em><em><u>biologically</u></em><em> inheritable sense.</em>
 
 By “clear” biblical base, we mean that there are indeed some passages that could conceivably be understood in the way natural depravity assumes. However, no passage requires such a construction of thought; in fact, many texts proposed in support of that concept cannot have that meaning.
 
@@ -63,4 +64,9 @@ The phrase “before the fall” draws attention to a comparison between the way
 
 “Biologically” inheritable specifies that whatever defect we have must be transmitted genetically for it to require supernatural remedy by the Spirit. Behavioral depravity can be socially transmitted as well as originated again and again in each person because of ignorance in combination with viewpoint of consciousness and the pull of neutral bodily drives that can be fulfilled in negative ways. Psychological depravity—the power of sin to hold us down—can result from previous sin. It can be explained as the pull of past sin on present resolve, that is, ingrained habit rather than inborn defect. Psychological depravity is “self-depravitization” rather than hereditary depravity. The natural-depravity proposal represents overkill for explaining universal, all-pervasive sin in humankind.
 
+
 christir.org
+
+
+
+

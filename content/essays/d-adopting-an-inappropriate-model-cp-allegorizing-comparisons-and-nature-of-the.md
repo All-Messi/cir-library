@@ -1,22 +1,23 @@
 ---
 author: "case)\t\t\t                     Virgil Warre, PhD"
 categories:
+- Essays
 - INTERPRETATION
-- GETTING THE POINT book
-date: '2026-01-23'
+- GETTING THE POINT (book)
+date: '2026-02-12'
 draft: false
 title: "D.\tAdopting an inappropriate model (cp. allegorizing comparisons and nature\
   \ of the"
 weight: 10
 ---
 
-D.	Adopting an inappropriate model (cp. allegorizing comparisons and nature of the
-
 case)			                     Virgil Warre, PhD
+
 
 Adopting an inappropriate model appears in cases that deal with analogical reasoning. It is a confusion that comes into discussions when people try to use illustrations. When the model is off, inferences made from it can be foreign to the topic at hand because the model has elements in it that are not in the thing it is called on to explain..
 
-**The problem of pain. Note the error in conceiving of suffering as exactly like disciplining a child (Proverbs 3:11 < Hebrews 12:5-13).
+
+**The problem of pain. Note the error in conceiving of suffering as exactly like disciplining a child (Proverbs<strong> 3</strong>:11 < Hebrews<strong> 12</strong>:5-13).
 
 **The trinity (as tritheism)
 

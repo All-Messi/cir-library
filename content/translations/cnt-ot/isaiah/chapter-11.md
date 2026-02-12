@@ -4,12 +4,12 @@ chapter: 11
 next: chapter-12
 prev: chapter-10
 title: Isaiah 11
-translation: COT
+translation: CNT
 type: chapter
 weight: 11
 ---
 
-## Isaiah Chapter **11**
+## Isaiah Chapter 11
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>A sapling will grow out of Jesse’s stump; a branch from his roots will bear fruit.</span>
 
@@ -29,7 +29,7 @@ weight: 11
 
 <span class="verse" id="v9"><strong><sup>9</sup></strong>Nothing will do harm anywhere on my holy mountain, because the land will be full of knowledge of the LORD like the ocean is full of water.<strong>	</strong><strong>Is</strong><strong> 11:6-9</strong></span>
 
-<span class="verse" id="v10"><sup><strong>10</strong></sup>At that time, Jesse’s heir will serve as a banner for the Gentiles. They’ll rally to him, and his resting place will be glorious. <strong><sup>11</sup></strong>For a second time he’ll recover the remnant of his people that are left in Assyria, Egypt, Pathros, Nubia, Elam, Shinar, Hamath, and islands in the sea. <strong><sup>12</sup></strong>He’ll hoist a flag for the nations and repatriate the exiles of Israel and Judah from every direction. <strong><sup>13</sup></strong>Ephraim and Judah won’t resent each other or harass one another. <strong><sup>14</sup></strong>They’ll swoop down on the Philistines in the west and together plunder the nations to the east. They’ll control Edom and Moab, and subjugate the Ammonites. <strong><sup>15</sup></strong>The LORD will dry up the <em>Red </em>Sea by Egypt and blow his scorching wind on the Euphrates <em>River</em>. He’ll separate it into seven channels so people can wade across in sandals. <strong><sup>16</sup></strong>There’ll be a highway from Assyria for the remnant to return on, like there was for Israel when he brought them out of Egypt.<strong>	</strong><strong>Is</strong><strong> 11:10-16</strong> <strong>A </strong><strong>Song of Praise for Salvation</strong></span>
+<span class="verse" id="v10"><sup class="verse-num">10</sup> At that time, Jesse’s heir will serve as a banner for the Gentiles. They’ll rally to him, and his resting place will be glorious. <strong><sup>11</sup></strong>For a second time he’ll recover the remnant of his people that are left in Assyria, Egypt, Pathros, Nubia, Elam, Shinar, Hamath, and islands in the sea. <strong><sup>12</sup></strong>He’ll hoist a flag for the nations and repatriate the exiles of Israel and Judah from every direction. <strong><sup>13</sup></strong>Ephraim and Judah won’t resent each other or harass one another. <strong><sup>14</sup></strong>They’ll swoop down on the Philistines in the west and together plunder the nations to the east. They’ll control Edom and Moab, and subjugate the Ammonites. <strong><sup>15</sup></strong>The LORD will dry up the <em>Red </em>Sea by Egypt and blow his scorching wind on the Euphrates <em>River</em>. He’ll separate it into seven channels so people can wade across in sandals. <strong><sup>16</sup></strong>There’ll be a highway from Assyria for the remnant to return on, like there was for Israel when he brought them out of Egypt.<strong>	</strong><strong>Is</strong><strong> 11:10-16</strong> <strong>A </strong><strong>Song of Praise for Salvation</strong></span>
 
 
 <style>

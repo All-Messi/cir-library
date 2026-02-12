@@ -2,14 +2,14 @@
 book: 2 Corinthians
 chapter: 3
 next: chapter-04
-prev: chapter-01
+prev: chapter-02
 title: 2 Corinthians 3
 translation: WNT
 type: chapter
 weight: 3
 ---
 
-## 2 Corinthians Chapter **3**
+## 2 Corinthians Chapter 3
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Are-we-beginning to-commend ourselves again? Or do-we-need, as some, recommending letters to you or from you? <strong><sup>2</sup></strong>You are the letter of-us, written on the hearts of-us, known and read by all men, <strong><sup>3</sup></strong>being-manifested that you-are (a) letter of-Christ, taken-care-of by us, written not with ink, but with-(the)-Spirit of-(the)-living God; not on stone tablets, but on tablets of fleshly hearts.</span>
 

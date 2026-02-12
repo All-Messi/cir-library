@@ -9,21 +9,21 @@ type: chapter
 weight: 40
 ---
 
-## Isaiah Chapter **40**
+## Isaiah Chapter 40
 
-<span class="verse" id="v1"><strong><sup>1</sup></strong><em>“</em><em>Comfort</em><em>, comfort my people,”</em> your God says. <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>2</sup></strong><em>“Speak</em><em> </em><em>gracious</em><em>ly to </em><em>Jerusalem;</em> <em>	</em><em>	</em><em>	tell </em><em>it</em><em> </em><em>that its</em><em> wa</em><em>rfare’s over</em><em>,</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>its</em><em> </em><em>iniquity’</em><em>s removed,</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>it’s</em><em> received from </em><em>Yahveh</em><em> </em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	double for </em><em>its</em><em> sins.”</em><strong>	</strong><strong>Is</strong><strong> 40:1-2</strong></span>
+<span class="verse" id="v1"><strong><sup>1</sup></strong><em>“</em><em>Comfort</em><em>, comfort my people,”</em> your God says.</span>
 
-<span class="verse" id="v3"><sup><strong>3</strong></sup><em>	</em><em>	</em><strong><sup>3</sup></strong>A voice is calling, <em>“</em><em>Build</em><em> </em><em>a</em><em> </em><em>road for Yahveh in the </em><em>desert;</em> <em>	</em><em>	</em><em>	</em><em>m</em><em>ake a smooth highway for our God.</em></span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> <em>	</em><em>	</em><strong><sup>3</sup></strong>A voice is calling, <em>“</em><em>Build</em><em> </em><em>a</em><em> </em><em>road for Yahveh in the </em><em>desert;</em> <em>	</em><em>	</em><em>	</em><em>m</em><em>ake a smooth highway for our God.</em></span>
 
-<span class="verse" id="v4"><sup><strong>4</strong></sup><em>	</em><strong><sup>4</sup></strong><em>Fill</em><em> every </em><em>pothole</em><em>,</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>level off every b</em><em>ump</em><em> and high spot</em><em>.</em> <em>	</em><em>	</em><em>	</em><em>Smooth the </em><em>rough ground</em> <em>	</em><em>	</em><em>	</em><em>	and </em><em>make</em><em> rugged terrain like a wide valley.</em></span>
+<span class="verse" id="v4"><sup class="verse-num">4</sup> <em>	</em><strong><sup>4</sup></strong><em>Fill</em><em> every </em><em>pothole</em><em>,</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>level off every b</em><em>ump</em><em> and high spot</em><em>.</em> <em>	</em><em>	</em><em>	</em><em>Smooth the </em><em>rough ground</em> <em>	</em><em>	</em><em>	</em><em>	and </em><em>make</em><em> rugged terrain like a wide valley.</em></span>
 
-<span class="verse" id="v5"><sup><strong>5</strong></sup><em>	</em><strong><sup>5</sup></strong><em>Then</em><em> the </em><em>glory of Yahveh</em><em> will </em><em>come</em><em>;</em> <em>	</em><em>	</em><em>	</em><em>everyone will see it together.”</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em>Yahveh has said so.<strong>           </strong><strong>Is</strong><strong> 40:3-5</strong></span>
+<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>	</em><strong><sup>5</sup></strong><em>Then</em><em> the </em><em>glory of Yahveh</em><em> will </em><em>come</em><em>;</em> <em>	</em><em>	</em><em>	</em><em>everyone will see it together.”</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em>Yahveh has said so.<strong>           </strong><strong>Is</strong><strong> 40:3-5</strong></span>
 
 <span class="verse" id="v6"><strong><sup>6</sup></strong>A voice said, <em>“Shout.”</em> I answered, <em>“</em><em>Shout w</em><em>hat?”</em> <em>“People are like </em><em>grass;</em><em> </em> <em>	</em><em>	</em><em>	their </em><em>beauty</em><em> is like a flower in a field. </em></span>
 
-<span class="verse" id="v7"><sup><strong>7</strong></sup><em>	</em><strong><sup>7</sup></strong><em>Grass</em><em> withers and flowers fade</em> <em>	</em><em>	</em><em>	when </em><em>Yahveh</em><em> blows on </em><em>them;</em> <em>	</em><em>	</em><em>	people are like that.</em></span>
+<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>	</em><strong><sup>7</sup></strong><em>Grass</em><em> withers and flowers fade</em> <em>	</em><em>	</em><em>	when </em><em>Yahveh</em><em> blows on </em><em>them;</em> <em>	</em><em>	</em><em>	people are like that.</em></span>
 
-<span class="verse" id="v8"><sup><strong>8</strong></sup><em>	</em><strong><sup>8</sup></strong><em>Grass</em><em> withers and flowers fade,</em> <em>	</em><em>	</em><em>	but </em><em>Yahveh’s</em><em> word stands forever.”</em>	<strong>Is</strong><strong> 40:6-8</strong></span>
+<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>	</em><strong><sup>8</sup></strong><em>Grass</em><em> withers and flowers fade,</em> <em>	</em><em>	</em><em>	but </em><em>Yahveh’s</em><em> word stands forever.”</em>	<strong>Is</strong><strong> 40:6-8</strong></span>
 
 <span class="verse" id="v9"><strong><sup>9</sup></strong>Climb a high mountain, Zion, messenger with good news; shout it out; shout it louder; don’t hold back; tell the towns in Judah, <em>“Y</em><em>our God</em><em> is coming</em><em>!”</em></span>
 
@@ -60,15 +60,13 @@ weight: 40
 
 <span class="verse" id="v25"><strong><sup>25</sup></strong>Who can you compare him with; who’s his equal?</span>
 
-<span class="verse" id="v26"><strong><sup>26</sup></strong>Look up and see who created those stars, who leads the host of them out in full number and calls each one by name; because of his great power and strength, not a one of them is missing.<strong>	</strong></span>
-<p class="section-ref">Is 40:21-26</p>
+<span class="verse" id="v26"><strong><sup>26</sup></strong>Look up and see who created those stars, who leads the host of them out in full number and calls each one by name; because of his great power and strength, not a one of them is missing.<strong>	</strong><strong>Is 40:21-26</strong></span>
 
 <span class="verse" id="v27"><strong><sup>27</sup></strong>Jacob, why do you think Yahveh can’t see what you’re going through, that he doesn’t notice the justice you deserve?</span>
 
 <span class="verse" id="v28"><strong><sup>28</sup></strong>Don’t you know? Haven’t you heard? The eternal God, Yahveh, the creator of the earth, doesn’t get tired; no one can measure his intelligence.</span>
 
-<span class="verse" id="v29"><strong><sup>29</sup></strong>He gives stamina to the tired and increases strength in the weak.<strong>	</strong></span>
-<p class="section-ref">Is 40:27-29</p>
+<span class="verse" id="v29"><strong><sup>29</sup></strong>He gives stamina to the tired and increases strength in the weak.<strong>	</strong><strong>Is 40:27-29</strong></span>
 
 <span class="verse" id="v30"><strong><sup>30</sup></strong>Even youths get weary; young men collapse exhausted;</span>
 

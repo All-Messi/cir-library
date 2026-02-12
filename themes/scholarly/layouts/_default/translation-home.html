@@ -4,36 +4,138 @@
         <a href="{{ "translations/" | absURL }}">← All Translations</a>
     </nav>
 
-    <header class="page-header">
+    <header class="translation-header">
         <h1>{{ .Title }}</h1>
-        <p class="translator-credit">Translated by {{ .Params.translator }}</p>
+        {{ with .Params.description }}
+        <p class="translation-desc">{{ . }}</p>
+        {{ else }}
+        <p class="translation-desc">{{ .Content | plainify | truncate 200 }}</p>
+        {{ end }}
     </header>
 
-    <div class="intro-content">
-        {{ .Content }}
-    </div>
-
-    <!-- Read Now Button -->
-    {{ $firstBook := index (.Sections.ByWeight) 0 }}
-    {{ if $firstBook }}
-    <div class="read-now-section">
-        <a href="{{ $firstBook.RelPermalink }}chapter-01/" class="btn-primary btn-large">📖 Read Now</a>
-        <p class="read-now-note">Start reading from {{ $firstBook.Title }}</p>
-    </div>
-    {{ end }}
-
-    <h2 class="section-heading">Browse Books</h2>
-
+    <!-- Books Grid -->
     <div class="books-grid">
         {{ range .Sections.ByWeight }}
-        <div class="book-card">
-            <h3><a href="{{ .RelPermalink }}">{{ .Params.book }}</a></h3>
-            <div class="book-meta">
-                <span class="book-chapters">{{ .Params.chapters }} chapters</span>
-            </div>
-            <a href="{{ .RelPermalink }}chapter-01/" class="btn-start">Start Reading →</a>
-        </div>
+        <a href="{{ .RelPermalink }}" class="book-card">
+            <h3 class="book-title">{{ .Params.book | default .Title }}</h3>
+            <span class="book-chapters">{{ .Params.chapters | default (len .Pages) }} Chapters</span>
+            <span class="book-action">Read →</span>
+        </a>
         {{ end }}
     </div>
 </div>
+
+<style>
+/* Translation Home - Book Browser */
+.translation-home {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.translation-home .breadcrumb {
+    margin-bottom: 2rem;
+}
+
+.translation-home .breadcrumb a {
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.9rem;
+    color: var(--color-text-secondary, #555);
+    text-decoration: none;
+}
+
+.translation-home .breadcrumb a:hover {
+    color: var(--color-accent, #9c7c38);
+}
+
+.translation-header {
+    margin-bottom: 2.5rem;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid var(--color-border, #e5e5e5);
+}
+
+.translation-header h1 {
+    font-family: var(--font-display, 'Playfair Display', Georgia, serif);
+    font-size: 2rem;
+    font-weight: 600;
+    color: var(--color-primary, #000);
+    margin: 0 0 0.5rem;
+}
+
+.translation-header .translation-desc {
+    font-size: 1rem;
+    color: var(--color-text-secondary, #555);
+    line-height: 1.6;
+    margin: 0;
+}
+
+/* Books Grid */
+.books-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 1rem;
+}
+
+.book-card {
+    display: flex;
+    flex-direction: column;
+    padding: 1.25rem 1.5rem;
+    background: var(--color-bg, #fff);
+    border: 1px solid var(--color-border, #e5e5e5);
+    border-radius: 8px;
+    text-decoration: none;
+    transition: all 0.2s ease;
+}
+
+.book-card:hover {
+    border-color: var(--color-accent, #9c7c38);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    transform: translateY(-2px);
+}
+
+.book-card:hover .book-action {
+    color: var(--color-accent, #9c7c38);
+    opacity: 1;
+}
+
+.book-title {
+    font-family: var(--font-display, 'Playfair Display', Georgia, serif);
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--color-primary, #000);
+    margin: 0 0 0.5rem;
+    line-height: 1.3;
+}
+
+.book-chapters {
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.8rem;
+    color: var(--color-text-muted, #888);
+    margin-bottom: 0.75rem;
+}
+
+.book-action {
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--color-text-secondary, #555);
+    opacity: 0.6;
+    margin-top: auto;
+    transition: all 0.2s ease;
+}
+
+@media (max-width: 600px) {
+    .books-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 0.75rem;
+    }
+    
+    .book-card {
+        padding: 1rem;
+    }
+    
+    .book-title {
+        font-size: 0.95rem;
+    }
+}
+</style>
 {{ end }}

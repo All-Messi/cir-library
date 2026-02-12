@@ -9,7 +9,7 @@ type: chapter
 weight: 11
 ---
 
-## Hebrews Chapter **11**
+## Hebrews Chapter 11
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Now faith is (the) assurance of-things hoped-for, (the) certainty of-things┘not└seen.  <strong><sup>2</sup></strong>For by this the ancients had-witness-borne-to-(them).</span>
 
@@ -37,7 +37,7 @@ weight: 11
 
 <span class="verse" id="v22"><strong><sup>2</sup></strong>By-faith Joseph, coming-to-(his)-end, made-mention about the exodus of-the sons of-Israel, and he-gave-commandment concerning the bones of-him.</span>
 
-<span class="verse" id="v23"><sup><strong>23</strong></sup>By-faith Moses, having-been-born, was-hid for-three-months by the fathers/parents of-him, because they-saw (that) the child (was) handsome; and they-did┘not└fear the edict of-the king.</span>
+<span class="verse" id="v23"><sup class="verse-num">23</sup> By-faith Moses, having-been-born, was-hid for-three-months by the fathers/parents of-him, because they-saw (that) the child (was) handsome; and they-did┘not└fear the edict of-the king.</span>
 
 <span class="verse" id="v24"><strong><sup>4</sup></strong>By-faith Moses, becoming full-grown, refused to-be-called (the) son of-(the)-daughter of-Pharaoh, <strong><sup>25</sup></strong>choosing instead to-share-ill-treatment-with the people of-[the] God than to-have (the) enjoyment of-sin for a-time, <strong><sup>26</sup></strong>having-considered the reproach of-[the] Christ greater wealth than-the treasures of-Egypt, for he-looked-away to-the rewarding-payback.</span>
 

@@ -8,7 +8,7 @@ type: chapter
 weight: 1
 ---
 
-## 1 Peter Chapter **1**
+## 1 Peter Chapter 1
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Peter, apostle of-Jesus Christ to-(the) elect sojourners of-(the)-Diaspora of-Pontus, Galatian, Cappadocia, Asia, and Bithynia, <strong><sup>2</sup></strong>according-to (the) foreknowledge of-God (the) Father in (the) sanctification of-(the)-Spirit, unto (the) obedience and sprinkling of-(the)-blood of Jesus Christ.  Grace to-you and peace be-multiplied.</span>
 

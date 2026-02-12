@@ -10,3 +10,5 @@ weight: 31
 ## Obadiah
 
 **1 Chapters**
+
+Select a chapter to begin reading:

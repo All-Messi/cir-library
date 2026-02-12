@@ -8,7 +8,7 @@ type: chapter
 weight: 1
 ---
 
-## Romans Chapter **1**
+## Romans Chapter 1
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Paul, bond-servant of-Christ Jesus, called (to be an) apostle, set-apart to (the) gospel of-God, <strong><sup>2</sup></strong>which he-promised-beforehand through the prophets of-him in (the) holy scriptures <strong><sup>3</sup></strong>about the Son of-him, the-one having-arisen from (the) seed of-David according-to (the) flesh, <strong><sup>4</sup></strong>the-one designated (the) Son of-God with power according-to (the) Spirit of-holiness out-of (the) resurrection of-(the)-dead, Jesus Christ the Lord of-us, <strong><sup>5</sup></strong>through whom we-received grace and apostleship unto (the) obedience of-faith among all the Gentiles on-behalf-of the name of-him, <strong><sup>6</sup></strong>among whom you also (are) called-ones of-Jesus Christ, <strong><sup>7</sup></strong>to-all the beloved-ones of-God being in Rome, called (to be) holy. Grace (be) to-you and peace from God (the) Father of-us and (the) Lord Jesus Christ.</span>
 

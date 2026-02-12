@@ -9,9 +9,9 @@ type: chapter
 weight: 24
 ---
 
-## Isaiah Chapter **24**
+## Isaiah Chapter 24
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>Yahveh is laying the earth waste, defacing its surface, scattering its residents. <strong><sup>2</sup></strong>People and priests, servants and masters, maids and mistresses, buyers and sellers, lenders and borrowers, creditors and debtors—everyone will be affected. <strong><sup>3</sup></strong>The earth will be completely despoiled because Yahveh said so. <strong><sup>4</sup></strong>The earth withers, and its people waste away, even its high-ranking ones, <strong><sup>5</sup></strong>because they’ve polluted it by sinning against God’s laws, statutes, and everlasting covenant. <strong><sup>6</sup></strong>So a curse devastates the earth, and its people have to pay for their guilt. They’re burned; there aren’t many left.                        	   <strong>Is</strong><strong> 24:1-6</strong></span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Yahveh is laying the earth waste, defacing its surface, scattering its residents. <strong><sup>2</sup></strong>People and priests, servants and masters, maids and mistresses, buyers and sellers, lenders and borrowers, creditors and debtors—everyone will be affected. <strong><sup>3</sup></strong>The earth will be completely despoiled because Yahveh said so. <strong><sup>4</sup></strong>The earth withers, and its people waste away, even its high-ranking ones, <strong><sup>5</sup></strong>because they’ve polluted it by sinning against God’s laws, statutes, and everlasting covenant. <strong><sup>6</sup></strong>So a curse devastates the earth, and its people have to pay for their guilt. They’re burned; there aren’t many left.                        	   <strong>Is</strong><strong> 24:1-6</strong></span>
 
 <span class="verse" id="v7"><strong><sup>7</sup></strong>There’s no new wine to drink; the grapevines have dried up; the light-hearted sigh.</span>
 
@@ -26,8 +26,7 @@ weight: 24
 
 <span class="verse" id="v12"><strong><sup>2</sup></strong>The city’s in ruins; its gates are battered down.</span>
 
-<span class="verse" id="v13"><strong><sup>3</sup></strong>That’s the way it is in the rural areas too— as when they shake the olive tree or glean for grapes.<strong>	</strong></span>
-<p class="section-ref">Is 24:11-13</p>
+<span class="verse" id="v13"><strong><sup>3</sup></strong>That’s the way it is in the rural areas too— as when they shake the olive tree or glean for grapes.<strong>	</strong><strong>Is 24:11-13</strong></span>
 
 <span class="verse" id="v14"><strong><sup>4</sup></strong><em>But</em><em> </em>a few raise their voices and shout for joy; they shout from the west about the majesty of Yahveh.</span>
 

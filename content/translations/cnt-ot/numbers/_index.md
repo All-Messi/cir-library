@@ -1,12 +1,14 @@
 ---
 book: Numbers
-chapters: 34
+chapters: 36
 title: Numbers
-translation: COT
+translation: CNT
 type: book
 weight: 4
 ---
 
 ## Numbers
 
-**34 Chapters**
+**36 Chapters**
+
+Select a chapter to begin reading:

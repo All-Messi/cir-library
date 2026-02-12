@@ -1,20 +1,24 @@
 ---
 author: Virgil Warren, PhD
 categories:
+- Essays
 - Topics
 - CHRISTIAN DOCTRINE
 - BAPTISM
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: A POSITION STATEMENT
 weight: 5
 ---
 
-A POSITION STATEMENT
 
-ON THE MEANING OF CHRISTIAN BAPTISM
+<strong>ON THE MEANING OF CHRISTIAN BAPTISM</strong>
+
+
+
 
 As part of our standard response to the gospel, God appointed baptism for expressing personal identification with Jesus Christ, which involves commitment to his lordship, values, and purposes. In consequence of our identity with him, God forgives our sin, grants fellowship with his Spirit, and numbers us among his children.
+
 
 In this description, (1) “standard response” means that special cases and impossible circumstances are not in view, circumstances where baptism cannot be performed or cannot be performed without endangering life.
 
@@ -22,19 +26,19 @@ In this description, (1) “standard response” means that special cases and im
 
 (3) “God’s appointed act” implies that baptism is a positive commandment. Strictly speaking, the need for baptism comes from God’s will rather than from the nature of salvation itself. Baptism is appropriate to the salvation process instead of inherently necessary for it.
 
-(4) “God’s appointed act” draws attention to baptism as something done by the believer more than something done to him, as is the case under any view of baptism in the Holy Spirit. Baptism means the act, not just the event; consequently, it is an act reminiscent of Christ’s burial-resurrection (Romans 6:1-11ff.).
+(4) “God’s appointed act” draws attention to baptism as something done by the believer more than something done to him, as is the case under any view of baptism in the Holy Spirit. Baptism means the act, not just the event; consequently, it is an act reminiscent of Christ’s burial-resurrection (Romans <strong><sup>6</sup></strong>:1-11ff.).
 
-(5) “Expressing personal identification” highlights the combination of inner and outer factors. The outward ritual without the inner dynamic is not Christian baptism. Furthermore, the validity of baptism does not rest in the administrator, but in the candidate. Baptism flows from the candidate’s inner faith in Christ, repentance from sin, and commitment to Jesus as Lord (Acts 2:38).
+(5) “Expressing personal identification” highlights the combination of inner and outer factors. The outward ritual without the inner dynamic is not Christian baptism. Furthermore, the validity of baptism does not rest in the administrator, but in the candidate. Baptism flows from the candidate’s inner faith in Christ, repentance from sin, and commitment to Jesus as Lord (Acts <strong><sup>2</sup></strong>:38).
 
 (6) “Expressing personal identification” contrasts with surrogate baptism for a dead unbeliever or with surrogate faith by a sponsor or parent as in infant baptism. In baptism the believer indicates his own faith and commitment.
 
 (7) “Identification with Jesus Christ” means that we put ourselves in relationship to Christ as far as we are concerned. Because he is Lord, our identification with him commits us to him and to his purposes and values to the same degree of obedience he indicated in his culminating obedience. We confess that in Christ—rather than in someone else—God has promised to view us as having a righteousness appropriate for divine fellowship.
 
-Additionally, by its form baptism represents the burial and resurrection of Christ; so we pass from a this-worldly frame of reference to a resurrected, transcendent manner of living (Colossians 3:1-3). Material, political, national, fleshly concerns yield to interpersonal, eternal, and heavenly ones. We let God pictorially bury our old self with its personal orientation, and let him resurrect us to interpersonal existence (Romans 6:1-7:6; Colossians 2:8-3:11).
+Additionally, by its form baptism represents the burial and resurrection of Christ; so we pass from a this-worldly frame of reference to a resurrected, transcendent manner of living (Colossians <strong><sup>3</sup></strong>:1-3). Material, political, national, fleshly concerns yield to interpersonal, eternal, and heavenly ones. We let God pictorially bury our old self with its personal orientation, and let him resurrect us to interpersonal existence (Romans <strong><sup>6</sup></strong>:1-7:6; Colossians<strong> 2</strong>:8-3:11).
 
 (8) “In consequence of our identity” specifies that God’s gifts logically follow identification with Christ and the formal act that expresses that identification. Forgiveness, the gift of the Spirit, and church membership are pictured as given at the time of the formal commitment, but are given logically after it. Otherwise, salvation would appear to be aside from Christ altogether.
 
-(9) “In consequence of our identity” makes clear that God’s gifts are based more directly on identity with Christ than on the act that identifies us with him. Strictly speaking, the obedience and the gifts are not even indirectly connected. An indirect connection could still be a causal one. The gifts logically follow the obedience, but they do not logically or naturally follow it in a cause-effect manner. Between the act and the benefits comes the identity with Christ as well as God’s choice to give the benefits he freely promises. The kind of results involved (being viewed as righteous, etc.) are not such as could be caused by baptism in whole or in part, directly or indirectly. There is a difference in kind between what the candidate does and what God gives. Being “in Christ” is the condition for salvation, and baptism stands within the cluster of conditions for expressing that identification.
+(9) “In consequence of our identity” makes clear that God’s gifts are based more directly on identity with Christ than on the act that identifies us with him. Strictly speaking, the obedience and the gifts are not even indirectly connected. An indirect connection could still be a causal one. The gifts logically follow the obedience, but they do not logically or naturally follow it in a cause-effect manner. Between the act and the benefits comes the identity with Christ as well as God’s choice to give the benefits he freely promises. The kind of results involved (being viewed as righteous, <em>etc</em>.) are not such as could be caused by baptism in whole or in part, directly or indirectly. There is a difference in kind between what the candidate does and what God gives. Being “in Christ” is the condition for salvation, and baptism stands within the cluster of conditions for expressing that identification.
 
 (a) The act of baptism—or any other act in salvation, for that matter—does not itself produce or help produce the result, because a second person is involved in giving it. (b) The second person does not view the act itself as the basis for his decision; he views the identity with Christ as the basis for viewing the person as righteous like Christ and, therefore, for giving fellowship in reconciliation.
 
@@ -50,41 +54,62 @@ Identity with Christ—as distinguished from other identities—is not just for 
 
 Baptism is an act involving inner and outer dimensions with individual and collective implications for vertical and horizontal relationships. It is intended to be an integral part of initial salvation, and an integral part of our personal identification with Christ—integral rather than inherently essential or necessary.
 
-BAPTISM AND ITS INTEGRATIONS
+
+
+
+<strong>BAPTISM AND ITS INTEGRATIONS</strong>
+
+
 
 I. The Purpose of Baptism
 
+
 When we believe the gospel and repent of sin, we commit ourselves to Jesus Christ in Christian baptism. On the basis of our identity with Christ, God forgives our sin, gives us the personal presence of his Spirit, and adds us to the universal body of believers—as this diagram pictures
+
+
+
 
 The reason this cluster of responses has any connection with the benefits is that God himself considers them appropriate for those benefits. We unite with Christ rather than with someone else because Christ alone has the righteous character we all need and because God appointed him as the One to identify with. The responses we make connect us with Christ because we choose to do them for that purpose. Our identity with Christ in turn connects with the desired consequences because God chooses to give them on that basis.
 
 Ahead of this process, God chose to offer this “plan” through Christ for reconciling us to himself (predestination). He sent his Son to establish the actual historical basis for reconciliation (incarnation). Lastly, he calls us to accept his offer in Christ to reconcile us to himself (evangelism). Reconciliation began, continued, and ends with the grace of God.
 
-Scripture speaks of identification with Christ when it says that believers are “baptized into Christ” (Romans 6:3; Galatians 3:27; Acts 8:16; cp. 19:5; Matthew 28:19) and “baptized in the name of Christ” (Acts 2:28; 10:48). In a similar sense, a person might be baptized into Moses (1 Corinthians 10:1-2), John (Acts 19:7), or Paul (1 Corinthians 1:13-15). In baptism we are united with Christ (Romans 6:5; cp. 2 Corinthians 4:10; Philippians 3:10-11; Colossians 2:12; 3:1). Acts 2:38, 47 is especially helpful because it notices both the connection between baptism and Christ (“. . . let each one of you be baptized in the name of Jesus Christ . . .”) and the connection between Christ and forgiveness of sins, gift of the Spirit, and church membership (“. . . in the name of Jesus Christ unto remission of sins . . . the gift of the Holy Spirit . . . And the Lord added to them daily those who were being saved.”). Sometimes scripture shortens the statement by putting baptism in direct connection with salvation: “. . . baptism now saves us” (1 Peter 3:21; cp. Titus 3:5; Acts 2:38); but as to reality, baptism brings us into Christ, and in Christ we receive forgiveness and fellowship.
+Scripture speaks of identification with Christ when it says that believers are <em>“baptized into Christ”</em> (Romans <strong><sup>6</sup></strong>:3; Galatians <strong><sup>3</sup></strong>:27; Acts <strong><sup>8</sup></strong>:16; cp. <strong><sup>19</sup></strong>:5; Matthew <strong><sup>28</sup></strong>:19) and <em>“baptized in the name of Christ” </em>(Acts <strong><sup>2</sup></strong>:28; <strong><sup>10</sup></strong>:48). In a similar sense, a person might be baptized into Moses (1 Corinthians <strong><sup>10</sup></strong>:1-2), John (Acts <strong><sup>19</sup></strong>:7), or Paul (1 Corinthians <strong><sup>1</sup></strong>:13-15). In baptism we are united with Christ (Romans <strong><sup>6</sup></strong>:5; cp. 2 Corinthians <strong><sup>4</sup></strong>:10; Philippians <strong><sup>3</sup></strong>:10-11; Colossians <strong><sup>2</sup></strong>:12; <strong><sup>3</sup></strong>:1). Acts <strong><sup>2</sup></strong>:38, 47 is especially helpful because it notices both the connection between baptism and Christ (<em>“. . . let each one of you be baptized in the name of Jesus Christ . . .”</em>) and the connection between Christ and forgiveness of sins, gift of the Spirit, and church membership (<em>“. . . in the name of Jesus Christ unto remission of sins . . . the gift of the Holy Spirit . . . And the Lord added to them daily those who were being saved.”</em>)<em>. </em>Sometimes scripture shortens the statement by putting baptism in direct connection with salvation: <em>“. . . baptism now saves us”</em> (1 Peter <strong><sup>3</sup></strong>:21; cp. Titus<strong> 3</strong>:5; Acts <strong><sup>2</sup></strong>:38); but as to reality, baptism brings us into Christ, and in Christ we receive forgiveness and fellowship.
 
-Identity with Christ stands logically between our baptism act before and God’s forgiveness afterwards. Keeping this point in mind removes the need some feel to put baptism after salvation to avoid salvation by works. Such a proposal runs against the grain in the expression “unto remission of sins” (εἰς ἄφεσιν ἁμαρτιῶν), which appears in Acts 2:38 (cp. Mark 1:4; Luke 3:3). The phrase occurs elsewhere in reference to “my blood of the covenant, which is poured out for many unto remission of sins” (Matthew 26:28). Clearly the shedding of Christ’s blood precedes remission of sins. Likewise, the act of baptism precedes remission of sins. The real question is not whether baptism precedes remission of sins, but how it precedes it. Baptism brings us into Christ, and in Christ God forgives our sins. It is not that we are baptized because we are in Christ, but we are forgiven because we are in Christ, and we have entered him by repentance and identification with him in Christian baptism.
+Identity with Christ stands logically between our baptism act before and God’s forgiveness afterwards. Keeping this point in mind removes the need some feel to put baptism after salvation to avoid salvation by works. Such a proposal runs against the grain in the expression <em>“unto remission of sins” </em>(εἰς ἄφεσιν ἁμαρτιῶν), which appears in Acts <strong><sup>2</sup></strong>:38 (cp. Mark <strong><sup>1</sup></strong>:4; Luke <strong><sup>3</sup></strong>:3). The phrase occurs elsewhere in reference to <em>“my blood of the covenant, which is poured out for many unto remission of sins”</em> (Matthew <strong><sup>26</sup></strong>:28). Clearly the shedding of Christ’s blood precedes remission of sins. Likewise, the act of baptism precedes remission of sins. The real question is not whether baptism precedes remission of sins, but how it precedes it. Baptism brings us into Christ, and in Christ God forgives our sins. It is not that we are baptized because we are in Christ, but we are forgiven because we are in Christ, and we have entered him by repentance and identification with him in Christian baptism.
 
-This arrangement of baptism unto identity with Christ unto remission of sins maintains the parallel that exists with other responses and salvation. The preposition eis that joins baptism and Christ (Romans 6:3) as well as Christ and remission (Acts 2:38) also joins faith and righteousness, repentance and salvation, confession and salvation:
+This arrangement of baptism unto identity with Christ unto remission of sins maintains the parallel that exists with other responses and salvation. The preposition <em>eis</em> that joins <em>baptism</em> and <em>Christ</em> (Romans <strong><sup>6</sup></strong>:3) as well as <em>Christ</em> and <em>remission</em> (Acts<strong> 2</strong>:38) also joins faith and righteousness, repentance and salvation, confession and salvation:
 
-“With the heart a person trusts unto righteousness” (Romans 10:10).
 
-“Godly sorrow works repentance unto salvation” (2 Corinthians 7:10).
+<em>     “With the heart a person trusts </em><em><u>unto</u></em><em> righteousness”</em> (Romans <strong><sup>10</sup></strong>:10).
 
-“With the mouth a person confesses unto salvation”  (Romans 10:10).
+<em>“Godly sorrow works repentance </em><em><u>unto</u></em><em> salvation”</em> (2 Corinthians <strong><sup>7</sup></strong>:10).
 
-“Let each one of you be baptized in the name of Jesus unto remission”   (Acts 2:38).
+<em>     “With the mouth a person confesses </em><em><u>unto</u></em><em> salvation”</em>  (Romans <strong><sup>10</sup></strong>:10).
 
-“My blood poured out . . . unto remission” (Matthew 26:28)
+<em>“Let each one of you be baptized in the name of Jesus </em><em><u>unto</u></em><em> remission” </em>  (Acts <strong><sup>2</sup></strong>:38).
 
-The left-to-right movement of thought applies equally to all these examples. (The preposition εἰς is directional rather than locative.) “Baptism for remission of sins” is shorthand for “baptism into Christ for remission of sins.”
+<em>       “My blood poured out . . . </em><em><u>unto</u></em><em> remission”</em> (Matthew <strong><sup>26</sup></strong>:28)
+
+
+The left-to-right movement of thought applies equally to all these examples. (The preposition εἰς is directional rather than locative.) <em>“Baptism for remission of sins”</em> is shorthand for <em>“baptism into Christ for remission of sins.”</em>
+
 
 II. Types of Systems
 
+
 Not all systems are alike. They can operate in respect to different kinds of matters, but the main contrast lies in the kinds of connectors between actions and consequences. Below are three types of systems that illustrate this difference. We outline them here to clarify what causes people to differ so intensely about the role that Christian baptism plays. What happens is that in thinking about baptism and related matters, they are shifting baptism back and forth between systems without realizing it.
+
+
+
 
 In America, when we want to pass on property to other people after we die, we must sign our name to a document that specifies who receives what. We must put our signature on it in the presence of official witnesses and that settles the arrangement. The reason a connection exists between that piece of paper and the ownership of our property by someone else is that the authority of the law makes it so.
 
+
+
 If we lean out of a second-story window and turn a bucket of water upside down, the barking dog below gets wet. A natural force connects the upside-down bucket and the wet dog.
+
+
+
 
 A neighbor may offer to mow my lawn while I am on vacation if I am willing to stop by and check on his aging parents in a town along my route. The reason there is a connection between my visiting his parents and his mowing my lawn is that he made a choice to connect them. In this case the neighbor has said, “If you do me a favor, I’ll do you a favor.”
 
@@ -94,23 +119,25 @@ But since the kinds of connections differ, the kinds of connectors differ, so th
 
 Applying these observations to the meaning and necessity of Christian baptism is crucial. Baptism is an act, and forgiveness is a consequence. We must not confuse the kind and manner of connection between baptism and forgiveness and, therefore, the type of meaning and necessity the baptism act has. The confusion stems from reading this interpersonal sequence as a natural or legal one. The misreading transfers to Christian baptism the kind and manner of connection and the type of meaning and necessity that belong to the other two systems. The connection becomes deterministic, which is impossible.
 
-As a result, Christian baptism could get transformed into something like a business transaction with the feel of (a) automatic and (b) uniform results. People do not associate forgiveness of sins with God’s choice, but with (c) the procedures. Furthermore, (d) the inflexibility of law and nature also gets transferred to Christian baptism. A repentant believer committed to Jesus Christ might die without baptism through some misunderstanding or insuperable circumstance. That situation gets handled as if it were like someone that has not filled out properly all the right documents for an inheritance, or like someone that becomes a traffic fatality on the way to signing a life insurance policy.
+As a result, Christian baptism could get transformed into something like a business transaction with the feel of <strong>(a) </strong>automatic and <strong>(b)</strong> uniform results. People do not associate forgiveness of sins with God’s choice, but with <strong>(c)</strong> the procedures. Furthermore, <strong>(d)</strong> the inflexibility of law and nature also gets transferred to Christian baptism. A repentant believer committed to Jesus Christ might die without baptism through some misunderstanding or insuperable circumstance. That situation gets handled as if it were like someone that has not filled out properly all the right documents for an inheritance, or like someone that becomes a traffic fatality on the way to signing a life insurance policy.
 
-A final difficulty arises from confusing an additional characteristic of a legal system with those of an interpersonal one. Legal processes can involve (e) permanent results without continued qualification. Once people graduate from high school, they are permanently high school graduates even if they forget most of what they learned to get the diploma. When that “feel” for the process gets transferred to baptism, baptized people can consider their salvation as finished business. Their completion does not become a “commencement.” They presume upon their baptism as “completed obedience,” much as some people presume upon their wedding as creating a settled matter—and with the same unfortunate consequences.
+A final difficulty arises from confusing an additional characteristic of a legal system with those of an interpersonal one. Legal processes can involve<strong> (e) </strong>permanent results without continued qualification. Once people graduate from high school, they are permanently high school graduates even if they forget most of what they learned to get the diploma. When that “feel” for the process gets transferred to baptism, baptized people can consider their salvation as finished business. Their completion does not become a “commencement.” They presume upon their baptism as “completed obedience,” much as some people presume upon their wedding as creating a settled matter—and with the same unfortunate consequences.
 
-In personal relationships, however, formal matters like baptism can even be set aside for appropriate practical reasons. Paul observes this principle when he says of circumcision in its spiritual dimension: “If then the uncircumcised keep the ordinances of the law, will God not consider their uncircumcision as circumcision?” (Romans 2:26). Paul may have in mind godfearers, or sebomenoi, like Cornelius (Acts 10:2, 22, 35; 13:16, 26; note 15:7-9). These people worshipped the one true God but had not been circumcised to become proselytes and thus considered full-fledged Jews. Even farther afield would have been women, to whom circumcision did not apply. In light of 2:6-16, Paul may also have in mind more distant people who had only conscience to guide them.
+In personal relationships, however, formal matters like baptism can even be set aside for appropriate practical reasons. Paul observes this principle when he says of circumcision in its spiritual dimension:<em> “If then the uncircumcised keep the ordinances of the law, will God not consider their uncircumcision as circumcision?”</em> (Romans <strong><sup>2</sup></strong>:26). Paul may have in mind godfearers, or <em>sebomenoi</em>, like Cornelius (Acts <strong><sup>10</sup></strong>:2, 22, 35; <strong><sup>13</sup></strong>:16, 26; note <strong><sup>15</sup></strong>:7-9). These people worshipped the one true God but had not been circumcised to become proselytes and thus considered full-fledged Jews. Even farther afield would have been women, to whom circumcision did not apply. In light of <strong><sup>2</sup></strong>:6-16, Paul may also have in mind more distant people who had only conscience to guide them.
 
-The apostle is quite bold here. He does not treat this circumstance in a neutral way by saying that God will deal with uncircumcised people in a just manner. That would leave the matter open-ended, and readers could still entertain the inference that uncircumcised people were lost. Instead, Paul treats the “pious uncircumcised” in a positive way, affirming that because they keep God’s ordinances, God considers them circumcised. His comment fits with a later one about Abraham, who in his uncircumcision had faith reckoned for righteousness (Romans 4:3, 9-12). Abraham’s righteousness came from interpersonal considerations (faith/trust, promise), not legal ones. So the consequent blessings on the patriarch and all the nations grew from interpersonal considerations, “The promise to Abraham and his seed was not through law” (4:13). Legal and interpersonal are different kinds of systems (Romans 4:14-16; Galatians 3:10-12). The apostle affirms that God waives formal considerations under appropriate circumstances in spiritual matters—in interpersonal circumstances. If an action can be set aside under legitimate circumstances, it has a different value and kind of necessity than an act in legal or natural systems.
+The apostle is quite bold here. He does not treat this circumstance in a neutral way by saying that God will deal with uncircumcised people in a just manner. That would leave the matter open-ended, and readers could still entertain the inference that uncircumcised people were lost. Instead, Paul treats the “pious uncircumcised” in a positive way, affirming that because they keep God’s ordinances, God considers them circumcised. His comment fits with a later one about Abraham, who in his uncircumcision had faith reckoned for righteousness (Romans <strong><sup>4</sup></strong>:3, 9-12). Abraham’s righteousness came from interpersonal considerations (faith/trust, promise), not legal ones. So the consequent blessings on the patriarch and all the nations grew from interpersonal considerations, <em>“The promise to Abraham and his seed was not through law”</em> (<strong><sup>4</sup></strong>:13). Legal and interpersonal are different kinds of systems (Romans <strong><sup>4</sup></strong>:14-16; Galatians <strong><sup>3</sup></strong>:10-12). The apostle affirms that God waives formal considerations under appropriate circumstances in spiritual matters—in interpersonal circumstances. If an action can be set aside under legitimate circumstances, it has a different value and kind of necessity than an act in legal or natural systems.
 
-Christian baptism, on the other hand, identifies us with Jesus Christ for the very purpose of indicating our concern about sin in personal relationships. The meaning to our past formal act of baptism continues only as long as desire to act appropriately in relationship to God and other people (cp. Romans 2:25).
+Christian baptism, on the other hand, identifies us with Jesus Christ for the very purpose of indicating our concern about sin in personal relationships. The meaning to our past formal act of baptism continues only as long as desire to act appropriately in relationship to God and other people (cp. Romans <strong><sup>2</sup></strong>:25).
+
 
 III. Faith in Paul’s Teaching About Righteousness
 
-When Paul teaches about righteousness by faith, he contrasts it to righteousness by works. That contrast features works in the context of law. He does not mean by “works” simply doing something, but the more specifically doing something in a legal system: works of law (Romans 3:21-4:8; Galatians 3:10-14).
 
-In Galatians 3:10-14 Paul sets Habakkuk 2:4 in contrast to Deuteronomy 27:26 and Leviticus 18:5. Deuteronomy shows that a legal system requires perfection (“continue to do all”). Leviticus shows that righteous actions under law create righteousness only for the one who does them (personal). The combination means that, for people not to be accursed under law, they cannot sin even once, because there is no source of righteousness for them except their own doing.
+When Paul teaches about righteousness by faith, he contrasts it to righteousness by works. That contrast features works in the context of law. He does not mean by “works” simply doing something, but the more specifically doing something in a legal system: works of law (Romans<strong> 3</strong>:21-4:8; Galatians <strong><sup>3</sup></strong>:10-14).
 
-Habakkuk, however, states that relationship to God (“life”) is based on trust (“faith”). Trust always involves another person—the one trusted. A trust system amounts to interpersonal process so that the righteousness result comes about in a way that involves another person. A legal system (“works”) requires that people be viewed and treated as righteous because they are righteous. Everyone else “owes” it to them to view them for what they are—righteous (Romans 4:4). In a trust system, people may be viewed and treated as righteous because other persons choose to do so (on bases they deem appropriate).
+In Galatians<strong> 3</strong>:10-14 Paul sets Habakkuk <strong><sup>2</sup></strong>:4 in contrast to Deuteronomy <strong><sup>27</sup></strong>:26 and Leviticus <strong><sup>18</sup></strong>:5. Deuteronomy shows that a legal system requires perfection (<em>“</em><em><u>continue</u></em><em> to do </em><em><u>all</u></em><em>”</em>). Leviticus shows that righteous actions under law create righteousness only for the one who does them (personal). The combination means that, for people not to be accursed under law, they cannot sin even once, because there is no source of righteousness for them except their own doing.
+
+Habakkuk, however, states that relationship to God (“life”) is based on trust (“faith”). Trust always involves another person—the one trusted. A trust system amounts to interpersonal process so that the righteousness result comes about in a way that involves another person. A legal system (“works”) requires that people be viewed and treated as righteous because they are righteous. Everyone else “owes” it to them to view them for what they are—righteous (Romans <strong><sup>4</sup></strong>:4). In a trust system, people may be viewed and treated as righteous because other persons choose to do so (on bases they deem appropriate).
 
 In a trust (interpersonal) system, there are actions involved just as surely as under a works (legal) system. Actions have a different kind of meaning and necessity, however. In a legal system, actions cause the resulting righteousness; so “works” in Paul is the principle of personal perfection. In an interpersonal system, actions are conditions for reckoning the consequent righteousness, viewing and considering the doer righteous; so “faith” in Paul amounts to the principle of trust in another—to view someone as righteous.
 
@@ -120,7 +147,8 @@ Sometimes interpreters confuse James with Paul in their usage of these terms. By
 
 In contrast, Paul is concerned to show that people cannot come to be considered righteous under a legal system because imperfection cannot be undone. Coming to be considered righteous must come, then, from switching to a different system—an interpersonal system, a trust system. The difference in the systems involves a difference in the meanings of the actions under those systems. Paul’s distinction between faith and works involves a difference in why actions are done, not to cause the result legally, but to be conditions for receiving consequence from another. Paul is not so much fighting nominalism or externalism, but legalism.
 
-A conditionality/trust/interpersonal situation involves five elements as seen in the comparison between faith in the crucified Christ and looking on the brazen serpent (John 3:14-15 < Numbers 21:9). God promises freely to help us who cannot help ourselves. He commands us to do appropriate acts that do not (cannot) accomplish the results. When we meet those conditions, God gives us the result.
+A conditionality/trust/interpersonal situation involves five elements as seen in the comparison between faith in the crucified Christ and looking on the brazen serpent (John <strong><sup>3</sup></strong>:14-15 < Numbers <strong><sup>21</sup></strong>:9). God promises freely to help us who cannot help ourselves. He commands us to do appropriate acts that do not (cannot) accomplish the results. When we meet those conditions, God gives us the result.
+
 
 Conditionality Elements	Brazen Serpent	Salvation
 
@@ -134,23 +162,31 @@ Conditionality Elements	Brazen Serpent	Salvation
 
 (e) bestowed result	cure of snake bite	forgiveness
 
+
 Baptism can have its natural place ahead of remission of sins, because it is not a cause of salvation, but a condition for identifying with Christ, identity with whom is the condition for God’s forgiving sin, an identity expressed by baptism. Even if faith were thought of as having an inner emphasis, still baptism would not have any different relationship to the result than does the inner factor from which it arises. Faith includes the expression of it. But more precisely, faith as trust involves actions both inner and outer together, and involves them as conditions, not causes. It is this type of relationship to the consequence that Paul addresses when he teaches salvation by trusting a Person rather than by obeying a law.
+
 
 IV. Separation Between Baptism and Salvation
 
-In three ways, human obedience is separated from the bestowed results. First, Christ and his righteousness stand between the responses we make and the results God gives. The connection is not direct. What holds true for human responses in general holds true for Christian baptism in particular. A Person stands in the “gap” between human response and God’s gift. That is the case wherever trust operates. Trust means that another person is involved in whom trust is put, and that other person stands between the ones in need and the result they need. In the case of knowing by faith (trust) instead of sight (2 Corinthians 5:7), a person again stands in the gap between the event to be known and the one who wants to know it but has not seen it. The uninformed comes to know by trusting the one who tells him what he himself has not witnessed (Hebrews 11:1-3).
+
+In three ways, human obedience is separated from the bestowed results. <strong>First</strong>, Christ and his righteousness stand between the responses we make and the results God gives. The connection is not direct. What holds true for human responses in general holds true for Christian baptism in particular. A Person stands in the “gap” between human response and God’s gift. That is the case wherever trust operates. Trust means that another person is involved in whom trust is put, and that other person stands between the ones in need and the result they need. In the case of knowing by faith (trust) instead of sight (2 Corinthians <strong><sup>5</sup></strong>:7), a person again stands in the gap between the event to be known and the one who wants to know it but has not seen it. The uninformed comes to know by trusting the one who tells him what he himself has not witnessed (Hebrews <strong><sup>11</sup></strong>:1-3).
+
+
+
 
 Similarly, in the case of being saved by faith instead of works, a person stands in the gap between the righteousness needed and the one who needs it. No direct connection exists between the sinners’ baptism and the righteousness they are afterward viewed as having.
 
-Second, God’s choice to bestow the results stands between our identity with Christ and the results bestowed. The connection is conditional, not causal (even indirectly). In legal, natural, or logical processes the connectors between one step and the next are something besides personal choice. The connection is deterministic, automatic, impersonal. A legal process uses authority to connect an act with its result. To obtain ownership of a home, owners-to-be sign a legal document that is registered in the official records, and the home becomes theirs legally. They may not have paid for it fully, may not live in it, may not even like it, but it is theirs. Nothing about signing a piece of paper in itself produces ownership. The law simply defines the way it must be done in this country. Public oral agreement between past and future owners is not valid because the law here does not authorize that method of connection. Mingling the owners’ blood in front of reliable witnesses does not work for the same reason. When the signing occurs, the property automatically changes hands.
+<strong>Second</strong>, God’s choice to bestow the results stands between our identity with Christ and the results bestowed. The connection is conditional, not causal (even indirectly). In legal, natural, or logical processes the connectors between one step and the next are something besides personal choice. The connection is deterministic, automatic, impersonal. A legal process uses authority to connect an act with its result. To obtain ownership of a home, owners-to-be sign a legal document that is registered in the official records, and the home becomes theirs legally. They may not have paid for it fully, may not live in it, may not even like it, but it is theirs. Nothing about signing a piece of paper in itself produces ownership. The law simply defines the way it must be done in this country. Public oral agreement between past and future owners is not valid because the law here does not authorize that method of connection. Mingling the owners’ blood in front of reliable witnesses does not work for the same reason. When the signing occurs, the property automatically changes hands.
 
 In salvation, on the other hand, God chooses to make a promise. Sinners choose to trust that promise and act on it. God chooses to accept their commitment Christ as the condition for his further choice to regard them as righteous like the One they have committed themselves to. In this setting, baptism does not cause an automatic righteousness authorized by a legal system. It only meets a condition for identifying with Christ and his righteousness. God chooses to do the rest.
 
-Third, Christ’s righteousness—rather than the actions by which we identify with him—is the immediate reason for God’s viewing us as righteous. The basis is in him, not in us. Righteousness is viewed upon us, not produced by us. For relationship purposes, God regards us as righteous because of our willingness to identify with him who is righteous. Baptism is not a token ritual, but a full commitment to Christ himself, hence, to his values and purposes, and to the extent of obedience he demonstrated in the death that Christian baptism figuratively re-enacts (Romans 6:1-14).
+<strong>Third</strong>, Christ’s righteousness—rather than the actions by which we identify with him—is the immediate reason for God’s viewing us as righteous. The basis is in him, not in us. Righteousness is viewed upon us, not produced by us. For relationship purposes, God regards us as righteous because of our willingness to identify with him who is righteous. Baptism is not a token ritual, but a full commitment to Christ himself, hence, to his values and purposes, and to the extent of obedience he demonstrated in the death that Christian baptism figuratively re-enacts (Romans <strong><sup>6</sup></strong>:1-14).
 
 “Righteousness,” “goodness,” “justness,” “holiness” are absolute terms. Perfection, not predominant goodness, constitutes God’s standard of behavior and therefore his basis for fellowship with us. Since none of us always do everything we should, we must be regarded as righteous for some other reason than that we are righteous. That other basis is the righteousness of someone else—Jesus Christ. Baptism expresses identification with that righteousness.
 
+
 V. Distinction from Baptismal Regeneration
+
 
 The above description of baptism in “The Purpose of Christian Baptism” contrasts with what is popularly called “water regeneration.” This expression has an impersonal ring that misdirects attention to the water instead of Christ. Baptism emphasizes personal commitment to another Person.
 
@@ -166,22 +202,33 @@ Furthermore, baptism bears an indirect and conditional connection with forgivene
 
 Finally, baptism expresses faith; it does not impart faith or particularly enhance the ability to express faith in Christian living. Baptism does not involve supernatural regeneration of an inherited depraved nature because of an ancestor’s sin. It establishes relationship in response to influence. Baptism relates to personal guilt, not inherited guilt.
 
+
 VI. Baptism: A Word of Caution About Words
+
 
 For practical purposes, Christians should be cautious about using expressions like “baptism is necessary for salvation” or “baptism is essential to salvation.” Such statements can mean something true, but they will not be heard as meaning something true. The confusion results from the tendency of evangelical thought to reference themselves to issues during the Reformation. The theology represented here does not move along those lines, and so its understanding of baptism does not reflect Reformation controversies.
 
-The Reformation especially dealt with the contemporary problem of externalism; Paul dealt with his contemporary problem of legalism. The issues can be related but they are not the same. While the Reformation highlighted the difference between inner and outer action, Paul addressed the difference between law and grace, merit and faith, law and spirit. He sought to explain the contrast between legal systems and interpersonal relationships. What he meant by faith vs. works corresponded with legal operation vs. personal process rather than with inner vs. outer action. Since baptism involves an outer dimension, evangelicals may want to classify it under works and observe that Paul taught that people do not have salvation on the basis of works: they are saved for good works, not by them, appealing to Ephesians 2:8-10. When someone says baptism is “necessary” or “essential” to salvation, then, evangelicals hear salvation by works, which is clearly contrary to New Testament teaching. What should be meant by “essential to salvation” is that baptism belongs in the salvation process rather than after it like visible-church membership or witness to others. But this is not what many evangelicals hear; this is not an idea that they can hear because of a prior, different understanding of “faith” and “works” in Pauline teaching.
+The Reformation especially dealt with the contemporary problem of externalism; Paul dealt with his contemporary problem of legalism. The issues can be related but they are not the same. While the Reformation highlighted the difference between inner and outer action, Paul addressed the difference between law and grace, merit and faith, law and spirit. He sought to explain the contrast between legal systems and interpersonal relationships. What he meant by faith <em>vs</em>. works corresponded with legal operation <em>vs</em>. personal process rather than with inner <em>vs</em>. outer action. Since baptism involves an outer dimension, evangelicals may want to classify it under works and observe that Paul taught that people do not have salvation on the basis of works: they are saved for good works, not by them, appealing to Ephesians <strong><sup>2</sup></strong>:8-10. When someone says baptism is “necessary” or “essential” to salvation, then, evangelicals hear salvation by works, which is clearly contrary to New Testament teaching. What should be meant by “essential to salvation” is that baptism belongs in the salvation process rather than after it like visible-church membership or witness to others. But this is not what many evangelicals hear; this is not an idea that they can hear because of a prior, different understanding of “faith” and “works” in Pauline teaching.
 
-What evangelicals mean by “asking Jesus into your heart” corresponds with the meaning baptism is supposed to have (1 Peter 3:21). Evangelicals have developed other “rituals” for what baptism itself is intended to express. They would not regard people as consigned to eternal hell if struck by lightning before they had finished kneeling and verbalizing the sinner’s prayer; likewise, we would not regard people as consigned to eternal hell if they were killed on the way to the baptistry, and for the same reason. In Christian baptism we are dealing directly with a personal God, not an impersonal machine or a legal process. Consequently, the character of baptism partakes of that interpersonal context and occurs as an interpersonal act. We are not dealing with a God who is trying to see how many people he can send to hell, so we do not expect condemnation on a technicality or condemnation because the “paperwork” did not get done in time. Baptism is not like paper work even if we call it “necessary.”
+What evangelicals mean by “asking Jesus into your heart” corresponds with the meaning <em>baptism</em> is supposed to have (1 Peter <strong><sup>3</sup></strong>:21). Evangelicals have developed other “rituals” for what baptism itself is intended to express. They would not regard people as consigned to eternal hell if struck by lightning before they had finished kneeling and verbalizing the sinner’s prayer; likewise, we would not regard people as consigned to eternal hell if they were killed on the way to the baptistry, and for the same reason. In Christian baptism we are dealing directly with a personal God, not an impersonal machine or a legal process. Consequently, the character of baptism partakes of that interpersonal context and occurs as an interpersonal act. We are not dealing with a God who is trying to see how many people he can send to hell, so we do not expect condemnation on a technicality or condemnation because the “paperwork” did not get done in time. Baptism is not like paper work even if we call it “necessary.”
 
 “Necessary for salvation” could only mean a type of necessity that fits with an interpersonal situation. Baptism does not have a logical, inherent, legal, or natural type of necessity. If it did, there could not be any salvation without it. Evangelicals can mishear this point as illustrated by the test case sometimes proposed: what happens if death occurs between conviction and baptism? The question shows that what is heard is not what is meant—or should be meant. Legal or logical necessity is heard, or the question would be pointless. We have in mind here a kind of “necessity” based on appropriateness and God’s choice. Baptism is necessary only because God chose this formal act to focalize and formalize people’s identification with Christ at a given time and place. What is really necessary is identification with Christ, and God has commanded baptism as the formal way of doing that. When people identify with Christ, God accepts their commitment to Christ as the basis for forgiveness, for the gift of his Spirit, and for counting them as part of the body of Christ. So, strictly speaking, the identity with Christ, not the act that identifies with Christ, is the condition that provides the basis for salvation.
 
-THE PURPOSE OF CHRISTIAN BAPTISM: A SYNOPSIS*
+
+<strong>THE PURPOSE OF CHRISTIAN BAPTISM: A SYNOPSIS*</strong>
+
+
 
 CHRISTIANITY AS AN INTERPERSONAL “SYSTEM”
 
+
+
 Christian baptism is an interpersonal act in which a penitent believer identifies with Jesus Christ. On the basis of identity with Christ, God promises to forgive sins, grant the presence of his Spirit, and add the person to Christ's body, the church.
 
-*Note: For a more detailed analysis of the issues touched on in this presentation, see What the Bible Says About Salvation (Joplin, MO: College Press, 1982). Scripture indices, topical index, and the table of contents will indicate chapters that apply to baptism materials in pp. 194-409.
+
+*Note: For a more detailed analysis of the issues touched on in this presentation, see <em>What the Bible Says About Salvation</em> (Joplin, MO: College Press, 1982). Scripture indices, topical index, and the table of contents will indicate chapters that apply to baptism materials in pp. 194-409.
+
 
 christir.org
+
+

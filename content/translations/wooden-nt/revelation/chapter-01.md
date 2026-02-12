@@ -8,13 +8,13 @@ type: chapter
 weight: 1
 ---
 
-## Revelation Chapter **1**
+## Revelation Chapter 1
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>(The) Revelation of-Jesus Christ that [the] God gave him to-show to-the servants of-him that are-necessary to-occur in quickness/soon, and he-signified (them), having-sent through the angel of-him to-the servant of-him, John, <strong><sup>2</sup></strong>who testified the word of-[the] God and the testimony of-Jesus Christ as-many-things-as he-saw.  <strong><sup>3</sup></strong>Blessed (is) the-one reading and the-ones hearing/heeding the words of-the prophecy and keeping the-things written in it, for the time (is) near.</span>
 
 <span class="verse" id="v4"><strong><sup>4</sup></strong>John, to-the seven churches [the] in [the] Asia.  Grace to-you and peace from the-One being and the-One he-was and the-One coming, and from the seven spirits that (are) before the throne  of-him, <strong><sup>5</sup></strong>and from Jesus Christ, the witness, the faithful-One, the firstborn of-the dead and the ruler of-the kings of-the earth. To-the-One loving us and having-loosed us from the sins of-us by the blood of-him, <strong><sup>6</sup></strong>and he-made us (into-a) kingdom, priests to-the God and Fathers of-him.  To-him (be) [the] glory and [the] might unto the ages of-the ages/forever<sup>3</sup> [and-ever<sup>2</sup>]<sup>ms</sup>.  Amen.</span>
 
-<span class="verse" id="v7"><sup><strong>7</strong></sup><em>Behold</em><em>, he-comes with the clouds,</em> <em>	</em><em>	</em><em>	</em><em>a</em><em>nd every eye </em><em>will-see</em><em>-him,</em> <em>	</em><em>	</em><em>e</em><em>ven who pierced him,</em> <em>	</em><em>	</em><em>	</em><em>a</em><em>nd all the tribes of-the earth will-mourn over him.</em> Yes, truly. <strong><sup>8</sup></strong><em>“I</em><em> am the Alpha and the Omega,”</em> says (the) Lord [the] God, <em>“</em><em>the-One being and </em><em>the he</em><em>-was and the-One coming, the Almighty.</em><em>”</em></span>
+<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>Behold</em><em>, he-comes with the clouds,</em> <em>	</em><em>	</em><em>	</em><em>a</em><em>nd every eye </em><em>will-see</em><em>-him,</em> <em>	</em><em>	</em><em>e</em><em>ven who pierced him,</em> <em>	</em><em>	</em><em>	</em><em>a</em><em>nd all the tribes of-the earth will-mourn over him.</em> Yes, truly.</span>
 
 <span class="verse" id="v9"><strong><sup>9</sup></strong>I, John, the brother of-you and fellow-partaker in the tribulation and kingdom and patience/endurance in Jesus, was on the island [the] called Patmos on-account-of the word of-[the] God and the testimony of-Jesus.  <strong><sup>10</sup></strong>I-was in (the) Spirit on the Lord’s day, and I-heard behind me (a) loud voice/sound like (a) trumpet, <strong><sup>11</sup></strong>saying, <em>“What you-see write in/into (a) b</em><em>l</em><em>ood and sent (it) to-the seven churches:  to Ephesus and to Smyrna and to Pergamum and to Thyatira and to Sardis and to Philadelphia and to </em><em>Laodicia</em><em>.</em><em>”</em></span>
 

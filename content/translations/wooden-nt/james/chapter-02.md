@@ -9,7 +9,7 @@ type: chapter
 weight: 2
 ---
 
-## James Chapter **2**
+## James Chapter 2
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>My brothers, do┘not└have the faith of the Lord of-us Jesus Christ of-[the] glory with partiality/favoritism.  <strong><sup>2</sup></strong>For if (a) man in bright/fine clothes wearing-a-gold-ring comes into (the) synagogue/assembly of-you, and (a) poor-(man) also comes-in in shabby clothes, <strong><sup>3</sup></strong>and you-pay-attention to the-one wearing the bright/fine [the] clothes, and you-say, <em>“</em><em><u>You</u></em><em> sit here well,”</em> and to-the poor-(man), <em>“</em><em><u>You</u></em><em> stand</em><em>,</em><em>” </em><em>or</em><em>, “S</em><em>it here under/by the footstool of-me,”</em> <strong><sup>4</sup></strong>did-you┘not also/both└make-distinctions among yourselves and become judges of-evil reasonings/motives.</span>
 

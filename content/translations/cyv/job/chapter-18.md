@@ -9,18 +9,17 @@ type: chapter
 weight: 18
 ---
 
-## Job Chapter **18**
+## Job Chapter 18
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup><strong>Bildad</strong><strong> the Shuhite answered:</strong> <strong><sup>2</sup></strong><em>“How</em><em> long will you stumble around for words?</em> <em>	</em><em>	Make some sense so we can talk.</em></span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> <strong>Bildad</strong><strong> the Shuhite answered:</strong></span>
 
 <span class="verse" id="v3"><strong><sup>3</sup></strong><em>Why</em><em> do you treat us like animals?</em> <em>	</em><em>	You think we’re stupid?</em></span>
 
-<span class="verse" id="v4"><strong><sup>4</sup></strong><em>Are</em><em> you going to tear yourself to pieces in your anger?</em> <em>	</em><em>	Are we supposed to leave the world for fear of you?</em> <em>	</em><em>	Should ledge rocks quake out of place?</em><strong>	</strong> <em>	</em><strong><sup>5</sup></strong><em>“The</em><em> light of the wicked goes </em><em>out;</em> <em>	</em><em>	their flame stops giving light.</em></span>
+<span class="verse" id="v4"><strong><sup>4</sup></strong><em>Are</em><em> you going to tear yourself to pieces in your anger?</em> <em>	</em><em>	Are we supposed to leave the world for fear of you?</em> <em>	</em><em>	Should ledge rocks quake out of place?</em><strong>	</strong></span>
 
 <span class="verse" id="v6"><strong><sup>6</sup></strong><em>Their</em><em> tent is dark </em><em>inside;</em> <em>	</em><em>	the lamp above them has gone out.</em></span>
 
-<span class="verse" id="v7"><strong><sup>7</sup></strong><em>Their</em><em> long strides have </em><em>shortened;</em> <em>	</em><em>	their schemes have tripped them up.</em><em>	</em><em>	</em></span>
-<p class="section-ref">Job 18:1-7</p>
+<span class="verse" id="v7"><strong><sup>7</sup></strong><em>Their</em><em> long strides have </em><em>shortened;</em> <em>	</em><em>	their schemes have tripped them up.</em><em>	</em><em>	</em><strong>Job 18:1-7</strong></span>
 
 <span class="verse" id="v8"><strong><sup>8</sup></strong><em>They</em><em> get caught in a net by their feet</em> <em>	</em><em>	when they step on </em><em>its</em><em> mesh.</em><strong>	</strong></span>
 
@@ -36,8 +35,7 @@ weight: 18
 
 <span class="verse" id="v14"><strong><sup>4</sup></strong><em>They’re torn from their secure tent</em> <em>	</em><em>	and taken to the king of terrors.</em></span>
 
-<span class="verse" id="v15"><strong><sup>5</sup></strong><em>Nothing</em><em> of theirs stays in their </em><em>tent;</em> <em>	</em><em>	sulfur rains on their houses.</em><strong>	</strong></span>
-<p class="section-ref">Job 18:8-15</p>
+<span class="verse" id="v15"><strong><sup>5</sup></strong><em>Nothing</em><em> of theirs stays in their </em><em>tent;</em> <em>	</em><em>	sulfur rains on their houses.</em><strong>	</strong><strong>Job 18:8-15</strong></span>
 
 <span class="verse" id="v16"><strong><sup>6</sup></strong><em>Their</em><em> roots have dried up </em><em>below;</em> <em>	</em><em>	their branches break off above.</em></span>
 
@@ -49,7 +47,7 @@ weight: 18
 
 <span class="verse" id="v20"><strong><sup>0</sup></strong><em>People</em><em> to the west are appalled at their </em><em>fate;</em><em>	</em> <em>	</em><em>	those to the east are gripped with horror.</em></span>
 
-<span class="verse" id="v21"><strong><sup>1</sup></strong><em>Surely</em><em> that’s the kind of house ungodly people </em><em>have;</em> <em>	</em><em>	such is the place of those who don’t know God.”</em></span>
+<span class="verse" id="v21"><strong><sup>1</sup></strong><em>Surely</em><em> that’s the kind of house ungodly people </em><em>have;</em> <em>	</em><em>	such is the place of those who don’t know God.”</em><strong></span>
 <p class="section-ref">Job 18:16-21</p>
 
 

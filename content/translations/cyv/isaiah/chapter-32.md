@@ -9,7 +9,7 @@ type: chapter
 weight: 32
 ---
 
-## Isaiah Chapter **32**
+## Isaiah Chapter 32
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>A righteous<em> </em>king is coming; his princes will rule honestly.</span>
 
@@ -32,8 +32,7 @@ weight: 32
 
 <span class="verse" id="v10"><strong><sup>10</sup></strong>In a little over a year, trouble will come, complacent daughters; because the grapes will fail, the fruit harvest won’t happen.</span>
 
-<span class="verse" id="v11"><strong><sup>11</sup></strong>Tremble, <strong>women of </strong><strong>leisure;</strong> <strong>	</strong><strong>	</strong><strong>	</strong>shudder,<strong> complacent daughters.</strong> Strip down to the skin and wrap burlap around your waist.<strong>	</strong></span>
-<p class="section-ref">Is 32:9-11</p>
+<span class="verse" id="v11"><strong><sup>11</sup></strong>Tremble, <strong>women of </strong><strong>leisure;</strong> <strong>	</strong><strong>	</strong><strong>	</strong>shudder,<strong> complacent daughters.</strong> Strip down to the skin and wrap burlap around your waist.<strong>	</strong><strong>Is 32:9-11</strong></span>
 
 <span class="verse" id="v12"><strong><sup>12</sup></strong>Beat your breasts for pleasant fields and fruitful vines,</span>
 

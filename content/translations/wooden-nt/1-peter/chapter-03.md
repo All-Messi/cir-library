@@ -9,7 +9,7 @@ type: chapter
 weight: 3
 ---
 
-## 1 Peter Chapter **3**
+## 1 Peter Chapter 3
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Likewise, [the] wives, submit to-[the] your husbands, in-order-that even if some are-disobedient to-the word, they-will-be-won aside-from (the) word by the behavior of-the/their wives, <strong><sup>2</sup></strong>having-watched the chaste behavior of-you with respect, <strong><sup>3</sup></strong>of-whom [the] adornment let┘not└be the external elaborate-braiding of-hair[s] and wearing of-gold-things or (the) putting-on of-clothes, <strong><sup>4</sup></strong>but the hidden person of-the heart in the imperishableness of-(a)-gentle and quiet spirit, which is before [the] God very-precious.  <strong><sup>5</sup></strong>For thus once also [the] holy women [the-ones] hoping in God would-adorn themselves, submitting to-[the] their husbands, <strong><sup>6</sup></strong>as Sarah submitted to-[the] Abraham, calling him “sir/lord,” whose offspring you-became, doing-good and not fearing any frightening-thing.</span>
 

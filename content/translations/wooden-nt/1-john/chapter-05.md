@@ -8,7 +8,7 @@ type: chapter
 weight: 5
 ---
 
-## 1 John Chapter **5**
+## 1 John Chapter 5
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Every the-one believing that Jesus is the Christ has-been-begotten by [the] God, and every the-one loving the-One having-begotten loves also the-One having-been-begotten by him.  <strong><sup>2</sup></strong>By this we-know that we-love the children of-[the] God:  when we-love [the] God and do the commandments of-him.  <strong><sup>3</sup></strong>For this is the love of-[the] God:  [in-order]-that we-keep the commandments of-him, and the commandments of-him are not heavy/hard.  <strong><sup>4</sup></strong>Because every the-one having-been-begotten by [the] God overcomes the world, and this is the victory [the] having-overcome the world:  the faith of-us. <strong><sup> </sup></strong><strong><sup>5</sup></strong>And who is the-one overcoming the world unless<sup>2</sup> the-one believing that Jesus is the Son of-[the] God.</span>
 

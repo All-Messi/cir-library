@@ -10,3 +10,5 @@ weight: 64
 ## 3 John
 
 **1 Chapters**
+
+Select a chapter to begin reading:

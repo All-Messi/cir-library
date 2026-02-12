@@ -2,37 +2,37 @@
 book: Acts
 chapter: 9
 next: chapter-10
-prev: chapter-07
+prev: chapter-08
 title: Acts 9
 translation: CNT
 type: chapter
 weight: 9
 ---
 
-## Acts Chapter **9**
+## Acts Chapter 9
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Saul was still making murderous threats against the Lord’s disciples. He went to the high priest <strong><sup>2</sup></strong>and asked for letters to synagogues in Damascus so, if he found any belonging to The Way—men or women, he could bring them bound to Jerusalem. <strong><sup>3</sup></strong>As he was getting close to Damascus, all of a sudden, a light from the sky shined around him. <strong><sup>4</sup></strong>He fell to the ground and heard a voice, <em>“Saul, Saul, why are you persecuting me?”</em></span>
 
 <span class="verse" id="v5"><strong><sup>5</sup></strong>He said, <em>“Who are you, </em><em>Sir</em><em>?”</em> <em>“I’m Jesus that you’re persecuting.</em><em> </em><strong><sup>6</sup></strong><em>Get</em><em> up and go in</em><em>to</em><em> </em><em>the city. Someone will tell you what to do.</em><em>”</em></span>
 
-<span class="verse" id="v7"><sup><strong>7</strong></sup>The men traveling with him stood speechless. They heard the voice but didn’t see anyone. <strong><sup>8</sup></strong>Saul got up; and when he opened his eyes, he couldn’t see. They took him by the hand into Damascus. <strong><sup>9</sup></strong>For three days he couldn’t see and didn’t eat or drink anything.</span>
+<span class="verse" id="v7"><sup class="verse-num">7</sup> The men traveling with him stood speechless. They heard the voice but didn’t see anyone. <strong><sup>8</sup></strong>Saul got up; and when he opened his eyes, he couldn’t see. They took him by the hand into Damascus. <strong><sup>9</sup></strong>For three days he couldn’t see and didn’t eat or drink anything.</span>
 <p class="section-ref">Acts 9:1-9</p>
 
-<span class="verse" id="v10"><strong><sup>0</sup></strong>There was a disciple in Damascus named Ananias. The Lord said to him, <em>“</em><em>A</em><em>nania</em><em>s</em><em>.”</em> <em>	“Yes, Lord.”</em> <strong><sup>11</sup></strong><em>“</em><em>Go</em><em> to Straight Street and ask for Saul of Tarsus in </em><em>Judas’</em><em> house</em><em>. He’s praying </em><strong><sup>12</sup></strong><em>and</em><em> has seen a man named </em><em>A</em><em>nania</em><em>s</em><em> coming in a</em><em>nd laying hands on him so he could</em><em> see.”</em></span>
+<span class="verse" id="v10"><strong><sup>0</sup></strong>There was a disciple in Damascus named Ananias. The Lord said to him, <em>“</em><em>A</em><em>nania</em><em>s</em><em>.”</em> <em>	“Yes, Lord.”</em></span>
 
 <span class="verse" id="v13"><strong><sup>3</sup></strong>Ananias answered,<em> “Lord, I’ve heard from </em><em>lots of</em><em> people how many evil things he</em><em>’s done</em><em> in Jerusalem.</em><em> </em><strong><sup>14</sup></strong><em>He</em><em> h</em><em>as authority from the chief priests to bind </em><em>ever</em><em>ybody </em><em>here </em><em>that calls on you.”</em><em> </em></span>
 
 <span class="verse" id="v15"><strong><sup>5</sup></strong>The Lord said, <em>“Go on; I’ve chosen him </em><em>to carry my name to</em><em> Gentiles, kings, and Israel</em><em>ites</em><em>.</em><em> </em><strong><sup>16</sup></strong><em>I’ll</em><em> show him how much </em><em><u>he</u></em><em> </em><em>has to</em><em> suffer for me.”</em></span>
 
-<span class="verse" id="v17"><sup><strong>17</strong></sup>Ananias went into Judas’ house, laid hands on him, and said, <em>“Brother Saul, the Lord Jesus that appeared to you on the road has sent me so you can see again and be filled with the Holy Spirit.”</em> <strong><sup>18</sup></strong>Immediately scales, as it were, fell from his eyes, and he could see again. He got up and was baptized. <strong><sup>19</sup></strong>After he ate, he regained his strength.</span>
+<span class="verse" id="v17"><sup class="verse-num">17</sup> Ananias went into Judas’ house, laid hands on him, and said, <em>“Brother Saul, the Lord Jesus that appeared to you on the road has sent me so you can see again and be filled with the Holy Spirit.”</em> <strong><sup>18</sup></strong>Immediately scales, as it were, fell from his eyes, and he could see again. He got up and was baptized. <strong><sup>19</sup></strong>After he ate, he regained his strength.</span>
 <p class="section-ref">Acts 9:10-</p>
 
 ### 19a Saul Preaches in Damascus He was with disciples in Damascus for some days. 20Right away in the synagogues, he started presenting Jesus as God’s Son. 21The ones that heard him were amazed, “Isn’t he the one that executed people in Jerusalem for calling on this Name and has come here to lead them bound to the chief priests?” 22Paul grew stronger and confounded the Jews in Damascus, proving that this was the Messiah.
 
 
-<span class="verse" id="v23"><sup><strong>23</strong></sup>After a while the Jews plotted to kill him, <strong><sup>24</sup></strong>but he found out about it. They were watching the gates day and night. <strong><sup>25</sup></strong>During the night his disciples lowered him in a big basket through <em>an opening in </em>the wall.	<strong>Acts </strong><strong>9:19b-25</strong> <strong>Jewish Plot Against Saul</strong></span>
+<span class="verse" id="v23"><sup class="verse-num">23</sup> After a while the Jews plotted to kill him, <strong><sup>24</sup></strong>but he found out about it. They were watching the gates day and night. <strong><sup>25</sup></strong>During the night his disciples lowered him in a big basket through <em>an opening in </em>the wall.	<strong>Acts </strong><strong>9:19b-25</strong> <strong>Jewish Plot Against Saul</strong></span>
 
-<span class="verse" id="v26"><sup><strong>26</strong></sup>When he got back to Jerusalem, he tried to associate with the disciples, but they were afraid of him. They didn’t believe he’d become a disciple. <strong><sup>27</sup></strong>But Barnabas took him to the apostles, and told them how he’d seen the Lord, how the Lord had spoken to him, how he’d presented the Lord boldly in Damascus. <strong><sup>28</sup></strong>Saul was moving freely among them in Jerusalem, presenting the Lord boldly. <strong><sup>29</sup></strong>He was disputing with the Hellenistic Jews, who were trying to get hold of him to kill him. <strong><sup>30</sup></strong>But the brothers found out, took him down to Caesarea, and sent him to Tarsus. <strong><sup>31</sup></strong>Then, all over Judaea, Galilee, and Samaria the church had peace and multiplied. They were living with respect for the Lord and comfort from the Holy Spirit.</span>
+<span class="verse" id="v26"><sup class="verse-num">26</sup> When he got back to Jerusalem, he tried to associate with the disciples, but they were afraid of him. They didn’t believe he’d become a disciple. <strong><sup>27</sup></strong>But Barnabas took him to the apostles, and told them how he’d seen the Lord, how the Lord had spoken to him, how he’d presented the Lord boldly in Damascus. <strong><sup>28</sup></strong>Saul was moving freely among them in Jerusalem, presenting the Lord boldly. <strong><sup>29</sup></strong>He was disputing with the Hellenistic Jews, who were trying to get hold of him to kill him. <strong><sup>30</sup></strong>But the brothers found out, took him down to Caesarea, and sent him to Tarsus. <strong><sup>31</sup></strong>Then, all over Judaea, Galilee, and Samaria the church had peace and multiplied. They were living with respect for the Lord and comfort from the Holy Spirit.</span>
 <p class="section-ref">Acts 9:26-31</p>
 
 ### Peter Heals Aeneas

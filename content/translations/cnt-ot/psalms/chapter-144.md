@@ -4,43 +4,42 @@ chapter: 144
 next: chapter-145
 prev: chapter-143
 title: Psalms 144
-translation: COT
+translation: CNT
 type: chapter
 weight: 144
 ---
 
-## Psalms Chapter **144**
+## Psalms Chapter 144
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>Bless the LORD, my Rock, who trains my hands for war, my fingers for battle.</span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Bless the LORD, my Rock, who trains my hands for war, my fingers for battle.</span>
 
-<span class="verse" id="v2"><sup><strong>2</strong></sup>He’s my enduring love and fortress, my stronghold and deliverer, my shield and refuge, who subdues nations.</span>
+<span class="verse" id="v2"><sup class="verse-num">2</sup> He’s my enduring love and fortress, my stronghold and deliverer, my shield and refuge, who subdues nations.</span>
 
-<span class="verse" id="v3"><sup><strong>3</strong></sup>LORD, what are we that you give us any thought or care about us?</span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> LORD, what are we that you give us any thought or care about us?</span>
 
-<span class="verse" id="v4"><sup><strong>4</strong></sup>We’re like a breath; our lifetime is like a passing shadow.<strong>	</strong></span>
+<span class="verse" id="v4"><sup class="verse-num">4</sup> We’re like a breath; our lifetime is like a passing shadow.</span>
 <p class="section-ref">Ps 144:1-4</p>
 
-<span class="verse" id="v5"><sup><strong>5</strong></sup>Lower the sky, LORD, and come down; touch the mountains and make them smoke.</span>
+<span class="verse" id="v5"><sup class="verse-num">5</sup> Lower the sky, LORD, and come down; touch the mountains and make them smoke.</span>
 
-<span class="verse" id="v6"><sup><strong>6</strong></sup>Throw your lightning bolts and scatter <em>my enemies</em>; shoot your arrows and rout them.</span>
+<span class="verse" id="v6"><sup class="verse-num">6</sup> Throw your lightning bolts and scatter my enemies; shoot your arrows and rout them.</span>
 
-<span class="verse" id="v7"><sup><strong>7</strong></sup>Reach down from on high and rescue me from deep water, <strong>from </strong><strong>alien</strong><strong>s </strong><strong><sup>8</sup></strong><strong>that lie,</strong> <strong>	</strong><strong>	whose right hand deceives.</strong></span>
+<span class="verse" id="v7"><sup class="verse-num">7</sup> Reach down from on high and rescue me from deep water, from aliens 8that lie, whose right hand deceives.</span>
 
-<span class="verse" id="v9"><sup><strong>9</strong></sup>I’ll sing you a new song, God; I’ll sing praise to you on a ten-string harp.</span>
+<span class="verse" id="v9"><sup class="verse-num">9</sup> I’ll sing you a new song, God; I’ll sing praise to you on a ten-string harp.</span>
 
-<span class="verse" id="v10"><sup><strong>10</strong></sup>You deliver kings and rescued David from the cruel sword.</span>
+<span class="verse" id="v10"><sup class="verse-num">10</sup> You deliver kings and rescued David from the cruel sword.</span>
 
-<span class="verse" id="v11"><sup><strong>11</strong></sup>Deliver me <strong>from </strong><strong>alien</strong><strong>s that lie,</strong> <strong>	whose right hand deceives.</strong><strong>	</strong></span>
+<span class="verse" id="v11"><sup class="verse-num">11</sup> Deliver me from aliens that lie, whose right hand deceives.</span>
 <p class="section-ref">Ps 144:5-11</p>
 
-<span class="verse" id="v12"><sup><strong>12</strong></sup>Make our sons in their youth like grown-up plants and our daughters like corner pillars in a palace.</span>
+<span class="verse" id="v12"><sup class="verse-num">12</sup> Make our sons in their youth like grown-up plants and our daughters like corner pillars in a palace.</span>
 
-<span class="verse" id="v13"><sup><strong>13</strong></sup>Fill our granaries with every kind of crop; have our flocks bear thousands—tens of thousands—in our pastures.</span>
+<span class="verse" id="v13"><sup class="verse-num">13</sup> Fill our granaries with every kind of crop; have our flocks bear thousands—tens of thousands—in our pastures.</span>
 
-<span class="verse" id="v14"><sup><strong>14</strong></sup>Have our cattle deliver without miscarriage or failure to bear; make it so there’s no danger in our streets.</span>
+<span class="verse" id="v14"><sup class="verse-num">14</sup> Have our cattle deliver without miscarriage or failure to bear; make it so there’s no danger in our streets.</span>
 
-<span class="verse" id="v15"><sup><strong>15</strong></sup>How happy people are that have such blessings; how blessed they are that have the LORD as their God!</span>
-<p class="section-ref">Ps 144:12-15</p>
+<span class="verse" id="v15"><sup class="verse-num">15</sup> How happy people are that have such blessings; how blessed they are that have the LORD as their God! Ps 144:12-15</span>
 
 
 <style>

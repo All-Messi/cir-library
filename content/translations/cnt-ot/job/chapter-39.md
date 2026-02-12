@@ -4,12 +4,12 @@ chapter: 39
 next: chapter-40
 prev: chapter-38
 title: Job 39
-translation: COT
+translation: CNT
 type: chapter
 weight: 39
 ---
 
-## Job Chapter **39**
+## Job Chapter 39
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong><em>“Do you know when mountain goats give birth?</em> <em>	</em><em>	Do you ever see a deer calving?</em></span>
 
@@ -17,31 +17,19 @@ weight: 39
 
 <span class="verse" id="v3"><strong><sup>3</sup></strong><em>They crouch down to deliver their young.</em></span>
 
-<span class="verse" id="v4"><strong><sup>4</sup></strong><em>Their offspring grow strong out in the open;</em> <em>	</em><em>	they leave home and never return.</em><strong>	</strong></span>
-<p class="section-ref">Job 39:1-4</p>
+<span class="verse" id="v4"><strong><sup>4</sup></strong><em>Their offspring grow strong out in the open;</em> <em>	</em><em>	they leave home and never return.</em><strong>	</strong><strong>Job 39:1-4</strong></span>
 
-### 5“Who turned the wild donkey loose? 			Who untied its ropes?
-
-
-<span class="verse" id="v6"><sup><strong>6</strong></sup><em>	</em><strong><sup>6</sup></strong><em>I gave it the open country for a home,</em> <em>	</em><em>	</em><em>	desert land to live in?</em></span>
+<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>	</em><strong><sup>6</sup></strong><em>I gave it the open country for a home,</em> <em>	</em><em>	</em><em>	desert land to live in?</em></span>
 
 <span class="verse" id="v7"><strong><sup>7</sup></strong><em>It scorns city turmoil </em> <em>	</em><em>	and doesn’t have to listen to a driver shout at it.</em></span>
 
-<span class="verse" id="v8"><strong><sup>8</sup></strong><em>It roams the mountains for pasture,</em> <em>	</em><em>	looking for anything green.</em><strong>	</strong></span>
-<p class="section-ref">Job 39:5-8</p>
-
-### 9“Will a wild ox consent to serve you 		and spend the night at your manger?
-
+<span class="verse" id="v8"><strong><sup>8</sup></strong><em>It roams the mountains for pasture,</em> <em>	</em><em>	looking for anything green.</em><strong>	</strong><strong>Job 39:5-8</strong></span>
 
 <span class="verse" id="v10"><strong><sup>0</sup></strong><em>Can you harness it </em>to plow <em>in a furrow?</em> <em>	</em><em>	Will it harrow your fields?</em></span>
 
 <span class="verse" id="v11"><strong><sup>1</sup></strong><em>Will you depend on it because it’s strong</em> <em>	</em><em>	and leave your work for it to do?</em></span>
 
-<span class="verse" id="v12"><strong><sup>2</sup></strong><em>Will you trust it to bring your grain home</em> <em>	    and deliver it to your threshing floor?</em><strong>	</strong></span>
-<p class="section-ref">Job 39:9-12</p>
-
-### 13“The ostrich’s wings flap happily, 		but they don’t compare   		with the wings and feathers of a stork.
-
+<span class="verse" id="v12"><strong><sup>2</sup></strong><em>Will you trust it to bring your grain home</em> <em>	    and deliver it to your threshing floor?</em><strong>	</strong><strong>Job 39:9-12</strong></span>
 
 <span class="verse" id="v14"><strong><sup>4</sup></strong><em>She abandons her eggs in the ground</em> <em>	</em><em>	to stay warm in the sand.</em></span>
 
@@ -51,11 +39,7 @@ weight: 39
 
 <span class="verse" id="v17"><strong><sup>17</sup></strong><em>because God hasn’t made her wise</em> <em>	</em><em>	</em><em>	or given her intelligence.</em></span>
 
-<span class="verse" id="v18"><strong><sup>8</sup></strong><em>When she jumps up to run,</em> <em>	</em><em>	she laughs at a horse and its rider.</em><strong>	</strong></span>
-<p class="section-ref">Job 39:13-18</p>
-
-### 19“Do you give a horse its strength 		or cover its neck with a mane?
-
+<span class="verse" id="v18"><strong><sup>8</sup></strong><em>When she jumps up to run,</em> <em>	</em><em>	she laughs at a horse and its rider.</em><strong>	</strong><strong>Job 39:13-18</strong></span>
 
 <span class="verse" id="v20"><strong><sup>0</sup></strong><em>Can you make it leap like a locust?</em> <em>	</em><em>	Its majestic snorting is terrifying!</em></span>
 
@@ -67,11 +51,7 @@ weight: 39
 
 <span class="verse" id="v24"><strong><sup>4</sup></strong><em>It doesn’t stand still when the bugle signals;</em> <em>	</em><em>	with trembling rage, it races over the ground.</em></span>
 
-<span class="verse" id="v25"><strong><sup>5</sup></strong><em>As often as the bugle blows, it says, ‘Aha!’</em> <em>	</em><em>	It smells a battle a long way off,</em> <em>	</em><em>	the captain’s thundering, and the battle cry.</em><strong>	</strong></span>
-<p class="section-ref">Job 39:19-25</p>
-
-### 26“Does a hawk soar because you’re so smart 		as it stretches its wings toward the south?
-
+<span class="verse" id="v25"><strong><sup>5</sup></strong><em>As often as the bugle blows, it says, ‘Aha!’</em> <em>	</em><em>	It smells a battle a long way off,</em> <em>	</em><em>	the captain’s thundering, and the battle cry.</em><strong>	</strong><strong>Job 39:19-25</strong></span>
 
 <span class="verse" id="v27"><strong><sup>7</sup></strong><em>Does an eagle mount up at your command</em> <em>	</em><em>	</em><em>	and build its nest up high?</em></span>
 
@@ -79,8 +59,7 @@ weight: 39
 
 <span class="verse" id="v29"><strong><sup>29</sup></strong><em>From there it spies out prey</em> <em>	</em><em>	</em><em>	that it can see from far away.</em></span>
 
-<span class="verse" id="v30"><strong><sup>30</sup></strong><em>Even its young gulp down blood;</em> <em>	</em><em>	</em><em>	they’re right there when the kill goes down.</em><strong>	</strong></span>
-<p class="section-ref">Job 39:26-30</p>
+<span class="verse" id="v30"><strong><sup>30</sup></strong><em>Even its young gulp down blood;</em> <em>	</em><em>	</em><em>	they’re right there when the kill goes down.</em><strong>	</strong><strong>Job 39:26-30</strong></span>
 
 
 <style>

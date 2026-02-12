@@ -1,16 +1,16 @@
 ---
 author: Virgil Warren
 categories:
-- Topics
+- Essays
 - MINISTRY
 - Interim Ministry
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: THOUGHTS ON INTERIM MINISTRIES
 weight: 999
 ---
 
-THOUGHTS ON INTERIM MINISTRIES
+
 
 1. 	An interim ministry buys time for a congregation to find a capable minister suited to its needs. That factor alone is a significant gain among churches that practice local autonomy because they have no official centers for organizing information about the needs of congregations and information about potential ministers. Besides word of mouth, some Christsian colleges are about the only places that make a deliberate effort to put ministers and congregations in contact with one another. Having more time is helpful also because it sometimes takes a while to check out references thoroughly, conduct interviews, arrange visits to the church, and make arrangements to close a previous ministry and relocate. When school-age children are involved, it is often not convenient or advisable to move during semesters; waiting till the end of a term might mean a three- or four-month delay. Sometimes ministers’ spouses have employment that is not easy to leave quickly. There may be property that has to be sold. Having time takes the pressure off so a church does not feel they must take the first possibility that presents itself; they can wait for the right man for a few months even, if need be.
 
@@ -36,6 +36,9 @@ In these respects he has an advantage over a new resident minister because the l
 
 10. Last and least, an interim situation may strengthen a congregation’s financial condition. If a church keeps up its financial stewardship responsibilities, six or eight months’ time can strengthen the financial condition of the church. Even though this is not a good reason to do without a full-time person, it can turn out to be something positive that can reflect itself in a more realistic support package for the next minister and his family.
 
+
 There may not be a great number of people available for this kind of ministry. Sometimes Christian colleges or seminary personnel are within driving distance. Retired ministers ought to look at this role as one they can fill; their years of previous service gives them some skills that would be helpful to congregations while they look for a permanent minister.
 
+
 christ.org
+

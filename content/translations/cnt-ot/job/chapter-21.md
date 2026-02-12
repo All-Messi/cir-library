@@ -4,14 +4,14 @@ chapter: 21
 next: chapter-22
 prev: chapter-20
 title: Job 21
-translation: COT
+translation: CNT
 type: chapter
 weight: 21
 ---
 
-## Job Chapter **21**
+## Job Chapter 21
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup><strong>Job answered:</strong> <strong><sup>2</sup></strong><em>“Listen carefully;</em> <em>	</em><em>	let this be your consolation.</em></span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> <strong>Job answered:</strong></span>
 
 <span class="verse" id="v3"><strong><sup>3</sup></strong><em>Bear with me;</em> <em>	</em><em>	after I’ve spoken, you can mock me.</em></span>
 
@@ -21,8 +21,7 @@ weight: 21
 
 <span class="verse" id="v6"><strong><sup>6</sup></strong><em>When I think about it, </em> <em>	</em><em>	I get scared and shaky.</em></span>
 
-<span class="verse" id="v7"><strong><sup>7</sup></strong><em>Why do bad people keep on living</em> <em>	</em><em>	and become so powerful?</em><strong>	</strong></span>
-<p class="section-ref">Job 21:1-7</p>
+<span class="verse" id="v7"><strong><sup>7</sup></strong><em>Why do bad people keep on living</em> <em>	</em><em>	and become so powerful?</em><strong>	</strong><strong>Job 21:1-7</strong></span>
 
 <span class="verse" id="v8"><strong><sup>8</sup></strong><em>Their descendants are secure in their presence;</em> <em>	</em><em>	their offspring are near them.</em></span>
 
@@ -38,18 +37,13 @@ weight: 21
 
 <span class="verse" id="v14"><strong><sup>4</sup></strong><em>They tell God, ‘Get away!</em> <em>	</em><em>	</em><em>	We don’t want you telling us what to do.’</em> <em>	</em><em>	</em><strong><sup>15</sup></strong><em>‘Who is the Almighty that we should serve him anyway?’</em> <em>	</em><em>	</em><em>	‘What good would it do to pray?’ </em></span>
 
-<span class="verse" id="v16"><strong><sup>6</sup></strong><em>They think they produce their own prosperity;</em> <em>	</em><em>	I won’t have anything to do with such thinking.</em><strong>	</strong></span>
-<p class="section-ref">Job 21:8-16</p>
-
-### 17“Yet how often do sinful people’s lamps get put out, 		does calamity fall on them, 		does God measure out destruction in his anger,
-
+<span class="verse" id="v16"><strong><sup>6</sup></strong><em>They think they produce their own prosperity;</em> <em>	</em><em>	I won’t have anything to do with such thinking.</em><strong>	</strong><strong>Job 21:8-16</strong></span>
 
 <span class="verse" id="v18"><strong><sup>18</sup></strong><em>and they’re like straw in the wind,</em> <em>	</em><em>	</em><em>	like chaff in a storm?</em></span>
 
 <span class="verse" id="v19"><strong><sup>9</sup></strong><em>You say, ‘Well, God stores up their sins for their children.’</em> <strong><em>	</em></strong><strong><em>	</em></strong><em>Let him pay it back to </em>the parents<em> so they know it’s happening.</em></span>
 
-<span class="verse" id="v20"><strong><sup>0</sup></strong><em>Let them experience their own destruction</em> <em>	</em><em>	and drink the Almighty’s wrath themselves.</em><em>	</em></span>
-<p class="section-ref">Job 21:17-20</p>
+<span class="verse" id="v20"><strong><sup>0</sup></strong><em>Let them experience their own destruction</em> <em>	</em><em>	and drink the Almighty’s wrath themselves.</em><em>	</em><strong>Job 21:17-20</strong></span>
 
 <span class="verse" id="v21"><strong><sup>1</sup></strong><em>What do they care about their families after they die,</em> <em>	</em><em>	when they can’t talk anymore?</em></span>
 
@@ -61,16 +55,11 @@ weight: 21
 
 <span class="verse" id="v25"><strong><sup>25</sup></strong><em>while others die in bitterness</em> <em>	</em><em>	</em><em>	without tasting anything good.</em></span>
 
-<span class="verse" id="v26"><strong><sup>6</sup></strong><em>They all lie down in the ground the same way</em> <em>	</em><em>	with maggots all over them.</em><em>	</em><em>	</em><em>	</em></span>
-<p class="section-ref">Job 21:21-26</p>
-
-### 27“I know what you’re thinking about: 		schemes for doing me wrong.
-
+<span class="verse" id="v26"><strong><sup>6</sup></strong><em>They all lie down in the ground the same way</em> <em>	</em><em>	with maggots all over them.</em><em>	</em><em>	</em><em>	</em><strong>Job 21:21-26</strong></span>
 
 <span class="verse" id="v28"><strong><sup>8</sup></strong><em>You say, ‘Where’s the nobleman’s house?</em> <em>	</em><em>	Where are the tents sinners live in?’ </em></span>
 
-<span class="verse" id="v29"><strong><sup>9</sup></strong><em>Haven’t you asked travelers?</em> <em>	</em><em>	Don’t you believe what they tell you?</em><strong>	</strong></span>
-<p class="section-ref">Job 21:27-29</p>
+<span class="verse" id="v29"><strong><sup>9</sup></strong><em>Haven’t you asked travelers?</em> <em>	</em><em>	Don’t you believe what they tell you?</em><strong>	</strong><strong>Job 21:27-29</strong></span>
 
 <span class="verse" id="v30"><strong><sup>0</sup></strong><em>Sinners are reserved for disaster,</em> <em>	</em><em>	to be led out into the fury when it comes.</em></span>
 
@@ -80,8 +69,7 @@ weight: 21
 
 <span class="verse" id="v33"><strong><sup>3</sup></strong><em>The soil in the valley gives them sweet repose;</em> <em>	</em><em>	a countless throng precedes and follows them,</em> <em>	</em><em>	</em><em>	paying their respects.</em></span>
 
-<span class="verse" id="v34"><strong><sup>4</sup></strong><em>Do you think you can comfort me with clichés?</em> <em>	</em><em>	Your explanations don’t make any sense.”</em><strong>	</strong></span>
-<p class="section-ref">Job 21:30-34</p>
+<span class="verse" id="v34"><strong><sup>4</sup></strong><em>Do you think you can comfort me with clichés?</em> <em>	</em><em>	Your explanations don’t make any sense.”</em><strong>	</strong><strong>Job 21:30-34</strong></span>
 
 
 <style>

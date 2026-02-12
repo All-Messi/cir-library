@@ -4,28 +4,28 @@ chapter: 130
 next: chapter-131
 prev: chapter-129
 title: Psalms 130
-translation: COT
+translation: CNT
 type: chapter
 weight: 130
 ---
 
-## Psalms Chapter **130**
+## Psalms Chapter 130
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>LORD, I’ve cried out to you from the depths;</span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> LORD, I’ve cried out to you from the depths;</span>
 
-<span class="verse" id="v2"><sup><strong>2</strong></sup>be attentive to my petitions.</span>
+<span class="verse" id="v2"><sup class="verse-num">2</sup> be attentive to my petitions.</span>
 
-<span class="verse" id="v3"><sup><strong>3</strong></sup>If you kept track of sins, who could stand?</span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> If you kept track of sins, who could stand?</span>
 
-<span class="verse" id="v4"><sup><strong>4</strong></sup>But you forgive so people can continue to respect you.</span>
+<span class="verse" id="v4"><sup class="verse-num">4</sup> But you forgive so people can continue to respect you.</span>
 
-<span class="verse" id="v5"><sup><strong>5</strong></sup>I wait for the LORD <strong><sup>	</sup></strong>and put my hope in what he says.</span>
+<span class="verse" id="v5"><sup class="verse-num">5</sup> I wait for the LORD and put my hope in what he says.</span>
 
-<span class="verse" id="v6"><sup><strong>6</strong></sup>I wait for the Lord more than watchmen hope for morning.</span>
+<span class="verse" id="v6"><sup class="verse-num">6</sup> I wait for the Lord more than watchmen hope for morning.</span>
 
-<span class="verse" id="v7"><sup><strong>7</strong></sup>Israel, put your hope in the LORD because there’s enduring love and abundant redemption in him.</span>
+<span class="verse" id="v7"><sup class="verse-num">7</sup> Israel, put your hope in the LORD because there’s enduring love and abundant redemption in him.</span>
 
-<span class="verse" id="v8"><sup><strong>8</strong></sup>He’ll redeem Israel from its sins.</span>
+<span class="verse" id="v8"><sup class="verse-num">8</sup> He’ll redeem Israel from its sins.</span>
 <p class="section-ref">Ps 130:1-8</p>
 
 

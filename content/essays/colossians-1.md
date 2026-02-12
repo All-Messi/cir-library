@@ -1,30 +1,66 @@
 ---
 author: Virgil Warren, PhD
 categories:
+- Essays
+- Topics
 - Book Studies
 - Colossians
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: COLOSSIANS 1
 weight: 999
 ---
 
-COLOSSIANS 1
 
-Jump Starters 2
+<strong>Jump Starters 2</strong>
 
-Thanks for the Colossians 1:3, 12
 
-Fruits of the Christian walk  1:10
+Thanks for the Colossians <strong><sup>1</sup></strong>:3, 12
+
+
+
+
+
+Fruits of the Christian walk  <strong><sup>1</sup></strong>:10
+
+
+
+
+
 
 How we get the fruits.
 
-What’s to be done so we don’t lose it?  1:23
 
-Descriptors for Christ  1:15-20
 
-What is lacking in the sufferings of Christ  1:24
+
+
+
+What’s to be done so we don’t lose it?  <strong><sup>1</sup></strong>:23
+
+
+
+
+
+
+Descriptors for Christ  <strong><sup>1</sup></strong>:15-20
+
+
+
+
+
+
+
+
+
+
+
+What is lacking in the sufferings of Christ  <strong><sup>1</sup></strong>:24
+
+
+
+
 
 Metaphors of “salvation”
+
 
 christir.org

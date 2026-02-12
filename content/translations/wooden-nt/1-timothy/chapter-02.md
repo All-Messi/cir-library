@@ -9,7 +9,7 @@ type: chapter
 weight: 2
 ---
 
-## 1 Timothy Chapter **2**
+## 1 Timothy Chapter 2
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>So first of-all, I-urge entreaties, prayers, petitions, thanksgivings be-made on-behalf-of all men, <strong><sup>2</sup></strong>on-behalf-of kings and all the-ones being in authority, in-order-that we-may-lead (a) peaceful and quiet life in all godliness and seriousness.  <strong><sup>3</sup></strong>This (is) good and acceptable before [the] God, the Savior of-us, <strong><sup>4</sup></strong>who wants all men to-be-saved and to-come to (a) knowledge of-(the)-truth.  <strong><sup>5</sup></strong>For (there is) one God, and one Mediator of/between God and men, (the) man Christ Jesus, <strong><sup>6</sup></strong>the-One having-given himself (as a) ransom for many, the/a testimony in-his-own times; <strong><sup>7</sup></strong>unto which <u>I</u> was-appointed (a) herald and apostle—I-am-telling (the) truth; I-am┘not└lying—(a) teacher of-Gentiles in faith and truth.</span>
 

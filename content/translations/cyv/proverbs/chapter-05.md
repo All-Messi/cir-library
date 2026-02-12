@@ -9,9 +9,9 @@ type: chapter
 weight: 5
 ---
 
-## Proverbs Chapter **5**
+## Proverbs Chapter 5
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>Pay attention to my wisdom, son; listen to what I understand</span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Pay attention to my wisdom, son; listen to what I understand</span>
 
 <span class="verse" id="v2"><strong><sup>	</sup></strong><strong><sup>2</sup></strong>so you can use discretion and express knowledge.</span>
 
@@ -24,9 +24,9 @@ weight: 5
 <span class="verse" id="v6"><strong><sup>6</sup></strong>She doesn’t ponder the path of life; she wanders without realizing it.</span>
 <p class="section-ref">Prov 5:1-6</p>
 
-<span class="verse" id="v7"><sup><strong>7</strong></sup>Listen to me, sons; don’t turn aside from what I’m telling you.</span>
+<span class="verse" id="v7"><sup class="verse-num">7</sup> Listen to me, sons; don’t turn aside from what I’m telling you.</span>
 
-<span class="verse" id="v8"><sup><strong>8</strong></sup>Stay away from her; don’t go near her house,</span>
+<span class="verse" id="v8"><sup class="verse-num">8</sup> Stay away from her; don’t go near her house,</span>
 
 <span class="verse" id="v9"><strong><sup>9</sup></strong>so you won’t be giving your vigor to others and your years to someone cruel;</span>
 
@@ -38,15 +38,13 @@ weight: 5
 
 <span class="verse" id="v13"><strong><sup>	</sup></strong><strong><sup>13</sup></strong><em>I</em><em> didn’t listen</em><em> to my teachers,</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>or pa</em><em>y </em><em>attention to my instructors!</em></span>
 
-<span class="verse" id="v14"><strong><sup>	</sup></strong><strong><sup>14</sup></strong><em>I</em><em>’ve</em><em> come to </em><em>the point of total ruin</em> <em>	</em><em>	</em><em>	</em><em>	and have to face public disgrace</em><em>.”</em><em>	</em><em>	</em></span>
-<p class="section-ref">Prov 5:7-14</p>
+<span class="verse" id="v14"><strong><sup>	</sup></strong><strong><sup>14</sup></strong><em>I</em><em>’ve</em><em> come to </em><em>the point of total ruin</em> <em>	</em><em>	</em><em>	</em><em>	and have to face public disgrace</em><em>.”</em><em>	</em><em>	</em><strong>Prov 5:7-14</strong></span>
 
-<span class="verse" id="v15"><sup><strong>15</strong></sup>Drink water from your own cistern, fresh water from your own well.</span>
+<span class="verse" id="v15"><sup class="verse-num">15</sup> Drink water from your own cistern, fresh water from your own well.</span>
 
 <span class="verse" id="v16"><strong><sup>6</sup></strong>Should your spring be spilled like water running down the street?</span>
 
-<span class="verse" id="v17"><strong><sup>7</sup></strong>Let it be for yours alone, not for a stranger too.<strong>	</strong></span>
-<p class="section-ref">Prov 5:15-17</p>
+<span class="verse" id="v17"><strong><sup>7</sup></strong>Let it be for yours alone, not for a stranger too.<strong>	</strong><strong>Prov 5:15-17</strong></span>
 
 <span class="verse" id="v18"><strong><sup>8</sup></strong>Let your fountain be blessed; be happy with the wife of your youth.</span>
 
@@ -54,11 +52,11 @@ weight: 5
 
 <span class="verse" id="v20"><strong><sup>0</sup></strong>Son, why be stimulated by an immoral woman? why embrace the bosom of a stranger?</span>
 
-<span class="verse" id="v21"><sup><strong>21</strong></sup>The LORD watches everyone to see which direction they’re going.</span>
+<span class="verse" id="v21"><sup class="verse-num">21</sup> The LORD watches everyone to see which direction they’re going.</span>
 
-<span class="verse" id="v22"><sup><strong>22</strong></sup>Their own iniquities capture the wicked; they get caught in the web of their own sins.</span>
+<span class="verse" id="v22"><sup class="verse-num">22</sup> Their own iniquities capture the wicked; they get caught in the web of their own sins.</span>
 
-<span class="verse" id="v23"><sup><strong>23</strong></sup>They die from ignorance and get lost over foolishness.</span>
+<span class="verse" id="v23"><sup class="verse-num">23</sup> They die from ignorance and get lost over foolishness.</span>
 <p class="section-ref">Prov 5:18-23</p>
 
 

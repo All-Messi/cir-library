@@ -9,9 +9,9 @@ type: chapter
 weight: 7
 ---
 
-## 2 Corinthians Chapter **7**
+## 2 Corinthians Chapter 7
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>So having these [the] promises, beloved, let-us-cleanse ourselves from all defilement of-flesh and spirit, perfecting holiness in (the) fear of-God.</span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> So having these [the] promises, beloved, let-us-cleanse ourselves from all defilement of-flesh and spirit, perfecting holiness in (the) fear of-God.</span>
 
 <span class="verse" id="v2"><strong><sup>2</sup></strong>Make-room-for us; we-wronged nobody; we-corrupted nobody; we-took-advantage-of nobody. <strong><sup>3</sup></strong>I-do<strong>┘</strong>not└speak to (you) condemnation; for I-said-before that you-are in the hearts of-us unto [the] dying-together and living-together. <strong><sup>4</sup></strong>Great to-me (is the) confidence/boldness in/toward you; great to-me (is) my boasting on-behalf-of you; I-have-been-filled with-[the] comfort; I-am-overflowing with-[the] joy in all the affliction of us.</span>
 

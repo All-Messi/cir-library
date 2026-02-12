@@ -4,14 +4,14 @@ chapter: 3
 next: chapter-04
 prev: chapter-02
 title: Job 3
-translation: COT
+translation: CNT
 type: chapter
 weight: 3
 ---
 
-## Job Chapter **3**
+## Job Chapter 3
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup><strong>Afterward Job cursed the day he was born: </strong>[<strong><sup>2</sup></strong>] <strong><sup>3</sup></strong><em>“Perish the day I was born, </em> <em>	</em><em>	the night I was conceived.</em></span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> <strong>Afterward Job cursed the day he was born: </strong>[<strong><sup>2</sup></strong>]</span>
 
 <span class="verse" id="v4"><strong><sup>4</sup></strong><em>May that be a dark day;</em> <em>	</em><em>	let God above not care about it</em> <em>	</em><em>	or any light shine on it.</em></span>
 
@@ -25,11 +25,7 @@ weight: 3
 
 <span class="verse" id="v9"><strong><sup>9</sup></strong><em>Let its morning stars be blacked out;</em> <em>	</em><em>	</em><em>	let it hope for light, but not get any,</em> <em>	</em><em>	</em><em>	or see the eyelids of the morning;</em></span>
 
-<span class="verse" id="v10"><strong><sup>10</sup></strong><em>because it didn’t shut my mother’s womb</em> <em>	</em><em>	</em><em>	or hide trouble from me.</em><strong>	</strong></span>
-<p class="section-ref">Job 3:1-10</p>
-
-### 11“Why didn’t I die at birth— 		 just come out of the womb and die?
-
+<span class="verse" id="v10"><strong><sup>10</sup></strong><em>because it didn’t shut my mother’s womb</em> <em>	</em><em>	</em><em>	or hide trouble from me.</em><strong>	</strong><strong>Job 3:1-10</strong></span>
 
 <span class="verse" id="v12"><strong><sup>2</sup></strong><em>Why did the knees receive me</em> <em>	</em><em>	and the breasts that nursed me?</em></span>
 
@@ -45,11 +41,7 @@ weight: 3
 
 <span class="verse" id="v18"><strong><sup>8</sup></strong><em>Captives are at ease together;</em> <em>	</em><em>	they don’t hear a taskmaster.</em></span>
 
-<span class="verse" id="v19"><strong><sup>9</sup></strong><em>The least and the greatest are there;</em> <em>	</em><em>	slaves are free from their masters.</em><strong>	</strong></span>
-<p class="section-ref">Job 3:11-19</p>
-
-### 20“Why does light come to those who are suffering, 			and life to the bitter;
-
+<span class="verse" id="v19"><strong><sup>9</sup></strong><em>The least and the greatest are there;</em> <em>	</em><em>	slaves are free from their masters.</em><strong>	</strong><strong>Job 3:11-19</strong></span>
 
 <span class="verse" id="v21"><strong><sup>21</sup></strong><em>to people who long for death and it doesn’t come,</em> <em>	</em><em>	</em><em>	who dig for it more than for hidden treasure;</em></span>
 
@@ -61,8 +53,7 @@ weight: 3
 
 <span class="verse" id="v25"><strong><sup>25</sup></strong><em>because what I’m afraid of comes at me,</em> <em>	</em><em>	</em><em>	and what I dread happens to me.</em></span>
 
-<span class="verse" id="v26"><strong><sup>6</sup></strong><em>I’m not at ease, I’m not at peace;</em> <em>	</em><em>	I’m not at rest; only trouble is coming.”</em><em>	</em></span>
-<p class="section-ref">Job 3:20-26</p>
+<span class="verse" id="v26"><strong><sup>6</sup></strong><em>I’m not at ease, I’m not at peace;</em> <em>	</em><em>	I’m not at rest; only trouble is coming.”</em><em>	</em><strong>Job 3:20-26</strong></span>
 
 
 <style>

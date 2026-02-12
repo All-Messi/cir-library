@@ -10,3 +10,5 @@ weight: 40
 ## Matthew
 
 **28 Chapters**
+
+Select a chapter to begin reading:

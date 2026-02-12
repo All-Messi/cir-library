@@ -9,7 +9,7 @@ type: chapter
 weight: 7
 ---
 
-## Revelation Chapter **7**
+## Revelation Chapter 7
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>After this I-saw four angels standing on/at the four corners of-the earth, holding the four winds of-the earth in-order-that wind might┘not└blow on the earth nor on the sea nor on every tree.  <strong><sup>2</sup></strong>And I-saw another angel coming-up from the rising of-(the)-sun, having (the) seal of-(the)-living God, and he-shouted with-(a)-loud voice to-the four angels to-whom it-was-given [to-them] to-harm the land and the sea, <strong><sup>3</sup></strong>saying, <em>“</em><em>Do┘not└harm</em><em> the land</em><em> nor the sea nor the trees</em><em> u</em><em>ntil we-seal the slaves of-the G</em><em>od of-us on the foreheads of-them.”</em>  <strong><sup>4</sup></strong>And I-heard the number of-the-ones having-been-sealed, (a) hundred fortyᴖfour thousand, having-been-sealed from every tribe of-(the)-sons of-Israel:</span>
 
@@ -23,7 +23,7 @@ weight: 7
 
 <span class="verse" id="v9"><strong><sup>9</sup></strong>After these-things I-looked, and, behold, a great crowd that nobody was-able to number [it], out-of every nation and tribe and peoples and languages, standing before the throne and before the Lamb, clothed with-white robes, and palm-branches/fronds (were) in the hands of-them.  <strong><sup>10</sup></strong>And they-are-shouting with-(a)-loud voice, saying, <em>“[The] salvation to-the God of-us [the-one] sitting </em> <em>	</em><em>	</em><em>	</em><em>o</em><em>n </em><em>the throne and to-</em><em>the Lamb.</em><em>”</em></span>
 
-<span class="verse" id="v11"><sup><strong>11</strong></sup>And all the angels stood in-a-circle/around the throne and the elder and the four living-beings, and they-fell-down before the throne on the faces of-them and worshiped [the] God, <strong><sup>12</sup></strong>saying, <em>“Amen.  [The] blessing and [the] glory and [the] wisdom and [the]</em> <em>	</em><em>	</em><em>	</em><em>thanksgiving and [the] honor and [the] power and [the] strength</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>to-the God of-us</em><em> </em><em>unto the ages of-the ages/</em><em>forevermore</em><em><sup>5</sup></em><em>.  Amen.</em><em>”</em></span>
+<span class="verse" id="v11"><sup class="verse-num">11</sup> And all the angels stood in-a-circle/around the throne and the elder and the four living-beings, and they-fell-down before the throne on the faces of-them and worshiped [the] God, <strong><sup>12</sup></strong>saying, <em>“Amen.  [The] blessing and [the] glory and [the] wisdom and [the]</em> <em>	</em><em>	</em><em>	</em><em>thanksgiving and [the] honor and [the] power and [the] strength</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>to-the God of-us</em><em> </em><em>unto the ages of-the ages/</em><em>forevermore</em><em><sup>5</sup></em><em>.  Amen.</em><em>”</em></span>
 
 <span class="verse" id="v13"><strong><sup>3</sup></strong>And one of the elders answered, saying to-me, <em>“Who are these [the] wrapped/dressed with-respect-to-[the] white [the] robes and whence did-they-come?”  </em></span>
 

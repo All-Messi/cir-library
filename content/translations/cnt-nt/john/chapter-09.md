@@ -9,14 +9,31 @@ type: chapter
 weight: 9
 ---
 
-## John Chapter **9**
+## John Chapter 9
 
-<span class="verse" id="v10"><sup><strong>10</strong></sup><strong>:</strong><strong> </strong><strong>Plots to Kill Jesus</strong></span>
+<span class="verse" id="v1"><strong><sup>1</sup></strong>As he was walking along, he saw a man that had been blind from birth. <strong><sup>2</sup></strong>His disciples asked him, <em>“Rabbi, who sinned, </em><em>him</em><em> or his parents, that </em><em>caused him to be</em><em> born blind?”</em></span>
 
-<span class="verse" id="v45"><strong><sup>5</sup></strong><strong>Many Jews that came to Mary and saw what Jesus did, believed in him; </strong><strong><sup>46</sup></strong><strong>but some went to the Ph</strong><strong>arisees and told them what he’</strong><strong>d done.</strong><strong> </strong><strong><sup>47</sup></strong><strong>So the high priests and the Pharisees </strong><strong>convened</strong><strong> the Sanhedrin, </strong><strong><em>“What are we going to do? This man is doing lots of signs.</em></strong><strong><em> </em></strong><strong><sup>48</sup></strong><strong><em>If we leave him alone like this, everybody’s going to believe in him, and the Romans will come and take away our place and our nation.”</em></strong></span>
+<span class="verse" id="v6"><strong><sup>6</sup></strong>When he’d said that, he spit on the ground and made some mud and smeared it on the blind man’s eyelids, <strong><sup>7</sup></strong><em>“Go was</em><em>h it off in the Pool of Siloam (‘</em><em>Sent</em><em>’</em><em>)</em><em>.”</em> He went and washed it off and came back able to see. <strong><sup>8</sup></strong>Neighbors and people that had seen him begging said, <em>“I</em><em>sn’t that</em><em> the </em><em>fellow</em><em> that sits and begs?”</em></span>
 
-<span class="verse" id="v49"><strong><sup>9</sup></strong><strong>One</strong><strong> of them, Caiaphas, high priest</strong><strong> that year, said, </strong><strong><em>“There’s something you don’t understand:</em></strong><strong><em> </em></strong><strong><sup>50</sup></strong><strong><em>It’s expedient for you that one man die for the people so the whole nation doesn’t perish.”</em></strong><strong><em> </em></strong><strong><sup>51</sup></strong><strong>Now he didn’</strong><strong>t say this on his own; but as high priest that year, he prophesied that Jesus would die for the nation, </strong><strong><sup>52</sup></strong><strong>and not for the nation only, but that he would assemble into one the children of God scattered abroad.</strong><strong> </strong><strong><sup>53</sup></strong><strong>So from </strong><strong>then</strong><strong> on</strong><strong>,</strong><strong> they made plans to put him to death.</strong><strong> </strong><strong><sup>54</sup></strong><strong>So Jesus quit walking openly </strong><strong>among the Jews, and went away in</strong><strong>to </strong><strong>the territory near the desert—</strong><strong>to</strong><strong> </strong><strong>a </strong><strong>town</strong><strong> called Ephraim</strong><strong>, </strong><strong>and stayed there with his disciples.</strong></span>
-<p class="section-ref">Jn 11:45-54</p>
+<span class="verse" id="v13"><strong><sup>3</sup></strong>They took<sup>p</sup> him to the Pharisees. <strong><sup>14</sup></strong>It was a Sabbath day when Jesus made the mud and gave him sight. <strong><sup>15</sup></strong>The Pharisees, too, asked him how he’d received his sight. He told them, <em>“He put mud on my eye</em><em>lid</em><em>s.</em><em> </em><em>I washed it off and I c</em><em>an</em><em> see.”</em></span>
+
+<span class="verse" id="v16"><strong><sup>6</sup></strong>Some Pharisees said, <em>“That</em><em> man</em><em>’</em><em>s not</em><em> from God; he doesn’t keep Sabbath</em><em>.”</em> Others said, <em>“How c</em><em>ould</em><em> a man </em><em>that’s a sinner </em><em>do such a thing?”</em> So they were divided over it.</span>
+
+<span class="verse" id="v17"><strong><sup>7</sup></strong>They said<sup>p</sup> to the blind man again, <em>“You’re the one he made see.</em><em> </em><em>What do </em><em><u>you</u></em><em> think about him?”</em> <em>“He’s a prophet.”</em></span>
+
+<span class="verse" id="v18"><strong><sup>8</sup></strong>The Jews doubted that he’d been blind till they called his parents, <strong><sup>19</sup></strong><em>“Is this your son that you </em><em>claim</em><em> was blind?</em><em> </em><em>How </em><em>can he</em><em> see now?”</em></span>
+
+<span class="verse" id="v24"><strong><sup>4</sup></strong>They called the man a second time, <em>“Give </em><em><u>God</u></em><em> the credit; we know that</em><em> man’s a sinner.”</em></span>
+
+<span class="verse" id="v25"><sup class="verse-num">25</sup> He responded, <em>“I don’t know if he’s a sinner.</em><em> </em><em>I do know</em><em> one thing</em><em>:</em><em> </em><em>I was blind; now I can see.”</em><em>	 </em><strong>Jn 9:13</strong><strong>-</strong><strong>25</strong></span>
+
+<span class="verse" id="v26"><strong><sup>6</sup></strong>They said, <em>“What did he do to you?</em><em> </em><em>How did he make you able to see?”</em></span>
+
+<span class="verse" id="v35"><strong><sup>5</sup></strong>Jesus heard they’d excommunicated him. When he found him, he said, <em>“Do you believe in the </em><em>Son of Man</em><em>?”</em></span>
+
+<span class="verse" id="v39"><strong><sup>9</sup></strong>Jesus said, <em>“I came </em><em>to the world</em><em> to render judgment</em><em> so the ones that can’t see </em><em>can</em><em> see</em><em>,</em><em> and the ones that</em><em> can</em><em> see </em><em>can</em><em> </em><em>go</em><em> blind.”</em></span>
+
+<span class="verse" id="v40"><strong><sup>0</sup></strong>The Pharisees that were with him heard it, <em>“We aren’t blind too, are we?”</em></span>
 
 
 <style>

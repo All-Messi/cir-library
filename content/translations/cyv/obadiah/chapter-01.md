@@ -7,55 +7,58 @@ type: chapter
 weight: 1
 ---
 
-## Obadiah Chapter **1**
+## Obadiah Chapter 1
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>The Vision of Obadiah <strong><sup>	</sup></strong><strong><sup>2</sup></strong><em>“I’ll</em><em> make you </em><em>a minor player</em><em> among the nations</em></span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> The Vision of Obadiah Edom's Judgment Foretold The Lord Yahveh says this about Edom; we've heard the report; an ambassador has gone out to the nations to say, "To arms, attack Edom." 2"I'll make you a minor player among the nations and utterly despised.</span>
 
-<span class="verse" id="v3"><sup><strong>3</strong></sup><em>Your</em><em> arrogance has deceived you,</em> <em>	</em><em>	</em><em>and</em><em> </em><em>tell</em><em> yourselves</em><em> that nobody</em><em> can bring </em><em>you</em><em> down</em><em>.</em></span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> Your arrogance has deceived you, you that live high in caves and tell yourselves that nobody can bring you down.</span>
 
-<span class="verse" id="v4"><sup><strong>4</strong></sup><em>Though</em><em> you</em><em>’ve</em><em> buil</em><em>t</em><em> high like an eagle</em> <em>	</em><em>	I’ll bring you down.</em></span>
+<span class="verse" id="v4"><sup class="verse-num">4</sup> Though you've built high like an eagle and put your nest among the stars, I'll bring you down.</span>
 <p class="section-ref">Obad 1-4</p>
 
-### 5“If thieves came to you at night—
+### 5"If thieves came to you at night— what disaster awaits you!— wouldn't they steal only till they had enough? If grape pickers came, wouldn't they leave some gleanings?
 
 
-<span class="verse" id="v6"><sup><strong>6</strong></sup>But <em>how</em><em> you’ll </em><em>be pillaged,</em><em> Esau,</em></span>
+<span class="verse" id="v6"><sup class="verse-num">6</sup> But how you'll be pillaged, Esau, and your hidden treasures found!</span>
 
-<span class="verse" id="v7"><sup><strong>7</strong></sup><em>Y</em><em>our</em><em> allies will </em><em>force</em><em> you </em><em>out of</em><em> </em><em>your</em><em> border</em><em>s</em><em>;</em></span>
+<span class="verse" id="v7"><sup class="verse-num">7</sup> Your allies will force you out of your borders; the people at peace with you will turn on you and overpower you; the ones you eat with will set up an ambush for you. (You won't suspect it.)</span>
 
-<span class="verse" id="v8"><sup><strong>8</strong></sup><em>At</em><em> that time,” </em>Yahveh says,<em> “won’t I destroy</em> <em>	</em><em>	</em><em>and </em><em>those with </em><em>understanding from </em><em>Esau’s</em><em> mountain?</em></span>
+<span class="verse" id="v8"><sup class="verse-num">8</sup> At that time," Yahveh says, "won't I destroy the wise men out of Edom and those with understanding from Esau's mountain?</span>
 
-<span class="verse" id="v9"><sup><strong>9</strong></sup><em>Your</em><em> </em><em>strong troops will be afraid, Teman;</em> <em>	</em><em>	</em><em>	</em><em>will be </em><em>cut down</em><em> </em><em>in the</em><em> slaughter.</em></span>
+<span class="verse" id="v9"><sup class="verse-num">9</sup> Your strong troops will be afraid, Teman; so everybody from Esau's mountains will be cut down in the slaughter.</span>
 <p class="section-ref">Obad 5-9</p>
 
-### 10“Because of your violence against Jacob your brother, 		you’ll be covered with disgrace and permanently eliminated.
+### Edom's Violence Against Israel 10"Because of your violence against Jacob your brother, you'll be covered with disgrace and permanently eliminated.
 
 
-<span class="verse" id="v11"><sup><strong>11</strong></sup><em>You</em><em> stood aloof</em><em> </em><em>  </em></span>
+<span class="verse" id="v11"><sup class="verse-num">11</sup> You stood aloof while foreigners cast lots for Jerusalem and strangers entered its gates to carry off its wealth. You even joined them.</span>
 
-<span class="verse" id="v12"><sup><strong>12</strong></sup><em>You</em><em> shouldn’t have gloated over your brother’s misfortune;</em> <em>	</em><em>	</em><em>you shouldn’t have </em><em>celebrated over Judah’s destruction</em></span>
+<span class="verse" id="v12"><sup class="verse-num">12</sup> You shouldn't have gloated over your brother's misfortune; you shouldn't have celebrated over Judah's destruction or boasted about his distress.</span>
 
-<span class="verse" id="v13"><sup><strong>13</strong></sup><em>You</em><em> shouldn’t have entered </em><em>my people’s</em><em> gate</em></span>
+<span class="verse" id="v13"><sup class="verse-num">13</sup> You shouldn't have entered my people's gate at the time of their disaster or looted their goods during their catastrophe.</span>
 
-<span class="verse" id="v14"><sup><strong>14</strong></sup><em>You</em><em> shouldn’t have stood at the fork in the road</em> <em>	</em><em>	or have </em><em>betrayed</em><em> the</em><em> survivors in their misfortune.</em><strong> </strong><strong>	</strong></span>
+<span class="verse" id="v14"><sup class="verse-num">14</sup> You shouldn't have stood at the fork in the road to cut down their refugees or have betrayed the survivors in their misfortune.</span>
 <p class="section-ref">Obad 10-14</p>
 
-### 15“Yahveh’s judgment is coming on all the nations.
+### Edom's Destruction, Israel's Restoration 15"Yahveh's judgment is coming on all the nations. What you've done to Israel will be done to you; your dealings will come back on your own head.
 
 
-<span class="verse" id="v16"><sup><strong>16</strong></sup>You and <em>those</em><em> </em><em>nations will drink</em><em> </em>the same punishment<em>	</em></span>
+<span class="verse" id="v16"><sup class="verse-num">16</sup> You and those nations will drink the same punishment you swallowed on my holy mountain. You'll all drink till you drown.</span>
 
-<span class="verse" id="v17"><sup><strong>17</strong></sup>But<em> on Mount Zion some will escape,</em> <em>	</em><em>	Jacob’s house will return to reclaim its </em><em>possession.</em></span>
+<span class="verse" id="v17"><sup class="verse-num">17</sup> But on Mount Zion some will escape, and it'll be holy; Jacob's house will return to reclaim its possession.</span>
 
-<span class="verse" id="v18"><sup><strong>18</strong></sup><em>The</em><em>n</em><em> Jacob</em><em>’s house</em><em> will become a fire,</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em>Yahveh has said it.</span>
+<span class="verse" id="v18"><sup class="verse-num">18</sup> Then Jacob's house will become a fire, Joseph's house a flame, Esau's house the stubble. They'll set him on fire and burn him up; there'll be no survivors in Edom." Yahveh has said it.</span>
 <p class="section-ref">Obad 15-18</p>
 
-<span class="verse" id="v19"><sup><strong>19</strong></sup>Then <em>my</em> people in the Negev will take over Esau’s mountains; the ones in the western foothills <em>will </em><em>occupy</em> the Philistine <em>plain.</em> They’ll take over the fields of Ephraim and Samaria;</span>
+<span class="verse" id="v19"><sup class="verse-num">19</sup> Then my people in the Negev will take over Esau's mountains; the ones in the western foothills will occupy the Philistine plain. They'll take over the fields of Ephraim and Samaria; The people of Benjamin will occupy Gilead.</span>
 
-<span class="verse" id="v20"><sup><strong>20</strong></sup>Exiles from Israel will replace the Phoenicians as far <em>north</em> as Zarephath; the captives from Jerusalem that are in Sepharad <em>[north]</em></span>
+<span class="verse" id="v20"><sup class="verse-num">20</sup> Exiles from Israel will replace the Phoenicians as far north as Zarephath; the captives from Jerusalem that are in Sepharad [north] will resettle their towns in the Negev [south].</span>
 
-<span class="verse" id="v21"><sup><strong>21</strong></sup>All those who were rescued<strong><sup>LXX</sup></strong> will go up to Mount Zion The kingdom will belong to Yahveh.</span>
+<span class="verse" id="v21"><sup class="verse-num">21</sup> All those who were rescuedLXX will go up to Mount Zion and extend its dominion over Esau's mountains. The kingdom will belong to Yahveh.</span>
 <p class="section-ref">Obad 19-21</p>
+
+### Version by Virgil Warren: christir.org
+
 
 
 <style>

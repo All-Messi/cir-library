@@ -4,21 +4,20 @@ chapter: 10
 next: chapter-11
 prev: chapter-09
 title: Jeremiah 10
-translation: COT
+translation: CNT
 type: chapter
 weight: 10
 ---
 
-## Jeremiah Chapter **10**
+## Jeremiah Chapter 10
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>Listen to the message the LORD’s giving you, Israel: <strong>	</strong><strong><sup>2</sup></strong><em>“Don’t</em><em> pick up the ways other nations </em><em>live;</em> <em>	</em><em>	don’t let the signs in the sky </em> <em>	</em><em>	</em><em>	terrify you that terrify them.</em></span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Listen to the message the LORD’s giving you, Israel:</span>
 
 <span class="verse" id="v3"><strong><sup>3</sup></strong><em>Their</em><em> customs are delusions.</em> <em>	</em><em>	They cut down a tree in the woods,</em> <em>	</em><em>	</em><em>	and their craftsmen carve it with a </em><em>tool;</em></span>
 
-<span class="verse" id="v4"><sup><strong>4</strong></sup><em>	</em><strong><sup>4</sup></strong><em>they</em><em> decorate it with silver and gold</em> <em>	</em><em>	</em><em>	and fasten it down with hammer and nails </em> <em>	</em><em>	</em><em>	</em><em>so</em><em> it won’t shift.</em></span>
+<span class="verse" id="v4"><sup class="verse-num">4</sup> <em>	</em><strong><sup>4</sup></strong><em>they</em><em> decorate it with silver and gold</em> <em>	</em><em>	</em><em>	and fasten it down with hammer and nails </em> <em>	</em><em>	</em><em>	</em><em>so</em><em> it won’t shift.</em></span>
 
-<span class="verse" id="v5"><strong><sup>5</sup></strong><em>Their</em><em> idols are like scarecrows in a cucumber patch.</em> <strong><sup>	</sup></strong><strong><sup>	</sup></strong><em>They can’t </em><em>talk;</em> <em>	</em><em>	</em><em>	</em><em>they can’t walk</em><em>, so </em><em>they </em><em>have to</em><em> be carried</em><em>!</em> <em>	</em><em>	Don’t be afraid of </em><em>them;</em> <em>	</em><em>	</em><em>	they can’t do any good or harm.”</em><strong>	</strong></span>
-<p class="section-ref">Jer 10:1-5</p>
+<span class="verse" id="v5"><strong><sup>5</sup></strong><em>Their</em><em> idols are like scarecrows in a cucumber patch.</em> <strong><sup>	</sup></strong><strong><sup>	</sup></strong><em>They can’t </em><em>talk;</em> <em>	</em><em>	</em><em>	</em><em>they can’t walk</em><em>, so </em><em>they </em><em>have to</em><em> be carried</em><em>!</em> <em>	</em><em>	Don’t be afraid of </em><em>them;</em> <em>	</em><em>	</em><em>	they can’t do any good or harm.”</em><strong>	</strong><strong>Jer 10:1-5</strong></span>
 
 <span class="verse" id="v6"><strong><sup>6</sup></strong>There’s none like <u>you</u>, LORD; you’re great and powerful.</span>
 
@@ -28,10 +27,9 @@ weight: 10
 
 <span class="verse" id="v9"><strong><sup>9</sup></strong><em>People</em> bring beaten silver from Tarshish and gold from Uphaz; craftsmen and goldsmiths make the idols; they dress them in violet and purple, artisans’ work.</span>
 
-<span class="verse" id="v10"><strong><sup>0</sup></strong>But the LORD is a real God, a living God and everlasting King. The ground shakes at his anger; the nations can’t endure his indignation.<strong>	</strong></span>
-<p class="section-ref">Jer 10:6-10</p>
+<span class="verse" id="v10"><strong><sup>0</sup></strong>But the LORD is a real God, a living God and everlasting King. The ground shakes at his anger; the nations can’t endure his indignation.<strong>	</strong><strong>Jer 10:6-10</strong></span>
 
-<span class="verse" id="v11"><sup><strong>11</strong></sup>Tell them this: <em>“The gods that didn’t make earth and sky </em> <em>	</em><em>	will perish from it.” </em></span>
+<span class="verse" id="v11"><sup class="verse-num">11</sup> Tell them this: <em>“The gods that didn’t make earth and sky </em> <em>	</em><em>	will perish from it.” </em></span>
 
 <span class="verse" id="v12"><strong><sup>2</sup></strong>He’s the One that made the earth by his power, that built the world by his wisdom, that stretched out the sky by his intelligence.</span>
 
@@ -45,8 +43,7 @@ weight: 10
 
 <span class="verse" id="v17"><strong><sup>7</sup></strong>Pick up your baggage, you that live under siege!</span>
 
-<span class="verse" id="v18"><strong><sup>18</sup></strong>The LORD says, <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><em><sup>“</sup></em><em>I’m tossing out the people </em><em>that live</em><em> </em><em>here </em> <em>	</em><em>	</em><em>	</em><em>	and causing them distress</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>so</em><em> no one can find them </em>later<em>.”</em><strong>	</strong></span>
-<p class="section-ref">Jer 10:17-18</p>
+<span class="verse" id="v18"><strong><sup>18</sup></strong>The LORD says, <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><em><sup>“</sup></em><em>I’m tossing out the people </em><em>that live</em><em> </em><em>here </em> <em>	</em><em>	</em><em>	</em><em>	and causing them distress</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>so</em><em> no one can find them </em>later<em>.”</em><strong>	</strong><strong>Jer 10:17-18</strong></span>
 
 <span class="verse" id="v19"><strong><sup>19</sup></strong>I’m hurt and my wound can’t heal; it’s pain I have to bear.</span>
 
@@ -64,8 +61,7 @@ weight: 10
 
 <span class="verse" id="v24"><strong><sup>4</sup></strong>Correct me, but in due measure, not with your anger, or you’d destroy me.</span>
 
-<span class="verse" id="v25"><strong><sup>5</sup></strong>Pour out your anger on nations that don’t know you, on families that don’t call on you; because they’ve devastated Jacob and laid waste his homeland.<strong>	</strong></span>
-<p class="section-ref">Jer 10:23-25</p>
+<span class="verse" id="v25"><strong><sup>5</sup></strong>Pour out your anger on nations that don’t know you, on families that don’t call on you; because they’ve devastated Jacob and laid waste his homeland.<strong>	</strong><strong>Jer 10:23-25</strong></span>
 
 
 <style>

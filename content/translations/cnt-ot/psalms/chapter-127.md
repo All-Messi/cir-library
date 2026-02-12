@@ -4,22 +4,22 @@ chapter: 127
 next: chapter-128
 prev: chapter-126
 title: Psalms 127
-translation: COT
+translation: CNT
 type: chapter
 weight: 127
 ---
 
-## Psalms Chapter **127**
+## Psalms Chapter 127
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>Unless the LORD builds the house, they work for nothing who build it; unless the LORD guards the city, its watchmen stay awake for no reason.</span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Unless the LORD builds the house, they work for nothing who build it; unless the LORD guards the city, its watchmen stay awake for no reason.</span>
 
-<span class="verse" id="v2"><sup><strong>2</strong></sup>In vain you rise early and work late to eat the food you gain by painful labor; he gives rest to the ones he loves.</span>
+<span class="verse" id="v2"><sup class="verse-num">2</sup> In vain you rise early and work late to eat the food you gain by painful labor; he gives rest to the ones he loves.</span>
 
-<span class="verse" id="v3"><sup><strong>3</strong></sup>Children are a gift from the LORD; <strong><sup>	</sup></strong>what the womb produces is a reward.</span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> Children are a gift from the LORD; what the womb produces is a reward.</span>
 
-<span class="verse" id="v4"><sup><strong>4</strong></sup>Children born to a young man are like arrows in a soldier’s hand.</span>
+<span class="verse" id="v4"><sup class="verse-num">4</sup> Children born to a young man are like arrows in a soldier’s hand.</span>
 
-<span class="verse" id="v5"><sup><strong>5</strong></sup>How blessed he is that has a quiver full of them; he won’t be disgraced when he confronts his accusers at the city gate.</span>
+<span class="verse" id="v5"><sup class="verse-num">5</sup> How blessed he is that has a quiver full of them; he won’t be disgraced when he confronts his accusers at the city gate.</span>
 <p class="section-ref">Ps 127:1-5</p>
 
 

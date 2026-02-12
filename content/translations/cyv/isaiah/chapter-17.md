@@ -9,23 +9,19 @@ type: chapter
 weight: 17
 ---
 
-## Isaiah Chapter **17**
+## Isaiah Chapter 17
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>Oracle About Damascus <em>“Damascus </em><em>will stop being a city,</em> <em>	</em><em>	</em><em>and</em><em> become a pile of ruins.</em><em>	</em></span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Oracle About Damascus <em>“Damascus </em><em>will stop being a city,</em> <em>	</em><em>	</em><em>and</em><em> become a pile of ruins.</em><em>	</em></span>
 
 <span class="verse" id="v2"><strong><sup>2</sup></strong><em>The</em><em> </em><em>villages around</em><em> Aroer will be </em><em>deserted;</em> <em>	</em><em>	</em><em>flocks will bed down in them,</em> <em>	</em><em>	</em><em>	with no one</em><em> to </em><em>chase</em><em> them away.</em></span>
 
-<span class="verse" id="v3"><strong><sup>3</sup></strong><em>Fortified</em><em> </em><em>town</em><em>s will disappear from Ephraim,</em> <em>	</em><em>	sovereignty from Damascus</em> <em>	</em><em>	</em><em>	</em><em>and the remnant from</em><em> </em><em>Syria;</em> <em>	</em><em>	they’ll be like </em><em>Israel’s departed</em><em> glory,”</em> Yahveh of hosts says.</span>
-<p class="section-ref">Is 17:1-3</p>
-
-### 4“At that time, Jacob’s glory will fade; 			his robust body will grow frail.
-
+<span class="verse" id="v3"><strong><sup>3</sup></strong><em>Fortified</em><em> </em><em>town</em><em>s will disappear from Ephraim,</em> <em>	</em><em>	sovereignty from Damascus</em> <em>	</em><em>	</em><em>	</em><em>and the remnant from</em><em> </em><em>Syria;</em> <em>	</em><em>	they’ll be like </em><em>Israel’s departed</em><em> glory,”</em> Yahveh of hosts says.        <strong>Is 17:1-3</strong></span>
 
 <span class="verse" id="v5"><strong><sup>5</sup></strong><em>It</em><em> will </em><em>look</em><em> like </em><em>a grainfield after harvest,</em> <em>	</em><em>	like </em><em>some</em><em>one gleaning grain heads</em><em> one at a time</em><em> </em> <em>	</em><em>	</em><em>	</em><em>in the V</em><em>alley of Rephaim.</em></span>
 
 <span class="verse" id="v6"><strong><sup>6</sup></strong><em>Yet</em><em> some </em><em>gleanings will be left—</em> <em>	</em><em>	like </em><em>shak</em><em>ing </em><em>an olive tree</em><em>,</em> <em>	</em><em>	</em><em>	two or three olives on the highest branch</em><em>,</em> <em>	</em><em>	</em><em>	</em><em>four or five </em><em>on a fruitful limb</em><em>,”</em> Yahveh God of Israel says. <strong>Is</strong><strong> 17:4-6</strong></span>
 
-<span class="verse" id="v7"><sup><strong>7</strong></sup>At that time, people will finally care about their Maker and look to the Holy One of Israel. <strong><sup>8</sup></strong>They won’t care about the altars, the work of their hands, or rely on what their fingers have made, the Asherah poles, and incense stands. <strong><sup>9</sup></strong>Their largest towns will be like places the Hivites and Amorites deserted when the Israelites came. Desolation will prevail. <strong>	</strong><strong>Is</strong><strong> 17:7-9</strong></span>
+<span class="verse" id="v7"><sup class="verse-num">7</sup> At that time, people will finally care about their Maker and look to the Holy One of Israel. <strong><sup>8</sup></strong>They won’t care about the altars, the work of their hands, or rely on what their fingers have made, the Asherah poles, and incense stands. <strong><sup>9</sup></strong>Their largest towns will be like places the Hivites and Amorites deserted when the Israelites came. Desolation will prevail. <strong>	</strong><strong>Is</strong><strong> 17:7-9</strong></span>
 
 <span class="verse" id="v10"><strong><sup>0</sup></strong>You’ve forgotten the God who can save you, the Rock where you could hide. So, though you plant nice plants and set them as seedlings from a foreign god,</span>
 

@@ -9,19 +9,22 @@ type: chapter
 weight: 43
 ---
 
-## Psalms Chapter **43**
+## Psalms Chapter 43
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>Declare me innocent, God; <strong><sup>	</sup></strong>defend me against this ungodly nation; deliver me from liars!</span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Declare me innocent, God; defend me against this ungodly nation; deliver me from liars!</span>
 
-<span class="verse" id="v2"><sup><strong>2</strong></sup>You’re the God that I rely on for courage; <strong><sup>	</sup></strong><strong><sup>	</sup></strong>why reject me? <strong>Why do I go around mourning </strong> <strong>	</strong><strong>because my enemies oppress me?</strong></span>
+<span class="verse" id="v2"><sup class="verse-num">2</sup> You’re the God that I rely on for courage; why reject me? Why do I go around mourning because my enemies oppress me?</span>
 
-<span class="verse" id="v3"><sup><strong>3</strong></sup>Send your light and truth to lead me, to bring me to the holy hill where you live.</span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> Send your light and truth to lead me, to bring me to the holy hill where you live.</span>
 <p class="section-ref">Ps 43:1-3</p>
 
-<span class="verse" id="v4"><sup><strong>4</strong></sup>Then I can go to your altar, my greatest <em>source of</em> joy, <strong><sup>	</sup></strong>and praise you with a harp.</span>
+<span class="verse" id="v4"><sup class="verse-num">4</sup> Then I can go to your altar, my greatest source of joy, and praise you with a harp.</span>
 
-<span class="verse" id="v5"><sup><strong>5</strong></sup><strong>Why despair, my soul?</strong> <strong>	</strong><strong>	W</strong><strong>hy </strong><strong>be</strong><strong> disturbed?</strong> <strong>	</strong><strong>Put your h</strong><strong>ope in God because I</strong><strong>’ll</strong><strong> still praise him,</strong> <strong>	</strong><strong>	</strong>my helper and my God.</span>
+<span class="verse" id="v5"><sup class="verse-num">5</sup> Why despair, my soul? Why be disturbed? Put your hope in God because I’ll still praise him, my helper and my God.</span>
 <p class="section-ref">Ps 43:4-5</p>
+
+### A Maskil of the Sons of Korah
+
 
 
 <style>

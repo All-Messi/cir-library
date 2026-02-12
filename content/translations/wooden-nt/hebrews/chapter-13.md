@@ -8,7 +8,7 @@ type: chapter
 weight: 13
 ---
 
-## Hebrews Chapter **13**
+## Hebrews Chapter 13
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Let brotherly-love continue.  <strong><sup>2</sup></strong>Do┘not└forget the love-of-strangers, for through this some were-unaware, having-entertained angels.  <strong><sup>3</sup></strong>Remember the-ones bound as bound-with (them), the-ones being-mistreated as also yourselves being in (the) body.  <strong><sup>4(</sup></strong>Let) [the] marriage (be) honorable in all-people and the bed (be) undefiled, for [the] God will-judge fornicators and adulterers.  <strong><sup>5</sup></strong>(Let) the way-(of life of you be) without-love-of-silver, being-satisfied with-the-things being-present, for <u>he</u> has said, <em>“I </em><em>will┘not└abandon</em><em> you; neither certainly will-I-leave┘[not] </em><em>you└behind</em><em>,”</em>  <strong><sup>6</sup></strong>so-that, being-confident, we say, <strong><em>“[The] Lord (is the) helper to-me,</em></strong> <strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	[and]</em></strong><strong><em><sup>ms</sup></em></strong><strong><em> I-will be-afraid.</em></strong><strong><em>	</em></strong> <strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	What </em></strong><strong><em>will┘man└do</em></strong><strong><em> to-me?”</em></strong></span>
 

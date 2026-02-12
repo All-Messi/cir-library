@@ -7,25 +7,33 @@ type: chapter
 weight: 1
 ---
 
-## Philemon Chapter **1**
+## Philemon Chapter 1
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>Paul, prisoner of Christ<sup>Messiah</sup> Jesus, and brother Timothy, to our dear fellow worker Philemon, <strong><sup>2</sup></strong>to sister Apphia, to fellow soldier Archippus, and to your<sup>sg</sup> house church. <strong><sup>3</sup></strong>Grace and peace from God our Father and the Lord Jesus Christ.</span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Paul, prisoner of ChristMessiah Jesus, and brother Timothy, to our dear fellow worker Philemon, 2to sister Apphia, to fellow soldier Archippus, and to yoursg house church. 3Grace and peace from God our Father and the Lord Jesus Christ.</span>
 <p class="section-ref">Phil 1-3</p>
 
-<span class="verse" id="v4"><sup><strong>4</strong></sup>I always thank God <em>for you</em>, mentioning you<sup>sg</sup> in my prayers, <strong><sup>5</sup></strong>because I hear about your love and faith toward the Lord Jesus and all the saints. <strong><sup>6</sup></strong>I pray that fellowshiping with your<sup>sg</sup> faith will lead to our experiencing everything good for Christ’s sake. <strong><sup>7</sup></strong>Brother, I’m so happy and encouraged by your love, because you refresh the hearts of the saints.</span>
+### Paul's Prayer for Philemon
+
+
+<span class="verse" id="v4"><sup class="verse-num">4</sup> I always thank God for you, mentioning yousg in my prayers, 5because I hear about your love and faith toward the Lord Jesus and all the saints. 6I pray that fellowshiping with yoursg faith will lead to our experiencing everything good for Christ's sake. 7Brother, I'm so happy and encouraged by your love, because you refresh the hearts of the saints.</span>
 <p class="section-ref">Phil 4-7</p>
 
-<span class="verse" id="v8"><sup><strong>8</strong></sup>In light of that, I feel bold enough to tell <em>you</em> something that’s appropriate. <strong><sup>9</sup></strong>But because I love you, I’d rather ask you to do it—being Paul the aged prisoner of Christ, and all.</span>
+### Requesting Freedom for Onesimus
 
-<span class="verse" id="v10"><sup><strong>10</strong></sup>I’m appealing to you about my child Onesimus that I begot while I was in bonds. <strong><sup>11</sup></strong>At one time he was useless to you, but now he’s useful to you <u>and</u> to me. <strong><sup>12</sup></strong>As my own heart, I’ve sent him back to you in person. <strong><sup>13</sup></strong>I wanted to keep him here to help me on your behalf while I’m in prison because of the good news. <strong><sup>14</sup></strong>But I didn’t want to do anything without your consent. I wanted your goodness to be because you wanted to, not because you had to. <strong><sup>15-16</sup></strong>Maybe he left you for a while so you could have him forever physically and in the Lord, not as a servant, but as a dear brother—to me too.</span>
+
+<span class="verse" id="v8"><sup class="verse-num">8</sup> In light of that, I feel bold enough to tell you something that's appropriate. 9But because I love you, I'd rather ask you to do it—being Paul the aged prisoner of Christ, and all.</span>
+
+<span class="verse" id="v10"><sup class="verse-num">10</sup> I'm appealing to you about my child Onesimus that I begot while I was in bonds. 11At one time he was useless to you, but now he's useful to you and to me. 12As my own heart, I've sent him back to you in person. 13I wanted to keep him here to help me on your behalf while I'm in prison because of the good news. 14But I didn't want to do anything without your consent. I wanted your goodness to be because you wanted to, not because you had to. 15-16Maybe he left you for a while so you could have him forever physically and in the Lord, not as a servant, but as a dear brother—to me too.</span>
 <p class="section-ref">Phil 8-16</p>
 
-<span class="verse" id="v17"><sup><strong>17</strong></sup>So if you consider me a partner, accept him as me. <strong><sup>18</sup></strong>If he has wronged you or owes you anything, charge it to me. <strong><sup>19</sup></strong>I, Paul, write it with my own hand: I’ll repay it. (I won’t tell you that you also owe me your very self.) <strong><sup>20</sup></strong>Yes, brother, I want to have joy in the Lord; refresh my heart in Christ.	 <strong><sup>21</sup></strong>I’m writing, confident that you’ll do more than I’m saying. <strong><sup>22</sup></strong>While you’re at it, prepare<sup>sg</sup> a place for me to stay, because I’m hoping by your<sup>pl</sup> prayers to be released to you<sup>pl</sup>.</span>
-<p class="section-ref">Phil 17-22</p>
+### Additional Urgings About Onesimus
 
-<span class="verse" id="v23"><sup><strong>23</strong></sup>Epaphras, my fellow prisoner in Christ Jesus, sends you<sup>sg</sup> greetings. <strong><sup>24</sup></strong>Mark, Aristarchus, Demas, Luke—my fellow workers—<em>greet you</em> <em>as well</em>.</span>
 
-<span class="verse" id="v25"><sup><strong>25</strong></sup>The grace of the Lord Jesus Christ <em>be</em> with your<sup>pl</sup> spirit.</span>
+<span class="verse" id="v17"><sup class="verse-num">17</sup> So if you consider me a partner, accept him as me. 18If he has wronged you or owes you anything, charge it to me. 19I, Paul, write it with my own hand: I'll repay it. (I won't tell you that you also owe me your very self.) 20Yes, brother, I want to have joy in the Lord; refresh my heart in Christ.	 21I'm writing, confident that you'll do more than I'm saying. 22While you're at it, preparesg a place for me to stay, because I'm hoping by yourpl prayers to be released to youpl. Phil 17-22 Greetings</span>
+
+<span class="verse" id="v23"><sup class="verse-num">23</sup> Epaphras, my fellow prisoner in Christ Jesus, sends yousg greetings. 24Mark, Aristarchus, Demas, Luke—my fellow workers—greet you as well.</span>
+
+<span class="verse" id="v25"><sup class="verse-num">25</sup> The grace of the Lord Jesus Christ be with yourpl spirit.</span>
 <p class="section-ref">Phil 23-25</p>
 
 ### Translator: Virgil Warren, 								       christir.org

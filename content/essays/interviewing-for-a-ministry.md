@@ -1,18 +1,20 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Topics
+- Essays
 - MINISTRY
 - Christian Ministry 101
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: INTERVIEWING FOR A MINISTRY
 weight: 999
 ---
 
-INTERVIEWING FOR A MINISTRY
+
+
 
 I.	 General Considerations
+
 
 In the past, extreme positions have been taken on both sides of the “preacher competition” issue in hiring a minister. At one extreme is the practice of bringing in three or four ministers for “trial sermons” and then taking a vote on which one the people want. At the other extreme is the policy ministers may advocate that search committees look at only one candidate at a time and decide yes or no before passing on to the next one. It seems curious that ministers want to look at several congregations and decide which one to take, but they do not want a congregation looking at more than one minister.
 
@@ -22,7 +24,10 @@ If at all possible, you should take your wife and family along with you to the c
 
 Depending on the circumstance, it is advisable to have more than just one evening to interact with the situation. You will want to drive around the community, see where the schools are located, meet as many of the church leaders as you can in an unstructured setting, look at the parsonage if the church has one, survey the facilities, meet other staff people the congregation may have and get a chance to talk with them informally.
 
+
+
 II.	 Sample Questions for Ministers to Ask
+
 
 1.	Does the church have by-laws, an organizational chart for the work of the church that includes staff members and their roles as well as a list of the active committees, and anything else that would indicate the variety of ministry, the number of people actively involved in it, and so on? What governing board do you look to for final responsibility? Who is on this board? What “officers” do you have in the church? Who has the authority to hire and dismiss staff members? These and other factors will help you get an idea about how the operation of the church is carried out.
 
@@ -74,7 +79,7 @@ Together you will need to go through the total list of things needing to be done
 
 24.	Over the years how many people have entered the ministry from this congregation and who are they?
 
-25.	What kind of attitude does the church take toward any special interests and activities you may be involved in outside the local church: writing, seminars, etc.?
+25.	What kind of attitude does the church take toward any special interests and activities you may be involved in outside the local church: writing, seminars, <em>etc</em>.?
 
 26.	Does the minister have input in staff selection? Does the minister or the board of elders hire or fire the secretary?
 
@@ -86,9 +91,13 @@ Together you will need to go through the total list of things needing to be done
 
 30.	Has the congregation had to exercise church discipline? Are immoral people dealt with firmly but with love?
 
+
 It might be helpful to have someone serve as a secretary for interview so memory failure does not detract from the quality of results. Financial matters will need to be discussed as well. These will probably come up last and should be left till the other items are covered adequately. For a run-down on aspects of the financial package, see separate hand-out.
 
+
+
 III.	 Questions You Should Be Prepared to Answer
+
 
 Many items will already have been included on your resume: personal background, family, circumstances, educational background, and ministerial experience. You may find these being asked again if for no other reasons than to loosen up the interchange between the persons in the interview and to give you an opportunity to personalize yourself to those present.
 

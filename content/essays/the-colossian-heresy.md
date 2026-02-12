@@ -1,20 +1,23 @@
 ---
 author: Virgil Warren, PhD
 categories:
+- Essays
 - EVIDENCES
-- CRITICAL INTRODUCTION -  New Testament
+- CRITICAL INTRODUCTION - New Testament
 - Colossians
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: THE COLOSSIAN HERESY
 weight: 25
 ---
 
-THE COLOSSIAN HERESY
+
+
 
 I. A combination of doctrines in one group, rather than two or three doctrines held by
 
 different groups in the Colossian church
+
 
 A.	The epistle itself contains no hint that the author writes to more than one group.
 
@@ -26,35 +29,47 @@ D.	The tendencies of contemporary Jewish religious thought made possible such a 
 
 E.	Later, developed Gnosticism exhibits the same kind of combination found in Colossae, which shows that the combination was historically possible. Kabbalism illustrates (from a later time) the actual combining of Judaism and Gnosticism.
 
+
+
 II. Elements of the heresy
+
 
 A.	Gnosticism
 
+
 1.	Intellectual exclusivism notable in its hidden wisdom, exclusive mysteries, and privileged class
 
-a.	The contention for the gospel’s universality in contrasst to intellectual exclusivism; see 1:27, 28; 2:2, 3; 4:3
 
-b.	Frequent use of wisdom (σοφία, sophia); intelligence (σύνεσις synesis); knowledge (γνῶσις, gnōsis); [perfect] knowledge (ἐπίγνωσις, epignōsis) with reference to the gospel; angels (ἄγγελοι, angeloi); mystery (μυστήριον, mystērion); ruler (ἄρχων, archōn)
+a.	The contention for the gospel’s universality in contrasst to intellectual exclusivism; see <strong><sup>1</sup></strong>:27, 28; <strong><sup>2</sup></strong>:2, 3; <strong><sup>4</sup></strong>:3
+
+b.	Frequent use of <em>wisdom</em> (σοφία, <em>sophia</em>); <em>intelligence</em> (σύνεσις <em>synesis</em>); <em>knowledge</em> (γνῶσις, <em>gnōsis</em>); [<em>perfect</em>]<em> knowledge</em> (ἐπίγνωσις, <em>epignōsis</em>) with reference to the gospel; <em>angels</em> (ἄγγελοι, <em>angeloi</em>); <em>mystery</em> (μυστήριον, <em>mystērion</em>); <em>ruler</em> (ἄρχων, <em>archōn</em>)
+
 
 2.	Speculative tenets of Gnostic cosmogony and theology
 
-a.	Against the doctrine of successive created mediation from good spirit to evil matter, Paul sets forth the doctrine of one eternal Son whose mediatorial function he exercised in both material and spiritual creation (see 1:16-20; 2:8, 9).
 
-b.	The apostle adopts Gnostic terminology with a higher content: pleroma (πλήρωμα, plērōma: 1:19; 2:9; angels = voluntary humility?)
+a.	Against the doctrine of successive created mediation from good spirit to evil matter, Paul sets forth the doctrine of one eternal Son whose mediatorial function he exercised in both material and spiritual creation (see <strong><sup>1</sup></strong>:16-20; <strong><sup>2</sup></strong>:8, 9).
+
+b.	The apostle adopts Gnostic terminology with a higher content: <em>pleroma</em> (πλήρωμα, <em>plērōma</em>: <strong><sup>1</sup></strong>:19; <strong><sup>2</sup></strong>:9; angels = voluntary humility?)
+
 
 3.	Gnostic asceticism
 
-a.	Drinks (2:16)
+
+a.	Drinks (<strong><sup>2</sup></strong>:16)
 
 b.	Touch not, taste not, handle not.
 
-c.	Denounces ascetic practices on their moral (not Mosaic-legal) aspects as drawing too much attention to the affections of a higher sphere and dying to the world (2:8, 20-22; 3:1-5)
+c.	Denounces ascetic practices on their moral (not Mosaic-legal) aspects as drawing too much attention to the affections of a higher sphere and dying to the world (<strong><sup>2</sup></strong>:8, 20-22; <strong><sup>3</sup></strong>:1-5)
+
 
 B.	Jewish
 
-a.	Handwriting of ordinances (2:14)
+
+a.	Handwriting of ordinances (<strong><sup>2</sup></strong>:14)
 
 b.	Ritual
+
 
 (1)	Circumcision
 
@@ -66,4 +81,13 @@ b.	Ritual
 
 (5)	Meats
 
+
 christir.org
+
+
+
+
+
+
+
+

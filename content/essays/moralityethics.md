@@ -1,14 +1,14 @@
 ---
 author: Virgil Warren     christir.org
 categories:
+- Essays
+- Topics
 - NOTION IN A NUTSHELL
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: MORALITY/ETHICS
 weight: 999
 ---
-
-MORALITY/ETHICS
 
 Good and bad are figured relative to purpose.
 

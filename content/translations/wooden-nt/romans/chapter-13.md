@@ -9,7 +9,7 @@ type: chapter
 weight: 13
 ---
 
-## Romans Chapter **13**
+## Romans Chapter 13
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Let┘every person└submit to-higher authorities, for there-is not (an) authority except<sup>2</sup> by God. And the-ones existing have-been established by God. <strong><sup>2</sup></strong>So the-one resisting the authority has-resisted the ordained-thing of-[the] God, and the-ones having-resisted will-receive condemnation for-themselves. <strong><sup>3</sup></strong>For [the] rulers are not (a) fear to [the/a] good work but to [the/a] evil. Now you-want not to—be-afraid-of the authority? Do the good-thing, and you-will-have praise from it. <strong><sup>4</sup></strong>For he-is (a) helper of-God to-you for [the] good. But if you-do the evil-thing, be afraid; for he-does┘not└bear the sword in-vain. For he-is (a) minister/helper of-God, (an) avenger for wrath to-the-one doing the evil-thing. <strong><sup>5</sup></strong>Wherefore (it is a) necessity to-submit, not only on-account-of [the] wrath, but also on-account-of [the] conscience. <strong><sup>6</sup></strong>For on-account-of this also you-pay taxes. For they-are ministers/helpers of God, devoting-themselves-to this very-thing. <strong><sup>7</sup></strong>Pay to-all their/the dues, [the] tribute to-whom [the] tribute, [the] tax to-whom [the] tax, [the] respect to-whom [the] respect, [the] honor to-whom [the] honor.</span>
 

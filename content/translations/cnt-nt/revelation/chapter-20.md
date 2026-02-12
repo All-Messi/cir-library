@@ -9,27 +9,24 @@ type: chapter
 weight: 20
 ---
 
-## Revelation Chapter **20**
+## Revelation Chapter 20
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>I watched an angel come down from heaven with the key to the abyss and a big chain in his hand. <strong><sup>2</sup></strong>He seized the dragon—the old serpent, the devil, Satan—bound him</span>
-<p class="section-ref">for 1</p>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> I watched an angel come down from heaven with the key to the abyss and a big chain in his hand. <strong><sup>2</sup></strong>He seized the dragon—the old serpent, the devil, Satan—bound him for 1,000 years, <strong><sup>3</sup></strong>and threw him into the abyss. He locked it and sealed it over him so he couldn’t deceive the nations till the 1,000 years were over. Afterward he’ll need to be released for a little while. <strong></span>
+<p class="section-ref">Rev 20:1-3</p>
 
-### ,000 years, 3and threw him into the abyss. He locked it and sealed it over him so he couldn’t deceive the nations till the 1,000 years were over. Afterward he’ll need to be released for a little while. 	Rev 20:1-3
+<span class="verse" id="v4"><sup class="verse-num">4</sup> I saw thrones, and the people that sat on them received the authority to judge. I saw the souls of the people beheaded for <em>bearing </em>the message about Jesus and the word of God, <em>people </em>that hadn’t worshiped the beast or its image and hadn’t received the stamp on their forehead or hand. They’ll live and reign with Christ 1,000 years. <strong><sup>5</sup></strong>The rest of the dead didn’t live again till the 1,000 years ended. That’s the first resurrection. <strong><sup>6</sup></strong>People that take part in the first resurrection are blessed and holy; the second death won’t have any power over them. They’ll be priests for God and Christ, and reign with him 1,000 years.</span>
+<p class="section-ref">Rev 20:4-6</p>
 
-
-<span class="verse" id="v4"><sup><strong>4</strong></sup>I saw thrones, and the people that sat on them received the authority to judge. I saw the souls of the people beheaded for <em>bearing </em>the message about Jesus and the word of God, <em>people </em>that hadn’t worshiped the beast or its image and hadn’t received the stamp on their forehead or hand. They’ll live and reign with C</span>
-<p class="section-ref">hrist 1</p>
-
-### ,000 years. 5The rest of the dead didn’t live again till the 1,000 years ended. That’s the first resurrection. 6People that take part in the first resurrection are blessed and holy; the second death won’t have any power over them. They’ll be priests for God and Christ, and reign with him 1,000 years. 	Rev 20:4-6 Satan Unleashed and Conquered
+### Satan Unleashed and Conquered
 
 
-<span class="verse" id="v7"><sup><strong>7</strong></sup>When</span>
-<p class="section-ref">the 1</p>
+<span class="verse" id="v7"><sup class="verse-num">7</sup> When the 1,000 years end, Satan will be released from his prison. <strong><sup>8</sup></strong>He’ll go out to deceive the nations, Gog and Magog, to gather them for battle. Their number will be like the sand on the seashore. <strong><sup>9</sup></strong>They’ll come up on the plain of the earth and surround the camp of the saints and the dearly loved city; fire will come from the sky and consume them. <strong><sup>10</sup></strong>The devil will be thrown into the burning lake of sulfur, where the beast and false prophet have been. They’ll be tormented day and night forevermore.</span>
+<p class="section-ref">Rev 20:7-10</p>
 
-### ,000 years end, Satan will be released from his prison. 8He’ll go out to deceive the nations, Gog and Magog, to gather them for battle. Their number will be like the sand on the seashore. 9They’ll come up on the plain of the earth and surround the camp of the saints and the dearly loved city; fire will come from the sky and consume them. 10The devil will be thrown into the burning lake of sulfur, where the beast and false prophet have been. They’ll be tormented day and night forevermore. 	Rev 20:7-10 The Great White-Throne Judgment
+### The Great White-Throne Judgment
 
 
-<span class="verse" id="v11"><sup><strong>11</strong></sup>I saw a large white throne and the One that was sitting on it. Earth and sky fled from him; they were no longer there. <strong><sup>12</sup></strong>I saw the dead, from least to greatest, standing in front of the throne, and the books were opened. Another book was opened, <em>the Book</em> of Life; and the dead were judged by their deeds written in the books. <strong><sup>13</sup></strong>The sea, death, and the grave gave up their dead. <strong><sup>14</sup></strong>Death and the grave were thrown into the burning lake, which is the second death. <strong><sup>15</sup></strong>Anybody that wasn’t in the Book of Life was thrown into the burning lake.</span>
+<span class="verse" id="v11"><sup class="verse-num">11</sup> I saw a large white throne and the One that was sitting on it. Earth and sky fled from him; they were no longer there. <strong><sup>12</sup></strong>I saw the dead, from least to greatest, standing in front of the throne, and the books were opened. Another book was opened, <em>the Book</em> of Life; and the dead were judged by their deeds written in the books. <strong><sup>13</sup></strong>The sea, death, and the grave gave up their dead. <strong><sup>14</sup></strong>Death and the grave were thrown into the burning lake, which is the second death. <strong><sup>15</sup></strong>Anybody that wasn’t in the Book of Life was thrown into the burning lake.</span>
 <p class="section-ref">Rev 20:11-15</p>
 
 ### The New Earth and Sky

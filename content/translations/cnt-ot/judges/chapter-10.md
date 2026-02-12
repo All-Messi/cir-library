@@ -4,28 +4,24 @@ chapter: 10
 next: chapter-11
 prev: chapter-09
 title: Judges 10
-translation: COT
+translation: CNT
 type: chapter
 weight: 10
 ---
 
-## Judges Chapter **10**
+## Judges Chapter 10
 
-<span class="verse" id="v1"><sup><strong>1</strong></sup>After Abimelech, <strong>Tola</strong> son of Puah son of Dodo from Issachar, rose up to deliver Israel. He lived at Shamir in the hill country of Ephraim <strong><sup>2</sup></strong>and judged Israel <strong>23 years</strong>. He died and was buried at Shamir. <strong>Jair Judges Israel</strong></span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> After Abimelech, <strong>Tola</strong> son of Puah son of Dodo from Issachar, rose up to deliver Israel. He lived at Shamir in the hill country of Ephraim <strong><sup>2</sup></strong>and judged Israel <strong>23 years</strong>. He died and was buried at Shamir. <strong>Jair Judges Israel</strong></span>
 
-<span class="verse" id="v3"><sup><strong>3</strong></sup>Then <strong>Jair</strong> from Gilead judged Israel <strong>22 years</strong>. <strong><sup>4</sup></strong>He</span>
-<p class="section-ref">had 30</p>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> Then <strong>Jair</strong> from Gilead judged Israel <strong>22 years</strong>. <strong><sup>4</sup></strong>He had 30 sons that rode 30 donkeys and had 30 “towns” people still call Havvoth<em>-</em>jair in Gilead. <strong><sup>5</sup></strong>He died and was buried in Kamon.<strong>	</strong> <strong>	</strong><strong>Jud 10:1-5</strong></span>
 
-### sons that rode 30 donkeys and had 30 “towns” people still call Havvoth-jair in Gilead. 5He died and was buried in Kamon.	 	Jud 10:1-5
+<span class="verse" id="v6"><sup class="verse-num">6</sup> Again, Israel sinned and served the images of Baal and Ashtoreth, and the gods of Aram, Sidon, Moab, the Ammonites and Philistines. They forsook the LORD. <strong><sup>7</sup></strong>His anger flared at them, and he sold them to the Ammonites and Philistines. <strong><sup>8</sup></strong>They crushed and oppressed Israel that year. For <strong>18 years</strong> they oppressed Israel beyond the Jordan in the land of the Amorites (Gilead). <strong><sup>9</sup></strong>The Ammonites crossed the Jordan to fight Judah, Benjamin, and Ephraim; Israel was severely distressed.</span>
 
+<span class="verse" id="v10"><sup class="verse-num">10</sup> Israel cried out to the LORD<em>, “</em><em>We’</em><em>ve s</em><em>inned against you; we’</em><em>ve </em><em>left</em><em> our God and serve</em><em>d</em><em> the </em><em>images of </em><em>Baal.”</em></span>
 
-<span class="verse" id="v6"><sup><strong>6</strong></sup>Again, Israel sinned and served the images of Baal and Ashtoreth, and the gods of Aram, Sidon, Moab, the Ammonites and Philistines. They forsook the LORD. <strong><sup>7</sup></strong>His anger flared at them, and he sold them to the Ammonites and Philistines. <strong><sup>8</sup></strong>They crushed and oppressed Israel that year. For <strong>18 years</strong> they oppressed Israel beyond the Jordan in the land of the Amorites (Gilead). <strong><sup>9</sup></strong>The Ammonites crossed the Jordan to fight Judah, Benjamin, and Ephraim; Israel was severely distressed.</span>
+<span class="verse" id="v11"><sup class="verse-num">11</sup> He said to them, <em>“Didn’t I deliver you from the Egyptians, Amorites, Ammonites, and Philistines?</em><em> </em><strong><sup>12</sup></strong><em>The Sidonians, Amalekites, Maonites oppressed you</em><em> too.</em><em> </em><em>Y</em><em>ou </em><em>appealed</em><em> to me and I delivered you from them.</em><em> </em><strong><sup>13</sup></strong><em>Yet you’ve </em><em>left</em><em> me and served other gods</em><em>; s</em><em>o I won’t deliver you anymore.</em><em> </em><strong><sup>14</sup></strong><em>Call</em><em> out to the gods you’ve chosen.</em><em> Have</em><em> them deliver you.”</em><em> </em></span>
 
-<span class="verse" id="v10"><sup><strong>10</strong></sup>Israel cried out to the LORD<em>, “</em><em>We’</em><em>ve s</em><em>inned against you; we’</em><em>ve </em><em>left</em><em> our God and serve</em><em>d</em><em> the </em><em>images of </em><em>Baal.”</em></span>
-
-<span class="verse" id="v11"><sup><strong>11</strong></sup>He said to them, <em>“Didn’t I deliver you from the Egyptians, Amorites, Ammonites, and Philistines?</em><em> </em><strong><sup>12</sup></strong><em>The Sidonians, Amalekites, Maonites oppressed you</em><em> too.</em><em> </em><em>Y</em><em>ou </em><em>appealed</em><em> to me and I delivered you from them.</em><em> </em><strong><sup>13</sup></strong><em>Yet you’ve </em><em>left</em><em> me and served other gods</em><em>; s</em><em>o I won’t deliver you anymore.</em><em> </em><strong><sup>14</sup></strong><em>Call</em><em> out to the gods you’ve chosen.</em><em> Have</em><em> them deliver you.”</em><em> </em></span>
-
-<span class="verse" id="v15"><sup><strong>15</strong></sup>They said to the LORD, <em>“We’</em><em>ve sinned.</em><em> </em><em>Do whatever </em><em>you think’s good. J</em><em>u</em><em>st deliver us today, please.” </em><strong><sup>16</sup></strong>They put away the foreign gods and served the LORD; he couldn’t bear Israel’s misery any longer.<em> </em><strong><sup>17</sup></strong>The Ammonites called to arms and encamped in Gilead. Israel came together and camped in Mizpah. <strong><sup>18</sup></strong>The leaders in Gilead said to one another, <em>“Who</em><em>ever</em><em> </em><em>will lead the</em><em> fight against the Ammonites</em><em> will</em><em> </em><em>rule</em><em> </em><em>everyone</em><em> in Gilead.”</em><strong> </strong><strong>   </strong></span>
+<span class="verse" id="v15"><sup class="verse-num">15</sup> They said to the LORD, <em>“We’</em><em>ve sinned.</em><em> </em><em>Do whatever </em><em>you think’s good. J</em><em>u</em><em>st deliver us today, please.” </em><strong><sup>16</sup></strong>They put away the foreign gods and served the LORD; he couldn’t bear Israel’s misery any longer.<em> </em><strong><sup>17</sup></strong>The Ammonites called to arms and encamped in Gilead. Israel came together and camped in Mizpah. <strong><sup>18</sup></strong>The leaders in Gilead said to one another, <em>“Who</em><em>ever</em><em> </em><em>will lead the</em><em> fight against the Ammonites</em><em> will</em><em> </em><em>rule</em><em> </em><em>everyone</em><em> in Gilead.”</em><strong> </strong><strong>   </strong><strong></span>
 <p class="section-ref">Jud 10:6-18</p>
 
 ### Jephthah Judges Israel

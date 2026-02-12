@@ -4,24 +4,21 @@ chapter: 29
 next: chapter-30
 prev: chapter-28
 title: Isaiah 29
-translation: COT
+translation: CNT
 type: chapter
 weight: 29
 ---
 
-## Isaiah Chapter **29**
+## Isaiah Chapter 29
 
 <span class="verse" id="v1"><strong><sup>:1</sup></strong><em>“Misfortune</em><em> awaits you, Ariel, </em><em>city</em><em> where David camped</em><em>!</em> <em>	</em><em>	</em><em>	Year after year, you observe the festivals on schedule.</em></span>
 
-<span class="verse" id="v2"><sup><strong>2</strong></sup><em>	</em><strong><sup>2</sup></strong><em>Yet</em><em> I’ll bring disaster on you, </em><em>Ariel;</em><em>	</em> <em>	</em><em>	</em><em>	you’ll lament and </em><em>mourn;</em> <em>	</em><em>	</em><em>	you’ll be to me what Ariel means </em>[blood-covered altar].</span>
+<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>	</em><strong><sup>2</sup></strong><em>Yet</em><em> I’ll bring disaster on you, </em><em>Ariel;</em><em>	</em> <em>	</em><em>	</em><em>	you’ll lament and </em><em>mourn;</em> <em>	</em><em>	</em><em>	you’ll be to me what Ariel means </em>[blood-covered altar].</span>
 
-<span class="verse" id="v3"><sup><strong>3</strong></sup><em>	</em><strong><sup>3</sup></strong><em>I’ll</em><em> camp against you all </em><em>the way </em><em>around</em> <em>	</em><em>	</em><em>	and set up siege works and battle towers.</em></span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> <em>	</em><strong><sup>3</sup></strong><em>I’ll</em><em> camp against you all </em><em>the way </em><em>around</em> <em>	</em><em>	</em><em>	and set up siege works and battle towers.</em></span>
 
-<span class="verse" id="v4"><sup><strong>4</strong></sup><em>	</em><strong><sup>4</sup></strong><em>You’ll</em><em> be brought </em><em>low;</em> <em>	</em><em>	you’ll speak from the ground</em> <em>	</em><em>	</em><em>	where you lie </em><em>prostrate</em><em>;</em> <em>	</em><em>	</em><em>y</em><em>ou’ll speak like a spirit conjured </em><em>up </em><em>from the dirt,</em> <em>	</em><em>	</em><em>	like a whisper from the grave.</em></span>
+<span class="verse" id="v4"><sup class="verse-num">4</sup> <em>	</em><strong><sup>4</sup></strong><em>You’ll</em><em> be brought </em><em>low;</em> <em>	</em><em>	you’ll speak from the ground</em> <em>	</em><em>	</em><em>	where you lie </em><em>prostrate</em><em>;</em> <em>	</em><em>	</em><em>y</em><em>ou’ll speak like a spirit conjured </em><em>up </em><em>from the dirt,</em> <em>	</em><em>	</em><em>	like a whisper from the grave.</em></span>
 <p class="section-ref">Is 29:1-4</p>
-
-### 5“But suddenly your many enemies  			will be like fine dust blown away, 		ruthless attackers like chaff  			gone with a gust of wind.
-
 
 <span class="verse" id="v6"><strong><sup>6</sup></strong><em>The</em><em> </em><em>L</em><em>ORD</em><em> of Hosts</em><em> will visit you </em> <em>	</em><em>	with thunder, earthquake, and loud noise,</em> <em>	</em><em>	with whirlwind, storm, and consuming fire.</em></span>
 
@@ -31,16 +28,11 @@ weight: 29
 
 <span class="verse" id="v9"><strong><sup>9</sup></strong>But you linger and wait and blind yourselves. You’re drunk, but not with wine; you’re staggering, but not from alcohol;</span>
 
-<span class="verse" id="v10"><strong><sup>10</sup></strong>that’s because the LORD has poured a sleeping spirit over you; he’s shut your eyes, prophets, and covered your heads, seers.<strong>	</strong> <strong><sup>11</sup></strong><strong><sup>-</sup></strong><strong><sup>12</sup></strong>This whole vision won’t mean much to you, either because it’s a <u>sealed scroll</u> to you or because you can’t read. Literate or not, you won’t get it.<em>	         </em></span>
-<p class="section-ref">Is 29:9-12</p>
+<span class="verse" id="v10"><strong><sup>10</sup></strong>that’s because the LORD has poured a sleeping spirit over you; he’s shut your eyes, prophets, and covered your heads, seers.<strong>	</strong> <strong><sup>11</sup></strong><strong><sup>-</sup></strong><strong><sup>12</sup></strong>This whole vision won’t mean much to you, either because it’s a <u>sealed scroll</u> to you or because you can’t read. Literate or not, you won’t get it.<em>	         </em><strong>Is 29:9-12</strong></span>
 
 <span class="verse" id="v13"><strong><sup>13</sup></strong>So the LORD says, <em>“These people come near with their mouth</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	and honor</em><em> me with their lips</em><em>,</em> <em>	</em><em>	</em><em>	</em><em>	but </em><em>their</em><em> hearts </em><em>are somewhere </em><em>else;</em><em> </em> <em>	</em><em>	</em><em>	</em><em>	their respect for me consists of </em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	memorizing human rules.</em></span>
 
-<span class="verse" id="v14"><sup><strong>14</strong></sup><em>	</em><strong><sup>14</sup></strong><em>So</em><em> I’ll surprise these hypocrites once again</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	with something awesome and </em><em>amazing;</em> <em>	</em><em>	</em><em>	</em><em>	the wisdom of the wise will </em><em>perish;</em> <em>	</em><em>	</em><em>	</em><em>	the intelligence of the intelligent will </em><em>disappear</em><em>.</em><strong> </strong></span>
-<p class="section-ref">Is 29:13</p>
-
-### -14 		15“Misfortune awaits people that try to hide  				their intentions from me, 			who do things in the dark 				and think I can’t see them.
-
+<span class="verse" id="v14"><sup class="verse-num">14</sup> <em>	</em><strong><sup>14</sup></strong><em>So</em><em> I’ll surprise these hypocrites once again</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	with something awesome and </em><em>amazing;</em> <em>	</em><em>	</em><em>	</em><em>	the wisdom of the wise will </em><em>perish;</em> <em>	</em><em>	</em><em>	</em><em>	the intelligence of the intelligent will </em><em>disappear</em><em>.</em><strong> </strong><strong>Is 29:13</strong><strong>-14</strong></span>
 
 <span class="verse" id="v16"><strong><sup>16</sup></strong><em>You’ve</em><em> got things turned around!</em> <em>	</em><em>	</em><em>	</em><em>	Is a potter treated like clay</em> <em>	</em><em>	</em><em>	</em><em>	so that what’s made says to its maker, </em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	‘You didn’t make me</em><em>’;</em> <em>	</em><em>	</em><em>	</em><em>	or what’s formed says to the one that formed it, </em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	“You don’t know what you’re doing’”?</em><strong>	</strong><strong>Is</strong><strong> 29:15-16</strong></span>
 
@@ -56,13 +48,9 @@ weight: 29
 
 <span class="verse" id="v22"><strong><sup>22</sup></strong>So the LORD that redeemed Abraham says of Jacob’s house, <em>	</em><em>	</em><em>	</em><em>	“They won’t feel ashamed anymore</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	or turn pale </em>with fear<em>.</em></span>
 
-<span class="verse" id="v23"><sup><strong>23</strong></sup><em>	</em><em>	</em><strong><sup>23</sup></strong><em>When</em><em> they see their descendants around them,</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	the work of my hands, </em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	they’ll treat me as holy</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	and stand in awe of me.</em></span>
+<span class="verse" id="v23"><sup class="verse-num">23</sup> <em>	</em><em>	</em><strong><sup>23</sup></strong><em>When</em><em> they see their descendants around them,</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	the work of my hands, </em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	they’ll treat me as holy</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	and stand in awe of me.</em></span>
 
-<span class="verse" id="v24"><sup><strong>24</strong></sup><em>	</em><em>	</em><strong><sup>24</sup></strong><em>The</em><em> ignorant will know the </em><em>truth;</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	the stubborn will accept instruction.”</em><strong> </strong><strong>	</strong></span>
-<p class="section-ref">Is 29:22-24</p>
-
-### No Help from Egypt
-
+<span class="verse" id="v24"><sup class="verse-num">24</sup> <em>	</em><em>	</em><strong><sup>24</sup></strong><em>The</em><em> ignorant will know the </em><em>truth;</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	the stubborn will accept instruction.”</em><strong> </strong><strong>	</strong><strong>Is 29:22-24</strong> <strong>No Help from Egypt</strong></span>
 
 
 <style>

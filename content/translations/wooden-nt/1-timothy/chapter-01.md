@@ -8,7 +8,7 @@ type: chapter
 weight: 1
 ---
 
-## 1 Timothy Chapter **1**
+## 1 Timothy Chapter 1
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>Paul, apostle of-Christ Jesus according-to (the) commandment of-God, (the) Savior of-us, and Christ Jesus, the hope of-us, <strong><sup>2</sup></strong>to-Timothy, loyal son in (the) faith.  Grace, mercy, (and) peace from God (the) Father and Christ Jesus the Lord of-us. Even-a	<strong><sup>3</sup></strong>As I-urged you to-remain in Ephesus, going into Macedonia, in-order-that you-may-instruct certain-ones not to-teach-strange-doctrine, <strong><sup>4</sup></strong>nor to-pay-attention to-myths and endless genealogies, which bring-about speculation[s] rather than (the) economy of-God [the] in faith.  <strong><sup>5</sup></strong>But the goal of-[the] instruction is love out-of (a) pure heart and (a) good conscience and (a) sincere faith, <strong><sup>6</sup></strong>which some, having-lost-their-way, turned-away-from into empty-talk, <strong><sup>7</sup></strong>desiring to-be teachers-of-the-Law, not understanding either what-things they-say-or about what-things they-confidently-assert.</span>
 

@@ -1,64 +1,64 @@
 ---
 author: Virgil Warren, PhD
 categories:
+- Essays
 - Topics
 - CHRISTIAN DOCTRINE
 - MANKIND (anthropology)
 - WOMEN'S STUDIES
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: FEMALE METAPHORS FOR GOD
 weight: 999
 ---
 
-FEMALE METAPHORS FOR GOD
 
-Genesis 1:27 Women and Men created in God’s image
+<strong>Genesis 1:27 Women and Men created in God’s image</strong>
 
-“Humankind was created as God’s reflection: in the divine image God created them; female and male, God made them.”
+<em>“Humankind was created as God’s reflection: in the divine image God created them; female and male, God made them.”</em>
 
-Hosea 11:3-4 God described as a mother
+<strong>Hosea 11:3-4 God described as a mother</strong>
 
-God: “Yet it was I who taught Ephraim to walk, I who took them up in my arms; but they did not know that I healed them. I led them with cords of human kindness, with bands of love. I was to them like those who lift infants to their cheeks. I bent down to them and fed them.”
+God: <em>“Yet it was I who taught Ephraim to walk, I who took them up in my arms; but they did not know that I healed them. I led them with cords of human kindness, with bands of love. I was to them like those who lift infants to their cheeks. I bent down to them and fed them.”</em>
 
-Hosea 13:8 God described as a mother bear
+<strong>Hosea 13:8 God described as a mother bear</strong>
 
-“Like a bear robbed of her cubs, I will attack them and tear them asunder…”
+<em>“Like a bear robbed of her cubs, I will attack them and tear them asunder…”</em>
 
-Deuteronomy 32:11-12 God described as a mother eagle
+<strong>Deuteronomy 32:11-12 God described as a mother eagle</strong>
 
-“Like the eagle that stirs up its nest, and hovers over its young, God spreads wings to catch you, and carries you on pinions.”
+<em>“Like the eagle that stirs up its nest, and hovers over its young, God spreads wings to catch you, and carries you on pinions.”</em>
 
-Deuteronomy 32:18 God who gives birth
+<strong>Deuteronomy 32:18 God who gives birth</strong>
 
-“You were unmindful of the Rock that bore you; you forgot the God who gave you birth.”
+<em>“You were unmindful of the Rock that bore you; you forgot the God who gave you birth.”</em>
 
-Isaiah 66:13 God as a comforting mother
+<strong>Isaiah 66:13 God as a comforting mother</strong>
 
-God: “As a mother comforts her child, so I will comfort you; you shall be comforted in Jerusalem.”
+God: <em>“As a mother comforts her child, so I will comfort you; you shall be comforted in Jerusalem.”</em>
 
-Isaiah 49:15 God compared to a nursing mother
+<strong>Isaiah 49:15 God compared to a nursing mother</strong>
 
-God: “Can a woman forget her nursing child, or show no compassion for the child of her womb? Even these may forget, yet I will not forget you.”
+God: <em>“Can a woman forget her nursing child, or show no compassion for the child of her womb? Even these may forget, yet I will not forget you.”</em>
 
-Isaiah 42:14 God as a woman in labor
+<strong>Isaiah 42:14 God as a woman in labor</strong>
 
-God: “For a long time I have held my peace, I have kept myself still and restrained myself; now I will cry out like a woman in labor, I will gasp and pant.”
+God: <em>“For a long time I have held my peace, I have kept myself still and restrained myself; now I will cry out like a woman in labor, I will gasp and pant.”</em>
 
-Psalm 131:2 God as a Mother
+<strong>Psalm 131:2 God as a Mother</strong>
 
-“But I have calmed and quieted my soul, like a weaned child with its mother; my soul is like the weaned child that is with me.”
+<em>“But I have calmed and quieted my soul, like a weaned child with its mother; my soul is like the weaned child that is with me.”</em>
 
-Psalm 123:2-3 God compared to a woman
+<strong>Psalm 123:2-3 God compared to a woman</strong>
 
-“As the eyes of a servant looks to the hand of their master, as the eyes of a maid to the hand of her mistress, so our eyes look to you, YHWH, until you show us your mercy!”
+“<em>As the eyes of a servant looks to the hand of their master, as the eyes of a maid to the hand of her mistress, so our eyes look to you, YHWH, until you show us your mercy!”</em>
 
-Matthew 23:37 and Luke 13:34 God as a Mother Hen
+<strong>Matthew 23:37 and Luke 13:34 God as a Mother Hen</strong>
 
-Jesus: “Jerusalem, Jerusalem, the city that kills the prophets and stones those who are sent to it! How often have I desired to gather your children together as a hen gathers her brood under her wings, and you were not willing!”
+Jesus: <em>“Jerusalem, Jerusalem, the city that kills the prophets and stones those who are sent to it! How often have I desired to gather your children together as a hen gathers her brood under her wings, and you were not willing!”</em>
 
-Luke 15:8-10 God as a woman looking for her lost coin
+<strong>Luke 15:8-10 God as a woman looking for her lost coin</strong>
 
-Jesus: “Or what woman having ten silver coins, is she loses one of them, does not light a lamp, sweep the house, and search carefully until she finds it? When she has found it, she calls together her friends and neighbors saying, ‘Rejoice with me, for I have found the coin that I had lost.’ Just so, I tell you, there is joy in the presence of the angels of God over one sinner who repents.”
+Jesus: <em>“Or what woman having ten silver coins, is she loses one of them, does not light a lamp, sweep the house, and search carefully until she finds it? When she has found it, she calls together her friends and neighbors saying, ‘Rejoice with me, for I have found the coin that I had lost.’ Just so, I tell you, there is joy in the presence of the angels of God over one sinner who repents.”</em>
 
 christir.org

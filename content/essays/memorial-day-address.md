@@ -1,17 +1,16 @@
 ---
 author: Virgil Warren
 categories:
-- Topics
+- Essays
 - MINISTRY
 - Sermons
 - Memorial Day Messages
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: MEMORIAL DAY ADDRESS
 weight: 999
 ---
 
-MEMORIAL DAY ADDRESS
 
 The saying goes, “The future of an event belongs to the event.” Let me explain. When something happens, it does not just happen disconnected from what is around it. Out of it flows what it leads to. That fact opens up a way to measure the importance of the occurrence. How long do its effects last? How many people does it impact? How much capacity does it have for its consequences to grow as time goes on?
 
@@ -28,5 +27,6 @@ That pattern applies to the “honored dead” who lie here and to what they too
 “The future of a victory belongs to that victory.”
 
 It is for us to have gratitude for the achievements of bygone days. But more importantly, it is for us to muster resolve to maintain and grow what has been handed to us.
+
 
 52818											      christir.org

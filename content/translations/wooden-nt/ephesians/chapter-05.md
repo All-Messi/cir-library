@@ -9,7 +9,7 @@ type: chapter
 weight: 5
 ---
 
-## Ephesians Chapter **5**
+## Ephesians Chapter 5
 
 <span class="verse" id="v1"><strong><sup>1</sup></strong>So be imitators of-[the] God as beloved children, <strong><sup>2</sup></strong>and walk in love even-as also [the] Christ loved you and gave himself for you (as an) offering and sacrifice to-[the] God for (a) sweet fragrance. <strong><sup>3</sup></strong>Let┘sexaul-immorality and every impurity or greed not-even└be-named among you, even-as is-appropriate for-saints. <strong><sup>4</sup></strong>And(Let there be no) filthiness and foolish-talk or vulgar-talking, which-things are not fitting, but rather thanksgiving. <strong><sup>5</sup></strong>For know this for-sure that every sexually-immoral or impure or covetous (person), which is idolatry, does┘not└have (an) inheritance in the kingdom of-[the] Christ and God.</span>
 

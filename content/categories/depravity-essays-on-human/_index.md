@@ -1,4 +1,4 @@
 ---
-title: DEPRAVITY, ESSAYS ON hUMAN
+title: DEPRAVITY, ESSAYS ON HUMAN
 weight: 999
 ---

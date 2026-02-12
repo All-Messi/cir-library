@@ -1,20 +1,23 @@
 ---
 author: Virgil Warren, PhD
 categories:
-- Topics
+- Essays
 - MINISTRY
 - Christian Ministry 101
-date: '2026-01-23'
+date: '2026-02-12'
 draft: false
 title: THE IMPACT OF INTERPERSONALISM ON
 weight: 999
 ---
 
-THE IMPACT OF INTERPERSONALISM ON
 
-THE METHODS AND MANNER OF MINISTRY
+<strong>THE METHODS AND MANNER OF MINISTRY</strong>
+
+
+
 
 I.	In Anticipation of Ministry
+
 
 Ministry to other people proceeds out of a relationship to God and then out of relationship to them. Vertical and horizontal interpersonal relationship reinforce each other.
 
@@ -24,11 +27,14 @@ The motives of ministry are love more than duty. When we minister out of love, w
 
 There are always certain jobs in ministry that you do not look forward to doing. If you take the attitude that you care about these people, you will have better luck overriding your impulses/aversion against doing what needs to be done. You will unconsciously communicate an attitude toward the persons involved that will disarm them in response to you. Love was a way of overcoming the fear of rejection: “Perfect love casts out fear.”
 
+
+
 II.		Practice of Ministry
+
 
 Personal involvement contrasts with professional services and procedures as the basic feel for ministry. Otherwise ministry can turn into something like being checked out at the grocery store. You cannot minister to people “from a distance.”
 
-Ministry includes demonstration of the product you are trying to get people to “buy into.” So to speak, people experience God by experiencing us (cp. John 14).
+Ministry includes demonstration of the product you are trying to get people to “buy into.” So to speak, people experience God by experiencing us (cp. John <strong><sup>14</sup></strong>).
 
 The “connectors” in ministry are interpersonal influence rather than legal authority on conceptual transmission (words). Ministry goes on in the personal medium rather than the legal profession authoritarian one. Attitude toward ministry is as important as anything in it. Behavioral communication is more than non-personal skills, awareness of methods and procedures.
 
@@ -52,11 +58,14 @@ One strategy for evangelism is to build new relationships with non-Christians as
 
 Ministry is a whole-person process. It is whole persons impacting whole persons with all the individual factors that that involves on both sides of the relationship. Persuasion/changing people is best brought about by appeal to emotion, will, and mind, not just mind or will or emotion.
 
+
+
 III. 	Consequences of Ministry
+
 
 Ministry is for personal and interpersonal ends. It is for re-establishing personal relationship with God and for growing people into behaving more maturely to enhance that relationship.
 
-The purpose of ministry is conversion before condemnation (John 3:16). Our approach to ministry will not be aimed at producing guilt (guilt manipulation) so much as inviting people to start over.
+The purpose of ministry is conversion before condemnation (John<strong> 3</strong>:16). Our approach to ministry will not be aimed at producing guilt (guilt manipulation) so much as inviting people to start over.
 
 Ministry has as its goal changing people to the point where they operate from internal initiative.
 
