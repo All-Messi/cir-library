@@ -923,9 +923,10 @@ blockquote {
 }
 
 .btn-secondary:hover {
-    background: var(--secondary-color);
+    background: #444444;
     color: white;
     border-bottom: none;
+    border-color: #444444;
 }
 
 .btn-large {
@@ -2010,6 +2011,45 @@ strong em .verse-num {
     background: transparent;
     border: none;
     overflow-x: auto;
+}
+
+/* Genealogy HTML Tables (v4 - proper column alignment) */
+.genealogy-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1rem 0;
+    table-layout: fixed;
+}
+
+.genealogy-table td.genealogy-cell {
+    padding: 0.3rem 0.5rem;
+    vertical-align: top;
+    line-height: 1.7;
+    text-align: left;
+}
+
+.genealogy-table sup {
+    font-size: 0.7em;
+    color: #666;
+    font-weight: normal;
+    vertical-align: super;
+    line-height: 0;
+    margin-right: 1px;
+}
+
+/* Ensure gospel colors work inside table cells */
+.genealogy-table .gospel-mt { color: #000000 !important; }
+.genealogy-table .gospel-mk { color: #215868 !important; }
+.genealogy-table .gospel-lk { color: #7030A0 !important; }
+.genealogy-table .gospel-jn { color: #C00000 !important; }
+
+@media (max-width: 768px) {
+    .genealogy-table {
+        font-size: 0.85em;
+    }
+    .genealogy-table td.genealogy-cell {
+        padding: 0.2rem 0.3rem;
+    }
 }
 
 /* ==========================================

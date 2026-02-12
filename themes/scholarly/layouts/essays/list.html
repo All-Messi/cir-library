@@ -1,84 +1,291 @@
 {{ define "main" }}
-<div class="essays-list">
+<div class="essays-page">
     <header class="section-header">
         <h1>Essays</h1>
         <p>Theological writings organized by topic and category</p>
     </header>
 
-    <div class="categories-preview">
-        <h3>Categories</h3>
-        <div class="category-tags">
+    <!-- Category Filter - Compact Design -->
+    <div class="category-filter">
+        <div class="filter-header">
+            <h3>Browse by Category</h3>
+            <span class="filter-count">{{ len .Site.Taxonomies.categories }} categories</span>
+        </div>
+        <div class="category-tags-wrapper">
             {{ $count := 0 }}
             {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
-            {{ if lt $count 20 }}
-            <a href="{{ "categories/" | absURL }}{{ $name | urlize }}/" class="category-tag">{{ $name | lower | title }} ({{ len $taxonomy }})</a>
+            {{ if lt $count 18 }}
+            <a href="{{ "categories/" | absURL }}{{ $name | urlize }}/" class="category-tag">
+                {{ $name | lower | title }} <span class="tag-count">{{ len $taxonomy }}</span>
+            </a>
             {{ $count = add $count 1 }}
             {{ end }}
             {{ end }}
         </div>
-        <a href="{{ "categories/" | absURL }}" class="btn-secondary">Browse All Categories →</a>
+        <div class="filter-footer">
+            <a href="{{ "categories/" | absURL }}" class="view-all-link">View All Categories →</a>
+        </div>
     </div>
 
-    <div class="essays-grid">
-        {{ range .Pages }}
-        <article class="essay-card">
-            <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-            {{ if .Params.categories }}
-            <div class="card-meta">
-                {{ range .Params.categories }}
-                <a href="{{ "categories/" | absURL }}{{ . | urlize }}/" class="category-badge">{{ . }}</a>
+    <!-- Essays Grid -->
+    <div class="essays-section">
+        <h2 class="section-title">Recent Essays</h2>
+        <div class="essays-grid">
+            {{ range .Pages }}
+            <article class="essay-card">
+                <h3 class="essay-title">
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                </h3>
+                
+                {{ if .Params.categories }}
+                <div class="essay-categories">
+                    {{ range first 2 .Params.categories }}
+                    <span class="essay-category-tag">{{ . }}</span>
+                    {{ end }}
+                </div>
                 {{ end }}
-            </div>
+                
+                {{ if .Summary }}
+                <p class="essay-excerpt">{{ .Summary | plainify | truncate 100 }}</p>
+                {{ end }}
+                
+                <a href="{{ .Permalink }}" class="read-link">Read Essay →</a>
+            </article>
             {{ end }}
-            {{ if .Summary }}
-            <p class="excerpt">{{ .Summary | truncate 200 }}</p>
-            {{ end }}
-            <a href="{{ .Permalink }}" class="read-more">Read Essay →</a>
-        </article>
-        {{ end }}
+        </div>
     </div>
 </div>
 
 <style>
-.categories-preview {
-    background: #f8f9fa;
-    padding: 1.5rem;
-    border-radius: 8px;
-    margin-bottom: 2rem;
+/* ============================================
+   ESSAYS PAGE
+   ============================================ */
+.essays-page {
+    max-width: 1200px;
+    margin: 0 auto;
 }
-.categories-preview h3 {
-    margin-top: 0;
+
+.section-header {
+    text-align: center;
+    margin-bottom: 3rem;
+    padding: 2rem 0;
+    border-bottom: 1px solid var(--color-border, #e5e5e5);
+}
+
+.section-header h1 {
+    font-family: var(--font-display, 'Playfair Display', Georgia, serif);
+    font-size: 2.25rem;
+    font-weight: 600;
+    color: var(--color-primary, #000);
+    margin: 0 0 0.75rem;
+}
+
+.section-header p {
+    font-size: 1.05rem;
+    color: var(--color-text-secondary, #555);
+    margin: 0;
+}
+
+/* ============================================
+   CATEGORY FILTER - Compact Tag Style
+   ============================================ */
+.category-filter {
+    background: var(--color-bg-subtle, #f9f9f9);
+    border: 1px solid var(--color-border, #e5e5e5);
+    border-radius: 12px;
+    padding: 1.75rem;
+    margin-bottom: 3rem;
+}
+
+.filter-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
     margin-bottom: 1rem;
+    flex-wrap: wrap;
+    gap: 0.5rem;
 }
-.category-tags {
+
+.filter-header h3 {
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: var(--color-primary, #000);
+    margin: 0;
+}
+
+.filter-count {
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.8rem;
+    color: var(--color-text-muted, #888);
+}
+
+/* Compact category tags */
+.category-tags-wrapper {
     display: flex;
     flex-wrap: wrap;
     gap: 0.5rem;
     margin-bottom: 1rem;
-    max-height: 100px;
-    overflow: hidden;
 }
+
 .category-tag {
-    background: white;
-    padding: 0.25rem 0.75rem;
-    border-radius: 4px;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    padding: 0.35rem 0.75rem;
+    background: var(--color-bg, #fff);
+    border: 1px solid var(--color-border-light, #eeeeee);
+    border-radius: 6px;
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: var(--color-text, #1a1a1a);
     text-decoration: none;
-    font-size: 0.9rem;
-    border: 1px solid #ddd;
-    color: var(--primary-color);
+    transition: all 0.2s ease;
+    white-space: nowrap;
 }
+
 .category-tag:hover {
-    background: var(--primary-color);
-    color: white;
+    background: var(--color-primary, #000);
+    border-color: var(--color-primary, #000);
+    color: #fff;
 }
-.category-badge {
+
+.tag-count {
+    font-weight: 600;
+    color: var(--color-text-muted, #888);
+    font-size: 0.8rem;
+}
+
+.category-tag:hover .tag-count {
+    color: rgba(255,255,255,0.8);
+}
+
+.filter-footer {
+    text-align: center;
+    padding-top: 1rem;
+    border-top: 1px solid var(--color-border-light, #eeeeee);
+}
+
+.view-all-link {
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--color-primary, #000);
     text-decoration: none;
-    transition: all 0.2s;
+    transition: color 0.2s ease;
 }
-.category-badge:hover {
-    background: var(--secondary-color);
-    color: white;
-    border-color: var(--secondary-color);
+
+.view-all-link:hover {
+    color: var(--color-accent, #9c7c38);
+}
+
+/* ============================================
+   ESSAYS GRID
+   ============================================ */
+.essays-section {
+    margin-top: 3rem;
+}
+
+.section-title {
+    font-family: var(--font-display, 'Playfair Display', Georgia, serif);
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: var(--color-primary, #000);
+    margin: 0 0 1.5rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 2px solid var(--color-border, #e5e5e5);
+}
+
+.essays-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+    gap: 1.5rem;
+}
+
+.essay-card {
+    background: var(--color-bg, #fff);
+    border: 1px solid var(--color-border, #e5e5e5);
+    border-radius: 12px;
+    padding: 1.75rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    transition: all 0.2s ease;
+}
+
+.essay-card:hover {
+    border-color: var(--color-accent, #9c7c38);
+    box-shadow: 0 4px 16px rgba(0,0,0,0.06);
+    transform: translateY(-2px);
+}
+
+.essay-title {
+    font-family: var(--font-display, 'Playfair Display', Georgia, serif);
+    font-size: 1.25rem;
+    font-weight: 600;
+    line-height: 1.3;
+    margin: 0;
+}
+
+.essay-title a {
+    color: var(--color-primary, #000);
+    text-decoration: none;
+}
+
+.essay-title a:hover {
+    color: var(--color-accent, #9c7c38);
+}
+
+.essay-categories {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.essay-category-tag {
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 0.25rem 0.65rem;
+    background: var(--color-bg-subtle, #f9f9f9);
+    color: var(--color-text-secondary, #555);
+    border: 1px solid var(--color-border-light, #eeeeee);
+    border-radius: 12px;
+}
+
+.essay-excerpt {
+    font-size: 0.9rem;
+    line-height: 1.5;
+    color: var(--color-text-secondary, #555);
+    margin: 0;
+}
+
+.read-link {
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--color-accent, #9c7c38);
+    text-decoration: none;
+    margin-top: auto;
+    transition: all 0.2s ease;
+}
+
+.read-link:hover {
+    color: var(--color-primary, #000);
+}
+
+/* ============================================
+   RESPONSIVE
+   ============================================ */
+@media (max-width: 768px) {
+    .essays-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .section-header h1 {
+        font-size: 1.75rem;
+    }
 }
 </style>
 {{ end }}

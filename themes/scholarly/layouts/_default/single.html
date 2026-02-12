@@ -1,27 +1,78 @@
 {{ define "main" }}
-<article class="single-page">
-    <header>
+<article class="essay">
+    <header class="essay-header">
         <h1>{{ .Title }}</h1>
         {{ if .Params.author }}
-        <p class="author">by {{ .Params.author }}</p>
+        <p class="essay-author">by {{ .Params.author }}</p>
+        {{ end }}
+        
+        {{/* Badges for substantial essays, language levels, etc. */}}
+        {{ if or .Params.substantial .Params.level .Params.lang }}
+        <div class="essay-badges">
+            {{ if .Params.substantial }}
+            <span class="substantial-badge">Substantial</span>
+            {{ end }}
+            {{ if .Params.level }}
+            <span class="level-badge">{{ .Params.level }}</span>
+            {{ end }}
+            {{ if .Params.lang }}
+            <span class="lang-badge">{{ .Params.lang }}</span>
+            {{ end }}
+        </div>
+        {{ end }}
+        
+        {{/* Categories */}}
+        {{ if .Params.categories }}
+        <div class="essay-categories">
+            {{ range .Params.categories }}
+            <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}/" class="category-badge">{{ . | title }}</a>
+            {{ end }}
+        </div>
         {{ end }}
     </header>
-    
-    <div class="content">
-        {{ .Content }}
-    </div>
-    
-    {{/* Related content / See Also */}}
-    {{ partial "see-also.html" . }}
-    
-    {{/* Categories */}}
-    {{ if .Params.categories }}
-    <div class="categories">
-        <span>Categories:</span>
-        {{ range .Params.categories }}
-            <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}/" class="category-tag">{{ . }}</a>
+
+    <div class="essay-content">
+        {{/* Table of Contents - only if essay has headings */}}
+        {{ if .TableOfContents }}
+        <aside class="toc">
+            <h3>On This Page</h3>
+            {{ .TableOfContents }}
+        </aside>
         {{ end }}
+        
+        <div class="content-body">
+            {{ .Content }}
+        </div>
+    </div>
+
+    {{/* Scripture References - if available */}}
+    {{ if .Params.scripture_refs }}
+    <div class="scripture-refs">
+        <h3>Scripture References</h3>
+        <ul>
+        {{ range .Params.scripture_refs }}
+            <li>{{ . }}</li>
+        {{ end }}
+        </ul>
     </div>
     {{ end }}
+
+    {{/* See Also / Related Content */}}
+    {{ partial "see-also.html" . }}
+    
+    <footer class="essay-footer">
+        {{/* Citation */}}
+        <div class="citation">
+            <h4>How to Cite</h4>
+            <p class="citation-text">
+                {{ if .Params.author }}{{ .Params.author }}{{ else }}Warren, Virgil{{ end }}.
+                "{{ .Title }}."
+                <em>Christian Internet Resources</em>.
+                {{ if .Date }}{{ .Date.Format "2006" }}{{ end }}.
+                {{ .Permalink }}
+            </p>
+            <p class="citation-note">This work is made freely available for study and research.</p>
+        </div>
+    </footer>
 </article>
 {{ end }}

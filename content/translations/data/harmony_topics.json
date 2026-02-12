@@ -1,0 +1,962 @@
+[
+  {
+    "title": "Luke\u2019s Prologue",
+    "ref": "Lk 1:1-4",
+    "url": "section-01/#luke-s-prologue"
+  },
+  {
+    "title": "The Genealogy of Jesus According to Matthew",
+    "ref": "Mt 1:1-17; cp. Lk 3:23b-38",
+    "url": "section-01/#the-genealogy-of-jesus-according-to-matthew"
+  },
+  {
+    "title": "Incarnation of the Messiah",
+    "ref": "Jn 1:1-18",
+    "url": "section-01/#incarnation-of-the-messiah"
+  },
+  {
+    "title": "The Birth of John Announced",
+    "ref": "Lk 1:5-25",
+    "url": "section-02/#the-birth-of-john-announced"
+  },
+  {
+    "title": "The Birth of Jesus Announced",
+    "ref": "Lk 1:26-38",
+    "url": "section-02/#the-birth-of-jesus-announced"
+  },
+  {
+    "title": "Mary Visits Elizabeth",
+    "ref": "Lk 1:39-56",
+    "url": "section-02/#mary-visits-elizabeth"
+  },
+  {
+    "title": "Jesus\u2019 Birth Announced to Joseph",
+    "ref": "Mt 1:18-25",
+    "url": "section-02/#jesus-birth-announced-to-joseph"
+  },
+  {
+    "title": "The Birth and Naming of John",
+    "ref": "Lk 1:57-80",
+    "url": "section-03/#the-birth-and-naming-of-john"
+  },
+  {
+    "title": "The Birth of Jesus",
+    "ref": "Mt 2:1a; Lk 2:1-7",
+    "url": "section-04/#the-birth-of-jesus"
+  },
+  {
+    "title": "The Angels and the Shepherds",
+    "ref": "Lk 2:8-20",
+    "url": "section-04/#the-angels-and-the-shepherds"
+  },
+  {
+    "title": "and Presentation in the Temple",
+    "ref": "Lk 2:21-39",
+    "url": "section-04/#and-presentation-in-the-temple"
+  },
+  {
+    "title": "The Visit of the Magi",
+    "ref": "Mt 2:1-12; Lk 2:40",
+    "url": "section-04/#the-visit-of-the-magi"
+  },
+  {
+    "title": "the Slaughter of the Infants",
+    "ref": "Mt 2:13-18",
+    "url": "section-04/#the-slaughter-of-the-infants"
+  },
+  {
+    "title": "Settlement in Nazareth",
+    "ref": "Mt 2:19-23; Lk 2:40",
+    "url": "section-04/#settlement-in-nazareth"
+  },
+  {
+    "title": "The Youth of Jesus",
+    "ref": "Lk 2:41-52",
+    "url": "section-05/#the-youth-of-jesus"
+  },
+  {
+    "title": "The Beginning of John\u2019s Ministry",
+    "ref": "Mt 3:1-6; Mk 1:1-6; Lk 3:1-6",
+    "url": "section-05/#the-beginning-of-john-s-ministry"
+  },
+  {
+    "title": "An Example of John\u2019s Preaching",
+    "ref": "Mt 3:7-12; Mk 1:7-8; Lk 3:7-18",
+    "url": "section-05/#an-example-of-john-s-preaching"
+  },
+  {
+    "title": "The Baptism of Jesus",
+    "ref": "Mt 3:13-17; Mk 1:9-11; Lk 3:21-22a",
+    "url": "section-05/#the-baptism-of-jesus"
+  },
+  {
+    "title": "to Luke",
+    "ref": "Lk 3:23-38; cp. Mt 1:1-17",
+    "url": "section-05/#to-luke"
+  },
+  {
+    "title": "The Temptation of Jesus",
+    "ref": "Mt 4:1-11; Mk 1:12-13; Lk 4:1-13",
+    "url": "section-06/#the-temptation-of-jesus"
+  },
+  {
+    "title": "John\u2019s Defense of His Ministry",
+    "ref": "Jn 1:19-28",
+    "url": "section-06/#john-s-defense-of-his-ministry"
+  },
+  {
+    "title": "the Messiah",
+    "ref": "Jn 1:29-34",
+    "url": "section-06/#the-messiah"
+  },
+  {
+    "title": "The First Disciples of Jesus",
+    "ref": "Jn 1:35-51",
+    "url": "section-07/#the-first-disciples-of-jesus"
+  },
+  {
+    "title": "The First Miracle\u2014at Cana",
+    "ref": "Jn 2:1-11",
+    "url": "section-07/#the-first-miracle-at-cana"
+  },
+  {
+    "title": "Visit to Capernaum",
+    "ref": "Jn 2:12",
+    "url": "section-07/#visit-to-capernaum"
+  },
+  {
+    "title": "The First Cleansing of the Temple",
+    "ref": "Jn 2:13-25",
+    "url": "section-07/#the-first-cleansing-of-the-temple"
+  },
+  {
+    "title": "Conversation with Nicodemus",
+    "ref": "Jn 3:1-21",
+    "url": "section-07/#conversation-with-nicodemus"
+  },
+  {
+    "title": "John\u2019s Waning Ministry at Aenon",
+    "ref": "Jn 3:22-36",
+    "url": "section-07/#john-s-waning-ministry-at-aenon"
+  },
+  {
+    "title": "The Woman at the Well",
+    "ref": "Jn 4:1-42",
+    "url": "section-08/#the-woman-at-the-well"
+  },
+  {
+    "title": "The Arrest of John the Baptist",
+    "ref": "Lk 3:19-20",
+    "url": "section-08/#the-arrest-of-john-the-baptist"
+  },
+  {
+    "title": "About the Galilean Ministry",
+    "ref": "Mt 4:12-17; Mk 1:14-15; Lk 4:14-15; Jn 4:43-45",
+    "url": "section-08/#about-the-galilean-ministry"
+  },
+  {
+    "title": "Healing the Official\u2019s Son",
+    "ref": "Jn 4:46-54",
+    "url": "section-08/#healing-the-official-s-son"
+  },
+  {
+    "title": "The First Rejection at Nazareth",
+    "ref": "Lk 4:16-30",
+    "url": "section-08/#the-first-rejection-at-nazareth"
+  },
+  {
+    "title": "Calling Four Fishermen",
+    "ref": "Mt 4:18-22; Mk 1:16-20; Lk 5:1-11",
+    "url": "section-08/#calling-four-fishermen"
+  },
+  {
+    "title": "Teaching and Miracles in Capernaum",
+    "ref": "Mt 8:14-17; Mk 1:21-34; Lk 4:31-41",
+    "url": "section-08/#teaching-and-miracles-in-capernaum"
+  },
+  {
+    "title": "The First General Tour of Galilee",
+    "ref": "Mt 4:23-25; Mk 1:35-39; Lk 4:42-44",
+    "url": "section-08/#the-first-general-tour-of-galilee"
+  },
+  {
+    "title": "The Sermon on the Mount",
+    "ref": "Mt 5:1-8:1; cp. Lk 6:17-49",
+    "url": "section-09/#the-sermon-on-the-mount"
+  },
+  {
+    "title": "Cleansing a Leper",
+    "ref": "Mt 8:2-4; Mk 1:40-45; Lk 5:12-16",
+    "url": "section-10/#cleansing-a-leper"
+  },
+  {
+    "title": "Healing a Paralytic",
+    "ref": "Mt 9:1-8; Mk 2:1-12; Lk 5:17-26",
+    "url": "section-10/#healing-a-paralytic"
+  },
+  {
+    "title": "Controversy About Eating with Sinners",
+    "ref": "Mt 9:9-13; Mk 2:13-17; Lk 5:27-32",
+    "url": "section-10/#controversy-about-eating-with-sinners"
+  },
+  {
+    "title": "Question About Fasting",
+    "ref": "Mt 9:14-17; Mk 2:18-22; Lk 5:33-39",
+    "url": "section-10/#question-about-fasting"
+  },
+  {
+    "title": "at the Pool of Bethesda",
+    "ref": "Jn 5:1-47",
+    "url": "section-10/#at-the-pool-of-bethesda"
+  },
+  {
+    "title": "Breaking the Sabbath",
+    "ref": "Mt 12:1-8; Mk 2:23-28; Lk 2:1-5",
+    "url": "section-10/#breaking-the-sabbath"
+  },
+  {
+    "title": "Healing a Man with a Paralyzed Hand",
+    "ref": "Mt 12:9-14; Mk 3:1-6; Lk 6:6-11",
+    "url": "section-10/#healing-a-man-with-a-paralyzed-hand"
+  },
+  {
+    "title": "Jesus and the Multitudes",
+    "ref": "Mt 12:15-21; Mk 3:7-12",
+    "url": "section-10/#jesus-and-the-multitudes"
+  },
+  {
+    "title": "Mt (9:9) 10:2-4; Mk (2:14) 3:13-19; Lk 6:12-16; Jn (1:42; 6:71) 21:2, 15",
+    "ref": "9:9",
+    "url": "section-11/#mt-9-9-10-2-4-mk-2-14-3-13-19-lk-6-12-16-jn-1-42-6-71-21-2-15"
+  },
+  {
+    "title": "Sermon on the Level Place",
+    "ref": "Lk 6:17-49",
+    "url": "section-11/#sermon-on-the-level-place"
+  },
+  {
+    "title": "Healing the Centurion\u2019s Servant",
+    "ref": "Mt 8:5-13; Lk 7:1-10",
+    "url": "section-12/#healing-the-centurion-s-servant"
+  },
+  {
+    "title": "Raising the Widow of Nain\u2019s Son",
+    "ref": "Lk 7:11-17",
+    "url": "section-12/#raising-the-widow-of-nain-s-son"
+  },
+  {
+    "title": "Jesus\u2019 Comments on John",
+    "ref": "Mt 11:2-19; Lk 7:18-35",
+    "url": "section-12/#jesus-comments-on-john"
+  },
+  {
+    "title": "The Great Invitation",
+    "ref": "Mt 11:20-30",
+    "url": "section-12/#the-great-invitation"
+  },
+  {
+    "title": "In the House of Simon the Pharisee",
+    "ref": "Lk 7:36-50",
+    "url": "section-12/#in-the-house-of-simon-the-pharisee"
+  },
+  {
+    "title": "Second Preaching Tour of Galilee",
+    "ref": "Lk 8:1-3",
+    "url": "section-13/#second-preaching-tour-of-galilee"
+  },
+  {
+    "title": "Was in League with the Devil",
+    "ref": "Mt 12:22-37; Mk 3:20-30",
+    "url": "section-13/#was-in-league-with-the-devil"
+  },
+  {
+    "title": "Scribes and Pharisees Demand a Sign",
+    "ref": "Mt 12:38-45",
+    "url": "section-13/#scribes-and-pharisees-demand-a-sign"
+  },
+  {
+    "title": "Interrupt His Ministry",
+    "ref": "Mt 12:46-50; Mk 3:31-35; Lk 8:19-21",
+    "url": "section-13/#interrupt-his-ministry"
+  },
+  {
+    "title": "The Sermon in Parables",
+    "ref": "Mt 13:1-35; Mk 4:1-34; Lk 8:4-18",
+    "url": "section-13/#the-sermon-in-parables"
+  },
+  {
+    "title": "Further Private Instruction in Parables",
+    "ref": "Mt 13:36-53",
+    "url": "section-13/#further-private-instruction-in-parables"
+  },
+  {
+    "title": "Conversations About Following Jesus",
+    "ref": "Mt 8:18-22; Lk 9:57-62",
+    "url": "section-14/#conversations-about-following-jesus"
+  },
+  {
+    "title": "Stilling of the Tempest",
+    "ref": "Mt 8:23-27; Mk 4:35-41; Lk 8:22-25",
+    "url": "section-14/#stilling-of-the-tempest"
+  },
+  {
+    "title": "Healing the Gadarene Demoniac",
+    "ref": "Mt 8:28-34; Mk 5:1-20; Lk 8:26-39",
+    "url": "section-14/#healing-the-gadarene-demoniac"
+  },
+  {
+    "title": "Healing a Woman from Chronic Hemorrhaging",
+    "ref": "Mt 9:18-26; Mk 5:21-43; Lk 8:40-56",
+    "url": "section-14/#healing-a-woman-from-chronic-hemorrhaging"
+  },
+  {
+    "title": "and a Mute Demoniac",
+    "ref": "Mt 9:27-34",
+    "url": "section-14/#and-a-mute-demoniac"
+  },
+  {
+    "title": "Last Visit to Nazareth",
+    "ref": "Mt 13:54-58; Mk 6:1-6",
+    "url": "section-14/#last-visit-to-nazareth"
+  },
+  {
+    "title": "The Mission of the Twelve",
+    "ref": "Mt 9:35-38",
+    "url": "section-14/#the-mission-of-the-twelve"
+  },
+  {
+    "title": "Jesus\u2019 Third Tour of Galilee",
+    "ref": "Mt 10:1, 5-11:1; Mk 6:7-13; Lk 9:1-6",
+    "url": "section-14/#jesus-third-tour-of-galilee"
+  },
+  {
+    "title": "Confusing John the Baptist and Jesus",
+    "ref": "Mt 14:1-12; Mk 6:14-29; Lk 9:7-9",
+    "url": "section-14/#confusing-john-the-baptist-and-jesus"
+  },
+  {
+    "title": "Feeding the Five Thousand",
+    "ref": "Mt 14:13-21; Mk 6:30-44; Lk 9:10-17; Jn 6:1-14",
+    "url": "section-15/#feeding-the-five-thousand"
+  },
+  {
+    "title": "Jesus Walking on the Water",
+    "ref": "Mt 14:22-43; Mk 6:45-52; Jn 6:15b-21",
+    "url": "section-15/#jesus-walking-on-the-water"
+  },
+  {
+    "title": "Miracles at Gennesaret",
+    "ref": "Mt 14:34-36; Mk 6:53-56",
+    "url": "section-15/#miracles-at-gennesaret"
+  },
+  {
+    "title": "Political Messiah",
+    "ref": "Jn 6:15a, 22-71",
+    "url": "section-15/#political-messiah"
+  },
+  {
+    "title": "About Traditions",
+    "ref": "Mt 15:1-20; Mk 7:1-23; Jn 7:1",
+    "url": "section-16/#about-traditions"
+  },
+  {
+    "title": "Healing the Syrophoenician Woman\u2019s Daughter",
+    "ref": "Mt 15:21-28; Mk 7:24-30",
+    "url": "section-16/#healing-the-syrophoenician-woman-s-daughter"
+  },
+  {
+    "title": "Feeding the Four Thousand",
+    "ref": "Mt 15:29-39; Mk 7:31-8:9",
+    "url": "section-16/#feeding-the-four-thousand"
+  },
+  {
+    "title": "Demand for a Sign from the Sky",
+    "ref": "Mt 16:1-4; Mk 8:10-13",
+    "url": "section-16/#demand-for-a-sign-from-the-sky"
+  },
+  {
+    "title": "Warning to the Disciples",
+    "ref": "Mt 16:5-12; Mk 8:14-26",
+    "url": "section-16/#warning-to-the-disciples"
+  },
+  {
+    "title": "Peter\u2019s Great Confession",
+    "ref": "Mt 16:13-20; Mk 8:27-30; Lk 9:18-21",
+    "url": "section-17/#peter-s-great-confession"
+  },
+  {
+    "title": "The First Prediction of Christ\u2019s Death",
+    "ref": "Mt 16:21-28; Mk 8:31-9:1; Lk 9:22-27",
+    "url": "section-17/#the-first-prediction-of-christ-s-death"
+  },
+  {
+    "title": "The Transfiguration",
+    "ref": "Mt 17:1-8; Mk 9:2-8 Lk 9:28-36a",
+    "url": "section-17/#the-transfiguration"
+  },
+  {
+    "title": "Discussing the Vision",
+    "ref": "Mt 17:9-13; Mk 9:9-13; Lk 9:36b",
+    "url": "section-17/#discussing-the-vision"
+  },
+  {
+    "title": "Healing the Demoniac Boy",
+    "ref": "Mt 17:14-20-[[21]]; Mk 9:14-29; Lk 9:37-43a",
+    "url": "section-17/#healing-the-demoniac-boy"
+  },
+  {
+    "title": "Third Prediction of His Death",
+    "ref": "Mt 17:22-23; Mk 9:30-32; Lk 9:443b-45",
+    "url": "section-17/#third-prediction-of-his-death"
+  },
+  {
+    "title": "Jesus and the Temple Tax",
+    "ref": "Mt 17:24-27",
+    "url": "section-18/#jesus-and-the-temple-tax"
+  },
+  {
+    "title": "The Question About Stumbling Blocks",
+    "ref": "Mt 18:1-14; Mk 9:33-37, 42-50",
+    "url": "section-18/#the-question-about-stumbling-blocks"
+  },
+  {
+    "title": "The Unknown Exorcist",
+    "ref": "Mk 9:38-41; Lk 9:49-50",
+    "url": "section-18/#the-unknown-exorcist"
+  },
+  {
+    "title": "Mistreatment and Forgiveness",
+    "ref": "Mt 18:15-35",
+    "url": "section-18/#mistreatment-and-forgiveness"
+  },
+  {
+    "title": "Jesus and His Unbelieving Brothers",
+    "ref": "Jn 7:2-9",
+    "url": "section-18/#jesus-and-his-unbelieving-brothers"
+  },
+  {
+    "title": "Private Journey to Jerusalem Through Samaria",
+    "ref": "Lk 9:51-56",
+    "url": "section-18/#private-journey-to-jerusalem-through-samaria"
+  },
+  {
+    "title": "Jesus at the Feast of Tabernacles",
+    "ref": "Jn 7:10-52-[[53]]",
+    "url": "section-19/#jesus-at-the-feast-of-tabernacles"
+  },
+  {
+    "title": "Woman Taken in Adultery",
+    "ref": "[[Jn 8:1-11]]",
+    "url": "section-19/#woman-taken-in-adultery"
+  },
+  {
+    "title": "Sermon on the Light of the World",
+    "ref": "Jn 8:12-59",
+    "url": "section-19/#sermon-on-the-light-of-the-world"
+  },
+  {
+    "title": "Healing the Man Born Blind",
+    "ref": "Jn 9:1-41",
+    "url": "section-19/#healing-the-man-born-blind"
+  },
+  {
+    "title": "Sermon on the Good Shepherd",
+    "ref": "Jn 10:1-21",
+    "url": "section-19/#sermon-on-the-good-shepherd"
+  },
+  {
+    "title": "The Mission of the Seventy",
+    "ref": "Lk 10:1-24",
+    "url": "section-20/#the-mission-of-the-seventy"
+  },
+  {
+    "title": "The Parable of the Good Samaritan",
+    "ref": "Lk 10:25-37",
+    "url": "section-20/#the-parable-of-the-good-samaritan"
+  },
+  {
+    "title": "Jesus with Mary and Martha",
+    "ref": "Lk 10:38-42",
+    "url": "section-20/#jesus-with-mary-and-martha"
+  },
+  {
+    "title": "Discourse on Prayer",
+    "ref": "Lk 11:1-13",
+    "url": "section-20/#discourse-on-prayer"
+  },
+  {
+    "title": "Was in League with the Devil",
+    "ref": "Lk 11:14-36",
+    "url": "section-20/#was-in-league-with-the-devil"
+  },
+  {
+    "title": "Denouncing the Pharisees",
+    "ref": "Lk 11:37-54",
+    "url": "section-20/#denouncing-the-pharisees"
+  },
+  {
+    "title": "Disciples Warned Against Fearing Men",
+    "ref": "Lk 12:1-12",
+    "url": "section-20/#disciples-warned-against-fearing-men"
+  },
+  {
+    "title": "The Parable of the Rich Fool",
+    "ref": "Lk 12:13-21",
+    "url": "section-20/#the-parable-of-the-rich-fool"
+  },
+  {
+    "title": "Encouragement to Trust God",
+    "ref": "Lk 12:22-34",
+    "url": "section-20/#encouragement-to-trust-god"
+  },
+  {
+    "title": "Parable of the Waiting Servants",
+    "ref": "Lk 12:35\u201459",
+    "url": "section-20/#parable-of-the-waiting-servants"
+  },
+  {
+    "title": "Discourse on Repentance",
+    "ref": "Lk 13:1-9",
+    "url": "section-20/#discourse-on-repentance"
+  },
+  {
+    "title": "and the Coming Kingdom",
+    "ref": "Lk 13:10-21",
+    "url": "section-20/#and-the-coming-kingdom"
+  },
+  {
+    "title": "Jesus at the Feast of Dedication",
+    "ref": "Jn 10:22-39",
+    "url": "section-21/#jesus-at-the-feast-of-dedication"
+  },
+  {
+    "title": "Retirement from Jerusalem to Perea",
+    "ref": "Jn 10:40-42",
+    "url": "section-21/#retirement-from-jerusalem-to-perea"
+  },
+  {
+    "title": "Discussions in Perea",
+    "ref": "Lk 13:22-35",
+    "url": "section-21/#discussions-in-perea"
+  },
+  {
+    "title": "Healing in a Pharisee\u2019s Home on the Sabbath",
+    "ref": "Lk 14:1-24",
+    "url": "section-21/#healing-in-a-pharisee-s-home-on-the-sabbath"
+  },
+  {
+    "title": "The Cost of Discipleship",
+    "ref": "Lk 14:25-35",
+    "url": "section-21/#the-cost-of-discipleship"
+  },
+  {
+    "title": "Parable of the Lost Sheep",
+    "ref": "Lk 15:1-7",
+    "url": "section-21/#parable-of-the-lost-sheep"
+  },
+  {
+    "title": "Parable of the Lost Coin",
+    "ref": "Lk 15:8-10",
+    "url": "section-21/#parable-of-the-lost-coin"
+  },
+  {
+    "title": "Parable of the Prodigal Son",
+    "ref": "Lk 15:11-32",
+    "url": "section-21/#parable-of-the-prodigal-son"
+  },
+  {
+    "title": "Parable of the Unjust Steward",
+    "ref": "Lk 16:1-13",
+    "url": "section-21/#parable-of-the-unjust-steward"
+  },
+  {
+    "title": "The Law and God\u2019s Kingdom",
+    "ref": "Lk 16:14-18",
+    "url": "section-21/#the-law-and-god-s-kingdom"
+  },
+  {
+    "title": "Parable of the Rich Man and Lazarus",
+    "ref": "Lk 16:19-31",
+    "url": "section-21/#parable-of-the-rich-man-and-lazarus"
+  },
+  {
+    "title": "Parable of the Unprofitable Servant",
+    "ref": "Lk 17:1-10",
+    "url": "section-21/#parable-of-the-unprofitable-servant"
+  },
+  {
+    "title": "Raising Lazarus",
+    "ref": "Jn 11:1-44",
+    "url": "section-22/#raising-lazarus"
+  },
+  {
+    "title": "Plots to Kill Jesus",
+    "ref": "Jn 11:45-54",
+    "url": "section-22/#plots-to-kill-jesus"
+  },
+  {
+    "title": "Healing Ten Lepers",
+    "ref": "Lk 17:11-19",
+    "url": "section-22/#healing-ten-lepers"
+  },
+  {
+    "title": "The Time of the Coming of the Kingdom",
+    "ref": "Lk 17:20-37",
+    "url": "section-22/#the-time-of-the-coming-of-the-kingdom"
+  },
+  {
+    "title": "Parable of the Unjust Judge",
+    "ref": "Lk 18:1-8",
+    "url": "section-22/#parable-of-the-unjust-judge"
+  },
+  {
+    "title": "and the Publican",
+    "ref": "Lk 18:9-14",
+    "url": "section-22/#and-the-publican"
+  },
+  {
+    "title": "Teaching About Divorce",
+    "ref": "Mt 19:1-12; Mk 10:1-12",
+    "url": "section-23/#teaching-about-divorce"
+  },
+  {
+    "title": "Jesus and the Little Children",
+    "ref": "Mt 19:13-15; Mk 10:13-16; Lk 18:15-17",
+    "url": "section-23/#jesus-and-the-little-children"
+  },
+  {
+    "title": "The Rich Young Ruler",
+    "ref": "Mt 19:16-22; Mk 10:17-22; Lk 18:18-23",
+    "url": "section-23/#the-rich-young-ruler"
+  },
+  {
+    "title": "The Peril of Wealth",
+    "ref": "Mt 19:23-30; Mk 10:23-31; Lk 18:24-30",
+    "url": "section-23/#the-peril-of-wealth"
+  },
+  {
+    "title": "Parable of Laborers in a Vineyard",
+    "ref": "Mt 20:1-16",
+    "url": "section-23/#parable-of-laborers-in-a-vineyard"
+  },
+  {
+    "title": "Another Prediction of His Death",
+    "ref": "Mt 20:17-19; Mk 10:32-34; Lk 18:31-34",
+    "url": "section-23/#another-prediction-of-his-death"
+  },
+  {
+    "title": "James and John\u2019s Request for Rank",
+    "ref": "Mt 20:20-28; Mk 10:35-45",
+    "url": "section-23/#james-and-john-s-request-for-rank"
+  },
+  {
+    "title": "Healing Two Blind Men at Jericho",
+    "ref": "Mt 20:29-34; Mk 10:46-52; Lk 18:35-43",
+    "url": "section-23/#healing-two-blind-men-at-jericho"
+  },
+  {
+    "title": "Jesus and Zacchaeus",
+    "ref": "Lk 19:1-10",
+    "url": "section-23/#jesus-and-zacchaeus"
+  },
+  {
+    "title": "Parable of the Pounds",
+    "ref": "Lk 19:11-29",
+    "url": "section-23/#parable-of-the-pounds"
+  },
+  {
+    "title": "Jesus\u2019 Arrival in Bethany",
+    "ref": "Jn 11:55-12:1. 9-11",
+    "url": "section-24/#jesus-arrival-in-bethany"
+  },
+  {
+    "title": "The Anointing by Mary",
+    "ref": "Mt 26:6-13; Mk 14:3-9; Jn 12:1b-8",
+    "url": "section-24/#the-anointing-by-mary"
+  },
+  {
+    "title": "The Triumphal Entry",
+    "ref": "Mt 21:1-11; Mk 11:1-11; Lk 19:29-44; Jn 12:12-19",
+    "url": "section-24/#the-triumphal-entry"
+  },
+  {
+    "title": "Second Cleansing of the Temple",
+    "ref": "Mt 21:18-19, 12-17; Mk 11:12-19; Lk 19:45-48",
+    "url": "section-24/#second-cleansing-of-the-temple"
+  },
+  {
+    "title": "Discussing the Shriveled Fig Tree",
+    "ref": "Mt 21:20-22; Mk 11:19-25; Lk 21:37-38",
+    "url": "section-24/#discussing-the-shriveled-fig-tree"
+  },
+  {
+    "title": "Jesus\u2019 Authority Challenged",
+    "ref": "Mt 21:23-27; Mk 11:27-33; Lk 20:1-8",
+    "url": "section-25/#jesus-authority-challenged"
+  },
+  {
+    "title": "Parable of the Two Sons",
+    "ref": "Mt 21:28-32; Mk 12:1a",
+    "url": "section-25/#parable-of-the-two-sons"
+  },
+  {
+    "title": "Parable of the Vineyard",
+    "ref": "Mt 21:33-46; Mk 12:1b-12; Lk 20:9-19",
+    "url": "section-25/#parable-of-the-vineyard"
+  },
+  {
+    "title": "Parable of the Wedding Garment",
+    "ref": "Mt 22:1-14",
+    "url": "section-25/#parable-of-the-wedding-garment"
+  },
+  {
+    "title": "Question About Tribute to Caesar",
+    "ref": "Mt 22:15-22; Mk 12:13-17; Lk 20:20-26",
+    "url": "section-25/#question-about-tribute-to-caesar"
+  },
+  {
+    "title": "The Question About Resurrection",
+    "ref": "Mt 22:23-33; Mk 12:18-27; Lk 20:27-40",
+    "url": "section-25/#the-question-about-resurrection"
+  },
+  {
+    "title": "Important Commandment",
+    "ref": "Mt 22:34-40; Mk 12:28-34",
+    "url": "section-25/#important-commandment"
+  },
+  {
+    "title": "Question About the Son of David",
+    "ref": "Mt 22:41-46; Mk 12:35-37; Lk 20:41-44",
+    "url": "section-25/#question-about-the-son-of-david"
+  },
+  {
+    "title": "Denunciation of the Pharisees",
+    "ref": "Mt 23:1-39; Mk 12:38-40; Lk 20:45-47",
+    "url": "section-25/#denunciation-of-the-pharisees"
+  },
+  {
+    "title": "The Widow\u2019s Mite",
+    "ref": "Mk 12:41-44; Lk 21:1-4",
+    "url": "section-25/#the-widow-s-mite"
+  },
+  {
+    "title": "Sermon on the Significance of Life and Death",
+    "ref": "Jn 12:20-50",
+    "url": "section-26/#sermon-on-the-significance-of-life-and-death"
+  },
+  {
+    "title": "The Olivet Discourse",
+    "ref": "Mt [10:17-22a] 24:1-51; Mk 13:1-36; Lk 21:5-36",
+    "url": "section-26/#the-olivet-discourse"
+  },
+  {
+    "title": "The Parable of the Ten Virgins",
+    "ref": "Mt 25:1-13",
+    "url": "section-26/#the-parable-of-the-ten-virgins"
+  },
+  {
+    "title": "The Parable of the Talents",
+    "ref": "Mt 25:14-30",
+    "url": "section-26/#the-parable-of-the-talents"
+  },
+  {
+    "title": "Discussion of the Final Judgment",
+    "ref": "Mt 25:31-46",
+    "url": "section-26/#discussion-of-the-final-judgment"
+  },
+  {
+    "title": "Fifth Prediction of Jesus\u2019 Death",
+    "ref": "Mt 26:1-5; Mk 14:1-2; Lk 22:1-2",
+    "url": "section-27/#fifth-prediction-of-jesus-death"
+  },
+  {
+    "title": "Judas\u2019 Plot to Betray Jesus",
+    "ref": "Mt 26:14-16; Mk 14:10-11; Lk 22:3-6",
+    "url": "section-27/#judas-plot-to-betray-jesus"
+  },
+  {
+    "title": "Preparation for the Passover Meal",
+    "ref": "Mt 26:17-19; Mk 14:12-16; Lk 22:7-13",
+    "url": "section-27/#preparation-for-the-passover-meal"
+  },
+  {
+    "title": "Another Argument About Rank",
+    "ref": "Mt 26:20; Mk 14:17; Lk 22:14-16, 24-30",
+    "url": "section-27/#another-argument-about-rank"
+  },
+  {
+    "title": "Jesus Washes the Disciples\u2019 Feet",
+    "ref": "Jn 13:1-20",
+    "url": "section-27/#jesus-washes-the-disciples-feet"
+  },
+  {
+    "title": "Judas Identified as the Traitor",
+    "ref": "Mt 26:21-25; Mk 14:18-21; Lk 22:21-23; Jn 13:21-30",
+    "url": "section-27/#judas-identified-as-the-traitor"
+  },
+  {
+    "title": "The Disciples Warned",
+    "ref": "Mt 26:31-34; Mk 14:27-31; Lk 22:31-38; Jn 13:31-38",
+    "url": "section-27/#the-disciples-warned"
+  },
+  {
+    "title": "The Lord\u2019s Supper Instituted",
+    "ref": "Mt 26:26-29; Mk 14:22-25; Lk 22:17-20; cp 1 Cor 11",
+    "url": "section-27/#the-lord-s-supper-instituted"
+  },
+  {
+    "title": "Jesus\u2019 Farewell Discourse",
+    "ref": "Jn 14:1-31",
+    "url": "section-27/#jesus-farewell-discourse"
+  },
+  {
+    "title": "The Parable of the Vine",
+    "ref": "Jn 15:1-27",
+    "url": "section-27/#the-parable-of-the-vine"
+  },
+  {
+    "title": "Further Solemn Instruction",
+    "ref": "Jn 16:1-33",
+    "url": "section-27/#further-solemn-instruction"
+  },
+  {
+    "title": "The High Priestly Prayer",
+    "ref": "Mt 26:30; Jn 17:1-26",
+    "url": "section-27/#the-high-priestly-prayer"
+  },
+  {
+    "title": "The Agony in the Garden",
+    "ref": "Mt 26:36-46; Mk 14:32-42; Lk 22:39-46; Jn 18:1",
+    "url": "section-28/#the-agony-in-the-garden"
+  },
+  {
+    "title": "The Arrest of Jesus",
+    "ref": "Mt 26:47-56; Mk 14:43-52; Lk 22:47-53; Jn 18:2-11",
+    "url": "section-28/#the-arrest-of-jesus"
+  },
+  {
+    "title": "The Trial Before Annas",
+    "ref": "Jn 18:12-14, 19-23",
+    "url": "section-28/#the-trial-before-annas"
+  },
+  {
+    "title": "The Condemnation by the Sanhedrin",
+    "ref": "Mt 26:57-7:1; Mk 14:53-15:1; Lk 22:54-23:5; Jn 18:",
+    "url": "section-28/#the-condemnation-by-the-sanhedrin"
+  },
+  {
+    "title": "The Death of Judas",
+    "ref": "Mt 27:3-10; cp Acts 1:18-19",
+    "url": "section-28/#the-death-of-judas"
+  },
+  {
+    "title": "The First Trial Before Pilate",
+    "ref": "Mt 27:2, 11-14; Mk 15:2-5; Lk 23:1-5; Jn 18:28-38",
+    "url": "section-28/#the-first-trial-before-pilate"
+  },
+  {
+    "title": "Trial Before Herod",
+    "ref": "Lk 23:6-12",
+    "url": "section-28/#trial-before-herod"
+  },
+  {
+    "title": "Torture by the Roman Soldiers",
+    "ref": "Mt 27:15-30; Mk 15:6-20a; Lk 23:13-25; Jn 18:39-19",
+    "url": "section-28/#torture-by-the-roman-soldiers"
+  },
+  {
+    "title": "The Crucifixion",
+    "ref": "Mt 27:31-37; Mk 15:20b-26; Lk 23:26-38; Jn 19:16-2",
+    "url": "section-29/#the-crucifixion"
+  },
+  {
+    "title": "The Death of Jesus",
+    "ref": "Mt 27:35-50; Mk 15:27-37; Lk 23:39-46; Jn 19:23-30",
+    "url": "section-29/#the-death-of-jesus"
+  },
+  {
+    "title": "Miracles Accompanying the Death of Christ",
+    "ref": "Mt 27:51-56; Mk 15: 38-41; Lk 23:45, 47-49",
+    "url": "section-29/#miracles-accompanying-the-death-of-christ"
+  },
+  {
+    "title": "The Burial of Jesus",
+    "ref": "Mt 27: 57-60; Mk 15:42-47; Lk 23:50-56; Jn 19:31-4",
+    "url": "section-29/#the-burial-of-jesus"
+  },
+  {
+    "title": "The Watch at the Tomb",
+    "ref": "Mt 27:62-66; Mk 15:47; Lk 23:55-56",
+    "url": "section-29/#the-watch-at-the-tomb"
+  },
+  {
+    "title": "The Resurrection of Jesus",
+    "ref": "Mt 28:1-7; Mk 16:1-8; Lk 24:1-8; Jn 20:1",
+    "url": "section-30/#the-resurrection-of-jesus"
+  },
+  {
+    "title": "and Peter and John\u2019s Visit to the Tomb",
+    "ref": "Lk 24:9-12; Jn 20:2-10",
+    "url": "section-30/#and-peter-and-john-s-visit-to-the-tomb"
+  },
+  {
+    "title": "Appearance to Mary the Magdalene",
+    "ref": "[[Mk 16:9-11]] Jn 20:11-18",
+    "url": "section-30/#appearance-to-mary-the-magdalene"
+  },
+  {
+    "title": "The Appearance to the Other Women",
+    "ref": "Mt 28:8-10",
+    "url": "section-30/#the-appearance-to-the-other-women"
+  },
+  {
+    "title": "The Report of the Guard",
+    "ref": "Mt 28:11-15",
+    "url": "section-30/#the-report-of-the-guard"
+  },
+  {
+    "title": "Appearance to Two on the Way to Emmaus",
+    "ref": "[[Mk 16:12-13]]; Lk 24:13-32",
+    "url": "section-30/#appearance-to-two-on-the-way-to-emmaus"
+  },
+  {
+    "title": "Report of the Two (Lk 24:33-35);",
+    "ref": "Lk 24:33-35",
+    "url": "section-30/#report-of-the-two-lk-24-33-35"
+  },
+  {
+    "title": "Appearance to the Ten",
+    "ref": "[[Mk 16:14]] Lk 24:36-43; Jn 20:19-23",
+    "url": "section-30/#appearance-to-the-ten"
+  },
+  {
+    "title": "Appearance to the Eleven",
+    "ref": "Jn 20: 24-31; cp 1 Cor 15:5",
+    "url": "section-30/#appearance-to-the-eleven"
+  },
+  {
+    "title": "by Lake Galilee",
+    "ref": "Jn 21:1-23",
+    "url": "section-30/#by-lake-galilee"
+  },
+  {
+    "title": "The Great Commission",
+    "ref": "Mt 28:16-20",
+    "url": "section-30/#the-great-commission"
+  },
+  {
+    "title": "with Further Commission",
+    "ref": "Lk 24:36-49; cp. Acts 1:3-8",
+    "url": "section-30/#with-further-commission"
+  },
+  {
+    "title": "The Ascension",
+    "ref": "Lk 24:50-53",
+    "url": "section-30/#the-ascension"
+  },
+  {
+    "title": "Epilogue",
+    "ref": "[[Mk 16:20;]]; Jn 21:24-25",
+    "url": "section-30/#epilogue"
+  }
+]

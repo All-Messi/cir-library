@@ -1,0 +1,60 @@
+{{ define "main" }}
+<article class="harmony-section">
+    <!-- Sticky Navigation -->
+    <div class="harmony-nav-container">
+        <div class="harmony-nav-inner">
+            <a href="../" class="harmony-back">← All Sections</a>
+            
+            <select class="harmony-dropdown" onchange="if(this.value) window.location.href=this.value">
+                <option value="">Jump to Section...</option>
+                {{ $currentSection := .Params.section }}
+                {{ range $i := seq 30 }}
+                    {{ $sectionNum := printf "%02d" $i }}
+                    {{ $sectionPath := printf "../section-%s" $sectionNum }}
+                    <option value="{{ $sectionPath }}" {{ if eq $currentSection $i }}selected{{ end }}>
+                        Section {{ $i }}
+                    </option>
+                {{ end }}
+            </select>
+            
+            <!-- Mini Color Legend -->
+            <div class="harmony-legend-mini">
+                <span class="gospel-mt">Mt</span>
+                <span class="gospel-mk">Mk</span>
+                <span class="gospel-lk">Lk</span>
+                <span class="gospel-jn">Jn</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- Section Header -->
+    <header class="harmony-header">
+        <h1>{{ .Title }}</h1>
+        {{ if .Params.reference }}
+        <p class="section-reference">{{ .Params.reference | safeHTML }}</p>
+        {{ end }}
+    </header>
+
+    <!-- Section Content -->
+    <div class="harmony-content">
+        {{ .Content | safeHTML }}
+    </div>
+
+    <!-- Bottom Navigation -->
+    <nav class="harmony-section-nav">
+        {{ if .Params.prev }}
+        <a href="{{ .Params.prev }}" class="nav-prev">← Previous</a>
+        {{ else }}
+        <div class="nav-placeholder"></div>
+        {{ end }}
+        
+        <a href="../" class="nav-outline">All Sections</a>
+        
+        {{ if .Params.next }}
+        <a href="{{ .Params.next }}" class="nav-next">Next →</a>
+        {{ else }}
+        <div class="nav-placeholder"></div>
+        {{ end }}
+    </nav>
+</article>
+{{ end }}

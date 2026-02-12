@@ -1,0 +1,165 @@
+{{ define "main" }}
+<article class="comparison">
+    <!-- Header -->
+    <header class="page-header">
+        <h1>{{ .Title }}</h1>
+        {{ if .Params.author }}
+        <p class="author">{{ .Params.author }}</p>
+        {{ end }}
+    </header>
+
+    <!-- Comparison Table -->
+    <div class="comparison-container">
+        <table class="comparison-table">
+            <thead>
+                <tr>
+                    <th>2 Peter</th>
+                    <th>Jude</th>
+                </tr>
+            </thead>
+            <tbody>
+            {{ $rawContent := .RawContent }}
+            {{ $lines := split $rawContent "\n" }}
+            {{ $inContent := false }}
+            {{ range $lines }}
+                {{ $line := . }}
+                {{ if and (not $inContent) (eq $line "---") }}
+                    {{ $inContent = true }}
+                {{ else if $inContent }}
+                    {{ $trimmed := trim $line " \t\r" }}
+                    {{ if and $trimmed (not (hasPrefix $trimmed "2 PETER")) (not (hasPrefix $trimmed "Virgil")) (not (hasPrefix $trimmed "2 Peter")) (not (hasPrefix $trimmed "Jude")) (not (hasPrefix $trimmed "christir")) }}
+                        {{ if (findRE "\t" $line) }}
+                            {{ $parts := split $line "\t" }}
+                            {{ if ge (len $parts) 2 }}
+                                <tr>
+                                    <td>{{ index $parts 0 | safeHTML }}</td>
+                                    <td>{{ index $parts (sub (len $parts) 1) | safeHTML }}</td>
+                                </tr>
+                            {{ end }}
+                        {{ end }}
+                    {{ end }}
+                {{ end }}
+            {{ end }}
+            </tbody>
+        </table>
+    </div>
+
+    <!-- Footer Citation -->
+    <div class="essay-footer">
+        <div class="citation">
+            <h4>How to Cite</h4>
+            <p class="citation-text">
+                Warren, Virgil. "{{ .Title }}." <em>Christian Internet Resources</em>. 
+                {{ if .Date }}{{ .Date.Format "2006" }}.{{ end }}
+                {{ .Permalink }}
+            </p>
+        </div>
+    </div>
+</article>
+
+<style>
+/* Comparison Page Styles */
+.comparison {
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.page-header {
+    text-align: center;
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid var(--color-border, #e5e5e5);
+}
+
+.page-header h1 {
+    font-family: var(--font-display, 'Playfair Display', Georgia, serif);
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.page-header .author {
+    font-size: 1.1rem;
+    color: var(--color-text-secondary, #555);
+    font-style: italic;
+}
+
+.comparison-container {
+    margin: 2rem 0;
+    overflow-x: auto;
+}
+
+.comparison-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: var(--font-body, Georgia, serif);
+    font-size: 0.95rem;
+    line-height: 1.7;
+    background: var(--color-bg, #fff);
+    border: 2px solid var(--color-border, #e5e5e5);
+}
+
+.comparison-table thead th {
+    background: var(--color-primary, #000);
+    color: #fff;
+    border: 2px solid var(--color-primary, #000);
+    padding: 1rem;
+    text-align: center;
+    font-family: var(--font-display, 'Playfair Display', Georgia, serif);
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+
+.comparison-table tbody td {
+    border: 1px solid var(--color-border, #e5e5e5);
+    padding: 0.75rem 1.25rem;
+    vertical-align: top;
+    width: 50%;
+}
+
+.comparison-table tbody tr:nth-child(even) {
+    background: var(--color-bg-subtle, #f9f9f9);
+}
+
+.comparison-table tbody tr:hover {
+    background: #fffacd;
+}
+
+/* Verse numbers in comparison */
+.comparison-table sup {
+    color: var(--color-accent, #9c7c38);
+    font-weight: 600;
+}
+
+/* Empty cells */
+.comparison-table tbody td:empty::after {
+    content: '—';
+    color: var(--color-text-muted, #888);
+    font-style: italic;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .comparison-table {
+        font-size: 0.85rem;
+    }
+    
+    .comparison-table thead th {
+        font-size: 1.1rem;
+        padding: 0.75rem 0.5rem;
+    }
+    
+    .comparison-table tbody td {
+        padding: 0.5rem 0.75rem;
+    }
+}
+
+@media print {
+    .comparison-table {
+        font-size: 11pt;
+    }
+    .site-header, .site-footer, .essay-footer {
+        display: none;
+    }
+}
+</style>
+{{ end }}

@@ -45,6 +45,8 @@
                         
                         <li><a href="/cir-library/translations/" >Translations</a></li>
                         
+                        <li><a href="/cir-library/author/" >Author</a></li>
+                        
                         <li><a href="/cir-library/about/" >About</a></li>
                         
                     </ul>
@@ -59,39 +61,140 @@
 
 
 
-
-
-<div class="taxonomy-list">
+<div class="taxonomy-page">
     <header class="page-header">
         <h1>Mt Mk Lk Jn GOSPELS</h1>
-        <p class="taxonomy-count">1 essays in this category</p>
+        
+        <p class="taxonomy-count">1 essay</p>
     </header>
 
-    <section class="essays-section">
-        <h2>Essays</h2>
-        <div class="essays-grid">
+    
+    <div class="essays-list">
+        
+        <article class="essay-item">
+            <h2 class="essay-title">
+                <a href="/cir-library/essays/the-gospels-in-general/">THE GOSPELS IN GENERAL</a>
+            </h2>
             
-            <article class="essay-card">
-                <h3><a href="/cir-library/essays/the-gospels-in-general/">THE GOSPELS IN GENERAL</a></h3>
-                <a href="/cir-library/essays/the-gospels-in-general/" class="read-link">Read Essay →</a>
-            </article>
+            <p class="essay-description"><p>THE GOSPELS IN GENERAL</p>
+<p>I. Form</p>
+<p>A. Large portions cover the triumphal entry to the ascension: Matthew 21-28, Mark</p>
+<p>11-16, Luke 19:29-24:53, John 12-21</p>
+<p>B. Principle of selectivity: materials that show him as Messiah</p>
+<p>C. Emphasis on the resurrection: note Acts 4:33; Romans 1:1-7; 1 Corinthians</p>
+<p>15:1-11</p>
+<p>History in general, much less a “gospel” in particular, is neither a stream of consciousness nor a complete record. It is a selective account that operates like a dot-to-dot, moving from one direction-setting event to the next.</p></p>
             
-        </div>
-    </section>
+            <a href="/cir-library/essays/the-gospels-in-general/" class="read-link">Read Essay →</a>
+        </article>
+        
+    </div>
+    
 </div>
 
 <style>
-.taxonomy-list .page-header { margin-bottom: 2rem; }
-.taxonomy-count { color: #666; font-family: 'Source Sans Pro', sans-serif; }
-.essays-section h2 { margin-top: 2rem; color: #8b4513; border-bottom: 2px solid #ddd; padding-bottom: 0.5rem; }
-.essays-grid { display: grid; gap: 1.5rem; }
-.essay-card { background: #fff; padding: 1.5rem; border: 1px solid #ddd; border-radius: 4px; transition: all 0.2s; }
-.essay-card:hover { box-shadow: 0 4px 12px rgba(0,0,0,0.08); border-color: #8b4513; }
-.essay-card h3 { margin-top: 0; margin-bottom: 0.5rem; }
-.essay-card h3 a { color: #2c3e50; text-decoration: none; }
-.essay-card h3 a:hover { color: #8b4513; }
-.read-link { color: #8b4513; font-family: 'Source Sans Pro', sans-serif; font-weight: 600; text-decoration: none; }
-.read-link:hover { text-decoration: underline; }
+ 
+.taxonomy-page {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.page-header {
+    margin-bottom: 3rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 2px solid var(--color-border, #e5e5e5);
+}
+
+.page-header h1 {
+    font-family: var(--font-display, 'Playfair Display', Georgia, serif);
+    font-size: 2.5rem;
+    font-weight: 600;
+    color: var(--color-primary, #000);
+    margin: 0 0 1rem;
+    line-height: 1.2;
+}
+
+.category-description {
+    font-family: var(--font-body, 'Source Serif Pro', Georgia, serif);
+    font-size: 1.1rem;
+    color: var(--color-text-secondary, #555);
+    line-height: 1.7;
+    margin: 1rem 0;
+}
+
+.taxonomy-count {
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.9rem;
+    color: var(--color-text-muted, #888);
+    margin: 0.5rem 0 0;
+}
+
+ 
+.essays-list {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.essay-item {
+    padding-bottom: 2rem;
+    border-bottom: 1px solid var(--color-border, #e5e5e5);
+}
+
+.essay-item:last-child {
+    border-bottom: none;
+}
+
+.essay-title {
+    margin: 0 0 0.75rem;
+    font-family: var(--font-display, 'Playfair Display', Georgia, serif);
+    font-size: 1.5rem;
+    font-weight: 600;
+    line-height: 1.3;
+}
+
+.essay-title a {
+    color: var(--color-primary, #000);
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.essay-title a:hover {
+    color: var(--color-accent, #9c7c38);
+}
+
+.essay-description {
+    font-family: var(--font-body, 'Source Serif Pro', Georgia, serif);
+    font-size: 1rem;
+    color: var(--color-text-secondary, #555);
+    line-height: 1.7;
+    margin: 0 0 1rem;
+}
+
+.read-link {
+    display: inline-block;
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--color-accent, #9c7c38);
+    text-decoration: none;
+    transition: all 0.2s ease;
+}
+
+.read-link:hover {
+    color: var(--color-primary, #000);
+    text-decoration: underline;
+}
+
+@media (max-width: 600px) {
+    .page-header h1 {
+        font-size: 2rem;
+    }
+    
+    .essay-title {
+        font-size: 1.25rem;
+    }
+}
 </style>
 
 

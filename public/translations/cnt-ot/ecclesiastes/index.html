@@ -45,6 +45,8 @@
                         
                         <li><a href="/cir-library/translations/" >Translations</a></li>
                         
+                        <li><a href="/cir-library/author/" >Author</a></li>
+                        
                         <li><a href="/cir-library/about/" >About</a></li>
                         
                     </ul>
@@ -56,91 +58,420 @@
     <main class="site-main">
         <div class="container">
             
-<div class="book-home">
-    <nav class="breadcrumb">
-        <a href="http://localhost:1313/cir-library/translations/">Translations</a> › 
-        <a href="/cir-library/translations/cnt-ot/">Conversational Old Testament</a>
-    </nav>
 
-    <header class="page-header">
-        <h1>Ecclesiastes</h1>
-        <p class="book-meta">12 Chapters | COT</p>
-    </header>
+<div class="book-reader">
+    <div class="reader-nav-bar">
+        <div class="book-selector">
+            <a href="/cir-library/translations/cnt-ot/" class="back-to-books">← Conversational Old Testament</a>
+            <span class="current-book">Ecclesiastes</span>
+        </div>
+        <button class="chapter-selector-btn" id="chapterSelectorBtn">
+            <span class="selector-icon">☰</span>
+            <span class="selector-text">Chapters</span>
+        </button>
+    </div>
 
-    <div class="intro-content">
-        <h2 id="ecclesiastes">Ecclesiastes</h2>
+    
+    <div class="chapter-popup" id="chapterPopup">
+        <div class="popup-overlay" id="popupOverlay"></div>
+        <div class="popup-content">
+            <div class="popup-header">
+                <h3>Select Chapter</h3>
+                <button class="popup-close" id="popupClose">×</button>
+            </div>
+            <div class="chapter-grid">
+                
+                <a href="/cir-library/translations/cnt-ot/ecclesiastes/chapter-01/" class="chapter-cell" title="Chapter 1">1</a>
+                
+                <a href="/cir-library/translations/cnt-ot/ecclesiastes/chapter-02/" class="chapter-cell" title="Chapter 2">2</a>
+                
+                <a href="/cir-library/translations/cnt-ot/ecclesiastes/chapter-03/" class="chapter-cell" title="Chapter 3">3</a>
+                
+                <a href="/cir-library/translations/cnt-ot/ecclesiastes/chapter-04/" class="chapter-cell" title="Chapter 4">4</a>
+                
+                <a href="/cir-library/translations/cnt-ot/ecclesiastes/chapter-05/" class="chapter-cell" title="Chapter 5">5</a>
+                
+                <a href="/cir-library/translations/cnt-ot/ecclesiastes/chapter-06/" class="chapter-cell" title="Chapter 6">6</a>
+                
+                <a href="/cir-library/translations/cnt-ot/ecclesiastes/chapter-07/" class="chapter-cell" title="Chapter 7">7</a>
+                
+                <a href="/cir-library/translations/cnt-ot/ecclesiastes/chapter-08/" class="chapter-cell" title="Chapter 8">8</a>
+                
+                <a href="/cir-library/translations/cnt-ot/ecclesiastes/chapter-09/" class="chapter-cell" title="Chapter 9">9</a>
+                
+                <a href="/cir-library/translations/cnt-ot/ecclesiastes/chapter-10/" class="chapter-cell" title="Chapter 10">10</a>
+                
+                <a href="/cir-library/translations/cnt-ot/ecclesiastes/chapter-11/" class="chapter-cell" title="Chapter 11">11</a>
+                
+                <a href="/cir-library/translations/cnt-ot/ecclesiastes/chapter-12/" class="chapter-cell" title="Chapter 12">12</a>
+                
+            </div>
+        </div>
+    </div>
+
+    
+    <div class="chapter-list">
+        <h2>Chapters</h2>
+        
+        <a href="/cir-library/translations/cnt-ot/ecclesiastes/chapter-01/" class="chapter-item">
+            <span class="chapter-number">1</span>
+            <span class="chapter-title">Chapter 1</span>
+        </a>
+        
+        <a href="/cir-library/translations/cnt-ot/ecclesiastes/chapter-02/" class="chapter-item">
+            <span class="chapter-number">2</span>
+            <span class="chapter-title">Chapter 2</span>
+        </a>
+        
+        <a href="/cir-library/translations/cnt-ot/ecclesiastes/chapter-03/" class="chapter-item">
+            <span class="chapter-number">3</span>
+            <span class="chapter-title">Chapter 3</span>
+        </a>
+        
+        <a href="/cir-library/translations/cnt-ot/ecclesiastes/chapter-04/" class="chapter-item">
+            <span class="chapter-number">4</span>
+            <span class="chapter-title">Chapter 4</span>
+        </a>
+        
+        <a href="/cir-library/translations/cnt-ot/ecclesiastes/chapter-05/" class="chapter-item">
+            <span class="chapter-number">5</span>
+            <span class="chapter-title">Chapter 5</span>
+        </a>
+        
+        <a href="/cir-library/translations/cnt-ot/ecclesiastes/chapter-06/" class="chapter-item">
+            <span class="chapter-number">6</span>
+            <span class="chapter-title">Chapter 6</span>
+        </a>
+        
+        <a href="/cir-library/translations/cnt-ot/ecclesiastes/chapter-07/" class="chapter-item">
+            <span class="chapter-number">7</span>
+            <span class="chapter-title">Chapter 7</span>
+        </a>
+        
+        <a href="/cir-library/translations/cnt-ot/ecclesiastes/chapter-08/" class="chapter-item">
+            <span class="chapter-number">8</span>
+            <span class="chapter-title">Chapter 8</span>
+        </a>
+        
+        <a href="/cir-library/translations/cnt-ot/ecclesiastes/chapter-09/" class="chapter-item">
+            <span class="chapter-number">9</span>
+            <span class="chapter-title">Chapter 9</span>
+        </a>
+        
+        <a href="/cir-library/translations/cnt-ot/ecclesiastes/chapter-10/" class="chapter-item">
+            <span class="chapter-number">10</span>
+            <span class="chapter-title">Chapter 10</span>
+        </a>
+        
+        <a href="/cir-library/translations/cnt-ot/ecclesiastes/chapter-11/" class="chapter-item">
+            <span class="chapter-number">11</span>
+            <span class="chapter-title">Chapter 11</span>
+        </a>
+        
+        <a href="/cir-library/translations/cnt-ot/ecclesiastes/chapter-12/" class="chapter-item">
+            <span class="chapter-number">12</span>
+            <span class="chapter-title">Chapter 12</span>
+        </a>
+        
+    </div>
+
+    
+    <div class="book-intro"><h2 id="ecclesiastes">Ecclesiastes</h2>
 <p><strong>12 Chapters</strong></p>
-
-    </div>
-
-    <div class="chapters-grid">
-        
-        <a href="/cir-library/translations/cnt-ot/ecclesiastes/chapter-01/" class="chapter-link">
-            <span class="chapter-num">1</span>
-            <span class="chapter-label">Chapter 1</span>
-        </a>
-        
-        <a href="/cir-library/translations/cnt-ot/ecclesiastes/chapter-02/" class="chapter-link">
-            <span class="chapter-num">2</span>
-            <span class="chapter-label">Chapter 2</span>
-        </a>
-        
-        <a href="/cir-library/translations/cnt-ot/ecclesiastes/chapter-03/" class="chapter-link">
-            <span class="chapter-num">3</span>
-            <span class="chapter-label">Chapter 3</span>
-        </a>
-        
-        <a href="/cir-library/translations/cnt-ot/ecclesiastes/chapter-04/" class="chapter-link">
-            <span class="chapter-num">4</span>
-            <span class="chapter-label">Chapter 4</span>
-        </a>
-        
-        <a href="/cir-library/translations/cnt-ot/ecclesiastes/chapter-05/" class="chapter-link">
-            <span class="chapter-num">5</span>
-            <span class="chapter-label">Chapter 5</span>
-        </a>
-        
-        <a href="/cir-library/translations/cnt-ot/ecclesiastes/chapter-06/" class="chapter-link">
-            <span class="chapter-num">6</span>
-            <span class="chapter-label">Chapter 6</span>
-        </a>
-        
-        <a href="/cir-library/translations/cnt-ot/ecclesiastes/chapter-07/" class="chapter-link">
-            <span class="chapter-num">7</span>
-            <span class="chapter-label">Chapter 7</span>
-        </a>
-        
-        <a href="/cir-library/translations/cnt-ot/ecclesiastes/chapter-08/" class="chapter-link">
-            <span class="chapter-num">8</span>
-            <span class="chapter-label">Chapter 8</span>
-        </a>
-        
-        <a href="/cir-library/translations/cnt-ot/ecclesiastes/chapter-09/" class="chapter-link">
-            <span class="chapter-num">9</span>
-            <span class="chapter-label">Chapter 9</span>
-        </a>
-        
-        <a href="/cir-library/translations/cnt-ot/ecclesiastes/chapter-10/" class="chapter-link">
-            <span class="chapter-num">10</span>
-            <span class="chapter-label">Chapter 10</span>
-        </a>
-        
-        <a href="/cir-library/translations/cnt-ot/ecclesiastes/chapter-11/" class="chapter-link">
-            <span class="chapter-num">11</span>
-            <span class="chapter-label">Chapter 11</span>
-        </a>
-        
-        <a href="/cir-library/translations/cnt-ot/ecclesiastes/chapter-12/" class="chapter-link">
-            <span class="chapter-num">12</span>
-            <span class="chapter-label">Chapter 12</span>
-        </a>
-        
-    </div>
-
-    <div class="quick-start">
-        <a href="chapter-01/" class="btn-primary btn-large">Start Reading Chapter 1 →</a>
-    </div>
 </div>
+    
+</div>
+
+<script>
+(function() {
+    const btn = document.getElementById('chapterSelectorBtn');
+    const popup = document.getElementById('chapterPopup');
+    const overlay = document.getElementById('popupOverlay');
+    const closeBtn = document.getElementById('popupClose');
+    
+    function openPopup() {
+        popup.classList.add('active');
+        document.body.style.overflow = 'hidden';
+    }
+    
+    function closePopup() {
+        popup.classList.remove('active');
+        document.body.style.overflow = '';
+    }
+    
+    btn.addEventListener('click', openPopup);
+    closeBtn.addEventListener('click', closePopup);
+    overlay.addEventListener('click', closePopup);
+    
+    
+    document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape' && popup.classList.contains('active')) {
+            closePopup();
+        }
+    });
+})();
+</script>
+
+<style>
+ 
+.book-reader { 
+    max-width: 900px; 
+    margin: 0 auto; 
+}
+
+ 
+.reader-nav-bar { 
+    display: flex; 
+    align-items: center; 
+    justify-content: space-between;
+    padding: 1rem 0; 
+    border-bottom: 1px solid var(--color-border, #e5e5e5); 
+    margin-bottom: 2rem; 
+}
+
+.book-selector { 
+    display: flex; 
+    align-items: center; 
+    gap: 1.5rem; 
+}
+
+.back-to-books { 
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif); 
+    font-size: 0.9rem; 
+    color: var(--color-text-secondary, #666); 
+    text-decoration: none; 
+}
+
+.back-to-books:hover { 
+    color: var(--color-primary, #000); 
+}
+
+.current-book { 
+    font-family: var(--font-display, 'Playfair Display', Georgia, serif); 
+    font-size: 1.5rem; 
+    font-weight: 600; 
+    color: var(--color-primary, #000); 
+}
+
+ 
+.chapter-selector-btn {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 1rem;
+    background: var(--color-bg-alt, #f9f9f9);
+    border: 1px solid var(--color-border, #e5e5e5);
+    border-radius: 8px;
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: var(--color-text, #1a1a1a);
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.chapter-selector-btn:hover {
+    background: var(--color-primary, #000);
+    border-color: var(--color-primary, #000);
+    color: #fff;
+}
+
+.selector-icon {
+    font-size: 1.1rem;
+}
+
+ 
+.chapter-popup {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1000;
+    display: none;
+    align-items: center;
+    justify-content: center;
+}
+
+.chapter-popup.active {
+    display: flex;
+}
+
+.popup-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(4px);
+}
+
+.popup-content {
+    position: relative;
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+    max-width: 600px;
+    width: 90%;
+    max-height: 80vh;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.popup-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.25rem 1.5rem;
+    border-bottom: 1px solid var(--color-border, #e5e5e5);
+}
+
+.popup-header h3 {
+    margin: 0;
+    font-family: var(--font-display, 'Playfair Display', Georgia, serif);
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--color-primary, #000);
+}
+
+.popup-close {
+    width: 32px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: transparent;
+    border: none;
+    border-radius: 6px;
+    font-size: 1.5rem;
+    line-height: 1;
+    color: var(--color-text-secondary, #666);
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.popup-close:hover {
+    background: var(--color-bg-alt, #f9f9f9);
+    color: var(--color-primary, #000);
+}
+
+.chapter-grid {
+    padding: 1.5rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(48px, 1fr));
+    gap: 8px;
+    overflow-y: auto;
+}
+
+.chapter-cell {
+    aspect-ratio: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--color-bg-alt, #f9f9f9);
+    border: 1px solid var(--color-border, #e5e5e5);
+    border-radius: 8px;
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.95rem;
+    font-weight: 500;
+    color: var(--color-text, #333);
+    text-decoration: none;
+    transition: all 0.15s ease;
+}
+
+.chapter-cell:hover {
+    background: var(--color-primary, #000);
+    border-color: var(--color-primary, #000);
+    color: #fff;
+    transform: scale(1.05);
+}
+
+ 
+.chapter-list { 
+    margin-bottom: 2rem; 
+}
+
+.chapter-list h2 { 
+    font-family: var(--font-display, 'Playfair Display', Georgia, serif); 
+    font-size: 1.25rem; 
+    color: var(--color-primary, #000); 
+    margin: 0 0 1rem; 
+    padding-bottom: 0.75rem; 
+    border-bottom: 1px solid var(--color-border, #e5e5e5); 
+}
+
+.chapter-item { 
+    display: flex; 
+    align-items: center; 
+    gap: 1rem; 
+    padding: 1rem; 
+    border-bottom: 1px solid #f0f0f0; 
+    text-decoration: none; 
+    transition: background 0.15s ease; 
+}
+
+.chapter-item:hover { 
+    background: var(--color-bg-alt, #f9f9f9); 
+}
+
+.chapter-number { 
+    width: 32px; 
+    height: 32px; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    background: #f3f3f3; 
+    border-radius: 6px; 
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif); 
+    font-size: 0.85rem; 
+    font-weight: 600; 
+    color: var(--color-text-secondary, #666); 
+    flex-shrink: 0; 
+}
+
+.chapter-title { 
+    font-family: var(--font-body, 'Source Serif Pro', Georgia, serif); 
+    font-size: 1rem; 
+    color: var(--color-text, #1a1a1a); 
+    line-height: 1.4; 
+}
+
+.chapter-item:hover .chapter-number { 
+    background: var(--color-primary, #000); 
+    color: #fff; 
+}
+
+ 
+.book-intro { 
+    background: #fff; 
+    padding: 1.5rem; 
+    border: 1px solid var(--color-border, #e5e5e5); 
+    border-radius: 12px; 
+    margin-top: 2rem; 
+}
+
+.book-intro p { 
+    color: var(--color-text-secondary, #555); 
+    line-height: 1.7; 
+}
+
+@media (max-width: 600px) {
+    .current-book {
+        font-size: 1.25rem;
+    }
+    
+    .chapter-selector-btn {
+        padding: 0.4rem 0.8rem;
+        font-size: 0.85rem;
+    }
+    
+    .popup-content {
+        width: 95%;
+    }
+}
+</style>
 
         </div>
     </main>

@@ -45,6 +45,8 @@
                         
                         <li><a href="/cir-library/translations/" >Translations</a></li>
                         
+                        <li><a href="/cir-library/author/" >Author</a></li>
+                        
                         <li><a href="/cir-library/about/" >About</a></li>
                         
                     </ul>
@@ -56,30 +58,19 @@
     <main class="site-main">
         <div class="container">
             
-<article class="bible-chapter">
-    <header class="chapter-header">
-        <nav class="book-nav">
-            <a href="http://localhost:1313/cir-library/translations/">← All Books</a>
-            
-        </nav>
-        <h1>2 PETER 2 AND JUDE COMPARED</h1>
-    </header>
-
-    <nav class="chapter-nav">
-        
-        
-        <div class="chapter-selector">
-            <label for="chapter-select">Jump to Chapter:</label>
-            <select id="chapter-select" onchange="location = this.value;">
-                <option value="">Select...</option>
-                
-            </select>
-        </div>
-
-        
+<div class="comparison-page">
+    <nav class="breadcrumb">
+        <a href="http://localhost:1313/cir-library/translations/resources/">← Textual Resources</a>
     </nav>
 
-    <div class="chapter-content">
+    <header class="page-header">
+        <h1>2 PETER 2 AND JUDE COMPARED</h1>
+        
+        <p class="author">Virgil Warren, PhD</p>
+        
+    </header>
+
+    <div class="comparison-content">
         <p>2 PETER 2 AND JUDE COMPARED</p>
 <p>Virgil Warren, PhD</p>
 <p>2 Peter		            	               Jude</p>
@@ -150,16 +141,113 @@
 <p>christir.org</p>
 
     </div>
+</div>
 
-    <nav class="chapter-nav bottom">
-        
-        
-    </nav>
+<style>
+ 
+.comparison-page {
+    max-width: 1200px;
+    margin: 0 auto;
+}
 
-    <footer class="chapter-footer">
-        <p class="translation-note">From the Conversational New Testament translation by Virgil Warren, PhD</p>
-    </footer>
-</article>
+.breadcrumb {
+    margin-bottom: 2rem;
+}
+
+.breadcrumb a {
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: var(--color-text-secondary, #555);
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.breadcrumb a:hover {
+    color: var(--color-primary, #000);
+}
+
+.page-header {
+    text-align: center;
+    padding: 2rem 0;
+    margin-bottom: 2rem;
+    border-bottom: 2px solid var(--color-border, #e5e5e5);
+}
+
+.page-header h1 {
+    font-family: var(--font-display, 'Playfair Display', Georgia, serif);
+    font-size: 2rem;
+    font-weight: 600;
+    color: var(--color-primary, #000);
+    margin: 0 0 0.5rem;
+}
+
+.author {
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.95rem;
+    color: var(--color-text-secondary, #555);
+    margin: 0;
+}
+
+ 
+.comparison-content {
+    font-family: var(--font-body, 'Source Serif Pro', Georgia, serif);
+    font-size: 0.95rem;
+    line-height: 1.8;
+}
+
+ 
+.comparison-content pre {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.85rem;
+    line-height: 1.6;
+    white-space: pre-wrap;
+    background: var(--color-bg-subtle, #f9f9f9);
+    padding: 2rem;
+    border-radius: 8px;
+    border: 1px solid var(--color-border, #e5e5e5);
+    overflow-x: auto;
+}
+
+ 
+.comparison-content table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 2rem 0;
+}
+
+.comparison-content th,
+.comparison-content td {
+    padding: 0.75rem;
+    text-align: left;
+    border: 1px solid var(--color-border, #e5e5e5);
+    vertical-align: top;
+}
+
+.comparison-content th {
+    background: var(--color-bg-subtle, #f9f9f9);
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-weight: 600;
+    font-size: 0.9rem;
+    color: var(--color-primary, #000);
+}
+
+.comparison-content td {
+    font-size: 0.9rem;
+    line-height: 1.6;
+}
+
+@media (max-width: 768px) {
+    .page-header h1 {
+        font-size: 1.5rem;
+    }
+    
+    .comparison-content pre {
+        font-size: 0.8rem;
+        padding: 1rem;
+    }
+}
+</style>
 
         </div>
     </main>
@@ -231,7 +319,5 @@
     </script>
     
     
-<script src="/cir-library/js/bible.js"></script>
-
 </body>
 </html>

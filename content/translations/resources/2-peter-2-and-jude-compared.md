@@ -3,6 +3,7 @@ author: Virgil Warren, PhD
 date: '2026-01-24'
 draft: false
 title: 2 PETER 2 AND JUDE COMPARED
+type: comparison
 weight: 10
 ---
 
