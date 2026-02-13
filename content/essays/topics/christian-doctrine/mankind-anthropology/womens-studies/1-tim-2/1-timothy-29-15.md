@@ -1,0 +1,186 @@
+---
+author: Virgil Warren, PhD
+categories:
+- Topics
+- Christian Doctrine
+- Mankind Anthropology
+- Womens Studies
+- 1 Tim 2
+date: '2026-02-13'
+draft: false
+title: 1 TIMOTHY 2:9-15
+weight: 5
+---
+
+
+
+
+I. Paul’s Intended Connection Between Genesis <strong>2-3</strong> and Women’s Roles
+
+
+Paul appeals to the sequence of creation and the manner of the fall for his not allowing women to teach or to exercise authority over men. One inference is that (1) Paul appeals to Genesis to <em><u>confirm</u></em>, rather than to <em>prove</em>, the propriety of his custom; it is a <em>post facto</em> appeal rather than an <em>a priori</em> one. He says what he says by his own authority rather than because of a historical divine reason. His authoritative conclusion rests on some practical consideration rather than a theological one. Then cultural propriety can be the basis; so outside the first-century circumstance, it does not necessarily apply.
+
+An even looser connection with Genesis exists if (2) Paul appeals to Genesis to <em><u>illustrate</u></em>, rather than prove, his point. He would be doing so the way Jude appeals to the Book of Enoch and the Assumption of Moses to illustrate his own truth claims, not to imply that either event actually happened or that either book was true or canonical.
+
+Paul gives no cue that he is making such a loose connection with this subject. In the advice to virgins in 1 Corinthians <strong><sup>7</sup></strong> and the Sarah-Hagar parallel in Galatians <strong><sup>4</sup></strong>:21-31, he provides cues that he is not making an <em>a priori</em> observation. While an <em>a priori</em> approach seems preferable, he could have more than one connection in mind. (3) Paul may appeal to Genesis to show man’s relative headship over woman rather than also to prove specifically women should not teach. The last part would be his inference from the Genesis event.
+
+
+
+The accompanying diagram maps out the argument pattern. The main point lies in distinguishing (<strong>B</strong>) relative responsibility/headship from manifesting it in (<strong>C</strong>) teaching men. For comparison, we have pictured a parallel with 1 Corinthians <strong><sup>11</sup></strong>, which deals with an issue more obviously conditioned by cultural considerations. In 1 Timothy, Paul does not have to be using Genesis as a basis for both steps. Genesis <strong>2-3</strong> may establish a historical basis for relative headship because <em>the sequence and manner of creating woman</em> manifests God’s intentions for man-woman association (Genesis <strong><sup>2</sup></strong> more clearly speaks in relational terms) and because <em>the manner and sequence of the fall </em>manifests something about their propensities (men too susceptible to female influence and women too susceptible to a sense of limitation?).
+
+Besides whether Paul’s policy proscribed unofficial teaching of men by women (see below), a cultural variable may come into settings where modern culture does not regard teaching as authoritative and if the kind of teaching women often do now is not done in an authoritative manner. If no one-for-one tie exists between step (<strong>B</strong>) and step (<strong>C</strong>) because of demeanor or culture or type of teaching, and if Paul means to connect Genesis <strong>2-3 </strong>only with step (<strong>B</strong>), then his directive allows some flexibility in the propriety of women’s “teaching” officially and in their teaching men in the modern setting.
+
+New Testament writers appeal to Old Testament scripture in a variety of ways. Without comment Acts <strong><sup>15</sup></strong>:19-20 + 28-29, for example, appeals to Moses as a basis for not eating meat offered to idols, while in 1 Corinthians <strong><sup>8</sup></strong> and Romans <strong><sup>14</sup></strong> Paul deals with eating meat as a matter of responsibility around weaker brothers. The Acts <strong>15 </strong>missive mixes this <em>practical </em>issue with a <em>moral</em> issue (fornication) and a <em>ceremonial</em> one (not eating blood). Modern interpreters need to distinguish moral, ceremonial, and practical issues before they apply that precedent to the current situation.
+
+
+
+II. The Force of <em>I Do Not Allow</em> (οὐκ ἐπιτρέπω)
+
+
+By saying “I,” does Paul imply that not having women teach men is a practical, pastoral custom he follows? Does it have a force like his comments in 1 Corinthians <strong><sup>7</sup></strong>:25ff. about virgins marrying? He gives his judgment first as someone the Lord considers trustworthy and second as something affected by the present distress. He makes it clearer there than here that he is addressing the current situation. In that situation was <em>persecution</em>; in the teaching issue it would be <em>cultural expectancy</em>. Women’s teaching men, then, is categorized along with veil-wearing, silence in church, and slaves’ submitting to masters.
+
+
+
+III. Localized or General, Cultural or Theological Policy
+
+
+If Paul directs Timothy for the situation in Ephesus, does what he says not apply to other first-century situations where the reason for his directives did not exist? While it is possible to see how Paul’s statements could represent his custom because of the cultural situation, it is difficult to take <em>“I do not allow”</em> as something applicable just to Ephesus. The New Testament witnesses to a great degree of mobility among Christians. The apostolic writings were circulated early on and intentionally so. Observing that the context does not likely have a geographical limitation, leaves unsettled whether it has a cultural limitation. See herein the essay “1 Timothy<strong> 2</strong>:8-15: Situational or General?”
+
+
+
+IV. The Meaning of <em>Teach</em> (διδάσκειν)
+
+
+Does διδάσκειν mean
+
+
+(1)	“teach” (period),
+
+(2)	“teach publicly,”
+
+(3)	“teach men” (period),
+
+(4)	“teach men officially,” that is, in an official (<em>vs</em>. non-official) sense?
+
+
+Paul would surely not mean that women could not teach in any sense or circumstance whatever. He speaks elsewhere about women teaching younger women (Titus <strong><sup>2</sup></strong>:3-5) and implies that women taught children (2 Timothy <strong><sup>1</sup></strong>:5). <em>“Teaching the younger women to love their husbands”</em> does not sound especially private <em>vs</em>. public. The choice seems clearly limited to options (3) and (4) for the following reasons. Otherwise, how could a wife win her husband if she were forbidden from explaining why she conducts her life the way she does (1 Peter <strong><sup>3</sup></strong>:1-2)?
+
+
+(a) 	Paul is heading into characteristics for elders in <strong><sup>3</sup></strong>:1-7, where teaching distinguishes their responsibility from deacons’ work.
+
+(b) 	Elsewhere, teaching labels the elders’ work (Acts <strong><sup>20</sup></strong>:28-32; Ephesians <strong><sup>4</sup></strong>:11; 1 Timothy <strong><sup>5</sup></strong>:7; Titus. <strong><sup>1</sup></strong>:5-9). In Antioch, The Acts does not mention elders, but it does mention prophets and <em>teachers</em> (<strong><sup>13</sup></strong>:1). Other places that may have elders’ teaching in view are Romans<strong> 12</strong>:7; 1 Timothy <strong><sup>1</sup></strong>:7; Hebrews <strong><sup>13</sup></strong>:7, 17, 24.
+
+(c) 	The elders’ dual role of ruling and teaching combines here in 1 Timothy <strong><sup>2</sup></strong>:12 as in the upcoming characteristics list and in <strong><sup>5</sup></strong>:17; Titus <strong><sup>1</sup></strong>:5-9; Acts <strong><sup>20</sup></strong>:28; and 1 Peter<strong> 5</strong>:2. These same two aspects are covered by the shepherd image because a shepherd manages and feeds the flock.
+
+(d) 	Women not teaching men in an official sense would square with Philip’s four virgin daughters who prophesied, an activity whose legitimacy rested on its content rather than additionally on the authority of an office.
+
+
+It seems clear that Paul is talking about teaching in the sense of what an elder was to do. That work was especially important prior to the writing of the New Testament, because during the absence of the apostles, Christians had no access to normative teaching. The teaching that elders did was not just imparting information. It was official teaching, which added responsibility and therefore authority to their efforts. The teaching work was normative and pre-canonical as by an elder, not just informative. Teaching would not be the same thing, then, as prophesying, because an elder held an authoritative office whereas a prophet performed a charismatic function; teaching was authoritative communication while prophesying was not. (See below under “The Meaning of ‘Silent.’”)
+
+At this point, we may ask questions about culture and circumstance. Did all teaching in the first-century church have the character of official teaching? More to the point, did people of the first century tend to look on public teaching as something authoritative? We have inferred that Paul meant official teaching. We wonder whether the “teaching” that goes on even in a typical adult Sunday school class today has the feel that Paul envisioned in 1 Timothy <strong><sup>2</sup></strong>. Often the “teacher” is more a discussion leader than someone that imparts normative information. The authority a teacher does have is not so much about content as procedure—the “right” to begin and close class, to recognize which participant will contribute next, and the like. A person’s <em>demeanor</em> while carrying out such a role has a lot to do with whether it is regarded as authoritative. The <em>church role</em> he has also impacts the character of his teaching work. As per these considerations, a woman’s “teaching” an adult Sunday school class would not automatically fall within Paul’s frame of reference, especially if her role is discussion leader rather than official teaching and/or if she does it without an air of assumed authority.
+
+Joseph M. Webb in “Where Is the Command to Silence?” <em>Christian Standard</em>, May 21, l989, pp. 5-6, argues for the doubtful proposition that διδάσκω underscores the content, while διδασκαλία refers to the calling of teaching. Supposedly relevant texts are 1 Corinthians<strong> 4</strong>:17; Ephesians <strong><sup>4</sup></strong>:21; Colossians <strong><sup>1</sup></strong>:28; <strong><sup>2</sup></strong>:7; and 1 Timothy <strong><sup>6</sup></strong>:2. Consequently, Paul did not want them teaching “what they were teaching”; they were not learning first before they taught, and so they were teaching heresies.
+
+
+
+V. The Meaning of Γυνή
+
+
+A. 	Does γυνή mean “woman,” so the prohibition is against all women’s teaching?
+
+B.	 Does γυνή mean “wife,” so the prohibition is against married women teaching? The idea would be that the order in the home should match the order in the church. That would correlate with Philip’s four virgin daughters who prophesied. The difference between prophesying and teaching still applies, however
+
+
+
+VΙ. The Meaning of <em>Exercise Authority </em>(αὐθεντεῖν)
+
+
+Διδάσκειν δὲ γυναικὶ οὐκ ἐπιτρέπω οὐδὲ αὐθεντεῖν ἀνδρός, ἀλλ’ εἶναι ἐν ἡσυχίᾳ.
+
+
+A.	Does αὐθεντεῖν mean “to usurp,” so it is okay if men give her the authority?
+
+B.  Does αὐθεντεῖν mean “to domineer,” so she might exercise authority as long as
+
+she does not do it in a domineering manner?
+
+C.  Does αὐθεντεῖν mean “to exercise authority,” so it is not appropriate for a woman
+
+to be positioned above a man in the home or in the church?
+
+
+See Scott Bartchy’s argument in “Power, Submission, and Sexual Identity Among the Early Christians,” <em>Essays on New Testament Christianity</em>, pp. 71-74. Under “The Meaning of ‘Silent,’” we have included as in contrast to “domineer” as a non-essential connotation of αὐθεντεῖν beyond usurping and exercising authority. But there must be more to the issue than domineering, because men are not to carry themselves that way either; yet Paul makes a difference between men and women in that women are to act in deference.
+
+There is one more point about authoritative <em>vs</em>. purely interpersonal interaction. In modern western societies that stress the democratic process and freedom of speech, the first impulse during interactions is not so likely to be “who is in charge here.” It is more about who knows what they are talking about. Individuals feel a right to express themselves aside from any consideration about having the official right to do so, and they do it among people that look at it the same way. So, the responsibility aura is less prominent all around, and raising questions about whether someone has a right to speak seems out of place.
+
+
+
+VIΙ. The Grammatical Connection Between <em>Man</em> and the Two Preceding Verbs
+
+
+A. 	Is ἀνδρός the implied common object of διδάσκειν and αὐθεντεῖν?
+
+B. 	Is ἀνδρός the object of αὐθεντεῖν only?
+
+
+The issue here is whether διδάσκειν and αὐθεντεῖν are parallel entries or whether they form a combination that taken together means “teach authoritatively” (hendiadys).
+
+Greek uses case endings to indicate grammatical functions within a sentence. A reader would expect that a noun can be the common object of a double verb if both verbs govern the same case. (a) In 1 Timothy <strong><sup>2</sup></strong>:12 διδάσκειν is used absolutely (no object indicated) while αὐθεντεῖν governs the genitive. It would seem most likely then that ανδρός is the object only of αὐθεντεῖν, since it is genitive case. (b) Another disjunctive aspect of the verse is the presence of “neither” (οὐδέ). The second verb with its adjuncts seems to be a second grammatical entry. If so, <em>teach</em> does, in fact, mean <em>“I do not allow a woman to teach”</em> (period) <em>vs</em>. <em>“I do not allow a woman to teach (a man).”</em> But, that does not mean she can teach only women and children if we understand that <em>teach</em> is being used in the sense of official teaching (as in the teaching done by elders, the topic Paul goes on to address in the beginning of the next chapter). Under this reconstruction Paul means that women are not to be official teachers; that is, they are not to function like teaching elders.
+
+NOTE: If Paul means διδάσκειν (seq. acc.) and αὐθεντεῖν (seq. gen.) as a composite, he creates a situation where the noun the verbs govern cannot be both cases. In similar situations, the nearest element can determine the form of the sequential term. A singular plus plural compound subject has the verb in the number of the nearest subject; a predicate adjective after a compound subject of different genders can have the gender of the nearest subject; an attributive adjective with two nouns of different gender can carry the gender of the nearest noun. Under that analysis, the reason ἀνδρός is genitive is that it follows the nearest verb, not that it relates only to that verb. The reason “man” does not appear after each verb may be that the verbs are together as composites (hendiadys); Paul’s directive would then apply to teaching authoritatively.
+
+As far as concept is involved, however, the point can still be made that Paul is thinking about authoritatively teaching men. It is just that grammatically he divides up the idea into two parts: (a) she is not to teach authoritatively and (b) she is not to exercise authority over men. The combination still means that she is not to teach authoritatively men (or anyone else, for that matter). The concern then about her teaching unauthoritatively children, women, or even men lies outside Paul’s frame of reference.
+
+
+
+VIIΙ. The Meaning of <em>Silence</em> (ἡσυχία)
+
+
+Does ἡσυχία mean “silence” or “peacefulness”?
+
+
+Joseph M. Webb argues for the second alternative in “Where Is the Command to Silence?” <em>Christian Standard</em>, May 21, l989, p. 4. Whatever being <em>silent</em> means here in<strong> 2</strong>:11, 12 (cp. σιγάω in 1 Corinthians <strong><sup>14</sup></strong>:34), it evidently does not eliminate “prophesying” (1 Corinthians <strong><sup>11</sup></strong>:5; Acts <strong><sup>21</sup></strong>:9). The only other New Testament uses of ἡσυχία are in Acts <strong><sup>22</sup></strong>:2, where the quieted mob in the temple became even more silent when they heard Paul addressing them in Hebrew (<strong><sup>21</sup></strong>:40 + <strong><sup>22</sup></strong>:2), and in 2 Thessalonians <strong><sup>3</sup></strong>:12, where Paul tells certain <em>“lazy and disorderly busybodies”</em> (<strong><sup>3</sup></strong>:11) to work <em>“with quietness”</em> and eat their own food. People with nothing to do can fill their time with gossiping, <em>etc</em>. The cognate adjective occurs in 1 Timothy <strong><sup>2</sup></strong>:2, where Paul encourages prayer for political leaders so Christians might lead a “quiet” life, and in 1 Peter <strong><sup>3</sup></strong>:4, which instructs women to “adorn” themselves with a meek and “quiet” spirit in contrast to showy appearance.
+
+In 2 Thessalonians the word (ἡσυχία) apparently represents the opposite of clamoring disorderliness. 1 Corinthians <strong><sup>14</sup></strong> has this same set—orderliness and silence—that Paul contrasts in forbidding women to “speak” (λαλεῖν). The “silence/quietness” (ἡσυχία) given to Paul by the mob in Acts<strong> 22</strong> again contrasts with their previous shouting and violence (<strong><sup>21</sup></strong>:34-35). The great “silence” (<strong><sup>21</sup></strong>:40, σιγή) became “more quietness” (ἡσυχία). The two nouns must have related meanings, or the second could not be used to intensify the first. Perhaps ἡσυχία adds the implication of respect. In Acts <strong><sup>22</sup></strong> the mob may have shown some respect because Paul was speaking to them in Aramaic rather than Greek or classical Hebrew rather than Aramaic. 2 Timothy<strong> 2</strong>, Acts <strong><sup>22</sup></strong>, and 1 Corinthians <strong><sup>14</sup></strong> involve a combination of orderliness, quietness/silence, and respect. In 2 Timothy <strong><sup>2</sup></strong> ἡσυχία stands not only in contrast to teaching (where there is speaking), but also in contrast to exercising authority over men. So “peacefulness,” “respect,” and “deference” are in the situation if not in the meaning of the word ἡσυχία, but it would not be accurate to say that the word meant “peaceful” instead of “silence” because it contrasts with teaching and parallels <em>deference</em> (<strong><sup>2</sup></strong>:11). The context, hence the word, involves both silence and deference.
+
+The meaning of words is fine-tuned by their circumstances. In these cases, <em>silence</em>, whether covered by the σιγή or ἡσυχία, serves as a synonym for deference (2 Timothy <strong><sup>2</sup></strong>:11, 13; 1 Corinthians <strong><sup>14</sup></strong>:34a, b). Paul and Luke use the concept as an approximate opposite of disrespectful, disorderly noisiness, which can vary all the way up to riotousness. In the church setting, that “silence” contrasts at least with (a) badgering questions (1 Corinthians <strong><sup>14</sup></strong>:34-35). We have inferred “badgering,” or “carping,” questions because that is one way to harmonize the text with Paul’s earlier approval of women prophesying (<strong><sup>11</sup></strong>:5; cp. Acts <strong><sup>21</sup></strong>:9). This silence also contrasts with (b) speaking in untranslated languages, because the women in Corinth were to be silent like the untranslated language-speakers (<strong><sup>14</sup></strong>:28, 30). In 1 Timothy<strong> 2</strong> the women’s silence contrasts with (c) teaching. We have argued earlier that “teaching” seems to mean “official teaching” in 2 Timothy since in other texts women did other kinds of teaching. Finally, women’s silence contrasts with (d) exercising authority over men. In both 2 Timothy (<strong><sup>2</sup></strong>:11) and 1 Corinthians (<strong><sup>14</sup></strong>:34), the concern is about not breaching the deference principle.
+
+There are similarities between 1 Timothy <strong><sup>2</sup></strong>:8-14 and 1 Peter <strong><sup>3</sup></strong>:1-6. The mention of dress and adornment in both contexts along with “quietness,” “meekness,” and “deference” may suggest that the ἡσυχι- root contrasts with showy or loud dressing as attention-getting behavior. 1 Timothy <strong><sup>2</sup></strong> and 1 Peter<strong> 3</strong> use the same terminology to describe behavior in the church, in the first instance, and behavior in the home/marriage, in the second text. That point reinforces the contention that the structure of the church and behaviors there need to correlate with the structure and behaviors in the home.
+
+Women’s silence apparently does not prohibit (e) women’s prophesying. This last point is somewhat less certain because the previous context in 1 Corinthians <strong><sup>14</sup></strong> involves prophesying. But because of 1 Corinthians <strong><sup>11</sup></strong>:5 and Acts<strong> 21</strong>:9, there is evidently some sense or circumstance in which women could prophesy without opprobrium. Perhaps the female prophesying in chapter <strong><sup>11</sup></strong> and with Philip’s four daughters was not “in church” (<strong><sup>14</sup></strong>:19, 28; could “in the <em>churches</em>” mean “in the <em>church services</em>”?), or was with women or children. Perhaps it was done within the parameters of female deference etiquette. A woman might be asked to share, for example. In responding she would not be “usurping” (cp. that possible meaning of αὐθεντεῖν in 2 Timothy <strong><sup>2</sup></strong>:12) as she would if she tried to “take her turn” right along with the male presenters (1 Corinthians <strong><sup>14</sup></strong>:26-35).
+
+Silence for untranslated language-speakers would not prohibit them from speaking in the native language or in translated languages. In like manner, the silence for women is not silence in every sense or circumstance, but in contrast to prohibited things (the hermeneutical law of opposition). The prohibited thing seems to disregarding female deference (1 Corinthians<strong> 14</strong>:34b, <em>“in deference as says the law”</em>;<strong> 11</strong>:10, <em>“authority on her head”</em>; 2 Timothy<strong> 2</strong>:11, <em>“with deference”</em>). Consequently, <em>silence</em> amounts to a synonym for <em>quiet demeanor</em>, <em>deference behavior</em>, and the prohibition forbids competitive behavior because it manifests a rejection of the female deference principle. Clamoring for attention by asking badgering questions, insisting on speaking, assuming or demanding equal access, trying to “tell the men how it is,” and the like would have been especially out of place. Competitive behavior was unacceptable for men too (1 Timothy<strong> 2</strong>:8; <strong><sup>3</sup></strong>:2-3) because it would be counterproductive; but more than that, it would have been embarrassing to see women do it (1 Corinthians <strong><sup>14</sup></strong>:35). Not only would they not be edifying the church, but they would also not have been “keeping their place.” In a culture where certain behavior was expected from women in mixed public settings, their trying too hard to get involved with questions, prophesying, and teaching would have compromised the deference principle. Not only was it “out of place” and “pushy,” but women would have had a harder time getting involved appropriately because they themselves would have felt out of place going against expectancy. If they had to override their own inhibitions to do it, it would “show.”
+
+Speaking in a way that implied deference would not come under Paul’s prohibition even in Paul’s own day, things like unofficial teaching in a mixed setting, teaching women and children, prophesying in mixed settings. However, in the modern Western world, public involvement is not so readily construed as insubordination. On the one hand, the cultural variable widens the range of options because more activities are now regarded as non-authoritative, and so no breach of deference if a woman does them. Speaking, teaching, and veil-wearing have meanings that are in part culturally infused. In our culture, not wearing a veil does not connote insubordination; similarly, a woman’s speaking up in public does not mean insubordination; by the same token, teaching is not automatically associated with authority and, therefore, with insubordination if a woman does it.
+
+On the other hand, there is more to the meaning of activities among believers than the meanings that are culturally infused. There are also meanings that are biblically infused into certain activities because scripture assigns them to certain roles. Official teaching could not be turned over to female responsibility, but much of the teaching that women do in our setting would probably not qualify as official teaching. It is especially less problematic when a woman carries herself with an attitude that is appropriate to her supportive role in marriage, home, and church.
+
+
+
+ΙΧ. The Meaning of <em>Formed</em> (ἐπλάσθη)
+
+
+Ἀδὰμ γὰρ πρῶτος ἐπλάσθη, εἶτα Εὕα.
+
+
+A. “Adam was formed first, then Eve.”
+
+B. “Adam was informed first, then Eve.”
+
+
+Walt Kaiser in “Shared Leadership,” <em>Christianity Today</em>, October 3, l986, has suggested this second translation. It seems unlikely since the Septuagint uses “forming” to speak of the “forming” of Adam (Genesis<strong> 2</strong>:7, 8, 15) as well as the animals (<strong><sup>2</sup></strong>:19).
+
+
+
+Summary
+
+
+In group settings, who has responsibility is a consideration because organization creates orderliness for better accomplishing the purposes of the group. Authority comes in to reinforce responsibility for various facets and levels in the operation. Deference means conducting oneself in a way that allows those with responsibility to fulfill it to God for the church/family and the world. In the home and the church, the New Testament seems clear that God has assigned to husbands final responsibility—hence authority—in the family and to elders final responsibility in the local church. Wives are to conduct themselves in a manner that recognizes the greater responsibility God has laid on their husbands in the home. Women are to conduct themselves in a manner that recognizes the greater responsibility God has laid on men in the church.
+
+The primary point in the first section above is that Paul’s arguments from the Old Testament establish the first point, namely, that men are more ultimately responsible for the operation of the body of believers than women are. The cultural variable does not eradicate that point, but it does affect applications to such things as teaching, veil-wearing, and silence, because cultures do not invest these activities with the same meaning relative to the authority issue. Female deference is the underlying principle, and these gestures that communicate deference may be culturally conditioned by the first-century setting where they were given. That has been the judgment of modern interpreters relative to veil-wearing; by parity of reason, we may say something similar about female teaching and silence.
+
+Within that framework we propose the following way of handling the other specifics within 2 Timothy <strong><sup>2</sup></strong>:8-15. Paul is not addressing a localized situation in Ephesus; he is laying down directives used everywhere, including Corinth. When he speaks of “teaching,” he means official teaching as done by an elder, which evidently differs from prophesying because the latter does not include the authority overlay. More basically Paul says that he does not allow a woman to exercise authority over a man, much less usurp such authority or try to be domineering toward him. <em>“Being silent” </em>means that a woman conducts herself in a manner consonant with her deferring posture and supportive role. Paul’s appeal to Genesis connects with step (<strong>B</strong>) and not automatically with step (<strong>C</strong>) as well. Distinguishing (<strong>B</strong>) and (<strong>C</strong>) ends up not affecting much the interpretation of 2 Timothy <strong><sup>2</sup></strong> if we take Paul to mean “teaching” officially, that is, in a responsible position and demeanor. He is not prohibiting teaching in the absolute but in respect to what Paul has in mind, the work of elders.
+
+In the modern setting, there may be some adjustment in the application of deference to a woman’s teaching activity, but it should not go beyond prophesying to official teaching. Activities in mixed settings that today might not vitiate Paul’s principle would include leading discussions, imparting information, especially if requested to do so; giving testimonies to general audiences; asking honest questions. Obviously, teaching other women and teaching children do not fall within Paul’s purview.
+
+christir.org

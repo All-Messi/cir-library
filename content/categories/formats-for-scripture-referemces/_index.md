@@ -1,4 +1,0 @@
----
-title: FORMATS FOR SCRIPTURE REFEREMCES
-weight: 999
----

@@ -1,6 +1,7 @@
 ---
 book: Romans
 chapter: 16
+next: chapter-65
 prev: chapter-15
 title: Romans 16
 translation: CNT

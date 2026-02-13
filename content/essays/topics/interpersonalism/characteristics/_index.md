@@ -1,0 +1,3 @@
+---
+title: "Characteristics of Interpersonalism"
+---

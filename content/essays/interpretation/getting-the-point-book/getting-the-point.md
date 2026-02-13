@@ -1,0 +1,564 @@
+---
+author: Virgil Warren, PhD
+categories:
+- Interpretation
+- Getting The Point Book
+date: '2026-02-13'
+draft: false
+title: GETTING THE POINT
+weight: 2
+---
+
+
+
+
+INTRODUCTION: The Nature of Language Communication
+
+
+A. An allegory: parallels between working a puzzle and interpreting the Bible
+
+1. Not everything is all there together; we have to put it together. The Bible has a historical organization and a practical application to specific situations.
+
+2. We are tempted to start putting pieces together before we get all the pieces turned over and sorted.
+
+3. We begin by turning the pieces over and sorting them by color and perhaps shape, a procedure comparable to getting the data together before beginning to work on a conclusion.
+
+4. In a puzzle each part has to fit every other part; there is interconnection and wholeness. Biblical interpretation goes beyond believing passages in theory without saying what they mean.
+
+5. We do the most obvious parts first: the edge pieces, a line like a horizon that goes through the picture
+
+6. The process gets easier the farther it goes; the picture gets clearer as more becomes visible.
+
+7. Sometimes we can force pieces in where they do not belong. We may even whittle them a little!
+
+8. Putting the wrong piece somewhere keeps the rest from going together.
+
+9. Sometimes we are surprised where a piece goes—as where a color change occurs at the edge of the piece.
+
+10. One important piece may connect one group of pieces with another group of pieces that we have been working on.
+
+11. Some of us have a better “eye” for working puzzles than others do.
+
+12. Sometimes pieces are missing.
+
+
+B. Nature of language
+
+1.  Language always comes from the subjective viewpoint
+
+a. Literal language exists although language comes from the subjective side.
+
+<em>Literal</em> means the most common (often the most concrete) usage of a word or expression. Speakers do not say everything about what they are describing; not all statements have the character of a definition. A definition not only describes what something is; it marks the end of it—what it is not. <strong>(1)</strong> Speakers say only enough to bring up the full awareness in the other person’s mind. They do not “say it all” because hearers can usually fill out much of the picture from their own experience. “Horseless carriage” notes that there is no horse to carry it along; that much is in the word picture. But the fact that it carries people rather than freight is not expressed, nor that it has a cooling system and pistons. Of course, if hearers do not know from experience the nature of what a speaker is referencing, they will misunderstand or not understand; the words themselves do not communicate a complete picture.
+
+(2) Speakers speak from their own perception, which is not the same as the object itself. Thought and language omit things and add things to what is actually there. Speaking of part to bring all to the hearer’s mind goes even further in figures of speech like metonymy or metaphor. <strong>(3) </strong>They speak only of the part they want to communicate. The trust factor is that, although perception does not have a one-for-one equivalency with the referent, they are close enough for practical purposes.
+
+(a) There is a language-concept distinction.
+
+(b)  There is a language-referent distinction.
+
+Meaning has three thrusts: [1] what the statement is referring to, and [2] how that referent relates to the rest of the truth, and [3] how the whole picture relates to the present situation.
+
+Luke <strong><sup>4</sup></strong>:3 illustrates the subjective-objective distinction. Satan says, <em>“If you are the son of God, tell this stone to become bread.” </em>Some commentators know that this is what Greek grammarians call an A-class conditional sentence, a so-called “real” condition. They take the implication to be <em>“If you are God’s son </em>[and you are]<em>, tell this stone to become bread.” </em>Satan is not implying, however, one way or the other whether Jesus is God’s Son. It is a hypothetical statement in which the idea is viewed as true for the purposes of communication, or “for the sake of the argument.” “Real condition” does not mean it is real; it means the condition is treated as real.
+
+The language-reality distinction creates the possibility of being wrong, using the same word for different things, using the same term analogically to label functional equivalents in another system, just plain lying. The language-reality is shown by word-meaning changes, by different words for the same thing, by different languages. Language takes place in the mind, not in the reality; hence, we do not really ask “What happened?” but “How did the writer perceive what happened?”
+
+The language-referent distinction applies to the emphasis a speaker makes in a statement. The stress he puts on one item over another does not come from its relative importance in something, but from the point of the conversation, from the speaker’s perception and interest at the moment.
+
+Similarly, grammatical dependence-independence does not necessarily correspond to the relative importance or centrality of something. For instance, “make disciples” is not necessarily the most important element in the Great Commission because it is the only verbal idea carried by a finite verb—whereas participles carry the other three verbal ideas. That decision comes from the nature of the four elements in the statement. For further material on this point (reification), see below under “Confusing Grammar and Reality.”
+
+
+b. Figurative language is possible because language comes from the subjective side. Figures of speech include metaphor, simile, synecdoche, metonymy, myth. Whereas “literal” language stresses cognitive, scientific, objective matters, figurative language <strong>(1)</strong> stresses affective, subjective matters; it creates impressions, exhorts, enlivens. Language is least adequate in affective areas, and for that reason figurative expression is used to take up some slack. Subjective things like feelings are hardest to communicate because they are always subjective to the speaker. Figurative language <strong>(2) </strong>communicates the unknown and unknowable. It <strong>(3)</strong> makes abstract matters concrete and tangible. <strong>(4)</strong> Figurative language achieves an economy of expression and, <strong>(5)</strong> makes information more memorable. For more on figurative <em>vs</em>. literal, see “Interpretation of Classes of Literature.”
+
+
+c. Phenomenological language also comes from the subjective side. Whereas figurative language addresses the affective dimension, phenomenological language keys off of the appearance of things. <em>“A watched pot never boils”</em> refers to the way it seems, even though we know it is not true (real), strictly (literally) speaking. It contrasts with “scientific usage,” which speaks as much as possible in keeping with the objective nature of things. Phenomenological language relates to the “word picture” in a term, its derivation, morphemes, but especially its appearance.
+
+**Phenomenological language applies to Old Testament passages that sound as if there is no existence after death (Ecclesiastes. <strong><sup>3</sup></strong>:18-22).
+
+**The notion of touch is phenomenological language because contact
+
+does not really occur.
+
+**Sucking speaks the way it looks. Vacuums do not draw; the absence of air allows other air to push in.
+
+**Sunrise is a common example of speaking from appearance. We say that the sun came up or went down though we believe the earth is turning to create that other impression.												**Indwelling of the Spirit pictures as internal what is, in fact, inter-
+
+personal.
+
+**The doctrine of natural depravity is—at least in part—due to reading phenomenological language as scientific expression. Psalm <strong><sup>51</sup></strong>:5 and <strong><sup>58</sup></strong>:3 could be considered cases of such language; that is certainly the ways people seem.
+
+**“Bowels of compassion” became an expression because extreme feelings give us a peculiar sensation in the stomach: <em>“That made me sick to my stomach.”</em>
+
+**<em>“I never knew you” </em>(Matthew <strong><sup>7</sup></strong>:23) may work like <em>“A watched pot never boils.”</em> It could also be effective proleptic expression: the way things turn out may as well be the way they always were.
+
+**Death is pictured as sleep. (For references, see “The Doctrine of Soul-
+
+Sleeping.”)
+
+
+d. Poetic language shows that language comes from the subjective side as another kind of figurative language. Poetic language pictures with exaggeration for emphasis, as in the case of the imprecatory psalms and the imprecatory apocalyptic material in Revelation.
+
+Poetic language can talk about trees clapping their hands, a sacrifice of praise, God inhabiting praise.
+
+New Testament language about eternal suffering in fire and brimstone may instance cases of poetic language. Conditional immortality, annihilationism, and universalism attempt to provide answers to the specter of a loving God torturing someone for eternity. The need for those “solutions” comes from reading poetic language as strict speech.
+
+
+2. Words do not always mean the same thing.
+
+<em>The relationship between the forms of a language and the meanings they express is seldom one-to-one.</em> The same word does not always mean the same thing; different words do not necessarily mean different things; words that can substitute for each other are not necessarily exact synonyms.
+
+A difference could be made between “a city set on a hill” and “a city built on a hill.” <em>Set</em> and <em>built</em> are not synonyms; yet their different word pictures can be used to communicate the same idea at a general level. An “automatic” can be a type of gun or a kind of car. Especially when an expression is peculiar to one writer, it is not likely to be referring to something entirely absent elsewhere in scripture. Examples include the “filling” terminology in Luke, the “earnest of the Spirit” expression in Paul, or “baptism in the Holy Spirit” in the mouth of John the Baptist (also in 1 Corinthians <strong><sup>12</sup></strong>:13).
+
+People sometimes fail to distinguish word and meaning—“what it says” and “what it means.”
+
+In a book <em>The Eldership</em>, J. W. McGarvey confused language and reality when he argued that <em>“husband of one wife” </em>means that an elder must be married because a “one-woman man” is not a “no-woman man.” That a “one-woman man” is not a “no-woman man” makes an observation about reality, but Paul’s statement contrasts with more than one without also contrasting with less than one. His frame of reference is a character issue as Titus <strong><sup>1</sup></strong> shows: <em>“. . . because a bishop must be blameless.”</em>
+
+People reason incorrectly—as sophists—when they make words always have the same sense. They combine statements whose words are the same but with different referent and treat them as if they mean the same thing, thereby drawing specious conclusions.
+
+Speakers depend on the setting to “fine tune” their terms (law of harmony, law of opposition, nature of the case).
+
+Tat phenomenon is partly what is going on in regard to women’s “teaching” men. Teaching evidently does not mean teaching in the general sense of transferring information, but teaching in the sense of normative teaching as done by an elder. “Teaching” may be unofficial, as when the Pharisees say to the man born blind, <em>“You were altogether born in sin, and you teach us?” </em>(John <strong><sup>9</sup></strong>:34).
+
+Words may be used in both general and technical senses.
+
+<em>Moron</em>, <em>imbecile</em>, and <em>idiot</em> are interchangeable in common parlance, but in mental health settings they indicate descending levels of mental development. Examples of technical terminology include shorthand expressions, or “for short,” or a “handle” for the whole.
+
+
+a. Bases for determining the meaning of words
+
+Communication does not work at just the word level. So much ineffective Bible study comes from dealing with texts at too great a detail—with a verse, a phrase, or even one word at a time. Readers must determine the meaning of a word carefully. Below are some inadequate ways of determining word meanings—even though each approach has a contribution it can make.
+
+An example of this somewhat artificial approach is Bill Hallsted’s article “How Not to Define Worship” (<em>Christian Standard</em>, January 8, 1995, pp. 8-9).
+
+
+(1) not particularly by derivational connection (word picture)
+
+The present meaning of a word does not necessarily reflect its derivational origin. Speakers today may not know where a term came from a hundred years ago. Even if they do know or can figure out its derivation, they do not use it with that intent.
+
+**How often have you heard someone observe that “cheerful giver” (2 Corinthians <strong><sup>9</sup></strong>:7) is the word from which English gets its term <em>hilarious</em>? A hilarious giver does not make sensible English because of the connotation of the term now.
+
+**Word derivational has been used to conclude that Phoebe in Romans <strong><sup>16</sup></strong>:1-2 was a leader or director of some kind rather than a “servant,” as the word is most often translated. The Greek term προστάτις (<em>prostatis</em>) combines πρό (<em>pro</em>, “before”) and ἵστημι (<em>histēmi</em>, “stand”); hence, the reasoning goes, a προστάτις by word picture is <em>“one who stands before</em>,<em>” a “leader.”</em> But Paul says Phoebe was a προστάτις of himself also; she did not lead Paul. Contextually relevant observations in this case override speculations based on word derivation. She was a “helper” as one who <em>“stands at hand</em>,<em>”</em> ready to help.
+
+<em>Holiday</em> does not really mean “holy day,” and <em>business</em> does not particularly mean “busyness.” The derivational meaning has altered into an applied meaning.
+
+
+We should not expect to learn the meaning of words by where they came from or what they have descended to.
+
+
+(2) not particularly by combining constituent elements (morphemes) in compound words. In English the process of combining constituent parts to get the meaning of a word works better with less-used terms and those derived from Greek and Latin roots.
+
+**<em>Lover</em> is not simply “one who loves.” It has become a technical term for an unmarried physically attracted person. It takes some mental adjustments to sing <em>“Jesus, Lover of My Soul.”</em>
+
+
+(3) not particularly by cognate words within a language
+
+**famous, but infamous; in-law but out-law; offence but offensive; childish, but childlike. Paul does not teach in 1 Corinthians <strong><sup>13</sup></strong>:11 that speaking in tongues is childish; he compares language speaking and other gifts to what a child does in contrast to what an adult does. He means “childlike.”
+
+Our “loved ones” normally refers to our “relatives,” even though by fundamental cognate meaning it could apply much more broadly to anyone people care about.
+
+**Uncouth does not have a functioning opposite word “couth.”
+
+charisma, but charismatic. In usage, <em>charismatic</em> is not just an adjective for <em>charisma</em>. It can step away from magnetic personality via enthusiasm and connote supernatural giftedness in Christian parlance. Other people set <em>charismatic</em> in contrast to <em>pentecostal</em>, meaning that supernatural gifts are necessary <em>vs</em>. possible for Christian experience.
+
+Other examples include <em>disagree</em> and <em>disagreeable</em>, <em>argumentive</em> and <em>argumentative</em>, <em>egocentric and egotistical</em>. <em>Excuse</em>, a verb, has neutral or even good connotation while <em>excuse</em>, a noun, has a negative one.
+
+In 1 Timothy <strong><sup>2</sup></strong>:12 αὐθεντέω (<em>authenteō)</em> indicates something Paul says a woman should not do relative to men. From the fact that <em>authentēs</em> (αὐθέντης), a cognate noun, at one time had among its meanings “murder,” some modern writers have tried to argue that the cognate verb Paul uses here has a harsh connotation (<em>“domineer,” “usurp”</em>) rather than a neutral one (<em>“exercise authority over”</em>). The time difference plus specialization works against using that line of reasoning. No one, including men, should domineer.
+
+English speakers may note that the word picture behind <em>secretary</em> comes from keeping a “secret,” but they probably would not think of that unless asked “point blank.” People use <em>refer </em>without remembering its historical roots; they say “refer back” even though derivationally <em>re-</em> already means “back.” Speakers add <em>back</em> to distinguish referring back from referring forward. (See also <em>What the Bible Says About Salvation</em>, p. 252, ¶3.)
+
+We talk about metal filings even when a file did not produce them. <em>Rain check</em> applies even when rain did not cancel the event or the sale at the grocery store. Immersionists need to be careful about overly depending on the original word-picture in βαπτίζω (<em>baptize)</em>, and instrumentalists should not overly depend on the derivational meaning of ψάλλω (<em>psallō</em>, to pluck) to argue for the legitimacy of instrumental music in accompanying singing. <em>Overnight</em> can come to mean rapid change rather than something that strictly happened during one night’s time. This observation may have a bearing on how strictly to read Jonah <strong><sup>4</sup></strong>:10, where a gourd comes up “overnight.”
+
+ignore and ignorant: <em><u>ignorant</u></em> does not mean intentionally unaware; yet <em>ignore</em> means deliberately not paying attention.
+
+dominant, but dominate or indomitable; of these three only <em>dominate</em> has a negative connotation.
+
+hard, but hardly; As the old joke goes, <em>“Are you working hard?” “No. I’m hardly working.”</em>)
+
+fleshy, but fleshly
+
+submit, but submissive
+
+historical and historic
+
+rest, but restless: <em>restless</em> does not mean “without rest” or “having less rest”; it indicates people’s condition where they cannot settle down to anything.
+
+
+(4) not particularly by related words across languages
+
+Scholars sometimes study rare and one-use words in the Old Testament by comparing them to Arabic, Akkadian, and other Semitic languages to get some feel for their meaning, but the method has limitations and should give place to other approaches whenever possible.
+
+
+(5) not particularly by usages elsewhere on other subjects or in other contexts
+
+The most frequent usage does not determine meaning in a given case; some statistically rare meaning may be needed in a specific case. Authors may even “coin” a meaning; they may define their own terms for their own purposes in precise, technical fashion, because they need to speak more precisely than terminology already available allows them to do. Words are not “bullets” of meaning we add together say something. They are more fluid than that, being shaped by the subject connections in certain settings.
+
+<em>“Spare the rod and spoil the child”</em> (cp. Proverbs <strong><sup>13</sup></strong>:24). People opposed to corporal punishment may bring the shepherd’s rod and staff into the discussion, supposing that the “rod” to protect the sheep by fending off predators instead of something used on the sheep. Another take is to say that the rod was used to guide the sheep along. The two circumstances differ sufficiently that the terms in one case should not define the terms in the other. The shepherd’s crook was more for retrieving and guiding than his rod would be. Shepherding sheep and disciplining children are two unrelated circumstances; the only thing that connects them is the one word <em>rod</em>! Hebews <strong><sup>12</sup></strong>:4-13 shows that the Proverbs passage means something “grievous” results from using a rod on a young a son for disobedience.
+
+New Testament interpreters need to use caution in understanding Christian vocabulary based on pagan Greek usage. Ψυχή (<em>psychē, </em>“soul”), for example, in pagan Greek probably does not coincide with biblical usage. Pagans had only experience unassisted by special revelation, hence, perception and reason alone (philosophical method). We do well to consider more seriously the likelihood of phenomenological usage of some Greek terms because imagination and “how it looks” would be what they could operate from. In each case it is better to interpret New Testament terms in light of Old Testament backgrounds and other, clear New Testament usage. New Testament usage came from the Septuagint translation of the Old Testament more often than from general Greek backgrounds. The Septuagint enjoyed wide circulation among Jews of the Diaspora as well as in Palestine. A person would think, for example, that the Septuagint usage of πίστις (<em>pistis</em>, “faith/trust/belief”) in Habakkuk<strong> 2</strong>:4 would inform New Testament usage more than pagan Greek usage.
+
+In secular usage, <em>love</em> has become a euphemism for sexual intercourse or feelings toward another person based on physical attraction.
+
+The same word used even in close proximity does not always refer to the same thing. In Romans <strong><sup>7</sup></strong>:3 <em>“to become to another man”</em> must refer to adultery in the first case but marital relations in the second. 1 Corinthians<strong> 7</strong>:27 says, <em>“Are you bound to a wife? Do not try to be loosed. Are you loosed from a wife? Do not seek a wife.” </em>It is not evident by the second <em>loosed</em> that Paul means “divorced,” as interpreters sometime suggest. He probably means a single person (“un-bound” rather than “dis-bound”), which fits better his preceding comments in<strong> 7</strong>:8-24. The situation is like “Road Closed” in front of a segment that has never yet been open.
+
+Λύω (lyō) can mean “untie” or “loosen” in some circumstances, but “destroy” in others.
+
+
+(6) not particularly by majority usage
+
+(7) by general conventional usage
+
+(8) most particularly by the present intent of the author, as shown by the near context, within distant context, within the nature of the case. Authorial intent provides the real basis for meaning. The previous seven have secondary and confirmational value. A word or expression does not mean just anything it could mean.
+
+“Help yourself” does not mean <em>“because nobody else will” </em>or <em>“because you’re big enough”</em>; it means “You are free to take some.”
+
+“<em>We do it all for you”</em> (as the advertisement used to go) does not mean you do not have to take your food to your table or clean up after yourself. The stress falls on <em>you</em>, not on <em>all</em>.
+
+To some extent, denotation may be learned from derivation, cognates, and constituent parts. Connotation especially, though, must come from contextual factors. The meaning of words, expressions, and sentences lies in themselves (their derivational word picture plus conventional, contemporary use) and in their relationships (contextual considerations). Beyond convention, definitions adjust to subject matter and its contrasts. Usage here determines meaning here.
+
+In one sense authorial intent is not absolute. We cannot assume an exact equation between (1) an author’s idea, (2) a reader’s idea, and (3) reality itself. For practical purposes we equate the three so we can flesh out what the author does say into a complete picture, some of which we supply from elsewhere (personal experience). In so doing, we go beyond authorial intent as far as we can know it. We give authors the benefit of the doubt by adding other content to expressed content and then developing, or “interpreting,” the full picture. We assume that what authors allow readers to “fill in” does not have features that will skew the message.
+
+Authorial intent sets aside the <em>avant-garde</em> practice of literary critics who speak of <em>“the intentional fallacy”</em> and <em>“reader response”</em> criticism. Language is a sound-symbol system. As with all symbols, they mean what the author intends them to mean, not what some other person, culture, or time could repurpose them to mean. The Bible is not “literature” as in modern “art” and modern literature, where the artist does not so much “say” something as provide a suggestive form for the viewer to create something into it.
+
+By-passing authorial intent involves the same fallacy as (a) objecting to the heart symbol on Valentine’s Day, because in ancient pagan religions it had other, immoral meanings. The same issue lies behind (b) objecting to Christmas trees because evergreens in pagan contexts had fertility associations. We wonder as well about (c) objecting to jack-o-lanterns and Halloween traditions like “trick or treat.” What those things meant to pagans centuries ago need not condemn people today who are not aware of those origins and certainly do not mean by them what pagans meant then. The meaning of such things lies in the user here and now.										Intentionality is at issue in legal interpretation and constitutional hermeneutics. The claim is that you cannot rest with original intent because issues have arisen that the framers of the constitution did not know about. But new circumstances are the reason legal process calls for amendments and new laws, not for specious interpretations of older law.
+
+Authors’ intentionality determines where readers look, how they go about deciding, and what factors they make decisive as qualifiers on other factors. An author may even coin an expression or use of an old expression in a new way. In such cases, English writing uses “quotation marks” to indicate the special usage. In oral expression, the speaker uses a special voice inflection to mark the unusual meaning. Ancient writers did not have access to such written devices.
+
+
+b. The multiple meanings of a word
+
+Most words can mean more than one thing. Changes over time follow a path of logical connection between the previous and subsequent meanings; proliferation of meanings follows associational lines: cause-effect connections, topical associations, similarities in form or function. Connections with the thing slide over onto a new one. This amounts to what happens in figures of speech and adaptations over time. Various connections tie together contemporary meanings of a word.
+
+The connections are not always direct and may follow a “tree of descent” rather than have a common “thread.” One element associates one meaning with the next one. The connector between the first two meanings may not be the connector between the next two meanings, and so on. The following diagram represents the pattern.
+
+A physical “body” (1 Corinthians <strong><sup>6</sup></strong>:19) has an associational meaning with Christ’s body represented by the communion emblems (1 Corinthians <strong><sup>11</sup></strong>:29) and by extension his “body” the church (Ephesians <strong><sup>1</sup></strong>:23; 1 Corinthians <strong><sup>12</sup></strong>:12-31), because it manifests the presence of Christ in the world after his ascension.
+
+
+
+
+
+Although it is sometimes possible to do so, we should not expect a common core of meaning in cognates, especially if several applications have evolved.
+
+Sometimes immersionists have made that mistake in denying sprinkling and pouring as actions for baptism. The study of the form of baptism, in fact, provides a relevant example of the relationship between multiple meanings of one word. (See <em>What the Bible Says About Salvation</em>, pp. 322-379.) <em>Spirit</em> does seem to have a common core for most of its meanings: an invisible, intangible reality.
+
+Forgetting about the multiple meanings of words causes unnecessary difficulty and keeps discussions from solving anything; they degenerate into unwinnable arguments over words.
+
+**An example is the argument over whether Christians will pass through the judgment; the idea is that Christians will not be judged. The problem arises because the Greek word—even more than its English rough equivalent—can mean “evaluate” or “condemn.” Evaluation applies to everyone; condemnation applies to the disobedient.
+
+**The expression “break bread” in the New Testament refers both to eating a meal and observing the Lord’s Supper. Often the latter evidently took place in the context of the former in what they called love feasts (Jude 12). Some have argued that the earliest Christians observed daily communion at home because Acts <strong><sup>2</sup></strong>:46 says, <em>“The continued daily breaking bread at home.”</em>
+
+**The “image of God” has a nature and an ethical usage—as well as a pattern Christians share with the Lord in suffering (Romans<strong> 8</strong>:28-31).
+
+**<em>Hades</em> is the grave as well as the abode of the dead beyond it.
+
+Multiple meanings affect Matthew <strong><sup>19</sup></strong>:12, where Jesus speaks of people who make themselves eunuchs for the kingdom of heaven’s sake. Does this mean (1) self-mutilation (what about women?) or (2) voluntary celibacy (as in 1 Corinthians<strong> 7</strong>:25-35)? The New International Version assumes the latter and translates it to mean refrain from marriage.
+
+
+3. Language changes over time.
+
+Reading older translations of the Bible shows that English words have changed meanings, sometimes drastically, since those versions were made. Words have fallen out of use; others remain in use among church people as religious jargon, but they do not communicate well outside the Christian community. When Christians use these dead words, they create the impression that the message of Christ itself is a dead, “horse-and-buggy” thing. In l955 Thomas Nelson & Sons published a booklet entitled <em>Bible Words That Have Changed in Meaning</em> (edited by Luther A. Weigle). It listed hundreds of English words and expressions that have changed meanings or dropped out of common parlance since the King James Version was made (1611). Perhaps the most extreme change is the word <em>let</em>, which means “prevent” in Romans <strong><sup>1</sup></strong>:13!
+
+
+4. Language is arbitrary.
+
+<em>The relationship between language forms and meanings is</em> <em>conventional</em>. Language usage is a matter of custom, not necessity. Although there are some objective boundaries on application, no inherent connection exists between sound and referent.
+
+This observation obtains even in cases of onomatopoeia: dogs do not really say <em>arf</em>; cats do not say <em>meow</em>; pigs do not say <em>oink</em>. These are stylized expressions and therefore words. In other languages the “word” for a dog’s bark or a cat’s cry is not the same as it is in English.
+
+
+5. Language is characterized by specialization.
+
+6. Meaning is not carried wholly by words.
+
+Meaning is carried in part by morphemes (meaning units) within a word, by syntactical relationships, contextual considerations, intonation, and gestures (kinesics). Words are relatively imprecise, being shaped by accompanying phenomena in the language, the speaking situation, and the culture. Interpreters have to consider semantics, syntax, and context. Syntax (grammatical constructions) may not be as significant as the flow of thought and nearby subject matter (context).
+
+For an example, see <em><u>Journal of Biblical Literature</u></em> (1996), p. <sup>87</sup>ff.
+
+
+7. Languages differ as to how they categorize reality.
+
+<em>The relationship between language forms and the meanings is rarely the same across languages. </em>For this reason, bogus exegesis happens when people consult an dictionary to get the meaning of an English word and base presentations about the Bible on the meanings they find.
+
+An example appears on page 24 of the August 21, l988, issue of <em>Christian Standard</em>: “The Lord’s Name in Vain,” by Donnie Smith. Many true things get said this way, but not because of the basis given.
+
+Different languages organize reality differently. While reality itself has objective categories, speakers impress additional categories on it. They supply logical and psychological distinctions onto the reality much as geographers project administrative districts like countries, states, counties, and townships onto a topographical map.
+
+Not categorizing reality the same way is partly a function of vocabulary available to a speaker’s own language. In January, 1995, the <em>Reader’s Digest </em>reported that English has an active vocabulary of some 650,000 words, three times that of any other language. A core vocabulary of 50,000 words ranks high with even modern European languages, whose active vocabularies range around 25,000. This abundance of terminology eclipses the New Testament vocabulary of 5,436 items, 3,246 of which occur three times or fewer (Metzger, <em>Lexical Aids</em>, p. 1). The Hebrew-Aramaic vocabulary in the Old Testament is even more limited. Individual words in biblical languages must be more general and versatile than English ones, and the reader must depend more on context and the nature of the case. This disparity in vocabulary is probably one reason modern Western interpreters appeal too much to terms when hearing other languages and in reading the Bible.
+
+**The biblical word <em>give/gift</em> does not have as broad a range in English as does the corresponding Hebrew word נָתַן (<em>natan</em>) or the Greek word δίδωμι (<em>didōmi</em>). English dos not as naturally allow for indirect operation (however, cp. “gifted” as in talented; “who gives this woman to be married to this man?” said in a society where marriage does not eliminate the free will of a woman in choosing a spouse). 1 Corinthians <strong><sup>15</sup></strong>:38 says, <em>“God gives [the kernel] a body even as it pleased him, and to each seed a body of its own.”</em> Such an expression does not conflict with our understanding of genetics. <em>Give</em> can also cover “allow,” especially in Hebrew. 2 Kings <strong><sup>5</sup></strong>:1 says that Yahveh gave victory to Syria/Aram, yet Naaman, as well as his master, was a worshiper of Rimmon (<strong><sup>5</sup></strong>:18-19).
+
+**Γάρ (<em>gar</em>), usually translated “for,” does not always mean “for” or “because” in a sequential sense. (Mark <strong><sup>5</sup></strong>:42: <em>“And immediately the girl rose up and walked, for she was twelve years old.”</em>) So Bible readers should not overdo the old dictum, “When you see a ‘therefore,’ see what it is ‘there for.’” Often γάρ is illative; that is, it “broadens” (<em>latus</em>) and continues the thought by adding something associated with previous information. It expands on the previous point. <em>Wherefore/therefore</em> can mean (1) it derives from the previous point or (2) it is compatible with the previous point.
+
+**Hebrew has no separate form for past perfect (“had done”); so Genesis <strong><sup>2</sup></strong> could be translated “God created” or “God had created” (a feature of Hebrew that fiat creationists might use to remove the conflict between the creation sequence in Genesis <strong><sup>1</sup></strong> and Genesis <strong><sup>2</sup></strong>).
+
+**<em>Fear</em> in English has a more narrow range of meaning than the Greek φοβέω (<em>phobeō</em>), which can also cover “respect.”
+
+**Hebrew uses <em>heal</em> to cover a greater variety of corrective processes than the English word does. It can “fix” a political situation, the climate, something physical, psychological, or spiritual.
+
+**Hebrew <em>mashal</em> ranges more widely than the English <em>rule</em>. That man would “rule” over woman does not have to imply negativity. It is the same word that describes a shepherd who protects and provides for his sheep.
+
+**<em>One another</em> in English tends to be two-directional/reciprocal; in Greek the corresponding term ἀλλήλων (<em>allēlōn</em>) may also be one-directional in a group—“one to another.” That affects the interpretation of Ephesians <strong><sup>5</sup></strong>:21; James <strong><sup>5</sup></strong>:16, and other texts.
+
+** Ἀκούω (<em>akouō</em>) is broader than (a) <em>hear</em>. It covers hearing with the ear, (b) listening, as in paying attention, and (c) heeding, as in “taking something to heart.” Hearers may know someone is talking, but they are not registering; they may hear the words but not “hearken” to the warning.
+
+**<em>Save</em> covers more than “spiritual” salvation; it refers also to relief from slavery, execution, physical illness, and so on.
+
+**The same can be said for <em>hate</em>, <em>be silent</em>, and <em>submit</em>.
+
+
+8. Languages differ in the conventional usages of even the elements they share.
+
+Scripture was not written in our mother tongue; so we are hindered by working only from an English Bible. About all we can do is compare translations, read commentaries, and use language helps that give some access to the Hebrew, Aramaic, and Greek we do not know.
+
+Two languages may both have the same verbal meanings available—aspect, tense, voice, number, person, gender; they may share certain syntactical features and vocabulary items. However, they may not use the same idiom. Idiom is the way a language uses its mechanics as distinguished from the available mechanics themselves. Two languages may not use their same mechanics at the same point. Languages differ in how much they conventionally expect the listener to infer from the nature of the case.
+
+**Greek is satisfied to use the article in places where English calls for the possessive adjective. For example, the gospel account may say, <em>“Jesus laid </em><em><u>the</u></em><em> hands</em> [or, laid hands] <em>on the sick man”</em>; but English wants to specify whose hands even though context makes that sufficiently clear: <em>“Jesus laid </em><em><u>his</u></em><em> hands on the sick man.”</em>
+
+**Greek is satisfied with using simple past for actions previous to other past actions. Mark <strong><sup>3</sup></strong>:10, for example, says, <em>“He healed many”</em>; English wants to say, <em>“He had healed many.”</em> Greek depends on the reader to infer the sequence from what went on. English wants to make explicit that obvious sequence, so it uses the past perfect where Greek does not bother to use its pluperfect.
+
+**Greek articles are used differently from English ones. English has nouns with no article, with definite article, and with indefinite article (in the singular). Greek has article and no article. The pie is being cut up in a different way, and it is not really the same pie. There is no easy rule for correlating articular usage in the two languages, as when people try to say <em>the</em> in English each time Greek has its article and <em>a</em> in English when Greek has no article. Early on, someone misunderstood this point and tried to create an argument against the ontological deity of Jesus by putting <em>a </em>in front of <em>God</em> in John <strong><sup>1</sup></strong>:1ff. John means “the word was deity.”
+
+Others have translated Luke <strong><sup>18</sup></strong>:8, <em>“When the Son of man comes, will he find </em><em><u>the</u></em><em> faith on the earth?” </em>[in contrast to a future perversion of Christian teaching]. Jesus’ point is more general, asking whether he will find “faith” on the earth. The Greek article means identity, and sets the noun over against parallel alternatives. Its absence means quality and draws attention to the characteristics of the referent; hearers are not to let their mind “soft focus” on the object. The distinction is sometimes awkward to bring into English idiom.
+
+**Idiomatic differences between Hebrew, Greek, and English on articles, prompt us to ask whether <em>“Judge nothing before </em><em><u>the</u></em><em> time”</em> (1 Corinthians <strong><sup>4</sup></strong>:5) means simply, <em>“Don’t jump to conclusions”</em> rather than, <em>“Don’t judge anything before the judgment day.” </em>The presence of <em>the</em> probably throws us off. The command may, in fact, be more general.
+
+**The range of meanings in μισέω (<em>miseō</em>) is broader than the word <em>hate</em> that is usually used to render it. English uses <em>hate </em>as a negative for <em>love</em>, but Greek—at least under the influence of Hebrew idiom—contrasts love with both negative and neutral attitudes, especially in statements of contrast. Romans<strong> 9</strong>:13, for example, quotes God’s statement in Malachi <strong><sup>1</sup></strong>:2-3, <em>“I loved Jacob and hated Esau;”</em> that is, <em>“I set Esau aside.”</em>
+
+Matthew <strong><sup>10</sup></strong>:37 (= Luke <strong><sup>14</sup></strong>:26) records Jesus as saying, <em>“The one </em><em><u>loving</u></em><em> father and mother </em>[and so on] <em><u>more than</u></em><em> me is not worthy of me.”</em> But in a parallel passage Luke <strong><sup>14</sup></strong>:26 puts it, <em>“If people come to me and do not </em><em><u>hate</u></em><em> their own father</em> [<em>etc</em>.]<em>—yes, even their own life as well, they cannot be a disciple of mine.”</em>
+
+John<strong> 12</strong>:25 combines with Luke <strong><sup>14</sup></strong>:26 in speaking about hating one’s own life, yet Paul says, <em>“People never hated their own flesh”</em> (Ephesians<strong> 5</strong>:29). Genesis <strong><sup>29</sup></strong>:31, 33 says Jacob loved Rachel and hated Leah (cp. Deuteronomy <strong><sup>21</sup></strong>:15-17); that is, <em>“He loved Rachel more than Leah.”</em>
+
+In the Sermon on the Mount, Jesus teaches, <em>“People cannot serve two masters; for either they will hate the one and love the other, or they will hold to the one and despise the other; you cannot serve God and mammon”</em> (Matthew <strong><sup>6</sup></strong>:24). The word <em>despise</em> here is also used in Hebrews <strong><sup>12</sup></strong>:2, <em>“. . . who for the joy that was set before him endured the cross, despising the shame.”</em> Hating one master and loving the other compares with holding to one and despising the other and parallels God and riches, which are not antithetical except as ultimate frames of reference—the point of the slavery image. Loving one “more than” the other seems satisfactory here, whereas in Hebrews <strong><sup>12</sup></strong>:2 <em>despise</em> has the feel of disregard.
+
+The rabbinic gloss on <em>“Love your neighbor</em> [and hate your enemy]<em>”</em> (Matthew <strong><sup>5</sup></strong>:43) may also have been a positive-neutral contrast rather than a positive-negative one.
+
+As a result, <em>hate </em>has a range of usages all the way from “hate” as in English to “disregard,” to “love less than.” It can represent exaggeration, relative negative, but not literal. The neutral-negative variable for love and hate also comes into the discussion of John<strong> 3</strong>:16-21; <strong><sup>4</sup></strong>:39-42; Romans<strong> 9</strong>:13.
+
+A similar phenomenon occurs when Samuel selects David to replace Saul. When Jesse brought his son Eliab, the Lord told the prophet that he had <em>“rejected”</em> him (1 Samuel<strong> 8</strong>:6); but when Jesse brought Abinadab forward, the Lord said, <em>“I have not chosen him”</em> <strong>(8</strong>:8, 9). <em>Reject</em> evidently approximates <em>“not choose.”</em> In this case, positive and neutral are in language terms treated as positive and negative. Rejecting amounts only to passing over in some cases. The love-hate, reject-take variations are part of a general Hebrew characteristic of dealing with matters in binary fashion when they can actually be negative, neutral, or positive.
+
+Note the connection with “Law of Contrast” below.
+
+
+9. The flexibility of language
+
+<strong>One big plague in biblical interpretation is not allowing language to have its naturally flexible character. </strong>(See “Hindrances to Interpretation: Technicalizing Terminology.”) Its flexibility shows up in a number of the characteristics already noted: terms not always meaning the same thing, terms changing over time, using terms in loose ways, coining new usages, and the rest.
+
+People interpret written language more closely than spoken language, possibly because they suppose that writers choose their words more carefully. Speakers do not have as much time to choose the wording of their ideas, they can add another statement for clarification, and they can rely on other tools like gestures, stress, and voice inflection. Since readers expect writers to be more deliberate, they read more rigidly. They expect the Bible to have the precision of a book on science or philosophy, but it is written in the vernacular for common people to deal with practical problems. Its fluidity is due additionally to being written by more than forty authors over a period of 1500 years. Exact expression and consistent usage do not obtain under such conditions.
+
+One difference a word may develop is connotation <em>vs</em>. denotation <em>vs</em>. word picture. Word picture is the image a word like <em>automobile</em> derived from (“self-moving”). Denotation is quantitative reference; connotation is qualitative reference like positive-negative attitudes and shallow-deep degree (intensity). Denotation addresses the factitive, the objective, the discrete; connotation addresses degree matters. Denotation is what a word normally refers to (“car” <em>vs</em>. bus, tractor, bicycle, motorcycle, airplane). Connotation adds affective associations picked up through custom of usage or the subject it is typically attached to. Connotation includes good <em>vs.</em> bad, personal <em>vs</em>. impersonal—especially in English; intensity and degree. In sum, word picture helps least in getting the point.
+
+The word <em>Jews</em> regularly has a negative connotation in John, referring to the Jews that rejected Jesus as Messiah.
+
+<em>				Tradition</em> has a good connotation in 1 Corinthians <strong><sup>11</sup></strong>:2; 2 Thessalonians <strong><sup>2</sup></strong>:15, <strong><sup>3</sup></strong>:6; but a negative one in Galatians <strong><sup>1</sup></strong>:14 and Colossians<strong> 2</strong>:8.
+
+
+10. The ambiguity of language (See “Inscripturation: Sources of Ambiguity” as well as “Confusing Language and Reality.”)
+
+
+C. Nature of Communication
+
+
+Communication situations have five aspects. The referent is the person, place, thing, or abstraction referred to. Perception is the appropriation of that object into the mind. Conception is the idea formed in the mind. The expression encodes in language the speaker’s conception. The decoded idea is what hearers conjure up in their own mind when they hear the speaker’s expression.
+
+
+
+Perversions can occur at any junction between these aspects. In biblical communication, inspiration guarantees against error up through the encoding, but error can come in the illumination aspect because no promise guarantees against error in “decoding.” That is the reason for studying hermeneutics. We must learn how to think, how language operates, how the biblical languages operate, how our own language operates, how to transition from the former to the latter and from that culture to ours, how to generalize, and how to apply.
+
+
+I. THE BIBLE: THE DIVINE AND THE HUMAN
+
+
+A.	Relationship of divine and human in writing the Bible (inscripturation)
+
+
+1.	Distinction between theological and philosophical method
+
+Theology uses reason on revelation in terms of experience to understand content; philosophy uses reason on experience to generate content. Theology—at least Christian theology—is interpersonal; most philosophies are impersonal in their ultimate frames of reference.
+
+
+2. Range of possible human-divine interaction (See “Five Models for Completely Reliable Scripture.”)
+
+a.	Dictation of words
+
+b.	Implantation of ideas
+
+c.	Given abilities
+
+d.	Granted experiences
+
+e.	Bestowed offices
+
+
+3.	Sources of ambiguity in scripture
+
+Two kinds of ambiguity in language communication are (1) equivocation and (2) amphibole. Equivocation means using in an unclear way a word that has multiple meanings: “He was lying there ‘stoned’ on the beach” (drunk or pelted with rocks?). Amphibole means putting syntactical elements together in unclear ways: <em>“. . . Mary and Joseph and the babe lying in the manger” </em>(all three or just the baby in the manger?). Equivocation is ambiguity between word and referent; amphibole is ambiguity between one word and another word. Problems can occur on the delivery side of communication, which hopefully occur in scripture only in places not materially affecting faith and practice. The sources of ambiguity below lie more in the nature of situations than in the quality of language expression itself.
+
+
+a. Language deficiencies
+
+The imprecision of language combines with the fact noted before that it does not reproduce the situation, but only enough to call up the full picture in a listener’s mind as known from elsewhere. To some extent, meaning is private to authors because they do not “speak their whole mind.” It operates like a code by which a document may be called up on a computer, a symbol that “stands for” a larger amount of information than it specifies. <strong>(a)</strong> In most cases, a hearer already knows much or even all the information. A speaker needs only to draw attention to it. Furthermore, <strong>(b) </strong>hearers can figure out some things on their own. In fact, such “active listening” makes listening more interesting. If speakers say everything, they risk “talking it to death”—something we do to get a sense of psychological control over what is bothering us or because we fear that others are looking for omissions to fill in, “loopholes” to “top,” or excuses to correct.
+
+The same thing happens in Bible reading that happens in everyday conversation. Readers can foist off their own interests on a writer’s statements and thereby supply a context that shapes what they hear. A distinction in their mind may not be in the speaker’s mind and <em>vice versa</em>.
+
+Language is most deficient in <strong>(a) </strong>abstract <em>vs</em>. concrete references and in <strong>(b)</strong> the affective <em>vs</em>. cognitive (subjective <em>vs</em>. objective) ones. These items are not so easy for other people to “flesh out” from their own experience or to convey from speakers’ experience to hearers’ awareness.
+
+**Mary, the mother of Jesus (Luke <strong><sup>1</sup></strong>:18), and Zechariah, the father of John the Baptist (Luke <strong><sup>1</sup></strong>:34), react similarly to the divine messenger about the future birth of their sons, but the two responses evidently differed in a way that the language does not reflect. Zechariah was struck dumb; Mary was not.
+
+Greek loves participles, which leave unclear the distinctions within the verbal idea: time <em>vs</em>. means, manner, cause, condition, concession, purpose, result, coordinate circumstance, and attendant circumstance. The most accurate translation uses English participles for Greek ones, because that makes the English as ambiguous as the original. It puts the English reader at the same disadvantage an original reader would have experienced.
+
+Greek—especially under Hebrew influence—puts one noun in modifying relationship with another by using the genitive case. The genitive case merely connects the one noun to the other; how their referents connect remains unspecified: the genitive noun may cover for description and possession as well as objective, subjective, appositive, or originating relationship. A reader has to figure out which manner of connection applies to each case. Again, the most accurate English rendering uses a “___ of ___” format.
+
+<em>Coals of fire</em> (Romans <strong><sup>12</sup></strong>:20) means “fiery/burning coals”; <em>man of God</em> means “godly man” but could also mean “spokesman for God.” <em>To the praise of the glory of the grace of him</em> (Ephesians<strong> 1</strong>:6) means “to the praise of his glorious grace.” Romans <strong><sup>8</sup></strong>:35, 39 speak of the love of God; but is it God’s love for us or our love for God? In this case <strong><sup>8</sup></strong>:37 apparently resolves the difficulty.
+
+For examples of the other kinds of ambiguity in biblical languages, see “Selected Linguistic Phenomena.”
+
+
+b. Written language deficiencies
+
+Writing a language loses several cues to meaning: facial expressions, gestures (kinesics), voice inflection for emphasis, pauses, which particularly affect the connotation of statements—sarcasm, hyperbole, humor.
+
+Plato preferred oral over written presentation because the oral carried the meaning better. Papias’ may have meant the same thing in preferring oral testimony of those who had known the apostles. Besides, in oral communication the hearer can ask questions. If these were his reasons, it is not proper to use Papias’ comment to prioritize tradition over scripture.
+
+The loss of these features in written language expression affords significant meaning loss. Researchers believe that non-verbal cues transmit more than half the meaning; manner of speaking supplies about a third of the meaning; words by themselves convey only 10%! The implication for ambiguity in written revelation is obvious.
+
+
+(1) No punctuation marks appear in the earliest Greek manuscripts.
+
+(a) Quotation marks: Where do Jesus’ words end in John <strong><sup>3</sup></strong>? Where do Paul’s comments to Peter end in the Galatians<strong> 2</strong> account of the Antioch interchange (at verse 14?)? Perhaps in these cases the lack of a quotation-mark convention allowed the writers to fade out of quoted into unquoted material without a concern to mark an inconsequential change.
+
+(b) Question marks: although some questions can be recognized as questions on the basis of vocabulary (interrogative words, a distinctive negative for questions anticipating a negative response), in several cases, New Testament sentences could be statements or questions: <strong>Matthew</strong> <strong><sup>16</sup></strong>:2-3; <strong><sup>22</sup></strong>:17a; <strong><sup>23</sup></strong>:37; <strong><sup>24</sup></strong>:3; <strong><sup>25</sup></strong>:26; <strong><sup>26</sup></strong>:45, 50, 55, <sup>62</sup>a, <sup>64</sup>a; <strong><sup>27</sup></strong>:11b, 42; <strong>Mark</strong> <strong><sup>2</sup></strong>:16; <strong><sup>4</sup></strong>:21b?, 28; (<strong><sup>7</sup></strong>:18-19); <strong><sup>9</sup></strong>:11, 28; <strong><sup>13</sup></strong>:4; <strong><sup>14</sup></strong>:41, 48, <sup>64</sup>a, 68; <strong><sup>15</sup></strong>:2c, 31; <strong>Luke</strong> <strong><sup>4</sup></strong>:34, 36; <strong><sup>11</sup></strong>:13; <strong><sup>12</sup></strong>:49-50; <strong><sup>13</sup></strong>:34; <strong><sup>17</sup></strong>:18; <strong><sup>19</sup></strong>:22; <strong><sup>20</sup></strong>:2, 52, 70;<strong> 23</strong>:3; <strong>John</strong> <strong><sup>4</sup></strong>:48; <strong><sup>7</sup></strong>:28; <strong><sup>8</sup></strong>:25;<strong> 12</strong>:19, 27; <strong><sup>14</sup></strong>:2; <strong><sup>16</sup></strong>:32; <strong><sup>18</sup></strong>:37; <strong><sup>20</sup></strong>:29; <strong>Acts</strong> <strong><sup>2</sup></strong>:11?;<strong> 5</strong>:4?, 8?; <strong><sup>9</sup></strong>:21b?; <strong><sup>10</sup></strong>:29?;<strong> 23</strong>:9?; <strong>Romans</strong> <strong><sup>2</sup></strong>:23; <strong><sup>8</sup></strong>:33, 34;<strong> 11</strong>:2-3, 12, 24; <strong>1 Corinthians 1</strong>:13a; <strong><sup>5</sup></strong>:2, <sup>12</sup>b, <sup>13</sup>a; <strong><sup>6</sup></strong>:4; <strong><sup>12</sup></strong>:15, <strong><sup>16</sup></strong>; <strong>2 Corinthians</strong> <strong><sup>10</sup></strong>:7; 1<strong><sup>1</sup></strong>:8; <strong><sup>12</sup></strong>:19; <strong>Galatians 4</strong>:10; <strong>Hebrews</strong> <strong><sup>9</sup></strong>:14, 17; <strong><sup>10</sup></strong>:2, 29; <strong>James</strong> <strong><sup>2</sup></strong>:1, 18, 19, 22; <strong><sup>4</sup></strong>:5 ± quotation, 15?; <strong><sup>5</sup></strong>:6b; <strong>2 Peter 3</strong>:11-12.
+
+(c) Commas: without these marks the Greek text does not differentiate restrictive and non-restrictive clauses. That distinction must be inferred from context and topic. Editors supply punctuation in modern texts, and the rules do not match current English usage. In fact, the punctuation rules in King James English up into the twentieth century differed from those used today, especially as regards restrictive and non-restrictive clauses, Old English set off all clauses with commas regardless.
+
+(d) no periods: where a sentence ends is unclear in a few cases.
+
+John<strong> 1</strong>:3-4 presents just such a variance: <em>“Without him not even one thing came to be that has come to be. In him was life and . . .” “Without him not even one thing came to be. What has come to be in him was life and . . .” </em>
+
+(2) The Hebrew texts of the Old Testament originally had no vowel points, which causes ambiguity in cases like Genesis <strong><sup>1</sup></strong>:1 and Psalm <strong><sup>22</sup></strong>:16 (cp. John <strong><sup>19</sup></strong>:36); Hebrews <strong><sup>1</sup></strong>:8 < Psalm <strong><sup>45</sup></strong>:6.
+
+(3) The New and Old Testament provide abbreviated accounts, which are amazingly concise for the range of subject matter and the time span they cover.
+
+The conversion accounts in Acts do not always mention every aspect of the convert’s response. Repentance is mentioned in one, belief in another, baptism is not always mentioned. The speeches in Acts as well as the discourses and sayings material in the gospels surely summarize more expanded presentations.
+
+
+(4) The earliest New Testament manuscripts had no word divisions.
+
+(5) New Testament writers’ use of amanuenses might introduce stylistic differences that affect critical introduction issues like authorship.
+
+(6) Some passages may intend sarcasm, but they contain no written indicators to that effect.
+
+<em>“They said to him, ‘Sir, evermore give us this bread’”</em> (John
+
+<strong><sup>6</sup></strong>:35).
+
+A reader could miss the light sarcasm in Paul’s comment to the Corinthians<em>, “Forgive me this wrong!”</em> (2 Corinthians <strong><sup>12</sup></strong>:13). It seems unlikely that he was admitting error in not taking financial support since he states his intention to continue the practice (<strong><sup>12</sup></strong>:14).
+
+Some have suggested that <em>Christian</em> had a derogatory connotation at first, but we cannot determine that from Acts <strong><sup>11</sup></strong>:26: <em>“They were called ‘Christians’ first in Antioch.” </em>
+
+
+(7) Some cases may have conveyed humor.
+
+In Luke<strong> 14</strong>:20 one guest invited to a feast said he could not come because he had got married.
+
+Jesus speaks of a log being in someone’s eye (Matthew <strong><sup>7</sup></strong>:3-5).
+
+
+(8) Unlike modern English that can use underlining, italics, bold print, quotation marks, or even all capitals, the Bible has limited devices for indicating stress. As a result, writers could not show which word in a sentence should be stressed. For examples of the difference it makes to stress various words in a sentence, see “Misreading Restrictive and Non-Restrictive.”
+
+Greek can indicate emphasis with an express pronoun subject. Since verb endings indicate person and number, adding a nominative-case pronoun normally adds stress to the subject. This may not always hold true, however, especially in John’s writings. Some nominative pronouns do not seem to fit with a need for emphasis. Instead, he may be reflecting a Semitic tendency for subject pronouns without accompanying linking verbs to cover the “is” of identification. Second attributive adjectives may imply more stress than first attributive ones, but that observation probably does not hold true in Revelation, which has so many of them. Reversing the normal order in a Greek sentence tends to emphasize a word that is, say, put at the head or end of the sentence.
+
+(9) Greek had no lower-higher-case variable in the original uncial Greek manuscripts; they were all in capitals (without punctuation or word divisions).
+
+Several passages leave uncertain whether to capitalize the word <em>S/spirit</em> as in Galatians<strong> 5</strong>:16-26 and elsewhere.
+
+In Philippians <strong><sup>4</sup></strong>:2 commentators have proposed that “true ‘yokefellow’” should be rendered as a proper name: “true <em><u>Syzygos</u></em>.”
+
+
+(10) Manuscripts have no device for hyphenation.
+
+Ephesians <strong><sup>4</sup></strong>:11 is probably not “pastors and teachers,” but “pastor-
+
+teachers.”
+
+Modern English affords some cases where written form is clearer than oral. (a) The proliferation of homophones in English creates situations where written is clearer because the spelling is different.
+
+In “Hark! the Herald Angels Sing” the third verse says, “Hail the Sun of righteousness.” A listener cannot tell <em>sun</em> from <em>son</em>. Greek and Hebrew have hardly any homophones whereas English is loaded with them. About the closest thing comes the textual variant between χρηστός (<em>chrēstos</em>, “good”) and Χριστός (<em>Christos</em>, “Christ”) in 1 Peter <strong><sup>2</sup></strong>:3. It is either a pun or an iticism (an η to ι shift).
+
+(b) English punctuation sometimes clarifies the difference between restrictive and non-restrictive modifying clauses and phrases. That distinction must be inferred from context in the New Testament, because the earliest Greek manuscripts had no punctuation.
+
+Written language has the advantage of permanence; writing can better retain people’s statements after they are gone (2 Peter <strong><sup>1</sup></strong>:12-15;<strong> 3</strong>:1-2). It makes multiplication easier and allows for a more thoughtful wording of ideas, which enhances clarity and efficiency. A final advantage is accuracy; written materials prevent fewer errors from creeping in than do memory and oral tradition.
+
+
+c. Textual-transmission errors
+
+Not much ambiguity has been created over the centuries by miscopying scripture. Most “typos” are readily recognizable as such. On a few occasions, matters of minor consideration arise from textual divergence. The major New Testament textual variants appear in the conclusion to the Lord’s Prayer (Matthew<strong> 6</strong>:13b), the conclusion to Mark’s gospel (<strong><sup>16</sup></strong>:9-20), Luke <strong><sup>9</sup></strong>:55b (<em>“You do not know what kind of spirit you are of”</em>); the woman taken in adultery (John <strong><sup>7</sup></strong>:53-<strong><sup>8</sup></strong>:11), Acts <strong><sup>8</sup></strong>:37 (<em>“If you believe, you may.”</em>), Acts <strong><sup>15</sup></strong>:34 (<em>“But it seemed good to Silas to remain there”</em>), misplacements of the benediction and doxology in Romans <strong><sup>16</sup></strong>:24 + 25-27, the troubling of the water in John <strong><sup>5</sup></strong>:3b-4, the “three witnesses” passage in 1 John <strong><sup>5</sup></strong>:8. Textual variants do  not affect any doctrinal issues.
+
+
+d. Translation difficulties
+
+Since Bible study works across language barriers, it loses some precision; modern languages and biblical languages do not correlate fully. The problem is compounded by time lapse and cultural drift across twenty-one centuries. In a few cases, events originally recorded in Aramaic and discussions originally carried on in Aramaic have come down in a Greek record translated into English by scholars with various doctrinal biases and linguistic skills.
+
+The Greek of the New Testament has been somewhat influenced by Hebrew idiom since all the writers were Jews. So, good translation and proper exegesis must take into account the influence of Hebrew idiom on Greek usage.
+
+As with all languages, Greek during the first century was in flux. It was, for example, losing the original significance of the middle voice. Romans<strong> 9</strong>:22, accordingly, could be translated “vessels fitted for destruction,” “vessels that fitted themselves for destruction,” or, more likely, “vessels fit for destruction.” Some matters of vocabulary are not always clear: “because/that” for ὅτι (<em>hoti)</em>; “for/in/among/in the manner of/by” for ἐν (<em>en)</em> + dative case (note “baptize in/with water”). <em>Is</em> is often not expressed: Ephesians <strong><sup>6</sup></strong>:17; 2 Timothy<strong> 3</strong>:16; Hebrews <strong><sup>1</sup></strong>:8. Vocative and nominative are alike in most cases; so Hebrews <strong><sup>1</sup></strong>:8 says, <em>“Your throne, O God, (is) forever and ever” </em>or, less likely, <em>“Your throne (is) God forever and ever.”</em>
+
+
+e.	Cross-cultural difference
+
+The cultural disjunction between biblical times and the present Western world leads to reading the New and Old Testaments without the proper framework in mind. Furthermore, it is unclear at times whether the original writers presented within their own implicit cultural limitation or whether they were speaking transculturally for all time. This difficulty relates to the need to distinguish advice from commandment, certain marriage issues, and several social questions. 1 Corinthians<strong> 7</strong>:36-38 probably relates to a father’s giving his daughter in marriage rather than a fiancé deciding to marry his girlfriend. What was the significance of veil-wearing, and what was the consequent custom of usage? Table fellowship among Jews implied more than eating together would today in the Western World (Acts [<strong><sup>10</sup></strong>:9-16] <strong><sup>10</sup></strong>:28; <strong><sup>11</sup></strong>:2-3; Galatians<strong> 2</strong>:11ff.). “Shunning” may not “pack as much punch” in modern Western societies (Romans <strong><sup>16</sup></strong>:17; 2 Corinthians <strong><sup>5</sup></strong>:9-13; 2 Thessalonians<strong> 3</strong>:6, 14; Titus <strong><sup>3</sup></strong>:10-11; 2 John 10)
+
+
+f. Time factor
+
+Because modern interpreters are so long removed from biblical events, they have difficulty recovering information about customs, places, word usage, and the like. Some supporting documents no longer exist. Archaeology may help somewhat to alleviate this difficulty.
+
+
+g. Interpretation problems
+
+Even when speakers address each other in the same culture, time, and language, they do not always hear each other right because of pride, presupposition, irrationalism, and insufficient concept inventory. (See “Hindrances to interpretation.”)
+
+A couple factors help compensate for these sources of ambiguity: (a) understanding the unclear in light of the clear (Ephesians <strong><sup>5</sup></strong>:21 in light of Colossians<strong> 3</strong>:18; Titus <strong><sup>3</sup></strong>:5; 1 Peter <strong><sup>3</sup></strong>:1, for example) and (b) understanding the situational in light of the general.
+
+
+B. Resultant nature of scripture (bibliology)
+
+
+1. Is, contains, becomes the Word of God
+
+
+a. The Bible is the word of God.
+
+When evangelicals use this statement, they do not mean to disregard the distinction between medium and message, words and referent. They subscribe to the concept “Beyond the sacred page I see thee, Lord.” By <em>is</em> they mean “correlates with” the truth as reality itself; they mean it is as if God himself isd speaking there In doctrinal discussions and scholarly endeavors, interpreters can get lost in intellectual reasoning at the word level, or they do not profit from the message because they seek understanding without seeking God.
+
+
+b. The Bible contains the word of God.
+
+<em>Contains the word of God</em> implies that the Bible is not all God’s word. Mixed in with spiritual insight are the words of people, including wicked laws and common misunderstandings of the day in scientific, historical, and geographical matters. This viewpoint has been associated especially with the older modernism with its historical skepticism and low regard for the accuracy of biblical materials. It is invoked—perhaps unconsciously—by Christians that do not feel comfortable being at odds with modern notions about general evolution, corporal punishment, and homosexual behavior.
+
+
+c. The Bible becomes the word of God.
+
+Karl Barth popularized the idea that scripture “becomes” the word of God in contrast to “contains” it or “is” it. There are senses in which the phrase “becomes the word of God” could carry a helpful idea. If the written communication is distinguished from the referent, then (1) when people read the text, they become aware of the referent. In that process it could be said that the word becomes for them the word of God. That concept, however, blurs inspiration and illumination because it melts together objective meaning and subjective appropriation of that meaning as well as behavioral, interpersonal relationship to him of whom it speaks. In a way, objective and subjective do blend together in interpersonal encounter; but content that establishes values for behavior, makes promises about the future, preserves accounts of God’s mighty acts, and gives descriptive teaching about God and creation is not susceptible to “becoming.”
+
+“Becoming the word of God” in such cases approaches the concept of (2) eschatological method. This “method” of theologizing says the meaning of an event is what that event leads to—what it “becomes.” The meaning of the “Christ event” lies in its impact on subsequent human history. Impression (viewer) substitutes for intention (Author). Christ and what he did became meaningful because of differences it kicked up afterward; what he meant lies in the legacy that descended from him.
+
+However, scripture offers more than a series of events that by hindsight lead to their end products. It is not a matter of seeing the end and letting it select out of the random events that culminate in an eventuation point. It is not that the end selects the events that produce it; God declares the end from the beginning. So the meaning of the events is in the events rather than read into them by perceivers who are affected by them and react so as to bring about the events “inspired” by this Person. Therefore, scripture does not record the reflections of perceivers, but records revelation from God about the intended significance of those events. Interpreting that “revelation” means striving to apprehend meaning injected by God rather than meaning perceived by men.
+
+This scenario can be illustrated by the life of Joseph. As a young man he dreamed about the moon and stars bowing to him. Any young boy might have a dream like his; but in Joseph’s case his dominance over his brothers actually came to pass later and in striking fashion. When it came to pass, the original dream became the word of God. Other boys’ dreams did not materialize, so their dreams were not revelation that could “become the word of God.” Information and events have the character of revelation because it is as if God is speaking, who always speaks truly.
+
+Containing and becoming the word of God fall short of the claim scripture makes for itself. In the proper approach, the interpreter grants the claim—as provisionally guaranteed by the omnipotence and omniscience of God (theoretical approach)—and measures the features of biblical content against that claim (phenomenological approach).
+
+
+2. Inerrancy, infallibility, sufficiency, authority
+
+See notations in “‘God-Breathedness’ as the Character of Scripture.” The inerrancy issue has importance primarily for interpretation more than to apologetics. It is a question of meaning more than truth.
+
+
+3. The Bible and other books
+
+a.	Strictly speaking, the Bible as a book written in human language is interpreted like any other example of human language. The issue is not who speaks through this medium, but the nature of the medium and the rules that govern its use.							We are talking here about how language operates, not about what it says. It is a consideration of form, not content—linguistics, not meaning. The approach does not imply that since other books make false claims, we can deny, say, that supernatural things in scripture are literally true because such things would be false elsewhere. An interpreter attempts to get at what the author meant rather than decide whether it is true; interpreting and believing are two different endeavors. The idea, for example, is not to justify the anti-supernatural bias in modern Western societies, but to understand the Bible.
+
+Much discussion today on women’s issues, for example, slides around on the evidence because people will not let New Testament writers say what they mean. Deciding on application in current situations raises a different question whose answer depends on unvoiced assumptions Paul was making. The application step requires finding legitimate ways to discover those assumptions—as based on the nature of the issue, the kinds of reasons he gave, the ramifications of supposing an implicit cultural limitation. We must let Paul and other writers say what they want to say on such topics; then we decide whether it is true or whether we can make adjustments in applying it.
+
+b.	Readers allow for inconsistency in normal books and understand the conflicting parts as they seem individually to be meant. In the Bible, however, interpreters keep working with it till they figure it out harmoniously; they do so because they begin with the assumption that the Bible harmonizes throughout. They do so because of the claim it makes for itself, and they measure the phenomena against the claim. When we assume speakers are telling the truth, we “give them the benefit of the doubt,” as the saying goes. That means an author’s words are taken in a way that fits with viewpoints known from elsewhere, not in a way that conflicts with reality or what the author says elsewhere.
+
+
+christir.org

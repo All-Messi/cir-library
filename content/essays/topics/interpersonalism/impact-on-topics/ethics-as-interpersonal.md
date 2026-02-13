@@ -1,0 +1,107 @@
+---
+author: Virgil Warren, PhD
+categories:
+- Topics
+- Interpersonalism
+- Impact On Topics
+date: '2026-02-13'
+draft: false
+title: ETHICS AS INTERPERSONAL
+weight: 3
+---
+
+
+
+
+I. Ethics, morality, and goodness pertain to behavior in personal relationships.
+
+Ethics does not deal with being (ontology), substance (hypostasis), the material realm. Augustine set aside that concept of ethics in his costly error of identifying evil as loss (privation) of form in substance relative to its pristine condition. That starting point generated natural depravity for explaining universal, all-pervasive sin and the impossibility of self-salvation. According to his thinking, sin was a function of inheritable mis-being.
+
+Not only do ethics and morality not pertain to being, or substance; they do not have their grounding in earthly being. John <strong><sup>3</sup></strong>:1-15 recounts Jesus’ conversation with Nicodemus, a member of the Jewish Sanhedrin. The Lord told him that people must be “born anew,” “born from above.” Rebirth from above calls for a new beginning from a transcendent viewpoint. It is heavenly rather than earthly (<strong><sup>4</sup></strong>:12-13); it is the “kingdom of God” (cp. Matthew’s “kingdom of heaven” that replaces “the kingdom of God” in the other synoptics). Born from above and born of the spirit contrast with physical birth. Instead of taking this as miraculous regeneration by the Holy Spirit, we take it in contrast to the earthly, material, political Messianic kingdom expected by Jews like Nicodemus.
+
+The transcendent lifestyle in John <strong><sup>3</sup></strong> corresponds with the resurrected lifestyle in Romans<strong> 6</strong>:1-14 and 1 Corinthians <strong><sup>15</sup></strong>:20-34 and the ascended lifestyle of Colossians<strong> 3</strong>:1-4. The Colossians were to set their minds on things where Christ dwells, no longer living like the physical people they had been. The reborn, resurrected, ascended, heavenly, transcendent, spiritual lifestyle means that values for living do not arise ultimately from the material, fleshly, physical, imminent realm but descend from the outside—from the spiritual, the interpersonal. “Spirit” through love forms the basis for living in contrast to worldly living by “flesh” (Galatians <strong><sup>5</sup></strong>:13-26; cp. Ephesians <strong><sup>2</sup></strong>:1-10).
+
+Christ has the pre-eminence in everything (Colossians <strong><sup>1</sup></strong>:18) as distinguished from secret <strong>knowledge</strong> (Gnosticism) that would move people through realms with decreasing proportions of evil matter relative to good spirit until they reached the realm of pure spirit. Behavior in personal relationship (“Christ”) replaces living by rules (ordinances) and asceticism, which have no value against fleshly indulgences (Colossians <strong><sup>1</sup></strong>:20-23). Non-interpersonal matters are irrelevant to Christian conduct. They are at best cultural mores or personal preferences.
+
+The difference between rules and principles is that principles arise from the general nature of things whereas rules are (a) approximate regulations enforced on the basis of authority relative to quantifiable considerations. (b) For practical purposes laws are simplified patterns because addressing every possibility makes laws unwieldy. The rules we make for our kids we relax as they understand real circumstances. They fine tune for themselves what works well.
+
+We also make laws because (c) rules foster more consistent treatment of people. Some might feel offended because other, more capable people are treated better than they are. The problem arises because people fear partiality; law helps avoid partiality by making laws separate from people who enforce them.
+
+Either in addition to condemnation or concomitant with it, the letter of the law stifles because it is so exacting; people that try to live totally under its demands end up frustrated and fearful. That dampens their spirit and enthusiasm for living. Instead of abstract, unbendable rules, Paul understood that the gospel accomplishes the same purpose as law (Romans <strong><sup>3</sup></strong>:31)—human righteousness unto relationship, but it does so without the negative effects of law when put in primary position. Law needs to remain in secondary position; it is instituted to define righteousness. If law is made absolute, it kills (2 Corinthians <strong><sup>3</sup></strong>:6).
+
+Since morality deals with persons in relationship, we cannot rely on legislated morality. The nature of the solution must match the nature of the problem. A legal solution to an interpersonal problem does not work. Enacting laws seems to work, but when they are removed, the undesirable behavior reappears. Law is absent in a sense when the executor (police) is absent or the judge cannot know the evil intent behind a good-looking act. The motivation of law is fear; so when the law and its penalties are not present, people act overtly as they wanted to act covertly all along. Only if the principles are written on the heart will people continue the behavior after law is annulled. Law only supplements conviction; it restricts the actions of unwilling people so other people can exist in peace. Laws are for law breakers. Moral people do not need them, because they are impelled from within by love instead of compelled from without by law.
+
+Interpersonalism explains why morality is not an end in itself (cp. p. 295 in the “Preface” to <em>The Business of Heaven</em> in <em>The Inspirational Writings of C. S. Lewis</em>). Moral behavior is important only to social relations. Other actions are opinion and matters of self-determination. Being relative to relationship means relative to the purpose of the Other, which connects to objective meaning and subjective goodness.
+
+
+II. Ethics and morality originated in a Person and are done by persons.
+
+“Morality” means more than effective <em>vs</em>. ineffective, or natural <em>vs</em>. unnatural (<em>What the Bible Says About Salvation</em>, pp. 19-20). It applies to the purpose of the creator of our nature. Ability does not correlate one-to-one with right action, because we can do a wider range of acts than God’s will for us. Since purpose in relationships governs ethics, right and wrong may not always have a scientific basis. Science deals with matters from the standpoint of what people’s in-built nature can do. It may not be possible to find a scientific explanation for every moral directive in scripture. If nature always corresponded exactly with behavioral expectancy, there would not be any free will or immorality. God’s will for us is more restrictive than our natural ability or even his general providence. Ethics has an eschatological thrust.
+
+Sin is disobedience to God’s expectancy. But that morality is not so much about the standard itself about the will of the Person who established it. Behavior must not be conceived of in separation from him; otherwise, that standard becomes artificial in circumstances not envisioned in his revelation. We do not relate to a standard so much as to the Person behind it. Righteousness does not mean conformity to unrelenting do’s and don’ts; it is measured by an objective standard but not an abstracted one.
+
+Objective standard applies to others than the creator and “purpose” himself. With God, objective and subjective are the same. His own eternal nature and chosen character leads to appropriate purpose and subsequent creation compatible with it. His holiness rests on consistency between his nature, purpose, and acts. Our holiness rests on consistency between our acts and his revelation. Our holiness without revelation must rest on consistency between acts and conscience.
+
+God earned the right to direct us by creating us and sustaining us. Having brought us into existence, he bears responsibility for us. Consequently, he has not gained that right by delegation from another nor obtained it by conquering other—us included.
+
+Machiavellianism and might-makes-right represent two misformulations of ethical bases. The end may not justify the means because what “I” intend to accomplish can run counter to the nature and welfare of other persons affected by my choices. Machiavellianism represents an impersonal approach to operating in an interpersonal situation. The one deciding on the “end” does so without considering who is harmed, manipulated, or demeaned to achieve it. It is a self-centered approach when made without consideration of other people.
+
+Ethics needs to put relationships ahead of issues so that individual matters take care of themselves. The point here is not that human acts exist in the larger context of right relationships. Putting them in that context means (a) greater motivation to deal properly with specifics because context keeps the matter personal.
+
+Centralizing person also puts a (b) positive context around moral directives and removes the negative tone associated with mandates by someone else. The positive context supplies a reason for acting in certain ways. It provides purpose for acting in a way that people we love prefer.
+
+Centralizing person provides a (c) flexibility that rules lack. The flexibility is created by our motivation in doing and by understanding by the One we follow. The “fudge factors” on each side of the association are grace and faith. Ethics (general principles) and morality (specific acts) dictate what we do to fit with people we live among—fitting in with their nature, needs, and purposes as well as God’s purpose for them.
+
+
+III. Right and wrong includes the intent of an act, not just the act itself.
+
+Goodness includes attitude and motive as participants in the intent of an action. This point can cut two ways. We can do the wrong thing out of sincere motive, and other people can decide to overlook the error because they understand our heart. Their decision does not change the fact that we did wrong, but it changes the effect it has on them. Conversely, right actions done out of wrong motives make them wrong. As purpose defines ethics, so motive defines morality. Purpose exists in the planner, motive in the actor. But sincerity counts for something. Goodness pertains to what is appropriate to a relationship in which there is a common goal and a nature given appropriate to that goal. This aspect of ethics corresponds with the here-and-0now aspect of living socially, the existential-relational aspect of personal existence.
+
+Right and wrong are not figured relative to inner or outer action alone because ignorance can disconnect the two. The breakdown within us can be rectified by another person. Inner can take precedence over outer when “invincible ignorance” is present.
+
+Interpersonalizing the ethical circumstance makes it more tangible and increases our motivation for conforming to it. Interpersonalized ethics have greater power than impersonal rules. In the negative, that fact issues in the greater guilt we feel when we are in the knowing gaze of another person, especially the one we have offended.
+
+Interpersonalized ethic motivates conforming to an ethic because it draws on love as a resource. Through caring about other people, ethics connects us with the seemliness Paul alludes to in 1 Corinthians <strong><sup>13</sup></strong>:5. We even refrain from things not wrong in themselves because the other person dislikes it or could be harmed by it; we do not grieve people we love. Paul applies the principle to dealing with weaker brothers (1 Corinthians <strong><sup>8</sup></strong>). Interpersonalized ethics puts stress on what builds friendship; so loving people adjust their behavior by deference to preference.
+
+In both its existential (here and now) and eschatological (forward-moving) aspects, ethics deals with what is appropriate—τὸ πρέπον. We choose to connect act and result. The act does not come automatically by force as in nature or by authority as in law. “The fitting thing” notes the affinity between ethics and aesthetics.
+
+Idolatry and sexual immorality appear to be scripture’s two greatest sins. Perhaps that is because they destroy the two most important aspects of personal associations. The vertical is perverted by idolatry because idols depersonalize what they represent. Sexual immorality ruins marriage, the most intimate relationship between people.
+
+Furthermore, fornication Paul calls a sin against a person’s own body perhaps because it destroys the sense of who we are, the self as interpersonally referenced (1 Corinthians <strong><sup>6</sup></strong>:18). Sexual sin brings consequences on the self, on others, and on relationship with them (cp. Lewis B. Smedes, “Christian Sexual Ethics” in <em>Sex for Christians</em>. Eerdmans, 1978, pp. 115-30).
+
+The ethical application of interpersonalism observes that sexual relations need to occur within previously established interpersonal intimacy. Not only is reversing that order not good; it does not occur; reversing the order blocks intimacy. The persons involved––particularly the woman––feel manipulated and used—depersonalized. This point lies behind Paul’s comment about the uniqueness of sexual sin as against our own body, against our sense of who we are (1 Corinthians<strong> 6</strong>:18). The idea may relate to the Old Testament kinship laws, among which Moses embedded a prohibition against bestiality: <em>“It is confusion” </em>(Leviticus <strong><sup>18</sup></strong>:23).
+
+Since ethics and morality belong to interpersonal situations, morality does not involve person-thing acts except insofar as God may will that we to act certain ways toward impersonal things. (cp. Ralph Barton Perry in <em>The Moral Economy</em>: “The moral drama opens only when life meets life”; also Thomas Merton’s <em>Love and Living</em>, N.Y.: Straus and Giroux, Inc., [1965] 1979).
+
+Right action never eclipses either “I” or “other.” The integrity of both always remains. Both operate in mutual respect. Such an arrangement does not negate either or absolutize either. Interpersonalism contrasts both with self-centeredness, which is the essence of sin, and with “other-centeredness.” Ethical, moral beings relate to others without either one becoming nothing in the process (cp. Isabel Carter Heyward, <em>The Redemption of God: A Theology of Mutual Relation</em> (University Press of America). We do not de-personalize other people, and we do not let other people depersonalize us. This principle applies even to “just war,” self-protection, a police force, and self-defense.
+
+Satan’s temptations deny the interpersonal. Satan tempted to Adam do something for personal benefit—to exercise autonomy to the exclusion of God’s will. It was supposedly to make him wise like God and let him determine right and wrong for himself; it was good for food, pleasant to the eyes, and provided a selfish ability. To have the “benefit,” Adam had to breach a value that governed his fellowship with God.
+
+In contrast to Satan’s temptation, the gospel calls people to deny themselves and take up the cross to follow Jesus. Denying oneself means setting aside self-centeredness and autonomy as the final framework for living and adopting relationship as the guide for living. Denying oneself does not mean self-negation, self-annihilation, or loss of individuality, but becoming interpersonal rather than self-ish. Taking up the cross means death to self in relational concerns and purposes: the theology of the cross.
+
+A balance between not depersonalizing another by manipulation or depersonalizing the self by letting people run over us is affected by remembering that associations with other persons are not merely one-on-one. It is (a) one-on-one relationship under God, who directs us and our foes and who says that he will take care of vengeance. It is a one-on-one relationship under mission. We relate to other people with a view to converting sinners and edifying saints. We forgo rights of equality in deference to accomplishing purpose.
+
+Realizing these matters relieves us from feeling that we have to be effective in the face of evils that are stronger than we are. We do not have to defend ourselves to keep from being overcome; God vindicates the righteous. We are freed from being overly concerned about assertiveness, because others cannot really destroy us. Beyond our own frail identity, we have a sense of identity with the omnipotent God who promises to be holy on our behalf. We can accept our weaknesses and face adversity and even persecution with confident reliance on him. God vindicates the righteous, not immediately perhaps or even later, but at least in the end.
+
+Persons live by values rather than by drives. Their actions differ from animal instinct or chemical stimulation. With persons the process is not genetically encoded or molecularly determined. Values are transcendent while drives are imminent in us. In this respect we, created in the image of God, differ from animals
+
+From a practical standpoint we cannot live up to a perfect standard; we relate instead to the Person who embodies that standard. An abstract standard is “unforgiving”; it requires perfection. A person can forgive the other person, who can repent; so the repentance-forgiveness process allows for relationships to continue despite imperfection relative to a standard. Under law or abstract ideals, such is not the case. Perfection is not peculiar to a legal system; it applies to the interpersonal system as well. But in a legal framework perfection is a necessity; in the interpersonal it is the ideal. Ideal does not have to be necessity because interpersonal repentance-forgiveness can make up the difference.
+
+Faith-grace can capture the “spirit” of law because it captures the purpose of law’s enactments. The “letter” of the law itself, however, only expresses verbal approximations of interpersonal realities (2 Corinthians<strong> 3</strong>:4-18). There is liberty from unyielding letter (tables of stone) when we see letter transcended by spirit, by the Lord, by Messiah.
+
+Interpersonal principles supply the basis for moral law, which derives from purpose. Christianity enables us to make “theological interpretation,” which lifts underlying principles from the biblical text and even applies them to situations scripture does not address.
+
+What does not derive from first principles must be known by positive commandment. Positive commandment deals with matters capable of being handled more than one way. On some of these, God has specified how to act; others he has left to human judgment.
+
+Interpersonalism speaks to substance abuse. Anything that makes us incapable of being responsible for ourselves should not be done. That is why a “social drink” and the medicinal use of alcohol raise a different issue than drunkenness does. Substance abuse becomes wrong because addiction puts us in a condition where we cannot control ourselves, cannot be responsible for ourselves. Responsibility is interpersonal since it takes a person to be responsible to another person. The underlying principle applies to Paul’s dictum, <em>“I will not be brought under the power of any”</em> (1 Corinthians <strong><sup>6</sup></strong>:12).
+
+Interpersonalism may sound relativistic because it includes the subjective side. People may favor legalism to avoid relativism. They refuse to let context affect moral decisions because they suppose that by being “strict” they are being more obedient and more consistent, by being more exact they are being more correct. Failing to see the rule-of-thumb nature of laws, they commit the fallacy of accident, where they do not take into account an “accident,” a feature, of the current situation that the law did not envision.
+
+Ethical theory derived from interpersonalism eclipses other approaches like Sweitzer’s reverence for life or Augustine’s defective form relative to pristine condition. The ancient Greek concept of eudaemonism is also inadequate because it looks at well-being more individualistically instead of stressing the social dimension right behavior.
+
+Interpersonalism also critiques the mentality behind getting as close as possible to the “edge” of unacceptable behavior without “crossing the line.” When we love other people, we do not come as close as possible to doing what they do not approve of. We move toward the center of what they enjoy and prefer. We do not come as close as possible to what will not harm them; we “make sure” they are safe. When we love people that we consider our betters, we love what they love and do what they do. Our inclination is not to love what lies outside the limits—even if we “don’t see anything wrong with it.”
+
+The extreme importance of love, the prime interpersonal pattern of acting, lies in its ability to provide us an approximate basis of behavior. Even in cases where we do not know “how to love,” the other person sees us as being consistent at least in loving if we do not always express it well.
+
+christir.org
+

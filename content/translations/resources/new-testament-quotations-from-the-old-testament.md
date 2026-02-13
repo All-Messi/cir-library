@@ -2,7 +2,7 @@
 author: Virgil Warren, PhD
 categories:
 - Bible Resources
-date: '2026-02-12'
+date: '2026-02-13'
 draft: false
 title: New Testament Quotations from the Old Testament
 weight: 1

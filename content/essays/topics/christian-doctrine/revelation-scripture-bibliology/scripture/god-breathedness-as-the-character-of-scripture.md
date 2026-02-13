@@ -1,0 +1,187 @@
+---
+author: Virgil Warren, PhD
+categories:
+- Topics
+- Christian Doctrine
+- Revelation Scripture Bibliology
+- Scripture
+date: '2026-02-13'
+draft: false
+title: “GOD-BREATHEDNESS” AS THE CHARACTER OF SCRIPTURE
+weight: 4
+---
+
+
+
+
+A series of words has traditionally stated from various angles the character of scripture in positive and negative terms. The list begins with the biblical expression in 2 Timothy <strong><sup>3</sup></strong>:16, which translates literally as (1) “God-breathed.” The rather unhappy term in popular vogue for this passage is “inspired”; so “inspiration” becomes the corresponding noun for getting at the concept Paul expressed in the text. “Inspire,” however, does not properly picture the idea because it (a) creates the image of breathing into something the characteristic the word denotes—as when God <em>“breathed into Adam the breath of life”</em> and he became something more than he was. Such imagery limits the meaning of the text to what can add to something already there. The word picture in God-breathedness is that of “exhaling” the thing itself, so the scripture is regarded as issuing directly from God’s mouth. Scripture stands apart from all other writing by being viewed as God’s direct speaking.
+
+A second weakness in <em>inspire</em> for translating <em>theopneustos</em> is that it (b) leaves less clear the essential point that the quality characterizes the writing instead of the writer. It does not distinguish revelation by the writer and illumination of the reader, as with the Messiah’s increased capacity. People are illuminated; the message is revealed (see #10 below). Illumination by the text is limited to what is possible to gain from the text; so illumination does not necessarily eliminate error in all whereof God’s prophets spoke. Inspired people could make errors in writing (inscripturation). It could guarantee correct insight without guaranteeing correct reiteration. “Inspiration” does not offset the subtle change in modern theology of the Bible that shifts the quality from the scripture to the scribe, and then views inspiration as analogous to the “inspiration” of an artist, poet, musician. As to emphasis, God-breathedness draws attention to the relationship between the scripture and God and to the implicit qualities of that association.
+
+Inspiration as God-breathedness is a word picture that does not fit with a writer; it relates to a message, which can be exhaled. The importance of “inspiring” the message lies in the fact that accuracy can be lost in recommunication. The God-breathedness word-picture overrides any deficiency in the prophet, any breakdown between God and the proclamation, because it connects God directly with the proclamation.
+
+
+
+As an English word, <em>inspire</em> could refer to an inspired person, who is really grabbed by a situation and then writes a book that is inspired inasmuch as it reflects the writer’s really being grabbed by that situation; so the reader is inspired as well. The book is inspired inasmuch as it is inspiring.
+
+(2) “Verbal inspiration” attempts to compensate for the ambiguity of “inspiration” by prefixing “verbal” to it with justification given on the basis of Jesus’ argument in John<strong> 10</strong>:34-36, which turns on the word “God.” (Cp. Matthew <strong><sup>22</sup></strong>:43; 1 Corinthians <strong><sup>2</sup></strong>:12-13?; Galatians <strong><sup>3</sup></strong>:16). Jesus’ argument, however, seems to be somewhat aside from the way his statement is used in the inerrancy argument. Verbal inspiration can have two thrusts. It can affirm the inspiration of the message rather than just the man. It can affirm the reliability of scripture all the way down to the word (verbal) level rather than just at a generalized level.
+
+As used here, verbal inspiration insists that the concept does not merely indicate (a) a general trustworthiness of scripture; it is a concept at least specific enough that biblical words can be used the way Jesus exemplifies. (b) To repeat, verbal inspiration extends to the writings, not just to the author—which would allow breakdown between reception from God and expression by the author. Finally, (c) “verbal inspiration” eliminates the idea that some parts are inspired while other parts are not.
+
+(3)	“Infallibility” arises from a passage like Isaiah <strong><sup>55</sup></strong>:11, which indicates that God’s word goes out and accomplishes what he sent it out for: the word of God does not “fail” to accomplish his purpose.
+
+(4)	“Plenary inspiration” emphasizes the completeness of the inspiration. Plenary inspiration does not mean the subject is fully treated, but that the treatment is “fully” reliable as far as it may go.
+
+(5)	“Perspicuity” means that the scripture is clear to normal people as God made them. (a) Scripture does not employ a mystical code. It uses human language according to its normal rules. Furthermore, perspicuity means that (b) scripture does not need officialdom to pronounce on its meaning as would be the case with a mystical code.
+
+Lastly, perspicuity implies that (c) human nature as God made us can understand his revelation. Whatever help God gives is not limited to official representatives, nor is supernatural aid necessary for comprehending it. Perspicuity does not disallow supernatural assistance as a possibility; it removes it as a necessity. Similarly, perspicuity does not contradict supernatural regenerative help; it only predicts that such aid is not required.
+
+
+
+
+(6)	“Authority” emphasizes the status that the word of God has over his people. The more traditional understanding of authority here carries (a) a legal connotation: <em>“thus saith the </em><em><u>Lord</u></em><em>.”</em> A more contemporary usage draws attention to (b) what is based on ability and knowledge. We speak of certain researchers as authorities because they know what they are talking about. Neither usage necessarily involves complete correctness since an authority may not be correct about everything on a subject and since jurisdiction does not guarantee truth.
+
+Authority refers to the same thing as canonicity. The “canon” contains what has status over God’s people in matters of belief and practice. In Protestantism the authority of Christ exists only in scripture as the word of God written (<em>sola scriptura</em>) in contrast to giving the (a) church—by way of the clergy—and (b) church tradition, equal or superior in status to the Bible. Beyond these specifications the authority of the written word contrasts with that of creeds. Having a content to believe is not the same as creedalism. The difficulty with creeds is not only that they omit things or may contain teaching contrary to scripture or in addition to it. The difficulty with them comes from their authoritative status among the people of God. The same problem exists in “statements of faith” if they are used to define what is Christian or to establish a minimum standard for what makes someone a Christian. Inasfar as creeds and statements of faith serve to summarize Christianity, they risk incorrectly implying the relative importance of items—a risk typical of all commentaries; but when that digest is made authoritative, it requires adherents to acknowledge those misemphases as the truth. So, we do not use creeds to define fellowship or leadership even though we use content to identify fellowship and select leaders.
+
+As an added note, “<em>no creed but Christ”</em> does not imply that there is no factual content or doctrinal correctness. It means that truths of these sorts are qualified by the personal reality (interpersonalism) in which they stand <em>vs</em>. legalism, rationalism, and ontology.
+
+(7)	“Sufficiency” as per Deuteronomy <strong><sup>29</sup></strong>:29 means that the Bible does not teach everything even about the subjects it handles. To put it otherwise, God holds us responsible for what he has revealed to us. The written record establishes his expectancy. People are <em>“thoroughly furnished to all good works”</em> (2 Timothy <strong><sup>3</sup></strong>:17).
+
+Sufficiency and perspicuity raise a question related to the fact that language does not reproduce the whole reality it refers to, but only enough to bring up the whole in a hearer’s mind. Hearers cannot then supply meaning to words about things they have not experienced or come to know in some way. The point is, though, that scripture is sufficiently perspicuous that it can be infallible. Sufficiency emphasizes a quantitative matter while perspicuity emphasizes a qualitative one.
+
+A correlation exists between revelation and responsibility—between what God has revealed and what he holds us responsible for. Both come through revelation as his means of enabling us to be responsible. Our responsibility corresponds with his revelation; his revelation is
+
+
+
+always sufficient for his expectancy. The correlating assumptions are that (a) we do not have to have more than we have been given in order to please God. (b) Where there is no revelation there is no responsibility; where there is no law there is no (imputation of) sin against it; where there is no knowledge there is no imputation of disobedience (Romans <strong><sup>5</sup></strong>:13). Sufficiency as a relative concept applies to the subjective side: as much as we can know is sufficient for right living, for forgiveness, and for right attitude and proper motives.
+
+Sufficiency connects with progressive revelation in the relationship between responsibility and availability. Sufficiency corresponds with expectancy. Sufficiency even has a bearing on the unevangelized, which ties into their access to general revelation in nature and conscience. (See documents on general revelation as well as thoughts on the state of the unevangelized in <em>What the Bible Says About Salvation</em>, pp. 20-21, 77-78, 104-12; this latter topic is especially profound and complex.) The connection between sufficiency and progressive revelation pertains to God’s evaluation of us (even more than informing us on questions of ethical living). It deals with sufficiency for judgment purposes rather than decision-making purposes.
+
+(8) “Integrity” refers to the adequate textual support that a reading has as determined by comparing original-language manuscripts. No doctrinal issue hangs on a textual uncertainty.
+
+(9) “Authenticity,” or genuineness, means that a document is by the author it claims to be written by or is known to have come from.
+
+(10) “Credibility” means that a writing has the “ring of truth” as judged by the rest of revelation.
+
+(11) “Revelation” refers to the process of God’s making known his will, nature, and wisdom. General revelation means what comes to us through nature, experience, and conscience (Psalm <strong><sup>19</sup></strong>:1, Romans <strong>1-2</strong>, for example). Special revelation indicates God’s special acts in history—whether event or proposition—by which he has communicated on matters often not available through general revelation.
+
+(12) “Illumination” is the hearer’s subjective enlightenment through the objective revelation it corresponds with. Revelation makes available; illumination profits from the offer. Revelation is the objective aspect of which illumination is the subjective aspect. Revelation is the divine act while illumination is the human response. Revelation and illumination correspond with the two sides of interpersonal communication. Revelation exposes the speaker’s mind, and illumination apprehends that message in the hearer’s mind.
+
+Illumination is not usually a supernatural experience. It occurs apart from the message itself, in the hearer, and subsequent to the message that triggered it. As revelation comes from the God who speaks, so illumination occurs in the person that listens. Illumination in its extended sense includes any personal transformation that arises from the awareness and conviction that revelation gives.
+
+(13) “Inerrancy” is a more recent term adopted to replace the relative imprecision of words like “infallibility” and “authority” and because of the beclouded nature of “inspiration” when used to equal “God-breathedness.” It affirms full reliability of the text. We may speak of authority without affirming complete accuracy of that authority. Similarly, something may accomplish its purpose despite certain detracting features. Inerrancy tightens up the positive statement on reliability. We do not say, then, that the Bible is authoritative or infallible rather than inerrant. Admittedly it is authoritative and infallible, but those are lesser affirmations and less clear about reliability.
+
+“Inerrancy” itself needs qualifications to clarify its precise intent. It refers to correctness of content, rather than spelling, particular verbiage, and the like. Inerrancy characterizes scripture as such, that is, scripture in theory—scripture ideally, because content is the point of revelation. Inerrancy refers to what the writer—essentially the Holy Spirit—intended to communicate.
+
+Accordingly, the term does not necessarily address (a) the actual text transmitted over hundreds of years (<em>textual criticism</em>). Neither does it apply to (b) <em>translations</em> of the text, (c) the <em>interpretation</em> of scripture for oneself, or (d) <em>proclamation</em> of its message by others. Inerrancy does not determine (e) <em>literary genre</em>; it applies to any literary category, not just to “literal” expression or to historical material. Since determining the literary category of a writing is a matter of interpretation, deciding that a certain piece is parable rather than history, for example, does not necessarily amount to denying inerrancy.
+
+Inerrancy must also be distinguished from (f) <em>canonicity</em> since what belongs in scripture must be determined on primarily historical grounds before it needs to be errorless. Deciding that a certain book does not belong in the New Testament does not mean rejecting inerrancy. Admittedly, those most eager to deny the canonicity of biblical books are usually the ones most eager to deny their reliability.
+
+The summarizing positive affirmation is that <strong>inerrancy deals with the intended content of scripture as such</strong> (so does inspiration, infallibility, and authority, for that matter). “Scripture as such” means scripture in principle, scripture ideally, scripture theoretically, which is aside from transmission errors like haplography, dittography, metathesis, homoioteleuton, homeoarcton. Scripture as such (b) does not deal with any copy or translation of it. “Intended content” allows for synopses of sermons (as in the gospels and Acts), for approximate statements (as in 1 Kings <strong><sup>7</sup></strong>:23, where the circular laver in front of the tabernacle is said to have a circumference three times its diameter), for synonym substitutes, for reproduction in one language of what was expressed in another. Inerrancy as a characteristic of content deals with conceptual accuracy, not with grammar, spelling, and so on. The issue is not exact words or total content, but truth and how much of it God deems sufficient to reveal. The intended content of the text must be distinguished from misinterpretation of the text. Many so-called errors and contradictions in scripture are not necessarily erroneous or contradictory. The texts are simply mishandled. The vast majority of supposed errors in scripture are cases of transmissional error or misinterpretation.
+
+Lastly, since the character of scripture has to do with “content,” it has to do with final result. Inerrancy does not preclude (g) <em>the use of sources </em>or have anything to do with (h) <em>the manner in which it became inerrant</em>. Inerrancy addresses the nature of a result, not the manner of the cause. In summary, inerrancy deals with intended meaning <em>vs</em>. hermeneutical mistakes, content <em>vs</em>. formal matters, and scripture as such <em>vs</em>. reproductions of it.
+
+Inerrancy applies even to (a) false statements recorded in scripture. The application lies in the truthfulness of the fact that such a false statement was made and that its falseness lay in regard to the idea recorded rather than in some other idea.
+
+In a related matter, inerrancy covers (b) inspired advice. Advice offers a practical way of handling a difficulty without implying that doing otherwise would be immoral. Advice considers the likelihood of effectiveness and deals with problems that could be solved in more than one way. Inspired advice indicates that God’s spokesman has not given directions that are contrary or contradictory to the nature of the issue under consideration. Advice is inerrant even though alternative advice could be given, especially in other places, times, and circumstances.
+
+Inerrancy also applies to cases where the essential author used an (c) amanuensis. Presumably the dictating author would proofread the scribe’s work to guarantee that what he meant had not been misspoken, lost, or obscured by the secretary’s input.
+
+Inasmuch as inerrancy deals with accuracy of content relative to the intent of meaning, inerrancy belongs to (d) parallel passages in the gospels that differ in their wording even in the case of reported words of Jesus. Matthew uses “kingdom of heaven” where parallel accounts say Kingdom of God.” (See “Kingdom of Heaven/Kingdom of God.”) Matthew is evidently recording Jesus’ teaching at the sense level rather than the word level. The same principle covers loose quotations of the Old Testament in the New, where the writers usually follow the Septuagint translation of the Hebrew text rather than give a fresh translation. They may quote freely even the Septuagint translation. As long as what is contained is true in the resulting translation and its use in the New, there is no breach of the inerrancy principle.
+
+Inerrancy still applies to texts that make (e) approximate statements. As cited above, the molten sea was circular; yet its circumference is said to be three times its diameter (1 Kings <strong><sup>7</sup></strong>:23). People speak loosely when nothing is at stake.
+
+Since revelation came over a period of centuries, inerrancy incorporates (f) progressive revelation. Incomplete does not mean false even though incomplete information can lead to improper interpretation from what is available. But that is an interpretation issue, not a revelation one.
+
+Progressive revelation also involves the distinction of covenants. The New Testament does not call the Old Testament false; it annuls the former as representing the earlier frame of reference for divine-human interaction in a theocratic circumstance. The Christian covenant is a purely interpersonal one; so matters of civil and national regulation are not reinstated, the ceremonial customs of Mosaism have been removed and a few new ones put in their place. The realities of the present replace the shadows of the past, and certain expectancies that people were not yet ready for then have now been made part of human expectancy. (For a more detailed treatment, see “Old Testament Backgrounds and the Messianic Covenant.”)
+
+Finally, inerrancy applies to (g) synopses of longer presentations. The “speeches” in the gospels and Acts were certainly longer than the brief summaries recorded. They are true in the sense that they truly represent the gist of the message. Incomplete does not mean inaccurate.
+
+The reason we often hear the positive affirmation about inerrancy stated relative to the autographs is that the nature of scripture has to have appeared there. For how long it characterized the text during transmission is not known and varied from copy to transmitted copy. Whether God’s providence or illuminating work prevailed to the extent of errorless transmission, translation, interpretation, and proclamation can be known only through further promises to that effect or through the experience of history. Experience gives the verdict of erroneousness in a few minutiae, and scripture seems not to promise more. Research has shown that remarkable accuracy has been retained in the transmission of the biblical text. The errors that remain are detectable, and no Christian teaching rests on an uncertain text. So the Bible we have to live by has the character of inerrancy. It is safe to say that inerrancy applies at least to autographs while infallibility applies to transmission.
+
+
+
+<strong>Summary of Inerrancy as</strong>
+
+<strong>“the </strong><strong><u>intended</u></strong> <strong><u>content</u></strong><strong> of </strong><strong><u>scripture as such</u></strong><strong>”</strong>
+
+
+Inerrancy does not deal with, or eliminate, the items under the following headings:
+
+
+
+<strong><u>intended</u></strong>					   	<strong><u>content</u></strong>		<strong><u>scripture as such</u></strong>
+
+
+MISINTERPRETATION	    	FORM, that is,	TRANSMISSION, that is,
+
+generality statements	   	            	spelling	  	no particular manuscript
+
+approximate statements	             		grammar	 	textual criticism matters
+
+synopses							vocabulary	TRANSLATION
+
+loose quotations 	 	                    	style		CANONICITY
+
+false statements rightly	 		     	structure
+
+recorded	 						literary genre
+
+partial information		 	<em>ipsissima verba</em>
+
+distinction of covenants			ORIGINATION
+
+advice <em>vs.</em> commandment		   	amanuenses
+
+MISPROCLAMATION		     		use of sources
+
+creative thought
+
+
+
+Different scholars use two ways of determining the nature of scripture: (1) the theoretical and (2) the phenomenological. The theoretical approach is deductive: it measures the phenomena of scripture against the claims of scripture for itself. The phenomenological approach is inductive: it attempts to generate a minimal claim beginning with the phenomena in the text itself. Theoretical measures claim against phenomena while phenomenological forms conclusions from phenomena irrespective of claim. So, the phenomenological approach has no way of enhancing what the phenomena can demonstrate. The first procedure yields a higher view of scripture because the claim can be higher than phenomena can prove. The phenomena have some defects of content correctable through textual criticism. In the phenomenological approach, there is nothing higher than the data itself to justify harmonization or correction. So, the theoretical approach wants to speak about “scripture as such,” scripture in principle, scripture ideally.
+
+Of importance is whether the Bible claims directly or otherwise that the intended content of scripture as such is inerrant. The belief that it does is by inference because no passage expressly indicates as much. In the inferential approach, one doubtful syllogism reasons that the Bible is the word of God. Since God does not err, the Bible is inerrant. The reasoning ought rather to be this: Since the Bible is the word of God, it is potentially inerrant. The other line of thought, though valid, does not include the further truth that since the word of God is written by men, it has potential for being errant (as in proclamation). God does not make mistakes or tell falsehoods; he is inerrant. But scripture is not God, and it was written by men; so the issue is about what God has done that would guarantee scripture’s truthfulness in all matters whereof it speaks. We must answer that question in connection with claims by authors of divine texts.
+
+The difficulty with the syllogism stems from its starting with an abstract idea. We would better start with a statement of the Bible than one by people about the Bible. The passage most pertinent to inerrancy is probably 2 Timothy <strong><sup>3</sup></strong>:16: <em>“All scripture is God-breathed.”</em> Not only is it (1) a claim of scripture; it is (2) a claim of scripture about scripture as such. Furthermore, it sidesteps the errancy from human scribing because it is (3) a claim about the result of human agency in producing scripture. The imagery pictures scripture as God’s own speaking. At this point, the syllogism has greater propriety: the scripture claims to be such that we regard it as exhaled by God himself. Since God does not err, his self-expression is inerrant. The phenomena in scripture then test the truth claims of scripture.
+
+A few considerations should be weighed against these preliminary observations. First, the Old Testament Bible that Timothy used would have been the Septuagint, a relatively weak translation of the Hebrew original, differing significantly from it at many points. But Paul seems to be speaking of scripture as such, and so not of a particular translation of it. We may say that even the considerable deficiencies of the Septuagint were not sufficient from a practical standpoint to vitiate its theoretical character.
+
+Second, as far as sheer grammar is concerned, the passage could be translated and understood in a restrictive manner, namely, that all scripture that is God-breathed is profitable. This is unlikely for reasons given in the document on “2 Timothy<strong> 3</strong>:16,” found elsewhere on this website.
+
+Third, inerrancy is an inference from this text. It is conceivable that the imagery was not meant absolutely, but in respect to the areas specified—teaching, reproof, correction, and instruction unto good works (<strong><sup>3</sup></strong>:16-17), that is, ethics, morality, and ministry. This would amount to saying that scripture is infallible <em>vs</em>. inerrant; it does not fail to accomplish God’s purposes in revelation. It is sufficient, infallible, and authoritative.
+
+It would seem more natural, though, to take the statement as a specific deduction from a larger principle—a specific (ethics) that does not exhaust, but exemplifies, the generality. (a) No reason suggests why God’s word about ethics should be any more reliable than his word about the nature of things (science), the future of things (eschatology), or the origin of them (creation and history). We say this despite the admission that human behavior is more central to the purpose of revelation than the facts of science and history.
+
+(b) No example appears in which Jesus or the apostles regarded anything in the Law as false. That is particularly significance because of the alterations of content made in the second covenant. The civil divorce law in Deuteronomy was not said to be false, but a temporary concession to hardheartedness; dietary laws were simply abandoned; Sabbath observance dropped out. Jesus did not come to destroy the Law, but to fulfill it—to accomplish the purposes for which God gave it as preliminary revelation.
+
+Furthermore, (c) reliability is elsewhere attached to matters beyond ethics. In fact, every type of information that the scripture gives is always regarded as trustworthy. Most outstanding is Peter’s indication that the prophets themselves on occasion did not understand the message they spoke for God (1 Peter <strong><sup>1</sup></strong>:10-12; cp. Daniel <strong><sup>12</sup></strong>:8-9 as well as John <strong><sup>12</sup></strong>:50).
+
+(d) Finally, revelation is historical, so no distinction about reliability seems natural between historical and doctrinal truth. Inerrancy does not allow for an author’s use of materials in a way that reproduces errors that might be in them.
+
+Admittedly, although religious truth does come through historical events, not all events, dates, places, and persons relate to some religious truth. Inaccuracies about them do not alter any matter of religious understanding whether of doctrinal content or ethical behavior. Even if it did, of course, God could factor that item out in the judgment of his people.
+
+In the inerrancy debate, what practical difference does the issue make when everyone admits there are difficulties in the Bible everyone reads? It is important to recognize the nature of (1) clear errors in the copies of scripture we have. After subtracting a variety of retrievable, non-content mistakes (misspellings, metatheses, omissions, <em>etc</em>.), we find a limited number of content errors. Inerrancists attribute them to textual transmission. (2) There exists a relatively small second group called “difficulties,” a diminishing number of problem texts often alleged as contradictory to other biblical materials. Scholars have worked out answers for these hermeneutically and seem to pose no serious threat.
+
+(3) A final set of issues pertains to discrepancies between biblical content and viewpoints obtained from extra-biblical sources. These deal with two categories—historical and scientific information. Reconstructions of Near Eastern history as based on the interpretation of archaeological data and pagan records often differ considerably from the biblical representation of that history. One issue is whether pagan records are more reliable than biblical materials even aside from the issue of inspiration. Another issue is whether the data available from archaeological exploration is sufficiently clear and complete to credibly critique written history. Certain theories—principally evolution—do not readily fit with a historico-grammatical understanding of relevant biblical texts.
+
+Christians may find this conflict between scripture and the “assured results” of scientific method embarrassing. To make peace with the “scientific” community, many advocate the potential errancy of scripture in historical and scientific matters, but immunity from error in religious concerns. All this does, of course, is remove from the picture anything that can be verified, and claims inerrancy for what cannot be falsified. No such easy division exists since “religious” truth comes through historical events and science can investigate concerns that have moral implications.
+
+Some reasons given against inerrancy in scientific and historical truth (divine prostitution of human nature, <em>etc</em>.) would apply likewise to religious truth. When evangelicals admit that errors exist in the scripture, they do not include items in this third category.
+
+Even though the autographs no longer exist, their inerrancy has practical implications. Autographical inerrancy does not make a great difference in apologetics as directed to unbelievers. Those difficulties must be dealt with regardless of our attitude toward the Bible and regardless of its claims for itself. The difference comes in (1) the procedure of hermeneutics. Inerrancy guarantees that the writers shared the same beliefs. No ordinary group of people would agree even if they were part of the same institution or the same heritage, much less if they were spread over several hundred years and wrote in a great diversity of circumstances. With inerrancy, interpreters need not limit their context to a single book, single time, or a single author. They may lift properly exegeted insights from various writers, periods of time, and places of writing, and apply them in clarifying writings from other writers, times, and places.
+
+Another practical implication of inerrancy comes in consequence of hermeneutics: (2) It affects the manner of determining what and how much is normative for Christian faith, because people are often <em>“slow of heart to believe in </em><em><u>all</u></em><em> that the prophets have spoken”</em> (Luke 24:25). If inerrancy is not the case, the sheer fact that scripture affirms something is not sufficient reason for believing it. What is normative for Christian faith becomes an item-by-item quest; other reasons beyond presence in a biblical book must be found—such as the idea that a doctrine presented in multiple writers is more likely part of the faith than one found only in one writer. Not every doctrine will be denied by those who reject inerrancy, but they will affirm only the teachings that follow from those people’s starting point, other matters becoming negotiable. The case does not become “false in one, false in all”; but if supposedly false in one place, potentially false in other places. Once we abandon inerrancy, we slide a long way before we come to a stopping place for what is normative in Christian faith.
+
+A final effect of inerrancy on practical concerns is (3) apologetics directed to believers. Under inerrancy, proposed difficulties become exceptions to a guaranteed rule of biblical trustworthiness. Without that pre-understanding, a supposed error is more likely a real error. The burden of proof starts shifting from the positive to the negative, from the shoulder of the one claiming a difficulty to the shoulder of the one wanting to solve it. In actual practice, negative critics are more readily prone to attribute mistakes to the biblical text. That tendency, in turn, significantly impacts interpretation. James could be wrong and Galatians right in their treatments of faith and works. The full truth is not necessarily complementary. There is no presupposition that they should agree. It would be easy to antithesize James and Galatians. In short, presupposition destroys context, so one portion cannot qualify the meaning of the other. They quite ostensibly disagree. Wrong interpretation of either or both is unavoidable by presupposition and, therefore, in methodology.
+
+If all errors in the Bible have occurred during transmission, we might wonder why God would protect unto inerrancy original autographs no one possesses, but not protect the descendant text we all must use. (a) God might protect the autographs to ensure the definition of scripture as totally trustworthy in principle since that fact would have to appear autographically at least. The question (b) overlooks the consensus that textual perversion does not affect any matter of content irretrievably. The kinds of errors God has allowed to enter the text are recognizable errors. The perversions he allowed to creep in are such that they can be recognized as such and eliminated in 99½% of the cases. He has exercised the necessary providential control to avoid vitiating in practice (transmission) what he established in principle (autographs). (c) God would protect the autographs to establish the hermeneutical basis to be used by the readers of all his revelation progressively given. In summation, inerrancy pertains to the intended content of scripture as such.
+
+The terms explained in this essay do not represent parallel concepts. They refer to various aspects of the whole picture of the nature of scripture and how it came into being. In some cases, they merely represent different word pictures for the same concept. Since they form parts of a larger whole, we do not choose between them, as in affirming some and denying others.
+
+In closing, it is of interest to enumerate without comment a few positive alternatives to inerrancy that have been proposed for arriving at the content of the Christian faith. They become proposals for ways of dividing between reliable and unreliable: (1) resurrectiono-centrism: historically the resurrection is accepted because of the evidence for it. Anything implied by it becomes normative for Christian faith. (2) Eschatological method says that the meaning of the Christ event “becomes” as history unfolds from it. (3) Teleologism regards the scripture as reliable in respect to the intent of revelation. For example again, scripture is inerrant regarding religious truth, but not for historical and scientific matters. (4) The uniform witness of scripture considers true those matters affirmed repeatedly throughout the Bible. (5) Existentialism makes normative what conforms to experience.
+
+We might ask what theoretically “lesser” stance would be next most acceptable if we were not going to affirm inerrancy. The next best approach would be to take each identifiable section of presentation as reliable relative to the intended purpose of that presentation. Accuracy relative to purpose at least makes sense even if it is not satisfactory on theoretical grounds.
+
+
+christir.org

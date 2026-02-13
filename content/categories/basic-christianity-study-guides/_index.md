@@ -1,4 +1,0 @@
----
-title: BASIC CHRISTIANITY STUDY GUIDES
-weight: 999
----
