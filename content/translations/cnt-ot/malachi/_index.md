@@ -3,7 +3,7 @@ book: Malachi
 chapters: 4
 title: Malachi
 translation: CNT
-type: book
+type: scripture
 weight: 39
 ---
 

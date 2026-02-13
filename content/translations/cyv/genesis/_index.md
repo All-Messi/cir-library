@@ -3,7 +3,7 @@ book: Genesis
 chapters: 50
 title: Genesis
 translation: CYV
-type: book
+type: scripture
 weight: 1
 ---
 

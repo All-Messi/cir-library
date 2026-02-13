@@ -3,7 +3,7 @@ book: Zechariah
 chapters: 14
 title: Zechariah
 translation: CNT
-type: book
+type: scripture
 weight: 38
 ---
 

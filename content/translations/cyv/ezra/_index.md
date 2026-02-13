@@ -3,7 +3,7 @@ book: Ezra
 chapters: 10
 title: Ezra
 translation: CYV
-type: book
+type: scripture
 weight: 15
 ---
 

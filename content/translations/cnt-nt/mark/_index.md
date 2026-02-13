@@ -3,7 +3,7 @@ book: Mark
 chapters: 16
 title: Mark
 translation: CNT
-type: book
+type: scripture
 weight: 41
 ---
 

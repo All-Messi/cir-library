@@ -2,7 +2,7 @@
 book: John
 chapter: 9
 next: chapter-10
-prev: chapter-08
+prev: chapter-07
 title: John 9
 translation: CNT
 type: chapter

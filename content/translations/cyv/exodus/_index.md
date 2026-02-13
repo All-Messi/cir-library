@@ -3,7 +3,7 @@ book: Exodus
 chapters: 40
 title: Exodus
 translation: CYV
-type: book
+type: scripture
 weight: 2
 ---
 

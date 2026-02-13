@@ -3,7 +3,7 @@ book: Haggai
 chapters: 2
 title: Haggai
 translation: CYV
-type: book
+type: scripture
 weight: 37
 ---
 

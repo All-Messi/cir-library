@@ -3,7 +3,7 @@ book: Philemon
 chapters: 1
 title: Philemon
 translation: CNT
-type: book
+type: scripture
 weight: 57
 ---
 

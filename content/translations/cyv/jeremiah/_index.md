@@ -3,7 +3,7 @@ book: Jeremiah
 chapters: 52
 title: Jeremiah
 translation: CYV
-type: book
+type: scripture
 weight: 24
 ---
 

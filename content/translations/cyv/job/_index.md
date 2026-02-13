@@ -3,7 +3,7 @@ book: Job
 chapters: 42
 title: Job
 translation: CYV
-type: book
+type: scripture
 weight: 18
 ---
 

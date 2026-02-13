@@ -3,7 +3,7 @@ book: Ephesians
 chapters: 6
 title: Ephesians
 translation: WNT
-type: book
+type: scripture
 weight: 49
 ---
 

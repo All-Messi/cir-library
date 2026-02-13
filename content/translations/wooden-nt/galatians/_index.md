@@ -3,7 +3,7 @@ book: Galatians
 chapters: 6
 title: Galatians
 translation: WNT
-type: book
+type: scripture
 weight: 48
 ---
 

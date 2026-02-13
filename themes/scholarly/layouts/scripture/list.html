@@ -1,19 +1,20 @@
 {{ define "main" }}
-{{ $allChapters := .Parent.Pages.ByWeight }}
-{{ $currentChapter := .Params.chapter }}
-{{ $translation := .Parent.Parent }}
+{{ $chapters := .RegularPages.ByWeight }}
+{{ $firstChapter := index $chapters 0 }}
+{{ $totalChapters := len $chapters }}
+{{ $translation := .Parent }}
 
 <article class="chapter-reading" id="chapter-reading">
     <!-- Top Toolbar -->
     <nav class="reading-toolbar">
         <div class="toolbar-left">
             <button class="toolbar-btn" onclick="toggleBookOverlay()">
-                {{ .Params.book }}
+                {{ .Params.book | default .Title }}
                 <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M3 5l3 3 3-3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
             </button>
 
             <button class="toolbar-btn" onclick="toggleChapterOverlay()">
-                Chapter {{ .Params.chapter }}
+                Chapter 1
                 <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M3 5l3 3 3-3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
             </button>
 
@@ -36,7 +37,7 @@
                 <button class="overlay-close" onclick="toggleBookOverlay()">✕</button>
             </div>
             <div class="books-list">
-                {{ $currentBook := .Params.book }}
+                {{ $currentBook := .Params.book | default .Title }}
                 {{ range $translation.Sections.ByWeight }}
                 <a href="{{ .RelPermalink }}" class="book-item {{ if eq (.Params.book | default .Title) $currentBook }}active{{ end }}">
                     {{ .Params.book | default .Title }}
@@ -50,34 +51,33 @@
     <div id="chapter-overlay" class="overlay" style="display:none;">
         <div class="overlay-content overlay-narrow">
             <div class="overlay-header">
-                <h3>{{ .Params.book }}</h3>
+                <h3>{{ .Params.book | default .Title }}</h3>
                 <button class="overlay-close" onclick="toggleChapterOverlay()">✕</button>
             </div>
             <div class="chapter-grid">
-                {{ range $allChapters }}
-                <a href="{{ .RelPermalink }}" class="chapter-cell {{ if eq .Params.chapter $currentChapter }}active{{ end }}">{{ .Params.chapter }}</a>
+                {{ range $chapters }}
+                <a href="{{ .RelPermalink }}" class="chapter-cell {{ if eq .Params.chapter 1 }}active{{ end }}">{{ .Params.chapter }}</a>
                 {{ end }}
             </div>
         </div>
     </div>
 
-    <!-- Floating Prev/Next Arrows -->
-    {{ if .Params.prev }}
-    <a href="../{{ .Params.prev }}/" class="float-arrow float-prev" aria-label="Previous chapter">
-        <svg width="20" height="20" viewBox="0 0 20 20" fill="none"><path d="M12 4l-6 6 6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-    </a>
-    {{ end }}
-    {{ if .Params.next }}
-    <a href="../{{ .Params.next }}/" class="float-arrow float-next" aria-label="Next chapter">
-        <svg width="20" height="20" viewBox="0 0 20 20" fill="none"><path d="M8 4l6 6-6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-    </a>
+    <!-- Floating Next Arrow (no prev for chapter 1) -->
+    {{ with $firstChapter }}
+        {{ if .Params.next }}
+        <a href="{{ .RelPermalink }}../{{ .Params.next }}/" class="float-arrow float-next" aria-label="Next chapter">
+            <svg width="20" height="20" viewBox="0 0 20 20" fill="none"><path d="M8 4l6 6-6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </a>
+        {{ end }}
     {{ end }}
 
-    <!-- Chapter Content -->
+    <!-- First Chapter Content -->
     <div class="chapter-body" id="chapter-text">
+        {{ with $firstChapter }}
         <div class="chapter-content">
             {{ .Content }}
         </div>
+        {{ end }}
     </div>
 
     <footer class="chapter-footer">
@@ -87,10 +87,9 @@
     </footer>
 </article>
 
-<!-- Keyboard nav data -->
 <script>
-var prevUrl = {{ if .Params.prev }}"../{{ .Params.prev }}/"{{ else }}null{{ end }};
-var nextUrl = {{ if .Params.next }}"../{{ .Params.next }}/"{{ else }}null{{ end }};
+var prevUrl = null;
+var nextUrl = {{ with $firstChapter }}{{ if .Params.next }}"{{ .RelPermalink }}../{{ .Params.next }}/"{{ else }}null{{ end }}{{ end }};
 </script>
 
 {{ partial "reading-ui.html" . }}

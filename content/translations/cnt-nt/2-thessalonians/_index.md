@@ -3,7 +3,7 @@ book: 2 Thessalonians
 chapters: 3
 title: 2 Thessalonians
 translation: CNT
-type: book
+type: scripture
 weight: 53
 ---
 

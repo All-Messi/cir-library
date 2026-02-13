@@ -3,7 +3,7 @@ book: Habakkuk
 chapters: 3
 title: Habakkuk
 translation: CNT
-type: book
+type: scripture
 weight: 35
 ---
 

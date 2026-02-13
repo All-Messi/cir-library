@@ -3,7 +3,7 @@ book: Esther
 chapters: 10
 title: Esther
 translation: CYV
-type: book
+type: scripture
 weight: 17
 ---
 

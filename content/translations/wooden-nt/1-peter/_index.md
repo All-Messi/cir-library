@@ -3,7 +3,7 @@ book: 1 Peter
 chapters: 5
 title: 1 Peter
 translation: WNT
-type: book
+type: scripture
 weight: 60
 ---
 

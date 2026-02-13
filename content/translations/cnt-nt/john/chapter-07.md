@@ -1,7 +1,7 @@
 ---
 book: John
 chapter: 7
-next: chapter-08
+next: chapter-09
 prev: chapter-06
 title: John 7
 translation: CNT
@@ -29,6 +29,10 @@ weight: 7
 
 <span class="verse" id="v10"><sup class="verse-num">10</sup> Jesus stood up, <em>“Where are they?</em><em> </em><em>Hasn’t anybody condemned you?”</em></span>
 
+<span class="verse" id="v12"><strong><sup>2</sup></strong>Jesus started talking to the audience again. <em>“</em><em>I’m the light of the world. You</em><em> that follow me </em><em>won’t </em><em>be </em><em>living</em><em> in the dark; </em><em>you</em><em>’ll have the light </em><em>to live by</em><em>.”</em></span>
+
+<span class="verse" id="v13"><strong><sup>3</sup></strong>The Pharisees said, <em>“You’re testifying for yourself; your testimony’s not valid.”</em></span>
+
 <span class="verse" id="v14"><strong><sup>4</sup></strong>Jesus answered, <em>“Although I’m testifying for myself, my testimony </em><em><u>is</u></em><em> valid because I know where I’m from and where I’m going.</em><em> </em><em>You don’t.</em><em> </em><strong><sup>15</sup></strong><em>You condemn </em>people<em> by </em><em>legal standards; I don’t condemn anybody that way.</em><em> </em><strong><sup>1</sup></strong><strong><sup>6</sup></strong><em>I</em><em>f I do render judgment, my judgment’s valid because I’m not the only witness.</em><em> </em><em>There’s me </em><em><u>and</u></em><em> the Father that sent me.</em><em> </em><strong><sup>17</sup></strong><em>Your</em><em><sup>pl</sup></em><em><sup> </sup></em><em>L</em><em>aw says the </em><em>testimony</em><em> of two is valid.</em><em> </em><strong><sup>18</sup></strong><em>I </em><em>testify</em><em> for myself, and the Father </em><em>testifies</em><em> for me.”</em></span>
 
 <span class="verse" id="v16"><sup class="verse-num">16</sup> Jesus answered, <em>“My teaching’s not mine; it’s </em><em>the teaching of the One that sent me.</em><em> </em><strong><sup>17</sup></strong><em>If anybody wants to do his will, he’ll know if </em><em>my</em><em> teaching is from God or </em><em>if </em><em>I’m speaking on my own.</em><em> </em><strong><sup>18</sup></strong><em>Some</em><em>body that speaks on his own is looking for his own </em><em>honor</em><em>.</em><em> Somebody</em><em> that’s looking for the </em><em>honor</em><em> of </em><em>the One that</em><em> sent him is </em><em>genuine;</em><em> there’s nothing </em><em>dishonest</em><em> about him.</em><em> </em><strong><sup>19</sup></strong><em>Didn’t Moses give yo</em><em>u the Law? But none of you keep</em><em> </em><em>it</em><em>.</em><em> </em><em>Why are you trying to </em><em>kill me</em><em>?”</em><strong> </strong><strong></span>
@@ -37,6 +41,10 @@ weight: 7
 <span class="verse" id="v20"><sup class="verse-num">20</sup> The crowd answered, <em>“You’ve got a demon.</em><em> </em><em>Who’s trying to kill you?”</em></span>
 
 <span class="verse" id="v21"><sup class="verse-num">21</sup> He told them again, <em>“I’m going away</em><em>. Y</em><em>ou’ll</em><em><sup>pl</sup></em><em> look for me and die in your sin</em><em><sup>sg</sup></em><em>.</em><em> </em><em>You can’t go where I’m going.”</em> 	<strong>Jn 8:</strong><strong>12-21</strong></span>
+
+<span class="verse" id="v22"><strong><sup>2</sup></strong>The Jews said, <em>“He’s not going to kill himself, is he</em><em>?</em>—because he said, <em>“</em><em>You can’t go where I’m going.</em><em>” </em></span>
+
+<span class="verse" id="v23"><strong><sup>3</sup></strong>He said, <em>“You’re from below; I’m from above.</em><em> </em><em>You’re from this world; I’m not.</em><em> </em><strong><sup>24</sup></strong><em>I said you’d die in you</em><em>r</em><em> sins because if you don’t believe who I am, you </em><em><u>will</u></em><em> die in you</em><em>r</em><em> sins.”</em></span>
 
 <span class="verse" id="v25"><strong><sup>5</sup></strong><em>“Who are you?”</em> <em>“Exactly what I’ve been telling you all along.</em><em> </em><strong><sup>26</sup></strong><em>I have a lot to say </em><em>about you </em><em>and judgments to make, but the One that sent me is </em><em>the real basis for it</em><em>.</em><em> </em><em>What I’ve heard from him is what I’m telling the world.”</em><em> </em><strong><sup>27</sup></strong>(They didn’t know he was talking about the Father; <strong><sup>28</sup></strong>so he said,) <em>“When you lift up the </em><em>Son of Man</em><em>, you’ll know who I am and that I’m not saying anything but what</em><em> I got from</em><em> the Father.</em><em> </em><strong><sup>29</sup></strong><em>The One that sent me is with me.</em><em> </em><em>He hasn’t left me alone, because I always do what pleases him.”</em> <strong><sup>30</sup></strong>While he was saying that, many believed in him.</span>
 
@@ -47,6 +55,8 @@ weight: 7
 
 
 <span class="verse" id="v30"><sup class="verse-num">30</sup> They were trying to arrest him, but nobody laid a hand on him because it wasn’t time yet. <strong><sup>31</sup></strong>Many in the crowd believed in him, <em>“When the </em><em>Messiah</em><em> comes, he won’t do more signs tha</em><em>n this man’</em><em>s done, will he?”</em><em> </em></span>
+
+<span class="verse" id="v31"><sup class="verse-num">31</sup> Then he told the Jews that believed him, <em>“If you keep following </em><em>what I say</em><em>, you really are my disciples.</em><em> </em><strong><sup>32</sup></strong><em>You’ll know the truth, and the truth will set you free.”</em><strong> </strong><strong>	</strong><strong>Jn 8:</strong><strong>22-32</strong></span>
 
 <span class="verse" id="v32"><sup class="verse-num">32</sup> The Pharisees heard the crowd murmuring those things, and the chief priests and Pharisees sent officers to arrest him. <strong><sup>33</sup></strong>Jesus said, <em>“I’ll be with you for a little while yet</em><em>; then </em><em>I’ll go back to the One that sent me.</em><em> </em><strong><sup>34</sup></strong><em>You’ll look for me, but you won’t find me.</em><em> </em><em>You can’t go where I’m going.”</em></span>
 
@@ -65,6 +75,8 @@ weight: 7
 <span class="verse" id="v46"><sup class="verse-num">46</sup> The officers answered, <em>“No</em><em>body’s</em><em> ever spoke</em><em>n</em><em> </em><em>like that</em><em>.”</em></span>
 
 <span class="verse" id="v47"><sup class="verse-num">47</sup> The Pharisees answered them, <em>“You haven’t been deceived too, have you?</em><em> </em><strong><sup>48</sup></strong><em>None of the rulers or the Pharisees have believed in him, have they?</em><em> </em><strong><sup>49</sup></strong><em>Th</em><em>is crowd that doesn’t know the L</em><em>aw is accursed.”</em></span>
+
+<span class="verse" id="v49"><sup class="verse-num">49</sup> Jesus answered, <em>“I don’t have a demon, but I do </em><em>respect</em><em> my Father</em><em>,</em><em> and you dis</em><em>respect</em><em> me.</em><em> </em><strong><sup>50</sup></strong><em>I’m not trying to honor myself.</em><em> </em><em>There is One who seeks and condemns.</em><em> </em><strong><sup>51</sup></strong><em>Truth is, if anybody keeps </em><em>what I say</em><em>, he’ll never die.”</em></span>
 
 <span class="verse" id="v50"><sup class="verse-num">50</sup> Nicodemus said<sup>p</sup> to them—the one who came to him at first, <strong><sup>51</sup></strong><em>“</em><em>It’s not legal, is it, to convict someone without a hearing?”</em></span>
 

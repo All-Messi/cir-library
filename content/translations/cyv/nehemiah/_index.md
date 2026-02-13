@@ -3,7 +3,7 @@ book: Nehemiah
 chapters: 13
 title: Nehemiah
 translation: CYV
-type: book
+type: scripture
 weight: 16
 ---
 

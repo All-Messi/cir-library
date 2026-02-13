@@ -3,7 +3,7 @@ book: James
 chapters: 5
 title: James
 translation: CNT
-type: book
+type: scripture
 weight: 59
 ---
 

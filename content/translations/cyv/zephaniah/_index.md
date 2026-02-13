@@ -3,7 +3,7 @@ book: Zephaniah
 chapters: 3
 title: Zephaniah
 translation: CYV
-type: book
+type: scripture
 weight: 36
 ---
 

@@ -3,7 +3,7 @@ book: 2 Timothy
 chapters: 4
 title: 2 Timothy
 translation: WNT
-type: book
+type: scripture
 weight: 55
 ---
 

@@ -3,7 +3,7 @@ book: Jude
 chapters: 1
 title: Jude
 translation: WNT
-type: book
+type: scripture
 weight: 65
 ---
 

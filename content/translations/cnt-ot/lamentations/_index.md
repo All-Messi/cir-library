@@ -3,7 +3,7 @@ book: Lamentations
 chapters: 5
 title: Lamentations
 translation: CNT
-type: book
+type: scripture
 weight: 25
 ---
 

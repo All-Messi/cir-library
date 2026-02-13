@@ -3,7 +3,7 @@ book: Romans
 chapters: 16
 title: Romans
 translation: WNT
-type: book
+type: scripture
 weight: 45
 ---
 

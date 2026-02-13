@@ -3,7 +3,7 @@ book: Luke
 chapters: 24
 title: Luke
 translation: CNT
-type: book
+type: scripture
 weight: 42
 ---
 

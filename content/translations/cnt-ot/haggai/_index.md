@@ -3,7 +3,7 @@ book: Haggai
 chapters: 2
 title: Haggai
 translation: CNT
-type: book
+type: scripture
 weight: 37
 ---
 

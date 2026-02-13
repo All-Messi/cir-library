@@ -1,0 +1,138 @@
+{{ define "main" }}
+<div class="bible-book-toc">
+    <nav class="breadcrumb">
+        {{ with .Parent }}
+        <a href="{{ .RelPermalink }}">← {{ .Title }}</a>
+        {{ end }}
+    </nav>
+
+    <header class="book-header">
+        <h1>{{ .Params.book | default .Title }}</h1>
+        {{ with .Parent }}
+        <span class="translation-label">{{ .Title }}</span>
+        {{ end }}
+    </header>
+
+    <!-- Chapter Grid (Bible.com style) -->
+    {{ $chapters := .RegularPages.ByWeight }}
+    {{ $count := len $chapters }}
+    {{ if gt $count 0 }}
+    <section class="chapter-grid-section">
+        <h2 class="section-label">{{ $count }} Chapters</h2>
+        <div class="chapter-grid">
+            {{ range $chapters }}
+                <a href="{{ .RelPermalink }}" class="chapter-cell">{{ .Params.chapter }}</a>
+            {{ end }}
+        </div>
+    </section>
+    {{ end }}
+</div>
+
+<style>
+/* ============================================
+   BIBLE BOOK TOC — Bible.com Style
+   ============================================ */
+.bible-book-toc {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.bible-book-toc .breadcrumb {
+    margin-bottom: 2rem;
+}
+
+.bible-book-toc .breadcrumb a {
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.9rem;
+    color: var(--color-text-secondary, #555);
+    text-decoration: none;
+}
+
+.bible-book-toc .breadcrumb a:hover {
+    color: var(--color-accent, #9c7c38);
+}
+
+.book-header {
+    margin-bottom: 2rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid var(--color-border, #e5e5e5);
+}
+
+.book-header h1 {
+    font-family: var(--font-display, 'Playfair Display', Georgia, serif);
+    font-size: 2.25rem;
+    font-weight: 600;
+    color: var(--color-primary, #000);
+    margin: 0 0 0.25rem;
+}
+
+.translation-label {
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.85rem;
+    color: var(--color-text-muted, #888);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+}
+
+/* Section Label */
+.section-label {
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--color-text-muted, #888);
+    margin: 0 0 1rem;
+}
+
+/* Chapter Grid */
+.chapter-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(52px, 1fr));
+    gap: 8px;
+    margin-bottom: 3rem;
+}
+
+.chapter-cell {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    aspect-ratio: 1;
+    background: var(--color-bg, #fff);
+    border: 1px solid var(--color-border, #e5e5e5);
+    border-radius: 8px;
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: var(--color-primary, #000);
+    text-decoration: none;
+    transition: all 0.15s ease;
+}
+
+.chapter-cell:hover {
+    background: var(--color-primary, #000);
+    color: #fff;
+    border-color: var(--color-primary, #000);
+    transform: scale(1.05);
+}
+
+/* ============================================
+   RESPONSIVE
+   ============================================ */
+@media (max-width: 600px) {
+    .chapter-grid {
+        grid-template-columns: repeat(auto-fill, minmax(44px, 1fr));
+        gap: 6px;
+    }
+
+    .chapter-cell {
+        font-size: 0.85rem;
+        border-radius: 6px;
+    }
+
+    .book-header h1 {
+        font-size: 1.75rem;
+    }
+}
+</style>
+{{ end }}

@@ -3,7 +3,7 @@ book: Proverbs
 chapters: 31
 title: Proverbs
 translation: CNT
-type: book
+type: scripture
 weight: 20
 ---
 

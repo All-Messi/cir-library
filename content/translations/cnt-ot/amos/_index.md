@@ -3,7 +3,7 @@ book: Amos
 chapters: 9
 title: Amos
 translation: CNT
-type: book
+type: scripture
 weight: 30
 ---
 

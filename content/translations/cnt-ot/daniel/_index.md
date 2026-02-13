@@ -3,7 +3,7 @@ book: Daniel
 chapters: 12
 title: Daniel
 translation: CNT
-type: book
+type: scripture
 weight: 27
 ---
 

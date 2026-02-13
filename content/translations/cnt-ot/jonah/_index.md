@@ -3,7 +3,7 @@ book: Jonah
 chapters: 4
 title: Jonah
 translation: CNT
-type: book
+type: scripture
 weight: 32
 ---
 

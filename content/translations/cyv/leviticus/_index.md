@@ -3,7 +3,7 @@ book: Leviticus
 chapters: 27
 title: Leviticus
 translation: CYV
-type: book
+type: scripture
 weight: 3
 ---
 
