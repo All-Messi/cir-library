@@ -1,7 +1,7 @@
 ---
 title: "Conversational Old Testament"
-layout: "translation-home"
 type: "translation"
+layout: "translation-home"
 translation: "CNT"
 testament: "old"
 description: "A fresh, readable rendering of the Old Testament in modern conversational English."

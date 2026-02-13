@@ -1,6 +1,6 @@
 ---
 title: "Textual Resources"
-type: "translation"
+type: "resources"
 weight: 10
 ---
 
