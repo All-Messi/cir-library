@@ -8,34 +8,44 @@
     </header>
 
     <div class="books-grid">
-        {{/* Find all sections with book: true, sorted by book_weight */}}
-        {{ $books := where (where site.Pages "Kind" "section") "Params.book" true }}
-        {{ range sort $books "Params.book_weight" }}
-            {{ $chapterCount := len .RegularPages }}
-            {{ $parentPath := "" }}
-            {{ with .Parent }}
-                {{ $parentPath = .Title }}
-            {{ end }}
-            
-            <article class="book-card">
-                <div class="book-category">{{ $parentPath }}</div>
-                <h2>{{ .Title }}</h2>
-                {{ with .Content }}
-                <p class="book-description">{{ . | plainify | truncate 120 }}</p>
+        {{/* Hardcoded book paths — most reliable way to find deeply nested sections */}}
+        {{ $bookPaths := slice
+            "essays/interpretation/getting-the-point-book"
+            "essays/topics/basic-christianity/book"
+            "essays/topics/christian-doctrine/mankind-anthropology/nature-of-man-book"
+            "essays/interpretation/commentaries/sermon-on-the-mount-book"
+            "essays/evidences/apologetics-book"
+        }}
+
+        {{ range $bookPaths }}
+            {{ $book := site.GetPage . }}
+            {{ if $book }}
+                {{ $chapterCount := len $book.RegularPages }}
+                {{ $parentTitle := "" }}
+                {{ with $book.Parent }}
+                    {{ $parentTitle = .Title }}
                 {{ end }}
-                <div class="book-meta">
-                    {{ if gt $chapterCount 0 }}
-                    <span class="chapter-count">{{ $chapterCount }} chapters</span>
-                    {{ else }}
-                    <span class="chapter-count">Coming soon</span>
+                
+                <article class="book-card">
+                    <div class="book-category">{{ $parentTitle }}</div>
+                    <h2>{{ $book.Title }}</h2>
+                    {{ with $book.Content }}
+                    <p class="book-description">{{ . | plainify | truncate 120 }}</p>
                     {{ end }}
-                </div>
-                {{ if gt $chapterCount 0 }}
-                <a href="{{ .RelPermalink }}" class="btn btn-primary">Read Book</a>
-                {{ else }}
-                <span class="btn btn-disabled">Coming Soon</span>
-                {{ end }}
-            </article>
+                    <div class="book-meta">
+                        {{ if gt $chapterCount 0 }}
+                        <span class="chapter-count">{{ $chapterCount }} chapters</span>
+                        {{ else }}
+                        <span class="chapter-count">Coming soon</span>
+                        {{ end }}
+                    </div>
+                    {{ if gt $chapterCount 0 }}
+                    <a href="{{ $book.RelPermalink }}" class="btn btn-primary">Read Book</a>
+                    {{ else }}
+                    <span class="btn btn-disabled">Coming Soon</span>
+                    {{ end }}
+                </article>
+            {{ end }}
         {{ end }}
     </div>
 </div>
