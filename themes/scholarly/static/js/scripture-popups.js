@@ -150,19 +150,35 @@
   /* ================================================================
      BUILD CHAPTER URL FOR A REFERENCE
      ================================================================ */
-  function buildChapterUrl(ref) {
+  function buildChapterUrls(ref) {
     var base = getBaseUrl();
     var currentTrans = getCurrentTranslation();
-    var transPath;
+    var chStr = ref.chapter < 10 ? '0' + ref.chapter : '' + ref.chapter;
+    var slug = ref.slug;
 
+    // Build prioritized list of translations to try
+    var transList;
     if (ref.testament === 'ot') {
-      transPath = (currentTrans === 'cyv') ? 'cyv' : 'cnt-ot';
+      // OT references: try cnt-ot first, then cyv
+      if (currentTrans === 'cyv') {
+        transList = ['cyv', 'cnt-ot'];
+      } else {
+        transList = ['cnt-ot', 'cyv'];
+      }
     } else {
-      transPath = (currentTrans === 'wooden-nt') ? 'wooden-nt' : 'cnt-nt';
+      // NT references: stay in current NT translation first, then try others
+      if (currentTrans === 'wooden-nt') {
+        transList = ['wooden-nt', 'cnt-nt'];
+      } else if (currentTrans === 'cyv') {
+        transList = ['cnt-nt', 'wooden-nt'];
+      } else {
+        transList = ['cnt-nt', 'wooden-nt'];
+      }
     }
 
-    var chStr = ref.chapter < 10 ? '0' + ref.chapter : '' + ref.chapter;
-    return base + 'translations/' + transPath + '/' + ref.slug + '/chapter-' + chStr + '/';
+    return transList.map(function(t) {
+      return base + 'translations/' + t + '/' + slug + '/chapter-' + chStr + '/';
+    });
   }
 
   /* ================================================================
@@ -243,14 +259,17 @@
         if (parsed.verseSuffix) label += parsed.verseSuffix;
         if (parsed.verseEnd) label += '-' + parsed.verseEnd;
 
-        var url = buildChapterUrl(parsed);
+        var urls = buildChapterUrls(parsed);
+        var primaryUrl = urls[0];
+        var fallbackUrls = urls.slice(1);
         var oldHtml = verse.innerHTML;
         var newHtml = oldHtml.replace(htmlRegex, function (fullMatch) {
           // Strip inner HTML tags to avoid invalid nesting
           // (source often has <strong> tags split across the reference)
           var cleanText = fullMatch.replace(/<[^>]+>/g, '');
-          return '<a class="scripture-ref" href="' + url + '#v' + parsed.verse +
-            '" data-chapter-url="' + url +
+          return '<a class="scripture-ref" href="' + primaryUrl + '#v' + parsed.verse +
+            '" data-chapter-url="' + primaryUrl +
+            '" data-fallback-urls="' + fallbackUrls.join('|') +
             '" data-verse="' + parsed.verse +
             '" data-verse-end="' + (parsed.verseEnd || '') +
             '" data-label="' + label +
@@ -296,6 +315,7 @@
       '</div>' +
       '<div class="sp-body"><div class="sp-loading">Loading\u2026</div></div>' +
       '<a class="sp-link" href="' + url + '#v' + verse + '">Read full chapter \u2192</a>';
+    popup.setAttribute('data-primary-url', url);
 
     document.body.appendChild(popup);
     activePopup = popup;
@@ -310,8 +330,10 @@
       document.addEventListener('keydown', onEscKey);
     }, 10);
 
-    // Fetch verse content
-    fetchVerse(url, verse, verseEnd ? parseInt(verseEnd, 10) : null, popup);
+    // Fetch verse content (with fallback URLs for cross-testament)
+    var fallbacks = el.getAttribute('data-fallback-urls');
+    var fallbackList = fallbacks ? fallbacks.split('|').filter(Boolean) : [];
+    fetchVerse(url, verse, verseEnd ? parseInt(verseEnd, 10) : null, popup, fallbackList);
   }
 
   function positionPopup(popup, anchor) {
@@ -374,12 +396,17 @@
   /* ================================================================
      FETCH AND EXTRACT VERSE TEXT
      ================================================================ */
-  function fetchVerse(url, verseNum, verseEnd, popup) {
+  function fetchVerse(url, verseNum, verseEnd, popup, fallbackUrls) {
     var body = popup.querySelector('.sp-body');
+    fallbackUrls = fallbackUrls || [];
 
     // Check cache
     if (fetchCache[url]) {
-      extractAndShow(fetchCache[url], verseNum, verseEnd, body);
+      var result = extractAndShow(fetchCache[url], verseNum, verseEnd, body);
+      if (!result && fallbackUrls.length > 0) {
+        // Cached page didn't have the verse, try fallbacks
+        fetchVerse(fallbackUrls[0], verseNum, verseEnd, popup, fallbackUrls.slice(1));
+      }
       return;
     }
 
@@ -392,10 +419,19 @@
         var parser = new DOMParser();
         var doc = parser.parseFromString(html, 'text/html');
         fetchCache[url] = doc;
-        extractAndShow(doc, verseNum, verseEnd, body);
+        var result = extractAndShow(doc, verseNum, verseEnd, body);
+        if (!result && fallbackUrls.length > 0) {
+          // Primary translation didn't have it, try next
+          fetchVerse(fallbackUrls[0], verseNum, verseEnd, popup, fallbackUrls.slice(1));
+        }
       })
       .catch(function () {
-        body.innerHTML = '<div class="sp-error">Verse not available on this site</div>';
+        // Page not found — try fallback translation
+        if (fallbackUrls.length > 0) {
+          fetchVerse(fallbackUrls[0], verseNum, verseEnd, popup, fallbackUrls.slice(1));
+        } else {
+          body.innerHTML = '<div class="sp-error">Verse not available in any translation</div>';
+        }
       });
   }
 
@@ -407,7 +443,6 @@
       var el = doc.getElementById('v' + v);
       if (el) {
         var clone = el.cloneNode(true);
-        // Remove any nested scripture-ref wrappers to avoid recursion
         clone.querySelectorAll('.scripture-ref').forEach(function (sr) {
           sr.replaceWith(document.createTextNode(sr.textContent));
         });
@@ -415,10 +450,48 @@
       }
     }
 
+    // If direct ID lookup failed, search inside grouped verse spans
+    // (convert_cir.py groups verses like 13-20 into one span id="v13")
+    if (verses.length === 0) {
+      var allVerseSpans = doc.querySelectorAll('.verse');
+      for (var i = 0; i < allVerseSpans.length; i++) {
+        var span = allVerseSpans[i];
+        var sups = span.querySelectorAll('sup');
+        for (var j = 0; j < sups.length; j++) {
+          var supText = sups[j].textContent.trim().replace(/[^0-9\-]/g, '');
+          if (!supText) continue;
+          // Check single number or range like "13" or "4-6"
+          var parts = supText.split('-').filter(Boolean);
+          var lo = parseInt(parts[0], 10);
+          var hi = parts.length > 1 ? parseInt(parts[1], 10) : lo;
+          if (isNaN(lo)) continue;
+          for (var v2 = verseNum; v2 <= end; v2++) {
+            if (v2 >= lo && v2 <= hi) {
+              var clone2 = span.cloneNode(true);
+              clone2.querySelectorAll('.scripture-ref').forEach(function (sr) {
+                sr.replaceWith(document.createTextNode(sr.textContent));
+              });
+              verses.push(clone2.innerHTML);
+              i = allVerseSpans.length; // break outer loop too
+              break;
+            }
+          }
+          if (verses.length > 0) break;
+        }
+      }
+    }
+
     if (verses.length > 0) {
       container.innerHTML = '<div class="sp-verses">' + verses.join(' ') + '</div>';
+      var link = container.parentElement.querySelector('.sp-link');
+      if (link) {
+        var pageUrl = doc.querySelector('link[rel="canonical"]');
+        if (pageUrl) link.href = pageUrl.getAttribute('href') + '#v' + verseNum;
+      }
+      return true;
     } else {
       container.innerHTML = '<div class="sp-error">Verse not found in this translation</div>';
+      return false;
     }
   }
 

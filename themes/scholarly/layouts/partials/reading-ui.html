@@ -1301,7 +1301,11 @@ function setFontFamily(font) {
     }
 
     // Click on verse = show tooltip, click elsewhere = dismiss
+    // Skip scripture reference clicks and popup interactions
     document.addEventListener('click', function(e) {
+        if (e.target.closest('.scripture-ref') || e.target.closest('.scripture-popup')) {
+            return;
+        }
         var verse = e.target.closest('.verse');
         if (verse && e.target.closest('.chapter-content')) {
             showTooltip(verse, e);
