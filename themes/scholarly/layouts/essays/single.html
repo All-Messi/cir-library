@@ -33,10 +33,11 @@
     </header>
 
     <div class="essay-content">
-        {{ if .TableOfContents }}
+        {{ $toc := .TableOfContents }}
+        {{ if and $toc (findRE `<li>` $toc) }}
         <aside class="toc">
             <h3>Contents</h3>
-            {{ .TableOfContents }}
+            {{ $toc }}
         </aside>
         {{ end }}
 
@@ -70,4 +71,45 @@
         </div>
     </footer>
 </article>
+
+<script>
+// Remove redundant title/author/blanks from Word HTML body
+(function() {
+    var wc = document.querySelector('.word-content');
+    if (!wc) return;
+    var children = wc.children;
+    // Remove leading paragraphs that are: title (centered bold), author (centered "Virgil"/"Warren"), or blank (&nbsp; only)
+    var toRemove = [];
+    for (var i = 0; i < Math.min(children.length, 8); i++) {
+        var el = children[i];
+        var text = el.textContent.trim();
+        // Blank / whitespace-only paragraph
+        if (!text || text === '\u00a0' || text === '') {
+            toRemove.push(el);
+            continue;
+        }
+        // Centered text matching title or author
+        var style = el.getAttribute('style') || '';
+        var align = el.getAttribute('align') || '';
+        var isCentered = style.indexOf('text-align:center') > -1 || align === 'center';
+        if (!isCentered) break; // stop at first non-centered content paragraph
+        // Check if it's the title or author name
+        var upper = text.toUpperCase();
+        var pageTitle = document.querySelector('.essay-header h1');
+        if (pageTitle && upper === pageTitle.textContent.trim().toUpperCase()) {
+            toRemove.push(el);
+            continue;
+        }
+        if (text.indexOf('Virgil') > -1 || text.indexOf('Warren') > -1 || text.indexOf('PhD') > -1) {
+            toRemove.push(el);
+            continue;
+        }
+        // Any other centered line at top (subtitle, etc.) — keep it
+        break;
+    }
+    for (var j = 0; j < toRemove.length; j++) {
+        toRemove[j].style.display = 'none';
+    }
+})();
+</script>
 {{ end }}

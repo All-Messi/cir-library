@@ -11,57 +11,305 @@ title: THE NATURE OF MANKIND
 weight: 4
 ---
 
+<style>
+/* Font Definitions */
+ @font-face
+	{font-family:"Tms Rmn";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Chicago;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+ /* Style Definitions */
+ .word-content p.MsoNormal, .word-content li.MsoNormal, 
+p.MsoHeader, li.MsoHeader, 
+span.HeaderChar
+	{mso-style-name:"Header Char";
+	mso-style-link:Header;
+	font-family:"Times New Roman",serif;
+	color:black;}
+.word-content .MsoChpDefault
+	{font-family:"Tms Rmn",serif;}
+ /* Page Definitions */
+</style>
 
+<div class="word-content">
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
+line-height:18.0pt'><b><span style='font-size:14.0pt'>THE NATURE OF MANKIND</span></b></p>
 
-Preface
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
+text-indent:.5in;line-height:18.0pt'><b><span style='font-size:14.0pt'>&nbsp;</span></b></p>
 
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
+line-height:18.0pt'><span style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
 
-The present volume was a project during a year’s sabbatical at Manhattan Christian College in Manhattan, Kansas. I am grateful to fellow faculty members, administration, and trustees for approving the sabbatical proposal. To my colleagues—especially Steve Isom, Dr. Franklin Karns, and Dr. Scott Caulley—I owe a debt of thanks for shouldering increased teaching loads so the necessary courses for the l989-1990 academic year could be maintained. Students and family have been encouragements as well during the completion of this and other commitments.
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
+text-indent:.5in;line-height:18.0pt'><b><span style='font-size:12.0pt'>&nbsp;</span></b></p>
 
-Over the past several years, colleagues at the school have served as helpful sounding boards for many ideas presented in the book. Informal exchanges with several of these co-workers—Dr. Rick Townsend, Dr. Dennis Glenn, Dr. Scott Caulley, Dr. Franklin Karns—have sharpened my thinking on themes in this volume that relate to family studies, education, philosophy, rhetoric, and biblical interpretation. My wife, Ruth Ann Warren’s masters and doctoral work in literature has been quite helpful as well, particularly her studies in John Milton on God’s reasons for creating man.
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
+line-height:18.0pt'><span style='font-size:12.0pt'>Preface</span></p>
 
-<em>What the Bible Says About the Nature of Man</em> was originally planned as a volume closely related to <em>What the Bible Says About Salvation</em> (College Press, 1982). The earlier work often builds on viewpoints expressed in this present study. My doctoral dissertation, provides part of the undergirding for several essays that deal with human depravity and for chapters that appear on our website from the grouping of essays presented as this<em> Nature of Man </em>sequence of essays. The dissertation was submitted to The Southern Baptist Theological Seminary: <em>The Implication of Divine Self-Consistency for the Doctrine of Natural Depravity: A Biblical-Systematic Approach</em> (Ann Arbor, Michigan: University Microfilms, l977 under the supervision of Dr. Dale Moody). The dissertation itself is available in xerox under the number #77-23, 835.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in;line-height:18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-I appreciated so much the opportunity College Press provided me for giving those ideas a wider reading. Unfortunately, the financial conditions of the college in the mid-1980s involved so much extra attention, I was not able to produce the volume as intended. Some chapters that I did manage to write are collected here for whatever use they may serve these many years later (2023).
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in;line-height:18.0pt'><span style='font-size:12.0pt'>The present volume was a
+project during a year’s sabbatical at Manhattan Christian College in Manhattan,
+Kansas. I am grateful to fellow faculty members, administration, and trustees
+for approving the sabbatical proposal. To my colleagues—especially Steve Isom,
+Dr. Franklin Karns, and Dr. Scott Caulley—I owe a debt of thanks for
+shouldering increased teaching loads so the necessary courses for the l989-1990
+academic year could be maintained. Students and family have been encouragements
+as well during the completion of this and other commitments.</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in;line-height:18.0pt'><span style='font-size:12.0pt'>Over the past several
+years, colleagues at the school have served as helpful sounding boards for many
+ideas presented in the book. Informal exchanges with several of these
+co-workers—Dr. Rick Townsend, Dr. Dennis Glenn, Dr. Scott Caulley, Dr. Franklin
+Karns—have sharpened my thinking on themes in this volume that relate to family
+studies, education, philosophy, rhetoric, and biblical interpretation. My wife,
+Ruth Ann Warren’s masters and doctoral work in literature has been quite
+helpful as well, particularly her studies in John Milton on God’s reasons for
+creating man. </span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in;line-height:18.0pt'><i><span style='font-size:12.0pt'>What the Bible Says
+About the Nature of Man</span></i><span style='font-size:12.0pt'> was
+originally planned as a volume closely related to <i>What the Bible Says About
+Salvation</i> (College Press, 1982). The earlier work often builds on
+viewpoints expressed in this present study. My doctoral dissertation, provides
+part of the undergirding for several essays that deal with human depravity and
+for chapters that appear on our website from the grouping of essays presented
+as this<i> Nature of Man </i>sequence of essays. The dissertation was submitted
+to The Southern Baptist Theological Seminary: <i>The Implication of Divine
+Self-Consistency for the Doctrine of Natural Depravity: A Biblical-Systematic
+Approach</i> (Ann Arbor, Michigan: University Microfilms, l977 under the
+supervision of Dr. Dale Moody). The dissertation itself is available in xerox
+under the number #77-23, 835.</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in;line-height:18.0pt'><span style='font-size:12.0pt'>I appreciated so much
+the opportunity College Press provided me for giving those ideas a wider
+reading. Unfortunately, the financial conditions of the college in the mid-1980s
+involved so much extra attention, I was not able to produce the volume as
+intended. Some chapters that I did manage to write are collected here for
+whatever use they may serve these many years later (2023).</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in;line-height:18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-Introduction
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in;line-height:18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in;line-height:18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-<strong>Unique features</strong> One notable feature of this book is its presentation on depravity. We have affirmed psychological depravity in contrast to the natural depravity traditionally affirmed in Christendom since the time of Augustine of Hippo (354-430). Most evangelicals today still do their theology in light of Augustine’s philosophy as reaffirmed in the Reformation. Taking his position has wide repercussions for anthropology itself as well as salvation, the work of the Spirit, the process of sanctification, the role of apologetics, and the process of interpretation. Accordingly, doing biblical theology without this presupposition effects all these areas. If we consider being, action, and relationship as the primary features of reality, then we are saying that the effects sin have to do with action and relationship, not particularly being—at least in a biologically inheritable sense (with rare exceptions). In rare exceptions, we take it that God sets aside that inherited factor in determining a people’s eternal destiny, because they cannot be responsible for getting themselves into a condition where they cannot help doing what they do later.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in;line-height:18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-<strong>View of Scripture</strong> We realize the potential for misunderstanding the reasons for our position on depravity. We have to go to theological liberalism to find such a position; so we affirm here a high view of scripture to offset that inference. Ontic depravity as systematized by Augustine strikes a familiar chord in modern secular views of anthropology and human-related studies. Behaviorism is a good example. Augustinianism shares the working assumptions behind much psychological research today. Both Augustinianism and these disciplines assume a one-for-one correlation between behavior and being; that is the reason for trying to treat them “scientifically” like they do inorganic and plant-life studies.
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
+line-height:18.0pt'><span style='font-size:12.0pt'>Introduction</span></p>
 
-It is fair to say that in conservative circles, Christians associated with “the restoration movement” stand virtually alone in this less critical attitude toward ontic human nature. These churches and their leaders have descended from founders who were greatly influenced by enlightenment philosophy. Even this movement, however, has experienced significant impact from the larger Christian community that does from the natural depravity viewpoint. This volume strikes a middle course between the overly optimistic view of mankind in enlightenment philosophy and the overly pessimistic one found in Augustinianism. Admittedly people universally behave in a depraved way, but the reason for it does not lie in a “fallen nature.”  We will argue that scripture does not teach that Adam’s spiritual ability after the fall was any less in spiritual matters than it was before in an inheritable sense.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in;line-height:18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in;line-height:18.0pt'><b><span style='font-size:12.0pt'>Unique features</span></b><span
+style='font-size:12.0pt'> One <u>notable feature</u> of this book is its
+presentation on depravity. We have affirmed psychological depravity in contrast
+to the natural depravity traditionally affirmed in Christendom since the time
+of Augustine of Hippo (354-430). Most evangelicals today still do their
+theology in light of Augustine’s philosophy as reaffirmed in the Reformation. Taking
+his position has wide repercussions for anthropology itself as well as
+salvation, the work of the Spirit, the process of sanctification, the role of
+apologetics, and the process of interpretation. Accordingly, doing biblical
+theology without this presupposition effects all these areas. If we consider <u>being</u>,
+<u>action</u>, and <u>relationship</u> as the primary features of reality, then
+we are saying that the effects sin have to do with action and relationship, not
+particularly being—at least in a biologically inheritable sense (with rare
+exceptions). In rare exceptions, we take it that God sets aside that inherited
+factor in determining a people’s eternal destiny, because they cannot be
+responsible for getting themselves into a condition where they cannot help
+doing what they do later.</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in;line-height:18.0pt'><b><span style='font-size:12.0pt'>View of Scripture</span></b><span
+style='font-size:12.0pt'> We realize the potential for misunderstanding the
+reasons for our position on depravity. We have to go to theological liberalism
+to find such a position; so we affirm here a high view of scripture to offset
+that inference. Ontic depravity as systematized by Augustine strikes a familiar
+chord in modern secular views of anthropology and human-related studies. Behaviorism
+is a good example. Augustinianism shares the working assumptions behind much
+psychological research today. Both Augustinianism and these disciplines assume
+a one-for-one correlation between behavior and being; that is the reason for
+trying to treat them “scientifically” like they do inorganic and plant-life
+studies. </span></p>
 
-<strong>Theological Method </strong>A second notable feature of our work is centralizing interpersonalism. Readers will find several essays on the website under the heading <strong>Interpersonalism</strong> on the home page of <em>Christian Internet Resources </em><christ.org>. That central concept affects virtually every topic the website handles. That means the site amounts to a systematic theology in website form.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in;line-height:18.0pt'><span style='font-size:12.0pt'>It is fair to say that
+in conservative circles, Christians associated with “the restoration movement”
+stand virtually alone in this less critical attitude toward ontic human nature.
+These churches and their leaders have descended from founders who were greatly
+influenced by enlightenment philosophy. Even this movement, however, has
+experienced significant impact from the larger Christian community that does from
+the natural depravity viewpoint. This volume strikes a middle course between
+the overly optimistic view of mankind in enlightenment philosophy and the
+overly pessimistic one found in Augustinianism. Admittedly people universally
+behave in a depraved way, but the <u>reason</u> for it does not lie in a “fallen
+nature.”  We will argue that scripture does not teach that Adam’s spiritual
+ability after the fall was any less in spiritual matters than it was before in
+an inheritable sense.</span></p>
 
-We are analyzing interpersonalism from our experience of it. That danger is present in all efforts at interpretation, not only in scripture, but in all communication where human language is the medium for transferring information between people. There is danger in so doing because <strong>(a)</strong> our perception of what constitutes personhood may be inadequate or erroneous. By analyzing human nature and using it to understand scripture, ourselves, God, and our relationship to him, we face the ever-present danger of <strong>(b) </strong>reading into scripture (eisegesis) rather than reading out of it (exegesis). Our resulting ideas may be philosophy based in experience more than theology derived from revelation. But reflection shows us that the meaning of words and the nature of the realities they refer to always derive from the experiences that infuse those words with meaning and conjure up in our minds characteristics of the realities were treating.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in;line-height:18.0pt'><b><span style='font-size:12.0pt'>            </span></b></p>
 
-Finally, we run the risk of <strong>(c) </strong>bringing God down to our level or overly exalting ourselves. Though we may be correct about interpersonalism as we know it, God may be more than that and may only have revealed himself to us as interpersonal because that is the closest category we can appreciate. To put it in the extreme terms Karl Barth popularized, God might be “Wholly Other”; but he has at least accommodated himself to our weakness in being wholly for us. More to the point, however, is the fact that God has revealed himself to us as interpersonal. He is enough like us that he can relate to us, communicate with us, speak of creating us in his image, and himself becoming incarnate as a human person. If God is not in fact person, we cannot know that, and we have no basis for making any other affirmation about him and us as we experience being human with him. We can flesh out the nature of interpersonal relationship as the primary category for doing theology because we can do no other.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in;line-height:18.0pt'><b><span style='font-size:12.0pt'>&nbsp;</span></b></p>
 
-Besides, other approaches to divine fellowship we deem less adequate because they bring God down even farther. According to the familiar dictum, we adopt our theological method, not because it has no problems, but because we perceive that it has fewer. Hopefully, we have properly used sanctified imagination to glorify God in understanding his revelation about us even as Abraham used sanctified imagination to justify him when he commanded Abraham to sacrifice Isaac.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in;line-height:18.0pt'><b><span style='font-size:12.0pt'>Theological Method </span></b><span
+style='font-size:12.0pt'>A</span><span style='font-size:12.0pt'> <u>second
+notable feature</u> of our work is centralizing interpersonalism. Readers will
+find several essays on the website under the heading <b>Interpersonalism</b> on
+the home page of <i>Christian Internet Resources </i>&lt;christ.org&gt;. That
+central concept affects virtually every topic the website handles. That means
+the site amounts to a systematic theology in website form.</span></p>
 
-Even if we are right about interpersonalism as the ultimate category in hermeneutics, there is still room for humility in the application of that fact. Interpersonal may be tainted by various aspects of our own creatureliness—weakness, ignorance, and sin. The impact of personality on hermeneutics is real, significant, and elusive. Rigid people tend to see in scripture what feels natural to their own desire for exactness. Free-flowing personalities tend to do the same thing in terms of their bent. While subjectivism and eisegesis are admitted risks in the hermeneutic we have adopted, all interpreters are liable to those same dangers. We end up relying on personal characteristics like attitude and grace to “bail out” the failures that crop up in using a hermeneutic that depends on interpersonalism as the ultimate reality. The best we can do is distinguish theoretically between the intended meaning of scripture and our understanding of it and encourage everyone else to do likewise. Here we must stand; we can hardly do no other.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in;line-height:18.0pt'><span style='font-size:12.0pt'>We are analyzing
+interpersonalism from our experience of it. That danger is present in all
+efforts at interpretation, not only in scripture, but in all communication where
+human language is the medium for transferring information between people. There
+is danger in so doing because <b>(a)</b> our perception of what constitutes
+personhood may be inadequate or erroneous. By analyzing human nature and using
+it to understand scripture, ourselves, God, and our relationship to him, we
+face the ever-present danger of <b>(b) </b>reading into scripture (eisegesis)
+rather than reading out of it (exegesis). Our resulting ideas may be philosophy
+based in experience more than theology derived from revelation. But reflection shows
+us that the meaning of words and the nature of the realities they refer to
+always derive from the experiences that infuse those words with meaning and
+conjure up in our minds characteristics of the realities were treating.</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in;line-height:18.0pt'><span style='font-size:12.0pt'>Finally, we run the
+risk of <b>(c) </b>bringing God down to our level or overly exalting ourselves.
+Though we may be correct about interpersonalism as we know it, God may be more
+than that and may only have revealed himself to us as interpersonal because
+that is the closest category we can appreciate. To put it in the extreme terms
+Karl Barth popularized, God might be “Wholly Other”; but he has at least
+accommodated himself to our weakness in being wholly for us. More to the point,
+however, is the fact that God has revealed himself to us as interpersonal. He
+is enough like us that he can relate to us, communicate with us, speak of
+creating us in his image, and himself becoming incarnate as a human person. If
+God is not in fact person, we cannot know that, and we have no basis for making
+any other affirmation about him and us as we experience being human with him. We
+can flesh out the nature of interpersonal relationship as the primary category
+for doing theology because we can do no other. </span></p>
 
-In addition to our general theological method, we have taken pains to explain our <strong>hermeneutical approach</strong> in specific cases. The crucial issue in interpretation is not the view so much as the way we reach it. Different positions do not usually arise because some readers disbelieve scripture or disregard its authority, but because they do not go about reading it alike. Our view of scripture affects interpreting what it means. We have assumed that, in terms of intended content, scripture in principle is harmonious in all matters whereof it speaks because it has essentially one Author. How the Spirit worked with the various authors we cannot say; but by using a range of positive and protective operations, he could guarantee the reliability of the resulting word without prostituting the personhood of its prophets. In an essay entitled “Five Models for Completely Reliable Scripture” (<em>Christian Standard</em>, July 10, 1988, pp. 13-14), we suggested that the Spirit could have given words, ideas, abilities, experiences, or simply the prophetic office itself in revealing God’s will to his people and still achieve that result.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in;line-height:18.0pt'><span style='font-size:12.0pt'>Besides, other
+approaches to divine fellowship we deem less adequate because they bring God
+down even farther. According to the familiar dictum, we adopt our theological
+method, not because it has no problems, but because we perceive that it has
+fewer. Hopefully, we have properly used sanctified imagination to glorify God
+in understanding his revelation about us even as Abraham used sanctified
+imagination to justify him when he commanded Abraham to sacrifice Isaac.</span></p>
 
-But beyond nature of scripture lies the nature of human language as scripture uses it. We affirm that it uses human language the same way we use it elsewhere. Assuming otherwise, we fall into a subjectivism that cuts us off from correction. The only objective control on correct exegesis is consistency with other cases of human language. Proper understanding of how language works precedes how it works in the Bible. Supposing special principles, greater rigidness, multiple meanings, and the like makes correct understanding impossible and misunderstanding impossible to correct.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in;line-height:18.0pt'><span style='font-size:12.0pt'>Even if we are right
+about interpersonalism as the ultimate category in hermeneutics, there is still
+room for humility in the application of that fact. Interpersonal may be tainted
+by various aspects of our own creatureliness—weakness, ignorance, and sin. The
+impact of personality on hermeneutics is real, significant, and elusive. Rigid
+people tend to see in scripture what feels natural to their own desire for
+exactness. Free-flowing personalities tend to do the same thing in terms of
+their bent. While subjectivism and eisegesis are admitted risks in the
+hermeneutic we have adopted, all interpreters are liable to those same dangers.
+We end up relying on personal characteristics like attitude and grace to “bail
+out” the failures that crop up in using a hermeneutic that depends on
+interpersonalism as the ultimate reality. The best we can do is distinguish
+theoretically between the intended meaning of scripture and our understanding
+of it and encourage everyone else to do likewise. Here we must stand; we can
+hardly do no other.</span></p>
 
-We encourage readers to consult the <strong>endnotes</strong>. Most subjects directly connect with a wide range of topics. Correctly thinking through an issue as multifaceted as human nature requires us to consider everything associated with it. We cannot deal with all these related subjects without causing the book to lose focus. So, significant matters we have addressed in endnotes and reserved more technical comments there to facilitate presentation to the general reader.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in;line-height:18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in;line-height:18.0pt'><span style='font-size:12.0pt'>In addition to our
+general theological method, we have taken pains to explain our <b>hermeneutical
+approach</b> in specific cases. The crucial issue in interpretation is not the
+view so much as the way we reach it. Different positions do not usually arise
+because some readers disbelieve scripture or disregard its authority, but
+because they do not go about reading it alike. Our view of scripture affects interpreting
+what it means. We have assumed that, in terms of <u>intended content</u>,
+scripture <u>in principle</u> is harmonious in all matters whereof it speaks
+because it has essentially one Author. How the Spirit worked with the various
+authors we cannot say; but by using a range of positive and protective
+operations, he could guarantee the reliability of the resulting word without
+prostituting the personhood of its prophets. In an essay entitled “Five Models
+for Completely Reliable Scripture” (<i>Christian Standard</i>, July 10, 1988,
+pp. 13-14), we suggested that the Spirit could have given words, ideas,
+abilities, experiences, or simply the prophetic office itself in revealing God’s
+will to his people and still achieve that result. </span></p>
 
-A <strong>Glossary of Terms</strong>, later intended for the website, covers a broader range of items than those discussed in the body of the text. Many topics do not come in for deliberate treatment in the main part of the book; nevertheless, they belong to a more complete study of our subject. There are also some terms that are not specifically anthropological terms but come up. If a term does not communicate very well, a reader may find it explained in the glossary.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in;line-height:18.0pt'><span style='font-size:12.0pt'>But beyond nature of
+scripture lies the nature of human language as scripture uses it. We affirm
+that it uses human language the same way we use it elsewhere. Assuming
+otherwise, we fall into a subjectivism that cuts us off from correction. The
+only objective control on correct exegesis is consistency with other cases of
+human language. Proper understanding of how language works precedes how it
+works in the Bible. Supposing special principles, greater rigidness, multiple
+meanings, and the like makes correct understanding impossible and
+misunderstanding impossible to correct.</span></p>
 
-A good bit of correlation exists between the frame of thought here on anthropology and the framework for soteriology used in <em>What the Bible Says About Salvation</em> originally (1982 and reprinted twice).
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in;line-height:18.0pt'><span style='font-size:12.0pt'>We encourage readers to
+consult the <b>endnotes</b>. Most subjects directly connect with a wide range
+of topics. Correctly thinking through an issue as multifaceted as human nature
+requires us to consider everything associated with it. We cannot deal with all
+these related subjects without causing the book to lose focus. So, significant
+matters we have addressed in endnotes and reserved more technical comments there
+to facilitate presentation to the general reader. </span></p>
 
-Significant amounts of material on depravity we have reworked from their original presentation in my doctoral dissertation. Even in the current scene, little evangelical literature advocates psychological depravity in place of natural depravity. Hopefully, the presentation here will show that denying the Augustinian-Calvinistic formulation of that doctrine need not involve a theological shift to the “left.” In a more practical vein, it should show that Christians do not have to “live with” the difficulties that doctrine raises for unbelievers when we present them the good news of reconciliation between people and the God who created them in his own image.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in;line-height:18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in;line-height:18.0pt'><span style='font-size:12.0pt'>A <b>Glossary of Terms</b>,
+later intended for the website,<b> </b>covers a broader range of items than
+those discussed in the body of the text. Many topics do not come in for
+deliberate treatment in the main part of the book; nevertheless, they belong to
+a more complete study of our subject. There are also some terms that are not
+specifically anthropological terms but come up. If a term does not communicate
+very well, a reader may find it explained in the glossary.</span></p>
 
-christir.org
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in;line-height:18.0pt'><span style='font-size:12.0pt'>A good bit of
+correlation exists between the frame of thought here on anthropology and the
+framework for soteriology used in <i>What the Bible Says About Salvation</i>
+originally (1982 and reprinted twice).</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in;line-height:18.0pt'><span style='font-size:12.0pt'>Significant amounts of material
+on depravity we have reworked from their original presentation in my doctoral
+dissertation. Even in the current scene, little evangelical literature advocates
+psychological depravity in place of natural depravity. Hopefully, the
+presentation here will show that denying the Augustinian-Calvinistic
+formulation of that doctrine need not involve a theological shift to the
+“left.” In a more practical vein, it should show that Christians do not have to
+“live with” the difficulties that doctrine raises for unbelievers when we
+present them the good news of reconciliation between people and the God who
+created them in his own image.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in;line-height:18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in;line-height:18.0pt'><span style='font-size:12.0pt'>                                                                                                                              
+</span><span style='font-size:11.0pt'>christir.org</span></p>
+</div>

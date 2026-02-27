@@ -9,218 +9,401 @@ title: THE NOACHIAN FLOOD
 weight: 2
 ---
 
+<style>
+/* Font Definitions */
+ @font-face
+	{font-family:"Tms Rmn";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Chicago;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+ /* Style Definitions */
+ .word-content p.MsoNormal, .word-content li.MsoNormal, 
+p.MsoHeader, li.MsoHeader, 
+span.HeaderChar
+	{mso-style-name:"Header Char";
+	mso-style-link:Header;
+	font-family:"Times New Roman",serif;
+	color:black;}
+.word-content .MsoChpDefault
+	{font-family:"Tms Rmn",serif;}
+ /* Page Definitions */
+ 
 
+ /* List Definitions */
+ ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+</style>
 
+<div class="word-content">
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
+style='font-size:14.0pt'>THE NOACHIAN FLOOD</span></b></p>
 
-I. Views of the Flood
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
+style='font-size:14.0pt'>&nbsp;</span></b></p>
 
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
+style='font-size:12.0pt'>     Virgil Warren PhD</span></p>
 
-A.	Local flood theory: anthropologically universal, but not global
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-B.	Tranquil flood theory: perhaps universal, but not catastrophic with geological
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-upheavals, volcanic activity, or cosmic disturbances
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>    
+I. Views of the Flood</span></p>
 
-C.	Catastrophic universal flood theory designed to account for the fossil-bearing
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-geological column
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                  A.  Local
+flood theory: anthropologically universal, but not global</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-indent:-45.0pt'><span
+style='font-size:12.0pt'>                                 B.  Tranquil flood
+theory: perhaps universal, but not catastrophic with geological </span></p>
 
-II. The Universality of the Flood
+<p class=MsoNormal style='margin-right:-.5in;text-indent:-45.0pt'><span
+style='font-size:12.0pt'>                                       upheavals,
+volcanic activity, or cosmic disturbances</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-indent:-45.0pt'><span
+style='font-size:12.0pt'>                                 C.  Catastrophic
+universal flood theory designed to account for the fossil-bearing </span></p>
 
-A.	The purpose of the flood for destroying <em>“every living thing that I have made”</em>
+<p class=MsoNormal style='margin-right:-.5in;text-indent:-45.0pt'><span
+style='font-size:12.0pt'>                                       geological
+column</span></p>
 
-(Genesis <strong><sup>7</sup></strong>:4)
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>   
+II. The Universality of the Flood</span></p>
 
-1.	The number of people by even 1,656 years would mean a wider dispersal than
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-one river valley system.
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                  A.  The
+purpose of the flood for destroying <i>“every living thing that I have made”</i>
+</span></p>
 
-2.	Animal dispersal by this time would be universal.
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        (Genesis
+<b>7</b>:4)</span></p>
 
-3.	Were water animals included?
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-indent:-67.5pt'><span
+style='font-size:12.0pt'>                                               1.   The
+number of people by even 1,656 years would mean a wider dispersal than </span></p>
 
-B.	Geological disturbances continued for five months (Genesis <strong><sup>8</sup></strong>:2).
+<p class=MsoNormal style='margin-right:-.5in;text-indent:-67.5pt'><span
+style='font-size:12.0pt'>                                                     one
+river valley system.</span></p>
 
-C.	The depth of the flood was 22½ ft above the tallest mountains (Genesis <strong><sup>7</sup></strong>:19-
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        2.   Animal
+dispersal by this time would be universal.</span></p>
 
-20).
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        3.   Were
+water animals included?</span></p>
 
-D.	The duration of the flood was 371 days.
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-E.	The need and size for the ark as a haven from universal destruction (1,400,000
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                  B.  Geological
+disturbances continued for five months (Genesis <b>8</b>:2).</span></p>
 
-cu. ft.)
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                  C.  The
+depth of the flood was 22½ ft above the tallest mountains (Genesis <b>7</b>:19-</span></p>
 
-F.	The universal applicability of the covenant of the rainbow (Genesis <strong><sup>9</sup></strong>:12-17)
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        20).</span></p>
 
-G.	The effect of the flood was comparable in scope with the created world (2 Peter
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                  D.  The
+duration of the flood was 371 days.</span></p>
 
-<strong><sup>3</sup></strong>:4-6).
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                  E.   The
+need and size for the ark as a haven from universal destruction (1,400,000 </span></p>
 
-H.	The effect is compared in scope to the ministry of Jesus in Hades (1 Peter <strong><sup>3</sup></strong>:19-
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        cu.
+ft.)</span></p>
 
-20).
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                  F.   The
+universal applicability of the covenant of the rainbow (Genesis <b>9</b>:12-17)</span></p>
 
-I.	The effect of the flood is comparable in scope to the final destruction by fire
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                  G.  The
+effect of the flood was comparable in scope with the created world (2 Peter </span></p>
 
-(2 Peter <strong><sup>3</sup></strong>:7-13).
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        <b>3</b>:4-6).</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                  H.  The
+effect is compared in scope to the ministry of Jesus in Hades (1 Peter <b>3</b>:19-</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        20).</span></p>
 
-III. Difficulties Posed for a Universal Flood
+<p class=MsoNormal style='margin-right:-.5in;text-indent:-45.0pt'><span
+style='font-size:12.0pt'>                                 I.    The effect of
+the flood is comparable in scope to the final destruction by fire        </span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-indent:-45.0pt'><span
+style='font-size:12.0pt'>                                       (2 Peter <b>3</b>:7-13).</span></p>
 
-A.	The source of all the water
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-1.	Rain
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>  III.
+Difficulties Posed for a Universal Flood</span></p>
 
-2.	Precipitation of an antediluvian vapor canopy
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-3.	A disintegrated ice planetoid (D. W. Patten)
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                  A.  The
+source of all the water</span></p>
 
-4.	Less extreme topographies for the water to cover
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-5.	Subterranean fountains
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        1.   Rain</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        2.   Precipitation
+of an antediluvian vapor canopy</span></p>
 
-B.	Getting all the animals in the ark together with all the food necessary for their
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        3.   A
+disintegrated ice planetoid (D. W. Patten)</span></p>
 
-sustenance and disposing of all the waste and dealing with the health issues that would arise from such an enclosed unit
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        4.   Less
+extreme topographies for the water to cover</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        5.   Subterranean
+fountains</span></p>
 
-1.	Some young forms could have been taken in.
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-2.	The number of basic species is not large; speciation has occurred since the flood. (No pre-flood animals are mentioned in Genesis.)
+<p class=MsoNormal style='margin-right:-.5in;text-indent:-45.0pt'><span
+style='font-size:12.0pt'>                                 B.  Getting all the
+animals in the ark together with all the food necessary for their </span></p>
 
-3.	Their great size is perhaps the reason some larger reptiles were not preserved (35,000 at outside—#5 below).
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>sustenance
+and disposing of all the waste and dealing with the health issues that would
+arise from such an enclosed unit</span></p>
 
-4.	Marine life would not have to be included.
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-5.	Types have developed since the flood.
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        1.   Some
+young forms could have been taken in.</span></p>
 
-6.	We wonder about the circulation in the ark for such a large number of occupants and the methane content of the air
+<p class=MsoNormal style='margin-right:-.5in;text-indent:-67.5pt'><span
+style='font-size:12.0pt'>                                               2.   The
+number of basic species is not large; speciation has occurred since the flood. (No
+pre-flood animals are mentioned in Genesis.)</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        3.   Their
+great size is perhaps the reason some larger reptiles were not preserved
+(35,000 at outside—#5 below).</span></p>
 
-C.	Keeping the ark afloat amid the turbulence of the flood waters
+<p class=MsoNormal style='margin-right:-.5in;text-indent:-67.5pt'><span
+style='font-size:12.0pt'>                                               4.   Marine
+life would not have to be included.</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        5.   Types
+have developed since the flood.</span></p>
 
-1.	The ark’s dimensions guarantee a strong ability to float and to right itself.
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        6.   We
+wonder about the circulation in the ark for such a large number of occupants
+and the methane content of the air</span></p>
 
-2.	Construction could have occurred on high ground so as to avoid fast-moving currents during the early stages of the flooding. Large tidal waves such as those envisioned by Filby would seem to be destructive even here.
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                  C.  Keeping
+the ark afloat amid the turbulence of the flood waters</span></p>
 
-D.	Getting rid of all the water
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        1.   The
+ark’s dimensions guarantee a strong ability to float and to right itself.</span></p>
 
-1.	Evaporation
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        2.   Construction
+could have occurred on high ground so as to avoid fast-moving currents during
+the early stages of the flooding. Large tidal waves such as those envisioned by
+Filby would seem to be destructive even here.</span></p>
 
-2.	Raising land masses and drain off
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                  D.  Getting
+rid of all the water</span></p>
 
-E.	Assembling the animals
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        1.   Evaporation</span></p>
 
-1.	Pre-flood animals were less distinctively located.
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        2.   Raising
+land masses and drain off</span></p>
 
-2.	120 years was involved in the assemblage (Genesis <strong><sup>6</sup></strong>:3).
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-3.	Does <em>“there went in to Noah”</em> (Genesis <strong><sup>7</sup></strong>:9) mean divine assistance?
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                  E.   Assembling
+the animals</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-F.	Dispersion of the animals after the flood
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        1.   Pre-flood
+animals were less distinctively located.</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        2.   120
+years was involved in the assemblage (Genesis <b>6</b>:3).</span></p>
 
-1.	The water level was lower than now because of the melting of the ice caps
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        3.   Does
+<i>“there went in to Noah”</i> (Genesis <b>7</b>:9) mean divine assistance?</span></p>
 
-(land bridges existed).
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-2.	Continental drift has taken place since then (?): <em>“in the days of Peleg the earth </em>
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                  F.   Dispersion
+of the animals after the flood</span></p>
 
-<em>				was divided”</em> (Genesis <strong><sup>10</sup></strong>:24?).
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-3.	Floating debris could have transported even land animals.
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        1.   The
+water level was lower than now because of the melting of the ice caps </span></p>
 
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                              (land
+bridges existed).</span></p>
 
-G.	Caring for all the animals during the flood (feeding, cleaning cages, <em>etc</em>.)
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        2.   Continental
+drift has taken place since then (?): <i>“in the days of Peleg the earth </i></span></p>
 
+<p class=MsoNormal style='margin-right:-.5in'><i><span style='font-size:12.0pt'>                              was
+divided”</span></i><span style='font-size:12.0pt'> (Genesis <b>10</b>:24?).</span></p>
 
-1.	Eight adults to care for them
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        3.   Floating
+debris could have transported even land animals.</span></p>
 
-2.	Hibernation during the period (?)
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-3.	Dependent on the structure of the feeding systems and cage arrangements
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                  G.  Caring
+for all the animals during the flood (feeding, cleaning cages, <i>etc</i>.)</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-H.	Migratory patterns
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        1.   Eight
+adults to care for them</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        2.   Hibernation
+during the period (?)</span></p>
 
-1.	Imparted after the flood (imbedded in the very nature of the animals)
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        3.   Dependent
+on the structure of the feeding systems and cage arrangements</span></p>
 
-2.	Learned behavior as to specific pattern, but based on inborn capacities
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                  H.  Migratory
+patterns</span></p>
 
-I.	Mixing of salt and fresh water
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        1.   Imparted
+after the flood (imbedded in the very nature of the animals)</span></p>
 
-1.	Lower salinity level originally than at present
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        2.   Learned
+behavior as to specific pattern, but based on inborn capacities</span></p>
 
-2.	Natural selection along lines of salinity tolerance
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-3.	Extinction of many marine forms perhaps due to inadaptability
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                  I.    Mixing
+of salt and fresh water</span></p>
 
-4.	The olive leaf
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        1.   Lower
+salinity level originally than at present</span></p>
 
-J.	Mention of the Tigris and Euphrates Rivers before the flood (Genesis <strong><sup>2</sup></strong>:10-14)
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        2.   Natural
+selection along lines of salinity tolerance</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        3.   Extinction
+of many marine forms perhaps due to inadaptability</span></p>
 
-1.	Renaming of subsequent rivers with names from antediluvian times (cp. New
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        4.   The
+olive leaf</span></p>
 
-York, London, Milan, Paris, <em>etc</em>., in America from European origins)
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-2.	The four rivers of Genesis <strong><sup>1</sup></strong> do not correspond to anything known today.
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                  J.   Mention
+of the Tigris and Euphrates Rivers before the flood (Genesis <b>2</b>:10-14)</span></p>
 
-3.	“Rivers” might refer to canals before the flood if no rain cycles were
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-present then.
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        1.   Renaming
+of subsequent rivers with names from antediluvian times (cp. New </span></p>
 
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                              York,
+London, Milan, Paris, <i>etc</i>., in America from European origins)</span></p>
 
-K.	Gold, pitch, and the like, before the flood
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        2.   The
+four rivers of Genesis <b>1</b> do not correspond to anything known today.</span></p>
 
-L.	Universal repopulation of the earth
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        3.   “Rivers”
+might refer to canals before the flood if no rain cycles were </span></p>
 
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                              present
+then.</span></p>
 
-1.	Land bridges from Armenia to all continents except Australia to which,
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-however, stepping stones of islands form an approach from the north
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                  K.  Gold,
+pitch, and the like, before the flood</span></p>
 
-2.	Transportation on vegetation clumps for egg-laying animals or even larger
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                  L.   Universal
+repopulation of the earth</span></p>
 
-animals
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-3.	Re-creation of animals in ecological niches after the flood (Why then an ark?)
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        1.   Land
+bridges from Armenia to all continents except Australia to which, </span></p>
 
-4.	Division of the continents after the flood (Genesis <strong><sup>10</sup></strong>:25?)
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                              however,
+stepping stones of islands form an approach from the north</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        2.   Transportation
+on vegetation clumps for egg-laying animals or even larger </span></p>
 
-M.	Stratigraphy under the mastodons and under the polar ice caps (?)
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                              animals</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        3.   Re-creation
+of animals in ecological niches after the flood (Why then an ark?)</span></p>
 
-If the death of these animals was caused by Patton’s ice dump theory and if the polar caps were caused by the disintegration of an ice meteor, then the flood could not be responsible for the whole fossil-bearing geological column.
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        4.   Division
+of the continents after the flood (Genesis <b>10</b>:25?)</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-N.	Survival of plant life submerged under water for over a year; seed survival (?)
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                  M. Stratigraphy
+under the mastodons and under the polar ice caps (?)</span></p>
 
-O.	Geological features
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-indent:-45.0pt'><span
+style='font-size:12.0pt'>                                       If the death of
+these animals was caused by Patton’s ice dump theory and if the polar caps were
+caused by the disintegration of an ice meteor, then the flood could not be
+responsible for the whole fossil-bearing geological column.</span></p>
 
-IV. Evidences About the Existence of “Noah’s Ark”
+<p class=MsoNormal style='margin-right:-.5in;text-indent:-45.0pt'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                  N.  Survival
+of plant life submerged under water for over a year; seed survival (?)</span></p>
 
-christir.org
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                  O.  Geological
+features</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'> IV.
+Evidences About the Existence of “Noah’s Ark”</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:11.0pt'>christir.org</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
+</div>

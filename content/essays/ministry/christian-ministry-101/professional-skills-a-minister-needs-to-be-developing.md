@@ -9,110 +9,552 @@ title: PROFESSIONAL SKILLS A MINISTER NEEDS TO BE DEVELOPING
 weight: 2
 ---
 
-
-
-
-The ministry calls for a wider range of useful skills than most vocations do. Obviously you cannot be top notch in everything useful to this calling, but the more skills you have at your disposal the less you limit your ministry. Within the congregation you need to surround yourself with people who can do what you are weak at or do not have time do. You also need to develop a network of people to whom you can make referrals. Needless to say, some churches and communities do not have people who can do some of the things you need help with. In those cases, play to your strengths and do the best you can with weaker areas, improving them as you have opportunity.
-
-
-
-I. Preaching
-
-
-Public speaking requires continuous presentation in an organized way. Many people feel more comfortable with discussion and even teaching a Sunday school class, Bible study, or youth group. In these settings they can ask questions and key off of comments other people make. Ideas come to their mind in the give and take of discussion. But in preaching a person has to structure his message on the basis of the scripture text, the natural breakdown of the topic, the chronological sequence of an event being recounted rather than “structure it on the basis of questions asked or comments made by other people. Preaching is a skill that requires a deliberate attention in order to effective.
-
-Preaching is not the only thing a minister does, but it is probably the most obvious thing he does. For most people public speaking does not come naturally; so do not suppose you are not “cut out for the ministry” just because preaching is not easy for you. The truth is, preaching is more difficult than you think even for those you consider good at it. Taking 8-12 hours to prepare a sermon is typical. You will need to keep studying to stay fresh for very long. In order to know what to preach about, keep your ears open for needs among the membership, stay current on local and (inter)national news, read scripture and books that seem to be “speaking” to people.
-
-The main thing about preaching is having something important and relevant to say. If you are dealing with important subjects that spring from your conviction, you will be fulfilling the basic requirement. You can work on fluency and delivery as time goes along. Basically preaching is talking in continuous presentation to other persons. It has been called “enlarged speech”; that is, preaching takes the characteristics of normal conversation and stretches the extremes of volume extremes, the range of pitch, the variance in rate of delivery, the amount of gesturing, facial expression, and so forth. To a great extent it is a matter of getting over self-consciousness and inhibitions by speaking to people you care about on subjects you are interested in.
-
-
-
-II. Teaching
-
-
-We usually think of teaching as more content oriented than preaching is, having less concentration on oratory and affective appeal. It emphasizes explanation more than motivation. Teaching is more interactive while preaching is one-directional. Whenever content is the emphasis, a person has to know what he is talking about.
-
-
-
-III. Writing
-
-
-Ministers must be able to express themselves on paper as well as orally. You need to write articles for the church newsletter and worship bulletin.  Sometimes you can enhance your presentation in Sunday school and Bible study by preparing written notes. Writing ideas down enables your efforts to have more long-lasting significance, and people can share them with other people outside the study. Besides the writing possibilities within the local church, there are external publications in which ministers have opportunity to write. Local newspapers often take letters to the editor and may give you a chance to write articles for the paper on a periodic basis. If your skill level is sufficient, publishing essays in church periodicals may even be an option, which enlarges and lengthens your range of influence.
-
-
-
-IV. Administering
-
-
-Organizing your own life is a task all adults must do to some extent; ministers particularly need to develop patterns of work that increase efficiency in the use of energy and time. Administration carries this need another step: it calls for organizing the activities of other people’s activities along with your own so that the purposes of the congregation can be accomplished. Good administration allows individuals in the program to have a sense of ownership of their own responsibilities without letting them get over into other people’s areas of responsibility or getting in other people’s way. It also requires overseeing all the aspects of the program to make sure that some areas are not being overlooked.
-
-Administering presupposes operating on the basis of planning toward goals rather than just reacting to needs item by item as they come up. Living by decision rather than impulse, eschatologically as well as existentially, purposefully rather than non-directionally, applies first to you and then to others who work with you and follow your guidance. Administering includes concern for persons as well as planning for goals. You must keep a balance between persons and programs, people and goals, individuals and the group. “Tranditional management style” stresses keeping things the way they have been, which issues in a maintenance-oriented ministry. “Charismatic management style” focuses on inspiring and motivating people, which makes the work too dependent on the present leader. “Classical management style” focuses on organizational goals rather than personal goals of individuals within the organization; it emphasizes rules, policies, regulations, procedures and hands down decisions from above. “Human relations management style” emphasizes personal goals to the neglect of institutional objectives, which makes it too person oriented. In place of these partial approaches “systems-theory management style” tries to balance all the factors in the situation and recognize them as interdependent. Management calls, then, for diagnosis, planning, evaluation, and flexibility within the ongoing purpose of the church.
-
-Good administration calls for the ability and willingness to delegate. An administrator, of course, is more than someone who makes sure that everything gets passed around to someone. But in larger churches there is more to do than any one minister can accomplish. A minister’s time is better spent in training people to help him than in spending all his time trying to do the work itself. In general, administrating means management means leadership means taking initiative. To a great extent, management is getting things done through people. It is harmonizing the parts and harnessing the energy.
-
-From the standpoint of organizational theory Christian churches and churches of Christ have generally held that the elders as a group have final responsibility for the congregation. Nevertheless in practical fact ministers end up doing most of the actual day-to-day administering of the church program. (a) Ministers are the ones available to do that work; the elders are not on the scene and cannot be called together to acquaint them with the need and explain all the factors involved and get a decision on something they may be ill-equipped to handle anyway. Such process would take too much time. Secondly, (b) ministers are the ones that have had the advantage of training in church work. That does not always mean they have better judgment; but it does mean that, other things being equal, they have had access to previous ministers’ experience and research. Consequently, ministers do well to prepare good general proposals that the elders can approve. As time goes along it is well to develop an understanding about the kinds of things on which the minister has discretionary leadership. (c) The general membership needs to have someone to go to in order to “get the ball rolling” on something that needs attention. (d) Since the minister works with the whole program and spends far more time on it than anyone else, he is in the best position to direct the daily operations of the congregation. This can all be done under the implied approval of the eldership.
-
-
-
-V. Counseling
-
-
-Ministers are being called on to do more and more counseling. It is an activity, however, that usually does not produce much church growth. People with problems in their marriage or with their children do not typically go to their own minister to get help. They with go to another minister in town lest public knowledge of their circumstance should distance them from the preacher and fellow church members. A preacher can be a lot of help to the particular persons if he has good skills, but so many times the problems people bring to him he is simply not equipped to handle. Knowing the word of God is a different thing from knowing how to help people with deep-seated difficulties that border on mental illness or even how to get people from where they are to where scripture says they need to be, especially in personality matters, because they are so hard to “put your finger on” and they are so hard for the person with the problem to see objectively. A minister can often do people more good by referring them to someone specifically trained in this kind of work.
-
-Counseling may correlate in part with the New Testament gift of wisdom. People vary in their capacity to relate to life situations the primary principles of the gospel. Perhaps the most important aspect of this work is not to rush into giving advice. Good advice takes lots of good listening. The main problem is that people tell you only what they want you to hear; so you have to listen “between the lines.” Besides, they do not see their problem objectively; so what they tell you in all good faith is not the way things are. Finally, people often do not come to get the answer to their problem, but to get a respected person to confirm the course of action they are already inclined to follow. If you too readily agree with them, they will use your confirmation as a club over the heads of other people in this problem; if you disagree with them, they may get mad in order to “save face” and quit coming to church, claiming that you are prejudiced against them. Remember this principle: people will do almost anything rather than change.
-
-Counseling tends to consume a counselor because of the time involved and because it is emotionally draining. There is the more subtle danger that counselors get to the point of needing to be needed, which leads to wanting strokes from the ones they are helping. There is a danger as well for the person seeking the counseling because it can foster a dependency relationship, which is counterproductive for his own maturation.
-
-
-
-VI. Music
-
-
-Music has always been an important part of the Christian experience publicly and privately. In the last twenty-five years there has been another explosion of Christian music just as there has been with every revival in the history of the church. It is helpful to be able to sing; direct congregational singing, campfires outings, choirs; and play musical instruments. How much you know about possibilities in music the more you can capitalize on it to accomplish what is harder to accomplish with words.
-
-
-
-VII. Learning
-
-
-There is really no end to what a minister needs to know. Basically you need to know what is in the Bible, understand as much of it as possible, and know how to go about accurately interpreting what a text says. Biblical understanding includes exegesis and theology, biblical backgrounds, biblical languages, even church history. You need to know these things in such a way that enables you to connect them with the questions that people ask you and with the problems that continually present themselves in the work of the church.
-
-You should learn as much as you can about what other religious groups teach, especially the cults that operate in your area. If you do not, they may make inroads into your congregation, particularly among the more fringe members and friends, and you will be in no position to offset their influence.
-
-There is no limit to the information available on how-to’s associated with ministry: preaching styles, teaching techniques, leadership, skills, administrative skills, church growth principles, Christian education, calling, counseling, conducting meetings, fundraising, introducing speakers. Practically any skill associated with typing, computers, other office equipment, educational equipment, and the like will be invaluable in your work. You need to know what resources are available for Sunday school, what films there are for youth and adults, and on and on. Musical awareness can be included here as well.
-
-Anything you know comes in handy if for no other reason than that it enables you to talk intelligently about community and world affairs, cars and carpentry, etc. It makes you more interesting to be around, but more than that it becomes point of contact with people who are not into “religious” things yet. If nothing else, ask people questions about their vocations and avocations; you come off as more down to earth and real to them.
-
-Clearly you cannot learn even the main things about everything. That is the reason you must get started organizing a filing system and building a library before you get so involved in the practice of ministry that have no time or energy to broaden your base for ministry. Consider your time in Bible college and seminary as a chance to “get a run on” many things it will be harder to learn “on the run” after you get into a demanding ministry off somewhere away from qualified people who can be ready resources for what you do not know.
-
-
-
-VIII. Leading Worship Services
-
-
-Ministry calls for poise in up-front roles. The larger the setting the more ordered will have to be the structure of the gathering. Nervousness in this setting produces all kinds of distracting behaviors including acting silly because you do not know what else to do. As a rule being funny is not what you are leading a worship service for. Obviously solemnity does not have to be the only aura in a church gathering, but doing erratic things under the guise of being spontaneous makes audiences uneasy because they do not know what might happen next (it also makes other participants uneasy–musicians, soloists,<em> etc</em>.).
-
-Especially with people in their late thirties on up, resist the current temptation to “put people in each others face” by trying to make them “share” when they have had no warning that they will be doing such a thing. It makes them feel stupid and looks like you are trying to manipulate them like little religious puppets. The same applies to pushing people to worship in a style they are not comfortable with; people do not like to act silly in front of God. If what you are calling on them to do makes them feel that way, they will resent it. They can be driven away from the church by being pressured to clap while they sing or raise their hands or get into “action songs.” For them these things are what little kids do. Remember that you are not there to get reactions out of the audience. You are not there to stroke your ego by getting people to do whatever you say. You are there to facilitate their doing something profitable for themselves in worship, fellowship, and edification.
-
-Depending on the congregation, ministers normally lead much of the worship service. As part of that effort he does well to develop a cluster of skills that include “stage presence,” directing music, public reading of scripture, introduction of speakers and people who make special presentations during the service, leading in public prayer, structuring worship services that have variety, quality, and relevance to as wide a spectrum of expectancies as possible.
-
-
-
-IX. Conducting Formal Affairs
-
-
-Learn how to conduct formal meetings in a dignified manner. Dignity does not mean stiff and somber; it means doing something with propriety. Younger ministers often attempt to “tear down” the expectancy for dignity because they feel uncomfortable in that kind of role. Our culture has less ritual and formality than it use to have, but there are certain occasions that call for natural dignity and solemnity: weddings, funerals, baptisms, ordinations, special types of worship services. The main elements of dignity are taking your time, moving at an unhurried pace, making smooth transitions, speaking in measured words. These elements are fitting because such occasions are meant to capture the solemnity of commitment and remembrance. Erratic movement, hurried motion, jerky speech distract from the purpose of these contemplative activities.
-
-
-
-X. Conducting Meetings
-
-
-While you will probably not be the one who chairs elders meetings and other meetings, you need to know how to form an agenda, keep things rolling, achieve the purpose of the meeting in timely fashion without “railroading.” Distributing agendas ahead of time helps get participants mentally ready. Giving them materials ahead of time to think about facilitates the meeting itself and improves the quality of the decisions made, because members of the committee do not have to come to conclusions “on the spot.”
-
-
-
-XI. Relating to Other Leaders
-
-
-Ministers need to relate comfortably with peers and superiors: community leaders, public officials, public education personnel, other ministers, business people. Some ministers get into a pattern where they do not know how to relate to a situation unless they are in charge of it. Perhaps their ego is the problem; maybe they are afraid that if they are not in control, something will be proposed they cannot go along with. At any rate, learn to take your place among equals and to lead among those who are superior to you in some respects. Revel in being surrounded with people that can do things well. Trust that people will not take advantage of you; after all, that is what you are asking other people to do in accepting your leadership.
+<style>
+/* Font Definitions */
+ @font-face
+	{font-family:"Tms Rmn";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+ /* Style Definitions */
+ .word-content p.MsoNormal, .word-content li.MsoNormal, 
+p.MsoHeader, li.MsoHeader, 
+span.HeaderChar
+	{mso-style-name:"Header Char";
+	mso-style-link:Header;
+	font-family:"Times New Roman",serif;
+	color:black;}
+.word-content .MsoChpDefault
+	{font-family:"Tms Rmn",serif;}
+ /* Page Definitions */
+</style>
+
+<div class="word-content">
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
+margin-bottom:0in;margin-left:22.5pt;margin-bottom:.0001pt;text-align:center'><b><span
+style='font-size:14.0pt'>PROFESSIONAL SKILLS A MINISTER NEEDS TO BE DEVELOPING</span></b></p>
+
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
+margin-bottom:0in;margin-left:22.5pt;margin-bottom:.0001pt;text-align:center'><b><span
+style='font-size:12.0pt'>&nbsp;</span></b></p>
+
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
+margin-bottom:0in;margin-left:22.5pt;margin-bottom:.0001pt;text-align:center'><span
+style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>             The ministry calls for a wider range of
+useful skills than most vocations do. Obviously you cannot be top notch in
+everything useful to this calling, but the more skills you have at your
+disposal the less you limit your ministry. Within the congregation you need to
+surround yourself with people who can do what you are weak at or do not have
+time do. You also need to develop a network of people to whom you can make
+referrals. Needless to say, some churches and communities do not have people
+who can do some of the things you need help with. In those cases, play to your
+strengths and do the best you can with weaker areas, improving them as you have
+opportunity.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>   I. Preaching</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         Public speaking requires continuous
+presentation in an organized way. Many people feel more comfortable with
+discussion and even teaching a Sunday school class, Bible study, or youth
+group. In these settings they can ask questions and key off of comments other
+people make. Ideas come to their mind in the give and take of discussion. But
+in preaching a person has to structure his message on the basis of the
+scripture text, the natural breakdown of the topic, the chronological sequence
+of an event being recounted rather than “structure it on the basis of questions
+asked or comments made by other people. Preaching is a skill that requires a
+deliberate attention in order to effective.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         Preaching is not the only thing a minister
+does, but it is probably the most obvious thing he does. For most people public
+speaking does not come naturally; so do not suppose you are not “cut out for
+the ministry” just because preaching is not easy for you. The truth is,
+preaching is more difficult than you think even for those you consider good at
+it. Taking 8-12 hours to prepare a sermon is typical. You will need to keep
+studying to stay fresh for very long. In order to know what to preach about,
+keep your ears open for needs among the membership, stay current on local and
+(inter)national news, read scripture and books that seem to be “speaking” to
+people.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         The main thing about preaching is having
+something important and relevant to say. If you are dealing with important
+subjects that spring from your conviction, you will be fulfilling the basic
+requirement. You can work on fluency and delivery as time goes along. Basically
+preaching is talking in continuous presentation to other persons. It has been
+called “enlarged speech”; that is, preaching takes the characteristics of
+normal conversation and stretches the extremes of volume extremes, the range of
+pitch, the variance in rate of delivery, the amount of gesturing, facial
+expression, and so forth. To a great extent it is a matter of getting over
+self-consciousness and inhibitions by speaking to people you care about on
+subjects you are interested in.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>  II. Teaching</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         We usually think of teaching as more content
+oriented than preaching is, having less concentration on oratory and affective
+appeal. It emphasizes explanation more than motivation. Teaching is more
+interactive while preaching is one-directional. Whenever content is the
+emphasis, a person has to know what he is talking about. </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'> III. Writing</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         Ministers must be able to express themselves
+on paper as well as orally. You need to write articles for the church
+newsletter and worship bulletin.  Sometimes you can enhance your presentation
+in Sunday school and Bible study by preparing written notes. Writing ideas down
+enables your efforts to have more long-lasting significance, and people can
+share them with other people outside the study. Besides the writing
+possibilities within the local church, there are external publications in which
+ministers have opportunity to write. Local newspapers often take letters to the
+editor and may give you a chance to write articles for the paper on a periodic
+basis. If your skill level is sufficient, publishing essays in church
+periodicals may even be an option, which enlarges and lengthens your range of
+influence.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'> IV. Administering</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         Organizing <u>your own</u> life is a task all
+adults must do to some extent; ministers particularly need to develop patterns
+of work that increase efficiency in the use of energy and time. Administration
+carries this need another step: it calls for organizing the activities of <u>other</u>
+people’s activities along with your own so that the purposes of the
+congregation can be accomplished. Good administration allows individuals in the
+program to have a sense of ownership of their own responsibilities without
+letting them get over into other people’s areas of responsibility or getting in
+other people’s way. It also requires overseeing all the aspects of the program
+to make sure that some areas are not being overlooked. </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         Administering presupposes operating on the
+basis of <u>planning toward goals</u> rather than just reacting to needs item
+by item as they come up. Living by decision rather than impulse,
+eschatologically as well as existentially, purposefully rather than
+non-directionally, applies first to you and then to others who work with you
+and follow your guidance. Administering includes <u>concern for persons</u> as
+well as planning for goals. You must keep a balance between persons and
+programs, people and goals, individuals and the group. “Tranditional management
+style” stresses keeping things the way they have been, which issues in a
+maintenance-oriented ministry. “Charismatic management style” focuses on
+inspiring and motivating people, which makes the work too dependent on the
+present leader. “Classical management style” focuses on organizational goals
+rather than personal goals of individuals within the organization; it
+emphasizes rules, policies, regulations, procedures and hands down decisions
+from above. “Human relations management style” emphasizes personal goals to the
+neglect of institutional objectives, which makes it too person oriented. In
+place of these partial approaches “systems-theory management style” tries to
+balance all the factors in the situation and recognize them as interdependent. Management
+calls, then, for diagnosis, planning, evaluation, and flexibility within the
+ongoing purpose of the church.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         Good administration calls for the ability and
+willingness to <u>delegate</u>. An administrator, of course, is more than
+someone who makes sure that everything gets passed around to someone. But in
+larger churches there is more to do than any one minister can accomplish. A
+minister’s time is better spent in training people to help him than in spending
+all his time trying to do the work itself. In general, administrating means
+management means leadership means taking initiative. To a great extent,
+management is getting things done through people. It is harmonizing the parts
+and harnessing the energy.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         From the standpoint of organizational theory
+Christian churches and churches of Christ have generally held that the elders
+as a group have final responsibility for the congregation. Nevertheless in
+practical fact ministers end up doing most of the actual day-to-day
+administering of the church program. (a) Ministers are the ones available to do
+that work; the elders are not on the scene and cannot be called together to
+acquaint them with the need and explain all the factors involved and get a
+decision on something they may be ill-equipped to handle anyway. Such process
+would take too much time. Secondly, (b) ministers are the ones that have had
+the advantage of training in church work. That does not always mean they have
+better judgment; but it does mean that, other things being equal, they have had
+access to previous ministers’ experience and research. Consequently, ministers
+do well to prepare good general proposals that the elders can approve. As time
+goes along it is well to develop an understanding about the kinds of things on
+which the minister has discretionary leadership. (c) The general membership
+needs to have someone to go to in order to “get the ball rolling” on something
+that needs attention. (d) Since the minister works with the whole program and
+spends far more time on it than anyone else, he is in the best position to
+direct the daily operations of the congregation. This can all be done under the
+implied approval of the eldership.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'> V. Counseling</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         Ministers are being called on to do more and
+more counseling. It is an activity, however, that usually does not produce much
+church growth. People with problems in their marriage or with their children do
+not typically go to their own minister to get help. They with go to another
+minister in town lest public knowledge of their circumstance should distance
+them from the preacher and fellow church members. A preacher can be a lot of
+help to the particular persons if he has good skills, but so many times the problems
+people bring to him he is simply not equipped to handle. Knowing the word of
+God is a different thing from knowing how to help people with deep-seated
+difficulties that border on mental illness or even how to get people from where
+they are to where scripture says they need to be, especially in personality
+matters, because they are so hard to “put your finger on” and they are so hard
+for the person with the problem to see objectively. A minister can often do
+people more good by referring them to someone specifically trained in this kind
+of work. </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         Counseling may correlate in part with the New
+Testament gift of wisdom. People vary in their capacity to relate to life
+situations the primary principles of the gospel. Perhaps the most important
+aspect of this work is not to rush into giving advice. Good advice takes lots
+of good listening. The main problem is that people tell you only what they want
+you to hear; so you have to listen “between the lines.” Besides, they do not
+see their problem objectively; so what they tell you in all good faith is <u>not</u>
+the way things are. Finally, people often do not come to get the answer to
+their problem, but to get a respected person to confirm the course of action
+they are already inclined to follow. If you too readily agree with them, they
+will use your confirmation as a club over the heads of other people in this
+problem; if you disagree with them, they may get mad in order to “save face”
+and quit coming to church, claiming that you are prejudiced against them. Remember
+this principle: <u>people will do almost anything rather than change</u>.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         Counseling tends to consume a counselor
+because of the time involved and because it is emotionally draining. There is
+the more subtle danger that counselors get to the point of needing to be
+needed, which leads to wanting strokes from the ones they are helping. There is
+a danger as well for the person seeking the counseling because it can foster a
+dependency relationship, which is counterproductive for his own maturation.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>    </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'> VI. Music</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         Music has always been an important part of
+the Christian experience publicly and privately. In the last twenty-five years
+there has been another explosion of Christian music just as there has been with
+every revival in the history of the church. It is helpful to be able to sing;
+direct congregational singing, campfires outings, choirs; and play musical
+instruments. How much you know about possibilities in music the more you can
+capitalize on it to accomplish what is harder to accomplish with words.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>VII. Learning</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         There is really no end to what a minister
+needs to know. Basically you need to know <u>what is in the Bible</u>,
+understand as much of it as possible, and know how to go about accurately
+interpreting what a text says. Biblical understanding includes exegesis and
+theology, biblical backgrounds, biblical languages, even church history. You
+need to know these things in such a way that enables you to connect them with
+the questions that people ask you and with the problems that continually
+present themselves in the work of the church. </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         You should learn as much as you can about <u>what
+other religious groups teach</u>, especially the cults that operate in your
+area. If you do not, they may make inroads into your congregation, particularly
+among the more fringe members and friends, and you will be in no position to
+offset their influence.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         There is no limit to the <u>information
+available on how-to’s</u> associated with ministry: preaching styles, teaching
+techniques, leadership, skills, administrative skills, church growth
+principles, Christian education, calling, counseling, conducting meetings,
+fundraising, introducing speakers. Practically any skill associated with
+typing, computers, other office equipment, educational equipment, and the like
+will be invaluable in your work. You need to know what resources are available
+for Sunday school, what films there are for youth and adults, and on and on. Musical
+awareness can be included here as well.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         <u>Anything</u> you know comes in handy if
+for no other reason than that it enables you to talk intelligently about
+community and world affairs, cars and carpentry, etc. It makes you more
+interesting to be around, but more than that it becomes point of contact with
+people who are not into “religious” things yet. If nothing else, ask people
+questions about their vocations and avocations; you come off as more down to
+earth and real to them.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         Clearly you cannot learn even the main things
+about everything. That is the reason you must get started organizing a filing
+system and building a library before you get so involved in the practice of
+ministry that have no time or energy to broaden your base for ministry. Consider
+your time in Bible college and seminary as a chance to “get a run on” many
+things it will be harder to learn “on the run” after you get into a demanding
+ministry off somewhere away from qualified people who can be ready resources for
+what you do not know.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'> VIII. Leading Worship Services</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         Ministry calls for poise in up-front roles. The
+larger the setting the more ordered will have to be the structure of the
+gathering. Nervousness in this setting produces all kinds of distracting
+behaviors including acting silly because you do not know what else to do. As a
+rule being funny is not what you are leading a worship service for. Obviously
+solemnity does not have to be the only aura in a church gathering, but doing
+erratic things under the guise of being spontaneous makes audiences uneasy
+because they do not know what might happen next (it also makes other
+participants uneasy–musicians, soloists,<i> etc</i>.). </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         Especially with people in their late thirties
+on up, resist the current temptation to “put people in each others face” by
+trying to make them “share” when they have had no warning that they will be
+doing such a thing. It makes them feel stupid and looks like you are trying to
+manipulate them like little religious puppets. The same applies to pushing
+people to worship in a style they are not comfortable with; people do not like
+to act silly in front of God. If what you are calling on them to do makes them
+feel that way, they will resent it. They can be driven away from the church by
+being pressured to clap while they sing or raise their hands or get into “action
+songs.” For them these things are what little kids do. Remember that you are
+not there to get reactions out of the audience. You are not there to stroke
+your ego by getting people to do whatever you say. You are there to facilitate
+their doing something profitable for themselves in worship, fellowship, and
+edification.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         Depending on the congregation, ministers
+normally lead much of the worship service. As part of that effort he does well
+to develop a cluster of skills that include “stage presence,” directing music, <u>public
+reading of scripture</u>, introduction of speakers and people who make special
+presentations during the service, leading in public prayer, structuring worship
+services that have variety, quality, and relevance to as wide a spectrum of
+expectancies as possible.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'> IX. Conducting Formal Affairs</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         Learn how to conduct formal meetings in a
+dignified manner. Dignity does not mean stiff and somber; it means doing
+something with propriety. Younger ministers often attempt to “tear down” the
+expectancy for dignity because they feel uncomfortable in that kind of role. Our
+culture has less ritual and formality than it use to have, but there are
+certain occasions that call for natural dignity and solemnity: weddings,
+funerals, baptisms, ordinations, special types of worship services. The main
+elements of dignity are taking your time, moving at an unhurried pace, making
+smooth transitions, speaking in measured words. These elements are fitting
+because such occasions are meant to capture the solemnity of commitment and
+remembrance. Erratic movement, hurried motion, jerky speech distract from the
+purpose of these contemplative activities.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'> X. Conducting Meetings</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         While you will probably not be the one who
+chairs elders meetings and other meetings, you need to know how to form an
+agenda, keep things rolling, achieve the purpose of the meeting in timely
+fashion without “railroading.” Distributing agendas ahead of time helps get
+participants mentally ready. Giving them materials ahead of time to think about
+facilitates the meeting itself and improves the quality of the decisions made,
+because members of the committee do not have to come to conclusions “on the
+spot.”</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'> XI. Relating to Other Leaders</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         Ministers need to relate comfortably with
+peers and superiors: community leaders, public officials, public education
+personnel, other ministers, business people. Some ministers get into a pattern
+where they do not know how to relate to a situation unless they are in charge
+of it. Perhaps their ego is the problem; maybe they are afraid that if they are
+not in control, something will be proposed they cannot go along with. At any
+rate, learn to take your place among equals and to lead among those who are
+superior to you in some respects. Revel in being surrounded with people that
+can do things well. Trust that people will not take advantage of you; after
+all, that is what you are asking other people to do in accepting your
+leadership.</span></p>
+</div>

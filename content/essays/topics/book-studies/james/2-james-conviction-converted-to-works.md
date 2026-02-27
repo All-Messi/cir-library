@@ -10,44 +10,247 @@ title: '(2) JAMES: CONVICTION CONVERTED TO WORKS'
 weight: 3
 ---
 
-In the history of Christian thought, two opposite tendencies have plagued the church with respect to human obedience in salvation. From Jewish circles especially, the early decades of the Christian era saw strong influences to conceive of human action as producing relationship to God after the fashion of obedience under the Mosaic Law. The apostle Paul strenuously opposed that effort, especially in his letters to Rome and Galatia.
+<style>
+/* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+ /* Style Definitions */
+ .word-content p.MsoNormal, .word-content li.MsoNormal, 
+p.MsoHeader, li.MsoHeader, 
+span.HeaderChar
+	{mso-style-name:"Header Char";
+	mso-style-link:Header;}
+.word-content .MsoChpDefault
+	{font-size:11.0pt;}
+.MsoPapDefault
+	{margin-bottom:10.0pt;
+	line-height:115%;}
+ /* Page Definitions */
+</style>
 
-From Gentiles circles came an opposite tendency to consider human action as immaterial since salvation is by grace. That latter tendency is what James rebukes in the first two chapters of his letter. With or without the theological and philosophical undergirding originally involved, letting correct beliefs stand for the whole range of Christian obligation persists in the modern church as well.
+<div class="word-content">
+<p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center'><b><span
+style='font-size:14.0pt;line-height:115%'>(2) JAMES: CONVICTION CONVERTED TO
+WORKS</span></b></p>
 
-<strong>Compatibility of James and Paul</strong>—Understanding what significance lies in obedience to Christ is complicated by a seeming incompatibility between the writings of Paul and the Book of James on the topic of faith and works. To understand either writer, we must understand them both or choose between salvation by faith apart from works, as in Paul, or suppose with James that salvation comes by faith and works together. This classic difficulty caused the early Martin Luther to relegate James to secondary position in the New Testament canon. No consensus has yet been reached on how best to form a united witness from these two divergent teachings.
+<p class=MsoNormal align=center style='margin-bottom:.25in;text-align:center'><span
+style='font-size:12.0pt;line-height:115%'>Virgil Warren, PhD</span></p>
 
-One most helpful observation arises from passages where <em>faith</em> and <em>works</em> appear together in the New Testament. Since words are clearest in contrast to what they deny, the threefold manner in which the New Testament joins these terms points out a direction for resolving the problem. In John <strong><sup>6</sup></strong>:29 Jesus considers faith <em>as</em> a work when he says, <em>“This is the work of God: that you believe on the One he has sent”</em> (cp. <strong><sup>3</sup></strong>:36; Acts <strong><sup>16</sup></strong>:30-31).
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt;line-height:115%'>In the history of
+Christian thought, two opposite tendencies have plagued the church with respect
+to human obedience in salvation. From Jewish circles especially, the early
+decades of the Christian era saw strong influences to conceive of human action
+as producing relationship to God after the fashion of obedience under the
+Mosaic Law. The apostle Paul strenuously opposed that effort, especially in his
+letters to Rome and Galatia.</span></p>
 
-According to James <strong><sup>2</sup></strong>:17, <em>“Faith, if it does not have works, is dead in itself”</em> (cp. <strong><sup>2</sup></strong>:20, 24, 26). Faith <em>and</em> works issue in salvation. Paul declared to the Romans, however, <em>“We reckon, then, that people are justified by faith apart from works of law” </em>(<strong><sup>3</sup></strong>:28). From top to bottom the accompanying diagrams picture the relationships of the word meanings as they occur in John <strong><sup>6</sup></strong>:29, James, and Paul respectively. Obviously, just from a formal analysis, the authors are not using these terms to mean the same things.
+<p class=MsoNormal style='margin-bottom:6.0pt;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt;line-height:115%'>From Gentiles circles
+came an opposite tendency to consider human action as immaterial since
+salvation is by grace. That latter tendency is what James rebukes in the first
+two chapters of his letter. With or without the theological and philosophical
+undergirding originally involved, letting correct beliefs stand for the whole
+range of Christian obligation persists in the modern church as well.</span></p>
 
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><b><span
+style='font-size:12.0pt;line-height:115%'>Compatibility of James and Paul</span></b><span
+style='font-size:12.0pt;line-height:115%'>—Understanding what significance lies
+in obedience to Christ is complicated by a seeming incompatibility between the
+writings of Paul and the Book of James on the topic of faith and works. To
+understand either writer, we must understand them both or choose between
+salvation by faith apart from works, as in Paul, or suppose with James that
+salvation comes by faith and works together. This classic difficulty caused the
+early Martin Luther to relegate James to secondary position in the New
+Testament canon. No consensus has yet been reached on how best to form a united
+witness from these two divergent teachings.</span></p>
 
-Furthermore, what John means by <em>works</em> apparently corresponds with what James means by <em>faith and works</em> and with what Paul means by <em>faith alone</em>, because there is only one truth about salvation.
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt;line-height:115%'>One most helpful
+observation arises from passages where <i>faith</i> and <i>works</i> appear
+together in the New Testament. Since words are clearest in contrast to what
+they deny, the threefold manner in which the New Testament joins these terms
+points out a direction for resolving the problem. In John <b>6</b>:29 Jesus
+considers faith <i>as</i> a work when he says, <i>“This is the work of God:
+that you believe on the One he has sent”</i> (cp. <b>3</b>:36; Acts <b>16</b>:30-31).</span></p>
 
-In John, <em>works</em> clearly means “doing something” so that faith is something we do. In Paul, things are not quite so straightforward; consequently, we need to take a closer look. The best method begins with discovering what he means by <em>works</em> and then concluding what <em>faith</em> refers to.
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt;line-height:115%'>According to James <b>2</b>:17,
+<i>“Faith, if it does not have works, is dead in itself”</i> (cp. <b>2</b>:20,
+24, 26). Faith <i>and</i> works issue in salvation. Paul declared to the
+Romans, however, <i>“We reckon, then, that people are justified by faith apart
+from works of law” </i>(<b>3</b>:28). From top to bottom the accompanying diagrams
+picture the relationships of the word meanings as they occur in John <b>6</b>:29,
+James, and Paul respectively. Obviously, just from a formal analysis, the
+authors are not using these terms to mean the same things.</span></p>
 
-The crucial fact is that, when Paul denies that people are saved by works in Romans <strong><sup>3</sup></strong>:28, <em>etc</em>., he is talking about (a) “works of law” (cp. Romans<strong> 3</strong>:7; <strong><sup>9</sup></strong>:32; Galatians <strong><sup>2</sup></strong>:16; <strong><sup>3</sup></strong>:2-5). He speaks clearly in Galatians <strong><sup>3</sup></strong>:10 about the nature of “works of law” (works in a legal context, works under law) when he quotes Deuteronomy <strong><sup>27</sup></strong>:26: “<em>Everyone is accursed that does not continue to do everything in the Book of the Law.”</em> <em>Continuing</em> to do <em>everything</em> expresses a (b) perfection concept. Moreover, two verses later he observes from Leviticus <strong><sup>18</sup></strong>:5, <em>“The one that does them will have life by them [not someone else].”</em> People under law are good or bad depending on their own doing; one person is not guilty for another. Works under law require (c) personal perfection. From the standpoint of law, any law, the perfection that people have arises solely for their own “doing.” By <em>works</em>, then, Paul means the principle of personal perfection; righteousness is living perfectly.
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt;line-height:115%'>&nbsp;</span></p>
 
-Salvation by works is a contradiction of terms, because perfection (the effect of salvation) is such that once it’s lost it can’t be achieved again. Even if we lived perfectly from then on, our perfection would be irretrievably lost. <em>“If there could have been a law given which could </em>make alive<em>, truly righteousness would have been by </em>the Law<em>” </em>(Galatians <strong><sup>3</sup></strong>:21). Paul never depreciates the Mosaic Law except as a means to salvation. <em>“The Law is holy”</em> (Romans <strong><sup>7</sup></strong>:12), but it cannot <em>make holy </em>(Hebrews <strong><sup>7</sup></strong>:19).
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt;line-height:115%'>Furthermore, what John
+means by <i>works</i> apparently corresponds with what James means by <i>faith
+and works</i> and with what Paul means by <i>faith alone</i>, because there is
+only one truth about salvation.</span></p>
 
-According to Paul, another means to righteousness has come about to provide a possibility for renewing our fellowship with God. If the righteousness requisite for that relationship cannot come from ourselves after we break perfection, then a source of righteousness coming from outside ourselves is the only alternative. That alternative source the apostle labels <em>faith</em>; the principle of trust in another: <em>“not having a righteousness of my own—that which is of the Law [of my doing everything commanded by the Law], but what is through faith in Christ—the righteousness that is of God by </em>faith<em>” </em>(Philippians <strong><sup>3</sup></strong>:9). We identify ourselves with God’s Son so that God views us in terms of the ideal embodied in the perfection of his Son. We “trust” that such an identification—and its implicit implications—renders us righteous in God’s eyes.
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt;line-height:115%'>In John, <i>works</i>
+clearly means “doing something” so that faith is something we do. In Paul,
+things are not quite so straightforward; consequently, we need to take a closer
+look. The best method begins with discovering what he means by <i>works</i> and
+then concluding what <i>faith</i> refers to.</span></p>
 
-Whereas <em>“works of law”</em> inherently produce the effect (righteousness) by the obedience of each of us individually, <em>faith</em> trusts that God will view us as righteous (“give” the righteousness) for espousing in Jesus Christ the ideal of perfect righteousness. Faith is non-inherent result. Therefore, the issue for Paul is not whether we do something but the significance of what we do. Our obedience relates differently to the resultant righteousness under law and under grace.
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt;line-height:115%'>The crucial fact is that,
+when Paul denies that people are saved by works in Romans <b>3</b>:28, <i>etc</i>.,
+he is talking about (a) “<u>works of law</u>” (cp. Romans<b> 3</b>:7; <b>9</b>:32;
+Galatians <b>2</b>:16; <b>3</b>:2-5). He speaks clearly in Galatians <b>3</b>:10
+about the nature of “works of law” (works in a legal context, works under law) when
+he quotes Deuteronomy <b>27</b>:26: “<i>Everyone is accursed that does not
+continue to do everything in the Book of the Law.”</i> <i>Continuing</i> to do <i>everything</i>
+expresses a (b) <u>perfection</u> concept. Moreover, two verses later he observes
+from Leviticus <b>18</b>:5, <i>“The one that does them will have life by them
+[not someone else].”</i> People under law are good or bad depending on their
+own doing; one person is not guilty for another. Works under law require (c) <u>personal
+perfection</u>. From the standpoint of law, any law, the perfection that people
+have arises solely for their own “doing.” By <i>works</i>, then, Paul means the
+principle of personal perfection; righteousness is living perfectly.</span></p>
 
-Trusting is doing something, but it is not righteousness; it is counted <em>for</em> righteousness (Romans <strong><sup>4</sup></strong>:3, 5, 9). Trust is not the cause of righteousness; it is <em>counted</em> for righteousness. In Paul, <em>faith</em> is not so much the label for an act as it is the label for a relationship between an act and a result: non-inherent result. <em>Works</em> is also a label for a relationship between an act and a result: inherent result. The two terms contrast personal perfection with trust in another for perfection.
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt;line-height:115%'>Salvation by works is a
+contradiction of terms, because perfection (the effect of salvation) is such
+that once it’s lost it can’t be achieved again. Even if we lived perfectly from
+then on, our perfection would be irretrievably lost. <i>“If there could have
+been a law given which could </i>make alive<i>, truly righteousness would have
+been by </i>the Law<i>” </i>(Galatians <b>3</b>:21). Paul never depreciates the
+Mosaic Law except as a means to salvation. <i>“The Law is holy”</i> (Romans <b>7</b>:12),
+but it cannot <i>make holy </i>(Hebrews <b>7</b>:19).</span></p>
 
-In James 2, a different usage of <em>faith</em> appears. It includes <em>understanding</em> that the brother or sister is hungry and <em>assent</em> to the fact that they lack daily food (<strong><sup>2</sup></strong>:14,15), but active <em>commitment</em> is covered by his other word <em>works</em>. <em>Faith</em> means inner belief while <em>works</em> addresses outward behavior. In James, faith is not a saving faith, because the demons have it and yet tremble in their fear before God. The concerns of Paul and James, then, are quite different. For Paul the concern has to do with the significance of our obedience; for James it has to do with the obediences themselves. In Paul it is <em>why</em> we do; in James it is <em>what</em> we do.
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt;line-height:115%'>According to Paul,
+another means to righteousness has come about to provide a possibility for
+renewing our fellowship with God. If the righteousness requisite for that
+relationship cannot come from ourselves after we break perfection, then a
+source of righteousness coming from outside ourselves is the only alternative.
+That alternative source the apostle labels <i>faith</i>; the principle of trust
+in another: <i>“not having a righteousness of my own—that which is of the Law
+[of my doing everything commanded by the Law], but what is through faith in
+Christ—the righteousness that is of God by </i>faith<i>” </i>(Philippians <b>3</b>:9).
+We identify ourselves with God’s Son so that God views us in terms of the ideal
+embodied in the perfection of his Son. We “trust” that such an identification—and
+its implicit implications—renders us righteous in God’s eyes.</span></p>
 
-The above harmonizing of Paul and James turns on (1) a difference in the meaning of <em>faith</em> and <em>works</em>. Other solutions have been proposed for the problem including one based on (2) a difference in the meaning of the word <em>salvation</em>. Paul is taken to mean justification while James is understood as referring to sanctification in such a way that the two authors could be joined together after the manner of Ephesians <strong><sup>2</sup></strong>:10: saved by faith for good works. Paul has initial salvation in mind while James is looking at ultimate salvation. That proposal seems inadequate since even in Ephesians <strong><sup>2</sup></strong>:10. saved by works is denied, while it is affirmed in James <strong><sup>2</sup></strong>.
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt;line-height:115%'>Whereas <i>“works of law”</i>
+inherently produce the effect (righteousness) by the obedience of each of us
+individually, <i>faith</i> trusts that God will view us as righteous (“give”
+the righteousness) for espousing in Jesus Christ the ideal of perfect
+righteousness. Faith is non-inherent result. Therefore, the issue for Paul is
+not whether we do something but the significance of what we do. Our obedience
+relates differently to the resultant righteousness under law and under grace.</span></p>
 
-Another approach is to draw up (3) a difference in the kind of faith envisioned. Paul has in mind saving faith, meaning the kind of faith that does go on and work despite the fact that the work it goes on to do does not save. On the other hand, James  is not describing saving faith when he uses faith alone, but is calling for a faith that works when he puts the two terms together.
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt;line-height:115%'>Trusting is doing
+something, but it is not righteousness; it is counted <i>for</i> righteousness
+(Romans <b>4</b>:3, 5, 9). Trust is not the cause of righteousness; it is <i>counted</i>
+for righteousness. In Paul, <i>faith</i> is not so much the label for an act as
+it is the label for a relationship between an act and a result: non-inherent
+result. <i>Works</i> is also a label for a relationship between an act and a
+result: inherent result. The two terms contrast personal perfection with trust
+in another for perfection.</span></p>
 
-Now it may be proper to say that a saving kind of faith is a faith that works, but the text indicates, not that we are saved by a faith <em>that</em> works, but by faith <em>and</em> works. So, making the harmonization on a difference in the meaning of <em>faith</em> and <em>works</em> appears to be the best course.
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt;line-height:115%'>In James 2, a different
+usage of <i>faith</i> appears. It includes <i>understanding</i> that the
+brother or sister is hungry and <i>assent</i> to the fact that they lack daily
+food (<b>2</b>:14,15), but active <i>commitment</i> is covered by his other
+word <i>works</i>. <i>Faith</i> means inner belief while <i>works</i> addresses
+outward behavior. In James, faith is not a saving faith, because the demons
+have it and yet tremble in their fear before God. The concerns of Paul and
+James, then, are quite different. For Paul the concern has to do with the
+significance of our obedience; for James it has to do with the obediences
+themselves. In Paul it is <i>why</i> we do; in James it is <i>what</i> we do.</span></p>
 
-<strong>The importance of James</strong>—As noted in the opening of this study, the exhortation to active expression of belief (<strong><sup>1</sup></strong>:22-27; <strong><sup>2</sup></strong>:10-26;<strong> 3</strong>:13; <strong><sup>4</sup></strong>:17) was needed in the ancient church on account of (a) antinomianism, the idea that it does not matter what we do (Romans <strong><sup>3</sup></strong>:5-8; 1 John <strong><sup>3</sup></strong>:3-12). Another problem among the Jews was (b) presuming upon ancestry from Abraham as a basis for privilege (Luke <strong><sup>3</sup></strong>:7-8). A third was (c) knowing, hearing, having the oracles of God in contrast to the ignorant heathen (Romans <strong><sup>2</sup></strong>:17-29; James <strong><sup>2</sup></strong>:19).
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt;line-height:115%'>The above harmonizing of
+Paul and James turns on (1) a difference in the meaning of <i>faith</i> and <i>works</i>.
+Other solutions have been proposed for the problem including one based on (2) a
+difference in the meaning of the word <i>salvation</i>. Paul is taken to mean
+justification while James is understood as referring to sanctification in such
+a way that the two authors could be joined together after the manner of
+Ephesians <b>2</b>:10: saved by faith for good works. Paul has initial
+salvation in mind while James is looking at ultimate salvation. That proposal
+seems inadequate since even in Ephesians <b>2</b>:10. saved by works is denied,
+while it is affirmed in James <b>2</b>.</span></p>
 
-In post-apostolic times, an additional problem arose to which this book has a contemporary relevance: (d) eternal security, also termed “once in grace always in grace.” There are three views on our continued association with Christ. One view is that of <em>apostasy</em>: if people fall away from living the Christian life, becoming the same as they were before, they are no longer in a saved condition; they have lost their status with Christ. A second view is that people who experience genuine conversion will persevere till the end: <em>perseverance of the saints.</em> If they enter again into their former manner of life, they were never saved in the first place. The third is that even if they do forsake the Christian life, they are still going to heaven: <em>eternal security</em>.
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt;line-height:115%'>Another approach is to
+draw up (3) a difference in the kind of faith envisioned. Paul has in mind
+saving faith, meaning the kind of faith that does go on and work despite the
+fact that the work it goes on to do does not save. On the other hand, James  is
+not describing saving faith when he uses faith alone, but is calling for a
+faith that works when he puts the two terms together. </span></p>
 
-Perseverance of the saints agrees with the apostasy position in tying Christian living to salvation status so that, whether genuinely saved or not in the beginning, people under either construct are lost in the end if they forsake Christ in everyday living. Perseverance takes the scripture as promising that God will bring new concerts through safely to the end of life. He protects them from being tempted above what they can bear (1 Corinthians <strong><sup>10</sup></strong>:13). We may question, however, whether people always do what they can do. In that area of difference between what they can do and what they do, apostasy may occur. From a practical standpoint, nevertheless, the big concern is not so much with perseverance because everything comes out the same.
+<p class=MsoNormal style='margin-bottom:6.0pt;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt;line-height:115%'>Now it may be proper to <u>say</u>
+that a saving kind of faith is a faith that works, but the <u>text</u>
+indicates, not that we are saved by a faith </span><i><span style='font-size:
+12.0pt;line-height:115%'>that</span></i><span style='font-size:12.0pt;
+line-height:115%'> works, but by faith </span><i><span style='font-size:12.0pt;
+line-height:115%'>and</span></i><span style='font-size:12.0pt;line-height:115%'>
+works. So, making the harmonization on a difference in the meaning of </span><i><span
+style='font-size:12.0pt;line-height:115%'>faith</span></i><span
+style='font-size:12.0pt;line-height:115%'> and </span><i><span
+style='font-size:12.0pt;line-height:115%'>works</span></i><span
+style='font-size:12.0pt;line-height:115%'> appears to be the best course.</span></p>
 
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
+.5in'><b><span style='font-size:12.0pt;line-height:115%'>The importance of
+James</span></b><span style='font-size:12.0pt;line-height:115%'>—As noted in
+the opening of this study, the exhortation to active expression of belief (<b>1</b>:22-27;
+<b>2</b>:10-26;<b> 3</b>:13; <b>4</b>:17) was needed in the ancient church on
+account of (a) antinomianism, the idea that it does not matter what we do
+(Romans <b>3</b>:5-8; 1 John <b>3</b>:3-12). Another problem among the Jews was
+(b) presuming upon ancestry from Abraham as a basis for privilege (Luke <b>3</b>:7-8).
+A third was (c) knowing, hearing, having the oracles of God in contrast to the
+ignorant heathen (Romans <b>2</b>:17-29; James <b>2</b>:19).</span></p>
 
-christir.org
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt;line-height:115%'>In post-apostolic times, an
+additional problem arose to which this book has a contemporary relevance: (d)
+eternal security, also termed “once in grace always in grace.” There are three
+views on our continued association with Christ. One view is that of </span><i><span
+style='font-size:12.0pt;line-height:115%'>apostasy</span></i><span
+style='font-size:12.0pt;line-height:115%'>: if people fall away from living the
+Christian life, becoming the same as they were before, they are no longer in a
+saved condition; they have lost their status with Christ. A second view is that
+people who experience genuine conversion will persevere till the end: </span><i><span
+style='font-size:12.0pt;line-height:115%'>perseverance of the saints.</span></i><span
+style='font-size:12.0pt;line-height:115%'> If they enter again into their
+former manner of life, they were never saved in the first place. The third is
+that even if they do forsake the Christian life, they are still going to
+heaven: </span><i><span style='font-size:12.0pt;line-height:115%'>eternal
+security</span></i><span style='font-size:12.0pt;line-height:115%'>. </span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt;line-height:115%'>Perseverance of the
+saints agrees with the apostasy position in tying Christian living to salvation
+status so that, whether genuinely saved or not in the beginning, people under
+either construct are lost in the end if they forsake Christ in everyday living.
+Perseverance takes the scripture as promising that God will bring new concerts
+through safely to the end of life. He protects them from being tempted above
+what they can bear (1 Corinthians <b>10</b>:13). We may question, however,
+whether people always do what they can do. In that area of difference between
+what they can do and what they do, apostasy may occur. From a practical
+standpoint, nevertheless, the big concern is not so much with perseverance
+because everything comes out the same.</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
+style='font-size:12.0pt;line-height:115%'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'>christir.org</p>
+</div>

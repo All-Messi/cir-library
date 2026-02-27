@@ -10,41 +10,250 @@ title: 'JAMES: COMPETITION CONVERTED TO LOVE'
 weight: 3
 ---
 
+<style>
+/* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+ /* Style Definitions */
+ .word-content p.MsoNormal, .word-content li.MsoNormal, 
+p.MsoHeader, li.MsoHeader, 
+p.MsoListParagraph, li.MsoListParagraph, 
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, 
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, 
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, 
+span.HeaderChar
+	{mso-style-name:"Header Char";
+	mso-style-link:Header;}
+.word-content .MsoChpDefault
+	{font-size:11.0pt;}
+.MsoPapDefault
+	{margin-bottom:10.0pt;
+	line-height:115%;}
+ /* Page Definitions */
+ 
 
+ /* List Definitions */
+ ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+</style>
 
-Religion is not good for some people; it just makes them worse by putting God on their side. Because they know the truth, they look down on other people’s ignorance with greater boldness. The tendency to consider themselves better than their neighbors is reinforced by the status they have as one of God’s people. That phenomenon is curious since sin is always some kind of self-centeredness. If “getting religion” only reinforces such attitudes, what good is it?
+<div class="word-content">
+<p class=MsoListParagraphCxSpFirst align=center style='margin-bottom:12.0pt;
+text-align:center;text-indent:-.25in'><b><span style='font-size:14.0pt;
+line-height:115%'>(1)<span style='font:7.0pt "Times New Roman"'> </span></span></b><b><span
+style='font-size:14.0pt;line-height:115%'> JAMES: COMPETITION CONVERTED TO LOVE</span></b></p>
 
-<strong>The concern</strong>—The answer is that religion is no good if it does no good. Christianity calls for conversion. If none occurs, there’s no Christianity: <em>“That person’s religion has no value” </em>(James <strong><sup>2</sup></strong>:26). Scripture knows nothing of a changed status without changed behavior. After all, salvation is nothing more than delivering us out of separation from God (lostness), the condition that exists in self-centeredness. We are rotating around an internal axis instead of revolving around the external one. Salvation without altering self-centeredness will not happen. It’s merely the old problem in new form: trying to use salvation for what it can give without doing what the faith expects. Something for nothing is no good.
+<p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
+margin-bottom:14.0pt;margin-left:0in'><b><span style='font-size:12.0pt;
+line-height:115%'>&nbsp;</span></b></p>
 
-To the superficial religionist, a call for conversion must go forth. The world has seen enough “<em>sham faith.”</em> No more excuses like <em>“That’s just the way I am”</em>; <em>“nobody’s perfect.”</em> No more impertinences like <em>“I believe the right things”</em> (so do the demons); <em>“I’ve been baptized”</em> (God can make sons out of stones). Reading the Bible must move on to remembering what kind of people we are. Sympathy for a friend that needs food and clothes must go on to giving him what he needs. There is simply no way to continue in the synagogue of the Messiah without conversion.
+<p class=MsoListParagraphCxSpMiddle align=center style='margin-top:0in;
+margin-right:0in;margin-bottom:14.0pt;margin-left:0in;text-align:center'><span
+style='font-size:12.0pt;line-height:115%'>Virgil Warren, PhD</span></p>
 
-The Book of James calls for just such a conversion. Since the central characteristic of sin is self-centeredness, it is no surprise that virtually everything in the epistle has to do with eradicating egocentric attitudes and behavior.
+<p class=MsoListParagraphCxSpMiddle align=center style='margin-top:0in;
+margin-right:0in;margin-bottom:14.0pt;margin-left:0in;text-align:center'><span
+style='font-size:12.0pt;line-height:115%'>&nbsp;</span></p>
 
-<strong>The structure</strong>—The writer of this book—evidently the Lord’s half-brother—has used an approach like that of Ecclesiastes and the Sermon on the Mount in structure, style, and content. The sermon revolves around “the Golden Rule.” James uses its equivalent, “the Royal Law,” as the conceptual center of his message. Both talk about the poor, love, doing, judging, swearing oaths, praying, the priority of spiritual values over material possessions. They’re also about the same length.
+<p class=MsoListParagraphCxSpLast style='margin-top:0in;margin-right:0in;
+margin-bottom:6.0pt;margin-left:0in;text-align:justify;text-indent:.5in'><span
+style='font-size:12.0pt;line-height:115%'>Religion is not good for some people;
+it just makes them worse by putting God on their side. Because they know the
+truth, they look down on other people’s ignorance with greater boldness. The
+tendency to consider themselves better than their neighbors is reinforced by
+the status they have as one of God’s people. That phenomenon is curious since
+sin is always some kind of self-centeredness. If “getting religion” only
+reinforces such attitudes, what good is it? </span></p>
 
-Even more than other biblical writings, this book does not lend itself readily to the outlining structure prized by western minds. It does not provide a series of parallel subpoints under headings that lead to a conclusion. Instead, the presentation uses a more flexible construction that we may liken to a daisy. A unifying theme lies in the center with “petals” attached around it. These represent subjects treated in varying length, loosely connected, and arranged in no strict sequence.
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><b><span
+style='font-size:12.0pt;line-height:115%'>The concern</span></b><span
+style='font-size:12.0pt;line-height:115%'>—The answer is that religion is no
+good if it does no good. Christianity calls for conversion. If none occurs,
+there’s no Christianity: <i>“That person’s religion has no value” </i>(James <b>2</b>:26).
+Scripture knows nothing of a changed status without changed behavior. After
+all, salvation is nothing more than delivering us out of separation from God
+(lostness), the condition that exists in self-centeredness. We are rotating
+around an internal axis instead of revolving around the external one. Salvation
+without altering self-centeredness will not happen. It’s merely the old problem
+in new form: trying to use salvation for what it can give without doing what
+the faith expects. Something for nothing is no good. </span></p>
 
-As to behavior, the <em>Second Great Commandment</em> summarizes the Law and the prophets (Matthew <strong><sup>22</sup></strong>:40; Romans <strong><sup>13</sup></strong>:8-10; Galatians <strong><sup>5</sup></strong>:13-15). Jesus speaks similarly regarding the <em>Golden Rule</em> in Matthews <strong><sup>7</sup></strong>:12. The same concept James labels the <em>Royal Law </em>(<strong><sup>2</sup></strong>:8) and <em>the Law of Liberty</em> (<strong><sup>1</sup></strong>:25; <strong><sup>2</sup></strong>:12). Since our epistle consists almost entirely of commandments for living, the Royal Law must stand at its center as an antidote to self-centeredness. This study series in James focuses on converting the competitive spirit into love, activating proper belief into deeds, and transforming self-interest into prayer.
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt;line-height:115%'>To the superficial
+religionist, a call for conversion must go forth. The world has seen enough “<i>sham
+faith.”</i> No more excuses like <i>“That’s just the way I am”</i>; <i>“nobody’s
+perfect.”</i> No more impertinences like <i>“I believe the right things”</i>
+(so do the demons); <i>“I’ve been baptized”</i> (God can make sons out of
+stones). Reading the Bible must move on to remembering what kind of people we
+are. Sympathy for a friend that needs food and clothes must go on to giving him
+what he needs. There is simply no way to continue in the synagogue of the
+Messiah without conversion.</span></p>
 
-<strong>The competitive spirit</strong>—<em>Meaning</em> derives from sovereignty because only what is independent has self-determination without interference. Unless something is sovereign, it’s always subject to something else coming along to stop it from fulfilling itself and its purposes. A <em>sense of meaningfulness</em> derives from feeling related to what is sovereign and therefore the center of everything. Self-centered people locate that center in themselves by the way they feel and act. <em>Sovereignty</em> can only exist through omnipotence since only what has the greatest power can maintain its independence.
+<p class=MsoNormal style='margin-bottom:6.0pt;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt;line-height:115%'>The Book of James calls
+for just such a conversion. Since the central characteristic of sin is
+self-centeredness, it is no surprise that virtually everything in the epistle
+has to do with eradicating egocentric attitudes and behavior.</span></p>
 
-At this point the explanation for the competitive spirit becomes clear. Self-centered people place the center of existence inside themselves, but they cannot be sovereign because they’re not all-powerful. Nevertheless, they have a drive for meaningfulness because they are human. Their competitive spirit comes from centering themselves in themselves. They must exert this power into conquest to establish their sovereignty so they can be meaningful, have a sense of worth, and feel significant.
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><b><span
+style='font-size:12.0pt;line-height:115%'>The structure</span></b><span
+style='font-size:12.0pt;line-height:115%'>—The writer of this book—evidently
+the Lord’s half-brother—has used an approach like that of Ecclesiastes and the
+Sermon on the Mount in structure, style, and content. The sermon revolves
+around “the Golden Rule.” James uses its equivalent, “the Royal Law,” as the
+conceptual center of his message. Both talk about the poor, love, doing,
+judging, swearing oaths, praying, the priority of spiritual values over
+material possessions. They’re also about the same length.</span></p>
 
-We are reminded of the proverbial little man that’s always picking a fight; he does it to prove something—primarily to himself. His desire to be significant creates an inner conflict since he’s not confident that he “can” make it so; self-centeredness dooms him to working on it endlessly. There are lots of “little” people in the world; there are also too many of us in the church. Self-centeredness creates weakness behavior. We still carry on the behavior of weakness because we’ve not converted from the competition model for establishing self-worth. Competition looks at self-centeredness from the standpoint of self-worth. James wrote his letter to jar readers into an awareness of their unacceptable condition, and to call them to mature behavior.
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
+style='font-size:12.0pt;line-height:115%'>            Even more than other
+biblical writings, this book does not lend itself readily to the outlining
+structure prized by western minds. It does not provide a series of parallel
+subpoints under headings that lead to a conclusion. Instead, the presentation
+uses a more flexible construction that we may liken to a daisy. A unifying
+theme lies in the center with “petals” attached around it. These represent
+subjects treated in varying length, loosely connected, and arranged in no
+strict sequence.</span></p>
 
-A major portion of James deals rather directly with this competitive spirit: <strong><sup>1</sup></strong>:2-4, 9-15, 19-<strong><sup>2</sup></strong>:9; <strong><sup>3</sup></strong>:1-<strong><sup>4</sup></strong>:2, 6-15; <strong><sup>5</sup></strong>:7-12. (1) <em>Being critical</em> of other people (<strong><sup>3</sup></strong>:1-12; <strong><sup>4</sup></strong>:11-12; <strong><sup>5</sup></strong>:9) is not primarily because they have the faults they do. Rather, the competitive drive looks for something to “conquer” by implying that “I do not have that fault and am therefore better.” (2) <em>Jealousy </em>hardly amounts to more than the feeling that we are losing the fight to be top dog (<strong><sup>3</sup></strong>:14-18). Another person’s having what I lack is a “put down” on my importance. (3) <em>Pride</em> comes from a self-image held precariously enough that we dare not accept a suggestion lest someone infer that we rank beneath the one who makes the suggestion (<strong><sup>4</sup></strong>:6-10, 16). (4) <em>Favoritism</em> prefers company that enhances self-image; if poverty implies low status, then the poor have to sit in the back of my bus or church (<strong><sup>1</sup></strong>:9-11; <strong><sup>2</sup></strong>:1-19). (5) <em>Selfishness </em>refuses to share because possessions imply rank (<strong><sup>5</sup></strong>:1-6). (6) <em>Self-sufficiency</em> fears loss of status from accepting help and guidance (<strong><sup>4</sup></strong>:2, 13-15). (7) <em>Impatience</em> feels bested by what withholds the object of desire (<strong><sup>1</sup></strong>:2-4, 12-15, 19-21; <strong><sup>5</sup></strong>:7-11). (8) <em>Swearing</em> attempts to amplify impressions by making our ideas and convictions seem stronger than they really are. (9) <em>Overreacting and defensive behavior</em> characterize us because we feel insecure. We can take nearly all these matters as relating somehow to the drive for self-worth.
+<p class=MsoNormal style='margin-bottom:6.0pt;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt;line-height:115%'>As to behavior, the <i>Second
+Great Commandment</i> summarizes the Law and the prophets (Matthew <b>22</b>:40;
+Romans <b>13</b>:8-10; Galatians <b>5</b>:13-15). Jesus speaks similarly
+regarding the <i>Golden Rule</i> in Matthews <b>7</b>:12. The same concept
+James labels the <i>Royal Law </i>(<b>2</b>:8) and <i>the Law of Liberty</i> (<b>1</b>:25;
+<b>2</b>:12). Since our epistle consists almost entirely of commandments for
+living, the Royal Law must stand at its center as an antidote to
+self-centeredness. This study series in James focuses on converting the
+competitive spirit into love, activating proper belief into deeds, and
+transforming self-interest into prayer. </span></p>
 
-<strong>The cure</strong>—Fulfilling the Royal Law eliminates the competitive mindset. It does so (1) because love’s movement reverses that of competition. Competition satisfies by being better than other people; love satisfies by feeling appreciation in others when we meet their needs. The former gets for self the “reward” for winning; the latter gives from self the resources for relief. Food or clothes for a friend can only be provided by <em>“giving him the things needful for the body,”</em> and giving can only happen by spending time, talent, and treasure.
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><b><span
+style='font-size:12.0pt;line-height:115%'>The competitive spirit</span></b><span
+style='font-size:12.0pt;line-height:115%'>—<i>Meaning</i> derives from
+sovereignty because only what is independent has self-determination without
+interference. Unless something is sovereign, it’s always subject to something
+else coming along to stop it from fulfilling itself and its purposes. A <i>sense
+of meaningfulness</i> derives from feeling related to what is sovereign and therefore
+the center of everything. Self-centered people locate that center in themselves
+by the way they feel and act. <i>Sovereignty</i> can only exist through
+omnipotence since only what has the greatest power can maintain its independence.</span></p>
 
-Love also eliminates competition (2) because the natures of the relationships in the two approaches are mutually exclusive. Competition separates; love combines. Competitors face the activity alone; they are combatted, opposed, and rejected. They who love face the situation with the others; they are accepted, welcomed, and appreciated.
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt;line-height:115%'>At this point the
+explanation for the competitive spirit becomes clear. Self-centered people
+place the center of existence inside themselves, but they cannot be sovereign
+because they’re not all-powerful. Nevertheless, they have a drive for
+meaningfulness because they are human. Their competitive spirit comes from
+centering themselves in themselves. They must exert this power into conquest to
+establish their sovereignty so they can be meaningful, have a sense of worth,
+and feel significant.</span></p>
 
-Finally, love eliminates competition (3) because love acts freely from within. James evidently considered love the “perfect law of liberty” in this sense (<strong><sup>2</sup></strong>:8-13). Life for those with a competitive spirit must be controlled by compulsion from the outside or they will run over everybody they can; life for those with a loving spirit is controlled by impulsion from the inside. Love excludes competition; therefore, the Royal Law is its antidote.
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt;line-height:115%'>We are reminded of the
+proverbial little man that’s always picking a fight; he does it to prove
+something—primarily to himself. His desire to be significant creates an inner
+conflict since he’s not confident that he “can” make it so; self-centeredness
+dooms him to working on it endlessly. There are lots of “little” people in the
+world; there are also too many of us in the church. Self-centeredness creates
+weakness behavior. We still carry on the behavior of weakness because we’ve not
+converted from the competition model for establishing self-worth. Competition
+looks at self-centeredness from the standpoint of self-worth. James wrote his
+letter to jar readers into an awareness of their unacceptable condition, and to
+call them to mature behavior. </span></p>
 
-Knowing, feeling, and doing relate in such a way that each affects the others and is in turn affected by them. Of the three, feeling (emotions, the affective dimension) proves to be the most difficult to handle. Competitiveness belongs to the category of feeling; consequently, it’s resistant to change. Change in <em>knowledge</em> or understanding can come from the teaching of James itself, and we have tried to shed further light on why we act that way; but the best way to deal with feelings is to <em>do</em> something. It is easier to will an act than a feeling; and since feeling and doing reinforce each other, we can do something to adjust our feelings. The way we feel arises from what we decide to do.
+<p class=MsoNormal style='margin-bottom:6.0pt;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt;line-height:115%'>A major portion of James
+deals rather directly with this competitive spirit: <b>1</b>:2-4, 9-15, 19-<b>2</b>:9;
+<b>3</b>:1-<b>4</b>:2, 6-15; <b>5</b>:7-12. (1) <i>Being critical</i> of other
+people (<b>3</b>:1-12; <b>4</b>:11-12; <b>5</b>:9) is not primarily because
+they have the faults they do. Rather, the competitive drive looks for something
+to “conquer” by implying that “I do not have that fault and am therefore
+better.” (2) <i>Jealousy </i>hardly amounts to more than the feeling that we
+are losing the fight to be top dog (<b>3</b>:14-18). Another person’s having
+what I lack is a “put down” on my importance. (3) <i>Pride</i> comes from a
+self-image held precariously enough that we dare not accept a suggestion lest
+someone infer that we rank beneath the one who makes the suggestion (<b>4</b>:6-10,
+16). (4) <i>Favoritism</i> prefers company that enhances self-image; if poverty
+implies low status, then the poor have to sit in the back of my bus or church (<b>1</b>:9-11;
+<b>2</b>:1-19). (5) <i>Selfishness </i>refuses to share because possessions
+imply rank (<b>5</b>:1-6). (6) <i>Self-sufficiency</i> fears loss of status
+from accepting help and guidance (<b>4</b>:2, 13-15). (7) <i>Impatience</i>
+feels bested by what withholds the object of desire (<b>1</b>:2-4, 12-15,
+19-21; <b>5</b>:7-11). (8) <i>Swearing</i> attempts to amplify impressions by
+making our ideas and convictions seem stronger than they really are. (9) <i>Overreacting
+and defensive behavior</i> characterize us because we feel insecure. We can take
+nearly all these matters as relating somehow to the drive for self-worth. </span></p>
 
-One piece of advice is to (1) <em>do something for somebody</em> (<strong><sup>1</sup></strong>:27; <strong><sup>2</sup></strong>:14-16). Helping people occurs in giving ourselves. Doing for others contrasts with getting for ourselves; so while we are practicing the Royal Law, we are reshaping our feelings away from competitiveness. (2) <em>Pray</em>. In prayer we bring ourselves face to face with God in our mind’s eye. It is difficult to be aggressive, critical, and selfish in front of God. (3) <em>Spend time around godly people </em>that have patience like Job’s and a prayer life like Elijah’s (<strong><sup>5</sup></strong>:11, 17, 18). (4) <em>Stay out of positions you can’t handle</em> (<strong><sup>3</sup></strong>:1). People in positions of responsibility are evaluated more strictly and criticized more readily than other people. People have a harder time overlooking mistakes by a leader.
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><b><span
+style='font-size:12.0pt;line-height:115%'>The cure</span></b><span
+style='font-size:12.0pt;line-height:115%'>—Fulfilling the Royal Law eliminates
+the competitive mindset. It does so (1) because love’s movement reverses that
+of competition. Competition satisfies by being better than other people; love
+satisfies by feeling appreciation in others when we meet their needs. The
+former gets for self the “reward” for winning; the latter gives from self the
+resources for relief. Food or clothes for a friend can only be provided by <i>“giving
+him the things needful for the body,”</i> and giving can only happen by
+spending time, talent, and treasure.</span></p>
 
-In conclusion, James requires everyone that would claim the benefits of the Christian faith to face up to the fact that the Lord does not and will not accept a self-centered, competitive personality. Furthermore, not changing from that approach to living leaves us bereft of a big portion of the abundant life. Competition does not provide a very satisfying life compared to what comes from practicing the Royal Law.
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt;line-height:115%'>Love also eliminates
+competition (2) because the natures of the relationships in the two approaches are
+mutually exclusive. Competition separates; love combines. Competitors face the
+activity alone; they are combatted, opposed, and rejected. They who love face
+the situation with the others; they are accepted, welcomed, and appreciated.</span></p>
 
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt;line-height:115%'>Finally, love eliminates
+competition (3) because love acts freely from within. James evidently
+considered love the “perfect law of liberty” in this sense (<b>2</b>:8-13).
+Life for those with a competitive spirit must be controlled by compulsion from
+the outside or they will run over everybody they can; life for those with a
+loving spirit is controlled by impulsion from the inside. Love excludes
+competition; therefore, the Royal Law is its antidote.</span></p>
 
-christir.org
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt;line-height:115%'>Knowing, feeling, and
+doing relate in such a way that each affects the others and is in turn affected
+by them. Of the three, feeling (emotions, the affective dimension) proves to be
+the most difficult to handle. Competitiveness belongs to the category of
+feeling; consequently, it’s resistant to change. Change in <i>knowledge</i> or
+understanding can come from the teaching of James itself, and we have tried to
+shed further light on why we act that way; but the best way to deal with
+feelings is to <i>do</i> something. It is easier to will an act than a feeling;
+and since feeling and doing reinforce each other, we can <u>do</u> something to
+adjust our feelings. The way we feel arises from what we decide to do.</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt;line-height:115%'>One piece of advice is to
+(1) <i>do something for somebody</i> (<b>1</b>:27; <b>2</b>:14-16). Helping
+people occurs in giving ourselves. Doing for others contrasts with getting for
+ourselves; so while we are practicing the Royal Law, we are reshaping our
+feelings away from competitiveness. (2) <i>Pray</i>. In prayer we bring
+ourselves face to face with God in our mind’s eye. It is difficult to be
+aggressive, critical, and selfish in front of God. (3) <i>Spend time around
+godly people </i>that have patience like Job’s and a prayer life like Elijah’s
+(<b>5</b>:11, 17, 18). (4) <i>Stay out of positions you can’t handle</i> (<b>3</b>:1).
+People in positions of responsibility are evaluated more strictly and
+criticized more readily than other people. People have a harder time
+overlooking mistakes by a leader.</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt;line-height:115%'>In conclusion, James
+requires everyone that would claim the benefits of the Christian faith to face
+up to the fact that the Lord does not and will not accept a self-centered,
+competitive personality. Furthermore, not changing from that approach to living
+leaves us bereft of a big portion of the abundant life. Competition does not
+provide a very satisfying life compared to what comes from practicing the Royal
+Law.</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
+style='font-size:12.0pt;line-height:115%'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'>christir.org</p>
+</div>

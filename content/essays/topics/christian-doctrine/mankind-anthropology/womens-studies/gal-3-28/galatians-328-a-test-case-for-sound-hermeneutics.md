@@ -12,216 +12,1096 @@ title: 'GALATIANS 3:28: A TEST CASE FOR SOUND HERMENEUTICS'
 weight: 5
 ---
 
-
-
-
-Introduction
-
-<em>“There is no male and female because you are all one in Christ Jesus”</em> (Galatians <strong><sup>3</sup></strong>:28). The wording of that part-verse has become a popular way for Christians to express the egalitarian principle that (a) <em>in the home and in the church, there are no necessary role distinctions between the sexes</em>. A man or a woman has the same theoretical “right” to lead. In its healthiest form, egalitarianism calls for <em>“a fair field and no favors”</em> in all parts of the social arena.1 A more extreme alternative to male headship is the belief that (b) <em>in the home and in the church, there is only interpersonal leadership</em>. Not only is there is no designated final responsibility in marriage and ministry referenced to sex; there is no hierarchical arrangement at all; there is only natural <em>vs</em>. formal leadership.2 Cooperation rather than structure is the ideal <em>modus operandi</em>. At least the first of these viewpoints is a proposed meaning of Paul’s statement to the Galatians. This study evaluates that reading in light of the evident exegetical and theological import of the passage, and addresses various ways by which women’s roles come or might come into its sphere of meaning.
-
-
-
-Exegesis
-
-The salvation topic in Galatians <strong>3-4</strong>
-
-In the context of Galatians<strong> 3</strong>:28, Paul’s topic seems straightforward enough: salvation through Christ is for Gentiles as Gentiles as surely as it is for Jews. It is granted to those who have spiritual likeness to Abraham. Christ is the “seed” of Abraham, and those in Christ become recipients of the promise to Abraham’s seed. “Seed” did not particularly envision physical descendants or those legally included in the patriarch, but those who are “sons” of his way of being. They connect to him by having “faith” like his, interpersonally rather than biologically or legally. Descendants do tend to reflect their parents’ values, and family values should be in all the family members. But the physical connection is not what makes life good; it is the values and their correlating behaviors and attitudes that makes it good. Other people who adopt Abraham’s family values are closer to him than physical children. “Seed,” then, is both generic and collective: it refers to a type of person and by extension to all the individual persons of that type. Anyone who is of Christ is a son of Abraham by inclusion in Christ. Christ, so to speak, is the “seed-type,” and everyone identified with him is a “seed-kernel” within the type; such persons are saved and blessed.
-
-Throughout his discussion, Paul casts this salvation message in the imagery and terminology of inheritance because the original promise was conveyed in inheritance language. He deals mostly with the Jew-Greek distinction because it was the one that called forth the letter, but in<strong> 3</strong>:28 he generalizes his point to some like cases, adding male-female and bond-free. So the inclusion principle is not based on nationality, societal status, or sex. The statement that there is no bond-free, male-female, Jew-Greek parallels <em>joint heirs</em> in Romans <strong><sup>8</sup></strong>:17; Ephesians<strong> 3</strong>:6 (re nationality; cp. Galatians <strong><sup>3</sup></strong>:14) and in 1 Peter<strong> 3</strong>:7 (re wives). It parallels <em>no respect of persons</em> in Ephesians <strong><sup>6</sup></strong>:9 and Colossians <strong><sup>3</sup></strong>:25 (re master-slave) and Acts <strong><sup>10</sup></strong>:34; Romans <strong><sup>2</sup></strong>:10-11 (re nationality).3 It equals “Christ is <em>all in all</em>” (Colossians <strong><sup>3</sup></strong>:11) and “there is <em>no distinction</em>” (Romans <strong><sup>3</sup></strong>:22; <strong><sup>10</sup></strong>:12). On different occasions Paul varies the number of entries in the sets. Romans <strong><sup>2</sup></strong>:10; <strong><sup>3</sup></strong>:29; <strong><sup>9</sup></strong>:24; <strong><sup>10</sup></strong>:12; <strong><sup>15</sup></strong>:9 and Ephesians <strong><sup>2</sup></strong>:11-<strong><sup>3</sup></strong>:12 are among several that concentrate on one—Jew and Greek. 1 Corinthians <strong><sup>12</sup></strong>:13 names two—Jew and Greek, bond and free. Colossians <strong><sup>3</sup></strong>:11 lists three—Jew and Greek, barbarian and Scythian, bond and free. In all these cases, faith is the only relevancy. In the kingdom of God, no one is debarred on any other basis than lack of faith.
-
-
-Reasons for the sets in Galatians <strong><sup>3</sup></strong>:28
-
-We may ask two questions about the list in Galatians <strong><sup>3</sup></strong>:28. First, what is <em>common</em> to the three sets? Obviously, the pairs are alike in being objects of salvation through Christ. Since Paul indicates that the only relevancy for salvation is faith, the pairs are also alike in referring to those who can have faith. Consequently, all kinds of <em>persons</em> are potential for covenant membership and inheritance of blessings. In terms of creation language, the kind of thing God intended in his promise to faithful Abraham was appropriate to everyone who has the creatable image, the interpersonal capacity.4
-
-Second, is there anything <em>peculiar</em> to these sets? Did Paul have any special reason for listing these three distinctions? (a) He may have mentioned them, of course, simply as examples of irrelevant distinctions<em>. </em>He could just as well have said rich and poor, married and unmarried, old or young, barren or with children, and so on.5 Galatians <strong><sup>3</sup></strong>:28 is <em>unique</em> in including male-female as an irrelevant difference.
-
-(b) Paul may have mentioned the distinctions in <strong><sup>3</sup></strong>:28 because they were suggested by ancient Near Eastern inheritance customs. The inheritance theme lies in both the preceding and succeeding material (<strong><sup>4</sup></strong>:7). <em>Slaves</em> did not inherit except perhaps after being adopted as heirs or in situations where there were no biological descendants (Genesis <strong><sup>15</sup></strong>:1-4). <em>Non-family members</em> did not inherit unless there was no one left in the immediate family (Numbers <strong><sup>27</sup></strong>:8-11); circumcision was a “family” sign. Among Jews, <em>females</em> did not inherit except when there were no sons (Numbers <strong><sup>27</sup></strong>:1-8; <strong><sup>36</sup></strong>:1-13).6 Inheritance customs dictated that physical descendants, freemen, and sons were heirs. Since the blessing promised to Abraham was conveyed in inheritance terms, Paul may have listed these three sets as adjustments to the inheritance model for access to salvation; receiving the blessing of Abraham is not like inheritance in every way. God’s blessing and promise consist of personal relationship and its consequences, and are awarded on the basis of interpersonal factors; so the objects of the blessing and promise were not affected by the kinds of distinctions that affect the transfer of physical property or family privilege.7, 8
-
-Another way to ask why the three items are listed is to ask why <em>male and female</em> is in the list. Perhaps it is suggested by the covenant sign since women were not circumcised in Judaism. Circumcision was a kind of citizenship paper that a person carried in his flesh. This kind of citizenship mark did not apply to women. The nature of the covenant and the nature of the sign of the covenant have to correspond. The new covenant is not the kind where the covenant sign could be the sort it was under Mosaism or the land-and-lineage aspect of the Abrahamic covenant itself. In other words, the Christian covenant is a spiritual covenant, not a fleshly one. Since the covenant with Abraham was also with his “seed,” there is an inheritance factor in the setting, and Paul draws on that language in his presentation. Inheritance language, then, is especially apt for explaining the <strong><sup>3</sup></strong>:28 list, because it offers a contextual reason for including the male-female variable.
-
-
-Proscription against bondage
-
-Instead of reading Galatians <strong><sup>3</sup></strong>:28 as a statement about salvation from sin, it has been taken as a statement about salvation from bondage—bondage to Jewish laws and traditions. The verse thus warns against regressing into customs and laws based on distinctions outdated in Christ. Since male-female is one of the distinctions Paul mentions, it should be discarded as a feature of Christian practice. That means discarding male-female as a factor relevant to role assignments.9
-
-This reconstruction sounds plausible because it incorporates terms and topics that do appear in the context. But it does not pick up on them the way Paul discusses them. His “bondage” theme is not in regard to <em>items in the Mosaic Law</em>, but in regard to <em>law itself</em>, especially law-keeping (“works”) as a basis for fellowship with God. Being released from law does not mean being released from the specific expectations a law contains. Those are subsequent issues determined by the new setting, by the nature of persons and personal relationship, by male-female relative gifting, and by the division of labor necessary for fulfilling kingdom purposes. Expectancies and values do not have to be imbedded in law; interpersonal relationship (“faith”) also contains expectancies and values, perhaps just as many, perhaps the same ones; and it holds up the same perfection standard with respect to them. The “bondage” issue is not a bondage to values and expectancies, but to legal perfection in such matters. If the point of release from bondage to law meant release from specific expectancies contained in a law—female deference, for example—one wonders whether a person could disregard moral expectancies as well. The release from bondage that Paul discusses is not a release from male final responsibility, but from personal perfection under law. The Abrahamic promise released a person from that personal perfection requirement for salvation.
-
-Among other things, Judaizing teachers were trying to mix initial salvation through Christ (“faith,” “spirit”) with continued salvation by law keeping (“works,” <strong><sup>3</sup></strong>:2). They thought Gentile converts should be circumcised and keep the Law of Moses (Acts <strong><sup>15</sup></strong>:5, <em>etc</em>.). There were two things wrong with this idea. First, circumcision identified people with <em>National Israel</em>, which, coming 430 years later, was a secondary and temporary feature added to the earlier Abrahamic promise (<strong><sup>3</sup></strong>:17). So being included in Abraham’s seed did not have anything to do with being under the Mosaic Law. In a similar argument in Romans <strong><sup>4</sup></strong>, Paul adds that God gave the promise to Abraham even prior to circumcision. A political dimension was not essential to the people of God.
-
-Second, circumcision theoretically committed people to success at personal perfection by identifying them with the <em>Law</em> of National Israel. Paul tells them in effect, <em>“You cannot begin with trust in Christ [initial salvation] and finish with works of law [continued salvation]”</em> (<strong><sup>3</sup></strong>:3). If Christ was needed because people could not maintain personal perfection before, why think they could do so now? What use would Christ be if all he gave were initial salvation? The Law creates bondage to a perfection people cannot achieve, and, therefore, a bondage to sin they cannot escape. In Christ, people are released from the need to achieve perfect righteousness for (being viewed as righteous unto) fellowship with God. In inheritance terms, for Jews, reverting to law after being under faith is like becoming a minor again, during which time a son is no better off than a slave, because he is too young to inherit the benefits of sonship (<strong><sup>4</sup></strong>:1-3). It is like reverting to slavery after becoming a freeman. For Gentiles it is even worse. That is the sense in which the bondage theme relates to Paul’s discussion.
-
-A point of consistency may also be raised if bondage in Galatians <strong>3-4</strong> means bondage to Jewish customs like sex-role distinctions. Paul denied in no uncertain terms that Christians should follow these traditions. If even an angel from heaven preached what they were advocating, he should be accursed (<strong><sup>1</sup></strong>:6-9)! The Galatians were bewitched and foolish (<strong><sup>3</sup></strong>:1-3)! They were fallen from grace and separated from Christ (<strong><sup>5</sup></strong>:4)! Paul’s message was incompatible with the Judaizing agenda. If Jewish role distinctions were included in the bondage that Paul so strenuously opposed, how could he turn around and ordain these very practices “in all the churches” (1 Corinthians <strong><sup>14</sup></strong>:33-34[?]; cp. 1 Timothy<strong> 2</strong>:8; 1 Corinthians <strong><sup>4</sup></strong>:17;<strong> 7</strong>:17; <strong><sup>11</sup></strong>:16) even if he did so only as a concession to cultural expectancies? The adamant language of Galatians would disallow such concessions even as a way to keep from hindering the progress of the gospel.
-
-At any rate, Paul’s topic is salvation; his talk about bondage has to do with bondage to law’s personal perfection requirement. The male-female connection is that gender has no bearing on “inheriting” God’s promise through Abraham’s “Seed,” the Messiah.
-
-
-The secondary heterogeneity in lists
-
-Galatians <strong><sup>3</sup></strong>:28 could involve women’s roles if secondary characteristics of items in a list necessarily possessed homogeneity. The reasoning would go as follows: the Jew-Gentile and the master-slave distinctions are unnecessary and even harmful, so the male-female distinction is unnecessary and undesirable. Since we agree that Jew <em>vs</em>. Gentile and bond <em>vs</em>. free would have no place in determining roles, we can conclude that male <em>vs</em>. female has no place in determining roles.
-
-But the assumption that would justify such an inference is not true. That listings are not necessarily homogeneous beyond the originating principle is clear from a couple examples. The qualification lists for elders and deacons (1 Timothy <strong><sup>3</sup></strong>:2-12; Titus <strong><sup>1</sup></strong>:6-9) combine moral matters and leadership characteristics. In Acts <strong><sup>15</sup></strong>:20, 29 the same list combines moral matters (fornication) and expediencies (eating things sacrificed to idols).10 Elsewhere, Paul treats eating things sacrificed to idols as a matter of expediency (1 Corinthians <strong><sup>8</sup></strong>; <strong><sup>10</sup></strong>:23-33). Under proper conditions a person could do what Acts <strong><sup>15</sup></strong> actually prohibits, which means it is not necessarily a moral matter even though it is listed beside a moral matter. So wisdom, a larger category than commandment, is the organizing principle in Acts <strong><sup>15</sup></strong>; but in Paul’s treatment of the matter, he includes comments about theory. Lists, then, are not necessarily homogeneous.
-
-Since lists are not homogeneous beyond the author’s point of interest, we cannot exegetically claim that some second characteristic of one or two entries must be true also of the others. If the impropriety of slavery argues for the impropriety of sex roles, it argues for the impropriety of national distinctions among Christians since there is neither Jew nor Gentile. Unlike Jew-Gentile or master-slave, male-female is not rooted in anything conceivably fallen or conventional. Male-female is a created difference pronounced good from the beginning. Any relative gifting or role emphases implicit in that created difference are likewise good. God created the male-female difference; he temporarily established the Jew-Gentile distinction; but man created the master-slave distinction.11 Even within Christ the distinctions Paul lists do, in fact, exist: there <em>are</em> male and female (Genesis<strong> 1</strong>:27; <strong><sup>5</sup></strong>:2; <em>etc</em>.; Matthew <strong><sup>19</sup></strong>:4 = Mark <strong><sup>10</sup></strong>:6); there <em>are</em> national distinctions; there <em>are</em> slave and free. Whether any of these <em>ought</em> to exist in non-salvific matters is appropriate to ask; but that is a further question answered by other information rather than by over-interpreting Galatians<strong> 3</strong>:28.
-
-By the <em>nature of language</em>, a statement does not mean everything it could be used to mean (linguistics), but what the writer intends it to mean here (authorial intent). <em>“There is no male and female in Christ”</em> should not to be taken in every sense conceivable, but in the sense that Paul means it as determined by near ad distant context.
-
-Galatians<strong> 3</strong>:28 is not even a free-standing proverb, but a statement embedded in a <em>context</em>. Consequently, it is not an absolute statement from which only provable exceptions we may subtract; that would place undue burden on the negative, although some readings could still be eliminated by the analogy of scripture. Besides justifying (a) homosexuality, the words could affirm (b) Gnostic superspirituality, an asceticism expressed in celibacy among other things (1 Timothy <strong><sup>4</sup></strong>:3). It fostered a lifestyle built on hypostatic dualism that led to denying fleshly appetites as evil, sexual drives included. What proves too much does not prove what it seems to prove. Likewise, women’s roles in Christ are not necessarily affirmed in Galatians <strong><sup>3</sup></strong>:28, because Paul has placed his words in a context about access to Christ.
-
-By the nature of language <em>convention</em>, lists are not necessarily homogeneous beyond their thematic principle. Consequently, the hermeneutical process must move from exegesis to theological interpretation.
-
-
-
-Theological Interpretation
-
-Since the “no-distinction clause” in Galatians does not refer to roles, any connection it has with roles must come from systematic inference. The proper question then is how an interpreter can legitimately move Galatians<strong> 3</strong>:28 onto a subject Paul is not discussing.
-
-At this juncture, the full interpretation task becomes more subject to error because the communication between author and reader is more reader-side intensive. The reader’s reasoning can be affected by incorrect pre-understandings about the nature of the case, by the impact of personality on the biblical truth, by expectancies in contemporary culture, by practical pressures, and so on.
-
-
-Implications for leadership roles
-
-Although the context of Galatians <strong><sup>3</sup></strong>:28 deals with salvation instead of roles, we are prepared to say that the text does connect with other subjects besides access to salvation, including marriage and formal leadership ministry. First, by generalization to like cases, we can say that the “no-distinction clause” applies to everyone created in God’s image, to everyone with the interpersonal capacity. Amoral distinctions between those endowed with personhood are naturally irrelevant.
-
-Second, equal access to salvation (vertical) implies the equal basic <em>worth</em> of persons, which in turn has social implications (horizontal), because positive attitudes must operate in both directions between non-germane variants.
-
-Third, the equal worth of persons eliminates higher <em>rank</em> as a basis for superior worth. God’s like attitude toward all classes of humanity removes any justification for humans themselves to distinguish between classes in regard to worth.
-
-Fourth, prioritizing the interpersonal category shapes the <em>manner</em> in which all human interaction takes place, whether in ministry, marriage, parenting, leadership, evangelism, or elsewhere. The characteristics of positive interpersonal relationship are retained rather than set aside in these more specialized settings for personal interaction. Interpersonal principles qualify operations in more specialized settings and establish boundaries on appropriate procedure.
-
-Fifth, within the ultimately interpersonal framework, <em>influence</em> precedes authority (and force) as the means by which leaders fulfill responsibility. They accomplish as much as possible by the dynamics of the fundamental reality (influence) before appealing to distinctives in the more specialized settings themselves (authority). And influence is a dynamic present with all persons, formal and natural leaders alike. Mature leadership, whether by male or female, follows the pattern dictated by the equal worth of human persons, which dissociates relative worth from different rank or variant ability.
-
-Sixth, there is a sense in which the primary category implies something even about the <em>identity</em> of those in formal leadership roles; they are first natural leaders, people mature enough to lead in the manner of influence before authority.
-
-It should be noted that this analysis appropriately derives from <em>any</em> text that implies the priority of the interpersonal category or implies the equal worth of persons in Christ. The fact that Galatians <strong><sup>3</sup></strong>:28 mentions male and female in so doing gives it no extra value in this regard, because the implications for roles do not come directly from the “male and female” verbiage, but indirectly from the larger human category to which the full list of irrelevancies points.
-
-
-Paralleling rank and worth
-
-Much of the impetus for connecting Galatians<strong> 3</strong>:28 with equal access to roles comes from the assumption that rank correlates with worth. That concept supplies the connecting link between the equal worth of persons implied by Galatians <strong><sup>3</sup></strong>:28 and the otherwise unnatural inference that male and female have interchangeable roles. Long ago when the modern women’s movement began to exert its influence within the church, Virginia Mollenkott expressed the idea this way: <em>“. . . if woman must of necessity be subordinate, she must of necessity be inferior.”</em>12 Calling Galatians<strong> 3</strong>:28 “The Magna Carta of Humanity,” Paul Jewett proceeds to conclude against hierarchy in marriage and ministry.13 If the assumed correlation between rank and worth is false, it does not bridge the gap.
-
-We perceive that women’s sense of personal worth is what makes gender roles such a burning issue. And that is certainly understandable because the drive for meaningfulness is a given in human nature. If we are not prepared to accept egalitarians’ theological interpretation of this verse, it behooves us to state briefly the alternate construction for self-worth so as to offset the inference that would otherwise obtain.
-
-Nature, purpose, relationship, and action form an interacting set of bases for measuring the worth of persons. All human persons have an inherent worth by virtue of their common creation in the image of God. The subsequent factors of relationship, purpose, and action work together in relative fashion like members in Paul’s body figure (Romans <strong><sup>12</sup></strong>:3-8; 1 Corinthians <strong><sup>10</sup></strong>:16-17; <strong><sup>12</sup></strong>:12-30; Ephesians <strong><sup>3</sup></strong>:6; <strong><sup>4</sup></strong>:4, 16). The heart is not evaluated by expectations related to the purpose of the lungs. Likewise, God does not measure one person’s worth by the abilities and responsibilities he gives to someone else, but by how concertedly that person fulfills his own responsibility relative to his ability to perform the role. God would not create a contradiction, then, by correlating certain role responsibilities with gender and relative gifting.
-
-Success in competition is the world’s model for defining self-worth, and it is the one that underlies so much of the feminist rhetoric against hierarchy. It assumes individualism and equality as the highest good rather than membership and unity. And it will not work very well for very many very long. Besides, it sets individuals in contrast to each other instead of drawing them together. Christianity bases self-image on being created in the divine image, on positive vertical and horizontal relationship, and on service relative to purpose. It calls for a shift from works to grace and from competition to love as a basis for objective worth and, therefore, for an appropriate sense of self-worth.
-
-
-Overextending the egalitarian principle
-
-By equating rank and worth, the egalitarian viewpoint overextends an otherwise crucial insight. It carries interpersonalism beyond <em>how</em> Christians lead and talks about <em>who</em> leads. By sheer principle purportedly derived from Galatians, it dismisses the possibility that divine commandment or wisdom would institute gender roles. Absolutizing most things makes them false, and egalitarianism is no exception. Equality of persons does not remove the need for assigned <em>responsibility</em> and the supervisory <em>authority</em> concomitant to it, nor does equality eliminate considering the relative <em>strengths</em> of persons in assigning roles to the best advantage so the full range of responsibilities is covered that life in the home plus the church entails. The ideal is unity, which celebrates diversity, not equality, which fosters sameness and individualism and thereby weakens the positive basis for social interdependence.
-
-Truth tends to lie between extremes. But as with so many controversial matters, extremes beget extremes. In this case, overdoing order leads to overdoing freedom. In the past the problem with hierarchy has been the misuse of authority, so the solution is to correct the misuse, not to get rid of authority. A problem has come from connecting worth with position and ability and then overdoing ability differences between men and women, so the solution is to disconnect worth from rank and ability and to affirm the differing strengths of men and women without exaggeration, not to try to eradicate gifting differences. Even as passages on the equality of persons establish no requirement to consider everyone within the same sex equally qualified for every role, so also Galatians <strong><sup>3</sup></strong>:28 establishes no ideal for considering women and men equally qualified for every role—and there is no depreciation of either sex for relatively weaker capacities statistically speaking. The sexes have equal value and equal worth, but they may not have equal gifts for a given responsibility like a final leadership role. That men and women are not interchangeable is at least strongly suggested by other biblical texts beyond Galatians, and it seems to be verified also in human experience by the observation among other things that there has never been a matriarchal society.14
-
-Egalitarians sometimes speak hermeneutically of identifying highest norms,15 really an acceptable idea as long as it is not done in a way that creates a canon within a canon. Doing the latter pits certain parts of scripture against other parts, which involves the practitioner in a lower view of scripture than we are willing to take. Furthermore, highest norms do not <em>oppose</em> lower ones, but <em>contextualize</em> and <em>qualify</em> them. The love standard in Christianity’s primary interpersonal category does qualify the way in which formal leadership operates, but it does not necessarily determine who should serve in what formal leadership roles.
-
-Not only by generalization do roles not come into Paul’s frame of reference, but they would also not come into the picture if roles were somehow viewed as a subset of membership. <em>Membership in a group is based on the purpose of the group</em>, the need people have for the purpose of the group, and their willingness to commit themselves to the purposes, values, and behaviors of that group. <em>Roles within the group are based on the abilities of group members</em>, which introduces the relative gifting concept again, circumstance needs, and the like. Salvation corresponds with the first issue, ministry with the second. We are all the same in God’s eyes, but we do not do the same things. There is a difference between whether a person belongs to the body and which organ in that body he is. If membership and roles are different matters, they can be governed by different principles without contradiction. As a result, if Paul says there is no male and female relative to gaining membership <em>into</em> the body, he does not thereby lay down the principle that there is no male and female relative to serving as one organ or another <em>within</em> the body. Therefore, Galatians<strong> 3</strong>:28 does not include egalitarianism as a subset.
-
-At the risk of stating the obvious, we note that (1) Paul says that there is no male and female, not that there is no husband and wife, father and mother, parents and children, elders and deacons, and so on. Salvation as <em>reconciliation</em> is relevant to all human persons because they have the <em>interpersonal</em> capacity and the righteousness need. Sex does not affect the relevance and therefore the availability of salvation. More specific issues within the sexual variant become subsequent issues—who will mother children and who will father them. Paul’s subject is interpersonal relationship, not status and role within that context.
-
-(2) The reason Paul gives for saying that there is no male and female is that we are all “one” in Christ (Galatians <strong><sup>3</sup></strong>:28). The sense, then, in which Paul means there is no male-female in Christ is a sense that fits with unity, if <em>unity</em> is what Paul means by <em>“you are all one.” </em>Since there can be diversity in unity, there can be different roles and statuses within unity, and there can be different roles and statuses based on sex within unity. By “one,” however, Paul more likely means <em>identity</em>, which results in unity. Jew-Gentile, male-female, slave-free share the same identity; they are “in Christ” and “of Christ” (Galatians<strong> 3</strong>:28-29; cp. 1 Corinthians <strong><sup>1</sup></strong>:12-13;<strong> 3</strong>:23). They are parts of the same “seed” even as Jews and Gentiles are part of the same olive tree (Romans <strong><sup>11</sup></strong>:16b-24), the same lump/full-harvest (Romans <strong><sup>11</sup></strong>:16a), the same temple court (Ephesians<strong> 2</strong>:11-18), the same citizenry (Ephesians <strong><sup>2</sup></strong>:19), household (Ephesians<strong> 2</strong>:19), building (Ephesians<strong> 2</strong>:20-22), and other images New Testament writers use to express the common identity and purpose of those who are “in Christ” and “of Christ.” From the reason something is stated, we can infer what the statement itself means.
-
-
-The parallel to Joel
-
-Another way to connect Galatians <strong><sup>3</sup></strong>:28 with ministry has been to consider it a restatement of Joel<strong> 2</strong>:28-32. The two texts are paralleled by connecting <em>“no Jew/Gentile”</em> with <em>“all flesh”</em> and <em>“whoever will call on the name of the Lord.”</em> <em>“No bond/free”</em> corresponds with <em>“on my servants and on my handmaidens . . . I will pour out my Spirit.”</em> <em>“No male/female”</em> answers to <em>“your sons and your daughters will prophesy.”</em> The outpouring of the Spirit on men and women in Joel is in regard to revelation and proclamation, which is then compared to Galatians<strong> 3</strong>.16
-
-Although the parallel is interesting, there is no reason to think that Paul had Joel in mind. Since there are only so many typical classifications of people, an undesigned overlap between Galatians and Joel is not surprising. The overlap is not complete; there is no age distinction in Galatians as there is in Joel. But the significant point is not that the lists overlap, but that the purposes of the overlapping lists are different. While Joel talks about proclamation, Galatians talks about salvation. Comments about the second do not necessarily have implications for the first. Joel does not say whether there will be any difference between the way sons and daughters prophesy; the “no-distinction clause” appears, not in Joel, but in Galatians and in regard to another subject; mixing the two passages creates an artificial hybrid.
-
-Furthermore, the point of current debate is not women in ministry, but women in authoritative ministry over men. Joel is not talking about the traditional concern raised by 1 Timothy <strong><sup>2</sup></strong>, which is thought to contradict Galatians <strong><sup>3</sup></strong>. Women have any number of outlets for prophesying that have nothing to do with the limitation in 1 Timothy. Galatians, 1 Timothy, and Joel are talking about three different issues: salvation, authoritative ministry, and proclamation ministry without further definition. <em>Prophesying</em> is nowhere forbidden to women, and that is what Joel predicts; <em>authoritative teaching</em> is what 1 Timothy disallows.17 We do not go to Joel to find out what Paul means in Galatians, because paralleling the two texts rests on the same assumption that makes Galatians speak about ministry in the first place. The approach simply restates the original claim that the “no male-female clause” in <strong><sup>3</sup></strong>:28 applies to formal ministry by women over men.
-
-
-Traditional attitudes toward women
-
-Another way of trying to associate Galatians<strong> 3</strong>:28 with ministry is to see it on the background of Jewish and even Hellenistic sayings that thank God for not making someone a woman.18 Galatians becomes a corrective on such degrading views of women. Again, the difficulty comes from imagining such sayings as the context for <strong><sup>3</sup></strong>:28 rather than observing the context that is actually here for all to see. Furthermore, if <strong><sup>3</sup></strong>:28 is correcting such Jewish notions, it corrects degrading women’s <em>worth</em>, which is simply different from <em>roles</em>. Only by correlating rank and worth does abandoning negative evaluations of women pertain to abandoning the female deference principle. Finally, how apt is Paul elsewhere to advocate Jewish traditional prejudices if he is consciously offering <strong><sup>3</sup></strong>:28 as a corrective on Jewish tradition, which is one explanation for the supposed tension between Galatians <strong><sup>3</sup></strong> and 1 Timothy <strong><sup>2</sup></strong>? Putting<strong> 3</strong>:28 in <em>conscious</em> opposition to Jewish tradition decreases the likelihood that we can account for Paul’s “inconsistency” by claiming <em>unconscious</em> insight in Galatians in contrast to enjoining Jewish practices regarding women in his other writings.
-
-
-The pristine-fallen-restored scenario
-
-A further elaboration of the egalitarian reading of our text places that reading in a larger scenario about pristine, fallen, and redeemed humanity. Those stages parallel an equal-subordinate-equal pattern for women. Although we cannot respond in particular to each point in this larger format, we can indicate some general comments without elaboration. (1) The New Testament seems to base the female deference principle on pre-Fall considerations as well (1 Corinthians <strong><sup>11</sup></strong>:8-10; 1 Timothy <strong><sup>2</sup></strong>:13-14). (2) Not everything mentioned in Genesis <strong><sup>3</sup></strong>:7-24 necessarily differs from what it was before the Fall. (3) Christ has not—or at least not yet—reversed other aspects of the “curse” listed in Genesis<strong> 3</strong>. Furthermore, (4) we do not agree that subordination needs to be viewed a cursed condition. Finally, (5) Paul also appeals to post-Fall factors as a basis for Christian practice (1 Corinthians <strong><sup>14</sup></strong>:34 < Genesis <strong><sup>3</sup></strong>:16; cp. 1 Corinthians <strong><sup>11</sup></strong>:3; Ephesians <strong><sup>5</sup></strong>:23).
-
-Crucial to the proper handling of Galatians <strong><sup>3</sup></strong>:28 is the fact that Paul is not primarily talking about something that is part of a time sequence. He is not contrasting the way things are in Christ with the way they were before, but the way things are in Christ with the way they are outside of him. The principles for being “in Christ” are not a <em>change</em> from <em>before</em>, but a <em>contrast</em> to <em>alternatives</em>. It is not so much something present <em>vs</em>. something past as it is one sort <em>vs.</em> another sort. It is not a <em>change</em> in God’s way of doing things so much as a re-affirmation of the way God has always done things. The issue involves what is secondary <em>vs</em>. what is primary. The promise to Abraham is a more basic frame of reference than the Mosaic Law and National Israel as shown by the fact that <em>promise</em> preceded <em>law</em> (<strong><sup>3</sup></strong>:15-29) and even <em>circumcision</em> (Romans<strong> 4</strong>:9-12), and the Law did not annul the former, more basic system (<strong><sup>3</sup></strong>:15-17). Mosaism was a temporary add-on for practical purposes, not theological or soteriological ones. Time comes into the picture only because in this instance what was secondary was also temporary. If we want to identify a sequence, it is not the pristine-fallen-redeemed scenario that egalitarianism wants to talk about, but the Abrahamic-Mosaic-Christian series that Paul does talk about, a faith-(works)-faith series. In fact, however, salvation by faith is not in a series, because it was true before the time of the Law, even during the time of the Law, and in the Christian era. Faith-grace-promise has always been the governing reality for relationship to God. In other words, salvation has always been interpersonal. Paul’s frame of reference returns to Abraham in his state of uncircumcision, not to Adam and Eve in their unfallen condition.
-
-
-Male and female
-
-Related to the previous scenario is the proposal that Paul meant something significant to our question by saying male <em>and</em> female rather than male <em>nor</em> female. The other two sets in <strong><sup>3</sup></strong>:28 are joined by <em>nor</em>. (a) Placing Galatians <strong><sup>3</sup></strong>:28 in the egalitarian scenario and emphasizing the use of <em>and</em> rather than <em>nor </em>has sometimes been done in the interests of calling for a supposed return to the pre-Fall condition. But that cannot explain the <em>and</em> phraseology, because Paul would then be <em>denying</em> the pre-Fall condition, not affirming it: <em>“there is not male and female . . . in Christ.”</em> The idea that the battle of the sexes is over is not a bad idea in itself, but that is not the meaning of Paul’s expression. Hierarchical arrangement is not competition or a battle for worth. American individualism makes equality rather than unity the highest good among persons. With equality in first place, the basis for worth comes from success in competition instead of contribution to the common cause, creation in the image of God, and positive interpersonal behavior.
-
-The peculiar nuances that could pertain to the format of the male-female statement, however, do not affect whether the verse has much connection with sex roles, because more likely explanations exist for that format. (b) The male-and-female format may be due simply to the familiar creation language in Genesis 1. In all the texts of Genesis the various LXX (Septuagint) editions combine male and female in this order and join them by <em>and</em> whether speaking of humans or animals (eleven cases). (For an elaboration of relevant data, see “Addendum: Male and Female,” below.) The phrase had perhaps become a <em>set expression</em> in the minds of people raised on the Greek Old Testament. It may well be that in these original contexts the “and” wording did reflect the complementary nature of the sexes.
-
-(c) Paul’s similar listing in Colossians <strong><sup>3</sup></strong>:11 puts <em>and</em> between the pairs that have <em>nor</em> (οὐδέ, <em>oude</em>) between them here. 1 Corinthians<strong> 12</strong>:13 uses <em>or</em> (εἴτε, <em>eite</em>). Galatians <strong><sup>3</sup></strong>:28 is the only text, however, that mixes the “and/nor” terminology; so the switch could be intentional. But it is doubtful whether the change of conjunctions indicates anything obvious.
-
-(d) The different format may imply that male and female are complements whereas Jews and Gentiles as well as bond and free are opposites. The former are conjunctive and the latter are disjunctive. In the last two sets, a person could move from one alternative to the other, but that cannot happen with male and female.
-
-The “and” format is like paralleling Galatians <strong><sup>3</sup></strong> with Joel <strong><sup>2</sup></strong>, putting it on the background of traditional attitudes toward women, or making it part of a pristine-fallen-redeemed scenario. Without a correlation between worth and rank, suggestions like these cannot sustain the egalitarian viewpoint from this text.
-
-
-Summary and Prospect
-
-Earlier in this essay <em>“no male and female”</em> was rejected as an absolute principle because, among other things, it would then contradict Paul’s clear teaching elsewhere against homosexuality and superspirituality. We did not claim that it would also contradict clear teaching elsewhere about husband-wife relationships in the home and the church. We left that claim unsaid because those who use Galatians <strong><sup>3</sup></strong>:28 to state the egalitarian principle do not agree that the male headship principle is indeed a clear New Testament teaching. Consequently, the study of women’s roles must move beyond the scope of this study to an evaluation of the positive case for hierarchy and the female submission principle.
-
-The case for hierarchy must be structured to address the gender-equity viewpoint in its best formulation. (a) Hierarchy needs to be presented hermeneutically in a way that by parity of reason it appropriately handles veil-wearing and slavery as control cases. (b) It must be understood also in a way that accounts for all the activities we find women actually doing in scripture. (c) It must conscientiously endeavor to avoid the confusing effects caused by the interpreter’s own personality, cultural expectancy, previous experience with the significant women in his life, and pre-understandings that unconsciously shape the reading of relevant texts.
-
-From the standpoint of Galatians <strong><sup>3</sup></strong>, however, we express the following convictions. (1) Using “no male and female” to state the egalitarian concept <em>accommodates</em> Paul’s words to a foreign concern in the reader’s interests. (2) By the nature of the case, Galatians<strong> 3</strong>:28 does not establish egalitarianism as <em>most ideal</em>. (3) Much less does it <em>eliminate </em>the possibility of gender roles.
-
-Correctly reading Galatians <strong><sup>3</sup></strong>:28 is a matter of “sticking to the subject.” Sometimes Paul’s words are simply misquoted as a statement of gender equity, as if he were directly discussing roles. At other times the text is accommodated to gender equity because people have first misgeneralized the words to that concept through an incorrect <em>theory of worth</em>, a misformulated <em>theory of leadership</em>, or a misidentified <em>summum bonum</em> among persons. (a) Variant rank or ability does not correspond with variant worth; unequal rank or ability does not contradict equal worth. (b) Christian leadership occurs first through interpersonal influence, but secondly through responsible authority. Leadership only by influence or primarily by authority misrepresents the ideal either by omitting one factor or by putting the two factors in the wrong order theoretically and practically. (c) The highest good among persons is their harmonious relationship in the common divine purposes. Correctly understanding all three of these concepts derives from seeing interpersonalism as the ultimate reality in the Christian worldview. It is that last concept, if any, that is implied by Galatians<strong> 3</strong>:28.
-
-Setting aside the target text as a statement of egalitarianism does not depend on first believing that other clear teaching about male headship eliminates the egalitarian reading here. If egalitarianism is true, it is not a truth learned from Paul’s statement, <em>“There is no male and female because you are all one in Christ Jesus.”</em>
-
-
-
-Endnotes
-
-<sup>1</sup>For a helpful presentation of classical feminism, see Christina Hoff Sommers, <em>Who Stole Feminism? How Women Have Betrayed Women</em> (New York: Simon & Schuster, 1994). She writes as a secular “equity feminist” against the extremes of “gender feminists.” The former call for equal opportunity for women in all areas with men in contrast to a gender-roles system, affirmative action, or a sexless society. Gender feminism, however, sees patriarchy as a universal social system based on a worldview of male oppression and calls for radical restructure of society away from sex reference altogether or—even more extreme—calls for re-creating humankind in terms of feminine reality as informed by gender feminists’ self-perception. The former viewpoint has most influenced the evangelical community, and is therefore the one that our study has in mind as it explores the direct and indirect meanings of Galatians <strong><sup>3</sup></strong>:28.
-
-<sup>2</sup>Among many authors, see Howard C. Kee, <em>Christian Origins in Sociological Perspective</em> (Philadelphia: Westminster, 1980), p. 91.
-
-<sup>3</sup>It might correspond also with the “callings” of 1 Corinthians <strong><sup>7</sup></strong>:10-28a: slavery, nationality, and marriage. In these three respects, Paul says that converts are to remain in the calling they had before. Another question is whether “male <em>and</em> female” in Galatians <strong><sup>3</sup></strong>:28 might mean marriage. If so, it would eliminate the idea that the three sets are mentioned because of their connection with inheritance customs.
-
-<sup>4</sup>Since scripture uses <em>imago dei</em> terminology in more than one sense, we distinguish between “creatable image” and “ethical image.” The first usage occurs in Genesis <strong><sup>1</sup></strong>:26; <strong><sup>5</sup></strong>:1; <strong><sup>9</sup></strong>:6; 1 Corinthians <strong><sup>11</sup></strong>:7; and James <strong><sup>3</sup></strong>:9; the second appears in Romans <strong><sup>8</sup></strong>:29 (or eschatological image?); 2 Corinthians <strong><sup>3</sup></strong>:18; and Colossians <strong><sup>3</sup></strong>:10. “Likeness” is not used in the ethical sense in comparisons of men and God (Genesis <strong><sup>1</sup></strong>:26; <strong><sup>5</sup></strong>:1; Acts <strong><sup>14</sup></strong>:11; <strong><sup>17</sup></strong>:29; Romans<strong> 8</strong>:3; Philippians <strong><sup>2</sup></strong>:7; 1 John <strong><sup>3</sup></strong>:2).
-
-We take interpersonal capacity as the meaning of the creatable image for reasons too complex to elaborate satisfactorily here. (a) Interpersonal capacity fits well with the parallelism between “us” and “them” (<em>relational being</em>; Genesis <strong><sup>1</sup></strong>:26-28a); Father-Son-Spirit we understand to be the one interpersonal God (note John<strong> 14</strong>:16). (b) The “dominion mandate” calls for personal capacities (<em>responsible being</em>). (c) Forbidden fruit implies <em>ethical being</em>. (d) “God said/Satan said” deals with<em> communicative being</em>. Responsibility, ethics, communication, and the like call for the abilities we understand to be associated with personhood: primary abilities like reason, will, conscience, affection, and derivative capacities like self-transcendence, self-image, and the sense of aesthetics. Interpersonal capacity has the advantage of being holistic rather than reductionistic, as views of the (creatable) image have often become historically.
-
-<sup>5</sup>Besides irrelevancies to <em>salvation access</em>, Romans <strong>14 </strong>and other texts identify a wide range of irrelevancies to <em>Christian practice</em>.
-
-<sup>6</sup>Job’s daughters, however, inherited equal portions with their brothers (Job <strong><sup>42</sup></strong>:15).
-
-<sup>7</sup>Jack Cottrell likewise concludes that the three distinctions in<strong> 3</strong>:28 are due to the inheritance metaphor. See <em>Gender Roles and the Bible: Creation, the Fall, and Redemption: A Critique of Feminist Biblical Interpretation</em> (Joplin: College Press, 1994), pp. 272-83. He links the distinctions more specifically to Mosaic inheritance laws, because Paul’s point of contrast is between Christ and the Law. We have taken the connection more generally with Near Eastern custom because the Abrahamic promise was conveyed in an inheritance metaphor. The metaphor itself was somewhat deficient for communicating access to a faith covenant. The rest of Paul’s presentation features a contrast between Mosaism and the prior Abrahamic covenant, but Mosaic inheritance rules did not differ from those of Abraham’s day in these three ways. Consequently, the contrast that would suggest Paul’s distinctions would come instead from the difference between the physical and spiritual components in the total Abrahamic covenant promise (Genesis <strong><sup>17</sup></strong>:1-14; <strong><sup>13</sup></strong>:14-17). Paul would not be adjusting Mosaic inheritance laws to the characteristics of the Abrahamic covenant promises; he would be adjusting the inheritance metaphor itself in the covenant promise.
-
-<sup>8</sup>Inheritance imagery may also explain why Paul says Jews <em>vs</em>. Gentiles in Galatians<strong> 3</strong>:28 rather than circumcised <em>vs</em>. uncircumcised, which is often the way he puts the same point. The difference is that Jews <em>vs</em>. Gentiles is a family statement and therefore coextensive with inheritance patterns. Circumcision was a family’s sign, which does not stress <em>who</em> the heirs are.
-
-<sup>9</sup>See Alvera Mickelsen in <em>Women in Ministry: Four Views</em>, eds. Bonnidell Clouse and Robert G. Clouse (Downers Grove: InterVarsity, 1989), pp. 204-5.
-
-<sup>10</sup>Acts <strong>15 </strong>may envision only the <em>sympathetic</em> eating of things offered to idols whereas Paul is concerned about a stronger brother misleading a weaker brother by his misunderstood example.
-
-<sup>11</sup>Paul may imply something negative about slavery in 1 Corinthians<strong> 7</strong>:21: <em>“But if you are indeed able to become free, use it</em> [freedom<em>] rather.”</em> An alternate translation might be, <em>“Nay, although you are able to become free, use it</em> [slavery] <em>all the more.”</em> Since there is a translation question about the verse, the point cannot be pressed here.
-
-<sup>12</sup>See the “Foreword” of Paul K. Jewett’s <em>Man as Male and Female: A Study in Sexual Relationships from a Theological Point of View</em> (Grand Rapids: Eerdmans, 1975), p. 8.
-
-13<em>Women in Ministry: Four Views</em>, pp. <sup>142</sup>ff.
-
-<sup>14</sup>Steven Goldberg, sociologist at City University of New York, argues this viewpoint convincingly in <em>Why Men Rule: A Theory of Male Dominance</em> (Chicago: Open Court, 1993). His proposal is that the phenomenon is rooted in the chemical variants between the sexes.
-
-15<em>Women in Ministry: Four Views</em>, pp. <sup>177</sup>ff.
-
-<sup>16</sup>Gerhard Dautzenberg, <em>“Da ist nicht männlich und weiblich,”</em> <em>Kairos</em>, N. F., p.197; cited by Klyne R. Snodgrass, “Galatians 3:28: Conundrum or Solution?” in <em>Women, Authority & the Bible</em>, ed. Alvera Mickelsen (Downers Grove: InterVarsity, 1986), p. 175.
-
-<sup>17</sup>Much of the difficulty in discussions about women’s roles stems from the differing views of male headship and the range of activities that headship affects. We are inclined to take 1 Timothy<strong> 2</strong>:12 as indicating a composite act—authoritative teaching—rather than two acts—exercising authority and teaching. <em>Exercising authority</em> we consider an appropriate translation for αὐθεντέω (<em>authenteō</em>) as a non-pejorative term. We suppose, as well, that the directive was intended at least for “standard situation” (husband-wife with children) especially in public settings, and referred minimally to wisdom <em>vs.</em> commandment. The wisdom-commandment distinction means that a person who does not do a wisdom-imperative takes a risk for practical reasons, whereas a person who does not do a commandment-imperative disobeys. Finally, <em>prophesying</em> and <em>teaching</em> may differ in that the latter involves normativeness/authority in 1 Timothy <strong><sup>2</sup></strong>.
-
-<sup>18</sup>See Snodgrass, <em>“Galatians</em><strong><em> 3</em></strong><em>:28: Conundrum or Solution?” </em>pp. 168-70.
-
-
-The essay above was first delivered at the <sup>46</sup>th annual meeting of the Evangelical Theological Society in Lisle, Illinois, on November 18, 1994. It was later published in <em>Evangelical Hermeneutics: Selected Essays from the 1994 Evangelical Theological Society Convention.</em> Ed. by Michael Bauman and David Hall. Camp Hill, PA: Christian Publications, Inc., 1995, pp. 123-45.
-
-christir.org
-
-
-
-
-
-
-
-
-
-
-
+<style>
+/* Font Definitions */
+ @font-face
+	{font-family:"Tms Rmn";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+ /* Style Definitions */
+ .word-content p.MsoNormal, .word-content li.MsoNormal, 
+p.MsoHeader, li.MsoHeader, 
+p.MsoFooter, li.MsoFooter, 
+span.HeaderChar
+	{mso-style-name:"Header Char";
+	mso-style-link:Header;
+	font-family:"Times New Roman",serif;
+	color:black;}
+span.FooterChar
+	{mso-style-name:"Footer Char";
+	mso-style-link:Footer;
+	font-family:"Times New Roman",serif;
+	color:black;}
+.word-content .MsoChpDefault
+	{font-family:"Tms Rmn",serif;}
+ /* Page Definitions */
+</style>
+
+<div class="word-content">
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
+style='font-size:14.0pt'>GALATIANS 3:28: A TEST CASE FOR SOUND HERMENEUTICS</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:14.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
+style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'> </span></p>
+
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
+margin-bottom:6.0pt;margin-left:0in;text-align:center'><span style='font-size:
+12.0pt'>Introduction</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><i><span style='font-size:12.0pt'>“There is no male and female because
+you are all one in Christ Jesus”</span></i><span style='font-size:12.0pt'>
+(Galatians <b>3</b>:28). The wording of that part-verse has become a popular
+way for Christians to express the egalitarian principle that (a) <i>in the home
+and in the church, there are no necessary role distinctions between the sexes</i>.
+A man or a woman has the same theoretical “right” to lead. In its healthiest
+form, egalitarianism calls for <i>“a fair field and no favors”</i> in all parts
+of the social arena.<span style='position:relative;top:-3.0pt'>1</span> A more
+extreme alternative to male headship is the belief that (b) <i>in the home and
+in the church, there is only interpersonal leadership</i>. Not only is there is
+no designated final responsibility in marriage and ministry referenced to sex;
+there is no hierarchical arrangement at all; there is only natural <i>vs</i>.
+formal leadership.<span style='position:relative;top:-3.0pt'>2</span> Cooperation
+rather than structure is the ideal <i>modus operandi</i>. At least the first of
+these viewpoints is a proposed meaning of Paul’s statement to the Galatians. This
+study evaluates that reading in light of the evident exegetical and theological
+import of the passage, and addresses various ways by which women’s roles come
+or might come into its sphere of meaning. </span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
+margin-bottom:6.0pt;margin-left:0in;text-align:center'><span style='font-size:
+12.0pt'>Exegesis</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:6.0pt;
+margin-left:0in;text-align:justify'><span style='font-size:12.0pt'>The
+salvation topic in Galatians <b>3-4</b></span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><b><span style='font-size:12.0pt'> </span></b><span style='font-size:
+12.0pt'>In the context of Galatians<b> 3</b>:28, Paul’s topic seems
+straightforward enough: salvation through Christ is for Gentiles as Gentiles as
+surely as it is for Jews. It is granted to those who have spiritual likeness to
+Abraham. Christ is the “seed” of Abraham, and those in Christ become recipients
+of the promise to Abraham’s seed. “Seed” did not particularly envision physical
+descendants or those legally included in the patriarch, but those who are “sons”
+of his way of being. They connect to him by having “faith” like his,
+interpersonally rather than biologically or legally. Descendants do tend to
+reflect their parents’ values, and family values should be in all the family
+members. But the physical connection is not what makes life good; it is the
+values and their correlating behaviors and attitudes that makes it good. Other
+people who adopt Abraham’s family values are closer to him than physical
+children. “Seed,” then, is both generic and collective: it refers to a type of
+person and by extension to all the individual persons of that type. Anyone who
+is of Christ is a son of Abraham by inclusion in Christ. Christ, so to speak,
+is the “seed-type,” and everyone identified with him is a “seed-kernel” within
+the type; such persons are saved and blessed.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> Throughout his discussion, Paul casts
+this salvation message in the imagery and terminology of inheritance because
+the original promise was conveyed in inheritance language. He deals mostly with
+the Jew-Greek distinction because it was the one that called forth the letter,
+but in<b> 3</b>:28 he generalizes his point to some like cases, adding
+male-female and bond-free. So the inclusion principle is not based on nationality,
+societal status, or sex. The statement that there is no bond-free, male-female,
+Jew-Greek parallels <i>joint heirs</i> in Romans <b>8</b>:17; Ephesians<b> 3</b>:6
+(re nationality; cp. Galatians <b>3</b>:14) and in 1 Peter<b> 3</b>:7 (re
+wives). It parallels <i>no respect of persons</i> in Ephesians <b>6</b>:9 and
+Colossians <b>3</b>:25 (re master-slave) and Acts <b>10</b>:34; Romans <b>2</b>:10-11
+(re nationality).<span style='position:relative;top:-3.0pt'>3</span> It equals
+“Christ is <i>all in all</i>” (Colossians <b>3</b>:11) and “there is <i>no
+distinction</i>” (Romans <b>3</b>:22; <b>10</b>:12). On different occasions
+Paul varies the number of entries in the sets. Romans <b>2</b>:10; <b>3</b>:29;
+<b>9</b>:24; <b>10</b>:12; <b>15</b>:9 and Ephesians <b>2</b>:11-<b>3</b>:12
+are among several that concentrate on one—Jew and Greek. 1 Corinthians <b>12</b>:13
+names two—Jew and Greek, bond and free. Colossians <b>3</b>:11 lists three—Jew
+and Greek, barbarian and Scythian, bond and free. In all these cases, faith is
+the only relevancy. In the kingdom of God, no one is debarred on any other
+basis than lack of faith.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:6.0pt;
+margin-left:0in;text-align:justify'><span style='font-size:12.0pt'>Reasons for
+the sets in Galatians <b>3</b>:28</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> We may ask two questions about the list
+in Galatians <b>3</b>:28. First, what is <i>common</i> to the three sets? Obviously,
+the pairs are alike in being objects of salvation through Christ. Since Paul
+indicates that the only relevancy for salvation is faith, the pairs are also
+alike in referring to those who can have faith. Consequently, all kinds of <i>persons</i>
+are potential for covenant membership and inheritance of blessings. In terms of
+creation language, the kind of thing God intended in his promise to faithful
+Abraham was appropriate to everyone who has the creatable image, the
+interpersonal capacity.<span style='position:relative;top:-3.0pt'>4</span>  </span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> Second, is there anything <i>peculiar</i>
+to these sets? Did Paul have any special reason for listing these three
+distinctions? (a) He may have mentioned them, of course, simply as examples of
+irrelevant distinctions<i>. </i>He could just as well have said rich and poor,
+married and unmarried, old or young, barren or with children, and so on.<span
+style='position:relative;top:-3.0pt'>5</span> Galatians <b>3</b>:28 is <i>unique</i>
+in including male-female as an irrelevant difference. </span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> (b) Paul may have mentioned the
+distinctions in <b>3</b>:28 because they were suggested by ancient Near Eastern
+inheritance customs. The inheritance theme lies in both the preceding and
+succeeding material (<b>4</b>:7). <i>Slaves</i> did not inherit except perhaps
+after being adopted as heirs or in situations where there were no biological
+descendants (Genesis <b>15</b>:1-4). <i>Non-family members</i> did not inherit
+unless there was no one left in the immediate family (Numbers <b>27</b>:8-11);
+circumcision was a “family” sign. Among Jews, <i>females</i> did not inherit
+except when there were no sons (Numbers <b>27</b>:1-8; <b>36</b>:1-13).<span
+style='position:relative;top:-3.0pt'>6</span> Inheritance customs dictated that
+physical descendants, freemen, and sons were heirs. Since the blessing promised
+to Abraham was conveyed in inheritance terms, Paul may have listed these three
+sets as adjustments to the inheritance model for access to salvation; receiving
+the blessing of Abraham is not like inheritance in every way. God’s blessing
+and promise consist of personal relationship and its consequences, and are
+awarded on the basis of interpersonal factors; so the objects of the blessing
+and promise were not affected by the kinds of distinctions that affect the
+transfer of physical property or family privilege.<span style='position:relative;
+top:-3.0pt'>7, 8</span></span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> Another way to ask why the three items
+are listed is to ask why <i>male and female</i> is in the list. Perhaps it is
+suggested by the covenant sign since women were not circumcised in Judaism. Circumcision
+was a kind of citizenship paper that a person carried in his flesh. This kind
+of citizenship mark did not apply to women. The nature of the covenant and the
+nature of the sign of the covenant have to correspond. The new covenant is not
+the kind where the covenant sign could be the sort it was under Mosaism or the
+land-and-lineage aspect of the Abrahamic covenant itself. In other words, the
+Christian covenant is a spiritual covenant, not a fleshly one. Since the
+covenant with Abraham was also with his “seed,” there is an inheritance factor
+in the setting, and Paul draws on that language in his presentation. Inheritance
+language, then, is especially apt for explaining the <b>3</b>:28 list, because
+it offers a contextual reason for including the male-female variable. </span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:6.0pt;
+margin-left:0in;text-align:justify'><span style='font-size:12.0pt'>Proscription
+against bondage </span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> Instead of reading Galatians <b>3</b>:28
+as a statement about salvation from sin, it has been taken as a statement about
+salvation from bondage—bondage to Jewish laws and traditions. The verse thus
+warns against regressing into customs and laws based on distinctions outdated
+in Christ. Since male-female is one of the distinctions Paul mentions, it
+should be discarded as a feature of Christian practice. That means discarding
+male-female as a factor relevant to role assignments.<span style='position:
+relative;top:-3.0pt'>9</span></span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> This reconstruction sounds plausible
+because it incorporates terms and topics that do appear in the context. But it
+does not pick up on them the way Paul discusses them. His “bondage” theme is
+not in regard to <i>items in the Mosaic Law</i>, but in regard to <i>law itself</i>,
+especially law-keeping (“works”) as a basis for fellowship with God. Being
+released from law does not mean being released from the specific expectations a
+law contains. Those are subsequent issues determined by the new setting, by the
+nature of persons and personal relationship, by male-female relative gifting,
+and by the division of labor necessary for fulfilling kingdom purposes. Expectancies
+and values do not have to be imbedded in law; interpersonal relationship (“faith”)
+also contains expectancies and values, perhaps just as many, perhaps the same
+ones; and it holds up the same perfection standard with respect to them. The “bondage”
+issue is not a bondage to values and expectancies, but to legal perfection in
+such matters. If the point of release from bondage to law meant release from
+specific expectancies contained in a law—female deference, for example—one
+wonders whether a person could disregard moral expectancies as well. The
+release from bondage that Paul discusses is not a release from male final
+responsibility, but from personal perfection under law. The Abrahamic promise
+released a person from that personal perfection requirement for salvation.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> Among other things, Judaizing teachers
+were trying to mix initial salvation through Christ (“faith,” “spirit”) with
+continued salvation by law keeping (“works,” <b>3</b>:2). They thought Gentile
+converts should be circumcised and keep the Law of Moses (Acts <b>15</b>:5, <i>etc</i>.).
+There were two things wrong with this idea. First, circumcision identified
+people with <i>National Israel</i>, which, coming 430 years later, was a
+secondary and temporary feature added to the earlier Abrahamic promise (<b>3</b>:17).
+So being included in Abraham’s seed did not have anything to do with being
+under the Mosaic Law. In a similar argument in Romans <b>4</b>, Paul adds that God
+gave the promise to Abraham even prior to circumcision. A political dimension
+was not essential to the people of God. </span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> Second, circumcision theoretically
+committed people to success at personal perfection by identifying them with the
+<i>Law</i> of National Israel. Paul tells them in effect, <i>“You cannot begin
+with trust in Christ [initial salvation] and finish with works of law
+[continued salvation]”</i> (<b>3</b>:3). If Christ was needed because people
+could not maintain personal perfection before, why think they could do so now? What
+use would Christ be if all he gave were initial salvation? The Law creates
+bondage to a perfection people cannot achieve, and, therefore, a bondage to sin
+they cannot escape. In Christ, people are released from the need to achieve
+perfect righteousness for (being viewed as righteous unto) fellowship with God.
+In inheritance terms, for Jews, reverting to law after being under faith is
+like becoming a minor again, during which time a son is no better off than a
+slave, because he is too young to inherit the benefits of sonship (<b>4</b>:1-3).
+It is like reverting to slavery after becoming a freeman. For Gentiles it is
+even worse. That is the sense in which the bondage theme relates to Paul’s
+discussion.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> A point of consistency may also be raised
+if bondage in Galatians <b>3-4</b> means bondage to Jewish customs like
+sex-role distinctions. Paul denied in no uncertain terms that Christians should
+follow these traditions. If even an angel from heaven preached what they were
+advocating, he should be accursed (<b>1</b>:6-9)! The Galatians were bewitched
+and foolish (<b>3</b>:1-3)! They were fallen from grace and separated from
+Christ (<b>5</b>:4)! Paul’s message was incompatible with the Judaizing agenda.
+If Jewish role distinctions were included in the bondage that Paul so
+strenuously opposed, how could he turn around and ordain these very practices “in
+all the churches” (1 Corinthians <b>14</b>:33-34[?]; cp. 1 Timothy<b> 2</b>:8;
+1 Corinthians <b>4</b>:17;<b> 7</b>:17; <b>11</b>:16) even if he did so only as
+a concession to cultural expectancies? The adamant language of Galatians would
+disallow such concessions even as a way to keep from hindering the progress of
+the gospel. </span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> At any rate, Paul’s topic is salvation;
+his talk about bondage has to do with bondage to law’s personal perfection
+requirement. The male-female connection is that gender has no bearing on “inheriting”
+God’s promise through Abraham’s “Seed,” the Messiah.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><b><span
+style='font-size:12.0pt'>&nbsp;</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:6.0pt;
+margin-left:0in;text-align:justify'><span style='font-size:12.0pt'>The
+secondary heterogeneity in lists </span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> Galatians <b>3</b>:28 could involve women’s
+roles if secondary characteristics of items in a list necessarily possessed
+homogeneity. The reasoning would go as follows: the Jew-Gentile and the
+master-slave distinctions are unnecessary and even harmful, so the male-female
+distinction is unnecessary and undesirable. Since we agree that Jew <i>vs</i>.
+Gentile and bond <i>vs</i>. free would have no place in determining roles, we
+can conclude that male <i>vs</i>. female has no place in determining roles. </span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> But the assumption that would justify such
+an inference is not true. That listings are not necessarily homogeneous beyond
+the originating principle is clear from a couple examples. The qualification
+lists for elders and deacons (1 Timothy <b>3</b>:2-12; Titus <b>1</b>:6-9)
+combine moral matters and leadership characteristics. In Acts <b>15</b>:20, 29
+the same list combines moral matters (fornication) and expediencies (eating
+things sacrificed to idols).<span style='position:relative;top:-3.0pt'>10</span> Elsewhere,
+Paul treats eating things sacrificed to idols as a matter of expediency (1
+Corinthians <b>8</b>; <b>10</b>:23-33). Under proper conditions a person could
+do what Acts <b>15</b> actually prohibits, which means it is not necessarily a
+moral matter even though it is listed beside a moral matter. So wisdom, a
+larger category than commandment, is the organizing principle in Acts <b>15</b>;
+but in Paul’s treatment of the matter, he includes comments about theory. Lists,
+then, are not necessarily homogeneous.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> Since lists are not homogeneous beyond
+the author’s point of interest, we cannot exegetically claim that some second
+characteristic of one or two entries must be true also of the others. If the
+impropriety of slavery argues for the impropriety of sex roles, it argues for
+the impropriety of national distinctions among Christians since there is
+neither Jew nor Gentile. Unlike Jew-Gentile or master-slave, male-female is not
+rooted in anything conceivably fallen or conventional. Male-female is a created
+difference pronounced good from the beginning. Any relative gifting or role
+emphases implicit in that created difference are likewise good. God created the
+male-female difference; he temporarily established the Jew-Gentile distinction;
+but man created the master-slave distinction.<span style='position:relative;
+top:-3.0pt'>11</span> Even within Christ the distinctions Paul lists do, in
+fact, exist: there <i>are</i> male and female (Genesis<b> 1</b>:27; <b>5</b>:2;
+<i>etc</i>.; Matthew <b>19</b>:4 = Mark <b>10</b>:6); there <i>are</i> national
+distinctions; there <i>are</i> slave and free. Whether any of these <i>ought</i>
+to exist in non-salvific matters is appropriate to ask; but that is a further
+question answered by other information rather than by over-interpreting
+Galatians<b> 3</b>:28. </span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> By the <i>nature of language</i>, a
+statement does not mean everything it could be used to mean (linguistics), but
+what the writer intends it to mean here (authorial intent). <i>“There is no
+male and female in Christ”</i> should not to be taken in every sense
+conceivable, but in the sense that Paul means it as determined by near ad
+distant context. </span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> Galatians<b> 3</b>:28 is not even a
+free-standing proverb, but a statement embedded in a <i>context</i>. Consequently,
+it is not an absolute statement from which only provable exceptions we may
+subtract; that would place undue burden on the negative, although some readings
+could still be eliminated by the analogy of scripture. Besides justifying (a)
+homosexuality, the words could affirm (b) Gnostic superspirituality, an
+asceticism expressed in celibacy among other things (1 Timothy <b>4</b>:3). It
+fostered a lifestyle built on hypostatic dualism that led to denying fleshly
+appetites as evil, sexual drives included. What proves too much does not prove
+what it seems to prove. Likewise, women’s roles in Christ are not necessarily
+affirmed in Galatians <b>3</b>:28, because Paul has placed his words in a
+context about access to Christ. </span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> By the nature of language <i>convention</i>,
+lists are not necessarily homogeneous beyond their thematic principle. Consequently,
+the hermeneutical process must move from exegesis to theological
+interpretation. </span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
+margin-bottom:6.0pt;margin-left:0in;text-align:center'><span style='font-size:
+12.0pt'>Theological Interpretation</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> Since the “no-distinction clause” in
+Galatians does not refer to roles, any connection it has with roles must come
+from systematic inference. The proper question then is how an interpreter can
+legitimately move Galatians<b> 3</b>:28 onto a subject Paul is not discussing.<b>
+</b></span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><b><span style='font-size:12.0pt'> </span></b><span style='font-size:
+12.0pt'>At this juncture, the full interpretation task becomes more subject to
+error because the communication between author and reader is more reader-side
+intensive. The reader’s reasoning can be affected by incorrect
+pre-understandings about the nature of the case, by the impact of personality
+on the biblical truth, by expectancies in contemporary culture, by practical
+pressures, and so on.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><b><span
+style='font-size:12.0pt'>&nbsp;</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:6.0pt;
+margin-left:0in;text-align:justify'><span style='font-size:12.0pt'>Implications
+for leadership roles </span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> Although the context of Galatians <b>3</b>:28
+deals with salvation instead of roles, we are prepared to say that the text
+does connect with other subjects besides access to salvation, including
+marriage and formal leadership ministry. First, by generalization to like
+cases, we can say that the “no-distinction clause” applies to everyone created
+in God’s image, to everyone with the interpersonal capacity. Amoral
+distinctions between those endowed with personhood are naturally irrelevant. </span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> Second, equal access to salvation
+(vertical) implies the equal basic <i>worth</i> of persons, which in turn has
+social implications (horizontal), because positive attitudes must operate in
+both directions between non-germane variants. </span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> Third, the equal worth of persons
+eliminates higher <i>rank</i> as a basis for superior worth. God’s like
+attitude toward all classes of humanity removes any justification for humans
+themselves to distinguish between classes in regard to worth. </span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> Fourth, prioritizing the interpersonal
+category shapes the <i>manner</i> in which all human interaction takes place,
+whether in ministry, marriage, parenting, leadership, evangelism, or elsewhere.
+The characteristics of positive interpersonal relationship are retained rather
+than set aside in these more specialized settings for personal interaction. Interpersonal
+principles qualify operations in more specialized settings and establish
+boundaries on appropriate procedure. </span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> Fifth, within the ultimately
+interpersonal framework, <i>influence</i> precedes authority (and force) as the
+means by which leaders fulfill responsibility. They accomplish as much as
+possible by the dynamics of the fundamental reality (influence) before
+appealing to distinctives in the more specialized settings themselves
+(authority). And influence is a dynamic present with all persons, formal and
+natural leaders alike. Mature leadership, whether by male or female, follows
+the pattern dictated by the equal worth of human persons, which dissociates
+relative worth from different rank or variant ability. </span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> Sixth, there is a sense in which the
+primary category implies something even about the <i>identity</i> of those in
+formal leadership roles; they are first natural leaders, people mature enough
+to lead in the manner of influence before authority.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> It should be noted that this analysis
+appropriately derives from <i>any</i> text that implies the priority of the
+interpersonal category or implies the equal worth of persons in Christ. The
+fact that Galatians <b>3</b>:28 mentions male and female in so doing gives it
+no extra value in this regard, because the implications for roles do not come
+directly from the “male and female” verbiage, but indirectly from the larger
+human category to which the full list of irrelevancies points. </span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:6.0pt;
+margin-left:0in;text-align:justify'><span style='font-size:12.0pt'>Paralleling
+rank and worth</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> Much of the impetus for connecting
+Galatians<b> 3</b>:28 with equal access to roles comes from the assumption that
+rank correlates with worth. That concept supplies the connecting link between
+the equal worth of persons implied by Galatians <b>3</b>:28 and the otherwise
+unnatural inference that male and female have interchangeable roles. Long ago
+when the modern women’s movement began to exert its influence within the
+church, Virginia Mollenkott expressed the idea this way: <i>“. . . if woman
+must of necessity be subordinate, she must of necessity be inferior.”</i><span
+style='position:relative;top:-3.0pt'>12 </span>Calling Galatians<b> 3</b>:28 “The
+Magna Carta of Humanity,” Paul Jewett proceeds to conclude against hierarchy in
+marriage and ministry.<span style='position:relative;top:-3.0pt'>13</span> If
+the assumed correlation between rank and worth is false, it does not bridge the
+gap.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> We perceive that women’s sense of
+personal worth is what makes gender roles such a burning issue. And that is
+certainly understandable because the drive for meaningfulness is a given in
+human nature. If we are not prepared to accept egalitarians’ theological
+interpretation of this verse, it behooves us to state briefly the alternate
+construction for self-</span><span style='font-size:12.0pt;color:windowtext'>worth
+so as to</span><span style='font-size:12.0pt'> offset the inference that would
+otherwise obtain.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> Nature, purpose, relationship, and action
+form an interacting set of bases for measuring the worth of persons. All human
+persons have an inherent worth by virtue of their common creation in the image
+of God. The subsequent factors of relationship, purpose, and action work
+together in relative fashion like members in Paul’s body figure (Romans <b>12</b>:3-8;
+1 Corinthians <b>10</b>:16-17; <b>12</b>:12-30; Ephesians <b>3</b>:6; <b>4</b>:4,
+16). The heart is not evaluated by expectations related to the purpose of the
+lungs. Likewise, God does not measure one person’s worth by the abilities and
+responsibilities he gives to someone else, but by how concertedly that person
+fulfills his own responsibility relative to his ability to perform the role. God
+would not create a contradiction, then, by correlating certain role
+responsibilities with gender and relative gifting.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> Success in competition is the world’s
+model for defining self-worth, and it is the one that underlies so much of the
+feminist rhetoric against hierarchy. It assumes individualism and equality as
+the highest good rather than membership and unity. And it will not work very
+well for very many very long. Besides, it sets individuals in contrast to each
+other instead of drawing them together. Christianity bases self-image on being
+created in the divine image, on positive vertical and horizontal relationship,
+and on service relative to purpose. It calls for a shift from works to grace
+and from competition to love as a basis for objective worth and, therefore, for
+an appropriate sense of self-worth.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><b><span
+style='font-size:12.0pt'>&nbsp;</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:6.0pt;
+margin-left:0in;text-align:justify'><span style='font-size:12.0pt'>Overextending
+the egalitarian principle</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> By equating rank and worth, the
+egalitarian viewpoint overextends an otherwise crucial insight. It carries
+interpersonalism beyond <i>how</i> Christians lead and talks about <i>who</i>
+leads. By sheer principle purportedly derived from Galatians, it dismisses the
+possibility that divine commandment or wisdom would institute gender roles.
+Absolutizing most things makes them false, and egalitarianism is no exception. Equality
+of persons does not remove the need for assigned <i>responsibility</i> and the
+supervisory <i>authority</i> concomitant to it, nor does equality eliminate
+considering the relative <i>strengths</i> of persons in assigning roles to the
+best advantage so the full range of responsibilities is covered that life in
+the home plus the church entails. The ideal is unity, which celebrates
+diversity, not equality, which fosters sameness and individualism and thereby
+weakens the positive basis for social interdependence. </span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> Truth tends to lie between extremes. But
+as with so many controversial matters, extremes beget extremes. In this case,
+overdoing order leads to overdoing freedom. In the past the problem with
+hierarchy has been the misuse of authority, so the solution is to correct the
+misuse, not to get rid of authority. A problem has come from connecting worth
+with position and ability and then overdoing ability differences between men
+and women, so the solution is to disconnect worth from rank and ability and to
+affirm the differing strengths of men and women without exaggeration, not to
+try to eradicate gifting differences. Even as passages on the equality of
+persons establish no requirement to consider everyone within the same sex
+equally qualified for every role, so also Galatians <b>3</b>:28 establishes no
+ideal for considering women and men equally qualified for every role—and there
+is no depreciation of either sex for relatively weaker capacities statistically
+speaking. The sexes have equal value and equal worth, but they may not have
+equal gifts for a given responsibility like a final leadership role. That men
+and women are not interchangeable is at least strongly suggested by other
+biblical texts beyond Galatians, and it seems to be verified also in human
+experience by the observation among other things that there has never been a
+matriarchal society.<span style='position:relative;top:-3.0pt'>14</span></span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> Egalitarians sometimes speak
+hermeneutically of identifying highest norms,<span style='position:relative;
+top:-3.0pt'>15 </span>really an acceptable idea as long as it is not done in a
+way that creates a canon within a canon. Doing the latter pits certain parts of
+scripture against other parts, which involves the practitioner in a lower view
+of scripture than we are willing to take. Furthermore, highest norms do not <i>oppose</i>
+lower ones, but <i>contextualize</i> and <i>qualify</i> them. The love standard
+in Christianity’s primary interpersonal category does qualify the way in which
+formal leadership operates, but it does not necessarily determine who should
+serve in what formal leadership roles.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> Not only by generalization do roles not
+come into Paul’s frame of reference, but they would also not come into the
+picture if roles were somehow viewed as a subset of membership. <i>Membership
+in a group is based on the purpose of the group</i>, the need people have for
+the purpose of the group, and their willingness to commit themselves to the
+purposes, values, and behaviors of that group. <i>Roles within the group are
+based on the abilities of group members</i>, which introduces the relative
+gifting concept again, circumstance needs, and the like. Salvation corresponds
+with the first issue, ministry with the second. We are all the same in God’s
+eyes, but we do not do the same things. There is a difference between whether a
+person belongs to the body and which organ in that body he is. If membership
+and roles are different matters, they can be governed by different principles
+without contradiction. As a result, if Paul says there is no male and female
+relative to gaining membership <i>into</i> the body, he does not thereby lay
+down the principle that there is no male and female relative to serving as one
+organ or another <i>within</i> the body. Therefore, Galatians<b> 3</b>:28 does
+not include egalitarianism as a subset.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> At the risk of stating the obvious, we
+note that (1) Paul says that there is no male and female, not that there is no
+husband and wife, father and mother, parents and children, elders and deacons,
+and so on. Salvation as <i>reconciliation</i> is relevant to all human persons
+because they have the <i>interpersonal</i> capacity and the righteousness need.
+Sex does not affect the relevance and therefore the availability of salvation. More
+specific issues within the sexual variant become subsequent issues—who will
+mother children and who will father them. Paul’s subject is interpersonal
+relationship, not status and role within that context.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> (2) The reason Paul gives for saying that
+there is no male and female is that we are all “one” in Christ (Galatians <b>3</b>:28).
+The sense, then, in which Paul means there is no male-female in Christ is a
+sense that fits with unity, if <i>unity</i> is what Paul means by <i>“you are
+all one.” </i>Since there can be diversity in unity, there can be different
+roles and statuses within unity, and there can be different roles and statuses
+based on sex within unity. By “one,” however, Paul more likely means <i>identity</i>,
+which results in unity. Jew-Gentile, male-female, slave-free share the same
+identity; they are “in Christ” and “of Christ” (Galatians<b> 3</b>:28-29; cp. 1
+Corinthians <b>1</b>:12-13;<b> 3</b>:23). They are parts of the same “seed”
+even as Jews and Gentiles are part of the same olive tree (Romans <b>11</b>:16b-24),
+the same lump/full-harvest (Romans <b>11</b>:16a), the same temple court
+(Ephesians<b> 2</b>:11-18), the same citizenry (Ephesians <b>2</b>:19), household
+(Ephesians<b> 2</b>:19), building (Ephesians<b> 2</b>:20-22), and other images
+New Testament writers use to express the common identity and purpose of those
+who are “in Christ” and “of Christ.” From the reason something is stated, we
+can infer what the statement itself means.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:6.0pt;
+margin-left:0in;text-align:justify'><span style='font-size:12.0pt'>The parallel
+to Joel </span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> Another way to connect Galatians <b>3</b>:28
+with ministry has been to consider it a restatement of Joel<b> 2</b>:28-32. The
+two texts are paralleled by connecting <i>“no Jew/Gentile”</i> with <i>“all
+flesh”</i> and <i>“whoever will call on the name of the Lord.”</i> <i>“No
+bond/free”</i> corresponds with <i>“on my servants and on my handmaidens . . .
+I will pour out my Spirit.”</i> <i>“No male/female”</i> answers to <i>“your
+sons and your daughters will prophesy.”</i> The outpouring of the Spirit on men
+and women in Joel is in regard to revelation and proclamation, </span><span
+style='font-size:12.0pt;color:windowtext'>which is</span><span
+style='font-size:12.0pt'> then compared to Galatians<b> 3</b>.<span
+style='position:relative;top:-3.0pt'>16</span></span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> Although the parallel is interesting,
+there is no reason to think that Paul had Joel in mind. Since there are only so
+many typical classifications of people, an undesigned overlap between Galatians
+and Joel is not surprising. The overlap is not complete; there is no age
+distinction in Galatians as there is in Joel. But the significant point is not
+that the lists overlap, but that the purposes of the overlapping lists are
+different. While Joel talks about proclamation, Galatians talks about
+salvation. Comments about the second do not necessarily have implications for
+the first. Joel does not say whether there will be any difference between the
+way sons and daughters prophesy; the “no-distinction clause” appears, not in
+Joel, but in Galatians and in regard to another subject; mixing the two
+passages creates an artificial hybrid.   </span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> Furthermore, the point of current debate
+is not women in ministry, but women in authoritative ministry over men. Joel is
+not talking about the traditional concern raised by 1 Timothy <b>2</b>, which
+is thought to contradict Galatians <b>3</b>. Women have any number of outlets
+for prophesying that have nothing to do with the limitation in 1 Timothy.
+Galatians, 1 Timothy, and Joel are talking about three different issues: salvation,
+authoritative ministry, and proclamation ministry without further definition. <i>Prophesying</i>
+is nowhere forbidden to women, and that is what Joel predicts; <i>authoritative
+teaching</i> is what 1 Timothy disallows.<span style='position:relative;
+top:-3.0pt'>17</span> We do not go to Joel to find out what Paul means in
+Galatians, because paralleling the two texts rests on the same assumption that
+makes Galatians speak about ministry in the first place. The approach simply
+restates the original claim that the “no male-female clause” in <b>3</b>:28
+applies to formal ministry by women over men.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:6.0pt;
+margin-left:0in;text-align:justify'><span style='font-size:12.0pt'>Traditional
+attitudes toward women </span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> Another way of trying to associate
+Galatians<b> 3</b>:28 with ministry is to see it on the background of Jewish
+and even Hellenistic sayings that thank God for not making someone a woman.<span
+style='position:relative;top:-3.0pt'>18</span> Galatians becomes a corrective
+on such degrading views of women. Again, the difficulty comes from imagining
+such sayings as the context for <b>3</b>:28 rather than observing the context
+that is actually here for all to see. Furthermore, if <b>3</b>:28 is correcting
+such Jewish notions, it corrects degrading women’s <i>worth</i>, </span><span
+style='font-size:12.0pt;color:windowtext'>which is</span><span
+style='font-size:12.0pt'> simply different from <i>roles</i>. Only by
+correlating rank and worth does abandoning negative evaluations of women
+pertain to abandoning the female deference principle. Finally, how apt is Paul
+elsewhere to advocate Jewish traditional prejudices if he is consciously
+offering <b>3</b>:28 as a corrective on Jewish tradition</span><span
+style='font-size:12.0pt;color:windowtext'>, which is</span><span
+style='font-size:12.0pt'> one explanation for the supposed tension between
+Galatians <b>3</b> and 1 Timothy <b>2</b>? Putting<b> 3</b>:28 in <i>conscious</i>
+opposition to Jewish tradition decreases the likelihood that we can account for
+Paul’s “inconsistency” by claiming <i>unconscious</i> insight in Galatians in
+contrast to enjoining Jewish practices regarding women in his other writings.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:6.0pt;
+margin-left:0in;text-align:justify'><span style='font-size:12.0pt'>The
+pristine-fallen-restored scenario</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> A further elaboration of the egalitarian
+reading of our text places that reading in a larger scenario about pristine, fallen,
+and redeemed humanity. Those stages parallel an equal-subordinate-equal pattern
+for women. Although we cannot respond in particular to each point in this
+larger format, we can indicate some general comments without elaboration. (1)
+The New Testament seems to base the female deference principle on pre-Fall
+considerations as well (1 Corinthians <b>11</b>:8-10; 1 Timothy <b>2</b>:13-14).
+(2) Not everything mentioned in Genesis <b>3</b>:7-24 necessarily differs from
+what it was before the Fall. (3) Christ has not—or at least not yet—reversed
+other aspects of the “curse” listed in Genesis<b> 3</b>. Furthermore, (4) we do
+not agree that subordination needs to be viewed a cursed condition. Finally,
+(5) Paul also appeals to post-Fall factors as a basis for Christian practice (1
+Corinthians <b>14</b>:34 &lt; Genesis <b>3</b>:16; cp. 1 Corinthians <b>11</b>:3;
+Ephesians <b>5</b>:23).</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> Crucial to the proper handling of
+Galatians <b>3</b>:28 is the fact that Paul is not primarily talking about
+something that is part of a time sequence. He is not contrasting the way things
+are in Christ with the way they were before, but the way things are in Christ
+with the way they are outside of him. The principles for being “in Christ” are
+not a <i>change</i> from <i>before</i>, but a <i>contrast</i> to <i>alternatives</i>.
+It is not so much something present <i>vs</i>. something past as it is one sort
+<i>vs.</i> another sort. It is not a <i>change</i> in God’s way of doing things
+so much as a re-affirmation of the way God has always done things. The issue
+involves what is secondary <i>vs</i>. what is primary. The promise to Abraham
+is a more basic frame of reference than the Mosaic Law and National Israel as
+shown by the fact that <i>promise</i> preceded <i>law</i> (<b>3</b>:15-29) and
+even <i>circumcision</i> (Romans<b> 4</b>:9-12), and the Law did not annul the
+former, more basic system (<b>3</b>:15-17). Mosaism was a temporary add-on for
+practical purposes, not theological or soteriological ones. Time comes into the
+picture only because in this instance what was secondary was also temporary. If
+we want to identify a sequence, it is not the pristine-fallen-redeemed scenario
+that egalitarianism wants to talk about, but the Abrahamic-Mosaic-Christian
+series that Paul does talk about, a faith-(works)-faith series. In fact,
+however, salvation by faith is not in a series, because it was true before the
+time of the Law, even during the time of the Law, and in the Christian era. Faith-grace-promise
+has always been the governing reality for relationship to God. In other words,
+salvation has always been interpersonal. Paul’s frame of reference returns to
+Abraham in his state of uncircumcision, not to Adam and Eve in their unfallen
+condition.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:6.0pt;
+margin-left:0in;text-align:justify'><span style='font-size:12.0pt'>Male and female</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> Related to the previous scenario is the
+proposal that Paul meant something significant to our question by saying male <i>and</i>
+female rather than male <i>nor</i> female. The other two sets in <b>3</b>:28
+are joined by <i>nor</i>. (a) Placing Galatians <b>3</b>:28 in the egalitarian
+scenario and emphasizing the use of <i>and</i> rather than <i>nor </i>has
+sometimes been done in the interests of calling for a supposed return to the
+pre-Fall condition. But that cannot explain the <i>and</i> phraseology, because
+Paul would then be <i>denying</i> the pre-Fall condition, not affirming it: <i>“there
+is not male and female . . . in Christ.”</i> The idea that the battle of the
+sexes is over is not a bad idea in itself, but that is not the meaning of Paul’s
+expression. Hierarchical arrangement is not competition or a battle for worth. American
+individualism makes equality rather than unity the highest good among persons. With
+equality in first place, the basis for worth comes from success in competition
+instead of contribution to the common cause, creation in the image of God, and
+positive interpersonal behavior. </span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> The peculiar nuances that could pertain
+to the format of the male-female statement, however, do not affect whether the
+verse has much connection with sex roles, because more likely explanations
+exist for that format. (b) The male-and-female format may be due simply to the
+familiar creation language in Genesis 1. In all the texts of Genesis the
+various LXX (Septuagint) editions combine male and female in this order and
+join them by <i>and</i> whether speaking of humans or animals (eleven cases). (For
+an elaboration of relevant data, see “Addendum: Male and Female,” below.) The
+phrase had perhaps become a <i>set expression</i> in the minds of people raised
+on the Greek Old Testament. It may well be that in these original contexts the “and”
+wording did reflect the complementary nature of the sexes.<b> </b></span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><b><span style='font-size:12.0pt'> </span></b><span style='font-size:
+12.0pt'>(c) Paul’s similar listing in Colossians <b>3</b>:11 puts <i>and</i> between
+the pairs that have <i>nor</i> (</span><span lang=EL style='font-size:12.0pt'>οὐδέ</span><span
+style='font-size:12.0pt'>, <i>oude</i>) between them here. 1 Corinthians<b> 12</b>:13
+uses <i>or</i> (</span><span lang=EL style='font-size:12.0pt'>εἴτε</span><span
+style='font-size:12.0pt'>, <i>eite</i>). Galatians <b>3</b>:28 is the only
+text, however, that mixes the “and/nor” terminology; so the switch could be
+intentional. But it is doubtful whether the change of conjunctions indicates
+anything obvious. </span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> (d) The different format may imply that
+male and female are complements whereas Jews and Gentiles as well as bond and
+free are opposites. The former are conjunctive and the latter are disjunctive. In
+the last two sets, a person could move from one alternative to the other, but
+that cannot happen with male and female. </span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> The “and” format is like paralleling
+Galatians <b>3</b> with Joel <b>2</b>, putting it on the background of
+traditional attitudes toward women, or making it part of a pristine-fallen-redeemed
+scenario. Without a correlation between worth and rank, suggestions like these
+cannot sustain the egalitarian viewpoint from this text.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><i><span style='font-size:12.0pt'>&nbsp;</span></i></p>
+
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
+margin-bottom:6.0pt;margin-left:0in;text-align:center'><span style='font-size:
+12.0pt'>Summary and Prospect</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> Earlier in this essay <i>“no male and
+female”</i> was rejected as an absolute principle because, among other things,
+it would then contradict Paul’s clear teaching elsewhere against homosexuality and
+superspirituality. We did not claim that it would also contradict clear
+teaching elsewhere about husband-wife relationships in the home and the church.
+We left that claim unsaid because those who use Galatians <b>3</b>:28 to state
+the egalitarian principle do not agree that the male headship principle is
+indeed a clear New Testament teaching. Consequently, the study of women’s roles
+must move beyond the scope of this study to an evaluation of the positive case
+for hierarchy and the female submission principle. </span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> The case for hierarchy must be structured
+to address the gender-equity viewpoint in its best formulation. (a) Hierarchy
+needs to be presented hermeneutically in a way that by parity of reason it
+appropriately handles veil-wearing and slavery as control cases. (b) It must be
+understood also in a way that accounts for all the activities we find women
+actually doing in scripture. (c) It must conscientiously endeavor to avoid the
+confusing effects caused by the interpreter’s own personality, cultural
+expectancy, previous experience with the significant women in his life, and
+pre-understandings that unconsciously shape the reading of relevant texts.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> From the standpoint of Galatians <b>3</b>,
+however, we express the following convictions. (1) Using “no male and female”
+to state the egalitarian concept <i>accommodates</i> Paul’s words to a foreign
+concern in the reader’s interests. (2) By the nature of the case, Galatians<b>
+3</b>:28 does not establish egalitarianism as <i>most ideal</i>. (3) Much less
+does it <i>eliminate </i>the possibility of gender roles. </span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> Correctly reading Galatians <b>3</b>:28
+is a matter of “sticking to the subject.” Sometimes Paul’s words are simply
+misquoted as a statement of gender equity, as if he were directly discussing
+roles. At other times the text is accommodated to gender equity because people
+have first misgeneralized the words to that concept through an incorrect <i>theory
+of worth</i>, a misformulated <i>theory of leadership</i>, or a misidentified <i>summum
+bonum</i> among persons. (a) Variant rank or ability does not correspond with
+variant worth; unequal rank or ability does not contradict equal worth. (b)
+Christian leadership occurs first through interpersonal influence, but secondly
+through responsible authority. Leadership only by influence or primarily by
+authority misrepresents the ideal either by omitting one factor or by putting
+the two factors in the wrong order theoretically and practically. (c) The
+highest good among persons is their harmonious relationship in the common
+divine purposes. Correctly understanding all three of these concepts derives
+from seeing interpersonalism as the ultimate reality in the Christian
+worldview. It is that last concept, if any, that is implied by Galatians<b> 3</b>:28.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> Setting aside the target text as a
+statement of egalitarianism does not depend on first believing that other clear
+teaching about male headship eliminates the egalitarian reading here. If
+egalitarianism is true, it is not a truth learned from Paul’s statement, <i>“There
+is no male and female because you are all one in Christ Jesus.”</i></span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'>              </span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
+margin-bottom:6.0pt;margin-left:0in;text-align:center'><span style='font-size:
+12.0pt'>Endnotes</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> <span style='position:relative;
+top:-3.0pt'>1</span>For a helpful presentation of classical feminism, see
+Christina Hoff Sommers, <i>Who Stole Feminism? How Women Have Betrayed Women</i>
+(New York: Simon &amp; Schuster, 1994). She writes as a secular “equity
+feminist” against the extremes of “gender feminists.” The former call for equal
+opportunity for women in all areas with men in contrast to a gender-roles
+system, affirmative action, or a sexless society. Gender feminism, however,
+sees patriarchy as a universal social system based on a worldview of male
+oppression and calls for radical restructure of society away from sex reference
+altogether or—even more extreme—calls for re-creating humankind in terms of
+feminine reality as informed by gender feminists’ self-perception. The former
+viewpoint has most influenced the evangelical community, and is therefore the
+one that our study has in mind as it explores the direct and indirect meanings
+of Galatians <b>3</b>:28.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt;position:relative;top:-3.0pt'>   2</span><span
+style='font-size:12.0pt'>Among many authors, see Howard C. Kee, <i>Christian
+Origins in Sociological Perspective</i> (Philadelphia: Westminster, 1980), p.
+91.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt;position:relative;top:-3.0pt'> 3</span><span
+style='font-size:12.0pt'>It might correspond also with the “callings” of 1
+Corinthians <b>7</b>:10-28a: slavery, nationality, and marriage. In these three
+respects, Paul says that converts are to remain in the calling they had before.
+Another question is whether “male <i>and</i> female” in Galatians <b>3</b>:28
+might mean marriage. If so, it would eliminate the idea that the three sets are
+mentioned because of their connection with inheritance customs.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> <span style='position:relative;
+top:-3.0pt'>4</span>Since scripture uses <i>imago dei</i> terminology in more
+than one sense, we distinguish between “creatable image” and “ethical image.” The
+first usage occurs in Genesis <b>1</b>:26; <b>5</b>:1; <b>9</b>:6; 1
+Corinthians <b>11</b>:7; and James <b>3</b>:9; the second appears in Romans <b>8</b>:29
+(or eschatological image?); 2 Corinthians <b>3</b>:18; and Colossians <b>3</b>:10.
+“Likeness” is not used in the ethical sense in comparisons of men and God (Genesis
+<b>1</b>:26; <b>5</b>:1; Acts <b>14</b>:11; <b>17</b>:29; Romans<b> 8</b>:3;
+Philippians <b>2</b>:7; 1 John <b>3</b>:2).</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> We take interpersonal capacity as the
+meaning of the creatable image for reasons too complex to elaborate
+satisfactorily here. (a) Interpersonal capacity fits well with the parallelism
+between “us” and “them” (<i>relational being</i>; Genesis <b>1</b>:26-28a);
+Father-Son-Spirit we understand to be the one interpersonal God (note John<b>
+14</b>:16). (b) The “dominion mandate” calls for personal capacities (<i>responsible
+being</i>). (c) Forbidden fruit implies <i>ethical being</i>. (d) “God
+said/Satan said” deals with<i> communicative being</i>. Responsibility, ethics,
+communication, and the like call for the abilities we understand to be
+associated with personhood: primary abilities like reason, will, conscience,
+affection, and derivative capacities like self-transcendence, self-image, and
+the sense of aesthetics. Interpersonal capacity has the advantage of being
+holistic rather than reductionistic, as views of the (creatable) image have
+often become historically.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'>   <span style='position:relative;
+top:-3.0pt'>5</span>Besides irrelevancies to <i>salvation access</i>, Romans <b>14
+</b>and other texts identify a wide range of irrelevancies to <i>Christian
+practice</i>. </span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt;position:relative;top:-3.0pt'>6</span><span
+style='font-size:12.0pt'>Job’s daughters, however, inherited equal portions
+with their brothers (Job <b>42</b>:15).</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> <span style='position:relative;
+top:-3.0pt'>7</span>Jack Cottrell likewise concludes that the three
+distinctions in<b> 3</b>:28 are due to the inheritance metaphor. See <i>Gender
+Roles and the Bible: Creation, the Fall, and Redemption: A Critique of Feminist
+Biblical Interpretation</i> (Joplin: College Press, 1994), pp. 272-83. He links
+the distinctions more specifically to Mosaic inheritance laws, because Paul’s
+point of contrast is between Christ and the Law. We have taken the connection
+more generally with Near Eastern custom because the Abrahamic promise was
+conveyed in an inheritance metaphor. The metaphor itself was somewhat deficient
+for communicating access to a faith covenant. The rest of Paul’s presentation
+features a contrast between Mosaism and the prior Abrahamic covenant, but
+Mosaic inheritance rules did not differ from those of Abraham’s day in these
+three ways. Consequently, the contrast that would suggest Paul’s distinctions
+would come instead from the difference between the physical and spiritual
+components in the total Abrahamic covenant promise (Genesis <b>17</b>:1-14; <b>13</b>:14-17).
+Paul would not be adjusting Mosaic inheritance laws to the characteristics of
+the Abrahamic covenant promises; he would be adjusting the inheritance metaphor
+itself in the covenant promise.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> <span style='position:relative;
+top:-3.0pt'>8</span>Inheritance imagery may also explain why Paul says Jews <i>vs</i>.
+Gentiles in Galatians<b> 3</b>:28 rather than circumcised <i>vs</i>.
+uncircumcised, which is often the way he puts the same point. The difference is
+that Jews <i>vs</i>. Gentiles is a family statement and therefore coextensive
+with inheritance patterns. Circumcision was a family’s sign, which does not
+stress <i>who</i> the heirs are.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> <span style='position:relative;
+top:-3.0pt'>9</span>See Alvera Mickelsen in <i>Women in Ministry: Four Views</i>,
+eds. Bonnidell Clouse and Robert G. Clouse (Downers Grove: InterVarsity, 1989),
+pp. 204-5.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt;position:relative;top:-3.0pt'> 10</span><span
+style='font-size:12.0pt'>Acts <b>15 </b>may envision only the <i>sympathetic</i>
+eating of things offered to idols whereas Paul is concerned about a stronger
+brother misleading a weaker brother by his misunderstood example.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt;position:relative;top:-3.0pt'> 11</span><span
+style='font-size:12.0pt'>Paul may imply something negative about slavery in 1
+Corinthians<b> 7</b>:21: <i>“But if you are indeed able to become free, use it</i>
+[freedom<i>] rather.”</i> An alternate translation might be, <i>“Nay, although
+you are able to become free, use it</i> [slavery] <i>all the more.”</i> Since
+there is a translation question about the verse, the point cannot be pressed
+here.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> <span style='position:relative;
+top:-3.0pt'>12</span>See the “Foreword” of Paul K. Jewett’s <i>Man as Male and
+Female: A Study in Sexual Relationships from a Theological Point of View</i>
+(Grand Rapids: Eerdmans, 1975), p. 8.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> <span style='position:relative;
+top:-3.0pt'>13</span><i>Women in Ministry: Four Views</i>, pp. 142ff.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> <span style='position:relative;
+top:-3.0pt'>14</span>Steven Goldberg, sociologist at City University of New
+York, argues this viewpoint convincingly in <i>Why Men Rule: A Theory of Male
+Dominance</i> (Chicago: Open Court, 1993). His proposal is that the phenomenon
+is rooted in the chemical variants between the sexes.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> <span style='position:relative;
+top:-3.0pt'>15</span><i>Women in Ministry: Four Views</i>, pp. 177ff.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> <span style='position:relative;
+top:-3.0pt'>16</span>Gerhard Dautzenberg, <i>“Da ist nicht männlich und
+weiblich,”</i> <i>Kairos</i>, N. F., p.197; cited by Klyne R. Snodgrass, “Galatians
+3:28: Conundrum or Solution?” in <i>Women, Authority &amp; the Bible</i>, ed.
+Alvera Mickelsen (Downers Grove: InterVarsity, 1986), p. 175.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> <span style='position:relative;
+top:-3.0pt'>17</span>Much of the difficulty in discussions about women’s roles
+stems from the differing views of male headship and the range of activities
+that headship affects. We are inclined to take 1 Timothy<b> 2</b>:12 as
+indicating a composite act—authoritative teaching—rather than two acts—exercising
+authority and teaching. <i>Exercising authority</i> we consider an appropriate
+translation for </span><span lang=EL style='font-size:12.0pt'>αὐθεντέω</span><span
+lang=EL style='font-size:12.0pt'> </span><span style='font-size:12.0pt'>(<i>authenteō</i>)
+as a non-pejorative term. We suppose, as well, that the directive was intended
+at least for “standard situation” (husband-wife with children) especially in
+public settings, and referred minimally to wisdom <i>vs.</i> commandment. The
+wisdom-commandment distinction means that a person who does not do a
+wisdom-imperative takes a risk for practical reasons, whereas a person who does
+not do a commandment-imperative disobeys. Finally, <i>prophesying</i> and <i>teaching</i>
+may differ in that the latter involves normativeness/authority in 1 Timothy <b>2</b>.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'> <span style='position:relative;
+top:-3.0pt'>18</span>See Snodgrass, <i>“Galatians<b> 3</b>:28: Conundrum or
+Solution?” </i>pp. 168-70.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt;color:windowtext'>The essay above was first
+delivered at the 46<sup>th</sup> annual meeting of the Evangelical Theological
+Society in Lisle, Illinois, on November 18, 1994. It was later published in <i>Evangelical
+Hermeneutics: Selected Essays from the 1994 Evangelical Theological Society
+Convention.</i> Ed. by Michael Bauman and David Hall. Camp Hill, PA: Christian
+Publications, Inc., 1995, pp. 123-45.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt;color:windowtext'>                                                                                                                             
+</span><span style='font-size:11.0pt;color:windowtext'>christir.org</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt;color:red'> </span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt;color:red'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt;color:red'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt;color:red'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt;color:red'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt;color:red'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt;color:red'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt;color:red'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt;color:red'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt;color:red'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt;color:red'>&nbsp;</span></p>
+</div>

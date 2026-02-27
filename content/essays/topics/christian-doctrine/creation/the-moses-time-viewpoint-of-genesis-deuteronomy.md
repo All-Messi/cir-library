@@ -10,24 +10,175 @@ title: THE MOSES-TIME VIEWPOINT OF GENESIS-DEUTERONOMY
 weight: 3
 ---
 
+<style>
+/* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+ /* Style Definitions */
+ .word-content p.MsoNormal, .word-content li.MsoNormal, 
+p.MsoHeader, li.MsoHeader, 
+span.HeaderChar
+	{mso-style-name:"Header Char";
+	mso-style-link:Header;}
+.word-content .MsoChpDefault
+	{font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+.MsoPapDefault
+	{margin-bottom:10.0pt;
+	line-height:115%;}
+ /* Page Definitions */
+</style>
 
+<div class="word-content">
+<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><b><span
+style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>THE
+MOSES-TIME VIEWPOINT OF GENESIS-DEUTERONOMY</span></b></p>
 
+<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><b><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></b></p>
 
-The presentation in Genesis is from Moses’ viewpoint in time and place.
+<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
+Warren, PhD</span></p>
 
+<p class=MsoNormal style='margin-bottom:0in'><b><span style='font-size:12.0pt;
+line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></b></p>
 
-1.	The narrowing scope from Genesis <strong><sup>1</sup></strong>:1 till Moses’ time in history. See herein “The Structure of Genesis-Deuteronomy.”
+<p class=MsoNormal style='margin-bottom:0in'><b><span style='font-size:12.0pt;
+line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></b></p>
 
-2.	Comment about the Sabbath. <strong><sup>2</sup></strong>:1-3 comes from a day when Sabbath observance had been enacted as a memorial of the exodus (Deuteronomy <strong><sup>5</sup></strong>:12-15). The purpose of the Sabbath was to serve as a memorial of the exodus, when God “created” Israel (Isaiah<strong> 43</strong>:15, <em>“I am Yahveh, your Holy One, the Creator of Israel . . .”</em>); the manner of observance correlated with God’s creative work: as a rest, weekly, at the end of the week.
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><b><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></b><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The
+presentation in<b> </b>Genesis is from Moses’ viewpoint in time and place.</span></p>
 
-3.	Comment about marriage: <strong><sup>2</sup></strong>:24. The observation about <em>“leaving father and mother,”</em> <em>etc</em>., does not come from God’s mouth; God is “he” in the nearest material (but Matthew <strong><sup>19</sup></strong>:3?). As an anticipatory comment, it seems too early for Adam to be making an observation about factors not yet part of his own experience or based on anything the account gives about God’s revelation to him. That leaves Moses as the source of the commandment (example of a Hebrew “imperatival future/imperatival imperfect”).
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
-4.	Historical and geographical markers for Eden and early events in Genesis. Place names (patronymics) are given from a perspective in the Middle East (and Palestine?) at the time of writing after the flood: <strong><sup>2</sup></strong>:8-17, <em>etc</em>. Note Havilah, where <em>“there </em><em><u>is</u></em><em> gold, bdellium, and onyx”</em>; Tigris, Euphrates, Pishon, and Gihon.
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>          1.  The
+narrowing scope from Genesis <b>1</b>:1 till Moses’ time in history. See “The
+Structure of Genesis-Deuteronomy.”</span></p>
 
-5.	Use of God’s covenant name (<em>Yahveh</em>, יהוה) in events that by centuries preceded the revelation of that name to designate the God of Israel: <strong><sup>2</sup></strong>:4, 5, 7, 8, 9, 15, 16, 18, 19, 21, 22;<strong> 3</strong>:1, 82, 9, 13, 14, 21, 22, 23; <strong><sup>4</sup></strong>:1, 3, 4, 6, 9, 13, 15, 16,<em> etc</em>. Exodus<strong> 6</strong>:2-3 says, "<em>God spoke to Moses, ‘I am Yahveh. I appeared to Abraham, Isaac, and Jacob as God Almighty</em> ]<em>El Shaddai</em>[<em>, but they did not know me as Yahveh.’”</em>
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>          2.  Comment
+about the Sabbath. <b>2</b>:1-3 comes from a day when God had enacted Sabbath
+observance as a memorial of the exodus (Deuteronomy <b>5</b>:12-15). The <u>purpose</u>
+of the Sabbath was to be a memorial of the exodus, when God “created” Israel (Isaiah<b>
+43</b>:1</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>5,
+<i>“I am Yahveh, your Holy One, the Creator of Israel . . .”</i></span><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>);
+the <u>manner of observance</u> correlated with God’s creative work: as a rest,
+weekly, at the end of the week. </span></p>
 
-6.	Proper names are Hebrew-language labels for persons and places existing before the confusion of languages (Genesis <strong><sup>11</sup></strong>:1-9). Examples include the following:
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>          3.  Comment
+about marriage: <b>2</b>:24. The observation about “leaving father and mother,”
+<i>etc</i>., does not come from <u>God</u>’s mouth; God is “he” in the
+surrounding material (but Matthew <b>19</b>:3?). As an anticipatory comment, it
+seems a early for <u>Adam</u> to be making an observation about factors not yet
+part of his own experience or based on anything the account gives about God’s
+revelation to him. That leaves <u>Moses</u> as the source of the commandment
+(example of a Hebrew “imperatival future”).</span></p>
 
-<strong>man</strong> (<strong><sup>2</sup></strong>:23, אִישׁ) and <strong>woman</strong> (<strong><sup>2</sup></strong>:23, אִשָׁה; <em>“because she was taken out of </em><em><u>man</u></em><em>”</em>); 	<strong>man</strong>(kind) (<strong><sup>2</sup></strong>:7, 20*; <strong><sup>3</sup></strong>:24, 19; <strong><sup>5</sup></strong>:2; <em>“God formed </em><em><u>man</u></em> [אָדָם] <em>from the dust of the </em><em><u>ground</u></em><em>”</em> [אֲדָמָה]); <strong>Eve</strong> (<strong><sup>3</sup></strong>:20; <em>“because she was the mother of all </em><em><u>living</u></em><em>”</em> [חַוָּה]); <strong>Eden</strong> (<strong><sup>2</sup></strong>:18; <strong><sup>3</sup></strong>:24; <strong><sup>4</sup></strong>:6; “delight” [עֵדֶן]); <strong>Cain</strong> (<strong><sup>4</sup></strong>:1; <em>“I have gotten a man with the </em><em><u>help</u></em><em> of Yahveh”</em> [קַיִן]; <em>“acquisition”</em>); <strong>Abel</strong> (<strong><sup>4</sup></strong>:2-8; Cain killed Abel; <em>“temporariness” </em>[הֶבֶל]); <strong>Nod</strong> (<strong><sup>4</sup></strong>:12, 16; <em>“wandering”</em> [נֹד]); <strong>Noah</strong> (<strong><sup>5</sup></strong>:28-29; <em>“rest/comfort”</em> [נֹהַ]). Note also <strong>Babel</strong> (<strong><sup>11</sup></strong>:9; at the confusion of languages, <em>“to confuse”</em> [בָּבֵל]).
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>          4.  Historical<span
+style='color:black'> and </span>geographical markers for Eden and early events
+in Genesis. Place names (patronymics) reflect the viewpoint in the Middle East
+(and Palestine?) at the time of writing after the flood: <b>2</b>:8-17, <i>etc</i>.
+Note Havilah, where <i>“there <u>is</u> gold, bdellium, and onyx”</i>; Tigris, Euphrates,
+Pishon, and Gihon.</span></p>
 
-7.	The week as a seven-point outline of God’s main creative acts.		       christir.org
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>          5.  Use
+of God’s covenant name (<i>Yahveh</i>, </span><span lang=HE dir=RTL
+style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>יהוה</span><span
+dir=LTR></span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><span
+dir=LTR></span>) in events that by centuries preceded the revelation of that
+name for the God of Israel: <b>2</b>:4, 5, 7, 8, 9, 15, 16, 18, 19, 21, 22;<b>
+3</b>:1, 8<sup>2</sup>, 9, 13, 14, 21, 22, 23; <b>4</b>:1, 3, 4, 6, 9, 13, 15,
+16,<i> etc</i>. Exodus<b> 6</b>:2-3 says, </span><span dir=RTL></span><span
+lang=HE dir=RTL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><span
+dir=RTL></span>&quot;</span><i><span style='font-size:12.0pt;line-height:115%;
+font-family:"Times New Roman",serif'>God spoke to Moses, ‘I am Yahveh. I
+appeared to Abraham, Isaac, and Jacob as God Almighty</span></i><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span><span
+dir=RTL></span><span lang=HE dir=RTL style='font-size:12.0pt;line-height:115%;
+font-family:"Times New Roman",serif'><span dir=RTL></span>]</span><i><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>El
+Shaddai</span></i><span dir=RTL></span><span lang=HE dir=RTL style='font-size:
+12.0pt;line-height:115%;font-family:"Times New Roman",serif'><span dir=RTL></span>[</span><span
+dir=LTR></span><i><span style='font-size:12.0pt;line-height:115%;font-family:
+"Times New Roman",serif'><span dir=LTR></span>, but they did not know me as Yahveh.’”</span></i></p>
+
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>          6.  Proper
+names are Hebrew-language labels for peoples and places from before the
+confusion of languages (Genesis <b>11</b>:1-9). Examples include the following:</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>               <b>man</b>
+(<b>2</b>:23,</span><span style='font-size:14.0pt;line-height:115%;font-family:
+"Times New Roman",serif'> </span><span lang=HE dir=RTL style='font-size:14.0pt;
+line-height:115%;font-family:"Times New Roman",serif'>אִישׁ</span><span
+dir=LTR></span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><span
+dir=LTR></span>) and <b>woman</b> (<b>2</b>:23, </span><span lang=HE dir=RTL
+style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>אִשָׁה</span><span
+dir=LTR></span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><span
+dir=LTR></span>; <i>“because she was taken out of <u>man</u>”</i>);            <b>man</b>(kind)
+(<b>2</b>:7, 20*; <b>3</b>:24, 19; <b>5</b>:2; <i>“God formed <u>man</u></i> [</span><span
+lang=HE dir=RTL style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>אָדָם</span><span
+dir=LTR></span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><span
+dir=LTR></span>] <i>from the dust of the <u>ground</u>”</i> [</span><span
+lang=HE dir=RTL style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>אֲדָמָה</span><span
+dir=LTR></span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><span
+dir=LTR></span>]); <b>Eve</b> (<b>3</b>:20; <i>“because she was the mother of
+all <u>living</u>”</i> [</span><span lang=HE dir=RTL style='font-size:14.0pt;
+line-height:115%;font-family:"Times New Roman",serif'>חַוָּה</span><span
+dir=LTR></span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><span
+dir=LTR></span>]);</span><span style='font-size:12.0pt;line-height:115%;
+font-family:"Times New Roman",serif'> <b>Eden</b> (<b>2</b>:18; <b>3</b>:24; <b>4</b>:6;
+“delight” [<span lang=HE dir=RTL>ע</span></span><span lang=HE dir=RTL
+style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>ֵדֶן</span><span
+dir=LTR></span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><span
+dir=LTR></span>]); </span><b><span style='font-size:12.0pt;line-height:115%;
+font-family:"Times New Roman",serif'>Cain</span></b><span style='font-size:
+12.0pt;line-height:115%;font-family:"Times New Roman",serif'> (<b>4</b>:1; <i>“I
+have gotten a man with the <u>help</u> of Yahveh”</i> [</span><span lang=HE
+dir=RTL style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>קַיִן</span><span
+dir=LTR></span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><span
+dir=LTR></span>]; “acquisition”); <b>Abel</b> (<b>4</b>:2-8; Cain killed Abel</span><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>;</span><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> “temporariness”</span><span
+dir=RTL></span><span dir=RTL style='font-size:12.0pt;line-height:115%;
+font-family:"Times New Roman",serif'><span dir=RTL></span> </span><span
+dir=LTR></span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><span
+dir=LTR></span>[</span><span lang=HE dir=RTL style='font-size:14.0pt;
+line-height:115%;font-family:"Times New Roman",serif'>הֶבֶל</span><span
+dir=LTR></span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><span
+dir=LTR></span>]); <b>Nod</b> (<b>4</b>:12, 16; “wandering” [</span><span
+lang=HE dir=RTL style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>נֹד</span><span
+dir=LTR></span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><span
+dir=LTR></span>]); <b>Noah</b> (<b>5</b>:28-29; “rest/comfort” [</span><span
+lang=HE dir=RTL style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>נֹהַ</span><span
+dir=LTR></span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><span
+dir=LTR></span>]). Note <b>Babel</b> (<b>11</b>:9; confusion of languages “to
+confuse” [</span><span lang=HE dir=RTL style='font-size:14.0pt;line-height:
+115%;font-family:"Times New Roman",serif'>בָּבֵל</span><span dir=LTR></span><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><span
+dir=LTR></span>]).</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span lang=HE
+dir=RTL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>          </span><span
+dir=LTR></span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><span
+dir=LTR></span>7.  The week as a seven-point outline of God’s main creative
+acts.</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                                                          
+</span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
+</div>

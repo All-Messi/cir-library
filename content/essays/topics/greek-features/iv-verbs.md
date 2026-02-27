@@ -9,1002 +9,2462 @@ title: IV.  Verbs
 weight: 2
 ---
 
-
-
-A.  Tenses
-
-
-1.  present
-
-a.  simple/unidentified
-
-b.  progressive
-
-c.  iterative
-
-d.  gnomic/characteristic
-
-e.  conative
-
-f.  historic
-
-g.  futuristic present
-
-h.  past action continuing into the present
-
-2.  future
-
-a.  simple/unidentified
-
-b.  progressive
-
-c.  declarative/imperatival
-
-d.  μέλλω + infinitive
-
-3.  imperfect
-
-a.  progressive
-
-b.  iterative
-
-c.  ingressive (action)
-
-d.  conative/attempted
-
-e.  customary ("would" = good translation): Mark<strong> 3</strong>:11
-
-f.  unusual - for third-person plural: John <strong><sup>15</sup></strong>:22, 24
-
-4.  aorist
-
-a.  simple
-
-b.  ingressive (state)
-
-c.  gnomic
-
-d.  epistolary
-
-e.  pluperfect force: John <strong><sup>19</sup></strong>:30
-
-5.  present perfect
-
-
-a.  imperative: Mark<strong> 4</strong>:39; [Acts <strong><sup>15</sup></strong>:30]
-
-b.  subjunctive: 1 John<strong> 1</strong>:4
-
-
-6.  pluperfect
-
-
-a.  instances where augment is missing: Mark <strong><sup>14</sup></strong>:44
-
-b.  instances where augment is present:
-
-
-7.  future perfect
-
-
-a.  regular future perfect forms (non-existent in the new Testament)
-
-b.  periphrastic future perfects: Luke <strong><sup>6</sup></strong>:40; Hebrews <strong><sup>2</sup></strong>:13
-
-
-B.  Moods
-
-
-1.  Indicative
-
-a.  after 
-
-
-2.  Imperative
-
-
-a.  command
-
-(1)   + imperative:  Matthew<strong> 28</strong>:6
-
-(2)  double imperative: Matthew <strong><sup>28</sup></strong>:10
-
-b.  entreaty
-
-c.  prohibition (see also “Clauses  prohibition”)
-
-(1)  present: Matthew <strong><sup>24</sup></strong>:6; <strong><sup>28</sup></strong>:5; John <strong><sup>5</sup></strong>:14
-
-(2)  aorist:
-
-d.  sometimes has the subject expressed with the verb: 2 Timothy <strong><sup>4</sup></strong>:15
-
-e.  third person imperative
-
-
-(1)  “permissive imperative” (John <strong><sup>14</sup></strong>:1; 1 Corinthians <strong><sup>7</sup></strong>:15; <strong><sup>14</sup></strong>:38; Ephesians <strong><sup>4</sup></strong>:26; 1 Timothy <strong><sup>3</sup></strong>:10; <strong><sup>4</sup></strong>:12)
-
-(2)  aorist <em>vs.</em> present imperative
-
-f.  present tense: Mark <strong><sup>5</sup></strong>:34; John <strong><sup>5</sup></strong>:14; 1 Corinthians <strong><sup>7</sup></strong>:2; <strong><sup>14</sup></strong>:1; 1 Thessalonians
-
-<strong><sup>5</sup></strong>:16;
-
-(1)  action already in process: John <strong><sup>5</sup></strong>:14
-
-(2)  action not already in process: Mark <strong><sup>5</sup></strong>:34
-
-(3)  uncertain/irrelevant whether already in process
-
-g.  aorist tense: Matthew <strong><sup>6</sup></strong>:9-13; <strong><sup>24</sup></strong>:18; Luke <strong><sup>5</sup></strong>:27
-
-(1)  action already in process: Matthew <strong><sup>6</sup></strong>:9-13; Luke<strong> 5</strong>:27
-
-(2)  action not already in process: Revelation <strong><sup>2</sup></strong>:11
-
-(3)  uncertain/irrelevant whether already in process
-
-
-3.  Subjunctive
-
-
-a.  deliberate subjunctive:
-
-(1)  normal: Matthew<strong> 6</strong>:31; <strong><sup>11</sup></strong>:2b, 16?; Luke <strong><sup>3</sup></strong>:10; 11:52; 1 Corinthians
-
-<strong><sup>4</sup></strong>:21
-
-(2)  introduced by //:  Luke <strong><sup>22</sup></strong>:9
-
-b.  hortatory subjunctive:
-
-(1)  normal plain subjunctive: Jn. <strong><sup>14</sup></strong>:31; Galatians <strong><sup>5</sup></strong>:26
-
-(2)  / + subjunctive:  Matthew <strong><sup>7</sup></strong>:4
-
-(3)  / + subjunctive
-
-c.  prohibitive subjunctive:  Hebrews <strong><sup>3</sup></strong>:8
-
-(1)  third-person prohibitory subjunctive (rare): 1 Corinthians <strong><sup>16</sup></strong>:11; 2 Thessalonians<strong> 2</strong>:3; 2 Corinthians <strong><sup>11</sup></strong>:16
-
-(2)  Matthew <strong> 6</strong>:2, 7, 13, 17, 31; <strong><sup>23</sup></strong>:9, 10; <strong><sup>24</sup></strong>:26, 34, 35.
-
-d.  emphatic negative:   + subjunctive: Matthew <strong><sup>23</sup></strong>:39; <strong><sup>24</sup></strong>:21;<strong> 26</strong>:29; Luke <strong><sup>22</sup></strong>:16; 	Hebrews <strong><sup>13</sup></strong>:5
-
-4.  Optative
-
-a.  potential optative in independent clauses: Acts<strong> 8</strong>:31; <strong><sup>17</sup></strong>:18
-
-b.  potential optative in dependent clauses: Acts <strong><sup>20</sup></strong>:16; 1 Peter <strong><sup>3</sup></strong>:14
-
-c.  attainable wish: Philemon 20; 1 Thessalonians<strong> 5</strong>:23
-
-: Luke <strong><sup>20</sup></strong>:16; Romans<strong> 3</strong>:4, 6, 31; <strong><sup>6</sup></strong>:2, 15;<strong> 7</strong>:7, 13; <strong><sup>9</sup></strong>:14;<strong> 11</strong>:1, 11; 1 Corinthians <strong><sup>6</sup></strong>:15; Galatians <strong><sup>2</sup></strong>:17; <strong><sup>3</sup></strong>:21;<strong> 6</strong>:14
-
-d.  optative indirect-discourse verb after secondary tense main verb (see "Clauses:  indirect discourse")
-
-C.  Voices
-
-1.  Active
-
-2.  Middle
-
-a.  reflexive
-
-(1)  direct reflexive
-
-(2)  indirect reflexive
-
-(3)  active + reflexive pronoun can replace traditional middle-voice meaning:  		Luke <strong><sup>23</sup></strong>:39; John <strong><sup>17</sup></strong>:19; <strong><sup>19</sup></strong>:7; <strong><sup>21</sup></strong>:7, 18; Romans <strong><sup>2</sup></strong>:1; Galatians<strong> 1</strong>:4; Ephesians <strong><sup>4</sup></strong>:19; <strong><sup>5</sup></strong>:2, 25; 1 John <strong><sup>1</sup></strong>:18
-
-(4)  middle voice + reflexive pronoun:  Ephesians <strong><sup>4</sup></strong>:32
-
-b.  causative:  Acts <strong><sup>22</sup></strong>:16
-
-3.  Passive
-
-D.  Participles
-
-
-1.  Attributive participles
-
-
-a.  articular participles with anarthrous nouns
-
-b.  anarthrous participles with anarthrous nouns:  Like <strong><sup>6</sup></strong>:30; 1 Corinthians <strong><sup>13</sup></strong>:1; Hebrews <strong><sup>7</sup></strong>:8
-
-c.  first attributive: Ephesians <strong><sup>1</sup></strong>:19
-
-d.  second attributive: 1 Thessalonians <strong><sup>1</sup></strong>:10; Titus <strong><sup>1</sup></strong>:9
-
-
-2.  Substantival participles
-
-a.  subject
-
-b.  direct object
-
-c. indirect object
-
-d.  object of preposition:  Luke<strong> 6</strong>:30
-
-3.  Circumstantial participles
-
-
-a.  periphrastic participial constructions
-
-(1)   + present participle with elements to be taken together:  Matthew <strong><sup>10</sup></strong>:22; <strong><sup>12</sup></strong>:4; 2 Corinthians 9:12
-
-(2)  separated elements to be taken together: Mark<strong> 2</strong>:18;<strong> 8</strong>:30; <strong><sup>13</sup></strong>:25; <strong><sup>14</sup></strong>:40; <strong><sup>24</sup></strong>:38; <strong><sup>26</sup></strong>:43; John <strong><sup>3</sup></strong>:22-23; Acts <strong><sup>7</sup></strong>:26?; <strong><sup>12</sup></strong>:5
-
-(3)  separated elements not to be taken together: Mark <strong><sup>3</sup></strong>:1; Acts<strong> 9</strong>:9
-
-(4)   + present participle: Matthew <strong><sup>9</sup></strong>:36; <strong><sup>19</sup></strong>:22; <strong><sup>24</sup></strong>:9; Luke <strong><sup>19</sup></strong>:20
-
-(5)  perfect periphrastic participles: Matthew <strong><sup>10</sup></strong>:26, 30; <strong><sup>18</sup></strong>:20; <strong><sup>26</sup></strong>:43
-
-(6)   + participle: Acts<strong> 8</strong>:16
-
-(7)   + aorist participles (): Luke <strong><sup>23</sup></strong>:19; Acts <strong><sup>12</sup></strong>:25
-
-(8)  periphrastic imperative: Luke <strong><sup>19</sup></strong>:17
-
-(9)   +  periphrastic
-
-b.  genitive absolute constructions
-
-(1)  normal examples: <strong>Matthew 1</strong>:20; <strong><sup>2</sup></strong>:1, 13, 19;<strong> 6</strong>:3;<strong> 8</strong>:16, 28;<strong> 9</strong>:32, 33; <strong><sup>11</sup></strong>:7; 	<strong><sup>12</sup></strong>:46; <strong><sup>13</sup></strong>:6, 19; <strong><sup>14</sup></strong>:15, 23, 32; <strong><sup>16</sup></strong>:2; <strong><sup>17</sup></strong>:5, 9, 22, 24, 25;<strong> 18</strong>:24, 25; <strong><sup>20</sup></strong>:8, 29; <strong><sup>21</sup></strong>:10, 23; <strong>	22</strong>:41; <strong><sup>24</sup></strong>:3; <strong><sup>25</sup></strong>:5, 10, 60; <strong><sup>26</sup></strong>:6, 7, 20, 21, 47; <strong><sup>27</sup></strong>:1, 17, 19, 57; <strong><sup>28</sup></strong>:11, 13; <strong>John 8</strong>:30; <strong>Acts</strong> 	<strong><sup>10</sup></strong>:44; <strong><sup>28</sup></strong>:6, 9; <strong>Rom</strong>ans<strong> 5</strong>:6;<strong> 7</strong>:3, 9, 13;
-
-(1)  genitive absolutes with no expressed subject: Luke <strong><sup>12</sup></strong>:36;<strong> 22</strong>:55; Matthew	 <strong><sup>17</sup></strong>:14, 26; Acts<strong> 20</strong>:10, 31
-
-(2)  subject almost never the same as the subject of the main clause
-
-(a) genitive absolute can be used even when the grammatical person, 	number, and gender is the same as the subject as long as the referent is different: Mark <strong><sup>6</sup></strong>:54-55
-
-(b) genitive absolute with same subject was the main verb:  Matthew<strong> 1</strong>:18; Hebrews<strong> 8</strong>:9; Acts <strong><sup>7</sup></strong>:32
-
-(3) genitive absolute may appear after the main clause: Hebrews <strong><sup>2</sup></strong>:3-4
-
-(4) genitive absolute can cover for a conditional sentence protasis: 1 Corinthians <strong><sup>4</sup></strong>:19
-
-(5)  double genitive absolute: Romans<strong> 2</strong>:15
-
-c.  dative absolute constructions: Matthew. <strong><sup>8</sup></strong>:23;<strong> 9</strong>:27, 28 (?); <strong><sup>14</sup></strong>:6; Acts <strong><sup>28</sup></strong>:10 (?)
-
-d.  accusative absolute constructions: Acts <strong><sup>26</sup></strong>:3; Ephesians <strong><sup>1</sup></strong>:18; Hebrews <em><sup>10</sup></em>:2
-
-e.  nominative absolute: Romans <strong><sup>12</sup></strong>:8, 16; Revelation <strong><sup>2</sup></strong>:26
-
-f.  present participles
-
-g.  aorist participles
-
-(1)  usually chronologically prior to the main verb
-
-(2)  not necessarily prior to the main verb time-wise: Matthew<em> 10</em>:4; 1 Corinthians <strong><sup>2</sup></strong>:1; and most instances
-
-(3)  subsequent to the main verb time-wise: Acts <strong><sup>25</sup></strong>:13
-
-h.  future participles
-
-(1)  future passive: Hebrews<strong> 3</strong>:5
-
-(2)  future non-purposive: Luke. <strong><sup>22</sup></strong>:49; 1 Corinthians <strong><sup>15</sup></strong>:37; Hebrews <strong><sup>3</sup></strong>:5
-
-i.  present perfect participles
-
-(1)  periphrastic: Matthew <strong><sup>10</sup></strong>:26
-
-j.  future perfect participles
-
-k.  participles joined to imperatives
-
-l.  nominative participle plus cognate finite verb as equivalent for Hebrew infinitive 	absolute plus cognate finite verb for emphasis: Acts <strong><sup>5</sup></strong>:4 (?)
-
-4.  unusual modification situations
-
-a.  compound singular subjects modified by a plural participle: Matthew <strong><sup>27</sup></strong>:61;  Acts <strong><sup>13</sup></strong>:46
-
-b.  compound masculine and feminine subject modified by plural masculine 		participle(?): Acts<strong> 25</strong>:23
-
-c.  singular masculine plus plural masculine subject modified by plural masculine 		participle: Acts <strong><sup>27</sup></strong>:20
-
-d.  compound plural masculine and plural neuter nouns modified by neuter plural participle:  Mtatthew <strong><sup>22</sup></strong>:4
-
-e.  compound plural neuter and plural feminine nouns modified by feminine plural participle:  Hebrews<strong> 9</strong>:9
-
-f.  collective singular neuter noun modified by plural masculine participle: Luke <strong><sup>19</sup></strong>:37
-
-5.  approaching the value of an infinitive (gerund or completing the meaning of the verb almost like a periphrastic construction): Matthew <strong><sup>11</sup></strong>:1;<strong> 28</strong>:1; Luke <strong><sup>5</sup></strong>:4
-
-6.  adjectival objective complement: Matthew <strong><sup>24</sup></strong>:30
-
-7.  objective complement (see "Verbs: participles")
-
-8.  values
-
-a.  time
-
-b.  means
-
-c.  manner
-
-d.  cause
-
-e.  condition
-
-f.  concession: Mark 4:31; John <strong><sup>9</sup></strong>:25; <strong><sup>21</sup></strong>:11; Acts <strong><sup>7</sup></strong>:5; Hebrews <strong><sup>5</sup></strong>:8
-
-g.  attendant circumstance
-
-h. co-ordinate circumstance
-
-i.  purpose
-
-(1)  future participle:  Matthew <strong><sup>27</sup></strong>:49; Acts <strong><sup>22</sup></strong>:5; <strong><sup>24</sup></strong>:17
-
-j.  result
-
-k.  command (see under "Clauses:  command")
-
-D.  Infinitive
-
-
-1.  subject
-
-a  articular infinitive: 2 Corinthians <strong><sup>9</sup></strong>:1
-
-b. anarthrous infinitive: Matthew <strong><sup>17</sup></strong>:4 (); Acts <strong><sup>1</sup></strong>:16 (); Ephesians <strong><sup>6</sup></strong>:20 ()
-
-2.  direct object
-
-a. articular infinitive: Philippians <strong><sup>4</sup></strong>:10
-
-b. anarthrous infinitive: Mark <strong><sup>12</sup></strong>:12; Acts<strong> 8</strong>:38
-
-3.  free-standing genitive articular infinitive:  Matthew <strong><sup>11</sup></strong>:1; <strong><sup>21</sup></strong>:32; Luke <strong><sup>9</sup></strong>:51; Acts
-
-<strong><sup>14</sup></strong>:9
-
-4.  purpose infinitive w/o genitive article  Luke <strong><sup>3</sup></strong>:12; <strong><sup>11</sup></strong>:31
-
-5.  dative articular infinitive (causative)  2 Corinthians<strong> 2</strong>:13*
-
-6.  after prepositions: Luke <strong><sup>24</sup></strong>:51 (); Acts. <strong><sup>1</sup></strong>:3 (); <strong><sup>4</sup></strong>:2 (A); <strong><sup>8</sup></strong>:40 (); 	Romans <strong><sup>3</sup></strong>:26 (); Galatians <strong><sup>3</sup></strong>:23 (); 2 Corinthians <strong><sup>7</sup></strong>:12 (); <strong><sup>8</sup></strong>:11 (); Ephesians <strong><sup>6</sup></strong>:11 (); James <strong><sup>4</sup></strong>:15 ()
-
-7.  after  to mean result (see "Clauses:  result")
-
-8. subject of copulative infinitive = subject of main verb with nominative predicate- 		nominative adjective: 1 Corinthians <strong><sup>3</sup></strong>:18
-
-9. parenthetical infinitive: Hebrews <strong><sup>7</sup></strong>:9*
-
-10. imperatival infinitive (see "Clauses: commands")
-
-11.  anarthrous infinitive after to mean before (see "Basic Concept Construction:  	Time")
-
-12.  with adjectives
-
-a.  articular: Acts <strong><sup>23</sup></strong>:15
-
-b.  anarthrous: 2 Timothy <strong><sup>2</sup></strong>:2; Revelation <strong><sup>5</sup></strong>:9
-
-13.  with certain verbs
-
-a.    2 Corinthians<strong> 1</strong>:15
-
-b.  : 1 Corinthians <strong><sup>3</sup></strong>:18
-
-c.  : Matthew <strong><sup>9</sup></strong>:28; Mark <strong><sup>4</sup></strong>:33; Mark <strong><sup>9</sup></strong>:39
-
-d.  : Romans <strong><sup>15</sup></strong>:22
-
-e.  :Matthew <strong><sup>12</sup></strong>:38
-
-f.   (see "Verbs:  infinitives")
-
-g.  : 1 John <strong><sup>3</sup></strong>:16; Hebrews <strong><sup>2</sup></strong>:17
-
-14.  adjuncts of certain nouns: Matthew<strong> 3</strong>:14 (); John<strong> 1</strong>:12 ()
-
-15.  appositive to a noun: 1 Thessalonians<strong> 4</strong>:3
-
-16.  infinitives in indirect discourse (see "Clauses:  indirect discourse")
-
-
-V.  Adverbs
-
-
-V.  Sentence types
-
-
-A.  Subject-verb relationships
-
-
-1.  plural neuter subjects
-
-a.  with singular verbs: Hebrews <strong><sup>9</sup></strong>:22; 1 John <strong><sup>3</sup></strong>:10, 12
-
-b.  with plural verbs
-
-2.  compound singular subjects
-
-a.  with plural verb: John <strong><sup>19</sup></strong>:25; 1 Corinthians <strong><sup>3</sup></strong>:8
-
-b.  with singular verb: Matthew <strong><sup>6</sup></strong>:19
-
-3.  collective noun subject
-
-a.  with a singular verb
-
-b.  with a plural verb: Luke <strong><sup>19</sup></strong>:37 (also with plural participle–)
-
-4.  a compound subject usually takes a verb in the number of the subject nearest
-
-of the verb: 1 Corinthians <strong><sup>7</sup></strong>:34
-
-5.  compound singular subjects uses plural verb: Mark<strong> 15</strong>:47
-
-6.  a compound subject usually takes a verb in the person of the subject nearest to the
-
-verb: Acts <strong><sup>15</sup></strong>:10
-
-()
-
-
-B.  Verb-object relationships
-
-1.  the same direct object after a second or third verb is not repeated: Mark <strong><sup>15</sup></strong>:1b, <sup>15</sup>c
-
-C.  Verb-indirect object relationships
-
-1.  the same indirect object after a second or third verb is not repeated: Mark <strong><sup>15</sup></strong>:1b
-
-D.  Linking verb and predicate noun relationships
-
-1.  Caldwell's canon
-
-2.  two nouns and a linking verb
-
-a.  neither noun has article
-
-b.  one noun has article: 1 Timothy<strong> 6</strong>:5b; 1 John <strong><sup>4</sup></strong>:8
-
-c.  one proper noun and one common noun: John <strong><sup>18</sup></strong>:40
-
-d.  both nouns have article: John <strong><sup>15</sup></strong>:1; 1 Corinthians <strong><sup>10</sup></strong>:4; 1 John<strong> 3</strong>:4
-
-e.  second noun also before verb Mark <strong><sup>15</sup></strong>:39; John <strong><sup>19</sup></strong>:7
-
-E.  Linking verb with pronoun subject and another noun: Galatians <strong><sup>4</sup></strong>:24
-
-
-
-V.  Clauses
-
-
-A.  Conditional clauses
-
-
-1.  real conditional sentences (present or past particular): Class A
-
-
-a.  present conditional clause:  John <strong><sup>1</sup></strong>:25; Galatians <strong><sup>5</sup></strong>:18
-
-b.  past conditional clause
-
-c.  future conditional clause: Matthew <strong><sup>26</sup></strong>:33
-
-d.  mixed tenses between conditional clause and apodosis: John <strong><sup>15</sup></strong>:20
-
-e.  protasis of A-class condition used alone as aposiopesis to mean "not": Mark <strong><sup>8</sup></strong>:12;	 Hebrews <strong><sup>3</sup></strong>:11 [cp.<strong> 3</strong>:18]; <strong><sup>4</sup></strong>:3, 5;
-
-
-2.  contingent conditional sentences: Class B
-
-a.  present general: Matthew<strong> 8</strong>:2; John<strong> 13</strong>:8
-
-b.  vivid future:1 Corinthians<strong> 4</strong>:19;
-
-3.  contrary-to-fact conditional clauses: Class C
-
-a.  examples: Mark <strong><sup>13</sup></strong>:20; John <strong><sup>8</sup></strong>:42
-
-b.  instances where  is omitted from the protasis: John <strong><sup>9</sup></strong>:33; <strong><sup>15</sup></strong>:22; Acts
-
-<strong><sup>26</sup></strong>:32;1 Corinthians<strong> 12</strong>:172, 19
-
-4.  vague future: Class D
-
-5.  Miscellaneous
-
-1.  subjunctive  Revelation <strong><sup>11</sup></strong>:5b
-
-
-B.  indefinite/conditional relative
-
-
-1.  // +  plus subjunctive:
-
-2.  //+ 
-
-3.  //+ 
-
-4.  //+ 
-
-5.  
-
-6.   plus aorist subjunctive
-
-7.   +  plus aorist subjunctive: Matthew<strong> 2</strong>:13; <strong><sup>10</sup></strong>:23
-
-8.  plus subjunctive
-
-9.   plus subjunctive
-
-10.   plus subjunctive
-
-11.   plus subjunctive
-
-12.   plus subjunctive
-
-13.    plus subjunctive
-
-10.   + : Revelation <strong><sup>11</sup></strong>:6
-
-11. subjunctive
-
-12.  indicative: Mark <strong><sup>6</sup></strong>:56
-
-13.  
-
-14.  comparison of condition clauses and conditional/indefinite relative: Mark <strong><sup>10</sup></strong>:43 +
-
-<strong><sup>9</sup></strong>:35
-
-
-C.  Indirect discourse constructions
-
-1.  finite verb
-
-a.  non-optative indirect-discourse verb after main verb in secondary tense: Matthew <strong><sup>20</sup></strong>:10
-
-b.  optative indirect-discourse verb after secondary-tense main verb:  Luke <strong><sup>8</sup></strong>:9
-
-2.  participle: Mark<strong> 5</strong>:30; Hebrews <strong><sup>13</sup></strong>:23
-
-3.  infinitive: Acts <strong><sup>28</sup></strong>:6; Romans<strong> 3</strong>:28
-
-4.  subjunctive: Matthew <strong><sup>4</sup></strong>:3
-
-5.  indicative: Revelation <strong><sup>6</sup></strong>:4, 11;<strong> 8</strong>:3;<strong> 14</strong>:13;
-
-6.   omitted + subjunctive: Mark<strong> 1</strong>:44
-
-
-D.  Direct discourse constructions
-
-
-1.  preceded by 
-
-2.  not preceded by 
-
- present-tense indirect-discourse verb means simultaneous with the main verb:  Luke<strong> 18</strong>:9
-
-E.  Questions
-
-
-1.  direct questions
-
-a.  introduced by   Matthew <strong><sup>19</sup></strong>:3; Mark <strong><sup>12</sup></strong>:10; Luke <strong><sup>22</sup></strong>:49; <strong><sup>13</sup></strong>:23; Acts <strong><sup>1</sup></strong>:6; <strong><sup>7</sup></strong>:1;<strong> 19</strong>:2<strong>; 	21</strong>:37; <strong><sup>22</sup></strong>:25
-
-b.  introduced by interrogatives:
-
-2.  indirect questions
-
-a.  introduced by Matthew <strong><sup>12</sup></strong>:10; Mark <strong><sup>10</sup></strong>:2
-
-b.  introduced by interrogatives:
-
-3.  questions anticipating negative response ( <em>etc</em>.): Matthew <strong><sup>12</sup></strong>:23; Luke <strong><sup>6</sup></strong>:39; John <strong><sup>9</sup></strong>:40;<strong> 18</strong>:35; 1 Corinthians <strong><sup>11</sup></strong>:22;<strong> 12</strong>:30
-
-4.  questions anticipating positive response (, <em>etc</em>.): Matthew <strong><sup>10</sup></strong>:29;<strong> 13</strong>:55; <strong><sup>21</sup></strong>:42; Lk. <strong><sup>4</sup></strong>:22; <strong><sup>17</sup></strong>:17; Hebrews <strong><sup>3</sup></strong>:16
-
-5.  double-negative questions: Romans<strong> 10</strong>:18; 1 Corinthians <strong><sup>9</sup></strong>:4-5; <strong><sup>11</sup></strong>:22
-
-6.  real questions
-
-7.  rhetorical questions: Romans<strong> 8</strong>:31
-
-8.  factual/open-ended/ information questions: Mark <strong><sup>15</sup></strong>:2?; John <strong><sup>16</sup></strong>:31
-
-9.  deliberative (see under "Verbs: subjunctive")
-
-
-F.  Command constructions
-
-
-1.  imperative
-
-2.  future indicative
-
-3.  participle
-
-a.  free-standing participles construction: Mark <strong><sup>5</sup></strong>:23; Romans <strong><sup>12</sup></strong>:9; 1 Peter <strong><sup>3</sup></strong>:1;
-
-<strong><sup>2</sup></strong>:18;
-
-b.  tied to an imperative verb
-
-4.  infinitive: Romans <strong><sup>12</sup></strong>:15; Philippians <strong><sup>3</sup></strong>:16; Titus <strong><sup>2</sup></strong>:2 (<em>Didache</em> <strong><sup>14</sup></strong>:3)
-
-5.   plus subjunctive (Turner, 145-47)
-
-6.  double imperatives: Matthew <strong><sup>27</sup></strong>:65; <strong><sup>28</sup></strong>:6, 10
-
-
-G.  Prohibition constructions
-
-
-1.   plus present imperative
-
-2.   plus aorist subjunctive (see under "Verb-Mood:  Subjunctive")
-
-3.   plus future indicative
-
-
-H.  Purpose constructions
-
-
-1.   + subjunctive:
-
-2.   + subjunctive: Matthew<strong> 5</strong>:16;<strong> 6</strong>:17-18
-
-3.   + subjunctive: Romans<strong> 3</strong>:4
-
-3.   + future indicative: Acts <strong><sup>21</sup></strong>:19
-
-4.  future participle (see under "participles")
-
-5.  
-
-6.  infinitive
-
-7.  genitive articular infinitive (see under "infinitives")
-
-
-I.  Fear clauses
-
-1.  with subjunctive: Matthew <strong><sup>27</sup></strong>:64; Mark <strong><sup>13</sup></strong>:35-36; 2 Corinthians <strong><sup>12</sup></strong>:20
-
-2.  : 2 Corinthians <strong><sup>12</sup></strong>:20
-
-3.  : Matthew<strong> 27</strong>:64
-
-4.  with indicative: 1 Thessalonians<strong> 3</strong>:5; Hebrews<strong> 3</strong>:12
-
-5.  negative fear clause ( + subjunctive): Hebrews <strong><sup>3</sup></strong>:12
-
-
-J.  Result constructions
-
-
-1.   plus infinitive: Matthew <strong><sup>15</sup></strong>:31; 1 Corinthians <strong><sup>13</sup></strong>:2
-
-2.   plus indicative: Matthew <strong><sup>19</sup></strong>:6; Mark <strong><sup>2</sup></strong>:28 (inferential "so"); <strong><sup>4</sup></strong>:1 (inferential "so"?); John <strong><sup>3</sup></strong>:16; 1 Corinthians <strong><sup>3</sup></strong>:7; <strong><sup>14</sup></strong>:22; Galatians 2:13; <strong><sup>4</sup></strong>:16
-
-3.   plus imperative: 1 Corinthians <strong><sup>3</sup></strong>:21;<strong> 4</strong>:5
-
-4.  infinitives (see under "infinitives")
-
-5.   + subjunctive: Mark <strong><sup>5</sup></strong>:23 (inferential "so"); Luke <strong><sup>20</sup></strong>:28; Revelations <strong><sup>8</sup></strong>:12
-
-
-K.  Object clauses
-
-
-L.  Assorted Noun Clauses
-
-
-1.  subjunctive:
-
-2.  subjunctive subject of main clause: 1 Corinthians <strong><sup>4</sup></strong>:2, 3
-
-3.  infinitive phrase subjects of impersonal verbs (see "Verbs:  infinitives")
-
-
-M.  Relative clauses (see "Substantive-Pronouns:  relative pronouns")
-
-
-VII.  Prepositions
-
-
-A.  With nominative (see above under "nominative"):  Romans <strong><sup>12</sup></strong>:5 (')
-
-B.  With genitive
-
-1.  
-
-2.  
-
-a.
-
-b.  some "of" (partitive genitive):  Matthew <strong><sup>23</sup></strong>:34; <strong><sup>25</sup></strong>:8
-
-3.  
-
-a.  location
-
-b.  means
-
-c.  manner
-
-C.  With dative
-
-D.  With accusative
-
-E.  With genitive and accusative
-
-F.  With genitive, dative, and accusative
-
-1.  
-
-			aTwo uses of  in the same verse:  Revelation <strong><sup>14</sup></strong>:6
-
-G.  Prepositional phrases in adjective slots
-
-1.  first attributive: 2 Corinthians <strong><sup>1</sup></strong>:11
-
-2.  second attributive: Mathew <strong><sup>6</sup></strong>:23; Luke <strong><sup>11</sup></strong>:35
-
-3.  second predicate: Ephesians <strong><sup>2</sup></strong>:11
-
-4.  with anarthrous noun: Mark <strong><sup>1</sup></strong>:23
-
-H.  Prepositional phrases in adverbial slots: Mark <strong><sup>1</sup></strong>:9
-
-I.  Substantivized prepositional phrases: Mark <strong><sup>5</sup></strong>:27; <strong><sup>13</sup></strong>:16; Luke <strong><sup>9</sup></strong>:32; Acts <strong><sup>12</sup></strong>:1; <strong><sup>13</sup></strong>:13; Romans <strong><sup>4</sup></strong>:14; <strong><sup>11</sup></strong>:21
-
-VIII.  Conjunctions
-
-
-1.  
-
-a.  can connect co-ordinate participles: 2 Timothy <strong><sup>1</sup></strong>:10
-
-
-2.  
-
-
-a.  as replacements for Â- consecutive after È‰ÈÂ: Matthew <strong><sup>9</sup></strong>:10; Luke <strong><sup>19</sup></strong>:15?; Hebrews <strong><sup>5</sup></strong>:7?
-
-b.  situations of real contrast: Luke <strong><sup>18</sup></strong>:2; <strong><sup>20</sup></strong>:19;<strong> 21</strong>:18; John 20:14; Acts <strong><sup>7</sup></strong>:5, 9
-
-3.  phrase conjunction:  : Matthew <strong><sup>11</sup></strong>:27; <strong><sup>17</sup></strong>:8
-
-
-IX.  Constructions for various basic concepts
-
-
-A.  Comparison
-
-
-1.  "than"
-
-a.   plus same case: Matthew <strong><sup>10</sup></strong>:15; John<strong> 3</strong>:19;<strong> 4</strong>:1
-
-b.  genitive second noun (see "Cases:  genitive")
-
-c.   plus accusative: Luke <strong><sup>16</sup></strong>:8
-
-d.   plus accusative: Hebrews <strong><sup>9</sup></strong>:23; <strong><sup>11</sup></strong>:4
-
-e.  
-
-f.  "rather than": (Luke <strong><sup>18</sup></strong>:14; Romans <strong><sup>1</sup></strong>:26, 27)
-
-2.  degrees of comparison  (see under "Adjectives")
-
-a.  positive degree
-
-b.  comparative degree
-
-(1)  comparative-degree adjectives
-
-(2)  positive degree: Acts <strong><sup>20</sup></strong>:35
-
-(3)  positive degree:
-
-(4)  positive degree:
-
-c.  superlative degree
-
-(1)  superlative-degree adjectives
-
-(2)   positive degree: Acts<strong> 20</strong>:38
-
-3.  degrees of adverbs
-
-a.  positive
-
-b.  comparative
-
-(1)  "love . . . hate": Luke <strong><sup>16</sup></strong>:13
-
-c.  superlative
-
-4.  "so . . . that"
-
-a.  "": John <strong><sup>3</sup></strong>:16; Hebrews<strong> 12</strong>:21
-
-
-B.  Negation
-
-
-1.  words
-
-a.   + indicative: Matthew <strong><sup>7</sup></strong>:6 (); Johnh <strong><sup>3</sup></strong>:18; Acts <strong><sup>28</sup></strong>:27 ()
-
-b.  + subjunctive for emphatic future:  Matthew<strong> 23</strong>:39; <strong><sup>24</sup></strong>:21; <strong><sup>26</sup></strong>:29; <strong><sup>22</sup></strong>:16; Hebrews <strong><sup>13</sup></strong>:5; Revelation<strong> 3</strong>:5(I/S?)
-
-c.  + future indicative for emphatic futureLuke <strong><sup>1</sup></strong>:15; Revelation <strong><sup>3</sup></strong>:5 (i/S?)
-
-2.  privative
-
-a.  negative
-
-b.  neutral
-
-C.  Agency
-
-
-1.  verbs
-
-2.  prepositions
-
-a.  with active verb
-
-(1)  G + active verb: Hebrews <strong><sup>12</sup></strong>:3
-
-(2)  D + active verb: Mark <strong><sup>3</sup></strong>:22 (personal)
-
-b.  with passive verb
-
-(1)  with preposition omitted after perfect passives: Colossians<strong> 4</strong>:6 (D); 2
-
-Peter <strong><sup>2</sup></strong>:19 (D)
-
-(2)  with preposition omitted: Matthew <strong><sup>6</sup></strong>:1 (D), 5 (D);<strong> 23</strong>:5 (D); <strong><sup>25</sup></strong>:34
-
-(G); 1 Timothy <strong><sup>3</sup></strong>:16 (D)
-
-(3)   + G: Matthew<strong> 11</strong>:19
-
-(4)  G: Matthew<strong> 28</strong>:14
-
-(5)     Matthew <strong><sup>28</sup></strong>:15
-
-(6)  G:  Galatians <strong><sup>2</sup></strong>:16; 1 John <strong><sup>2</sup></strong>:29
-
-(7)  G (usually intermediate agent) John <strong><sup>1</sup></strong>:10; Hebrews <strong><sup>7</sup></strong>:23 (impersonal)
-
-(8)  G: Matthew <strong><sup>4</sup></strong>:1; 1 Corinthians <strong><sup>10</sup></strong>:29 (impersonal);
-
-(9)  D: Romans <strong><sup>10</sup></strong>:20 (personal)
-
-c.  with linking verb
-
-(1)  G + linking verb: Luke <strong><sup>10</sup></strong>:17; Acts<strong> 12</strong>:5
-
-
-D.  Means
-
-1.  prepositions
-
-a.  with active verbs
-
-(1)  Matthew <strong><sup>1</sup></strong>:18 (  ); <strong><sup>3</sup></strong>:11? (en); John<strong> 1</strong>:26? (en); Acts <strong><sup>3</sup></strong>:21 () Romans 3:30 (and); Hebrews <strong><sup>9</sup></strong>:12 (); <strong><sup>9</sup></strong>:25 (; cp. <strong><sup>9</sup></strong>:12)
-
-b.  with passive verbs
-
-c.  with linking verbs
-
-(1)  Matthew <strong><sup>1</sup></strong>:20 ()
-
-2.  plain dative: Mark <strong><sup>1</sup></strong>:8?; Luke <strong><sup>3</sup></strong>:16?;
-
-E.  Manner
-
-1.  prepositional phrase
-
-2.  participle
-
-3.  adverb
-
-F.  Purpose
-
-1.  participle
-
-2.  future participle
-
-3.  prepositional phrase ()
-
-4.  anarthrous infinitive
-
-5.  genitive articular infinitive
-
-6.  // + subjunctive
-
-7.  relative clause + future indicative
-
-G.  Result (see "Clauses:  result")
-
-H.  Cause
-
-1.  conjunction
-
-2.  dative-case articular infinitive: 2 Corinthians<strong> 2</strong>:13*
-
-3.  participle
-
-4.  verbs
-
-5.  prepositions
-
-I.  Possession
-
-1.  
-
-2.  dative of possession
-
-3.  possessive genitive
-
-4.  possessive adjective:  ////
-
-J.  Condition
-
-1.  /
-
-2.  participle
-
-K.  Concession
-
-1.  conjunction
-
-a.  
-
-b. 
-
-2.  participle
-
-L.  Time
-
-1.  absolute
-
-2.  relative
-
-a.  participle
-
-b.  conjunction
-
-(1)  before ( anarthrous infinitive): Mark <strong><sup>1</sup></strong>:18; John
-
-<strong><sup>8</sup></strong>:58
-
-c.  adverb
-
-M.  Location
-
-
-X.  Accidence
-
-
-A.  accents
-
-
-1.  on enclitics in a series
-
-2.  on proclitics in a series:  Mark <strong><sup>1</sup></strong>:22, 36
-
-
-
+<style>
+/* Font Definitions */
+ @font-face
+	{font-family:"Tms Rmn";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+ /* Style Definitions */
+ .word-content p.MsoNormal, .word-content li.MsoNormal, 
+p.MsoHeader, li.MsoHeader, 
+p.MsoFooter, li.MsoFooter, 
+span.HeaderChar
+	{mso-style-name:"Header Char";
+	mso-style-link:Header;
+	font-family:"Times New Roman",serif;
+	color:black;}
+.word-content .MsoChpDefault
+	{font-family:"Tms Rmn",serif;}
+ /* Page Definitions */
+</style>
+
+<div class="word-content">
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>  IV.  Verbs</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         A.  Tenses</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                1.  present</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      a.  simple/unidentified</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      b.  progressive</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      c.  iterative</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      d.  gnomic/characteristic</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      e.  conative</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                       f.  historic</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      g.  futuristic present</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      h.  past action continuing into
+the present</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                2.  future</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      a.  simple/unidentified</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      b.  progressive</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      c.  declarative/imperatival</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      d.  </span><span lang=EL
+style='font-size:12.0pt'>μέλλω </span><span style='font-size:12.0pt'>+
+infinitive</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                3.  imperfect</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      a.  progressive</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      b.  iterative</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      c.  ingressive (action)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      d.  conative/attempted</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      e.  customary (&quot;would&quot;
+= good translation): Mark<b> 3</b>:11</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                       f.  unusual - for
+third-person plural: John <b>15</b>:22, 24</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                4.  aorist</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      a.  simple</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      b.  ingressive (state)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      c.  gnomic</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      d.  epistolary</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      e.  pluperfect force: John <b>19</b>:30</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                5.  present perfect</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      a.  imperative: Mark<b> 4</b>:39;
+[Acts <b>15</b>:30]</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      b.  subjunctive: 1 John<b> 1</b>:4</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                6.  pluperfect</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      a.  instances where augment is
+missing: Mark <b>14</b>:44</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      b.  instances where augment is
+present: </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                7.  future perfect</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      a.  regular future perfect forms
+(non-existent in the new Testament)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      b.  periphrastic future
+perfects: Luke <b>6</b>:40; Hebrews <b>2</b>:13</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         B.  Moods</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                1.  Indicative</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      a.  after </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                2.  Imperative</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      a.  command</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (1)   +
+imperative:  Matthew<b> 28</b>:6</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (2)  double
+imperative: Matthew <b>28</b>:10</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      b.  entreaty</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      c.  prohibition (see also “Clauses 
+prohibition”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (1)  present: Matthew <b>24</b>:6;
+<b>28</b>:5; John <b>5</b>:14</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (2)  aorist: </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      d.  sometimes has the subject expressed
+with the verb: 2 Timothy <b>4</b>:15</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      e.  third person imperative</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (1)  “permissive
+imperative” (John <b>14</b>:1; 1 Corinthians <b>7</b>:15; <b>14</b>:38;
+Ephesians <b>4</b>:26; 1 Timothy <b>3</b>:10; <b>4</b>:12)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (2)  aorist <i>vs.</i>
+present imperative </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                       f.  present tense: Mark <b>5</b>:34;
+John <b>5</b>:14; 1 Corinthians <b>7</b>:2; <b>14</b>:1; 1 Thessalonians </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                                               <b>5</b>:16;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (1)  action already in
+process: John <b>5</b>:14</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (2)  action not
+already in process: Mark <b>5</b>:34</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (3) 
+uncertain/irrelevant whether already in process</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      g.  aorist tense: Matthew <b>6</b>:9-13;
+<b>24</b>:18; Luke <b>5</b>:27</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (1)  action already in
+process: Matthew <b>6</b>:9-13; Luke<b> 5</b>:27</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (2)  action not
+already in process: Revelation <b>2</b>:11</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (3) 
+uncertain/irrelevant whether already in process</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                3.  Subjunctive</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      a.  deliberate subjunctive:  </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (1)  normal: Matthew<b>
+6</b>:31; <b>11</b>:2b, 16?; Luke <b>3</b>:10; 11:5<span style='position:relative;
+top:-3.0pt'>2</span>; 1 Corinthians </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                                               <b>4</b>:21</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (2)  introduced by
+//:  Luke </span><b><span style='font-size:12.0pt;
+color:windowtext'>22</span></b><span style='font-size:12.0pt'>:9</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      b.  hortatory subjunctive:  </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (1)  normal plain
+subjunctive: Jn. <b>14</b>:31; Galatians <b>5</b>:26</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (2)  / +
+subjunctive:  Matthew <b>7</b>:4</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (3)  / +
+subjunctive</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      c.  prohibitive subjunctive: 
+Hebrews <b>3</b>:8</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (1)  third-person
+prohibitory subjunctive (rare): 1 Corinthians <b>16</b>:11; 2 Thessalonians<b>
+2</b>:3; 2 Corinthians <b>11</b>:16</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (2)  Matthew <b> 6</b>:2,
+7, 13, 17, 31; <b>23</b>:9, 10; <b>24</b>:26, 34, 35.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      d.  emphatic negative:   +
+subjunctive: Matthew <b>23</b>:39; <b>24</b>:21;</span><b><span
+style='font-size:12.0pt;color:windowtext'> 26</span></b><span style='font-size:
+12.0pt'>:29; Luke <b>22</b>:16;      Hebrews <b>13</b>:5</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                4.  Optative</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      a.  potential optative in
+independent clauses: Acts<b> 8</b>:31; <b>17</b>:18</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      b.  potential optative in
+dependent clauses: Acts <b>20</b>:16; 1 Peter <b>3</b>:14</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      c.  attainable wish: Philemon 20;
+1 Thessalonians<b> 5</b>:23</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                <u></u>: Luke
+<b>20</b>:16; Romans<b> 3</b>:4, 6, 31; <b>6</b>:2, 15;<b> 7</b>:7, 13; <b>9</b>:14;<b>
+11</b>:1, 11; 1 Corinthians <b>6</b>:15; Galatians <b>2</b>:17; <b>3</b>:21;<b>
+6</b>:14</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      d.  optative indirect-discourse
+verb after secondary tense main verb (see &quot;Clauses:  indirect
+discourse&quot;)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         C.  Voices</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                1.  Active</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                2.  Middle</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      a.  reflexive</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (1)  direct reflexive</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (2)  indirect
+reflexive</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (3)  active +
+reflexive pronoun can replace traditional middle-voice meaning:                   Luke
+<b>23</b>:39; John <b>17</b>:19; <b>19</b>:7; <b>21</b>:7, 18; Romans <b>2</b>:1;
+Galatians<b> 1</b>:4; Ephesians <b>4</b>:19; <b>5</b>:2, 25; 1 John <b>1</b>:18</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (4)  middle voice +
+reflexive pronoun:  Ephesians <b>4</b>:32</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      </span><span lang=FR
+style='font-size:12.0pt'>b.  causative:  Acts <b>22</b>:16</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                3.  Passive      </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>         D.  Participles</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                </span><span style='font-size:12.0pt'>1. 
+Attributive participles</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      a.  articular participles with
+anarthrous nouns</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      b.  anarthrous participles with
+anarthrous nouns:  Like <b>6</b>:30; 1 Corinthians <b>13</b>:1; Hebrews <b>7</b>:8</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      c.  first attributive: Ephesians
+<b>1</b>:19</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      d.  second attributive: 1 Thessalonians
+<b>1</b>:10; Titus <b>1</b>:9</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                2.  Substantival participles</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      a.  subject</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      b.  direct object</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      c. indirect object</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      d.  object of preposition:  Luke<b>
+6</b>:30</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                3.  Circumstantial participles</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      a.  periphrastic participial
+constructions</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (1)   + present
+participle with elements to be taken together:  Matthew <b>10</b>:22; <b>12</b>:4;
+2 Corinthians 9:12</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (2)  separated
+elements to be taken together: Mark<b> 2</b>:18;<b> 8</b>:30; <b>13</b>:25; <b>14</b>:40;
+<b>24</b>:38; <b>26</b>:43; John <b>3</b>:22-23; Acts <b>7</b>:26?; <b>12</b>:5</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (3)  separated
+elements not to be taken together: Mark <b>3</b>:1; Acts<b> 9</b>:9</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (4)   + present
+participle: Matthew <b>9</b>:36; <b>19</b>:22; <b>24</b>:9; Luke <b>19</b>:20</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (5)  perfect
+periphrastic participles: Matthew <b>10</b>:26, 30; <b>18</b>:20; <b>26</b>:43</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (6)   +
+participle: Acts<b> 8</b>:16</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (7)   + aorist
+participles (): Luke <b>23</b>:19; Acts <b>12</b>:25</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (8)  periphrastic
+imperative: Luke <b>19</b>:17</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (9)   + 
+periphrastic</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      b.  genitive absolute
+constructions</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (1)  normal examples: <b>Matthew
+1</b>:20; <b>2</b>:1, 13, 19;<b> 6</b>:3;<b> 8</b>:16, 28;<b> 9</b>:32, 33; <b>11</b>:7;
+  <b>12</b>:46; <b>13</b>:6, 19; <b>14</b>:15, 23, 32; <b>16</b>:2; <b>17</b>:5,
+9, 22, 24, 25;<b> 18</b>:24, 25; <b>20</b>:8, 29; <b>21</b>:10, 23; <b> 22</b>:41;
+<b>24</b>:3; <b>25</b>:5, 10, 60; <b>26</b>:6, 7, 20, 21, 47; <b>27</b>:1, 17,
+19, 57; <b>28</b>:11, 13; <b>John 8</b>:30; <b>Acts</b>   <b>10</b>:44; <b>28</b>:6,
+9; <b>Rom</b>ans<b> 5</b>:6;<b> 7</b>:3, 9, 13; </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (1)  genitive
+absolutes with no expressed subject: Luke <b>12</b>:36;<b> 22</b>:55; Matthew     
+<b>17</b>:14, 26; Acts<b> 20</b>:10, 31</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (2)  subject almost
+never the same as the subject of the main clause</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                       (a) genitive
+absolute can be used even when the grammatical person,             number, and
+gender is the same as the subject as long as the referent is different: Mark <b>6</b>:54-55</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                       (b) genitive
+absolute with same subject was the main verb:  Matthew<b> 1</b>:18; Hebrews<b> 8</b>:9;
+Acts <b>7</b>:32</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (3) genitive absolute
+may appear <u>after</u> the main clause: Hebrews <b>2</b>:3-4</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (4) genitive absolute
+can cover for a conditional sentence protasis: 1 Corinthians <b>4</b>:19</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (5)  double genitive
+absolute: Romans<b> 2</b>:15</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      c.  dative absolute
+constructions: Matthew. <b>8</b>:23;<b> 9</b>:27, 28 (?); <b>14</b>:6; Acts <b>28</b>:10
+(?)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      d.  accusative absolute
+constructions: Acts <b>26</b>:3; Ephesians <b>1</b>:18; Hebrews <i>10</i>:2</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      e.  nominative absolute: Romans <b>12</b>:8,
+16; Revelation <b>2</b>:26</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                       </span><span lang=FR
+style='font-size:12.0pt'>f.  present participles</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                      g.  aorist participles</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                                </span><span
+style='font-size:12.0pt'>(1)  usually chronologically prior to the main verb</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (2)  not necessarily
+prior to the main verb time-wise: Matthew<i> 10</i>:4; 1 Corinthians <b>2</b>:1;
+and most instances</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (3)  subsequent to the
+main verb time-wise: Acts <b>25</b>:13</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      </span><span lang=FR
+style='font-size:12.0pt'>h.  future participles</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                                (1)  future passive:
+Hebrews<b> 3</b>:5</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                                (2)  future
+non-purposive: Luke. <b>22</b>:49; 1 Corinthians <b>15</b>:37; Hebrews <b>3</b>:5</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                       i.  present perfect participles</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                                (1)  periphrastic: Matthew
+<b>10</b>:26</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                       j.  future perfect participles</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                      k.  participles joined to
+imperatives</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                       l.  nominative participle plus
+cognate finite verb as equivalent for Hebrew infinitive     absolute plus
+cognate finite verb for emphasis: Acts <b>5</b>:4 (?)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                </span><span style='font-size:12.0pt'>4. 
+unusual modification situations</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      a.  compound singular subjects
+modified by a plural participle: Matthew<i> </i><b>27</b>:61;  Acts <b>13</b>:46</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      b.  compound masculine and
+feminine subject modified by plural masculine                  participle(?): Acts<b>
+25</b>:23</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                c.  singular masculine
+plus plural masculine subject modified by plural masculine                        participle:
+Acts <b>27</b>:20</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                d.  compound plural
+masculine and plural neuter nouns modified by neuter plural participle:  Mtatthew
+<b>22</b>:4</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                e.  compound plural
+neuter and plural feminine nouns modified by feminine plural participle:  Hebrews<b>
+9</b>:9</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                f.  collective
+singular neuter noun modified by plural masculine participle: Luke <b>19</b>:37                </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                   5.  approaching the value of an
+infinitive (gerund or completing the meaning of the verb almost like a
+periphrastic construction): Matthew <b>11</b>:1;<b> 28</b>:1; Luke <b>5</b>:4</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                </span><span lang=FR style='font-size:
+12.0pt'>6.  adjectival objective complement: Matthew <b>24</b>:30</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                7.  objective complement (see
+&quot;Verbs: participles&quot;)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                8.  values</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                      </span><span style='font-size:
+12.0pt'>a.  time</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      b.  means</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      c.  </span><span lang=FR
+style='font-size:12.0pt'>manner</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                      d.  cause</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                      e.  condition</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                       f.  </span><span
+style='font-size:12.0pt'>concession: Mark 4:31; John <b>9</b>:25; <b>21</b>:11;
+Acts <b>7</b>:5; Hebrews <b>5</b>:8</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      g.  attendant circumstance</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      h. co-ordinate circumstance</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                       i.  purpose</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (1)  future
+participle:  Matthew <b>27</b>:49; Acts <b>22</b>:5; <b>24</b>:17</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                       j.  result</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      k.  command (see under
+&quot;Clauses:  command&quot;)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         </span><span lang=FR style='font-size:12.0pt'>D. 
+Infinitive</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                1.  subject</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                  a  articular infinitive: 2 Corinthians
+<b>9</b>:1</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                      </span><span style='font-size:
+12.0pt'>b. anarthrous infinitive: Matthew <b>17</b>:4 (); Acts <b>1</b>:16
+(); Ephesians <b>6</b>:20 ()</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                2.  direct object</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      a. articular infinitive: Philippians
+<b>4</b>:10</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      b. anarthrous infinitive: Mark <b>12</b>:12;
+Acts<b> 8</b>:38</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                3.  free-standing genitive articular
+infinitive:  Matthew <b>11</b>:1; <b>21</b>:32; Luke <b>9</b>:51; Acts </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                    <b>14</b>:9</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                4.  purpose infinitive w/o genitive
+article  Luke <b>3</b>:12; <b>11</b>:31</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                5.  dative articular infinitive
+(causative)  2 Corinthians<b> 2</b>:13*</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      6.  after prepositions: Luke <b>24</b>:51
+(); Acts. <b>1</b>:3 (); <b>4</b>:2 (A); <b>8</b>:40 ();            Romans
+<b>3</b>:26 (); Galatians <b>3</b>:23 (); 2 Corinthians <b>7</b>:12 ();
+<b>8</b>:11 (); Ephesians <b>6</b>:11 (); James <b>4</b>:15 ()</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                7.  after  to mean result (see
+&quot;Clauses:  result&quot;)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      8. subject of copulative
+infinitive = subject of main verb with nominative predicate-                  nominative
+adjective: 1 Corinthians <b>3</b>:18</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                9. parenthetical infinitive: Hebrews <b>7</b>:9*</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>              10. imperatival infinitive (see
+&quot;Clauses: commands&quot;)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>              11.  anarthrous infinitive after
+to mean before (see &quot;Basic Concept Construction:   Time&quot;)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>              12.  with adjectives </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      a.  articular: Acts <b>23</b>:15
+</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      b.  anarthrous: 2 Timothy <b>2</b>:2;
+Revelation <b>5</b>:9</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>              13.  with certain verbs </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      a.    2 Corinthians<b> 1</b>:15</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      b.  : 1 Corinthians <b>3</b>:18</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      c.  : Matthew <b>9</b>:28;
+Mark <b>4</b>:33; Mark <b>9</b>:39</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      d.  : Romans <b>15</b>:22
+</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      e.  :Matthew <b>12</b>:38</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                       f.   (see &quot;Verbs: 
+infinitives&quot;)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      g.  : 1 John <b>3</b>:16;
+Hebrews <b>2</b>:17</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>              14.  adjuncts of certain nouns: Matthew<b>
+3</b>:14 (); John<b> 1</b>:12 ()</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>              15.  appositive to a noun: 1 Thessalonians<b>
+4</b>:3</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>              16.  infinitives in indirect discourse
+(see &quot;Clauses:  indirect discourse&quot;)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>   V.  Adverbs</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>   V.  Sentence types</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         A.  Subject-verb relationships</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                1.  plural neuter subjects</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      a.  with singular verbs: Hebrews
+<b>9</b>:22; 1 John <b>3</b>:10, 12</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      b.  with plural verbs</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                2.  compound singular subjects</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      a.  with plural verb: John <b>19</b>:25;
+1 Corinthians <b>3</b>:8</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      b.  with singular verb: Matthew <b>6</b>:19</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                3.  collective noun subject </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      a.  with a singular verb</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      b.  with a plural verb: Luke <b>19</b>:37
+(also with plural participle–)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                4.  a compound subject usually takes a
+verb in the number of the subject nearest </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      of the verb: 1 Corinthians <b>7</b>:34</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                5.  compound singular subjects uses
+plural verb: Mark<b> 15</b>:47</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                6.  a compound subject usually takes a
+verb in the person of the subject nearest to the </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  verb: Acts <b>15</b>:10 </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>()</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         B.  Verb-object relationships</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                1.  the same direct object after a
+second or third verb is not repeated: Mark <b>15</b>:1b, 15c</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         C.  Verb-indirect object relationships</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                1.  the same indirect object after a
+second or third verb is not repeated: Mark <b>15</b>:1b</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         D.  Linking verb and predicate noun
+relationships</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                1.  Caldwell's canon</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                2.  two nouns and a linking verb</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      a.  neither noun has article</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      b.  one noun has article: 1 Timothy<b>
+6</b>:5b; 1 John <b>4</b>:8</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      c.  one proper noun and one
+common noun: John <b>18</b>:40</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      d.  both nouns have article: John
+<b>15</b>:1; 1 Corinthians <b>10</b>:4; 1 John<b> 3</b>:4</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      e.  second noun also before verb
+Mark <b>15</b>:39; John <b>19</b>:7</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          E.  Linking verb with pronoun subject and
+another noun: Galatians <b>4</b>:24</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>   </span><span lang=FR style='font-size:12.0pt'>V. 
+Clauses</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>         A.  Conditional clauses</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                1.  </span><u><span style='font-size:
+12.0pt'>real conditional sentences </span></u><span style='font-size:12.0pt'>(present
+or past particular): Class A</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      a.  present conditional clause: 
+John <b>1</b>:25; Galatians <b>5</b>:18</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      b.  past conditional clause</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      c.  future conditional clause: Matthew
+<b>26</b>:33</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      d.  mixed tenses between
+conditional clause and apodosis: John <b>15</b>:20</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      e.  protasis of A-class
+condition used alone as aposiopesis to mean &quot;not&quot;: Mark <b>8</b>:12;    
+Hebrews <b>3</b>:11 [cp.<b> 3</b>:18]; <b>4</b>:3, 5; </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                2.  <u>contingent conditional
+sentences</u>: Class B</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      a.  present general: Matthew<b>
+8</b>:2; John<b> 13</b>:8</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      b.  vivid future:1 Corinthians<b>
+4</b>:19;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                3.  <u>contrary-to-fact conditional
+clauses</u>: Class C</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      a.  examples: Mark <b>13</b>:20;
+John <b>8</b>:42</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      b.  instances where  is
+omitted from the protasis: John <b>9</b>:33; <b>15</b>:22; Acts </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                <b>26</b>:32;1 Corinthians<b>
+12</b>:17<span style='position:relative;top:-3.0pt'>2</span>, 19</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                4.  <u>vague future</u>: Class D</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                5.  <u>Miscellaneous</u></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      1.  subjunctive  Revelation
+<b>11</b>:5b</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         B.  indefinite/conditional relative</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                1.  // +  plus subjunctive: </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                2.  //+ </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                3.  //+ </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                4.  //+ </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                5.  </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                6.   plus aorist subjunctive</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                7.   +  plus aorist subjunctive:
+Matthew<b> 2</b>:13; <b>10</b>:23</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                8.  plus subjunctive</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                9.   plus subjunctive</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>              10.   plus subjunctive</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>              11.   plus subjunctive</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>              12.   plus subjunctive</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>              13.    plus subjunctive</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>              10.   + : Revelation <b>11</b>:6</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>              11. subjunctive</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>              12.  indicative: Mark <b>6</b>:56</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>              13.  </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>              14.  comparison of condition clauses and
+conditional/indefinite relative: Mark <b>10</b>:43 + </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      <b>9</b>:35</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         </span><span lang=FR style='font-size:12.0pt'>C. 
+Indirect discourse constructions</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                1.  </span><span style='font-size:
+12.0pt'></span><span lang=FR style='font-size:12.0pt'>finite verb</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                      a.  non-optative
+indirect-discourse verb after main verb in secondary tense: Matthew <b>20</b>:10</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                      b.  optative indirect-discourse
+verb after secondary-tense main verb:  Luke <b>8</b>:9</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                </span><span style='font-size:12.0pt'>2. 
+participle: Mark<b> 5</b>:30; Hebrews <b>13</b>:23</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                3.  infinitive: Acts <b>28</b>:6; Romans<b>
+3</b>:28</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                4.  subjunctive: Matthew <b>4</b>:3</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                5.  indicative: Revelation <b>6</b>:4,
+11;<b> 8</b>:3;<b> 14</b>:13;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                6.   omitted + subjunctive: Mark<b>
+1</b>:44</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         D.  Direct discourse constructions</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                1.  preceded by </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                2.  not preceded by </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>             present-tense indirect-discourse verb
+means simultaneous with the main verb:  Luke<b> 18</b>:9</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          </span><span lang=FR style='font-size:12.0pt'>E. 
+Questions</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                1.  direct questions</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                      a.  </span><span
+style='font-size:12.0pt'>introduced by   Matthew <b>19</b>:3; Mark <b>12</b>:10;
+Luke <b>22</b>:49; <b>13</b>:23; Acts <b>1</b>:6; <b>7</b>:1;<b> 19</b>:2<b>;    21</b>:37;
+<b>22</b>:25</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      b.  introduced by
+interrogatives:</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                2.  indirect questions</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      a.  introduced by Matthew <b>12</b>:10;
+Mark <b>10</b>:2</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      b.  introduced by
+interrogatives:</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                3.  questions anticipating negative
+response ( <i>etc</i>.): Matthew <b>12</b>:23; Luke <b>6</b>:39; John <b>9</b>:40;<b>
+18</b>:35; 1 Corinthians <b>11</b>:22;<b> 12</b>:30</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                4.  questions anticipating positive
+response (, <i>etc</i>.): Matthew <b>10</b>:29;<b> 13</b>:55; </span><b><span
+style='font-size:12.0pt;color:windowtext'>21</span></b><span style='font-size:
+12.0pt'>:42; Lk. <b>4</b>:22; <b>17</b>:17; Hebrews <b>3</b>:16</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                5.  double-negative questions:
+Romans<b> 10</b>:18; 1 Corinthians <b>9</b>:4-5; <b>11</b>:22</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                6.  real questions</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                7.  rhetorical questions: Romans<b> 8</b>:31</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                8.  factual/open-ended/ information
+questions: Mark <b>15</b>:2?; John <b>16</b>:31</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                9.  deliberative (see under
+&quot;Verbs: subjunctive&quot;)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          F.  Command constructions</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                1.  imperative</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                2.  future indicative</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                3.  participle</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      a.  free-standing participles
+construction: Mark <b>5</b>:23; Romans <b>12</b>:9; 1 Peter <b>3</b>:1; </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                <b>2</b>:18; </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      b.  tied to an imperative verb</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                4.  infinitive: Romans <b>12</b>:15;
+Philippians <b>3</b>:16; Titus <b>2</b>:2 (<i>Didache</i> <b>14</b>:3)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                5.   plus subjunctive (Turner,
+145-47)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                6.  double imperatives: Matthew <b>27</b>:65;
+<b>28</b>:6, 10</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         G.  Prohibition constructions</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                1.   plus present imperative</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                2.   plus aorist subjunctive (see
+under &quot;Verb-Mood:  Subjunctive&quot;)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                3.   plus future indicative</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         H.  Purpose constructions</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                1.   + subjunctive:</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                2.   + subjunctive: Matthew<b> 5</b>:16;<b>
+6</b>:17-18</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                3.   + subjunctive: Romans<b> 3</b>:4</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                3.   + future indicative: Acts <b>21</b>:19</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                4.  future participle (see under
+&quot;participles&quot;)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                5.   </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                6.  infinitive</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                7.  genitive articular infinitive (see
+under &quot;infinitives&quot;)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>           I.  Fear clauses</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                1.  with subjunctive: Matthew <b>27</b>:64;
+Mark <b>13</b>:35-36; 2 Corinthians <b>12</b>:20</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                2.  : 2 Corinthians <b>12</b>:20</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                3.  : Matthew<b> 27</b>:64</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                4.  with indicative: 1 Thessalonians<b>
+3</b>:5; Hebrews<b> 3</b>:12</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                5.  negative fear clause ( +
+subjunctive): Hebrews <b>3</b>:12</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          </span><span lang=FR style='font-size:12.0pt'>J. 
+Result constructions</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                1.  </span><span style='font-size:
+12.0pt'></span><span lang=FR style='font-size:12.0pt'> plus infinitive: Matthew
+<b>15</b>:31; 1 Corinthians <b>13</b>:2</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>            </span><span style='font-size:12.0pt'>2. 
+ plus indicative: Matthew <b>19</b>:6; Mark <b>2</b>:28 (inferential
+&quot;so&quot;); <b>4</b>:1 (inferential &quot;so&quot;?); John <b>3</b>:16; 1
+Corinthians <b>3</b>:7; <b>14</b>:22; Galatians 2:13; <b>4</b>:16</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                3.   plus imperative: 1 Corinthians
+<b>3</b>:21;<b> 4</b>:5</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                4.  infinitives (see under
+&quot;infinitives&quot;)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                5.   + subjunctive: Mark <b>5</b>:23
+(inferential &quot;so&quot;); Luke <b>20</b>:28; Revelations <b>8</b>:12</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         K.  Object clauses</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          L.  Assorted Noun Clauses</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                1.  subjunctive:</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                2.  subjunctive subject of main
+clause: 1 Corinthians <b>4</b>:2, 3</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                3.  infinitive phrase subjects of
+impersonal verbs (see &quot;Verbs:  infinitives&quot;)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>        M.  Relative clauses (see
+&quot;Substantive-Pronouns:  relative pronouns&quot;)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'> VII.  Prepositions</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         A.  With nominative (see above under
+&quot;nominative&quot;):  Romans <b>12</b>:5 (')</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         B.  With genitive</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                1.  </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                2.  </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      a.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      b.  some &quot;of&quot;
+(partitive genitive):  Matthew <b>23</b>:34; <b>25</b>:8</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                3.  </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      a.  location</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      b.  means</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      c.  manner</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         C.  With dative</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         D.  With accusative</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          E.  With genitive and accusative</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          F.  With genitive, dative, and accusative</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                1.  </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                       aTwo
+uses of  in the same verse:  Revelation <b>14</b>:6</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         G.  Prepositional phrases in adjective slots</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                1.  first attributive: 2 Corinthians <b>1</b>:11</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                2.  second attributive: Mathew <b>6</b>:23;
+Luke <b>11</b>:35</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                3.  second predicate: Ephesians <b>2</b>:11</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                4.  with anarthrous noun: Mark <b>1</b>:23</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         H.  Prepositional phrases in adverbial slots:
+Mark <b>1</b>:9</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>           I.  Substantivized prepositional phrases: Mark
+<b>5</b>:27; <b>13</b>:16; Luke <b>9</b>:32; Acts <b>12</b>:1; <b>13</b>:13;
+Romans <b>4</b>:14; <b>11</b>:21</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'> VIII.  Conjunctions</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          1.  </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                a.  can connect co-ordinate
+participles: 2 Timothy <b>1</b>:10</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          2.  </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                a.  as replacements for Â- consecutive
+after È‰ÈÂ: Matthew <b>9</b>:10; Luke <b>19</b>:15?; Hebrews <b>5</b>:7?</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                b.  situations of real contrast: Luke <b>18</b>:2;
+<b>20</b>:19;<b> 21</b>:18; John 20:14; Acts <b>7</b>:5, 9</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          3.  phrase conjunction:  : Matthew <b>11</b>:27;
+<b>17</b>:8</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>  IX.  Constructions for various basic concepts</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         A.  Comparison </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                1.  &quot;than&quot;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      a.   plus same case: Matthew <b>10</b>:15;
+John<b> 3</b>:19;<b> 4</b>:1</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      b.  genitive second noun (see
+&quot;Cases:  genitive&quot;)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      </span><span lang=FR
+style='font-size:12.0pt'>c.  </span><span style='font-size:12.0pt'></span><span
+lang=FR style='font-size:12.0pt'> plus accusative: Luke <b>16</b>:8</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                      d.  </span><span
+style='font-size:12.0pt'></span><span lang=FR style='font-size:12.0pt'>
+plus accusative: Hebrews <b>9</b>:23; <b>11</b>:4</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                      e.  </span><span
+style='font-size:12.0pt'></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                       f.  </span><span
+style='font-size:12.0pt'>&quot;rather than&quot;: (Luke <b>18</b>:14; Romans
+<b>1</b>:26, 27)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                2.  degrees of comparison  (see under
+&quot;Adjectives&quot;)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      a.  positive degree </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      b.  comparative degree </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (1) 
+comparative-degree adjectives</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (2)  positive
+degree: Acts <b>20</b>:35</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (3)  positive
+degree:</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (4)  positive
+degree:</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      c.  superlative degree</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (1) 
+superlative-degree adjectives</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (2)  
+positive degree: Acts<b> 20</b>:38</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                3.  degrees of adverbs</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      a.  positive</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      b.  comparative</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (1)  &quot;love . . .
+hate&quot;: Luke <b>16</b>:13</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      c.  superlative</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                4.  &quot;so . . . that&quot;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      a. 
+&quot;&quot;: John <b>3</b>:16; Hebrews<b> 12</b>:21</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         B.  Negation</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                1.  words</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      a.   + indicative: Matthew <b>7</b>:6
+(); Johnh <b>3</b>:18; Acts <b>28</b>:27 ()</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      b.  + <u>subjunctive</u>
+for emphatic future:  Matthew<b> 23</b>:39; <b>24</b>:21; <b>26</b>:29; <b>22</b>:16;
+Hebrews <b>13</b>:5; Revelation<b> 3</b>:5(I/S?)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      c.  + <u>future indicative</u>
+for emphatic futureLuke <b>1</b>:15; Revelation <b>3</b>:5 (i/S?)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                2.  privative</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      a.  negative</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      b.  neutral</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         C.  Agency</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                1.  verbs</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                2.  prepositions                      </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      a.  with active verb</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (1)  G + active
+verb: Hebrews <b>12</b>:3</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (2)  D + active
+verb: Mark <b>3</b>:22 (personal)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      b.  with passive verb</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (1)  with preposition
+omitted after perfect passives: Colossians<b> 4</b>:6 (D); 2 </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                       Peter <b>2</b>:19
+(D)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (2)  with preposition
+omitted: Matthew <b>6</b>:1 (D), 5 (D);<b> 23</b>:5 (D); <b>25</b>:34 </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                       (G); 1 Timothy <b>3</b>:16
+(D)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (3)   + G: Matthew<b>
+11</b>:19</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (4)  G: Matthew<b>
+28</b>:14</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (5)     Matthew <b>28</b>:15</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (6)  G:  Galatians
+<b>2</b>:16; 1 John <b>2</b>:29</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (7)  G (usually
+intermediate agent) John <b>1</b>:10; Hebrews <b>7</b>:23 (impersonal)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (8)  G: Matthew <b>4</b>:1;
+1 Corinthians <b>10</b>:29 (impersonal);</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (9)  D: Romans <b>10</b>:20
+(personal)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      c.  with linking verb</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (1)  G + linking
+verb: Luke <b>10</b>:17; Acts<b> 12</b>:5</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         D.  Means</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                1.  prepositions</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      a.  with active verbs</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (1)  Matthew <b>1</b>:18
+(  ); <b>3</b>:11? (en); John<b> 1</b>:26? (en); Acts <b>3</b>:21 () Romans
+3:30 (and); Hebrews <b>9</b>:12 (); <b>9</b>:25 (; cp. <b>9</b>:12)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      b.  with passive verbs</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                      c.  with linking verbs</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                (1)  Matthew <b>1</b>:20
+()</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                2.  plain dative: Mark <b>1</b>:8?; Luke
+<b>3</b>:16?;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          </span><span lang=FR style='font-size:12.0pt'>E. 
+Manner</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                1.  prepositional phrase</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                2.  participle</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                3.  adverb</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>          F.  Purpose</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                1.  participle</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                2.  future participle</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                3.  prepositional phrase (</span><span
+style='font-size:12.0pt'></span><span lang=FR style='font-size:12.0pt'>)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                4.  anarthrous infinitive</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                5.  genitive articular infinitive</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                6.  </span><span style='font-size:
+12.0pt'>// + subjunctive</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                7.  relative clause + future
+indicative</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         G.  Result (see &quot;Clauses:  result&quot;)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         </span><span lang=FR style='font-size:12.0pt'>H. 
+Cause</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                1.  conjunction</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                2.  dative-case articular infinitive:
+2 Corinthians<b> 2</b>:13*</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                3.  participle</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                4.  verbs</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                5.  prepositions</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>           I.  Possession</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                1.  </span><span style='font-size:
+12.0pt'></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                2.  dative of possession</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                3.  possessive genitive</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                4.  possessive adjective: 
+////</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          J.  Condition</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                1.  /</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                2.  participle</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         K.  </span><span lang=FR style='font-size:
+12.0pt'>Concession</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                1.  conjunction</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                      a.  </span><span
+style='font-size:12.0pt'></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                      b. </span><span
+style='font-size:12.0pt'></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                2.  participle</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>          L.  Time</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                1.  absolute</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                2.  relative</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                      a.  participle</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                      b.  conjunction</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                                (1)  before (</span><span
+style='font-size:12.0pt'></span><span lang=FR style='font-size:12.0pt'>
+anarthrous infinitive): Mark <b>1</b>:18; John </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                                       <b>8</b>:58</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                      c.  adverb</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>        M.  Location</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>   X.  Accidence</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>         A.  accents</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                1.  </span><span style='font-size:
+12.0pt'>on enclitics in a series</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                2.  on proclitics in a series:  Mark <b>1</b>:22,
+36</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+</div>

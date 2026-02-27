@@ -10,78 +10,241 @@ title: LAYOUT OF THOUGHTS ON DEUTERONOMY 6:4
 weight: 3
 ---
 
+<style>
+/* Font Definitions */
+ @font-face
+	{font-family:"Tms Rmn";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+ /* Style Definitions */
+ .word-content p.MsoNormal, .word-content li.MsoNormal, 
+.word-content .MsoChpDefault
+	{font-family:"Tms Rmn",serif;}
+ /* Page Definitions */
+ 
 
+ /* List Definitions */
+ ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+</style>
 
-יהוה אלהינו יהוה אהד
+<div class="word-content">
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
+style='font-size:14.0pt'>               LAYOUT OF THOUGHTS ON DEUTERONOMY 6:4</span></b></p>
 
-“Yahveh our God <em>is</em> one Yahveh.”
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
+margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><b><span
+style='font-size:12.0pt'>&nbsp;</span></b></p>
 
-“Yahveh <em>is</em> our God, Yahveh alone.”
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
+margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><span
+style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
 
-“Yahveh <em>is</em> our God, Yahveh <em>is </em>one.”
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
+margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><span
+style='font-size:12.0pt'>          </span></p>
 
-“Yahveh <em>is</em> our God; Yahveh <em>is</em> unique.”
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:13.5pt;margin-bottom:.0001pt;text-align:justify'><span lang=HE
+dir=RTL style='font-size:14.0pt'>יהוה אלהינו יהוה אהד</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:13.5pt;margin-bottom:.0001pt;text-align:justify'><span dir=LTR></span><span
+style='font-size:12.0pt'><span dir=LTR></span>“Yahveh our God <i>is</i> one
+Yahveh.”</span></p>
 
-A Jewish                                	   	  A  Jewish
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:13.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>“Yahveh <i>is</i> our God, Yahveh alone.”</span></p>
 
-Viewpoint      	Response      	 Response                   	Counter-response
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:13.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>“Yahveh <i>is</i> our God, Yahveh <i>is </i>one.”</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:13.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>“Yahveh <i>is</i> our God; Yahveh <i>is</i> unique.”</span></p>
 
-Deuteronomy <strong><sup>6</sup></strong>:4  “us”              	(a) majestic plural        	Genesis   <strong><sup>3</sup></strong>:22*   “one   of   us”
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:13.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-does not mean majestic plural;
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>   A Jewish                                         A  Jewish</span></p>
 
-it is the clearest Old Testament
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Viewpoint</span></u><span style='font-size:12.0pt'>     
+       <u>Response</u>             <u>Response</u>                          <u>Counter-response</u></span></p>
 
-text   on   plurality   associated
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-with trinitarian deity.
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>Deuteronomy <b>6</b>:4  “us”                    (a)
+majestic plural             Genesis   <b>3</b>:22*   “one   of   us”  </span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                                                                                    does
+not mean majestic plural;  </span></p>
 
-one = single        	Genesis <strong><sup>1</sup></strong>:26;   	(b) angels + God = “us”   (1) Angels  not  yet   mentioned
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                                                                                    it
+is the clearest Old Testament </span></p>
 
-being	    *<strong><sup>3</sup></strong>:22; <strong><sup>11</sup></strong>:7				   in   Genesis.  Genesis   <strong><sup>3</sup></strong>:24
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                                                                                    text 
+ on   plurality   associated   </span></p>
 
-(Isaiah <strong><sup>6</sup></strong>:8)                           			      refers  to   them  later  (note
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                                                                                    with
+trinitarian deity.</span></p>
 
-Job  <strong><sup>38</sup></strong>:7 and <strong><sup>1</sup></strong>:6 however).
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:8.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>one = single          Genesis <b>1</b>:26;     (b) angels
++ God = “us”   (1) Angels  not  yet   mentioned      </span></p>
 
-(2) Besides, in the statement of
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>being                         *<b>3</b>:22; <b>11</b>:7                                                    
+in   Genesis.  Genesis   <b>3</b>:24</span></p>
 
-fulfillment       after       the
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:3.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-3.0in'><span
+style='font-size:12.0pt'>                          (Isaiah <b>6</b>:8)                                                       refers
+ to   them  later  (note   </span></p>
 
-proposal  in  Genesis  <strong><sup>1</sup></strong>:26,
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:3.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-3.0in'><span
+style='font-size:12.0pt'>                                                                                              
+    Job  <b>38</b>:7 and <b>1</b>:6 however). </span></p>
 
-the  text  affirms that it is in
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:4.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-4.0in'><span
+style='font-size:12.0pt'>                                                                              </span></p>
 
-the image of God.
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:315.0pt;margin-bottom:.0001pt;text-align:justify;text-indent:-279.0pt'><span
+style='font-size:12.0pt'>                                                                                             (2)
+Besides, in the statement of   </span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:315.0pt;margin-bottom:.0001pt;text-align:justify;text-indent:-279.0pt'><span
+style='font-size:12.0pt'>                                                                                                   fulfillment 
+     after       the </span></p>
 
-(3) It is in  his  image  (<em>i.e</em>.,  not
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:315.0pt;margin-bottom:.0001pt;text-align:justify;text-indent:-279.0pt'><span
+style='font-size:12.0pt'>                                                                                                   proposal
+ in  Genesis  <b>1</b>:26,  </span></p>
 
-plural as one would expect
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:315.0pt;margin-bottom:.0001pt;text-align:justify;text-indent:-279.0pt'><span
+style='font-size:12.0pt'>                                                                                                   the
+ text  affirms that it is in </span></p>
 
-if “us” in <strong><sup>1</sup></strong>:26 meant God +
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:315.0pt;margin-bottom:.0001pt;text-align:justify;text-indent:-279.0pt'><span
+style='font-size:12.0pt'>                                                                                             
+     the image of <u>God</u>.</span></p>
 
-angels).
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:315.0pt;margin-bottom:.0001pt;text-align:justify;text-indent:-279.0pt'><span
+style='font-size:8.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:315.0pt;margin-bottom:.0001pt;text-align:justify;text-indent:-315.0pt'><span
+style='font-size:12.0pt'>                                                                
+                                        (3) It is in  his  image  (<i>i.e</i>.,
+ not </span></p>
 
-Deuteronomy<strong> 6</strong>:4: (1)					The  “Shema”  needs  to contri-  								bute   to our  loving  God com- 			pletely.   That  he  is  a  single being  <em>vs</em>. a  trinity does  not  give  a reason for
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:315.0pt;margin-bottom:.0001pt;text-align:justify;text-indent:-279.0pt'><span
+style='font-size:12.0pt'>                                                                                                  
+plural as one would expect   </span></p>
 
-loving him.  The point is rather  that one  means “unique,” or  “only one”  (no
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:315.0pt;margin-bottom:.0001pt;text-align:justify;text-indent:-279.0pt'><span
+style='font-size:12.0pt'>                                                                                                  
+if “us” in <b>1</b>:26 meant God + </span></p>
 
-other  gods); both  ideas  can  contribute  to reasons for loving him.
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:315.0pt;margin-bottom:.0001pt;text-align:justify;text-indent:-279.0pt'><span
+style='font-size:12.0pt'>                                                                                                  
+angels).</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-(2)  אֶהָד  (“one”) does not  eliminate  distinction  between  the  sub-units
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>Deuteronomy<b> 6</b>:4: (1)                                                                The
+ “Shema”  needs  to contri-                                                                                          bute
+  to our  <u>loving </u> God com-                                           pletely.
+  That  he  is  a  single being  <i>vs</i>. a  trinity does  not  give  a
+reason for </span></p>
 
-of what is “one.” A good example is Genesis <strong><sup>2</sup></strong>:24, where husband +
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                        loving him.  The point is
+rather  that <u>one</u>  means “unique,” or  “only one”  (no  </span></p>
 
-wife = אֶהָד (“one”) flesh.
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                        other  gods); both  ideas  can
+ contribute  to reasons for loving him.</span></p>
 
-Note: The preferred translation of Deuteronomy<strong> 6</strong>:4 is <em>“Yahveh is our God, Yahveh  alone.”</em>
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.5in'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.5in'><span
+style='font-size:12.0pt'>                                                                    (2) 
+</span><span lang=HE dir=RTL style='font-size:12.0pt'>אֶהָד</span><span
+dir=LTR></span><span lang=HE style='font-size:12.0pt'><span dir=LTR></span>  </span><span
+style='font-size:12.0pt'>(“one”) does not  eliminate  distinction  between 
+the  sub-units  </span></p>
 
-christir.org
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.5in'><span
+style='font-size:12.0pt'>                                                                          of
+what is “one.” A good example is Genesis <b>2</b>:24, where husband + </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.5in'><span
+style='font-size:12.0pt'>                                                                          wife
+= </span><span lang=HE dir=RTL style='font-size:12.0pt'>אֶהָד</span><span
+dir=LTR></span><span lang=HE style='font-size:12.0pt'><span dir=LTR></span> </span><span
+style='font-size:12.0pt'>(“one”) flesh.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.25in'><span
+style='font-size:12.0pt'>                              Note: The preferred
+translation of Deuteronomy<b> 6</b>:4 is <i>“Yahveh is our God, Yahveh  alone.”</i></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:11.0pt'>christir.org</span></p>
+</div>

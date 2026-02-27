@@ -9,35 +9,208 @@ title: THOUGHTS ON INTERIM MINISTRIES
 weight: 2
 ---
 
+<style>
+/* Font Definitions */
+ @font-face
+	{font-family:"Tms Rmn";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+ /* Style Definitions */
+ .word-content p.MsoNormal, .word-content li.MsoNormal, 
+p.MsoHeader, li.MsoHeader, 
+span.HeaderChar
+	{mso-style-name:"Header Char";
+	mso-style-link:Header;
+	font-family:"Times New Roman",serif;
+	color:black;}
+.word-content .MsoChpDefault
+	{font-family:"Tms Rmn",serif;}
+ /* Page Definitions */
+</style>
 
+<div class="word-content">
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
+style='font-size:14.0pt'>THOUGHTS ON INTERIM MINISTRIES</span></b></p>
 
-1. 	An interim ministry buys time for a congregation to find a capable minister suited to its needs. That factor alone is a significant gain among churches that practice local autonomy because they have no official centers for organizing information about the needs of congregations and information about potential ministers. Besides word of mouth, some Christsian colleges are about the only places that make a deliberate effort to put ministers and congregations in contact with one another. Having more time is helpful also because it sometimes takes a while to check out references thoroughly, conduct interviews, arrange visits to the church, and make arrangements to close a previous ministry and relocate. When school-age children are involved, it is often not convenient or advisable to move during semesters; waiting till the end of a term might mean a three- or four-month delay. Sometimes ministers’ spouses have employment that is not easy to leave quickly. There may be property that has to be sold. Having time takes the pressure off so a church does not feel they must take the first possibility that presents itself; they can wait for the right man for a few months even, if need be.
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
+style='font-size:12.0pt'>&nbsp;</span></b></p>
 
-2.	An interim ministry also provides continuity between resident ministries. The local leadership does not have to worry from week to week about who they can get to “fill the pulpit” for next Sunday. For a significant percent of the congregation, having someone consistently there to do the preaching does not seem so very different from normal. Consequently, the spirit of the church is more likely to stay where it should be; the people do not feel abandoned with no one to call on in case of emergency.
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
+style='font-size:12.0pt'>Virgil Warren</span></p>
 
-3.	Unfortunately in a majority of cases, the change of ministry came about because of difficulties in church. More often than not, these situations were due to weaknesses in the previous ministry more than in the church. Ministers do not always represent their calling well. If that is the case, an interim ministry can restore confidence in the ministry.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>  </span></p>
 
-4.	Especially after an unfortunate experience with a previous minister, an interim can restore a congregation’s confidence in itself as a true expression of the body of Christ. Even without such problems, many smaller rural congregations have lost a good bit of their sense of worth as congregations. They have the feeling that they cannot attract anyone except a preacher that cannot find a larger, more affluent church to work with. As a matter of fact, however, there are workers who prefer the “down home” environment for raising their families or for living our their later years of service. It just takes time to find them, and having an interim can provide that time even as he communicates to them their real worth to Christ’s body at large. In so doing, he may keep the church from settling for too little.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>            1.  An interim ministry <u>buys time</u>
+for a congregation to find a capable minister suited to its needs. That factor
+alone is a significant gain among churches that practice local autonomy because
+they have no official centers for organizing information about the needs of
+congregations and information about potential ministers. Besides word of mouth,
+some Christsian colleges are about the only places that make a deliberate
+effort to put ministers and congregations in contact with one another. Having
+more time is helpful also because it sometimes takes a while to check out
+references thoroughly, conduct interviews, arrange visits to the church, and
+make arrangements to close a previous ministry and relocate. When school-age
+children are involved, it is often not convenient or advisable to move during
+semesters; waiting till the end of a term might mean a three- or four-month
+delay. Sometimes ministers’ spouses have employment that is not easy to leave
+quickly. There may be property that has to be sold. Having time takes the
+pressure off so a church does not feel they must take the first possibility
+that presents itself; they can wait for the right man for a few months even, if
+need be.</span></p>
 
-5.	Depending  on his skills, an interim minister can help smooth out difficulties that have arisen within the church either because of, or aside from, the previous minister’s work. Besides what he can contribute to resolving tensions, time itself is a great healer. Just having someone available to provide a concerned presence and help focalize spiritual attention can let these old issues “die down.” Often the “trick” is simply to make sure to keep out any new stresses. The emotional and spiritual energy in good people can heal those wounds.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>            2.  An interim ministry also <u>provides
+continuity</u> between resident ministries. The local leadership does not have
+to worry from week to week about who they can get to “fill the pulpit” for next
+Sunday. For a significant percent of the congregation, having someone
+consistently there to do the preaching does not seem so very different from
+normal. Consequently, the spirit of the church is more likely to stay where it
+should be; the people do not feel abandoned with no one to call on in case of
+emergency.</span></p>
 
-In fact, an interim minister has an advantage over a new resident minister who comes into a church that has had difficulties. The interim worker presumably has some other center for his identity, some other work that provides his sense of satisfaction, some other work that financially supports his family. When he goes into the church’s situation for a brief time, he carries in with him the optimism and positive spirit that has been generated by his primary circumstance. His peace and happiness tends to relieve tensions in a troubled congregation. When he leaves he can emotionally detach himself from the church’s problems because he most likely does not live in the community. His self-esteem is not tied to “success” in this particular work; his source of fulfillment comes from elsewhere.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>            3.  Unfortunately in a majority of cases,
+the change of ministry came about because of difficulties in church. More often
+than not, these situations were due to weaknesses in the previous ministry more
+than in the church. Ministers do not always represent their calling well. If that
+is the case, an interim ministry <u>can restore confidence in the ministry</u>.</span></p>
 
-In these respects he has an advantage over a new resident minister because the latter does live in the community, cannot as easily distance himself from the emotional wear and tear of church strife, and does tend to measure the quality of his work by how well things are going in this church under his influence. Discouragement and disillusionment can soon take its toll. In short, under hard circumstances an interim ministry can reduce the likelihood that the next ministry will be a brief one.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>            4.  Especially after an unfortunate
+experience with a previous minister, an interim <u>can restore a congregation’s
+confidence in itself</u> as a true expression of the body of Christ. Even
+without such problems, many smaller rural congregations have lost a good bit of
+their sense of worth as congregations. They have the feeling that they cannot
+attract anyone except a preacher that cannot find a larger, more affluent
+church to work with. As a matter of fact, however, there are workers who prefer
+the “down home” environment for raising their families or for living our their
+later years of service. It just takes time to find them, and having an interim
+can provide that time even as he communicates to them their real worth to
+Christ’s body at large. In so doing, he may keep the church from settling for
+too little.</span></p>
 
-6.	The temporary presence of an interim ministry dilutes the image of the former minister. This value of an interim’s work shows itself in the opposite scenario from the one in which there have been difficulties. One recurring difficulty is a congregation’s failure to “let go” of someone who has done especially good work or one who has endeared himself to them for a number of years. A new minister invariably gets compared with the strengths of the previous minister; since no two people are equally strong in the same things, the new resident minister comes at a disadvantage, particularly if he is younger, less experienced, and so forth.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>            5.  Depending  on his skills, an interim
+minister <u>can help smooth out difficulties</u> that have arisen within the
+church either because of, or aside from, the previous minister’s work. Besides
+what he can contribute to resolving tensions, time itself is a great healer. Just
+having someone available to provide a concerned presence and help focalize
+spiritual attention can let these old issues “die down.” Often the “trick” is
+simply to make sure to keep out any new stresses. The emotional and spiritual
+energy in good people can heal those wounds. </span></p>
 
-7.	An interim can pave the way for the new preacher. Not only does this happen by the sheer fact of his presence in between the former and the later minister. He can deliberately prepare the church for the arrival of the new man. In fact, an interim minister should know that it is precisely his role to do help the people freely attach themselves to the next person. This does not happen so easily in other cases where a ministry is being turned over to the next person. It is possible for an interim minister to say some things about ministry that even the most selfless previous minister could not say to a congregation getting ready for the new arrival. He could not risk saying them because the people might suppose he has hinting that their failures in these regards are the reason he is leaving. An interim can remind people what it is like to be a new family in a community, how easy it is to feel like an outsider in a small town where everybody knows everybody and most people are related to each other. He can help them imagine living where a person has no relatives and owns no property. Most church people have only a vague idea how long it takes to prepare a sermon, how lonely leadership ministry can be, what the peculiar stresses are for a minister’s wife and children, what distinctive expenses there are in ministry—travel, books, and so on. None of these matters could be addressed effectively by a former minister.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                 In fact, an interim minister has an
+advantage over a new resident minister who comes into a church that has had
+difficulties. The interim worker presumably has some other center for his
+identity, some other work that provides his sense of satisfaction, some other
+work that financially supports his family. When he goes into the church’s
+situation for a brief time, he carries in with him the optimism and positive
+spirit that has been generated by his primary circumstance. His peace and
+happiness tends to relieve tensions in a troubled congregation. When he leaves
+he can emotionally detach himself from the church’s problems because he most
+likely does not live in the community. His self-esteem is not tied to “success”
+in this particular work; his source of fulfillment comes from elsewhere. </span></p>
 
-8.	An interim ministry lets the church members pick up more responsibilities that can too easily end up being the preacher’s job because he is the one that is around to do them. It is a good thing for the people to discover that many of these tasks they can do or learn to do adequately. If things are worked right, those services can be encouraged on into the next ministry, which frees up the new minister’s schedule so he can concentrate more on the distinctive aspects of the ministry that he has equipped himself to do. Besides, if they have to get involved in the church work for a while in order to “keep things going,” the church members will appreciate a minister’s efforts more and appreciate him more when the new man gets there. Taking some ownership of the church’s ministry focuses the people’s attention on that, and a generally healthier church is the result.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                 In these respects he has an advantage
+over a new resident minister because the latter <u>does</u> live in the
+community, <u>cannot</u> as easily distance himself from the emotional wear and
+tear of church strife, and <u>does</u> tend to measure the quality of his work
+by how well things are going in <u>this</u> church under his influence. Discouragement
+and disillusionment can soon take its toll. In short, under hard circumstances
+an interim ministry can reduce the likelihood that the next ministry will be a
+brief one. </span></p>
 
-9.	Since an interim minister knows his livelihood does not depend on this church, he is freer to say gracefully what needs to be said. Since he does not expect to accomplish great things in a short while and since he has no assumptions about being the leader of this church, he will probably be more gracious and therefore more effective in what he proposes. The church will more easily suppose that he is saying what he says simply because it is the right thing to say; they are less apt to consider it criticism or pressure. The congregation also knows that he is not permanent, and so they can hear advice more objectively without feeling they must defend themselves if it is a sensitive matter.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>            6.  The temporary presence of an interim
+ministry <u>dilutes the image of the former minister</u>. This value of an
+interim’s work shows itself in the opposite scenario from the one in which
+there have been difficulties. One recurring difficulty is a congregation’s
+failure to “let go” of someone who has done especially good work or one who has
+endeared himself to them for a number of years. A new minister invariably gets
+compared with the strengths of the previous minister; since no two people are
+equally strong in the same things, the new resident minister comes at a
+disadvantage, particularly if he is younger, less experienced, and so forth.</span></p>
 
-10. Last and least, an interim situation may strengthen a congregation’s financial condition. If a church keeps up its financial stewardship responsibilities, six or eight months’ time can strengthen the financial condition of the church. Even though this is not a good reason to do without a full-time person, it can turn out to be something positive that can reflect itself in a more realistic support package for the next minister and his family.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>            7.  An interim <u>can pave the way for the
+new preacher</u>. Not only does this happen by the sheer fact of his presence
+in between the former and the later minister. He can deliberately prepare the
+church for the arrival of the new man. In fact, an interim minister should know
+that it is precisely his role to do help the people freely attach themselves to
+the next person. This does not happen so easily in other cases where a ministry
+is being turned over to the next person. It is possible for an interim minister
+to say some things about ministry that even the most selfless previous minister
+could not say to a congregation getting ready for the new arrival. He could not
+risk saying them because the people might suppose he has hinting that their
+failures in these regards are the reason he is leaving. An interim can remind
+people what it is like to be a new family in a community, how easy it is to
+feel like an outsider in a small town where everybody knows everybody and most
+people are related to each other. He can help them imagine living where a
+person has no relatives and owns no property. Most church people have only a
+vague idea how long it takes to prepare a sermon, how lonely leadership
+ministry can be, what the peculiar stresses are for a minister’s wife and
+children, what distinctive expenses there are in ministry—travel, books, and so
+on. None of these matters could be addressed effectively by a former minister.</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>            8.  An interim ministry <u>lets the church
+members pick up more responsibilities</u> that can too easily end up being the
+preacher’s job because he is the one that is around to do them. It is a good
+thing for the people to discover that many of these tasks they can do or learn
+to do adequately. If things are worked right, those services can be encouraged
+on into the next ministry, which frees up the new minister’s schedule so he can
+concentrate more on the distinctive aspects of the ministry that he has
+equipped himself to do. Besides, if they have to get involved in the church
+work for a while in order to “keep things going,” the church members will
+appreciate a minister’s efforts more and appreciate him more when the new man
+gets there. Taking some ownership of the church’s ministry focuses the people’s
+attention on that, and a generally healthier church is the result.</span></p>
 
-There may not be a great number of people available for this kind of ministry. Sometimes Christian colleges or seminary personnel are within driving distance. Retired ministers ought to look at this role as one they can fill; their years of previous service gives them some skills that would be helpful to congregations while they look for a permanent minister.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>            9.  Since an interim minister knows his
+livelihood does not depend on this church, he <u>is freer to say gracefully
+what needs to be said</u>. Since he does not expect to accomplish great things
+in a short while and since he has no assumptions about being the leader of this
+church, he will probably be more gracious and therefore more effective in what
+he proposes. The church will more easily suppose that he is saying what he says
+simply because it is the right thing to say; they are less apt to consider it
+criticism or pressure. The congregation also knows that he is not permanent,
+and so they can hear advice more objectively without feeling they must defend
+themselves if it is a sensitive matter.</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>            10. Last and least, an interim situation <u>may
+strengthen a congregation’s financial condition</u>. If a church keeps up its
+financial stewardship responsibilities, six or eight months’ time can
+strengthen the financial condition of the church. Even though this is not a
+good reason to do without a full-time person, it can turn out to be something
+positive that can reflect itself in a more realistic support package for the
+next minister and his family. </span></p>
 
-christ.org
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>            There may not be a great number of people
+available for this kind of ministry. Sometimes Christian colleges or seminary
+personnel are within driving distance. Retired ministers ought to look at this
+role as one they can fill; their years of previous service gives them some
+skills that would be helpful to congregations while they look for a permanent
+minister.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                                                                                                                                           
+christ.org</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+</div>

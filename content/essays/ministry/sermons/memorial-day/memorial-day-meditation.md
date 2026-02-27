@@ -10,23 +10,87 @@ title: Memorial Day Meditation
 weight: 3
 ---
 
+<style>
+/* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+ /* Style Definitions */
+ .word-content p.MsoNormal, .word-content li.MsoNormal, 
+p.MsoHeader, li.MsoHeader, 
+span.HeaderChar
+	{mso-style-name:"Header Char";
+	mso-style-link:Header;}
+ /* Page Definitions */
+</style>
 
-Morrison,  Lutheran, Lillis Catholic,
+<div class="word-content">
+<p class=MsoNormal align=center style='text-align:center'>Memorial Day
+Meditation</p>
 
+<p class=MsoNormal align=center style='text-align:center'>May 28, 2007</p>
 
-Vermillion Christian Church
+<p class=MsoNormal align=center style='text-align:center'>Morrison, Salem
+Lutheran, Lillis Catholic, Vermillion Cemeteries</p>
 
+<p class=MsoNormal align=center style='text-align:center'>&nbsp;</p>
 
-One obvious feature of this cemetery is the stones erected here. But they are not just stones; they have names on them: Dowd, Donahy, Kramer, Bramhall, Nocks. These markers focus our attention on specific individuals. They are like icons on a computer. When we click on them, they open up to a vast reservoir of memories.
+<p class=MsoNormal align=center style='text-align:center'>Virgil Warren,
+Minister</p>
 
-There are sorrows we shared, hardships we endured together, disappointments we knew, happy times at the kitchen table, and honest labor in that field north of the house. These stones mean something because they direct our attention on a mother, a neighbor, a friend, someone else connected to us. In this cemetery people have indeed remembered, as shown by the flowers beside many graves and as shown by your presence in this gathering today.
+<p class=MsoNormal align=center style='text-align:center'>Vermillion Christian
+Church</p>
 
-A loose parallel comes to mind with the time when the ancient Israelites were ready to enter their promised land. Joshua told each of the twelve tribes to take a rock from the  and make a pile near the river. Joshua<strong> 4</strong>:6 explains the point: When their children would ask, <em>“What mean these stones?”</em> they would hear the account of the entrance into that promised land.
+<p class=MsoNormal align=center style='text-align:center'>&nbsp;</p>
 
-The location of the pile was not somewhere in the wilderness where the children of Israel wandered for forty years; it was placed at the entrance to the land they would inhabit—in a place where their descendents would see the stones. Similarly the stones have been erected at the place where, so to speak, our ancestors have departed for their “promised land,” and we see and remember.
+<p class=MsoNormal style='text-align:justify'>            One obvious feature
+of this cemetery is the stones erected here. But they are not just stones; they
+have names on them: Dowd, Donahy, Kramer, Bramhall, Nocks. These markers focus
+our attention on specific individuals. They are like icons on a computer. When
+we click on them, they open up to a vast reservoir of memories. </p>
 
-In retrospect we trace through to this end the lives revived by the headstones before us. But there is prospect here today as well. Each one of us will pass this way at some time. In the future it will be our legacy that comes to mind when our descendents see our grave markers. They will remember hardships shared, disappointments known, happy times revisited, labor together, values demonstrated, loved expressed.
+<p class=MsoNormal style='text-align:justify'>            There are sorrows we
+shared, hardships we endured together, disappointments we knew, happy times at
+the kitchen table, and honest labor in that field north of the house. These
+stones mean something because they direct our attention on a mother, a
+neighbor, a friend, someone else connected to us. In this cemetery people have indeed
+remembered, as shown by the flowers beside many graves and as shown by your
+presence in this gathering today.</p>
 
-And then one final thought comes to mind. The  was at flood stage when the Israelites arrived. God had to part the water so they could cross over. It is a fitting reminder that when we come to this juncture in life, we do not have the resources, the know-how, the power, to pass over on our own. We must rely on God, because we have not passed this way before (Joshua <strong><sup>3</sup></strong>:4). We must put our destiny in his powerful and loving hands. In so doing, we will leave a priceless memory by which other people will be encouraged to do the same.
+<p class=MsoNormal style='text-align:justify'>            A loose parallel
+comes to mind with the time when the ancient Israelites were ready to enter
+their promised land. Joshua told each of the twelve tribes to take a rock from
+the Jordan River and make a pile near the river. Joshua<b> 4</b>:6 explains the
+point: When their children would ask, <i>“What mean these stones?”</i> they
+would hear the account of the entrance into that promised land.</p>
 
-christir.org
+<p class=MsoNormal style='text-align:justify'>            The location of the pile
+was not somewhere in the wilderness where the children of Israel wandered for
+forty years; it was placed at the entrance to the land they would inhabit—in a
+place where their descendents would see the stones. Similarly the stones have
+been erected at the place where, so to speak, our ancestors have departed for
+their “promised land,” and we see and remember.</p>
+
+<p class=MsoNormal style='text-align:justify'>            In retrospect we
+trace through to this end the lives revived by the headstones before us. But
+there is prospect here today as well. Each one of us will pass this way at some
+time. In the future it will be our legacy that comes to mind when our descendents
+see our grave markers. They will remember hardships shared, disappointments
+known, happy times revisited, labor together, values demonstrated, loved
+expressed. </p>
+
+<p class=MsoNormal style='text-align:justify'>            And then one final
+thought comes to mind. The Jordan was at flood stage when the Israelites
+arrived. God had to part the water so they could cross over. It is a fitting
+reminder that when we come to this juncture in life, we do not have the
+resources, the know-how, the power, to pass over on our own. We must rely on
+God, because we have not passed this way before (Joshua <b>3</b>:4). We must
+put our destiny in his powerful and loving hands. In so doing, we will leave a
+priceless memory by which other people will be encouraged to do the same.</p>
+
+<p class=MsoNormal style='text-align:justify'>                                                                                                                              
+<span style='font-size:11.0pt'>christir.org</span></p>
+</div>

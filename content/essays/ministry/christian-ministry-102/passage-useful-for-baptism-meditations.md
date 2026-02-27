@@ -9,109 +9,301 @@ title: PASSAGE USEFUL FOR BAPTISM MEDITATIONS
 weight: 2
 ---
 
+<style>
+/* Font Definitions */
+ @font-face
+	{font-family:"Tms Rmn";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:Helv;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+ /* Style Definitions */
+ .word-content p.MsoNormal, .word-content li.MsoNormal, 
+p.MsoHeader, li.MsoHeader, 
+span.HeaderChar
+	{mso-style-name:"Header Char";
+	mso-style-link:Header;
+	font-family:"Times New Roman",serif;
+	color:black;}
+.word-content .MsoChpDefault
+	{font-family:"Tms Rmn",serif;}
+ /* Page Definitions */
+</style>
 
+<div class="word-content">
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
+margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><b><span
+style='font-size:14.0pt'>PASSAGE USEFUL FOR BAPTISM MEDITATIONS</span></b></p>
 
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
+margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><b><span
+style='font-size:12.0pt'>&nbsp;</span></b></p>
 
-Statements of the Great Commission
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
+margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><span
+style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
 
-Matthew <strong><sup>28</sup></strong>:18-20; Mark <strong><sup>16</sup></strong>:15; Luke <strong><sup>24</sup></strong>:44-49; Acts <strong><sup>1</sup></strong>:8
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-Accounts of Baptism
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>Statements of the Great Commission </span></p>
 
-Acts <strong><sup>8</sup></strong>:4-8 + 12-13
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         Matthew <b>28</b>:18-20; Mark <b>16</b>:15;
+Luke <b>24</b>:44-49; Acts <b>1</b>:8</span></p>
 
-<strong><sup>8</sup></strong>:26-39
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-<strong><sup>9</sup></strong>:10-19
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>Accounts of Baptism</span></p>
 
-<strong><sup>10</sup></strong>:34-48
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         Acts <b>8</b>:4-8 + 12-13 </span></p>
 
-<strong><sup>16</sup></strong>:12-15a
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>              <b>8</b>:26-39 </span></p>
 
-<strong><sup>16</sup></strong>:25-34
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>              <b>9</b>:10-19</span></p>
 
-(<strong><sup>19</sup></strong>:1-7)
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>              <b>10</b>:34-48</span></p>
 
-<strong><sup>22</sup></strong>:6-16
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>              <b>16</b>:12-15a </span></p>
 
-<strong><sup>26</sup></strong>:12-20
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>              <b>16</b>:25-34</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>              (<b>19</b>:1-7)</span></p>
 
-Texts that describe John’s baptism or give accounts of Johannine baptism are not particularly appropriate for Christian baptisms. The meaning of the two baptisms is different as illustrated by the baptizing in the name of Christ those disciples of John Paul found in Ephesus (Acts 19:1-7). Reading the account of Jesus’ own baptism would not be natural for this same reason.
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>              <b>22</b>:6-16</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>              <b>26</b>:12-20</span></p>
 
-Passages about Salvation Through Jesus Christ
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-Luke <strong><sup>24</sup></strong>:44-49
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>              Texts that describe John’s baptism or
+give accounts of Johannine baptism are not particularly appropriate for
+Christian baptisms. The meaning of the two baptisms is different as illustrated
+by the baptizing in the name of Christ those disciples of John Paul found in
+Ephesus (Acts 19:1-7). Reading the account of Jesus’ own baptism would not be
+natural for this same reason.</span></p>
 
-Galatians <strong><sup>3</sup></strong>:23-29
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-Titus<strong> 3</strong>:4-7
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>Passages about Salvation Through Jesus Christ</span></p>
 
-Hebrews<strong> 2</strong>:14-18
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         Luke <b>24</b>:44-49 </span></p>
 
-<strong><sup>10</sup></strong>:19-24
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         Galatians <b>3</b>:23-29 </span></p>
 
-1 Peter<strong> 3</strong>:18-22
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         Titus<b> 3</b>:4-7</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         Hebrews<b> 2</b>:14-18</span></p>
 
-Passages about Human Response in Salvation
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>              <b>10</b>:19-24</span></p>
 
-Acts<strong> 2</strong>:37–39
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         1 Peter<b> 3</b>:18-22</span></p>
 
-<strong><sup>3</sup></strong>:19-26
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-<strong><sup>4</sup></strong>:8-12
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>Passages about Human Response in Salvation</span></p>
 
-Romans <strong><sup>6</sup></strong>:1-14
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         Acts<b> 2</b>:37–39 </span></p>
 
-<strong><sup>10</sup></strong>:9-13
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>              <b>3</b>:19-26 </span></p>
 
-Galatians<strong> 3</strong>:8-14
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>              <b>4</b>:8-12 </span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         Romans <b>6</b>:1-14</span></p>
 
-Passages about the Messiahship of Jesus
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>              <b>10</b>:9-13</span></p>
 
-Matthew <strong><sup>16</sup></strong>:13-17
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         Galatians<b> 3</b>:8-14</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-Passages on the Lordship of Christ
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>Passages about the Messiahship of Jesus</span></p>
 
-Colossians<strong> 1</strong>:12-23a
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         Matthew <b>16</b>:13-17</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-Passages about Commitment to Christian Living
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>Passages on the Lordship of Christ</span></p>
 
-Acts<strong> 26</strong>:12-20
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         Colossians<b> 1</b>:12-23a</span></p>
 
-Romans <strong><sup>12</sup></strong>:1-2
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-Ephesians<strong> 2</strong>:1-10
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>Passages about Commitment to Christian Living</span></p>
 
-Colossians <strong><sup>2</sup></strong>:9-15
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         Acts<b> 26</b>:12-20</span></p>
 
-2 Corinthians<strong> 5</strong>:17-21
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         Romans <b>12</b>:1-2</span></p>
 
-Philippians <strong><sup>2</sup></strong>:1-11
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         Ephesians<b> 2</b>:1-10</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         Colossians <b>2</b>:9-15</span></p>
 
-Preparation for Baptisms
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         2 Corinthians<b> 5</b>:17-21</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         Philippians <b>2</b>:1-11</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-A number of profitable activities can be done by the rest of the body while preparations are being made for baptism.
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
+margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><span
+style='font-size:12.0pt'>Preparation for Baptisms</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-1.	texts of scripture that deal with baptism and related topics
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-2.	songs sung by the congregation. The songs useful here deal with the same set of topics that are covered by scripture passages as noted above. It may be possible to correlate the topic if the meditation leaders knows far enough in advance to work out those correlations. A song may be sung in response to the baptism instead of, or in addition to, a song prior to the baptism. “Now I Belong to Jesus,”<em> etc</em>., are typically used in this way.
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         A number of profitable activities can be done
+by the rest of the body while preparations are being made for baptism.</span></p>
 
-3.	responsive readings
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-4.	prayers
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>              1. texts of <u>scripture</u> that deal
+with baptism and related topics</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>              2. <u>songs sung</u> by the
+congregation. The songs useful here deal with the same set of topics that are
+covered by scripture passages as noted above. It may be possible to correlate
+the topic if the meditation leaders knows far enough in advance to work out
+those correlations. A song may be sung in response to the baptism instead of,
+or in addition to, a song prior to the baptism. “Now I Belong to Jesus,”<i> etc</i>.,
+are typically used in this way.</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>              3. <u>responsive readings</u></span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>              4. <u>prayers</u></span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         </span></p>
+</div>

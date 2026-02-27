@@ -10,171 +10,617 @@ title: GOODSPEED’S ARGUMENTS AGAINST THE
 weight: 3
 ---
 
-
-<strong>PAULINE AUTHORSHIP OF EPHESIANS</strong>
-
-
-
-
-Ephesians reflects no definite, localized, historical situation which it is intended to meet.
-
-
-Ephesians does represent a historical situation. Tychicus is the bearer, who will tell a definite readership about the affairs of Paul. The lack of detailed historical and geographical data is offset by its probable encyclical destination and its hortatory-doctrinal purpose. Furthermore, since Ephesians was published contemporary with Colossians and borne by the same messengers, historical details were not of such importance, being available from the bearers.
-
-Localized is a rather indefinite condition for Pauline authorship, especially since we are aware of his earlier encyclical letter: Galatians.
-
-Moreover, Pauline authorship does not necessitate a literary production for a definite, localized, historical situation. Such a matter as historical and geographical relatedness depends on purpose, not author. A preacher who might deliver a sermon against an error prevalent in the congregation might also preach even to the same congregation a doctrinal sermon interspersed with exhortations to continue in the faith. In fact, he would be wise to do both. It is not necessary to suppose that Paul wrote only when negative circumstances called for it, or wrote only against negative matters. Even so, there may be in Ephesians a milder presentation of some Colossian material given to head off the growth of Gnosticism there.
-
-
-2.	The writer’s admiration and regard for Paul are so emphasized in Ephesians that they give those who hold to the Pauline authorship some real difficulty (3:1-12). With all of his great confidence in the importance of what he was doing, Paul did not himself evaluate his own activity in such sweeping and inclusive terms as these.
-
-
-The attention Paul draws to himself in <strong><sup>3</sup></strong>:1-12 is not so strong as the language he uses in his self-defense in Galatians <strong><sup>1</sup></strong>:11-<strong><sup>2</sup></strong>:21 or 2 Corinthians <strong><sup>3</sup></strong>:1ff; <strong><sup>4</sup></strong>:1ff. His language in <strong><sup>3</sup></strong>:5-6 is made mild by his affirmation that others (“apostles and prophets”) also received directly the knowledge of the mystery. Furthermore, the emphasis falls on the mystery more than on himself as one witness among many.
-
-
-3. The writer’s veneration for the holy apostles and prophets as the foundation of the church (2:20) and the mediums of revelation (3:5) is very different from Paul’s view            (1 Corinthians 3:11) that the church’s one foundation is Christ himself. For Paul, Jesus Christ, the Messiah and Lord, is the only, all-sufficient foundation for the church.
-
-
-Here is an example where misinterpretation creates problems that do not exist. For the writer of Ephesians also, <em>“Christ is the only, all-sufficient foundation for the church”</em> (<strong><sup>1</sup></strong>:6-10). In 1 Corinthians <strong><sup>3</sup></strong>:11 and Ephesians <strong><sup>2</sup></strong>:20 the figures are similar, but they are meant to picture different truths. Christianity is built on Christ alone insofar as its nature is concerned (1 Corinthians <strong><sup>3</sup></strong>:11); historically, it is built on Christ, the apostles (cp. Matthew <strong><sup>16</sup></strong>:18), and prophets insofar as the original (foundational) promulging of its message is concerned (Ephesians <strong><sup>2</sup></strong>:20).
-
-That the Ephesian picture speaks of the propagation of the church is shown by the immediate mention (<strong><sup>3</sup></strong>:1-7ff) that the mystery, which was to be preached, was revealed “to the apostles and prophets” and was to be preached to Gentiles as well as Jews. So those who build on Christ, his apostles, and prophets together grow into one temple for the Spirit. Christ, the apostles, and prophets stand metonymically for the message they delivered. Christ as chief messenger answers to the chief cornerstone.
-
-Note that Paul in Ephesians <strong><sup>2</sup></strong>:20 includes himself (apostles) as a part of the foundation when speaking of its original preaching of the message. But in 1 Corinthians he puts himself outside the building as a wise general contractor. He does so in 1 Corinthians to apply the foundation figure to the message itself: Christ. In Ephesians he applies the foundation figure to the preaching of the message. Paul was not part of the foundational message (in 1 Corinthians), but he was part of the original preaching of it (in Ephesians), by which the church was founded. In 1 Corinthians Paul laid the foundation in that he originally preached the message. In Ephesians he was a part of the foundation itself in that he originally preached the message. The Ephesians figure refers to the founding of Christianity; the Corinthians figure refers to the foundation of Christianity. In Ephesians the foundation was the preaching of the message; in Corinthians it was the message preached. 1 Corinthians speaks theologically while Ephesians speaks historically. Corinthians deals with concepts; Ephesians deals with deeds.
-
-The superstructure in the Ephesian figure is the people of the church while the foundation is the preaching by which they were converted. The superstructure in the Corinthian figure is the preaching while the foundation is the message, Christ, to whom they were converted.
-
-Consequently, in Corinthians Paul can speak of each person’s works (of preaching) as being tried by fire and yet speak of the workers as being saved. Their efforts may not be gold, but their attempt to “do what they could” is acceptable. The objection Goodspeed proposes here illustrates the connection between critical introduction and interpretation. If Ephesians <strong><sup>2</sup></strong>:20 proves Paul did not write Ephesians, does Romans <strong><sup>15</sup></strong>:20 prove he did not write that book either?
-
-Jesus also used the same figure two different ways and included himself in it differently. On even the same occasion, he used the pastoral image two different ways. In John <strong><sup>10</sup></strong>:2 he is the door for the sheep while in <strong><sup>10</sup></strong>:14 he is the good shepherd.
-
-
-4. The church in Ephesians is always the church universal, not the individual, local church; but Paul uses the word in both senses (Galatians 1:13; 1 Corinthians 16:19) and the local sense more frequently than the universal.
-
-
-Words, expressions, or ideas arise from the situation of writing, not altogether from the writer. Note that the expression <em>the body of Christ, the church</em>, dominant in Ephesians and Colossians, is not found in Philippians, their immediate contemporary. John’s use of οὖν in the gospel is completely absent from his first epistle. Paul’s <em>what shall we say then</em>, occurring five times in Romans, occurs nowhere else in his writings.
-
-The matter here is not very strong because Goodspeed himself observes that Paul elsewhere uses the term <em>church</em> as universal or local. His subject matter in an encyclical would tend toward using the word in a universal sense.
-
-
-5. The church has become Greek, that is, Gentile; for the whole body of Christians addressed in 1:1 were once physically heathen (2:2, 11). There is no room for any Jewish Christianity in the picture. Christianity is now definitely a Gentile religion.
-
-
-The trouble with such reasoning illustrates the fallacy of the undistributed middle. To say that the church is Gentile is not to exclude Jews from it, because the characterization of the church as Gentile may be due to the majority within it. What is said in <strong><sup>2</sup></strong>:2 could be said of Jews as well as Gentiles. In chapters <strong>2-4</strong> Paul is great concerned to show that the circumcision-uncircumcision variable no longer applies in Christ. If the church had become wholly Gentile, the problem would have been passé.
-
-
-6. The writer himself has been in the same condition (2:3) and is therefore a Gentile Christian. In Romans, chapters 1 and 2, Paul contrasts the sins of Jews and Gentiles. It is the more gross Gentile sins that the writer now confesses for his readers and himself. Compare 2 Corinthians 11:22; Galatians 2:15; Philippians 3:4.
-
-
-Saying that the author is a Gentile presupposes that walking according to the lust of the flesh would not include Jews. (Note Jesus’ indictment, <em>“You are of your father the devil, and you’ll do the lusts of your father.”</em>) Furthermore, Paul is free to group himself with his readership by the term <em>we</em>. Since it is not necessary to eliminate a Jewish minority from the readership, it is not possible to eliminate a Jewish writer for the epistle.
-
-
-7. The encyclical form of the letter clearly implies a conception of Paul as a notable letter writer, whose letters inherently deserve very wide circulation. This further implies that Paul’s letters have already been collected as a corpus and are available for publication.
-
-
-The things that stand in the way at this point are first the supposition (1) that Paul’s local letters had no general application (such as we make of them even today), and secondly (2) that the collection of the Pauline epistolary was made later rather than done as they were written (Colossians <strong><sup>4</sup></strong>:16, where Paul tells the Colossians and Laodecians to exchange letters from him), and third (3) that his notoriety rested on his letter writing alone—he was well-known for his evangelistic efforts well before that.
-
-
-8. The sects are already beginning to appear (4:14), as in Acts 20:30, Revelation 2:6, 15; hence the insistence on unity (4:3-6) as the prophylactic against divisiveness and sectarianism in the Christian group.
-
-
-This admission does not indicate a late date. Sects were forming in the Corinthian church even earlier than this letter. If Paul wrote Ephesians from the first Roman imprisonment, then it is some two to three years after Acts<strong> 20</strong>:30, which is plenty of time for trouble to come to a head, trouble that Paul saw in the air in Acts <strong><sup>20</sup></strong> and called the elders to Miletus to talk about. He did not call anyone else to Miletus.
-
-
-9. While much of the language is Pauline, it is used in other senses than Paul’s. The “principalities and dominions” the Colossians were tempted to worship (1:16; 2:10) have in Ephesians become the spiritual enemies with which the Christian soldier must grapple (1:21; 6:12).
-
-
-The ideas are not foreign to one another since anything besides Christ that demands a Christian’s worship is a contradiction to Christ. What is not on Christ’s side is his enemy. Sufficient explanation is the closeness of the time in which these epistles were written and the general area to which both were addressed, so different ideas might be presented in terminology that is fresh in the mind of the common author, even though the application is different.
-
-
-10. The style is reverberating and liturgical, not at all the direct, rapid Pauline give-and-take. The Spirit, or the Holy Spirit, or the Spirit of God becomes “the Holy Spirit of God” (4:30). Paul was a very effective popular preacher; he was not a liturgist.
-
-
-Being a preacher does not deny being a “liturgist”; on what basis is Paul’s ability at liturgy denied? Besides, what makes “the Holy Spirit of God” an expression that a preacher would not use? Preaching or liturgizing does not determine length of expression; Paul is here writing, not speaking, and he is not debating a controversial matter.
-
-
-11. The novel element in the vocabulary, that is, the words used in Ephesians, but not in the nine genuine letters of Paul, is mostly akin to the diction found in works like Luke-Acts, 1 Clement, 1 Peter, and Hebrews, written toward the close of the first century rather than in the vocabulary of earlier writings.
-
-
-What if Hebrews and Luke-Acts were written in the <sup>60</sup>s? If these words were current in the middle of the first century, why could Paul not use them? Showing that the words appear at the end of the century does not preclude their occurring fifty years earlier.
-
-
-12. The interest in hymnology—the quotation of a Christian hymn, 5:14—points to the time when that liturgical interest had begun to be active in the early church, as it is in the canticles of Luke (1:42, 46, 68; 2:14, 19) and in the arias, choruses, and antiphonies of the Revelation. This is a developing interest at the end of the first century.
-
-
-On the contrary, the pattern of the Psalms is behind the canticles of Luke, and the Psalms were centuries pre-Christian! Why say hymns did not appear in the middle of the first century except by the circular reasoning that Ephesians was written about A.D. 90?
-
-
-13. The Descent into Hades (4:9, 10) is a difficult thing to fit into Paul’s theology, since he virtually excludes it by what he says in Romans 10:6, 7. It is akin to Luke’s doctrine of the Ascension, delineated at the beginning of the second of his two volumes and reflected in Ephesians 4:9.
-
-
-But is “lower parts of the earth” an example of partitive or appositive genitive? How does the voluntariness of Christ’s death and resurrection (Romans <strong><sup>10</sup></strong>:6-7) contradict the simple historical statement that he died and arose (Ephesians <strong><sup>4</sup></strong>:9-10)? Besides, the descent is connected with giving men gifts of ministry (<strong><sup>4</sup></strong>:8, <sup>11</sup>ff.), which takes place on the earth, not in the nether world.
-
-
-14. This brings us to the use of the Acts in Ephesians, which thinks of Paul as where the Acts left him, a prisoner for the Greek mission, to which he had devoted his superlatively active career.
-
-
-He is now imprisoned in Rome in the very imprisonment with which Acts closes, and he himself is writing from that imprisonment.
-
-
-15. The reference to the breaking down of the barrier that kept the heathen out of the Court of the Men of Israel in the Temple, while figurative, is more natural after the Temple had been destroyed in A.D. 70 than before that tragic denouement. Realistically, the wrecking of the Temple had eliminated that monumental barrier.
-
-
-It is as strong to argue that the wall in the temple must still be standing to be the real basis of the figure Paul uses.
-
-
-16. The jubilant review of the blessings of the Pauline salvation with which the letter begins is more natural in a reader of Paul’s letters than in Paul himself. Paul’s way was to take up one of them and dwell upon it. But in chapter 1 they fairly tumble over one another, with no full treatment of any of them. This is entirely natural if the collected letters of Paul, with full treatments of all of them, immediately followed.
-
-
-Depending on Paul’s purpose, it was as natural to list virtues, vices, or blessings as to dwell on them because of the need of the hour.
-
-
-17. The injunction of 6:4, to bring their children up with Christian training and instruction, is hardly like Paul; all he had to say on it in Colossians 3:21 was, “Do not irritate your children.” For Paul, expectations of the return of Jesus as the Messiah and of the establishment of God’s kingdom are still too vivid and imminent to warrant the projection of long-term programs of religious education.
-
-
-Whether Christ’s coming is imminent or distant, parents were not to neglect their children’s Christian growth because they needed to be saved as well. Furthermore, the reason Paul gives in Colossians for not irritating children is that they not get discouraged—a feeling that presupposes a period in which success might come to one encouraged by Christian parents. Admonish (Ephesians) is merely the positive of not discourage (Colossians).
-
-
-18. Ephesians is, on the whole, a generalization of Paulinism much more like a later Paulinist than like Paul himself. Someone has said it reads like a commentary on the letters of Paul. Even Romans, the most general of Paul’s letters, is less of a generalization of Paul’s positions than is Ephesians.
-
-
-A summary is as valuable as a treatment of a certain element, depending on the need.
-
-
-19. The writer of Ephesians is far more of an ecclesiastic than Paul was. He finds in the church a great spiritual fellowship, built upon the apostle and prophets, the medium of God’s revelation, and the avenue of man’s praise. It is the Bride of Christ, as in the Revelation, a little later, in the middle nineties.
-
-
-Paul uses the term <em>brother</em> throughout his writings. The very term <em>church</em> implies a
-
-group.
-
-
-20. Ephesians shows the unmistakable influence of every one of the nine genuine letters of Paul. These letters are all in existence. The writer of Ephesians knows them all, and knows them well. His familiarity with them, however, is not that of the apostolic author himself. It is rather the familiarity of a very admiring disciple of Paul.
-
-
-Which is a better storehouse of Paul’s ideas, his own mind or the part of it that he wrote
-
-down?
-
-
-21. Not only are all nine letters used in Ephesians, but, except for a few lines of Luke and Acts and some Septuagint texts, they fully supply all that it contains. Ephesians is almost completely a cento of the known letters of Paul.
-
-
-Same answer as before.
-
-
-Concluding Comments
-
-
-(a) Criticisms ought to be self-consistent. They ought to come from the same alternative position, or the critic himself takes no responsibility for any position. In these objections, Goodspeed does not seem to maintain a consistent viewpoint from which to make his objections.
-
-(b) Typically, the criterion has been that dissimilarity between writings shows difference in authorship, which implies that similarity confirms the claim of same author. In Goodspeed’s criticisms, the idea is advanced that in some respects the Ephesian material is too much like Paul (note #21). Trying to have it both ways creates the strong impression that the critic is just looking for problems.
-
-(c) Several of the above criticisms go beyond the requirements of the data. The texts need not be understood the way Goodspeed takes them, nor do they have to be contextualized the way he contextualizes them. There seems almost to be intentional misunderstanding so as to create inconsistencies. Critics seem deliberately to misinterpret in the direction of the negative conclusions they want to establish.
-
-
-christir.org
-
-
-
-
-
+<style>
+/* Font Definitions */
+ @font-face
+	{font-family:"Tms Rmn";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+ /* Style Definitions */
+ .word-content p.MsoNormal, .word-content li.MsoNormal, 
+p.MsoHeader, li.MsoHeader, 
+span.HeaderChar
+	{mso-style-name:"Header Char";
+	mso-style-link:Header;
+	font-family:"Times New Roman",serif;
+	color:black;}
+.word-content .MsoChpDefault
+	{font-family:"Tms Rmn",serif;}
+ /* Page Definitions */
+ 
+
+ /* List Definitions */
+ ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+</style>
+
+<div class="word-content">
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
+style='font-size:14.0pt'>GOODSPEED’S ARGUMENTS AGAINST THE </span></b></p>
+
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
+style='font-size:4.0pt'>&nbsp;</span></b></p>
+
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
+style='font-size:14.0pt'>PAULINE AUTHORSHIP OF EPHESIANS</span></b></p>
+
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
+style='font-size:14.0pt'>&nbsp;</span></b></p>
+
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
+style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
+
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
+style='font-size:12.0pt'>  </span></p>
+
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.75in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
+style='font-size:12.0pt'>1.</span><span style='font-size:12.0pt'>   Ephesians
+reflects no definite, localized, historical situation which it is intended to
+meet.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>            </span><span style='font-size:12.0pt;
+color:#0070C0'>   Ephesians does represent a historical situation. Tychicus is
+the bearer, who will tell a definite readership about the affairs of Paul. The
+lack of detailed historical and geographical data is offset by its probable
+encyclical destination and its hortatory-doctrinal purpose. Furthermore, since
+Ephesians was published contemporary with Colossians and borne by the same
+messengers, historical details were not of such importance, being available
+from the bearers.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt;color:#0070C0'>               <u>Localized</u> is a
+rather indefinite condition for Pauline authorship, especially since we are
+aware of his earlier encyclical letter: Galatians.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt;color:#0070C0'>               Moreover, Pauline
+authorship does not necessitate a literary production for a definite, localized,
+historical situation. Such a matter as historical and geographical relatedness depends
+on purpose, not author. A preacher who might deliver a sermon against an error
+prevalent in the congregation might also preach even to the same congregation a
+doctrinal sermon interspersed with exhortations to continue in the faith. In
+fact, he would be wise to do both. It is not necessary to suppose that Paul
+wrote only when negative circumstances called for it, or wrote only against
+negative matters. Even so, there may be in Ephesians a milder presentation of
+some Colossian material given to head off the growth of Gnosticism there.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>           2. The writer’s admiration and regard for
+Paul are so emphasized in Ephesians that they give those who hold to the
+Pauline authorship some real difficulty (3:1-12). With all of his great
+confidence in the importance of what he was doing, Paul did not himself
+evaluate his own activity in such sweeping and inclusive terms as these.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>            </span><span style='font-size:12.0pt;
+color:#0070C0'>   The attention Paul draws to himself in <b>3</b>:1-12 is not
+so strong as the language he uses in his self-defense in Galatians <b>1</b>:11-<b>2</b>:21
+or 2 Corinthians <b>3</b>:1ff; <b>4</b>:1ff. His language in <b>3</b>:5-6 is
+made mild by his affirmation that others (“apostles and prophets”) also
+received directly the knowledge of the mystery. Furthermore, the emphasis falls
+on the mystery more than on himself as one witness among many.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>            3. The writer’s veneration for the holy
+apostles and prophets as the foundation of the church (2:20) and the mediums of
+revelation (3:5) is very different from Paul’s view            (1 Corinthians
+3:11) that the church’s one foundation is Christ himself. For Paul, </span><span
+style='font-size:12.0pt;color:windowtext'>Jesus Christ, the Messiah and Lord,
+is the only, all-sufficient foundation for the church.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>               </span><span style='font-size:12.0pt;
+color:#0070C0'>Here is an example where misinterpretation creates problems that
+do not exist. For the writer of Ephesians also, <i>“Christ is the only, all-sufficient
+foundation for the church”</i> (<b>1</b>:6-10). In 1 Corinthians <b>3</b>:11
+and Ephesians <b>2</b>:20 the figures are similar, but they are meant to picture
+different truths. Christianity is built on Christ alone insofar as its <u>nature</u>
+is concerned (1 Corinthians <b>3</b>:11); historically, it is built on Christ,
+the apostles (cp. Matthew <b>16</b>:18), and prophets insofar as the original
+(foundational) promulging of its <u>message</u> is concerned (Ephesians <b>2</b>:20).</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt;color:#0070C0'>               That the Ephesian picture
+speaks of the propagation of the church is shown by the immediate mention (<b>3</b>:1-7ff)
+that the mystery, which was to be preached, was revealed “to the apostles and
+prophets” and was to be preached to Gentiles as well as Jews. So those who
+build on Christ, his apostles, and prophets together grow into one temple for the
+Spirit. Christ, the apostles, and prophets stand metonymically for the message
+they delivered. Christ as chief messenger answers to the chief cornerstone.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt;color:#0070C0'>               Note that Paul in
+Ephesians <b>2</b>:20 includes himself (apostles) as a part of the foundation
+when speaking of its original preaching of the message. But in 1 Corinthians he
+puts himself outside the building as a wise general contractor. He does so in 1
+Corinthians to apply the foundation figure to <u>the message itself</u>:
+Christ. In Ephesians he applies the foundation figure to <u>the preaching of the
+message</u>. Paul was not part of the foundational message (in 1 Corinthians),
+but he was part of the original preaching of it (in Ephesians), by which the
+church was founded. In 1 Corinthians Paul <u>laid the foundation</u> in that he
+originally preached the message. In Ephesians he <u>was a part of the
+foundation</u> itself in that he originally preached the message. The Ephesians
+figure refers to the <u>founding</u> of Christianity; the Corinthians figure
+refers to the <u>foundation</u> of Christianity. In Ephesians the foundation
+was the preaching of the message; in Corinthians it was the message preached. 1
+Corinthians speaks <u>theologically</u> while Ephesians speaks <u>historically</u>.
+Corinthians deals with <u>concepts</u>; Ephesians deals with <u>deeds</u>.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt;color:#0070C0'>               The superstructure in the
+Ephesian figure is the <u>people</u> of the <u>church</u> while the foundation
+is the preaching by which they were converted. The superstructure in the
+Corinthian figure is the <u>preaching</u> while the foundation is the <u>message</u>,
+Christ, to whom they were converted.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt;color:#0070C0'>               Consequently, in
+Corinthians Paul can speak of each person’s works (of preaching) as being tried
+by fire and yet speak of the workers as being saved. Their efforts may not be
+gold, but their attempt to “do what they could” is acceptable. The objection
+Goodspeed proposes here illustrates the connection between critical introduction
+and interpretation. If Ephesians <b>2</b>:20 proves Paul did not write
+Ephesians, does Romans <b>15</b>:20 prove he did not write that book either?</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt;color:#0070C0'>               Jesus also used the same
+figure two different ways and included himself in it differently. On even the
+same occasion, he used the pastoral image two different ways. In John <b>10</b>:2
+he is the door for the sheep while in <b>10</b>:14 he is the good shepherd. </span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>            4. The church in Ephesians is always the
+church universal, not the individual, local church; but Paul uses the word in
+both senses (Galatians 1:13; 1 Corinthians 16:19) and the local sense more
+frequently than the universal.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>               </span><span style='font-size:12.0pt;
+color:#0070C0'>Words, expressions, or ideas arise from the situation of writing,
+not altogether from the writer. Note that the expression <i>the body of Christ,
+the church</i>, dominant in Ephesians and Colossians, is not found in
+Philippians, their immediate contemporary. John’s use of </span><span lang=EL
+style='font-size:12.0pt;color:#0070C0'>οὖν</span><span lang=EL
+style='font-size:12.0pt;color:#0070C0'> </span><span style='font-size:12.0pt;
+color:#0070C0'>in the gospel is completely absent from his first epistle. Paul’s
+<i>what shall we say then</i>, occurring five times in Romans, occurs nowhere
+else in his writings.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt;color:#0070C0'>               The matter here is not
+very strong because Goodspeed himself observes that Paul elsewhere uses the
+term <i>church</i> as universal or local. His subject matter in an encyclical
+would tend toward using the word in a universal sense.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>            5. The church has become Greek, that is,
+Gentile; for the whole body of Christians addressed in 1:1 were once physically
+heathen (2:2, 11). There is no room for any Jewish Christianity in the picture.
+Christianity is now definitely a Gentile religion.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>               </span><span style='font-size:12.0pt;
+color:#0070C0'>The trouble with such reasoning illustrates the fallacy of the
+undistributed middle. To say that the church is Gentile is not to exclude Jews
+from it, because the characterization of the church as Gentile may be due to
+the majority within it. What is said in <b>2</b>:2 could be said of Jews as
+well as Gentiles. In chapters <b>2-4</b> Paul is great concerned to show that
+the circumcision-uncircumcision variable no longer applies in Christ. If the
+church had become wholly Gentile, the problem would have been passé.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>            6. The writer himself has been in the same
+condition (2:3) and is therefore a Gentile Christian. In Romans, chapters 1 and
+2, Paul contrasts the sins of Jews and Gentiles. It is the more gross Gentile
+sins that the writer now confesses for his readers and himself. Compare 2
+Corinthians 11:22; Galatians 2:15; Philippians 3:4.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>               </span><span style='font-size:12.0pt;
+color:#0070C0'>Saying that the author is a Gentile presupposes that walking
+according to the lust of the flesh would not include Jews. (Note Jesus’
+indictment, <i>“You are of your father the devil, and you’ll do the lusts of
+your father.”</i>) Furthermore, Paul is free to group himself with his
+readership by the term <i>we</i>. Since it is not necessary to eliminate a
+Jewish minority from the readership, it is not possible to eliminate a Jewish
+writer for the epistle.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>            7. The encyclical form of the letter
+clearly implies a conception of Paul as a notable letter writer, whose letters
+inherently deserve very wide circulation. This further implies that Paul’s
+letters have already been collected as a corpus and are available for
+publication.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>            </span><span style='font-size:12.0pt;
+color:#0070C0'>   The things that stand in the way at this point are first the
+supposition (1) that Paul’s local letters had no general application (such as
+we make of them even today), and secondly (2) that the collection of the
+Pauline epistolary was made later rather than done as they were written
+(Colossians <b>4</b>:16, where Paul tells the Colossians and Laodecians to
+exchange letters from him), and third (3) that his notoriety rested on his
+letter writing alone—he was well-known for his evangelistic efforts well before
+that.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>            8. The sects are already beginning to
+appear (4:14), as in Acts 20:30, Revelation 2:6, 15; hence the insistence on
+unity (4:3-6) as the prophylactic against divisiveness and sectarianism in the
+Christian group.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>               </span><span style='font-size:12.0pt;
+color:#0070C0'>This admission does not indicate a late date. Sects were forming
+in the Corinthian church even earlier than this letter. If Paul wrote Ephesians
+from the first Roman imprisonment, then it is some two to three years after
+Acts<b> 20</b>:30, which is plenty of time for trouble to come to a head, trouble
+that Paul saw in the air in Acts <b>20</b> and called the elders to Miletus to
+talk about. He did not call anyone else to Miletus.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>            9. While much of the language is Pauline,
+it is used in other senses than Paul’s. The “principalities and dominions” the
+Colossians were tempted to worship (1:16; 2:10) have in Ephesians become the
+spiritual enemies with which the Christian soldier must grapple (1:21; 6:12).</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>               </span><span style='font-size:12.0pt;
+color:#0070C0'>The ideas are not foreign to one another since anything besides
+Christ that demands a Christian’s worship is a contradiction to Christ. What is
+not on Christ’s side is his enemy. Sufficient explanation is the closeness of
+the time in which these epistles were written and the general area to which
+both were addressed, so different ideas might be presented in terminology that
+is fresh in the mind of the common author, even though the application is
+different.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt;color:#0070C0'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>            10. The style is reverberating and
+liturgical, not at all the direct, rapid Pauline give-and-take. The Spirit, or
+the Holy Spirit, or the Spirit of God becomes “the Holy Spirit of God” (4:30). Paul
+was a very effective popular preacher; he was not a liturgist.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>               </span><span style='font-size:12.0pt;
+color:#0070C0'>Being a preacher does not deny being a “liturgist”; on what
+basis is Paul’s ability at liturgy denied? Besides, what makes “the Holy Spirit
+of God” an expression that a preacher would not use? Preaching or liturgizing
+does not determine length of expression; Paul is here writing, not speaking,
+and he is not debating a controversial matter.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>            11. The novel element in the vocabulary,
+that is, the words used in Ephesians, but not in the nine genuine letters of
+Paul, is mostly akin to the diction found in works like Luke-Acts, 1 Clement, 1
+Peter, and Hebrews, written toward the close of the first century rather than
+in the vocabulary of earlier writings.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>               </span><span style='font-size:12.0pt;
+color:#0070C0'>What if Hebrews and Luke-Acts were written in the 60s? If these
+words were current in the middle of the first century, why could Paul not use
+them? Showing that the words appear at the end of the century does not preclude
+their occurring fifty years earlier. </span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>            12. The interest in hymnology—the quotation
+of a Christian hymn, 5:14—points to the time when that liturgical interest had
+begun to be active in the early church, as it is in the canticles of Luke
+(1:42, 46, 68; 2:14, 19) and in the arias, choruses, and antiphonies of the
+Revelation. This is a developing interest at the end of the first century.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>            </span><span style='font-size:12.0pt;
+color:#0070C0'>   On the contrary, the pattern of the Psalms is behind the
+canticles of Luke, and the Psalms were centuries pre-Christian! Why say hymns
+did not appear in the middle of the first century except by the circular
+reasoning that Ephesians was written about A.D. 90?</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>            13. The Descent into Hades (4:9, 10) is a
+difficult thing to fit into Paul’s theology, since he virtually excludes it by
+what he says in Romans 10:6, 7. It is akin to Luke’s doctrine of the Ascension,
+delineated at the beginning of the second of his two volumes and reflected in Ephesians
+4:9.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>               </span><span style='font-size:12.0pt;
+color:#0070C0'>But is “lower parts of the earth” an example of partitive or
+appositive genitive? How does the voluntariness of Christ’s death and
+resurrection (Romans <b>10</b>:6-7) contradict the simple historical statement
+that he died and arose (Ephesians <b>4</b>:9-10)? Besides, the descent is
+connected with giving men gifts of ministry (<b>4</b>:8, 11ff.), which takes
+place on the earth, not in the nether world.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>            14. This brings us to the use of the Acts
+in Ephesians, which thinks of Paul as where the Acts left him, a prisoner for
+the Greek mission, to which he had devoted his superlatively active career.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>            </span><span style='font-size:12.0pt;
+color:#0070C0'>   He is now imprisoned in Rome in the very imprisonment with
+which Acts closes, and he himself is writing from that imprisonment.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt;color:#0070C0'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>            15. The reference to the breaking down of
+the barrier that kept the heathen out of the Court of the Men of Israel in the
+Temple, while figurative, is more natural after the Temple had been destroyed
+in A.D. 70 than before that tragic denouement. Realistically, the wrecking of
+the Temple had eliminated that monumental barrier.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt;color:#0070C0'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt;color:#0070C0'>               It is as strong to argue
+that the wall in the temple must still be standing to be the real basis of the
+figure Paul uses.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt;color:#0070C0'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>            16. The jubilant review of the blessings
+of the Pauline salvation with which the letter begins is more natural in a
+reader of Paul’s letters than in Paul himself. Paul’s way was to take up one of
+them and dwell upon it. But in chapter 1 they fairly tumble over one another,
+with no full treatment of any of them. This is entirely natural if the
+collected letters of Paul, with full treatments of all of them, immediately
+followed.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>            </span><span style='font-size:12.0pt;
+color:#0070C0'>   Depending on Paul’s purpose, it was as natural to list
+virtues, vices, or blessings as to dwell on them because of the need of the
+hour.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>            17. The injunction of 6:4, to bring their
+children up with Christian training and instruction, is hardly like Paul; all
+he had to say on it in Colossians 3:21 was, “Do not irritate your children.” For
+Paul, expectations of the return of Jesus as the Messiah and of the establishment
+of God’s kingdom are still too vivid and imminent to warrant the projection of
+long-term programs of religious education.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>               </span><span style='font-size:12.0pt;
+color:#0070C0'>Whether Christ’s coming is imminent or distant, parents were not
+to neglect their children’s Christian growth because they needed to be saved as
+well. Furthermore, the reason Paul gives in Colossians for not irritating
+children is that they not get discouraged—a feeling that presupposes a period
+in which success might come to one encouraged by Christian parents. <u>Admonish</u>
+(Ephesians) is merely the positive of <u>not discourage</u> (Colossians).</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>            18. Ephesians is, on the whole, a
+generalization of Paulinism much more like a later Paulinist than like Paul
+himself. Someone has said it reads like a commentary on the letters of Paul. Even
+Romans, the most general of Paul’s letters, is less of a generalization of Paul’s
+positions than is Ephesians.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>            </span><span style='font-size:12.0pt;
+color:#0070C0'>   A summary is as valuable as a treatment of a certain element,
+depending on the need.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>            19. The writer of Ephesians is far more of
+an ecclesiastic than Paul was. He finds in the church a great spiritual
+fellowship, built upon the apostle and prophets, the medium of God’s
+revelation, and the avenue of man’s praise. It is the Bride of Christ, as in
+the Revelation, a little later, in the middle nineties.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>            </span><span style='font-size:12.0pt;
+color:#0070C0'>   Paul uses the term <i>brother</i> throughout his writings. The
+very term <i>church</i> implies a </span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt;color:#0070C0'>               group.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>            20. Ephesians shows the unmistakable
+influence of every one of the nine genuine letters of Paul. These letters are
+all in existence. The writer of Ephesians knows them all, and knows them well. His
+familiarity with them, however, is not that of the apostolic author himself. It
+is rather the familiarity of a very admiring disciple of Paul.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>               </span><span style='font-size:12.0pt;
+color:#0070C0'>Which is a better storehouse of Paul’s ideas, his own mind or
+the part of it that he wrote </span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt;color:#0070C0'>               down?</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>            21. Not only are all nine letters used in
+Ephesians, but, except for a few lines of Luke and Acts and some Septuagint
+texts, they fully supply all that it contains. Ephesians is almost completely a
+cento of the known letters of Paul.  </span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt;color:red'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>               </span><span style='font-size:12.0pt;
+color:#0070C0'>Same answer as before.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
+style='font-size:12.0pt'>Concluding Comments</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt;color:#0070C0'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt;color:#0070C0'>               (a) Criticisms ought to
+be self-consistent. They ought to come from the same alternative position, or
+the critic himself takes no responsibility for any position. In these
+objections, Goodspeed does not seem to maintain a consistent viewpoint from
+which to make his objections.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt;color:#0070C0'>               (b) Typically, the
+criterion has been that dissimilarity between writings shows difference in
+authorship, which implies that similarity confirms the claim of same author. In
+Goodspeed’s criticisms, the idea is advanced that in some respects the Ephesian
+material is too much like Paul (note #21). Trying to have it both ways creates
+the strong impression that the critic is just looking for problems.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt;color:#0070C0'>               (c) Several of the above
+criticisms go beyond the requirements of the data. The texts need not be
+understood the way Goodspeed takes them, nor do they have to be contextualized
+the way he contextualizes them. There seems almost to be intentional
+misunderstanding so as to create inconsistencies. Critics seem deliberately to
+misinterpret in the direction of the negative conclusions they want to
+establish.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt;color:#0070C0'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:11.0pt;color:windowtext'>christir.org</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt;color:#0070C0'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt;color:#0070C0'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+</div>

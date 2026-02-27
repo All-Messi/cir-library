@@ -10,87 +10,224 @@ title: PAUL’S VISITS TO JERUSALEM
 weight: 3
 ---
 
+<style>
+/* Font Definitions */
+ @font-face
+	{font-family:"Tms Rmn";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+ /* Style Definitions */
+ .word-content p.MsoNormal, .word-content li.MsoNormal, 
+.word-content .MsoChpDefault
+	{font-family:"Tms Rmn",serif;}
+ /* Page Definitions */
+</style>
 
+<div class="word-content">
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
+margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><b><span
+style='font-size:14.0pt'>PAUL’S VISITS TO JERUSALEM</span></b></p>
 
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
+margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><b><span
+style='font-size:10.0pt'>&nbsp;</span></b></p>
 
-Events in Galatians	Events in Acts
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
+margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
+style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
 
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
+margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><u><span
+style='font-size:10.0pt'><span style='text-decoration:none'>&nbsp;</span></span></u></p>
 
-<strong><sup>1</sup></strong>:16-17	Paul is converted, goes to
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
+margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><u><span
+style='font-size:10.0pt'><span style='text-decoration:none'>&nbsp;</span></span></u></p>
 
-Arabia, then back to
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><u><span style='font-size:12.0pt'>Events
+in Galatians</span></u><span style='font-size:12.0pt'>                                                 <u>Events
+in Acts</u></span></p>
 
-Damascus (3 years)
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><u><span style='font-size:10.5pt'><span
+ style='text-decoration:none'>&nbsp;</span></span></u></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><b><span style='font-size:10.5pt'>1</span></b><span
+style='font-size:10.5pt'>:16-17                Paul is converted, goes to                 </span></p>
 
-<strong><sup>1</sup></strong>:18-19	Paul goes to Jerusalem, sees	<strong><sup>9</sup></strong>:26-30	Visits Jerusalem, where Barnabas
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:10.5pt'>                             
+Arabia, then back to                                                </span></p>
 
-Cephas, stays 15 days, but		    brings him to the Christians—
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:10.5pt'>                             
+Damascus (3 years)                                                </span></p>
 
-sees no other apostle except		    to the apostles. Paul disputes
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:10.5pt'>&nbsp;</span></p>
 
-James.		    with Grecian Jews. His life is
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><b><span style='font-size:10.5pt'>1</span></b><span
+style='font-size:10.5pt'>:18-19                Paul goes to Jerusalem, sees             <b>9</b>:26-30            Visits
+Jerusalem, where Barnabas</span></p>
 
-threatened and he goes to
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:10.5pt'>                             
+Cephas, stays 15 days, but                                       brings him to
+the Christians—         </span></p>
 
-Tarsus.
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:10.5pt'>                             
+sees no other apostle except                                     to the
+apostles. Paul disputes</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:10.5pt'>                             
+James.                                                                   with
+Grecian Jews. His life is</span></p>
 
-<strong><sup>1</sup></strong>:21	Paul goes to Syria and Cilicia.
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:10.5pt'>                                                                                                         
+threatened and he goes to</span></p>
 
-(He is unknown by face to
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:10.5pt'>                                                                                                         
+Tarsus.</span></p>
 
-Judaean Christians.)
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:10.5pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><b><span style='font-size:10.5pt'>1</span></b><span
+style='font-size:10.5pt'>:21                     Paul goes to Syria and
+Cilicia.          </span></p>
 
-<strong><sup>2</sup></strong>:1-10	14 years                                           ?<strong><sup>11</sup></strong>:29-30	Famine visit
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:10.5pt'>                             
+(He is unknown by face to             </span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:10.5pt'>                               
+Judaean Christians.)</span></p>
 
-<strong>Writing of Galatians?</strong>
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:10.5pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><b><span style='font-size:10.5pt'>2</span></b><span
+style='font-size:10.5pt'>:1-10                  14
+years                                           ?<b>11</b>:29-30           Famine
+visit</span></p>
 
-Paul goes to Jerusalem with               ?<strong><sup>15</sup></strong>:1ff.	Conference on Circumcision
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:10.5pt'>&nbsp;</span></p>
 
-Barnabas and Titus. He goes
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:10.5pt'>                                                                        
+<b>Writing of Galatians?</b></span></p>
 
-by revelation, lays the gospel
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:10.5pt'>&nbsp;</span></p>
 
-privately before Peter, James,
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:10.5pt'>                           Paul
+goes to Jerusalem with               ?<b>15</b>:1ff.            Conference on Circumcision 
+        </span></p>
 
-and John. The “pillars” tell
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:10.5pt'>                             
+Barnabas and Titus. He goes                                    </span></p>
 
-him to “remember the poor.”
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:10.5pt'>                             
+by revelation, lays the gospel                                   </span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:10.5pt'>                             
+privately before Peter, James,                                  </span></p>
 
-<strong>Writing of Galatians?</strong>
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:10.5pt'>                             
+and John. The “pillars” tell </span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:10.5pt'>                             
+him to “remember the poor.”</span></p>
 
-<strong><sup>18</sup></strong>:22-23	Paul salutes the Jerusalem
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:10.5pt'>&nbsp;</span></p>
 
-church, goes to Antioch and
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:10.5pt'>                                                                        
+<b>Writing of Galatians?</b></span></p>
 
-through Galatia and Phrygia
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:10.5pt'>&nbsp;</span></p>
 
-on the third missionary tour.
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:10.5pt'>                                                                                    
+<b>18</b>:22-23           Paul salutes the Jerusalem</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:10.5pt'>                                                                                                        
+church, goes to Antioch and</span></p>
 
-<strong><sup>2</sup></strong>:11ff.	Cephas comes to Antioch and
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:10.5pt'>                                                                                                        
+through Galatia and Phrygia</span></p>
 
-eats with Gentiles. People
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:10.5pt'>                                                                                                        
+on the third missionary tour.</span></p>
 
-from James come. Peter
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:10.5pt'>&nbsp;</span></p>
 
-withdraws with Barnabas,
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><b><span style='font-size:10.5pt'>2</span></b><span
+style='font-size:10.5pt'>:11ff.                  Cephas comes to Antioch and           </span></p>
 
-and Paul rebukes him.
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:10.5pt'>                             
+eats with Gentiles. People                                         </span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:10.5pt'>                             
+from James come. Peter</span></p>
 
-<strong>Writing of Galatians?</strong>
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:10.5pt'>                             
+withdraws with Barnabas,</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:10.5pt'>                             
+and Paul rebukes him.</span></p>
 
-<strong><sup>21</sup></strong>:15	Paul delivers the offering and
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:10.5pt'>&nbsp;</span></p>
 
-is arrested.
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:10.5pt'>                                                                        
+<b>Writing of Galatians?</b></span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:10.5pt'>&nbsp;</span></p>
 
-christir.org
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:10.5pt'>                                                                                <b>21</b>:15               Paul
+delivers the offering and</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:10.5pt'>                                                                                                        
+is arrested.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:10.5pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:11.0pt'>christir.org</span></p>
+</div>

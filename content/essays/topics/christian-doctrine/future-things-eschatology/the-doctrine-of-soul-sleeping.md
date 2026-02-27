@@ -10,235 +10,1139 @@ title: THE DOCTRINE OF “SOUL-SLEEPING”
 weight: 3
 ---
 
-
-
-
-Views of the human condition during the intermediate state differ as to whether it is a conscious existence. Conscious existence means that between death and the general resurrection, we experience the rewards and punishments later to be publicly declared at the great white throne judgment. Unconsciousness during that time has two possibilities: “soul sleeping” or non-existence. The second option means that when we die, we cease to exist objectively until God “recreates” us out of his memory, an event simultaneous with, or the same as, resurrection. For all practical purposes, soul sleeping amounts to the same thing though, strictly speaking, we do objectively exist. The following considerations go into evaluating the concept of “soul sleeping.”
-
-
-
-I. Arguments for Soul-Sleeping
-
-
-A. 	Death is called “sleep” and resurrection is called “awaking.”
-
-
-The New Testament has many examples of sleep used figuratively as at least a euphemism for death (the asterisk means κοιμάομαι [<em>koimaomai</em>] appears in the original Greek text):
-
-
-1.	Matthew <strong><sup>27</sup></strong>:52: <em>“Many bodies of the saints that had fallen asleep* were </em>
-
-<em>			       raised.” </em>
-
-2. 	John <strong><sup>11</sup></strong>:1-44: <em>“Our friend Lazarus has fallen asleep [κοιμάομαι], but I am going to awaken him. . . . Now Jesus had spoken about his death, but they thought he was talking about rest in the sense of sleep”</em> [ὕπνος, <em>hypnos</em>]. Then Jesus told them plainly, <em>‘Lazarus has died’”</em> (<strong><sup>11</sup></strong>:11-14). Four terms for sleep occur with the resurrection of Lazarus recorded in John 1<strong><sup>1</sup></strong>: ὕπνος (<em>hypnos</em>, <strong><sup>11</sup></strong>:13), κοιμάομαι (<strong><sup>11</sup></strong>:11, 12), κοίμησις (<em>koimēsis</em>, <strong><sup>11</sup></strong>:13; a one-use word), and ἐξυπνίζω (<em>exypnizō</em>, <strong><sup>11</sup></strong>:11), but not καθεύδω (<em>katheudō</em>) or ἔξυπνος (<em>exypnos</em>).
-
-3.	Acts <strong><sup>7</sup></strong>:60: <em>“When [Stephen] said that, he fell asleep*.”</em>
-
-4.	Acts<strong> 13</strong>:36: <em>“David . . . fell asleep* and was laid to his fathers and saw				    	 	corruption.”</em>
-
-5.	1 Corinthians <strong><sup>15</sup></strong>:6: <em>“Then Jesus appeared to more than 500 brothers at the </em>
-
-<em>					same time, of whom the majority remain till now, but some fell asleep*.”</em>
-
-6.	1 Corinthians <strong><sup>15</sup></strong>:17-18: <em>“If Christ has not been raised . . . then they also that </em>
-
-<em>					have fallen asleep* in Christ have perished.”</em>
-
-7.	1 Corinthians <strong><sup>15</sup></strong>:20: <em>“But now Christ has been raised from the dead, the </em>
-
-<em>					firstfruits of them that slept*.”</em>
-
-8.	1 Corinthians <strong><sup>15</sup></strong>:51: <em>“We will not all sleep*, but we will all be changed.”</em>
-
-9.	1 Thessalonians <strong><sup>4</sup></strong>:13-15:
-
-<em>“We would not have you ignorant, brothers, about those who </em><em><u>are falling asleep</u></em><em>*, that you not mourn like the rest who have no hope; because if we believe that Jesus died and resurrected, so also the ones that </em><em><u>fell asleep</u></em><em>* in Christ in Jesus God will bring with him. . . . We that are living—left behind till the coming of the Lord—will certainly not precede the ones that </em><em><u>have fallen asleep</u></em><em>*.”</em>
-
-10.	2 Peter <strong><sup>3</sup></strong>:4: <em>“From the day the fathers </em><em><u>fell asleep</u></em><em>* everything continues from the beginning of creation.”</em>
-
-11.	1 Corinthians <strong><sup>11</sup></strong>:30: <em>“For that reason . . . and many sleep.”</em>
-
-
-Ἔξυπνος [<em>exypnos</em>] and ὕπνος [<em>hypnos</em>] are not used in this idiomatic way for death. It is also questionable whether καθεύδω [<em>katheudō</em>] is so used. Depending on how we look at it, one possible exception appears in the account of Jesus’ resurrecting Jairus’ young daughter: <em>“She did not die; she’s sleeping”</em> (Matthew <strong><sup>9</sup></strong>:24 = Mark <strong><sup>5</sup></strong>:39 = Luke <strong><sup>8</sup></strong>:52). Since Jesus contrasts death with sleep, he does not clearly call death “sleep”; yet she is said earlier to be dead (Matthew<strong> 9</strong>:18; Mark <strong><sup>5</sup></strong>:35; Luke <strong><sup>8</sup></strong>:49). The mourners “knew” she was dead (Luke <strong><sup>8</sup></strong>:53; cp. John <strong><sup>11</sup></strong>:4, 11, 14); and after Jesus “saved” her, the text says, <em>“her spirit returned”</em> (Luke<strong> 8</strong>:55), an expression probably based on her beginning to “breathe” again; so it is unlikely that she was really in a coma. Rather than say the term is used figuratively in this case, it seems better to say that the reality amounted to sleep because Jesus was about to resurrect her. A second possibility with καθεύδω occurs in the somewhat ambiguous statement, <em>“Awake, sleeper, and arise from the dead</em> (Ephesians<strong> 5</strong>:14).<em>”</em> Awaking from sleep and arising from the dead are two figures for the same thing.
-
-On the other hand, twelve of the eighteen uses of κοιμάομαι (<em>koimaomai</em>) are figurative for death with another usage for spiritual deadness: <em>“For that reason many are weak and sick/sickly among you, and a considerable number are </em><em><u>asleep/sleeping</u></em><em>”</em> (1 Corinthians <strong><sup>11</sup></strong>:30). In the New Testament all clear examples of sleep as a metaphor for death occur with κοιμάομαι.
-
-In the Old Testament the imagery appears less frequently, being limited almost entirely to the expression “<em>slept with the fathers,”</em> and that occurring mainly in king lists.
-
-
-12. <em>“Sleeping with the fathers”</em>: Deuteronomy <strong><sup>31</sup></strong>:36; 2 Samuel <strong><sup>7</sup></strong>:12; 1 Kings <strong><sup>1</sup></strong>:21; <strong><sup>2</sup></strong>:10; <strong><sup>11</sup></strong>:21, 43; <strong><sup>14</sup></strong>:20, 31;<strong> 15</strong>:8, 24;<strong> 16</strong>:6, 28; <strong><sup>22</sup></strong>:40, 50; 2 Kings <strong><sup>8</sup></strong>:24; <strong><sup>10</sup></strong>:35; <strong><sup>13</sup></strong>:9, 13; <strong><sup>14</sup></strong>:16, 22, 29; <strong><sup>15</sup></strong>:7, 22, 38; <strong><sup>16</sup></strong>:20; <strong><sup>20</sup></strong>:21;<strong> 21</strong>:18; 2<strong><sup>4</sup></strong>:6; 2 Chronicles <strong><sup>9</sup></strong>:31; <strong><sup>12</sup></strong>:16; <strong><sup>14</sup></strong>:1; <strong><sup>16</sup></strong>:13; <strong><sup>21</sup></strong>:1; 2<strong><sup>6</sup></strong>:2, 23; <strong><sup>27</sup></strong>:9; <strong><sup>28</sup></strong>:27; <strong><sup>32</sup></strong>:33;<strong> 33</strong>:20 (cp. Acts <strong><sup>13</sup></strong>:36). The Hebrew term translated “sleep” in these cases is שָׁכַב, “to lie down.” The Septuagint usually translates it κοιμάομαι.
-
-13.	Job <strong><sup>14</sup></strong>:12, <em>“People lie down and do not arise; till the heavens no longer exist, they will not awake or be aroused from their sleep</em> [שֵׁנָה/ὕπνός].<em>”</em>
-
-14.	Daniel <strong><sup>12</sup></strong>:2 speaks of those who <em>“sleep</em> [יָשַׁן/καθεύδω] <em>in the dust of the </em>
-
-<em>			earth.”</em>
-
-15.	Isaiah <strong><sup>26</sup></strong>:19 is one place where “awakening” is a metaphor for resurrection:
-
-<em>“Awake and sing, you that live in the dust.”</em>
-
-
-B. Various texts describe the condition of the dead as one in which a person has no sensory, mental, emotional, or physical activity.
-
-
-1.	Job <strong><sup>14</sup></strong>:21: <em>“[A man’s] sons come to honor (him), and he does not </em><em><u>know</u></em><em> it; and they are brought low, but he does not </em><em><u>perceive</u></em><em> it of them.”</em> That description might refer to a terminal, half-conscious suffering since the next verse speaks of his flesh as having pain.
-
-2.	Psalm<strong> 6</strong>:5: <em>“In death there is no </em><em><u>remembrance</u></em><em> of [God].”</em>
-
-3.	Psalm <strong><sup>88</sup></strong>:10-12<em>: “Will you show wonders to the dead? Will the deceased arise and praise you [Selah]? Will your lovingkindness be declared in the grave, or your faithfulness in Destruction/Abaddon</em> [see Job <strong><sup>26</sup></strong>:6]? <em>Will your wonders be </em><em><u>known</u></em><em> in the dark, and your righteousness in the land of </em><em><u>forgetfulness</u></em><em>?”</em>
-
-4.	Psalm <strong><sup>115</sup></strong>:17: <em>“The dead do not praise Yahveh, neither do any that go down into </em><em><u>silence</u></em><em>.”</em>
-
-5.	Psalm <strong><sup>146</sup></strong>:4<em>: “His breath goes out; he returns to the earth; in that very day his </em><em><u>thoughts perish</u></em><em>.”</em>
-
-6.	Ecclesiastes<strong> 9</strong>:5-6, 10: <em>“The dead do </em><em><u>not know</u></em><em> anything . . . for the memory of them is forgotten. As well their </em><em><u>love</u></em><em> as their </em><em><u>hatred</u></em><em> and their </em><em><u>envy perished</u></em><em> long ago . . . There is no </em><em><u>work</u></em><em> or </em><em><u>device</u></em><em> or </em><em><u>knowledge</u></em><em> or </em><em><u>wisdom</u></em><em> in Sheol where you are going.”</em>
-
-
-II. 	Responses to Arguments for Soul-Sleeping
-
-
-A.	“Sleep” is satisfactorily understood as a euphemism for death. It is an apt picture, because when people are asleep, they look like they do when they are dead. Their eyes are shut, they are lying down, breathing is shallow and not noticeable, they do not respond to their surroundings, they are not accomplishing anything, they are not aware of what is happening and do not remember it after they wake up. Waking up is comparable to resurrection if the figure carries through. This is surely a case of “phenomenological language,” that is, wording suggested by the way things appear more than by the way they are. If “sleep” is a figurative expression for death, we allegorize the comparison between sleep and death when we carry their similarity to the extent assumed in soul-sleeping.
-
-
-B. 	Many passages speak of the dead as doing and experiencing the very things that
-
-passages cited above say do not occur with the dead.
-
-
-1.	Revelation <strong><sup>6</sup></strong>:9-11: John saw the souls of martyrs under the altar, and they were asking how long it would be before their blood would be avenged on those still living on the earth. They were given white robes and told to rest a while till their fellow servants had undergone their own martyrdom.
-
-2.	Luke<strong> 16</strong>:19-31: The Parable of the Rich Man and Lazarus pictures Abraham, the rich man, and Lazarus as consciously existing. Lazarus was experiencing good things while the rich man was in torment, concerned that his five brothers should end up where he was. Conversation takes place between the participants. (Some interpreters have suggested that this text is not a parable but an actual situation, because it is not called a parable, and it stands alone as a story with named participants.)
-
-3.	Isaiah <strong><u><sup>14</sup></u></strong>:9-11 pictures the previous dead talking to those who have just died and joined them.
-
-4. Jesus preached to the dead perhaps between the time of his death and resurrection (1 Peter <strong><sup>3</sup></strong>:18-22;<strong> 4</strong>:6; cp. Ephesians <strong><sup>4</sup></strong>:9?).
-
-
-The texts that speak of no activity or sound are all in highly poetic texts, which increases the likelihood of figurative, hence, phenomenological, language. Furthermore, the contexts of those statements were written when people were experiencing despair, which increases the likelihood that they were speaking affectively more than cognitively. We could also suppose that speaking actors were planted in the texts so the writer could use them to express his ideas, but we cannot explain 1 Peter<strong> 3</strong>:18-22; <strong><sup>4</sup></strong>:6 this way.
-
-
-C. 	Several texts speak as if a person goes directly from his earthly condition into the
-
-presence of God.
-
-
-1.	In Philippians<strong> 1</strong>:21-24 Paul considered it gain to die, because he could go to be with Christ, which would be far better. Passing into non-existence or unconsciousness might relieve him of his present sufferings, but it would not give him a better existence than normal conscious living.
-
-2. 	2 Corinthians <strong><sup>5</sup></strong>:1-10 contrasts living in the body and living in the building God gives when this “earthly tabernacle” dissolves. The alternatives are being at home in the body and being present with the Lord. People should aim to be well-pleasing to God when they are absent from the body as well as when they are still alive. Being well-pleasing would seem to require conscious existence and real behavior.
-
-3.	Ecclesiastes <strong><sup>12</sup></strong>:7 says, <em>“The dust returns to the earth where it was, and spirit returns to the God who gave it.”</em> (Contrast <strong><sup>3</sup></strong>:19-22; cp. Luke <strong><sup>23</sup></strong>:46; Acts <strong><sup>7</sup></strong>:59.)
-
-4. Genesis <strong><sup>5</sup></strong>:24 says, <em>“Enoch walked with God, and he was not because God took him.”</em> In 2 Kings <strong><sup>2</sup></strong>:11 <em>“Elijah went up by a whirlwind to heaven.”</em> These two cases that we call translations make us wonder how likely it would be for God to take Enoch and Elijah up early into non-existence or unconsciousness.
-
-5. 	Luke <strong><sup>23</sup></strong>:43: On the day Jesus died, one of the “malefactors” crucified beside him asked Jesus to remember him when the Jesus came into his kingdom. The Lord responded with the well-known statement, <em>“Today you will be with me in Paradise.”</em> As it stands, the statement makes it virtually impossible that at death we enter a state of unconsciousness—or non-existence—until the general resurrection.
-
-Using Luke <strong><sup>23</sup></strong>:43, however, must consider the possibility that <em>today</em> modifies <em>say</em> rather than <em>be</em>. In the original Greek manuscripts, the absence of punctuation leaves a reader to decide where to insert commas and quotation marks to indicate the beginning of a quotation. If <em>today</em> modifies <em>say</em>, this text falls out of the discussion about soul-sleeping. (Is Paradise different from heaven, because Jesus would be with the thief today in Paradise; yet he tells Mary Magdalene he has not yet ascended to the Father?)
-
-
-a. 	Ἀμήν σοι λέγω, σήμερον μετ’ ἐμοῦ ἔσῃ ἐν τῷ παραδείσῳ. <em>“Truly I tell you, today you will be with me in paradise.”</em>
-
-b. Ἀμήν σοι λέγω σήμερον, Μετ’ ἐμοῦ ἔσῃ ἐν τῷ παραδείσῳ. <em>“Truly I tell you today, you will be with me in paradise.” </em>(<em>“I tell you right now, you will be with me in Paradise.”</em>)
-
-
-The question is whether Greek usage typically puts σήμερον (<em>“today”</em>) in the format required by the less traditional understanding, <em>i.e.</em>, on the front of the clause rather than after the previous verb. The following texts relate to the question: <strong>Matthew</strong> <strong><sup>6</sup></strong>:11, 30; (<strong><sup>11</sup></strong>:23); <strong><sup>16</sup></strong>:3; <strong><sup>21</sup></strong>:28; <strong><sup>27</sup></strong>:8, 19; <strong><sup>28</sup></strong>:15; <strong>Mark</strong> <strong><sup>14</sup></strong>:30; <strong>Luke</strong> <strong><sup>2</sup></strong>:11; <strong><sup>4</sup></strong>:21; <strong><sup>5</sup></strong>:26; <strong><sup>12</sup></strong>:28; <strong><sup>13</sup></strong>:32, 33; <strong><sup>19</sup></strong>:5, 9; <strong><sup>22</sup></strong>:34;<strong> 23</strong>:43; <strong><sup>24</sup></strong>:21; <strong>Acts 4</strong>:9, <strong><sup>13</sup></strong>:33; (<strong><sup>19</sup></strong>:40); <strong><sup>20</sup></strong>:26; <strong><sup>22</sup></strong>:3;<strong> 24</strong>:21; <strong><sup>26</sup></strong>:2, 29; <strong><sup>27</sup></strong>:33; (<strong>Romans</strong> <strong><sup>11</sup></strong>:8; <strong>2 Corinthians</strong> <strong><sup>3</sup></strong>:14, 15); <strong>Hebrews</strong> <strong><sup>1</sup></strong>:5; <strong><sup>3</sup></strong>:7, 13, (15; <strong><sup>4</sup></strong>:72); <strong><sup>5</sup></strong>:5; (<strong><sup>13</sup></strong>:8); <strong>James</strong> <strong><sup>4</sup></strong>:13. The references without parentheses relate to this question. Parenthesized references are deemed irrelevant because they use σήμερον in a prepositional phrase or are otherwise unlike the Luke <strong><sup>23</sup></strong>:43 text.
-
-As the “Addendum” shows at the end of this study, it appears from the placement of σήμερον relative to the verb that we cannot disprove that <em>today</em> modifies <em>say</em>, although we find no example of <em>“I say to you today”</em> as a kind of idiom for <em>“I tell you.”</em> Σήμερον generally appears near the front of the sentence, although it can appear after the verb—as the alternative translation requires in Luke <strong><sup>23</sup></strong>:43. The more important question is why Jesus would add <em>today</em> to <em>say</em>. Even if the statement would make a tolerable redundancy, we still wonder why a speaker would think that “saying today” would be significant enough to add <em>today</em> on top of the standard expression <em>“I say to you/I tell you.” </em>
-
-Bruce Metzger notes that the Curetonian Syriac version puts “today” with the preceding rather than the succeeding verb in Luke <strong><sup>23</sup></strong>:43: <em>A Textual Commentary on the Greek New Testament: A Companion Volume to the United Bible Societies’ Greek New Testament </em><sup>3</sup>rd ed, 1971, pp. 181-82.
-
-
-D. Scripture provides two cases of “translation” from this life. It would not seem natural to see Elijah and Enoch translated to unconscious existence any more than to see Jesus as ascending to unconscious existence. In the case of Enoch, the record says, <em>“he walked with God,”</em> which sounds like it might apply to after his translation.
-
-
-E. 	In some accounts the dead return to earth.
-
-
-1. Saul had the spirit medium at Endor call up Samuel (1 Samuel <strong><sup>28</sup></strong>:7-28). Scripture forbade people with “familiar spirits” from consulting the dead (Leviticus <strong><sup>19</sup></strong>:31; Deuteronomy <strong><sup>18</sup></strong>:10; cp. 1 Samuel <strong><sup>15</sup></strong>:23; <strong><sup>27</sup></strong>:3). Nevertheless, there were spiritists who claimed to contact the dead even as they do today. Saul had her call up Samuel to find out about his prospects in the battle against the Philistines. He and Samuel carried on a conversation in the process.
-
-2. During the transfiguration, Moses and Elijah appeared with Jesus in a glorified condition visible to Peter, James, and John; and they talked about the upcoming death of Jesus (Matthew <strong><sup>17</sup></strong>:1-8; Mark <strong><sup>9</sup></strong>:2-8; Luke<strong> 9</strong>:28-36). Would God have called them back into existence or back into a conscious condition just to carry on this conversation?
-
-3. In his account of Jesus’ death, Matthew <strong><u><sup>27</sup></u></strong>:52-53 adds a unique note that <em>“the tombs opened up and many bodies of the saints that had fallen asleep were raised; and, coming out of the tombs after his resurrection, they entered the holy city and appeared to many.” </em>
-
-4. Jesus’ post-resurrection appearances also belong with this evidence, even though his case could have been different from what happens to typical mortals.
-
-
-In these cases, people could have come back from an unconscious state, but that is not as likely in light of what they did during their appearances.
-
-christir.org
-
-
-<strong>ADDENDUM</strong>
-
-
-Matthew<strong> 6</strong>:11: 	Τὸ ἄρτον ἡμῶν τὸν ἐπιούσιον <strong>δὸς</strong> ἡμῖν σήμερον.
-
-<strong><sup>6</sup></strong>:30: 	εἰ δὲ τὸν χόρτον τοῦ ἀγροῦ σήμερον <strong>ὄντα</strong> καὶ αὔριον εἰς κλίβανον
-
-<strong>βαλλόμενον</strong> ὁ θεὸς οὕτως ἀμφιέννυσιν . . .
-
-<strong><sup>16</sup></strong>:3: 		καὶ πρωΐ, Σήμερον χειμών, πυρράζει γὰρ στυγνάζων ὁ οὐρανός.
-
-<strong> 21</strong>:28: 	Τέκνον, <strong>ὕπαγε</strong> σήμερον <strong>ἐργάζου</strong> ἐν τῷ ἀμπελῶνι.
-
-<strong>         27</strong>:8: 		διὸ <strong>ἐκλήθη</strong> ὁ ἀργὸς ἐκεῖνος Ἀγρὸς Αἵματος ἕως τῆς σήμερον.
-
-<strong><sup>27</sup></strong>:19: 	πολλὰ γὰρ <strong>ἔπαθον</strong> σήμερον κατ’ ὄναρ δι’ αὐτόν.
-
-<strong><sup>28</sup></strong>:15b: καὶ <strong>διεφημίσθη</strong> ὁ λόγος οὗτος παρὰ Ἰουδαίοις μέχρι τῆς σήμερον.
-
-Mark <strong><sup>14</sup></strong>:30: 		Ἀμὴν λέγω σοι ὅτι σὺ σήμερον ταύτῃ τῇ νυκτὶ πρὶν ἢ δὶς ἀλέκτορα
-
-φωνῆσαι τρίς με <strong>ἀπαρνήσῃ</strong>.
-
-Luke <strong><sup>2</sup></strong>:11: 	ὅτι <strong>ἐτέχθη</strong> ὑμῖν σήμερον σωτὴρ ὅς ἐστιν χριστὸς κύριος ἐν πόλει Δαυίδ.
-
-Luke<strong> 4</strong>:21:	 	ἤρξατο δὲ λέγειν πρὸς αὐτοὺς ὅτι Σήμερον <strong>πεπλήρωται</strong> ἡ γραφὴ αὕτη ἐν
-
-τοῖς ὠσὶν ὑμῶν.
-
-<strong><sup>5</sup></strong>:26: 	<strong>Εἴδομεν</strong> παράδοξα σήμερον.
-
-<strong> 12</strong>:28:	 	εἰ δὲ ἐν ἀγρῷ τὸν χόρτον <strong>ὄντα</strong> σήμερον καὶ αὔριον εἰς κλίβανον
-
-βαλλόμενον ὁ θεὸς οὕτως ἀμφιέζει.
-
-<strong> 13</strong>:32: 	Ἰδοὺ ἐκβάλλω δαιμόνια καὶ ἰάσεις <strong>ἀποτελῶ</strong> σήμερον καὶ αὔριον καὶ τῇ
-
-τρίτῇ τελειοῦμαι.
-
-<strong> 13</strong>:33: 	πλὴν δεῖ με σήμερον καὶ αὔριον καὶ τῇ ἐχομένη <strong>πορεύεσθαι</strong>.
-
-<strong> 19</strong>:5: 		σήμερον γὰρ ἐν τῷ οἴκῳ σου <strong>δεῖ</strong> με μεῖναι.
-
-<strong><sup>19</sup></strong>:9: 		Σήμερον σωτηρία τῷ οἴκῳ τούτῳ <strong>ἐγένετο</strong>.
-
-<strong> 22</strong>:34: 	Πέτρε, οὐ <strong>φωνήσει</strong> σήμερον ἀλέκτωρ ἕως τρίς με ἀπαρνήσῃ εἰδέναι.
-
-<strong><sup>22</sup></strong>:61:	 	Πρὶν ἀλέκτορα φωνῆσαι σήμερον ἀπαρνήσῃ με τρίς.
-
-Acts  <strong><sup>4</sup></strong>:9: 		εἰ ἡμεῖς σήμερον <strong>ἀνακρινόμεθα</strong> ἐπὶ εὐεργεσίᾳ . . .
-
-<strong><sup>20</sup></strong>:26: 	διότι <strong>μαρτύρομαι</strong> ὑμῖν ἐν τῇ σήμερον ἡμέρᾳ ὅτι . . .
-
-<strong><sup>22</sup></strong>:3: 		ζηλωτὴς ὑπάρχων τοῦ θεοῦ καθὼς πάντες ὑμεῖς <strong>ἐστε </strong>σήμερον
-
-<strong><sup>23</sup></strong>:43: 	Ἀμήν σοι λέγω, σήμερον μετ’ ἐμοῦ ἔσῃ ἐν τῷ παραδείσῳ.
-
-<strong><sup>24</sup></strong>:21: 	Περὶ ἀναστάσεως νεκρῶν ἐγὼ <strong>κρίνομαι</strong> σήμερον ἐφ’ ὑμῶν.
-
-<strong><sup>26</sup></strong>:2: 		ἥγημαι ἐμαυτὸν μακάριον ἐπὶ σοῦ μέλλων σήμερον <strong>ἀπολογεῖσθαι</strong>
-
-<strong><sup>26</sup></strong>:29: 	Εὐξαίμην ἂν τῷ θεῷ καὶ ἐν ὀλίγῳ καὶ ἐν μεγάλῳ οὐ μόνον σὲ ἀλλὰ καὶ
-
-πάντες τοὺς <strong>ἀκούοντάς</strong> μου σήμερον γενέσθαι τοιούτους ὅποιος καὶ ἐγώ
-
-εἰμι.
-
-<strong> 27</strong>:33: 		Τεσσαρεσκαιδεκάτην σήμερον ἡμέραν <strong>προσδοκῶντες</strong> ἄσιτοι διατελεῖτε.
-
-Hebrews <strong><sup>1</sup></strong>:5: 		ἐγὼ σήμερον <strong>γεγέννηκά </strong>σε (cp. <strong><sup>5</sup></strong>:5; Acts<strong> 13</strong>:33).
-
-<strong><sup>3</sup></strong>:7: 		Σήμερον ἐὰν τῆς φωνῆς αὐτοῦ <strong>ἀκούσητε</strong> (cp. <strong><sup>3</sup></strong>:15; <strong><sup>4</sup></strong>:7).
-
-James <strong><sup>4</sup></strong>:13:		Ἄγε νῦν οἱ λέγοντες, Σήμερον ἢ αὔριον <strong>πορευσόμεθα</strong> εἰς τήνδε τὴν πόλιν
+<style>
+/* Font Definitions */
+ @font-face
+	{font-family:"Tms Rmn";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:Helv;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+ /* Style Definitions */
+ .word-content p.MsoNormal, .word-content li.MsoNormal, 
+p.MsoHeader, li.MsoHeader, 
+p.MsoFooter, li.MsoFooter, 
+span.HeaderChar
+	{mso-style-name:"Header Char";
+	mso-style-link:Header;
+	font-family:"Times New Roman",serif;
+	color:black;}
+span.FooterChar
+	{mso-style-name:"Footer Char";
+	mso-style-link:Footer;
+	font-family:"Times New Roman",serif;
+	color:black;}
+.word-content .MsoChpDefault
+	{font-family:"Tms Rmn",serif;}
+ /* Page Definitions */
+ 
+
+ /* List Definitions */
+ ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+</style>
+
+<div class="word-content">
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
+margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><b><span
+style='font-size:14.0pt'>THE DOCTRINE OF “SOUL-SLEEPING”</span></b></p>
+
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
+margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><b><span
+style='font-size:12.0pt'>&nbsp;</span></b></p>
+
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
+margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
+style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>&nbsp;</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Views of the human condition during the
+intermediate state differ as to whether it is a conscious existence. Conscious
+existence means that between death and the general resurrection, we experience
+the rewards and punishments later to be publicly declared at the great white
+throne judgment. Unconsciousness during that time has two possibilities: “soul
+sleeping” or non-existence. The second option means that when we die, we cease
+to exist objectively until God “recreates” us out of his memory, an event
+simultaneous with, or the same as, resurrection. For all practical purposes,
+soul sleeping amounts to the same thing though, strictly speaking, we do objectively
+exist. The following considerations go into evaluating the concept of “soul
+sleeping.”</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>  I. Arguments for Soul-Sleeping</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            A.  Death is called “sleep” and
+resurrection is called “awaking.”</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  The New Testament has many examples
+of sleep used figuratively as at least a euphemism for death (the asterisk
+means </span><span lang=EL style='font-size:12.0pt'>κοιμάομαι</span><span
+style='font-size:12.0pt'> [<i>koimaomai</i>] appears in the original Greek text):
+</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  1.   Matthew <b>27</b>:52: <i>“Many
+bodies of the saints that had fallen asleep* were </i></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><i><span
+style='font-size:12.0pt'>                         raised.” </span></i></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  2.   John <b>11</b>:1-44: <i>“Our
+friend Lazarus has fallen asleep [</i></span><i><span lang=EL style='font-size:
+12.0pt'>κοιμάομαι</span></i><i><span style='font-size:12.0pt'>], but I am going
+to awaken him. . . . Now Jesus had spoken about his death, but they thought he
+was talking about rest in the sense of sleep”</span></i><span style='font-size:
+12.0pt'> [</span><span lang=EL style='font-size:12.0pt'>ὕπνος</span><span
+style='font-size:12.0pt'>, <i>hypnos</i>]. Then Jesus told them plainly, <i>‘Lazarus
+has died’”</i> (<b>11</b>:11-14). Four terms for sleep occur with the
+resurrection of Lazarus recorded in John 1<b>1</b>: </span><span lang=EL
+style='font-size:12.0pt'>ὕπνος</span><span style='font-size:12.0pt'> (<i>hypnos</i>,
+<b>11</b>:13), </span><span lang=EL style='font-size:12.0pt'>κοιμάομαι</span><span
+style='font-size:12.0pt'> (<b>11</b>:11, 12), </span><span lang=EL
+style='font-size:12.0pt'>κοίμησις</span><span style='font-size:12.0pt'> (<i>koimēsis</i>,
+<b>11</b>:13; a one-use word), and </span><span lang=EL style='font-size:12.0pt'>ἐξυπνίζω</span><span
+style='font-size:12.0pt'> (<i>exypnizō</i>, <b>11</b>:11), but not </span><span
+lang=EL style='font-size:12.0pt'>καθεύδω</span><span style='font-size:12.0pt'>
+(<i>katheudō</i>) or </span><span lang=EL style='font-size:12.0pt'>ἔξυπνος</span><span
+style='font-size:12.0pt'> (<i>exypnos</i>).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  3.   Acts <b>7</b>:60: <i>“When
+[Stephen] said that, he fell asleep*.”</i></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  4.   Acts<b> 13</b>:36: <i>“David .
+. . fell asleep* and was laid to his fathers and saw                                                  
+                    corruption.”</i></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:1.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.0in'><span
+style='font-size:12.0pt'>                  5.   1 Corinthians <b>15</b>:6: <i>“Then
+Jesus appeared to more than 500 brothers at the </i></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:1.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.0in'><i><span
+style='font-size:12.0pt'>                              same time, of whom the
+majority remain till now, but some fell asleep*.”</span></i></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:1.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.0in'><span
+style='font-size:12.0pt'>                  6.   1 Corinthians <b>15</b>:17-18: <i>“If
+Christ has not been raised . . . then they also that </i></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:1.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.0in'><i><span
+style='font-size:12.0pt'>                              have fallen asleep* in
+Christ have perished.”</span></i></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:1.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.0in'><span
+style='font-size:12.0pt'>                  7.   1 Corinthians <b>15</b>:20: <i>“But
+now Christ has been raised from the dead, the </i></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:1.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.0in'><i><span
+style='font-size:12.0pt'>                              firstfruits of them that
+slept*.”</span></i></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  8.   1 Corinthians <b>15</b>:51: <i>“We
+will not all sleep*, but we will all be changed.”</i></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  9.   1 Thessalonians <b>4</b>:13-15:
+</span></p>
+
+<p class=MsoNormal style='margin-left:1.25in;text-align:justify'><i><span
+style='font-size:12.0pt'>“We would not have you ignorant, brothers, about those
+who <u>are falling asleep</u>*, that you not mourn like the rest who have no
+hope; because if we believe that Jesus died and resurrected, so also the ones
+that <u>fell asleep</u>* in Christ in Jesus God will bring with him. . . . We
+that are living—left behind till the coming of the Lord—will certainly not
+precede the ones that <u>have fallen asleep</u>*.”</span></i></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>               10.    2 Peter <b>3</b>:4: <i>“From the
+day the fathers <u>fell asleep</u>* everything continues from the beginning of
+creation.”</i></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                11.   1 Corinthians <b>11</b>:30: <i>“For
+that reason . . . and many sleep.”</i></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            </span><span lang=EL style='font-size:
+12.0pt'>Ἔξυπνος</span><b><span lang=EL style='font-size:12.0pt'> </span></b><span
+style='font-size:12.0pt'>[<i>exypnos</i>] and<b> </b></span><span lang=EL
+style='font-size:12.0pt'>ὕπνος</span><b><span lang=EL style='font-size:12.0pt'>
+</span></b><span style='font-size:12.0pt'>[<i>hypnos</i>] are not used in this
+idiomatic way for death. It is also questionable whether </span><span lang=EL
+style='font-size:12.0pt'>καθεύδω</span><b><span lang=EL style='font-size:12.0pt'>
+</span></b><span style='font-size:12.0pt'>[<i>katheudō</i>] is so used. Depending
+on how we look at it, one possible exception appears in the account of Jesus’
+resurrecting Jairus’ young daughter: <i>“She did not die; she’s sleeping”</i>
+(Matthew <b>9</b>:24 = Mark <b>5</b>:39 = Luke <b>8</b>:52). Since Jesus
+contrasts death with sleep, he does not clearly call death “sleep”; yet she is
+said earlier to be dead (Matthew<b> 9</b>:18; Mark <b>5</b>:35; Luke <b>8</b>:49).
+The mourners “knew” she was dead (Luke <b>8</b>:53; cp. John <b>11</b>:<u>4</u>,
+11, <u>14</u>); and after Jesus “saved” her, the text says, <i>“her spirit
+returned”</i> (Luke<b> 8</b>:55), an expression probably based on her beginning
+to “breathe” again; so it is unlikely that she was really in a coma. Rather
+than say the <u>term</u> is used figuratively in this case, it seems better to
+say that the <u>reality</u> amounted to sleep because Jesus was about to
+resurrect her. A second possibility with </span><span lang=EL style='font-size:
+12.0pt'>καθεύδω</span><span style='font-size:12.0pt'> occurs in the somewhat
+ambiguous statement, <i>“Awake, sleeper, and arise from the dead</i> (Ephesians<b>
+5</b>:14).<i>”</i> Awaking from sleep and arising from the dead are two figures
+for the same thing.  </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            On the other hand, twelve of the eighteen
+uses of </span><span lang=EL style='font-size:12.0pt'>κοιμάομαι</span><span
+style='font-size:12.0pt'> (<i>koimaomai</i>) are figurative for death with
+another usage for spiritual deadness: <i>“For that reason many are weak and
+sick/sickly among you, and a considerable number are <u>asleep/sleeping</u>”</i>
+(1 Corinthians <b>11</b>:30). In the New Testament all clear examples of sleep
+as a metaphor for death occur with </span><span lang=EL style='font-size:12.0pt'>κοιμάομαι</span><span
+style='font-size:12.0pt'>.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            In the Old Testament the imagery appears
+less frequently, being limited almost entirely to the expression “<i>slept with
+the fathers,”</i> and that occurring mainly in king lists. </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                 12. <i>“Sleeping with the fathers”</i>:
+<u>Deuteronomy</u> <b>31</b>:36; <u>2 Samue</u>l <b>7</b>:12; <u>1 Kings</u> <b>1</b>:21;
+<b>2</b>:10; <b>11</b>:21, 43; <b>14</b>:20, 31;<b> 15</b>:8, 24;<b> 16</b>:6,
+28; <b>22</b>:40, 50; <u>2 Kings</u> <b>8</b>:24; <b>10</b>:35; <b>13</b>:9,
+13; <b>14</b>:16, 22, 29; <b>15</b>:7, 22, 38; <b>16</b>:20; <b>20</b>:21;<b>
+21</b>:18; 2<b>4</b>:6; <u>2 Chronicles</u> <b>9</b>:31; <b>12</b>:16; <b>14</b>:1;
+<b>16</b>:13; <b>21</b>:1; 2<b>6</b>:2, 23; <b>27</b>:9; <b>28</b>:27; <b>32</b>:33;<b>
+33</b>:20 (cp. Acts <b>13</b>:36). The Hebrew term translated “sleep” in these
+cases is </span><span lang=HE dir=RTL style='font-size:12.0pt'>שָׁכַב</span><span
+dir=LTR></span><span style='font-size:12.0pt'><span dir=LTR></span>, “to lie
+down.” The Septuagint usually translates it </span><span lang=EL
+style='font-size:12.0pt'>κοιμάομαι</span><span style='font-size:12.0pt'>. </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                 13.  Job <b>14</b>:12, <i>“People lie
+down and do not arise; till the heavens no longer exist, they will not awake or
+be aroused from their sleep</i> [</span><span lang=HE dir=RTL style='font-size:
+12.0pt'>שֵׁנָה</span><span dir=LTR></span><span style='font-size:12.0pt'><span
+dir=LTR></span>/</span><span lang=EL style='font-size:12.0pt'>ὕπνός</span><span
+style='font-size:12.0pt'>].<i>”</i> </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                 14.  Daniel <b>12</b>:2 speaks of
+those who <i>“sleep</i> [</span><span lang=HE dir=RTL style='font-size:12.0pt'>יָשַׁן</span><span
+dir=LTR></span><span style='font-size:12.0pt'><span dir=LTR></span>/</span><span
+lang=EL style='font-size:12.0pt'>καθεύδω</span><span style='font-size:12.0pt'>]
+<i>in the dust of the </i></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><i><span
+style='font-size:12.0pt'>                        earth.”</span></i></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:1.0in;margin-bottom:.0001pt;text-align:justify;text-indent:-.75in'><span
+style='font-size:12.0pt'>                 15.  Isaiah <b>26</b>:19 is one place
+where “awakening” is a metaphor for resurrection:</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:1.0in;margin-bottom:.0001pt;text-align:justify;text-indent:-.75in'><i><span
+style='font-size:12.0pt'>“Awake and sing, you that live in the dust.”</span></i></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            B. Various texts describe the condition of
+the dead as one in which </span><span style='font-size:12.0pt;color:windowtext'>a
+person has</span><span style='font-size:12.0pt'> no sensory, mental, emotional,
+or physical activity.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  1.   Job <b>14</b>:21: <i>“[A man’s]
+sons come to honor (him), and he does not <u>know</u> it; and they are brought
+low, but he does not <u>perceive</u> it of them.”</i> That description might
+refer to a terminal, half-conscious suffering since the next verse speaks of
+his flesh as having pain.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  2.   Psalm<b> 6</b>:5: <i>“In death </i></span><i><span
+style='font-size:12.0pt;color:windowtext'>there is</span></i><i><span
+style='font-size:12.0pt'> no <u>remembrance</u> of [God].”</span></i></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  3.   Psalm <b>88</b>:10-12<i>: “Will
+you show wonders to the dead? Will the deceased arise and praise you [Selah]? Will
+your lovingkindness be declared in the grave, or your faithfulness in
+Destruction/Abaddon</i> [see Job <b>26</b>:6]? <i>Will your wonders be <u>known</u>
+in the dark, and your righteousness in the land of <u>forgetfulness</u>?”</i></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:1.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.0in'><span
+style='font-size:12.0pt'>                  4.   Psalm <b>115</b>:17: <i>“The
+dead do not praise Yahveh, neither do any that go down into <u>silence</u>.”</i></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:1.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.0in'><span
+style='font-size:12.0pt'>                  5.   Psalm <b>146</b>:4<i>: “His
+breath goes out; he returns to the earth; in that very day his <u>thoughts
+perish</u>.”</i></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  6.   Ecclesiastes<b> 9</b>:5-6, 10: <i>“The
+dead do <u>not know</u> anything . . . for the memory of them is forgotten. As
+well their <u>love</u> as their <u>hatred</u> and their <u>envy perished</u>
+long ago . . . </i></span><i><span style='font-size:12.0pt;color:windowtext'>There
+is no</span></i><i><span style='font-size:12.0pt'> <u>work</u> or <u>device</u>
+or <u>knowledge</u> or <u>wisdom</u> in Sheol where you are going.”</span></i></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'> II.  Responses to Arguments for Soul-Sleeping</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            A.  <u>“Sleep” is satisfactorily
+understood as a euphemism for death</u>. It is an apt picture, because when
+people are asleep, they look like they do when they are dead. Their eyes are
+shut, they are lying down, breathing is shallow and not noticeable, they do not
+respond to their surroundings, they are not accomplishing anything, they are
+not aware of what is happening and do not remember it after they wake up. Waking
+up is comparable to resurrection if the figure carries through. This is surely
+a case of “phenomenological language,” that is, wording suggested by the way
+things appear more than by the way they are. If “sleep” is a figurative
+expression for death, we allegorize the comparison between sleep and death when
+we carry their similarity to the extent assumed in soul-sleeping.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            B.  <u>Many passages speak of the dead as
+doing and experiencing the very things that </u></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  <u>passages cited above say do not
+occur with the dead</u>.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  1.   Revelation <b>6</b>:9-11: <u>John
+saw the souls of martyrs under the altar</u>, and they were asking how long it
+would be before their blood would be avenged on those still living on the
+earth. They were given white robes and told to rest a while till their fellow
+servants had undergone their own martyrdom.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  2.   Luke<b> 16</b>:19-31: <u>The
+Parable of the Rich Man and Lazarus</u> pictures Abraham, the rich man, and
+Lazarus as consciously existing. Lazarus was experiencing good things while the
+rich man was in torment, concerned that his five brothers should end up where
+he was. Conversation takes place between the participants. (Some interpreters
+have suggested that this text is not a parable but an actual situation, because
+it is not called a parable, and it stands alone as a story with named
+participants.)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  3.   <u>Isaiah <b>14</b>:9-11</u>
+pictures the previous dead talking to those who have just died and joined them.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  4. <u>Jesus preached to the dead</u>
+perhaps between the time of his death and resurrection (1 Peter <b>3</b>:18-22;<b>
+4</b>:6; cp. Ephesians <b>4</b>:9?).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  The texts that speak of no activity
+or sound are all in highly poetic texts, which increases the likelihood of
+figurative, hence, phenomenological, language. Furthermore, the contexts of
+those statements were written when people were experiencing despair, which
+increases the likelihood that they were speaking affectively more than
+cognitively. We could also suppose that speaking actors were planted in the
+texts so the writer could use them to express his ideas, but we cannot explain 1
+Peter<b> 3</b>:18-22; <b>4</b>:6 this way.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            C.  <u>Several texts speak as if a person
+goes directly from his earthly condition into the </u></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  <u>presence of God</u>.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  1.   In Philippians<b> 1</b>:21-24
+Paul considered it gain to die, because he could go to be with Christ, which
+would be far better. Passing into non-existence or unconsciousness might
+relieve him of his present sufferings, but it would not give him a better
+existence than normal conscious living.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  2.   2 Corinthians <b>5</b>:1-10
+contrasts living in the body and living in the building God gives when this “earthly
+tabernacle” dissolves. The alternatives are being at home in the body and being
+present with the Lord. People should aim to be well-pleasing to God when they are
+absent from the body as well as when they are still alive. Being well-pleasing
+would seem to require conscious existence and real behavior.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  3.   Ecclesiastes <b>12</b>:7 says, <i>“The
+dust returns to the earth where it was, and spirit returns to the God who gave it.”</i>
+(Contrast <b>3</b>:19-22; cp. Luke <b>23</b>:46; Acts <b>7</b>:59.)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  4. Genesis <b>5</b>:24 says, <i>“Enoch
+walked with God, and he was not because God took him.”</i> In 2 Kings <b>2</b>:11
+<i>“Elijah went up by a whirlwind to heaven.”</i> These two cases that we call
+translations make us wonder how likely it would be for God to take Enoch and
+Elijah up early into non-existence or unconsciousness. </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  5.   Luke <b>23</b>:43: On the day
+Jesus died, one of the “malefactors” crucified beside him asked Jesus to
+remember him when the Jesus came into his kingdom. The Lord responded with the
+well-known statement, <i>“Today you will be with me in Paradise.”</i> As it
+stands, the statement makes it virtually impossible that at death we enter a
+state of unconsciousness—or non-existence—until the general resurrection.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                        Using Luke <b>23</b>:43,
+however, must consider the possibility that <i>today</i> modifies <i>say</i>
+rather than <i>be</i>. In the original Greek manuscripts, the absence of
+punctuation leaves a reader to decide where to insert commas and quotation
+marks to indicate the beginning of a quotation. If <i>today</i> modifies <i>say</i>,
+this text falls out of the discussion about soul-sleeping. (Is Paradise
+different from heaven, because Jesus would be with the thief <u>today</u> in Paradise;
+yet he tells Mary Magdalene he has not yet ascended to the Father?)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                        a.   </span><span lang=EL
+style='font-size:12.0pt'>Ἀμήν</span><span lang=EL style='font-size:12.0pt'> </span><span
+lang=EL style='font-size:12.0pt'>σοι</span><span lang=EL style='font-size:12.0pt'>
+</span><span lang=EL style='font-size:12.0pt'>λέγω</span><span
+style='font-size:12.0pt'>, </span><span lang=EL style='font-size:12.0pt'>σήμερον</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>μετ</span><span
+style='font-size:12.0pt'>’ </span><span lang=EL style='font-size:12.0pt'>ἐμοῦ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ἔσῃ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ἐν</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>τῷ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>παραδείσῳ</span><span
+style='font-size:12.0pt'>. <i>“Truly I tell you, today you will be with me in
+paradise.”</i></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                        b. </span><span lang=EL
+style='font-size:12.0pt'>Ἀμήν</span><span lang=EL style='font-size:12.0pt'> </span><span
+lang=EL style='font-size:12.0pt'>σοι</span><span lang=EL style='font-size:12.0pt'>
+</span><span lang=EL style='font-size:12.0pt'>λέγω</span><span lang=EL
+style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>σήμερον</span><span
+style='font-size:12.0pt'>, </span><span lang=EL style='font-size:12.0pt'>Μετ</span><span
+style='font-size:12.0pt'>’ </span><span lang=EL style='font-size:12.0pt'>ἐμοῦ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ἔσῃ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ἐν</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>τῷ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>παραδείσῳ</span><span
+style='font-size:12.0pt'>. <i>“Truly I tell you today, you will be with me in
+paradise.” </i>(<i>“I tell you right now, you will be with me in Paradise.”</i>)</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>      </span></b><span style='font-size:12.0pt'>                  The
+question is whether Greek usage typically puts </span><span lang=EL
+style='font-size:12.0pt'>σήμερον</span><span lang=EL style='font-size:12.0pt'> </span><span
+style='font-size:12.0pt'>(<i>“today”</i>) in the format required by the less
+traditional understanding, <i>i.e.</i>, on the front of the clause rather than
+after the previous verb. The following texts relate to the question: <b>Matthew</b>
+<b>6</b>:11, 30; (<b>11</b>:23); <b>16</b>:3; <b>21</b>:28; <b>27</b>:8, 19; <b>28</b>:15;
+<b>Mark</b> <b>14</b>:30; <b>Luke</b> <b>2</b>:11; <b>4</b>:21; <b>5</b>:26; <b>12</b>:28;
+<b>13</b>:32, 33; <b>19</b>:5, 9; <b>22</b>:34;<b> 23</b>:43; <b>24</b>:21; <b>Acts
+4</b>:9, <b>13</b>:33; (<b>19</b>:40); <b>20</b>:26; <b>22</b>:3;<b> 24</b>:21;
+<b>26</b>:2, 29; <b>27</b>:33; (<b>Romans</b> <b>11</b>:8; <b>2 Corinthians</b>
+<b>3</b>:14, 15); <b>Hebrews</b> <b>1</b>:5; <b>3</b>:7, 13, (15; <b>4</b>:7<span
+style='position:relative;top:-3.0pt'>2</span>); <b>5</b>:5; (<b>13</b>:8); <b>James</b>
+<b>4</b>:13. The references without parentheses relate to this question. Parenthesized
+references are deemed irrelevant because they use </span><span lang=EL
+style='font-size:12.0pt'>σήμερον</span><span style='font-size:12.0pt'> in a
+prepositional phrase or are otherwise unlike the Luke <b>23</b>:43 text.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                        As the “Addendum” shows at the
+end of this study, it appears from the placement of </span><span lang=EL
+style='font-size:12.0pt'>σήμερον</span><span style='font-size:12.0pt'> relative
+to the verb that we cannot disprove that <i>today</i> modifies <i>say</i>,
+although </span><span style='font-size:12.0pt;color:windowtext'>we find</span><span
+style='font-size:12.0pt'> no example of <i>“I say to you today”</i> as a kind
+of idiom for <i>“I tell you.”</i> </span><span lang=EL style='font-size:12.0pt'>Σήμερον</span><span
+lang=EL style='font-size:12.0pt'> </span><span style='font-size:12.0pt'>generally
+appears near the front of the sentence, although it can appear after the verb—as
+the alternative translation requires in Luke <b>23</b>:43. The more important
+question is why Jesus would add <i>today</i> to <i>say</i>. Even if the
+statement would make a tolerable redundancy, we still wonder why a speaker
+would think that “saying <u>today</u>” would be significant enough to add <i>today</i>
+on top of the standard expression <i>“I say to you/I tell you.” </i></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                        Bruce Metzger notes that the
+Curetonian Syriac version puts “today” with the preceding rather than the
+succeeding verb in Luke <b>23</b>:43: <i>A Textual Commentary on the Greek New
+Testament: A Companion Volume to the United Bible Societies’ Greek New
+Testament </i>3<sup>rd</sup> ed, 1971, pp. 181-82.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            D. </span><u><span style='font-size:12.0pt;
+color:windowtext'>Scripture provides</span></u><u><span style='font-size:12.0pt'>
+two cases of “translation” from this life</span></u><span style='font-size:
+12.0pt'>. It would not seem natural to see Elijah and Enoch translated to
+unconscious existence any more than to see Jesus as ascending to unconscious
+existence. In the case of Enoch, the record says, <i>“he walked with God,”</i>
+which sounds like it might apply to after his translation.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>&nbsp;</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            E.   </span><u><span style='font-size:
+12.0pt;color:windowtext'>In</span></u><u><span style='font-size:12.0pt'> some
+accounts the dead return to earth</span></u><span style='font-size:12.0pt'>. </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  1. <u>Saul had the spirit medium at
+Endor call up Samuel</u> (1 Samuel <b>28</b>:7-28). Scripture forbade people
+with “familiar spirits” from consulting the dead (Leviticus <b>19</b>:31;
+Deuteronomy <b>18</b>:10; cp. 1 Samuel <b>15</b>:23; <b>27</b>:3). Nevertheless,
+</span><span style='font-size:12.0pt;color:windowtext'>there were</span><span
+style='font-size:12.0pt'> spiritists who claimed to contact the dead even as </span><span
+style='font-size:12.0pt;color:windowtext'>they do today</span><span
+style='font-size:12.0pt'>. Saul had her call up Samuel to find out about his prospects
+in the battle against the Philistines. He and Samuel carried on a conversation
+in the process.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  2. During <u>the transfiguration</u>,
+Moses and Elijah appeared with Jesus in a glorified condition visible to Peter,
+James, and John; and they talked about the upcoming death of Jesus (Matthew <b>17</b>:1-8;
+Mark <b>9</b>:2-8; Luke<b> 9</b>:28-36). Would God have called them back into
+existence or back into a conscious condition just to carry on this
+conversation?</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  3. In his account of Jesus’ death, <u>Matthew
+<b>27</b>:52-53</u> adds a unique note that <i>“the tombs opened up and many
+bodies of the saints that had fallen asleep were raised; and, coming out of the
+tombs after his resurrection, they entered the holy city and appeared to many.”
+</i></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  4. <u>Jesus’ post-resurrection
+appearances</u> also belong with this evidence, even though his case could have
+been different from what happens to typical mortals.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  In these cases, people could have
+come back from an unconscious state, but that is not as likely in light of what
+they did during their appearances.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                                                                                                                   
+</span><span style='font-size:11.0pt'>christir.org</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:11.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
+margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><b><span
+style='font-size:12.0pt'>ADDENDUM</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:4.0pt;
+margin-left:.25in;text-align:justify'><span style='font-size:12.0pt'>Matthew<b>
+6</b>:11:    </span><span lang=EL style='font-size:12.0pt'>Τὸ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ἄρτον</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ἡμῶν</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>τὸν</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ἐπιούσιον</span><span
+lang=EL style='font-size:12.0pt'> </span><b><span lang=EL style='font-size:
+12.0pt'>δὸς</span></b><span lang=EL style='font-size:12.0pt'> </span><span
+lang=EL style='font-size:12.0pt'>ἡμῖν</span><span lang=EL style='font-size:
+12.0pt'> </span><u><span lang=EL style='font-size:12.0pt'>σήμερον</span></u><span
+style='font-size:12.0pt'>.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>               <b>6</b>:30:    </span><span lang=EL
+style='font-size:12.0pt'>εἰ</span><span lang=EL style='font-size:12.0pt'> </span><span
+lang=EL style='font-size:12.0pt'>δὲ</span><span lang=EL style='font-size:12.0pt'>
+</span><span lang=EL style='font-size:12.0pt'>τὸν</span><span lang=EL
+style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>χόρτον</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>τοῦ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ἀγροῦ</span><span
+lang=EL style='font-size:12.0pt'> </span><u><span lang=EL style='font-size:
+12.0pt'>σήμερον</span></u><span lang=EL style='font-size:12.0pt'> </span><b><span
+lang=EL style='font-size:12.0pt'>ὄντα</span></b><span lang=EL style='font-size:
+12.0pt'> </span><span lang=EL style='font-size:12.0pt'>καὶ</span><span lang=EL
+style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>αὔριον</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>εἰς</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>κλίβανον</span><span
+lang=EL style='font-size:12.0pt'> </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:4.0pt;
+margin-left:.25in;text-align:justify'><span style='font-size:12.0pt'>                           </span><b><span
+lang=EL style='font-size:12.0pt'>βαλλόμενον</span></b><span lang=EL
+style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ὁ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>θεὸς</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>οὕτως</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ἀμφιέννυσιν</span><span
+style='font-size:12.0pt'> . . . </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:4.0pt;
+margin-left:.25in;text-align:justify'><span style='font-size:12.0pt'>             
+<b>16</b>:3:     </span><span lang=EL style='font-size:12.0pt'>καὶ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>πρωΐ</span><span
+style='font-size:12.0pt'>, </span><u><span lang=EL style='font-size:12.0pt'>Σήμερον</span></u><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>χειμών</span><span
+style='font-size:12.0pt'>, </span><span lang=EL style='font-size:12.0pt'>πυρράζει</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>γὰρ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>στυγνάζων</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ὁ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>οὐρανός</span><span
+style='font-size:12.0pt'>.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:4.0pt;
+margin-left:.25in;text-align:justify'><span style='font-size:12.0pt'>            
+</span><b><span style='font-size:6.0pt'> </span></b><b><span style='font-size:
+12.0pt'>21</span></b><span style='font-size:12.0pt'>:28:   </span><span
+lang=EL style='font-size:12.0pt'>Τέκνον</span><span style='font-size:12.0pt'>, </span><b><span
+lang=EL style='font-size:12.0pt'>ὕπαγε</span></b><span lang=EL
+style='font-size:12.0pt'> </span><u><span lang=EL style='font-size:12.0pt'>σήμερον</span></u><span
+lang=EL style='font-size:12.0pt'> </span><b><span lang=EL style='font-size:
+12.0pt'>ἐργάζου</span></b><span lang=EL style='font-size:12.0pt'> </span><span
+lang=EL style='font-size:12.0pt'>ἐν</span><span lang=EL style='font-size:12.0pt'>
+</span><span lang=EL style='font-size:12.0pt'>τῷ</span><span lang=EL
+style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ἀμπελῶνι</span><span
+style='font-size:12.0pt'>.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:4.0pt;
+margin-left:.25in;text-align:justify'><span style='font-size:12.0pt'>      <b>       </b></span><b><span
+style='font-size:3.0pt'>  </span></b><b><span style='font-size:12.0pt'>27</span></b><span
+style='font-size:12.0pt'>:8:     </span><span lang=EL style='font-size:12.0pt'>διὸ</span><span
+lang=EL style='font-size:12.0pt'> </span><b><span lang=EL style='font-size:
+12.0pt'>ἐκλήθη</span></b><span lang=EL style='font-size:12.0pt'> </span><span
+lang=EL style='font-size:12.0pt'>ὁ</span><span lang=EL style='font-size:12.0pt'>
+</span><span lang=EL style='font-size:12.0pt'>ἀργὸς</span><span lang=EL
+style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ἐκεῖνος</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>Ἀγρὸς</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>Αἵματος</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ἕως</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>τῆς</span><span
+lang=EL style='font-size:12.0pt'> </span><u><span lang=EL style='font-size:
+12.0pt'>σήμερον</span></u><span style='font-size:12.0pt'>.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:4.0pt;
+margin-left:.25in;text-align:justify'><span style='font-size:12.0pt'>            
+<b>27</b>:19:    </span><span lang=EL style='font-size:12.0pt'>πολλὰ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>γὰρ</span><span
+lang=EL style='font-size:12.0pt'> </span><b><span lang=EL style='font-size:
+12.0pt'>ἔπαθον</span></b><span lang=EL style='font-size:12.0pt'> </span><u><span
+lang=EL style='font-size:12.0pt'>σήμερον</span></u><span lang=EL
+style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>κατ</span><span
+style='font-size:12.0pt'>’ </span><span lang=EL style='font-size:12.0pt'>ὄναρ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>δι</span><span
+style='font-size:12.0pt'>’ </span><span lang=EL style='font-size:12.0pt'>αὐτόν</span><span
+style='font-size:12.0pt'>.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:4.0pt;
+margin-left:.25in;text-align:justify'><span style='font-size:12.0pt'>             <b>28</b>:15</span><span
+lang=ES style='font-size:12.0pt'>b</span><span style='font-size:12.0pt'>: </span><span
+lang=EL style='font-size:12.0pt'>καὶ</span><span lang=EL style='font-size:12.0pt'>
+</span><b><span lang=EL style='font-size:12.0pt'>διεφημίσθη</span></b><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ὁ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>λόγος</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>οὗτος</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>παρὰ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>Ἰουδαίοις</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>μέχρι</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>τῆς</span><span
+lang=EL style='font-size:12.0pt'> </span><u><span lang=EL style='font-size:
+12.0pt'>σήμερον</span></u><span style='font-size:12.0pt'>.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>   </span><span lang=ES style='font-size:12.0pt'>Mark</span><span
+lang=ES style='font-size:12.0pt'> </span><b><span style='font-size:12.0pt'>14</span></b><span
+style='font-size:12.0pt'>:30:    </span><span lang=EL style='font-size:12.0pt'>Ἀμὴν</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>λέγω</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>σοι</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ὅτι</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>σὺ</span><span
+lang=EL style='font-size:12.0pt'> </span><u><span lang=EL style='font-size:
+12.0pt'>σήμερον</span></u><span lang=EL style='font-size:12.0pt'> </span><span
+lang=EL style='font-size:12.0pt'>ταύτῃ</span><span lang=EL style='font-size:
+12.0pt'> </span><span lang=EL style='font-size:12.0pt'>τῇ</span><span lang=EL
+style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>νυκτὶ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>πρὶν</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ἢ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>δὶς</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ἀλέκτορα</span><span
+lang=EL style='font-size:12.0pt'> </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:4.0pt;
+margin-left:.25in;text-align:justify'><span style='font-size:12.0pt'>                           </span><span
+lang=EL style='font-size:12.0pt'>φωνῆσαι</span><span lang=EL style='font-size:
+12.0pt'> </span><span lang=EL style='font-size:12.0pt'>τρίς</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>με</span><span
+lang=EL style='font-size:12.0pt'> </span><b><span lang=EL style='font-size:
+12.0pt'>ἀπαρνήσῃ</span></b><span style='font-size:12.0pt'>.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:4.0pt;
+margin-left:.25in;text-align:justify'><span lang=ES style='font-size:12.0pt'>      Luke
+<b>2</b>:11:    </span><span lang=EL style='font-size:12.0pt'>ὅτι</span><span
+lang=EL style='font-size:12.0pt'> </span><b><span lang=EL style='font-size:
+12.0pt'>ἐτέχθη</span></b><span lang=EL style='font-size:12.0pt'> </span><span
+lang=EL style='font-size:12.0pt'>ὑμῖν</span><span lang=EL style='font-size:
+12.0pt'> </span><u><span lang=EL style='font-size:12.0pt'>σήμερον</span></u><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>σωτὴρ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ὅς</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ἐστιν</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>χριστὸς</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>κύριος</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ἐν</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>πόλει</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>Δαυίδ</span><span
+lang=ES style='font-size:12.0pt'>.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=ES
+style='font-size:12.0pt'>      Luke<b> 4</b>:21:    </span><span lang=EL
+style='font-size:12.0pt'>ἤρξατο</span><span lang=EL style='font-size:12.0pt'> </span><span
+lang=EL style='font-size:12.0pt'>δὲ</span><span lang=EL style='font-size:12.0pt'>
+</span><span lang=EL style='font-size:12.0pt'>λέγειν</span><span lang=EL
+style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>πρὸς</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>αὐτοὺς</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ὅτι</span><span
+lang=EL style='font-size:12.0pt'> </span><u><span lang=EL style='font-size:
+12.0pt'>Σήμερον</span></u><span lang=EL style='font-size:12.0pt'> </span><b><span
+lang=EL style='font-size:12.0pt'>πεπλήρωται</span></b><span lang=EL
+style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ἡ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>γραφὴ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>αὕτη</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ἐν</span><span
+lang=EL style='font-size:12.0pt'> </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:4.0pt;
+margin-left:.25in;text-align:justify'><span lang=ES style='font-size:12.0pt'>       
+                   </span><span lang=EL style='font-size:12.0pt'>τοῖς</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ὠσὶν</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ὑμῶν</span><span
+lang=ES style='font-size:12.0pt'>.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:4.0pt;
+margin-left:.25in;text-align:justify'><span lang=ES style='font-size:12.0pt'>              
+<b>5</b>:26:    </span><b><span lang=EL style='font-size:12.0pt'>Εἴδομεν</span></b><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>παράδοξα</span><span
+lang=EL style='font-size:12.0pt'> </span><u><span lang=EL style='font-size:
+12.0pt'>σήμερον</span></u><span lang=ES style='font-size:12.0pt'>.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=ES
+style='font-size:12.0pt'>            <b> 12</b>:28:    </span><span lang=EL
+style='font-size:12.0pt'>εἰ</span><span lang=EL style='font-size:12.0pt'> </span><span
+lang=EL style='font-size:12.0pt'>δὲ</span><span lang=EL style='font-size:12.0pt'>
+</span><span lang=EL style='font-size:12.0pt'>ἐν</span><span lang=EL
+style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ἀγρῷ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>τὸν</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>χόρτον</span><span
+lang=EL style='font-size:12.0pt'> </span><b><span lang=EL style='font-size:
+12.0pt'>ὄντα</span></b><span lang=EL style='font-size:12.0pt'> </span><u><span
+lang=EL style='font-size:12.0pt'>σήμερον</span></u><span lang=EL
+style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>καὶ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>αὔριον</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>εἰς</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>κλίβανον</span><span
+lang=EL style='font-size:12.0pt'> </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:4.0pt;
+margin-left:.25in;text-align:justify'><span lang=ES style='font-size:12.0pt'>                           </span><span
+lang=EL style='font-size:12.0pt'>βαλλόμενον</span><span lang=EL
+style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ὁ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>θεὸς</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>οὕτως</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ἀμφιέζει</span><span
+lang=ES style='font-size:12.0pt'>.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=ES
+style='font-size:12.0pt'>            <b> 13</b>:32:    </span><span lang=EL
+style='font-size:12.0pt'>Ἰδοὺ</span><span lang=EL style='font-size:12.0pt'> </span><span
+lang=EL style='font-size:12.0pt'>ἐκβάλλω</span><span lang=EL style='font-size:
+12.0pt'> </span><span lang=EL style='font-size:12.0pt'>δαιμόνια</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>καὶ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ἰάσεις</span><span
+lang=EL style='font-size:12.0pt'> </span><b><span lang=EL style='font-size:
+12.0pt'>ἀποτελῶ</span></b><span lang=EL style='font-size:12.0pt'> </span><u><span
+lang=EL style='font-size:12.0pt'>σήμερον</span></u><span lang=EL
+style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>καὶ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>αὔριον</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>καὶ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>τῇ</span><span
+lang=EL style='font-size:12.0pt'> </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:4.0pt;
+margin-left:.25in;text-align:justify'><span lang=ES style='font-size:12.0pt'>                           </span><span
+lang=EL style='font-size:12.0pt'>τρίτῇ</span><span lang=EL style='font-size:
+12.0pt'> </span><span lang=EL style='font-size:12.0pt'>τελειοῦμαι</span><span
+lang=ES style='font-size:12.0pt'>.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:4.0pt;
+margin-left:.25in;text-align:justify'><span lang=ES style='font-size:12.0pt'>            <b> 13</b>:33:
+   </span><span lang=EL style='font-size:12.0pt'>πλὴν</span><span lang=EL
+style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>δεῖ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>με</span><span
+lang=EL style='font-size:12.0pt'> </span><u><span lang=EL style='font-size:
+12.0pt'>σήμερον</span></u><span lang=EL style='font-size:12.0pt'> </span><span
+lang=EL style='font-size:12.0pt'>καὶ</span><span lang=EL style='font-size:12.0pt'>
+</span><span lang=EL style='font-size:12.0pt'>αὔριον</span><span lang=EL
+style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>καὶ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>τῇ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ἐχομένη</span><span
+lang=EL style='font-size:12.0pt'> </span><b><span lang=EL style='font-size:
+12.0pt'>πορεύεσθαι</span></b><span lang=ES style='font-size:12.0pt'>.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:4.0pt;
+margin-left:.25in;text-align:justify'><span lang=ES style='font-size:12.0pt'>            <b> </b></span><b><span
+lang=EL style='font-size:12.0pt'>19</span></b><span lang=EL style='font-size:
+12.0pt'>:5:      <u>σήμερον</u> γὰρ ἐν τῷ οἴκῳ σου <b>δεῖ</b> με μεῖναι.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:4.0pt;
+margin-left:.25in;text-align:justify'><span lang=EL style='font-size:12.0pt'>             <b>19</b>:9:
+     <u>Σήμερον</u> σωτηρία τῷ οἴκῳ τούτῳ <b>ἐγένετο</b>.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:4.0pt;
+margin-left:.25in;text-align:justify'><span lang=EL style='font-size:12.0pt'>            <b> 22</b>:34:
+   Πέτρε, οὐ <b>φωνήσει</b> <u>σήμερον</u> ἀλέκτωρ ἕως τρίς με ἀπαρνήσῃ εἰδέναι.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:4.0pt;
+margin-left:.25in;text-align:justify'><span lang=EL style='font-size:12.0pt'>             <b>22</b>:61: 
+  Πρὶν ἀλέκτορα φωνῆσαι <u>σήμερον</u> ἀπαρνήσῃ με τρίς.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:4.0pt;
+margin-left:.25in;text-align:justify'><span lang=ES style='font-size:12.0pt'>      Acts
+</span><span lang=ES style='font-size:3.0pt'> </span><b><span lang=ES
+style='font-size:12.0pt'>4</span></b><span lang=ES style='font-size:12.0pt'>:9:
+     </span><span lang=EL style='font-size:12.0pt'>εἰ</span><span lang=EL
+style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ἡμεῖς</span><span
+lang=EL style='font-size:12.0pt'> </span><u><span lang=EL style='font-size:
+12.0pt'>σήμερον</span></u><span lang=EL style='font-size:12.0pt'> </span><b><span
+lang=EL style='font-size:12.0pt'>ἀνακρινόμεθα</span></b><span lang=EL
+style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ἐπὶ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>εὐεργεσίᾳ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=ES style='font-size:12.0pt'>.
+. . </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:4.0pt;
+margin-left:.25in;text-align:justify'><span lang=ES style='font-size:12.0pt'>             <b>20</b>:26:
+   </span><span lang=EL style='font-size:12.0pt'>διότι</span><span lang=EL
+style='font-size:12.0pt'> </span><b><span lang=EL style='font-size:12.0pt'>μαρτύρομαι</span></b><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ὑμῖν</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ἐν</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>τῇ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>σήμερον</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ἡμέρᾳ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ὅτι</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=ES style='font-size:12.0pt'>.
+. . </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:4.0pt;
+margin-left:.25in;text-align:justify'><span lang=ES style='font-size:12.0pt'>             <b>22</b>:3:
+     </span><span lang=EL style='font-size:12.0pt'>ζηλωτὴς</span><span lang=EL
+style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ὑπάρχων</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>τοῦ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>θεοῦ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>καθὼς</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>πάντες</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ὑμεῖς</span><span
+lang=EL style='font-size:12.0pt'> </span><b><span lang=EL style='font-size:
+12.0pt'>ἐστε</span></b><b><span lang=EL style='font-size:12.0pt'> </span></b><u><span
+lang=EL style='font-size:12.0pt'>σήμερον</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:4.0pt;
+margin-left:.25in;text-align:justify'><span lang=ES style='font-size:12.0pt'>             <b>23</b>:43:
+   </span><span lang=EL style='font-size:12.0pt'>Ἀμήν</span><span lang=EL
+style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>σοι</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>λέγω</span><span
+lang=ES style='font-size:12.0pt'>, </span><u><span lang=EL style='font-size:
+12.0pt'>σήμερον</span></u><span lang=EL style='font-size:12.0pt'> </span><span
+lang=EL style='font-size:12.0pt'>μετ</span><span lang=ES style='font-size:12.0pt'>’
+</span><span lang=EL style='font-size:12.0pt'>ἐμοῦ</span><span lang=EL
+style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ἔσῃ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ἐν</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>τῷ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>παραδείσῳ</span><span
+lang=ES style='font-size:12.0pt'>.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:4.0pt;
+margin-left:.25in;text-align:justify'><span lang=ES style='font-size:12.0pt'>             <b>24</b>:21:
+   </span><span lang=EL style='font-size:12.0pt'>Περὶ</span><span lang=EL
+style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ἀναστάσεως</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>νεκρῶν</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ἐγὼ</span><span
+lang=EL style='font-size:12.0pt'> </span><b><span lang=EL style='font-size:
+12.0pt'>κρίνομαι</span></b><span lang=EL style='font-size:12.0pt'> </span><u><span
+lang=EL style='font-size:12.0pt'>σήμερον</span></u><span lang=EL
+style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ἐφ</span><span
+lang=ES style='font-size:12.0pt'>’ </span><span lang=EL style='font-size:12.0pt'>ὑμῶν</span><span
+lang=ES style='font-size:12.0pt'>.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:4.0pt;
+margin-left:.25in;text-align:justify'><span lang=ES style='font-size:12.0pt'>             <b>26</b>:2:
+     </span><span lang=EL style='font-size:12.0pt'>ἥγημαι</span><span lang=EL
+style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ἐμαυτὸν</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>μακάριον</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ἐπὶ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>σοῦ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>μέλλων</span><span
+lang=EL style='font-size:12.0pt'> </span><u><span lang=EL style='font-size:
+12.0pt'>σήμερον</span></u><span lang=EL style='font-size:12.0pt'> </span><b><span
+lang=EL style='font-size:12.0pt'>ἀπολογεῖσθαι</span></b><span lang=EL
+style='font-size:12.0pt'> </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=ES
+style='font-size:12.0pt'>             <b>26</b>:29:    </span><span lang=EL
+style='font-size:12.0pt'>Εὐξαίμην</span><span lang=EL style='font-size:12.0pt'>
+</span><span lang=EL style='font-size:12.0pt'>ἂν</span><span lang=EL
+style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>τῷ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>θεῷ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>καὶ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ἐν</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ὀλίγῳ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>καὶ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ἐν</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>μεγάλῳ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>οὐ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>μόνον</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>σὲ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ἀλλὰ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>καὶ</span><span
+lang=EL style='font-size:12.0pt'> </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=ES
+style='font-size:12.0pt'>                           </span><span lang=EL
+style='font-size:12.0pt'>πάντες</span><span lang=EL style='font-size:12.0pt'> </span><span
+lang=EL style='font-size:12.0pt'>τοὺς</span><span lang=EL style='font-size:
+12.0pt'> </span><b><span lang=EL style='font-size:12.0pt'>ἀκούοντάς</span></b><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>μου</span><span
+lang=EL style='font-size:12.0pt'> </span><u><span lang=EL style='font-size:
+12.0pt'>σήμερον</span></u><span lang=EL style='font-size:12.0pt'> </span><span
+lang=EL style='font-size:12.0pt'>γενέσθαι</span><span lang=EL style='font-size:
+12.0pt'> </span><span lang=EL style='font-size:12.0pt'>τοιούτους</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ὅποιος</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>καὶ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ἐγώ</span><span
+lang=EL style='font-size:12.0pt'> </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:4.0pt;
+margin-left:.25in;text-align:justify'><span lang=ES style='font-size:12.0pt'>                           </span><span
+lang=EL style='font-size:12.0pt'>εἰμι</span><span lang=ES style='font-size:
+12.0pt'>.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:4.0pt;
+margin-left:.25in;text-align:justify'><span lang=ES style='font-size:12.0pt'>            </span><b><span
+lang=ES style='font-size:6.0pt'> </span></b><b><span lang=ES style='font-size:
+12.0pt'>27</span></b><span lang=ES style='font-size:12.0pt'>:33:    </span><span
+lang=EL style='font-size:12.0pt'>Τεσσαρεσκαιδεκάτην</span><span lang=EL
+style='font-size:12.0pt'> </span><u><span lang=EL style='font-size:12.0pt'>σήμερον</span></u><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ἡμέραν</span><span
+lang=EL style='font-size:12.0pt'> </span><b><span lang=EL style='font-size:
+12.0pt'>προσδοκῶντες</span></b><span lang=EL style='font-size:12.0pt'> </span><span
+lang=EL style='font-size:12.0pt'>ἄσιτοι</span><span lang=EL style='font-size:
+12.0pt'> </span><span lang=EL style='font-size:12.0pt'>διατελεῖτε</span><span
+lang=ES style='font-size:12.0pt'>.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:4.0pt;
+margin-left:0in;text-align:justify'><span lang=ES style='font-size:12.0pt'>    
+Hebrews <b>1</b>:5:       </span><span lang=EL style='font-size:12.0pt'>ἐγὼ</span><span
+lang=EL style='font-size:12.0pt'> </span><u><span lang=EL style='font-size:
+12.0pt'>σήμερον</span></u><span lang=EL style='font-size:12.0pt'> </span><b><span
+lang=EL style='font-size:12.0pt'>γεγέννηκά</span></b><b><span lang=EL
+style='font-size:12.0pt'> </span></b><span lang=EL style='font-size:12.0pt'>σε</span><span
+lang=ES style='font-size:12.0pt'> (cp. <b>5</b>:5; Acts<b> 13</b>:33).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:4.0pt;
+margin-left:.25in;text-align:justify'><span lang=ES style='font-size:12.0pt'>              
+<b>3</b>:7:      </span><span lang=EL style='font-size:12.0pt'>Σήμερον</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ἐὰν</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>τῆς</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>φωνῆς</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>αὐτοῦ</span><span
+lang=EL style='font-size:12.0pt'> </span><b><span lang=EL style='font-size:
+12.0pt'>ἀκούσητε</span></b><span lang=ES style='font-size:12.0pt'> (cp. <b>3</b>:15;
+<b>4</b>:7).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:4.0pt;
+margin-left:.25in;text-align:justify'><span lang=ES style='font-size:12.0pt'>   
+James <b>4</b>:13:    </span><span lang=EL style='font-size:12.0pt'>Ἄγε</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>νῦν</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>οἱ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>λέγοντες</span><span
+lang=ES style='font-size:12.0pt'>, </span><span lang=EL style='font-size:12.0pt'>Σήμερον</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>ἢ</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>αὔριον</span><span
+lang=EL style='font-size:12.0pt'> </span><b><span lang=EL style='font-size:
+12.0pt'>πορευσόμεθα</span></b><span lang=EL style='font-size:12.0pt'> </span><span
+lang=EL style='font-size:12.0pt'>εἰς</span><span lang=EL style='font-size:12.0pt'>
+</span><span lang=EL style='font-size:12.0pt'>τήνδε</span><span lang=EL
+style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>τὴν</span><span
+lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>πόλιν</span></p>
+</div>

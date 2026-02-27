@@ -9,518 +9,1108 @@ title: CALLS TO WORSHIP
 weight: 2
 ---
 
-
-
-
-Call to worship is a slot often used at the beginning of services designed to inspire awe, reverence, humility before God. Such services are more contemplative than celebrative, more vertically than horizontally oriented. The call to worship is a shorter scripture portion intended to focus attention of all participants and to prepare for a prayer of invocation. Other scripture readings may be longer in keeping with their purpose to inform, inspired, comfort and the like. The following texts are suggestions; there are may others that may be used for this purpose. The Book so Psalms is particularly useful as a resource for calls to worship. The texts below appear in vertical format so that notations can be made about subject matter, occasions when used, and the like.
-
-
-<strong>Genesis</strong> <strong><sup>28</sup></strong>:16-17
-
-<strong>Deuteronomy 6</strong>:4-7
-
-<strong><sup>12</sup></strong>:5
-
-<strong><sup>33</sup></strong>:27
-
-<strong>Joshua 3</strong>:9
-
-<strong>2 Samuel</strong> <strong><sup>23</sup></strong>:3-4
-
-<strong>1 Chronicles</strong> <strong><sup>16</sup></strong>:29
-
-<strong>2 Chronicles</strong> <strong><sup>7</sup></strong>:14
-
-<strong><sup>16</sup></strong>:28-29
-
-<strong>Job 5</strong>:8-10
-
-<strong><sup>22</sup></strong>:21 + 25-26
-
-<strong>Psalms</strong> 1:1-3
-
-<strong><sup>2</sup></strong>:1-2
-
-<strong><sup>4</sup></strong>:5
-
-<strong><sup>5</sup></strong>:3, 7
-
-<strong><sup>8</sup></strong>:1, 3-5(-9)
-
-<strong><sup>9</sup></strong>:1-2
-
-(<strong><sup>19</sup></strong>:1-3, 14)
-
-<strong><sup>22</sup></strong>:3-5
-
-<strong><sup>24</sup></strong>:1
-
-3-5
-
-7-8(-10)
-
-<strong><sup>26</sup></strong>:8
-
-7-12
-
-12
-
-<strong><sup>27</sup></strong>:1-5
-
-8
-
-13-14
-
-<strong><sup>28</sup></strong>:6-8
-
-<strong><sup>29</sup></strong>:1-2
-
-<strong><sup>30</sup></strong>:4
-
-<strong><sup>31</sup></strong>:23-24
-
-<strong><sup>33</sup></strong>:12
-
-20-22
-
-<strong><sup>34</sup></strong>:1-3
-
-8
-
-(11)
-
-<strong><sup>36</sup></strong>:5-7
-
-<strong><sup>37</sup></strong>:4-5
-
-<strong><sup>42</sup></strong>:8
-
-<strong><sup>46</sup></strong>:10
-
-<strong><sup>48</sup></strong>:1-2
-
-<strong><sup>51</sup></strong>:15
-
-<strong><sup>55</sup></strong>:6-7
-
-22
-
-<strong><sup>57</sup></strong>:7-9(11)
-
-<strong><sup>62</sup></strong>:8
-
-<strong><sup>63</sup></strong>:1-2(-4)
-
-<strong><sup>65</sup></strong>:1-2
-
-4
-
-11
-
-13
-
-<strong><sup>66</sup></strong>:1-2(-4)
-
-8
-
-<strong><sup>67</sup></strong>:3-7
-
-<strong><sup>68</sup></strong>:4
-
-<strong><sup>69</sup></strong>:34-35
-
-<strong><sup>71</sup></strong>:1-5
-
-23
-
-<strong><sup>72</sup></strong>:18-19
-
-<strong><sup>73</sup></strong>:25
-
-<strong><sup>75</sup></strong>:9
-
-<strong><sup>77</sup></strong>:11-15 (Memorial Day)
-
-<strong><sup>78</sup></strong>:1
-
-3-4
-
-<strong><sup>81</sup></strong>:1
-
-<strong>	84</strong>:1-2
-
-4
-
-10
-
-<strong><sup>85</sup></strong>:8-9(-12)
-
-<strong><sup>86</sup></strong>:9
-
-<strong><sup>89</sup></strong>:1-2
-
-15-17
-
-<strong><sup>90</sup></strong>:2
-
-<strong><sup>91</sup></strong>:1-2
-
-<strong><sup>92</sup></strong>:1-2
-
-<strong><sup>93</sup></strong>:2
-
-<strong><sup>95</sup></strong>:1-2
-
-6-7a
-
-<strong><sup>96</sup></strong>:1-4a
-
-6-9 or 9 + 6
-
-(11-)12-13
-
-<strong><sup>97</sup></strong>:1-2
-
-<strong><sup>98</sup></strong>:1(-3)
-
-4(-6)
-
-<strong><sup>99</sup></strong>:1-9
-
-<strong>100 </strong>(all or parts)
-
-<strong><sup>102</sup></strong>:12
-
-24-27
-
-<strong><sup>103</sup></strong>:1-2(-5)
-
-17-18
-
-21-22
-
-<strong><sup>104</sup></strong>:31-34(-35)
-
-<strong>	105</strong>:1(-3)
-
-<strong><sup>106</sup></strong>:1
-
-<strong><sup>107</sup></strong>:1(-2)
-
-31-32
-
-43
-
-<strong><sup>111</sup></strong>:1-4
-
-<strong><sup>113</sup></strong>:1-2(-4)
-
-<strong><sup>116</sup></strong>:1
-
-12-14
-
-<strong><sup>117</sup></strong>
-
-<strong><sup>118</sup></strong>:8-9
-
-15
-
-19-20
-
-24
-
-26(-27)
-
-29
-
-<strong><sup>119</sup></strong>:1-2(-4)
-
-18
-
-27
-
-33-34
-
-105
-
-<strong><sup>121</sup></strong>:1-2
-
-6-8
-
-<strong><sup>126</sup></strong>:(1-)3
-
-<strong><sup>128</sup></strong>:1-2
-
-<strong><sup>133</sup></strong>:1
-
-3
-
-<strong><sup>134</sup></strong>:1-3
-
-<strong>	135</strong>:1-3
-
-14
-
-<strong>	136</strong>:1-3
-
-<strong>	139</strong>:7-10
-
-<strong><sup>141</sup></strong>:1-2
-
-<strong><sup>144</sup></strong>:12-15
-
-<strong><sup>145</sup></strong>:1-3
-
-<strong><sup>146</sup></strong>:1-2
-
-10
-
-<strong><sup>147</sup></strong>:1
-
-5
-
-7-8
-
-11-12
-
-<strong><sup>148</sup></strong>:1-2
-
-11-12
-
-13
-
-<strong><sup>149</sup></strong>:1
-
-<strong><sup>150</sup></strong>:1-2
-
-6
-
-
-<strong>Proverbs</strong> <strong><sup>3</sup></strong>:5-6
-
-<strong>	16</strong>:3
-
-<sup>22</sup>a
-
-<strong><sup>22</sup></strong>:6
-
-<strong><sup>22</sup></strong>:17-18
-
-<strong><sup>23</sup></strong>:12
-
-23
-
-<strong>Ecclesiastes</strong> <strong><sup>12</sup></strong>:1
-
-<strong>Isaiah</strong> <strong><sup>1</sup></strong>:18 (forgiveness of sins)
-
-<strong><sup>6</sup></strong>:3
-
-<strong><sup>9</sup></strong>:2
-
-6 (Christmas)
-
-<strong><sup>11</sup></strong>:10 + 1-2
-
-<strong><sup>12</sup></strong>:4-5
-
-<strong><sup>25</sup></strong>:1
-
-4-9
-
-<strong><sup>26</sup></strong>:3-4
-
-<strong><sup>30</sup></strong>:15
-
-<strong><sup>34</sup></strong>:16
-
-46
-
-<strong><sup>35</sup></strong>:1-2
-
-<strong><sup>40</sup></strong>:3(-5) [= Lk. <strong><sup>3</sup></strong>:4-6]
-
-8
-
-31
-
-<strong><sup>41</sup></strong>:1a
-
-10
-
-<strong><sup>49</sup></strong>:13
-
-52:7 (Christmas)
-
-<strong><sup>53</sup></strong>:5
-
-<strong><sup>55</sup></strong>:6-7(-9)
-
-(8-)10-11
-
-<strong><sup>57</sup></strong>:15
-
-<strong><sup>66</sup></strong>:12a + 13
-
-<strong>Jeremiah 6</strong>:4b
-
-<strong><sup>9</sup></strong>:23-24
-
-<strong><sup>13</sup></strong>:15-16
-
-<strong>Lamentations 3</strong>:22-24
-
-<strong>Amos 5</strong>:14-15
-
-<strong>Micah 6</strong>:8
-
-<strong>Habakkuk</strong> <strong><sup>2</sup></strong>:20
-
-<strong>Zechariah</strong> <strong><sup>2</sup></strong>:10
-
-<strong><sup>14</sup></strong>:7
-
-<strong>Malach</strong>i <strong><sup>2</sup></strong>:10
-
-<strong>Matthew 5</strong>:4-6
-
-<strong>	5</strong>:13-14 + 16
-
-<strong>	6</strong>:33
-
-<strong><sup>11</sup></strong>:18-20
-
-[28 (-29-)]30
-
-<strong><sup>18</sup></strong>:1-6
-
-20
-
-<strong>Luke 2</strong>:10-11 (Christmas)
-
-<strong><sup>2</sup></strong>:13-14 (Christmas)
-
-<strong><sup>3</sup></strong>:4-6 [= Is. 40:3-5] Christmas
-
-(4:18)
-
-<strong>John 3</strong>:8
-
-<strong><sup>3</sup></strong>:16
-
-<strong><sup>4</sup></strong>:10 (parts)
-
-24 + <sup>23</sup>b
-
-<strong><sup>8</sup></strong>:12
-
-31-32
-
-<strong><sup>11</sup></strong>:25-26 (Easter)
-
-<strong><sup>12</sup></strong>:35-36
-
-<strong><sup>14</sup></strong>:23
-
-<strong><sup>15</sup></strong>:4 + 8
-
-<strong>Acts</strong> (<strong><sup>1</sup></strong>:8)
-
-<strong><sup>13</sup></strong>:38-39
-
-14:17
-
-<strong>	17</strong>:24a + 26-28
-
-<strong>Romans 1</strong>:16-17
-
-<strong><sup>5</sup></strong>:8
-
-<strong><sup>6</sup></strong>:4
-
-<strong>	8</strong>:38-39
-
-<strong><sup>11</sup></strong>:33-36
-
-<strong>	12</strong>:1-2
-
-4-5
-
-10
-
-<strong>1 Corinthians 8</strong>:5-6
-
-<strong><sup>10</sup></strong>:16-17
-
-<strong>2 Corinthians 4</strong>:6
-
-<strong><sup>6</sup></strong>:17-18
-
-<strong>Galatians 5</strong>:25
-
-<strong>	6</strong>:7-8
-
-<strong>Ephesians 2</strong>:(5-)10(-11)
-
-<strong>	3</strong>:17-19
-
-<strong><sup>4</sup></strong>:4-6
-
-<strong><sup>5</sup></strong>:8
-
-<strong><sup>6</sup></strong>:10-18
-
-<strong>Philippians 2</strong>:5-11
-
-<strong>1 Timothy 1</strong>:17
-
-<strong><sup>6</sup></strong>:15-16
-
-<strong>2 Timothy</strong> <strong><sup>1</sup></strong>:12b
-
-<strong>Hebrews</strong> 1:1-4
-
-<strong><sup>4</sup></strong>:(14-)15-16
-
-<strong><sup>10</sup></strong>:22-24
-
-<strong><sup>12</sup></strong>:1-2
-
-<strong>James 1</strong>:5-7
-
-4:8 + 10 (modified)
-
-<strong>1 Peter</strong> <strong><sup>2</sup></strong>:9-10
-
-<strong><sup>4</sup></strong>:5 + 7
-
-<strong>1 John</strong> <strong><sup>1</sup></strong>:5 + 7(-9)
-
-<strong><sup>3</sup></strong>:1-3
-
-<strong><sup>4</sup></strong>:7
-
-<strong><sup>4</sup></strong>:9-10
-
-12-13
-
-<strong>Revelation 2</strong>:7
-
-<strong><sup>4</sup></strong>:8b
-
-<strong><sup>4</sup></strong>:11
-
-<strong><sup>5</sup></strong>:12
-
-<strong><sup>14</sup></strong>:7
-
-<strong><sup>15</sup></strong>:3-4
-
-12 (the cross)
-
-<strong><sup>19</sup></strong>:6b
-
-<strong><sup>22</sup></strong>:14 + 17
-
-
-Sometimes texts can be adjusted to serve better as calls to worship. The sequence of verses may be reversed to make better thought connections. Verses or parts of verses may be omitted to avoid digressions relative to present needs. Introductory words (conjunctions) may be omitted. Verb tenses may be shifted to present tense to identify the message with the current setting.
+<style>
+/* Font Definitions */
+ @font-face
+	{font-family:"Tms Rmn";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:Helv;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+ /* Style Definitions */
+ .word-content p.MsoNormal, .word-content li.MsoNormal, 
+p.MsoHeader, li.MsoHeader, 
+span.HeaderChar
+	{mso-style-name:"Header Char";
+	mso-style-link:Header;
+	font-family:"Times New Roman",serif;
+	color:black;}
+.word-content .MsoChpDefault
+	{font-family:"Tms Rmn",serif;}
+ /* Page Definitions */
+</style>
+
+<div class="word-content">
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
+margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><b><span
+style='font-size:14.0pt'>CALLS TO WORSHIP</span></b></p>
+
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
+margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><b><span
+style='font-size:12.0pt'>&nbsp;</span></b></p>
+
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
+margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><span
+style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>&nbsp;</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>         </span></b><span style='font-size:12.0pt'>Call
+to worship is a slot often used at the beginning of services designed to
+inspire awe, reverence, humility before God. Such services are more
+contemplative than celebrative, more vertically than horizontally oriented. The
+call to worship is a shorter scripture portion intended to focus attention of
+all participants and to prepare for a prayer of invocation. Other scripture
+readings may be longer in keeping with their purpose to inform, inspired,
+comfort and the like. The following texts are suggestions; there are may others
+that may be used for this purpose. The Book so Psalms is particularly useful as
+a resource for calls to worship. The texts below appear in vertical format so
+that notations can be made about subject matter, occasions when used, and the
+like.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>&nbsp;</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Genesis</span></b><span style='font-size:12.0pt'> <b>28</b>:16-17</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Deuteronomy 6</span></b><span style='font-size:12.0pt'>:4-7</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>12</b>:5</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>33</b>:27</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Joshua 3</span></b><span style='font-size:12.0pt'>:9</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>2 Samuel</span></b><span style='font-size:12.0pt'> <b>23</b>:3-4</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>1 Chronicles</span></b><span style='font-size:12.0pt'>
+<b>16</b>:29</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>2 Chronicles</span></b><span style='font-size:12.0pt'>
+<b>7</b>:14</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>16</b>:28-29</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Job 5</span></b><span style='font-size:12.0pt'>:8-10</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>22</b>:21 + 25-26</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Psalms</span></b><span style='font-size:12.0pt'> 1:1-3</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>2</b>:1-2</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>4</b>:5</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>5</b>:3, 7</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>8</b>:1, 3-5(-9)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>9</b>:1-2</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     (<b>19</b>:1-3, 14)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>22</b>:3-5</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>24</b>:1</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          3-5</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          7-8(-10)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>26</b>:8</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          7-12</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          12</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>27</b>:1-5</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          8</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          13-14</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>28</b>:6-8</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>29</b>:1-2</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>30</b>:4</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>31</b>:23-24</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>33</b>:12</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          20-22</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>34</b>:1-3</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          8</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          (11)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>36</b>:5-7</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>37</b>:4-5</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>42</b>:8</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>46</b>:10</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>48</b>:1-2</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>51</b>:15</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>55</b>:6-7</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          22</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>57</b>:7-9(11)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>62</b>:8</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>63</b>:1-2(-4)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>65</b>:1-2</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          4</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          11</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          13</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>66</b>:1-2(-4)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          8</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>67</b>:3-7</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>68</b>:4</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>69</b>:34-35</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>71</b>:1-5</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          23</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>72</b>:18-19</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>73</b>:25</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>75</b>:9</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>77</b>:11-15 (Memorial Day)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>78</b>:1</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          3-4</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>81</b>:1</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>     84</span></b><span style='font-size:12.0pt'>:1-2</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          4</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          10</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>85</b>:8-9(-12)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>86</b>:9</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>89</b>:1-2</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          15-17</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>90</b>:2</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>91</b>:1-2</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>92</b>:1-2</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>93</b>:2</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>95</b>:1-2</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          6-7a</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>96</b>:1-4a</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          6-9 or 9 + 6</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          (11-)12-13</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>97</b>:1-2</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>98</b>:1(-3)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          4(-6)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>99</b>:1-9</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>100 </b>(all or parts)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>102</b>:12</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>           24-27</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>103</b>:1-2(-5)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>           17-18</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>           21-22</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>104</b>:31-34(-35)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>     105</span></b><span style='font-size:12.0pt'>:1(-3)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>106</b>:1</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>107</b>:1(-2)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>           31-32</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>           43</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>111</b>:1-4</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>113</b>:1-2(-4)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>116</b>:1</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>           12-14</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>117</b></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>118</b>:8-9</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>           15</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>           19-20</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>           24</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>           26(-27)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>           29</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>119</b>:1-2(-4)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>           18</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>           27</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>           33-34</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>           105</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>121</b>:1-2</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>           6-8</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>126</b>:(1-)3</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>128</b>:1-2</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>133</b>:1</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>           3</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>134</b>:1-3</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>     135</span></b><span style='font-size:12.0pt'>:1-3</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>           14</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>     136</span></b><span style='font-size:12.0pt'>:1-3</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>     139</span></b><span style='font-size:12.0pt'>:7-10</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>141</b>:1-2</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>144</b>:12-15</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>145</b>:1-3</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>146</b>:1-2</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>           10</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>147</b>:1</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>           5</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>           7-8</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>           11-12</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>148</b>:1-2</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>           11-12</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>           13</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>149</b>:1</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>150</b>:1-2</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>           6</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>&nbsp;</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Proverbs</span></b><span style='font-size:12.0pt'> <b>3</b>:5-6</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>     16</span></b><span style='font-size:12.0pt'>:3</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          22a</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>22</b>:6</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>22</b>:17-18</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>23</b>:12</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          23</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Ecclesiastes</span></b><span style='font-size:12.0pt'>
+<b>12</b>:1</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Isaiah</span></b><span style='font-size:12.0pt'> <b>1</b>:18
+(forgiveness of sins)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>6</b>:3</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>9</b>:2</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>       6 (Christmas)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>11</b>:10 + 1-2</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>12</b>:4-5</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>25</b>:1</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          4-9</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>26</b>:3-4</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>30</b>:15</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>34</b>:16</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          46</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>35</b>:1-2</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>40</b>:3(-5) [= Lk. <b>3</b>:4-6]</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          8</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          31</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>41</b>:1a</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          10</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>49</b>:13</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     52:7 (Christmas)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>53</b>:5</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>55</b>:6-7(-9)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         (8-)10-11</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>57</b>:15</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>66</b>:12a + 13</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span lang=ES
+style='font-size:12.0pt'>Jeremiah 6</span></b><span lang=ES style='font-size:
+12.0pt'>:4b</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=ES
+style='font-size:12.0pt'>     <b>9</b>:23-24</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=ES
+style='font-size:12.0pt'>     <b>13</b>:15-16</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span lang=ES
+style='font-size:12.0pt'>Lamentations 3</span></b><span lang=ES
+style='font-size:12.0pt'>:22-24</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span lang=ES
+style='font-size:12.0pt'>Amos 5</span></b><span lang=ES style='font-size:12.0pt'>:14-15</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span lang=ES
+style='font-size:12.0pt'>Micah 6</span></b><span lang=ES style='font-size:12.0pt'>:8</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span lang=ES
+style='font-size:12.0pt'>Habakkuk</span></b><span lang=ES style='font-size:
+12.0pt'> <b>2</b>:20</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Zechariah</span></b><span style='font-size:12.0pt'> <b>2</b>:10</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>14</b>:7</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Malach</span></b><span style='font-size:12.0pt'>i </span><b><span
+style='font-size:12.0pt'>2</span></b><span style='font-size:12.0pt'>:10</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Matthew 5</span></b><span style='font-size:12.0pt'>:4-6</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>     5</span></b><span style='font-size:12.0pt'>:13-14
++ 16</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>     6</span></b><span style='font-size:12.0pt'>:33</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>11</b>:18-20</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          [28 (-29-)]30</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>18</b>:1-6</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          20</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Luke 2</span></b><span style='font-size:12.0pt'>:10-11
+(Christmas)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>2</b>:13-14 (Christmas)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>3</b>:4-6 [= Is. 40:3-5] Christmas</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     (4:18)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>John 3</span></b><span style='font-size:12.0pt'>:8</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>3</b>:16</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>4</b>:10 (parts)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>       24 + 23b</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>8</b>:12</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>       31-32</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>11</b>:25-26 (Easter)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>12</b>:35-36</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>14</b>:23</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>15</b>:4 + 8</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Acts</span></b><span style='font-size:12.0pt'> (<b>1</b>:8)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>13</b>:38-39</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     14:17</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>     17</span></b><span style='font-size:12.0pt'>:24a
++ 26-28</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Romans 1</span></b><span style='font-size:12.0pt'>:16-17</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>5</b>:8</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>6</b>:4</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>     8</span></b><span style='font-size:12.0pt'>:38-39</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>11</b>:33-36</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>     12</span></b><span style='font-size:12.0pt'>:1-2</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          4-5</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          10</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>1 Corinthians 8</span></b><span style='font-size:12.0pt'>:5-6</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>10</b>:16-17</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>2 Corinthians 4</span></b><span style='font-size:12.0pt'>:6</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>6</b>:17-18</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Galatians 5</span></b><span style='font-size:12.0pt'>:25</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>     6</span></b><span style='font-size:12.0pt'>:7-8</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Ephesians 2</span></b><span style='font-size:12.0pt'>:(5-)10(-11)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>     3</span></b><span style='font-size:12.0pt'>:17-19</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>4</b>:4-6</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>5</b>:8</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>6</b>:10-18</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Philippians 2</span></b><span style='font-size:12.0pt'>:5-11</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>1 Timothy 1</span></b><span style='font-size:12.0pt'>:17</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>6</b>:15-16</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>2 Timothy</span></b><span style='font-size:12.0pt'> <b>1</b>:12b</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Hebrews</span></b><span style='font-size:12.0pt'>
+1:1-4</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>4</b>:(14-)15-16</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>10</b>:22-24</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>12</b>:1-2</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>James 1</span></b><span style='font-size:12.0pt'>:5-7</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     4:8 + 10 (modified)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>1 Peter</span></b><span style='font-size:12.0pt'> <b>2</b>:9-10</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>4</b>:5 + 7</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt'><b><span style='font-size:12.0pt'>1
+John</span></b><span style='font-size:12.0pt'> <b>1</b>:5 + 7(-9)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>3</b>:1-3</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>4</b>:7</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>4</b>:9-10</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>       12-13</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Revelation 2</span></b><span style='font-size:12.0pt'>:7</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>4</b>:8b</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>4</b>:11</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>5</b>:12</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>14</b>:7</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>15</b>:3-4</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>          12 (the cross)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>19</b>:6b</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     <b>22</b>:14 + 17</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>         Sometimes texts can be adjusted to serve
+better as calls to worship. The sequence of verses may be reversed to make
+better thought connections. Verses or parts of verses may be omitted to avoid
+digressions relative to present needs. Introductory words (conjunctions) may be
+omitted. Verb tenses may be shifted to present tense to identify the message
+with the current setting.</span></p>
+</div>

@@ -11,78 +11,287 @@ title: "c. Irrationalism (improper thinking patterns)\t             Virgil Warre
 weight: 2
 ---
 
+<style>
+/* Font Definitions */
+ @font-face
+	{font-family:"Tms Rmn";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Chicago;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+ /* Style Definitions */
+ .word-content p.MsoNormal, .word-content li.MsoNormal, 
+p.MsoHeader, li.MsoHeader, 
+span.HeaderChar
+	{mso-style-name:"Header Char";
+	mso-style-link:Header;
+	font-family:"Times New Roman",serif;
+	color:black;}
+.word-content .MsoChpDefault
+	{font-family:"Tms Rmn",serif;}
+ /* Page Definitions */
+ 
 
-(1) Irrationalism occurs when feelings become the final frame of
+ /* List Definitions */
+ ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+</style>
 
-reference.
+<div class="word-content">
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                        c. Irrationalism (improper
+thinking patterns)                    Virgil Warren, PhD</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-Viewpoints based on feelings can come from confusing feelings with the work of the Spirit. People do not consider changing beliefs because they feel that the viewpoint they have must be right. There is danger in supposing that the sense (feeling) of certainty is a reason for certainty—that the Spirit places it directly in the mind. There is no more reason to assume that happens in regard to a feeling than a thought. In either case, if people cannot differentiate between something planted by the Spirit and their own thoughts and feelings, they should not consider it divine in origin.
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-99.0pt'><span
+style='font-size:12.0pt'>                                                               (1)
+Irrationalism occurs when <u>feelings</u> become the final frame of </span></p>
 
-Perhaps intuition belongs here under irrationalism based on feelings. It means grasping something without deliberately reasoning to. It is equivalent to impression, something again that people may identify with the Spirit because they cannot explain where it came from. The Holy Spirit gets confused with subjectivism, uninhibitedness, spontaneity, intuition.
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-99.0pt'><span
+style='font-size:12.0pt'>                                                                    
+reference.</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-(2) Irrationalism occurs when the laws of thought are misapplied—the
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                       Viewpoints
+based on feelings can come from confusing feelings with the work of the Spirit.
+People do not consider changing beliefs because they feel that the viewpoint
+they have must be right. There is danger in supposing that the sense (feeling)
+of certainty is a reason for certainty—that the Spirit places it directly in
+the mind. There is no more reason to assume that happens in regard to a feeling
+than a thought. In either case, if people cannot differentiate between something
+planted by the Spirit and their own thoughts and feelings, they should not consider
+it divine in origin.</span></p>
 
-laws of inductive and deductive logic.
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                       Perhaps <u>intuition</u>
+belongs here under irrationalism based on feelings. It means grasping something
+without deliberately reasoning to. It is equivalent to impression, something
+again that people may identify with the Spirit because they cannot explain where
+it came from. The Holy Spirit gets confused with subjectivism, uninhibitedness,
+spontaneity, intuition.</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-(a) Confusion between validity and truth
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                              (2) Irrationalism occurs
+when the <u>laws of thought</u> are misapplied—the </span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                       laws of
+inductive and deductive logic.</span></p>
 
-Validity means proper reasoning pattern; truth means
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-corresponding with reality.
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                       (a) Confusion
+between validity and truth</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-(b) Confusion between primary proof and confirmatory evidence
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                                Validity
+means proper reasoning pattern; truth means </span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                                corresponding
+with reality.</span></p>
 
-Confirmatory evidence is useful for [1] limiting the range of possible views when primary evidence is not available; for [2] increasing confidence in the primary evidence; for [3] creating cumulative effect, where arguments and data are individually indecisive but become compelling in the aggregate (relative certainty, greater likelihood than known alternatives, opinion). As a matter of fact, much of what people believe is based on relative likelihood rather than on absolute certainty.
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                                             (b) Confusion
+between primary proof and confirmatory evidence</span></p>
 
-(c) Confusion between describing and proving
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:153.0pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-(d) Confusion between consistency and circular reasoning
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                                Confirmatory
+evidence is useful for [1] limiting the range of possible views when primary
+evidence is not available; for [2] increasing confidence in the primary evidence;
+for [3] creating cumulative effect, where arguments and data are individually
+indecisive but become compelling in the aggregate (relative certainty, greater
+likelihood than known alternatives, opinion). As a matter of fact, much of what
+people believe is based on relative likelihood rather than on absolute
+certainty.</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:99.0pt'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-“Circular reasoning” results from arguing on the principle of consistency as if it were deductive-inductive reasoning. “Correlation” differs from circular reasoning in that the two items stand or fall together because of more fundamental facts. The existence of the church correlates with the resurrection of Jesus. It is not circular reasoning to argue from the one to the other in the sense of consistency. In this case, since we know one correlate is true—the existence of the church, it argues for the reality of the other—resurrection. The only loophole would be if the first disciples could have “thought” Jesus resurrected when he did not—mistaken identity in the appearances, stolen body, mistaken tomb. The likelihood of these possibilities people need to decide for themselves in light of other Christian evidences.
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                       (c) Confusion
+between describing and proving</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                       (d) Confusion
+between consistency and circular reasoning</span></p>
 
-(e) All examples of formal and informal fallacies
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                                “Circular
+reasoning” results from arguing on the principle of consistency as if it were
+deductive-inductive reasoning. “Correlation” differs from circular reasoning in
+that the two items stand or fall together because of more fundamental facts. The
+existence of the church correlates with the resurrection of Jesus. It is not
+circular reasoning to argue from the one to the other in the sense of consistency.
+In this case, since we know one correlate is true—the existence of the church,
+it argues for the reality of the other—resurrection. The only loophole would be
+if the first disciples could have “thought” Jesus resurrected when he did not—mistaken
+identity in the appearances, stolen body, mistaken tomb. The likelihood of
+these possibilities people need to decide for themselves in light of other
+Christian evidences.</span></p>
 
-(3) Irrationalism occurs when people espouse mistaken notions about
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-the nature of language.
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                       (e) All
+examples of formal and informal fallacies</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-Interpretation is more than logic. It includes the nature of things
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-99.0pt'><span
+style='font-size:12.0pt'>                                                               (3)
+Irrationalism occurs when people espouse mistaken notions about </span></p>
 
-and the nature of language.
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-99.0pt'><span
+style='font-size:12.0pt'>                                                                        <u>the
+nature of language</u>.</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-(a)  Confusing reality with words
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                       Interpretation
+is more than logic. It includes the nature of things </span></p>
 
-(b)  Supposing that different words equal different things
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                       and the nature
+of language. </span></p>
 
-(c)  Supposing that the same word always means the same thing
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                       (a)  Confusing
+reality with words</span></p>
 
-(4) Irrationalism occurs when people misunderstand divine sovereignty and invoke it against the need for divine self-consistency. (cp. <em>What the Bible Says About Salvation</em>, p. 465.)
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                       (b)  Supposing
+that different words equal different things</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                       (c)  Supposing
+that the same word always means the same thing</span></p>
 
-People may say, <em>“I just read the text to you; I did not interpret it.” </em>The very fact that they read it in the discussion implies that it applies to that discussion.
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-For examples of “parity of reason” and consistency, see <em>What the Bible Says About Salvation</em>, pp. 306, 315.
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                              (4) Irrationalism occurs
+when people misunderstand <u>divine sovereignty</u> and invoke it against the
+need for divine self-consistency. (cp. <i>What the Bible Says About Salvation</i>,
+p. 465.)</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-d. Not caring about the issue. When people see no use for a concept, they
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                              People may say, <i>“I
+just read the text to you; I did not interpret it.” </i>The very fact that they
+read it in the discussion implies that it applies to that discussion.</span></p>
 
-discount it.
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                     </span><span style='font-size:
+12.0pt;color:#7030A0'>         For examples of “parity of reason” and
+consistency, see <i>What the Bible Says About Salvation</i>, pp. 306, 315.</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-9. Distinction between understanding and belief (corresponds with the distinction between describing and proving on the presenter’s side)
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                        d. Not caring about the issue.
+When people see no use for a concept, they </span></p>
 
-christir.org
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                              discount it.</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  9. Distinction between understanding
+and belief (corresponds with the distinction between describing and proving on
+the presenter’s side)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                                                                                                  </span><span
+style='font-size:11.0pt'>                   christir.org</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      </span></p>
+</div>

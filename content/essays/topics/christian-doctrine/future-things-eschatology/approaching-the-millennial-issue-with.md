@@ -10,74 +10,451 @@ title: APPROACHING THE MILLENNIAL ISSUE WITH
 weight: 3
 ---
 
-<strong>MINISTRY IN MIND</strong>
+<style>
+/* Font Definitions */
+ @font-face
+	{font-family:"Tms Rmn";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:Helv;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+ /* Style Definitions */
+ .word-content p.MsoNormal, .word-content li.MsoNormal, 
+p.MsoHeader, li.MsoHeader, 
+span.HeaderChar
+	{mso-style-name:"Header Char";
+	mso-style-link:Header;
+	font-family:"Times New Roman",serif;
+	color:black;}
+.word-content .MsoChpDefault
+	{font-family:"Tms Rmn",serif;}
+ /* Page Definitions */
+</style>
 
+<div class="word-content">
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
+line-height:18.0pt'><b><span style='font-size:14.0pt'>APPROACHING THE
+MILLENNIAL ISSUE WITH </span></b></p>
 
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
+line-height:18.0pt'><b><span style='font-size:14.0pt'>MINISTRY IN MIND</span></b></p>
 
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
+line-height:18.0pt'><b><span style='font-size:12.0pt'>&nbsp;</span></b></p>
 
-Regarding end times, we can learn a lesson from Jewish religious leaders of Jesus’ day. They had so exactly worked out their understanding of Messianic prophecy that they did not recognize the Messiah when he came. We will not be that wrong this time. We will recognize him, because his return will not be a local, private entrance into the human sphere (Matthew <strong><sup>24</sup></strong>:23-27). Nevertheless, we need to hold tentatively to our expectations about the timing of that event, about its relationship to other future events, and about the very nature of some related events.
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
+line-height:18.0pt'><span style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
 
-The nature of the millennium and the millennial reign of Revelation <strong><sup>20</sup></strong> is a prime example of that last point. Christians have long differed over whether that reign is a political one on earth that will last—perhaps approximately—a thousand years, or whether “kingdom” and “thousand years” figuratively refer to the church and its lengthy existence, the reign being in heaven. The second option, “amillennialism,” finds no distinct period of time or manner of divine operation in the world aside from the church commissioned in Matthew <strong>28 </strong>and established in Acts <strong><sup>2</sup></strong>.
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
+line-height:18.0pt'><b><span style='font-size:12.0pt'>&nbsp;</span></b></p>
 
-The first option has several variants according to the kingdom’s chronological relationship to Christ’s return. “Postmillennialism” says that his coming follows the millennium. It is a “golden age” ushered in by mankind’s positive response to Christian proclamation. Postmillennialism envisions a process in which human affairs improve until the millennial kingdom comes in through the power of truth and influence.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-“Premillennialism” pictures an opposite scenario in which world conditions worsen until Christ comes to accomplish by force what influence alone did not do. In addition, some formulations of this schematic have the millennium preceded by a “tribulation,” a seven-year period of intense evil. In connection with that era, Christ’s followers take part in a “rapture,” which removes them from the world before, during, or after during the tribulation. The Lord himself establishes the long-awaited kingdom and rules a thousand years, on earth, in Jerusalem, over a kingdom that replaces the kingdoms of this world.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>                  Regarding end times,
+we can learn a lesson from Jewish religious leaders of Jesus’ day. They had so
+exactly worked out their understanding of Messianic prophecy that they did not
+recognize the Messiah when he came. We will not be <u>that</u> wrong this time.
+We will recognize him, because his return will not be a local, private entrance
+into the human sphere (Matthew <b>24</b>:23-27). Nevertheless, we need to hold tentatively
+to our expectations about the timing of that event, about its relationship to
+other future events, and about the very nature of some related events. </span></p>
 
-The question arises as to which of these formats the history of God’s work on earth will follow. We wonder why equally devout Christians have such divergent understandings if scripture presents a reasonably clear picture of these events. The differences are surely not due to differing commitments to the truth and authority of the Bible or to differing intelligence of interpreters. More likely, the variations reflect differing assumptions about the way human language operates in the Bible, varying circumstances in which Christians do their interpreting, and personality differences that affect expectations about the nature of truth itself. Such differences come from hermeneutics, environment, and personality.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>                  The nature of the
+millennium and the millennial reign of Revelation <b>20</b> is a prime example
+of that last point. Christians have long differed over whether that reign is a
+political one on earth that will last—perhaps approximately—a thousand years,
+or whether “kingdom” and “thousand years” figuratively refer to the church and
+its lengthy existence, the reign being in heaven. The second option, “amillennialism,”
+finds no distinct period of time or manner of divine operation in the world
+aside from the church commissioned in Matthew <b>28 </b>and established in Acts
+<b>2</b>. </span></p>
 
-As to the impact of environment on this topic, it is instructive to note that amillennialism flourished when there was widespread union of church and state, from about the time of Augustine onward. Church-state union fosters satisfaction with the <em>status quo</em> and does not encourage looking for something better because the church and God’s people already enjoy a favored status. Postmillennialism flourished in the nineteenth century, a period of apparent progress and relative peace on a worldwide scale. Optimism about humanity and the future fits with an improving world situation that eventuates in the millennium. With the coming of World War I, the rise of Communism, the Great Depression in America, World War II, the Korean conflict, Vietnam, militant Islam, the Gulf War, <em>etc.</em>, postmillennialism has fallen out of favor. In this same time frame, premillennialism has become increasingly popular, presumably because a deteriorating world climate corresponds with the expected pattern before Christ’s return. In interpreting passages related to the millennium, Christians risk having their expectancies influenced by their world conditions. That same phenomenon is what crystallized the Jews’ anticipation of a political Messianic figure; they yearned for relief from foreign domination by a pagan power.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>                  The first option has
+several variants according to the kingdom’s chronological relationship to
+Christ’s return. “Postmillennialism” says that his coming follows the
+millennium. It is a “golden age” ushered in by mankind’s positive response to
+Christian proclamation. Postmillennialism envisions a process in which human
+affairs improve until the millennial kingdom comes in through the power of
+truth and influence.</span></p>
 
-Each of us must decide how to deal with the millennial question. From a practical standpoint the best course of action seems to be as follows: tentatively take an amillennial position, fulfill the responsibilities assigned to us in the church age, and wait to see whether something comes that is more tangible than the present “spiritual” kingdom. If God inaugurates something more, well and good; if not, nothing is lost. Since revelation is unclear, it is unwise to deny what God will do in the future; it is also unwise to affirm more than his revelation clearly teaches. Several considerations commend this course of action.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>                  “Premillennialism”
+pictures an opposite scenario in which world conditions worsen until Christ
+comes to accomplish by <u>force</u> what <u>influence</u> alone did not do. In
+addition, some formulations of this schematic have the millennium preceded by a
+“tribulation,” a seven-year period of intense evil. In connection with that
+era, Christ’s followers take part in a “rapture,” which removes them from the
+world before, during, or after during the tribulation. The Lord himself
+establishes the long-awaited kingdom and rules a thousand years, on earth, in
+Jerusalem, over a kingdom that replaces the kingdoms of this world.</span></p>
 
-(1) Amillennialism makes a lesser claim about the kingdom than the other views do. The church as a spiritual entity lies within the other views as well. Even in the Old Testament period when the kingdom did have a political component, the spiritual kingdom within it—spiritual Israel, the remnant—was the more important component (Romans <strong><sup>9</sup></strong>:6). Similarly, the church equals the “spiritual” component of any political kingdom Christ might establish later. Claiming less about future world events concentrates our ministries on Christ’s present spiritual reign, which is the important part anyway.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>                  The question arises as
+to which of these formats the history of God’s work on earth will follow. We
+wonder why equally devout Christians have such divergent understandings if scripture
+presents a reasonably clear picture of these events. The differences are surely
+not due to differing commitments to the truth and authority of the Bible or to
+differing intelligence of interpreters. More likely, the variations reflect
+differing assumptions about the way human language operates in the Bible,
+varying circumstances in which Christians do their interpreting, and
+personality differences that affect expectations about the nature of truth
+itself. Such differences come from hermeneutics, environment, and personality.</span></p>
 
-(2) How we live and what we do in the meantime are the same under all three formats. Sometimes premillennialists are accused of not trying adequately to work through social structures to alleviate social concerns, because they tend to see these structures as evil and therefore ineffective for correcting the social ills. Instead, proclaiming salvation to individuals is the only way to bring lasting improvement. But lack of social action need not follow from this millennial viewpoint.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>                  As to the impact of
+environment on this topic, it is instructive to note that <u>amillennialism</u>
+flourished when there was widespread union of church and state, from about the
+time of Augustine onward. Church-state union fosters satisfaction with the <i>status
+quo</i> and does not encourage looking for something better because the church
+and God’s people already enjoy a favored status. <u>Postmillennialism</u>
+flourished in the nineteenth century, a period of apparent progress and
+relative peace on a worldwide scale. Optimism about humanity and the future
+fits with an improving world situation that eventuates in the millennium. With
+the coming of World War I, the rise of Communism, the Great Depression in
+America, World War II, the Korean conflict, Vietnam, militant Islam, the Gulf
+War, <i>etc.</i>, postmillennialism has fallen out of favor. In this same time
+frame, <u>premillennialism</u> has become increasingly popular, presumably
+because a deteriorating world climate corresponds with the expected pattern before
+Christ’s return. In interpreting passages related to the millennium, Christians
+risk having their expectancies influenced by their world conditions. That same phenomenon
+is what crystallized the Jews’ anticipation of a political Messianic figure;
+they yearned for relief from foreign domination by a pagan power. </span></p>
 
-Postmillennialists are sometimes accused of thinking that they can bring in the kingdom by their own effort through social and political means, which in the extreme could degenerate into the social gospel and liberationist theology. But again, such extremes need not represent the mentality or <em>modus operandi</em>. How we understand the millennial kingdom could affect Middle Eastern foreign policy, because dispensational premillennialism tends to connect events in that area with the favored status of Israel in God’s long-range plan. Our personal living, relationships, and ministry of edification and outreach proceed unaffected.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>                  Each of us must decide
+how to deal with the millennial question. From a practical standpoint the best
+course of action seems to be as follows: <u>tentatively take an amillennial
+position, fulfill the responsibilities assigned to us in the church age, and
+wait to see whether something comes that is more tangible than the present “spiritual”
+kingdom</u>. If God inaugurates something more, well and good; if not, nothing
+is lost. Since revelation is unclear, it is unwise to <u>deny</u> what <u>God</u>
+will do in the <u>future</u>; it is also unwise to affirm more than his
+revelation clearly teaches. Several considerations commend this course of
+action.</span></p>
 
-(3) A “wait-and-see” approach encourages Christian unity. So many inescapable controversies divide us and divert our energy, time, and resources away from Christian life and mission. They are inescapable because they deal with acts to perform. But in the interests of unity we can put on hold our take on eschatological events that do not affect present “doing” as long as we affirm in principle the truthfulness of what scripture means where we do not understand it completely. Adopting a broader platform means, so to speak, that more people can stand on it. We can more easily present a united testimony to people who do not even understand that Christ came the first time.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>                  (1) <u>Amillennialism
+makes a lesser claim</u> about the kingdom than the other views do. The church
+as a spiritual entity lies within the other views as well. Even in the Old
+Testament period when the kingdom did have a political component, the spiritual
+kingdom within it—spiritual Israel, the remnant—was the more important
+component (Romans <b>9</b>:6). Similarly, the church equals the “spiritual”
+component of any political kingdom Christ might establish later. Claiming less
+about future world events concentrates our ministries on Christ’s present
+spiritual reign, which is the important part anyway.</span></p>
 
-(4) The purpose of prophecy is to create hope for the triumph of good over evil, not to write history ahead of time. Being assured of future triumph gives us sufficient encouragement to persevere in the face of present adversity even when visible indicators bode failure for what we espouse. Jesus told his disciples they did not need to know the times and seasons the Father keeps within his own authority (Acts <strong><sup>1</sup></strong>:7). The time of his return the Lord himself did not know during his incarnation (Matthew <strong><sup>24</sup></strong>:36). When things will happen or exactly how they will take place is not necessary for faithfully fulfilling present responsibilities. What matters is that the outcome is not in doubt. The clear things Christians confess together include the personal, visible, unpredictable return of Christ for his people worldwide; the resurrection of the dead; judgment to come; and the final, permanent separation of good from evil. More than these things are not necessary for strengthening and extending the reign of Christ now.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>                  (2) <u>How we live and
+what we do in the meantime are the same under all three formats</u>. Sometimes
+premillennialists are accused of not trying adequately to work through social
+structures to alleviate social concerns, because they tend to see these
+structures as evil and therefore ineffective for correcting the social ills. Instead,
+proclaiming salvation to individuals is the only way to bring lasting
+improvement. But lack of social action need not follow from this millennial
+viewpoint.                                                          </span></p>
 
-(5) Neither Jesus nor his disciples conformed to first-century expectations for a national kingdom. So, for the time being it is sensible to make minimum affirmation about events beyond the church era. The essential issue is whether Old Testament predictions of the Messianic kingdom were meant to be literal or analogous. Jesus’ main controversy with the Pharisees came from his refusal to identify with their anticipations of a national kingdom. Paul’s conflicts with the Judaizing teachers were also caused by his refusal to present the Messianic kingdom as part of political Israel. Arguing for such a kingdom in the end times may amount to just one more attempt to satisfy our “hankering” after a political expression of the kingdom of God. In the New Testament, all Old Testament predictions of the kingdom are treated as fulfilled in what Jesus established on Pentecost. So, in what God has said and done so far through Christ, there is no basis for expecting anything more about the kingdom than what God has already set up. Toward that endeavor we direct our ministries wholeheartedly.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>                  Postmillennialists are
+sometimes accused of thinking that they can bring in the kingdom by their own
+effort through social and political means, which in the extreme could
+degenerate into the social gospel and liberationist theology. But again, such
+extremes need not represent the mentality or <i>modus operandi</i>. How we
+understand the millennial kingdom could affect Middle Eastern foreign policy,
+because dispensational premillennialism tends to connect events in that area
+with the favored status of Israel in God’s long-range plan. Our personal
+living, relationships, and ministry of edification and outreach proceed
+unaffected.</span></p>
 
-We can imagine that a spiritual phase of the kingdom would precede its political dimension either because God intended to inaugurate the whole thing in two phases or because he postponed the second phase when the Jews rejected his Son at his first coming. Nevertheless, Paul argues that (Galatians <strong><sup>3</sup></strong>:15-25) even the Mosaic Law and national Israel were secondary elements in God’s operation as shown by the fact that they came later than promise (an interpersonal kind of thing). Grace-faith preceded law-nation; interpersonal preceded legal; spiritual preceded physical. So, the former is more basic than the latter. The Old Testament system was a “parable” (Hebrews <strong><sup>9</sup></strong>:9) and shadow (Hebrews<strong> 10</strong>:1) of later realities. It was not the same kind of thing, but a preceding material analogy to a subsequent spiritual reality.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>                  (3) <u>A “wait-and-see”
+approach encourages Christian unity</u>. So many inescapable controversies divide
+us and divert our energy, time, and resources away from Christian life and
+mission. They are inescapable because they deal with acts to perform. But in
+the interests of unity we can put on hold our take on eschatological events
+that do not affect present “doing” as long as we affirm in principle the
+truthfulness of what scripture means where we do not understand it completely. Adopting
+a broader platform means, so to speak, that more people can stand on it. We can
+more easily present a united testimony to people who do not even understand
+that Christ came the first time.</span></p>
 
-When the perfect has come, the imperfect is removed (1 Corinthians <strong><sup>13</sup></strong>:10; Hebrews <strong><sup>7</sup></strong>:18). When the former is taken away, it is not reinstated (Hebrews <strong><sup>7</sup></strong>:18-19; <strong><sup>8</sup></strong>:13; <em>etc</em>.). The Mosaic Law (Jeremiah <strong><sup>31</sup></strong>:31-34; Hebrews <strong>8-10</strong>), its priesthood (Psalm <strong><sup>110</sup></strong>:4; Hebrews <strong>5-7</strong>), its basis for salvation (Psalm <strong><sup>40</sup></strong>:6-8; Hebrews <strong><sup>10</sup></strong>), its temple—in short, the whole system—was secondary, not final. Messiah’s work having begun in spirit-interpersonalism-grace/faith, we need not expect a return to flesh-law-nation (Galatians<strong> 3</strong>:3) to have God’s ideal situation. Circumcision and Israelite citizenship are not antithetical to grace-faith (Romans<strong> 3</strong>:31), but they are not necessary to it either. The supremacy and finality of the spiritual does not disprove the possibility of an earthly kingdom; it does remove the material aspect as a positive expectancy in principle. The lack of a positive basis for expectancy must be supplied by clearer predictions than those we seem to have in either testament.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>                  (4) <u>The purpose of
+prophecy is to create hope for the triumph of good over evil</u>, not to write
+history ahead of time. Being assured of future triumph gives us sufficient
+encouragement to persevere in the face of present adversity even when visible
+indicators bode failure for what we espouse. Jesus told his disciples they did
+not need to know the times and seasons the Father keeps within his own
+authority (Acts <b>1</b>:7). The time of his return the Lord himself did not know
+during his incarnation (Matthew <b>24</b>:36). <u>When</u> things will happen
+or exactly <u>how</u> they will take place is not necessary for faithfully
+fulfilling present responsibilities. What matters is that the outcome is not in
+doubt. The clear things Christians confess together include the personal,
+visible, unpredictable return of Christ for his people worldwide; the
+resurrection of the dead; judgment to come; and the final, permanent separation
+of good from evil. More than these things are not necessary for strengthening
+and extending the reign of Christ now.</span></p>
 
-This line of thought derives from the fact that there can be only one universal eternal kingdom like the one anticipated in Psalm <strong><sup>89</sup></strong>; Daniel <strong><sup>2</sup></strong>:34-35 + 42; <strong><sup>7</sup></strong>:13-14; (cp. Isaiah <strong><sup>9</sup></strong>:7). There could be several parallel eternal kingdoms and several sequential universal kingdoms, but there can be only one universal eternal kingdom of a given sort. So, all Old Testament prophecies about a future kingdom refer to the same kingdom, Messiah’s kingdom; and Messiah has only one kingdom, the one that the New Testament says he has already established. A return to what includes a political, fleshly, national, legal, material kingdom after faith-grace has come does not have to happen to satisfy Old Testament prophecy in its intended sense. Such a kingdom would seem to be a second kingdom, one nearly as different from the church as Israel was.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>                  (5) <u>Neither Jesus
+nor his disciples conformed to first-century expectations for a national
+kingdom</u>. So, for the time being it is sensible to make minimum affirmation
+about events beyond the church era. The essential issue is whether Old
+Testament predictions of the Messianic kingdom were meant to be literal or
+analogous. Jesus’ main controversy with the Pharisees came from his refusal to
+identify with their anticipations of a national kingdom. Paul’s conflicts with
+the Judaizing teachers were also caused by his refusal to present the Messianic
+kingdom as part of political Israel. Arguing for such a kingdom in the end
+times may amount to just one more attempt to satisfy our “hankering” after a
+political expression of the kingdom of God. In the New Testament, all Old
+Testament predictions of the kingdom are treated as fulfilled in what Jesus
+established on Pentecost. So, in what God has said and done so far through
+Christ, there is no basis for expecting anything more about the kingdom than
+what God has already set up. Toward that endeavor we direct our ministries
+wholeheartedly.</span></p>
 
-A common belief is that at his first coming Jesus would have established a church-state kingdom if the Jews had accepted him. Since they did not, he instituted only its spiritual component on an interim basis, making the church a “parenthesis” in the long-term scheme. A major observation excludes such an idea: the Jews rejected Jesus precisely because he did not offer them a political kingdom. The interpersonal nature of his heavenly kingdom presented the stumbling block for them during his ministry. Many of their specific objections to his Messianic claims were facets of this one general difficulty. He even said that his kingdom was not of this world; it was not one that could be established the way this world’s kingdoms are established—by military force (John <strong><sup>18</sup></strong>:36). <strong>To suppose that he would have initiated a church-state system had the Jews accepted him, forgets that they failed to accept him because he refused to do that very thing.</strong> This consideration looks away from distinguishing the millennial kingdom from the church.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>                  We can imagine that a
+spiritual phase of the kingdom would precede its political dimension either
+because God intended to inaugurate the whole thing in two phases or because he
+postponed the second phase when the Jews rejected his Son at his first coming. Nevertheless,
+Paul argues that (Galatians <b>3</b>:15-25) even the Mosaic Law and national
+Israel were secondary elements in God’s operation as shown by the fact that
+they came later than promise (an interpersonal kind of thing). Grace-faith
+preceded law-nation; interpersonal preceded legal; spiritual preceded physical.
+So, the former is more basic than the latter. The Old Testament system was a “parable”
+(Hebrews <b>9</b>:9) and shadow (Hebrews<b> 10</b>:1) of later realities. It
+was not the same kind of thing, but a preceding material analogy to a
+subsequent spiritual reality. </span></p>
 
-A wait-and-see approach frees us to acknowledge five elements in Revelation <strong><sup>20</sup></strong> that may tell against it. First, (1) Satan is said to be bound during the millennium (<strong><u><sup>20</sup></u></strong>:3, 7), which precedes his final overthrow and judgment (<strong><sup>20</sup></strong>:10). If the millennium equals the church age, he is bound now. Since extreme evil still exists in the world, we wonder what it would mean for him not to be bound.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>                  When the perfect has
+come, the imperfect is removed (1 Corinthians <b>13</b>:10; Hebrews <b>7</b>:18).
+When the former is taken away, it is not reinstated (Hebrews <b>7</b>:18-19; <b>8</b>:13;
+<i>etc</i>.). The Mosaic Law (Jeremiah <b>31</b>:31-34; Hebrews <b>8-10</b>),
+its priesthood (Psalm <b>110</b>:4; Hebrews <b>5-7</b>), its basis for
+salvation (Psalm <b>40</b>:6-8; Hebrews <b>10</b>), its temple—in short, the
+whole system—was secondary, not final. Messiah’s work having begun in
+spirit-interpersonalism-grace/faith, we need not expect a return to
+flesh-law-nation (Galatians<b> 3</b>:3) to have God’s ideal situation. Circumcision
+and Israelite citizenship are not antithetical to grace-faith (Romans<b> 3</b>:31),
+but they are not necessary to it either. The supremacy and finality of the
+spiritual does not <u>disprove</u> the possibility of an earthly kingdom; it
+does remove the material aspect as a positive expectancy in principle. The lack
+of a positive basis for expectancy must be supplied by clearer predictions than
+those we seem to have in either testament. </span></p>
 
-One possibility is that (a) in principle Satan has been bound by the work of Christ. His doom is sealed by the cross and resurrection. In other words, Satan is potentially bound now. That potential is realized and individualized as people accept the gospel. The emphasis here is on salvation from the power of sin, that is, from consequences that reconciliation can reverse. The binding-loosing imagery in Matthew <strong><sup>16</sup></strong>:19; <strong><sup>18</sup></strong>:18 may refer to proclamation and the binding or loosing of sins in consequence of that proclamation. If binding-loosing amounts to locking-unlocking, other passages come into view as well (Revelation <strong><sup>1</sup></strong>:8; <strong><sup>3</sup></strong>:7; <strong><sup>9</sup></strong>:14; cp. Job <strong><sup>12</sup></strong>:14; Isaiah<strong> 22</strong>:22). The gospel, however, is not bound (2 Timothy <strong><sup>2</sup></strong>:9; cp. Luke <strong><sup>10</sup></strong>:17). In effect Satan is as good as vanquished. His binding, potential for all, is actualized in individuals who believe.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>                  This line of thought derives
+from the fact that there can be only one universal eternal kingdom like the one
+anticipated in Psalm <b>89</b>; Daniel <b>2</b>:34-35 + 42; <b>7</b>:13-14;
+(cp. Isaiah <b>9</b>:7). There could be several parallel eternal kingdoms and
+several sequential universal kingdoms, but there can be only one universal
+eternal kingdom of a given sort. So, all Old Testament prophecies about a
+future kingdom refer to the same kingdom, Messiah’s kingdom; and Messiah has
+only one kingdom, the one that the New Testament says he has already
+established. A return to what includes a political, fleshly, national, legal,
+material kingdom after faith-grace has come does not have to happen to satisfy
+Old Testament prophecy in its intended sense. Such a kingdom would seem to be a
+second kingdom, one nearly as different from the church as Israel was. </span></p>
 
-A related option is that (b) demonic possession contrary to the will of the possessed can now be overcome by the power of Christ anywhere. Those who returned from the Mission of the Seventy rejoiced because even demons were subject to them in Jesus’ name. The Lord responded that he had seen Satan fall like a star from heaven (Luke <strong><sup>10</sup></strong>:17-18). Satan’s supernatural stranglehold on humanity was being broken by Messiah’s greater power. Demon possession is still possible during the church age, but exorcism through Christ is possible for people in any nation. Previously it may have been available only among the Jews as far as we know. The emphasis here is on deliverance from the power of Satan. While both suggestions are true in themselves, neither may correspond to what the binding of Satan means in Revelation <strong><sup>20</sup></strong>.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>                  A common belief is
+that at his first coming Jesus would have established a church-state kingdom if
+the Jews had accepted him. Since they did not, he instituted only its spiritual
+component on an interim basis, making the church a “parenthesis” in the
+long-term scheme. A major observation excludes such an idea: <u>the Jews
+rejected Jesus precisely because he did not offer them a political kingdom</u>.
+The interpersonal nature of his heavenly kingdom presented the stumbling block
+for them during his ministry. Many of their specific objections to his
+Messianic claims were facets of this one general difficulty. He even said that
+his kingdom was not of this world; it was not one that could be established the
+way this world’s kingdoms are established—by military force (John <b>18</b>:36).
+<b>To suppose that he would have initiated a church-state system had the Jews
+accepted him, forgets that they failed to accept him because he refused to do
+that very thing.</b> This consideration looks away from distinguishing the
+millennial kingdom from the church. </span></p>
 
-Not only is he bound during the millennium, but (2) Satan’s binding is something reversed temporarily after the millennium. If the binding of Satan refers to salvation available through Christ, the loosing of Satan would apparently imply a time when the gospel is not effective or available. That does not seem likely. If binding him refers to divine power to conquer demonic power, loosing him would indicate a brief time when Christ’s power would not be effective, available, or used for this purpose. Again, that does not seem likely. These two factors look away from individualizing and “potentializing” the binding of Satan.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>                  A wait-and-see
+approach frees us to acknowledge five elements in Revelation <b>20</b> that may
+tell against it. First, (1) <u>Satan is said to be bound during the millennium
+(<b>20</b>:3, 7)</u>, which precedes his final overthrow and judgment (<b>20</b>:10).
+If the millennium equals the church age, he is bound now. Since extreme evil
+still exists in the world, we wonder what it would mean for him not to be
+bound. </span></p>
 
-(3) During the thousand years Satan is not deceiving the nations. Satan is deceiving the nations now in some sense, in some respects, to some extent. We could say that in the gospel Satan’s deception is potentially broken because now there is a universal alternative to his influence. Previously, during the Jewish dispensation God allowed the other nations to walk in their own ways (Acts <strong><sup>14</sup></strong>:15-27; <strong><sup>17</sup></strong>:30). It goes without saying that the actual effectiveness of the gospel is conditioned on its availability and freewill acceptance, two provisos not addressed by the binding-loosing imagery because of limitations in the imagery itself. The “potential” approach, however, runs into difficulty again with the reversal of the binding. That would mean, not just the unavailability of the gospel later, but its ineffectiveness as well.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>                  One possibility is
+that (a) in principle Satan has been bound by the work of Christ. His doom is
+sealed by the cross and resurrection. In other words, Satan is potentially
+bound now. That potential is realized and individualized as people accept the
+gospel. The emphasis here is on salvation from <u>the power of sin</u>, that
+is, from consequences that reconciliation can reverse. The binding-loosing
+imagery in Matthew <b>16</b>:19; <b>18</b>:18 may refer to proclamation and the
+binding or loosing of sins in consequence of that proclamation. If
+binding-loosing amounts to locking-unlocking, other passages come into view as
+well (Revelation <b>1</b>:8; <b>3</b>:7; <b>9</b>:14; cp. Job <b>12</b>:14;
+Isaiah<b> 22</b>:22). The gospel, however, is not bound (2 Timothy <b>2</b>:9;
+cp. Luke <b>10</b>:17). In effect Satan is as good as vanquished. His binding, potential
+for all, is actualized in individuals who believe.</span></p>
 
-Perhaps the point is that Satan himself can no longer directly deceive. Evil influences and personnel—both human and demonic—already present in the first century God allows to play themselves out to whatever extent they can do so on their own. Satan himself cannot bring new factors into the situation. All the while, however, he is still the “god of this world” (2 Corinthians<strong> 4</strong>:4; cp. Ephesians<strong> 2</strong>:2; 1 John <strong><sup>4</sup></strong>:4; 5:19) even though he is “cast out” (John <strong><sup>12</sup></strong>:31) and judged (John <strong><sup>16</sup></strong>:11).  This last way of handling the binding and loosing of Satan is easiest to square with the aspects of the prediction.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>                  A related option is
+that (b) demonic possession contrary to the will of the possessed can now be
+overcome by the power of Christ anywhere. Those who returned from the Mission
+of the Seventy rejoiced because even demons were subject to them in Jesus’
+name. The Lord responded that he had seen Satan fall like a star from heaven
+(Luke <b>10</b>:17-18). Satan’s supernatural stranglehold on humanity was being
+broken by Messiah’s greater power. Demon possession is still possible during
+the church age, but exorcism through Christ is possible for people in any
+nation. Previously it may have been available only among the Jews as far as we
+know. The emphasis here is on deliverance from <u>the power of Satan</u>. While
+both suggestions are true in themselves, neither may correspond to what the
+binding of Satan means in Revelation <b>20</b>. </span></p>
 
-A fourth element of description is that (4) during the millennium previous martyrs live/come-to-life and reign with Christ, a situation defined as “the first resurrection” (<strong><sup>20</sup></strong>:5). The text does not say where the reigning takes place, but it occurs before “the rest of the dead” resurrect/live-again. Presumably this refers to the martyrs’ intermediate state while earth history is still going on, because at the end of this time there are people on earth for Satan to deceive when he is released. <em>“The rest of the dead”</em> could include everyone besides martyrs, that is, both the evil dead and the righteous dead who were not killed for their faith. Conceivably the unmartyred dead may not be excluded if the text simply intends to encourage people faced with the possibility of martyrdom. “Martyrs” could represent both a fact and a mentality—those who endured it and others who faced that prospect and would have died if necessary. Another picture of dead Christians during the intermediate state (Revelation<strong> 6</strong>:9-11) seems to use “martyrs” to stand for all the faithful, because they are told to rest till the other martyrs have fulfilled their course. During that time non-martyrs would be dying in the faith as well.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>                  Not only is he bound
+during the millennium, but (2) <u>Satan’s binding is something reversed
+temporarily after the millennium</u>. If the binding of Satan refers to <u>salvation</u>
+available through Christ, the loosing of Satan would apparently imply a time
+when the gospel is not effective or available. That does not seem likely. If
+binding him refers to divine <u>power</u> to conquer demonic power, loosing him
+would indicate a brief time when Christ’s power would not be effective,
+available, or used for this purpose. Again, that does not seem likely. These
+two factors look away from individualizing and “potentializing” the binding of
+Satan.</span></p>
 
-Since the church has existed for nearly two millennia, (5) “a thousand years” has to be taken figuratively in an amillennial format. One rationale for taking it to mean just a long time is that (a) the context in which “a thousand years” stands is highly figurative. If other elements are so figurative, this number may also be figurative. (b) Elsewhere in Revelation numbers do—or in all likelihood do—have figurative import: the twelve thousand from each of the twelve tribes, the seven spirits of God, and like examples.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>                  (3) <u>During the
+thousand years Satan is not deceiving the nations</u>. Satan <u>is</u>
+deceiving the nations now in some sense, in some respects, to some extent. We
+could say that in the gospel Satan’s deception is <u>potentially</u> broken
+because now there is a universal alternative to his influence. Previously,
+during the Jewish dispensation God allowed the other nations to walk in their
+own ways (Acts <b>14</b>:15-27; <b>17</b>:30). It goes without saying that the
+actual effectiveness of the gospel is conditioned on its availability and freewill
+acceptance, two provisos not addressed by the binding-loosing imagery because
+of limitations in the imagery itself. The “potential” approach, however, runs
+into difficulty again with the reversal of the binding. That would mean, not
+just the unavailability of the gospel later, but its ineffectiveness as well.</span></p>
 
-On a play-it-safe policy, we may suppose that during the church age Satan does not himself directly operate in the ongoing deception of the nations. Evil influences that originated with him and evil people who got their inspiration from him still carry out that work. But the gospel of Christ and the power of Christ are currently sufficient to protect anyone against the results of sin and the power of demons. In that practical sense, Satan is potentially bound for everyone and actually bound for Christians. In principle and in effect, Satan is as good as defeated because he is being defeated and will be completely and permanently defeated after he is allowed again to use his influence and power directly for a time. If there is a separate age, however, in which the devil’s bondage is greater than it is now, we will be perfectly free to rejoice over that fact when it happens.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>                  Perhaps the point is
+that Satan <u>himself</u> can no longer <u>directly</u> deceive. Evil
+influences and personnel—both human and demonic—already present in the first
+century God allows to play themselves out to whatever extent they can do so on
+their own. Satan himself cannot bring new factors into the situation. All the
+while, however, he is still the “god of this world” (2 Corinthians<b> 4</b>:4;
+cp. Ephesians<b> 2</b>:2; 1 John <b>4</b>:4; 5:19) even though he is “cast out”
+(John <b>12</b>:31) and judged (John <b>16</b>:11).  This last way of handling
+the binding and loosing of Satan is easiest to square with the aspects of the
+prediction.</span></p>
 
-But the important thing is not whether these suggestions answer the five difficulties in Revelation <strong><sup>20</sup></strong> that we can pose against our own proposal. The important thing is that on this subject we can afford to be wrong in this way. If amillennialism errs, it is not so much that it is wrong as that it is not right enough. Not only are its ideas about Revelation <strong>20 </strong>admittedly true—even if they are not the true ones the Revelator intended; they are included in the other, more elaborate millennial reconstructions.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>                  A fourth element of
+description is that (4) <u>during the millennium previous martyrs
+live/come-to-life and reign with Christ</u>, a situation defined as “the first
+resurrection” (<b>20</b>:5). The text does not say where the reigning takes
+place, but it occurs before “the rest of the dead” resurrect/live-again. Presumably
+this refers to the martyrs’ intermediate state while earth history is still
+going on, because at the end of this time there are people on earth for Satan
+to deceive when he is released. <i>“The rest of the dead”</i> could include
+everyone besides martyrs, that is, both the evil dead and the righteous dead
+who were not killed for their faith. Conceivably the unmartyred dead may not be
+excluded if the text simply intends to encourage people faced with the
+possibility of martyrdom. “Martyrs” could represent both a fact and a
+mentality—those who endured it and others who faced that prospect and would
+have died if necessary. Another picture of dead Christians during the
+intermediate state (Revelation<b> 6</b>:9-11) seems to use “martyrs” to stand
+for all the faithful, because they are told to rest till the other martyrs have
+fulfilled their course. During that time non-martyrs would be dying in the
+faith as well.</span></p>
 
-We can hold on to our view tentatively more than tenaciously because millennial views do not have necessary behavioral correlates. We do not have to “defend it to the death” nor disprove its alternatives. In interpretation generally, we do not have to be right about everything that in theory scripture does sufficiently reveal, but we need to be right about the ones that have import for life and service. Try as we might, there is no way to avoid facing some subjects head on, because we must decide what to do, and we have to decide what to do now. The only recourse to being wrong about those matters is the grace of forgiveness by him who acknowledges the integrity of the heart (cp. Psalm <strong><sup>19</sup></strong>:14). But on the millennial question, we do not have to depend even on that.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>                  Since the church has
+existed for nearly two millennia, (5) <u>“a thousand years” has to be taken
+figuratively in an amillennial format</u>. One rationale for taking it to mean just
+a long time is that (a) the context in which “a thousand years” stands is
+highly figurative. If other elements are so figurative, this number may also be
+figurative. (b) Elsewhere in Revelation numbers do—or in all likelihood do—have
+figurative import: the twelve thousand from each of the twelve tribes, the
+seven spirits of God, and like examples.</span></p>
 
-A provisional amillennial stance avoids the division that attempting to be more correct on this question seems inevitably to foment. All the while, people of all persuasions—including this one—still benefit from the principal purpose of all predictive prophecy: the confidence and hope that comes from knowing the triumph of good over evil, and confidence and hope that supplies sufficient motivation to remain faithful till we all can really see (2 Corinthians <strong><sup>5</sup></strong>:7). Meanwhile, we are <em>“thoroughly furnished for all good works.”</em>
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>                  On a play-it-safe
+policy, we may suppose that during the church age Satan does not himself
+directly operate in the ongoing deception of the nations. Evil influences that
+originated with him and evil people who got their inspiration from him still
+carry out that work. But the gospel of Christ and the power of Christ are
+currently sufficient to protect anyone against the results of sin and the power
+of demons. In that practical sense, Satan is potentially bound for everyone and
+actually bound for Christians. In principle and in effect, Satan is as good as
+defeated because he is being defeated and will be completely and permanently defeated
+after he is allowed again to use his influence and power directly for a time. If
+there is a separate age, however, in which the devil’s bondage is greater than
+it is now, we will be perfectly free to rejoice over that fact when it happens.</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>                  But the important
+thing is not whether these suggestions answer the five difficulties in
+Revelation <b>20</b> that we can pose against our own proposal. The important
+thing is that on this subject we can afford to be wrong in this way. If
+amillennialism errs, it is not so much that it is wrong as that it is not right
+enough. Not only are its ideas about Revelation <b>20 </b>admittedly true—even
+if they are not the true ones the Revelator intended; they are included in the
+other, more elaborate millennial reconstructions. </span></p>
 
-christir.org
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>                  We can hold on to our
+view tentatively more than tenaciously because millennial views do not have necessary
+behavioral correlates. We do not have to “defend it to the death” nor disprove its
+alternatives. In interpretation generally, we do not have to be right about
+everything that in theory scripture does sufficiently reveal, but we need to be
+right about the ones that have import for life and service. Try as we might,
+there is no way to avoid facing some subjects head on, because we must decide
+what to <u>do</u>, and we have to decide what to do <u>now</u>. The only
+recourse to being wrong about those matters is the grace of forgiveness by him
+who acknowledges the integrity of the heart (cp. Psalm <b>19</b>:14). But on
+the millennial question, we do not have to depend even on that.</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>                  A provisional
+amillennial stance avoids the division that attempting to be more correct on
+this question seems inevitably to foment. All the while, people of all
+persuasions—including this one—still benefit from the principal purpose of all
+predictive prophecy: the confidence and hope that comes from knowing the triumph
+of good over evil, and confidence and hope that supplies sufficient motivation
+to remain <u>faith</u>ful till we all can really <u>see</u> (2 Corinthians <b>5</b>:7).
+Meanwhile, we are <i>“thoroughly furnished for all good works.”</i></span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:11.0pt'>christir.org</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
+</div>

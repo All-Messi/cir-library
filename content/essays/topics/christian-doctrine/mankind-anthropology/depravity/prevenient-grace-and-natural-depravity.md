@@ -11,106 +11,508 @@ title: PREVENIENT GRACE AND NATURAL DEPRAVITY
 weight: 4
 ---
 
+<style>
+/* Font Definitions */
+ @font-face
+	{font-family:"Tms Rmn";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Chicago;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+ /* Style Definitions */
+ .word-content p.MsoNormal, .word-content li.MsoNormal, 
+p.MsoHeader, li.MsoHeader, 
+span.HeaderChar
+	{mso-style-name:"Header Char";
+	mso-style-link:Header;
+	font-family:"Times New Roman",serif;
+	color:black;}
+.word-content .MsoChpDefault
+	{font-family:"Tms Rmn",serif;}
+ /* Page Definitions */
+</style>
 
+<div class="word-content">
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
+style='font-size:14.0pt'>PREVENIENT GRACE AND NATURAL DEPRAVITY</span></b></p>
 
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
+style='font-size:12.0pt'>&nbsp;</span></b></p>
 
-We have set aside the doctrine of natural depravity because (a) natural depravity lacks adequate primary biblical evidence for it. (b) Natural depravity creates contradictions. One set of propositions summarizes an argument against natural depravity. Since God is self-consistent, the variable that explains the Great Dilemma must lie outside God. Since only God and we figure in salvation, that variable must lie in us. We must be capable of responding to God; otherwise, God would be choosing who is saved by choosing whom he enables to respond to him unto salvation while saying that he does not want anyone to perish (2 Peter <strong><sup>3</sup></strong>:9). As natural depravity in effect means divine self-contradiction, natural ability maintains divine self-consistency.
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
+style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
 
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-Depravity and Grace
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>            We have set aside the
+doctrine of natural depravity because (a) natural depravity lacks adequate
+primary biblical evidence for it. (b) Natural depravity creates contradictions.
+One set of propositions summarizes an argument against natural depravity. Since
+God is self-consistent, the variable that explains the Great Dilemma must lie
+outside God. Since only God and we figure in salvation, that variable must lie
+in us. We must be capable of responding to God; otherwise, God would be
+choosing who is saved by choosing whom he enables to respond to him unto
+salvation while saying that he does not want anyone to perish (2 Peter <b>3</b>:9).
+As natural depravity in effect means divine self-contradiction, natural ability
+maintains divine self-consistency.</span></p>
 
-A formal construct appears in all views of mankind in the process of restoration: depravity plus prevenient grace. The nature of the components, however, varies significantly from supralapsarianism on one extreme to Pelagianism on the other.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
+line-height:18.0pt'><span style='font-size:12.0pt'>Depravity and Grace</span></p>
 
-Depravity
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
+line-height:18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-In (a) supralapsarianism, (b) infralapsarianism, (c) Amyraldianism, and (d) classical Arminianism, depravity is a depravity in our nature that requires miraculous operation by God on the structures of human nature for both initial and persevering faith. (e) Semi-Pelagianism and (f) Pelagianism allow differing degrees of ability in us to take steps toward the Christian life. The former allows the ability to will the good as a first step, but not to fulfill it so that God picks up our first inclination to obey; the latter posits the ability to carry out to the doing as well.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>            A formal construct appears
+in all views of mankind in the process of restoration: depravity plus
+prevenient grace. The nature of the components, however, varies significantly
+from supralapsarianism on one extreme to Pelagianism on the other. </span></p>
 
-Distinguished according to what depravity affects, three variations occur: no ability to will or to do the good (a-d), ability to will but not to do good (e), and ability both to will and to do (f). Calvin and others have believed that if we can choose at all, it is only between relative evils, not between good and evil. The egocentrism in sinners’ perspective means that their choices are always tainted by sinful motive in some way.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-Distinguished according to the kind of depravity, there is natural depravity (a-e) and psychological depravity (f). In the last approach, Pelagius did affirm the drag of the flesh on the spirit and the co-operating grace of the Spirit of God, but he denied the Augustinian notion of natural depravity. The view we propose could be called Pelagian, but it is Pelagian only in respect to the nature of mankind, not in respect to salvation. Pelagius’ twofold error lay in the inference that (1) the theoretical possibility of sinlessness sometimes issues in practical reality. Such a conclusion does not fit the testimony of scripture about the history of all people and the necessity of salvation through Messiah for every one of us. The other half of his error was that (2) the possibility of behavioral development can result in categorical change. He assumed that the ability to grow implied the possibility of saving oneself. The degree matter supposedly in sanctification corresponded with the categorical matter in justification. Supposing that if we could respond to God, we could save ourselves, Augustine denied the antecedent to avoid the consequence, and Pelagius affirmed the consequence because he accepted the antecedent. We contend that the ability to respond and ability to save ourselves should not be tied together because salvation is an interpersonal process and the one sinned against is always the one that reconciles by being the one that forgives.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>Depravity</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>            In (a) supralapsarianism,
+(b) infralapsarianism, (c) Amyraldianism, and (d) classical Arminianism, <u>depravity</u>
+is a depravity in our nature that requires miraculous operation by God on the
+structures of human nature for both initial and persevering faith. (e)
+Semi-Pelagianism and (f) Pelagianism allow differing degrees of ability in us
+to take steps toward the Christian life. The former allows the ability to will
+the good as a first step, but not to fulfill it so that God picks up our first
+inclination to obey; the latter posits the ability to carry out to the doing as
+well. </span></p>
 
-Prevenient grace
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>            Distinguished according to <u>what
+depravity affects</u>, three variations occur: no ability to will or to do the
+good (a-d), ability to will but not to do good (e), and ability both to will
+and to do (f). Calvin and others have believed that if we can choose at all, it
+is only between relative evils, not between good and evil. The egocentrism in
+sinners’ perspective means that their choices are always tainted by sinful
+motive in some way.</span></p>
 
-Corresponding to the divergent concepts of depravity are divergent concepts of “prevenient grace,” a species of common grace that “comes before” salvation in common to all of us. In addition to other originating graces, natural depravity requires an enablement to respond to spiritual influence. Under natural depravity we are not able to respond to external, social stimuli.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>            Distinguished according to
+the <u>kind of depravity</u>, there is natural depravity (a-e) and psychological
+depravity (f). In the last approach, Pelagius did affirm the drag of the flesh
+on the spirit and the co-operating grace of the Spirit of God, but he denied
+the Augustinian notion of natural depravity. The view we propose could be
+called Pelagian, but it is Pelagian only in respect to the nature of mankind,
+not in respect to salvation. Pelagius’ twofold error lay in the inference that
+(1) the theoretical possibility of sinlessness sometimes issues in practical reality.
+Such a conclusion does not fit the testimony of scripture about the history of
+all people and the necessity of salvation through Messiah for every one of us. The
+other half of his error was that (2) the possibility of behavioral development
+can result in categorical change. He assumed that the ability to grow implied
+the possibility of saving oneself. The degree matter supposedly in
+sanctification corresponded with the categorical matter in justification. Supposing
+that if we could respond to God, we could save ourselves, Augustine denied the
+antecedent to avoid the consequence, and Pelagius affirmed the consequence
+because he accepted the antecedent. We contend that the ability to respond and
+ability to save ourselves should <u>not</u> be tied together because salvation
+is an interpersonal process and the one sinned against is always the one that
+reconciles by being the one that forgives.</span></p>
 
-As regards the resolution of the Great Dilemma, however, the crucial element is not necessarily the natural depravity that commands our immediate attention. Instead, it is the intended scope of the atonement. The Great Dilemma does not systematically require non-depravity, because grace could deliver all of us to the point of ability, and then we could respond or refuse.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-Since there could be a universal prevenient grace to deliver from a universal natural depravity, the intended scope of the atonement ends up being more elemental than depravity. The point of this study, however, is more specific than controverting the Calvinistic system of theology generally. Rather, it seeks to elaborate on a view of mankind. It may not be possible to disprove natural depravity directly because a hermeneutical impasse seems to exist on texts related to that topic. The crucial issue in Calvinism is what we have called “the Great Dilemma”: God’s desire to save all together with his decision to save some. Augustine and Calvin simply decided to hang with that Dilemma, declaring that the lack of solving it merely reflects a failure of human wisdom. We see the Dilemma, however, as an indication of the failure of human wisdom in creating a theology that ends up in a dilemma. Instead of calling the unwillingness to hang with the dilemma an example of human pride, we consider it as likely that the unwillingness to rethink the interpretation process indicates human pride.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>Prevenient grace</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>            Corresponding to the
+divergent concepts of depravity are divergent concepts of “prevenient grace,” a
+species of common grace that “comes before” salvation in common to all of us. In
+addition to other originating graces, natural depravity requires an enablement
+to respond to spiritual influence. Under natural depravity we are not able to
+respond to external, social stimuli.</span></p>
 
-Prevenient Grace and Natural Depravity
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>            As regards the resolution of
+the Great Dilemma, however, the crucial element is not necessarily the natural
+depravity that commands our immediate attention. Instead, it is the intended
+scope of the atonement. The Great Dilemma does not systematically require
+non-depravity, because grace could deliver all of us to the point of ability,
+and then we could respond or refuse.</span></p>
 
-Arminius’ Approach
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>            Since there could be a
+universal prevenient grace to deliver from a universal natural depravity, the
+intended scope of the atonement ends up being more elemental than depravity.
+The point of this study, however, is more specific than controverting the
+Calvinistic system of theology generally. Rather, it seeks to elaborate on a
+view of mankind. It may not be possible to <u>dis</u>prove natural depravity
+directly because a hermeneutical impasse seems to exist on texts related to
+that topic. The crucial issue in Calvinism is what we have called “the Great Dilemma”:
+God’s desire to save all together with his decision to save some. Augustine and
+Calvin simply decided to hang with that Dilemma, declaring that the lack of <u>solving</u>
+it merely reflects a failure of human wisdom. We see the Dilemma, however, as
+an indication of the failure of human wisdom in <u>creating</u> a theology that
+ends up in a dilemma. Instead of calling the unwillingness to hang with the
+dilemma an example of human pride, we consider it as likely that the
+unwillingness to rethink the interpretation process indicates human pride.</span></p>
 
-James Arminius (1560-1609) is one major theologian who saw prevenient grace as coextensive with a universal natural depravity. Under this schematic God’s self-consistency is maintained by regenerating all people. Universalism is eliminated by regeneration only to ability, not to necessity. Merit is avoided by conditionality.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
+margin-bottom:6.0pt;margin-left:0in;text-align:center;line-height:18.0pt'><span
+style='font-size:12.0pt'>Prevenient Grace and Natural Depravity</span></p>
 
-Declining Arminius’ Approach
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>Arminius’ Approach</span></p>
 
-Armenian prevenient grace accords with the requirements of systematics, but it falls short for two major reasons: (1) it lacks positive scriptural support, and (2) it breaks the law of parsimony.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>            James Arminius (1560-1609)
+is one major theologian who saw prevenient grace as coextensive with a
+universal natural depravity. Under this schematic God’s self-consistency is
+maintained by regenerating <u>all</u> people. Universalism is eliminated by
+regeneration only to ability, not to necessity. Merit is avoided by
+conditionality.</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-Lack of scriptural authority. The first objection to universal prevenient grace is its lack of scriptural basis. No need for prevenient grace exists because <strong>(a) </strong>there is no independent evidence for the natural depravity it would correct. The passages commonly used appear to address other concerns or can fit more than one system of thought. Passages used to prove depravity directly are salvation passages mistaken for nature-of-man statements.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>Declining Arminius’ Approach</span></p>
 
-<strong>(b)</strong> There is no independent evidence for prevenient grace itself. Biblical theology avoids advocating a doctrine that lacks evidence independent of the system that calls for it to fill in gaps that scripture does not address. Passages speaking generally of common grace do not necessarily include special prevenient grace unless a need for it derives from elsewhere so as to imply its undistinguished presence in the larger category we call prevenient grace.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>            Armenian prevenient grace
+accords with the requirements of systematics, but it falls short for two major
+reasons: (1) it lacks positive scriptural support, and (2) it breaks the law of
+parsimony.</span></p>
 
-<strong>(c)</strong> There is no inferential evidence from the Fall of Adam—or of any man–--or depravity in the Augustinian-Calvinistic sense. A grammatical, historical interpretation of Genesis <strong><sup>3</sup></strong> makes no suggestion that disobedience of archetypical man forfeited subsequent capacity for repentance and faith. The indicated consequences are a sense of nakedness (<strong><sup>3</sup></strong>:7), fear of God (<strong><sup>3</sup></strong>:8), separation from God (<strong><sup>3</sup></strong>:10), the serpent’s moving on his stomach (<strong><sup>3</sup></strong>:14), enmity between the woman’s offspring and the serpent’s offspring (<strong><sup>3</sup></strong>:15), pain in childbirth together with desire toward the husband who would rule over the woman (<strong><sup>3</sup></strong>:16; 1 Timothy <strong><sup>2</sup></strong>:11, 15), labor by the sweat of the face to eat of the ground (<strong><sup>3</sup></strong>:17), thorns and thistles growing in the ground (<strong><sup>3</sup></strong>:18), physical death (<strong><sup>3</sup></strong>:19; <strong><sup>2</sup></strong>:16-17; <strong><sup>3</sup></strong>:3; Romans<strong> 5</strong>:11, 14; 1 Corinthians <strong><sup>15</sup></strong>:21-22), separation from the tree of life and the Orchard of Eden (<strong><sup>3</sup></strong>:22-24), knowledge of good and evil (<strong><sup>3</sup></strong>:5, 7, 22), and representative guilt (Romans <strong><sup>5</sup></strong>:12ff). Some consequences inherently resulted from sin (separation from God), some were positive results (labor by the sweat of the face), and others were biologically based and therefore inheritable (pain in childbirth). None of these, however, includes loss of capacity for responding to God.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-<strong>(d)</strong> There is no inferential evidence for natural depravity from the phenomena associated with the terms “image of God” and “likeness of God.” Arminius and the Remonstrants did their theological work in the context of Calvinism, altering it to avoid the doctrine of particular atonement. They accepted the contemporary line of reasoning connected with the <em>imago dei</em> doctrine, and did not redirect their systematic flow of thought until after the point of natural depravity. Reformed theology observed, on the one hand, that (1) according to the New Testament we are being renewed into the image and likeness of Christ (Romans <strong><sup>8</sup></strong>:28-29; Colossians <strong><sup>3</sup></strong>:10; cp. 1 Corinthians <strong><sup>15</sup></strong>:49; Philippians <strong><sup>3</sup></strong>:21) with the inference that (2) we do not possess what we are being given.1 On the other hand, (3) we were created in the image and likeness of God (Genesis <strong><sup>1</sup></strong>:26-27; <strong><sup>5</sup></strong>:1-3; <strong><sup>9</sup></strong>:6). Since Romans <strong><sup>5</sup></strong>:12-21, <em>etc</em>., were taken to mean that mankind was affected by the sin of Adam, (4) natural depravity was included by inference among those effects via the assumption that evil action had a necessary correlate in evil nature.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>            <u>Lack of scriptural
+authority</u>. The first objection to universal prevenient grace is its lack of
+scriptural basis. No need for prevenient grace exists because <b>(a) </b>there
+is no independent evidence for the natural depravity it would correct. The
+passages commonly used appear to address other concerns or can fit more than
+one system of thought. Passages used to prove depravity directly are salvation
+passages mistaken for nature-of-man statements.</span></p>
 
-Natural depravity did not originate from these observations on image and likeness. The theological tradition stemming from Augustine and others corroborated its ideas with these phenomena. Natural depravity came from Greek philosophy, not from biblical exegesis. The adoption and adaptation of Neo-platonic categories was motivated by a desire to systematize the biblical teachings about the holiness of God, the sinfulness of man, and limited salvation. But the internal problems generated by Greek dualism transferred to Christian theology and transformed it. The results included a host of doctrines, some considered orthodox and others heretical—like Docetism, adoptionism, divinization, emanationism, as well as depravity. Being foreign to the biblical witness, privation as the nature and cause of evil obscured what it sought to elucidate and reduced the biblical view of both God and mankind in the process.2
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>            <b>(b)</b> There is no
+independent evidence for prevenient grace itself. Biblical theology avoids
+advocating a doctrine that lacks evidence independent of the system that calls
+for it to fill in gaps that scripture does not address. Passages speaking
+generally of common grace do not necessarily include special prevenient grace
+unless a need for it derives from elsewhere so as to imply its undistinguished
+presence in the larger category we call prevenient grace.</span></p>
 
-At least three observations counter the thought that in the Fall mankind lost something of the divine image and likeness. <strong>(a)</strong> After the Fall, people were still said to be created, even individually, in the image and likeness of God (Genesis <strong><sup>5</sup></strong>:1-3; <strong><sup>9</sup></strong>:9; 1 Corinthians<strong> 11</strong>:7; James <strong><sup>3</sup></strong>:9). Genesis <strong><sup>9</sup></strong>:6 forbids murder because God made people in his own image. The citation may not be decisive since the Hebrew puts “made” in the perfect aspect so that it could mean something only true originally. Luther used this observation when he explained that since the lost image can be restored by the Holy Spirit, people should not be murdered because they have God’s image “potentially.”3 However, in Genesis <strong><sup>5</sup></strong>:1-3 the fact that God created Adam and Eve in his own image and likeness immediately introduces the statement that Adam begot a son in his own image and likeness. Since the expression “image and likeness” is applied to both events, the reader infers that Adam passed on by procreation the image and likeness he himself received at creation.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>            <b>(c)</b> There is no
+inferential evidence from the Fall of Adam—or of any man–--or depravity in the
+Augustinian-Calvinistic sense. A grammatical, historical interpretation of
+Genesis <b>3</b> makes no suggestion that disobedience of archetypical man
+forfeited subsequent capacity for repentance and faith. The indicated
+consequences are a sense of nakedness (<b>3</b>:7), fear of God (<b>3</b>:8),
+separation from God (<b>3</b>:10), the serpent’s moving on his stomach (<b>3</b>:14),
+enmity between the woman’s offspring and the serpent’s offspring (<b>3</b>:15),
+pain in childbirth together with desire toward the husband who would rule over
+the woman (<b>3</b>:16; 1 Timothy <b>2</b>:11, 15), labor by the sweat of the
+face to eat of the ground (<b>3</b>:17), thorns and thistles growing in the
+ground (<b>3</b>:18), physical death (<b>3</b>:19; <b>2</b>:16-17; <b>3</b>:3; Romans<b>
+5</b>:11, 14; 1 Corinthians <b>15</b>:21-22), separation from the tree of life
+and the Orchard of Eden (<b>3</b>:22-24), knowledge of good and evil (<b>3</b>:5,
+7, 22), and representative guilt (Romans <b>5</b>:12ff). Some consequences
+inherently resulted from sin (separation from God), some were positive results
+(labor by the sweat of the face), and others were biologically based and
+therefore inheritable (pain in childbirth). None of these, however, includes
+loss of capacity for responding to God.</span></p>
 
-<strong>(b)</strong> “Image” and “likeness” in Genesis are not necessarily synonymous with New Testament references to renewing the image. Genesis is talking about creation, so it deals with nature. Sometimes when the New Testament uses these terms, it is talking about righteousness, and so it deals with behavior. Romans <strong><sup>8</sup></strong>:29 says, <em>“Whom [God] foreknew he also foreordained to be conformed to the image of his Son.”</em> Again in 2 Corinthians <strong><sup>3</sup></strong>:18 Paul declares<em>, “We all, with unveiled face reflecting as in a mirror the glory of the Lord, are being transformed from glory to glory, even as from the Lord the Spirit.” </em>Later in Colossians <strong><sup>3</sup></strong>:10 he says, <em>“[You] have put on the new man that is being renewed to knowledge after the image of him that created him.”</em> These contexts speak of ethical behavior, not created nature. It is true that what a person is given he does not already possess, but what a person does not possess is not necessarily something he lost in Adam’s Fall. The ethical image of righteousness is something each of us loses when we sin. The natural image is something no one loses. Nowhere does scripture suggest that the image and likeness of Genesis <strong><sup>1</sup></strong>:27-28 were lost by sin, or at least lost to the point of natural depravity.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>            <b>(d)</b> There is no
+inferential evidence for natural depravity from the phenomena associated with
+the terms “image of God” and “likeness of God.” Arminius and the Remonstrants
+did their theological work in the context of Calvinism, altering it to avoid
+the doctrine of particular atonement. They accepted the contemporary line of
+reasoning connected with the <i>imago dei</i> doctrine, and did not redirect
+their systematic flow of thought until after the point of natural depravity. Reformed
+theology observed, on the one hand, that (1) according to the New Testament we
+are being renewed into the image and likeness of Christ (Romans <b>8</b>:28-29;
+Colossians <b>3</b>:10; cp. 1 Corinthians <b>15</b>:49; Philippians <b>3</b>:21)
+with the inference that (2) we do not possess what we are being given.<span
+style='position:relative;top:-3.0pt'>1 </span>On the other hand, (3) we were
+created in the image and likeness of God (Genesis <b>1</b>:26-27; <b>5</b>:1-3;
+<b>9</b>:6). Since Romans <b>5</b>:12-21, <i>etc</i>., were taken to mean that
+mankind was affected by the sin of Adam, (4) natural depravity was included by
+inference among those effects via the assumption that evil action had a
+necessary correlate in evil nature.</span></p>
 
-<strong>(c)</strong> Some modification must occur in the proposed schematic that the image was given in the creation, was lost in the Fall, and is restored in Christ. The image of God distinguishes people from animals; otherwise, at the Fall of Adam, people would have become animals. Calvin, Luther, and others answered this point by making total loss distributive rather than absolute so that it pertained to every aspect of the image, but not in full degree as far as human distinctives are concerned. In addition, reformed theologians have customarily distinguished between “broad image” and “narrow image,”4 by which they have meant respectively holiness in relationship to God and the distinctives of human nature.5 The former disappeared completely, the latter only in degree.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>            Natural depravity did not
+originate from these observations on image and likeness. The theological
+tradition stemming from Augustine and others corroborated its ideas with these
+phenomena. Natural depravity came from Greek philosophy, not from biblical
+exegesis. The adoption and adaptation of Neo-platonic categories was motivated
+by a desire to <u>systematize</u> the biblical teachings about the holiness of
+God, the sinfulness of man, and limited salvation. But the internal problems
+generated by Greek dualism transferred to Christian theology and <u>transformed</u>
+it. The results included a host of doctrines, some considered orthodox and
+others heretical—like Docetism, adoptionism, divinization, emanationism, as
+well as depravity. Being foreign to the biblical witness, privation as the
+nature and cause of evil obscured what it sought to elucidate and reduced the
+biblical view of both God and mankind in the process.<span style='position:
+relative;top:-3.0pt'>2</span></span></p>
 
-This distinction, of course, only harmonizes depravity with the problem posed; it does not have any independent basis in biblical testimony. Furthermore, if “broad image” means holiness in relationship to God, it is referring to characteristic behavior, not essential being. Righteousness is not a kind of substance, a form of nature, a state of being. Bringing in the distinction between broad and narrow image ends up doing nothing more than restating under other terminology the point of contention: righteousness describes a pattern of action that correlates with a form of nature. That is a philosophical assumption, not a biblical teaching; and it is an assumption we consider inadequate for reasons already presented. Consequently, arguing from the renewal of the image affords an approach only in confirmation of a natural depravity established from elsewhere. Arminius did not need to capitulate to reformed theology even as much as he did.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>            At least three observations
+counter the thought that in the Fall mankind lost something of the divine image
+and likeness. <b>(a)</b> After the Fall, people were still said to be created,
+even individually, in the image and likeness of God (Genesis <b>5</b>:1-3; <b>9</b>:9;
+1 Corinthians<b> 11</b>:7; James <b>3</b>:9). Genesis <b>9</b>:6 forbids murder
+because God made people in his own image. The citation may not be decisive
+since the Hebrew puts “made” in the perfect aspect so that it could mean
+something only true originally. Luther used this observation when he explained
+that since the lost image can be restored by the Holy Spirit, people should not
+be murdered because they have God’s image “potentially.”<span style='position:
+relative;top:-3.0pt'>3 </span>However, in Genesis <b>5</b>:1-3 the fact that
+God created Adam and Eve in his own image and likeness immediately introduces
+the statement that Adam begot a son in <u>his</u> own image and likeness. Since
+the expression “image and likeness” is applied to both events, the reader
+infers that Adam passed on by procreation the image and likeness he himself
+received at creation.</span></p>
 
-Distinguishing broad and narrow within the term <em>image</em> does admit that scripture does not use the term uniformly. Furthermore, it means that not everything covered by the word was forfeited by the original act of sin. Therefore, we may (a) correlate Calvin’s narrow and broad image with the retained (humanness) and the lost (holiness) and let the idea of original depravity drop out. A second step can (b) limit the loss of holiness to Adam himself and let the idea of original guilt drop out too.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>            <b>(b)</b> “Image” and “likeness”
+in Genesis are not necessarily synonymous with New Testament references to
+renewing the image. Genesis is talking about creation, so it deals with <u>nature</u>.
+Sometimes when the New Testament uses these terms, it is talking about
+righteousness, and so it deals with <u>behavior</u>. Romans <b>8</b>:29 says, <i>“Whom
+[God] foreknew he also foreordained to be conformed to the image of his Son.”</i>
+Again in 2 Corinthians <b>3</b>:18 Paul declares<i>, “We all, with unveiled
+face reflecting as in a mirror the glory of the Lord, are being transformed
+from glory to glory, even as from the Lord the Spirit.” </i>Later in Colossians
+<b>3</b>:10 he says, <i>“[You] have put on the new man that is being renewed to
+knowledge after the image of him that created him.”</i> These contexts speak of
+ethical behavior, not created nature. It is true that what a person is given he
+does not already possess, but what a person does not possess is not necessarily
+something he lost in Adam’s Fall. The ethical image of righteousness is
+something each of us loses when we sin. The natural image is something no one
+loses. Nowhere does scripture suggest that the image and likeness of Genesis <b>1</b>:27-28
+were lost by sin, or at least lost to the point of natural depravity.</span></p>
 
-If we contemplate reality under the related categories of (1) being, or nature; (2) action, and (3) relationship, then what was lost in the Fall was Adam’s fellowship with God (relationship) because of his sin (action). His nature was not affected so as to destroy capacity for obedience or ability to respond to spiritual influence. Under the biblical use of “image,” being includes matters like rationality, will, conscience, spirit, and emotion. Action includes creativity (Genesis <strong><sup>4</sup></strong>:1; <strong><sup>5</sup></strong>:1-3) and moral behavior. Behavioral considerations are discussed under the terms “image” and “likeness” in Romans <strong><sup>8</sup></strong>:28-29 and Colossians <strong><sup>3</sup></strong>:9-10. Christians, renewed in the likeness of Christ, put off the doings of the old man (cp. 2 Peter<strong> 1</strong>:2-4; Hebrews <strong><sup>12</sup></strong>:10). With relationship comes <strong>(a) </strong>responsible dominion over the earth (Genesis <strong><sup>1</sup></strong>:28b; cp. Psalm <strong><sup>8</sup></strong>; Hebrews <strong><sup>2</sup></strong>), <strong>(b)</strong> social unity as epitomized in the twoness-in-oneness of marriage that reflects the threeness-in-oneness of the divine trinity (Genesis <strong><sup>1</sup></strong>:27-28 + <strong><sup>2</sup></strong>:20-24; John <strong><sup>17</sup></strong>:20-24; Ephesians <strong><sup>4</sup></strong>:13-16), and <strong>(c)</strong> fellowship with God.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>            <b>(c)</b> Some modification
+must occur in the proposed schematic that the image was given in the creation, was
+lost in the Fall, and is restored in Christ. The image of God distinguishes people
+from animals; otherwise, at the Fall of Adam, people would have become animals.
+Calvin, Luther, and others answered this point by making total loss
+distributive rather than absolute so that it pertained to <u>every aspect</u>
+of the image, but not in <u>full degree</u> as far as human distinctives are
+concerned. In addition, reformed theologians have customarily distinguished
+between “broad image” and “narrow image,”<span style='position:relative;
+top:-3.0pt'>4</span> by which they have meant respectively holiness in
+relationship to God and the distinctives of human nature.<span
+style='position:relative;top:-3.0pt'>5</span> The former disappeared
+completely, the latter only in degree.</span></p>
 
-Law of parsimony. Besides the lack of primary scriptural support, the second major objection to Arminian prevenient grace is the law of parsimony. All things being equal, the simpler explanation is usually better because fewer parameters must be harmoniously related within a system. Non-depravity involves a simpler construct because it lacks the depravitizing-undepravitizing steps in the God-man-sin-salvation series. Natural depravity would presumably have come on the human race through a positive disablement by God directly or indirectly on the occasion of Adam’s original sin or the first sin of each person. But there seems to be little reason for disabling human nature in the beginning only to have to enable it again in the end. Depravity only makes the sin problem worse and seemingly for no need. In the end, God must miraculously reverse that depravity in each person’s life in order to prepare the way for conversion and restored relationship
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>            This distinction, of course,
+only harmonizes depravity with the problem posed; it does not have any
+independent basis in biblical testimony. Furthermore, if “broad image” means
+holiness in relationship to God, it is referring to characteristic behavior,
+not essential being. Righteousness is not a kind of substance, a form of
+nature, a state of being. Bringing in the distinction between broad and narrow
+image ends up doing nothing more than restating under other terminology the
+point of contention: righteousness describes a pattern of action that
+correlates with a form of nature. That is a philosophical assumption, not a
+biblical teaching; and it is an assumption we consider inadequate for reasons
+already presented. Consequently, arguing from the renewal of the image affords
+an approach only in confirmation of a natural depravity established from
+elsewhere. Arminius did not need to capitulate to reformed theology even as
+much as he did.</span></p>
 
-Showing the lack of basis for depravity is sufficient for removing it from matters of faith and fact in Christianity, although this study prefers to disprove depravity. The Great Dilemma disproves depravity where prevenient grace regenerates to necessity. Where prevenient grace regenerates only to possibility, the law of parsimony can only create presumption against.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>            Distinguishing broad and
+narrow within the term <i>image</i> does admit that scripture does not use the
+term uniformly. Furthermore, it means that not everything covered by the word
+was forfeited by the original act of sin. Therefore, we may (a) correlate
+Calvin’s narrow and broad image with the retained (humanness) and the lost
+(holiness) and let the idea of <u>original depravity</u> drop out. A second
+step can (b) limit the loss of holiness to Adam himself and let the idea of <u>original
+guilt</u> drop out too.</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>            If we contemplate reality
+under the related categories of (1) <u>being</u>, or nature; (2) <u>action</u>,
+and (3) <u>relationship</u>, then what was lost in the Fall was Adam’s
+fellowship with God (relationship) because of his sin (action). His nature was
+not affected so as to destroy capacity for obedience or ability to respond to
+spiritual influence. Under the biblical use of “image,” <u>being</u> includes
+matters like rationality, will, conscience, spirit, and emotion. <u>Action</u>
+includes creativity (Genesis <b>4</b>:1; <b>5</b>:1-3) and moral behavior. Behavioral
+considerations are discussed under the terms “image” and “likeness” in Romans <b>8</b>:28-29
+and Colossians <b>3</b>:9-10. Christians, renewed in the likeness of Christ,
+put off the doings of the old man (cp. 2 Peter<b> 1</b>:2-4; Hebrews <b>12</b>:10).
+With <u>relationship</u> comes <b>(a) </b>responsible dominion over the earth
+(Genesis <b>1</b>:28b; cp. Psalm <b>8</b>; Hebrews <b>2</b>), <b>(b)</b> social
+unity as epitomized in the twoness-in-oneness of marriage that reflects the
+threeness-in-oneness of the divine trinity (Genesis <b>1</b>:27-28 + <b>2</b>:20-24;
+John <b>17</b>:20-24; Ephesians <b>4</b>:13-16), and <b>(c)</b> fellowship with
+God.</span></p>
 
-Counter questions
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>            <u>Law of parsimony</u>. Besides
+the lack of primary scriptural support, the second major objection to Arminian
+prevenient grace is the law of parsimony. All things being equal, the simpler
+explanation is usually better because fewer parameters must be harmoniously
+related within a system. Non-depravity involves a simpler construct because it
+lacks the depravitizing-undepravitizing steps in the God-man-sin-salvation
+series. Natural depravity would presumably have come on the human race through
+a positive disablement by God directly or indirectly on the occasion of Adam’s
+original sin or the first sin of each person. But there seems to be little
+reason for disabling human nature in the beginning only to have to enable it
+again in the end. Depravity only makes the sin problem worse and seemingly for
+no need. In the end, God must miraculously reverse that depravity in each
+person’s life in order to prepare the way for conversion and restored
+relationship</span></p>
 
-The principle of parsimony appealed to against Arminian prevenient grace does not apply to psychological depravity. In the total system, psychological depravity does not represent an addition as does natural depravity and its remedy. The mechanisms already present before the Fall can account for the falling and fallenness of everyone in sinful society the same way they account for the original Fall in a pristine condition. Since the burden of proof lies on the affirmative, additional explanations are required to bear the burden in order to avoid proof by default. Put theologically and exegetically, the dogmatic principle cannot precede the exegetical one.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>            Showing the lack of basis
+for depravity is sufficient for removing it from matters of faith and fact in
+Christianity, although this study prefers to disprove depravity. The Great Dilemma
+disproves depravity where prevenient grace regenerates to <u>necessity</u>. Where
+prevenient grace regenerates only to <u>possibility</u>, the law of parsimony
+can only create presumption against.</span></p>
 
-Any view of mankind must accept the burden of proof for its assertions; the question comes as to where scripture teaches non-depravity. The first answer is that this view derives from the Great Dilemma by inference. Secondly, scripture teaches the proposed view by not altering its teaching on original mankind. What is not an added feature does not require added evidence. There is no indication that as to ability to respond to God mankind today differs from the Man of Genesis <strong><sup>3</sup></strong> in a biologically inheritable sense.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-If the scope of the atonement precedes natural depravity, why not argue exegetically against Calvinism that the scope was universal and subsequently against Arminianism that natural depravity has no scriptural warrant? Regarding the atonement in Calvinism, this procedure has been the one we have used. We have added another step regarding human nature.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>Counter questions</span></p>
 
-Arminianism fails to question whether natural depravity has direct scriptural warrant. The theologian becomes a remonstrant, coming at the matter from a Calvinistic pre-understanding about man rather than from a fresh start. Under the schematic of the Great Dilemma, natural depravity, being unnecessary systematically, is not needed for limiting Calvinistic extremes.6 Directly showing a lack of scriptural support eliminates the systematic aspect, leaves the question exegetically neutral, and avoids the informal fallacy of proof by default. <em>“Man’s ability to respond to God”</em> issues from the Great Dilemma. So any claim for depravity requires separate evidence for <em>“man’s ability to respond to God after an enablement from natural depravity sometime before each man’s conversion.”</em> Eliminating Arminius’ position calls for sustaining the presumption against natural depravity by showing that ability leads to no difficulties, and that ends the matter.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>            The <u>principle of
+parsimony</u> appealed to against Arminian prevenient grace does not apply to
+psychological depravity. In the total system, psychological depravity does not
+represent an addition as does natural depravity and its remedy. The mechanisms
+already present before the Fall can account for the falling and fallenness of
+everyone in sinful society the same way they account for the original Fall in a
+pristine condition. Since the burden of proof lies on the affirmative,
+additional explanations are required to bear the burden in order to avoid proof
+by default. Put theologically and exegetically, the dogmatic principle cannot
+precede the exegetical one.</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>            Any view of mankind must
+accept the <u>burden of proof</u> for its assertions; the question comes as to
+where scripture teaches non-depravity. The first answer is that this view
+derives from the Great Dilemma by inference. Secondly, scripture teaches the
+proposed view by not altering its teaching on original mankind. What is not an
+added feature does not require added evidence. There is no indication that as
+to ability to respond to God mankind today differs from the Man of Genesis <b>3</b>
+in a biologically inheritable sense.         </span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>            If the <u>scope of the
+atonement</u> precedes natural depravity, why not argue exegetically against
+Calvinism that the scope was universal and subsequently against Arminianism
+that natural depravity has no scriptural warrant? Regarding the atonement in
+Calvinism, this procedure has been the one we have used. We have added another
+step regarding human nature.</span></p>
 
-<strong>End Notes</strong>
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>            Arminianism fails to
+question whether natural depravity has direct scriptural warrant. The
+theologian becomes a remonstrant, coming at the matter from a Calvinistic
+pre-understanding about man rather than from a fresh start. Under the schematic
+of the Great Dilemma, natural depravity, being unnecessary systematically, is
+not needed for limiting Calvinistic extremes.<span style='position:relative;
+top:-3.0pt'>6</span> Directly showing a lack of scriptural support eliminates
+the systematic aspect, leaves the question exegetically neutral, and avoids the
+informal fallacy of proof by default. <i>“Man’s ability to respond to God”</i>
+issues from the Great Dilemma. So any claim for depravity requires separate evidence
+for <i>“man’s ability to respond to God after an enablement from natural
+depravity sometime before each man’s conversion.”</i> Eliminating Arminius’
+position calls for sustaining the presumption against natural depravity by
+showing that ability leads to no difficulties, and that ends the matter.</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-<sup>1</sup>See John Calvin, <em>Institutes of the Christian Religion</em><strong> 2</strong>:3:6.
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
+line-height:18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-<sup>2</sup>On Augustine’s use of Neo-Platonism, see again Gerald Bonner, <em>St. Augustine of Hippo: His Life and Controversies</em>, pp. 201-4.
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
+line-height:18.0pt'><b><span style='font-size:12.0pt'>End Notes</span></b></p>
 
-<sup>3</sup>See <em>Lectures on Genesis</em> at the <strong><sup>9</sup></strong>:6 reference.
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
+line-height:18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-<sup>4</sup>In Calvin see <em>Institutes of the Christian Religion</em> <strong><sup>1</sup></strong>:2:2, 12.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>            <span style='position:relative;
+top:-3.0pt'>1</span>See John Calvin, <i>Institutes of the Christian Religion</i><b>
+2</b>:3:6.</span></p>
 
-<sup>5</sup>Other sets of expressions have been employed to mark differences within the image. Besides (1) narrow and broad image, there are (2) supernatural gifts and natural gifts (Augustine, <em>etc</em>.), (3) formal and material (Barth and Brunner), (4) morphological and functional, (5) Old Testament image and New Testament image (David Cairns), (6) image and likeness (Irenaeus, <em>Adversus omnes haereses</em> <strong><sup>2</sup></strong>:35:5; <strong><sup>3</sup></strong>:18:1; <strong><sup>3</sup></strong>:22:4; <strong><sup>3</sup></strong>:23:1-2; <strong><sup>4</sup></strong>:4:3; <strong><sup>4</sup></strong>:38:3-4; <strong><sup>5</sup></strong>:1:3; <strong><sup>5</sup></strong>:8:1; <strong><sup>5</sup></strong>:16:2).
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>            <span style='position:relative;
+top:-3.0pt'>2</span>On Augustine’s use of Neo-Platonism, see again Gerald
+Bonner, <i>St. Augustine of Hippo: His Life and Controversies</i>, pp. 201-4.</span></p>
 
-<sup>6</sup>Creating presumption against a doctrine systematically does not give systematic theology preference over biblical theology. Something not systematically required by truth may nevertheless be harmonious with it; God may decide to command what fits with his purpose even though his purpose does not necessitate it.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>            <span style='position:relative;
+top:-3.0pt'>3</span>See <i>Lectures on Genesis</i> at the <b>9</b>:6 reference.</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>            <span style='position:relative;
+top:-3.0pt'>4</span>In Calvin see <i>Institutes of the Christian Religion</i> <b>1</b>:2:2,
+12.</span></p>
 
-christir.org
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>            <span style='position:relative;
+top:-3.0pt'>5</span>Other sets of expressions have been employed to mark
+differences within the image. Besides (1) narrow and broad image, there are (2)
+supernatural gifts and natural gifts (Augustine, <i>etc</i>.), (3) formal and
+material (Barth and Brunner), (4) morphological and functional, (5) Old
+Testament image and New Testament image (David Cairns), (6) image and likeness
+(Irenaeus, <i>Adversus omnes haereses</i> <b>2</b>:35:5; <b>3</b>:18:1; <b>3</b>:22:4;
+<b>3</b>:23:1-2; <b>4</b>:4:3; <b>4</b>:38:3-4; <b>5</b>:1:3; <b>5</b>:8:1; <b>5</b>:16:2).</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>            <span style='position:relative;
+top:-3.0pt'>6</span>Creating presumption against a doctrine systematically does
+not give systematic theology preference over biblical theology. Something not
+systematically <u>required</u> by truth may nevertheless be <u>harmonious</u>
+with it; God may decide to command what fits with his purpose even though his
+purpose does not necessitate it.</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:11.0pt'>christir.org</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
+</div>

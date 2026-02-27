@@ -11,46 +11,256 @@ title: 'THE NECESSITY OF “TONGUE SPEAKING”: A CRITIQUE'
 weight: 4
 ---
 
+<style>
+/* Font Definitions */
+ @font-face
+	{font-family:"Tms Rmn";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:Helv;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+ /* Style Definitions */
+ .word-content p.MsoNormal, .word-content li.MsoNormal, 
+p.MsoHeader, li.MsoHeader, 
+span.HeaderChar
+	{mso-style-name:"Header Char";
+	mso-style-link:Header;
+	font-family:"Times New Roman",serif;
+	color:black;}
+.word-content .MsoChpDefault
+	{font-family:"Tms Rmn",serif;}
+ /* Page Definitions */
+</style>
 
+<div class="word-content">
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
+style='font-size:14.0pt'>THE NECESSITY OF “TONGUE SPEAKING”: A CRITIQUE</span></b></p>
 
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
+style='font-size:12.0pt'>&nbsp;</span></b></p>
 
-Christian groups have different expectancies about “tongue speaking.” Some think the gift is as available now as in the apostolic age. Others take the more extreme position that it is a sign with all genuine conversions. The following remarks address that latter position. These notes also adopt the New Testament phraseology “speaking in languages” instead of “tongue speaking” because the latter is an undefined expression that allows people to invest it with a special meaning.
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
+style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
 
-The difficulty with <em>“the necessity speaking in languages”</em> is that its advocates do not have primary evidence for the doctrine. Other Christians do not have to respond to a claim when there is no biblical reason for it. In religious discussions, advocates of an idea often do not <em>“shoulder the positive burden of proof.”</em> They state their idea alongside a questionable text and call on other people to show that it is contrary to God’s word. Such a procedure is never correct. False ideas frequently cannot be disproved, because that kind of evidence is unavailable.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><b><span
+style='font-size:12.0pt'>&nbsp;</span></b></p>
 
-The position in this essay is that the New Testament does not teach or imply that Christians need to speak in languages. So there is no responsibility for disproving that idea. Nevertheless, we can raise some observations from scripture, experience, and consistency against it.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><b><span
+style='font-size:12.0pt'>  </span></b></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><b><span
+style='font-size:12.0pt'>                        </span></b><span
+style='font-size:12.0pt'>Christian groups have different expectancies about “tongue
+speaking.” Some think the gift is as available now as in the apostolic age. Others
+take the more extreme position that it is a sign with all genuine conversions. The
+following remarks address that latter position. These notes also adopt the New
+Testament phraseology “speaking in languages” instead of “tongue speaking”
+because the latter is an undefined expression that allows people to invest it
+with a special meaning.</span></p>
 
-1.	No scripture says that speaking in languages is a necessary component of genuine conversion or that the experience will occur at least once during the life of a genuine Christian. That is significant silence. At best, the idea would have to be inferred from other information in the New Testament. Inferences can be legitimate, but they should be distinguished from direct teachings.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                        The difficulty with <i>“the
+necessity speaking in languages”</i> is that its advocates do not have primary
+evidence for the doctrine. Other Christians do not have to respond to a claim when
+there is no biblical reason for it. In religious discussions, advocates of an
+idea often do not <i>“shoulder the positive burden of proof.”</i> They state their
+idea alongside a questionable text and call on other people to show that it is
+contrary to God’s word. Such a procedure is never correct. False ideas frequently
+cannot be <u>dis</u>proved, because that kind of evidence is unavailable. </span></p>
 
-This conclusion, however, is not only an inference, but an unnecessary one. It does not follow from a text like Mark <strong><sup>16</sup></strong>:17-18, in which Jesus predicts that signs will “follow” the believers: speaking in new languages, exorcising demons, picking up poisonous snakes, drinking poison, and healing with a touch. These signs did follow the believers as <strong><sup>16</sup></strong>:20 notes, but that does not mean every believer had every gift, had at least one gift, had one gift in common, or had any gift. Much less does it stress speaking in languages above the rest. It for certain means only that such signs would appear among the believers. The promise does not require that these manifestations appear permanently among the believers, but only that they occur within the writer’s time frame envisioned. It is curious that languages rather than drinking poison should be selected as a uniform experience for genuine conversions, especially since speaking in languages is the easiest to counterfeit and therefore the one that carries the least evidential force (“sign”).
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                        The position in this essay is
+that the New Testament does not teach or imply that Christians <u>need</u> to
+speak in languages. So there is no responsibility for disproving that idea. Nevertheless,
+we can raise some observations from scripture, experience, and consistency
+against it.</span></p>
 
-In Acts <strong><sup>2</sup></strong>:38, Peter did promise the multitudes that along with forgiveness they would receive the Spirit when they made commitment to Jesus as Messiah. Receiving the Spirit, however, need not mean receiving a visible manifestation of the Spirit. Acts<strong> 2</strong> does not indicate that anything of this kind occurred when the three thousand were baptized that day. In fact, there is never a case when the Spirit’s coming was manifested by speaking in languages when someone was baptized; yet that is the connection in which Peter makes the promise on Pentecost. The language-speaking manifestation of the Spirit’s presence is either direct from heaven—as with the apostles on Pentecost or Cornelius in Caesarea—or in conjunction with the imposition of hands—as with the Samaritans and the twelve disciples of John in Ephesus. There are five cases of baptism in Acts, and none of them mention this manifestation:<strong> 2</strong>:46-47; <strong><sup>8</sup></strong>:36-38; <strong><sup>9</sup></strong>:18 (= <strong><sup>22</sup></strong>:16); <strong><sup>16</sup></strong>:15, 33.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'> </span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                        1.   <u>No scripture says that
+speaking in languages is a necessary component of genuine conversion</u> or
+that the experience will occur at least once during the life of a genuine
+Christian. That is significant silence. At best, the idea would have to be
+inferred from other information in the New Testament. Inferences can be
+legitimate, but they should be distinguished from direct teachings. </span></p>
 
-2.	1 Corinthians <strong><u><sup>12</sup></u></strong>:29-30 shows that not everyone even in the early church spoke in languages: <em>“Is everyone an apostle . . . ? Does everyone have gifts of healing? Does everyone speak in languages?”</em> Well, no. One counter-response supposes that Paul refers here to an ongoing gift for edification or evangelism rather than to an initial experience to signify divine acceptance. Although a distinction between initial experience and subsequent gift is conceivable, it is by no means warranted. No other gift has two kinds of manifestation, one initial and uniform for all and another ongoing and possessed by some.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                              This conclusion,
+however, is not only an inference, but an unnecessary one. It does not follow
+from a text like Mark <b>16</b>:17-18, in which Jesus predicts that signs will “follow”
+the believers: speaking in new languages, exorcising demons, picking up
+poisonous snakes, drinking poison, and healing with a touch. These signs <u>did</u>
+follow the believers as <b>16</b>:20 notes, but that does not mean <u>every</u>
+believer had every gift, had at least one gift, had one gift in common, or had
+any gift. Much less does it stress speaking in languages above the rest. It for
+certain means only that such signs would appear among the believers. The
+promise does not require that these manifestations appear permanently among the
+believers, but only that they occur within the writer’s time frame envisioned. It
+is curious that languages rather than drinking poison should be selected as a
+uniform experience for genuine conversions, especially since speaking in
+languages is the easiest to counterfeit and therefore the one that carries the
+least evidential force (“sign”).</span></p>
 
-If Paul is indeed talking about an ongoing gift rather than an initial experience, then for consistency’s sake 1 Corinthians <strong><sup>14</sup></strong>:5 is not evidence for the necessity of languages as an initial experience even though the verse is often understood that way. “I want you all to speak in languages” stands in the same context as the verse just set aside (<strong><sup>12</sup></strong>:30). If the earlier statement does not mean speaking in languages as an initial experience, then <strong><sup>14</sup></strong>:5 does not mean that either.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                              In Acts <b>2</b>:38,
+Peter did promise the multitudes that along with forgiveness they would receive
+the Spirit when they made commitment to Jesus as Messiah. Receiving the <u>Spirit</u>,
+however, need not mean receiving a visible <u>manifestation of the Spirit</u>. Acts<b>
+2</b> does not indicate that anything of this kind occurred when the three
+thousand were baptized that day. In fact, there is never a case when the Spirit’s
+coming was manifested by speaking in languages when someone was baptized; yet
+that is the connection in which Peter makes the promise on Pentecost. The language-speaking
+manifestation of the Spirit’s presence is either direct from heaven—as with the
+apostles on Pentecost or Cornelius in Caesarea—or in conjunction with the
+imposition of hands—as with the Samaritans and the twelve disciples of John in
+Ephesus. There are five cases of baptism in Acts, and none of them mention this
+manifestation:<b> 2</b>:46-47; <b>8</b>:36-38; <b>9</b>:18 (= <b>22</b>:16); <b>16</b>:15,
+33.</span></p>
 
-In the context of 1 Corinthians <strong>12-14</strong>, the <strong><sup>14</sup></strong>:5 statement has the force of saying, “I am willing for all of you to speak in languages, as far as that goes. I am not trying to forbid it. My concern is that you be prophesying when you do it.” Speaking in languages is pointless if it does not convey meaning (<strong><sup>14</sup></strong>:6-19).
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-Finally, <em>“I </em><em><u>am willing</u></em><em> for all of you to speak in languages” </em>provides a translation that does not read as if Paul was urging them all to do it. Rather, he was willing for them all to do it, but only if it was for edification and prophecy.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                        2.   <u>1 Corinthians <b>12</b>:29-30
+shows that not everyone even in the early church spoke in languages</u>: <i>“Is
+everyone an apostle . . . ? Does everyone have gifts of healing? Does everyone
+speak in languages?”</i> Well, no. One counter-response supposes that Paul
+refers here to an ongoing gift for edification or evangelism rather than to an
+initial experience to signify divine acceptance. Although a distinction between
+initial experience and subsequent gift is conceivable, it is by no means warranted.
+No other gift has two kinds of manifestation, one initial and uniform for all
+and another ongoing and possessed by some.</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                              If Paul is indeed
+talking about an ongoing gift rather than an initial experience, then for
+consistency’s sake 1 Corinthians <b>14</b>:5 is not evidence for the necessity
+of languages as an initial experience even though the verse is often understood
+that way. “I <u>want</u> you all to speak in languages” stands in the same
+context as the verse just set aside (<b>12</b>:30). If the earlier statement
+does not mean speaking in languages as an initial experience, then <b>14</b>:5
+does not mean that either.</span></p>
 
-3.	There are only four examples of speaking in languages in the New Testament, and the first one is not part of a conversion experience. (1) At Pentecost the Spirit fell on the twelve apostles when they preached the gospel for the first time as accomplished historical fact (Acts <strong><sup>2</sup></strong>). These were not conversions, but empowerments for ministry and proof of divine approval on these men as God’s spokesmen. (2) The Samaritans spoke in languages when Peter and John laid hands on them (Acts<strong> 8</strong>), but this happened after their conversion. It was a subsequent gifting by the laying on of hands rather than a direct outpouring. (3) The Spirit fell on Cornelius’ family and friends when Peter began preaching to this first Gentile audience (Acts <strong>10-11</strong>). The outpouring was separate from baptism particularly; it showed Peter that Gentiles could become Christians without becoming Jews in the process. (4) The twelve disciples of John in Ephesus spoke in languages when Paul laid hands on them (Acts <strong><sup>19</sup></strong>). The same problem arises here as in the case of the Samaritans. Paul’s proposal to give them the Spirit was evidently a shorthand expression for giving them (a manifestative gift of) the Spirit, because that is what he did after discovering that they were disciples of John and then baptizing them in the name of Jesus. They would have had the indwelling gift of the Spirit by virtue of salvation itself (Acts <strong><sup>2</sup></strong>:38).
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                              In the context of 1
+Corinthians <b>12-14</b>, the <b>14</b>:5 statement has the force of saying, “I
+<u>am willing</u> for all of you to speak in languages, as far as that goes. I
+am not trying to forbid it. My concern is that you be prophesying when you do
+it.” Speaking in languages is pointless if it does not convey meaning (<b>14</b>:6-19).</span></p>
 
-Each of these four cases represents a class of people shown specifically to be an object of divine approval. Therefore, we need not consider the cases a norm for individuals. Pentecost dealt with the Jews. The Samaritans were the next closest people prepared for the Messianic message. Cornelius represented the Gentiles, and illustrated God’s acceptance of Gentiles as Gentiles into the Messianic kingdom. The twelve at Ephesus showed that disciples of John were to identify with Messiah instead of keeping their identity with his forerunner and his message. The coming of the Spirit on these groups was important for Luke to note because each case represented a significant category of people in the Christian mission.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                              Finally, <i>“I <u>am
+willing</u> for all of you to speak in languages” </i>provides a translation
+that does not read as if Paul was urging them all to do it. Rather, he was
+willing for them all to do it, but only if it was for edification and prophecy.</span></p>
 
-In contrast to the four cases that mention languages, there are twice as many that say nothing about that phenomenon at conversion and only one involves a person we know later spoke in languages: the three thousand on Pentecost (Acts <strong><sup>2</sup></strong>:46-47), a general conversion process summarized in Acts<strong> 4</strong>:4, the company of priests (Acts <strong><sup>6</sup></strong>:7), the Ethiopian eunuch (Acts <strong><sup>8</sup></strong>:26-40), Saul himself (<strong><sup>9</sup></strong>:1-22; <strong><sup>22</sup></strong>:3-21; <strong><sup>26</sup></strong>:2-23), Sergius Paulus (Acts <strong><sup>13</sup></strong>:4-12), Lydia (Acts <strong><sup>16</sup></strong>:11-15), and the Philippian jailer and his household (Acts <strong><sup>16</sup></strong>:16-34). We know Saul spoke in languages later (1 Corinthians <strong><sup>14</sup></strong>:18), but nothing is said about that in any account of his conversion.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                        3.   <u>There are only four
+examples of speaking in languages in the New Testament</u>, and the first one
+is not part of a conversion experience. (1) At <u>Pentecost</u> the Spirit fell
+on the twelve apostles when they preached the gospel for the first time as
+accomplished historical fact (Acts <b>2</b>). These were not conversions, but
+empowerments for ministry and proof of divine approval on these men as God’s
+spokesmen. (2) The <u>Samaritans</u> spoke in languages when Peter and John
+laid hands on them (Acts<b> 8</b>), but this happened after their conversion. It
+was a subsequent gifting by the laying on of hands rather than a direct outpouring.
+(3) The Spirit fell on <u>Cornelius</u>’ family and friends when Peter began
+preaching to this first Gentile audience (Acts <b>10-11</b>). The outpouring
+was separate from baptism particularly; it showed Peter that Gentiles could become
+Christians without becoming Jews in the process. (4) The twelve <u>disciples of
+John</u> in Ephesus spoke in languages when Paul laid hands on them (Acts <b>19</b>).
+The same problem arises here as in the case of the Samaritans. Paul’s proposal
+to give them the Spirit was evidently a shorthand expression for giving them (a
+manifestative gift of) the Spirit, because that is what he did after
+discovering that they were disciples of John and then baptizing them in the
+name of Jesus. They would have had the indwelling gift of the Spirit by virtue
+of salvation itself (Acts <b>2</b>:38).</span></p>
 
-4.	The necessity of speaking in languages implies that countless Christians are lost who have not spoken in languages at conversion or subsequently. That inference is not likely when we consider that (1) their spiritual fruit is better evidence of having the Spirit, because people cannot counterfeit it. Furthermore, (2) the personal lives of such people can be better than the lives of many who require speaking in languages. (3) Spiritual fruit is germane to God’s purpose for people; supernatural experiences are not (1 Corinthians <strong><sup>12</sup></strong>:30-<strong><sup>13</sup></strong>:13), which leads to the next point.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                              Each of these four cases
+represents a class of people shown specifically to be an object of divine
+approval. Therefore, we need not consider the cases a norm for individuals. Pentecost
+dealt with the <u>Jews</u>. The <u>Samaritans</u> were the next closest people
+prepared for the Messianic message. Cornelius represented the <u>Gentiles</u>,
+and illustrated God’s acceptance of Gentiles as Gentiles into the Messianic
+kingdom. The twelve at Ephesus showed that <u>disciples of John</u> were to
+identify with Messiah instead of keeping their identity with his forerunner and
+his message. The coming of the Spirit on these groups was important for Luke to
+note because each case represented a significant category of people in the
+Christian mission.</span></p>
 
-5.	Claiming the necessity of some supernatural experience misunderstands the interpersonal nature and purpose of salvation and the church. It slides off the relational center onto a mystical one. Jesus and Paul’s strictures on this misemphasis apply then to the language-speaking doctrine and render it suspect (Luke <strong><sup>10</sup></strong>:17-20; 1 Corinthians<strong> 13</strong>:8-13).
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                              In contrast to the four
+cases that mention languages, there are twice as many that say nothing about that
+phenomenon at conversion and only one involves a person we know later spoke in languages:
+the three thousand on Pentecost (Acts <b>2</b>:46-47), a general conversion
+process summarized in Acts<b> 4</b>:4, the company of priests (Acts <b>6</b>:7),
+the Ethiopian eunuch (Acts <b>8</b>:26-40), Saul himself (<b>9</b>:1-22; <b>22</b>:3-21;
+<b>26</b>:2-23), Sergius Paulus (Acts <b>13</b>:4-12), Lydia (Acts <b>16</b>:11-15),
+and the Philippian jailer and his household (Acts <b>16</b>:16-34). We know Saul
+spoke in languages later (1 Corinthians <b>14</b>:18), but nothing is said
+about that in any account of his conversion.</span></p>
 
-6.	Speaking in languages is divinely given, not humanly achieved. It is useless to urge people to have what God must give them or criticize them for not having what they can only request. In scripture those who supposedly were “baptized in the Spirit with the evidence of speaking in languages” did not ask for that experience, much less agonize in prayer to get it.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                        4.   <u>The necessity of
+speaking in languages implies that countless Christians are lost who have not
+spoken in languages at conversion or subsequently</u>. That inference is not
+likely when we consider that (1) their <u>spiritual fruit</u> is better
+evidence of having the Spirit, because people cannot counterfeit it. Furthermore,
+(2) the personal lives of such people can be better than the lives of many who
+require speaking in languages. (3) Spiritual fruit is germane to God’s purpose
+for people; supernatural experiences are not (1 Corinthians <b>12</b>:30-<b>13</b>:13),
+which leads to the next point.</span></p>
 
-Theologically speaking, the most serious problem with claiming the necessity of speaking in languages is that it does the same thing as all other aberrations in church history: it draws attention away from the interpersonal nature and purpose of the gospel to something non-interpersonaI—in this case something experiential. Practically speaking, the necessity of speaking in languages can establish an elitism among believers that divides the body and weakens its witness. It diverts attention from the essential point—reconciliation to God through Christ and spiritual fruit as the mark of the Spirit-filled life. Spiritually speaking, it sows unfounded doubts in the hearts of sincere believers who want to be and have everything God requires and gives. Not having some special experience implies that a person is lost, a most disconcerting thought to spiritually sensitive souls. Psychologically speaking, if it does not drive them to despair or disillusion them about the faith, it fosters the tendency to misidentify speaking in languages with overcoming the adult inhibition against babbling.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                        5.   <u>Claiming the necessity
+of some supernatural experience misunderstands the interpersonal nature and
+purpose of salvation and the church</u>. It slides off the relational center
+onto a mystical one. Jesus and Paul’s strictures on this misemphasis apply then
+to the language-speaking doctrine and render it suspect (Luke <b>10</b>:17-20;
+1 Corinthians<b> 13</b>:8-13).</span></p>
 
-christir.org
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                        6.   <u>Speaking in languages is
+divinely given, not humanly achieved</u>. It is useless to urge people to have what
+God must give them or criticize them for not having what they can only request.
+In scripture those who supposedly were “baptized in the Spirit with the
+evidence of speaking in languages” did not ask for that experience, much less
+agonize in prayer to get it.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                              <u>Theologically
+speaking</u>, the most serious problem with claiming the necessity of speaking in
+languages is that it does the same thing as all other aberrations in church
+history: it draws attention away from the interpersonal nature and purpose of
+the gospel to something non-interpersonaI—in this case something experiential. <u>Practically
+speaking</u>, the necessity of speaking in languages can establish an elitism
+among believers that divides the body and weakens its witness. It diverts
+attention from the essential point—reconciliation to God through Christ and
+spiritual fruit as the mark of the Spirit-filled life. <u>Spiritually speaking</u>,
+it sows unfounded doubts in the hearts of sincere believers who want to be and
+have everything God requires and gives. Not having some special experience
+implies that a person is lost, a most disconcerting thought to spiritually
+sensitive souls. <u>Psychologically speaking</u>, if it does not drive them to
+despair or disillusion them about the faith, it fosters the tendency to
+misidentify speaking in languages with overcoming the adult inhibition against
+babbling.</span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                                                                                                                                         
+christir.org</span></p>
+</div>

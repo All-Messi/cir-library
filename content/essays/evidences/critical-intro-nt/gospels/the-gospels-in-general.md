@@ -10,69 +10,224 @@ title: THE GOSPELS IN GENERAL
 weight: 3
 ---
 
+<style>
+/* Font Definitions */
+ @font-face
+	{font-family:"Tms Rmn";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+ /* Style Definitions */
+ .word-content p.MsoNormal, .word-content li.MsoNormal, 
+.word-content .MsoChpDefault
+	{font-family:"Tms Rmn",serif;}
+ /* Page Definitions */
+</style>
 
+<div class="word-content">
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
+margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><b><span
+style='font-size:14.0pt'>THE GOSPELS IN GENERAL</span></b></p>
 
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
+margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><b><span
+style='font-size:12.0pt'>&nbsp;</span></b></p>
 
-I. Form
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
+margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
+style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
 
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
+margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-A. Large portions cover the triumphal entry to the ascension: Matthew <strong>21-28</strong>, Mark
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
+margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
+style='font-size:12.0pt'> </span></p>
 
-<strong>11-16</strong>, Luke <strong><sup>19</sup></strong>:29-<strong><sup>24</sup></strong>:53, John <strong>12-21</strong>
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'> I. Form</span></p>
 
-B. Principle of selectivity: materials that show him as Messiah
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      </span></p>
 
-C. Emphasis on the resurrection: note Acts <strong><sup>4</sup></strong>:33; Romans <strong><sup>1</sup></strong>:1-7; 1 Corinthians
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            A. Large portions cover the triumphal
+entry to the ascension: Matthew <b>21-28</b>, Mark</span></p>
 
-<strong><sup>15</sup></strong>:1-11
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  <b>11-16</b>, Luke <b>19</b>:29-<b>24</b>:53,
+John <b>12-21</b></span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            B. Principle of selectivity: materials
+that show him as Messiah</span></p>
 
-History in general, much less a “gospel” in particular, is neither a stream of consciousness nor a complete record. It is a selective account that operates like a dot-to-dot, moving from one direction-setting event to the next.
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            C. Emphasis on the resurrection: note Acts
+<b>4</b>:33; Romans <b>1</b>:1-7; 1 Corinthians </span></p>
 
-The gospels are more specialized than biographies. (1) The gospels do not give an even treatment of Jesus’ whole life. They deal mainly with his ministry, with only Matthew and Luke recording anything about his birth. Luke adds an account of his trip to Jerusalem at twelve years of age. (2) The gospels do not treat the ministry evenly either; they concentrate on the death-resurrection-appearances segment.
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                 <b>15</b>:1-11</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            History in general, much less a “gospel”
+in particular, is neither a stream of consciousness nor a complete record. It
+is a selective account that operates like a dot-to-dot, moving from one
+direction-setting event to the next.    </span></p>
 
-II. Purpose: Luke <strong><sup>1</sup></strong>:1-4; John<strong> 20</strong>:30-31 (cp. <strong><sup>21</sup></strong>:24-25); Acts <strong><sup>4</sup></strong>:33
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            The gospels are more specialized than
+biographies. (1) The gospels do not give an even treatment of Jesus’ whole life.
+They deal mainly with his <u>ministry</u>, with only Matthew and Luke recording
+anything about his birth. Luke adds an account of his trip to Jerusalem at
+twelve years of age. (2) The gospels do not treat the ministry evenly either;
+they concentrate on the <u>death-resurrection-appearances</u> segment. </span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>     </span></p>
 
-A. Apologetic: <em>“Everything that Jesus began to do . . .”</em> (Acts <strong><sup>1</sup></strong>:1)
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'> II. Purpose: Luke <b>1</b>:1-4; John<b> 20</b>:30-31
+(cp. <b>21</b>:24-25); Acts <b>4</b>:33</span></p>
 
-1. To lay a basis for Jesus as the Messiah (Matthew<strong> 16</strong>:16; Mark<strong> 1</strong>:1; John
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                       </span></p>
 
-<strong><sup>20</sup></strong>:30-31)
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            A. Apologetic: <i>“Everything that Jesus
+began to do . . .”</i> (Acts <b>1</b>:1)</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      </span></p>
 
-a. Engendering faith (John <strong><sup>20</sup></strong>:31?)
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  1. To lay a basis for Jesus as the
+Messiah (Matthew<b> 16</b>:16; Mark<b> 1</b>:1; John </span></p>
 
-b. Confirming faith (Luke <strong><sup>1</sup></strong>:4)
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                        <b>20</b>:30-31)</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-Despite their apologetic purpose, they are all anonymous works. It is easier for tradition to preserve the knowledge about authorship than to preserve the knowledge about his ministry itself.
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                        a. Engendering faith (John <b>20</b>:31?)</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                        b. Confirming faith (Luke <b>1</b>:4)</span></p>
 
-2. To give written basis for believing in Jesus as Messiah: Luke <strong><sup>1</sup></strong>:4
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      </span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                        Despite their apologetic
+purpose, they are all anonymous works. It is easier for tradition to preserve
+the knowledge about authorship than to preserve the knowledge about his
+ministry itself.</span></p>
 
-They assisted proclamation in Palestine, where some of the events had been seen by different parts of the populus. They assisted thereafter in proclamation in Jewish centers outside the homeland and to Gentile that had no other access to the events of Christ’s life.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  2. To give <u>written</u> basis for
+believing in Jesus as Messiah: Luke <b>1</b>:4</span></p>
 
-3. To replace the oral testimony of dying eyewitnesses
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
+margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
+style='font-size:12.0pt'><img width=163 height=99
+src="/cir-library/images/essays/the-gospels-in-general/image001.png"></span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                        They assisted proclamation in
+Palestine, where some of the events had been seen by different parts of the populus.
+They assisted thereafter in proclamation in Jewish centers outside the homeland
+and to Gentile that had no other access to the events of Christ’s life.</span></p>
 
-B. 	Didactic/catechetical: <em>Everything that Jesus began to . . . teach”</em> (Acts <strong><sup>1</sup></strong>:1): to serve as a teaching base
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  3. To replace the oral testimony of
+dying eyewitnesses</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-III. Occasion
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            B.  Didactic/catechetical: <i>Everything
+that Jesus began to . . . teach”</i> (Acts<i> </i><b>1</b>:1): to serve as a
+teaching base</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-A. The imminent death of the apostles
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-B. The Gentile mission
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'> III. Occasion</span></p>
 
-C. The delay in Christ’s return (?)
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            A. The imminent death of the apostles</span></p>
 
-christir.org
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            B. The Gentile mission</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            C. The delay in Christ’s return (?)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:11.0pt'>christir.org</span></p>
+</div>

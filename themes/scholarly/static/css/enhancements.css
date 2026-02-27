@@ -1305,3 +1305,27 @@ html body .hero .lead strong {
     color: #9c7c38 !important;
     font-weight: 600 !important;
 }
+
+/* ── Word HTML content fixes ── */
+.word-content {
+    overflow-x: hidden;
+    max-width: 100%;
+}
+.word-content p,
+.word-content div,
+.word-content span {
+    margin-right: 0 !important;
+}
+.word-content img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* When TOC is absent, make essay-content single column */
+.essay-content:not(:has(.toc)) {
+    grid-template-columns: 1fr;
+}
+.essay-content:not(:has(.toc)) .content-body {
+    max-width: 800px;
+    margin: 0 auto;
+}

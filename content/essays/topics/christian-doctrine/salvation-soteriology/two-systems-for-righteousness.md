@@ -10,65 +10,192 @@ title: TWO SYSTEMS FOR RIGHTEOUSNESS
 weight: 3
 ---
 
-<strong>LAW</strong> [Moses]	<strong>GRACE</strong> [Messiah] (IP)
+<style>
+/* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+ /* Style Definitions */
+ .word-content p.MsoNormal, .word-content li.MsoNormal, 
+p.MsoHeader, li.MsoHeader, 
+span.HeaderChar
+	{mso-style-name:"Header Char";
+	mso-style-link:Header;}
+.word-content .MsoChpDefault
+	{font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+.MsoPapDefault
+	{margin-bottom:10.0pt;
+	line-height:115%;}
+ /* Page Definitions */
+</style>
 
-Purpose of both: human righteousness (Gal. <strong><sup>3</sup></strong>:21)
+<div class="word-content">
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>TWO
+SYSTEMS FOR RIGHTEOUSNESS</span></b></p>
 
-Righteousness is for fellowship
+<p class=MsoNormal align=center style='text-align:center'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
+Warren, PhD</span></p>
 
-with God and other people (IP).
+<p class=MsoNormal style='margin-bottom:0in'><span style='font-size:12.0pt;
+line-height:115%;font-family:"Times New Roman",serif'>                                    <b>LAW</b>
+[Moses]                                                 <b>GRACE</b> [Messiah]
+(IP)</span></p>
 
-Law and grace are parallel1 as to identity and kind
+<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Purpose
+of both: human righteousness (Gal. <b>3</b>:21)</span></p>
 
-(Jer. <strong><sup>31</sup></strong>:31-34 <Heb. <strong><sup>8</sup></strong>:7-<strong><sup>10</sup></strong>:18; John <strong><sup>1</sup></strong>:17; Rom <strong><sup>4</sup></strong>:13-14; Gal. <strong><sup>3</sup></strong>:21).
+<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Righteousness
+is for fellowship</span></p>
 
+<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>with
+God and other people (IP).</span></p>
 
-Principle of personal perfection (1 person)	Principle of <strong>trust</strong> in another to consider us
+<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Law
+and grace are parallel<sup>1</sup> as to identity and kind</span></p>
 
-Deut <strong><sup>27</sup></strong>:26; Lev. <strong><sup>18</sup></strong>:5 (<strong>works</strong>	as perfect (Gen. <strong><sup>15</sup></strong>:6; Hab <strong><sup>2</sup></strong>:4)
+<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(Jer.
+<b>31</b>:31-34 &lt;Heb. <b>8</b>:7-<b>10</b>:18; John <b>1</b>:17; Rom <b>4</b>:13-14;
+Gal. <b>3</b>:21).</span></p>
 
-to produce goodness); righteousness is	one repents;  	the other forgives
+<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
-perfect righteousness: “continue to do all.”	one trusts;		the other gives grace
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Principle
+of personal perfection (1 person)</span><span style='font-size:14.0pt;
+line-height:115%;font-family:"Times New Roman",serif'>            </span><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Principle
+of <b>trust</b> in another to consider us</span></p>
 
-one commits to Christ; Christ accepts
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
+style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Deut
+<b>27</b>:26; Lev. <b>18</b>:5 (<b>works</b>                                    as
+perfect (Gen. <b>15</b>:6; Hab <b>2</b>:4)</span></p>
 
-Regarding as righteous is possible (Ps. <strong><sup>32</sup></strong>:1-
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            to
+produce goodness); righteousness is                one repents;           the
+other forgives</span></p>
 
-2 < Rom. <strong><sup>4</sup></strong>:6-8).
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            perfect
+righteousness: “<u>continue</u> to do <u>all</u>.”         one trusts;             the
+other gives grace</span></p>
 
-No righteousness under law
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                          one
+commits to Christ; Christ accepts</span></p>
 
-a. cannot be perfect (Ps. & Is. < Rom <strong><sup>3</sup></strong>)	Regarding as righteous based on
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.5in;text-align:justify'><span style='font-size:12.0pt;line-height:
+115%;font-family:"Times New Roman",serif'>                                                                        Regarding
+as righteous is possible (Ps. <b>32</b>:1-</span></p>
 
-b. cannot become perfect (Gal. <strong><sup>5</sup></strong>:1)	aspiration counted for achievement,
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.5in;text-align:justify'><span style='font-size:12.0pt;line-height:
+115%;font-family:"Times New Roman",serif'>                                                                              2
+&lt; Rom. <b>4</b>:6-8).</span></p>
 
-c. no transfer of perfection (Lev. <strong><sup>18</sup></strong>:5)	repentance (cp. John the Baptist),
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>No
+righteousness under law                                       </span></p>
 
-d. cannot rely on ancestry, race, nation,	faith in/trust Christ’s righteousness,
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            a.
+cannot <u>be</u> perfect (Ps. &amp; Is. &lt; Rom <b>3</b>)        Regarding as
+righteous based on</span></p>
 
-circumcision	commitment to him who is righteous,
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            b.
+cannot <u>become</u> perfect (Gal. <b>5</b>:1)                     aspiration
+counted for achievement,</span></p>
 
-e. cannot rely on revelation/knowing	conscience (unevangelized; Rom. <strong><sup>2</sup></strong>:12ff;
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            c.
+no <u>transfer</u> of perfection (Lev. <b>18</b>:5)                 repentance
+(cp. John the Baptist),</span></p>
 
-(law only defines good: Gal. <strong><sup>3</sup></strong>:19; 		Golden Rule living; Mt. <strong><sup>7</sup></strong>:12)
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            d.
+cannot rely on ancestry, race, nation,               faith in/trust Christ’s
+righteousness,</span></p>
 
-Rom.<strong> 5</strong>:20)	All salvation figured relative to Christ:
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>               
+circumcision                                                     commitment to
+him who <u>is</u> righteous,</span></p>
 
-f. sacrifices ineffective (Heb. <strong><sup>10</sup></strong>:4)	after him (Acts<strong> 4</strong>:12; no other name),
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            e.
+cannot rely on revelation/knowing                   conscience (unevangelized;
+Rom. <b>2</b>:12ff;</span></p>
 
-g. no one to regard us as good (Rom.<strong> 4</strong>:4)	Mosaic period (Heb.<strong> 9</strong>:15),
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                 (law
+only defines good: Gal. <b>3</b>:19;                   <b>      </b>Golden Rule
+living; Mt. <b>7</b>:12)</span></p>
 
-Gentiles and Jews unrighteous (Rom. <strong><sup>3</sup></strong>:19, 23)	patriarchal period (1 Pet. <strong><sup>3</sup></strong>:18-21; <strong><sup>4</sup></strong>:6
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                 Rom.<b>
+5</b>:20)                                                 All salvation figured
+relative to Christ:</span></p>
 
-Jews only relatively good: Lk. <strong><sup>1</sup></strong>:6; Phil. <strong><sup>3</sup></strong>:6	(hence, do not have to know about
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            f.
+sacrifices ineffective (Heb. <b>10</b>:4)                      after him (Acts<b>
+4</b>:12; no other name),</span></p>
 
-him to be saved by him).
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            g.
+no one to regard us as good (Rom.<b> 4</b>:4)           Mosaic period (Heb.<b>
+9</b>:15),</span></p>
 
-no boasting (Rom.<strong> 3</strong>:27)	no pride
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Gentiles
+<u>and</u> Jews unrighteous (Rom. <b>3</b>:19, 23)         patriarchal period
+(1 Pet. <b>3</b>:18-21; <b>4</b>:6</span></p>
 
-absolute scale judgment	sliding-scale judgment
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Jews
+only relatively good: Lk. <b>1</b>:6; Phil. <b>3</b>:6                    (hence,
+do not have to know about </span></p>
 
-<sup>1</sup>Alternative systems means that law and grace are not the same thing, do not overlap, or lie one within the other. Righteousness by Messiah does not operate within law, only during law. Judaizers were evidently taking Israel’s Messiah as fulfilling the Law so that Gentiles by identifying with him were in turn to identify with Israel by circumcision as still required to be saved (Acts <strong><sup>15</sup></strong>:1). There would still be no salvation outside of national Israel; so to the Judaizers, grace amended the Law, not replaced it.
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                him
+to be saved by him).</span></p>
 
-christir.org
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      no
+boasting (Rom.<b> 3</b>:27)                                       no pride</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      absolute
+scale judgment                                       sliding-scale judgment</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><sup><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>1</span></sup><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Alternative
+systems means that law and grace are not the same thing, do not overlap, or lie
+one within the other. Righteousness by Messiah does not operate <u>within</u>
+law, only <u>during</u> law. Judaizers were evidently taking Israel’s Messiah
+as fulfilling the Law so that Gentiles by identifying with him were in turn to identify
+with Israel by circumcision as still required to be saved (Acts <b>15</b>:1).
+There would still be no salvation outside of national Israel; so to the
+Judaizers, grace amended the Law, not replaced it.</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                                                          
+</span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
+</div>

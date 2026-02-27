@@ -10,111 +10,274 @@ title: OVERVIEW OF CREATION AND EVOLUTION
 weight: 3
 ---
 
+<style>
+/* Font Definitions */
+ @font-face
+	{font-family:"Tms Rmn";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:Helv;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+ /* Style Definitions */
+ .word-content p.MsoNormal, .word-content li.MsoNormal, 
+.word-content .MsoChpDefault
+	{font-family:"Tms Rmn",serif;}
+ /* Page Definitions */
+ 
+
+ /* List Definitions */
+ ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+</style>
 
+<div class="word-content">
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
+style='font-size:14.0pt'>OVERVIEW OF CREATION AND EVOLUTION</span></b></p>
 
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
+style='font-size:12.0pt'>&nbsp;</span></b></p>
 
-I.	Preliminary Definitions and Concepts
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
+style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
 
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-A.	God: label for ultimate reality
+<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>    I. Preliminary Definitions and Concepts</span></p>
 
-B.	God’s relationship to the universe
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                  A.  God: label for ultimate reality</span></p>
 
-1.	Natural imminence: God is not distinct in kind from the universe.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                  B.  God’s relationship to the
+universe</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                        1.   Natural imminence: God is
+not distinct in kind from the universe.</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-*2.	Natural transcendence: God is distinct from the universe. Overlapping in immanence has to do with availability; overlapping in kind has to do with personal creation.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                      <img width=298 height=90
+src="/cir-library/images/essays/overview-of-creation-and-evolution/image001.png"></span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                     *2.    Natural transcendence: God
+is distinct in kind from the universe.</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                    <img width=60 height=77
+src="/cir-library/images/essays/overview-of-creation-and-evolution/image002.png"></span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>            </span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                  C.  Change</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+-135.0pt'><span style='font-size:12.0pt'>                                                                     1.   Modification:
+change without increasing the number of harmoniously </span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+-135.0pt'><span style='font-size:12.0pt'>                                                                           integrated
+factors.</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+-153.0pt'><span style='font-size:12.0pt'>                                                                        
+*2.   Complexification: change with increasing the number of harmoniously </span></p>
 
-C.	Change
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+-153.0pt'><span style='font-size:12.0pt'>                                                                                 integrated
+factors.</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-1.  	Modification: change without increasing the number of factors.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                  D.  Causation</span></p>
 
-*2.	Complexification: change with increasing the number of actors.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                        1.   Natural cause: an effect
+produced by a cause inside nature.</span></p>
 
-D.	Causation
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                      *2.   Miracle: an effect
+produced by a cause outside nature.</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-1.	Natural cause: an effect produced by a cause inside nature.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                  E.   Creationism: complexification
+via factor(s) external to the natural realm.</span></p>
 
-*2.	Miracle: an effect produced by a cause outside of nature, above nature,						supernatural; not just a different way, but different kind of way.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                  F.   Evolution: complexification via
+factor(s) internal to the natural realm.</span></p>
 
-E.	Creationism: complexification via factor(s) external to the natural realm.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-F.	Evolution: complexification via factor(s) internal to the natural realm.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                        1.   Micro-evolution: demonstrable
+change in matters of degree</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                      *2.   Macro-evolution: extrapolated
+change into matters of kind.</span></p>
 
-1.	Micro-evolution: demonstrable change in matters of degree
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-*2.	Macro-evolution: extrapolated change into matters of kind.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>    II. Models of Creation</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-II.	Models of Creation
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                  Creation involves transcendent deity
+that, among other acts, brings mass/energy into existence from nothing and
+complexifies by miracle irrespective of time rate. The natural order has a
+finite beginning and possesses order because of the common Mind that lies
+behind the origin of &quot;parts&quot; whether created directly from nothing
+(fiat) or using previously existing created mass/energy.</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-Creation involves transcendent deity that, among other acts, brings mass/energy into existence from nothing (Hebrew<strong> 11</strong>:3) and complexifies by miracle irrespective of time rate. The natural order has a finite beginning and possesses order because of the common Mind that lies behind the origin of “parts” whether created directly from nothing (fiat) or using previously existing created mass/energy (progressive).
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                  A.  Short-term creationism</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-A. 	Short-term creationism
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+-117.0pt'><span style='font-size:12.0pt'>                                                               1.   Type
+A: creation from nothing to final form in approximately a week’s time; </span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+-117.0pt'><span style='font-size:12.0pt'>                                                                     earth’s
+age is in the order of 10,000 to 30,000 years.</span></p>
 
-1.  	Type A: creation from nothing to final form in a week’s span; earth's age is in the order of 10,000 to 30,000 years.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+-117.0pt'><span style='font-size:12.0pt'>                                                               2.   Type
+B:  same as above except that creative process occurred in terms of years, and
+the earth’s age is longer in varying degrees according to the theorist’s
+framework.</span></p>
 
-2.	Type B: same as Type A except that the creative process occurred in unspecified length of time; the earth’s age is longer in varying degrees according to the theorist’s construction. The antiquity of humankind extends back to some degree, but the antiquity of non-human origins is indefinite.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                  B.  Long-term creationism</span></p>
 
-B.	Long-term creationism
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+-166.5pt'><span style='font-size:12.0pt'>                                                                                3.   Ruin-reconstruction:
+the present form of the earth is one of several </span></p>
 
-3.	Ruin-reconstruction: the present form of the earth is one of several destructions followed by new beginnings of divine creativity.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+-166.5pt'><span style='font-size:12.0pt'>                                                                                            destructions
+followed by new beginnings of divine creativity.</span></p>
 
-4.	Progressive Creationism Type A: polyphyletic
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                        4.   Progressive Creationism
+Type A: polyphyletic</span></p>
 
-5.	Progressive Creationism Type B: monophyletic
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                        5.   Progressive Creationism
+Type B: monophyletic</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-III. Models of Evolution
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>  III. Models of Evolution</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-Evolution is endogenous complexification over time by laws operating without beginning or end.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                  Evolution is complexification over
+time by internal natural laws operating with or </span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                  without beginning or end.</span></p>
 
-A.	Relative to God
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                  A.  Relative to God</span></p>
 
-1.	Theistic evolution: transcendent deity is only involved in the creation from nothing and by building into the natural order the potentials for nature’s complexifying itself.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                  </span></p>
 
-2.	Atheistic evolution: mass/energy is eternal and self-complexifying. (If the view of God is not that of transcendent deity, then atheistic is the same as theistic (pantheism), but no external causation is involved; hence, it is not called “creation” even if something new comes about naturally.
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+-171.0pt'><span style='font-size:12.0pt'>                                                                                 1.   Theistic
+evolution: transcendent deity is only involved in the creation from nothing and
+by building into the natural order the principles potential for nature’s
+complexifying itself.</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+-171.0pt'><span style='font-size:12.0pt'>                                                                                 2.   Atheistic
+evolution: mass/energy is eternal and self-complexifying. (If the view of God
+is not that of transcendent deity, then what we call atheistic is also theistic
+but no external causation is involved; hence, we do not call it “creation” even
+if something new comes about.)</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
-B.	As to pattern: assorted terms
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                  B.  As
+to pattern: assorted terms</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-1.	Emergent evolution
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        1.   Emergent
+evolution</span></p>
 
-2.	Punctuated equilibrium
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        2.   Punctuated
+equilibrium</span></p>
 
-3.	Vitalism
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        3.   Vitalism</span></p>
 
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-The creation-evolution controversy is important to Christians because evolution is an alternative, non-theistic explanation of cosmogony and cosmology, which if successful eliminates any need for a supernatural explanation of life. Furthermore, it reduces life to a materialistic base with implicit meaninglessness because of lacking purpose. Evolution is yet one more example of humans’ needless departure from a knowledge of the truth about God, nature, and humankind (Romans <strong><sup>1</sup></strong>).
-
-
-christir.org
+<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:11.0pt'>christir.org</span></p>
+</div>

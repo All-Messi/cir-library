@@ -10,48 +10,182 @@ title: PEG DATES FOR NEW TESTAMENT STUDIES
 weight: 3
 ---
 
+<style>
+/* Font Definitions */
+ @font-face
+	{font-family:"Tms Rmn";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+ /* Style Definitions */
+ .word-content p.MsoNormal, .word-content li.MsoNormal, 
+.word-content .MsoChpDefault
+	{font-family:"Tms Rmn",serif;}
+ /* Page Definitions */
+</style>
 
+<div class="word-content">
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
+margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><b><span
+style='font-size:14.0pt'>PEG DATES FOR NEW TESTAMENT STUDIES</span></b></p>
 
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.75in;
+margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
+style='font-size:10.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.75in;
+margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
+style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
 
-A.D.	34 (perhaps 37)	Accession of Aretas	Paul’s   conversion   had   to   follow   this 				date (Gal. <strong><sup>1</sup></strong>:17-18; 2 Cor. <strong><sup>11</sup></strong>:32).
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.75in;
+margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
 
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.75in;
+margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
+style='font-size:8.0pt'>&nbsp;</span></p>
 
-36	Pontius Pilate deposed	Does   the   absence   of   a   procurator   in 				Palestine  account  for  the  possibility  of				executing      Stephen     and     of     Paul’s 				putting   others   to  death?   (Acts  <strong><sup>7</sup></strong>:1-<strong><sup>8</sup></strong>:3; 				<strong><sup>9</sup></strong>:1-2; <strong><sup>26</sup></strong>:9-11)
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.75in;
+margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
+style='font-size:10.0pt'>&nbsp;</span></p>
 
-40	Death of Aretas
+<p class=MsoNormal style='margin-top:0in;margin-right:-.75in;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:10.5pt'>A.D.          34 (perhaps 37)       Accession of
+Aretas               Paul’s   conversion   had   to   follow   this                                      date
+(Gal. <b>1</b>:17-18; 2 Cor. <b>11</b>:32).</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.75in;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:10.5pt'>&nbsp;</span></p>
 
-44	Death of Herod Agrippa I	Paul’s  first   missionary   journey   had   to 				follow  this  date. (Acts <strong><sup>12</sup></strong>:20-23 recounts				his death + <strong><sup>13</sup></strong>:1-<strong><sup>14</sup></strong>:28 records the tour.)
+<p class=MsoNormal style='margin-top:0in;margin-right:-.75in;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:10.5pt'>                 36                         Pontius
+Pilate deposed            Does   the   absence   of   a   procurator   in                                     Palestine
+ account  for  the  possibility  of                                                                                           executing
+     Stephen     and     of     Paul’s                                     putting
+  others   to  death?   (Acts  <b>7</b>:1-<b>8</b>:3;                                                                                           <b>9</b>:1-2;
+<b>26</b>:9-11)</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.75in;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:10.5pt'>                 40                         Death of
+Aretas</span></p>
 
-46-48	Proconsulship of Alexander	Famine    conditions    existed    in    Judaea				during this time; hence, the famine visit of 				Paul and Barnabas fits this time period.
+<p class=MsoNormal style='margin-top:0in;margin-right:-.75in;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:10.5pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.75in;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:10.5pt'>                 44                         Death of
+Herod Agrippa I       Paul’s  first   missionary   journey   had   to                                     follow
+ this  date. (Acts <b>12</b>:20-23 recounts                                                                                          his
+death + <b>13</b>:1-<b>14</b>:28 records the tour.)</span></p>
 
-49	Claudius’ edict banning 	Paul’s   work   in   Corinth   involved   the 		   	  Jews from Rome 	conversion of Aquila and Priscilla, “lately 				come from Italy” (<strong><sup>18</sup></strong>:1-3).
+<p class=MsoNormal style='margin-top:0in;margin-right:-.75in;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:10.5pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.75in;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:10.5pt'>                 46-48                    Proconsulship
+of Alexander     Famine    conditions    existed    in    Judaea                                    during
+this time; hence, the famine visit of                                                                                           Paul
+and Barnabas fits this time period.</span></p>
 
-May 51-May 52	Gallio’s proconsulship in 	Paul’s   first   time   in   Corinth  coincided 		  	  Corinth 	with his proconsulship (Acts <strong><sup>18</sup></strong>:12-17).
+<p class=MsoNormal style='margin-top:0in;margin-right:-.75in;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:10.5pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.75in;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:10.5pt'>                 49                         Claudius’
+edict banning          Paul’s   work   in   Corinth   involved   the                             Jews
+from Rome           conversion of Aquila and Priscilla, “lately                                                                                come
+from Italy” (<b>18</b>:1-3).</span></p>
 
-53  	Earliest date for the mar-	Paul’s appearance before Felix just before 		  	  riage of Felix to Drusilla	the  accession  of  Festus  could  not  have 				preceded A.D. 53 (Acts <strong><sup>24</sup></strong>:24-27).
+<p class=MsoNormal style='margin-top:0in;margin-right:-.75in;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:10.5pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-right:-.75in;text-align:justify'><span
+style='font-size:10.5pt'>  May 51-May 52                          Gallio’s
+proconsulship in        Paul’s   first   time   in   Corinth  coincided                            Corinth
+           with his proconsulship (Acts <b>18</b>:12-17).                 </span></p>
 
-Oct.  13,  54	Death of Claudius	The return of Jews to Rome had to precede 				the writing of Romans.
+<p class=MsoNormal style='margin-top:0in;margin-right:-.75in;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:10.5pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.75in;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:10.5pt'>                 53                         Earliest
+date for the mar-         Paul’s appearance before Felix just before                             riage
+of Felix to Drusilla            the  accession  of  Festus  could  not  have                                                                     preceded
+A.D. 53 (Acts <b>24</b>:24-27).</span></p>
 
-60	Destruction of Laodecia  	The  latest  time  for  the  writing of Paul’s 		   	  and Colossae by an 	letter to Colossae from the first year of the 		  	  earthquake 	first Roman imprisonment (?)
+<p class=MsoNormal style='margin-top:0in;margin-right:-.75in;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:10.5pt'>                                               </span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.75in;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:10.5pt'>  Oct.  13,  54                          Death of
+Claudius                  The return of Jews to Rome had to precede                                     the
+writing of Romans.</span></p>
 
-62	Death of Festus	Paul’s  appearance  before  him  had to be 				before this date (Acts <strong><sup>24</sup></strong>:24-27).
+<p class=MsoNormal style='margin-top:0in;margin-right:-.75in;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:10.5pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.75in;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:10.5pt'>                 60                         Destruction
+of Laodecia          The  latest  time  for  the  writing of Paul’s                            and
+Colossae by an       letter to Colossae from the first year of the                                                                                   earthquake
+      first Roman imprisonment (?)</span></p>
 
-July 19,  64	The burning of Rome under 	Paul’s  death   under   Nero  could  not  be 		   	Nero 	earlier than this date (1 Clement 5-6).
+<p class=MsoNormal style='margin-top:0in;margin-right:-.75in;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:10.5pt'>&nbsp;</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.75in;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:10.5pt'>                 62                         Death of
+Festus                      Paul’s  appearance  before  him  had to be                                       before
+this date (Acts <b>24</b>:24-27).</span></p>
 
-70	Jerusalem destroyed by the
+<p class=MsoNormal style='margin-top:0in;margin-right:-.75in;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:10.5pt'>&nbsp;</span></p>
 
-Romans
+<p class=MsoNormal style='margin-top:0in;margin-right:-.75in;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:10.5pt'>    July 19,  64                         The burning
+of Rome under     Paul’s  death   under   Nero  could  not  be                          Nero
+    earlier than this date (1 Clement 5-6).</span></p>
 
+<p class=MsoNormal style='margin-top:0in;margin-right:-.75in;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:10.5pt'>&nbsp;</span></p>
 
-christir.org
+<p class=MsoNormal style='margin-top:0in;margin-right:-.75in;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:10.5pt'>                 70                         Jerusalem
+destroyed by the </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.75in;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:10.5pt'>                                                Romans</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.75in;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:10.5pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.75in;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:11.0pt'>christir.org</span></p>
+</div>

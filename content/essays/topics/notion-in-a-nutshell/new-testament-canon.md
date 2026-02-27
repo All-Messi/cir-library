@@ -9,6 +9,45 @@ title: NEW TESTAMENT CANON
 weight: 2
 ---
 
-The canonical books of the New Testament consist of those that were written by close acquaintances of Christ who witnessed his resurrection (apostolicity), those that were accepted across the whole church (catholicity), and those that represent a consistent viewpoint on teaching and practice (doctrinal harmony). They contrast with books written later, books of unknown origin, books accepted in small areas of the Roman empire, and those with doctrines of faith and practice that diverge widely from the canonical books.
+<style>
+/* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+ /* Style Definitions */
+ .word-content p.MsoNormal, .word-content li.MsoNormal, 
+p.MsoHeader, li.MsoHeader, 
+span.HeaderChar
+	{mso-style-name:"Header Char";
+	mso-style-link:Header;}
+.word-content .MsoChpDefault
+	{font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+.MsoPapDefault
+	{margin-bottom:10.0pt;
+	line-height:115%;}
+ /* Page Definitions */
+</style>
 
-Virgil Waren     christir.org
+<div class="word-content">
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>NEW
+TESTAMENT CANON</span></b></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:.5in'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The
+canonical books of the New Testament consist of those that were written by
+close acquaintances of Christ who witnessed his resurrection (apostolicity),
+those that were accepted across the whole church (catholicity), and those that
+represent a consistent viewpoint on teaching and practice (doctrinal harmony). They
+contrast with books written later, books of unknown origin, books accepted in
+small areas of the Roman empire, and those with doctrines of faith and practice
+that diverge widely from the canonical books.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
+line-height:115%;font-family:"Times New Roman",serif'>Virgil Waren     </span><span
+style='font-family:"Times New Roman",serif'>christir.org</span></p>
+</div>

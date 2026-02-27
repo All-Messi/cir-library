@@ -9,4304 +9,16659 @@ title: BIBLICAL FIGURES OF SPEECH
 weight: 2
 ---
 
-
-
-
-( ) = observations not expressly made by scripture itself
-
-Boldface headings represent clusters of images.
-
-* means the concordance has been used to create the list
-
-
-Note distinction between figures of speech and figures of thought.
-
-Note also the distinction between schemes (figures of thought) and tropes (= figures of words).
-
-Figures of thought are represented by parables, allegories, Christ-Adam parallel, Hagar-Sarah, and so on. The words are literal, but their referent is substituted for the reality you mean. Hugh Blair, <em>Lectures on Rhetoric and Belles Littres</em> (Vol. 1). Carbondale, IL: SIU Press, 1965. 275 pp.
-
-
-
-<strong>Part I: The Images Used</strong>
-
-
-Abide/abode
-
-
-Being in fellowship with
-
-
-<strong><u>Abraham-Isaac-Jacob, events surrounding the life of</u></strong>
-
-
-Hagar-Sarah (Galatians <strong><sup>4</sup></strong>:21-31)
-
-Abraham-Isaac-Jacob (Romans <strong><sup>9</sup></strong>:6-13)
-
-Esau-Jacob (Hebrews <strong><sup>12</sup></strong>:17)
-
-Jacob’s Ladder: Jesus identifies himself with Jacob’s Ladder (John <strong><sup>1</sup></strong>:51).
-
-Abraham was reckoned righteous at a time before circumcision was instituted (Romans
-
-<strong><sup>4</sup></strong>:10-13).
-
-Abraham’s sojourning in Palestine depicts the mentality toward the material world that
-
-Christians have (Hebrews <strong><sup>11</sup></strong>:8-10, 13-16).
-
-
-The Adam-Christ parallel
-
-
-Romans <strong><sup>5</sup></strong>:12-21; 1 Corinthians <strong><sup>15</sup></strong>:21-23, 45-49
-
-
-Adoption
-
-
-Romans <strong><sup>7</sup></strong>:15, 23; Galatians <strong><sup>4</sup></strong>:5-6
-
-
-Adorning
-
-
-Adorning the gospel by good works (Titus<strong> 2</strong>:10)
-
-
-(Adult; see “Full-Grown Man”)
-
-
-*Advocate (Paraclete, Comforter)
-
-
-A Johannine term for the Holy Spirit (John <strong><sup>14</sup></strong>:16, 26; <strong><sup>15</sup></strong>:26; <strong><sup>16</sup></strong>:7)
-
-A Johannine term for Jesus Christ (1 John<strong> 2</strong>:1)
-
-
-Ambassadors
-
-
-2 Corinthians <strong><sup>5</sup></strong>:20; Ephesians <strong><sup>6</sup></strong>:20
-
-
-Anchor (see "Seafaring Imagery”)
-
-
-<strong><u>Animal imageries</u></strong>
-
-
-1 Peter <strong><sup>5</sup></strong>:8 (roaring lion looking for someone to eat); 2 Timothy<strong> 4</strong>:17
-
-
-Camel: <em>“It is easier for a camel to go through a needle’s eye, than for a rich man to enter the kingdom of heaven”</em> (Matthew <strong><sup>19</sup></strong>:23-24; Mark <strong><sup>10</sup></strong>:25; Luke<strong> 18</strong>:25).
-
-
-(Asps; see “Vipers”)
-
-
-Athletic games
-
-
-Boxing (1 Corinthians<strong> 9</strong>:26; 2 Timothy <strong><sup>4</sup></strong>:7?)
-
-Living the Christian life is like running a race (Hebrews<strong> 12</strong>:1-3).
-
-Ministering is like running a race (Galatians <strong><sup>2</sup></strong>:2; 2 Timothy<strong> 4</strong>:7).
-
-Receiving the garland if he contends according to the rules (2 Timothy<strong> 2</strong>:5)
-
-
-Baby
-
-
-In contrast to an adult/full-grown man, one who is a beginner in spiritual instruction
-
-(1 Corinthians <strong><sup>3</sup></strong>:1-2; Hebrews<strong> 5</strong>:13; 1 Peter <strong><sup>2</sup></strong>:2)
-
-
-Babylon
-
-
-A cryptogram for Rome (1 Peter<strong> 5</strong>:13; Revelation <strong><sup>14</sup></strong>:8; <strong><sup>16</sup></strong>:19; <strong><sup>17</sup></strong>:5; <strong><sup>18</sup></strong>:2, 10, 21)
-
-
-Baptism
-
-
-a. 	Cleansing (1 Corinthians<strong> 6</strong>:11?; Ephesians <strong><sup>5</sup></strong>:26?; Titus <strong><sup>3</sup></strong>:5; Hebrews<strong> 10</strong>:22)
-
-b.	Being overwhelmed
-
-Holy Spirit and fire (Matthew<strong> 3</strong>:11 = Mark <strong><sup>1</sup></strong>:8 = Luke <strong><sup>3</sup></strong>:16 = John <strong><sup>1</sup></strong>:33)
-
-Baptism of suffering (Matthew <strong><sup>20</sup></strong>:22-23 = Mark 10:38-39; Luke <strong><sup>12</sup></strong>:50;
-
-1 Corinthians <strong><sup>15</sup></strong>:29?)
-
-Baptism is a burial, picturing the death-resurrection of Jesus Christ, the most distinctive event in his life. Inasmuch as baptism is immersion it pictures burial—burial of the old way of life based in the flesh and the way of life that derives from values based only in fleshly considerations (Romans <strong><sup>6</sup></strong>).
-
-Baptism is done in water, symbolizing cleansing.
-
-In baptism a person is passive, correlating with salvation as grace by the
-
-other.
-
-In baptism the eyes are shut, breathing stops, hearing stops, as in death.
-
-
-c.	Represents the Spirit
-
-John the Baptist uses his baptism in water as an analogy for baptism in the Holy
-
-Spirit.
-
-In 2 Peter<strong> 3</strong>:21 water saves, gives life, as it did to Noah (via buoyancy), so it does now because water gives life: Jesus is a life-giving Spirit (1 Corinthians<strong> 15</strong>). “Water of Life”
-
-
-Barren
-
-
-Fruitless (James <strong><sup>2</sup></strong>)
-
-
-Before/behind
-
-
-Being “behind” someone means letting him be in charge (Matthew <strong><sup>16</sup></strong>:23)
-
-Being “ahead” of someone means being superior or being in charge of (John <strong><sup>1</sup></strong>:30).
-
-
-Beget
-
-
-Incarnation
-
-Resurrection
-
-Enthronement
-
-Conversion
-
-
-(Binding/Loosing; see “Keys”)
-
-
-Birds
-
-
-“Birds gathering around a carcass” is a picture of people gathered around a center of
-
-attention, as at Christ’s return (Luke<strong> 17</strong>:37 = Matthew <strong><sup>24</sup></strong>:28).
-
-
-<strong><u>Birth images</u></strong>
-
-
-Born
-
-Paul speaks of himself as born out of due season, by which he means he was not part of the original cluster of Christ’s appearances. In that respect he is like a lamb or other animal born at the wrong time of the year. It is doubtful that he means premature birth since he compares it to being “later” than expected.
-
-*“Born of woman” means “human being” (Luke<strong> 7</strong>:28; Matthew <strong><sup>11</sup></strong>:11).
-
-Travail represents extreme suffering (Isaiah <strong><sup>13</sup></strong>:8; <strong><sup>21</sup></strong>:3-4; <strong><sup>26</sup></strong>:17-18; Matthew <strong><sup>24</sup></strong>:8 =
-
-Mark <strong><sup>13</sup></strong>:8).
-
-Travail represents extreme suffering in a loving God’s universe (Proverbs <strong><sup>3</sup></strong>:6 >
-
-Hebrews <strong><sup>12</sup></strong>).
-
-Travail in birth is overshadowed by the joy of the child born (John <strong><sup>16</sup></strong>:21-22; Isaiah
-
-<strong><sup>66</sup></strong>:[7-]10-14).
-
-*Travail in childbirth is something that cannot be escaped (1 Thessalonians <strong><sup>5</sup></strong>:3; Hosea
-
-<strong><sup>13</sup></strong>:13; Micah <strong><sup>4</sup></strong>:9-10).
-
-The conversion of someone that a person yearns hard to see change. Paul is in travail
-
-again till Christ be formed in the Galatians (Galatians<strong> 4</strong>:19).
-
-Israel’s rebirth as a nation was quick as a woman delivering before her travail begins
-
-(Isaiah <strong><sup>66</sup></strong>:7-9).
-
-The whole creation suffers waiting for deliverance (Romans<strong> 8</strong>:22).
-
-“Born again,” new birth, regeneration
-
-John <strong><sup>3</sup></strong>:3-7, being “born again” (or “from above”) is being born of the water and the
-
-spirit; it represents beginning again from a different starting point.
-
-Titus <strong><sup>3</sup></strong>:5, a statement associated with baptism, called a “washing of regeneration”
-
-Compare Matthew <strong><sup>19</sup></strong>:28, an end-time statement about the restoration of all things
-
-Paul calls (re)converting someone giving birth to them (Galatians <strong><sup>4</sup></strong>:19).
-
-James <strong><sup>1</sup></strong>:18 says, <em>“Christ gave us birth by the word of truth.”</em>
-
-Christ needs to be reformed in the Galatians, and Paul is in travail till they are
-
-reborn in Christ (Galatians <strong><sup>4</sup></strong>:19).
-
-1 Peter <strong><sup>1</sup></strong>:3 says, <em>“Christ has begotten us again to a living hope.”</em>
-
-
-(Blindness; see “Sight,” “Eyes”)
-
-
-Blood
-
-
-Blood being on someone’s head means his taking responsibility for his death (Matthew
-
-<strong><sup>27</sup></strong>:25, Acts<strong> 5</strong>:28).
-
-Drinking Jesus’ blood represents internalizing his values, power, identity (John <strong><sup>6</sup></strong>:51-
-
-58).
-
-“Born of blood” is an expression for physical birth (John <strong><sup>1</sup></strong>:13).
-
-
-(Blow on; see “Breathe on”)
-
-
-
-<strong>Body figure</strong>
-
-
-Matthew <strong><sup>5</sup></strong>:29-30
-
-1 Corinthians <strong><sup>12</sup></strong>:12-30; <strong><sup>10</sup></strong>:16-17
-
-Romans <strong><sup>12</sup></strong>:3-8
-
-Ephesus <strong><sup>3</sup></strong>:6; <strong><sup>4</sup></strong>:4, 16-17
-
-
-Comparisons involved between the church (a group of people) and a body
-
-a. 	All the parts are needed; there are no jobless organs (no nascent or vestigial
-
-organs)
-
-b.	All the parts are not equally important
-
-c.	All the parts do not do the same things
-
-d.	Some parts are not essential for the existence of the organism although their absence may make it less efficient and effective; not equally important but equally necessary.
-
-e.	Some of the less important parts may nevertheless require more attention to keep them functional. They are parts that we must deliberately do something for (cp. weaker brother)
-
-f.	Unity and harmoniousness of the parts ideally and intentionally
-
-g.	Interdependency
-
-h.	Compenetration
-
-i.	Reciprocal interaction
-
-j.	Diversity
-
-k.	What affects one affects them all; when one hurts they all hurt, so to speak.
-
-l.	The body is a self-(re-)generating system; it <em>“builds </em><em><u>itself</u></em><em> up.”</em>
-
-m.	We should not take the members of the body and make them members of a harlot (1 Corinthians <strong><sup>6</sup></strong>:15-18). Paul calls for sanctity of the one relative to the other in contrast to foreign identification (1 Corinthians <strong><sup>7</sup></strong>:14).
-
-n.	When an eye or hand “offends” you, it is better to amputate it than let it ruin the whole body (Matthew <strong><sup>5</sup></strong>:29-30). Applicable to church discipline (“a little leaven leavens the whole lump”) or perhaps divorce in the home setting.
-
-o.	Weakness or loss of a member can be compensated for to some extent by the intensification of other capacities. The loss of sight increases the sensitivity of hearing and touch. Compensation
-
-p.	The basis of worth lies in making a <em>contribution</em> to the operation of the body, which amounts to love; and that is where Paul moves to in 1 Corinthians <strong><sup>13</sup></strong>, having mentioned the body figure in <strong><sup>12</sup></strong>:12-31. Love is the giving of oneself, or action for the welfare of others—the whole (body). In 1 Corinthians <strong><sup>12</sup></strong> the attributes of the individual members are tied in with the gifts a member has. Those “gifts” are “given” specifically for ministry to the rest. The approach to worth contrasts with <em>competition</em>, as demonstrated in the attitude, <em>“I don’t need you.”</em> The idea is not to get worth by setting others at naught. Worth is (1) a matter of action that fulfills purpose. Worth is also (2) a matter of belonging in contrast to the feeling, <em>“I am not part of the body.”</em> The basic problem among the Corinthians was the competitive mentality that manifested itself in the division problem (Chronicles <strong>1-4</strong>) and in the aberrant use of spiritual gifts.
-
-q.	It is possible to get rid of a part of the body rather than let it ruin the rest.
-
-example of the one and the many
-
-r.	No one organ is the whole thing.
-
-s.	Body figure measures worth in a complementary framework; a person has worth by making the contribution God wants a heart to make (as shown by the way he made it), not by being better than a knee or more indispensable than a fingernail.
-
-t.	Body members do not act for themselves (hence, tongues are not for the
-
-person?).
-
-u.	Some body parts function for/in the body itself; some function for purposes
-
-beyond it.
-
-
-<strong><u>Body parts</u></strong>
-
-
-Feet: putting someone under your feet/footstool means subjecting them (Psalm <strong><sup>110</sup></strong>:1; Matthew <strong><sup>22</sup></strong>:44; <strong><sup>26</sup></strong>:64; Mark <strong><sup>12</sup></strong>:36; <strong><sup>16</sup></strong>:19; Luke <strong><sup>20</sup></strong>:42; Acts <strong><sup>2</sup></strong>:25 (Psalm <strong><sup>16</sup></strong>:8), 34; Hebrews<strong> 1</strong>:13; 1 Corinthians <strong><sup>15</sup></strong>:25, 27)
-
-Eye represents awareness.
-
-Ear represents paying attention to something.
-
-Tongue represents communication.
-
-Face to face/mouth to mouth represents direct contact rather than through an
-
-intermediary.
-
-Hand represents agency;
-
-<em>“Not letting one hand know what the other one is doing” </em>represents doing
-
-something in secret rather than for show.
-
-Right hand represents preferred or privileged position (Psalm <strong><sup>110</sup></strong>:1 < Matthew <strong><sup>22</sup></strong>:44; Mark <strong><sup>12</sup></strong>:36; Luke <strong><sup>20</sup></strong>:42; Acts <strong><sup>2</sup></strong>:25 (Psalm <strong><sup>16</sup></strong>:8), 34; Hebrews <strong><sup>1</sup></strong>:13; <strong><sup>10</sup></strong>:12; 1 Peter <strong><sup>3</sup></strong>:22)
-
-Heart
-
-“Being troubled” means a person is uncertain/fearful/worried (John <strong><sup>14</sup></strong>:1, 27)
-
-= “soul being troubled” (John<strong> 12</strong>:27).
-
-= “troubled in spirit” (John <strong><sup>13</sup></strong>:21).
-
-Hebrew idiom has a general fondness for “body parts” imagery: “every eye will see him” (<em>vs</em>. everyone will see him); “by the hand of” = agency; “face/mouth to mouth/face” = directly; <em>etc</em>.
-
-
-Boxing
-
-
-1 Corinthians <strong><sup>9</sup></strong>:26
-
-
-Bread
-
-
-Food serves as an image for spiritual sustenance (John<strong> 6</strong>:27; Matthew <strong><sup>4</sup></strong>:3-4 = Luke <strong><sup>4</sup></strong>:3-
-
-4). (See also “Blood,” “Flesh,” “Communion.”)
-
-
-Breathing on someone
-
-
-Jesus “breathed on” the disciples in John <strong><sup>20</sup></strong>:22 as a symbolic act that represented the
-
-giving of the Spirit to them (“insufflation,” ἐνεφύσησεν, <em>enephysēsen</em>)
-
-
-(Bridegroom; see “Weddings”)
-
-
-*Bridle
-
-
-Restrain or direct the tongue (James<strong> 1</strong>:26; <strong><sup>3</sup></strong>:2)
-
-
-<strong>Building figures</strong>
-
-
-Cornerstone
-
-Jesus Christ is the cornerstone for the church (Psalm <strong><sup>11</sup></strong>:22; <strong><sup>118</sup></strong>:22-23 + Isaiah <strong><sup>28</sup></strong>:16 < Matthew <strong><sup>21</sup></strong>:42-44; Luke <strong><sup>20</sup></strong>:17-18; Acts <strong><sup>4</sup></strong>:11; Romans <strong><sup>9</sup></strong>:32-33; 1 Peter <strong><sup>2</sup></strong>:6-8; cp. Ephesians <strong><sup>2</sup></strong>:10)
-
-
-Foundation
-
-Parable of the Wise and Foolish Builders (Matthew <strong><sup>7</sup></strong>:24-27 = Luke <strong><sup>6</sup></strong>:46-49)
-
-Christ as the foundation of the church (1 Corinthians<strong> 3</strong>:9-15)
-
-In 1 Corinthians <strong><sup>3</sup></strong> the foundation emphasizes salvation.
-
-In Matthew/Luke Sermon on the Mount/Plain, the foundation emphasizes Christ’s
-
-Lordship.
-
-The apostles and prophets as the foundation of the church with Christ as the
-
-cornerstone (Ephesians <strong><sup>2</sup></strong>:19d-22; cp. Romans<strong> 15</strong>:20)
-
-Jesus nicknames Simon as Peter/Cephas (Matthew <strong><sup>10</sup></strong>:2 = Mark<strong> 3</strong>:16 = Luke <strong><sup>6</sup></strong>:14;
-
-cp. John <strong><sup>1</sup></strong>:42; 2 Timothy <strong><sup>2</sup></strong>:19).
-
-Represents the first principles of Christianity (Hebrews <strong><sup>5</sup></strong>:1)
-
-The fact that Jesus is the Messiah is the foundation on which Christ builds his
-
-church (Matthew <strong><sup>18</sup></strong>:17-18).
-
-Peter’s name meant “rock,” and he was so named by Jesus (Matthew <strong><sup>4</sup></strong>:18; <strong><sup>10</sup></strong>:2; <strong>John 1</strong>:40-42) as a picture of a good foundation like the large rock that Caesarea was built on (Matthew <strong><sup>16</sup></strong>:13ff.).
-
-
-Prominent people in the church are like pillars* in a building (Galatians <strong><sup>2</sup></strong>:9; cp.
-
-Revelation<strong> 3</strong>:12; cp. 1 Timothy <strong><sup>3</sup></strong>:15, where the church is the pillar of truth.
-
-Habitation/temple/house/tabernacle
-
-Church as the habitation of God in the Spirit (Ephesians <strong><sup>3</sup></strong>:22; 1 Corinthians <strong><sup>3</sup></strong>:16-
-
-17; <strong><sup>6</sup></strong>:19? [probably a reference to an individual’s body]; 1 Peter<strong> 2</strong>:4-8)
-
-The individual’s body is the temple of the Spirit (John <strong><sup>2</sup></strong>:19-22; Mark <strong><sup>14</sup></strong>:58;
-
-1 Corinthians <strong><sup>16</sup></strong>:19)
-
-
-See also “Tabernacle/Temple.”
-
-
-A fire reveals how well the building is built (1 Corinthians <strong><sup>3</sup></strong>) as comparable to
-
-judgment in the end or trials along the way.
-
-The outward body decays but the inner man is renewed daily; it does not get old
-
-(2 Corinthians <strong><sup>4</sup></strong>:16-<sup>5:1</sup>ff.).
-
-Dying is like losing the body and having another one replace it (2 Corinthians
-
-<strong><sup>5</sup></strong>:2ff.).
-
-The body is like a tabernacle, a temporary and movable dwelling (2 Corinthians <strong><sup>5</sup></strong>:1,
-
-4; 2 Peter<strong> 1</strong>:13-14).
-
-Going to heaven is like going home, where the Lord is (2 Corinthians <strong><sup>5</sup></strong>:6-8).
-
-An abandoned house represents Israel when God gave up the nation to the Romans
-
-(Matthew <strong><sup>23</sup></strong>:37)
-
-
-Examples texts
-
-Parable of the Wise and Foolish Builders (Matthew <strong>7:</strong>24-27)
-
-Paul’s Preaching to the Corinthians (1 Corinthians <strong><sup>3</sup></strong>:10-15)
-
-Paul, as the preacher, is a wise master builder (foreman?).
-
-Jesus Christ is the foundation.
-
-A man’s work is like different kinds of building materials that differ in their durability. The different materials are thought by some interpreters to represent acts of life, but it seems more likely that they represent persons won by a worker’s missionary activities.
-
-Other workers’ additions to Paul’s original foundation work may be destroyed without the workman himself “suffering loss,” which probably means that those converted may not have a faith that stands the tests of time and temptation but that does not destroy the worker’s own status. (Peter speaks of individual Christians as living stones in the building/temple of God: 1 Peter <strong><sup>2</sup></strong>:5)
-
-Other workmen are working on the same project—on one foundation, an
-
-implication for unity in the work.
-
-Consider ahead of time whether you have enough money to finish what you
-
-start (Luke <strong><sup>14</sup></strong>:28-30).
-
-
-Burden
-
-
-People that mooch off other people are like burdens to the other people
-
-(2 Corinthians<strong> 11</strong>:9; <strong><sup>12</sup></strong>:14).
-
-
-*Buying
-
-
-A picture for God’s activity in saving man (Revelation <strong><sup>5</sup></strong>:9; <strong><sup>14</sup></strong>:3, 4; 1 Corinthians<strong> 6</strong>:20;
-
-<strong><sup>7</sup></strong>:23; 2 Peter<strong> 2</strong>:1)
-
-
-Compare “Redemption”
-
-
-
-Camel
-
-
-Easier for a camel to go through the eye of a needle than for a rich man to enter
-
-the kingdom of God (Matthew <strong><sup>19</sup></strong>:24 = Mark <strong><sup>10</sup></strong>:25 = Luke <strong><sup>18</sup></strong>:25)
-
-
-Capture (see “Warfare Imagery”)
-
-
-Chicken
-
-
-A hen gathering her chicks under her wings represents God’s gathering his people under his protection and provision; but like chicks that want to run around and not come under the hen, Jerusalem did not want to accept God’s protection.
-
-
-Child (see also “Family Relations”)
-
-
-A child is resilient; he bounces back from adversity very well in comparison to adults.
-
-Children do not bear grudges; they are forgiving.
-
-Jesus set a child in the midst of the disciples as a model of attitude for leadership
-
-(Matthew <strong><sup>18</sup></strong>:1ff.).
-
-Jesus used the child as an example of humility in being in the kingdom (“except you
-
-enter as a child”; Matthew <strong><sup>18</sup></strong>:1; <strong><sup>19</sup></strong>:14 [= Mark <strong><sup>10</sup></strong>:14-15; Luke <strong><sup>18</sup></strong>:16-17]).
-
-A child tends to be “innocent,” tends to trust, changes more easily than an adult.
-
-<em>Child</em> is a term of endearment applied to a person’s converts (both τέκνον and υἱός,
-
-<em>teknon</em> and <em>huios</em>; Proverbs <strong><sup>3</sup></strong>:11-12 < Hebrews <strong><sup>12</sup></strong>:5-8).
-
-Children that do not want to play anything picture the people of Israel that God could
-
-not please no matter what he did (Luke <strong><sup>7</sup></strong>:32-35).
-
-Child as a beginner in the study of spiritual things as opposed to an adult (1 Corinthians
-
-<strong><sup>13</sup></strong>:11; cp. “baby,” “milk”)
-
-
-Discipline of Children
-
-
-Circumcision
-
-
-“Circumcision not made with hands”
-
-“Circumcision of the heart”
-
-The idea of purging away what defiles or is filthy
-
-Circumcision as simply trimming/adjusting a small aspect of system of things in
-
-contradiction to a whole new body/creation (Galatians <strong><sup>6</sup></strong>:15)
-
-
-Citizenship
-
-
-Ephesians<strong> 2</strong>:11-19a: belonging
-
-
-Cleansing
-
-
-Cleansing is a picture for getting rid of sin (John <strong><sup>13</sup></strong>:2).
-
-Ceremonial cleansing (the removal of “taint” in our mind’s eye) is like getting rid of
-
-sin.
-
-See also (“Unclean/Uncleanness”)
-
-
-Clothes
-
-
-The body is like clothes that will be changed for another set of clothes (2 Corinthians
-
-<strong><sup>5</sup></strong>:2-4).
-
-When we die, we do not become, so to speak, “naked,” but we receive another body.
-
-Nakedness represents the sense of shame (Genesis <strong><sup>3</sup></strong>?; Revelation <strong><sup>3</sup></strong>:18).
-
-Nakedness represents having our inner thoughts brought out in the open (Hebrews
-
-<strong><sup>4</sup></strong>:13).
-
-Putting on and taking off clothes (changing clothes) serves as a picture for changing
-
-from one way of living to another (Ephesians <strong><sup>1</sup></strong>:22-24? Colossians <strong><sup>3</sup></strong>:9-10).
-
-Changing from old clothes to new is a figure for the renewal of the universe (Hebrews
-
-<strong><sup>1</sup></strong>:11-12 = Psalm <strong><sup>102</sup></strong>:25-27).
-
-
-Cloth
-
-
-A person does not put an unSanforized patch on Sanforized cloth as a way of saying,
-
-<em>“unlike things can’t be mixed”</em> (Matthew <strong><sup>9</sup></strong>:16 = Mark <strong><sup>2</sup></strong>:21 = Luke <strong><sup>5</sup></strong>:36).
-
-
-Cloud
-
-
-Clouds without water represent leaders that do not have anything to offer (Jude 12).
-
-These clouds are carried around by the wind, implying they do not have stability to
-
-them (Jude 12).
-
-An immense number (Hebrews <strong><sup>12</sup></strong>:1)
-
-
-(Comforter; see “Advocate”)
-
-
-Communion (Cross reference to Passover elements that are re-interpreted)
-
-
-The one loaf and one cup represent the one object of identification–Christ–in contrast
-
-to polytheism and idolatry (2 Corinthians<strong> 10</strong>:14-22).
-
-Eating from the one loaf symbolizes identifying with what it represents (cp. eating from
-
-the Old Testament sacrifices; 2 Corinthians <strong><sup>10</sup></strong>:18)
-
-Eating the bread symbolizes eating the flesh of Christ (Mark <strong><sup>14</sup></strong>:22; Luke<strong> 22</strong>:19;
-
-Corinthians <strong><sup>11</sup></strong>:23-24).
-
-Drinking grape juice symbolizes drinking His blood (Mark <strong><sup>14</sup></strong>:23-25; Luke <strong><sup>22</sup></strong>:20;
-
-1 Corinthians<strong> 11</strong>:25-26)
-
-
-Corner
-
-
-<em>“Things not being done in a corner”</em> means they were public events (Acts <strong><sup>26</sup></strong>:26).
-
-
-(Cornerstone; see “Building Figures.”)
-
-
-Covenant/covenant (διαθήκη, <em>diathēkē</em>)
-
-
-The establishment of a covenant/testament requires death/blood (Hebrews <strong><sup>9</sup></strong>:11-22).
-
-The testament does not go into effect until the testator dies (Hebrews<strong> 9</strong>:16-22).
-
-
-Creation
-
-
-The idea that man was created in the “image” of God gets extended in Paul and the New Testament from a natural to ethical usage. Being ethical in the image/likeness of God paves the way then for calling our becoming righteous through Christ a “creation” (Ephesians <strong><sup>2</sup></strong>:10<em>—“created in Christ Jesus for good works”</em>; <strong><sup>2</sup></strong>:15; <strong><sup>4</sup></strong>:24; <strong><sup>1</sup></strong>:24; Galatians <strong><sup>6</sup></strong>:15; 2 Corinthians <strong><sup>5</sup></strong>:17; Colossians<strong> 3</strong>:10).
-
-See also “Image”
-
-
-(Crown; see “Royalty Figures”)
-
-
-<strong><u>Crucifixion-death-burial-resurrection-ascension of Chris</u></strong><strong>t</strong>
-
-
-conjointly (Romans <strong><sup>6</sup></strong>:4-11ff.)
-
-
-Crucifixion (Galatians <strong><sup>2</sup></strong>:20)
-
-“Crucifying the flesh” represents leaving a fleshly orientation of consciousness and
-
-values.
-
-We crucify the world to ourselves when we identify with Christ. Something has to be crucified. The only question is whether it is us, the world or Christ. Crucifixion is a vivid way of amplifying the death figure as a way of speaking of separating ourselves from something (Galatians <strong><sup>6</sup></strong>:14).
-
-<em>“Let him take up his cross and follow me”</em> is a call to total commitment (Mark<strong> 8</strong>:34;
-
-Matthew <strong><sup>10</sup></strong>:38; <strong><sup>16</sup></strong>:24; Luke <strong><sup>9</sup></strong>:23; <strong><sup>14</sup></strong>:27).
-
-Jesus was crucified outside the Jerusalem gate, which pictures his not being part of
-
-the national Jewish order (Hebrews <strong><sup>13</sup></strong>:11-13ff.).
-
-<em>“Nailing Jesus to the cross”</em> is like nailing the Law to the cross (Colossians<strong> 2</strong>:14).
-
-<em>“Re-crucifying Christ”</em> as a common criminal in nakedness is what we do when we reject him/drift away from him later (Hebrews <strong><sup>6</sup></strong>:6). It involves the same insensitivity to spiritual things that caused the Jews to kill him before.
-
-Death
-
-As a picture of getting out from under law (Romans <strong><sup>7</sup></strong>:1-6; <strong><sup>10</sup></strong>:4; Galatians <strong><sup>2</sup></strong>:18-
-
-21; <strong><sup>3</sup></strong>:13; <strong><sup>5</sup></strong>:1; Colossians <strong><sup>2</sup></strong>:14)
-
-Burial
-
-As a picture of ceasing to live by flesh-based values (Romans<strong> 6</strong>:1-23)
-
-Resurrection
-
-As a picture of beginning to live by transcendent/spiritual values
-
-Ascension
-
-As a picture of beginning living by transcendent/spiritual values (Colossians
-
-<strong><sup>3</sup></strong>:1-11ff.)
-
-
-Cubit
-
-
-Not being able to add a cubit to your height is like not being able to change something
-
-by worry/anxiety (Luke <strong><sup>12</sup></strong>:25; Matthew <strong><sup>6</sup></strong>:27; cp. Psalm <strong><sup>39</sup></strong>:5).
-
-
-Cup
-
-
-“Drink a cup” means passing through an ordeal (Matthew <strong><sup>20</sup></strong>:22 = Mark <strong><sup>10</sup></strong>:38; Matthew <strong><sup>26</sup></strong>:39, [42], [44] = Luke <strong><sup>22</sup></strong>:42; John <strong><sup>18</sup></strong>:11; Mark <strong><sup>14</sup></strong>:36; Isaiah<strong> 51</strong>:17; Jeremiah <strong><sup>49</sup></strong>:12).
-
-<em>“Clean the inside of the cup and the outside will be clean, too”</em> (Luke <strong><sup>11</sup></strong>:39; Matthew
-
-<strong><sup>23</sup></strong>:25-26).
-
-
-Cut off
-
-
-A way of getting rid of something that could ruin the whole self: hand, foot (Mark
-
-<strong><sup>9</sup></strong>:43-44; Matthew<strong> 18</strong>:8)
-
-
-(Darkness; see “Light.”)
-
-
-Death/dead/die
-
-
-(See also “Crucifixion-Death-Burial-Resurrection-Ascension of Christ.”)
-
-Run out of spiritual resources for a meaningful existence (John <strong><sup>8</sup></strong>:52)
-
-
-<em>“Put to death”</em> the members/practices/sin (Colossians <strong><sup>3</sup></strong>:5) means to put
-
-final/permanent closure on not doing them.
-
-
-Separation
-
-Irrelevancy
-
-Fruitlessness (James <strong><sup>2</sup></strong>)
-
-Insensitivity (Ephesians <strong><sup>2</sup></strong>:1ff.)
-
-
-Debtors
-
-
-The more forgiven the greater the love (Luke<strong> 7</strong>:41-44).
-
-
-Defilement, ceremonial
-
-
-Ceremonial defilement is an image for personal defilement (Matthew <strong><sup>15</sup></strong>:10-12, 16-20).
-
-
-Demon
-
-
-Jesus calls Judas Iscariot a demon because he is going to betray him (John <strong><sup>6</sup></strong>:71).
-
-
-Diaspora/dispersion
-
-
-Serves as a picture for the temporary nature of the Christian staying in the world and its
-
-essentially alien nature as an environment
-
-
-See also “Sojourners”
-
-
-Doctor
-
-
-A doctor is for the sick, not the well—a principle Jesus used to explain his presence
-
-among 	publicans and sinners (Matthew <strong><sup>9</sup></strong>:12 = Mark <strong><sup>2</sup></strong>:17 = Luke<strong> 5</strong>:31-32).
-
-<em>“Physician, heal yourself”</em> means what you claim to do for others you ought to be able to do for yourself (Luke<strong> 4</strong>:23; cp. Mark<strong> 15</strong>:29-32; Matthew<strong> 27</strong>:39-44; Luke <strong><sup>23</sup></strong>:35-37).
-
-
-Door
-
-
-<em>“Shutting the door”</em> means opportunity is over or taken away (Luke <strong><sup>13</sup></strong>:25-27; Matthew
-
-<strong><sup>25</sup></strong>:10).
-
-An <em>“open door”</em> means a live opportunity (1 Corinthians <strong><sup>16</sup></strong>:9; Colossians <strong><sup>4</sup></strong>:3;
-
-Revelation<strong> 3</strong>:8).
-
-<em>“Being at the door”</em> means being near (Matthew<strong> 24</strong>:33; James <strong><sup>5</sup></strong>:9)
-
-<em>“Knocking at the door”</em> means wanting to establish relationship (Revelation <strong><sup>3</sup></strong>:20)
-
-<em>“Knocking at the door”</em> means wanting to obtain something (Matthew <strong><sup>7</sup></strong>:8; Luke
-
-<strong><sup>11</sup></strong>:9)
-
-
-*Dove
-
-
-Represents harmlessness (Matthew <strong><sup>10</sup></strong>:16)
-
-Represents the Holy Spirit (Matthew <strong><sup>3</sup></strong>:16 = Mark<strong> 1</strong>:10 = Luke<strong> 3</strong>:22 = John <strong><sup>1</sup></strong>:32-33)
-
-
-Drifting
-
-
-A picture of moving gradually away from Christ (Hebrews <strong><sup>2</sup></strong>:2)
-
-
-Dust
-
-
-Shaking dust from the feet is a gesture of rejection (Mark <strong><sup>6</sup></strong>:11; Matthew <strong><sup>10</sup></strong>:14; Luke
-
-<strong><sup>9</sup></strong>:5; 1<strong><sup>0</sup></strong>:11; Acts <strong><sup>13</sup></strong>:5).
-
-
-Earnest
-
-
-2 Corinthians <strong><sup>1</sup></strong>:22;<strong> 5</strong>:5; Ephesians <strong><sup>1</sup></strong>:14
-
-
-<strong><u>Eating imageries</u></strong> (see also “Food”)
-
-
-Eating and drinking with someone represents closeness, mutual acceptance (Mark
-
-<strong><sup>14</sup></strong>:18; Luke <strong><sup>5</sup></strong>:30; <strong><sup>10</sup></strong>:7; <strong><sup>13</sup></strong>:26;<strong> 22</strong>:30).
-
-Eating and drinking together implies acceptance (Luke <strong><sup>15</sup></strong>:2; Acts <strong><sup>10</sup></strong>:41; <strong><sup>11</sup></strong>:3;
-
-1 Corinthians <strong><sup>5</sup></strong>:11).
-
-Eating and drinking means carrying on life normally (Matthew <strong><sup>11</sup></strong>:18-19 = Luke<strong> 7</strong>:33-
-
-34; Matthew<strong> 24</strong>:38;<strong> 24</strong>:49; Luke<strong> 12</strong>:45; <strong><sup>17</sup></strong>:27-28; 1 Corinthians <strong>15:</strong>32).
-
-<em>“Drink a cup”</em> (see “Cup”)
-
-Bread: Jesus’ Bread-of-Life Sermon (John <strong><sup>6</sup></strong>:41-65)
-
-Food is essential.
-
-Food applies to everyone.
-
-The person has to put out some effort to have the consequences (nourishment).
-
-Eating is a way of expressing internalizing something (Revelation <strong><sup>10</sup></strong>:9-10?; John
-
-<strong><sup>6</sup></strong>:51-58).
-
-Food gives us energy and strength.
-
-Milk as Christian teaching for those young in the faith (Hebrews <strong><sup>5</sup></strong>:13)
-
-Solid food as Christian teaching for those mature in the faith (Hebrews <strong><sup>5</sup></strong>:14)
-
-Rocks in your love feasts (Jude 12)
-
-Spewing something out of one’s mouth because it is lukewarm (Revelation<strong> 3</strong>:15-16)
-
-Tasting is used to express the idea of acutely perceived involvement.
-
-It is not appropriate to take the kids’ food and give it to the household pets (Matthew
-
-<strong><sup>15</sup></strong>:26), but they can get the crumbs (Matthew<strong> 15</strong>:27).
-
-Parable of the Slighted Invitation to the Feast (Luke <strong><sup>14</sup></strong>:16-24; Matthew <strong><sup>22</sup></strong>:2-14)
-
-
-Emptying
-
-
-Paul’s figure (κενῶσις, <em>kenōsis</em>) in Philippians <strong><sup>2</sup></strong>:7 for what Christ did in becoming
-
-man, that is, in taking on the form of a servant
-
-
-Enter Into
-
-
-Satan’s entering into someone is a figure for their deciding to do an evil thing (Luke
-
-<strong><sup>22</sup></strong>:3; John <strong><sup>3</sup></strong>:27).
-
-
-
-Epistle
-
-
-The Corinthians are Paul’s epistle that all people can read (2 Corinthians <strong><sup>3</sup></strong>:1-7ff.).
-
-Their hearts—rather than stone—are what the new covenant is written on
-
-(2 Corinthians <strong><sup>3</sup></strong>:1-7ff.).
-
-The Spirit–rather than ink–is what the gospel is written with (2 Corinthians<strong> 3</strong>:3).
-
-
-Exaltation/Lifting Up
-
-
-An expression for valuing or respecting someone/something (Luke <strong><sup>16</sup></strong>:15; <strong><sup>18</sup></strong>:14; <strong><sup>14</sup></strong>:11;
-
-Matthew <strong><sup>23</sup></strong>:12)
-
-
-<strong><u>Exodus-Red Sea-wilderness wanderings-entrance into Canaan</u></strong>
-
-
-1 Corinthians<strong> 10</strong>:1-11ff.; Hebrews<strong> 3</strong>:7-4:11
-
-Manna (1 Corinthians <strong><sup>10</sup></strong>:3)
-
-The veil on Moses’ Face (2 Corinthians<strong> 3</strong>:7-11)
-
-The fading glory represents the fading glory of the Law he gave from God
-
-(2 Corinthians<strong> 3</strong>:7).
-
-The Israelites put a veil on Moses, resembling their not understanding what the
-
-Law was ultimately for (2 Corinthians <strong><sup>3</sup></strong>:13-15).
-
-When a person turns to the Lord Jesus, the veil of mystery is removed regarding
-
-that ultimate purpose of the Law (2 Corinthians <strong><sup>3</sup></strong>:16-18).
-
-The law was written on stone tables (2 Corinthians <strong><sup>3</sup></strong>:2-6; cp. Jeremiah <strong><sup>31</sup></strong>:31-34).
-
-The rock in the wilderness (1 Corinthians<strong> 10</strong>:4)
-
-After having saved a people out of Egypt, God destroyed the ones that did not believe
-
-(Jude 5).
-
-Moses’ lifting up the serpent in the wilderness is a picture of Christ’s being lifted up on a cross. (See <em>What the Bible Says About Salvation</em>, 206-7, five characteristics of a conditionality-<em>vs.</em>-merit situation.)
-
-See also “Abraham.”
-
-
-Eyes
-
-
-<em>“Lifting up the eyes”</em> means looking up from close work (Matthew <strong><sup>17</sup></strong>:8; Luke <strong><sup>6</sup></strong>:20).
-
-<em>“Lifting up the eyes”</em> means looking at a distance (Luke <strong><sup>16</sup></strong>:23; John <strong><sup>4</sup></strong>:35;<strong> 6</strong>:5).
-
-<em>“Lifting up the eyes”</em> means looking up at the sky (Luke <strong><sup>18</sup></strong>:3; John <strong><sup>17</sup></strong>:1; <strong><sup>11</sup></strong>:41).
-
-Symbol of awareness
-
-Symbol of understanding
-
-<em>“Opening the eyes”</em> means:
-
-Causing someone to see physically (Matthew <strong><sup>9</sup></strong>:30;<strong> 20</strong>:33; John <strong><sup>9</sup></strong>:14, 15, 17, 21, 26,
-
-30, 32; <strong><sup>10</sup></strong>:21; <strong><sup>11</sup></strong>:37).
-
-Causing someone to see spiritually (Acts<strong> 26</strong>:18).
-
-To notice something or recognize someone (Luke <strong><sup>24</sup></strong>:31).
-
-To come out of a trance (Acts <strong><sup>9</sup></strong>:8).
-
-<em>“Eyes being heavy”</em> means being tired (Matthew <strong><sup>26</sup></strong>:43 = Mark <strong><sup>14</sup></strong>:40).
-
-<em>“Having something hid from your eyes”</em> means not being aware of it (Luke <strong><sup>19</sup></strong>:42).
-
-<em>“The eyes being holden/held”</em> means not noticing/seeing something (Luke <strong><sup>24</sup></strong>:16).
-
-
-<strong><u>Family Relations Imagery</u></strong> (*τέκνον, <em>teknon</em>)
-
-
-The Parable of the Prodigal Son (Luke<strong> 15</strong>:11-32)
-
-1 Corinthians <strong><sup>4</sup></strong>:14, 16
-
-<em>“Only-begotten,”</em> or only son (of his kind): in reference to Jesus as the unique son of
-
-God (John <strong><sup>1</sup></strong>:14, 18; <strong><sup>3</sup></strong>:16, 18; 1 John<strong> 4</strong>:9)
-
-Firstborn implies
-
-a.	Certain privileges and responsibilities
-
-Christ over creation (Colossians <strong><sup>1</sup></strong>:15; cp. Hebrews <strong><sup>1</sup></strong>:6)
-
-Christians (Hebrews <strong><sup>12</sup></strong>:23)
-
-b.	More to come
-
-Christ equals firstborn
-
-From the dead (Colossians <strong><sup>1</sup></strong>:18; Revelation <strong><sup>1</sup></strong>:5)
-
-Of many brothers (Romans<strong> 8</strong>:29)
-
-Father-Son
-
-Ministers are compared to parents: 2 Corinthians <strong><sup>12</sup></strong>:14.
-
-Parents/ministers lay up for the children, not children for the parents/ministers
-
-(<strong><sup>12</sup></strong>:14)
-
-*Son-Father
-
-Sonship means being an heir (Galatians <strong><sup>4</sup></strong>:7).
-
-Sons are freer than slaves (Galatians<strong> 4</strong>:7).
-
-“Children” is an expression for a person’s followers or converts (and perhaps endearment also; John <strong><sup>13</sup></strong>:33; 1 Corinthians <strong><sup>4</sup></strong>:14-17; 2 Corinthians <strong><sup>6</sup></strong>:13; <strong><sup>12</sup></strong>:14; Galatians <strong><sup>4</sup></strong>:19; Philippians<strong> 2</strong>:15, 22; 1 Thessalonians <strong><sup>2</sup></strong>:11; 1 Timothy<strong> 1</strong>:2, 18).
-
-2 Timothy <strong><sup>1</sup></strong>:2; <strong><sup>2</sup></strong>:1; Titus <strong><sup>1</sup></strong>:4; Philippians <strong><sup>10</sup></strong>:1; 1 John <strong><sup>2</sup></strong>:1, 12, 28; <strong><sup>3</sup></strong>:7, 18; <strong><sup>4</sup></strong>:4;
-
-<strong>5:</strong>21; 3 John 4
-
-Bearing children is an expression for (re)converting someone (Galatians <strong><sup>4</sup></strong>:19).
-
-Adoption
-
-“Child/son/offspring of” is an image for being characterized by something (sons of darkness/light/disobedience), by the traits of someone (<em>“your Father who is in heaven,” “your father Abraham,” “your father the devil,” “offspring of snakes,” “sons of the covenant”</em>)
-
-Offspring of vipers (Psalm <strong><sup>140</sup></strong>:3; Matthew <strong><sup>3</sup></strong>:7 = Luke <strong><sup>3</sup></strong>:7; Matthew <strong><sup>12</sup></strong>:34; <strong><sup>23</sup></strong>:33;
-
-Romans <strong><sup>3</sup></strong>:13)
-
-Sons of God (Hosea <strong><sup>1</sup></strong>:10; <strong><sup>9</sup></strong>:26; Matthew <strong><sup>5</sup></strong>:9, 45; Luke <strong><sup>6</sup></strong>:35; John<strong> 1</strong>:12; Romans
-
-<strong><sup>8</sup></strong>:14, 16, 19; 1 Corinthians <strong><sup>6</sup></strong>:18; Galatians<strong> 3</strong>:26; 1 John<strong> 3</strong>:1-2; Revelation <strong><sup>21</sup></strong>:7)
-
-Children of wrath (Ephesians<strong> 2</strong>:3)
-
-Children of light (Ephesians<strong> 5</strong>:8)
-
-Children of God (τέκνον; John<strong> 1</strong>:12; <strong><sup>11</sup></strong>:52; Romans<strong> 8</strong>:16, 17, 21; <strong><sup>9</sup></strong>:8; Ephesians
-
-<strong><sup>5</sup></strong>:1; Philippians <strong><sup>2</sup></strong>:15; 1 John<strong> 3</strong>:1, 2, 10;<strong> 5</strong>:2)
-
-Children are fed before the pets/dogs as a figure for representing the idea that Israelites
-
-receive Messiah’s benefits before the Gentiles (Matthew <strong><sup>15</sup></strong>:26-27; Mark <strong><sup>7</sup></strong>:27-28).
-
-Children become a picture of the ideal person in the kingdom of God (Luke <strong><sup>18</sup></strong>:15-17 =
-
-Matthew 1<strong><sup>9</sup></strong>:13-15 = Mark<strong> 10</strong>:13-16).
-
-Children inherit from God (Romans <strong><sup>8</sup></strong>:16-17).
-
-Children are free in contrast to slaves (Romans <strong><sup>8</sup></strong>:21).
-
-Children are expected to obey their parents/God (1 Peter<strong> 1</strong>:14).
-
-Church members are called children (2 John 1, 4, 13).
-
-Child represents what comes from something else (Revelation <strong><sup>12</sup></strong>:4, 5).
-
-Parents treat children gently (1 Thessalonians <strong><sup>2</sup></strong>:7).
-
-Parents encourage children (1 Thessalonians <strong><sup>2</sup></strong>:11).
-
-Family relations serve as a picture of the closeness between Jesus and those who do his Father’s will, whether mother, brothers, sisters (Matthew <strong><sup>12</sup></strong>:46-50 = Mark<strong> 3</strong>:31-35 = Luke <strong><sup>8</sup></strong>:19-21).
-
-“Son” is a term of endearment (Matthew<strong> 9</strong>:2 = Mark<strong> 2</strong>:5).
-
-“Father of something” means the originator of it (John <strong><sup>8</sup></strong>:44, “father of lies”).
-
-Discipline of children equals a model for suffering (Revelation <strong><sup>3</sup></strong>:19; Proverbs<strong> 3</strong>:5 >
-
-Hebrews<strong> 12</strong>).
-
-
-Fattening
-
-
-People who exploit the poor for their own luxuries are fattening themselves up for
-
-slaughter (James<strong> 5</strong>:5).
-
-
-Feet
-
-
-Putting something under one’s feet is making it subject to him (Hebrews <strong><sup>1</sup></strong>:13; <strong><sup>10</sup></strong>:13 = Acts <strong><sup>2</sup></strong>:35; [Matthew <strong><sup>22</sup></strong>:44 = Mark<strong> 12</strong>:36 = Luke<strong> 20</strong>:43] < Psalm <strong><sup>110</sup></strong>:1; Psalm <strong><sup>8</sup></strong>:6 > Hebrews <strong><sup>2</sup></strong>:8-9).
-
-
-Filling
-
-
-Being filled with something means being totally characterized by it as when a person is:
-
-Filled with anger (Luke <strong><sup>4</sup></strong>:28; <strong><sup>6</sup></strong>:11).
-
-Filled with the Holy Spirit (Luke <strong><sup>1</sup></strong>:15, 41, 67; Acts <strong><sup>2</sup></strong>:4; <strong><sup>3</sup></strong>:10; <strong><sup>4</sup></strong>:8, 31;<strong> 9</strong>:17; <strong><sup>13</sup></strong>:9;
-
-Ephesians <strong><sup>5</sup></strong>:18).
-
-Filled with fear (Luke <strong><sup>5</sup></strong>:26).
-
-Filled with leprosy (Luke<strong> 5</strong>:12).
-
-Filled with amazement (Acts <strong><sup>3</sup></strong>;10).
-
-Filled with indignation (Acts<strong> 5</strong>:17).
-
-Filled with envy (Acts <strong><sup>13</sup></strong>:45).
-
-Filled with confusion (Acts <strong><sup>19</sup></strong>:29).
-
-Filled with wisdom (Luke <strong><sup>2</sup></strong>:40).
-
-Filled with knowledge (Colossians <strong><sup>1</sup></strong>:9; Romans<strong> 15</strong>:14).
-
-Filled with joy (2 Timothy <strong><sup>1</sup></strong>:4; Acts <strong><sup>13</sup></strong>:52; Romans <strong><sup>15</sup></strong>:13).
-
-Filled with sorrow (John <strong><sup>16</sup></strong>:6).
-
-Filled with fruits of righteousness (Philippians <strong><sup>1</sup></strong>:11).
-
-Filled with unrighteousness (Romans<strong> 1</strong>:29).
-
-Filled with peace (Romans <strong><sup>15</sup></strong>:13).
-
-Filled with comfort (2 Corinthians <strong><sup>7</sup></strong>:4).
-
-Filled with company (Romans <strong><sup>15</sup></strong>:24).
-
-Satan filled the heart of Ananias to lie (Acts <strong><sup>5</sup></strong>:3).
-
-
-*Fire (punishment, destruction, purification, divine presence)
-
-
-Retrieving an apostate is like snatching something out of the fire; the person who tries it
-
-can himself get burnt (Jude 22).
-
-A little spark of fire can create a large result (cp. the mustard seed; James <strong><sup>3</sup></strong>:6).
-
-Fire represents purification/refinement (1 Corinthians <strong><sup>3</sup></strong>:12-15; 1 Peter <strong><sup>1</sup></strong>:7).
-
-Fire represents destruction (Matthew <strong><sup>3</sup></strong>:10 + <sup>11</sup>c-12 = Luke <strong><sup>3</sup></strong>:9 + 19; Matthew <strong><sup>5</sup></strong>:22; <strong><sup>7</sup></strong>:19; <strong><sup>13</sup></strong>:40-42, 50; <strong><sup>18</sup></strong>:8-9;<strong> 25</strong>:41 = Mark <strong><sup>9</sup></strong>:43-47; Mark <strong><sup>9</sup></strong>:49?; Luke <strong><sup>3</sup></strong>:16-17;<strong> 9</strong>:54; John <strong><sup>15</sup></strong>:6; 2 Thessalonians<strong> 1</strong>:8; Hebrews<strong> 12</strong>:29 > Deuteronomy <strong><sup>4</sup></strong>:24 = <strong><sup>9</sup></strong>:3 = Exodus <strong><sup>24</sup></strong>:17; James<strong> 5</strong>:3; Jude 7).
-
-In combination with purification, if something is of good enough quality, fire does not destroy it; it purifies. The same process does both to different parts of the one mix: it destroys the worthless parts (people) and purifies the ones not fully developed.
-
-Fire represents turmoil (James<strong> 3</strong>:5-6).
-
-Fire represents the presence of God.
-
-The burning bush in Exodus (Exodus<strong> 3</strong>:2ff.)
-
-The tongues of fire on Pentecost
-
-The pillar of fire that accompanied the Israelites during the night as they wandered
-
-in the wilderness
-
-The glory of God Moses saw
-
-Compare the Shekinah glory
-
-Divine presence at the burning bush (Exodus <strong><sup>3</sup></strong>:2) and the pillar of fire in the
-
-wilderness
-
-
-Firstborn
-
-
-Colossians <strong><sup>1</sup></strong>:15, 18
-
-
-Fishing
-
-
-A picture of evangelism (Matthew<strong> 4</strong>:19 = Mark <strong><sup>1</sup></strong>:17; Luke<strong> 5</strong>:10)
-
-Parable of the Drag Net (Matthew <strong><sup>13</sup></strong>:47-50)
-
-
-Firstfruits (see “Sowing-Reaping Imagery”)
-
-
-Flesh
-
-
-Eating the flesh of Jesus represents internalizing what he stands for (John <strong><sup>6</sup></strong>:51-58).
-
-Galatians <strong><sup>5</sup></strong>:16-21
-
-(See also “Food.”)
-
-
-Flood
-
-
-Represents overwhelming opposition or trials
-
-
-Food
-
-
-Could cluster together the eating and food imageries
-
-Physical food put for spiritual sustenance (John<strong> 4</strong>:30-34); food equals “satisfaction” that
-
-comes from doing God’s will.
-
-“Meat/solid food” in contrast to milk (1 Corinthians <strong><sup>3</sup></strong>:2; Hebrews <strong><sup>5</sup></strong>:12-14)
-
-(See also “Eating,” “Flesh,” “Blood,” “Water,” “Bread,” “Milk.”)
-
-
-Footstool
-
-
-Making your enemies your footstool is a way of saying that they are subdued
-
-Psalm <strong><sup>110</sup></strong>:1 > Matthew <strong><sup>22</sup></strong>:44; Mark <strong><sup>12</sup></strong>:36; Luke <strong><sup>20</sup></strong>:43; Hebrews<strong> 1</strong>:13; <strong><sup>10</sup></strong>:13
-
-
-Compare “Body Parts: Feet”
-
-
-Fruit
-
-
-“Fruit of the womb” is a way of saying <em>child</em> (Luke<strong> 1</strong>:42).
-
-(See also “Plant Imagery.”)
-
-
-Fullness
-
-
-Christ is the whole pleroma of the Gnostic system, so to speak, not just the ruler over one level of the series from the material world to the realm of pure spirit. (See Colossians <strong><sup>1</sup></strong>:19-20; <em>What the Bible Says About Salvation</em>, 119-20)
-
-
-(Games; see “Athletic Games.”)
-
-
-Gates
-
-
-<em>“Gates of the grave”</em> (Matthew <strong><sup>16</sup></strong>:18) pictures the grave as something to be conquered
-
-like a city with huge protective gates.
-
-
-*Gehenna
-
-
-Pictures the punishment of the wicked (Matthew <strong><sup>5</sup></strong>:22, 29, 30; <strong><sup>10</sup></strong>:28; <strong><sup>18</sup></strong>:9; <strong><sup>23</sup></strong>:15, 33;
-
-Mark<strong> 9</strong>:43, 45, 47; Luke <strong><sup>12</sup></strong>:5; cp. James <strong><sup>3</sup></strong>:6?)
-
-
-Gentile
-
-
-Someone outside the group (Matthew <strong><sup>18</sup></strong>:17)
-
-
-Girding oneself up
-
-
-An expression for getting serious about actively trying to do something in dead earnest
-
-(Luke <strong><sup>12</sup></strong>:35; 1 Peter <strong><sup>5</sup></strong>:5)
-
-
-Gladiatorial images
-
-
-1 Corinthians <strong><sup>15</sup></strong>:32
-
-
-(Grafting; see “Trees.”)
-
-
-Graves
-
-
-Hidden graves are compared to hidden evil influences that defile (Luke <strong><sup>11</sup></strong>:44).
-
-Whitewashed graves full of dead men’s bones picture good outward appearances and concern for ceremonial cleansing without changing the heart (Matthew <strong><sup>23</sup></strong>:25-26; Luke <strong><sup>11</sup></strong>:39-41).
-
-<em>“Gates of the grave” </em>(Matthew <strong><sup>16</sup></strong>:18) pictures the grave as something to be conquered
-
-like a city with huge protective gates.
-
-
-Hair
-
-
-The multiplicity of hair represents something yet knowable to God.
-
-The width of a hair represents a very small variance.
-
-
-Hand (See “Body Parts.”)
-
-
-Hardness
-
-
-Represents insensitivity (Isaiah <strong><sup>6</sup></strong>:10; John<strong> 12</strong>:40)
-
-
-Head
-
-
-Head of the corner (See “Building Figures: Cornerstone.”)
-
-(See also “Body Parts.”)
-
-
-Heart
-
-
-<em>“Keeping something in the heart”</em> means remembering it (fondly?; Luke <strong><sup>2</sup></strong>:51; cp.
-
-<strong><sup>2</sup></strong>:19).
-
-<em>“Putting something in the heart” </em>means influencing someone or giving a person the
-
-idea to do something (John <strong><sup>13</sup></strong>:2).
-
-
-Heel
-
-
-<em>“To lift up the heel against”</em> means to desert or reject (Psalm <strong><sup>41</sup></strong>:9 < John <strong><sup>13</sup></strong>:18).
-
-
-Housetop
-
-
-“<em>Shouting something from the housetop”</em> means making it public.
-
-
-Image
-
-
-Paul uses “image” (of God) in an ethical sense, which means that the original nature terminology is being bent into the behavioral sense. In Romans <strong><sup>8</sup></strong>:29 the expression is specialized to mean going through the same pattern of suffering before glorification that Christ went through.
-
-
-In the Old Testament it is used in a natural sense (also in the New Testament at 1 Corinthians <strong><sup>11</sup></strong>:7 and James <strong><sup>3</sup></strong>:9). That same terminology is adjusted to an ethical usage in Romans <strong><sup>8</sup></strong>:29; 2 Corinthians<strong> 3</strong>:18; and Colossians<strong> 3</strong>:10.
-
-Christ is called the image of God (2 Corinthians <strong><sup>4</sup></strong>:24; Colossians <strong><sup>1</sup></strong>:15).
-
-
-In
-
-
-Identified with
-
-a-in-b-in-a (See Holy Spirit notes.)
-
-
-Indwelling
-
-
-A figure that communicates closeness of relationship
-
-An invisible cause of (changed) behavior
-
-An all-pervasive influence that goes all the way down to the inside
-
-
-Inheritance/heir
-
-
-Receiving a benefit is like being an heir (Acts <strong><sup>20</sup></strong>:32; Romans <strong><sup>8</sup></strong>:17; Galatians<strong> 4</strong>:7; Titus
-
-<strong><sup>3</sup></strong>:7).
-
-(You receive something that you did not earn)
-
-(Cp. other images for consequences/effects like “reward,” “wages,” “fruit,” “harvest.”)
-
-
-Jacob’s ladder
-
-
-Jesus pictures himself as a ladder to heaven with divine messengers ascending and
-
-descending on him (John<strong> 1</strong>:51 < Genesis<strong> 28</strong>:12).
-
-
-Job
-
-a symbol of patience (James <strong><sup>5</sup></strong>:11)
-
-*Jonah
-
-
-His being swallowed by a great fish for three days pictures Jesus’ three-day burial
-
-followed by resurrection (Matthew <strong><sup>12</sup></strong>:39-41 = Mark <strong><sup>11</sup></strong>:29-30; Matthew <strong><sup>16</sup></strong>:4).
-
-
-Jot and tittle
-
-
-The horns and the Hebrew letter <em>yod</em> ( י ) are small parts of writing that symbolize the tiny aspects of the Law.
-
-
-Judge
-
-
-As a person may beg a disinterested judge till he takes his case, so God is much more
-
-susceptible to the prayer of his people in need (Luke <strong><sup>18</sup></strong>:1-8).
-
-
-Keys/binding/loosing (= locking/unlocking?)
-
-
-“Bound/loosed” means being locked in and held down or prohibited (Job <strong><sup>12</sup></strong>:14;
-
-Revelation <strong><sup>9</sup></strong>:14; Luke <strong><sup>13</sup></strong>:16).
-
-<em>“Taking away the keys”</em> means making something inaccessible (Luke <strong><sup>11</sup></strong>:52).
-
-Making something accessible (?): Matthew<strong> 18</strong>:18-20; having access to something that
-
-other people do not have access to.
-
-Determining a conclusion (? Matthew <strong><sup>18</sup></strong>:18-20)
-
-Enacting legislation on doctrine or practice (? Matthew <strong><sup>18</sup></strong>:18-20)
-
-Having the keys means having responsibility, control and authority (Matthew <strong><sup>16</sup></strong>:19;
-
-<strong><sup>18</sup></strong>:18; Revelation<strong> 1</strong>:18;<strong> 3</strong>:7; cp. Isaiah <strong><sup>22</sup></strong>:22).
-
-
-King
-
-
-God is like a king and his people like a kingdom.
-
-
-Jesus’ going to heaven to receive a kingdom is like a nobleman going to a far country to
-
-receive a kingdom (Luke<strong> 19</strong>:11-27 = Matthew<strong> 25</strong>:14-30).
-
-
-Knock (See “Door”; Matthew <strong><sup>7</sup></strong>:8; Luke <strong><sup>11</sup></strong>:9.)
-
-
-Ladder
-
-
-Jesus Christ pictured himself in terms of Jacob’s ladder (John <strong><sup>1</sup></strong>:51; cp. Genesis<strong> 28</strong>:10-
-
-22).
-
-
-Lay
-
-
-<em>“Lay hands on”</em>:
-
-To capture someone physically (Matthew<strong> 26</strong>:50 = Mark <strong><sup>14</sup></strong>:46; Luke<strong> 20</strong>:19; 21:12;
-
-John<strong> 7</strong>:30, 44; Acts <strong><sup>4</sup></strong>:3; <strong><sup>5</sup></strong>:18; <strong><sup>21</sup></strong>:27)
-
-To appoint (Acts <strong><sup>6</sup></strong>:6;<strong> 13</strong>:3; 1 Timothy<strong> 5</strong>:22)
-
-To symbolize healing (Matthew <strong><sup>9</sup></strong>:18; Mark <strong><sup>5</sup></strong>:23; <strong><sup>6</sup></strong>:5; <strong><sup>16</sup></strong>:18; Luke <strong><sup>4</sup></strong>:40; <strong><sup>13</sup></strong>:13;
-
-Acts <strong><sup>28</sup></strong>:8)
-
-To bless (Matthew <strong><sup>19</sup></strong>:15)
-
-To give the Holy Spirit (Acts<strong> 8</strong>:17, 19; <strong><sup>19</sup></strong>:6)
-
-
-Leaven
-
-
-A figure for influence
-
-Matthew<strong> 16</strong>:5-12 = Mark <strong><sup>8</sup></strong>:14-21; cp. Luke<strong> 12</strong>:1-3 (evil influence)
-
-Matthew <strong><sup>13</sup></strong>:33 = Luke <strong><sup>13</sup></strong>:21 (good influence)
-
-A little leaven leavens a whole lump (1 Corinthians <strong><sup>5</sup></strong>:6 = Galatians <strong><sup>5</sup></strong>:9). (evil
-
-influence)
-
-Old leaven is the previous values, no longer good, that influenced our previous way of
-
-thinking (1 Corinthians<strong> 5</strong>:7, 8).
-
-
-Life
-
-
-In Christ is life (John<strong> 1</strong>:4).
-
-Physical life (<em>vs.</em> death) became a symbol for spiritual life (John<strong> 5</strong>:21-26).
-
-Life means meaningful existence.
-
-<em>“Laying down one’s life”</em> means dying for something (John<strong> 10</strong>:11, 15, 17, 18; 1 John
-
-<strong><sup>3</sup></strong>:162; John <strong><sup>15</sup></strong>:13; <strong><sup>13</sup></strong>:37, 38; Romans <strong><sup>16</sup></strong>:4).
-
-
-Lift
-
-
-Being lifted up signifies crucifixion (John<strong> 12</strong>:32, 34; <strong><sup>3</sup></strong>:14; <strong><sup>8</sup></strong>:28).
-
-
-Light/darkness
-
-
-Light (Matthew <strong><sup>5</sup></strong>:14-16)
-
-Light and darkness are incompatible (2 Corinthians<strong> 6</strong>:14).
-
-Light always immediately dispels darkness (2 Corinthians <strong><sup>4</sup></strong>:6).
-
-Light is self-authenticating.
-
-Light attracts and draws (moths, flies, <em>etc</em>.).
-
-Light stimulates vision; if a person lives continuously in the dark, he will eventually
-
-become blind (cp. 1 John <strong><sup>2</sup></strong>:11).
-
-Light raises people’s spirits; some people become depressed when they are deprived of light. Seasonal depression/moodiness has been identified as a syndrome that especially bothers some people.
-
-Christ is said to be the effulgence (direct shining) of God’s glory (Hebrews<strong> 1</strong>:3).
-
-<em>“Walking in the light/daytime”</em> means that a person does not stumble (John<strong> 11</strong>:9-10).
-
-The gospel shining in our hearts is like God calling light out of darkness in the
-
-beginning (2 Corinthians<strong> 4</strong>:6).
-
-People do not put a lamp under a bushel basket (Matthew<strong> 5</strong>:15-16; Mark <strong><sup>4</sup></strong>:21-22; Luke
-
-<strong><sup>11</sup></strong>:33);
-
-—or under a bed (Luke <strong><sup>8</sup></strong>:16);
-
-—or in the cellar (Luke <strong><sup>11</sup></strong>:33).
-
-A city set on a hill cannot be hid (the lights of the city? Matthew <strong><sup>5</sup></strong>:14).
-
-*Light as a symbol for the truth/enlightenment (Matthew<strong> 4</strong>:16; <strong><sup>5</sup></strong>:14, 16; <strong><sup>6</sup></strong>:23; Luke <strong><sup>2</sup></strong>:32; <strong><sup>11</sup></strong>:35; <strong><sup>16</sup></strong>:8; John <strong><sup>1</sup></strong>:4-5, 7-9;<strong> 3</strong>:19-21;<strong> 5</strong>:35; <strong><sup>8</sup></strong>:12; <strong><sup>9</sup></strong>:5; <strong><sup>11</sup></strong>:9-10; <strong><sup>12</sup></strong>:35-36, 46; Acts <strong><sup>13</sup></strong>:47; <strong><sup>26</sup></strong>:18, 23; 2 Peter <strong><sup>1</sup></strong>:19).
-
-
-Darkness as a symbol for:
-
-Ignorance [σκότος] (Matthew <strong><sup>4</sup></strong>:16; <strong><sup>6</sup></strong>:232 [=Luke <strong><sup>11</sup></strong>:34-36]; Luke <strong><sup>1</sup></strong>:79; Acts <strong><sup>26</sup></strong>:18; Romans<strong> 2</strong>:19; I Peter <strong><sup>5</sup></strong>:4, 5; [σκοτία] = John <strong><sup>1</sup></strong>:5; I John <strong><sup>1</sup></strong>:5;<strong> 1</strong>:8, <sup>9</sup>a, <sup>11</sup>a & c; [σκοτίζομαι] = Romans <strong><sup>1</sup></strong>:21; <strong><sup>11</sup></strong>:10; Ephesians<strong> 4</strong>:18)
-
-Confusion: walking in darkness, a person can get hurt.
-
-Darkness as a symbol for sinfulness/evil [σκότος (Luke <strong><sup>22</sup></strong>:53; John <strong><sup>3</sup></strong>:19; Romans <strong><sup>13</sup></strong>:12; 1 Corinthians <strong><sup>4</sup></strong>:5; Ephesians <strong><sup>5</sup></strong>:8, 11;<strong> 6</strong>:12; Colossians <strong><sup>1</sup></strong>:13; 1 Peter <strong><sup>2</sup></strong>:9; 1 John<strong> 1</strong>:6; [σκοτία] John <strong><sup>8</sup></strong>:12; <strong><sup>12</sup></strong>:352, 46; 1 John<strong> 2</strong>:11b)
-
-Darkness as a symbol for hill [σκότος] (Matthew<strong> 8</strong>:12; <strong><sup>22</sup></strong>:13; <strong><sup>25</sup></strong>:30; 2 Peter<strong> 2</strong>:17; Jude
-
-13)
-
-Darkness as a symbol for privacy (Matthew<strong> 10</strong>:27; Luke <strong><sup>12</sup></strong>:3)
-
-Churches/people are called lampstands (“candlesticks”; Philippians<strong> 2</strong>:15; Revelation
-
-<strong><sup>1</sup></strong>:12-13; <strong><sup>2</sup></strong>:5.).
-
-Light does not come from nowhere; it begins at a source and connects to another point. Christ 	is the source of light and Christians are at least reflectors of that light to connect it with people who work in the dark. It has no effect unless it leaves its source and “touches” some object. It is different from the rest of what is.
-
-
-Lightning
-
-
-Divine destruction
-
-Lightning cracking to the earth represents Satan’s fall (Luke<strong> 10</strong>:18).
-
-As lightning flashes all the way across the sky, so will the coming of Christ be
-
-(Matthew <strong><sup>23</sup></strong>:27 = Luke <strong><sup>17</sup></strong>:24).
-
-
-Loins (*Girding up the loins)
-
-
-Preparation/readiness for action (Luke <strong><sup>12</sup></strong>:35; Ephesians<strong> 6</strong>:14; 1 Peter <strong><sup>1</sup></strong>:13 < Exodus
-
-<strong><sup>12</sup></strong>:11; 1 Kings <strong><sup>18</sup></strong>:46; 2 Kings <strong><sup>4</sup></strong>:29; <strong><sup>9</sup></strong>:1; Jeremiah <strong><sup>1</sup></strong>:17)
-
-
-Lord’s Supper, The (See “Communion.”)
-
-
-*Manna (See also “Bread.”)
-
-
-Physical sustenance in the wilderness becomes an image for spiritual sustenance in the
-
-material world (John <strong><sup>6</sup></strong>:31-35, 41, 48-58; Revelation <strong><sup>2</sup></strong>:17).
-
-
-Marriage (See also “Weddings.”)
-
-
-The church is the bride of Christ (2 Corinthians <strong><sup>11</sup></strong>:2; Ephesians<strong> 5</strong>:22-33).
-
-*Adultery is a symbol of unfaithfulness or mixing irreconcilable commitments
-
-(Matthew <strong><sup>12</sup></strong>:39; <strong><sup>16</sup></strong>:4; Mark <strong><sup>8</sup></strong>:38; James <strong><sup>4</sup></strong>:4; Revelation <strong><sup>2</sup></strong>:22).
-
-
-Meal
-
-
-People will return your grace like meal pressed down, shaken together and running over
-
-(Luke <strong><sup>6</sup></strong>:38; cp. Matthew <strong><sup>7</sup></strong>:2; Mark <strong><sup>4</sup></strong>:24).
-
-
-Meat (See “Food.”)
-
-
-Melchizedek
-
-
-Genesis <strong><sup>14</sup></strong>:18-20 + (cp. Zechariah<strong> 6</strong>:13) + Psalm<strong> 110</strong>:4; Hebrews<strong> 5</strong>:6, 10 +<strong> 6</strong>:20<strong>-8</strong>:6
-
-without mother or father (as far as the record goes;<strong> 7</strong>:3)
-
-without birth or death (as far as the record goes; <strong><sup>7</sup></strong>:3); cp. virgin birth and resurrection over death to serve continuously as priest (<strong><sup>7</sup></strong>:23-24); hence, one priest rather than a series of priests (<strong><sup>7</sup></strong>:23-25)
-
-greater than Abraham because Abraham paid tithes to him from the spoils of war
-
-(<strong><sup>7</sup></strong>:4-8)
-
-King of righteousness (“Melchizedek”; <strong><sup>7</sup></strong>:2)
-
-King of peace (“Salem”;<strong> 7</strong>:2)
-
-Messiah as High-priest-King
-
-A different priesthood from that of Levi-Aaron (<strong><sup>7</sup></strong>:9); hence, the change of
-
-law/covenant (<strong><sup>7</sup></strong>:12ff.), it being a better covenant/place of officiating (<strong><sup>8</sup></strong>:4, 7), and so on.
-
-
-Men
-
-
-A full-grown man in contrast to a baby or a child represents someone who has matured in the faith rather than someone who is still working only with the first level of doctrinal matters (Hebrews <strong><sup>5</sup></strong>:14; 1 Corinthians <strong><sup>13</sup></strong>:11; cp. 1 Peter<strong> 2</strong>:2).
-
-Millstone
-
-
-Putting a millstone around a person’s neck and throwing him into the ocean is a picture
-
-of inescapable destiny (Matthew <strong><sup>18</sup></strong>:6; Mark <strong><sup>9</sup></strong>:42; Luke <strong><sup>17</sup></strong>:2).
-
-
-Milk
-
-
-Preliminary Christian teachings in contrast to solid food (Hebrews <strong><sup>5</sup></strong>:12-14;
-
-1 Corinthians <strong><sup>3</sup></strong>:2; 1 Peter <strong><sup>2</sup></strong>:20).
-
-
-Mirror
-
-
-The word is like a mirror that allows us to see what we look like (James<strong> 1</strong>:23-25).
-
-
-Mote
-
-
-A picture of weakness or small negative influence (Matthew <strong><sup>7</sup></strong>:3-5; Luke <strong><sup>6</sup></strong>:41-42)
-
-
-Mountain
-
-
-Moving a mountain as a statement of great effect (Matthew <strong><sup>17</sup></strong>:20; <strong><sup>21</sup></strong>:21; Mark <strong><sup>11</sup></strong>:23;
-
-1 Corinthians<strong> 13</strong>:2)
-
-
-Naaman
-
-
-There were many lepers in Israel in the days of Elisha the prophet, but none were cleansed except Naaman the Syrian, which illustrates God’s concern for more than just Israel.
-
-
-(Nakedness; see “Clothes.”)
-
-
-<strong><u>National imagery</u></strong>
-
-
-King/Lord/Prince/Governor
-
-
-Serves as an image for Jesus Christ as head of the church
-
-
-Naturalization
-
-A picture of being brought into what is not naturally yours. This is a particularly apt expression because God’s nation Israel serves as a picture of the group of God’s people the church.
-
-
-Needle
-
-
-<em>“Easier for a camel to go through a needle’s eye . . .”</em> (Matthew <strong><sup>19</sup></strong>:24 = Mark <strong><sup>10</sup></strong>:25 =
-
-Luke <strong><sup>18</sup></strong>:25)
-
-
-(New creation; see “Re-creation.”)
-
-
-(Nobleman; see “King.”)
-
-Offerings
-
-
-Paul says his life is <em>“poured out like a drink offering”</em>—a kind of emptying (2 Timothy
-
-<strong><sup>4</sup></strong>:6).
-
-
-Opening
-
-
-An opportunity made available is an open door (1 Corinthians <strong><sup>16</sup></strong>:9; 2 Corinthians
-
-<strong><sup>2</sup></strong>:12; Colossians <strong><sup>4</sup></strong>:3; Revelation <strong><sup>3</sup></strong>:7, 8).
-
-Explaining something: opening the scripture (Luke <strong><sup>2</sup></strong>4)
-
-Opening the eyes (see “Eyes”)
-
-<em>“Opening the mind” </em>means causing to understand (Luke <strong><sup>24</sup></strong>:32, 45).
-
-Miscellaneous (Matthew <strong><sup>7</sup></strong>:8 = Luke <strong><sup>11</sup></strong>:9)
-
-
-(Pain; see “Suffering.”)
-
-
-(Paraclete; see “Advocate.”)
-
-
-(Pastor; see “Shepherd.”)
-
-
-Pigs
-
-
-Represent uncleanness
-
-What cannot appreciate valuable things
-
-<em>“Casting pearls before swine”</em> is an image for giving important things to people who cannot appreciate their value and who disregard them and even turn on you to harm you.
-
-
-(Pilgrims; see “Sojourners.”)
-
-
-Pioneer/Captain/Author/Founder/Originator (ἀρχηγός)
-
-
-Hebrews <strong><sup>2</sup></strong>:10; <strong><sup>12</sup></strong>:2; Acts <strong><sup>3</sup></strong>:15;<strong> 5</strong>:31
-
-
-<strong><u>Plant imagery </u></strong>
-
-
-Vine and the branches (John <strong><sup>15</sup></strong>:1-8ff)
-
-Old Testament references where Israel is called a vine.
-
-Pruning represents getting rid of what hinders productivity: <strong><sup>15</sup></strong>:2.
-
-Christ is the vine; the disciples are the branches; the Father is the husbandman
-
-(<strong><sup>15</sup></strong>:1, 5).
-
-The branches have to stay on the vine to bear fruit (<strong><sup>15</sup></strong>:4-8ff.).
-
-If the branches leave the vine, they wither.
-
-If the branches are cut out of the vine, they are thrown into the fire and destroyed
-
-(<strong><sup>15</sup></strong>:6).
-
-There is no value to a branch if it does not bear fruit.
-
-Sowing/seed as expressions for cause (cp. “Fruit” for “result”)
-
-Fruit* as a word for result or product (cp. “Seed” for cause; Matthew<strong> 3</strong>:8 = Luke <strong><sup>3</sup></strong>:8; Matthew <strong><sup>7</sup></strong>:16-20; <strong><sup>12</sup></strong>:33; <strong><sup>13</sup></strong>:8, 26;<strong> 21</strong>:18-22 = Mark <strong><sup>11</sup></strong>:12-14, 2-24, 33-43; Mark <strong><sup>7</sup></strong>:16-20; <strong><sup>13</sup></strong>:23; <strong><sup>4</sup></strong>:20; Luke <strong><sup>8</sup></strong>:15; Romans<strong> 1</strong>:13; <strong><sup>6</sup></strong>:21-22; <strong><sup>7</sup></strong>:4-5; <strong><sup>15</sup></strong>:28; <strong><sup>7</sup></strong>:5; Galatians <strong><sup>5</sup></strong>:22-24; Ephesians <strong><sup>5</sup></strong>:9; Philippians <strong><sup>1</sup></strong>:11, 22;<strong> 4</strong>:17; Colossians <strong><sup>1</sup></strong>:6, 10; 2 Timothy <strong><sup>2</sup></strong>:6; Hebrews <strong><sup>12</sup></strong>:11; <strong><sup>13</sup></strong>:15; James <strong><sup>3</sup></strong>:17-18; Jude 12)
-
-Plants that God has not planted will be uprooted (Matthew <strong><sup>15</sup></strong>:13; cp. Isaiah <strong><sup>60</sup></strong>:21;
-
-<strong><sup>60</sup></strong>:3).
-
-Putting Israel in Palestine is called planting them (Isaiah <strong><sup>60</sup></strong>:21;<strong> 63</strong>:3).
-
-(See also “Sowing-Reaping Imagery.”)
-
-(See also “Trees.”)
-
-(See also “Seed.”)
-
-
-Poison
-
-
-Hurtful words that come from a person’s mouth like poison from a snake’s mouth (James <strong><sup>3</sup></strong>:8; Romans <strong><sup>3</sup></strong>:13 < Psalm <strong><sup>58</sup></strong>:4; <strong><sup>140</sup></strong>:3)
-
-
-<strong><u>Political imagery</u></strong> (See also “Royalty Imagery.”)
-
-
-The judicial processes serve to illustrate how inevitable consequences are if we do not
-
-take care of the problem when it comes along (Matthew <strong><sup>5</sup></strong>:23-26; Luke <strong><sup>12</sup></strong>:57-59).
-
-Fines and imprisonment represent consequences.
-
-
-Pottery
-
-
-Isaiah <strong><sup>45</sup></strong>:9 + Jeremiah <strong><sup>18</sup></strong>:1-8ff. < Romans <strong><sup>9</sup></strong>:19-23; 2 Timothy <strong><sup>2</sup></strong>:20-21
-
-God’s messengers of the gospel are like clay pots that carry priceless treasure.
-
-
-Priest/High Priest
-
-
-Hebrews<strong> 4</strong>:14-5:10 +<strong> 6</strong>:19-8:6
-
-
-Publican
-
-
-Someone outside the group (Matthew <strong><sup>18</sup></strong>:17)
-
-A humble publican that recognizes his sin is better off than a righteous Pharisee (Luke
-
-<strong><sup>18</sup></strong>:9-14).
-
-
-(Queen of Sheba; see “Solomon.”)
-
-
-Ransom
-
-
-A picture of Christ’s atonement (Matthew <strong><sup>20</sup></strong>:28 = Mark <strong><sup>10</sup></strong>:45; Luke <strong><sup>1</sup></strong>:68; <strong><sup>2</sup></strong>:38; <strong><sup>24</sup></strong>:21;
-
-1 Timothy <strong><sup>2</sup></strong>:6; Titus <strong><sup>2</sup></strong>:14; 1 Peter <strong><sup>1</sup></strong>:18; Hebrews <strong><sup>9</sup></strong>:12)
-
-Re-creation
-
-
-A totally new person or complete overhaul <em>vs</em>. circumcision, which simply trims an
-
-existing system; cp. new birth, resurrection, new wineskin
-
-
-Redemption
-
-
-Reed
-
-
-Jesus’ non-condemnation/gentleness is pictured as not breaking a bruised reed
-
-(Matthew<strong> 12</strong>:20).
-
-Instability is pictured by a reed blown in the wind (Matthew <strong><sup>11</sup></strong>:7 = Luke <strong>7:</strong>24).
-
-
-<strong><u>Refuse/off-scouring/filth</u></strong>
-
-
-1 Corinthians <strong><sup>4</sup></strong>:13
-
-
-“Respect of persons”
-
-
-Preferential treatment
-
-Regarding slave <em>vs.</em> master (Colossians<strong> 3</strong>:25; Ephesians<strong> 6</strong>:9)
-
-Jew <em>vs.</em> Gentile (Acts <strong><sup>10</sup></strong>:34-35)
-
-Rich <em>vs.</em> poor (James<strong> 2</strong>:1, 3, 9)
-
-Fame/rank (Galatians<strong> 2</strong>:6)
-
-Because of bribes (Deuteronomy <strong><sup>10</sup></strong>:17-18; 2 Chronicles <strong><sup>19</sup></strong>:7)
-
-General (1 Peter <strong><sup>1</sup></strong>:17)
-
-(See also Ecclesiastes<strong> 4</strong>:27; 1 Esdras <strong><sup>4</sup></strong>:39.)
-
-
-Resurrection
-
-
-A picture of giving spiritual life to people (John<strong> 5</strong>:21)
-
-
-(Road<strong>; </strong>see “Way.”)
-
-
-Robbery
-
-
-Paul calls it “robbery” to take support from other churches in ministering elsewhere
-
-(2 Corinthians <strong><sup>11</sup></strong>:8).
-
-Jesus calls previous messianic claimants “robbers” (John <strong><sup>10</sup></strong>:1, 8).
-
-Christ’s being equal with God was not robbery (Philippians <strong><sup>2</sup></strong>:6).
-
-A robber’s coming represents unexpected events (Matthew <strong><sup>24</sup></strong>:43-44; Luke <strong><sup>12</sup></strong>:39-40).
-
-
-Rock
-
-
-(See “Foundation Figures/Building Figures.”)
-
-
-Rod
-
-
-Rulership
-
-Discipline
-
-
-<strong><u>Royalty figures</u></strong>
-
-
-Crown (2 Timothy <strong><sup>4</sup></strong>:8)
-
-
-Running
-
-
-Diligently carrying on the process of life (Galatians <strong><sup>5</sup></strong>:5)
-
-
-Sacrifice
-
-
-Picture of the atonement
-
-Poured out a drink offering (2 Timothy<strong> 4</strong>:6)
-
-
-Salt
-
-
-Matthew <strong><sup>5</sup></strong>:13; Mark <strong><sup>9</sup></strong>:49
-
-If salt loses its saltiness, there is nothing else you can use to make it salty again.
-
-If salt loses its saltiness, it is useless except perhaps as pavement for a path.
-
-(Salt seasons food; it is what makes food/life tasty/meaningful; it improves the
-
-flavor.)
-
-(Salt is made up of two chemicals that separately are deadly poisons. When we dogmatically overemphasize one part of the faith, we make Christianity fatal.)
-
-(Salt can be used to put out fires; in former times when a chimney would get on fire from wood burning, <em>etc</em>., a person would go up on the roof and pour salt down the chimney to put out the fire.)
-
-(Salt can be used as a preservative; it prevents or retards putrefaction.)
-
-(Salt sterilizes and purifies; no gargle is better than salt-water gargle.)
-
-(Salt is a healing agent.)
-
-(Salt is essential to life; it keeps people alive and healthy.)
-
-(Salt has the ability to permeate.)
-
-(Salt is not affected by age, moisture, temperature, or time; it has no expiration
-
-date.)
-
-(Salt can lose its flavor only by being polluted or diluted.)
-
-(Salt creates thirst and hunger. I bet you can’t eat just one.)
-
-(Salt melts ice.); when people are cold or the love of many grows cold, Christians
-
-have the responsibility of “melting” that insensitivity.
-
-(Not a lot of salt is needed to do its work.)
-
-(Salt can be used in heavy water solution to unplug drains.)
-
-(In water solution or vaporized salt-water solution salt can be used as a nasal
-
-decongestant.)
-
-Having salt in yourself becomes a picture for internal source of flavoring and worth/meaning <em>vs.</em> being like food that gets its flavoring from something else (Matthew <strong><sup>9</sup></strong>:50).
-
-Being the salt of the world implies that if Christians lose their saltiness, there is no way to make them salty because there is no other source of saltiness than salt itself.
-
-
-Salvation
-
-
-An image for reconciliation to God
-
-
-Samaritan
-
-
-A person outside the group (cp. Gentile, publican)
-
-
-Sandals
-
-
-John the Baptist compared the superiority of Messiah over himself to his own unworthiness to undo Messiah’s sandal straps (Mark <strong><sup>1</sup></strong>:7 = Luke <strong><sup>3</sup></strong>:16 = John <strong><sup>1</sup></strong>:27)* or carry his sandals (Matthew<strong> 3</strong>:11).
-
-
-Satan (NT)
-
-
-In general, Satan stands for the whole system of things alternative to Christ (Luke
-
-<strong><sup>10</sup></strong>:18; Matthew<strong> 12</strong>:26 = Mark <strong><sup>3</sup></strong>:23, 26 = Luke <strong><sup>11</sup></strong>:18; Acts<strong> 26</strong>:16).
-
-Jesus called Peter “Satan” when he did as Satan did (Matthew <strong><sup>16</sup></strong>:23 = Mark<strong> 8</strong>:3).
-
-Satan entering into someone represents that person’s deciding to do something that corresponds with Satan’s will (John <strong><sup>13</sup></strong>:27 = Luke <strong><sup>22</sup></strong>:3; Acts <strong><sup>5</sup></strong>:3); cp. the “devil” entering the heart of someone (John <strong><sup>13</sup></strong>:2).
-
-Excommunicating someone from the fellowship is called “delivering to Satan”		(1 Corinthians <strong><sup>5</sup></strong>:5; 1 Timothy <strong><sup>1</sup></strong>:20).
-
-Turning away from Christ is called <em>“turning to Satan”</em> (1 Timothy<strong> 5</strong>:15).
-
-What works against Christ is said to be Satan’s working against Christ (1 Peter <strong><sup>2</sup></strong>:18;
-
-2 Peter<strong> 2</strong>:9).
-
-The identity alternate to Christ (Revelation <strong><sup>2</sup></strong>:9, 132, 24; <strong><sup>3</sup></strong>:9).
-
-Evil experiences/operations are called Satan’s operation (2 Corinthians <strong><sup>2</sup></strong>:11;
-
-1 Corinthians <strong><sup>7</sup></strong>:5; Luke 1<strong><sup>3</sup></strong>:16).
-
-(Satan is put directly for his indirect operations.)
-
-
-(Schoolmaster; see “Tutor.”)
-
-
-<strong><u>Seafaring imagery</u></strong>
-
-
-Shipwreck concerning the faith (1 Timothy<strong> 1</strong>:19)
-
-Christ is our anchor for the soul (Hebrews<strong> 6</strong>:19).
-
-
-The tongue is like the rudder of a ship, which is very small compared to a ship in
-
-storm-driven seas; yet it is used to direct the ship (cp. bridle, spark; James <strong><sup>3</sup></strong>:4).
-
-Wild waves of the sea that foam up shame (Jude13)
-
-
-Seal
-
-
-The converts in Corinth are the seal of Paul’s apostleship. (2 Corinthians<strong> 9</strong>:2; see also
-
-2 Corinthians<strong> 3</strong>:2, where they are called Paul’s “epistle.”)
-
-Represents a statement of approval (John <strong><sup>3</sup></strong>:33)
-
-
-Seed
-
-
-Mustard seed especially emphasizes the small beginning that leads to a large result
-
-(Matthew<strong> 13</strong>:312 = Mark<strong> 4</strong>:30-32 = Luke<strong> 13</strong>:18-19; Matthew <strong><sup>17</sup></strong>:20 = Luke <strong><sup>17</sup></strong>:6).
-
-
-(Serpents; see “Vipers.”)
-
-
-Servant
-
-
-See also “slave.”
-
-Is “Servant of the Lord” an analogy to Jesus or a prediction of Jesus (cp. Hagar-Sarah,
-
-First-Second Adam, Jonah, temple, <em>etc</em>.)?
-
-
-<strong><u>Shepherd/pastor-sheep</u></strong>
-
-
-Lambs among wolves represents innocent/harmless people among dangerous ones
-
-(Luke <strong><sup>10</sup></strong>:3; Matthew <strong><sup>10</sup></strong>:16).
-
-A label for the leadership/eldership/apostleship in the church (John <strong><sup>21</sup></strong>:15-17;<strong> 20</strong>:28-29;
-
-Ephesians <strong><sup>4</sup></strong>:11; Acts <strong><sup>20</sup></strong>:28-30).
-
-Three roles come off the shepherd image
-
-1.	Feeding
-
-2.	Ruling
-
-3.	Protecting (Acts<strong> 20</strong>:29)
-
-Leaders teaching is like shepherds feeding sheep (John <strong><sup>21</sup></strong>:15-17).
-
-Christ is the Lamb of God (John <strong><sup>1</sup></strong>:29, 36; Acts <strong><sup>8</sup></strong>:32; 1 Peter <strong><sup>1</sup></strong>:19, no spot or blemish).
-
-Flock/sheep as a label for the followers of Jesus (Luke<strong> 12</strong>:32)
-
-Sheep are highly dependent animals; they have no way to defend themselves against predators.
-
-If sheep get lost, the shepherd has the responsibility of going after them; ministers have a responsibility for taking the initiative in going after Christians who stray from the group/flock.
-
-Sheep will not follow someone besides their own shepherd; they recognize his voice over other voices (John <strong><sup>10</sup></strong>:5, 14; cp. 16, 27).
-
-<em>“I am a good shepherd”</em> (John <strong><sup>10</sup></strong>:7-18); Christ is the chief shepherd (1 Peter <strong><sup>5</sup></strong>:4; cp.
-
-Psalm <strong><sup>23</sup></strong>).
-
-A shepherd is different from a thief:
-
-He goes in at the door rather than climb in some other way (John <strong><sup>10</sup></strong>:1).
-
-A shepherd is different from a hireling:
-
-He does not run when he sees wolf coming, but protects the flock—he lays
-
-down his life in so doing (John <strong><sup>10</sup></strong>:11b-13).
-
-He cares for the sheep (John <strong><sup>10</sup></strong>:13;<strong> 21</strong>:15-17).
-
-He knows his sheep; even though sheep look a lot alike, the person that is
-
-around them all the time can tell them apart (John <strong><sup>10</sup></strong>:14).
-
-A shepherd is different from a wolf.
-
-He does not scatter them (John <strong><sup>10</sup></strong>:12).
-
-He does not snatch them to harm them (John <strong><sup>10</sup></strong>:12).
-
-There are other sheep that Jesus wants to bring into one flock (John <strong><sup>10</sup></strong>:16).
-
-The one who feeds a flock drinks the milk from the flock, illustrating the idea that those
-
-who minister to the church are supported by the believers (2 Corinthians <strong><sup>9</sup></strong>:7c).
-
-False shepherds use the flock to feed themselves, comparable to leaders that see the
-
-church as a place to benefit themselves (Jude 12).
-
-As killing the shepherd scatters the sheep, so killing Jesus disperses his disciples
-
-(Matthew <strong><sup>26</sup></strong>:31 = Mark <strong><sup>14</sup></strong>:27 < Zechariah <strong><sup>13</sup></strong>:7; John <strong><sup>16</sup></strong>:32).
-
-Going out and looking for the lost minority while leaving the majority in safety represents the idea that there is greater joy over conversion than continued goodness (Luke <strong><sup>15</sup></strong>:3-7 = Matthew<strong> 18</strong>:12-14).
-
-Disoriented, confused people are like sheep without a shepherd (Matthew 9:36; Mark
-
-<strong><sup>6</sup></strong>:34; Numbers <strong><sup>27</sup></strong>:17; Ezekiel <strong><sup>34</sup></strong>:5; Zachariah <strong><sup>10</sup></strong>:2; 1 Kings <strong><sup>22</sup></strong>:17).
-
-Christ was not sent to the Gentiles in his first coming, but only to the lost sheep of the
-
-house of Israel (Matthew <strong><sup>15</sup></strong>:24; <strong><sup>10</sup></strong>:5-6).
-
-
-Sickness
-
-
-Spiritually weak (1 Corinthians <strong><sup>11</sup></strong>:30)
-
-
-*Sifting
-
-
-A picture for putting someone through trials (Luke <strong><sup>22</sup></strong>:31; Amos <strong><sup>9</sup></strong>:9; Isaiah <strong><sup>30</sup></strong>:28)
-
-
-Sight/blindness
-
-
-Physical blindness is compared to spiritual blindness (John <strong><sup>9</sup></strong>:35-41; note context of the
-
-healing of the man born blind). (“To see” means “to understand.”)
-
-Being cross-eyed is like trying to operate by two frames of reference (Matthew <strong><sup>6</sup></strong>:22-
-
-23).
-
-Being in the dark so long that they cannot see anymore (1 John <strong><sup>2</sup></strong>:11)
-
-Blind leading the blind are like teachers that do not know what they are talking about
-
-(Matthew <strong><sup>15</sup></strong>:14; Luke <strong><sup>6</sup></strong>:39).
-
-(See also “Eyes.”)
-
-
-Sky (See also “Weather.”)
-
-
-Slave/slavery
-
-
-Irresponsible slaves were scourged in proportion to their irresponsibility (Luke <strong><sup>12</sup></strong>:46-
-
-48).
-
-Romans <strong><sup>1</sup></strong>:1; 2 Corinthians <strong><sup>4</sup></strong>:5; Philippians <strong><sup>1</sup></strong>:1; 2 Timothy <strong><sup>2</sup></strong>:24; Titus <strong><sup>1</sup></strong>:1
-
-Parable of the Unmerciful Servant (Matthew <strong><sup>18</sup></strong>:23-25)
-
-A follower of Jesus Christ turns over everything to the master.
-
-A slave cannot serve two masters (Matthew <strong><sup>6</sup></strong>:24; Luke <strong><sup>16</sup></strong>:13).
-
-Judaizers were, so to speak, making slaves out of the Gentiles (Galatians<strong> 2</strong>:4).
-
-Being under law is like being in slavery (Galatians <strong><sup>4</sup></strong>:3, 9;<strong> 5</strong>:1).
-
-Aggressive, pushy, overbearing, presumptuous people make slaves out of other people
-
-(2 Corinthians <strong><sup>11</sup></strong>:10).
-
-John the Baptist did not consider himself worthy to carry Jesus’ shoes (Matthew<strong> 3</strong>:11).
-
-John the Baptist did not consider himself worthy to untie Jesus’ sandals for him (Luke
-
-<strong><sup>3</sup></strong>:16; John <strong><sup>1</sup></strong>:27).
-
-Someone addicted to sin or in the sin state is pictured as a slave to sin (John <strong><sup>8</sup></strong>:32-36).
-
-A servant who is faithful while his master is not around is like a disciple of Jesus faithful at the time of Christ’s unpredictable return (Matthew <strong><sup>24</sup></strong>:42-51 = Luke <strong><sup>12</sup></strong>:41-48).
-
-(See also “Stewards.”)
-
-A steward to be relieved of his stewardship might make preparations for the future as
-
-the unrighteous steward did (Luke <strong><sup>16</sup></strong>:1-13).
-
-A slave’s work is first for the master and then for himself (Luke <strong><sup>17</sup></strong>:7-10).
-
-A slave can never do enough; he has to take the attitude that he is unprofitable no
-
-matter what (Luke<strong> 17</strong>:7-10).
-
-What a slave is given to work with does not belong to him, but to his master and what
-
-he produces more also belongs to the master (Luke <strong><sup>19</sup></strong>:11-27). (cp. “Stewards”)
-
-Servants are supposed to be responsible while the master is gone (Luke <strong><sup>19</sup></strong>:11-27; <strong><sup>20</sup></strong>:9-
-
-18).
-
-
-Sleep
-
-
-(See essay on “Soul-Sleeping.”)
-
-As a picture for death (1 Kings <strong><sup>2</sup></strong>:10; Daniel <strong><sup>12</sup></strong>:2; Matthew <strong><sup>27</sup></strong>:52; [Mark <strong><sup>5</sup></strong>:39?]; Mark <strong><sup>13</sup></strong>:33-37; John<strong> 11</strong>:11-14; Acts<strong> 7</strong>:60; <strong><sup>13</sup></strong>:36; 1 Corinthians<strong> 15</strong>:6, 18, 20, 51; 1 Peter <strong><sup>4</sup></strong>:13-18; 2 Peter <strong><sup>3</sup></strong>:4)
-
-There is no movement; the person is not accomplishing anything—he is “resting.”
-
-The eyes are shut.
-
-The person is in a prone position.
-
-The person is unaware of what is going on around him.
-
-Lost condition(?): 1 Corinthians <strong><sup>11</sup></strong>:30 (“and not a few are asleep”)
-
-
-(Snakes; see “Vipers.”)
-
-
-Sojourners
-
-
-A picture of the temporary and essentially foreign nature of the world’s environment for
-
-Christian people (1 Peter<strong> 2</strong>:11)
-
-(See also “Diaspora/Dispersion.”)
-
-
-(Soldier; see “Warfare Imagery.”)
-
-
-Solomon
-
-
-Jesus is greater than Solomon, whom the Queen of Sheba/the South came to see (Matthew <strong><sup>12</sup></strong>:42; Luke <strong><sup>11</sup></strong>:31). Jesus uses this example along with that of Naaman and the widow of Sarepta/Zarephath to illustrate God’s concern for more than just the Jews.
-
-
-<strong><u>Sowing-reaping/seed</u></strong>
-
-
-The law of harvest: you reap what you sow (Galatians <strong><sup>6</sup></strong>:7-8; cp. Matthew <strong><sup>7</sup></strong>:16-20;
-
-<strong><sup>12</sup></strong>:33; <strong><sup>7</sup></strong>:43-44; Luke<strong> 6</strong>:43-45; James<strong> 3</strong>:12).
-
-Harvesting is like converting people (Luke <strong><sup>10</sup></strong>:2).
-
-“Preaching the Word” is like sowing seed and “hearing it and taking it to heart” is like
-
-having 	it planted in you (James <strong><sup>1</sup></strong>:21).
-
-The seed and its plant is compared to resurrection (1 Corinthians <strong><sup>15</sup></strong>:35-38).
-
-The seed itself has to cease existing before the plant can become.
-
-The thing sown differs from what comes from it.
-
-A seed has to “die” to produce the plant.
-
-A person has to give up autonomous identity in order to amount to anything for
-
-God: John <strong><sup>12</sup></strong>:24-25.
-
-Parable of the Sower (Matthew <strong><sup>13</sup></strong>:3-23; Mark <strong><sup>4</sup></strong>:3-20)
-
-Different kinds of soil represent different degrees of readiness to accept the word and different levels of productivity from it. Shallow (rocky) soil represents short-lived enthusiasm for the gospel, but it does not last because the wheat does not have enough root to keep it from being scorched by the hot sun. Hard soil represents the disinterested. Birds represent other influences that remove the word from the situation. Thorny soil represents good potential that is choked out by distracting interests. Good soil produces different amounts.
-
-Parable of the Tares
-
-Weed seeds (or briars) grow also among the blades of wheat because they have been planted in the soil by contrary influences in the field (enemies of the landowner).
-
-Good and evil people grow together until the harvest, which occurs at the end.
-
-Good and evil are not separated during the growing season because their intertwined roots mean that any effort to extract the weeds now would end up destroying some of the wheat in the process.
-
-
-The field represents the world.
-
-Angels are the reapers.
-
-The good seed are sons of the kingdom.
-
-The bad seed are sons of the evil one.
-
-The enemy is the devil.
-
-The harvest is the end of the world.
-
-The tares are gathered up at the end and burned (Matthew<strong> 13</strong>:40-42).
-
-Parable of Sowing-Reaping (Mark <strong><sup>4</sup></strong>:26-28)
-
-Parable of the Mustard Seed (Matthew <strong><sup>13</sup></strong>:31-32; Mark <strong><sup>4</sup></strong>:30-32; Luke<strong> 13</strong>:18-19)
-
-From something very small comes something comparatively large.
-
-Firstfruits (Romans <strong><sup>11</sup></strong>:16; 1<strong>6:</strong>5; 1 Corinthians <strong><sup>16</sup></strong>:15)
-
-(Serves as a picture for many situations where one example will be followed by many more and serve as the epitome for the rest) (Cp. “firstborn.”)
-
-1.	Christian converts are firstfruits from among people (James <strong><sup>1</sup></strong>:18).
-
-Similarly, the household of Stephanus was the firstfruits of Achaia
-
-(1 Corinthians <strong><sup>16</sup></strong>:15), and Epaenetus was the firstfruits of Asia (Romans<strong> 16</strong>:5).
-
-2.	“Firstfruits” conveys a sense of specialness and especially valued (Revelation <strong><sup>14</sup></strong>:4) speaks of the saved as firstfruits without implying necessarily that the rest will also be saved.
-
-3.	Christ is the firstfruits of resurrection (1 Corinthians <strong><sup>15</sup></strong>:20, 23).
-
-4.	The Spirit is the firstfruits of salvation in anticipation of the redemption of the body at the resurrection (Romans <strong><sup>5</sup></strong>:23; cp. the Holy Spirit as an “earnest” in Ephesians <strong><sup>1</sup></strong>:14).
-
-The one who sows eats some of the produce from the harvest, illustrating supporting those who minister to the believers (2 Corinthians <strong><sup>9</sup></strong>:10-11ff.). Not muzzling the ox while threshing represents living on the basis of your work.
-
-The one who threshes eats some of what he produces, illustrating supporting those
-
-who minister to the believers (2 Corinthians<strong> 9</strong>:10-11ff.).
-
-Various ones contribute different activities to the planting-reaping process.
-
-Paul planted, Apollos watered, and God gave the increase (1 Corinthians <strong><sup>3</sup></strong>:6-8).
-
-God is the most important because he gives the increase (1 Corinthians<strong> 3</strong>:7).
-
-People are paid according to their labor (1 Corinthians <strong><sup>3</sup></strong>:8).
-
-Jesus was sending his apostles to reap that on which they had not bestowed any
-
-labor (John<strong> 4</strong>:38).
-
-<em>“White unto harvest”</em> symbolizes readiness to hear the gospel (John <strong><sup>4</sup></strong>:35).
-
-Wages are paid to those who labor in the harvest. (Harvesting is not just to protect the
-
-grain or get God’s work done)
-
-Land that grows briars and thistles instead of the crops it was sown to bear will be burned off, symbolizing the trials, sufferings, punishments that come to those disobedient to the message they have received (Hebrews <strong><sup>6</sup></strong>:7-8).
-
-Threshing with oxen on a threshing floor
-
-The chaff represents worthless material that is unstable (the wind can be used to
-
-blow it away); winnowing (Luke <strong><sup>3</sup></strong>:17 = Matthew <strong><sup>3</sup></strong>:12).
-
-Large harvest needs lots of laborers; many people to be converted need many workers
-
-in the kingdom and there are so few of them (Matthew <strong><sup>9</sup></strong>:37-38).
-
-See also “Plant Imagery” and “Trees.”
-
-Mustard-seed parable (Luke <strong>13:</strong>18-19 = Matthew <strong><sup>13</sup></strong>:31-32 = Mark<strong> 4</strong>:30-32). The
-
-mustard seed illustrates a large consequence from a small cause.
-
-
-(Speck; see “Mote.”)
-
-
-Stars
-
-
-Wandering stars (Jude 13)
-
-
-Stone
-
-
-A stone’s throw becomes a loose measure of distance (Luke <strong><sup>22</sup></strong>:41).
-
-(See also “Building Figures.”)
-
-
-Stumbling
-
-
-Means to be/cause a problem (Matthew <strong><sup>5</sup></strong>:29;<strong> 11</strong>:6; <strong><sup>13</sup></strong>:21, 57; <strong><sup>24</sup></strong>:10; <strong><sup>26</sup></strong>:31; Mark <strong><sup>6</sup></strong>:3;
-
-John<strong> 6</strong>:61; <strong><sup>16</sup></strong>:1)
-
-Sinning is like stumbling; it “trips you up” (James <strong><sup>2</sup></strong>:10).
-
-Stumbling represents a minor incident that brings up a problem for someone. The angels would take care of the Messiah to the extent that they would catch him in such cases so he would not fall (Psalm<strong> 91</strong>:12 < Luke <strong><sup>4</sup></strong>:11 = Matthew<strong> 4</strong>:6).
-
-Stumbling can mean to get someone confused or cause them to doubt and perhaps act
-
-accordingly (John <strong><sup>16</sup></strong>:1).
-
-Stumbling can contrast with falling down completely (Romans <strong><sup>11</sup></strong>:11).
-
-
-Stumbling block
-
-
-Psalm <strong><u><sup>59</sup></u></strong>:22; Isaiah <strong><u><sup>28</sup></u></strong>:16; John <strong><sup>11</sup></strong>:9-10; Romans <strong><u><sup>9</sup></u></strong>:32-33; <strong><sup>11</sup></strong>:9, 11; <strong><sup>14</sup></strong>:13, 21; 1 Corinthians <strong><sup>1</sup></strong>:23;<strong> 8</strong>:9, 13; <strong><sup>10</sup></strong>:32; Galatians<strong> 5</strong>:11; 1 Peter<strong><u> 2</u></strong>:6, 8; Jude 24; Revelation <strong><sup>2</sup></strong>:14
-
-Something that throws people “off the track”
-
-Messiah proved to be a stumbling block to the Jews (Isaiah<strong> 8</strong>:14; Romans <strong><sup>9</sup></strong>:32-33;
-
-1 Peter <strong><sup>2</sup></strong>:8; cp. Jeremiah <strong><sup>6</sup></strong>:21).
-
-
-Suffering
-
-
-**Weeping and gnashing of teeth (Matthew <strong><sup>8</sup></strong>:12; <strong><sup>13</sup></strong>:42, 50; <strong><sup>22</sup></strong>:13; <strong><sup>24</sup></strong>:51; <strong><sup>25</sup></strong>:30; Luke
-
-<strong><sup>13</sup></strong>:28)
-
-Woman in travail
-
-Gnawing their tongues for pain (Revelation <strong><sup>16</sup></strong>:10)
-
-
-Sword
-
-
-Represents turmoil and division (Matthew10:34)
-
-
-<strong><u>Tabernacle/temple</u></strong>
-
-
-The veil in the tabernacle signified that the way into the true Holy of Holies was not yet
-
-made known while the first tabernacle was still standing (Hebrews <strong><sup>9</sup></strong>:6-10).
-
-The wall between the Court of the Men of Israel and the Court of the Gentiles
-
-represents a separation that has been torn down in Christ (Ephesians<strong> 2</strong>:14).
-
-Our bodies are tabernacles of the self (1 Corinthians <strong><sup>5</sup></strong>:1; 2 Peter <strong><sup>1</sup></strong>:13-14).
-
-Our bodies are tabernacles of the Spirit (1 Corinthians <strong><sup>6</sup></strong>:19; John <strong><sup>2</sup></strong>:19-22; Mark
-
-<strong><sup>14</sup></strong>:58).
-
-The body of Jesus is a functional equivalent for the Jerusalem temple (John<strong> 2</strong>:19-22).
-
-Tearing it down and rebuilding it became an image for getting rid of the old system and
-
-replacing it with a new one.
-
-Changing over from the Old Covenant to the New is pictured as destroying the temple (and rebuilding it in three days; Matthew <strong><sup>26</sup></strong>:61 = Mark <strong><sup>14</sup></strong>:58; Matthew<strong> 27</strong>:40 = Mark <strong><sup>15</sup></strong>:29; John <strong><sup>2</sup></strong>:19-22; Acts <strong><sup>6</sup></strong>:14).
-
-
-*Taste
-
-
-Acute experience
-
-taste of death (Matthew <strong><sup>16</sup></strong>:28; Mark <strong><sup>9</sup></strong>:1; Luke <strong><sup>9</sup></strong>:27; John <strong><sup>8</sup></strong>:52; Hebrews <strong><sup>2</sup></strong>:9)
-
-benefits of salvation (Hebrews<strong> 6</strong>:4-5; 1 Peter <strong><sup>2</sup></strong>:3)
-
-
-<strong><u>Temperature imagery</u></strong>
-
-
-Lukewarmness represents unsavory taste (Revelation <strong><sup>3</sup></strong>:15-16).
-
-Coldness is a loss of a characteristic like love (Matthew <strong><sup>24</sup></strong>:12).
-
-
-(Testament; see “Covenant.”)
-
-
-(Thief; see “Robbery.”)
-
-
-<strong><u>Thorns</u></strong>
-
-
-“Thorn in the flesh” (2 Corinthians <strong><sup>12</sup></strong>:5-10)
-
-
-(Threshing; see “Sowing-Reaping/Harvesting-Seed.”)
-
-
-Tomb
-
-
-(See also “Graves.”)
-
-
-<em>“Whitewashed tombs”</em> represent outer appearance of goodness with inner evil.
-
-<em>“Hidden tombs”</em> represent hidden sources of defilement (Luke <strong><sup>11</sup></strong>:44).
-
-
-Touch
-
-A euphemism for sexual intercourse (1 Corinthians <strong><sup>7</sup></strong>:1)
-
-
-Trap
-
-
-2 Timothy <strong><sup>2</sup></strong>:26; 2 Corinthians <strong><sup>11</sup></strong>:20; James <strong><sup>1</sup></strong>:14 (temptation traps you)
-
-
-Travail
-
-
-John <strong><sup>16</sup></strong>:21
-
-The beginning of good things is often in pain.
-
-The subsequent joy overshadows the previous pain.
-
-Unescapable coming things
-
-
-<strong><u>Travel imagery</u></strong>
-
-
-Gates (Matthew <strong><sup>7</sup></strong>:13-14)
-
-Wide and narrow path (Matthew <strong><sup>7</sup></strong>:13-14)
-
-Walking* as an image for living life, conducting oneself (Mark <strong><sup>7</sup></strong>:15; Luke<strong> 1</strong>:6; John <strong><sup>6</sup></strong>:66; <strong><sup>8</sup></strong>:12; <strong><sup>11</sup></strong>:9-10; <strong><sup>12</sup></strong>:35; Acts <strong><sup>9</sup></strong>:31; <strong><sup>14</sup></strong>:16; <strong><sup>21</sup></strong>:21, 24; Romans <strong><sup>4</sup></strong>:12; <strong><sup>6</sup></strong>:4; <strong><sup>8</sup></strong>:1, 6; <strong><sup>13</sup></strong>:13; <strong><sup>14</sup></strong>:15; 1 Corinthians<strong> 3</strong>:3; <strong><sup>7</sup></strong>:17; 2 Corinthians <strong><sup>4</sup></strong>:2; <strong><sup>5</sup></strong>:7; <strong><sup>10</sup></strong>:2-3; <strong><sup>12</sup></strong>:18; Galatians <strong><sup>2</sup></strong>:14; <strong><sup>5</sup></strong>:6, 25; <strong><sup>6</sup></strong>:16; Ephesians <strong><sup>2</sup></strong>:2, 10; <strong><sup>4</sup></strong>:1, 17; <strong><sup>5</sup></strong>:2, 8, 15; Philippians <strong><sup>3</sup></strong>:16-18; Colossians<strong> 1</strong>:10; <strong><sup>2</sup></strong>:6; <strong><sup>3</sup></strong>:7; <strong><sup>4</sup></strong>:5; 1 Peter <strong><sup>2</sup></strong>:12; <strong><sup>4</sup></strong>:1, 12; 2 Peter <strong><sup>3</sup></strong>:6, 11; 1 Peter<strong> 4</strong>:3; 2 Peter <strong><sup>2</sup></strong>:10; <strong><sup>3</sup></strong>:3; 1 John<strong> 1</strong>:6-7; <strong><sup>2</sup></strong>:6, 11; 2 John 4, 62; 3 John <strong>3-4</strong>; Jude 16, 18)
-
-Leading
-
-Following
-
-
-Treading
-
-
-“To be tread on” or <em>“trodden down”</em> means <em>“to be run over”</em> (Luke<strong> 21</strong>:24; Revelation
-
-<strong><sup>11</sup></strong>:2).
-
-
-Treasure
-
-
-A householder brings out of his treasure things new and old (Matthew<strong> 13</strong>:51-52).
-
-Bringing things out of one’s treasure is like the mouth speaking out of the things stored
-
-in the heart (Matthew<strong> 12</strong>:35).
-
-The gospel is a treasure, as Paul says, carried in clay pots, God’s messengers (2
-
-Corinthians<strong> 4</strong>:7).
-
-The contrast between the value of the contents and the value of the containers
-
-(2 Corinthians <strong><sup>4</sup></strong>:7)
-
-The Parable of the Pearl of Great Price (Matthew <strong><sup>13</sup></strong>:45-46)
-
-A person ought to sell everything lesser that he has in order to get this one treasure.
-
-The Parable of the Treasure in a Field (Matthew <strong><sup>13</sup></strong>:44)
-
-“Laying up treasure” means putting your concerns in something or relying on something
-
-(Matthew<strong> 6</strong>:19-21; Luke <strong><sup>12</sup></strong>:33-34; <strong><sup>18</sup></strong>:22).
-
-Earthly treasure deteriorates/rusts; thieves steal it; moths ruin it; heavenly treasure
-
-does not have these weaknesses.
-
-Where your treasure is your heart will also be; that is, where you put what you consider important (mental activity) is where your affections will be centered (emotions; Matthew<strong> 6</strong>: ?; Luke <strong><sup>12</sup></strong>:34).
-
-
-Tree
-
-
-Being under one’s fig tree or eating from one’s fig tree refers to a situation of stability,
-
-peace (Micah <strong><sup>4</sup></strong>:4; 1 Kings<strong> 4</strong>:25; Zechariah <strong><sup>3</sup></strong>:10; 2 Kings <strong><sup>18</sup></strong>:31; Isaiah <strong><sup>36</sup></strong>:16).
-
-Romans<strong> 11</strong>:16b-24: The Olive Tree
-
-Wild branches have been grafted into the Abrahamic olive tree.
-
-If the branches wild or natural do not bear fruit, they will be trimmed out of the tree.
-
-Gentiles are to see themselves as brought into the Abrahamic tree because its root
-
-nourishes the branches; the branches do not nourish the root.
-
-Trees that do not bear fruit are cut down and thrown into the fire (Matthew <strong><sup>3</sup></strong>:10 = Luke
-
-<strong><sup>3</sup></strong>:9).
-
-Fruitless trees (Jude 12), blown over by the wind and uprooted, represent false leaders.
-
-The measure of a good or bad fruit tree is only whether it has good or bad fruit, not whether it is pretty (as a decorative tree might be, or goodness on the basis of Abraham’s origin; Matthew <strong><sup>7</sup></strong>:17-18 = Luke<strong> 6</strong>:45; <strong><sup>12</sup></strong>:33 = Luke <strong><sup>6</sup></strong>:43-44, particularly). It is not what they look like or sound like; those are things that “don’t count.”
-
-The cursing of the fig tree was evidently an object lesson about fruitlessness despite a “show” of fruitfulness (by putting out leaves; Matthew <strong><sup>21</sup></strong>:18-20 = Mark<strong> 11</strong>:12-14, 20-21).
-
-A fig tree puts out leaves before summer; hence, its leaves become a way of predicting
-
-the future—the near future at least (Mark <strong><sup>13</sup></strong>:28-30; Matthew <strong><sup>24</sup></strong>:32; Luke <strong><sup>21</sup></strong>:30).
-
-As a fig tree loses its fruit in a storm, so will the elements be moved in the end times
-
-(Revelation <strong><sup>6</sup></strong>:13; cp. Isaiah <strong><sup>34</sup></strong>:4).
-
-Laying an ax at the foot of a tree represents impending destruction.
-
-Green tree represents a time of relative prosperity (<em>vs.</em> dry? Luke <strong><sup>23</sup></strong>:31)
-
-
-Tutor
-
-
-Galatians <strong><sup>3</sup></strong>:24-25
-
-
-<strong><u>Unclean/uncleanness</u></strong>
-
-
-a.	Sickness,   b. Sin,  c. Ceremonial defilement,  d. Dirty
-
-
-Applied to “evil” spirits (demons; Matthew <strong><sup>10</sup></strong>:1; <strong><sup>12</sup></strong>:43; Mark <strong><sup>1</sup></strong>:23, 26, 27;<strong> 3</strong>:11, 30; <strong><sup>5</sup></strong>:2, 8, 13;<strong> 6</strong>:7; <strong><sup>7</sup></strong>:25; <strong><sup>9</sup></strong>:25; Luke <strong><sup>4</sup></strong>:33, 36; <strong><sup>6</sup></strong>:18; <strong><sup>8</sup></strong>:29; <strong><sup>9</sup></strong>:42; <strong><sup>11</sup></strong>:24; Acts <strong><sup>5</sup></strong>:16; <strong><sup>8</sup></strong>:7; Revelation <strong><sup>16</sup></strong>:13; 18:2)
-
-Illegitimate children (1 Corinthians <strong><sup>7</sup></strong>:14)
-
-Ceremonially defiled (Acts <strong><sup>10</sup></strong>:14, 28; <strong><sup>11</sup></strong>:8; 2 Corinthians <strong><sup>6</sup></strong>:17)
-
-Filthy acting person (Ephesians<strong> 5</strong>:5?)
-
-Sickness like leprosy (Luke <strong><sup>5</sup></strong>:12-14)
-
-
-Vapor/Steam/Mist
-
-
-Vapor represents transitoriness (James <strong><sup>4</sup></strong>:14)
-
-Mists driven by the wind represents instability (2 Peter <strong><sup>2</sup></strong>:17)
-
-
-*Vessel
-
-
-The body is a vessel (1 Peter<strong> 4</strong>:4).
-
-The human person is a vessel (of divine service; Acts <strong><sup>9</sup></strong>:15; 2 Corinthians <strong><sup>4</sup></strong>:7;
-
-2 Timothy<strong> 2</strong>:20; 1 Peter <strong><sup>3</sup></strong>:7).
-
-
-(Vine; see “Plant Imagery”)
-
-
-Vineyard
-
-
-Evil behavior (Romans <strong><sup>1</sup></strong>:24; <strong><sup>6</sup></strong>:19)
-
-Parable of Laborers in a Vineyard (Matthew <strong><sup>20</sup></strong>:1-16)
-
-Parable of the Wicked Husbandmen (Matthew <strong><sup>21</sup></strong>:33-46; Mark <strong><sup>12</sup></strong>:1-12; Luke <strong><sup>20</sup></strong>:9-19)
-
-The one that plants a vineyard eats from the fruit of it (1 Corinthians <strong><sup>9</sup></strong>:7b, 8-10ff.).
-
-Patience is needed for the result (conclusion of the matter) even as a husbandman has to
-
-wait a long time for the harvest (James <strong><sup>5</sup></strong>:7)
-
-Parable of the Two Sons (Matthew<strong> 21</strong>:28-32)
-
-Workers in a vineyard complement each other’s work of ministry. They work together
-
-for the same project; hence, a comment against division.
-
-God is the most prominent member in this effort; the ministers take no credit for the
-
-results any more than a gardener causes plants to grow.
-
-
-Vipers
-
-
-Represent wisdom (Matthew <strong><sup>10</sup></strong>:16)
-
-(See also “Sons/Offspring of Vipers” and “Family Relations Imagery.”)
-
-
-Vultures
-
-
-As they are gathered around a carcass, so will the center of attention be at Christ’s
-
-coming (Matthew <strong><sup>24</sup></strong>:28).
-
-
-Wages
-
-
-Wages stand for the consequences of actions.
-
-<em>“The wages of sin is death”</em> (Romans <strong><sup>6</sup></strong>:23; cp. 2 Peter <strong><sup>2</sup></strong>:15).
-
-Support for ministry is called “wages” (2 Corinthians <strong><sup>11</sup></strong>:8).
-
-John <strong><sup>4</sup></strong>:36
-
-
-
-Walk
-
-
-Conduct of life. Walking is something that a person continuously does; especially would this have been the case in the ancient world. Furthermore, walking is an image that corresponds with way or path. Way is a typical picture for a pattern of belief or living. Walking the way refers then to the active conduct of life according to such a pattern.
-
-
-<strong><u>Warfare imagery</u></strong>
-
-
-*War of words (2 Timothy <strong><sup>2</sup></strong>:14 [λογομαχέω, <em>logomacheō</em>, a once-used word];
-
-1 Timothy <strong><sup>6</sup></strong>:4 [λογομαχία, a once-used word])
-
-Armor (Ephesians <strong><sup>6</sup></strong>:10-20; 1 Peter <strong><sup>5</sup></strong>:8 < Wisdom <strong><sup>5</sup></strong>:17ff.).
-
-Soldier (2 Timothy <strong><sup>2</sup></strong>:3-4)
-
-Soldiers do not get entangled in the affairs of public life (2 Timothy <strong><sup>2</sup></strong>:4).
-
-Soldiers do not serve at their own expense (2 Corinthians <strong><sup>9</sup></strong>:7a).
-
-Being captured by Satan (2 Timothy <strong><sup>2</sup></strong>:26; <strong><sup>3</sup></strong>:6)
-
-Lording it over people—or, bringing them under law—is like capturing them
-
-(2 Corinthians<strong> 11</strong>:10).
-
-Considering ahead of time whether you have the strength to wage this war (Luke <strong><sup>14</sup></strong>:31-
-
-32)
-
-
-Water
-
-
-John <strong><sup>4</sup></strong>:10-15
-
-Water as a symbol for the word
-
-a) a “life-giving” message
-
-b) quenches thirst
-
-Water as a symbol for the Holy Spirit (John <strong><sup>7</sup></strong>:38-39)
-
-Water as a symbol for cleansing/purification
-
-Water as a symbol for life-giving resource
-
-Water as a symbol for vast numbers of people (Revelation)
-
-
-Way/Road
-
-
-A way/road represents a way of life.
-
-*The Way became a term for early Christianity: Acts <strong><sup>9</sup></strong>:2; <strong><sup>19</sup></strong>:9, 23; <strong><sup>22</sup></strong>:4;<strong> 24</strong>:14, 22
-
-Preparing the road for someone means getting ready for him (Malachi <strong><sup>3</sup></strong>:1; Isaiah <strong><sup>40</sup></strong>:3-
-
-5 < Matthew <strong><sup>3</sup></strong>:3 = Mark <strong><sup>1</sup></strong>:2-3 = Luke <strong><sup>3</sup></strong>:4-6 = John <strong><sup>1</sup></strong>:23).
-
-
-Weather
-
-
-We use the way the sky looks as a way of predicting the weather; so also we use the
-
-way things are going as a way to project the future (Matthew <strong><sup>16</sup></strong>:2-4; Luke <strong><sup>12</sup></strong>:54-56).
-
-Boanerges: Jesus nicknamed James and John “Sons of Thunder” because of their
-
-temperament (? Mark<strong> 3</strong>:16; cp. Luke <strong><sup>9</sup></strong>:54; Mark <strong><sup>9</sup></strong>:38).
-
-Weddings
-
-
-Parable of the Ten Virgins
-
-The sons of the bridegroom cannot be sad (hence, fast) while the bridegroom is around
-
-(Matthew<strong> 9</strong>:14-16 = Mark <strong><sup>2</sup></strong>:18-20 = Luke <strong><sup>5</sup></strong>:33-35).
-
-Parable of the Marriage Feast and the Slighted Invitation (Matthew<strong> 22</strong>:2-14; Luke
-
-<strong><sup>14</sup></strong>:16-24)
-
-Jesus had the bride, not John because the latter was not the Messiah (John <strong><sup>3</sup></strong>:29).
-
-John called himself a friend of the Bridegroom/Jesus (John <strong><sup>3</sup></strong>:29) to indicate his
-
-secondary position and his joy at seeing the other person’s importance.
-
-
-*Weeping and gnashing of teeth
-
-
-As a standard phrase it stands for (extreme) suffering (Matthew <strong><sup>24</sup></strong>:51; <strong><sup>8</sup></strong>:12; <strong><sup>13</sup></strong>:42, 50;
-
-<strong><sup>22</sup></strong>:13; <strong><sup>25</sup></strong>:30; Luke <strong><sup>13</sup></strong>:28).
-
-
-Wheat
-
-
-Sifting someone like wheat means putting him through hard experiences (Luke<strong> 22</strong>:31;
-
-Amos<strong> 9</strong>:9; Isaiah <strong><sup>30</sup></strong>:28).
-
-
-Widow of Zarephath/Sarepta
-
-
-In Luke <strong><sup>4</sup></strong>:26 Jesus uses the help Elijah gave to this widow during the 3½ years of drought as a picture of God’s concern for non-Jews. (See also “Jonah,” “Solomon,” “Naaman.”).
-
-
-*Wind
-
-
-Represents the trials and tests of life (Matthew <strong><sup>7</sup></strong>:25, 27; cp. James<strong> 3</strong>:4?)
-
-Represents the Spirit (John <strong><sup>3</sup></strong>)
-
-Winds blowing in different directions represent contrary influences on people that
-
-confuse them (Ephesians <strong><sup>4</sup></strong>:14).
-
-Wind on the threshing floor is used to blow the chaff—profitless, unstable material—
-
-out of the seed.
-
-“The four winds” refers to “all directions” (Matthew <strong><sup>24</sup></strong>:31 = Mark<strong> 13</strong>:27; Revelation
-
-<strong><sup>7</sup></strong>:1; Daniel<strong> 7</strong>:2; Zechariah <strong><sup>2</sup></strong>:6).
-
-
-Wine
-
-
-A person that has old wine does not want to go to new, which is comparable to observing that a person who experiences the better does not want to go back to the lesser (Luke<strong> 5</strong>:39).
-
-
-
-Wineskins
-
-
-You do not put new wine into old wineskins as compared to trying to put certain contents into containers unnatural to hold those contents (Matthew <strong><sup>9</sup></strong>:12 = Mark <strong><sup>2</sup></strong>:22 = Luke <strong><sup>5</sup></strong>:37-38).
-
-
-Compare re-creation, born-again <em>vs.</em> circumcision.
-
-
-(Winnowing; see “Sowing-Reaping/Harvesting-Seed.”)
-
-
-Womb
-
-
-Opening the womb means being the firstborn (Luke<strong> 2</strong>:23).
-
-Source
-
-
-Word
-
-
-Christ is called the word of God because he declared him (John <strong><sup>1</sup></strong>:18; John <strong><sup>1</sup></strong>:1, 14).
-
-
-World
-
-
-The material realm in contrast to heaven
-
-The typical evil society of people (John <strong><sup>15</sup></strong>:18-19; <strong><sup>16</sup></strong>:8)
-
-Political/material
-
-The (a) world has people as its content, and (b) people are generally evil; hence, the
-
-connection between the creation and evil.
-
-
-Yeast (See “Leaven.”)
-
-
-*Yoke
-
-
-Fellow workers are yoke fellows (Philippians <strong><sup>4</sup></strong>:3).
-
-Christians should not yoke themselves together with unbelievers (2 Corinthians <strong><sup>6</sup></strong>:14).
-
-Accepting Christ’s way of living is like taking an easy yoke on yourself (Matthew
-
-<strong><sup>11</sup></strong>:29-30).
-
-
-
-Putting circumcision and obedience to the law of Moses on Gentiles is like putting too
-
-big a yoke on them that they cannot handle (Acts <strong><sup>15</sup></strong>:10; Galatians<strong> 5</strong>:1).
-
-Being a slave is like being under a yoke (1Timothy<strong> 6</strong>:1).
-
-
-
-
-<strong>Part II: The Ideas Represented by Images</strong>
-
-
-<strong>Agency</strong>
-
-
-The arm of God
-
-The finger of God (Luke <strong><sup>11</sup></strong>:20; Exodus <strong><sup>8</sup></strong>:19)
-
-The hand of God
-
-Invisible agency like what causes the wind to blow (John <strong><sup>3</sup></strong>:8)
-
-
-<strong>Abrogating the law</strong>
-
-
-Nailing it to the cross
-
-Tearing down the temple and rebuilding a temple in its place
-
-Dying to get out from under Mosaism (death-resurrection)
-
-
-<strong>Animal imagery</strong>
-
-
-Dove: harmlessness
-
-Fox: slyness (Luke <strong><sup>13</sup></strong>:32)
-
-Lion: strength, destruction
-
-Scorpion: surprising harm/pain
-
-Sheep: dependency
-
-Snakes/vipers/dragon/reptiles: wisdom, deception, repulsiveness
-
-Wolf
-
-
-<strong>Antecedent-consequence images</strong>
-
-
-a.	Result
-
-Wages
-
-Inheritance
-
-Fruit
-
-
-b.	Correlation between kind of cause and kind of effect
-
-Grapes do not come from thorns.
-
-Figs do not come from thistles.
-
-Flesh is what comes from flesh.
-
-Spirit is what comes from spirit.
-
-
-c.	Small cause for large result
-
-*Bridle/bit (James<strong> 3</strong>:3)
-
-Rudder of a ship (James <strong><sup>3</sup></strong>:3)
-
-Spark of fire (James <strong><sup>3</sup></strong>:6)
-
-Mustard seed relative to the plant that comes from it
-
-
-
-d.	Inescapable consequences
-
-
-A millstone tied around the neck and the person thrown into the ocean (Matthew
-
-<strong><sup>18</sup></strong>:6; Mark <strong><sup>9</sup></strong>:2; Luke <strong><sup>17</sup></strong>:2)
-
-Heading toward the pangs of childbirth
-
-A stone falling on someone and grinding him to dust (Matthew <strong><sup>21</sup></strong>:44)
-
-
-<strong>Apostasy </strong>(returning to something previously left)
-
-
-A washed sow returning to the mud hole (Proverbs <strong><sup>26</sup></strong>:11; 2 Peter<strong> 2</strong>:22)
-
-A dog eating his own vomit (Proverbs <strong><sup>26</sup></strong>:11; 2 Peter <strong><sup>2</sup></strong>:22)
-
-
-<strong>Atonement</strong>
-
-
-Belonging in (Christ); citizenship; sonship
-
-
-Imageries: (<em>What the Bible Says About Salvation</em>, pp. 65-68)
-
-a.	Ransom (Matthew <strong><sup>20</sup></strong>:28; Mark <strong><sup>10</sup></strong>:45; Luke <strong><sup>24</sup></strong>:21; John <strong><sup>8</sup></strong>:34-36; Romans <strong><sup>3</sup></strong>:24; <strong><sup>6</sup></strong>:16-18; 1 Corinthians <strong><sup>1</sup></strong>:30; Ephesians <strong><sup>1</sup></strong>:7, 14; Colossians <strong><sup>1</sup></strong>:14; <sup>1</sup>Timothy <strong><sup>2</sup></strong>:7; Titus <strong><sup>2</sup></strong>:14; Hebrews <strong><sup>9</sup></strong>:12, 15; 1 Peter <strong><sup>1</sup></strong>:18-19)
-
-b.	The brazen serpent Moses held up on a standard (John <strong><sup>3</sup></strong>:14-15 < Numbers <strong><sup>21</sup></strong>:4-9)
-
-c.	Healing (Isaiah <strong><sup>53</sup></strong>:5; 1 Peter<strong> 2</strong>:24; Hebrews <strong><sup>12</sup></strong>:13; John <strong><sup>3</sup></strong>:14-15)
-
-d.	Whipping boy (Isaiah<strong> 53</strong>:54-55, 57-58)
-
-e.	Animal sacrifice (Hebrews <strong><sup>10</sup></strong>:1-12 < Psalm <strong><sup>40</sup></strong>:6-8; John<strong> 1</strong>:29, 36; Isaiah <strong><sup>53</sup></strong>:7; Acts <strong><sup>8</sup></strong>:32; 1 Peter <strong><sup>1</sup></strong>:19; Revelation <strong><sup>5</sup></strong>:6, 8, 12, 13, <em>etc</em>.; Matthew <strong><sup>26</sup></strong>:26-29; Mark<strong> 14</strong>:22-25; Luke <strong><sup>22</sup></strong>:14-20; Romans <strong><sup>3</sup></strong>:21-26; Galatians<strong> 3</strong>:13; Hebrews <strong><sup>9</sup></strong>:26; 1 Peter<strong> 2</strong>:24)
-
-f.	Scapegoat (Leviticus <strong><sup>16</sup></strong>:1-28)
-
-g.	Purification (Hebrews <strong><sup>1</sup></strong>:3; John <strong><sup>8</sup></strong>:9; Acts <strong><sup>15</sup></strong>:9; <strong><sup>23</sup></strong>:1;<strong> 24</strong>:16; 1 Timothy <strong><sup>1</sup></strong>:5, 19; 3:9; 2 Timothy<strong> 1</strong>:3; Titus <strong><sup>2</sup></strong>:14; Hebrews <strong><sup>9</sup></strong>:9, 13-14; <strong><sup>10</sup></strong>:2, 22; <strong><sup>13</sup></strong>:18; 1 Peter<strong> 2</strong>:19;<strong> 3</strong>:16, 21; 1 John <strong><sup>1</sup></strong>:7-9; Revelation <strong><sup>7</sup></strong>:14)
-
-h.	Founder (Hebrews <strong><sup>2</sup></strong>:10; <strong><sup>12</sup></strong>:2; Acts<strong> 3</strong>:15; <strong><sup>5</sup></strong>:31)
-
-i.	Conqueror (Hebrews 2:14-15; Matthew <strong><sup>16</sup></strong>:18; Mark <strong><sup>3</sup></strong>:27; John<strong> 8</strong>:34; Romans <strong><sup>6</sup></strong>:16;
-
-<strong><sup>8</sup></strong>:37-39; 1 Corinthians <strong><sup>15</sup></strong>:55-57; 2 Timothy <strong><sup>1</sup></strong>:10; 1 John <strong><sup>3</sup></strong>:8)
-
-j.	Propitiation (Romans <strong><sup>3</sup></strong>:25; Hebrews <strong><sup>2</sup></strong>:17; 1 John<strong> 2</strong>:2; 4:10; Romans<strong> 5</strong>:10; <strong><sup>11</sup></strong>:28)
-
-k.	Example (1 Peter <strong><sup>2</sup></strong>:21-23; Luke <strong><sup>7</sup></strong>:47; John <strong><sup>15</sup></strong>:13)
-
-l.	Representation (Hebrews <strong><sup>2</sup></strong>:5-18 < Psalm<strong> 8</strong>:4-6)
-
-m. Priest: (Hebrews <strong>5-10</strong>)
-
-n. 	Prophet (Hebrews <strong><sup>1</sup></strong>:1-4)
-
-o.	Testator (Hebrews <strong><sup>9</sup></strong>:15-22)
-
-p.	Primogenitor (Colossians <strong><sup>1</sup></strong>:13-24)
-
-q.	Begetter (1 Peter <strong><sup>1</sup></strong>:23)
-
-*r. 	Purchaser (1 Corinthians<strong> 6</strong>:20;<strong> 7</strong>:23; 2 Peter <strong><sup>2</sup></strong>:1; Acts <strong><sup>20</sup></strong>:28; Revelation <strong><sup>5</sup></strong>:9; <strong><sup>14</sup></strong>:3-
-
-4)
-
-
-<strong>Change</strong>
-
-
-The inability to change something
-
-The leopard cannot change its spots (Jeremiah <strong><sup>13</sup></strong>:23).
-
-The Ethiopian cannot change his skin (Jeremiah <strong><sup>13</sup></strong>:23).
-
-A person cannot change his hair to a different color (Matthew<strong> 5</strong>:36).
-
-By anxiety you cannot make yourself taller (Matthew<strong> 6</strong>:27).
-
-
-<strong>Danger</strong>
-
-
-Sending out sheep among wolves (Matthew <strong><sup>10</sup></strong>:16; Luke <strong><sup>10</sup></strong>:3)
-
-
-<strong>Death</strong>
-
-
-Exodus (2 Peter<strong> 1</strong>:15; Luke<strong> 9</strong>:31)
-
-Going to sleep
-
-
-<strong>Deception</strong>
-
-
-A wolf in sheep skin (Matthew <strong><sup>7</sup></strong>:15)
-
-Adder/asps/vipers/snakes (Psalm <strong><sup>140</sup></strong>:3 < Matthew <strong><sup>3</sup></strong>:7 = Luke<strong> 3</strong>:7; <strong><sup>12</sup></strong>:34; <strong><sup>23</sup></strong>:33;
-
-Romans<strong> 3</strong>:13)
-
-
-<strong>Degree</strong>
-
-
-Intensity
-
-Girding yourself up
-
-Racing/running
-
-Warfare/fighting
-
-Intense perception: taste
-
-Lack of intensity: lukewarmness
-
-
-<strong>Difficult or impossible things</strong>
-
-
-Camel to go through a needle’s eye (Matthew<strong> 19</strong>:23-24; Mark <strong><sup>10</sup></strong>:25; Luke <strong><sup>18</sup></strong>:25)
-
-
-<strong>Enduring a hard experience</strong>
-
-
-Drinking a cup (Matthew <strong><sup>20</sup></strong>:23-23; <strong><sup>26</sup></strong>:42 = Luke <strong><sup>22</sup></strong>:42 = John <strong><sup>18</sup></strong>:11)
-
-Being baptized
-
-Travail in childbirth
-
-
-<strong>Evangelizing</strong>
-
-
-Fishing (Matthew <strong><sup>4</sup></strong>:19; Mark <strong><sup>1</sup></strong>:17; Luke <strong><sup>5</sup></strong>:10)
-
-Harvesting
-
-
-<strong>Exactness</strong>
-
-
-The width of a hair (Judges <strong><sup>20</sup></strong>:16)
-
-
-<strong>Experiencing something perceptively</strong>
-
-
-Taste (Mark<strong> 9</strong>:9)
-
-Seeing: “Shall not see the kingdom.”
-
-
-<strong>Faith</strong>
-
-
-The power of faith is pictured as:
-
-Moving mountains (Matthew <strong><sup>17</sup></strong>:20; <strong><sup>21</sup></strong>:21 = Mark <strong><sup>11</sup></strong>:23; 1 Corinthians <strong><sup>13</sup></strong>:2)
-
-Uprooting a tree and throwing it into the sea
-
-Withering a fig tree (Matthew <strong><sup>21</sup></strong>:21; Luke <strong><sup>17</sup></strong>:6)
-
-Illustration of Elijah (James <strong><sup>5</sup></strong>:17-18)
-
-Abraham epitomizes faithfulness.
-
-
-<strong>Followers of Jesus</strong>
-
-
-Christians
-
-Lambs
-
-Sheep
-
-Disciples
-
-Living Stones
-
-Pillars in the temple of God
-
-
-<strong>Foreign/Alien Matter</strong>
-
-
-Chaff
-
-Dross
-
-The man at a wedding feast without a wedding garment
-
-Weeds/tares in a field of wheat
-
-Mote/speck in a person’s eye
-
-Leaven
-
-Offending hand
-
-Offending eye
-
-Rock in a love feast
-
-
-
-<strong>Future</strong>
-
-
-South wind means that the weather will be hot (Luke <strong><sup>12</sup></strong>:55).
-
-Cloud in the west means that there will be a shower (Luke <strong><sup>12</sup></strong>:54).
-
-Evening sky is red means fair weather is coming (Matthew <strong><sup>16</sup></strong>:2).
-
-Morning sky is red and lowering means that there will be foul weather (Matthew
-
-<strong><sup>16</sup></strong>:3).
-
-
-<strong>Gentleness of Jesus</strong>
-
-
-Not breaking a bruised reed (Matthew<strong> 12</strong>:20)
-
-Not putting out smoking flax
-
-
-<strong>Grace</strong>
-
-
-People will return graciousness like meal shaken together, pressed down and running
-
-over (Luke <strong><sup>6</sup></strong>:38).
-
-
-<strong>Harmlessness</strong>
-
-
-Doves (Matthew <strong><sup>10</sup></strong>:16)
-
-Lambs (Luke <strong><sup>10</sup></strong>:3)
-
-
-<strong>Hell/Judgment Consequences</strong>
-
-
-Being burned in Gehenna
-
-Burning bundles of weeds at harvest time
-
-Burning chaff
-
-Burning fruitless trees after they have been cut down
-
-Breaking off/cutting out fruitless branches (Romans <strong><sup>11</sup></strong>:17, 22)
-
-Burning off a field (Hebrews <strong><sup>6</sup></strong>)
-
-Fines and imprisonment (Matthew <strong><sup>5</sup></strong>:23-26; Luke<strong> 13</strong>:57-59)
-
-Outer darkness
-
-Throwing salt out on the pathway (Matthew<strong> 5</strong>:13)
-
-
-<strong>Holy Spirit</strong>
-
-
-Called an earnest (Ephesians <strong><sup>1</sup></strong>:14)
-
-Called a firstfruit (Romans <strong><sup>8</sup></strong>:23, appositive genitive?)
-
-
-<strong>Humility</strong>
-
-
-Like a slave Jesus took a towel and washed the feet of his disciples.
-
-Jesus took a little child and picked him up as an object lesson to his disciples.
-
-
-<strong>Identity</strong>
-
-
-Exclusiveness of identity
-
-
-Slavery: a person can be the servant of only one master.
-
-Marriage: a woman can be the wife of only one husband (at a time).
-
-
-Establishing identity
-
-
-Circumcision
-
-Baptism
-
-Entrance into a sphere (εἰς)
-
-
-Giving up autonomous identity
-
-
-Becoming a slave of Jesus Christ
-
-A seed has to “die” to produce the plant and its fruit (John <strong><sup>12</sup></strong>:24; cp. 1 Corinthians
-
-<strong><sup>15</sup></strong>:36-37).
-
-
-<strong>Imperception</strong>
-
-
-Darkness (Ephesians <strong><sup>5</sup></strong>:14)
-
-Hardening of heart (Mark <strong><sup>6</sup></strong>:52; <strong><sup>8</sup></strong>:17-21; cp. Romans<strong> 11</strong>:7-8, 25)
-
-Blindness
-
-Deafness
-
-Dead (Ephesians <strong><sup>5</sup></strong>:14)
-
-Eyes were holden
-
-Sleep (Ephesians<strong> 5</strong>:14)
-
-
-<strong>Incompatibility</strong>
-
-
-New wine in old wineskins (Matthew <strong><sup>9</sup></strong>:17; Mark <strong><sup>2</sup></strong>:22; Luke <strong><sup>5</sup></strong>:37-38)
-
-UnSanforized cloth on a Sanforized garment (Matthew <strong><sup>9</sup></strong>:16)
-
-
-<strong>Incongruity</strong>
-
-
-a.	Bitter and sweet water coming from the same spring (cp. to cursing and blessing
-
-with the same tongue; James <strong><sup>3</sup></strong>:9-12).
-
-b.	Compare item under “incompatibility”
-
-c.	Good fruit from bad trees, and so on (Matthew<strong> 7</strong>:17ff.)
-
-
-<strong>Influence</strong>
-
-
-A city set on a hill (Matthew <strong><sup>5</sup></strong>:14)
-
-The blowing of the wind (Ephesians <strong><sup>4</sup></strong>:14)
-
-Light (Matthew <strong><sup>5</sup></strong>:15-16)
-
-Invisible realities known by their effects:
-
-Leaven
-
-Wind
-
-Spirit’s indwelling
-
-
-<strong>Inner/Outer</strong>
-
-
-Cleaning up appearances, ceremonial washings regulations, but not changing the heart is compared to washing the outside of the cup and platter but not the inside (Matthew <strong><sup>23</sup></strong>:25-26; Luke <strong><sup>11</sup></strong>:39-41).
-
-Whitewashed sepulchers (Matthew<strong> 23</strong>:27-29ff.)
-
-
-<strong>Insensitivity</strong>
-
-
-Hardness
-
-Dead
-
-Stiff-necked (stubborn? Proud?)
-
-Ears dull of hearing
-
-Eyes dull of seeing
-
-
-<strong>Instability</strong>
-
-
-A reed blowing in the wind
-
-Chaff driven by the wind
-
-A ship tossed to and fro in the wind (Ephesians<strong> 4</strong>:14)
-
-The waves of the sea blown around by the wind (James <strong><sup>1</sup></strong>:6; Jude 12)
-
-
-<strong>Internal Sources of Quality</strong>
-
-
-Effulgence (direct shining) <em>vs.</em> reflection (Hebrews <strong><sup>1</sup></strong>:3)
-
-Being salt that supplies flavor <em>vs.</em> food that receives flavor from the salt (Mark<strong> 9</strong>:50)
-
-Having the law of God written on the heart rather than on external tablets of stone
-
-(Jeremiah <strong><sup>31</sup></strong>; 2 Corinthians <strong><sup>3</sup></strong>)
-
-Indwelling of the Holy Spirit/Christ
-
-
-<strong>Jesus</strong>
-
-
-Son
-
-Only Begotten Son
-
-Firstborn
-
-Teacher (John <strong><sup>13</sup></strong>:13)
-
-Word
-
-Good Shepherd
-
-High Priest
-
-King
-
-Lord/Master (κύριος, <em>kyrios</em>; John <strong><sup>13</sup></strong>:13)
-
-Pioneer/Forerunner
-
-Bread of Life (manna)
-
-Light of the World
-
-Water of Life
-
-The Vine
-
-Apostle
-
-Son of Man
-
-Messiah/Christ
-
-The Door of the Sheep (John<strong> 10</strong>:7)
-
-Resurrection (John <strong><sup>11</sup></strong>:25)
-
-
-<strong>Joy over improvement in comparison to goodness</strong>
-
-
-Matthew<strong> 18</strong>:12-13; Luke<strong> 15</strong>:4-7
-
-
-<strong>Judgment Day</strong>
-
-
-Like settling up business accounts
-
-Like settling up responsibilities and performances (Matthew<strong> 25</strong>:14-30)
-
-Like separating sheep from goats (Matthew <strong><sup>25</sup></strong>:32-33 < Ezekiel <strong><sup>34</sup></strong>:17, cp. 20)
-
-Like separating chaff from wheat
-
-Like separating wheat from tares/weeds
-
-
-<strong>Law</strong>
-
-
-Ceasing of the law to have jurisdiction over us
-
-a.	dying
-
-b.	abrogation/annulment
-
-c.	nailing the law to the cross (Colossians <strong><sup>2</sup></strong>:14; cp. Romans <strong><sup>10</sup></strong>:4; Galatians <strong><sup>3</sup></strong>:13; <strong><sup>5</sup></strong>:1)
-
-
-<strong>Leadership/greatness, proper</strong>
-
-
-Jesus washed his disciples’ feet.
-
-Jesus used a little child to represent the mentality of greatness in the kingdom.
-
-Leaders who do not know what they are doing are like blind people trying to lead blind
-
-people (Matthew <strong><sup>15</sup></strong>:14; Luke<strong> 6</strong>:39).
-
-
-<strong>Loudness</strong>
-
-
-Noise of battle
-
-Many waters: the crashing of waves against the shore
-
-Thunder
-
-
-<strong>Number</strong>
-
-
-*Sand by the seashore (Genesis <strong><sup>22</sup></strong>:17; <strong><sup>32</sup></strong>:12; <strong><sup>41</sup></strong>:49; Joshua <strong><sup>11</sup></strong>:4; 1 Samuel<strong> 13</strong>:5; 1 Kings<strong> 4</strong>:20, 29; Job <strong><sup>29</sup></strong>:18; Psalm <strong><sup>78</sup></strong>:27; <strong><sup>139</sup></strong>:18; Isaiah <strong><sup>10</sup></strong>:22; <strong><sup>48</sup></strong>:19; Jeremiah <strong><sup>15</sup></strong>:8; <strong><sup>33</sup></strong>:22; Hosea <strong><sup>1</sup></strong>:10; Habakkuk <strong><sup>1</sup></strong>:9; Romans <strong><sup>9</sup></strong>:27; Hebrews <strong><sup>11</sup></strong>:12; Revelation <strong><sup>20</sup></strong>:8)
-
-*Stars in the sky (Genesis <strong><sup>15</sup></strong>:5; <strong><sup>22</sup></strong>:17; <strong><sup>26</sup></strong>:4; <strong><sup>32</sup></strong>:12; Hebrews<strong> 11</strong>:12; Deuteronomy <strong><sup>1</sup></strong>:10; <strong><sup>10</sup></strong>:22;<strong> 28</strong>:62; Exodus<strong> 32</strong>:13; 1 Chronicles <strong><sup>27</sup></strong>:23; Nehemiah <strong><sup>9</sup></strong>:23; Psalm<strong> 147</strong>:4; Daniel <strong><sup>12</sup></strong>:3; Nahum <strong><sup>3</sup></strong>:16)
-
-The hairs on the head (Matthew <strong><sup>10</sup></strong>:30 = Luke <strong><sup>12</sup></strong>:7)
-
-Cloud (Hebrews <strong><sup>12</sup></strong>:1)
-
-Water
-
-
-<strong>Omniscience</strong>
-
-
-Hairs of your head are numbered (Matthew <strong><sup>10</sup></strong>:30 = Luke <strong><sup>12</sup></strong>:7)
-
-God knows when a sparrow falls to the ground (Matthew <strong><sup>10</sup></strong>:29 = Luke <strong><sup>12</sup></strong>:6)
-
-
-<strong>Ordeal</strong>
-
-
-Drinking a cup (Matthew<strong> 20</strong>:22 = Mark <strong><sup>10</sup></strong>:38, 39; Matthew <strong><sup>26</sup></strong>:39, 42; Luke<strong> 22</strong>:42;
-
-John <strong><sup>18</sup></strong>:11 < Isaiah <strong><sup>51</sup></strong>:17, 22; Jeremiah <strong><sup>49</sup></strong>:12)
-
-Being baptized with a baptism (Mark<strong> 10</strong>:38-39; Luke <strong><sup>12</sup></strong>:50)
-
-Taking up a cross
-
-Being in travail
-
-
-<strong>Outsider</strong>
-
-
-Samaritan
-
-Publican (Matthew<strong> 18</strong>:17)
-
-Gentiles/uncircumcised (Matthew <strong><sup>18</sup></strong>:17)
-
-Person in the outer darkness
-
-Person outside the wedding feast
-
-The five foolish virgins
-
-
-<strong>Overcoming obstacles/opposition</strong>
-
-
-Putting something/someone under your feet (Ephesians <strong><sup>1</sup></strong>:22)
-
-
-<strong>Overwhelming opposition</strong>
-
-
-Baptism
-
-Flood
-
-
-<strong>Patience/endurance/steadfastness</strong>
-
-
-Job symbolizes patience/endurance (James <strong><sup>5</sup></strong>:11).
-
-The prophets who spoke for the Lord are examples of endurance (James <strong><sup>5</sup></strong>:10).
-
-A husbandman waiting for the fruit of the vineyard (James <strong><sup>5</sup></strong>:7)
-
-
-<strong>Prayer</strong>
-
-
-The effectiveness of prayer is represented by Elijah (James <strong><sup>5</sup></strong>:17-18).
-
-A friend will help especially if the requester is urgent about his request even though
-
-responding will inconvenience the one who answers it (Luke<strong> 11</strong>:5-8).
-
-The parable of the Unjust Judge and the Importunate Widow (Luke <strong><sup>18</sup></strong>:1-8)
-
-Knocking on a door is like praying/asking God for something (Matthew <strong><sup>7</sup></strong>:8; Luke
-
-<strong><sup>11</sup></strong>:1).
-
-
-<strong>Private</strong> (<em>vs</em>. public)
-
-
-Inner chamber <em>vs.</em> housetops (Luke <strong><sup>12</sup></strong>:3)
-
-Darkness (<em>vs.</em> light) (= night <em>vs.</em> daylight; Luke <strong><sup>12</sup></strong>:3)
-
-Hid (<em>vs.</em> revealed; Luke <strong><sup>12</sup></strong>:2)
-
-Whispered in the ear (<em>vs.</em> shouted from the housetops; Luke <strong><sup>12</sup></strong>:3)
-
-Closet (<em>vs.</em> street corners; Matthew <strong><sup>6</sup></strong>:5, 6)
-
-
-<strong>Provision </strong>(divine)
-
-
-Provides for:
-
-The lilies (Matthew <strong><sup>6</sup></strong>:28-30; Luke <strong><sup>12</sup></strong>:27)
-
-Ravens/sparrows (Luke <strong><sup>12</sup></strong>:24)
-
-Grass (Luke <strong><sup>12</sup></strong>:28)
-
-
-(Public <em>vs</em>. Private; see “Private” <em>vs</em>. “Public”)
-
-
-<strong>Purification</strong>
-
-
-Water represents cleansing.
-
-Fire represents purification, especially that kind that comes from enduring trials.
-
-Winnowing blows the chaff out of the mixture of wheat and chaff.
-
-Circumcision
-
-Pruning trees (Romans <strong><sup>11</sup></strong>), grape vines (under the image of cleansing—John <strong><sup>15</sup></strong>:2)
-
-Amputation: cutting off a hand/foot that “offends” (Matthew <strong><sup>5</sup></strong>:29-30; <strong><sup>18</sup></strong>:8; Mark
-
-<strong><sup>9</sup></strong>:43-44)
-
-Removing an eye that “offends” (Matthew<strong> 5</strong>:29; Mark <strong><sup>9</sup></strong>:47)
-
-
-<strong>Quick</strong>
-
-
-Blink of an eye (1 Corinthians <strong><sup>15</sup></strong>:52)
-
-
-<strong>Readiness/Preparedness</strong>
-
-
-Loins girded up (Luke <strong><sup>12</sup></strong>:35)
-
-Lamps trimmed/burning (Luke <strong><sup>12</sup></strong>:35)
-
-Watchmen watching
-
-The returning of a master at a time when the slave in charge does not expect (Matthew
-
-<strong><sup>24</sup></strong>:45-51)
-
-The decision of God to take a man’s life (Luke <strong><sup>12</sup></strong>:16-21, The Parable of the Rich Fool)
-
-The Parable of the Ten Virgins (Matthew <strong><sup>25</sup></strong>:1-13)
-
-The Parable of the Ten Talents
-
-The Parable of the Ten Pounds
-
-
-<strong>Relationship to God</strong>
-
-
-Lack of relationship
-
-Lostness as with a lamb/sheep
-
-Death (John <strong><sup>8</sup></strong>:51-53)
-
-Presence of relationship
-
-Being found
-
-Life
-
-
-<strong>Resurrection</strong>
-
-
-Jonah in the whale three days and nights (Luke <strong><sup>11</sup></strong>:29; Matthew<strong> 12</strong>:39-40)
-
-
-<strong>Road</strong>
-
-
-A road/way represents a way of life
-
-*The Way became a term for early Christianity (Acts <strong><sup>9</sup></strong>:2; <strong><sup>19</sup></strong>:9, 23;<strong> 22</strong>:4; <strong><sup>24</sup></strong>:14, 22)
-
-Preparing the road for someone means getting ready for them (Malachi <strong><sup>3</sup></strong>:1; Isaiah <strong><sup>40</sup></strong>:3-
-
-5 > Matthew <strong><sup>3</sup></strong>:3 = Mark <strong><sup>1</sup></strong>:2-3 = Luke<strong> 3</strong>:4-6 = John <strong><sup>1</sup></strong>:23).
-
-
-<strong>Salvation</strong>
-
-
-Salvation is set forth in:
-
-Creation/re-creation terms (Galatians<strong> 6</strong>:15)
-
-Birth terms (John <strong><sup>3</sup></strong>:3-9; 1 Peter <strong><sup>1</sup></strong>:3, 22; Titus <strong><sup>3</sup></strong>:5)
-
-Purchasing terms: Buying, ransoming
-
-Rebirth/new birth (John <strong><sup>3</sup></strong>:3-9; Titus<strong> 3</strong>:5)
-
-Restoration of the image (Colossians <strong><sup>3</sup></strong>:10)
-
-Resurrection
-
-Sanctification
-
-Justification
-
-(Re-)grafting into the olive tree
-
-Circumcision
-
-Baptism in the Holy Spirit
-
-Putting off the old man/putting on the new man/putting on Christ (Colossians<strong> 3</strong>:9-10;
-
-Galatians <strong><sup>3</sup></strong>:27)
-
-
-<strong>Sand</strong>
-
-
-Innumerableness (Psalm<strong> 139</strong>:18)
-
-Heaviness (Proverbs <strong><sup>27</sup></strong>:3; Job<strong> 6</strong>:3)
-
-Insecure as a foundation (Matthew<strong> 7</strong>:26)
-
-
-<strong>Sandals</strong>
-
-
-Not worthy to untie sandals = humility statement (Matthew <strong><sup>3</sup></strong>:11; Mark <strong><sup>1</sup></strong>:7; Luke <strong><sup>3</sup></strong>:16)
-
-
-<strong>Satan</strong>
-
-
-Dragon
-
-Serpent/snake
-
-Beelzebub/Beelzeboul (“lord of the fly”)
-
-
-<strong>Savior, Jesus as</strong>
-
-
-Sacrificial imagery
-
-He is called the “Lamb of God” (John<strong> 1</strong>:29, 36; Revelation <strong><sup>5</sup></strong>:6, 8, 12, 13; <strong><sup>6</sup></strong>:1; 1
-
-John 3:5)
-
-
-<strong>Self-Denial</strong>
-
-
-Taking up the cross and following Jesus (Matthew10:38; <strong><sup>16</sup></strong>:24; Mark <strong><sup>8</sup></strong>:34; Luke <strong><sup>9</sup></strong>:23;
-
-<strong><sup>14</sup></strong>:27)
-
-
-<strong>Sin</strong>
-
-
-Is like dirt that makes spots on a person (James <strong><sup>1</sup></strong>:27)
-
-Is like a piece of sawdust in a person’s eye (Matthew<strong> 7</strong>:3-5)
-
-Is like a beam in a person’s eye (Matthew<strong> 7</strong>:3-5)
-
-
-<strong>Size</strong>
-
-
-Small size represents lack of importance; amount represents degree
-
-Smallness
-
-Mustard seed (relationally speaking)
-
-Mote/speck of dust (Matthew<strong> 7</strong>:3-5)
-
-The Hebrew יֹד (<em>yod</em>, Matthew <strong><sup>5</sup></strong>:18)
-
-The tittles (horns on Hebrew letters; Matthew <strong><sup>5</sup></strong>:18)
-
-Gnat (Mathew <strong><sup>23</sup></strong>:24)
-
-Largeness
-
-God’s greatness is pictured by saying that <em>“heaven is his throne and earth is his footstool”</em> (Isaiah <strong><sup>66</sup></strong>:1; Acts <strong><sup>7</sup></strong>:49; Matthew <strong><sup>5</sup></strong>:34-35; <strong><sup>23</sup></strong>:22?); moon, stars, and sky are the work of God’s “fingers” (Psalm <strong><sup>8</sup></strong>:3)
-
-Camel <em>vs.</em> a gnat (Matthew<strong> 23</strong>:24)
-
-The eye of a needle (Matthew<strong> 19</strong>:24 = Mark <strong><sup>10</sup></strong>:25 = Luke <strong><sup>18</sup></strong>:25)
-
-
-<strong>Spirit (Holy)</strong>
-
-
-Wind (John <strong><sup>3</sup></strong>)
-
-Water
-
-Oil (olive)
-
-Dove (Matthew <strong><sup>3</sup></strong>:16 = Mark <strong><sup>1</sup></strong>:10 = Luke<strong> 3</strong>:22 = John <strong><sup>1</sup></strong>:32-33)
-
-Tongues of fire (Acts <strong><sup>2</sup></strong>:2; cp. burning bush?)
-
-Paraclete/Comforter/Advocate
-
-Giving/receiving the Spirit
-
-Insufflation (John <strong><sup>20</sup></strong>:22)
-
-Filling of the Spirit
-
-Outpouring of the Spirit
-
-Shedding forth of the Spirit
-
-Giving the Spirit
-
-Being baptized in the Spirit
-
-
-<strong>Speaking for God/evangelizing</strong>
-
-
-Fishing (Matthew <strong><sup>4</sup></strong>:19; Mark<strong> 1</strong>:17; Luke <strong><sup>5</sup></strong>:10)
-
-*Ambassadors (2 Corinthians<strong> 5</strong>:20; Ephesians <strong><sup>6</sup></strong>:20; Philemon 9 [manuscript variant])
-
-*Apostles (Luke<strong> 6</strong>:13, <em>etc</em>.)
-
-Going after stray sheep (Matthew <strong><sup>18</sup></strong>:12-13; Luke <strong><sup>15</sup></strong>:3-7)
-
-
-<strong>Stars</strong>
-
-
-Multitude
-
-Height (Job<strong> 22</strong>:12; Isaiah <strong><sup>14</sup></strong>:13)
-
-
-<strong>Suffering among good things</strong>
-
-
-Discipline of a child
-
-Childbirth pains
-
-
-
-<strong>Temporary abode of Christians in the world</strong>
-
-
-Diaspora/Dispersion
-
-Sojourners
-
-Pilgrims (Hebrews<strong> 11</strong>:13)
-
-
-<strong>Total new system</strong>
-
-
-Re-birth/born again (John <strong><sup>3</sup></strong>; Titus <strong><sup>3</sup></strong>:5)
-
-Re-creation/new creature (Galatians <strong><sup>6</sup></strong>:15)
-
-New wineskins
-
-Resurrection (Romans<strong> 6</strong>)
-
-Ascension
-
-
-<strong>Transitoriness</strong>
-
-
-Grass, which is here today and gone tomorrow (Matthew <strong><sup>6</sup></strong>:30)
-
-Water vapor (James <strong><sup>4</sup></strong>:14)
-
-
-<strong>Understanding</strong>
-
-
-Coming to understand
-
-enlightenment
-
-
-<strong>Unfaithfulness</strong>
-
-
-Adultery (and fornication)
-
-Breaking a covenant
-
-
-Being brought into what is not <strong>naturally </strong>yours
-
-
-Adoption
-
-Naturalization
-
-Grafting wild olive branches into the Abrahamic olive tree
-
-
-<strong>Unproductiveness</strong>
-
-
-Trees that do not bear fruit
-
-
-<strong>Valuing something</strong>
-
-
-Exaltation
-
-Treasuring
-
-
-
-<strong>Weighty</strong>
-
-
-Sand (Proverbs <strong><sup>27</sup></strong>:3; Job<strong> 6</strong>:3)
-
-Stone (Proverbs <strong><sup>27</sup></strong>:3)
-
-
-<strong>Wisdom/Slyness</strong>
-
-
-Serpent (Matthew <strong><sup>10</sup></strong>:16)
-
-Fox (Luke <strong><sup>13</sup></strong>:32)
-
-
-Not being able to satisfy people: kids playing (Matthew <strong><sup>11</sup></strong>:16-19)
-
-Making something publicly known is “shouting it from the housetops” (Matthew <strong><sup>10</sup></strong>:27).
-
-Doing good to everyone: God sends rain on the just and unjust and shines his sun on the good and evil (Matthew<strong> 5</strong>:45).
-
-
-
-<strong>PART III: MIXED METAPHORS</strong>
-
-
-1.	The <strong>body</strong> is said to be both like a tent and like clothes in the same illustration (2 Corinthians <strong><sup>5</sup></strong>:1-10; 2 Peter<strong> 1</strong>:13-14); “putting of” normally has to do with taking off clothes, but here it is combined with tabernacle imagery.
-
-
-
-
-
-<strong>PART IV: SYMBOLIC GESTURES/PERFORMATIVE ACTS</strong>
-
-(note footwashing application)
-
-
-1.	Pilate washed his hands of the matter (Matthew<strong> 27</strong>:24-26).
-
-
-2.	Shaking dust off your feet at someone (Matthew<strong> 10</strong>:14; Mark <strong><sup>6</sup></strong>:11; Acts <strong><sup>13</sup></strong>:51)
-
-
-3.	Tearing one’s clothes (Job <strong><sup>2</sup></strong>:12)
-
-
-4.	Baptism
-
-
-5.	Communion
-
-
-6.	Jesus washing the disciples’ feet
-
-
-7.	Taking a child in his arms
-
-
-8.	Having the disciples take two swords into the Garden of Gethsemane (Luke <strong><sup>23</sup></strong>:38)
-
-
-9.	Agabus bound himself with a girdle.
-
-
-10.	Jesus wrote (doodling?) in the sand at the temple (woman taken in adultery).
-
-
-11.	Gnashing at/on someone with the teeth (Acts<strong> 7</strong>:54)
-
-
-12.	Throwing dirt into the air (Acts<strong> 22</strong>:23; 2 Samuel <strong><sup>16</sup></strong>:13; Revelation <strong><sup>18</sup></strong>:19; Joshua
-
-<strong><sup>7</sup></strong>:6; Lamentations <strong><sup>2</sup></strong>:10; Job <strong><sup>2</sup></strong>:12)
-
-
-13.	Sitting in sackcloth and ashes is a sign of repentance.
-
-
-14.	Shaking out one’s garment (Acts <strong><sup>18</sup></strong>:6)
-
-
-15.	Put fingers in the ears of a deaf man, spat, touched his tongue, and sighed and
-
-looked up to heaven (Mark <strong><sup>7</sup></strong>:31-35)
-
-
-16.	Jesus spat on the eyes of a blind man (Mark <strong><sup>8</sup></strong>:23).
-
-
-17.	Spreading garments and palm branches along the route of a dignitary (Mark <strong><sup>11</sup></strong>:8)
-
-
-18.	Jesus cursed the fig tree (Mark <strong><sup>11</sup></strong>:12-14, 20-21).
-
-
-19.	Beating the chest (Luke <strong><sup>23</sup></strong>:48)
-
-
-20.	Pouring on Jesus’ head/feet (Matthew <strong><sup>26</sup></strong>:6-13 = Mark <strong><sup>14</sup></strong>:3-9 = John <strong><sup>12</sup></strong>:1-8; Luke
-
-<strong><sup>7</sup></strong>:36-50)
-
-
-21.	Giving the sop to Judas (John <strong><sup>13</sup></strong>:24-30)
-
-
-22.	The betrayal kiss (Mark <strong><sup>14</sup></strong>:45; Luke <strong><sup>22</sup></strong>:47-48)
-
-
-23.	Taking a coin and showing it to the Pharisees and then asking whose image and
-
-superscription was on it
-
-
-24.	Cleansing the temple
-
-
-25.	The widow’s mite (Luke <strong><sup>21</sup></strong>:1-4)
-
-
-26.	Asking the woman at the well for water (John<strong> 3</strong>:5ff.)
-
-
-27.	In the upper room after the resurrection, Jesus blew on the disciples as a picture of giving them the Holy Spirit (John <strong><sup>20</sup></strong>:22)
-
-
-28.	Shaving the head
-
-
-29.	Anointing with oil
-
-
-30.	Stopping the ears (Acts<strong> 7</strong>:57)
-
-
-31.	Putting the hand under the thigh (Genesis <strong><sup>24</sup></strong>:2-9; <strong><sup>47</sup></strong>:29-31)
-
-
-32.	Taking a shoe and giving it to another person as an attestation (Ruth <strong><sup>4</sup></strong>:7-12;
-
-Deuteronomy <strong><sup>25</sup></strong>:8-10)
-
-
-33.	Taking a shoe from off the feet and spitting in the face of the man who refuses to raise up children (Deuteronomy<strong> 25</strong>:8-10)
-
-
-34.	Holding up hands in prayer or worship (2 Timothy <strong><sup>2</sup></strong>:8)
-
-
-35.	Prostrating oneself in front of another person to show allegiance, deference, and so
-
-on
-
-
-36.	Wearing the veil as a symbol of submission to the authority of a husband
-
-(1 Corinthians<strong> 11</strong>:4-16)
-
-
-37.	Shaking out their raiments (Acts <strong><sup>28</sup></strong>:6; Nehemiah<strong> 5</strong>:13)
-
-
-<strong>VIVID WAYS OF SAYING THINGS</strong>
-
-
-1.	If the children had been quiet at Christ’s Triumphal Entry, the very stones would have cried out (Luke <strong><sup>19</sup></strong>:40; Habakkuk<strong> 2</strong>:11; cp. Joshua <strong><sup>24</sup></strong>:27).
-
-
-2.	Days will come when there will not be one stone on top of another (Luke <strong><sup>21</sup></strong>:6).
-
-
-christir.org
-
+<style>
+/* Font Definitions */
+ @font-face
+	{font-family:Helvetica;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Courier;
+	panose-1:2 7 3 9 2 2 5 2 4 4;}
+@font-face
+	{font-family:"Tms Rmn";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:Helv;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"New York";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:System;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"MS Mincho";
+	panose-1:2 2 6 9 4 2 5 8 3 4;}
+@font-face
+	{font-family:Batang;
+	panose-1:2 3 6 0 0 1 1 1 1 1;}
+@font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:PMingLiU;
+	panose-1:2 2 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"MS Gothic";
+	panose-1:2 11 6 9 7 2 5 8 2 4;}
+@font-face
+	{font-family:Dotum;
+	panose-1:2 11 6 0 0 1 1 1 1 1;}
+@font-face
+	{font-family:SimHei;
+	panose-1:2 1 6 9 6 1 1 1 1 1;}
+@font-face
+	{font-family:MingLiU;
+	panose-1:2 2 5 9 0 0 0 0 0 0;}
+@font-face
+	{font-family:Mincho;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:Gulim;
+	panose-1:2 11 6 0 0 1 1 1 1 1;}
+@font-face
+	{font-family:Century;
+	panose-1:2 4 6 4 5 5 5 2 3 4;}
+@font-face
+	{font-family:"Angsana New";
+	panose-1:2 2 6 3 5 4 5 2 3 4;}
+@font-face
+	{font-family:"Cordia New";
+	panose-1:2 11 3 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:Mangal;
+	panose-1:2 4 5 3 5 2 3 3 2 2;}
+@font-face
+	{font-family:Latha;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:Sylfaen;
+	panose-1:1 10 5 2 5 3 6 3 3 3;}
+@font-face
+	{font-family:Vrinda;
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:Raavi;
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:Shruti;
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:Sendnya;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:Gautami;
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:Tunga;
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Estrangelo Edessa";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Yu Gothic";
+	panose-1:2 11 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:DengXian;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Calibri Light";
+	panose-1:2 15 3 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Palatino Linotype";
+	panose-1:2 4 5 2 5 5 5 3 3 4;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:Aptos;
+	panose-1:2 11 0 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Aptos Display";
+	panose-1:2 11 0 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"ACADEMY ENGRAVED LET PLAIN\:1\.0";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Adelle Sans Devanagari Thin";
+	panose-1:2 0 5 3 0 0 0 2 0 4;}
+@font-face
+	{font-family:"Adelle Sans Devanagari Light";
+	panose-1:2 0 5 3 0 0 0 2 0 4;}
+@font-face
+	{font-family:"Adelle Sans Devanagari";
+	panose-1:2 0 5 3 0 0 0 2 0 4;}
+@font-face
+	{font-family:"Adelle Sans Devanagari Semibold";
+	panose-1:2 0 5 3 0 0 0 2 0 4;}
+@font-face
+	{font-family:"Adelle Sans Devanagari Extrabol";
+	panose-1:0 0 9 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Adelle Sans Devanagari Heavy";
+	panose-1:0 0 10 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:AkayaKanadaka;
+	panose-1:2 1 5 2 8 4 1 1 1 3;}
+@font-face
+	{font-family:AkayaTelivigala;
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Al Bayan Plain";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Al Bayan";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Al Tarikh";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"American Typewriter Light";
+	panose-1:2 9 3 4 2 0 4 2 3 4;}
+@font-face
+	{font-family:"American Typewriter Condensed L";
+	panose-1:2 9 3 6 2 0 4 2 3 4;}
+@font-face
+	{font-family:"American Typewriter";
+	panose-1:2 9 6 4 2 0 4 2 3 4;}
+@font-face
+	{font-family:"American Typewriter Condensed";
+	panose-1:2 9 6 6 2 0 4 2 3 4;}
+@font-face
+	{font-family:"AMERICAN TYPEWRITER SEMIBOLD";
+	panose-1:2 9 6 4 2 0 4 2 3 4;}
+@font-face
+	{font-family:"Andale Mono";
+	panose-1:2 11 5 9 0 0 0 0 0 4;}
+@font-face
+	{font-family:"Annai MN";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Apple Chancery";
+	panose-1:3 2 7 2 4 5 6 6 5 4;}
+@font-face
+	{font-family:"Apple Braille";
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Apple Braille Outline 6 Dot";
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Apple Braille Outline 8 Dot";
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Apple Braille Pinpoint 6 Dot";
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Apple Braille Pinpoint 8 Dot";
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Apple Color Emoji";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:AppleGothic;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:AppleMyungjo;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Apple SD Gothic Neo Thin";
+	panose-1:2 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Apple SD Gothic Neo UltraLight";
+	panose-1:2 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Apple SD Gothic Neo Light";
+	panose-1:2 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Apple SD Gothic Neo";
+	panose-1:2 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Apple SD Gothic Neo Medium";
+	panose-1:2 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"APPLE SD GOTHIC NEO SEMIBOLD";
+	panose-1:2 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"APPLE SD GOTHIC NEO EXTRABOLD";
+	panose-1:2 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"APPLE SD GOTHIC NEO HEAVY";
+	panose-1:2 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Apple Symbols";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Arial Hebrew Light";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Arial Hebrew";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Arial Hebrew Scholar Light";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Arial Hebrew Scholar";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Arial Narrow";
+	panose-1:2 11 6 6 2 2 2 3 2 4;}
+@font-face
+	{font-family:"Arima Koshi Thin";
+	panose-1:0 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Arima Koshi ExtraLight";
+	panose-1:0 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Arima Koshi Light";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Arima Koshi";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Arima Koshi Medium";
+	panose-1:0 0 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Arima Koshi ExtraBold";
+	panose-1:0 0 9 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Arima Koshi Black";
+	panose-1:0 0 10 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Arima Madurai Thin";
+	panose-1:0 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Arima Madurai ExtraLight";
+	panose-1:0 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Arima Madurai Light";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Arima Madurai";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Arima Madurai Medium";
+	panose-1:0 0 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Arima Madurai Semi Bold";
+	panose-1:0 0 7 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Arima Madurai Bold";
+	panose-1:0 0 8 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Arima Madurai Black";
+	panose-1:0 0 10 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Avenir Light";
+	panose-1:2 11 4 2 2 2 3 2 2 4;}
+@font-face
+	{font-family:"AVENIR LIGHT OBLIQUE";
+	panose-1:2 11 4 2 2 2 3 9 2 4;}
+@font-face
+	{font-family:"Avenir Book";
+	panose-1:2 0 5 3 2 0 0 2 0 3;}
+@font-face
+	{font-family:Avenir;
+	panose-1:2 0 5 3 2 0 0 2 0 3;}
+@font-face
+	{font-family:"AVENIR BOOK OBLIQUE";
+	panose-1:2 0 5 3 2 0 0 2 0 3;}
+@font-face
+	{font-family:"AVENIR OBLIQUE";
+	panose-1:2 11 5 3 2 2 3 9 2 4;}
+@font-face
+	{font-family:"Avenir Medium";
+	panose-1:2 0 6 3 2 0 0 2 0 3;}
+@font-face
+	{font-family:"AVENIR MEDIUM OBLIQUE";
+	panose-1:2 0 6 3 2 0 0 2 0 3;}
+@font-face
+	{font-family:"Avenir Black";
+	panose-1:2 11 8 3 2 2 3 2 2 4;}
+@font-face
+	{font-family:"Avenir Black Oblique";
+	panose-1:2 11 8 3 2 2 3 9 2 4;}
+@font-face
+	{font-family:"Avenir Heavy";
+	panose-1:2 11 7 3 2 2 3 2 2 4;}
+@font-face
+	{font-family:"AVENIR HEAVY OBLIQUE";
+	panose-1:2 11 7 3 2 2 3 9 2 4;}
+@font-face
+	{font-family:"Avenir Next Ultra Light";
+	panose-1:2 11 2 3 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Avenir Next";
+	panose-1:2 11 5 3 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Avenir Next Medium";
+	panose-1:2 11 6 3 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Avenir Next Demi Bold";
+	panose-1:2 11 7 3 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Avenir Next Heavy";
+	panose-1:2 11 9 3 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Avenir Next Condensed Ultra Lig";
+	panose-1:2 11 2 6 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Avenir Next Condensed";
+	panose-1:2 11 5 6 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Avenir Next Condensed Medium";
+	panose-1:2 11 6 6 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Avenir Next Condensed Demi Bold";
+	panose-1:2 11 7 6 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Avenir Next Condensed Heavy";
+	panose-1:2 11 9 6 2 2 2 2 2 4;}
+@font-face
+	{font-family:Ayuthaya;
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"BIZ UDGothic";
+	panose-1:2 11 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"BIZ UDMincho";
+	panose-1:2 2 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"BM DoHyeon OTF";
+	panose-1:2 11 6 0 0 1 1 1 1 1;}
+@font-face
+	{font-family:"BM HANNA 11yrs old OTF";
+	panose-1:2 11 6 0 0 1 1 1 1 1;}
+@font-face
+	{font-family:"BM HANNA Air OTF";
+	panose-1:2 11 6 0 0 1 1 1 1 1;}
+@font-face
+	{font-family:"BM HANNA Pro OTF";
+	panose-1:2 11 6 0 0 1 1 1 1 1;}
+@font-face
+	{font-family:"BM JUA OTF";
+	panose-1:2 2 6 3 2 1 1 2 1 1;}
+@font-face
+	{font-family:"BM KIRANGHAERANG OTF";
+	panose-1:2 11 6 0 0 1 1 1 1 1;}
+@font-face
+	{font-family:"BM YEONSUNG OTF";
+	panose-1:2 11 6 0 0 1 1 1 1 1;}
+@font-face
+	{font-family:Baghdad;
+	panose-1:1 0 5 0 0 0 0 2 0 4;}
+@font-face
+	{font-family:"Bai Jamjuree ExtraLight";
+	panose-1:0 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Bai Jamjuree Light";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Bai Jamjuree";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Bai Jamjuree Medium";
+	panose-1:0 0 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Bai Jamjuree SemiBold";
+	panose-1:0 0 7 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Baloo 2";
+	panose-1:3 8 5 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Baloo 2 Medium";
+	panose-1:3 8 6 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Baloo 2 SemiBold";
+	panose-1:3 8 7 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Baloo 2 ExtraBold";
+	panose-1:3 8 9 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Baloo Bhai 2";
+	panose-1:3 8 5 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Baloo Bhai 2 Medium";
+	panose-1:3 8 6 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Baloo Bhai 2 SemiBold";
+	panose-1:3 8 7 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Baloo Bhai 2 ExtraBold";
+	panose-1:3 8 9 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Baloo Bhaijaan";
+	panose-1:3 8 9 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Baloo Bhaina 2";
+	panose-1:3 8 5 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Baloo Bhaina 2 Medium";
+	panose-1:3 8 6 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Baloo Bhaina 2 SemiBold";
+	panose-1:3 8 7 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Baloo Bhaina 2 ExtraBold";
+	panose-1:3 8 9 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Baloo Chettan 2";
+	panose-1:3 8 5 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Baloo Chettan 2 Medium";
+	panose-1:3 8 6 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Baloo Chettan 2 SemiBold";
+	panose-1:3 8 7 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Baloo Chettan 2 ExtraBold";
+	panose-1:3 8 9 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Baloo Da 2";
+	panose-1:3 8 5 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Baloo Da 2 Medium";
+	panose-1:3 8 6 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Baloo Da 2 SemiBold";
+	panose-1:3 8 7 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Baloo Da 2 ExtraBold";
+	panose-1:3 8 9 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Baloo Paaji 2";
+	panose-1:3 8 5 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Baloo Paaji 2 Medium";
+	panose-1:3 8 6 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Baloo Paaji 2 SemiBold";
+	panose-1:3 8 7 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Baloo Paaji 2 ExtraBold";
+	panose-1:3 8 9 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Baloo Tamma 2";
+	panose-1:3 8 5 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Baloo Tamma 2 Medium";
+	panose-1:3 8 6 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Baloo Tamma 2 SemiBold";
+	panose-1:3 8 7 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Baloo Tamma 2 ExtraBold";
+	panose-1:3 8 9 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Baloo Tammudu 2";
+	panose-1:3 8 5 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Baloo Tammudu 2 Medium";
+	panose-1:3 8 6 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Baloo Tammudu 2 SemiBold";
+	panose-1:3 8 7 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Baloo Tammudu 2 ExtraBold";
+	panose-1:3 8 9 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Baloo Thambi 2";
+	panose-1:3 8 5 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Baloo Thambi 2 Medium";
+	panose-1:3 8 6 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Baloo Thambi 2 SemiBold";
+	panose-1:3 8 7 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Baloo Thambi 2 ExtraBold";
+	panose-1:3 8 9 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Bangla MN";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Bangla Sangam MN";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Baskerville;
+	panose-1:2 2 5 2 7 4 1 2 3 3;}
+@font-face
+	{font-family:"BASKERVILLE SEMIBOLD";
+	panose-1:2 2 7 2 7 4 0 2 2 3;}
+@font-face
+	{font-family:Beirut;
+	panose-1:0 0 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"BiauKaiHK Regular";
+	panose-1:3 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"BiauKaiTC Regular";
+	panose-1:3 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Big Caslon Medium";
+	panose-1:2 0 6 3 9 0 0 2 0 3;}
+@font-face
+	{font-family:"Bodoni Ornaments";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Bodoni 72 Book";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Bodoni 72";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Bodoni 72 Oldstyle Book";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Bodoni 72 Oldstyle";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Bodoni 72 Smallcaps Book";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Bradley Hand";
+	panose-1:0 0 7 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Brush Script MT";
+	panose-1:3 6 8 2 4 4 6 7 3 4;}
+@font-face
+	{font-family:"Cambay Devanagari";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Chakra Petch ExtraLight";
+	panose-1:0 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Chakra Petch Light";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Chakra Petch";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Chakra Petch Medium";
+	panose-1:0 0 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Chakra Petch SemiBold";
+	panose-1:0 0 7 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Chalkboard;
+	panose-1:3 5 6 2 4 2 2 2 2 5;}
+@font-face
+	{font-family:"Chalkboard SE Light";
+	panose-1:3 5 6 2 4 2 2 2 2 5;}
+@font-face
+	{font-family:"Chalkboard SE";
+	panose-1:3 5 6 2 4 2 2 2 2 5;}
+@font-face
+	{font-family:Chalkduster;
+	panose-1:3 5 6 2 4 2 2 2 2 5;}
+@font-face
+	{font-family:Charm;
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Charmonman;
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Charter Roman";
+	panose-1:2 4 5 3 5 5 6 2 2 3;}
+@font-face
+	{font-family:Charter;
+	panose-1:2 4 5 3 5 5 6 2 2 3;}
+@font-face
+	{font-family:"Charter Black";
+	panose-1:2 4 8 3 5 5 6 2 2 3;}
+@font-face
+	{font-family:Cochin;
+	panose-1:2 0 6 3 2 0 0 2 0 3;}
+@font-face
+	{font-family:"Comic Sans MS";
+	panose-1:3 15 7 2 3 3 2 2 2 4;}
+@font-face
+	{font-family:"Copperplate Light";
+	panose-1:2 0 6 4 3 0 0 2 0 4;}
+@font-face
+	{font-family:Copperplate;
+	panose-1:2 0 5 4 0 0 0 2 0 4;}
+@font-face
+	{font-family:"Corsiva Hebrew";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Wawati SC";
+	panose-1:4 11 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Wawati TC";
+	panose-1:4 11 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"DIN Alternate";
+	panose-1:2 11 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"DIN Condensed";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"DecoType Naskh";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Devanagari MT";
+	panose-1:2 0 5 0 2 0 0 0 0 0;}
+@font-face
+	{font-family:"Devanagari Sangam MN";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Didot;
+	panose-1:2 0 5 3 0 0 0 2 0 3;}
+@font-face
+	{font-family:"Diwan Kufi";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Mishafi Gold";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Diwan Thuluth";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Euphemia UCAS";
+	panose-1:2 11 5 3 4 1 2 2 1 4;}
+@font-face
+	{font-family:"Lantinghei SC Extralight";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"LANTINGHEI SC DEMIBOLD";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"LANTINGHEI SC HEAVY";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Lantinghei TC Extralight";
+	panose-1:3 0 5 9 0 0 0 0 0 0;}
+@font-face
+	{font-family:"LANTINGHEI TC DEMIBOLD";
+	panose-1:3 0 5 9 0 0 0 0 0 0;}
+@font-face
+	{font-family:"LANTINGHEI TC HEAVY";
+	panose-1:3 0 5 9 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Fahkwang ExtraLight";
+	panose-1:0 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Fahkwang Light";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Fahkwang;
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Fahkwang Medium";
+	panose-1:0 0 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Fahkwang SemiBold";
+	panose-1:0 0 7 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Farisi;
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Futura Medium";
+	panose-1:2 11 6 2 2 2 4 2 3 3;}
+@font-face
+	{font-family:"Futura Condensed Medium";
+	panose-1:2 11 5 6 2 2 4 3 2 4;}
+@font-face
+	{font-family:Futura;
+	panose-1:2 11 6 2 2 2 4 2 3 3;}
+@font-face
+	{font-family:"FUTURA CONDENSED EXTRABOLD";
+	panose-1:2 11 8 6 2 2 4 3 2 4;}
+@font-face
+	{font-family:Galvji;
+	panose-1:2 11 5 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"GALVJI OBLIQUE";
+	panose-1:2 11 5 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:GALVJI-BOLDOBLIQUE;
+	panose-1:2 11 5 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Geeza Pro";
+	panose-1:2 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Geneva;
+	panose-1:2 11 5 3 3 4 4 4 2 4;}
+@font-face
+	{font-family:Georgia;
+	panose-1:2 4 5 2 5 4 5 2 3 3;}
+@font-face
+	{font-family:"Gill Sans Light";
+	panose-1:2 11 3 2 2 1 4 2 2 3;}
+@font-face
+	{font-family:"Gill Sans";
+	panose-1:2 11 5 2 2 1 4 2 2 3;}
+@font-face
+	{font-family:"GILL SANS SEMIBOLD";
+	panose-1:2 11 7 2 2 1 4 2 2 3;}
+@font-face
+	{font-family:Gotu;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Tamil Sangam MN Light";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Tamil Sangam MN";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Tamil Sangam MN Medium";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"TAMIL SANGAM MN DEMIBOLD";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"TAMIL SANGAM MN BLACK";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Grantha Sangam MN";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Gujarati MT";
+	panose-1:0 0 5 0 7 0 0 0 0 0;}
+@font-face
+	{font-family:"Gujarati Sangam MN";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Gurmukhi MN";
+	panose-1:2 2 6 0 5 4 5 2 3 4;}
+@font-face
+	{font-family:"Gurmukhi Sangam MN";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hannotate SC";
+	panose-1:3 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hannotate TC";
+	panose-1:3 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"HanziPen SC";
+	panose-1:3 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"HanziPen TC";
+	panose-1:3 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Helvetica Light";
+	panose-1:2 11 4 3 2 2 2 2 2 4;}
+@font-face
+	{font-family:"HELVETICA LIGHT OBLIQUE";
+	panose-1:2 11 4 3 2 2 2 2 2 4;}
+@font-face
+	{font-family:"HELVETICA OBLIQUE";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"HELVETICA BOLD OBLIQUE";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Helvetica Neue UltraLight";
+	panose-1:2 0 2 6 0 0 0 2 0 4;}
+@font-face
+	{font-family:"Helvetica Neue Thin";
+	panose-1:2 11 4 3 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Helvetica Neue Light";
+	panose-1:2 0 4 3 0 0 0 2 0 4;}
+@font-face
+	{font-family:"Helvetica Neue";
+	panose-1:2 0 5 3 0 0 0 2 0 4;}
+@font-face
+	{font-family:"Helvetica Neue Medium";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"HELVETICA NEUE CONDENSED";
+	panose-1:2 0 8 6 0 0 0 2 0 4;}
+@font-face
+	{font-family:"HELVETICA NEUE CONDENSED BLACK";
+	panose-1:2 0 10 6 0 0 0 2 0 4;}
+@font-face
+	{font-family:Herculanum;
+	panose-1:2 0 5 5 0 0 0 2 0 4;}
+@font-face
+	{font-family:"Hiragino Maru Gothic Pro W4";
+	panose-1:2 15 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hiragino Maru Gothic ProN W4";
+	panose-1:2 15 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hiragino Mincho ProN W3";
+	panose-1:2 2 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hiragino Mincho ProN W6";
+	panose-1:2 2 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hiragino Mincho Pro W3";
+	panose-1:2 2 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hiragino Mincho Pro W6";
+	panose-1:2 2 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hiragino Sans W0";
+	panose-1:2 11 2 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hiragino Sans W1";
+	panose-1:2 11 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hiragino Sans W2";
+	panose-1:2 11 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hiragino Sans W3";
+	panose-1:2 11 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hiragino Sans W4";
+	panose-1:2 11 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hiragino Sans W5";
+	panose-1:2 11 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hiragino Sans W6";
+	panose-1:2 11 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hiragino Sans W7";
+	panose-1:2 11 7 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hiragino Sans W8";
+	panose-1:2 11 8 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hiragino Sans W9";
+	panose-1:2 11 9 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hiragino Kaku Gothic ProN W3";
+	panose-1:2 11 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hiragino Kaku Gothic ProN W6";
+	panose-1:2 11 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hiragino Kaku Gothic Pro W3";
+	panose-1:2 11 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hiragino Kaku Gothic Pro W6";
+	panose-1:2 11 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hiragino Kaku Gothic Std W8";
+	panose-1:2 11 8 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hiragino Kaku Gothic StdN W8";
+	panose-1:2 11 8 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hiragino Sans CNS W3";
+	panose-1:2 11 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hiragino Sans CNS W6";
+	panose-1:2 11 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hiragino Sans GB W3";
+	panose-1:2 11 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hiragino Sans GB W6";
+	panose-1:2 11 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hoefler Text";
+	panose-1:2 3 6 2 5 5 6 2 2 3;}
+@font-face
+	{font-family:"Hoefler Text Ornaments";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"HOEFLER TEXT BLACK";
+	panose-1:2 3 8 2 6 7 6 2 2 3;}
+@font-face
+	{font-family:Hubballi;
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:ITFDEVANAGARI-LIGHT;
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:ITFDEVANAGARI-BOOK;
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:ITFDEVANAGARI-MEDIUM;
+	panose-1:0 0 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:ITFDEVANAGARI-DEMI;
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"ITF Devanagari";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"ITFDEVANAGARI MARATHI LIGHT";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"ITFDEVANAGARI MARATHI-BOOK";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"ITF Devanagari Marathi Medium";
+	panose-1:0 0 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"ITFDEVANAGARI MARATHI-DEMI";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"ITF Devanagari Marathi";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Impact;
+	panose-1:2 11 8 6 3 9 2 5 2 4;}
+@font-face
+	{font-family:InaiMathi;
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:HeadLineA;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:PilGi;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:GungSeo;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:PCMyungjo;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Jaini;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Jaini Purva";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"K2D Thin";
+	panose-1:0 0 2 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"K2D ExtraLight";
+	panose-1:0 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"K2D Light";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:K2D;
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"K2D Medium";
+	panose-1:0 0 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"K2D SemiBold";
+	panose-1:0 0 7 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"K2D ExtraBold";
+	panose-1:0 0 9 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Kailasa;
+	panose-1:2 0 5 0 0 0 0 2 0 4;}
+@font-face
+	{font-family:"Kannada MN";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Kannada Sangam MN";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Katari;
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Katari Medium";
+	panose-1:0 0 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"KATARI BLACK";
+	panose-1:0 0 10 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Kavivanar;
+	panose-1:2 0 5 3 0 0 0 0 0 0;}
+@font-face
+	{font-family:Kefa;
+	panose-1:2 0 5 6 0 0 0 2 0 4;}
+@font-face
+	{font-family:"Khmer MN";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Khmer Sangam MN";
+	panose-1:2 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Klee Medium";
+	panose-1:2 2 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Klee Demibold";
+	panose-1:2 2 7 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"KoHo ExtraLight";
+	panose-1:0 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"KoHo Light";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:KoHo;
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"KoHo Medium";
+	panose-1:0 0 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"KoHo SemiBold";
+	panose-1:0 0 7 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Kodchasan ExtraLight";
+	panose-1:0 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Kodchasan Light";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Kodchasan;
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Kodchasan Medium";
+	panose-1:0 0 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Kodchasan SemiBold";
+	panose-1:0 0 7 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Kohinoor Bangla Light";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Kohinoor Bangla";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Kohinoor Bangla Medium";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"KOHINOOR BANGLA SEMIBOLD";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Kohinoor Devanagari Light";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Kohinoor Devanagari";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Kohinoor Devanagari Medium";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"KOHINOOR DEVANAGARI SEMIBOLD";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Kohinoor Gujarati Light";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Kohinoor Gujarati";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Kohinoor Gujarati Medium";
+	panose-1:0 0 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"KOHINOOR GUJARATI SEMIBOLD";
+	panose-1:0 0 7 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Kohinoor Telugu Light";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Kohinoor Telugu";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Kohinoor Telugu Medium";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"KOHINOOR TELUGU SEMIBOLD";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Kokonor;
+	panose-1:1 0 5 0 0 0 0 2 0 3;}
+@font-face
+	{font-family:"Krub ExtraLight";
+	panose-1:0 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Krub Light";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Krub;
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Krub Medium";
+	panose-1:0 0 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Krub SemiBold";
+	panose-1:0 0 7 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Krungthep;
+	panose-1:2 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:KufiStandardGK;
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Lahore Gurmukhi Light";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Lahore Gurmukhi";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Lahore Gurmukhi Medium";
+	panose-1:0 0 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Lahore Gurmukhi SemiBold";
+	panose-1:0 0 7 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Lahore Gurmukhi Bold";
+	panose-1:0 0 8 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Lao MN";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Lao Sangam MN";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Lava Devanagari";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Lava Devanagari Medium";
+	panose-1:0 0 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Lava Devanagari Heavy";
+	panose-1:0 0 10 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Lava Kannada Regular";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Lava Kannada Medium";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Lava Kannada Bold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Lava Kannada Heavy";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Lava Telugu Regular";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Lava Telugu Medium";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Lava Telugu Bold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Lava Telugu Heavy";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Apple LiGothic Medium";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"LIHEI PRO";
+	panose-1:2 11 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"LISONG PRO";
+	panose-1:2 2 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Apple LiSung Light";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Lucida Grande";
+	panose-1:2 11 6 0 4 5 2 2 2 4;}
+@font-face
+	{font-family:Luminari;
+	panose-1:2 0 5 5 0 0 0 2 0 4;}
+@font-face
+	{font-family:"LingWai SC Medium";
+	panose-1:3 5 6 2 4 3 2 2 2 4;}
+@font-face
+	{font-family:"LingWai TC Medium";
+	panose-1:3 5 6 2 4 3 2 2 2 4;}
+@font-face
+	{font-family:Maku;
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Maku Bold";
+	panose-1:0 0 8 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Malayalam MN";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Malayalam Sangam MN";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Mali ExtraLight";
+	panose-1:0 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Mali Light";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Mali;
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Mali Medium";
+	panose-1:0 0 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Mali SemiBold";
+	panose-1:0 0 7 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Marker Felt Thin";
+	panose-1:2 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"MARKER FELT WIDE";
+	panose-1:2 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Menlo;
+	panose-1:2 11 6 9 3 8 4 2 2 4;}
+@font-face
+	{font-family:"Microsoft Sans Serif";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:Modak;
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Monaco;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Gurmukhi MT";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Mshtakan;
+	panose-1:2 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"MSHTAKAN OBLIQUE";
+	panose-1:2 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"MSHTAKAN BOLDOBLIQUE";
+	panose-1:2 0 7 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Mukta ExtraLight";
+	panose-1:2 11 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Mukta Light";
+	panose-1:2 11 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Mukta Regular";
+	panose-1:2 11 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Mukta Medium";
+	panose-1:2 11 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Mukta SemiBold";
+	panose-1:2 11 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Mukta Bold";
+	panose-1:2 11 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Mukta ExtraBold";
+	panose-1:2 11 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"MuktaMahee ExtraLight";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"MuktaMahee Light";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"MuktaMahee Regular";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"MuktaMahee Medium";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"MuktaMahee SemiBold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"MuktaMahee Bold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"MuktaMahee ExtraBold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Mukta Malar ExtraLight";
+	panose-1:2 11 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Mukta Malar Light";
+	panose-1:2 11 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Mukta Malar Regular";
+	panose-1:2 11 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Mukta Malar Medium";
+	panose-1:2 11 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Mukta Malar SemiBold";
+	panose-1:2 11 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Mukta Malar Bold";
+	panose-1:2 11 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Mukta Malar ExtraBold";
+	panose-1:2 11 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Mukta Vaani ExtraLight";
+	panose-1:2 11 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Mukta Vaani Light";
+	panose-1:2 11 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Mukta Vaani Regular";
+	panose-1:2 11 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Mukta Vaani Medium";
+	panose-1:2 11 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Mukta Vaani SemiBold";
+	panose-1:2 11 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Mukta Vaani Bold";
+	panose-1:2 11 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Mukta Vaani ExtraBold";
+	panose-1:2 11 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Muna;
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"MUNA BLACK";
+	panose-1:0 0 9 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Nadeem;
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Nanum Brush Script";
+	panose-1:3 6 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Nanum Pen Script";
+	panose-1:3 4 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:NanumGothic;
+	panose-1:2 13 6 4 0 0 0 0 0 0;}
+@font-face
+	{font-family:"NANUMGOTHIC EXTRABOLD";
+	panose-1:2 13 9 4 0 0 0 0 0 0;}
+@font-face
+	{font-family:NanumMyeongjo;
+	panose-1:2 2 6 3 2 1 1 2 1 1;}
+@font-face
+	{font-family:NANUMMYEONGJOEXTRABOLD;
+	panose-1:2 2 6 3 2 1 1 2 1 1;}
+@font-face
+	{font-family:"New Peninim MT";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"NEW PENINIM MT INCLINED";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"NEW PENINIM MT BOLD INCLINED";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Niramit ExtraLight";
+	panose-1:0 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Niramit Light";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Niramit;
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Niramit Medium";
+	panose-1:0 0 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Niramit SemiBold";
+	panose-1:0 0 7 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Noteworthy Light";
+	panose-1:2 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Noteworthy;
+	panose-1:2 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Noto Nastaliq Urdu";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Batak";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Kannada Thin";
+	panose-1:2 11 2 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Kannada ExtraLight";
+	panose-1:2 11 3 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Kannada Light";
+	panose-1:2 11 4 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Kannada";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Kannada Medium";
+	panose-1:2 11 6 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Kannada SemiBold";
+	panose-1:2 11 7 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Kannada ExtraBold";
+	panose-1:2 11 9 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Kannada Black";
+	panose-1:2 11 10 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Myanmar Thin";
+	panose-1:2 11 2 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Myanmar ExtLt";
+	panose-1:2 11 3 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Myanmar Light";
+	panose-1:2 11 4 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Myanmar";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Myanmar Med";
+	panose-1:2 11 6 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Myanmar SemBd";
+	panose-1:2 11 7 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Myanmar ExtBd";
+	panose-1:2 11 9 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Myanmar Blk";
+	panose-1:2 11 10 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Zawgyi Thin";
+	panose-1:2 11 2 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Zawgyi ExtLt";
+	panose-1:2 11 3 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Zawgyi Light";
+	panose-1:2 11 4 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Zawgyi";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Zawgyi Med";
+	panose-1:2 11 6 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Zawgyi SemBd";
+	panose-1:2 11 7 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Zawgyi ExtBd";
+	panose-1:2 11 9 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Zawgyi Blk";
+	panose-1:2 11 10 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans NKo";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Oriya";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Syriac Thin";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Syriac ExtraLight";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Syriac Light";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Syriac";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Syriac Medium";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Syriac SemiBold";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Syriac ExtraBold";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Syriac Black";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Tagalog";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Serif Kannada Thin";
+	panose-1:2 2 2 2 6 5 5 2 2 4;}
+@font-face
+	{font-family:"Noto Serif Kannada ExtraLight";
+	panose-1:2 2 3 2 6 5 5 2 2 4;}
+@font-face
+	{font-family:"Noto Serif Kannada Light";
+	panose-1:2 2 4 2 6 5 5 2 2 4;}
+@font-face
+	{font-family:"Noto Serif Kannada";
+	panose-1:2 2 5 2 6 5 5 2 2 4;}
+@font-face
+	{font-family:"Noto Serif Kannada Medium";
+	panose-1:2 2 6 2 6 5 5 2 2 4;}
+@font-face
+	{font-family:"Noto Serif Kannada SemiBold";
+	panose-1:2 2 7 2 6 5 5 2 2 4;}
+@font-face
+	{font-family:"Noto Serif Kannada ExtraBold";
+	panose-1:2 2 9 2 6 5 5 2 2 4;}
+@font-face
+	{font-family:"Noto Serif Kannada Black";
+	panose-1:2 2 10 2 6 5 5 2 2 4;}
+@font-face
+	{font-family:"Noto Serif Myanmar Thin";
+	panose-1:2 2 2 2 6 5 5 2 2 4;}
+@font-face
+	{font-family:"Noto Serif Myanmar ExtLt";
+	panose-1:2 2 3 2 6 5 5 2 2 4;}
+@font-face
+	{font-family:"Noto Serif Myanmar Light";
+	panose-1:2 2 4 2 6 5 5 2 2 4;}
+@font-face
+	{font-family:"Noto Serif Myanmar";
+	panose-1:2 2 5 2 6 5 5 2 2 4;}
+@font-face
+	{font-family:"Noto Serif Myanmar Med";
+	panose-1:2 2 6 2 6 5 5 2 2 4;}
+@font-face
+	{font-family:"Noto Serif Myanmar SemBd";
+	panose-1:2 2 7 2 6 5 5 2 2 4;}
+@font-face
+	{font-family:"Noto Serif Myanmar ExtBd";
+	panose-1:2 2 9 2 6 5 5 2 2 4;}
+@font-face
+	{font-family:"Noto Serif Myanmar Blk";
+	panose-1:2 2 10 2 6 5 5 2 2 4;}
+@font-face
+	{font-family:"October Compressed Devanagari H";
+	panose-1:0 0 9 8 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Compressed Devanagari T";
+	panose-1:0 0 2 8 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Compressed Devanagari E";
+	panose-1:0 0 3 8 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Compressed Devanagari L";
+	panose-1:0 0 5 8 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Compressed Devanagari";
+	panose-1:0 0 5 8 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Compressed Devanagari M";
+	panose-1:0 0 6 8 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Compressed Devanagari B";
+	panose-1:0 0 8 8 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Compressed Tamil Hairli";
+	panose-1:0 0 1 8 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Compressed Tamil Thin";
+	panose-1:0 0 2 8 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Compressed Tamil ExtraL";
+	panose-1:0 0 3 8 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Compressed Tamil Light";
+	panose-1:0 0 4 8 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Compressed Tamil";
+	panose-1:0 0 5 8 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Compressed Tamil Medium";
+	panose-1:0 0 6 8 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Compressed Tamil Heavy";
+	panose-1:0 0 9 8 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Compressed Tamil Black";
+	panose-1:0 0 10 8 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Condensed Devanagari Ha";
+	panose-1:0 0 1 6 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Condensed Devanagari Th";
+	panose-1:0 0 2 6 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Condensed Devanagari Ex";
+	panose-1:0 0 3 6 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Condensed Devanagari Li";
+	panose-1:0 0 4 6 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Condensed Devanagari";
+	panose-1:0 0 5 6 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Condensed Devanagari Me";
+	panose-1:0 0 6 6 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Condensed Devanagari He";
+	panose-1:0 0 9 6 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Condensed Devanagari Bl";
+	panose-1:0 0 10 6 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Condensed Tamil Hairlin";
+	panose-1:0 0 1 6 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Condensed Tamil Thin";
+	panose-1:0 0 2 6 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Condensed Tamil ExtraLi";
+	panose-1:0 0 3 6 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Condensed Tamil Light";
+	panose-1:0 0 4 6 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Condensed Tamil";
+	panose-1:0 0 5 6 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Condensed Tamil Medium";
+	panose-1:0 0 6 6 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Condensed Tamil Heavy";
+	panose-1:0 0 9 6 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Condensed Tamil Black";
+	panose-1:0 0 10 6 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Devanagari Hairline";
+	panose-1:0 0 1 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Devanagari Thin";
+	panose-1:0 0 2 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Devanagari ExtraLight";
+	panose-1:0 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Devanagari Light";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Devanagari";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Devanagari Medium";
+	panose-1:0 0 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Devanagari Heavy";
+	panose-1:0 0 9 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Devanagari Black";
+	panose-1:0 0 10 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Tamil Hairline";
+	panose-1:0 0 1 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Tamil Thin";
+	panose-1:0 0 2 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Tamil ExtraLight";
+	panose-1:0 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Tamil Light";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Tamil";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Tamil Medium";
+	panose-1:0 0 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Tamil Heavy";
+	panose-1:0 0 9 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"October Tamil Black";
+	panose-1:0 0 10 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Optima;
+	panose-1:2 0 5 3 6 0 0 2 0 4;}
+@font-face
+	{font-family:"OPTIMA EXTRABLACK";
+	panose-1:2 0 11 3 0 0 0 2 0 4;}
+@font-face
+	{font-family:"Oriya MN";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Oriya Sangam MN";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Osaka;
+	panose-1:2 11 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:OSAKA-MONO;
+	panose-1:2 11 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"PSL Ornanong Pro Light";
+	panose-1:2 0 5 6 0 0 0 2 0 4;}
+@font-face
+	{font-family:"PSL Ornanong Pro";
+	panose-1:2 0 5 6 0 0 0 2 0 4;}
+@font-face
+	{font-family:"PSL ORNANONG PRO DEMIBOLD";
+	panose-1:2 0 5 6 0 0 0 2 0 4;}
+@font-face
+	{font-family:"PT Mono";
+	panose-1:2 6 5 9 2 2 5 2 2 4;}
+@font-face
+	{font-family:"PT Sans";
+	panose-1:2 11 5 3 2 2 3 2 2 4;}
+@font-face
+	{font-family:"PT Sans Narrow";
+	panose-1:2 11 5 6 2 2 3 2 2 4;}
+@font-face
+	{font-family:"PT Sans Caption";
+	panose-1:2 11 6 3 2 2 3 2 2 4;}
+@font-face
+	{font-family:"PT Serif";
+	panose-1:2 10 6 3 4 5 5 2 2 4;}
+@font-face
+	{font-family:"PT Serif Caption";
+	panose-1:2 6 6 3 5 5 5 2 2 4;}
+@font-face
+	{font-family:"Padyakke Expanded One";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Palatino;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Papyrus;
+	panose-1:2 11 6 2 4 2 0 2 3 3;}
+@font-face
+	{font-family:"Papyrus Condensed";
+	panose-1:2 11 6 2 4 2 0 2 3 3;}
+@font-face
+	{font-family:"Party LET Plain";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Phosphate Inline";
+	panose-1:2 0 5 6 5 0 0 2 0 4;}
+@font-face
+	{font-family:"Phosphate Solid";
+	panose-1:2 0 5 6 5 0 0 2 0 4;}
+@font-face
+	{font-family:"Plantagenet Cherokee";
+	panose-1:2 2 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Raanana;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Hei;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Kai;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Baoli SC";
+	panose-1:2 1 6 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:"Baoli TC";
+	panose-1:2 1 6 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:STHeiti;
+	panose-1:2 1 6 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:"Heiti TC Light";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Heiti TC Medium";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Heiti SC Light";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Heiti SC Medium";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"STIX Two Math";
+	panose-1:2 2 6 3 5 4 5 2 3 4;}
+@font-face
+	{font-family:"STIX Two Text";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"STIX Two Text Medium";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"STIX Two Text SemiBold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Kaiti SC";
+	panose-1:2 1 6 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:"KAITI SC BLACK";
+	panose-1:2 1 6 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:STKaiti;
+	panose-1:2 1 6 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:"Kaiti TC";
+	panose-1:2 1 6 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:"KAITI TC BLACK";
+	panose-1:2 1 6 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:"Libian SC";
+	panose-1:2 1 6 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:"Libian TC";
+	panose-1:2 1 6 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:"Songti SC Light";
+	panose-1:2 1 6 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:"Songti SC";
+	panose-1:2 1 6 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:"SONGTI SC BLACK";
+	panose-1:2 1 8 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:"Songti TC Light";
+	panose-1:2 1 6 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:"Songti TC";
+	panose-1:2 1 6 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:STSong;
+	panose-1:2 1 6 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:"Xingkai SC Light";
+	panose-1:2 1 6 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:"Xingkai SC";
+	panose-1:2 1 6 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:"Xingkai TC Light";
+	panose-1:2 1 6 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:"Xingkai TC";
+	panose-1:2 1 6 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:"Yuanti SC Light";
+	panose-1:2 1 6 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:"Yuanti SC";
+	panose-1:2 1 6 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:"Yuanti TC Light";
+	panose-1:2 1 6 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:"Yuanti TC";
+	panose-1:2 1 6 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:"Sama Devanagari Book";
+	panose-1:2 15 5 3 4 5 7 6 3 3;}
+@font-face
+	{font-family:"Sama Devanagari";
+	panose-1:2 15 5 3 4 5 7 6 3 3;}
+@font-face
+	{font-family:"Sama Devanagari Medium";
+	panose-1:2 15 7 3 4 5 7 6 3 3;}
+@font-face
+	{font-family:"Sama Devanagari SemiBold";
+	panose-1:2 15 8 3 4 5 7 6 3 3;}
+@font-face
+	{font-family:"Sama Devanagari ExtraBold";
+	panose-1:3 8 10 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Sama Gujarati Book";
+	panose-1:2 15 5 3 4 5 7 6 3 3;}
+@font-face
+	{font-family:"Sama Gujarati";
+	panose-1:2 15 6 3 4 5 7 6 3 3;}
+@font-face
+	{font-family:"Sama Gujarati Medium";
+	panose-1:2 15 7 3 4 5 7 6 3 3;}
+@font-face
+	{font-family:"Sama Gujarati SemiBold";
+	panose-1:2 15 8 3 4 5 7 6 3 3;}
+@font-face
+	{font-family:"Sama Gujarati ExtraBold";
+	panose-1:2 15 10 3 4 5 7 6 3 3;}
+@font-face
+	{font-family:"Sama Gurmukhi Book";
+	panose-1:2 15 5 3 4 5 7 6 3 3;}
+@font-face
+	{font-family:"Sama Gurmukhi";
+	panose-1:2 15 5 3 4 5 7 6 3 3;}
+@font-face
+	{font-family:"Sama Gurmukhi Medium";
+	panose-1:2 15 7 3 4 5 7 6 3 3;}
+@font-face
+	{font-family:"Sama Gurmukhi SemiBold";
+	panose-1:2 15 8 3 4 5 7 6 3 3;}
+@font-face
+	{font-family:"Sama Gurmukhi ExtraBold";
+	panose-1:3 8 10 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Sama Kannada Book";
+	panose-1:2 15 5 3 4 5 7 6 3 3;}
+@font-face
+	{font-family:"Sama Kannada";
+	panose-1:2 15 5 3 4 5 7 6 3 3;}
+@font-face
+	{font-family:"Sama Kannada Medium";
+	panose-1:2 15 7 3 4 5 7 6 3 3;}
+@font-face
+	{font-family:"Sama Kannada SemiBold";
+	panose-1:2 15 8 3 4 5 7 6 3 3;}
+@font-face
+	{font-family:"Sama Kannada ExtraBold";
+	panose-1:3 8 10 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Sama Malayalam Book";
+	panose-1:2 15 5 3 4 5 7 6 3 3;}
+@font-face
+	{font-family:"Sama Malayalam";
+	panose-1:2 15 6 3 4 5 7 6 3 3;}
+@font-face
+	{font-family:"Sama Malayalam Medium";
+	panose-1:2 15 7 3 4 5 7 6 3 3;}
+@font-face
+	{font-family:"Sama Malayalam SemiBold";
+	panose-1:2 15 8 3 4 5 7 6 3 3;}
+@font-face
+	{font-family:"Sama Malayalam ExtraBold";
+	panose-1:2 15 10 3 4 5 7 6 3 3;}
+@font-face
+	{font-family:"Sama Tamil Book";
+	panose-1:3 8 9 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Sama Tamil";
+	panose-1:3 8 9 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Sama Tamil Medium";
+	panose-1:3 8 9 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Sama Tamil SemiBold";
+	panose-1:3 8 9 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:"Sama Tamil ExtraBold";
+	panose-1:3 8 9 2 4 3 2 2 2 0;}
+@font-face
+	{font-family:Sana;
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Sarabun Thin";
+	panose-1:0 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Sarabun ExtraLight";
+	panose-1:0 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Sarabun Light";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Sarabun;
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Sarabun Medium";
+	panose-1:0 0 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Sarabun SemiBold";
+	panose-1:0 0 7 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Sarabun ExtraBold";
+	panose-1:0 0 9 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Sathu;
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"SAVOYE LET PLAIN\:1\.0";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Shobhika Regular";
+	panose-1:2 11 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Shobhika Bold";
+	panose-1:2 11 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Shree Devanagari 714";
+	panose-1:2 0 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:SignPainter-HouseScript;
+	panose-1:2 0 0 6 7 0 0 2 0 4;}
+@font-face
+	{font-family:"SIGNPAINTER-HOUSESCRIPT SEMIBOL";
+	panose-1:2 0 0 6 7 0 0 2 0 4;}
+@font-face
+	{font-family:Silom;
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:SimSong;
+	panose-1:2 2 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Sinhala MN";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Sinhala Sangam MN";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Skia;
+	panose-1:2 13 5 2 2 2 4 2 2 4;}
+@font-face
+	{font-family:"Snell Roundhand";
+	panose-1:2 0 6 3 8 0 0 9 0 4;}
+@font-face
+	{font-family:"SNELL ROUNDHAND BLACK";
+	panose-1:2 0 10 4 9 0 0 9 0 4;}
+@font-face
+	{font-family:Srisakdi;
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:SUKHUMVITSET-THIN;
+	panose-1:2 0 5 6 0 0 0 2 0 4;}
+@font-face
+	{font-family:SUKHUMVITSET-LIGHT;
+	panose-1:2 0 5 6 0 0 0 2 0 4;}
+@font-face
+	{font-family:SUKHUMVITSET-TEXT;
+	panose-1:2 0 5 6 0 0 0 2 0 4;}
+@font-face
+	{font-family:SUKHUMVITSET-MEDIUM;
+	panose-1:2 0 5 6 0 0 0 2 0 4;}
+@font-face
+	{font-family:SUKHUMVITSET-SEMIBOLD;
+	panose-1:2 0 5 6 0 0 0 2 0 4;}
+@font-face
+	{font-family:"Sukhumvit Set";
+	panose-1:2 0 5 6 0 0 0 2 0 4;}
+@font-face
+	{font-family:"Tamil MN";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Telugu MN";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Telugu Sangam MN";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Tiro Bangla";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Tiro Devanagari Hindi";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Tiro Devanagari Marathi";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Tiro Devanagari Sanskrit";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Tiro Gurmukhi";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Tiro Kannada";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Tiro Tamil";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Tiro Telugu";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Toppan Bunkyu Gothic Regular";
+	panose-1:2 11 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Toppan Bunkyu Midashi Gothic Ex";
+	panose-1:2 11 9 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Toppan Bunkyu Midashi Mincho Ex";
+	panose-1:2 2 9 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Toppan Bunkyu Mincho Regular";
+	panose-1:2 2 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Trattatello;
+	panose-1:2 15 4 3 2 2 0 2 3 3;}
+@font-face
+	{font-family:"Trebuchet MS";
+	panose-1:2 11 6 3 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Tsukushi A Round Gothic Regular";
+	panose-1:2 2 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Tsukushi A Round Gothic Bold";
+	panose-1:2 2 7 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Tsukushi B Round Gothic Regular";
+	panose-1:2 2 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Tsukushi B Round Gothic Bold";
+	panose-1:2 2 7 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Waseem Light";
+	panose-1:0 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Waseem;
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"YuKyokasho Yoko Medium";
+	panose-1:2 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"YuKyokasho Yoko";
+	panose-1:2 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"YuKyokasho Medium";
+	panose-1:2 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:YuKyokasho;
+	panose-1:2 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"YuMincho +36p Kana Medium";
+	panose-1:2 2 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"YuMincho +36p Kana Demibold";
+	panose-1:2 2 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"YuMincho +36p Kana Extrabold";
+	panose-1:2 2 8 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Yuppy SC";
+	panose-1:2 15 6 3 4 2 7 2 2 4;}
+@font-face
+	{font-family:"Yuppy TC";
+	panose-1:2 15 6 3 4 2 7 2 2 4;}
+@font-face
+	{font-family:Zapfino;
+	panose-1:3 3 3 0 4 7 7 7 12 3;}
+@font-face
+	{font-family:"Abadi MT Condensed Light";
+	panose-1:2 11 3 6 3 1 1 1 1 3;}
+@font-face
+	{font-family:"Abadi MT Condensed Extra Bold";
+	panose-1:2 11 10 6 3 1 1 1 1 3;}
+@font-face
+	{font-family:"Aptos Light";
+	panose-1:2 11 0 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Aptos SemiBold";
+	panose-1:2 11 0 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Aptos ExtraBold";
+	panose-1:2 11 0 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Aptos Black";
+	panose-1:2 11 0 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Aptos Narrow";
+	panose-1:2 11 0 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Arial Black";
+	panose-1:2 11 10 4 2 1 2 2 2 4;}
+@font-face
+	{font-family:"Arial Rounded MT Bold";
+	panose-1:2 15 7 4 3 5 4 3 2 4;}
+@font-face
+	{font-family:"Baskerville Old Face";
+	panose-1:2 2 6 2 8 5 5 2 3 3;}
+@font-face
+	{font-family:BatangChe;
+	panose-1:2 3 6 9 0 1 1 1 1 1;}
+@font-face
+	{font-family:Gungsuh;
+	panose-1:2 3 6 0 0 1 1 1 1 1;}
+@font-face
+	{font-family:GungsuhChe;
+	panose-1:2 3 6 9 0 1 1 1 1 1;}
+@font-face
+	{font-family:"Bauhaus 93";
+	panose-1:4 3 9 5 2 11 2 2 12 2;}
+@font-face
+	{font-family:"Bell MT";
+	panose-1:2 2 5 3 6 3 5 2 3 3;}
+@font-face
+	{font-family:"Bernard MT Condensed";
+	panose-1:2 5 8 6 6 9 5 2 4 4;}
+@font-face
+	{font-family:"Book Antiqua";
+	panose-1:2 4 6 2 5 3 5 3 3 4;}
+@font-face
+	{font-family:"Bookman Old Style";
+	panose-1:2 5 6 4 5 5 5 2 2 4;}
+@font-face
+	{font-family:"Bookshelf Symbol 7";
+	panose-1:5 1 1 1 1 1 1 1 1 1;}
+@font-face
+	{font-family:Braggadocio;
+	panose-1:4 3 11 7 13 11 2 2 4 3;}
+@font-face
+	{font-family:"Britannic Bold";
+	panose-1:2 11 9 3 6 7 3 2 2 4;}
+@font-face
+	{font-family:"Calisto MT";
+	panose-1:2 4 6 3 5 5 5 3 3 4;}
+@font-face
+	{font-family:Cambria;
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Candara;
+	panose-1:2 14 5 2 3 3 3 2 2 4;}
+@font-face
+	{font-family:"Century Gothic";
+	panose-1:2 11 5 2 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Century Schoolbook";
+	panose-1:2 4 6 4 5 5 5 2 3 4;}
+@font-face
+	{font-family:"Colonna MT";
+	panose-1:4 2 8 5 6 2 2 3 2 3;}
+@font-face
+	{font-family:Consolas;
+	panose-1:2 11 6 9 2 2 4 3 2 4;}
+@font-face
+	{font-family:Constantia;
+	panose-1:2 3 6 2 5 3 6 3 3 3;}
+@font-face
+	{font-family:"Cooper Black";
+	panose-1:2 8 9 4 4 3 11 2 4 4;}
+@font-face
+	{font-family:"Copperplate Gothic Bold";
+	panose-1:2 14 7 5 2 2 6 2 4 4;}
+@font-face
+	{font-family:Corbel;
+	panose-1:2 11 5 3 2 2 4 2 2 4;}
+@font-face
+	{font-family:CordiaUPC;
+	panose-1:2 11 3 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Curlz MT";
+	panose-1:4 4 4 4 5 7 2 2 2 2;}
+@font-face
+	{font-family:David;
+	panose-1:2 14 5 2 6 4 1 1 1 1;}
+@font-face
+	{font-family:"DengXian Light";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:Desdemona;
+	panose-1:4 2 5 5 2 14 3 4 5 4;}
+@font-face
+	{font-family:"Dubai Light";
+	panose-1:2 11 3 3 3 4 3 3 2 4;}
+@font-face
+	{font-family:Dubai;
+	panose-1:2 11 5 3 3 4 3 3 2 4;}
+@font-face
+	{font-family:"Dubai Medium";
+	panose-1:2 11 6 3 3 4 3 3 2 4;}
+@font-face
+	{font-family:"Edwardian Script ITC";
+	panose-1:3 3 3 2 4 7 7 13 8 4;}
+@font-face
+	{font-family:"Engravers MT";
+	panose-1:2 9 7 7 8 5 5 2 3 4;}
+@font-face
+	{font-family:Eurostile;
+	panose-1:2 11 5 4 2 2 2 5 2 4;}
+@font-face
+	{font-family:FangSong;
+	panose-1:2 1 6 9 6 1 1 1 1 1;}
+@font-face
+	{font-family:"Footlight MT Light";
+	panose-1:2 4 6 2 6 3 10 2 3 4;}
+@font-face
+	{font-family:"Franklin Gothic Book";
+	panose-1:2 11 5 3 2 1 2 2 2 4;}
+@font-face
+	{font-family:"Franklin Gothic Medium";
+	panose-1:2 11 6 3 2 1 2 2 2 4;}
+@font-face
+	{font-family:"Franklin Gothic Medium Cond";
+	panose-1:2 11 6 6 3 4 2 2 2 4;}
+@font-face
+	{font-family:"Franklin Gothic Demi";
+	panose-1:2 11 7 3 2 1 2 2 2 4;}
+@font-face
+	{font-family:"Franklin Gothic Demi Cond";
+	panose-1:2 11 7 6 3 4 2 2 2 4;}
+@font-face
+	{font-family:"Franklin Gothic Heavy";
+	panose-1:2 11 9 3 2 1 2 2 2 4;}
+@font-face
+	{font-family:Gabriola;
+	panose-1:4 4 6 5 5 16 2 2 13 2;}
+@font-face
+	{font-family:Garamond;
+	panose-1:2 2 4 4 3 3 1 1 8 3;}
+@font-face
+	{font-family:"Gill Sans MT";
+	panose-1:2 11 5 2 2 1 4 2 2 3;}
+@font-face
+	{font-family:"Gill Sans MT Condensed";
+	panose-1:2 11 5 6 2 1 4 2 2 3;}
+@font-face
+	{font-family:"Gill Sans MT Ext Condensed Bold";
+	panose-1:2 11 9 2 2 1 4 2 2 3;}
+@font-face
+	{font-family:"Gill Sans Ultra Bold";
+	panose-1:2 11 10 2 2 1 4 2 2 3;}
+@font-face
+	{font-family:"Gloucester MT Extra Condensed";
+	panose-1:2 3 8 8 2 6 1 1 1 1;}
+@font-face
+	{font-family:"Goudy Old Style";
+	panose-1:2 2 5 2 5 3 5 2 3 3;}
+@font-face
+	{font-family:GulimChe;
+	panose-1:2 11 6 9 0 1 1 1 1 1;}
+@font-face
+	{font-family:DotumChe;
+	panose-1:2 11 6 9 0 1 1 1 1 1;}
+@font-face
+	{font-family:Haettenschweiler;
+	panose-1:2 11 7 6 4 9 2 6 2 4;}
+@font-face
+	{font-family:Harrington;
+	panose-1:4 4 5 5 5 10 2 2 7 2;}
+@font-face
+	{font-family:HGGothicE;
+	panose-1:2 11 9 9 0 0 0 0 0 0;}
+@font-face
+	{font-family:HGPGothicE;
+	panose-1:2 11 9 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:HGSGothicE;
+	panose-1:2 11 9 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:HGMinchoE;
+	panose-1:2 2 9 9 0 0 0 0 0 0;}
+@font-face
+	{font-family:HGPMinchoE;
+	panose-1:2 2 9 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:HGSMinchoE;
+	panose-1:2 2 9 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:HGSoeiKakugothicUB;
+	panose-1:2 11 9 9 0 0 0 0 0 0;}
+@font-face
+	{font-family:HGPSoeiKakugothicUB;
+	panose-1:2 11 9 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:HGSSoeiKakugothicUB;
+	panose-1:2 11 9 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:HGMaruGothicMPRO;
+	panose-1:2 15 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Microsoft Himalaya";
+	panose-1:1 1 1 0 1 1 1 1 1 1;}
+@font-face
+	{font-family:"Imprint MT Shadow";
+	panose-1:4 2 6 5 6 3 3 3 2 2;}
+@font-face
+	{font-family:KaiTi;
+	panose-1:2 1 6 9 6 1 1 1 1 1;}
+@font-face
+	{font-family:Kartika;
+	panose-1:2 2 5 3 3 4 4 6 2 3;}
+@font-face
+	{font-family:"Kino MT";
+	panose-1:4 3 7 5 13 12 2 2 7 3;}
+@font-face
+	{font-family:"Lucida Console";
+	panose-1:2 11 6 9 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Lucida Sans";
+	panose-1:2 11 6 2 3 5 4 2 2 4;}
+@font-face
+	{font-family:"Lucida Sans Unicode";
+	panose-1:2 11 6 2 3 5 4 2 2 4;}
+@font-face
+	{font-family:"Lucida Blackletter";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Lucida Bright";
+	panose-1:2 4 6 2 5 5 5 2 3 4;}
+@font-face
+	{font-family:"Lucida Calligraphy";
+	panose-1:3 1 1 1 1 1 1 1 1 1;}
+@font-face
+	{font-family:"Lucida Fax";
+	panose-1:2 6 6 2 5 5 5 2 2 4;}
+@font-face
+	{font-family:"Lucida Handwriting";
+	panose-1:3 1 1 1 1 1 1 1 1 1;}
+@font-face
+	{font-family:"Lucida Sans Typewriter";
+	panose-1:2 11 5 9 3 5 4 3 2 4;}
+@font-face
+	{font-family:"Malgun Gothic Semilight";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Malgun Gothic";
+	panose-1:2 11 5 3 2 0 0 2 0 4;}
+@font-face
+	{font-family:Marlett;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Matura MT Script Capitals";
+	panose-1:3 2 8 2 6 6 2 7 2 2;}
+@font-face
+	{font-family:Meiryo;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Meiryo UI";
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:MingLiU_HKSCS;
+	panose-1:2 2 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:MingLiU-ExtB;
+	panose-1:2 2 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:PMingLiU-ExtB;
+	panose-1:2 2 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:MingLiU_HKSCS-ExtB;
+	panose-1:2 2 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Mistral;
+	panose-1:3 9 7 2 3 4 7 2 4 3;}
+@font-face
+	{font-family:"Myanmar Text";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Modern No\. 20";
+	panose-1:2 7 7 4 7 5 5 2 3 3;}
+@font-face
+	{font-family:"Mongolian Baiti";
+	panose-1:3 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Monotype Corsiva";
+	panose-1:3 1 1 1 1 2 1 1 1 1;}
+@font-face
+	{font-family:"Monotype Sorts";
+	panose-1:1 1 6 1 1 1 1 1 1 1;}
+@font-face
+	{font-family:"MS Reference Sans Serif";
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"MS Reference Specialty";
+	panose-1:5 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"MS UI Gothic";
+	panose-1:2 11 6 0 7 2 5 8 2 4;}
+@font-face
+	{font-family:"MS PGothic";
+	panose-1:2 11 6 0 7 2 5 8 2 4;}
+@font-face
+	{font-family:"Microsoft JhengHei";
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"MS PMincho";
+	panose-1:2 2 6 0 4 2 5 8 3 4;}
+@font-face
+	{font-family:"Microsoft YaHei Light";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Microsoft YaHei";
+	panose-1:2 11 5 3 2 2 4 2 2 4;}
+@font-face
+	{font-family:"Microsoft YaHei UI Light";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Microsoft YaHei UI";
+	panose-1:2 11 5 3 2 2 4 2 2 4;}
+@font-face
+	{font-family:"Microsoft Yi Baiti";
+	panose-1:3 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"MT Extra";
+	panose-1:5 5 1 2 1 2 5 2 2 2;}
+@font-face
+	{font-family:"News Gothic MT";
+	panose-1:2 11 5 3 2 1 3 2 2 3;}
+@font-face
+	{font-family:"Microsoft New Tai Lue";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:Nyala;
+	panose-1:2 0 5 4 7 3 0 2 0 3;}
+@font-face
+	{font-family:Onyx;
+	panose-1:4 5 6 2 8 7 2 2 2 3;}
+@font-face
+	{font-family:Perpetua;
+	panose-1:2 2 5 2 6 4 1 2 3 3;}
+@font-face
+	{font-family:"Perpetua Titling MT";
+	panose-1:2 2 5 2 6 5 5 2 8 4;}
+@font-face
+	{font-family:Rockwell;
+	panose-1:2 6 6 3 2 2 5 2 4 3;}
+@font-face
+	{font-family:"Rockwell Condensed";
+	panose-1:2 6 6 3 5 4 5 2 1 4;}
+@font-face
+	{font-family:"Rockwell Extra Bold";
+	panose-1:2 6 9 3 4 5 5 2 4 3;}
+@font-face
+	{font-family:"Segoe Print";
+	panose-1:2 0 8 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe Script";
+	panose-1:3 11 8 4 2 0 0 0 0 3;}
+@font-face
+	{font-family:"Segoe UI Historic";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Segoe UI Symbol";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:NSimSun;
+	panose-1:2 1 6 9 3 1 1 1 1 1;}
+@font-face
+	{font-family:SimSun-ExtB;
+	panose-1:2 1 6 9 6 1 1 1 1 1;}
+@font-face
+	{font-family:Stencil;
+	panose-1:4 4 9 5 13 8 2 2 4 4;}
+@font-face
+	{font-family:STHupo;
+	panose-1:2 1 8 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:STLiti;
+	panose-1:2 1 8 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:STXingkai;
+	panose-1:2 1 8 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:STXinwei;
+	panose-1:2 1 8 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:STZhongsong;
+	panose-1:2 1 6 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Microsoft Tai Le";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"TH SarabunPSK";
+	panose-1:2 11 5 0 4 2 0 2 0 3;}
+@font-face
+	{font-family:"Tw Cen MT";
+	panose-1:2 11 6 2 2 1 4 2 6 3;}
+@font-face
+	{font-family:"Tw Cen MT Condensed";
+	panose-1:2 11 6 6 2 1 4 2 2 3;}
+@font-face
+	{font-family:"Tw Cen MT Condensed Extra Bold";
+	panose-1:2 11 8 3 2 2 2 2 2 4;}
+@font-face
+	{font-family:Webdings;
+	panose-1:5 3 1 2 1 5 9 6 7 3;}
+@font-face
+	{font-family:"Wide Latin";
+	panose-1:2 10 10 7 5 5 5 2 4 4;}
+@font-face
+	{font-family:"Wingdings 2";
+	panose-1:5 2 1 2 1 5 7 7 7 7;}
+@font-face
+	{font-family:"Wingdings 3";
+	panose-1:5 4 1 2 1 8 7 7 7 7;}
+@font-face
+	{font-family:"Yu Gothic Light";
+	panose-1:2 11 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Yu Gothic Medium";
+	panose-1:2 11 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Yu Gothic UI Light";
+	panose-1:2 11 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Yu Gothic UI Semilight";
+	panose-1:2 11 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Yu Gothic UI";
+	panose-1:2 11 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Yu Gothic UI Semibold";
+	panose-1:2 11 7 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Yu Mincho Light";
+	panose-1:2 2 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Yu Mincho";
+	panose-1:2 2 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Yu Mincho Demibold";
+	panose-1:2 2 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Abadi ExtraLight";
+	panose-1:2 11 2 4 2 1 4 2 2 4;}
+@font-face
+	{font-family:Abadi;
+	panose-1:2 11 6 4 2 1 4 2 2 4;}
+@font-face
+	{font-family:Abel;
+	panose-1:2 0 5 6 3 0 0 2 0 4;}
+@font-face
+	{font-family:"Abril Fatface";
+	panose-1:2 0 5 3 0 0 0 2 0 3;}
+@font-face
+	{font-family:"ADLaM Display";
+	panose-1:2 1 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Agency FB";
+	panose-1:2 11 5 3 2 2 2 2 2 4;}
+@font-face
+	{font-family:Aharoni;
+	panose-1:2 1 8 3 2 1 4 3 2 3;}
+@font-face
+	{font-family:"Al Fresco";
+	panose-1:2 0 5 7 7 0 0 2 0 2;}
+@font-face
+	{font-family:"Alasassy Caps";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Aldhabi;
+	panose-1:1 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Alef;
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Aleo Light";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Aleo;
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Algerian;
+	panose-1:4 2 7 5 4 10 2 6 7 2;}
+@font-face
+	{font-family:"Amasis MT Pro Light";
+	panose-1:2 4 3 4 5 0 5 2 3 4;}
+@font-face
+	{font-family:"Amasis MT Pro";
+	panose-1:2 4 5 4 5 0 5 2 3 4;}
+@font-face
+	{font-family:"Amasis MT Pro Medium";
+	panose-1:2 4 6 4 5 0 5 2 3 4;}
+@font-face
+	{font-family:"Amasis MT Pro Black";
+	panose-1:2 4 10 4 5 0 5 2 3 4;}
+@font-face
+	{font-family:"Amatic SC";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:AngsanaUPC;
+	panose-1:2 2 6 3 5 4 5 2 3 4;}
+@font-face
+	{font-family:Anton;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Aparajita;
+	panose-1:2 2 6 3 5 4 5 2 3 4;}
+@font-face
+	{font-family:"Aptos Mono";
+	panose-1:2 11 0 9 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Aptos Serif";
+	panose-1:2 2 6 4 7 4 5 2 3 4;}
+@font-face
+	{font-family:"Aptos Slab Light";
+	panose-1:2 11 0 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Aptos Slab";
+	panose-1:2 11 0 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Aptos Slab SemiBold";
+	panose-1:2 11 0 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Aptos Slab ExtraBold";
+	panose-1:2 11 0 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Aptos Slab Black";
+	panose-1:2 11 0 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Arabic Typesetting";
+	panose-1:3 2 4 2 4 4 6 3 2 3;}
+@font-face
+	{font-family:"Aref Ruqaa";
+	panose-1:2 0 5 3 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Arial Nova Cond Light";
+	panose-1:2 11 3 6 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Arial Nova Light";
+	panose-1:2 11 3 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Arial Nova Cond";
+	panose-1:2 11 5 6 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Arial Nova";
+	panose-1:2 11 5 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Assistant ExtraLight";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Assistant Light";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Assistant;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Assistant SemiBold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Assistant ExtraBold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Athiti ExtraLight";
+	panose-1:0 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Athiti Light";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Athiti;
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Athiti Medium";
+	panose-1:0 0 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Athiti SemiBold";
+	panose-1:0 0 7 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Atkinson Hyperlegible Mono";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Atkinson Hyperlegible Next";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Avenir Next LT Pro Light";
+	panose-1:2 11 3 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Avenir Next LT Pro";
+	panose-1:2 11 5 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Avenir Next LT Pro Demi";
+	panose-1:2 11 7 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Baguet Script";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Bahnschrift Light Condensed";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Bahnschrift Light SemiCondensed";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Bahnschrift Light";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Bahnschrift SemiLight Condensed";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Bahnschrift SemiLight";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Bahnschrift Condensed";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Bahnschrift SemiCondensed";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:Bahnschrift;
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Bahnschrift SemiBold Condensed";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Bahnschrift SemiBold";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Barlow Condensed Thin";
+	panose-1:0 0 3 6 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Barlow Semi Condensed Thin";
+	panose-1:0 0 3 6 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Barlow Thin";
+	panose-1:0 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Barlow Condensed ExtraLight";
+	panose-1:0 0 3 6 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Barlow Semi Condensed ExLight";
+	panose-1:0 0 3 6 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Barlow ExtraLight";
+	panose-1:0 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Barlow Condensed Light";
+	panose-1:0 0 4 6 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Barlow Semi Condensed Light";
+	panose-1:0 0 4 6 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Barlow Light";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Barlow Condensed";
+	panose-1:0 0 5 6 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Barlow Semi Condensed";
+	panose-1:0 0 5 6 0 0 0 0 0 0;}
+@font-face
+	{font-family:Barlow;
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Barlow Condensed Medium";
+	panose-1:0 0 6 6 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Barlow Semi Condensed Medium";
+	panose-1:0 0 6 6 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Barlow Medium";
+	panose-1:0 0 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Barlow Condensed SemiBold";
+	panose-1:0 0 7 6 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Barlow Semi Condensed SemiBold";
+	panose-1:0 0 7 6 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Barlow SemiBold";
+	panose-1:0 0 7 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Barlow Condensed ExtraBold";
+	panose-1:0 0 9 6 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Barlow Semi Condensed ExtraBold";
+	panose-1:0 0 9 6 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Barlow ExtraBold";
+	panose-1:0 0 9 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Barlow Condensed Black";
+	panose-1:0 0 10 6 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Barlow Semi Condensed Black";
+	panose-1:0 0 10 6 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Barlow Black";
+	panose-1:0 0 10 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Bebas Neue";
+	panose-1:2 11 6 6 2 2 2 5 2 1;}
+@font-face
+	{font-family:Bembo;
+	panose-1:2 2 5 2 5 2 1 2 2 3;}
+@font-face
+	{font-family:"Berlin Sans FB";
+	panose-1:2 14 6 2 2 5 2 2 3 6;}
+@font-face
+	{font-family:"Berlin Sans FB Demi";
+	panose-1:2 14 8 2 2 5 2 2 3 6;}
+@font-face
+	{font-family:Bierstadt;
+	panose-1:2 11 0 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Bierstadt Display";
+	panose-1:2 11 0 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Biome Light";
+	panose-1:2 11 3 3 3 2 4 2 8 4;}
+@font-face
+	{font-family:Biome;
+	panose-1:2 11 5 3 3 2 4 2 8 4;}
+@font-face
+	{font-family:"Blackadder ITC";
+	panose-1:4 2 5 5 5 0 7 2 13 2;}
+@font-face
+	{font-family:"Bodoni MT Condensed";
+	panose-1:2 7 6 6 8 6 6 2 2 3;}
+@font-face
+	{font-family:"Bodoni MT";
+	panose-1:2 7 6 3 8 6 6 2 2 3;}
+@font-face
+	{font-family:"Bodoni MT Black";
+	panose-1:2 7 10 3 8 6 6 2 2 3;}
+@font-face
+	{font-family:"Bodoni MT Poster Compressed";
+	panose-1:2 7 7 6 8 6 1 5 2 4;}
+@font-face
+	{font-family:"Boucherie Block";
+	panose-1:2 0 5 6 0 0 0 2 0 4;}
+@font-face
+	{font-family:"Boucherie Sans";
+	panose-1:2 0 5 6 0 0 0 2 0 4;}
+@font-face
+	{font-family:"Bradley Hand ITC";
+	panose-1:3 7 4 2 5 3 2 3 2 3;}
+@font-face
+	{font-family:Broadway;
+	panose-1:4 4 9 5 8 0 2 2 5 2;}
+@font-face
+	{font-family:"Browallia New";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:BrowalliaUPC;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Buxton Sketch";
+	panose-1:3 8 5 0 0 5 0 0 0 4;}
+@font-face
+	{font-family:"Californian FB";
+	panose-1:2 7 4 3 6 8 11 3 2 4;}
+@font-face
+	{font-family:Castellar;
+	panose-1:2 10 4 2 6 4 6 1 3 1;}
+@font-face
+	{font-family:"Caveat Brush";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Cavolini;
+	panose-1:3 0 5 2 4 3 2 2 2 4;}
+@font-face
+	{font-family:Centaur;
+	panose-1:2 3 5 4 5 2 5 2 3 4;}
+@font-face
+	{font-family:"Centaur Now Caption";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Centaur Now Display";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Centaur Now Text";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Chamberi Super Display";
+	panose-1:2 4 5 3 8 5 5 2 3 3;}
+@font-face
+	{font-family:"Chilgok Gwon Anja";
+	panose-1:2 2 6 3 2 1 1 2 1 1;}
+@font-face
+	{font-family:"Chilgok Kim Yeongbun";
+	panose-1:2 2 6 3 2 1 1 2 1 1;}
+@font-face
+	{font-family:"Chilgok Lee Jonghui";
+	panose-1:2 2 6 3 2 1 1 2 1 1;}
+@font-face
+	{font-family:"Chilgok Lee Wonsun";
+	panose-1:2 2 6 3 2 1 1 2 1 1;}
+@font-face
+	{font-family:Chiller;
+	panose-1:4 2 4 4 3 16 7 2 6 2;}
+@font-face
+	{font-family:Chonburi;
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cochocib Script Latin Pro";
+	panose-1:2 0 5 3 0 0 0 2 0 3;}
+@font-face
+	{font-family:"Concert One";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Congenial UltraLight";
+	panose-1:2 0 5 3 4 0 0 2 0 4;}
+@font-face
+	{font-family:"Congenial Light";
+	panose-1:2 0 5 3 4 0 0 2 0 4;}
+@font-face
+	{font-family:Congenial;
+	panose-1:2 0 5 3 4 0 0 2 0 4;}
+@font-face
+	{font-family:"Congenial SemiBold";
+	panose-1:2 0 5 3 4 0 0 2 0 4;}
+@font-face
+	{font-family:"Congenial Black";
+	panose-1:2 0 5 3 4 0 0 2 0 4;}
+@font-face
+	{font-family:"Convection Condensed";
+	panose-1:2 11 6 4 4 5 1 4 2 3;}
+@font-face
+	{font-family:Convection;
+	panose-1:2 11 6 4 4 5 1 4 2 3;}
+@font-face
+	{font-family:"Convection Extra Bold";
+	panose-1:2 11 9 4 4 5 1 4 2 3;}
+@font-face
+	{font-family:"Convection Symbol";
+	panose-1:5 1 1 1 1 1 1 1 1 1;}
+@font-face
+	{font-family:"Convection UI";
+	panose-1:2 11 6 4 4 5 1 4 2 3;}
+@font-face
+	{font-family:Dante;
+	panose-1:2 2 5 2 5 2 0 2 2 3;}
+@font-face
+	{font-family:DaunPenh;
+	panose-1:1 1 1 1 1 1 1 1 1 1;}
+@font-face
+	{font-family:"Daytona Condensed Light";
+	panose-1:2 11 3 6 3 5 3 4 2 4;}
+@font-face
+	{font-family:"Daytona Light";
+	panose-1:2 11 3 4 3 5 3 4 2 4;}
+@font-face
+	{font-family:"Daytona Condensed";
+	panose-1:2 11 5 6 3 5 3 4 2 4;}
+@font-face
+	{font-family:Daytona;
+	panose-1:2 11 6 4 3 5 0 4 2 4;}
+@font-face
+	{font-family:"Didact Gothic";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:DilleniaUPC;
+	panose-1:2 2 6 3 5 4 5 2 3 4;}
+@font-face
+	{font-family:"DM Mono Light";
+	panose-1:2 11 3 9 4 2 1 4 1 3;}
+@font-face
+	{font-family:"DM Mono";
+	panose-1:2 11 5 9 4 2 1 4 1 3;}
+@font-face
+	{font-family:"DM Mono Medium";
+	panose-1:2 11 6 9 4 2 1 4 1 3;}
+@font-face
+	{font-family:"DM Sans";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"DM Sans Medium";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"DM Serif Display";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"DM Serif Text";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:DokChampa;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Dosis ExtraLight";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Dosis Light";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Dosis;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Dosis Medium";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Dosis SemiBold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Dosis ExtraBold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Dreaming Outloud Pro";
+	panose-1:3 5 5 2 4 3 2 3 5 4;}
+@font-face
+	{font-family:"Dreaming Outloud Script Pro";
+	panose-1:3 5 5 2 4 3 4 5 7 4;}
+@font-face
+	{font-family:"EB Garamond";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"EB Garamond Medium";
+	panose-1:0 0 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"EB Garamond SemiBold";
+	panose-1:0 0 7 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"EB Garamond ExtraBold";
+	panose-1:0 0 9 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Ebrima;
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Elephant;
+	panose-1:2 2 9 4 9 5 5 2 3 3;}
+@font-face
+	{font-family:"Elephant Pro";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Eras Light ITC";
+	panose-1:2 11 4 2 3 5 4 2 8 4;}
+@font-face
+	{font-family:"Eras Medium ITC";
+	panose-1:2 11 6 2 3 5 4 2 8 4;}
+@font-face
+	{font-family:"Eras Demi ITC";
+	panose-1:2 11 8 5 3 5 4 2 8 4;}
+@font-face
+	{font-family:"Eras Bold ITC";
+	panose-1:2 11 9 7 3 5 4 2 2 4;}
+@font-face
+	{font-family:EucrosiaUPC;
+	panose-1:2 2 6 3 5 4 5 2 3 4;}
+@font-face
+	{font-family:Euphemia;
+	panose-1:2 11 5 3 4 1 2 2 1 4;}
+@font-face
+	{font-family:"Fairwater Script Light";
+	panose-1:2 0 5 7 0 0 0 2 0 3;}
+@font-face
+	{font-family:"Fairwater Script";
+	panose-1:2 0 5 7 0 0 0 2 0 3;}
+@font-face
+	{font-family:"Fave Script Bold Pro";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Felix Titling";
+	panose-1:4 6 5 5 6 2 2 2 10 4;}
+@font-face
+	{font-family:"Fira Code Light";
+	panose-1:2 11 8 9 5 0 0 2 0 4;}
+@font-face
+	{font-family:"Fira Code";
+	panose-1:2 11 8 9 5 0 0 2 0 4;}
+@font-face
+	{font-family:"Fira Code Medium";
+	panose-1:2 11 8 9 5 0 0 2 0 4;}
+@font-face
+	{font-family:"Fira Code Retina";
+	panose-1:2 11 8 9 5 0 0 2 0 4;}
+@font-face
+	{font-family:"Fira Mono";
+	panose-1:2 11 5 9 5 0 0 2 0 4;}
+@font-face
+	{font-family:"Fira Mono Medium";
+	panose-1:2 11 6 9 5 0 0 2 0 4;}
+@font-face
+	{font-family:"Fira Sans Extra Condensed Thin";
+	panose-1:2 11 3 3 5 0 0 2 0 4;}
+@font-face
+	{font-family:"Fira Sans Condensed Thin";
+	panose-1:2 11 3 3 5 0 0 2 0 4;}
+@font-face
+	{font-family:"Fira Sans Thin";
+	panose-1:2 11 3 3 5 0 0 2 0 4;}
+@font-face
+	{font-family:"Fira Sans Condensed ExtraLight";
+	panose-1:2 11 4 3 5 0 0 2 0 4;}
+@font-face
+	{font-family:"Fira Sans ExtraLight";
+	panose-1:2 11 4 3 5 0 0 2 0 4;}
+@font-face
+	{font-family:"Fira Sans Extra Condensed Light";
+	panose-1:2 11 4 3 5 0 0 2 0 4;}
+@font-face
+	{font-family:"Fira Sans Condensed Light";
+	panose-1:2 11 4 3 5 0 0 2 0 4;}
+@font-face
+	{font-family:"Fira Sans Light";
+	panose-1:2 11 4 3 5 0 0 2 0 4;}
+@font-face
+	{font-family:"Fira Sans Extra Condensed";
+	panose-1:2 11 5 3 5 0 0 2 0 4;}
+@font-face
+	{font-family:"Fira Sans Condensed";
+	panose-1:2 11 5 3 5 0 0 2 0 4;}
+@font-face
+	{font-family:"Fira Sans";
+	panose-1:2 11 5 3 5 0 0 2 0 4;}
+@font-face
+	{font-family:"Fira Sans Condensed Medium";
+	panose-1:2 11 6 3 5 0 0 2 0 4;}
+@font-face
+	{font-family:"Fira Sans Medium";
+	panose-1:2 11 6 3 5 0 0 2 0 4;}
+@font-face
+	{font-family:"Fira Sans Condensed SemiBold";
+	panose-1:2 11 6 3 5 0 0 2 0 4;}
+@font-face
+	{font-family:"Fira Sans SemiBold";
+	panose-1:2 11 6 3 5 0 0 2 0 4;}
+@font-face
+	{font-family:"Fira Sans Condensed ExtraBold";
+	panose-1:2 11 9 3 5 0 0 2 0 4;}
+@font-face
+	{font-family:"Fira Sans ExtraBold";
+	panose-1:2 11 9 3 5 0 0 2 0 4;}
+@font-face
+	{font-family:"Fira Sans Extra Condensed Black";
+	panose-1:2 11 10 3 5 0 0 2 0 4;}
+@font-face
+	{font-family:"Fira Sans Condensed Black";
+	panose-1:2 11 10 3 5 0 0 2 0 4;}
+@font-face
+	{font-family:"Fira Sans Black";
+	panose-1:2 11 10 3 5 0 0 2 0 4;}
+@font-face
+	{font-family:"Fjalla One";
+	panose-1:2 0 5 6 4 0 0 2 0 4;}
+@font-face
+	{font-family:Forte;
+	panose-1:3 6 9 2 4 5 2 7 2 3;}
+@font-face
+	{font-family:"Forte Forward";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Frank Ruhl Libre Light";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Frank Ruhl Libre";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Frank Ruhl Libre Medium";
+	panose-1:0 0 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Frank Ruhl Libre Black";
+	panose-1:0 0 10 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:FrankRuehl;
+	panose-1:2 14 5 3 6 1 1 1 1 1;}
+@font-face
+	{font-family:"Fredoka One";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:FreesiaUPC;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Freestyle Script";
+	panose-1:3 8 4 2 3 2 5 11 4 4;}
+@font-face
+	{font-family:"French Script MT";
+	panose-1:3 2 4 2 4 6 7 4 6 5;}
+@font-face
+	{font-family:Gabriela;
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Gadugi;
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Gaegu Light";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Gaegu;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Georgia Pro Cond Light";
+	panose-1:2 4 3 6 5 4 5 2 3 3;}
+@font-face
+	{font-family:"Georgia Pro Light";
+	panose-1:2 4 3 2 5 4 5 2 3 3;}
+@font-face
+	{font-family:"Georgia Pro Cond";
+	panose-1:2 4 5 6 5 4 5 2 3 3;}
+@font-face
+	{font-family:"Georgia Pro";
+	panose-1:2 4 5 2 5 4 5 2 3 3;}
+@font-face
+	{font-family:"Georgia Pro Cond Semibold";
+	panose-1:2 4 7 6 5 4 5 2 3 3;}
+@font-face
+	{font-family:"Georgia Pro Semibold";
+	panose-1:2 4 7 2 5 4 5 2 3 3;}
+@font-face
+	{font-family:"Georgia Pro Cond Black";
+	panose-1:2 4 10 6 5 4 5 2 2 3;}
+@font-face
+	{font-family:"Georgia Pro Black";
+	panose-1:2 4 10 2 5 4 5 2 2 3;}
+@font-face
+	{font-family:Gigi;
+	panose-1:4 4 5 4 6 0 7 2 13 2;}
+@font-face
+	{font-family:"Gill Sans Nova Cond Lt";
+	panose-1:2 11 3 6 2 1 4 2 2 3;}
+@font-face
+	{font-family:"Gill Sans Nova Light";
+	panose-1:2 11 3 2 2 1 4 2 2 3;}
+@font-face
+	{font-family:"Gill Sans Nova Cond";
+	panose-1:2 11 6 6 2 1 4 2 2 3;}
+@font-face
+	{font-family:"Gill Sans Nova";
+	panose-1:2 11 6 2 2 1 4 2 2 3;}
+@font-face
+	{font-family:"Gill Sans Nova Cond XBd";
+	panose-1:2 11 10 6 2 1 4 2 2 3;}
+@font-face
+	{font-family:"Gill Sans Nova Cond Ultra Bold";
+	panose-1:2 11 11 4 2 1 4 2 2 3;}
+@font-face
+	{font-family:"Gill Sans Nova Ultra Bold";
+	panose-1:2 11 11 2 2 1 4 2 2 3;}
+@font-face
+	{font-family:Gisha;
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Goudy Stout";
+	panose-1:2 2 9 4 7 3 11 2 4 1;}
+@font-face
+	{font-family:"Goudy Type";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Grandview;
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Grandview Display";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Grotesque Light";
+	panose-1:2 11 3 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:Grotesque;
+	panose-1:2 11 5 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Hadassah Friedlaender";
+	panose-1:2 2 6 3 5 4 5 2 3 4;}
+@font-face
+	{font-family:"Hammersmith One";
+	panose-1:2 1 7 3 3 5 1 6 5 4;}
+@font-face
+	{font-family:"Harlow Solid Italic";
+	panose-1:4 3 6 4 2 15 2 2 13 2;}
+@font-face
+	{font-family:"Heebo Thin";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Heebo Light";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Heebo;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Heebo Medium";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Heebo ExtraBold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Heebo Black";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"High Tower Text";
+	panose-1:2 4 5 2 5 5 6 3 3 3;}
+@font-face
+	{font-family:"Hind Light";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Hind;
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hind Medium";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hind SemiBold";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hind Colombo Light";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hind Colombo";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hind Colombo Medium";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hind Colombo SemiBold";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hind Guntur Light";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hind Guntur";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hind Guntur Medium";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hind Guntur SemiBold";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hind Jalandhar Light";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hind Jalandhar";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hind Jalandhar Medium";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hind Jalandhar SemiBold";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hind Kochi Light";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hind Kochi";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hind Kochi Medium";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hind Kochi SemiBold";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hind Madurai Light";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hind Madurai";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hind Madurai Medium";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hind Madurai SemiBold";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hind Mysuru Light";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hind Mysuru";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hind Mysuru Medium";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hind Mysuru SemiBold";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hind Siliguri Light";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hind Siliguri";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hind Siliguri Medium";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hind Siliguri SemiBold";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hind Vadodara Light";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hind Vadodara";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hind Vadodara Medium";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Hind Vadodara SemiBold";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"IBM Plex Mono Thin";
+	panose-1:2 11 3 9 5 2 3 0 2 3;}
+@font-face
+	{font-family:"IBM Plex Mono ExtraLight";
+	panose-1:2 11 3 9 5 2 3 0 2 3;}
+@font-face
+	{font-family:"IBM Plex Mono Light";
+	panose-1:2 11 4 9 5 2 3 0 2 3;}
+@font-face
+	{font-family:"IBM Plex Mono";
+	panose-1:2 11 5 9 5 2 3 0 2 3;}
+@font-face
+	{font-family:"IBM Plex Mono Medium";
+	panose-1:2 11 6 9 5 2 3 0 2 3;}
+@font-face
+	{font-family:"IBM Plex Mono SemiBold";
+	panose-1:2 11 7 9 5 2 3 0 2 3;}
+@font-face
+	{font-family:"IBM Plex Sans Condensed Thin";
+	panose-1:2 11 2 6 5 2 3 0 2 3;}
+@font-face
+	{font-family:"IBM Plex Sans Thin";
+	panose-1:2 11 2 3 5 2 3 0 2 3;}
+@font-face
+	{font-family:"IBM Plex Sans ExtraLight";
+	panose-1:2 11 3 3 5 2 3 0 2 3;}
+@font-face
+	{font-family:"IBM Plex Sans Condensed Light";
+	panose-1:2 11 4 6 5 2 3 0 2 3;}
+@font-face
+	{font-family:"IBM Plex Sans Light";
+	panose-1:2 11 4 3 5 2 3 0 2 3;}
+@font-face
+	{font-family:"IBM Plex Sans Condensed";
+	panose-1:2 11 5 6 5 2 3 0 2 3;}
+@font-face
+	{font-family:"IBM Plex Sans";
+	panose-1:2 11 5 3 5 2 3 0 2 3;}
+@font-face
+	{font-family:"IBM Plex Sans Condensed Medium";
+	panose-1:2 11 6 6 5 2 3 0 2 3;}
+@font-face
+	{font-family:"IBM Plex Sans Medium";
+	panose-1:2 11 6 3 5 2 3 0 2 3;}
+@font-face
+	{font-family:"IBM Plex Sans SemiBold";
+	panose-1:2 11 7 3 5 2 3 0 2 3;}
+@font-face
+	{font-family:"IBM Plex Serif Thin";
+	panose-1:2 6 2 3 5 4 6 0 2 3;}
+@font-face
+	{font-family:"IBM Plex Serif ExtraLight";
+	panose-1:2 6 3 3 5 4 6 0 2 3;}
+@font-face
+	{font-family:"IBM Plex Serif Light";
+	panose-1:2 6 4 3 5 4 6 0 2 3;}
+@font-face
+	{font-family:"IBM Plex Serif";
+	panose-1:2 6 5 3 5 4 6 0 2 3;}
+@font-face
+	{font-family:"IBM Plex Serif Medium";
+	panose-1:2 6 6 3 5 4 6 0 2 3;}
+@font-face
+	{font-family:"IBM Plex Serif SemiBold";
+	panose-1:2 6 7 3 5 4 6 0 2 3;}
+@font-face
+	{font-family:"Inconsolata ExtraLight";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Inconsolata Expanded ExtraLight";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Inconsolata Condensed Light";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Inconsolata SemiCondensed Light";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Inconsolata Light";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Inconsolata SemiExpanded Light";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Inconsolata Expanded Light";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Inconsolata ExtraExpanded Light";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Inconsolata UltraExpanded Light";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Inconsolata UltraCondensed";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Inconsolata ExtraCondensed";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Inconsolata Condensed";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Inconsolata SemiCondensed";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Inconsolata;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Inconsolata SemiExpanded";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Inconsolata Expanded";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Inconsolata ExtraExpanded";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Inconsolata UltraExpanded";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Inconsolata Condensed Medium";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Inconsolata Medium";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Inconsolata SemiExpanded Medium";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Inconsolata Expanded Medium";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Inconsolata Condensed SemiBold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Inconsolata SemiBold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Inconsolata Expanded SemiBold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Inconsolata UltraCondensed Bold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Inconsolata ExtraCondensed Bold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Inconsolata Condensed Bold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Inconsolata SemiCondensed Bold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Inconsolata Bold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Inconsolata SemiExpanded Bold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Inconsolata Expanded Bold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Inconsolata ExtraExpanded Bold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Inconsolata UltraExpanded Bold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Inconsolata Condensed ExtraBold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Inconsolata ExtraBold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Inconsolata Expanded ExtraBold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Inconsolata Condensed Black";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Inconsolata SemiCondensed Black";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Inconsolata Black";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Inconsolata SemiExpanded Black";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Inconsolata Expanded Black";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Inconsolata ExtraExpanded Black";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Inconsolata UltraExpanded Black";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Informal Roman";
+	panose-1:3 6 4 2 3 4 6 11 2 4;}
+@font-face
+	{font-family:"Ink Free";
+	panose-1:3 8 4 2 0 5 0 0 0 0;}
+@font-face
+	{font-family:IrisUPC;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Iskoola Pota";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:Italianno;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:JasmineUPC;
+	panose-1:2 2 6 3 5 4 5 2 3 4;}
+@font-face
+	{font-family:"Javanese Text";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Jokerman;
+	panose-1:4 9 6 5 6 0 6 2 7 2;}
+@font-face
+	{font-family:"Josefin Sans Thin";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Josefin Sans Light";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Josefin Sans";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Josefin Sans SemiBold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Josefin Sans Bold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Josefin Slab Thin";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Josefin Slab Light";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Josefin Slab";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Josefin Slab SemiBold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Juice ITC";
+	panose-1:4 4 4 3 4 0 2 2 2 2;}
+@font-face
+	{font-family:Jumble;
+	panose-1:2 0 5 3 0 0 0 2 0 4;}
+@font-face
+	{font-family:Kalinga;
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Karla ExtraLight";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Karla Light";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Karla;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Karla Medium";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Karla ExtraBold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Karla Tamil Inclined";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Karla Tamil Upright";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Kermit Thin Condensed";
+	panose-1:2 15 5 3 4 0 0 6 0 3;}
+@font-face
+	{font-family:"Kermit Thin";
+	panose-1:2 15 5 3 4 0 0 6 0 3;}
+@font-face
+	{font-family:"Kermit Thin Expanded";
+	panose-1:2 15 5 3 4 0 0 6 0 3;}
+@font-face
+	{font-family:"Kermit Extralight Condensed";
+	panose-1:2 15 5 3 4 0 0 6 0 3;}
+@font-face
+	{font-family:"Kermit Extralight";
+	panose-1:2 15 5 3 4 0 0 6 0 3;}
+@font-face
+	{font-family:"Kermit Extralight Expanded";
+	panose-1:2 15 5 3 4 0 0 6 0 3;}
+@font-face
+	{font-family:"Kermit Light Condensed";
+	panose-1:2 15 5 3 4 0 0 6 0 3;}
+@font-face
+	{font-family:"Kermit Light";
+	panose-1:2 15 5 3 4 0 0 6 0 3;}
+@font-face
+	{font-family:"Kermit Light Expanded";
+	panose-1:2 15 5 3 4 0 0 6 0 3;}
+@font-face
+	{font-family:"Kermit Condensed";
+	panose-1:2 15 5 3 4 0 0 6 0 3;}
+@font-face
+	{font-family:Kermit;
+	panose-1:2 15 5 3 4 0 0 6 0 3;}
+@font-face
+	{font-family:"Kermit Expanded";
+	panose-1:2 15 5 3 4 0 0 6 0 3;}
+@font-face
+	{font-family:"Kermit Semibold Condensed";
+	panose-1:2 15 5 3 4 0 0 6 0 3;}
+@font-face
+	{font-family:"Kermit Semibold";
+	panose-1:2 15 5 3 4 0 0 6 0 3;}
+@font-face
+	{font-family:"Kermit Semibold Expanded";
+	panose-1:2 15 5 3 4 0 0 6 0 3;}
+@font-face
+	{font-family:"Kermit Extrabold Condensed";
+	panose-1:2 15 5 3 4 0 0 6 0 3;}
+@font-face
+	{font-family:"Kermit Extrabold";
+	panose-1:2 15 5 3 4 0 0 6 0 3;}
+@font-face
+	{font-family:"Kermit Extrabold Expanded";
+	panose-1:2 15 5 3 4 0 0 6 0 3;}
+@font-face
+	{font-family:"Khmer UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Kigelia Light";
+	panose-1:2 11 3 3 2 2 2 2 2 3;}
+@font-face
+	{font-family:Kigelia;
+	panose-1:2 11 5 3 4 5 2 2 2 3;}
+@font-face
+	{font-family:"Kigelia Arabic Light";
+	panose-1:2 11 3 3 2 2 2 2 2 3;}
+@font-face
+	{font-family:"Kigelia Arabic";
+	panose-1:2 11 5 3 4 5 2 2 2 3;}
+@font-face
+	{font-family:"Klee One";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Klee One SemiBold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:KodchiangUPC;
+	panose-1:2 2 6 3 5 4 5 2 3 4;}
+@font-face
+	{font-family:Kokila;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Kristen ITC";
+	panose-1:3 5 5 2 4 2 2 3 2 2;}
+@font-face
+	{font-family:"Kunstler Script";
+	panose-1:3 3 4 2 2 6 7 13 13 6;}
+@font-face
+	{font-family:Lalezar;
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Lao UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Lato Thin";
+	panose-1:2 15 5 2 2 2 4 3 2 3;}
+@font-face
+	{font-family:"Lato ExtraLight";
+	panose-1:2 15 5 2 2 2 4 3 2 3;}
+@font-face
+	{font-family:"Lato Light";
+	panose-1:2 15 5 2 2 2 4 3 2 3;}
+@font-face
+	{font-family:Lato;
+	panose-1:2 15 5 2 2 2 4 3 2 3;}
+@font-face
+	{font-family:"Lato Medium";
+	panose-1:2 15 5 2 2 2 4 3 2 3;}
+@font-face
+	{font-family:"Lato SemiBold";
+	panose-1:2 15 5 2 2 2 4 3 2 3;}
+@font-face
+	{font-family:"Lato ExtraBold";
+	panose-1:2 15 5 2 2 2 4 3 2 3;}
+@font-face
+	{font-family:"Lato Black";
+	panose-1:2 15 5 2 2 2 4 3 2 3;}
+@font-face
+	{font-family:Leelawadee;
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Leelawadee UI Semilight";
+	panose-1:2 11 4 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Leelawadee UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Levenim MT";
+	panose-1:2 1 5 2 6 1 1 1 1 1;}
+@font-face
+	{font-family:"Libre Barcode 128";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Libre Barcode 128 Text";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Libre Barcode 39";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Libre Barcode 39 Extended";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Libre Barcode 39 Text";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Libre Barcode 39 Extended Text";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Libre Barcode EAN13 Text";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Libre Baskerville";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Libre Franklin Thin";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Libre Franklin ExtraLight";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Libre Franklin Light";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Libre Franklin";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Libre Franklin Medium";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Libre Franklin SemiBold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Libre Franklin ExtraBold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Libre Franklin Black";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Ligconsolata;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:LilyUPC;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Livvic Thin";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Livvic ExtraLight";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Livvic Light";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Livvic;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Livvic Medium";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Livvic SemiBold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Livvic Black";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Lobster;
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Lobster Two";
+	panose-1:2 0 5 6 0 0 0 2 0 3;}
+@font-face
+	{font-family:Lora;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Lora Medium";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Magneto;
+	panose-1:4 3 8 5 5 8 2 2 13 2;}
+@font-face
+	{font-family:"Maiandra GD";
+	panose-1:2 14 5 2 3 3 8 2 2 4;}
+@font-face
+	{font-family:"Mangal Pro";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Meddon;
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Merriweather Light";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Merriweather;
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Merriweather Black";
+	panose-1:0 0 10 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Merriweather Sans Light";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Merriweather Sans";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Merriweather Sans ExtraBold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Microsoft GothicNeo Light";
+	panose-1:2 11 3 0 0 1 1 1 1 1;}
+@font-face
+	{font-family:"Microsoft GothicNeo";
+	panose-1:2 11 5 0 0 1 1 1 1 1;}
+@font-face
+	{font-family:"Microsoft JhengHei UI Light";
+	panose-1:2 11 3 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Microsoft JhengHei UI";
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Microsoft PhagsPa";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Microsoft Uighur";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:MingLiU_MSCS;
+	panose-1:2 2 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:MingLiU_MSCS-ExtB;
+	panose-1:2 2 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Miriam;
+	panose-1:2 11 5 2 5 1 1 1 1 1;}
+@font-face
+	{font-family:"Miriam Fixed";
+	panose-1:2 11 5 9 5 1 1 1 1 1;}
+@font-face
+	{font-family:"Miriam Libre";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Mitr ExtraLight";
+	panose-1:0 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Mitr Light";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Mitr;
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Mitr Medium";
+	panose-1:0 0 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Mitr SemiBold";
+	panose-1:0 0 7 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Modern Love";
+	panose-1:4 9 8 5 8 16 5 2 6 1;}
+@font-face
+	{font-family:"Modern Love Caps";
+	panose-1:4 7 8 5 8 16 1 2 10 1;}
+@font-face
+	{font-family:"Modern Love Grunge";
+	panose-1:4 7 8 5 8 16 5 2 6 1;}
+@font-face
+	{font-family:"Montserrat Thin";
+	panose-1:0 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Montserrat ExtraLight";
+	panose-1:0 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Montserrat Light";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Montserrat;
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Montserrat Medium";
+	panose-1:0 0 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Montserrat SemiBold";
+	panose-1:0 0 7 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Montserrat ExtraBold";
+	panose-1:0 0 9 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Montserrat Black";
+	panose-1:0 0 10 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:MoolBoran;
+	panose-1:2 11 1 0 1 1 1 1 1 1;}
+@font-face
+	{font-family:"Mr Gabe";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"MS Outlook";
+	panose-1:5 1 1 0 1 0 0 0 0 0;}
+@font-face
+	{font-family:"MV Boli";
+	panose-1:2 0 5 0 3 2 0 9 0 0;}
+@font-face
+	{font-family:"Mystical Woods Rough Script";
+	panose-1:2 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Mystical Woods Smooth Script";
+	panose-1:2 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Nanum Pen";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:NanumGothicExtraBold;
+	panose-1:2 13 9 4 0 0 0 0 0 0;}
+@font-face
+	{font-family:NanumGothicCoding;
+	panose-1:2 13 0 9 0 0 0 0 0 0;}
+@font-face
+	{font-family:Narkisim;
+	panose-1:2 14 5 2 5 1 1 1 1 1;}
+@font-face
+	{font-family:"Neue Haas Grotesk Text Pro";
+	panose-1:2 11 5 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Niagara Engraved";
+	panose-1:4 2 5 2 7 7 3 3 2 2;}
+@font-face
+	{font-family:"Niagara Solid";
+	panose-1:4 2 5 2 7 7 2 2 2 2;}
+@font-face
+	{font-family:Nina;
+	panose-1:2 11 6 6 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Nirmala Text Semilight";
+	panose-1:2 11 4 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Nirmala Text";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Nirmala UI Semilight";
+	panose-1:2 11 4 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Nirmala UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Nordique Inline";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Noto Music";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Noto Sans";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans AnatoHiero";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Avestan";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Bassa Vah";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Bhaiksuki";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Brahmi";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Buginese";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Buhid";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Carian";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans CaucAlban";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Chakma";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Coptic";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Cuneiform";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Cypriot";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Deseret";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Devanagari Thin";
+	panose-1:2 11 2 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Devanagari ExtraLight";
+	panose-1:2 11 3 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Devanagari Light";
+	panose-1:2 11 4 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Devanagari";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Devanagari Medium";
+	panose-1:2 11 6 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Devanagari SemiBold";
+	panose-1:2 11 7 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Devanagari ExtraBold";
+	panose-1:2 11 9 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Devanagari Black";
+	panose-1:2 11 10 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Devanagari UI Thin";
+	panose-1:2 11 2 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Devanagari UI Light";
+	panose-1:2 11 4 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Devanagari UI";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Devanagari UI Medium";
+	panose-1:2 11 6 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Devanagari UI Black";
+	panose-1:2 11 10 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Duployan";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans EgyptHiero";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Elbasan";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Elymaic";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Noto Sans Glagolitic";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Gothic";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Grantha";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Gujarati Thin";
+	panose-1:2 11 2 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Gujarati ExtraLight";
+	panose-1:2 11 3 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Gujarati Light";
+	panose-1:2 11 4 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Gujarati";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Gujarati Medium";
+	panose-1:2 11 6 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Gujarati SemiBold";
+	panose-1:2 11 7 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Gujarati ExtraBold";
+	panose-1:2 11 9 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Gujarati Black";
+	panose-1:2 11 10 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Gujarati UI Thin";
+	panose-1:2 11 2 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Gujarati UI Light";
+	panose-1:2 11 4 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Gujarati UI";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Gujarati UI Medium";
+	panose-1:2 11 6 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Gujarati UI SemiBold";
+	panose-1:2 11 7 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Gujarati UI ExtraBold";
+	panose-1:2 11 9 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Gujarati UI Black";
+	panose-1:2 11 10 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Gunjala Gondi";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Noto Sans Hanunoo";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Hatran";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans ImpAramaic";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Indic Siyaq Numbers";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans InsPahlavi";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans InsParthi";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Javanese";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Kaithi";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Kharoshthi";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Khojki";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Khudawadi";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Lepcha";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Limbu";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Linear A";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Linear B";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Lycian";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Lydian";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Mahajani";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Mandaic";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Manichaean";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Marchen";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Masaram Gondi";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Noto Sans Math";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Mayan Numerals";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Mende Kikakui";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Meroitic";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Miao";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Modi";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Mongolian";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Mro";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Multani";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Myanmar UI Thin";
+	panose-1:2 11 2 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Myanmar UI ExtraLight";
+	panose-1:2 11 3 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Myanmar UI Light";
+	panose-1:2 11 4 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Myanmar UI";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Myanmar UI Medium";
+	panose-1:2 11 6 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Myanmar UI SemiBold";
+	panose-1:2 11 7 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Myanmar UI ExtraBold";
+	panose-1:2 11 9 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Myanmar UI Black";
+	panose-1:2 11 10 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Nabataean";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans NewTaiLue";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Newa";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Nushu";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Ogham";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans OldHung";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Old Italic";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans OldNorArab";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Old Permic";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans OldPersian";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans OldSogdian";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans OldSouArab";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Old Turkic";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Oriya UI Thin";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Noto Sans Oriya UI";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Noto Sans Oriya UI Blk";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Noto Sans Osage";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Osmanya";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Pahawh Hmong";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Palmyrene";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans PauCinHau";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans PhagsPa";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Phoenician";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans PsaPahlavi";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Rejang";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Runic";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Samaritan";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Saurashtra";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Sharada";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Shavian";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Siddham";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Sogdian";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Soyombo";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Syloti Nagri";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Symbols2";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Tagbanwa";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Tai Le";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Tai Viet";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Takri";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Tamil Supplement";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Noto Sans Thai Looped Thin";
+	panose-1:2 11 2 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Thai Looped ExtLight";
+	panose-1:2 11 3 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Thai Looped Light";
+	panose-1:2 11 4 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Thai Looped Regular";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Thai Looped Medium";
+	panose-1:2 11 6 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Thai Looped Semibold";
+	panose-1:2 11 7 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Thai Looped Bold";
+	panose-1:2 11 8 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Thai Looped Extrabold";
+	panose-1:2 11 9 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Thai Looped Black";
+	panose-1:2 11 10 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Tifinagh";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Noto Sans Tirhuta";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Ugaritic";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Vai";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Wancho";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans WarangCiti";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Yi";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Sans Zanabazar";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Noto Serif";
+	panose-1:2 2 6 0 6 5 0 2 2 0;}
+@font-face
+	{font-family:"Noto Serif Ahom";
+	panose-1:2 2 5 2 6 5 5 2 2 4;}
+@font-face
+	{font-family:"Noto Serif Balinese";
+	panose-1:2 2 5 2 6 5 5 2 2 4;}
+@font-face
+	{font-family:"Noto Serif Dogra";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Noto Serif Grantha";
+	panose-1:2 2 5 2 6 5 5 2 2 4;}
+@font-face
+	{font-family:"Noto Serif Tangut";
+	panose-1:2 2 5 2 6 5 5 2 2 4;}
+@font-face
+	{font-family:"Noto Traditional Nushu";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Nunito ExtraLight";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Nunito Light";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Nunito;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Nunito SemiBold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Nunito ExtraBold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Nunito Black";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Nunito Sans ExtraLight";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Nunito Sans Light";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Nunito Sans";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Nunito Sans SemiBold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Nunito Sans ExtraBold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Nunito Sans Black";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:OCRB;
+	panose-1:2 11 6 9 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Old English Text MT";
+	panose-1:3 4 9 2 4 5 8 3 8 6;}
+@font-face
+	{font-family:"Open Sans Light";
+	panose-1:2 11 3 6 3 5 4 2 2 4;}
+@font-face
+	{font-family:"Open Sans";
+	panose-1:2 11 6 6 3 5 4 2 2 4;}
+@font-face
+	{font-family:"Open Sans SemiBold";
+	panose-1:2 11 7 6 3 8 4 2 2 4;}
+@font-face
+	{font-family:"Open Sans ExtraBold";
+	panose-1:2 11 9 6 3 8 4 2 2 4;}
+@font-face
+	{font-family:Oranienbaum;
+	panose-1:2 0 5 6 8 0 0 2 0 3;}
+@font-face
+	{font-family:"Oswald ExtraLight";
+	panose-1:0 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Oswald Light";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Oswald;
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Oswald Medium";
+	panose-1:0 0 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Oswald SemiBold";
+	panose-1:0 0 7 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Oxygen Light";
+	panose-1:2 0 3 3 0 0 0 0 0 0;}
+@font-face
+	{font-family:Oxygen;
+	panose-1:2 0 5 3 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Oxygen Mono";
+	panose-1:2 0 5 9 3 0 0 9 0 4;}
+@font-face
+	{font-family:Pacifico;
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Palace Script MT";
+	panose-1:3 3 3 2 2 6 7 12 11 5;}
+@font-face
+	{font-family:"Palanquin Thin";
+	panose-1:2 11 0 4 2 2 3 2 2 4;}
+@font-face
+	{font-family:"Palanquin ExtraLight";
+	panose-1:2 11 0 4 2 2 3 2 2 4;}
+@font-face
+	{font-family:"Palanquin Light";
+	panose-1:2 11 0 4 2 2 3 2 2 4;}
+@font-face
+	{font-family:Palanquin;
+	panose-1:2 11 0 4 2 2 3 2 2 4;}
+@font-face
+	{font-family:"Palanquin Medium";
+	panose-1:2 11 0 4 2 2 3 2 2 4;}
+@font-face
+	{font-family:"Palanquin SemiBold";
+	panose-1:2 11 0 4 2 2 3 2 2 4;}
+@font-face
+	{font-family:Parchment;
+	panose-1:3 4 6 2 4 7 8 4 8 4;}
+@font-face
+	{font-family:"Patrick Hand";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Patrick Hand SC";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Petit Formal Script";
+	panose-1:3 2 6 2 4 8 7 8 11 6;}
+@font-face
+	{font-family:Playbill;
+	panose-1:4 5 6 3 0 6 2 2 2 2;}
+@font-face
+	{font-family:"Playfair Display";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Playfair Display Black";
+	panose-1:0 0 10 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Playfair Display SC";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Playfair Display SC Black";
+	panose-1:0 0 10 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Poiret One";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Poor Richard";
+	panose-1:2 8 5 2 5 5 5 2 7 2;}
+@font-face
+	{font-family:"Poppins Thin";
+	panose-1:0 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Poppins ExtraLight";
+	panose-1:0 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Poppins Light";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Poppins;
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Poppins Medium";
+	panose-1:0 0 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Poppins SemiBold";
+	panose-1:0 0 7 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Poppins ExtraBold";
+	panose-1:0 0 9 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Poppins Black";
+	panose-1:0 0 10 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Posterama;
+	panose-1:2 11 5 4 2 2 0 2 0 0;}
+@font-face
+	{font-family:"Pridi ExtraLight";
+	panose-1:0 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Pridi Light";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Pridi;
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Pridi Medium";
+	panose-1:0 0 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Pridi SemiBold";
+	panose-1:0 0 7 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Pristina;
+	panose-1:3 6 4 2 4 4 6 8 2 4;}
+@font-face
+	{font-family:"Prompt Thin";
+	panose-1:0 0 2 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Prompt ExtraLight";
+	panose-1:0 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Prompt Light";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Prompt;
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Prompt Medium";
+	panose-1:0 0 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Prompt SemiBold";
+	panose-1:0 0 7 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Prompt ExtraBold";
+	panose-1:0 0 9 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Prompt Black";
+	panose-1:0 0 10 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Quattrocento;
+	panose-1:2 2 5 2 3 0 0 0 4 4;}
+@font-face
+	{font-family:"Quattrocento Sans";
+	panose-1:2 11 5 2 5 0 0 2 0 3;}
+@font-face
+	{font-family:Questrial;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Quire Sans Light";
+	panose-1:2 11 3 2 4 4 0 2 0 3;}
+@font-face
+	{font-family:"Quire Sans";
+	panose-1:2 11 5 2 4 4 0 2 0 3;}
+@font-face
+	{font-family:"Quire Sans Pro Light";
+	panose-1:2 11 3 2 4 4 0 2 0 3;}
+@font-face
+	{font-family:"Rage Italic";
+	panose-1:3 7 5 2 4 5 7 7 3 4;}
+@font-face
+	{font-family:"Raleway Thin";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Raleway ExtraLight";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Raleway Light";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Raleway;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Raleway Medium";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Raleway SemiBold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Raleway ExtraBold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Raleway Black";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Rastanty Cortez";
+	panose-1:2 0 5 6 0 0 0 2 0 3;}
+@font-face
+	{font-family:Ravie;
+	panose-1:4 4 8 5 5 8 9 2 6 2;}
+@font-face
+	{font-family:"Reem Kufi";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Roboto Thin";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Roboto Condensed Light";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Roboto Light";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Roboto Condensed";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Roboto;
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Roboto Condensed Medium";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Roboto Medium";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Roboto Black";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Roboto Mono Thin";
+	panose-1:0 0 0 9 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Roboto Mono Light";
+	panose-1:0 0 0 9 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Roboto Mono";
+	panose-1:0 0 0 9 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Roboto Mono Medium";
+	panose-1:0 0 0 9 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Roboto Serif 20pt Thin";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Roboto Serif 20pt ExtraLight";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Roboto Serif 20pt Light";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Roboto Serif 20pt";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Roboto Serif 20pt Medium";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Roboto Serif 20pt SemiBold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Roboto Serif 20pt ExtraBold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Roboto Serif 20pt Black";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Roboto Slab Thin";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Roboto Slab ExtraLight";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Roboto Slab Light";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Roboto Slab";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Roboto Slab Medium";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Roboto Slab SemiBold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Roboto Slab ExtraBold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Roboto Slab Black";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Rockwell Nova Cond Light";
+	panose-1:2 6 3 6 2 2 5 2 4 3;}
+@font-face
+	{font-family:"Rockwell Nova Light";
+	panose-1:2 6 3 3 2 2 5 2 4 3;}
+@font-face
+	{font-family:"Rockwell Nova Cond";
+	panose-1:2 6 5 6 2 2 5 2 4 3;}
+@font-face
+	{font-family:"Rockwell Nova";
+	panose-1:2 6 5 3 2 2 5 2 4 3;}
+@font-face
+	{font-family:"Rockwell Nova Extra Bold";
+	panose-1:2 6 9 3 2 2 5 2 4 3;}
+@font-face
+	{font-family:Rod;
+	panose-1:2 3 5 9 5 1 1 1 1 1;}
+@font-face
+	{font-family:"Sabon Next LT";
+	panose-1:2 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Sacramento;
+	panose-1:2 0 5 7 0 0 0 2 0 0;}
+@font-face
+	{font-family:"Sagona ExtraLight";
+	panose-1:2 2 3 3 5 5 5 2 2 4;}
+@font-face
+	{font-family:Sagona;
+	panose-1:2 1 0 4 4 1 1 1 1 3;}
+@font-face
+	{font-family:"Sagona Book";
+	panose-1:2 2 5 3 5 5 5 2 2 4;}
+@font-face
+	{font-family:"Sakkal Majalla";
+	panose-1:2 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Sans Serif Collection";
+	panose-1:2 11 5 2 4 5 4 2 2 4;}
+@font-face
+	{font-family:"Sanskrit Text";
+	panose-1:2 2 5 3 5 4 5 2 3 4;}
+@font-face
+	{font-family:"Script MT Bold";
+	panose-1:3 4 6 2 4 6 7 8 9 4;}
+@font-face
+	{font-family:Seaford;
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Seaford Display";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Secular One";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe Marker";
+	panose-1:3 8 6 2 4 3 2 2 2 4;}
+@font-face
+	{font-family:"Segoe Pro Light";
+	panose-1:2 11 3 2 4 5 4 2 2 3;}
+@font-face
+	{font-family:"Segoe Pro Cond";
+	panose-1:2 11 5 6 4 5 4 2 2 3;}
+@font-face
+	{font-family:"Segoe Pro";
+	panose-1:2 11 5 2 4 5 4 2 2 3;}
+@font-face
+	{font-family:"Segoe Pro Semibold";
+	panose-1:2 11 7 2 4 5 4 2 2 3;}
+@font-face
+	{font-family:"Segoe Pro Black";
+	panose-1:2 11 10 2 4 5 4 2 2 3;}
+@font-face
+	{font-family:"Segoe Pro Display Light";
+	panose-1:2 11 3 2 4 5 4 2 2 3;}
+@font-face
+	{font-family:"Segoe Pro Display";
+	panose-1:2 11 5 2 4 5 4 2 2 3;}
+@font-face
+	{font-family:"Segoe Pro Display Semibold";
+	panose-1:2 11 7 2 4 5 4 2 2 3;}
+@font-face
+	{font-family:"Segoe Pro Display SemiLight";
+	panose-1:2 11 4 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Segoe Pro SemiLight";
+	panose-1:2 11 4 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Segoe Sans Display Hairline";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe Sans Display Thin";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe Sans Display Light";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe Sans Display Semilight";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe Sans Display";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe Sans Display Semibold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe Sans Display Extrabold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe Sans Display Black";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe Sans Small Hairline";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe Sans Small Thin";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe Sans Small Light";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe Sans Small Semilight";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe Sans Small";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe Sans Small Semibold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe Sans Small Extrabold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe Sans Small Black";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe Sans Text Hairline";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe Sans Text Thin";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe Sans Text Light";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe Sans Text Semilight";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe Sans Text";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe Sans Text Semibold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe Sans Text Extrabold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe Sans Text Black";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe Serif Banner Light";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe Serif Banner Semilight";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe Serif Banner";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe Serif Banner Semibold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe Serif Display Light";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe Serif Display Semilight";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe Serif Display";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe Serif Display Semibold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe Serif Text Light";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe Serif Text Semilight";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe Serif Text";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe Serif Text Semibold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe UI Light";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Segoe UI Semilight";
+	panose-1:2 11 4 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Segoe UI Semibold";
+	panose-1:2 11 7 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Segoe UI Black";
+	panose-1:2 11 10 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Segoe UI Emoji";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Segoe UI Emoji L";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Segoe UI Variable Display Thin";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe UI Variable Display Light";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe UI Variable Display";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe UI Variable Display Black";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe UI Variable Small Thin";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe UI Variable Small Light";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe UI Variable Small";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe UI Variable Small Black";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe UI Variable Text Hairline";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe UI Variable Text Thin";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe UI Variable Text Light";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe UI Variable Text";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe UI Variable Text Semibold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe UI Variable Text Black";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe Xbox Symbol";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Selawik Light";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:Selawik;
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Selawik Semibold";
+	panose-1:2 11 7 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Shadows Into Light Two";
+	panose-1:2 0 5 6 0 0 0 2 0 4;}
+@font-face
+	{font-family:"Shonar Bangla";
+	panose-1:2 2 6 3 5 4 5 2 3 4;}
+@font-face
+	{font-family:"Showcard Gothic";
+	panose-1:4 2 9 4 2 1 2 2 6 4;}
+@font-face
+	{font-family:"Simplified Arabic";
+	panose-1:2 2 6 3 5 4 5 2 3 4;}
+@font-face
+	{font-family:"Simplified Arabic Fixed";
+	panose-1:2 7 3 9 2 2 5 2 4 4;}
+@font-face
+	{font-family:SimSun-ExtG;
+	panose-1:2 1 6 9 6 1 1 1 1 1;}
+@font-face
+	{font-family:"Sitka Banner";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Sitka Banner Semibold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Sitka Display";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Sitka Display Semibold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Sitka Heading";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Sitka Heading Semibold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Sitka Small";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Sitka Small Semibold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Sitka Subheading";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Sitka Subheading Semibold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Sitka Text";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Sitka Text Semibold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Skeena;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Skeena Display";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Skeena Indigenous";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Skeena Indigenous Medium";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Skeena Indigenous Semibold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Skeena Indigenous Extra Bold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Skeena Indigenous Black";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Snap ITC";
+	panose-1:4 4 10 7 6 10 2 2 2 2;}
+@font-face
+	{font-family:"Source Code Pro ExtraLight";
+	panose-1:2 11 3 9 3 4 3 2 2 4;}
+@font-face
+	{font-family:"Source Code Pro Light";
+	panose-1:2 11 4 9 3 4 3 2 2 4;}
+@font-face
+	{font-family:"Source Code Pro";
+	panose-1:2 11 5 9 3 4 3 2 2 4;}
+@font-face
+	{font-family:"Source Code Pro Medium";
+	panose-1:2 11 5 9 3 4 3 2 2 4;}
+@font-face
+	{font-family:"Source Code Pro Semibold";
+	panose-1:2 11 6 9 3 4 3 2 2 4;}
+@font-face
+	{font-family:"Source Code Pro Black";
+	panose-1:2 11 8 9 3 4 3 2 2 4;}
+@font-face
+	{font-family:"Source Sans Pro ExtraLight";
+	panose-1:2 11 3 3 3 4 3 2 2 4;}
+@font-face
+	{font-family:"Source Sans Pro Light";
+	panose-1:2 11 4 3 3 4 3 2 2 4;}
+@font-face
+	{font-family:"Source Sans Pro";
+	panose-1:2 11 5 3 3 4 3 2 2 4;}
+@font-face
+	{font-family:"Source Sans Pro SemiBold";
+	panose-1:2 11 6 3 3 4 3 2 2 4;}
+@font-face
+	{font-family:"Source Sans Pro Black";
+	panose-1:2 11 8 3 3 4 3 2 2 4;}
+@font-face
+	{font-family:"Source Serif Pro ExtraLight";
+	panose-1:2 4 2 3 5 4 5 2 2 4;}
+@font-face
+	{font-family:"Source Serif Pro Light";
+	panose-1:2 4 3 3 5 4 5 2 2 4;}
+@font-face
+	{font-family:"Source Serif Pro";
+	panose-1:2 4 6 3 5 4 5 2 2 4;}
+@font-face
+	{font-family:"Source Serif Pro SemiBold";
+	panose-1:2 4 7 3 5 4 5 2 2 4;}
+@font-face
+	{font-family:"Source Serif Pro Black";
+	panose-1:2 4 9 3 5 4 5 2 2 4;}
+@font-face
+	{font-family:"Speak Pro Light";
+	panose-1:2 11 3 4 2 1 1 2 1 2;}
+@font-face
+	{font-family:"Speak Pro";
+	panose-1:2 11 5 4 2 1 1 2 1 2;}
+@font-face
+	{font-family:Staatliches;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:STCaiyun;
+	panose-1:2 1 8 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:STFangsong;
+	panose-1:2 1 6 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:STXihei;
+	panose-1:2 1 6 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:"Suez One";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Tempus Sans ITC";
+	panose-1:4 2 4 4 3 0 7 2 2 2;}
+@font-face
+	{font-family:Tenorite;
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Tenorite Display";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"The Hand Light";
+	panose-1:3 7 3 2 3 5 2 2 2 4;}
+@font-face
+	{font-family:"The Hand";
+	panose-1:3 7 5 2 3 5 2 2 2 4;}
+@font-face
+	{font-family:"The Hand Black";
+	panose-1:3 7 9 2 3 5 2 2 2 4;}
+@font-face
+	{font-family:"The Hand Extrablack";
+	panose-1:3 7 10 2 3 5 2 2 2 4;}
+@font-face
+	{font-family:"The Serif Hand Light";
+	panose-1:3 7 3 2 3 5 2 2 2 4;}
+@font-face
+	{font-family:"The Serif Hand";
+	panose-1:3 7 5 2 3 5 2 2 2 4;}
+@font-face
+	{font-family:"The Serif Hand Black";
+	panose-1:3 7 9 2 3 5 2 2 2 4;}
+@font-face
+	{font-family:"The Serif Hand Extrablack";
+	panose-1:3 7 11 2 3 5 2 2 2 4;}
+@font-face
+	{font-family:"Tisa Offc Serif Pro Thin";
+	panose-1:2 1 4 4 3 1 1 1 1 2;}
+@font-face
+	{font-family:"Tisa Offc Serif Pro";
+	panose-1:2 1 5 4 3 1 1 2 1 2;}
+@font-face
+	{font-family:"Titillium Web ExtraLight";
+	panose-1:0 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Titillium Web Light";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Titillium Web";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Titillium Web SemiBold";
+	panose-1:0 0 7 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Titillium Web Black";
+	panose-1:0 0 10 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Trade Gothic Inline";
+	panose-1:2 11 5 4 3 2 3 2 2 4;}
+@font-face
+	{font-family:"Trade Gothic Next Light";
+	panose-1:2 11 4 3 4 3 3 2 0 4;}
+@font-face
+	{font-family:"Trade Gothic Next Cond";
+	panose-1:2 11 5 6 4 3 3 2 0 4;}
+@font-face
+	{font-family:"Trade Gothic Next";
+	panose-1:2 11 5 3 4 3 3 2 0 4;}
+@font-face
+	{font-family:"Trade Gothic Next HvyCd";
+	panose-1:2 11 9 6 4 3 3 2 0 4;}
+@font-face
+	{font-family:"Trade Gothic Next Heavy";
+	panose-1:2 11 9 3 4 3 3 2 0 4;}
+@font-face
+	{font-family:"Trade Gothic Next Rounded";
+	panose-1:2 15 5 3 4 3 3 2 0 4;}
+@font-face
+	{font-family:"Traditional Arabic";
+	panose-1:2 2 6 3 5 4 5 2 3 4;}
+@font-face
+	{font-family:"Trirong Thin";
+	panose-1:0 0 2 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Trirong ExtraLight";
+	panose-1:0 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Trirong Light";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Trirong;
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Trirong Medium";
+	panose-1:0 0 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Trirong SemiBold";
+	panose-1:0 0 7 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Trirong ExtraBold";
+	panose-1:0 0 9 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Trirong Black";
+	panose-1:0 0 10 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Ubuntu Light";
+	panose-1:2 11 3 4 3 6 2 3 2 4;}
+@font-face
+	{font-family:"Ubuntu Condensed";
+	panose-1:2 11 5 6 3 6 2 3 2 4;}
+@font-face
+	{font-family:Ubuntu;
+	panose-1:2 11 5 4 3 6 2 3 2 4;}
+@font-face
+	{font-family:"Ubuntu Medium";
+	panose-1:2 11 6 4 3 6 2 3 2 4;}
+@font-face
+	{font-family:"Ubuntu Mono";
+	panose-1:2 11 5 9 3 6 2 3 2 4;}
+@font-face
+	{font-family:"UD Digi Kyokasho N-B";
+	panose-1:2 2 7 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"UD Digi Kyokasho N-R";
+	panose-1:2 2 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"UD Digi Kyokasho NK-B";
+	panose-1:2 2 7 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"UD Digi Kyokasho NK-R";
+	panose-1:2 2 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"UD Digi Kyokasho NP-B";
+	panose-1:2 2 7 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"UD Digi Kyokasho NP-R";
+	panose-1:2 2 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Univers Condensed Light";
+	panose-1:2 11 3 6 2 2 2 4 2 4;}
+@font-face
+	{font-family:"Univers Light";
+	panose-1:2 11 4 3 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Univers Condensed";
+	panose-1:2 11 5 6 2 2 2 5 2 4;}
+@font-face
+	{font-family:Univers;
+	panose-1:2 11 5 3 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Urdu Typesetting";
+	panose-1:3 2 4 2 4 4 6 3 2 3;}
+@font-face
+	{font-family:Utsaah;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:Vani;
+	panose-1:2 4 5 2 5 4 5 2 3 3;}
+@font-face
+	{font-family:"Varela Round";
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Verdana Pro Cond Light";
+	panose-1:2 11 3 6 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Verdana Pro Light";
+	panose-1:2 11 3 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Verdana Pro Cond";
+	panose-1:2 11 6 6 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Verdana Pro";
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Verdana Pro Cond Semibold";
+	panose-1:2 11 7 6 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Verdana Pro Semibold";
+	panose-1:2 11 7 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Verdana Pro Cond Black";
+	panose-1:2 11 10 6 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Verdana Pro Black";
+	panose-1:2 11 10 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Vijaya;
+	panose-1:2 2 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Viner Hand ITC";
+	panose-1:3 7 5 2 3 5 2 2 2 3;}
+@font-face
+	{font-family:Vivaldi;
+	panose-1:3 2 6 2 5 5 6 9 8 4;}
+@font-face
+	{font-family:"Vladimir Script";
+	panose-1:3 5 4 2 4 4 7 7 3 5;}
+@font-face
+	{font-family:"Walbaum Display Light";
+	panose-1:2 7 3 3 9 7 3 2 3 3;}
+@font-face
+	{font-family:"Walbaum Display";
+	panose-1:2 7 5 3 9 7 3 2 3 3;}
+@font-face
+	{font-family:"Walbaum Display SemiBold";
+	panose-1:2 7 7 3 9 7 3 2 3 3;}
+@font-face
+	{font-family:"Walbaum Display Heavy";
+	panose-1:2 7 10 3 9 7 3 2 3 3;}
+@font-face
+	{font-family:"Walbaum Heading";
+	panose-1:2 7 3 3 9 7 3 2 3 3;}
+@font-face
+	{font-family:"Walbaum Text";
+	panose-1:2 7 5 3 8 7 3 2 3 3;}
+@font-face
+	{font-family:Wandohope;
+	panose-1:2 3 6 3 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Work Sans Thin";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Work Sans ExtraLight";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Work Sans Light";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Work Sans";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Work Sans Medium";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Work Sans SemiBold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Work Sans ExtraBold";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Work Sans Black";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Yesteryear;
+	panose-1:3 2 8 2 4 6 7 7 8 2;}
+@font-face
+	{font-family:Chicago;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"\@PMingLiU";
+	panose-1:2 1 6 1 0 1 1 1 1 1;}
+ /* Style Definitions */
+ .word-content p.MsoNormal, .word-content li.MsoNormal, 
+p.MsoHeader, li.MsoHeader, 
+p.MsoFooter, li.MsoFooter, 
+p.MsoAcetate, li.MsoAcetate, 
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-link:"Balloon Text";
+	font-family:"Tahoma",sans-serif;}
+span.HeaderChar
+	{mso-style-name:"Header Char";
+	mso-style-link:Header;}
+span.msoIns
+	{mso-style-name:"";
+	text-decoration:underline;
+	color:teal;}
+span.msoDel
+	{mso-style-name:"";
+	text-decoration:line-through;
+	color:red;}
+ /* Page Definitions */
+ 
+
+ /* List Definitions */
+ ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+</style>
+
+<div class="word-content">
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-27.0pt;
+margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><b><span
+style='font-size:14.0pt'>BIBLICAL FIGURES OF SPEECH</span></b></p>
+
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-27.0pt;
+margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><b><span
+style='font-size:12.0pt'>&nbsp;</span></b></p>
+
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-27.0pt;
+margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
+style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>( ) = observations not expressly made by scripture
+itself</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>Boldface headings represent clusters of images.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>* means the concordance has been used to create the
+list</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>Note distinction between figures of speech and figures
+of thought.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>Note also the distinction between schemes (figures of
+thought) and tropes (= figures of words).          </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Figures of thought are represented by parables,
+allegories, Christ-Adam parallel, Hagar-Sarah, and so on. The words are literal,
+but their <u>referent</u> is substituted for the reality you mean. Hugh Blair, <i>Lectures
+on Rhetoric and Belles Littres</i> (Vol. 1). Carbondale, IL: SIU Press, 1965. 275
+pp.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-27.0pt;
+margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><b><span
+style='font-size:12.0pt'>Part I: The Images Used</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Abide/abode</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Being in fellowship with</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><u><span
+style='font-size:12.0pt'>Abraham-Isaac-Jacob, events surrounding the life of</span></u></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>&nbsp;</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Hagar-Sarah (Galatians <b>4</b>:21-31)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Abraham-Isaac-Jacob (Romans <b>9</b>:6-13)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Esau-Jacob (Hebrews <b>12</b>:17)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Jacob’s Ladder: Jesus identifies himself with
+Jacob’s Ladder (John <b>1</b>:51).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Abraham was reckoned righteous at a time before
+circumcision was instituted (Romans </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>4</b>:10-13).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Abraham’s sojourning in Palestine depicts the
+mentality toward the material world that </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Christians have (Hebrews <b>11</b>:8-10,
+13-16).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>The Adam-Christ parallel</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Romans <b>5</b>:12-21; 1 Corinthians <b>15</b>:21-23,
+45-49</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Adoption</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Romans <b>7</b>:15, 23; Galatians <b>4</b>:5-6 </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Adorning </span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Adorning the gospel by good works (Titus<b> 2</b>:10)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>(Adult; see “Full-Grown Man”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>*Advocate (Paraclete, Comforter)</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A Johannine term for the Holy Spirit (John <b>14</b>:16,
+26; <b>15</b>:26; <b>16</b>:7)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A Johannine term for Jesus Christ (1 John<b> 2</b>:1)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Ambassadors</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      2 Corinthians <b>5</b>:20; Ephesians <b>6</b>:20</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>Anchor (see &quot;Seafaring Imagery”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><u><span
+style='font-size:12.0pt'>Animal imageries</span></u></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      1 Peter <b>5</b>:8 (roaring lion looking for
+someone to eat); 2 Timothy<b> 4</b>:17</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Camel: <i>“It is easier for a camel to go
+through a needle’s eye, than for a rich man to enter the kingdom of heaven”</i>
+(Matthew <b>19</b>:23-24; Mark <b>10</b>:25; Luke<b> 18</b>:25).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>(Asps; see “Vipers”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Athletic games</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Boxing (1 Corinthians<b> 9</b>:26; 2 Timothy <b>4</b>:7?)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Living the Christian life is like running a race
+(Hebrews<b> 12</b>:1-3). </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Ministering is like running a race (Galatians <b>2</b>:2;
+2 Timothy<b> 4</b>:7).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Receiving the garland if he contends according
+to the rules (2 Timothy<b> 2</b>:5)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Baby</span></u><span style='font-size:12.0pt'> </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      In contrast to an adult/full-grown man, one who is
+a beginner in spiritual instruction    </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            (1 Corinthians <b>3</b>:1-2; Hebrews<b> 5</b>:13;
+1 Peter <b>2</b>:2)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Babylon</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A cryptogram for Rome (1 Peter<b> 5</b>:13;
+Revelation <b>14</b>:8; <b>16</b>:19; <b>17</b>:5; <b>18</b>:2, 10, 21)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Baptism</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      a.   Cleansing (1 Corinthians<b> 6</b>:11?;
+Ephesians <b>5</b>:26?; Titus <b>3</b>:5; Hebrews<b> 10</b>:22)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      b.   Being overwhelmed </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  Holy Spirit and fire (Matthew<b> 3</b>:11
+= Mark <b>1</b>:8 = Luke <b>3</b>:16 = John <b>1</b>:33)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  Baptism of suffering (Matthew <b>20</b>:22-23
+= Mark 10:38-39; Luke <b>12</b>:50;        </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                        1 Corinthians <b>15</b>:29?)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  Baptism is a <u>burial</u>,
+picturing the death-resurrection of Jesus Christ, the most distinctive event in
+his life. Inasmuch as baptism is immersion it pictures burial—burial of the old
+way of life based in the flesh and the way of life that derives from values
+based only in fleshly considerations (Romans <b>6</b>).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  Baptism is done in <u>water</u>,
+symbolizing cleansing.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  In baptism a person is <u>passive</u>,
+correlating with salvation as grace by the </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                        other.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  In baptism the eyes are shut,
+breathing stops, hearing stops, as in death.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      c.   Represents the Spirit</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  John the Baptist uses his baptism in
+water as an analogy for baptism in the Holy </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                        Spirit. </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  In 2 Peter<b> 3</b>:21 water saves,
+gives life, as it did to Noah (via buoyancy), so it does now because water
+gives life: Jesus is a life-giving Spirit (1 Corinthians<b> 15</b>). “Water of
+Life”</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Barren</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Fruitless (James <b>2</b>)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Before/behind</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>      </span></b><span style='font-size:12.0pt'>Being “behind”
+someone means letting him be in charge (Matthew <b>16</b>:23)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Being “ahead” of someone means being superior or
+being in charge of (John <b>1</b>:30).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Beget</span></u><span style='font-size:12.0pt'> </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                                                                                                                              </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>Incarnation               </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>  </span><span lang=FR style='font-size:12.0pt'>Resurrection</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>            Enthronement</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>                        Conversion</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>(Binding/Loosing; see “Keys”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Birds</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      “Birds gathering around a carcass” is a picture
+of people gathered around a center of </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            attention, as at Christ’s return (Luke<b>
+17</b>:37 = Matthew <b>24</b>:28).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><u><span
+style='font-size:12.0pt'>Birth images</span></u></b><span style='font-size:
+12.0pt'> </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Born</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Paul speaks of himself as born out of due
+season, by which he means he was not part of the original cluster of Christ’s
+appearances. In that respect he is like a lamb or other animal born at the
+wrong time of the year. It is doubtful that he means premature birth since he
+compares it to being “later” than expected.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      *“Born of woman” means “human being” (Luke<b> 7</b>:28;
+Matthew <b>11</b>:11).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Travail represents extreme suffering (Isaiah <b>13</b>:8;
+<b>21</b>:3-4; <b>26</b>:17-18; Matthew <b>24</b>:8 = </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Mark <b>13</b>:8).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Travail represents extreme suffering in a loving
+God’s universe (Proverbs <b>3</b>:6 &gt; </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Hebrews <b>12</b>).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Travail in birth is overshadowed by the joy of
+the child born (John <b>16</b>:21-22; Isaiah  </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>66</b>:[7-]10-14).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      *Travail in childbirth is something that cannot
+be escaped (1 Thessalonians <b>5</b>:3; Hosea </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>13</b>:13; Micah <b>4</b>:9-10).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The conversion of someone that a person yearns
+hard to see change. Paul is in travail </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            again till Christ be formed in the
+Galatians (Galatians<b> 4</b>:19).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>       Israel’s rebirth as a nation was quick as a
+woman delivering before her travail begins </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            (Isaiah <b>66</b>:7-9).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The whole creation suffers waiting for
+deliverance (Romans<b> 8</b>:22).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      “<u>B</u>orn again,” new birth, regeneration</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            John <b>3</b>:3-7, being “born again” (or “from
+above”) is being born of the water and the </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  spirit; it represents beginning
+again from a different starting point.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Titus <b>3</b>:5, a statement associated
+with baptism, called a “washing of regeneration”</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Compare Matthew <b>19</b>:28, an end-time
+statement about the restoration of all things</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Paul calls (re)converting someone giving
+birth to them (Galatians <b>4</b>:19).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            James <b>1</b>:18 says, <i>“Christ gave us
+birth by the word of truth.”</i></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Christ needs to be reformed in the
+Galatians, and Paul is in travail till they are </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  reborn in Christ (Galatians <b>4</b>:19).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            1 Peter <b>1</b>:3 says, <i>“Christ has
+begotten us again to a living hope.”</i></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>(Blindness; see “Sight,” “Eyes”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Blood</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Blood being on someone’s head means his taking responsibility
+for his death (Matthew </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>27</b>:25, Acts<b> 5</b>:28).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Drinking Jesus’ blood represents internalizing his
+values, power, identity (John <b>6</b>:51-</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            58).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      “Born of blood” is an expression for physical
+birth (John <b>1</b>:13).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>(Blow on; see “Breathe on”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Body figure</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Matthew <b>5</b>:29-30</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      1 Corinthians <b>12</b>:12-30; <b>10</b>:16-17</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Romans <b>12</b>:3-8</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Ephesus <b>3</b>:6; <b>4</b>:4, 16-17</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Comparisons involved between the church (a group
+of people) and a body</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            a.   All the parts are needed; there are
+no jobless organs (no nascent or vestigial </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                        organs)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            b.   All the parts are not equally
+important</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            c.   All the parts do not do the same
+things</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            d.   Some parts are not essential for the
+existence of the organism although their absence may make it less efficient and
+effective; not equally important but equally necessary.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            e.   Some of the less important parts may
+nevertheless require more attention to keep them functional. They are parts
+that we must deliberately do something for (cp. weaker brother)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            f.    Unity and harmoniousness of the
+parts ideally and intentionally</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            g.   Interdependency</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            h.   Compenetration</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            i.    Reciprocal interaction</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            j.    Diversity</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            k.   What affects one affects them all;
+when one hurts they all hurt, so to speak.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            l.    The body is a self-(re-)generating
+system; it <i>“builds <u>itself</u> up.”</i></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            m.  We should not take the members of the
+body and make them members of a harlot (1 Corinthians <b>6</b>:15-18). Paul
+calls for sanctity of the one relative to the other in contrast to foreign
+identification (1 Corinthians <b>7</b>:14).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            n.   When an eye or hand “offends” you, it
+is better to amputate it than let it ruin the whole body (Matthew <b>5</b>:29-30).
+Applicable to church discipline (“a little leaven leavens the whole lump”) or
+perhaps divorce in the home setting.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            o.   Weakness or loss of a member can be
+compensated for to some extent by the intensification of other capacities. The
+loss of sight increases the sensitivity of hearing and touch. <u>Compensation</u></span></p>
+
+<p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
+style='font-size:12.0pt'>                  p.   The basis of worth lies in
+making a <i>contribution</i> to the operation of the body, which amounts to <u>love</u>;
+and that is where Paul moves to in 1 Corinthians <b>13</b>, having mentioned
+the body figure in <b>12</b>:12-31. Love is the giving of oneself, or action
+for the welfare of others—the whole (body). In 1 Corinthians <b>12</b> the
+attributes of the individual members are tied in with the gifts a member has. Those
+“gifts” are “given” specifically for ministry to the rest. The approach to
+worth contrasts with <i>competition</i>, as demonstrated in the attitude, <i>“I
+don’t need you.”</i> The idea is not to get worth by setting others at naught. Worth
+is (1) a matter of action that fulfills purpose. Worth is also (2) a matter of
+belonging in contrast to the feeling, <i>“I am not part of the body.”</i> The
+basic problem among the Corinthians was the competitive mentality that
+manifested itself in the division problem (Chronicles <b>1-4</b>) and in the
+aberrant use of spiritual gifts.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            q.   It is possible to get rid of a part
+of the body rather than let it ruin the rest.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  example of the one and the many</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            r.    No one organ is the whole thing.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            s.   Body figure measures worth in a
+complementary framework; a person has worth by making the contribution God
+wants a heart to make (as shown by the way he made it), not by being better
+than a knee or more indispensable than a fingernail. </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            t.    Body members do not act for
+themselves (hence, tongues are not for the </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                        person?).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            u.   Some body parts function for/in the
+body itself; some function for purposes </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                        beyond it.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><u><span
+style='font-size:12.0pt'>Body parts</span></u></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Feet: putting someone under your feet/footstool
+means subjecting them (Psalm <b>110</b>:1; Matthew <b>22</b>:44; <b>26</b>:64;
+Mark <b>12</b>:36; <b>16</b>:19; Luke <b>20</b>:42; Acts <b>2</b>:25 (Psalm <b>16</b>:8),
+34; Hebrews<b> 1</b>:13; 1 Corinthians <b>15</b>:25, 27)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Eye represents awareness.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Ear represents paying attention to something.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Tongue represents communication.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Face to face/mouth to mouth represents direct
+contact rather than through an </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            intermediary.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Hand represents agency;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <i>“Not letting one hand know what the
+other one is doing” </i>represents doing </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  something in secret rather than for
+show.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Right hand represents preferred or privileged
+position (Psalm <b>110</b>:1 &lt; Matthew <b>22</b>:44; Mark <b>12</b>:36; Luke
+<b>20</b>:42; Acts <b>2</b>:25 (Psalm <b>16</b>:8), 34; Hebrews<i> </i><b>1</b>:13;
+<b>10</b>:12; 1 Peter <b>3</b>:22)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Heart</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            “Being troubled” means a person is
+uncertain/fearful/worried (John <b>14</b>:1, 27)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            = “soul being troubled” (John<b> 12</b>:27).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            = “troubled in spirit” (John <b>13</b>:21).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Hebrew idiom has a general fondness for “body
+parts” imagery: “every <u>eye</u> will see him” (<i>vs</i>. everyone will see
+him); “by the hand of” = agency; “face/mouth to mouth/face” = directly; <i>etc</i>.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Boxin</span></u><span style='font-size:12.0pt'>g</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      1 Corinthians <b>9</b>:26</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Bread</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Food serves as an image for spiritual sustenance
+(John<b> 6</b>:27; Matthew <b>4</b>:3-4 = Luke<i> </i><b>4</b>:3-</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            4). (See also “Blood,” “Flesh,” “Communion.”)</span></p>
+
+<p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Breathing on someone</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Jesus “breathed on” the disciples in John <b>20</b>:22
+as a symbolic act that represented the </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            giving of the Spirit to them (“insufflation,”
+</span><span lang=EL style='font-size:12.0pt'>ἐνεφύσησεν</span><span
+style='font-size:12.0pt'>, <i>enephysēsen</i>)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>(Bridegroom; see “Weddings”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>*Bridle</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Restrain or direct the tongue (James<b> 1</b>:26;
+<b>3</b>:2)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Building figures</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>&nbsp;</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Cornerstone</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Jesus Christ is the cornerstone for the
+church (Psalm <b>11</b>:22; <b>118</b>:22-23 + Isaiah <b>28</b>:16 &lt; Matthew
+<b>21</b>:42-44; Luke <b>20</b>:17-18; Acts <b>4</b>:11; Romans <b>9</b>:32-33;
+1 Peter <b>2</b>:6-8; cp. Ephesians <b>2</b>:10)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Foundation</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Parable of the Wise and Foolish Builders
+(Matthew <b>7</b>:24-27 = Luke <b>6</b>:46-49)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Christ as the foundation of the church (1
+Corinthians<b> 3</b>:9-15) </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            In 1 Corinthians <b>3</b> the foundation
+emphasizes salvation.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            In Matthew/Luke Sermon on the Mount/Plain,
+the foundation emphasizes Christ’s </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  Lordship.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            The apostles and prophets as the
+foundation of the church with Christ as the </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  cornerstone (Ephesians <b>2</b>:19d-22;
+cp. Romans<b> 15</b>:20)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Jesus nicknames Simon as Peter/Cephas
+(Matthew <b>10</b>:2 = Mark<b> 3</b>:16 = Luke <b>6</b>:14; </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  cp. John <b>1</b>:42; 2 Timothy <b>2</b>:19).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Represents the first principles of
+Christianity (Hebrews <b>5</b>:1)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            The fact that Jesus is the Messiah is the
+foundation on which Christ builds his </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  church (Matthew <b>18</b>:17-18).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Peter’s name meant “rock,” and he was so
+named by Jesus (Matthew <b>4</b>:18; <b>10</b>:2; <b>John 1</b>:40-<u>42</u>)
+as a picture of a good foundation like the large rock that Caesarea was built
+on (Matthew <b>16</b>:13ff.).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Prominent people in the church are like pillars*
+in a building (Galatians <b>2</b>:9; cp. </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Revelation<b> 3</b>:12; cp. 1 Timothy <b>3</b>:15,
+where the church is the pillar of truth.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Habitation/temple/house/tabernacle</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Church as the habitation of God in the
+Spirit (Ephesians <b>3</b>:22; 1 Corinthians <b>3</b>:16-</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  17; <b>6</b>:19? [probably a
+reference to an individual’s body]; 1 Peter<b> 2</b>:4-8)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            The individual’s body is the temple of the
+Spirit (John <b>2</b>:19-22; Mark<i> </i><b>14</b>:58;       </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  1 Corinthians <b>16</b>:19)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      See also “Tabernacle/Temple.”</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            A fire reveals how well the building is
+built (1 Corinthians <b>3</b>) as comparable to </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  judgment in the end or trials along
+the way.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            The outward body decays but the inner man
+is renewed daily; it does not get old    </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  (2 Corinthians <b>4</b>:16-5:1ff.).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Dying is like losing the body and having
+another one replace it (2 Corinthians </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  <b>5</b>:2ff.).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            The body is like a tabernacle, a temporary
+and movable dwelling (2 Corinthians <b>5</b>:1, </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  4; 2 Peter<b> 1</b>:13-14).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Going to heaven is like going home, where
+the Lord is (2 Corinthians <b>5</b>:6-8).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            An abandoned house represents Israel when
+God gave up the nation to the Romans </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  (Matthew <b>23</b>:37)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Examples texts</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Parable of the Wise and Foolish Builders
+(Matthew <b>7:</b>24-27)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Paul’s Preaching to the Corinthians (1
+Corinthians <b>3</b>:10-15)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  Paul, as the preacher, is a wise
+master builder (foreman?).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  Jesus Christ is the foundation.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  A man’s work is like different kinds
+of building materials that differ in their durability. The different materials
+are thought by some interpreters to represent acts of life, but it seems more
+likely that they represent persons won by a worker’s missionary activities.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  Other workers’ additions to Paul’s
+original foundation work may be destroyed without the workman himself “suffering
+loss,” which probably means that those converted may not have a faith that
+stands the tests of time and temptation but that does not destroy the worker’s
+own status. (Peter speaks of individual Christians as living stones in the
+building/temple of God: 1 Peter <b>2</b>:5)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  Other workmen are working on the
+same project—on one foundation, an </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                        implication for unity in the
+work.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  Consider ahead of time whether you
+have enough money to finish what you </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                        start (Luke <b>14</b>:28-30).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Burden</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      People that mooch off other people are like burdens
+to the other people</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            (2 Corinthians<b> 11</b>:9; <b>12</b>:14).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>*Buying</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A picture for God’s activity in saving man
+(Revelation <b>5</b>:9; <b>14</b>:3, 4; 1 Corinthians<b> 6</b>:20; </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>7</b>:23; 2 Peter<b> 2</b>:1)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Compare “Redemption”</span></p>
+
+<p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Camel</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Easier for a camel to go through the eye of a
+needle than for a rich man to enter </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            the kingdom of God (Matthew <b>19</b>:24 =
+Mark <b>10</b>:25 = Luke <b>18</b>:25)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Capture</span></u><span style='font-size:12.0pt'> (see
+“Warfare Imagery”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Chicken</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A hen gathering her chicks under her wings
+represents God’s gathering his people under his protection and provision; but
+like chicks that want to run around and not come under the hen, Jerusalem did
+not want to accept God’s protection.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Child</span></u><span style='font-size:12.0pt'> (see
+also “Family Relations”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A child is <u>resilient</u>; he bounces back
+from adversity very well in comparison to adults.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Children do not bear grudges; they are <u>forgiving</u>.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Jesus set a child in the midst of the disciples
+as a model of <u>attitude</u> for leadership </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            (Matthew <b>18</b>:1ff.).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Jesus used the child as an example of <u>humility</u>
+in being in the kingdom (“except you </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            enter as a child”; Matthew <b>18</b>:1; <b>19</b>:14
+[= Mark <b>10</b>:14-15; Luke <b>18</b>:16-17]).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A child tends to be “innocent,” tends to <u>trust</u>,
+<u>changes</u> more easily than an adult.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <i>Child</i> is a term of endearment applied to
+a person’s converts (both </span><span lang=EL style='font-size:12.0pt'>τέκνον</span><span
+style='font-size:12.0pt'> and </span><span lang=EL style='font-size:12.0pt'>υἱός</span><span
+style='font-size:12.0pt'>, </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <i>teknon</i> and <i>huios</i>; Proverbs <b>3</b>:11-12
+&lt; Hebrews <b>12</b>:5-8).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Children that do not want to play anything
+picture the people of Israel that God could </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            not please no matter what he did (Luke <b>7</b>:32-35).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Child as a beginner in the study of spiritual
+things as opposed to an adult (1 Corinthians </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>13</b>:11; cp. “baby,” “milk”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Discipline of Children</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Circumcision</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      “Circumcision not made with hands”</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      “Circumcision of the heart”</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The idea of purging away what defiles or is
+filthy</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Circumcision as simply trimming/adjusting a
+small aspect of system of things in </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            contradiction to a whole new body/creation
+(Galatians <b>6</b>:15)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Citizenship</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Ephesians<b> 2</b>:11-19a: belonging</span></p>
+
+<p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Cleansing</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <u>Cleansing</u> is a picture for getting rid of
+sin (John <b>13</b>:2).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <u>Ceremonial cleansing</u> (the removal of “taint”
+in our mind’s eye) is like getting rid of </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            sin.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      See also (“Unclean/Uncleanness”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Clothes</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The <u>body</u> is like clothes that will be
+changed for another set of clothes (2 Corinthians </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>5</b>:2-4).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      When we die, we do not become, so to speak, “naked,”
+but we receive another body.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Nakedness represents the sense of shame (Genesis
+<b>3</b>?; Revelation <b>3</b>:18).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Nakedness represents having our inner thoughts
+brought out in the open (Hebrews </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>4</b>:13).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Putting on and taking off clothes (changing
+clothes) serves as a picture for changing </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            from one way of living to another
+(Ephesians <b>1</b>:22-24? Colossians <b>3</b>:9-10).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Changing from old clothes to new is a figure for
+the renewal of the universe (Hebrews </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>1</b>:11-12 = Psalm <b>102</b>:25-27).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Cloth</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A person does not put an unSanforized patch on
+Sanforized cloth as a way of saying, </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <i>“unlike things can’t be mixed”</i>
+(Matthew <b>9</b>:16 = Mark <b>2</b>:21 = Luke <b>5</b>:36).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Cloud</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Clouds without water represent leaders that do
+not have anything to offer (Jude 12).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      These clouds are carried around by the wind,
+implying they do not have stability to </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            them (Jude 12).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      An immense number (Hebrews <b>12</b>:1)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>(Comforter; see “Advocate”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Communion</span></u><span style='font-size:12.0pt'>
+(Cross reference to Passover elements that are re-interpreted)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The one loaf and one cup represent the one
+object of identification–Christ–in contrast </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            to polytheism and idolatry (2 Corinthians<b>
+10</b>:14-22).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Eating from the one loaf symbolizes identifying
+with what it represents (cp. eating from </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            the Old Testament sacrifices; 2
+Corinthians <b>10</b>:18)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Eating the bread symbolizes eating the flesh of
+Christ (Mark <b>14</b>:22; Luke<b> 22</b>:19; </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Corinthians <b>11</b>:23-24).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Drinking grape juice symbolizes drinking His
+blood (Mark <b>14</b>:23-25; Luke <b>22</b>:20;       </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            1 Corinthians<b> 11</b>:25-26)</span></p>
+
+<p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Corner</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <i>“Things not being done in a corner”</i> means
+they were public events (Acts <b>26</b>:26).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>  </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>(Cornerstone; see “Building Figures.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Covenant/covenant</span></u><span style='font-size:
+12.0pt'> (</span><span lang=EL style='font-size:12.0pt'>διαθήκη</span><span
+style='font-size:12.0pt'>, <i>diathēkē</i>)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The establishment of a covenant/testament
+requires death/blood (Hebrews <b>9</b>:11-22).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The testament does not go into effect until the
+testator dies (Hebrews<b> 9</b>:16-22).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Creation</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The idea that man was created in the “image” of
+God gets extended in Paul and the New Testament from a natural to ethical
+usage. Being ethical in the image/likeness of God paves the way then for
+calling our becoming righteous through Christ a “creation” (Ephesians <b>2</b>:10<i>—“created
+in Christ Jesus for good works”</i>; <b>2</b>:15; <b>4</b>:24; <b>1</b>:24; Galatians
+<b>6</b>:15; 2 Corinthians <b>5</b>:17; Colossians<b> 3</b>:10).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      See also “Image”</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>(Crown; see “Royalty Figures”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><u><span
+style='font-size:12.0pt'>Crucifixion-death-burial-resurrection-ascension of
+Chris</span></u></b><b><span style='font-size:12.0pt'>t</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>&nbsp;</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      conjointly (Romans <b>6</b>:4-11ff.)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Crucifixion (Galatians <b>2</b>:20)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            “Crucifying the flesh” represents leaving
+a fleshly orientation of consciousness and </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  values.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            We crucify the world to ourselves when we
+identify with Christ. Something has to be crucified. The only question is
+whether it is us, the world or Christ. Crucifixion is a vivid way of amplifying
+the death figure as a way of speaking of separating ourselves from something
+(Galatians <b>6</b>:14).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <i>“Let him take up his cross and follow
+me”</i> is a call to total commitment (Mark<b> 8</b>:34; </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  Matthew <b>10</b>:38; <b>16</b>:24;
+Luke <b>9</b>:23; <b>14</b>:27).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Jesus was crucified outside the Jerusalem
+gate, which pictures his not being part of </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  the national Jewish order (Hebrews <b>13</b>:11-13ff.).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <i>“Nailing Jesus to the cross”</i> is
+like nailing the Law to the cross (Colossians<b> 2</b>:14).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <i>“Re-crucifying Christ”</i> as a common
+criminal in nakedness is what we do when we reject him/drift away from him
+later (Hebrews <b>6</b>:6). It involves the same insensitivity to spiritual
+things that caused the Jews to kill him before.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Death</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  As a picture of getting out from
+under law (Romans <b>7</b>:1-6; <b>10</b>:4; Galatians <b>2</b>:18-</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                        21; <b>3</b>:13; <b>5</b>:1; Colossians
+<b>2</b>:14)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Burial</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  As a picture of ceasing to live by
+flesh-based values (Romans<b> 6</b>:1-23)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Resurrection </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  As a picture of beginning to live by
+transcendent/spiritual values </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Ascension</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  As a picture of beginning living by
+transcendent/spiritual values (Colossians </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  <b>3</b>:1-11ff.)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Cubit</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Not being able to add a cubit to your height is
+like not being able to change something </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            by worry/anxiety (Luke <b>12</b>:25;
+Matthew <b>6</b>:27; cp. Psalm <b>39</b>:5).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Cup</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      “Drink a cup” means passing through an ordeal (Matthew
+<b>20</b>:22 = Mark <b>10</b>:38; Matthew <b>26</b>:39, [42], [44] = Luke <b>22</b>:42;
+John <b>18</b>:11; Mark <b>14</b>:36; Isaiah<b> 51</b>:17; Jeremiah <b>49</b>:12).                                                     </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <i>“Clean the inside of the cup and the outside
+will be clean, too”</i> (Luke <b>11</b>:39; Matthew </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>23</b>:25-26).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Cut off</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A way of getting rid of something that could
+ruin the whole self: hand, foot (Mark </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>9</b>:43-44; Matthew<b> 18</b>:8)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>(Darkness; see “Light.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Death/dead/die</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      (See also “Crucifixion-Death-Burial-Resurrection-Ascension
+of Christ.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Run out of spiritual resources for a meaningful
+existence (John <b>8</b>:52)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <i>“Put to death”</i> the members/practices/sin
+(Colossians <b>3</b>:5) means to put </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><i><span
+style='font-size:12.0pt'>            </span></i><span style='font-size:12.0pt'>final/permanent
+closure on not doing them.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Separation</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Irrelevancy</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Fruitlessness (James <b>2</b>)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Insensitivity (Ephesians <b>2</b>:1ff.)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Debtors</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The more forgiven the greater the love (Luke<b> 7</b>:41-44).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Defilement, ceremonial</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Ceremonial defilement is an image for personal
+defilement (Matthew <b>15</b>:10-12, 16-20).</span></p>
+
+<p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Demon</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Jesus calls Judas Iscariot a demon because he is
+going to betray him (John <b>6</b>:71).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Diaspora/dispersion</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Serves as a picture for the temporary nature of
+the Christian staying in the world and its </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            essentially alien nature as an environment</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      See also “Sojourners”</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Doctor</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A doctor is for the sick, not the well—a principle
+Jesus used to explain his presence </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            among  publicans and sinners (Matthew <b>9</b>:12
+= Mark <b>2</b>:17 = Luke<b> 5</b>:31-32).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <i>“Physician, heal yourself”</i> means what you
+claim to do for others you ought to be able to do for yourself (Luke<b> 4</b>:23;
+cp. Mark<b> 15</b>:29-32; Matthew<b> 27</b>:39-44; Luke <b>23</b>:35-37).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Door</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <i>“Shutting the door”</i> means opportunity is
+over or taken away (Luke <b>13</b>:25-27; Matthew </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>25</b>:10).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      An <i>“open door”</i> means a live opportunity
+(1 Corinthians <b>16</b>:9; Colossians <b>4</b>:3; </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Revelation<b> 3</b>:8).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <i>“Being at the door”</i> means being near
+(Matthew<b> 24</b>:33; James <b>5</b>:9)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <i>“Knocking at the door”</i> means wanting to
+establish relationship (Revelation <b>3</b>:20)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <i>“Knocking at the door”</i> means wanting to
+obtain something (Matthew <b>7</b>:8; Luke </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>11</b>:9)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>*<u>Dove</u></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Represents harmlessness (Matthew <b>10</b>:16)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Represents the Holy Spirit (Matthew <b>3</b>:16
+= Mark<b> 1</b>:10 = Luke<b> 3</b>:22 = John <b>1</b>:32-33)</span></p>
+
+<p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Drifting</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A picture of moving gradually away from Christ
+(Hebrews <b>2</b>:2)</span></p>
+
+<p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Dust</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Shaking dust from the feet is a gesture of
+rejection (Mark <b>6</b>:11; Matthew <b>10</b>:14; Luke </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>9</b>:5; 1<b>0</b>:11; Acts <b>13</b>:5).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Earnest</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      2 Corinthians <b>1</b>:22;<b> 5</b>:5; Ephesians
+<b>1</b>:14</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><u><span
+style='font-size:12.0pt'>Eating imageries</span></u></b><span style='font-size:
+12.0pt'> (see also “Food”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Eating and drinking with someone represents closeness,
+mutual acceptance (Mark </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>14</b>:18; Luke <b>5</b>:30; <b>10</b>:7;
+<b>13</b>:26;<b> 22</b>:30).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Eating and drinking together implies acceptance
+(Luke <b>15</b>:2; Acts <b>10</b>:41; <b>11</b>:3;         </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            1 Corinthians <b>5</b>:11).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Eating and drinking means carrying on life
+normally (Matthew <b>11</b>:18-19 = Luke<b> 7</b>:33-</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            34; Matthew<b> 24</b>:38;<b> 24</b>:49;
+Luke<b> 12</b>:45; <b>17</b>:27-28; 1 Corinthians <b>15:</b>32).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <i>“Drink a cup”</i> (see “Cup”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Bread: Jesus’ Bread-of-Life Sermon (John <b>6</b>:41-65)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Food is essential.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Food applies to everyone.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            The person has to put out some effort to
+have the consequences (nourishment).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Eating is a way of expressing
+internalizing something (Revelation <b>10</b>:9-10?; John </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  <b>6</b>:51-58).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Food gives us energy and strength.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <u>Milk</u> as Christian teaching for those
+young in the faith (Hebrews <b>5</b>:13)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Solid food as Christian teaching for those
+mature in the faith (Hebrews <b>5</b>:14)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <u>Rocks</u> in your love feasts (Jude 12)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Spewing something out of one’s mouth because it
+is lukewarm (Revelation<b> 3</b>:15-16)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Tasting is used to express the idea of acutely
+perceived involvement.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      It is not appropriate to take the kids’ food and
+give it to the household pets (Matthew </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>15</b>:26), but they can get the crumbs
+(Matthew<b> 15</b>:27).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Parable of the Slighted Invitation to the Feast
+(Luke <b>14</b>:16-24; Matthew <b>22</b>:2-14)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Emptying</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Paul’s figure (</span><span lang=EL
+style='font-size:12.0pt'>κενῶσις</span><span style='font-size:12.0pt'>, <i>kenōsis</i>)
+in Philippians <b>2</b>:7 for what Christ did in becoming </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            man, that is, in taking on the form of a
+servant</span></p>
+
+<p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Enter Into</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Satan’s entering into someone is a figure for
+their deciding to do an evil thing (Luke </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>22</b>:3; John <b>3</b>:27).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Epistle </span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The Corinthians are Paul’s epistle that all
+people can read (2 Corinthians <b>3</b>:1-7ff.).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Their hearts—rather than stone—are what
+the new covenant is written on         </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  (2 Corinthians <b>3</b>:1-7ff.).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            The Spirit–rather than ink–is what the
+gospel is written with (2 Corinthians<b> 3</b>:3).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Exaltation/Lifting Up</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      An expression for valuing or respecting
+someone/something (Luke <b>16</b>:15; <b>18</b>:14; <b>14</b>:11; </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Matthew <b>23</b>:12)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><u><span
+style='font-size:12.0pt'>Exodus-Red Sea-wilderness wanderings-entrance into
+Canaan</span></u></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      1 Corinthians<b> 10</b>:1-11ff.; Hebrews<b> 3</b>:7-4:11</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Manna (1 Corinthians <b>10</b>:3)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The veil on Moses’ Face (2 Corinthians<b> 3</b>:7-11)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            The fading glory represents the fading
+glory of the Law he gave from God         </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  (2 Corinthians<b> 3</b>:7).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            The Israelites put a veil on Moses,
+resembling their not understanding what the </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  Law was ultimately for (2
+Corinthians <b>3</b>:13-15).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            When a person turns to the Lord Jesus, the
+veil of mystery is removed regarding </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  that ultimate purpose of the Law (2
+Corinthians <b>3</b>:16-18).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The law was written on <u>stone</u> tables (2
+Corinthians <b>3</b>:2-6; cp. Jeremiah <b>31</b>:31-34).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The rock in the wilderness (1 Corinthians<b> 10</b>:4)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      After having saved a people out of Egypt, God
+destroyed the ones that did not believe </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            (Jude 5).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Moses’ lifting up the serpent in the wilderness
+is a picture of Christ’s being lifted up on a cross. (See <i>What the Bible
+Says About Salvation</i>, 206-7, five characteristics of a conditionality-<i>vs.</i>-merit
+situation.)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      See also “Abraham.”</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Eyes</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <i>“Lifting up the eyes”</i> means looking up
+from close work (Matthew <b>17</b>:8; Luke <b>6</b>:20).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <i>“Lifting up the eyes”</i> means looking at a
+distance (Luke <b>16</b>:23; John <b>4</b>:35;<b> 6</b>:5).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <i>“Lifting up the eyes”</i> means looking up at
+the sky (Luke <b>18</b>:3; John <b>17</b>:1; <b>11</b>:41).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Symbol of awareness</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Symbol of understanding</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <i>“Opening the eyes”</i> means: </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Causing someone to see physically (Matthew
+<b>9</b>:30;<b> 20</b>:33; John <b>9</b>:14, 15, 17, 21, 26, </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  30, 32; <b>10</b>:21; <b>11</b>:37).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Causing someone to see spiritually (Acts<b>
+26</b>:18).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            To notice something or recognize someone
+(Luke <b>24</b>:31).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            To come out of a trance (Acts <b>9</b>:8).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <i>“Eyes being heavy”</i> means being tired
+(Matthew <b>26</b>:43 = Mark <b>14</b>:40).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <i>“Having something hid from your eyes”</i> means
+not being aware of it (Luke <b>19</b>:42).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <i>“The eyes being holden/held”</i> means not
+noticing/seeing something (Luke <b>24</b>:16).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><u><span
+style='font-size:12.0pt'>Family Relations Imagery</span></u></b><span
+style='font-size:12.0pt'> (*</span><span lang=EL style='font-size:12.0pt'>τέκνον</span><span
+style='font-size:12.0pt'>, <i>teknon</i>)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The Parable of the Prodigal Son (Luke<b> 15</b>:11-32)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      1 Corinthians <b>4</b>:14, 16</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <i>“Only-begotten,”</i> or only son (of his
+kind): in reference to Jesus as the unique son of </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            God (John <b>1</b>:14, 18; <b>3</b>:16,
+18; 1 John<b> 4</b>:9)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Firstborn implies </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            a.   Certain privileges and
+responsibilities</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                        Christ over creation
+(Colossians <b>1</b>:15; cp. Hebrews <b>1</b>:6)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                        Christians (Hebrews <b>12</b>:23)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            b.   More to come</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                        Christ equals firstborn</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                              From the dead
+(Colossians <b>1</b>:18; Revelation <b>1</b>:5)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                              Of many brothers (Romans<b>
+8</b>:29)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Father-Son</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Ministers are compared to parents: 2
+Corinthians <b>12</b>:14.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Parents/ministers lay up for the children,
+not children for the parents/ministers </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  (<b>12</b>:14)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      *Son-Father</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Sonship means being an heir (Galatians <b>4</b>:7).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Sons are freer than slaves (Galatians<b> 4</b>:7).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      “Children” is an expression for a person’s
+followers or converts (and perhaps endearment also; John <b>13</b>:33; 1
+Corinthians <b>4</b>:14-17; 2 Corinthians <b>6</b>:13; <b>12</b>:14; Galatians <b>4</b>:19;
+Philippians<b> 2</b>:15, 22; 1 Thessalonians <b>2</b>:11; 1 Timothy<b> 1</b>:2,
+18).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            2 Timothy <b>1</b>:2; <b>2</b>:1; Titus <b>1</b>:4;
+Philippians <b>10</b>:1; 1 John <b>2</b>:1, 12, 28; <b>3</b>:7, 18; <b>4</b>:4;
+</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  <b>5:</b>21; 3 John 4</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Bearing children is an expression for
+(re)converting someone (Galatians <b>4</b>:19).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Adoption</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      “Child/son/offspring of” is an image for being
+characterized by some<u>thing</u> (sons of darkness/light/disobedience), by the
+traits of some<u>one</u> (<i>“your Father who is in heaven,” “your father
+Abraham,” “your father the devil,” “offspring of snakes,” “sons of the covenant”</i>)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <u>Offspring of vipers</u> (Psalm <b>140</b>:3;
+Matthew <b>3</b>:7 = Luke <b>3</b>:7; Matthew <b>12</b>:34; <b>23</b>:33; </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  Romans <b>3</b>:13) </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <u>Sons of God</u> (Hosea <b>1</b>:10; <b>9</b>:26;
+Matthew <b>5</b>:9, 45; Luke <b>6</b>:35; John<b> 1</b>:12; Romans </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  <b>8</b>:14, 16, 19; 1 Corinthians <b>6</b>:18;
+Galatians<b> 3</b>:26; 1 John<b> 3</b>:1-2; Revelation <b>21</b>:7)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <u>Children of wrath</u> (Ephesians<b> 2</b>:3)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <u>Children of light</u> (Ephesians<b> 5</b>:8)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <u>Children of God</u> (</span><span
+lang=EL style='font-size:12.0pt'>τέκνον</span><span style='font-size:12.0pt'>;
+John<b> 1</b>:12; <b>11</b>:52; Romans<b> 8</b>:16, 17, 21; <b>9</b>:8;
+Ephesians </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  <b>5</b>:1; Philippians <b>2</b>:15;
+1 John<b> 3</b>:1, 2, 10;<b> 5</b>:2)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Children are fed before the pets/dogs as a
+figure for representing the idea that Israelites </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            receive Messiah’s benefits before the
+Gentiles (Matthew <b>15</b>:26-27; Mark <b>7</b>:27-28).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Children become a picture of the ideal person in
+the kingdom of God (Luke <b>18</b>:15-17 = </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Matthew 1<b>9</b>:13-15 = Mark<b> 10</b>:13-16).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Children inherit from God (Romans <b>8</b>:16-17).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Children are free in contrast to slaves (Romans <b>8</b>:21).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Children are expected to obey their parents/God
+(1 Peter<b> 1</b>:14).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Church members are called children (2 John 1, 4,
+13).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Child represents what comes from something else
+(Revelation <b>12</b>:4, 5).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Parents treat children gently (1 Thessalonians <b>2</b>:7).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Parents encourage children (1 Thessalonians <b>2</b>:11).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Family relations serve as a picture of the
+closeness between Jesus and those who do his Father’s will, whether mother,
+brothers, sisters (Matthew <b>12</b>:46-50 = Mark<b> 3</b>:31-35 = Luke <b>8</b>:19-21).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      “Son” is a term of endearment (Matthew<b> 9</b>:2
+= Mark<b> 2</b>:5).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      “Father of something” means the originator of it
+(John <b>8</b>:44, “father of lies”).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Discipline of children equals a model for
+suffering (Revelation <b>3</b>:19; Proverbs<b> 3</b>:5 &gt; </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Hebrews<b> 12</b>).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Fattening</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      People who exploit the poor for their own
+luxuries are fattening themselves up for </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            slaughter (James<b> 5</b>:5).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Feet</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Putting something under one’s feet is making it
+subject to him (Hebrews <b>1</b>:13; <b>10</b>:13 = Acts <b>2</b>:35; [Matthew <b>22</b>:44
+= Mark<b> 12</b>:36 = Luke<b> 20</b>:43] &lt; Psalm <b>110</b>:1; Psalm <b>8</b>:6
+&gt; Hebrews <b>2</b>:8-9).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Filling</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Being filled with something means being totally
+characterized by it as when a person is: </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Filled with anger (Luke <b>4</b>:28; <b>6</b>:11).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Filled with the Holy Spirit (Luke <b>1</b>:15,
+41, 67; Acts <b>2</b>:4; <b>3</b>:10; <b>4</b>:8, 31;<b> 9</b>:17; <b>13</b>:9;
+</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  Ephesians <b>5</b>:18).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Filled with fear (Luke <b>5</b>:26).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Filled with leprosy (Luke<b> 5</b>:12).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Filled with amazement (Acts <b>3</b>;10).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Filled with indignation (Acts<b> 5</b>:17).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Filled with envy (Acts <b>13</b>:45).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Filled with confusion (Acts <b>19</b>:29).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Filled with wisdom (Luke <b>2</b>:40).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Filled with knowledge (Colossians <b>1</b>:9;
+Romans<b> 15</b>:14).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Filled with joy (2 Timothy <b>1</b>:4;
+Acts <b>13</b>:52; Romans <b>15</b>:13).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Filled with sorrow (John <b>16</b>:6).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Filled with fruits of righteousness
+(Philippians <b>1</b>:11).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Filled with unrighteousness (Romans<b> 1</b>:29).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Filled with peace (Romans <b>15</b>:13).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Filled with comfort (2 Corinthians <b>7</b>:4).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Filled with company (Romans <b>15</b>:24).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Satan filled the heart of Ananias to lie (Acts <b>5</b>:3).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>*<u>Fire</u> (punishment, destruction, purification,
+divine presence)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Retrieving an apostate is like snatching
+something out of the fire; the person who tries it </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            can himself get burnt (Jude 22).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A little spark of fire can create a large result
+(cp. the mustard seed; James <b>3</b>:6).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Fire represents <u>purification/refinement</u>
+(1 Corinthians <b>3</b>:12-15; 1 Peter <b>1</b>:7).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Fire represents <u>destruction</u> (Matthew <b>3</b>:10
++ 11c-12 = Luke <b>3</b>:9 + 19; Matthew <b>5</b>:22; <b>7</b>:19; <b>13</b>:40-42,
+50; <b>18</b>:8-9;<b> 25</b>:41 = Mark <b>9</b>:43-47; Mark <b>9</b>:49?; Luke <b>3</b>:16-17;<b>
+9</b>:54; John <b>15</b>:6; 2 Thessalonians<b> 1</b>:8; Hebrews<b> 12</b>:29
+&gt; Deuteronomy <b>4</b>:24 = <b>9</b>:3 = Exodus <b>24</b>:17; James<b> 5</b>:3;
+Jude 7).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            In combination with purification, if
+something is of good enough quality, fire does not destroy it; it purifies. The
+same process does both to different parts of the one mix: it destroys the
+worthless parts (people) and purifies the ones not fully developed.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Fire represents turmoil (James<b> 3</b>:5-6).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Fire represents the presence of God.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            The burning bush in Exodus (Exodus<b> 3</b>:2ff.)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            The tongues of fire on Pentecost</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            The pillar of fire that accompanied the
+Israelites during the night as they wandered </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  in the wilderness</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            The glory of God Moses saw</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Compare the Shekinah glory</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  Divine presence at the burning bush
+(Exodus <b>3</b>:2) and the pillar of fire in the </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                        wilderness</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Firstborn</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Colossians <b>1</b>:15, 18</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Fishing</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A picture of evangelism (Matthew<b> 4</b>:19 =
+Mark <b>1</b>:17; Luke<b> 5</b>:10)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Parable of the Drag Net (Matthew <b>13</b>:47-50)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>Firstfruits (see “Sowing-Reaping Imagery”)</span></p>
+
+<p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Flesh</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Eating the flesh of Jesus represents internalizing
+what he stands for (John <b>6</b>:51-58).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Galatians <b>5</b>:16-21</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      (See also “Food.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Flood</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Represents overwhelming opposition or trials</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Food</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Could cluster together the eating and food
+imageries</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Physical food put for spiritual sustenance (John<b>
+4</b>:30-34); food equals “satisfaction” that </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            comes from doing God’s will.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      “Meat/solid food” in contrast to milk (1
+Corinthians <b>3</b>:2; Hebrews <b>5</b>:12-14)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      (See also “Eating,” “Flesh,” “Blood,” “Water,” “Bread,”
+“Milk.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Footstool</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Making your enemies your footstool is a way of
+saying that they are subdued</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Psalm <b>110</b>:1 &gt; Matthew <b>22</b>:44;
+Mark <b>12</b>:36; Luke <b>20</b>:43; Hebrews<b> 1</b>:13; <b>10</b>:13</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Compare “Body Parts: Feet”</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Fruit</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      “Fruit of the womb” is a way of saying <i>child</i>
+(Luke<b> 1</b>:42).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      (See also “Plant Imagery.”) </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Fullness</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Christ is the whole <u>pleroma</u> of the
+Gnostic system, so to speak, not just the ruler over one level of the series
+from the material world to the realm of pure spirit. (See Colossians <b>1</b>:19-20;
+<i>What the Bible Says About Salvation</i>, 119-20)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>(Games; see “Athletic Games.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Gates</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <i>“Gates of the grave”</i> (Matthew <b>16</b>:18)
+pictures the grave as something to be conquered </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            like a city with huge protective gates.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>*<u>Gehenna</u></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Pictures the punishment of the wicked (Matthew <b>5</b>:22,
+29, 30; <b>10</b>:28; <b>18</b>:9; <b>23</b>:15, 33; </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Mark<b> 9</b>:43, 45, 47; Luke <b>12</b>:5;
+cp. James <b>3</b>:6?)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Gentile</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Someone outside the group (Matthew <b>18</b>:17)</span></p>
+
+<p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Girding oneself up</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      An expression for getting serious about actively
+trying to do something in dead earnest </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            (Luke <b>12</b>:35; 1 Peter <b>5</b>:5)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Gladiatorial images</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      1 Corinthians <b>15</b>:32</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>(Grafting; see “Trees.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Graves</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Hidden graves are compared to hidden evil
+influences that defile (Luke <b>11</b>:44).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Whitewashed graves full of dead men’s bones
+picture good outward appearances and concern for ceremonial cleansing without
+changing the heart (Matthew <b>23</b>:25-26; Luke <b>11</b>:39-41).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <i>“Gates of the grave” </i>(Matthew <b>16</b>:18)
+pictures the grave as something to be conquered </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            like a city with huge protective gates.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Hair</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The multiplicity of hair represents something
+yet knowable to God.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The width of a hair represents a very small
+variance.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>Hand (See “Body Parts.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Hardness</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Represents insensitivity (Isaiah <b>6</b>:10;
+John<b> 12</b>:40)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Head</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Head of the corner (See “Building Figures: Cornerstone.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      (See also “Body Parts.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Heart</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <i>“Keeping something in the heart”</i> means
+remembering it (fondly?; Luke <b>2</b>:51; cp.<b> </b></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><i><span
+style='font-size:12.0pt'>            </span></i><b><span style='font-size:12.0pt'>2</span></b><span
+style='font-size:12.0pt'>:19).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <i>“Putting something in the heart” </i>means
+influencing someone or giving a person the </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><i><span
+style='font-size:12.0pt'>            </span></i><span style='font-size:12.0pt'>idea
+to do something (John <b>13</b>:2).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Heel</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <i>“To lift up the heel against”</i> means to
+desert or reject (Psalm <b>41</b>:9 &lt; John <b>13</b>:18).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Housetop</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      “<i>Shouting something from the housetop”</i>
+means making it public.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Image</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Paul uses “image” (of God) in an ethical sense,
+which means that the original nature terminology is being bent into the
+behavioral sense. In Romans <b>8</b>:29 the expression is specialized to mean
+going through the same pattern of suffering before glorification that Christ
+went through.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      In the Old Testament it is used in a <u>natural</u>
+sense (also in the New Testament at 1 Corinthians <b>11</b>:7 and James <b>3</b>:9).
+That same terminology is adjusted to an <u>ethical</u> usage in Romans <b>8</b>:29;
+2 Corinthians<b> 3</b>:18; and Colossians<b> 3</b>:10.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Christ is called the image of God (2 Corinthians
+<b>4</b>:24; Colossians <b>1</b>:15).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>In</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Identified with</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      a-in-b-in-a (See Holy Spirit notes.)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Indwelling</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A figure that communicates closeness of
+relationship</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      An invisible cause of (changed) behavior</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      An all-pervasive influence that goes all the way
+down to the inside</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Inheritance/heir</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Receiving a benefit is like being an heir (Acts <b>20</b>:32;
+Romans <b>8</b>:17; Galatians<b> 4</b>:7; Titus </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>3</b>:7).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            (You receive something that you did not
+earn)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      (Cp. other images for consequences/effects like “reward,”
+“wages,” “fruit,” “harvest.”)</span></p>
+
+<p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Jacob’s ladder</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Jesus pictures himself as a ladder to heaven
+with divine messengers ascending and </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            descending on him (John<b> 1</b>:51 &lt;
+Genesis<b> 28</b>:12).</span></p>
+
+<p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Job</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      a symbol of patience (James <b>5</b>:11)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>*<u>Jonah</u> </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      His being swallowed by a great fish for three
+days pictures Jesus’ three-day burial </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            followed by resurrection (Matthew <b>12</b>:39-41
+= Mark <b>11</b>:29-30; Matthew <b>16</b>:4).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Jot and tittle</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The horns and the Hebrew letter <i>yod</i> ( </span><span
+lang=HE dir=RTL style='font-size:12.0pt'>י</span><span dir=LTR></span><span
+lang=HE style='font-size:12.0pt'><span dir=LTR></span> </span><span
+style='font-size:12.0pt'>) </span><span style='font-size:12.0pt'>are </span><span
+style='font-size:12.0pt'>small parts of writing that symbolize the tiny aspects
+of the Law.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Judge</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      As a person may beg a disinterested judge till
+he takes his case, so God is much more </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            susceptible to the prayer of his people in
+need (Luke <b>18</b>:1-8).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Keys/binding/loosing</span></u><span style='font-size:
+12.0pt'> (= locking/unlocking?)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      “Bound/loosed” means being locked in and held
+down or prohibited (Job <b>12</b>:14; </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Revelation <b>9</b>:14; Luke <b>13</b>:16).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <i>“Taking away the keys”</i> means making
+something inaccessible (Luke <b>11</b>:52).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Making something accessible (?): Matthew<b> 18</b>:18-20;
+having access to something that </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            other people do not have access to.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Determining a conclusion (? Matthew <b>18</b>:18-20)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Enacting legislation on doctrine or practice (?
+Matthew <b>18</b>:18-20)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Having the keys means having responsibility,
+control and authority (Matthew <b>16</b>:19; </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>18</b>:18; Revelation<b> 1</b>:18;<b> 3</b>:7;
+cp. Isaiah <b>22</b>:22).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>King</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      God is like a king and his people like a
+kingdom.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Jesus’ going to heaven to receive a kingdom is
+like a nobleman going to a far country to </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            receive a kingdom (Luke<b> 19</b>:11-27 =
+Matthew<b> 25</b>:14-30).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>Knock (See “Door”; Matthew <b>7</b>:8; Luke <b>11</b>:9.)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Ladder</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Jesus Christ pictured himself in terms of Jacob’s
+ladder (John <b>1</b>:51; cp. Genesis<b> 28</b>:10-</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            22).</span></p>
+
+<p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Lay</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <i>“Lay hands on”</i>:</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            To capture someone physically (Matthew<b>
+26</b>:50 = Mark <b>14</b>:46; Luke<b> 20</b>:19; 21:12; </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  John<b> 7</b>:30, 44; Acts <b>4</b>:3;
+<b>5</b>:18; <b>21</b>:27)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            To appoint (Acts <b>6</b>:6;<b> 13</b>:3;
+1 Timothy<b> 5</b>:22)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            To symbolize healing (Matthew <b>9</b>:18;
+Mark <b>5</b>:23; <b>6</b>:5; <b>16</b>:18; Luke <b>4</b>:40; <b>13</b>:13; </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  Acts <b>28</b>:8)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            To bless (Matthew <b>19</b>:15)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            To give the Holy Spirit (Acts<b> 8</b>:17,
+19; <b>19</b>:6)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Leaven</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A figure for influence</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Matthew<b> 16</b>:5-12 = Mark <b>8</b>:14-21;
+cp. Luke<b> 12</b>:1-3 (evil influence)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Matthew <b>13</b>:33 = Luke <b>13</b>:21 (good
+influence)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A little leaven leavens a whole lump (1 Corinthians
+<b>5</b>:6 = Galatians <b>5</b>:9). (evil </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            influence)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Old leaven is the previous values, no longer
+good, that influenced our previous way of </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            thinking (1 Corinthians<b> 5</b>:7, 8).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Life</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      In Christ is life (John<b> 1</b>:4).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Physical life (<i>vs.</i> death) became a symbol
+for spiritual life (John<b> 5</b>:21-26).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Life means meaningful existence.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <i>“Laying down one’s life”</i> means dying for
+something (John<b> 10</b>:11, 15, 17, 18; 1 John </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>3</b>:16<span style='position:relative;
+top:-3.0pt'>2</span>; John <b>15</b>:13; <b>13</b>:37, 38; Romans <b>16</b>:4).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Lift</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Being lifted up signifies crucifixion (John<b>
+12</b>:32, 34; <b>3</b>:14; <b>8</b>:28).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Light/darkness</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Light (Matthew <b>5</b>:14-16)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Light and darkness are incompatible (2 Corinthians<b>
+6</b>:14).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Light always immediately dispels darkness
+(2 Corinthians <b>4</b>:6).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Light is self-authenticating.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Light attracts and draws (moths, flies, <i>etc</i>.).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Light stimulates vision; if a person lives
+continuously in the dark, he will eventually </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  become blind (cp. 1 John <b>2</b>:11).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Light raises people’s spirits; some people
+become depressed when they are deprived of light. Seasonal depression/moodiness
+has been identified as a syndrome that especially bothers some people.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Christ is said to be the effulgence (direct
+shining) of God’s glory (Hebrews<b> 1</b>:3).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <i>“Walking in the light/daytime”</i> means that
+a person does not stumble (John<b> 11</b>:9-10).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The gospel shining in our hearts is like God
+calling light out of darkness in the </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            beginning (2 Corinthians<b> 4</b>:6).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      People do not put a lamp under a bushel basket (Matthew<b>
+5</b>:15-16; Mark <b>4</b>:21-22; Luke </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>11</b>:33);</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            —or under a bed (Luke <b>8</b>:16);</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            —or in the cellar (Luke <b>11</b>:33).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A city set on a hill cannot be hid (the lights
+of the city? Matthew <b>5</b>:14).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      *Light as a symbol for the truth/enlightenment (Matthew<b>
+4</b>:16; <b>5</b>:14, 16; <b>6</b>:23; Luke <b>2</b>:32; <b>11</b>:35; <b>16</b>:8;
+John <b>1</b>:4-5, 7-9;<b> 3</b>:19-21;<b> 5</b>:35; <b>8</b>:12; <b>9</b>:5; <b>11</b>:9-10;
+<b>12</b>:35-36, 46; Acts <b>13</b>:47; <b>26</b>:18, 23; 2 Peter <b>1</b>:19).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Darkness as a symbol for:</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <u>Ignorance</u> [</span><span lang=EL
+style='font-size:12.0pt'>σκότος</span><span style='font-size:12.0pt'>] (Matthew
+<b>4</b>:16; <b>6</b>:23<span style='position:relative;top:-3.0pt'>2 </span>[=Luke
+<b>11</b>:34-36]; Luke<i> </i><b>1</b>:79; Acts <b>26</b>:18; Romans<b> 2</b>:19;
+I Peter <b>5</b>:4, 5; [</span><span lang=EL style='font-size:12.0pt'>σκοτία</span><span
+style='font-size:12.0pt'>] = John <b>1</b>:5; I John <b>1</b>:5;<b> 1</b>:8,
+9a, 11a &amp; c; [</span><span lang=EL style='font-size:12.0pt'>σκοτίζομαι</span><span
+style='font-size:12.0pt'>] = Romans <b>1</b>:21; <b>11</b>:10; Ephesians<b> 4</b>:18)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <u>Confusion</u>: walking in darkness, a
+person can get hurt.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Darkness as a symbol for <u>sinfulness</u>/evil
+[</span><span lang=EL style='font-size:12.0pt'>σκότος</span><span
+style='font-size:12.0pt'> (Luke <b>22</b>:53; John <b>3</b>:19; Romans <b>13</b>:12;
+1 Corinthians <b>4</b>:5; Ephesians <b>5</b>:8, 11;<b> 6</b>:12; Colossians <b>1</b>:13;
+1 Peter <b>2</b>:9; 1 John<b> 1</b>:6; [</span><span lang=EL style='font-size:
+12.0pt'>σκοτία</span><span style='font-size:12.0pt'>] John <b>8</b>:12; <b>12</b>:35<span
+style='position:relative;top:-3.0pt'>2</span>, 46; 1 John<b> 2</b>:11b)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Darkness as a symbol for hill [</span><span
+lang=EL style='font-size:12.0pt'>σκότος</span><span style='font-size:12.0pt'>]
+(Matthew<b> 8</b>:12; <b>22</b>:13; <b>25</b>:30; 2 Peter<b> 2</b>:17; Jude </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            13)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Darkness as a symbol for <u>privacy</u> (Matthew<b>
+10</b>:27; Luke <b>12</b>:3)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Churches/people are called lampstands (“candlesticks”;
+Philippians<b> 2</b>:15; Revelation </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>1</b>:12-13; <b>2</b>:5.).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Light does not come from nowhere; it begins at a
+source and connects to another point. Christ      is the source of light and
+Christians are at least reflectors of that light to connect it with people who
+work in the dark. It has no effect unless it leaves its source and “touches”
+some object. It is different from the rest of what is.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Lightning</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Divine destruction</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Lightning cracking to the earth represents Satan’s
+fall (Luke<b> 10</b>:18).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      As lightning flashes all the way across the sky,
+so will the coming of Christ be </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            (Matthew <b>23</b>:27 = Luke <b>17</b>:24).</span></p>
+
+<p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Loins</span></u><span style='font-size:12.0pt'>
+(*Girding up the loins)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Preparation/readiness for action (Luke <b>12</b>:35;
+Ephesians<b> 6</b>:14; 1 Peter <b>1</b>:13 &lt; Exodus </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>12</b>:11; 1 Kings <b>18</b>:46; 2 Kings
+<b>4</b>:29; <b>9</b>:1; Jeremiah <b>1</b>:17)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>Lord’s Supper, The (See “Communion.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>*<u>Manna</u> (See also “Bread.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Physical sustenance in the wilderness becomes an
+image for spiritual sustenance in the </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            material world (John <b>6</b>:31-35, 41,
+48-58; Revelation <b>2</b>:17).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Marriage</span></u><span style='font-size:12.0pt'> (See
+also “Weddings.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The church is the bride of Christ (2 Corinthians
+<b>11</b>:2; Ephesians<b> 5</b>:22-33).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      *Adultery is a symbol of unfaithfulness or
+mixing irreconcilable commitments </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            (Matthew <b>12</b>:39; <b>16</b>:4; Mark <b>8</b>:38;
+James <b>4</b>:4; Revelation <b>2</b>:22).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Meal</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      People will return your grace like meal pressed
+down, shaken together and running over </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            (Luke <b>6</b>:38; cp. Matthew <b>7</b>:2;
+Mark <b>4</b>:24).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>Meat (See “Food.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Melchizedek</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Genesis <b>14</b>:18-20 + (cp. Zechariah<b> 6</b>:13)
++ Psalm<b> 110</b>:4; Hebrews<b> 5</b>:6, 10 +<b> 6</b>:20<b>-8</b>:6</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            without mother or father (as far as the
+record goes;<b> 7</b>:3)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            without birth or death (as far as the
+record goes; <b>7</b>:3); cp. virgin birth and resurrection over death to serve
+continuously as priest (<b>7</b>:23-24); hence, one priest rather than a series
+of priests (<b>7</b>:23-25)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            greater than Abraham because Abraham paid
+tithes to him from the spoils of war </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  (<b>7</b>:4-8)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            King of righteousness (“Melchizedek”; <b>7</b>:2)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            King of peace (“Salem”;<b> 7</b>:2)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Messiah as High-priest-King</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            A different priesthood from that of Levi-Aaron
+(<b>7</b>:9); hence, the change of</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>law/covenant (<b>7</b>:12ff.), it being a better
+covenant/place of officiating (<b>8</b>:4, 7), and so on.</span></p>
+
+<p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Men</span></u><span style='font-size:12.0pt'> </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            A full-grown man in contrast to a baby or
+a child represents someone who has matured in the faith rather than someone who
+is still working only with the first level of doctrinal matters (Hebrews <b>5</b>:14;
+1 Corinthians <b>13</b>:11; cp. 1 Peter<b> 2</b>:2).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Millstone</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Putting a millstone around a person’s neck and
+throwing him into the ocean is a picture </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            of inescapable destiny (Matthew <b>18</b>:6;
+Mark <b>9</b>:42; Luke <b>17</b>:2).</span></p>
+
+<p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Milk</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Preliminary Christian teachings in contrast to solid
+food (Hebrews <b>5</b>:12-14;        </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            1 Corinthians <b>3</b>:2; 1 Peter <b>2</b>:20).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Mirror</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The word is like a mirror that allows us to see
+what we look like (James<b> 1</b>:23-25).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Mote</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A picture of weakness or small negative
+influence (Matthew <b>7</b>:3-5; Luke <b>6</b>:41-42)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Mountain</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Moving a mountain as a statement of great effect
+(Matthew <b>17</b>:20; <b>21</b>:21; Mark <b>11</b>:23;   </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            1 Corinthians<b> 13</b>:2)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Naaman</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      There were many lepers in Israel in the days of
+Elisha the prophet, but none were cleansed except Naaman the Syrian, which
+illustrates God’s concern for more than just Israel.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>(Nakedness; see “Clothes.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><u><span
+style='font-size:12.0pt'>National imagery</span></u></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      King/Lord/Prince/Governor</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Serves as an image for Jesus Christ as
+head of the church</span></p>
+
+<p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>Naturalization</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A picture of being brought into what is not
+naturally yours. This is a particularly apt expression because God’s nation
+Israel serves as a picture of the group of God’s people the church.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Needle</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <i>“Easier for a camel to go through a needle’s
+eye . . .”</i> (Matthew <b>19</b>:24 = Mark <b>10</b>:25 = </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Luke <b>18</b>:25)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>(New creation; see “Re-creation.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>(Nobleman; see “King.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Offerings</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Paul says his life is <i>“poured out like a
+drink offering”</i>—a kind of emptying (2 Timothy </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>4</b>:6).</span></p>
+
+<p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Opening</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      An opportunity made available is an open door (1
+Corinthians <b>16</b>:9; 2 Corinthians </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>2</b>:12; Colossians <b>4</b>:3; Revelation
+<b>3</b>:7, 8).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Explaining something: opening the scripture (Luke
+<b>2</b>4)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Opening the eyes (see “Eyes”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <i>“Opening the mind” </i>means causing to
+understand (Luke <b>24</b>:32, 45).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Miscellaneous (Matthew <b>7</b>:8 = Luke <b>11</b>:9)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>(Pain; see “Suffering.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>(Paraclete; see “Advocate.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>(Pastor; see “Shepherd.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Pigs</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Represent uncleanness</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      What cannot appreciate valuable things</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <i>“Casting pearls before swine”</i> is an
+image for giving important things to people who cannot appreciate their value
+and who disregard them and even turn on you to harm you.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>(Pilgrims; see “Sojourners.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Pioneer/Captain/Author/Founder/Originator</span></u><span
+style='font-size:12.0pt'> (</span><span lang=EL style='font-size:12.0pt'>ἀρχηγός</span><span
+style='font-size:12.0pt'>)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Hebrews <b>2</b>:10; <b>12</b>:2; Acts <b>3</b>:15;<b>
+5</b>:31 </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><u><span
+style='font-size:12.0pt'>Plant imagery </span></u></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Vine and the branches (John <b>15</b>:1-8ff) </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Old Testament references where Israel is called
+a vine.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Pruning represents getting rid of what
+hinders productivity: <b>15</b>:2.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Christ is the vine; the disciples are the
+branches; the Father is the husbandman </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  (<b>15</b>:1, 5).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            The branches have to stay on the vine to
+bear fruit (<b>15</b>:4-8ff.).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            If the branches leave the vine, they
+wither.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            If the branches are cut out of the vine,
+they are thrown into the fire and destroyed </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  (<b>15</b>:6).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            There is no value to a branch if it does
+not bear fruit.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Sowing/seed as expressions for cause (cp. “Fruit”
+for “result”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <u>Fruit</u>* as a word for result or product
+(cp. “Seed” for cause; Matthew<b> 3</b>:8 = Luke <b>3</b>:8; Matthew <b>7</b>:16-20;
+<b>12</b>:33; <b>13</b>:8, 26;<b> 21</b>:18-22 = Mark <b>11</b>:12-14, 2-24,
+33-43; Mark <b>7</b>:16-20; <b>13</b>:23; <b>4</b>:20; Luke <b>8</b>:15; Romans<b>
+1</b>:13; <b>6</b>:21-22; <b>7</b>:4-5; <b>15</b>:28; <b>7</b>:5; Galatians <b>5</b>:22-24;
+Ephesians <b>5</b>:9; Philippians <b>1</b>:11, 22;<b> 4</b>:17; Colossians <b>1</b>:6,
+10; 2 Timothy <b>2</b>:6; Hebrews <b>12</b>:11; <b>13</b>:15; James <b>3</b>:17-18;
+Jude 12)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Plants that God has not planted will be uprooted
+(Matthew <b>15</b>:13; cp. Isaiah <b>60</b>:21; </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>60</b>:3).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Putting Israel in Palestine is called planting
+them (Isaiah <b>60</b>:21;<b> 63</b>:3).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      (See also “Sowing-Reaping Imagery.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      (See also “Trees.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      (See also “Seed.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Poison</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Hurtful words that come from a person’s mouth
+like poison from a snake’s mouth (James <b>3</b>:8; Romans <b>3</b>:13 &lt;
+Psalm <b>58</b>:4; <b>140</b>:3)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><u><span
+style='font-size:12.0pt'>Political imagery</span></u></b><b><span
+style='font-size:12.0pt'> </span></b><span style='font-size:12.0pt'>(See also “Royalty
+Imagery.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The judicial processes serve to illustrate how
+inevitable consequences are if we do not </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            take care of the problem when it comes
+along (Matthew <b>5</b>:23-26; Luke <b>12</b>:57-59).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Fines and imprisonment represent consequences.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Pottery</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Isaiah <b>45</b>:9 + Jeremiah <b>18</b>:1-8ff. &lt;
+Romans <b>9</b>:19-23; 2 Timothy <b>2</b>:20-21</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      God’s messengers of the gospel are like clay
+pots that carry priceless treasure.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Priest/High Priest</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Hebrews<b> 4</b>:14-5:10 +<b> 6</b>:19-8:6</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Publican</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Someone outside the group (Matthew <b>18</b>:17)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A humble publican that recognizes his sin is
+better off than a righteous Pharisee (Luke </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>18</b>:9-14).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>(Queen of Sheba; see “Solomon.”)</span></p>
+
+<p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Ransom</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A picture of Christ’s atonement (Matthew <b>20</b>:28
+= Mark <b>10</b>:45; Luke <b>1</b>:68; <b>2</b>:38; <b>24</b>:21;  </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            1 Timothy <b>2</b>:6; Titus <b>2</b>:14; 1
+Peter <b>1</b>:18; Hebrews <b>9</b>:12)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Re-creation</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A totally new person or complete overhaul <i>vs</i>.
+circumcision, which simply trims an </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            existing system; cp. new birth,
+resurrection, new wineskin</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Redemption</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Reed</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Jesus’ non-condemnation/gentleness is pictured
+as not breaking a bruised reed </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            (Matthew<b> 12</b>:20).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Instability is pictured by a reed blown in the
+wind (Matthew <b>11</b>:7 = Luke <b>7:</b>24).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><u><span
+style='font-size:12.0pt'>Refuse/off-scouring/filth</span></u></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      1 Corinthians <b>4</b>:13</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>“<u>Respect of persons</u>” </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Preferential treatment</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Regarding slave <i>vs.</i> master
+(Colossians<b> 3</b>:25; Ephesians<b> 6</b>:9)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Jew <i>vs.</i> Gentile (Acts <b>10</b>:34-35)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Rich <i>vs.</i> poor (James<b> 2</b>:1, 3,
+9)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Fame/rank (Galatians<b> 2</b>:6)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Because of bribes (Deuteronomy <b>10</b>:17-18;
+2 Chronicles <b>19</b>:7)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            General (1 Peter <b>1</b>:17)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            (See also Ecclesiastes<b> 4</b>:27; 1
+Esdras <b>4</b>:39.)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Resurrection</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A picture of giving spiritual life to people
+(John<b> 5</b>:21)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>(Road<b>; </b>see “Way.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Robbery</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Paul calls it “robbery” to take support from
+other churches in ministering elsewhere    </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            (2 Corinthians <b>11</b>:8).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Jesus calls previous messianic claimants “robbers”
+(John <b>10</b>:1, 8).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Christ’s being equal with God was not robbery
+(Philippians <b>2</b>:6).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A robber’s coming represents unexpected events
+(Matthew <b>24</b>:43-44; Luke <b>12</b>:39-40).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Rock</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      (See “Foundation Figures/Building Figures.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Rod</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Rulership</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Discipline</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><u><span
+style='font-size:12.0pt'>Royalty figures</span></u></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Crown (2 Timothy <b>4</b>:8)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Running</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Diligently carrying on the process of life
+(Galatians <b>5</b>:5)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Sacrifice</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Picture of the atonement</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Poured out a drink offering (2 Timothy<b> 4</b>:6)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Salt</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Matthew <b>5</b>:13; Mark <b>9</b>:49</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            If salt loses its saltiness, there is
+nothing else you can use to make it salty again.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            If salt loses its saltiness, it is useless
+except perhaps as pavement for a path.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            (Salt seasons food; it is what makes
+food/life tasty/meaningful; it improves the </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  flavor.)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            (Salt is made up of two chemicals that
+separately are deadly poisons. When we dogmatically overemphasize one part of
+the faith, we make Christianity fatal.)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            (Salt can be used to put out fires; in
+former times when a chimney would get on fire from wood burning, <i>etc</i>., a
+person would go up on the roof and pour salt down the chimney to put out the
+fire.)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            (Salt can be used as a preservative; it
+prevents or retards putrefaction.)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            (Salt sterilizes and purifies; no gargle
+is better than salt-water gargle.)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            (Salt is a healing agent.)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            (Salt is essential to life; it keeps
+people alive and healthy.)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            (Salt has the ability to permeate.)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            (Salt is not affected by age, moisture,
+temperature, or time; it has no expiration </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  date.)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            (Salt can lose its flavor only by being
+polluted or diluted.)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            (Salt creates thirst and hunger. I bet you
+can’t eat just one.)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            (Salt melts ice.); when people are cold or
+the love of many grows cold, Christians </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  have the responsibility of “melting”
+that insensitivity.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            (Not a lot of salt is needed to do its
+work.)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            (Salt can be used in heavy water solution
+to unplug drains.)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            (In water solution or vaporized salt-water
+solution salt can be used as a nasal </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  decongestant.)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Having salt in yourself becomes a picture
+for internal source of flavoring and worth/meaning <i>vs.</i> being like food
+that gets its flavoring from something else (Matthew <b>9</b>:50).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Being the salt of the world implies that
+if Christians lose their saltiness, there is no way to make them salty because
+there is no other source of saltiness than salt itself.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Salvation</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      An image for reconciliation to God</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Samaritan</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A person outside the group (cp. Gentile,
+publican)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Sandals</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      John the Baptist compared the superiority of
+Messiah over himself to his own unworthiness to undo Messiah’s sandal straps (Mark
+<b>1</b>:7 = Luke <b>3</b>:16 = John <b>1</b>:27)* or carry his sandals (Matthew<b>
+3</b>:11).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Satan</span></u><b><span style='font-size:12.0pt'> </span></b><span
+style='font-size:12.0pt'>(NT)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      In general, Satan stands for the whole system of
+things alternative to Christ (Luke </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>10</b>:18; Matthew<b> 12</b>:26 = Mark <b>3</b>:23,
+26 = Luke <b>11</b>:18; Acts<b> 26</b>:16).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Jesus called Peter “Satan” when he did as Satan
+did (Matthew <b>16</b>:23 = Mark<b> 8</b>:3).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Satan entering into someone represents that
+person’s deciding to do something that corresponds with Satan’s will (John <b>13</b>:27
+= Luke <b>22</b>:3; Acts <b>5</b>:3); cp. the “devil” entering the heart of
+someone (John <b>13</b>:2).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Excommunicating someone from the fellowship is
+called “delivering to Satan”                  (1 Corinthians <b>5</b>:5; 1 Timothy
+<b>1</b>:20).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Turning away from Christ is called <i>“turning
+to Satan”</i> (1 Timothy<b> 5</b>:15).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      What works against Christ is said to be Satan’s
+working against Christ (1 Peter <b>2</b>:18;    </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            2 Peter<b> 2</b>:9).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The identity alternate to Christ (Revelation <b>2</b>:9,
+13<span style='position:relative;top:-3.0pt'>2</span>, 24; <b>3</b>:9).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Evil experiences/operations are called Satan’s
+operation (2 Corinthians <b>2</b>:11;          </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            1 Corinthians <b>7</b>:5; Luke 1<b>3</b>:16).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      (Satan is put directly for his indirect
+operations.)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>(Schoolmaster; see “Tutor.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><u><span
+style='font-size:12.0pt'>Seafaring imagery</span></u></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Shipwreck concerning the faith (1 Timothy<b> 1</b>:19)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Christ is our <u>anchor</u> for the soul (Hebrews<b>
+6</b>:19).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The tongue is like the rudder of a ship, which
+is very small compared to a ship in </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            storm-driven seas; yet it is used to
+direct the ship (cp. bridle, spark; James <b>3</b>:4).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Wild waves of the sea that foam up shame
+(Jude13)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Seal</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The converts in Corinth are the seal of Paul’s
+apostleship. (2 Corinthians<b> 9</b>:2; see also    </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            2 Corinthians<b> 3</b>:2, where they are
+called Paul’s “epistle.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Represents a statement of approval (John <b>3</b>:33)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Seed</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Mustard seed especially emphasizes the small beginning
+that leads to a large result </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            (Matthew<b> 13</b>:31<span
+style='position:relative;top:-3.0pt'>2</span> = Mark<b> 4</b>:30-32 = Luke<b>
+13</b>:18-19; Matthew <b>17</b>:20 = Luke <b>17</b>:6).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>(Serpents; see “Vipers.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Servant</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      See also “slave.”</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Is “Servant of the Lord” an analogy to Jesus or
+a prediction of Jesus (cp. Hagar-Sarah, </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            First-Second Adam, Jonah, temple, <i>etc</i>.)?</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><u><span
+style='font-size:12.0pt'>Shepherd/pastor-sheep</span></u></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Lambs among wolves represents innocent/harmless
+people among dangerous ones </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            (Luke <b>10</b>:3; Matthew <b>10</b>:16).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A label for the leadership/eldership/apostleship
+in the church (John <b>21</b>:15-17;<b> 20</b>:28-29; </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Ephesians <b>4</b>:11; Acts <b>20</b>:28-30).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Three roles come off the shepherd image</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            1.   Feeding</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            2.   Ruling</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            3.   Protecting (Acts<b> 20</b>:29)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Leaders teaching is like shepherds feeding sheep
+(John <b>21</b>:15-17).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Christ is the Lamb of God (John <b>1</b>:29, 36;
+Acts <b>8</b>:32; 1 Peter <b>1</b>:19, no spot or blemish).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Flock/sheep as a label for the followers of
+Jesus (Luke<b> 12</b>:32)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Sheep are highly dependent animals; they
+have no way to defend themselves against predators.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            If sheep get lost, the shepherd has the
+responsibility of going after them; ministers have a responsibility for taking
+the initiative in going after Christians who stray from the group/flock.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Sheep will not follow someone besides
+their own shepherd; they recognize his voice over other voices (John <b>10</b>:5,
+14; cp. 16, 27).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <i>“I am a good shepherd”</i> (John <b>10</b>:7-18);
+Christ is the chief shepherd (1 Peter <b>5</b>:4; cp. </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Psalm <b>23</b>).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            A shepherd is different from a thief:</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  He goes in at the door rather than
+climb in some other way (John <b>10</b>:1).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            A shepherd is different from a hireling:</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  He does not run when he sees wolf
+coming, but protects the flock—he lays </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                        down his life in so doing (John
+<b>10</b>:11b-13).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  He cares for the sheep (John <b>10</b>:13;<b>
+21</b>:15-17).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  He knows his sheep; even though
+sheep look a lot alike, the person that is </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                        around them all the time can
+tell them apart (John <b>10</b>:14).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            A shepherd is different from a wolf.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  He does not scatter them (John <b>10</b>:12).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  He does not snatch them to harm them
+(John <b>10</b>:12).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            There are other sheep that Jesus wants to
+bring into one flock (John <b>10</b>:16).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The one who feeds a flock drinks the milk from
+the flock, illustrating the idea that those </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            who minister to the church are supported
+by the believers (2 Corinthians <b>9</b>:7c).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      False shepherds use the flock to feed
+themselves, comparable to leaders that see the </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            church as a place to benefit themselves
+(Jude 12).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      As killing the shepherd scatters the sheep, so
+killing Jesus disperses his disciples </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            (Matthew <b>26</b>:31 = Mark <b>14</b>:27
+&lt; Zechariah <b>13</b>:7; John <b>16</b>:32).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Going out and looking for the lost minority
+while leaving the majority in safety represents the idea that there is greater
+joy over conversion than continued goodness (Luke <b>15</b>:3-7 = Matthew<b> 18</b>:12-14).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Disoriented, confused people are like sheep
+without a shepherd (Matthew 9:36; Mark </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>6</b>:34; Numbers <b>27</b>:17; Ezekiel
+<b>34</b>:5; Zachariah <b>10</b>:2; 1 Kings <b>22</b>:17).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Christ was not sent to the Gentiles in his first
+coming, but only to the lost sheep of the </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            house of Israel (Matthew <b>15</b>:24; <b>10</b>:5-6).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Sickness</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Spiritually weak (1 Corinthians <b>11</b>:30)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>*<u>Sifting</u></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A picture for putting someone through trials (Luke
+<b>22</b>:31; Amos <b>9</b>:9; Isaiah <b>30</b>:28)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Sight/blindness</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Physical blindness is compared to spiritual
+blindness (John<i> </i><b>9</b>:35-41; note context of the </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            healing of the man born blind). (“To see”
+means “to understand.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Being cross-eyed is like trying to operate by
+two frames of reference (Matthew <b>6</b>:22-</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            23).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Being in the dark so long that they cannot see
+anymore (1 John <b>2</b>:11)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Blind leading the blind are like teachers that
+do not know what they are talking about </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            (Matthew <b>15</b>:14; Luke <b>6</b>:39).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      (See also “Eyes.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Sky</span></u><span style='font-size:12.0pt'> (See
+also “Weather.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Slave/slavery</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Irresponsible slaves were scourged in proportion
+to their irresponsibility (Luke <b>12</b>:46-</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            48).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Romans <b>1</b>:1; 2 Corinthians <b>4</b>:5;
+Philippians <b>1</b>:1; 2 Timothy <b>2</b>:24; Titus <b>1</b>:1</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Parable of the Unmerciful Servant (Matthew <b>18</b>:23-25)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A follower of Jesus Christ turns over everything
+to the master.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A slave cannot serve two masters (Matthew <b>6</b>:24;
+Luke <b>16</b>:13).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Judaizers were, so to speak, making slaves out
+of the Gentiles (Galatians<b> 2</b>:4).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Being under law is like being in slavery (Galatians
+<b>4</b>:3, 9;<b> 5</b>:1).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Aggressive, pushy, overbearing, presumptuous
+people make slaves out of other people</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            (2 Corinthians <b>11</b>:10).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      John the Baptist did not consider himself worthy
+to carry Jesus’ shoes (Matthew<b> 3</b>:11).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      John the Baptist did not consider himself worthy
+to untie Jesus’ sandals for him (Luke </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>3</b>:16; John <b>1</b>:27).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Someone addicted to sin or in the sin state is
+pictured as a slave to sin (John <b>8</b>:32-36).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A servant who is faithful while his master is
+not around is like a disciple of Jesus faithful at the time of Christ’s
+unpredictable return (Matthew <b>24</b>:42-51 = Luke <b>12</b>:41-48).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      (See also “Stewards.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A steward to be relieved of his stewardship
+might make preparations for the future as </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            the unrighteous steward did (Luke <b>16</b>:1-13).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A slave’s work is first for the master and then
+for himself (Luke <b>17</b>:7-10).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A slave can never do enough; he has to take the
+attitude that he is <u>unprofitable</u> no </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            matter what (Luke<b> 17</b>:7-10).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      What a slave is given to work with does not
+belong to him, but to his master and what </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            he produces more also belongs to the
+master (Luke <b>19</b>:11-27). (cp. “Stewards”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Servants are supposed to be responsible while
+the master is gone (Luke <b>19</b>:11-27; <b>20</b>:9-</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            18).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Sleep</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      (See essay on “Soul-Sleeping.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      As a picture for death (1 Kings <b>2</b>:10;
+Daniel <b>12</b>:2; Matthew <b>27</b>:52; [Mark <b>5</b>:39?]; Mark <b>13</b>:33-37;
+John<b> 11</b>:11-14; Acts<b> 7</b>:60; <b>13</b>:36; 1 Corinthians<b> 15</b>:6,
+18, 20, 51; 1 Peter <b>4</b>:13-18; 2 Peter <b>3</b>:4)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            There is no movement; the person is not
+accomplishing anything—he is “resting.”</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            The eyes are shut.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            The person is in a prone position.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            The person is unaware of what is going on
+around him.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Lost condition(?): 1 Corinthians <b>11</b>:30
+(“and not a few are asleep”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>(Snakes; see “Vipers.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Sojourners</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A picture of the temporary and essentially
+foreign nature of the world’s environment for </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Christian people (1 Peter<b> 2</b>:11)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            (See also “Diaspora/Dispersion.”) </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>(Soldier; see “Warfare Imagery.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Solomon</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Jesus is greater than Solomon, whom the Queen of
+Sheba/the South came to see (Matthew <b>12</b>:42; Luke <b>11</b>:31). Jesus
+uses this example along with that of Naaman and the widow of Sarepta/Zarephath
+to illustrate God’s concern for more than just the Jews.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><u><span
+style='font-size:12.0pt'>Sowing-reaping/seed</span></u></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The law of harvest: you reap what you sow (Galatians
+<b>6</b>:7-8; cp. Matthew <b>7</b>:16-20; </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>12</b>:33; <b>7</b>:43-44; Luke<b> 6</b>:43-45;
+James<b> 3</b>:12).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Harvesting is like converting people (Luke <b>10</b>:2).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      “Preaching the Word” is like sowing seed and “hearing
+it and taking it to heart” is like </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            having  it planted in you (James <b>1</b>:21).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The seed and its plant is compared to
+resurrection (1 Corinthians <b>15</b>:35-38).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            The seed itself has to cease existing
+before the plant can become.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            The thing sown differs from what comes
+from it. </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A seed has to “die” to produce the plant.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            A person has to give up autonomous
+identity in order to amount to anything for </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  God: John <b>12</b>:24-25.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Parable of the Sower (Matthew <b>13</b>:3-23; Mark
+<b>4</b>:3-20)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Different kinds of soil represent
+different degrees of readiness to accept the word and different levels of
+productivity from it. <u>Shallow (rocky) soil</u> represents short-lived
+enthusiasm for the gospel, but it does not last because the wheat does not have
+enough root to keep it from being scorched by the hot sun. <u>Hard soil</u>
+represents the disinterested. <u>Birds</u> represent other influences that
+remove the word from the situation. <u>Thorny soil</u> represents good
+potential that is choked out by distracting interests. <u>Good soil</u>
+produces different amounts.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Parable of the Tares</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Weed seeds (or briars) grow also among the
+blades of wheat because they have been planted in the soil by contrary
+influences in the field (enemies of the landowner).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Good and evil people grow together until
+the harvest, which occurs at the end.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Good and evil are not separated during the
+growing season because their intertwined roots mean that any effort to extract
+the weeds now would end up destroying some of the wheat in the process.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            The field represents the world.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Angels are the reapers.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            The good seed are sons of the kingdom.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            The bad seed are sons of the evil one.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            The enemy is the devil.                                                    </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            The harvest is the end of the world.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            The tares are gathered up at the end and
+burned (Matthew<b> 13</b>:40-42).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Parable of Sowing-Reaping (Mark <b>4</b>:26-28)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Parable of the Mustard Seed (Matthew <b>13</b>:31-32;
+Mark <b>4</b>:30-32; Luke<b> 13</b>:18-19)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            From something very small comes something
+comparatively large.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Firstfruits (Romans <b>11</b>:16; 1<b>6:</b>5; 1
+Corinthians <b>16</b>:15)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            (Serves as a picture for many situations
+where one example will be followed by many more and serve as the epitome for
+the rest) (Cp. “firstborn.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            1.   Christian converts are firstfruits
+from among people (James <b>1</b>:18).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                        Similarly, the household of
+Stephanus was the firstfruits of Achaia         </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>(1 Corinthians <b>16</b>:15), and Epaenetus was the
+firstfruits of Asia (Romans<b> 16</b>:5).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            2.   “Firstfruits” conveys a sense of
+specialness and especially valued (Revelation <b>14</b>:4) speaks of the saved
+as firstfruits without implying necessarily that the rest will also be saved.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            3.   Christ is the firstfruits of
+resurrection (1 Corinthians <b>15</b>:20, 23).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            4.   The Spirit is the firstfruits of
+salvation in anticipation of the redemption of the body at the resurrection (Romans
+<b>5</b>:23; cp. the Holy Spirit as an “earnest” in Ephesians <b>1</b>:14).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The one who <u>sows</u> eats some of the produce
+from the harvest, illustrating supporting those who minister to the believers
+(2 Corinthians <b>9</b>:10-11ff.). Not muzzling the ox while threshing
+represents living on the basis of your work.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The one who <u>threshes</u> eats some of what he
+produces, illustrating supporting those </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            who minister to the believers (2 Corinthians<b>
+9</b>:10-11ff.).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Various ones contribute different activities to
+the planting-reaping process.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Paul planted, Apollos watered, and God
+gave the increase (1 Corinthians <b>3</b>:6-8).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            God is the most important because he gives
+the increase (1 Corinthians<b> 3</b>:7).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            People are paid according to their labor
+(1 Corinthians <b>3</b>:8).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Jesus was sending his apostles to reap
+that on which they had not bestowed any </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  labor (John<b> 4</b>:38).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <i>“White unto harvest”</i> symbolizes readiness
+to hear the gospel (John <b>4</b>:35).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Wages are paid to those who labor in the harvest.
+(Harvesting is not just to protect the </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            grain or get God’s work done)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Land that grows briars and thistles instead of
+the crops it was sown to bear will be burned off, symbolizing the trials,
+sufferings, punishments that come to those disobedient to the message they have
+received (Hebrews <b>6</b>:7-8).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Threshing with oxen on a threshing floor</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            The chaff represents worthless material
+that is unstable (the wind can be used to </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            blow it away); winnowing (Luke <b>3</b>:17
+= Matthew <b>3</b>:12).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Large harvest needs lots of laborers; many
+people to be converted need many workers </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            in the kingdom and there are so few of
+them (Matthew <b>9</b>:37-38).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      See also “Plant Imagery” and “Trees.”</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Mustard-seed parable (Luke <b>13:</b>18-19 = Matthew
+<b>13</b>:31-32 = Mark<b> 4</b>:30-32). The </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            mustard seed illustrates a large
+consequence from a small cause.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>(Speck; see “Mote.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Stars</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Wandering stars (Jude 13)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Stone</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A stone’s throw becomes a loose measure of
+distance (Luke <b>22</b>:41).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      (See also “Building Figures.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Stumbling</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Means to be/cause a problem (Matthew <b>5</b>:29;<b>
+11</b>:6; <b>13</b>:21, 57; <b>24</b>:10; <b>26</b>:31; Mark <b>6</b>:3; </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            John<b> 6</b>:61; <b>16</b>:1)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Sinning is like stumbling; it “trips you up”
+(James <b>2</b>:10).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Stumbling represents a minor incident that
+brings up a problem for someone. The angels would take care of the Messiah to
+the extent that they would catch him in such cases so he would not fall (Psalm<b>
+91</b>:12 &lt; Luke <b>4</b>:11 = Matthew<b> 4</b>:6).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Stumbling can mean to get someone confused or
+cause them to doubt and perhaps act </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            accordingly (John <b>16</b>:1).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Stumbling can contrast with falling down
+completely (Romans <b>11</b>:11).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Stumbling block</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <u>Psalm <b>59</b>:22; Isaiah <b>28</b>:16</u>;
+John <b>11</b>:9-10; <u>Romans <b>9</b>:32-33</u>; <b>11</b>:9, 11; <b>14</b>:13,
+21; 1 Corinthians <b>1</b>:23;<b> 8</b>:9, 13; <b>10</b>:32; Galatians<b> 5</b>:11;
+<u>1 Peter<b> 2</b>:6, 8</u>; Jude 24; Revelation <b>2</b>:14</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Something that throws people “off the track”</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Messiah proved to be a stumbling block to the
+Jews (Isaiah<b> 8</b>:14; Romans <b>9</b>:32-33;      </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            1 Peter <b>2</b>:8; cp. Jeremiah <b>6</b>:21).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Suffering</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      **Weeping and gnashing of teeth (Matthew <b>8</b>:12;
+<b>13</b>:42, 50; <b>22</b>:13; <b>24</b>:51; <b>25</b>:30; Luke </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>13</b>:28)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Woman in travail</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Gnawing their tongues for pain (Revelation <b>16</b>:10)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Sword</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Represents turmoil and division (Matthew10:34)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><u><span
+style='font-size:12.0pt'>Tabernacle/temple</span></u></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The veil in the tabernacle signified that the
+way into the true Holy of Holies was not yet </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            made known while the first tabernacle was
+still standing (Hebrews <b>9</b>:6-10).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The wall between the Court of the Men of Israel
+and the Court of the Gentiles </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            represents a separation that has been torn
+down in Christ (Ephesians<b> 2</b>:14).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Our bodies are tabernacles of the self (1 Corinthians
+<b>5</b>:1; 2 Peter <b>1</b>:13-14).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Our bodies are tabernacles of the Spirit (1 Corinthians
+<b>6</b>:19; John <b>2</b>:19-22; Mark </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>14</b>:58).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The body of Jesus is a functional equivalent for
+the Jerusalem temple (John<b> 2</b>:19-22).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Tearing it down and rebuilding it became an
+image for getting rid of the old system and </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            replacing it with a new one.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Changing over from the Old Covenant to the New
+is pictured as destroying the temple (and rebuilding it in three days; Matthew <b>26</b>:61
+= Mark <b>14</b>:58; Matthew<b> 27</b>:40 = Mark <b>15</b>:29; John <b>2</b>:19-22;
+Acts <b>6</b>:14).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>*<u>Taste</u></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Acute experience </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            taste of death (Matthew <b>16</b>:28; Mark
+<b>9</b>:1; Luke <b>9</b>:27; John <b>8</b>:52; Hebrews <b>2</b>:9)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            benefits of salvation (Hebrews<b> 6</b>:4-5;
+1 Peter <b>2</b>:3)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><u><span
+style='font-size:12.0pt'>Temperature imagery</span></u></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>&nbsp;</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Lukewarmness represents unsavory taste (Revelation
+<b>3</b>:15-16).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Coldness is a loss of a characteristic like love
+(Matthew <b>24</b>:12).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>(Testament; see “Covenant.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>(Thief; see “Robbery.”)</span></p>
+
+<p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><u><span
+style='font-size:12.0pt'>Thorns</span></u></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      “Thorn in the flesh” (2 Corinthians <b>12</b>:5-10)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>(Threshing; see “Sowing-Reaping/Harvesting-Seed.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Tomb </span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      (See also “Graves.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <i>“Whitewashed tombs”</i> represent outer
+appearance of goodness with inner evil.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <i>“Hidden tombs”</i> represent hidden sources
+of defilement (Luke <b>11</b>:44).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Touch</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A euphemism for sexual intercourse (1 Corinthians
+<b>7</b>:1)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Trap</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      2 Timothy <b>2</b>:26; 2 Corinthians <b>11</b>:20;
+James <b>1</b>:14 (temptation traps you)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Travail</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      John <b>16</b>:21</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The beginning of good things is often in pain.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The subsequent joy overshadows the previous
+pain.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Unescapable coming things</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><u><span
+style='font-size:12.0pt'>Travel imagery</span></u></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Gates (Matthew <b>7</b>:13-14)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Wide and narrow path (Matthew <b>7</b>:13-14)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <u>Walking</u>* as an image for living life,
+conducting oneself (Mark <b>7</b>:15; Luke<b> 1</b>:6; John <b>6</b>:66; <b>8</b>:12;
+<b>11</b>:9-10; <b>12</b>:35; Acts <b>9</b>:31; <b>14</b>:16; <b>21</b>:21, 24;
+Romans <b>4</b>:12; <b>6</b>:4; <b>8</b>:1, 6; <b>13</b>:13; <b>14</b>:15; 1 Corinthians<b>
+3</b>:3; <b>7</b>:17; 2 Corinthians <b>4</b>:2; <b>5</b>:7; <b>10</b>:2-3; <b>12</b>:18;
+Galatians <b>2</b>:14; <b>5</b>:6, 25; <b>6</b>:16; Ephesians <b>2</b>:2, 10; <b>4</b>:1,
+17; <b>5</b>:2, 8, 15; Philippians <b>3</b>:16-18; Colossians<b> 1</b>:10; <b>2</b>:6;
+<b>3</b>:7; <b>4</b>:5; 1 Peter <b>2</b>:12; <b>4</b>:1, 12; 2 Peter <b>3</b>:6,
+11; 1 Peter<b> 4</b>:3; 2 Peter <b>2</b>:10; <b>3</b>:3; 1 John<b> 1</b>:6-7; <b>2</b>:6,
+11; 2 John 4, 6<span style='position:relative;top:-3.0pt'>2</span>; 3 John <b>3-4</b>;
+Jude 16, 18)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Leading</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Following</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Treading</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      “To be tread on” or <i>“trodden down”</i> means <i>“to
+be run over”</i> (Luke<b> 21</b>:24; Revelation </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>11</b>:2).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Treasure</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A householder brings out of his treasure things
+new and old (Matthew<b> 13</b>:51-52).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Bringing things out of one’s treasure is like
+the mouth speaking out of the things stored </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            in the heart (Matthew<b> 12</b>:35).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The gospel is a treasure, as Paul says, carried
+in clay pots, God’s messengers (2 </span></p>
+
+<p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
+style='font-size:12.0pt'>                  Corinthians<b> 4</b>:7).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The contrast between the value of the contents
+and the value of the containers         </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            (2 Corinthians <b>4</b>:7)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The Parable of the Pearl of Great Price (Matthew
+<b>13</b>:45-46)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            A person ought to sell everything lesser
+that he has in order to get this one treasure.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The Parable of the Treasure in a Field (Matthew <b>13</b>:44)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      “Laying up treasure” means putting your concerns
+in something or relying on something </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            (Matthew<b> 6</b>:19-21; Luke <b>12</b>:33-34;
+<b>18</b>:22).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Earthly treasure deteriorates/rusts;
+thieves steal it; moths ruin it; heavenly treasure </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  does not have these weaknesses.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Where your treasure is your heart will also be;
+that is, where you put what you consider important (mental activity) is where
+your affections will be centered (emotions; Matthew<b> 6</b>: ?; Luke <b>12</b>:34).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Tree</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Being under one’s fig tree or eating from one’s
+fig tree refers to a situation of stability, </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            peace (Micah <b>4</b>:4; 1 Kings<b> 4</b>:25;
+Zechariah <b>3</b>:10; 2 Kings <b>18</b>:31; Isaiah <b>36</b>:16).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Romans<b> 11</b>:16b-24: The Olive Tree </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Wild branches have been grafted into the
+Abrahamic olive tree.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            If the branches wild or natural do not
+bear fruit, they will be trimmed out of the tree.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Gentiles are to see themselves as brought
+into the Abrahamic tree because its root </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  nourishes the branches; the branches
+do not nourish the root.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Trees that do not bear fruit are cut down and
+thrown into the fire (Matthew <b>3</b>:10 = Luke </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  <b>3</b>:9).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Fruitless trees (Jude 12), blown over by the
+wind and uprooted, represent false leaders.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The measure of a good or bad fruit tree is only
+whether it has good or bad fruit, not whether it is pretty (as a decorative
+tree might be, or goodness on the basis of Abraham’s origin; Matthew <b>7</b>:17-18
+= Luke<b> 6</b>:45; <b>12</b>:33 = Luke <b>6</b>:43-44, particularly). It is
+not what they look like or sound like; those are things that “don’t count.”</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The cursing of the fig tree was evidently an
+object lesson about fruitlessness despite a “show” of fruitfulness (by putting
+out leaves; Matthew <b>21</b>:18-20 = Mark<b> 11</b>:12-14, 20-21).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A fig tree puts out leaves before summer; hence,
+its leaves become a way of predicting </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            the future—the near future at least (Mark <b>13</b>:28-30;
+Matthew <b>24</b>:32; Luke <b>21</b>:30).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      As a fig tree loses its fruit in a storm, so
+will the elements be moved in the end times </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            (Revelation <b>6</b>:13; cp. Isaiah <b>34</b>:4).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Laying an ax at the foot of a tree represents
+impending destruction.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Green tree represents a time of relative
+prosperity (<i>vs.</i> dry? Luke <b>23</b>:31)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Tutor</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Galatians <b>3</b>:24-25</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><u><span
+style='font-size:12.0pt'>Unclean/uncleanness</span></u></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      a.   Sickness,   b. </span><span lang=ES
+style='font-size:12.0pt'>Sin,  c. Ceremonial defilement,  d. </span><span
+style='font-size:12.0pt'>Dirty</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Applied to “evil” spirits (demons; Matthew <b>10</b>:1;
+<b>12</b>:43; Mark <b>1</b>:23, 26, 27;<b> 3</b>:11, 30; <b>5</b>:2, 8, 13;<b>
+6</b>:7; <b>7</b>:25; <b>9</b>:25; Luke <b>4</b>:33, 36; <b>6</b>:18; <b>8</b>:29;
+<b>9</b>:42; <b>11</b>:24; Acts <b>5</b>:16; <b>8</b>:7; Revelation <b>16</b>:13;
+18:2)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Illegitimate children (1 Corinthians <b>7</b>:14)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Ceremonially defiled (Acts <b>10</b>:14, 28; <b>11</b>:8;
+2 Corinthians <b>6</b>:17)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Filthy acting person (Ephesians<b> 5</b>:5?) </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Sickness like leprosy (Luke <b>5</b>:12-14)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Vapor/Steam/Mist</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Vapor represents transitoriness (James <b>4</b>:14)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Mists driven by the wind represents instability
+(2 Peter <b>2</b>:17)</span></p>
+
+<p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>*<u>Vessel</u></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The body is a vessel (1 Peter<b> 4</b>:4).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The human person is a vessel (of divine service;
+Acts <b>9</b>:15; 2 Corinthians <b>4</b>:7;        </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            2 Timothy<b> 2</b>:20; 1 Peter <b>3</b>:7).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>(Vine; see “Plant Imagery”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Vineyard</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Evil behavior (Romans <b>1</b>:24; <b>6</b>:19)                                        </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Parable of Laborers in a Vineyard (Matthew <b>20</b>:1-16)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Parable of the Wicked Husbandmen (Matthew <b>21</b>:33-46;
+Mark <b>12</b>:1-12; Luke <b>20</b>:9-19)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The one that plants a vineyard eats from the
+fruit of it (1 Corinthians <b>9</b>:7b, 8-10ff.).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Patience is needed for the result (conclusion of
+the matter) even as a husbandman has to </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            wait a long time for the harvest (James <b>5</b>:7)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Parable of the Two Sons (Matthew<b> 21</b>:28-32)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Workers in a vineyard complement each other’s
+work of ministry. They work together </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            for the same project; hence, a comment
+against division.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      God is the most prominent member in this effort;
+the ministers take no credit for the </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            results any more than a gardener causes
+plants to grow.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Vipers </span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Represent wisdom (Matthew <b>10</b>:16)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      (See also “Sons/Offspring of Vipers” and “Family
+Relations Imagery.”)</span></p>
+
+<p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Vultures</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      As they are gathered around a carcass, so will
+the center of attention be at Christ’s </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            coming (Matthew <b>24</b>:28).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Wages</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Wages stand for the consequences of actions.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <i>“The wages of sin is death”</i> (Romans
+<b>6</b>:23; cp. 2 Peter <b>2</b>:15).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Support for ministry is called “wages” (2 Corinthians
+<b>11</b>:8).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            John <b>4</b>:36</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Walk</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Conduct of life. Walking is something that a
+person continuously does; especially would this have been the case in the
+ancient world. Furthermore, walking is an image that corresponds with <u>way</u>
+or <u>path.</u> Way is a typical picture for a pattern of belief or living. Walking
+the way refers then to the active conduct of life according to such a pattern.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><u><span
+style='font-size:12.0pt'>Warfare imagery</span></u></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      *War of words (2 Timothy <b>2</b>:14 [</span><span
+lang=EL style='font-size:12.0pt'>λογομαχέω</span><span style='font-size:12.0pt'>,
+<i>logomacheō</i>, a once-used word];       </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            1 Timothy <b>6</b>:4 [</span><span
+lang=EL style='font-size:12.0pt'>λογομαχία</span><span style='font-size:12.0pt'>,
+a once-used word])</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Armor (Ephesians <b>6</b>:10-20; 1 Peter <b>5</b>:8
+&lt; Wisdom <b>5</b>:17ff.).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Soldier (2 Timothy <b>2</b>:3-4)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Soldiers do not get entangled in the
+affairs of public life (2 Timothy <b>2</b>:4).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Soldiers do not serve at their own expense
+(2 Corinthians <b>9</b>:7a).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Being captured by Satan (2 Timothy <b>2</b>:26; <b>3</b>:6)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Lording it over people—or, bringing them under
+law—is like capturing them         </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            (2 Corinthians<b> 11</b>:10).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Considering ahead of time whether you have the
+strength to wage this war (Luke <b>14</b>:31-</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            32)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Water</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      John <b>4</b>:10-15</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Water as a symbol for the word </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            a) a “life-giving” message</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            b) quenches thirst</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Water as a symbol for the Holy Spirit (John <b>7</b>:38-39)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Water as a symbol for cleansing/purification</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Water as a symbol for life-giving resource</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Water as a symbol for vast numbers of people (Revelation)</span></p>
+
+<p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Way/Road</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A way/road represents a way of life.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      *The Way became a term for early Christianity: Acts
+<b>9</b>:2; <b>19</b>:9, 23; <b>22</b>:4;<b> 24</b>:14, 22</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Preparing the road for someone means getting
+ready for him (Malachi <b>3</b>:1; Isaiah <b>40</b>:3-</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            5 &lt; Matthew <b>3</b>:3 = Mark <b>1</b>:2-3
+= Luke <b>3</b>:4-6 = John <b>1</b>:23).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Weather</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      We use the way the sky looks as a way of predicting
+the weather; so also we use the </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>way things are going as a way to project the future (Matthew
+<b>16</b>:2-4; Luke <b>12</b>:54-56).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Boanerges: Jesus nicknamed James and John “Sons
+of Thunder” because of their </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            </span><span lang=DE style='font-size:
+12.0pt'>temperament (? Mark<b> 3</b>:16; cp. Luke <b>9</b>:54; Mark <b>9</b>:38).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Weddings</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Parable of the Ten Virgins</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The sons of the bridegroom cannot be sad (hence,
+fast) while the bridegroom is around </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            (Matthew<b> 9</b>:14-16 = Mark <b>2</b>:18-20
+= Luke <b>5</b>:33-35).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Parable of the Marriage Feast and the Slighted
+Invitation (Matthew<b> 22</b>:2-14; Luke </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>14</b>:16-24)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Jesus had the bride, not John because the latter
+was not the Messiah (John <b>3</b>:29).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      John called himself a friend of the Bridegroom/Jesus
+(John <b>3</b>:29) to indicate his</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            secondary position and his joy at seeing
+the other person’s importance.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'><span style='text-decoration:none'>&nbsp;</span></span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>*<u>Weeping and gnashing of teeth</u></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      As a standard phrase it stands for (extreme)
+suffering (Matthew <b>24</b>:51; <b>8</b>:12; <b>13</b>:42, 50; </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>22</b>:13; <b>25</b>:30; Luke <b>13</b>:28).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Wheat</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Sifting someone like wheat means putting him
+through hard experiences (Luke<b> 22</b>:31; </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Amos<b> 9</b>:9; Isaiah <b>30</b>:28).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>Widow of Zarephath/Sarepta</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      In Luke <b>4</b>:26 Jesus uses the help Elijah
+gave to this widow during the 3½ years of drought as a picture of God’s concern
+for non-Jews. (See also “Jonah,” “Solomon,” “Naaman.”).</span></p>
+
+<p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>*<u>Wind</u></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Represents the trials and tests of life (Matthew
+<b>7</b>:25, 27; cp. James<b> 3</b>:4?)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Represents the Spirit (John <b>3</b>)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Winds blowing in different directions represent
+contrary influences on people that</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            confuse them (Ephesians <b>4</b>:14).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Wind on the threshing floor is used to blow the
+chaff—profitless, unstable material—</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            out of the seed.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      “The four winds” refers to “all directions” (Matthew
+<b>24</b>:31 = Mark<b> 13</b>:27; Revelation </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>7</b>:1; Daniel<b> 7</b>:2; Zechariah <b>2</b>:6).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Wine</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A person that has old wine does not want to go
+to new, which is comparable to observing that a person who experiences the
+better does not want to go back to the lesser (Luke<b> 5</b>:39).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Wineskins</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      You do not put new wine into old wineskins as
+compared to trying to put certain contents into containers unnatural to hold
+those contents (Matthew <b>9</b>:12 = Mark <b>2</b>:22 = Luke <b>5</b>:37-38).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Compare re-creation, born-again <i>vs.</i>
+circumcision.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>(Winnowing; see “Sowing-Reaping/Harvesting-Seed.”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Womb</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Opening the womb means being the firstborn (Luke<b>
+2</b>:23).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Source</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Word</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Christ is called the <u>word</u> of God because
+he declared him (John <b>1</b>:18; John <b>1</b>:1, 14).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>World</span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The <u>material realm</u> in contrast to heaven</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The typical evil <u>society</u> of people (John <b>15</b>:18-19;
+<b>16</b>:8)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Political/material</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The (a) <u>world</u> has <u>people</u> as its
+content, and (b) people are generally <u>evil</u>; hence, the </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            connection between the creation and evil.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'>Yeast</span></u><span style='font-size:12.0pt'> (See “Leaven.”)</span></p>
+
+<p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>*<u>Yoke</u></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Fellow workers are yoke fellows (Philippians <b>4</b>:3).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Christians should not yoke themselves together
+with unbelievers (2 Corinthians <b>6</b>:14).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Accepting Christ’s way of living is like taking
+an easy yoke on yourself (Matthew </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>11</b>:29-30).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Putting circumcision and obedience to the law of
+Moses on Gentiles is like putting too </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            big a yoke on them that they cannot handle
+(Acts <b>15</b>:10; Galatians<b> 5</b>:1).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Being a slave is like being under a yoke (1Timothy<b>
+6</b>:1).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-27.0pt;
+margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><b><span
+style='font-size:12.0pt'>Part II: The Ideas Represented by Images</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Agency</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            The arm of God</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            The finger of God (Luke <b>11</b>:20; Exodus
+<b>8</b>:19)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            The hand of God</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Invisible agency like what causes the wind
+to blow (John <b>3</b>:8)</span></p>
+
+<p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Abrogating the law</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Nailing it to the cross</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Tearing down the temple and rebuilding a
+temple in its place</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Dying to get out from under Mosaism
+(death-resurrection)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Animal imagery</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Dove: harmlessness</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Fox: slyness (Luke <b>13</b>:32)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Lion: strength, destruction</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Scorpion: surprising harm/pain</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Sheep: dependency</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Snakes/vipers/dragon/reptiles: wisdom,
+deception, repulsiveness</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Wolf</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Antecedent-consequence images</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      a.   Result</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  Wages</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  Inheritance</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  Fruit</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      b.   Correlation between kind of cause and kind
+of effect</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  Grapes do not come from thorns.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  Figs do not come from thistles.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  Flesh is what comes from flesh.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  Spirit is what comes from spirit.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      c.   Small cause for large result</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  *Bridle/bit (James<b> 3</b>:3)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  Rudder of a ship (James <b>3</b>:3)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  Spark of fire (James <b>3</b>:6)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  Mustard seed relative to the plant
+that comes from it</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      d.   Inescapable consequences</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  A millstone tied around the neck and
+the person thrown into the ocean (Matthew </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                        <b>18</b>:6; Mark <b>9</b>:2; Luke
+<b>17</b>:2)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  Heading toward the pangs of
+childbirth</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  A stone falling on someone and
+grinding him to dust (Matthew <b>21</b>:44)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Apostasy </span></b><span style='font-size:12.0pt'>(returning
+to something previously left)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            A washed sow returning to the mud hole (Proverbs
+<b>26</b>:11; 2 Peter<b> 2</b>:22)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            A dog eating his own vomit (Proverbs <b>26</b>:11;
+2 Peter <b>2</b>:22)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Atonement</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Belonging in (Christ); citizenship; sonship</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <u>Imageries</u>: (<i>What the Bible Says About
+Salvation</i>, pp. 65-68)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      a.   Ransom (Matthew <b>20</b>:28; Mark <b>10</b>:45;
+Luke <b>24</b>:21; John <b>8</b>:34-36; Romans <b>3</b>:24; <b>6</b>:16-18; 1 Corinthians
+<b>1</b>:30; Ephesians <b>1</b>:7, 14; Colossians <b>1</b>:14; 1Timothy <b>2</b>:7;
+Titus <b>2</b>:14; Hebrews <b>9</b>:12, 15; 1 Peter <b>1</b>:18-19)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      b.   The brazen serpent Moses held up on a
+standard (John <b>3</b>:14-15 &lt; Numbers <b>21</b>:4-9)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      c.   Healing (Isaiah <b>53</b>:5; 1 Peter<b> 2</b>:24;
+Hebrews <b>12</b>:13; John <b>3</b>:14-15)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      d.   Whipping boy (Isaiah<b> 53</b>:54-55,
+57-58)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      e.   Animal sacrifice (Hebrews <b>10</b>:1-12 &lt;
+Psalm <b>40</b>:6-8; John<b> 1</b>:29, 36; Isaiah <b>53</b>:7; Acts <b>8</b>:32;
+1 Peter <b>1</b>:19; Revelation <b>5</b>:6, 8, 12, 13, <i>etc</i>.; Matthew<i> </i><b>26</b>:26-29;
+Mark<b> 14</b>:22-25; Luke <b>22</b>:14-20; Romans <b>3</b>:21-26; Galatians<b>
+3</b>:13; Hebrews <b>9</b>:26; 1 Peter<b> 2</b>:24)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      f.   Scapegoat (Leviticus <b>16</b>:1-28)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      g.   Purification (Hebrews <b>1</b>:3; John <b>8</b>:9;
+Acts <b>15</b>:9; <b>23</b>:1;<b> 24</b>:16; 1 Timothy <b>1</b>:5, 19; 3:9; 2 Timothy<b>
+1</b>:3; Titus <b>2</b>:14; Hebrews <b>9</b>:9, 13-14; <b>10</b>:2, 22; <b>13</b>:18;
+1 Peter<b> 2</b>:19;<b> 3</b>:16, 21; 1 John <b>1</b>:7-9; Revelation <b>7</b>:14)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      h.   Founder (Hebrews <b>2</b>:10; <b>12</b>:2;
+Acts<b> 3</b>:15; <b>5</b>:31)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      i.   Conqueror (Hebrews 2:14-15; Matthew <b>16</b>:18;
+Mark <b>3</b>:27; John<b> 8</b>:34; Romans <b>6</b>:16; </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  <b>8</b>:37-39; 1 Corinthians <b>15</b>:55-57;
+2 Timothy <b>1</b>:10; 1 John <b>3</b>:8)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      j.   Propitiation (Romans <b>3</b>:25; Hebrews <b>2</b>:17;
+1 John<b> 2</b>:2; 4:10; Romans<b> 5</b>:10; <b>11</b>:28)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      k.   Example (1 Peter <b>2</b>:21-23; Luke <b>7</b>:47;
+John <b>15</b>:13)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      l.   Representation (Hebrews <b>2</b>:5-18 &lt;
+Psalm<b> 8</b>:4-6)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      m. Priest: (Hebrews <b>5-10</b>)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      n.   Prophet (Hebrews <b>1</b>:1-4)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      o.   Testator (Hebrews <b>9</b>:15-22)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      p.   Primogenitor (Colossians <b>1</b>:13-24)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      q.   Begetter (1 Peter <b>1</b>:23)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>   *r.     Purchaser (1 Corinthians<b> 6</b>:20;<b> 7</b>:23;
+2 Peter <b>2</b>:1; Acts <b>20</b>:28; Revelation <b>5</b>:9; <b>14</b>:3-</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  4)</span></p>
+
+<p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Change</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The inability to change something</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            The leopard cannot change its spots (Jeremiah
+<b>13</b>:23).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            The Ethiopian cannot change his skin
+(Jeremiah <b>13</b>:23).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            A person cannot change his hair to a
+different color (Matthew<b> 5</b>:36).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            By anxiety you cannot make yourself taller
+(Matthew<b> 6</b>:27).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Danger</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Sending out sheep among wolves (Matthew <b>10</b>:16;
+Luke <b>10</b>:3)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Death</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <u>Exodus</u> (2 Peter<b> 1</b>:15; Luke<b> 9</b>:31)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Going to <u>sleep</u></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Deception</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A wolf in sheep skin (Matthew <b>7</b>:15)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Adder/asps/vipers/snakes (Psalm <b>140</b>:3
+&lt; Matthew <b>3</b>:7 = Luke<b> 3</b>:7; <b>12</b>:34; <b>23</b>:33; </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Romans<b> 3</b>:13)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Degree</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Intensity</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Girding yourself up</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Racing/running</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Warfare/fighting</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Intense perception: taste</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Lack of intensity: lukewarmness</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Difficult or impossible things</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Camel to go through a needle’s eye (Matthew<b>
+19</b>:23-24; Mark <b>10</b>:25; Luke <b>18</b>:25)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Enduring a hard experience</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Drinking a cup (Matthew <b>20</b>:23-23; <b>26</b>:42
+= Luke <b>22</b>:42 = John <b>18</b>:11)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Being baptized</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Travail in childbirth</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Evangelizing</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Fishing (Matthew <b>4</b>:19; Mark <b>1</b>:17;
+Luke <b>5</b>:10)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Harvesting</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Exactness</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The width of a hair (Judges <b>20</b>:16)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Experiencing something perceptively</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Taste (Mark<b> 9</b>:9)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Seeing: “Shall not see the kingdom.”</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Faith</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The power of faith is pictured as:</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Moving mountains (Matthew <b>17</b>:20; <b>21</b>:21
+= Mark <b>11</b>:23; 1 Corinthians <b>13</b>:2)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Uprooting a tree and throwing it into the
+sea</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Withering a fig tree (Matthew <b>21</b>:21;
+Luke <b>17</b>:6)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Illustration of Elijah (James <b>5</b>:17-18)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Abraham epitomizes faithfulness.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Followers of Jesus</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Christians</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Lambs</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Sheep</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Disciples</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Living Stones</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Pillars in the temple of God</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Foreign/Alien Matter</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>       Chaff</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Dross</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The man at a wedding feast without a wedding
+garment</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Weeds/tares in a field of wheat</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Mote/speck in a person’s eye</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Leaven</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Offending hand</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Offending eye</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Rock in a love feast</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Future</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      South wind means that the weather will be hot
+(Luke <b>12</b>:55).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Cloud in the west means that there will be a
+shower (Luke <b>12</b>:54).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Evening sky is red means fair weather is coming
+(Matthew <b>16</b>:2).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Morning sky is red and lowering means that there
+will be foul weather (Matthew </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>16</b>:3).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt'><b><span style='font-size:12.0pt'>Gentleness
+of Jesus</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Not breaking a bruised reed (Matthew<b> 12</b>:20)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Not putting out smoking flax</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Grace</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      People will return graciousness like meal shaken
+together, pressed down and running </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            over (Luke <b>6</b>:38).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Harmlessness</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Doves (Matthew <b>10</b>:16)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Lambs (Luke <b>10</b>:3)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Hell/Judgment Consequences</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Being <u>burned</u> in Gehenna</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <u>Burning</u> bundles of weeds at harvest time</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <u>Burning</u> chaff</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <u>Burning</u> fruitless trees after they have
+been cut down</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <u>Breaking off/cutting out</u> fruitless
+branches (Romans <b>11</b>:17, 22)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      <u>Burning</u> off a field (Hebrews <b>6</b>)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Fines and imprisonment (Matthew <b>5</b>:23-26;
+Luke<b> 13</b>:57-59)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Outer darkness</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Throwing salt out on the pathway (Matthew<b> 5</b>:13)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Holy Spirit</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Called an earnest (Ephesians <b>1</b>:14)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Called a firstfruit (Romans <b>8</b>:23,
+appositive genitive?)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Humility</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Like a slave Jesus took a towel and washed the
+feet of his disciples.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Jesus took a little child and picked him up as
+an object lesson to his disciples.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Identity</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Exclusiveness of identity</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Slavery: a person can be the servant of
+only one master.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Marriage: a woman can be the wife of only
+one husband (at a time).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Establishing identity</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Circumcision</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Baptism</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Entrance into a sphere (</span><span
+lang=EL style='font-size:12.0pt'>εἰς</span><span style='font-size:12.0pt'>)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Giving up autonomous identity</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Becoming a <u>slave</u> of Jesus Christ</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            A seed has to “die” to produce the plant
+and its fruit (John <b>12</b>:24; cp. 1 Corinthians </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  <b>15</b>:36-37).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Imperception</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Darkness (Ephesians <b>5</b>:14)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Hardening of heart (Mark <b>6</b>:52; <b>8</b>:17-21;
+cp. Romans<b> 11</b>:7-8, 25)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Blindness</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Deafness</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Dead (Ephesians <b>5</b>:14)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Eyes were holden</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Sleep (Ephesians<b> 5</b>:14)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Incompatibility</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      New wine in old wineskins (Matthew <b>9</b>:17;
+Mark <b>2</b>:22; Luke <b>5</b>:37-38)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      UnSanforized cloth on a Sanforized garment
+(Matthew <b>9</b>:16) </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Incongruity</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      a.   Bitter and sweet water coming from the same
+spring (cp. to cursing and blessing </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  with the same tongue; James <b>3</b>:9-12).
+ </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      b.   Compare item under “incompatibility”</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      c.   Good fruit from bad trees, and so on (Matthew<b>
+7</b>:17ff.)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Influence</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A city set on a hill (Matthew <b>5</b>:14)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The blowing of the wind (Ephesians <b>4</b>:14)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Light (Matthew <b>5</b>:15-16)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Invisible realities known by their effects:</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Leaven</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Wind</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Spirit’s indwelling</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Inner/Outer</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>&nbsp;</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>      </span></b><span style='font-size:12.0pt'>Cleaning
+up appearances, ceremonial washings regulations, but not changing the heart is
+compared to washing the outside of the cup and platter but not the inside (Matthew
+<b>23</b>:25-26; Luke <b>11</b>:39-41).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Whitewashed sepulchers (Matthew<b> 23</b>:27-29ff.)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Insensitivity</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Hardness</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Dead</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Stiff-necked (stubborn? Proud?)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Ears dull of hearing</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Eyes dull of seeing</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Instability</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A reed blowing in the wind</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Chaff driven by the wind</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A ship tossed to and fro in the wind (Ephesians<b>
+4</b>:14)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The waves of the sea blown around by the wind
+(James <b>1</b>:6; Jude 12)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Internal Sources of Quality</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Effulgence (direct shining) <i>vs.</i>
+reflection (Hebrews <b>1</b>:3)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Being salt that supplies flavor <i>vs.</i> food
+that receives flavor from the salt (Mark<b> 9</b>:50)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Having the law of God written on the heart
+rather than on external tablets of stone </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            (Jeremiah <b>31</b>; 2 Corinthians <b>3</b>)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Indwelling of the Holy Spirit/Christ</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Jesus</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Son</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Only Begotten Son</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Firstborn</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Teacher (John <b>13</b>:13)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Word</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Good Shepherd</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      High Priest</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      King</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Lord/Master (</span><span lang=EL
+style='font-size:12.0pt'>κύριος</span><span style='font-size:12.0pt'>, <i>kyrios</i>;
+John <b>13</b>:13)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Pioneer/Forerunner</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Bread of Life (manna)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Light of the World</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Water of Life</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The Vine</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Apostle</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Son of Man</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Messiah/Christ</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The Door of the Sheep (John<b> 10</b>:7)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Resurrection (John <b>11</b>:25)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Joy over improvement in comparison to goodness</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Matthew<b> 18</b>:12-13; Luke<b> 15</b>:4-7</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Judgment Day</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Like settling up business accounts</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Like settling up responsibilities and
+performances (Matthew<b> 25</b>:14-30)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Like separating sheep from goats (Matthew <b>25</b>:32-33
+&lt; Ezekiel <b>34</b>:17, cp. 20)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Like separating chaff from wheat</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Like separating wheat from tares/weeds</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Law</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Ceasing of the law to have jurisdiction over us</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      a.   dying</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      b.   abrogation/annulment</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      c.   nailing the law to the cross (Colossians <b>2</b>:14;
+cp. Romans <b>10</b>:4; Galatians <b>3</b>:13; <b>5</b>:1)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Leadership/greatness, proper</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Jesus washed his disciples’ feet.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Jesus used a little child to represent the
+mentality of greatness in the kingdom.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Leaders who do not know what they are doing are
+like blind people trying to lead blind </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            people (Matthew <b>15</b>:14; Luke<b> 6</b>:39).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Loudness</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Noise of battle</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Many waters: the crashing of waves against the
+shore</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Thunder</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Number</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      *Sand by the seashore (Genesis <b>22</b>:17; <b>32</b>:12;
+<b>41</b>:49; Joshua <b>11</b>:4; 1 Samuel<b> 13</b>:5; 1 Kings<b> 4</b>:20,
+29; Job <b>29</b>:18; Psalm <b>78</b>:27; <b>139</b>:18; Isaiah <b>10</b>:22; <b>48</b>:19;
+Jeremiah <b>15</b>:8; <b>33</b>:22; Hosea <b>1</b>:10; Habakkuk <b>1</b>:9;
+Romans <b>9</b>:27; Hebrews <b>11</b>:12; Revelation <b>20</b>:8)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      *Stars in the sky (Genesis <b>15</b>:5; <b>22</b>:17;
+<b>26</b>:4; <b>32</b>:12; Hebrews<b> 11</b>:12; Deuteronomy <b>1</b>:10; <b>10</b>:22;<b>
+28</b>:62; Exodus<b> 32</b>:13; 1 Chronicles <b>27</b>:23; Nehemiah <b>9</b>:23;
+Psalm<b> 147</b>:4; Daniel <b>12</b>:3; Nahum <b>3</b>:16)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The hairs on the head (Matthew <b>10</b>:30 =
+Luke <b>12</b>:7)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Cloud (Hebrews <b>12</b>:1)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Water</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Omniscience</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Hairs of your head are numbered (Matthew <b>10</b>:30
+= Luke <b>12</b>:7)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      God knows when a sparrow falls to the ground
+(Matthew <b>10</b>:29 = Luke <b>12</b>:6)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Ordeal</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Drinking a cup (Matthew<b> 20</b>:22 = Mark <b>10</b>:38,
+39; Matthew <b>26</b>:39, 42; Luke<b> 22</b>:42; </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            John <b>18</b>:11 &lt; Isaiah <b>51</b>:17,
+22; Jeremiah <b>49</b>:12)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Being baptized with a baptism (Mark<b> 10</b>:38-39;
+Luke <b>12</b>:50)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Taking up a cross</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Being in travail</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Outsider</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Samaritan</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Publican (Matthew<b> 18</b>:17)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Gentiles/uncircumcised (Matthew <b>18</b>:17)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Person in the outer darkness</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Person outside the wedding feast</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            The five foolish virgins</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Overcoming obstacles/opposition</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Putting something/someone under your feet
+(Ephesians <b>1</b>:22)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Overwhelming opposition</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Baptism</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Flood</span></p>
+
+<p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Patience/endurance/steadfastness</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Job symbolizes patience/endurance (James <b>5</b>:11).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The prophets who spoke for the Lord are examples
+of endurance (James <b>5</b>:10).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A husbandman waiting for the fruit of the
+vineyard (James <b>5</b>:7)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Prayer</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The effectiveness of prayer is represented by
+Elijah (James <b>5</b>:17-18).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A friend will help especially if the requester
+is urgent about his request even though </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            responding will inconvenience the one who
+answers it (Luke<b> 11</b>:5-8).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The parable of the Unjust Judge and the
+Importunate Widow (Luke <b>18</b>:1-8)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Knocking on a door is like praying/asking God
+for something (Matthew <b>7</b>:8; Luke </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>11</b>:1).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Private</span></b><span style='font-size:12.0pt'> (<i>vs</i>.
+public)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Inner chamber <i>vs.</i> housetops (Luke <b>12</b>:3)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Darkness (<i>vs.</i> light) (= night <i>vs.</i>
+daylight; Luke <b>12</b>:3)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Hid (<i>vs.</i> revealed; Luke <b>12</b>:2)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Whispered in the ear (<i>vs.</i> shouted from
+the housetops; Luke <b>12</b>:3)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>       Closet (<i>vs.</i> street corners; Matthew <b>6</b>:5,
+6)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Provision </span></b><span style='font-size:12.0pt'>(divine)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Provides for:</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            The lilies (Matthew <b>6</b>:28-30; Luke <b>12</b>:27)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Ravens/sparrows (Luke <b>12</b>:24)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Grass (Luke <b>12</b>:28)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>        </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>(Public <i>vs</i>. Private; see “Private” <i>vs</i>.
+“Public”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Purification</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Water represents cleansing.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Fire represents purification, especially that
+kind that comes from enduring trials.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Winnowing blows the chaff out of the mixture of
+wheat and chaff.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Circumcision</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Pruning trees (Romans <b>11</b>), grape vines (under
+the image of cleansing—John <b>15</b>:2)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Amputation: cutting off a hand/foot that “offends”
+(Matthew <b>5</b>:29-30; <b>18</b>:8; Mark </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>9</b>:43-44)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Removing an eye that “offends” (Matthew<b> 5</b>:29;
+Mark <b>9</b>:47)</span></p>
+
+<p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Quick</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Blink of an eye (1 Corinthians <b>15</b>:52)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Readiness/Preparedness</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Loins girded up (Luke <b>12</b>:35)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Lamps trimmed/burning (Luke <b>12</b>:35)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Watchmen watching</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The returning of a master at a time when the
+slave in charge does not expect (Matthew </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>24</b>:45-51)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The decision of God to take a man’s life (Luke <b>12</b>:16-21,
+The Parable of the Rich Fool)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The Parable of the Ten Virgins (Matthew <b>25</b>:1-13)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The Parable of the Ten Talents</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The Parable of the Ten Pounds</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Relationship to God</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Lack of relationship</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Lostness as with a lamb/sheep</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Death (John <b>8</b>:51-53)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Presence of relationship</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Being found</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Life</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Resurrection</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Jonah in the whale three days and nights (Luke <b>11</b>:29;
+Matthew<b> 12</b>:39-40)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Road</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      A road/way represents a way of life</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      *The Way became a term for early Christianity
+(Acts <b>9</b>:2; <b>19</b>:9, 23;<b> 22</b>:4; <b>24</b>:14, 22)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Preparing the road for someone means getting
+ready for them (Malachi <b>3</b>:1; Isaiah <b>40</b>:3-</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            5 &gt; Matthew <b>3</b>:3 = Mark <b>1</b>:2-3
+= Luke<b> 3</b>:4-6 = John <b>1</b>:23).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Salvation</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Salvation is set forth in: </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <u>Creation/re-creation terms</u>
+(Galatians<b> 6</b>:15)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <u>Birth terms</u> (John <b>3</b>:3-9; 1
+Peter <b>1</b>:3, 22; Titus <b>3</b>:5)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <u>Purchasing terms</u>: Buying, ransoming</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>       Rebirth/new birth (John <b>3</b>:3-9; Titus<b>
+3</b>:5)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>       Restoration of the image (Colossians <b>3</b>:10)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Resurrection</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Sanctification</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>       Justification</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>       (Re-)grafting into the olive tree</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>       Circumcision</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>       Baptism in the Holy Spirit</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>       Putting off the old man/putting on the new
+man/putting on Christ (Colossians<b> 3</b>:9-10; </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Galatians <b>3</b>:27)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
+style='font-size:12.0pt'><span style='text-decoration:none'>&nbsp;</span></span></u></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Sand</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Innumerableness (Psalm<b> 139</b>:18)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Heaviness (Proverbs <b>27</b>:3; Job<b> 6</b>:3)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Insecure as a foundation (Matthew<b> 7</b>:26)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Sandals</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Not worthy to untie sandals = humility statement
+(Matthew <b>3</b>:11; Mark <b>1</b>:7; Luke <b>3</b>:16)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Satan</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Dragon</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Serpent/snake</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Beelzebub/Beelzeboul (“lord of the fly”)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Savior, Jesus as</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Sacrificial imagery</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            He is called the “Lamb of God” (John<b> 1</b>:29,
+36; Revelation <b>5</b>:6, 8, 12, 13; <b>6</b>:1; 1 </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>                  John 3:5)      </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Self-Denial</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Taking up the cross and following Jesus
+(Matthew10:38; <b>16</b>:24; Mark <b>8</b>:34; Luke <b>9</b>:23; </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>14</b>:27)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Sin</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Is like dirt that makes spots on a person (James
+<b>1</b>:27)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Is like a piece of sawdust in a person’s eye
+(Matthew<b> 7</b>:3-5)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Is like a beam in a person’s eye (Matthew<b> 7</b>:3-5)</span></p>
+
+<p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Size</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Small size represents lack of importance; amount
+represents degree</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Smallness</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Mustard seed (relationally speaking)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Mote/speck of dust (Matthew<b> 7</b>:3-5)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            The Hebrew </span><span lang=HE dir=RTL
+style='font-size:12.0pt'>יֹד</span><span dir=LTR></span><span style='font-size:
+12.0pt'><span dir=LTR></span> (<i>yod</i>, Matthew <b>5</b>:18)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            The tittles (horns on Hebrew letters;
+Matthew <b>5</b>:18)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Gnat (Mathew <b>23</b>:24)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Largeness </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      God’s greatness is pictured by saying that <i>“heaven
+is his throne and earth is his footstool”</i> (Isaiah <b>66</b>:1; Acts <b>7</b>:49;
+Matthew <b>5</b>:34-35; <b>23</b>:22?); moon, stars, and sky are the work of
+God’s “fingers” (Psalm <b>8</b>:3)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Camel <i>vs.</i> a gnat (Matthew<b> 23</b>:24)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      The eye of a needle (Matthew<b> 19</b>:24 = Mark
+<b>10</b>:25 = Luke <b>18</b>:25)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Spirit (Holy)</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Wind (John <b>3</b>)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Water</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Oil (olive)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Dove (Matthew <b>3</b>:16 = Mark <b>1</b>:10 =
+Luke<b> 3</b>:22 = John <b>1</b>:32-33)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Tongues of fire (Acts <b>2</b>:2; cp. burning
+bush?)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Paraclete/Comforter/Advocate</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Giving/receiving the Spirit</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Insufflation (John <b>20</b>:22)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Filling of the Spirit</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Outpouring of the Spirit</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Shedding forth of the Spirit</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Giving the Spirit</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Being baptized in the Spirit</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Speaking for God/evangelizing</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Fishing (Matthew <b>4</b>:19; Mark<b> 1</b>:17;
+Luke <b>5</b>:10)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      *Ambassadors (2 Corinthians<b> 5</b>:20;
+Ephesians <b>6</b>:20; Philemon 9 [manuscript variant])</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      *Apostles (Luke<b> 6</b>:13, <i>etc</i>.)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Going after stray sheep (Matthew <b>18</b>:12-13;
+Luke <b>15</b>:3-7)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Stars</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Multitude</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Height (Job<b> 22</b>:12; Isaiah <b>14</b>:13)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Suffering among good things</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Discipline of a child</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Childbirth pains</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Temporary abode of Christians in the world</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      </span><span lang=FR style='font-size:12.0pt'>Diaspora/Dispersion</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>      Sojourners</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
+style='font-size:12.0pt'>      </span><span style='font-size:12.0pt'>Pilgrims
+(Hebrews<b> 11</b>:13)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Total new system</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Re-birth/born again (John <b>3</b>; Titus <b>3</b>:5)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Re-creation/new creature (Galatians <b>6</b>:15)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      New wineskins</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Resurrection (Romans<b> 6</b>)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Ascension</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Transitoriness</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Grass, which is here today and gone tomorrow
+(Matthew <b>6</b>:30)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Water vapor (James <b>4</b>:14)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Understanding</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Coming to understand</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            en<u>light</u>enment</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Unfaithfulness</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Adultery (and fornication)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Breaking a covenant</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>Being brought into what is not <b>naturally </b>yours 
+ </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Adoption</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Naturalization</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Grafting wild olive branches into the Abrahamic
+olive tree</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt'><b><span style='font-size:12.0pt'>Unproductiveness</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>&nbsp;</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Trees that do not bear fruit</span></p>
+
+<p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Valuing something</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Exaltation</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Treasuring</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Weighty</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Sand (Proverbs <b>27</b>:3; Job<b> 6</b>:3)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Stone (Proverbs <b>27</b>:3)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt'>Wisdom/Slyness</span></b></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Serpent (Matthew <b>10</b>:16)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      Fox (Luke <b>13</b>:32)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>Not being able to satisfy people: kids playing
+(Matthew <b>11</b>:16-19)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>Making something publicly known is “shouting it from
+the housetops” (Matthew <b>10</b>:27).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>Doing good to everyone: God sends rain on the just and
+unjust and shines his sun on the good and evil (Matthew<b> 5</b>:45).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-27.0pt;
+margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><b><span
+style='font-size:12.0pt'>PART III: MIXED METAPHORS</span></b></p>
+
+<p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      1.   The <b>body</b> is said to be both like a <u>tent</u>
+and like <u>clothes</u> in the same illustration (2 Corinthians <b>5</b>:1-10;
+2 Peter<b> 1</b>:13-14); “putting of” normally has to do with taking off
+clothes, but here it is combined with tabernacle imagery.</span></p>
+
+<p class=MsoNormal style='margin-right:-27.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-27.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-27.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-27.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal align=center style='margin-right:-27.0pt;text-align:center'><b><span
+style='font-size:12.0pt'>PART IV: SYMBOLIC GESTURES/PERFORMATIVE ACTS</span></b></p>
+
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-27.0pt;
+margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
+style='font-size:12.0pt'>(note footwashing application)</span></p>
+
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-27.0pt;
+margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      1.   Pilate washed his hands of the matter
+(Matthew<b> 27</b>:24-26).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      2.   Shaking dust off your feet at someone
+(Matthew<b> 10</b>:14; Mark <b>6</b>:11; Acts <b>13</b>:51)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      3.   Tearing one’s clothes (Job <b>2</b>:12)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      4.   Baptism</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      5.   Communion</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      6.   Jesus washing the disciples’ feet</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      7.   Taking a child in his arms</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      8.   Having the disciples take two swords into
+the Garden of Gethsemane (Luke <b>23</b>:38)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      9.   Agabus bound himself with a girdle.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      10. Jesus wrote (doodling?) in the sand at the
+temple (woman taken in adultery).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      11. Gnashing at/on someone with the teeth (Acts<b>
+7</b>:54)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      12. Throwing dirt into the air (Acts<b> 22</b>:23;
+2 Samuel <b>16</b>:13; Revelation <b>18</b>:19; Joshua </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>7</b>:6; Lamentations <b>2</b>:10; Job <b>2</b>:12)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      13. Sitting in sackcloth and ashes is a sign of
+repentance.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      14. Shaking out one’s garment (Acts <b>18</b>:6)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      15. Put fingers in the ears of a deaf man, spat,
+touched his tongue, and sighed and </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            looked up to heaven (Mark <b>7</b>:31-35)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      16. Jesus spat on the eyes of a blind man (Mark <b>8</b>:23).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      17. Spreading garments and palm branches along
+the route of a dignitary (Mark <b>11</b>:8)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      18. Jesus cursed the fig tree (Mark <b>11</b>:12-14,
+20-21).</span></p>
+
+<p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      19. Beating the chest (Luke <b>23</b>:48)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      20. Pouring on Jesus’ head/feet (Matthew <b>26</b>:6-13
+= Mark <b>14</b>:3-9 = John <b>12</b>:1-8; Luke </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            <b>7</b>:36-50)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      21. Giving the sop to Judas (John <b>13</b>:24-30)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      22. The betrayal kiss (Mark <b>14</b>:45; Luke <b>22</b>:47-48)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      23. Taking a coin and showing it to the
+Pharisees and then asking whose image and </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            superscription was on it</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      24. Cleansing the temple</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      25. The widow’s mite (Luke <b>21</b>:1-4)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      26. Asking the woman at the well for water (John<b>
+3</b>:5ff.)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.75in;margin-bottom:.0001pt;text-align:justify;text-indent:
+-.5in'><span style='font-size:12.0pt'>      27. In the upper room after the
+resurrection, Jesus blew on the disciples as a picture of giving them the Holy
+Spirit (John <b>20</b>:22)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      28. Shaving the head</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      29. Anointing with oil</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      30. Stopping the ears (Acts<b> 7</b>:57)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
+style='font-size:12.0pt'>            31. Putting the hand under the thigh
+(Genesis <b>24</b>:<u>2</u>-<u>9</u>; <b>47</b>:29-31)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      32. Taking a shoe and giving it to another
+person as an attestation (Ruth <b>4</b>:7-12;     </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            Deuteronomy <b>25</b>:8-10)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.75in;margin-bottom:.0001pt;text-align:justify;text-indent:
+-.5in'><span style='font-size:12.0pt'>      33. Taking a shoe from off the feet
+and spitting in the face of the man who refuses to raise up children
+(Deuteronomy<b> 25</b>:8-10)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      34. Holding up hands in prayer or worship (2
+Timothy <b>2</b>:8)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      35. Prostrating oneself in front of another
+person to show allegiance, deference, and so </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            on</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      36. Wearing the <u>v</u>eil as a symbol of
+submission to the authority of a husband        </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>            (1 Corinthians<b> 11</b>:4-16)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>      37. Shaking out their raiments (Acts <b>28</b>:6;
+Nehemiah<b> 5</b>:13)</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<span style='font-size:12.0pt;font-family:"Times New Roman",serif'><br
+clear=all style='page-break-before:always'>
+</span>
+
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-27.0pt;
+margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><b><span
+style='font-size:12.0pt'>VIVID WAYS OF SAYING THINGS</span></b></p>
+
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:-27.0pt;
+margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
+style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.5in;margin-bottom:.0001pt;text-indent:-.25in'><span
+style='font-size:12.0pt'>1.   If the children had been quiet at Christ’s
+Triumphal Entry, the very stones would have cried out (Luke <b>19</b>:40;
+Habakkuk<b> 2</b>:11; cp. Joshua <b>24</b>:27).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>2.   Days
+will come when there will not be one stone on top of another (Luke <b>21</b>:6).</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>                                                                                                                              </span><span
+style='font-size:11.0pt'>christir.org</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
+0in;margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
+</div>
