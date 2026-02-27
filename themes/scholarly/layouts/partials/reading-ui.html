@@ -43,7 +43,7 @@ body.overlay-open {
 }
 
 /* ============================================
-   READING TOOLBAR
+   READING TOOLBAR (Bible.com style)
    ============================================ */
 .reading-toolbar {
     display: flex;
@@ -56,20 +56,61 @@ body.overlay-open {
     top: 0;
     background: var(--color-bg, #fff);
     z-index: 100;
+    /* Widen beyond 600px content to 900px */
+    margin-left: -150px;
+    margin-right: -150px;
 }
 
 .toolbar-left {
     display: flex;
     align-items: center;
-    gap: 0.5rem;
+    gap: 0.75rem;
 }
 
 .toolbar-right {
     display: flex;
     align-items: center;
-    gap: 0.5rem;
+    gap: 0.35rem;
 }
 
+/* Outlined select style */
+.toolbar-select {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+    cursor: pointer;
+    padding: 0.45rem 0.75rem;
+    border: 1px solid var(--color-border, #e5e5e5);
+    border-radius: 8px;
+    transition: all 0.15s ease;
+}
+
+.toolbar-select:hover {
+    border-color: var(--color-accent, #9c7c38);
+    background: var(--color-bg-alt, #f9f9f9);
+}
+
+.toolbar-select-value {
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--color-primary, #000);
+    line-height: 1;
+}
+
+.toolbar-select svg {
+    color: var(--color-text-secondary, #555);
+}
+
+.toolbar-translation-static {
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.8rem;
+    color: var(--color-text-muted, #888);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+}
+
+/* Bordered button style (AA, PDF) */
 .toolbar-btn {
     background: none;
     border: 1px solid var(--color-border, #e5e5e5);
@@ -95,14 +136,7 @@ body.overlay-open {
     width: 1px;
     height: 20px;
     background: var(--color-border, #e5e5e5);
-}
-
-.toolbar-translation {
-    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
-    font-size: 0.8rem;
-    color: var(--color-text-muted, #888);
-    text-transform: uppercase;
-    letter-spacing: 0.06em;
+    margin: 0 0.25rem;
 }
 
 /* Font size button */
@@ -388,8 +422,8 @@ body.overlay-open {
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
 }
 
-.float-prev { left: 12px; }
-.float-next { right: 12px; }
+.float-prev { left: max(12px, calc(50% - 420px)); }
+.float-next { right: max(12px, calc(50% - 420px)); }
 
 .float-arrow:hover {
     background: var(--color-primary, #000);
@@ -407,8 +441,120 @@ body.overlay-open {
     padding: 0 60px;
 }
 
-.chapter-body {
+/* Widen in parallel mode */
+.chapter-reading.parallel-active {
+    max-width: 1200px;
+    padding: 0 24px;
+}
+.chapter-reading.parallel-active .reading-toolbar {
+    margin-left: 0;
+    margin-right: 0;
+}
+/* In parallel mode, tuck arrows to screen edges */
+.chapter-reading.parallel-active .float-prev { left: 12px; }
+.chapter-reading.parallel-active .float-next { right: 12px; }
+
+/* ============================================
+   PARALLEL SPLIT LAYOUT
+   ============================================ */
+.chapter-split {
     padding: 0 0 2rem;
+}
+
+.chapter-split.parallel-mode {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+}
+
+.chapter-pane-right {
+    border-left: 1px solid var(--color-border, #e5e5e5);
+    padding-left: 2rem;
+}
+
+.pane-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--color-border, #e5e5e5);
+}
+
+.pane-label {
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--color-text-muted, #888);
+}
+
+.pane-close {
+    background: none;
+    border: 1px solid var(--color-border, #e5e5e5);
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    font-size: 0.75rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--color-text-muted, #888);
+    transition: all 0.15s;
+}
+
+.pane-close:hover {
+    background: var(--color-primary, #000);
+    color: #fff;
+    border-color: var(--color-primary, #000);
+}
+
+.parallel-loading {
+    color: var(--color-text-muted, #888);
+    font-style: italic;
+    text-align: center;
+    padding: 2rem 0;
+}
+
+/* Active state for parallel toggle button */
+.parallel-btn.active {
+    background: var(--color-primary, #000);
+    color: #fff;
+    border-color: var(--color-primary, #000);
+}
+
+/* ============================================
+   TOOLBAR TOOLTIPS (CSS, instant)
+   ============================================ */
+.toolbar-right .toolbar-btn,
+.toolbar-right .pdf-btn-minimal {
+    position: relative;
+}
+.toolbar-right .toolbar-btn::after,
+.toolbar-right .pdf-btn-minimal::after {
+    content: attr(data-tip);
+    position: absolute;
+    bottom: -32px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: var(--color-primary, #000);
+    color: #fff;
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.7rem;
+    font-weight: 500;
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
+    white-space: nowrap;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.15s;
+    z-index: 200;
+}
+.toolbar-right .toolbar-btn:hover::after,
+.toolbar-right .pdf-btn-minimal:hover::after {
+    opacity: 1;
 }
 
 .chapter-footer {
@@ -426,28 +572,28 @@ body.overlay-open {
 
 /* ============================================
    FONT SIZE + FONT FAMILY
-   Applied to #chapter-text (.chapter-body)
+   Applied to #chapter-text and #parallel-pane
    ============================================ */
-#chapter-text.font-small,
-#chapter-text.font-small h2,
-#chapter-text.font-small h3 { font-size: 0.95rem; }
+#chapter-text.font-small, #parallel-pane.font-small,
+#chapter-text.font-small h2, #parallel-pane.font-small h2,
+#chapter-text.font-small h3, #parallel-pane.font-small h3 { font-size: 0.95rem; }
 
-#chapter-text.font-medium { font-size: 1.1rem; }
-#chapter-text.font-medium h2 { font-size: 1.35rem; }
-#chapter-text.font-medium h3 { font-size: 1.15rem; }
+#chapter-text.font-medium, #parallel-pane.font-medium { font-size: 1.1rem; }
+#chapter-text.font-medium h2, #parallel-pane.font-medium h2 { font-size: 1.35rem; }
+#chapter-text.font-medium h3, #parallel-pane.font-medium h3 { font-size: 1.15rem; }
 
-#chapter-text.font-large { font-size: 1.3rem; }
-#chapter-text.font-large h2 { font-size: 1.6rem; }
-#chapter-text.font-large h3 { font-size: 1.35rem; }
+#chapter-text.font-large, #parallel-pane.font-large { font-size: 1.3rem; }
+#chapter-text.font-large h2, #parallel-pane.font-large h2 { font-size: 1.6rem; }
+#chapter-text.font-large h3, #parallel-pane.font-large h3 { font-size: 1.35rem; }
 
-#chapter-text.font-serif,
-#chapter-text.font-serif h2,
-#chapter-text.font-serif h3 {
+#chapter-text.font-serif, #parallel-pane.font-serif,
+#chapter-text.font-serif h2, #parallel-pane.font-serif h2,
+#chapter-text.font-serif h3, #parallel-pane.font-serif h3 {
     font-family: 'Source Serif Pro', Georgia, serif;
 }
-#chapter-text.font-sans,
-#chapter-text.font-sans h2,
-#chapter-text.font-sans h3 {
+#chapter-text.font-sans, #parallel-pane.font-sans,
+#chapter-text.font-sans h2, #parallel-pane.font-sans h2,
+#chapter-text.font-sans h3, #parallel-pane.font-sans h3 {
     font-family: 'Source Sans Pro', system-ui, sans-serif;
 }
 
@@ -455,17 +601,55 @@ body.overlay-open {
    RESPONSIVE
    ============================================ */
 @media (max-width: 900px) {
+    .reading-toolbar {
+        margin-left: 0;
+        margin-right: 0;
+    }
     .float-arrow {
         width: 32px;
         height: 64px;
     }
-    .float-prev { left: 6px; }
-    .float-next { right: 6px; }
+    .float-prev { left: 8px; }
+    .float-next { right: 8px; }
     .chapter-reading { padding: 0 48px; }
+}
+
+@media (max-width: 900px) {
+    /* Stack parallel panes vertically on medium screens */
+    .chapter-split.parallel-mode {
+        grid-template-columns: 1fr;
+    }
+    .chapter-pane-right {
+        border-left: none;
+        padding-left: 0;
+        border-top: 1px solid var(--color-border, #e5e5e5);
+        padding-top: 1.5rem;
+    }
+    .chapter-reading.parallel-active {
+        max-width: 720px;
+        padding: 0 48px;
+    }
 }
 
 @media (max-width: 640px) {
     .chapter-reading { padding: 0 12px; }
+    .chapter-reading.parallel-active { padding: 0 12px; }
+
+    .reading-toolbar {
+        gap: 0.5rem;
+    }
+
+    .toolbar-select-value {
+        font-size: 0.82rem;
+    }
+
+    .toolbar-left {
+        gap: 0.4rem;
+    }
+
+    .toolbar-divider {
+        display: none;
+    }
 
     .float-arrow {
         width: 32px;
@@ -476,10 +660,6 @@ body.overlay-open {
     }
     .float-prev { left: 8px; }
     .float-next { right: 8px; }
-
-    .toolbar-translation {
-        display: none;
-    }
 
     .reader-settings {
         right: 12px;
@@ -633,7 +813,7 @@ function toggleOverlay(id) {
 }
 
 // Close overlay on backdrop click
-['book-overlay', 'chapter-overlay'].forEach(function(id) {
+['book-overlay', 'chapter-overlay', 'trans-overlay'].forEach(function(id) {
     var el = document.getElementById(id);
     if (el) el.addEventListener('click', function(e) {
         if (e.target === this) closeOverlay(id);
@@ -653,6 +833,12 @@ function toggleChapterOverlay() {
     toggleOverlay('chapter-overlay');
 }
 
+/* ---- Translation Overlay ---- */
+function toggleTransOverlay() {
+    var el = document.getElementById('trans-overlay');
+    if (el) toggleOverlay('trans-overlay');
+}
+
 /* ---- Reader Settings ---- */
 function toggleReaderSettings() {
     var rs = document.getElementById('reader-settings');
@@ -669,13 +855,20 @@ function toggleReaderSettings() {
 /* ---- Font Size ---- */
 var currentFontSize = 'font-medium';
 
+function syncParallelPane() {
+    var pp = document.getElementById('parallel-pane');
+    if (!pp) return;
+    pp.classList.remove('font-small', 'font-medium', 'font-large', 'font-serif', 'font-sans');
+    pp.classList.add(currentFontSize, currentFontFamily);
+}
+
 function setFontSize(size) {
     var el = document.getElementById('chapter-text');
     if (!el) return;
     el.classList.remove('font-small', 'font-medium', 'font-large');
     el.classList.add(size);
     currentFontSize = size;
-    // Update active button
+    syncParallelPane();
     document.querySelectorAll('#font-size-group .rs-toggle').forEach(function(btn) {
         btn.classList.toggle('active', btn.getAttribute('data-size') === size);
     });
@@ -691,7 +884,7 @@ function setFontFamily(font) {
     el.classList.remove('font-serif', 'font-sans');
     el.classList.add(font);
     currentFontFamily = font;
-    // Update active button
+    syncParallelPane();
     document.querySelectorAll('#font-family-group .rs-toggle').forEach(function(btn) {
         btn.classList.toggle('active', btn.getAttribute('data-font') === font);
     });
@@ -727,6 +920,7 @@ document.addEventListener('keydown', function(e) {
     if (e.key === 'Escape') {
         closeOverlay('book-overlay');
         closeOverlay('chapter-overlay');
+        closeOverlay('trans-overlay');
         var rs = document.getElementById('reader-settings');
         if (rs.style.display !== 'none') toggleReaderSettings();
         return;

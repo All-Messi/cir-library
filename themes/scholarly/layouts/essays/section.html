@@ -55,7 +55,7 @@
         <div class="essay-list">
             {{ range .RegularPages.ByTitle }}
             <article class="essay-row">
-                <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                <h3><a href="{{ .Permalink }}"><svg class="essay-icon" width="14" height="14" viewBox="0 0 16 16" fill="none"><path d="M4 1h5.5L13 4.5V13a2 2 0 01-2 2H5a2 2 0 01-2-2V3a2 2 0 012-2z" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/><path d="M9.5 1v4H13" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/></svg>{{ .Title }}</a></h3>
                 {{ if .Params.author }}
                 <span class="essay-author">{{ .Params.author }}</span>
                 {{ end }}
@@ -213,8 +213,21 @@
 .essay-row h3 a {
     color: var(--color-text, #1a1a1a);
     text-decoration: none;
+    display: inline-flex;
+    align-items: baseline;
+    gap: 0.4rem;
 }
 .essay-row h3 a:hover {
+    color: var(--color-accent, #9c7c38);
+}
+.essay-icon {
+    flex-shrink: 0;
+    position: relative;
+    top: 0.15em;
+    color: var(--color-text-muted, #aaa);
+    transition: color 0.15s;
+}
+.essay-row h3 a:hover .essay-icon {
     color: var(--color-accent, #9c7c38);
 }
 .essay-author {

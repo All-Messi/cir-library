@@ -3,27 +3,68 @@
 {{ $currentChapter := .Params.chapter }}
 {{ $translation := .Parent.Parent }}
 
+{{/* --- Build cross-translation links --- */}}
+{{ $bookSlug := path.Base (strings.TrimSuffix "/" .Parent.RelPermalink) }}
+{{ $chapterSlug := .File.ContentBaseName }}
+{{ $currentTransSlug := path.Base (strings.TrimSuffix "/" $translation.RelPermalink) }}
+{{ $currentAbbrev := .Params.translation }}
+
+{{/* Check each translation for this book + chapter */}}
+{{ $otherTranslations := slice }}
+{{ $transList := slice "cnt-nt" "cnt-ot" "wooden-nt" "cyv" }}
+{{ range $transList }}
+    {{ $ts := . }}
+    {{ if ne $ts $currentTransSlug }}
+        {{ $targetPath := printf "/translations/%s/%s/%s" $ts $bookSlug $chapterSlug }}
+        {{ $targetPage := $.Site.GetPage $targetPath }}
+        {{ if $targetPage }}
+            {{ $otherTranslations = $otherTranslations | append (dict
+                "abbrev" ($targetPage.Params.translation | default "?")
+                "url" $targetPage.RelPermalink
+                "slug" $ts
+                "title" (cond (eq $ts "cnt-nt") "Conversational NT"
+                        (cond (eq $ts "cnt-ot") "Conversational OT"
+                        (cond (eq $ts "wooden-nt") "Wooden NT"
+                        (cond (eq $ts "cyv") "Yahveh Covenant" $ts))))
+            ) }}
+        {{ end }}
+    {{ end }}
+{{ end }}
+
 <article class="chapter-reading" id="chapter-reading">
     <!-- Top Toolbar -->
-    <nav class="reading-toolbar">
+    <nav class="reading-toolbar" id="reading-toolbar">
         <div class="toolbar-left">
-            <button class="toolbar-btn" onclick="toggleBookOverlay()">
-                {{ .Params.book }}
-                <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M3 5l3 3 3-3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
-            </button>
+            <div class="toolbar-select" onclick="toggleBookOverlay()">
+                <span class="toolbar-select-value">{{ .Params.book }}</span>
+                <svg width="10" height="10" viewBox="0 0 12 12" fill="none"><path d="M3 5l3 3 3-3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+            </div>
 
-            <button class="toolbar-btn" onclick="toggleChapterOverlay()">
-                Chapter {{ .Params.chapter }}
-                <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M3 5l3 3 3-3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
-            </button>
+            <div class="toolbar-select" onclick="toggleChapterOverlay()">
+                <span class="toolbar-select-value">{{ .Params.chapter }}</span>
+                <svg width="10" height="10" viewBox="0 0 12 12" fill="none"><path d="M3 5l3 3 3-3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+            </div>
 
             <span class="toolbar-divider"></span>
 
-            <span class="toolbar-translation">{{ $translation.Title }}</span>
+            {{ if gt (len $otherTranslations) 0 }}
+            <div class="toolbar-select" onclick="toggleTransOverlay()">
+                <span class="toolbar-select-value">{{ $currentAbbrev }}</span>
+                <svg width="10" height="10" viewBox="0 0 12 12" fill="none"><path d="M3 5l3 3 3-3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+            </div>
+            {{ else }}
+            <span class="toolbar-translation-static">{{ $currentAbbrev }}</span>
+            {{ end }}
         </div>
         <div class="toolbar-right">
+            {{/* Parallel button — only if other translations exist */}}
+            {{ if gt (len $otherTranslations) 0 }}
+            <button class="toolbar-btn parallel-btn" id="parallel-toggle" onclick="toggleParallel()" data-tip="Parallel">
+                <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><rect x="1" y="2" width="5.5" height="12" rx="1" stroke="currentColor" stroke-width="1.2"/><rect x="9.5" y="2" width="5.5" height="12" rx="1" stroke="currentColor" stroke-width="1.2"/></svg>
+            </button>
+            {{ end }}
             {{ partial "pdf-link.html" (dict "page" . "style" "toolbar") }}
-            <button class="toolbar-btn font-btn" onclick="toggleReaderSettings()" title="Reader settings">
+            <button class="toolbar-btn font-btn" onclick="toggleReaderSettings()" data-tip="Text size">
                 <span class="font-icon">A</span><span class="font-icon font-icon-lg">A</span>
             </button>
         </div>
@@ -62,6 +103,26 @@
         </div>
     </div>
 
+    <!-- Translation Overlay -->
+    {{ if gt (len $otherTranslations) 0 }}
+    <div id="trans-overlay" class="overlay" style="display:none;">
+        <div class="overlay-content overlay-narrow">
+            <div class="overlay-header">
+                <h3>Translation</h3>
+                <button class="overlay-close" onclick="toggleTransOverlay()">✕</button>
+            </div>
+            <div class="books-list">
+                <span class="book-item active">{{ $currentAbbrev }} — {{ $translation.Title }}</span>
+                {{ range $otherTranslations }}
+                <a href="{{ .url }}" class="book-item">
+                    {{ .abbrev }} — {{ .title }}
+                </a>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+    {{ end }}
+
     <!-- Floating Prev/Next Arrows -->
     {{ if .Params.prev }}
     <a href="../{{ .Params.prev }}/" class="float-arrow float-prev" aria-label="Previous chapter">
@@ -74,10 +135,26 @@
     </a>
     {{ end }}
 
-    <!-- Chapter Content -->
-    <div class="chapter-body" id="chapter-text">
-        <div class="chapter-content">
-            {{ .Content }}
+    <!-- Main content area (splits in parallel mode) -->
+    <div class="chapter-split" id="chapter-split">
+        <!-- Left pane: current translation -->
+        <div class="chapter-pane chapter-pane-left" id="chapter-text">
+            <div class="pane-header" id="pane-header-left" style="display:none;">
+                <span class="pane-label">{{ $currentAbbrev }}</span>
+            </div>
+            <div class="chapter-content">
+                {{ .Content }}
+            </div>
+        </div>
+        <!-- Right pane: parallel translation (injected by JS) -->
+        <div class="chapter-pane chapter-pane-right" id="parallel-pane" style="display:none;">
+            <div class="pane-header">
+                <span class="pane-label" id="parallel-label"></span>
+                <button class="pane-close" onclick="toggleParallel()" title="Exit parallel">✕</button>
+            </div>
+            <div class="chapter-content" id="parallel-content">
+                <p class="parallel-loading">Loading…</p>
+            </div>
         </div>
     </div>
 
@@ -88,8 +165,72 @@
     </footer>
 </article>
 
-<!-- Keyboard nav data -->
+<!-- Parallel translation data -->
 <script>
+var parallelTranslations = [
+    {{ range $otherTranslations }}
+    { abbrev: "{{ .abbrev }}", url: "{{ .url }}", title: "{{ .title }}" },
+    {{ end }}
+];
+var parallelActive = false;
+var parallelLoaded = null;
+
+function toggleParallel() {
+    var split = document.getElementById('chapter-split');
+    var pane = document.getElementById('parallel-pane');
+    var btn = document.getElementById('parallel-toggle');
+    var headerLeft = document.getElementById('pane-header-left');
+    var reading = document.getElementById('chapter-reading');
+
+    if (parallelActive) {
+        // Exit parallel mode
+        parallelActive = false;
+        pane.style.display = 'none';
+        headerLeft.style.display = 'none';
+        split.classList.remove('parallel-mode');
+        reading.classList.remove('parallel-active');
+        if (btn) btn.classList.remove('active');
+    } else {
+        // Enter parallel mode — load first available translation
+        if (parallelTranslations.length === 0) return;
+        parallelActive = true;
+        split.classList.add('parallel-mode');
+        reading.classList.add('parallel-active');
+        pane.style.display = '';
+        headerLeft.style.display = '';
+        if (btn) btn.classList.add('active');
+
+        // Load the first other translation (or use cached)
+        var target = parallelTranslations[0];
+        loadParallel(target);
+    }
+}
+
+function loadParallel(target) {
+    var label = document.getElementById('parallel-label');
+    var content = document.getElementById('parallel-content');
+    label.textContent = target.abbrev;
+    content.innerHTML = '<p class="parallel-loading">Loading ' + target.title + '…</p>';
+
+    fetch(target.url)
+        .then(function(r) { return r.text(); })
+        .then(function(html) {
+            var parser = new DOMParser();
+            var doc = parser.parseFromString(html, 'text/html');
+            var chapterContent = doc.querySelector('.chapter-content');
+            if (chapterContent) {
+                content.innerHTML = chapterContent.innerHTML;
+            } else {
+                content.innerHTML = '<p class="parallel-loading">Could not load content.</p>';
+            }
+            parallelLoaded = target.abbrev;
+            if (typeof syncParallelPane === 'function') syncParallelPane();
+        })
+        .catch(function(err) {
+            content.innerHTML = '<p class="parallel-loading">Failed to load translation.</p>';
+        });
+}
+
 var prevUrl = {{ if .Params.prev }}"../{{ .Params.prev }}/"{{ else }}null{{ end }};
 var nextUrl = {{ if .Params.next }}"../{{ .Params.next }}/"{{ else }}null{{ end }};
 </script>

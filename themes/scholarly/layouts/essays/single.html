@@ -3,7 +3,7 @@
     <header class="essay-header">
         <h1>{{ .Title }}</h1>
         {{ if .Params.author }}
-        <p class="essay-author">{{ .Params.author }}</p>
+        <p class="essay-author">{{ .Params.author }} {{ partial "pdf-link.html" . }}</p>
         {{ end }}
         
         <div class="essay-badges">
@@ -21,10 +21,6 @@
             {{ end }}
         </div>
         
-        <div class="essay-actions">
-            {{ partial "pdf-link.html" . }}
-        </div>
-
         {{ if .Params.categories }}
         <div class="essay-meta">
             <span class="categories">

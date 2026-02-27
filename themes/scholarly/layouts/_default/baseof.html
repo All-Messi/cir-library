@@ -97,12 +97,18 @@
                     return;
                 }
 
-                dropdown.innerHTML = results.map(r => 
-                    '<a href="' + r.permalink + '" class="dropdown-item">' +
-                    '<span class="dropdown-title">' + r.title + '</span>' +
-                    (r.categories ? '<span class="dropdown-cat">' + r.categories[0] + '</span>' : '') +
-                    '</a>'
-                ).join('');
+                dropdown.innerHTML = results.map(r => {
+                    let subtitle = '';
+                    if (r.translation) {
+                        subtitle = r.translation;
+                    } else if (r.categories && r.categories.length > 0 && r.categories[0]) {
+                        subtitle = r.categories[0];
+                    }
+                    return '<a href="' + r.permalink + '" class="dropdown-item">' +
+                        '<span class="dropdown-title">' + r.title + '</span>' +
+                        (subtitle ? '<span class="dropdown-cat">' + subtitle + '</span>' : '') +
+                        '</a>';
+                }).join('');
                 dropdown.style.display = 'block';
             });
 
