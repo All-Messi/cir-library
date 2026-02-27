@@ -20,7 +20,7 @@ theme = 'scholarly'
     url = "/essays/"
     weight = 2
   [[menu.main]]
-    name = "Translations"
+    name = "Text"
     url = "/translations/"
     weight = 3
   [[menu.main]]

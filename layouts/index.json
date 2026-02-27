@@ -5,6 +5,8 @@
   {{- range .Params.categories -}}
     {{- $titleCats = $titleCats | append (. | lower | title) -}}
   {{- end -}}
-  {{- $index = $index | append (dict "title" .Title "permalink" .Permalink "content" (.Plain | truncate 500) "categories" $titleCats "book" .Params.book "translation" .Params.translation) -}}
+  {{- $trunc := 500 -}}
+  {{- if .Params.book }}{{ $trunc = 2000 }}{{ end -}}
+  {{- $index = $index | append (dict "title" .Title "permalink" .Permalink "content" (.Plain | truncate $trunc) "categories" $titleCats "book" .Params.book "translation" .Params.translation) -}}
 {{- end -}}
 {{- $index | jsonify -}}

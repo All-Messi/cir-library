@@ -24,7 +24,7 @@
                 <div class="header-search">
                     <div class="search-wrapper">
                         <form action="{{ "search/" | absURL }}" method="get" class="header-search-form">
-                            <input type="search" name="q" class="header-search-input" placeholder="Search essays and topics..." autocomplete="off" id="header-search-input">
+                            <input type="search" name="q" class="header-search-input" placeholder="Search essays, topics and texts..." autocomplete="off" id="header-search-input">
                             <button type="submit" class="header-search-btn" aria-label="Search">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
                                     <circle cx="11" cy="11" r="8"></circle>
@@ -36,7 +36,10 @@
                     </div>
                 </div>
 
-                <nav class="main-nav">
+                <button class="nav-toggle" id="nav-toggle" aria-label="Toggle menu" onclick="document.getElementById('main-nav').classList.toggle('nav-open'); this.classList.toggle('active');">
+                    <span></span><span></span><span></span>
+                </button>
+                <nav class="main-nav" id="main-nav">
                     <ul>
                         {{ range .Site.Menus.main }}
                         <li><a href="{{ .URL }}" {{ if $.IsMenuCurrent "main" . }}class="active"{{ end }}>{{ .Name }}</a></li>

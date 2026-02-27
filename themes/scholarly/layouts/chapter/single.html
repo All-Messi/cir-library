@@ -31,6 +31,15 @@
     {{ end }}
 {{ end }}
 
+{{/* --- Build book navigation map for current translation --- */}}
+{{ $bibleNav := slice }}
+{{ range $translation.Sections.ByWeight }}
+    {{ $book := .Params.book | default .Title }}
+    {{ $bSlug := path.Base (strings.TrimSuffix "/" .RelPermalink) }}
+    {{ $chapCount := len .Pages }}
+    {{ $bibleNav = $bibleNav | append (dict "book" $book "slug" $bSlug "chapters" $chapCount) }}
+{{ end }}
+
 <article class="chapter-reading" id="chapter-reading">
     <!-- Top Toolbar -->
     <nav class="reading-toolbar" id="reading-toolbar">
@@ -56,8 +65,17 @@
             <span class="toolbar-translation-static">{{ $currentAbbrev }}</span>
             {{ end }}
         </div>
+
+        <!-- Bible Search -->
+        <div class="toolbar-search-wrapper">
+            <div class="toolbar-search">
+                <svg class="toolbar-search-icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+                <input type="text" id="bible-search-input" class="toolbar-search-input" placeholder="Search text..." autocomplete="off">
+            </div>
+            <div id="bible-search-dropdown" class="bible-search-dropdown"></div>
+        </div>
+
         <div class="toolbar-right">
-            {{/* Parallel button — only if other translations exist */}}
             {{ if gt (len $otherTranslations) 0 }}
             <button class="toolbar-btn parallel-btn" id="parallel-toggle" onclick="toggleParallel()" data-tip="Parallel">
                 <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><rect x="1" y="2" width="5.5" height="12" rx="1" stroke="currentColor" stroke-width="1.2"/><rect x="9.5" y="2" width="5.5" height="12" rx="1" stroke="currentColor" stroke-width="1.2"/></svg>
@@ -137,7 +155,6 @@
 
     <!-- Main content area (splits in parallel mode) -->
     <div class="chapter-split" id="chapter-split">
-        <!-- Left pane: current translation -->
         <div class="chapter-pane chapter-pane-left" id="chapter-text">
             <div class="pane-header" id="pane-header-left" style="display:none;">
                 <span class="pane-label">{{ $currentAbbrev }}</span>
@@ -146,7 +163,6 @@
                 {{ .Content }}
             </div>
         </div>
-        <!-- Right pane: parallel translation (injected by JS) -->
         <div class="chapter-pane chapter-pane-right" id="parallel-pane" style="display:none;">
             <div class="pane-header">
                 <span class="pane-label" id="parallel-label"></span>
@@ -165,8 +181,9 @@
     </footer>
 </article>
 
-<!-- Parallel translation data -->
+<!-- Data for JS -->
 <script>
+/* ---- Parallel ---- */
 var parallelTranslations = [
     {{ range $otherTranslations }}
     { abbrev: "{{ .abbrev }}", url: "{{ .url }}", title: "{{ .title }}" },
@@ -183,7 +200,6 @@ function toggleParallel() {
     var reading = document.getElementById('chapter-reading');
 
     if (parallelActive) {
-        // Exit parallel mode
         parallelActive = false;
         pane.style.display = 'none';
         headerLeft.style.display = 'none';
@@ -191,7 +207,6 @@ function toggleParallel() {
         reading.classList.remove('parallel-active');
         if (btn) btn.classList.remove('active');
     } else {
-        // Enter parallel mode — load first available translation
         if (parallelTranslations.length === 0) return;
         parallelActive = true;
         split.classList.add('parallel-mode');
@@ -199,8 +214,6 @@ function toggleParallel() {
         pane.style.display = '';
         headerLeft.style.display = '';
         if (btn) btn.classList.add('active');
-
-        // Load the first other translation (or use cached)
         var target = parallelTranslations[0];
         loadParallel(target);
     }
@@ -230,6 +243,210 @@ function loadParallel(target) {
             content.innerHTML = '<p class="parallel-loading">Failed to load translation.</p>';
         });
 }
+
+/* ---- Bible Navigation Map ---- */
+var currentTransSlug = "{{ $currentTransSlug }}";
+var baseUrl = "{{ .Site.BaseURL }}translations/" + currentTransSlug + "/";
+var bibleBooks = [
+    {{ range $bibleNav }}
+    { book: "{{ .book }}", slug: "{{ .slug }}", chapters: {{ .chapters }} },
+    {{ end }}
+];
+
+/* ---- Bible Search ---- */
+var bibleSearchData = null;
+
+// Load search index (reuse site-wide index, filter to chapters)
+fetch('{{ "index.json" | absURL }}')
+    .then(function(r) { return r.json(); })
+    .then(function(data) {
+        bibleSearchData = data.filter(function(item) {
+            return !!item.book && item.translation === '{{ $currentAbbrev }}';
+        });
+    })
+    .catch(function() {});
+
+function padChapter(n) {
+    return n < 10 ? '0' + n : '' + n;
+}
+
+function parseReference(query) {
+    // Match patterns: "Romans 8", "1 John 3", "Genesis 1:5", "rom 8"
+    var refPattern = /^(\d?\s*[a-z]+(?:\s+[a-z]+)?)\s+(\d+)(?::(\d+))?$/i;
+    var match = query.trim().match(refPattern);
+    if (!match) return null;
+
+    var bookQuery = match[1].trim().toLowerCase();
+    var chapter = parseInt(match[2], 10);
+    var verse = match[3] ? parseInt(match[3], 10) : null;
+
+    // Find matching book (fuzzy: startsWith or contains)
+    var found = null;
+    for (var i = 0; i < bibleBooks.length; i++) {
+        var b = bibleBooks[i];
+        var bookLower = b.book.toLowerCase();
+        if (bookLower === bookQuery) { found = b; break; }
+        if (bookLower.startsWith(bookQuery)) { found = found || b; }
+    }
+    if (!found) return null;
+    if (chapter < 1 || chapter > found.chapters) return null;
+
+    return {
+        book: found.book,
+        slug: found.slug,
+        chapter: chapter,
+        verse: verse,
+        url: baseUrl + found.slug + '/chapter-' + padChapter(chapter) + '/'
+    };
+}
+
+function doBibleSearch() {
+    var input = document.getElementById('bible-search-input');
+    var dropdown = document.getElementById('bible-search-dropdown');
+    var query = input.value.trim();
+
+    if (query.length < 2) {
+        dropdown.style.display = 'none';
+        return;
+    }
+
+    var results = [];
+
+    // 1. Try reference navigation
+    var ref = parseReference(query);
+    if (ref) {
+        results.push({
+            type: 'nav',
+            title: ref.book + ' ' + ref.chapter + (ref.verse ? ':' + ref.verse : ''),
+            subtitle: 'Go to chapter',
+            url: ref.url
+        });
+    }
+
+    // 2. Text search across Bible content
+    if (bibleSearchData) {
+        var q = query.toLowerCase();
+        var textResults = bibleSearchData.filter(function(item) {
+            return (item.content && item.content.toLowerCase().includes(q)) ||
+                   (item.title && item.title.toLowerCase().includes(q));
+        });
+
+        textResults.forEach(function(item) {
+            // Build a snippet around the match
+            var snippet = '';
+            if (item.content) {
+                var idx = item.content.toLowerCase().indexOf(q);
+                if (idx >= 0) {
+                    var start = Math.max(0, idx - 40);
+                    var end = Math.min(item.content.length, idx + q.length + 60);
+                    snippet = (start > 0 ? '…' : '') + item.content.substring(start, end) + (end < item.content.length ? '…' : '');
+                }
+            }
+            results.push({
+                type: 'text',
+                title: item.title,
+                subtitle: snippet,
+                url: item.permalink
+            });
+        });
+    }
+
+    if (results.length === 0) {
+        dropdown.innerHTML = '<div class="bsd-empty">No results</div>';
+        dropdown.style.display = 'block';
+        return;
+    }
+
+    dropdown.innerHTML = results.map(function(r) {
+        return '<a href="' + r.url + '" class="bsd-item bsd-' + r.type + '">' +
+            '<span class="bsd-title">' + r.title + '</span>' +
+            '<span class="bsd-sub">' + r.subtitle + '</span>' +
+            '</a>';
+    }).join('');
+    dropdown.style.display = 'block';
+}
+
+(function() {
+    var input = document.getElementById('bible-search-input');
+    var dropdown = document.getElementById('bible-search-dropdown');
+    if (!input) return;
+
+    var debounce = null;
+    input.addEventListener('input', function() {
+        clearTimeout(debounce);
+        debounce = setTimeout(doBibleSearch, 150);
+    });
+
+    input.addEventListener('keydown', function(e) {
+        if (e.key === 'Enter') {
+            // If there's a nav result, go there immediately
+            var ref = parseReference(input.value.trim());
+            if (ref) {
+                window.location.href = ref.url;
+                return;
+            }
+            // Otherwise trigger search
+            doBibleSearch();
+        }
+        if (e.key === 'Escape') {
+            dropdown.style.display = 'none';
+            input.blur();
+        }
+    });
+
+    document.addEventListener('click', function(e) {
+        if (!e.target.closest('.toolbar-search-wrapper')) {
+            dropdown.style.display = 'none';
+            closeMobileSearch();
+        }
+    });
+
+    /* ---- Mobile search: icon tap expands to full-width bar ---- */
+    var wrapper = document.querySelector('.toolbar-search-wrapper');
+    var searchBox = document.querySelector('.toolbar-search');
+    var backdrop = null;
+
+    function isMobile() { return window.innerWidth <= 640; }
+
+    function openMobileSearch() {
+        if (!wrapper) return;
+        wrapper.classList.add('search-expanded');
+        input.style.display = 'block';
+        input.focus();
+        // Create backdrop
+        backdrop = document.createElement('div');
+        backdrop.className = 'mobile-search-backdrop';
+        backdrop.addEventListener('click', closeMobileSearch);
+        document.body.appendChild(backdrop);
+    }
+
+    function closeMobileSearch() {
+        if (!wrapper) return;
+        wrapper.classList.remove('search-expanded');
+        if (backdrop) { backdrop.remove(); backdrop = null; }
+        dropdown.style.display = 'none';
+        if (isMobile()) {
+            input.style.display = '';
+            input.value = '';
+        }
+    }
+
+    if (searchBox) {
+        searchBox.addEventListener('click', function(e) {
+            if (isMobile() && !wrapper.classList.contains('search-expanded')) {
+                e.stopPropagation();
+                openMobileSearch();
+            }
+        });
+    }
+
+    // Close on Escape
+    input.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape' && isMobile()) {
+            closeMobileSearch();
+        }
+    });
+})();
 
 var prevUrl = {{ if .Params.prev }}"../{{ .Params.prev }}/"{{ else }}null{{ end }};
 var nextUrl = {{ if .Params.next }}"../{{ .Params.next }}/"{{ else }}null{{ end }};

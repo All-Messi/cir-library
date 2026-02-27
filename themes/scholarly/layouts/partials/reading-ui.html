@@ -433,6 +433,204 @@ body.overlay-open {
 }
 
 /* ============================================
+   VERSE TAP TOOLTIP
+   ============================================ */
+.chapter-content .verse {
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.15s;
+}
+
+.chapter-content .verse:hover {
+    background-color: rgba(156, 124, 56, 0.06);
+}
+
+.chapter-content .verse.verse-selected {
+    background-color: rgba(156, 124, 56, 0.12);
+}
+
+.verse-tooltip {
+    position: fixed;
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+    background: var(--color-primary, #000);
+    border-radius: 10px;
+    padding: 0.4rem 0.55rem;
+    box-shadow: 0 6px 24px rgba(0,0,0,0.3);
+    z-index: 300;
+    white-space: nowrap;
+    animation: vtFadeIn 0.12s ease;
+}
+
+@keyframes vtFadeIn {
+    from { opacity: 0; transform: translateY(4px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.verse-tooltip::after {
+    content: '';
+    position: absolute;
+    bottom: -6px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    border-top: 6px solid var(--color-primary, #000);
+}
+
+/* Arrow flips when tooltip is below the click */
+.verse-tooltip.tooltip-below::after {
+    bottom: auto;
+    top: -6px;
+    border-top: none;
+    border-bottom: 6px solid var(--color-primary, #000);
+}
+
+.verse-tooltip-ref {
+    color: rgba(255,255,255,0.6);
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.72rem;
+    padding: 0 0.3rem;
+    max-width: 160px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.verse-tooltip-divider {
+    width: 1px;
+    height: 16px;
+    background: rgba(255,255,255,0.2);
+    flex-shrink: 0;
+}
+
+.verse-tooltip-btn {
+    background: none;
+    border: none;
+    color: #fff;
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.76rem;
+    font-weight: 600;
+    cursor: pointer;
+    padding: 0.25rem 0.5rem;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+    transition: background 0.12s;
+    white-space: nowrap;
+}
+
+.verse-tooltip-btn:hover {
+    background: rgba(255,255,255,0.15);
+}
+
+/* ============================================
+   BIBLE SEARCH BAR (toolbar)
+   ============================================ */
+.toolbar-search-wrapper {
+    position: relative;
+    flex: 1;
+    max-width: 280px;
+    margin: 0 0.5rem;
+}
+
+.toolbar-search {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+    border: 1px solid var(--color-border, #e5e5e5);
+    border-radius: 8px;
+    padding: 0.35rem 0.6rem;
+    transition: border-color 0.15s;
+}
+
+.toolbar-search:focus-within {
+    border-color: var(--color-accent, #9c7c38);
+}
+
+.toolbar-search-icon {
+    flex-shrink: 0;
+    color: var(--color-text-muted, #aaa);
+}
+
+.toolbar-search-input {
+    border: none;
+    outline: none;
+    background: transparent;
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.82rem;
+    color: var(--color-text, #1a1a1a);
+    width: 100%;
+}
+
+.toolbar-search-input::placeholder {
+    color: var(--color-text-muted, #aaa);
+}
+
+/* Search dropdown */
+.bible-search-dropdown {
+    display: none;
+    position: absolute;
+    top: calc(100% + 4px);
+    left: 0;
+    right: 0;
+    background: var(--color-bg, #fff);
+    border: 1px solid var(--color-border, #e5e5e5);
+    border-radius: 8px;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+    z-index: 300;
+    max-height: 70vh;
+    overflow-y: auto;
+}
+
+.bsd-item {
+    display: block;
+    padding: 0.6rem 0.75rem;
+    text-decoration: none;
+    color: inherit;
+    border-bottom: 1px solid var(--color-border-light, #f0f0f0);
+    transition: background 0.1s;
+}
+
+.bsd-item:last-child { border-bottom: none; }
+
+.bsd-item:hover {
+    background: var(--color-bg-alt, #f9f9f9);
+}
+
+.bsd-title {
+    display: block;
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--color-primary, #000);
+}
+
+.bsd-sub {
+    display: block;
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.72rem;
+    color: var(--color-text-muted, #888);
+    margin-top: 0.1rem;
+    line-height: 1.4;
+}
+
+.bsd-nav .bsd-title::before {
+    content: '→ ';
+    color: var(--color-accent, #9c7c38);
+}
+
+.bsd-empty {
+    padding: 0.75rem;
+    text-align: center;
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.8rem;
+    color: var(--color-text-muted, #888);
+    font-style: italic;
+}
+
+/* ============================================
    CHAPTER BODY
    ============================================ */
 .chapter-reading {
@@ -649,6 +847,66 @@ body.overlay-open {
 
     .toolbar-divider {
         display: none;
+    }
+
+    /* Search: show icon only, tap to expand */
+    .toolbar-search-wrapper {
+        max-width: none;
+        margin: 0;
+        position: static;
+    }
+
+    .toolbar-search {
+        width: 34px;
+        height: 34px;
+        padding: 0;
+        justify-content: center;
+        cursor: pointer;
+    }
+
+    .toolbar-search-input {
+        display: none;
+        width: 0;
+    }
+
+    /* Expanded state: full-width bar at top */
+    .toolbar-search-wrapper.search-expanded .toolbar-search {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        width: 100%;
+        height: 50px;
+        border-radius: 0;
+        border: none;
+        border-bottom: 2px solid var(--color-accent, #9c7c38);
+        background: var(--color-bg, #fff);
+        padding: 0 0.75rem;
+        z-index: 400;
+        box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+    }
+
+    .toolbar-search-wrapper.search-expanded .toolbar-search-input {
+        display: block;
+        width: 100%;
+        font-size: 1rem;
+    }
+
+    .toolbar-search-wrapper.search-expanded .bible-search-dropdown {
+        position: fixed;
+        top: 50px;
+        left: 0;
+        right: 0;
+        border-radius: 0;
+        max-height: calc(80vh - 50px);
+        z-index: 400;
+    }
+
+    .mobile-search-backdrop {
+        position: fixed;
+        inset: 0;
+        background: rgba(0,0,0,0.3);
+        z-index: 350;
     }
 
     .float-arrow {
@@ -911,6 +1169,152 @@ function setFontFamily(font) {
     } catch(e) {
         el.classList.add('font-medium', 'font-serif');
     }
+})();
+
+/* ---- Verse Tap Tooltip ---- */
+(function() {
+    var tooltip = null;
+    var selectedVerse = null;
+
+    function removeTooltip() {
+        if (tooltip) { tooltip.remove(); tooltip = null; }
+        if (selectedVerse) { selectedVerse.classList.remove('verse-selected'); selectedVerse = null; }
+    }
+
+    function getVerseNums(el) {
+        var nums = [];
+        el.querySelectorAll('sup').forEach(function(sup) {
+            var t = sup.textContent.trim().replace(/[^0-9\-]/g, '');
+            if (!t) return;
+            var parts = t.split('-').filter(Boolean);
+            if (parts.length === 2) {
+                var a = parseInt(parts[0], 10), b = parseInt(parts[1], 10);
+                if (!isNaN(a) && !isNaN(b)) { for (var n = a; n <= b; n++) nums.push(n); }
+            } else {
+                var v = parseInt(parts[0], 10);
+                if (!isNaN(v)) nums.push(v);
+            }
+        });
+        return nums;
+    }
+
+    function getRef(el) {
+        var vals = document.querySelectorAll('.toolbar-select-value');
+        var book = vals[0] ? vals[0].textContent.trim() : '';
+        var chap = vals[1] ? vals[1].textContent.trim() : '';
+        var nums = getVerseNums(el);
+        if (nums.length === 0) return book + ' ' + chap;
+        nums.sort(function(a,b) { return a - b; });
+        nums = nums.filter(function(v,i) { return i === 0 || v !== nums[i-1]; });
+        var ranges = [], s = nums[0], e = nums[0];
+        for (var i = 1; i < nums.length; i++) {
+            if (nums[i] === e + 1) { e = nums[i]; }
+            else { ranges.push(s === e ? '' + s : s + '-' + e); s = e = nums[i]; }
+        }
+        ranges.push(s === e ? '' + s : s + '-' + e);
+        return book + ' ' + chap + ':' + ranges.join(', ');
+    }
+
+    function getText(el) {
+        var clone = el.cloneNode(true);
+        clone.querySelectorAll('.verse-num').forEach(function(s) { s.remove(); });
+        return clone.textContent.trim().replace(/\s+/g, ' ');
+    }
+
+    var copyIcon = '<svg width="12" height="12" viewBox="0 0 16 16" fill="none"><rect x="5" y="5" width="9" height="9" rx="1" stroke="#fff" stroke-width="1.3"/><path d="M3 11V2h9" stroke="#fff" stroke-width="1.3" stroke-linecap="round"/></svg>';
+    var shareIcon = '<svg width="12" height="12" viewBox="0 0 16 16" fill="none"><circle cx="12" cy="3" r="2" stroke="#fff" stroke-width="1.3"/><circle cx="4" cy="8" r="2" stroke="#fff" stroke-width="1.3"/><circle cx="12" cy="13" r="2" stroke="#fff" stroke-width="1.3"/><path d="M6 9l4 3M6 7l4-3" stroke="#fff" stroke-width="1.3"/></svg>';
+
+    function showTooltip(verseEl, e) {
+        removeTooltip();
+        selectedVerse = verseEl;
+        verseEl.classList.add('verse-selected');
+
+        var ref = getRef(verseEl);
+        var text = getText(verseEl);
+
+        tooltip = document.createElement('div');
+        tooltip.className = 'verse-tooltip';
+        tooltip.innerHTML =
+            '<span class="verse-tooltip-ref">' + ref + '</span>' +
+            '<span class="verse-tooltip-divider"></span>' +
+            '<button class="verse-tooltip-btn" data-action="copy">' + copyIcon + ' Copy</button>' +
+            '<span class="verse-tooltip-divider"></span>' +
+            '<button class="verse-tooltip-btn" data-action="share">' + shareIcon + ' Share</button>';
+
+        document.body.appendChild(tooltip);
+
+        // Position using fixed coords (viewport-relative, never off-screen)
+        var tw = tooltip.offsetWidth;
+        var th = tooltip.offsetHeight;
+        var cx = e.clientX;
+        var cy = e.clientY;
+
+        // Horizontal: center on click, clamp to viewport
+        var left = cx - tw / 2;
+        if (left < 8) left = 8;
+        if (left + tw > window.innerWidth - 8) left = window.innerWidth - tw - 8;
+
+        // Vertical: above click by default, below if not enough room
+        var top = cy - th - 12;
+        var below = false;
+        if (top < 8) {
+            top = cy + 16;
+            below = true;
+        }
+
+        tooltip.style.left = left + 'px';
+        tooltip.style.top = top + 'px';
+        if (below) tooltip.classList.add('tooltip-below');
+
+        // Handle button clicks
+        tooltip.addEventListener('click', function(ev) {
+            var btn = ev.target.closest('[data-action]');
+            if (!btn) return;
+            ev.stopPropagation();
+
+            if (btn.dataset.action === 'copy') {
+                var copyStr = '\u201c' + text + '\u201d \u2014 ' + ref;
+                navigator.clipboard.writeText(copyStr).then(function() {
+                    btn.innerHTML = '\u2713 Copied';
+                    setTimeout(removeTooltip, 1200);
+                }).catch(function() {
+                    prompt('Copy this text:', copyStr);
+                });
+            }
+
+            if (btn.dataset.action === 'share') {
+                var shareData = {
+                    title: ref,
+                    text: '\u201c' + text + '\u201d \u2014 ' + ref,
+                    url: window.location.href.split('#')[0] + '#' + (verseEl.id || '')
+                };
+                if (navigator.share) {
+                    navigator.share(shareData).catch(function() {});
+                } else {
+                    navigator.clipboard.writeText(shareData.url).then(function() {
+                        btn.innerHTML = '\u2713 Link copied';
+                        setTimeout(removeTooltip, 1200);
+                    });
+                }
+            }
+        });
+    }
+
+    // Click on verse = show tooltip, click elsewhere = dismiss
+    document.addEventListener('click', function(e) {
+        var verse = e.target.closest('.verse');
+        if (verse && e.target.closest('.chapter-content')) {
+            showTooltip(verse, e);
+            return;
+        }
+        if (!e.target.closest('.verse-tooltip')) {
+            removeTooltip();
+        }
+    });
+
+    document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape') removeTooltip();
+    });
 })();
 
 /* ---- Keyboard Navigation ---- */
