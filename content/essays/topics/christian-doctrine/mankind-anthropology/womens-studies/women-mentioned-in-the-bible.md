@@ -5,7 +5,7 @@ categories:
 - Christian Doctrine
 - Mankind Anthropology
 - Womens Studies
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: WOMEN MENTIONED IN THE BIBLE
 weight: 4

@@ -11,6 +11,8 @@ weight: 46
 
 ## Psalms Chapter 46
 
+### Set to Alamoth. A Song
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> God is our refuge and strength, an ever-present help when trouble comes.</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> So we won’t be afraid though the ground tremors, though the mountains cascade into the sea,</span>

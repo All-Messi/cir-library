@@ -20,9 +20,6 @@ weight: 3
 <span class="verse" id="v10"><sup class="verse-num">10</sup> But <u>you</u> have followed my teaching, manner of living, faith, endurance, love, perseverance, <strong><sup>11</sup></strong>persecutions, and sufferings like what happened to me in Antioch, Iconium, and Lystra. I bore up under such persecutions, and the Lord delivered me from them. <strong><sup>12</sup></strong>Everybody that wants to live godly in Christ Jesus will face persecution. <strong><sup>13</sup></strong>Evil people and imposters will get worse and worse, deceiving and being deceived. <strong><sup>14</sup></strong>But <u>you</u> stick with what you’ve learned and become confident about it; you know where you learned it. <strong><sup>15</sup></strong>From the time you were a baby, you knew the holy scriptures, which can make you wise about salvation by trust in Christ Jesus. <strong><sup>16</sup></strong>All scripture <em>is</em> breathed out by God and profitable for teaching, refuting error, correcting faults, and training in goodness. <strong><sup>17</sup></strong>That’s how God’s servant can be qualified and equipped for every good thing he needs to do.</span>
 <p class="section-ref">2 Tim 3:10-17</p>
 
-### Maintaining Timothy’s Ministry
-
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

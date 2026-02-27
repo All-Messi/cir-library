@@ -17,9 +17,11 @@ weight: 14
 ### Healing a Crippled Man
 
 
-<span class="verse" id="v8"><strong><sup>8</sup></strong>At Lystra a man crippled in his feet from birth, had never walked. <strong><sup>9</sup></strong>He was listening to Paul speak. Paul looked at him and saw he had faith to be cured. <strong><sup>10</sup></strong>He shouted, <em>“Stand up!”</em> He jumped up and started walking.</span>
+<span class="verse" id="v8"><sup class="verse-num">8</sup> At Lystra a man crippled in his feet from birth, had never walked. <strong><sup>9</sup></strong>He was listening to Paul speak. Paul looked at him and saw he had faith to be cured. <strong><sup>10</sup></strong>He shouted, <em>“Stand up!”</em> He jumped up and started walking.</span>
 
-<span class="verse" id="v11"><strong><sup>1</sup></strong>When the crowd saw what Paul did, they shouted out in Lycaonian, <em>“Gods hav</em><em>e come down to us in human form!</em><em>”</em><em> </em><strong><sup>12</sup></strong>They started calling Barnabas “Zeus” and Paul “Hermes” because Paul did most of the speaking. <strong><sup>13</sup></strong>The priest of Zeus Propolis took bulls decked with wreaths of flowers to the gates and wanted to offer sacrifice with the crowd. <strong><sup>14</sup></strong>When the apostles Barnabas and Paul heard about it, they tore their clothes and rushed into the crowd, shouting,</span>
+<span class="verse" id="v11"><sup class="verse-num">11</sup> When the crowd saw what Paul did, they shouted out in Lycaonian, <em>“Gods hav</em><em>e come down to us in human form!</em><em>”</em><em> </em><strong><sup>12</sup></strong>They started calling Barnabas “Zeus” and Paul “Hermes” because Paul did most of the speaking. <strong><sup>13</sup></strong>The priest of Zeus Propolis took bulls decked with wreaths of flowers to the gates and wanted to offer sacrifice with the crowd. <strong><sup>14</sup></strong>When the apostles Barnabas and Paul heard about it, they tore their clothes and rushed into the crowd, shouting,</span>
+
+<span class="verse" id="v15"><sup class="verse-num">15</sup> <em>“W</em><em>hy</em><em> are you doing this?</em><em> </em><em>We’re </em><em>normal</em><em> men like you, bringing you good news to turn away from these meaningless things to the living God who made earth, </em><em>sky, and</em><em> sea, and everything in them.</em><em> </em><strong><sup>16</sup></strong><em>In</em><em> the </em><em>past, he let </em><em>nations go their own ways, </em><strong><sup>17</sup></strong><em>but</em><em> </em><em>left </em><em>evidence of himself</em><em> by doing good, giving you rain and </em><em>crops</em><em>, filling you with food and happiness.”</em><em> </em></span>
 
 <span class="verse" id="v18"><sup class="verse-num">18</sup> With that, he barely stopped the crowds from offering sacrifices to them.</span>
 <p class="section-ref">Acts 14:8-18</p>
@@ -27,15 +29,12 @@ weight: 14
 ### Paul Stoned at Lystra
 
 
-<span class="verse" id="v19"><strong><sup>9</sup></strong>Then Jews from Antioch and Iconium came and persuaded the crowds to stone Paul. They dragged him out of the city, thinking he was dead. <strong><sup>20</sup></strong>But with the disciples standing around him, he got up and went back into the city. The next day he left for Derbe with Barnabas.</span>
+<span class="verse" id="v19"><sup class="verse-num">19</sup> Then Jews from Antioch and Iconium came and persuaded the crowds to stone Paul. They dragged him out of the city, thinking he was dead. <strong><sup>20</sup></strong>But with the disciples standing around him, he got up and went back into the city. The next day he left for Derbe with Barnabas.</span>
 
-<span class="verse" id="v21"><strong><sup>1</sup></strong>When they’d presented the good news in that city and made a significant number of disciples, they went back to Lystra, Iconium, and Antioch <em>of Pisidia</em>. <strong><sup>22</sup></strong>They were strengthening the disciples and encouraging them to continue in the faith and to enter God’s kingdom through many difficulties. <strong><sup>23</sup></strong>When they’d appointed elders in every city, they prayed and fasted, and commended them to the Lord they’d trusted in. <strong>Return to Antioch of Syria</strong></span>
+<span class="verse" id="v21"><sup class="verse-num">21</sup> When they’d presented the good news in that city and made a significant number of disciples, they went back to Lystra, Iconium, and Antioch <em>of Pisidia</em>. <strong><sup>22</sup></strong>They were strengthening the disciples and encouraging them to continue in the faith and to enter God’s kingdom through many difficulties. <strong><sup>23</sup></strong>When they’d appointed elders in every city, they prayed and fasted, and commended them to the Lord they’d trusted in. 	<strong>Return to Antioch of Syria</strong></span>
 
 <span class="verse" id="v24"><sup class="verse-num">24</sup> They passed through Pisidia to Pamphylia. <strong><sup>25</sup></strong>After they’d presented the message in Perga, they went down to Attalia <strong><sup>26</sup></strong>and sailed back to Antioch <em>of Syria</em>, where they’d been committed to God’s grace for the work they’d done. <strong><sup>27</sup></strong>When they arrived and assembled the church, they recounted what God had done with them and how he’d opened a door of faith for the Gentiles. <strong><sup>28</sup></strong>They stayed there a good while with the disciples.</span>
 <p class="section-ref">Acts 14:19-28</p>
-
-### The Conference on Circumcision
-
 
 
 <style>

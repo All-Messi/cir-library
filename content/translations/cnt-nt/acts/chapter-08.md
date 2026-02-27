@@ -35,7 +35,9 @@ weight: 8
 
 <span class="verse" id="v29"><sup class="verse-num">29</sup> The Spirit told Philip, "Make contact with that carriage."</span>
 
-<span class="verse" id="v30"><sup class="verse-num">30</sup> Philip ran toward it and heard him reading Isaiah, "Do you understand what you're reading?" 31"How can I unless somebody explains it me?" He invited Philip to come up and sit with him in the carriage. 32This is the passage he was reading: "They led him like a sheep to slaughter; like a lamb silent in front of its shearers, he didn't open his mouth.</span>
+<span class="verse" id="v30"><sup class="verse-num">30</sup> Philip ran toward it and heard him reading Isaiah, "Do you understand what you're reading?"</span>
+
+<span class="verse" id="v31"><sup class="verse-num">31</sup> "How can I unless somebody explains it me?" He invited Philip to come up and sit with him in the carriage. 32This is the passage he was reading: "They led him like a sheep to slaughter; like a lamb silent in front of its shearers, he didn't open his mouth.</span>
 
 <span class="verse" id="v33"><sup class="verse-num">33</sup> In his humble condition he received no justice. Who can speak of his descendants? his life has been taken from the earth?" [Is 53:7-8 LXX]</span>
 

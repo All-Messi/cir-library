@@ -13,6 +13,8 @@ weight: 34
 
 <span class="verse" id="v1"><sup class="verse-num">1</sup> <strong>Elihu</strong><strong> continued:</strong></span>
 
+<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>“Listen</em><em>, you wise </em><em>men;</em> <em>pay attention, you that ‘know</em><em>’;</em></span>
+
 <span class="verse" id="v3"><sup class="verse-num">3</sup> <em>the</em><em> ear tests words</em> <em>like the palate tastes food.</em></span>
 
 <span class="verse" id="v4"><sup class="verse-num">4</sup> <em>Let’s</em><em> choose what’s </em><em>right;</em> <em>let’s determine for ourselves what’s </em><em>good;</em></span>
@@ -25,7 +27,10 @@ weight: 34
 
 <span class="verse" id="v8"><sup class="verse-num">8</sup> <em>that</em><em> pals around with sinners,</em> <em>that associates with bad people—</em></span>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>because</em><em> he said, ‘What good does it do </em> <em>to try to please God’?</em><em>	</em><em>	</em><em>	</em><em>	</em><strong>Job 34:1-9</strong></span>
+<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>because</em><em> he said, ‘What good does it do </em> <em>to try to please God’?</span>
+<p class="section-ref">Job 34:1-9</p>
+
+<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>“So</em><em>, listen, you that ‘understand.’</em> <em>God would not </em><em>sin;</em> <em>the Almighty would never do what’s wrong.</em></span>
 
 <span class="verse" id="v11"><sup class="verse-num">11</sup> <em>He</em><em> pays everyone according to what they’ve done</em> <em>and treats them the way </em><em>their living deserves</em><em>.</em><em>	</em></span>
 
@@ -35,7 +40,10 @@ weight: 34
 
 <span class="verse" id="v14"><sup class="verse-num">14</sup> <em>If</em><em> he’d take back his spirit,</em> <em>if he’d gather his breath to himself,</em></span>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> <em>everybody</em><em> would </em><em>die;</em> <em>mortals would return to dust.</em><strong>	</strong><strong>Job 34:10-15</strong></span>
+<span class="verse" id="v15"><sup class="verse-num">15</sup> <em>everybody</em><em> would </em><em>die;</em> <em>mortals would return to dust.</span>
+<p class="section-ref">Job 34:10-15</p>
+
+<span class="verse" id="v16"><sup class="verse-num">16</sup> <em>“But</em><em> if you understand, </em> <em>listen to what I’m saying.</em></span>
 
 <span class="verse" id="v17"><sup class="verse-num">17</sup> <em>Would</em><em> </em>God<em> be ruling if he hated justice?</em> <em>Will you condemn someone great that’s good,</em></span>
 
@@ -45,13 +53,16 @@ weight: 34
 
 <span class="verse" id="v20"><sup class="verse-num">20</sup> <em>They</em><em> die </em><em>quickly;</em><em> </em> <em>at midnight they shudder and pass </em><em>away;</em> <em>the powerful are taken away without </em>human<em> hand.</em><em> </em><strong>Job 34:16-20</strong></span>
 
+<span class="verse" id="v21"><sup class="verse-num">21</sup> <em>“He</em><em> watches what people </em><em>do;</em> <em>he sees </em><em>their every</em><em> </em><em>step</em><em>.</em></span>
+
 <span class="verse" id="v22"><sup class="verse-num">22</sup> <em>There’s</em><em> no darkness or deep shadow</em> <em>where sinners can hide.</em></span>
 
 <span class="verse" id="v23"><sup class="verse-num">23</sup> <em>He</em><em> doesn’t have to investigate anyone</em> <em>and bring them in to find out what they’ve done.</em></span>
 
 <span class="verse" id="v24"><sup class="verse-num">24</sup> <em>He</em><em> brings the mighty to ruin without an investigation</em> <em>and replaces them with others.</em></span>
 
-<span class="verse" id="v25"><sup class="verse-num">25</sup> <em>He</em><em> knows what they’ve </em><em>done;</em> <em>he overthrows them at night and destroys them.</em><strong>	</strong><strong>Job 34:21-25</strong></span>
+<span class="verse" id="v25"><sup class="verse-num">25</sup> <em>He</em><em> knows what they’ve </em><em>done;</em> <em>he overthrows them at night and destroys them.</span>
+<p class="section-ref">Job 34:21-25</p>
 
 <span class="verse" id="v26"><sup class="verse-num">26</sup> <em>He</em><em> strikes them down openly for their sinfulness</em></span>
 
@@ -61,7 +72,10 @@ weight: 34
 
 <span class="verse" id="v29"><sup class="verse-num">29</sup> <em>if</em><em> he does keep quiet, who can condemn him?</em> <em>when he hides, who can see him,</em> <em>whether individual or </em><em>nation?—</em></span>
 
-<span class="verse" id="v30"><sup class="verse-num">30</sup> <em>so</em><em> the godless won’t rule</em> <em>or become a snare to other people.</em><strong>	</strong><strong>Job 34:26-30</strong></span>
+<span class="verse" id="v30"><sup class="verse-num">30</sup> <em>so</em><em> the godless won’t rule</em> <em>or become a snare to other people.</span>
+<p class="section-ref">Job 34:26-30</p>
+
+<span class="verse" id="v31"><sup class="verse-num">31</sup> <em>“Has</em><em> anybody told God,</em> <em>‘I’ve been disciplined; I won’t offend anymore</em><em>’;</em></span>
 
 <span class="verse" id="v32"><sup class="verse-num">32</sup> <em>or</em><em>, ‘Show me what I didn’t </em><em>notice;</em> <em>if I’ve sinned, I won’t do it again’?</em></span>
 
@@ -69,9 +83,12 @@ weight: 34
 
 <span class="verse" id="v34"><sup class="verse-num">34</sup> <em>People</em><em> with insight say to me—</em> <em>the wise, who </em><em>listen</em><em> to me—</em> <strong><sup>35</sup></strong><em>‘Job</em><em> doesn’t know what he’s talking </em><em>about;</em> <em>his words don’t make sense.</em></span>
 
+<span class="verse" id="v35"><sup class="verse-num">35</sup> 'Job doesn't know what he's talking about; his words don't make sense.</span>
+
 <span class="verse" id="v36"><sup class="verse-num">36</sup> <em>He</em><em> deserves the maximum penalty</em> <em>because of the sinful way he answers.</em></span>
 
-<span class="verse" id="v37"><sup class="verse-num">37</sup> <em>He’s</em><em> adding rebellion to his </em><em>sins;</em> <em>he scornfully claps his hands at us</em> <em>and multiplies his words against God.’”</em><strong>	</strong><strong>Job 34:31-37</strong></span>
+<span class="verse" id="v37"><sup class="verse-num">37</sup> <em>He’s</em><em> adding rebellion to his </em><em>sins;</em> <em>he scornfully claps his hands at us</em> <em>and multiplies his words against God.’”</span>
+<p class="section-ref">Job 34:31-37</p>
 
 
 <style>

@@ -11,6 +11,8 @@ weight: 12
 
 ## Isaiah Chapter 12
 
+### A Song of Praise for Salvation
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> At that time, you’ll say, <em>“</em><em>Thank you</em><em>, </em><em>L</em><em>ORD</em><em>;</em><em>	</em><em>   </em> <em>though you were angry with me,</em><em>	</em> <em>	you </em><em>turned</em><em> you</em><em>r</em><em> anger away</em> <em>	and </em><em>reassured</em><em> me.</em></span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> <em>You’re</em><em> my </em><em>salvation;</em> <em>	I’ll trust </em>you<em> and not be afraid</em><em>,</em> <em>	because you’re my strength and </em><em>song.”</em></span>
@@ -21,7 +23,8 @@ weight: 12
 
 <span class="verse" id="v5"><sup class="verse-num">5</sup> <em>Sing</em><em> praises to him </em> <strong><sup>	</sup></strong><em>because he’s done excellent </em><em>things;</em> <em>	tell it all over the world.</em></span>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>Sing</em><em> and shout for joy, you that live in Zion,</em> <em>	because the Holy One that lives with you is great.”</em>	<strong>Is</strong><strong> 12:1-6</strong></span>
+<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>Sing</em><em> and shout for joy, you that live in Zion,</em> <em>	because the Holy One that lives with you is great.”</span>
+<p class="section-ref">Is 12:1-6</p>
 
 
 <style>

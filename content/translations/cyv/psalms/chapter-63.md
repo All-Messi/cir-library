@@ -11,6 +11,8 @@ weight: 63
 
 ## Psalms Chapter 63
 
+### When He Was in the Wilderness of Judah
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> God, you’re my God; I look to you in earnest; my soul thirsts for you; my flesh yearns for you in this dry, weary land.</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> So I’ve looked at you in the sanctuary and seen your power and glory.</span>

@@ -3,7 +3,7 @@ author: Virgil Warren, PhD
 categories:
 - Interpretation
 - Formats For Scripture References
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: FORMATS FOR SCRIPTURE REFERENCES
 weight: 2

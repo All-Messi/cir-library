@@ -13,13 +13,18 @@ weight: 27
 
 <span class="verse" id="v1"><sup class="verse-num">1</sup> <strong>Job</strong><strong> continued his comments:</strong></span>
 
+<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>“As</em><em> God lives, who has taken away my rights,</em> <em>the Almighty, who has made me bitter,</em></span>
+
 <span class="verse" id="v3"><sup class="verse-num">3</sup> <em>as</em><em> long as I’m alive and God’s breath is in me,</em></span>
 
 <span class="verse" id="v4"><sup class="verse-num">4</sup> <em>I</em><em> won’t speak wickedness or lie.</em><em>	</em></span>
 
 <span class="verse" id="v5"><sup class="verse-num">5</sup> <em>I’ll</em><em> never concede that you’re </em><em>right;</em> <em>I’ll defend my integrity till I die.</em></span>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>I’ll</em><em> hold onto my claim about my goodness,</em> <em>and my conscience won’t accuse me </em><em>for</em><em> it.</em><strong>	</strong><strong>Job 27:1-6</strong></span>
+<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>I’ll</em><em> hold onto my claim about my goodness,</em> <em>and my conscience won’t accuse me </em><em>for</em><em> it.</span>
+<p class="section-ref">Job 27:1-6</p>
+
+<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>“May</em><em> my enemies be like the </em><em>wicked;</em> <em>may my attackers be like the sinful.</em></span>
 
 <span class="verse" id="v8"><sup class="verse-num">8</sup> <em>What hope do the godless have when God cuts them off,</em> <em>when he takes their life away?</em></span>
 
@@ -30,6 +35,8 @@ weight: 27
 <span class="verse" id="v11"><sup class="verse-num">11</sup> <em>Let</em><em> me teach you about God’s </em><em>power;</em> <em>I won’t conceal anything about the Almighty.</em></span>
 
 <span class="verse" id="v12"><sup class="verse-num">12</sup> <em>You’ve</em><em> all seen </em><em>that;</em> <em>so why are you saying such foolish things to me?</em><strong> </strong><strong>Job 27:7-12</strong></span>
+
+<span class="verse" id="v13"><sup class="verse-num">13</sup> <em>“This</em><em> is sinful people’s lot from God,</em> <em>the fate tyrants receive from the Almighty:</em></span>
 
 <span class="verse" id="v14"><sup class="verse-num">14</sup> <em>their</em><em> many sons he </em><em>destines</em><em> for the </em><em>sword;</em> <em>their descendants won’t have enough to </em><em>eat;</em></span>
 
@@ -49,7 +56,8 @@ weight: 27
 
 <span class="verse" id="v22"><sup class="verse-num">22</sup> <em>it</em><em> whirls around them without sparing</em> <em>though they try to escape its power.</em></span>
 
-<span class="verse" id="v23"><sup class="verse-num">23</sup> <em>People</em><em> will clap their hands and jeer at them.</em><strong>	</strong><strong>Job 27:13-23</strong></span>
+<span class="verse" id="v23"><sup class="verse-num">23</sup> <em>People</em><em> will clap their hands and jeer at them.</span>
+<p class="section-ref">Job 27:13-23</p>
 
 
 <style>

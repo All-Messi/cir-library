@@ -3,7 +3,7 @@ book: Exodus
 chapters: 40
 title: Exodus
 translation: CNT
-type: scripture
+type: book
 weight: 2
 ---
 

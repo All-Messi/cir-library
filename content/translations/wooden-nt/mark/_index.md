@@ -3,7 +3,7 @@ book: Mark
 chapters: 16
 title: Mark
 translation: WNT
-type: scripture
+type: book
 weight: 41
 ---
 

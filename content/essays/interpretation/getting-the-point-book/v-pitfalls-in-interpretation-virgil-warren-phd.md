@@ -3,7 +3,7 @@ author: "V. PITFALLS IN INTERPRETATION  \t               Virgil Warren, PhD"
 categories:
 - Interpretation
 - Getting The Point Book
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: "V. PITFALLS IN INTERPRETATION  \t               Virgil Warren, PhD"
 weight: 2

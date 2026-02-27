@@ -19,7 +19,8 @@ weight: 28
 
 <span class="verse" id="v4"><sup class="verse-num">4</sup> <em>They</em><em> sink mine shafts far from where people live</em> <em>and go down them, dangling </em>on ropes, <em>swinging back and forth.</em></span>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>People</em><em> grow food on top of the </em><em>ground;</em> but<em> far below, the ground melts as if by fire.</em><strong>	</strong><strong>Job 28:1-5</strong></span>
+<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>People</em><em> grow food on top of the </em><em>ground;</em> but<em> far below, the ground melts as if by fire.</span>
+<p class="section-ref">Job 28:1-5</p>
 
 <span class="verse" id="v6"><sup class="verse-num">6</sup> <em>Its</em><em> rocks yield lapis lazuli,</em><em>	</em> <em>whose flecks glitter like gold.</em></span>
 
@@ -31,7 +32,10 @@ weight: 28
 
 <span class="verse" id="v10"><sup class="verse-num">10</sup> <em>They</em><em> chisel out tunnels in the rock</em> <em>to discover precious stones.</em></span>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> <em>They</em><em> dam up trickling streams</em> <em>and bring hidden treasure out to light.</em><strong>	</strong><strong>Job 28:6-11</strong></span>
+<span class="verse" id="v11"><sup class="verse-num">11</sup> <em>They</em><em> dam up trickling streams</em> <em>and bring hidden treasure out to light.</span>
+<p class="section-ref">Job 28:6-11</p>
+
+<span class="verse" id="v12"><sup class="verse-num">12</sup> <em>“But</em><em> where can people discover wisdom?</em> <em>Where is intelligence located?</em></span>
 
 <span class="verse" id="v13"><sup class="verse-num">13</sup> <em>People</em><em> don’t know what it’s </em><em>worth;</em> <em>they can’t </em><em>find it</em><em> where people live.</em></span>
 
@@ -39,7 +43,8 @@ weight: 28
 
 <span class="verse" id="v15"><sup class="verse-num">15</sup> <em>Pure</em><em> gold doesn’t exchange for </em><em>it;</em> <em>silver doesn’t weigh out equal to its price.</em></span>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> <em>Its</em><em> value can’t be calculated in </em><em>the gold</em><em> from Ophir,</em> <em>in precious onyx or lapis lazuli.</em><strong>	</strong><strong>Job 28:12-16</strong></span>
+<span class="verse" id="v16"><sup class="verse-num">16</sup> <em>Its</em><em> value can’t be calculated in </em><em>the gold</em><em> from Ophir,</em> <em>in precious onyx or lapis lazuli.</span>
+<p class="section-ref">Job 28:12-16</p>
 
 <span class="verse" id="v17"><sup class="verse-num">17</sup> <em>Gold</em><em> or crystal can’t match </em><em>it;</em> <em>it can’t be traded for articles made from fine gold.</em></span>
 
@@ -51,7 +56,10 @@ weight: 28
 
 <span class="verse" id="v21"><sup class="verse-num">21</sup> <em>Nothing</em><em> alive can see </em><em>it;</em> <em>it’s hid from the birds in the sky.</em></span>
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> <em>Abaddon</em><em> and Death say,</em> <em>‘We haven’t heard any report about it.’</em><strong>	</strong><strong>Job 28:17-22</strong></span>
+<span class="verse" id="v22"><sup class="verse-num">22</sup> <em>Abaddon</em><em> and Death say,</em> <em>‘We haven’t heard any report about it.’</span>
+<p class="section-ref">Job 28:17-22</p>
+
+<span class="verse" id="v23"><sup class="verse-num">23</sup> <em>“God</em><em> knows where it is</em> <em>and </em><em>understands</em><em> how to get to it.</em></span>
 
 <span class="verse" id="v24"><sup class="verse-num">24</sup> <em>He</em><em> can see all the way to the end of the earth</em> <em>and everything that’s under the sky.</em></span>
 
@@ -61,7 +69,7 @@ weight: 28
 
 <span class="verse" id="v27"><sup class="verse-num">27</sup> <em>then</em><em> he looked at wisdom and appraised </em><em>it;</em> <em>he put it in place and tested it.</em></span>
 
-<span class="verse" id="v28"><sup class="verse-num">28</sup> <em>He</em><em> told humanity, ‘Respecting the Lord shows </em><em>wisdom;</em> <em>getting away from sin brings insight.’”</em><strong></span>
+<span class="verse" id="v28"><sup class="verse-num">28</sup> <em>He</em><em> told humanity, ‘Respecting the Lord shows </em><em>wisdom;</em> <em>getting away from sin brings insight.’”</span>
 <p class="section-ref">Job 28:23-28</p>
 
 

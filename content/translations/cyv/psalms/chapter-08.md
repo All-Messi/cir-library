@@ -11,6 +11,8 @@ weight: 8
 
 ## Psalms Chapter 8
 
+### Set to The Gittith
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Yahveh, our Lord, you’re so majestic all over the world! You display your splendor higher than the sky!</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> Out of the mouth of infants and nursing babies you’ve established a defensive wall against your adversaries, to silence enemies that want revenge.</span>

@@ -11,9 +11,9 @@ weight: 3
 
 ## 1 John Chapter 3
 
-<span class="verse" id="v1"><strong><sup>1</sup></strong>Look at what special love the Father has extended to us in calling us his children. The world doesn’t know us because it didn’t know him. <strong><sup>2</sup></strong>We’re God’s children now. It’s not clear what we <u>will</u> be, but we do know that when <em>Christ</em> returns, we’ll be <u>like</u> him and see him as he is. <strong><sup>3</sup></strong>Everybody that has that hope keeps himself pure like <u>he</u> is.</span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Look at what special love the Father has extended to us in calling us his children. The world doesn’t know us because it didn’t know him. <strong><sup>2</sup></strong>We’re God’s children now. It’s not clear what we <u>will</u> be, but we do know that when <em>Christ</em> returns, we’ll be <u>like</u> him and see him as he is. <strong><sup>3</sup></strong>Everybody that has that hope keeps himself pure like <u>he</u> is.</span>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> Everybody that practices sin is practicing lawlessness; sin is lawlessness. <strong><sup>5</sup></strong>You know he came to take away sins; there’s no sin in him. <strong><sup>6</sup></strong>Nobody that’s in him practices sin. If they do, they haven’t known him or seen him. <strong><sup>7</sup></strong>Little children, don’t let anybody mislead you. Whoever <u>does</u> good <u>is</u> good—like <u>he</u> is. <strong><sup>8</sup></strong>Whoever does evil is like the devil because he’s been sinning since the beginning. The Son of God came to destroy what the devil does. <strong><sup>9</sup></strong>None of the ones God begets practices sin because <em>God’s</em> seed stays in them. They can’t be sinning because <u>God’s</u> begotten them. <strong><sup>10</sup></strong>That’s how you can tell God’s children from the devil’s. Anybody that doesn’t <u>practice</u> goodness or care about fellow believers, doesn’t belong to God.<strong> </strong><strong></span>
+<span class="verse" id="v4"><sup class="verse-num">4</sup> Everybody that practices sin is practicing lawlessness; sin is lawlessness. <strong><sup>5</sup></strong>You know he came to take away sins; there’s no sin in him. <strong><sup>6</sup></strong>Nobody that’s in him practices sin. If they do, they haven’t known him or seen him. <strong><sup>7</sup></strong>Little children, don’t let anybody mislead you. Whoever <u>does</u> good <u>is</u> good—like <u>he</u> is. <strong><sup>8</sup></strong>Whoever does evil is like the devil because he’s been sinning since the beginning. The Son of God came to destroy what the devil does. <strong><sup>9</sup></strong>None of the ones God begets practices sin because <em>God’s</em> seed stays in them. They can’t be sinning because <u>God’s</u> begotten them. <strong><sup>10</sup></strong>That’s how you can tell God’s children from the devil’s. Anybody that doesn’t <u>practice</u> goodness or care about fellow believers, doesn’t belong to God.<strong></span>
 <p class="section-ref">1 Jn 3:1-10</p>
 
 ### Love One Another
@@ -24,9 +24,6 @@ weight: 3
 
 <span class="verse" id="v19"><sup class="verse-num">19</sup> We can have confidence in his presence <strong><sup>20</sup></strong>even if we feel guilty. God’s greater than our feelings and knows everything. <strong><sup>21</sup></strong>If our conscience doesn’t make us feel guilty, we’re confident in front of him, <strong><sup>22</sup></strong>and he gives us what we ask for because we do what pleases him. <strong><sup>23</sup></strong>He has told us to believe in his Son Jesus Christ and love each other. <strong><sup>24</sup></strong>When we do that, he lives in us and we in him. We know he’s in us by the spirit he’s given us.</span>
 <p class="section-ref">1 Jn 3:19-24</p>
-
-### Testing the spirits
-
 
 
 <style>

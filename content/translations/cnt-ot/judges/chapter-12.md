@@ -23,11 +23,12 @@ weight: 12
 ### Ibzan Judges Israel
 
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> After him <strong>Ibzan</strong> of Bethlehem judged Israel. <strong><sup>9</sup></strong>He had 30 sons and gave 30 daughters in marriage outside his clan. He brought in 30 daughters from outside for his sons. He judged Israel <strong>7 years</strong>. <strong><sup>10</sup></strong>He died and was buried at Bethlehem. <strong>Elon Judges Israel</strong></span>
+<span class="verse" id="v8"><sup class="verse-num">8</sup> After him <strong>Ibzan</strong> of Bethlehem judged Israel. <strong><sup>9</sup></strong>He had 30 sons and gave 30 daughters in marriage outside his clan. He brought in 30 daughters from outside for his sons. He judged Israel <strong>7 years</strong>. <strong><sup>10</sup></strong>He died and was buried at Bethlehem. 	<strong>Elon Judges Israel</strong></span>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> After him <strong>Elon</strong> from Zebulun judged Israel for <strong>10 years</strong>. <strong><sup>12</sup></strong>He died and was buried at Aijalon in Zebulun. <strong>Abdon Judges Israel</strong></span>
+<span class="verse" id="v11"><sup class="verse-num">11</sup> After him <strong>Elon</strong> from Zebulun judged Israel for <strong>10 years</strong>. <strong><sup>12</sup></strong>He died and was buried at Aijalon in Zebulun. 	<strong>Abdon Judges Israel</strong></span>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> After him <strong>Abdon</strong> son of Hillel from Pirathon judged Israel. <strong><sup>14</sup></strong>He had 40 sons and 30 grandsons that rode on 70 donkeys. He judged Israel <strong>8 years.</strong> <strong><sup>15</sup></strong>He died and was buried at Pirathon in Ephraim in the hill country of the Amalekites.<strong>	</strong><strong>Jud 12:8-15</strong> <strong>The Samson Cycle</strong></span>
+<span class="verse" id="v13"><sup class="verse-num">13</sup> After him <strong>Abdon</strong> son of Hillel from Pirathon judged Israel. <strong><sup>14</sup></strong>He had 40 sons and 30 grandsons that rode on 70 donkeys. He judged Israel <strong>8 years.</strong> <strong><sup>15</sup></strong>He died and was buried at Pirathon in Ephraim in the hill country of the Amalekites.</span>
+<p class="section-ref">Jud 12:8-15</p>
 
 
 <style>

@@ -10,7 +10,19 @@ weight: 1
 
 ## Leviticus Chapter 1
 
-<span class="verse" id="v1"><strong><sup>1</sup></strong>The LORD called to Moses from the Tent of Meeting and told him,</span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> The LORD called to Moses from the Tent of Meeting and told him,</span>
+
+<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>“When </em><em>you take</em><em> an offering to the </em><em>L</em><em>ORD</em><em>, </em><em>take</em><em> it from the herd or flock.</em><em> </em><strong><sup>3</sup></strong><em>For </em><em>a burnt offering from the </em><em><u>herd</u></em><em>, </em><em>offer a male without defect. O</em><em>ffer it at the </em><em>entrance to</em><em> the </em><em>Tent of Meeting </em><strong><sup>4</sup></strong><em>and</em><em> </em><em>put</em><em> </em><em>your</em><em> hand on </em><em>its</em><em> head </em><em>to make it </em><em>acceptable </em><em>to atone</em><em> </em><em>for you</em><em>.</em><em> </em><strong><sup>5</sup></strong><em>Slaughter</em><em> the young bull</em><em>, and the sons of Aaron,</em><em> the priests</em><em>,</em><em> will offer up </em><em>its</em><em> blood and sprinkle it around on the altar at t</em><em>he entrance to the Tent of Meeting. </em><em> </em><strong><sup>6</sup></strong><em>S</em><em>kin the burnt offering and </em><em>butcher it</em><em>.</em><em> </em><strong><sup>7</sup></strong><em>The sons of Aaro</em><em>n will put fire on the altar, arrange wood on the fire, </em><strong><sup>8</sup></strong><em>and </em><em>arrange the pieces, head, and </em><em>fat</em><em> </em><em>on</em><em> the wood.</em><em> </em><strong><sup>9</sup></strong><em>But you</em><em>’ll wash its entrails and legs</em><em>, and t</em><em>he priest will offer it up in smoke for a burnt offering,</span>
+<p class="section-ref">Lev 1:1-9</p>
+
+<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>“If your burnt offering is a sheep or goat from the </em><em><u>flock</u></em><em>, it’ll be without defect. </em><strong><sup>11</sup></strong><em>Slaughter it on the north side of the altar in front of the </em><em>L</em><em>ORD</em><em>, and the sons of Aaron will sprinkle its blood around on the altar. </em><strong><sup>12</sup></strong><em>Then butcher it with its head and fat, and the priests will arrange the pieces on the wood on the altar. </em><strong><sup>13</sup></strong><em>You’ll wash the entrails and legs, and the priest will offer it up in smoke for a burnt offering on the altar, </em><em>a</em><em>n</em><em> aroma </em><em>pleasing </em><em>to the </em><em>L</em><em>ORD</em><em>.</span>
+<p class="section-ref">Lev 1:10-13</p>
+
+### Burnt Offering of Birds
+
+
+<span class="verse" id="v14"><sup class="verse-num">14</sup> <em>“I</em><em>f it’s a </em><em>burnt offering of </em><em><u>birds</u></em><em>, bring an offering of a turtledove or young pigeon. </em><strong><sup>15</sup></strong><em>The priest will take it to the altar, wring it neck, and offer it up in smoke. He’ll drain out its blood on the side of the altar, </em><strong><sup>16</sup></strong><em>take away its crop and feathers, and cast it on the east side of the altar toward the place for the ashes. </em><strong><sup>17</sup></strong><em>Then he’ll tear it by its wings—but not cut it in two—and offer it up in smoke on the altar. It’s a burnt offering, an aroma pleasing to the </em><em>L</em><em>ORD</em><em>.</em><strong></span>
+<p class="section-ref">Lev 1:14-17</p>
 
 
 <style>

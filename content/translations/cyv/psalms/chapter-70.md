@@ -11,6 +11,8 @@ weight: 70
 
 ## Psalms Chapter 70
 
+### for a Memorial
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Hurry and deliver me, Yahveh; come quick to help me.</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> Discredit those who want to kill me; turn them back and dishonor the people that delight in harming me.</span>

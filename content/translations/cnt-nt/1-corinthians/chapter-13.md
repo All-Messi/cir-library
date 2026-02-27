@@ -18,9 +18,6 @@ weight: 13
 <span class="verse" id="v8"><sup class="verse-num">8</sup> Love never falls out of the picture. But prophesying will pass away; languages will stop; knowledge will disappear. 9We know partially and prophecy partially. 10But, when what's final comes, what's preliminary will disappear. 11When I was a kid, I talked like one, thought like one, reasoned like one. When I grew up, I quit doing what a kid does. 12We see in a mirror blurry now, but we'll see directly then. I know partly now, but then I'll know as I'm known. 13There's faith, hope, and love now—those three; but love is the most important.</span>
 <p class="section-ref">1 Cor 12:31-</p>
 
-### 13:13 How Speaking in Languages Works
-
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

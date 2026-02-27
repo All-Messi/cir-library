@@ -11,9 +11,14 @@ weight: 4
 
 ## Revelation Chapter 4
 
+### The Throne Room in Heaven 	 	  eaven
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> After that, I saw a door standing open in heaven. The first voice I heard sounded like a trumpet, <em>“Come up here</em><em>,</em><em> and I’ll show you what </em><em>needs</em><em> to happen.”</em> <strong><sup>2</sup></strong>Right away I was in the spirit and saw a throne in heaven and One sitting on it <strong><sup>3</sup></strong>that looked like jasper and cardelian with an emerald rainbow arching over the throne. <strong><sup>4</sup></strong>Around the throne, 24 elders were sitting on 24 thrones, dressed in white and wearing gold crowns. <strong><sup>5</sup></strong>Lightning flashes and loud peals of thunder came out of the throne. In front of the throne, seven braziers were burning that were the seven spirits of God. <strong><sup>6</sup></strong>What looked like a clear crystal sea lay in front of the throne. Close around the throne were four living beings with eyes all over them. <strong><sup>7</sup></strong>The first looked like a lion, the second like a calf; the third had a man’s face, and the fourth looked like a flying eagle. <strong><sup>8</sup></strong>The four living beings, each with six wings and eyes all over, kept saying day and night, <em>“Holy, holy, holy,</em> <em>	</em><em>L</em><em>ORD</em><em> God Almighty, </em> <em>who was and is and is to come.”</em><em>                               </em><em>	</em><em>	          </em></span>
 
 <span class="verse" id="v9"><sup class="verse-num">9</sup> When the four living beings gave glory, honor, and thanks to the One on the throne, who lives forevermore, <strong><sup>10</sup></strong>the 24 elders knelt to worship him and cast their crowns in front of the throne, saying,</span>
+
+<span class="verse" id="v11"><sup class="verse-num">11</sup> <em>“Our</em><em> </em><em>L</em><em>ORD</em><em> and God,</em><em> you deserve</em> <em>	</em><em>	glory, honor, and power</em> <em>	</em><em>	because you created </em><em>everything</em><em>;</em> <em>	</em><em>by</em><em> your will they came into being</em><em>.”</em><em></span>
+<p class="section-ref">Rev 4:1-11</p>
 
 
 <style>

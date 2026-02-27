@@ -3,7 +3,7 @@ author: Virgil Warren, PhD
 categories:
 - Ministry
 - Preparation For Ministry
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: THE GOAL OF A “THEOLOGICAL” EDUCATION
 weight: 2

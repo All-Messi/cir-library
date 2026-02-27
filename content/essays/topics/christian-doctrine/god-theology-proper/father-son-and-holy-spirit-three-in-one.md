@@ -4,7 +4,7 @@ categories:
 - Topics
 - Christian Doctrine
 - God Theology Proper
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: 'FATHER, SON, AND HOLY SPIRIT: THREE-IN-ONE'
 weight: 3

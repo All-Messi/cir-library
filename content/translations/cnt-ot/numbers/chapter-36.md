@@ -10,6 +10,8 @@ weight: 36
 
 ## Numbers Chapter 36
 
+### Women Heirs of Property
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> The heads of clans came down from Gilead (son of Machir son of Manasseh son of Joseph) to Moses and Israel’s leaders. <strong><sup>2</sup></strong>They said, <em>“The </em><em>L</em><em>ORD</em><em> </em><em>told</em><em> you to allot land to Israel for inheritance</em><em>, and</em><em> to give t</em><em>he inheritance of Zelophehad our</em><em> </em><em>relative</em><em> to his daughters.</em><em> </em><strong><sup>3</sup></strong><em>But if they marry outside their tribe, their inheritance will move to the new tri</em><em>b</em><em>e.</em><em> </em><strong><sup>4</sup></strong><em>When </em><em>Israel’s</em><em> </em><em>Year of </em><em>Jubilee comes, </em><em>it</em><em> will become permanent in the new tribe and lost from our</em><em>s</em><em>.”</em></span>
 
 <span class="verse" id="v5"><sup class="verse-num">5</sup> So from the LORD Moses said, <strong><sup>	</sup></strong><em>“Joseph’s</em><em> </em><em>descendants </em><em>are raising a legitimate </em><em>issue</em><em>.</em><em> </em><strong><sup>6</sup></strong><em>D</em><em>o this:</em><em> </em><em>the daughters of Zelophehad can </em><em>marry anyone </em><em>in their father’s tribe.</em><em> </em><strong><sup>7</sup></strong><em>I</em><em>nheritance </em><em>can</em><em>’t</em><em> move from tribe to tribe.</em><em> </em><strong><sup>8</sup></strong><em>Every daughter that inherits </em><em>must</em><em> marry</em><em> </em><em>in her tribe.</em><em> </em><strong><sup>9</sup></strong><em>Each tribe will retain its inheritance.”</em></span>
@@ -18,9 +20,6 @@ weight: 36
 
 <span class="verse" id="v13"><sup class="verse-num">13</sup> The LORD gave those commandments to Israel through Moses in the Plain of Moab by the Jordan across from Jericho.</span>
 <p class="section-ref">Num 36:1-13</p>
-
-### Version by Virgil Warren: christir.org
-
 
 
 <style>

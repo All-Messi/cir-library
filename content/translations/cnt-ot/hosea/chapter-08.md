@@ -11,6 +11,8 @@ weight: 8
 
 ## Hosea Chapter 8
 
+### Israel Will Reap the Whirlwind
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> <em>“Put</em><em> the bugle to your lips!</em> <em>	A vulture is </em><em>swooping down on</em><em> the </em><em>L</em><em>ORD</em><em>’s</em><em> </em><em>Temple</em> <em>	</em><em>	because my people have broken my covenant</em> <em>	</em><em>	and disobeyed my Law.</em></span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> <em>Israel</em><em> pleads </em><em>with</em><em> me,</em> <em>	</em><em>‘</em><em>We know you</em><em>; you’re</em><em> our God!</em><em>’</em></span>
@@ -19,13 +21,21 @@ weight: 8
 
 <span class="verse" id="v4"><sup class="verse-num">4</sup> <em>He’s</em><em> set up kings, but not by </em><em>me;</em> <em>	</em><em>he’s</em><em> appointed officials, but I didn’t know it.</em> <em>By making</em><em> idols out of </em><em>his</em><em> silver and gold</em><em>,</em> <em>	</em><em>he’s</em><em> g</em><em>o</em><em>t</em><em>ten</em><em> </em><em>himself</em><em> destroyed.</em></span>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>Even</em><em> th</em><em>at</em><em> calf </em><em>originated</em><em> from Israel!</em> <em>	A workman made it, so it’s not </em><em>God;</em> <em>	Samaria’s calf will be </em><em>smashed</em><em>.</em><em>	</em><em>	</em><em>	</em><em>	</em><strong>Hos 8:1-</strong><strong>6</strong></span>
+<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>“I’ve</em><em> rejected your calf, Samaria, and said,</em> <em>	</em><em>‘</em><em>My anger burns against you!</em><em>’</em> <em>	How long will </em><em>you</em><em> not be capable of innocence?</em></span>
+
+<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>Even</em><em> th</em><em>at</em><em> calf </em><em>originated</em><em> from Israel!</em> <em>	A workman made it, so it’s not </em><em>God;</em> <em>	Samaria’s calf will be </em><em>smashed</em><em>.</span>
+<p class="section-ref">Hos 8:1-6</p>
+
+<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>“</em><em>You</em><em>’ve</em><em> sown the </em><em>wind;</em> <em>	</em><em>you</em><em>’ll reap the whirlwind.</em> <em>Your</em><em> standing grain has no </em><em>heads;</em> <em>	it won’t yield any grain. </em> <em>	If it did, foreigners would eat it.</em><em>	</em><em>   </em></span>
 
 <span class="verse" id="v8"><sup class="verse-num">8</sup> <em>Israel</em><em> has been swallowed </em><em>up;</em> <em>	among the nations</em> <em>	</em><em>	he’s like a pot nobody cares about.</em></span>
 
 <span class="verse" id="v9"><sup class="verse-num">9</sup> <em>He’s</em><em> gone up to Assyria</em> <em>	like a wild donkey all </em><em>alone;</em> <em>	Ephraim has hired lovers.</em></span>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>Even</em><em> though </em><em>he’s</em><em> hired other nations as allies,</em> <em>	I’ll gather </em><em>him</em><em> up for judgment.</em> <em>	</em><em>He</em><em> won’t be appointing </em> <em>	</em><em>	</em><em>his</em><em> own kings and officials for a while!</em>		<strong>Hos</strong><strong> 8:7-10</strong></span>
+<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>Even</em><em> though </em><em>he’s</em><em> hired other nations as allies,</em> <em>	I’ll gather </em><em>him</em><em> up for judgment.</em> <em>	</em><em>He</em><em> won’t be appointing </em> <em>	</em><em>	</em><em>his</em><em> own kings and officials for a while!</span>
+<p class="section-ref">Hos 8:7-10</p>
+
+<span class="verse" id="v11"><sup class="verse-num">11</sup> <em>“Ephraim</em><em> has multiplied altars to remove sin,</em> <em>	but they’re altars for him to </em><em>sin</em><em> with.</em></span>
 
 <span class="verse" id="v12"><sup class="verse-num">12</sup> <em>Though</em><em> I wrote 10,000 laws for him,</em> <em>	he considers them something foreign.</em></span>
 
@@ -33,9 +43,6 @@ weight: 8
 
 <span class="verse" id="v14"><sup class="verse-num">14</sup> <em>Israel</em><em> has forgotten his Maker and built </em><em>palaces;</em> <em>	Judah has </em><em>multiplied </em><em>fortified towns.</em> <em>But I’ll set their towns afire</em> <em>	and burn their fortresses.</em><em>”</em></span>
 <p class="section-ref">Hos 8:11-14</p>
-
-### Hosea Announces Israel’s Punishment
-
 
 
 <style>

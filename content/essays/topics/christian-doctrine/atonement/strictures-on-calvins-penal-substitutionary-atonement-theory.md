@@ -4,7 +4,7 @@ categories:
 - Topics
 - Christian Doctrine
 - Atonement
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: 'STRICTURES ON CALVIN’S PENAL SUBSTITUTIONARY ATONEMENT  THEORY:'
 weight: 3

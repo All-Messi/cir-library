@@ -3,7 +3,7 @@ author: Virgil Waren     christir.org
 categories:
 - Topics
 - Notion In A Nutshell
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: NEW TESTAMENT CANON
 weight: 2

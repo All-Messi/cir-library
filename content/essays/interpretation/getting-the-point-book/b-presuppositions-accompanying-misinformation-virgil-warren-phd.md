@@ -3,7 +3,7 @@ author: b. Presuppositions (accompanying misinformation)         Virgil Warren, 
 categories:
 - Interpretation
 - Getting The Point Book
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: b. Presuppositions (accompanying misinformation)         Virgil Warren, PhD
 weight: 2

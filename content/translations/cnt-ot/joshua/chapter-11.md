@@ -11,6 +11,8 @@ weight: 11
 
 ## Joshua Chapter 11
 
+### Northern Kings Defeated
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> When Jabin, king of Hazor, heard about it, he sent to Jobab, king of Madon, to the king of Shimron to the king of Achshaph,</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> to the kings in the northern hill country, the Arabah south of Chinneroth, the western foothills, Naphothdor on the west,</span>
@@ -26,7 +28,7 @@ weight: 11
 
 <span class="verse" id="v16"><sup class="verse-num">16</sup> Joshua conquered the hill country, the Negev, Goshen, the lowland, the Arabah, the hill country of Israel and its lowland <strong><sup>17</sup></strong>from Mount Halak that rises toward Seir, all the way to Baal-gad in the Valley of Lebanon below Mount Hermon. He put their kings to death. <strong><sup>18</sup></strong>Joshua fought those kings for a long time. <strong><sup>19</sup></strong>No city made peace with Israel except the Hivites in Gibeon. <strong><sup>20</sup></strong>The LORD hardened their hearts to come out against Israel so they’d be destroyed without mercy.</span>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> At that time, Joshua completely wiped out the Anakim and their towns in the hill county—Hebron, Debir, Anab, <em>and the towns in</em> <em>the territory of </em>Judah and Israel. <strong><sup>2</sup></strong><strong><sup>2</sup></strong>The only Anakim left were a few in Gaza, Gath, and Ashdod. <strong><sup>23</sup></strong>He took the whole land the way the LORD had told Moses. He gave it to Israel by tribal allotments. The land rested from war.<strong>    </strong><strong>Josh 11:10-23</strong> <strong>List of Defeated Kings</strong></span>
+<span class="verse" id="v21"><sup class="verse-num">21</sup> At that time, Joshua completely wiped out the Anakim and their towns in the hill county—Hebron, Debir, Anab, <em>and the towns in</em> <em>the territory of </em>Judah and Israel. <strong><sup>2</sup></strong><strong><sup>2</sup></strong>The only Anakim left were a few in Gaza, Gath, and Ashdod. <strong><sup>23</sup></strong>He took the whole land the way the LORD had told Moses. He gave it to Israel by tribal allotments. The land rested from war.<strong>    </strong><strong>Josh 11:10-23</strong> 	<strong>List of Defeated Kings</strong></span>
 
 
 <style>

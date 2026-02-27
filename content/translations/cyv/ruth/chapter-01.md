@@ -13,10 +13,11 @@ weight: 1
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Judges were ruling when a famine came over the country. A man from Bethlehem in Judah went with his wife and sons to stay in Moab. <strong><sup>2</sup></strong>His name was Elimelech, his wife was Naomi, and his sons were Mahlon and Chilion, Ephrathites. <strong><sup>3</sup></strong>But Elimelech died and Naomi was left with her two sons. <strong><sup>4</sup></strong>They married Moabite wives Orpah and Ruth. They lived there about ten years, <strong><sup>5</sup></strong>and Mahlon and Chilion died too. So Naomi lost her husband and both sons.</span>
 <p class="section-ref">Ruth 1:1-5</p>
 
-### Naomi and Ruth Return 6-7With her daughters-in-law she started to go back from Moab, because she’d heard that Yahveh had visited his people and given them food. 8She told them, “Both of you, go to your mother’s house. May Yahveh deal graciously with you, as you have with the dead and with me. 9May he grant you to find a home in your husband’s house.” She kissed them. They cried 10and said to her, “No, we’ll go with you to your people.”
+### Naomi and Ruth Return
 
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> But Naomi said, <em>“</em><em>Go</em><em> back, my daughters</em><em>. W</em><em>hy go with me?</em><em> Can</em><em> I still have sons to become your </em><em>husbands</em><em>?</em><em> </em><strong><sup>12</sup></strong><em>I’m</em><em> too old to have a husband.</em><em> </em><em>If I said I have hope, even if I should have a husband tonight and have sons, </em><strong><sup>13</sup></strong><em>would</em><em> you wait till they </em><em>were</em><em> grown?</em><em> Would you hold back from</em><em> marrying?</em><em> </em><em>No, it’s </em><em>really bitter</em><em> for me that </em><em>Yahveh</em><em> has </em><em>worked</em><em> against me.”</em><em> </em><em>	</em><strong>Ruth 1:6-13</strong></span>
+<span class="verse" id="v11"><sup class="verse-num">11</sup> But Naomi said, <em>“</em><em>Go</em><em> back, my daughters</em><em>. W</em><em>hy go with me?</em><em> Can</em><em> I still have sons to become your </em><em>husbands</em><em>?</em><em> </em><strong><sup>12</sup></strong><em>I’m</em><em> too old to have a husband.</em><em> </em><em>If I said I have hope, even if I should have a husband tonight and have sons, </em><strong><sup>13</sup></strong><em>would</em><em> you wait till they </em><em>were</em><em> grown?</em><em> Would you hold back from</em><em> marrying?</em><em> </em><em>No, it’s </em><em>really bitter</em><em> for me that </em><em>Yahveh</em><em> has </em><em>worked</em><em> against me.”</em><em></span>
+<p class="section-ref">Ruth 1:6-13</p>
 
 <span class="verse" id="v14"><sup class="verse-num">14</sup> Then they cried out loud again. Orpah kissed her mother-in-law, but Ruth clung to her. <strong><sup>15</sup></strong>Naomi said, <em>“See, your-sister-in-law has gone bac</em><em>k to her people and her gods. G</em><em>o back with her.”</em><em> </em></span>
 
@@ -26,7 +27,10 @@ weight: 1
 
 <span class="verse" id="v19"><sup class="verse-num">19</sup> The two of them went on to Bethlehem. When they got there, the whole town was stirred. The women said, <em>“Is this Naomi?”</em></span>
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> So Naomi came back, and Ruth came with her. They reached Bethlehem at the beginning of barley harvest.<strong>	</strong><strong>Ruth 1:14-22</strong> <strong>Ruth Meets Boaz</strong></span>
+<span class="verse" id="v20"><sup class="verse-num">20</sup> <em>“</em><em>Don’</em><em>t</em><em> call me Naomi, call me </em><em>Mara</em><em>. The Almighty h</em><em>as dealt </em><em>‘</em><em>bitterly</em><em>’</em><em> with me.</em><em> </em><strong><sup>21</sup></strong><em>I</em><em> went away full;</em><em> </em><em>he</em><em> brought me back empty.</em><em> </em><em>Why call me Naomi</em><em>? Yahveh h</em><em>as </em><em>made me suffer;</em><em> the Almi</em><em>ghty has brought me misfortune.</em><em>”</em></span>
+
+<span class="verse" id="v22"><sup class="verse-num">22</sup> So Naomi came back, and Ruth came with her. They reached Bethlehem at the beginning of barley harvest.</span>
+<p class="section-ref">Ruth 1:14-22</p>
 
 
 <style>

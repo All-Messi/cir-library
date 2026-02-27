@@ -4,7 +4,7 @@ categories:
 - Topics
 - Christian Doctrine
 - Holy Spirit Pneumatology
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: PRIME FACTS ABOUT THE HOLY SPIRIT
 weight: 3

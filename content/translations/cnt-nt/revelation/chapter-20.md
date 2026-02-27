@@ -11,7 +11,9 @@ weight: 20
 
 ## Revelation Chapter 20
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> I watched an angel come down from heaven with the key to the abyss and a big chain in his hand. <strong><sup>2</sup></strong>He seized the dragon—the old serpent, the devil, Satan—bound him for 1,000 years, <strong><sup>3</sup></strong>and threw him into the abyss. He locked it and sealed it over him so he couldn’t deceive the nations till the 1,000 years were over. Afterward he’ll need to be released for a little while. <strong></span>
+### The Millennium
+
+<span class="verse" id="v1"><sup class="verse-num">1</sup> I watched an angel come down from heaven with the key to the abyss and a big chain in his hand. <strong><sup>2</sup></strong>He seized the dragon—the old serpent, the devil, Satan—bound him for 1,000 years, <strong><sup>3</sup></strong>and threw him into the abyss. He locked it and sealed it over him so he couldn’t deceive the nations till the 1,000 years were over. Afterward he’ll need to be released for a little while.</span>
 <p class="section-ref">Rev 20:1-3</p>
 
 <span class="verse" id="v4"><sup class="verse-num">4</sup> I saw thrones, and the people that sat on them received the authority to judge. I saw the souls of the people beheaded for <em>bearing </em>the message about Jesus and the word of God, <em>people </em>that hadn’t worshiped the beast or its image and hadn’t received the stamp on their forehead or hand. They’ll live and reign with Christ 1,000 years. <strong><sup>5</sup></strong>The rest of the dead didn’t live again till the 1,000 years ended. That’s the first resurrection. <strong><sup>6</sup></strong>People that take part in the first resurrection are blessed and holy; the second death won’t have any power over them. They’ll be priests for God and Christ, and reign with him 1,000 years.</span>
@@ -28,9 +30,6 @@ weight: 20
 
 <span class="verse" id="v11"><sup class="verse-num">11</sup> I saw a large white throne and the One that was sitting on it. Earth and sky fled from him; they were no longer there. <strong><sup>12</sup></strong>I saw the dead, from least to greatest, standing in front of the throne, and the books were opened. Another book was opened, <em>the Book</em> of Life; and the dead were judged by their deeds written in the books. <strong><sup>13</sup></strong>The sea, death, and the grave gave up their dead. <strong><sup>14</sup></strong>Death and the grave were thrown into the burning lake, which is the second death. <strong><sup>15</sup></strong>Anybody that wasn’t in the Book of Life was thrown into the burning lake.</span>
 <p class="section-ref">Rev 20:11-15</p>
-
-### The New Earth and Sky
-
 
 
 <style>

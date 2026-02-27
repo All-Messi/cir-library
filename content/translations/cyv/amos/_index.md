@@ -3,7 +3,7 @@ book: Amos
 chapters: 9
 title: Amos
 translation: CYV
-type: scripture
+type: book
 weight: 30
 ---
 

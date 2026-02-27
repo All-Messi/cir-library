@@ -11,6 +11,8 @@ weight: 8
 
 ## Exodus Chapter 8
 
+### The Plague of Frogs
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Yahveh said to Moses, <em>“Go </em><em>tell</em><em> Pharaoh</em><em> Yahveh says to let</em><em> </em><em>his people go</em><em> so they can serve </em><em>him</em><em>.</em><em> </em><strong><sup>2</sup></strong><em>If you </em><em>don’t, he</em><em>’ll strike the whole country with </em><strong><em>frogs</em></strong><em>.</em><em> </em><strong><sup>3</sup></strong><em>The Nile will teem with them.</em><em> </em><em>They’ll c</em><em>ome up into your house, your bedroom, your bed, </em><em>your </em><em>official</em><em>s’ houses and on your</em><em> people, in your ovens and </em><em>kneading bowls.</em><em> [</em><strong><sup>4</sup></strong><em>]’” </em></span>
 
 <span class="verse" id="v5"><sup class="verse-num">5</sup> Then Yahveh said to Moses, <em>“Tell Aaron to h</em><em>old </em><em>his</em><em> staff out over the rivers, canals, and pools, and make frogs come up </em><em>all over the ground</em><em>.</em><em>” </em><em> </em><strong><sup>6</sup></strong>Aaron held his hand out over the water, and frogs came up and covered the whole country. <strong><sup>7</sup></strong>The magicians did the same thing with their magic, and made frogs come up on the ground everywhere in Egypt.</span>
@@ -20,7 +22,9 @@ weight: 8
 
 <span class="verse" id="v9"><sup class="verse-num">9</sup> Moses asked<em>, “</em><em>When should I ask for</em><em> the frogs </em><em>to leave you and your houses, and be only in the Nile?</em><em>”</em><em> </em></span>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> Moses left Pharaoh and called out to Yahveh about the frogs. <strong><sup>13</sup></strong>Yahveh did what he asked; the frogs died in the houses, courts, and fields. <strong><sup>14</sup></strong>They piled them up and the country reeked. <strong><sup>15</sup></strong>When Pharaoh saw relief, he hardened his heart and wouldn’t listen.<strong>   </strong><strong></span>
+<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>“</em><em>Tomorrow.”</em> “<em>All right;</em><em> </em><em>so</em><em> you </em><em>can know there’s nobody like Yahveh our God, </em><strong><sup>11</sup></strong><em>t</em><em>he frogs will leave</em><em> everywhere except</em><em> in the Nile.</em><em>”</em></span>
+
+<span class="verse" id="v12"><sup class="verse-num">12</sup> Moses left Pharaoh and called out to Yahveh about the frogs. <strong><sup>13</sup></strong>Yahveh did what he asked; the frogs died in the houses, courts, and fields. <strong><sup>14</sup></strong>They piled them up and the country reeked. <strong><sup>15</sup></strong>When Pharaoh saw relief, he hardened his heart and wouldn’t listen.<strong></span>
 <p class="section-ref">Ex 8:8-15</p>
 
 ### The Plague of Gnats
@@ -43,7 +47,8 @@ weight: 8
 
 <span class="verse" id="v29"><sup class="verse-num">29</sup> Moses said, <em>“I’m leaving; I’ll pray to Yahveh that the swarms of insects will leave tomorrow. But you must not lie again and not let the people go sacrifice to him</em><em><sup>Y</sup></em><em>.” </em></span>
 
-<span class="verse" id="v30"><sup class="verse-num">30</sup> Moses left and prayed to Yahveh, <strong><sup>31</sup></strong>and he took the swarms away completely. <strong><sup>32</sup></strong>But Pharaoh hardened his heart that time too and wouldn’t let the people go.	<strong>Ex</strong> <strong>8:26-32</strong> <strong>The Plague on Livestock</strong></span>
+<span class="verse" id="v30"><sup class="verse-num">30</sup> Moses left and prayed to Yahveh, <strong><sup>31</sup></strong>and he took the swarms away completely. <strong><sup>32</sup></strong>But Pharaoh hardened his heart that time too and wouldn’t let the people go.</span>
+<p class="section-ref">Ex 8:26-32</p>
 
 
 <style>

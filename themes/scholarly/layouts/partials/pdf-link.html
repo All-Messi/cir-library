@@ -1,0 +1,85 @@
+{{/*
+    pdf-link.html — Renders a PDF download icon/button.
+    
+    Determines the PDF path from the page's RelPermalink:
+    - Essay:          /pdfs/essays/.../<slug>.pdf
+    - Bible chapter:  /pdfs/translations/<translation>/<book>.pdf  (whole book)
+    - Bible book:     /pdfs/translations/<translation>/<book>.pdf
+    - Harmony:        /pdfs/translations/harmony/the-harmonized-gospels.pdf
+    
+    Usage:
+      {{ partial "pdf-link.html" . }}
+      {{ partial "pdf-link.html" (dict "page" . "style" "toolbar") }}
+*/}}
+
+{{ $page := . }}
+{{ $style := "default" }}
+
+{{ if reflect.IsMap . }}
+    {{ $page = .page }}
+    {{ $style = .style | default "default" }}
+{{ end }}
+
+{{ $pdfPath := "" }}
+{{ $tooltip := "Download PDF" }}
+
+{{/* Helper: strip baseURL prefix and trailing slash from RelPermalink */}}
+{{ $rel := $page.RelPermalink }}
+{{ $rel = $rel | replaceRE "^/[^/]+/" "" | replaceRE "/$" "" }}
+
+{{/* ---- HARMONY SECTION ---- */}}
+{{ if eq ($page.Params.type | default "") "harmony-section" }}
+    {{ $pdfPath = "pdfs/translations/harmony/the-harmonized-gospels.pdf" }}
+    {{ $tooltip = "Download Harmony PDF" }}
+
+{{/* ---- BIBLE CHAPTER ---- */}}
+{{ else if eq ($page.Params.type | default "") "chapter" }}
+    {{/* Parent is the book section: /translations/cnt-nt/romans/
+         Strip base + trailing slash → translations/cnt-nt/romans
+         Add .pdf → pdfs/translations/cnt-nt/romans.pdf */}}
+    {{ $parentRel := $page.Parent.RelPermalink | replaceRE "^/[^/]+/" "" | replaceRE "/$" "" }}
+    {{ if $parentRel }}
+        {{ $pdfPath = printf "pdfs/%s.pdf" $parentRel }}
+    {{ end }}
+    {{ $tooltip = printf "Download %s PDF" ($page.Params.book | default "Book") }}
+
+{{/* ---- BIBLE BOOK INDEX ---- */}}
+{{ else if eq ($page.Params.type | default "") "book" }}
+    {{/* This IS the book section: /translations/cnt-nt/romans/
+         → pdfs/translations/cnt-nt/romans.pdf */}}
+    {{ if $rel }}
+        {{ $pdfPath = printf "pdfs/%s.pdf" $rel }}
+    {{ end }}
+    {{ $tooltip = printf "Download %s PDF" ($page.Params.book | default $page.Title) }}
+
+{{/* ---- ESSAY (default) ---- */}}
+{{ else }}
+    {{/* /essays/.../slug → pdfs/essays/.../slug.pdf */}}
+    {{ if $rel }}
+        {{ $pdfPath = printf "pdfs/%s.pdf" $rel }}
+    {{ end }}
+    {{ $tooltip = "Download PDF" }}
+{{ end }}
+
+{{/* ---- RENDER ---- */}}
+{{ if $pdfPath }}
+    {{ if eq $style "toolbar" }}
+        <a href="{{ $pdfPath | relURL }}" target="_blank" class="toolbar-btn pdf-btn" title="{{ $tooltip }}">
+            <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M4 1h5.5L13 4.5V13a2 2 0 01-2 2H5a2 2 0 01-2-2V3a2 2 0 012-2z" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M9.5 1v4H13" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M8 8v4M6 10l2 2 2-2" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+            <span class="pdf-label">PDF</span>
+        </a>
+    {{ else }}
+        <a href="{{ $pdfPath | relURL }}" target="_blank" class="pdf-download" title="{{ $tooltip }}">
+            <svg width="18" height="18" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M4 1h5.5L13 4.5V13a2 2 0 01-2 2H5a2 2 0 01-2-2V3a2 2 0 012-2z" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M9.5 1v4H13" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M8 8v4M6 10l2 2 2-2" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+            <span>PDF</span>
+        </a>
+    {{ end }}
+{{ end }}

@@ -11,6 +11,8 @@ weight: 5
 
 ## Galatians Chapter 5
 
+### :1 	Law and Trust, Mutually Exclusive Systems
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Christ really has set us free; so stand firm; don't put yourselves back under a yoke of bondage.</span>
 <p class="section-ref">Gal 4:21-5</p>
 

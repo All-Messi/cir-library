@@ -4,7 +4,7 @@ categories:
 - Interpretation
 - Commentaries
 - Sermon On The Mount Book
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: OVERCOMING THE CRITICAL MIND SET
 weight: 3

@@ -11,97 +11,98 @@ weight: 33
 
 ## Numbers Chapter 33
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> These are the segments of the journey Israel took when they left Egypt. <strong><sup>2</sup></strong>The LORD told Moses to write them down. <strong><sup>3</sup></strong>They traveled from Rameses on the <strong>fifteenth day, first month,</strong> <strong>the day after </strong><strong>Passover</strong>. They left right in front of the Egyptians <strong><sup>4</sup></strong>while they were burying the firstborn that the LORD struck. The LORD also carried out judgments against their gods. <strong>Num 33:1-4</strong></span>
+### Recounting Israel’s Journey
+
+<span class="verse" id="v1"><sup class="verse-num">1</sup> These are the segments of the journey Israel took when they left Egypt. <strong><sup>2</sup></strong>The LORD told Moses to write them down. <strong><sup>3</sup></strong>They traveled from Rameses on the <strong>fifteenth day, first month,</strong> <strong>the day after </strong><strong>Passover</strong>. They left right in front of the Egyptians <strong><sup>4</sup></strong>while they were burying the firstborn that the LORD struck. The LORD also carried out judgments against their gods.</span>
+<p class="section-ref">Num 33:1-4</p>
 
 <span class="verse" id="v5"><sup class="verse-num">5</sup> They left from Ramses 			to Succoth,</span>
 
-<span class="verse" id="v6"><strong><sup>6</sup></strong>to Etham on the edge of open country, <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong>where they turned back,</span>
+<span class="verse" id="v6"><sup class="verse-num">6</sup> to Etham on the edge of open country, <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong>where they turned back,</span>
 
-<span class="verse" id="v7"><strong><sup>7</sup></strong>to Pi-hahiroth, in front of Baal-Zephon, and camped near Migdol.</span>
+<span class="verse" id="v7"><sup class="verse-num">7</sup> to Pi-hahiroth, in front of Baal-Zephon, and camped near Migdol.</span>
 
 <span class="verse" id="v8"><sup class="verse-num">8</sup> They passed through the sea to the Wilderness of Etham for 3 days They camped at Marah and</span>
 
-<span class="verse" id="v9"><strong><sup>9</sup></strong>Elim, where there were 12 springs and 70 palms trees.</span>
+<span class="verse" id="v9"><sup class="verse-num">9</sup> Elim, where there were</span>
 
-<span class="verse" id="v10"><strong><sup>10</sup></strong>They camped by the Red Sea,</span>
+<span class="verse" id="v10"><sup class="verse-num">10</sup> They camped by the Red Sea,</span>
 
-<span class="verse" id="v11"><strong><sup>11</sup></strong>then in the Wilderness of Sin,</span>
+<span class="verse" id="v11"><sup class="verse-num">11</sup> then in the Wilderness of Sin,</span>
 
-<span class="verse" id="v12"><strong><sup>	</sup></strong>				<strong><sup>12</sup></strong>in Dophkah,</span>
+<span class="verse" id="v12"><sup class="verse-num">12</sup> in Dophkah,</span>
 
-<span class="verse" id="v13"><strong><sup>13</sup></strong>Alush,</span>
+<span class="verse" id="v13"><sup class="verse-num">13</sup> Alush,</span>
 
-<span class="verse" id="v14"><strong><sup>14</sup></strong>in Rephidim, where there was no water to drink.</span>
+<span class="verse" id="v14"><sup class="verse-num">14</sup> in Rephidim, where there was no water to drink.</span>
 
-<span class="verse" id="v15"><strong><sup>15</sup></strong>They camped in the Wilderness of Sinai,</span>
+<span class="verse" id="v15"><sup class="verse-num">15</sup> They camped in the Wilderness of Sinai,</span>
 
-<span class="verse" id="v16"><strong><sup>16</sup></strong>Kibroth-hattaavah,</span>
+<span class="verse" id="v16"><sup class="verse-num">16</sup> Kibroth-hattaavah,</span>
 
-<span class="verse" id="v17"><strong><sup>17</sup></strong>Hazeroth,</span>
+<span class="verse" id="v17"><sup class="verse-num">17</sup> Hazeroth,</span>
 
-<span class="verse" id="v18"><strong><sup>18</sup></strong>Rithmah,</span>
+<span class="verse" id="v18"><sup class="verse-num">18</sup> Rithmah,</span>
 
-<span class="verse" id="v19"><strong><sup>19</sup></strong>Rimmon-perez,</span>
+<span class="verse" id="v19"><sup class="verse-num">19</sup> Rimmon-perez,</span>
 
-<span class="verse" id="v20"><strong><sup>20</sup></strong>Libnah,</span>
+<span class="verse" id="v20"><sup class="verse-num">20</sup> Libnah,</span>
 
-<span class="verse" id="v21"><strong><sup>21</sup></strong>Rissah,</span>
+<span class="verse" id="v21"><sup class="verse-num">21</sup> Rissah,</span>
 
-<span class="verse" id="v22"><strong><sup>22</sup></strong>Kehelathah,</span>
+<span class="verse" id="v22"><sup class="verse-num">22</sup> Kehelathah,</span>
 
-<span class="verse" id="v23"><strong><sup>23</sup></strong>Shepher,</span>
+<span class="verse" id="v23"><sup class="verse-num">23</sup> Shepher,</span>
 
-<span class="verse" id="v24"><strong><sup>24</sup></strong>and Haradah,</span>
+<span class="verse" id="v24"><sup class="verse-num">24</sup> and Haradah,</span>
 
-<span class="verse" id="v25"><strong><sup>25</sup></strong>in Makheloth,</span>
+<span class="verse" id="v25"><sup class="verse-num">25</sup> in Makheloth,</span>
 
-<span class="verse" id="v26"><strong><sup>26</sup></strong>Tahath,</span>
+<span class="verse" id="v26"><sup class="verse-num">26</sup> Tahath,</span>
 
-<span class="verse" id="v27"><strong><sup>27</sup></strong>Terah,</span>
+<span class="verse" id="v27"><sup class="verse-num">27</sup> Terah,</span>
 
-<span class="verse" id="v28"><strong><sup>28</sup></strong>Mithkah</span>
+<span class="verse" id="v28"><sup class="verse-num">28</sup> Mithkah</span>
 
-<span class="verse" id="v29"><strong><sup>29</sup></strong>and Hashmonah,</span>
+<span class="verse" id="v29"><sup class="verse-num">29</sup> and Hashmonah,</span>
 
-<span class="verse" id="v30"><strong><sup>30</sup></strong>in Maseroth</span>
+<span class="verse" id="v30"><sup class="verse-num">30</sup> in Maseroth</span>
 
-<span class="verse" id="v31"><strong><sup>31</sup></strong>and Bene-jaakan,</span>
+<span class="verse" id="v31"><sup class="verse-num">31</sup> and Bene-jaakan,</span>
 
-<span class="verse" id="v32"><strong><sup>32</sup></strong>in Hor-haggidgad,</span>
+<span class="verse" id="v32"><sup class="verse-num">32</sup> in Hor-haggidgad,</span>
 
-<span class="verse" id="v33"><strong><sup>33</sup></strong>Jotbathah,</span>
+<span class="verse" id="v33"><sup class="verse-num">33</sup> Jotbathah,</span>
 
-<span class="verse" id="v34"><strong><sup>34</sup></strong>Abronah,</span>
+<span class="verse" id="v34"><sup class="verse-num">34</sup> Abronah,</span>
 
-<span class="verse" id="v35"><strong><sup>35</sup></strong>Ezion-geber,</span>
+<span class="verse" id="v35"><sup class="verse-num">35</sup> Ezion-geber,</span>
 
-<span class="verse" id="v36"><strong><sup>36</sup></strong>in the Wilderness of Zin (Kadesh),</span>
+<span class="verse" id="v36"><sup class="verse-num">36</sup> in the Wilderness of Zin (Kadesh),</span>
 
-<span class="verse" id="v37"><strong><sup>37</sup></strong>and at Mount Hor on the edge of Edom <strong>Num 33:5-37</strong></span>
+<span class="verse" id="v37"><sup class="verse-num">37</sup> and at Mount Hor on the edge of Edom</span>
+<p class="section-ref">Num 33:5-37</p>
 
-<span class="verse" id="v38"><strong><sup>38</sup></strong>The LORD told Aaron to go up to Mount Hor. He died the <strong>first day, fifth month,</strong> <strong>fortieth year after Israel left Egypt</strong>; <strong><sup>39</sup></strong>he was 123. <strong><sup>40</sup></strong>The Canaanite king of Arad, who lived in the Negev, heard Israel was coming.</span>
+<span class="verse" id="v38"><sup class="verse-num">38</sup> The LORD told Aaron to go up to Mount Hor. He died the <strong>first day, fifth month,</strong> <strong>fortieth year after Israel left Egypt</strong>; <strong><sup>39</sup></strong>he was 123. <strong><sup>40</sup></strong>The Canaanite king of Arad, who lived in the Negev, heard Israel was coming.</span>
 
-<span class="verse" id="v41"><strong><sup>1</sup></strong>Israel went					from Mount Hor and camped in Zalmonah,</span>
+<span class="verse" id="v41"><sup class="verse-num">41</sup> Israel went					from Mount Hor and camped in Zalmonah,</span>
 
-<span class="verse" id="v42"><strong><sup>42</sup></strong>then Punon, <strong><sup>43</sup></strong> Oboth,</span>
+<span class="verse" id="v42"><sup class="verse-num">42</sup> then Punon,</span>
 
 <span class="verse" id="v43"><sup class="verse-num">43</sup> Oboth,</span>
 
-<span class="verse" id="v44"><strong><sup>44</sup></strong>Iyeabarim (Iyim) on the border of Moab,</span>
+<span class="verse" id="v44"><sup class="verse-num">44</sup> Iyeabarim (Iyim) on the border of Moab,</span>
 
-<span class="verse" id="v45"><strong><sup>45</sup></strong>at Dibon-gad, <strong><sup>46</sup></strong> Almon-diblathaim,</span>
+<span class="verse" id="v45"><sup class="verse-num">45</sup> at Dibon-gad,</span>
 
 <span class="verse" id="v46"><sup class="verse-num">46</sup> Almon-diblathaim,</span>
 
-<span class="verse" id="v47"><strong><sup>47</sup></strong>the mountains of Abarim near Nebo,</span>
+<span class="verse" id="v47"><sup class="verse-num">47</sup> the mountains of Abarim near Nebo,</span>
 
-<span class="verse" id="v48"><strong><sup>48</sup></strong>and in the plains of Moab by the Jordan across from Jericho.</span>
+<span class="verse" id="v48"><sup class="verse-num">48</sup> and in the plains of Moab by the Jordan across from Jericho.</span>
 
-<span class="verse" id="v49"><sup class="verse-num">49</sup> They camped by the Jordan from Beth-jeshimoth to Abel-shittim on the plains of Moab. <strong>Num 33:38-49</strong> <strong><sup>50</sup></strong><strong><sup>-51</sup></strong>The LORD told Moses to tell Israel there, <em>“When you cross the Jordan in</em><em>to Canaan, </em><strong><sup>52</sup></strong><em>drive out the </em><em>people</em><em>, destroy</em><em> their carved stones and </em><em>molten images, and tear down their </em><em>pagan shrines</em><em>.</em><em> </em><strong><sup>53</sup></strong><em>Take the land and live in it because I’ve given it to you.</em><em> </em><strong><sup>54</sup></strong><em>You’ll inherit land by allotment per </em><em>clan</em><em>.</em><em> Bigger clans</em><em> will inherit more; the </em><em>smaller ones</em><em> will inherit less.</em><em> Their </em><em>allot</em><em>ments will fall </em><em>within </em><em>their</em><em> tribe.</em><em> </em><strong><sup>55</sup></strong><em>If you don’t drive out the </em><em>people</em><em>, they’ll be pricks in your eyes</em><em> and thorns in your sides and cause you </em><em>trouble.</em><em> </em><strong><sup>56</sup></strong><em>I’ll end up doing to you what I intend to do to them.”</em><strong> </strong><strong>   </strong><strong></span>
-<p class="section-ref">Num 33:50-56</p>
-
-### Boundaries of the Land
-
+<span class="verse" id="v49"><sup class="verse-num">49</sup> They camped by the Jordan from Beth-jeshimoth to Abel-shittim on the plains of Moab.</span>
+<p class="section-ref">Num 33:38-49</p>
 
 
 <style>

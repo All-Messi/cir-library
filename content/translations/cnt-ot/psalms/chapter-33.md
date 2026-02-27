@@ -59,9 +59,6 @@ weight: 33
 <span class="verse" id="v22"><sup class="verse-num">22</sup> Send down your enduring love to us, LORD, because we’ve put our hope in you.</span>
 <p class="section-ref">Ps 33:18-22</p>
 
-### in front of Abimelech, Who Drove Him Away
-
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

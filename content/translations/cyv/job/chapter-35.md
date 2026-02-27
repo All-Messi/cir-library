@@ -13,6 +13,8 @@ weight: 35
 
 <span class="verse" id="v1"><sup class="verse-num">1</sup> <strong>Elihu</strong><strong> continued:</strong></span>
 
+<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>“Do</em><em> you think it’s righteous</em> <em>for you to say you’re upright before </em><em>God?</em></span>
+
 <span class="verse" id="v3"><sup class="verse-num">3</sup> <em>You</em><em> </em><em>say, ‘</em><em>What advantage will I have?</em> <em>What benefit will I get more than if I’d sinned?’</em></span>
 
 <span class="verse" id="v4"><sup class="verse-num">4</sup> <em>I’ll</em><em> answer you and your friends.</em></span>
@@ -23,7 +25,10 @@ weight: 35
 
 <span class="verse" id="v7"><sup class="verse-num">7</sup> <em>If</em><em> you’re good, what good are you doing for him?</em> <em>What good does he get out of you?</em></span>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>Your</em><em> goodness is for </em>other <em>people like you.</em><strong>	</strong><strong>Job 35:1-8</strong></span>
+<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>Your</em><em> goodness is for </em>other <em>people like you.</span>
+<p class="section-ref">Job 35:1-8</p>
+
+<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>“They</em><em> cry out because they’re </em><em>oppressed;</em> <em>they call for help against powerful </em>people<em>.</em></span>
 
 <span class="verse" id="v10"><sup class="verse-num">10</sup> <em>But</em><em> nobody says, ‘Where’s God my Maker,</em> <em>who </em><em>gives</em><em> songs at night,</em></span>
 
@@ -37,7 +42,7 @@ weight: 35
 
 <span class="verse" id="v15"><sup class="verse-num">15</sup> <em>Now</em><em>, since he hasn’t visited in his anger</em> <em>and acknowledged sin enough,</em></span>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> <em>you</em><em> open your mouth with empty talk, Job,</em> <em>not knowing what you’re talking about.”</em><strong> </strong><strong></span>
+<span class="verse" id="v16"><sup class="verse-num">16</sup> <em>you</em><em> open your mouth with empty talk, Job,</em> <em>not knowing what you’re talking about.”</em><strong></span>
 <p class="section-ref">Job 35:9-16</p>
 
 

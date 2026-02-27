@@ -4,7 +4,7 @@ categories:
 - Evidences
 - Critical Intro Nt
 - Timothy Titus Pastorals
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: SOURCES OF THE PAULINE MATERIAL
 weight: 3

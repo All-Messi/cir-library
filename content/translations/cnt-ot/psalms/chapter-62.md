@@ -11,6 +11,8 @@ weight: 62
 
 ## Psalms Chapter 62
 
+### Set to Jeduthun
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> I wait for God alone because my victory comes from him.</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> He alone is my rock, my salvation, my fortress; I won’t be shaken.</span>
@@ -37,9 +39,6 @@ weight: 62
 
 <span class="verse" id="v12"><sup class="verse-num">12</sup> and the LORD has enduring love; he pays people according to their work.</span>
 <p class="section-ref">Ps 62:9-12</p>
-
-### When He Was in the Wilderness of Judah
-
 
 
 <style>

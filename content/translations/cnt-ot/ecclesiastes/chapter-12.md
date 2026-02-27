@@ -12,17 +12,21 @@ weight: 12
 
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Remember your Creator when you’re young, before the difficult days come, before the years close in and you say, <em>“I don’t </em><em>enjoy</em><em> them</em><em> </em>anymore<em>”</em>;</span>
 
-<span class="verse" id="v2"><strong><sup>2</sup></strong>before the sun, moon, and stars grow faint and clouds remain after rain;</span>
+<span class="verse" id="v2"><sup class="verse-num">2</sup> before the sun, moon, and stars grow faint and clouds remain after rain;</span>
 
-<span class="verse" id="v3"><strong><sup>3</sup></strong>when the watchmen [arms and hands?] of the house [body] are palsied and strong men [shoulders?] hunch over; when grinders [teeth?] stand idle because they’re few and those looking out of windows [eyes?] can’t see much;</span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> when the watchmen [arms and hands?] of the house [body] are palsied and strong men [shoulders?] hunch over; when grinders [teeth?] stand idle because they’re few and those looking out of windows [eyes?] can’t see much;</span>
 
-<span class="verse" id="v4"><strong><sup>4</sup></strong>when the doors to the street [lips?] are shut and the sound of grinding [chewing?] is muffled, when you arise at the time of a bird’s chirping and young women sing faintly; <strong>	</strong><strong>	</strong><strong>	</strong><strong>Eccl 12:1-4</strong></span>
+<span class="verse" id="v4"><sup class="verse-num">4</sup> when the doors to the street [lips?] are shut and the sound of grinding [chewing?] is muffled, when you arise at the time of a bird’s chirping and young women sing faintly;</span>
+<p class="section-ref">Eccl 12:1-4</p>
 
-<span class="verse" id="v5"><strong><sup>5</sup></strong>when you’re afraid of falling* and scared to walk around; when your hair turns white like almond-tree blossoms and the grasshopper drags itself along; when your appetite’s gone* and you go to your eternal home while wailers walk the streets;</span>
+<span class="verse" id="v5"><sup class="verse-num">5</sup> when you’re afraid of falling* and scared to walk around; when your hair turns white like almond-tree blossoms and the grasshopper drags itself along; when your appetite’s gone* and you go to your eternal home while wailers walk the streets;</span>
 
-<span class="verse" id="v6"><strong><sup>6</sup></strong>before the silver cord snaps, the golden bowl breaks, the pitcher by the well shatters, the pulley at the cistern doesn’t work anymore;</span>
+<span class="verse" id="v6"><sup class="verse-num">6</sup> before the silver cord snaps, the golden bowl breaks, the pitcher by the well shatters, the pulley at the cistern doesn’t work anymore;</span>
 
-<span class="verse" id="v7"><strong><sup>7</sup></strong>when the dust returns to the earth where it was and the spirit returns to the God who gave it.</span>
+<span class="verse" id="v7"><sup class="verse-num">7</sup> when the dust returns to the earth where it was and the spirit returns to the God who gave it.</span>
+
+<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>“Completely</em><em> pointless,”</em> the Preacher says; <em>“</em><em>it’s all</em><em> pointless.”</em></span>
+<p class="section-ref">Eccl 12:5-8</p>
 
 <span class="verse" id="v9"><sup class="verse-num">9</sup> Besides being a wise man, the Preacher taught the people. He weighed, studied, and classified lots of proverbs. <strong><sup>10</sup></strong>He endeavored to write true things and searched for expressive words.</span>
 
@@ -30,9 +34,6 @@ weight: 12
 
 <span class="verse" id="v13"><sup class="verse-num">13</sup> You’ve heard every view. Here’s the conclusion: respect God and do his will; that’s your role. <strong><sup>14</sup></strong>God will judge every act, everything secret, good or bad.</span>
 <p class="section-ref">Eccl 12:9-13</p>
-
-### Version by Virgil Warren: christir.org
-
 
 
 <style>

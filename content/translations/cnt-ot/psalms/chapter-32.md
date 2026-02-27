@@ -11,6 +11,8 @@ weight: 32
 
 ## Psalms Chapter 32
 
+### A Maskil. A Psalm of David
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> How blessed they are whose sin God forgives, whose transgression he covers;</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> whose disobedience the LORD doesn’t hold against them, whose spirit doesn’t harbor deceit!</span>

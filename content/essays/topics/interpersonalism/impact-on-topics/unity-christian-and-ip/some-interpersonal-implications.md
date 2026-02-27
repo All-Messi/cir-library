@@ -5,7 +5,7 @@ categories:
 - Interpersonalism
 - Impact On Topics
 - Unity Christian And Ip
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: SOME INTERPERSONAL IMPLICATIONS
 weight: 4

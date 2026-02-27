@@ -11,11 +11,15 @@ weight: 11
 
 ## Genesis Chapter 11
 
+### The Confusion of Languages
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> The whole world was speaking the same language. <strong><sup>2</sup></strong>As people spread east, they found a plain in Shinar and settled there. <strong><sup>3</sup></strong>They said, <em>“Let’s make bricks and fire them thoroughly.”</em><em> </em>They used brick for stone and tar for mortar.<em> </em><strong><sup>4</sup></strong><em>“</em><em>Let’s</em><em> build a cit</em><em>y and a tower that reaches </em><em>the sky.</em><em> </em><em>Let’s make a name for ourselves so we won’t get scattered </em><em>out all </em><em>over the world.”</em></span>
 
 <span class="verse" id="v5"><sup class="verse-num">5</sup> Yahveh came down to see the city and tower they were building,</span>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> Yahveh scattered them across the world, and they stopped building their city. <strong><sup>9</sup></strong>They called the city Babel because that’s where Yahveh “confused” the language of the world.<strong> </strong><strong>   </strong><strong></span>
+<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>“</em><em>They’</em><em>re</em><em> one </em><em>set of </em><em>people with the same language.</em><em> T</em><em>hey’re starting to do</em><em> this</em><em>, and they’ll be a</em><em>ble to do anything they want to. </em><em> </em><strong><sup>7</sup></strong><em>Let’s</em><em> confuse their language so they can’t understand each other.”</em></span>
+
+<span class="verse" id="v8"><sup class="verse-num">8</sup> Yahveh scattered them across the world, and they stopped building their city. <strong><sup>9</sup></strong>They called the city Babel because that’s where Yahveh “confused” the language of the world.<strong> </strong><strong></span>
 <p class="section-ref">Gen 11:1-9</p>
 
 <span class="verse" id="v10"><sup class="verse-num">10</sup> Shem’s Generations Shem was 100 years old when <u>Arpachshad</u> was born, two years after the flood. <strong><sup>11</sup></strong>He lived 500 years after that and had sons and daughters.</span>
@@ -42,9 +46,6 @@ weight: 11
 
 <span class="verse" id="v29"><sup class="verse-num">29</sup> Abram and Nahor married. Abram’s wife was Sarai; Nahor’s wife was Micah, daughter of Haran and sister of Iscah. <strong><sup>30</sup></strong>Sarai couldn’t have children. <strong><sup>31</sup></strong>Terah took his son Abram and his grandson Lot, and left Ur to settle in Canaan. They made it as far as Haran and lived there. <strong><sup>32</sup></strong>Terah died in Haran at age 205.</span>
 <p class="section-ref">Gen 11:27-32</p>
-
-### The Call of Abram
-
 
 
 <style>

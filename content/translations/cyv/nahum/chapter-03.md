@@ -10,6 +10,8 @@ weight: 3
 
 ## Nahum Chapter 3
 
+### Woe to Nineveh
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Misfortune awaits bloody <em>Nineveh,</em> filled with lies and pillage and plunder without limit.</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> <em>Do</em><em> you </em><em>hear</em><em> </em>the crack of whips, rattling wheels, galloping horses, rushing chariots!?</span>
@@ -18,9 +20,12 @@ weight: 3
 
 <span class="verse" id="v4"><sup class="verse-num">4</sup> <em>That’s</em><em> </em>all because of your continual prostitution, that charming mistress of sorceries; you sell nations by your prostitution, countries by your sorceries.</span>
 
+<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>“I’m</em><em> </em><em>your enemy,</em><em>”</em> Yahveh of hosts says; <em>“I’ll pull your skirts u</em><em>p</em><em> over your face</em><em>s</em><em>,</em> <em>	and show the nations your nakedness</em><em>,</em> <em>	</em><em>	</em><em>the kingdoms your disgrace.</em></span>
+
 <span class="verse" id="v6"><sup class="verse-num">6</sup> <em>I’ll</em><em> throw filth on you</em> <em>	make you </em><em>disgusting</em><em>,</em> <em>	make</em><em> a spectacle</em><em> out of you!</em></span>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>Everybody</em><em> that sees you will </em><em>back </em><em>away </em><em>and </em><em>say,</em> <em>	‘Nineveh lies in </em><em>ruins</em><em>!</em> <em>	Who’s going to grieve over</em><em> her?’</em> <em>	Where </em><em>will her</em><em> comforters </em><em>come from</em><em>?”</em><em>	</em><strong>Nah 3:1-7</strong></span>
+<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>Everybody</em><em> that sees you will </em><em>back </em><em>away </em><em>and </em><em>say,</em> <em>	‘Nineveh lies in </em><em>ruins</em><em>!</em> <em>	Who’s going to grieve over</em><em> her?’</em> <em>	Where </em><em>will her</em><em> comforters </em><em>come from</em><em>?”</span>
+<p class="section-ref">Nah 3:1-7</p>
 
 <span class="verse" id="v8"><sup class="verse-num">8</sup> Are you any better than Thebes that sat by the Nile with water all around it, with the river as its wall and rampart?</span>
 
@@ -47,7 +52,8 @@ weight: 3
 
 <span class="verse" id="v18"><sup class="verse-num">18</sup> Your shepherds are asleep, king of Assyria; your nobles lie dead on the ground. Your people have scattered to the mountains, and there’s nobody to round them up.</span>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> There’s no relief for your injury; your wound won’t heal. Everybody that hears about your destruction claps their hands. Who hasn’t come under your endless cruelty?	<strong>Nah </strong><strong>3:15b-19</strong> Version by Virgil Warren: christir.org</span>
+<span class="verse" id="v19"><sup class="verse-num">19</sup> There’s no relief for your injury; your wound won’t heal. Everybody that hears about your destruction claps their hands. Who hasn’t come under your endless cruelty?</span>
+<p class="section-ref">Nah 3:15b</p>
 
 
 <style>

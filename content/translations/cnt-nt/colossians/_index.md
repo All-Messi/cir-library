@@ -3,7 +3,7 @@ book: Colossians
 chapters: 4
 title: Colossians
 translation: CNT
-type: scripture
+type: book
 weight: 51
 ---
 

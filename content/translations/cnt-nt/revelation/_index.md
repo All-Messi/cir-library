@@ -3,7 +3,7 @@ book: Revelation
 chapters: 22
 title: Revelation
 translation: CNT
-type: scripture
+type: book
 weight: 66
 ---
 

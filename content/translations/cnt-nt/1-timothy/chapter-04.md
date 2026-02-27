@@ -11,6 +11,8 @@ weight: 4
 
 ## 1 Timothy Chapter 4
 
+### Future Heresies
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> The Spirit says that later on people will abandon the faith. They’ll pay attention to deceiving spirits and demons’ doctrines, and indulge <strong><sup>2</sup></strong>in the hypocrisy of liars that have a seared conscience. <strong><sup>3</sup></strong><em>They’ll</em> forbid marriage and require abstinence from food that God created for faithful people to receive with gratitude. <strong><sup>4</sup></strong>Everything he created is good, and nothing should be rejected if people that know the truth receive it gratefully. <strong><sup>5</sup></strong>God’s word and <em>our </em>prayers sanctify everything he created.</span>
 <p class="section-ref">1 Tim 4:1-5</p>
 
@@ -20,7 +22,7 @@ weight: 4
 ### Timothy’s Interim Ministry
 
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> Don’t let anybody disregard you because you’re young. Set an example for the faithful in what you say and do—in love, faith, purity. <strong><sup>13</sup></strong>Till I get there, give attention to the <em>public</em> reading <em>of scripture</em>, to encouragement, to teaching. <strong><sup>14</sup></strong>Don’t neglect your spiritual gift that you received by prophecy and the laying on of hands by the eldership. <strong><sup>15</sup></strong>Cultivate it; immerse yourself in it so everybody will see your progress. <strong><sup>16</sup></strong>Pay close attention to how you live and to your teaching work. Stay true to the truth so you’ll save yourself and your listeners.  <strong>1 Tim 4:12-16</strong> <strong>Relating to Church People</strong></span>
+<span class="verse" id="v12"><sup class="verse-num">12</sup> Don’t let anybody disregard you because you’re young. Set an example for the faithful in what you say and do—in love, faith, purity. <strong><sup>13</sup></strong>Till I get there, give attention to the <em>public</em> reading <em>of scripture</em>, to encouragement, to teaching. <strong><sup>14</sup></strong>Don’t neglect your spiritual gift that you received by prophecy and the laying on of hands by the eldership. <strong><sup>15</sup></strong>Cultivate it; immerse yourself in it so everybody will see your progress. <strong><sup>16</sup></strong>Pay close attention to how you live and to your teaching work. Stay true to the truth so you’ll save yourself and your listeners.  <strong>1 Tim 4:12-16</strong> 	<strong>Relating to Church People</strong></span>
 
 
 <style>

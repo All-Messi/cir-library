@@ -11,6 +11,8 @@ weight: 39
 
 ## Psalms Chapter 39
 
+### Set to Jeduthun
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> I said, “I’ll watch what I do so I won’t sin with my tongue; I’ll put a muzzle on my mouth while sinful people come around.”</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> But when I kept silent even about what was good, it was of no avail; my agitation grew worse.</span>

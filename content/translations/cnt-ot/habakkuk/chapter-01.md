@@ -10,13 +10,13 @@ weight: 1
 
 ## Habakkuk Chapter 1
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> <strong>  </strong><strong>1</strong><strong><sup>:1</sup></strong>The Oracle That Habakkuk the Prophet Saw <strong>Habakkuk’s Complaint</strong><strong>  </strong></span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> The Oracle That Habakkuk the Prophet Saw 	<strong>Habakkuk’s Complaint</strong><strong>  </strong></span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> How long, LORD, will I call out for help, and you won’t listen? I cry out, <em>“Violence!”</em> but you don’t protect <em>me</em>.</span>
 
 <span class="verse" id="v3"><sup class="verse-num">3</sup> Why do you make me watch wickedness? Destruction and violence go on right in front of me; fighting and arguing keep getting worse and worse.</span>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> <em>The courts </em>ignore the Law, <em>so</em><em> </em>they don’t render justice; sinners are in the majority, so they pervert justice. <strong></span>
+<span class="verse" id="v4"><sup class="verse-num">4</sup> <em>The courts </em>ignore the Law, <em>so</em><em> </em>they don’t render justice; sinners are in the majority, so they pervert justice.</span>
 <p class="section-ref">Hab 1:1-4</p>
 
 ### The LORD’s Answer
@@ -34,7 +34,7 @@ weight: 1
 
 <span class="verse" id="v10"><sup class="verse-num">10</sup> <em>They scoff at kings</em><em> and ridicule </em><em>rulers;</em> <em>	</em><em>	</em><em>	t</em><em>hey laugh at fortresses </em> <em>	</em><em>	</em><em>	</em><em>and pile up r</em><em>amparts</em><em> to </em><em>besiege </em><em>them.</em></span>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> <em>They </em><em>rush</em><em> through like the wind and </em><em>move </em><em>on</em><em>;</em> <em>	</em><em>	</em><em>	</em><em>they’re guilty men whose </em><em>power</em><em> is their god.”</em><strong></span>
+<span class="verse" id="v11"><sup class="verse-num">11</sup> <em>They </em><em>rush</em><em> through like the wind and </em><em>move </em><em>on</em><em>;</em> <em>	</em><em>	</em><em>	</em><em>they’re guilty men whose </em><em>power</em><em> is their god.”</span>
 <p class="section-ref">Hab 1:5-11</p>
 
 ### Habakkuk’s Second Complaint
@@ -42,7 +42,7 @@ weight: 1
 
 <span class="verse" id="v12"><sup class="verse-num">12</sup> Aren’t you from everlasting, LORD, my God, my Holy One? Surely you won’t let us die. You, LORD, have appointed <em>the Babylonians</em> to judge us; you, Rock, have sent them to punish us.</span>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> You’re too pure to approve of evil; you can’t countenance wickedness. Why do you tolerate treacherous people? Why are you silent when sinners swallow up people better than themselves?<strong></span>
+<span class="verse" id="v13"><sup class="verse-num">13</sup> You’re too pure to approve of evil; you can’t countenance wickedness. Why do you tolerate treacherous people? Why are you silent when sinners swallow up people better than themselves?</span>
 <p class="section-ref">Hab 1:12-13</p>
 
 <span class="verse" id="v14"><sup class="verse-num">14</sup> They treat us like fish in the sea, like creatures with no rulers.</span>
@@ -51,7 +51,7 @@ weight: 1
 
 <span class="verse" id="v16"><sup class="verse-num">16</sup> So they sacrifice to their seines and burn incense to their fishing nets, because they make large catches with them and have lots to eat.</span>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> Will they empty their nets then and keep on killing nations without mercy?<strong></span>
+<span class="verse" id="v17"><sup class="verse-num">17</sup> Will they empty their nets then and keep on killing nations without mercy?</span>
 <p class="section-ref">Hab 1:14-17</p>
 
 

@@ -3,7 +3,7 @@ title: "2 PETER AND JUDE IN PARALLEL"
 author: "Virgil Warren, PhD"
 categories:
 - Bible Resources
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 weight: 1
 ---

@@ -11,6 +11,8 @@ weight: 9
 
 ## Hebrews Chapter 9
 
+### Service in the First Sanctuary
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Now the first <em>covenant</em> had an earthly sanctuary and regulations for service. <strong><sup>2</sup></strong>The first tabernacle, <em>“the Holy Place,”</em> had a lampstand and a table with sacred bread on it. <strong><sup>3</sup></strong>Behind the second curtain stood another tabernacle, <em>“the Holy of Holies.”</em> <strong><sup>4</sup></strong>It had a gold altar of incense and the Ark of the Covenant that was gold-plated all over. Inside the ark there was a gold pot with manna in it along with Aaron’s rod that budded and the tablets that contained the covenant. <strong><sup>5</sup></strong>Above the ark the glorious cherubs hovered over the mercy seat. We can’t speak in detail about these now.</span>
 <p class="section-ref">Heb 9:1-5</p>
 
@@ -31,9 +33,6 @@ weight: 9
 
 <span class="verse" id="v23"><sup class="verse-num">23</sup> These things cleansed the copies of heavenly things, but something better needed to cleanse the heavenly things themselves. <strong><sup>24</sup></strong>Christ didn’t go into a handmade copy of the real<em> </em>sanctuary; he went into heaven itself to appear for us now in God’s presence. <strong><sup>25</sup></strong>And, he didn’t need to offer himself many times like the high priest does in the Holy Place every year with blood that’s not his own. <strong><sup>26</sup></strong>Otherwise, Christ would’ve had to suffer many times since the world began. But now, once and for all at the end of the ages, he has appeared to get rid of sin by sacrificing himself. <strong><sup>27</sup></strong>It’s appointed to men to die once and after that <em>to face</em> judgment. <strong><sup>28</sup></strong>In the same way,<sup> </sup>Christ offered himself once to bear the sins of many. He’ll appear a second time—apart from sin—to the ones who wait expectantly for him to save us.</span>
 <p class="section-ref">Heb 9:23-28</p>
-
-### Replacing Shadows with Realities
-
 
 
 <style>

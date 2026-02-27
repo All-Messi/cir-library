@@ -5,7 +5,7 @@ categories:
 - Christian Doctrine
 - Mankind Anthropology
 - Womens Studies
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: 'STRUCTURING THE HERMENEUTICAL TASK IN WOMEN’S STUDIES: WISDOM OR LAW?'
 weight: 4

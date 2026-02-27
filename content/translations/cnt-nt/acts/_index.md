@@ -3,7 +3,7 @@ book: Acts
 chapters: 28
 title: Acts
 translation: CNT
-type: scripture
+type: book
 weight: 44
 ---
 

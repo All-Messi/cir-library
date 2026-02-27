@@ -5,7 +5,7 @@ categories:
 - Christian Doctrine
 - Mankind Anthropology
 - Nature Of Man Book
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: NATURAL OBSERVATIONS ON THE IMAGE
 weight: 4

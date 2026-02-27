@@ -33,9 +33,6 @@ weight: 141
 <span class="verse" id="v10"><sup class="verse-num">10</sup> may they stumble into their own nets while I go on by safely.</span>
 <p class="section-ref">Ps 141:5-10</p>
 
-### A Maskil of David when he was in the cave A Prayer
-
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

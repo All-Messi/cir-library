@@ -11,6 +11,8 @@ weight: 77
 
 ## Psalms Chapter 77
 
+### Set to Jeduthun
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> I raise my voice up to God; I call out loud; it rises to him so he’ll hear me.</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> When trouble comes, I turn to Yahveh for help. All night I reach out to him, but I get no reassurance.</span>
@@ -53,9 +55,6 @@ weight: 77
 
 <span class="verse" id="v20"><sup class="verse-num">20</sup> You led your people like a flock by the hand of Moses and Aaron.</span>
 <p class="section-ref">Ps 77:16-20</p>
-
-### Maskil of Asaph
-
 
 
 <style>

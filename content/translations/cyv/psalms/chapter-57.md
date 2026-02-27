@@ -11,6 +11,8 @@ weight: 57
 
 ## Psalms Chapter 57
 
+### When He Fled from Saul in the Cave Set to Do Not Destroy
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Be gracious to me, God, because I depend on you to protect me; in the shadow of your wings I take refuge till danger passes.</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> I call out to God Most High, who accomplishes everything for me;</span>
@@ -35,9 +37,6 @@ weight: 57
 
 <span class="verse" id="v11"><sup class="verse-num">11</sup> Be raised up higher than the sky, God; shine your glory on the whole world.</span>
 <p class="section-ref">Ps 57:7-11</p>
-
-### Set to Do Not Destroy
-
 
 
 <style>

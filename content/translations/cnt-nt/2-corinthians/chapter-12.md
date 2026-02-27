@@ -11,7 +11,9 @@ weight: 12
 
 ## 2 Corinthians Chapter 12
 
-<span class="verse" id="v1"><strong><sup>1</sup></strong>Being proud may be appropriate, but <em>it’s </em>not profitable. I’ll go on to visions and revelations from the Lord. <strong><sup>2</sup></strong>I know a man in Christ 14 years ago—whether in the body or not, I don’t know; God knows. He was caught up to the third heaven—<strong><sup>[3]repeat </sup></strong><strong><sup>4</sup></strong>to Paradise—and heard things you can’t express in words. <strong><sup>5</sup></strong>I’ll take pride in that man; I won’t boast about myself except in my weaknesses. <strong><sup>6</sup></strong>If I do boast, I won’t be foolish <em>about it</em>; I’ll talk about what’s real. I don’t want anybody to regard me as something more than what they can see for themselves. <strong>The T</strong><strong>horn in the Flesh</strong></span>
+### Paul’s Revelation Experiences
+
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Being proud may be appropriate, but <em>it’s </em>not profitable. I’ll go on to visions and revelations from the Lord. <strong><sup>2</sup></strong>I know a man in Christ 14 years ago—whether in the body or not, I don’t know; God knows. He was caught up to the third heaven—<strong><sup>[3]repeat </sup></strong><strong><sup>4</sup></strong>to Paradise—and heard things you can’t express in words. <strong><sup>5</sup></strong>I’ll take pride in that man; I won’t boast about myself except in my weaknesses. <strong><sup>6</sup></strong>If I do boast, I won’t be foolish <em>about it</em>; I’ll talk about what’s real. I don’t want anybody to regard me as something more than what they can see for themselves. 	<strong>The T</strong><strong>horn in the Flesh</strong></span>
 
 <span class="verse" id="v7"><sup class="verse-num">7</sup> Because of the extraordinary greatness of <em>those</em> revelations, God gave me a thorn in the flesh—a messenger from Satan—to discipline me so I wouldn’t think too highly of myself. <strong><sup>8</sup></strong>I asked the Lord three times to take it away. <strong><sup>9</sup></strong>He said, <em>“My grace is sufficient for you; my power </em><em>reaches its highest expression</em><em> in weakness.”</em><em> </em>Gladly, then, I’ll take pride in my weaknesses so Christ’s power can live in me. <strong><sup>10</sup></strong>So I delight in weakness, mistreatment, need, persecution, and difficulty for Christ. When I’m weak I’m strong.</span>
 <p class="section-ref">2 Cor 12:1-10</p>
@@ -24,9 +26,6 @@ weight: 12
 
 <span class="verse" id="v19"><sup class="verse-num">19</sup> Do you think I’m saying all this to defend myself? God is witness, I’m saying this in Christ to help you. <strong><sup>20</sup></strong>I’m afraid that in some way, when I get there, I won’t find you like I want to, and you won’t find me that way either. I’m afraid <em>I’ll find</em> rivalry, jealousy, anger, dispute, slander, gossip, pride, disturbances. <strong><sup>21</sup></strong>I’m afraid my God will humiliate me in front of you, and I’ll be sad because people that sinned previously haven’t repented of their impurity, sexual immorality, and sensuality.</span>
 <p class="section-ref">2 Cor 12:19-21</p>
-
-### Self-Examination Before God
-
 
 
 <style>

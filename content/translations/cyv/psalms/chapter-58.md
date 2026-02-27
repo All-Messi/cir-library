@@ -11,6 +11,8 @@ weight: 58
 
 ## Psalms Chapter 58
 
+### Set to Do Not Destroy
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Leaders, do you decree what’s right? Do you judge justly?</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> No, you plot injustice in your hearts and spread violence in the land.</span>
@@ -35,9 +37,6 @@ weight: 58
 
 <span class="verse" id="v11"><sup class="verse-num">11</sup> People will say, “There’s surely a reward for good people; there’s certainly a God that judges on earth!”</span>
 <p class="section-ref">Ps 58:10-11</p>
-
-### When Saul Sent Men to Watch the House and Kill Him Set to Do Not Destroy
-
 
 
 <style>

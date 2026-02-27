@@ -10,13 +10,17 @@ weight: 40
 
 ## Exodus Chapter 40
 
-<span class="verse" id="v1"><strong><sup>1</sup></strong>Then the LORD told Moses,</span>
+### Setting Up the Tabernacle
+
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Then the LORD told Moses,</span>
+
+<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>“</em><strong><em>The first day, first month</em></strong><em>,</em><em> set up the </em><em>T</em><em>abernacle of the </em><em>Tent of Meeting</em><em>.</em><em> </em><strong><sup>3</sup></strong><em>Put the Ark of T</em><em>esti</em><em>mony in it and screen it off </em><em>with the </em><em>curtain</em><em>.</em><em> </em></span>
 
 <span class="verse" id="v4"><sup class="verse-num">4</sup> <em>Take</em><em> </em><em>the </em><em>table in and arrange what </em><em>goes</em><em> on it</em><em>;</em><em> </em> <em>take </em><em>the lampstand </em><em>in </em><em>and mount the lamps.</em><em> </em></span>
 
 <span class="verse" id="v5"><sup class="verse-num">5</sup> <em>Place the gold altar for</em><em> </em><em>incense in front of the Ark of T</em><em>estimony, and </em> <em>set up the </em><em>curtain</em><em> </em><em>across</em><em> the door to the </em><em>T</em><em>abernacle.</em></span>
 
-<span class="verse" id="v6"><strong><sup>6</sup></strong><em>Pu</em><em>t the altar of burnt offering i</em><em>n front of the door to</em><em> the tabernacle of the </em><em>Tent of Meeting</em><em>.</em><em> </em></span>
+<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>Pu</em><em>t the altar of burnt offering i</em><em>n front of the door to</em><em> the tabernacle of the </em><em>Tent of Meeting</em><em>.</em><em> </em></span>
 
 <span class="verse" id="v7"><sup class="verse-num">7</sup> <em>Set the laver between the </em><em>Tent of Meeting</em><em> and the altar and put water in it.</em></span>
 
@@ -33,7 +37,7 @@ weight: 40
 <span class="verse" id="v16"><sup class="verse-num">16</sup> Moses did everything the LORD told him.</span>
 <p class="section-ref">Ex 40:1-16</p>
 
-<span class="verse" id="v17"><strong><sup>7</sup></strong><strong>The first day, first month, second </strong><strong><em>year</em></strong>, he set up the Tabernacle:</span>
+<span class="verse" id="v17"><sup class="verse-num">17</sup> <strong>The first day, first month, second </strong><strong><em>year</em></strong>, he set up the Tabernacle:</span>
 
 <span class="verse" id="v18"><sup class="verse-num">18</sup> laid its bases, set up its boards, inserted its bars, and set up its posts; <strong><sup>19</sup></strong>he spread the tent over the Tabernacle and put the covering on it;</span>
 
@@ -50,13 +54,10 @@ weight: 40
 
 <span class="verse" id="v30"><sup class="verse-num">30</sup> put the laver between the Tent of Meeting and the altar with water in it for washing; <strong><sup>31</sup></strong>out of it Moses, Aaron, and his sons washed their hands and feet <strong><sup>32</sup></strong>when they went into the Tent of Meeting to approach the altar;</span>
 
-<span class="verse" id="v33"><sup class="verse-num">33</sup> set up the court around the Tabernacle and the altar and hung a curtain across the court entrance. So Moses finished the work. <strong>The Glory of the L</strong><strong>ORD</strong></span>
+<span class="verse" id="v33"><sup class="verse-num">33</sup> set up the court around the Tabernacle and the altar and hung a curtain across the court entrance. So Moses finished the work. 	<strong>The Glory of the L</strong><strong>ORD</strong></span>
 
 <span class="verse" id="v34"><sup class="verse-num">34</sup> Then the cloud covered the Tent of Meeting, and the LORD’s glory filled the Tabernacle. <strong><sup>35</sup></strong>Moses couldn’t go into the Tent of Meeting because the cloud had settled on it, and the LORD’s glory filled it. <strong><sup>36</sup></strong>During their travels, whenever the cloud rose up from the Tabernacle, the Israelites would move out. <strong><sup>37</sup></strong>If it didn’t rise up, they’d stay till it did. <strong><sup>38</sup></strong>The cloud was on the Tabernacle during the day; fire was in it at night where Israel could see it.</span>
 <p class="section-ref">Ex 40:28-38</p>
-
-### Version by Virgil Warren: christir.org
-
 
 
 <style>

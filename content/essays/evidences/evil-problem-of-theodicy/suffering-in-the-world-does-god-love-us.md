@@ -3,7 +3,7 @@ author: Virgil Warren, Ph.D.
 categories:
 - Evidences
 - Evil Problem Of Theodicy
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: 'SUFFERING IN THE WORLD: DOES GOD LOVE US?'
 weight: 2

@@ -28,9 +28,6 @@ weight: 1
 <span class="verse" id="v16"><sup class="verse-num">16</sup> We didn’t follow clever, made-up myths when we told you about the power and coming of our Lord Jesus Christ. We saw his majesty with our own eyes. <strong><sup>17</sup></strong>He received from God the Father honor and glory when the Majestic Glory declared, <em>“This is my </em><em>dearly </em><em>loved Son that I delight in.”</em> <strong><sup>18</sup></strong>We heard that voice from heaven ourselves when we were with him on the holy mountain. <strong><sup>19</sup></strong><em>And</em><em> so </em>we have verified the prophetic word. You do well <em>then </em>to pay attention to it as to a lamp shining in a dark place till the day dawns and the morning star rises in your hearts. <sup>20</sup>First of all, get this: no prophecy in scripture comes from somebody’s own insight <em>into things</em>. <strong><sup>21</sup></strong>No prophet ever <em>just</em><em> </em>decided to make a prophecy. Instead, the Holy Spirit moved them to speak from God.</span>
 <p class="section-ref">2 Pet 1:16-21</p>
 
-### Watch Out for False Teachers
-
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

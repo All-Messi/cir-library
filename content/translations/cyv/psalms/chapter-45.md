@@ -11,6 +11,8 @@ weight: 45
 
 ## Psalms Chapter 45
 
+### A Maskil of the Sons of Korah. A Song About Love
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> My heart is overflowing with a noble theme as I recite my verses to the King; my tongue is like the pen of a gifted poet.</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> You’re more handsome than the sons of men; gracious words stream from on your lips; God has blessed you forever.</span>
@@ -47,9 +49,6 @@ weight: 45
 
 <span class="verse" id="v17"><sup class="verse-num">17</sup> I’ll perpetuate yourmas memory in every generation; the nations will be eternally grateful to youmas.</span>
 <p class="section-ref">Ps 45:16-17</p>
-
-### Set to Alamoth. A Song
-
 
 
 <style>

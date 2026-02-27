@@ -48,9 +48,6 @@ weight: 83
 <span class="verse" id="v18"><sup class="verse-num">18</sup> so they’ll know that you are supreme over the whole world.</span>
 <p class="section-ref">Ps 83:13-18</p>
 
-### Set to The Gittith
-
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

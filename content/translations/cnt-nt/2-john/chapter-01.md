@@ -9,8 +9,7 @@ weight: 1
 
 ## 2 John Chapter 1
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> What was from the beginning, what we’ve heard and seen, what we’ve observed and touched about the living message—<strong><sup>2</sup></strong>the eternal life that was with the Father and he revealed to us—that’s what <strong><sup>3</sup></strong>we’re passing along to you so we can have it in common with you as well as with the Father and his Son Jesus Christ<sup>Messiah</sup>. <strong><sup>4</sup></strong>We’re writing these things <em>to you </em>to fully share our joy.</span>
-<p class="section-ref">1 Jn 1:1-4</p>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> <strong> Jn 1:5-10</strong> 	<strong>Christ Our Advocate</strong></span>
 
 <span class="verse" id="v4"><sup class="verse-num">4</sup> I was so happy to find yoursg children living in the truth the Father commanded us. 5Now I urge you, lady—not as some new commandment but what we've had all along: love one another 6and so be living his way. 7Many deceivers have gone out who don't agree that Jesus Christ has come in the flesh. They're deceivers and antichrist. 8Watch that you not lose what you've gained, but receive a full reward. 9Anybody that goes out on his own and doesn't stay in Christ's teaching doesn't have God. The one that stays in his teaching has both the Father and the Son. 10If a person doesn't bring that teaching, don't invite him into your house or greet him. 11Whoever greets him shares in his evil work.</span>
 <p class="section-ref">2 Jn 4-11</p>
@@ -22,9 +21,6 @@ weight: 1
 
 <span class="verse" id="v13"><sup class="verse-num">13</sup> The children of your elect sister say hello.</span>
 <p class="section-ref">2 Jn 12-13</p>
-
-### Translator: Virgil Warren,     								      christir.org
-
 
 
 <style>

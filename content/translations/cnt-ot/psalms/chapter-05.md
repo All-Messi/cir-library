@@ -11,6 +11,8 @@ weight: 5
 
 ## Psalms Chapter 5
 
+### with Flute Accompaniment
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Listen to me, LORD; Pay attention to my groaning.</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> Hear my call for help, my God and King, because I pray only to you.</span>
@@ -36,9 +38,6 @@ weight: 5
 
 <span class="verse" id="v12"><sup class="verse-num">12</sup> You bless good people and cover them with your favor like a shield.</span>
 <p class="section-ref">Ps 5:8-12</p>
-
-### with Stringed Instruments; Set to The Sheminith [To the Eight-String Lyre]
-
 
 
 <style>

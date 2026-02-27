@@ -10,6 +10,8 @@ weight: 4
 
 ## Philippians Chapter 4
 
+### :1 	Keeping a Positive Outlook
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> So, fellow Christians loved and longed for, my joy and crown, stand firm in the Lord. Keeping a Positive Outlook</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> I urge Euodia and Syntyche to work in harmony in the Lord. 3Yes, and I ask you, loyal yoke fellow, help them. They struggled together with me in the gospel, with Clement and the rest of my fellow workers, whose names are in the Book of Life.</span>
@@ -24,7 +26,7 @@ weight: 4
 
 <span class="verse" id="v21"><sup class="verse-num">21</sup> Greet every saint in Christ Jesus. The Christians that are with me send their regards. 22All the saints say hello, notably the ones in Caesar's household.</span>
 
-<span class="verse" id="v23"><sup class="verse-num">23</sup> The grace of the Lord Jesus Christ be with your spirit. Translator: Virgil Warren    								      christir.org</span>
+<span class="verse" id="v23"><sup class="verse-num">23</sup> The grace of the Lord Jesus Christ be with your spirit.</span>
 
 
 <style>

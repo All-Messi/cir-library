@@ -11,6 +11,8 @@ weight: 90
 
 ## Psalms Chapter 90
 
+### A Prayer of Moses the Man of God
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Yahveh, through all generations you’ve been our dwelling place.</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> Before the mountains were born or you gave birth to the world, from one end of time to the other, you’ve been God.</span>

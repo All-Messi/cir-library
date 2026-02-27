@@ -11,6 +11,8 @@ weight: 3
 
 ## James Chapter 3
 
+### More about Controlling the Tongue
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Not many of you should try to be teachers; you’ll get judged more strictly. <strong><sup>2</sup></strong>In lots of ways we all slip up; if we don’t slip up in what we say, we’re perfect; and we can bridle our whole body. <strong><sup>3</sup></strong>We put bits in horses’ mouths so they’ll obey us, and we guide their whole body. <strong><sup>4</sup></strong>The same thing with ships. Though they’re so big and driven by strong winds, the helmsmen control them with a very small steering paddle wherever they want them to go. <strong><sup>5</sup></strong>The same thing with the tongue. It’s a small part of the body, but it makes big claims.</span>
 <p class="section-ref">James 3:1-5</p>
 
@@ -20,11 +22,8 @@ weight: 3
 ### The Importance of Wisdom
 
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> Who’s wise and understanding among you? Show it in good, humble, wise living. <strong><sup>14</sup></strong>If you’re jealous and selfish, don’t act proud and lie <em>to cover it up</em>. <strong><sup>15</sup></strong>“Wisdom” like that doesn’t come from above; it’s earthly, unspiritual, demonic. <strong><sup>16</sup></strong>Where there’s jealousy and selfishness, people are unstable and exhibit all kinds of bad behavior. <strong><sup>17</sup></strong>Wisdom from above is first pure, then peaceful, gentle, open to reason, merciful, and yielding good fruits. It doesn’t waver or show hypocrisy. <strong><sup>18</sup></strong>Peacemakers use peace to plant righteous fruit.<strong> </strong><strong> </strong><strong></span>
+<span class="verse" id="v13"><sup class="verse-num">13</sup> Who’s wise and understanding among you? Show it in good, humble, wise living. <strong><sup>14</sup></strong>If you’re jealous and selfish, don’t act proud and lie <em>to cover it up</em>. <strong><sup>15</sup></strong>“Wisdom” like that doesn’t come from above; it’s earthly, unspiritual, demonic. <strong><sup>16</sup></strong>Where there’s jealousy and selfishness, people are unstable and exhibit all kinds of bad behavior. <strong><sup>17</sup></strong>Wisdom from above is first pure, then peaceful, gentle, open to reason, merciful, and yielding good fruits. It doesn’t waver or show hypocrisy. <strong><sup>18</sup></strong>Peacemakers use peace to plant righteous fruit.<strong> </strong><strong></span>
 <p class="section-ref">James 3:13-18</p>
-
-### Effects of Self-Centeredness
-
 
 
 <style>

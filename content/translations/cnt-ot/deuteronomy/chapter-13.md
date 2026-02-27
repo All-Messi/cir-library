@@ -11,7 +11,12 @@ weight: 13
 
 ## Deuteronomy Chapter 13
 
+### Warning Against Idolatry
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> <em>“If</em><em> a prophet or dreamer arises and gives you a sign or wonder </em><strong><sup>2</sup></strong><em>that</em><em> comes true, and uses it to say, ‘Let’s serve other gods,’ </em><strong><sup>3</sup></strong><em>ignore</em><em> him. Yahveh’s testing you to see if you love him with all your heart and soul. </em><strong><sup>4</sup></strong><em>Follow</em><em> him, respect him, keep his commandments, listen to him, serve him, hold onto him. </em><strong><sup>5</sup></strong><em>Execute</em><em> that prophet or dreamer. He has advocated rebellion against Yahveh who brought you out of Egypt and redeemed you from slavery. </em>He’s<em> seducing you to leave Yahveh. That’s how you’re to purge evil from among you. </em></span>
+
+<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>“</em><em>If</em><em> your brother, your son or</em><em> daughter, the wife you love, your close friend tempts you privately to serve other gods—</em><strong><sup>7</sup></strong><em>of</em><em> people near or far, from one end of the earth to the other</em><em>—</em><strong><sup>8</sup></strong><em>don’t</em><em> yield to them. Don’t show mercy or cover it up. </em><strong><sup>9</sup></strong><em>Execute</em><em> them. Be the first to strike against them, then the other people will join in. </em><strong><sup>10</sup></strong><em>Stone</em><em> them to death, because they have tried to tempt you away from Yahveh your God that brought you out of slavery in Egypt. </em><strong><sup>11</sup></strong><em>Israel</em><em> will hear </em>about it<em> and show respect, and not do such a sinful thing again.</span>
+<p class="section-ref">Deut 13:1-11</p>
 
 
 <style>

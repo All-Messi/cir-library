@@ -4,7 +4,7 @@ categories:
 - Ministry
 - Sermons
 - Funerals
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: For All the Saints Who from Their Labors Rest
 weight: 3

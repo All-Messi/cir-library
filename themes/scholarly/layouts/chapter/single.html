@@ -22,6 +22,7 @@
             <span class="toolbar-translation">{{ $translation.Title }}</span>
         </div>
         <div class="toolbar-right">
+            {{ partial "pdf-link.html" (dict "page" . "style" "toolbar") }}
             <button class="toolbar-btn font-btn" onclick="toggleReaderSettings()" title="Reader settings">
                 <span class="font-icon">A</span><span class="font-icon font-icon-lg">A</span>
             </button>

@@ -4,7 +4,7 @@ categories:
 - Evidences
 - Critical Intro Nt
 - Corinthians
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: THE “PREVIOUS LETTER” TO THE CORINTHIANS
 weight: 3

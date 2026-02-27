@@ -4,7 +4,7 @@ categories:
 - Topics
 - Christian Doctrine
 - Atonement
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: THE MEANING OF “IDENTIFICATION WITH CHRIST”
 weight: 3

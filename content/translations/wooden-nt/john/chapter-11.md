@@ -31,7 +31,13 @@ weight: 11
 
 <span class="verse" id="v17"><sup class="verse-num">17</sup> Then [the] Jesus, having-come, found him already having four days in the tomb. <strong><sup>18</sup></strong>Now [the] Bethany was about fifteen stades from Jerusalem. <strong><sup>19</sup></strong>And many of the Jews had-come to [the] Martha and Mary in-order-that they-might-console them about the brother. <strong><sup>20</sup></strong>Then [the] Martha, when she-heard that Jesus was-coming, met him. But Mary continued-to-sit in the house.</span>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> Then [the] Martha said to [the] Jesus, <em>“Lord, if you had-been here, [the] brother of-us would not have-died.</em><em> </em><strong><sup>22</sup></strong><em>But even now I-know that as-many-things-as you ask [the] God, [the] God will-give.”</em><em> </em> <strong><sup>23</sup></strong>[The] Jesus says to-her, <em>“The brother of-you will-resurrect.”</em> <strong><sup>24</sup></strong>[The] Martha says to-him, <em>“I-know that he-will-resurrect in the resurrection in the last day.”</em><em> </em> <strong><sup>25</sup></strong>[The] Jesus said to-her, <em>“I am the resurrection and the life.</em><em> </em><em>The-one believing in me, even-if he-dies, he-will-live.</em><em> </em><strong><sup>26</sup></strong><em>And everybody [the] living and believing in me will┘certainly not└die forever</em><em><sup>3</sup></em><em>.”</em><em> </em></span>
+<span class="verse" id="v21"><sup class="verse-num">21</sup> Then [the] Martha said to [the] Jesus, <em>“Lord, if you had-been here, [the] brother of-us would not have-died.</em><em> </em><strong><sup>22</sup></strong><em>But even now I-know that as-many-things-as you ask [the] God, [the] God will-give.”</em><em> </em></span>
+
+<span class="verse" id="v23"><sup class="verse-num">23</sup> [The] Jesus says to-her, <em>“The brother of-you will-resurrect.”</em></span>
+
+<span class="verse" id="v24"><sup class="verse-num">24</sup> [The] Martha says to-him, <em>“I-know that he-will-resurrect in the resurrection in the last day.”</em><em> </em></span>
+
+<span class="verse" id="v25"><sup class="verse-num">25</sup> [The] Jesus said to-her, <em>“I am the resurrection and the life.</em><em> </em><em>The-one believing in me, even-if he-dies, he-will-live.</em><em> </em><strong><sup>26</sup></strong><em>And everybody [the] living and believing in me will┘certainly not└die forever</em><em><sup>3</sup></em><em>.”</em><em> </em></span>
 
 <span class="verse" id="v27"><sup class="verse-num">27</sup> She-says to-him, <em>“Yes, Lord; I-have-believed that you are the Messiah, the Son of-[the] God, the-One coming into the world.”</em><em>	</em></span>
 
@@ -41,11 +47,15 @@ weight: 11
 
 <span class="verse" id="v32"><sup class="verse-num">32</sup> So [the] Mary, when she-came where Jesus was, having-seen him, fell to the feet of-him, saying to-him, <em>“Lord, if you-had-been here, the brother of-me would┘not└have died.</em><em>”</em></span>
 
-<span class="verse" id="v33"><sup class="verse-num">33</sup> Then Jesus, when he-saw her weeping and the coming-with her Jews weeping, was-deeply-moved-in [the] spirit and troubled himself, <strong><sup>34</sup></strong>and said, <em>“Where have-you</em><em><sup>pl</sup></em><em>-laid-him?”</em> They-say to-him, <em>“Lord, come and see.”</em> <strong><sup>35</sup></strong>[The] Jesus shed-tears. <strong><sup>36</sup></strong>Then the Jews began-to-say, <em>“See how he-loved him!</em><em>”</em></span>
+<span class="verse" id="v33"><sup class="verse-num">33</sup> Then Jesus, when he-saw her weeping and the coming-with her Jews weeping, was-deeply-moved-in [the] spirit and troubled himself, <strong><sup>34</sup></strong>and said, <em>“Where have-you</em><em><sup>pl</sup></em><em>-laid-him?”</em> They-say to-him, <em>“Lord, come and see.”</em></span>
+
+<span class="verse" id="v35"><sup class="verse-num">35</sup> [The] Jesus shed-tears. <strong><sup>36</sup></strong>Then the Jews began-to-say, <em>“See how he-loved him!</em><em>”</em></span>
 
 <span class="verse" id="v37"><sup class="verse-num">37</sup> And some of them said, <em>“This</em><em> the</em><em>-One</em><em> having-opened the eyes of-the blind was-able, was-he not, to do in-order-that this-one also would┘not└have died?”</em></span>
 
-<span class="verse" id="v38"><sup class="verse-num">38</sup> Then Jesus, again deeply-moved in himself, comes to the tomb. Now it-was (a) cave, and (a) stone was-lying against it. <strong><sup>39</sup></strong>[The] Jesus says, <em>“Take┘the stone└away.”</em> The sister of-the-one having-died, Martha, says to-him, <em>“Lord, he stinks already.</em><em> </em><em>It-is (the) fourth (day).”</em><em> </em> <strong><sup>40</sup></strong>[The] Jesus says to-her, <em>“Did-I┘not└say to-you that if you-have-faith, you-will-see the glory of-[the] God?”</em><em> </em></span>
+<span class="verse" id="v38"><sup class="verse-num">38</sup> Then Jesus, again deeply-moved in himself, comes to the tomb. Now it-was (a) cave, and (a) stone was-lying against it. <strong><sup>39</sup></strong>[The] Jesus says, <em>“Take┘the stone└away.”</em> The sister of-the-one having-died, Martha, says to-him, <em>“Lord, he stinks already.</em><em> </em><em>It-is (the) fourth (day).”</em><em> </em></span>
+
+<span class="verse" id="v40"><sup class="verse-num">40</sup> [The] Jesus says to-her, <em>“Did-I┘not└say to-you that if you-have-faith, you-will-see the glory of-[the] God?”</em><em> </em></span>
 
 <span class="verse" id="v41"><sup class="verse-num">41</sup> So they-took┘the stone└away. And [the] Jesus lifted up the eyes of-him and said, <em>“Father, I-thank you that you-heard me.</em><em> </em><strong><sup>42</sup></strong><em>And I-have-known that you┘always└hear me, but </em><em>on-account-of the crowd [the</em><em>] having-stood-around me, I-am-saying (this) so they-will-believe that you-sent me.</em><em>”</em> <strong><sup>43</sup></strong>And having-said these-things, he-shouted with-(a)-loud voice, <em>“Lazarus, come out.”</em><em> </em><strong><sup>44</sup></strong>The-one having-died came-out bound [the] feet and [the] hands with-strips-of-cloth and the face of-him was-wrapped with-(a)-shroud. [The] Jesus says to-them, <em>“Loose him and let him [to]-go.”</em></span>
 

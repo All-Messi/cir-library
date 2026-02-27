@@ -26,15 +26,15 @@ weight: 3
 ### Family Virtues
 
 
-<span class="verse" id="v18"><strong><sup>8</sup></strong>Wives defer to <em>your</em> husbands in a way that’s appropriate in the Lord.</span>
+<span class="verse" id="v18"><sup class="verse-num">18</sup> Wives defer to <em>your</em> husbands in a way that’s appropriate in the Lord.</span>
 
 <span class="verse" id="v19"><sup class="verse-num">19</sup> Husbands, love <em>your</em> wives; don’t be harsh toward them.</span>
 
-<span class="verse" id="v20"><strong><sup>0</sup></strong>Children, obey <em>your</em> parents because that pleases the Lord.</span>
+<span class="verse" id="v20"><sup class="verse-num">20</sup> Children, obey <em>your</em> parents because that pleases the Lord.</span>
 
 <span class="verse" id="v21"><sup class="verse-num">21</sup> Dads, don’t make your children resentful, so they won’t get discouraged.</span>
 
-<span class="verse" id="v22"><strong><sup>2</sup></strong>Servants, obey <em>your</em> physical masters. Don’t try to create impressions to please them, but <em>obey</em> sincerely, fearing the Lord. <strong><sup>23</sup></strong>Whatever you’re doing, do it voluntarily as to the Lord rather than to other people. <strong><sup>24</sup></strong>You know the Lord will reward you, so serve him. <strong><sup>25</sup></strong>The ones that do unjustly will get paid back impartially for what they’ve done.</span>
+<span class="verse" id="v22"><sup class="verse-num">22</sup> Servants, obey <em>your</em> physical masters. Don’t try to create impressions to please them, but <em>obey</em> sincerely, fearing the Lord. <strong><sup>23</sup></strong>Whatever you’re doing, do it voluntarily as to the Lord rather than to other people. <strong><sup>24</sup></strong>You know the Lord will reward you, so serve him. <strong><sup>25</sup></strong>The ones that do unjustly will get paid back impartially for what they’ve done.</span>
 
 
 <style>

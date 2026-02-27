@@ -11,9 +11,13 @@ weight: 24
 
 ## Numbers Chapter 24
 
+### Balaam’s Third Oracle 24;1When Balaam saw that it pleased the LORD to bless Israel, he didn’t go like before to look for omens, but faced the open country. 2He saw Israel camping by tribes, and God’s Spirit came on him. 3He took up this oracle: 	“The oracle of Balaam son of Beor, 				the oracle of a man with his eyes wide open,
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> When Balaam saw that it pleased the LORD to bless Israel, he didn't go like before to look for omens, but faced the open country. 2He saw Israel camping by tribes, and God's Spirit came on him. 3He took up this oracle: "The oracle of Balaam son of Beor, the oracle of a man with his eyes wide open,</span>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> the oracle of one that hears God's message, that sees a vision from the Almighty, that falls down with his eyes wide open. 5"How fair your tents, Jacob, the places where you live, Israel!</span>
+<span class="verse" id="v4"><sup class="verse-num">4</sup> the oracle of one that hears God's message, that sees a vision from the Almighty, that falls down with his eyes wide open.</span>
+
+<span class="verse" id="v5"><sup class="verse-num">5</sup> "How fair your tents, Jacob, the places where you live, Israel!</span>
 
 <span class="verse" id="v6"><sup class="verse-num">6</sup> like valleys that stretch out, like orchards beside a river, like aloes the LORD planted, like cedars beside the water.</span>
 
@@ -29,7 +33,9 @@ weight: 24
 
 <span class="verse" id="v15"><sup class="verse-num">15</sup> He took up this oracle: "The oracle of Balaam son of Beor, the oracle of a man with his eyes wide open,</span>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> the oracle of one that hears God's message, that knows Elyon, that sees a vision from the Almighty, and falls down with eyes wide open. 17"I see him, but not now; I look at him, but not near. A star will rise out of Jacob; a scepter will arise from Israel. He'll crush the forehead of Moab and tear down the sons of Sheth.</span>
+<span class="verse" id="v16"><sup class="verse-num">16</sup> the oracle of one that hears God's message, that knows Elyon, that sees a vision from the Almighty, and falls down with eyes wide open.</span>
+
+<span class="verse" id="v17"><sup class="verse-num">17</sup> "I see him, but not now; I look at him, but not near. A star will rise out of Jacob; a scepter will arise from Israel. He'll crush the forehead of Moab and tear down the sons of Sheth.</span>
 
 <span class="verse" id="v18"><sup class="verse-num">18</sup> Edom will be a possession; Seir, his enemy, will be overtaken, while Israel grows strong.</span>
 

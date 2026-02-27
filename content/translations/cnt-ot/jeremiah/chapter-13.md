@@ -11,13 +11,26 @@ weight: 13
 
 ## Jeremiah Chapter 13
 
+### The Ruined Linen Loincloth
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> The LORD told me<em>, “Go buy a linen waistcloth and put it </em><em>on. D</em><em>on’t </em><em>wash it</em><em>.”</em><em> </em></span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> So I bought one and put it on.</span>
 
 <span class="verse" id="v3"><sup class="verse-num">3</sup> Then he said,</span>
 
+<span class="verse" id="v4"><sup class="verse-num">4</sup> <em>“Take</em><em> it to the Euphrates and hide it in a crevice in a rock.” </em><strong><sup>5</sup></strong>So I went and hid it there. <strong><sup>6</sup></strong>A long time later the LORD told me to go get it<em>. </em><strong><sup>7</sup></strong>I went and dug it out of where I’d put it. It was ruined.</span>
+
 <span class="verse" id="v8"><sup class="verse-num">8</sup> Then he told me,</span>
+
+<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>“</em>This waistcloth<em> illustrates how I’ll ruin arrogant Judah and Jerusalem. </em><strong><sup>10</sup></strong><em>These</em><em> people are following their own stubborn hearts in serving and bowing to other gods; they won’t be good for anything—like this waistcloth. </em><strong><sup>11</sup></strong><em>As</em><em> it clings to a person’s waist, so I made Israel and Judah for clinging to me so they could be my people, a name, praise, and glory; but they’ve ignored me.</span>
+<p class="section-ref">Jer 13:1-11</p>
+
+<span class="verse" id="v12"><sup class="verse-num">12</sup> <em>“</em><em>So</em><em> tell them that the </em><em>L</em><em>ORD</em><em> God of Israel says to fill every jug with wine. When they say, ‘Don’t we very well know how to do that?’ </em><strong><sup>13</sup></strong><em>then</em><em> say, ‘The </em><em>L</em><em>ORD</em><em> says, “I’m about to make everybody drunk</em><em> </em><em>in this land, from kings on David’s throne, to priests and prophets, and the residents in Jerusalem! </em><strong><sup>14</sup></strong><em>I’ll</em><em> pit them against one another, </em>even<em> parents against children. Pitying, feeling sorry, having compassion won’t keep me from destroying them.”’”</em><strong></span>
+<p class="section-ref">Jer 13:12-14</p>
+
+### Exile Threatened
+
 
 <span class="verse" id="v15"><sup class="verse-num">15</sup> Listen; don’t be proud; the LORD has spoken.</span>
 
@@ -27,8 +40,10 @@ weight: 13
 
 <span class="verse" id="v18"><sup class="verse-num">18</sup> Tell the king and queen mother, <em>“T</em><em>ake a low</em><em> seat,</em> <em>	</em><em>	</em><em>because your beautiful crown </em> <em>	</em><em>	has been taken from</em><em> your head.”</em></span>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> The towns in the Negev will be closed; nobody will be able to open them; Judah will go into exile.<strong>	</strong><strong></span>
+<span class="verse" id="v19"><sup class="verse-num">19</sup> The towns in the Negev will be closed; nobody will be able to open them; Judah will go into exile.</span>
 <p class="section-ref">Jer 13:15-19</p>
+
+<span class="verse" id="v20"><sup class="verse-num">20</sup> <em>“</em><em>Look</em><em> </em><em>who’s </em><em>coming from the north.</em> <em>	Where are the beautiful sheep</em> <em>	of the flock you</em><em> were given</em><em>?</em></span>
 
 <span class="verse" id="v21"><sup class="verse-num">21</sup> <em>What</em><em> will you say when </em>the LORD<em> appoints over you</em> <em>	</em><em>	former allies that you taught?</em> <em>	Won’t pains come on you</em> <em>	</em><em>	like a woman in childbirth?</em></span>
 
@@ -39,14 +54,15 @@ weight: 13
 <span class="verse" id="v24"><sup class="verse-num">24</sup> <em>So</em><em> I’ll scatter you like chaff in the desert wind.</em></span>
 
 <span class="verse" id="v25"><sup class="verse-num">25</sup> <em>That’s</em><em> the lot I’ve measured out to you,”</em> the LORD says,</span>
-<p class="section-ref">Jer 13:20-</p>
+<p class="section-ref">Jer 13:20-25</p>
 
-### 25a 	“because you’ve forgotten me and trusted in lies.
+### a 	“because you’ve forgotten me and trusted in lies.
 
 
 <span class="verse" id="v26"><sup class="verse-num">26</sup> <em>So</em><em> I have stripped your skirt off over your face</em> <em>	to show your shame.</em></span>
 
-<span class="verse" id="v27"><sup class="verse-num">27</sup> <em>I’ve</em><em> seen your detestable deeds:</em> <em>	</em><em>	your adulteries and neighing,</em> <em>	</em><em>	your lewd prostitution right out in the open</em><em> </em><em>on the hills. </em> <em>	Misfortune awaits you, Jerusalem!</em> <em>	How long will you stay defiled?”</em><strong>	</strong><strong>	</strong><strong>Jer </strong><strong>13:25b-27</strong></span>
+<span class="verse" id="v27"><sup class="verse-num">27</sup> <em>I’ve</em><em> seen your detestable deeds:</em> <em>	</em><em>	your adulteries and neighing,</em> <em>	</em><em>	your lewd prostitution right out in the open</em><em> </em><em>on the hills. </em> <em>	Misfortune awaits you, Jerusalem!</em> <em>	How long will you stay defiled?”</span>
+<p class="section-ref">Jer 13:25b</p>
 
 
 <style>

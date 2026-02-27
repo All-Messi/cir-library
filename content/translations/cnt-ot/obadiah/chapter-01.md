@@ -9,15 +9,16 @@ weight: 1
 
 ## Obadiah Chapter 1
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> The Vision of Obadiah Edom's Judgment Foretold The Lord GOD says this about Edom; we've heard the report; an ambassador has gone out to the nations to say: "To arms, attack Edom." 2"I'll make you a minor player among the nations and utterly despised.</span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> The Vision of Obadiah Edom's Judgment Foretold The Lord GOD says this about Edom; we've heard the report; an ambassador has gone out to the nations to say: "To arms, attack Edom."</span>
+
+<span class="verse" id="v2"><sup class="verse-num">2</sup> "I'll make you a minor player among the nations and utterly despised.</span>
 
 <span class="verse" id="v3"><sup class="verse-num">3</sup> Your arrogance has deceived you, you that live high in caves and tell yourselves that nobody can bring you down.</span>
 
 <span class="verse" id="v4"><sup class="verse-num">4</sup> Though you've built high like an eagle and put your nest among the stars, I'll bring you down.</span>
 <p class="section-ref">Obad 1-4</p>
 
-### 5"If thieves came to you at night— what disaster awaits you!— wouldn't they steal only till they had enough? If grape pickers came, wouldn't they leave some gleanings?
-
+<span class="verse" id="v5"><sup class="verse-num">5</sup> "If thieves came to you at night— what disaster awaits you!— wouldn't they steal only till they had enough? If grape pickers came, wouldn't they leave some gleanings?</span>
 
 <span class="verse" id="v6"><sup class="verse-num">6</sup> But how you'll be pillaged, Esau, and your hidden treasures found!</span>
 
@@ -28,8 +29,10 @@ weight: 1
 <span class="verse" id="v9"><sup class="verse-num">9</sup> Your strong troops will be afraid, Teman; so everybody from Esau's mountains will be cut down in the slaughter.</span>
 <p class="section-ref">Obad 5-9</p>
 
-### Edom's Violence Against Israel 10"Because of your violence against Jacob your brother, you'll be covered with disgrace and permanently eliminated.
+### Edom's Violence Against Israel
 
+
+<span class="verse" id="v10"><sup class="verse-num">10</sup> "Because of your violence against Jacob your brother, you'll be covered with disgrace and permanently eliminated.</span>
 
 <span class="verse" id="v11"><sup class="verse-num">11</sup> You stood aloof while foreigners cast lots for Jerusalem and strangers entered its gates to carry off its wealth. You even joined them.</span>
 
@@ -40,8 +43,10 @@ weight: 1
 <span class="verse" id="v14"><sup class="verse-num">14</sup> You shouldn't have stood at the fork in the road to cut down their refugees or have betrayed the survivors in their misfortune.</span>
 <p class="section-ref">Obad 10-14</p>
 
-### Edom's Destruction, Israel's Restoration 15"The LORD's judgment is coming on all the nations. What you've done to Israel will be done to you; your dealings will come back on your own head.
+### Edom's Destruction, Israel's Restoration
 
+
+<span class="verse" id="v15"><sup class="verse-num">15</sup> "The LORD's judgment is coming on all the nations. What you've done to Israel will be done to you; your dealings will come back on your own head.</span>
 
 <span class="verse" id="v16"><sup class="verse-num">16</sup> You and those nations will drink the same punishment you swallowed on my holy mountain. You'll all drink till you drown.</span>
 
@@ -55,9 +60,6 @@ weight: 1
 
 <span class="verse" id="v21"><sup class="verse-num">21</sup> All those who were rescuedLXX will go up to Mount Zion and extend its dominion over Esau's mountains. The kingdom will belong to the LORD.</span>
 <p class="section-ref">Obad 19-21</p>
-
-### Version by Virgil Warren: christir.org
-
 
 
 <style>

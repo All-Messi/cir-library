@@ -3,7 +3,7 @@ book: 1 John
 chapters: 5
 title: 1 John
 translation: CNT
-type: scripture
+type: book
 weight: 62
 ---
 

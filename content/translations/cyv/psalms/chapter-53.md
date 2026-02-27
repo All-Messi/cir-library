@@ -11,6 +11,8 @@ weight: 53
 
 ## Psalms Chapter 53
 
+### A Maskil of David
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Fools tell themselves there’s no God. They’re corrupt and commit disgusting sins; none of them does what’s good.</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> God looks down from heaven to see if anybody understands, if anybody looks to him.</span>
@@ -24,9 +26,6 @@ weight: 53
 
 <span class="verse" id="v6"><sup class="verse-num">6</sup> Oh that deliverance would come out of Zion! When I restore the fortunes of my people, Jacob will celebrate, Israel will be happy.</span>
 <p class="section-ref">Ps 53:4-6</p>
-
-### When the Ziphites Came and Told Saul, “Isn’t David hiding among us?” On Stringed Instruments
-
 
 
 <style>

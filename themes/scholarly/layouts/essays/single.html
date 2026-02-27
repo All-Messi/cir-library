@@ -21,6 +21,10 @@
             {{ end }}
         </div>
         
+        <div class="essay-actions">
+            {{ partial "pdf-link.html" . }}
+        </div>
+
         {{ if .Params.categories }}
         <div class="essay-meta">
             <span class="categories">

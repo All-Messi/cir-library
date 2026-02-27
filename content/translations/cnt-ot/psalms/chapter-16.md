@@ -11,6 +11,8 @@ weight: 16
 
 ## Psalms Chapter 16
 
+### A Mikhtam of David
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Protect me, LORD; you’re my refuge.</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> I say, “You’re my Lord; apart from you, I don’t have anything good.”</span>
@@ -34,9 +36,6 @@ weight: 16
 
 <span class="verse" id="v11"><sup class="verse-num">11</sup> You’ll show me how to live; there’s total joy when you’re around, with eternal delights with you.</span>
 <p class="section-ref">Ps 16:7-11</p>
-
-### A Prayer of David
-
 
 
 <style>

@@ -13,6 +13,8 @@ weight: 23
 
 <span class="verse" id="v1"><sup class="verse-num">1</sup> <strong>Job</strong><strong> answered:</strong></span>
 
+<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>“My</em><em> complaint is still </em><em>bitter;</em> God’s<em> hand weighs heavily on me despite my groaning.</em></span>
+
 <span class="verse" id="v3"><sup class="verse-num">3</sup> <em>If</em><em> only I knew where to find him</em> <em>so</em><em> I could go to his courtroom!</em></span>
 
 <span class="verse" id="v4"><sup class="verse-num">4</sup> <em>I’d</em><em> present my case </em> <em>and offer my arguments.</em></span>
@@ -21,8 +23,10 @@ weight: 23
 
 <span class="verse" id="v6"><sup class="verse-num">6</sup> <em>Would</em><em> he </em><em>oppose</em><em> me with his great power?</em> <em>No, he’d listen!</em></span>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>Someone</em><em> godly would be reasoning with him,</em> <em>and my Judge would acquit me permanently.</em><strong></span>
+<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>Someone</em><em> godly would be reasoning with him,</em> <em>and my Judge would acquit me permanently.</span>
 <p class="section-ref">Job 23:1-7</p>
+
+<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>“I</em><em> go east, but he’s not </em><em>there;</em> I go<strong><em> </em></strong><em>west, but I </em><em>can’t</em><em> find him.</em></span>
 
 <span class="verse" id="v9"><sup class="verse-num">9</sup> <em>When</em><em> he acts in the north, I can’t see </em><em>it;</em> <em>when he turns to the south, he’s hidden there too</em>.</span>
 
@@ -40,7 +44,8 @@ weight: 23
 
 <span class="verse" id="v16"><sup class="verse-num">16</sup> <em>It’s</em><em> God that’s made my heart faint,</em> <em>the Almighty that’s terrified me.</em></span>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> <em>Yet</em><em> the darkness doesn’t silence me</em> <em>or the deep gloom that covers me.</em><strong>	</strong><strong>Job 23:8-17</strong></span>
+<span class="verse" id="v17"><sup class="verse-num">17</sup> <em>Yet</em><em> the darkness doesn’t silence me</em> <em>or the deep gloom that covers me.</span>
+<p class="section-ref">Job 23:8-17</p>
 
 
 <style>

@@ -11,6 +11,8 @@ weight: 44
 
 ## Psalms Chapter 44
 
+### A Maskil of the Sons of Korah
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> God, our ancestors have told us what you did in their time long ago.</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> You drove out nations and planted this one; you struck them and scattered them abroad.</span>
@@ -67,9 +69,6 @@ weight: 44
 
 <span class="verse" id="v26"><sup class="verse-num">26</sup> Get up and help us; redeem us like your enduring love suggests.</span>
 <p class="section-ref">Ps 44:20-26</p>
-
-### A Maskil of the Sons of Korah. A Song About Love
-
 
 
 <style>

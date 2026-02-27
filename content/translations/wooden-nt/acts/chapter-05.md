@@ -29,6 +29,8 @@ weight: 5
 
 <span class="verse" id="v19"><sup class="verse-num">19</sup> And (an) angel of-(the)-Lord during (the) night, having-opened the doors of-the prison and having-led┘them└out, said,</span>
 
+<span class="verse" id="v20"><sup class="verse-num">20</sup> <em>“Go and, having-stood, speak in the temple to-the people all the words of-[the] this life.”</em><em> </em></span>
+
 <span class="verse" id="v21"><sup class="verse-num">21</sup> And having-heard, they-entered into the temple under the early-morning<sup>3</sup>/at daybreak<sup>3</sup>, and began-to-teach. And the high-priest having-arrived, and the-ones with him called-together the Sanhedrin and all the Council of-the sons of-Israel, and they-sent to the prison for-them to-be-brought.</span>
 
 <span class="verse" id="v22"><sup class="verse-num">22</sup> And the having-arrived, officers did┘not└find them in the prison; and, having-returned, they-reported, <strong><sup>23</sup></strong>saying [that], <em>“We-found the prison locked in all safety and the guards standing at the </em><em>doors, but</em><em> having-opened we-found nobody inside.”</em></span>

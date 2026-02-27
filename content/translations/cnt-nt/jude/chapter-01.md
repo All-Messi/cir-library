@@ -33,9 +33,6 @@ weight: 1
 <span class="verse" id="v24"><sup class="verse-num">24</sup> Now to him who can keep you from stumbling and stand you blameless in front of his glory with great joy, 25to the only God our Savior through Jesus Christ our Lord be glory and majesty, dominion and authority before all time, now, and forever. Amen.</span>
 <p class="section-ref">Jude 24-25</p>
 
-### Translator: Virgil Warren,     								       christir.org
-
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

@@ -22,9 +22,6 @@ weight: 15
 <span class="verse" id="v5"><sup class="verse-num">5</sup> that don’t charge interest or accept bribes against innocent people. People like that will always be secure.</span>
 <p class="section-ref">Ps 15:1-5</p>
 
-### A Mikhtam of David
-
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

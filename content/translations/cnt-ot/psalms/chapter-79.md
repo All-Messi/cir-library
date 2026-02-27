@@ -39,9 +39,6 @@ weight: 79
 <span class="verse" id="v13"><sup class="verse-num">13</sup> so we, your people, the sheep in your pasture, can be eternally grateful to you and recount your praise to all generations.</span>
 <p class="section-ref">Ps 79:6-13</p>
 
-### Set to Lilies; A Testimony
-
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

@@ -4,7 +4,7 @@ categories:
 - Topics
 - Book Studies
 - James
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: '(3) JAMES: SELF-DETERMINATION CONVERTED TO PRAYER'
 weight: 3

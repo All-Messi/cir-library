@@ -11,6 +11,8 @@ weight: 69
 
 ## Psalms Chapter 69
 
+### Set to Lilies
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Save me, God; I’m in water up to my neck!</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> I’ve sunk in deep mud, where there’s no foothold; a flood is sweeping over me.</span>
@@ -89,9 +91,6 @@ weight: 69
 
 <span class="verse" id="v36"><sup class="verse-num">36</sup> The descendants of his servants will inherit it; those who love him will live there.</span>
 <p class="section-ref">Ps 69:34-36</p>
-
-### for a Memorial
-
 
 
 <style>

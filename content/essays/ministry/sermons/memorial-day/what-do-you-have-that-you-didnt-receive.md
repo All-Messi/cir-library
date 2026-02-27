@@ -4,7 +4,7 @@ categories:
 - Ministry
 - Sermons
 - Memorial Day
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: What Do You Have That You Didn’t Receive?
 weight: 3

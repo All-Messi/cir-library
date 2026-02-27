@@ -11,6 +11,8 @@ weight: 60
 
 ## Psalms Chapter 60
 
+### to teach when he struggled with Aram-naharaim and Aram-zobah, and Joab came back and struck 12,000 Edomites in the Valley of Salt
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> You’ve rejected us, God, and broken us; you’ve been angry, but restore us now.</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> You’ve made the land quake; you’ve split it open; now repair the faults and stop the tremors.</span>
@@ -37,9 +39,6 @@ weight: 60
 
 <span class="verse" id="v12"><sup class="verse-num">12</sup> Through you we can do valiantly; you’ll tread down our adversaries.</span>
 <p class="section-ref">Ps 60:9-12</p>
-
-### On Stringed Instruments
-
 
 
 <style>

@@ -11,17 +11,26 @@ weight: 5
 
 ## Zechariah Chapter 5
 
+### A Flying Scroll
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Then I looked up and saw a flying scroll.</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> He said, <em>“What do you see?”</em> <em>“A</em><em> flying scroll</em><em>,</em><em> </em><em>15 by </em><em>30ft</em><em>.”</em></span>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> He told me, <em>“</em><em>It contains the words of </em><em>the curse that’s over the </em><em>whole world</em><em>.</em><em> </em><em>Every</em><em>one</em><em> that steals will be erased </em><em>from</em><em> one side</em><em>. E</em><em>very</em><em>one</em><em> that swears </em>falsely <em>will be erased </em><em>from</em><em> the other.</em><em> </em><strong><sup>4</sup></strong><em>The</em><em> </em><em>L</em><em>ORD</em><em> of </em><em>H</em><em>osts </em><em>will send</em><em> </em><em>the curse out to</em><em> the </em><em>thief’s </em><em>house and</em><em> to </em><em>the </em><em>house of the </em><em>one that s</em><em>wears falsely by his name. The curse will remain there all night</em><em> </em><em>till it consumes its timbers and stones</em><em>.</em><em>’</em><em>”</em><strong> </strong><strong>	</strong><strong>Zech 5:1-4</strong><strong> </strong> <strong>A Woman in a Basket</strong></span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> He told me, <em>“</em><em>It contains the words of </em><em>the curse that’s over the </em><em>whole world</em><em>.</em><em> </em><em>Every</em><em>one</em><em> that steals will be erased </em><em>from</em><em> one side</em><em>. E</em><em>very</em><em>one</em><em> that swears </em>falsely <em>will be erased </em><em>from</em><em> the other.</em><em> </em><strong><sup>4</sup></strong><em>The</em><em> </em><em>L</em><em>ORD</em><em> of </em><em>H</em><em>osts </em><em>will send</em><em> </em><em>the curse out to</em><em> the </em><em>thief’s </em><em>house and</em><em> to </em><em>the </em><em>house of the </em><em>one that s</em><em>wears falsely by his name. The curse will remain there all night</em><em> </em><em>till it consumes its timbers and stones</em><em>.</em><em>’</em><em>”</em><strong></span>
+<p class="section-ref">Zech 5:1-4</p>
+
+### A Woman in a Basket
+
 
 <span class="verse" id="v5"><sup class="verse-num">5</sup> The angel came forward and said, <em>“Look </em><em>at</em><em> what’s </em><em>com</em><em>ing.”</em></span>
 
 <span class="verse" id="v6"><sup class="verse-num">6</sup> I said, <em>“What is it?”</em> <em>“</em><em>A basket</em><em><sup> </sup></em><sup>ephah</sup><em> for measuring grain. It’s filled with the sins of everybody in the land </em><strong><sup>7</sup></strong>[a lead cover was lifted off of it]<em>, and that’s a woman sitting inside </em><em>it </em><strong><sup>8</sup></strong><em>named</em><em> </em><em>Wickedness</em><em>!” </em>He shoved her down into the ephah and put the lead lid back on it. <strong><sup>9</sup></strong>I saw two women flying toward us with wings like a stork. They took the ephah up in the air.</span>
 
 <span class="verse" id="v10"><sup class="verse-num">10</sup> I asked the angel where they were taking it.</span>
+
+<span class="verse" id="v11"><sup class="verse-num">11</sup> <em>“To</em><em> Shinar to</em><em> build a </em><em>temple</em><em> for </em><em>it</em><em>.</em><em> </em><em>When it’s ready, they’ll set</em><em> the ephah there</em><em> on </em><em>its</em><em> own pedestal.”</span>
+<p class="section-ref">Zech 5:5-11</p>
 
 
 <style>

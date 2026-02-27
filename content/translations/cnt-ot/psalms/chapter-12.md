@@ -11,6 +11,8 @@ weight: 12
 
 ## Psalms Chapter 12
 
+### Set to The Eight-String Lyre
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Help, LORD; there aren’t any decent people left; the faithful are disappearing.</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> Neighbors lie to one another and speak with flattering lips and deceitful hearts.</span>

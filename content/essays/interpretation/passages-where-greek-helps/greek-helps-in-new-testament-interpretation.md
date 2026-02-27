@@ -3,7 +3,7 @@ author: Virgil Warren, PhD
 categories:
 - Interpretation
 - Passages Where Greek Helps
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: GREEK HELPS IN NEW TESTAMENT INTERPRETATION
 weight: 2

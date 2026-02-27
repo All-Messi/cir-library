@@ -4,7 +4,7 @@ author: "c. Irrationalism (improper thinking patterns)\t             Virgil Warr
 categories:
 - Interpretation
 - Getting The Point Book
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: "c. Irrationalism (improper thinking patterns)\t             Virgil Warren,\
   \ PhD"

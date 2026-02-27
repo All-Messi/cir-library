@@ -4,7 +4,7 @@ categories:
 - Topics
 - Christian Doctrine
 - Dispensations
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: PAUL VS. THE LAW OR THE TRADITION OF THE ELDERS?
 weight: 3

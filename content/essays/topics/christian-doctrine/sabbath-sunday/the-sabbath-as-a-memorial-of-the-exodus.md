@@ -4,7 +4,7 @@ categories:
 - Topics
 - Christian Doctrine
 - Sabbath Sunday
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: THE SABBATH AS A MEMORIAL OF THE EXODUS
 weight: 3

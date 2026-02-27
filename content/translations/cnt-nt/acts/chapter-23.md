@@ -34,11 +34,15 @@ weight: 23
 
 <span class="verse" id="v18"><sup class="verse-num">18</sup> He took him to the tribune, "The prisoner Paul asked me to bring you this young man. He has something to tell you."</span>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> The tribune took his hand and withdrew privately, "What do you have to report?" 20"Some Jews have agreed together to ask you to take Paul down into the Sanhedrin tomorrow as if to ask something more accurately about him. 21Don't let them persuade you. More than 40 of them are lying in ambush. They've taken an oath not to eat or drink till they've killed him. They're ready now and waiting for your promise.</span>
+<span class="verse" id="v19"><sup class="verse-num">19</sup> The tribune took his hand and withdrew privately, "What do you have to report?"</span>
+
+<span class="verse" id="v20"><sup class="verse-num">20</sup> "Some Jews have agreed together to ask you to take Paul down into the Sanhedrin tomorrow as if to ask something more accurately about him. 21Don't let them persuade you. More than 40 of them are lying in ambush. They've taken an oath not to eat or drink till they've killed him. They're ready now and waiting for your promise.</span>
 
 <span class="verse" id="v22"><sup class="verse-num">22</sup> The tribune let him go, "Don't tell anybody you told me about this." 23He called 2 centurions, "Get 200 soldiers ready, 75 cavalrymen, and 200 infantrymen to leave for Caesarea at 9:00 tonight. 24Provide mounts to deliver Paul safely to Felix the governor."</span>
 
-<span class="verse" id="v25"><sup class="verse-num">25</sup> He wrote a letter to this effect: 26"Claudius Lysias to most excellent Governor Felix.</span>
+<span class="verse" id="v25"><sup class="verse-num">25</sup> He wrote a letter to this effect:</span>
+
+<span class="verse" id="v26"><sup class="verse-num">26</sup> "Claudius Lysias to most excellent Governor Felix.</span>
 
 <span class="verse" id="v27"><sup class="verse-num">27</sup> The Jews arrested this man and were trying to kill him when I came on them with troops and rescued him, when I discovered he was a Roman citizen. 28To learn why they were accusing him, I took him down into their Sanhedrin. 29I found out they were accusing him about questions in their Law, not about anything that deserves bonds or death. 30I was informed about a plot against him and sent him to you at once. I have instructed his accusers to bring charges against him in your hearing." Paul Sent to Caesarea</span>
 

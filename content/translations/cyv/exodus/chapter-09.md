@@ -11,6 +11,8 @@ weight: 9
 
 ## Exodus Chapter 9
 
+### The Plague on Livestock
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Yahveh told Moses<em>, </em> <em>“Go tell</em><em> Pharaoh</em><em>, ‘Yahveh God of the Hebrews says to l</em><em>et </em><em>his people go</em><em> so they can serve </em><em>him</em><em>.</em><em> </em><strong><sup>2</sup></strong><em>If you keep holding them, </em><strong><sup>3</sup></strong><em>he’</em><em>ll bring</em><em> a severe </em><strong><em>plague on your livestock</em></strong><em> in the pasture—hor</em><em>ses, </em><em>donkeys, </em><em>camels, herds</em><em>,</em><em> and flocks.</em><em> </em><strong><sup>4</sup></strong><em>But </em><em>he’ll</em><em> distinguish </em><em>Israel’s livestock from</em><em> Egypt’s.</em><em> </em><em>Nothing will die </em><em>that belongs to the Israelites.</em><em>’”</em></span>
 
 <span class="verse" id="v5"><sup class="verse-num">5</sup> Yahveh set a time,<em> “</em><em>I’ll do that</em><em> in the country</em><em> tomorrow</em><em>.”</em><em> </em><strong><sup>6</sup></strong>The next day he did it. Livestock in Egypt died, but none of the Israelites’ livestock died. <strong><sup>7</sup></strong>Pharaoh sent to find out that not a one of the Israelites’ livestock died, but he hardened his heart and wouldn’t let the people go.</span>
@@ -34,11 +36,10 @@ weight: 9
 
 <span class="verse" id="v27"><sup class="verse-num">27</sup> Pharaoh sent for Moses and Aaron, <em>“I’ve sinned this time.</em><em> Yahveh</em><em> is </em><em>right</em><em>; my people </em><em>and I </em><em>are </em><em>wrong</em><em>.</em><em> </em><strong><sup>28</sup></strong><em>Pray to him. We’ve had enough of hi</em><em>s thunder and hail.</em><em> </em><em><u>I’ll let you go for good</u></em><em>.”</em></span>
 
-<span class="verse" id="v29"><sup class="verse-num">29</sup> Moses told him<em>, </em> <em>“As soon as I </em><em>leave</em><em> the city, I’ll spread out my hands to </em><em>Yahveh. </em><em>Th</em><em>e thunder and</em><em> hail will stop</em><em>, and y</em><em>ou’ll know </em><em>the world belongs to Yahveh</em><em>.</em><em> </em><strong><sup>30</sup></strong><em>But </em><em>I’m sure </em><em>you and your </em><em>officer</em><em>s </em><em>still won’t</em><em> </em><em>respect</em><em> </em><em>him</em><em>.”</em><em> </em> <strong><sup>31</sup></strong>(The hail ruined the flax and barley crops because the barley had headed out and the flax had budded. <strong><sup>32</sup></strong>It didn’t ruin the wheat and spelt, which <em>ripen</em> later.) <strong><sup>33</sup></strong>Moses left Pharaoh and the city and spread out his hands to Yahveh. The thunder, hail, and rain quit pouring down. <strong><sup>34</sup></strong>When Pharaoh saw it stop, he and his officers sinned again and hardened their hearts. <strong><sup>35</sup></strong>He wouldn’t let the people go.</span>
+<span class="verse" id="v29"><sup class="verse-num">29</sup> Moses told him<em>, </em> <em>“As soon as I </em><em>leave</em><em> the city, I’ll spread out my hands to </em><em>Yahveh. </em><em>Th</em><em>e thunder and</em><em> hail will stop</em><em>, and y</em><em>ou’ll know </em><em>the world belongs to Yahveh</em><em>.</em><em> </em><strong><sup>30</sup></strong><em>But </em><em>I’m sure </em><em>you and your </em><em>officer</em><em>s </em><em>still won’t</em><em> </em><em>respect</em><em> </em><em>him</em><em>.”</em><em> </em></span>
+
+<span class="verse" id="v31"><sup class="verse-num">31</sup> (The hail ruined the flax and barley crops because the barley had headed out and the flax had budded. <strong><sup>32</sup></strong>It didn’t ruin the wheat and spelt, which <em>ripen</em> later.) <strong><sup>33</sup></strong>Moses left Pharaoh and the city and spread out his hands to Yahveh. The thunder, hail, and rain quit pouring down. <strong><sup>34</sup></strong>When Pharaoh saw it stop, he and his officers sinned again and hardened their hearts. <strong><sup>35</sup></strong>He wouldn’t let the people go.</span>
 <p class="section-ref">Ex 9:27-35</p>
-
-### The Plague of Locusts
-
 
 
 <style>

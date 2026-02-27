@@ -3,7 +3,7 @@ author: Virgil Warren     christir.org
 categories:
 - Topics
 - Just A Thought
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: JUST A THOUGHT
 weight: 2

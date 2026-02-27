@@ -4,7 +4,7 @@ categories:
 - Topics
 - Christian Doctrine
 - Revelation Scripture Bibliology
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: NOTATIONS ON GENERAL REVELATION
 weight: 3

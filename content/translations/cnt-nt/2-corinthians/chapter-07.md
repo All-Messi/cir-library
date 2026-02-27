@@ -14,7 +14,7 @@ weight: 7
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Since we have these promises, let’s “cleanse” ourselves from all defilement of flesh and spirit, and become perfect in holiness out of respect for God.</span>
 <p class="section-ref">2 Cor 6:14-7</p>
 
-### :1 The Great Value of Repentance
+### :1 	The Great Value of Repentance
 
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> Make room for us <em>in your hearts</em>. We haven’t done anything wrong to anybody, misled anybody, taken advantage of anybody. <strong><sup>3</sup></strong>I’m not criticizing <em>you</em>; like I said earlier, you’re in our hearts whether that means living or dying together. <strong><sup>4</sup></strong>I’m being bold with you and expressing the great pride I take in you.</span>
@@ -22,9 +22,6 @@ weight: 7
 
 <span class="verse" id="v5"><sup class="verse-num">5</sup> When we came to Macedonia, we couldn’t rest. We had troubles on every <em>side</em>—conflicts outside and fears inside. <strong><sup>6</sup></strong>But God, who comforts the downhearted, comforted us by Titus’ coming <strong><sup>7</sup></strong>and by the comfort he felt over you. He reported your longing, your grieving, <em>and</em> your zeal for me, so I rejoiced even more. <strong><sup>8</sup></strong>Though I made you sad by <em>my</em> letter, I don’t regret <em>sending it</em>, though I felt bad that it made you sad for a while. <strong><sup>9</sup></strong>I’m happy now, not because you were grieved, but because you were grieved to repentance. You were sorry in conformity with God’s will, so you didn’t suffer any loss because of us. <strong><sup>10</sup></strong>Sorrow that conforms<em> a person </em>to God’s <em>will</em> produces a repentance that leads to salvation without regret. The grief of this world leads to a dead end. <strong><sup>11</sup></strong>What earnestness that grieving in conformity to God’s will has produced in you! What defense and indignation! What fear and longing! What zeal and avenging of wrong! In everything you’ve shown yourselves to be innocent in the matter. <strong><sup>12</sup></strong>I didn’t write to you just for the offender and the offended; I wrote for your earnestness toward us to become clear to you in front of God. <strong><sup>13</sup></strong>Because of that, we’ve been comforted.</span>
 <p class="section-ref">2 Cor 7:5-13</p>
-
-### a Besides being comforted, we rejoiced over Titus’ joy because you all refreshed his spirit. 14If I ever told him how proud I was about anything in you, I wasn’t embarrassed. As we told you the truth about everything, our comments to Titus proved to be true as well. 15His affection for you is all the greater when he remembers your obedience and how you received him with heartfelt respect. 16I’m glad I can be confident about you in everything. 	2 Cor 7:13b-16 The Collection for Homeland Christians
-
 
 
 <style>

@@ -11,6 +11,8 @@ weight: 81
 
 ## Psalms Chapter 81
 
+### Set to The Gittith
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Sing to God your Strength; make a joyful sound to Jacob’s God.</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> Sing, beat the tambourine, pluck the lyre and harp.</span>

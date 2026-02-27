@@ -13,6 +13,8 @@ weight: 8
 
 <span class="verse" id="v1"><sup class="verse-num">1</sup> And in those [the] days, (a) big crowd being again, and not having anything they-might-eat, having-summoned the disciples, he-says to-them,</span>
 
+<span class="verse" id="v2"><sup class="verse-num">2</sup> <strong><em><sup>“</sup></em></strong><em>I-have-compassion on the crowd, because already three days they-are-remaining-with me and </em><em>they-do┘not└have</em><em> anything they-might-eat.</em><em> </em><strong><sup>3</sup></strong><em>And</em><em> if I-dismiss them hungry to (the) house of-them, they-will-faint on the way, and some of-them have-come from afar.</em><em>”</em><em> </em></span>
+
 <span class="verse" id="v4"><sup class="verse-num">4</sup> And the disciples of-him answered him [that], <em>“Whence </em><em>will┘anybody└</em><em>be-able</em><em> to-satisfy these of-bread in (an) unpopulated-area?”</em></span>
 
 <span class="verse" id="v5"><sup class="verse-num">5</sup> And he-went-on-to-ask them, <em>“How many loaves do-you-have</em><em>?</em><em>”</em> And the/they said, <em>“Seven.”</em></span>
@@ -26,6 +28,8 @@ weight: 8
 <span class="verse" id="v16"><sup class="verse-num">16</sup> And they-began-reasoning to one-another that they-do/did┘not└have loaves.</span>
 
 <span class="verse" id="v17"><sup class="verse-num">17</sup> And having-known, he-says to-them<em>, “Why are-you-reasoning that </em><em>you-do┘not└have</em><em> loaves?</em><em> </em><em>Do-you┘not-yet└know</em><em> nor understand?</em><em> </em><em>Do-you-have</em><em> the heart </em><em>of-you</em><em> hardened?</em><em> </em><strong><sup>18</sup></strong><em>Having</em><em> eyes, </em><em>do-you┘not└see</em><em>; and having ears, </em><em>do-you┘not└hear</em><em>?</em><em> </em><em>And </em><em>do-you┘not└remember</em><em> </em><strong><sup>19</sup></strong><em>when</em><em> I-broke the five loaves for the </em><em>five-thousand</em><em>?</em><em> </em><em>How-many baskets of-pieces full did-you-pick-up?”</em><em> </em> They-say to-him, <em>“Twelve.”</em></span>
+
+<span class="verse" id="v20"><sup class="verse-num">20</sup> <em>“When</em><em> (I broke the loaves) for the </em><em>four-thousand</em><em>, </em><em>how-many</em><em> baskets full of-pieces did-you-pick-up?”</em><em> </em> And they-say [to-him]<sup>ms</sup>, <em>“Seven.”</em></span>
 
 <span class="verse" id="v21"><sup class="verse-num">21</sup> And he-went-on-to-say, <em>“</em><em>Do-you┘not-yet└understand</em><em>?”</em></span>
 

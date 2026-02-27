@@ -20,7 +20,8 @@ weight: 8
 
 <span class="verse" id="v14"><sup class="verse-num">14</sup> Something else happens that’s pointless too: good people treated like they’re bad, and bad people treated like they’re good. <strong><sup>15</sup></strong>So I recommend enjoying life, because there’s nothing better under the sun than to eat, drink, and enjoy life.</span>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> When I applied my mind to knowing wisdom and seeing what happens in the world (even if a person never slept), <strong><sup>17</sup></strong>I looked at everything God does and<em> concluded</em> that no one can figure out what’s going on under the sun no matter how hard they try. Though the wisest may claim to understand it, they haven’t figured it out. <strong>	  </strong><strong>Eccl 8:10-17</strong></span>
+<span class="verse" id="v16"><sup class="verse-num">16</sup> When I applied my mind to knowing wisdom and seeing what happens in the world (even if a person never slept), <strong><sup>17</sup></strong>I looked at everything God does and<em> concluded</em> that no one can figure out what’s going on under the sun no matter how hard they try. Though the wisest may claim to understand it, they haven’t figured it out.</span>
+<p class="section-ref">Eccl 8:10-17</p>
 
 
 <style>

@@ -26,9 +26,6 @@ weight: 87
 <span class="verse" id="v7"><sup class="verse-num">7</sup> Then those who sing and those who play flutes will say, “The springs of all our joy are in you.”</span>
 <p class="section-ref">Ps 87:1-7</p>
 
-### A Maskil of Herman the Ezrahite
-
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

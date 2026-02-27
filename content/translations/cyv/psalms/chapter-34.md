@@ -11,6 +11,8 @@ weight: 34
 
 ## Psalms Chapter 34
 
+### Before Abimelech, Who Drove Him Away
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> I’ll bless Yahveh at all times and praise him constantly.</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> I’ll make my boast about him; the helpless will hear it and take heart.</span>

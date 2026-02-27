@@ -4,7 +4,7 @@ categories:
 - Ministry
 - Communion Meditations
 - '2019'
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: Communion Meditation
 weight: 3

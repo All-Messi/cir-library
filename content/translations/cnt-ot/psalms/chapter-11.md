@@ -26,9 +26,6 @@ weight: 11
 <span class="verse" id="v7"><sup class="verse-num">7</sup> because he’s good and loves goodness. Good people get to meet him face to face.</span>
 <p class="section-ref">Ps 11:1-7</p>
 
-### Set to The Eight-String Lyre
-
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

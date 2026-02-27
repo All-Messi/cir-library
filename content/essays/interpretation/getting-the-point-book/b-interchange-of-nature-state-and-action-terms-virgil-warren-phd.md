@@ -4,7 +4,7 @@ author: B. Interchange of Nature, State, and Action Terms                Virgil 
 categories:
 - Interpretation
 - Getting The Point Book
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: B. Interchange of Nature, State, and Action Terms                Virgil Warren,
   PhD

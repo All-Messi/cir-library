@@ -19,9 +19,6 @@ weight: 1
 <span class="verse" id="v2"><sup class="verse-num">2</sup> We are always grateful to God for you and include you in our prayers. We <strong><sup>3</sup></strong>remember your work of faith, <em>your</em> labor of love, and <em>your </em>enduring hope that lies in our Lord Jesus Christ in the presence of our God and Father. <strong><sup>4</sup></strong>Family of Christ loved by God, we know you’re chosen <strong><sup>5</sup></strong>because our good news didn’t come to you just in words, but in power, <em>in</em> the Holy Spirit, <em>in</em> complete confidence, like the kind of men you know we proved to be among you on your behalf. <strong><sup>6</sup></strong>You imitated us and the Lord, because you received the message with the joy of the Holy Spirit among lots of difficulties. <strong><sup>7</sup></strong>As a result, you became an example for the believers in Macedonia and Achaia. <strong><sup>8</sup></strong>The Lord’s message rang out from you, not only in Macedonia and Achaia, but wherever your faith in God has gone. So we don’t have to say anything. <strong><sup>9</sup></strong>People acknowledge how you received us, how you turned from idols to serve the true, living God; <strong><sup>10</sup></strong>how you wait for his Son from heaven—that God raised from the dead, Jesus who rescues us from the fury to come.</span>
 <p class="section-ref">1 Th 1:2-10</p>
 
-### Paul’s History with the Thessalonians
-
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

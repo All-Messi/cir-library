@@ -4,7 +4,7 @@ categories:
 - Evidences
 - Critical Intro Nt
 - Prison Epistles
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: PLACE OF WRITING THE PRISON EPISTLES
 weight: 3

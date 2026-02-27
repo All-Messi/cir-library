@@ -11,16 +11,22 @@ weight: 8
 
 ## Leviticus Chapter 8
 
-<span class="verse" id="v1"><strong><sup>1</sup></strong>The LORD told Moses,</span>
+### The Ordination of Aaron and His Sons
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> When they came, <strong><sup>5</sup></strong>Moses told them, <em>“</em><em>The </em><em>L</em><em>ORD</em><em> has commanded this</em><em>.”</em><em> </em><em>	</em><strong>Lev 8:1-5</strong></span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> The LORD told Moses,</span>
+
+<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>“Take Aaron and his sons, their vestments and anointing oil, the bull for the sin offering, the 2 rams, and the basket of bread containing no yeast, </em><strong><sup>3</sup></strong><em>and gather the community at the entrance to the Tent of Meeting.”</em></span>
+
+<span class="verse" id="v4"><sup class="verse-num">4</sup> When they came, <strong><sup>5</sup></strong>Moses told them, <em>“</em><em>The </em><em>L</em><em>ORD</em><em> has commanded this</em><em>.”</em><em></span>
+<p class="section-ref">Lev 8:1-5</p>
 
 <span class="verse" id="v6"><sup class="verse-num">6</sup> Moses had Aaron and his sons come near and bathed them. <strong><sup>7</sup></strong>He put the tunic and sash on <em>Aaron</em>, dressed him in the robe, put the ephod on him, and tied it on with the artistic band of the ephod. <strong><sup>8</sup></strong>He placed the pouch on him and put the Urim and the Thummin in it. <strong><sup>9</sup></strong>He placed the turban on his head, and on the front of the turban he put the golden plate, the holy crown.</span>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> He took the anointing oil and anointed the Tabernacle and everything in it. <strong><sup>11</sup></strong>He sprinkled it on the altar seven times and anointed its utensils, the basin, and its stand to consecrate them. <strong><sup>12</sup></strong>He poured some anointing oil on Aaron’s head to consecrate him. <strong><sup>13</sup></strong>Next, he had Aaron’s sons approach, dressed them with tunics, wrapped them with sashes, and tied caps on them.<strong> </strong><strong>  </strong><strong></span>
+<span class="verse" id="v10"><sup class="verse-num">10</sup> He took the anointing oil and anointed the Tabernacle and everything in it. <strong><sup>11</sup></strong>He sprinkled it on the altar seven times and anointed its utensils, the basin, and its stand to consecrate them. <strong><sup>12</sup></strong>He poured some anointing oil on Aaron’s head to consecrate him. <strong><sup>13</sup></strong>Next, he had Aaron’s sons approach, dressed them with tunics, wrapped them with sashes, and tied caps on them.<strong> </strong><strong></span>
 <p class="section-ref">Lev 8:6-13</p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> He brought the <u>bull</u> for the sin offering, and Aaron and his sons put their hands on its head. <strong><sup>15</sup></strong>He slaughtered <em>it</em>, and with his finger put some of its blood on the horns of the altar to purify it. He poured <em>the rest </em>at the base of the altar and consecrated it, to atone for it. <strong><sup>16</sup></strong>He took the two kidneys with the fat on the kidneys, entrails, and lobe of the liver and offered them up in smoke on the altar. <strong><sup>17</sup></strong>He burned the bull, its hide, meat, and refuse in the fire outside the camp. <strong>Lev 8:14-17</strong></span>
+<span class="verse" id="v14"><sup class="verse-num">14</sup> He brought the <u>bull</u> for the sin offering, and Aaron and his sons put their hands on its head. <strong><sup>15</sup></strong>He slaughtered <em>it</em>, and with his finger put some of its blood on the horns of the altar to purify it. He poured <em>the rest </em>at the base of the altar and consecrated it, to atone for it. <strong><sup>16</sup></strong>He took the two kidneys with the fat on the kidneys, entrails, and lobe of the liver and offered them up in smoke on the altar. <strong><sup>17</sup></strong>He burned the bull, its hide, meat, and refuse in the fire outside the camp.</span>
+<p class="section-ref">Lev 8:14-17</p>
 
 <span class="verse" id="v18"><sup class="verse-num">18</sup> Then he presented the <u>ram</u> for the burnt offering, and Aaron and his sons put their hands on its head. <strong><sup>19</sup></strong>He slaughtered it and sprinkled its blood on the altar. <strong><sup>20</sup></strong>When he’d cut the ram into pieces, he offered up the head, the pieces, and the suet in smoke. <strong><sup>21</sup></strong>After he’d washed its entrails and legs, he offered up the whole ram in smoke on the altar. It was a burnt offering for a pleasing aroma, an offering by fire to the LORD.</span>
 <p class="section-ref">Lev 8:18-21</p>
@@ -34,9 +40,6 @@ weight: 8
 
 <span class="verse" id="v36"><sup class="verse-num">36</sup> Aaron and his sons did everything the LORD commanded by Moses.</span>
 <p class="section-ref">Lev 8:30-36</p>
-
-### The Priests Begin Their Service
-
 
 
 <style>

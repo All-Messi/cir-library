@@ -11,6 +11,8 @@ weight: 52
 
 ## Psalms Chapter 52
 
+### When Doeg the Edomite Came and Told Saul, “David has gone to Ahimelech’s house.”
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> God’s enduring love lasts all day; so why brag about sinning, great soldier?</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> Your tongue cuts like a razor.</span>
@@ -30,9 +32,6 @@ weight: 52
 
 <span class="verse" id="v9"><sup class="verse-num">9</sup> I’ll be eternally grateful for what he’s done, and depend on him in front of his holy people because that’s good.</span>
 <p class="section-ref">Ps 52:6-9</p>
-
-### A Maskil of David
-
 
 
 <style>

@@ -11,90 +11,96 @@ weight: 7
 
 ## Nehemiah Chapter 7
 
+### The Walls Are Finished
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> The wall had been rebuilt, and I’d set up the doors and appointed gatekeepers, singers, and Levites. <strong><sup>2</sup></strong>I put Hanani my brother—along with Hananiah commander of the fortress—in charge of Jerusalem because he was a reliable man that respected God more than most. <strong><sup>3</sup></strong>I told them, <em>“Don’t open the gates till the sun is hot</em><em>. W</em><em>hile they’re standing guard, shut and bolt the doors.</em><em> </em><em>Appoint guards from the </em><em>people that live inside</em><em> Jerusalem, each at his post </em><em>by</em><em> </em><em>his own house.” </em></span>
 
 <span class="verse" id="v4"><sup class="verse-num">4</sup> The city was big and open, but there weren’t many people in it, and houses hadn’t been built.</span>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> Then God put it in my heart to gather the nobles, the officials, and the people to be enrolled by genealogies. I found the scroll with the genealogies for the ones that came up first; it read as follows:<strong>	</strong><strong>	</strong><strong>	  </strong><strong>Neh 7:1-5</strong> <strong>Lists of Returning Exiles</strong> <strong><sup>6-7</sup></strong>the number of Israelites that came back to Jerusalem and Judah with Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum, and Baanah:</span>
+<span class="verse" id="v5"><sup class="verse-num">5</sup> Then God put it in my heart to gather the nobles, the officials, and the people to be enrolled by genealogies. I found the scroll with the genealogies for the ones that came up first; it read as follows:</span>
+<p class="section-ref">Neh 7:1-5</p>
 
-<span class="verse" id="v8"><strong><sup>8</sup></strong>the family of Parosh		2,172</span>
+### Lists of Returning Exiles
 
-<span class="verse" id="v9"><strong><sup>9</sup></strong>the family of Shephatiah 			372</span>
 
-<span class="verse" id="v10"><strong><sup>0</sup></strong>the family of Arah	652</span>
+<span class="verse" id="v8"><sup class="verse-num">8</sup> the family of Parosh		2,172</span>
 
-<span class="verse" id="v11"><strong><sup>11</sup></strong>the family of Pahath-moab (descendants of Jeshua and Joab)	2,818</span>
+<span class="verse" id="v9"><sup class="verse-num">9</sup> the family of Shephatiah 			372</span>
+
+<span class="verse" id="v10"><sup class="verse-num">10</sup> the family of Arah	652</span>
+
+<span class="verse" id="v11"><sup class="verse-num">11</sup> the family of Pahath-moab (descendants of Jeshua and Joab)	2,818</span>
 <p class="section-ref">Neh 7:6-11</p>
 
-<span class="verse" id="v12"><strong><sup>12</sup></strong>the family of Elam 	1,254</span>
+<span class="verse" id="v12"><sup class="verse-num">12</sup> the family of Elam 	1,254</span>
 
-<span class="verse" id="v13"><strong><sup>13</sup></strong>the family of Zattu 	845</span>
+<span class="verse" id="v13"><sup class="verse-num">13</sup> the family of Zattu 	845</span>
 
-<span class="verse" id="v14"><strong><sup>4</sup></strong>the family of Zaccai	760</span>
+<span class="verse" id="v14"><sup class="verse-num">14</sup> the family of Zaccai	760</span>
 
-<span class="verse" id="v15"><strong><sup>5</sup></strong>the family of Binnui 	648</span>
+<span class="verse" id="v15"><sup class="verse-num">15</sup> the family of Binnui 	648</span>
 
-<span class="verse" id="v16"><strong><sup>6</sup></strong>the family of Bebai 	628</span>
+<span class="verse" id="v16"><sup class="verse-num">16</sup> the family of Bebai 	628</span>
 
-<span class="verse" id="v17"><strong><sup>17</sup></strong>the family of Azgad 			2,322</span>
+<span class="verse" id="v17"><sup class="verse-num">17</sup> the family of Azgad 			2,322</span>
 
-<span class="verse" id="v18"><strong><sup>18</sup></strong>the family of Adonikam 		667</span>
+<span class="verse" id="v18"><sup class="verse-num">18</sup> the family of Adonikam 		667</span>
 
-<span class="verse" id="v19"><strong><sup>19</sup></strong>the family of Bigvai 			2,067</span>
+<span class="verse" id="v19"><sup class="verse-num">19</sup> the family of Bigvai 			2,067</span>
 
-<span class="verse" id="v20"><strong><sup>20</sup></strong>the family of Adin			655</span>
+<span class="verse" id="v20"><sup class="verse-num">20</sup> the family of Adin			655</span>
 
-<span class="verse" id="v21"><strong><sup>21</sup></strong>the family of Ater (descendants of Hezekiah) 	98</span>
+<span class="verse" id="v21"><sup class="verse-num">21</sup> the family of Ater (descendants of Hezekiah) 	98</span>
 
-<span class="verse" id="v22"><strong><sup>22</sup></strong>the family of Hashum,			328</span>
+<span class="verse" id="v22"><sup class="verse-num">22</sup> the family of Hashum,			328</span>
 
-<span class="verse" id="v23"><strong><sup>23</sup></strong>the family of Bezai 				324</span>
+<span class="verse" id="v23"><sup class="verse-num">23</sup> the family of Bezai 				324</span>
 
-<span class="verse" id="v24"><strong><sup>24</sup></strong>the family of Hariph 			112</span>
+<span class="verse" id="v24"><sup class="verse-num">24</sup> the family of Hariph 			112</span>
 
-<span class="verse" id="v25"><strong><sup>25</sup></strong>the family of Gibeon 			95</span>
+<span class="verse" id="v25"><sup class="verse-num">25</sup> the family of Gibeon 			95</span>
 
-<span class="verse" id="v26"><strong><sup>26</sup></strong>the people from Bethlehem and Netophah	 			188</span>
+<span class="verse" id="v26"><sup class="verse-num">26</sup> the people from Bethlehem and Netophah	 			188</span>
 <p class="section-ref">Neh 7:12-26</p>
 
-<span class="verse" id="v27"><strong><sup>27</sup></strong>the people from Anathoth 	128</span>
+<span class="verse" id="v27"><sup class="verse-num">27</sup> the people from Anathoth 	128</span>
 
-<span class="verse" id="v28"><strong><sup>28</sup></strong>the people from Beth-azmaveth 	42</span>
+<span class="verse" id="v28"><sup class="verse-num">28</sup> the people from Beth-azmaveth 	42</span>
 
-<span class="verse" id="v29"><strong><sup>29</sup></strong>the people from Kiriath-jearim, Chephirah, and Beeroth		743</span>
+<span class="verse" id="v29"><sup class="verse-num">29</sup> the people from Kiriath-jearim, Chephirah, and Beeroth		743</span>
 
-<span class="verse" id="v30"><strong><sup>30</sup></strong>the people from Rama and Geba 				621</span>
+<span class="verse" id="v30"><sup class="verse-num">30</sup> the people from Rama and Geba 				621</span>
 
-<span class="verse" id="v31"><strong><sup>31</sup></strong>the people from Michmas 		122</span>
+<span class="verse" id="v31"><sup class="verse-num">31</sup> the people from Michmas 		122</span>
 
-<span class="verse" id="v32"><strong><sup>32</sup></strong>the people from Bethel and Ai 	123</span>
+<span class="verse" id="v32"><sup class="verse-num">32</sup> the people from Bethel and Ai 	123</span>
 
-<span class="verse" id="v33"><strong><sup>33</sup></strong>the people from the other Nebo	 52</span>
+<span class="verse" id="v33"><sup class="verse-num">33</sup> the people from the other Nebo	 52</span>
 
-<span class="verse" id="v34"><strong><sup>4</sup></strong>the people from the other Elam 			1,254</span>
+<span class="verse" id="v34"><sup class="verse-num">34</sup> the people from the other Elam 			1,254</span>
 
-<span class="verse" id="v35"><strong><sup>35</sup></strong>the people from Harim 			320</span>
+<span class="verse" id="v35"><sup class="verse-num">35</sup> the people from Harim 			320</span>
 
-<span class="verse" id="v36"><strong><sup>36</sup></strong>the people from Jericho 			345</span>
+<span class="verse" id="v36"><sup class="verse-num">36</sup> the people from Jericho 			345</span>
 
-<span class="verse" id="v37"><strong><sup>37</sup></strong>the people from Lod, Hadid, And Ono				721 <strong><sup>	</sup></strong><strong><sup>	38</sup></strong> the people from Senaah 		3,930</span>
+<span class="verse" id="v37"><sup class="verse-num">37</sup> the people from Lod, Hadid, And Ono				721</span>
 
 <span class="verse" id="v38"><sup class="verse-num">38</sup> the people from Senaah 		3,930</span>
 
-<span class="verse" id="v39"><strong><sup>39</sup></strong><u>the priests</u> the family of Jehaiah (through Jeshua)  			973</span>
+<span class="verse" id="v39"><sup class="verse-num">39</sup> <u>the priests</u> the family of Jehaiah (through Jeshua)  			973</span>
 <p class="section-ref">Neh 7:27-39</p>
 
-<span class="verse" id="v40"><strong><sup>	40</sup></strong>the family of Immer			1,052</span>
+<span class="verse" id="v40"><sup class="verse-num">40</sup> the family of Immer			1,052</span>
 
-<span class="verse" id="v41"><strong><sup>	41</sup></strong>the family of Passhur		1,247</span>
+<span class="verse" id="v41"><sup class="verse-num">41</sup> the family of Passhur		1,247</span>
 
-<span class="verse" id="v42"><strong><sup>	42</sup></strong>the family of Harim			1,017</span>
+<span class="verse" id="v42"><sup class="verse-num">42</sup> the family of Harim			1,017</span>
 
-<span class="verse" id="v43"><strong><sup>3</sup></strong><u>the Levites</u> the families of Jeshua and Kadmiel (descendants of Hodevah) 	74</span>
+<span class="verse" id="v43"><sup class="verse-num">43</sup> <u>the Levites</u> the families of Jeshua and Kadmiel (descendants of Hodevah) 	74</span>
 
-<span class="verse" id="v44"><strong><sup>44</sup></strong><u>the singers</u>: the family of Asaph 	148</span>
+<span class="verse" id="v44"><sup class="verse-num">44</sup> <u>the singers</u>: the family of Asaph 	148</span>
 
-<span class="verse" id="v45"><strong><sup>45</sup></strong><u>the gatekeepers</u>: the families of Shallum, Ater, Talmon, Akkub, Hatita, and Shobai 	138</span>
+<span class="verse" id="v45"><sup class="verse-num">45</sup> <u>the gatekeepers</u>: the families of Shallum, Ater, Talmon, Akkub, Hatita, and Shobai 	138</span>
 
 <span class="verse" id="v46"><sup class="verse-num">46</sup> <u>the </u><u>Temple</u><u> servants</u>: the descendants of Ziha, Hasupha, Tabbaoth, <strong><sup>47</sup></strong>Keros, Sia, Padon, <strong><sup>48</sup></strong>Lebana, Hagaba, Shalmai, <strong><sup>49</sup></strong>Hanan, Giddel, Gahar, <strong><sup>50</sup></strong>Reaiah, Rezin, Nekoda, <strong><sup>51</sup></strong>Gazzam, Uzza, Paseah, <strong><sup>52</sup></strong>Besai, Meunim, Nephushesim, <strong><sup>53</sup></strong>Bakbuk, Hakupha, Harhur, <strong><sup>54</sup></strong>Bazlith, Mahida, Harsha, <strong><sup>55</sup></strong>Barkos, Sisera, Temah, <strong><sup>56</sup></strong>Neziah, and Hatipha.</span>
 

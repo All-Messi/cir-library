@@ -11,7 +11,7 @@ weight: 9
 
 ## Joshua Chapter 9
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> The kings heard about it in the hill country and the western foothills along the Mediterranean Sea up to Lebanon—the Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites. <strong><sup>2</sup></strong>They formed an alliance against Israel. <strong>The Gibeonites Deceive Israel</strong></span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> The kings heard about it in the hill country and the western foothills along the Mediterranean Sea up to Lebanon—the Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites. <strong><sup>2</sup></strong>They formed an alliance against Israel. 	<strong>The Gibeonites Deceive Israel</strong></span>
 
 <span class="verse" id="v3"><sup class="verse-num">3</sup> But when the people in Gibeon heard what Joshua had done to Jericho and Ai, <strong><sup>4</sup></strong>they resorted to trickery. They made <em>fake </em>preparations: worn-out sacks on their donkeys; worn-out, torn, and mended wineskins; <strong><sup>5</sup></strong>worn-out and patched sandals, and worn-out clothes. Their provisions were dry and moldy. <strong><sup>6</sup></strong>They went to Joshua in the camp at Gilgal, and told him and Israel, <em>“We</em><em>’ve come from a distant country. M</em><em>ake a </em><em>treaty</em><em> with us.”</em></span>
 <p class="section-ref">Josh 9:1-6</p>
@@ -19,6 +19,8 @@ weight: 9
 <span class="verse" id="v7"><sup class="verse-num">7</sup> But the men of Israel said to the Hivites, <em>“</em><em>Maybe you’re living among us. How could</em><em> we make a </em><em>treaty</em><em> with you?”</em><em> </em></span>
 
 <span class="verse" id="v8"><sup class="verse-num">8</sup> They said to Joshua, <em>“We’</em><em>re your servants.”</em><em> </em> <em>“Who are you?</em><em> </em><em>Where do you come from?” </em></span>
+
+<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>“We’ve</em><em> come </em><em>a long way because of Yahveh</em> <em>your God.</em><em> </em><em>We’ve heard what all he did in Egypt, </em><strong><sup>10</sup></strong><em>and</em><em> </em><em>to the </em><em>Amorite kings </em><em>beyond the Jordan—Sihon </em><em>and </em><em>Og</em><em>, who</em><em> lived in Ashtaroth.</em><em> </em><strong><sup>11</sup></strong><em>Our</em><em> elders and the </em><em>people in our country told us to t</em><em>ake provisions for the journey, go meet </em><em>you, and say, ‘We’</em><em>re your servants</em><em>.</em><em> Make a treaty with us.’ </em><strong><sup>12</sup></strong><em>O</em><em>ur</em><em> bread was still warm when we </em><em>took it from our houses </em><em>for the </em><em>trip. N</em><em>ow it’s dry and moldy.</em><em> </em><strong><sup>13</sup></strong><em>These</em><em> wineskins</em><em> were new when we filled them; now they’ve burst. These clothes and shoes are worn out from the trip.” </em></span>
 
 <span class="verse" id="v14"><sup class="verse-num">14</sup> The men took some of their provisions and didn’t ask direction from Yahveh. <strong><sup>15</sup></strong>Joshua made peace with them and let them live. The leaders of the community swore to them.</span>
 <p class="section-ref">Josh 9:7-15</p>
@@ -29,11 +31,8 @@ weight: 9
 
 <span class="verse" id="v24"><sup class="verse-num">24</sup> They answered Joshua, <em>“</em><em>W</em><em>e heard that </em><em>Yahveh</em> <em>your God had commanded Moses to give you the land </em><em>and </em><em>destroy </em><em>its</em><em> p</em><em>eople</em><em>.</em><em> W</em><em>e </em><em>were afraid</em><em> </em><em>we’d be killed </em><strong><sup>25</sup></strong><em>W</em><em>e’re</em><em> </em><em>at your mercy</em><em>.</em><em> </em><em>Do </em><em>to us what </em><em>you</em><em> think’s right</em><em>.”</em><em> </em></span>
 
-<span class="verse" id="v26"><sup class="verse-num">26</sup> That’s what he did and rescued them from the people. <strong><sup>27</sup></strong>He made them cut wood and draw water for the community and Yahveh’s altar where he chose. They still do that.<strong> </strong><strong> </strong><strong></span>
+<span class="verse" id="v26"><sup class="verse-num">26</sup> That’s what he did and rescued them from the people. <strong><sup>27</sup></strong>He made them cut wood and draw water for the community and Yahveh’s altar where he chose. They still do that.<strong> </strong><strong></span>
 <p class="section-ref">Josh 9:16-27</p>
-
-### The Sun Stands Still
-
 
 
 <style>

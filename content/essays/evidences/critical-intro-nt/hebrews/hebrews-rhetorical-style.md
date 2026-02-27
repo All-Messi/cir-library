@@ -4,7 +4,7 @@ categories:
 - Evidences
 - Critical Intro Nt
 - Hebrews
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: HEBREWS’ RHETORICAL STYLE
 weight: 3

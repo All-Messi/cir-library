@@ -29,9 +29,6 @@ weight: 101
 <span class="verse" id="v8"><sup class="verse-num">8</sup> Each morning I’ll destroy the wicked in the land and rid the city of Yahveh of everyone that sins.</span>
 <p class="section-ref">Ps 101:6-8</p>
 
-### A Prayer by the Oppressed When They’re Faint and Pour Out Their Complaint to Yahveh
-
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

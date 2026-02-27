@@ -17,21 +17,18 @@ weight: 12
 
 <span class="verse" id="v4"><sup class="verse-num">4</sup> Jephthah gathered the men from Gilead and struck Ephraim because they said, <em>“You Gileadites are refugees from Ephraim in</em><em> Ephraim and Manasseh.”</em><em> </em><strong><sup>5</sup></strong>The Gileadites captured the Jordan fords. When a refugee from Ephraim asked to go across, the Gileadites would ask him, <em>“Are you an</em> <em>Ephraimite?”</em> If he said, <em>“No,” </em><strong><sup>6</sup></strong>they’d tell him to say<em> shibboleth.</em><em> </em>He’d say <em>s</em><em>ibboleth</em><em> </em>because he couldn’t pronounce it right; so they’d kill him. At that time, 42,000 Ephraimites fell.</span>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> Jephthah judged Israel 6 years. He died and was buried in his city in Gilead.<strong> </strong><strong></span>
+<span class="verse" id="v7"><sup class="verse-num">7</sup> Jephthah judged Israel 6 years. He died and was buried in his city in Gilead.<strong></span>
 <p class="section-ref">Jud 12:1-7</p>
 
 ### Ibzan Judges Israel
 
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> After him <strong>Ibzan</strong> of Bethlehem judged Israel. <strong><sup>9</sup></strong>He had 30 sons and gave 30 daughters in marriage outside his clan. He brought in 30 daughters from outside for his sons. He judged Israel 7 years. <strong><sup>10</sup></strong>He died and was buried at Bethlehem. <strong>Elon Judges Israel</strong></span>
+<span class="verse" id="v8"><sup class="verse-num">8</sup> After him <strong>Ibzan</strong> of Bethlehem judged Israel. <strong><sup>9</sup></strong>He had 30 sons and gave 30 daughters in marriage outside his clan. He brought in 30 daughters from outside for his sons. He judged Israel 7 years. <strong><sup>10</sup></strong>He died and was buried at Bethlehem. 	<strong>Elon Judges Israel</strong></span>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> After him <strong>Elon</strong> from Zebulun judged Israel for 10 years. <strong><sup>12</sup></strong>He died and was buried at Aijalon in Zebulun. <strong>Abdon Judges Israel</strong></span>
+<span class="verse" id="v11"><sup class="verse-num">11</sup> After him <strong>Elon</strong> from Zebulun judged Israel for 10 years. <strong><sup>12</sup></strong>He died and was buried at Aijalon in Zebulun. 	<strong>Abdon Judges Israel</strong></span>
 
 <span class="verse" id="v13"><sup class="verse-num">13</sup> After him <strong>Abdon</strong> Ben-Hillel from Pirathon judged Israel. <strong><sup>14</sup></strong>He had 40 sons and 30 grandsons that rode on 70 donkeys. He judged Israel 8 years. <strong><sup>15</sup></strong>He died and was buried at Pirathon in Ephraim in the hill country of the Amalekites.</span>
 <p class="section-ref">Jud 12:8-15</p>
-
-### The Samson Cycle
-
 
 
 <style>

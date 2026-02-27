@@ -11,7 +11,10 @@ weight: 45
 
 ## Jeremiah Chapter 45
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> The Message Jeremiah Spoke to Baruch When He’d Written It in a Scroll at Jeremiah’s Dictation in the <strong>Fourth Year of Jehoiakim</strong> <strong>Ben-Josiah, King of Judah</strong> <strong>A Message for Baruch</strong></span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> The Message Jeremiah Spoke to Baruch When He’d Written It in a Scroll at Jeremiah’s Dictation in the <strong>Fourth Year of Jehoiakim</strong> <strong>Ben-Josiah, King of Judah</strong> 	<strong>A Message for Baruch</strong></span>
+
+<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>“This</em><em> is what Yahveh God of Israel says to you, Baruch: </em><strong><sup>3</sup></strong><em>‘You</em><em> said, “Misfortune awaits me! Yahveh has added sorrow to pain. I’m exhausted from groaning. I can’t sleep.”’ </em><strong><sup>4</sup></strong><em>Tell</em><em> him Yahveh says, ‘What I’ve built up I’m about to tear down. What I’ve planted I’m about to uproot—the whole land. </em><strong><sup>5</sup></strong><em>Are</em><em> you </em><em>anticipating great things for yourself? Don’t. I’m going to bring disaster on everybody, but I’ll give you your life as a reward of war wherever you go.’”</em><strong></span>
+<p class="section-ref">Jer 45:1-5</p>
 
 
 <style>

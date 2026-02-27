@@ -5,7 +5,7 @@ categories:
 - Christian Doctrine
 - Holy Spirit Pneumatology
 - Speaking In Languages
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: "D. \tApplying tests to contemporary claims of speaking in languages (“tongues\
   \ speaking”)"

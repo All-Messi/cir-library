@@ -11,6 +11,8 @@ weight: 2
 
 ## Colossians Chapter 2
 
+### :5 	Urging Continued Faithfulness
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> I want you to know how much I am striving for you, for the ones in Laodicea, and for whoever has never met me. 2I urge you to bond together in love and to gain the valuable confidence that comes from knowing and understanding God's revealed mystery: Christ. 3All the hidden treasures of knowledge and wisdom lie in him. 4I say that so nobody will lead you astray with persuasive arguments. 5Though I'm absent in body, I'm present in spirit, happy to see your orderly living and steadfast faith in Christ.</span>
 <p class="section-ref">Col 1:24-2</p>
 

@@ -11,7 +11,10 @@ weight: 45
 
 ## Jeremiah Chapter 45
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> The Message Jeremiah Spoke to Baruch When He’d Written It in a Scroll at Jeremiah’s Dictation in the <strong>Fourth Year of Jehoiakim</strong><strong> Son of Josiah, King of Judah</strong> <strong>A Message for Baruch</strong></span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> The Message Jeremiah Spoke to Baruch When He’d Written It in a Scroll at Jeremiah’s Dictation in the <strong>Fourth Year of Jehoiakim</strong><strong> Son of Josiah, King of Judah</strong> 	<strong>A Message for Baruch</strong></span>
+
+<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>“This</em><em> is what the </em><em>L</em><em>ORD</em><em> God of Israel says to you, Baruch:</em><em> </em><strong><sup>3</sup></strong><em>‘You</em><em> said, “</em><em>Misfortune awaits</em><em> me!</em><em> </em><em>The </em><em>L</em><em>ORD</em><em> has added sorrow to pain.</em><em> </em><em>I’m </em><em>exhausted from</em><em> groaning</em><em>.</em><em> I </em><em>can’t sleep</em><em>.”’</em><em> </em><strong><sup>4</sup></strong><em>Tell</em><em> him the </em><em>L</em><em>ORD</em><em> says, ‘</em><em>What I’</em><em>ve built up I’m about to tear down. W</em><em>hat I’ve planted I’m </em><em>about to uproot—the whole land. </em><strong><sup>5</sup></strong><em>Are</em><em> you </em><em>anticipating</em><em> great things for yourself?</em><em> </em><em>Don’t.</em><em> </em><em>I’m going to bring disaster on </em><em>everybody</em><em>, but I’ll give you </em><em>your life as a reward of war </em><em>where</em><em>ver</em><em> you go.’”</em><strong> </strong></span>
+<p class="section-ref">Jer 45:1-5</p>
 
 
 <style>

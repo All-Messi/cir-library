@@ -37,9 +37,6 @@ weight: 76
 <span class="verse" id="v12"><sup class="verse-num">12</sup> He breaks the pride of princes; kings on earth respect him.</span>
 <p class="section-ref">Ps 76:8-12</p>
 
-### Set to Jeduthun
-
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

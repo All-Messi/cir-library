@@ -45,7 +45,7 @@ weight: 9
 
 <span class="verse" id="v27"><sup class="verse-num">27</sup> He-answered them, <em>“I-told you already and you-did┘not└listen.</em><em> </em><em>Why </em><em>do-you-want</em><em> </em><em>to-hear</em><em> (it) again?</em><em> </em><em>You-do┘not</em><em><sup>┘┘</sup></em><em>└want </em><em>to-</em><em>become</em><em> his</em><em> disciples, </em><em><sup>└└</sup></em><em>do-you? </em></span>
 
-<span class="verse" id="v28"><strong><sup>8</sup></strong>And they-insulted him and said, <em>“You are (a) disciple</em><em> of that-One; but we are disciples of-Moses.</em><em> </em><strong><sup>29</sup></strong><em>We know that [the] God spoke to-Moses, but we-do</em><em>┘not└</em><em>know this-One whence he-is.”</em><em> </em></span>
+<span class="verse" id="v28"><sup class="verse-num">28</sup> And they-insulted him and said, <em>“You are (a) disciple</em><em> of that-One; but we are disciples of-Moses.</em><em> </em><strong><sup>29</sup></strong><em>We know that [the] God spoke to-Moses, but we-do</em><em>┘not└</em><em>know this-One whence he-is.”</em><em> </em></span>
 
 <span class="verse" id="v30"><sup class="verse-num">30</sup> The man answered and said, <em>“For in this is the marvelous-thing:</em><em> </em><em>that you do┘not└know whence he-is, and he-opened the eyes of-me.</em><em> </em><strong><sup>31</sup></strong><em>We-know that [the] God does┘hear└hear sinners, but if anybody is God-fearing and does the will of-him, he-hears him.</em><em> </em><strong><sup>32</sup></strong><em>From [the] eternity it-was┘not└heard that anybody opened eyes of-(a) ┘born└blind (man).</em><em> </em><strong><sup>33</sup></strong><em>If this-</em><em>One were not from God, he would┘not└</em><em>be-able to-do anything.”</em><em> </em></span>
 
@@ -53,13 +53,17 @@ weight: 9
 
 <span class="verse" id="v35"><sup class="verse-num">35</sup> Jesus heard that they-cast him out; and, having-found him, he-said, <em>“</em><em>Do-you-believe</em><em> in the Son of-[the] </em><em>M</em><em>an?”</em><em> </em></span>
 
-<span class="verse" id="v36"><sup class="verse-num">36</sup> That-one answered and said, <em>“And who is-he, Sir, that I-may-believe in him?”</em><em> </em> <strong><sup>37</sup></strong>[The] Jesus said to-him, <em>“You-have┘both└seen him and that-One is the-One speaking with you.”</em><em> </em></span>
+<span class="verse" id="v36"><sup class="verse-num">36</sup> That-one answered and said, <em>“And who is-he, Sir, that I-may-believe in him?”</em><em> </em></span>
+
+<span class="verse" id="v37"><sup class="verse-num">37</sup> [The] Jesus said to-him, <em>“You-have┘both└seen him and that-One is the-One speaking with you.”</em><em> </em></span>
 
 <span class="verse" id="v38"><sup class="verse-num">38</sup> And the/he said, <em>“I-believe, L</em><em>ord”</em>; and he-worshiped him.</span>
 
 <span class="verse" id="v39"><sup class="verse-num">39</sup> And [the] Jesus said, <em>“For judgment I came into [the] world, in-order-that the-ones not seeing might-see and the ones seeing might-become-blind.”</em></span>
 
-<span class="verse" id="v40"><sup class="verse-num">40</sup> The-ones being with him from the Pharisees overheard (it), and said to-him, <em>“We are┘not</em><em><sup>┘┘</sup></em><em>└blind too, </em><em><sup>└└</sup></em><em>are we?”</em><em> </em> <strong><sup>41</sup></strong>[The] Jesus said to-them, <em>“If you-were blind, you would</em><em><sup>2</sup></em><em>┘not└ ha</em><em>ve sin; but now you-say [that] ‘We-see’</em><em>; the-sin of-you </em><em>remains</em><em>.</em><em>”</em></span>
+<span class="verse" id="v40"><sup class="verse-num">40</sup> The-ones being with him from the Pharisees overheard (it), and said to-him, <em>“We are┘not</em><em><sup>┘┘</sup></em><em>└blind too, </em><em><sup>└└</sup></em><em>are we?”</em><em> </em></span>
+
+<span class="verse" id="v41"><sup class="verse-num">41</sup> [The] Jesus said to-them, <em>“If you-were blind, you would</em><em><sup>2</sup></em><em>┘not└ ha</em><em>ve sin; but now you-say [that] ‘We-see’</em><em>; the-sin of-you </em><em>remains</em><em>.</em><em>”</em></span>
 
 
 <style>

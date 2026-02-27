@@ -2,7 +2,7 @@
 author: Virgil Warren, Ph.D.
 categories:
 - Bible Resources
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: FORMATS FOR SCRIPTURE REFERENCES
 weight: 1

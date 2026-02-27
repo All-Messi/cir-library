@@ -3,7 +3,7 @@ book: John
 chapters: 21
 title: John
 translation: WNT
-type: scripture
+type: book
 weight: 43
 ---
 

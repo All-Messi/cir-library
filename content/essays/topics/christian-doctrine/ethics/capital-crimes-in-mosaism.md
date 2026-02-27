@@ -4,7 +4,7 @@ categories:
 - Topics
 - Christian Doctrine
 - Ethics
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: CAPITAL CRIMES IN MOSAISM
 weight: 3

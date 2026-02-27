@@ -18,11 +18,8 @@ weight: 1
 <span class="verse" id="v22"><sup class="verse-num">22</sup> A bright expanse glowed like crystal above them. <strong><sup>23</sup></strong>Under it their wings stretched out toward one another, and two wings covered the sides of their bodies. <strong><sup>24</sup></strong>Their wings sounded like rushing water, like the Almighty, like war, like an army camp. When they stood still, they lowered their wings, <strong><sup>25</sup></strong>and a voice spoke from the expanse above them.</span>
 <p class="section-ref">Ezek 1:15-25</p>
 
-<span class="verse" id="v26"><sup class="verse-num">26</sup> High above the expanse was a throne the color of lapis lazuli; the One sitting on it resembled a man. <strong><sup>27</sup></strong>From the waist up, he glowed like metal on fire; from the waist down, he resembled fire. The radiance around him was <strong><sup>28</sup></strong>like a rainbow on a rainy day. This scene looked like the glory of Yahveh. When I saw it, I fell on my face and heard a voice,<strong> </strong><strong></span>
+<span class="verse" id="v26"><sup class="verse-num">26</sup> High above the expanse was a throne the color of lapis lazuli; the One sitting on it resembled a man. <strong><sup>27</sup></strong>From the waist up, he glowed like metal on fire; from the waist down, he resembled fire. The radiance around him was <strong><sup>28</sup></strong>like a rainbow on a rainy day. This scene looked like the glory of Yahveh. When I saw it, I fell on my face and heard a voice,<strong></span>
 <p class="section-ref">Ezek 1:26-28</p>
-
-### Ezekiel’s Call
-
 
 
 <style>

@@ -4,7 +4,7 @@ categories:
 - Topics
 - Christian Doctrine
 - Providence
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: THINKING ABOUT GOD’S WILL
 weight: 3

@@ -11,7 +11,11 @@ weight: 17
 
 ## Numbers Chapter 17
 
+### Aaron’s Rod That Budded
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> The LORD said to Moses,</span>
+
+<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>“Tell the Israel</em><em>ites</em><em> to get a rod </em><em>from each family leader</em><em>.</em><em> </em><em>Write eac</em><em>h man’s name on his rod</em><em> </em><strong><sup>3</sup></strong><em>and w</em><em>rite Aaron’s name on Levi’s rod.</em><em> </em><strong><sup>4</sup></strong><em>Then </em><em>put</em><em> them in the </em><em>Tent of Meeting in front of the T</em><em>estimony where I meet you.</em><em> </em><strong><em><sup> </sup></em></strong><strong><sup>5</sup></strong><em>The rod of the man I choose will sprout.</em><em> </em><em>I’ll </em><em>stifle</em><em> the </em><em>criticism</em><em> of </em><em>your critics.</em></span>
 
 <span class="verse" id="v6"><sup class="verse-num">6</sup> Moses told the Israelites to give him a rod for each family leader (12 rods) with Aaron’s rod among them. <strong><sup>7</sup></strong>Moses put the rods in front of the LORD in the Tent of Testimony.</span>
 <p class="section-ref">Num 17:1-7</p>
@@ -20,7 +24,8 @@ weight: 17
 
 <span class="verse" id="v11"><sup class="verse-num">11</sup> Moses did that.</span>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> The Israelites said to Moses, “<em>We’re perishing! We’re all dying! </em><strong><sup>13</sup></strong><em>Ever</em><em>ybody that go</em><em>es near the</em><em> Tabernacle</em><em> die</em><em>s</em><em>.</em><em> </em><em>Are we </em><em>all </em><em>going to perish?”</em><em>   </em><em>	</em><strong>Num 17:8-13</strong> <strong>Duties of Priests and Levites</strong></span>
+<span class="verse" id="v12"><sup class="verse-num">12</sup> The Israelites said to Moses, “<em>We’re perishing! We’re all dying! </em><strong><sup>13</sup></strong><em>Ever</em><em>ybody that go</em><em>es near the</em><em> Tabernacle</em><em> die</em><em>s</em><em>.</em><em> </em><em>Are we </em><em>all </em><em>going to perish?”</em><em></span>
+<p class="section-ref">Num 17:8-13</p>
 
 
 <style>

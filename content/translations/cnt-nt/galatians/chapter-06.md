@@ -16,15 +16,12 @@ weight: 6
 ### Closing Encouragements
 
 
-<span class="verse" id="v11"><strong><sup>1</sup></strong>See what big letters I’ve written with my own hand. <strong><sup>12</sup></strong>Those who want to make a good impression in the flesh are trying to get you circumcised so they won’t suffer persecution for the cross of Christ<sup>Messiah</sup>. <strong><sup>13</sup></strong>They don’t keep the Law themselves; they just want to get you circumcised so they can take pride in you physically. <strong><sup>14</sup></strong>But I’m not going to take pride in anything but the cross of our Lord Jesus Christ. Through him the world’s crucified to me and me to it. <strong><sup>15</sup></strong>Neither circumcision nor uncircumcision has anything to do with it; <em>what matters is </em>a new system<em> God </em><em>has </em>created <em>in Christ. </em><strong><sup>16</sup></strong>Peace and mercy to as many as live by that principle—to God’s ‘Israel.’</span>
+<span class="verse" id="v11"><sup class="verse-num">11</sup> See what big letters I’ve written with my own hand. <strong><sup>12</sup></strong>Those who want to make a good impression in the flesh are trying to get you circumcised so they won’t suffer persecution for the cross of Christ<sup>Messiah</sup>. <strong><sup>13</sup></strong>They don’t keep the Law themselves; they just want to get you circumcised so they can take pride in you physically. <strong><sup>14</sup></strong>But I’m not going to take pride in anything but the cross of our Lord Jesus Christ. Through him the world’s crucified to me and me to it. <strong><sup>15</sup></strong>Neither circumcision nor uncircumcision has anything to do with it; <em>what matters is </em>a new system<em> God </em><em>has </em>created <em>in Christ. </em><strong><sup>16</sup></strong>Peace and mercy to as many as live by that principle—to God’s ‘Israel.’</span>
 
-<span class="verse" id="v17"><strong><sup>7</sup></strong>From now on, don’t create problems for me. I <em>already </em>have on my body the branding marks of the Lord Jesus.</span>
+<span class="verse" id="v17"><sup class="verse-num">17</sup> From now on, don’t create problems for me. I <em>already </em>have on my body the branding marks of the Lord Jesus.</span>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> The grace of our Lord Jesus Christ <em>be</em> with your spirit. Amen.<strong>          </strong><strong></span>
+<span class="verse" id="v18"><sup class="verse-num">18</sup> The grace of our Lord Jesus Christ <em>be</em> with your spirit. Amen.<strong></span>
 <p class="section-ref">Gal 6:11-18</p>
-
-### Translator: Virgil Warren     								      christir.org
-
 
 
 <style>

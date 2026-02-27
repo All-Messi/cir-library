@@ -11,18 +11,19 @@ weight: 11
 
 ## Exodus Chapter 11
 
+### Plague on the Firstborn
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> The LORD told Moses, <em>“I’</em><em>m going to bring</em><em> one more plague on Pharaoh and Egypt.</em><em> </em><em>After that</em><em>,</em><em> he’ll let you go.</em><em> </em><em>When he </em><em>does</em><em>, he’ll drive you out completely.</em><em> </em><strong><sup>2</sup></strong><em>Tell each man and woman to ask their </em><em>neighbor</em><em>s</em><em> for </em><em>silver and gold articles.”</em><strong><sup> </sup></strong></span>
 
 <span class="verse" id="v3"><sup class="verse-num">3</sup> The LORD gave the Egyptians a favorable attitude toward the people. Furthermore, Pharaoh’s officers and the people in general respected Moses a lot.</span>
-<p class="section-ref">Ex 11:1-</p>
+<p class="section-ref">Ex 11:1-3</p>
 
 <span class="verse" id="v4"><sup class="verse-num">4</sup> Moses said, <em>“T</em><em>he </em><em>L</em><em>ORD</em><em> says, ‘About midnight I’ll go</em><em> out</em><em> into Egypt, </em><strong><sup>5</sup></strong><em>and all </em><strong><em>firstborn will die</em></strong><em>—</em><em>the firstborn of </em><em>Phar</em><em>aoh on his throne, the firstborn</em><em> of the sl</em><em>ave girl behind the millstones, the firstborn among</em><em> the </em><em>livestock</em>. <strong><sup>6</sup></strong><em>There’ll be such an outcry everywhere in Egypt as has never been heard </em><em>or will be.</em><em> </em><strong><sup>7</sup></strong><em>But </em><em>among the Israelites, not </em><em>even a </em><em>dog will bark at </em><em>people</em><em> or animals. Y</em><em>ou’ll</em><em><sup>sg</sup></em><em> </em><em>see</em><em> how the </em><em>L</em><em>ORD</em><em> distinguishes Israel </em><em>from</em><em> Egypt.</em><em> </em> <strong><sup>8</sup></strong><em>‘Your</em><em><sup>sg</sup></em><em> official</em><em>s will come and bow </em><em>to </em><em>me and say, </em><em>“Leave</em><em>, you and </em><em>your people.” Then</em><em> I’ll </em><em>leave</em><em>.</em><em>’</em><em>”</em><em> </em> He left Pharaoh really mad.</span>
 
+<span class="verse" id="v8"><sup class="verse-num">8</sup> 'Yoursg officials will come and bow to me and say, "Leave, you and your people." Then I'll leave.'" He left Pharaoh really mad.</span>
+
 <span class="verse" id="v9"><sup class="verse-num">9</sup> The LORD told Moses, <em>“Pharaoh won’t</em><em> listen;</em><em> so </em><em>I’ll multiply </em><em>my wonders in Egypt.”</em> <strong><sup>10</sup></strong>Moses and Aaron performed those wonders for him, but the LORD hardened his heart, and he wouldn’t let the people go.</span>
 <p class="section-ref">Ex 11:4-10</p>
-
-### The Passover Instituted
-
 
 
 <style>

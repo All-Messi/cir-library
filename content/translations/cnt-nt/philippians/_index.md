@@ -3,7 +3,7 @@ book: Philippians
 chapters: 4
 title: Philippians
 translation: CNT
-type: scripture
+type: book
 weight: 50
 ---
 

@@ -4,7 +4,7 @@ categories:
 - Topics
 - Interpersonalism
 - Impact On Topics
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: LAW AND GOSPEL IN CONTRAST (IP)
 weight: 3

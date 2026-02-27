@@ -25,13 +25,19 @@ weight: 24
 
 <span class="verse" id="v7"><sup class="verse-num">7</sup> <em>They</em><em> spend the night without enough clothes</em> <em>to protect them against the cold.</em></span>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>They’re</em><em> soaked from mountain rain</em> <em>and huddle in the rocks for lack of shelter.</em><em>	</em><strong>Job 24:1-8</strong></span>
+<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>They’re</em><em> soaked from mountain rain</em> <em>and huddle in the rocks for lack of shelter.</span>
+<p class="section-ref">Job 24:1-8</p>
+
+<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>“Others</em><em> snatch the fatherless from the breast</em> <em>and take pledges against the poor.</em></span>
 
 <span class="verse" id="v10"><sup class="verse-num">10</sup> <em>They</em><em> make the naked go without clothes</em> <em>and take away sheaves from the hungry.</em></span>
 
 <span class="verse" id="v11"><sup class="verse-num">11</sup> <em>They</em><em> press out oil between the olive rows</em> <em>and tread winepresses </em>for others<em>, yet</em><em> suffer thirst.</em></span>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> <em>From</em><em> the city, the people groan,</em> <em>the wounded cry out for help,</em> <em>but God ignores their prayers.</em><strong>	</strong><strong>Job 24:9-12</strong></span>
+<span class="verse" id="v12"><sup class="verse-num">12</sup> <em>From</em><em> the city, the people groan,</em> <em>the wounded cry out for help,</em> <em>but God ignores their prayers.</span>
+<p class="section-ref">Job 24:9-12</p>
+
+<span class="verse" id="v13"><sup class="verse-num">13</sup> <em>“Others</em><em> rebel against the </em><em>light;</em> <em>they refuse to know </em><em>its ways</em><em> or stay on them.</em></span>
 
 <span class="verse" id="v14"><sup class="verse-num">14</sup> <em>A</em><em> murderer gets up at dawn</em> <em>to kill the poor and </em><em>needy;</em> <em>at night he’s a thief.</em></span>
 
@@ -39,7 +45,10 @@ weight: 24
 
 <span class="verse" id="v16"><sup class="verse-num">16</sup> <em>In</em><em> the dark they break into houses</em> <em>and sleep in the </em><em>daytime;</em> <em>they’re not accustomed to light.</em></span>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> <em>Morning</em><em> is the same </em><em>to</em><em> them as dense </em><em>darkness;</em><em> </em> <em>they’re allies with the terrors of deep gloom.</em><em>	</em><strong>Job 24:13-17</strong></span>
+<span class="verse" id="v17"><sup class="verse-num">17</sup> <em>Morning</em><em> is the same </em><em>to</em><em> them as dense </em><em>darkness;</em><em> </em> <em>they’re allies with the terrors of deep gloom.</span>
+<p class="section-ref">Job 24:13-17</p>
+
+<span class="verse" id="v18"><sup class="verse-num">18</sup> <em>“But</em><em> they’re swiftly carried away like foam on a </em><em>creek;</em> <em>their land is </em><em>cursed;</em> <em>they’re afraid to go into their own vineyards.</em><strong>	</strong></span>
 
 <span class="verse" id="v19"><sup class="verse-num">19</sup> <em>Sheol</em><em> consumes sinners</em> <em>like drought and heat consume snow.</em></span>
 
@@ -53,7 +62,8 @@ weight: 24
 
 <span class="verse" id="v24"><sup class="verse-num">24</sup> <em>They’re</em><em> honored for a little while; then they’re </em><em>gone;</em> <em>they’re brought low and fade away like everything else,</em> <em>cut off like heads of grain.</em></span>
 
-<span class="verse" id="v25"><sup class="verse-num">25</sup> <em>If</em><em> that’s not so, who can prove me wrong</em> <em>and make my speech pointless?”</em><strong>	</strong><strong>Job 24:18-25</strong></span>
+<span class="verse" id="v25"><sup class="verse-num">25</sup> <em>If</em><em> that’s not so, who can prove me wrong</em> <em>and make my speech pointless?”</span>
+<p class="section-ref">Job 24:18-25</p>
 
 
 <style>

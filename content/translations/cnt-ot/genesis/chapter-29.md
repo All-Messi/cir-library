@@ -11,14 +11,22 @@ weight: 29
 
 ## Genesis Chapter 29
 
-<span class="verse" id="v1"><strong><sup>1</sup></strong>Jacob continued on his trip to the country in the east. <strong><sup>2</sup></strong>Up ahead he saw a well in a pasture where they watered the flocks. Three flocks of sheep were lying by it, and it had a big stone over it. <strong><sup>3</sup></strong>When all the flocks got there, they’d roll the stone off the well, water the sheep, and put it back. <strong><sup>4</sup></strong>Jacob asked them, “<em>Brothers, where are you from?”</em> <em>	“Haran.”</em></span>
+### Jacob Marries Leah and Rachel
 
-<span class="verse" id="v7"><strong><sup>7</sup></strong><em>Jacob</em> said, <em>“</em><em>It’s still </em><em>the middle of the </em><em>day</em><em>, not time to herd the</em><em> livestock.</em><em> </em>Why aren’t you<em> w</em><em>ater</em><em>ing</em><em> the sheep and tak</em><em>ing</em><em> them to pasture</em>?<em>”</em></span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Jacob continued on his trip to the country in the east. <strong><sup>2</sup></strong>Up ahead he saw a well in a pasture where they watered the flocks. Three flocks of sheep were lying by it, and it had a big stone over it. <strong><sup>3</sup></strong>When all the flocks got there, they’d roll the stone off the well, water the sheep, and put it back. <strong><sup>4</sup></strong>Jacob asked them, “<em>Brothers, where are you from?”</em> <em>	“Haran.”</em></span>
+
+<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>“Do you know Laban</em><em> son of Nahor.”</em> <em>“Yes.”</em></span>
+
+<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>“</em><em>How is he</em><em>?”</em> <em>“He’s </em><em>good. T</em><em>hat’s his daughter Rachel coming with the sheep.”</em></span>
+
+<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>Jacob</em> said, <em>“</em><em>It’s still </em><em>the middle of the </em><em>day</em><em>, not time to herd the</em><em> livestock.</em><em> </em>Why aren’t you<em> w</em><em>ater</em><em>ing</em><em> the sheep and tak</em><em>ing</em><em> them to pasture</em>?<em>”</em></span>
+
+<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>“We can’t </em><em>water them till</em><em> all the flocks g</em><em>et here,</em><em> and they roll the stone </em><em>off the well</em><em>.”</em></span>
 
 <span class="verse" id="v9"><sup class="verse-num">9</sup> While he was still talking to them, Rachel came with her father’s sheep. <strong><sup>10</sup></strong>When Jacob saw her and Laban’s sheep, he went and rolled the stone off the well and watered Laban’s flock. <strong><sup>11</sup></strong>He kissed Rachel and cried out loud. <strong><sup>12</sup></strong>He told her he was Rebekah’s son, a relative of her father. She ran to tell her father.</span>
 <p class="section-ref">Gen 29:1-12</p>
 
-<span class="verse" id="v13"><strong><sup>3</sup></strong>When Laban heard it, he rushed to meet Jacob, hugged him, kissed him, and took him to his house. Jacob told him what all had happened. <strong><sup>14</sup></strong>Laban said, <em>“For sure, you’re my flesh and bone.”</em> Jacob stayed with him a month.</span>
+<span class="verse" id="v13"><sup class="verse-num">13</sup> When Laban heard it, he rushed to meet Jacob, hugged him, kissed him, and took him to his house. Jacob told him what all had happened. <strong><sup>14</sup></strong>Laban said, <em>“For sure, you’re my flesh and bone.”</em> Jacob stayed with him a month.</span>
 
 <span class="verse" id="v15"><sup class="verse-num">15</sup> Laban said, <em>“Because you’re my relative</em><em> doesn’t mean</em><em> you</em><em> have to</em><em> work f</em><em>or nothing. </em><em>What </em><em>do you want for pay</em><em>?”</em><em> </em></span>
 
@@ -27,7 +35,7 @@ weight: 29
 <span class="verse" id="v19"><sup class="verse-num">19</sup> Laban said, <em>“It’s better to give her to you than to </em><em>anybody else</em><em>.</em><em> </em><em>Stay on with me.”</em><em> </em><strong><sup>20</sup></strong>Jacob worked seven years for Rachel, but they seemed like just a few days because he loved her so much.</span>
 <p class="section-ref">Gen 29:13-20</p>
 
-<span class="verse" id="v21"><strong><sup>1</sup></strong>Then Jacob told Laban, <em>“Give me my wife so I can </em><em>sleep with </em><em>her</em><em>.</em><em> I’ve completed my time.”</em><em> </em><strong><sup>22</sup></strong>Laban gathered the men in the place and made a feast. <strong><sup>23</sup></strong>In the evening he brought <u>Leah</u> to him, and Jacob slept with her. <strong><sup>24</sup></strong>Laban also gave his maid Zilpah to Leah as a servant. <strong><sup>25</sup></strong>In the morning, it was Leah! Jacob said to Laban, <em>“What’ve you done to me?</em><em> </em><em>Didn’t I work for you for Rachel?</em><em> </em><em>Why have you deceived me?”</em><em> </em></span>
+<span class="verse" id="v21"><sup class="verse-num">21</sup> Then Jacob told Laban, <em>“Give me my wife so I can </em><em>sleep with </em><em>her</em><em>.</em><em> I’ve completed my time.”</em><em> </em><strong><sup>22</sup></strong>Laban gathered the men in the place and made a feast. <strong><sup>23</sup></strong>In the evening he brought <u>Leah</u> to him, and Jacob slept with her. <strong><sup>24</sup></strong>Laban also gave his maid Zilpah to Leah as a servant. <strong><sup>25</sup></strong>In the morning, it was Leah! Jacob said to Laban, <em>“What’ve you done to me?</em><em> </em><em>Didn’t I work for you for Rachel?</em><em> </em><em>Why have you deceived me?”</em><em> </em></span>
 
 <span class="verse" id="v26"><sup class="verse-num">26</sup> But Laban said, <em>“It’s not the custom here to marry o</em><em>ff the younger before the firstborn. </em><strong><sup>27</sup></strong><em>Complete the bridal week for this one, and we’ll give you the other one too</em><em> for another seven</em><em> years’ work.”</em></span>
 

@@ -4,7 +4,7 @@ categories:
 - Ministry
 - Sermons
 - Sunrise
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: SURPRISED AT SUNRISE
 weight: 3

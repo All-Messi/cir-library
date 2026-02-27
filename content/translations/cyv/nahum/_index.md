@@ -3,7 +3,7 @@ book: Nahum
 chapters: 3
 title: Nahum
 translation: CYV
-type: scripture
+type: book
 weight: 34
 ---
 

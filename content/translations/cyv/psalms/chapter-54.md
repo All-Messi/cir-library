@@ -11,6 +11,8 @@ weight: 54
 
 ## Psalms Chapter 54
 
+### When the Ziphites Came and Told Saul, “Isn’t David hiding among us?” On Stringed Instruments
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Deliver me, God, by your name; vindicate me by your power.</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> Listen to my prayer; hear what I have to say.</span>
@@ -25,9 +27,6 @@ weight: 54
 
 <span class="verse" id="v7"><sup class="verse-num">7</sup> He’s delivered me from all my trouble so I could triumph over my enemies.</span>
 <p class="section-ref">Ps 54:1-7</p>
-
-### On Stringed Instruments
-
 
 
 <style>

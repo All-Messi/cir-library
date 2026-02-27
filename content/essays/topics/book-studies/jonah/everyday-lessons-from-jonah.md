@@ -4,7 +4,7 @@ categories:
 - Topics
 - Book Studies
 - Jonah
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: EVERYDAY LESSONS FROM JONAH
 weight: 3

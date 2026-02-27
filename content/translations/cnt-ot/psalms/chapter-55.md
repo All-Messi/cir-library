@@ -11,6 +11,8 @@ weight: 55
 
 ## Psalms Chapter 55
 
+### On Stringed Instruments
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Hear my prayer, God; don’t ignore my plea.</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> Listen and answer; trouble has overwhelmed me; I’m distracted</span>
@@ -62,9 +64,6 @@ weight: 55
 
 <span class="verse" id="v23"><sup class="verse-num">23</sup> You, God, will bring the wicked down to the deepest pit; bloodthirsty, devious people won’t live half their time, but I’ll trust in you.</span>
 <p class="section-ref">Ps 55:21-23</p>
-
-### When the Philistines Seized Him in Gath Set to The Pigeon in Far-Off Terebinths
-
 
 
 <style>

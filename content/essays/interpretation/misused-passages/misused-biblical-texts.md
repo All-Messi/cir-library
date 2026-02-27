@@ -3,7 +3,7 @@ author: Virgil Warren, PhD
 categories:
 - Interpretation
 - Misused Passages
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: MISUSED BIBLICAL TEXTS
 weight: 2

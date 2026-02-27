@@ -18,9 +18,17 @@ weight: 22
 
 <span class="verse" id="v10"><sup class="verse-num">10</sup> And he-says to-me, <em>“</em><em>Do┘not└seal-up</em><em> the words of-the prophecy of-[the] this book, for the time is near.  </em><strong><em><sup>11</sup></em></strong><em>Let┘the</em><em> </em><em>filthy-one└be-filthy</em><em> </em><em>still, and</em><em> </em><em>let┘the</em><em> </em><em>righteous-one└do</em><em> righteousness still, and </em><em>let┘the</em><em> holy </em><em>one└be-holy</em><em> still.</em></span>
 
-<span class="verse" id="v20"><strong><sup>0</sup></strong>The-one testifying these-things says, <em>“Yes; I-am-coming quickly/soon.”  Amen.  Come, Lord Jesus.</em><em>”</em></span>
+<span class="verse" id="v12"><sup class="verse-num">12</sup> <em>“Behold</em><em>, </em><em>I-am-coming</em><em> soon and</em><em> the reward of-me (is) with me to-give to-each as the work of-him is.  </em><strong><sup>13</sup></strong><em>I</em><em> (am) the Alpha and the Omega, the first and the last, the beginning and the end.</em></span>
 
-<span class="verse" id="v21"><strong><sup>1</sup></strong>The grace of-the Lord Jesus (be) with all. Virgil Warren, PhD translator christir.org</span>
+<span class="verse" id="v14"><sup class="verse-num">14</sup> <em>“</em><em>Blessed</em><em> (are) the-ones washing the robes/clothes of-them, in-order-that the right of-them will-be to the tree of-[the] </em><em>life and by the gates </em><em>they-may-enter into</em><em> the city.  </em><strong><sup>15</sup></strong><em>Outside</em><em> (will be) [the] dogs and [the] sorcerers and [the] </em><em>sexually-immoral</em><em> and [the] murderers and [the] idolaters and the-ones living and doing/making (a) lie.</em></span>
+
+<span class="verse" id="v16"><sup class="verse-num">16</sup> <em>“I</em><em> Jesus sent the angel of-me to-testify to-you these-things to-the churches.  I am the root and descendant of-David, the bright [the] morning [the] Star.”  </em><strong><sup>17</sup></strong><em>And</em><em> the Spirit and the bride say, ‘Come’; and </em><em>let┘the-one</em><em> </em><em>hearing└say</em><em>, ‘Come’; and </em><em>let┘the-one</em><em> </em><em>thirsting└come</em><em>; </em><em>let┘the-one</em><em> </em><em>desiring└receive</em><em> (the) water of-life freely.</em></span>
+
+<span class="verse" id="v18"><sup class="verse-num">18</sup> <em>“I</em><em> testify to-every</em><em>one</em><em> the-one hearing the words of-the prophecy of-[the] this book:  if anybody adds to them, [the] God will-add to him the plagues the-ones written in [the] this book.  </em><strong><sup>19</sup></strong><em>And</em><em> if anybody takes-away from the words of-the book of-[the] this prophecy, [the] God will-take-away the part of-him from the tree of-[the] life and from the Holy [the] City the-ones written in [the] this book.</em></span>
+
+<span class="verse" id="v20"><sup class="verse-num">20</sup> The-one testifying these-things says, <em>“Yes; I-am-coming quickly/soon.”  Amen.  Come, Lord Jesus.</em><em>”</em></span>
+
+<span class="verse" id="v21"><sup class="verse-num">21</sup> The grace of-the Lord Jesus (be) with all. Virgil Warren, PhD translator christir.org</span>
 
 
 <style>

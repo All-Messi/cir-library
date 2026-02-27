@@ -4,7 +4,7 @@ categories:
 - Topics
 - Christian Doctrine
 - Church Ecclesiology
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: ADDED NOTATIONS ON APOSTLES TODAY
 weight: 3

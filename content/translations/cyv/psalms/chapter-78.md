@@ -11,6 +11,8 @@ weight: 78
 
 ## Psalms Chapter 78
 
+### Maskil of Asaph
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Listen to my instruction, my people; pay attention to what I’m saying.</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> I’ll tell a parable and offer hidden truths from our history,</span>

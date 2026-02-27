@@ -3,7 +3,7 @@ book: Hebrews
 chapters: 13
 title: Hebrews
 translation: CNT
-type: scripture
+type: book
 weight: 58
 ---
 

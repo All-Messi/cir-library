@@ -13,11 +13,14 @@ weight: 2
 
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Jonah prayed to the LORD his God from the fish’s stomach,</span>
 
-<span class="verse" id="v3"><strong><sup>3</sup></strong><em>You</em><em> </em><em>threw</em><em> me into the deep, </em> <em>	</em><em>	</em><em>i</em><em>nto </em><em>the heart of the </em><em>sea;</em> <em>	the current swirled over </em><em>me;</em> <em>your </em><em>waves and breakers overwhelmed me</em><em>.</em></span>
+<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>“</em><em>I</em><em> called to </em><em>you in</em><em> my distress,</em> <em>	</em><em>	</em><em>a</em><em>n</em><em>d you</em><em> answered </em><em>me</em><em>;</em> <em>	I cried out for help from the </em><em>belly of Sheol,</em> <em>	</em><em>	</em><em>and </em><em>you heard me.</em></span>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> <em>So</em><em> I said, ‘I’ve been driven away from you,</em> <em>	but I’ll still look toward your holy Temple.’</em>  	<strong>Jo</strong><strong>n </strong><strong>1:17-</strong><strong>2:</strong><strong>4</strong></span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> <em>You</em><em> </em><em>threw</em><em> me into the deep, </em> <em>	</em><em>	</em><em>i</em><em>nto </em><em>the heart of the </em><em>sea;</em> <em>	the current swirled over </em><em>me;</em> <em>your </em><em>waves and breakers overwhelmed me</em><em>.</em></span>
 
-<span class="verse" id="v5"><strong><sup>	</sup></strong><strong><sup>5</sup></strong><em>Water</em><em> closed in over </em><em>me;</em><em> </em> <em>	the great deep surrounded </em><em>me;</em> <em>	seaweed wrapped around my head.</em></span>
+<span class="verse" id="v4"><sup class="verse-num">4</sup> <em>So</em><em> I said, ‘I’ve been driven away from you,</em> <em>	but I’ll still look toward your holy Temple.’</em></span>
+<p class="section-ref">Jon 1:17-2</p>
+
+<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>Water</em><em> closed in over </em><em>me;</em><em> </em> <em>	the great deep surrounded </em><em>me;</em> <em>	seaweed wrapped around my head.</em></span>
 
 <span class="verse" id="v6"><sup class="verse-num">6</sup> <em>I</em><em> sank down to the base of the </em><em>mountains;</em> <em>	the earth imprisoned me forever, </em> <em>	but you brought me up from the Pit,</em> <em>	</em><em>L</em><em>ORD</em><em> my God.</em></span>
 
@@ -25,13 +28,10 @@ weight: 2
 
 <span class="verse" id="v8"><sup class="verse-num">8</sup> <em>Those</em><em> who pay respects to pointless idols</em> <em>	forfeit </em>your<em> faithfulness,</em></span>
 
-<span class="verse" id="v9"><strong><sup>9</sup></strong><em>but</em><em> I’ll sacrifice to you with thanksgiving.</em> <em>I’ll do</em><em> </em><em>what I’ve </em><em>vowed;</em> <em>	salvation comes from you.’”</em></span>
+<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>but</em><em> I’ll sacrifice to you with thanksgiving.</em> <em>I’ll do</em><em> </em><em>what I’ve </em><em>vowed;</em> <em>	salvation comes from you.’”</em></span>
 
 <span class="verse" id="v10"><sup class="verse-num">10</sup> Then the LORD had the fish cough Jonah up onto the shore.</span>
 <p class="section-ref">Jon 2:5-10</p>
-
-### Jonah Preaches at Nineveh
-
 
 
 <style>

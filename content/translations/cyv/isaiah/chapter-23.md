@@ -15,7 +15,7 @@ weight: 23
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> Be quiet, you people on the coast, merchants of Sidon; your traders crossed the sea</span>
 
-<span class="verse" id="v3"><strong><sup>	</sup></strong><strong><sup>3</sup></strong>and sailed on many bodies of water. <strong><sup>	</sup></strong>Grain from the Nile, harvest from the Shihor was your revenue; you were the international marketplace.</span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> and sailed on many bodies of water. <strong><sup>	</sup></strong>Grain from the Nile, harvest from the Shihor was your revenue; you were the international marketplace.</span>
 
 <span class="verse" id="v4"><sup class="verse-num">4</sup> But now be disgraced, Sidon, because the fortress by the sea says, <em>“I</em><em>’m childless, without</em><em> young men </em><em>and</em><em> virgins.”</em></span>
 
@@ -34,15 +34,19 @@ weight: 23
 
 <span class="verse" id="v11"><sup class="verse-num">11</sup> Yahveh has stretched out his hand over the sea and shaken the kingdoms; he has commanded to demolish Phoenicia’s fortresses.</span>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> He said, <em>“You won’t </em><em>celebrate</em><em> anymore,</em> <em>	</em><em>	</em><em>crushed </em><em>virgin of</em><em> </em><em>Sidon</em><em>;</em> <em>	</em><em>even if you escape</em><em> to Cypr</em><em>u</em><em>s</em><em>,</em><em> </em> <em>	</em><em>	you won’t find rest.”</em><strong>	</strong><strong>	</strong><strong>Is 23:8-12</strong></span>
+<span class="verse" id="v12"><sup class="verse-num">12</sup> He said, <em>“You won’t </em><em>celebrate</em><em> anymore,</em> <em>	</em><em>	</em><em>crushed </em><em>virgin of</em><em> </em><em>Sidon</em><em>;</em> <em>	</em><em>even if you escape</em><em> to Cypr</em><em>u</em><em>s</em><em>,</em><em> </em> <em>	</em><em>	you won’t find rest.”</span>
+<p class="section-ref">Is 23:8-12</p>
 
 <span class="verse" id="v13"><sup class="verse-num">13</sup> Look at the land of the Babylonians; it’s gone. The Assyrians delivered it to the desert animals; they erected siege ramps, stripped its palaces, and reduced it to ruins.</span>
 
-<span class="verse" id="v14"><strong><sup>4</sup></strong>Wail, ships of Tarshish; the harbor you sailed to has been destroyed.</span>
+<span class="verse" id="v14"><sup class="verse-num">14</sup> Wail, ships of Tarshish; the harbor you sailed to has been destroyed.</span>
 
 <span class="verse" id="v15"><sup class="verse-num">15</sup> Tyre will pass from memory for 70 years, the lifetime of one king. Then it will come back to life like the woman in “The Song of the Prostitute”:</span>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> After 70 years Yahveh will revisit Tyre. It’ll go back to playing the prostitute with kingdoms everywhere. <strong><sup>18</sup></strong>In the end, her pay won’t be saved up or hoarded; it will be set aside to feed and dress the Yahveh’s priests.<strong>	        </strong><strong>Is 23:13-18</strong> <strong>Devastation of the Earth</strong></span>
+<span class="verse" id="v16"><sup class="verse-num">16</sup> <em>“T</em><em>ake</em><em> your harp and walk </em><em>the streets</em><em>,</em> <em>	</em><em>	</em><em>	</em><em>forgotten </em><em>prostitute;</em> <em>	</em><em>	pluck the strings skillfully and </em><em>sing </em><em>your</em><em> songs</em> <em>	</em><em>	</em><em>	</em><em>so</em><em> </em><em>they’ll remember you again</em><em>.</em><em>”</em></span>
+
+<span class="verse" id="v17"><sup class="verse-num">17</sup> After 70 years Yahveh will revisit Tyre. It’ll go back to playing the prostitute with kingdoms everywhere. <strong><sup>18</sup></strong>In the end, her pay won’t be saved up or hoarded; it will be set aside to feed and dress the Yahveh’s priests.</span>
+<p class="section-ref">Is 23:13-18</p>
 
 
 <style>

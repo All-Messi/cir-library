@@ -11,17 +11,20 @@ weight: 10
 
 ## Genesis Chapter 10
 
+### The Table of Nations
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> The Generations of <u>Shem</u>, <u>Ham</u>, and <u>Japheth</u>, Noah’s Sons and Their Descendants</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> <u>Japheth</u> was the father of <u>Gomer</u>, Magog, Madai, <u>Javan</u>, Tubal, Meshech, and Tiras.</span>
 
-<span class="verse" id="v3"><strong><sup>3</sup></strong><u>Gomer</u> was the father of Ashkenaz, Riphath, and Togarmah.</span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> <u>Gomer</u> was the father of Ashkenaz, Riphath, and Togarmah.</span>
 
 <span class="verse" id="v4"><sup class="verse-num">4</sup> <u>Javan</u> was the father of Elishah, Tarshish, Kittim, and Dodanim.</span>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> Those descendants spread inland from the coasts into their nations, each by language and clan. <strong><sup>	</sup></strong><strong>Gen 10:1-5</strong></span>
+<span class="verse" id="v5"><sup class="verse-num">5</sup> Those descendants spread inland from the coasts into their nations, each by language and clan.</span>
+<p class="section-ref">Gen 10:1-5</p>
 
-<span class="verse" id="v6"><strong><sup>6</sup></strong><u>Ham</u> was the father of <u>Cush</u>, <u>Mizraim</u>, Put, and <u>Canaan</u>.</span>
+<span class="verse" id="v6"><sup class="verse-num">6</sup> <u>Ham</u> was the father of <u>Cush</u>, <u>Mizraim</u>, Put, and <u>Canaan</u>.</span>
 
 <span class="verse" id="v7"><sup class="verse-num">7</sup> <u>Cush</u> was the father of Seba, Havilah, Sabtah, <u>Raamah</u>, and Sabteca. <u>Raamah</u> was the father of Sheba and Dedan.</span>
 
@@ -47,9 +50,6 @@ weight: 10
 
 <span class="verse" id="v32"><sup class="verse-num">32</sup> Those were the clans of Noah’s descendants by genealogy, language, and nation. Nations spread out from them after the flood.</span>
 <p class="section-ref">Gen 10:21-32</p>
-
-### The Confusion of Languages
-
 
 
 <style>

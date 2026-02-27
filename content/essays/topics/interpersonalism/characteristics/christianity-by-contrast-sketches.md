@@ -4,7 +4,7 @@ categories:
 - Topics
 - Interpersonalism
 - Characteristics
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: 'CHRISTIANITY BY CONTRAST: SKETCHES'
 weight: 3

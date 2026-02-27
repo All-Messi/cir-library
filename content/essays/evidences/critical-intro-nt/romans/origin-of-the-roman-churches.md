@@ -4,7 +4,7 @@ categories:
 - Evidences
 - Critical Intro Nt
 - Romans
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: ORIGIN OF THE ROMAN CHURCH(ES)
 weight: 3

@@ -10,11 +10,11 @@ weight: 1
 
 ## Joel Chapter 1
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> A Message from Yahveh to Joel Ben-Pethuel <strong>Mourning over a Locust Invasion</strong></span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> A Message from Yahveh to Joel Ben-Pethuel 	<strong>Mourning over a Locust Invasion</strong></span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> Listen to this, elders; pay attention, everybody in the land. Has anything like this ever happened in your lifetime or your ancestors’ lifetime?</span>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> Tell your descendants about it; they need to tell <u>their</u> descendants, and so on. <strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong></span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> Tell your descendants about it; they need to tell <u>their</u> descendants, and so on.</span>
 <p class="section-ref">Joel 1:1-3</p>
 
 <span class="verse" id="v4"><sup class="verse-num">4</sup> What the cutting locusts left the swarming locusts have eaten. What the swarming locusts left the hopping locusts have eaten. What the hopping locusts left the stripping locusts have eaten.</span>
@@ -57,9 +57,6 @@ weight: 1
 
 <span class="verse" id="v20"><sup class="verse-num">20</sup> Even the wild animals pant for you because the streams have dried up and fire has scorched the pastures.</span>
 <p class="section-ref">Joel 1:18-20</p>
-
-### The Day of Yahveh
-
 
 
 <style>

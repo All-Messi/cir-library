@@ -39,9 +39,6 @@ weight: 21
 <span class="verse" id="v13"><sup class="verse-num">13</sup> Be honored in your strength, LORD; we’ll sing praises about your power.</span>
 <p class="section-ref">Ps 21:7-13</p>
 
-### Set to The Hind of the Dawn
-
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

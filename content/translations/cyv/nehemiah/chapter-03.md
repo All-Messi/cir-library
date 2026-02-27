@@ -11,6 +11,8 @@ weight: 3
 
 ## Nehemiah Chapter 3
 
+### Rebuilding the Walls
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Then Eliashib the high priest with his relatives the priests built the Sheep Gate. They consecrated it and hung its doors and consecrated the wall to the Tower of a Hundred and the Tower of Hananel.</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> Next to him men from Jericho built, and next to them Zaccur Ben-Imri.</span>
@@ -26,7 +28,7 @@ weight: 3
 
 <span class="verse" id="v7"><sup class="verse-num">7</sup> Next to them Melatiah the Gibeonite and Jadon the Meronothite, men from Gibeon and Mizpah repaired the headquarters of the governor of Beyond the River.</span>
 
-<span class="verse" id="v8"><strong><sup>8</sup></strong>Next to him Uzziel Ben-Harhaiah of the goldsmiths did repairs. Next to him Hananiah, who manufactured perfume, fortified Jerusalem as far as the Broad Wall.</span>
+<span class="verse" id="v8"><sup class="verse-num">8</sup> Next to him Uzziel Ben-Harhaiah of the goldsmiths did repairs. Next to him Hananiah, who manufactured perfume, fortified Jerusalem as far as the Broad Wall.</span>
 
 <span class="verse" id="v9"><sup class="verse-num">9</sup> Next to them Rephaiah Ben-Hur, the official of half the district of Jerusalem, did repairs.</span>
 
@@ -58,7 +60,7 @@ weight: 3
 
 <span class="verse" id="v22"><sup class="verse-num">22</sup> After him the priests, the men of the valley, carried out repairs.</span>
 
-<span class="verse" id="v23"><strong><sup>3</sup></strong>After them Benjamin and Hasshub carried out repairs by their house. After them Azariah Ben-Maaseiah Ben-Ananiah made repairs beside his house.</span>
+<span class="verse" id="v23"><sup class="verse-num">23</sup> After them Benjamin and Hasshub carried out repairs by their house. After them Azariah Ben-Maaseiah Ben-Ananiah made repairs beside his house.</span>
 
 <span class="verse" id="v24"><sup class="verse-num">24</sup> After him Binnui Ben-Henadad repaired the section from Azariah’s house to the Angle and on to the corner.</span>
 
@@ -79,9 +81,6 @@ weight: 3
 
 <span class="verse" id="v32"><sup class="verse-num">32</sup> Between the upper room of the corner and the Sheep Gate, the goldsmiths and merchants did repairs.</span>
 <p class="section-ref">Neh 3:27-32</p>
-
-### Opposition to the Work
-
 
 
 <style>

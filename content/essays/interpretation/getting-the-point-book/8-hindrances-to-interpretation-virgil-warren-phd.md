@@ -3,7 +3,7 @@ author: "8. Hindrances to interpretation \t             Virgil Warren, PhD"
 categories:
 - Interpretation
 - Getting The Point Book
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: "8. Hindrances to interpretation \t             Virgil Warren, PhD"
 weight: 2

@@ -24,16 +24,13 @@ weight: 7
 
 <span class="verse" id="v14"><sup class="verse-num">14</sup> Yahveh told Moses, <em>“Pharaoh is stubborn</em><em> and refuses</em><em> to let the people go.</em><em> </em><strong><sup>15</sup></strong><em>I</em><em>n the morning</em><em>,</em><em> </em><em>go m</em><em>eet him on the bank of the Nile.</em><em> </em><em>Take the staff that turned into a </em><em>snake </em><strong><sup>16</sup></strong><em>and say, ‘Yahveh</em><em> God o</em><em>f the Hebrews sent me, “</em><em>Let my people go </em><em>to serve me in the open country,” b</em><em>ut you</em><em>’ve ignored me</em><em>.</em><em> </em><strong><sup>17</sup></strong><em>This is how </em><em><u>you’ll know I’m </u></em><em><u>Yahveh</u></em><em>: </em><em>I’ll strike the water in t</em><em>he Nile with my staff, and it’ll turn </em><em>to </em><strong><em>blood</em></strong><em>.</em><em> </em><strong><sup>18</sup></strong><em>The</em><em> fish will die, and it’ll </em><em>stink</em><em>.</em><em> </em><em>The Egyptians </em><em>won’t be able to drink it.”</em><em>’”</em><em> </em></span>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> Then Yahveh said to Moses, <em>“Have Aaron hold</em><em> </em><em>his</em><em> staff </em><em>out over the water in Egypt’</em><em>s rivers, canals, </em><em>pools, and reservoirs so it will turn </em><em>to </em><em>blood</em><em>.</em><em> </em><em>There will be blood </em><em>everywhere in</em><em> Egypt,</em><em> even in wood and stone containers.</em><em>” </em><strong></span>
+<span class="verse" id="v19"><sup class="verse-num">19</sup> Then Yahveh said to Moses, <em>“Have Aaron hold</em><em> </em><em>his</em><em> staff </em><em>out over the water in Egypt’</em><em>s rivers, canals, </em><em>pools, and reservoirs so it will turn </em><em>to </em><em>blood</em><em>.</em><em> </em><em>There will be blood </em><em>everywhere in</em><em> Egypt,</em><em> even in wood and stone containers.</em><em>”</span>
 <p class="section-ref">Ex 7:14-19</p>
 
 <span class="verse" id="v20"><sup class="verse-num">20</sup> Moses and Aaron did that. He struck the water in the Nile with his staff for Pharaoh and his officers <em>to see</em>, and the water turned to blood. <strong><sup>21</sup></strong>The fish in the Nile died, and it stunk. The Egyptians couldn’t drink it. There was blood everywhere in Egypt. <strong><sup>22</sup></strong>But the Egyptian magicians did the same thing with their magic. Pharaoh’s heart was hardened, and he wouldn’t listen.</span>
 
-<span class="verse" id="v23"><sup class="verse-num">23</sup> Pharaoh returned to his palace without concerning himself with that either. <strong><sup>24</sup></strong>The Egyptians dug along the Nile for water because they couldn’t drink the water in it. <strong><sup>25</sup></strong>A week went by.<strong></span>
+<span class="verse" id="v23"><sup class="verse-num">23</sup> Pharaoh returned to his palace without concerning himself with that either. <strong><sup>24</sup></strong>The Egyptians dug along the Nile for water because they couldn’t drink the water in it. <strong><sup>25</sup></strong>A week went by.</span>
 <p class="section-ref">Ex 7:20-25</p>
-
-### The Plague of Frogs
-
 
 
 <style>

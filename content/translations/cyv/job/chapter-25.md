@@ -13,13 +13,16 @@ weight: 25
 
 <span class="verse" id="v1"><sup class="verse-num">1</sup> <strong>Bildad</strong><strong> the Shuhite answered:</strong></span>
 
+<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>“Dominion</em><em> and awe belong to </em>God<em>,</em> <em>who establishes order high in his sky.</em></span>
+
 <span class="verse" id="v3"><sup class="verse-num">3</sup> <em>Who</em><em> can count his troops?</em> <em>Who doesn’t his light rise on?</em></span>
 
 <span class="verse" id="v4"><sup class="verse-num">4</sup> <em>How</em><em> can anyone be innocent in his presence?</em> <em>How can anyone born of woman be pure?</em></span>
 
 <span class="verse" id="v5"><sup class="verse-num">5</sup> <em>If</em><em> the moon isn’t bright</em> <em>and the stars aren’t pure to </em>God<em>,</em></span>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>how</em><em> </em><em>much</em><em> less people—like maggots,</em> <em>and their offspring—mere worms.”</em><strong>	</strong><strong>Job 25:1-6</strong></span>
+<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>how</em><em> </em><em>much</em><em> less people—like maggots,</em> <em>and their offspring—mere worms.”</span>
+<p class="section-ref">Job 25:1-6</p>
 
 
 <style>

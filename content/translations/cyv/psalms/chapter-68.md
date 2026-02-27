@@ -84,9 +84,6 @@ weight: 68
 <span class="verse" id="v35"><sup class="verse-num">35</sup> He’s awesome in his sanctuary; the God of Israel gives strength and power to his people. Bless God!</span>
 <p class="section-ref">Ps 68:32-35</p>
 
-### Set to Lilies
-
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

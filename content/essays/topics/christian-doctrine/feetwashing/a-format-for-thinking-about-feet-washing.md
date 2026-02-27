@@ -4,7 +4,7 @@ categories:
 - Topics
 - Christian Doctrine
 - Feetwashing
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: A FORMAT FOR THINKING ABOUT FEET WASHING
 weight: 3

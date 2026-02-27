@@ -4,7 +4,7 @@ categories:
 - Topics
 - Interpersonalism
 - Bases
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: BASES FOR INTERPERSONALISM
 weight: 3

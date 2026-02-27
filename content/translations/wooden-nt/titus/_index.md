@@ -3,7 +3,7 @@ book: Titus
 chapters: 3
 title: Titus
 translation: WNT
-type: scripture
+type: book
 weight: 56
 ---
 

@@ -11,6 +11,8 @@ weight: 56
 
 ## Psalms Chapter 56
 
+### When the Philistines Seized Him in Gath Set to The Pigeon in Far-Off Terebinths
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Be gracious, God; people are walking all over me, oppressing me all the time, 2attacking me.</span>
 
 <span class="verse" id="v3"><sup class="verse-num">3</sup> When I’m afraid, I put my trust in you.</span>
@@ -36,9 +38,6 @@ weight: 56
 
 <span class="verse" id="v13"><sup class="verse-num">13</sup> because you’ve delivered me from death and my feet from stumbling so I can walk with you in the light of life.</span>
 <p class="section-ref">Ps 56:8-13</p>
-
-### When He Fled from Saul in the Cave Set to Do Not Destroy
-
 
 
 <style>

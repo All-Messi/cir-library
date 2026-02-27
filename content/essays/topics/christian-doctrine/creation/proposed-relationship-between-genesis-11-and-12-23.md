@@ -4,7 +4,7 @@ categories:
 - Topics
 - Christian Doctrine
 - Creation
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: PROPOSED RELATIONSHIP BETWEEN GENESIS 1:1 AND 1:2-2:3
 weight: 3

@@ -11,6 +11,8 @@ weight: 74
 
 ## Psalms Chapter 74
 
+### A Maskil of Asaph
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Why have you thrown us away forever, God? Why does your anger smoke at the sheep in your pasture?</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> Remember your community that you bought so long ago, that you redeemed as a tribe for your heritage, Mount Zion, where you’ve lived.</span>

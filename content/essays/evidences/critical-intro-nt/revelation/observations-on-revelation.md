@@ -4,7 +4,7 @@ categories:
 - Evidences
 - Critical Intro Nt
 - Revelation
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: OBSERVATIONS ON REVELATION
 weight: 3

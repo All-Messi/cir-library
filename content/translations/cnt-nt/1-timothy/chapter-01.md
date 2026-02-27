@@ -34,9 +34,6 @@ weight: 1
 <span class="verse" id="v18"><sup class="verse-num">18</sup> I’m entrusting that instruction to you, Timothy <em>my</em> son. I’m doing it because of the prophecies about you early on so that on the basis of them you can fight the good fight <strong><sup>19</sup></strong>with faith and a clear conscience. Some have refused to listen to <em>their conscience</em> and have shipwrecked as far as faith is concerned. <strong><sup>20</sup></strong>Hymeneas and Alexander are <em>two examples</em>; I’ve delivered them to Satan to teach them not to blaspheme.</span>
 <p class="section-ref">1 Tim 1:18-20</p>
 
-### Attitude Toward Earthly Rulers
-
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

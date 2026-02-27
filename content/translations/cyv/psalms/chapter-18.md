@@ -11,6 +11,8 @@ weight: 18
 
 ## Psalms Chapter 18
 
+### Yahveh’s servant, who sang this song to him when he delivered him from his enemies and from Saul He said,
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> I love you, Yahveh, my strength;</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> my fortress, my deliverer, my God, my Rock, my Refuge; my shield, the place that saves me, my stronghold.”</span>

@@ -6,7 +6,7 @@ categories:
 - Mankind Anthropology
 - Womens Studies
 - 1 Tim 2
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: '1 TIMOTHY 2:8-15: SITUATIONAL OR GENERAL?'
 weight: 5

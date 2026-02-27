@@ -11,13 +11,30 @@ weight: 4
 
 ## Exodus Chapter 4
 
+### Signs for Moses
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Moses answered, <em>“What if they don’t believe me, ‘Yahveh hasn’t really appeared to you!’?”</em></span>
+
+<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>“What’s in your hand?”</em> <em>“A staff.”</em></span>
+
+<span class="verse" id="v3"><sup class="verse-num">3</sup> <em>“Throw it on the ground.”</em> He threw it on the ground, and it became a snake. Moses jumped back.</span>
 
 <span class="verse" id="v4"><sup class="verse-num">4</sup> But Yahveh said, <em>“Grab its tail.”</em> He caught it, and it turned back into a staff in his hand. <strong><sup>5</sup></strong><em>“They’ll believe that Yahveh God of Abraham, Isaac, and Jacob has appeared to you.</em> <strong><sup>6</sup></strong><em>Put your hand into your chest.” </em>He did; when he took it out, it was leprous like snow. <strong><sup>7</sup></strong><em>“Put it in again.”</em> He did, and it became like the rest of him.</span>
 
+<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>“If the first sign doesn’t convince them, the second may. </em><strong><sup>9</sup></strong><em>If neither one does, dip some water out of the Nile and pour it on dry ground. It’ll become blood.”</span>
+<p class="section-ref">Ex 4:1-9</p>
+
 <span class="verse" id="v10"><sup class="verse-num">10</sup> Moses said, <em>“Lord, I’ve never been good with words before, or lately since you’ve spoken to me. I stammer and stutter.”</em></span>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> Yahveh’s anger flared at Moses, <em>“Don’t you have a brother, Aaron the Levite? He speaks fluently. Besides, he’s coming out to meet you; he’ll be glad to see you. </em><strong><sup>15</sup></strong><em>Give him my message. I’ll be with you and him and tell you what to do. </em><strong><sup>16</sup></strong><em>He’ll speak to the people for you. He’ll be your mouth, and you’ll be like God to him. </em><strong><sup>17</sup></strong><em>Take this staff and perform the signs with it.”</em><strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	       </strong><strong> </strong><strong>Ex 4:10-17</strong> <strong>Moses Returns to Egypt</strong></span>
+<span class="verse" id="v11"><sup class="verse-num">11</sup> <em>“Who made people’s tongues? Who makes people mute or deaf, seeing or blind? Isn’t it me, Yahveh? </em><strong><sup>12</sup></strong><em>Go on; I’ll be with your mouth and tell you what to say.”</em></span>
+
+<span class="verse" id="v13"><sup class="verse-num">13</sup> <em>“Lord, send the message by whoever else you want to.”</em></span>
+
+<span class="verse" id="v14"><sup class="verse-num">14</sup> Yahveh’s anger flared at Moses, <em>“Don’t you have a brother, Aaron the Levite? He speaks fluently. Besides, he’s coming out to meet you; he’ll be glad to see you. </em><strong><sup>15</sup></strong><em>Give him my message. I’ll be with you and him and tell you what to do. </em><strong><sup>16</sup></strong><em>He’ll speak to the people for you. He’ll be your mouth, and you’ll be like God to him. </em><strong><sup>17</sup></strong><em>Take this staff and perform the signs with it.”</span>
+<p class="section-ref">Ex 4:10-17</p>
+
+### Moses Returns to Egypt
+
 
 <span class="verse" id="v18"><sup class="verse-num">18</sup> Moses went back to Jethro/<em>Reuel</em> and said, <em>“Let me go so I can go to my relatives in Egypt and see if they’re still alive.” </em> <em>“Have a safe trip.”</em></span>
 
@@ -32,9 +49,6 @@ weight: 4
 
 <span class="verse" id="v27"><sup class="verse-num">27</sup> Yahveh told Aaron, <em>“Go meet Moses in the open country.”</em> He met him at the mountain of God and kissed him. <strong><sup>28</sup></strong>Moses told him what Yahveh had sent him to do. <strong><sup>29</sup></strong>They gathered Israel’s elders, <strong><sup>30</sup></strong>and Aaron told them everything Yahveh had told Moses. <em>Moses</em> performed the signs for the people, <strong><sup>31</sup></strong>and they believed. When they heard Yahveh cared about them and had seen their adversity, they bowed low in worship.</span>
 <p class="section-ref">Ex 4:27-31</p>
-
-### Moses and Aaron Speak to Pharaoh
-
 
 
 <style>

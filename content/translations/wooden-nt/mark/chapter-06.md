@@ -29,7 +29,7 @@ weight: 6
 
 <span class="verse" id="v24"><sup class="verse-num">24</sup> And having-gone-out, she-said to-the mother of-her, <em>“What shall-I-ask-for?”</em> And the/she said, <em>“The head of-John the Baptist.” </em></span>
 
-<span class="verse" id="v25"><strong><sup>5</sup></strong>And having-gone-in immediately with haste to the king, she-asked, saying, <em>“I-want in-order-that right-now you-should-give me the head of-John the Baptist.”</em><em> </em></span>
+<span class="verse" id="v25"><sup class="verse-num">25</sup> And having-gone-in immediately with haste to the king, she-asked, saying, <em>“I-want in-order-that right-now you-should-give me the head of-John the Baptist.”</em><em> </em></span>
 
 <span class="verse" id="v26"><sup class="verse-num">26</sup> And having-become sorrowful, the king, on-account-of the oaths and the-ones reclining-at-table, did┘not└want to-refuse her. <strong><sup>27</sup></strong>And immediately, having-sent, the king commanded (an) executioner to-bring the head of-him. And having-gone-away, he-beheaded him in the prison, <strong><sup>28</sup></strong>and he-brought the head of-him on (a) platter and gave it to-the young-girl, and the young-girl gave it to-the mother of-her. <strong><sup>29</sup></strong>And having-heard, the disciples of-him came and carried the corpse of-him and put it in (a) tomb.</span>
 

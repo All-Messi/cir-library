@@ -11,24 +11,27 @@ weight: 10
 
 ## Genesis Chapter 10
 
+### The Table of Nations
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> The Generations of <u>Shem</u>, <u>Ham</u>, and <u>Japheth</u>, Noah’s Sons and Their Descendants</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> <u>Japheth</u> was the father of <u>Gomer</u>, Magog, Madai, <u>Javan</u>, Tubal, Meshech, and Tiras.</span>
 
-<span class="verse" id="v3"><strong><sup>3</sup></strong><u>Gomer</u> was the father of Ashkenaz, Riphath, and Togarmah.</span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> <u>Gomer</u> was the father of Ashkenaz, Riphath, and Togarmah.</span>
 
 <span class="verse" id="v4"><sup class="verse-num">4</sup> <u>Javan</u> was the father of Elishah, Tarshish, Kittim, and Dodanim.</span>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> Those descendants spread inland from the coasts into their nations, each by language and clan. <strong></span>
+<span class="verse" id="v5"><sup class="verse-num">5</sup> Those descendants spread inland from the coasts into their nations, each by language and clan.</span>
 <p class="section-ref">Gen 10:1-5</p>
 
-<span class="verse" id="v6"><strong><sup>6</sup></strong><u>Ham</u> was the father of <u>Cush</u>, <u>Mizraim</u>, Put, and <u>Canaan</u>.</span>
+<span class="verse" id="v6"><sup class="verse-num">6</sup> <u>Ham</u> was the father of <u>Cush</u>, <u>Mizraim</u>, Put, and <u>Canaan</u>.</span>
 
 <span class="verse" id="v7"><sup class="verse-num">7</sup> <u>Cush</u> was the father of Seba, Havilah, Sabtah, <u>Raamah</u>, and Sabteca. <u>Raamah</u> was the father of Sheba and Dedan.</span>
 
 <span class="verse" id="v8"><sup class="verse-num">8</sup> Cush was also the father of Nimrod, who became prominent in the world, <strong><sup>9</sup></strong>a great hunter before the LORD. It became an expression, <em>“Like Nimrod, a great hunter </em><em>before</em><em> </em><em>the </em><em>L</em><em>ORD</em><em>.”</em><em> </em><strong><sup>10</sup></strong>His kingdom stretched across Babel, Erech, Accad, and Calneh in Shinar. <strong><sup>11</sup></strong>From that land he went to Assyria and built Nineveh, Rehoboth-Ir, Calah, <strong><sup>12</sup></strong>and Resen, a big city between Nineveh and Calah.</span>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> <u>Mizraim</u> became the father of the Ludim, Anamim, Lehabim, Naphtuhim, <strong><sup>14</sup></strong>Pathrusim, Casluhim (ancestors of the Philistines), and Caphtorim. <strong><sup>	</sup></strong><strong>Gen 10:6-14</strong></span>
+<span class="verse" id="v13"><sup class="verse-num">13</sup> <u>Mizraim</u> became the father of the Ludim, Anamim, Lehabim, Naphtuhim, <strong><sup>14</sup></strong>Pathrusim, Casluhim (ancestors of the Philistines), and Caphtorim.</span>
+<p class="section-ref">Gen 10:6-14</p>
 
 <span class="verse" id="v15"><sup class="verse-num">15</sup> <u>Canaan</u> became the father of Sidon, <em>his firstborn</em>, Heth, <strong><sup>16</sup></strong>the Jebusites, Amorites, Girgashites, <strong><sup>17</sup></strong>Hivites, Arkites, Simites, <strong><sup>18</sup></strong>Arvadites, Zemarites, Hamathites. Afterwards the Canaanite clans spread out <strong><sup>19</sup></strong>from Sidon—on the way to Gera—as far as Gaza across to Sodom, Gomorrah, Admah, and Zeboiim as far as Lasha.</span>
 
@@ -47,9 +50,6 @@ weight: 10
 
 <span class="verse" id="v32"><sup class="verse-num">32</sup> Those were the clans of Noah’s descendants by genealogy, language, and nation. Nations spread out from them after the flood.</span>
 <p class="section-ref">Gen 10:21-32</p>
-
-### The Confusion of Languages
-
 
 
 <style>

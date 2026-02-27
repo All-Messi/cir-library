@@ -3,7 +3,7 @@ book: Ecclesiastes
 chapters: 12
 title: Ecclesiastes
 translation: CNT
-type: scripture
+type: book
 weight: 21
 ---
 

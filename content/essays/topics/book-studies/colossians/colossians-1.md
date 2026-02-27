@@ -4,7 +4,7 @@ categories:
 - Topics
 - Book Studies
 - Colossians
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: COLOSSIANS 1
 weight: 3

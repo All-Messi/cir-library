@@ -11,6 +11,8 @@ weight: 88
 
 ## Psalms Chapter 88
 
+### A Maskil of Herman the Ezrahite
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> LORD God who keeps me safe, I call out to you day and night.</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> Let my prayer come to you; listen to my call!</span>
@@ -49,9 +51,6 @@ weight: 88
 
 <span class="verse" id="v18"><sup class="verse-num">18</sup> You’ve removed lover and friend far from me; my companions lie in darkness.</span>
 <p class="section-ref">Ps 88:13-18</p>
-
-### A Maskil of Ethan the Ezrahite
-
 
 
 <style>

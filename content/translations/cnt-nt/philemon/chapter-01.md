@@ -36,9 +36,6 @@ weight: 1
 <span class="verse" id="v25"><sup class="verse-num">25</sup> The grace of the Lord Jesus Christ be with yourpl spirit.</span>
 <p class="section-ref">Phil 23-25</p>
 
-### Translator: Virgil Warren, 								       christir.org
-
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

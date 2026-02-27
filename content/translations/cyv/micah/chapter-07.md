@@ -10,18 +10,20 @@ weight: 7
 
 ## Micah Chapter 7
 
+### Israel’s Misery Turned to Hope
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Misfortune is waiting for me! I feel like people that pick fruit and gather grapes but have no clusters to eat or first-ripe figs to satisfy their hunger.</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> Godly people have disappeared; there aren’t any good ones left. They all premeditate murder; each hunts the other with a net.</span>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> Both hands do evil well, officials and judges both demand bribes, influential people vie for preferential treatment; together they weave injustice.<strong></span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> Both hands do evil well, officials and judges both demand bribes, influential people vie for preferential treatment; together they weave injustice.</span>
 <p class="section-ref">Mic 7:1-3</p>
 
 <span class="verse" id="v4"><sup class="verse-num">4</sup> The best of them are like briars; the most godly <em>are</em> like a thorn hedge. They can post a watchman, but their punishment will still come; their confusion is at hand.</span>
 
 <span class="verse" id="v5"><sup class="verse-num">5</sup> Don’t trust your neighbor, don’t confide in a friend, be careful what you tell your wise</span>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> Son treats father with contempt; daughter defies mother, daughter-in-law defies mother-in-law; people have enemies in their own families.<strong></span>
+<span class="verse" id="v6"><sup class="verse-num">6</sup> Son treats father with contempt; daughter defies mother, daughter-in-law defies mother-in-law; people have enemies in their own families.</span>
 <p class="section-ref">Mic 7:4-6</p>
 
 <span class="verse" id="v7"><sup class="verse-num">7</sup> But <u>I</u> will look to Yahveh; I’ll wait for God, who keeps me safe. He’ll listen to me.</span>
@@ -35,12 +37,14 @@ weight: 7
 
 <span class="verse" id="v11"><sup class="verse-num">11</sup> It’ll be a time, <em>Israel</em>, for rebuilding your walls and extending your boundaries,</span>
 
-<span class="verse" id="v12"><strong><sup>2</sup></strong>a day when people come to you from Assyria and the cities of Egypt— from Egypt to the Euphrates, from sea to sea and mountain to mountain.</span>
+<span class="verse" id="v12"><sup class="verse-num">12</sup> a day when people come to you from Assyria and the cities of Egypt— from Egypt to the Euphrates, from sea to sea and mountain to mountain.</span>
 
 <span class="verse" id="v13"><sup class="verse-num">13</sup> But <em>first </em>the land will become desolate because of what its people have done.</span>
 <p class="section-ref">Mic 7:9-13</p>
 
 <span class="verse" id="v14"><sup class="verse-num">14</sup> Shepherd your people with your staff, your flock that lives alone in a woods surrounded by productive fields. Let them pasture in Bashan and Gilead like they did in the old days.</span>
+
+<span class="verse" id="v15"><sup class="verse-num">15</sup> <em>“I’ll show </em><em>you</em><em> amazing </em><em>miracle</em><em>s </em> <em>	like I did</em><em> when you came out of Egypt</em><em>.”</em></span>
 
 <span class="verse" id="v16"><sup class="verse-num">16</sup> Nations will see <em>them</em> and be embarrassed at their own weakness. They’ll put their hand over their mouth <em>in awe</em>, and their ears will pop.</span>
 

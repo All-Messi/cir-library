@@ -11,16 +11,22 @@ weight: 25
 
 ## Numbers Chapter 25
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> While Israel was camping in Shittim, the people started carrying on prostitution with the women of Moab. <strong><sup>2</sup></strong>They invited the people to the sacrifices to their gods, and the people ate and bowed to their gods. <strong><sup>3</sup></strong>In this way, Israel joined themselves to Baal of Peor, and Yahveh was angry. <strong><sup>4</sup></strong>He told Moses, <em>“</em><em>Seiz</em><em>e the </em><em>ring</em><em>leaders and execute them in broad daylight in </em><em>my</em><em><sup>Y</sup></em><em><sup> </sup></em><em>presence</em><em> so </em><em>my fierce anger will</em><em> turn away from Israel.”</em> <strong><sup>5</sup></strong>Moses told the judges, <em>“Each of you </em><em>put to death</em><em> his men that have joined </em><em>in worshiping</em><em> Baal of Peor.”</em><em> </em><em>	 </em><strong>Num 25:1-5</strong></span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> While Israel was camping in Shittim, the people started carrying on prostitution with the women of Moab. <strong><sup>2</sup></strong>They invited the people to the sacrifices to their gods, and the people ate and bowed to their gods. <strong><sup>3</sup></strong>In this way, Israel joined themselves to Baal of Peor, and Yahveh was angry. <strong><sup>4</sup></strong>He told Moses, <em>“</em><em>Seiz</em><em>e the </em><em>ring</em><em>leaders and execute them in broad daylight in </em><em>my</em><em><sup>Y</sup></em><em><sup> </sup></em><em>presence</em><em> so </em><em>my fierce anger will</em><em> turn away from Israel.”</em> <strong><sup>5</sup></strong>Moses told the judges, <em>“Each of you </em><em>put to death</em><em> his men that have joined </em><em>in worshiping</em><em> Baal of Peor.”</em><em></span>
+<p class="section-ref">Num 25:1-5</p>
 
 <span class="verse" id="v6"><sup class="verse-num">6</sup> One Israelite <em>even </em>brought a Midianite woman among his fellow Jews right in front of Moses and the assembly while they were crying at the entrance to the Tent of Meeting. <strong><sup>7</sup></strong>When Phinehas Ben-Eleazar Ben-Aaron the priest saw it, he got up from the assembly. He took a spear, <strong><sup>8</sup></strong>followed the man into the tent, and ran both of them through, and so checked the plague on Israel. <strong><sup>9</sup></strong>24,000 had died from it.</span>
 <p class="section-ref">Num 25:6-9</p>
 
-<span class="verse" id="v10"><strong><sup>0</sup></strong>Then Yahveh told Moses<em>, </em></span>
+<span class="verse" id="v10"><sup class="verse-num">10</sup> Then Yahveh told Moses<em>, </em></span>
+
+<span class="verse" id="v11"><sup class="verse-num">11</sup> <em>“Phinehas</em><em> has turned away my anger because he was </em><em>as z</em><em>ealous </em><em>as I am for my honor</em><em>, so I didn’t destroy Israel.</em><em> </em><strong><sup>12</sup></strong><em>So</em><em> say, ‘I</em><em>’m giving</em><em> him </em><em>and his descendants my covenant of peace,</em><em> </em><strong><sup>13</sup></strong><em>a</em><em> per</em><em>manent</em><em> priesthood, because he was </em><em>z</em><em>ealous for me and atoned for Israel.’”</em></span>
 
 <span class="verse" id="v14"><sup class="verse-num">14</sup> The slain man was Zimri Ben-Salu, a family leader in Simeon. <strong><sup>15</sup></strong>The Midianite woman was Cozbi Bat-Zur, a family leader in Midian.</span>
 
-<span class="verse" id="v16"><strong><sup>6</sup></strong>Yahveh told Moses,</span>
+<span class="verse" id="v16"><sup class="verse-num">16</sup> Yahveh told Moses,</span>
+
+<span class="verse" id="v17"><sup class="verse-num">17</sup> <em>“</em><em>Attack</em><em> </em><em>the Midianites</em><em> and</em><em> strike them down.</em><em> </em><strong><sup>18</sup></strong><em>They’ve</em><em> been hostile to you </em><em>by deceiving</em><em> you at Peor wi</em><em>th Cozbi their sister, who was killed at</em><em> the </em><em>time</em><em> of the plague because of </em>what happened at <em>Peor.”</span>
+<p class="section-ref">Num 25:10-18</p>
 
 
 <style>

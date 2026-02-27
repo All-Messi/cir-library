@@ -3,7 +3,7 @@ book: Isaiah
 chapters: 66
 title: Isaiah
 translation: CYV
-type: scripture
+type: book
 weight: 23
 ---
 

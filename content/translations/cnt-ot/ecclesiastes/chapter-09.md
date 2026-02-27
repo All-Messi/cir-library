@@ -17,14 +17,14 @@ weight: 9
 
 <span class="verse" id="v11"><sup class="verse-num">11</sup> Again, I saw that under the sun the swift don’t <em>necessarily</em> win the race, soldiers don’t win the battle, the wise don’t get the bread, the discerning aren’t wealthy, the capable don’t gain approval; time and chance interfere with everything. <strong><sup>12</sup></strong>Besides, people don’t know what’s going to happen to them; they’re like fish in a seine or birds in a snare: they unexpectedly get caught by misfortune.</span>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> I’ve also seen this example of wisdom under the sun, and it impressed me. <strong><sup>14</sup></strong>There was a small city where few people lived. A powerful king came, surrounded it, and built big siege works against it. <strong><sup>15</sup></strong>But a poor man in the city delivered it by his wisdom; yet nobody remembered that poor wise man. <strong></span>
+<span class="verse" id="v13"><sup class="verse-num">13</sup> I’ve also seen this example of wisdom under the sun, and it impressed me. <strong><sup>14</sup></strong>There was a small city where few people lived. A powerful king came, surrounded it, and built big siege works against it. <strong><sup>15</sup></strong>But a poor man in the city delivered it by his wisdom; yet nobody remembered that poor wise man.</span>
 <p class="section-ref">Eccl 9:7-15</p>
 
-<span class="verse" id="v16"><strong><sup>6</sup></strong>So I said, <em>“Wisdom is better than power.”</em> People often look down on poor people’s wisdom and ignore what they say.</span>
+<span class="verse" id="v16"><sup class="verse-num">16</sup> So I said, <em>“Wisdom is better than power.”</em> People often look down on poor people’s wisdom and ignore what they say.</span>
 
-<span class="verse" id="v17"><strong><sup>7</sup></strong>The words of the wise heard in quietness are better than the shouts of a ruler among fools.</span>
+<span class="verse" id="v17"><sup class="verse-num">17</sup> The words of the wise heard in quietness are better than the shouts of a ruler among fools.</span>
 
-<span class="verse" id="v18"><strong><sup>8</sup></strong>Wisdom is better than weapons, but one sinner can destroy lots of good.</span>
+<span class="verse" id="v18"><sup class="verse-num">18</sup> Wisdom is better than weapons, but one sinner can destroy lots of good.</span>
 <p class="section-ref">Eccl 9:16-18</p>
 
 

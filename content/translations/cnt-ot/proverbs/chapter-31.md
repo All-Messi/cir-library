@@ -10,6 +10,8 @@ weight: 31
 
 ## Proverbs Chapter 31
 
+### 31;1The Words of King Lemuel The Oracle His Mother Taught Him
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> The Words of King Lemuel The Oracle His Mother Taught Him</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> Please listen, son, son of my womb, son of my vows;</span>
@@ -64,7 +66,9 @@ weight: 31
 
 <span class="verse" id="v27"><sup class="verse-num">27</sup> She takes care of her household and doesn't idle away her time.</span>
 
-<span class="verse" id="v28"><sup class="verse-num">28</sup> Her children grow up and bless her; her husband, too, and praises her: 29"Lots of women do nobly, but you excel them all."</span>
+<span class="verse" id="v28"><sup class="verse-num">28</sup> Her children grow up and bless her; her husband, too, and praises her:</span>
+
+<span class="verse" id="v29"><sup class="verse-num">29</sup> "Lots of women do nobly, but you excel them all."</span>
 
 <span class="verse" id="v30"><sup class="verse-num">30</sup> Charm is deceitful and beauty is vain, but praise a woman that respects the LORD.</span>
 

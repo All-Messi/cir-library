@@ -4,7 +4,7 @@ categories:
 - Evidences
 - Critical Intro Nt
 - 2 Peter
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: 2 PETER AND JUDE IN PARALLEL
 weight: 3

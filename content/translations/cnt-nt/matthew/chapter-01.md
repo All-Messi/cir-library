@@ -10,7 +10,7 @@ weight: 1
 
 ## Matthew Chapter 1
 
-<span class="verse" id="v1"><strong><sup>1</sup></strong>The genealogy of Jesus the Messiah, son of David, son of Abraham</span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> The genealogy of Jesus the Messiah, son of David, son of Abraham</span>
 
 <table class="genealogy-table">
 <colgroup>
@@ -147,19 +147,14 @@ weight: 1
 </tbody>
 </table>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> There are 14 generations from Abraham to David, 14 from David to the exile in Babylon, and 14 from the exile to Messiah.</span>
-<p class="section-ref">Mt 1:1-17</p>
+<span class="verse" id="v17"><sup class="verse-num">17</sup> There are 14 generations from Abraham to David,</span>
 
-### Jesus’ Birth Announced to Joseph
+<span class="verse" id="v18"><sup class="verse-num">18</sup> This is how the birth of Jesus the Messiah took place. His mother Mary was engaged to Joseph. Before they got married, it was discovered that she was pregnant (by the Holy Spirit). <strong><sup>19</sup></strong>Joseph, her husband, was a just man and not willing to disgrace her publicly, so he intended to break off the engagement privately. <strong><sup>20</sup></strong>As he was struggling with the matter, an angel of the LORD appeared in a dream, <em>“</em><em>Joseph</em><em> son of David, don’</em><em>t have qualms about marrying her. She’</em><em>s </em><em>pregnant</em><em> by the Holy Spirit.</em><em> </em><strong><sup>21</sup></strong><em>She’ll</em><em> have a son</em><em> you’re to name</em><em> </em>Jesus<em>, because he’ll </em><em>‘</em><em>save</em><em>’</em><em> his people from their sins.”</em><em> </em><strong><sup>22</sup></strong>That fulfilled what the LORD had said by the prophet Isaiah,</span>
 
-
-<span class="verse" id="v18"><strong><sup>8</sup></strong>This is how the birth of Jesus the Messiah took place. His mother Mary was engaged to Joseph. Before they got married, it was discovered that she was pregnant (by the Holy Spirit). <strong><sup>19</sup></strong>Joseph, her husband, was a just man and not willing to disgrace her publicly, so he intended to break off the engagement privately. <strong><sup>20</sup></strong>As he was struggling with the matter, an angel of the LORD appeared in a dream, <em>“</em><em>Joseph</em><em> son of David, don’</em><em>t have qualms about marrying her. She’</em><em>s </em><em>pregnant</em><em> by the Holy Spirit.</em><em> </em><strong><sup>21</sup></strong><em>She’ll</em><em> have a son</em><em> you’re to name</em><em> </em>Jesus<em>, because he’ll </em><em>‘</em><em>save</em><em>’</em><em> his people from their sins.”</em><em> </em><strong><sup>22</sup></strong>That fulfilled what the LORD had said by the prophet Isaiah,</span>
+<span class="verse" id="v23"><sup class="verse-num">23</sup> <strong><em>“A</em></strong><strong><em> virgin will have a son</em></strong><strong><em> </em></strong> <strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	they’ll call </em></strong><strong>Emmanuel</strong><strong><em> </em></strong><strong><em>(‘</em></strong><strong><em>God with us</em></strong><strong><em>’</em></strong><strong><em>)</em></strong><strong><em>”</em></strong><strong> </strong><strong>[Is</strong><strong> 7:14]</strong>.</span>
 
 <span class="verse" id="v24"><sup class="verse-num">24</sup> Joseph got up and did what the angel said, <strong><sup>25</sup></strong>but didn’t have relations with her till she had a son; he named him Jesus.</span>
 <p class="section-ref">Mt 1:18-25</p>
-
-### The Visit of the Magi
-
 
 
 <style>

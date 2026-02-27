@@ -27,32 +27,32 @@ weight: 6
 
 <span class="verse" id="v15"><sup class="verse-num">15</sup> The sons of <u>Simeon</u>: Jemuel, Jamin, Ohab, Jachin, Zohar—and Shaul, the son of a Canaanite woman</span>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> The sons of <u>Levi</u> according to their generations: <u>Gershon</u>, <u>Kohath</u>, <u>Merari</u>. Levi lived 137 years.</span>
+<span class="verse" id="v16"><sup class="verse-num">16</sup> The sons of <u>Levi</u> according to their generations: <u>Gershon</u>, <u>Kohath</u>, <u>Merari</u>. Levi lived</span>
 
-<span class="verse" id="v17"><strong><sup>7</sup></strong>The sons of <u>Gershon</u>: Libni, Shimei</span>
+<span class="verse" id="v17"><sup class="verse-num">17</sup> The sons of <u>Gershon</u>: Libni, Shimei</span>
 
-<span class="verse" id="v18"><strong><sup>8</sup></strong>The sons of <u>Kohath</u>: <u>Amram</u>, <u>Izhar</u>, Hebron, <u>Uzziel</u>. Kohath lived 133 years.</span>
+<span class="verse" id="v18"><sup class="verse-num">18</sup> The sons of <u>Kohath</u>: <u>Amram</u>, <u>Izhar</u>, Hebron, <u>Uzziel</u>. Kohath lived 133 years.</span>
 
-<span class="verse" id="v19"><strong><sup>9</sup></strong>The sons of <u>Merari</u>: Mahli and Mushi</span>
+<span class="verse" id="v19"><sup class="verse-num">19</sup> The sons of <u>Merari</u>: Mahli and Mushi</span>
 
-<span class="verse" id="v20"><strong><sup>20</sup></strong><u>Amram</u> married his father’s sister Jochebed. She had <strong>Aaron and </strong> <strong>Moses</strong>. Amram lived 137 years.</span>
+<span class="verse" id="v20"><sup class="verse-num">20</sup> <u>Amram</u> married his father’s sister Jochebed. She had <strong>Aaron and </strong> <strong>Moses</strong>. Amram lived 137 years.</span>
 
-<span class="verse" id="v21"><strong><sup>21</sup></strong>The sons of <u>Izhar</u>: <u>Korah</u>, Nepheg, and Zichri</span>
+<span class="verse" id="v21"><sup class="verse-num">21</sup> The sons of <u>Izhar</u>: <u>Korah</u>, Nepheg, and Zichri</span>
 
-<span class="verse" id="v22"><strong><sup>22</sup></strong>The sons of <u>Uzziel</u>: Mishael, Elzaphan, and Sithri</span>
+<span class="verse" id="v22"><sup class="verse-num">22</sup> The sons of <u>Uzziel</u>: Mishael, Elzaphan, and Sithri</span>
 
-<span class="verse" id="v23"><strong><sup>	23</sup></strong>Aaron married Elisheba Bat-Amminadab, sister of Nahshon. She had Nadab, Abihu, Eleazar, and Ithamar.</span>
+<span class="verse" id="v23"><sup class="verse-num">23</sup> Aaron married Elisheba Bat-Amminadab, sister of Nahshon. She had Nadab, Abihu, Eleazar, and Ithamar.</span>
 
-<span class="verse" id="v24"><strong><sup>24</sup></strong>The sons of <u>Korah</u>: Assir, Elkanah, and Abiasaph</span>
+<span class="verse" id="v24"><sup class="verse-num">24</sup> The sons of <u>Korah</u>: Assir, Elkanah, and Abiasaph</span>
 
-<span class="verse" id="v25"><strong><sup>	</sup></strong><strong><sup>	25</sup></strong>Aaron’s son Eleazar married one of the daughters of Putiel. She had Phinehas.</span>
+<span class="verse" id="v25"><sup class="verse-num">25</sup> Aaron’s son Eleazar married one of the daughters of Putiel. She had Phinehas.</span>
 
-<span class="verse" id="v26"><strong><sup>              </sup></strong><strong><sup>26</sup></strong>It was the <em>same</em> <strong>Aaron and Moses</strong> that Yahveh told, <em>“</em><em>Take</em><em> the </em> <em>Israel</em><em>ites</em><em> out of Egypt according to their </em><em>armie</em><em>s.”</em><em> </em><strong><sup>27</sup></strong>They were the ones that spoke to Pharaoh about taking them out.</span>
+<span class="verse" id="v26"><sup class="verse-num">26</sup> It was the <em>same</em> <strong>Aaron and Moses</strong> that Yahveh told, <em>“</em><em>Take</em><em> the </em> <em>Israel</em><em>ites</em><em> out of Egypt according to their </em><em>armie</em><em>s.”</em><em> </em><strong><sup>27</sup></strong>They were the ones that spoke to Pharaoh about taking them out.</span>
 <p class="section-ref">Ex 6:14-27</p>
 
 <span class="verse" id="v28"><sup class="verse-num">28</sup> That day Yahveh told Moses, <strong><sup>29</sup></strong><em>“</em><em><u>I’m </u></em><em><u>Yahveh</u></em><em>.</em><em> </em><em>Tell</em><em> Pharaoh everything I tell you.” </em></span>
 
-<span class="verse" id="v30"><strong><sup>0</sup></strong>But Moses said, <em>“I’m not </em><em>a good</em><em> </em><em>speaker</em><em>.</em><em> How will he listen to me?”</em> <strong>Aaron’s Staff Becomes a Snake</strong></span>
+<span class="verse" id="v30"><sup class="verse-num">30</sup> But Moses said, <em>“I’m not </em><em>a good</em><em> </em><em>speaker</em><em>.</em><em> How will he listen to me?”</em> 	<strong>Aaron’s Staff Becomes a Snake</strong></span>
 
 
 <style>

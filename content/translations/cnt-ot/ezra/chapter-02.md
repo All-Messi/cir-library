@@ -13,7 +13,7 @@ weight: 2
 
 <span class="verse" id="v1"><sup class="verse-num">1</sup> The People in the Province Who Went Up from the Exiles That Nebuchadnezzar Took Away They went to Jerusalem and their towns in Judah <strong><sup>2</sup></strong>with Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah: from the</span>
 
-<span class="verse" id="v3"><strong><sup>3</sup></strong>famly of Parosh 	2,172	<strong><sup>4</sup></strong>family of Shephatiah 	      372</span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> famly of Parosh 	2,172	<strong><sup>4</sup></strong>family of Shephatiah 	      372</span>
 
 <span class="verse" id="v5"><sup class="verse-num">5</sup> family of Arah 	775	<strong><sup>6</sup></strong>family of Pahath-moab (descended from Jeshua and Joab)  	   2,812</span>
 
@@ -33,15 +33,15 @@ weight: 2
 
 <span class="verse" id="v21"><sup class="verse-num">21</sup> people from Bethlehem 	123	<strong><sup>22</sup></strong>people from Netophah 	        56</span>
 
-<span class="verse" id="v23"><strong><sup>3</sup></strong>people from Anathoth 	128	<strong><sup>24</sup></strong>people from Azmaveth 	        42</span>
+<span class="verse" id="v23"><sup class="verse-num">23</sup> people from Anathoth 	128	<strong><sup>24</sup></strong>people from Azmaveth 	        42</span>
 
-<span class="verse" id="v25"><strong><sup>5</sup></strong>people from Kiriath-arim, Chephirah, and Beeroth    743	<strong><sup>26</sup></strong>people from Ramah and Geba   621</span>
+<span class="verse" id="v25"><sup class="verse-num">25</sup> people from Kiriath-arim, Chephirah, and Beeroth    743	<strong><sup>26</sup></strong>people from Ramah and Geba   621</span>
 
 <span class="verse" id="v27"><sup class="verse-num">27</sup> people from Michmas 	122	<strong><sup>28</sup></strong>people from Bethel and Ai 	        22 <strong><sup>29</sup></strong>people from Nebo 	  52	<strong><sup>30</sup></strong>people from Magbish 	      156</span>
 
-<span class="verse" id="v31"><strong><sup>1</sup></strong>people from the other Elam    1,254	<strong><sup>32</sup></strong>people from Harim 	                  320</span>
+<span class="verse" id="v31"><sup class="verse-num">31</sup> people from the other Elam    1,254	<strong><sup>32</sup></strong>people from Harim 	                  320</span>
 
-<span class="verse" id="v33"><strong><sup>3</sup></strong>people from Lod, Hadid, and Ono <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong>725	<strong><sup>34</sup></strong>people from Jericho,		      345</span>
+<span class="verse" id="v33"><sup class="verse-num">33</sup> people from Lod, Hadid, and Ono <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong>725	<strong><sup>34</sup></strong>people from Jericho,		      345</span>
 
 <span class="verse" id="v35"><sup class="verse-num">35</sup> people from Senaah 	3,630</span>
 

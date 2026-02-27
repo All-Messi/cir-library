@@ -3,7 +3,7 @@ book: 3 John
 chapters: 1
 title: 3 John
 translation: WNT
-type: scripture
+type: book
 weight: 64
 ---
 

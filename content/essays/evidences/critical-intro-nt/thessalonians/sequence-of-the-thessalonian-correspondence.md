@@ -4,7 +4,7 @@ categories:
 - Evidences
 - Critical Intro Nt
 - Thessalonians
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: SEQUENCE OF THE THESSALONIAN CORRESPONDENCE
 weight: 3

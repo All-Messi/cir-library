@@ -29,7 +29,9 @@ weight: 13
 
 <span class="verse" id="v22"><sup class="verse-num">22</sup> And he-was-passing-through according-to cities and villages/all cities and villages, teaching and making (his) to Jerusalem. <strong><sup>23</sup></strong>And somebody said to-him, <em>“Lord, </em><em>[whether] </em><em>few are the-ones being-saved?” </em> And the/he said to them,</span>
 
-<span class="verse" id="v26"><strong><sup>6</sup></strong><em>Then you-will-begin to-say, ‘We-ate before you and drank and you-taught in the streets of-us.’</em><em> </em></span>
+<span class="verse" id="v24"><sup class="verse-num">24</sup> <em>“Strive to-enter through the narrow gate, because many, I-say to-you, will-seek to-enter and they-will┘not└be-able.</em><em> </em><strong><sup>25</sup></strong><em>From whenever</em><em><sup>2</sup></em><em> the lord-of-the-house rises</em><em>-up and shuts the door, and you-begin to-stand outside and to-knock-on the door, saying, </em><em>‘</em><em>Lord, open to-us,</em><em>’</em><em> and, having-answered, he-will-say to-you, ‘I-do┘not└know whence you are</em><em>.</em><em>’ </em></span>
+
+<span class="verse" id="v26"><sup class="verse-num">26</sup> <em>Then you-will-begin to-say, ‘We-ate before you and drank and you-taught in the streets of-us.’</em><em> </em></span>
 
 <span class="verse" id="v27"><sup class="verse-num">27</sup> <em>And he-will-say, saying to-you, ‘I-do┘not└know whence [you]</em><em><sup>ms</sup></em><em> are.</em><em> </em><em>Depart from me, all workers of-injustice.</em><em>’</em><em> </em></span>
 

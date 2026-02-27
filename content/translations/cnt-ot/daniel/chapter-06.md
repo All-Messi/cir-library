@@ -11,7 +11,10 @@ weight: 6
 
 ## Daniel Chapter 6
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> <em>King</em> Darius thought it good to appoint 120 satraps to oversee the empire. <strong><sup>2</sup></strong>He put three commissioners over them. (Daniel was one of them.) The satraps would report to them, and they would protect the king’s interests. <strong><sup>3</sup></strong>Daniel soon distinguished himself among the satraps and other commissioners because he had exceptional ability. The king planned to appoint him over the whole empire. <strong><sup>4</sup></strong>Then the commissioners and satraps tried to find some grounds for accusing him of mismanaging government affairs, but they couldn’t find any evidence of corruption. He was dependable, and they couldn’t find him negligent. <strong><sup>5</sup></strong>They said, <em>“We won’t find any grounds for accusing </em><em>him</em><em> unless </em><em>it’s </em><em>in </em><em>connection with the Law of his g</em><em>od.”</em><strong>     </strong><strong>	</strong><strong>Dan 6:1-5</strong></span>
+### Daniel in the Lions’ Den
+
+<span class="verse" id="v1"><sup class="verse-num">1</sup> <em>King</em> Darius thought it good to appoint 120 satraps to oversee the empire. <strong><sup>2</sup></strong>He put three commissioners over them. (Daniel was one of them.) The satraps would report to them, and they would protect the king’s interests. <strong><sup>3</sup></strong>Daniel soon distinguished himself among the satraps and other commissioners because he had exceptional ability. The king planned to appoint him over the whole empire. <strong><sup>4</sup></strong>Then the commissioners and satraps tried to find some grounds for accusing him of mismanaging government affairs, but they couldn’t find any evidence of corruption. He was dependable, and they couldn’t find him negligent. <strong><sup>5</sup></strong>They said, <em>“We won’t find any grounds for accusing </em><em>him</em><em> unless </em><em>it’s </em><em>in </em><em>connection with the Law of his g</em><em>od.”</em><strong></span>
+<p class="section-ref">Dan 6:1-5</p>
 
 <span class="verse" id="v6"><sup class="verse-num">6</sup> They went to the king together and said, <em>“</em><em>Long live </em><em>King Darius!</em><em> </em><strong><sup>7</sup></strong><em>T</em><em>he</em><em> commissioners, prefects and satraps, high officials and governors have </em><em>agreed</em><em> that </em><em>you </em><em>should </em><em>enforce</em><em> a statu</em><em>t</em><em>e that anybod</em><em>y who asks for anything from any mortal or </em><em>god</em><em> but you for</em><em> 30 days will be thrown in</em><em> the lions’ den.</em><em> </em><strong><sup>8</sup></strong><em>Now</em><em>, establish the injunction and sign the document so it can’</em><em>t be revoked—like</em><em> the law of the Medes and Persians.”</em></span>
 
@@ -19,11 +22,13 @@ weight: 6
 
 <span class="verse" id="v10"><sup class="verse-num">10</sup> When Daniel found out he’d signed it, he went home. In his roof room with windows open toward Jerusalem, he continued to kneel three times a day, praying and giving thanks before his God. <strong><sup>11</sup></strong>Those men came to his house together and found him making petition to his God; <strong><sup>12</sup></strong>so they went to the king, <em>“Didn’t you sign an injunction that anybody who asks anything from any</em><em> mortal</em><em> or god besides you for </em><em>30</em><em> days would be thrown in</em><em>to</em><em> the lions’ den?</em><em>”</em> He said, <em>“</em><em>It’s</em><em> true</em><em>;</em><em> the law of the Medes and Persians can’t be revoked.”</em></span>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> They answered, <em>“Daniel, an exile</em><em> from </em><em>Judah, is not honoring your</em><em> injunction</em><em>. He </em><em>keeps </em><em>pray</em><em>ing </em><em>to his God</em><em> three times a day.”</em><strong>	  </strong><strong>Dan 6:6-13</strong></span>
+<span class="verse" id="v13"><sup class="verse-num">13</sup> They answered, <em>“Daniel, an exile</em><em> from </em><em>Judah, is not honoring your</em><em> injunction</em><em>. He </em><em>keeps </em><em>pray</em><em>ing </em><em>to his God</em><em> three times a day.”</span>
+<p class="section-ref">Dan 6:6-13</p>
 
 <span class="verse" id="v14"><sup class="verse-num">14</sup> When the king heard it, he was deeply distressed and tried all day to figure out some way to rescue Daniel. <strong><sup>15</sup></strong>Then those men came back and said, <em>“You know, O King, it’s the law of the Medes and Persians that no injunction or statute the king makes can be revoked.”</em></span>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> So he gave the order, and Daniel was brought in and thrown into the lions’ den. He told Daniel, <em>“The God you constantly serve will deliver you himself.”</em> <strong><sup>17</sup></strong>They brought a stone and laid it over the mouth of the den. The king sealed it with his signet ring and his nobles’ signet rings so nothing could be changed. <strong><sup>18</sup></strong>He spent the night in his palace fasting. No entertainment was brought to him, and he couldn’t sleep.<strong>	 </strong><strong>Dan 6:14-18</strong></span>
+<span class="verse" id="v16"><sup class="verse-num">16</sup> So he gave the order, and Daniel was brought in and thrown into the lions’ den. He told Daniel, <em>“The God you constantly serve will deliver you himself.”</em> <strong><sup>17</sup></strong>They brought a stone and laid it over the mouth of the den. The king sealed it with his signet ring and his nobles’ signet rings so nothing could be changed. <strong><sup>18</sup></strong>He spent the night in his palace fasting. No entertainment was brought to him, and he couldn’t sleep.</span>
+<p class="section-ref">Dan 6:14-18</p>
 
 <span class="verse" id="v19"><sup class="verse-num">19</sup> He got up at dawn and hurried to the lions’ den. <strong><sup>20</sup></strong>Worried, he called out, <em>“Daniel, serv</em><em>ant of the living God, has the G</em><em>od you constantly serve, deliver</em><em>ed</em><em> you from the lions?”</em><em> </em></span>
 
@@ -35,13 +40,10 @@ weight: 6
 
 <span class="verse" id="v26"><sup class="verse-num">26</sup> <em>I</em><em> decree that in all my kingdom</em><em>, people </em><em>tremble </em>in fear <em>before Daniel’s God.</em> <em>	He’s the</em><em> living God that endures </em><em>forever;</em> <em>	</em><em>	h</em><em>is </em><em>kingdom will never be </em><em>destroyed;</em> <em>	</em><em>	</em><em>his </em><em>rule</em><em> will </em><em>never end</em><em>.</em></span>
 
-<span class="verse" id="v27"><strong><sup>7</sup></strong><em>He</em><em> delivers and rescues</em><em>,</em><em> and performs signs and wonders</em> <em>	</em><em>	on earth and </em><em>in the sky— </em> <em>	</em><em>	and</em><em> delivered Daniel from the lions.”</em></span>
+<span class="verse" id="v27"><sup class="verse-num">27</sup> <em>He</em><em> delivers and rescues</em><em>,</em><em> and performs signs and wonders</em> <em>	</em><em>	on earth and </em><em>in the sky— </em> <em>	</em><em>	and</em><em> delivered Daniel from the lions.”</em></span>
 
 <span class="verse" id="v28"><sup class="verse-num">28</sup> So Daniel enjoyed success during the regency of Darius and the reign of Cyrus the Persian.</span>
 <p class="section-ref">Dan 6:25-28</p>
-
-### Daniel’s Vision of the Four Beasts
-
 
 
 <style>

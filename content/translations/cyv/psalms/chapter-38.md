@@ -11,6 +11,8 @@ weight: 38
 
 ## Psalms Chapter 38
 
+### for a Memorial
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Yahveh, don’t rebuke me in your wrath or discipline me in your furious anger.</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> Your arrows have pierced deep into me; your hand has come down hard on me.</span>
@@ -55,9 +57,6 @@ weight: 38
 
 <span class="verse" id="v22"><sup class="verse-num">22</sup> Hurry and help me, Lord my savior!</span>
 <p class="section-ref">Ps 38:13-22</p>
-
-### Set to Jeduthun
-
 
 
 <style>

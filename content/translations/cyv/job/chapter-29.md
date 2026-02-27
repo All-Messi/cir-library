@@ -13,6 +13,8 @@ weight: 29
 
 <span class="verse" id="v1"><sup class="verse-num">1</sup> <strong>Job</strong><strong> took up his discourse again:</strong></span>
 
+<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>“</em><em>Oh</em><em> that I could be like I was just a few months ago</em> <em>when God was watching over me,</em></span>
+
 <span class="verse" id="v3"><sup class="verse-num">3</sup> <em>when</em><em> his lamp shined above my head</em> <em>and I walked through darkness by his light,</em></span>
 
 <span class="verse" id="v4"><sup class="verse-num">4</sup> <em>while</em><em> I was in the prime of life</em> <em>and his friendship hovered above my tent,</em></span>
@@ -21,7 +23,8 @@ weight: 29
 
 <span class="verse" id="v6"><sup class="verse-num">6</sup> <em>when</em><em> my feet were drenched with cream</em> <em>and the millstone poured out streams of olive oil for me!</em></span>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>when</em><em> I went to the city gate</em> <em>and took my seat in the </em>town<em> square.</em><strong>	</strong><strong>Job 29:1-7</strong></span>
+<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>when</em><em> I went to the city gate</em> <em>and took my seat in the </em>town<em> square.</span>
+<p class="section-ref">Job 29:1-7</p>
 
 <span class="verse" id="v8"><sup class="verse-num">8</sup> <em>Young</em><em> men saw me and stepped aside,</em> <em>old men stood up,</em></span>
 
@@ -35,7 +38,8 @@ weight: 29
 
 <span class="verse" id="v13"><sup class="verse-num">13</sup> <em>People</em><em> about to die blessed </em><em>me;</em> <em>I made </em><em>widows</em><em> sing for joy.</em></span>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> <em>I</em><em> dressed in </em><em>goodness;</em> <em>justice covered me like a robe and turban.</em><strong>	</strong><strong>Job 29:8-14</strong></span>
+<span class="verse" id="v14"><sup class="verse-num">14</sup> <em>I</em><em> dressed in </em><em>goodness;</em> <em>justice covered me like a robe and turban.</span>
+<p class="section-ref">Job 29:8-14</p>
 
 <span class="verse" id="v15"><sup class="verse-num">15</sup> <em>I</em><em> served as eyes for the blind and feet for the lame.</em></span>
 
@@ -47,7 +51,10 @@ weight: 29
 
 <span class="verse" id="v19"><sup class="verse-num">19</sup> <em>My</em><em> roots reach out to the </em><em>water;</em> <em>dew lies all night on my branches.</em></span>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> <em>My</em><em> honor is always </em><em>fresh;</em> <em>my bow stays new in my hand.’</em><strong>	</strong><strong>Job 29:15-20</strong></span>
+<span class="verse" id="v20"><sup class="verse-num">20</sup> <em>My</em><em> honor is always </em><em>fresh;</em> <em>my bow stays new in my hand.’</span>
+<p class="section-ref">Job 29:15-20</p>
+
+<span class="verse" id="v21"><sup class="verse-num">21</sup> <em>“They</em><em> listened to me, waited,</em> <em>and kept quiet to hear my advice.</em></span>
 
 <span class="verse" id="v22"><sup class="verse-num">22</sup> <em>When</em><em> I spoke, they had nothing to </em><em>add;</em> <em>what I said was sufficient for them.</em></span>
 
@@ -55,7 +62,8 @@ weight: 29
 
 <span class="verse" id="v24"><sup class="verse-num">24</sup> <em>I</em><em> smiled at them when they weren’t sure what to </em><em>do;</em> <em>they valued my approval.</em></span>
 
-<span class="verse" id="v25"><sup class="verse-num">25</sup> <em>I</em><em> told them what course of action to take </em> <em>and sat as </em>their<em> </em><em>chief;</em> <em>I lived like a king among his troops,</em> <em>like somebody that comforted mourners.</em><strong>	</strong><strong>Job 29:21-25</strong></span>
+<span class="verse" id="v25"><sup class="verse-num">25</sup> <em>I</em><em> told them what course of action to take </em> <em>and sat as </em>their<em> </em><em>chief;</em> <em>I lived like a king among his troops,</em> <em>like somebody that comforted mourners.</span>
+<p class="section-ref">Job 29:21-25</p>
 
 
 <style>

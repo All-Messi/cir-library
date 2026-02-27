@@ -3,7 +3,7 @@ book: Deuteronomy
 chapters: 34
 title: Deuteronomy
 translation: CNT
-type: scripture
+type: book
 weight: 5
 ---
 

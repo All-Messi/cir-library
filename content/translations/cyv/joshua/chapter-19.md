@@ -11,6 +11,8 @@ weight: 19
 
 ## Joshua Chapter 19
 
+### Allotment to Simeon
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> The second lot came out for <strong>Simeon</strong> by clans. Its inheritance was inside Judah. <strong><sup>2</sup></strong>It had Beer-sheba, Sheba, Moladah, <strong><sup>3</sup></strong>Hazarshual, Balah, Ezem, <strong><sup>4</sup></strong>Eltolad, Bethul, Hormah, <strong><sup>5</sup></strong>Ziklag, Beth-marcaboth, Hazar-susah, <strong><sup>6</sup></strong>Beth-lebaoth, Sharuhen—13 towns with their villages.</span>
 
 <span class="verse" id="v7"><sup class="verse-num">7</sup> Ain, Rimmon, Ether, Ashan—4 towns with their villages, <strong><sup>8</sup></strong>and the villages around those towns as far as Baalath-beer, Ramah in the Negev. That was Simeon’s inheritance by clans. <strong><sup>9</sup></strong>They took his territory out of Judah’s, because Judah’s share was too big.</span>
@@ -19,7 +21,7 @@ weight: 19
 ### Allotment to Zebulun
 
 
-<span class="verse" id="v10"><strong><sup>0</sup></strong>The third lot came out for <strong>Zebulun</strong> by clans. The territory went as far as Sarid. <strong><sup>11</sup></strong>Then their border passed up to the west to Maralah, touched Dabbesheth, and reached the stream east of Jokneam. <strong><sup>12</sup></strong>It turned from Sarid east as far as the border of Chisloth-tabor, proceeded to Daberath and up to Japhia. <strong><sup>13</sup></strong>It continued east to Gath-hepher, to Eth-kazin, and on to Rimmon that stretches to Neah. <strong><sup>14</sup></strong>The border on the north turned to Hannathon and ended at the Valley of Iphtahel. <strong><sup>15</sup></strong>It included Kattah, Nahalal, Shimron, Idalah, Bethlehem—12 towns with their villages. <strong><sup>16</sup></strong>That was Zebulun’s inheritance by clans. <strong>Allotment to I</strong><strong>ssachar</strong></span>
+<span class="verse" id="v10"><sup class="verse-num">10</sup> The third lot came out for <strong>Zebulun</strong> by clans. The territory went as far as Sarid. <strong><sup>11</sup></strong>Then their border passed up to the west to Maralah, touched Dabbesheth, and reached the stream east of Jokneam. <strong><sup>12</sup></strong>It turned from Sarid east as far as the border of Chisloth-tabor, proceeded to Daberath and up to Japhia. <strong><sup>13</sup></strong>It continued east to Gath-hepher, to Eth-kazin, and on to Rimmon that stretches to Neah. <strong><sup>14</sup></strong>The border on the north turned to Hannathon and ended at the Valley of Iphtahel. <strong><sup>15</sup></strong>It included Kattah, Nahalal, Shimron, Idalah, Bethlehem—12 towns with their villages. <strong><sup>16</sup></strong>That was Zebulun’s inheritance by clans. 	<strong>Allotment to I</strong><strong>ssachar</strong></span>
 
 <span class="verse" id="v17"><sup class="verse-num">17</sup> The fourth lot fell to <strong>Issachar</strong> by clans. <strong><sup>18</sup></strong>Their territory included Jezreel, Chesulloth, Shunem, <strong><sup>19</sup></strong>Hapharaim, Shion, Anaharath, <strong><sup>20</sup></strong>Rabbith, Kishion, Ebez, <strong><sup>21</sup></strong>Remeth, En-gannim, En-haddah, Beth-pazzez. <strong><sup>22</sup></strong>The border reached Tabor, Shahazumah, Beth-shemesh, and ended at the Jordan—16 towns with their villages. <strong><sup>23</sup></strong>That was Issachar’s inheritance by clans.</span>
 <p class="section-ref">Josh 19:10-23</p>
@@ -42,7 +44,7 @@ weight: 19
 ### Allotment to Joshua
 
 
-<span class="verse" id="v49"><strong><sup>9</sup></strong>When they finished dividing up the land, the Israelites gave Joshua an inheritance. <strong><sup>50</sup></strong>In accordance with Yahveh’s command, they gave him the city he asked for, Timnath-serah in the hill country of Ephraim. He rebuilt the city and settled in it.</span>
+<span class="verse" id="v49"><sup class="verse-num">49</sup> When they finished dividing up the land, the Israelites gave Joshua an inheritance. <strong><sup>50</sup></strong>In accordance with Yahveh’s command, they gave him the city he asked for, Timnath-serah in the hill country of Ephraim. He rebuilt the city and settled in it.</span>
 
 
 <style>

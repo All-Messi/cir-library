@@ -10,15 +10,22 @@ weight: 10
 
 ## Ezra Chapter 10
 
+### The People Confess Their Sins
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> While Ezra was praying and confessing, crying and prostrating himself in front of God’s Temple, a big crowd of men, women, and children gathered around him, sobbing with him. <strong><sup>2</sup></strong>Shecaniah son of Jehiel, one of Elam’s sons, told him, <em>“We’ve been unfaithful to our God and marr</em><em>ied foreign women from the land. B</em><em>ut there’s still hope for Israel.</em><em> </em><strong><sup>3</sup></strong><em>Let’s</em><em> make a covenant with God to put away the wives and their children</em><em> as you’ve advised</em><em> </em><em>and do it according to the L</em><em>aw.</em><em> </em><strong><sup>4</sup></strong><em>Get</em><em> up!</em><em> </em><em>This is your responsibility</em><em>. W</em><em>e’ll be wit</em><em>h you. Hav</em><em>e </em><em>the </em><em>courage </em><em>to</em><em> </em><em>do it</em><em>.”</em></span>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> Ezra got up and made the leading priests, Levites, and all Israel swear that they’d adopt that proposal. They took the oath. <strong><sup>6</sup></strong>Then he went from in front of God’s Temple to the room of Jehohanan son of Eliashib. He didn’t eat or drink; he was mourning over the exiles’ unfaithfulness. <strong><sup>7</sup></strong>They issued a proclamation for the exiles throughout Judah and Jerusalem to assemble at Jerusalem. <strong><sup>8</sup></strong>Whoever wouldn’t come within three days like the leaders and elders said, would forfeit his possessions and be excluded from the community of exiles.<strong>	 </strong><strong>Ezra 10:1-8</strong></span>
+<span class="verse" id="v5"><sup class="verse-num">5</sup> Ezra got up and made the leading priests, Levites, and all Israel swear that they’d adopt that proposal. They took the oath. <strong><sup>6</sup></strong>Then he went from in front of God’s Temple to the room of Jehohanan son of Eliashib. He didn’t eat or drink; he was mourning over the exiles’ unfaithfulness. <strong><sup>7</sup></strong>They issued a proclamation for the exiles throughout Judah and Jerusalem to assemble at Jerusalem. <strong><sup>8</sup></strong>Whoever wouldn’t come within three days like the leaders and elders said, would forfeit his possessions and be excluded from the community of exiles.</span>
+<p class="section-ref">Ezra 10:1-8</p>
 
 <span class="verse" id="v9"><sup class="verse-num">9</sup> The men of Judah and Benjamin gathered in the three days. It was the<strong> twentieth day,</strong> <strong>ninth month</strong>, and the people sat down in the open square in front of God’s Temple. They were shivering because of this matter and the heavy rain. <strong><sup>10</sup></strong>Ezra stood up and said, <em>“You’ve been unfaithful </em><em>in marrying</em><em> foreign wives</em><em> and adding</em><em> to </em><em>Israel’s</em><em> guilt.</em><em> </em><strong><sup>11</sup></strong><em>C</em><em>onfess</em><em> to the </em><em>L</em><em>ORD</em><em> God of your ancestors, do his will, </em><em>and separate from the native people </em><em>and </em>your<em> foreign wives.”</em></span>
 
 <span class="verse" id="v12"><sup class="verse-num">12</sup> The whole assembly answered out loud<em>, </em> <em>“That’s true! We have to do </em><em>that</em><em>.</em><em> </em><strong><sup>13</sup></strong><em>But</em><em> there are lots of people her</em><em>e</em><em>, it’s </em><em>raining</em><em>, and we can’t stand outside.</em><em> </em><em>We can’</em><em>t take care of this</em><em> problem in a day or two</em><em>;</em><em> </em><em>a lot</em><em> of us have </em><em>sinned</em><em> in this.</em><em> </em><strong><sup>14</sup></strong><em>Have</em><em> leaders represent the assembly and </em><em>have </em><em>the ones in our </em><em>towns</em><em> that have foreign wives </em><em>meet</em><em> at </em><em>scheduled</em><em> tim</em><em>es with the elders and judges in</em><em> each city till</em><em> God’s fierce anger turns</em><em> away.”</em><em> </em></span>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> Only Jonathan son of Asahel and Jahzeiah son of Tikvah opposed it. Meshullam and Shabbethai the Levite supported it.<strong>	</strong><strong>	  </strong><strong>Ezra 10:9-15</strong> <strong>Men Guilty of Intermarriage</strong></span>
+<span class="verse" id="v15"><sup class="verse-num">15</sup> Only Jonathan son of Asahel and Jahzeiah son of Tikvah opposed it. Meshullam and Shabbethai the Levite supported it.</span>
+<p class="section-ref">Ezra 10:9-15</p>
+
+### Men Guilty of Intermarriage
+
 
 <span class="verse" id="v16"><sup class="verse-num">16</sup> The exiles agreed. Ezra selected leaders of each family by name. They met <strong>on </strong><strong>first day, tenth month</strong>, to look into the matter. <strong><sup>17</sup></strong>By the <strong>first day, first month</strong>, they’d finished dealing with the men that had married foreign wives.</span>
 
@@ -32,7 +39,8 @@ weight: 10
 
 <span class="verse" id="v23"><sup class="verse-num">23</sup> <u>among</u><u> the Levites</u>: Jozabad, Shimei, Kelaiah (Kelita), Pethahiah, Judah, and Eliezer.</span>
 
-<span class="verse" id="v24"><sup class="verse-num">24</sup> <u>among</u><u> the singers</u>: Eliashib; <u>among the gatekeepers</u>: Shallum, Telem, and Uri;<strong>	</strong><strong>	  </strong><strong>Ezra 10:16-24</strong></span>
+<span class="verse" id="v24"><sup class="verse-num">24</sup> <u>among</u><u> the singers</u>: Eliashib; <u>among the gatekeepers</u>: Shallum, Telem, and Uri;</span>
+<p class="section-ref">Ezra 10:16-24</p>
 
 <span class="verse" id="v25"><sup class="verse-num">25</sup> <u>among</u><u> the Israelites</u>: from the family of Parosh: Ramiah, Izziah, Malchijah, Mijamin, Eleazar, Malchijah, and Benaiah;</span>
 
@@ -54,7 +62,8 @@ weight: 10
 
 <span class="verse" id="v43"><sup class="verse-num">43</sup> from the family of Nebo: Jeiel, Mattithiah, Zabad, Zebina, Jaddai, Joel, and Benaiah.</span>
 
-<span class="verse" id="v44"><sup class="verse-num">44</sup> Those had married foreign wives, and some had children by them.<strong> </strong><strong>	    </strong><strong>Ezra 10:25-44</strong> Version by Virgil Warren: christir.org</span>
+<span class="verse" id="v44"><sup class="verse-num">44</sup> Those had married foreign wives, and some had children by them.<strong></span>
+<p class="section-ref">Ezra 10:25-44</p>
 
 
 <style>

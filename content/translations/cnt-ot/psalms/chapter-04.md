@@ -11,6 +11,8 @@ weight: 4
 
 ## Psalms Chapter 4
 
+### with Stringed Instruments
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Righteous God, answer when I call! Take time for me in my distress; listen graciously to my prayer.</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> People, how long will you try to ruin my reputation? How long will you love unfounded accusations and outright lies?</span>
@@ -28,9 +30,6 @@ weight: 4
 
 <span class="verse" id="v8"><sup class="verse-num">8</sup> I lie down to sleep in peace because you make me able to live safely.</span>
 <p class="section-ref">Ps 4:4-8</p>
-
-### with Flute Accompaniment
-
 
 
 <style>

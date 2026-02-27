@@ -10,10 +10,9 @@ weight: 1
 
 ## 1 John Chapter 1
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> What was from the beginning, what we’ve heard and seen, what we’ve observed and touched about the living message—<strong><sup>2</sup></strong>the eternal life that was with the Father and he revealed to us—that’s what <strong><sup>3</sup></strong>we’re passing along to you so we can have it in common with you as well as with the Father and his Son Jesus Christ<sup>Messiah</sup>. <strong><sup>4</sup></strong>We’re writing these things <em>to you </em>to fully share our joy.</span>
-<p class="section-ref">1 Jn 1:1-4</p>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> <strong> Jn 1:5-10</strong> 	<strong>Christ Our Advocate</strong></span>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> The message is that God is light; there’s no darkness in him at all. <strong><sup>6</sup></strong>If we claim to be in fellowship with him and live in the dark, we’re lying and not practicing the truth. <strong><sup>7</sup></strong>If we live in the light with him, we have fellowship with each other, and the blood of his Son continues to cleanse us from sin.  <strong><sup>8-</sup></strong><strong><sup>10</sup></strong>If we claim we don’t have any sin, we deceive ourselves and make God a liar. If we admit we’ve sinned, we can trust him to be just and forgive us of everything. <strong>1 Jn 1:5-10</strong> <strong>Christ Our Advocate</strong></span>
+<span class="verse" id="v5"><sup class="verse-num">5</sup> The message is that God is light; there’s no darkness in him at all. <strong><sup>6</sup></strong>If we claim to be in fellowship with him and live in the dark, we’re lying and not practicing the truth. <strong><sup>7</sup></strong>If we live in the light with him, we have fellowship with each other, and the blood of his Son continues to cleanse us from sin.  <strong><sup>8-</sup></strong><strong><sup>10</sup></strong>If we claim we don’t have any sin, we deceive ourselves and make God a liar. If we admit we’ve sinned, we can trust him to be just and forgive us of everything.</span>
 
 
 <style>

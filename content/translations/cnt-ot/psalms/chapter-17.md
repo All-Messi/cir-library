@@ -11,6 +11,8 @@ weight: 17
 
 ## Psalms Chapter 17
 
+### A Prayer of David
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> LORD; listen to my call for justice; pay attention to my sincere prayer.</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> Declare me innocent because you see that I’m righteous.</span>
@@ -43,9 +45,6 @@ weight: 17
 
 <span class="verse" id="v15"><sup class="verse-num">15</sup> But because I’m righteous, I’ll be satisfied by seeing you when I wake up.</span>
 <p class="section-ref">Ps 17:13-15</p>
-
-### the LORD’s servant, who sang this song to him when he delivered him from his enemies and from Saul He said,
-
 
 
 <style>

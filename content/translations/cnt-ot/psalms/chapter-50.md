@@ -61,9 +61,6 @@ weight: 50
 <span class="verse" id="v23"><sup class="verse-num">23</sup> Giving thanks is the sacrifice that honors me; I’ll show you my deliverance if you keep to my path.”</span>
 <p class="section-ref">Ps 50:22-23</p>
 
-### Psalm for the Choir Director. A Psalm of David, When Nathan the Prophet Came to Him, After He’d Slept with Bathsheba
-
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

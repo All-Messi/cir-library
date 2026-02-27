@@ -11,6 +11,8 @@ weight: 2
 
 ## Joshua Chapter 2
 
+### Rahab and the Spies
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Joshua sent two men secretly from Shittim to<em> </em>check out the land, Jericho in particular<em>.</em><em> </em>They went to the house of a harlot named Rahab to lodge. <strong><sup>2</sup></strong>The king of Jericho heard about it, <em>“Some men from Israel have come here tonight to spy out the land</em><em>.”</em><strong><sup> </sup></strong><strong><sup>3</sup></strong>He sent to Rahab, <em>“Bring the m</em><em>en that have come to your house. They’re spies</em><em>.”</em> <strong><sup>4</sup></strong>But the woman had hidden them, <em>“</em><em>M</em><em>en </em><em>did come, but I didn’t know where they </em><em>came</em><em> from.</em><em> </em><strong><sup>5</sup></strong><em>They left w</em><em>hen the gate </em><em>closed</em><em> at dark.</em><em> </em><em>I don’t know where they went.</em><em> Follow them right away so y</em><em>ou can catch</em><em> </em><em>up with them.”</em> <strong><sup>6</sup></strong>But she’d taken them up to the roof and hidden them under stalks of flax. <strong><sup>7</sup></strong>The men pursued them toward the Jordan as far as the fords. As soon as they left, the gate was shut.</span>
 <p class="section-ref">Josh 2:1-7</p>
 
@@ -18,16 +20,15 @@ weight: 2
 
 <span class="verse" id="v14"><sup class="verse-num">14</sup> They said, <em>“Our life for yours! If you don’t tell </em><em>why we’re here</em><em>, </em><em>you can trust us to</em><em> deal </em><em>gracious</em><em>ly with you when the </em><em>L</em><em>ORD</em><em> gives us the land.”</em><em> </em></span>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> Her house was built against the city wall. She let them down by a rope through the window and <strong><sup>16</sup></strong>told them, <em>“Go</em><em> up into the hills</em><em> so </em><em>you won’t run into </em><em>the </em><em>ones that are searching for you</em><em>.</em><em> Hide there three days till they</em><em> </em><em>get back</em><em>.</em><em> </em><em>Then you</em><em>’ll be able to</em><em> go.”</em><strong></span>
+<span class="verse" id="v15"><sup class="verse-num">15</sup> Her house was built against the city wall. She let them down by a rope through the window and <strong><sup>16</sup></strong>told them, <em>“Go</em><em> up into the hills</em><em> so </em><em>you won’t run into </em><em>the </em><em>ones that are searching for you</em><em>.</em><em> Hide there three days till they</em><em> </em><em>get back</em><em>.</em><em> </em><em>Then you</em><em>’ll be able to</em><em> go.”</span>
 <p class="section-ref">Josh 2:8-16</p>
 
 <span class="verse" id="v17"><sup class="verse-num">17</sup> They said, <em>“We won’t be guilty of the oath you had us swear. </em><strong><sup>18</sup></strong><em>When we come, tie this scarlet cord in the window you let us down through. Get your parents, brothers, and father’s family into the house. </em><strong><sup>19</sup></strong><em>If any of them goes out into the street, their blood’s on themselves. But if a hand is laid on anybody that’s in the house with you, that person’s blood’s on us. </em><strong><sup>20</sup></strong><em>If you tell why we’re here, we won’t be obligated by the oath.” </em></span>
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> They went into the hills for three days till the ones that were looking for them got back. They’d looked all along the road and didn’t find anything. <strong><sup>23</sup></strong>Then the two men came back down from the hills and crossed over to Joshua. They told him what all had happened, <strong><sup>24</sup></strong><em>“The </em><em>L</em><em>ORD</em><em> has for sure delivered the land to us. The inhabitants have lost heart over us.”</em><strong> </strong><strong></span>
+<span class="verse" id="v21"><sup class="verse-num">21</sup> <em>“All right.” </em> She sent them away and tied the scarlet cord in the window.<strong>	</strong><strong>	</strong><strong>	       </strong></span>
+
+<span class="verse" id="v22"><sup class="verse-num">22</sup> They went into the hills for three days till the ones that were looking for them got back. They’d looked all along the road and didn’t find anything. <strong><sup>23</sup></strong>Then the two men came back down from the hills and crossed over to Joshua. They told him what all had happened, <strong><sup>24</sup></strong><em>“The </em><em>L</em><em>ORD</em><em> has for sure delivered the land to us. The inhabitants have lost heart over us.”</em><strong></span>
 <p class="section-ref">Josh 2:17-24</p>
-
-### Crossing the Jordan
-
 
 
 <style>

@@ -11,6 +11,8 @@ weight: 42
 
 ## Psalms Chapter 42
 
+### A Maskil of the Sons of Korah
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> My soul pants for God like a deer pants for water.</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> My soul is thirsty for the living God; when will I ever see him?</span>

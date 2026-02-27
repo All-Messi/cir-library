@@ -20,9 +20,6 @@ weight: 2
 <span class="verse" id="v13"><sup class="verse-num">13</sup> <u>We</u>’re always obliged to thank God for you, family of Christ the Lord loves, because God chose you to be the firstfruits of salvation by believing the truth and by the holiness the Spirit brings. <strong><sup>14</sup></strong>He called you to that <em>truth</em> by the good news we delivered, which is for obtaining the honor our Lord Jesus Christ has. <strong><sup>15</sup></strong>So, stand firm; hold onto the traditions we taught you by word and letter. <strong><sup>16</sup></strong>Now may our Lord Jesus Christ and God our Father—who loved us and gave <em>us</em> eternal comfort and good hope in grace—<strong><sup>17</sup></strong>comfort you and strengthen <em>you</em> in every good thing you do and say.</span>
 <p class="section-ref">2 Th 2:13-17</p>
 
-### Request for Prayer
-
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

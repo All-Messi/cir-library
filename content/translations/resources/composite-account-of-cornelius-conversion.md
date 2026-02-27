@@ -2,7 +2,7 @@
 author: Virgil Warren, PhD
 categories:
 - Bible Resources
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: COMPOSITE ACCOUNT OF CORNELIUS’ CONVERSION
 weight: 1

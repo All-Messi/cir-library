@@ -19,15 +19,15 @@ weight: 30
 
 <span class="verse" id="v4"><sup class="verse-num">4</sup> Lemuel, it’s not for kings to guzzle wine or for rulers to get addicted to alcohol;</span>
 
-<span class="verse" id="v5"><strong><sup>5</sup></strong>the fear is that they’ll forget the Law and not give justice to the oppressed.</span>
+<span class="verse" id="v5"><sup class="verse-num">5</sup> the fear is that they’ll forget the Law and not give justice to the oppressed.</span>
 
 <span class="verse" id="v6"><sup class="verse-num">6</sup> Give alcohol to the dying and wine to those in pain;</span>
 
-<span class="verse" id="v7"><strong><sup>7</sup></strong>let them drink and forget their condition, and not remember their suffering anymore.</span>
+<span class="verse" id="v7"><sup class="verse-num">7</sup> let them drink and forget their condition, and not remember their suffering anymore.</span>
 
 <span class="verse" id="v8"><sup class="verse-num">8</sup> Speak up for those who can’t speak for themselves;</span>
 
-<span class="verse" id="v9"><strong><sup>9</sup></strong>judge justly and defend the poor and needy.</span>
+<span class="verse" id="v9"><sup class="verse-num">9</sup> judge justly and defend the poor and needy.</span>
 <p class="section-ref">Prov 31:1-9</p>
 
 ### Tribute to a Worthy Woman
@@ -45,7 +45,8 @@ weight: 30
 
 <span class="verse" id="v15"><sup class="verse-num">15</sup> She gets up before daylight to feed her family and assign the day’s jobs to her maids.</span>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> She inspects a field and buys it, and plants a vineyard from her earnings.<strong>	</strong><strong>Prov 31:10-16</strong></span>
+<span class="verse" id="v16"><sup class="verse-num">16</sup> She inspects a field and buys it, and plants a vineyard from her earnings.</span>
+<p class="section-ref">Prov 31:10-16</p>
 
 <span class="verse" id="v17"><sup class="verse-num">17</sup> She wraps her waist with strength and makes her arms strong.</span>
 
@@ -72,19 +73,17 @@ weight: 30
 
 <span class="verse" id="v28"><sup class="verse-num">28</sup> Her children grow up and bless her; her husband, too, and praises her:</span>
 
-<span class="verse" id="v29"><strong><sup>29</sup></strong><em>“</em><em>Lots</em><em> of</em><em> </em><em>women</em><em> </em><em>do</em><em> nobly,</em> <em>	</em><em>	</em><em>but you excel them all.”</em></span>
+<span class="verse" id="v29"><sup class="verse-num">29</sup> <em>“</em><em>Lots</em><em> of</em><em> </em><em>women</em><em> </em><em>do</em><em> nobly,</em> <em>	</em><em>	</em><em>but you excel them all.”</em></span>
 
 <span class="verse" id="v30"><sup class="verse-num">30</sup> Charm is deceitful and beauty is vain, but praise a woman that respects Yahveh.</span>
 
-<span class="verse" id="v31"><sup class="verse-num">31</sup> Reward her for what she does, and let her work speak for her in the community.<strong>	</strong><strong>Prov 31:23-31</strong> Version by Virgil Warren: christir.org</span>
+<span class="verse" id="v31"><sup class="verse-num">31</sup> Reward her for what she does, and let her work speak for her in the community.</span>
+<p class="section-ref">Prov 31:23-31</p>
 
 <span class="verse" id="v32"><sup class="verse-num">32</sup> If you’ve been foolish by acting proud or putting other people down, cover your mouth in shame.</span>
 
-<span class="verse" id="v33"><sup class="verse-num">33</sup> As churning cream makes butter and punching a nose makes it bleed, so stirring up anger causes quarrels.<strong></span>
+<span class="verse" id="v33"><sup class="verse-num">33</sup> As churning cream makes butter and punching a nose makes it bleed, so stirring up anger causes quarrels.</span>
 <p class="section-ref">Prov 30:29-33</p>
-
-### 31;1The Words of King Lemuel The Oracle His Mother Taught Him
-
 
 
 <style>

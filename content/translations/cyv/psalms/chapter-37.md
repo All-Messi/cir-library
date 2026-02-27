@@ -98,9 +98,6 @@ weight: 37
 <span class="verse" id="v40"><sup class="verse-num">40</sup> Yahveh helps them and delivers them, protects them from sinners and saves them because they take refuge in him.</span>
 <p class="section-ref">Ps 37:35-40</p>
 
-### for a Memorial
-
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

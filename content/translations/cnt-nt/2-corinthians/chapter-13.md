@@ -10,6 +10,8 @@ weight: 13
 
 ## 2 Corinthians Chapter 13
 
+### Self-Examination Before God
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> This will be the third time I’m coming to you.<strong><em> </em></strong><strong><em>“</em></strong><strong><em>Establish everything b</em></strong><strong><em>y</em></strong><strong><em> two or three witnesses</em></strong><strong><em>”</em></strong><strong><em> </em></strong><strong>[Deut</strong><strong> 19:15].</strong><strong><em> </em></strong><strong><sup>2</sup></strong>The second time I was there I said this—and I say it again to the ones that sinned previously and to the rest—if I come again, I won’t hold back, <strong><sup>3</sup></strong>because you’re looking for proof that Christ is speaking in me. He’s not weak toward you but is strong among you. <strong><sup>4</sup></strong>Indeed, he was crucified out of weakness, but lives by God’s power. We’re weak in him too, but we’ll live with him by God’s power <em>that’s </em><em>directed</em> at you.</span>
 <p class="section-ref">2 Cor 13:1-4</p>
 
@@ -19,10 +21,12 @@ weight: 13
 ### Final Greetings
 
 
-<span class="verse" id="v11"><strong><sup>1</sup></strong>Finally, rejoice, strive for perfection, be comforted, live in harmony and peace, and the God of love and peace will be with you. <strong><sup>12</sup></strong>Greet one another with a holy kiss. <strong><sup>(</sup></strong><strong><sup>13</sup></strong><strong><sup>)</sup></strong>All the saints greet you. <strong><sup>13(14</sup></strong><strong><sup>)</sup></strong>The grace of the Lord Jesus Christ, the love of God, and the fellowship of the Holy Spirit <em>be</em> with you all.</span>
+<span class="verse" id="v11"><sup class="verse-num">11</sup> Finally, rejoice, strive for perfection, be comforted, live in harmony and peace, and the God of love and peace will be with you. <strong><sup>12</sup></strong>Greet one another with a holy kiss. <strong><sup>(</sup></strong><strong><sup>13</sup></strong><strong><sup>)</sup></strong>All the saints greet you.</span>
+
+<span class="verse" id="v13"><strong><sup>(14</sup></strong><strong><sup>)</sup></strong>The grace of the Lord Jesus Christ, the love of God, and the fellowship of the Holy Spirit <em>be</em> with you all.</span>
 <p class="section-ref">2 Cor 13:11-13</p>
 
-### (14) Translator: Virgil Warren christir.org
+### (14)
 
 
 

@@ -2280,3 +2280,42 @@ strong em .verse-num {
     white-space: pre-wrap;
     word-wrap: break-word;
 }
+
+/* ============================================
+   PDF DOWNLOAD LINK
+   ============================================ */
+.essay-actions {
+    margin-top: 0.75rem;
+}
+
+.pdf-download {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--color-text-muted, #888);
+    text-decoration: none;
+    border: 1px solid var(--color-border, #e5e5e5);
+    border-radius: 6px;
+    padding: 0.3rem 0.65rem;
+    transition: all 0.15s ease;
+    letter-spacing: 0.03em;
+}
+
+.pdf-download:hover {
+    color: var(--color-accent, #9c7c38);
+    border-color: var(--color-accent, #9c7c38);
+    background: var(--color-bg-alt, #f9f9f9);
+}
+
+.pdf-download svg {
+    flex-shrink: 0;
+}
+
+/* Toolbar variant (chapter reader) */
+.pdf-btn .pdf-label {
+    font-size: 0.8rem;
+    letter-spacing: 0.04em;
+}

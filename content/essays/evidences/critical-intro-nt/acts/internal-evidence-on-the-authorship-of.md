@@ -4,7 +4,7 @@ categories:
 - Evidences
 - Critical Intro Nt
 - Acts
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: INTERNAL EVIDENCE ON THE AUTHORSHIP OF
 weight: 3

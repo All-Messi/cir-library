@@ -18,7 +18,7 @@ weight: 5
 
 <span class="verse" id="v5"><sup class="verse-num">5</sup> A widow that’s by herself has put her hope in God and continues in prayers and thanksgiving day and night. <strong><sup>6</sup></strong>But one that lives in self-interest is dead while she’s alive. <strong><sup>7</sup></strong>Tell <em>widows</em> to be above criticism.</span>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> If people don’t take care of their own, especially <em>their </em>family, they’ve denied the faith; they’re worse than disbelievers.<strong> </strong><strong>  </strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong></span>
+<span class="verse" id="v8"><sup class="verse-num">8</sup> If people don’t take care of their own, especially <em>their </em>family, they’ve denied the faith; they’re worse than disbelievers.<strong> </strong><strong></span>
 <p class="section-ref">1 Tim 5:3-8</p>
 
 ### Guidelines for Welfare Recipients
@@ -44,7 +44,8 @@ weight: 5
 
 <span class="verse" id="v23"><sup class="verse-num">23</sup> Don’t <em>just </em>drink water; use a little wine for your frequent bouts with an upset stomach.</span>
 
-<span class="verse" id="v24"><sup class="verse-num">24</sup> Some people’s sins are obvious as they lead them into condemnation. <em>Other people’s sins</em> become obvious <em>later</em>. <strong><sup>25</sup></strong>It works the same way with good things. The ones that aren’t <em>obvious</em> will become obvious someday<em>.   </em><em>	 </em><strong>1 Tim 5:17-25</strong> <strong>Servant-Master Relationship</strong></span>
+<span class="verse" id="v24"><sup class="verse-num">24</sup> Some people’s sins are obvious as they lead them into condemnation. <em>Other people’s sins</em> become obvious <em>later</em>. <strong><sup>25</sup></strong>It works the same way with good things. The ones that aren’t <em>obvious</em> will become obvious someday<em>.</span>
+<p class="section-ref">1 Tim 5:17-25</p>
 
 
 <style>

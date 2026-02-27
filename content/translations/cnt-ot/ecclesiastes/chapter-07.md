@@ -21,11 +21,12 @@ weight: 7
 
 <span class="verse" id="v5"><sup class="verse-num">5</sup> It’s better to listen to a rebuke from the wise than be regaled by the songs of a fool.</span>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> A fool’s laughter doesn’t last long; it’s like thorns crackling under a <em>heating </em>pot: it’s pointless.<strong>	</strong><strong>Eccl 7:1-6</strong></span>
+<span class="verse" id="v6"><sup class="verse-num">6</sup> A fool’s laughter doesn’t last long; it’s like thorns crackling under a <em>heating </em>pot: it’s pointless.</span>
+<p class="section-ref">Eccl 7:1-6</p>
 
 <span class="verse" id="v7"><sup class="verse-num">7</sup> Oppression can turn the wise into fools; bribes corrupt their heart.</span>
 
-<span class="verse" id="v8"><strong><sup>8</sup></strong>Finishing is better than starting; patience is better than pride.</span>
+<span class="verse" id="v8"><sup class="verse-num">8</sup> Finishing is better than starting; patience is better than pride.</span>
 
 <span class="verse" id="v9"><sup class="verse-num">9</sup> Don’t get mad quick, because anger thrives in the chest of fools.</span>
 
@@ -33,7 +34,7 @@ weight: 7
 
 <span class="verse" id="v11"><sup class="verse-num">11</sup> Wisdom plus inheritance is good; it’s an advantage to those who see the sun.</span>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> Protecting knowledge is like protecting money, but only knowledge can save your life.<strong> </strong><strong>	</strong><strong>	</strong><strong></span>
+<span class="verse" id="v12"><sup class="verse-num">12</sup> Protecting knowledge is like protecting money, but only knowledge can save your life.<strong></span>
 <p class="section-ref">Eccl 7:7-12</p>
 
 <span class="verse" id="v13"><sup class="verse-num">13</sup> Think about what God does; who can straighten out what he bends?<strong>	</strong></span>
@@ -52,6 +53,9 @@ weight: 7
 <p class="section-ref">Eccl 7:13-22</p>
 
 <span class="verse" id="v23"><sup class="verse-num">23</sup> I determined I’d be wise about everything, but I couldn’t do it. <strong><sup>24</sup></strong>No one can figure out what’s distant and deep. <strong><sup>25</sup></strong>I set my mind to knowing, investigating, looking for wisdom and explanation, to identifying sinfulness, foolishness, and folly. <strong><sup>26</sup></strong>I discovered more bitter than death is a woman whose heart is a snare, whose hands are chains.</span>
+
+<span class="verse" id="v27"><sup class="verse-num">27</sup> <em>“</em><em>Here’s</em><em> something </em><em>I’</em><em>ve discovered</em><em>,”</em> the Preacher says, <em>“combining one thing with another to </em><em>reach a conclusion</em><em>, </em><strong><sup>28</sup></strong><em>something</em><em> I’m still looking for and haven’t found.</em><em> </em><em>I’ve found </em><em>a</em><em> man among </em><em>a thousand</em><em>, but I haven’t found a woman among them.</em><em> </em><strong><sup>29</sup></strong><em>I’ve</em><em> fou</em><em>nd only this: God made people</em><em> </em><em>godly</em><em>, but they’ve sought out </em>their own<em> ways</em><em>.”</em><strong></span>
+<p class="section-ref">Eccl 7:23-29</p>
 
 
 <style>

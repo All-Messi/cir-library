@@ -11,6 +11,8 @@ weight: 6
 
 ## Psalms Chapter 6
 
+### with Stringed Instruments; Set to The Sheminith [To the Eight-String Lyre]
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Don’t lash out at me, Yahveh, or take me to task in your anger.</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> Be gracious to me because I’m weak; heal me because I’m troubled deep inside.</span>
@@ -32,9 +34,6 @@ weight: 6
 
 <span class="verse" id="v10"><sup class="verse-num">10</sup> He’ll disgrace my enemies and greatly distress them; they’ll suddenly retreat, humiliated.</span>
 <p class="section-ref">Ps 6:6-10</p>
-
-### A Shiggaion of David that He Sang to Yahveh About Cush a Benjamite
-
 
 
 <style>

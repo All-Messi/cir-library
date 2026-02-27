@@ -3,7 +3,7 @@ book: 1 Timothy
 chapters: 6
 title: 1 Timothy
 translation: WNT
-type: scripture
+type: book
 weight: 54
 ---
 

@@ -5,7 +5,7 @@ categories:
 - Christian Doctrine
 - Mankind Anthropology
 - Depravity
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: SUMMARY STATEMENT ON NATURAL DEPRAVITY
 weight: 4

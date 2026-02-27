@@ -4,7 +4,7 @@ categories:
 - Topics
 - Basic Christianity
 - Book
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: THE INTERPERSONAL CHARACTER OF CHRISTIANITY
 weight: 3

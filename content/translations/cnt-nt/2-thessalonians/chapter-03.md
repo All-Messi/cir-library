@@ -10,6 +10,8 @@ weight: 3
 
 ## 2 Thessalonians Chapter 3
 
+### Request for Prayer
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Finally, pray for us that the Lord’s message can make progress and be honored like <em>it has</em> with you. <strong><sup>2</sup></strong>Pray for God to deliver us from harmful, evil people, because not everybody believes. <strong><sup>3</sup></strong>But, the Lord is faithful; he’ll strengthen you and keep <em>you</em> from the evil one. <strong><sup>4</sup></strong>We’re confident in the Lord that you’re doing and will do what we tell you. <strong><sup>5</sup></strong>May the Lord direct you to God’s love and the endurance that Christ gives you.</span>
 <p class="section-ref">2 Th 3:1-5</p>
 
@@ -22,15 +24,12 @@ weight: 3
 ### Farewell
 
 
-<span class="verse" id="v16"><strong><sup>6</sup></strong>Now may the Lord that brings peace give you peace in every situation. The Lord <em>be</em> with you.</span>
+<span class="verse" id="v16"><sup class="verse-num">16</sup> Now may the Lord that brings peace give you peace in every situation. The Lord <em>be</em> with you.</span>
 
 <span class="verse" id="v17"><sup class="verse-num">17</sup> The salutation with my own hand—an identifying mark in every letter <em>I write</em>. This is what my handwriting looks like.</span>
 
 <span class="verse" id="v18"><sup class="verse-num">18</sup> The grace of our Lord Jesus Christ <em>be</em> with you.</span>
 <p class="section-ref">2 Th 3:16-18</p>
-
-### Translator: Virgil Warren     								         christir.org
-
 
 
 <style>

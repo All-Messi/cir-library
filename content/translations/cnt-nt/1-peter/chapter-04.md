@@ -11,6 +11,8 @@ weight: 4
 
 ## 1 Peter Chapter 4
 
+### Good News Presented to the Dead
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Christ suffered; so arm yourselves with the attitude he took, because suffering purifies from sin. <strong><sup>2</sup></strong>You won’t be living the rest of your life by human desires, but by God’s will. <strong><sup>3</sup></strong>You spent enough time following the pattern of life the Gentiles carry on: a lifestyle of sensuality, lust, drunkenness, revelry, drunken parties, disgusting idolatry. <strong><sup>4</sup></strong>They’re surprised that you don’t run with them in that excessive, reckless living; and they slander you for it. <strong><sup>5</sup></strong>They’ll give account to the One who’s set to judge the living and the dead. <strong><sup>6</sup></strong>In that connection, the good news was presented even to the dead so they’d be judged like the living who live according to God in the spirit.</span>
 <p class="section-ref">1 Pet 4:1-6</p>
 
@@ -23,13 +25,12 @@ weight: 4
 ### Nothing Surprising About Suffering
 
 
-<span class="verse" id="v12"><strong><sup>2</sup></strong>Don’t be surprised at the fiery trial that’s testing you, as if something strange is happening. <strong><sup>13</sup></strong>Instead, to the extent that you’re sharing Christ’s sufferings, be happy so you can be really happy when he appears in his glory. <strong><sup>14</sup></strong>If people dishonor you because of him, <em>you’re</em> blessed; God’s Spirit and honor rest on you. <strong><sup>15</sup></strong>Don’t suffer as a murderer, thief, evildoer, intruder in other people’s business. <strong><sup>16</sup></strong>If you suffer as a Christian, don’t be ashamed; praise God in that name. <strong><sup>17</sup></strong>It’s time to judge God’s family. If judgment begins with us, what’s going to happen to people that disbelieve God’s good news?</span>
+<span class="verse" id="v12"><sup class="verse-num">12</sup> Don’t be surprised at the fiery trial that’s testing you, as if something strange is happening. <strong><sup>13</sup></strong>Instead, to the extent that you’re sharing Christ’s sufferings, be happy so you can be really happy when he appears in his glory. <strong><sup>14</sup></strong>If people dishonor you because of him, <em>you’re</em> blessed; God’s Spirit and honor rest on you. <strong><sup>15</sup></strong>Don’t suffer as a murderer, thief, evildoer, intruder in other people’s business. <strong><sup>16</sup></strong>If you suffer as a Christian, don’t be ashamed; praise God in that name. <strong><sup>17</sup></strong>It’s time to judge God’s family. If judgment begins with us, what’s going to happen to people that disbelieve God’s good news?</span>
+
+<span class="verse" id="v18"><sup class="verse-num">18</sup> <strong><em>“If </em></strong><strong><em>good people</em></strong><strong><em> are barely saved, </em></strong> 	<strong><em>	</em></strong><strong><em>	where will godless </em></strong><strong><em>people</em></strong><strong><em> come in?”</em></strong> <strong>[Pro </strong><strong>11:31 LXX]</strong></span>
 
 <span class="verse" id="v19"><sup class="verse-num">19</sup> So you that suffer according to God’s will, entrust yourselves to the faithful creator by continuing to do what’s right.</span>
 <p class="section-ref">1 Pet 4:12-19</p>
-
-### Urging Elders
-
 
 
 <style>

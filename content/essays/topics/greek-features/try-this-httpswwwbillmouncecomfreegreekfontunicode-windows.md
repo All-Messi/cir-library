@@ -3,7 +3,7 @@ author: Virgil Warren, PhD
 categories:
 - Topics
 - Greek Features
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: 'Try this: https://www.billmounce.com/freegreekfont/unicode-windows'
 weight: 2

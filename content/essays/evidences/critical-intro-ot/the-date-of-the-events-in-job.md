@@ -3,7 +3,7 @@ author: Virgil Warren, PhD
 categories:
 - Evidences
 - Critical Intro Ot
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: THE DATE OF THE EVENTS IN JOB
 weight: 2

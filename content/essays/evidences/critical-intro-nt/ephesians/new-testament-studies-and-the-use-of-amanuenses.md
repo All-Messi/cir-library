@@ -4,7 +4,7 @@ categories:
 - Evidences
 - Critical Intro Nt
 - Ephesians
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: NEW TESTAMENT STUDIES AND THE USE OF AMANUENSES
 weight: 3

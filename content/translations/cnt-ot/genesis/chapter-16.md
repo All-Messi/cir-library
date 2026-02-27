@@ -11,7 +11,9 @@ weight: 16
 
 ## Genesis Chapter 16
 
-<span class="verse" id="v1"><strong><sup>1</sup></strong>Sarai, Abram’s wife, hadn’t had any children. She had an Egyptian maid named Hagar. <strong><sup>2</sup></strong>Sarai told Abram, “<em>The </em><em>L</em><em>ORD</em><em> has kept me from having children.</em> <em>Sleep with</em><em> my </em><em>maid. M</em><em>aybe I can </em><em>have</em><em> children through her.”</em> Abram took her advice. <strong><sup>3</sup></strong>That happened after Abram had lived in Canaan for 10 years. <strong><sup>4</sup></strong>He slept with Hagar, and she became pregnant. When she saw she was pregnant, she started disrespecting her mistress. <strong><sup>5</sup></strong>Sarai told Abram<em>, </em> <em>“You’re responsible for the way she’s acting toward me</em><em>.</em><em> </em><em>I gave </em><em>you </em><em>my </em><em>servant;</em><em> but when she saw she</em><em> was pregnant</em><em>, she </em><em>started disrespecting</em><em> me.</em><em> The </em><em>L</em><em>ORD</em><em> decid</em><em>e between you and me.”</em></span>
+### The Birth of Ishmael
+
+<span class="verse" id="v1"><sup class="verse-num">1</sup> Sarai, Abram’s wife, hadn’t had any children. She had an Egyptian maid named Hagar. <strong><sup>2</sup></strong>Sarai told Abram, “<em>The </em><em>L</em><em>ORD</em><em> has kept me from having children.</em> <em>Sleep with</em><em> my </em><em>maid. M</em><em>aybe I can </em><em>have</em><em> children through her.”</em> Abram took her advice. <strong><sup>3</sup></strong>That happened after Abram had lived in Canaan for 10 years. <strong><sup>4</sup></strong>He slept with Hagar, and she became pregnant. When she saw she was pregnant, she started disrespecting her mistress. <strong><sup>5</sup></strong>Sarai told Abram<em>, </em> <em>“You’re responsible for the way she’s acting toward me</em><em>.</em><em> </em><em>I gave </em><em>you </em><em>my </em><em>servant;</em><em> but when she saw she</em><em> was pregnant</em><em>, she </em><em>started disrespecting</em><em> me.</em><em> The </em><em>L</em><em>ORD</em><em> decid</em><em>e between you and me.”</em></span>
 
 <span class="verse" id="v6"><sup class="verse-num">6</sup> Abram said, <em>“</em><em>She’s under</em><em> your </em><em>authority. Deal with</em><em> her </em><em>as you see fit</em><em>.”</em> Sarai was so rough on her that she ran away.</span>
 <p class="section-ref">Gen 16:1-6</p>
@@ -22,9 +24,6 @@ weight: 16
 
 <span class="verse" id="v13"><sup class="verse-num">13</sup> She called the LORD Elroi because she said, <em>“</em><em>I’m </em>still <em>alive after ‘</em><em>I saw him</em><em>.’”</em><em> </em><strong><sup>14</sup></strong>So the well was called Beer-lahai-roi between Kadesh and Bered. <strong><sup>15</sup></strong>Hagar gave Abram a son he named Ishmael. <strong><sup>16</sup></strong>He was 86 when she had him.</span>
 <p class="section-ref">Gen 16:7-16</p>
-
-### Abram Renamed Abraham
-
 
 
 <style>

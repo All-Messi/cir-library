@@ -11,6 +11,8 @@ weight: 102
 
 ## Psalms Chapter 102
 
+### A Prayer by the Oppressed When They’re Faint and Pour Out Their Complaint to Yahveh
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Listen to my prayer, Yahveh! Let my cry come to you.</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> Don’t turn away from me in my distress; when I call, answer quickly.</span>

@@ -13,12 +13,12 @@ weight: 5
 
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Adam’s Descendants God created people to be like himself. <strong><sup>2</sup></strong>He made them male and female, blessed them, and called them human.</span>
 
-<span class="verse" id="v3"><strong><sup>3</sup></strong>Adam lived 130 years and had a son in his own image like himself. He named him Seth. <strong><sup>4</sup></strong>He lived 800 years after that and had sons and daughters. <strong><sup>5</sup></strong>Altogether he lived 930 years and died.</span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> Adam lived 130 years and had a son in his own image like himself. He named him Seth. <strong><sup>4</sup></strong>He lived 800 years after that and had sons and daughters. <strong><sup>5</sup></strong>Altogether he lived 930 years and died.</span>
 
 <span class="verse" id="v6"><sup class="verse-num">6</sup> Seth lived 105 years and had Enosh. <strong><sup>7</sup></strong>He lived 807 years after that and had sons and daughters. <strong><sup>8</sup></strong>Altogether he lived 912 years and died.</span>
 <p class="section-ref">Gen 5:1-8</p>
 
-<span class="verse" id="v9"><strong><sup>9</sup></strong>Enosh lived 90 years and had Kenan. <strong><sup>10</sup></strong>He lived 815 years after that and had sons and daughters. <strong><sup>11</sup></strong>Altogether he lived 905 years and died.</span>
+<span class="verse" id="v9"><sup class="verse-num">9</sup> Enosh lived 90 years and had Kenan. <strong><sup>10</sup></strong>He lived 815 years after that and had sons and daughters. <strong><sup>11</sup></strong>Altogether he lived 905 years and died.</span>
 
 <span class="verse" id="v12"><sup class="verse-num">12</sup> Kenan lived 70 years and had Mahalalel. <strong><sup>13</sup></strong>He lived 840 years after that and had sons and daughters. <strong><sup>14</sup></strong>Altogether he lived 910 years and died.</span>
 
@@ -35,9 +35,6 @@ weight: 5
 
 <span class="verse" id="v32"><sup class="verse-num">32</sup> Noah was 500 years old and had Shem, Ham, and Japheth.</span>
 <p class="section-ref">Gen 5:21-32</p>
-
-### Evil Multiplies
-
 
 
 <style>

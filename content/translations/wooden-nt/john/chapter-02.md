@@ -11,9 +11,13 @@ weight: 2
 
 ## John Chapter 2
 
-<span class="verse" id="v1"><strong><sup>1</sup></strong>And on-the third [the] day (a) wedding took-place in Cana of-[the] Galilee, and the mother of-[the] Jesus was there. <strong><sup>2</sup></strong>And [the] Jesus and the disciples of-him were also invited to the wedding.</span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> And on-the third [the] day (a) wedding took-place in Cana of-[the] Galilee, and the mother of-[the] Jesus was there. <strong><sup>2</sup></strong>And [the] Jesus and the disciples of-him were also invited to the wedding.</span>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> And, the wine having-run-out, the mother of-[the] Jesus says to him, <em>“They-do┘not└have wine.”</em><em> </em> <strong><sup>4</sup></strong>[And]<sup>ms</sup> Jesus says to-her, <em>“What to-me and to-you, woman?</em><em> </em><em>The hour of-me has┘not yet└come.”</em><em> </em> <strong><sup>5</sup></strong>[The] his mother says to-the servers, <em>“Whatever he-says to-you, do (it).”</em></span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> And, the wine having-run-out, the mother of-[the] Jesus says to him, <em>“They-do┘not└have wine.”</em><em> </em></span>
+
+<span class="verse" id="v4"><sup class="verse-num">4</sup> [And]<sup>ms</sup> Jesus says to-her, <em>“What to-me and to-you, woman?</em><em> </em><em>The hour of-me has┘not yet└come.”</em><em> </em></span>
+
+<span class="verse" id="v5"><sup class="verse-num">5</sup> [The] his mother says to-the servers, <em>“Whatever he-says to-you, do (it).”</em></span>
 
 <span class="verse" id="v6"><sup class="verse-num">6</sup> And (there) were six stone water-pots according-to the cleansing of-the Jews, standing there, holding about two or three measures. <strong><sup>7</sup></strong>And he-says to-them, <em>“Fill the water-jugs with-water.”</em><em> </em> And they-filled them to-the-brim<sup>2</sup>.</span>
 
@@ -23,9 +27,9 @@ weight: 2
 
 <span class="verse" id="v11"><sup class="verse-num">11</sup> This beginning of-[the] signs [the] Jesus did in Cana of-[the] Galilee, and manifested the glory of-him, and the disciples of-him believed in him.</span>
 
-<span class="verse" id="v12"><strong><sup>2</sup></strong>After this he-went-down to Capernaum—he and the mother of-him and the brothers [of-him]<sup> ms</sup> and the disciples of-him—and stayed there not many days.</span>
+<span class="verse" id="v12"><sup class="verse-num">12</sup> After this he-went-down to Capernaum—he and the mother of-him and the brothers [of-him]<sup> ms</sup> and the disciples of-him—and stayed there not many days.</span>
 
-<span class="verse" id="v13"><strong><sup>3</sup></strong>And the Passover of-the Jews was near, and [the] Jesus went-up to Jerusalem. <strong><sup>14</sup></strong>And he-found in the temple the-ones selling oxen and sheep and doves, and [the] money-changers sitting. <strong><sup>15</sup></strong>And having made (a) whip out-of cords, he drove-out of the temple all both the sheep and the oxen, and he-poured-out the money of-the money-changers and overturned the(ir) tables. <strong><sup>16</sup></strong>And to-the-ones selling the doves he-said, <em>“Take </em><em>these hence;</em><em> do┘not└make the house of-the </em><em>Father of-me (a) house of-merchandise.”</em><em> </em><strong><sup>17</sup></strong>And the disciples of-him remembered that it-was written, <strong><em>“The zeal of-the house of-me will-consume me.”</em></strong><em> </em></span>
+<span class="verse" id="v13"><sup class="verse-num">13</sup> And the Passover of-the Jews was near, and [the] Jesus went-up to Jerusalem. <strong><sup>14</sup></strong>And he-found in the temple the-ones selling oxen and sheep and doves, and [the] money-changers sitting. <strong><sup>15</sup></strong>And having made (a) whip out-of cords, he drove-out of the temple all both the sheep and the oxen, and he-poured-out the money of-the money-changers and overturned the(ir) tables. <strong><sup>16</sup></strong>And to-the-ones selling the doves he-said, <em>“Take </em><em>these hence;</em><em> do┘not└make the house of-the </em><em>Father of-me (a) house of-merchandise.”</em><em> </em><strong><sup>17</sup></strong>And the disciples of-him remembered that it-was written, 	<strong><em>“The zeal of-the house of-me will-consume me.”</em></strong><em> </em></span>
 
 <span class="verse" id="v18"><sup class="verse-num">18</sup> Then the Jews answered and said to-him, <em>“What sign do-you-show us that you-are-doing these-things?”</em></span>
 

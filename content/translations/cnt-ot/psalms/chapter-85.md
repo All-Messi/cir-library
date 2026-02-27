@@ -39,9 +39,6 @@ weight: 85
 <span class="verse" id="v13"><sup class="verse-num">13</sup> Goodness goes ahead of him and makes his footprints into a path.</span>
 <p class="section-ref">Ps 85:8-13</p>
 
-### A Prayer of David
-
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

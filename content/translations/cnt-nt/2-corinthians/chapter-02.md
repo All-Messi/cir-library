@@ -11,6 +11,8 @@ weight: 2
 
 ## 2 Corinthians Chapter 2
 
+### :4 	Forgiving the Offender in Corinth
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> I was determined not to come again with sadness. 2If I make you feel bad, who's going to make me feel good except the ones I made feel bad? 3I've written this so when I come, I won't be saddened by the ones I need to make me happy. I'm confident that my joy would mean your joy. 4Out of hardship and anxiety, I wrote to you through many tears, not to make you sad, but to let you know how much I care about you.</span>
 <p class="section-ref">2 Cor 1:23-2</p>
 

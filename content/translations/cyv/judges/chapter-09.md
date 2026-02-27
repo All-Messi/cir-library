@@ -11,6 +11,8 @@ weight: 9
 
 ## Judges Chapter 9
 
+### Abimelech’s Conspiracy
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Abimelech went to his mother’s relatives in Shechem and said to her clan, <strong><sup>2</sup></strong><em>“Ask</em><em> </em><em>the leaders</em><em> in</em><em> Shechem</em><em> w</em><em>hich is better, for Jerubbaal’s </em><em>70</em><em> sons to rule you, or for one </em>man <em>to rule </em><em>you. R</em><em>emember</em><em>,</em><em> I’m your flesh and bone.”</em><em> </em><strong><sup>3</sup></strong>His mother’s relatives circulated that around for him, and the people were inclined to follow him<em> because </em>he was their<em> </em>kin<em>.</em><em> </em><strong><sup>4</sup></strong>They gave him 70 pieces of silver from Baal-berith’s temple. He used them to hire worthless, reckless fellows <strong><sup>5</sup></strong>to go with him to his father’s family at Ophrah and kill his 70 brothers on one stone. But Jotham, Jerubbaal’s youngest son, hid. <strong><sup>6</sup></strong>The people in Shechem and Beth-millo gathered and made Abimelech king by the Oak of the Pillar at Shechem.</span>
 <p class="section-ref">Jud 9:1-6</p>
 
@@ -21,7 +23,8 @@ weight: 9
 
 <span class="verse" id="v22"><sup class="verse-num">22</sup> Abimelech ruled Israel for 3 years. <strong><sup>23</sup></strong>God put animosity between him and the people in Shechem, and they dealt treacherously with him. <strong><sup>24</sup></strong><em>That</em><em> was </em>so the violence done to Jerubbaal’s 70 sons might come on Abimelech who murdered them and on the men who helped him. <strong><sup>25</sup></strong>The men in Shechem put men in ambush against him on the mountaintops and robbed everybody that went by. Abimelech heard about it.</span>
 
-<span class="verse" id="v26"><sup class="verse-num">26</sup> Gaal Ben-Ebed moved to Shechem with his relatives and gained the confidence of the people there. <strong><sup>27</sup></strong>They went out and gathered grapes from their vineyards, trod them, and held a feast. They went to the temple of their god and ate and drank, and ranted about Abimelech. <strong><sup>28</sup></strong>Gaal said, <em>“Who</em><em> is Abimelech? Why should we serve</em><em> him?</em><em> </em><em>Didn’t the </em><em>son of </em><em>Jerubbaal and Zebul his officer serve the men of Hamor the father of Shechem?</em><em> </em><em>Why then should we serve </em><em><u>him</u></em><em>?</em><em> </em><strong><sup>29</sup></strong><em>If</em><em> these</em><em> people were under my command!</em><em> </em><em>I’d remove Abimelech.</em><em> </em><em>I’d </em><em>tell</em><em> him</em><em> to muster an</em><em> army and come out</em><em> and fight</em><em>.”</em><em>   </em> <em>   </em><em>	</em><em>   </em><strong>Jud 9:22-29</strong></span>
+<span class="verse" id="v26"><sup class="verse-num">26</sup> Gaal Ben-Ebed moved to Shechem with his relatives and gained the confidence of the people there. <strong><sup>27</sup></strong>They went out and gathered grapes from their vineyards, trod them, and held a feast. They went to the temple of their god and ate and drank, and ranted about Abimelech. <strong><sup>28</sup></strong>Gaal said, <em>“Who</em><em> is Abimelech? Why should we serve</em><em> him?</em><em> </em><em>Didn’t the </em><em>son of </em><em>Jerubbaal and Zebul his officer serve the men of Hamor the father of Shechem?</em><em> </em><em>Why then should we serve </em><em><u>him</u></em><em>?</em><em> </em><strong><sup>29</sup></strong><em>If</em><em> these</em><em> people were under my command!</em><em> </em><em>I’d remove Abimelech.</em><em> </em><em>I’d </em><em>tell</em><em> him</em><em> to muster an</em><em> army and come out</em><em> and fight</em><em>.”</em><em>   </em></span>
+<p class="section-ref">Jud 9:22-29</p>
 
 <span class="verse" id="v30"><sup class="verse-num">30</sup> When Zebul the ruler of the city heard what Gaal said, he was mad, <strong><sup>31</sup></strong>and sent ambassadors to Abimelech at Arumah, <em>“Gaal and his relatives have come</em><em> to Shechem; they’</em><em>re stirring up the city against you.</em><em> </em><strong><sup>32</sup></strong><em>So</em><em> you and your men go during the night and lie in </em><em>ambush</em><em> in the fields.</em><em> </em><strong><sup>33</sup></strong><em>In</em><em> the morning</em><em> at sun</em><em>up, rush on the city.</em><em> </em><em>When he and his men come out against you, do to them what you can.”</em></span>
 
@@ -39,9 +42,6 @@ weight: 9
 
 <span class="verse" id="v50"><sup class="verse-num">50</sup> Then Abimelech went to Thebez, camped against it, and took it. <strong><sup>51</sup></strong>But the city had a strong tower. The men and women fled to it, shut themselves in, and went up to the roof. <strong><sup>52</sup></strong>He attacked it and came to burn down the tower door. <strong><sup>53</sup></strong>A woman threw an upper millstone down on him and cracked his skull. <strong><sup>54</sup></strong>Right away he called to his young armor bearer, <em>“Draw your sword and kill me so people wo</em><em>n’t</em><em> say</em><em> a</em><em> woman killed </em><em>me</em><em>.”</em><em> </em>His young man thrust him through, and he died. <strong><sup>55</sup></strong>When Israel saw Abimelech was dead, they went home. <strong><sup>56</sup></strong>So God repaid him for his crime against his father in killing his 70 brothers. <strong><sup>57</sup></strong>God also made the sinfulness of the men in Shechem come back on their heads and made Jotham’s curse fall on them.</span>
 <p class="section-ref">Jud 9:50-57</p>
-
-### Tola Judges Israel
-
 
 
 <style>

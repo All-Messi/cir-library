@@ -5,7 +5,7 @@ categories:
 - Christian Doctrine
 - Church Ecclesiology
 - Ma Thesis
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: 'THE NEW TESTAMENT BASIS FOR THE NON-DENOMINATIONAL CHURCH:'
 weight: 4

@@ -17,13 +17,17 @@ weight: 4
 
 <span class="verse" id="v9"><sup class="verse-num">9</sup> Hathach came back with Mordecai’s message. <strong><sup>10</sup></strong>She told him to answer Mordecai.</span>
 
+<span class="verse" id="v11"><sup class="verse-num">11</sup> <em>“</em><em>All</em><em> the k</em><em>ing’s aides and the people in</em><em> </em><em>his</em><em> provinces know that </em><em>he has just one law </em><em>for any man</em><em> or woman who comes to his </em><em>inner court </em><em>without being summoned</em><em>:</em><em> </em><em>he</em><em>’s to</em><em> be </em><em>executed</em><em> unless the king </em><em>extends the gold scepter to him. </em><em>I haven’t been summoned to </em><em>him</em><em> for </em><em>30</em><em> days.”</em></span>
+
 <span class="verse" id="v12"><sup class="verse-num">12</sup> They relayed that message to Mordecai.</span>
 
 <span class="verse" id="v13"><sup class="verse-num">13</sup> He told them to tell her, <em>“Don’t imagine that in the king’s palace you can escape any</em><em> </em><em>more t</em><em>han the other </em><em>Jews.</em><em> </em><strong><sup>14</sup></strong><em>If</em><em> you </em><em>don’t speak </em><em>up</em><em>,</em><em> deliverance will </em><em>come</em><em> from </em><em>some</em><em>place </em><em>else. Y</em><em>ou and your father’s </em><em>family</em><em> will perish.</em><em> </em><em>Who knows </em><em>if</em><em> you haven’t </em><em>come</em><em> </em><em>to the kingdom for a time like this.</em><em>”</em></span>
 
 <span class="verse" id="v15"><sup class="verse-num">15</sup> She told them to answer Mordecai,</span>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> Mordecai did what she said.<strong>	</strong><strong>	</strong><strong>Esther 4:9-17</strong> <strong>Esther’s Request to the King</strong></span>
+<span class="verse" id="v16"><sup class="verse-num">16</sup> <em>“</em><em>Get</em><em> the Jews </em><em>together </em><em>th</em><em>at are in Susa and fast for me. D</em><em>on’t eat or drink for three days, night or day.</em><em> </em><em>I an</em><em>d my maid</em><em>s will </em><em>do the same</em><em>.</em><em> </em><em>I’ll go in to the king, which is </em><em>against</em><em> the law.</em><em> </em><em>If I </em><em>die</em><em>, I </em><em>die</em><em>.”</em><em> </em></span>
+
+<span class="verse" id="v17"><sup class="verse-num">17</sup> Mordecai did what she said.<strong>	</strong><strong>	</strong><strong>Esther 4:9-17</strong> 	<strong>Esther’s Request to the King</strong></span>
 
 
 <style>

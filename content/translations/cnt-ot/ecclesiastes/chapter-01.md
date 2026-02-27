@@ -12,13 +12,16 @@ weight: 1
 
 <span class="verse" id="v1"><sup class="verse-num">1</sup> The Words of the Preacher, Ben-David, King in Jerusalem</span>
 
+<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>“</em><em>Completely pointless</em><em>,” </em>the Preacher says; <em>	</em><em>“Completely pointless</em><em>!</em><em> </em><em>It’s all </em><em>pointless</em><em>.”</em></span>
+
 <span class="verse" id="v3"><sup class="verse-num">3</sup> What do people get out of their work under the sun?</span>
 
 <span class="verse" id="v4"><sup class="verse-num">4</sup> One generation passes away and another comes along, but the earth just goes on and on.</span>
 
 <span class="verse" id="v5"><sup class="verse-num">5</sup> The sun comes up, the sun goes down, and hurries back to where it comes up again.</span>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> The wind blows south, the wind blows north; it just keeps circulating around and around.<strong> </strong><strong>	</strong><strong>	</strong><strong>Eccl 1:1-6</strong></span>
+<span class="verse" id="v6"><sup class="verse-num">6</sup> The wind blows south, the wind blows north; it just keeps circulating around and around.<strong></span>
+<p class="section-ref">Eccl 1:1-6</p>
 
 <span class="verse" id="v7"><sup class="verse-num">7</sup> The rivers flow to the ocean; yet the ocean doesn’t run over; they flow again to where they flowed before.</span>
 
@@ -28,7 +31,7 @@ weight: 1
 
 <span class="verse" id="v10"><sup class="verse-num">10</sup> Is there anything you can say, <em>“</em><em>Look, tha</em><em>t’s new”</em>?</span>
 
-<span class="verse" id="v11"><strong><sup>1</sup></strong>People don’t remember the past; later, they won’t remember the future either. The ones that come after you won’t remember you.<strong> </strong><strong></span>
+<span class="verse" id="v11"><sup class="verse-num">11</sup> People don’t remember the past; later, they won’t remember the future either. The ones that come after you won’t remember you.<strong></span>
 <p class="section-ref">Eccl 1:7-11</p>
 
 <span class="verse" id="v12"><sup class="verse-num">12</sup> I, the Preacher, have been king over Israel in Jerusalem. <strong><sup>13</sup></strong>I decided to examine with wisdom everything people do under the sky. It’s a grievous job God has stricken them with. <strong><sup>14</sup></strong>I’ve looked at everything they do under the sun. It’s all pointless, like chasing the wind.</span>
@@ -39,7 +42,8 @@ weight: 1
 
 <span class="verse" id="v17"><sup class="verse-num">17</sup> I determined to experience everything from wisdom to madness and pointless behavior. I came to realize that it’s all like chasing the wind.</span>
 
-<span class="verse" id="v18"><strong><sup>18</sup></strong>There’s much grief in much wisdom; increasing knowledge increases pain.<strong>                 </strong><strong>	</strong><strong>	</strong><strong>Eccl 1:12-18</strong></span>
+<span class="verse" id="v18"><sup class="verse-num">18</sup> There’s much grief in much wisdom; increasing knowledge increases pain.<strong></span>
+<p class="section-ref">Eccl 1:12-18</p>
 
 
 <style>

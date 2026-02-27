@@ -23,6 +23,9 @@ weight: 1
 
 <span class="verse" id="v15"><sup class="verse-num">15</sup> The king told the Hebrew midwives Shiphrah and Puah, <strong><sup>16</sup></strong><em>“When you’re helping the Hebrew women on the birth stool, kill the boys.” </em><strong><sup>17</sup></strong>But the midwives respected God and let them live. <strong><sup>18</sup></strong>The king called them in and asked, <em>“Why have you let the boys live?” </em></span>
 
+<span class="verse" id="v19"><sup class="verse-num">19</sup> <em>“Hebrew women aren’t like Egyptian women. They deliver quickly before midwives can get there.” </em><strong><sup>20</sup></strong>God was good to the midwives, and the people kept multiplying. <strong><sup>21</sup></strong>Because the midwives respected God, he gave them families of their own. <strong><sup>22</sup></strong>Pharaoh kept telling his people to throw the boys in the Nile but keep the girls.</span>
+<p class="section-ref">Ex 1:15-22</p>
+
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

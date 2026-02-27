@@ -10,20 +10,19 @@ weight: 14
 
 ## Zechariah Chapter 14
 
+### The LORD Will Rule the World
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> The LORD will bring a time when nations will plunder you right in front of you. <strong><sup>2</sup></strong>He’ll gather them against Jerusalem and capture it. The houses will be looted and the women raped; half the people will be exiled and the rest abandoned among the ruins.</span>
 
 <span class="verse" id="v3"><sup class="verse-num">3</sup> But then the LORD<em> wi</em>ll go out and fight them. <strong><sup>4</sup></strong>His feet will stand on the Mount of Olives east of Jerusalem. The mountain will split apart east to west, half moving north and half moving south with a wide valley between. <strong><sup>5</sup></strong>You’ll escape by that valley, which will reach as far as Azal. You’ll flee like you did from the earthquake when Uzziah reigned in Judah. Then the LORD my God will come with his holy ones! <strong><sup>6</sup></strong>There won’t be any cold or frost, <strong><sup>7</sup></strong>a unique day known <em>only </em>to the LORD, without day or night; there’ll be light in the evening. <strong><sup>8</sup></strong>At that time, water will pour out of Jerusalem year around, half to the Dead Sea and half to the Mediterranean.</span>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> The LORD will become king of the whole world, <em>the only</em> one. <strong><sup>10</sup></strong>The land from Geba to Rimmon south of Jerusalem will become a <em>large</em> plain. But Jerusalem will rise on its site from Benjamin’s Gate to the First Gate to the Corner Gate, from the Tower of Hananel to the king’s winepresses. <strong><sup>11</sup></strong>People will live in Jerusalem safely because its curse will be gone.<strong></span>
+<span class="verse" id="v9"><sup class="verse-num">9</sup> The LORD will become king of the whole world, <em>the only</em> one. <strong><sup>10</sup></strong>The land from Geba to Rimmon south of Jerusalem will become a <em>large</em> plain. But Jerusalem will rise on its site from Benjamin’s Gate to the First Gate to the Corner Gate, from the Tower of Hananel to the king’s winepresses. <strong><sup>11</sup></strong>People will live in Jerusalem safely because its curse will be gone.</span>
 <p class="section-ref">Zech 14:1-11</p>
 
 <span class="verse" id="v12"><sup class="verse-num">12</sup> The LORD will use a plague to strike the nations that attacked Jerusalem. Their flesh will rot while they’re standing; their eyes will decay in their sockets; their tongues will mold in their mouths. <strong><sup>13</sup></strong>The LORD will throw them into a panic, and they’ll attack one another in hand-to-hand combat. <strong><sup>14</sup></strong>Judah will fight at Jerusalem and gather wealth from surrounding nations—lots of gold, silver, and clothing. <strong><sup>15</sup></strong>There’ll also be a plague on the horses, mules, camels, donkeys, and cattle in those <em>enemies’ </em>camps.<strong>	</strong><strong>	</strong><strong>	</strong></span>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> Any nation that attacked Jerusalem and survived the plague, will go up every year to worship the King, the LORD of Hosts, and celebrate the Festival of Booths. <strong><sup>17</sup></strong><strong><sup>-</sup></strong><strong><sup>18</sup></strong>It won’t rain for any family in Egypt or elsewhere who won’t go up to that celebration. [<strong><sup>19</sup></strong>] <strong><sup>20</sup></strong>Even the bells on their horses will bear the inscription “Holy to the LORD.” Cooking pots in his Temple will be as sacred as bowls beside the altar. <strong><sup>21</sup></strong>Every cooking pot in Jerusalem and Judah will be sacred to him, so everybody that sacrifices can boil meat in them from the sacrifices. There won’t be any Canaanites anymore in the Temple of the LORD of Hosts.<strong>	</strong></span>
+<span class="verse" id="v16"><sup class="verse-num">16</sup> Any nation that attacked Jerusalem and survived the plague, will go up every year to worship the King, the LORD of Hosts, and celebrate the Festival of Booths. <strong><sup>17</sup></strong><strong><sup>-</sup></strong><strong><sup>18</sup></strong>It won’t rain for any family in Egypt or elsewhere who won’t go up to that celebration. [<strong><sup>19</sup></strong>] <strong><sup>20</sup></strong>Even the bells on their horses will bear the inscription “Holy to the LORD.” Cooking pots in his Temple will be as sacred as bowls beside the altar. <strong><sup>21</sup></strong>Every cooking pot in Jerusalem and Judah will be sacred to him, so everybody that sacrifices can boil meat in them from the sacrifices. There won’t be any Canaanites anymore in the Temple of the LORD of Hosts.</span>
 <p class="section-ref">Zech 14:12-20</p>
-
-### Version by Virgil Warren: christir.org
-
 
 
 <style>

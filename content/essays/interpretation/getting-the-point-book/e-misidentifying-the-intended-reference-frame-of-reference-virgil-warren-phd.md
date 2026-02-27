@@ -4,7 +4,7 @@ author: E. Misidentifying the Intended Reference (frame of reference)      Virgi
 categories:
 - Interpretation
 - Getting The Point Book
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: E. Misidentifying the Intended Reference (frame of reference)      Virgil Warren,
   PhD

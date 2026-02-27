@@ -6,7 +6,7 @@ categories:
 - Mankind Anthropology
 - Womens Studies
 - 1 Cor 14
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: WOMEN’S ROLES AND 1 CORINTHIANS 14:34
 weight: 5

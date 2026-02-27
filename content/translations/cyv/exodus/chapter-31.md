@@ -11,6 +11,8 @@ weight: 31
 
 ## Exodus Chapter 31
 
+### Bezalel and Oholiab
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> I've specifically called Bezalel Ben-Uri Ben-Hur, from the tribe of Judah. 3I've filled him with my spirit in wisdom, understanding, and knowledge in all kinds of craftsmanship</span>
 
 <span class="verse" id="v4"><sup class="verse-num">4</sup> to make artistic designs for work in gold, silver, and bronze,</span>

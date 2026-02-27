@@ -4,7 +4,7 @@ categories:
 - Interpretation
 - Commentaries
 - Sermon On The Mount Book
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: HYPOCRISY
 weight: 3

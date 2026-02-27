@@ -5,7 +5,7 @@ categories:
 - Christian Doctrine
 - Revelation Scripture Bibliology
 - Scripture
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: PASSAGES RELEVANT TO INERRANCY*
 weight: 4

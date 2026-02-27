@@ -11,6 +11,8 @@ weight: 61
 
 ## Psalms Chapter 61
 
+### On Stringed Instruments
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Listen to my prayer, God; hear my prayer.</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> With a faint heart I call to you from the end of the earth; lead me to the rock that’s higher than me.</span>
@@ -27,9 +29,6 @@ weight: 61
 
 <span class="verse" id="v8"><sup class="verse-num">8</sup> I’ll sing praise to you forever as I pay my vows each day.</span>
 <p class="section-ref">Ps 61:1-8</p>
-
-### Set to Jeduthun
-
 
 
 <style>

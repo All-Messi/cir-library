@@ -3,7 +3,7 @@ book: Genesis
 chapters: 50
 title: Genesis
 translation: CNT
-type: scripture
+type: book
 weight: 1
 ---
 

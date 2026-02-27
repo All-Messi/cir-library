@@ -3,7 +3,7 @@ book: 1 Corinthians
 chapters: 16
 title: 1 Corinthians
 translation: WNT
-type: scripture
+type: book
 weight: 46
 ---
 

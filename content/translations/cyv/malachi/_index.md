@@ -3,7 +3,7 @@ book: Malachi
 chapters: 4
 title: Malachi
 translation: CYV
-type: scripture
+type: book
 weight: 39
 ---
 

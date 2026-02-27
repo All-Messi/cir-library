@@ -4,7 +4,7 @@ categories:
 - Topics
 - Basic Christianity
 - Book
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: 'CONCEPTS IN STEWARDSHIP: 1 CORINTHIANS 8-9'
 weight: 3

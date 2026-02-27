@@ -11,6 +11,8 @@ weight: 31
 
 ## Numbers Chapter 31
 
+### Conquest of the Midianites
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Yahveh told Moses, <strong><sup>2</sup></strong><em>“Take</em><em> revenge for Israel </em><em>on</em><em> the Midianites.</em><em> </em><em>Afterward you’ll </em><em>pass on</em><em> to your people.”</em></span>
 
 <span class="verse" id="v3"><sup class="verse-num">3</sup> Moses told the people, “<em>Arm men to attack Midian and carry out </em><em>Yahveh</em><em>’s revenge on </em><em>it</em><em>.</em><em> </em><strong><sup>4</sup></strong><em>Send</em><em> </em><em>1,000</em><em> men from each tribe.”</em></span>
@@ -20,9 +22,14 @@ weight: 31
 
 <span class="verse" id="v13"><sup class="verse-num">13</sup> Moses, Eleazar, and the leaders of the community met them outside the camp. <strong><sup>14</sup></strong>Moses was mad at the officers of the army and the commanders of thousands and hundreds.</span>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> Eleazar told the men that fought, <em>“</em><em>Yahveh</em><em> commanded</em> <em>Moses</em><em> </em><em>t</em><em>his statute.</em> <strong><sup>22</sup></strong><em>‘The</em><em> gold, silver, brass, iron, tin, and lead—</em><strong><sup>23</sup></strong><em>anything</em><em> that does</em><em>n’t burn—put through fire </em><em>to cleanse it;</em><em> then purify it with water.</em><em> </em><em>Anything that </em><em>will </em><em>burn</em><em>,</em><em> purify with water.</em><em> </em><strong><sup>24</sup></strong><em>Wash</em><em> your</em><em> </em><em>clothes</em><em> the seventh day. You’ll be ceremonially clean then,</em><em> and you can come in</em><em>to</em><em> the camp.”</em><em>	</em><strong>Num 31:13-24</strong><em>   </em></span>
+<span class="verse" id="v15"><sup class="verse-num">15</sup> <em>“You’ve</em><em> saved the women alive?</em><em> </em><strong><sup>16</sup></strong><em>They’re</em><em> what </em><em>got</em><em> Israel </em><em>to </em><em>sin against </em><em>Yahveh</em><em> at Peor, and a plague came into the </em><em>community</em><em> </em><em>by Balaam’s </em><em>advice</em><em>.</em><em> </em><strong><sup>17</sup></strong><em>So</em><em> kill every male </em><em>child and every woman that has had intercourse with a man</em><em>.</em><em> </em><strong><sup>18</sup></strong><em>Keep</em><em> alive for yourselves</em><em> the young girls that are virgins</em><em>.</em><em> </em><strong><sup>19</sup></strong><em>Camp</em><em> outside the camp for </em><em>a week</em><em>.</em><em> </em><em>Whoever has killed anybody or touched</em><em> a slain body, purify yourself</em><em> on the third day and seventh day, you and your captives.</em><em> </em><strong><sup>20</sup></strong><em>Purify</em><em> every piece of clothing, an</em><em>ything </em><em>made out of</em><em> skin, goat hair, </em><em>or</em><em> wood.”</em></span>
+
+<span class="verse" id="v21"><sup class="verse-num">21</sup> Eleazar told the men that fought, <em>“</em><em>Yahveh</em><em> commanded</em> <em>Moses</em><em> </em><em>t</em><em>his statute.</em> <strong><sup>22</sup></strong><em>‘The</em><em> gold, silver, brass, iron, tin, and lead—</em><strong><sup>23</sup></strong><em>anything</em><em> that does</em><em>n’t burn—put through fire </em><em>to cleanse it;</em><em> then purify it with water.</em><em> </em><em>Anything that </em><em>will </em><em>burn</em><em>,</em><em> purify with water.</em><em> </em><strong><sup>24</sup></strong><em>Wash</em><em> your</em><em> </em><em>clothes</em><em> the seventh day. You’ll be ceremonially clean then,</em><em> and you can come in</em><em>to</em><em> the camp.”</span>
+<p class="section-ref">Num 31:13-24</p>
 
 <span class="verse" id="v25"><sup class="verse-num">25</sup> Yahveh told Moses,</span>
+
+<span class="verse" id="v26"><sup class="verse-num">26</sup> <em>“</em><em>You</em><em>, Eleazar, and heads of families,</em><em> count the spoil—</em><em>people</em><em> and animal</em><em>s</em><em>—</em><strong><sup>27</sup></strong><em>and</em><em> divide it between soldier</em><em>s and </em><em>community</em><em>.</em><em> </em><strong><sup>28</sup></strong><em>Levy</em><em> a tax for </em><em>Yahveh</em><em> from the </em><em>soldier</em><em>s</em><em>’ spoil</em><em>:</em><em> 1</em><em> per</em><em> 500</em><em> person</em><em>s</em><em>, cattle, donkeys, and sheep.</em><em> </em><strong><sup>29</sup></strong><em>Give this </em><em>share</em><em> to Eleazar as a </em><em>heave</em><em> offering to </em><em>Yahveh</em><em>.</em><em> </em><strong><sup>30</sup></strong><em>From</em><em> Israel’s half, take </em><em>1</em><em> from every </em><em>50</em><em> person</em><em>s</em><em>, cattle, donkeys, and sheep, and give them to the Levites that take care of the </em><em>Tabernacle</em><em>.”</em></span>
 
 <span class="verse" id="v31"><sup class="verse-num">31</sup> Moses and Eleazar did that.</span>
 
@@ -42,6 +49,8 @@ weight: 31
 <span class="verse" id="v42"><sup class="verse-num">42</sup> Israel’s half was <strong><sup>43</sup></strong>337,500 sheep, <strong><sup>44</sup></strong>36,000 cattle, <strong><sup>45</sup></strong>30,500 donkeys, <strong><sup>46</sup></strong>and 16,000 persons. <strong><sup>47</sup></strong>From Israel’s half Moses took out one from every 50 people and animals, and gave them to the Levites that take care of the Tabernacle.</span>
 
 <span class="verse" id="v48"><sup class="verse-num">48</sup> The commanders of thousands and hundreds came to Moses,</span>
+
+<span class="verse" id="v49"><sup class="verse-num">49</sup> <em>“We’ve</em><em> </em><em>counted</em><em> the men who fought and not a one is missing.</em><em> </em><strong><sup>50</sup></strong><em>So</em><em>,</em><em> </em><em>from w</em><em>hat each man found</em><em>,</em><em> we’ve brought an offering to </em><em>Yahveh: </em><em>articles of gold, armlets, bracelets, signet rings, earrings, and neck</em><em> chain</em><em>s to </em><em>atone</em><em> for ourselves.”</em></span>
 
 
 <style>

@@ -65,9 +65,6 @@ weight: 31
 <span class="verse" id="v24"><sup class="verse-num">24</sup> Be strong and courageous, you that rest your hopes in him!</span>
 <p class="section-ref">Ps 31:23-24</p>
 
-### A Maskil. A Psalm of David
-
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

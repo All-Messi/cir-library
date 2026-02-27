@@ -11,11 +11,13 @@ weight: 10
 
 ## Joshua Chapter 10
 
+### The Sun Stands Still
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Adonizedek, king of Jerusalem, heard how Joshua had taken Ai and destroyed it like Jericho and its king. <em>He heard</em> how Gibeon had made peace with Israel and was among them. <strong><sup>2</sup></strong>He was really afraid because Gibeon was a big city, like a royal city. It was bigger than Ai and its men were strong. <strong><sup>3</sup></strong>So he sent to Hoham king of Hebron, Piram king of Jarmuth, Japhia king of Lachish, and Debir king of Eglon, <strong><sup>4</sup></strong><em>“</em><em>H</em><em>elp</em><em> me attack Gibeon</em><em>;</em><em> it has</em><em> made peace with </em><em>Israel.”</em> <strong><sup>5</sup></strong>Those five allied forces camped against Gibeon and attacked it.</span>
 
 <span class="verse" id="v6"><sup class="verse-num">6</sup> The men in Gibeon sent to Joshua at camp in Gilgal, <em>“</em><em>Don’</em><em>t relax your </em><em>grip</em><em> </em><em>on</em><em> </em><em>us</em><em>.</em><em> Come </em><em>qui</em><em>ck and save us! T</em><em>he </em><em>Amorite </em><em>kings </em><em>from </em><em>the hill country</em><em> hav</em><em>e </em><em>formed an alliance</em><em> against us.” </em></span>
 
-<span class="verse" id="v7"><strong><sup>7</sup></strong>So Joshua and the fighting men went up from Gilgal. <strong><sup>8</sup></strong>Yahveh told Joshua, <em>“Don’t be afraid of them. I’ll deliver</em><em> them to you.</em><em> </em><em>Not a man will stand against you.”</em><em> </em></span>
+<span class="verse" id="v7"><sup class="verse-num">7</sup> So Joshua and the fighting men went up from Gilgal. <strong><sup>8</sup></strong>Yahveh told Joshua, <em>“Don’t be afraid of them. I’ll deliver</em><em> them to you.</em><em> </em><em>Not a man will stand against you.”</em><em> </em></span>
 
 <span class="verse" id="v9"><sup class="verse-num">9</sup> He marched up all night and attacked them by surprise. <strong><sup>10</sup></strong>Yahveh threw them into panic, and Israel killed them with a great slaughter. They chased them by the way of the ascent of Beth-horon and struck them all the way to Azekah and Makkedah. <strong><sup>11</sup></strong>As they fled down the ascent of Beth-horon, Yahveh sent big hailstones on them all the way to Azekah. More died from hailstones than Israel killed with the sword.</span>
 <p class="section-ref">Josh 10:1-11</p>
@@ -24,11 +26,11 @@ weight: 10
 
 <span class="verse" id="v13"><sup class="verse-num">13</sup> So the sun stood still, and the moon stayed till the nation took revenge on its enemies. It’s recorded in <em>The Book of Jashar.</em><em> </em>The sun stood still at midday and didn’t go down for about a day. <strong><sup>14</sup></strong>There wasn’t a day like it before or since when Yahveh listened to <em>such an extreme request by</em> someone, because he fought for Israel.</span>
 
-<span class="verse" id="v15"><strong><sup>5</sup></strong>Joshua and Israel came back to camp at Gilgal. <strong>Five Amorite Kings Executed</strong></span>
+<span class="verse" id="v15"><sup class="verse-num">15</sup> Joshua and Israel came back to camp at Gilgal. 	<strong>Five Amorite Kings Executed</strong></span>
 
-<span class="verse" id="v16"><strong><sup>6</sup></strong>The five kings fled and hid in the cave at Makkedah. <strong><sup>17</sup></strong><em>People</em> told Joshua where they were hiding.</span>
+<span class="verse" id="v16"><sup class="verse-num">16</sup> The five kings fled and hid in the cave at Makkedah. <strong><sup>17</sup></strong><em>People</em> told Joshua where they were hiding.</span>
 
-<span class="verse" id="v18"><strong><sup>8</sup></strong>He said, <em>“</em><em>Roll large </em><em>rock</em><em>s against the mouth of the cave </em><em>and post a guard.</em><em> </em><strong><sup>19</sup></strong><em>D</em><em>on’t</em><em> stay there.</em><em> </em><em>Chase </em><em>your enemies and fall on them. D</em><em>on’t let them </em><em>get into their towns. Yahveh</em> <em>your God will</em><em> </em><em>deliver</em><em> them to you.”</em></span>
+<span class="verse" id="v18"><sup class="verse-num">18</sup> He said, <em>“</em><em>Roll large </em><em>rock</em><em>s against the mouth of the cave </em><em>and post a guard.</em><em> </em><strong><sup>19</sup></strong><em>D</em><em>on’t</em><em> stay there.</em><em> </em><em>Chase </em><em>your enemies and fall on them. D</em><em>on’t let them </em><em>get into their towns. Yahveh</em> <em>your God will</em><em> </em><em>deliver</em><em> them to you.”</em></span>
 
 <span class="verse" id="v20"><sup class="verse-num">20</sup> Joshua and the Israelites killed them with a great slaughter till they wiped them out, but some stragglers got back into the fortified towns. <strong><sup>21</sup></strong>The people came back safe to Joshua at Makkedah. Nobody said a word against Israel.</span>
 <p class="section-ref">Josh 10:12-21</p>
@@ -39,7 +41,7 @@ weight: 10
 
 <span class="verse" id="v26"><sup class="verse-num">26</sup> He struck them and put them to death and hung them on five trees. <strong><sup>27</sup></strong>At sundown he had <em>the men</em> take them down, throw them back into the cave, and put large rocks against its mouth. They’re still there.</span>
 
-<span class="verse" id="v28"><sup class="verse-num">28</sup> That day Joshua struck down everybody in <u>Makkedah</u> with the sword and did to its king what he’d done to Jericho’s king.<strong> </strong><strong></span>
+<span class="verse" id="v28"><sup class="verse-num">28</sup> That day Joshua struck down everybody in <u>Makkedah</u> with the sword and did to its king what he’d done to Jericho’s king.<strong></span>
 <p class="section-ref">Josh 10:22-28</p>
 
 ### Southern Towns Conquered
@@ -59,9 +61,6 @@ weight: 10
 
 <span class="verse" id="v40"><sup class="verse-num">40</sup> Joshua defeated the hill country, the Negev, the western foothills, the slopes, and their kings. He destroyed everybody that breathed—like Yahveh commanded. <strong><sup>41</sup></strong>He defeated them from Kadesh-barnea to Gaza, the whole country of Goshen as far as Gibeon. <strong><sup>42</sup></strong>He took those kings and their land in one campaign because Yahveh God of Israel fought for them. <strong><sup>43</sup></strong>Then he and Israel went back to camp at Gilgal.</span>
 <p class="section-ref">Josh 10:29-43</p>
-
-### Northern Kings Defeated
-
 
 
 <style>

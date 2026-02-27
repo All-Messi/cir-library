@@ -3,7 +3,7 @@ book: 2 Peter
 chapters: 3
 title: 2 Peter
 translation: WNT
-type: scripture
+type: book
 weight: 61
 ---
 

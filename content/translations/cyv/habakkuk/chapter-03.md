@@ -30,17 +30,18 @@ weight: 3
 
 <span class="verse" id="v9"><sup class="verse-num">9</sup> <em>No</em><em>. </em>You took the cover off your bow and put your arrows to the string. You washed out canyons in the ground.</span>
 
-<span class="verse" id="v10"><strong><sup>0</sup></strong>The mountains watched you and shook as the torrent flooded past; The roaring deep cried out in surrender and lifted its hands in submission.</span>
+<span class="verse" id="v10"><sup class="verse-num">10</sup> The mountains watched you and shook as the torrent flooded past; The roaring deep cried out in surrender and lifted its hands in submission.</span>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> The sun and moon stood still; they retreated at the flash of your arrows and the radiance of your spear.<strong> </strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>Hab 3:8-1</strong><strong>1</strong></span>
+<span class="verse" id="v11"><sup class="verse-num">11</sup> The sun and moon stood still; they retreated at the flash of your arrows and the radiance of your spear.<strong></span>
+<p class="section-ref">Hab 3:8-11</p>
 
 <span class="verse" id="v12"><sup class="verse-num">12</sup> In your fury you marched across the world; in your anger you trampled nations.</span>
 
-<span class="verse" id="v13"><strong><sup>3</sup></strong>You headed out to save your people, to rescue your anointed ones. You crushed the heads of the wicked and laid them open from neck to thigh.</span>
+<span class="verse" id="v13"><sup class="verse-num">13</sup> You headed out to save your people, to rescue your anointed ones. You crushed the heads of the wicked and laid them open from neck to thigh.</span>
 
 <span class="verse" id="v14"><sup class="verse-num">14</sup> You thrust through the leaders of their troops with their own spears. They’d stormed in to scatter us, celebrating as if running over the poor unchecked.</span>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> <em>But</em><em> </em>with your horses you tramped down the sea of soldiers, that surging mighty flood.<strong></span>
+<span class="verse" id="v15"><sup class="verse-num">15</sup> <em>But</em><em> </em>with your horses you tramped down the sea of soldiers, that surging mighty flood.</span>
 <p class="section-ref">Hab 3:12-15</p>
 
 <span class="verse" id="v16"><sup class="verse-num">16</sup> I heard <em>it </em>and my body trembled; my lips quivered at the sound. My knees buckled; I froze, unable to move; I’ll wait in silence for distress to descend on our invaders.</span>
@@ -49,7 +50,8 @@ weight: 3
 
 <span class="verse" id="v18"><sup class="verse-num">18</sup> I’ll still rejoice in Yahveh and delight in the salvation he’ll bring me.</span>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> The Lord Yahveh is my strength; he’s made my feet like deer’s feet and enables me to walk surefooted on high places. (For the choir director accompanied by my stringed instruments)<strong> </strong><strong>	Hab</strong><strong> 3:16-19</strong> Version by Virgil Warren: christir.org</span>
+<span class="verse" id="v19"><sup class="verse-num">19</sup> The Lord Yahveh is my strength; he’s made my feet like deer’s feet and enables me to walk surefooted on high places. (For the choir director accompanied by my stringed instruments)<strong></span>
+<p class="section-ref">Hab 3:16-19</p>
 
 
 <style>

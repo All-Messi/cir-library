@@ -5,7 +5,7 @@ categories:
 - Christian Doctrine
 - Church Ecclesiology
 - Ordination
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: 'ORDINATION: WHO AND WHOM'
 weight: 4

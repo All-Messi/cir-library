@@ -71,9 +71,6 @@ weight: 73
 <span class="verse" id="v28"><sup class="verse-num">28</sup> Your nearness to me is good for me; I’ve made you my refuge so I can tell everybody how you operate.</span>
 <p class="section-ref">Ps 73:21-28</p>
 
-### A Maskil of Asaph
-
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

@@ -3,7 +3,7 @@ title: "2 PETER 2 AND JUDE COMPARED"
 author: "Virgil Warren, PhD"
 categories:
 - Bible Resources
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 weight: 1
 ---

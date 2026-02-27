@@ -3,7 +3,7 @@ book: Numbers
 chapters: 36
 title: Numbers
 translation: CYV
-type: scripture
+type: book
 weight: 4
 ---
 

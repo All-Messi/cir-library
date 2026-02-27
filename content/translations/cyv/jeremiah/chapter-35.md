@@ -11,11 +11,14 @@ weight: 35
 
 ## Jeremiah Chapter 35
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> A Message from Yahveh to Jeremiah at the <strong>Time of Jehoiakim Ben-Josiah, King of Judah</strong> <strong>The Obedience of the Racabites</strong></span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> A Message from Yahveh to Jeremiah at the <strong>Time of Jehoiakim Ben-Josiah, King of Judah</strong> 	<strong>The Obedience of the Racabites</strong></span>
+
+<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>“Go</em><em> bring the Rechabites to a room in Yahveh’s Temple and offer them wine.”</em></span>
 
 <span class="verse" id="v3"><sup class="verse-num">3</sup> I took Jaazaniah Ben-Jeremiah Ben-Habazziniah, his brothers and sons—the whole family of Rechabites—<strong><sup>4</sup></strong>to Yahveh’s Temple to the office for the sons of Hanan Ben-Igdaliah, the man of God. It was close to the officials’ quarters, above the room for Maaseiah Ben-Shallum, the doorkeeper. <strong><sup>5</sup></strong>I put pitchers of wine and cups in front of the Rechabites, <em>“Have a drink!”</em></span>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> But they said, <em>“We won’t drink wine. Our ancestor Jonadab/</em>Jehonadab<em> Ben-Rechab told us, ‘Never drink wine, you or your descendants, forever</em><em>.</em><em> </em><strong><sup>7</sup></strong><em>Don’t</em><em> build houses, sow </em><em>seed</em><em>, plant vineyards, or own them. Live in tents so you’ll live a long time in the land.’ </em><strong><sup>8</sup></strong><em>We</em><em>, our wives, sons, and daughters have obeyed him. </em><strong><sup>9</sup></strong><em>We</em><em> don’t build houses or own vineyards, fields, or seed. </em><strong><sup>10</sup></strong><em>We</em><em> live in tents. </em><strong><sup>11</sup></strong><em>But</em><em> when Nebuchadnezzar invaded the land, we came to Jerusalem before the Babylonian and Syrian armies got here. </em><em>So</em><em> we’ve been living in Jerusalem.”</em><strong>	     </strong><strong>Jer 35:1-11</strong><strong>    </strong></span>
+<span class="verse" id="v6"><sup class="verse-num">6</sup> But they said, <em>“We won’t drink wine. Our ancestor Jonadab/</em>Jehonadab<em> Ben-Rechab told us, ‘Never drink wine, you or your descendants, forever</em><em>.</em><em> </em><strong><sup>7</sup></strong><em>Don’t</em><em> build houses, sow </em><em>seed</em><em>, plant vineyards, or own them. Live in tents so you’ll live a long time in the land.’ </em><strong><sup>8</sup></strong><em>We</em><em>, our wives, sons, and daughters have obeyed him. </em><strong><sup>9</sup></strong><em>We</em><em> don’t build houses or own vineyards, fields, or seed. </em><strong><sup>10</sup></strong><em>We</em><em> live in tents. </em><strong><sup>11</sup></strong><em>But</em><em> when Nebuchadnezzar invaded the land, we came to Jerusalem before the Babylonian and Syrian armies got here. </em><em>So</em><em> we’ve been living in Jerusalem.”</span>
+<p class="section-ref">Jer 35:1-11</p>
 
 <span class="verse" id="v12"><sup class="verse-num">12</sup> Then a message from Yahveh came to Jeremiah,</span>
 

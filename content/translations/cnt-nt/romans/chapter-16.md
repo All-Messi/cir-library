@@ -10,7 +10,9 @@ weight: 16
 
 ## Romans Chapter 16
 
-<span class="verse" id="v1"><strong><sup>1</sup></strong>I commend to you our sister Phoebe, a servant in the church in Cenchrea. <strong><sup>2</sup></strong>Welcome her in the Lord in a way appropriate to saints. Help her with whatever she needs. She’s helped lots of people, including me.</span>
+### Extensive Greetings
+
+<span class="verse" id="v1"><sup class="verse-num">1</sup> I commend to you our sister Phoebe, a servant in the church in Cenchrea. <strong><sup>2</sup></strong>Welcome her in the Lord in a way appropriate to saints. Help her with whatever she needs. She’s helped lots of people, including me.</span>
 
 <span class="verse" id="v3"><sup class="verse-num">3</sup> Greet Prisca and Aquila, my fellow workers in Christ Jesus. <strong><sup>4</sup></strong>They’ve risked their necks to save my life. Not only am <u>I</u> grateful to them; so are all the Gentile churches. <strong><sup>5</sup></strong>Greet the church that meets in their house. Hello to Epaenetus, my dear friend, the first convert to Christ in Asia; <strong><sup>6</sup></strong>and to Mary, who has worked hard for you<sup>pl</sup>. <strong><sup>7</sup></strong>Greet Andronicus and Junia, my kin and fellow prisoners. They’re well-known among the apostles and have been Christians longer than I have. <strong><sup>8</sup></strong>Give our regards to Ampliatus, my friend in the Lord; <strong><sup>9</sup></strong>to Urbanus, our fellow worker in Christ; and to my close friend Stachys. <strong><sup>10</sup></strong>Greet Apelles<sup>mas</sup>, approved in Christ, those <em>in the </em><em>family</em> of Aristobulus, <strong><sup>11</sup></strong>and Herodion, my compatriot. Greet the <em>family</em> of Narcissus, who are in the Lord; <strong><sup>12</sup></strong>as well as Tryphaena and Tryphosa, laborers in the Lord. Greet <strong><sup>13</sup></strong>Rufus, chosen in the Lord, and his mother and mine. <strong><sup>14</sup></strong>Say hello to Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the disciples that are with him; <strong><sup>15</sup></strong>as well as Philologus and Julia; Nereus and his sister Olympas; and the saints that are with them. <strong><sup>16</sup></strong>Greet one another with a holy kiss. All the churches of Christ send their greetings.</span>
 <p class="section-ref">Rom 16:1-16</p>
@@ -31,9 +33,6 @@ weight: 16
 
 <span class="verse" id="v27"><sup class="verse-num">27</sup> to the only wise God through Jesus Christ <em>be</em> glory forever! Amen.</span>
 <p class="section-ref">Rom 16:24-27</p>
-
-### Translator: Virgil Warren     								     christir.org
-
 
 
 <style>

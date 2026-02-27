@@ -13,9 +13,14 @@ weight: 26
 
 <span class="verse" id="v1"><sup class="verse-num">1</sup> <strong>Job</strong><strong> answered:</strong></span>
 
+<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>“What</em><em> a help you are to the weak!</em> <em>How you’ve saved arms with no strength!</em></span>
+
 <span class="verse" id="v3"><sup class="verse-num">3</sup> <em>What</em><em> counsel you’ve given me in my stupidity!</em> <em>What brilliant insight you’ve provided!</em></span>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> <em>Who’ve</em><em> you been talking to?</em> <em>Whose spirit has been speaking through you?!</em><strong>	</strong><strong>Job 26:1-4</strong></span>
+<span class="verse" id="v4"><sup class="verse-num">4</sup> <em>Who’ve</em><em> you been talking to?</em> <em>Whose spirit has been speaking through you?!</span>
+<p class="section-ref">Job 26:1-4</p>
+
+<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>“The</em><em> departed </em><em>spirits</em><em> tremble</em> <em>below the water and its inhabitants.</em></span>
 
 <span class="verse" id="v6"><sup class="verse-num">6</sup> <em>Sheol</em><em> is naked in front of </em><em>him;</em> <em>Abaddon has no covering </em>before him<em>.</em></span>
 
@@ -33,7 +38,8 @@ weight: 26
 
 <span class="verse" id="v13"><sup class="verse-num">13</sup> <em>He</em><em> clears </em>clouds from <em>the sky with his breath</em> <em>and wounds the </em>celestial <em>fleeing Serpent with his hand.</em></span>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> <em>These</em><em> are just fringes of what he does:</em> <em>his faint whisper!</em> <em>his loud thunder!</em> <em>Who can comprehend his power?”</em><strong>	</strong><strong>Job 26:5-14</strong></span>
+<span class="verse" id="v14"><sup class="verse-num">14</sup> <em>These</em><em> are just fringes of what he does:</em> <em>his faint whisper!</em> <em>his loud thunder!</em> <em>Who can comprehend his power?”</span>
+<p class="section-ref">Job 26:5-14</p>
 
 
 <style>

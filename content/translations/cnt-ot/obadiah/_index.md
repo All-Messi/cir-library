@@ -3,7 +3,7 @@ book: Obadiah
 chapters: 1
 title: Obadiah
 translation: CNT
-type: scripture
+type: book
 weight: 31
 ---
 

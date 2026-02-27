@@ -11,7 +11,9 @@ weight: 9
 
 ## Exodus Chapter 9
 
-<span class="verse" id="v1"><strong><sup>1</sup></strong>The LORD told Moses<em>, </em> <em>“Go tell</em><em> Pharaoh</em><em>, ‘The </em><em>L</em><em>ORD</em><em> God of the Hebrews says to l</em><em>et </em><em>his people go</em><em> so they can serve </em><em>him</em><em>.</em><em> </em><strong><sup>2</sup></strong><em>If you keep holding them, </em><strong><sup>3</sup></strong><em>he’</em><em>ll bring</em><em> a severe </em><strong><em>plague on your livestock</em></strong><em> in the pasture—hor</em><em>ses, </em><em>donkeys, </em><em>camels, herds</em><em>,</em><em> and flocks.</em><em> </em><strong><sup>4</sup></strong><em>But </em><em>he’ll</em><em> distinguish </em><em>Israel’s livestock from</em><em> Egypt’s.</em><em> </em><em>Nothing will die </em><em>that belongs to the Israelites.</em><em>’”</em></span>
+### The Plague on Livestock
+
+<span class="verse" id="v1"><sup class="verse-num">1</sup> The LORD told Moses<em>, </em> <em>“Go tell</em><em> Pharaoh</em><em>, ‘The </em><em>L</em><em>ORD</em><em> God of the Hebrews says to l</em><em>et </em><em>his people go</em><em> so they can serve </em><em>him</em><em>.</em><em> </em><strong><sup>2</sup></strong><em>If you keep holding them, </em><strong><sup>3</sup></strong><em>he’</em><em>ll bring</em><em> a severe </em><strong><em>plague on your livestock</em></strong><em> in the pasture—hor</em><em>ses, </em><em>donkeys, </em><em>camels, herds</em><em>,</em><em> and flocks.</em><em> </em><strong><sup>4</sup></strong><em>But </em><em>he’ll</em><em> distinguish </em><em>Israel’s livestock from</em><em> Egypt’s.</em><em> </em><em>Nothing will die </em><em>that belongs to the Israelites.</em><em>’”</em></span>
 
 <span class="verse" id="v5"><sup class="verse-num">5</sup> The LORD set a time,<em> “</em><em>I’ll do that</em><em> in the country</em><em> tomorrow</em><em>.”</em><em> </em><strong><sup>6</sup></strong>The next day he did it. Livestock in Egypt died, but none of the Israelites’ livestock died. <strong><sup>7</sup></strong>Pharaoh sent to find out that not a one of the Israelites’ livestock died, but he hardened his heart and wouldn’t let the people go.</span>
 <p class="section-ref">Ex 9:1-7</p>
@@ -19,7 +21,7 @@ weight: 9
 ### The Plague of Boils
 
 
-<span class="verse" id="v8"><strong><sup>8</sup></strong>The LORD told Moses and Aaron, <em>“Take handfuls of ashes</em><em> </em><em>out of</em><em> a kiln and throw </em><em>them</em><em> </em><em>up in the air</em><em> in </em><em>front of </em><em>Pharaoh.</em><em> </em><strong><sup>9</sup></strong><em>They’ll</em><em> become fine dust </em><em>all over</em><em> Egypt</em><em>, and make </em><strong><em>boi</em></strong><strong><em>ls break</em></strong><strong><em> out with sores</em></strong><em> on people and animals everywhere in the country</em><em>.</em><em>” </em></span>
+<span class="verse" id="v8"><sup class="verse-num">8</sup> The LORD told Moses and Aaron, <em>“Take handfuls of ashes</em><em> </em><em>out of</em><em> a kiln and throw </em><em>them</em><em> </em><em>up in the air</em><em> in </em><em>front of </em><em>Pharaoh.</em><em> </em><strong><sup>9</sup></strong><em>They’ll</em><em> become fine dust </em><em>all over</em><em> Egypt</em><em>, and make </em><strong><em>boi</em></strong><strong><em>ls break</em></strong><strong><em> out with sores</em></strong><em> on people and animals everywhere in the country</em><em>.</em><em>” </em></span>
 
 <span class="verse" id="v10"><sup class="verse-num">10</sup> They took ashes out of a kiln and stood in front of Pharaoh. Moses threw them up in the air, and they made boils break out in sores on people and animals. <strong><sup>11</sup></strong>The magicians couldn’t withstand Moses because of the boils. They came on the magicians as well as all the Egyptians. <strong><sup>12</sup></strong>The LORD hardened Pharaoh’s heart, and he wouldn’t listen.</span>
 <p class="section-ref">Ex 9:8-12</p>
@@ -37,11 +39,10 @@ weight: 9
 
 <span class="verse" id="v27"><sup class="verse-num">27</sup> Pharaoh sent for Moses and Aaron, <em>“I’ve sinned this time.</em><em> </em><em>The </em><em>L</em><em>ORD</em><em> is </em><em>right</em><em>; my people </em><em>and I </em><em>are </em><em>wrong</em><em>.</em><em> </em><strong><sup>28</sup></strong><em>Pray to him. We’ve had enough of hi</em><em>s thunder and hail.</em><em> </em><em><u>I’ll let you go for good</u></em><em>.”</em></span>
 
-<span class="verse" id="v29"><sup class="verse-num">29</sup> Moses told him<em>, </em> <em>“As soon as I </em><em>leave</em><em> the city, I’ll spread out my hands to the </em><em>L</em><em>ORD</em><em>.</em><em> </em><em>Th</em><em>e thunder and</em><em> hail will stop</em><em>, and y</em><em>ou’ll know </em><em>the world belongs to the</em><em> </em><em>L</em><em>ORD</em><em>.</em><em> </em><strong><sup>30</sup></strong><em>But </em><em>I’m sure </em><em>you and your </em><em>officer</em><em>s </em><em>still won’t</em><em> </em><em>respect</em><em> </em><em>him</em><em>.”</em><em> </em> <strong><sup>31</sup></strong>(The hail ruined the flax and barley crops because the barley had headed out and the flax had budded. <strong><sup>32</sup></strong>It didn’t ruin the wheat and spelt, which <em>ripen</em> later.) <strong><sup>33</sup></strong>Moses left Pharaoh and the city and spread out his hands to the LORD. The thunder, hail, and rain quit pouring down. <strong><sup>34</sup></strong>When Pharaoh saw it stop, he and his officers sinned again and hardened their hearts. <strong><sup>35</sup></strong>He wouldn’t let the people go.</span>
+<span class="verse" id="v29"><sup class="verse-num">29</sup> Moses told him<em>, </em> <em>“As soon as I </em><em>leave</em><em> the city, I’ll spread out my hands to the </em><em>L</em><em>ORD</em><em>.</em><em> </em><em>Th</em><em>e thunder and</em><em> hail will stop</em><em>, and y</em><em>ou’ll know </em><em>the world belongs to the</em><em> </em><em>L</em><em>ORD</em><em>.</em><em> </em><strong><sup>30</sup></strong><em>But </em><em>I’m sure </em><em>you and your </em><em>officer</em><em>s </em><em>still won’t</em><em> </em><em>respect</em><em> </em><em>him</em><em>.”</em><em> </em></span>
+
+<span class="verse" id="v31"><sup class="verse-num">31</sup> (The hail ruined the flax and barley crops because the barley had headed out and the flax had budded. <strong><sup>32</sup></strong>It didn’t ruin the wheat and spelt, which <em>ripen</em> later.) <strong><sup>33</sup></strong>Moses left Pharaoh and the city and spread out his hands to the LORD. The thunder, hail, and rain quit pouring down. <strong><sup>34</sup></strong>When Pharaoh saw it stop, he and his officers sinned again and hardened their hearts. <strong><sup>35</sup></strong>He wouldn’t let the people go.</span>
 <p class="section-ref">Ex 9:27-35</p>
-
-### The Plague of Locusts
-
 
 
 <style>

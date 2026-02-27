@@ -11,6 +11,8 @@ weight: 59
 
 ## Psalms Chapter 59
 
+### When Saul Sent Men to Watch the House and Kill Him Set to Do Not Destroy
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Deliver me from my enemies, God; set me on high away from my attackers.</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> Save me from sinners; rescue me from bloodthirsty people.</span>
@@ -48,9 +50,6 @@ weight: 59
 
 <span class="verse" id="v17"><sup class="verse-num">17</sup> I’ll sing praise to you, my Strength, the God who shows me enduring love.</span>
 <p class="section-ref">Ps 59:16-17</p>
-
-### to teach when he struggled with Aram-naharaim and Aram-zobah, and Joab came back and struck 12,000 Edomites in the Valley of Salt
-
 
 
 <style>

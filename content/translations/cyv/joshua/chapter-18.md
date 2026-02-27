@@ -11,6 +11,8 @@ weight: 18
 
 ## Joshua Chapter 18
 
+### Allotment of Remaining Land
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> The whole community of Israel gathered at Shiloh and set up the Tent of Meeting. The land had been conquered, <strong><sup>2</sup></strong>but seven tribes hadn’t yet received their inheritance. <strong><sup>3</sup></strong>Joshua said, <em>“How long will you put off taking possession of </em><em>what</em><em> </em><em>Yahveh</em> <em>has given you?</em><em> </em><strong><sup>4</sup></strong><em>Select</em><em> </em><em>three men from each tribe that I can send through the land </em><em>to</em><em> write a description of their</em><em> inheritance</em><em>.</em><em> </em><strong><sup>5</sup></strong><strong><sup>-</sup></strong><strong><sup>6</sup></strong><em>Divide</em><em> it into seven </em><em>territorie</em><em>s</em><em> and describe them</em><em>.</em><em> </em><em>Judah will stay in its territory </em><em>on</em><em> the south.</em><em> </em><em>Joseph will stay in its territory </em><em>on</em><em> the north.</em><em> </em><em>I’ll cast lots for you here </em><em>in front of</em><em> </em><em>Yahveh</em><em>.</em><em> </em><strong><sup>7</sup></strong><em>The</em><em> Levites don’t have any </em><em>territory; the priesthood i</em><em>s their inheritance.</em><em> Moses has given Gad,</em><em> Reuben</em><em>,</em><em> and the Manasseh</em><em> </em><em>half-tribe</em><em> their inheritance east of the Jordan.”</em></span>
 
 <span class="verse" id="v8"><sup class="verse-num">8</sup> Joshua told the men, <em>“</em><em>Go through the land,</em><em> describe it, and come back.</em><em> </em><em>I’ll cast lots f</em><em>or you here in front of Yahveh</em> <em>in </em><em>Shiloh.”</em> <strong><sup>9</sup></strong>They went through the land and described it by cites in seven divisions in a scroll. They came back to him at Shiloh. <strong><sup>10</sup></strong>He cast lots for them and divided the land according to their divisions.</span>
@@ -32,9 +34,6 @@ weight: 18
 
 <span class="verse" id="v25"><sup class="verse-num">25</sup> Gibeon, Ramah, Beeroth, <strong><sup>26</sup></strong>Mizpah, Chephirah, Mozah, <strong><sup>27</sup></strong>Rekem, Irpeel, Taralah, <strong><sup>28</sup></strong>Zelah, Haeleph, Jebus (Jerusalem), Gibeah, and Kiriath-jearim—14 towns with their villages. That was Benjamin’s inheritance by clans.</span>
 <p class="section-ref">Josh 18:21-28</p>
-
-### Allotment to Simeon
-
 
 
 <style>

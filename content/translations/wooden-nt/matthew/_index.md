@@ -3,7 +3,7 @@ book: Matthew
 chapters: 28
 title: Matthew
 translation: WNT
-type: scripture
+type: book
 weight: 40
 ---
 

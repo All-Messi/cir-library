@@ -4,7 +4,7 @@ categories:
 - Evidences
 - Critical Intro Nt
 - Canon Nt Books
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: PEG DATES FOR NEW TESTAMENT STUDIES
 weight: 3

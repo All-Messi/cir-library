@@ -23,9 +23,6 @@ weight: 150
 <span class="verse" id="v6"><sup class="verse-num">6</sup> Everything that breathes, praise Yahveh. Hallelujah!</span>
 <p class="section-ref">Ps 150:1-6</p>
 
-### Version by Virgil Warren: christir.org
-
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

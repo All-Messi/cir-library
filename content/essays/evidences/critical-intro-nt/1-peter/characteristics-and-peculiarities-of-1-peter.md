@@ -4,7 +4,7 @@ categories:
 - Evidences
 - Critical Intro Nt
 - 1 Peter
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: CHARACTERISTICS AND PECULIARITIES OF 1 PETER
 weight: 3

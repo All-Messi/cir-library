@@ -22,9 +22,6 @@ weight: 43
 <span class="verse" id="v5"><sup class="verse-num">5</sup> Why despair, my soul? Why be disturbed? Put your hope in God because I still praise him, my helper and my God.</span>
 <p class="section-ref">Ps 43:1-5</p>
 
-### A Maskil of the Sons of Korah
-
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

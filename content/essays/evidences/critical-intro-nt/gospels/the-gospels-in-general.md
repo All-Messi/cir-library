@@ -4,7 +4,7 @@ categories:
 - Evidences
 - Critical Intro Nt
 - Gospels
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: THE GOSPELS IN GENERAL
 weight: 3

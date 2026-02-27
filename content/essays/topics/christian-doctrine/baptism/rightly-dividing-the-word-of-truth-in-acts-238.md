@@ -4,7 +4,7 @@ categories:
 - Topics
 - Christian Doctrine
 - Baptism
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: RIGHTLY DIVIDING THE WORD OF TRUTH IN ACTS 2:38
 weight: 3

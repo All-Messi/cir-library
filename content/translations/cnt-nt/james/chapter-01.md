@@ -10,9 +10,9 @@ weight: 1
 
 ## James Chapter 1
 
-<span class="verse" id="v1"><strong><sup>1</sup></strong>James, servant of God and the Lord Jesus Christ<sup>Messiah</sup>, to the twelve tribes in the Dispersion. Greetings. <strong>Temptation, Wisdom, Humility</strong></span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> James, servant of God and the Lord Jesus Christ<sup>Messiah</sup>, to the twelve tribes in the Dispersion. Greetings. 	<strong>Temptation, Wisdom, Humility</strong></span>
 
-<span class="verse" id="v2"><strong><sup>2</sup></strong>Consider temptation something to be glad about. <strong><sup>3</sup></strong>It challenges your faith to produce stamina, <strong><sup>4</sup></strong>and stamina gives you the ability to finish what you’re doing.</span>
+<span class="verse" id="v2"><sup class="verse-num">2</sup> Consider temptation something to be glad about. <strong><sup>3</sup></strong>It challenges your faith to produce stamina, <strong><sup>4</sup></strong>and stamina gives you the ability to finish what you’re doing.</span>
 
 <span class="verse" id="v5"><sup class="verse-num">5</sup> If you need wisdom, ask God. He gives it generously to everybody without blaming <em>the</em><em>m </em><em>for asking</em>. <strong><sup>6</sup></strong>Trust him when you ask. If you doubt, you’re like an ocean wave blown around by the wind. <strong><sup>7</sup></strong>Don’t suppose you’ll get anything from God. <strong><sup>8</sup></strong>If you can’t make up your mind, you’re unsettled about everything you do.</span>
 <p class="section-ref">James 1:1-8</p>
@@ -37,9 +37,6 @@ weight: 1
 
 <span class="verse" id="v26"><sup class="verse-num">26</sup> If you consider yourself religious but don’t control your tongue, you’re fooling yourself; your religion is useless. <strong><sup>27</sup></strong>Pure, undefiled religion with God the Father is this: looking after orphans and widows in their hardship and keeping yourselves from getting stained by the world.</span>
 <p class="section-ref">James 1:26-27</p>
-
-### No Discrimination Against the Poor
-
 
 
 <style>

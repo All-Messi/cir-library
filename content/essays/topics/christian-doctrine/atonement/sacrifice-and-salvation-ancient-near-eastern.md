@@ -4,7 +4,7 @@ categories:
 - Topics
 - Christian Doctrine
 - Atonement
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: 'SACRIFICE AND SALVATION: ANCIENT NEAR EASTERN'
 weight: 3

@@ -11,11 +11,47 @@ weight: 27
 
 ## Deuteronomy Chapter 27
 
+### The Altar on Mount Ebal
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Then Moses and the elders in Israel charged the people,<em> </em> <em>“Keep the commandments I’m </em><em>giving</em><em> you.</em><em> </em><strong><sup>2</sup></strong><em>When</em><em> </em><em>you cross </em><em>the </em><em>Jordan, set up large stones</em><em> coated with lime.</em><em> </em><strong><sup>3</sup></strong><em>W</em><em>rite</em><em> </em><em>this Law </em><em>on them </em><em>clearly </em><em>so you can go </em><em>to </em><em>the promised land</em><em> that’s</em><em> flowing with milk and honey.</em><em> </em><strong><sup>4</sup></strong><em>Set</em><em> </em><em>up these stones </em><em>on Mount Ebal.</em><em> </em><strong><sup>5</sup></strong><em>Build</em><em> an altar there out of uncut stones—don’t use any iron </em>tools<em> on them. </em><strong><sup>6</sup></strong><em>Offer</em><em> a burnt offering to Yahveh on it, </em><strong><sup>7</sup></strong><em>and</em><em> sacrifice peace offerings. Eat there and celebrate in his presence.” [ </em><strong><sup>8</sup></strong><em>]</em></span>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> Then Moses and the Levitical priests told Israel, <em>“Be still and listen. Today you’ve become a people for Yahveh your God; </em><strong><sup>10</sup></strong><em>so</em><em> obey him.”</em><strong>	 </strong><strong>Deut 27:1-10</strong> <strong>Curses from Mount Ebal</strong></span>
+<span class="verse" id="v9"><sup class="verse-num">9</sup> Then Moses and the Levitical priests told Israel, <em>“Be still and listen. Today you’ve become a people for Yahveh your God; </em><strong><sup>10</sup></strong><em>so</em><em> obey him.”</span>
+<p class="section-ref">Deut 27:1-10</p>
+
+### Curses from Mount Ebal
+
 
 <span class="verse" id="v11"><sup class="verse-num">11</sup> Moses charged them,</span>
+
+<span class="verse" id="v12"><sup class="verse-num">12</sup> <em>“When</em><em> you cross the Jordan</em><em>, Simeon, Levi, Judah, Issachar, Joseph, and Benjamin will stand on Mount Gerizim to bless the people. </em><strong><sup>13</sup></strong><em>Reuben</em><em>, Gad, Asher, Zebulun, Dan, and Naphtali will stand on Mount Ebal </em>to pronounce <em>a curse. </em><strong><sup>14</sup></strong><em>With</em><em> a loud voice the Levites will answer the people of Israel,                   </em><strong><sup>     </sup></strong></span>
+<p class="section-ref">Deut 27:11-14</p>
+
+### 15‘Accursed is anyone that makes an idol or molten image—a thing detestable to Yahveh, the work of a craftsman—and sets it up secretly.’ 		The people will say, ‘Amen.’  16‘Accursed is anyone that disrespects father or mother.’ 		The people will say, ‘Amen.’  17‘Accursed is anyone that moves a boundary marker.’ 		The people will say, ‘Amen.’ 18‘Accursed is anyone that misleads someone that’s blind.’ 		The people will say, ‘Amen.’ 19‘Accursed is anyone that distorts justice with a foreigner, orphan, or  widow.’ 		The people will say, ‘Amen.’ 20‘Accursed is the man that lies with his father’s wife; he has uncovered  his father’s cloak.’ 		The people will say, ‘Amen.’ 21‘Accursed is the man that lies with any animal.’ 	The people will say, ‘Amen.’  22‘Accursed is the man that lies with his sister, the daughter of his father  or his mother.’ 		The people will say, ‘Amen.’ 23‘Accursed is the man that lies with his mother-in-law.’ 		The people will say, ‘Amen.’  24‘Accursed is anyone that strikes another person in secret.’ 		The people will say, ‘Amen.’  25‘Accursed is anyone that accepts a bribe to assassinate an innocent person.’  		The people will say, ‘Amen.’  26‘Accursed is everyone that doesn’t conform to this Law.’ 	The people will say, ‘Amen.’ 	Deut 27:15-26 	Blessings for Obedience
+
+
+<span class="verse" id="v15"><sup class="verse-num">15</sup> 'Accursed is anyone that makes an idol or molten image—a thing detestable to Yahveh, the work of a craftsman—and sets it up secretly.' The people will say, 'Amen.'</span>
+
+<span class="verse" id="v16"><sup class="verse-num">16</sup> 'Accursed is anyone that disrespects father or mother.' The people will say, 'Amen.'</span>
+
+<span class="verse" id="v17"><sup class="verse-num">17</sup> 'Accursed is anyone that moves a boundary marker.' The people will say, 'Amen.'</span>
+
+<span class="verse" id="v18"><sup class="verse-num">18</sup> 'Accursed is anyone that misleads someone that's blind.' The people will say, 'Amen.'</span>
+
+<span class="verse" id="v19"><sup class="verse-num">19</sup> 'Accursed is anyone that distorts justice with a foreigner, orphan, or widow.' The people will say, 'Amen.'</span>
+
+<span class="verse" id="v20"><sup class="verse-num">20</sup> 'Accursed is the man that lies with his father's wife; he has uncovered his father's cloak.' The people will say, 'Amen.'</span>
+
+<span class="verse" id="v21"><sup class="verse-num">21</sup> 'Accursed is the man that lies with any animal.' The people will say, 'Amen.'</span>
+
+<span class="verse" id="v22"><sup class="verse-num">22</sup> 'Accursed is the man that lies with his sister, the daughter of his father or his mother.' The people will say, 'Amen.'</span>
+
+<span class="verse" id="v23"><sup class="verse-num">23</sup> 'Accursed is the man that lies with his mother-in-law.' The people will say, 'Amen.'</span>
+
+<span class="verse" id="v24"><sup class="verse-num">24</sup> 'Accursed is anyone that strikes another person in secret.' The people will say, 'Amen.'</span>
+
+<span class="verse" id="v25"><sup class="verse-num">25</sup> 'Accursed is anyone that accepts a bribe to assassinate an innocent person.' The people will say, 'Amen.'</span>
+
+<span class="verse" id="v26"><sup class="verse-num">26</sup> 'Accursed is everyone that doesn't conform to this Law.' The people will say, 'Amen.' Blessings for Obedience</span>
 
 
 <style>

@@ -4,7 +4,7 @@ categories:
 - Topics
 - Greek Features
 - Greek Vocab Project
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: VERBS
 weight: 3

@@ -31,11 +31,8 @@ weight: 37
 ### The Altar of Incense
 
 
-<span class="verse" id="v25"><sup class="verse-num">25</sup> He made <u>the altar of</u><u> incense</u> out of acacia wood: 18 x 18 x 36in high. Its horns were one piece with it. <strong><sup>26</sup></strong>He overlaid its top, sides, and horns with pure gold; and made a gold molding around it. <strong><sup>27</sup></strong>For each side under its molding he made two gold rings to hold the poles for carrying it. <strong><sup>28</sup></strong>He fashioned the poles out of acacia wood overlaid with gold. <strong><sup>29</sup></strong>He made the holy anointing oil and pure fragrant incense out of spices—an incense maker’s work.<strong> </strong><strong></span>
+<span class="verse" id="v25"><sup class="verse-num">25</sup> He made <u>the altar of</u><u> incense</u> out of acacia wood: 18 x 18 x 36in high. Its horns were one piece with it. <strong><sup>26</sup></strong>He overlaid its top, sides, and horns with pure gold; and made a gold molding around it. <strong><sup>27</sup></strong>For each side under its molding he made two gold rings to hold the poles for carrying it. <strong><sup>28</sup></strong>He fashioned the poles out of acacia wood overlaid with gold. <strong><sup>29</sup></strong>He made the holy anointing oil and pure fragrant incense out of spices—an incense maker’s work.<strong></span>
 <p class="section-ref">Ex 37:25-29</p>
-
-### The Altar of Burnt Offering
-
 
 
 <style>

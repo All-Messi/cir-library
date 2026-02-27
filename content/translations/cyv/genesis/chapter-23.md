@@ -11,9 +11,14 @@ weight: 23
 
 ## Genesis Chapter 23
 
+### The Death of Sarah
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Sarah lived 127 years <strong><sup>2</sup></strong>and died in Kiriath-arba (Hebron) in Canaan. Abraham went in to mourn for her and cry. <strong><sup>3</sup></strong>Then he got up from beside his dead and said to the descendants of Heth, <strong><sup>4</sup></strong><em>“I’m</em><em> a foreigner among you.</em><em> Let</em><em> me</em><em> have</em><em> a </em><em>place to bury my dead</em><em>.”</em> <em>[</em><strong><sup>5</sup></strong><em>] </em><strong><sup>6</sup></strong><em>“Listen</em><em>, Sir, you’re a prince of God among us. Bury your dead in the best grave we have. None of us will refuse </em><em>you</em><em> his grave.”</em></span>
 
 <span class="verse" id="v7"><sup class="verse-num">7</sup> Abraham stood up and bowed to the local people,</span>
+
+<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>“If</em><em> </em><em>you’ll let me bury my dead, a</em><em>pproach Ephro</em><em>n Ben-Zohar</em><em> for me, </em><strong><sup>9</sup></strong><em>to</em><em> let</em><em> me</em><em> have the C</em><em>ave of Machpelah at the end of his f</em><em>ield. Will he let me buy it at</em><em> full price for a burial </em><em>place among you?</em><em>”</em><em></span>
+<p class="section-ref">Gen 23:1-9</p>
 
 <span class="verse" id="v10"><sup class="verse-num">10</sup> Ephron was sitting there and answered Abraham in<em> </em>front of everyone that was going in his city gate, <strong><sup>11</sup></strong><em>“No</em><em>, </em><em>Sir; listen. </em><em>In </em><em>my people’s</em><em> presence</em><em>, I’ll give</em><em> you the </em><em>field and the cave that’s in it. B</em><em>ury your dead.”</em></span>
 
@@ -21,11 +26,8 @@ weight: 23
 
 <span class="verse" id="v14"><sup class="verse-num">14</sup> He answered, <strong><sup>15</sup></strong><em>“</em><em>L</em><em>isten</em><em>, a</em><em> piece of land worth </em><em>10 lbs </em><em><sup>400 shekels</sup></em><em> </em><em>of silver—what’</em><em>s that between </em><em>us? B</em><em>ury your dead.”</em></span>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> Abraham listened and weighed out <em>10 lbs </em><em><sup>400 shekels</sup></em><em><sup> </sup></em><em>of silver</em>, merchant’s standard. <strong><sup>17</sup></strong>Ephron deeded the field, its trees, and the cave <strong><sup>18</sup></strong>to Abraham in front of everyone in his city gate. <em>It became </em>a possession among the descendants of Heth. <strong><sup>19</sup></strong>Abraham buried Sarah in the Cave of Machpelah east of Mamre (Hebron) in Canaan. [<strong><sup>20</sup></strong>]<strong></span>
+<span class="verse" id="v16"><sup class="verse-num">16</sup> Abraham listened and weighed out <em>10 lbs </em><em><sup>400 shekels</sup></em><em><sup> </sup></em><em>of silver</em>, merchant’s standard. <strong><sup>17</sup></strong>Ephron deeded the field, its trees, and the cave <strong><sup>18</sup></strong>to Abraham in front of everyone in his city gate. <em>It became </em>a possession among the descendants of Heth. <strong><sup>19</sup></strong>Abraham buried Sarah in the Cave of Machpelah east of Mamre (Hebron) in Canaan. [<strong><sup>20</sup></strong>]</span>
 <p class="section-ref">Gen 23:10-20</p>
-
-### A Wife for Isaac
-
 
 
 <style>

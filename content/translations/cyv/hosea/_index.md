@@ -3,7 +3,7 @@ book: Hosea
 chapters: 14
 title: Hosea
 translation: CYV
-type: scripture
+type: book
 weight: 28
 ---
 

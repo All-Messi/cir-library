@@ -11,6 +11,8 @@ weight: 7
 
 ## Psalms Chapter 7
 
+### A Shiggaion of David that He Sang to Yahveh About Cush a Benjamite
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Yahveh my God, I’ve taken refuge in you; protect me from persecutors</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> so they won’t tear me apart like a lion does, and drag me away with no one to rescue me.</span>
@@ -47,9 +49,6 @@ weight: 7
 
 <span class="verse" id="v17"><sup class="verse-num">17</sup> I’ll give Yahveh the thanks his goodness calls for and sing praise to theY Most High.</span>
 <p class="section-ref">Ps 7:12-17</p>
-
-### Set to The Gittith
-
 
 
 <style>

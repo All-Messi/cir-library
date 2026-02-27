@@ -4,7 +4,7 @@ categories:
 - Topics
 - Christian Doctrine
 - Christ Christology
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: THE CHRIST
 weight: 3

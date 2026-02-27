@@ -11,6 +11,8 @@ weight: 80
 
 ## Psalms Chapter 80
 
+### Set to Lilies; A Testimony
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Listen, Shepherd of Israel, you that lead Joseph like a flock; show your glory, you that are enthroned above the cherubs.</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> Stir up your power against Ephraim, Benjamin, and Manasseh; and come to rescue us.</span>
@@ -52,9 +54,6 @@ weight: 80
 
 <span class="verse" id="v19"><sup class="verse-num">19</sup> Yahveh God of Hosts, restore us; look at us with favor so we’ll be saved.</span>
 <p class="section-ref">Ps 80:14-19</p>
-
-### Set to The Gittith
-
 
 
 <style>

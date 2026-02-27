@@ -29,9 +29,6 @@ weight: 3
 <span class="verse" id="v8"><sup class="verse-num">8</sup> Victory comes from you; bless your people!</span>
 <p class="section-ref">Ps 3:3-8</p>
 
-### with Stringed Instruments
-
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

@@ -10,16 +10,17 @@ weight: 1
 
 ## Nahum Chapter 1
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> The Oracle of Nahum The Book of the Vision of Nahum <strong>Yahveh</strong><strong>’s Anger Against Nineveh</strong></span>
+<span class="verse" id="v1"><sup class="verse-num">1</sup> The Oracle of Nahum The Book of the Vision of Nahum 	<strong>Yahveh</strong><strong>’s Anger Against Nineveh</strong></span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> Yahveh is an exclusive God that avenges with anger. He carries out vengeance on his adversaries; he stores up anger for his enemies.</span>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> He doesn’t get mad quick, but he does exert his power; he doesn’t let the guilty go free. He displays his power in storms and tornadoes; clouds are dust beneath his feet.<strong></span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> He doesn’t get mad quick, but he does exert his power; he doesn’t let the guilty go free. He displays his power in storms and tornadoes; clouds are dust beneath his feet.</span>
 <p class="section-ref">Nah 1:1-3</p>
 
 <span class="verse" id="v4"><sup class="verse-num">4</sup> At his command seas and rivers dry up, Bashan and Carmel wither, Lebanon’s blossoms wilt.</span>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> In his presence, mountains quake and hills melt; earth trembles and its people perish.<strong>	</strong><strong>	</strong><strong>	</strong><strong>Nah 1:4-5</strong></span>
+<span class="verse" id="v5"><sup class="verse-num">5</sup> In his presence, mountains quake and hills melt; earth trembles and its people perish.</span>
+<p class="section-ref">Nah 1:4-5</p>
 
 <span class="verse" id="v6"><sup class="verse-num">6</sup> Who can withstand his indignation? Who can endure his furious anger? He pours out wrath like fire and cracks rocks in pieces.</span>
 
@@ -36,12 +37,14 @@ weight: 1
 
 <span class="verse" id="v12"><sup class="verse-num">12</sup> This is what Yahveh says, <em>“Though </em><em>strong and </em><em>numerous</em><em>,</em> <em>	</em><em>	</em>the Assyrians<em> wi</em><em>ll </em><em>perish</em><em> and disappear.</em> <em>	</em><em>Though I’ve let </em><em>them punish</em><em> you</em><em> before</em><em>,</em> <em>	</em><em>	</em><em>I won’t let </em><em>them do it again</em><em>.</em></span>
 
-<span class="verse" id="v13"><strong><sup>3</sup></strong><em>I’ll</em><em> break their</em><em> yoke </em>off your neck <em>	</em><em>	and tear their</em><em> shackles</em><em> </em>off your feet<em>.”</em><strong>	</strong><strong>Nah 1:9-13</strong></span>
+<span class="verse" id="v13"><sup class="verse-num">13</sup> <em>I’ll</em><em> break their</em><em> yoke </em>off your neck <em>	</em><em>	and tear their</em><em> shackles</em><em> </em>off your feet<em>.”</span>
+<p class="section-ref">Nah 1:9-13</p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> Yahveh has issued an edict about you, <em>Assyria</em>: <em>“</em><em>No offspring will carry on your </em><em>name</em><em>;</em> <em>	</em><em>I’ll </em><em>remove</em><em> idol and image</em> <em>	</em><em>	from the templ</em><em>e</em><em>s</em><em> of your gods.</em> <em>	</em><em>I’ll get your grave ready</em> <em>	</em><em>	</em><em>because you’re contemptible.”</em><em> </em><strong></span>
+<span class="verse" id="v14"><sup class="verse-num">14</sup> Yahveh has issued an edict about you, <em>Assyria</em>: <em>“</em><em>No offspring will carry on your </em><em>name</em><em>;</em> <em>	</em><em>I’ll </em><em>remove</em><em> idol and image</em> <em>	</em><em>	from the templ</em><em>e</em><em>s</em><em> of your gods.</em> <em>	</em><em>I’ll get your grave ready</em> <em>	</em><em>	</em><em>because you’re contemptible.”</em><em></span>
 <p class="section-ref">Nah 1:14</p>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> Over the mountains, a messenger is coming with good news, someone that’s announcing peace! Celebrate your festivals, Judah; fulfill your vows; those wicked invaders will never attack you again. I’ll completely destroy them.<strong>	</strong><strong>Nah 1:15</strong> <strong>Nineveh to Fall</strong></span>
+<span class="verse" id="v15"><sup class="verse-num">15</sup> Over the mountains, a messenger is coming with good news, someone that’s announcing peace! Celebrate your festivals, Judah; fulfill your vows; those wicked invaders will never attack you again. I’ll completely destroy them.</span>
+<p class="section-ref">Nah 1:15</p>
 
 
 <style>

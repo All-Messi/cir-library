@@ -11,6 +11,8 @@ weight: 7
 
 ## Psalms Chapter 7
 
+### A Shiggaion of David that He Sang to the LORD About Cush, a Benjamite
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> LORD my God, I’ve taken refuge in you; protect me from persecutors</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> so they won’t tear me apart like a lion does and drag me away with no one to rescue me.</span>
@@ -47,9 +49,6 @@ weight: 7
 
 <span class="verse" id="v17"><sup class="verse-num">17</sup> I’ll give the LORD the thanks his goodness calls for and sing praise to the LORD Most High.</span>
 <p class="section-ref">Ps 7:12-17</p>
-
-### Set to The Gittith
-
 
 
 <style>

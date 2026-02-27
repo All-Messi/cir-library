@@ -19,13 +19,19 @@ weight: 32
 
 <span class="verse" id="v9"><sup class="verse-num">9</sup> <em>Abundant</em><em> years may not bring </em><em>wisdom;</em> <em>elders may not understand </em><em>what’s</em><em> just.</em></span>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>So</em><em> listen and I’ll say what I think too.</em><strong>	</strong><strong>	</strong><strong>Job 32:1-10</strong></span>
+<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>So</em><em> listen and I’ll say what I think too.</span>
+<p class="section-ref">Job 32:1-10</p>
+
+<span class="verse" id="v11"><sup class="verse-num">11</sup> <em>“I</em><em> waited for your </em><em>words;</em> <em>I listened to your reasoning</em> <em>while you thought about what to say.</em></span>
 
 <span class="verse" id="v12"><sup class="verse-num">12</sup> <em>I</em><em> paid careful </em><em>attention;</em> <em>none of you refuted Job</em> <em>or answered his arguments.</em></span>
 
 <span class="verse" id="v13"><sup class="verse-num">13</sup> <em>Don’t</em><em> </em><em>say, ‘</em><em>We’ve found him too wise for </em><em>us;</em> <em>God alone will have to refute him, not mortals.’</em></span>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> <em>Job</em><em> hasn’t been arguing with </em><em>me;</em> <em>but I wouldn’t have answered him with your arguments.</em><strong>	</strong> <strong>Job 32:11-14</strong></span>
+<span class="verse" id="v14"><sup class="verse-num">14</sup> <em>Job</em><em> hasn’t been arguing with </em><em>me;</em> <em>but I wouldn’t have answered him with your arguments.</span>
+<p class="section-ref">Job 32:11-14</p>
+
+<span class="verse" id="v15"><sup class="verse-num">15</sup> <em>“You’re</em><em> </em><em>discredited;</em> <em>you don’t have anything else to say.</em></span>
 
 <span class="verse" id="v16"><sup class="verse-num">16</sup> <em>Should</em><em> I keep waiting </em> <em>when you’re not speaking anymore?</em></span>
 
@@ -39,7 +45,8 @@ weight: 32
 
 <span class="verse" id="v21"><sup class="verse-num">21</sup> <em>I</em><em> won’t show partiality to anybody</em> <em>or flatter anyone.</em></span>
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> <em>I</em><em> don’t know how to </em><em>flatter;</em> <em>otherwise, my Maker would put an end to me.”</em><strong> </strong><strong>	</strong><strong>Job 32:15-22</strong></span>
+<span class="verse" id="v22"><sup class="verse-num">22</sup> <em>I</em><em> don’t know how to </em><em>flatter;</em> <em>otherwise, my Maker would put an end to me.”</em><strong></span>
+<p class="section-ref">Job 32:15-22</p>
 
 
 <style>

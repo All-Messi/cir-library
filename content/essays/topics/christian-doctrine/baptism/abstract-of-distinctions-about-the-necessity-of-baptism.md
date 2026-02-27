@@ -4,7 +4,7 @@ categories:
 - Topics
 - Christian Doctrine
 - Baptism
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: ABSTRACT OF DISTINCTIONS ABOUT THE NECESSITY OF BAPTISM
 weight: 3

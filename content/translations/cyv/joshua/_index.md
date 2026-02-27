@@ -3,7 +3,7 @@ book: Joshua
 chapters: 24
 title: Joshua
 translation: CYV
-type: scripture
+type: book
 weight: 6
 ---
 

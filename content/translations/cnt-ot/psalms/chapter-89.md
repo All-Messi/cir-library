@@ -11,6 +11,8 @@ weight: 89
 
 ## Psalms Chapter 89
 
+### A Maskil of Ethan the Ezrahite
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> I’ll sing forever about the LORD’s enduring love and make known his faithfulness to every generation,</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> because I’ve said, “You build up enduring love; in the heavens you establish your faithfulness.”</span>
@@ -121,9 +123,6 @@ weight: 89
 
 <span class="verse" id="v52"><sup class="verse-num">52</sup> Bless the LORD forever! Amen and Amen.</span>
 <p class="section-ref">Ps 89:49-52</p>
-
-### A Prayer of Moses, the Man of God
-
 
 
 <style>

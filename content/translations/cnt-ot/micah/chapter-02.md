@@ -11,6 +11,8 @@ weight: 2
 
 ## Micah Chapter 2
 
+### Judgment Against Wealthy Oppressors
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Misfortune awaits those who devise sin, who lie awake plotting schemes in bed! In the morning they do them because they can.</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> They covet fields and seize them; <em>t</em><em>hey </em><em>desire </em>horses and take them. They rob people and confiscate the property they’ve inherited.</span>
@@ -19,8 +21,10 @@ weight: 2
 
 <span class="verse" id="v4"><sup class="verse-num">4</sup> Your enemies<em> </em><em>will taunt you with</em><em> a </em><em>proverb </em> <em>	and wail a bitter </em><em>dirge </em>in mockery<em>,</em> <em>	</em><em>	‘W</em><em>e’re ruined!</em> <em>	</em><em>	</em><em>	</em>God <em>is</em><em> reapportioning</em><em> </em><em>our things.</em> <em>	</em><em>	He’s taking</em><em> </em><em>them</em><em> away from </em><em>us</em> <em>	</em><em>	</em><em>	and</em><em> </em><em>giving</em><em> our fields</em><em> </em><em>to</em><em> </em><em>apostates!</em><em>’</em></span>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>So</em><em> </em><em>you won’t have anyone</em><em> stretching out a </em><em>surveying</em><em> line</em> <em>	</em><em>f</em><em>or you by lot in the </em><em>L</em><em>ORD</em><em>’s</em><em> </em><em>assembly.</em><strong></span>
+<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>So</em><em> </em><em>you won’t have anyone</em><em> stretching out a </em><em>surveying</em><em> line</em> <em>	</em><em>f</em><em>or you by lot in the </em><em>L</em><em>ORD</em><em>’s</em><em> </em><em>assembly.</span>
 <p class="section-ref">Mic 2:1-5</p>
+
+<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>“‘Don’t</em><em> preach about such things,’ they </em><em>say;</em> <em>	‘disgrace won’t catch up with us.’</em></span>
 
 <span class="verse" id="v7"><sup class="verse-num">7</sup> <em>Are</em><em> you </em>really <em>saying such a thing, House of Jacob?</em><em>	</em> <em>	Isn’t the </em><em>L</em><em>ORD</em><em>’s</em><em> Spirit patient?</em> <em>	Does he do such things?</em> <em>	Don’t his words do good </em> <em>	</em><em>	for those who do right?</em></span>
 
@@ -30,14 +34,13 @@ weight: 2
 
 <span class="verse" id="v10"><sup class="verse-num">10</sup> <em>Get</em><em> up and get out of here!</em> <em>	this is no longer a place to </em><em>rest;</em> <em>	</em><em>	there’s sinfulness here </em> <em>	</em><em>	that brings painful destruction.</em></span>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> <em>If</em><em> a liar full of hot air tells you </em> <em>	he’ll preach about the fun of wine and alcohol,</em> <em>	he’ll certainly get a hearing from you!</em><strong></span>
+<span class="verse" id="v11"><sup class="verse-num">11</sup> <em>If</em><em> a liar full of hot air tells you </em> <em>	he’ll preach about the fun of wine and alcohol,</em> <em>	he’ll certainly get a hearing from you!</span>
 <p class="section-ref">Mic 2:6-11</p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> <em>The</em><em> One that opens the gate will lead you </em><em>out;</em> <em>	</em><em>	you’ll break out of exile through it.</em> <em>	Your King will go out ahead of you,</em> <em>	</em><em>	the </em><em>L</em><em>ORD</em><em> at the lead.” </em><strong></span>
+<span class="verse" id="v12"><sup class="verse-num">12</sup> <em>“I’ll</em><em> assemble you, Jacob, remnant of Israel,</em> <em>	</em><em>	and put you together like sheep in a </em><em>fold;</em> <em>	like a flock in its pasture,</em> <em>	</em><em>	you’ll be a noisy crowd in your land.</em></span>
+
+<span class="verse" id="v13"><sup class="verse-num">13</sup> <em>The</em><em> One that opens the gate will lead you </em><em>out;</em> <em>	</em><em>	you’ll break out of exile through it.</em> <em>	Your King will go out ahead of you,</em> <em>	</em><em>	the </em><em>L</em><em>ORD</em><em> at the lead.”</span>
 <p class="section-ref">Mic 2:12-13</p>
-
-### Judgment Against Israel’s Leaders
-
 
 
 <style>

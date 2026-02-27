@@ -11,6 +11,8 @@ weight: 84
 
 ## Psalms Chapter 84
 
+### Set to The Gittith
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Your Temple is so beautiful, Yahveh of Hosts!</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> I long, yes, even faint with longing for your courts; my body and soul sing for joy to the living God.</span>

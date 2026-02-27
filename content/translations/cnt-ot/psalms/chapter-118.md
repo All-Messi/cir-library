@@ -75,9 +75,6 @@ weight: 118
 <span class="verse" id="v29"><sup class="verse-num">29</sup> Give thanks to the LORD because he’s good; his love lasts forever.</span>
 <p class="section-ref">Ps 118:22-29</p>
 
-### Aleph א
-
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

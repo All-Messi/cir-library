@@ -39,9 +39,6 @@ weight: 41
 <span class="verse" id="v13"><sup class="verse-num">13</sup> Bless the LORD God of Israel from everlasting to everlasting. Amen and Amen.</span>
 <p class="section-ref">Ps 41:10-13</p>
 
-### A Maskil of the Sons of Korah
-
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

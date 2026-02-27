@@ -11,6 +11,8 @@ weight: 119
 
 ## Psalms Chapter 119
 
+### Aleph א
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> How blessed they are who follow his way blamelessly, who follow the Law of Yahveh,</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> who observe his testimonies and look to him with all their heart.</span>

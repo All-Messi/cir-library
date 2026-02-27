@@ -13,13 +13,16 @@ weight: 25
 
 <span class="verse" id="v1"><sup class="verse-num">1</sup> <strong>Bildad the Shuhite answered:</strong></span>
 
-<span class="verse" id="v3"><strong><sup>3</sup></strong><em>Who can count his troops?</em> <em>	</em><em>	Who doesn’t his light rise on?</em></span>
+<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>“Dominion and awe belong to </em>God<em>,</em> <em>	</em><em>	who establishes order high in his sky.</em></span>
 
-<span class="verse" id="v4"><strong><sup>4</sup></strong><em>How can anyone be innocent in his presence?</em> <em>	</em><em>	How can anyone born of woman be pure?</em></span>
+<span class="verse" id="v3"><sup class="verse-num">3</sup> <em>Who can count his troops?</em> <em>	</em><em>	Who doesn’t his light rise on?</em></span>
 
-<span class="verse" id="v5"><strong><sup>5</sup></strong><em>If the moon isn’t bright</em> <em>	</em><em>	</em><em>	and the stars aren’t pure to </em>God<em>,</em></span>
+<span class="verse" id="v4"><sup class="verse-num">4</sup> <em>How can anyone be innocent in his presence?</em> <em>	</em><em>	How can anyone born of woman be pure?</em></span>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>	</em><strong><sup>6</sup></strong><em>how much less people—like maggots,</em> <em>	</em><em>	</em><em>	and their offspring—mere worms.”</em><strong>	</strong><strong>Job 25:1-6</strong></span>
+<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>If the moon isn’t bright</em> <em>	</em><em>	</em><em>	and the stars aren’t pure to </em>God<em>,</em></span>
+
+<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>how much less people—like maggots,</em> <em>	</em><em>	</em><em>	and their offspring—mere worms.”</span>
+<p class="section-ref">Job 25:1-6</p>
 
 
 <style>

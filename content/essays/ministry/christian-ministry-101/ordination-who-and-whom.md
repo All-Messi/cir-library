@@ -3,7 +3,7 @@ author: Virgil Warren, PhD
 categories:
 - Ministry
 - Christian Ministry 101
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: 'ORDINATION: WHO AND WHOM'
 weight: 2

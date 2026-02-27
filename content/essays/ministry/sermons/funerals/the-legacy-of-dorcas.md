@@ -4,7 +4,7 @@ categories:
 - Ministry
 - Sermons
 - Funerals
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: THE LEGACY OF DORCAS
 weight: 3

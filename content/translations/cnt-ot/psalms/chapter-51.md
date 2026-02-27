@@ -11,6 +11,8 @@ weight: 51
 
 ## Psalms Chapter 51
 
+### Psalm for the Choir Director. A Psalm of David, When Nathan the Prophet Came to Him, After He’d Slept with Bathsheba
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Be gracious to me, God, in proportion to your enduring love; according to your great mercy, blot out my transgressions.</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> Wash me thoroughly from my sin; cleanse me from my iniquity.</span>
@@ -51,9 +53,6 @@ weight: 51
 
 <span class="verse" id="v19"><sup class="verse-num">19</sup> Then you’ll delight in godly sacrifices, in burnt offerings and whole burnt offerings; then young bulls will again be offered on your altar.</span>
 <p class="section-ref">Ps 51:10-19</p>
-
-### When Doeg the Edomite Came and Told Saul, “David has gone to Ahimelech’s house.”
-
 
 
 <style>

@@ -15,6 +15,8 @@ weight: 20
 
 <span class="verse" id="v17"><sup class="verse-num">17</sup> And [the] Jesus, going-up to Jerusalem, called the twelve [disciples]<sup>ms</sup> privately<sup>2</sup> and on the road said to-them,</span>
 
+<span class="verse" id="v18"><sup class="verse-num">18</sup> <em>“Behold we-are-going-up to Jerusalem, and the Son of-[the] </em><em>M</em><em>an will-be-delivered to-the chief-priests and scribes, and they-will-condemn him to-death, </em><strong><sup>19</sup></strong><em>and they-will-deliver him to-the Gentiles unto [the] mocking (him) and scourging (him) and crucifying (him), and on-the third day he-will-be-raised.”</em></span>
+
 <span class="verse" id="v20"><sup class="verse-num">20</sup> Then the mother of-the sons of-Zebedee comes-to him with the sons of-her, kneeling (to him) and asking something from him. <strong><sup>21</sup></strong>And the/he said to-her, <em>“What do-you-want?”</em> She-says to-him, <em>“Say [in-order]-that these [the] two sons of-me will-sit one on (the) right[s] and one on (the) left[s] of-you in the kingdom of-you.”</em><em> </em></span>
 
 <span class="verse" id="v22"><sup class="verse-num">22</sup> And [the] Jesus, having-answered, said, <em>“</em><em>You</em><em><sup>pl</sup></em><em>-do┘not└know</em><em> that you-are-asking.</em><em> </em><em>Are-</em><em>you</em><em><sup>pl</sup></em><em> able to-drink the cup that </em><em><u>I</u></em><em> will drink?”</em><em> </em> They-say to-him, <em>“We-are-able.”</em></span>

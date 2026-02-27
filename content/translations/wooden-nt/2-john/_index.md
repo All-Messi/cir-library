@@ -3,7 +3,7 @@ book: 2 John
 chapters: 1
 title: 2 John
 translation: WNT
-type: scripture
+type: book
 weight: 63
 ---
 

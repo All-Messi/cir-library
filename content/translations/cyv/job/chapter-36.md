@@ -13,6 +13,8 @@ weight: 36
 
 <span class="verse" id="v1"><sup class="verse-num">1</sup> <strong>Elihu</strong><strong> continued:</strong></span>
 
+<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>“Bear</em><em> with me a little longer, and I’ll show you</em> <em>what I have to say on God’s behalf.</em></span>
+
 <span class="verse" id="v3"><sup class="verse-num">3</sup> <em>I’ll</em><em> bring my knowledge from afar</em> <em>and credit goodness to my Maker.</em></span>
 
 <span class="verse" id="v4"><sup class="verse-num">4</sup> <em>What</em><em> I’m saying is </em><em>true;</em> <em>I know perfectly well what I’m talking about.</em></span>
@@ -27,7 +29,8 @@ weight: 36
 
 <span class="verse" id="v9"><sup class="verse-num">9</sup> <em>he</em><em> tells them the reason: </em> <em>it’s because they’ve acted arrogantly.</em><strong>	</strong></span>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>He</em><em> opens their ears to instruction</em> <em>and commands them to turn away from sin.</em><strong> </strong><strong>	</strong><strong>Job 36:1-10</strong></span>
+<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>He</em><em> opens their ears to instruction</em> <em>and commands them to turn away from sin.</em><strong></span>
+<p class="section-ref">Job 36:1-10</p>
 
 <span class="verse" id="v11"><sup class="verse-num">11</sup> <em>If</em><em> they listen and serve him,</em> <em>they’ll end their days in prosperity,</em> <em>their years in pleasantness.</em></span>
 
@@ -37,9 +40,12 @@ weight: 36
 
 <span class="verse" id="v14"><sup class="verse-num">14</sup> <em>They</em><em> die </em><em>young;</em> <em>their life perishes among the cult prostitutes.</em></span>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> <em>He</em><em> delivers the afflicted by their afflictions</em> <em>and opens their ears with adversity.</em><strong> </strong><strong>	</strong><strong>	</strong><strong>Job 36:11-15</strong></span>
+<span class="verse" id="v15"><sup class="verse-num">15</sup> <em>He</em><em> delivers the afflicted by their afflictions</em> <em>and opens their ears with adversity.</em><strong></span>
+<p class="section-ref">Job 36:11-15</p>
 
 <span class="verse" id="v16"><sup class="verse-num">16</sup> <em>So</em><em> he’s luring you with distress</em> <em>into a safe space that’s not crowded</em> <em>and </em><em>has set</em><em> delicious food on your table.</em><strong>	</strong></span>
+
+<span class="verse" id="v17"><sup class="verse-num">17</sup> <em>“But</em><em> you’ve become obsessed with condemning sinners,</em> <em>obsessed with judgment and justice.</em></span>
 
 <span class="verse" id="v18"><sup class="verse-num">18</sup> <em>Be</em><em> careful that anger doesn’t lure you into </em><em>scoffing;</em> <em>don’t let the great cost of the ransom turn you aside.</em></span>
 
@@ -51,7 +57,10 @@ weight: 36
 
 <span class="verse" id="v22"><sup class="verse-num">22</sup> <em>God</em><em> is honored by his </em><em>power;</em> <em>who can teach like him?</em></span>
 
-<span class="verse" id="v23"><sup class="verse-num">23</sup> <em>Who</em><em> has prescribed his conduct</em> <em>or said, ‘You’ve done something wrong’?</em><strong>	</strong><strong>Job 36:16-23</strong></span>
+<span class="verse" id="v23"><sup class="verse-num">23</sup> <em>Who</em><em> has prescribed his conduct</em> <em>or said, ‘You’ve done something wrong’?</span>
+<p class="section-ref">Job 36:16-23</p>
+
+<span class="verse" id="v24"><sup class="verse-num">24</sup> <em>“Remember</em><em> to extol his work</em> <em>that people sing about.</em></span>
 
 <span class="verse" id="v25"><sup class="verse-num">25</sup> <em>Everybody</em><em> has seen </em><em>it;</em><em> </em> <em>they can look at it from a long way off.</em></span>
 
@@ -59,7 +68,8 @@ weight: 36
 
 <span class="verse" id="v27"><sup class="verse-num">27</sup> <em>He</em><em> evaporates water drops</em> <em>and distills his mist into rain,</em></span>
 
-<span class="verse" id="v28"><sup class="verse-num">28</sup> <em>which</em><em> the clouds </em> <em>pour down on people abundantly.</em><em>	</em><strong>Job 36:24-28</strong></span>
+<span class="verse" id="v28"><sup class="verse-num">28</sup> <em>which</em><em> the clouds </em> <em>pour down on people abundantly.</span>
+<p class="section-ref">Job 36:24-28</p>
 
 <span class="verse" id="v29"><sup class="verse-num">29</sup> <em>Can</em><em> anyone understand how clouds spread out</em> <em>or how </em><em>thunder claps</em><em> in his pavilion?</em></span>
 
@@ -69,7 +79,8 @@ weight: 36
 
 <span class="verse" id="v32"><sup class="verse-num">32</sup> <em>He</em><em> fills his hands with lightning bolts</em> <em>and hurls them at their marks.</em></span>
 
-<span class="verse" id="v33"><sup class="verse-num">33</sup> <em>Thunder</em><em> announces his presence</em> <em>and </em>warns <em>livestock that </em>a storm <em>is coming.</em><strong>	</strong><strong>Job 36:29-33</strong></span>
+<span class="verse" id="v33"><sup class="verse-num">33</sup> <em>Thunder</em><em> announces his presence</em> <em>and </em>warns <em>livestock that </em>a storm <em>is coming.</span>
+<p class="section-ref">Job 36:29-33</p>
 
 
 <style>

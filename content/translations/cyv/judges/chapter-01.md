@@ -23,6 +23,8 @@ weight: 1
 
 <span class="verse" id="v11"><sup class="verse-num">11</sup> From there they attacked Debir (called Kiriath-sepher before). <strong><sup>12</sup></strong>Caleb said, <em>“Whoever </em><em>takes</em><em> Keriath-sepher</em><em>, I’ll give </em><em>my daughter</em><em> Achsah</em><em> as a wife.”</em><em> </em><strong><sup>13</sup></strong>Othniel Ben-Kenaz, Caleb’s younger brother, took it, and <em>Caleb</em> gave her to him. <strong><sup>14</sup></strong>When she came to him, she urged him to ask her father for a field. She got down from her donkey, and Caleb asked, <em>“What do</em><em> you want</em><em> for yourself</em><em>?”</em><em>  </em></span>
 
+<span class="verse" id="v15"><sup class="verse-num">15</sup> <em>“A</em><em> present.</em><em> Since you’ve pu</em><em>t me in the Negev, give me springs.”</em> Caleb gave her the upper and lower springs.</span>
+
 <span class="verse" id="v16"><sup class="verse-num">16</sup> The descendants of Moses’ father-in-law, the Kenite, moved from the City of Palms to the Wilderness of Judah in the Negev near Arad, and settled with the people. <strong><sup>17</sup></strong>Judah went with Simeon and defeated the Canaanites in Zephath and destroyed it; so the city was called Hormah. <strong><sup>18</sup></strong>Judah also took Gaza, Ashkelon, and Ekron, and their territories. Yahveh was with Judah, and he gained possession of the hill country, but he couldn’t drive out the people in the plain; they had iron chariots. <strong><sup>20</sup></strong>They gave Hebron to Caleb, like Moses had said. He drove out Anak’s three sons.</span>
 <p class="section-ref">Jud 1:11-20</p>
 
@@ -43,9 +45,6 @@ weight: 1
 
 <span class="verse" id="v34"><sup class="verse-num">34</sup> The Amorites pressed the <u>Dan</u>ites back into the hill country. They wouldn’t let them come down to the plain. <strong><sup>35</sup></strong>They went on living in Mount Heres. Aijalon, and Shaalbim. But Joseph’s house pressed heavily on them and subjected them to forced labor. <strong><sup>36</sup></strong>The border of the Amorites ran from the ascent of Akrabbim, from Sela and up.</span>
 <p class="section-ref">Jud 1:29-36</p>
-
-### The Angel of the Lord Comes to Bokim
-
 
 
 <style>

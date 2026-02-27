@@ -4,7 +4,7 @@ categories:
 - Topics
 - Christian Doctrine
 - Holy Spirit Pneumatology
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: RELATING TO GOD THROUGH
 weight: 3

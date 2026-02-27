@@ -21,7 +21,8 @@ weight: 11
 
 <span class="verse" id="v5"><sup class="verse-num">5</sup> Just like you don’t know where the wind will blow or how bones form in a womb, you don’t understand what God’s doing who makes everything happen.</span>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> Plant your seed in the morning; don’t be idle in the afternoon; you don’t know if planting in the morning or afternoon is best, or if one’s as good as the other.<strong>	</strong><strong>Eccl 11:1-6</strong></span>
+<span class="verse" id="v6"><sup class="verse-num">6</sup> Plant your seed in the morning; don’t be idle in the afternoon; you don’t know if planting in the morning or afternoon is best, or if one’s as good as the other.</span>
+<p class="section-ref">Eccl 11:1-6</p>
 
 <span class="verse" id="v7"><sup class="verse-num">7</sup> Light is pleasing; sunrise is pleasant to behold.</span>
 
@@ -29,7 +30,8 @@ weight: 11
 
 <span class="verse" id="v9"><sup class="verse-num">9</sup> Young people, enjoy life while you’re young; stay pleasant. Go ahead and follow your impulses and desires; just remember, God will judge you for all of them.</span>
 
-<span class="verse" id="v10"><strong><sup>0</sup></strong>So don’t worry; take care of your health, because childhood and the prime of life soon pass.<strong> </strong><strong>	</strong><strong>Eccl 11:7-10</strong></span>
+<span class="verse" id="v10"><sup class="verse-num">10</sup> So don’t worry; take care of your health, because childhood and the prime of life soon pass.<strong></span>
+<p class="section-ref">Eccl 11:7-10</p>
 
 
 <style>

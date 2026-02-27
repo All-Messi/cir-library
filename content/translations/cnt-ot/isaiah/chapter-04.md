@@ -11,9 +11,12 @@ weight: 4
 
 ## Isaiah Chapter 4
 
+### The LORD’s Branch
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> At that time, seven widows will grab hold of one man and say, <em>“We’ll </em><em>provide</em><em> our own </em><em>food</em><em> and </em><em>clothes. J</em><em>ust let us </em><em>take</em><em> your name</em><em> so we won’t be old maids</em><em>!”</em></span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>But</em><em> </em>at that time, the LORD’s branch will be beautiful and glorious. What the ground produces will be the pride and joy of Israel’s survivors. <strong><sup>3</sup></strong>The remnant in Zion and Jerusalem will be holy, everybody that’s in his record books for living there. <strong><sup>4</sup></strong>When the LORD has washed the grime off of Zion’s inhabitants and cleaned up the bloodstains in Jerusalem by the spirit of judgment and burning, <strong><sup>5</sup></strong>then he’ll create over Mount Zion and its assemblies a cloud of smoke during the day, a bright blazing fire at night, and a canopy above the glory. <strong><sup>6</sup></strong>It’ll be shade from daytime heat and shelter from storms and rain.  <strong>	</strong><strong>Is</strong><strong> 4:1-6</strong> <strong>The Song of the Vineyard</strong></span>
+<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>But</em><em> </em>at that time, the LORD’s branch will be beautiful and glorious. What the ground produces will be the pride and joy of Israel’s survivors. <strong><sup>3</sup></strong>The remnant in Zion and Jerusalem will be holy, everybody that’s in his record books for living there. <strong><sup>4</sup></strong>When the LORD has washed the grime off of Zion’s inhabitants and cleaned up the bloodstains in Jerusalem by the spirit of judgment and burning, <strong><sup>5</sup></strong>then he’ll create over Mount Zion and its assemblies a cloud of smoke during the day, a bright blazing fire at night, and a canopy above the glory. <strong><sup>6</sup></strong>It’ll be shade from daytime heat and shelter from storms and rain.</span>
+<p class="section-ref">Is 4:1-6</p>
 
 
 <style>

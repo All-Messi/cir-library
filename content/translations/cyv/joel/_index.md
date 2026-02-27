@@ -3,7 +3,7 @@ book: Joel
 chapters: 3
 title: Joel
 translation: CYV
-type: scripture
+type: book
 weight: 29
 ---
 

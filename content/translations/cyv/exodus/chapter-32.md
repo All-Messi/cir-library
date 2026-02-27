@@ -32,19 +32,24 @@ weight: 32
 <span class="verse" id="v19"><sup class="verse-num">19</sup> As soon as he got close to the camp, he saw the calf and the dancing, and his anger flared. He threw the tablets down and shattered them at the foot of the mountain. <strong><sup>20</sup></strong>He took the calf they’d made, burned it, and ground it to powder. He scattered it on the water and made the people drink it.</span>
 <p class="section-ref">Ex 32:15-20</p>
 
-<span class="verse" id="v21"><strong><sup>1</sup></strong>Moses asked Aaron, <em>“What did these people </em><em>do to get</em><em> you</em><em> to bring </em><em>such a great sin on them?”</em><em> </em></span>
+<span class="verse" id="v21"><sup class="verse-num">21</sup> Moses asked Aaron, <em>“What did these people </em><em>do to get</em><em> you</em><em> to bring </em><em>such a great sin on them?”</em><em> </em></span>
+
+<span class="verse" id="v22"><sup class="verse-num">22</sup> <em>“Don’t </em><em>be furious with me. You know they’</em><em>re prone to evil.</em><em> </em><strong><sup>23</sup></strong><em>They </em><em>told</em><em> me, ‘Make us a god </em><em>to</em><em> go in front of us.</em><em> </em><em>We don’t know what’s happened to this Moses who brought </em><em>us out of Egypt.’ </em><strong><sup>24</sup></strong><em>I told them, ‘</em><em>Whoever has gold</em><em>,</em><em> take it off.’</em><em> T</em><em>hey gave it to me</em><em>;</em><em> I threw it in</em><em>to</em><em> the fire, and this calf</em><em> came out</em><em>.”</em><em></span>
+<p class="section-ref">Ex 32:21-24</p>
 
 <span class="verse" id="v25"><sup class="verse-num">25</sup> Moses saw that the people were out of control (Aaron had let them get out of control to be ridiculed by their enemies). <strong><sup>26</sup></strong>So he stood at the entrance to the camp and said, <em>“Whoever is for </em><em>Yahveh</em><em>, come to me!”</em> Levi’s descendants went to him,</span>
 
 <span class="verse" id="v27"><sup class="verse-num">27</sup> He said, <em>“Yahveh </em><em>God of Israel, says, ‘Every</em><em> one</em><em> of you, put </em><em>your </em><em>sword on </em><em>your</em><em> thigh, and go back and fort</em><em>h from gate to gate in the camp. Each man, slay your brother, </em><em>frie</em><em>n</em><em>d, </em><em>or</em><em> neighbor.’”</em></span>
 
-<span class="verse" id="v28"><sup class="verse-num">28</sup> The Levites did that and slew about 3,000 men that day. <strong><sup>29</sup></strong>Then Moses said, <em>“Dedicate yourselves to </em><em>Yahveh</em><em> (</em><em>because every man has been against</em><em> his son and</em><em> brother</em><em>)</em><em> so he </em><em>can</em><em> </em><em>bless</em><em> you today.”</em><em>	 </em><strong>Ex 32:25-29</strong></span>
+<span class="verse" id="v28"><sup class="verse-num">28</sup> The Levites did that and slew about 3,000 men that day. <strong><sup>29</sup></strong>Then Moses said, <em>“Dedicate yourselves to </em><em>Yahveh</em><em> (</em><em>because every man has been against</em><em> his son and</em><em> brother</em><em>)</em><em> so he </em><em>can</em><em> </em><em>bless</em><em> you today.”</span>
+<p class="section-ref">Ex 32:25-29</p>
 
 <span class="verse" id="v30"><sup class="verse-num">30</sup> The next day, Moses told the people, <em>“You’</em><em>ve committed </em><em>a serious</em><em> sin.</em><em> I’m going up to Yahveh. Maybe I can atone</em><em> for you.”</em> <strong><sup>31</sup></strong>He went back to Yahveh and said, <em>“The people have</em><em> committed </em><em>a serious</em><em> sin</em><em> by making a god out of gold</em><em>.</em><em> </em><strong><sup>32</sup></strong><em>But if</em><em> you will, forgive them. I</em><em>f not, </em><em>erase </em><em><u>me</u></em><em> out of your</em><em> </em><em>scroll</em><em>!”</em></span>
 
 <span class="verse" id="v33"><sup class="verse-num">33</sup> Yahveh told him, <em>“The ones that have sinned against me</em><em> </em><em>are the ones </em><em>I’ll </em><em>erase</em><em> out of my </em><em>scroll</em><em>.</em><em> </em><strong><sup>34</sup></strong><em>Go </em><em>lead the</em><em>m </em><em>where I </em><em>said</em><em>.</em><em> </em><em>My angel will go </em><em>ahead</em><em> of you.</em><em> </em><em>When I punish, I’ll punish </em><em><u>them</u></em><em> for their sin.”</em></span>
 
-<span class="verse" id="v35"><sup class="verse-num">35</sup> Yahveh struck the people because of what they’d done with the calf Aaron had made.<strong>	</strong><strong>	</strong> <strong>	   </strong><strong>Ex 32:30-35</strong></span>
+<span class="verse" id="v35"><sup class="verse-num">35</sup> Yahveh struck the people because of what they’d done with the calf Aaron had made.</span>
+<p class="section-ref">Ex 32:30-35</p>
 
 
 <style>

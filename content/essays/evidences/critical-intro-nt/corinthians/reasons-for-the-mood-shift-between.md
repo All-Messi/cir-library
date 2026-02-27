@@ -4,7 +4,7 @@ categories:
 - Evidences
 - Critical Intro Nt
 - Corinthians
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: REASONS FOR THE “MOOD SHIFT” BETWEEN
 weight: 3

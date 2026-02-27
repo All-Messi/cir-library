@@ -3,7 +3,7 @@ author: Virgil Warren, PhD
 categories:
 - Evidences
 - Apologetics Book
-date: '2026-02-13'
+date: '2026-02-16'
 draft: false
 title: 'Part I:  OVERVIEW OF CHRISTIAN APOLOGETICS'
 weight: 2

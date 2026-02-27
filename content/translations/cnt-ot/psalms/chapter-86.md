@@ -11,6 +11,8 @@ weight: 86
 
 ## Psalms Chapter 86
 
+### A Prayer of David
+
 <span class="verse" id="v1"><sup class="verse-num">1</sup> Listen, LORD, and answer me because I’m troubled and in need.</span>
 
 <span class="verse" id="v2"><sup class="verse-num">2</sup> Preserve my life because I’m a godly man; save me because I trust in you.</span>

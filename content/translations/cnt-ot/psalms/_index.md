@@ -3,7 +3,7 @@ book: Psalms
 chapters: 150
 title: Psalms
 translation: CNT
-type: scripture
+type: book
 weight: 19
 ---
 

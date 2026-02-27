@@ -25,9 +25,6 @@ weight: 1
 <span class="verse" id="v13"><sup class="verse-num">13</sup> You’ve heard that when I was in Judaism, I was persecuting God’s church to the extreme. I was trying to destroy it. <strong><sup>14</sup></strong>I was moving up <em>the ranks</em> in Judaism past many contemporaries in my nation because I was more fanatical about the traditions of my ancestors. <strong><sup>15</sup></strong>But God set me apart at birth and called me by his grace. It pleased him <strong><sup>16</sup></strong>to reveal his Son in me so I could present him among the Gentiles. Right away, I didn’t consult other people <strong><sup>17</sup></strong>or go up to Jerusalem to the ones that were apostles before me. I went away to Arabia and then back to Damascus. <strong><sup>18</sup></strong>Three years later I did go up to Jerusalem to visit Peter and stayed with him fifteen days. <strong><sup>19</sup></strong>I didn’t see any of the other apostles except James, the Lord’s brother. <strong><sup>20</sup></strong>What I’m writing to you is the truth. <strong><sup>21</sup></strong>After that, I went to Syria and Cilicia. <strong><sup>22</sup></strong>Christ’s churches in Judaea didn’t know me by sight. <strong><sup>23</sup></strong>The only thing they kept hearing was that the one who used to persecute them was now preaching the faith he tried to destroy, <strong><sup>24</sup></strong>and they praised God because of me.</span>
 <p class="section-ref">Gal 1:13-24</p>
 
-### Opposition to the Judaizers
-
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
