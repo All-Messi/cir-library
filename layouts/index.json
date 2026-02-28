@@ -1,4 +1,4 @@
-{{- $pages := where .Site.RegularPages "Type" "in" (slice "essays" "chapter") -}}
+{{- $pages := where .Site.RegularPages "Type" "in" (slice "essays" "chapter" "resources" "comparison" "harmony-section") -}}
 {{- $index := slice -}}
 {{- range $pages -}}
   {{- $titleCats := slice -}}
@@ -7,6 +7,7 @@
   {{- end -}}
   {{- $trunc := 500 -}}
   {{- if .Params.book }}{{ $trunc = 2000 }}{{ end -}}
-  {{- $index = $index | append (dict "title" .Title "permalink" .Permalink "content" (.Plain | truncate $trunc) "categories" $titleCats "book" .Params.book "translation" .Params.translation) -}}
+  {{- $isEssay := not .Params.book -}}
+  {{- $index = $index | append (dict "title" .Title "permalink" .Permalink "content" (.Plain | truncate $trunc) "categories" $titleCats "book" .Params.book "translation" .Params.translation "isEssay" $isEssay) -}}
 {{- end -}}
 {{- $index | jsonify -}}

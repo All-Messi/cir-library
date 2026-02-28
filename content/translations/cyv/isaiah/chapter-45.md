@@ -1,85 +1,248 @@
 ---
 book: Isaiah
 chapter: 45
-next: chapter-46
-prev: chapter-44
 title: Isaiah 45
 translation: CYV
 type: chapter
 weight: 45
+prev: chapter-44
+next: chapter-46
 ---
 
 ## Isaiah Chapter 45
 
+
 ### Cyrus, Yahveh’s Chosen One
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> This is what Yahveh says to Cyrus his anointed whose right hand he’ll empower to subdue nations and dethrone kings, to open fortress gates so they won’t be shut:</span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>“</em><em>I’ll</em><em> go ahead of you </em><em>to level out</em><em> the </em><em>mountains,</em> <em>	</em><em>	</em><em>	shatter bronze </em><em>gate</em><em>s</em><em>,</em><em> and</em><em> cut through their iron bars.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  45<sup>:1</sup></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This is what Yahveh says to Cyrus his anointed</span></p>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> <em>I’ll</em><em> give you treasures stored in the dark</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>and </em><em>wealth hidden in secret places,</em> <em>	</em><em>	</em><em>	</em><em>so</em><em> you’ll know it</em><em>’</em><em>s me,</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>Yahveh</em><em> God of Israel, who calls you by name.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    whose right hand he’ll empower                    </span></p>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> <em>For</em><em> the sake of </em><em>Jacob</em><em> my servant</em><em>,</em> <em>	</em><em>	</em><em>	</em><em>	Israel my chosen one,</em> <em>	</em><em>	</em><em>	I’ve called you by name </em> <em>	</em><em>	</em><em>	</em><em>	and given you a</em><em>n honorable</em><em> title </em> <em>	</em><em>	</em><em>	</em><em>	even though you didn’t know me.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          to subdue nations and dethrone kings,</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          to open fortress gates so they won’t be shut:</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ll go ahead of you to level out the mountains,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    shatter bronze gates, and cut through their iron bars.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll give you treasures stored in the dark</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          and wealth hidden in secret places,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    so you’ll know it’s me,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          Yahveh God of Israel, who calls you by name.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For the sake of Jacob my servant,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          Israel my chosen one,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    I’ve called you by name </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          and given you an honorable title </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          even though you didn’t know me.</span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                         </span></b></span></p>
+
 <p class="section-ref">Is 45:1-4</p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> <strong><em>I’m</em></strong><strong><em> Yahveh;</em></strong><strong><em> there’s no </em></strong><strong><em>other</em></strong><em>;</em> <em>	</em><em>	</em><em>	</em><em>	</em><strong><em>there’s no God but me</em></strong><em>.</em> <em>	</em><em>	</em><em>	I’ll arm you for war though you don’t know who I am,</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’m Yahveh; there’s no other</span></i></b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>;</span></i></span></p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>so</em><em> people from sunrise to sunset</em> <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><em>c</em><em>an know </em><strong><em>there’s no </em></strong><strong>God</strong><strong><em> but me</em></strong><em>.</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><strong><em>I’m </em></strong><strong><em>Yahveh;</em></strong><strong><em> there’s no other</em></strong><em>,</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          <b>there’s no God but me</b>.</span></i></p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> Yahveh <em>that creates light and makes darkness,</em> <em>	</em><em>	</em><em>	</em>that <em>sends peace and brings catastrophe—</em> <em>	</em><em>	</em><em>	I’m Yahveh that does all of that.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    I’ll arm you for war though you don’t know who I am,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          </span></i><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>so people from sunrise to sunset</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                        </span></sup></b><i><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>c</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>an know <b>there’s no </b></span></i><b><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>God<i> but me</i></span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.</span></i></p>
+
+
+### I’m Yahveh; there’s no other,
+
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh
+<i>that creates light and makes darkness,</i></span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>that
+<i>sends peace and brings catastrophe—</i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    I’m Yahveh that does all of that.</span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                </span></b></span></p>
+
 <p class="section-ref">Is 45:5-7</p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>“Sky</em><em>, shower from </em><em>above;</em> <em>	</em><em>	</em><em>	clouds, rain down </em><em>goodness;</em> <em>	</em><em>	</em><em>	ground, </em><em>open up</em><em> so salvation can sprout</em> <em>	</em><em>	</em><em>	</em><em>	and goodness can spring up from you.</em> <em>	</em><em>	</em><em>	I’m Yahveh your creator.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Sky, shower from above;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    clouds, rain down goodness;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    ground, open up so salvation can sprout</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          and goodness can spring up from you.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    I’m Yahveh your creator.</span></i><b><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                            </span></b></span></p>
+
 <p class="section-ref">Is 45:8</p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>“Misfortune</em><em> awaits the ones that fuss at their Maker</em> <em>	</em><em>	</em><em>	</em><em>	</em>like <em>a clay pot </em>fussing <em>at a </em><em>potter</em><em>!</em> <em>	</em><em>	</em><em>	Will a pot say to a potter, ‘What are you doing?’</em> <em>	</em><em>	</em><em>	</em><em>	or ‘What you’re making doesn’t have any </em><em>handles’</em><em>?</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Misfortune awaits the ones that fuss at their Maker</span></i></span></p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>Misfortune</em><em> awaits the baby that says to its father, </em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	‘Why did you beget me?’</em> <em>	</em><em>	</em><em>	</em><em>	or its mother, ‘Why did you have </em><em>me?’”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>like
+<i>a clay pot </i>fussing <i>at a potter!</i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    Will a pot say to a potter, ‘What are you doing?’</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          or ‘What you’re making doesn’t have any handles’?</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Misfortune awaits the baby that says to its father, </span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                ‘Why did you beget me?’</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          or its mother, ‘Why did you have me?’”</span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>              </span></b></span></p>
+
 <p class="section-ref">Is 45:9-10</p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> Yahveh, the Holy One of Israel and your Maker, says <em>“Will you question me about my children</em> <em>	</em><em>	</em><em>	</em><em>	or tell me how to </em><em>do my work?</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh, the Holy One of Israel and your Maker, says</span></span></p>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> <em>I’m</em><em> the One that made the world and create</em><em>d people in </em><em>it;</em> <em>	</em><em>	</em><em>	</em><em>	I stretched out the sky</em><em> </em><em>and hung</em><em> the</em><em> stars</em><em> </em><em>there</em><em>.</em><strong>	</strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    <i>“Will you question me about my children</i></span></p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> <em>I’ll</em><em> stir up </em>Cyrus<em> for my righteous purposes</em> <em>	</em><em>	</em><em>	</em><em>	and smooth his </em><em>paths;</em> <em>	</em><em>	</em><em>	he’ll rebuild my city and free my exiles</em> <em>	</em><em>	</em><em>	</em><em>	without payment or reward.”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          or tell me how to do my work?</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’m the One that made the world and created people in it;</span></i></span></p>
+
+
+### I stretched out the sky and hung the stars there.
+
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll stir up </span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>Cyrus<i> for my righteous purposes</i></span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          and smooth his paths;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    he’ll rebuild my city and free my exiles</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          without payment or reward.” </span></i><b><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                              </span></b></span></p>
+
 <p class="section-ref">Is 45:11-13</p>
+
 
 ### Yahveh, the Only Savior
 
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> Yahveh says, <em>	</em><em>	</em><em>	“Egyptians, Nubians, and Sabeans—men of stature—</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	will come in chains and </em><em>fall down</em><em> in front of </em><em>you;</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	their wealth and merchandise will be yours.</em> <em>	</em><em>	</em><em>	They’ll say to you,</em> <em>	</em><em>	</em><em>	‘God is with you for </em><em>sure;</em><em> </em> <em>	</em><em>	</em><em>	</em><em>	there’s nobody else, </em><strong><em>no other God</em></strong><em>.’”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><a name="_Hlk86939696"><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh says,</span></span></p>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> Truly you’re a God that works in mysterious ways, God of Israel, Savior!</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    “Egyptians, Nubians, and Sabeans—men of stature—</span></i></p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> They’ll be disgraced who manufacture idols; they’ll go away together in humiliation.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                will come in chains and fall down in front of you;</span></i></p>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> Yahveh will deliver Israel permanently; <em>Israel</em> won’t ever be put to shame.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                their wealth and merchandise will be yours.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    They’ll say to you,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    ‘God is with you for sure; </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          there’s nobody else, <b>no other God</b>.’”</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Truly you’re a God that works in mysterious ways,</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          God of Israel, Savior!</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’ll be disgraced who manufacture idols; </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          they’ll go away together in humiliation.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh will deliver Israel permanently;</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          <i>Israel</i> won’t ever be put to shame.</span></p>
+
 <p class="section-ref">Is 45:14-17</p>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> Yahveh says—who created the sky, who made the earth and shaped it, who didn’t make it waste and void, but shaped it to be lived in— <em>“</em><strong><em>I’m </em></strong><strong><em>Yahveh</em></strong><strong><em>; there’s no</em></strong><strong><em> </em></strong><strong><em>other</em></strong><em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh says—who created the sky,</span></span></p>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> <em>I</em><em> haven’t </em><em>spoken </em><em>secretly</em><em> in some dark </em><em>corner</em><em>;</em><em> </em> <em>	</em><em>	</em><em>	</em><em>	I didn’t </em><em>tell</em><em> </em><em>Jacob’s</em><em> </em><em>descendants</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	to l</em><em>ook for me in </em><em>a</em><em> desolate </em><em>place</em><em>;</em> <em>	</em><em>	</em><em>	</em><em>	I’m straightforward</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	and declare what makes sense.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          who made the earth and shaped it,</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          who didn’t make it waste and void,</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                but shaped it to be lived in—</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    <i>“<b>I’m Yahveh; there’s no other</b>.</i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I haven’t spoken secretly in some dark corner; </span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          I didn’t tell Jacob’s descendants</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                to look for me in a desolate place;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          I’m straightforward</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                and declare what makes sense.</span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                       </span></b></span></p>
+
 <p class="section-ref">Is 45:18-19</p>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> <em>“Get</em><em> together and </em><em>return;</em> <em>	</em><em>	</em><em>	</em><em>	come near together, refugees from the nations </em>around<em>.</em> <em>	</em><em>	</em><em>	They don’t know what they’re doing</em> <em>	</em><em>	</em><em>	</em><em>	who carry around wooden idols</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	and pray to gods that can’t save.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Get together and return;</span></i></span></p>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> <em>Consult</em><em> together and set forth your case.</em> <em>	</em><em>	</em><em>	Who predicted those things from </em><em>of old</em><em>?</em> <em>	</em><em>	</em><em>	</em><em>	</em>What idol<em> has proclaimed it for so long?</em> <em>	</em><em>	</em><em>	Am I not the One, Yahveh?</em> <em>	</em><em>	</em><em>	</em><strong><em>There’s no God but me</em></strong><em>,</em> <em>	</em><em>	</em><em>	</em><em>	an upright God and </em><em>Savior;</em> <em>	</em><em>	</em><em>	</em><strong><em>t</em></strong><strong><em>here’s none but me</em></strong><em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          come near together, refugees from the nations </span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>around<i>.</i></span></p>
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> <em>Turn</em><em> to me and be saved, people everywhere,</em> <em>	</em><em>	</em><em>	</em><em>	because </em><strong><em>I’</em></strong><strong><em>m God,</em></strong><strong><em> there’s no other</em></strong><em>.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    They don’t know what they’re doing</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          who carry around wooden idols</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                and pray to gods that can’t save.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Consult together and set forth your case.</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    Who predicted those things from of old?</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>What idol<i> has proclaimed it for so long?</i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    Am I not the One, Yahveh?</span></i></p>
+
+
+### There’s no God but me,
+
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          an upright God and Savior;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    <b>there’s none but me</b>.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Turn to me and be saved, people everywhere,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          because
+<b>I’m God, there’s no other</b>.</span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                     </span></b></span></p>
+
 <p class="section-ref">Is 45:20-22</p>
 
-<span class="verse" id="v23"><sup class="verse-num">23</sup> <em>I’ve</em><em> sworn by </em><em>myself;</em> <em>	</em><em>	</em><em>	I won’t take back the reliable message,</em> <em>	</em><em>	</em><em>	</em>the message<em> that every knee will bow </em>to me <em>	</em><em>	</em><em>	</em><em>	and every tongue will swear </em>allegiance<em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ve sworn by myself;</span></i></span></p>
 
-<span class="verse" id="v24"><sup class="verse-num">24</sup> <em>They’ll</em><em> say about me, </em> <strong><sup>	</sup></strong><strong><sup>	</sup></strong><em>‘Godliness and strength are only in Yahveh.’</em> <em>	</em><em>	People will come to </em><em>me;</em> <em>	</em><em>	</em><em>	everyone that’s been mad at me will be put to shame.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    I won’t take back the reliable message,</span></i></p>
 
-<span class="verse" id="v25"><sup class="verse-num">25</sup> Israel’s offspring will be justified and honored in Yahveh.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the message<i> that every knee will bow </i>to me</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          and every tongue will swear </span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>allegiance<i>.</i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’ll say about me, </span></i></span></p>
+
+
+### ‘Godliness and strength are only in Yahveh.’
+
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              People will come to me;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    everyone that’s been mad at me will be put to shame.”</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel’s offspring will be justified </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and honored in Yahveh.<b>                                              </b></span></p>
+
 <p class="section-ref">Is 45:23-25</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

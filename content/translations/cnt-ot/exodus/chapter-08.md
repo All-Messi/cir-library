@@ -1,60 +1,94 @@
 ---
 book: Exodus
 chapter: 8
-next: chapter-09
-prev: chapter-07
 title: Exodus 8
 translation: CNT
 type: chapter
 weight: 8
+prev: chapter-07
+next: chapter-09
 ---
 
 ## Exodus Chapter 8
 
+
 ### The Plague of Frogs
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> The LORD said to Moses, <em>“Go </em><em>tell</em><em> Pharaoh</em><em> the </em><em>L</em><em>ORD</em><em> </em><em>says to let</em><em> </em><em>his people go</em><em> so they can serve </em><em>him</em><em>.</em><em> </em><strong><sup>2</sup></strong><em>If you </em><em>don’t, he</em><em>’ll strike the whole country with </em><strong><em>frogs</em></strong><em>.</em><em> </em><strong><sup>3</sup></strong><em>The Nile will teem with them.</em><em> </em><em>They’ll c</em><em>ome up into your house, your bedroom, your bed, </em><em>your </em><em>official</em><em>s’ houses and on your</em><em> people, in your ovens and </em><em>kneading bowls.</em><em> [</em><strong><sup>4</sup></strong><em>]’” </em></span>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> Then the LORD said to Moses, <em>“Tell Aaron to h</em><em>old </em><em>his</em><em> staff out over the rivers, canals, and pools, and make frogs come up </em><em>all over the ground</em><em>.</em><em>” </em><em> </em><strong><sup>6</sup></strong>Aaron held his hand out over the water, and frogs came up and covered the whole country. <strong><sup>7</sup></strong>The magicians did the same thing with their magic, and made frogs come up on the ground everywhere in Egypt.</span>
+<p class="MsoListBulletCxSpMiddle" ><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> said to Moses, </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:1.0in;'><a name="_Hlk126841384"><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>“Go tell Pharaoh the L</span></i></a><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says to let his people go so they can serve him. </span></i><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you don’t, he’ll strike the whole country with <b>frogs</b>. </span></i></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Nile will teem with them. They’ll come up into your house, your bedroom, your bed, your officials’ houses and on your people, in your ovens and kneading bowls. [</span></i></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>]’”
+</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> said to Moses, <i>“Tell Aaron to hold his staff out over the rivers, canals, and pools, and make frogs come up all over the ground.”  </i></span></span>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Aaron held his hand out over the water, and frogs came up and covered the whole country. </span></span>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The magicians did the same thing with their magic, and made frogs come up on the ground everywhere in Egypt.                                  </span></span></p>
+
 <p class="section-ref">Ex 8:1-7</p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> Pharaoh called for Moses and Aaron, <em>“</em><em>Ask</em><em> the </em><em>L</em><em>ORD</em><em> to </em><em>take</em><em> the frogs</em><em> away;</em><em> I’ll let the people go</em><em> </em><em>sacrifice to </em><em>him</em><em>.”</em></span>
+<p class="MsoListBulletCxSpMiddle" ><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Pharaoh called for Moses and Aaron, <i>“Ask the L</i></span><i><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> to take the frogs away; I’ll let the people go sacrifice to him.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span></p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> Moses asked<em>, “</em><em>When should I ask for</em><em> the frogs </em><em>to leave you and your houses, and be only in the Nile?</em><em>”</em><em> </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:.5in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses asked<i>, “When should I ask for the frogs to leave you and your houses, and be only in the Nile?” </i></span></span></p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>“</em><em>Tomorrow.”</em> “<em>All right;</em><em> </em><em>so</em><em> you </em><em>can know there’s nobody like the </em><em>L</em><em>ORD</em><em> our God, </em><strong><sup>11</sup></strong><em>t</em><em>he frogs will leave</em><em> everywhere except</em><em> in the Nile.</em><em>”</em></span>
+<p class="MsoListBulletCxSpMiddle" ><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Tomorrow.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span></p>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> Moses left Pharaoh and called out to the LORD about the frogs. <strong><sup>13</sup></strong>The LORD did what he asked; the frogs died in the houses, courts, and fields. <strong><sup>14</sup></strong>They piled them up and the country reeked. <strong><sup>15</sup></strong>When Pharaoh saw relief, he hardened his heart and wouldn’t listen.<strong></span>
-<p class="section-ref">Ex 8:8-15</p>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“<i>All right; so you can know there’s nobody like the L</i></span><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> our God, </span></i><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the frogs will leave everywhere except in the Nile.”</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses left Pharaoh and called out to the L</span><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> about the frogs. </span></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> did what he asked; the frogs died in the houses, courts, and fields. </span></span>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They piled them up and the country reeked. </span></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Pharaoh saw relief, he hardened his heart and wouldn’t listen.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>       Ex 8:8-15</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>          </span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>         </span></b></span></p>
+
 
 ### The Plague of Gnats
 
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> The LORD told Moses, <em>“Tell Aaron</em><em> to </em><em>strike the dust on the ground </em><em>with his staff </em><em>so </em><em>it</em><em> become</em><em>s</em><em> </em><strong><em>gnats</em></strong><em> </em><em>everywhere in Egypt.</em><em>”</em> <strong><sup>17</sup></strong>He struck it, and it became gnats everywhere in Egypt. <strong><sup>18</sup></strong>The magicians tried with their magic to bring gnats, but they couldn’t. There were gnats on people and animals. <strong><sup>19</sup></strong>The magicians told Pharaoh, <em>“This is the finger of God.”</em> But Pharaoh hardened his heart and wouldn’t listen.</span>
+<p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> told Moses, <a name="_Hlk126841624"><i>“Tell Aaron to strike the dust on the ground with his staff so it becomes <b>gnats</b> everywhere in Egypt.”</i> </a></span></span>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He struck it, and it became gnats everywhere in Egypt. </span></span>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The magicians tried with their magic to bring gnats, but they couldn’t. There were gnats on people and animals. </span></span>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The magicians told Pharaoh, <i>“This is the finger of God.”</i> But Pharaoh hardened his heart and wouldn’t listen.           </span></span></p>
+
 <p class="section-ref">Ex 8:16-19</p>
+
 
 ### The Plague of Flies
 
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> The LORD told Moses, <em>“Get up early an</em><em>d present yourself to Pharaoh when</em><em> he comes out to the water.</em><em> </em><em>Tell h</em><em>im the </em><em>L</em><em>ORD</em><em> says to l</em><em>et </em><em>his people go so they can serve him</em><em>.</em><em> </em><strong><sup>21</sup></strong><em>I</em><em>f you </em><em>don’t</em><em>, </em><em>he</em><em>’ll send </em><strong><em>swarms of </em></strong><strong><em>flies</em></strong><em> on you, your </em><em>officer</em><em>s, your people, </em><em>and </em><em>in your houses.</em><em> </em><em>The</em><em>y’ll infest</em><em> </em><em>the Egyptians’ </em><em>houses and cover the ground.</em><em> </em><strong><sup>22</sup></strong><em>But </em><em>he</em><em> won’t </em><em>send</em><em> them on Goshen,</em><em> where his people live. Y</em><em>ou’ll know </em><em>he’s</em><em> in the land.</em><em> </em><strong><sup>23</sup></strong><em>He</em><em>’ll distinguish </em><em>his</em><em> people from yours tomorrow.</em><em>’</em><em>”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:10.0pt;margin-left:.5in;'><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> told Moses, </span></span></p>
 
-<span class="verse" id="v24"><sup class="verse-num">24</sup> The LORD did that. Huge swarms of insects were in Pharaoh’s palace and his officers’ houses. They covered the ground everywhere in Egypt. <strong><sup>25</sup></strong>Pharaoh called for Moses and Aaron, <em>“Go</em><em> sacrifice to your God </em><em><u>inside the country</u></em><em>.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:1.0in;'><a name="_Hlk126841771"><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>“Get up early and present yourself to Pharaoh when he comes out to the water. Tell him the L</span></i></a><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says to let his people go so they can serve him. </span></i><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you don’t, he’ll send <b>swarms of flies</b> on you, your officers, your people, and in your houses. They’ll infest the Egyptians’ houses and cover the ground. </span></i></span>
+<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But he won’t send them on Goshen, where his people live. You’ll know he’s in the land. </span></i></span>
+<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He’ll distinguish his people from yours tomorrow.’”</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> did that. Huge swarms of insects were in Pharaoh’s palace and his officers’ houses. They covered the ground everywhere in Egypt. </span></span>
+<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Pharaoh called for Moses and Aaron, <i>“Go sacrifice to your God <u>inside the country</u>.”</i>
+ </span></span></p>
+
 <p class="section-ref">Ex 8:20-25</p>
 
-<span class="verse" id="v26"><sup class="verse-num">26</sup> But Moses said, <em>“</em><em>That won’t work. W</em><em>e’d be sacrif</em><em>icing to the </em><em>L</em><em>ORD</em><em> our God what’</em><em>s </em><em>detestable</em><em> to Egyptians</em><em>. W</em><em>ouldn’t they stone us?</em><em> </em><strong><sup>27</sup></strong><em>We have to go a three-day’s</em><em> journey into the </em><em>open country</em><em> and sacrifice to the </em><em>L</em><em>ORD</em><em> like he </em><em>said</em><em>.”</em></span>
+<p class="MsoListBulletCxSpMiddle" ><a name="_Hlk126842259"><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But Moses said, <i>“That won’t work. We’d be sacrificing to the L</i></span><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> our God what’s detestable to Egyptians. Wouldn’t they stone us? </span></i></span>
+<span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We have to go a three-day’s journey into the open country and sacrifice to the L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> like he said.”</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span></span></p>
 
-<span class="verse" id="v28"><sup class="verse-num">28</sup> Pharaoh said, <em>“I’ll let you go so you can sacrifice to the </em><em>L</em><em>ORD</em><em> your God </em><em><u>in the</u></em><em> </em><em><u>countryside</u></em><em><u>. But you can’t </u></em><em><u>go very far</u></em><em>.</em><em> Pray</em><em> for me.”</em><em> </em></span>
+<p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Pharaoh said, <i>“I’ll let you go so you can sacrifice to the L</i></span><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> your God <u>in the</u> <u>countryside. But you can’t go very far</u>. Pray for me.” </span></i></span></p>
 
-<span class="verse" id="v29"><sup class="verse-num">29</sup> Moses said, <em>“I’m leaving; I’ll pray to the </em><em>L</em><em>ORD</em><em> that the swarms of insects will leave tomorrow. But you must not lie again and not let the people go sacrifice to </em><em>him.” </em></span>
+<p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses said, <i>“I’m leaving; I’ll pray to the L</i></span><i><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> that the swarms of insects will leave tomorrow. But you must not lie again and not let the people go sacrifice to </span></i><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>him.” </span></i></span></p>
 
-<span class="verse" id="v30"><sup class="verse-num">30</sup> Moses left and prayed to the LORD, <strong><sup>31</sup></strong>and he took the swarms away completely. <strong><sup>32</sup></strong>But Pharaoh hardened his heart that time too and wouldn’t let the people go.</span>
-<p class="section-ref">Ex 8:26-32</p>
+<p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses left and prayed to the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>, </span></span>
+<span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and he took the swarms away completely. </span></span>
+<span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But Pharaoh hardened his heart that time too and wouldn’t let the people go.                                                                                                                 </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ex</span></b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'> <b>8:26-32</b></span></span></p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

@@ -1,34 +1,58 @@
 ---
 book: Psalms
 chapter: 23
-next: chapter-24
-prev: chapter-22
 title: Psalms 23
 translation: CNT
 type: chapter
 weight: 23
+prev: chapter-22
+next: chapter-24
 ---
 
 ## Psalms Chapter 23
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> The LORD is my shepherd; I’ll have everything I need.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> A Psalm of David</span></p>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> He beds me down in green pasture and leads me beside still water.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> is my shepherd;</span></span></p>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> He refreshes me and guides me along good paths for his honor.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      I’ll have everything I need.</span></p>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> Even though I walk through the darkest valley, I won’t be afraid, because he’s with me; his rod and staff reassure me.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He beds me down in green pasture</span></span></p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> You set a table for me in front of my enemies; you anoint my head with oil; my cup runs over.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and leads me beside still water.</span></p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> Goodness and mercy will follow me all my life, and I’ll live in the LORD’s house forever.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He refreshes me</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and guides me along good paths for his honor.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Even though I walk through the darkest valley,</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I won’t be afraid, because he’s with me;</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      his rod and staff reassure me.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You set a table for me in front of my enemies;</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      you anoint my head with oil;</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      my cup runs over.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Goodness and mercy will follow me all my life,</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and I’ll live in the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>’s house forever.                         </span></p>
+
 <p class="section-ref">Ps 23:1-6</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

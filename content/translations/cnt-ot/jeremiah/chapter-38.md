@@ -1,66 +1,100 @@
 ---
 book: Jeremiah
 chapter: 38
-next: chapter-39
-prev: chapter-37
 title: Jeremiah 38
 translation: CNT
 type: chapter
 weight: 38
+prev: chapter-37
+next: chapter-39
 ---
 
 ## Jeremiah Chapter 38
 
+
 ### Jeremiah Put in a Cistern
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Shephatiah son of Mattan, Gedaliah son of Pashhur, Jucal son of Shelemiah, and Pashhur son of Malchijah heard what Jeremiah was telling the people:</span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>“The</em><em> </em><em>L</em><em>ORD</em><em> says, </em><em>‘</em><em>If you stay</em><em> in th</em><em>e</em><em> city</em><em>, you’</em><em>ll die by </em><em>sword</em><em>, famine, and </em><em>disease</em><em>.</em><em> If you surrender, you’</em><em>ll</em><em> </em><em>have </em><em>your</em><em> life as a </em><em>reward</em><em> of war.</em><em> </em><strong><sup>3</sup></strong><em>T</em><em>he</em><em> </em><em>king of Babylon’s </em><em>army </em><em>is going to</em><em> capture </em><em>the city</em><em>.’”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Shephatiah son of Mattan, Gedaliah son of Pashhur, Jucal son of Shelemiah, and Pashhur son of Malchijah heard what Jeremiah was telling the people: </span></span></p>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> The officials told the king, <em>“Execute him. H</em><em>e’s discouraging the fighting men </em><em>in the city and</em><em> the </em><em>people by</em><em> telling them things</em><em> like that</em><em>.</em><em> </em><em>He’s not looking out for the</em><em>ir welfare</em><em>, but their harm.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123722593"><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says, ‘If you stay in the city, you’ll die by sword, famine, and disease. If you surrender, you’ll have your life as a reward of war. </span></i></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king of Babylon’s army is going to capture the city.’”</span></i></span></p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> King Zedekiah said, <em>“Do with him whatever you want</em><em>.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The officials told the king, </span></span></p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> They put Jeremiah in a cistern that belonged to Malchijah the king’s son in the court of the guardhouse. They let him down with ropes. There wasn’t any water in it, but he sank in the mud.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Execute him. He’s discouraging the fighting men in the city and the people by telling them things like that. He’s not looking out for their welfare, but their harm.”</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>King Zedekiah said, <i>“Do with him whatever you want.”</i></span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They put Jeremiah in a cistern that belonged to Malchijah the king’s son in the court of the guardhouse. They let him down with ropes. There wasn’t any water in it, but he sank in the mud. <b>                                                                                                                       </b></span></span></p>
+
 <p class="section-ref">Jer 38:1-6</p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> But Ebed-melech the Nubian, a eunuch in the king’s palace, heard they’d put him in the cistern. The king was sitting in the Benjamin Gate. <strong><sup>8</sup></strong>Ebed-melech left the palace to speak to him,</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But Ebed-melech the Nubian, a eunuch in the king’s palace, heard they’d put him in the cistern. The king was sitting in the Benjamin Gate. </span></span>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ebed-melech left the palace to speak to him, </span></span></p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>“My</em><em> lord the king, these </em><em>fellows</em><em> have</em><em> done something awful</em><em> to Jeremiah</em><em>; </em><em>they’ve put </em><em>him </em><em>in </em><em>a</em><em> cistern.</em><em> </em><em>He’ll </em><em>starve to death</em><em>; there’s no more bread in the city.”</em><em> </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“My lord the king, these fellows have done something awful to Jeremiah; they’ve put him in a cistern. He’ll starve to death; there’s no more bread in the city.” </span></i></span></p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> The king said, <em>“Take </em><em>30</em><em> men from here under your authority and </em><em>get him</em><em> </em><em>out </em><em>before he dies.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king said, <i>“Take 30 men from here under your authority and get him out before he dies.”</i></span></span></p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> So Ebed-melech took them to a place under the storeroom in the king’s palace. They took worn-out clothes and rags, and let them down by ropes into the cistern to Jeremiah. <strong><sup>12</sup></strong><em>“Put</em><em> these </em><em>under your arms ov</em><em>er the ropes.”</em><em> </em><strong><sup>13</sup></strong>They pulled him up out of the cistern, and he remained in the court of the guardhouse.<strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So Ebed-melech took them to a place under the storeroom in the king’s palace. They took worn-out clothes and rags, and let them down by ropes into the cistern to Jeremiah. </span></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Put these under your arms over the ropes.” </span></i></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They pulled him up out of the cistern, and he remained in the court of the guardhouse.<b>                                                                                                     </b></span></span></p>
+
 <p class="section-ref">Jer 38:7-13</p>
+
 
 ### Jeremiah Warns Zedekiah Again
 
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> Then King Zedekiah had Jeremiah brought to the third entrance of the LORD’s Temple, <em>“I’m going to ask you something. D</em><em>on’t </em><em>keep back</em><em> anything from me.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk123722696"><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then King Zedekiah had Jeremiah brought to the third entrance of the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s Temple, <i>“I’m going to ask you something. Don’t keep back anything from me.”</i></span></span></p>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> Jeremiah said, <em>“If I tell you, won’t you put me to death</em><em>? I</em><em>f I give you advice, you </em><em>won’t take it</em><em>.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jeremiah said, <i>“If I tell you, won’t you put me to death? If I give you advice, you won’t take it.”</i></span></span></p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> But King Zedekiah swore to him privately, <em>“As </em><em>sure as </em><em>the </em><em>L</em><em>ORD</em><em> lives who made this life for us, I won’t put you to death or </em><em>turn</em><em> you over to th</em><em>e ones who</em><em> </em><em>want</em><em> to kill you.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But King Zedekiah swore to him privately, <i>“As sure as the L</i></span><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> lives who made this life for us, I won’t put you to death or turn you over to the ones who want to kill you.”</span></i></span></p>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> So Jeremiah said, <em>“T</em><em>he </em><em>L</em><em>ORD</em><em> God of hosts says, ‘</em><em>You’ll live if you</em><em> go out to the offi</em><em>cial</em><em>s of Babylon</em><em>. The</em><em> city won’</em><em>t be burned, and you</em><em> and your household will survive.</em><em> </em><strong><sup>18</sup></strong><em>If</em><em> you don’t </em>surrender<em>, the</em><em> city will </em><em>fall, t</em><em>hey’ll burn it, and you won’t escape.’”</em><strong> </strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So Jeremiah said, </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> God of hosts says, ‘You’ll live if you go out to the officials of Babylon. The city won’t be burned, and you and your household will survive. </span></i><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you don’t </span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>surrender<i>, the city will fall, they’ll burn it, and you won’t escape.’”</i></span><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'> </span></b></span></p>
+
 <p class="section-ref">Jer 38:14-18</p>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> King Zedekiah said, <em>“I’</em><em>m afraid </em><em>the Jews that have deserted to the </em><em>Babylonia</em><em>ns may turn me over to them, and they’ll </em><em>torture</em><em> me.</em><em>”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>King Zedekiah said, <i>“I’m afraid the Jews that have deserted to the Babylonians may turn me over to them, and they’ll torture me.”</i></span></span></p>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> <em>“They</em><em> won’t </em><em>do that</em><em>.</em><em> </em><em>Obey the </em><em>L</em><em>ORD</em><em> so </em><em>you’ll live.</em><em> </em><strong><sup>21</sup></strong><em>If</em><em> </em><em>you keep refusing to go out, this is wha</em><em>t the </em><em>L</em><em>ORD</em><em> has shown me. </em><strong><sup>22</sup></strong><em>T</em><em>he</em><em> women that are left in the palace are going to be brought out to the officers of Babylon, and they’ll</em><em> </em><em>say,</em> <em>	‘</em><em>Your </em><em>trusted</em><em> friends have </em><em>deceived</em><em> </em><em>you </em> <em>	</em><em>	</em><em>and </em><em>prevailed over</em><em> you.</em> <em>	</em><em>Now that</em><em> your feet </em><em>are sunk in the mire, </em> <em>	</em><em>	they desert you.’</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“They won’t do that. Obey the L</span></i><i><span style='font-size:9.0pt;line-height: 115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> so you’ll live. </span></i></span>
+<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you keep refusing to go out, this is what the L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> has shown me. </span></i></span>
+<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The women that are left in the palace are going to be brought out to the officers of Babylon, and they’ll say,</span></i></span></p>
 
-<span class="verse" id="v23"><sup class="verse-num">23</sup> <em>They’ll</em><em> bring out your wives and sons to the </em><em>Babylonians,</em><em> and you won’</em><em>t escape. T</em><em>he king of Babylon</em><em> will capture you</em><em> and </em><em>burn the</em><em> city</em>.<em>”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            ‘Your trusted friends have deceived you </span></i></p>
 
-<span class="verse" id="v24"><sup class="verse-num">24</sup> Zedekiah told Jeremiah, <em>“Don’t tell anybody what you’ve said, and you won’t die.</em><em> </em><strong><sup>25</sup></strong><em>I</em><em>f</em><em> the officials hear that I’ve </em><em>talked</em><em> to you, ‘Tell us what you </em><em>and</em><em> the</em><em> king talked about</em><em>; don’t </em><em>keep back any of </em><em>it from us, and we won’t put you to death’; </em><strong><sup>26</sup></strong><em>then</em><em> tell them, ‘I </em><em>pleaded with the king</em><em> not to </em><em>put me back</em><em> </em><em>in</em><em> </em><em>Jonathan’s</em><em> hou</em><em>se </em><em>to die.’” </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and prevailed over you.</span></i></p>
 
-<span class="verse" id="v27"><sup class="verse-num">27</sup> Then the officials came to question Jeremiah. So he told them what the king commanded him, and they dropped the issue since nobody had heard the conversation. <strong><sup>28</sup></strong>So Jeremiah stayed in the court of the guardhouse till Jerusalem fell.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Now that your feet are sunk in the mire, </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  they desert you.’</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’ll bring out your wives and sons to the Babylonians, and you won’t escape. The king of Babylon will capture you and burn the city</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.<i>”</i></span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk123723338"><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Zedekiah told Jeremiah, </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t tell anybody what you’ve said, and you won’t die. </span></i><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If the officials hear that I’ve talked to you, ‘Tell us what you and the king talked about; don’t keep back any of it from us, and we won’t put you to death’; </span></i></span>
+<span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>then tell them, ‘I pleaded with the king not to put me back in Jonathan’s house to die.’” </span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></i><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then the officials came to question Jeremiah. So he told them what the king commanded him, and they dropped the issue since nobody had heard the conversation. </span></span>
+<span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So Jeremiah stayed in the court of the guardhouse till Jerusalem fell.<b> </b></span></span></p>
+
 <p class="section-ref">Jer 38:19-28</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

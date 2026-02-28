@@ -1,46 +1,73 @@
 ---
 book: Exodus
 chapter: 19
-next: chapter-20
-prev: chapter-18
 title: Exodus 19
 translation: CYV
 type: chapter
 weight: 19
+prev: chapter-18
+next: chapter-20
 ---
 
 ## Exodus Chapter 19
 
+
 ### At Mount Sinai
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> The same day of the <strong>third month</strong> after Israel left Egypt, they came to the Wilderness of Sinai. <strong><sup>2</sup></strong>They’d set out from Rephidim and came to camp at the mountain. <strong><sup>3</sup></strong>Moses went up to God, and Yahveh called to him from the mountain, <em>“Tell Jacob</em><em>’s house</em><em>,</em><em> </em><strong><sup>4</sup></strong><em>‘You’ve</em><em><sup>pl</sup></em><em> seen what I did to the Egyptians, how I carried you on eagles</em><em>’</em><em> wings and brought you to m</em><em>e</em><em>.</em><em> </em><strong><sup>5</sup></strong><em>If you’ll obey me and keep my covenant</em><em>,</em><em> you’ll be my special possession among </em><em>the </em><em>nations.</em><em> </em><em>The whole world </em><em>belongs to</em><em>, </em><strong><sup>6</sup></strong><em>but yo</em><em>u’ll be a kingdom of priests,</em><em> a holy nation.’”</span>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The same day of the <b>third month</b> after Israel left Egypt, they came to the Wilderness of Sinai. </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’d set out from Rephidim and came to camp at the mountain. </span></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses went up to God, and Yahveh called to him from the mountain,   </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Tell Jacob’s house, </span></i><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘You’ve</span></i><i><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>pl</span></sup></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> seen what I did to the Egyptians, how I carried you on eagles’ wings and brought you to me. </span></i></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you’ll obey me and keep my covenant, you’ll be my special possession among the nations. The whole world belongs to, </span></i></span>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>but you’ll be a kingdom of priests, a holy nation.’”
+</span></i></span></span></p>
+
 <p class="section-ref">Ex 19:1-6</p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> Moses called the elders and told them. <strong><sup>8</sup></strong>They answered together, <em>“We’ll</em><em> do everything Yahveh said.” </em>Moses went back to tell him.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses called the elders and told them. </span></span>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They answered together, </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>“We’ll do everything Yahveh said.” </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses went back to tell him. </span></span></p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> He told Moses, <em>“I’ll come to you in a </em><em>dark</em><em> cloud so the people can hear when I speak </em><em>to</em><em> you and believe in you permanently.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told Moses, </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>“I’ll come to you in a dark cloud so the people can hear when I speak to you and believe in you permanently.</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span></p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>“Go </em><em>consecrate them today and tomorrow. Have them wash their clothes </em><strong><sup>11</sup></strong><em>and </em><em>b</em><em>e ready on the third day. T</em><em>hat day </em><em>I’ll</em><em> come down on Mount Sinai where the</em><em>y</em><em> can see.</em><em> </em><strong><sup>12</sup></strong><em>Set </em><em>up</em><em><sup>f</sup></em><em> </em><em>boundaries</em><em> and say</em><em>, ‘Don’t go up on the moun</em><em>tain or touch it. Execute</em><em><sup>f</sup></em><em> w</em><em>hoever touches it.</em><em> </em><strong><sup>13</sup></strong><em>Don’t </em><em>touch</em><em><sup>f</sup></em><em> </em><em>the</em><em>m</em><em>; </em><em>stone</em><em><sup>f</sup></em><em> them</em><em> or sh</em><em>o</em><em>ot</em><em><sup>f</sup></em><em> them. Hum</em><em>an or animal </em><em>won’t</em><em> live.’</em><em> </em><em>When the ram’s h</em><em>orn sounds a long blast, </em>the people<em> are to</em><em> come to the mountain.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Go consecrate them today and tomorrow. Have them wash their clothes </span></i></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and be ready on the third day. That day I’ll come down on Mount Sinai where they can see. </span></i></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Set up</span></i><i><sup><span style='font-family:"Times New Roman",serif'>f</span></sup></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> boundaries and say, ‘Don’t go up on the mountain or touch it. Execute</span></i><i><sup><span style='font-family:"Times New Roman",serif'>f</span></sup></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> whoever touches it. </span></i></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Don’t touch</span></i><i><sup><span style='font-family:"Times New Roman",serif'>f</span></sup></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> them; stone</span></i><i><sup><span style='font-family:"Times New Roman",serif'>f</span></sup></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> them or shoot</span></i><i><sup><span style='font-family:"Times New Roman",serif'>f</span></sup></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> them. Human or animal won’t live.’ When the ram’s horn sounds a long blast, </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the people</span><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> are to come to the mountain.”</span></i></span></p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> Moses came down from the mountain, consecrated the people, and they washed their clothes. <strong><sup>15</sup></strong>He told them to be ready the third day and not to have relations with women.</span>
-<p class="section-ref">Ex 19:7-15</p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses came down from the mountain, consecrated the people, and they washed their clothes. </span></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told them to be ready the third day and not to have relations with women.                                                                                            </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ex 19:7-15</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>   </span></span></p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> The third morning, thunder and lightning came. A dark cloud came over the mountain, accompanied by a loud bugle blast. The people in the camp trembled. <strong><sup>17</sup></strong>Moses brought them out of the camp to meet God at the foot of the mountain. <strong><sup>18</sup></strong>Smoke covered Mount Sinai because Yahveh came down on it in fire. Its smoke went up like from a furnace, and the whole mountain shook violently. <strong><sup>19</sup></strong>When the bugle blast got louder and louder, Moses spoke to God, and he answered him with thunder. <strong><sup>20</sup></strong>He came down on Mount Sinai and called Moses up to the top of it.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The third morning, thunder and lightning came. A dark cloud came over the mountain, accompanied by a loud bugle blast. The people in the camp trembled. </span></span>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses brought them out of the camp to meet God at the foot of the mountain. </span></span>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Smoke covered Mount Sinai because Yahveh came down on it in fire. Its smoke went up like from a furnace, and the whole mountain shook violently. </span></span>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the bugle blast got louder and louder, Moses spoke to God, and he answered him with thunder. </span></span>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He came down on Mount Sinai and called Moses up to the top of it. </span></span></p>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> <em>“Go down and warn the people not to break through to </em><em>stare</em><em> and many of them perish.</em><em> </em><strong><sup>22</sup></strong><em>Have</em><em> the priests that come near to </em><em>me</em><em><sup>Y</sup></em><em> consecrate themselves so </em><em>I do</em><em>n’t </em><em>flare</em><em> out against them.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Go down and warn the people not to break through to stare and many of them perish.
+</span></i></span>
+<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Have the priests that come near to me<sup>Y</sup> consecrate themselves so I don’t flare out against them.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>   </span></span></p>
 
-<span class="verse" id="v23"><sup class="verse-num">23</sup> Moses told Yahveh, <em>“The people can’t come up to Mount Sinai, because you warned us</em><em> to set</em><em> boundaries around </em><em>it and consecrate it.</em><em>”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses told Yahveh, </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>“The people can’t come up to Mount Sinai, because you warned us to set boundaries around it and consecrate it.”</span></i></span></p>
 
-<span class="verse" id="v24"><sup class="verse-num">24</sup> Yahveh said, <em>“Go down a</em><em>nd bring Aaron up. D</em><em>on’t let the priests </em><em>or</em><em> the people break through to come up to </em><em>me</em><em><sup>Y</sup></em><em>, or I</em><em>’ll </em><em>flare out against</em><em> them.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh said, </span><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>“Go down and bring Aaron up. Don’t let the priests or the people break through to come up to me<sup>Y</sup>, or I’ll flare out against them.”</span></i></span></p>
 
-<span class="verse" id="v25"><sup class="verse-num">25</sup> Moses went down and told them.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses went down and told them.
+</span></span></p>
+
 <p class="section-ref">Ex 19:16-25</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

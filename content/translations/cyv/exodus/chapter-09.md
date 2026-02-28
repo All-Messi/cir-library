@@ -1,51 +1,94 @@
 ---
 book: Exodus
 chapter: 9
-next: chapter-10
-prev: chapter-08
 title: Exodus 9
 translation: CYV
 type: chapter
 weight: 9
+prev: chapter-08
+next: chapter-10
 ---
 
 ## Exodus Chapter 9
 
+
 ### The Plague on Livestock
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Yahveh told Moses<em>, </em> <em>“Go tell</em><em> Pharaoh</em><em>, ‘Yahveh God of the Hebrews says to l</em><em>et </em><em>his people go</em><em> so they can serve </em><em>him</em><em>.</em><em> </em><strong><sup>2</sup></strong><em>If you keep holding them, </em><strong><sup>3</sup></strong><em>he’</em><em>ll bring</em><em> a severe </em><strong><em>plague on your livestock</em></strong><em> in the pasture—hor</em><em>ses, </em><em>donkeys, </em><em>camels, herds</em><em>,</em><em> and flocks.</em><em> </em><strong><sup>4</sup></strong><em>But </em><em>he’ll</em><em> distinguish </em><em>Israel’s livestock from</em><em> Egypt’s.</em><em> </em><em>Nothing will die </em><em>that belongs to the Israelites.</em><em>’”</em></span>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> Yahveh set a time,<em> “</em><em>I’ll do that</em><em> in the country</em><em> tomorrow</em><em>.”</em><em> </em><strong><sup>6</sup></strong>The next day he did it. Livestock in Egypt died, but none of the Israelites’ livestock died. <strong><sup>7</sup></strong>Pharaoh sent to find out that not a one of the Israelites’ livestock died, but he hardened his heart and wouldn’t let the people go.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh told Moses<i>, </i></span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Go tell Pharaoh, ‘Yahveh God of the Hebrews says to let his people go so they can serve him. </span></i><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you keep holding them, </span></i></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>he’ll bring a severe <b>plague on your livestock</b> in the pasture—horses, donkeys, camels, herds, and flocks. </span></i></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But he’ll distinguish Israel’s livestock from Egypt’s. Nothing will die that belongs to the Israelites.’”</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh set a time,<i> “I’ll do that in the country tomorrow.” </i></span></span>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The next day he did it. Livestock in Egypt died, but none of the Israelites’ livestock died. </span></span>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Pharaoh sent to find out that not a one of the Israelites’ livestock died, but he hardened his heart and wouldn’t let the people go. </span></span></p>
+
 <p class="section-ref">Ex 9:1-7</p>
+
 
 ### The Plague of Boils
 
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> Yahveh told Moses and Aaron, <em>“Take handfuls of ashes</em><em> </em><em>out of</em><em> a kiln and throw </em><em>them</em><em> </em><em>up in the air</em><em> in </em><em>front of </em><em>Pharaoh.</em><em> </em><strong><sup>9</sup></strong><em>They’ll</em><em> become fine dust </em><em>all over</em><em> Egypt</em><em>, and make </em><strong><em>boi</em></strong><strong><em>ls break</em></strong><strong><em> out with sores</em></strong><em> on people and animals everywhere in the country</em><em>.</em><em>” </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh told Moses and Aaron, </span></span></p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> They took ashes out of a kiln and stood in front of Pharaoh. Moses threw them up in the air, and they made boils break out in sores on people and animals. <strong><sup>11</sup></strong>The magicians couldn’t withstand Moses because of the boils. They came on the magicians as well as all the Egyptians. <strong><sup>12</sup></strong>Yahveh hardened Pharaoh’s heart, and he wouldn’t listen.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Take handfuls of ashes out of a kiln and throw them up in the air in front of Pharaoh.
+</span></i><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>They’ll become fine dust all over Egypt, and make <b>boils break out with sores</b> on people and animals everywhere in the country.” </span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They took ashes out of a kiln and stood in front of Pharaoh. Moses threw them up in the air, and they made boils break out in sores on people and animals. </span></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The magicians couldn’t withstand Moses because of the boils. They came on the magicians as well as all the Egyptians. </span></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh hardened Pharaoh’s heart, and he wouldn’t listen.                                                                               </span></span></p>
+
 <p class="section-ref">Ex 9:8-12</p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> Yahveh told Moses, <em>“Get up early, </em><em>present yourselves to</em><em> Pharaoh</em><em> and tell him, ‘Yahveh</em><em> God of the Hebrews</em><em> says, “Let</em><em> </em><em>my people go</em><em> so they can serve </em><em>me</em><em>.</em><em> </em><strong><sup>14</sup></strong><em>This time I</em><em>’ll send </em><em>my</em><em> plagues on you, your </em><em>officer</em><em>s, and your people so you can know there’s nobody on earth like </em><em>me</em><em>.</em><em> </em><strong><sup>15</sup></strong><em>If</em><em> I</em><em>’d struck you and your people with </em><em>a </em>deadly <em>plague</em><em>, you would</em><em>n’t </em><em>be</em><em> here </em><strong><sup>16</sup></strong><em> </em><em>to </em><em>see</em><em> </em><em>my</em><em> power and to </em><em>make myself known</em><em> all over the world.</em><em> </em><strong><sup>17</sup></strong><em>Y</em><em>ou </em><em>still rise up</em><em> against </em><em>my</em><em> people </em><em>and won’t let</em><em> them go.</em><em> </em><strong><sup>18</sup></strong><em>About </em><em>this time tomorrow, I’ll send </em><em>heavy </em><strong><em>hail</em></strong><em> </em><em>beyond anything Egypt has </em><em>ever ha</em><em>d</em><em>.</em><em> </em><strong><sup>19</sup></strong><em>B</em><em>ring </em><em>inside</em><em> </em><em>whatever livestock</em><em> you have in the pasture.</em><em> People</em><em> and animal</em><em>s</em><em> will die that</em><em> are</em><em> not </em><em>inside</em><em>.”’”</em><em> </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh told Moses, </span></span></p>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> Pharaoh’s officers that respected Yahveh made their servants and livestock get under shelter. <strong><sup>21</sup></strong>Those who didn’t pay attention left them out in the open.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Get up early, present yourselves to Pharaoh and tell him, ‘Yahveh God of the Hebrews says, “Let my people go so they can serve me. </span></i><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This time I’ll send my plagues on you, your officers, and your people so you can know there’s nobody on earth like me. </span></i></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If I’d struck you and your people with a </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>deadly <i>plague, you wouldn’t be here </i></span></span>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> to see my power and to make myself known all over the world. </span></i></span>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You still rise up against my people and won’t let them go. </span></i></span>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>About this time tomorrow, I’ll send heavy <b>hail</b> beyond anything Egypt has ever had. </span></i></span>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Bring inside whatever livestock you have in the pasture. People and animals will die that are not inside.”’” </span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Pharaoh’s officers that respected Yahveh made their servants and livestock get under shelter. </span></span>
+<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Those who didn’t pay attention left them out in the open.                                                                                                                              </span></span></p>
+
 <p class="section-ref">Ex 9:13-21</p>
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> Yahveh told Moses, <em>“Hold your hand </em><em>toward the sky</em><em> so </em><em>hail</em><em> will fall on </em><em>the </em><em>people, animals, and plants </em><em>out in the open everywhere in</em><em> Egypt.”</em> <strong><sup>23</sup></strong>He pointed his staff at the sky, and Yahveh sent thunder and hail, and lightning struck the ground. <strong><sup>24</sup></strong>There was really severe hail and lightning flashing continually in the hail, like nothing that had ever happened in Egypt since it became a nation. <strong><sup>25</sup></strong>The hail struck everything that was out in the open everywhere in Egypt—people, animals, plants in the field, and shattered the trees. <strong><sup>26</sup></strong>Only in Goshen, where the Israelites lived, there wasn’t any hail.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh told Moses, <i>“Hold your hand toward the sky so hail will fall on the people, animals, and plants out in the open everywhere in Egypt.”</i> </span></span>
+<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He pointed his staff at the sky, and Yahveh sent thunder and hail, and lightning struck the ground. </span></span>
+<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>There was really severe hail and lightning flashing continually in the hail, like nothing that had ever happened in Egypt since it became a nation. </span></span>
+<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The hail struck everything that was out in the open everywhere in Egypt—people, animals, plants in the field, and shattered the trees. </span></span>
+<span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Only in Goshen, where the Israelites lived, there wasn’t any hail.                                                                                                                                                    </span></span></p>
+
 <p class="section-ref">Ex 9:22-26</p>
 
-<span class="verse" id="v27"><sup class="verse-num">27</sup> Pharaoh sent for Moses and Aaron, <em>“I’ve sinned this time.</em><em> Yahveh</em><em> is </em><em>right</em><em>; my people </em><em>and I </em><em>are </em><em>wrong</em><em>.</em><em> </em><strong><sup>28</sup></strong><em>Pray to him. We’ve had enough of hi</em><em>s thunder and hail.</em><em> </em><em><u>I’ll let you go for good</u></em><em>.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Pharaoh sent for Moses and Aaron, <i>“I’ve sinned this time. Yahveh is right; my people and I are wrong. </i></span></span>
+<span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Pray to him. We’ve had enough of his thunder and hail. <u>I’ll let you go for good</u>.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span></p>
 
-<span class="verse" id="v29"><sup class="verse-num">29</sup> Moses told him<em>, </em> <em>“As soon as I </em><em>leave</em><em> the city, I’ll spread out my hands to </em><em>Yahveh. </em><em>Th</em><em>e thunder and</em><em> hail will stop</em><em>, and y</em><em>ou’ll know </em><em>the world belongs to Yahveh</em><em>.</em><em> </em><strong><sup>30</sup></strong><em>But </em><em>I’m sure </em><em>you and your </em><em>officer</em><em>s </em><em>still won’t</em><em> </em><em>respect</em><em> </em><em>him</em><em>.”</em><em> </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses told him<i>, </i></span></span></p>
 
-<span class="verse" id="v31"><sup class="verse-num">31</sup> (The hail ruined the flax and barley crops because the barley had headed out and the flax had budded. <strong><sup>32</sup></strong>It didn’t ruin the wheat and spelt, which <em>ripen</em> later.) <strong><sup>33</sup></strong>Moses left Pharaoh and the city and spread out his hands to Yahveh. The thunder, hail, and rain quit pouring down. <strong><sup>34</sup></strong>When Pharaoh saw it stop, he and his officers sinned again and hardened their hearts. <strong><sup>35</sup></strong>He wouldn’t let the people go.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“As soon as I leave the city, I’ll spread out my hands to Yahveh. The thunder and hail will stop, and you’ll know the world belongs to Yahveh. </span></i><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But I’m sure you and your officers still won’t respect him.” </span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(</span><span style='font-family:"Times New Roman",serif'>The hail ruined the flax and barley crops because the barley had headed out and the flax had budded. </span></span>
+<span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-family:"Times New Roman",serif'>It didn’t ruin the wheat and spelt, which <i>ripen</i> later</span><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>.) </span></span>
+<span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses left Pharaoh and the city and spread out his hands to Yahveh. The thunder, hail, and rain quit pouring down. </span></span>
+<span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Pharaoh saw it stop, he and his officers sinned again and hardened their hearts. </span></span>
+<span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He wouldn’t let the people go.       </span></span></p>
+
 <p class="section-ref">Ex 9:27-35</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

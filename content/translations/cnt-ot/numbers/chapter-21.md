@@ -1,67 +1,146 @@
 ---
 book: Numbers
 chapter: 21
-next: chapter-22
-prev: chapter-20
 title: Numbers 21
 translation: CNT
 type: chapter
 weight: 21
+prev: chapter-20
+next: chapter-22
 ---
 
 ## Numbers Chapter 21
 
+
 ### Arad Destroyed
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> When the Canaanite king of Arad, who lived in the Negev, heard that Israel was coming by way of Atharim, he fought Israel and took some captives. <strong><sup>2</sup></strong>Israel vowed to the LORD, <em>“If you’</em><em>ll deliver them</em><em> </em><em>to me</em><em>, </em><em>we</em><em>’ll destroy their </em><em>towns</em><em>.”</em> <strong><sup>3</sup></strong>He delivered them, and they “destroyed” them and their towns; the name of the place became Hormah.</span>
+
+<p class="MsoListBulletCxSpMiddle" ><a name="_Hlk126702064"></a><a name="_Hlk126702361"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the Canaanite king of Arad, who lived in the Negev, heard that Israel was coming by way of Atharim, he fought Israel and took some captives. </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel vowed to the L</span><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>, </span><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If you’ll deliver them to me, we’ll destroy their towns.”</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He delivered them, and they “destroyed” them and their towns; the name of the place became Hormah.                                                  </span></span></p>
+
 <p class="section-ref">Num 21:1-3</p>
+
 
 ### The Bronze Snake
 
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> Then they set out from Mount Hor by taking the road to the Red Sea, to go around Edom, and the people got impatient because of the journey. <strong><sup>5</sup></strong>They criticized God and Moses, <em>“Why </em><em>bring</em><em> us out of Egypt to die in the </em><em>desert</em><em>?</em><em> </em><em>There</em><em>’s no food or water.</em><em> </em><em>We hate this miserable food!</em><em>”</em> <strong><sup>6</sup></strong>The LORD sent poisonous snakes among them. They bit the people and a lot of them died. <strong><sup>7</sup></strong>They came to Moses, <em>“We’ve sinned</em><em>;</em><em> we’ve </em><em>criticized</em><em> </em><em>you and </em><em>the </em><em>L</em><em>ORD</em><em>.</em><em> </em><em>Intercede with </em><em>him</em><em> so he’ll </em><em>take</em><em> the snakes</em><em> away</em><em>.”</em> Moses did that, <strong><sup>8</sup></strong>and the LORD told him, <em>“</em><em>Fashion</em><em> </em><em>a poisonous snake</em><em> on a standard</em><em> so e</em><em>verybody that looks at </em><em>it</em><em> will </em><em>survive</em><em>.”</em><em> </em><strong><sup>9</sup></strong>Moses did that.  If a snake bit anyone and they looked at the bronze serpent, they’d survive.<em>                                                           </em><em>                    </em><em></span>
+<p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then they set out from Mount Hor by taking the road to the Red Sea, to go around Edom, and the people got impatient because of the journey. </span></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They criticized God and Moses, </span><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>“Why bring us out of Egypt to die in the desert? There’s no food or water. We hate this miserable food!”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> sent poisonous snakes among them. They bit the people and a lot of them died. </span></span>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They came to Moses, </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>“We’ve sinned; we’ve criticized you and the L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>. Intercede with him so he’ll take the snakes away.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> Moses did that, </span></span>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> told him, </span><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>“Fashion a poisonous snake on a standard so everybody that looks at it will survive.” </span></i></span>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses did that.  If a snake bit anyone and they looked at the bronze serpent, they’d survive.</span><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>
+                                                                                                                                                                </span></i></span></span></p>
+
 <p class="section-ref">Num 21:4-9</p>
+
 
 ### Israel’s Journey to Moab
 
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> The Israelites moved out and camped in Oboth, <strong><sup>11</sup></strong> from there to Iyeabarim in the desert east of Moab, <strong><sup>12</sup></strong>from there to Wadi Zered, <strong><sup>13</sup></strong>and then to the other side of the Arnon in the desert that comes out of the border of the Amorite. The Arnon forms the border between Moab and the Amorites. <strong><sup>14</sup></strong> <em>The Book of the Wars of the </em><em>L</em><em>ORD</em> says, <em>“Waheb in Suphah and the wadis of the Arnon,</em></span>
+<p class="MsoListBulletCxSpMiddle" ><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  <a name="_Hlk126702533">10</a></span></sup></b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>The Israelites moved out and camped in Oboth, </span><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> from there to Iyeabarim in the desert east of Moab, </span></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>from there to Wadi Zered, </span></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and then to the other side of the Arnon in the desert that comes out of the border of the Amorite. The Arnon forms the border between Moab and the Amorites. </span></span>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Book of the Wars of the L</span></i><i><span style='font-size:9.0pt;line-height: 115%;font-family:"Times New Roman",serif'>ORD</span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says,</span></span></p>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> <em>and the slope of the wadis</em> <em>	</em><em>	t</em><em>hat extends to Ar</em> <em>	</em><em>	and lead</em><em>s to the border of Moab.”</span>
+<p class="MsoListBulletCxSpMiddle" ><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Waheb in Suphah and the wadis of the Arnon,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and the slope of the wadis</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  that extends to Ar</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and leads to the border of Moab.”
+</span></i></span></p>
+
 <p class="section-ref">Num 21:10-15</p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> From there <em>they continued</em> to Beer. That’s the “well” where the LORD told Moses, <em>“</em><em>Gather</em><em> the people so I can give them water.”</em></span>
+<p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>From there </span><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>they continued</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> to Beer. That’s the “well” where the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> told Moses, </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Gather the people so I can give them water.”</span></i></span></p>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> Then Israel sang this song: <em>“Spring up, O well!</em><em> </em><em>Sing to it!</em></span>
+<p class="MsoListBulletCxSpMiddle" ><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Israel sang this song:</span></span></p>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> <em>The well</em><em> that</em><em> the leaders sank,</em> <em>	</em><em>	</em><em>that</em><em> the nobles </em><em>dug</em> <em>	</em><em>	with the</em><em>ir</em><em> scepter</em><em>s</em><em> and staffs.”</em> From the desert <em>they continued</em> to Mattanah, <strong><sup>19</sup></strong>to Nahaliel, to Bamoth, <strong><sup>20</sup></strong>to the valley in Moab, at the top of Pisgah, which overlooks Jeshimon.</span>
+<p class="MsoListBulletCxSpMiddle" ><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Spring up, O well! Sing to it!</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The well that the leaders sank,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        that the nobles dug</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        with their scepters and staffs.”</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" ><a name="_Hlk126702770"><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>From the desert </span></a><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>they continued</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> to Mattanah, </span><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to Nahaliel, to Bamoth, </span></span>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to the valley in Moab, at the top of Pisgah, which overlooks Jeshimon.                                                                                                                                         </span></span></p>
+
 <p class="section-ref">Num 21:16-20</p>
+
 
 ### King Sihon Defeated
 
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> Israel sent ambassadors to Sihon, king of the Amorites,</span>
+<p class="MsoListBulletCxSpMiddle" ><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel sent ambassadors to Sihon, king of the Amorites, </span></span></p>
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> <em>“Let me </em><em>go</em><em> through your land.</em> <em>We won’t turn off into fields or vineyards</em><em>, or </em><em>drink water from </em>your <em>wells.</em><em> </em><em>We’ll go by the</em><em> King’s H</em><em>ighway till we’ve passed through.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Let me go through your land.</span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> </span><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We won’t turn off into fields or vineyards, or drink water from </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>your
+</span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>wells. We’ll go by the King’s Highway till we’ve passed through.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span></p>
 
-<span class="verse" id="v23"><sup class="verse-num">23</sup> But Sihon wouldn’t let them. He gathered his army and attacked Israel in the Wilderness at Jahaz. <strong><sup>24</sup></strong>Israel struck him with the sword and took his land from the Arnon to the Jabbok, as far as the Ammonites. Jazer was the border of Ammon. <strong><sup>25</sup></strong>Israel took those towns and lived in them, in Heshbon and its surrounding villages. <strong><sup>26</sup></strong>Heshbon was Sihon’s city, who had fought the former king of Moab and took his land as far as the Arnon. <strong><sup>27</sup></strong>The ones that recite proverbs say, <em>“Come to Heshbon</em><em> and build it</em><em>!</em> <em>	</em><em>	Set up Sihon’s city</em><em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" ><a name="_Hlk125982806"><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But Sihon wouldn’t let them. He gathered his army and attacked Israel in the Wilderness at Jahaz. </span></span>
+<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel struck him with the sword and took his land from the Arnon to the Jabbok, as far as the Ammonites. Jazer was the border of Ammon. </span></span>
+<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel took those towns and lived in them, in Heshbon and its surrounding villages. </span></span>
+<span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Heshbon was Sihon’s city, who had fought the former king of Moab and took his land as far as the Arnon. </span></span>
+<span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The ones that recite proverbs say,</span></span></p>
 
-<span class="verse" id="v28"><sup class="verse-num">28</sup> <em>A fire went out from Heshbon,</em> <em>	</em><em>	</em><em>	a</em><em> flame from </em><em>Sihon’s</em><em> </em><em>city</em><em>.</em> <em>	</em><em>	It consumed Ar in</em><em> Moab,</em> <em>	</em><em>	</em><em>	t</em><em>he dominating Bamoth of the Arnon.</em></span>
+<p class="MsoListBulletCxSpMiddle" ><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Come to Heshbon and build it!</span></i></p>
 
-<span class="verse" id="v29"><sup class="verse-num">29</sup> <em>Misfortune awaits </em><em>you, Moab!</em> <em>	</em><em>	You’</em><em>re ruined, people of Chemosh!</em> <em>	</em><em>	He </em><em>made</em><em> his sons </em><em>refuge</em><em>e</em><em>s</em> <em>	</em><em>	</em><em>	a</em><em>nd </em><em>turned </em><em>his daughters </em><em>over </em><em>t</em><em>o captivity,</em> <em>	</em><em>	</em><em>	t</em><em>o an Amorite king, Sihon.</em></span>
+<p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        Set up Sihon’s city.</span></i></p>
 
-<span class="verse" id="v30"><sup class="verse-num">30</sup> <em>But w</em><em>e’ve thrown them down;</em> <em>	</em><em>	</em><em>	</em><em>	from </em><em>He</em><em>shbon to Dibon;</em> <em>	</em><em>	we</em><em> </em><em>wiped them out</em> <em>	</em><em>	</em><em>	from Nophah to</em><em> Medeba.”</em> 	<strong>King Og Defeated</strong></span>
+<p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A fire went out from Heshbon,</span></i></span></p>
 
-<span class="verse" id="v31"><sup class="verse-num">31</sup> So Israel lived in the territory of the Amorites. <strong><sup>32</sup></strong>Moses sent <em>men </em>to spy out Jazer, and they captured its villages and expelled the Amorites there.</span>
+<p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              a flame from Sihon’s city.</span></i></p>
 
-<span class="verse" id="v33"><sup class="verse-num">33</sup> Then they turned and went up by the way of Bashan. Og, king of Bashan, went out with his people to fight at Edrei. <strong><sup>34</sup></strong>But the LORD told Moses, <em>“</em><em>Don’</em><em>t </em><em>be afraid of</em><em> him</em><em>. I’ll give </em><em>him</em><em>, </em><em>his </em><em>people</em><em>,</em><em> and his land</em><em> to you</em><em>.</em><em> Do to him what</em><em> you did to Sihon.”</em> <strong><sup>35</sup></strong>So they killed him, his sons, and his people till there wasn’t a remnant left. They took over his land.</span>
+<p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        It consumed Ar in Moab,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              the dominating Bamoth of the Arnon.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Misfortune awaits you, Moab!</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        You’re ruined, people of Chemosh!</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        He made his sons refugees</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              and turned his daughters over to captivity,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              to an Amorite king, Sihon.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><a name="_Hlk126702883"><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But we’ve thrown them down;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              from Heshbon to Dibon;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        we wiped them out</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              from Nophah to Medeba.”</span></i></p>
+
+
+### King Og Defeated
+
+
+<p class="MsoListBulletCxSpMiddle" ><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  31</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So Israel lived in the territory of the Amorites. </span><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses sent </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>men
+</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to spy out Jazer, and they captured its villages and expelled the Amorites there.
+</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then they turned and went up by the way of Bashan. Og, king of Bashan, went out with his people to fight at Edrei. </span></span>
+<span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> told Moses, </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>“Don’t be afraid of him. I’ll give him, his people, and his land to you. Do to him what you did to Sihon.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span>
+<span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So they killed him, his sons, and his people till there wasn’t a remnant left. They took over his land.                             </span></span></p>
+
 <p class="section-ref">Num 21:21-35</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

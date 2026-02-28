@@ -1,61 +1,92 @@
 ---
 book: Exodus
 chapter: 22
-next: chapter-23
-prev: chapter-21
 title: Exodus 22
 translation: CYV
 type: chapter
 weight: 22
+prev: chapter-21
+next: chapter-23
 ---
 
 ## Exodus Chapter 22
 
+
 ### Protection of Property
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> <em>“I</em><em>f</em><em> </em><em>someone</em><em> steals a </em><em>cow</em><em> or sheep, slaughters it or sells it, </em><em>he</em><em> </em><em>has to </em><em>pay five </em><em>cows</em><em> for </em><em>one cow and four sheep for one</em><em> sheep.</em><em> </em><strong><sup>3</sup></strong><strong><sup>b</sup></strong><em>If he doesn’t have anything, sell </em><em>the thief</em><em> for </em><em>the</em><em> theft.</em><em> </em><strong><sup>4</sup></strong><em>If what</em><em> was</em><em> stole</em><em>n</em><em> i</em><em>s found alive in the thief’s possession—cow, donkey, or sheep—the thief wi</em><em>ll pay double.</em><strong><sup> </sup></strong></span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>If a thief get</em><em>s caught breaking in </em>at night <em>and is struck and dies, </em><em>the slayer won’t be held</em><em> guil</em><em>ty</em><em> </em><em>of murder</em><em>.</em><em>  </em><strong><sup>3</sup></strong><strong><sup>a</sup></strong><em>If </em><em>the theft happens</em><em> </em><em>during the </em><em>day</em><em>, the slayer wi</em><em>ll </em><em>be</em><em> guilt</em><em>y of murder</em><em>.</em><em>  </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If someone steals a cow or sheep, slaughters it or sells it, he has to pay five cows for one cow and four sheep for one sheep. </span></i><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>3b</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If he doesn’t have anything, sell the thief for the theft. </span></i></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If what was stolen is found alive in the thief’s possession—cow, donkey, or sheep—the thief will pay double.</span></i><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></sup></b></span></p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>“If </em><em>you</em><em> </em><em>overgraze a</em><em> field or vineyard and let </em><em>an</em><em> animal loose </em><em>that</em><em> grazes in </em><em>someone else’s</em><em> field, </em><em>you</em><em>’ll </em><em>pay</em><em> </em><em>compensation</em><em> from the best of </em><em>your</em><em> own field and vineyard.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If a thief gets caught breaking in </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>at night </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and is struck and dies, the slayer won’t be held guilty of murder.  </span></i><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>3a</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If the theft happens during the day, the slayer will be guilty of murder.  </span></i></span></p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>“If </em><em>your</em><em> fire </em><em>gets away from you</em><em> and spreads</em><em> to someone else’s thorn bushes, </em><em>stacked grain, standing grain, </em><em>or</em><em> field, </em><em>you’ll pay for </em>damages<em>.</span>
-<p class="section-ref">Ex 22:1-6</p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If you overgraze a field or vineyard and let an animal loose that grazes in someone else’s field, you’ll pay compensation from the best of your own field and vineyard.</span></i></span></p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>“If </em><em>you</em><em> give </em><em>someone</em><em> money or goods </em><em>for safekeeping</em><em>, and it’s stolen from </em><em>that person’s</em><em> house, if caught, </em><em>the thief wi</em><em>ll pay double.</em><em> </em><strong><sup>8</sup></strong><em>If </em><em>no</em><em> thief is caught, </em><em>the judges will investigate to see if </em><em>the other person</em><em><u> </u></em><em>took</em><em> </em><em>it</em><em>. </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If your fire gets away from you and spreads to someone else’s thorn bushes, stacked grain, standing grain, or field, you’ll pay for </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>damages</span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.
+     </span></i><b><span style='font-size:10.0pt;line-height:115%;font-family: "Times New Roman",serif'>Ex 22:1-6</span></b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></i></span></p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>“For </em><em>an</em><em>y breach of trust—for ox, donkey, sheep, clothing, or anythi</em><em>ng else a person owns—</em><em>both parties </em><em>will go to</em><em> the judges.</em><em> </em><em>The one the judges find guilty will pay double to </em><em>the other</em><em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If you give someone money or goods for safekeeping, and it’s stolen from that person’s house, if caught, the thief will pay double. </span></i></span>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If no thief is caught, the judges will investigate to see if the other person<u> </u>took it. </span></i></span></p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>“I</em><em>f </em><em>you</em><em> give </em><em>someone a donkey, cow,</em><em> sheep, or other animal </em><em>for safekeeping</em><em> and it dies, get</em><em>s hurt, or wanders off </em><em>unnoticed</em><em>, </em><strong><sup>11</sup></strong><em>the two of you will swear</em><em> in </em><em>Yahveh’s presence</em><em> that neither has taken </em><em>it</em><em>.</em><em> You’</em><em>ll accept </em>the judges’ verdict<em>, </em><em>no compensation required</em><em>.</em><em> </em><strong><sup>12</sup></strong><em>But if </em><em>it </em><em>was stolen</em><em>, the </em>thief <em>wil</em><em>l </em><em>pay</em><em> its owner</em><em> for it</em><em>.</em><em> </em><strong><sup>13</sup></strong><em>If </em><em>wild animals got it</em><em>, </em><em>the remains are evidence, no compensation required.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“For any breach of trust—for ox, donkey, sheep, clothing, or anything else a person owns—both parties will go to the judges. The one the judges find guilty will pay double to the other.</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If you give someone a donkey, cow, sheep, or other animal for safekeeping and it dies, gets hurt, or wanders off unnoticed, </span></i></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the two of you will swear in Yahveh’s presence that neither has taken it. You’ll accept </span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>the judges’ verdict</span><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, no compensation required. </span></i></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But if it was stolen, the </span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>thief </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>will pay its owner for it. </span></i></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If wild animals got it, the remains are evidence, no compensation required.
+  </span></i></span></span></p>
+
 <p class="section-ref">Ex 22:7-13</p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> <em>“If </em><em>you</em><em> borrow something </em><em>that gets</em><em> injured or dies whil</em><em>e its owner’s absent, </em>you’ll<em> make full restitution.</em><em> </em><strong><sup>15</sup></strong><em>If its owner’s present</em><em>, </em><em>you</em><em> won’t make </em><em>compensation</em><em>.</em><em> </em><em>If </em><em>you rented it</em><em>, it came for </em><em>the rent</em><em>.</em> 	<strong>Laws About Social Justice</strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If you borrow something that gets injured or dies while its owner’s absent, </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>you’ll</span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> make full restitution. </span></i></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If its owner’s present, you won’t make compensation. If you rented it, it came for the rent.</span></i></span></p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> <em>“If a man seduces a virgin that’s not engaged and lies with her, he </em><em>has to </em><em>pay a dowry for her </em>to be <em>his wife.</em><em> </em><strong><sup>17</sup></strong><em>If her father refuses to give her to him, he’ll </em>still <em>pay money equal to the dowry for virgins.</em></span>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> <em>“Don’t </em><em>let</em><em> a sorceress live.</em></span>
+### Laws About Social Justice
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> <em>“Execute w</em><em>hoever has sexual relations with an animal.</em></span>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> <em>“Execute w</em><em>hoever sacrifices to any god </em><em>but Yahveh</em><em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:13.5pt; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If a man seduces a virgin that’s not engaged and lies with her, he has to pay a dowry for her </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>to be </span><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>his wife. </span></i></span>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If her father refuses to give her to him, he’ll </span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>still </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>pay money equal to the dowry for virgins.</span></i></span></p>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> <em>“Don’t wrong </em><em>or mistreat </em><em>a foreigner; you were foreigners in Egypt.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:13.5pt; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t let a sorceress live.</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Execute whoever has sexual relations with an animal.</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Execute whoever sacrifices to any god but Yahveh.</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t wrong or mistreat a foreigner; you were foreigners in Egypt.       </span></i></span></p>
+
 <p class="section-ref">Ex 22:14-21</p>
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> <em>“Don’t </em><em>abuse</em><em> a widow or orphan</em><em> in any way</em><em>.</em><em> </em><strong><sup>23</sup></strong><em>If you </em><em>do and the person cries out to me, </em><strong><sup>24</sup></strong><em>m</em><em>y anger will </em><em>flare.</em><em> I’ll kill you with the sword and make </em><em><u>your</u></em><em><u><sup>sg</sup></u></em><em> wives widows and </em><em><u>your</u></em><em> children </em><em>orphans</em><em>.</em><em> </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:13.5pt; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t abuse a widow or orphan in any way. </span></i></span>
+<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you do and the person cries out to me, </span></i></span>
+<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>my anger will flare. I’ll kill you with the sword and make <u>your<sup>sg</sup></u> wives widows and <u>your</u> children orphans. </span></i></span></p>
 
-<span class="verse" id="v25"><sup class="verse-num">25</sup> <em>“</em><em>If you lend money to </em><em>the poor among </em><em>my people, </em><em>don’t charge interest.</em><em> </em><strong><sup>26</sup></strong><em>If you take your neighbor’s cloak as </em><em>a pledge, give it back before sundown.</em><em> </em><strong><sup>27</sup></strong><em>That may be the </em><em>only covering</em><em> your neighbor has to sleep in</em><em>.</em><em> </em><em>When </em><em>your neighbor</em><em> crie</em><em>s</em><em> out to me, I’ll </em><em>listen</em><em>, because I’m gracious.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:13.5pt; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If you lend money to the poor among my people, don’t charge interest. </span></i></span>
+<span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you take your neighbor’s cloak as a pledge, give it back before sundown. </span></i></span>
+<span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That may be the only covering your neighbor has to sleep in. When your neighbor cries out to me, I’ll listen, because I’m gracious.</span></i></span></p>
 
-<span class="verse" id="v28"><sup class="verse-num">28</sup> <em>“Don’t</em><em> curse God or a ruler of your people</em><em>.</em><em>	</em><em>	      </em><strong><em><sup>	</sup></em></strong><strong><em><sup>	</sup></em></strong><strong><sup>29</sup></strong><em>“Don’t </em><em>put off</em><em> </em><em>giving your offer</em><em>ing</em><em>s from</em><em> your </em><em>crops</em><em> or vintage.</em><em> </em> <em>“</em><em>Give </em><em>me </em><em>your </em><em>firstborn</em><em> sons.</em><em> </em><strong><sup>30</sup></strong><em>Do the same thing with your </em><em>cattle</em><em> and sheep.</em><em> After it’s</em><em> with its mother </em><em>for a week,</em><em> give it to me on the eighth</em><em> day</em><em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t curse God or a ruler of your people.                            </span></i><b><i><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                           </span></sup></i></b></span>
+<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t put off giving your offerings from your crops or vintage. </span></i></span></p>
 
-<span class="verse" id="v31"><sup class="verse-num">31</sup> <em>“You’ll be holy people to me. S</em><em>o don’t eat any animal </em><em>that’s </em><em>torn to pieces in the </em><em>pasture </em>by wild animals<em>.</em><em> Feed</em><em> it to the dogs.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:13.5pt; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Give me your firstborn sons. </span></i><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Do the same thing with your cattle and sheep. After it’s with its mother for a week, give it to me on the eighth day.</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:13.5pt; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“You’ll be holy people to me. So don’t eat any animal that’s torn to pieces in the pasture
+</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>by wild animals</span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>. Feed it to the dogs.
+</span></i></span></span></p>
+
 <p class="section-ref">Ex 22:22-31</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

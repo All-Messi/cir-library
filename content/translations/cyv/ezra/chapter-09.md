@@ -1,33 +1,55 @@
 ---
 book: Ezra
 chapter: 9
-next: chapter-10
-prev: chapter-08
 title: Ezra 9
 translation: CYV
 type: chapter
 weight: 9
+prev: chapter-08
+next: chapter-10
 ---
 
 ## Ezra Chapter 9
 
+
 ### Ezra’s Prayer About Intermarriage
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> When these things had been completed, the officials approached me, <em>“The people of Israel, the priests, </em><em>and the</em><em> Levites haven’t separated from the </em><em>foreigners</em><em> and</em><em> the disgusting things</em><em> of the Canaanites, Hittites, Perizzites, Jebusites, Ammonites, Moabites, Egyptians, and Amorites.</em><em> </em><strong><sup>2</sup></strong><em>They’ve</em><em> taken some of their daughters as wive</em><em>s for themselves and their sons. T</em><em>he holy race has intermingled with foreigners.</em><em> </em><em>The </em><em>official</em><em>s and rulers have been the most prominent in this unfaithfulness.”</em></span>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> When I heard that, I tore my cloak and my shirt, pulled some hair from my head and beard, and sat down appalled. <strong><sup>4</sup></strong>Everybody gathered around me that trembled at God’s message about the exiles’ unfaithfulness. I sat appalled till the evening offering.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>When these things had been completed, the officials approached me, </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The people of Israel, the priests, and the Levites haven’t separated from the foreigners and the disgusting things of the Canaanites, Hittites, Perizzites, Jebusites, Ammonites, Moabites, Egyptians, and Amorites. </span></i><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’ve taken some of their daughters as wives for themselves and their sons. The holy race has intermingled with foreigners. The officials and rulers have been the most prominent in this unfaithfulness.”</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When I heard that, I tore my cloak and my shirt, pulled some hair from my head and beard, and sat down appalled. </span></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Everybody gathered around me that trembled at God’s message about the exiles’ unfaithfulness. I sat appalled till the evening offering. <b>          </b></span></span></p>
+
 <p class="section-ref">Ezra 9:1-4</p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> Then I got up from my humbled condition with my cloak and shirt torn. I fell on my knees and held out my hands to Yahveh:</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then I got up from my humbled condition with my cloak and shirt torn. I fell on my knees and held out my hands to Yahveh: </span></span></p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>“I’m</em><em> </em><em>ashamed to look at you. O</em><em>ur </em><em>sins</em><em> have </em><em>piled up</em><em> higher than our heads</em><em>. O</em><em>ur guil</em><em>t has grown as high as the sky</em><em>.</em><em> </em><strong><sup>7</sup></strong><em>Since</em><em> the time of our ance</em><em>stors, we’ve had serious guilt.</em><em> </em><em>Because of our</em><em> </em><em>sins, you’ve delivered us</em><em>, our kings, and our priests to the kings of </em><em>nations</em><em>,</em><em> to the sword, to captivity, plunder, and </em><em>open </em><em>disgrace</em><em> </em><em>like</em><em> today.</em><em> </em><strong><sup>8</sup></strong><em>But</em><em> now for a </em><em>little while,</em><em> </em><em>you’ve</em><em> shown </em><em>grace</em><em> </em><em>and left us a </em><em>remnant and </em><em>give</em><em>n us a stake</em><em> in </em><em>your holy p</em><em>lace</em><em> to</em><em> enlighten us and grant us a little reviving in our bondage.</em><em> </em><strong><sup>9</sup></strong><em>We’</em><em>re</em><em> slaves; yet in our bondage, </em><em>you have</em><em>n’t </em><em>left</em><em> us</em><em>. You’ve </em><em>extended </em><em>enduring love</em><em> to us in </em><em>the presence of the kings of Persia, to rev</em><em>ive us </em><em>for building</em><em> </em><em>your Temple</em><em>, res</em><em>toring its ruins, and giving</em><em> us a wall in Judah and Jerusalem.</em><em> </em><strong><sup>10</sup></strong><em>W</em><em>hat</em><em> </em><em>can</em><em> we say </em><em>now, God</em><em>?</em><em> </em><em>We’ve </em><em>abandoned</em><em> </em><em>what </em><em>you</em><em>’ve commanded</em><em> </em><strong><sup>11</sup></strong><em>through</em><em> your </em><em>pro</em><em>phets, ‘</em><em>The land you’re going in</em><em> to possess is </em><em>ceremonially </em><em>unclean because of </em><em>its unclean people</em><em> and </em><em>disgusting things</em><em> that fill it end to end.</em><em> </em><strong><sup>12</sup></strong><em>D</em><em>on’t</em><em> intermarry with them</em><em>. Never search</em><em> </em><em>for </em><em>their peace or prosperity so you can be strong</em><em>,</em><em> eat the good things of the land</em><em>,</em><em> and leave it as a</em><em> permanent</em><em> inheritance to your </em><em>descendants</em><em>.’</em><em> </em><strong><sup>13</sup></strong><em>After</em><em> everything</em><em> tha</em><em>t’s happened to u</em><em>s </em><em>because of</em><em> our </em><em>sinful</em><em> deed</em><em>s and </em><em>great guilt</em><em>—</em><em>you</em><em>’ve </em><em>paid us back less than our </em><em>sins deserve and have given us a</em><em> remnant </em><em>like</em><em> this</em><em>—</em><strong><sup>14</sup></strong><em>will</em><em> we again break your commandments and intermarry with people tha</em><em>t commit tho</em><em>se </em><em>disgusting things</em><em>?</em><em> </em><em>Wouldn’t you be angry with us to the point of d</em><em>estroying us till there wa</em><em>s no remnant </em><em>to</em><em> escape?</em><em> </em><strong><sup>15</sup></strong><em>Yahveh</em><em> God of Israel, you’</em><em>re </em><em>good, because you</em><em> left </em><em>us a</em><em> remnant</em><em>. We’re</em><em> </em><em>guilty in your presence</em><em> because nobody can </em><em>withstand you on that account</em><em>.”</em><strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’m ashamed to look at you. Our sins have piled up higher than our heads. Our guilt has grown as high as the sky. </span></i></span>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Since the time of our ancestors, we’ve had serious guilt. Because of our sins, you’ve delivered us, our kings, and our priests to the kings of nations, to the sword, to captivity, plunder, and open disgrace like today. </span></i></span>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But now for a little while, you’ve shown grace and left us a remnant and given us a stake in your holy place to enlighten us and grant us a little reviving in our bondage. </span></i></span>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We’re slaves; yet in our bondage, you haven’t left us. You’ve extended enduring love to us in the presence of the kings of Persia, to revive us for building your Temple, restoring its ruins, and giving us a wall in Judah and Jerusalem. </span></i></span>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>What can we say now, God? We’ve abandoned what you’ve commanded </span></i></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>through your prophets, ‘The land you’re going in to possess is ceremonially unclean because of its unclean people and disgusting things that fill it end to end. </span></i></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Don’t intermarry with them. Never search for their peace or prosperity so you can be strong, eat the good things of the land, and leave it as a permanent inheritance to your descendants.’ </span></i></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After everything that’s happened to us because of our sinful deeds and great guilt—you’ve paid us back less than our sins deserve and have given us a remnant like this—</span></i></span>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>will we again break your commandments and intermarry with people that commit those disgusting things? Wouldn’t you be angry with us to the point of destroying us till there was no remnant to escape? </span></i></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh God of Israel, you’re good, because you left us a remnant. We’re guilty in your presence because nobody can withstand you on that account.”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
+                                                                                         </span></b></span></span></p>
+
 <p class="section-ref">Ezra 9:5-15</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

@@ -1,62 +1,114 @@
 ---
 book: Mark
 chapter: 11
-next: chapter-12
-prev: chapter-10
 title: Mark 11
 translation: CNT
 type: chapter
 weight: 11
+prev: chapter-10
+next: chapter-12
 ---
 
 ## Mark Chapter 11
 
+
 ### The Triumphal Entry
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> When they got<sup>p</sup> close to Jerusalem—to Bethphage and Bethany, on the Mount of Olives, he sent<sup>p</sup> two disciples,<strong> </strong><strong><sup>2</sup></strong><em>“Go</em><em> in the village </em><em>over there</em><em>.</em><em> </em><em>Just inside, you’ll find a donkey colt tied that nobody has ridden.</em><em> </em><em>Untie it and bring it here.</em><em> </em><strong><sup>3</sup></strong><em>If</em><em> anybody says, ‘Why are you </em><em>doing this</em><em>?’ say, ‘The Lord needs it,’ and he’ll </em><em>send</em><em><sup>p</sup></em><em> it here right away.”</em></span>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> They went and found the colt tied at the gate outside by the road and untied<sup>p</sup> it. <strong><sup>5</sup></strong>Some of the ones standing there said, <em>“What’re you doing, untying the colt?”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>When they got<sup>p</sup> close to Jerusalem—to Bethphage and Bethany, on the Mount of Olives, he sent<sup>p</sup> two disciples,</span><b><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>
+<sup>2</sup></span></b><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“Go in the village over there. Just inside, you’ll find a donkey colt tied that nobody has ridden. Untie it and bring it here. </span></i></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>If anybody says, ‘Why are you doing this?’ say, ‘The Lord needs it,’ and he’ll send<sup>p</sup> it here right away.”</span></i></span></p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> The disciples said what Jesus told them to say, and they let them take it. <strong><sup>7</sup></strong>They brought<sup>p</sup> it to Jesus and put<sup>p</sup> their cloaks on it, and he sat on it. <strong><sup>8</sup></strong>People spread their cloaks on the road and brought leafy branches they’d cut out of the fields. <strong><sup>9</sup></strong>The ones in front and behind started shouting, 	<strong><em>“Hosanna!</em></strong> <strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>B</em></strong><strong><em>lessed </em></strong><strong><em>be</em></strong><strong><em> the one that’s</em></strong><strong><em> coming in the name of the L</em></strong><strong><em>ORD</em></strong><strong> </strong><strong>[Ps</strong><strong> 118:25-26]</strong><strong>!</strong></span>
+<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>They went and found the colt tied at the gate outside by the road and untied<sup>p</sup> it. </span></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Some of the ones standing there said, <i>“What’re you doing, untying the colt?”</i></span></span></p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>B</em><em>lessed</em><em> is the coming kingdom of our </em><em>ancestor David.</em> <em>	</em><em>	</em><strong><em>Hosanna</em></strong><em> in the highest!”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>The disciples said what Jesus told them to say, and they let them take it. </span></span>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>They brought<sup>p</sup> it to Jesus and put<sup>p</sup> their cloaks on it, and he sat on it. </span></span>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>People spread their cloaks on the road and brought leafy branches they’d cut out of the fields. </span></span>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>The ones in front and behind started shouting,</span></span></p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> He entered the Temple in Jerusalem and looked around at everything. It was already evening, and he went out to Bethany with the Twelve.</span>
+<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                        </span><b><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“Hosanna!</span></i></b></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><b><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                                    Blessed be the one that’s coming in the name of the L</span></i></b><b><i><span style='font-size:9.0pt;font-family:"Times New Roman",serif'>ORD</span></i></b><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'> </span></b><b><span style='font-size:9.0pt;font-family:"Times New Roman",serif'>[Ps 118:25-26]!</span></b></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                                    </span></i><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Blessed is the coming kingdom of our ancestor David.</span></i></span></p>
+
+
+### Hosanna in the highest!”
+
+
+<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>He entered the Temple in Jerusalem and looked around at everything. It was already evening, and he went out to Bethany with the Twelve.  </span></span></p>
+
 <p class="section-ref">Mk 11:1-11</p>
 
-### Cursing the Fig Tree;  	Second Cleansing of the Temple
+
+### Cursing the Fig Tree;
 
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> The next day, when they left Bethany, he was hungry. <strong><sup>13</sup></strong>From a distance he saw a fig tree leafed out and went to see if he’d find anything on it. He didn’t find anything but leaves—it wasn’t the season for figs yet. <strong><sup>14</sup></strong>He said to it, <em>“May nobody ever eat fruit from you again.”</em> His disciples heard it.</span>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> They went<sup>p</sup> into Jerusalem. In the Temple, he started putting out the buyers and sellers. He turned over the tables of the moneychangers and the chairs of men selling doves. <strong><sup>16</sup></strong>He wouldn’t let anybody carry a container through the Temple. <strong><sup>17</sup></strong>He began to teach, <em>“</em><em>Doesn’t scripture say</em><em>, </em> <strong><em>‘</em></strong><strong><em>Call my house a house of</em></strong><strong><em> prayer for all the nations’</em></strong><em>?</em><em> </em><strong>[Is 56:7]</strong><strong> </strong> <em>You’</em><em>ve made it </em><strong><em>‘a den of thieves’</em></strong><em>!</em><em>”</em> <strong>[Jer 7:11]</strong></span>
+### Second Cleansing of the Temple
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> The chief priests and scribes heard about it and kept looking for a way to destroy him. They were afraid of him, and the crowd was astonished at his teaching. <strong><sup>19</sup></strong>In the evening, he<em> and his disciples </em>left the city.</span>
+
+<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>The next day, when they left Bethany, he was hungry. </span></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size: 12.0pt;font-family:"Times New Roman",serif'>From a distance he saw a fig tree leafed out and went to see if he’d find anything on it. He didn’t find anything but leaves—it wasn’t the season for figs yet. </span></span>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>He said to it, <i>“May nobody ever eat fruit from you again.”</i> His disciples heard it.</span></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>They went<sup>p</sup> into Jerusalem. In the Temple, he started putting out the buyers and sellers. He turned over the tables of the moneychangers and the chairs of men selling doves. </span></span>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>He wouldn’t let anybody carry a container through the Temple. </span></span>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>He began to teach,
+<i>“Doesn’t scripture say, </i></span></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;line-height:normal'><b><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>‘Call my house a house of prayer for all the nations’</span></i></b><i><span style='font-size: 12.0pt;font-family:"Times New Roman",serif'>? </span></i><b><span style='font-size:9.0pt;font-family:"Times New Roman",serif'>[Is 56:7] </span></b></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;line-height:normal'><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>You’ve made it </span></i><b><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>‘a den of thieves’</span></i></b><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>!”</span></i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'> </span><b><span style='font-size:10.0pt;font-family:"Times New Roman",serif'>[Jer 7:11]</span></b></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>The chief priests and scribes heard about it and kept looking for a way to destroy him. They were afraid of him, and the crowd was astonished at his teaching. </span><b><sup><span style='font-size: 12.0pt;font-family:"Times New Roman",serif'>19</span></sup></b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>In the evening, he<i> and his disciples </i>left the city.                </span></span></p>
+
 <p class="section-ref">Mk 11:12-19</p>
+
 
 ### Discussing the Shriveled Fig Tree
 
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> As they went by early the next morning, they saw the fig tree completely shriveled up. <strong><sup>21</sup></strong>Peter remembered, <em>“Rabbi, the fig t</em><em>ree you cursed has shriveled up!</em><em>”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>As they went by early the next morning, they saw the fig tree completely shriveled up. </span></span>
+<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Peter remembered, <i>“Rabbi, the fig tree you cursed has shriveled up!”</i></span></span></p>
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> Jesus said<sup>p</sup>, <em>“</em><em>Trust</em><em> God.</em><em> </em><strong><sup>23</sup></strong><em>Whoever</em><em> says to this mountain, ‘Be picked up and thrown in</em><em>to</em><em> the sea,’ and doesn’t doubt, </em><em>it’ll happen</em><em>.</em><em> </em><strong><sup>24</sup></strong><em>As</em><em> many things as </em><em>you </em><em>ask</em><em> for</em><em> in prayer,</em><em> believe you’</em><em>ve as good as received </em><em>it</em><em><sup>aorist</sup></em><em>, and </em><em>you will</em><em>.</em><em> </em><strong><sup>25</sup></strong><em>When</em><em> you stand praying, if you have anything against anybody, forgive</em><em> him</em><em> so your Father in heaven will forgive you.”</em><em> </em>[<strong><sup>26</sup></strong>]<sup>ms</span>
+<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>Jesus said<sup>p</sup>, <i>“Trust God. </i></span></span>
+<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Whoever says to this mountain, ‘Be picked up and thrown into the sea,’ and doesn’t doubt, it’ll happen. </span></i></span>
+<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>As many things as you ask for in prayer, believe you’ve as good as received it<sup>aorist</sup>, and you will. </span></i></span>
+<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>When you stand praying, if you have anything against anybody, forgive him so your Father in heaven will forgive you.” </span></i><span style='font-size:12.0pt;font-family: "Times New Roman",serif'>[</span></span>
+<span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size: 12.0pt;font-family:"Times New Roman",serif'>]<sup>ms</sup>                        </span></span></p>
+
 <p class="section-ref">Mk 11:20-26</p>
+
 
 ### Jesus’ Authority Challenged
 
 
-<span class="verse" id="v27"><sup class="verse-num">27</sup> They went<sup>p</sup> into Jerusalem again. While he was walking in the Temple, the Pharisees, scribes, and elders came<sup>p</sup>, <strong><sup>28</sup></strong><em>“Wha</em><em>t</em><em> right do</em><em> you have to do th</em><em>is? Who gave you that</em><em> right?”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>They went<sup>p</sup> into Jerusalem again. While he was walking in the Temple, the Pharisees, scribes, and elders came<sup>p</sup>, </span></span>
+<span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“What right do you have to do this? Who gave you that right?”</span></i></span></p>
 
-<span class="verse" id="v29"><sup class="verse-num">29</sup> Jesus said, <em>“I’ll ask you </em><em>some</em><em>thing.</em><em> </em><em>Answer me and</em><em> I’ll tell you what right I have</em><em> to do </em><em>this</em><em>.</em><em> </em><strong><sup>30</sup></strong><em>Was</em><em> John’s baptis</em><em>m from heaven or humans? Answer</em><em> that.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Jesus said, <i>“I’ll ask you something. Answer me and I’ll tell you what right I have to do this. </i></span></span>
+<span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Was John’s baptism from heaven or humans? Answer that.”</span></i></span></p>
 
-<span class="verse" id="v31"><sup class="verse-num">31</sup> They consulted with one another, <em>“If we say, ‘From heaven,’ he’ll say, ‘Why didn’t you believe him?</em>’ <strong><sup>32</sup></strong><em>But</em><em> </em><em>if we say, ‘From humans’</em><em>”—</em>they were afraid of the crowd because they all certainly considered John a prophet. <strong><sup>33</sup></strong>They answered<sup>p</sup>,<em> “We don’t know.”</em><em> </em> Jesus said<sup>p</sup>, <em>“I won’t tell you either what right I h</em><em>ave</em><em> to do th</em><em>is</em><em>.”</em><strong></span>
+<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>They consulted with one another, <i>“If we say, ‘From heaven,’ he’ll say, ‘Why didn’t you believe him?</i>’ </span></span>
+<span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <i><span style='font-size:12.0pt; font-family:"Times New Roman",serif'>But if we say, ‘From humans’”—</span></i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>they were afraid of the crowd because they all certainly considered John a prophet. </span></span>
+<span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>They answered<sup>p</sup>,<i> “We don’t know.” </i></span></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Jesus said<sup>p</sup>, <i>“I won’t tell you either what right I have to do this.”</i></span><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                      </span></b></span></p>
+
 <p class="section-ref">Mk 11:27-33</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

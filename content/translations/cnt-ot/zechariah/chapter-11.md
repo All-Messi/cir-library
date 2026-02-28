@@ -1,44 +1,98 @@
 ---
 book: Zechariah
 chapter: 11
-next: chapter-12
-prev: chapter-10
 title: Zechariah 11
 translation: CNT
 type: chapter
 weight: 11
+prev: chapter-10
+next: chapter-12
 ---
 
 ## Zechariah Chapter 11
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Open your doors, Lebanon, so fire can consume your cedar forests.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Open your doors, Lebanon,</span></span></p>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> Wail, cypress trees, for the fallen cedars; the stately trees have burned up. Wail, oaks of Bashan; the thick woodland has been cut down.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      so fire can consume your cedar forests.</span></p>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> The shepherds wail because their good pasture’s gone. The young lions roar because the jungle by the Jordan is decimated.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Wail, cypress trees, for the fallen cedars;</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      the stately trees have burned up.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Wail, oaks of Bashan;</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      the thick woodland has been cut down.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The shepherds wail </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      because their good pasture’s gone.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The young lions roar</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  because the jungle by the Jordan is decimated.</span><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'></span></p>
+
 <p class="section-ref">Zech 11:1-3</p>
+
 
 ### Good and Bad Shepherds
 
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> The LORD my God says, <em>“Pasture the flock </em><em>that’s </em><em>doomed </em><em>to</em><em> slaughter.</em><em> </em><strong><sup>5</sup></strong><em>The</em><em> buy</em><em>ers</em><em> </em><em>butcher them without remorse. The</em><em> </em><em>sellers say, ‘Praise</em><em> the </em><em>L</em><em>ORD</em><em>, I’</em><em>m </em><em>rich!’</em><em> T</em><em>heir own shepherds don’t </em><em>care about</em><em> them</em><em>! </em><strong><sup>6</sup></strong><em>I</em><em> won’t have merc</em><em>y on </em><em>people </em>like that<em>. </em><em>I’ll let them</em><em> fall </em><em>into</em><em> </em><em>each other’s</em><em> </em><em>hands</em><em> and </em><em>the hands of their king</em><em>.</em><em> </em><em>They’ll </em><em>ruin</em><em> the land, and I won’t </em><em>protect</em><em> </em><em>it</em><em>.”</em><em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> my God says, </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:31.5pt; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Pasture the flock that’s doomed to slaughter. </span></i><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The buyers butcher them without remorse. The sellers say, ‘Praise the L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, I’m rich!’ Their own shepherds don’t care about them! </span></i></span>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I won’t have mercy on people </span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>like that<i>. I’ll let them fall into each other’s hands and the hands of their king. They’ll ruin the land, and I won’t protect it.” </i></span></span></p>
+
 <p class="section-ref">Zech 11:4-6</p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> So I began pasturing the flock that was doomed to slaughter by the ones that trafficked in sheep. I took two staffs; I called one Favor and the other Unity, and I tended the flock <em>with them</em>. <strong><sup>8</sup></strong>I fired three <em>worthless</em> shepherds in one month. I also lost patience with <em>the sheep</em>, and they lost interest in me. <strong><sup>9</sup></strong>I told them, <em>	</em><em>“I won’t pasture you</em><em> anymore</em><em>.</em><em> </em> <em>	</em><em>What’s to die </em><em>will</em><em> </em><em>die;</em><em> </em> <em>	</em><em>	</em><em>what’s to be destroyed </em><em>will</em><em> be destroyed.</em><em> </em> <em>	T</em><em>he </em><em>rest will</em><em> eat </em><em>one another</em><em>.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So I began pasturing the flock that was doomed to slaughter by the ones that trafficked in sheep. I took two staffs; I called one Favor and the other Unity, and I tended the flock <i>with them</i>. </span></span>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I fired three <i>worthless</i> shepherds in one month. </span></span></p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> The staff I called<em> </em>Favor I<em> </em>cut in pieces to demonstrate that I was breaking the covenant I’d made with all the nations. <strong><sup>11</sup></strong>That day, the ones that trafficked in sheep realized the LORD was acting out a message through me. <strong><sup>12</sup></strong>I told them, <em>“If </em><em>you want, pay me; i</em><em>f not, keep it!”</em><em> </em>So they weighed out 12 oz <sup>30 </sup><em><sup>shekels</sup></em> of silver to pay me. <strong><sup>13</sup></strong>The LORD told me, <em>“Throw them</em><em> to the potter, that grand valu</em><em>e </em><em>they put on </em><em>me</em><em>!</em><em>”</em> So I threw them to the potter in the LORD’s Temple. <strong><sup>14</sup></strong>Then I cut in pieces the staff I called Unity to demonstrate that I was breaking the alliance between Judah and Israel.<strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I also lost patience with <i>the sheep</i>, and they lost interest in me. </span><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I told them, </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      “I won’t pasture you anymore. </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      What’s to die will die; </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            what’s to be destroyed will be destroyed. </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      The rest will eat one another.”</span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> </span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The staff I called<i> </i>Favor I<i> </i>cut in pieces to demonstrate that I was breaking the covenant I’d made with all the nations. </span></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That day, the ones that trafficked in sheep realized the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> was acting out a message through me. </span></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I told them, <i>“If you want, pay me; if not, keep it!” </i>So they weighed out 12 oz <sup>30 <i>shekels</i></sup> of silver to pay me. </span></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> told me, <i>“Throw them to the potter, that grand value they put on me!”</i> So I threw them to the potter in the L</span><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s Temple. </span></span>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then I cut in pieces the staff I called Unity to demonstrate that I was breaking the alliance between Judah and Israel.</span></span></p>
+
 <p class="section-ref">Zech 11:7-14</p>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> The LORD told me, <em>“Again, dress up like</em><em> </em><em>a </em><em>worthless shepherd.</em><em> </em><strong><sup>16</sup></strong><em>I’m</em><em> going to </em><em>show the land a picture of </em><em>a shepherd that won’t </em><em>take </em><em>care </em><em>of</em><em> the</em><em> dy</em><em>ing, look for the strays, heal the </em><em>injured</em><em>, or </em><em>feed</em><em> the </em><em>healthy. He’ll eat</em><em> the </em><em>healthy</em><em> ones and tear off their hoofs.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> told me, </span></span></p>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> <em>“</em><em>Misfortune</em><em> awaits</em><em> the worthless shepherd</em> <em>	</em><em>	</em><em>	</em><em>that </em><em>deserts</em><em> the flock!</em> <em>	</em><em>	</em><em>A sword will </em><em>cut</em><em> his arm</em> <em>	</em><em>	</em><em>	</em><em>and </em><em>poke out</em><em> </em><em>his right </em><em>eye!</em> <em>	</em><em>	His arm will wither,</em> <em>	</em><em>	</em><em>	</em><em>and his right eye will go</em><em> blind.”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:31.5pt; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Again, dress up like a worthless shepherd. </span></i><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’m going to show the land a picture of a shepherd that won’t take care of the dying, look for the strays, heal the injured, or feed the healthy. He’ll eat the healthy ones and tear off their hoofs.</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  17</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Misfortune awaits the worthless shepherd</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  that deserts the flock!</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            A sword will cut his arm</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and poke out his right eye!</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            His arm will wither,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and his right eye will go blind.”</span></i></span></p>
+
 <p class="section-ref">Zech 11:15-17</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

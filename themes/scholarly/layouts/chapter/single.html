@@ -453,4 +453,5 @@ var nextUrl = {{ if .Params.next }}"../{{ .Params.next }}/"{{ else }}null{{ end 
 </script>
 
 {{ partial "reading-ui.html" . }}
+<script src="{{ "js/bible.js" | relURL }}?v=5"></script>
 {{ end }}

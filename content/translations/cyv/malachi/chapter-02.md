@@ -1,38 +1,67 @@
 ---
 book: Malachi
 chapter: 2
-next: chapter-03
-prev: chapter-01
 title: Malachi 2
 translation: CYV
 type: chapter
 weight: 2
+prev: chapter-01
+next: chapter-03
 ---
 
 ## Malachi Chapter 2
 
+
 ### Warning to Priests
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> <em>“Priests</em><em>, </em><em>I’m talking to</em><em> you.</em><em> </em><strong><sup>2</sup></strong><em>If</em><em> you don’t </em><em>get serious about</em><em> honor</em><em>ing</em><em> me, I’ll </em><em>put</em><em> a curse on you</em><em> and even</em><em> curse </em><em>the</em><em> blessings</em><em> you receive</em><em>.</em><em> </em><em>Actually, I</em><em> already </em><em>have,</em><em> because you’re not taking me seriously.</em><em> </em><strong><sup>3</sup></strong><em>I</em><em>’ll</em><em> bring misfortune </em><em>on</em><em> your </em><em>descendants</em><em> and </em><em>spatter</em><em> your f</em><em>aces with the offal from your feasts. I’ll throw you out with it</em><em>.</em><em> </em><strong><sup>4</sup></strong><em>Y</em><em>ou’ll</em><em> </em><em>find out that</em><em> I’</em><em>m the One that</em><em> sent this commandment so my covenant with Levi can continue</em><em>.</em> <strong><sup>5</sup></strong><em>My</em><em> covenant with him </em><em>gives</em><em> life and peace</em><em>. I gave it to </em><em>him</em><em> so he’</em><em>d </em><em>show me </em><em>reverence</em><em>,</em><em> and he did</em><em> </em><strong><sup>6</sup></strong><em>and</em><em> gave true instruction. He followed me in peace and goodness and turned people back from sin. </em><strong><sup>7</sup></strong><em>A</em><em> priest should preserve knowledge, and people should look to him for instruction because he’s a messenger from Yahveh of hosts. </em><strong><sup>8</sup></strong><em>But</em><em> you’ve gone off-road and made people stumble with your instruction; you’ve corrupted my covenant with Levi. </em><strong><sup>9</sup></strong><em>So</em><em> people despise you because you show favoritism in how you execute the Law.</em><strong> </strong><strong>                      </strong></span>
-<p class="section-ref">Mal 2:1-9</p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Priests, I’m talking to you. </span></i></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you don’t get serious about honoring me, I’ll put a curse on you and even curse the blessings you receive. Actually, I already have, because you’re not taking me seriously. </span></i></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll bring misfortune on your descendants and spatter your faces with the offal from your feasts. I’ll throw you out with it. </span></i></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’ll find out that I’m the One that sent this commandment so my covenant with Levi can continue.</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>My covenant with him gives life and peace. I gave it to him so he’d show me reverence, and he did </span></i></span>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and gave true instruction. He followed me in peace and goodness and turned people back from sin. </span></i></span>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A priest should preserve knowledge, and people should look to him for instruction because he’s a messenger from Yahveh of hosts. </span></i></span>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But you’ve gone off-road and made people stumble with your instruction; you’ve corrupted my covenant with Levi. </span></i></span>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So people despise you because you show favoritism in how you execute the Law.</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>                       </span></b></span></p>
+
+
+### Mal 2:1-9
+
+
 
 ### Judah Profaned the Covenant
 
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>“Don’t</em><em> we all have the same father? Hasn’t the same God created us? Why are we unfaithful to one another and violate our ancestors’ covenant? </em><strong><sup>11</sup></strong><em>Judah</em><em> has been unfaithful and created an abomination in Israel and Jerusalem. He’s profaned the sanctuary Yahveh loves and married the daughter of a foreign god. </em><strong><sup>12</sup></strong><em>May</em><em> Yahveh cut off from Jacob anyone who does that and then tries to present him an offering. </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t we all have the same father? Hasn’t the same God created us? Why are we unfaithful to one another and violate our ancestors’ covenant? </span></i></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Judah has been unfaithful and created an abomination in Israel and Jerusalem. He’s profaned the sanctuary Yahveh loves and married the daughter of a foreign god. </span></i></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>May Yahveh cut off from Jacob anyone who does that and then tries to present him an offering. </span></i></span></p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> <em>“Another</em><em> thing you do is cover Yahveh</em><em>’s</em><em> altar with tears, weeping, and groaning because he doesn’t accept your offerings anymore. </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Another thing you do is cover Yahveh’s altar with tears, weeping, and groaning because he doesn’t accept your offerings anymore. </span></i></span></p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> <em>“You</em><em> </em><em>ask, ‘</em><em>Why?’ </em> <em><sup>“</sup></em><em>Because he’s seen how unfaithful you’ve been to the wife you’ve had from your youth though she’s your partner, your wife by covenant. </em><strong><sup>15</sup></strong><em>Nobody</em><em> does that who has even an ounce of the spirit and wants godly offspring; </em><em>so</em><em> pay attention to your spirit so you won’t be unfaithful to her. </em><strong><sup>16</sup></strong><em>I</em><em> despise</em><em> divorce and the one that</em><em> tries to</em><em> cover</em><em> up his </em>adultery<em> </em><em>with </em><em>cruelty </em><em>by </em>divorcing his wife<em>.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“You ask, ‘Why?’ </span></i></span></p>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> <em>“You’ve</em><em> worn </em><em>Yahveh</em><em> out with </em><em>your </em><em>talk.” </em> <em>“</em><em>How?”</em> <em>“</em><em>By saying,</em> <em>‘People</em><em> th</em><em>at sin </em><em>are</em><em> as good in hi</em><em>s</em><em><sup>Y</sup></em><em> sight</em><em> as anybody else</em><em>; he delights in them</em><em>’</em><em>;</em> or <em>‘Where’s there a </em><em>just God?</em><em>’</em><em>”</em><strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>“</span></sup></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Because he’s seen how unfaithful you’ve been to the wife you’ve had from your youth though she’s your partner, your wife by covenant. </span></i><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Nobody does that who has even an ounce of the spirit and wants godly offspring; so pay attention to your spirit so you won’t be unfaithful to her. </span></i></span>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I despise divorce and the one that tries to cover up his </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>adultery<i> with cruelty by </i>divorcing his wife<i>.”</i></span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“You’ve worn Yahveh out with your talk.” </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                  </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“How?”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:4.5pt; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“By saying,</span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> <i>‘People that sin are as good in his</i></span><i><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>Y</span></sup></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> sight as anybody else; he delights in them’;</span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> or <i>‘Where’s there a just God?’”</i></span></p>
+
 <p class="section-ref">Mal 2:10-17</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

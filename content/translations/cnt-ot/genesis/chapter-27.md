@@ -1,82 +1,154 @@
 ---
 book: Genesis
 chapter: 27
-next: chapter-28
-prev: chapter-26
 title: Genesis 27
 translation: CNT
 type: chapter
 weight: 27
+prev: chapter-26
+next: chapter-28
 ---
 
 ## Genesis Chapter 27
 
+
 ### Isaac Blesses Jacob
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> When Isaac grew old, his eyesight was bad. He called for his older son Esau. <em>	“Yes?”</em></span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>“I’</em><em>m </em><em>getting </em><em>old</em><em>, and I don’t know how long I’ll live. </em><strong><sup>3</sup></strong><em>Take your bow</em><em> and quiver</em><em>,</em><em> and hunt game for me.</em><em> </em><strong><sup>4</sup></strong><em>Make the kind of dish I like</em><em> and bring it to me so I can</em><em> eat it and</em><em> bless you before I die.”</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span><a name="_Hlk125379329"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Isaac grew old, his eyesight was bad. He called for his older son Esau. </span></span></p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> Rebekah overheard it. When Esau went out into the countryside to hunt, <strong><sup>6</sup></strong>she told Jacob, <em>“I </em><em>over</em><em>heard your</em><em> father tell</em><em> your brother, </em><strong><sup>7</sup></strong><em>‘</em><em>Bring me some game and </em><em>make me a tasty dish.</em><em> I’ll bless you in the </em><em>L</em><em>ORD</em><em>’s</em><em> </em><em>presence before I die.</em><em>’ </em><strong><sup>8</sup></strong><em>L</em><em>isten</em><em>, son.</em><em> </em><strong><sup>9</sup></strong><em>B</em><em>ring me two choice kids</em><em> from the flock</em><em> so I can </em><em>make</em><em> </em><em>a dish your father lik</em><em>es.</em><em> </em><strong><sup>10</sup></strong><em>Then take it to </em><em>him</em><em> so he can bless you before he dies.”</em><em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            “Yes?”</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’m getting old, and I don’t know how long I’ll live. </span></i></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Take your bow and quiver, and hunt game for me. </span></i></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Make the kind of dish I like and bring it to me so I can eat it and bless you before I die.”</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Rebekah overheard it. When Esau went out into the countryside to hunt, </span></span>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>she told Jacob, </span></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I overheard your father tell your brother, </span></i><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘Bring me some game and make me a tasty dish. I’ll bless you in the L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> presence before I die.’ </span></i></span>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Listen, son. </span></i></span>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Bring me two choice kids from the flock so I can make a dish your father likes. </span></i></span>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then take it to him so he can bless you before he dies.”                                                  </span></i></span></span></p>
+
 <p class="section-ref">Gen 27:1-10</p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> <em>“</em><em>I’m not</em><em> hairy like Esau</em><em>.</em><em> </em><strong><sup>12</sup></strong><em>My father may feel me. </em><em>I’ll be a liar in his mind and bring a curse on myself, not a blessing.”</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’m not hairy like Esau. </span></i></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>My father may feel me. I’ll be a liar in his mind and bring a curse on myself, not a blessing.”</span></i></span></p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> <em>“That curse be on me. Just do what I’m telling you. Go get them.”</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span></i><a name="_Hlk125379479"><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“That curse be on me. Just do what I’m telling you. Go get them.”</span></i></span></p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> He got them and she made a meal Isaac liked. <strong><sup>15</sup></strong>Then she took Esau’s best clothes, which were in the house, and put them on her younger son. <strong><sup>16</sup></strong>She put the kids’ skins on his hands and neck, <strong><sup>17</sup></strong>and gave Jacob the tasty food and bread she’d made.</span>
-<p class="section-ref">Gen 27:11-17</p>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He got them and she made a meal Isaac liked. </span></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then she took Esau’s best clothes, which were in the house, and put them on her younger son. </span></span>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She put the kids’ skins on his hands and neck, </span></span>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and gave Jacob the tasty food and bread she’d made.                                           </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gen 27:11-17</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>
+</span></span></p>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> He went to his father and said, <em>“Father.”</em> “<em>Yes, w</em><em>ho are you, son?”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He went to his father and said, </span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>“Father.”</span></i></span></p>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> <em>“</em><em>Esau your </em><em>firstborn</em><em>.</em><em> I’ve done like you said. Sit up</em><em> and eat my game so you </em><em>can</em> <em>               </em><em>bless me.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            “</span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Yes, who are you, son?”</span></i></p>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> <em>“How </em><em>did you get it so quick</em><em>?”</em> <em>“T</em><em>he </em><em>L</em><em>ORD</em><em> our God </em><em>helped</em><em> me.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Esau your firstborn. I’ve done like you said. Sit up and eat my game so you can</span></i></span></p>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> <em>“C</em><em>ome </em><em>her</em><em>e so I can feel if you’re really Esau.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>               bless me.”</span></i></p>
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> Jacob went up to him, and he felt him<em>, “</em><em>It’s</em><em> Jacob’s</em><em> voice but Esau’s hands</em><em>.”</em><em> </em><strong><sup>23</sup></strong>He didn’t recognize him because his hands were hairy like Esau’s; so he blessed him. <strong><sup>24</sup></strong><em>“Are you really Esau?”</em> <em>	“Yes.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“How did you get it so quick?”</span></i></span></p>
 
-<span class="verse" id="v25"><sup class="verse-num">25</sup> <em>“Bring it to me, and I’ll eat </em><em>your</em><em> game so I can bless you.”</em><em> </em>He took it to him, and he ate it. He took him wine to drink too. <strong><sup>26</sup></strong>Then he said, <em>“</em><em>C</em><em>ome and kiss me, son.”</em><em> </em><strong><sup>27</sup></strong>He went and kissed him. When he smelled his clothes, he blessed him, <em>“</em><em>You smell </em><em>like a field the </em><em>L</em><em>ORD</em><em> has</em><em> blessed.</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>“The L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> our God helped me.”</span></i></p>
 
-<span class="verse" id="v28"><sup class="verse-num">28</sup> <em>Now may God give you </em><em>dew from the sky,</em> <em>	fertility from</em><em> the </em><em>ground</em><em>,</em> <em>	and abundant</em><em> grain and new wine.</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Come here so I can feel if you’re really Esau.”</span></i></span></p>
 
-<span class="verse" id="v29"><sup class="verse-num">29</sup> <em>May nations</em><em> serve you</em><em>;</em> <em>	may they</em><em> bow</em><em> </em><em>to you.</em> <em>	</em><em>	Have authority over</em><em> your </em><em>relatives;</em> <em>	</em><em>	</em><em>may your mother’s sons bow to you.</em> <em>	</em><em>	Cursed be</em><em> </em><em>the ones that curse you;</em> <em>	</em><em>blessed be </em><em>those who </em><em>bless you.”</span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jacob went up to him, and he felt him</span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>, “It’s Jacob’s voice but Esau’s hands.” </span></i></span>
+<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He didn’t recognize him because his hands were hairy like Esau’s; so he blessed him. </span></span>
+<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>“Are you really Esau?”</span></i></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>            “Yes.”</span></i></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Bring it to me, and I’ll eat your game so I can bless you.” </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He took it to him, and he ate it. He took him wine to drink too. </span></span>
+<span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then he said, </span><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>“Come and kiss me, son.” </span></i></span>
+<span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He went and kissed him. When he smelled his clothes, he blessed him,</span></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“You smell like a field the L</span></i><i><span style='font-size:9.0pt;line-height: 115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> has blessed.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><a name="_Hlk125379622"><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now may God give you dew from the sky,</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                              fertility from the ground,</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                              and abundant grain and new wine.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>May nations serve you;</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                              may they bow to you.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        Have authority over your relatives;</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                              may your mother’s sons bow to you.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        Cursed be the ones that curse you;</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                              blessed be those who bless you.”                                                      </span></i></span></p>
+
 <p class="section-ref">Gen 27:18-29</p>
 
-<span class="verse" id="v30"><sup class="verse-num">30</sup> No sooner had Isaac finished blessing him and he’d left than Esau came in from hunting. <strong><sup>31</sup></strong>He made delicious food too and took it to his father, “<em>Si</em><em>t up</em><em>, Father,</em><em> and eat </em><em>your</em><em> son’s game so you can bless me.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>No sooner had Isaac finished blessing him and he’d left than Esau came in from hunting. </span></span>
+<span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He made delicious food too and took it to his father, “</span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Sit up, Father, and eat your son’s game so you can bless me.”</span></i></span></p>
 
-<span class="verse" id="v32"><sup class="verse-num">32</sup> Isaac said, <em>“Who are you?”</em> <em>	“Esau, your firstborn</em><em>.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Isaac said, </span><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>“Who are you?”</span></i></span></p>
 
-<span class="verse" id="v33"><sup class="verse-num">33</sup> Isaac shook terribly <em>“Then who was it that hunted game and brought it to me</em><em> to</em><em> </em><em>eat</em><em> and</em><em> I</em><em> blessed him?</em><em> Yes, and he’ll stay</em><em> blessed.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>            “Esau, your firstborn.”</span></i></p>
 
-<span class="verse" id="v34"><sup class="verse-num">34</sup> When Esau heard it, he let out a bitter cry, <em>“Bless me too, father!”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><a name="_Hlk125379801"><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Isaac shook terribly </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>“Then who was it that hunted game and brought it to me to eat and I blessed him? Yes, and he’ll stay blessed.”</span></i></span></p>
 
-<span class="verse" id="v35"><sup class="verse-num">35</sup> <em>“Your brother came </em><em>and deceived me</em><em> and took your blessing.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Esau heard it, he let out a bitter cry, </span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>“Bless me too, father!”</span></i></span></p>
 
-<span class="verse" id="v36"><sup class="verse-num">36</sup> <em>Esau</em> said, <em>“Isn’t </em><em>‘</em><em>Jacob</em><em>’ a good name for him? He’s ‘usurped’ my position</em><em> twice.</em><em> He took my birthright; </em><em>now he</em><em>’</em><em>s taken my blessing.</em><em> </em><em>Haven’t you </em><em>kept</em><em> a blessing for me?”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Your brother came and deceived me and took your blessing.”</span></i></span></p>
 
-<span class="verse" id="v37"><sup class="verse-num">37</sup> <em>“I’ve </em><em>put him over you</em><em> and given him his </em><em>relatives</em><em> as servants.</em><em> </em><em>I’ve sustained him</em><em> with grain and new wine. What’s left that</em><em> I</em><em> can</em><em> do, son?”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Esau</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> said, </span><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>“Isn’t ‘Jacob’ a good name for him? He’s ‘usurped’ my position twice. He took my birthright; now he’s taken my blessing. Haven’t you kept a blessing for me?”</span></i></span></p>
 
-<span class="verse" id="v38"><sup class="verse-num">38</sup> <em>“Do</em><em>n’t </em><em>you </em><em>even </em><em>have one blessing</em><em> for me</em><em>, father?”</em> Esau cried out loud.</span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ve put him over you and given him his relatives as servants. I’ve sustained him with grain and new wine. What’s left that I can do, son?”</span></i></span></p>
 
-<span class="verse" id="v39"><sup class="verse-num">39</sup> Isaac said, <em>“You’ll live away from fertile ground</em> <em>	a</em><em>nd </em><em>dew from the sky</em><em>.</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t you even have one blessing for me, father?”</span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> Esau cried out loud.</span></span></p>
 
-<span class="verse" id="v40"><sup class="verse-num">40</sup> <em>You’ll live by your sword</em> <em>	a</em><em>nd serve your brother.</em> <em>	</em><em>	But when you</em><em> break free</em><em>,</em> <em>	y</em><em>ou’ll break his yoke </em><em>from</em><em> </em><em>off your neck.”</span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v39" id="v39"><sup class="verse-num">39</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Isaac said,</span></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“You’ll live away from fertile ground</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                              and dew from the sky.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’ll live by your sword</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                              and serve your brother.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        But when you break free,</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                              you’ll break his yoke from off your neck.”                                        </span></i></span></p>
+
 <p class="section-ref">Gen 27:30-40</p>
 
-<span class="verse" id="v41"><sup class="verse-num">41</sup> Esau held a grudge against Jacob because his father had given Jacob the blessing. He said under his breath, <em>“The days for</em><em> mourning </em>my father’s death <em>are coming</em><em>.</em><em> </em><em>Then I’ll kill </em>Jacob<em>.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v41" id="v41"><sup class="verse-num">41</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Esau held a grudge against Jacob because his father had given Jacob the blessing. He said under his breath, </span><a name="_Hlk125966904"><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>“The days for mourning </span></i></a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>my father’s death </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>are coming. Then I’ll kill </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jacob</span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.”</span></i></span></p>
 
-<span class="verse" id="v42"><sup class="verse-num">42</sup> When his threat reached Rebekah, she called <em>Jacob</em>, <em>“Your brother </em><em>is consoling himself with the thought of </em><em>kil</em><em>ling</em><em> you.</em><em> </em><strong><sup>43</sup></strong><em>Run off</em><em> to my brother in Haran.</em><em> </em><strong><sup>44</sup></strong><em>Stay with him </em><strong><sup>45</sup></strong><em>till your brother’s anger wears off.</em><em> </em><em>Then I’ll send for you.</em><em> </em><em>Why should I </em><em>mourn for</em><em> both </em><em>of you the same</em><em> day?”</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v42" id="v42"><sup class="verse-num">42</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When his threat reached Rebekah, she called </span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Jacob</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,
+</span></span></p>
 
-<span class="verse" id="v46"><sup class="verse-num">46</sup> Rebekah told Isaac, <em>“I’m </em><em>as grieved as I can be</em><em> </em><em>over</em><em> </em>these <em>Hittite women</em><em>.</em><em> </em><em>If Jacob </em><em>marries a woman</em><em> </em><em>like them, what good will my l</em><em>ife be to me?”</em><em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Your brother is consoling himself with the thought of killing you. </span></i><span class="verse verse-v43" id="v43"><sup class="verse-num">43</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Run off to my brother in Haran. </span></i></span>
+<span class="verse verse-v44" id="v44"><sup class="verse-num">44</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Stay with him </span></i></span>
+<span class="verse verse-v45" id="v45"><sup class="verse-num">45</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>till your brother’s anger wears off. Then I’ll send for you. Why should I mourn for both of you the same day?”</span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> </span></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v46" id="v46"><sup class="verse-num">46</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Rebekah told Isaac, </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>“I’m as grieved as I can be over </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>these
+</span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Hittite women. If Jacob marries a woman like them, what good will my life be to me?”                                                                                                                            </span></i></span></span></p>
+
 <p class="section-ref">Gen 27:41-46</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

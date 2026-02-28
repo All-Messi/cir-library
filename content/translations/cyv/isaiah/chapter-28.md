@@ -1,86 +1,236 @@
 ---
 book: Isaiah
 chapter: 28
-next: chapter-29
-prev: chapter-27
 title: Isaiah 28
 translation: CYV
 type: chapter
 weight: 28
+prev: chapter-27
+next: chapter-29
 ---
 
 ## Isaiah Chapter 28
 
+
 ### An Oracle About Samaria
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Misfortune awaits <strong>the proud crown of Ephraim’s drunks</strong>, 	<strong>	</strong><strong>	</strong>	<strong>the fading flower of its glorious beauty,</strong> <em>Samaria</em>, <strong>that’s at the head of the fertile valley</strong> of those drunk with wine.</span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> Yahveh has a strong and powerful <em>military </em><em>agent;</em> <strong><sup>	</sup></strong><strong><sup>	</sup></strong>	he’ll throw <em>Samaria</em> down on the ground <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong>like a hail storm, destructive gale, overwhelming flood.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><span style='font-size:14.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                  28<sup>:1</sup></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Misfortune awaits <b>the proud crown of Ephraim’s drunks</b>,</span></p>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> <strong>The</strong><strong> proud crown of Ephraim’s drunks </strong>will get tramped on;</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><span style='font-size:14.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                       </span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      <b>the fading flower of its glorious beauty,</b> </span></p>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> <strong>t</strong><strong>he</strong><strong> fading flower of its glorious beauty</strong> <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong>that’s at the head of the fertile valley</strong>, will be like the first-ripe fig of summer: as soon as it’s seen, it’s picked and eaten.</span>
+
+### Samaria,
+that’s at the head of the fertile valley
+
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                          of those drunk with wine.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                        </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh has a strong and powerful <i>military agent;</i></span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                             </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      he’ll throw <i>Samaria</i> down on the ground</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                                      </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>like a hail storm, destructive gale, overwhelming flood.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                        </span><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The proud crown of Ephraim’s drunks </span></b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>will get tramped on;</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    4</span></sup></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the fading flower of its glorious beauty</span></b></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                                      </span></sup></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>that’s at the head of the fertile valley</span></b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>,</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                    will be like the first-ripe fig of summer:</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                          as soon as it’s seen, it’s picked and eaten.           </span></p>
+
 <p class="section-ref">Is 28:1-4</p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> At a later time, Yahveh of Hosts will finally become Israel’s crown <em>instead</em>, a beautiful diadem for his remnant people.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                        </span><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At a later time, Yahveh of Hosts will finally become Israel’s crown <i>instead</i>,</span></span></p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> He’ll give their judges a desire to render justice <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong>and their soldiers the courage to repel onslaughts at the gates.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                          a beautiful diadem for his remnant people.</span></p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> But for now the priests and prophets <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong>reel with wine and stagger from alcohol, reeling while having visions, staggering while rendering verdicts.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                    </span><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He’ll give their judges a desire to render justice</span></span></p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> Their tables are covered with vomit; there’s filth everywhere.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                                               </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and their soldiers the courage to repel onslaughts at the gates.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                              </span><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But for now the priests and prophets </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                                      </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>reel with wine and stagger from alcohol,</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                          reeling while having visions,</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                          staggering while rendering verdicts.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                    </span><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Their tables are covered with vomit;</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                    there’s filth everywhere.</span></p>
+
 <p class="section-ref">Is 28:5-8</p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> Yet they say, <em>“Who</em><em>’s</em> Yahveh<em> </em><em>think</em><em> he’s going to</em><em> teach?</em> <strong><sup>	</sup></strong><strong><sup>	</sup></strong><em>	</em><em>	Who’s he going to explain the message to?</em> <em>	</em><em>	</em><em>	Are we little kids just weaned from milk,</em> <em>	</em><em>	</em><em>	</em><em>	just taken from the </em><em>breast?</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                              </span><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yet they say, <i>“Who’s</i> Yahveh<i> think he’s going to teach?</i></span></span></p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> They say that <em>b</em>ecause<em> he tells them </em>over and over<em>,</em> 	<strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><em>“</em></strong><strong><em>Precept on precept</em></strong><strong><em>,</em></strong> 	<strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	line on </em></strong><strong><em>line;</em></strong> 	<strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>here a little, there a little.”</em></strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                             </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Who’s he going to explain the message to?</span></i></p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> So instead, he’ll have to speak to his people in a foreigner’s language.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                    Are we little kids just weaned from milk,</span></i></p>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> He told them, <em>“Here’s </em><em>a place for</em><em> the weary</em><em> to rest,”</em> <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong>but they ignored him.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                          just taken from the breast?</span></i></p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> So Yahveh will keep on lining out his message to them, 	<strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><em>“</em></strong><strong><em>Precept on precept</em></strong><strong><em>,</em></strong> 	<strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	line on </em></strong><strong><em>line;</em></strong> <strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	here a little, there a little</em></strong><strong><em>”</em></strong>; <em>	</em><em>	</em><em>	till </em>they stumble and fall backward, broken, snared, and captured.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They say that <i>b</i>ecause<i> he tells them </i>over and over<i>,</i></span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                                      </span></sup></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Precept on precept,</span></i></b></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                          line on line;</span></i></b></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                          here a little, there a little.”</span></i></b></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So instead, he’ll have to speak to his people</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                    in a foreigner’s language.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told them, <i>“Here’s a place for the weary to rest,”</i></span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                                               </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>but they ignored him.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So Yahveh will keep on lining out his message to them,</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                                      </span></sup></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Precept on precept,</span></i></b></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                          line on line;</span></i></b></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                          here a little, there a little”</span></i></b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>;</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                    till
+</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>they stumble and fall backward, </span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                          broken, snared, and captured.                               </span></p>
+
 <p class="section-ref">Is 28:9-13</p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> So listen to Yahveh’s message, <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong>you scoffing rulers in Jerusalem:</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                </span><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So listen to Yahveh’s message, </span></span></p>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> <em>“Y</em><em>ou</em><em> try </em><em>to tell yourselves</em>, <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	‘</sup></strong><em>We’ve made </em><em>a deal</em><em> with death, </em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>a </em><em>treaty</em><em> with </em><em>Sheol;</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>the overwhelming scourge won’t </em><em>trample us </em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	when it comes </em><em>along;</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	we can lie our way out of danger</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	and hide behind deceit.’”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                                               </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>you scoffing rulers in Jerusalem:</span></p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> But the Lord Yahveh says, <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><em>“I’m laying a stone in Zion, a tested stone,</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	a precious cornerstone for a firm </em><em>foundation;</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	nothing that’s built on it will shift out of place.</em><strong>	</strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                          </span><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“You try to tell yourselves</span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>, </span></span></p>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> <em>I’ll</em><em> make justice the measuring line</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	and goodness the </em><em>level;</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	hail will sweep away </em>your<em> refuge in lies,</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	and water will flood </em>your<em> hiding place.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                                                        ‘</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We’ve made a deal with death, </span></i></p>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> <em>I’ll</em><em> undo your deal with death</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	and annul your treaty with </em><em>Sheol;</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	when the overwhelming scourge comes along,</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	it </em><em><u>will</u></em><em> trample you.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                      a treaty with Sheol;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                the overwhelming scourge won’t trample us </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                      when it comes along;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                we can lie our way out of danger</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                      and hide behind deceit.’”</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                    </span></i><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But the Lord Yahveh says,</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                                               </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’m laying a stone in Zion, a tested stone,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                a precious cornerstone for a firm foundation;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                nothing that’s built on it will shift out of place.</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></b></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                          </span></i><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll make justice the measuring line</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                      and goodness the level;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                hail will sweep away </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>your<i> refuge in lies,</i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                      and water will flood </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>your<i> hiding place.</i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                          </span></i><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll undo your deal with death</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                      and annul your treaty with Sheol;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                when the overwhelming scourge comes along,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                      it
+<u>will</u> trample you.                                    </span></i></span></p>
+
 <p class="section-ref">Is 28:14-18</p>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> <em>It’</em><em>ll</em><em> s</em><em>eize you again and </em><em>again</em><em>;</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>morning after morning</em><em> </em><em>it will </em><em>come</em><em> through</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>and </em><em>at </em><em>any</em><em> </em><em>time</em><em> day or night</em><em>.</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	That will mean</em><em> </em><em>pure terror for you</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	once you</em><em> </em><em>get what that means</em><em>.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                          </span><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It’ll seize you again and again;</span></i></span></p>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> The bed <em>you’ve built is</em> too short to stretch out on; your blanket’s too narrow to cover up with.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                      morning after morning it will come through</span></i></p>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> Yahveh will come like he did at Mount Perazim; <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong>he’ll show his anger like he did in the Valley of Gibeon. He’ll do his unexpected task and accomplish his extraordinary work.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                      and at any time day or night.</span></i></p>
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> Don’t carry on like scoffers; he’ll tighten your bonds even more. I’ve heard from the Lord Yahveh of hosts about <em>his</em> decree to destroy the whole region. <strong>Is</strong><strong> 28:19-22</strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                That will mean pure terror for you</span></i></p>
 
-<span class="verse" id="v23"><sup class="verse-num">23</sup> Listen to my question.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                      once you get what that means.”</span></i></p>
 
-<span class="verse" id="v24"><sup class="verse-num">24</sup> When it’s planting time, <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong>does a farmer keep on plowing, keep breaking up ground and harrowing it?</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                    </span><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The bed <i>you’ve built is</i> too short to stretch out on;</span></span></p>
 
-<span class="verse" id="v25"><sup class="verse-num">25</sup> Doesn’t he smooth it out, sow dill and scatter cummin, plant wheat in rows, and broadcast barley and rye in their plots</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                your blanket’s too narrow to cover up with.</span></p>
 
-<span class="verse" id="v26"><sup class="verse-num">26</sup> because his God has taught him how to do it?</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                    </span><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh will come like he did at Mount Perazim;</span></span></p>
 
-<span class="verse" id="v27"><sup class="verse-num">27</sup> <em>A</em><em> farmer</em> doesn’t thresh dill with a sledge or drive a cart wheel over cummin; he beats out dill and cummin with a stick.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                                                        </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>he’ll show his anger like he did in the Valley of Gibeon.</span></p>
 
-<span class="verse" id="v28"><sup class="verse-num">28</sup> Does he crush grain for bread? <em>No</em><em>, </em><em>he</em> doesn’t keep threshing it over and over; the cart wheel and horses’ <em>hooves </em>would ruin it.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                      He’ll do his unexpected task</span></p>
 
-<span class="verse" id="v29"><sup class="verse-num">29</sup> That goes for Yahveh of Hosts too, who made his advice wonderful and his wisdom great.<strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                      and accomplish his extraordinary work.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                    </span><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Don’t carry on like scoffers;</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                he’ll tighten your bonds even more.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                          I’ve heard from the Lord Yahveh of hosts</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                about
+<i>his</i> decree to destroy the whole region. </span></p>
+
+<p class="section-ref">Is 28:19-22</p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                    </span><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Listen to my question.</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                    </span><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When it’s planting time, </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                                               </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>does a farmer keep on plowing,</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                keep breaking up ground and harrowing it?</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                    </span><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Doesn’t he smooth it out,</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                sow dill and scatter cummin, </span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                plant wheat in rows,</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                and broadcast barley and rye in their plots</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                </span><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>because his God has taught him how to do it?</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                                      27</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A farmer</span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> doesn’t thresh dill with a sledge</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                or drive a cart wheel over cummin;    </span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                          he beats out dill and cummin with a stick.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                </span><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Does he crush grain for bread?                    </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                <i>No, he</i> doesn’t keep threshing it over and over;</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                the cart wheel and horses’ <i>hooves </i>would ruin it.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                    </span><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That goes for Yahveh of Hosts too,</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                who made his advice wonderful </span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                            and his wisdom great.</span></p>
+
 <p class="section-ref">Is 28:23-29</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

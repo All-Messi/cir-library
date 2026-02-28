@@ -1,66 +1,183 @@
 ---
 book: Zephaniah
 chapter: 3
-prev: chapter-02
 title: Zephaniah 3
 translation: CNT
 type: chapter
 weight: 3
+prev: chapter-02
 ---
 
 ## Zephaniah Chapter 3
 
+
 ### The Future of Jerusalem
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Misfortune awaits the rebellious, defiled, tyrannical city, <em>Jerusalem,</em></span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> that wouldn’t take advice or accept instruction, that didn’t trust in the LORD or come near to its God.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk122958634"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Misfortune awaits the rebellious, defiled, tyrannical city, <i>Jerusalem,</i></span></span></p>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> Its officials are roaring lions; its judges are ravening wolves at dusk that leave nothing over till morning.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>that wouldn’t take advice or accept instruction,</span></span></p>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> Its prophets are reckless, devious men; its priests profane the sanctuary and violate the Law.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      that didn’t trust in the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> or come near to its God.</span></p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> The LORD is good within it; he still doesn’t do anything unjust. Every morning he hands down justice without fail, but they’re never ashamed of their unjust verdicts.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Its officials are roaring lions;</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>its judges are ravening wolves at dusk</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      that leave nothing over till morning.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Its prophets are reckless, devious men;</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>its priests profane the sanctuary and violate the Law.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> is good within it;</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      he still doesn’t do anything unjust.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Every morning he hands down justice without fail,</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      but they’re never ashamed of their unjust verdicts.</span></p>
+
 <p class="section-ref">Zeph 3:1-5</p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>“I’ve</em><em> </em><em>destroyed</em><em> </em><em>nations;</em> <em>	</em><em>t</em><em>heir towers lie in ruins.</em> <em>I’ve made their streets </em><em>deserted;</em> <em>	</em><em>n</em><em>o</em><em> one</em><em> </em><em>goes</em><em> by</em><em> there anymore</em><em>.</em> <em>Their towns have been laid </em><em>waste;</em> <em>	</em><em>nobody lives in them</em><em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk122958707"><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ve destroyed nations;</span></i></span></p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>I</em><em> said, ‘</em><em>Surely, they</em><em>’ll respect me</em><em> now</em> <em>	</em><em>	</em><em>and</em><em> accept my instruction</em> <em>	</em><em>s</em><em>o</em><em> </em><em>their</em><em> </em><em>homes</em><em> wo</em><em>n’t get destroyed</em> <em>	</em><em>	along with </em><em>everything </em><em>else </em><em>I’</em><em>d</em><em> appointed </em><em>for</em><em> them.</em><em>’</em> <em>But they were eag</em><em>er to </em><em>corrupt everything they did.</span>
-<p class="section-ref">Zeph 3:6-7</p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      their towers lie in ruins.</span></i></p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>“</em><em>S</em><em>o</em><em> wait for me</em><em> to attack my prey,”</em><em> </em>the LORD says<em>.</em> <em>I’ve decided to gather nations and kingdoms,</em> <em>	to pour out my indignation</em><em> </em><em>on them, my burning </em><em>anger;</em> <em>	I’ll consume them with fiery zeal.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ve made their streets deserted;</span></i></p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>Then</em><em> I’ll purify the people’s lips</em> <em>	</em><em>so</em><em> they can </em><em>call on</em><em> me</em> <em>	and serve me together.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      no one goes by there anymore.</span></i></p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>From</em><em> beyond the rivers in Nubia,</em> <em>	those who worship me—</em> <em>	</em><em>	descendants of my scattered people— </em> <em>	will bring me offerings.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Their towns have been laid waste;</span></i></p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> <em>At</em><em> that time, you won’t need to be ashamed</em> <em>	</em><em>	of all the things you did when you rebelled against </em><em>me;</em> <em>	I’ll have removed arrogant, celebrating people from you</em> <em>	</em><em>	</em><em>so</em><em> you’ll never again be haughty on my holy mountain.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      nobody lives in them.</span></i></p>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> <em>But</em><em> </em><em>among you I’ll leave humble, common people</em> <em>	who will take refuge in me.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I said, ‘Surely, they’ll respect me now</span></i></span></p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> <em>The</em><em> ones remaining in Israel will do no wrong,</em> <em>	tell no lies,</em> <em>	 or have deceit among </em><em>them;</em> <em>They’ll graze and bed down in </em><em>safety;</em> <em>	nobody will make them afraid.”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and accept my instruction</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      so their homes won’t get destroyed</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            along with everything else I’d appointed for them.’</span></i></p>
+
+
+### But they were eager to corrupt everything they did.              Zeph 3:6-7
+
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“So wait for me to attack my prey,” </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says<i>.</i></span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ve decided to gather nations and kingdoms,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      to pour out my indignation on them, my burning anger;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      I’ll consume them with fiery zeal.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then I’ll purify the people’s lips</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      so they can call on me</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and serve me together.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>From beyond the rivers in Nubia,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      those who worship me—</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            descendants of my scattered people— </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      will bring me offerings.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At that time, you won’t need to be ashamed</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            of all the things you did when you rebelled against me;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      I’ll have removed arrogant, celebrating people from you</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            so you’ll never again be haughty on my holy mountain.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But among you I’ll leave humble, common people</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      who will take refuge in me.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The ones remaining in Israel will do no wrong,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      tell no lies,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>       or have deceit among them;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’ll graze and bed down in safety;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      nobody will make them afraid.”</span></i></span></p>
+
 <p class="section-ref">Zeph 3:8-13</p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> Shout for joy, Jerusalem! Cry out in triumph, Israel! Celebrate with all your heart.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk122958810"><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Shout for joy, Jerusalem!</span></span></p>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> The LORD has canceled your condemnation and cleared away your foes. The King of Israel is among you; you need not dread disaster anymore.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Cry out in triumph, Israel!</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Celebrate with all your heart.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> has canceled your condemnation</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and cleared away your foes.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      The King of Israel is among you;</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            you need not dread disaster anymore.</span></p>
+
 <p class="section-ref">Zeph 3:14-15</p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> At that time, he’ll tell Jerusalem, <em>	“</em><em>Don’t be afraid, </em><em>Zion;</em> <em>	don’t let your hands g</em><em>et</em><em> weak.</em><em>”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At that time, he’ll tell Jerusalem,</span></span></p>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> <em>The</em><em> </em><em>L</em><em>ORD</em><em> your God is among you</em> <em>	</em><em>	</em><em>a</em><em>s a victorious soldier.</em> <em>	</em><em>I</em><em>’ll celebrate </em><em>over</em><em> you </em> <em>	</em><em>	and renew </em><em>my</em><em> love for </em><em>you;</em> <em>	</em><em>I</em><em>’ll celebrate </em><em>over</em><em> you with happy songs </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      “Don’t be afraid, Zion;</span></i></p>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> <em>like</em><em> on festival days.</em> <em>“</em><em>I’ll remove disaster from you, </em><em>Zion;</em> <em>	you won’t </em><em>be ashamed </em><em>of </em><em>being in </em><em>exile. </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      don’t let your hands get weak.”</span></i></p>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> <em>At</em><em> that time</em><em>,</em><em> I’ll </em><em>deal with your oppressors,</em> <em>	save the lame</em><em>,</em><em> gather the o</em><em>utcast,</em> <em>	</em><em>and</em><em> turn their shame into praise and renown</em> <em>	</em><em>	</em><em>the </em><em>world over</em><em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> your God is among you</span></i></span></p>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> <em>Then</em><em> </em><em>I’ll bring you home</em><em>,</em> <em>	</em><em>gather you together,</em> <em>	</em><em>and </em><em>give you renown among </em><em>the </em><em>nations</em> <em>	</em><em>	</em><em>when I restore your fortunes before your very eyes,”</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em>the LORD says<em>.</em><strong> </strong><strong>Zeph 3:16-20</strong> Version by Virgil Warren: christir.org</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            as a victorious soldier.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      I’ll celebrate over you </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and renew my love for you;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      I’ll celebrate over you with happy songs </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  18</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>like on festival days.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ll remove disaster from you, Zion;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      you won’t be ashamed of being in exile. </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At that time, I’ll deal with your oppressors,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      save the lame, gather the outcast,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and turn their shame into praise and renown</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            the world over.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk122958920"><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then I’ll bring you home,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      gather you together,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and give you renown among the nations</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            when I restore your fortunes before your very eyes,”</span></i></p>
+
+<p class="section-ref">Zeph 3:16-20</p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Version by Virgil Warren: christir.org</span></p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

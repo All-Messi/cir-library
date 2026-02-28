@@ -1,35 +1,63 @@
 ---
 book: Titus
 chapter: 1
-next: chapter-02
 title: Titus 1
 translation: CNT
 type: chapter
 weight: 1
+next: chapter-02
 ---
 
 ## Titus Chapter 1
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Paul, servant of God and apostle of Jesus Christ<sup>Messiah</sup> for the faith God’s chosen <em>people</em> have, and for the knowledge of the truth that leads to godliness and <strong><sup>2</sup></strong>hope for eternal life. God our Savior, who doesn’t lie, promised that life before times eternal. <strong><sup>3</sup></strong>Then at an appropriate time, he made the message available by the preaching he entrusted to me according to the commandment of our Savior God. <strong><sup>4</sup></strong>To Titus, <em>my</em> loyal son in the faith we share. Grace and peace from God the Father and Christ Jesus our Savior.<strong></span>
+
+### Salutation
+
+
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Paul, servant of God and apostle of Jesus Christ<sup>Messiah</sup> for the faith God’s chosen <i>people</i> have, and for the knowledge of the truth that leads to godliness and </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>hope for eternal life. God our Savior, who doesn’t lie, promised that life before times eternal.
+</span></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then at an appropriate time, he made the message available by the preaching he entrusted to me according to the commandment of our Savior God. </span></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>To Titus, <i>my</i> loyal son in the faith we share. Grace and peace from God the Father and Christ Jesus our Savior.</span></span></p>
+
 <p class="section-ref">Tit 1:1-4</p>
+
 
 ### Characteristics of Elders
 
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> I left you in Crete to arrange what still needed to be done and to appoint elders in every city like I instructed you. <strong><sup>6</sup></strong>A man needs to be above criticism, faithful to his wife, whose children aren’t accused of reckless living or disobedience—<strong><sup>7</sup></strong>because a bishop needs to be above criticism as God’s steward. <em>He must</em> not <em>be</em> stubborn, quick-tempered, addicted to wine, violent, or greedy for dishonest gain. <strong><sup>8</sup></strong><em>He</em><em> needs to be </em>hospitable, loving what’s good, sensible, just, self-controlled. <strong><sup>9</sup></strong><em>He</em><em> </em><em>needs to</em><em> </em>hold on tight to the trustworthy message he was taught. That way he can encourage <em>people</em> in sound doctrine and show the error of the ones that speak falsely.</span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I left you in Crete to arrange what still needed to be done and to appoint elders in every city like I instructed you. </span></span>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A man needs to be above criticism, faithful to his wife, whose children aren’t accused of reckless living or disobedience—</span></span>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>because a bishop needs to be above criticism as God’s steward. <i>He must</i> not <i>be</i> stubborn, quick-tempered, addicted to wine, violent, or greedy for dishonest gain. </span></span>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>He needs to be </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>hospitable, loving what’s good, sensible, just, self-controlled. </span></span>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He needs to </span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>hold on tight to the trustworthy message he was taught. That way he can encourage <i>people</i> in sound doctrine and show the error of the ones that speak falsely.                                     </span></span></p>
+
 <p class="section-ref">Tit 1:5-9</p>
+
 
 ### Silencing Disorderly People
 
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> There are lots of disorderly people, empty talkers, and deceivers, especially from the Circumcision, <strong><sup>11</sup></strong>that need to be silenced. They overthrow whole families by teaching things people don’t need to do, and they do it dishonestly to make money. <strong><sup>12</sup></strong>One of their own prophets has said, <em>“Cretans are always liars, </em><em>bad</em><em> animals, lazy gluttons.”</em> <strong><sup>13</sup></strong>That’s true; so reprimand them sharply to make them sound in the faith, <strong><sup>14</sup></strong>not caught up in Jewish myths and human rules that distract people from the truth. <strong><sup>15</sup></strong>Everything’s pure to people that are pure; nothing’s pure to people that are not pure. They’ve defiled their minds and consciences. <strong><sup>16</sup></strong>They claim to know God, but they deny <em>it </em>by how they act. They’re detestable, disobedient, and worthless for doing anything good.</span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>There are lots of disorderly people, empty talkers, and deceivers, especially from the Circumcision, </span></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>that need to be silenced. They overthrow whole families by teaching things people don’t need to do, and they do it dishonestly to make money. </span></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>One of their own prophets has said, <i>“Cretans are always liars, bad animals, lazy gluttons.”</i> </span></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That’s true; so reprimand them sharply to make them sound in the faith, </span></span>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>not caught up in Jewish myths and human rules that distract people from the truth. </span></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Everything’s pure to people that are pure; nothing’s pure to people that are not pure. They’ve defiled their minds and consciences. </span></span>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They claim to know God, but they deny </span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>it </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>by how they act. They’re detestable, disobedient, and worthless for doing anything good.                                                                             </span></span></p>
+
 <p class="section-ref">Tit 1:10-16</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

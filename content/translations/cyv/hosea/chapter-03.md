@@ -1,26 +1,36 @@
 ---
 book: Hosea
 chapter: 3
-next: chapter-04
-prev: chapter-02
 title: Hosea 3
 translation: CYV
 type: chapter
 weight: 3
+prev: chapter-02
+next: chapter-04
 ---
 
 ## Hosea Chapter 3
 
+
 ### Hosea’s Wife Redeemed
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Then Yahveh told me, <em>“</em><em>Go love your wife again</em><em> </em><em>even </em><em>though she’s an adulteress—like </em><em>I </em><em>love Israel though </em><em>it</em><em> turn</em><em>s</em><em> to other gods and love</em><em>s</em><em> raisin cakes.”</em><em> </em><strong><sup>2</sup></strong>So I bought her for 6 oz <sup>15 shekels </sup>of silver and 5 bushels <sup>a lethek </sup>of barley. <strong><sup>3</sup></strong>I told her, <em>“You’ll have to stay with me a long time</em><em>.</em><em> </em><em>You won’</em><em>t carry on prostitution or belong to another man. I’ll be that</em><em> way </em><em>with</em><em> you</em><em> </em>too<em>.”</em> <strong><sup>4</sup></strong>That’s because the people in Israel will go a long time without king or prince, sacrifice or sacred pillar, ephod or household idols. <strong><sup>5</sup></strong>Then they’ll come back and rely on Yahveh their God and David their king. They’ll come cringing to Yahveh and to his goodness in the end.<strong></span>
-<p class="section-ref">Hos 3:1-5</p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Then Yahveh told me, <i>“Go love your wife again even though she’s an adulteress—like I love Israel though it turns to other gods and loves raisin cakes.” </i></span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So I bought her for <a name="_Hlk145163249">6 oz <sup>15 shekels </sup>of silver </a>and 5 bushels </span><sup><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'>a lethek</span></sup><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>of barley. </span></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I told her, <i>“You’ll have to stay with me a long time. You won’t carry on prostitution or belong to another man. I’ll be that way with you </i>too<i>.”</i> </span></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That’s because the people in Israel will go a long time without king or prince, sacrifice or sacred pillar, ephod or household idols. </span></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then they’ll come back and rely on Yahveh their God and David their king. They’ll come cringing to Yahveh and to his goodness in the end.<b>                              </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Hos 3:1-5</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span></b></span></p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

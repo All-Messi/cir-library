@@ -1,64 +1,168 @@
 ---
 book: Zephaniah
 chapter: 1
-next: chapter-02
 title: Zephaniah 1
 translation: CYV
 type: chapter
 weight: 1
+next: chapter-02
 ---
 
 ## Zephaniah Chapter 1
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> A Message from Yahveh to Zephaniah Ben-Cushi (Ben-Gedaliah Ben-Amariah) Ben-Hezekiah at <strong>the Time of Josiah </strong><strong>Ben-</strong><strong>Amon, </strong><strong>K</strong><strong>ing of Judah</strong> 	<strong>The Coming Judgment on Judah</strong></span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>“I’ll</em><em> remove everything </em> <em>	from the earth,”</em> Yahveh says,</span>
+### Conversational Yahveh Covenant
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> <em>“people</em><em> and animal</em><em>s,</em> <em>	birds in the sky,</em> <em>	fish in the sea</em><em>.</em> <em>I’ll </em><em>destroy sinful people.</em></span>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> <em>“I’ll</em><em> </em><em>reach out</em><em> against </em><em><u>Judah</u></em> <em>	and those who live in</em><em> Jerusalem.</em> <em>I’ll </em><em>remove</em><em> the remnant of Baal from this place</em> <em>	</em><em>	</em><em>and </em><em>the idolatrous priests,</em></span>
+<p class="MsoListBulletCxSpMiddle" align=center style='margin-bottom:0in; text-align:center'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A Message from Yahveh to Zephaniah Ben-Cushi</span></span></p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>the</em><em> ones that bow down on housetops to the host in the sky</em><em>,</em> <em>	</em><em>	</em><em>that swear to </em><em>Yahveh and swear by Milcom too,</em></span>
+<p class="MsoListBulletCxSpMiddle" align=center style='margin-bottom:0in; text-align:center'><span lang=DA style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>(</span><span lang=DA style='font-family: "Times New Roman",serif'>Ben-Gedaliah Ben-Amariah</span><span lang=DA style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>) Ben-Hezekiah </span></p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>the</em><em> ones </em><em>that</em><em> </em><em>quit</em><em> following </em><em>Yahveh</em><em>,</em> <em>	</em><em>	</em><em>that haven’t sought </em><em>him or</em><em> inquired from him.”</em><strong></span>
+<p class="MsoListBulletCxSpMiddle" align=center style='margin-bottom:0in; text-align:center'><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>at <b>the Time of Josiah Ben-Amon, King of Judah</b></span></p>
+
+
+### The Coming Judgment on Judah
+
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk122954195"><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ll remove everything </span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      from the earth,”</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> Yahveh says,</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“people and animals,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      birds in the sky,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      fish in the sea.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll destroy sinful people.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ll reach out against <u>Judah</u></span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and those who live in Jerusalem.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll remove the remnant of Baal from this place</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and the idolatrous priests,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></sup></b><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the ones that bow down on housetops to the host in the sky,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            that swear to Yahveh and swear by Milcom too,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         6</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the ones that quit following Yahveh,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            that haven’t sought him or inquired from him.”</span></i></span></p>
+
 <p class="section-ref">Zeph 1:1-6</p>
+
 
 ### The Near Day of Yahveh
 
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> Be silent in front of the Lord Yahveh! His day is near; he’s prepared a sacrifice and consecrated his guests.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Be silent in front of the Lord Yahveh!</span></span></p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>“On</em><em> t</em><em>he day of </em><em>my</em><em><sup>Y</sup></em><em> </em><em>sacrifice</em><em>,</em> <em>	I’ll punish</em><em> the</em><em> </em><em>official</em><em>s, </em><em>the </em><em>king’s sons</em><em> </em>in Judah<em>,</em><em> </em> <em>	</em><em>every</em><em>one</em><em> that </em><em>dresses</em><em> </em><em>in</em><em> foreign </em><em>clothes,</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      His day is near;</span></p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>that</em><em> </em><em>breaks into houses,</em> <em>	</em><em>a</em><em>nd fill</em><em>s</em><em> </em><em>their masters’</em><em> ho</em><em>m</em><em>e</em><em>s</em><em> with violence and deceit.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      he’s prepared a sacrifice</span></p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>On</em><em> t</em><em>hat day,” </em>Yahveh says, <em>	“</em><em>there’ll be cries</em><em> from the Fish Gate,</em> <em>	wail</em><em>s</em><em> from the Second Quarter,</em> <em>	loud crash</em><em>es</em><em> from the hills.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and consecrated his guests.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“On the day of my</span></i><i><sup><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'>Y</span></sup></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> sacrifice,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      I’ll punish the officials, the king’s sons </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>in Judah<i>, </i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      everyone that dresses in foreign clothes,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         9</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>that breaks into houses,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and fills their masters’ homes with violence and deceit.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>On that day,” </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>Yahveh says,</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      “there’ll be cries from the Fish Gate,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      wails from the Second Quarter,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      loud crashes from the hills.</span></i></span></p>
+
 <p class="section-ref">Zeph 1:7-10</p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> <em>Wail</em><em>, people in the </em><em>marketplace</em><em>,</em> <em>	</em><em>b</em><em>ecause </em><em>your merchants will be wiped </em><em>out;</em> <em>	</em><em>every </em>tradesman<em> that weigh</em><em>s</em><em> out silver will be </em><em>gone</em><em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Wail, people in the marketplace,</span></i></span></p>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> <em>I</em><em>’ll</em><em> </em><em>search</em><em> Jerusalem with lanterns</em> <em>	</em><em>and</em><em> punish </em><em>people t</em><em>hat are </em><em>complacent about their sin</em><em>,</em> <em>	</em><em>	</em><em>w</em><em>ho </em><em>tell</em><em> themselves</em><em> </em> <em>	</em><em>	that Yahveh</em><em> won’t do anything </em><em>to them </em><em>good or bad.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      because your merchants will be wiped out;</span></i></p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> <em>Their</em><em> wealth </em><em>will become</em><em> plunder</em><em>,</em> <em>	</em><em>a</em><em>nd their houses </em><em>demolished</em><em>.</em> <em>They’ll bui</em><em>ld houses, but not live in </em><em>them;</em> <em>	</em><em>they’ll</em><em> plant </em><em>vineyards</em><em>,</em><em> but</em><em> not drink their wine.</em><em>”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      every
+</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>tradesman<i> that weighs out silver will be gone.</i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll search Jerusalem with lanterns</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and punish people that are complacent about their sin,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            who tell themselves </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            that Yahveh won’t do anything to them good or bad.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Their wealth will become plunder,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and their houses demolished.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’ll build houses, but not live in them;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      they’ll plant vineyards, but not drink their wine.”</span></i></span></p>
+
 <p class="section-ref">Zeph 1:11-13</p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> That great day of the LORD is near and coming fast, a bitter day: even soldiers will cry out bitterly,</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That great day of the LORD is near and coming fast,</span></span></p>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> a day of anger, a day of distress and anguish, destruction and desolation, a day of darkness and gloom, clouds and dense blackness,</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      a bitter day: even soldiers will cry out bitterly,</span></p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> a day of bugle blasts and battle cries against fortified towns and high battle towers</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         15</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>a day of anger,</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      a day of distress and anguish,</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> destruction and desolation,</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      a day of darkness and gloom,</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> clouds and dense blackness,</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         16</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>a day of bugle blasts and battle cries</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            against fortified towns and high battle towers           </span></p>
+
 <p class="section-ref">Zeph 1:14-16</p>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> He’ll bring such a distress on you that you’ll stumble around like you’re blind, because you’ve sinned against him. Your blood will pour out and become like dust, and your flesh will be like manure on the ground.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He’ll bring such a distress on you</span></span></p>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> Your silver and gold won’t save you at the time of Yahveh’s wrath; he’ll consume the whole region with his burning anger and make a complete, terrifying end for people living in the land.<strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      that you’ll stumble around like you’re blind,</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      because you’ve sinned against him.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Your blood will pour out and become like dust,</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and your flesh will be like manure on the ground.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Your silver and gold won’t save you</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      at the time of Yahveh’s wrath;</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>he’ll consume the whole region with his burning anger</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and make a complete, terrifying end </span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      for people living in the land.</span></p>
+
 <p class="section-ref">Zeph 1:17-18</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

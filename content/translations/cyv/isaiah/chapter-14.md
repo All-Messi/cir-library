@@ -1,88 +1,225 @@
 ---
 book: Isaiah
 chapter: 14
-next: chapter-15
-prev: chapter-13
 title: Isaiah 14
 translation: CYV
 type: chapter
 weight: 14
+prev: chapter-13
+next: chapter-15
 ---
 
 ## Isaiah Chapter 14
 
+
 ### A Taunt for the King of Babylon
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> When Yahveh will have mercy on Jacob, choose Israel again, and settle them in their own land, foreigners will join Jacob’s house. <strong><sup>2</sup></strong>The nations will help bring them home. Israel will possess them as an inheritance in Yahveh’s land, as male and female servants. They’ll capture their captors and rule their rulers. <strong><sup>3</sup></strong>When Yahveh gives them relief from their pain, turmoil, and harsh slavery, <strong><sup>4</sup></strong>they’ll taunt the king of Babylon: <em>“How the </em><em>big bully </em><em>has ceased</em><em> </em>bullying <em>	</em><em>	and stopped</em><em> </em><em>his</em><em> insolen</em><em>ce</em><em>!</em></span>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>Yahveh</em><em> </em><em>has broken the staff of the </em><em>corrupt</em><em>,</em> <em>	</em><em>	the scepter of rulers</em></span>
+<p class="MsoListBulletCxSpFirst" style='margin-bottom:0in; '><a name="_Hlk86923712"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Yahveh will have mercy on Jacob, choose Israel again, and settle them in their own land, foreigners will join Jacob’s house. </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The nations will help bring them home. Israel will possess them as an inheritance in Yahveh’s land, as male and female servants. They’ll capture their captors and rule their rulers. </span></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Yahveh gives them relief from their pain, turmoil, and harsh slavery, </span></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>they’ll taunt the king of Babylon:</span></span></p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>that</em><em> struck people in </em><em>fury</em><em> with endless blows,</em> <em>	</em><em>	</em><em>	</em><em>that ruled nations with unrestrained </em><em>tyranny</em><em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <i>“How the big bully has ceased </i>bullying</span></p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>The</em><em> whole </em><em>region</em><em> is rest</em><em>ing</em><em> and quiet</em><em> </em><em>now</em><em>;</em> <em>	</em><em>	</em><em>t</em><em>he</em><em> people are</em><em> break</em><em>ing</em><em> out into shouts of joy.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              and stopped his insolence!</span></i></p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>The</em><em> cypress trees </em><em>are celebrating</em><em> </em><em>over </em><em>you;</em> <em>	</em><em>	</em><em>the ceda</em><em>rs of Lebanon say</em><em>,</em> <em>‘Since you were laid low</em><em>, </em> <em>	</em><em>	</em><em>	no lumberjacks have come to cut us down</em><em>.</em><em>’</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh has broken the staff of the corrupt,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              the scepter of rulers</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span></i><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>that struck people in fury with endless blows,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    that ruled nations with unrestrained tyranny.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The whole region is resting and quiet now;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              the people are breaking out into shouts of joy.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The cypress trees are celebrating over you;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              the cedars of Lebanon say,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    <i>‘Since you were laid low, </i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    no lumberjacks have come to cut us down.’</span></i><b><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>               </span></b></span></p>
+
 <p class="section-ref">Is 14:1-8</p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>Sheol</em><em> </em><em>below</em><em> you </em><em>is</em><em> </em><em>excited</em><em> to </em><em>welcome</em><em> </em><em>you;</em> <em>	</em><em>	</em><em>	the spirits of dead</em><em> leaders rouse to see </em><em>you;</em> <em>	</em><em>	</em><em>	the </em><em>nations’ </em><em>kings </em><em>rise </em><em>from their thrones.</em> <em>\</em><em>	</em><strong><sup>10</sup></strong><em>They</em><em> </em><em>welcome you and say,</em> <em>‘You</em><em>’</em><em>ve become as weak as we </em><em>are;</em> <em>	</em><em>	</em><em>	</em><em>	you’</em><em>re </em><em>like us</em><em> now.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Sheol below you is excited to welcome you;</span></i></span></p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> <em>Your</em><em> </em><em>pomp</em><em> and the music of your </em><em>lyre</em><em>s</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	have come down to </em><em>Sheol;</em> <em>	</em><em>	</em><em>	</em><em>	m</em><em>aggots are </em><em>your</em><em> </em><em>bed;</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	worms are your covers</em><em>.’</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    the spirits of dead leaders rouse to see you;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    the nations’ kings rise from their thrones.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>\                       </span></i><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They welcome you and say,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    <i>‘You’ve become as weak as we are;</i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          you’re like us now.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span></i><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Your pomp and the music of your lyres</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                have come down to Sheol;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          maggots are your bed;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                worms are your covers.’</span></i><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>                                 </span></b></span></p>
+
 <p class="section-ref">Is 14:9-11</p>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> <em>How</em><em> you’ve fallen from the sky,</em> <em>	</em><em>	</em><em>	Morning Star, son of </em><em>the d</em><em>awn!</em> <em>	</em><em>	</em><em>Y</em><em>ou that </em><em>overthrew </em><em>nations</em> <em>	</em><em>	</em><em>	have </em><em>been </em><em>thrown</em><em> to the </em><em>ground!</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>How you’ve fallen from the sky,</span></i></span></p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> <em>You</em><em> tol</em><em>d yourself</em> <em>	</em><em>	</em><em>	</em><em>you’d</em><em> </em><em>ascend</em><em> to </em><em>the sky</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>and</em><em> raise </em><em>your</em><em> throne above </em><em>God’s</em><em> stars</em> <em>	</em><em>	 </em><em>	</em><em>	</em><em>and</em><em> </em><em>preside over</em><em> the </em><em>mount</em><em> of assembly</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	in the</em><em> distant </em><em>north;</em><em> </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    Morning Star, son of the dawn!</span></i></p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> <em>you’d</em><em> </em><em>rise</em><em> </em><em>above</em><em> the clouds</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>and</em><em> </em><em>be</em><em> like the </em><em>Most High</em><em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              You that overthrew nations</span></i></p>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> <em>But</em><em>,</em><em> you’ll be thrust down to Sheol,</em> <em>	</em><em>	</em><em>	to </em><em>the depths of the P</em><em>it.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    have been thrown to the ground!</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You told yourself</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    you’d ascend to the sky</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          and raise your throne above God’s stars</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          and preside over the mount of assembly</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                in the distant north; </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>you’d rise above the clouds</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          and be like the Most High.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But, you’ll be thrust down to Sheol,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    to the depths of the Pit.                        </span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                       </span></b></span></p>
+
 <p class="section-ref">Is 14:12-15</p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> <em>Th</em><em>ose</em><em> who </em><em>see you will </em><em>gap</em><em>e</em><em> and wonder,</em> <em>	</em><em>	‘Is this the </em><em>king</em><em> that made the </em><em>ground shake</em> <em>	</em><em>	</em><em>	</em><em>	and </em><em>kingdoms</em><em> tremble</em><em>,</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Those who see you will gape and wonder,</span></i></span></p>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> <em>that</em><em> </em><em>turned</em><em> the world </em><em>into a wasteland</em><em>,</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>overthrew </em><em>cities</em><em>,</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>and</em><em> didn’t let his prisoners go home?’</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              ‘Is this the king that made the ground shake</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          and kingdoms tremble,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span></i><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>that turned the world into a wasteland,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          overthrew cities,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          and didn’t let his prisoners go home?’</span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                 </span></b></span></p>
+
 <p class="section-ref">Is 14:16-17</p>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> <em>T</em><em>he</em><em> kings of earth lie in </em><em>honor</em> <em>	</em><em>	</em><em>	in </em><em>their </em>magnificent<em> </em><em>tomb</em><em>s</em><em>;</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The kings of earth lie in honor</span></i></span></p>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> <em>but</em><em> you’ll</em><em> </em><em>be thrown</em><em> out </em><em>of</em><em> your sepulcher</em> <em>	</em><em>	</em><em>	like a gross miscarriage</em><em>,</em> <em>	</em><em>	</em><em>	d</em><em>ump</em><em>ed with the slain</em><em> </em>in a mass grave, <em>	</em><em>	</em><em>	</em><em>	with those pierced by the sword,</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>who go down into a cistern</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>like </em><em>trampled corpse</em><em>s</em><em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    in their </span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>magnificent<i> tombs;</i></span></p>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> <em>No</em><em> one will give you a proper </em><em>burial</em> <em>	</em><em>	</em><em>	</em><em>	bec</em><em>ause you’ve ruined your </em>own <em>country</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>and</em><em> slain your </em><em>own </em><em>people.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>but you’ll be thrown out of your sepulcher</span></i></span></p>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> <em>S</em><em>laughter</em><em> </em><em>his descendants for</em><em> the</em><em>ir father’s</em><em> guilt</em> <em>	</em><em>	</em><em>	</em><em>so</em><em> they won’t grow</em><em> up and </em><em>conquer</em><em> the </em><em>world</em> <em>	</em><em>	</em><em>	</em>like he did<em>.</em><em>”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    like a gross miscarriage,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    dumped with the slain </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>in a mass grave,</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          with those pierced by the sword,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          who go down into a cistern</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                like trampled corpses.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>No one will give you a proper burial</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          because you’ve ruined your </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>own <i>country</i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          and slain your own people.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Slaughter his descendants for their father’s guilt</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    so they won’t grow up and conquer the world</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>like he did<i>.”</i><b>                                                                </b></span></p>
+
 <p class="section-ref">Is 14:18-21</p>
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> Yahveh of hosts says, <em>“I’ll </em><em>attack</em><em> </em><em>Babylon</em> <em>and </em><em>destroy</em><em> </em><em>its</em><em> </em><em>reputation,</em><em> </em><em>children, and posterity. </em><strong><sup>23</sup></strong><em>I’ll</em><em> make a marsh out of it, a haunt for hedgehogs, and sweep it with a broom of </em><em>destruction</em><em>.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh of hosts says, </span></span></p>
 
-<span class="verse" id="v24"><sup class="verse-num">24</sup> Yahveh of Hosts has sworn, <em>	</em><em>	</em><em>“It will happen the way I </em><em>planned;</em><em> </em> <em>	</em><em>	</em><em>	</em><em>it’ll stand like I intended.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ll attack Babylon</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> <i>and destroy its reputation, children, and posterity. </i></span><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll make a marsh out of it, a haunt for hedgehogs, and sweep it with a broom of destruction.”</span></i></span></p>
 
-<span class="verse" id="v25"><sup class="verse-num">25</sup> <em>I’l</em><em>l</em><em> break Assyria when it comes into my land</em><em> </em> <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><em>and</em><em> </em><em>trample</em><em> </em><em>it underfoot on my mountains. </em> <em>	</em><em>	</em><em>I’ll remove it</em><em>s yoke </em><em>from </em>my people <em>	</em><em>	</em><em>	</em><em>and its</em><em> burden from </em><em>their</em><em> </em><em>backs</em><em>.</em><em> </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh of Hosts has sworn, </span></span></p>
 
-<span class="verse" id="v26"><sup class="verse-num">26</sup> <em>That’</em><em>s</em><em> </em><em>what</em><em> </em><em>I’ve planned</em><em> </em><em>for</em><em> th</em><em>e whole region, </em> <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><em>a judgment that reaches</em><em> out </em><em>across the </em><em>nations.</em><em>” </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              “It will happen the way I planned; </span></i></p>
 
-<span class="verse" id="v27"><sup class="verse-num">27</sup> Yahveh of Hosts has a plan; who’s going to stop it? <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong>Who can shove aside <em>his</em> raised fist?</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    it’ll stand like I intended.</span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> </span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                             25</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll break Assyria when it comes into my land </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                      </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and trample it underfoot on my mountains. </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              I’ll remove its yoke from </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>my people</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and its burden from their backs. </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                             26</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That’s what I’ve planned for the whole region, </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                      </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>a judgment that reaches out across the nations.” </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                             27</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh of Hosts has a plan; who’s going to stop it? </span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                      </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Who can shove aside <i>his</i> raised fist?<b>                          </b></span></p>
+
 <p class="section-ref">Is 14:22-27</p>
+
 
 ### Oracle Against Philistia
 
 
-<span class="verse" id="v28"><sup class="verse-num">28</sup> <strong>T</strong><strong>he</strong><strong> year King Ahaz died</strong>,<strong> </strong>this oracle came:</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk86924101"><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> </a><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The year King Ahaz died</span></b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>,</span><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>this oracle came:</span></span></p>
 
-<span class="verse" id="v29"><sup class="verse-num">29</sup> <em>“You</em><em> that live in Philistia,</em><em> </em><em>don’t celebrate</em> <em>	</em><em>	</em><em>	</em><em>because</em><em> the rod </em><em>that struck you is </em><em>broken;</em> <em>	</em><em>	</em><em>from that</em><em> serpent’s </em><em>stock</em> <em>	</em><em>	</em><em>	a </em><em>more poisonous</em><em> s</em><em>nake will come</em><em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“You that live in Philistia, don’t celebrate</span></i></span></p>
 
-<span class="verse" id="v30"><sup class="verse-num">30</sup> <em>I’ll</em><em> pasture the first</em><em>born of </em><u>my</u><em> poor,</em> <em>	</em><em>	</em><em>	</em><em>and </em><em>the</em><em>ir</em><em> needy will lie down </em><em>safel</em><em>y</em><em>;</em> <em>	</em><em>	</em><em>but </em><em>I’ll starve </em><em><u>your</u></em><em> root to death</em> <em>	</em><em>	</em><em>	and kill </em><em>off any</em><em> </em><em>survivors</em><em>.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    because the rod that struck you is broken;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk123134081"><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              from that serpent’s stock</span></i></a></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    a more poisonous snake will come.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll pasture the firstborn of </span></i><u><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>my</span></u><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> poor,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and their needy will lie down safely;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              but I’ll starve <u>your</u> root to death</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and kill off any survivors.</span></i><b><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                           </span></b></span></p>
+
 <p class="section-ref">Is 14:28-30</p>
 
-<span class="verse" id="v31"><sup class="verse-num">31</sup> <em>Wail</em><em>, gates; cry, </em><em>city;</em> <em>	</em><em>	</em><em>	melt away</em><em>, </em><em>Philistia</em><em>;</em> <em>	</em><em>	because an army</em><em> </em><em>is drifting in like smoke from</em><em> the north,</em> <em>	</em><em>	</em><em>	and </em><em>every soldier in it rushes to the fight</em><em>.</em><em>”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Wail, gates; cry, city;</span></i></span></p>
 
-<span class="verse" id="v32"><sup class="verse-num">32</sup> What should we tell any messengers the Philistines send? <em>	“Yahveh founded </em><em>Zion;</em> <em>	</em><em>	the stricken among </em><em>his</em><em> people </em> <em>	</em><em>	</em><em>	will find refuge there.”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    melt away, Philistia;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              because an army is drifting in like smoke from the north,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and every soldier in it rushes to the fight.”</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>What should we tell any messengers the Philistines send?</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        “Yahveh founded Zion;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              the stricken among his people </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    will find refuge there.”</span></i><b><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                               </span></b></span></p>
+
 <p class="section-ref">Is 14:31-32</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

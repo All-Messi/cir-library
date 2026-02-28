@@ -1,53 +1,108 @@
 ---
 book: Jeremiah
 chapter: 1
-next: chapter-02
 title: Jeremiah 1
 translation: CNT
 type: chapter
 weight: 1
+next: chapter-02
 ---
 
 ## Jeremiah Chapter 1
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> The Words of Jeremiah Son of Hilkiah from the Priests at Anathoth in Benjamin</span>
+<p class="MsoListBulletCxSpFirst" style='margin-bottom:0in'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'> 1<sup>:1</sup></span></b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>The Words of Jeremiah Son of Hilkiah </span></p>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> Messages from the LORD came to him from the <strong>thirteenth year of </strong><strong>Josiah</strong><strong> son of Amon,</strong> <strong>king of Judah</strong><strong>.</strong> <strong><sup>3</sup></strong>They came as well <strong>during the reign of Jehoiakim son of Josiah, king of Judah, till the end of the eleventh year of Zedekiah son of Josiah, king of Judah,</strong><strong> till</strong><strong> </strong><strong>Jerusalem’s </strong><strong>exile in the fifth month.</strong><strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> from the Priests at Anathoth in Benjamin</span></p>
+
+<p class="MsoNormal" ><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Messages from the L</span><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> came to him from the <b>thirteenth year of Josiah son of Amon,</b> <b>king of Judah.</b> </span></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They came as well <b>during the reign of Jehoiakim son of Josiah, king of Judah, till the end of the eleventh year of Zedekiah son of Josiah, king of Judah, till Jerusalem’s exile in the fifth month.                                                                                                       </b></span></span></p>
+
 <p class="section-ref">Jer 1:1-3</p>
+
 
 ### The Call of Jeremiah
 
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> A message from the LORD came to me:</span>
+<p class="MsoListBulletCxSpFirst" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A message from the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> came to me: </span></span></p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>“I</em><em> knew you </em><em>b</em><em>efore I formed you in the </em><em>womb;</em> <em>	</em><em>	I </em><em>set</em><em> you </em><em>apart </em><em>before you w</em><em>ere born</em> <em>	</em><em>	</em><em>	and</em><em> appointed you </em><em>to be a </em><em>prophet to the nations.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I knew you before I formed you in the womb;</span></i></span></p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> I said, <em>“Lord G</em><em>OD</em><em>!</em> <em>	I don’t know how to speak</em><em> </em>for you<em>;</em> <em>	I’m </em><em>too young</em><em>.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  I set you apart before you were born</span></i></p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> But the LORD told me, <em>“Don’t say</em><em> you’re</em><em> </em><em>too </em><em>young;</em> <em>	</em><em>	</em><em>	you’ll go where I send you</em> <em>	</em><em>	</em><em>	and</em><em> say </em><em>what</em><em> I </em><em>tell</em><em> you.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        and appointed you to be a prophet to the nations.”</span></i></p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>You</em><em> don’t need to be afraid of</em><em> </em><em>the</em><em>m;</em> <em>	</em><em>	I’ll protect you.</em><em>”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         6</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I said, </span></p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> He reached out and touched my mouth, <em>“I’ve put my </em><em>message in you</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <i>“Lord G</i></span><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>OD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>!</span></i></p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>and</em><em> appointed you over nations and kingdoms</em><em> </em> <em>	</em><em>	</em><em>to </em><em>pull up</em><em> and </em><em>tear </em><em>down,</em> <em>	</em><em>	</em><em>to </em><em>overthrow and </em><em>destroy,</em> <em>	</em><em>	</em><em>to </em><em>build</em><em> and plant.”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            I don’t know how to speak </span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>for you<i>;</i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            I’m too young.”</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         7</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> told me,</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <i>“Don’t say you’re too young;</i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  you’ll go where I send you</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        and say what I tell you.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You don’t need to be afraid of them;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  I’ll protect you.”</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></sup></b><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He reached out and touched my mouth, </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <i>“I’ve put my message in you</i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and appointed you over nations and kingdoms </span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  to pull up and tear down,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  to overthrow and destroy,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  to build and plant.”</span></i></span></p>
+
 <p class="section-ref">Jer 1:4-10</p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> A message from the LORD came to me: <em>“What do you see, Jeremiah?”</em> <em>	</em><em>“A</em><em>n ‘almond’ branch</em><em>.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A message from the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> came to me: </span></span></p>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> <em>“Yes</em><em>;</em><em> I’m</em><em> ‘watching,’</em> <em>	</em><em>	and I’ll certainly do what I say</em><em>.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <i>“What do you see, Jeremiah?”</i></span></p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> Another message came to me: <em>“What do you see?”</em> <em>	“A boiling pot </em><em>facing </em>this way <em>from the north.”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            “An ‘almond’ branch.”</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  12</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Yes; I’m ‘watching,’</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and I’ll certainly do what I say.”</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         13</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Another message came to me:</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <i>“What do you see?”</i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            “A boiling pot facing </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>this way <i>from the north.”</i><b>                    </b></span></p>
+
 <p class="section-ref">Jer 1:11-13</p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> Then he said, <em>“</em><em>Evil is going to</em><em> </em><em>pour</em><em> </em><em>out from</em><em> the north on</em><em>to</em><em> the </em><em>people in</em><em> </em>this<em> </em><em>country</em><em>.</em><em> </em><strong><sup>15</sup></strong><em>I’m</em><em> calling the armies in</em><em> the kingdoms </em><em>up</em><em> north.</em><em> E</em><em>ach one will set </em><em>a</em><em> </em><em>throne at </em><em>Jerusalem</em><em>’s gates</em><em>, against its walls</em> <em>all </em><em>round</em><em>, against the towns in</em><em> Judah.</em><em> </em><strong><sup>16</sup></strong><em>I’ll</em><em> </em><em>render</em><em> </em><em>judgment</em><em> on </em><em>this nation</em><em> </em><em>for</em><em> </em><em>leaving me and sacrificing</em><em> to other gods, </em><em>for</em><em> worship</em><em>ing</em><em> </em><em>what they’ve made with</em><em> their own hands.</em><em> </em><strong><sup>17</sup></strong><em>Gird</em><em> up your loins. G</em><em>et up</em><em> </em><em>and tell them </em><em>everything </em><em>I’ve </em><em>told</em><em> you.</em><em> </em><em>Don’t </em><em>let them</em><em> </em><em>intimidate you, or</em><em> I</em><em>’ll</em><em> </em><em>dishearten</em><em> you in </em><em>front of them</em><em>.</em><em> </em><strong><sup>18</sup></strong><em>Today</em><em>, I</em><em>’</em><em>m making</em><em> you like a fortified city, like a</em><em>n iron</em><em> pillar, like bronze walls against the whole land</em><em>, Judah’s kings, officials, priests, and</em><em> people.</em><em> </em><strong><sup>19</sup></strong><em>They’ll</em><em> fight you, but they won’t </em><em>win, because I’m with you.</em><em>”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         14</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then he said,</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Evil is going to pour out from the north onto the people in </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>this<i> country. </i></span><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’m calling the armies in the kingdoms up north. Each one will set a throne at Jerusalem’s gates, against its walls</span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> <i>all round, against the towns in Judah. </i></span></span>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll render judgment on this nation for leaving me and sacrificing to other gods, for worshiping what they’ve made with their own hands. </span></i></span>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gird up your loins. Get up and tell them everything I’ve told you. Don’t let them intimidate you, or I’ll dishearten you in front of them. </span></i></span>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Today, I’m making you like a fortified city, like an iron pillar, like bronze walls against the whole land, Judah’s kings, officials, priests, and people. </span></i></span>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’ll fight you, but they won’t win, because I’m with you.”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>  </span></b></span></span></p>
+
 <p class="section-ref">Jer 1:14-19</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

@@ -1,40 +1,83 @@
 ---
 book: Ezekiel
 chapter: 44
-next: chapter-45
-prev: chapter-43
 title: Ezekiel 44
 translation: CYV
 type: chapter
 weight: 44
+prev: chapter-43
+next: chapter-45
 ---
 
 ## Ezekiel Chapter 44
 
+
 ### The Prince, Levites, and Priests
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Then he brought me back through the outer gate of the sanctuary, which faces east; it was shut. <strong><sup>2</sup></strong>Yahveh told me, <em>“</em><em>Keep this gate shut. Nobody is to go in through it because</em> <em>I’ve</em><em><sup>Y</sup></em><em><sup> </sup></em><em>gone in through it.</em> <strong><sup>3</sup></strong><em>The</em><em> prince will sit </em><em>in it to eat bread in </em><em>my</em><em><sup>Y</sup></em><em> presence. He’ll go in by the vestibule of the gate and go out the same way.</span>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Then he brought me back through the outer gate of the sanctuary, which faces east; it was shut. </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh told me, </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Keep this gate shut. Nobody is to go in through it because</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> <i>I’ve</i></span><i><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>Y
+</span></sup></i><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>gone in through it.</span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The prince will sit in it to eat bread in my</span></i><i><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>Y</span></sup></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> presence. He’ll go in by the vestibule of the gate and go out the same way. </span></i></span></span></p>
+
 <p class="section-ref">Ezek 44:1-3</p>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> Then he brought me through the north gate to the front of the Temple. I looked and watched the glory of Yahveh fill the Temple; I fell on my face. <strong><sup>5</sup></strong>Yahveh said, <em>“Son of man, mark well, see with your eyes and hear with your ears everything I tell you about t</em><em>he statutes and laws of Yahveh</em><em>’s</em><em> Temple. Mark well the ones who can and can’t be admitted to the sanctuary. </em><strong><sup>6</sup></strong><em>Tell</em><em> the rebellious people in Israel, ‘Enough of your abominations! </em><strong><sup>7</sup></strong><em>Enough</em><em> bringing foreigners—uncircumcised in heart and flesh—into my sanctuary to profane my Temple, when you offered me my food, the fat and blood. You made my covenant void—besides all your abominations. </em><strong><sup>8</sup></strong><em>You’ve</em><em> not taken care of my holy things yourselves; you’ve set foreigners to take care of my sanctuary.”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then he brought me through the north gate to the front of the Temple. I looked and watched the glory of Yahveh fill the Temple; I fell on my face. </span></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh said, </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Son of man, mark well, see with your eyes and hear with your ears everything I tell you about the statutes and laws of Yahveh’s Temple. Mark well the ones who can and can’t be admitted to the sanctuary. </span></i><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Tell the rebellious people in Israel, ‘Enough of your abominations! </span></i></span>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Enough bringing foreigners—uncircumcised in heart and flesh—into my sanctuary to profane my Temple, when you offered me my food, the fat and blood. You made my covenant void—besides all your abominations. </span></i></span>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’ve not taken care of my holy things yourselves; you’ve set foreigners to take care of my sanctuary.” </span></i></span></span></p>
+
 <p class="section-ref">Ezek 44:4-8</p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>“No</em><em> foreigner living among the Israelites—uncircumcised in heart and flesh—can enter my sanctuary. </em><strong><sup>10</sup></strong><em>The</em><em> Levites that left me when Israel went astray after their idols will be punished. </em><strong><sup>11</sup></strong><em>Yet</em><em> </em><em><u>they will minister</u></em><em> in my sanctuary and oversee the gates to the Temple: they’ll slaughter the burnt offering and the sacrifice for the people, and minister to them. </em><strong><sup>12</sup></strong><em>Because</em><em> they ministered to them in front of their idols and Israel stumbled over them, I’ve sworn that they’ll be punished: </em><strong><sup>13</sup></strong><em><u>they</u></em><em><u> won’t come near</u></em><em> to serve as priests to me or approach any of my things most holy; they’ll bear their disgrace and the abominations they’ve </em><em>committed. </em><strong><sup>14</sup></strong><em>Yet</em><em> I’ll give them responsibility for the Temple, its service, and everything done in it.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“No foreigner living among the Israelites—uncircumcised in heart and flesh—can enter my sanctuary. </span></i></span>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Levites that left me when Israel went astray after their idols will be punished. </span></i></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yet
+<u>they will minister</u> in my sanctuary and oversee the gates to the Temple: they’ll slaughter the burnt offering and the sacrifice for the people, and minister to them. </span></i></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Because they ministered to them in front of their idols and Israel stumbled over them, I’ve sworn that they’ll be punished: </span></i></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>they won’t come near</span></u></i><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> to serve as priests to me or approach any of my things most holy; they’ll bear their disgrace and the abominations they’ve committed. </span></i></span>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yet I’ll give them responsibility for the Temple, its service, and everything done in it. </span></i></span></span></p>
+
 <p class="section-ref">Ezek 44:9-14</p>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> <em>“But</em><em> the Levitical priests, the descendants of Zadok, who kept charge of my sanctuary when Israel left me, will come near to minister to me. They’ll serve me to offer the fat and blood</em>.<em> </em><strong><sup>16</sup></strong><em>They’ll</em><em> go into my sanctuary; they’ll come near to my table to minister to me and keep my charge. </em><strong><sup>17</sup></strong><em>When</em><em> they go in at the gates of the inner court, they’ll wear linen vestments, not wool, while they’re ministering at the gates of the inner court and in the Temple. </em><strong><sup>18</sup></strong><em>They’ll</em><em> wear linen turbans and underclothes around their waist, nothing that will make them sweat. </em><strong><sup>19</sup></strong><em>When</em><em> they go to the people in the outer court, they’ll take off those vestments, lay them in the holy rooms, and put on other clothes so they won’t transmit holiness to the people. </em><strong><sup>20</sup></strong><em>They’re</em><em> not to shave their heads or let their hair grow long; they’ll trim it. </em><strong><sup>21</sup></strong><em>They</em><em> are not to drink wine when they go into the inner court.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“But the Levitical priests, the descendants of Zadok, who kept charge of my sanctuary when Israel left me, will come near to minister to me. They’ll serve me to offer the fat and blood</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>.<i> </i></span></span>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’ll go into my sanctuary; they’ll come near to my table to minister to me and keep my charge. </span></i></span>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When they go in at the gates of the inner court, they’ll wear linen vestments, not wool, while they’re ministering at the gates of the inner court and in the Temple. </span></i></span>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’ll wear linen turbans and underclothes around their waist, nothing that will make them sweat. </span></i></span>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When they go to the people in the outer court, they’ll take off those vestments, lay them in the holy rooms, and put on other clothes so they won’t transmit holiness to the people. </span></i></span>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’re not to shave their heads or let their hair grow long; they’ll trim it. </span></i></span>
+<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They are not to drink wine when they go into the inner court.</span></i></span></p>
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> <em>Priests are not to marry a widow or divorced woman, only a virgin from Israel or a priest’s widow. </em><strong><sup>23</sup></strong><em>They’ll</em><em> teach my people the difference between holy and profane, clean and unclean. </em><strong><sup>24</sup></strong><em>In</em><em> disputes, they’ll act as judges and judge by my ordinances. They’ll keep my laws and statutes at my stated festivals and set aside my Sabbaths. </em><strong><sup>25</sup></strong><em>They’re</em><em> not to defile themselves by going near a dead person except for father, mother, son, daughter, brother, or virgin sister. </em><strong><sup>26</sup></strong><em>After</em><em> he’s defiled, he’ll wait a week </em>and then be clean. <strong><sup>27</sup></strong><em>The</em><em> day he goes into the inner court of the sanctuary to minister, he’s to offer a sin offering for himself.”  </em></span>
-<p class="section-ref">Ezek 44:15-27</p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></i><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Priests are not to marry a widow or divorced woman, only a virgin from Israel or a priest’s widow. </span></i></span>
+<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’ll teach my people the difference between holy and profane, clean and unclean. </span></i></span>
+<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In disputes, they’ll act as judges and judge by my ordinances. They’ll keep my laws and statutes at my stated festivals and set aside my Sabbaths. </span></i></span>
+<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’re not to defile themselves by going near a dead person except for father, mother, son, daughter, brother, or virgin sister. </span></i></span>
+<span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After he’s defiled, he’ll wait a week </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>and then be clean. </span></span>
+<span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The day he goes into the inner court of the sanctuary to minister, he’s to offer a sin offering for himself.”  </span></i></span></p>
 
-<span class="verse" id="v28"><sup class="verse-num">28</sup> <em>“Don’t</em><em> give them an inheritance in Israel; I’m their possession. </em><strong><sup>29</sup></strong><em>They’ll</em><em> eat the grain offering, sin offering, and guilt offering. Every devoted thing in Israel will belong to them. </em><strong><sup>30</sup></strong><em>First</em><em> part of the harvest of every kind and every kind of contribution will be for the priests. Give the priest the first of your dough to bring a blessing on your house. </em><strong><sup>31</sup></strong><em>Priests</em><em> aren’t to eat any bird or animal that’s died naturally or been torn to pieces </em>by animals.<em></span>
+
+### Ezek 44:15-27
+
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t give them an inheritance in Israel; I’m their possession. </span></i></span>
+<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’ll eat the grain offering, sin offering, and guilt offering. Every devoted thing in Israel will belong to them. </span></i></span>
+<span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>First part of the harvest of every kind and every kind of contribution will be for the priests. Give the priest the first of your dough to bring a blessing on your house. </span></i></span>
+<span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Priests aren’t to eat any bird or animal that’s died naturally or been torn to pieces </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>by animals.<i>            </i></span></span></p>
+
 <p class="section-ref">Ezek 44:28-31</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

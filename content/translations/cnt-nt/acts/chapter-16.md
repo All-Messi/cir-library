@@ -1,78 +1,115 @@
 ---
 book: Acts
 chapter: 16
-next: chapter-17
-prev: chapter-15
 title: Acts 16
 translation: CNT
 type: chapter
 weight: 16
+prev: chapter-15
+next: chapter-17
 ---
 
 ## Acts Chapter 16
 
+
 ### Paul Continues with the Second Tour
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> He arrived at Derbe and Lystra. A disciple was there named Timothy, son of a Greek father and a Jewess who believed. <strong><sup>2</sup></strong>The Christians in Lystra and Iconium spoke well of him. <strong><sup>3</sup></strong>Paul wanted him to go with him; so he circumcised him because of the Jews in the region; everybody knew his father was a Greek. <strong><sup>4</sup></strong>As they went through the cities, they delivered the decrees to keep that the apostles and elders in Jerusalem had determined. <strong><sup>5</sup></strong>So the churches were growing in faith and number every day.</span>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He arrived at Derbe and Lystra. A disciple was there named Timothy, son of a Greek father and a Jewess who believed. </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Christians in Lystra and Iconium spoke well of him. </span></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Paul wanted him to go with him; so he circumcised him because of the Jews in the region; everybody knew his father was a Greek. </span></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As they went through the cities, they delivered the decrees to keep that the apostles and elders in Jerusalem had determined. </span></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So the churches were growing in faith and number every day.                    </span></span></p>
+
 <p class="section-ref">Acts 16:1-5</p>
+
 
 ### Paul’s Vision About Macedonia
 
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> They went through Galatia and Phrygia, but the Holy Spirit kept them from presenting the message in Asia. <strong><sup>7</sup></strong>They came up to the border of Mysia and tried to go into Bithynia, but the Spirit of Jesus didn’t let them. <strong><sup>8</sup></strong>They went on past Mysia down to Troas. <strong><sup>9</sup></strong>During the night Paul had a vision—a Macedonian man standing and urging him, <em>“Come over to Macedonia and help us.”</em><em> </em><strong><sup>1</sup></strong><strong><sup>0</sup></strong>When he saw the vision, we planned right away to go to Macedonia because we concluded that God had called us to evangelize them.</span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They went through Galatia and Phrygia, but the Holy Spirit kept them from presenting the message in Asia. </span></span>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They came up to the border of Mysia and tried to go into Bithynia, but the Spirit of Jesus didn’t let them. </span></span>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They went on past Mysia down to Troas. </span></span>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>During the night Paul had a vision—a Macedonian man standing and urging him, <i>“Come over to Macedonia and help us.” </i></span></span>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he saw the vision, we planned right away to go to Macedonia because we concluded that God had called us to evangelize them.     </span></span></p>
+
 <p class="section-ref">Acts 16:6-10</p>
+
 
 ### Paul and Silas at Philippi
 
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> XX].</span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We sailed from Troas directly to Samothrace and the next day to Neapolis. </span></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We traveled </span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>from there to Philippi, the main city in that district of Macedonia, <i>and </i>a Roman colony. We spent several days there. </span></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>On the Sabbath we went outside the gate beside the river, where we supposed there was a place of prayer. We sat down and talked to the women who gathered. </span></span>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A woman named Lydia was listening, from the city of Thyatira, a businesswoman dealing in purple fabrics, a God-fearer. The Lord opened her heart to what Paul was saying. </span></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When she and her household were baptized, she invited us, <i>“If you consider me faithful to the Lord, stay at my house.”</i>     </span></span></p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> We sailed from Troas directly to Samothrace and the next day to Neapolis. <strong><sup>12</sup></strong><em>We</em><em> traveled </em>from there to Philippi, the main city in that district of Macedonia, <em>and </em>a Roman colony. We spent several days there. <strong><sup>13</sup></strong>On the Sabbath we went outside the gate beside the river, where we supposed there was a place of prayer. We sat down and talked to the women who gathered. <strong><sup>14</sup></strong>A woman named Lydia was listening, from the city of Thyatira, a businesswoman dealing in purple fabrics, a God-fearer. The Lord opened her heart to what Paul was saying. <strong><sup>15</sup></strong>When she and her household were baptized, she invited us, <em>“If you consider me faithful to the Lord, stay at my house.”</span>
 <p class="section-ref">Acts 16:11-15</p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> As we were going to the place of prayer, a servant girl with a spirit of divination met us. Her handlers were profiting from her fortunetelling. <strong><sup>17</sup></strong>She dogged Paul and us, crying out, <em>“These men serve God Most High.</em><em> </em><em>They</em><em>’re telling </em><em>you </em><em>how to be saved</em><em>.”</em> <strong><sup>18</sup></strong>She did that for days on end. Paul was really annoyed and turned to the spirit, <em>“I</em><em>n the name of Jesus </em>the<em> Messiah, </em><em>come out of her.”</em> It came out that hour. 	<strong>Paul and Silas Beaten and Jailed</strong></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As we were going to the place of prayer, a servant girl with a spirit of divination met us. Her handlers were profiting from her fortunetelling. </span></span>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She dogged Paul and us, crying out, <i>“These men serve God Most High. They’re telling you how to be saved.”</i> </span></span>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She did that for days on end. Paul was really annoyed and turned to the spirit, <i>“In the name of Jesus </i>the<i> Messiah, come out of her.”</i> It came out that hour.                                     </span></span></p>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> When her handlers saw their prospect for profit disappear, they grabbed Paul and Silas and dragged them to the magistrates in the marketplace, <strong><sup>20</sup></strong><em>“These</em><em> </em><em>fellows are Jews. They’re causing trouble in our city, </em><strong><sup>21</sup></strong><em>promoting</em><em> </em><em>customs </em><em>that aren’t</em><em> legal for us Romans to ob</em><em>serve</em><em>.”</em> <strong><sup>22</sup></strong>The crowd joined the attack, and the soldiers tore their clothes off and commanded to beat them with rods. <strong><sup>23</sup></strong>When they’d laid many blows on them, they put them in jail and charged the jailor to keep them secure. <strong><sup>24</sup></strong>So he put them in the inner jail and fastened their feet in stocks.</span>
+
+### Paul and Silas Beaten and Jailed
+
+
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When her handlers saw their prospect for profit disappear, they grabbed Paul and Silas and dragged them to the magistrates in the marketplace, </span></span>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“These fellows are Jews. They’re causing trouble in our city, </span></i></span>
+<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>promoting customs that aren’t legal for us Romans to observe.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span>
+<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The crowd joined the attack, and the soldiers tore their clothes off and commanded to beat them with rods. </span></span>
+<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When they’d laid many blows on them, they put them in jail and charged the jailor to keep them secure. </span></span>
+<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So he put them in the inner jail and fastened their feet in stocks.                </span></span></p>
+
 <p class="section-ref">Acts 16:16-24</p>
+
 
 ### The Jailor’s Conversion
 
 
-<span class="verse" id="v25"><sup class="verse-num">25</sup> About midnight Paul and Silas were praying and singing hymns to God, and the inmates were listening. <strong><sup>26</sup></strong>Suddenly a severe earthquake shook the foundations of the jail. The jail doors came open, and everybody’s bonds came loose. <strong><sup>27</sup></strong>The jailor woke up, saw the doors of the jail open, and drew his sword to kill himself because he assumed the inmates had escaped. <strong><sup>28</sup></strong>But Paul yelled, <em>“Don’t har</em><em>m yourself; we’re all here!</em><em>”</em> <strong><sup>29</sup></strong>He asked for a light, rushed in, trembling with fear, and fell down to Paul and Silas. <strong><sup>30</sup></strong>He brought them outside and said, <em>“What do I need to do to be saved?”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>About midnight Paul and Silas were praying and singing hymns to God, and the inmates were listening. </span></span>
+<span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Suddenly a severe earthquake shook the foundations of the jail. The jail doors came open, and everybody’s bonds came loose. </span></span>
+<span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The jailor woke up, saw the doors of the jail open, and drew his sword to kill himself because he assumed the inmates had escaped. </span></span>
+<span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But Paul yelled, <i>“Don’t harm yourself; we’re all here!”</i> </span></span>
+<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He asked for a light, rushed in, trembling with fear, and fell down to Paul and Silas. </span></span>
+<span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He brought them outside and said, <i>“What do I need to do to be saved?”</i></span></span></p>
 
-<span class="verse" id="v31"><sup class="verse-num">31</sup> They said, <em>“</em><em>Trust</em><em><sup>sg</sup></em><em> in the Lord Jesus, and you and your </em><em>family</em><em> will be saved.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They said, <i>“Trust<sup>sg</sup> in the Lord Jesus, and you and your family will be saved.”</i></span></span></p>
 
-<span class="verse" id="v32"><sup class="verse-num">32</sup> They spoke the Lord’s message to him and everybody in his family. <strong><sup>33</sup></strong>That hour of the night he washed their wounds, and he and his whole family were baptized right then. <strong><sup>34</sup></strong>He took them up to his house, set the table, and rejoiced with his family, having trusted<sup>pl</sup> in God.</span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They spoke the Lord’s message to him and everybody in his family. </span></span>
+<span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That hour of the night he washed their wounds, and he and his whole family were baptized right then. </span></span>
+<span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He took them up to his house, set the table, and rejoiced with his family, having trusted<sup>pl</sup> in God.      </span></span></p>
+
 <p class="section-ref">Acts 16:25-34</p>
+
 
 ### Paul Leaves Philippi
 
 
-<span class="verse" id="v35"><sup class="verse-num">35</sup> At daylight, the magistrates sent the police to release Paul and Silas.</span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At daylight, the magistrates sent the police to release Paul and Silas.</span></span></p>
 
-<span class="verse" id="v36"><sup class="verse-num">36</sup> The jailor conveyed that to Paul, <em>“The magistrates have sent word to release you.</em><em> </em><em>Now, </em><em>have a good day</em><em>.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The jailor conveyed that to Paul, <i>“The magistrates have sent word to release you. Now, have a good day.”</i></span></span></p>
 
-<span class="verse" id="v37"><sup class="verse-num">37</sup> But Paul told them, <em>“They beat us in public without a hearing</em><em>—being Roman citizens—and</em><em> threw</em><em> us in jail. N</em><em>ow </em><em>they send us away </em><em>secretly?</em><em> Oh no! They need to</em><em> lead us out themselves.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But Paul told them, <i>“They beat us in public without a hearing—being Roman citizens—and threw us in jail. Now they send us away secretly? Oh no! They need to lead us out themselves.”</i></span></span></p>
 
-<span class="verse" id="v38"><sup class="verse-num">38</sup> The police reported that to the magistrates. They were afraid when they heard they were Roman citizens. <strong><sup>39</sup></strong>They came and appealed to them, brought them out, and asked them to leave the city. <strong><sup>40</sup></strong><em>Paul</em><em> and Silas </em>left the jail and went to Lydia’s house. When they’d met with the church and encouraged them, they left.</span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The police reported that to the magistrates. They were afraid when they heard they were Roman citizens. </span></span>
+<span class="verse verse-v39" id="v39"><sup class="verse-num">39</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They came and appealed to them, brought them out, and asked them to leave the city. </span></span>
+<span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Paul and Silas </span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>left the jail and went to Lydia’s house. When they’d met with the church and encouraged them, they left.
+</span></span></p>
+
 <p class="section-ref">Acts 16:35-40</p>
-
-### Paul in Thessalonica
-
-
-<span class="verse" id="v41"><sup class="verse-num">41</sup> 'Look, you despisers; be amazed and perish. I'll do something in your day you wouldn't believe if somebody explained it to you'" [Hab 1:5 LXX]. Paul Asked to Preach Again</span>
-
-<span class="verse" id="v42"><sup class="verse-num">42</sup> As Paul and Barnabas were leaving, the synagogue rulers invited them to deliver that message the next Sabbath. 43After the synagogue dismissed, lots of Jews and devout proselytes followed Paul and Barnabas, who urged them to continue in God's grace.</span>
-
-<span class="verse" id="v44"><sup class="verse-num">44</sup> The following Sabbath nearly the whole city came to hear the Lord's message. 45When the Jews saw the crowd, they got jealous and contradicted Paul and slandered what he presented. 46Paul and Barnabas spoke out boldly, "We needed to deliver God's message to you first. Since you're rejecting it and consider yourselves not worthy of eternal life, we're turning to the Gentiles. 47That's what the LORD commanded us, 'I've made you a light for the Gentiles so you can save the whole world'" [Is 49:6].</span>
-
-<span class="verse" id="v48"><sup class="verse-num">48</sup> When the Gentiles heard that, they praised the Lord's message, and as many as were appointed to eternal life believed. 49His message spread out through the region. 50But the Jews stirred up devout, respected women and prominent men of the city, and instigated persecution against Paul and Barnabas to force them out of their territory. 51They shook the dust off their feet at them and went to Iconium. 52The disciples were full of joy and the Holy Spirit. Paul at Iconium</span>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

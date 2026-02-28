@@ -1,44 +1,69 @@
 ---
 book: Genesis
 chapter: 15
-next: chapter-16
-prev: chapter-14
 title: Genesis 15
 translation: CNT
 type: chapter
 weight: 15
+prev: chapter-14
+next: chapter-16
 ---
 
 ## Genesis Chapter 15
 
+
 ### The LORD’s Covenant with Abram
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> After that, a message from the LORD came to Abram in a vision, <em>“Don’t </em><em>worry, Abram; I’m your shield. You’ll have</em><em> </em><em>a </em><em>great</em><em> reward</em><em>.”</em><em> </em></span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> Abram asked, <em>“</em><em>L</em><em>ORD</em><em> God, what </em><em>will</em><em> you give me?</em><em> I don’t have any children; </em><em>Eliezer of Damascus is </em><em>my</em><em> heir.</em><em> </em><strong><sup>3</sup></strong><em>Since you haven’t given me any offspring, a man born in my household will inherit.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After that, a message from the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> came to Abram in a vision, <i>“Don’t worry, Abram; I’m your shield. You’ll have a great reward.” </i></span></span></p>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> A message from the LORD came to him, <em>“He</em><em> won’t </em><em>inherit</em><em>.</em><em> </em><em>Your heir will come from your body.”</em><em> </em><strong><sup>5</sup></strong>He took him outside, <em>“</em><em>L</em><em>ook at the sky and count the stars if you can.</em><em> </em><em>That’s </em><em>how many</em><em> descendants </em><em>you’ll have,” </em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span><a name="_Hlk125448990"><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Abram asked, </span></span></p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>Abram</em> trusted him, and <em>the </em><em>L</em><em>ORD</em> considered him good <em>because of it</em>.</span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> God, what will you give me? I don’t have any children; Eliezer of Damascus is my heir. </span></i><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Since you haven’t given me any offspring, a man born in my household will inherit.”</span></i></span></p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>God</em> said, <em>“</em><em><u>I’m </u></em><em><u>the </u></em><em>L</em><em>ORD</em><em> </em><em>who brought you out of Ur in Chaldea</em><em> to give you this land.”</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                  4</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A message from the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> came to him, </span></p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>“What guarantee do I have of that?”</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“He won’t inherit. Your heir will come from your body.” </span></i><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He took him outside, <i>“Look at the sky and count the stars if you can. That’s how many descendants you’ll have,” </i></span></span></p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>“Bring me a three-year-old heifer, goat, and ram, and a turtledove and young pigeon.”</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Abram</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> trusted him, and <i>the L</i></span><i><span style='font-size:9.0pt;line-height: 115%;font-family:"Times New Roman",serif'>ORD</span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> considered him good <i>because of it</i>. </span></span></p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> He brought them, cut them in half—except for the birds—and laid the <em>halves</em> across from each other<em>.</em> <strong><sup>11</sup></strong>Birds of prey came down on the carcasses, but he shooed them away.      <strong>Gen 15:1-11</strong></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> said, <i>“<u>I’m the </u>L</i></span><i><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> who brought you out of Ur in Chaldea to give you this land.”</span></i></span></p>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> As the sun was going down, he fell into a deep sleep, and an eerie darkness came over him. <strong><sup>13</sup></strong>God told him, <em>“</em><em>Y</em><em>our descendants will be </em><em>foreigners</em><em> in a country</em><em> that enslaves them</em><em> and op</em><em>presses</em><em> </em><em>them </em><em>for 400 years.</em><em> </em><strong><sup>14</sup></strong><em>I’ll judge that nation, and </em>your descendants<em> </em><em>will </em><em>come out with </em><em>lots of</em><em> possessions.</em><em> </em><strong><sup>15</sup></strong><em><u>You</u></em><em> wi</em><em>ll pass on to your ancestors in peace and be buried at a good old age.</em><em> </em><strong><sup>16</sup></strong><em>In the fourth generation, they’ll come back here</em><em>. T</em><em>he sinfulness of the Amorite</em><em>s</em><em> </em><em>hasn’t climaxed yet</em><em>.”</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“What guarantee do I have of that?”</span></i></span></p>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> After sundown, it was pitch dark. A fire pot and flaming torch passed between the halves <em>of the carcasses</em>. <strong><sup>18</sup></strong>That day the LORD made a covenant with Abram, <em>“</em><em>I’ll give </em><em>your descendants</em><em> </em><em>this land from the R</em><em>iver of Egypt to the Euphrates</em><em> River</em><em>,</em> along with <strong><sup>19</sup></strong><em>the Kenites, Kenizzites, Kadmonites, </em><strong><sup>20</sup></strong><em>Hittites,</em><em> </em><em>Perizzites, Rephaim, </em><strong><sup>21</sup></strong><em>Amorites, Canaanites, </em><em>Girgashites, and </em><em>Jebusites.”</em><strong></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span></i><a name="_Hlk125449340"><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Bring me a three-year-old heifer, goat, and ram, and a turtledove and young pigeon.”</span></i></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He brought them, cut them in half—except for the birds—and laid the <i>halves</i> across from each other<i>.</i> </span></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Birds of prey came down on the carcasses, but he shooed them away.      </span></span></p>
+
+<p class="section-ref">Gen 15:1-11</p>
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As the sun was going down, he fell into a deep sleep, and an eerie darkness came over him. </span></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God told him, </span></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Your descendants will be foreigners in a country that enslaves them and oppresses them for 400 years. </span></i><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll judge that nation, and </span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>your descendants<i> will come out with lots of possessions. </i></span></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You</span></u></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> will pass on to your ancestors in peace and be buried at a good old age. </span></i></span>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In the fourth generation, they’ll come back here. The sinfulness of the Amorites hasn’t climaxed yet.”</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After sundown, it was pitch dark. A fire pot and flaming torch passed between the halves <i>of the carcasses</i>. </span></span>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That day the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> made a covenant with Abram, </span></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>“I’ll give your descendants this land from the River of Egypt to the Euphrates River,</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> along with </span><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the Kenites, Kenizzites, Kadmonites, </span></i></span>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Hittites, Perizzites, Rephaim, </span></i></span>
+<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Amorites, Canaanites, Girgashites, and Jebusites.”</span></i></span></span></p>
+
 <p class="section-ref">Gen 15:12-21</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

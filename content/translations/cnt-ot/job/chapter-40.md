@@ -1,74 +1,120 @@
 ---
 book: Job
 chapter: 40
-next: chapter-41
-prev: chapter-39
 title: Job 40
 translation: CNT
 type: chapter
 weight: 40
+prev: chapter-39
+next: chapter-41
 ---
 
 ## Job Chapter 40
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> <strong>The </strong><strong>L</strong><strong>ORD</strong><strong> said to Job,</strong></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> said to Job,</span></b></span></p>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>“Will a faultfinder spar with the Almighty?</em> <em>	</em><em>	Let the one that argues with God answer that.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Will a faultfinder spar with the Almighty?</span></i></span></p>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> <strong>Job said,</strong></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  Let the one that argues with God answer that.”</span></i></p>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> <em>“I’m insignificant; what kind of answer can I give?</em> <em>	</em><em>	I’ve put my hand over my mouth.</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Job said,</span></b></span></p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>I’ve spoken once or twice; that’s enough;</em> <em>	</em><em>	I don’t have anything else to say.”</span>
-<p class="section-ref">Job 40:1-5</p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:gray'>“I’m insignificant; what kind of answer can I give?</span></i></span></p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> <strong>The </strong><strong>L</strong><strong>ORD</strong><strong> answered him out of the storm:</strong><strong>	</strong></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>                  I’ve put my hand over my mouth.</span></i></p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>“Gird up* like a man;</em> <em>	</em><em>	I’ll ask you </em>some questions<em>, and you </em><em>answer</em><em> me.</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>            </span></i><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>I’ve spoken once or twice; that’s enough;</span></i></span></p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>Will you really try to discredit me to justify yourself?</em></span>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>Do you have an arm like mine?</em> <em>	</em><em>	Can you thunder like me?</span>
-<p class="section-ref">Job 40:6-9</p>
+### I don’t have anything else to say.”                       Job 40:1-5
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>“</em>Go ahead and <em>put on eminence and dignity;</em> <em>	</em><em>	dress yourself with honor and majesty.</em></span>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> <em>Pour out your overflowing anger;</em> <em>	</em><em>	look at everybody that’s proud and humble them.</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> answered him out of the storm:                            </span></b></span></p>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> <em>Look down on everybody that’s arrogant;</em> <em>	</em><em>	walk on sinners where they stand.</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Gird up* like a man;</span></i></span></p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> <em>Bury them in the dust together;</em> <em>	</em><em>	imprison them in the hidden place.</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  I’ll ask you </span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>some questions<i>, and you answer me.</i></span></p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> <em>Then I’ll acknowledge to you</em> <em>	</em><em>	that your own right hand can save you.</span>
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Will you really try to discredit me to justify yourself?</span></i></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Do you have an arm like mine?</span></i></span></p>
+
+
+### Can you thunder like me?                                     Job 40:6-9
+
+
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><a name="_Hlk125095973"><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Go ahead and <i>put on eminence and dignity;</i></span></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  dress yourself with honor and majesty.</span></i></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Pour out your overflowing anger;</span></i></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  look at everybody that’s proud and humble them.</span></i></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Look down on everybody that’s arrogant;</span></i></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  walk on sinners where they stand.</span></i></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Bury them in the dust together;</span></i></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  imprison them in the hidden place.</span></i></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then I’ll acknowledge to you</span></i></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  that your own right hand can save you.</span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>               </span></b></span></p>
+
 <p class="section-ref">Job 40:10-14</p>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> <em>“Look at Behemoth, which I made as well as I did you;</em> <em>	</em><em>	it eats grass like an ox.</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><a name="_Hlk125096320"><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Look at Behemoth, which I made as well as I did you;</span></i></span></p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> <em>It has strong loins</em> <em>	</em><em>	and powerful muscles in its stomach.</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  it eats grass like an ox.</span></i></p>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> <em>It swings its tail like a cedar beam;</em> <em>	</em><em>	the sinews in its thighs intertwine.</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It has strong loins</span></i></span></p>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> <em>Its bones are like bronze tubes;</em> <em>	</em><em>	its limbs, like iron bars.</span>
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and powerful muscles in its stomach.</span></i></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It swings its tail like a cedar beam;</span></i></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  the sinews in its thighs intertwine.</span></i></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Its bones are like bronze tubes;</span></i></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  its limbs, like iron bars.</span></i><b><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                        </span></b></span></p>
+
 <p class="section-ref">Job 40:15-18</p>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> <em>It’s a prime example of my what I’ve created;</em> <em>	</em><em>	only the One that made it need bring his sword!</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It’s a prime example of my what I’ve created;</span></i></span></p>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> <em>The mountains produce its food,</em> <em>	</em><em>	where wild animals play.</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  only the One that made it need bring his sword!</span></i></p>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> <em>It lies down under the lotus plants</em> <em>	</em><em>	and hides among the reeds in the marsh.</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The mountains produce its food,</span></i></span></p>
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> <em>The lotus plants give it shade;</em> <em>	</em><em>	the willows by the stream surround it.</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  where wild animals play.</span></i></p>
 
-<span class="verse" id="v23"><sup class="verse-num">23</sup> <em>It doesn’t care if the river rages</em> <em>	</em><em>	or worry if the Jordan rushes at its mouth.</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It lies down under the lotus plants</span></i></span></p>
 
-<span class="verse" id="v24"><sup class="verse-num">24</sup> <em>Can anyone capture it when it’s awake?</em> <em>	</em><em>	Can anybody trap it and put a ring in its nose?</span>
-<p class="section-ref">Job 40:19-24</p>
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and hides among the reeds in the marsh.</span></i></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The lotus plants give it shade;</span></i></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  the willows by the stream surround it.</span></i></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It doesn’t care if the river rages</span></i></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  or worry if the Jordan rushes at its mouth.</span></i></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Can anyone capture it when it’s awake?</span></i></span></p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

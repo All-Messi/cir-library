@@ -1,39 +1,62 @@
 ---
 book: Ruth
 chapter: 3
-next: chapter-04
-prev: chapter-02
 title: Ruth 3
 translation: CNT
 type: chapter
 weight: 3
+prev: chapter-02
+next: chapter-04
 ---
 
 ## Ruth Chapter 3
 
+
 ### Ruth at the Threshing Floor
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Then Naomi told her, <em>“L</em><em>e</em><em>t me find a permanent home for you so things</em><em> will </em><em>go</em><em> well </em><em>for</em><em> you.</em><em> </em><strong><sup>2</sup></strong><em>Isn’t Boaz our relative the one whose maids you were with?</em><em> </em><strong><sup>3</sup></strong><em>Take a bath,</em><em> anoint yourself</em><em>, put on your best clothes, and g</em><em>o down to the threshing floor.</em><em> </em><em>Don’t make yourself known to </em><em>him till he’</em><em>s finished eating.</em><em> </em><strong><sup>4</sup></strong><em>N</em><em>otice where he lies</em><em> down</em><em> and </em><em>go</em><em> uncover hi</em><em>s feet and </em><em>lie</em><em> down. He’</em><em>ll tell you what to do.”</em><em> [</em><strong><sup>5</sup></strong><em>]</em></span>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> She went down to the threshing floor and did that. <strong><sup>7</sup></strong>When Boaz had eaten and drunk and was enjoying himself, he went to lie down at the end of the pile of grain. She came secretly, uncovered his feet, and lay down. <strong><sup>8</sup></strong>In the middle of the night, he was startled and bent forward, and a woman was lying at his feet.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Naomi told her, </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Let me find a permanent home for you so things will go well for you. </span></i><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Isn’t Boaz our relative the one whose maids you were with? </span></i></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Take a bath, anoint yourself, put on your best clothes, and go down to the threshing floor. Don’t make yourself known to him till he’s finished eating. </span></i></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Notice where he lies down and go uncover his feet and lie down. He’ll tell you what to do.” [</span></i></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>]</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She went down to the threshing floor and did that. </span></span>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Boaz had eaten and drunk and was enjoying himself, he went to lie down at the end of the pile of grain. She came secretly, uncovered his feet, and lay down. </span></span>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In the middle of the night, he was startled and bent forward, and a woman was lying at his feet.<b>                                                                                               </b></span></span></p>
+
 <p class="section-ref">Ruth 3:1-8</p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> He said, <em>“Who </em><em><u>are</u></em><em> you?”</em> <em>“I’m Ruth. Spread your covering over me. You’re a close relative.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said, </span><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>“Who <u>are</u> you?”</span></i></span></p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>“The </em><em>L</em><em>ORD</em><em> bless you, my daughter</em><em>.</em><em> You’ve shown your last kindness to be better than the first by not going after younger men, rich or poor. </em><strong><sup>11</sup></strong><em>Don’t worry. I’ll do what you ask, because my people in town know you’re an excellent woman. </em><strong><sup>12</sup></strong><em>I </em><em><u>am</u></em><em> a close relative, but there’s </em><em>one</em><em> closer. </em><strong><sup>13</sup></strong><em>Stay tonight; in the morning, if he’ll redeem you, all right. If he doesn’t want to, I will, as sure as the </em><em>L</em><em>ORD</em><em> lives. Lie down till morning.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’m Ruth. Spread your covering over me. You’re a close relative.”</span></i></p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> She lay at his feet till morning and got up before people could recognize one another. He said, <em>“</em><em>No one must know</em><em> that </em><em>a</em><em> woman came to the threshing floor.</em><em> </em><strong><sup>15</sup></strong><em>Hold out </em><em>the cloak </em><em>you’re wearing</em><em>.”</em> She held it out, and he laid six measures of barley on her, and she went into town.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> bless you, my daughter. You’ve shown your last kindness to be better than the first by not going after younger men, rich or poor. </span></i></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Don’t worry. I’ll do what you ask, because my people in town know you’re an excellent woman. </span></i></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I
+<u>am</u> a close relative, but there’s one closer. </span></i></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Stay tonight; in the morning, if he’ll redeem you, all right. If he doesn’t want to, I will, as sure as the L</span></i><i><span style='font-size:9.0pt;line-height: 115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> lives. Lie down till morning.”</span></i></span></p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> When she got to her mother-in-law, she asked her what happened. <em> </em>She told her what he’d done, <strong><sup>17</sup></strong><em>“He gave me these six measures of barley and said </em><em>not to</em><em> go to </em><em>my</em><em> mother-in-law empty-handed.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk124507367"><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She lay at his feet till morning and got up before people could recognize one another. He said, </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>“No one must know that a woman came to the threshing floor. </span></i></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Hold out the cloak you’re wearing.”</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> She held it out, and he laid six measures of barley on her, and she went into town. </span></span></p>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> <em>“Wait</em><em> </em><em>till yo</em><em>u find out how the matter goes</em><em>.</em><em> </em><em>He</em><em> won’</em><em>t rest till he’</em><em>s settled it today.”</span>
-<p class="section-ref">Ruth 3:9-18</p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When she got to her mother-in-law, she asked her what happened. </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>She told her what he’d done, </span><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“He gave me these six measures of barley and said not to go to my mother-in-law empty-handed.”</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Wait till you find out how the matter goes. He won’t rest till he’s settled it today.”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>       </span></b></span></p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

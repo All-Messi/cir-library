@@ -1,116 +1,489 @@
 {{ define "main" }}
-<article class="harmony-home">
-    <!-- Header -->
-    <header class="page-header">
+<div class="harmony-home">
+    <nav class="breadcrumb">
+        <a href="{{ "translations/" | absURL }}">← All Translations</a>
+    </nav>
+
+    <header class="translation-header">
         <h1>{{ .Title }}</h1>
-        <p class="lead">{{ .Description }}</p>
+        <p class="translation-desc">A harmony of the four Gospels, with text color-coded by source — <span class="gospel-mt"><strong>Matthew</strong></span>, <span class="gospel-mk"><strong>Mark</strong></span>, <span class="gospel-lk"><strong>Luke</strong></span>, and <span class="gospel-jn"><strong>John</strong></span> — combined into a unified narrative.</p>
     </header>
 
-    <!-- Color Legend -->
-    <div class="harmony-legend">
-        <span class="gospel-mt">Matthew</span>
-        <span class="gospel-mk">Mark</span>
-        <span class="gospel-lk">Luke</span>
-        <span class="gospel-jn">John</span>
+    <!-- Search + Topics bar (matches reader toolbar style) -->
+    <div class="hh-toolbar">
+        <div class="toolbar-search-wrapper" style="max-width:none; margin:0;">
+            <div class="toolbar-search">
+                <svg class="toolbar-search-icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+                <input type="text" id="hh-search-input" class="toolbar-search-input" placeholder="Search topics..." autocomplete="off">
+            </div>
+            <div id="hh-search-dropdown" class="bible-search-dropdown"></div>
+        </div>
+        <div class="toolbar-select" onclick="toggleOverlay('hh-topic-overlay')">
+            <span class="toolbar-select-value">Topics</span>
+            <svg width="10" height="10" viewBox="0 0 12 12" fill="none"><path d="M3 5l3 3 3-3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+        </div>
+        <a href="section-01/" class="start-btn">Start Reading →</a>
     </div>
 
-    <!-- Introduction -->
-    <div class="harmony-intro">
-        {{ .Content }}
-    </div>
-
-    <!-- Start Reading Button -->
-    <div class="harmony-start">
-        <a href="section-01/" class="btn btn-primary btn-large">📖 Start Reading</a>
-    </div>
-
-    <!-- All Sections -->
-    <h2>All Sections</h2>
-    <div class="harmony-sections-grid">
-        {{ range $i := seq 30 }}
-            {{ $sectionNum := printf "%02d" $i }}
-            {{ $sectionPath := printf "section-%s" $sectionNum }}
-            {{ $sectionPage := $.Site.GetPage (printf "translations/harmony/%s" $sectionPath) }}
-            {{ if $sectionPage }}
-            <a href="{{ $sectionPath }}/" class="section-card">
-                <div class="section-number">{{ $i }}</div>
-                <div class="section-title">{{ $sectionPage.Title }}</div>
-                {{ if $sectionPage.Params.reference }}
-                <div class="section-reference">{{ $sectionPage.Params.reference | safeHTML }}</div>
+    <!-- Topic overlay (same as reader) -->
+    <div id="hh-topic-overlay" class="overlay" style="display:none;">
+        <div class="overlay-content overlay-narrow">
+            <div class="overlay-header">
+                <h3>Jump to Topic</h3>
+                <button class="overlay-close" onclick="toggleOverlay('hh-topic-overlay')">✕</button>
+            </div>
+            <div class="books-list">
+                {{ range $.Site.Data.harmony_topics }}
+                <a href="{{ "translations/harmony/" | absURL }}{{ .url }}" class="book-item">
+                    {{ .title }}{{ if .ref }} <span style="color:var(--color-text-muted,#888);font-size:0.85em;">({{ .ref }})</span>{{ end }}
+                </a>
                 {{ end }}
+            </div>
+        </div>
+    </div>
+
+    <!-- Sections -->
+    <div class="hh-block">
+        <h2 class="hh-heading">Sections</h2>
+        <div class="harmony-sections-grid" id="sections-grid">
+            {{ range $i := seq 30 }}
+                {{ $sectionNum := printf "%02d" $i }}
+                {{ $sectionPath := printf "section-%s" $sectionNum }}
+                {{ $sectionPage := $.Site.GetPage (printf "translations/harmony/%s" $sectionPath) }}
+                {{ if $sectionPage }}
+                <a href="{{ $sectionPath }}/" class="section-card{{ if gt $i 9 }} hidden-item{{ end }}">
+                    <span class="section-num">{{ $i }}</span>
+                    <span class="section-title">{{ $sectionPage.Title }}</span>
+                </a>
+                {{ end }}
+            {{ end }}
+        </div>
+        <button class="show-toggle" id="sections-toggle" onclick="toggleBlock('sections-grid','sections-toggle')">Show all 30 sections</button>
+    </div>
+
+    <!-- Topics -->
+    <div class="hh-block">
+        <h2 class="hh-heading">Topics</h2>
+        <div class="harmony-topics-list" id="topics-list">
+            {{ $topics := $.Site.Data.harmony_topics }}
+            {{ range $i, $t := $topics }}
+            <a href="{{ "translations/harmony/" | absURL }}{{ $t.url }}" class="topic-row{{ if gt $i 14 }} hidden-item{{ end }}">
+                <span class="topic-title">{{ $t.title }}</span>
+                {{ if $t.ref }}<span class="topic-ref">{{ $t.ref }}</span>{{ end }}
             </a>
             {{ end }}
-        {{ end }}
+        </div>
+        <button class="show-toggle" id="topics-toggle" onclick="toggleBlock('topics-list','topics-toggle')">Show all {{ len $.Site.Data.harmony_topics }} topics</button>
     </div>
-</article>
+</div>
+
+<script>
+/* Overlay toggle (matches reader) */
+function toggleOverlay(id) {
+    var el = document.getElementById(id);
+    if (!el) return;
+    el.style.display = el.style.display === 'none' ? 'flex' : 'none';
+}
+
+document.getElementById('hh-topic-overlay').addEventListener('click', function(e) {
+    if (e.target === this) this.style.display = 'none';
+});
+
+/* Show/hide toggle */
+function toggleBlock(gridId, btnId) {
+    var grid = document.getElementById(gridId);
+    var btn = document.getElementById(btnId);
+    var expanded = grid.classList.toggle('show-all');
+    btn.textContent = expanded ? 'Show less' : btn.getAttribute('data-label');
+    if (!expanded) {
+        grid.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+}
+document.querySelectorAll('.show-toggle').forEach(function(btn) {
+    btn.setAttribute('data-label', btn.textContent);
+});
+
+/* Topic search */
+(function() {
+    var input = document.getElementById('hh-search-input');
+    var dropdown = document.getElementById('hh-search-dropdown');
+    var topics = [
+        {{ range $.Site.Data.harmony_topics }}
+        { title: {{ .title }}, ref: {{ .ref | default "" }}, url: {{ .url }} },
+        {{ end }}
+    ];
+
+    var debounce = null;
+    input.addEventListener('input', function() {
+        clearTimeout(debounce);
+        debounce = setTimeout(doSearch, 120);
+    });
+
+    input.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape') { dropdown.style.display = 'none'; input.blur(); }
+    });
+
+    document.addEventListener('click', function(e) {
+        if (!e.target.closest('.toolbar-search-wrapper')) dropdown.style.display = 'none';
+    });
+
+    function doSearch() {
+        var q = input.value.trim().toLowerCase();
+        if (q.length < 2) { dropdown.style.display = 'none'; return; }
+
+        var results = topics.filter(function(t) {
+            return t.title.toLowerCase().includes(q) || t.ref.toLowerCase().includes(q);
+        });
+
+        if (!results.length) {
+            dropdown.innerHTML = '<div class="bsd-empty">No matching topics</div>';
+            dropdown.style.display = 'block';
+            return;
+        }
+
+        var baseUrl = '{{ "translations/harmony/" | absURL }}';
+        dropdown.innerHTML = results.slice(0, 10).map(function(r) {
+            return '<a href="' + baseUrl + r.url + '" class="bsd-item bsd-text">' +
+                '<span class="bsd-title">' + r.title + '</span>' +
+                (r.ref ? '<span class="bsd-sub">' + r.ref + '</span>' : '') +
+                '</a>';
+        }).join('');
+        dropdown.style.display = 'block';
+    }
+})();
+</script>
 
 <style>
-/* Harmony Home Page Styles */
 .harmony-home {
-    max-width: 1000px;
+    max-width: 960px;
     margin: 0 auto;
 }
 
-.harmony-sections-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: 1rem;
-    margin: 2rem 0;
+.harmony-home .breadcrumb { margin-bottom: 2rem; }
+.harmony-home .breadcrumb a {
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.9rem;
+    color: var(--color-text-secondary, #555);
+    text-decoration: none;
+}
+.harmony-home .breadcrumb a:hover { color: var(--color-accent, #9c7c38); }
+
+/* Toolbar row — matches reader toolbar components */
+.hh-toolbar {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.75rem 0;
+    margin-bottom: 2rem;
+    border-top: 1px solid var(--color-border, #e5e5e5);
+    border-bottom: 1px solid var(--color-border, #e5e5e5);
 }
 
-.section-card {
-    display: block;
-    padding: 1.25rem;
-    background: var(--color-bg, #fff);
+/* Toolbar component styles (copied from reading-ui) */
+.hh-toolbar .toolbar-search-wrapper {
+    position: relative;
+    flex: 0 1 500px;
+}
+
+.hh-toolbar .toolbar-search {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
     border: 1px solid var(--color-border, #e5e5e5);
     border-radius: 8px;
-    text-decoration: none;
-    transition: all 0.2s ease;
+    padding: 0.35rem 0.6rem;
+    transition: border-color 0.15s;
 }
 
-.section-card:hover {
+.hh-toolbar .toolbar-search:focus-within {
     border-color: var(--color-accent, #9c7c38);
-    box-shadow: 0 4px 12px rgba(0,0,0,0.06);
-    transform: translateY(-2px);
 }
 
-.section-number {
+.hh-toolbar .toolbar-search-icon {
+    flex-shrink: 0;
+    color: var(--color-text-muted, #aaa);
+}
+
+.hh-toolbar .toolbar-search-input {
+    border: none;
+    outline: none;
+    background: transparent;
     font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
-    font-size: 2rem;
-    font-weight: 700;
-    color: var(--color-accent, #9c7c38);
-    margin-bottom: 0.5rem;
+    font-size: 0.82rem;
+    color: var(--color-text, #1a1a1a);
+    width: 100%;
 }
 
-.section-title {
-    font-family: var(--font-display, 'Playfair Display', Georgia, serif);
-    font-size: 1.1rem;
+.hh-toolbar .toolbar-search-input::placeholder {
+    color: var(--color-text-muted, #aaa);
+}
+
+.hh-toolbar .toolbar-select {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+    cursor: pointer;
+    padding: 0.45rem 0.75rem;
+    border: 1px solid var(--color-border, #e5e5e5);
+    border-radius: 8px;
+    transition: all 0.15s ease;
+}
+
+.hh-toolbar .toolbar-select:hover {
+    border-color: var(--color-accent, #9c7c38);
+    background: var(--color-bg-alt, #f9f9f9);
+}
+
+.hh-toolbar .toolbar-select-value {
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.9rem;
     font-weight: 600;
     color: var(--color-primary, #000);
-    margin-bottom: 0.5rem;
-    line-height: 1.3;
+    line-height: 1;
 }
 
-.section-reference {
-    font-size: 0.85rem;
+.hh-toolbar .toolbar-select svg {
+    color: var(--color-text-secondary, #555);
+}
+
+/* Search dropdown */
+.hh-toolbar .bible-search-dropdown {
+    display: none;
+    position: absolute;
+    top: calc(100% + 4px);
+    left: 0;
+    right: 0;
+    background: #fff;
+    border: 1px solid var(--color-border, #e5e5e5);
+    border-radius: 8px;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+    max-height: 320px;
+    overflow-y: auto;
+    z-index: 200;
+}
+
+.hh-toolbar .bsd-item {
+    display: block;
+    padding: 0.5rem 0.75rem;
+    text-decoration: none;
+    border-bottom: 1px solid var(--color-border, #e5e5e5);
+    transition: background 0.1s;
+}
+.hh-toolbar .bsd-item:last-child { border-bottom: none; }
+.hh-toolbar .bsd-item:hover { background: var(--color-bg-alt, #f9f9f9); }
+
+.hh-toolbar .bsd-title {
+    display: block;
+    font-size: 0.88rem;
+    font-weight: 500;
+    color: var(--color-text, #1a1a1a);
+}
+
+.hh-toolbar .bsd-sub {
+    display: block;
+    font-size: 0.78rem;
     color: var(--color-text-muted, #888);
     font-style: italic;
 }
 
-.harmony-start {
+.hh-toolbar .bsd-empty {
+    padding: 0.75rem;
     text-align: center;
-    margin: 2rem 0 3rem;
+    font-size: 0.85rem;
+    color: var(--color-text-muted, #888);
 }
 
-.harmony-start .btn-large {
-    font-size: 1.15rem;
-    padding: 1rem 2.5rem;
+.start-btn {
+    display: flex;
+    align-items: center;
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--color-primary, #000);
+    text-decoration: none;
+    white-space: nowrap;
+    padding: 0.45rem 0.75rem;
+    line-height: 1;
+    border: 1px solid var(--color-border, #e5e5e5);
+    border-radius: 8px;
+    transition: all 0.15s ease;
+}
+.start-btn:hover {
+    border-color: var(--color-accent, #9c7c38);
+    background: var(--color-bg-alt, #f9f9f9);
+}
+
+/* Overlay (reuse reader styles) */
+.overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 1000;
+    background: rgba(0,0,0,0.4);
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    padding-top: 10vh;
+}
+.overlay-content {
+    background: #fff;
+    border-radius: 12px;
+    max-height: 70vh;
+    overflow-y: auto;
+    width: 90%;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.2);
+}
+.overlay-narrow { max-width: 480px; }
+.overlay-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 1.25rem;
+    border-bottom: 1px solid var(--color-border, #e5e5e5);
+    position: sticky;
+    top: 0;
+    background: #fff;
+    border-radius: 12px 12px 0 0;
+    z-index: 1;
+}
+.overlay-header h3 {
+    margin: 0;
+    font-family: var(--font-display, 'Playfair Display', Georgia, serif);
+    font-size: 1.1rem;
+}
+.overlay-close {
+    background: none;
+    border: none;
+    font-size: 1.2rem;
+    cursor: pointer;
+    color: var(--color-text-muted, #888);
+    padding: 0.25rem;
+}
+.books-list { padding: 0.5rem 0; }
+.book-item {
+    display: block;
+    padding: 0.5rem 1.25rem;
+    text-decoration: none;
+    color: var(--color-text, #1a1a1a);
+    font-size: 0.92rem;
+    transition: background 0.1s;
+}
+.book-item:hover { background: var(--color-bg-alt, #f9f9f9); }
+
+/* Block headings */
+.hh-block { margin-bottom: 2rem; }
+
+.hh-heading {
+    font-family: var(--font-display, 'Playfair Display', Georgia, serif);
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: var(--color-primary, #000);
+    margin: 0 0 0.75rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--color-border, #e5e5e5);
+}
+
+/* Section cards */
+.harmony-sections-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.5rem;
+}
+
+.section-card {
+    display: flex;
+    align-items: baseline;
+    gap: 0.6rem;
+    padding: 0.6rem 0.85rem;
+    background: var(--color-bg, #fff);
+    border: 1px solid var(--color-border, #e5e5e5);
+    border-radius: 6px;
+    text-decoration: none;
+    text-align: left;
+    transition: all 0.15s ease;
+}
+.section-card:hover {
+    border-color: var(--color-accent, #9c7c38);
+    background: var(--color-bg-alt, #f9f9f9);
+}
+
+.section-num {
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: var(--color-text-muted, #888);
+    min-width: 1.4rem;
+}
+
+.section-title {
+    font-size: 0.92rem;
+    font-weight: 500;
+    color: var(--color-text, #1a1a1a);
+    line-height: 1.3;
+}
+
+/* Topic rows */
+.harmony-topics-list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0;
+}
+
+.topic-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 0.75rem;
+    padding: 0.45rem 0.75rem;
+    text-decoration: none;
+    border-bottom: 1px solid var(--color-border, #e5e5e5);
+    transition: background 0.15s;
+}
+.topic-row:hover { background: var(--color-bg-alt, #f9f9f9); }
+
+.topic-title {
+    font-size: 0.9rem;
+    color: var(--color-text, #1a1a1a);
+    line-height: 1.35;
+}
+
+.topic-ref {
+    font-size: 0.78rem;
+    color: var(--color-text-muted, #888);
+    font-style: italic;
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+/* Hidden items + toggle */
+.hidden-item { display: none; }
+.show-all .hidden-item { display: flex; }
+
+.show-toggle {
+    display: block;
+    margin: 0.75rem auto 0;
+    padding: 0.4rem 1.25rem;
+    background: none;
+    border: 1px solid var(--color-border, #e5e5e5);
+    border-radius: 20px;
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.85rem;
+    color: var(--color-text-secondary, #555);
+    cursor: pointer;
+    transition: all 0.15s;
+}
+.show-toggle:hover {
+    border-color: var(--color-accent, #9c7c38);
+    color: var(--color-accent, #9c7c38);
 }
 
 @media (max-width: 768px) {
-    .harmony-sections-grid {
-        grid-template-columns: 1fr;
-    }
+    .harmony-sections-grid { grid-template-columns: repeat(2, 1fr); }
+    .harmony-topics-list { grid-template-columns: 1fr; }
+}
+
+@media (max-width: 480px) {
+    .harmony-sections-grid { grid-template-columns: 1fr; }
+    .hh-toolbar { flex-wrap: wrap; }
 }
 </style>
 {{ end }}

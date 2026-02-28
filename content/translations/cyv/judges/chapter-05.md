@@ -1,93 +1,248 @@
 ---
 book: Judges
 chapter: 5
-next: chapter-06
-prev: chapter-04
 title: Judges 5
 translation: CYV
 type: chapter
 weight: 5
+prev: chapter-04
+next: chapter-06
 ---
 
 ## Judges Chapter 5
 
+
 ### The Song of Deborah
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Deborah and Barak sang that day,</span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>“B</em><em>less</em><em> </em><em>Yahveh</em><em>!</em> <em>	</em><em>because</em><em> the leaders led in Israel,</em> <em>	</em><em>	the people volunteered.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Deborah and Barak sang that day, </span></span></p>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> <em>Hear</em><em>, you kings; listen, you </em><em>officials</em><em>;</em> <em>	</em><em>	</em><em>I’ll sing to </em><em>Yahveh</em><em>;</em> <em>	</em><em>	I’ll praise Israel’s</em><em> God.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Bless Yahveh!</span></i></span></p>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> <em>Yahveh</em><em>, when you went out from Seir,</em> <em>	</em><em>	</em><em>when</em><em> you marched from Edom</em><em>,</em> <em>	</em><em>	</em><em>	</em><em>the ground </em><em>quaked;</em> <em>	</em><em>	</em><em>	</em><em>the sky </em><em>dripped;</em> <em>	</em><em>	</em><em>	</em><em>yes, the clouds dri</em><em>pped water.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        because the leaders led in Israel,</span></i></p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>The</em><em> mountains shook </em><em>in front of</em><em> </em><em>Yahveh</em><em>;</em> <em>	</em><em>	you, Sinai, shook in front of Israel’s </em><em>God.</span>
-<p class="section-ref">Jud 5:1-5</p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              the people volunteered.</span></i></p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>“I</em><em>n</em><em> the days of Shamgar </em><em>Ben-</em><em>Anath,</em> <em>	</em><em>	</em><em>in the days of Jael, caravans </em><em>ceased</em><em>;</em> <em>	</em><em>	</em><em>travelers kept to the </em><em>back</em><em> roads.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    3</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Hear, you kings; listen, you officials;</span></i></p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>The</em><em> </em><em>rural people</em><em> ceased in </em><em>Israel;</em><em> </em> <em>	</em><em>	</em><em>they ceased till you arose, Deborah,</em> <em>	</em><em>	</em><em>as</em><em> a mother in Israel.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              I’ll sing to Yahveh;</span></i></p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>When</em><em> the people chose new gods,</em> <em>	</em><em>	</em><em>war was in the gates.</em> <em>	</em><em>Not a</em><em> shield or spear </em><em>was </em><em>seen</em> <em>	</em><em>	</em><em>among </em><em>40,000 in Israel.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              I’ll praise Israel’s God.</span></i></p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>My</em><em> heart goes out to </em><em>Israel’s</em><em> commanders,</em> <em>	</em><em>	</em><em>who volunteered willingly among the people.</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>Bless </em><em>Yahveh</em><em>.</span>
-<p class="section-ref">Jud 5:6-9</p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    4</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh, when you went out from Seir,</span></i></p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>“Sing</em><em>, you that ride</em><em> white donkeys,</em> <strong><em><sup>	</sup></em></strong><strong><em><sup>	</sup></em></strong><em>who sit on rich carpets</em> <em>	</em><em>	</em><em>and </em><em>travel on the highway</em><em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              when you marched from Edom,</span></i></p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> <em>At</em><em> the sound of </em><em>those who</em><em> separate flocks </em> <em>	</em><em>	by the watering places,</em> <em>	</em><em>they repeat </em><em>Yahveh’s</em><em> triumphs, </em> <em>	</em><em>	</em><em>the triumphs of his </em><em>rural people</em><em> in Israel. </em> <em>	</em><em>Then Yahveh</em><em>’s</em><em> </em><em>people went down to the gates.</span>
-<p class="section-ref">Jud 5:10-11</p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    the ground quaked;</span></i></p>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> <em>“Wake</em><em> up, </em><em>wake</em><em> up</em><em>, Deborah!</em> <em>	</em><em>	</em><em>	</em><em>	Wake up, </em><em>wake</em><em> up</em><em>, </em><em>and sing</em><em>!</em> <em>	</em><em>	Arise, </em><em>Barak;</em><em> </em> <em>	</em><em>	</em><em>	</em><em>lead away your captives,</em><em> Ben-A</em><em>binoam.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    the sky dripped;</span></i></p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> <em>The</em><em> remnant of the nobles came </em><em>down;</em> <em>	</em><em>	Yahveh’s</em><em> people came down </em> <em>	</em><em>	</em><em>	</em><em>for him against the </em><em>powerful</em><em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    yes, the clouds dripped water.</span></i></p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> <em>They</em><em> set out </em><em>to the valley</em><em> </em><em>f</em><em>rom </em><em>Ephraim;</em> <em>	</em><em>	</em><em>	</em><em>	they followed y</em><em>ou, Benjamin, with your kin.</em> <em>	</em><em>	</em><em>	</em><em>T</em><em>he commanders marched down</em><em> f</em><em>rom </em><em>Machir</em><em>;</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>from Zebulun they marched</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	who </em><em>carry the marshal’s staff.</span>
-<p class="section-ref">Jud 5:12-14</p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    5</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The mountains shook in front of Yahveh;</span></i></p>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> <em>The</em><em> prince</em><em>s of Issachar came with </em><em>Deborah;</em> <em>	</em><em>	</em><em>	</em><em>	as</em><em> Issachar </em>came <em>so did Barak.</em> <em>	</em><em>	</em><em>	They rushed o</em><em>ut to the valley at his heels,</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>but </em><em>the cla</em><em>ns of Reuben held back</em><em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              you, Sinai, shook in front of Israel’s God.            </span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 5:1-5</span></b></p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> <em>Why</em><em> did </em><em>you linger among the sheepfolds?</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>To hear the piping</em><em> for the </em><em>f</em><em>locks?</em> <em>	</em><em>	</em><em>	</em><em>T</em><em>here</em><em> was high resolve</em><em> </em> <em>	</em><em>	</em><em>	</em><em>	a</em><em>mong the clans of Reuben</em><em>.</em><em> </em><em> </em> <em>	</em><em>	</em><em>	</em><em>	.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><b><sup><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'>                  6</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“In the days of Shamgar Ben-Anath,</span></i></p>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> <em>Gilead</em><em> stayed beyond the Jordan.</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>W</em><em>hy did Dan stay with </em>his<em> ships?</em> <em>	</em><em>	</em><em>	Asher sat still at the coast by</em><em> the sea,</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>a</em><em>nd settled down by his landings.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                  in the days of Jael, caravans ceased;</span></i></p>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> <em>Zebulun</em><em> </em><em>was</em><em>s</em><em> a people that </em><em>risked</em><em> their </em><em>lives;</em> <em>	</em><em>	</em><em>	</em><em>	Naphtali</em><em>,</em><em> too</em><em>,</em><em> on the high places </em><em>in the countryside</em><em>.</em></span>
-<p class="section-ref">Jud 5:15-18</p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                  travelers kept to the back roads.</span></i></p>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> <em>“T</em><em>he</em><em> kings came</em><em> and</em><em> </em><em>fought;</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>they fought </em><em>the kings of Canaan</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	a</em><em>t Taanach</em><em> by the water of Megiddo.</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	T</em><em>hey got no spoils of silver.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><b><sup><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'>                  7</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The rural people ceased in Israel; </span></i></p>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> <em>The stars fought from </em><em>the </em><em>sky</em><em>;</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>f</em><em>rom their courses they fought Sisera.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                  they ceased till you arose, Deborah,</span></i></p>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> <em>The cu</em><em>rrent of</em><em> the</em><em> Kishon swept them away,</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>the rushing torrent in the</em><em> Kishon.</em> <em>	</em><em>	</em><em>	March on, my soul, with confidence!</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                  as a mother in Israel.</span></i></p>
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> <em>“T</em><em>he</em><em>n</em><em> the horses’ hoofs beat loud</em> <em>	</em><em>	</em><em>	</em><em>	with the galloping of steeds.</span>
-<p class="section-ref">Jud 5:19-22</p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><b><sup><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'>                  8</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the people chose new gods,</span></i></p>
 
-<span class="verse" id="v23"><sup class="verse-num">23</sup> <em>“‘</em><em>Curse</em><em> Meroz,’</em><em> </em><em>the angel of </em><em>Yahveh</em> <em>says</em><em>;</em> <em>	</em><em>	</em><em>	</em><em>	‘</em><em>put</em><em> its </em><em>people</em><em> </em><em>under a severe curse.</em> <em>	</em><em>	</em><em>	</em><em>They didn’t </em><em>come to help </em><em>Yahveh</em> <em>	</em><em>	</em><em>	</em><em>	against the powerful.’</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                  war was in the gates.</span></i></p>
 
-<span class="verse" id="v24"><sup class="verse-num">24</sup> <em>May</em><em> Jael be most </em><em>fortunate</em><em> among women,</em> <em>	</em><em>	</em><em>	</em><em>	the wife of Heber the Kenite,</em> <em>	</em><em>	</em><em>	</em><em>	most </em><em>fortunate</em><em> among women in the tent.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            Not a shield or spear was seen</span></i></p>
 
-<span class="verse" id="v25"><sup class="verse-num">25</sup> <em>He</em><em> asked for water</em><em>; she gave him milk.</em><em>	</em><em>	</em><em>	</em><em>	</em> <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><em>S</em><em>he brought him curds in a </em><em>beautiful </em><em>bowl.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                  among 40,000 in Israel.</span></i></p>
 
-<span class="verse" id="v26"><sup class="verse-num">26</sup> <em>She</em><em> took a tent peg</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>and a workman’s </em><em>hammer;</em> <em>	</em><em>	</em><em>	</em><em>	she struck Sisera a blow,</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	and crushed his head.</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>S</em><em>he shattered and pierced his temple.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><b><sup><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'>                  9</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>My heart goes out to Israel’s commanders,</span></i></p>
 
-<span class="verse" id="v27"><sup class="verse-num">27</sup> <em>He</em><em> sank, he </em><em>fell;</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	he lay still at her feet.</em> <em>	</em><em>	</em><em>	</em><em>	He sank and</em><em> </em><em>fell </em><em>down</em><em> dead </em><em>at her feet</em><em>.</em><strong></span>
-<p class="section-ref">Jud 5:23-27</p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                  who volunteered willingly among the people.</span></i></p>
 
-<span class="verse" id="v28"><sup class="verse-num">28</sup> <em>S</em><em>he</em><em> looked</em><em> out the </em><em>window;</em> <em>	</em><em>	</em><em>	</em><em>	Sisera’s m</em><em>other gazed through the lattice.</em> <em>	</em><em>	</em><em>	‘Why is his chariot so long in coming?</em> <em>	</em><em>	</em><em>	</em><em>	Why </em><em>do</em><em> the hoof </em><em>beats</em><em> with</em><em> his chariots tarry?’</em></span>
 
-<span class="verse" id="v29"><sup class="verse-num">29</sup> <em>Her</em><em> wise ladies </em><em>answer;</em> <em>	</em><em>	</em><em>	</em><em>no</em><em>, she answers herself,</em> <em>	</em><em>	</em><em>	</em><strong><sup>30</sup></strong><em>‘Are</em><em>n’t</em><em> they</em><em> finding and dividing the spoil—</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>a </em><em>young woman</em><em> or two for every </em><em>man;</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>spoil of</em><em> embroidered</em><em> dyed work for Sisera,</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>two pieces of dyed work the spoiler’s neck?’</em></span>
+### Bless Yahveh.              Jud 5:6-9
 
-<span class="verse" id="v30"><sup class="verse-num">30</sup> 'Aren't they finding and dividing the spoil— a young woman or two for every man; spoil of embroidered dyed work for Sisera, two pieces of dyed work the spoiler's neck?'</span>
 
-<span class="verse" id="v31"><sup class="verse-num">31</sup> <em>“M</em><em>ay</em><em> all your enemies perish that way, </em><em>Yahveh</em><em>!</em> <em>	</em><em>	</em><em>	</em><em>	But may your friends be like the sun</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>when </em><em>it rises at</em><em> it </em><em>brightest</em><em>.”</em> The land had peace for 40 years.</span>
-<p class="section-ref">Jud 5:28-31</p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><b><sup><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'>                  10</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Sing, you that ride white donkeys,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><b><i><sup><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'>                           </span></sup></i></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>who sit on rich carpets</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                  and travel on the highway.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><b><sup><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'>                  11</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At the sound of those who separate flocks </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                  by the watering places,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            they repeat Yahveh’s triumphs, </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                  the triumphs of his rural people in Israel. </span></i></p>
+
+
+### Then Yahveh’s people went down to the gates.          Jud 5:10-11
+
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Wake up, wake up, Deborah!</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          Wake up, wake up, and sing!</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              Arise, Barak; </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    lead away your captives, Ben-Abinoam.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The remnant of the nobles came down;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              Yahveh’s people came down </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    for him against the powerful.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They set out to the valley from Ephraim;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          they followed you, Benjamin, with your kin.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    The commanders marched down from Machir;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          from Zebulun they marched</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                who carry the marshal’s staff.                        </span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 5:12-14</span></b></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span></i><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The princes of Issachar came with Deborah;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          as Issachar </span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>came <i>so did Barak.</i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    They rushed out to the valley at his heels,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          but the clans of Reuben held back.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span></i><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Why did you linger among the sheepfolds?</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          To hear the piping for the flocks?</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    There was high resolve </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          among the clans of Reuben.  </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          .</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span></i><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gilead stayed beyond the Jordan.</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          Why did Dan stay with </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>his<i> ships?</i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    Asher sat still at the coast by the sea,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          and settled down by his landings.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span></i><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Zebulun wass a people that risked their lives;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          Naphtali, too, on the high places in the countryside.</span></i></p>
+
+
+### Jud 5:15-18
+
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span></i><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The kings came and fought;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                they fought the kings of Canaan</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                            at Taanach by the water of Megiddo.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                They got no spoils of silver.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span></i><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The stars fought from the sky;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          from their courses they fought Sisera.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span></i><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The current of the Kishon swept them away,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          the rushing torrent in the Kishon.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    March on, my soul, with confidence!</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span></i><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Then the horses’ hoofs beat loud</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          with the galloping of steeds.                                 </span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 5:19-22</span></b></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span></i><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“‘Curse Meroz,’ the angel of Yahveh</span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> <i>says;</i></span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          ‘put its people under a severe curse.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    They didn’t come to help Yahveh</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          against the powerful.’</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span></i><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>May Jael be most fortunate among women,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          the wife of Heber the Kenite,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          most fortunate among women in the tent.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span></i><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He asked for water; she gave him milk.                                          </span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                               </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She brought him curds in a beautiful bowl.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span></i><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She took a tent peg</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                and a workman’s hammer;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          she struck Sisera a blow,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                and crushed his head.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          She shattered and pierced his temple.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span></i><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He sank, he fell;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                he lay still at her feet.</span></i></p>
+
+
+### He sank and fell down dead at her feet.   Jud 5:23-27
+
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span></i><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She looked out the window;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          Sisera’s mother gazed through the lattice.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    ‘Why is his chariot so long in coming?</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          Why do the hoof beats with his chariots tarry?’</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span></i><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Her wise ladies answer;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    no, she answers herself,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span></i><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘Aren’t they finding and dividing the spoil—</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                a young woman or two for every man;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          spoil of embroidered dyed work for Sisera,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          two pieces of dyed work the spoiler’s neck?’</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span></i><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“May all your enemies perish that way, Yahveh!</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          But may your friends be like the sun</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                when it rises at it brightest.”</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The land had peace for 40 years.                                                                                       </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 5:28-31</span></b></p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

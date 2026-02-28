@@ -6,7 +6,7 @@ categories:
 - 2 Peter
 date: '2026-02-16'
 draft: false
-title: 2 PETER AND JUDE IN PARALLEL
+title: "2 Peter and Jude in Parallel (Greek)"
 weight: 3
 ---
 

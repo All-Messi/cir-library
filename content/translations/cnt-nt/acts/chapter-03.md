@@ -1,45 +1,79 @@
 ---
 book: Acts
 chapter: 3
-next: chapter-04
-prev: chapter-02
 title: Acts 3
 translation: CNT
 type: chapter
 weight: 3
+prev: chapter-02
+next: chapter-04
 ---
 
 ## Acts Chapter 3
 
+
 ### Healing the Lame Man at Gate Beautiful
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Peter and John were going up into the Temple at 3 o’clock prayer. <strong><sup>2</sup></strong>Daily, people had been carrying a man crippled from birth <em>and taking him</em> to the Temple gate called <em>Gate </em>Beautiful to ask for alms from people going into the Temple. <strong><sup>3</sup></strong>When he saw Peter and John about to go in, he asked for alms. <strong><sup>4</sup></strong>Peter looked at him with John and said, <em>“Look at us.”</em></span>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> He gave them his full attention, expecting to receive something.</span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Peter and John were going up into the Temple at 3 o’clock prayer. </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Daily, people had been carrying a man crippled from birth <i>and taking him</i> to the Temple gate called <i>Gate </i>Beautiful to ask for alms from people going into the Temple. </span></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he saw Peter and John about to go in, he asked for alms. </span></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Peter looked at him with John and said, <i>“Look at us.”</i> </span></span></p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> Peter said, <em>“I don’t have any </em><em>money</em><em>, but I’ll give you what I do have.</em><em> </em><em>In the name of </em><em>Jesus</em><em> </em><em>the Messiah</em><em>, the Nazarene, get up and walk.” </em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He gave them his full attention, expecting to receive something.</span></span></p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> He took his right hand and lifted him up. Instantly his feet and ankles strengthened. <strong><sup>8</sup></strong>He jumped up and stood and started walking around. He went into the Temple with them, walking and jumping and praising God. <strong><sup>9</sup></strong>The people saw him <strong><sup>10</sup></strong>and recognized him as the beggar at Gate Beautiful. They were astounded.</span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Peter said, <i>“I don’t have any money, but I’ll give you what I do have. In the name of Jesus the Messiah, the Nazarene, get up and walk.” </i></span></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He took his right hand and lifted him up. Instantly his feet and ankles strengthened. </span></span>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He jumped up and stood and started walking around. He went into the Temple with them, walking and jumping and praising God. </span></span>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The people saw him </span></span>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and recognized him as the beggar at Gate Beautiful. They were astounded.                                                                                        </span></span></p>
+
 <p class="section-ref">Acts 3:1-10</p>
+
 
 ### Peter’s Sermon at Solomon’s Portico
 
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> While he kept holding onto Peter and John, the people rushed to them in Solomon’s Portico, utterly astonished. <strong><sup>12</sup></strong>When Peter saw it, he responded, <em>“Israelites, why </em><em>are you amazed</em><em> </em><em>at</em><em> </em><em>him? Why stare</em><em> at us as if we made him walk by </em><em><u>our</u></em><em> power or godliness?</em><em> </em><strong><sup>13</sup></strong><strong><em>Abraham</em></strong><strong><em>, Isaac, and Jacob’s God—our ancestors’ God</em></strong><strong><em> </em></strong><strong>[Ex</strong><strong> 3:6, 15]</strong><strong><em>—</em></strong><em>has glorified his Son Jesus.</em><em> </em><em>He’s the One you </em><em>delivered up </em><em>to Pilate when he’</em><em>d </em><em>decided</em><em> to release him.</em><em> </em><strong><sup>14</sup></strong><em>You</em><em> rejected </em><em>the Holy</em><em> </em><em>and Just </em><em>One, and</em><em> asked Pilate to grant you a murderer.</em><em> </em><strong><sup>15</sup></strong><em>You</em><em> killed the author of life that God </em><em>has resurrected</em><em>, the One we</em><em>’re witnesses</em><em> for.</em><em> </em><strong><sup>16</sup></strong><em>He</em><em>’s</em><em> the One that</em><em> made this man strong.</em><em> </em><em>Faith </em><em>working</em><em> through him has </em><em>made</em><em> this man </em><em>you know </em><em>complete</em><em>ly</em><em> well </em><em>as you can see</em><em>.</span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>While he kept holding onto Peter and John, the people rushed to them in Solomon’s Portico, utterly astonished. </span></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Peter saw it, he responded, </span></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Israelites, why are you amazed at him? Why stare at us as if we made him walk by <u>our</u> power or godliness? </span></i><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Abraham, Isaac, and Jacob’s God—our ancestors’ God </span></i></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Ex 3:6, 15]</span></b><b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>—</span></i></b><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>has glorified his Son Jesus. He’s the One you delivered up to Pilate when he’d decided to release him. </span></i></span>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You rejected the Holy and Just One, and asked Pilate to grant you a murderer. </span></i></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You killed the author of life that God has resurrected, the One we’re witnesses for. </span></i></span>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He’s the One that made this man strong. Faith working through him has made this man you know completely well as you can see.                 </span></i></span></span></p>
+
 <p class="section-ref">Acts 3:11-16</p>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> <em>“Now</em><em> brothers, I know you did</em><em>n’t realize what you were </em><em>doing—</em><em>your rulers didn’t either. </em><strong><sup>18</sup></strong><em>But</em><em> th</em><em>at’s the </em><em>way God fulfilled what he announced beforehand by many prophets:</em><em> </em><em>that his </em><em>Messiah</em><em> would suffer.</em><em> </em><strong><sup>19</sup></strong><em>So</em><em> repent:</em><em> God will erase your sins. </em><strong><sup>20</sup></strong><em>T</em><em>imes</em><em> of renewal w</em><em>ill come from the </em><em>L</em><em>ORD</em><em>, and he’</em><em>ll send the </em><em>Messiah</em><em> Jesus</em><em> that</em><em> he</em><em> appointed for</em><em> you.</em><em> </em><strong><sup>21</sup></strong><em>Heaven</em><em> needs </em><em>to receive him till God</em><em> </em><em>establishes</em><em> everything </em><em>he</em><em> </em><em>said</em><em> </em><em>through</em><em> his holy prophets </em><em>so long ago</em><em>.</em><em> </em><strong><sup>22</sup></strong><em>Moses</em><em> said, </em> <strong><em>‘</em></strong><strong><em>From among you the </em></strong><strong><em>L</em></strong><strong><em>ORD</em></strong><strong><em> your God will raise up a prophet </em></strong><strong><em>for you</em></strong><strong><em> like me.</em></strong><strong><em> </em></strong><strong><em>Listen to everything he tells </em></strong><em>you</em><strong><em>.</em></strong><strong><em> </em></strong><strong><sup>23</sup></strong><strong><em>Every</em></strong><strong><em> person that </em></strong><strong><em>doesn’t will</em></strong><strong><em> </em></strong><strong><em>perish</em></strong><strong><em> from</em></strong><strong><em> the </em></strong><strong><em>people</em></strong><strong><em>’</em></strong><strong> </strong><strong>[</strong><strong>Deut</strong><strong> 18:15-16]</strong>.</span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Now brothers, I know you didn’t realize what you were doing—your rulers didn’t either. </span></i></span>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But that’s the way God fulfilled what he announced beforehand by many prophets: that his Messiah would suffer. </span></i></span>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So repent: God will erase your sins. </span></i></span>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Times of renewal will come from the L</span></i><i><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, and he’ll send the Messiah Jesus that he appointed for you. </span></i></span>
+<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Heaven needs to receive him till God establishes everything he said through his holy prophets so long ago. </span></i></span>
+<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses said, </span></i></span></p>
 
-<span class="verse" id="v24"><sup class="verse-num">24</sup> <em>The</em><em> prophets from Samuel on have </em><em>told</em><em> about </em><em>our time</em><em>.</em><em> </em><strong><sup>25</sup></strong><em>You’re</em><em> </em><em>descendants</em><em> of the prophets and</em><em> of</em><em> the covenant God made with your </em><em>ancestors</em><em>.</em><em> </em><em>He </em><em>told</em><em> Abraham,</em> <em>	</em><em>	</em><em>	</em><strong><em>‘</em></strong><strong><em>Your </em></strong><strong><em>descendants</em></strong><strong><em> will bless all </em></strong><strong><em>the </em></strong><strong><em>nations’</em></strong><strong> </strong><strong>[Gen</strong><strong> 22:18; 2</strong><strong>6</strong><strong>:4]</strong>.</span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:1.5in;'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>‘From among you the L</span></i></b><b><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> your God will raise up a prophet for you like me. Listen to everything he tells
+</span></i></b><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>you<b>. </b></span></i><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Every person that doesn’t will perish from the people’</span></i></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Deut 18:15-16]</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>.</span></span></p>
 
-<span class="verse" id="v26"><sup class="verse-num">26</sup> <em>God</em><em> has</em><em> resurrected his Son Jesus </em><em>and</em><em> sent him first to you to </em><em>‘</em><em>bless</em><em>’</em><em> you</em><em> when you turn away from your sins.”</span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The prophets from Samuel on have told about our time. </span></i></span>
+<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’re descendants of the prophets and of the covenant God made with your ancestors. He told Abraham,</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    <b>‘Your descendants will bless all the nations’</b></span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Gen 22:18; 26:4]</span></b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>.</span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God has resurrected his Son Jesus and sent him first to you to ‘bless’ you when you turn away from your sins.”</span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span></b></span></span></p>
+
 <p class="section-ref">Acts 3:17-26</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

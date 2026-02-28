@@ -1,77 +1,161 @@
 ---
 book: Ezekiel
 chapter: 24
-next: chapter-25
-prev: chapter-23
 title: Ezekiel 24
 translation: CNT
 type: chapter
 weight: 24
+prev: chapter-23
+next: chapter-25
 ---
 
 ## Ezekiel Chapter 24
 
+
+### That way you’ll know I’m the Lord GOD.’”                     Ezek 23:43-49
+
+
+
 ### The Cooking Pot
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> The <strong>tenth day, tenth month, ninth year</strong>, a message from the LORD came to me:</span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>“Son</em><em> of man, write down the date. Today the king of Babylon laid siege to Jerusalem. </em><strong><sup>3</sup></strong><em>Tell</em><em> the rebellious people a parable, ‘The Lord G</em><em>OD</em><em> says,</em> <strong><sup>	</sup></strong><em>“Put a pot on and pour water in </em><em>it;</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         <a name="_Hlk200623407">24<sup>:1</sup></a></span></b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>The <b>tenth day, tenth month, ninth year</b>, a message from the L</span><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> came to me:</span></p>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> <em>put</em><em> good pieces of meat in it,</em> <em>	</em><em>	thigh and </em><em>shoulder;</em> <em>	</em><em>	fill it with choice bones.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Son of man, write down the date. Today the king of Babylon laid siege to Jerusalem.
+</span></i></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Tell the rebellious people a parable, ‘The Lord G</span></i><i><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>OD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says,</span></i></span></p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>Take</em><em> the best of the flock</em> <em>	</em><em>	and put wood under the pot.</em> <em>	</em><em>	Boil it </em><em>hard;</em> <em>	</em><em>	seethe the bones with the meat.”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Put a pot on and pour water in it;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></i><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>put good pieces of meat in it,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  thigh and shoulder;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  fill it with choice bones.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Take the best of the flock</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and put wood under the pot.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  Boil it hard;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  seethe the bones with the meat.”</span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>              </span></b></span></p>
+
 <p class="section-ref">Ezek 24:1-5</p>
 
-### 6‘The Lord GOD says, 			“Misfortune awaits the bloody city; 		it awaits the rusty pot! 		Take out piece after piece 			without choosing which ones.
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘The Lord G</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>OD</span></i><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> says,</span></i></span></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  <b>“Misfortune awaits the bloody city;</b></span></i></p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> 'The Lord GOD says, "Misfortune awaits the bloody city; it awaits the rusty pot! Take out piece after piece without choosing which ones.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  it awaits the rusty pot!</span></i></p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>The</em><em> blood she shed is in </em><em>her;</em><em>  </em> <em>	</em><em>	she put it on a bare </em><em>rock;</em> <em>	</em><em>	she didn’t pour it on the ground</em> <em>	</em><em>	</em><em>	and cover it with dirt.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  Take out piece after piece</span></i></p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>To</em><em> cause anger to rise up </em> <em>	</em><em>	</em><em>	and take revenge,</em> <em>	</em><em>	I’ve put her blood on a bare rock</em> <em>	</em><em>	</em><em>	</em><em>so</em><em> it won’t be covered.”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        without choosing which ones.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The blood she shed is in her;  </span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  she put it on a bare rock;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  she didn’t pour it on the ground</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        and cover it with dirt.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>To cause anger to rise up </span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        and take revenge,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  I’ve put her blood on a bare rock</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        so it won’t be covered.”</span></i><b><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                     </span></b></span></p>
+
 <p class="section-ref">Ezek 24:6-8</p>
 
-### 9‘So the Lord GOD says,  			“Misfortune awaits the bloody city! 		I’ll make it a big pile.
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘So the Lord G</span></i><i><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>OD</span></i><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says, </span></i></span></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                           </span></sup></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Misfortune awaits the bloody city!</span></i></b></p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> 'So the Lord GOD says, "Misfortune awaits the bloody city! I'll make it a big pile.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  I’ll make it a big pile.</span></i></p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>Pile</em><em> on the wood, kindle the fire,</em> <em>	</em><em>	boil the meat well,</em> <em>	</em><em>	mix in the spices,</em> <em>	</em><em>	burn the bones.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Pile on the wood, kindle the fire,</span></i></span></p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> <em>Then</em><em> set it empty on the coals</em> <em>	</em><em>	to get it hot</em> <em>	</em><em>	</em><em>so</em><em> its bronze will glow,</em> <em>	</em><em>	its dross will dissolve,</em> <em>	</em><em>	and its rust will burn off.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  boil the meat well,</span></i></p>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> <em>I’ve</em><em> worked hard for nothing,</em> <em>	</em><em>	because its extreme rust isn’t </em><em>gone;</em> <em>	</em><em>	let it rust in the fire!</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  mix in the spices,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  burn the bones.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then set it empty on the coals</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  to get it hot</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  so its bronze will glow,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  its dross will dissolve,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and its rust will burn off.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ve worked hard for nothing,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  because its extreme rust isn’t gone;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  let it rust in the fire!</span></i></span></p>
+
 <p class="section-ref">Ezek 24:9-12</p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> <em>In</em><em> your filthiness is </em><em>lewdness;</em> <em>	</em><em>	I wanted to clean you up,</em> <em>	</em><em>	</em><em>	but you didn’t want to be clean.</em> <em>	</em><em>	You won’t be clean from your filthiness</em> <em>	</em><em>	</em><em>	till I’ve spent my anger on you.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In your filthiness is lewdness;</span></i></span></p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> <em>I</em><em>, the </em><em>L</em><em>ORD</em><em>, have said it; it’s coming, I’ll do it. I won’t hold back. I won’t pity or be sorry. I’ll judge </em>you <em>according to your ways and deeds.”’”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  I wanted to clean you up,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        but you didn’t want to be clean.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  You won’t be clean from your filthiness</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        till I’ve spent my anger on you.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I, the </span></i><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>L</span></i><i><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, have said it; it’s coming, I’ll do it. I won’t hold back. I won’t pity or be sorry. I’ll judge </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>you <i>according to your ways and deeds.”’”  </i></span></span></p>
+
 <p class="section-ref">Ezek 24:13-14</p>
+
 
 ### Ezekiel’s Wife Dies
 
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> A message from the LORD came to me:</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.25in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A message from the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> came to me:</span></span></p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> <em>“Son</em><em> of man, I’m about to take away the delight of your eyes </em><em>in one</em><em> </em><em>stroke</em><em>, but don’t mourn</em><em> or</em><em> </em><em>cry or</em><em> </em><em>shed tears</em><em>.</em><em> </em><strong><sup>17</sup></strong><em>Groan</em><em> silently; don’</em><em>t </em>perform ritual <em>mourning for the dead. Wrap </em><em>your </em><em>turban on, put your shoes on, don’t cover your mouth </em>in sorrow<em>, or eat the bread of mourning.”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Son of man, I’m about to take away the delight of your eyes in one stroke, but don’t mourn or cry or shed tears. </span></i></span>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Groan silently; don’t </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>perform ritual <i>mourning for the dead. Wrap your turban on, put your shoes on, don’t cover your mouth </i>in sorrow<i>, or eat the bread of mourning.”                                                                   </i></span></span></p>
+
 <p class="section-ref">Ezek 24:15-17</p>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> I told the people <em>about it </em>in the morning; that evening my wife died. The next morning, I did what God told me.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I told the people <i>about it </i>in the morning; that evening my wife died. The next morning, I did what God told me. </span></span></p>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> The people said, <em>“Won’t </em><em>you tell us what </em><em>you’re doing mean</em><em>s</em><em> for us?”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The people said, <i>“Won’t you tell us what you’re doing means for us?”</i></span></span></p>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> I told them, <em>“</em><em>A message from </em><em>the </em><em>L</em><em>ORD</em><em> came to me, </em><strong><sup>21</sup></strong><em>‘</em><em>Tell</em><em> Israel, </em><em>“</em><em>I’m about to profane my sanctuary, the pride of your power</em><em>, the delight of your eyes and </em><em>soul.</em><em> </em><em>The </em><em>children</em><em> you’ve left behind will fall by the sword.</em><em> </em><strong><sup>22</sup></strong><em>Do</em><em> what</em><em> I’ve done.</em><em> </em><em>Don’t cover your </em><em>mouth </em>in sorrow<em> or eat the bread of </em><em>mourn</em><em>ing.</em><em> </em><strong><sup>23</sup></strong><em>Put</em><em> your turbans on your heads and your shoes on your feet. Don’t mourn or weep, but pine away in your sins and groan to one another. </em><strong><sup>24</sup></strong><em>Follow</em><em> Ezekiel’s example. When it comes, </em><em><u>you’ll know I’m the Lord G</u></em><em><u>OD</u></em><em>.”’</em><strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I told them,</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“A message from the </span></i><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> came to me, </span></i><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘Tell Israel, “I’m about to profane my sanctuary, the pride of your power, the delight of your eyes and soul. The children you’ve left behind will fall by the sword. </span></i></span>
+<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Do what I’ve done. Don’t cover your mouth </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>in sorrow<i> or eat the bread of mourning. </i></span></span>
+<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Put your turbans on your heads and your shoes on your feet. Don’t mourn or weep, but pine away in your sins and groan to one another. </span></i></span>
+<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Follow Ezekiel’s example. When it comes, <u>you’ll know I’m the Lord G</u></span></i><i><u><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>OD</span></u></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.”’</span></i></span></span></p>
+
 <p class="section-ref">Ezek 24:18-24</p>
 
-<span class="verse" id="v25"><sup class="verse-num">25</sup> <em>“Son</em><em> of man, won’t that be when I take their fortresses away</em><em> </em><em>from them, their pride and joy, the delight of their eyes, their heart’s desire, their children—</em><strong><sup>26</sup></strong><em>when</em><em> somebody escapes and comes to you with the news? </em><strong><sup>27</sup></strong><em>Then</em><em> you can speak to the one that escaped. You’ll be a sign to them. </em><em><u>They’ll know I’m the </u></em><em><u>L</u></em><em><u>ORD</u></em><em>.”</span>
-<p class="section-ref">Ezek 24:25-27</p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Son of man, won’t that be when I take their fortresses away from them, their pride and joy, the delight of their eyes, their heart’s desire, their children—</span></i></span>
+<span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>when somebody escapes and comes to you with the news? </span></i></span>
+<span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then you can speak to the one that escaped. You’ll be a sign to them. <u>They’ll know I’m the </u></span></i><i><u><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>L</span></u></i><i><u><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></u></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.”</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>
+         </span></b></span></p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

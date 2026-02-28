@@ -1,52 +1,96 @@
 ---
 book: Numbers
 chapter: 6
-next: chapter-07
-prev: chapter-05
 title: Numbers 6
 translation: CNT
 type: chapter
 weight: 6
+prev: chapter-05
+next: chapter-07
 ---
 
 ## Numbers Chapter 6
 
+
 ### The Nazirite Vow
 
-<span class="verse" id="v1"><strong><sup>-2</sup></strong>The LORD told Moses to say to Israel, <strong>	</strong><em>“</em><em>When men or women take a</em><em> </em><em>Nazarite </em><em>vow to dedicate</em><em> themselves</em><em> to the </em><em>L</em><em>ORD</em><em>, </em><strong><sup>3</sup></strong><em>they must</em><em> abstain fr</em><em>om wine, alcohol, and from</em><em> vinegar made f</em><em>rom them. They ca</em><em>n’t drink grape juice or eat fresh grapes or raisins.</em><em> </em><strong><sup>4</sup></strong><em>They’re not to</em><em> eat anything a grapevine </em><em>produces </em><em>from seeds to skin.</em></span>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>“During that time, they have to let their hair grow</em><em>.</em><em> </em><strong><sup>6</sup></strong><strong><sup>-7</sup></strong><em>They ca</em><em>n’t </em><em>make themselves ceremonially unclean by </em><em>go</em><em>ing</em><em> near a dead body </em>even <em>for </em><em>a</em><em> </em><em>parent or sibling</em><em> </em><em>that</em><em> die</em><em>s</em><em>. </em><em>[</em><strong><sup>8</sup></strong><em>]</em><strong> </strong><strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1-2</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;font-family:"Times New Roman",serif'> told Moses to say to Israel, </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><b><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>         </span></b><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“When men or women take a Nazarite vow to dedicate themselves to the L</span></i><i><span style='font-size:9.0pt;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>, </span></i><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>they must abstain from wine, alcohol, and from vinegar made from them. They can’t drink grape juice or eat fresh grapes or raisins. </span></i></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>They’re not to eat anything a grapevine produces from seeds to skin.</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in; line-height:normal'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“During that time, they have to let their hair grow. </span></i></span>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6-7</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>They can’t make themselves ceremonially unclean by going near a dead body </span></i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>even </span><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>for a parent or sibling that dies. [</span></i></span>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>]</span></i></span></span></p>
+
 <p class="section-ref">Num 6:1-8</p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>“</em><em>If someone dies</em><em> suddenly beside them and </em><em>defiles </em><em>their</em><em> dedicat</em><em>ed head</em><em>, </em><em>they</em><em>’ll shave it </em><em>the same day</em><em> and on the seventh day.</em><em> </em><strong><sup>10</sup></strong><em>T</em><em>he eight</em><em>h</em><em> day</em><em>,</em><em> </em><em>they</em><em>’ll </em><em>take</em><em> two turtledoves or young pigeons to the priest</em><em> at</em><em> the </em><em>entrance to</em><em> the </em><em>Tent of Meeting</em><em>.</em><em> </em><strong><sup>11</sup></strong><em>The priest will offer one </em><em>as</em><em> a sin offering and the other </em><em>as</em><em> a burnt offering</em><em>; that will</em><em> </em><em>purify</em><em> </em><em>them from</em><em> </em><em>their</em><em> </em><em>defilement</em><em>.</em><em> </em><em>That same day </em><em>they</em><em>’ll </em><em>re-</em><em>consecrate </em><em>their</em><em> head, </em><strong><sup>12</sup></strong><em>dedicate to the </em><em>L</em><em>ORD</em><em> </em><em>their</em><em> days as a Nazirite, and </em><em>take</em><em> a male lamb a year old for a guilt offering</em><em>. Their previous</em><em> days </em>of separation <em>are</em><em> void</em><em>.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If someone dies suddenly beside them and defiles their dedicated head, they’ll shave it the same day and on the seventh day. </span></i></span>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The eighth day, they’ll take two turtledoves or young pigeons to the priest at the entrance to the Tent of Meeting. </span></i></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The priest will offer one as a sin offering and the other as a burnt offering; that will purify them from their defilement. That same day they’ll re-consecrate their head, </span></i></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>dedicate to the L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> their days as a Nazirite, and take a male lamb a year old for a guilt offering. Their previous days </span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>of separation </span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>are void.                                                        </span></i></span></span></p>
+
 <p class="section-ref">Num 6:9-12</p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> <em>“When </em><em>Nazirite</em><em>s</em><em> </em><em>finish their</em><em> </em><em>time</em><em> </em><em>of separation, they’ll</em><em> </em><em>take</em><em> </em><em>an</em><em> offering to the </em><em>entrance to</em><em> the </em><em>Tent of Meeting</em><em> </em><strong><sup>14</sup></strong><em>and</em><em> present </em><em>it to</em><em> the </em><em>L</em><em>ORD</em><em>: </em> <em>one male lamb a year old without defect</em><em> for a burnt offering, </em> <em>one ewe </em><em>lamb a year old without defect for a sin offering</em><em>,</em><em> </em> <em>one ram without defect for a peace offering, </em><strong><sup>15</sup></strong><em>and </em> <em>a basket of cakes of fine flour </em><em>without yeast </em><em>mixed with </em><em>olive </em><em>oil and </em> <em>	</em><em>wafers </em><em>without yeast basted</em><em> with</em><em> olive</em><em> oil, along with </em> <em>their grain offering and </em><em>liquid offering</em><em>s.</em><em> </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“When Nazirites finish their time of separation, they’ll take an offering to the entrance to the Tent of Meeting </span></i></span>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and present it to the L</span></i><i><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>: </span></i></span></p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> <em>The priest will present them </em><em>all to</em><em> the </em><em>L</em><em>ORD</em><em>.</em><em> </em><em>[</em><strong><sup>17</sup></strong><em>] </em><strong><sup>18</sup></strong><em>The</em><em>n the </em><em>Nazirite</em><em>s</em><em> will shave </em><em>their</em><em> </em><em>head </em><em>and </em><em>put</em><em> the dedicated hair on the fire that’s under the peace offering.</em><em> </em><strong><sup>19</sup></strong><em>The priest will take the ram’s boiled shoulder</em><em> and</em><em> one</em><em> </em><em>cake</em><em> and wafer without yeast from the basket</em><em>, and put them </em><em>i</em><em>n the </em><em>Nazirites’ </em><em>hand</em><em>s</em><em>.</em><em> </em><strong><sup>20</sup></strong><em>The priest will wave them </em><em>in front of the </em><em>L</em><em>ORD</em><em>. They’re set apart</em><em> for the priest, together with the chest offered by waving and the thigh offered by lifting up.</em><em> </em><em>Afterwa</em><em>rd Nazirites can drink wine </em>again<em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>one male lamb a year old without defect for a burnt offering, </span></i></p>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> <em>“That’s the law for</em><em> Nazirite</em><em>s</em><em> that vow </em><em>their</em><em> offering to the </em><em>L</em><em>ORD</em><em> </em><em>for</em><em> </em><em>their</em><em> separation in addition to what else </em><em>they</em><em> can afford</em><em>.”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>one ewe lamb a year old without defect for a sin offering, </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>one ram without defect for a peace offering, </span></i><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and
+</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>a basket of cakes of fine flour without yeast mixed with olive oil and </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            wafers without yeast basted with olive oil, along with </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>their grain offering and liquid offerings. </span></i></p>
+
+<p class="MsoListBulletCxSpLast" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The priest will present them all to the L</span></i><i><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>. [</span></i></span>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>] </span></i></span>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then the Nazirites will shave their head and put the dedicated hair on the fire that’s under the peace offering. </span></i></span>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The priest will take the ram’s boiled shoulder and one cake and wafer without yeast from the basket, and put them in the Nazirites’ hands. </span></i></span>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The priest will wave them in front of the L</span></i><i><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>. They’re set apart for the priest, together with the chest offered by waving and the thigh offered by lifting up. Afterward Nazirites can drink wine </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>again</span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“That’s the law for Nazirites that vow their offering to the L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> for their separation in addition to what else they can afford.”
+</span></i></span></span></p>
+
 <p class="section-ref">Num 6:13-21</p>
+
 
 ### Aaron’s Blessing
 
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> The LORD told Moses to have Aaron and his sons <strong><sup>23</sup></strong>pronounce this blessing on Israel:</span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:.5in;'><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> told Moses to have Aaron and his sons </span></span>
+<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>pronounce this blessing on Israel: </span></span></p>
 
-<span class="verse" id="v24"><sup class="verse-num">24</sup> <em>“The </em><em>L</em><em>ORD</em><em> bless you and keep you.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> bless you and keep you.</span></i></span></p>
 
-<span class="verse" id="v25"><sup class="verse-num">25</sup> <em>T</em><em>he </em><em>L</em><em>ORD</em><em> </em><em>smile</em><em> on you</em> <em>	</em><em>	</em><em>	</em><em>and be gracious to you.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> smile on you</span></i></span></p>
 
-<span class="verse" id="v26"><sup class="verse-num">26</sup> <em>The </em><em>L</em><em>ORD</em><em> </em><em>lift up his countenance on you</em> <em>	</em><em>	</em><em>	and give you peace.”</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and be gracious to you.</span></i></p>
 
-<span class="verse" id="v27"><sup class="verse-num">27</sup> <em>“In that way they’</em><em>ll invoke my name on </em><em>the people</em><em>, and I</em><em>’ll bless them.</em><em>”</em><em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> lift up his countenance on you</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and give you peace.”</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    27</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“In that way they’ll invoke my name on the people, and I’ll bless them.”             </span></i></p>
+
 <p class="section-ref">Num 6:22-27</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

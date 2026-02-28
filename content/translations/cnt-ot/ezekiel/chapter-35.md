@@ -1,35 +1,65 @@
 ---
 book: Ezekiel
 chapter: 35
-next: chapter-36
-prev: chapter-34
 title: Ezekiel 35
 translation: CNT
 type: chapter
 weight: 35
+prev: chapter-34
+next: chapter-36
 ---
 
 ## Ezekiel Chapter 35
 
+
 ### Prophecy Against Mount Seir
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> A message from the Lord came to me:</span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>“Son</em><em> of man, face Mount Seir and prophesy against it</em><em>, </em><strong><sup>3</sup></strong><em>‘The</em><em> Lord G</em><em>OD</em><em> says,</em><em> </em> <em>“I’m against you, Mount </em><em>Seir;</em> <em>	I’ll make you a </em><em>waste</em><em>land</em><em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>A message from the Lord came to me:</span></span></p>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> <em>I’ll</em><em> lay your </em><em>towns</em><em> waste</em><em>,</em> <em>	and you’ll be</em><em> desolate</em><em>.</em> <em><u>You’ll know I’m the </u></em><em><u>L</u></em><em><u>ORD</u></em><em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Son of man, face Mount Seir and prophesy against it, </span></i></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘The Lord G</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>OD</span></i><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> says, </span></i></span></p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>In</em><em> your endless enmity, you delivered Israel to the sword at the time of its catastrophe, its final punishment. </em><strong><sup>6</sup></strong><em>So</em><em> as I live, I’ll deliver you to bloodshed. Since you haven’t despised bloodshed, it’ll pursue you. </em><strong><sup>7</sup></strong><em>I’ll</em><em> make Mount Seir a waste and </em><em>slay everyone that tries to escape or return there. </em><strong><sup>8</sup></strong><em>I’ll</em><em> fill its mountains with the dead. They’ll fall in its hills, valleys, and ravines. </em><strong><sup>9</sup></strong><em>I’ll</em><em> make it a permanent wasteland and its towns uninhabited. </em><em><u>It will know I’m the </u></em><em><u>L</u></em><em><u>ORD</u></em><em>.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’m against you, Mount Seir;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      I’ll make you a wasteland.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll lay your towns waste,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and you’ll be desolate.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’ll know I’m the </span></u></i><i><u><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>L</span></u></i><i><u><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></u></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In your endless enmity, you delivered Israel to the sword at the time of its catastrophe, its final punishment. </span></i></span>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So as I live, I’ll deliver you to bloodshed. Since you haven’t despised bloodshed, it’ll pursue you. </span></i></span>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll make Mount Seir a waste and slay everyone that tries to escape or return there.
+</span></i></span>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>I’ll fill its mountains with the dead. They’ll fall in its hills, valleys, and ravines. </span></i></span>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll make it a permanent wasteland and its towns uninhabited. <u>It will know I’m the </u></span></i><i><u><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>L</span></u></i><i><u><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></u></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
+</span></b></span></span></p>
+
 <p class="section-ref">Ezek 35:1-9</p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>“</em>Mount Seir<em> has said, ‘I’m going to take over those two lands and make them mine’—though the </em><em>L</em><em>ORD</em><em> was there. </em><strong><sup>11</sup></strong><em>So</em><em> as I live,” </em>the Lord GOD says,<em> “I’ll deal with you in proportion to the anger, envy, and hate you’ve shown them. I’ll make myself known among them when I condemn you. </em><strong><sup>12</sup></strong><em>You’ll</em><em> know that I’ve heard your contempt for the mountains in Israel, ‘They’re desolate; they’ve been given to us to devour.’ </em><strong><sup>13</sup></strong><em>I’ve</em><em> heard you speak arrogantly against me over and over. </em><strong><sup>14</sup></strong><em>While</em><em> the whole world </em><em>celebrates,</em><em> I’ll make you desolate. </em><strong><sup>15</sup></strong><em>As</em><em> you celebrated Israel’s desolation, you’ll be desolate, Mount Seir and all Edom. </em><em><u>You</u></em><em><u>’ll know I’m the </u></em><em><u>L</u></em><em><u>ORD</u></em><em>.” </em><em> </em><em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Mount Seir<i> has said, ‘I’m going to take over those two lands and make them mine’—though the </i><i>L</i></span><i><span style='font-size:9.0pt;line-height: 115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> was there. </span></i></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So as I live,” </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>the Lord G</span><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>OD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says,<i> “I’ll deal with you in proportion to the anger, envy, and hate you’ve shown them. I’ll make myself known among them when I condemn you. </i></span></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’ll know that I’ve heard your contempt for the mountains in Israel, ‘They’re desolate; they’ve been given to us to devour.’ </span></i></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ve heard you speak arrogantly against me over and over. </span></i></span>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>While the whole world celebrates, I’ll make you desolate. </span></i></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As you celebrated Israel’s desolation, you’ll be desolate, Mount Seir and all Edom. <u>You’ll know I’m the </u></span></i><i><u><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>L</span></u></i><i><u><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></u></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.”
+</span></i><i><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                         </span></i></span></span></p>
+
 <p class="section-ref">Ezek 35:10-15</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

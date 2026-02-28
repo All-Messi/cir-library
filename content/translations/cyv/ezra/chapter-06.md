@@ -1,41 +1,75 @@
 ---
 book: Ezra
 chapter: 6
-next: chapter-07
-prev: chapter-05
 title: Ezra 6
 translation: CYV
 type: chapter
 weight: 6
+prev: chapter-05
+next: chapter-07
 ---
 
 ## Ezra Chapter 6
 
+
 ### Darius’ Decree
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> King Darius issued an order to search the Babylonian archives, which were housed in the treasury. <strong><sup>2</sup></strong>But in the fortress in Ecbatana, in the province of Media, they found a scroll with the following written in it: <em>	</em><em>“Record:</em></span>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> <em>In</em><em> the </em><strong><em>first year of King Cyrus</em></strong><em>, </em><em>he</em><em> issued a decree:</em> ‘As to<em> </em><em>God’s Temple</em><em> in Jerusalem</em><em>, rebuild</em><em> </em><em>it</em><em>, where sacrifices are offered</em><em>. Keep</em><em> its foundations</em><em> the same. I</em><em>ts height and </em><em>width are</em><em> </em><em>90</em><em>ft</em><em> </em><strong><sup>4</sup></strong><em>with</em><em> three courses of large stones alternating with one course</em><em> of timbers.</em><em> Pay</em><em> </em><em>for it</em><em> </em><em>out of</em><em> the royal treasury.</em><em> </em><strong><sup>5</sup></strong><em>Take</em><em> back to God’s temple</em><em> the gold and silver </em><em>articles</em><em> Nebuchadnezzar took from </em><em>it</em><em>.’</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>King Darius issued an order to search the Babylonian archives, which were housed in the treasury. </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But in the fortress in Ecbatana, in the province of Media, they found a scroll with the following written in it:</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            “Record:</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In the <b>first year of King Cyrus</b>, he issued a decree:</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘As to<i> God’s Temple in Jerusalem, rebuild it, where sacrifices are offered. Keep its foundations the same. Its height and width are 90ft </i></span><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>with three courses of large stones alternating with one course of timbers. Pay for it out of the royal treasury. </span></i></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Take back to God’s temple the gold and silver articles Nebuchadnezzar took from it.’
+         </span></i></span></span></p>
+
 <p class="section-ref">Ezra 6:1-5</p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>“</em><em>Now</em><em> the</em><em>n</em><em>, Tatt</em><em>enai, governor of B</em><em>eyond the River, Shethar-bozenai</em><em>,</em><em> and your associates, </em><em>officials in the provinces B</em><em>eyond the River, </em><em>don’t interfere</em><em>.</em><em> </em><strong><sup>7</sup></strong><em>Let</em><em> the governor </em><em>and elders </em><em>of the Jews rebuild </em><em>God’s Temple</em><em> on it</em><em>s</em><em> site.</em><em> </em><strong><sup>8</sup></strong><em>And</em><em>, I decree what you’re to do for tho</em><em>se elders in</em><em> rebuilding this Temple</em><em>:</em><em> </em><em>without delay </em><em>pay</em><em> them </em><em>the full cost </em><em>out of</em><em> the royal treasury </em><em>from taxes in </em>the provinces<em> B</em><em>eyond the River.</em><em> </em><strong><sup>9</sup></strong><em>A</em><em>s</em><em> th</em><em>e priests in Jerusalem request, give daily whatever they need: </em><em>you</em><em>ng bulls, rams, and lambs for </em><em>burnt offering</em><em>s</em><em>, wheat, salt, wine, and a</em><em>nointing oil.</em><em> </em><strong><sup>10</sup></strong><em>Then</em><em> they </em><em>can</em><em> offer acceptable sacrifices to the God of heaven and pray for the life of </em><em>the king and his </em><em>sons.</em><em> </em><strong><sup>11</sup></strong><em>For</em><em> anybody</em><em> </em><em>who</em><em> violates this </em><em>edict</em><em>, I </em><em>decree that </em><em>a timber be </em><em>pulled out</em><em> </em><em>of his hous</em><em>e</em><em>, </em><em>he be impaled on it, and his house be made a </em><em>garbage pile</em><em>.</em><em> </em><strong><sup>12</sup></strong><em>May</em><em> the God that has </em><em>put his name</em><em> there overthrow any king or people that </em><em>tries to violate this decree and destroy that Temple</em><em> of God.</em><em> </em><em>I</em><em>, Darius,</em><em> have </em><em>made</em><em> this decree.</em><em> Carry it</em><em> out diligently.”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Now then, Tattenai, governor of Beyond the River, Shethar-bozenai, and your associates, officials in the provinces Beyond the River, don’t interfere. </span></i></span>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Let the governor and elders of the Jews rebuild God’s Temple on its site. </span></i></span>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And, I decree what you’re to do for those elders in rebuilding this Temple: without delay pay them the full cost out of the royal treasury from taxes in </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the provinces<i> Beyond the River. </i></span></span>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As the priests in Jerusalem request, give daily whatever they need: young bulls, rams, and lambs for burnt offerings, wheat, salt, wine, and anointing oil. </span></i></span>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then they can offer acceptable sacrifices to the God of heaven and pray for the life of the king and his sons. </span></i></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For anybody who violates this edict, I decree that a timber be pulled out of his house, he be impaled on it, and his house be made a garbage pile. </span></i></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>May the God that has put his name there overthrow any king or people that tries to violate this decree and destroy that Temple of God. I, Darius, have made this decree. Carry it out diligently.”    </span></i></span></span></p>
+
 <p class="section-ref">Ezra 6:6-12</p>
+
 
 ### Completion and Dedication of the Temple
 
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> Tattenai, Shethar-bozenai, and their associates carried out the decree diligently. <strong><sup>14</sup></strong>The elders of the Jews succeeded in the construction by the prophesying of Haggai and Zechariah. By God’s command and the decree of Cyrus, Darius, and Artaxerxes, <strong><sup>15</sup></strong>they completed it the <strong>third day, the month Adar, sixth year of King Darius</strong>.<strong> </strong><strong>       </strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Tattenai, Shethar-bozenai, and their associates carried out the decree diligently. </span></span>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The elders of the Jews succeeded in the construction by the prophesying of Haggai and Zechariah. By God’s command and the decree of Cyrus, Darius, and Artaxerxes, </span></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>they completed it the <b>third day, the month Adar, sixth year of King Darius</b>.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>        </span></b></span></p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> Israel, the priests, Levites, and the rest of the exiles celebrated the dedication of God’s Temple. <strong><sup>17</sup></strong>They offered 100 bulls, 200 rams, 400 lambs, and as a sin offering for Israel 12 male goats corresponding to the 12 tribes in Israel. <strong><sup>18</sup></strong>Then they appointed the priests to their divisions and the Levites in their orders for the service of God as written in the Book of Moses. 	<strong>Passover Celebrated</strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel, the priests, Levites, and the rest of the exiles celebrated the dedication of God’s Temple. </span></span>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They offered 100 bulls, 200 rams, 400 lambs, and as a sin offering for Israel 12 male goats corresponding to the 12 tribes in Israel. </span></span>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then they appointed the priests to their divisions and the Levites in their orders for the service of God as written in the Book of Moses.</span></span></p>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> The exiles observed Passover on the <strong>fourteenth of the first month</strong>. <strong><sup>20</sup></strong>The priests and Levites had purified themselves. They killed the Passover lamb for all the exiles, for their brothers the priests, and for themselves. <strong><sup>21</sup></strong>The Israelites from the exile and the ones that had separated themselves from the impurity of the nations in the land, joined them in reaching out to Yahveh God of Israel by eating <em>the Passover</em>. <strong><sup>22</sup></strong>They observed the Festival of Unleavened Bread for a week with joy because Yahveh had given them reason to celebrate. He had inclined the heart of the Assyrian king to encourage them in the work on his Temple.</span>
-<p class="section-ref">Ezra 6:13-22</p>
+
+### Passover Celebrated
+
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The exiles observed Passover on the <b>fourteenth of the first month</b>. </span></span>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The priests and Levites had purified themselves. They killed the Passover lamb for all the exiles, for their brothers the priests, and for themselves. </span></span>
+<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Israelites from the exile and the ones that had separated themselves from the impurity of the nations in the land, joined them in reaching out to Yahveh God of Israel by eating <i>the Passover</i>. </span></span>
+<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They observed the Festival of Unleavened Bread for a week with joy because Yahveh had given them reason to celebrate. He had inclined the heart of the Assyrian king to encourage them in the work on his Temple.                </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ezra 6:13-22</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>
+</span></b></span></p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

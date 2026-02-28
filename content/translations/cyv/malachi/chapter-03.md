@@ -1,41 +1,68 @@
 ---
 book: Malachi
 chapter: 3
-next: chapter-04
-prev: chapter-02
 title: Malachi 3
 translation: CYV
 type: chapter
 weight: 3
+prev: chapter-02
+next: chapter-04
 ---
 
 ## Malachi Chapter 3
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> <em>“I’m</em><em> going to send my messenger</em><em> to fix</em><em> the road </em><em>ahead of</em><em> me.</em><em> Then Yahveh</em><em> you</em><em>’re</em><em> look</em><em>ing</em><em> for will </em><em>suddenly come to his Temple,</em><em> the messenger of the covenant you delight in</em><em>. </em><strong><sup>2</sup></strong><em>But</em><em> who can endure</em><em> it</em><em> </em><em>when</em><em> he comes?</em><em> </em><em>Who can </em><em>with</em><em>stand </em><em>his</em><em> </em><em>appear</em><em>ing</em><em>?</em><em> </em><em>He’</em><em>ll</em><em> like a refiner’s fire and</em><em> a</em><em> fuller’s soap.</em><em> </em><strong><sup>3</sup></strong><em>He’ll</em><em> sit like a refiner that smelts and purifies </em>dross from<em> silver. H</em><em>e’ll purify the Levi</em><em>tes</em><em> and refine them like gold and silver so they can present </em><em>acceptable</em><em> offerings.</em><em> </em><strong><sup>4</sup></strong><em>Then</em><em> the offerings in Judah and Jerusalem will be pleasing to</em><em> </em><em>me</em><em><sup>Y</sup></em><em> </em><em>like before</em><em>.</em><em> </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:4.5pt; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’m going to send my messenger to fix the road ahead of me. Then Yahveh you’re looking for will suddenly come to his Temple, the messenger of the covenant you delight in. </span></i></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But who can endure it when he comes? Who can withstand his appearing? He’ll like a refiner’s fire and a fuller’s soap. </span></i></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He’ll sit like a refiner that smelts and purifies </span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>dross from<i> silver. He’ll purify the Levites and refine them like gold and silver so they can present acceptable offerings. </i></span></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then the offerings in Judah and Jerusalem will be pleasing to me</span></i><i><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>Y</span></sup></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> like before. </span></i></span></p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>“T</em><em>hen</em><em> I’</em><em>ll put you on trial and</em><em> </em><em>eagerly testify against sorcerers, </em><em>adulterers, </em><em>people that swear falsely,</em><em> </em><em>cheat wage earners,</em><em> </em><em>abuse </em><em>widow</em><em>s</em><em> and orpha</em><em>ns; are prejudiced against</em><em> foreigner</em><em>s,</em><em> and don’t </em><em>respect</em><em> me.</em><em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:4.5pt; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Then I’ll put you on trial and eagerly testify against sorcerers, adulterers, people that swear falsely, cheat wage earners, abuse widows and orphans; are prejudiced against foreigners, and don’t respect me.   </span></i></span></span></p>
+
 <p class="section-ref">Mal 3:1-5</p>
+
 
 ### Robbing God
 
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>“I</em><em> </em><em>don’</em><em>t change. That’s why I haven’t consumed you </em>yet<em>, Jacob</em><em>.</em><em> </em><strong><sup>7</sup></strong><em>From</em><em> the time of your ancestors</em><em>,</em><em> you’ve</em><em> repeatedly turned</em><em> a</em><em>way</em><em> from my statutes.</em><em> </em><em>Come back to me, and I’ll come back to you.</em><em>” </em> <em>“What do you mean ‘come back’?”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:4.5pt; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I don’t change. That’s why I haven’t consumed you </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>yet<i>, Jacob. </i></span></span>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>From the time of your ancestors, you’ve repeatedly turned away from my statutes. Come back to me, and I’ll come back to you.” </span></i></span></p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>“W</em><em>ill</em><em> a </em><em>mortal steal from</em><em> God?</em><em> </em><em>Yet you’re </em><em>stealing from</em><em> me!</em><em>”</em><em> </em> <em>“Stealing from</em><em> you</em><em>?”</em> <em>“Tithes and offerings. </em><strong><sup>9</sup></strong><em>You’re</em><em> </em><em>ac</em><em>cursed because </em><em>the whole nation is</em><em> </em><em>steal</em><em>ing </em><em>from </em><em>me!</em><em> </em><strong><sup>10</sup></strong><em>Bring</em><em> the whole tithe to the storehouse so there’ll be enough food for my Temple </em>staff<em>.</em><em> </em><em>Test me </em><em>in that</em><em> </em>and see<em> if I don’t open the sky</em><em> and pour out</em><em> blessing on you till there’</em><em>s no more need.</em><em> </em><strong><sup>11</sup></strong><em>I’ll</em><em> </em><em>drive away</em><em> </em>diseases and<em> </em>locust <em>plagues </em><em>for you so </em><em>they</em><em> won’t </em><em>ruin</em><em> </em><em>your</em><em> </em><em>produce</em><em> and your </em><em>grapevines</em><em> w</em><em>on’t </em><em>drop</em><em> their grapes</em><em> </em>before they’re ripe<em>.</em><em> </em><strong><sup>12</sup></strong><em>Other</em><em> nations will </em><em>say</em><em> you</em><em>’re</em><em> </em><em>fortunate</em><em> </em><em>to have</em><em> </em><em>such a </em><em>delightful</em><em> land</em><em>.”</em><strong> </strong><strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“What do you mean ‘come back’?”</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Will a mortal steal from God? Yet you’re stealing from me!” </span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Stealing from you?”</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Tithes and offerings. </span></i><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’re accursed because the whole nation is stealing from me! </span></i></span>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Bring the whole tithe to the storehouse so there’ll be enough food for my Temple </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>staff<i>. Test me in that </i>and see<i> if I don’t open the sky and pour out blessing on you till there’s no more need. </i></span></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll drive away </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>diseases and<i> </i>locust <i>plagues for you so they won’t ruin your produce and your grapevines won’t drop their grapes
+</i>before they’re ripe<i>. </i></span></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Other nations will say you’re fortunate to have such a delightful land.”</span></i></span></span></p>
+
 <p class="section-ref">Mal 3:6-12</p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> <em>“You</em><em> say</em><em> arrogant things </em><em>about me,” </em>Yahveh says. <em>“Like what?”</em><em> </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“You say arrogant things about me,” </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Yahveh says.</span></span></p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> <em>“Like</em><em>, ‘</em><em>There’s no point in serving God.</em><em> </em><em>What</em><em> good’s it </em><em>do</em><em> to keep his charges</em><em> or </em><em>mourn</em><em> </em><em>in front of</em><em> him</em><em> </em>when we fail to do so<em>?</em><em> </em><strong><sup>15</sup></strong><em>We</em><em> may as well consider</em><em> </em><em>proud</em><em> </em><em>people fortunate: not only do</em><em> </em><em>they prosper;</em><em> but </em><em>when they make trial of God,</em><em> </em><em>they</em><em> </em><em>get away with it!</em><em>’”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Like what?” </span></i></p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> Then Yahveh heard people talking to one another who did respect and honor him. He recorded their names <strong><sup>17</sup></strong>and said, <em>“They’ll be mine</em> w<em>hen I render judgment on who is my </em>special <em>possession.</em><em> </em><em>I’ll </em><em>have mercy on</em><em> them like a man </em><em>has on</em><em> </em><em>a reliable</em><em> son</em><em>. </em><strong><sup>18</sup></strong><em>I’ll</em><em> distinguish the good ones that serve me and from the bad ones that won’t.</em><strong><em></span>
-<p class="section-ref">Mal 3:13-18</p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Like, ‘There’s no point in serving God. What good’s it do to keep his charges or mourn in front of him </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>when we fail to do so<i>? </i></span></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We may as well consider proud people fortunate: not only do they prosper; but when they make trial of God, they get away with it!’”</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Yahveh heard people talking to one another who did respect and honor him. He recorded their names </span></span>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>and said, <i>“They’ll be mine</i> w<i>hen I render judgment on who is my </i>special <i>possession. I’ll have mercy on them like a man has on a reliable son. </i></span></span>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll distinguish the good ones that serve me and from the bad ones that won’t.</span></i><b><i><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>
+                                                                 </span></i></b></span></p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

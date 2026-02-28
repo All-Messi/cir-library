@@ -1,63 +1,120 @@
 ---
 book: John
 chapter: 13
-next: chapter-14
-prev: chapter-12
 title: John 13
 translation: CNT
 type: chapter
 weight: 13
+prev: chapter-12
+next: chapter-14
 ---
 
 ## John Chapter 13
 
+
 ### Jesus Washes the Disciples’ Feet
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Before the Passover Festival, Jesus knew the time had come <em>for him</em> to go to the Father. He loved his own that were in the world and loved them to the end. <strong><sup>2</sup></strong>During the supper, the devil had already prompted Judas, Simon Iscariot’s son, to betray him. <strong><sup>3</sup></strong>Jesus knew the Father had turned everything over to him. <strong><sup>4</sup></strong>He got<sup>p</sup> up from supper, laid<sup>p</sup> his outer clothes aside, and took a towel and hung it over his <em>shoulder</em>. <strong><sup>5</sup></strong>He put<sup>p</sup> some water in a basin and started washing his disciples’ feet and drying them with the towel.</span>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> When he came<sup>p</sup> to Simon Peter, Peter said<sup>p</sup>, <em>“Lord, you’re going to wash my feet?”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Before the Passover Festival, Jesus knew the time had come <i>for him</i> to go to the Father. He loved his own that were in the world and loved them to the end. </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>During the supper, the devil had already prompted Judas, Simon Iscariot’s son, to betray him. </span></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus knew the Father had turned everything over to him. </span></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He got</span><sup><span style='font-family:"Times New Roman",serif'>p</span></sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> up from supper, laid</span><sup><span style='font-family:"Times New Roman",serif'>p</span></sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> his outer clothes aside, and took a towel and hung it over his <i>shoulder</i>.
+</span></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He put</span><sup><span style='font-family:"Times New Roman",serif'>p</span></sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> some water in a basin and started washing his disciples’ feet and drying them with the towel.</span></span></p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> Jesus answered, <em>“You don’t understand right now what I’m doing, but you will in a little bit.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he came</span><sup><span style='font-family:"Times New Roman",serif'>p</span></sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> to Simon Peter, Peter said</span><sup><span style='font-family:"Times New Roman",serif'>p</span></sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,
+<i>“Lord, you’re going to wash my feet?”</i></span></span></p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> Peter said<sup>p</sup>, “<em>Don’t you </em><em><u>ever</u></em><em> wash </em><em><u>my</u></em><em> feet!</em><em>”</em> “<em>If I don’t wash you, you don’t have anything to do with me.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus answered, <i>“You don’t understand right now what I’m doing, but you will in a little bit.”</i></span></span></p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> Simon Peter said<sup>p</sup>, <em>“Lord, don’t wash just my feet, but my hands and head too.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Peter said</span><sup><span style='font-family:"Times New Roman",serif'>p</span></sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, “<i>Don’t you <u>ever</u> wash <u>my</u> feet!”</i></span></span></p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> Jesus said<sup>p</sup>, <em>“</em><em>Someone</em><em> that</em><em>’</em><em>s taken a bath doesn’t need </em><em>to </em><em>wash</em><em> anything</em><em> but his feet.</em><em> </em><em>He’s clean everywhere else.</em><em> </em><em>You’re</em><em><sup>pl</sup></em><em> clean, but not all of you.”</em> <strong><sup>11</sup></strong>(He knew who would betray him; that’s why he said, <em>“You</em><em><sup>pl</sup></em><em> are not all clean</em><em>.”</em>)</span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            “<i>If I don’t wash you, you don’t have anything to do with me.”</i></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Simon Peter said</span><sup><span style='font-family:"Times New Roman",serif'>p</span></sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,
+<i>“Lord, don’t wash just my feet, but my hands and head too.”</i></span></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus said</span><sup><span style='font-family:"Times New Roman",serif'>p</span></sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,
+<i>“Someone that’s taken a bath doesn’t need to wash anything but his feet. He’s clean everywhere else. You’re<sup>pl</sup> clean, but not all of you.”</i> </span></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(</span><span style='font-family:"Times New Roman",serif'>He knew who would betray him; that’s why he said, <i>“You<sup>pl</sup> are not all clean</i></span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>) </span></span></p>
+
 <p class="section-ref">Jn 13:1-11</p>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> When he’d washed their feet and put his outer clothes back on, he sat down again, <em>“Do you understand what I’ve done?</em><em> </em><strong><sup>13</sup></strong><em>You call me ‘Rabbi’ and ‘Lord,’ and </em><em>rightly so</em><em>.</em><em> </em><strong><sup>14</sup></strong><em>If I</em><em>—‘Lord’ and ‘Rabbi’—washed your feet, then you should wash each other’s feet.</em><em> </em><strong><sup>15</sup></strong><em>I’</em><em>ve given you an example to do like</em><em> I’ve done to you. </em><strong><sup>16</sup></strong><em>A servant has it no</em><em> better than his master</em><em>; </em><em>a messenger</em><em> has it no</em><em> better than the one that sent him.</em><em> </em><strong><sup>17</sup></strong><em>If you</em><em> understand that</em><em>, you’re blessed if you </em><em>act that way</em><em>.</em><em> </em><strong><sup>18</sup></strong><em>I’m not talking about all of you.</em><em> </em><em>I know who I’ve chosen, but </em><em>like </em><em>the scripture</em><em> says</em><em>:</em> 	<em>	</em><em>	</em><strong><em>‘The one that eats my food </em></strong> <strong><em>	</em></strong><strong><em>	</em></strong><strong><em>  </em></strong><strong><em>	has lifted up his heel against me’</em></strong><strong> </strong><strong>[Ps</strong><strong> 41:9]</strong>.</span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he’d washed their feet and put his outer clothes back on, he sat down again, </span></span></p>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> <em>From now on, I’ll tell you befo</em><em>re things happen so when they</em><em> </em><em>do,</em><em> you’ll believe </em><em>who I am</em><em>.</em><em> </em><strong><sup>20</sup></strong><em>Whoever receives somebody I send,</em><em> receives me, and whoever receives me receives the One that sent </em><em>me</em><em>.”</span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Do you understand what I’ve done? </span></i><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You call me ‘Rabbi’ and ‘Lord,’ and rightly so. </span></i></span>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If I—‘Lord’ and ‘Rabbi’—washed your feet, then you should wash each other’s feet. </span></i></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ve given you an example to do like I’ve done to you. </span></i></span>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A servant has it no better than his master; a messenger has it no better than the one that sent him. </span></i></span>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you understand that, you’re blessed if you act that way. </span></i></span>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’m not talking about all of you. I know who I’ve chosen, but like the scripture says:</span></i></span></p>
+
+
+### ‘The one that eats my food
+
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> has lifted up his heel against me’</span></i></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Ps 41:9]</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>.</span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>From now on, I’ll tell you before things happen so when they do, you’ll believe who I am. </span></i></span>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Whoever receives somebody I send, receives me, and whoever receives me receives the One that sent me.”   </span></i></span></span></p>
+
 <p class="section-ref">Jn 13:12-20</p>
+
 
 ### Judas Identified as Traitor
 
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> After he said that, he began to feel deeply distressed, <em>“</em><em>O</em><em>ne of you is going to betray me.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After he said that, he began to feel deeply distressed, <i>“One of you is going to betray me.”</i></span></span></p>
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> The disciples looked at one another at a loss who he meant. <strong><sup>23</sup></strong>One disciple was reclining at table in front of Jesus—one that Jesus loved. <strong><sup>24</sup></strong>Simon Peter motioned to him to find out who Jesus meant. <strong><sup>2</sup></strong><strong><sup>5</sup></strong>So he leaned back on Jesus and said<sup>p</sup>, <em>“Lord, who is it?”</em><em> </em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The disciples looked at one another at a loss who he meant. </span></span>
+<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>One disciple was reclining at table in front of Jesus—one that Jesus loved. </span></span>
+<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Simon Peter motioned to him to find out who Jesus meant. </span></span>
+<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So he leaned back on Jesus and said</span><sup><span style='font-family:"Times New Roman",serif'>p</span></sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,
+<i>“Lord, who is it?” </i></span></span></p>
 
-<span class="verse" id="v26"><sup class="verse-num">26</sup> Jesus answered<sup>p</sup>, <em>“The one I dip the piece of bread and give it to.”</em> He dipped it and handed<sup>p</sup> it to Judas. <strong><sup>27</sup></strong>After the piece of bread, Satan entered Judas. Jesus said<sup>p</sup>, <em>“Do what you’re going</em><em><sup>p</sup></em><em> to do</em><em>.”</em> <strong><sup>28</sup></strong>Nobody at the table knew why he spoke to him. <strong><sup>29</sup></strong>Since Judas had the money pouch, some supposed Jesus meant to go buy something we needed for the festival or to give something to the poor. <strong><sup>30</sup></strong>He took the piece of bread and went out immediately. It was dark.</span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus answered</span><sup><span style='font-family:"Times New Roman",serif'>p</span></sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,
+<i>“The one I dip the piece of bread and give it to.”</i> He dipped it and handed</span><sup><span style='font-family:"Times New Roman",serif'>p</span></sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> it to Judas. </span></span>
+<span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After the piece of bread, Satan entered Judas. Jesus said</span><sup><span style='font-family: "Times New Roman",serif'>p</span></sup><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>, <i>“Do what you’re going</i></span><i><sup><span style='font-family:"Times New Roman",serif'>p</span></sup></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> to do.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></span>
+<span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Nobody at the table knew why he spoke to him. </span></span>
+<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Since Judas had the money pouch, some supposed Jesus meant to go buy something we needed for the festival or to give something to the poor. </span></span>
+<span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He took the piece of bread and went out immediately. It was dark.                                                                                                             </span></span></p>
+
 <p class="section-ref">Jn 13:21-30</p>
+
 
 ### The Disciples Warned
 
 
-<span class="verse" id="v31"><sup class="verse-num">31</sup> When Judas had gone out, Jesus said<sup>p</sup>, <em>“Now</em><em> God will glorify</em><em> the </em><em>Son of Man</em><em>, and </em><em>the Son of Man will glorify him,</em><em> </em><strong><sup>32</sup></strong><em>and </em><em>God will glorify </em><em>him</em><em> soon.</em><em> </em><strong><sup>33</sup></strong><em>Little</em><em> children, I’ll be with you </em><em>a little while yet.</em><em> You’ll look for me and, like</em><em> I told the </em><em><u>Jews</u></em><em>, ‘You can’t go where I’m going’; now I’m telling </em><em><u>you</u></em><em>.</em><em> </em><strong><sup>34</sup></strong><em>I’m command</em><em>ing you something new</em><em>:</em><em> love one another like</em><em> I’ve loved you.</em><em> </em><strong><sup>35</sup></strong><em>If you love one another, </em><em>people</em><em> </em><em>can tell </em><em>you’re my disciples.”</em><em>	</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Judas had gone out, Jesus said</span><sup><span style='font-family:"Times New Roman",serif'>p</span></sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,
+<i>“Now God will glorify the Son of Man, and the Son of Man will glorify him, </i></span></span>
+<span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and God will glorify him soon. </span></i></span>
+<span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Little children, I’ll be with you a little while yet. You’ll look for me and, like I told the <u>Jews</u>, ‘You can’t go where I’m going’; now I’m telling <u>you</u>.
+</span></i></span>
+<span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>I’m commanding you something new: love one another like I’ve loved you. </span></i></span>
+<span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you love one another, people can tell you’re my disciples.”       </span></i></span></p>
 
-<span class="verse" id="v36"><sup class="verse-num">36</sup> Simon Peter said<sup>p</sup>, <em>“</em><em>W</em><em>here are you going</em><em>, Lord</em><em>?”</em> <em>	“Where I’m going you</em><em><sup>pl</sup></em><em> can’t </em><em>go</em><em> now; you’ll </em><em>go</em><em> later.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Simon Peter said</span><sup><span style='font-family:"Times New Roman",serif'>p</span></sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,
+<i>“Where are you going, Lord?”</i></span></span></p>
 
-<span class="verse" id="v37"><sup class="verse-num">37</sup> Peter said<sup>p</sup>, <em>“</em><em>W</em><em>hy can’t I follow you now?</em><em> </em><em>I’ll lay down my life for you.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            “Where I’m going you</span></i><i><sup><span style='font-family:"Times New Roman",serif'>pl</span></sup></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> can’t go now; you’ll go later.”</span></i></p>
 
-<span class="verse" id="v38"><sup class="verse-num">38</sup> Jesus answered, <em>“</em><em>Will you</em><em>?</em><em> </em><em>Truth is, </em><em>before a rooster crows, you’re going to</em><em> </em><em>deny three times that you know me</em><em>.”</span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Peter said</span><sup><span style='font-family:"Times New Roman",serif'>p</span></sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,
+<i>“Why can’t I follow you now? I’ll lay down my life for you.”</i></span></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus answered, <i>“Will you? Truth is, before a rooster crows, you’re going to deny three times that you know me.”</i>       </span></span></p>
+
 <p class="section-ref">Jn 13:31-38</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

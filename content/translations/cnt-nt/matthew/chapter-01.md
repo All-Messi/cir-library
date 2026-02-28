@@ -1,173 +1,198 @@
 ---
 book: Matthew
 chapter: 1
-next: chapter-02
 title: Matthew 1
 translation: CNT
 type: chapter
 weight: 1
+next: chapter-02
 ---
 
 ## Matthew Chapter 1
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> The genealogy of Jesus the Messiah, son of David, son of Abraham</span>
+
+### The Genealogy of Jesus (cp. Lk 3:23-38)
+
+
+<p class="MsoNormal" ><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The genealogy of Jesus the Messiah, son of David, son of Abraham    </span></span></p>
+
 
 <table class="genealogy-table">
 <colgroup>
   <col style="width:33%">
-  <col style="width:33%">
+  <col style="width:34%">
   <col style="width:33%">
 </colgroup>
 <tbody>
 <tr>
-  <td><strong><sup>2</sup></strong>Abraham, father of</td>
-  <td>Isaac, father of</td>
-  <td>Jacob, father of</td>
+  <td><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup>Abraham, father of</span></td>
+  <td><span class="verse verse-v2">Isaac, father of</span></td>
+  <td><span class="verse verse-v2">Jacob, father of</span></td>
 </tr>
 <tr>
-  <td>Judah and his brothers;</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
+  <td><span class="verse verse-v2">Judah and his brothers;</span></td>
+  <td></td>
+  <td></td>
 </tr>
 <tr>
-  <td>    <strong><sup>3</sup></strong>Judah was father of</td>
-  <td>Peres and Zerah by Tamar; </td>
-  <td>&nbsp;</td>
+  <td><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup>Judah was father of</span></td>
+  <td><span class="verse verse-v3">Peres and Zerah by Tamar;</span></td>
+  <td></td>
 </tr>
 <tr>
-  <td>    Peres was father of </td>
-  <td>Hezron, father of</td>
-  <td>&nbsp;</td>
+  <td></td>
+  <td><span class="verse verse-v3">Peres was father of</span></td>
+  <td><span class="verse verse-v3">Hezron, father of</span></td>
 </tr>
 <tr>
-  <td>Ram, <strong><sup>4</sup></strong>father of</td>
-  <td>Amminadab, father of</td>
-  <td>Nahshon, father of</td>
+  <td><span class="verse verse-v3">Ram, </span><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup>father of</span></td>
+  <td><span class="verse verse-v4">Amminadab, father of</span></td>
+  <td><span class="verse verse-v4">Nahshon, father of</span></td>
 </tr>
 <tr>
-  <td>Salmon, <strong><sup>5</sup></strong>father of</td>
-  <td>Boaz by Rahab;</td>
-  <td>&nbsp;</td>
+  <td><span class="verse verse-v4">Salmon, </span><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup>father of</span></td>
+  <td><span class="verse verse-v5">Boaz by Rahab;</span></td>
+  <td></td>
 </tr>
 <tr>
-  <td>    Boaz was father of</td>
-  <td>Obed by Ruth; </td>
-  <td>&nbsp;</td>
+  <td></td>
+  <td><span class="verse verse-v5">Boaz was father of</span></td>
+  <td><span class="verse verse-v5">Obed by Ruth;</span></td>
 </tr>
 <tr>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-  <td>    Obed was father of</td>
+  <td></td>
+  <td></td>
+  <td><span class="verse verse-v5">Obed was father of</span></td>
 </tr>
 <tr>
-  <td>Jesse, <strong><sup>6</sup></strong>father of</td>
-  <td>David the king.</td>
-  <td>&nbsp;</td>
+  <td><span class="verse verse-v5">Jesse, </span><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup>father of</span></td>
+  <td><span class="verse verse-v6">David the king.</span></td>
+  <td></td>
+</tr>
+<tr class="spacer-row"><td colspan="3"></td></tr>
+<tr>
+  <td><span class="verse verse-v6">David was father of</span></td>
+  <td></td>
+  <td></td>
 </tr>
 <tr>
-  <td>David was father of</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
+  <td><span class="verse verse-v6">Solomon by his wife, who</span></td>
+  <td></td>
+  <td></td>
 </tr>
 <tr>
-  <td>Solomon by his wife, who</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
+  <td><span class="verse verse-v6">had been Uriah’s wife.</span></td>
+  <td><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup>Solomon was father of</span></td>
+  <td><span class="verse verse-v7">Rehoboam, father of</span></td>
 </tr>
 <tr>
-  <td>    had been Uriah’s wife.<strong><sup> </sup></strong></td>
-  <td><strong><sup>7</sup></strong>Solomon was father of</td>
-  <td>Rehoboam, father of</td>
+  <td><span class="verse verse-v7">Abijah, father of</span></td>
+  <td><span class="verse verse-v7">Asaph, </span><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup>father of</span></td>
+  <td><span class="verse verse-v8">Jehoshaphat, father of</span></td>
 </tr>
 <tr>
-  <td>Abijah, father of </td>
-  <td>Asaph, <strong><sup>8</sup></strong>father of</td>
-  <td>Jehoshaphat, father of</td>
+  <td><span class="verse verse-v8">Joram, father of</span></td>
+  <td><span class="verse verse-v8">Uzziah, </span><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup>father of</span></td>
+  <td><span class="verse verse-v9">Jotham, father of</span></td>
 </tr>
 <tr>
-  <td>Joram, father of</td>
-  <td>Uzziah, <strong><sup>9</sup></strong>father of</td>
-  <td>Jotham, father of</td>
+  <td><span class="verse verse-v9">Ahaz, father of</span></td>
+  <td><span class="verse verse-v9">Hezekiah, </span><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup>father of</span></td>
+  <td><span class="verse verse-v10">Manasseh, father of</span></td>
 </tr>
 <tr>
-  <td>Ahaz, father of</td>
-  <td>Hezekiah, <strong><sup>10</sup></strong>father of</td>
-  <td>Manasseh, father of</td>
+  <td><span class="verse verse-v10">Amos, father of</span></td>
+  <td><span class="verse verse-v10">Josiah, </span><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup>father of</span></td>
+  <td><span class="verse verse-v11">Jechoniah and his brothers</span></td>
 </tr>
 <tr>
-  <td>Amos, father of</td>
-  <td>Josiah, <strong><sup>11</sup></strong>father of</td>
-  <td>Jechoniah and his brothers </td>
+  <td></td>
+  <td></td>
+  <td><span class="verse verse-v11">at the exile to Babylon.</span></td>
+</tr>
+<tr class="spacer-row"><td colspan="3"></td></tr>
+<tr>
+  <td><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup>After the exile,</span></td>
+  <td></td>
+  <td></td>
 </tr>
 <tr>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-  <td>    at the exile to Babylon.</td>
+  <td><span class="verse verse-v12">Jechoniah was father of</span></td>
+  <td><span class="verse verse-v12">Shealtiel, father of</span></td>
+  <td><span class="verse verse-v12">Zerubbabel, </span><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup>father of</span></td>
 </tr>
 <tr>
-  <td><strong><sup>12</sup></strong>After the exile,</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
+  <td><span class="verse verse-v13">Abiud, father of</span></td>
+  <td><span class="verse verse-v13">Eliakim, father of</span></td>
+  <td><span class="verse verse-v13">Azor, </span><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup>father of</span></td>
 </tr>
 <tr>
-  <td>Jechoniah was father of </td>
-  <td>Shealtiel, father of</td>
-  <td>Zerubbabel, <strong><sup>13</sup></strong>father of</td>
+  <td><span class="verse verse-v14">Zadok, father of</span></td>
+  <td><span class="verse verse-v14">Achim, father of</span></td>
+  <td><span class="verse verse-v14">Eliud, </span><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup>father of</span></td>
 </tr>
 <tr>
-  <td>Abiud, father of</td>
-  <td>Eliakim, father of</td>
-  <td>Azor, <strong><sup>14</sup></strong>father of</td>
+  <td><span class="verse verse-v15">Eleazar, father of</span></td>
+  <td><span class="verse verse-v15">Matthan, father of</span></td>
+  <td><span class="verse verse-v15">Jacob, </span><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup>father of Joseph</span></td>
 </tr>
 <tr>
-  <td>Zadok, father of</td>
-  <td>Achim, father of</td>
-  <td>Eliud, <strong><sup>15</sup></strong>father of</td>
+  <td></td>
+  <td></td>
+  <td><span class="verse verse-v16">husband of Mary,</span></td>
 </tr>
 <tr>
-  <td>Eleazar, father of</td>
-  <td>Matthan, father of</td>
-  <td>Jacob, <strong><sup>16</sup></strong>father of Joseph</td>
+  <td></td>
+  <td></td>
+  <td><span class="verse verse-v16">who gave birth to Jesus,</span></td>
 </tr>
 <tr>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-  <td>    husband of Mary,</td>
-</tr>
-<tr>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-  <td>    who gave birth to Jesus,</td>
-</tr>
-<tr>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-  <td>    called Messiah.</td>
+  <td></td>
+  <td></td>
+  <td><span class="verse verse-v16">called Messiah.</span></td>
 </tr>
 </tbody>
 </table>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> There are 14 generations from Abraham to David,</span>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> This is how the birth of Jesus the Messiah took place. His mother Mary was engaged to Joseph. Before they got married, it was discovered that she was pregnant (by the Holy Spirit). <strong><sup>19</sup></strong>Joseph, her husband, was a just man and not willing to disgrace her publicly, so he intended to break off the engagement privately. <strong><sup>20</sup></strong>As he was struggling with the matter, an angel of the LORD appeared in a dream, <em>“</em><em>Joseph</em><em> son of David, don’</em><em>t have qualms about marrying her. She’</em><em>s </em><em>pregnant</em><em> by the Holy Spirit.</em><em> </em><strong><sup>21</sup></strong><em>She’ll</em><em> have a son</em><em> you’re to name</em><em> </em>Jesus<em>, because he’ll </em><em>‘</em><em>save</em><em>’</em><em> his people from their sins.”</em><em> </em><strong><sup>22</sup></strong>That fulfilled what the LORD had said by the prophet Isaiah,</span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>There are 14 generations from Abraham to David, </span></span></p>
 
-<span class="verse" id="v23"><sup class="verse-num">23</sup> <strong><em>“A</em></strong><strong><em> virgin will have a son</em></strong><strong><em> </em></strong> <strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	they’ll call </em></strong><strong>Emmanuel</strong><strong><em> </em></strong><strong><em>(‘</em></strong><strong><em>God with us</em></strong><strong><em>’</em></strong><strong><em>)</em></strong><strong><em>”</em></strong><strong> </strong><strong>[Is</strong><strong> 7:14]</strong>.</span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>14 from David to the exile in Babylon, and </span></p>
 
-<span class="verse" id="v24"><sup class="verse-num">24</sup> Joseph got up and did what the angel said, <strong><sup>25</sup></strong>but didn’t have relations with her till she had a son; he named him Jesus.</span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>14 from the exile to Messiah.                                                                                               </span></p>
+
+<p class="section-ref">Mt 1:1-17</p>
+
+
+### Jesus’ Birth Announced to Joseph
+
+
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This is how the birth of Jesus the Messiah took place. His mother Mary was engaged to Joseph. Before they got married, it was discovered that she was pregnant (by the Holy Spirit). </span></span>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Joseph, her husband, was a just man and not willing to disgrace her publicly, so he intended to break off the engagement privately. </span></span>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As he was struggling with the matter, an angel of the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> appeared in a dream, <i>“Joseph son of David, don’t have qualms about marrying her. She’s pregnant by the Holy Spirit. </i></span></span>
+<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She’ll have a son you’re to name </span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>Jesus<i>, because he’ll ‘save’ his people from their sins.” </i></span></span>
+<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That fulfilled what the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> had said by the prophet Isaiah,</span></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“A virgin will have a son </span></i></b></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    they’ll call </span></i></b><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>Emmanuel<i> (‘</i></span></b><b><i><span style='font-family:"Times New Roman",serif'>God with us’</span></i></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>)”</span></i></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Is 7:14]</span></b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>.</span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Joseph got up and did what the angel said, </span></span>
+<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>but didn’t have relations with her till she had a son; he named him Jesus.
+                                                                          </span></span></p>
+
 <p class="section-ref">Mt 1:18-25</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
-</style>
-
-
-<style>
-.genealogy-table { margin: 1.5rem 0 2rem 0; overflow-x: auto; width: 100%; border-collapse: collapse; font-size: 1.05rem; line-height: 1.5; }
-.genealogy-table td { padding: 0.3rem 0.5rem; vertical-align: top; }
-.genealogy-table sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.8em; margin-right: 0.15em; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

@@ -1,54 +1,137 @@
 ---
 book: Amos
 chapter: 4
-next: chapter-05
-prev: chapter-03
 title: Amos 4
 translation: CNT
 type: chapter
 weight: 4
+prev: chapter-03
+next: chapter-05
 ---
 
 ## Amos Chapter 4
 
+
 ### Israel Does Not Learn
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Listen to this, you cows of Bashan living in Samaria, <em>you women </em>that oppress the poor and crush the needy, that tell their husbands, <em>“Bring </em><em>the wine so we can </em><em>get drunk</em><em>!”</em></span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> The Lord GOD has sworn by his holiness, <em>“The time’s coming when they’ll take you away with meat hooks,</em> <em>	</em><em>	</em><em>	the last of you </em><em>like</em><em> fish on</em><em> hooks.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Listen to this, you cows of Bashan living in Samaria, </span></span></p>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> <em>You’ll</em><em> leave through the breaches in the walls,</em> <em>	</em><em>	each one straight ahead.</em> <em>	</em><em>	You’ll be thrown out into Harmon/</em>Mt. Hermon<em>.</em><em>”</span>
-<p class="section-ref">Amos 4:1-3</p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      <i>you women
+</i>that oppress the poor and crush the needy, </span></p>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> <em>“</em><em>Go</em><em> </em>sacrifice at<em> Bethel and </em><em>sin;</em> <em>	</em><em>	multiply your </em><em>disobedience</em><em> in Gilgal!</em> <em>	</em><em>Bring your sacrifices every morning,</em> <em>	</em><em>	your tithe</em><em>s every three days.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      that tell their husbands, <i>“Bring the wine so we can get drunk!”</i></span></p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>Offer</em><em> a thank offering </em><em>with yeast in </em><em>it</em><em>;</em> <em>	</em><em>	declare</em><em> freewill offerings</em><em> and brag about</em><em> it.</em> <em>	</em><em>That’s what you</em><em> like to do, you people in Israel.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Lord G</span><span style='font-size:8.0pt;line-height:115%;font-family:"Times New Roman",serif'>OD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> has sworn by his holiness,</span></span></p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>“I</em><em> </em><em>brought</em><em> </em><em>hunger</em><em> </em><em>to</em><em> all your </em><em>towns</em><em>,</em> <em>	</em><em>	</em><em>	clean teeth everywhere you </em><em>live</em><em>;</em> 	<em>	</em><em>	</em><strong><em>yet you haven’t come back to me.</em></strong><strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <i>“The time’s coming when they’ll take you away with meat hooks,</i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  the last of you like fish on hooks.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         3</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’ll leave through the breaches in the walls,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            each one straight ahead.</span></i></p>
+
+
+### You’ll be thrown out into Harmon/Mt. Hermon.”     Amos 4:1-3
+
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         4</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Go
+</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>sacrifice at<i> Bethel and sin;</i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            multiply your disobedience in Gilgal!</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Bring your sacrifices every morning,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            your tithes every three days.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         5</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Offer a thank offering with yeast in it;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            declare freewill offerings and brag about it.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      That’s what you like to do, you people in Israel.</span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         6</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I brought hunger to all your towns,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  clean teeth everywhere you live;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <b>yet you haven’t come back to me.</b></span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></b></span></p>
+
 <p class="section-ref">Amos 4:4-6</p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>“I</em><em> </em><em>kept it from raining </em> <em>	</em><em>	w</em><em>h</em><em>en it was</em><em> still three months till harvest.</em> <em>	</em><em>Then I’</em><em>d let it</em><em> rain on one city</em> <em>	</em><em>	a</em><em>nd </em><em>not</em><em> </em><em>on another.</em> <em>	One place</em><em> would get </em><em>rain;</em> <em>	</em><em>	</em><em>the </em><em>place</em><em> that didn’t</em><em>,</em><em> would dry up.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         7</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I kept it from raining </span></i></p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>So</em><em> two or three </em><em>towns would stagger to another</em><em> to get a drink,</em> <em>	</em><em>	b</em><em>ut they wouldn’t </em><em>get </em><em>enough</em><em>;</em> 	<em>	</em><em>	</em><strong><em>yet you haven’t come back to me.</em></strong><strong> </strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            when it was still three months till harvest.</span></i></p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>“I</em><em> st</em><em>ruck you with blight and mildew,</em> <em>	</em><em>	and</em><em> laid waste your </em><em>orchards</em><em> and vineyards.</em> <em>	</em><em>The locusts ate your fig trees and </em><em>olives;</em> 	<em>	</em><em>	</em><strong><em>yet you haven’t come back to me.”</em></strong><strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Then I’d let it rain on one city</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and not on another.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      One place would get rain;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            the place that didn’t, would dry up.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         8</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So two or three towns would stagger to another to get a drink,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            but they wouldn’t get enough;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <b>yet you haven’t come back to me.</b></span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></b></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         9</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I struck you with blight and mildew,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and laid waste your orchards and vineyards.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      The locusts ate your fig trees and olives;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <b>yet you haven’t come back to me.”</b></span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                          </span></p>
+
 <p class="section-ref">Amos 4:7-9</p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>“I</em><em> sent a plague among you like I did in </em><em>Egypt;</em> <em>	</em><em>	</em><em>I killed your young men with the sword</em> <em>	</em><em>	</em><em>	</em><em>along with your captured horses.</em> <em>	</em><em>I made the s</em><em>tench</em><em> in your camp fill your </em><em>nostrils;</em> 	<em>	</em><em>	</em><strong><em>yet you haven’t come back to me.</em></strong><strong> </strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         10</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I sent a plague among you like I did in Egypt;</span></i></p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> <em>“I</em><em> overthrew you like </em><em>I</em><em> overthrew Sodom and </em><em>Gomorrah;</em> <em>	</em><em>	y</em><em>ou</em><em>r </em>survivors<em> were like </em><em>charred</em><em> </em><em>stakes snatched from</em><em> </em><em>the</em><em> </em><em>fire;</em> 	<em>	</em><em>	</em><strong><em>yet you haven’t come back to me.</em></strong><strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            I killed your young men with the sword</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  along with your captured horses.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      I made the stench in your camp fill your nostrils;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <b>yet you haven’t come back to me.</b></span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></b></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         11</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I overthrew you like I overthrew Sodom and Gomorrah;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            your
+</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>survivors<i> were like charred stakes snatched from the fire;</i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <b>yet you haven’t come back to me.</b></span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                            </span></p>
+
 <p class="section-ref">Amos 4:10-11</p>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> <em>“Because</em><em> I’m going to do this to you, Israel,</em> <em>	</em><em>	</em><em>prepare to meet you</em><em>r</em><em> God.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         12</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Because I’m going to do this to you, Israel,</span></i></p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> The One that builds mountains and creates wind, reveals to people what he’s thinking, the One that turns dawn into darkness and walks on mountaintops— the LORD God of Hosts.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            prepare to meet your God.”</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The One that builds mountains and creates wind,</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            reveals to people what he’s thinking,</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      the One that turns dawn into darkness</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and walks on mountaintops—</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> God of Hosts.</span></p>
+
 <p class="section-ref">Amos 4:12-13</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

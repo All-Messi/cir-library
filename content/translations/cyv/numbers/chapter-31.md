@@ -1,62 +1,112 @@
 ---
 book: Numbers
 chapter: 31
-next: chapter-32
-prev: chapter-30
 title: Numbers 31
 translation: CYV
 type: chapter
 weight: 31
+prev: chapter-30
+next: chapter-32
 ---
 
 ## Numbers Chapter 31
 
+
 ### Conquest of the Midianites
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Yahveh told Moses, <strong><sup>2</sup></strong><em>“Take</em><em> revenge for Israel </em><em>on</em><em> the Midianites.</em><em> </em><em>Afterward you’ll </em><em>pass on</em><em> to your people.”</em></span>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> Moses told the people, “<em>Arm men to attack Midian and carry out </em><em>Yahveh</em><em>’s revenge on </em><em>it</em><em>.</em><em> </em><strong><sup>4</sup></strong><em>Send</em><em> </em><em>1,000</em><em> men from each tribe.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:4.5pt;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh told Moses, </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Take revenge for Israel on the Midianites. Afterward you’ll pass on to your people.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></span></p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> They provided 12,000 men. <strong><sup>6</sup></strong>Moses sent them to war with Phinehas Ben-Eleazar the priest along with the holy items from the sanctuary and bugles for signaling. <strong><sup>7</sup></strong>They fought Midian and killed every male, <strong><sup>8</sup></strong>including its five kings: Evi, Rekem, Zur, Hur, Reba. They also killed Balaam Ben-Beor with a sword. <strong><sup>9</sup></strong>They took the women and children, their cattle, flocks, and possessions. <strong><sup>10</sup></strong>They burned their towns, houses, and camps; <strong><sup>11</sup></strong>and took the spoil—people and animals. <strong><sup>12</sup></strong>They brought the captives, prey, and spoil to Moses, Eleazar, and the community on the plains of Moab across the Jordan from Jericho.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:4.5pt;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses told the people, “<i>Arm men to attack Midian and carry out Yahveh’s revenge on it. </i></span></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Send 1,000 men from each tribe.”</span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:4.5pt;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They provided 12,000 men. </span></span>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses sent them to war with Phinehas Ben-Eleazar the priest along with the holy items from the sanctuary and bugles for signaling. </span></span>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They fought Midian and killed every male, </span></span>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>including its five kings: Evi, Rekem, Zur, Hur, Reba. They also killed Balaam Ben-Beor with a sword. </span></span>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They took the women and children, their cattle, flocks, and possessions. </span></span>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They burned their towns, houses, and camps; </span></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and took the spoil—people and animals. </span></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They brought the captives, prey, and spoil to Moses, Eleazar, and the community on the plains of Moab across the Jordan from Jericho.
+</span></span></p>
+
 <p class="section-ref">Num 31:1-12</p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> Moses, Eleazar, and the leaders of the community met them outside the camp. <strong><sup>14</sup></strong>Moses was mad at the officers of the army and the commanders of thousands and hundreds.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:4.5pt;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses, Eleazar, and the leaders of the community met them outside the camp. </span></span>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses was mad at the officers of the army and the commanders of thousands and hundreds. </span></span></p>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> <em>“You’ve</em><em> saved the women alive?</em><em> </em><strong><sup>16</sup></strong><em>They’re</em><em> what </em><em>got</em><em> Israel </em><em>to </em><em>sin against </em><em>Yahveh</em><em> at Peor, and a plague came into the </em><em>community</em><em> </em><em>by Balaam’s </em><em>advice</em><em>.</em><em> </em><strong><sup>17</sup></strong><em>So</em><em> kill every male </em><em>child and every woman that has had intercourse with a man</em><em>.</em><em> </em><strong><sup>18</sup></strong><em>Keep</em><em> alive for yourselves</em><em> the young girls that are virgins</em><em>.</em><em> </em><strong><sup>19</sup></strong><em>Camp</em><em> outside the camp for </em><em>a week</em><em>.</em><em> </em><em>Whoever has killed anybody or touched</em><em> a slain body, purify yourself</em><em> on the third day and seventh day, you and your captives.</em><em> </em><strong><sup>20</sup></strong><em>Purify</em><em> every piece of clothing, an</em><em>ything </em><em>made out of</em><em> skin, goat hair, </em><em>or</em><em> wood.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“You’ve saved the women alive? </span></i></span>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’re what got Israel to sin against Yahveh at Peor, and a plague came into the community by Balaam’s advice. </span></i></span>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So kill every male child and every woman that has had intercourse with a man. </span></i></span>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Keep alive for yourselves the young girls that are virgins. </span></i></span>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Camp outside the camp for a week. Whoever has killed anybody or touched a slain body, purify yourself on the third day and seventh day, you and your captives. </span></i></span>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Purify every piece of clothing, anything made out of skin, goat hair, or wood.”</span></i></span></p>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> Eleazar told the men that fought, <em>“</em><em>Yahveh</em><em> commanded</em> <em>Moses</em><em> </em><em>t</em><em>his statute.</em> <strong><sup>22</sup></strong><em>‘The</em><em> gold, silver, brass, iron, tin, and lead—</em><strong><sup>23</sup></strong><em>anything</em><em> that does</em><em>n’t burn—put through fire </em><em>to cleanse it;</em><em> then purify it with water.</em><em> </em><em>Anything that </em><em>will </em><em>burn</em><em>,</em><em> purify with water.</em><em> </em><strong><sup>24</sup></strong><em>Wash</em><em> your</em><em> </em><em>clothes</em><em> the seventh day. You’ll be ceremonially clean then,</em><em> and you can come in</em><em>to</em><em> the camp.”</span>
-<p class="section-ref">Num 31:13-24</p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Eleazar told the men that fought, </span></span></p>
 
-<span class="verse" id="v25"><sup class="verse-num">25</sup> Yahveh told Moses,</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Yahveh commanded</span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> <i>Moses this statute.</i> </span><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘The gold, silver, brass, iron, tin, and lead—</span></i></span>
+<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>anything that doesn’t burn—put through fire to cleanse it; then purify it with water. Anything that will burn, purify with water. </span></i></span>
+<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Wash your clothes the seventh day. You’ll be ceremonially clean then, and you can come into the camp.” </span></i><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'>Num 31:13-24</span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
+</span></i></span></p>
 
-<span class="verse" id="v26"><sup class="verse-num">26</sup> <em>“</em><em>You</em><em>, Eleazar, and heads of families,</em><em> count the spoil—</em><em>people</em><em> and animal</em><em>s</em><em>—</em><strong><sup>27</sup></strong><em>and</em><em> divide it between soldier</em><em>s and </em><em>community</em><em>.</em><em> </em><strong><sup>28</sup></strong><em>Levy</em><em> a tax for </em><em>Yahveh</em><em> from the </em><em>soldier</em><em>s</em><em>’ spoil</em><em>:</em><em> 1</em><em> per</em><em> 500</em><em> person</em><em>s</em><em>, cattle, donkeys, and sheep.</em><em> </em><strong><sup>29</sup></strong><em>Give this </em><em>share</em><em> to Eleazar as a </em><em>heave</em><em> offering to </em><em>Yahveh</em><em>.</em><em> </em><strong><sup>30</sup></strong><em>From</em><em> Israel’s half, take </em><em>1</em><em> from every </em><em>50</em><em> person</em><em>s</em><em>, cattle, donkeys, and sheep, and give them to the Levites that take care of the </em><em>Tabernacle</em><em>.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:4.5pt;'><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh told Moses, </span></span></p>
 
-<span class="verse" id="v31"><sup class="verse-num">31</sup> Moses and Eleazar did that.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“You, Eleazar, and heads of families, count the spoil—people and animals—</span></i></span>
+<span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and divide it between soldiers and community. </span></i></span>
+<span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Levy a tax for Yahveh from the soldiers’ spoil: 1 per 500 persons, cattle, donkeys, and sheep. </span></i></span>
+<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Give this share to Eleazar as a heave offering to Yahveh. </span></i></span>
+<span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>From Israel’s half, take 1 from every 50 persons, cattle, donkeys, and sheep, and give them to the Levites that take care of the Tabernacle.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span></p>
 
-<span class="verse" id="v32"><sup class="verse-num">32</sup> The prey that was left from the soldiers’ spoil was 675,000 sheep, <strong><sup>33</sup></strong>72,000 cattle, <strong><sup>34</sup></strong>61,000 donkeys, <strong><sup>35</sup></strong>32,000 virgins.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:4.5pt;'><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses and Eleazar did that.</span></span></p>
 
-<span class="verse" id="v36"><sup class="verse-num">36</sup> The soldiers’ half was 337,500 sheep; <strong><sup>37</sup></strong>Yahveh’s levy, 675.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The prey that was left from the soldiers’ spoil was 675,000 sheep, </span></span>
+<span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>72,000 cattle, </span></span>
+<span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>61,000 donkeys, </span></span>
+<span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>32,000 virgins. </span></span></p>
 
-<span class="verse" id="v38"><sup class="verse-num">38</sup> There were 36,000 cattle; Yahveh’s levy, 72.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:4.5pt;'><span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The soldiers’ half was 337,500 sheep; </span></span>
+<span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh’s levy, 675. </span></span></p>
 
-<span class="verse" id="v39"><sup class="verse-num">39</sup> There were 30,500 donkeys; Yahveh’s levy, 61.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:4.5pt;'><span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>There were 36,000 cattle; Yahveh’s levy, 72. </span></span></p>
 
-<span class="verse" id="v40"><sup class="verse-num">40</sup> There were 16,000 persons; Yahveh’s levy, 32.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:4.5pt;'><span class="verse verse-v39" id="v39"><sup class="verse-num">39</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>There were 30,500 donkeys; Yahveh’s levy, 61. </span></span></p>
 
-<span class="verse" id="v41"><sup class="verse-num">41</sup> Moses gave Yahveh’s levy to Eleazar the priest.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:4.5pt;'><span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>There were 16,000 persons; Yahveh’s levy, 32. </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:4.5pt;'><span class="verse verse-v41" id="v41"><sup class="verse-num">41</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses gave Yahveh’s levy to Eleazar the priest.                                            </span></span></p>
+
 <p class="section-ref">Num 31:25-41</p>
 
-<span class="verse" id="v42"><sup class="verse-num">42</sup> Israel’s half was <strong><sup>43</sup></strong>337,500 sheep, <strong><sup>44</sup></strong>36,000 cattle, <strong><sup>45</sup></strong>30,500 donkeys, <strong><sup>46</sup></strong>and 16,000 persons. <strong><sup>47</sup></strong>From Israel’s half Moses took out one from every 50 people and animals, and gave them to the Levites that take care of the Tabernacle.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:4.5pt;'><span class="verse verse-v42" id="v42"><sup class="verse-num">42</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel’s half was </span></span>
+<span class="verse verse-v43" id="v43"><sup class="verse-num">43</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>337,500 sheep, </span></span>
+<span class="verse verse-v44" id="v44"><sup class="verse-num">44</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>36,000 cattle, </span></span>
+<span class="verse verse-v45" id="v45"><sup class="verse-num">45</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>30,500 donkeys, </span></span>
+<span class="verse verse-v46" id="v46"><sup class="verse-num">46</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and 16,000 persons. </span></span>
+<span class="verse verse-v47" id="v47"><sup class="verse-num">47</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>From Israel’s half Moses took out one from every 50 people and animals, and gave them to the Levites that take care of the Tabernacle.</span></span></p>
 
-<span class="verse" id="v48"><sup class="verse-num">48</sup> The commanders of thousands and hundreds came to Moses,</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:4.5pt;'><span class="verse verse-v48" id="v48"><sup class="verse-num">48</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The commanders of thousands and hundreds came to Moses, </span></span></p>
 
-<span class="verse" id="v49"><sup class="verse-num">49</sup> <em>“We’ve</em><em> </em><em>counted</em><em> the men who fought and not a one is missing.</em><em> </em><strong><sup>50</sup></strong><em>So</em><em>,</em><em> </em><em>from w</em><em>hat each man found</em><em>,</em><em> we’ve brought an offering to </em><em>Yahveh: </em><em>articles of gold, armlets, bracelets, signet rings, earrings, and neck</em><em> chain</em><em>s to </em><em>atone</em><em> for ourselves.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v49" id="v49"><sup class="verse-num">49</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“We’ve counted the men who fought and not a one is missing. </span></i></span>
+<span class="verse verse-v50" id="v50"><sup class="verse-num">50</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So, from what each man found, we’ve brought an offering to Yahveh: articles of gold, armlets, bracelets, signet rings, earrings, and neck chains to atone for ourselves.”</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:4.5pt;'><span class="verse verse-v51" id="v51"><sup class="verse-num">51</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses and Eleazar took the gold and crafted articles, </span><a name="_Hlk145107618"></span>
+<span class="verse verse-v52" id="v52"><sup class="verse-num">52</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>418¾ lbs <sup>16,750 shekels</sup> worth</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>. </span></span>
+<span class="verse verse-v53" id="v53"><sup class="verse-num">53</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Each soldier had taken spoil. </span></span>
+<span class="verse verse-v54" id="v54"><sup class="verse-num">54</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses and Eleazar brought the commanders’ gold to the Tent of Meeting as a memorial to Israel before Yahveh.    </span></span></p>
+
+<p class="section-ref">Num 31:42-54</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

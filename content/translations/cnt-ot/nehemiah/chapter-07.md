@@ -1,114 +1,218 @@
 ---
 book: Nehemiah
 chapter: 7
-next: chapter-08
-prev: chapter-06
 title: Nehemiah 7
 translation: CNT
 type: chapter
 weight: 7
+prev: chapter-06
+next: chapter-08
 ---
 
 ## Nehemiah Chapter 7
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> The wall had been rebuilt, and I’d set up the doors and appointed gatekeepers, singers, and Levites. <strong><sup>2</sup></strong>I put Hanani my brother—along with Hananiah commander of the fortress—in charge of Jerusalem because he was a reliable man that respected God more than most. <strong><sup>3</sup></strong>I told them, <em>“Don’t open the gates till the sun is hot</em><em>. W</em><em>hile they’re standing guard, shut and bolt the doors.</em><em> </em><em>Appoint guards from the </em><em>people that live inside</em><em> Jerusalem, each at his post </em><em>by</em><em> </em><em>his own house.” </em></span>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> The city was big and open, but there weren’t many people in it, and houses hadn’t been built.</span>
+### The Walls Are Finished
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> Then God put it in my heart to gather the nobles, the officials, and the people to be enrolled by genealogies. I found the scroll with the genealogies for the ones that came up first; it read as follows:</span>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>The wall had been rebuilt, and I’d set up the doors and appointed gatekeepers, singers, and Levites. </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I put Hanani my brother—along with Hananiah commander of the fortress—in charge of Jerusalem <a name="_Hlk146040578">because he was a reliable man that respected God more than most. </a></span></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I told them, </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t open the gates till the sun is hot. While they’re standing guard, shut and bolt the doors. Appoint guards from the people that live inside Jerusalem, each at his post by his own house.” </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The city was big and open, but there weren’t many people in it, and houses hadn’t been built. </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then God put it in my heart to gather the nobles, the officials, and the people to be enrolled by genealogies. I found the scroll with the genealogies for the ones that came up first; it read as follows:<b>
+</b></span></span></p>
+
 <p class="section-ref">Neh 7:1-5</p>
+
 
 ### Lists of Returning Exiles
 
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> the family of Parosh		2,172</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v6" id="v6"><sup class="verse-num">6-7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the number of Israelites that came back to Jerusalem and Judah<span style='color:#C00000'> </span>with Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum, and Baanah:</span></span></p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> the family of Shephatiah 			372</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    8</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the family of Parosh                 2,172</span></p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> the family of Arah	652</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    9</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the family of Shephatiah                               372</span></p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> the family of Pahath-moab (descendants of Jeshua and Joab)	2,818</span>
-<p class="section-ref">Neh 7:6-11</p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    10</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the family of Arah                     652</span></p>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> the family of Elam 	1,254</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    11</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the family of Pahath-moab </span></p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> the family of Zattu 	845</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                              (descendants of Jeshua and </span></p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> the family of Zaccai	760</span>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> the family of Binnui 	648</span>
+### Joab)                                    2,818
+Neh 7:6-11
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> the family of Bebai 	628</span>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> the family of Azgad 			2,322</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    12</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the family of Elam                  1,254</span></p>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> the family of Adonikam 		667</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    13</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the family of Zattu                     845</span></p>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> the family of Bigvai 			2,067</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    14</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the family of Zaccai                   760</span></p>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> the family of Adin			655</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    15</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the family of Binnui                  648</span></p>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> the family of Ater (descendants of Hezekiah) 	98</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    16</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the family of Bebai                    628</span></p>
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> the family of Hashum,			328</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    17</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the family of Azgad                2,322</span></p>
 
-<span class="verse" id="v23"><sup class="verse-num">23</sup> the family of Bezai 				324</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    18</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the family of Adonikam            667</span></p>
 
-<span class="verse" id="v24"><sup class="verse-num">24</sup> the family of Hariph 			112</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    19</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the family of Bigvai                2,067</span></p>
 
-<span class="verse" id="v25"><sup class="verse-num">25</sup> the family of Gibeon 			95</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    20</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the family of Adin                     655</span></p>
 
-<span class="verse" id="v26"><sup class="verse-num">26</sup> the people from Bethlehem and Netophah	 			188</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    21</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the family of Ater </span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                              (descendants of Hezekiah)        98</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    22</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the family of Hashum,               328</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    23</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the family of Bezai                    324</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    24</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the family of Hariph                  112</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    25</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the family of Gibeon                    95</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    26</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the people from Bethlehem </span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                              and Netophah                          188
+</span></p>
+
 <p class="section-ref">Neh 7:12-26</p>
 
-<span class="verse" id="v27"><sup class="verse-num">27</sup> the people from Anathoth 	128</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    27</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the people from Anathoth          128</span></p>
 
-<span class="verse" id="v28"><sup class="verse-num">28</sup> the people from Beth-azmaveth 	42</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    28</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the people from Beth-azmaveth  42</span></p>
 
-<span class="verse" id="v29"><sup class="verse-num">29</sup> the people from Kiriath-jearim, Chephirah, and Beeroth		743</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    29</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the people from Kiriath-jearim, </span></p>
 
-<span class="verse" id="v30"><sup class="verse-num">30</sup> the people from Rama and Geba 				621</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                              Chephirah, and Beeroth          743</span></p>
 
-<span class="verse" id="v31"><sup class="verse-num">31</sup> the people from Michmas 		122</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    30</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the people from Rama and </span></p>
 
-<span class="verse" id="v32"><sup class="verse-num">32</sup> the people from Bethel and Ai 	123</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                              Geba                                        621</span></p>
 
-<span class="verse" id="v33"><sup class="verse-num">33</sup> the people from the other Nebo	 52</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    31</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the people from Michmas          122</span></p>
 
-<span class="verse" id="v34"><sup class="verse-num">34</sup> the people from the other Elam 			1,254</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    32</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the people from Bethel and Ai  123</span></p>
 
-<span class="verse" id="v35"><sup class="verse-num">35</sup> the people from Harim 			320</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    33</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the people from the other Nebo   52</span></p>
 
-<span class="verse" id="v36"><sup class="verse-num">36</sup> the people from Jericho 			345</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    34</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the people from the other </span></p>
 
-<span class="verse" id="v37"><sup class="verse-num">37</sup> the people from Lod, Hadid, And Ono				721</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                              Elam                                     1,254</span></p>
 
-<span class="verse" id="v38"><sup class="verse-num">38</sup> the people from Senaah 		3,930</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    35</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the people from Harim              320</span></p>
 
-<span class="verse" id="v39"><sup class="verse-num">39</sup> <u>the</u><u> priests</u> the family of Jehaiah (through Jeshua)  			973</span>
-<p class="section-ref">Neh 7:27-39</p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    36</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the people from Jericho             345</span></p>
 
-<span class="verse" id="v40"><sup class="verse-num">40</sup> the family of Immer			1,052</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    37</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the people from Lod, Hadid, </span></p>
 
-<span class="verse" id="v41"><sup class="verse-num">41</sup> the family of Passhur		1,247</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                              And Ono                                 721</span></p>
 
-<span class="verse" id="v42"><sup class="verse-num">42</sup> the family of Harim			1,017</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    38</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> the people from Senaah         3,930</span></p>
 
-<span class="verse" id="v43"><sup class="verse-num">43</sup> <u>the</u><u> Levites</u> the families of Jeshua and Kadmiel (descendants of Hodevah) 	74</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    39</span></sup></b><u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the priests</span></u><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></p>
 
-<span class="verse" id="v44"><sup class="verse-num">44</sup> <u>the</u><u> singers</u>: the family of Asaph 	148</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                              the family of Jehaiah</span></p>
 
-<span class="verse" id="v45"><sup class="verse-num">45</sup> <u>the</u><u> gatekeepers</u>: the families of Shallum, Ater, Talmon, Akkub, Hatita, and Shobai 	138</span>
 
-<span class="verse" id="v46"><sup class="verse-num">46</sup> <u>the</u><u> </u><u>Temple</u><u> servants</u>: the descendants of Ziha, Hasupha, Tabbaoth, <strong><sup>47</sup></strong>Keros, Sia, Padon,</span>
+### (through Jeshua)               973
+Neh 7:27-39
 
-<span class="verse" id="v48"><sup class="verse-num">48</sup> Lebana, Hagaba, Shalmai, <strong><sup>49</sup></strong>Hanan, Giddel, Gahar, <strong><sup>50</sup></strong>Reaiah, Rezin, Nekoda, <strong><sup>51</sup></strong>Gazzam, Uzza, Paseah, <strong><sup>52</sup></strong>Besai, Meunim, Nephushesim, <strong><sup>53</sup></strong>Bakbuk, Hakupha, Harhur, <strong><sup>54</sup></strong>Bazlith, Mahida, Harsha, <strong><sup>55</sup></strong>Barkos, Sisera, Temah, <strong><sup>56</sup></strong>Neziah, and Hatipha.</span>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                             40</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the family of Immer          1,052</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                             41</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the family of Passhur        1,247</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                             42</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the family of Harim          1,017</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    43</span></sup></b><u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the Levites</span></u></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                              the families of Jeshua and Kadmiel </span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                              (descendants of Hodevah)        74</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    44</span></sup></b><u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the singers</span></u><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>: the family of Asaph  148</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    45</span></sup></b><u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the gatekeepers</span></u><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>: the families of </span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                              Shallum, Ater, Talmon, </span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                              Akkub, Hatita, and Shobai     138</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span class="verse verse-v46" id="v46"><sup class="verse-num">46</sup> <u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the Temple servants</span></u><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>: the descendants of Ziha, Hasupha, Tabbaoth, </span></span>
+<span class="verse verse-v47" id="v47"><sup class="verse-num">47</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Keros, Sia, Padon,
+</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span class="verse verse-v48" id="v48"><sup class="verse-num">48</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Lebana, Hagaba, Shalmai, </span></span>
+<span class="verse verse-v49" id="v49"><sup class="verse-num">49</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Hanan, Giddel, Gahar, </span></span>
+<span class="verse verse-v50" id="v50"><sup class="verse-num">50</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Reaiah, Rezin, Nekoda, </span></span>
+<span class="verse verse-v51" id="v51"><sup class="verse-num">51</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gazzam, Uzza, </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>Paseah, </span><span class="verse verse-v52" id="v52"><sup class="verse-num">52</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Besai, Meunim, Nephushesim, </span></span>
+<span class="verse verse-v53" id="v53"><sup class="verse-num">53</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Bakbuk, Hakupha, Harhur, </span></span>
+<span class="verse verse-v54" id="v54"><sup class="verse-num">54</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Bazlith, Mahida, </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>Harsha, </span><span class="verse verse-v55" id="v55"><sup class="verse-num">55</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Barkos, Sisera, Temah, </span></span>
+<span class="verse verse-v56" id="v56"><sup class="verse-num">56</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Neziah, and Hatipha.</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v57" id="v57"><sup class="verse-num">57</sup> <u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the sons of Solomon’s servants</span></u><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>: the descendants of Sotai, Sophereth, Perida, </span></span>
+<span class="verse verse-v58" id="v58"><sup class="verse-num">58</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jaala, Darkon, Giddel, </span></span>
+<span class="verse verse-v59" id="v59"><sup class="verse-num">59</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Shephatiah, Hattil, Pochereth-hazzebaim, and Amon. </span></span>
+<span class="verse verse-v60" id="v60"><sup class="verse-num">60</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>All the Temple servants and sons of Solomon’s servants <i>numbered</i>                                       392.<b>
+</b></span></span></p>
+
+<p class="section-ref">Neh 7:40-60</p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v61" id="v61"><sup class="verse-num">61</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>These were the ones that came up from Tel-melah, Tel-harsha, Cherub, Addon, and Immer; but <u>couldn’t show that their ancestors’ houses</u> or their descendants were from Israel: </span></span>
+<span class="verse verse-v62" id="v62"><sup class="verse-num">62</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the sons of Delaiah, Tobiah, and Nekoda,             642. </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span><span class="verse verse-v63" id="v63"><sup class="verse-num">63</sup> <u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>from the priests</span></u><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>: the families of Hobaiah, Hakkoz, Barzillai. (This Barzillai had married a daughter of Barzillai from Gileadite and took his name.) </span></span>
+<span class="verse verse-v64" id="v64"><sup class="verse-num">64</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They searched the genealogical records but couldn’t find their names. So they were considered unqualified <i>and excluded</i> from the priesthood. </span></span>
+<span class="verse verse-v65" id="v65"><sup class="verse-num">65</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The governor told them not to eat the priests’ portion of the sacrifices till a priest arose with Urim and Thummim.</span></span></p>
+
+
+### Totals of People and Gifts
+
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v66" id="v66"><sup class="verse-num">66</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The whole assembly <i>numbered</i>       42,360, </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v67" id="v67"><sup class="verse-num">67</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>plus the male and female servants   (7,337)            </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and male and female singers                 (245).</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v68" id="v68"><sup class="verse-num">68</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They had 736 horses, 245 mules, </span></span>
+<span class="verse verse-v69" id="v69"><sup class="verse-num">69</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>435 camels, and 6,720 donkeys.</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v70" id="v70"><sup class="verse-num">70</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The governor donated to the treasury 19 lbs <sup>1,000 drachmas</sup> of gold, 50 basins, and 530 priests’ vestments. </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v71" id="v71"><sup class="verse-num">71</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For the work, some leaders of families donated to the treasury 375 lbs <sup>20,000 darics</sup> of gold and 2,750 lbs <sup>2,200 minas </sup>of silver.                         </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v72" id="v72"><sup class="verse-num">72</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The rest of the people gave 375 lbs <sup>20,000 drachmas</sup> of gold, 2,500 lbs <sup>2,000 minas</sup> of silver, and 67 priests’ vestments. </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v73" id="v73"><sup class="verse-num">73</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The priests, Levites, gatekeepers, singers, some of the people, the Temple servants, and all Israel, lived in their towns.</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>By the <b>seventh month</b>, the Israelites were in their towns. <b>                                  </b></span></p>
+
+<p class="section-ref">Neh 7:61-73</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

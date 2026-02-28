@@ -1,42 +1,79 @@
 ---
 book: Exodus
 chapter: 7
-next: chapter-08
-prev: chapter-06
 title: Exodus 7
 translation: CYV
 type: chapter
 weight: 7
+prev: chapter-06
+next: chapter-08
 ---
 
 ## Exodus Chapter 7
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Yahveh told him, <em>“I’m making you like God to him, and y</em><em>our brother Aaron will be your prophet.</em><em> </em><strong><sup>2</sup></strong><em>S</em><em>ay </em><em>what</em><em> I </em><em>tell</em><em> you, and Aar</em><em>on will tell Pharaoh to let </em><em>Israel </em><em>leave</em><em> </em><em>his</em><em> </em><em>country</em><em>.</em><em> </em><strong><sup>3</sup></strong><em>But I’ll harden</em><em> </em><em>his</em><em> heart so I can multiply my signs and wonder</em><em>s</em><em>.</em><em> </em><strong><sup>4</sup></strong><em>When he won’t listen to you, I’ll lay my hand on Egypt and </em><em>take</em><em> out my people with </em><em>tremendous acts of</em><em> judgment.</em><em> </em><strong><sup>5</sup></strong><em><u>The Egyptians will know I’m </u></em><em><u>Yahveh</u></em><em>.”</em></span>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> Moses and Aaron did what he said. <strong><sup>7</sup></strong>Moses was 80 and Aaron was 83 when they spoke to Pharaoh.</span>
-<p class="section-ref">Ex 6:28-7</p>
+### Aaron’s Staff Becomes a Snake
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> Yahveh told Moses and Aaron, <strong><sup>9</sup></strong><em>“When Pharaoh says to work a miracle,</em><em> </em><em>throw</em><em> </em><em>down </em><em>your staff</em><em>,</em><em> </em><em>and it’</em><em>ll become a </em><strong><em>snake</em></strong><em>.”</em> <strong><sup>10</sup></strong>They went to Pharaoh. Aaron threw down his staff for him and his officers <em>to see</em>, and it became a snake. <strong><sup>11</sup></strong>Pharaoh called the wise men and sorcerers, and the Egyptian magicians did the same thing with magic. <strong><sup>12</sup></strong>Each one threw down his staff, and it also turned into a snake. But Aaron’s staff swallowed up theirs. <strong><sup>13</sup></strong>Pharaoh’s heart was still hardened, and he wouldn’t listen.</span>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh told him, </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:31.5pt; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’m making you like God to him, and your brother Aaron will be your prophet. </span></i><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Say what I tell you, and Aaron will tell Pharaoh to let Israel leave his country. </span></i></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But I’ll harden his heart so I can multiply my signs and wonders. </span></i></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he won’t listen to you, I’ll lay my hand on Egypt and take out my people with tremendous acts of judgment. </span></i></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Egyptians will know I’m Yahveh</span></u></i><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>.”</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses and Aaron did what he said. </span></span>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses was 80 and Aaron was 83 when they spoke to Pharaoh.        </span></span></p>
+
+<p class="section-ref">Ex 6:28-7:7</p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh told Moses and Aaron, </span></span>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“When Pharaoh says to work a miracle, throw down your staff, and it’ll become a <b>snake</b>.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They went to Pharaoh. Aaron threw down his staff for him and his officers <i>to see</i>, and it became a snake. </span></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Pharaoh called the wise men and sorcerers, and the Egyptian magicians did the same thing with magic. </span></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Each one threw down his staff, and it also turned into a snake. But Aaron’s staff swallowed up theirs. </span></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Pharaoh’s heart was still hardened, and he wouldn’t listen.
+</span></span></p>
+
 <p class="section-ref">Ex 7:8-13</p>
+
 
 ### The Plague of Blood
 
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> Yahveh told Moses, <em>“Pharaoh is stubborn</em><em> and refuses</em><em> to let the people go.</em><em> </em><strong><sup>15</sup></strong><em>I</em><em>n the morning</em><em>,</em><em> </em><em>go m</em><em>eet him on the bank of the Nile.</em><em> </em><em>Take the staff that turned into a </em><em>snake </em><strong><sup>16</sup></strong><em>and say, ‘Yahveh</em><em> God o</em><em>f the Hebrews sent me, “</em><em>Let my people go </em><em>to serve me in the open country,” b</em><em>ut you</em><em>’ve ignored me</em><em>.</em><em> </em><strong><sup>17</sup></strong><em>This is how </em><em><u>you’ll know I’m </u></em><em><u>Yahveh</u></em><em>: </em><em>I’ll strike the water in t</em><em>he Nile with my staff, and it’ll turn </em><em>to </em><strong><em>blood</em></strong><em>.</em><em> </em><strong><sup>18</sup></strong><em>The</em><em> fish will die, and it’ll </em><em>stink</em><em>.</em><em> </em><em>The Egyptians </em><em>won’t be able to drink it.”</em><em>’”</em><em> </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh told Moses, </span></span></p>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> Then Yahveh said to Moses, <em>“Have Aaron hold</em><em> </em><em>his</em><em> staff </em><em>out over the water in Egypt’</em><em>s rivers, canals, </em><em>pools, and reservoirs so it will turn </em><em>to </em><em>blood</em><em>.</em><em> </em><em>There will be blood </em><em>everywhere in</em><em> Egypt,</em><em> even in wood and stone containers.</em><em>”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Pharaoh is stubborn and refuses to let the people go. </span></i><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In the morning, go meet him on the bank of the Nile. Take the staff that turned into a snake </span></i></span>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and say, ‘Yahveh God of the Hebrews sent me, “Let my people go to serve me in the open country,” but you’ve ignored me. </span></i></span>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This is how <u>you’ll know I’m Yahveh</u>: I’ll strike the water in the Nile with my staff, and it’ll turn to <b>blood</b>. </span></i></span>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The fish will die, and it’ll stink. The Egyptians won’t be able to drink it.”’” </span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:31.5pt; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Yahveh said to Moses, </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Have Aaron hold his staff out over the water in Egypt’s rivers, canals, pools, and reservoirs so it will turn to blood. There will be blood everywhere in Egypt, even in wood and stone containers.” </span></i></span></p>
+
 <p class="section-ref">Ex 7:14-19</p>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> Moses and Aaron did that. He struck the water in the Nile with his staff for Pharaoh and his officers <em>to see</em>, and the water turned to blood. <strong><sup>21</sup></strong>The fish in the Nile died, and it stunk. The Egyptians couldn’t drink it. There was blood everywhere in Egypt. <strong><sup>22</sup></strong>But the Egyptian magicians did the same thing with their magic. Pharaoh’s heart was hardened, and he wouldn’t listen.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses and Aaron did that. He struck the water in the Nile with his staff for Pharaoh and his officers <i>to see</i>, and the water turned to blood. </span></span>
+<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The fish in the Nile died, and it stunk. The Egyptians couldn’t drink it. There was blood everywhere in Egypt. </span></span>
+<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But the Egyptian magicians did the same thing with their magic. Pharaoh’s heart was hardened, and he wouldn’t listen. </span></span></p>
 
-<span class="verse" id="v23"><sup class="verse-num">23</sup> Pharaoh returned to his palace without concerning himself with that either. <strong><sup>24</sup></strong>The Egyptians dug along the Nile for water because they couldn’t drink the water in it. <strong><sup>25</sup></strong>A week went by.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Pharaoh returned to his palace without concerning himself with that either. </span></span>
+<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Egyptians dug along the Nile for water because they couldn’t drink the water in it. </span></span>
+<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>A week went by.</span></span></p>
+
 <p class="section-ref">Ex 7:20-25</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

@@ -1,79 +1,118 @@
 ---
 book: Acts
 chapter: 22
-next: chapter-23
-prev: chapter-21
 title: Acts 22
 translation: CNT
 type: chapter
 weight: 22
+prev: chapter-21
+next: chapter-23
 ---
 
 ## Acts Chapter 22
 
+
 ### Paul Recounts His Conversion
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> <em>“Brothers</em><em> and fathers, listen to my defense.”</em> <strong><sup>2</sup></strong>When they heard him speaking Hebrew, they got quieter.</span>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> Paul said, <em>“God</em><em>’s going to </em><em>slap you, you whitewashed wall!</em><em> </em><em>You</em><em> sit judging me by the Law and </em><em>command </em><em>them to slap me in violation of the L</em><em>aw.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Brothers and fathers, listen to my defense.”</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When they heard him speaking Hebrew, they got quieter. </span></span></p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> Knowing one part was Sadducees and the other was Pharisees, he started shouting, <em>“</em><em>I’m a Pharisee, the son of </em><em>a Pharisee! I’m on trial for having</em><em> h</em><em>ope in the</em><em> resurrection!”</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’m a Jew; </span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>I was <i>born in Tarsus in Cilicia but raised in this city. I was educated under Gamaliel strictly according to the law of our ancestors and was as zealous for God as you are today. </i></span></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I persecuted The Way to death, binding and jailing men and women </span></i></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>as the high priest and presbytery can confirm. I got letters to go to Damascus and bind the ones that had gone there and extradite them to Jerusalem to punish them.</span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                                              </span></span></p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>“I</em><em> answered, ‘Who are you, </em><em>Sir</em><em>?’</em> <em>	</em><em>	‘I’m Jesus the Nazarene that you’re persecuting.’</em></span>
+<p class="section-ref">Acts 22:1-5</p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>“The</em><em> ones</em><em> </em><em>that were </em><em>with me saw the light but </em><em>couldn’t make out what he was saying to me.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As I got close to Damascus about noon, a bright light suddenly shined around me. </span></i></span>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I fell on the ground and heard a voice, “Saul, Saul, why are you persecuting me?’</span></i></span></p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> As the conflict grew, the tribune was afraid they’d tear Paul limb from limb. He commanded the troops to rescue him and bring him back into the barracks.</span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I answered, ‘Who are you, Sir?’</span></i></span></p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> That night the Lord stood by him, <em>“Don’t be afraid.</em><em> </em><em>As you’ve </em><em>spoken</em><em> </em><em>for</em><em> me in Jerusalem, you need to </em><em>speak </em>for me<em> in </em><em>Rome.”</span>
-<p class="section-ref">Acts 23:6-11</p>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        ‘I’m Jesus the Nazarene that you’re persecuting.’</span></i></p>
 
-### Jewish Plot to Kill Paul
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The ones that were with me saw the light but couldn’t make out what he was saying to me.</span></i></span></p>
 
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I said, ‘What should I do, Lord!?’</span></i></span></p>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> The next day, some Jews took a binding oath not to eat or drink till they’d killed Paul. <strong><sup>13</sup></strong>More than 40 men instigated that plot. <strong><sup>14</sup></strong>They came to the chief priests and elders, <em>“We’ve taken a binding oath</em><em> not to taste anything </em><em>till</em><em> we’ve killed Paul.</em><em> </em><strong><sup>15</sup></strong><em>Now</em><em> </em><em><u>you</u></em><em> </em><em>and</em><em> the Sanhedrin inform the tribune to bring him down as if to </em><em>find out</em><em> more accurately the </em><em>issues</em><em> about him.</em><em> </em><em>Before he gets close, </em><em><u>we’re</u></em><em> prepared to kill him.”</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            “‘Get up and go into Damascus. Somebody there will tell you.’</span></i></p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> <em>“He</em><em> said, ‘</em><em>Our ancestors’ God</em><em> </em><em>chose</em><em> you ahead of time to know his will, </em><em>to </em><em>see the Righteous One, and </em><em>to hear him. </em><strong><sup>15</sup></strong><em>Y</em><em>ou’re</em><em> to </em><em>speak</em><em> for him to all people about what you’ve seen and heard.</em><em> </em><strong><sup>16</sup></strong><em>Now</em><em> why wait?</em><em> </em><em>Get baptized and wash your sins away, calling on him.’</span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“When I couldn’t see from the brilliance of that light, the ones that were with me led me by the hand into Damascus.  </span></i></span></span></p>
+
+<p class="section-ref">Acts 22:6-11</p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“A man was there named Ananias. He was devout according to the Law, a man the Jews living there vouched for. </span></i></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He came and stood by me, ‘Brother Saul, receive your sight.’ I looked at him that very hour.</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“He said, ‘Our ancestors’ God chose you ahead of time to know his will, to see the Righteous One, and to hear him. </span></i></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’re to speak for him to all people about what you’ve seen and heard. </span></i></span>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now why wait? Get baptized and wash your sins away, calling on him.’
+</span></i></span></span></p>
+
 <p class="section-ref">Acts 22:12-16</p>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> <em>“When</em><em> I came back to Jerusalem and was praying in the </em><em>T</em><em>emple, I fell into a trance, </em><strong><sup>18</sup></strong><em>and</em><em> saw him </em><em>telling</em><em> me, ‘Get out of Jerusalem </em><em>now</em><em>; they won’t </em><em>accept</em><em> your testimony about me.’</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“When I came back to Jerusalem and was praying in the Temple, I fell into a trance, </span></i></span>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and saw him telling me, ‘Get out of Jerusalem now; they won’t accept your testimony about me.’</span></i></span></p>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> The tribune took his hand and withdrew privately, “<em>What do you have to report?”</em><em>	</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I said, ‘Lord, they know that in every synagogue I was jailing people in bonds who believed in you. </span></i></span>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Stephen your witness shed his blood, I stood by approving and keeping the clothes for the ones that were killing him.”</span></i></span></p>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> <em>“He</em><em> said, ‘Go; I’m sending you </em><em>away</em><em> to the Gentiles.’”</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“He said, ‘Go; I’m sending you away to the Gentiles.’”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>        </span></span></p>
+
 <p class="section-ref">Acts 22:17-21</p>
+
 
 ### Responses to His Address
 
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> The tribune let him go, <em>“Don’t tell anybody you </em><em>told</em><em> me about this.”</em><em></span>
-<p class="section-ref">Acts 23:12-22</p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They listened that far, but then they started shouting, <i>“Away with such a fellow. Don’t let him live!”</i> </span></span>
+<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They started yelling and tearing their clothes and throwing dust in the air. </span></span>
+<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The tribune ordered the soldiers to bring him into the barracks and interrogate him by scourging to find out why they were shouting about him that way.</span></span></p>
 
-<span class="verse" id="v25"><sup class="verse-num">25</sup> He wrote a letter to this effect:</span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As they were stretching him out with straps, Paul said to the centurion supervising, <i>“Is it legal to scourge a Roman that hasn’t been condemned?”</i></span></span></p>
 
-<span class="verse" id="v26"><sup class="verse-num">26</sup> <em>“Claudius</em><em> Lysias to </em><em>most</em><em> excellent Governor Felix.</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the centurion heard that, he went to the tribune, <i>“What are you doing? This man’s a Roman!”</i></span></span></p>
 
-<span class="verse" id="v27"><sup class="verse-num">27</sup> <em>The</em><em> Jews arrested this man and were </em><em>trying</em><em> to kill him when I came on them with troops and rescued him, </em><em>when I</em><em> discovered he was a Roman citizen.</em><em> </em><strong><sup>28</sup></strong><em>To</em><em> learn why they were accusing </em><em>him,</em><em> I </em><em>took</em><em> him down into their Sanhedrin.</em><em> </em><strong><sup>29</sup></strong><em>I</em><em> found out they were accusing him about questions in their </em><em>L</em><em>aw, not about anything </em><em>that deserves</em><em> bonds or death.</em><em> </em><strong><sup>30</sup></strong><em>I</em><em> was informed about a plot against him </em><em>and sent him to you at once. I ha</em><em>ve instructed his accusers to bring charges against him </em><em>in</em><em> you</em><em>r hearing</em><em>.”</span>
-<p class="section-ref">Acts 23:23-30</p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The tribune came and said, <i>“Tell me, are you a Roman?”</i></span></span></p>
 
-### Paul Sent to Caesarea
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <i>“Yes.”</i></span></p>
 
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He responded, <i>“This citizenship cost me a lot of money.”</i></span></span></p>
 
-<span class="verse" id="v28"><sup class="verse-num">28</sup> He responded, <em>“This citizenship cost me a lot of money.”</em> Paul said,<em> “I was born Roman.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Paul said,<i> “I was born Roman.”</i></span></p>
 
-<span class="verse" id="v29"><sup class="verse-num">29</sup> At once the ones that were going to interrogate him stepped away. The tribune was worried when he found out Paul was a Roman and he’d bound him.</span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At once the ones that were going to interrogate him stepped away. The tribune was worried when he found out Paul was a Roman and he’d bound him.                                                                                                                      </span></span></p>
+
 <p class="section-ref">Acts 22:22-29</p>
+
 
 ### Paul Before the Sanhedrin
 
 
-<span class="verse" id="v30"><sup class="verse-num">30</sup> The next day he was still wanting to know why the Jews were accusing Paul. The tribune took off Paul’s bonds and commanded the chief priests and full Sanhedrin to meet. He took Paul down and put him in front of them. <strong>23</strong><strong><sup>:1</sup></strong>Paul looked straight at the Sanhedrin, <em>“Brothers, in good conscience I’ve conducted myself as a citizen toward God up to this day.”</em><em> </em><strong><sup>2</sup></strong>Ananias the high priest commanded the ones that were standing by him to slap him in the mouth.</span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The next day he was still wanting to know why the Jews were accusing Paul. The tribune took off Paul’s bonds and commanded the chief priests and full Sanhedrin to meet. He took Paul down and put him in front of them. </span></span>
+<span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Paul looked straight at the Sanhedrin, <i>“Brothers, in good conscience I’ve conducted myself as a citizen toward God up to this day.” </i></span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ananias the high priest commanded the ones that were standing by him to slap him in the mouth.</span></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Paul said, <i>“God’s going to slap you, you whitewashed wall! You sit judging me by the Law and command them to slap me in violation of the Law.”</i></span></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The ones that were standing there said, <i>“You insult God’s high priest?”</i></span></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Paul said, <i>“Brothers, I was not aware that he was a high priest. The scripture does say,</i></span></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘Don’t say bad things about a ruler of your people’</span></i></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Ex 22:28]</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>.</span></p>
+
+<p class="section-ref">Acts 22:30-23:5</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

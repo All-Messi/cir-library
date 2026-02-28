@@ -1,44 +1,104 @@
 ---
 book: Isaiah
 chapter: 6
-next: chapter-07
-prev: chapter-05
 title: Isaiah 6
 translation: CNT
 type: chapter
 weight: 6
+prev: chapter-05
+next: chapter-07
 ---
 
 ## Isaiah Chapter 6
 
+
 ### Isaiah’s Call and Cleansing
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> <strong>The</strong><strong> year King Uzziah died</strong>, I saw the Lord sitting on a high throne, and his train filled the Temple. <strong><sup>2</sup></strong>Seraphs hovered above him, each with six wings:  two covered their faces, two covered their feet, and with two they flew. <strong><sup>3</sup></strong>One shouted to the other, <em>“Holy, Holy, Holy is </em><em>the </em><em>L</em><em>ORD</em><em> of </em><em>H</em><em>osts;</em><em> </em> <em>	</em><em>	the whole world is full of his glory.”</em></span>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> The thresholds shook when he shouted, and smoke filled the Temple. <strong><sup>5</sup></strong>I said, <em>“I’m doomed! I’m lost,</em> <em>	</em><em>	a man with unclean lips</em> <em>	</em><em>	living among people with unclean lips,</em> <em>	</em><em>	</em><em>and I’ve seen the King, the </em><em>L</em><em>ORD</em><em> of </em><em>H</em><em>osts</em><em>!</em><em>”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk86919730"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The year King Uzziah died</span></b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>, I saw the Lord sitting on a high throne, and his train filled the Temple. </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Seraphs hovered above him, each with six wings:  two covered their faces, two covered their feet, and with two they flew. </span></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>One shouted to the other,        </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <i>“Holy, Holy, Holy is the L</i></span><i><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> of Hosts; </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  the whole world is full of his glory.”</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The thresholds shook when he shouted, and smoke filled the Temple. </span></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I said, </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <i>“I’m doomed! I’m lost,</i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              a man with unclean lips</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              living among people with unclean lips,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              and I’ve seen the King, the L</span></i><i><span style='font-size:9.0pt;line-height: 115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> of Hosts!”</span></i><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>                                             </span></b></span></p>
+
 <p class="section-ref">Is 6:1-5</p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> One seraph flew to me with a burning coal he’d taken off the altar with tongs. <strong><sup>7</sup></strong>He touched my mouth with it and said, <em>“That</em><em> has taken </em><em>away </em><em>your </em><em>guilt; your sin’</em><em>s forgiven.</em><em>” </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>One seraph flew to me with a burning coal he’d taken off the altar with tongs. </span></span>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He touched my mouth with it and said, <i>“That has taken away your guilt; your sin’s forgiven.” </i></span></span></p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> Then I heard the Lord say, <em>“</em><em>Who will</em><em> I send?</em><em> </em><em>Who’ll go for us?”</em><em> </em> I said, <em>“I’ll go; send me.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then I heard the Lord say, <i>“Who will I send? Who’ll go for us?” </i></span></span></p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> He said, <em>	“Go tell this nation:</em> <em>	</em><em>	‘Keep listening, but don’t understand </em>anything<em>;</em> <em>	</em><em>	keep looking, but don’t perceive </em>anything<em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I said, <i>“I’ll go; send me.”</i></span></p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>Harden</em><em> your </em><em>hearts</em><em>,</em> <em>	</em><em>	</em><em>	be hard of hearing,</em> <em>	</em><em>	</em><em>	and shut your eyes</em> <em>	</em><em>	</em><em>so</em><em> you can’t see or hear,</em> <em>	</em><em>	</em><em>	 understand and repent,</em> <em>	</em><em>	</em><em>	and be healed.’”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said,</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            “Go tell this nation:</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  ‘Keep listening, but don’t understand </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>anything<i>;</i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  keep looking, but don’t perceive </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>anything<i>.</i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Harden your hearts,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        be hard of hearing,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        and shut your eyes</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  so you can’t see or hear,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                         understand and repent,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        and be healed.’”</span></i><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>                                             </span></b></span></p>
+
 <p class="section-ref">Is 6:6-10</p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> I said, <em>“How long, Lord?”</em> <em>“Till the towns </em><em>are de</em><em>sert</em><em>ed</em><em>,</em> <em>	</em><em>the </em><em>houses are empty</em><em>,</em> <em>	</em><em>and the </em><em>land’s </em><em>forsaken;</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I said, <i>“How long, Lord?”</i></span></span></p>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> <em>till</em><em> I’ve taken the people far away</em> <em>	and leave the land largely abandoned.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Till the towns are deserted,</span></i></p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> <em>A</em><em> tenth of it will survive </em> <em>	</em><em>	only to be invaded again and </em><em>burned;</em> <em>	like a terebinth tree or oak</em> <em>	</em><em>	whose stump is still standing after it’s cut down,</em> <em>	</em><em>	the stump will be Israel’s holy seed.”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            the houses are empty,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and the land’s forsaken;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>till I’ve taken the people far away</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and leave the land largely abandoned.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A tenth of it will survive </span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  only to be invaded again and burned;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            like a terebinth tree or oak</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  whose stump is still standing after it’s cut down,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  the stump will be Israel’s holy seed.”                  </span></i></span></p>
+
 <p class="section-ref">Is 6:11-13</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

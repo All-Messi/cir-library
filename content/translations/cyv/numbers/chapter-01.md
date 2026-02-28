@@ -1,56 +1,115 @@
 ---
 book: Numbers
 chapter: 1
-next: chapter-02
 title: Numbers 1
 translation: CYV
 type: chapter
 weight: 1
+next: chapter-02
 ---
 
 ## Numbers Chapter 1
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> On the <strong>first </strong><strong><em>day</em></strong><strong>, second month, second year</strong> after they left Egypt, Yahveh told Moses at Sinai in the Tent of Meeting,</span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>“</em><em>Take</em><em> a census </em><em>by</em><em> families</em><em>.</em><em> Count the </em><em>m</em><em>en</em><em> </em><strong><sup>3</sup></strong><em>20 years old and up</em><em> that can go to</em><em> war</em><em>.</em><em> </em><em>You and Aaron count them by armies.</em><em> </em><strong><sup>4</sup></strong><em>To</em><em> help </em>you<em>, appoint </em><em>one man</em><em> fro</em><em>m each tribe as head of his ancesto</em><em>r’s house.</em><em> </em><strong><sup>5</sup></strong><em>They’</em><em>ll</em><em> stand with you: </em><em>	</em> <em>from Reuben, Elizur</em><em> </em><em>Ben-</em><em>Shedeur;</em></span>
+### Conversational Yahveh Covenant
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>from</em><em> Simeon, Shelumiel</em><em> </em><em>Ben-</em><em>Zurishaddai;</em></span>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>f</em><em>rom</em><em> Judah, Nahshon </em><em>Ben-</em><em>Amminadab;</em></span>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>f</em><em>rom</em><em> Issachar, Nethanel </em><em>Ben-</em><em>Zuar;</em></span>
+### Census of Israel’s Troops
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>from</em><em> Zebulun, Eliab</em><em> </em><em>Ben-</em><em>Helon;</em></span>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>“On</em><em> the south side </em>of the Tabernacle<em>, Reuben will camp by its</em><em> standard—the </em>army<em> of</em><em> Elizur</em><em> (</em><em>46,500</em><em>)</em><em>.</em> <strong><sup>12-</sup></strong><strong><sup>13</sup></strong><em>Simeon</em><em> will camp ne</em><em>xt to him—the army of Shelumiel (59,300). </em><strong><sup>14-</sup></strong><strong><sup>15</sup></strong><em>Gad</em><em> will camp with its leader Eliasaph (45,650). </em><strong><sup>16</sup></strong><em>The</em><em> Reuben camp totals 151,450. It will move out second.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>          </span></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>On the <b>first </b></span><b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>day</span></i></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, second month, second year</span></b><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> after they left Egypt, Yahveh told Moses at Sinai in the Tent of Meeting,</span></span></p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> <em>from</em><em> Benjamin, Abidan</em><em> </em><em>Ben-</em><em>Gid</em><em>e</em><em>oni;</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Take a census by families. Count the men </span></i></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>20 years old and up that can go to war. You and Aaron count them by armies. </span></i></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>To help </span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>you</span><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>, appoint one man from each tribe as head of his ancestor’s house. </span></i></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’ll stand with you:  </span></i></span></p>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> <em>from</em><em> Dan, Ahiezer</em><em> </em><em>Ben-</em><em>Ammishaddai;</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:40.5pt; '><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>from Reuben, Elizur Ben-Shedeur;</span></i></p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> <em>f</em><em>ro</em><em>m</em><em> Asher, Pagiel</em><em> </em><em>Ben-</em><em>Ochran;</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      </span><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>from Simeon, Shelumiel Ben-Zurishaddai;</span></i></span></p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> <em>from</em><em> Gad, Eliasaph</em><em> </em><em>Ben-</em><em>Deuel;</em><em> </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      </span></i><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>from Judah, Nahshon Ben-Amminadab;</span></i></span></p>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> <em>f</em><em>rom</em><em> Naphtali, Ah</em><em>ira Ben-Enan.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      </span></i><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>from Issachar, Nethanel Ben-Zuar;</span></i></span></p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> <em>Tho</em><em>se</em><em> are the </em><em>appointed leaders by</em><em> tribes, the heads of </em><em>clans in</em><em> Israel.”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      </span></i><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>from Zebulun, Eliab Ben-Helon;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      </span></i><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>from Joseph’s son Ephraim, Elishama Ben-Ammihud;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                       from Joseph’s son Manasseh, Gamaliel Ben-Pedahzur;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      </span></i><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>from Benjamin, Abidan Ben-Gideoni;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      </span></i><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>from Dan, Ahiezer Ben-Ammishaddai;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      </span></i><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>from Asher, Pagiel Ben-Ochran;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      </span></i><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>from Gad, Eliasaph Ben-Deuel; </span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      </span></i><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>from Naphtali, Ahira Ben-Enan.</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                16</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Those are the appointed leaders by tribes, the heads of clans in Israel.”         </span></i></span></p>
+
 <p class="section-ref">Num 1:1-16</p>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> <em>“Then</em><em> the Tent of Meeting will move out with the Levites in the middle of the camps.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>          </span></i><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses and Aaron took the men God had designated </span></span>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and gathered the community on the <b>first </b></span><b><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>day</span></i></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, second month</span></b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>. [</span></span>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>]</span></span></p>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> The count came out as follows: <strong><sup>21</sup></strong>46,500 from Reuben, Israel’s firstborn; <strong><sup>22-23</sup></strong>59,300 from Simeon, <strong><sup>24-25</sup></strong>45,650 from Gad, <strong><sup>26-27</sup></strong>74,600 from Judah, <strong><sup>28-29</sup></strong>54,400 from Issachar, <strong><sup>30-31</sup></strong>57,400 from Zebulun, <strong><sup>32-33</sup></strong>40,500 from Ephraim, <strong><sup>34-35</sup></strong>32,300 from Manasseh, <strong><sup>36-37</sup></strong>35,400 from Benjamin, <strong><sup>38-39</sup></strong>62,700 from Dan <strong><sup>40-41</sup></strong>41,500 from Asher, <strong><sup>42-43</sup></strong>53,400 from Naphtali,</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>          </span><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The count came out as follows:</span></span></p>
 
-<span class="verse" id="v47"><sup class="verse-num">47</sup> They didn’t count the Levites <em>in the military census.</em> <strong><sup>48</sup></strong>Yahveh told Moses,</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      </span><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>46,500 from Reuben, Israel’s firstborn;</span></span></p>
 
-<span class="verse" id="v49"><sup class="verse-num">49</sup> <em>“Don’t</em><em> count </em><em>the Levites</em><em>.</em><em> </em><strong><sup>50</sup></strong><em>Pu</em><em>t</em><em> them </em><em>in charge of</em><em> the </em><em>T</em><em>abernacle and everything associated with it.</em><em> </em><em>They’ll </em><em>transport</em><em> </em><em>it</em><em> and its furnishing</em><em>s,</em><em> take care of it</em><em>, and</em><em> camp around it.</em><em> </em><strong><sup>51</sup></strong><em>When</em><em> </em><em>it sets out, they’</em><em>ll </em><em>dismantle it. When it camps, they’</em><em>ll </em><em>assemble it</em><em>.</em><em> Execute a</em><em>ny layman that comes near.</em><em> </em><strong><sup>52</sup></strong><em>The</em><em> Israelites will camp in groups by </em><em>their</em><em> standard in their armies.</em><em> </em><strong><sup>53</sup></strong><em>But</em><em> the Levites will camp around the </em><em>T</em><em>abernacle so there won’t be any wrath on </em><em>the Israelites. </em>[<strong><sup>54</sup></strong><strong><sup>a</sup></strong>] Israel did everything Yahveh commanded Moses.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      </span><span class="verse verse-v22" id="v22"><sup class="verse-num">22-23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>59,300 from Simeon,</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      </span><span class="verse verse-v24" id="v24"><sup class="verse-num">24-25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>45,650 from Gad,</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      </span><span class="verse verse-v26" id="v26"><sup class="verse-num">26-27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>74,600 from Judah,</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      </span><span class="verse verse-v28" id="v28"><sup class="verse-num">28-29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>54,400 from Issachar,</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      </span><span class="verse verse-v30" id="v30"><sup class="verse-num">30-31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>57,400 from Zebulun,</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      </span><span class="verse verse-v32" id="v32"><sup class="verse-num">32-33</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>40,500 from Ephraim,</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      </span><span class="verse verse-v34" id="v34"><sup class="verse-num">34-35</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>32,300 from Manasseh,</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      </span><span class="verse verse-v36" id="v36"><sup class="verse-num">36-37</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>35,400 from Benjamin,</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      </span><span class="verse verse-v38" id="v38"><sup class="verse-num">38-39</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>62,700 from Dan</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      </span><span class="verse verse-v40" id="v40"><sup class="verse-num">40-41</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>41,500 from Asher,</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      </span><span class="verse verse-v42" id="v42"><sup class="verse-num">42-43</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>53,400 from Naphtali,</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span class="verse verse-v44" id="v44"><sup class="verse-num">44-46</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The total was 603,550.                                                                                             </span></span></p>
+
+<p class="section-ref">Num 1:17-46</p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>          </span><span class="verse verse-v47" id="v47"><sup class="verse-num">47</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They didn’t count the Levites </span><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>in the military census.</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span>
+<span class="verse verse-v48" id="v48"><sup class="verse-num">48</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh told Moses, </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><span class="verse verse-v49" id="v49"><sup class="verse-num">49</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t count the Levites. </span></i></span>
+<span class="verse verse-v50" id="v50"><sup class="verse-num">50</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Put them in charge of the Tabernacle and everything associated with it. They’ll transport it and its furnishings, take care of it, and camp around it. </span></i></span>
+<span class="verse verse-v51" id="v51"><sup class="verse-num">51</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When it sets out, they’ll dismantle it. When it camps, they’ll assemble it. Execute any layman that comes near. </span></i></span>
+<span class="verse verse-v52" id="v52"><sup class="verse-num">52</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Israelites will camp in groups by their standard in their armies. </span></i></span>
+<span class="verse verse-v53" id="v53"><sup class="verse-num">53</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But the Levites will camp around the Tabernacle so there won’t be any wrath on the Israelites. </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>[</span><b><sup><span style='font-size: 14.0pt;line-height:115%;font-family:"Times New Roman",serif'>54a</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>]</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel did everything Yahveh commanded Moses.</span></p>
+
 <p class="section-ref">Num 1:47-54</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

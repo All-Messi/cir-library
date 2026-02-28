@@ -1,70 +1,187 @@
 ---
 book: Isaiah
 chapter: 44
-next: chapter-45
-prev: chapter-43
 title: Isaiah 44
 translation: CYV
 type: chapter
 weight: 44
+prev: chapter-43
+next: chapter-45
 ---
 
 ## Isaiah Chapter 44
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> <em>“But</em><em> listen</em><em> now</em><em>, Jacob my servant</em><em>,</em> <em>	</em><em>	</em><em>	Israel </em><em>my</em><em> chosen</em><em> one.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                       44<sup>:1</sup></span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“But listen now, Jacob my servant,</span></i></p>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>This</em><em> is what Yahveh says who created you</em> <em>	</em><em>	</em><em>	and formed you from the womb,</em> <em>	</em><em>	</em><em>	who will help you:</em> <em>	</em><em>	</em><em>	‘Don’t be afraid, </em><em>Jacob</em><em> my servant,</em> <em>	</em><em>	</em><em>	</em><em>	Jeshurun </em><em>my</em><em> chosen one.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    Israel my chosen one.</span></i></p>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> <em>As I’ll pour out water on thirsty ground</em> <em>	</em><em>	</em><em>	to make streams on desert land</em><em>,</em> <em>	</em><em>	I’ll </em>also <em>pour out my Spirit on your offspring</em> <em>	</em><em>	</em><em>	</em><em>	and bless your </em><em>descendants;</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This is what Yahveh says who created you</span></i></span></p>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> <em>they’ll</em><em> thrive like well-watered grass,</em> <em>	</em><em>	</em><em>	</em><em>	like poplars beside streams.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and formed you from the womb,</span></i></p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>This</em><em> one will say, “I belong to Yahveh</em><em>”;</em> <em>	</em><em>	</em><em>	that one will wear Jacob’s </em><em>name;</em><em>	</em> <em>	</em><em>	</em><em>	others will write on their hand, “Belonging to Yahveh,”</em> <em>	</em><em>	</em><em>	</em><em>	and name Israel’s God with honor.’”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    who will help you:</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    ‘Don’t be afraid, Jacob my servant,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          Jeshurun my chosen one.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As I’ll pour out water on thirsty ground</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    to make streams on desert land,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              I’ll
+</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>also
+<i>pour out my Spirit on your offspring</i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          and bless your descendants;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span></i><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>they’ll thrive like well-watered grass,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          like poplars beside streams.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This one will say, “I belong to Yahveh”;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    that one will wear Jacob’s name;       </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    others will write on their hand, “Belonging to Yahveh,”</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          and name Israel’s God with honor.’”</span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                  </span></b></span></p>
+
 <p class="section-ref">Is 44:1-5</p>
+
 
 ### The Folly of Idols
 
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> This is what the King of Israel says<sup>Y</sup>, <em>	</em><em>	</em><em>	</em>its Redeemer, Yahveh of Hosts, <em>	</em><em>	</em><em>	“I’m the first and </em><em>last;</em> <em>	</em><em>	</em><em>	</em><em>	</em><strong><em>there’s no God but me</em></strong><em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><a name="_Hlk86938559"><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This is what the King of Israel says</span><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>Y</span></sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,</span></span></p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>Who</em><em> is like me? Speak </em><em>up;</em> <em>	</em><em>	</em><em>	recount things to me in sequence</em> <em>	</em><em>	</em><em>	</em><em>	from the time I created this ancient </em><em>nation;</em> <em>	</em><em>	</em><em>	then tell </em>that nation<em> what’s going to happen </em>to them.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>its Redeemer, Yahveh of Hosts,</span></p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> <em> Don’t tremble in </em><em>fear;</em> <em>	</em><em>	</em><em>	haven’t I announced it to you long ago?</em> <em>	</em><em>	</em><em>	</em><em>	You’re my witnesses.</em> <em>	</em><em>	</em><em>	Is there any God but me?</em> <em>	</em><em>	</em><em>	</em><em>	Is there any other Rock?</em> <em>	</em><em>	</em><em>	</em><em>	I don’t know of a one.”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    “I’m the first and last;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          <b>there’s no God but me</b>.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Who is like me? Speak up;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    recount things to me in sequence</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          from the time I created this ancient nation;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    then tell </span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>that nation<i> what’s going to happen </i>to them.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> Don’t tremble in fear;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    haven’t I announced it to you long ago?</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          You’re my witnesses.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    Is there any God but me?</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          Is there any other Rock?</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          I don’t know of a one.”</span></i><b><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                         </span></b></span></p>
+
 <p class="section-ref">Is 44:6-8</p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> Those who carve idols don’t accomplish anything because their precious objects can’t do anything. Their worshippers don’t know <em>that</em>; so they’ll be put to shame. <strong><sup>10</sup></strong>Who but fools make their own gods and then worship them? <strong><sup>11</sup></strong>The craftsmen are mere mortals. They’ll all gather with the worshipers, take their stand, and go down in terror and infamy.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Those who carve idols don’t accomplish anything because their precious objects can’t do anything. Their worshippers don’t know <i>that</i>; so they’ll be put to shame. </span></span>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Who but fools make their own gods and then worship them? </span></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The craftsmen are mere mortals. They’ll all gather with the worshipers, take their stand, and go down in terror and infamy.</span></span></p>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> A blacksmith shapes iron into a cutting tool over coals <em>in his forge</em>. He beats it with hammers till he gets hungry and weak, thirsty and tired. <strong><sup>13</sup></strong>Then a carver shapes a block of wood, stretches out a measuring line on it, and draws a pattern on it with red chalk. He works it with chisels and planes <em>to look </em>like a beautiful human figure to set in a little shrine in <em>somebody’s</em> house. <strong><sup>14</sup></strong>He cuts down a cedar, takes a cypress or oak, and plants a fir tree in the woods, and the rain makes it grow. <strong><sup>15</sup></strong><strong><sup>-</sup></strong><strong><sup>16</sup></strong>It becomes something he can burn. So he burns half of it to warm himself up and say <em>“Ah, I’m warm; the heat feels good.”</em> Or he bakes bread and eats a roast and is satisfied. <strong><sup>17</sup></strong>He carves the other half into an image, his god. He falls down to it, worships it, and prays to it, <em>“Deliver me, my god.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A blacksmith shapes iron into a cutting tool over coals <i>in his forge</i>. He beats it with hammers till he gets hungry and weak, thirsty and tired. </span></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then a carver shapes a block of wood, stretches out a measuring line on it, and draws a pattern on it with red chalk. He works it with chisels and planes <i>to look </i>like a beautiful human figure to set in a little shrine in <i>somebody’s</i> house. </span></span>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He cuts down a cedar, takes a cypress or oak, and plants a fir tree in the woods, and the rain makes it grow. </span></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15-16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It becomes something he can burn. So he burns half of it to warm himself up and say <i>“Ah, I’m warm; the heat feels good.”</i> Or he bakes bread and eats a roast and is satisfied. </span></span>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He carves the other half into an image, his god. He falls down to it, worships it, and prays to it, <i>“Deliver me, my god.”</i>                                                    </span></span></p>
+
 <p class="section-ref">Is 44:9-17</p>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> They don’t understand because <em>God</em> has glazed over their eyes so they can’t see, and closed their minds so they can’t think. <strong><sup>19</sup></strong>The one that made it doesn’t stop to reflect, <em>“I burned half of it</em><em> to</em><em> bake bread and </em><em>roast </em><em>meat;</em><em> </em> <em>I worshiped</em><em> the </em><em>other </em><em>half</em><em>!”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They don’t understand because <i>God</i> has glazed over their eyes so they can’t see, and closed their minds so they can’t think. </span></span>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The one that made it doesn’t stop to reflect, </span></span></p>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> He eats ashes and trusts something that can’t help him. He doesn’t ask, <em>“Am I holding</em> <em>something fake in my</em> <em>hand?”</em> 	<strong>Restoration for Jerusalem</strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I burned half of it to bake bread and roast meat; </span></i></p>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> <em>“Remember</em><em>, Jacob and Israel</em><em>; you’re my </em><em>servant;</em> <em>	I made you</em><em>; I won’t forget you.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I worshiped the other half!”</span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> </span></p>
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> <em>I’ve</em><em> wiped out your transgressions like a dark cloud,</em> <em>	</em><em>	your sins like a heavy morning </em><em>fog;</em> <em>	come back to me; I’ve redeemed you.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He eats ashes and trusts something that can’t help him. He doesn’t ask, <i>“Am I holding</i> <i>something fake in my</i> <i>hand?”</i> </span></span></p>
 
-<span class="verse" id="v23"><sup class="verse-num">23</sup> Shout for joy, sky, because Yahveh made you! Make a joyful sound, depths of the earth. Break into singing, mountains, forest, and every tree in them; Yahveh has redeemed Jacob and taken pride in Israel.</span>
+
+### Restoration for Jerusalem
+
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Remember, Jacob and Israel; you’re my servant;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      I made you; I won’t forget you.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ve wiped out your transgressions like a dark cloud,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            your sins like a heavy morning fog;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      come back to me; I’ve redeemed you.”</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Shout for joy, sky, because Yahveh made you!</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Make a joyful sound, depths of the earth.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Break into singing, mountains, forest, and every tree in them;</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Yahveh has redeemed Jacob and taken pride in Israel.          </span></p>
+
 <p class="section-ref">Is 44:18-23</p>
 
-<span class="verse" id="v24"><sup class="verse-num">24</sup> This is what Yahveh your Redeemer says <em>	</em><em>	</em>who formed you in the womb, <em>	“I’m the One that made everything:</em> <em>	</em><em>	I stretched out the sky by myself</em> <em>	</em><em>	</em><em>	and spread out the earth.</em> <em>	</em><em>	</em><em>	Who helped me?</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This is what Yahveh your Redeemer says</span></span></p>
 
-<span class="verse" id="v25"><sup class="verse-num">25</sup> <em>I</em><em> expose false prophets’ omens</em> <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><em>and make fools out of </em><em>fortunetellers;</em> <em>	</em><em>	</em><em>	I force the wise to eat their words</em> <em>	</em><em>	</em><em>	</em><em>	and turn their “knowledge” into nonsense.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>who formed you in the womb,</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        “I’m the One that made everything:</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              I stretched out the sky by myself</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and spread out the earth.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    Who helped me?</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I expose false prophets’ omens</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                               </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and make fools out of fortunetellers;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    I force the wise to eat their words</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          and turn their “knowledge” into nonsense.</span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>         </span></b></span></p>
+
 <p class="section-ref">Is 44:24-25</p>
 
-<span class="verse" id="v26"><sup class="verse-num">26</sup> <em>I</em><em> carry out my prophets’ predictions</em> <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><em>and</em><strong><sup> </sup></strong><em>perform my messengers’ </em><em>advice;</em> <em>	</em><em>	I’m the One that says Jerusalem will be inhabited</em> <em>	</em><em>	</em><em>	</em><em>	and the towns in Judah will be rebuilt!</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><a name="_Hlk86939295"><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I carry out my prophets’ predictions</span></i></span></p>
 
-<span class="verse" id="v27"><sup class="verse-num">27</sup> <em>I’m</em><em> the One that tells the deep ocean to dry up</em> <em>	</em><em>	</em><em>	and its currents will be dry.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                      </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and</span></i><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>perform my messengers’ advice;</span></i></p>
 
-<span class="verse" id="v28"><sup class="verse-num">28</sup> <em>I</em><em> say about </em><em>Cyrus, ‘He’s</em><em> my shepherd!</em> <em>	</em><em>	</em><em>	</em><em>	He’ll do everything I tell him</em><em>’;</em> <em>	</em><em>	</em><em>	he’ll decree that Jerusalem will be rebuilt</em> <em>	</em><em>	</em><em>	</em><em>	and the Temple foundations will be laid again.”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              I’m the One that says Jerusalem will be inhabited</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          and the towns in Judah will be rebuilt!</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’m the One that tells the deep ocean to dry up</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and its currents will be dry.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I say about Cyrus, ‘He’s my shepherd!</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          He’ll do everything I tell him’;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    he’ll decree that Jerusalem will be rebuilt</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          and the Temple foundations will be laid again.” </span></i></p>
+
 <p class="section-ref">Is 44:26-28</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

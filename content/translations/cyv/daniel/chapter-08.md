@@ -1,42 +1,78 @@
 ---
 book: Daniel
 chapter: 8
-next: chapter-09
-prev: chapter-07
 title: Daniel 8
 translation: CYV
 type: chapter
 weight: 8
+prev: chapter-07
+next: chapter-09
 ---
 
 ## Daniel Chapter 8
 
+
 ### Daniel’s Vision of the Ram and the Goat
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> In the<strong> third year of Belshazzar</strong><strong>’s regency</strong>, I, Daniel, had another vision. <strong><sup>2</sup></strong>I was in Susa the capital, in the province Elam beside the Ulai Canal. <strong><sup>3</sup></strong>I looked up and saw a ram with two horns standing by the canal. The horns were long, one longer than the other even though the longer one had grown up last. <strong><sup>4</sup></strong>The ram was butting west, north, and south. No other animals could stand up to it, and nobody could rescue anyone from it. It did what it pleased and became great.</span>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>In the<b> third year of Belshazzar’s regency</b>, I, Daniel, had another vision. </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I was in Susa the capital, in the province Elam beside the Ulai Canal. </span></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I looked up and saw a ram with two horns standing by the canal. The horns were long, one longer than the other even though the longer one had grown up last. </span></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The ram was butting west, north, and south. No other animals could stand up to it, and nobody could rescue anyone from it. It did what it pleased and became great. <b>                                                                                                                       </b></span></span></p>
+
 <p class="section-ref">Dan 8:1-4</p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> A male goat was coming from the west across the earth without touching the ground. It had a conspicuous horn between its eyes. <strong><sup>6</sup></strong>It came toward the ram that was by the canal and rushed at him in powerful fury. <strong><sup>7</sup></strong>It butted <em>the ram</em> and broke off its two horns. The ram wasn’t strong enough to resist it; so it slammed <em>the ram</em> to the ground and tramped on it. <strong><sup>8</sup></strong>The male goat promoted itself highly. But as soon as it got powerful, <em>its</em> big horn broke, and in its place four conspicuous horns sprouted up in four directions.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A male goat was coming from the west across the earth without touching the ground. It had a conspicuous horn between its eyes. </span></span>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It came toward the ram that was by the canal and rushed at him in powerful fury. </span></span>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It butted <i>the ram</i> and broke off its two horns. The ram wasn’t strong enough to resist it; so it slammed <i>the ram</i> to the ground and tramped on it. </span></span>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The male goat promoted itself highly. But as soon as it got powerful, <i>its</i> big horn broke, and in its place four conspicuous horns sprouted up in four directions. <b>    </b></span></span></p>
+
 <p class="section-ref">Dan 8:5-8</p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> A little horn came up out of one of them and grew very big toward the south, east, and the Glorious <em>Land</em>. <strong><sup>10</sup></strong>It grew up to the stars, knocked some of them to earth, and tramped on them. <strong><sup>11</sup></strong>It even promoted itself against the Commander of the host, canceled the daily sacrifice to him, and tore down his sanctuary. <strong><sup>12</sup></strong>Because of sin, the army will be given over <em>to the horn</em> along with the daily sacrifice. <em>The horn</em> will dash truth to the ground and do whatever it wants to. <strong><sup>13</sup></strong>Then I heard a holy one speaking and another one answering, <em>“How long will the vision last about </em><em>the regular sacrifice while sin</em><em> causes horror, so </em><em>that</em><em> the holy </em><em>p</em><em>lace and the </em><em>army</em><em> </em><em>both get</em><em> </em><em>overrun</em><em>?”</em><em> </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A little horn came up out of one of them and grew very big toward the south, east, and the Glorious <i>Land</i>. </span></span>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It grew up to the stars, knocked some of them to earth, and tramped on them. </span></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It even promoted itself against the Commander of the host, canceled the daily sacrifice to him, and tore down his sanctuary. </span></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Because of sin, the army will be given over <i>to the horn</i> along with the daily sacrifice. <i>The horn</i> will dash truth to the ground and do whatever it wants to. </span></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then I heard a holy one speaking and another one answering, </span></span></p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> He told me, <em>“For 2,300 </em><em>mornings and </em><em>evenings.</em><em> </em><em>Then the holy place will b</em><em>e restored to its rightful position</em><em>.”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>“How long will the vision last about the regular sacrifice while sin causes horror, so that the holy place and the army both get overrun?” </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told me, <i>“For 2,300 mornings and evenings. Then the holy place will be restored to its rightful position.”</i><b>  </b></span></span></p>
+
 <p class="section-ref">Dan 8:9-14</p>
+
 
 ### Gabriel Interprets the Vision
 
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> When I, Daniel, had seen the vision and was trying to understand it, one that looked like a man was standing in front of me. <strong><sup>16</sup></strong>I heard a man between <em>the banks</em> of Ulai call out, <em>“Gabriel, tell </em><em>him</em><em> what the vision means.”</em><em> </em><strong><sup>17</sup></strong>So he came <em>closer</em>, and I fell on my face in fear. But he said, <em>“Son of man,</em><em> the vision </em><em>deals</em><em> with the end of time.”</em><em> </em><strong><sup>18</sup></strong>While he was talking to me, I fainted facedown on the ground, but he took hold of me and stood me up. <strong><sup>19</sup></strong>He said, <em>“I’m let</em><em>ting</em><em> you know what will happen at the end of indignation</em><em>;</em><em> it </em><em>deals with</em><em> the appointed end of time.</em><em> </em><strong><sup>20</sup></strong><em>The ram you saw with the two horns represents the kings of Media and Persia.</em><em> </em><strong><sup>21</sup></strong><em>The shaggy goat repres</em><em>ents Greece, and the large horn</em><em> between his eyes is </em><em>its</em><em> first king.</em><em> </em><strong><sup>22</sup></strong><em>The</em><em> broken horn and the four horns that came up in place of it represent four kingdoms that will </em><em>grow out of</em><em> his nation</em><em>, </em><em>though not with his power.</em><em> </em><strong><sup>23</sup></strong><em>Toward</em><em> the </em><em>end of their rule, when sinne</em><em>rs have </em><em>become extreme, a king will </em><em>rise </em><em>up</em><em> insolent, adept at intrigue, </em><strong><sup>24</sup></strong><em>and</em><em> very powerful. H</em><em>e’ll cause extraordinary destruction and do what</em><em>ever</em><em> he wants</em><em> to</em><em>.</em><em> </em><em>He’ll destroy </em><em>powerful</em><em> men and the holy people.</em><em> </em><strong><sup>25</sup></strong><em>Through</em><em> his shrewdness, he’ll make deceit succeed by his influence.</em><em> </em><em>He’ll </em><em>honor</em><em> himself in his own mind and destroy many </em><em>by surprise</em><em>.</em><em> </em><em>He’ll even oppose the Prince of princes and be broken without human agency.</em><em> </em><strong><sup>26</sup></strong><em>The</em><em> vision about</em><em> the </em><em>mornings and eve</em><em>ni</em><em>ngs </em><em>is </em><em>real</em><em>; but keep </em><em>it to yourself</em><em> because it </em><em>deals</em><em> with the </em><em>distant </em><em>future.”</em><em> </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When I, Daniel, had seen the vision and was trying to understand it, one that looked like a man was standing in front of me. </span></span>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I heard a man between <i>the banks</i> of Ulai call out, <i>“Gabriel, tell him what the vision means.” </i></span></span>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So he came <i>closer</i>, and I fell on my face in fear. But he said, <i>“Son of man, the vision deals with the end of time.” </i></span></span>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>While he was talking to me, I fainted facedown on the ground, but he took hold of me and stood me up. </span></span>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said, </span></span></p>
 
-<span class="verse" id="v27"><sup class="verse-num">27</sup> I lay sick and drained for several days. Then I got up to carry on the king’s business, but the vision kept troubling me, and nobody <em>came to</em> explain it <em>to me</em>.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’m letting you know what will happen at the end of indignation; it deals with the appointed end of time. </span></i><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The ram you saw with the two horns represents the kings of Media and Persia. </span></i></span>
+<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The shaggy goat represents Greece, and the large horn between his eyes is its first king. </span></i></span>
+<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The broken horn and the four horns that came up in place of it represent four kingdoms that will grow out of his nation, though not with his power. </span></i></span>
+<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Toward the end of their rule, when sinners have become extreme, a king will rise up insolent, adept at intrigue, </span></i></span>
+<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and very powerful. He’ll cause extraordinary destruction and do whatever he wants to. He’ll destroy powerful men and the holy people. </span></i></span>
+<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Through his shrewdness, he’ll make deceit succeed by his influence. He’ll honor himself in his own mind and destroy many by surprise. He’ll even oppose the Prince of princes and be broken without human agency. </span></i></span>
+<span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The vision about the mornings and evenings is real; but keep it to yourself because it deals with the distant future.” </span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I lay sick and drained for several days. Then I got up to carry on the king’s business, but the vision kept troubling me, and nobody <i>came to</i> explain it <i>to me</i>.<b>           </b></span></span></p>
+
 <p class="section-ref">Dan 8:15-27</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

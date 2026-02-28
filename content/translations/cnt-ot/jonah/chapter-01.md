@@ -1,39 +1,59 @@
 ---
 book: Jonah
 chapter: 1
-next: chapter-02
 title: Jonah 1
 translation: CNT
 type: chapter
 weight: 1
+next: chapter-02
 ---
 
 ## Jonah Chapter 1
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> The LORD told Jonah son of Amittai, <strong><sup>2</sup></strong><em>“Go</em><em> to Nineveh</em><em>,</em><em> th</em><em>at</em><em> big city, and </em><em>shout</em><em> </em><em>against it;</em><em> </em><em>I’ve seen how sinful they are</em><em>.”</em> <strong><sup>3</sup></strong>But Jonah ran away. <strong><sup>3</sup></strong>He went down to Joppa, found a ship to Tarshish, paid the fare, and boarded.</span>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> The LORD hurled a gale on the sea, and it was about to break up the ship. <strong><sup>5</sup></strong>The sailors were scared, and every man cried out to his god. They threw the cargo overboard to lighten the ship. Jonah had gone below and fallen sound asleep. <strong><sup>6</sup></strong>The captain came and said, <em>“</em><em>How come </em><em>you’re sleeping?</em><em> </em><em>Get up, call on your god.</em><em> </em><em>Maybe he’ll be concerned about </em><em>us </em><em>enough </em><em>to keep us from</em><em> </em><em>dying</em><em>.”</em> <strong><sup>7</sup></strong>They said to one another,<em> “Let’s cast lots to find out who </em><em>caused</em><em> this </em><em>catastrophe to hit</em><em> us.”</em><em> </em>They cast lots, and it fell on Jonah. <strong><sup>8</sup></strong><em>“Tell</em><em> us, now!</em><em> Why has</em><em> this </em><em>catastrophe fallen on us</em><em>?</em><em> </em><em>What’s your job?</em><em> </em><em>What’s your country?</em><em> </em><em>Wh</em><em>o are your</em><em> people?”</em><strong></span>
-<p class="section-ref">Jon 1:1-8</p>
+### Jonah’s Flight from the LORD
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>“I</em><em>’m</em><em> a Hebrew; I fear the </em><em>L</em><em>ORD</em><em> God of heaven that made the land</em><em> and sea</em><em>.”</em></span>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> They were really afraid, <em>“How could you do th</em><em>at</em><em>?”</em> (They knew he was running from the LORD; he’d told them.) <strong><sup>11</sup></strong><em>“</em><em>What</em><em> should we do to you to stop the</em><em> sea </em><em>from raging?” </em>It kept getting worse.</span>
+<p class="MsoListBulletCxSpFirst" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> told Jonah son of Amittai, </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Go to Nineveh, that big city, and shout against it; I’ve seen how sinful they are.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But Jonah ran away. </span></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He went down to Joppa, found a ship to Tarshish, paid the fare, and boarded. </span></span></p>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> <em>“</em><em>Throw</em><em> me into the sea.</em><em> I know it’s my fault this </em><em>severe</em><em> storm has come on you.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> hurled a gale on the sea, and it was about to break up the ship. </span></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The sailors were scared, and every man cried out to his god. They threw the cargo overboard to lighten the ship. Jonah had gone below and fallen sound asleep. </span></span>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The captain came and said, <i>“How come you’re sleeping? Get up, call on your god. Maybe he’ll be concerned about us enough to keep us from dying.”</i> </span></span>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They said to one another,<i> “Let’s cast lots to find out who caused this catastrophe to hit us.” </i>They cast lots, and it fell on Jonah. </span></span>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Tell us, now! Why has this catastrophe fallen on us? What’s your job? What’s your country? Who are your people?”</span></i><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                                     Jon 1:1-8</span></b></span></p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> But they rowed hard, trying to get back to shore, but they couldn’t. The sea was getting even rougher. <strong><sup>14</sup></strong>So they called on the LORD, <em>“We earnestly pray, </em><em>L</em><em>ORD</em><em>, </em><em>not to let us die over</em><em> this man’s </em><em>sin</em><em>.</em><em> </em><em>Don’t </em><em>hold us guilty for </em>throwing him to <em>his death</em><em>.</em><em> You’re doing what</em><em> you </em><em>wanted</em><em>.”</em><em> </em><strong><sup>15</sup></strong>They picked Jonah up and threw him overboard, and the sea stopped raging. <strong><sup>16</sup></strong>They feared the LORD greatly and offered sacrifice to him and made vows.</span>
-<p class="section-ref">Jon 1:9-16</p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’m a Hebrew; I fear the L</span></i><i><span style='font-size:9.0pt;line-height: 115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> God of heaven that made the land and sea.”</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They were really afraid, <i>“How could you do that?”</i> (They knew he was running from the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>; he’d told them.) </span></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“What should we do to you to stop the sea from raging?” </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It kept getting worse. </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Throw me into the sea. I know it’s my fault this severe storm has come on you.”</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But they rowed hard, trying to get back to shore, but they couldn’t. The sea was getting even rougher. </span></span>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So they called on the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,
+<i>“We earnestly pray, L</i></span><i><span style='font-size:9.0pt;line-height: 115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, not to let us die over this man’s sin. Don’t hold us guilty for </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>throwing him to <i>his death. You’re doing what you wanted.” </i></span></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They picked Jonah up and threw him overboard, and the sea stopped raging. </span></span>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They feared the L</span><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> greatly and offered sacrifice to him and made vows. <b>                                                                                                                                   </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jon 1:9-16</span></b></span></p>
+
 
 ### Jonah’s Prayer
 
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> The LORD had a big fish swallow Jonah, and he was in its stomach three days and nights.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> had a big fish swallow Jonah, and he was in its stomach three days and nights.</span></span></p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

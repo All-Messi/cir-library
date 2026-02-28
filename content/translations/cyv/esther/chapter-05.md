@@ -1,35 +1,68 @@
 ---
 book: Esther
 chapter: 5
-next: chapter-06
-prev: chapter-04
 title: Esther 5
 translation: CYV
 type: chapter
 weight: 5
+prev: chapter-04
+next: chapter-06
 ---
 
 ## Esther Chapter 5
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> On the third day, Esther put on her royal robes and stood in the inner court of the king’s palace by his rooms. He was sitting on his throne across from the entrance to the palace. <strong><sup>2</sup></strong>When he saw her, he was pleased and extended the gold scepter that was in his hand. She came and touched the top of it.</span>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> He asked her, 	<strong><em>“What’s troubling you, Queen Esther? </em></strong> <strong><em>	What’s your request? I’ll give it to you </em></strong><strong><em>u</em></strong><strong><em>p to half the kingdom.”</em></strong><strong> </strong></span>
+### Esther’s Request to the King
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> She said, <em>“If it pleases </em><em>you</em><em>, may </em><em>you </em><em>and Haman come to the banquet I’ve prepared for</em><em> you</em><em><sup>sg</sup></em><em><sup> </sup></em><em>today</em><em>.”</em></span>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> He said, <em>“Bring Haman </em><em>right away</em><em> so we can do what Esther </em><em>wants</em><em>.”</em> The king and Haman went to the banquet she’d prepared. <strong><sup>6</sup></strong>As they drank their wine, the king asked her, 	<em>	</em><strong><em>“What’s your petition; I’ll grant it. </em></strong> <strong><em>	What’s your request? I’ll do it</em></strong><strong><em> </em></strong><strong><em>u</em></strong><strong><em>p to half the kingdom.”</em></strong><strong> </strong><strong>	</strong><strong>  </strong><strong>Esther 5:1-6</strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>On the third day, Esther put on her royal robes and stood in the inner court of the king’s palace by his rooms. He was sitting on his throne across from the entrance to the palace. </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he saw her, he was pleased and extended the gold scepter that was in his hand. She came and touched the top of it. </span></span></p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> Esther answered, <em>“My petition is:</em><em> </em><strong><sup>8</sup></strong><em>if</em><em> I’ve found favor with </em><em>you</em><em>, if it pleases </em><em>you </em><em>to grant my petition, may </em><em>you</em><em><sup> </sup></em><em>and Haman come to the banquet I’ll prepare for </em><em>you</em><em>, and tomorrow I’</em><em>ll do like</em><em> </em><em>you ask</em><em>.”</em><em> </em> 	<strong>Haman Plans to Hang Mordecai</strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He asked her, </span></span></p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> Haman went out happy and pleased. But when he saw Mordecai in the king’s gate not standing up or nervous in his presence, it made him mad. <strong><sup>10</sup></strong>He controlled himself, though, went home and sent for his friends and his wife Zeresh. <strong><sup>11</sup></strong>He recounted his glorious wealth, how many sons he had, every instance where the king had honored him and promoted him above the king’s <em>other</em> nobles and officials. <strong><sup>12</sup></strong>He added, “<em>Even </em><em>Queen </em><em>Esther didn’t </em><em>have</em><em> anybody but me come with the king to the banquet she’</em><em>d prepared. S</em><em>he’s also invited me </em><em>with</em><em> </em><em>him tomorrow</em><em>.</em><em> </em><strong><sup>13</sup></strong><em>Yet</em><em> </em><em>none</em><em> of this </em><em>satisfies</em><em> me </em><em>whenever</em><em> I see Mordecai the Jew sitting at the king’s gate.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <b><i>“What’s troubling you, Queen Esther? </i></b></span></p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> Zeresh and his friends said, <em>“</em><em>Have </em><em>gallows built </em><em>75f</em><em>t</em><em> </em><em>high</em><em>. I</em><em>n the morning</em><em>,</em><em> ask the king</em><em> to have Mordecai hanged on it. T</em><em>hen go happy with </em><em>him</em><em> to the banquet.” </em> <em> </em><em>	</em>Haman liked that, so he had them built.<strong>	</strong><strong>	 </strong><strong>Esther 5:7-14</strong> 	<strong>The King Honors Mordecai</strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            What’s your request? I’ll give it to you up to half the kingdom.”</span></i></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></b></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She said, <i>“If it pleases you, may you and Haman come to the banquet I’ve prepared for you</i></span><i><sup><span style='font-size:14.0pt;line-height: 115%;font-family:"Times New Roman",serif'>sg </span></sup></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>today.”</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said, <i>“Bring Haman right away so we can do what Esther wants.”</i> The king and Haman went to the banquet she’d prepared. </span></span>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As they drank their wine, the king asked her, </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <b>“What’s your petition; I’ll grant it. </b></span></i></p>
+
+
+### What’s your request? I’ll do it up to half the kingdom.”                       Esther 5:1-6
+
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Esther answered, </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“My petition is: </span></i><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>if I’ve found favor with you, if it pleases you to grant my petition, may you<sup>
+</sup>and Haman come to the banquet I’ll prepare for you, and tomorrow I’ll do like you ask.” </span></i></span></p>
+
+
+### Haman Plans to Hang Mordecai
+
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Haman went out happy and pleased. But when he saw Mordecai in the king’s gate not standing up or nervous in his presence, it made him mad. </span></span>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He controlled himself, though, went home and sent for his friends and his wife Zeresh. </span></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He recounted his glorious wealth, how many sons he had, every instance where the king had honored him and promoted him above the king’s <i>other</i> nobles and officials. </span></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He added, </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“<i>Even Queen Esther didn’t have anybody but me come with the king to the banquet she’d prepared. She’s also invited me with him tomorrow. </i></span><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yet none of this satisfies me whenever I see Mordecai the Jew sitting at the king’s gate.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Zeresh and his friends said, <i>“Have gallows built 75ft high. In the morning, ask the king to have Mordecai hanged on it. Then go happy with him to the banquet.” </i></span></span></p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

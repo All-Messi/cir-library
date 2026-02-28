@@ -1,56 +1,101 @@
 ---
 book: John
 chapter: 10
-next: chapter-11
-prev: chapter-09
 title: John 10
 translation: CNT
 type: chapter
 weight: 10
+prev: chapter-09
+next: chapter-11
 ---
 
 ## John Chapter 10
 
+
 ### Sermon on the Good Shepherd
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> <em>“Whoever doesn’t </em><em>go through the gate into the sheep pen</em><em> but climbs up som</em><em>ewhere else</em><em>, is a </em><em>thief</em><em>.</em><em> </em><strong><sup>2</sup></strong><em>A shepherd comes through the gate.</em><em> </em><strong><sup>3</sup></strong><em>The gatekeeper lets</em><em> him</em><em> in</em><em>, and the sheep recognize his voice.</em><em> </em><em>He calls </em><em>them</em><em> by name and leads them out.</em><em> </em><strong><sup>4</sup></strong><em>When he gets them out, he goes </em><em>in front</em><em> of them, and they follow him because they know his voice.</em><em> </em><strong><sup>5</sup></strong><em>They </em><em>won’t</em><em> follow a stranger.</em><em> </em><em>They’ll run away because they don’t recognize his voice.”</em><em> </em></span>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> They didn’t understand what Jesus meant by the illustration.</span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span></b><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>10</span></b><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>:</span></sup></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Whoever doesn’t go through the gate into the sheep pen but climbs up somewhere else, is a thief. </span></i></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A shepherd comes through the gate. </span></i></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The gatekeeper lets him in, and the sheep recognize his voice. He calls them by name and leads them out. </span></i></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he gets them out, he goes in front of them, and they follow him because they know his voice. </span></i></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They won’t follow a stranger. They’ll run away because they don’t recognize his voice.” </span></i></span></p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> Again, Jesus said, <em>“I’m the gate for the sheep.</em><em> </em><strong><sup>8</sup></strong><em>Th</em><em>e ones that </em><em>came before </em><em>me </em><em>were </em><em>thieves and insurrectionists</em><em>, but the sheep didn’t listen to them.</em><em> </em><strong><sup>9</sup></strong><em>If anybody </em><em>com</em><em>es in through me, he’ll be safe and can go in and out and find pasture.</em><em> </em><strong><sup>10</sup></strong><em>A </em><em><u>thief</u></em><em> comes </em><em>to steal, slaughter, and destroy. I’ve come so they can live and live more abundantly.</em><em> </em><strong><sup>11</sup></strong><em>I’m a good shepherd; a </em><em><u>good shepherd</u></em><em> risks his life for his sheep.</em><em> </em><strong><sup>12</sup></strong><em>A </em><em><u>hired hand</u></em><em> </em><em>sees a </em><em>wolf</em><em> co</em><em>ming</em><em> and runs away </em><em>because</em><em> the sheep don’t</em><em> belong to him</em><em>.</em><em> A</em><em> </em><em><u>wolf</u></em><em> snatches them and scatters them.</em><em> </em><strong><sup>13</sup></strong><em>A hired hand doesn’t care about the</em><em>m</em><em>.</em><em> </em><strong><sup>14</sup></strong><em>I’m a good shepherd; I know my sheep, and they know me.</em><em> </em><strong><sup>15</sup></strong><em>I know </em><em>the Father like the Father knows me,</em><em> and I </em><em>risk</em><em> my life for my sheep.</em><em> </em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They didn’t understand what Jesus meant by the illustration.</span></span></p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> <em>“And</em><em>, I have other sheep that aren’</em><em>t part of this fold.</em><em> </em><em>I need to lead them too.</em><em> </em><em>They</em><em>’ll</em><em> hear my voice and become one flock </em><em>under</em><em> one shepherd.</em><em> </em><strong><sup>17</sup></strong><em>The Father loves me because I lay down my life to take it back again.</em><em> </em><strong><sup>18</sup></strong><em>Nobody’s taking it away from me.</em><em> </em><em>I’m laying it down voluntarily.</em><em> </em><em>I have the </em><em>authority</em><em> to lay it down and the </em><em>authority</em><em> to </em><em>pick it up again. That’s</em><em> </em><em>what m</em><em>y Father</em><em> told me to do</em><em>.” </em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Again, Jesus said, </span></span></p>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> Again a division arose among the Jews over what he said. <strong><sup>20</sup></strong>A number of them said, <em>“He’s got a demon; he’s crazy.</em><em> </em><em>Why are you listening to him?”</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’m the gate for the sheep. </span></i><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The ones that came before me were thieves and insurrectionists, but the sheep didn’t listen to them. </span></i></span>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If anybody comes in through me, he’ll be safe and can go in and out and find pasture. </span></i></span>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A
+<u>thief</u> comes to steal, slaughter, and destroy. I’ve come so they can live and live more abundantly. </span></i></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’m a good shepherd; a <u>good shepherd</u> risks his life for his sheep. </span></i></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A
+<u>hired hand</u> sees a wolf coming and runs away because the sheep don’t belong to him. A <u>wolf</u> snatches them and scatters them. </span></i></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A hired hand doesn’t care about them. </span></i></span>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’m a good shepherd; I know my sheep, and they know me. </span></i></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I know the Father like the Father knows me, and I risk my life for my sheep. </span></i></span></p>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> Others said, <em>“A demon-poss</em><em>essed man doesn’t talk like that</em><em>.</em><em> </em><em>A demon can’t make blind people see, can it?”</span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“And, I have other sheep that aren’t part of this fold. I need to lead them too. They’ll hear my voice and become one flock under one shepherd. </span></i></span>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Father loves me because I lay down my life to take it back again. </span></i></span>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Nobody’s taking it away from me. I’m laying it down voluntarily. I have the authority to lay it down and the authority to pick it up again. That’s what my Father told me to do.” </span></i></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Again a division arose among the Jews over what he said. </span></span>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A number of them said, <i>“He’s got a demon; he’s crazy. Why are you listening to him?”</i></span></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Others said, <i>“A demon-possessed man doesn’t talk like that. A demon can’t make blind people see, can it?”     </i></span></span></p>
+
 <p class="section-ref">Jn 10:1-21</p>
+
 
 ### Jesus at the Feast of Dedication
 
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> The Festival of Dedication <em>[Hanukkah] </em>took place in Jerusalem during the winter, <strong><sup>23</sup></strong>and Jesus was walking in the Temple in Solomon’s Colonnade. <strong><sup>24</sup></strong>The Jews surrounded him and said, <em>“How long are you going to </em><em>keep</em><em> us in suspense?</em><em> </em><em>Are you the </em><em>Messiah</em><em>?</em><em> </em><em>Tell us plainly.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Festival of Dedication <a name="_Hlk142056041"><i>[Hanukkah] </i></a>took place in Jerusalem during the winter, </span></span>
+<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and Jesus was walking in the Temple in Solomon’s Colonnade. </span></span>
+<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Jews surrounded him and said, <i>“How long are you going to keep us in suspense? Are you the Messiah? Tell us plainly.”</i></span></span></p>
 
-<span class="verse" id="v25"><sup class="verse-num">25</sup> Jesus answered, <em>“I’ve told you, and you don’t believe me.</em><em> </em><em>The things I do in my Father’s name </em><em>speak</em><em> for me.</em><em> </em><strong><sup>26</sup></strong><em>But you don’t believe me because you’re not my sheep.</em><em> </em><strong><sup>27</sup></strong><em>My sheep </em><em>listen to</em><em> my voice, and I know them.</em><em> </em><em>They follow me, </em><strong><sup>28</sup></strong><em>and I give them eternal life.</em><em> Nobody is going to</em><em> snatch them </em><em>from me</em><em>.</em><em> </em><strong><sup>29</sup></strong><em>My Father, who gave them to m</em><em>e, is stronger than anyone</em><em>.</em><em> </em><em>Nobody </em><em>is going to</em><em> snatch them </em><em>from him</em><em>.</em><em> </em><strong><sup>30</sup></strong><em>The Father and I are </em><em>at one.</em><em>”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus answered, <i>“I’ve told you, and you don’t believe me. The things I do in my Father’s name speak for me. </i></span></span>
+<span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But you don’t believe me because you’re not my sheep. </span></i></span>
+<span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>My sheep listen to my voice, and I know them. They follow me, </span></i></span>
+<span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and I give them eternal life. Nobody is going to snatch them from me. </span></i></span>
+<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>My Father, who gave them to me, is stronger than anyone. Nobody is going to snatch them from him. </span></i></span>
+<span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Father and I are at one.”</span></i></span></p>
 
-<span class="verse" id="v31"><sup class="verse-num">31</sup> Again the Jews picked up stones to stone him. <strong><sup>32</sup></strong>Jesus replied to them, <em>“I’ve shown you </em><em>many good deed</em><em>s from the Father.</em><em> </em><em>Which of them are you ready to stone me for?”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Again the Jews picked up stones to stone him. </span></span>
+<span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus replied to them, <i>“I’ve shown you many good deeds from the Father. Which of them are you ready to stone me for?”</i></span></span></p>
 
-<span class="verse" id="v33"><sup class="verse-num">33</sup> <em>“We’re not ready to stone you for </em><em>doing something good</em><em>, but for bla</em><em>sphemy. You’re a mere mortal, and you’re</em><em> </em><em>trying to </em><em>mak</em><em>e</em><em> yourself deity.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“We’re not ready to stone you for doing something good, but for blasphemy. You’re a mere mortal, and you’re trying to make yourself deity.”</span></i></span></p>
 
-<span class="verse" id="v34"><sup class="verse-num">34</sup> Jesus responded, <em>“Doesn’t</em><em> you</em><em>r L</em><em>aw</em><em> say</em><em>, </em><strong><em>‘I said, you are gods’</em></strong><em>?</em> <strong>[Ps</strong><strong> 82:6]</strong><em> </em><strong><sup>35</sup></strong><em>If he called them </em><em>‘</em><em>gods</em><em>’</em><em> that the word of God came to</em><em>—and scripture can’t be broken—</em><strong><sup>36</sup></strong><em>how can</em><em> you say that the One the Father sanctified and sent into the world is blaspheming because I said</em><em> </em><em>I’m God’s Son?</em><em> </em><strong><sup>37</sup></strong><em>If I’m not doing </em><em>what my Father does</em><em>, don’t believe me.</em><em> </em><strong><sup>38</sup></strong><em>If that’s what I </em><em><u>am</u></em><em> doing, </em><em>even if</em><em> you don’t believe </em><em><u>me</u></em><em>, believe </em><em><u>what I do</u></em><em>, </em><em>so you can know that the Father’s in me and I’m in </em><em>him</em><em>.”</em><em> </em><strong><sup>39</sup></strong>They tried to grab him again , but he got away.</span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus responded, <i>“Doesn’t your Law say, <b>‘I said, you are gods’</b>?</i> </span><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Ps 82:6]</span></b><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></i></span>
+<span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If he called them ‘gods’ that the word of God came to—and scripture can’t be broken—</span></i></span>
+<span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>how can you say that the One the Father sanctified and sent into the world is blaspheming because I said I’m God’s Son? </span></i></span>
+<span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If I’m not doing what my Father does, don’t believe me. </span></i></span>
+<span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If that’s what I <u>am</u> doing, even if you don’t believe <u>me</u>, believe <u>what I do</u>, so you can know that the Father’s in me and I’m in him.” </span></i></span>
+<span class="verse verse-v39" id="v39"><sup class="verse-num">39</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They tried to grab him again , but he got away.        </span></span></p>
+
 <p class="section-ref">Jn 10:22-39</p>
+
 
 ### Retirement from Jerusalem to Perea
 
 
-<span class="verse" id="v40"><sup class="verse-num">40</sup> He went away again to the other side of the Jordan <em>River</em>—where John was baptizing at first—and stayed there. <strong><sup>41</sup></strong>Many people came to him. They said, <em>“John didn’t do any sign, but everything he said about this man is true.”</em> <strong><sup>42</sup></strong>Lots of people believed in him there.<strong></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He went away again to the other side of the Jordan <i>River</i>—where John was baptizing at first—and stayed there. </span></span>
+<span class="verse verse-v41" id="v41"><sup class="verse-num">41</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Many people came to him. They said, <i>“John didn’t do any sign, but everything he said about this man is true.”</i> </span></span>
+<span class="verse verse-v42" id="v42"><sup class="verse-num">42</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Lots of people believed in him there</span><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'>.</span></span></p>
+
 <p class="section-ref">Jn 10:40-42</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

@@ -1,28 +1,51 @@
 ---
 book: Joshua
 chapter: 23
-next: chapter-24
-prev: chapter-22
 title: Joshua 23
 translation: CYV
 type: chapter
 weight: 23
+prev: chapter-22
+next: chapter-24
 ---
 
 ## Joshua Chapter 23
 
+
 ### Joshua’s Farewell
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> A good while later, when Joshua was old, <strong><sup>2</sup></strong>he called in Israel’s elders, heads, judges, and officers, and told them, <em>“I’m </em><em>getting old</em><em>.</em><em> </em><strong><sup>3</sup></strong><em>You’ve</em><em> seen everything </em><em>Yahveh</em> <em>your God h</em><em>as done to those nations for you</em><em>.</em><em> He</em><em> fought for you.</em><em> </em><strong><sup>4</sup></strong><em>I’ve</em><em> allotted </em><em>to</em><em> your tribes</em><em> </em><em>t</em><em>hose nations </em><em>that remain, along with the nations I’ve already </em><em>removed</em><em>, from the Jordan to the </em><em>Mediterranean</em><em> Sea in the west.</em><em> </em><strong><sup>5</sup></strong><em>Yahveh</em> <em>will push them back.</em><em> </em><strong><sup>6</sup></strong><em>Keep</em><em> doing everything in the Law of Moses.</em><em> </em><strong><sup>7</sup></strong><em>Don’t</em><em> mix with the</em><em> nations left among you</em><em>. Don’t</em><em> mention their gods,</em><em> swear by them, serve them,</em><em> bow down to them.</em><em> </em><strong><sup>8</sup></strong><em>Hold</em><em> onto Yahveh</em> <em>like</em><em> you’ve done </em><em>so far</em><em>.</em><em> </em><strong><sup>9</sup></strong><em>He</em><em> </em><em>has</em><em> driven out big, strong nations. N</em><em>obody has been able to </em><em>resist</em><em> you.</em><em> </em><strong><sup>10</sup></strong><em>One</em><em> </em><em>of </em><em>you </em><em>puts</em><em> a thousand</em><em> to flight</em><em>, because </em><em>he</em><em> fights for you like he promised.</em><em> </em><strong><sup>11</sup></strong><em>Give</em><em> attention to loving him</em><em>.</em><em> </em><strong><sup>12</sup></strong><em>If</em><em> you join the remnant</em><em>s</em><em> of nations left among you</em><em> and intermarry</em><em> with them, </em><strong><sup>13</sup></strong><em>you</em><em> can be</em><em> sure </em><em>he</em><em> won’t </em><em>keep driving</em><em> them out.</em><em> </em><em>They’ll be a snare</em><em>,</em><em> </em><em>a trap, a scourge </em><em>in</em><em> your sides,</em><em> thorns in your eyes, till you</em><em> perish from this good land</em><em> </em><em>he’</em><em>s given you.</em></span>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> <em>“I’m</em><em> </em><em>going to die soon. Y</em><em>ou know in your hearts and souls that not one </em><em>good </em><em>thing has failed to happen that </em><em>Yahveh</em> <em>promised</em><em>.</em><em> </em><strong><sup>15</sup></strong><em>Just</em><em> as </em><em>he has done </em><em>all the good things </em><em>he promised, he’ll bring about all </em><em>the </em><em>bad</em><em> things </em><em>till he’</em><em>s destroyed you.</em><em> </em><strong><sup>16</sup></strong><em>If</em><em> you sin against his covenant</em><em>, serve other g</em><em>ods</em><em>,</em><em> and bow to them, his anger will </em><em>flare at you, and you’ll soon perish</em><em>.”</em><strong> </strong><strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>A good while later, when Joshua was old, </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>he called in Israel’s elders, heads, judges, and officers, and told them, </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’m getting old. </span></i><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’ve seen everything Yahveh</span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> <i>your God has done to those nations for you. He fought for you. </i></span></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ve allotted to your tribes those nations that remain, along with the nations I’ve already removed, from the Jordan to the Mediterranean Sea in the west. </span></i></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> <i>will push them back. </i></span></span>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Keep doing everything in the Law of Moses. </span></i></span>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Don’t mix with the nations left among you. Don’t mention their gods, swear by them, serve them, bow down to them. </span></i></span>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Hold onto Yahveh</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> <i>like you’ve done so far. </i></span></span>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He has driven out big, strong nations. Nobody has been able to resist you. </span></i></span>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>One of you puts a thousand to flight, because he fights for you like he promised. </span></i></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Give attention to loving him. </span></i></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you join the remnants of nations left among you and intermarry with them, </span></i></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>you can be sure he won’t keep driving them out. They’ll be a snare, a trap, a scourge in your sides, thorns in your eyes, till you perish from this good land he’s given you.</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’m going to die soon. You know in your hearts and souls that not one good thing has failed to happen that Yahveh</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> <i>promised. </i></span></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Just as he has done all the good things he promised, he’ll bring about all the bad things till he’s destroyed you. </span></i></span>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you sin against his covenant, serve other gods, and bow to them, his anger will flare at you, and you’ll soon perish.”</span></i></span></span></p>
+
 <p class="section-ref">Josh 23:1-16</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

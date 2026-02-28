@@ -1,43 +1,69 @@
 ---
 book: Leviticus
 chapter: 5
-next: chapter-06
-prev: chapter-04
 title: Leviticus 5
 translation: CNT
 type: chapter
 weight: 5
+prev: chapter-04
+next: chapter-06
 ---
 
 ## Leviticus Chapter 5
 
+
 ### Sins Requiring Sin Offerings
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> <em>“If you receive a summons to testify about something you’ve seen or </em>otherwise<em> known and you don’t do it, you’re considered guilty. </em><strong><sup>2</sup></strong><em>If you touch anything ceremonially unclean,</em><em> </em><em>even unintentionally—swarming things or the carcass of an unclean animal—you’re considered defiled. </em><strong><sup>3</sup></strong><em>If you unintentionally touch such human uncleanness and then realize it, you’re considered defiled. </em><strong><sup>4</sup></strong><em>If you swear rashly to do good or bad and come to realize it, you’re considered guilty. </em><strong><sup>5</sup></strong><em>When you become guilty, report what you’ve done </em><strong><sup>6</sup></strong><em>and bring </em><em><u>a female lamb or goat</u></em><em> as a guilt offering. The priest will atone for you.</span>
-<p class="section-ref">Lev 5:1-6</p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>“I</em><em>f </em><em>you</em><em> can’t afford a lamb, bring </em><em><u>two turtledoves or young pigeons</u></em><em>. </em><strong><sup>8</sup></strong><em>The priest will offer one </em><em>as</em><em> </em><em>a</em><em> sin offering. He’ll </em><em>w</em><em>ring its neck, but</em><em> not pull it off. </em><strong><sup>9</sup></strong><em>He’ll sprinkle some of its blood on the side of the altar and pour out the rest at the base of the altar—a sin offering. </em><strong><sup>10</sup></strong><em>He’ll prepare the second </em>bird <em>as a burnt offering according to the ordinance. The priest will atone for you, and you’ll be forgiven</em><em>.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><a name="_Hlk126790016"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If you receive a summons to testify about something you’ve seen or </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>otherwise</span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> known and you don’t do it, you’re considered guilty. </span></i></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you touch anything ceremonially unclean, even unintentionally—swarming things or the carcass of an unclean animal—you’re considered defiled. </span></i></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you unintentionally touch such human uncleanness and then realize it, you’re considered defiled. </span></i></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you swear rashly to do good or bad and come to realize it, you’re considered guilty. </span></i></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When you become guilty, report what you’ve done </span></i></span>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and bring <u>a female lamb or goat</u> as a guilt offering. The priest will atone for you.    </span></i><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'>Lev 5:1-6</span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
+</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If you can’t afford a lamb, bring <u>two turtledoves or young pigeons</u>. </span></i></span>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The priest will offer one as a sin offering. He’ll wring its neck, but not pull it off. </span></i></span>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He’ll sprinkle some of its blood on the side of the altar and pour out the rest at the base of the altar—a sin offering. </span></i></span>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He’ll prepare the second </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>bird </span><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>as a burnt offering according to the ordinance. The priest will atone for you, and you’ll be forgiven.                                                                                                                 </span></i></span></p>
+
 <p class="section-ref">Lev 5:7-10</p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> <em>“If you can’t afford two turtledoves or young pigeons, </em><em>take .11 bushel </em><em><sup>.</sup></em><em><sup>1 ephah</sup></em><em><sup> </sup></em><em>of fine flour</em><em> for a sin offering. Don’t put olive oil or incense on it; it’s a sin offering. </em><strong><sup>12</sup></strong><em>Take a handful of it</em><em> </em><em>to the priest as God’s portion to offer up in smoke on the altar as a sin offering. </em><strong><sup>13</sup></strong><em>The priest will atone for you in one of those ways and you’ll be forgiven. The rest is for the priest—like a grain offering.’”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><a name="_Hlk126790115"><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If you can’t afford two turtledoves or young pigeons, take .11 bushel <sup>.</sup></span></i><i><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 ephah</span></sup></i><i><sup><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span></sup></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>of fine flour for a sin offering. Don’t put olive oil or incense on it; it’s a sin offering. </span></i></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Take a handful of it to the priest as God’s portion to offer up in smoke on the altar as a sin offering. </span></i></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The priest will atone for you in one of those ways and you’ll be forgiven. The rest is for the priest—like a grain offering.’”                                                                                                                                                 </span></i></span></p>
+
 <p class="section-ref">Lev 5:11-13</p>
+
 
 ### Guilt Offering
 
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> The<strong><sup> </sup></strong>LORD told Moses,</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.25in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The</span><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> told Moses, </span></span></p>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> <em>“If you sin unintentionally against the </em><em>L</em><em>ORD</em><em>’s holy property, take a guilt offering to the </em><em>L</em><em>ORD</em><em>: a ram without defect according to your evaluation in silver shekels of the sanctuary. </em><strong><sup>16</sup></strong><em>Pay compensation for your sin, add a fifth, and give it to the priests. The priest will atone for you with the ram, and you’ll be forgiven.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If you sin unintentionally against the L</span></i><i><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s holy property, take a guilt offering to the L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>: a ram without defect according to your evaluation in silver shekels of the sanctuary. </span></i></span>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Pay compensation for your sin, add a fifth, and give it to the priests. The priest will atone for you with the ram, and you’ll be forgiven.
+</span></i></span></p>
+
 <p class="section-ref">Lev 5:14-16</p>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> <em>“If you sin unintentionally by doing anything the </em><em>L</em><em>ORD</em><em> forbids, you’re still considered guilty and will take your punishment. </em><strong><sup>18</sup></strong><em>Take the priest a ram without defect according to your valuation for a guilt offering. The priest will atone for your unintentional sin, and you’ll be forgiven. </em><strong><sup>19</sup></strong><em>It’s a guilt offering; the </em><em>L</em><em>ORD</em><em> has certainly considered you guilty.”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><a name="_Hlk126790240"><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If you sin unintentionally by doing anything the L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> forbids, you’re still considered guilty and will take your punishment. </span></i></span>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Take the priest a ram without defect according to your valuation for a guilt offering. The priest will atone for your unintentional sin, and you’ll be forgiven. </span></i></span>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It’s a guilt offering; the L</span></i><i><span style='font-size:9.0pt;line-height: 115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> has certainly considered you guilty.”  </span></i></span></span></p>
+
 <p class="section-ref">Lev 5:17-19</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

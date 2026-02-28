@@ -1,72 +1,147 @@
 ---
 book: Exodus
 chapter: 15
-next: chapter-16
-prev: chapter-14
 title: Exodus 15
 translation: CYV
 type: chapter
 weight: 15
+prev: chapter-14
+next: chapter-16
 ---
 
 ## Exodus Chapter 15
 
+
 ### Moses’ Song of Triumph
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Then Moses and the Israelites sang this song to Yahveh: <em>“I’ll sing to Yahveh because he’s triumphed gloriously;</em> <em>	</em><em>	he’s thrown t</em><em>he horse and its rider into the sea.</em></span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>Yahveh is my strength and song;</em> <em>	</em><em>	he i</em><em>s my salvation.</em> <em>	He’s my God, and I’</em><em>ll </em><em>praise him,</em> <em>	</em><em>	</em><em>my </em><em>ancestors’ God, and I’</em><em>ll </em><em>honor </em><em>him.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Moses and the Israelites sang this song to Yahveh: </span></span></p>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> <em>He’</em><em>s a </em><em>soldier</em><em>;</em> <em>	</em><em>	</em><em>	</em><em>his name</em><em> is Yahveh</em><em>.</em><em>	</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      <i>“I’ll sing to Yahveh because he’s triumphed gloriously;</i></span></p>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> <em>He ha</em><em>s thrown Pharao</em><em>h’s chariots and army</em><em> </em><em>into the Red S</em><em>ea;</em> <em>	</em><em>	</em><em>his </em><em>elite </em><em>officers have drowned.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            he’s thrown the horse and its rider into the sea.</span></i></p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>The depths covered them;</em> <em>	</em><em>	</em><em>t</em><em>hey sank like rocks</em><em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></i><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh is my strength and song;</span></i></span></p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>Your right hand, </em><em>Yahveh</em><em>, </em><em>was majestic in </em>its <em>power;</em> <em>	</em><em>	it </em><em>shatter</em><em>ed</em><em> the enemy.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            he is my salvation.</span></i></p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>In your extreme excellence</em><em>,</em><em> you overthr</em><em>e</em><em>w </em><em>your opponents.</em> <em>	</em><em>	You sent out your burning anger</em><em> </em> <em>	</em><em>	that</em><em> consume</em><em>d</em><em> them like chaff.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      He’s my God, and I’ll praise him,</span></i></p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>At the blast of your nostrils</em><em>,</em><em> the water piled up;</em> <em>	</em><em>	liquid water stood </em><em>in a </em><em>heap</em><em>;</em> <em>	</em><em>	</em><em>the depths </em><em>of the sea </em><em>congealed.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            my ancestors’ God, and I’ll honor him.</span></i></p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>The enemy said, ‘I’</em><em>ll pursue, </em> <em>	</em><em>	I’ll overtake, I’</em><em>ll divide </em><em>up </em><em>spoil;</em> <em>	</em><em>	I’ll satisfy </em><em>m</em><em>y desire</em><em> against them;</em> <em>	</em><em>	I’ll draw out my sword and </em><em>destroy them.’</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></i><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He’s a soldier;</span></i></span></p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>You blew with your wind; the sea covered them;</em> <em>	</em><em>	</em><em>t</em><em>hey sank like lead in</em><em> deep water.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        his name is Yahveh.    </span></i></p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> <em>Who is like you, majestic in holiness,</em> <em>	</em><em>	</em><em>awesome in praises, working wonders?</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></i><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He has thrown Pharaoh’s chariots and army into the Red Sea;</span></i></span></p>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> <em>You </em><em>reach</em><em>ed out your hand,</em> <em>	</em><em>	and </em><em>the earth swallowed them.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            his elite officers have drowned.</span></i></p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> <em>In your kindness you led the people you redeemed;</em> <em>	</em><em>	</em><em>in your strength you guided them to your </em><em>sacred abode</em><em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></i><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The depths covered them;</span></i></span></p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> <em>The </em><em>nations</em><em> have heard</em><em> and</em><em> tremble;</em> <em>	</em><em>	</em><em>anguish has gripped the </em><em>people in </em><em>Philistia.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            they sank like rocks.</span></i></p>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> <em>The chiefs in Edom a</em><em>re </em><em>scar</em><em>ed;</em> <em>	</em><em>	the leaders in</em><em> Moab tremble;</em> <em>	</em><em>	</em><em>the </em><em>people in</em><em> Canaan </em><em>melt</em><em> away.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></i><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Your right hand, Yahveh, was majestic in </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>its <i>power;</i></span></span></p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> <em>Panic</em><em> and dread </em><em>have </em><em>fall</em><em>en</em><em> on them;</em> <em>	</em><em>	</em><em>by your </em><em>great </em><em>power</em><em> they’</em><em>re </em><em>as still as stone,</em> <em>	</em><em>	</em><em>	</em><em>until your people pass over, </em> <em>	</em><em>	</em><em>	</em><em>until </em><em>the people pass over that you’</em><em>ve bought.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            it shattered the enemy.</span></i></p>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> <em>You’</em><em>ll </em><em>take</em><em> them and plan</em><em>t them in the mountain </em> <em>	</em><em>	in</em><em> your </em><em>permanent possession</em><em>,</em> <em>	</em><em>	where you’</em><em>ve made</em><em> yourself a place</em><em> </em><em>to live</em><em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></i><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In your extreme excellence, you overthrew your opponents.</span></i></span></p>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> <em>Yahveh </em><em>will reign </em><em>forever</em><em>.”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            You sent out your burning anger </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            that consumed them like chaff.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></i><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At the blast of your nostrils, the water piled up;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            liquid water stood in a heap;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            the depths of the sea congealed.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></i><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The enemy said, ‘I’ll pursue, </span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            I’ll overtake, I’ll divide up spoil;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            I’ll satisfy my desire against them;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            I’ll draw out my sword and destroy them.’</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></i><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You blew with your wind; the sea covered them;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            they sank like lead in deep water.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></i><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Who is like you, majestic in holiness,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            awesome in praises, working wonders?</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></i><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You reached out your hand,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and the earth swallowed them.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></i><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In your kindness you led the people you redeemed;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            in your strength you guided them to your sacred abode.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></i><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The nations have heard and tremble;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            anguish has gripped the people in Philistia.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></i><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The chiefs in Edom are scared;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            the leaders in Moab tremble;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            the people in Canaan melt away.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></i><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Panic and dread have fallen on them;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            by your great power they’re as still as stone,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        until your people pass over, </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        until the people pass over that you’ve bought.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></i><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’ll take them and plant them in the mountain </span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            in your permanent possession,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            where you’ve made yourself a place to live.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></i><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh will reign forever.”                                                   </span></i></span></span></p>
+
 <p class="section-ref">Ex 15:1-18</p>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> Pharaoh’s horses, chariots, and cavalry went into the sea, and Yahveh washed the water back over them; but the Israelites walked through on dry seabed. <strong><sup>20</sup></strong>Miriam the prophetess, Aaron’s sister, took a tambourine and went out with the women with tambourines and dancing.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Pharaoh’s horses, chariots, and cavalry went into the sea, and Yahveh washed the water back over them; but the Israelites walked through on dry seabed. </span></span>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Miriam the prophetess, Aaron’s sister, took a tambourine and went out with the women with tambourines and dancing. </span></span></p>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> She lined out a song to them, <em>	</em><em>	“Sing to Yahveh because he has triumphed gloriously</em><em>;</em> <em>	</em><em>	</em><em>	he threw the horse and its rider into</em><em> the sea.”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She lined out a song to them,</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        “Sing to Yahveh because he has triumphed gloriously;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        he threw the horse and its rider into the sea.”                              </span></i></span></p>
+
 <p class="section-ref">Ex 15:19-21</p>
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> Moses led the Israelites from the Red Sea to the Wilderness of Shur. They traveled three days without finding water. <strong><sup>23</sup></strong>When they got to Marah, the water was too “brackish” to drink. That’s why it was called Marah. <strong><sup>24</sup></strong>The people complained to Moses, <em>“What are we going to drink?”</em><em> </em><strong><sup>25</sup></strong>He called out to Yahveh, and he showed him a tree. <em>Moses</em> threw it in the water and made it drinkable. <em>Yahveh</em> made a statute and regulation to test them.<em> </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses led the Israelites from the Red Sea to the Wilderness of Shur. They traveled three days without finding water. </span></span>
+<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When they got to Marah, the water was too “brackish” to drink. That’s why it was called Marah. </span></span>
+<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The people complained to Moses, <i>“What are we going to drink?” </i></span></span>
+<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He called out to Yahveh, and he showed him a tree. <i>Moses</i> threw it in the water and made it drinkable. <i>Yahveh</i> made a statute and regulation to test them.<i> </i></span></span></p>
 
-<span class="verse" id="v26"><sup class="verse-num">26</sup> <em>“If you </em><em>sincere</em><em>ly</em><em> </em><em>pay </em><em>attention to </em><em>me</em><em>, do what </em><em>I</em><em> consider right, listen to </em><em>my</em><em> commandments, </em><em>and </em><em>keep </em><em>my</em><em> statu</em><em>t</em><em>es, I won’t put any disease on you that I put on the Egyptians, because I</em><em>’</em><em>m your healer.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If you sincerely pay attention to me, do what I consider right, listen to my commandments, and keep my statutes, I won’t put any disease on you that I put on the Egyptians, because I’m your healer.”</span></i></span></p>
 
-<span class="verse" id="v27"><sup class="verse-num">27</sup> They came to Elim with its 12 springs and 70 date palms, and camped there beside the water.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They came to Elim with its 12 springs and 70 date palms, and camped there beside the water.
+</span></span></p>
+
 <p class="section-ref">Ex 15:22-27</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

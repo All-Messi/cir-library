@@ -93,14 +93,27 @@
                 const results = searchData.filter(item => {
                     return (item.title && item.title.toLowerCase().includes(query)) ||
                            (item.content && item.content.toLowerCase().includes(query));
-                }).slice(0, 6);
+                });
+
+                // Sort: essays/resources first, then chapters
+                results.sort((a, b) => {
+                    const aTitle = a.title && a.title.toLowerCase().includes(query) ? 1 : 0;
+                    const bTitle = b.title && b.title.toLowerCase().includes(query) ? 1 : 0;
+                    const aEssay = !a.book ? 1 : 0;
+                    const bEssay = !b.book ? 1 : 0;
+                    // Title matches first, then essays before chapters
+                    if (aTitle !== bTitle) return bTitle - aTitle;
+                    return bEssay - aEssay;
+                });
+
+                const shown = results.slice(0, 8);
 
                 if (results.length === 0) {
                     dropdown.style.display = 'none';
                     return;
                 }
 
-                dropdown.innerHTML = results.map(r => {
+                dropdown.innerHTML = shown.map(r => {
                     let subtitle = '';
                     if (r.translation) {
                         subtitle = r.translation;

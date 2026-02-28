@@ -1,38 +1,70 @@
 ---
 book: Genesis
 chapter: 9
-next: chapter-10
-prev: chapter-08
 title: Genesis 9
 translation: CYV
 type: chapter
 weight: 9
+prev: chapter-08
+next: chapter-10
 ---
 
 ## Genesis Chapter 9
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> God blessed Noah and his sons<em>, </em> <em>“Reproduce and repopulate</em><em> the </em><em>world</em><em>.</em><em> </em><strong><sup>2</sup></strong><em>A</em><em>nimal</em><em>s</em><em> and bird</em><em>s</em><em> will b</em><em>e afraid of you. I’ve made you</em><em> </em><em>responsible for </em><em>what moves on the ground and </em><em>for the fish in the ocean</em>. <strong><sup>3</sup></strong><em>Y</em><em>ou</em><em> can eat </em><em>an</em><em>ything</em><em> that</em><em> live</em><em>s</em><em> and mo</em><em>ves as well as the green plants, </em><strong><sup>4</sup></strong><em>b</em><em>ut</em><em> don’t eat the blood with </em><em>the </em><em>meat.</em><em> </em><strong><sup>5</sup></strong><em>I’ll</em><em> </em><em>demand</em><em> </em><em><u>your</u></em><em> life</em><em> from every animal and everyone </em><strong><sup>6</sup></strong><em>that</em><em> sheds </em><em>someone’s</em><em> blood</em><em>. They</em><em> </em><em>will have </em><em><u>their</u></em><em> blood</em><em> shed</em><em> because </em><em>I</em> <em>made people</em><em> in </em>my<em> image.</em><em> </em><strong><sup>7</sup></strong><em>R</em><em>eproduce</em><em> and </em><em>re</em><em>populate the world abundantly.”</em><em></span>
-<p class="section-ref">Gen 8:20-9</p>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God blessed Noah and his sons<i>, </i></span></span></p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> God told Noah and his sons,</span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Reproduce and repopulate the world. </span></i><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Animals and birds will be afraid of you. I’ve made you responsible for what moves on the ground and for the fish in the ocean</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>. </span></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You can eat anything that lives and moves as well as the green plants, </span></i></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>but don’t eat the blood with the meat. </span></i></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll demand <u>your</u> life from every animal and everyone </span></i></span>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>that sheds someone’s blood. They will have <u>their</u> blood shed because I</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> <i>made people in </i>my<i> image. </i></span></span>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Reproduce and repopulate the world abundantly.”  </span></i></span></span></p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>“I’m</em><em> establishing </em><em>a</em><em> covenant with you, your descendants, </em><strong><sup>10</sup></strong><em>and</em><em> the living </em><em>things</em><em> that </em><em>left</em><em> the ark:</em><em> </em><strong><sup>11</sup></strong><em>I’ll</em><em> never again </em><em>get rid of</em><em> </em><em>people and animals</em><em> and destroy the world with a flood.</em><em> </em><strong><sup>12</sup></strong><strong><sup>-</sup></strong><strong><sup>13</sup></strong><em>M</em><em>y</em><em> rainbow in the clouds </em><em>represents</em><em> that covenant for all generations:</em><em> </em><strong><sup>14</sup></strong><em>when</em><em> I bring </em><em>cloud</em><em>s</em><em> over the earth, </em><em>the rainbow</em><em> </em><strong><sup>15</sup></strong><em>will</em><em> rem</em><em>ind me of</em><em> my covenant.”</em><em> </em><em>[</em><strong><sup>16-17</sup></strong><em>]</em><em> </em></span>
+<p class="section-ref">Gen 8:20-9:7</p>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> Noah’s sons that came out of the ark were Shem, <u>Ham</u>, and Japheth; <u>Ham</u> was Canaan’s father. <strong><sup>19</sup></strong>Noah’s sons began to repopulate the world.</span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God told Noah and his sons, </span></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’m establishing a covenant with you, your descendants, </span></i></span>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and the living things that left the ark: </span></i></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll never again get rid of people and animals and destroy the world with a flood. </span></i></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12-13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>My rainbow in the clouds represents that covenant for all generations: </span></i></span>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>when I bring clouds over the earth, the rainbow </span></i></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>will remind me of my covenant.” [</span></i></span>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16-17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>]
+</span></i></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Noah’s sons that came out of the ark were Shem, <u>Ham</u>, and Japheth; <u>Ham</u> was Canaan’s father. </span></span>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Noah’s sons began to repopulate the world.
+</span></span></p>
+
 <p class="section-ref">Gen 9:8-19</p>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> Noah began to cultivate the ground and planted a vineyard. <strong><sup>21</sup></strong>He drank the wine and got drunk and uncovered himself in his tent. <strong><sup>22</sup></strong>Ham saw him naked and told his brothers outside. <strong><sup>23</sup></strong>Shem and Japheth held a cloak over their shoulders, walked backwards, and looked away so they wouldn’t see him naked.</span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Noah began to cultivate the ground and planted a vineyard. </span></span>
+<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He drank the wine and got drunk and uncovered himself in his tent. </span></span>
+<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ham saw him naked and told his brothers outside. </span></span>
+<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Shem and Japheth held a cloak over their shoulders, walked backwards, and looked away so they wouldn’t see him naked.</span></span></p>
 
-<span class="verse" id="v24"><sup class="verse-num">24</sup> When Noah woke up from his wine, he found out what his youngest son had done. <strong><sup>25</sup></strong>He said, <em>“</em><em>Acc</em><em>ursed be Canaan</em><em>. H</em><em>e’ll be the lowest </em><em>of </em><em>servant</em><em>s</em><em> to his brothers.</em><em> </em><strong><sup>26</sup></strong><em>Bless</em><em> </em><em>Yahveh</em><em>, Shem’s God.</em><em> </em><em>Canaan </em><em>will </em><em>serve Shem.</em><em> </em><strong><sup>27</sup></strong><em>May</em><em> God </em><em>give </em><em>Japheth</em><em> an extensive inheritance</em><em>.</em><em> He’ll live</em><em> in Shem’s tents, and Canaan </em><em>will </em><em>serve him.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Noah woke up from his wine, he found out what his youngest son had done. </span></span>
+<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said, </span></span></p>
 
-<span class="verse" id="v28"><sup class="verse-num">28</sup> Noah lived 350 years after the flood. <strong><sup>29</sup></strong>Altogether he lived 950 years and died.</span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Accursed be Canaan. He’ll be the lowest of servants to his brothers. </span></i><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Bless Yahveh, Shem’s God. Canaan will serve Shem. </span></i></span>
+<span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>May God give Japheth an extensive inheritance. He’ll live in Shem’s tents, and Canaan will serve him.”</span></i></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Noah lived 350 years after the flood. </span></span>
+<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Altogether he lived 950 years and died.          </span></span></p>
+
 <p class="section-ref">Gen 9:20-29</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

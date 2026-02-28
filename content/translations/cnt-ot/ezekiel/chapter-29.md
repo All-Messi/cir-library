@@ -1,47 +1,101 @@
 ---
 book: Ezekiel
 chapter: 29
-next: chapter-30
-prev: chapter-28
 title: Ezekiel 29
 translation: CNT
 type: chapter
 weight: 29
+prev: chapter-28
+next: chapter-30
 ---
 
 ## Ezekiel Chapter 29
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> <strong>The</strong><strong> twelfth day, tenth month, tenth year</strong>, a message from the LORD came to me:</span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>“Son</em><em> of man, turn toward Pharao</em><em>h,</em><em> Egypt</em><em>’s king</em><em>, and prophesy against him and Egypt.</em><em> </em><strong><sup>3</sup></strong><em>Say</em><em>,’The Lord G</em><em>OD</em><em> says, </em> <em> “I’m against you, Pharaoh, Egypt’s king,</em> <em>	</em><em>you</em><em> big crocodile that lies in your streams,</em> <em>	that has said, ‘My Nile belongs to me; I made it.’</em></span>
+### A Message for Egypt
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> <em>I’ll</em><em> put hooks in your jaws</em> <em>	and make the fish in your streams cling to your scales.</em> <em>I’ll drag you out on the shore</em> <em>	with fish clinging to your scales.</span>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <b><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The twelfth day, tenth month, tenth year</span></b><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>, a message from the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> came to me: </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Son of man, turn toward Pharaoh, Egypt’s king, and prophesy against him and Egypt. </span></i></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Say,’The Lord G</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>OD</span></i><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> says, </span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> “I’m against you, Pharaoh, Egypt’s king,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      you big crocodile that lies in your streams,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      that has said, ‘My Nile belongs to me; I made it.’</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll put hooks in your jaws</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and make the fish in your streams cling to your scales.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll drag you out on the shore</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      with fish clinging to your scales.</span></i></span></p>
+
 <p class="section-ref">Ezek 29:1-4</p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>I’ll</em><em> abandon you to the wilderness,</em> <em>	you and the fish in your streams.</em> <em>You’ll fall in the open field</em> <em>	and not </em><em>be buried</em><em>.</em> <em>I’ll make you food for scavengers on the ground</em> <em>	and buzzards from the sky.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll abandon you to the wilderness,</span></i></span></p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>Then</em><em> you residents in </em><em><u>Egypt will know I’m the </u></em><em><u>L</u></em><em><u>ORD</u></em><em>, </em> <em>	because to Israel you were only a staff </em><em>made out of</em><em> reeds.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      you and the fish in your streams.</span></i></p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>When</em><em> he took hold of you,</em> <strong><sup>	</sup></strong><em>you cut his </em><em>hands;</em> <em>when he leaned on you,</em> <em>	you broke and his loins buckled.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’ll fall in the open field</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and not be buried.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll make you food for scavengers on the ground</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and buzzards from the sky.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then you residents in <u>Egypt will know I’m the </u></span></i><i><u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>L</span></u></i><i><u><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></u></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,
+</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      because to Israel you were only a staff made out of reeds.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he took hold of you,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>you cut his hands;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>when he leaned on you,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      you broke and his loins buckled.  </span></i></span></p>
+
 <p class="section-ref">Ezek 29:5-7</p>
 
-### 8‘So the Lord GOD says, “I’m going to bring a sword against you, and slay people and animals. 9Because you said, ‘The Nile belongs to me, I made it,’ 10I’m against you and your streams. Egypt will become a wasteland from Migdol to Syene to the border of Nubia. 11People and animals won’t travel through it; nobody will live there for 40 years. 12So I’ll make Egypt desolate among desolate lands and its cities desolate among desolate cities for 40 years. I’ll scatter the Egyptians among the nations.  13‘The Lord GOD says, “After 40 years, I’ll gather the Egyptians back from where they’ve scattered. 14I’ll return their fortunes and make them go back to the land of Pathros and become a minor kingdom there. 15Egypt will be low among the kingdoms and never again raise itself above them. I’ll make it too small for that. 16Israel will never rely on it again. They’ll be reminded of their sin in going back to Egypt. They’ll know I’m the Lord GOD.”’ 	  Ezek 29:8-16
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘So the Lord G</span></i><i><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>OD</span></i><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says, “I’m going to bring a sword against you, and slay people and animals. </span></i></span>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Because you said, ‘The Nile belongs to me, I made it,’ </span></i></span>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’m against you and your streams. Egypt will become a wasteland from Migdol to Syene to the border of Nubia. </span></i></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>People and animals won’t travel through it; nobody will live there for 40 years. </span></i></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So I’ll make Egypt desolate among desolate lands and its cities desolate among desolate cities for 40 years. I’ll scatter the Egyptians among the nations. </span></i></span></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘The Lord G</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>OD</span></i><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> says, “After 40 years, I’ll gather the Egyptians back from where they’ve scattered. </span></i></span>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll return their fortunes and make them go back to the land of Pathros and become a minor kingdom there. </span></i></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Egypt will be low among the kingdoms and never again raise itself above them. I’ll make it too small for that. </span></i></span>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel will never rely on it again. They’ll be reminded of their sin in going back to Egypt. <u>They’ll know I’m the Lord G</u></span></i><i><u><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>OD</span></u></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.”’
+                    </span></i></span></span></p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> 'So the Lord GOD says, "I'm going to bring a sword against you, and slay people and animals. 9Because you said, 'The Nile belongs to me, I made it,' 10I'm against you and your streams. Egypt will become a wasteland from Migdol to Syene to the border of Nubia. 11People and animals won't travel through it; nobody will live there for 40 years. 12So I'll make Egypt desolate among desolate lands and its cities desolate among desolate cities for 40 years. I'll scatter the Egyptians among the nations.</span>
+<p class="section-ref">Ezek 29:8-16</p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> 'The Lord GOD says, "After 40 years, I'll gather the Egyptians back from where they've scattered. 14I'll return their fortunes and make them go back to the land of Pathros and become a minor kingdom there. 15Egypt will be low among the kingdoms and never again raise itself above them. I'll make it too small for that. 16Israel will never rely on it again. They'll be reminded of their sin in going back to Egypt. They'll know I'm the Lord GOD."'</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The <b>first day, first month, twenty-seventh year</b>, a message from the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> came to me:</span></span></p>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> The <strong>first day, first month, twenty-seventh year</strong>, a message from the LORD came to me:</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Son of man, Nebuchadnezzar, king of Babylon, made his army struggle hard against Tyre. Every head became bald, and every shoulder was rubbed raw. But he and his army didn’t get enough from Tyre to pay for the struggle. </span></i></span>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So I’ll give him Egypt so he can carry off its wealth, capture its spoil, and seize its plunder to pay his army. </span></i></span>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ve given him Egypt for his struggle because he acted on my behalf. </span></i></span>
+<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At that time, I’ll make a horn sprout for Israel and open your mouth among them. <u>They’ll know I’m the </u></span></i><i><u><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>L</span></u></i><i><u><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></u></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></b></span></span></p>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> <em>“Son</em><em> of man, Nebuchadnezzar</em><em>,</em><em> king of Babylon</em><em>,</em><em> made his army </em><em>struggle</em><em> hard against Tyre.</em><em> </em><em>Every head </em><em>became</em><em> bald</em><em>,</em><em> and every shoulder was rubbed </em><em>raw</em><em>.</em><em> </em><em>But he and his army didn’t get </em><em>enough</em><em> from Tyre to pay for </em><em>the</em><em> </em><em>struggle</em><em>.</em><em> </em><strong><sup>19</sup></strong><em>So</em><em> I’ll give him Egypt so he can carry off its wealth, capture its spoil, and seize its plunder to pay his army. </em><strong><sup>20</sup></strong><em>I’ve</em><em> given him Egypt for his struggle because he acted on my behalf. </em><strong><sup>21</sup></strong><em>At</em><em> that time, I’ll make a horn sprout for Israel and open your mouth among them. </em><em><u>They’ll know I’m the </u></em><em><u>L</u></em><em><u>ORD</u></em><em>.”</span>
 <p class="section-ref">Ezek 29:17-21</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

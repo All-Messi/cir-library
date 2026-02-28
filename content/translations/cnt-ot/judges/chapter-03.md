@@ -1,43 +1,86 @@
 ---
 book: Judges
 chapter: 3
-next: chapter-04
-prev: chapter-02
 title: Judges 3
 translation: CNT
 type: chapter
 weight: 3
+prev: chapter-02
+next: chapter-04
 ---
 
 ## Judges Chapter 3
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> The LORD left those nations to test the Israelites that hadn’t experienced war in Canaan. [<strong><sup>2</sup></strong>] <strong><sup>3</sup></strong>The nations were the five lords of the Philistines, all the Canaanites, Sidonians, the Hivites on Mount Lebanon from Mount Baal-hermon to Lebo-hamath.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> left those nations to test the Israelites that hadn’t experienced war in Canaan. [</span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>] </span></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The nations were</span></span></p>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> They served to test whether Israel would obey the LORD’s commandments to their ancestors by Moses. <strong><sup>5</sup></strong>So the Israelites lived among the Canaanites, Hittites, Amorites, Perizzites, Hivites, and Jebusites. <strong><sup>6</sup></strong>They intermarried with them and served their gods. 	<strong>Othniel Judges Israel</strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the five lords of the Philistines, </span></p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> Israel forgot the LORD its God and served the images of Baal and Ashtoreth. <strong><sup>8</sup></strong>He was angry and sold Israel to Cushan-rishathaim, king of Mesopotamia, for <strong>8 years</strong>. <strong><sup>9</sup></strong>When they appealed to the LORD, he raised up <strong>Othniel</strong> son of Kenaz, Caleb’s younger brother, to deliver them. <strong><sup>10</sup></strong>The Spirit of the LORD stirred him up to judge Israel. He went out to war, and the LORD delivered Cushan-rishathaim to him. <strong><sup>11</sup></strong>The land had peace for <strong>40 years</strong>. Then Othniel died.<strong> </strong><strong></span>
-<p class="section-ref">Jud 3:1-11</p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>all the Canaanites, </span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Sidonians,
+</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the Hivites on Mount Lebanon from Mount Baal-hermon to Lebo-hamath. </span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They served to test whether Israel would obey the L</span><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s commandments to their ancestors by Moses. </span></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So the Israelites lived among the Canaanites, Hittites, Amorites, Perizzites, Hivites, and Jebusites. </span></span>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They intermarried with them and served their gods.  </span></span></p>
+
+
+### Othniel Judges Israel
+
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel forgot the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> its God and served the images of Baal and Ashtoreth. </span></span>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He was angry and sold Israel to Cushan-rishathaim, king of Mesopotamia, for <b>8 years</b>. </span></span>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When they appealed to the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, he raised up <b>Othniel</b> son of Kenaz, Caleb’s younger brother, to deliver them. </span></span>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>The Spirit of the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> stirred him up to judge Israel. He went out to war, and the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> delivered Cushan-rishathaim to him. </span></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The land had peace for <b>40 years</b>. Then Othniel died.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                     Jud 3:1-11</span></b></span></p>
+
 
 ### Ehud Judges Israel
 
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> The people sinned again, and the LORD strengthened Eglon, king of Moab. <strong><sup>13</sup></strong>He gathered the Amorites and Amalekites, defeated Israel, and took the City of Palms. <strong><sup>14</sup></strong>Israel served him for <strong>18 years</strong>.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The people sinned again, and the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> strengthened Eglon, king of Moab. </span></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He gathered the Amorites and Amalekites, defeated Israel, and took the City of Palms. </span></span>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel served him for <b>18 years</b>.</span></span></p>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> But when Israel appealed to the LORD, he raised up <strong>Ehud</strong> son of Gera, a Benjamite, a left-handed man. Israel sent tribute by him to Eglon. <strong><sup>16</sup></strong>Ehud made a double-edged sword 18ins long and fastened it under his right thigh under his clothes. <strong><sup>17</sup></strong>He presented the tribute to Eglon, an obese man. <strong><sup>18</sup></strong>When he sent away the people that carried it. <strong><sup>19</sup></strong>At the idols near Gilgal, he turned back and said, <em>“I have a </em><em>private</em><em> message for you, King.”</em><em> </em>He said, <em>“</em><em>Just</em><em> a </em><em>minute</em><em>.”</em> His attendants went out. <strong><sup>20</sup></strong>Ehud came to him while he was sitting alone in his cool roof room. He said, <em>“I have a message from God for you.”</em> He got up from his seat. <strong><sup>21</sup></strong>Ehud reached with his left hand, took his sword from his right thigh, and thrust it into <em>Eglon’s</em> belly. <strong><sup>22</sup></strong>The hilt went in after the blade, and the fat closed over the blade. He didn’t pull it out, and the refuse came out. <strong><sup>23</sup></strong>Ehud went out to the anteroom, closed the doors to the roof room, and locked them.</span>
-<p class="section-ref">Jud 3:12-23</p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But when Israel appealed to the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>, he raised up <b>Ehud</b> son of Gera, a Benjamite, a left-handed man. Israel sent tribute by him to Eglon. </span></span>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ehud made a double-edged sword 18ins long and fastened it under his right thigh under his clothes. </span></span>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He presented the tribute to Eglon, an obese man. </span></span>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he sent away the people that carried it. </span></span>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At the idols near Gilgal, he turned back and said, <i>“I have a private message for you, King.” </i>He said, <i>“Just a minute.”</i> His attendants went out. </span></span>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ehud came to him while he was sitting alone in his cool roof room. He said, <i>“I have a message from God for you.”</i> He got up from his seat. </span></span>
+<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ehud reached with his left hand, took his sword from his right thigh, and thrust it into <i>Eglon’s</i> belly. </span></span>
+<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The hilt went in after the blade, and the fat closed over the blade. He didn’t pull it out, and the refuse came out. </span></span>
+<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ehud went out to the anteroom, closed the doors to the roof room, and locked them. </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                        Jud 3:12-23</span></b></span></p>
 
-<span class="verse" id="v24"><sup class="verse-num">24</sup> When he’d gone, the servants came and saw the doors locked, and thought he was<em> </em>relieving himself in the cool room<em>.</em> <strong><sup>25</sup></strong>They waited till they were completely confused. When he still didn’t come out, they took the key and opened the doors. There he was on the floor, dead.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he’d gone, the servants came and saw the doors locked, and thought he was<i> </i>relieving himself in the cool room<i>.</i> </span></span>
+<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They waited till they were completely confused. When he still didn’t come out, they took the key and opened the doors. There he was on the floor, dead.</span></span></p>
 
-<span class="verse" id="v26"><sup class="verse-num">26</sup> While they delayed, Ehud escaped past the idols to Seirah. <strong><sup>27</sup></strong>When he arrived, he blew the ram’s horn in the hill country of Ephraim. The people went down from the hill country with him leading. <strong><sup>28</sup></strong>He told them, <em>“Follow me. The </em><em>L</em><em>ORD</em><em> </em><em>will deliver</em><em> the Moabites to you.”</em><em> </em>They went down and seized the fords of the Jordan from the Moabites and wouldn’t let anybody cross. <strong><sup>29</sup></strong>They killed about 10,000 Moabites, strong, able-bodied men. No one escaped. <strong><sup>30</sup></strong>Israel subdued Moab that day. The land had peace for <strong>80 years</strong>. 	<strong>Shamgar Judges Israel</strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>While they delayed, Ehud escaped past the idols to Seirah. </span></span>
+<span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he arrived, he blew the ram’s horn in the hill country of Ephraim. The people went down from the hill country with him leading. </span></span>
+<span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told them, <i>“Follow me. The </i><i>L</i></span><i><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> will deliver the Moabites to you.” </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>They went down and seized the fords of the Jordan from the Moabites and wouldn’t let anybody cross. </span></span>
+<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They killed about 10,000 Moabites, strong, able-bodied men. No one escaped. </span></span>
+<span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel subdued Moab that day. The land had peace for <b>80 years</b>.</span></span></p>
 
-<span class="verse" id="v31"><sup class="verse-num">31</sup> After him came <strong>Shamgar</strong> son of Anath, who killed 600 Philistines with an ox goad and delivered Israel.</span>
-<p class="section-ref">Jud 3:24-31</p>
+
+### Shamgar Judges Israel
+
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After him came <b>Shamgar</b> son of Anath, who killed 600 Philistines with an ox goad and delivered Israel.<b>          </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 3:24-31</span></b></span></p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

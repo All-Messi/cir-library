@@ -1,42 +1,59 @@
 ---
 book: Zechariah
 chapter: 5
-next: chapter-06
-prev: chapter-04
 title: Zechariah 5
 translation: CNT
 type: chapter
 weight: 5
+prev: chapter-04
+next: chapter-06
 ---
 
 ## Zechariah Chapter 5
 
+
 ### A Flying Scroll
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Then I looked up and saw a flying scroll.</span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> He said, <em>“What do you see?”</em> <em>“A</em><em> flying scroll</em><em>,</em><em> </em><em>15 by </em><em>30ft</em><em>.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then I looked up and saw a flying scroll. </span></span></p>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> He told me, <em>“</em><em>It contains the words of </em><em>the curse that’s over the </em><em>whole world</em><em>.</em><em> </em><em>Every</em><em>one</em><em> that steals will be erased </em><em>from</em><em> one side</em><em>. E</em><em>very</em><em>one</em><em> that swears </em>falsely <em>will be erased </em><em>from</em><em> the other.</em><em> </em><strong><sup>4</sup></strong><em>The</em><em> </em><em>L</em><em>ORD</em><em> of </em><em>H</em><em>osts </em><em>will send</em><em> </em><em>the curse out to</em><em> the </em><em>thief’s </em><em>house and</em><em> to </em><em>the </em><em>house of the </em><em>one that s</em><em>wears falsely by his name. The curse will remain there all night</em><em> </em><em>till it consumes its timbers and stones</em><em>.</em><em>’</em><em>”</em><strong></span>
-<p class="section-ref">Zech 5:1-4</p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said, <i>“What do you see?”</i></span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“A flying scroll, 15 by 30ft.”</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told me, </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:31.5pt; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“It contains the words of the curse that’s over the whole world. Everyone that steals will be erased from one side. Everyone that swears </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>falsely
+<i>will be erased from the other. </i></span><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> of Hosts will send the curse out to the thief’s house and to the house of the one that swears falsely by his name. The curse will remain there all night till it consumes its timbers and stones.’”</span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                                                                          </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Zech 5:1-4</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></b></span></p>
+
 
 ### A Woman in a Basket
 
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> The angel came forward and said, <em>“Look </em><em>at</em><em> what’s </em><em>com</em><em>ing.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The angel came forward and said, <i>“Look at what’s coming.”</i></span></span></p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> I said, <em>“What is it?”</em> <em>“</em><em>A basket</em><em><sup> </sup></em><sup>ephah</sup><em> for measuring grain. It’s filled with the sins of everybody in the land </em><strong><sup>7</sup></strong>[a lead cover was lifted off of it]<em>, and that’s a woman sitting inside </em><em>it </em><strong><sup>8</sup></strong><em>named</em><em> </em><em>Wickedness</em><em>!” </em>He shoved her down into the ephah and put the lead lid back on it. <strong><sup>9</sup></strong>I saw two women flying toward us with wings like a stork. They took the ephah up in the air.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I said, <i>“What is it?”</i></span></span></p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> I asked the angel where they were taking it.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“A basket<sup> </sup></span></i><sup><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>ephah</span></sup><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> for measuring grain. It’s filled with the sins of everybody in the land </span></i><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>[</span><span style='font-family:"Times New Roman",serif'>a lead cover was lifted off of it]</span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, and that’s a woman sitting inside it </span></i></span>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>named Wickedness!” </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>He shoved her down into the ephah and put the lead lid back on it. </span></span>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I saw two women flying toward us with wings like a stork. They took the ephah up in the air. </span></span></p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> <em>“To</em><em> Shinar to</em><em> build a </em><em>temple</em><em> for </em><em>it</em><em>.</em><em> </em><em>When it’s ready, they’ll set</em><em> the ephah there</em><em> on </em><em>its</em><em> own pedestal.”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I asked the angel where they were taking it.</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“To Shinar to build a temple for it. When it’s ready, they’ll set the ephah there on its own pedestal.”</span></i></span></span></p>
+
 <p class="section-ref">Zech 5:5-11</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

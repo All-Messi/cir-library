@@ -1,43 +1,81 @@
 ---
 book: Jonah
 chapter: 2
-next: chapter-03
-prev: chapter-01
 title: Jonah 2
 translation: CNT
 type: chapter
 weight: 2
+prev: chapter-01
+next: chapter-03
 ---
 
 ## Jonah Chapter 2
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Jonah prayed to the LORD his God from the fish’s stomach,</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk122902711"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jonah prayed to the L</span><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> his God from the fish’s stomach,</span></span></p>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>“</em><em>I</em><em> called to </em><em>you in</em><em> my distress,</em> <em>	</em><em>	</em><em>a</em><em>n</em><em>d you</em><em> answered </em><em>me</em><em>;</em> <em>	I cried out for help from the </em><em>belly of Sheol,</em> <em>	</em><em>	</em><em>and </em><em>you heard me.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I called to you in my distress,</span></i></span></p>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> <em>You</em><em> </em><em>threw</em><em> me into the deep, </em> <em>	</em><em>	</em><em>i</em><em>nto </em><em>the heart of the </em><em>sea;</em> <em>	the current swirled over </em><em>me;</em> <em>your </em><em>waves and breakers overwhelmed me</em><em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        and you answered me;</span></i></p>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> <em>So</em><em> I said, ‘I’ve been driven away from you,</em> <em>	but I’ll still look toward your holy Temple.’</em></span>
-<p class="section-ref">Jon 1:17-2</p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  I cried out for help from the belly of Sheol,</span></i></p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>Water</em><em> closed in over </em><em>me;</em><em> </em> <em>	the great deep surrounded </em><em>me;</em> <em>	seaweed wrapped around my head.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        and you heard me.</span></i></p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>I</em><em> sank down to the base of the </em><em>mountains;</em> <em>	the earth imprisoned me forever, </em> <em>	but you brought me up from the Pit,</em> <em>	</em><em>L</em><em>ORD</em><em> my God.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You threw me into the deep, </span></i></span></p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>As</em><em> my life was fading away,</em> <em>	I remembered you</em> <em>	</em><em>	and prayed to you in your holy Temple.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        into the heart of the sea;</span></i></p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>Those</em><em> who pay respects to pointless idols</em> <em>	forfeit </em>your<em> faithfulness,</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      the current swirled over me;</span></i></p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>but</em><em> I’ll sacrifice to you with thanksgiving.</em> <em>I’ll do</em><em> </em><em>what I’ve </em><em>vowed;</em> <em>	salvation comes from you.’”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>your waves and breakers overwhelmed me.</span></i></p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> Then the LORD had the fish cough Jonah up onto the shore.</span>
-<p class="section-ref">Jon 2:5-10</p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So I said, ‘I’ve been driven away from you,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            but I’ll still look toward your holy Temple.’</span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>   </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jon 1:17-2:4</span></b></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    5</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Water closed in over me; </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            the great deep surrounded me;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            seaweed wrapped around my head.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I sank down to the base of the mountains;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            the earth imprisoned me forever, </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      but you brought me up from the Pit,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> my God.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As my life was fading away,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            I remembered you</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and prayed to you in your holy Temple.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Those who pay respects to pointless idols</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            forfeit
+</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>your<i> faithfulness,</i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         9</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>but I’ll sacrifice to you with thanksgiving.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll do what I’ve vowed;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      salvation comes from you.’”</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> had the fish cough Jonah up onto the shore.                                            </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jon 2:5-10</span></b></span></p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

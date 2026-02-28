@@ -1,57 +1,90 @@
 ---
 book: Genesis
 chapter: 43
-next: chapter-44
-prev: chapter-42
 title: Genesis 43
 translation: CYV
 type: chapter
 weight: 43
+prev: chapter-42
+next: chapter-44
 ---
 
 ## Genesis Chapter 43
 
+
 ### Joseph’s Brothers Return to Egypt
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> The famine continued to be severe. <strong><sup>2</sup></strong>When they’d eaten their grain from Egypt, their father said, <em>“Go back and buy us a little food.”</em></span>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> But Judah told him<em>, </em> <em>“The man strictly warned us that we</em><em> wo</em><em>uld</em><em>n’t see </em><em>him unless </em><em>o</em><em>ur brother came with us. </em><strong><sup>4</sup></strong><em>If</em><em> you send our</em><em> brother with </em><em>us,</em><em> we’ll go down and buy you food.</em><em> </em><strong><sup>5</sup></strong><em>I</em><em>f</em><em> you don’t, we won’t go.”</em><em> </em></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The famine continued to be severe. </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When they’d eaten their grain from Egypt, their father said, </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Go back and buy us a little food.”</span></i></span></p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> Israel said, <em>“Why did you </em><em>do</em><em> me </em><em>such a bad turn</em><em> by telling the man</em><em> you </em><em>had another brother?”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But Judah told him</span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>, </span></i></span></p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> They said, <em>“</em><em>He</em><em> questioned </em><em>us closely</em><em> about </em><em>us </em><em>and our relatives,</em><em> ‘Is your father still alive?</em><em> </em><em>Do you have another brother?</em><em>’ W</em><em>e</em><em> were</em><em> </em>just <em>answer</em><em>ing</em><em> his questions.</em><em> Could we possibly know he’d say, ‘</em><em>Bring your brother down</em><em> </em>here<em>’?”</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The man strictly warned us that we wouldn’t see him unless our brother came with us. </span></i><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you send our brother with us, we’ll go down and buy you food. </span></i></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you don’t, we won’t go.” </span></i></span></p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> Judah said, <em>“Send the </em><em>boy</em><em> with me, and we, you, and your </em><em>children will live</em><em>.</em><em> </em><strong><sup>9</sup></strong><em>I’ll</em><em> be </em><em>his guarantee</em><em>.</em><em> H</em><em>old me responsible.</em><em> </em><em>If I don’t bring him back</em><em>, you can blame me</em><em> permanently.</em><em> </em><strong><sup>10</sup></strong><em>If</em><em> we hadn’t</em><em> delayed, we </em><em>could </em><em>have </em><em>gone back</em><em> twice.”</span>
-<p class="section-ref">Gen 43:1-10</p>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel said, </span><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>“Why did you do me such a bad turn by telling the man you had another brother?”</span></i></span></p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> Israel told them, <em>“If it </em><em>has to</em><em> be that way, in your bags</em><em> </em><em>take </em><em>some of the best </em><em>things our land produces. Take </em>them<em> to the man a</em><em>s a gift—some salve, </em><em>honey, aromatic gum and myrrh, pistachio nuts</em><em>,</em><em> almonds.</em><em> </em><strong><sup>12</sup></strong><em>Take</em><em> </em><em>twice</em><em> the money that </em><em>someone</em><em> </em><em>put back</em><em> in your sacks.</em><em> </em><em>Maybe it was a </em><em>m</em><em>istake.</em> <strong><sup>13</sup></strong><em>Take</em><em> your brother too.</em><em> </em><strong><sup>14</sup></strong><em>May</em><em> God Almighty </em>[El-Shaddai]<em> </em><em>grant you </em><em>mercy</em><em> so he’ll release your other brother and Benjamin.</em><em> I</em><em>f </em><em>I grieve</em><em>, I</em><em> grieve</em><em>.”</em><em> </em></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They said, </span></span></p>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> They took the gift, twice the money, and Benjamin, and went down to meet Joseph.</span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“He questioned us closely about us and our relatives, ‘Is your father still alive? Do you have another brother?’ We were </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>just </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>answering his questions. Could we possibly know he’d say, ‘Bring your brother down </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>here</span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’?”</span></i></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Judah said, </span></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Send the boy with me, and we, you, and your children will live. </span></i><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll be his guarantee. Hold me responsible. If I don’t bring him back, you can blame me permanently. </span></i></span>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If we hadn’t delayed, we could have gone back twice.”</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'> Gen 43:1-10</span></b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>         </span></i></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel told them, </span></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If it has to be that way, in your bags take some of the best things our land produces. Take </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>them<i> to the man as a gift—some salve, honey, aromatic gum and myrrh, pistachio nuts, almonds. </i></span><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Take twice the money that someone put back in your sacks. Maybe it was a mistake.</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Take your brother too. </span></i></span>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>May God Almighty </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>[</span><span style='font-family:"Times New Roman",serif'>El-Shaddai</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>]<i> grant you mercy so he’ll release your other brother and Benjamin. If I grieve, I grieve.” </i></span></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They took the gift, twice the money, and Benjamin, and went down to meet Joseph.                   </span></span></p>
+
 <p class="section-ref">Gen 43:11-15</p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> When Joseph saw Benjamin with them, he told his palace overseer, <em>“Bring the</em><em>m into</em><em> the house, </em><em>butcher an animal, and</em><em> prepar</em><em>e</em><em> for the</em><em>m </em><em>to eat with me at noon.”</em> [<strong><sup>17</sup></strong>].</span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Joseph saw Benjamin with them, he told his palace overseer, <i>“Bring them into the house, butcher an animal, and prepare for them to eat with me at noon.”</i> [</span></span>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>]. </span></span></p>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> They were afraid, <em>“B</em><em>ecause of</em> <em>the</em> <em>money </em><em>brought back</em><em> the first ti</em><em>me, he’s taking us in to arrest</em> <em>us and make </em><em>slaves </em><em>out of us and</em><em> our donkeys.”</em> <strong><sup>19</sup></strong>They went and talked to the overseer at the entrance to Joseph’s house,</span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They were afraid, <i>“Because of</i> <i>the</i> <i>money brought back the first time, he’s taking us in to arrest</i> <i>us and make slaves out of us and our donkeys.”</i> </span></span>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They went and talked to the overseer at the entrance to Joseph’s house, </span></span></p>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> <em>“Sir</em><em>, we really did come down the first </em><em>time </em><em>to buy food.</em><em> </em><strong><sup>21</sup></strong><em>When</em><em> we </em><em>stopped at</em><em> </em><em>a place to stay</em><em> and opened our </em><em>sacks,</em><em> each man’s money was </em><em>in</em><em> the </em><em>top</em><em> of the sack.</em><em> W</em><em>e’ve brought it back.</em><em> </em><strong><sup>22</sup></strong><em>We’ve</em><em> brought other money to buy food</em><em> </em>this time<em>.</em><em> </em><em>We don’t know who put our money </em><em>back </em><em>in our sacks</em><em> </em>before<em>.”</em><em>	</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Sir, we really did come down the first time to buy food. </span></i></span>
+<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When we stopped at a place to stay and opened our sacks, each man’s money was in the top of the sack. We’ve brought it back. </span></i></span>
+<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We’ve brought other money to buy food </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>this time<i>. We don’t know who put our money back in our sacks </i>before<i>.”      </i></span></span></p>
 
-<span class="verse" id="v23"><sup class="verse-num">23</sup> <em>“Don’t</em><em> worry. Your and your father’s God put your treasure in your sacks. I handled it.”  </em> Then he brought Simeon out. <strong><sup>24</sup></strong>He took the brothers into Joseph’s house, gave them some water to wash their feet, and fed their donkeys some hay. <strong><sup>25</sup></strong>They got <em>their</em> gift ready for when Joseph came at noon; they’d heard they were to eat a meal there.</span>
-<p class="section-ref">Gen 43:16-25</p>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t worry. Your and your father’s God put your treasure in your sacks. I handled it.”  </span></i></span></p>
 
-<span class="verse" id="v26"><sup class="verse-num">26</sup> When he came home, they brought their gift into the house and bowed to the floor. <strong><sup>27</sup></strong>He asked them how they were doing, <em>“How’</em><em>s your </em><em>elderly</em><em> father?</em><em> </em><em>Is he still alive?”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>Then he brought Simeon out. </span><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He took the brothers into Joseph’s house, gave them some water to wash their feet, and fed their donkeys some hay. </span></span>
+<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They got <i>their</i> gift ready for when Joseph came at noon; they’d heard they were to eat a meal there. </span><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'>           Gen 43:16-25</span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></i></span></p>
 
-<span class="verse" id="v28"><sup class="verse-num">28</sup> <em>“He’s</em><em> alive and well.”</em> They bowed again in homage.</span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he came home, they brought their gift into the house and bowed to the floor. </span></span>
+<span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He asked them how they were doing, <i>“How’s your elderly father? Is he still alive?”</i></span></span></p>
 
-<span class="verse" id="v29"><sup class="verse-num">29</sup> He looked up and saw his brother Benjamin, his mother’s son, <em>“Is this your youn</em><em>gest brother you told me about? God be gracious to you, </em><em>son.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“He’s alive and well.”</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> They bowed again in homage. </span></span></p>
 
-<span class="verse" id="v30"><sup class="verse-num">30</sup> He hurried out because he was deeply moved over his brother, and looked for a place to cry. He went back to his room and cried, <strong><sup>31</sup></strong>then washed his face and came back. He controlled himself and said, <em>“Serve the meal.”</em> <strong><sup>32</sup></strong>They served him by himself, <em>the brothers</em> by themselves, and the Egyptians that ate with him by themselves. (Egyptians wouldn’t eat with Hebrews. That would have been demeaning.) <strong><sup>33</sup></strong>They were sitting, the firstborn according to his birthright, the youngest according to his youth. They looked at one another amazed. <strong><sup>34</sup></strong>He took portions to them from his own table; Benjamin’s portion was 5 times any of theirs. They ate with him as much as they wanted.</span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He looked up and saw his brother Benjamin, his mother’s son, <i>“Is this your youngest brother you told me about? God be gracious to you, son.”</i> </span></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He hurried out because he was deeply moved over his brother, and looked for a place to cry. He went back to his room and cried, </span></span>
+<span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>then washed his face and came back. He controlled himself and said, <i>“Serve the meal.”</i> </span></span>
+<span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They served him by himself, <i>the brothers</i> by themselves, and the Egyptians that ate with him by themselves. (</span><span style='font-family:"Times New Roman",serif'>Egyptians wouldn’t eat with</span><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span><span style='font-family:"Times New Roman",serif'>Hebrews.</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span><span style='font-family:"Times New Roman",serif'>That would have been demeaning</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.)
+</span></span>
+<span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They were sitting, the firstborn according to his birthright, the youngest according to his youth. They looked at one another amazed. </span></span>
+<span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He took portions to them from his own table; Benjamin’s portion was 5 times any of theirs. They ate with him as much as they wanted.       </span></span></p>
+
 <p class="section-ref">Gen 43:26-34</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

@@ -1,38 +1,66 @@
 ---
 book: Isaiah
 chapter: 7
-next: chapter-08
-prev: chapter-06
 title: Isaiah 7
 translation: CYV
 type: chapter
 weight: 7
+prev: chapter-06
+next: chapter-08
 ---
 
 ## Isaiah Chapter 7
 
+
 ### A Message for Ahaz
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> <strong>At</strong><strong> the time of Ahaz </strong><strong>Ben-</strong><strong>Jotham </strong><strong>Ben-</strong><strong>Uzziah</strong><strong>, </strong><strong>king of Judah</strong>, Rezin, king of Syria, and Pekah Ben-Remaliah, king of Israel, attacked Jerusalem but couldn’t take it. <strong><sup>2</sup></strong>When the news reached <em>Judah’s</em> royal court that Syria was in league with Ephraim<em>, </em>their hearts sank, and they shook like trees in the wind.</span>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> Yahveh said to Isaiah, <em>“</em><em>Take</em><em> your son Shear-jashub</em><em> </em>[A remnant will return]<em> and</em><em> go meet A</em><em>haz at the end of the aqueduct that supplies</em><em> the </em><em>U</em><em>pper </em><em>P</em><em>ool on the road to the Fuller’s Field.</em><em> </em><strong><sup>4</sup></strong><strong><sup>-</sup></strong><strong><sup>6</sup></strong><em>Tell</em><em> him</em><em> not to worry</em><em> </em><em>about Rezin and Remaliah’s son. He doesn’t need to be afraid or fainthearted over </em><em>the </em><em>fierce anger of those </em><em>two </em><em>smoldering sticks. True, they’re plotting to attack Judah and install Tabeel as king there.</em><strong><sup> </sup></strong><strong><sup>7-</sup></strong><strong><sup>9</sup></strong><em>But</em><em> that’s not going to happen. Syria’s headquarters is in Damascus, led by Rezin; Ephraim’s headquarters is in Samaria, led by Remaliah. Just trust </em>me<em>, and I’ll make you outlast them</em><em>. In 65 years, Ephraim will be shattered</em><em>,</em><em> no longer a people</em><em>.</em><em>”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk86920200"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At the time of Ahaz Ben-Jotham Ben-Uzziah, king of Judah</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, Rezin, king of Syria, and Pekah Ben-Remaliah, king of Israel, attacked Jerusalem but couldn’t take it. </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the news reached <i>Judah’s</i> royal court that Syria was in league with Ephraim<i>, </i>their hearts sank, and they shook like trees in the wind.</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh said to Isaiah, </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Take your son Shear-jashub </span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>[A remnant will return]<i> and go meet Ahaz at the end of the aqueduct that supplies the Upper Pool on the road to the Fuller’s Field. </i></span><span class="verse verse-v4" id="v4"><sup class="verse-num">4-6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Tell him not to worry about Rezin and Remaliah’s son. He doesn’t need to be afraid or fainthearted over the fierce anger of those two smoldering sticks. True, they’re plotting to attack Judah and install Tabeel as king there.</span></i><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'> 7-9</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But that’s not going to happen. Syria’s headquarters is in Damascus, led by Rezin; Ephraim’s headquarters is in Samaria, led by Remaliah. Just trust </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>me<i>, and I’ll make you outlast them. In 65 years, Ephraim will be shattered, no longer a people</i></span><i><span style='font-family:"Times New Roman",serif'>.</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>”
+                           </span></i></span></span></p>
+
 <p class="section-ref">Is 7:1-9</p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> Yahveh spoke to Ahaz again, <strong><sup>11</sup></strong><em>“Ask</em><em> </em><em>me</em><em> for a sign</em><em> that’s</em><em> as deep as Sheol or</em><em> as </em><em>high as heaven.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk86920368"><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh spoke to Ahaz again, </span></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Ask me for a sign that’s as deep as Sheol or as high as heaven.”</span></i></span></p>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> But Ahaz said, <em>“I’m not going to do that</em><em>.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But Ahaz said, <i>“I’m not going to do that.”</i></span></span></p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> So <em>Isaiah</em> said, <em>“Listen, </em><em>David</em><em>’s dynasty</em><em>!</em><em> </em><em>Is try</em><em>ing people</em><em>’s patience</em><em> not enough that you try </em><em>God’s patience too?</em><em> </em><strong><sup>14</sup></strong><em>So</em><em> Yahveh will give you</em><em><sup>pl</sup></em><em> his own sign: a virgin will have a son she’ll call </em><em>Immanuel</em><em> </em>[God is with us]<em>. </em><strong><sup>15</sup></strong><em>Before</em><em> he’s old enough to eat curds and honey, refuse evil and choose good, </em><strong><sup>16</sup></strong><em>the</em><em> land whose two kings you dread will be deserted. </em><strong><sup>17</sup></strong><em>The Lord will bring on you, your people, and your ancestor’s dynasty such a time as has never come since Ephraim seceded from Judah: the king of Assyria. </em><strong><sup>18</sup></strong><em>Yahveh</em><em> will whistle for a fly at the mouth of the rivers of Egypt and for a bee in Assyria. </em><strong><sup>19</sup></strong><em>They’ll</em><em> come and light in the steep ravines, in the cracks in the rocks, on the thorns, and in the pastures. </em><strong><sup>2</sup></strong><strong><sup>0</sup></strong><em>Yahveh</em><em> will shave Israel’s head, legs, and beard with </em><em>a “razor”</em> <em>he’ll hire from beyond the Euphrates: the king of Assyria. </em><strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So
+<i>Isaiah</i> said, </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Listen, David’s dynasty! Is trying people’s patience not enough that you try God’s patience too? </span></i><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So Yahveh will give you<sup>pl</sup> his own sign: a virgin will have a son she’ll call Immanuel </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>[God is with us]<i>. </i></span></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Before he’s old enough to eat curds and honey, refuse evil and choose good, </span></i></span>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the land whose two kings you dread will be deserted. </span></i></span>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Lord will bring on you, your people, and your ancestor’s dynasty such a time as has never come since Ephraim seceded from Judah: the king of Assyria. </span></i></span>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh will whistle for a fly at the mouth of the rivers of Egypt and for a bee in Assyria. </span></i></span>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’ll come and light in the steep ravines, in the cracks in the rocks, on the thorns, and in the pastures. </span></i></span>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh will shave Israel’s head, legs, and beard with a “razor”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> <i>he’ll hire from beyond the Euphrates: the king of Assyria. </i><b>                                                             </b></span></span></p>
+
 <p class="section-ref">Is 7:10-20</p>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> <em>“At</em><em> that time, a farmer may still have a cow and a couple sheep. </em><strong><sup>22</sup></strong>Nevertheless<em>, they’ll give enough for him and the few </em><em>left</em><em> in the land to eat curds and honey. </em><strong><sup>23</sup></strong><em>Briars</em><em> and thorns will take over a </em>vineyard<em> that used to have 1,000 vines, worth </em><em>25 lbs </em><em><sup>1,000 shekels </sup></em><em>of silver</em><em>. </em><strong><sup>24</sup></strong><em>People</em><em> will go there </em>to hunt<em> </em><em>with</em><em> bows and arrows because briars and thorns will overrun the country. </em><strong><sup>25</sup></strong><em>People</em><em> won’t go to the hills where they used to hoe </em>garden plots<em>, because they’ll want to avoid the briars and thorns. That’s where cattle will pasture, and sheep will trample.”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“At that time, a farmer may still have a cow and a couple sheep. </span></i></span>
+<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Nevertheless<i>, they’ll give enough for him and the few left in the land to eat curds and honey. </i></span></span>
+<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Briars and thorns will take over a </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>vineyard<i> that used to have 1,000 vines, worth <a name="_Hlk145162685">25 lbs <sup>1,000 shekels </sup>of silver</a>. </i></span></span>
+<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>People will go there </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>to hunt<i> with bows and arrows because briars and thorns will overrun the country. </i></span></span>
+<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>People won’t go to the hills where they used to hoe </span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>garden plots<i>, because they’ll want to avoid the briars and thorns. That’s where cattle will pasture, and sheep will trample.”                                                                                                                    </i></span></span></p>
+
 <p class="section-ref">Is 7:21-25</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

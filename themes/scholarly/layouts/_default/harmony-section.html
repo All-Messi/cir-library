@@ -1,22 +1,18 @@
 {{ define "main" }}
-<article class="harmony-section">
-    <!-- Sticky Navigation -->
-    <div class="harmony-nav-container">
-        <div class="harmony-nav-inner">
-            <a href="../" class="harmony-back">← All Sections</a>
+{{ $currentSection := .Params.section }}
+<article class="chapter-reading harmony-reading" id="chapter-reading">
+    <!-- Top Toolbar (reuses chapter toolbar styling) -->
+    <nav class="reading-toolbar" id="reading-toolbar">
+        <div class="toolbar-left">
+            <a href="../" class="toolbar-back" title="All Sections">←</a>
             
-            <select class="harmony-dropdown" onchange="if(this.value) window.location.href=this.value">
-                <option value="">Jump to Section...</option>
-                {{ $currentSection := .Params.section }}
-                {{ range $i := seq 30 }}
-                    {{ $sectionNum := printf "%02d" $i }}
-                    {{ $sectionPath := printf "../section-%s" $sectionNum }}
-                    <option value="{{ $sectionPath }}" {{ if eq $currentSection $i }}selected{{ end }}>
-                        Section {{ $i }}
-                    </option>
-                {{ end }}
-            </select>
-            
+            <div class="toolbar-select" onclick="toggleSectionOverlay()">
+                <span class="toolbar-select-value">Section {{ $currentSection }}</span>
+                <svg width="10" height="10" viewBox="0 0 12 12" fill="none"><path d="M3 5l3 3 3-3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+            </div>
+
+            <span class="toolbar-divider"></span>
+
             <!-- Mini Color Legend -->
             <div class="harmony-legend-mini">
                 <span class="gospel-mt">Mt</span>
@@ -24,10 +20,53 @@
                 <span class="gospel-lk">Lk</span>
                 <span class="gospel-jn">Jn</span>
             </div>
+        </div>
 
+        <!-- Text Search -->
+        <div class="toolbar-search-wrapper">
+            <div class="toolbar-search">
+                <svg class="toolbar-search-icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+                <input type="text" id="harmony-search-input" class="toolbar-search-input" placeholder="Search harmony text..." autocomplete="off">
+            </div>
+            <div id="harmony-search-dropdown" class="bible-search-dropdown"></div>
+        </div>
+
+        <div class="toolbar-right">
             {{ partial "pdf-link.html" . }}
+            <button class="toolbar-btn font-btn" onclick="toggleReaderSettings()" data-tip="Text size">
+                <span class="font-icon">A</span><span class="font-icon font-icon-lg">A</span>
+            </button>
+        </div>
+    </nav>
+
+    <!-- Section Overlay -->
+    <div id="section-overlay" class="overlay" style="display:none;">
+        <div class="overlay-content overlay-narrow">
+            <div class="overlay-header">
+                <h3>Harmony Sections</h3>
+                <button class="overlay-close" onclick="toggleSectionOverlay()">✕</button>
+            </div>
+            <div class="chapter-grid">
+                {{ range $i := seq 30 }}
+                    {{ $sectionNum := printf "%02d" $i }}
+                    {{ $sectionPath := printf "../section-%s/" $sectionNum }}
+                    <a href="{{ $sectionPath }}" class="chapter-cell {{ if eq $currentSection $i }}active{{ end }}">{{ $i }}</a>
+                {{ end }}
+            </div>
         </div>
     </div>
+
+    <!-- Floating Prev/Next Arrows -->
+    {{ if .Params.prev }}
+    <a href="{{ .Params.prev }}/" class="float-arrow float-prev" aria-label="Previous section">
+        <svg width="20" height="20" viewBox="0 0 20 20" fill="none"><path d="M12 4l-6 6 6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </a>
+    {{ end }}
+    {{ if .Params.next }}
+    <a href="{{ .Params.next }}/" class="float-arrow float-next" aria-label="Next section">
+        <svg width="20" height="20" viewBox="0 0 20 20" fill="none"><path d="M8 4l6 6-6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </a>
+    {{ end }}
 
     <!-- Section Header -->
     <header class="harmony-header">
@@ -38,14 +77,14 @@
     </header>
 
     <!-- Section Content -->
-    <div class="harmony-content">
+    <div class="chapter-content harmony-content">
         {{ .Content | safeHTML }}
     </div>
 
     <!-- Bottom Navigation -->
     <nav class="harmony-section-nav">
         {{ if .Params.prev }}
-        <a href="{{ .Params.prev }}" class="nav-prev">← Previous</a>
+        <a href="{{ .Params.prev }}/" class="nav-prev">← Previous</a>
         {{ else }}
         <div class="nav-placeholder"></div>
         {{ end }}
@@ -53,10 +92,205 @@
         <a href="../" class="nav-outline">All Sections</a>
         
         {{ if .Params.next }}
-        <a href="{{ .Params.next }}" class="nav-next">Next →</a>
+        <a href="{{ .Params.next }}/" class="nav-next">Next →</a>
         {{ else }}
         <div class="nav-placeholder"></div>
         {{ end }}
     </nav>
 </article>
+
+<script>
+function toggleSectionOverlay() {
+    var overlay = document.getElementById('section-overlay');
+    overlay.style.display = overlay.style.display === 'none' ? 'flex' : 'none';
+}
+
+/* ---- Harmony Text Search ---- */
+var harmonySearchData = null;
+
+fetch('{{ "index.json" | absURL }}')
+    .then(function(r) { return r.json(); })
+    .then(function(data) {
+        // Filter to harmony sections only
+        harmonySearchData = data.filter(function(item) {
+            return item.permalink && item.permalink.indexOf('/harmony/') !== -1;
+        });
+    })
+    .catch(function() {});
+
+(function() {
+    var input = document.getElementById('harmony-search-input');
+    var dropdown = document.getElementById('harmony-search-dropdown');
+    if (!input) return;
+
+    var debounce = null;
+    input.addEventListener('input', function() {
+        clearTimeout(debounce);
+        debounce = setTimeout(doHarmonySearch, 150);
+    });
+
+    input.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape') {
+            dropdown.style.display = 'none';
+            input.blur();
+        }
+    });
+
+    document.addEventListener('click', function(e) {
+        if (!e.target.closest('.toolbar-search-wrapper')) {
+            dropdown.style.display = 'none';
+        }
+    });
+
+    function doHarmonySearch() {
+        var query = input.value.trim();
+        if (query.length < 2 || !harmonySearchData) {
+            dropdown.style.display = 'none';
+            return;
+        }
+
+        var q = query.toLowerCase();
+        
+        // Also search current page text
+        var pageContent = document.querySelector('.harmony-content');
+        var currentPageText = pageContent ? pageContent.textContent : '';
+        var currentMatch = currentPageText.toLowerCase().indexOf(q) >= 0;
+
+        var results = [];
+        
+        // If found on current page, highlight it
+        if (currentMatch) {
+            results.push({
+                type: 'current',
+                title: 'Found on this page',
+                subtitle: 'Section {{ $currentSection }}: {{ .Title }}',
+                url: '#'
+            });
+        }
+
+        // Search other sections
+        harmonySearchData.forEach(function(item) {
+            if ((item.content && item.content.toLowerCase().includes(q)) ||
+                (item.title && item.title.toLowerCase().includes(q))) {
+                var snippet = '';
+                if (item.content) {
+                    var idx = item.content.toLowerCase().indexOf(q);
+                    if (idx >= 0) {
+                        var start = Math.max(0, idx - 40);
+                        var end = Math.min(item.content.length, idx + q.length + 60);
+                        snippet = (start > 0 ? '…' : '') + item.content.substring(start, end) + (end < item.content.length ? '…' : '');
+                    }
+                }
+                results.push({
+                    type: 'text',
+                    title: item.title,
+                    subtitle: snippet,
+                    url: item.permalink
+                });
+            }
+        });
+
+        if (results.length === 0) {
+            dropdown.innerHTML = '<div class="bsd-empty">No results</div>';
+            dropdown.style.display = 'block';
+            return;
+        }
+
+        dropdown.innerHTML = results.slice(0, 8).map(function(r) {
+            if (r.type === 'current') {
+                return '<a href="' + r.url + '" class="bsd-item bsd-nav" onclick="highlightOnPage(\'' + q.replace(/'/g, "\\'") + '\'); return false;">' +
+                    '<span class="bsd-title">' + r.title + '</span>' +
+                    '<span class="bsd-sub">' + r.subtitle + '</span>' +
+                    '</a>';
+            }
+            return '<a href="' + r.url + '" class="bsd-item bsd-text">' +
+                '<span class="bsd-title">' + r.title + '</span>' +
+                '<span class="bsd-sub">' + r.subtitle + '</span>' +
+                '</a>';
+        }).join('');
+        dropdown.style.display = 'block';
+    }
+
+    /* ---- Mobile search: icon tap expands to full-width bar ---- */
+    var wrapper = document.querySelector('.toolbar-search-wrapper');
+    var searchBox = document.querySelector('.toolbar-search');
+    var backdrop = null;
+
+    function isMobile() { return window.innerWidth <= 640; }
+
+    function openMobileSearch() {
+        if (!wrapper) return;
+        wrapper.classList.add('search-expanded');
+        input.style.display = 'block';
+        input.focus();
+        backdrop = document.createElement('div');
+        backdrop.className = 'mobile-search-backdrop';
+        backdrop.addEventListener('click', closeMobileSearch);
+        document.body.appendChild(backdrop);
+    }
+
+    function closeMobileSearch() {
+        if (!wrapper) return;
+        wrapper.classList.remove('search-expanded');
+        if (backdrop) { backdrop.remove(); backdrop = null; }
+        dropdown.style.display = 'none';
+        if (isMobile()) {
+            input.style.display = '';
+            input.value = '';
+        }
+    }
+
+    if (searchBox) {
+        searchBox.addEventListener('click', function(e) {
+            if (isMobile() && !wrapper.classList.contains('search-expanded')) {
+                e.stopPropagation();
+                openMobileSearch();
+            }
+        });
+    }
+})();
+
+function highlightOnPage(query) {
+    // Simple highlight: scroll to first occurrence
+    var content = document.querySelector('.harmony-content');
+    if (!content || !query) return;
+    
+    // Remove existing highlights
+    content.querySelectorAll('.search-highlight').forEach(function(el) {
+        el.outerHTML = el.textContent;
+    });
+    
+    // Use TreeWalker to find text nodes
+    var walker = document.createTreeWalker(content, NodeFilter.SHOW_TEXT);
+    var firstMatch = null;
+    var q = query.toLowerCase();
+    
+    while (walker.nextNode()) {
+        var node = walker.currentNode;
+        var idx = node.textContent.toLowerCase().indexOf(q);
+        if (idx >= 0) {
+            var span = document.createElement('span');
+            span.className = 'search-highlight';
+            span.style.background = '#ffd54f';
+            span.style.padding = '0 2px';
+            span.style.borderRadius = '2px';
+            
+            var range = document.createRange();
+            range.setStart(node, idx);
+            range.setEnd(node, idx + query.length);
+            range.surroundContents(span);
+            
+            if (!firstMatch) {
+                firstMatch = span;
+                span.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            }
+            break; // Just highlight first for now
+        }
+    }
+    
+    document.getElementById('harmony-search-dropdown').style.display = 'none';
+}
+</script>
+
+{{ partial "reading-ui.html" . }}
 {{ end }}

@@ -1,53 +1,105 @@
 ---
 book: Jeremiah
 chapter: 36
-next: chapter-37
-prev: chapter-35
 title: Jeremiah 36
 translation: CNT
 type: chapter
 weight: 36
+prev: chapter-35
+next: chapter-37
 ---
 
 ## Jeremiah Chapter 36
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> A Message from the LORD to Jeremiah in the <strong>Fourth Year of Jehoiakim Son of Josiah, King of Judah</strong> 	<strong>Baruch Reads Aloud the </strong><strong>L</strong><strong>ORD</strong><strong>’s</strong><strong> Messages</strong></span>
+<p class="MsoListBulletCxSpMiddle" align=center style='margin-bottom:0in; text-align:center'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A Message from the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> to Jeremiah </span></span></p>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>“</em><em>On</em><em> a scroll</em><em>,</em><em> write </em><em>down </em><em>everything I’ve </em><em>told</em><em> you about Israel, Judah, and the nations from Josiah</em><em>’s time</em><em> till now.</em><em> </em><strong><sup>3</sup></strong><em>Maybe</em><em> Judah will listen to the catastrophe</em><em> I intend to bring on them to get </em><em>them</em><em> to </em><em>repent</em><em>.</em><em> Then I’ll forgive them</em><em>.”</em></span>
+<p class="MsoListBulletCxSpMiddle" align=center style='margin-bottom:0in; text-align:center'><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>in the <b>Fourth Year of Jehoiakim Son of Josiah, King of Judah</b></span></p>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> Jeremiah called for Baruch son of Neriah, and he wrote down the LORD’s messages that Jeremiah dictated. <strong><sup>5</sup></strong>He told Baruch, <em>“I </em><em>can’t </em><em>go to the </em><em>L</em><em>ORD</em><em>’s</em><em> Temple.</em><em> </em><strong><sup>6</sup></strong><em>S</em><em>o</em><em> you go on a fast day and read to the </em><em>people the messages </em><em>you’ve written.</em><em> R</em><em>ead them to t</em><em>he people in Judah who </em><em>come from their </em><em>towns</em><em>.</em><em> </em><strong><sup>7</sup></strong><em>Maybe</em><em> </em><em>they’ll turn from their sinful ways</em><em> and </em><em>ask for his forgiveness. T</em><em>he </em><em>L</em><em>ORD</em><em> has pronounced great </em><em>anger</em><em> against </em><em>them</em><em>.” </em></span>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> Baruch did that and read the messages in the Temple.</span>
+### Baruch Reads Aloud the LORD’s Messages
+
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“On a scroll, write down everything I’ve told you about Israel, Judah, and the nations from Josiah’s time till now. </span></i></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Maybe Judah will listen to the catastrophe I intend to bring on them to get them to repent. Then I’ll forgive them.”</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jeremiah called for Baruch son of Neriah, and he wrote down the L</span><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s messages that Jeremiah dictated. </span></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told Baruch, </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123700514"><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>“I can’t go to the L</span></i></a><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s Temple. </span></i><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So you go on a fast day and read to the people the messages you’ve written. Read them to the people in Judah who come from their towns. </span></i></span>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Maybe they’ll turn from their sinful ways and ask for his forgiveness. The L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> has pronounced great anger against them.” </span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Baruch did that and read the messages in the Temple.</span><span style='font-size: 10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></span></p>
+
 <p class="section-ref">Jer 36:1-8</p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> In the <strong>ninth month, fifth year of Jehoiakim</strong><strong>/</strong><strong><em>Coniah</em></strong>, the people in Jerusalem and Judah declared a fast to the LORD. <strong><sup>10</sup></strong>What Jeremiah said, Baruch read in the quarters of Gemariah son of Shaphan the secretary, in the upper courtyard at the entry of the New Gate to the Temple.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In the <b>ninth month, fifth year of Jehoiakim/<i>Coniah</i></b>, the people in Jerusalem and Judah declared a fast to the L</span><span style='font-size:9.0pt;line-height: 115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>. </span></span>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>What Jeremiah said, Baruch read in the quarters of Gemariah son of Shaphan the secretary, in the upper courtyard at the entry of the New Gate to the Temple.</span></span></p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> When Micaiah son of Gemariah heard it, <strong><sup>12</sup></strong>he went down to the secretary’s office in the king’s palace. The officials were sitting there—Elishama the secretary, Delaiah son of Shemaiah, Elnathan son of Achbor, Gemariah son of Shaphan, Zedekiah son of Hananiah, and the others. <strong><sup>13</sup></strong>He told them what he heard Baruch reading to the people. <strong><sup>14</sup></strong>They sent Jehudi son of Nethaniah (son of Shelemiah son of Cushi) to Baruch and said, <em>“Bring</em><em> the scroll you read to the people.”</em><strong>	</strong> So Baruch took it to them.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Micaiah son of Gemariah heard it, </span></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>he went down to the secretary’s office in the king’s palace. The officials were sitting there—Elishama the secretary, Delaiah son of Shemaiah, Elnathan son of Achbor, Gemariah son of Shaphan, Zedekiah son of Hananiah, and the others. </span></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told them what he heard Baruch reading to the people. </span></span>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They sent Jehudi son of Nethaniah (</span><span style='font-family:"Times New Roman",serif'>son of Shelemiah son of Cushi</span><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>) to Baruch and said, <i>“Bring the scroll you read to the people.”</i></span><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'>     </span></b></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>So Baruch took it to them.                                                                                      </span></p>
+
 <p class="section-ref">Jer 36:9-14</p>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> <em>“Sit</em><em> down and read it to us.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Sit down and read it to us.”</span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> </span></span></p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> When they heard it, they turned in fear to one another and said to Baruch, <em>“We </em><em>have to</em><em> report this</em><em> to the king.</em><em> </em><strong><sup>17</sup></strong><em>Tell</em><em> us how you wrote this. Did </em>Jeremiah<em> dictat</em><em>e it</em><em>?”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When they heard it, they turned in fear to one another and said to Baruch, <i>“We have to report this to the king. </i></span></span>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Tell us how you wrote this. Did </span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>Jeremiah<i> dictate it?”</i></span></span></p>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> <em>“He</em><em> dictated it to me, and I wrote it in ink on the scroll.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“He dictated it to me, and I wrote it in ink on the scroll.</span></i></span></p>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> The officials said, <em>“Both of you, go hide. Don’t tell anybody where you are.”</em> 	<strong>King Jehoiakim Burns the Scroll</strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The officials said, <i>“Both of you, go hide. Don’t tell anybody where you are.”</i></span></span></p>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> So they reported to the king what it said, but they’d deposited the scroll in the office of Elishama the secretary. <strong><sup>21</sup></strong>He sent Jehudi to get it, and he read it to the king and the officials standing beside him. <strong><sup>22</sup></strong>The king was sitting in the winter palace in the ninth month, with a fire burning in the brazier beside him. <strong><sup>23</sup></strong>When Jehudi had read three or four columns, the king would cut them off with a scribe’s knife and throw them in the brazier till he’d burned up the whole scroll. <strong><sup>24</sup></strong>The king and his attendants weren’t afraid and didn’t tear their clothes. <strong><sup>25</sup></strong>Even though Elnathan, Delaiah, and Gemariah pleaded with him not to burn the scroll, he did it anyway. <strong><sup>26</sup></strong>He told Jerahmeel the king’s son, Seraiah son of Azriel, and Shelemiah son of Abdeel to arrest Baruch and Jeremiah; but the LORD hid them.</span>
+
+### King Jehoiakim Burns the Scroll
+
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk123700659"><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So they reported to the king what it said, but they’d deposited the scroll in the office of Elishama the secretary. </span></span>
+<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He sent Jehudi to get it, and he read it to the king and the officials standing beside him. </span></span>
+<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king was sitting in the winter palace in the ninth month, with a fire burning in the brazier beside him. </span></span>
+<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Jehudi had read three or four columns, the king would cut them off with a scribe’s knife and throw them in the brazier till he’d burned up the whole scroll. </span></span>
+<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king and his attendants weren’t afraid and didn’t tear their clothes. </span></span>
+<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Even though Elnathan, Delaiah, and Gemariah pleaded with him not to burn the scroll, he did it anyway. </span></span>
+<span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told Jerahmeel the king’s son, Seraiah son of Azriel, and Shelemiah son of Abdeel to arrest Baruch and Jeremiah; but the L</span><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> hid them.          </span></span></p>
+
 <p class="section-ref">Jer 36:15-26</p>
 
-<span class="verse" id="v27"><sup class="verse-num">27</sup> A Message from the LORD to Jeremiah 	<strong>After the King Burned the Scroll</strong> 	<strong>Baruch Had Written at Jeremiah’s Dictation</strong> 	<strong>Jeremiah Rewrites the Scroll</strong></span>
+<p class="MsoListBulletCxSpMiddle" align=center style='margin-top:0in;margin-right: .45pt;margin-bottom:0in;margin-left:0in;text-align:center'><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A Message from the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> to Jeremiah</span></span></p>
 
-<span class="verse" id="v28"><sup class="verse-num">28</sup> <em>“Take</em><em> another scroll and write </em><em>down </em><em>everything </em><em>again</em><em>.</em><em> </em><strong><sup>29</sup></strong><em>Say</em><em> </em><em>to </em><em>Jehoi</em><em>akim, king of Judah, ‘</em><em>Yo</em><em>u burned this scroll and said, “</em><em>Why did you write that the king</em><em> of Babylon will</em><em> destroy this land and empty </em><em>out </em><em>it</em><em>s</em><em> </em><em>people</em><em> and animal</em><em>s?</em><em>”</em><em> </em><strong><sup>30</sup></strong><em>T</em><em>his</em><em> is </em><em>the LOR’s answer: ‘You</em><em> won’t have any</em><em> descendant</em><em> to sit on </em><em>David’s</em><em> throne</em><em>. T</em><em>hey’ll toss </em><em>your</em><em> dead bod</em><em>y out to the heat of the day </em><em>and the frost</em><em> of the night</em><em>.</em><em> </em><strong><sup>31</sup></strong><em>I’ll</em><em> punish </em><em>you</em><em>,</em><em> your family, and your attendants for your sins. </em><em>I’ll bring on</em><em> you and the people in Jerusalem</em><em> and Judah the catastrophe I’ve d</em><em>eclared—but they didn’t listen.</em><em>’”</em></span>
 
-<span class="verse" id="v32"><sup class="verse-num">32</sup> So Jeremiah gave Baruch another scroll, and dictated everything Jehoiakim had burned, and added similar messages.</span>
+### After the King Burned the Scroll
+
+
+
+### Baruch Had Written at Jeremiah’s Dictation
+
+
+
+### Jeremiah Rewrites the Scroll
+
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123700765"><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Take another scroll and write down everything again. </span></i></span>
+<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Say to Jehoiakim, king of Judah, ‘You burned this scroll and said, “Why did you write that the king of Babylon will destroy this land and empty out its people and animals?” </span></i></span>
+<span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This is the LOR’s answer: ‘You won’t have any descendant to sit on David’s throne. They’ll toss your dead body out to the heat of the day and the frost of the night. </span></i></span>
+<span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll punish you, your family, and your attendants for your sins. I’ll bring on you and the people in Jerusalem and Judah the catastrophe I’ve declared—but they didn’t listen.’”</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So Jeremiah gave Baruch another scroll, and dictated everything Jehoiakim had burned, and added similar messages.<b>              </b></span></span></p>
+
 <p class="section-ref">Jer 36:27-32</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

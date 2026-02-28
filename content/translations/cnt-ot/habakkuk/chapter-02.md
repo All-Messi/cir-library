@@ -1,68 +1,178 @@
 ---
 book: Habakkuk
 chapter: 2
-next: chapter-03
-prev: chapter-01
 title: Habakkuk 2
 translation: CNT
 type: chapter
 weight: 2
+prev: chapter-01
+next: chapter-03
 ---
 
 ## Habakkuk Chapter 2
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> I’ll stand at my post and watch; I’ll station myself on a watchtower to see how he’ll answer my complaint. 	<strong>The </strong><strong>L</strong><strong>ORD</strong><strong>’s</strong><strong> Second Answer</strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll stand at my post and watch;</span></span></p>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> <u>The</u><u> </u>LORD<u>’s</u><u> </u><em><u>second </u></em><u>answer</u>: <em>“</em><em>Write down </em><em>th</em><em>is</em><em> vision</em><em>,</em><em> </em><em>etch</em><em> it on tablets</em> <em>	</em><em>so</em><em> the </em><em>messenger can run with it</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        I’ll station myself on a watchtower</span></p>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> <em>The vision is still for </em><em>a</em><em> </em><em>future</em><em> </em><em>time;</em> <em>	</em><em>it </em><em>speeds</em><em> toward the goal and won’t fail.</em> <em>Though it seems slow, wait for </em><em>it;</em> <em>	</em><em>it will certainly come</em><em> in due time</em><em>.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            to see how he’ll answer my complaint.</span></p>
+
+
+### The LORD’s Second Answer
+
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The
+</span></u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s
+<i>second </i>answer</span></u><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>:</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Write down this vision, etch it on tablets</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      so the messenger can run with it</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The vision is still for a future time;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      it speeds toward the goal and won’t fail.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Though it seems slow, wait for it;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      it will certainly come in due time.</span></i></span></p>
+
 <p class="section-ref">Hab 2:1-3</p>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> <em>“Arrogant people aren’t righteous,</em> <em>	</em><em>but </em><em>the</em> <em>righteous will have life by his </em><em>trust</em><em> </em>in me<em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  4</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Arrogant people aren’t righteous,</span></i></p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>Besides, wine betrays </em><em>the </em><em>arrogant</em><em>,</em><em> so </em><em>they don’t </em><em>last.</em> <em>	Their</em><em> </em><em>greed</em><em> </em><em>increases </em><em>like </em><em>the </em><em>grave</em><em>;</em> <em>	</em><em>	</em><em>like death, </em><em>they’re </em><em>never satisfied.</em> <em>	They</em><em> gather </em><em>the whole world</em><em> to </em><em>themselves</em> <em>	</em><em>	</em><em>and </em><em>use</em><em> everybody</em><em>.</em><strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      but the</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
+<i>righteous will have life by his trust </i>in me<i>.</i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  5</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Besides, wine betrays the arrogant, so they don’t last.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Their greed increases like the grave;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            like death, they’re never satisfied.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      They gather the whole world to themselves</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and use everybody.</span></i></span></p>
+
 <p class="section-ref">Hab 2:4-5</p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>“Won’t </em><em>peopl</em><em>e </em><em>taunt them </em><em>and say</em><em> in mockery</em><em>,</em> <em>	</em><em>	</em><em>	</em><em>‘</em><em>Misfortune awaits</em><em> </em><em>you</em><em> that </em><em>accumulate</em><em> what’s not </em><em>yours</em> <em>	</em><em>	</em><em>	</em><em>	and</em><em> mak</em><em>e</em><em> </em><em>yourselves</em><em> rich </em><em>by extortion</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	—for how long, though?</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  6</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Won’t people taunt them and say in mockery,</span></i></p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>Won’t </em><em>your creditors suddenly decide</em> <em>	</em><em>	</em><em>	</em><em>	to call in their loans</em><em>? </em> <em>	</em><em>	</em><em>	</em><em>You’ll become </em><em>their </em><em>plunder.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  ‘Misfortune awaits you that accumulate what’s not yours</span></i></p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>Since</em><em> you</em><em>’ve</em><em> looted </em><em>many</em><em> nations,</em> <em>	</em><em>	</em><em>	other nations will loot you</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>for the blood of men and women </em><em>that </em>you shed, <em>	</em><em>	</em><em>	</em><em>	for your </em><em>violence to </em><em>towns</em><em> and </em><em>their people</em><em>.</em><em>’</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        and make yourselves rich by extortion</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          —for how long, though?</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  7</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Won’t your creditors suddenly decide</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        to call in their loans? </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  You’ll become their plunder.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  8</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Since you’ve looted many nations,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  other nations will loot you</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        for the blood of men and women that </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>you shed,</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        for your violence to towns and their people.’</span></i><b><span style='font-size: 10.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></b></p>
+
 <p class="section-ref">Hab 2:6-8</p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>“Misfortune awaits</em><em> </em><em>whoever</em><em> </em><em>uses</em><em> </em><em>dishonest</em><em> gain</em><em> </em> <em>	</em><em>	</em><em>	</em><em>	to build</em><em> </em><em>a</em><em> </em><em>prominent </em><em>house </em><em>up high,</em> <em>	</em><em>	</em><em>	</em><em>	like a nest beyond</em><em> harm’s reach.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  9</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Misfortune awaits whoever uses dishonest gain </span></i></p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>You’ve plotte</em><em>d </em><em>shame</em><em>lessly</em><em> </em><em>to build that</em><em> house</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>by </em><em>ruining lots of</em><em> people</em><em>’s </em><em>lives;</em> <em>	</em><em>	</em><em>	</em><em>	y</em><em>ou</em><em> </em>end up<em> sinning against yourself.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              to build a prominent house up high,</span></i></p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> <em>The </em><em>very </em><em>stone</em><em>s</em><em> cry out </em><em>against you </em><em>from the wall,</em> <em>	</em><em>and </em><em>the beams in the ceiling echo the complaint</em><em>.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              like a nest beyond harm’s reach.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  10</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’ve plotted shamelessly to build that house</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        by ruining lots of people’s lives;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              you
+</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>end up<i> sinning against yourself.</i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  11</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The very stones cry out against you from the wall,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and the beams in the ceiling echo the complaint.</span></i></span></p>
+
 <p class="section-ref">Hab 2:9-11</p>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> <em>“Misfortune awaits</em><em> </em><em>whoever</em><em> builds a city with </em><em>murder</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>and establishes a town by violence!</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  12</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Misfortune awaits whoever builds a city with murder</span></i></p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> <em>Isn’t it from the </em><em>L</em><em>ORD</em><em> of </em><em>H</em><em>osts </em> <em>	</em><em>	</em><em>	</em><em>	</em><em>that people labor</em><em> only</em><em> </em><em>to have it burn up</em> <em>	</em><em>	</em><em>	</em><em>and nations </em><em>wear themselves out</em><em> for nothing?</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              and establishes a town by violence!</span></i></p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> <em>T</em><em>he knowledge of the </em><em>L</em><em>ORD</em><em>’s</em><em> glory </em> <em>	</em><em>	</em><em>	will cover the</em><em> earth li</em><em>ke water fills the ocean</em><em>.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  13</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Isn’t it from the L</span></i><i><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> of Hosts </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              that people labor only to have it burn up</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and nations wear themselves out for nothing?</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  14</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The knowledge of the L</span></i><i><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s glory </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  will cover the earth like water fills the ocean.</span></i></span></p>
+
 <p class="section-ref">Hab 2:12-14</p>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> <em>“Misfortune</em><em> </em><em>awaits</em><em> you that </em><em>make</em><em> </em><em>other people</em><em> drink</em> <em>	</em><em>	</em><em>	</em><em>your venom to </em><em>get</em><em> them drunk</em> <em>	</em><em>	</em><em>	</em><em>so</em><em> you can </em><em>stare</em><em> at their </em><em>disgrace</em><em>!</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  15</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Misfortune awaits you that make other people drink</span></i></p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> <em>You’ll be </em><em>disgrace</em><em>d, not </em><em>honor</em><em>ed;</em> <em>	</em><em>	</em><em>	y</em><em>ou’ll drink and expose your own </em><em>disgrace</em><em>.</em> <em>	</em><em>	</em><em>The cup in the </em><em>L</em><em>ORD</em><em>’s</em><em> </em><em>rig</em><em>ht hand</em><em> will come around to </em><em><u>you</u></em><em>;</em> <em>	</em><em>	</em><em>	</em><em>complete disgrace will </em><em>cover up</em><em> your </em><em>honor</em><em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  your venom to get them drunk</span></i></p>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> <em>The violence </em><em>you did</em><em> to Lebanon will overwhelm </em><em>you;</em> <em>	</em><em>	</em><em>	t</em><em>he devastation of its </em><em>animal</em><em>s will terrify you</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>because of </em><em>the </em><em>murder</em><em> and violence </em> <em>	</em><em>	</em><em>	</em><em>	you did</em><em> to the land,</em><em> its</em><em> towns, and </em><em>their</em><em> people</em><em>.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  so you can stare at their disgrace!</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  16</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’ll be disgraced, not honored;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  you’ll drink and expose your own disgrace.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            The cup in the L</span></i><i><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s right hand will come around to <u>you</u>;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  complete disgrace will cover up your honor.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></sup></b><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The violence you did to Lebanon will overwhelm you;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  the devastation of its animals will terrify you</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        because of the murder and violence </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        you did to the land, its towns, and their people.</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></b></p>
+
 <p class="section-ref">Hab 2:15-17</p>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> <em>“W</em><em>hat </em><em>good</em><em> </em><em>is </em><em>an idol after its maker carve</em><em>s</em><em> it,</em> <em>	</em><em>	</em><em>	</em><em>o</em><em>r </em><em>an image, which </em><em>represents</em><em> a lie?</em> <em>	</em><em>	</em><em>Its maker puts his faith in </em><em>what he’s made</em> <em>	</em><em>	</em><em>	</em><em>when </em><em>the</em><em> idol </em><em>he’s made</em><em> can’t</em><em> even </em><em>talk.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  18</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“What good is an idol after its maker carves it,</span></i></p>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> <em>Misfortune awaits whoever</em><em> says to a piece of wood, ‘Wake up!’ </em> <em>	</em><em>	</em><em>	</em><em>or to a speechless </em><em>rock</em><em>, ‘</em><em>Get up</em><em> </em>and help us<em>!’</em> <em>	</em><em>	</em><em>That’s your teacher!?</em> <em>	</em><em>	</em><em>	</em><em>It’s overlaid with gold and silver,</em> <em>	</em><em>	</em><em>	but</em><em> it</em><em> can’t breathe</em><em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  or an image, which represents a lie?</span></i></p>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> <em>B</em><em>ut</em><em> the </em><em>L</em><em>ORD</em><em> is in his holy </em><em>Temple;</em> <em>	</em><em>	</em><em>	l</em><em>et the whole earth </em><em>be silent</em><em> </em><em>in his presence</em><em>.</em><em>”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Its maker puts his faith in what he’s made</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  when the idol he’s made can’t even talk.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  19</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Misfortune awaits whoever says to a piece of wood, ‘Wake up!’ </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  or to a speechless rock, ‘Get up </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>and help us<i>!’</i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            That’s your teacher!?</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  It’s overlaid with gold and silver,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  but it can’t breathe.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  20</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But the L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> is in his holy Temple;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  let the whole earth be silent in his presence.”</span></i></span></p>
+
 <p class="section-ref">Hab 2:18-20</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

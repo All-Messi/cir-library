@@ -1,56 +1,138 @@
 ---
 book: Ezekiel
 chapter: 19
-next: chapter-20
-prev: chapter-18
 title: Ezekiel 19
 translation: CYV
 type: chapter
 weight: 19
+prev: chapter-18
+next: chapter-20
 ---
 
 ## Ezekiel Chapter 19
 
-### A Funeral Song for Israel’s Princes
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Sing this funeral song for Israel’s officials:</span></i><span style='font-family: "Times New Roman",serif'>     </span></span></p>
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> <em>“</em><em>Sing</em><em> this</em><em> </em><em>funeral song</em><em> for </em><em>Israel’s</em><em> </em><em>official</em><em>s</em><em>:</em> <strong><sup>2</sup></strong>‘<em>What</em><em> was your mother?</em> <em>	</em><em>	A lioness among lions!</em> <em>	</em><em>	She lay down among young lions; </em> <em>	</em><em>	she raised her cubs.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-family:"Times New Roman",serif'>                        </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘<i>What was your mother?</i></span></span></p>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> 'What was your mother? A lioness among lions! She lay down among young lions; she raised her cubs.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  A lioness among lions!</span></i></p>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> <em>When</em><em> she brought up one of her cubs,</em> 	<em>	</em><em>	</em><strong><em>he became a </em></strong><strong><em>young </em></strong><strong><em>lion</em></strong><strong><em>,</em></strong> 	<strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	learned to catch prey</em></strong><strong><em>,</em></strong> 	<strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	and devoured people</em></strong><strong><em>.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  She lay down among young lions; </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  she raised her cubs.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-family:"Times New Roman",serif'>            </span><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When she brought up one of her cubs,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  <b>he became a young lion,</b></span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        learned to catch prey,</span></i></b></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        and devoured people.                                     </span></i></b></span></p>
+
 <p class="section-ref">Ezek 19:1-3</p>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> <em>Then</em><em> nations heard about him.</em> <em>	</em><em>	They captured him in their pit,</em> <em>	</em><em>	</em><em>	</em><em>and brought him with hooks to Egypt.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-family:"Times New Roman",serif'>            </span><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then nations heard about him.</span></i></span></p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>As</em><em> time went on</em><em>, she </em><em>saw</em> <em>	</em><em>	</em><em>	</em><em>that her hope was lost,</em> <em>	</em><em>	</em><em>and</em><em> took another of her cubs</em> <em>	</em><em>	</em><em>	</em><em>and made him a young lion.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  They captured him in their pit,</span></i></p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>He</em><em> walked around among the lions.</em> 	<em>	</em><em>	</em><strong><em>He became a young lion</em></strong> 	<strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	learned to catch prey</em></strong><strong><em>,</em></strong> 	<strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	and</em></strong><strong><em> devoured </em></strong><strong><em>people</em></strong><strong><em>.</em></strong><strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        and brought him with hooks to Egypt.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As time went on, she saw</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        that her hope was lost,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and took another of her cubs</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        and made him a young lion.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He walked around among the lions.</span></i></span></p>
+
+
+### He became a young lion
+
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        learned to catch prey,</span></i></b></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        and devoured people.</span></i></b></span></p>
+
 <p class="section-ref">Ezek 19:4-6</p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>He</em><em> destroyed their fortresses</em> <em>	</em><em>	</em><em>	</em><em>and laid waste their </em><em>towns;</em> <em>	</em><em>	</em><em>everybody</em><em> in </em><em>the</em><em> </em> <em>	</em><em>	</em><em>	</em><em>were </em><em>terrified</em><em> at his roaring.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He destroyed their fortresses</span></i></span></p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>Then</em><em> nations attacked</em><em> him</em> <em>	</em><em>	</em><em>	</em><em>on every side from their provinces.</em> <em>	</em><em>	They threw their net over him,</em> <em>	</em><em>	</em><em>	</em><em>and captured him in their pit.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        and laid waste their towns;</span></i></p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>With</em><em> </em><em>hooks they put him in a cage,</em> <em>	</em><em>	</em><em>	</em><em>and took him to the king of Babylon.</em> <em>	</em><em>	They took him in hunting nets</em> <em>	</em><em>	</em><em>	</em><em>so </em><em>people</em><em> could hear</em><em> him</em><em> anymore</em> <em>	</em><em>	</em><em>	on the mountains in</em><em> Israel.</em><strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  everybody in the </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        were terrified at his roaring.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then nations attacked him</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        on every side from their provinces.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  They threw their net over him,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        and captured him in their pit.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>With hooks they put him in a cage,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        and took him to the king of Babylon.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  They took him in hunting nets</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        so people could hear him anymore</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        on the mountains in Israel.</span></i></span></p>
+
 <p class="section-ref">Ezek 19:7-9</p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>Your</em><em> mother was like a vine in your vineyard,</em> <em>	</em><em>	</em><em>	planted near water.</em> <em>	</em><em>	It was fruitful and lots of branches</em> <em>	</em><em>	</em><em>	because it had plenty of water.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Your mother was like a vine in your vineyard,</span></i></span></p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> <em>Its</em><em> strong stems became rulers’ scepters.</em> <em>	</em><em>	It was taller than the clouds,</em> <em>	</em><em>	</em><em>	so it could be seen with its mass of branches.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        planted near water.</span></i></p>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> <em>But</em><em> it was plucked up in fury</em> <em>	</em><em>	</em><em>	and dashed to the ground.</em> <em>	</em><em>	The east wind dried up its fruit.</em> <em>	</em><em>	</em><em>	and tore off and withered its strong branches.</em> <em>	</em><em>	Fire burned it up.</span>
-<p class="section-ref">Ezek 19:10-12</p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  It was fruitful and lots of branches</span></i></p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> <em>Now</em><em> it stands in the wilderness,</em> <em>	</em><em>	in a dry, thirsty land.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        because it had plenty of water.</span></i></p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> <em>The</em><em> fire that broke out in its branches</em> <em>	</em><em>	and burned up its fruit</em> <em>	</em><em>	</em><em>	didn’t leave any branch </em> <em>	</em><em>	</em><em>	strong enough to be a ruler’s scepter.’”</em> A Dirge</span>
-<p class="section-ref">Ezek 19:13-14</p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Its strong stems became rulers’ scepters.</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  It was taller than the clouds,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        so it could be seen with its mass of branches.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But it was plucked up in fury</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        and dashed to the ground.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  The east wind dried up its fruit.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        and tore off and withered its strong branches.</span></i></p>
+
+
+### Fire burned it up.                                                  Ezek 19:10-12
+
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now it stands in the wilderness,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  in a dry, thirsty land.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The fire that broke out in its branches</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and burned up its fruit</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        didn’t leave any branch </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        strong enough to be a ruler’s scepter.’”</span></i></p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

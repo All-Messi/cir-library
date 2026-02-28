@@ -1,53 +1,152 @@
 ---
 book: Song of Solomon
 chapter: 5
-next: chapter-06
-prev: chapter-04
 title: Song of Solomon 5
 translation: CNT
 type: chapter
 weight: 5
+prev: chapter-04
+next: chapter-06
 ---
 
 ## Song of Solomon Chapter 5
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> <em>“I’ve</em><em> come to my garden, </em><strong><em>my sister, my </em></strong><strong><em>bride</em></strong><em>;</em> <em>	</em><em>	</em><em>	I’ve gathered my myrrh and spice.</em> <em>	</em><em>	I’ve eaten my honey and honeycomb,</em> <em>	</em><em>	</em><em>	and drunk my wine and milk.</em> <em>	</em><em>	Eat, friends, and </em><em>drink;</em> <em>	</em><em>	</em><em>	drink deeply, lovers.”</em><strong> </strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>S of S 5:1</strong> Bride</span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ve come to my garden, <b>my sister, my bride</b>;</span></i></span></p>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>“I</em><em> was asleep, but my heart was awake.</em> <em>	</em><em>	</em><em>	A voice! my beloved is knocking.</em> <em>	</em><em>	‘Open for me, </em><strong><em>my sister, my darling</em></strong><em>,</em> <em>	</em><em>	</em><em>	my dove, my perfect one!</em> <em>	</em><em>	My head is drenched with </em><em>dew;</em> <em>	</em><em>	</em><em>	my hair is damp from the night.’</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        I’ve gathered my myrrh and spice.</span></i></p>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> <em>I’ve</em><em> taken off my </em><em>dress;</em> <em>	</em><em>	</em><em>	how can I put it on again?</em> <em>	</em><em>	I’ve washed my </em><em>feet;</em> <em>	</em><em>	</em><em>	how can I get them dirty again?</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  I’ve eaten my honey and honeycomb,</span></i></p>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> <em>My</em><em> beloved extended his hand through the opening,</em> <em>	</em><em>	my feelings were aroused.</em><strong> </strong><strong>	</strong><strong>	</strong><strong>	</strong><strong>S of S 5:2-4</strong></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        and drunk my wine and milk.</span></i></p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>I</em><em> got up to open the door for </em><em>him;</em> <em>	</em><em>	my hands dripped with myrrh,</em> <em>	</em><em>	my fingers with liquid myrrh,</em> <em>	</em><em>	</em><em>	on the handles of the bolt.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  Eat, friends, and drink;</span></i></p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>I</em><em> opened for my beloved,</em> <em>	</em><em>	but he’d turned away and gone!</em> <em>	I looked for him but didn’t find </em><em>him;</em> <em>I </em><em>called for</em><em> him, but he didn’t answer.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        drink deeply, lovers.”</span></i><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>                                     </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>S of S 5:1</span></b></p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>The</em><em> watchmen that make their rounds in the city met </em><em>me;</em> <em>	</em><em>	they struck me and hurt </em><em>me;</em> <em>	</em><em>	the guardsmen took my shawl.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Bride</span></p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>I</em><em> adjure you, young women of Jerusalem, </em> <em>	</em><em>	if you find my beloved, tell him I’m lovesick.”</em><strong> </strong><strong>	S of S 5:5-8</strong> Friends</span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:#C00000'>“I was asleep, but my heart was awake.</span></i></span></p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>“But</em><em> what kind of beloved is he, </em> <em>	</em><em>	</em><em>	most beautiful among women?</em> <em>	</em><em>	What kind of beloved is your beloved,</em> <em>	</em><em>	</em><em>	that you adjure us that way?”</em><strong> </strong><strong>	</strong><strong>	</strong><strong>S of S 5:9</strong> Bride</span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                        A voice! my beloved is knocking.</span></i></p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>“My</em><em> beloved is radiant and healthy,</em> <em>	</em><em>	outstanding among 10,000.</em></span>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> <em>His</em><em> head is like gold—pure </em><em>gold;</em> <em>	</em><em>	his hair is like clusters of dates,</em> <em>	</em><em>	</em><em>	and black as a raven.</em></span>
+### ‘Open for me, my sister, my darling,
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> <em>His</em><em> eyes are like doves beside streams of water, </em> <em>	</em><em>	bathed in milk and neatly set.</em></span>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> <em>His</em><em> cheeks are like a bed of spices,</em> <em>	</em><em>	</em><em>	banks of sweet-scented </em><em>herbs;</em> <em>	</em><em>	his lips are lilies,</em> <em>	</em><em>	</em><em>	dripping with liquid myrrh.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                        my dove, my perfect one!</span></i></p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> <em>His</em><em> hands are rods of gold,</em> <em>	</em><em>	</em><em>	set with </em><em>beryl;</em> <em>	</em><em>	his abdomen is carved ivory</em> <em>	</em><em>	</em><em>	inlaid with lapis lazuli.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                  My head is drenched with dew;</span></i></p>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> <em>His</em><em> legs are alabaster pillars </em> <em>	</em><em>	</em><em>	set on pedestals of pure </em><em>gold;</em> <em>	</em><em>	his appearance is like Lebanon,</em> <em>	</em><em>	</em><em>	as choice as the cedars.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                        my hair is damp from the night.’</span></i></p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> <em>His</em><em> mouth is full of </em><em>sweetness;</em> <em>	</em><em>	</em><em>	he’s so desirable.</em> <em>	</em><em>	That’s my beloved, my friend,</em> <em>	</em><em>	</em><em>	young women of Jerusalem.”</em><strong> </strong><strong>	</strong><strong>	</strong><strong>	S of S 5:10-16</strong> Friends</span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>            </span></i><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>I’ve taken off my dress;</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                        how can I put it on again?</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                  I’ve washed my feet;</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                        how can I get them dirty again?</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>            </span></i><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>My beloved extended his hand through the opening,</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                  my feelings were aroused.</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                                    </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>S of S 5:2-4</span></b></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:#C00000'>I got up to open the door for him;</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                  my hands dripped with myrrh,</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                  my fingers with liquid myrrh,</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                        on the handles of the bolt.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>            </span></i><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>I opened for my beloved,</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                  but he’d turned away and gone!</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>            I looked for him but didn’t find him;</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                  <i>I called for him, but he didn’t answer.</i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>            </span></i><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>The watchmen that make their rounds in the city met me;</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                  they struck me and hurt me;</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                  the guardsmen took my shawl.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>            </span></i><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>I adjure you, young women of Jerusalem, </span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                  if you find my beloved, tell him I’m lovesick.”</span></i><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>     </span></b><b><span style='font-size: 10.0pt;line-height:115%;font-family:"Times New Roman",serif'>S of S 5:5-8</span></b></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Friends</span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:#00B050'>“But what kind of beloved is he, </span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>                        most beautiful among women?</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>                  What kind of beloved is your beloved,</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>                        that you adjure us that way?”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></b><a name="_Hlk146975449"><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'>S of S 5:9</span></b></a></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Bride</span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:#C00000'>“My beloved is radiant and healthy,</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                  outstanding among 10,000.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>            </span></i><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>His head is like gold—pure gold;</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                  his hair is like clusters of dates,</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                        and black as a raven.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>            </span></i><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>His eyes are like doves beside streams of water, </span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                  bathed in milk and neatly set.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>            </span></i><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>His cheeks are like a bed of spices,</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                        banks of sweet-scented herbs;</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                  his lips are lilies,</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                        dripping with liquid myrrh.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>            </span></i><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>His hands are rods of gold,</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                        set with beryl;</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                  his abdomen is carved ivory</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                        inlaid with lapis lazuli.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>            </span></i><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>His legs are alabaster pillars </span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                        set on pedestals of pure gold;</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                  his appearance is like Lebanon,</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                        as choice as the cedars.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>            </span></i><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>His mouth is full of sweetness;</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                        he’s so desirable.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                  That’s my beloved, my friend,</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                        young women of Jerusalem.”</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                         </span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>S of S 5:10-16</span></b></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Friends</span></p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

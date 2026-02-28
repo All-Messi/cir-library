@@ -1,32 +1,63 @@
 ---
 book: John
 chapter: 17
-next: chapter-18
-prev: chapter-16
 title: John 17
 translation: CNT
 type: chapter
 weight: 17
+prev: chapter-16
+next: chapter-18
 ---
 
 ## John Chapter 17
 
+
 ### The High Priestly Prayer
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Jesus looked up to heaven, <em>“Father, </em><em>it’s time</em><em>.</em><em> Honor</em><em> your Son so he can </em><em>honor</em><em> you. </em><strong><sup>2</sup></strong><em>You gave him </em><em>the right</em><em> </em><em>to </em><em>give eternal life to everybody you’ve given him.</em><em> </em><strong><sup>3</sup></strong><em>Eternal life means knowing you, the only true God, and Jesus the </em><em>Messiah</em><em> you sent.</em><em> </em><strong><sup>4</sup></strong><em>I’ve honored you on the earth and </em><em>finish</em><em>ed the work you gave me to do.</em><em> </em><strong><sup>5</sup></strong>Now<em>, </em><em>glorify</em><em> me and yourself with the </em><em>glory</em><em> I had with you before the earth existed.</em></span>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>“I’ve shown you to the ones you gave me out of the world, and they’ve kept your word. </em><strong><em><sup>7</sup></em></strong><em>Now they know that the message I’ve given them came from you, </em><strong><sup>8</sup></strong><em>They know that I </em><em>really did co</em><em>me from you, and believe you sent me.</em><em> </em><strong><sup>9</sup></strong><em>I’m not asking about the world</em><em> </em>right now<em>, but about the ones you gave me.</em><em> </em><strong><sup>10</sup></strong><em>My things are yours and yours are mine, and </em><em>they’ve</em><em> honored </em><em>me</em><em>.</em><em> </em><strong><sup>11</sup></strong><em>I’m not in the world anymore, but </em><em>they are, </em><em>and I’m coming to you.</em><em> </em><em>Holy Father, keep them in your name</em><em>—which you’ve given me—</em><em>so they can be one like </em><em>we are</em><em>.</em><em> </em><strong><sup>12</sup></strong><em>When I was with them, I kept them in</em><em> your name, and none of them have</em><em> perished except the </em><em>one headed for</em><em> </em><em>destruction</em><em>—to fulfill scripture.</em><em> </em><strong><sup>13</sup></strong><em>I’m saying these things so they can fully experience my joy.</em><em> </em><strong><sup>14</sup></strong><em>The world h</em><em>ates them because they’re not like</em><em> </em><em>it</em><em>. </em><strong><sup>15</sup></strong><em>I’m not a</em><em>sking you to take them out of the world</em><em>, but to keep them from the evil one.</em><em> </em><strong><sup>16</sup></strong><em>They’re not like the world as I’m not. </em><strong><sup>17</sup></strong><em>I’ve sanctified them with the truth—with your </em><em>message</em><em>.</em><em> </em><strong><sup>18</sup></strong><em>As you sent me in</em><em>to the world, I’ve sent them</em><em> </em><em>into </em><em>it</em><em>.</em><em> </em><strong><sup>19</sup></strong><em>I’ve sanctified myself for them so </em><em>the truth can sanctify them</em><em>.</em><em> </em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><b><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>17<sup>:</sup></span></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus looked up to heaven, </span></span></p>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> <em>“Father, I’m not just asking t</em><em>hat these be one, but that their converts</em><em> also be one</em><em>. </em><strong><sup>21</sup></strong><em>That way</em><em> the world </em><em>will</em><em> know you sent me.</em><em> </em><strong><sup>22</sup></strong><em>I’ve given them the honor you gave me so they can be one like </em><em>we are</em><em>—</em><strong><sup>23</sup></strong><em>so the world </em><em>can</em><em> know you love them like you love me.</em><em> </em><strong><sup>24</sup></strong><em>What you’ve given me</em><em> I want to be with me where I am so they can see the honor you gave me b</em><em>ecause you loved me before the </em><em>world existed. </em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Father, it’s time. Honor your Son so he can honor you. </span></i><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You gave him the right to give eternal life to everybody you’ve given him. </span></i></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Eternal life means knowing you, the only true God, and Jesus the Messiah you sent. </span></i></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ve honored you on the earth and finished the work you gave me to do. </span></i></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now<i>, glorify me and yourself with the glory I had with you before the earth existed.</i></span></span></p>
 
-<span class="verse" id="v25"><sup class="verse-num">25</sup> <em>“Righteous Father, the world d</em><em>oes</em><em>n’t know</em> <em>you, but I kn</em><em>o</em><em>w you, and these know you sent me.</em><em> </em><strong><sup>26</sup></strong><em>I’ll continue to make you known to them so the love you</em><em> loved me with can be in them like I am</em><em>.”</span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ve shown you to the ones you gave me out of the world, and they’ve kept your word.
+</span></i><b><i><sup><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'>7</span></sup></i></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now they know that the message I’ve given them came from you, </span></i></span>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They know that I really did come from you, and believe you sent me. </span></i></span>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’m not asking about the world </span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>right now<i>, but about the ones you gave me. </i></span></span>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>My things are yours and yours are mine, and they’ve honored me. </span></i></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’m not in the world anymore, but they are, and I’m coming to you. Holy Father, keep them in your name—which you’ve given me—so they can be one like we are. </span></i></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When I was with them, I kept them in your name, and none of them have perished except the one headed for destruction—to fulfill scripture. </span></i></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’m saying these things so they can fully experience my joy. </span></i></span>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The world hates them because they’re not like it. </span></i></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’m not asking you to take them out of the world, but to keep them from the evil one. </span></i></span>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’re not like the world as I’m not. </span></i></span>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ve sanctified them with the truth—with your message. </span></i></span>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As you sent me into the world, I’ve sent them into it. </span></i></span>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ve sanctified myself for them so the truth can sanctify them. </span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Father, I’m not just asking that these be one, but that their converts also be one. </span></i></span>
+<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That way the world will know you sent me. </span></i></span>
+<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ve given them the honor you gave me so they can be one like we are—</span></i></span>
+<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>so the world can know you love them like you love me. </span></i></span>
+<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>What you’ve given me I want to be with me where I am so they can see the honor you gave me because you loved me before the world existed. </span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Righteous Father, the world doesn’t know</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> <i>you, but I know you, and these know you sent me. </i></span></span>
+<span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll continue to make you known to them so the love you loved me with can be in them like I am.”  </span></i><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span></b></span></span></p>
+
 <p class="section-ref">Jn 17:1-26</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

@@ -1,96 +1,219 @@
 ---
 book: Genesis
 chapter: 49
-next: chapter-50
-prev: chapter-48
 title: Genesis 49
 translation: CNT
 type: chapter
 weight: 49
+prev: chapter-48
+next: chapter-50
 ---
 
 ## Genesis Chapter 49
 
+
 ### Jacob Blesses His Sons
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Jacob called for his sons<em>, “Gather </em><em>around so I can tell you what will </em><em>happen to you.</em></span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>Gather together, sons of Jacob</em> <em>	</em><em>	</em><em>listen to your fathe</em><em>r</em><em> </em><em>Israel</em><em>.</em><em>”</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jacob called for his sons<i>, “Gather around so I can tell you what will happen to you.</i></span></span></p>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> <em>“</em><strong><em><u>Reuben</u></em></strong><em>, my firstborn</em><em>,</em> <em>	</em><em>	my </em><em>strength</em><em> and the </em><em>first issue of my virility</em><em>,</em> <em>	</em><em>	preeminent in dignity and power,</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gather together, sons of Jacob</span></i></span></p>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> After the time of mourning, Joseph told Pharaoh’s advisors, <em>“If I’m pleasing to you, tell</em><em> Pharaoh </em><strong><sup>5</sup></strong><em>m</em><em>y father </em><em>had me swear, ‘</em><em>I’m about to die.</em><em> </em><em>Bury me in the grave I dug for myself in Canaan.</em><em>’ L</em><em>et me go up and bury </em><em>him. Then I’ll be back.</em><em>”</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        listen to your father Israel.”</span></i></p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>“</em><strong><em><u>Simeon</u></em></strong><em><u> and </u></em><strong><em><u>Levi</u></em></strong><em> are brothers;</em> <em>	</em><em>	their swords are violent </em><em>tools</em><em>.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“<b><u>Reuben</u></b>, my firstborn,</span></i></span></p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> Pharaoh said, <em>“Go up and bury </em><em>him like</em><em> he </em><em>had</em><em> you swear.</em><em>”</span>
-<p class="section-ref">Gen 50:4-6</p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    my strength and the first issue of my virility,</span></i></p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> So Joseph went up to bury him. Pharaoh’s officials, the senior members of his household, the senior officers of Egypt, Joseph’s household, his brothers, and his father’s family went with him. They left only their little ones, flocks, and herds in Goshen. <strong><sup>9</sup></strong>A large company of chariots and cavalry also went up. <strong><sup>10</sup></strong>When they came to Atad’s threshing floor, not far from the Jordan, they mourned greatly. <em>Joseph</em> observed a week of mourning. <strong><sup>11</sup></strong>When the Canaanites saw the mourning, they said, <em>“This is extreme </em><em>‘</em><em>mourning</em><em>’</em><em> for </em><em>‘</em><em>Egyptians</em><em>’</em><em>”</em>;<em> </em>so they named it Abel-mizraim. <strong><sup>12</sup></strong>His sons did for him what he’d said. <strong><sup>13</sup></strong>They carried him to the Cave of Machpelah east of Mamre, which Abraham had bought for a burial site from Ephron the Hittite along with the field. <strong><sup>14</sup></strong>After he’d buried him, Joseph and the whole company went back to Egypt.</span>
-<p class="section-ref">Gen 50:7-14</p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    preeminent in dignity and power,</span></i></p>
 
-### Joseph Reassures His Brothers
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    </span></i><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>uncontrolled like water. </span></i></span></p>
 
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                              You won’t have preeminence</span></i></p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>“</em><strong><em><u>Judah</u></em></strong><em>, your brothers will praise you;</em> <em>	</em><em>	</em><em>your hand will be on your enemies’ neck;</em> <em>	</em><em>	your father’s sons will bow to you.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    because you defiled your father’s bed;</span></i></p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>Judah is a lion’s whelp;</em> <em>	</em><em>	son, you’ve risen up </em><em>from the prey</em><em>.</em> <em>	He c</em><em>r</em><em>ouches</em><em> and</em><em> lies down like a lion</em><em>ess</em><em>;</em> <em>	</em><em>	who dares to rouse him?</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    you got on my marriage couch.”</span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                </span></p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>The scepter won’t </em><em>leave</em><em> Judah,</em><em>	</em> <em>	</em><em>	or the ruler’s staff from between his feet</em> <em>	</em><em>	</em><em>till</em><em> Shiloh comes.</em> <em>	</em><em>	</em><em>The </em><em>nations</em><em> will obey him.</em></span>
+<p class="section-ref">Gen 49:1-4</p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> <em>He ties his foal to </em><em>a</em><em> </em><em>grape</em><em>vine,</em> <em>	</em><em>	his donkey colt to the best vine.</em> <em>	He washes his </em><em>clothe</em><em>s in wine, </em> <em>	</em><em>	his robe</em><em>s in the juice from</em><em> grapes.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        </span><a name="_Hlk125318350"><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“<b><u>Simeon</u></b><u> and <b>Levi</b></u> are brothers;</span></i></span></p>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> <em>His eyes are </em><em>stained from wine;</em> <em>	</em><em>	</em><em>	his teeth are white from milk.</em><em>”</span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    their swords are violent tools.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Let my soul not join their council;</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                              let my honor not agree with their assembly;</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    because in their anger they killed people,</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    in their unrestraint they lamed oxen.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Cursed be their fierce anger,</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    their cruel wrath.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                              I’ll disperse them in Jacob</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    and scatter them in Israel.”                                        </span></i></span></p>
+
+<p class="section-ref">Gen 49:5-7</p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        </span><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“<b><u>Judah</u></b>, your brothers will praise you;</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    <a name="_Hlk125318481">your hand will be on your enemies’ neck;</a></span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    your father’s sons will bow to you.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Judah is a lion’s whelp;</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    son, you’ve risen up from the prey.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                              He crouches and lies down like a lioness;</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    who dares to rouse him?</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The scepter won’t leave Judah,  </span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    or the ruler’s staff from between his feet</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    till Shiloh comes.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    The nations will obey him.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He ties his foal to a grapevine,</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    his donkey colt to the best vine.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                              He washes his clothes in wine, </span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    his robes in the juice from grapes.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>His eyes are stained from wine;</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    his teeth are white from milk.”                                   </span></i></span></p>
+
 <p class="section-ref">Gen 49:8-12</p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> <em>“</em><strong><em><u>Zebulun</u></em></strong><em> will live by the </em><em>lake</em><em>;</em> <em>	he’ll be a haven for </em><em>boats</em><em>;</em> <em>	his </em><em>border</em><em> will </em><em>extend</em><em> toward Sidon.</em><em>” </em><em>	</em><em>	</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        </span><a name="_Hlk125318836"><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“<b><u>Zebulun</u></b> will live by the lake;</span></i></span></p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> <em>“</em><strong><em><u>Issachar</u></em></strong><em> is a strong donkey,</em> <em>	</em><em>	</em><em>lying between the sheepfolds.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                              he’ll be a haven for boats;</span></i></p>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> When Joseph’s brothers thought about the fact that their father was dead, they said <em>“What if Joseph holds a grudge against us and pays us back for </em><em>what</em><em> we did to him?”</em> <strong><sup>16</sup></strong>They sent him a message, <em>“Befor</em><em>e our father</em><em> died, </em><em>he</em><em> charged</em><em> </em>us <strong><sup>17</sup></strong><em>to t</em><em>ell </em><em>you</em><em>, </em><em>‘F</em><em>orgive your</em><em> brothers’ sin; they did wrong.</em><em>’</em><em> F</em><em>orgive the </em><em>servants of your father’</em><em>s God.”</em> Joseph cried when they spoke to him. <strong><sup>18</sup></strong>Then his brothers came and prostrated themselves, <em>“We’re your servants.”</em> <strong><sup>19</sup></strong>But Joseph said, <em>“</em><em>I’m not God, am I</em><em>?</em><em> </em><strong><sup>20</sup></strong><em>You meant </em><em>to harm</em><em> me, but </em><em>he</em><em> </em><em>turned it out</em><em> for good to bring about</em><em> saving lots of</em><em> people.</em><em> </em><strong><sup>21</sup></strong><em>Don’t worry.</em><em> I’ll </em><em>keep taking care of</em><em> you and your </em><em>little ones</em><em>.”</em> He reassured them and dealt with them graciously.</span>
-<p class="section-ref">Gen 50:15-21</p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                              his border will extend toward Sidon.”                  </span></i></p>
 
-### The Death of Joseph
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“<b><u>Issachar</u></b> is a strong donkey,</span></i></span></p>
 
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    lying between the sheepfolds.</span></i></p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> <em>“</em><strong><em><u>Dan</u></em></strong><em> will judge his people,</em> <em>	</em><em>	as one of the tribes in</em><em> Israel.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he sees how good his resting place is</span></i></span></p>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> <em>He’ll be a snake along the road,</em> <em>	</em><em>	a pit viper</em><em> in the path</em> <em>	</em><em>	that bites a horse’s heels</em><em>,</em> <em>	</em><em>	so its rider falls off backward.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                          and how pleasant his land is,</span></i></p>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> <em>I wait for your salvation, </em><em>L</em><em>ORD</em><em>.</em><em>”</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    he’ll bend his shoulder to carry burdens</span></i></p>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> <em>“R</em><em>aiders will raid </em><em><u>Gad</u></em><em>,</em> <em>	</em><em>	</em><em>but he’ll raid back.</em><em>”</span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    and submit to forced labor</span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                         </span></p>
+
+<p class="section-ref">Gen 49:13-15</p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        </span><a name="_Hlk125319117"><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“<b><u>Dan</u></b> will judge his people,</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    as one of the tribes in Israel.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He’ll be a snake along the road,</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    a pit viper in the path</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    that bites a horse’s heels,</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    so its rider falls off backward.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I wait for your salvation, L</span></i><i><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.”</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        <a name="_Hlk125319231">      </a></span></i><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Raiders will raid <u>Gad</u>,</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    but he’ll raid back.”                                                   </span></i></span></p>
+
 <p class="section-ref">Gen 49:16-19</p>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> <em>“</em><strong><em><u>Asher</u></em></strong><em> will eat tasty</em><em> food</em> <em>	and </em><em>produce food fit for kings</em><em>.</em><em>”</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        </span><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“<b><u>Asher</u></b> will eat tasty food</span></i></span></p>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> <em>“</em><strong><em><u>Naphtali</u></em></strong><em> is an untamed doe</em> <em>	</em><em>	that bears beautiful fauns.”</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                              and produce food fit for kings.”</span></i></p>
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> Joseph and his father’s family stayed in Egypt. <strong><sup>23</sup></strong>He saw three generations of Ephraim’s descendants and claimed the sons of Machir son of Manasseh as his own. <strong><sup>24</sup></strong>He told his brothers, <em>“I’m </em><em>about to die, but God will take care of</em><em> you, and </em><em>take</em><em> you up to the </em><em>land</em><em> he </em><em>swore</em><em> to Abraham, </em><em>Isaac, and Jacob.”</em> <strong><sup>25</sup></strong>He had the sons of Israel swear, “<em>T</em><em>ake</em><em> my bones up from here.”</em><em> </em><strong><sup>26</sup></strong>Joseph died at 110; his body was embalmed and placed in a coffin in Egypt.<strong> </strong><strong></span>
-<p class="section-ref">Gen 50:22-26</p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“<b><u>Naphtali</u></b> is an untamed doe</span></i></span></p>
 
-<span class="verse" id="v23"><sup class="verse-num">23</sup> <em>The archers bitterly attacked him,</em> <em>	</em><em>	shot at him, and harassed him;</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                              that bears beautiful fauns.”</span></i></p>
 
-<span class="verse" id="v24"><sup class="verse-num">24</sup> <em>but his bow stayed strong,</em> <em>	</em><em>	and his </em><em>arms maintained their endurance</em> <em>	</em><em>	</em><em>	because of</em><em> the hands of the Mighty One of Jacob</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>(</em><em>from there is the Shepherd, the Stone of Israel</em><em>), </em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><a name="_Hlk125319465"><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“<b><u>Joseph</u></b> is a fruitful limb,</span></i></span></p>
 
-<span class="verse" id="v25"><sup class="verse-num">25</sup> <em>because your father’s</em><em> Go</em><em>d helps you,</em><em>	</em> <em>	</em><em>	</em><em>	because </em><em>the Almighty blesses you</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>with blessings of the deep that lies </em><em>below</em><em>,</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>blessings of the animals and the womb.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    a fruitful bough beside a spring;</span></i></p>
 
-<span class="verse" id="v26"><sup class="verse-num">26</sup> <em>Your father’s</em><em> blessings </em> <em>	</em><em>	have surpassed </em><em>his ancestors’</em><em> blessings </em> <em>	</em><em>	up to the utmost boundary of the everlasting hills.</em> <em>	May they be on Joseph’s head,</em> <em>	</em><em>	the distinguished one among his brothers</em><em>.”</span>
-<p class="section-ref">Gen 49:20-26</p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    its branches extend out over the wall.</span></i></p>
 
-<span class="verse" id="v27"><sup class="verse-num">27</sup> <em>“</em><strong><em><u>Benjamin</u></em></strong><em> is a ravenous wolf.</em> <em>	</em><em>	H</em><em>e eats prey</em><em> </em><em>i</em><em>n the morning</em><em> </em> <em>	</em><em>	and</em><em> divides </em><em>spoil</em><em> </em><em>at dusk</em><em>.”</em> 	<strong>Jacob’s Death and Burial</strong></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The archers bitterly attacked him,</span></i></span></p>
 
-<span class="verse" id="v28"><sup class="verse-num">28</sup> That’s what their father told <em>his sons</em> when he blessed them, each with an appropriate blessing. <strong><sup>29</sup></strong>Then he charged them, <em>“I’m about to </em><em>pass on</em><em> to my people.</em><em> </em><em>Bury m</em><em>e with my ancestors in the cave</em><em> in the field of Ephron the Hittite, </em><strong><sup>30</sup></strong><em>in Machpelah </em><em>east</em><em> of Mamre, in Canaan, </em><em>in </em><em>the cave Abraham bought for a burial site.</em><em> </em><strong><sup>31</sup></strong><em>They buried Abraham and his wife Sarah </em><em>there.</em><em> </em><em>They buried Isaac and his wife Rebekah there</em><em>. That’s where </em><em>I buried Leah.”</em><em> </em><em>[</em><strong><sup>32</sup></strong><em>]</span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    shot at him, and harassed him;</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    </span></i><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>but his bow stayed strong,</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    and his arms maintained their endurance</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                          because of the hands of the Mighty One of Jacob</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                                (</span></i><i><span style='font-family:"Times New Roman",serif'>from there is the Shepherd, the Stone of Israel</span></i><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>), </span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                          </span></i><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>because your father’s God helps you,    </span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                          because the Almighty blesses you</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                                with blessings of the deep that lies below,</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                                blessings of the animals and the womb.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Your father’s blessings </span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    have surpassed his ancestors’ blessings </span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    up to the utmost boundary of the everlasting hills.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                              May they be on Joseph’s head,</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    the distinguished one among his brothers.”   </span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gen</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>49:20-26</span></b></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        </span><a name="_Hlk125319530"><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“<b><u>Benjamin</u></b> is a ravenous wolf.</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    He eats prey in the morning </span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    and divides spoil at dusk.”</span></i></p>
+
+
+### Jacob’s Death and Burial
+
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><a name="_Hlk125319667"><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That’s what their father told <i>his sons</i> when he blessed them, each with an appropriate blessing. </span></span>
+<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then he charged them, </span></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’m about to pass on to my people. Bury me with my ancestors in the cave in the field of Ephron the Hittite, </span></i><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>in Machpelah east of Mamre, in Canaan, in the cave Abraham bought for a burial site. </span></i></span>
+<span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They buried Abraham and his wife Sarah there. They buried Isaac and his wife Rebekah there. That’s where I buried Leah.” [</span></i></span>
+<span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>]
+ </span></i></span></span></p>
+
 <p class="section-ref">Gen 49:27-32</p>
 
-<span class="verse" id="v33"><sup class="verse-num">33</sup> When Jacob finished charging his sons, he drew his feet into bed, breathed his last, and passed on to his people. <strong>50</strong><strong><sup>:1</sup></strong>Joseph fell on his father’s face and cried and kissed him. <strong><sup>2</sup></strong>He told the physicians to embalm him. <strong><sup>3</sup></strong>The embalming took 40 days, and the Egyptians mourned him 70 days.</span>
-<p class="section-ref">Gen 49:33-50</p>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><a name="_Hlk125319725"><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Jacob finished charging his sons, he drew his feet into bed, breathed his last, and passed on to his people. </span></span>
+<span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Joseph fell on his father’s face and cried and kissed him. </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told the physicians to embalm him. </span></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The embalming took 40 days, and the Egyptians mourned him 70 days.                                                                                                                                        </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gen 49:33-50:3</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></span></p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

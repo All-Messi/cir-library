@@ -1,60 +1,96 @@
 ---
 book: Exodus
 chapter: 4
-next: chapter-05
-prev: chapter-03
 title: Exodus 4
 translation: CNT
 type: chapter
 weight: 4
+prev: chapter-03
+next: chapter-05
 ---
 
 ## Exodus Chapter 4
 
+
 ### Signs for Moses
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Moses answered, <em>“What if they d</em><em>on’t believe me</em><em>, ‘The </em><em>L</em><em>ORD</em><em> hasn’</em><em>t </em><em>really </em><em>appear</em><em>ed to you!</em><em>’</em><em>?</em><em>”</em></span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>“What’s in your hand?”</em> <em>	“A staff.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses answered, <i>“What if they don’t believe me, ‘The L</i></span><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> hasn’t really appeared to you!’?”</span></i></span></p>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> <em>“Throw it on the ground.”</em> <em>	</em>He threw it on the ground, and it became a snake. Moses jumped back.</span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span></i><a name="_Hlk126838357"><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“What’s in your hand?”</span></i></span></p>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> But the LORD said, <em>“Grab</em><em> it</em><em>s </em><em>tail</em><em>.</em><em>”</em> He caught it, and it turned back into a staff in his hand. <strong><sup>5</sup></strong><em>“T</em><em>h</em><em>ey’ll believe that the </em><em>L</em><em>ORD</em><em> God of Abraham, Isaac, </em><em>and Jacob</em><em> has appeared to you.</em> <strong><sup>6</sup></strong><em>Put your </em><em>hand into your chest.”</em><em> </em>He did; when he took it out, it was leprous like snow. <strong><sup>7</sup></strong><em>“Put it </em><em>in</em><em> again.”</em> He did, and it became like the rest of him.</span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            “A staff.”</span></i></p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>“If </em><em>the first sign</em><em> doesn’t convince them</em><em>, the </em><em>second may</em><em>.</em><em> </em><strong><sup>9</sup></strong><em>If </em><em>n</em><em>either one</em><em> does</em><em>, </em><em>dip some</em><em> water </em><em>out of the Nile and pour it on dry ground. It’ll</em><em> become blood.”</span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Throw it on the ground.”</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He threw it on the ground, and it became a snake. Moses jumped back.</span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> said, <i>“Grab its tail.”</i> He caught it, and it turned back into a staff in his hand. </span></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“They’ll believe that the L</span></i><i><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> God of Abraham, Isaac, and Jacob has appeared to you.</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></span>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Put your hand into your chest.” </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>He did; when he took it out, it was leprous like snow. </span></span>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Put it in again.”</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> He did, and it became like the rest of him. </span></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If the first sign doesn’t convince them, the second may. </span></i></span>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If neither one does, dip some water out of the Nile and pour it on dry ground. It’ll become blood.”                                                                    </span></i></span></span></p>
+
 <p class="section-ref">Ex 4:1-9</p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> Moses said, <em>“Lord, I’ve never been go</em><em>od with words before,</em><em> or </em><em>lately </em><em>since you’ve spoken to </em><em>me</em><em>.</em><em> </em><em>I stammer and stutter.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><a name="_Hlk126838737"><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses said, <i>“Lord, I’ve never been good with words before, or lately since you’ve spoken to me. I stammer and stutter.”</i> </span></span></p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> <em>“Who made </em><em>people’s</em><em> tongue</em><em>s</em><em>?</em><em> Who makes people</em><em> mute or deaf, </em><em>seeing or blind? Isn’t it me, t</em><em>he </em><em>L</em><em>ORD</em><em>?</em><em> </em><strong><sup>12</sup></strong><em>Go on;</em><em> I’ll be with your mouth and </em><em>tell</em><em> you what to say.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Who made people’s tongues? Who makes people mute or deaf, seeing or blind? Isn’t it me, the L</span></i><i><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>? </span></i></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Go on; I’ll be with your mouth and tell you what to say.”</span></i></span></p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> <em>“Lord, send</em><em> the message by whoever else you want to.”</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Lord, send the message by whoever else you want to.”</span></i></span></p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> The LORD’s anger flared at Moses, <em>“</em><em>Don’t you have a</em><em> brother</em><em>,</em><em> Aaron the Levite?</em><em> He speaks fluently. Besides, he’</em><em>s coming out to meet you</em><em>; he’ll be glad to see you. </em><strong><sup>15</sup></strong><em>Give him my message. I’ll be with you and him and tell you what to do. </em><strong><sup>16</sup></strong><em>He’ll speak to the people for you. He’ll be your mouth, and you’ll be like God to him. </em><strong><sup>17</sup></strong><em>Take this staff and perform the signs with it.”</span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s anger flared at Moses, </span></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t you have a brother, Aaron the Levite? He speaks fluently. Besides, he’s coming out to meet you; he’ll be glad to see you. </span></i><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Give him my message. I’ll be with you and him and tell you what to do. </span></i></span>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He’ll speak to the people for you. He’ll be your mouth, and you’ll be like God to him. </span></i></span>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Take this staff and perform the signs with it.”</span></i><b><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>        </span></b></span></span></p>
+
 <p class="section-ref">Ex 4:10-17</p>
+
 
 ### Moses Returns to Egypt
 
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> Moses went back to Jethro/<em>Reuel</em> and said, <em>“Let me go so I can go to my relatives in Egypt and see if they’re still alive.” </em> <em>“Have a safe trip.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><a name="_Hlk126838832"><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses went back to Jethro/<i>Reuel</i> and said, <i>“Let me go so I can go to my relatives in Egypt and see if they’re still alive.” </i></span></span></p>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> The LORD told Moses in Midian, <em>“Go back to Egypt</em><em>.</em><em> </em><em>The men that were</em><em> trying to kill you</em><em> </em><em>are dead</em><em>.”</em><em> </em><em>  </em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Have a safe trip.”</span></i></p>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> Moses put his wife and sons on a donkey and left with God’s staff.</span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> told Moses in Midian, <i>“Go back to Egypt. The men that were trying to kill you are dead.”   </i></span></span></p>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> The LORD told him, <em>“When you get</em><em> to Egypt, perform the wonders </em><em>for</em><em> Pharaoh </em><em>that </em><em>I’ve made you able to do, but I’ll harden his heart so he</em><em> won’t </em><em>let the people go.</em><em> </em><strong><sup>22</sup></strong><em>Then </em><em>tell him that the </em><em>L</em><em>ORD</em><em> says, ‘Israel is my son, m</em><em>y </em><em>firstborn</em><em>.</em><em> </em><strong><sup>23</sup></strong><em>I</em><em>’ve</em><em> </em><em>told</em><em> you</em><em> to let him go so he can serve me,’ b</em><em>ut you’ve refused.</em><em> So </em><em>I’ll kill </em><em><u>your</u></em><em> son, </em><em><u>your</u></em><em> </em><em>firstborn.</em><em>’”</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses put his wife and sons on a donkey and left with God’s staff.</span></span></p>
 
-<span class="verse" id="v24"><sup class="verse-num">24</sup> At a place where they stayed on the way, the LORD met him and threatened to put him to death. <strong><sup>25</sup></strong>Zipporah took a flint and cut off her son’s foreskin and threw it at Moses’ feet. She said, <em>‘You’</em><em>re </em><em>a bloody groom </em><strong><sup>26</sup></strong>(because of the circumcision)<em>!”</em> So <em>God</em> let him alone.</span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> told him,   </span></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“When you get to Egypt, perform the wonders for Pharaoh that I’ve made you able to do, but I’ll harden his heart so he won’t let the people go. </span></i><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then tell him that the L</span></i><i><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says, ‘Israel is my son, my firstborn. </span></i></span>
+<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ve told you to let him go so he can serve me,’ but you’ve refused. So I’ll kill <u>your</u> son, <u>your</u> firstborn.’”</span></i></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At a place where they stayed on the way, the L</span><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> met him and threatened to put him to death. </span></span>
+<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Zipporah took a flint and cut off her son’s foreskin and threw it at Moses’ feet. She said, <i>‘You’re a bloody groom </i></span></span>
+<span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <a name="_Hlk125712221"><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>(</span></a><span style='font-family:"Times New Roman",serif'>because of the circumcision</span><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>)<i>!”</i> </span><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So <i>God</i> let him alone.                 </span></span></p>
+
 <p class="section-ref">Ex 4:18-26</p>
 
-<span class="verse" id="v27"><sup class="verse-num">27</sup> The LORD told Aaron, <em>“Go meet Moses in the </em><em>open country</em><em>.”</em> He met him at the mountain of God and kissed him. <strong><sup>28</sup></strong>Moses told him what the LORD had sent him to do. <strong><sup>29</sup></strong>They gathered Israel’s elders, <strong><sup>30</sup></strong>and Aaron told them everything the LORD had told Moses. <em>Moses</em> performed the signs for the people, <strong><sup>31</sup></strong>and they believed. When they heard the LORD cared about them and had seen their adversity, they bowed low in worship.</span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> told Aaron, <i>“Go meet Moses in the open country.”</i> He met him at the mountain of God and kissed him. </span></span>
+<span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses told him what the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> had sent him to do. </span></span>
+<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They gathered Israel’s elders, </span></span>
+<span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and Aaron told them everything the L</span><span style='font-size:9.0pt;line-height: 115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> had told Moses. <i>Moses</i> performed the signs for the people, </span></span>
+<span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and they believed. When they heard the L</span><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> cared about them and had seen their adversity, they bowed low in worship.       </span></span></p>
+
 <p class="section-ref">Ex 4:27-31</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

@@ -1,58 +1,103 @@
 ---
 book: Exodus
 chapter: 25
-next: chapter-26
-prev: chapter-24
 title: Exodus 25
 translation: CNT
 type: chapter
 weight: 25
+prev: chapter-24
+next: chapter-26
 ---
 
 ## Exodus Chapter 25
 
+
 ### Contributions for the Tabernacle
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> The LORD said to him,<strong><sup> </sup></strong></span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>“Tell the Israel</em><em>ites</em><em> to take up an offering for me as </em><em>their</em><em> heart</em><em>s</em><em> move </em><em>the</em><em>m</em><em>: </em><strong><sup>3</sup></strong><em>gold, silver, and bronze; </em><strong><sup>4</sup></strong><em>blu</em><em>e, purple, and scarlet </em>material<em>;</em><em> fine linen, goat </em>hair<em>, </em><strong><sup>5</sup></strong><em>rams’ skins dyed red, </em><em>dolphin skins</em><em>, acacia wood, </em><strong><sup>6</sup></strong><em>o</em><em>live o</em><em>il for lighting, spices for anointing oil and fragrant incense, </em><strong><sup>7</sup></strong><em>onyx stones and setting stones</em><em> for the ephod and </em><em>pouch</em><em>.</em><em>  </em><strong><sup>8</sup></strong><em>Have them build a sanctuary so I can live among them. </em><strong><sup>9</sup></strong><em>Build the Tabernacle and its furniture like I show you.</span>
-<p class="section-ref">Ex 25:1-9</p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:10.0pt;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The
+</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> said to him,</span><b><sup><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span></sup></b></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Tell the Israelites to take up an offering for me as their hearts move them: </span></i></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>gold, silver, and bronze; </span></i></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>blue, purple, and scarlet </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>material</span><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>; fine linen, goat
+</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>hair</span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,
+</span></i></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>rams’ skins dyed red, dolphin skins, acacia wood, </span></i></span>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>olive oil for lighting, spices for anointing oil and fragrant incense, </span></i></span>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>onyx stones and setting stones for the ephod and pouch.  </span></i></span>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Have them build a sanctuary so I can live among them. </span></i></span>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Build the Tabernacle and its furniture like I show you.                                            </span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ex 25:1-9</span></b><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                 </span></i></span></p>
+
 
 ### The Ark of the Covenant
 
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>“H</em><em>ave them build an </em><em>A</em><em>rk out of acacia wood </em><em>45 x 27 x 27ins high</em><em>.</em><em> </em><strong><sup>11</sup></strong><em>Overlay it with pure gold inside and out and make a gold molding around it.</em><em> </em><strong><sup>12</sup></strong><em>Cast four gold </em><em>rings for it and fasten them to</em><em> its four bottom corners.</em><em> </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Have them build an Ark out of acacia wood 45 x 27 x 27ins high. </span></i></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Overlay it with pure gold inside and out and make a gold molding around it. </span></i></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Cast four gold rings for it and fasten them to its four bottom corners. </span></i></span></p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> <em>“M</em><em>ake poles out of acacia w</em><em>ood</em><em> </em><em>overlaid</em><em> with gold.</em><em> </em><strong><sup>14</sup></strong><em>Put th</em><em>em</em><em> into the rings on each side of </em><em>the Ark for carrying it, </em><strong><sup>15</sup></strong><em>and l</em><em>eave the</em><em>m</em><em> in the rings.</em><em> </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Make poles out of acacia wood overlaid with gold. </span></i></span>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Put them into the rings on each side of the Ark for carrying it, </span></i></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and leave them in the rings. </span></i></span></p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> <em>“The T</em><em>estimony I’m going to give you</em><em>, put</em><em> in the </em><em>A</em><em>rk.</em><em> </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The Testimony I’m going to give you, put in the Ark. </span></i></span></p>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> <em>“M</em><em>ake a mercy seat out of pure gold </em><em>45 x 27 x 27ins</em><em>.</em><em> </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Make a mercy seat out of pure gold 45 x 27 x 27ins. </span></i></span></p>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> <em>“M</em><em>ake two cherubs out of hammered gold for </em><em>the two ends</em><em> of the mercy seat.</em><em> </em><strong><sup>19</sup></strong><em>Make </em>each of<em> </em><em>them one piece</em><em> </em><strong><sup>20</sup></strong><em>with wings spread upward and facing each other.</em><em> </em><strong><sup>21</sup></strong><em>Put the mercy seat on top of the </em><em>A</em><em>rk.</em><em> </em><strong><sup>22</sup></strong><em>I’ll meet you above the mercy seat</em><em>. F</em><em>rom between the two cherubs</em><em>,</em><em> I’ll </em><em>tell</em><em> you the commandments </em><em>to</em><em> give Israel.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Make two cherubs out of hammered gold for the two ends of the mercy seat. </span></i></span>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Make
+</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>each of</span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> them one piece </span></i></span>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>with wings spread upward and facing each other. </span></i></span>
+<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Put the mercy seat on top of the Ark. </span></i></span>
+<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll meet you above the mercy seat. From between the two cherubs, I’ll tell you the commandments to give Israel.                                      </span></i></span></p>
+
 <p class="section-ref">Ex 25:10-22</p>
+
 
 ### The Table for the Bread of Presence
 
 
-<span class="verse" id="v23"><sup class="verse-num">23</sup> <em>“M</em><em>ake a table out of acacia wood </em><em>36 x 18 x 27ins high</em><em>.</em><em> </em><strong><sup>24</sup></strong><em>Overlay it with pure gold and </em><em>put</em><em> a gold border around it.</em><em> </em><strong><sup>25</sup></strong><em>Make a rim around it a hand</em><em>’s width</em><em> and a gold border for the rim.</em><em> </em><strong><sup>26</sup></strong><em>Make four gold rings</em><em> and put them on</em><em> the four </em><em>bottom </em><em>corners.</em><em> </em><strong><sup>27</sup></strong><em>Put the rings close to the rim to hold the poles that carry the table.</em><em> </em><strong><sup>28</sup></strong><em>Make the poles out of acacia wood overla</em><em>id </em><em>with gold.</em><em> </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Make a table out of acacia wood 36 x 18 x 27ins high. </span></i></span>
+<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Overlay it with pure gold and put a gold border around it. </span></i></span>
+<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Make a rim around it a hand’s width and a gold border for the rim. </span></i></span>
+<span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Make four gold rings and put them on the four bottom corners. </span></i></span>
+<span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Put the rings close to the rim to hold the poles that carry the table. </span></i></span>
+<span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Make the poles out of acacia wood overlaid with gold. </span></i></span></p>
 
-<span class="verse" id="v29"><sup class="verse-num">29</sup> <em>“M</em><em>ake for it pure-gold dishes, jars, and bowls for pouring </em><em>liquid offering</em><em>s.</em><em> </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Make for it pure-gold dishes, jars, and bowls for pouring liquid offerings. </span></i></span></p>
 
-<span class="verse" id="v30"><sup class="verse-num">30</sup> <em>“K</em><em>eep the Bread of </em><em>the </em><em>Presence in front of me on the table </em><em>at all times</em><em>.</em><em>  </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Keep the Bread of the Presence in front of me on the table at all times.  </span></i></span></p>
+
 <p class="section-ref">Ex 25:23-30</p>
+
 
 ### The Golden Lampstand
 
 
-<span class="verse" id="v31"><sup class="verse-num">31</sup> <em>“M</em><em>ake a lampstand </em><em>out of pure gold </em><em>with a base and shaft.</em><em> </em><em>It</em><em>s</em><em> cups, bulbs, and flowers will </em><em>be one piece</em><em>.</em><em> </em><strong><sup>32</sup></strong><em>It’</em><em>ll have </em><em>6</em><em> branches, </em><em>3</em><em> </em><em>on</em><em> </em><em>a</em><em> side.</em><em> </em><strong><sup>33</sup></strong><em>3</em><em> cups shaped like almond </em>blossoms<em> will be </em><em>o</em><em>n one branch—a bulb and flower, and </em><em>3</em><em> cups shaped like almond </em>blossoms<em> on the other branch—a bulb a</em><em>nd</em><em> flower, </em><strong><sup>34</sup></strong><em>and </em><em>o</em><em>n the lampstand </em><em>4</em><em> cups shaped like almond </em>blossoms<em>—its bulbs and flowers.</em><em> </em><strong><sup>35</sup></strong><em>Put a bulb</em><em> un</em><em>der each of the three pairs of branches—</em><em>coming out of it</em><em>. That makes</em><em> </em><em>6</em><em> branches coming out of the lampstand.</em><em> </em><strong><sup>36</sup></strong><em>The whole thing</em><em> will be one piece of hammered pure gold.</em><em> </em><strong><sup>37</sup></strong><em>Make its lamps so the</em><em>y</em><em> sh</em><em>ine forward</em><em>.</em><em> </em><strong><sup>38</sup></strong><em>Its snuf</em><em>fers and their trays will be </em><em>pure gold.</em><em> </em><strong><sup>39</sup></strong><em>Make i</em><em>t from </em><em>75½ lbs </em><em><sup>a talent</sup></em><em> of pure gold, with all its utensils.</em><em> </em><strong><sup>40</sup></strong><em>B</em><em>e sure </em><em>to</em><em> make them </em><em>in</em><em> the </em><em>design I showed you o</em><em>n the mountain.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Make a lampstand out of pure gold with a base and shaft. Its cups, bulbs, and flowers will be one piece. </span></i></span>
+<span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It’ll have 6 branches, 3 on a side. </span></i></span>
+<span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>3 cups shaped like almond </span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>blossoms</span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> will be on one branch—a bulb and flower, and 3 cups shaped like almond </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>blossoms</span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> on the other branch—a bulb and flower, </span></i></span>
+<span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and on the lampstand 4 cups shaped like almond </span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>blossoms</span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>—its bulbs and flowers. </span></i></span>
+<span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Put a bulb under each of the three pairs of branches—coming out of it. That makes 6 branches coming out of the lampstand. </span></i></span>
+<span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The whole thing will be one piece of hammered pure gold. </span></i></span>
+<span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Make its lamps so they shine forward. </span></i></span>
+<span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Its snuffers and their trays will be pure gold. </span></i></span>
+<span class="verse verse-v39" id="v39"><sup class="verse-num">39</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Make it from 75½ lbs <sup>a talent</sup> of pure gold, with all its utensils. </span></i></span>
+<span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Be sure to make them in the design I showed you on the mountain.                                                                    </span></i></span></span></p>
+
 <p class="section-ref">Ex 25:31-40</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

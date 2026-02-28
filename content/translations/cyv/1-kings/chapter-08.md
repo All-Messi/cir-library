@@ -1,0 +1,126 @@
+---
+book: 1 Kings
+chapter: 8
+title: 1 Kings 8
+translation: CYV
+type: chapter
+weight: 8
+prev: chapter-07
+next: chapter-09
+---
+
+## 1 Kings Chapter 8
+
+
+### The Ark Brought to the Temple
+
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1-2</sup> <span style='font-size:12.0pt; line-height:115%'>In Jerusalem Solomon gathered Israel’s elders, heads of tribes, and leaders of families. They gathered at the festival in the seventh month (</span>Ethanim<span style='font-size:12.0pt;line-height:115%'>) to bring up the Ark of the Covenant from The City of David (Zion). </span></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%'>The priests picked up the Ark </span></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%'>and brought it up with the Tent of Meeting along with the holy items that were in it. The priests and Levites brought them up. </span></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%'>King Solomon and the whole community sacrificed more sheep and oxen than you could count. </span></span>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%'>The priests brought the Ark to its place in the inner sanctuary, the Holy of Holies. </span></span>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%'>The cherubs spread out their wings over it and its poles. </span></span>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%'>The poles were long enough for their ends to be visible from the Holy Place in front of the inner sanctuary, but not from the outside. They’re still there. </span></span>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%'>Nothing was in the Ark except the two stone tablets Moses put there at Horeb/<i>Sinai</i>, where Yahveh made covenant with Israel. </span></span>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%'>When the priests came out of the Holy Place, a cloud filled the Temple. </span></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height: 115%'>They couldn’t carry out their service because Yahveh’s glory filled the Temple.                                                                                     </span><b><span style='font-size:10.0pt;line-height:115%'>1 Kg 8:1-11</span></b></span></p>
+
+
+### Solomon’s Prayer of Dedication
+
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%'>Then Solomon said, </span></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%'>            <i>“You’ve<sup>Y</sup> said you’d be in the dark cloud.</i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%'>                  13</span></sup></b><i><span style='font-size:12.0pt;line-height:115%'>I’ve built you a glorious temple, a permanent place to live.”</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%'>Then he faced <i>the people</i> and blessed the assembly standing there, </span></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%'>“Bless Yahveh God of Israel who told my father David, </span></i></span>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%'>‘From the time I brought my people Israel out of Egypt, I hadn’t chosen a city to build a temple in so my name would be there, but I chose David to rule my people.’ </span></i></span>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%'>My father wanted to build him a temple, </span></i></span>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%'>but Yahveh said he meant well, </span></i></span>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%'>but he wouldn’t build it; his son would. </span></i></span>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%'>Yahveh has kept that promise; I’ve risen to Israel’s throne and built him a temple. </span></i></span>
+<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%'>That’s where I’ve set the Ark that holds the covenant he made with our ancestors when he brought them out of Egypt.”</span></i><b><span style='font-size:12.0pt;line-height:115%'>                                                                                       </span></b></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%'>                                                                                                                                                         </span></sup></b><b><span style='font-size:10.0pt;line-height:115%'>1 Kg 8:12-21</span></b></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><a name="_Hlk126069042"><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> </a><span style='font-size:12.0pt;line-height:115%'>Then Solomon stood at the altar and spread out his hands toward heaven. </span></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;color:#C00000'>“Yahveh God of Israel, there’s no God like you in the sky or on earth because you keep covenant and show enduring love to your servants that follow you with all their heart. </span></i></span>
+<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;color:#C00000'>You’ve kept your promise to my father. </span></i></span>
+<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size: 12.0pt;line-height:115%;color:#C00000'>Keep this one, too, ‘You’ll always have a descendant on your throne if they follow me like you have.’ </span></i></span>
+<span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;color:#C00000'>Confirm that promise now.</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;color:#C00000'>“But will you live on earth? Sky and heaven can’t contain you, much less this Temple I’ve built! </span></i></span>
+<span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <i><span style='font-size:12.0pt;line-height:115%;color:#C00000'>Yet answer my prayer. <u>Listen</u> to my call </span></i></span>
+<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <i><span style='font-size:12.0pt;line-height: 115%;color:#C00000'>so you’ll be looking toward this Temple day and night where you’ve put your name. </span></i></span>
+<span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <i><span style='font-size: 12.0pt;line-height:115%;color:#C00000'>Listen when your people and I pray toward here. Listen from heaven, where you live, and forgive. </span></i><b><span style='font-size:12.0pt;line-height:115%;color:#C00000'> </span></b><b><span style='font-size:10.0pt;line-height:115%;color:#C00000'>1 Kg 8:22-30</span></b></span></p>
+
+<p class="MsoListBulletCxSpFirst" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:#C00000'>“When someone sins against another and comes here to take an oath at your altar, </span></i></span>
+<span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <i><u><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#C00000'>then listen</span></u></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'> from heaven and judge them. Punish sinners by bringing </span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>their way on their own head, and justify the good by rewarding them according to their goodness.</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:#C00000'>“When an enemy defeats your people because they’ve sinned, if they repent, confess your name, and make petition in this Temple, </span></i></span>
+<span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <i><u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>then listen</span></u></i><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#C00000'> from heaven, forgive them, and bring them back to the country you’ve given their ancestors. </span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:#C00000'>“When there’s no rain because they’ve sinned against you and they pray toward this place, confess your name, and turn from their sin when you punish them, </span></i></span>
+<span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <i><u><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#C00000'>then listen</span></u></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'> from heaven and forgive your people. Teach them the good way to live and send rain on the land you’ve given them to inherit.</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                                         </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>1 Kg 8:31-36</span></b></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:#C00000'>“When there’s a famine in the country; disease, blight or mildew, locust or grasshopper; if their enemies lay siege to their towns—whatever the plague or sickness, </span></i></span>
+<span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:#C00000'>whatever petition any or all your people make, each knowing the suffering in their own heart and spreading their hands toward this Temple, </span></i></span>
+<span class="verse verse-v39" id="v39"><sup class="verse-num">39</sup> <i><u><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#C00000'>then listen</span></u></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'> from where you live, forgive, and render to each as they’ve done—only you know everyone’s heart—</span></i></span>
+<span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>so they’ll respect you as long as they live in the country you’ve given our ancestors.</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v41" id="v41"><sup class="verse-num">41</sup> <i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:#C00000'>“When a foreigner comes from a distant country </span></i></span>
+<span class="verse verse-v42" id="v42"><sup class="verse-num">42</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>because of your great name, your powerful hand, and outstretched arm, and prays toward this Temple, </span></i></span>
+<span class="verse verse-v43" id="v43"><sup class="verse-num">43</sup> <i><u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>then listen</span></u></i><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#C00000'> from heaven where you live, and do everything he calls to you for so every nation will know you and respect you like your people do. They’ll know that this Temple I’ve built wears your name.</span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#C00000'>
+</span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>1 Kg 8:37-43</span></b></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v44" id="v44"><sup class="verse-num">44</sup> <i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:#C00000'>“When your people go out to battle in whatever direction you send them, and they pray to you toward this city you’ve chosen and the Temple I’ve built, </span></i></span>
+<span class="verse verse-v45" id="v45"><sup class="verse-num">45</sup> <i><u><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#C00000'>then listen</span></u></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'> from heaven and support their cause.</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v46" id="v46"><sup class="verse-num">46</sup> <i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:#C00000'>“When they sin against you (</span></i><i><span style='font-family:"Times New Roman",serif;color:#C00000'>everyone does</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif;color:#C00000'>), you’re angry, and deliver them to an enemy that takes them captive near or far, </span></i></span>
+<span class="verse verse-v47" id="v47"><sup class="verse-num">47</sup> <i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:#C00000'>if they take it to heart there, repent, and petition you, ‘We’ve sinned, we’ve committed iniquity, we’ve acted perversely,’ </span></i></span>
+<span class="verse verse-v48" id="v48"><sup class="verse-num">48</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>if they come back to you with all their heart and soul, and pray toward the land you’ve given their ancestors, the city you’ve chosen, the Temple I’ve built, </span></i></span>
+<span class="verse verse-v49" id="v49"><sup class="verse-num">49</sup> <i><u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>then listen</span></u></i><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#C00000'> from heaven where you live, uphold their cause, </span></i></span>
+<span class="verse verse-v50" id="v50"><sup class="verse-num">50</sup> <i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:#C00000'>and forgive them. Have their captors show them mercy (</span></i></span>
+<span class="verse verse-v51" id="v51"><sup class="verse-num">51</sup> <i><span style='font-family:"Times New Roman",serif;color:#C00000'>because they’re the inheritance you brought out of Egypt, the iron furnace</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>). </span></i></span>
+<span class="verse verse-v52" id="v52"><sup class="verse-num">52</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>Open your eyes to my petition and to your people Israel, to listen whenever they call. </span></i></span>
+<span class="verse verse-v53" id="v53"><sup class="verse-num">53</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>You’ve separated them off from all the </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>other <i>nations as your inheritance, Lord Yahveh, like you said through Moses when you brought them out of Egypt.”                    </i></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>1 Kg 8:44-53</span></b></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v54" id="v54"><sup class="verse-num">54</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Solomon had finished that prayer, he stood up from kneeling with his hands spread toward heaven </span></span>
+<span class="verse verse-v55" id="v55"><sup class="verse-num">55</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and blessed Israel with a loud voice, </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v56" id="v56"><sup class="verse-num">56</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Blessed be Yahveh, who has given his people rest like he promised. Not a word of his promise through Moses has failed. </span></i></span>
+<span class="verse verse-v57" id="v57"><sup class="verse-num">57</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>May he be with us like he was with our ancestors, </span></i></span>
+<span class="verse verse-v58" id="v58"><sup class="verse-num">58</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and incline our hearts toward him, to follow the statutes and ordinances he commanded them. </span></i></span>
+<span class="verse verse-v59" id="v59"><sup class="verse-num">59</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>May my petition come near him day and night so he’ll support the cause of his servant and of Israel as each day requires. </span></i></span>
+<span class="verse verse-v60" id="v60"><sup class="verse-num">60</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then the whole world can know Yahveh is God and no other. </span></i></span>
+<span class="verse verse-v61" id="v61"><sup class="verse-num">61</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Devote your hearts to him completely, follow his statutes, and keep his commandments like you’re doing today.”</span></i></span></p>
+
+
+### The Dedication of the Temple
+
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk126069158"><span class="verse verse-v62" id="v62"><sup class="verse-num">62</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king and all Israel offered sacrifices and peace offerings to Yahveh: </span></span>
+<span class="verse verse-v63" id="v63"><sup class="verse-num">63</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>22,000 oxen and 120,000 sheep. That’s how the king and Israel dedicated Yahveh’s Temple. </span></span>
+<span class="verse verse-v64" id="v64"><sup class="verse-num">64</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The same day, he consecrated the middle of the court in front of it, because he offered there the burnt offering, grain offering, and fat of the peace offerings. The bronze altar was too small to hold them. </span></span>
+<span class="verse verse-v65" id="v65"><sup class="verse-num">65</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Solomon and all Israel observed the festival for 14 days, a huge assembly from Lebo-hamath to the River of Egypt, in the presence of Yahveh our God. </span></span>
+<span class="verse verse-v66" id="v66"><sup class="verse-num">66</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The next day he dismissed the people, and they blessed the king. They went home happy for the goodness Yahveh had shown David his servant and Israel his people.<b>   </b></span><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'>1 Kg 8:54-66</span></b></span></p>
+
+
+<style>
+.verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
+.verse strong sup { color: var(--secondary-color, #8b6914); }
+.section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
+</style>

@@ -1,73 +1,152 @@
 ---
 book: Numbers
 chapter: 23
-next: chapter-24
-prev: chapter-22
 title: Numbers 23
 translation: CYV
 type: chapter
 weight: 23
+prev: chapter-22
+next: chapter-24
 ---
 
 ## Numbers Chapter 23
 
+
 ### Balaam’s First Oracle
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Then Balaam told Balak, <em>“Build seven altars for me here and prepare seven bulls and rams.”</em> <strong><sup>2</sup></strong>They offered a bull and a ram on each altar. <strong><sup>3</sup></strong>Balaam told him, <em>“Stand beside your burnt offering, and I’ll go.</em><em> </em><em>Maybe </em><em>Yahveh</em><em> will come to me, and I’ll tell you what he shows me.”</em><em> </em>He went to a bare hill.<em> </em><strong><sup>4</sup></strong>God met him, and he said, <em>“I’ve set up seven altar</em><em>s</em><em> and offered a bull and a ram on each </em><em>one</em><em>.”</em> <strong><sup>5</sup></strong>Yahveh gave Balaam a message, <em>“Go </em><em>tell</em><em> Balak </em><em>such and such</em><em>.”</em><em> </em><strong><sup>6</sup></strong>He went back to Balak, who was standing by his burnt offering with the leaders of Moab.<strong></span>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Balaam told Balak, </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>“Build seven altars for me here and prepare seven bulls and rams.”</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They offered a bull and a ram on each altar. </span></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Balaam told him, </span><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>“Stand beside your burnt offering, and I’ll go. Maybe Yahveh will come to me, and I’ll tell you what he shows me.” </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He went to a bare hill.</span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span></i></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God met him, and he said, </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>“I’ve set up seven altars and offered a bull and a ram on each one.”</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh gave Balaam a message, </span><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>“Go tell Balak such and such.” </span></i></span>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He went back to Balak, who was standing by his burnt offering with the leaders of Moab.</span></span></p>
+
 <p class="section-ref">Num 23:1-6</p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>Water</em><em> will flow from </em>Jacob’s<em> </em><em>buckets;</em> <em>	</em><em>	his</em><em> seed will live by </em><em>abundant </em><em>water;</em> <em>	</em><em>	his</em><em> king will be </em><em>greater</em><em> than </em><em>Agag</em><em>;</em> <em>	</em><em>	his</em><em> kingdom will be </em><em>exalted</em><em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                  7</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Balaam
+</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>took up this oracle:              </span></p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> <strong><em>God</em></strong><strong><em> is bringing him out of </em></strong><strong><em>Egypt;</em></strong> 	<strong><em>	</em></strong><strong><em>	he’s like the horns of a wild ox for him.</em></strong> <em>	He’ll </em><em>devastate</em><em> the nations that oppose </em><em>him;</em> <em>	</em><em>	</em><em>h</em><em>e’ll crush their bones to</em><em> pieces</em> <em>	</em><em>	</em><em>and shatter them with his arrows.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Balak brought me from Aram,</span></i></p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> Israel<em> lies down like a </em><em>lion;</em> <em>	</em><em>	</em><em>who dares to rouse him?</em> <em>	Blessed is every</em><em>one</em><em> that blesses </em><em>him;</em> <em>	</em><em>	</em><em>cursed </em><em>are all who curse</em><em> </em><em>him</em><em>.”</span>
-<p class="section-ref">Num 24:1-9</p>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                            Moab’s king from the eastern mountains.</span></i></p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> Balak was mad at Balaam. He clapped his hands and said, <em>“I called you to curse my enemies, and you’ve persisted in blessing them three times!</em><em> </em><strong><sup>11</sup></strong><em>Go</em><em> back</em><em> home.</em><em> </em><em>I said I’d greatly honor you, but </em><em>Yahveh</em><em> has </em><em>prevented</em><em> </em>you from receiving <em>your honor.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      ‘Come curse Jacob for me; </span></i></p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> Balak said to Balaam, <em>“Wh</em><em>at have you done to me? I told </em><em>you to curse my enemies</em><em>;</em><em> you’ve blessed them!”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                            come denounce Israel.’</span></i></p>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> Balaam said<em>, </em> <em>“Didn’t I tell your messengers, </em><strong><sup>13</sup></strong><em>‘Though</em><em> Balak gives me his house full of silver and gold, </em><em>on my own </em><em>I c</em><em>a</em><em>n’t do anything contrary to </em><em>Yahveh</em><em>’s command</em><em>, good or bad.</em><em> I’ll </em><em>say</em><em> what </em><em>he</em><em> </em><em>says</em><em>.’?</em><em> </em><strong><sup>14</sup></strong><em>I’m</em><em> going to my people</em><em>, but </em><em>I’ll advise you what this </em><em>nation</em><em> will do to your people </em><em>later.”</em></span>
-<p class="section-ref">Num 24:10-14</p>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      </span></i><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>How can I curse someone God hasn’t cursed?</span></i></span></p>
 
-### Balaam’s Last Oracle
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                            How can I denounce the one God hasn’t denounced?</span></i></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      </span></i><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I see him from the top of the cliffs</span></i></span></p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> Balak said, <em>“</em><em>C</em><em>ome to a different place, where you can see them—even though it’ll just be the tail-end of them.</em><em> </em><em>Curse them for me from there.”</em> <strong><sup>14</sup></strong>He took him to the Field of Zophim, to the top of Pisgah, and built seven altars and offered a bull and ram on each one.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                  and look at him from the hills;</span></i></p>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> He took up this oracle: 	<strong><em>“The oracle of Balaam </em></strong><strong><em>Ben-</em></strong><strong><em>Beor,</em></strong> 	<strong>	</strong><strong>	</strong><strong>	</strong><strong><em>the oracle of a man with his eyes </em></strong><strong>wide</strong><strong><em> open,</em></strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                            a people that lives off by itself</span></i></p>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> <em>Edom</em><em> will be a </em><em>possession;</em> <em>	</em><em>	</em><em>Seir, </em><em>hi</em><em>s enem</em><em>y</em><em>, will be </em><em>overtaken</em><em>,</em> <em>	</em><em>	w</em><em>hile Israel </em><em>grows strong</em><em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                  won’t be counted among the nations.</span></i></p>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> <em>A</em><em> ruler will arise</em><em> from Jacob </em> <em>	</em><em>	a</em><em>nd destroy the remnant </em><em>of Ir</em><em>.</span>
-<p class="section-ref">Num 24:15-19</p>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      </span></i><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Who can count the dust of Jacob</span></i></span></p>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> He looked at Amalek and took up this oracle: <em>“Amalek was first among</em><em> the nations,</em> <em>	</em><em>	b</em><em>ut</em><em> he’ll end in destruction.</em><em>”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                            or number </span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>even </span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>a fourth of Israel?          </span></i></p>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> He looked at the Kenites and took up this oracle: <em>“</em><em>Where you live</em><em> </em><em>endur</em><em>es</em><em>;</em> <em>	</em><em>	y</em><em>our nest sits on </em><em>a</em><em> cliff.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      Let me die like the godly;</span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> </span></p>
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> <em>Nevertheless</em><em>,</em><em> Kain will be </em><em>consumed;</em> <em>	</em><em>	h</em><em>ow long will Asshur </em><em>hold</em><em> you captive?</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                            let my demise be like theirs!”                                                             </span></i></span></p>
 
-<span class="verse" id="v23"><sup class="verse-num">23</sup> He took up his oracle: <em>“Who can live except God ordains it?</em></span>
+<p class="section-ref">Num 23:7-10</p>
 
-<span class="verse" id="v24"><sup class="verse-num">24</sup> <em>But</em><em> ships will come from the coast of Kittim</em> <em>	</em><em>	a</em><em>nd </em><em>attack</em><em> Asshur and </em><em>Eber;</em> <em>	</em><em>	</em><em>so</em><em> they’ll end up in</em><em> destruction</em><em> too</em><em>.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt; '><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Balak said to Balaam, </span><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>“What have you done to me? I told you to curse my enemies; you’ve blessed them!”</span></i></span></p>
 
-<span class="verse" id="v25"><sup class="verse-num">25</sup> Balaam went home and Balak left.</span>
-<p class="section-ref">Num 24:20-25</p>
-
-### Moab Seduces Israel
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt; '><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t I have to say what Yahveh tells me?”</span></i></span></p>
 
 
-<span class="verse" id="v26"><sup class="verse-num">26</sup> But Balaam answered, <em>“Didn’t I tell you</em><em> </em><em>I have to do what </em><em>Yahveh</em><em> s</em><em>ay</em><em>s?”</em></span>
+### Balaam’s Second Oracle
 
-<span class="verse" id="v27"><sup class="verse-num">27</sup> Balak said to him,<em> “Come on; I’ll take you to another place. Maybe God will agree to put a curse on them there.” </em><strong><sup>28</sup></strong>Balak took Balaam to the top of Peor, which overlooks Jeshimon. <strong><sup>29</sup></strong>Balaam told him, <em>“Build seven altars here and prepare sev</em><em>en bulls and rams</em><em>.”</em><em> </em><strong><sup>30</sup></strong>Balak did that and offered a bull and ram on each altar.</span>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt; '><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Balak said, </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Come to a different place, where you can see them—even though it’ll just be the tail-end of them. Curse them for me from there.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He took him to the Field of Zophim, to the top of Pisgah, and built seven altars and offered a bull and ram on each one. </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Balaam</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> told him, </span><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>“Stand here by your burnt offering while I meet Yahveh over there.” </span></i></span>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh met Balaam and gave him a message, </span><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>“Go back to Balak, and say such and such.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></span>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Balaam went to him, who was standing by his burnt offering with the officials of Moab. Balak asked, </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>“What has Yahveh said?”
+</span></i></span></span></p>
+
+<p class="section-ref">Num 23:11-17</p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Balaam
+</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>took up this oracle:</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Balak, listen;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                            pay attention, son of Zippor.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      </span></i><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God does not lie like people do</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                            or change his mind like their offspring.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      Has he said and won’t do?</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                            Has he spoken and not made it good?</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      </span></i><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ve received a command to bless;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                            when he has blessed, I can’t revoke it.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      </span></i><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He hasn’t observed misfortune in Jacob</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                            or seen trouble in Israel.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      Yahveh their God is with them,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                            and has been proclaimed their king.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      </span></i><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God is bringing them out of Egypt;</span></i></b></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                            he’s like the horns of a wild ox for them.</span></i></b></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      </span></i><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>There’s no omen against Jacob,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                            no fortunetelling against Israel.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      At the right time what God has done</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                            will be said to Jacob;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                            it will be told to Israel.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      </span></i><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>These people rise like a lioness; </span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                            they get up like a lion.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      They won’t lie down till they eat their prey</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                            and drink the blood of the slain.”                                                    </span></i></span></p>
+
+<p class="section-ref">Num 23:18-24</p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt; '><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Balak told him, </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t curse them at all or bless them at all!”</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt; '><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But Balaam answered, </span><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>“Didn’t I tell you I have to do what Yahveh says?”</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt; '><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Balak said to him,</span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> “Come on; I’ll take you to another place. Maybe God will agree to put a curse on them there.” </span></i></span>
+<span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Balak took Balaam to the top of Peor, which overlooks Jeshimon. </span></span>
+<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Balaam told him, </span><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>“Build seven altars here and prepare seven bulls and rams.” </span></i></span>
+<span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Balak did that and offered a bull and ram on each altar.                                                                            </span></span></p>
+
 <p class="section-ref">Num 23:25-30</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

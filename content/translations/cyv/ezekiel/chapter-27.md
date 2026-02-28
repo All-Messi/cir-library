@@ -1,74 +1,183 @@
 ---
 book: Ezekiel
 chapter: 27
-next: chapter-28
-prev: chapter-26
 title: Ezekiel 27
 translation: CYV
 type: chapter
 weight: 27
+prev: chapter-26
+next: chapter-28
 ---
 
 ## Ezekiel Chapter 27
 
+
 ### A Lament for Tyre
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> A message from Yahveh came to me:<em> </em></span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>“Son</em><em> of man, take up a lamentation over Tyre</em><em> </em><strong><sup>3</sup></strong><em>that</em><em> sits at the port to the sea, the nations’ merchant to many ports, The Lord Yahveh says, </em><em> </em> <em>‘Tyre</em><em>, you’ve said </em><em>“</em><em>I’</em><em>m perfectly beautiful.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A message from Yahveh came to me:</span><i><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></i></span></p>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> <em>Your</em><em> borders extend into the heart of the sea;</em> <em>	your builders have perfected your beauty.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:49.5pt; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Son of man, take up a lamentation over Tyre </span></i></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>that sits at the port to the sea, the nations’ merchant to many ports, The Lord Yahveh says,  </span></i></span></p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>They’ve</em><em> made your planks out of fir trees from Seir;</em> <em>	they’ve taken a cedar from Lebanon to make a mast for you.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘Tyre, you’ve said “I’m perfectly beautiful.”</span></i></p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>They</em><em> shaped your oars out of oaks from Bashan;</em> <em>	with ivory they’ve inlaid your deck with boxwood </em> <em>	</em><em>	from the coasts of Cyprus.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Your borders extend into the heart of the sea;</span></i></span></p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>Your</em><em> sail was made out of fine embroidered linen from Egypt;</em> <em>	it became your identifying mark.</em> <em>Your awning was blue and purple from the coasts of Elishah.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            your builders have perfected your beauty.</span></i></p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>The</em><em> residents of Sidon and Arvad rowed for you;</em> <em>	your wise men, Tyre, were on board as your navigators. </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’ve made your planks out of fir trees from Seir;</span></i></span></p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>The</em><em> elders of Gebal and its skilled men caulked your seams.</em> <em>All the ships in the sea and their sailors were with you,</em> <em>	dealing in your merchandise.’</em><strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            they’ve taken a cedar from Lebanon to make a mast for you.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They shaped your oars out of oaks from Bashan;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            with ivory they’ve inlaid your deck with boxwood </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            from the coasts of Cyprus.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Your sail was made out of fine embroidered linen from Egypt;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      it became your identifying mark.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Your awning was blue and purple from the coasts of Elishah.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The residents of Sidon and Arvad rowed for you;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      your wise men, Tyre, were on board as your navigators. </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The elders of Gebal and its skilled men caulked your seams.</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>All the ships in the sea and their sailors were with you,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      dealing in your merchandise.’</span></i></span></p>
+
 <p class="section-ref">Ezek 27:1-9</p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>“Persia</em><em>, Lud, and Put were soldiers in your army. They hung their shields and helmets on your walls and set forth your splendor. </em><strong><sup>11</sup></strong><em>Men</em><em> from Arvad and your army stood all around on your walls, and brave soldiers were in your towers. Their shields hung on your walls and completed your beauty.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Persia, Lud, and Put were soldiers in your army. They hung their shields and helmets on your walls and set forth your splendor. </span></i></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Men from Arvad and your army stood all around on your walls, and brave soldiers were in your towers. Their shields hung on your walls and completed your beauty.                                    </span></i></span></span></p>
+
 <p class="section-ref">Ezek 27:10-11</p>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> <em>“T</em><em>arsh</em><em>ish</em><em> was your customer because you had</em><em> </em><em>such a store</em><em> of all kinds of wealth</em><em>; they bought your merchandise with silver, iron, tin, and lead. </em><strong><sup>13</sup></strong><em>Javan</em><em>, Tubal, and Meshech traded with you; they bought your merchandise with men’s lives and bronze containers. </em><strong><sup>14</sup></strong><em>Beth</em><em>-togarmah gave horses, war horses, and mules for your wares. </em><strong><sup>15</sup></strong><em>Dedan</em><em> traded with you. Distant lands served as your markets; they paid with ivory tusks and ebony. </em><strong><sup>16</sup></strong><em>Syria</em><em> was your customer because you had an abundance of goods; they bought your wares with emeralds, purple, embroidered work, fine linen, coral, and rubies. </em><strong><sup>17</sup></strong><em>Judah</em><em> and Israel traded with you; they bought your merchandise with wheat from Minnith, cakes, honey, olive oil, and salve. </em><strong><sup>18</sup></strong><em>Damascus</em><em> was your customer because you had an abundance of </em><em>goods, an abundance of all kinds of wealth, and because of the wine from Helbon and white wool. </em><strong><sup>19</sup></strong><em>Vedan</em><em> and Javan paid for your casks of wine from Izal with wrought iron, cassia, and sweet cane. </em><strong><sup>20</sup></strong><em>Dedan</em><em> traded with you in saddlecloths for riding. </em><strong><sup>21</sup></strong><em>Arabia</em><em> and the princes of Kedar traded with you; </em><strong><sup>22</sup></strong><em>they</em><em> paid with gold, precious stones, and the finest spices. </em><strong><sup>23</sup></strong><em>Haran, Canneh, Eden, the traders of Sheba, Asshur, and Chilmad traded with you </em><strong><sup>24</sup></strong><em>for</em><em> choice garments, clothes made out of blue and embroidered work, carpets of many colors and in tightly wound cords.</em><strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Tarshish was your customer because you had such a store of all kinds of wealth; they bought your merchandise with silver, iron, tin, and lead. </span></i></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Javan, Tubal, and Meshech traded with you; they bought your merchandise with men’s lives and bronze containers. </span></i></span>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Beth-togarmah gave horses, war horses, and mules for your wares. </span></i></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Dedan traded with you. Distant lands served as your markets; they paid with ivory tusks and ebony. </span></i></span>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Syria was your customer because you had an abundance of goods; they bought your wares with emeralds, purple, embroidered work, fine linen, coral, and rubies. </span></i></span>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Judah and Israel traded with you; they bought your merchandise with wheat from Minnith, cakes, honey, olive oil, and salve. </span></i></span>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Damascus was your customer because you had an abundance of goods, an abundance of all kinds of wealth, and because of the wine from Helbon and white wool. </span></i></span>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Vedan and Javan paid for your casks of wine from Izal with wrought iron, cassia, and sweet cane. </span></i></span>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Dedan traded with you in saddlecloths for riding. </span></i></span>
+<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Arabia and the princes of Kedar traded with you; </span></i></span>
+<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>they paid with gold, precious stones, and the finest spices. </span></i></span>
+<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Haran, Canneh, Eden, the traders of Sheba, Asshur, and Chilmad traded with you </span></i></span>
+<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>for choice garments, clothes made out of blue and embroidered work, carpets of many colors and in tightly wound cords.</span></i></span></span></p>
+
 <p class="section-ref">Ezek 27:12-24</p>
 
-<span class="verse" id="v25"><sup class="verse-num">25</sup> <em>The</em><em> ships of Tarshish carried your wares.</em> <em>You were full</em><em> and </em><em>quite</em><em> </em><em>magnificent</em> <em>	in the heart of the seas.</em><em>	</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The ships of Tarshish carried your wares.</span></i></span></p>
 
-<span class="verse" id="v26"><sup class="verse-num">26</sup> <em>“Your</em><em> rowers have taken you</em> <strong><sup>	</sup></strong><strong><sup>	</sup></strong><em>o</em><em>nto </em><em>stormy high</em><em> </em><em>seas</em><em>;</em> <em>	t</em><em>he</em><em><sup> </sup></em><em>east wind has capsized you</em> <strong><sup>	</sup></strong><strong><sup>	</sup></strong><em>in the </em><em>middle </em><em>of the sea.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You were full and quite magnificent</span></i></p>
 
-<span class="verse" id="v27"><sup class="verse-num">27</sup> <em>Your</em><em> wealth, your wares and your merchandise,</em> <strong><sup>	</sup></strong><strong><sup>	</sup></strong><em>your sailors and </em><em>captain</em><em>s</em><em>,</em> <em>	</em><em>	ship builders and merchants,</em> <em>	 </em><em>	all the soldiers and everyone on board—</em> <em>	</em><em>	</em><em>	sink into the sea.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      in the heart of the seas.       </span></i></p>
 
-<span class="verse" id="v28"><sup class="verse-num">28</sup> <em>At</em><em> the outcry of your terrified captains,</em> <em>	the countryside shakes.</em><strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Your rowers have taken you</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>onto stormy high seas;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      the<sup>
+</sup>east wind has capsized you</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>in the middle of the sea.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Your wealth, your wares and your merchandise,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>your sailors and captains,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            ship builders and merchants,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            all the soldiers and everyone on board—</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  sink into the sea.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At the outcry of your terrified captains,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      the countryside shakes.</span></i></span></p>
+
 <p class="section-ref">Ezek 27:25-28</p>
 
-<span class="verse" id="v29"><sup class="verse-num">29</sup> <em>The</em><em> ones that row,</em><em> </em><em>the </em><em>captains</em><em> of the sea,</em> <em>	</em><em>abandon</em><em> ship</em><em> </em><em>and stand on shore.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The ones that row, </span></i><i><span style='font-family:"Times New Roman",serif'>the captains of the sea,</span></i></span></p>
 
-<span class="verse" id="v30"><sup class="verse-num">30</sup> <em>They</em><em> wail over you</em> <em>	and cry bitterly.</em> <em>They throw</em><em> dust on their heads</em> <em>	and wallow in ashes.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      abandon ship and stand on shore.</span></i></p>
 
-<span class="verse" id="v31"><sup class="verse-num">31</sup> <em>They</em><em> </em><em>shave their heads</em><em> for you</em> <em>	and put on </em><em>burlap</em><em>.</em> <em>They</em><em> </em><em>weep </em><em>bitterly </em><em>for you</em><em>.</span>
-<p class="section-ref">Ezek 27:29-31</p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They wail over you</span></i></span></p>
 
-<span class="verse" id="v32"><sup class="verse-num">32</sup> <em>As</em><em> they wail,</em><em> they take up </em> <strong><em><sup>	</sup></em></strong><em>a funeral song for you:</em> <em>	</em><em>	‘</em><em>Who is like Tyre</em> <em>	</em><em>	</em><em>	that’</em><em>s silent </em><em>at the bottom of</em><em> the sea?</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and cry bitterly.</span></i></p>
 
-<span class="verse" id="v33"><sup class="verse-num">33</sup> <em>When</em><em> your wares </em><em>came</em><em> from the sea,</em> <em>	</em><em>	</em><em>	you satisfied many nations.</em> <em>	</em><em>	</em><em>With </em><em>your great wealth and</em><em> merchandise</em><em>,</em> <em>	</em><em>	</em><em>	</em><em>you enriched the kings </em><em>everywhere</em><em>.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They throw dust on their heads</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and wallow in ashes.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They shave their heads for you</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and put on burlap.</span></i></p>
+
+
+### They weep bitterly for you.                                                      Ezek 27:29-31
+
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As they wail, they take up </span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></sup></i></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>a funeral song for you:</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            ‘Who is like Tyre</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  that’s silent at the bottom of the sea?</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  33</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When your wares came from the sea,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  you satisfied many nations.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            With your great wealth and merchandise,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  you enriched the kings everywhere.                     </span></i></span></p>
+
 <p class="section-ref">Ezek 27:32-33</p>
 
-<span class="verse" id="v34"><sup class="verse-num">34</sup> <em>Now</em><em> the sea has wrecked you</em> <strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><sup>	</sup></strong><em>in open water;</em> <em>	</em><em>	</em><em>	your merchandise and your crew </em> <em>	</em><em>	</em><em>	</em><em>	have sunk with you.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  34</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now the sea has wrecked you</span></i></p>
 
-<span class="verse" id="v35"><sup class="verse-num">35</sup> <em>The</em><em> people that live along the coasts </em> <em>	</em><em>	</em><em>	are appalled at what’s happened to you.</em> <em>	</em><em>	Their kings are horribly afraid;</em> <em>	</em><em>	</em><em>	their countenance has fallen.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>in open water;</span></i></p>
 
-<span class="verse" id="v36"><sup class="verse-num">36</sup> <em>The</em><em> merchants among the nations gasp at you;</em> <em>	</em><em>	</em><em>	you’ve come to a horrible end</em> <em>	</em><em>	</em><em>	and won’t exist anymore.’”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  your merchandise and your crew </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        have sunk with you.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  35</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The people that live along the coasts </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  are appalled at what’s happened to you.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Their kings are horribly afraid;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  their countenance has fallen.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  36</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The merchants among the nations gasp at you;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  you’ve come to a horrible end</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and won’t exist anymore.’”                                  </span></i></span></p>
+
 <p class="section-ref">Ezek 27:34-36</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

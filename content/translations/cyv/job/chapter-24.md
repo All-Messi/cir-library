@@ -1,75 +1,154 @@
 ---
 book: Job
 chapter: 24
-next: chapter-25
-prev: chapter-23
 title: Job 24
 translation: CYV
 type: chapter
 weight: 24
+prev: chapter-23
+next: chapter-25
 ---
 
 ## Job Chapter 24
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> <em>“Why</em><em> doesn’t the Almighty maintain </em> <em>a regular court schedule for judging?</em> <em>Why do those who know him wait for him in vain?</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>“Why doesn’t the Almighty maintain </span></i></span></p>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>Some</em><em> remove landmarks,</em> <em>seize flocks and eat them,</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.75in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>a regular court schedule for judging?</span></i></p>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> <em>drive</em><em> away donkeys that belong to the fatherless,</em> <em>take widows’ oxen for pledges.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>Why do those who know him wait for him in vain?</span></i></p>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> <em>They</em><em> run the needy off the </em><em>road;</em> <em>the poor people </em><em>have to</em><em> hide </em>from them<em>.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>Some remove landmarks,</span></i></span></p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>Like</em><em> wild donkeys in the desert, </em> the poor<em> labor at foraging for food,</em> <em>looking for prey in the wild to feed their children.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>seize flocks and eat them,</span></i></p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>They</em><em> gather fodder in the field</em> <em>and glean sinners’ vineyards.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>drive away donkeys that belong to the fatherless,</span></i></span></p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>They</em><em> spend the night without enough clothes</em> <em>to protect them against the cold.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>take widows’ oxen for pledges.</span></i></p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>They’re</em><em> soaked from mountain rain</em> <em>and huddle in the rocks for lack of shelter.</span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>They run the needy off the road;</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>the poor people have to hide </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif;color:gray'>from them<i>.</i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>Like wild donkeys in the desert, </span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>the poor<i> labor at foraging for food,</i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>looking for prey in the wild to feed their children.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>They gather fodder in the field</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>and glean sinners’ vineyards.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>They spend the night without enough clothes</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>to protect them against the cold.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>They’re soaked from mountain rain</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>and huddle in the rocks for lack of shelter.</span></i><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>          </span></i></span></p>
+
 <p class="section-ref">Job 24:1-8</p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>“Others</em><em> snatch the fatherless from the breast</em> <em>and take pledges against the poor.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>“Others snatch the fatherless from the breast</span></i></span></p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>They</em><em> make the naked go without clothes</em> <em>and take away sheaves from the hungry.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>and take pledges against the poor.</span></i></p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> <em>They</em><em> press out oil between the olive rows</em> <em>and tread winepresses </em>for others<em>, yet</em><em> suffer thirst.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>They make the naked go without clothes</span></i></span></p>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> <em>From</em><em> the city, the people groan,</em> <em>the wounded cry out for help,</em> <em>but God ignores their prayers.</span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>and take away sheaves from the hungry.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>They press out oil between the olive rows</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>and tread winepresses </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif;color:gray'>for others<i>, yet suffer thirst.</i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>From the city, the people groan,</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>the wounded cry out for help,</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>but God ignores their prayers.</span></i><b><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                             </span></b></span></p>
+
 <p class="section-ref">Job 24:9-12</p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> <em>“Others</em><em> rebel against the </em><em>light;</em> <em>they refuse to know </em><em>its ways</em><em> or stay on them.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>“Others rebel against the light;</span></i></span></p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> <em>A</em><em> murderer gets up at dawn</em> <em>to kill the poor and </em><em>needy;</em> <em>at night he’s a thief.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>they refuse to know its ways or stay on them.</span></i></p>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> <em>An</em><em> adulterer waits for twilight and says,</em> <em>‘Nobody will see me</em><em>’;</em> <em>he disguises himself.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>A murderer gets up at dawn</span></i></span></p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> <em>In</em><em> the dark they break into houses</em> <em>and sleep in the </em><em>daytime;</em> <em>they’re not accustomed to light.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>to kill the poor and needy;</span></i></p>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> <em>Morning</em><em> is the same </em><em>to</em><em> them as dense </em><em>darkness;</em><em> </em> <em>they’re allies with the terrors of deep gloom.</span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>at night he’s a thief.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>An adulterer waits for twilight and says,</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>‘Nobody will see me’;</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>he disguises himself.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>In the dark they break into houses</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>and sleep in the daytime;</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>they’re not accustomed to light.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>Morning is the same to them as dense darkness; </span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>they’re allies with the terrors of deep gloom.</span></i><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>      </span></i></span></p>
+
 <p class="section-ref">Job 24:13-17</p>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> <em>“But</em><em> they’re swiftly carried away like foam on a </em><em>creek;</em> <em>their land is </em><em>cursed;</em> <em>they’re afraid to go into their own vineyards.</em><strong>	</strong></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>“But they’re swiftly carried away like foam on a creek;</span></i></span></p>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> <em>Sheol</em><em> consumes sinners</em> <em>like drought and heat consume snow.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>their land is cursed;</span></i></p>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> <em>Their</em><em> mothers forget about them,</em> <em>maggots feed on them till they’re not </em><em>remembered;</em> <em>they’re blown over like trees </em>in a windstorm.</span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>they’re afraid to go into their own vineyards.</span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>      </span></b></p>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> <em>They</em><em> prey on barren and childless women</em> <em>and fail to help </em>needy <em>widows.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>Sheol consumes sinners</span></i></span></p>
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> <em>But</em><em> God uses his power to drag away the </em><em>rich;</em><em> </em> <em>they may get established, </em> <em>but they have no guarantee of life</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>like drought and heat consume snow.</span></i></p>
 
-<span class="verse" id="v23"><sup class="verse-num">23</sup> <em>He</em><em> may let them live in security, </em> <em>but he keeps an eye on their progress in life.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>Their mothers forget about them,</span></i></span></p>
 
-<span class="verse" id="v24"><sup class="verse-num">24</sup> <em>They’re</em><em> honored for a little while; then they’re </em><em>gone;</em> <em>they’re brought low and fade away like everything else,</em> <em>cut off like heads of grain.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>maggots feed on them till they’re not remembered;</span></i></p>
 
-<span class="verse" id="v25"><sup class="verse-num">25</sup> <em>If</em><em> that’s not so, who can prove me wrong</em> <em>and make my speech pointless?”</span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>they’re blown over like trees </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif;color:gray'>in a windstorm.</span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>They prey on barren and childless women</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>and fail to help </span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif;color:gray'>needy <i>widows.</i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>But God uses his power to drag away the rich; </span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>they may get established, </span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.75in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>but they have no guarantee of life</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>He may let them live in security, </span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>but he keeps an eye on their progress in life.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>They’re honored for a little while; then they’re gone;</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>they’re brought low and fade away like everything else,</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.75in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>cut off like heads of grain.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>If that’s not so, who can prove me wrong</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>and make my speech pointless?”</span></i><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>                          </span></b></span></p>
+
 <p class="section-ref">Job 24:18-25</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

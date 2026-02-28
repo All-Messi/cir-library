@@ -1,37 +1,66 @@
 ---
 book: Leviticus
 chapter: 1
-next: chapter-02
 title: Leviticus 1
 translation: CYV
 type: chapter
 weight: 1
+next: chapter-02
 ---
 
 ## Leviticus Chapter 1
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Yahveh called to Moses from the Tent of Meeting and told him,</span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>“When</em><em> </em><em>you take</em><em> an offering to </em><em>Yahveh</em><em>, </em><em>take</em><em> it from the herd or flock.</em><em> </em><strong><sup>3</sup></strong><em>For</em><em> </em><em>a burnt offering from the </em><em><u>herd</u></em><em>, </em><em>offer a male without defect. O</em><em>ffer it at the </em><em>entrance to</em><em> the </em><em>Tent of Meeting </em><strong><sup>4</sup></strong><em>and</em><em> </em><em>put</em><em> </em><em>your</em><em> hand on </em><em>its</em><em> head </em><em>to make it </em><em>acceptable </em><em>to atone</em><em> </em><em>for you</em><em>.</em><em> </em><strong><sup>5</sup></strong><em>Slaughter</em><em> the young bull</em><em>, and the sons of Aaron,</em><em> the priests</em><em>,</em><em> will offer up </em><em>its</em><em> blood and sprinkle it around on the altar at t</em><em>he entrance to the Tent of Meeting. </em><em> </em><strong><sup>6</sup></strong><em>S</em><em>kin</em><em> the burnt offering and </em><em>butcher it</em><em>.</em><em> </em><strong><sup>7</sup></strong><em>The</em><em> sons of Aaro</em><em>n will put fire on the altar, arrange wood on the fire, </em><strong><sup>8</sup></strong><em>and</em><em> </em><em>arrange the pieces, head, and </em><em>fat</em><em> </em><em>on</em><em> the wood.</em><em> </em><strong><sup>9</sup></strong><em>But</em><em> you</em><em>’ll wash its entrails and legs</em><em>, and t</em><em>he priest will offer it up in smoke for a burnt offering,</span>
+### Conversational Yahveh Covenant
+
+
+<p class="MsoListBulletCxSpMiddle" ><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh called to Moses from the Tent of Meeting and told him,</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“When you take an offering to Yahveh, take it from the herd or flock. </span></i></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For a burnt offering from the <u>herd</u>, offer a male without defect. Offer it at the entrance to the Tent of Meeting </span></i></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and put your hand on its head to make it acceptable to atone for you. </span></i></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Slaughter the young bull, and the sons of Aaron, the priests, will offer up its blood and sprinkle it around on the altar at the entrance to the Tent of Meeting.  </span></i></span>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Skin the burnt offering and butcher it. </span></i></span>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The sons of Aaron will put fire on the altar, arrange wood on the fire, </span></i></span>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and arrange the pieces, head, and fat on the wood. </span></i></span>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But you’ll wash its entrails and legs, and the priest will offer it up in smoke for a burnt offering,                                                                                               </span></i></span></span></p>
+
 <p class="section-ref">Lev 1:1-9</p>
+
 
 ### Burnt Offering from the Flock
 
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>“If</em><em> your burnt offering is a sheep or goat from the </em><em><u>flock</u></em><em>, it’ll be without defect. </em><strong><sup>11</sup></strong><em>Slaughter</em><em> it on the north side of the altar in front of Yahveh, and the sons of Aaron will sprinkle its blood around on the altar. </em><strong><sup>12</sup></strong><em>Then</em><em> butcher it with its head and fat, and the priests will arrange the pieces on the wood on the altar. </em><strong><sup>13</sup></strong><em>You’ll</em><em> wash the entrails and legs, and the priest will offer it up in smoke for a burnt offering on the altar, </em><em>a</em><em>n</em><em> aroma </em><em>pleasing </em><em>to </em><em>Yahveh</em><em>.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If your burnt offering is a sheep or goat from the <u>flock</u>, it’ll be without defect. </span></i></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Slaughter it on the north side of the altar in front of Yahveh, and the sons of Aaron will sprinkle its blood around on the altar. </span></i></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then butcher it with its head and fat, and the priests will arrange the pieces on the wood on the altar. </span></i></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’ll wash the entrails and legs, and the priest will offer it up in smoke for a burnt offering on the altar, an aroma pleasing to Yahveh.               </span></i></span></span></p>
+
 <p class="section-ref">Lev 1:10-13</p>
+
 
 ### Burnt Offering of Birds
 
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> <em>“I</em><em>f</em><em> it’s a </em><em>burnt offering of </em><em><u>birds</u></em><em>, bring an offering of a turtledove or young pigeon. </em><strong><sup>15</sup></strong><em>The</em><em> priest will take it to the altar, wring it neck, and offer it up in smoke. He’ll drain out its blood on the side of the altar, </em><strong><sup>16</sup></strong><em>take</em><em> away its crop and feathers, and cast it on the east side of the altar toward the place for the ashes. </em><strong><sup>17</sup></strong><em>Then</em><em> he’ll tear it by its wings—but not cut it in two—and offer it up in smoke on the altar. It’s a burnt offering, an aroma pleasing to Yahveh.</em><strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If it’s a burnt offering of <u>birds</u>, bring an offering of a turtledove or young pigeon. </span></i></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The priest will take it to the altar, wring it neck, and offer it up in smoke. He’ll drain out its blood on the side of the altar, </span></i></span>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>take away its crop and feathers, and cast it on the east side of the altar toward the place for the ashes. </span></i></span>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then he’ll tear it by its wings—but not cut it in two—and offer it up in smoke on the altar. It’s a burnt offering, an aroma pleasing to Yahveh.</span></i></span></span></p>
+
 <p class="section-ref">Lev 1:14-17</p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in; line-height:normal'><b><sup><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>Grain Offerings</span></sup></b></p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

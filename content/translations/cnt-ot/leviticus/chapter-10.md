@@ -1,44 +1,79 @@
 ---
 book: Leviticus
 chapter: 10
-next: chapter-11
-prev: chapter-09
 title: Leviticus 10
 translation: CNT
 type: chapter
 weight: 10
+prev: chapter-09
+next: chapter-11
 ---
 
 ## Leviticus Chapter 10
 
+
 ### The Death of Nadab and Abihu
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Nadab and Abihu, Aaron’s sons, put fire in their firepans. They put incense on it and offered before the LORD fire different from what he’d commanded them. <strong><sup>2</sup></strong>Fire came out from the LORD and consumed them, and they died. <strong><sup>3</sup></strong>Moses told Aaron, <em>“</em><em>That</em><em>’</em><em>s what the </em><em>L</em><em>ORD</em><em> meant when he said</em><em>, </em> <em>‘Those who come near me will treat me as holy</em> <em>in front of the people.’”</em> So Aaron kept quiet.</span>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> Moses called Mishael and Elzaphan, the sons of Aaron’s uncle Uzziel, <em>“</em><em>Carry</em><em> your relatives </em><em>outside</em><em> the camp from </em><em>in</em><em> front of the sanctuary</em>.” <strong><sup>5</sup></strong>They carried them outside the camp still in their tunics. <strong><sup>6</sup></strong>Then Moses told Aaron and his sons Eleazar and Ithamar, <em>“Don’t uncover your heads or tear your clothes so you won’t die and make him angry with the whole community. But your kin, the whole House of Israel, will </em><em>wail over the burning the </em><em>L</em><em>ORD</em><em> brought about. </em><strong><sup>7</sup></strong><em>Don’t even go out of the Tent of Meeting; you’ll die because the </em><em>L</em><em>ORD</em><em>’s anointing oil is on you.”  </em> They did what Moses said.</span>
+<p class="MsoListBulletCxSpMiddle" ><a name="_Hlk126818588"></a><a name="_Hlk126761852"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Nadab and Abihu, Aaron’s sons, put fire in their firepans. They put incense on it and offered before the </span><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>L</span><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> fire different from what he’d commanded them. </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Fire came out from the </span><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>L</span><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> and consumed them, and they died. </span></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses told Aaron, </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>“That’s what the L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> meant when he said, </span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:10.0pt;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘Those who come near me will treat me as holy</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:10.0pt;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>in front of the people.’”</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:10.0pt;margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So Aaron kept quiet.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses called Mishael and Elzaphan, the sons of Aaron’s uncle Uzziel, </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Carry your relatives outside the camp from in front of the sanctuary</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.”
+</span></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They carried them outside the camp still in their tunics. </span></span>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Moses told Aaron and his sons Eleazar and Ithamar, </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t uncover your heads or tear your clothes so you won’t die and make him angry with the whole community. But your kin, the whole House of Israel, will wail over the burning the L</span></i><i><span style='font-size:9.0pt;line-height: 115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> brought about. </span></i><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Don’t even go out of the Tent of Meeting; you’ll die because the L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s anointing oil is on you.”  </span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:10.0pt;margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They did what Moses said.
+</span></p>
+
 <p class="section-ref">Lev 10:1-7</p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> The LORD told Aaron,</span>
+<p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> told Aaron, </span></span></p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>“D</em><em>on’t drink wine or </em><em>alcohol </em><em>when you </em><em>or your sons </em><em>come into the </em><em>Tent of Meeting so you won’t die—an ongoing </em><em>permanent statute</em><em>. </em><strong><sup>10</sup></strong><em>That’s</em><em> to distinguish the holy from the prof</em><em>ane, the ceremonially clean from unclean.</em><em> </em><strong><sup>11</sup></strong><em>It’s</em><em> to teach the Israel</em><em>ites</em><em> the statutes the </em><em>L</em><em>ORD</em><em> has </em><em>given</em><em> them through Moses.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><a name="_Hlk126818910"><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t drink wine or alcohol when you or your sons come into the Tent of Meeting so you won’t die—an ongoing permanent statute. </span></i></span>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That’s to distinguish the holy from the profane, the ceremonially clean from unclean. </span></i></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It’s to teach the Israelites the statutes the L</span></i><i><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> has given them through Moses.”</span></i></span></p>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> Then Moses told Aaron and his surviving sons Eleazar and Ithamar, <em>“Take the grain offering that’s left over from the </em><em>L</em><em>ORD</em><em>’s</em><em> offerings by fire and eat it without yeast</em><em> beside the altar</em><em>; </em><em>it’s most holy.</em><em> </em><strong><sup>13</sup></strong><em>Eat it in a holy place; it’s for you and your sons from the </em><em>L</em><em>ORD</em><em>’s offerings by fire. That’s what God commanded me. </em><strong><sup>14</sup></strong><em>The breast and thigh of the wave offering, however, you and your sons and daughters can eat in a clean place; </em>those parts<em> are for you and your offspring. </em><strong><sup>15</sup></strong><em>The thigh offered by lifting up and the breast offered by waving, they’ll take with the burnt offerings of the fat portions to present in a wave offering before the </em><em>L</em><em>ORD</em><em>. It’s for you and your sons permanently.”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-right:.5in; '><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Moses told Aaron and his surviving sons Eleazar and Ithamar,</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Take the grain offering that’s left over from the L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s offerings by fire and eat it without yeast beside the altar; it’s most holy. </span></i><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Eat it in a holy place; it’s for you and your sons from the L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s offerings by fire. That’s what God commanded me. </span></i></span>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The breast and thigh of the wave offering, however, you and your sons and daughters can eat in a clean place; </span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>those parts</span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> are for you and your offspring. </span></i></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The thigh offered by lifting up and the breast offered by waving, they’ll take with the burnt offerings of the fat portions to present in a wave offering before the L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>. It’s for you and your sons permanently.”   </span></i></span></span></p>
+
 <p class="section-ref">Lev 10:8-15</p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> Moses looked all over for the goat from the sin offering, but it had been burned up. He was mad at Aaron’s surviving sons Eleazar and Ithamar,</span>
+<p class="MsoListBulletCxSpMiddle" ><a name="_Hlk126819051"><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses looked all over for the goat from the sin offering, but it had been burned up. He was mad at Aaron’s surviving sons Eleazar and Ithamar, </span></span></p>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> <em>“Why didn’t you eat the sin offering at the holy place? It’s most holy, and the </em><em>L</em><em>ORD</em><em> gave it to you to carry away the guilt of the community, to atone for them. </em><strong><sup>18</sup></strong><em>Since its blood hadn’t been brought into the sanctuary, you should have eaten it in the sanctuary like I commanded.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Why didn’t you eat the sin offering at the holy place? It’s most holy, and the L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> gave it to you to carry away the guilt of the community, to atone for them. </span></i></span>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Since its blood hadn’t been brought into the sanctuary, you should have eaten it in the sanctuary like I commanded.”</span></i></span></p>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> But Aaron told Moses, <strong><sup>	</sup></strong><strong><sup>	</sup></strong><em>“This very day they presented their sin offering and burnt offering </em><em>to</em><em> the </em><em>L</em><em>ORD</em><em>.</em><em> But this tragedy</em><em> </em><em>has happened to me. I</em><em>f I’d eate</em><em>n a sin offering today, would the </em><em>L</em><em>ORD</em><em> have </em><em>considered it</em><em> good?</em><em>”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:10.0pt;margin-left:.25in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  19</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But Aaron told Moses,</span></p>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> That made sense to Moses.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                           </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“This very day they presented their sin offering and burnt offering to the L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>. But this tragedy has happened to me. If I’d eaten a sin offering today, would the L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> have considered it good?”</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" ><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>      </span><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That made sense to Moses.                                                                                           </span></span></p>
+
 <p class="section-ref">Lev 10:16-20</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

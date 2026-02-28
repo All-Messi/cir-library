@@ -1,40 +1,61 @@
 ---
 book: Judges
 chapter: 12
-next: chapter-13
-prev: chapter-11
 title: Judges 12
 translation: CYV
 type: chapter
 weight: 12
+prev: chapter-11
+next: chapter-13
 ---
 
 ## Judges Chapter 12
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> The men of Ephraim gathered an army, crossed over <em>the Jordan </em>to Zaphon, and said to Jephthah, <em>“Why did you cross over to fight the Ammonites and not call us to go with you?</em><em> </em><em>We’ll burn your house </em><em>on top of</em><em> you.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The men of Ephraim gathered an army, crossed over <i>the Jordan </i>to Zaphon, and said to Jephthah, <i>“Why did you cross over to fight the Ammonites and not call us to go with you? We’ll burn your house on top of you.”</i>   </span></span></p>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> Jephthah told them, <em>“</em><em>M</em><em>y people </em><em>and </em>I <em>had a </em><em>major</em><em> </em><em>conflict</em><em> with the Ammonites.</em><em> </em><em>When I called you, you didn’t deliver me from them.</em><em> </em><strong><sup>3</sup></strong><em>When</em><em> I saw that you wouldn’t deliver me, I took my life in hand and crossed over against the</em><em>m</em><em>, and </em><em>Yahveh</em> <em>delivered</em><em> them to me.</em><em> Why then have you come up </em><em>to fight me?”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jephthah told them, <i>“My people and </i>I <i>had a major conflict with the Ammonites. When I called you, you didn’t deliver me from them. </i></span></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When I saw that you wouldn’t deliver me, I took my life in hand and crossed over against them, and Yahveh</span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> <i>delivered them to me. Why then have you come up to fight me?”</i> </span></span></p>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> Jephthah gathered the men from Gilead and struck Ephraim because they said, <em>“You Gileadites are refugees from Ephraim in</em><em> Ephraim and Manasseh.”</em><em> </em><strong><sup>5</sup></strong>The Gileadites captured the Jordan fords. When a refugee from Ephraim asked to go across, the Gileadites would ask him, <em>“Are you an</em> <em>Ephraimite?”</em> If he said, <em>“No,” </em><strong><sup>6</sup></strong>they’d tell him to say<em> shibboleth.</em><em> </em>He’d say <em>s</em><em>ibboleth</em><em> </em>because he couldn’t pronounce it right; so they’d kill him. At that time, 42,000 Ephraimites fell.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jephthah gathered the men from Gilead and struck Ephraim because they said, <i>“You Gileadites are refugees from Ephraim in Ephraim and Manasseh.” </i></span></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Gileadites captured the Jordan fords. When a refugee from Ephraim asked to go across, the Gileadites would ask him, <i>“Are you an</i> <i>Ephraimite?”</i> If he said, <i>“No,” </i></span></span>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>they’d tell him to say<i> shibboleth. </i>He’d say <i>sibboleth </i>because he couldn’t pronounce it right; so they’d kill him. At that time, 42,000 Ephraimites fell.</span></span></p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> Jephthah judged Israel 6 years. He died and was buried in his city in Gilead.<strong></span>
-<p class="section-ref">Jud 12:1-7</p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jephthah judged Israel 6 years. He died and was buried in his city in Gilead.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>    Jud 12:1-7</span></b></span></p>
+
 
 ### Ibzan Judges Israel
 
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> After him <strong>Ibzan</strong> of Bethlehem judged Israel. <strong><sup>9</sup></strong>He had 30 sons and gave 30 daughters in marriage outside his clan. He brought in 30 daughters from outside for his sons. He judged Israel 7 years. <strong><sup>10</sup></strong>He died and was buried at Bethlehem. 	<strong>Elon Judges Israel</strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After him <b>Ibzan</b> of Bethlehem judged Israel. </span></span>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He had 30 sons and gave 30 daughters in marriage outside his clan. He brought in 30 daughters from outside for his sons. He judged Israel 7 years. </span></span>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He died and was buried at Bethlehem.</span></span></p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> After him <strong>Elon</strong> from Zebulun judged Israel for 10 years. <strong><sup>12</sup></strong>He died and was buried at Aijalon in Zebulun. 	<strong>Abdon Judges Israel</strong></span>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> After him <strong>Abdon</strong> Ben-Hillel from Pirathon judged Israel. <strong><sup>14</sup></strong>He had 40 sons and 30 grandsons that rode on 70 donkeys. He judged Israel 8 years. <strong><sup>15</sup></strong>He died and was buried at Pirathon in Ephraim in the hill country of the Amalekites.</span>
-<p class="section-ref">Jud 12:8-15</p>
+### Elon Judges Israel
+
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After him <b>Elon</b> from Zebulun judged Israel for 10 years. </span></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He died and was buried at Aijalon in Zebulun. </span></span></p>
+
+
+### Abdon Judges Israel
+
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After him <b>Abdon</b> Ben-Hillel from Pirathon judged Israel. </span></span>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He had 40 sons and 30 grandsons that rode on 70 donkeys. He judged Israel 8 years.
+</span></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He died and was buried at Pirathon in Ephraim in the hill country of the Amalekites. </span><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'>Jud 12:8-15</span></b></span></p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

@@ -1,57 +1,151 @@
 ---
 book: Zephaniah
 chapter: 2
-next: chapter-03
-prev: chapter-01
 title: Zephaniah 2
 translation: CNT
 type: chapter
 weight: 2
+prev: chapter-01
+next: chapter-03
 ---
 
 ## Zephaniah Chapter 2
 
+
 ### A Call for Repentance
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Get together, go ahead, assemble, shameless nation,</span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> before the decree takes effect— before that day <em>of repentance</em> passes by like chaff— before the LORD’s burning anger comes down on you.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk122959205"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Get together, </span></span></p>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> Look to him, you humble in the land who’ve followed his commands. Aspire to goodness and humility; maybe the LORD will protect you when his anger comes. <strong>Zeph 2:1-3</strong><strong>	</strong> 	<strong>Judgment Against Philistia</strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      go ahead, assemble, shameless nation,</span></p>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> <u>Gaza</u> will be abandoned; <u>Ashkelon</u>, desolate. <u>Ashdod</u> will be driven out at midday; <u>Ekron</u>, uprooted.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  2</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>before the decree takes effect—</span></p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> Misfortune awaits people along the coast, nation of Cherethites! The LORD’s message speaks against you, <u>Canaan</u>, land of the Philistines; I’ll destroy you till there’s no one left.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            before that day <i>of repentance</i> passes by like chaff—</span></p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> The seacoast will be open range with camps for shepherds and folds for flocks.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            before the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s burning anger comes down on you.</span></p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> It will serve as pasture for the remnant from Judah. In the evening they’ll lie down in the houses in Ashkelon, because the LORD will take care of them and restore their fortune.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Look to him,</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      you humble in the land</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      who’ve followed his commands.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Aspire to goodness and humility;</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      maybe the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> will protect you when his anger comes. </span></p>
+
+<p class="section-ref">Zeph 2:1-3</p>
+
+
+### Judgment Against Philistia
+
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk122959252"><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> </a><u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gaza</span></u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> will be abandoned;</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <u>Ashkelon</u>, desolate.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      <u>Ashdod</u> will be driven out at midday;</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <u>Ekron</u>, uprooted.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         5</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Misfortune awaits people along the coast,</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            nation of Cherethites!</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s message speaks against you, </span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <u>Canaan</u>, land of the Philistines;</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      I’ll destroy you till there’s no one left.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The seacoast will be open range </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            with camps for shepherds and folds for flocks.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         7</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It will serve as pasture</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            for the remnant from Judah.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      In the evening they’ll lie down in the houses in Ashkelon,</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            because the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> will take care of them</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and restore their fortune.</span><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'></span></p>
+
 <p class="section-ref">Zeph 2:4-7</p>
+
 
 ### Judgment Against Moab and Ammon
 
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>“I</em><em>’ve</em><em> heard </em><em><u>Moab</u></em><em> taunting my people and </em><em><u>Ammon</u></em><em> </em><em>insulting</em><em> </em><em>them</em><em>;</em> <em>	they’ve bec</em><em>o</em><em>me arrogant about </em>my people’s<em> territory.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk122959302"><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ve heard <u>Moab</u> taunting my people and <u>Ammon</u> insulting them;</span></i></span></p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>“So</em><em>, as I live,” </em>the LORD of Hosts,<em> </em><em>the </em>God of Israel says, <em> </em><em>	</em><em>“Moab will be like Sodom,</em> <em>	the Ammon</em><em>ites</em><em> like Gomorrah—</em> <em>	a place </em><em>full of</em><em> nettles and salt pits,</em> <em>	</em><em>a permanent wasteland</em><em>.</em> <em>The remnant of my people will plunder </em><em>them;</em> <em>	</em><em>t</em><em>he remainder of my nation will </em><em>take their land</em><em>.”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      they’ve become arrogant about </span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>my people’s<i> territory.</i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“So, as I live,” </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>the L</span><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> of Hosts,<i> the </i>God of Israel says,</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      “Moab will be like Sodom,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      the Ammonites like Gomorrah—</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      a place full of nettles and salt pits,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      a permanent wasteland.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The remnant of my people will plunder them;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      the remainder of my nation will take their land.”</span></i></span></p>
+
 <p class="section-ref">Zeph 2:8-9</p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> That’s what they’ll get for their arrogance because they’ve taunted the people of the LORD of Hosts. <strong><sup>11</sup></strong>He’ll terrify them and starve all the gods everywhere. Nations the world over will bow to him, each in their own land. 	<strong>Judgment Against Nubia and Assyria</strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That’s what they’ll get for their arrogance because they’ve taunted the people of the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> of Hosts. </span></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He’ll terrify them and starve all the gods everywhere. Nations the world over will bow to him, each in their own land.</span></span></p>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> <em>“I’ll</em><em> slay the </em><em><u>Nubians </u></em><em>with my sword,” </em>the LORD says.</span>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> <em>“I’ll</em><em> reach out to the north to destroy </em><em><u>Assyria</u></em> <em>	and make </em><em><u>Nineveh</u></em><em> </em><em>a </em><em>ruins</em><em>, arid like a desert.</em></span>
+### Judgment Against Nubia and Assyria
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> <em>Herds</em><em> of wild animals will lie down in </em><em>it;</em> <em>	buzzards and desert owls will roost on </em><em>its</em><em> columns.</em> <em>	Birds will chirp in </em><em>its</em><em> vacant </em><em>windows;</em> <em>	rubble will block its </em><em>doorways</em><em>;</em> <em>	its cedar paneling will </em><em>be exposed to</em><em> the elements—</em></span>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> <em>the</em><em> jubilant city that lived securely</em> <em>	and said to itself,</em><em> ‘Nobody compares with me.’</em> <em>What a wasteland it will become,</em> <em>	a haven for wild animals!</em> <em>Anyone that goes by will gasp</em> <em>	and gesture</em> in contempt.<em>”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ll slay the <u>Nubians </u>with my sword,” </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD says</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk122959386"><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ll reach out to the north to destroy <u>Assyria</u></span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and make <u>Nineveh</u> a ruins, arid like a desert.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Herds of wild animals will lie down in it;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      buzzards and desert owls will roost on its columns.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Birds will chirp in its vacant windows;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      rubble will block its doorways;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      its cedar paneling will be exposed to the elements—</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the jubilant city that lived securely</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and said to itself, ‘Nobody compares with me.’</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>What a wasteland it will become,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      a haven for wild animals!</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Anyone that goes by will gasp</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and gesture</span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> in contempt.<i>”</i></span></p>
+
 <p class="section-ref">Zeph 2:10-15</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

@@ -1,35 +1,63 @@
 ---
 book: Zechariah
 chapter: 7
-next: chapter-08
-prev: chapter-06
 title: Zechariah 7
 translation: CYV
 type: chapter
 weight: 7
+prev: chapter-06
+next: chapter-08
 ---
 
 ## Zechariah Chapter 7
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> The <strong>Fourth Day, Ninth M</strong><strong>onth (</strong><strong>Chislev</strong><strong>), Fourth Y</strong><strong>ear of King Darius</strong> A Message from Yahveh to Zechariah 	<strong>A Call for Justice and Mercy, Not Fasting</strong></span>
+<p class="MsoListBulletCxSpMiddle" align=center style='margin-bottom:0in; text-align:center'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The
+<b>Fourth Day, Ninth Month (</b></span><b><span style='font-family:"Times New Roman",serif'>Chislev</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>), Fourth Year of King Darius</span></b></span></p>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> The people in Bethel had sent Sharezer, Regem-melech, and their men to ask for Yahveh’s blessing. <strong><sup>3</sup></strong>They spoke to the priests in Yahveh’s Temple and to the prophets, <em>“</em><em>Should we</em><em> </em><em>keep </em><em>mourn</em><em>ing</em><em> and fast</em><em>ing</em><em> in the fifth month</em><em> like we</em><em>’ve done all these years?”</em></span>
+<p class="MsoListBulletCxSpMiddle" align=center style='margin-bottom:0in; text-align:center'><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>A Message from Yahveh to Zechariah </span></p>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> A Message from Yahveh to Me</span>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>“Tell</em><em> the </em><em>priests and </em><em>people in the land, ‘When you fasted and mourned in the fifth and seventh month</em><em>s tho</em><em>se </em><em>70</em><em> years, </em><em>were you </em>really<em> fasting for </em><em><u>me</u></em><em>?</em><em> </em><strong><sup>6</sup></strong><em>And</em><em> now w</em><em>hen you eat and drink, </em><em>are</em><em>n’t you eat</em><em>ing</em><em> and drink</em><em>ing</em><em> for </em><em><u>yourselves</u></em><em>?</em><em> </em><strong><sup>7</sup></strong><em>Isn’t</em><em> that </em><em>the </em>same <em>message</em><em> </em><em>Yahveh</em><em> </em><em>deliver</em><em>ed by the </em><em>former</em><em> prophets </em><em>to the people </em><em>in Jerusalem</em><em> when</em><em> it and its </em><em>town</em><em>s were prosper</em><em>ing,</em><em> and people</em><em> were</em><em> liv</em><em>ing</em><em> in the Negev and western foothills?</em><em>’”</span>
+### A Call for Justice and Mercy, Not Fasting
+
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The people in Bethel had sent Sharezer, Regem-melech, and their men to ask for Yahveh’s blessing. </span></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They spoke to the priests in Yahveh’s Temple and to the prophets, </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>“Should we keep mourning and fasting in the fifth month like we’ve done all these years?”</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" align=center style='margin-bottom:0in; text-align:center'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A Message from Yahveh to Me</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Tell the priests and people in the land, ‘When you fasted and mourned in the fifth and seventh months those 70 years, were you </span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>really<i> fasting for <u>me</u>? </i></span></span>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And now when you eat and drink, aren’t you eating and drinking for <u>yourselves</u>?
+</span></i></span>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Isn’t that the </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>same
+<i>message Yahveh delivered by the former prophets to the people in Jerusalem when it and its towns were prospering, and people were living in the Negev and western foothills?’”</i><b>                                               </b></span></span></p>
+
 <p class="section-ref">Zech 7:1-7</p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> A Message from Yahveh to Zechariah</span>
+<p class="MsoListBulletCxSpMiddle" align=center style='margin-bottom:0in; text-align:center'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A Message from Yahveh to Zechariah</span></span></p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>“Yahveh</em><em> of </em><em>H</em><em>osts </em><em>says, ‘</em><em>Judge fairly, </em><em>practice kindness and </em><em>mercy with each other</em><em>.</em><em> </em><strong><sup>10</sup></strong><em>Don’t</em><em> oppress widows and orphans, </em><em>foreigners or </em><em>poor</em><em> people. D</em><em>on’t </em><em>plot</em><em> </em><em>against</em><em> one another.’</em><em> </em><strong><sup>11</sup></strong><em>But</em><em> </em>your ancestors<em> refused t</em><em>o pay attention, </em><em>turned a stubborn shoulder</em><em>,</em><em> </em><em>and covered </em><em>their ears.</em><em> </em><strong><sup>12</sup></strong><em>They</em><em> </em><em>hardened</em><em> their hearts like </em><em>flint</em><em> so they couldn’t</em><em> hear the L</em><em>aw and what </em><em>Yahveh</em><em> had sent by his Spirit through the former prophets.</em><em> That’s why he was so angry with them</em><em>.</em><em> </em><strong><sup>13</sup></strong><em>J</em><em>ust</em><em> as he called and they would</em><em>n’t listen, so they </em><em>called</em><em> and he</em><em> wouldn’t listen.</em><em> </em><strong><sup>14</sup></strong><em>With</em><em> a tornado he</em><em> scattered them </em><em>throughout</em><em> </em><em>foreign </em><em>nations.</em><em> The land they left lay</em><em> </em><em>so </em><em>desolate nobody </em><em>traveled through it. They’</em><em>d </em><em>turned</em><em> the</em><em>ir</em><em> pleasant land </em><em>into a wasteland</em><em>.”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in; line-height:normal'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“Yahveh of Hosts says, ‘Judge fairly, practice kindness and mercy with each other. </span></i></span>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Don’t oppress widows and orphans, foreigners or poor people. Don’t plot against one another.’
+</span></i><a name="_Hlk146748573"></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> </a><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>But </span></i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>your ancestors<i> refused to pay attention, turned a stubborn shoulder, and covered their ears. </i></span></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>They hardened their hearts like flint so they couldn’t hear the Law and what Yahveh had sent by his Spirit through the former prophets. That’s why he was so angry with them.
+</span></i></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Just as he called and they wouldn’t listen, so they called and he wouldn’t listen. </span></i></span>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>With a tornado he scattered them throughout foreign nations. The land they left lay so desolate nobody traveled through it. They’d turned their pleasant land into a wasteland.”</span></i><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>             </span></b></span></span></p>
+
 <p class="section-ref">Zech 7:8-14</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

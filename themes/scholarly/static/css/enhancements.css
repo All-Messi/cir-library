@@ -1315,6 +1315,19 @@ html body .hero .lead strong {
 .word-content div,
 .word-content span {
     margin-right: 0 !important;
+    text-align: left !important;
+}
+.content-body p.MsoNormal,
+.content-body p.MsoListBulletCxSpMiddle,
+.content-body p.MsoListBulletCxSpFirst,
+.content-body p.MsoListBulletCxSpLast,
+.chapter-content p.MsoNormal,
+.chapter-content p.MsoListBulletCxSpMiddle,
+.chapter-content p.MsoListBulletCxSpFirst,
+.chapter-content p.MsoListBulletCxSpLast {
+    text-align: left !important;
+    margin-right: 0 !important;
+    text-indent: 0 !important;
 }
 .word-content img {
     max-width: 100%;

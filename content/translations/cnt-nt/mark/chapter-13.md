@@ -1,51 +1,95 @@
 ---
 book: Mark
 chapter: 13
-next: chapter-14
-prev: chapter-12
 title: Mark 13
 translation: CNT
 type: chapter
 weight: 13
+prev: chapter-12
+next: chapter-14
 ---
 
 ## Mark Chapter 13
 
+
 ### The Olivet Discourse
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> As he was leaving the Temple, one disciple said<sup>p</sup>, <em>“Rabbi, look at </em><em>what</em><em> wonderful stones and </em><em>magnificent </em><em>buildings!”</em></span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> Jesus said, <em>“You see these </em><em>large</em><em> buildings?</em><em> </em><em>Not one stone will be left on top of another</em><em> here</em><em>.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><b><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>13</span></b><b><sup><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>:</span></sup></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>As he was leaving the Temple, one disciple said<sup>p</sup>, <i>“Rabbi, look at what wonderful stones and magnificent buildings!”</i></span></span></p>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> When he was sitting on the Mount of Olives across from the Temple, Peter, James, John, and Andrew asked him privately, <strong><sup>4</sup></strong><em>“Tell</em><em> us when that will</em><em> happen and what will </em><em>indicate that it’</em><em>s about to happen</em><em>.</em><em>”</em><em>	</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Jesus said, <i>“You see these large buildings? Not one stone will be left on top of another here.”</i></span></span></p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> Jesus told them, <em>“Make sure nobody deceives you.</em><em> </em><strong><sup>6</sup></strong><em>Many</em><em> </em><em>will come, saying, ‘I’m the Messiah,’ and </em><em>deceive lots of people.</em><em> </em><strong><sup>7</sup></strong><em>When</em><em> yo</em><em>u hear about wars and reports about</em><em> wars, don’t </em><em>panic</em><em>.</em><em> </em><em>They need to happen, but that’s not the end yet.</em><em> </em><strong><sup>8</sup></strong><em>Nation</em><em> will attack nation</em><em>; </em><em>king</em><em>dom will attack kingdom. There’</em><em>ll be earthquakes </em><em>and famines </em><em>in </em><em>many</em><em> places</em><em>. They’</em><em>re the beginning of labor pains.</span>
+<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>When he was sitting on the Mount of Olives across from the Temple, Peter, James, John, and Andrew asked him privately, </span></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“Tell us when that will happen and what will indicate that it’s about to happen.”  </span></i></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>Jesus told them, </span></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;line-height:normal'><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“Make sure nobody deceives you. </span></i><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt; font-family:"Times New Roman",serif'>Many will come, saying, ‘I’m the Messiah,’ and deceive lots of people. </span></i></span>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>When you hear about wars and reports about wars, don’t panic. They need to happen, but that’s not the end yet. </span></i></span>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt; font-family:"Times New Roman",serif'>Nation will attack nation; kingdom will attack kingdom. There’ll be earthquakes and famines in many places. They’re the beginning of labor pains.  </span></i></span></span></p>
+
 <p class="section-ref">Mk 13:1-8</p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>“</em><em>Watch</em><em> out</em><em>.</em><em> </em><em>They’ll </em><em>take you </em><em>to </em><em>court</em><em> and flog you</em><em> in the synagogues. Y</em><em>ou’ll stand </em><em>in front of</em><em> governors and kings </em><em>to speak </em>for me<em>.</em><em> </em><strong><sup>10</sup></strong><em>The</em><em> </em><em>good news</em><em> needs to </em><em>reach</em><em> all the </em><em>countries</em><em> first.</em><em> </em><strong><sup>11</sup></strong><em>When</em><em> they arrest you and </em><em>put you on trial</em><em>, don’t worry about what</em><em> you’re going to say. Say what comes</em><em> to </em><em>you at that time; </em><em>you</em><em> won’t be the ones speaking;</em><em> </em><em>it’ll be</em><em> the Holy Spirit.</em><em> </em><strong><sup>12</sup></strong><em>Brother</em><em> will betray brother to death, and father will betray child</em><em>. C</em><em>hildren will rise up against parents and have them put to death.</em><em> </em><strong><sup>13</sup></strong><em>People</em><em> will hate you because of </em><em>me. T</em><em>he one that en</em><em>dures to the end will be saved.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;line-height:normal'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“Watch out. They’ll take you to court and flog you in the synagogues. You’ll stand in front of governors and kings to speak </span></i><span style='font-size:12.0pt; font-family:"Times New Roman",serif'>for me<i>. </i></span></span>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>The good news needs to reach all the countries first. </span></i></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>When they arrest you and put you on trial, don’t worry about what you’re going to say. Say what comes to you at that time; you won’t be the ones speaking; it’ll be the Holy Spirit. </span></i></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Brother will betray brother to death, and father will betray child. Children will rise up against parents and have them put to death. </span></i></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>People will hate you because of me. The one that endures to the end will be saved.</span></i></span></p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> <em>“When</em><em> you see </em><em>‘</em><em>the abomination of desolation</em><em>’</em><em> </em><em>positioned </em><em>where it shouldn’t be </em>(reader, understand), <em>people in Judaea need to flee</em><em> to the hill country.</em><em> </em><strong><sup>15</sup></strong><em>The</em><em> one on the housetop must not go down to get what’</em><em>s in the</em><em> house.</em><em> </em><strong><sup>16</sup></strong><em>The</em><em> one in the field must not go home to get his cloak.</em><em> </em><strong><sup>17</sup></strong><em>Woe</em><em> to those who</em><em> are pregnant or nursing then.</em><em> </em><strong><sup>18</sup></strong><em>Pray</em><em> that it won’t happen in </em><em>the </em><em>winter</em><em>time</em><em>.</em><em> </em><strong><sup>19</sup></strong><em>Those</em><em> days will be the worst ever—</em><em>from</em><em> the beginning of God’s creation till now or ever will be.</em><em> </em><strong><sup>20</sup></strong><em>If</em><em> the L</em><em>ORD</em><em> hadn’t shortened </em><em>them</em><em>, nobody would </em><em>survive</em><em>.</em><em> </em><em>But, because of the </em><em>Chosen</em><em>, he has shortened </em><em>them</em><em>.</em><em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;line-height:normal'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“When you see ‘the abomination of desolation’ positioned where it shouldn’t be </span></i><span style='font-size:10.0pt;font-family:"Times New Roman",serif'>(</span><span style='font-family:"Times New Roman",serif'>reader, understand</span><span style='font-size:10.0pt;font-family:"Times New Roman",serif'>)</span><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>, <i>people in Judaea need to flee to the hill country. </i></span></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>The one on the housetop must not go down to get what’s in the house. </span></i></span>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>The one in the field must not go home to get his cloak. </span></i></span>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Woe to those who are pregnant or nursing then. </span></i></span>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Pray that it won’t happen in the wintertime. </span></i></span>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Those days will be the worst ever—from the beginning of God’s creation till now or ever will be. </span></i></span>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>If the L</span></i><i><span style='font-size:9.0pt;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'> hadn’t shortened them, nobody would survive. But, because of the Chosen, he has shortened them.         </span></i></span></span></p>
+
 <p class="section-ref">Mk 13:9-20</p>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> <em>“If</em><em> anybody says, ‘Here’</em><em>s the </em><em>Messiah</em><em>,’ or ‘There</em><em>’</em>s the Messiah<em>,’ don’t believe it.</em><em> </em><strong><sup>22</sup></strong><em>False</em><em> </em><em>Messiah</em><em>s and false prophets will arise and give signs and wonders to deceive, if possible, even the </em><em>Chosen</em><em>.</em><em> </em><strong><sup>23</sup></strong><em>But</em><em> you b</em><em>e </em><em>careful</em><em>.</em><em> </em><em>I’ve told you </em><em>all this</em><em> ahead of time.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;line-height:normal'><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“If anybody says, ‘Here’s the Messiah,’ or ‘There’</span></i><span style='font-size:12.0pt; font-family:"Times New Roman",serif'>s the Messiah<i>,’ don’t believe it. </i></span></span>
+<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>False Messiahs and false prophets will arise and give signs and wonders to deceive, if possible, even the Chosen. </span></i></span>
+<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt; font-family:"Times New Roman",serif'>But you be careful. I’ve told you all this ahead of time.</span></i></span></p>
 
-<span class="verse" id="v24"><sup class="verse-num">24</sup> <em>“After</em><em> that </em><em>distress</em><em>, </em> <em>the sun will go out</em><em>, and </em> <em>   </em><em>	</em><em> </em><em>	</em><em>the moon </em><em>won’t shine. </em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;line-height:normal'><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“After that distress,
+</span></i></span></p>
 
-<span class="verse" id="v25"><sup class="verse-num">25</sup> <em>Stars</em><em> will fall </em><em>from</em><em> the sky, and </em> <em>   </em><em> </em><em>	</em><em>	</em><em>the powers in the sky will be shaken.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:1.0in;line-height:normal'><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>the sun will go out, and </span></i></p>
 
-<span class="verse" id="v26"><sup class="verse-num">26</sup> <em>Then</em><em> people will see </em><strong><em>the </em></strong><strong><em>Son of Man</em></strong><strong><em> coming on the clouds</em></strong><em> </em><strong>[Dan</strong><strong> 7:13-14]</strong> <em>with great power and glory.</em><em> </em><strong><sup>27</sup></strong><em>He’ll</em><em> send out his angels to gather the </em><em>Chosen</em><em> from </em><em>every direction,</em><em> from the</em><em> end of earth to the end of </em><em>sky.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;line-height:normal'><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                        the moon won’t shine. </span></i></p>
 
-<span class="verse" id="v28"><sup class="verse-num">28</sup> <em>“</em><em>Take</em><em> a lesson from </em><em>a</em><em> fig tree.</em><em> </em><em>When its branches </em><em>get</em><em> tender and sprout leaves, you know summer’s </em><em>coming</em><em>.</em><em> </em><strong><sup>29</sup></strong><em>The</em><em> same way, </em><em>when you see these things happening, you know he’s at the door.</em><em> </em><strong><sup>30</sup></strong><em>The</em><em>y’</em><em>ll</em><em> take place in </em><em><u>this</u></em><em> generation.</em><em> </em><strong><sup>31</sup></strong><em>Earth</em><em> and sky will pass away, but what I say</em><em> won’</em><em>t</em><em> pass away.</span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;line-height:normal'><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Stars will fall from the sky, and </span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;line-height:normal'><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                        the powers in the sky will be shaken.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;line-height:normal'><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Then people will see </span></i><b><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>the Son of Man coming on the clouds</span></i></b><i><span style='font-size:12.0pt; font-family:"Times New Roman",serif'> </span></i><b><span style='font-size: 9.0pt;font-family:"Times New Roman",serif'>[Dan 7:13-14]</span></b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'> <i>with great power and glory. </i></span></span>
+<span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt; font-family:"Times New Roman",serif'>He’ll send out his angels to gather the Chosen from every direction, from the end of earth to the end of sky.</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;line-height:normal'><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“Take a lesson from a fig tree. When its branches get tender and sprout leaves, you know summer’s coming. </span></i></span>
+<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <i><span style='font-size:12.0pt; font-family:"Times New Roman",serif'>The same way, when you see these things happening, you know he’s at the door. </span></i></span>
+<span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>They’ll take place in <u>this</u> generation. </span></i></span>
+<span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Earth and sky will pass away, but what I say won’t pass away.</span></i></span></span></p>
+
 <p class="section-ref">Mk 13:21-31</p>
 
-<span class="verse" id="v32"><sup class="verse-num">32</sup> <em>“Nobody</em><em> knows about </em><em><u>that</u></em><em> day or hour—</em><em>no</em><em>t the angels in heaven, not</em><em> the </em><em>Son of Man</em><em>, only the Father.</em><em> </em><strong><sup>33</sup></strong><em>Be</em><em> </em><em>careful</em><em>, stay alert; you don’t know </em><em>when it will </em><em>happen</em><em><sup>p</sup></em><em>.</em><em> </em><strong><sup>34</sup></strong><em>A</em><em> man </em><em>leaving on a trip</em><em> gives</em><em> each servant the authority to do his </em><em>job and tells the doorkeeper to stay</em><em> alert.</em><em> </em><strong><sup>35</sup></strong><em>Watch</em><em>;</em><em> you don’t know when the </em><em>master</em><em> of the house</em><em>hold</em><em> will come</em><em> back</em><em>—in the evening, at midnight, at roos</em><em>ter </em><em>crowing, or in the morning—</em><strong><sup>36</sup></strong><em>so</em><em> if he comes </em><em>unexpected</em><em>ly, he won’t catch you sleeping.</em><em> </em><strong><sup>37</sup></strong><em>What</em><em> I</em><em>’m</em><em> say</em><em>ing</em><em> I</em><em>’m</em><em> say</em><em>ing</em><em> t</em><em>o all of you. W</em><em>atch!”</em><strong></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;line-height:normal'><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“Nobody knows about <u>that</u> day or hour—not the angels in heaven, not the Son of Man, only the Father. </span></i></span>
+<span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <i><span style='font-size:12.0pt; font-family:"Times New Roman",serif'>Be careful, stay alert; you don’t know when it will happen<sup>p</sup>. </span></i></span>
+<span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>A man leaving on a trip gives each servant the authority to do his job and tells the doorkeeper to stay alert. </span></i></span>
+<span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Watch; you don’t know when the master of the household will come back—in the evening, at midnight, at rooster crowing, or in the morning—</span></i></span>
+<span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>so if he comes unexpectedly, he won’t catch you sleeping. </span></i></span>
+<span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>What I’m saying I’m saying to all of you. Watch!”</span></i></span></span></p>
+
 <p class="section-ref">Mk 13:32-37</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

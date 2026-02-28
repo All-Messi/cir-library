@@ -1,92 +1,175 @@
 ---
 book: Proverbs
 chapter: 1
-next: chapter-02
 title: Proverbs 1
 translation: CYV
 type: chapter
 weight: 1
+next: chapter-02
 ---
 
 ## Proverbs Chapter 1
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Proverbs of Solomon Ben-David, King of Israel</span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> for knowing wisdom and instruction, for understanding words that give insight,</span>
+### Conversational Yahveh Covenant
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> for receiving instruction in smart living, goodness, justice, and equity;</span>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> for giving prudence to the simple, and knowledge and discretion to the young;</span>
+<p class="MsoListBulletCxSpMiddle" align=center style='margin-top:0in;margin-bottom:0in;margin-left:.5in;text-align:center'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Proverbs of Solomon Ben-David, King of Israel</span></span></p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> for increasing learning in the wise and gaining skill at understanding;</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                             2</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>for knowing wisdom and instruction,</span></p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> for understanding proverbs and wise sayings, riddles and profound speech.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                 for understanding words that give insight,</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                             3</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>for receiving instruction in smart living,</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                 goodness, justice, and equity;</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                             4</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>for giving prudence to the simple, </span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                  and knowledge and discretion to the young;</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                             5</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>for increasing learning in the wise</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                  and gaining skill at understanding;</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                             6</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>for understanding proverbs and wise sayings,</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                  riddles and profound speech.            </span></p>
+
 <p class="section-ref">Prov 1:1-6</p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> Respect for Yahveh is the first thing about being wise; foolish people despise wisdom and instruction.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Respect for Yahveh is the first thing about being wise;</span></span></p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> Listen, son, to your father’s instruction; don’t leave your mother’s teaching;</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      foolish people despise wisdom and instruction.</span></p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> they’ll be a crown for your head and a garland for your neck.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Listen, son, to your father’s instruction;</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            don’t leave your mother’s teaching;</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>they’ll be a crown for your head </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and a garland for your neck.                                       </span></p>
+
 <p class="section-ref">Prov 1:7-9</p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> Son, if sinners tempt you, don’t give in to them.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Son, if sinners tempt you, don’t give in to them.</span></span></p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> If they say, <em>“Come </em><em>on,</em><em> </em> <em>	</em><em>	</em><em>	</em><em>let’s lie in wait to shed blood</em> <em>	</em><em>	</em><em>	and ambush </em><em>innocent </em><em>people </em><em>for </em><em>fun</em><em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         11</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If they say, <i>“Come on, </i></span></p>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> <em>Let’s</em><em> swallow them alive and whole like Sheol,</em> <em>	</em><em>	</em><em>	like peopl</em><em>e </em><em>that</em><em> go down to the Pit.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  let’s lie in wait to shed blood</span></i></p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> <em>We’ll</em><em> </em><em>get </em><em>precious wealth</em> <em>	</em><em>	</em><em>	</em><em>and fill our houses with </em><em>plunder</em><em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and ambush innocent people for fun.</span></i></p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> <em>Throw</em><em> in your lot with us,</em> <em>	</em><em>	</em><em>	</em><em>and we’</em><em>ll share the take</em><em>”</em><em>—</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  12</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Let’s swallow them alive and whole like Sheol,</span></i></p>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> don’t go with them; stay off that road.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  like people that go down to the Pit.</span></i></p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> They hurry to do harm; they rush to shed blood.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  13</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We’ll get precious wealth</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and fill our houses with plunder.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  14</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Throw in your lot with us,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and we’ll share the take”—</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></sup></b><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>don’t go with them;</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            stay off that road.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         16</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They hurry to do harm;</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            they rush to shed blood.                                              </span></p>
+
 <p class="section-ref">Prov 1:10-16</p>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> There’s no point in spreading a net while the bird’s watching.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>There’s no point in spreading a net</span></span></p>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> <em>Sinners</em> lie in wait for their own blood; they ambush their own lives.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            while the bird’s watching.</span></p>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> That’s how it is with people that profit from violence; it steals their own lives.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Sinners</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> lie in wait for their own blood;</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            they ambush their own lives.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         19</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That’s how it is with people that profit from violence;</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            it steals their own lives.                                              </span></p>
+
 <p class="section-ref">Prov 1:17-19</p>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> Wisdom shouts in the street; it raises its voice in the marketplace.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Wisdom shouts in the street;</span></span></p>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> It cries out from the top of the wall, and says at the city gate:</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            it raises its voice in the marketplace.</span></p>
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> <em>“How</em><em> long</em><em>, simpletons, will you lik</em><em>e being </em><em>simpletons</em><em>,</em> <em>	</em><em>	</em><em>and you scoffers delight in scoffing,</em> <em>	</em><em>	and you foolish people</em><em> hate knowledge?</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It cries out from the top of the wall,</span></span></p>
 
-<span class="verse" id="v23"><sup class="verse-num">23</sup> <em>Pay</em><em> attention when I correct you</em><em>;</em> <em>	</em><em>	I’ll pour out</em><em> my spirit on you</em> <em>	</em><em>	</em><em>and </em><em>tell you what you need to know</em><em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and says at the city gate:</span></p>
 
-<span class="verse" id="v24"><sup class="verse-num">24</sup> <em>I</em><em> called and you </em><em>wouldn’t listen</em><em>;</em> <em>	</em><em>	</em><em>I held o</em><em>ut my hand, and you paid no </em><em>attention.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         22</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“How long, simpletons, will you like being simpletons,</span></i></p>
 
-<span class="verse" id="v25"><sup class="verse-num">25</sup> <em>You</em><em> ignored my advice;</em> <em>	</em><em>	you</em><em> didn’t want </em><em>me to correct you</em><em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and you scoffers delight in scoffing,</span></i></p>
 
-<span class="verse" id="v26"><sup class="verse-num">26</sup> <em>So</em><em> I</em><em>’ll laugh at your </em><em>misfortune</em> <em>	</em><em>	</em><em>and mock </em>you <em>when panic strikes,</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and you foolish people hate knowledge?</span></i></p>
 
-<span class="verse" id="v27"><sup class="verse-num">27</sup> <em>when</em><em> what you dread comes like a tornado,</em> <em>	</em><em>	</em><em>when distress </em><em>come crashing down</em><em> on you.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         23</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Pay attention when I correct you;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            I’ll pour out my spirit on you</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and tell you what you need to know.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         24</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I called and you wouldn’t listen;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            I held out my hand, and you paid no attention.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         25</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You ignored my advice;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            you didn’t want me to correct you.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         26</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So I’ll laugh at your misfortune</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and mock </span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>you <i>when panic strikes,</i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>when what you dread comes like a tornado,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            when distress come crashing down on you.               </span></i></span></p>
+
 <p class="section-ref">Prov 1:20-27</p>
 
-<span class="verse" id="v28"><sup class="verse-num">28</sup> <em>Then</em><em> you</em><em>’ll call out to me, and I won’t answer;</em> <em>	</em><em>	you</em><em>’ll </em><em>look</em><em> for me, but </em><em>not find me</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         28</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then you’ll call out to me, and I won’t answer;</span></i></p>
 
-<span class="verse" id="v29"><sup class="verse-num">29</sup> <em>because</em><em> you</em><em> </em><em>disregarded</em><em> knowledge</em> <em>	</em><em>	and ch</em><em>ose </em><em>not to respect Yahveh</em><em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            you’ll look for me, but not find me</span></i></p>
 
-<span class="verse" id="v30"><sup class="verse-num">30</sup> <em>You</em><em> wouldn’t accept my advice;</em> <em>	</em><em>	</em><em>	you despised being corrected;</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>because you disregarded knowledge</span></i></span></p>
 
-<span class="verse" id="v31"><sup class="verse-num">31</sup> <em>so</em><em> you’ll eat the fruit of how you lived</em> <em>	</em><em>	</em><em>	founder on you</em><em>r own </em><em>schem</em><em>es.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and chose not to respect Yahveh.</span></i></p>
 
-<span class="verse" id="v32"><sup class="verse-num">32</sup> <em>The</em><em> waywardness of simpleminded</em><em> </em><em>people gets</em><em> them</em><em> killed</em><em>;</em> <em>	</em><em>	the complacency of fools </em><em>destroy</em><em>s</em><em> them.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         30</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You wouldn’t accept my advice;</span></i></p>
 
-<span class="verse" id="v33"><sup class="verse-num">33</sup> <em>But</em><em> the one</em><em>s</em><em> that listen to me</em><em>,</em><em> </em><em>live securely;</em> <em>	</em><em>	they’re at ease without</em><em> dreading </em><em>misfortune</em><em>.”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  you despised being corrected;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  31</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>so you’ll eat the fruit of how you lived</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  founder on your own schemes.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         32</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The waywardness of simpleminded people gets them killed;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            the complacency of fools destroys them.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         33</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But the ones that listen to me, live securely;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            they’re at ease without dreading misfortune.”           </span></i></span></p>
+
 <p class="section-ref">Prov 1:28-33</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

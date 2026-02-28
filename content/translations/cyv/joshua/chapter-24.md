@@ -1,51 +1,91 @@
 ---
 book: Joshua
 chapter: 24
-prev: chapter-23
 title: Joshua 24
 translation: CYV
 type: chapter
 weight: 24
+prev: chapter-23
 ---
 
 ## Joshua Chapter 24
 
+
 ### Covenant Renewed at Shechem
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Then Joshua gathered the tribes to Shechem with their elders, heads, judges, and officers. They presented themselves to God. <strong><sup>2</sup></strong>Joshua said, <em>“Yahveh</em> <em>God of Israel, says, ‘Your ancestors lived beyond the</em><em> Euphrates </em>River<em>. Nahor and Terah,</em><em> </em><em>Abraham’s </em><em>father</em><em>,</em><em> served other gods.</em><em> </em><strong><sup>3</sup></strong><em>I</em><em> led Abraham from there all over Canaan and multiplied his offspring. I gave him Isaac, </em><strong><sup>4</sup></strong><em>and</em><em> gave Isaac Jacob and Esau. I gave Esau the hill country of Seir, but Jacob and his descendants went down to Egypt. </em><strong><sup>5</sup></strong><em>I</em><em> sent Moses and Aaron, and plagued Egypt in its own land. </em><strong><sup>6</sup></strong><em>Afterwards</em><em> I brought you out of there. You came to the Red Sea, and the Egyptians chased you with chariots and cavalry to the sea. </em><strong><sup>7</sup></strong><em>When</em><em> you cried out to me, I put darkness between you and them, and made the sea cover them. You saw that and lived a long time in the desert. </em><strong><sup>8</sup></strong><em>Then</em><em> I brought you to Amorite country east of the Jordan. They fought you, and I destroyed them in front of you. You took their land. </em><strong><sup>9</sup></strong><em>Then</em><em> Balak Ben-Zippor, king of Moab, rose up to oppose you. He sent for Balaam Ben-Beor and invited him to curse you. </em><strong><sup>10</sup></strong><em>But</em><em> I wouldn’t listen to Balaam. </em><em>So</em><em> he blessed you, and I delivered you from him. </em><strong><sup>11</sup></strong><em>You</em><em> crossed the Jordan to Jericho, and the people in Jericho fought you as did the Amorites, Perizzites, Canaanites, Hittites, Girgashites, Hivites, and Jebusites. I gave them to you. </em><strong><sup>12</sup></strong><em>I</em><em> sent hornets to drive out the two Amorite kings. Your sword and bow didn’t do it. </em><strong><sup>13</sup></strong><em>I</em><em> gave you </em><em>a land</em><em> you hadn’t worked and towns you didn’t </em><em>build, and you lived in them. You’re eating the fruit from vineyards and olive orchards you didn’t plant.’</em><strong></span>
-<p class="section-ref">Josh 24:1-13</p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> <em>“Now</em><em> then, respect Yahveh</em>,<em> serve him sincerely and faithfully. Put away the gods your ancestors served beyond the River and in Egypt. </em><strong><sup>15</sup></strong><em>If</em><em> you won’t serve him, choose today who you </em><em><u>will</u></em><em> serve: the gods of your ancestors beyond the River or the gods of the Amorites where you’re living. </em><em><u>My house and I</u></em><em> will serve Yahveh.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Then Joshua gathered the tribes to Shechem with their elders, heads, judges, and officers. They presented themselves to God. </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Joshua said, </span></span></p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> The people answered, <em>“</em><em>We’ll never</em><em> </em><em>leave</em><em> </em><em>Yahveh</em> <em>and serve other gods.</em><em> </em><strong><sup>17</sup></strong><em>He’s</em><em> the one</em><em> that brought us and our ancestors out of </em><em>slavery in Egypt.</em><em> </em><em>He </em><em>did those great signs </em><em>for us</em><em> and preserved us all the </em><em>way </em><em>among the </em><em>nations</em><em> we passed through</em><em>. </em><strong><sup>18</sup></strong><em>He</em><em> drove the Amorites out of the land, so we’ll serve Yahveh. </em><em>He’s</em><em> our God.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Yahveh</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> <i>God of Israel, says, ‘Your ancestors lived beyond the Euphrates </i>River<i>. Nahor and Terah, Abraham’s father, served other gods. </i></span><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I led Abraham from there all over Canaan and multiplied his offspring. I gave him Isaac, </span></i></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and gave Isaac Jacob and Esau. I gave Esau the hill country of Seir, but Jacob and his descendants went down to Egypt. </span></i></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I sent Moses and Aaron, and plagued Egypt in its own land. </span></i></span>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Afterwards I brought you out of there. You came to the Red Sea, and the Egyptians chased you with chariots and cavalry to the sea. </span></i></span>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When you cried out to me, I put darkness between you and them, and made the sea cover them. You saw that and lived a long time in the desert. </span></i></span>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then I brought you to Amorite country east of the Jordan. They fought you, and I destroyed them in front of you. You took their land. </span></i></span>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Balak Ben-Zippor, king of Moab, rose up to oppose you. He sent for Balaam Ben-Beor and invited him to curse you. </span></i></span>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But I wouldn’t listen to Balaam. So he blessed you, and I delivered you from him. </span></i></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You crossed the Jordan to Jericho, and the people in Jericho fought you as did the Amorites, Perizzites, Canaanites, Hittites, Girgashites, Hivites, and Jebusites. I gave them to you. </span></i></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I sent hornets to drive out the two Amorite kings. Your sword and bow didn’t do it. </span></i></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I gave you a land you hadn’t worked and towns you didn’t build, and you lived in them. You’re eating the fruit from vineyards and olive orchards you didn’t plant.’</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family: "Times New Roman",serif'>                                                                                                                                                                           Josh 24:1-13</span></b><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>
+</span></i></span></p>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> But Joshua told the people, <em>“You can’t serve Yahveh, a holy, exclusive</em><em> God</em><em> that</em><em> won’t forgive your sins.</em><em> </em><strong><sup>20</sup></strong><em>If</em><em> you serve foreign gods, he’ll consume you, after doing you good.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Now then, respect Yahveh</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>,<i> serve him sincerely and faithfully. Put away the gods your ancestors served beyond the River and in Egypt. </i></span></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you won’t serve him, choose today who you <u>will</u> serve: the gods of your ancestors beyond the River or the gods of the Amorites where you’re living. <u>My house and I</u> will serve Yahveh.”</span></i></span></p>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> <em>“No! W</em><em>e’ll serve </em><em>Yahveh</em><em>.”</em><em> </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  16</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The people answered, </span></p>
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> <em>“You’</em><em>re</em><em> witnesses </em><em>to</em><em> yourselves that you’ve chosen to serve </em><em>Yahveh</em><em>.”</em><em> </em> <em> “</em><em>We’</em><em>re witnesses.”</em><em> </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“We’ll never leave Yahveh</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> <i>and serve other gods. </i></span><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He’s the one that brought us and our ancestors out of slavery in Egypt. He did those great signs for us and preserved us all the way among the nations we passed through. </span></i></span>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He drove the Amorites out of the land, so we’ll serve Yahveh. He’s our God.”</span></i></span></p>
 
-<span class="verse" id="v23"><sup class="verse-num">23</sup> <em>“Then</em><em> put away </em><em>your</em><em> foreign gods</em><em>. I</em><em>ncl</em><em>ine your heart to Yahveh</em> <em>God of Israel.”</em><em> </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But Joshua told the people, </span></span></p>
 
-<span class="verse" id="v24"><sup class="verse-num">24</sup> <em>“We’ll</em><em> serve Yahveh</em> <em>our God and</em><em> obey him.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“You can’t serve Yahveh, a holy, exclusive God that won’t forgive your sins. </span></i><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you serve foreign gods, he’ll consume you, after doing you good.”</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“No! We’ll serve Yahveh.” </span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“You’re witnesses to yourselves that you’ve chosen to serve Yahveh.” </span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> “We’re witnesses.” </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Then put away your foreign gods. Incline your heart to Yahveh</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> <i>God of Israel.” </i></span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“We’ll serve Yahveh</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> <i>our God and obey him.”</i>                                    </span></span></p>
+
 <p class="section-ref">Josh 24:14-24</p>
 
-<span class="verse" id="v25"><sup class="verse-num">25</sup> Joshua made a covenant with them that day at Shechem, with a statute and an ordinance <strong><sup>26</sup></strong>that he wrote in the Law of God. He set up a large stone there under the oak in Yahveh’s sanctuary. <strong><sup>27</sup></strong>He told the people, <em>“This stone will </em><em>testify</em><em> against us</em><em>. I</em><em>t has heard </em><em>everything</em><em> </em><em>Yahveh</em> <em>told us. It’</em><em>ll </em><em>testify</em><em> against </em><em>you</em><em> so you won’t deal falsely with </em><em>him</em><em>.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Joshua made a covenant with them that day at Shechem, with a statute and an ordinance </span></span>
+<span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>that he wrote in the Law of God. He set up a large stone there under the oak in Yahveh’s sanctuary. </span></span>
+<span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told the people, </span></span></p>
 
-<span class="verse" id="v28"><sup class="verse-num">28</sup> Joshua sent everybody home to their inheritance. 	<strong>Leaders Buried in the Promised Land</strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“This stone will testify against us. It has heard everything Yahveh</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> <i>told us. It’ll testify against you so you won’t deal falsely with him.”</i> </span></p>
 
-<span class="verse" id="v29"><sup class="verse-num">29</sup> After that, Joshua died at 110. <strong><sup>30</sup></strong>They buried him in his inheritance at Timnath-serah in the hill country of Ephraim north of Mount Gaash. <strong><sup>31</sup></strong>Israel served Yahveh all his life and the lives of the elders that outlived him and knew what Yahveh had done for Israel.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Joshua sent everybody home to their inheritance.</span></span></p>
 
-<span class="verse" id="v32"><sup class="verse-num">32</sup> The Israelites had brought up Joseph’s bones from Egypt and buried them at Shechem in the piece of ground Jacob bought from the descendants of Hamor, Shechem’s father, for 100 pieces of money. It became an inheritance for Joseph’s descendants.</span>
 
-<span class="verse" id="v33"><sup class="verse-num">33</sup> Eleazar, Aaron’s son, died, and they buried him at Gibeah, the town of Phinehas his son, which had been given to him in the hill country of Ephraim.</span>
+### Leaders Buried in the Promised Land
+
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After that, Joshua died at 110. </span></span>
+<span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They buried him in his inheritance at Timnath-serah in the hill country of Ephraim north of Mount Gaash. </span></span>
+<span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel served Yahveh all his life and the lives of the elders that outlived him and knew what Yahveh had done for Israel. </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Israelites had brought up Joseph’s bones from Egypt and buried them at Shechem in the piece of ground Jacob bought from the descendants of Hamor, Shechem’s father, for 100 pieces of money. It became an inheritance for Joseph’s descendants. </span></span></p>
+
+<p class="MsoListBulletCxSpLast" style='margin-bottom:0in; '><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Eleazar, Aaron’s son, died, and they buried him at Gibeah, the town of Phinehas his son, which had been given to him in the hill country of Ephraim.                                                                                                                     </span></span></p>
+
 <p class="section-ref">Josh 24:25-33</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

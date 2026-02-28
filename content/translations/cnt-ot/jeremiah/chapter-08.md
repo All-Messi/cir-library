@@ -1,72 +1,180 @@
 ---
 book: Jeremiah
 chapter: 8
-next: chapter-09
-prev: chapter-07
 title: Jeremiah 8
 translation: CNT
 type: chapter
 weight: 8
+prev: chapter-07
+next: chapter-09
 ---
 
 ## Jeremiah Chapter 8
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> The LORD says, <em>“At that time, they’ll bring out of their graves the bones of Judah’s kings, its officials, priests, prophets, and the people of Jerusalem. </em><strong><sup>2</sup></strong><em>They’ll</em><em> spread them out to the sun, moon, and stars, which they’ve loved, served, and worshiped. They won’t be gathered up or buried. They’ll be like manure on the ground. </em><strong><sup>3</sup></strong><em>The</em><em> remnant of this evil family will chose death rather than life.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123571011"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says, </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“At that time, they’ll bring out of their graves the bones of Judah’s kings, its officials, priests, prophets, and the people of Jerusalem. </span></i><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’ll spread them out to the sun, moon, and stars, which they’ve loved, served, and worshiped. They won’t be gathered up or buried. They’ll be like manure on the ground. </span></i></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The remnant of this evil family will chose death rather than life.     </span></i></span></span></p>
+
 <p class="section-ref">Jer 8:1-3</p>
+
 
 ### False Prophets
 
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> <em>“Tell</em><em> them,</em><em> ‘The</em><em> </em><em>L</em><em>ORD</em><em> says,</em> <em>“When people </em><em>fall down</em><em>, </em> <em>	</em><em>	</em><em>don’t they get</em><em> back</em><em> up?</em> <em>	When they get off course, </em> <em>	</em><em>	don’t they get back on it?”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Tell them, ‘The L</span></i><i><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says,</span></i></span></p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>Why</em><em> then do my people, Jerusalem, </em> <em>	</em><em>	turn away and keep backsliding?</em> <em>	They hang onto deceit and refuse to return.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      <i>“When people fall down, </i></span></p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>I’ve</em><em> been listening to what they’re saying,</em> <em>	</em><em>	and it’s not right.</em> <em>	</em><em>Nobody’s</em><em> repented or said,</em> <em>	</em><em>	 ‘What have I done?!’</em> <em>	Everybody keeps up their old habits</em> <em>	</em><em>	like a horse charging into battle.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            don’t they get back up?</span></i></p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>Even</em><em> a stork in the sky knows when to </em><em>migrate;</em> <strong><sup>	</sup></strong><strong><sup>	</sup></strong><em>so does a</em><em> turtledove,</em><strong><sup> </sup></strong><em>swift, or thrush.</em> <em>	But my people don’t know my patterns of living.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      When they get off course, </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            don’t they get back on it?”</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Why then do my people, Jerusalem, </span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            turn away and keep backsliding?</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      They hang onto deceit and refuse to return.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123571247"><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ve been listening to what they’re saying,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and it’s not right.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Nobody’s repented or said,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>             ‘What have I done?!’</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Everybody keeps up their old habits</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            like a horse charging into battle.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Even a stork in the sky knows when to migrate;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>so does a turtledove,</span></i><b><sup><span style='font-size:14.0pt;line-height: 115%;font-family:"Times New Roman",serif'> </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>swift, or thrush.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      But my people don’t know my patterns of living.</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>             </span></b></span></p>
+
 <p class="section-ref">Jer 8:4-7</p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>“How</em><em> can you say, ‘We’re </em><em>wise;</em> <em>	</em><em>	we have the </em><em>L</em><em>ORD</em><em>’s</em><em> Law’?</em> <em>	The scribes’ lying pen </em> <em>	</em><em>	makes a lie out of it.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“How can you say, ‘We’re wise;</span></i></span></p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>The</em><em> wise are put to </em><em>shame;</em> <em>	they’re intimidated and trapped.</em> <em>They’ve rejected the </em><em>L</em><em>ORD</em><em>’s</em><em> </em><em>word;</em> <em>	</em><em>so</em><em> what kind of wisdom do they have?</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            we have the L</span></i><i><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s Law’?</span></i></p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> <strong><em>So</em></strong><strong><em> I’ll give their wives to other </em></strong><strong><em>people</em></strong> 	<strong><em>	and their fields to </em></strong><strong><em>conquerors;</em></strong> 	<strong><em>	because </em></strong><strong><em>every one</em></strong><strong><em> is</em></strong><strong><em> greedy </em></strong> 	<strong><em>	</em></strong><strong><em>	</em></strong><strong><em>from least to </em></strong><strong><em>greatest;</em></strong> 	<strong><em>	</em></strong><strong><em>every one</em></strong><strong><em> cheats</em></strong> 	<strong><em>	</em></strong><strong><em>	</em></strong><strong><em> from prophet to priest.</em></strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      The scribes’ lying pen </span></i></p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> <strong><em>They</em></strong><strong><em> try to </em></strong><strong><em>bandage</em></strong><strong><em> </em></strong><strong><em>over</em></strong><strong><em> my people’s </em></strong><strong><em>wounds</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	by saying, ‘Everything’s all right,’ when it’s not.</em></strong><strong><em>	</em></strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            makes a lie out of it.</span></i></p>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> <strong><em>“</em></strong><strong><em>A</em></strong><strong><em>re</em></strong><strong><em> they ever ashamed of the</em></strong><strong><em>ir</em></strong><strong><em> </em></strong><strong><em>disgusting acts?</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong> <strong><sup>	</sup></strong><strong><em>Not at all! They ca</em></strong><strong><em>n’t even blush</em></strong><strong><em>;</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>s</em></strong><strong><em>o</em></strong><strong><em> they’ll fall </em></strong><strong><em>among</em></strong><strong><em> the fallen </em></strong> 	<strong><sup>	</sup></strong><strong><sup>	</sup></strong><strong><em>when I punish them,”</em></strong><strong> the </strong><strong>L</strong><strong>ORD</strong><strong> says.</strong><strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The wise are put to shame;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      they’re intimidated and trapped.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’ve rejected the L</span></i><i><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s word;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      so what kind of wisdom do they have?</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So I’ll give their wives to other people</span></i></b></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and their fields to conquerors;</span></i></b></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      because every one is greedy </span></i></b></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            from least to greatest;</span></i></b></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      every one cheats</span></i></b></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>             from prophet to priest.</span></i></b></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123571367"><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> </a><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They try to bandage over my people’s wounds                                                                  by saying, ‘Everything’s all right,’ when it’s not.      </span></i></b></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Are they ever ashamed of their disgusting acts?                                                 </span></i></b></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></sup></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Not at all! They can’t even blush;                                                                                                          so they’ll fall among the fallen </span></i></b></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in; line-height:normal'><b><sup><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>                  </span></sup></b><b><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>when I punish them,”</span></i></b><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'> the L</span></b><b><span style='font-size:9.0pt;font-family:"Times New Roman",serif'>ORD</span></b><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'> says.</span></b></span></p>
+
 <p class="section-ref">Jer 8:8-12</p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> <em>“When</em><em> I snatch them away,</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	there won’t be any grapes left on the vine</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	or figs on the tree,</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	and their leaves will wither;</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	what I’ve given them will be gone.”</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><strong><sup>14</sup></strong>Why are we sitting here?									Let’s get to fortified cities to die; the LORD our God has doomed us by giving us <strong>poisoned water</strong><strong> to drink.</strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in; line-height:normal'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“When I snatch them away,                                                                                                             there won’t be any grapes left on the vine                                                                        or figs on the tree,                                                                                                                               and their leaves will wither;                                                                                                   what I’ve given them will be gone.”                                             </span></i></span>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Why are we sitting here?                                                                                                           Let’s get to fortified cities to die;</span></span></p>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> We looked for peace, but it didn’t come; we waited for healing, but terror came.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> our God has doomed us</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        by giving us <b>poisoned water to drink.</b></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123571672"><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We looked for peace, but it didn’t come;</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      we waited for healing, but terror came.<b>                            </b></span></p>
+
 <p class="section-ref">Jer 8:13-15</p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> From Dan we can hear the horses snorting; at the sound of his stallions’ neighing the whole land quakes; they’re coming to devastate the land and everything in it, the city and its people.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>From Dan we can hear the horses snorting;</span></span></p>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> <em>“I’m</em><em> sending ‘snakes’ </em>[troops]<em> among you, </em> <em>	</em><em>adders you</em><em> can’t charm,</em> <em>	and they’ll bite you,”</em><em>	</em><em>	</em>the LORD says.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      at the sound of his stallions’ neighing</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            the whole land quakes;</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      they’re coming to devastate the land </span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and everything in it,</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            the city and its people.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’m sending ‘snakes’ </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>[troops]<i> among you, </i></span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      adders you can’t charm,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and they’ll bite you,”                    </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says.             </span></p>
+
 <p class="section-ref">Jer 8:16-17</p>
+
 
 ### Jeremiah Mourns over Sinful Judah
 
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> My sorrow can’t be healed; my heart is sick!</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         <sup>18</sup></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>My sorrow can’t be healed;</span></p>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> Listen! It’s my people’s outcry from a distant land: <em>	</em><em>	“Isn’t the </em><em>L</em><em>ORD</em><em> in Zion?</em> <em>	</em><em>	Isn’t its king there?”</em> <em>	</em><em>	“Why have they made me angry </em> <em>	</em><em>	with their carved images and foreign idols?”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  my heart is sick!</span></p>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> <em>“Harvest</em><em> is past, summer’s </em><em>over;</em> <em>	</em><em>	and we’re not saved.”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Listen! It’s my people’s outcry from a distant land:</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  “Isn’t the L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> in Zion?</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  Isn’t its king there?”</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        “Why have they made me angry </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  with their carved images and foreign idols?”</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Harvest is past, summer’s over;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and we’re not saved.”</span></i><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>                                                      </span></b></span></p>
+
 <p class="section-ref">Jer 8:18-20</p>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> I’m hurting for my people’s hurt; I mourn, panic has seized me.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’m hurting for my people’s hurt;</span></span></p>
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> Isn’t there any salve in Gilead? Isn’t there any doctor there? Why hasn’t my people’s health been restored?</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  I mourn, panic has seized me.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Isn’t there any salve in Gilead?</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  Isn’t there any doctor there?         </span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  Why hasn’t my people’s health been restored?<b>                </b></span></p>
+
 <p class="section-ref">Jer 8:21-22</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

@@ -1,21 +1,31 @@
 {{ define "main" }}
 <div class="harmony-home">
-    <header class="page-header">
+    <nav class="breadcrumb">
+        <a href="{{ "translations/" | absURL }}">← All Translations</a>
+    </nav>
+
+    <header class="translation-header">
         <h1>{{ .Title }}</h1>
-        <p class="translator-credit">Compiled by {{ .Params.translator }}</p>
+        <p class="translation-desc">A harmony of the four Gospels, with text color-coded by source — <span class="gospel-mt"><strong>Matthew</strong></span>, <span class="gospel-mk"><strong>Mark</strong></span>, <span class="gospel-lk"><strong>Luke</strong></span>, and <span class="gospel-jn"><strong>John</strong></span> — combined into a unified narrative.</p>
     </header>
 
-    <!-- Color Legend -->
-    <div class="harmony-legend">
-        <span class="gospel-mt">Matthew</span>
-        <span class="gospel-mk">Mark</span>
-        <span class="gospel-lk">Luke</span>
-        <span class="gospel-jn">John</span>
+    <!-- Section Grid -->
+    <div class="harmony-sections">
+        <div class="sections-header">
+            <h2>Sections</h2>
+            <a href="section-01/" class="start-reading">Start Reading →</a>
+        </div>
+        <div class="section-grid">
+            {{ range seq 30 }}
+            {{ $num := printf "%02d" . }}
+            <a href="section-{{ $num }}/" class="section-cell">{{ . }}</a>
+            {{ end }}
+        </div>
     </div>
 
     <!-- Topic Dropdown -->
     <div class="harmony-nav-home">
-        <select class="harmony-dropdown" id="topic-dropdown-home">
+        <select class="topic-dropdown" id="topic-dropdown-home">
             <option value="">Jump to a topic...</option>
             {{ range $.Site.Data.harmony_topics }}
             <option value="{{ .url }}">{{ .title }}{{ if .ref }} ({{ .ref }}){{ end }}</option>
@@ -23,9 +33,14 @@
         </select>
     </div>
 
-    <!-- Main Content (intro + topics) -->
-    <div class="harmony-home-content">
-        {{ .Content }}
+    <!-- All Topics List -->
+    <h2 class="topics-heading">All Topics</h2>
+    <div class="harmony-topics-grid">
+        {{ range $.Site.Data.harmony_topics }}
+        <a href="{{ "translations/harmony/" | absURL }}{{ .url }}" class="topic-link">
+            {{ .title }}{{ if .ref }} <span class="ref">({{ .ref }})</span>{{ end }}
+        </a>
+        {{ end }}
     </div>
 </div>
 
@@ -38,84 +53,144 @@ document.getElementById('topic-dropdown-home').addEventListener('change', functi
 </script>
 
 <style>
-.harmony-home-content {
-    max-width: 900px;
+.harmony-home {
+    max-width: 960px;
     margin: 0 auto;
 }
 
-.harmony-nav-home {
-    max-width: 500px;
-    margin: 1.5rem auto;
+.harmony-home .breadcrumb {
+    margin-bottom: 2rem;
 }
 
-.harmony-nav-home .harmony-dropdown {
+.harmony-home .breadcrumb a {
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.9rem;
+    color: var(--color-text-secondary, #555);
+    text-decoration: none;
+}
+
+.harmony-home .breadcrumb a:hover {
+    color: var(--color-accent, #9c7c38);
+}
+
+/* Sections */
+.harmony-sections {
+    margin-bottom: 2rem;
+}
+
+.sections-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 1rem;
+}
+
+.sections-header h2 {
+    font-family: var(--font-display, 'Playfair Display', Georgia, serif);
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: var(--color-primary, #000);
+    margin: 0;
+}
+
+.start-reading {
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--color-text-secondary, #555);
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+.start-reading:hover {
+    color: var(--color-accent, #9c7c38);
+}
+
+.section-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(48px, 1fr));
+    gap: 0.5rem;
+}
+
+.section-cell {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.6rem 0;
+    border: 1px solid var(--color-border, #e5e5e5);
+    border-radius: 6px;
+    text-decoration: none;
+    color: var(--color-text, #1a1a1a);
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.95rem;
+    font-weight: 500;
+    transition: all 0.15s ease;
+}
+
+.section-cell:hover {
+    background: var(--color-primary, #000);
+    color: #fff;
+    border-color: var(--color-primary, #000);
+}
+
+/* Topic dropdown */
+.harmony-nav-home {
+    max-width: 500px;
+    margin: 0 auto 2rem;
+}
+
+.topic-dropdown {
     width: 100%;
     padding: 0.75rem 1rem;
     font-size: 1rem;
-    border: 1px solid #ccc;
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    border: 1px solid var(--color-border, #e5e5e5);
     border-radius: 6px;
+    background: var(--color-bg, #fff);
+    cursor: pointer;
 }
 
-.harmony-home-content h2 {
-    margin-top: 2rem;
-    margin-bottom: 1rem;
-    color: var(--primary-color);
+.topic-dropdown:focus {
+    outline: none;
+    border-color: var(--color-accent, #9c7c38);
+    box-shadow: 0 0 0 2px rgba(156, 124, 56, 0.15);
 }
 
-.harmony-intro {
-    font-size: 1.1rem;
-    line-height: 1.7;
-    color: #4a4a4a;
-    margin-bottom: 1.5rem;
-    padding: 1rem;
-    background: #f8f5f0;
-    border-radius: 8px;
-}
-
-.harmony-start {
-    text-align: center;
-    margin: 2rem 0;
-}
-
-.harmony-start .btn-primary {
-    display: inline-block;
-    padding: 1rem 2rem;
-    background: var(--primary-color, #8b6914);
-    color: white;
-    text-decoration: none;
-    border-radius: 8px;
-    font-size: 1.2rem;
+/* Topics heading */
+.topics-heading {
+    font-family: var(--font-display, 'Playfair Display', Georgia, serif);
+    font-size: 1.3rem;
     font-weight: 600;
+    color: var(--color-primary, #000);
+    margin: 0 0 1rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--color-border, #e5e5e5);
 }
 
-.harmony-start .btn-primary:hover {
-    background: #6d5310;
-}
-
-/* Compact topics grid */
+/* Topics grid */
 .harmony-topics-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: 0.5rem;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 0;
 }
 
 .harmony-topics-grid .topic-link {
     display: block;
     padding: 0.5rem 0.75rem;
     text-decoration: none;
-    color: #2c3e50;
-    border-bottom: 1px solid #eee;
-    font-size: 0.95rem;
-    transition: background 0.2s;
+    color: var(--color-text, #1a1a1a);
+    border-bottom: 1px solid var(--color-border, #e5e5e5);
+    font-size: 0.92rem;
+    line-height: 1.4;
+    transition: background 0.15s;
 }
 
 .harmony-topics-grid .topic-link:hover {
-    background: #f8f5f0;
-    color: var(--primary-color, #8b6914);
+    background: var(--color-bg-alt, #f9f9f9);
 }
 
 .harmony-topics-grid .ref {
-    color: #888;
+    color: var(--color-text-muted, #888);
     font-size: 0.8rem;
     font-style: italic;
 }
@@ -123,6 +198,9 @@ document.getElementById('topic-dropdown-home').addEventListener('change', functi
 @media (max-width: 600px) {
     .harmony-topics-grid {
         grid-template-columns: 1fr;
+    }
+    .section-grid {
+        grid-template-columns: repeat(6, 1fr);
     }
 }
 </style>

@@ -1,51 +1,93 @@
 ---
 book: Genesis
 chapter: 32
-next: chapter-33
-prev: chapter-31
 title: Genesis 32
 translation: CYV
 type: chapter
 weight: 32
+prev: chapter-31
+next: chapter-33
 ---
 
 ## Genesis Chapter 32
 
+
 ### Jacob Travels to Meet Esau
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> As Jacob was going along, angels from God met him. <strong><sup>2</sup></strong>When he saw them, he said, <em>“This </em><em>is </em><em>God’s </em><em>‘</em><em>camp</em><em>’</em><em>”</em>; so he named the place Mahanaim.</span>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> He sent messengers to his brother Esau in Seir (Edom).</span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As Jacob was going along, angels from God met him. </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he saw them, he said, <i>“This is God’s ‘camp’”</i>; so he named the place Mahanaim.
+</span></span></p>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> <em>“</em><em>Tell</em><em> Esau</em><em> that his servant Jacob says, ‘I’</em><em>ve </em><em>lived temporarily</em><em> with Laban till now</em><em>.</em><em> </em><em>I have </em><em>cattle</em><em>, donkeys, flocks, male and female servants.</em><em> </em><strong><sup>5</sup></strong><em>I’</em><em>ve</em><em> sent to tell </em><em>you so I’ll be pleasing to you.</em><em>’”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He sent messengers to his brother Esau in Seir (Edom). </span></span></p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> The messengers came back to Jacob and said, <em>“We went to Esau</em><em>;</em><em> he’s coming to meet you with </em><em>400</em><em> men.”</em><em> </em><strong><sup>7</sup></strong>Jacob was terribly afraid and distressed. He divided the people, the flocks, herds, and camels into two companies<em>.</em><em> </em><strong><sup>8</sup></strong><em>“If</em><em> Esau </em><em>attacks one </em><em>drove</em><em>, the other can </em><em>escape.”</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Tell Esau that his servant Jacob says, ‘I’ve lived temporarily with Laban till now. I have cattle, donkeys, flocks, male and female servants. </span></i></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ve sent to tell you so I’ll be pleasing to you.’”</span></i></span></p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> He said, <em>“God of my </em><em>grand</em><em>father Abraham and my father Isaac, </em><em>Yahveh </em><em>who </em><em>told</em><em> me</em><em> to g</em><em>o back to </em><em>my</em><em> country and </em><em>my </em><em>relatives, and </em><em>you’d</em><em> </em><em>make me prosper, </em><strong><sup>10</sup></strong><em>I</em><em> don’t deserve the kindness and faithfulness you’ve shown me.</em><em> </em><em>I crossed this Jordan with just </em><em>a staff. N</em><em>ow I’ve become two companies.</em><em> </em><strong><sup>11</sup></strong><em>Protect</em><em> me from Esau. I’m afraid he might attack me and the mothers of my offspring. </em><strong><sup>12</sup></strong><em>You</em><em> did say, ‘I’ll make you prosper and make your descendants like sand on the shore that can’t be </em><em>counted.’”</span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The messengers came back to Jacob and said, <i>“We went to Esau; he’s coming to meet you with 400 men.” </i></span></span>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jacob was terribly afraid and distressed. He divided the people, the flocks, herds, and camels into two companies<i>. </i></span></span>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If Esau attacks one drove, the other can escape.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said, </span></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“God of my grandfather Abraham and my father Isaac, Yahveh who told me to go back to my country and my relatives, and you’d make me prosper, </span></i><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I don’t deserve the kindness and faithfulness you’ve shown me. I crossed this Jordan with just a staff. Now I’ve become two companies. </span></i></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Protect me from Esau. I’m afraid he might attack me and the mothers of my offspring. </span></i></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You did say, ‘I’ll make you prosper and make your descendants like sand on the shore that can’t be counted.’” </span></i></span></span></p>
+
 <p class="section-ref">Gen 32:1-12</p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> He spent the night there. Then he chose from what he had with him a gift for Esau: <strong><sup>14</sup></strong>200 female goats, 20 male goats, 200 ewes, 20 rams, <strong><sup>15</sup></strong>30 milking camels and their colts, 40 cows and 10 bulls, 20 female donkeys and 10 male donkeys. <strong><sup>16</sup></strong>He gave them to his servants, <em>“</em><em>Go</em><em> on </em><em>ahead</em><em> and space out the droves.”</em> <strong><sup>17</sup></strong>He told the first drove, <em>“When Esau meets you and asks</em><em> w</em><em>ho the</em><em>y</em><em> belong to and where you</em><em>’re</em><em> going</em><em>,</em><em> </em><strong><sup>18</sup></strong><em>say</em><em>, ‘They belong</em><em> to</em><em> </em><em>Jacob</em><em>.</em><em> </em><em>They’re a </em><em>gift</em><em> to </em><em>you. </em>Jacob <em>i</em><em>s behind us.</em><em>’</em><em>”</em><em> </em><strong><sup>19</sup></strong>He told the second and third drove, and everybody that followed the droves,<em> </em><strong><sup>20</sup></strong><em>“Tell</em><em> Esau when you meet him, ‘Your servant Jacob is behind us too.’” </em>He said, <em>“I’ll appease him with the gift first. Then when I see him, maybe he’ll accept me.” </em><strong><sup>21</sup></strong>His gift passed on ahead while he spent that night in the camp.</span>
-<p class="section-ref">Gen 32:13-21</p>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He spent the night there. Then he chose from what he had with him a gift for Esau:
+</span></span>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>200 female goats, 20 male goats, 200 ewes, 20 rams, </span></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>30 milking camels and their colts, 40 cows and 10 bulls, 20 female donkeys and 10 male donkeys. </span></span>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He gave them to his servants, <i>“Go on ahead and space out the droves.”</i> </span></span>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told the first drove, <i>“When Esau meets you and asks who they belong to and where you’re going, </i></span></span>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>say, ‘They belong to Jacob. They’re a gift to you. </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jacob
+</span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>is behind us.’” </span></i></span>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told the second and third drove, and everybody that followed the droves,<i> </i></span></span>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Tell Esau when you meet him, ‘Your servant Jacob is behind us too.’” </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said, <i>“I’ll appease him with the gift first. Then when I see him, maybe he’ll accept me.” </i></span></span>
+<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>His gift passed on ahead while he spent that night in the camp.             </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gen 32:13-21</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></span></p>
+
 
 ### Jacob Wrestles with a Man
 
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> He got up that night and took his 2 wives, 2 maids, and 11 children, and crossed the Jabbok ford. <strong><sup>23</sup></strong>He sent them across the stream along with what he had. <strong><sup>24</sup></strong>He was left alone, and a man wrestled with him till dawn. <strong><sup>25</sup></strong>When <em>the man</em> saw he hadn’t won, he struck the socket of Jacob’s hip and dislocated it as they wrestled. <strong><sup>26</sup></strong>Then <em>the man</em> said, <em>“Let me go; it’s getting daylight.”</em><em> </em> <em> “I won’t let you go unless you bless me.”</em><em> </em></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He got up that night and took his 2 wives, 2 maids, and 11 children, and crossed the Jabbok ford. </span></span>
+<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He sent them across the stream along with what he had. </span></span>
+<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He was left alone, and a man wrestled with him till dawn. </span></span>
+<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When
+<i>the man</i> saw he hadn’t won, he struck the socket of Jacob’s hip and dislocated it as they wrestled. </span></span>
+<span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then
+<i>the man</i> said, <i>“Let me go; it’s getting daylight.” </i></span></span></p>
 
-<span class="verse" id="v27"><sup class="verse-num">27</sup> <em>“What’s</em><em> your name?”</em> <em>“Jacob.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> “I won’t let you go unless you bless me.” </span></i></p>
 
-<span class="verse" id="v28"><sup class="verse-num">28</sup> <em>“</em><em>It</em><em> </em><em>won’t be </em>Jacob<em> anymore. I</em><em>t’ll be </em>Israel<em>;</em><em> you’ve </em><em>‘</em><em>wrestled with God</em><em>’</em><em> and men and prevailed.”</em><em> </em></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“What’s your name?”</span></i></span></p>
 
-<span class="verse" id="v29"><sup class="verse-num">29</sup> <em>“T</em><em>ell</em><em> me </em><em><u>your</u></em><em> name.”</em> <em>“Why are you asking?”</em> That’s where he blessed him.</span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>“Jacob.”</span></i></p>
 
-<span class="verse" id="v30"><sup class="verse-num">30</sup> Jacob named the place Peniel; <em>“I’</em><em>ve seen ‘God face to face,’ but I’m still alive.” </em><strong><sup>31</sup></strong>The sun was coming up as he crossed Penuel, and he was limping because of his hip. <strong><sup>32</sup></strong>Israelites still don’t eat the sinew that’s on the hip socket, because <em>the man</em> struck the sinew on Jacob’s hip socket.</span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“It won’t be </span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>Jacob<i> anymore. It’ll be </i>Israel<i>; you’ve ‘wrestled with God’ and men and prevailed.” </i></span></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Tell me <u>your</u> name.”</span></i></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>“Why are you asking?”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> That’s where he blessed him.</span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jacob named the place Peniel; <i>“I’ve seen ‘God face to face,’ but I’m still alive.” </i></span></span>
+<span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The sun was coming up as he crossed Penuel, and he was limping because of his hip. </span></span>
+<span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israelites still don’t eat the sinew that’s on the hip socket, because <i>the man</i> struck the sinew on Jacob’s hip socket.                                                                                                                                                                  </span></span></p>
+
 <p class="section-ref">Gen 32:22-32</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

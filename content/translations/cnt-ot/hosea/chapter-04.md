@@ -1,66 +1,168 @@
 ---
 book: Hosea
 chapter: 4
-next: chapter-05
-prev: chapter-03
 title: Hosea 4
 translation: CNT
 type: chapter
 weight: 4
+prev: chapter-03
+next: chapter-05
 ---
 
 ## Hosea Chapter 4
 
+
 ### The LORD Accuses Israel
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Israel, listen to the LORD’s message; he’s filing charges against you: <em>“There’s no faithfulness, kindness,</em> <em>	</em><em>	or awareness of God there.</em></span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>There’s swearing, deception, murder, stealing, and </em><em>adultery;</em><em> </em> <em>	they use violence</em><em>,</em><em> so there’s murder after murder.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel, listen to the L</span><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>’s message; </span></span></p>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> <em>So</em><em> the land </em><em>is in </em><em>mourn</em><em>ing</em><em>.</em> <em>	Everybody that lives in it </em><em>is wasting away</em><em>,</em> <em>	</em><em>	along with the animals in the field</em> <em>	</em><em>	</em><em>	and the birds in the </em><em>sky;</em> <em>	</em><em>	</em><em>	even the fish are disappearing.”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk146904148"><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      he’s filing charges against you:</span></a></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk122882612"><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      <i>“There’s no faithfulness, kindness,</i></span></a></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            or awareness of God there.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>There’s swearing, deception, murder, stealing, and adultery; </span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      they use violence, so there’s murder after murder.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So the land is in mourning.</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Everybody that lives in it is wasting away,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            along with the animals in the field</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and the birds in the sky;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  even the fish are disappearing.”</span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                          </span></b></span></p>
+
 <p class="section-ref">Hos 4:1-3</p>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> <em>“But</em><em> don’t anybody point </em><em>a</em><em> finger</em><em> </em><em>at </em><em>some</em><em>body </em><em>else;</em> <em>	I’m suing you priests.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk122882675"><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“But don’t anybody point a finger at somebody else;</span></i></span></p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>You’ll</em><em> stumble in the </em><em>daytime;</em> <em>	prophets will stumble with you at </em><em>night;</em> <em>	I’ll destroy your </em><em>mother</em><em> Israel.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      I’m suing you priests.</span></i></p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>My</em><em> people are </em><em>getting destroyed</em><em> because they don’t know me.</em> <em>	Since you</em><em> </em>priests <em>ha</em><em>ve re</em><em>fused to</em><em> know me,</em> <em>	</em><em>	I’ll re</em><em>fuse</em><em> </em><em>to acknowledge </em><em>you </em><em>as</em><em> my priests.</em> <em>	Since you’ve forgotten about</em><em> my</em><em> Law, </em> <em>	</em><em>	I’ll forget about your children.</em><strong>	</strong><strong>	</strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’ll stumble in the daytime;</span></i></span></p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>The</em><em> more </em><em>priests there are</em><em>, the more they sin</em><em> against </em><em>me</em><em>;</em> <em>	I’ll </em><em>turn</em><em> their </em><em>honor</em><em> </em><em>in</em><em>to shame.</em><strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      prophets will stumble with you at night;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      I’ll destroy your mother Israel.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>My people are getting destroyed because they don’t know me.</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Since you </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>priests
+<i>have refused to know me,</i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            I’ll refuse to acknowledge you as my priests.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Since you’ve forgotten about my Law, </span></i></p>
+
+
+### I’ll forget about your children.
+
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk122882715"><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The more priests there are, the more they sin against me;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      I’ll turn their honor into shame.</span></i></span></p>
+
 <p class="section-ref">Hos 4:4-7</p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>“T</em><em>hey</em><em> feed on my people’s </em><em>sin</em> <em>	</em><em>because </em><em>their</em><em> </em><em>sacrifices</em><em> for it</em> <em>	</em><em>	mean more food for </em>the priests<em>!</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“They feed on my people’s sin</span></i></span></p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>It</em><em> will be, like people like </em><em>priest;</em> <em>	I’ll punish them for their ways</em><em>,</em> <em>	</em><em>	</em><em>repay them for </em><em>their deeds</em><em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      because their sacrifices for it</span></i></p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>They’ll</em><em> eat, but not have </em><em>enough;</em> <em>	they’ll carry on prostitution, but won’t gain </em><em>anything </em><em>by it,</em> <em>	</em><em>	because they’ve stopped </em><em>listening</em><em> to the </em><em>L</em><em>ORD</em><em>. </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            mean more food for </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>the priests<i>!</i></span></p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> <em>Prostitution</em><em>, wine, and new wine </em> <em>	have robbed my people of</em><em> understanding.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It will be, like people like priest;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      I’ll punish them for their ways,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            repay them for their deeds.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’ll eat, but not have enough;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      they’ll carry on prostitution, but won’t gain anything by it,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            because they’ve stopped listening to the L</span></i><i><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.
+</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Prostitution, wine, and new wine </span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      have robbed my people of understanding.                        </span></i></span></p>
+
 <p class="section-ref">Hos 4:8-11</p>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> <em>“M</em><em>y</em><em> people consult their wooden </em><em>idols;</em> <em>	their fortunetellers</em><em> toss</em><em> </em><em>stick</em><em>s </em><em>to </em><em>give them oracles.</em> <em>A spirit of prostitution has led them </em><em>astray;</em> <em>	they’ve carried on prostitution by leaving their God.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk122882789"><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“My people consult their wooden idols;</span></i></span></p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> <em>They</em><em> offer sacrifices </em>to idols <em>on mountaintops</em> <em>	and burn incense on hills</em> <em>	</em><em>	</em><em>	under oak</em><em>s</em><em>, poplar</em><em>s</em><em>, and terebinth trees,</em> <em>	</em><em>	because they </em><em>make</em><em> pleasant shade.</em> <em>	That’s why </em><em>you</em><em>r daughters </em><em>becom</em><em>e prostitutes</em> <em>	</em><em>	and </em><em>you</em><em>r brides commit adultery.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      their fortunetellers toss sticks to give them oracles.</span></i></p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> <em>I</em><em> won’t punish their daughters when they carry on prostitution</em> <em>	</em><em>	or their brides when they commit adultery,</em> <em>	because </em><em>you</em><em> men </em><em>visit</em><em> prostitutes</em> <em>	</em><em>	and offer sacrifices with temple </em><em>prostitutes</em><em>;</em> <em>	</em><em>s</em><em>o</em><em> </em><em>you</em><em> foolish</em><em> people </em><em>will b</em><em>e ruined.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A spirit of prostitution has led them astray;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      they’ve carried on prostitution by leaving their God.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They offer sacrifices </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>to idols <i>on mountaintops</i></span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and burn incense on hills</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  under oaks, poplars, and terebinth trees,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            because they make pleasant shade.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      That’s why your daughters become prostitutes</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and your brides commit adultery.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I won’t punish their daughters when they carry on prostitution</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            or their brides when they commit adultery,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      because you men visit prostitutes</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and offer sacrifices with temple prostitutes;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      so you foolish people will be ruined. </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                   </span></p>
+
 <p class="section-ref">Hos 4:12-14</p>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> <em>“Though</em><em> you carry on prostitution, Israel,</em> <em>	don’t </em><em>draw</em><em> Judah </em><em>into your </em><em>guilt.</em> <em>Don’t go to Gilgal or up to Beth-aven</em><em> [Bethel</em><em>]</em><em>;</em> <em>	don’t </em><em>swear, </em><em>‘</em><em>As sure as the </em><em>L</em><em>ORD</em><em> lives!</em><em>’</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk122882849"><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Though you carry on prostitution, Israel,</span></i></span></p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> <em>Israel</em><em> is like a stubborn </em><em>heifer;</em> <em>	</em><em>	</em><em>so how can the </em><em>L</em><em>ORD</em><em> feed it like a lamb in </em><em>the</em><em> pasture?</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      don’t draw Judah into your guilt.</span></i></p>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> <em>Le</em><em>ave</em><em> Ephraim alone</em> <em>	</em><em>	</em><em>because </em><em>s</em><em>he carries on idolatry.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Don’t go to Gilgal or up to Beth-aven [Bethel];</span></i></p>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> <em>When</em><em> their rulers are done drinking,</em> <em>	they go visit </em><em>prostitutes;</em> <em>	they have no shame whatsoever.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      don’t swear, ‘As sure as the L</span></i><i><span style='font-size:9.0pt;line-height: 115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> lives!’</span></i></p>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> <em>The</em><em> wind will carry them </em><em>off;</em> <em>	their altars will bring them </em><em>disgrace</em><em>.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel is like a stubborn heifer;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            so how can the L</span></i><i><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> feed it like a lamb in the pasture?</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk94786395"><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         17</span></sup></b></a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Leave Ephraim alone</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            because she carries on idolatry.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When their rulers are done drinking,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      they go visit prostitutes;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      they have no shame whatsoever.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The wind will carry them off;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      their altars will bring them disgrace.</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                   </span></p>
+
 <p class="section-ref">Hos 4:15-19</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

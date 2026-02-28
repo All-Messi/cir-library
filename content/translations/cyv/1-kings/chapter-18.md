@@ -1,0 +1,109 @@
+---
+book: 1 Kings
+chapter: 18
+title: 1 Kings 18
+translation: CYV
+type: chapter
+weight: 18
+prev: chapter-17
+next: chapter-19
+---
+
+## 1 Kings Chapter 18
+
+
+### Elijah Confronts Ahab
+
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt; line-height:115%'>In <b>the third year</b>, a message from Yahveh came to Elijah, <i>“Present yourself to Ahab, and I’ll send rain.” </i></span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%'>So he went to Ahab. The famine was severe in Samaria. </span></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%'>Ahab called Obadiah, who managed the palace. (</span>Obadiah respected Yahveh greatly. </span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> When Jezebel was destroying Yahveh’s prophets, he hid 100 of them by 50s in a cave and provided them bread and water.<span style='font-size:12.0pt;line-height: 115%'>) </span></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%'>“Go to the springs and valleys in the land. Maybe we’ll find grass to keep the horses and mules alive, and not have to kill any livestock.”</span></i><span style='font-size:12.0pt;line-height: 115%'> </span></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%'>They divided up the land to survey it. Ahab went one way and Obadiah went another. </span></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height: 115%'>Elijah met Obadiah on the road. He recognized him and fell on his face, <i>“Is that you, Elijah?” </i></span></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt; line-height:115%'>“It’s me. Go tell your master I’m here.”</span></i><span style='font-size:12.0pt;line-height:115%'> </span></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height: 115%'>He said, </span></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%'>“How have I sinned that you’re turning me over to Ahab to execute me? </span></i><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%'>As Yahveh your God lives, he’s searched for you in every nation and kingdom. When they said you weren’t there, he’d make the kingdom or nation swear they couldn’t find you. </span></i></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%'>Now you’re telling me to go tell him you’re here. </span></i></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%'>When I leave, the Spirit of Yahveh will carry you where I don’t know. When I tell Ahab and he can’t find you, he’ll kill me even though I’ve respected Yahveh my whole life. </span></i></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%'>Haven’t you heard what I did when Jezebel was killing his prophets? I hid 100 of them by 50s in a cave and provided them bread and water? </span></i></span>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt; line-height:115%'>Now you want me to tell my master you’re here!” </span></i></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height: 115%'>Elijah said, <i>“As Yahveh of Hosts lives, I’ll present myself to </i>Ahab<i> today.”</i><b>     </b></span><b><span style='font-size:10.0pt;line-height: 115%'>1 Kg 18:1-15</span></b></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height: 115%'>Obadiah went and told Ahab, and he came to meet Elijah. </span></span>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%'>When Ahab saw him, he said, <i>“Is that you, you troubler of Israel?” </i></span></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%'> </span></i><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%'>He said, </span></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%'>“I haven’t brought trouble on Israel. You and your father’s family have done that. You’ve abandoned Yahveh’s commandments and worshipped the images of Baal. </span></i><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%'>Now then, gather Israel to me at Mount Carmel, along with the 450 Baal prophets and 400 Asherah prophets that eat at Jezebel’s table.”</span></i></span></p>
+
+
+### The Contest on Mount Carmel
+
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height: 115%'>Ahab sent a message among the Israelites and brought the prophets to Mount Carmel. </span></span>
+<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%'>Elijah faced the people and said, <i>“How long will you waver between two sides? If Yahveh is God, follow him. If Baal is god, follow him.”</i>   </span></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%'>The people didn’t say anything. <b>                                                                        </b></span><b><span style='font-size:10.0pt;line-height:115%'>1 Kg 18:16-21</span></b></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%'>Then Elijah told them, </span></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%'>“I’m the only prophet Yahveh has left; Baal has 450 of them. </span></i><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt; line-height:115%'>Let us have two oxen. They can choose one, cut it up, lay it on the wood, but not put any fire under it. I’ll prepare the other, lay it on the wood, and not put a fire under it. </span></i></span>
+<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%'>Then you call on your god, and I’ll call on Yahveh. The one that answers by fire, is God.”</span></i><span style='font-size:12.0pt;line-height:115%'> </span></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height: 115%'>The people answered, <i>“That’s good.”</i></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height: 115%'>Elijah told the Baal prophets, <i>“Choose an ox and prepare it first; there are lots of you. Call on your god, but don’t put fire under it.” </i></span></span>
+<span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%'>They prepared their ox and called on Baal from morning till noon, <i>“Baal, answer us.”</i> There was no answer. They leaped around the altar they’d made. </span></span>
+<span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%'>At about noon Elijah mocked them, <i>“Shout, because he’s a god. Either he’s occupied or has wandered off. Maybe he’s traveling or asleep and needs to be woke up.” </i></span></span>
+<span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%'>As was their custom, they shouted and cut themselves with swords and lances till blood gushed out on them. </span></span>
+<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%'>When noon had passed, they raved till the time for evening sacrifice. But there wasn’t any voice, nobody answered, nobody paid attention. <b>   </b></span><b><span style='font-size:10.0pt; line-height:115%'>1 Kg 18:22-29</span></b></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height: 115%'>Then Elijah told the crowd to come closer. He repaired Yahveh’s altar that had been torn down. </span></span>
+<span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height: 115%'>He took 12 stones corresponding to the 12 tribes of Jacob, whose name Yahveh had changed to<i> </i>‘Israel.’ </span></span>
+<span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt; line-height:115%'>With the stones, he rebuilt the altar in Yahveh’s name and dug a trench around it big enough to hold more than .73 of a bushel </span><sup><span style='font-size:14.0pt;line-height:115%'>2 seahs </span></sup><span style='font-size:12.0pt;line-height:115%'>of seed. </span></span>
+<span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size:12.0pt;line-height:115%'>Then he arranged the wood, cut the ox in pieces, and laid it on the wood. He told them to fill four large jars with water and pour it on the burnt offering and the wood<i>.</i> </span></span>
+<span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <i><span style='font-size:12.0pt;line-height:115%'>“Do it again.” “Do it a third time.”</span></i><span style='font-size:12.0pt;line-height:115%'> </span></span>
+<span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <span style='font-size:12.0pt;line-height:115%'>The water ran down around the altar and filled the trench. </span></span>
+<span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <span style='font-size:12.0pt;line-height:115%'>Then at the time of evening sacrifice, he went up to the altar and said, </span></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%'>“Yahveh, God of Abraham, Isaac, and Israel, show today that you’re God in Israel, that I’m your servant, that you’ve told me to do this. </span></i><span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <i><span style='font-size:12.0pt; line-height:115%'>Answer me so the people can know you’re God and that you’ve brought them back to you.”</span></i><span style='font-size:12.0pt;line-height: 115%'> <b>                         </b></span></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><b><span style='font-size:12.0pt;line-height:115%'>                                                                                                    </span></b><b><span style='font-size:10.0pt;line-height:115%'>1 Kg 18:30-37</span></b></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <span style='font-size:12.0pt;line-height: 115%'>Fire came down from Yahveh and consumed the burnt offering, the wood, the stones, the dust, and the water in the trench. </span></span>
+<span class="verse verse-v39" id="v39"><sup class="verse-num">39</sup> <span style='font-size:12.0pt;line-height:115%'>The people they fell on their faces, <i>“Yahveh is God! Yahveh is God!” </i></span></span>
+<span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <span style='font-size:12.0pt;line-height: 115%'>Elijah told them, <i>“Seize the Baal prophets. Don’t let a one of them get away.” </i>They seized them, and Elijah brought them down to the Kishon River and killed them. </span></span></p>
+
+
+### Yahveh Sends Rain
+
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v41" id="v41"><sup class="verse-num">41</sup> <span style='font-size:12.0pt;line-height: 115%'>Elijah told Ahab,<i> “Go get something to eat; there’s the sound of heavy rain.” </i></span></span>
+<span class="verse verse-v42" id="v42"><sup class="verse-num">42</sup> <span style='font-size:12.0pt;line-height:115%'>Ahab went to eat. Elijah climbed to the top of Carmel and crouched down with his head between his knees. </span></span>
+<span class="verse verse-v43" id="v43"><sup class="verse-num">43</sup> <span style='font-size:12.0pt;line-height:115%'>He told his servant to go look toward the sea<i>.</i> He went and looked, <i>“There’s nothing.”</i> He said, <i>“Go back,”</i> seven times. </span></span>
+<span class="verse verse-v44" id="v44"><sup class="verse-num">44</sup> <span style='font-size:12.0pt;line-height: 115%'>The seventh time, <i>the servant</i> said, <i>“A cloud the size of a man’s hand is coming up from the horizon.”</i> He said, <i>“Go tell Ahab to get his chariot ready and go down so the rain doesn’t stop him.”</i> </span></span>
+<span class="verse verse-v45" id="v45"><sup class="verse-num">45</sup> <span style='font-size:12.0pt;line-height:115%'>In a little while, the sky grew dark with clouds and wind, and a downpour came. Ahab rode to Jezreel. </span></span>
+<span class="verse verse-v46" id="v46"><sup class="verse-num">46</sup> <span style='font-size:12.0pt;line-height:115%'>Yahveh was with Elijah, and he girded up and outran Ahab to Jezreel.</span><b><span style='font-size:10.0pt; line-height:115%'>        1 Kg 18:38-46</span></b></span></p>
+
+
+<style>
+.verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
+.verse strong sup { color: var(--secondary-color, #8b6914); }
+.section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
+</style>

@@ -1,68 +1,107 @@
 ---
 book: Genesis
 chapter: 46
-next: chapter-47
-prev: chapter-45
 title: Genesis 46
 translation: CYV
 type: chapter
 weight: 46
+prev: chapter-45
+next: chapter-47
 ---
 
 ## Genesis Chapter 46
 
+
 ### Joseph Brings His Brothers to Egypt
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Israel set out with everything he had. He went to Beersheba and offered sacrifices to the God of his father Isaac. <strong><sup>2</sup></strong>God spoke to him in a vision at night, <em>“Jacob, Jacob.”</em> <em>“Yes?”</em></span>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> <em>“I’m</em><em> God, </em><em>your father’s</em><em> God.</em><em> Don’t be afraid</em><em> to go down to Egypt.</em><em> </em><em>I’ll make </em><em>a big nation out of </em><em>you there.</em><em> </em><strong><sup>4</sup></strong><em>I’ll</em><em> go down wit</em><em>h you and bring you back. </em><em>Joseph will close your eyes.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel set out with everything he had. He went to Beersheba and offered sacrifices to the God of his father Isaac. </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God spoke to him in a vision at night, </span></span></p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> He left Beersheba. His sons hauled him, their little ones, and wives in the wagons Pharaoh sent. <strong><sup>6</sup></strong><strong><sup>-</sup></strong><strong><sup>7</sup></strong>They took him, his sons, grandsons, daughters, and granddaughters, their livestock and property they’d gained in Canaan, and went to Egypt.</span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>“Jacob, Jacob.”</span></i></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            <i>“Yes?”</i></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’m God, your father’s God. Don’t be afraid to go down to Egypt. I’ll make a big nation out of you there. </span></i></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll go down with you and bring you back. Joseph will close your eyes.”</span></i></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He left Beersheba. His sons hauled him, their little ones, and wives in the wagons Pharaoh sent. </span></span>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6-7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They took him, his sons, grandsons, daughters, and granddaughters, their livestock and property they’d gained in Canaan, and went to Egypt.         </span></span></p>
+
 <p class="section-ref">Gen 46:1-7</p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> The names of Jacob’s sons that went to Egypt <u>Reuben</u>, <em>Jacob’s</em> firstborn: <strong><sup>9</sup></strong>his sons Hanoch, Pallu, Hezron, and Carmi</span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The names of Jacob’s sons that went to Egypt </span></span></p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> <u>Simeon</u>: his sons Jemuel, Jamin, Ohad, Jachin, Zohar—and Shaul, the son of a Canaanite woman</span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Reuben</span></u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,
+<i>Jacob’s</i> firstborn: </span><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>his sons Hanoch, Pallu, Hezron, and Carmi</span></span></p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> <u>Levi</u>: his sons Gershon, Kohath, Merari</span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Simeon</span></u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>: his sons Jemuel, Jamin, Ohad, Jachin, Zohar—and Shaul, the son of a </span></span></p>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> <u>Judah</u>: his sons Er, Onan, Shelah, Perez, Zerah (Er and Onan died in Canaan.) Perez’s sons: Hezron and Hamul</span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Canaanite woman</span></p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> <u>Issachar</u>: his sons Tola, Puvvah, Iob, and Shimron</span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                        </span><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Levi</span></u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>: his sons Gershon, Kohath, Merari</span></span></p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> <u>Zebulun</u>: his sons Sered, Elon, Jahleel</span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                        </span><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Judah</span></u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>: his sons Er, Onan, Shelah, Perez, Zerah (</span><span style='font-family:"Times New Roman",serif'>Er and Onan died in Canaan</span><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>.) </span></span></p>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> <strong>The</strong><strong> descendant</strong><strong>s of Leah </strong><strong>that she bore to Jacob in Pa</strong><strong>d</strong><strong>d</strong><strong>an-aram with his daughter Dinah</strong><strong>,</strong><strong> </strong><strong><em>were </em></strong><strong>34</strong><strong>.</strong><strong> </strong><strong>	</strong></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Perez’s sons: Hezron and Hamul</span></p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> <u>Gad</u>: his sons Ziphion, Haggi, Shuni, Ezbon, Eri, Arodi, and Areli</span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                        </span><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Issachar</span></u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>: his sons Tola, Puvvah, Iob, and Shimron</span></span></p>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> <u>Asher</u>: his sons Imnah, Ishvah, Ishvi, <u>Beriah</u> (and their sister Serah) <u>Beriah</u>’s sons: Heber and Malchiel.</span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                        </span><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Zebulun</span></u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>: his sons Sered, Elon, Jahleel</span></span></p>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> <strong>The</strong><strong> </strong><strong>descendants</strong><strong> of Zilpah that Laban gave his daughter </strong><strong>Leah</strong><strong>,</strong><strong> </strong><strong><em>were</em></strong><strong> 16</strong><strong>.</strong></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.5in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>The descendants of Leah that she bore to Jacob in Paddan-aram with his daughter Dinah, <i>were </i>34.</span></b><b><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>             </span></b></span></p>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> <u>Joseph</u>: his sons Manasseh and Ephraim, <strong><sup>20</sup></strong>born to him in Egypt by Asaneth, daughter of Potiphera, priest of On</span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                        </span><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gad</span></u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>: his sons Ziphion, Haggi, Shuni, Ezbon, Eri, Arodi, and Areli</span></span></p>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> <u>Benjamin</u>: his sons Bela, Becher, Ashbel, Gera, Naaman, Ehi, Rosh, Muppim, Huppim, and Ard</span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                        </span><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Asher</span></u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>: his sons Imnah, Ishvah, Ishvi, <u>Beriah</u> (</span><span style='font-family: "Times New Roman",serif'>and their sister Serah</span><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>) </span></span></p>
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> <strong>The</strong><strong> descendant</strong><strong>s of Rachel </strong><strong>born</strong><strong> to Jacob </strong><strong><em>were</em></strong><strong> 14</strong><strong>.</strong><strong> </strong><strong>	                    </strong></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.0in;'><u><span lang=DE style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Beriah</span></u><span lang=DE style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s sons: Heber and Malchiel.</span></p>
 
-<span class="verse" id="v23"><sup class="verse-num">23</sup> <u>Dan</u>: his son Hushim</span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.0in;'><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>The descendants of Zilpah that Laban gave his daughter Leah, <i>were</i> 16.</span></b></span></p>
 
-<span class="verse" id="v24"><sup class="verse-num">24</sup> <u>Naphtali</u>: his sons Jahzeel, Guni, Jezer, and Shillem</span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                        </span><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Joseph</span></u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>: his sons Manasseh and Ephraim, </span></span>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>born to him in Egypt by Asaneth, </span></span></p>
 
-<span class="verse" id="v25"><sup class="verse-num">25</sup> <strong>The</strong><strong> descendants of Bilhah</strong><strong> that Laban gave his daughter Rachel, </strong><strong><em>were</em></strong><strong><em> </em></strong><strong>7</strong><strong>.</strong> <strong><sup>26</sup></strong>66 direct descendants of Jacob went to Egypt (not including his daughters-in-law) <strong><sup>27</sup></strong>plus Joseph’s two sons born there. 70 people in Jacob’s household ended up Egypt<em>.</span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>daughter of Potiphera, priest of On</span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                        </span><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Benjamin</span></u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>: his sons Bela, Becher, Ashbel, Gera, Naaman, Ehi, Rosh, Muppim, </span></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Huppim, and Ard</span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.0in;'><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>The descendants of Rachel born to Jacob <i>were</i> 14.                              </span></b></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                        </span><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Dan</span></u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>: his son Hushim</span></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                        </span><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Naphtali</span></u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>: his sons Jahzeel, Guni, Jezer, and Shillem</span></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                                    </span><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>The descendants of Bilhah that Laban gave his daughter Rachel, <i>were </i>7.</span></b></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>66 direct descendants of Jacob went to Egypt (</span><span style='font-family:"Times New Roman",serif'>not including his</span><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span><span style='font-family:"Times New Roman",serif'>daughters-in-law)</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span>
+<span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>plus Joseph’s two sons born there. 70 people in Jacob’s household ended up Egypt<i>.
+</i></span></span></p>
+
 <p class="section-ref">Gen 46:8-27</p>
 
-<span class="verse" id="v28"><sup class="verse-num">28</sup> <em>Jacob</em> sent Judah on ahead so Joseph could give them directions to Goshen. <strong><sup>29</sup></strong>Joseph prepared his chariot and went there to meet his father. When he met him, he hugged him and cried on his shoulder a long time. <strong><sup>30</sup></strong>Israel told him, <em>“</em><em>Now I can die! </em><em>I’</em><em>ve seen you’re still alive!</em><em>”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jacob</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> sent Judah on ahead so Joseph could give them directions to Goshen. </span></span>
+<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Joseph prepared his chariot and went there to meet his father. When he met him, he hugged him and cried on his shoulder a long time. </span></span>
+<span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel told him, <i>“Now I can die! I’ve seen you’re still alive!”</i> </span></span></p>
 
-<span class="verse" id="v31"><sup class="verse-num">31</sup> Joseph told his brothers and his father’s family, <em>“I’</em><em>ll go </em><em>tell Pharaoh</em><em> you’ve arrived from Canaan </em><strong><sup>32</sup></strong><em>with</em><em> your herdsmen, </em><em>flocks and herds</em><em>,</em><em> and everything </em><em>you have. </em><strong><sup>33</sup></strong><em>When</em><em> </em><em>he calls you and asks what your occupation is,</em><em> </em><strong><sup>34</sup></strong><em>tell</em><em> him you and your ancestors</em><em> have </em><em>always </em><em>been </em><em>herdsmen. </em>Say that<em> so</em><em> you </em><em>can</em><em> live in Goshen</em><em>;</em><em> </em><em>shepherds have</em><em> </em><em>low status</em><em> </em><em>in Egypt</em><em>.”</em><em></span>
-<p class="section-ref">Gen 46:28-34</p>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Joseph told his brothers and his father’s family, </span></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ll go tell Pharaoh you’ve arrived from Canaan </span></i><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>with your herdsmen, flocks and herds, and everything you have. </span></i></span>
+<span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he calls you and asks what your occupation is, </span></i></span>
+<span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>tell him you and your ancestors have always been herdsmen. </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Say that<i> so you can live in Goshen; shepherds have low status in Egypt.”                                                     </i></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gen 46:28-34</span></b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>     </span></i></span></p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

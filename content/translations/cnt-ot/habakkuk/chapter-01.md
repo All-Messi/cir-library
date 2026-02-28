@@ -1,64 +1,164 @@
 ---
 book: Habakkuk
 chapter: 1
-next: chapter-02
 title: Habakkuk 1
 translation: CNT
 type: chapter
 weight: 1
+next: chapter-02
 ---
 
 ## Habakkuk Chapter 1
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> The Oracle That Habakkuk the Prophet Saw 	<strong>Habakkuk’s Complaint</strong><strong>  </strong></span>
+<p class="MsoListBulletCxSpFirst" style='margin-top:0in; margin-bottom:0in;margin-left:1.5in'><b><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>     1<sup>:1</sup></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Oracle That Habakkuk the Prophet Saw</span></p>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> How long, LORD, will I call out for help, and you won’t listen? I cry out, <em>“Violence!”</em> but you don’t protect <em>me</em>.</span>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> Why do you make me watch wickedness? Destruction and violence go on right in front of me; fighting and arguing keep getting worse and worse.</span>
+### Habakkuk’s Complaint
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> <em>The courts </em>ignore the Law, <em>so</em><em> </em>they don’t render justice; sinners are in the majority, so they pervert justice.</span>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>How long, L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, will I call out for help, </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and you won’t listen?</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  I cry out, <i>“Violence!”</i> </span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        but you don’t protect <i>me</i>.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Why do you make me watch wickedness?</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Destruction and violence go on right in front of me; </span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  fighting and arguing keep getting worse and worse. </span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The courts </span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>ignore the Law,</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <i>so
+</i>they don’t render justice; </span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      sinners are in the majority, </span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        so they pervert justice. </span></p>
+
 <p class="section-ref">Hab 1:1-4</p>
+
 
 ### The LORD’s Answer
 
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> <u>The</u><u> </u>LORD<u>’s</u><u> </u><em><u>first </u></em><u>answer</u>: <em>“Look a</em><em>round at</em><em> the nations </em> <em>and be astounded.</em> <em>	</em><em>	</em><em>I’m doing something in your </em><em>own day</em><em> </em> <em>you wouldn’t believe if </em><em>somebody</em><em> told you.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The
+</span></u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s
+<i>first </i>answer</span></u><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>:</span></span></p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>I’m arousing the </em><em>Babylonia</em><em>ns, </em> <em>	</em><em>	</em><em>	</em><em>that fierce</em><em>,</em><em> impetuous people</em><em> </em> <em>	</em><em>	that marches</em><em> </em><em>across</em><em> the</em><em> region</em> <em>	</em><em>to seize </em><em>places to live</em><em> that aren’t theirs.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Look around at the nations </span></i></p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>They’</em><em>re dreaded and </em><em>feared;</em> <em>	</em><em>	</em><em>	they’re a law unto themselves</em> <em>	</em><em>	</em><em>	and</em><em> make their own rules </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and be astounded.</span></i></p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>Their horses are </em><em>fast</em><em>er than </em><em>cheetah</em><em>s</em><em>, </em> <em>	</em><em>	</em><em>more </em><em>vicious</em><em> than wolves </em><em>at dusk</em><em>.</em> <em>Their </em><em>cavalry comes charging from far away </em> <em>	</em><em>	</em><em>	and</em><em> swoop</em><em>s</em><em> down like eagles to devour</em><em> their prey</em><em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            I’m doing something in your own day </span></i></p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>They come </em><em>bent on</em><em> </em><em>violence;</em> <em>	</em><em>	</em><em>	</em><em>their horde</em><em>s</em><em> surge forward </em><em>like a desert wind</em> <em>	</em><em>	</em><em>	</em><em>and </em><em>sweep</em><em> captives</em><em> away</em><em> like sand.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>you wouldn’t believe if somebody told you.</span></i></p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>They scoff at kings</em><em> and ridicule </em><em>rulers;</em> <em>	</em><em>	</em><em>	t</em><em>hey laugh at fortresses </em> <em>	</em><em>	</em><em>	</em><em>and pile up r</em><em>amparts</em><em> to </em><em>besiege </em><em>them.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’m arousing the Babylonians, </span></i></span></p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> <em>They </em><em>rush</em><em> through like the wind and </em><em>move </em><em>on</em><em>;</em> <em>	</em><em>	</em><em>	</em><em>they’re guilty men whose </em><em>power</em><em> is their god.”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        that fierce, impetuous people </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            that marches across the region</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      to seize places to live that aren’t theirs.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’re dreaded and feared;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        they’re a law unto themselves</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        and make their own rules </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Their horses are faster than cheetahs, </span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            more vicious than wolves at dusk.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Their cavalry comes charging from far away </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        and swoops down like eagles to devour their prey.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They come bent on violence;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        their hordes surge forward like a desert wind</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        and sweep captives away like sand.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They scoff at kings and ridicule rulers;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        they laugh at fortresses </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        and pile up ramparts to besiege them.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They rush through like the wind and move on;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        they’re guilty men whose power is their god.”</span></i></span></p>
+
 <p class="section-ref">Hab 1:5-11</p>
+
 
 ### Habakkuk’s Second Complaint
 
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> Aren’t you from everlasting, LORD, my God, my Holy One? Surely you won’t let us die. You, LORD, have appointed <em>the Babylonians</em> to judge us; you, Rock, have sent them to punish us.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Aren’t you from everlasting, </span></span></p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> You’re too pure to approve of evil; you can’t countenance wickedness. Why do you tolerate treacherous people? Why are you silent when sinners swallow up people better than themselves?</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, my God, my Holy One?</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        Surely you won’t let us die.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You, L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, have appointed <i>the Babylonians</i> to judge us; </span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        you, Rock, have sent them to punish us.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’re too pure to approve of evil;</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        you can’t countenance wickedness.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Why do you tolerate treacherous people? </span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Why are you silent when sinners swallow up </span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        people better than themselves?</span></p>
+
 <p class="section-ref">Hab 1:12-13</p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> They treat us like fish in the sea, like creatures with no rulers.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They treat us like fish in the sea,</span></span></p>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> Sinful people fish us out with hooks and scoop us up with nets. They catch us in their seines; they’re happy and celebrate.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        like creatures with no rulers.</span></p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> So they sacrifice to their seines and burn incense to their fishing nets, because they make large catches with them and have lots to eat.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk122951811"><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Sinful people fish us out with hooks</span></span></p>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> Will they empty their nets then and keep on killing nations without mercy?</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and scoop us up with nets.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        They catch us in their seines;</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      they’re happy and celebrate.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So they sacrifice to their seines</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and burn incense to their fishing nets,</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        because they make large catches with them</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and have lots to eat.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Will they empty their nets then</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        and keep on killing nations without mercy?</span></p>
+
 <p class="section-ref">Hab 1:14-17</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

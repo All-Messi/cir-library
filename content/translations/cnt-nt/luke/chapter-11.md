@@ -1,77 +1,140 @@
 ---
 book: Luke
 chapter: 11
-next: chapter-12
-prev: chapter-10
 title: Luke 11
 translation: CNT
 type: chapter
 weight: 11
+prev: chapter-10
+next: chapter-12
 ---
 
 ## Luke Chapter 11
 
+
 ### Discourse on Prayer
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> He was praying in a place. When he finished, one of his disciples said, “<em>T</em><em>each us </em><em>how </em><em>to pray like John </em><em>used to teach</em><em> his disciples.”</em></span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> He said,<em> </em> <em>“When you pray, say,</em> <em>‘Father, you</em><em> are holy.</em> <em>	</em><em>We want y</em><em>our kingdom </em><em>to </em><em>come.</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He was praying in a place. When he finished, one of his disciples said, “<i>Teach us how to pray like John used to teach his disciples.”</i></span></span></p>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> <em>Give us our </em><em>food </em><em>each day.</em><em> </em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said,<i> </i></span></span></p>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> <em>Forgive us of our sins</em> <em>	</em><em>	</em><em>because </em><em><u>we</u></em><em> </em><em>forgive everybody that</em><em>’s in debt to</em><em> us.</em> <em>Don’t let us get led into </em><em>temptation.’</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“When you pray, say,</span></i></p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>“Which of you would go to a friend in the middle of the night and say, ‘Lend me three loaves of bread.</em><em> </em><strong><sup>6</sup></strong><em>A friend</em><em> of mine</em><em> has come, and I don’t have anything to feed him.’</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>             <i>‘Father, you are holy.</i></span></p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>“</em><em>From inside, the friend would</em><em> answer, ‘Don’t bother me.</em><em> </em><em>The door’s already shut</em><em>;</em><em> the kids are in bed with me.</em><em> </em><em>I can’t </em><em>get up to give you anything.’ </em><strong><sup>8</sup></strong><em>Though he didn’t want to</em><em>, </em><em>he</em><em> got up and gave him what he needed</em><em> </em><em>because he was his friend and</em><em> persisted. </em><strong><sup>9</sup></strong><em>Ask and you’ll receive, seek and you’ll find, knock and it’</em><em>ll </em><em>o</em><em>pen</em><em> for you.</em><em> </em><strong><sup>10</sup></strong><em>The one</em><em> that asks receives, </em><em>the one</em><em> that seeks finds, </em><em>the one</em><em> that knocks it’</em><em>ll open for</em><em>.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            We want your kingdom to come.</span></i></p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> <em>“</em><em>I</em><em>f </em><em>your</em><em> son asks for a fish, would </em><em>you give him a snake instead? </em><strong><sup>12</sup></strong><em>I</em><em>f he asks for an egg, would </em><em>you </em><em>give him a scorpion?</em><em> </em><strong><sup>13</sup></strong><em>If you, being sinful,</em><em> know how to give good things to your </em><em>kids</em><em>, how much more will the heavenly Father g</em><em>ive the Holy Spirit to people that</em><em> ask him.”</span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>             </span></i><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Give us our food each day. </span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  4</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Forgive us of our sins</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        because
+<u>we</u> forgive everybody that’s in debt to us.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Don’t let us get led into temptation.’</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Which of you would go to a friend in the middle of the night and say, ‘Lend me three loaves of bread. </span></i></span>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A friend of mine has come, and I don’t have anything to feed him.’</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“From inside, the friend would answer, ‘Don’t bother me. The door’s already shut; the kids are in bed with me. I can’t get up to give you anything.’ </span></i></span>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Though he didn’t want to, he got up and gave him what he needed because he was his friend and persisted. </span></i></span>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ask and you’ll receive, seek and you’ll find, knock and it’ll open for you. </span></i></span>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The one that asks receives, the one that seeks finds, the one that knocks it’ll open for.</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If your son asks for a fish, would you give him a snake instead? </span></i></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If he asks for an egg, would you give him a scorpion? </span></i></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you, being sinful, know how to give good things to your kids, how much more will the heavenly Father give the Holy Spirit to people that ask him.”                                                                                 </span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></b></span></span></p>
+
 <p class="section-ref">Lk 11:1-13</p>
 
-### The Pharisees’ Charge That Jesus  	Was in League with the Devil
+
+### The Pharisees’ Charge That Jesus
 
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> He was casting a demon out that made a man mute. When he’d cast it out, the man could speak, and the crowd was surprised. <strong><sup>15</sup></strong>Some of them said, <em>“He casts out demons by Beelzebub, the ruler of demons.”</em> <strong><sup>16</sup></strong>Others, trying to test him, were looking for him to give them a sign out of the sky.</span>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> He knew what they were thinking, <em>“</em><em>An</em><em>y kingdom </em><em>falls that’s at cross purposes with</em><em> itself.</em><em> </em><strong><sup>18</sup></strong><em>If Satan </em><em>is at cross purposes with</em><em> himself, how will his kingdom stand—because you’re saying</em><em> I cast out demons by Beelzebub? </em><strong><sup>19</sup></strong><em>If I</em><em>’m</em><em> cast</em><em>ing</em><em> out demons by Beelzebub, who </em><em>do</em><em> your</em><em> student</em><em>s cast them out by?</em><em> T</em><em>hey’ll be your judges.</em><em> </em></span>
+### Was in League with the Devil
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> <em>“B</em><em>ut if I</em><em>’m</em><em> cast</em><em>ing</em><em> out demons by the finger of God, then </em><em>his kingdom </em><em>has come to you.</em><em> </em><strong><sup>21</sup></strong><em>When a strong man, fully armed, guards his courtyard, his possessions are undisturbed.</em><em> </em><strong><sup>22</sup></strong><em>When somebody stronger than </em><em>he is</em><em> attacks and overpowers him, he seizes the armor </em><em>the man</em><em> depended on and </em><em>scatters</em><em> his plunder.</em><em> </em><strong><sup>23</sup></strong><em>Whoever’s not with me is against me, and whoever doesn’t gather with me scatters </em><em>around</em><em>.</em></span>
 
-<span class="verse" id="v24"><sup class="verse-num">24</sup> <em>“When an unclean spirit </em><em>leaves</em><em> a person, it roams </em><em>around in</em><em> dry place</em><em>s, looking for rest. When it doesn’t find</em><em> any, it says, ‘I’ll go back to the house I </em><em>left</em><em>.’</em><em> </em><strong><sup>25</sup></strong><em>When he goes, he finds it swept out and decorated.</em><em> </em><strong><sup>26</sup></strong><em>Then he takes </em><em>along seven</em><em> spirits </em><em>worse</em><em> than </em><em>him,</em><em> goes in</em><em>,</em><em> and settles down there.</em><em> </em><em>The person’s last condition is worse than the first.”</span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He was casting a demon out that made a man mute. When he’d cast it out, the man could speak, and the crowd was surprised. </span></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Some of them said, <i>“He casts out demons by Beelzebub, the ruler of demons.”</i> </span></span>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Others, trying to test him, were looking for him to give them a sign out of the sky.</span></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He knew what they were thinking, </span></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Any kingdom falls that’s at cross purposes with itself. </span></i><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If Satan is at cross purposes with himself, how will his kingdom stand—because you’re saying I cast out demons by Beelzebub? </span></i></span>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If I’m casting out demons by Beelzebub, who do your students cast them out by? They’ll be your judges. </span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“But if I’m casting out demons by the finger of God, then his kingdom has come to you. </span></i></span>
+<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When a strong man, fully armed, guards his courtyard, his possessions are undisturbed. </span></i></span>
+<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When somebody stronger than he is attacks and overpowers him, he seizes the armor the man depended on and scatters his plunder. </span></i></span>
+<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Whoever’s not with me is against me, and whoever doesn’t gather with me scatters around.</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“When an unclean spirit leaves a person, it roams around in dry places, looking for rest. When it doesn’t find any, it says, ‘I’ll go back to the house I left.’ </span></i></span>
+<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he goes, he finds it swept out and decorated. </span></i></span>
+<span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then he takes along seven spirits worse than him, goes in, and settles down there. The person’s last condition is worse than the first.”</span></i></span></span></p>
+
 <p class="section-ref">Lk 11:14-26</p>
 
-<span class="verse" id="v27"><sup class="verse-num">27</sup> While he was talking, a woman in the crowd shouted, <em>“Blessed is the womb that bore you and the breasts you nursed.”</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>While he was talking, a woman in the crowd shouted, <i>“Blessed is the womb that bore you and the breasts you nursed.”</i></span></span></p>
 
-<span class="verse" id="v28"><sup class="verse-num">28</sup> But <u>he</u> said, “<em>More important, blessed are people</em><em> that hear God’s </em><em>message</em><em> and keep it.”</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But
+<u>he</u> said, “<i>More important, blessed are people that hear God’s message and keep it.”</i></span></span></p>
 
-<span class="verse" id="v29"><sup class="verse-num">29</sup> As the crowds were growing, he said<em>, </em> <em>“This is a wicked </em><em>time. People are looking for a sign, but they’re not going to </em><em>get </em><em>one</em><em> </em><em>other than</em><em> the sign of Jonah.</em><em> </em><strong><sup>30</sup></strong><em>As </em><em>he</em><em> was a sign to the Ninevites, so the </em><em>Son of Man</em><em> will be to </em><em>people of today</em><em>.</em><em> </em><strong><sup>31</sup></strong><em>The queen of the south will stand up in the</em><em> judgment with people of today and condemn them. S</em><em>he came from the ends of the earth to hear </em><em>Solomon’s</em><em> wisdom, and something greater than Solomon is here.</em><em> </em><strong><sup>32</sup></strong><em>The people of Nineveh will stand up in the judgment with</em><em> people today and condemn them. T</em><em>hey repented </em><em>when</em><em> Jonah</em><em> preached to them</em><em>, and something greater than Jonah is here.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As the crowds were growing, he said<i>, </i></span></span></p>
 
-<span class="verse" id="v33"><sup class="verse-num">33</sup> <em>“Nobody lights a lamp and puts it in the cellar [or under a b</em><em>as</em><em>ket]</em><em><sup>ms</sup></em><em>.</em><em> </em><em>They put it</em><em> on a stand so people </em><em>that come</em><em> in can see </em><em>it</em><em>.</em><em> </em><strong><sup>34</sup></strong><em>Your eye is the lamp for</em><em> </em><em>your</em><em> body.</em><em> </em><em>When your eye</em><em>s are</em><em> clear, your whole body </em><em>has</em><em> light; but when </em><em>they’re</em><em> bad, your body</em><em> is also in the dark</em><em>.</em><em> </em><strong><sup>35</sup></strong><em>Watch out so the light</em><em> that’s</em><em> in you won’t be darkness.</em><em> </em><strong><sup>36</sup></strong><em>If y</em><em>our whole body has light, it’s like</em><em> a </em><em>bright </em><em>lamp </em><em>that gives you light</em><em>.”</em><em></span>
-<p class="section-ref">Lk 11:27-36</p>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“This is a wicked time. People are looking for a sign, but they’re not going to get one other than the sign of Jonah. </span></i><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As he was a sign to the Ninevites, so the Son of Man will be to people of today. </span></i></span>
+<span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The queen of the south will stand up in the judgment with people of today and condemn them. She came from the ends of the earth to hear Solomon’s wisdom, and something greater than Solomon is here. </span></i></span>
+<span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The people of Nineveh will stand up in the judgment with people today and condemn them. They repented when Jonah preached to them, and something greater than Jonah is here.</span></i></span></p>
 
-<span class="verse" id="v37"><sup class="verse-num">37</sup> When he’d finished speaking, a Pharisee invited him to eat with him. He went in and directly reclined at table. <strong><sup>38</sup></strong>When the Pharisee saw it, he was surprised that Jesus hadn’t ceremonially washed his hands before the meal.</span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Nobody lights a lamp and puts it in the cellar [or under a basket]<sup>ms</sup>. They put it on a stand so people that come in can see it. </span></i></span>
+<span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Your eye is the lamp for your body. When your eyes are clear, your whole body has light; but when they’re bad, your body is also in the dark. </span></i></span>
+<span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Watch out so the light that’s in you won’t be darkness. </span></i></span>
+<span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If your whole body has light, it’s like a bright lamp that gives you light.”                                                                                        </span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Lk 11:27-36</span></b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>            </span></i></span></p>
 
-<span class="verse" id="v39"><sup class="verse-num">39</sup> The Lord said to him<em>, </em> <em>“Y</em><em>ou Pharisees clean the outside of the cup and dish, but inside you’re </em><em>filled with</em><em> </em><em>theft</em><em> and wickedness.</em><em> </em><strong><sup>40</sup></strong><em>You foolish people, didn’t the One that made the outside make the inside too?</em><em> </em><strong><sup>41</sup></strong><em>G</em><em>ive the internal things over to charity, and everything will be clean to you.</em><em> </em><em> </em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he’d finished speaking, a Pharisee invited him to eat with him. He went in and directly reclined at table. </span></span>
+<span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the Pharisee saw it, he was surprised that Jesus hadn’t ceremonially washed his hands before the meal. </span></span></p>
 
-<span class="verse" id="v42"><sup class="verse-num">42</sup> <em>“But woe to you Pharisees!</em><em> </em><em>You </em><em>give a tenth of</em><em> mint</em><em>,</em><em> rue</em><em>,</em><em> and vegetable</em><em>s</em><em>, </em><em>but</em><em> pass over justice and </em><em>love for</em><em> God.</em><em> You should have done those without neglecting the</em><em>se.</em><em> </em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v39" id="v39"><sup class="verse-num">39</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Lord said to him<i>, </i></span></span></p>
 
-<span class="verse" id="v43"><sup class="verse-num">43</sup> <em>“Woe to you Pharisees!</em><em> </em><em>You love the </em><em>most prominent</em><em> seat</em><em>s</em><em> in the synagogues and the greetings in the marketplaces.</em><em> </em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“You Pharisees clean the outside of the cup and dish, but inside you’re filled with theft and wickedness. </span></i><span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You foolish people, didn’t the One that made the outside make the inside too? </span></i></span>
+<span class="verse verse-v41" id="v41"><sup class="verse-num">41</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Give the internal things over to charity, and everything will be clean to you.  </span></i></span></p>
 
-<span class="verse" id="v44"><sup class="verse-num">44</sup> <em>“Woe to you!</em><em> </em><em>You’re like unmarked graves that people walk on without knowing it.”</em><em> </em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v42" id="v42"><sup class="verse-num">42</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“But woe to you Pharisees! You give a tenth of mint, rue, and vegetables, but pass over justice and love for God. You should have done those without neglecting these. </span></i></span></p>
 
-<span class="verse" id="v45"><sup class="verse-num">45</sup> A lawyer spoke up<sup>p</sup>, <em>“Rabbi, when you say things like that, you insult us too.”</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v43" id="v43"><sup class="verse-num">43</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Woe to you Pharisees! You love the most prominent seats in the synagogues and the greetings in the marketplaces. </span></i></span></p>
 
-<span class="verse" id="v46"><sup class="verse-num">46</sup> Jesus said, <em>“Woe to you lawyers as well!</em><em> </em><em>You load people down with </em><em>hard-to-carry</em><em> burdens, but </em><em><u>you</u></em><em> don’t touch them with one of your fingers.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v44" id="v44"><sup class="verse-num">44</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Woe to you! You’re like unmarked graves that people walk on without knowing it.” </span></i></span></p>
 
-<span class="verse" id="v47"><sup class="verse-num">47</sup> <em>“Woe to you!</em><em> </em><em>You build the tombs of the prophets, and </em><em>people like you</em><em> killed them.</em><em> </em><strong><sup>48</sup></strong><em>So you’re witnesses and approve of </em><em>what people like you did; </em><em>they killed them; you build their tombs.</em><em> </em><strong><sup>49</sup></strong><em>So God</em><em> in his wisdom</em><em> </em><em>has </em><em>said, ‘I’ll send them prophets and apostles.</em><em> </em><em>They’ll persecute some and kill </em><em>others</em><em>.</em><strong><em> </em></strong><strong><sup>50</sup></strong><em>So the blood of all the prophets shed </em><em>since the</em><em> world </em><em>began God </em><em>will requir</em><em>e</em><em> of this generation—</em><strong><sup>51</sup></strong><em>from the blood of Abel to Zechariah</em><em> that they murdered</em><em> between the altar and the </em><em>T</em><em>emple.</em><em> </em><em>Yes, </em><em>he</em><em>’ll require</em><em> it</em><em> of this generation.’</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v45" id="v45"><sup class="verse-num">45</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A lawyer spoke up<sup>p</sup>, <i>“Rabbi, when you say things like that, you insult us too.”</i></span></span></p>
 
-<span class="verse" id="v52"><sup class="verse-num">52</sup> <em>“Woe to you lawyers!</em><em> </em><em>Y</em><em>ou take away the key for understanding</em><em>.</em><em> </em><em>You </em><em>do</em><em>n’t go</em><em> </em><em>in yourselves, a</em><em>nd you stand in the way of the ones</em><em> that are trying to.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v46" id="v46"><sup class="verse-num">46</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus said, </span></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Woe to you lawyers as well! You load people down with hard-to-carry burdens, but <u>you</u> don’t touch them with one of your fingers.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v47" id="v47"><sup class="verse-num">47</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Woe to you! You build the tombs of the prophets, and people like you killed them. </span></i></span>
+<span class="verse verse-v48" id="v48"><sup class="verse-num">48</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So you’re witnesses and approve of what people like you did; they killed them; you build their tombs. </span></i></span>
+<span class="verse verse-v49" id="v49"><sup class="verse-num">49</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So God in his wisdom has said, ‘I’ll send them prophets and apostles. They’ll persecute some and kill others.</span></i><b><i><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></i></b></span>
+<span class="verse verse-v50" id="v50"><sup class="verse-num">50</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So the blood of all the prophets shed since the world began God will require of this generation—</span></i></span>
+<span class="verse verse-v51" id="v51"><sup class="verse-num">51</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>from the blood of Abel to Zechariah that they murdered between the altar and the Temple. Yes, he’ll require it of this generation.’</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v52" id="v52"><sup class="verse-num">52</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Woe to you lawyers! You take away the key for understanding. You don’t go in yourselves, and you stand in the way of the ones that are trying to.”</span></i></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v53" id="v53"><sup class="verse-num">53</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Before he left, the scribes got terribly hostile and badgered him with questions about all kinds of things, </span></span>
+<span class="verse verse-v54" id="v54"><sup class="verse-num">54</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>trying to goad him into saying something they could use against him.                                                                                               </span></span></p>
+
+<p class="section-ref">Lk 11:37-54</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

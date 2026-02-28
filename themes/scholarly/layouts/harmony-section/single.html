@@ -1,70 +1,341 @@
 {{ define "main" }}
-<div class="harmony-section">
-    <!-- Sticky Navigation -->
-    <div class="harmony-sticky-nav">
-        <div class="harmony-nav-inner">
-            <a href="{{ "translations/harmony/" | absURL }}" class="harmony-back">← Outline</a>
-            
-            <select class="harmony-dropdown" id="topic-dropdown">
-                <option value="">Jump to a topic...</option>
-                {{ $currentPage := .File.Path }}
-                {{ range $.Site.Data.harmony_topics }}
-                <option value="{{ .url }}">{{ .title }}{{ if .ref }} ({{ .ref }}){{ end }}</option>
-                {{ end }}
-            </select>
-            
+{{ $currentSection := .Params.section }}
+
+<article class="chapter-reading harmony-reading" id="chapter-reading">
+    <!-- Top Toolbar (matches text reader style) -->
+    <nav class="reading-toolbar" id="reading-toolbar">
+        <div class="toolbar-left">
+            <!-- Mini Color Legend -->
             <div class="harmony-legend-mini">
                 <span class="gospel-mt">Mt</span>
                 <span class="gospel-mk">Mk</span>
                 <span class="gospel-lk">Lk</span>
                 <span class="gospel-jn">Jn</span>
             </div>
+        </div>
 
+        <!-- Text Search -->
+        <div class="toolbar-search-wrapper">
+            <div class="toolbar-search">
+                <svg class="toolbar-search-icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+                <input type="text" id="harmony-search-input" class="toolbar-search-input" placeholder="Search harmony..." autocomplete="off">
+            </div>
+            <div id="harmony-search-dropdown" class="bible-search-dropdown"></div>
+        </div>
+
+        <div class="toolbar-right">
+            <!-- Jump to Topic -->
+            <div class="toolbar-select" onclick="toggleTopicOverlay()">
+                <span class="toolbar-select-value">Topics</span>
+                <svg width="10" height="10" viewBox="0 0 12 12" fill="none"><path d="M3 5l3 3 3-3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+            </div>
             {{ partial "pdf-link.html" . }}
+            <button class="toolbar-btn font-btn" onclick="toggleReaderSettings()" data-tip="Text size">
+                <span class="font-icon">A</span><span class="font-icon font-icon-lg">A</span>
+            </button>
+        </div>
+    </nav>
+
+    <!-- Topic Overlay (jump to topic) -->
+    <div id="topic-overlay" class="overlay" style="display:none;">
+        <div class="overlay-content overlay-narrow">
+            <div class="overlay-header">
+                <h3>Jump to Topic</h3>
+                <button class="overlay-close" onclick="toggleTopicOverlay()">✕</button>
+            </div>
+            <div class="books-list">
+                {{ range $.Site.Data.harmony_topics }}
+                <a href="{{ "translations/harmony/" | absURL }}{{ .url }}" class="book-item">
+                    {{ .title }}{{ if .ref }} <span style="color:var(--color-text-muted,#888);font-size:0.85em;">({{ .ref }})</span>{{ end }}
+                </a>
+                {{ end }}
+            </div>
         </div>
     </div>
 
-    <header class="page-header harmony-header">
-        <h1>{{ .Title }}</h1>
-        <p class="section-reference">{{ .Params.reference }}</p>
+    <!-- Floating Prev/Next Arrows -->
+    {{ if .Params.prev }}
+    <a href="{{ .Params.prev }}/" class="float-arrow float-prev" aria-label="Previous section">
+        <svg width="20" height="20" viewBox="0 0 20 20" fill="none"><path d="M12 4l-6 6 6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </a>
+    {{ end }}
+    {{ if .Params.next }}
+    <a href="{{ .Params.next }}/" class="float-arrow float-next" aria-label="Next section">
+        <svg width="20" height="20" viewBox="0 0 20 20" fill="none"><path d="M8 4l6 6-6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </a>
+    {{ end }}
+
+    <!-- Section Header -->
+    <header class="harmony-header" style="text-align:center; padding:1rem 0 0.5rem; margin-bottom:1.5rem;">
+        <h1 style="margin:0 0 0.25rem; font-size:1.6rem;">{{ .Title }}</h1>
+        {{ if .Params.reference }}
+        <p class="section-reference" style="color:var(--color-text-muted,#888); font-family:var(--font-ui,'Source Sans Pro',sans-serif); font-size:0.9rem; margin:0;">{{ .Params.reference | safeHTML }}</p>
+        {{ end }}
     </header>
 
-    <!-- Full Color Legend -->
-    <div class="harmony-legend">
-        <span class="gospel-mt">Matthew</span>
-        <span class="gospel-mk">Mark</span>
-        <span class="gospel-lk">Luke</span>
-        <span class="gospel-jn">John</span>
-    </div>
-
     <!-- Main Content -->
-    <div class="harmony-content">
+    <div class="chapter-content harmony-content" id="chapter-text">
         {{ .Content }}
     </div>
 
-    <!-- Bottom Navigation -->
-    <div class="harmony-section-nav">
-        {{ if .Params.prev }}
-        <a href="{{ .Params.prev }}/" class="nav-prev">← Previous</a>
-        {{ else }}
-        <span class="nav-placeholder"></span>
-        {{ end }}
-        
-        <a href="{{ "translations/harmony/" | absURL }}" class="nav-outline">Outline</a>
-        
-        {{ if .Params.next }}
-        <a href="{{ .Params.next }}/" class="nav-next">Next →</a>
-        {{ else }}
-        <span class="nav-placeholder"></span>
-        {{ end }}
-    </div>
-</div>
+    <footer class="chapter-footer">
+        <p class="translation-note">
+            Gospel Harmony by {{ .Site.Params.author }}
+        </p>
+    </footer>
+</article>
+
+<style>
+/* Harmony-specific overrides — wider than text reader.
+   Use article.harmony-reading for higher specificity over reading-ui.html */
+article.harmony-reading {
+    max-width: 960px;
+    padding: 0 48px;
+}
+
+article.harmony-reading .reading-toolbar {
+    margin-left: -60px;
+    margin-right: -60px;
+}
+
+/* Arrows just outside the content column */
+.harmony-reading .float-prev { left: max(16px, calc(50% - 540px)); }
+.harmony-reading .float-next { right: max(16px, calc(50% - 540px)); }
+
+@media (max-width: 1080px) {
+    article.harmony-reading .reading-toolbar {
+        margin-left: -20px;
+        margin-right: -20px;
+    }
+}
+
+@media (max-width: 960px) {
+    article.harmony-reading .reading-toolbar {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .harmony-reading .float-prev { left: 12px; }
+    .harmony-reading .float-next { right: 12px; }
+}
+
+@media (max-width: 900px) {
+    article.harmony-reading { padding: 0 24px; }
+}
+
+@media (max-width: 640px) {
+    article.harmony-reading { padding: 0 12px; }
+    .harmony-reading .float-arrow {
+        top: auto;
+        bottom: 24px;
+        transform: none;
+    }
+}
+</style>
 
 <script>
-document.getElementById('topic-dropdown').addEventListener('change', function() {
-    if (this.value) {
-        window.location.href = '{{ "translations/harmony/" | absURL }}' + this.value;
+function toggleTopicOverlay() {
+    toggleOverlay('topic-overlay');
+    var active = document.querySelector('#topic-overlay .book-item.active');
+    if (active) active.scrollIntoView({ block: 'center', behavior: 'instant' });
+}
+
+// Close overlay on backdrop click
+(function() {
+    var el = document.getElementById('topic-overlay');
+    if (el) el.addEventListener('click', function(e) {
+        if (e.target === this) closeOverlay('topic-overlay');
+    });
+})();
+
+/* ---- Harmony Text Search ---- */
+var harmonySearchData = null;
+
+fetch('{{ "index.json" | absURL }}')
+    .then(function(r) { return r.json(); })
+    .then(function(data) {
+        harmonySearchData = data.filter(function(item) {
+            return item.permalink && item.permalink.indexOf('/harmony/') !== -1;
+        });
+    })
+    .catch(function() {});
+
+(function() {
+    var input = document.getElementById('harmony-search-input');
+    var dropdown = document.getElementById('harmony-search-dropdown');
+    if (!input) return;
+
+    var debounce = null;
+    input.addEventListener('input', function() {
+        clearTimeout(debounce);
+        debounce = setTimeout(doHarmonySearch, 150);
+    });
+
+    input.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape') {
+            dropdown.style.display = 'none';
+            input.blur();
+        }
+    });
+
+    document.addEventListener('click', function(e) {
+        if (!e.target.closest('.toolbar-search-wrapper')) {
+            dropdown.style.display = 'none';
+        }
+    });
+
+    function doHarmonySearch() {
+        var query = input.value.trim();
+        if (query.length < 2 || !harmonySearchData) {
+            dropdown.style.display = 'none';
+            return;
+        }
+
+        var q = query.toLowerCase();
+        
+        var pageContent = document.querySelector('.harmony-content');
+        var currentPageText = pageContent ? pageContent.textContent : '';
+        var currentMatch = currentPageText.toLowerCase().indexOf(q) >= 0;
+
+        var results = [];
+        
+        if (currentMatch) {
+            results.push({
+                type: 'current',
+                title: 'Found on this page',
+                subtitle: 'Section {{ $currentSection }}: {{ .Title }}',
+                url: '#'
+            });
+        }
+
+        harmonySearchData.forEach(function(item) {
+            if ((item.content && item.content.toLowerCase().includes(q)) ||
+                (item.title && item.title.toLowerCase().includes(q))) {
+                var snippet = '';
+                if (item.content) {
+                    var idx = item.content.toLowerCase().indexOf(q);
+                    if (idx >= 0) {
+                        var start = Math.max(0, idx - 40);
+                        var end = Math.min(item.content.length, idx + q.length + 60);
+                        snippet = (start > 0 ? '…' : '') + item.content.substring(start, end) + (end < item.content.length ? '…' : '');
+                    }
+                }
+                results.push({
+                    type: 'text',
+                    title: item.title,
+                    subtitle: snippet,
+                    url: item.permalink
+                });
+            }
+        });
+
+        if (results.length === 0) {
+            dropdown.innerHTML = '<div class="bsd-empty">No results</div>';
+            dropdown.style.display = 'block';
+            return;
+        }
+
+        dropdown.innerHTML = results.slice(0, 8).map(function(r) {
+            if (r.type === 'current') {
+                return '<a href="' + r.url + '" class="bsd-item bsd-nav" onclick="highlightOnPage(\'' + q.replace(/'/g, "\\'") + '\'); return false;">' +
+                    '<span class="bsd-title">' + r.title + '</span>' +
+                    '<span class="bsd-sub">' + r.subtitle + '</span>' +
+                    '</a>';
+            }
+            return '<a href="' + r.url + '" class="bsd-item bsd-text">' +
+                '<span class="bsd-title">' + r.title + '</span>' +
+                '<span class="bsd-sub">' + r.subtitle + '</span>' +
+                '</a>';
+        }).join('');
+        dropdown.style.display = 'block';
+    }
+
+    /* ---- Mobile search ---- */
+    var wrapper = document.querySelector('.toolbar-search-wrapper');
+    var searchBox = document.querySelector('.toolbar-search');
+    var backdrop = null;
+
+    function isMobile() { return window.innerWidth <= 640; }
+
+    function openMobileSearch() {
+        if (!wrapper) return;
+        wrapper.classList.add('search-expanded');
+        input.style.display = 'block';
+        input.focus();
+        backdrop = document.createElement('div');
+        backdrop.className = 'mobile-search-backdrop';
+        backdrop.addEventListener('click', closeMobileSearch);
+        document.body.appendChild(backdrop);
+    }
+
+    function closeMobileSearch() {
+        if (!wrapper) return;
+        wrapper.classList.remove('search-expanded');
+        if (backdrop) { backdrop.remove(); backdrop = null; }
+        dropdown.style.display = 'none';
+        if (isMobile()) {
+            input.style.display = '';
+            input.value = '';
+        }
+    }
+
+    if (searchBox) {
+        searchBox.addEventListener('click', function(e) {
+            if (isMobile() && !wrapper.classList.contains('search-expanded')) {
+                e.stopPropagation();
+                openMobileSearch();
+            }
+        });
+    }
+})();
+
+function highlightOnPage(query) {
+    var content = document.querySelector('.harmony-content');
+    if (!content || !query) return;
+    
+    content.querySelectorAll('.search-highlight').forEach(function(el) {
+        el.outerHTML = el.textContent;
+    });
+    
+    var walker = document.createTreeWalker(content, NodeFilter.SHOW_TEXT);
+    var q = query.toLowerCase();
+    
+    while (walker.nextNode()) {
+        var node = walker.currentNode;
+        var idx = node.textContent.toLowerCase().indexOf(q);
+        if (idx >= 0) {
+            var span = document.createElement('span');
+            span.className = 'search-highlight';
+            span.style.background = '#ffd54f';
+            span.style.padding = '0 2px';
+            span.style.borderRadius = '2px';
+            
+            var range = document.createRange();
+            range.setStart(node, idx);
+            range.setEnd(node, idx + query.length);
+            range.surroundContents(span);
+            
+            span.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            break;
+        }
+    }
+    
+    document.getElementById('harmony-search-dropdown').style.display = 'none';
+}
+
+/* ---- Keyboard nav ---- */
+var prevUrl = {{ if .Params.prev }}"{{ .Params.prev }}/"{{ else }}null{{ end }};
+var nextUrl = {{ if .Params.next }}"{{ .Params.next }}/"{{ else }}null{{ end }};
+document.addEventListener('keydown', function(e) {
+    if (e.target.tagName === 'INPUT' || e.target.tagName === 'SELECT') return;
+    if (e.key === 'ArrowLeft' && prevUrl) window.location.href = prevUrl;
+    if (e.key === 'ArrowRight' && nextUrl) window.location.href = nextUrl;
+    if (e.key === 'Escape') {
+        closeOverlay('topic-overlay');
+        var rs = document.getElementById('reader-settings');
+        if (rs && rs.style.display !== 'none') toggleReaderSettings();
     }
 });
 </script>
+
+{{ partial "reading-ui.html" . }}
 {{ end }}

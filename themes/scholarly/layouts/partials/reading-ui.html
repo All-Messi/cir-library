@@ -435,6 +435,15 @@ body.overlay-open {
 /* ============================================
    VERSE TAP TOOLTIP
    ============================================ */
+
+/* Override Word inline font-size/font-family so all text inherits page size */
+.chapter-content span[style*="font-size"],
+.chapter-content span[style*="font-family"] {
+    font-size: inherit !important;
+    font-family: inherit !important;
+    line-height: inherit !important;
+}
+
 .chapter-content .verse {
     cursor: pointer;
     border-radius: 3px;
@@ -1178,7 +1187,9 @@ function setFontFamily(font) {
 
     function removeTooltip() {
         if (tooltip) { tooltip.remove(); tooltip = null; }
-        if (selectedVerse) { selectedVerse.classList.remove('verse-selected'); selectedVerse = null; }
+        // Remove highlight from ALL verse-selected spans (multi-cell)
+        document.querySelectorAll('.verse-selected').forEach(function(s) { s.classList.remove('verse-selected'); });
+        selectedVerse = null;
     }
 
     function getVerseNums(el) {
@@ -1202,8 +1213,17 @@ function setFontFamily(font) {
         var vals = document.querySelectorAll('.toolbar-select-value');
         var book = vals[0] ? vals[0].textContent.trim() : '';
         var chap = vals[1] ? vals[1].textContent.trim() : '';
+        var trans = vals[2] ? vals[2].textContent.trim() : (document.querySelector('.toolbar-translation-static') ? document.querySelector('.toolbar-translation-static').textContent.trim() : '');
         var nums = getVerseNums(el);
-        if (nums.length === 0) return book + ' ' + chap;
+        // Fallback: extract verse number from verse-vN class
+        if (nums.length === 0) {
+            for (var i = 0; i < el.classList.length; i++) {
+                var m = el.classList[i].match(/^verse-v(\d+)$/);
+                if (m) { nums.push(parseInt(m[1], 10)); break; }
+            }
+        }
+        var suffix = trans ? ' (' + trans + ')' : '';
+        if (nums.length === 0) return book + ' ' + chap + suffix;
         nums.sort(function(a,b) { return a - b; });
         nums = nums.filter(function(v,i) { return i === 0 || v !== nums[i-1]; });
         var ranges = [], s = nums[0], e = nums[0];
@@ -1212,13 +1232,29 @@ function setFontFamily(font) {
             else { ranges.push(s === e ? '' + s : s + '-' + e); s = e = nums[i]; }
         }
         ranges.push(s === e ? '' + s : s + '-' + e);
-        return book + ' ' + chap + ':' + ranges.join(', ');
+        return book + ' ' + chap + ':' + ranges.join(', ') + suffix;
     }
 
     function getText(el) {
-        var clone = el.cloneNode(true);
-        clone.querySelectorAll('.verse-num').forEach(function(s) { s.remove(); });
-        return clone.textContent.trim().replace(/\s+/g, ' ');
+        // Multi-cell aware: find all spans with same verse-vN class
+        var verseClass = null;
+        for (var i = 0; i < el.classList.length; i++) {
+            if (el.classList[i].match(/^verse-v\d+$/)) { verseClass = el.classList[i]; break; }
+        }
+        var parts = [];
+        if (verseClass) {
+            document.querySelectorAll('.' + verseClass).forEach(function(span) {
+                var clone = span.cloneNode(true);
+                clone.querySelectorAll('.verse-num').forEach(function(s) { s.remove(); });
+                var t = clone.textContent.trim();
+                if (t) parts.push(t);
+            });
+        } else {
+            var clone = el.cloneNode(true);
+            clone.querySelectorAll('.verse-num').forEach(function(s) { s.remove(); });
+            parts.push(clone.textContent.trim());
+        }
+        return parts.join(' ').replace(/\s+/g, ' ');
     }
 
     var copyIcon = '<svg width="12" height="12" viewBox="0 0 16 16" fill="none"><rect x="5" y="5" width="9" height="9" rx="1" stroke="#fff" stroke-width="1.3"/><path d="M3 11V2h9" stroke="#fff" stroke-width="1.3" stroke-linecap="round"/></svg>';
@@ -1227,7 +1263,16 @@ function setFontFamily(font) {
     function showTooltip(verseEl, e) {
         removeTooltip();
         selectedVerse = verseEl;
-        verseEl.classList.add('verse-selected');
+        // Highlight ALL spans with same verse-vN class
+        var vc = null;
+        for (var i = 0; i < verseEl.classList.length; i++) {
+            if (verseEl.classList[i].match(/^verse-v\d+$/)) { vc = verseEl.classList[i]; break; }
+        }
+        if (vc) {
+            document.querySelectorAll('.' + vc).forEach(function(s) { s.classList.add('verse-selected'); });
+        } else {
+            verseEl.classList.add('verse-selected');
+        }
 
         var ref = getRef(verseEl);
         var text = getText(verseEl);

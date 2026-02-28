@@ -1,68 +1,109 @@
 ---
 book: Matthew
 chapter: 20
-next: chapter-21
-prev: chapter-19
 title: Matthew 20
 translation: CNT
 type: chapter
 weight: 20
+prev: chapter-19
+next: chapter-21
 ---
 
 ## Matthew Chapter 20
 
+
 ### Parable About Workers in a Vineyard
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> <em>“The</em><em> kingdom of heaven is like a landowner that went out early to hire workers.</em><em> </em><strong><sup>2</sup></strong><em>He</em><em> agreed to pay them a denarius for the day and sent them</em><em> </em><em>to his vineyard.</em><em> </em><strong><sup>3</sup></strong><em>About</em><em> </em><em>9</em><em> o’clock he went out and saw some other men standing</em><em> idle</em><em> in the marketplace,</em><strong><em> </em></strong><strong><sup>4</sup></strong><em>‘</em><em><u>You</u></em><em> go </em><em>to my vineyard</em><em> too</em><em>, and I’ll pay you what’s right.’</em><em> </em><strong><sup>5</sup></strong><em>At</em><em> </em><em>noon and one o’clock, he did the same thing.</em><em> </em><strong><sup>6</sup></strong><em>About</em><em> five o’clock he found some more standing around, ‘Why are you standing here idle all day?’</em></span>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>“‘Nobody’s</em><em> hired us.’</em> <em>“‘</em><em><u>You</u></em><em> go </em><em>to my vineyard</em><em> too</em><em>.’</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The kingdom of heaven is like a landowner that went out early to hire workers. </span></i></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He agreed to pay them a denarius for the day and sent them to his vineyard. </span></i></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>About 9 o’clock he went out and saw some other men standing idle in the marketplace,</span></i><b><i><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></i></b></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘<u>You</u> go to my vineyard too, and I’ll pay you what’s right.’ </span></i></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At noon and one o’clock, he did the same thing. </span></i></span>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>About five o’clock he found some more standing around, ‘Why are you standing here idle all day?’</span></i></span></p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>“That</em><em> evening, he told his foreman,</em> <em>‘Call the workers and pay</em> <em>them from last to first.’</em><em> </em><strong><sup>9</sup></strong><em>When</em><em> the five o’clock men came, they got a denarius apiece.</em><em> </em><strong><sup>10</sup></strong><em>When</em><em> the first came, they thought they’d get more; but they got a denarius too.</em><em> </em><strong><sup>11</sup></strong><em>They</em><em> complained, </em><strong><sup>12</sup></strong><em>‘These</em><em> last hires worked an hour, and you made them equal to us who bore the burden and scorching heat of the day.’</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“‘Nobody’s hired us.’</span></i></span></p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> <em>“The</em><em> landowner answered one of them, ‘Friend, I’ve been fair with you</em><em>.</em><em> </em><em>Didn’t you agree to a denarius?</em><em> </em><strong><sup>14</sup></strong><em>Take</em><em> what’s yours and go.</em><em> I want to </em><em>pay</em><em> this last hire</em><em> what I paid you.</em><em> </em><strong><sup>15</sup></strong><em>Can’t</em><em> I do </em><em>what I want with what’s mine?</em><em> </em><em>Are you jealous because I’m generous?’</em><em> </em><strong><sup>16</sup></strong><em>That’s</em><em> how </em><em>the last will be first and the first, last.”</span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>“‘<u>You</u> go to my vineyard too.’</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“That evening, he told his foreman,</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> <i>‘Call the workers and pay</i> <i>them from last to first.’ </i></span></span>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the five o’clock men came, they got a denarius apiece. </span></i></span>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the first came, they thought they’d get more; but they got a denarius too. </span></i></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They complained, </span></i></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘These last hires worked an hour, and you made them equal to us who bore the burden and scorching heat of the day.’</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The landowner answered one of them, ‘Friend, I’ve been fair with you. Didn’t you agree to a denarius? </span></i></span>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Take what’s yours and go. I want to pay this last hire what I paid you. </span></i></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Can’t I do what I want with what’s mine? Are you jealous because I’m generous?’ </span></i></span>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That’s how the last will be first and the first, last.”            </span></i></span></span></p>
+
 <p class="section-ref">Mt 20:1-16</p>
+
 
 ### Another Prediction of His Death
 
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> As Jesus was going up to Jerusalem, he took the twelve disciples aside on the way, <strong><sup>18</sup></strong><em>“We’re</em><em> going to Jerusalem, and </em><em>I’ll</em><em> be betrayed to the chief priests and scribes, and they’ll condemn </em><em>me</em><em> to death.</em><em> </em><strong><sup>19</sup></strong><em>They’ll</em><em> turn </em><em>me</em><em> over to the Gentiles to make fun of, flog, and crucify; but on the third day </em><em>I</em><em>’ll resurrect.”</span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As Jesus was going up to Jerusalem, he took the twelve disciples aside on the way,
+</span></span>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“We’re going to Jerusalem, and I’ll be betrayed to the chief priests and scribes, and they’ll condemn me to death. </span></i></span>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’ll turn me over to the Gentiles to make fun of, flog, and crucify; but on the third day I’ll resurrect.”                                                                                            </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
+</span></span></p>
+
 <p class="section-ref">Mt 20:17-19</p>
+
 
 ### James and John’s Request for Rank
 
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> Then Zebedee’s wife came with her sons, bowed down, to ask for something,</span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Zebedee’s wife came with her sons, bowed down, to ask for something,</span></span></p>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> <em>“What</em><em> </em><em>is it</em><em> you want?”</em> <em>“Say that </em><em>my</em><em> two sons will sit on your right and left hand in your kingdom.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         <sup>21</sup></span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“What is it you want?”</span></i></p>
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> Jesus answered, <em>“You</em><em><sup>pl</sup></em><em> don’t know what you’re asking.</em><em> </em><em>Can you</em><em><sup>pl</sup></em><em> drink the cup </em><em><u>I’m</u></em><em> about to drink?”</em> <em>“Yes</em><em>.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <i>“Say that my two sons will sit on your right and left hand in your kingdom.”</i></span></p>
 
-<span class="verse" id="v23"><sup class="verse-num">23</sup> <em>“You’ll</em><em> drink </em><em>it</em><em>, but </em><em>I don’t</em><em> </em><em>decide who sits on my right and left hand. They’re</em><em> the ones my Father prepared it for.”</em><em>  </em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus answered, <i>“You<sup>pl</sup> don’t know what you’re asking. Can you<sup>pl</sup> drink the cup <u>I’m</u> about to drink?”</i></span></span></p>
 
-<span class="verse" id="v24"><sup class="verse-num">24</sup> When the ten heard it, they were indignant at the two brothers.</span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <i>“Yes.”</i></span></p>
 
-<span class="verse" id="v25"><sup class="verse-num">25</sup> Jesus called them over to him, <em>“You know the rulers of the Gentiles lord it over </em><em>them</em><em>;</em><em> </em>their<em> </em><em>important</em><em> </em><em>ones</em><em> </em><em>act like</em><em> tyrants.</em><em> </em><strong><sup>26</sup></strong><em>It</em><em> won’t be that way with</em><em> you.</em><em> </em><em>Whoever wants to be great among you will </em><em>minister to you</em><em>, </em><strong><sup>27</sup></strong><em>whoever</em><em> wants to be firs</em><em>t among you will serve you</em>—<strong><sup>28</sup></strong><em>just</em><em> like </em><em>I</em><em> didn’t come to be served but to serve, and to give </em><em>my</em><em> life as a ransom for many.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“You’ll drink it, but I don’t decide who sits on my right and left hand. They’re the ones my Father prepared it for.”  </span></i></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the ten heard it, they were indignant at the two brothers. </span></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus called them over to him, </span></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“You know the rulers of the Gentiles lord it over them; </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>their<i> important ones act like tyrants. </i></span><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It won’t be that way with you. Whoever wants to be great among you will minister to you, </span></i></span>
+<span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>whoever wants to be first among you will serve you</span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>—</span></span>
+<span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>just like I didn’t come to be served but to serve, and to give my life as a ransom for many.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>   </span></span></p>
+
 <p class="section-ref">Mt 20:20-28</p>
+
 
 ### Healing Two Blind Men at Jericho
 
 
-<span class="verse" id="v29"><sup class="verse-num">29</sup> As they were leaving Jericho, a big crowd was following him. <strong><sup>30</sup></strong>Two blind men were sitting by the road. When they heard that Jesus was going by, they yelled out, <em>“Have mercy on us, </em><em>Lord</em><em>,</em><em><sup>,</sup></em><em> son of David.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As they were leaving Jericho, a big crowd was following him. </span></span>
+<span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Two blind men were sitting by the road. When they heard that Jesus was going by, they yelled out, <i>“Have mercy on us, Lord,</i></span><i><sup><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>,</span></sup></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> son of David.”</span></i></span></p>
 
-<span class="verse" id="v31"><sup class="verse-num">31</sup> The crowd sternly told them to be quiet, but they yelled louder, <em>“Have mercy on us, </em><em>Lord,</em><em> son of David.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The crowd sternly told them to be quiet, but they yelled louder, <i>“Have mercy on us, Lord, son of David.”</i></span></span></p>
 
-<span class="verse" id="v32"><sup class="verse-num">32</sup> Jesus stopped, <em>“What do you want me to do?”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus stopped, <i>“What do you want me to do?”</i></span></span></p>
 
-<span class="verse" id="v33"><sup class="verse-num">33</sup> <em>“M</em><em>ake</em><em> us able to see.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Make us able to see.”</span></i></span></p>
 
-<span class="verse" id="v34"><sup class="verse-num">34</sup> Jesus felt sorry for them and touched their eyelids. Immediately they could see again, and went along with him.</span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus felt sorry for them and touched their eyelids. Immediately they could see again, and went along with him.          </span></span></p>
+
 <p class="section-ref">Mt 20:29-34</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

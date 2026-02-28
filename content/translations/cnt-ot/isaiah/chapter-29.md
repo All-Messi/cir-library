@@ -1,72 +1,199 @@
 ---
 book: Isaiah
 chapter: 29
-next: chapter-30
-prev: chapter-28
 title: Isaiah 29
 translation: CNT
 type: chapter
 weight: 29
+prev: chapter-28
+next: chapter-30
 ---
 
 ## Isaiah Chapter 29
 
+
 ### An Oracle About Jerusalem
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> <em>“Misfortune</em><em> awaits you, Ariel, </em><em>city</em><em> where David camped</em><em>!</em> <em>	</em><em>	</em><em>	Year after year, you observe the festivals on schedule.</em></span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>Yet</em><em> I’ll bring disaster on you, </em><em>Ariel;</em><em>	</em> <em>	</em><em>	</em><em>	you’ll lament and </em><em>mourn;</em> <em>	</em><em>	</em><em>	you’ll be to me what Ariel means </em>[blood-covered altar].</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk123159154"><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>              29<sup>:1</sup></span></b></a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Misfortune awaits you, Ariel, city where David camped!</span></i></p>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> <em>I’ll</em><em> camp against you all </em><em>the way </em><em>around</em> <em>	</em><em>	</em><em>	and set up siege works and battle towers.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        Year after year, you observe the festivals on schedule.</span></i></p>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> <em>You’ll</em><em> be brought </em><em>low;</em> <em>	</em><em>	you’ll speak from the ground</em> <em>	</em><em>	</em><em>	where you lie </em><em>prostrate</em><em>;</em> <em>	</em><em>	</em><em>y</em><em>ou’ll speak like a spirit conjured </em><em>up </em><em>from the dirt,</em> <em>	</em><em>	</em><em>	like a whisper from the grave.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></i><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yet I’ll bring disaster on you, Ariel;       </span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        you’ll lament and mourn;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        you’ll be to me what Ariel means </span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>[blood-covered altar].</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></i><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll camp against you all the way around</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        and set up siege works and battle towers.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></i><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’ll be brought low;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            you’ll speak from the ground</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  where you lie prostrate;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            you’ll speak like a spirit conjured up from the dirt,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  like a whisper from the grave.</span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                              </span></p>
+
 <p class="section-ref">Is 29:1-4</p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>“But</em><em> suddenly your many enemies </em> <strong><em><sup>	</sup></em></strong><strong><em><sup>	</sup></em></strong><strong><em><sup>	</sup></em></strong><em>will be like fine dust blown away,</em> <em>	</em><em>	ruthless attackers like chaff </em> <em>	</em><em>	</em><em>	gone with a gust of wind.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“But suddenly your many enemies </span></i></span></p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>The</em><em> </em><em>L</em><em>ORD</em><em> of Hosts</em><em> will visit you </em> <em>	</em><em>	with thunder, earthquake, and loud noise,</em> <em>	</em><em>	with whirlwind, storm, and consuming fire.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                           </span></sup></i></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>will be like fine dust blown away,</span></i></p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>T</em><em>he</em><em> nations that </em><em>carry on</em><em> war with you, Ariel,</em> <strong><em><sup>	</sup></em></strong><strong><em><sup>	</sup></em></strong><em>that attack your </em><em>fortresse</em><em>s,</em> <em>	</em><em>	will vanish like a dream at night.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            ruthless attackers like chaff </span></i></p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>They’ll</em><em> be like hungry people that dream they’re eating,</em> <em>	</em><em>	</em><em>	but </em><em>wake up still</em><em> </em><em>hungry;</em> <em>	</em><em>	or thirsty people that dream they’re drinking,</em><em>	</em> <em>	</em><em>	</em><em>	but wake up fainting from thirst.</em> <em>	That’s how it will be with the </em><em>countrie</em><em>s</em> <em>	</em><em>	that attack Mount Zion.</em><em>”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  gone with a gust of wind.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></i><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> of Hosts will visit you </span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            with thunder, earthquake, and loud noise,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            with whirlwind, storm, and consuming fire.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></i><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The nations that carry on war with you, Ariel,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></sup></i></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>that attack your fortresses,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            will vanish like a dream at night.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></i><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’ll be like hungry people that dream they’re eating,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  but wake up still hungry;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            or thirsty people that dream they’re drinking,           </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  but wake up fainting from thirst.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      That’s how it will be with the countries</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            that attack Mount Zion.”</span></i><i><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'> </span></i><span style='font-size: 10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></p>
+
 <p class="section-ref">Is 29:5-8</p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> But you linger and wait and blind yourselves. You’re drunk, but not with wine; you’re staggering, but not from alcohol;</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk123158788"><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></a><a name="_Hlk86929267"><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But you linger and wait and blind yourselves.</span></span></p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> that’s because the LORD has poured a sleeping spirit over you; he’s shut your eyes, prophets, and covered your heads, seers.<strong>	</strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              You’re drunk, but not with wine;</span></p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> So the LORD says, <em>“These people come near with their mouth</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	and honor</em><em> me with their lips</em><em>,</em> <em>	</em><em>	</em><em>	</em><em>	but </em><em>their</em><em> hearts </em><em>are somewhere </em><em>else;</em><em> </em> <em>	</em><em>	</em><em>	</em><em>	their respect for me consists of </em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	memorizing human rules.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              you’re staggering, but not from alcohol;</span></p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> <em>So</em><em> I’ll surprise these hypocrites once again</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	with something awesome and </em><em>amazing;</em> <em>	</em><em>	</em><em>	</em><em>	the wisdom of the wise will </em><em>perish;</em> <em>	</em><em>	</em><em>	</em><em>	the intelligence of the intelligent will </em><em>disappear</em><em>.</em><strong> </strong><strong>Is 29:13</strong><strong>-14</strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>that’s because the L</span><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> has poured a sleeping spirit over you;</span></span></p>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> <em>“Misfortune</em><em> awaits people that try to hide </em> <em>	</em><em>	</em><em>	</em><em>	their intentions from me,</em> <em>	</em><em>	</em><em>	who do things in the dark</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>and</em><em> think I can’t see them.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              he’s shut your eyes, prophets,</span></p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> <em>You’ve</em><em> got things turned around!</em> <em>	</em><em>	</em><em>	</em><em>	Is a potter treated like clay</em> <em>	</em><em>	</em><em>	</em><em>	so that what’s made says to its maker, </em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	‘You didn’t make me</em><em>’;</em> <em>	</em><em>	</em><em>	</em><em>	or what’s formed says to the one that formed it, </em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	“You don’t know what you’re doing’”?</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              and covered your heads, seers.</span><b><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                             </span></b></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><a name="_Hlk123158702"><span class="verse verse-v11" id="v11"><sup class="verse-num">11-12</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This whole vision won’t mean much to you, either because it’s a <u>sealed scroll</u> to you or because you can’t read. Literate or not, you won’t get it.<i>
+</i></span></span></p>
+
+<p class="section-ref">Is 29:9-12</p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk123158359"><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>                  </span></i></a><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says,</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <i>“These people come near with their mouth</i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and honor me with their lips,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              but their hearts are somewhere else; </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              their respect for me consists of </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    memorizing human rules.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So I’ll surprise these hypocrites once again</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    with something awesome and amazing;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              the wisdom of the wise will perish;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              the intelligence of the intelligent will disappear.</span></i></span></p>
+
+<p class="section-ref">Is 29:13-14</p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></i><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Misfortune awaits people that try to hide </span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              their intentions from me,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        who do things in the dark</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              and think I can’t see them.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></i><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’ve got things turned around!</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              Is a potter treated like clay</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              so that what’s made says to its maker, </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    ‘You didn’t make me’;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              or what’s formed says to the one that formed it, </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    “You don’t know what you’re doing’”?</span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>         </span></b></span></p>
+
 <p class="section-ref">Is 29:15-16</p>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> Isn’t it just a little while till Lebanon becomes a fertile field and the fertile field becomes a forest?</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk123154942"><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>                  </span></i></a><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Isn’t it just a little while</span></span></p>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> At that time, the deaf will hear the message from <u>the </u><u>scroll</u>; the blind will see through the gloom and darkness;</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        till Lebanon becomes a fertile field</span></p>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> the humble will have fresh happiness in the LORD; the needy will celebrate in the Holy One of Israel.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        and the fertile field becomes a forest?</span></p>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> Ruthless people will come to nothing; scoffers won’t scoff anymore; those intent on creating disorder will be destroyed—</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At that time, the deaf will hear the message from <u>the scroll</u>;</span></span></p>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> people that slander, that try to entrap the judge in court, that defraud the innocent with sophistry.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              the blind will see through the gloom and darkness;</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the humble will have fresh happiness in the L</span><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>;</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              the needy will celebrate in the Holy One of Israel.</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ruthless people will come to nothing;</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              scoffers won’t scoff anymore;</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              those intent on creating disorder will be destroyed—</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>people that slander,</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          that try to entrap the judge in court,</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          that defraud the innocent with sophistry.  </span></p>
+
 <p class="section-ref">Is 29:17-21</p>
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> So the LORD that redeemed Abraham says of Jacob’s house, <em>	</em><em>	</em><em>	</em><em>	“They won’t feel ashamed anymore</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	or turn pale </em>with fear<em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></i><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> that redeemed Abraham says of Jacob’s house,</span></span></p>
 
-<span class="verse" id="v23"><sup class="verse-num">23</sup> <em>When</em><em> they see their descendants around them,</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	</em><em>	the work of my hands, </em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	they’ll treat me as holy</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	and stand in awe of me.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              “They won’t feel ashamed anymore</span></i></p>
 
-<span class="verse" id="v24"><sup class="verse-num">24</sup> <em>The</em><em> ignorant will know the </em><em>truth;</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	the stubborn will accept instruction.”</em><strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    or turn pale </span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>with fear<i>.</i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When they see their descendants around them,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          the work of my hands, </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    they’ll treat me as holy</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and stand in awe of me.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The ignorant will know the truth;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    the stubborn will accept instruction.”</span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span></b></span></p>
+
 <p class="section-ref">Is 29:22-24</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

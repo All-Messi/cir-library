@@ -1,61 +1,126 @@
 ---
 book: Matthew
 chapter: 10
-next: chapter-11
-prev: chapter-09
 title: Matthew 10
 translation: CNT
 type: chapter
 weight: 10
+prev: chapter-09
+next: chapter-11
 ---
 
 ## Matthew Chapter 10
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> He called his twelve disciples together and gave them authority to cast out unclean spirits and heal all <em>kind</em><em>s</em><em> of</em> disease and illness. <strong><sup>2</sup></strong>These are the twelve apostles: Simon called Peter; his brother Andrew; James son of Zebedee, his brother John, <strong><sup>3</sup></strong>Philip, Bartholomew, Thomas, Matthew the tax collector, James son of Alphaeus, Thaddaeus, <strong><sup>4</sup></strong>Simon the Cananaean, and Judas Iscariot, who also betrayed him <em>in the end</em>.</span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He called his twelve disciples together and gave them authority to cast out unclean spirits and heal all <i>kinds of</i> disease and illness. </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>These are the twelve apostles: Simon called Peter; his brother Andrew; James son of Zebedee, his brother John, </span></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Philip, Bartholomew, Thomas, Matthew the tax collector, James son of Alphaeus, Thaddaeus, </span></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Simon the Cananaean, and Judas Iscariot, who also betrayed him <i>in the end</i>.</span></span></p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> Jesus sent out these twelve, <em>“D</em><em>on’t go out among Gentiles or </em><em>to a</em><em>ny Samaritan town</em><em>.</em><em> </em><strong><sup>6</sup></strong><em>Go</em><em> to the lost sheep in</em><em> Israel.</em><em> </em><strong><sup>7</sup></strong><em>As</em><em> you go, </em><em>say,</em><em> </em><em>‘</em><em>The kingdom of heaven is coming.’</em><em> </em><strong><sup>8</sup></strong><em>Heal</em><em> the sick, raise the dead, cleanse lepers, cast out demons.</em><em> </em><em>You’ve received at no charge; give at no charge.</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus sent out these twelve, </span></span></p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> <em><sup>“</sup></em><em>Don’t</em><em> get any gold, silver, or co</em><em>pper coins for your money belts. </em><strong><sup>10</sup></strong>Don’t get <em>a</em><em> traveler’s bag</em><em>,</em><em> </em><em>a staff,</em><em> </em><em>shoes, or two shirts </em><em>for the trip</em><em>. W</em><em>orker</em><em>s</em><em> deserve </em><em>their</em><em> </em><em>wages</em><em>.</em><em>                                                                                 </em><em> </em><strong>Mt 10:1-10</strong></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t go out among Gentiles or to any Samaritan town. </span></i><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Go to the lost sheep in Israel. </span></i></span>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As you go, say, ‘The kingdom of heaven is coming.’ </span></i></span>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Heal the sick, raise the dead, cleanse lepers, cast out demons. You’ve received at no charge; give at no charge.</span></i></span></p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> <em><sup>“</sup></em><em>Whatever</em><em> town or village you go in</em><em>to</em><em>, find out who’s worthy </em><em>in</em><em> it, and stay at </em><em>that</em><em> place till you leave</em><em>.</em><em> </em><strong><sup>12</sup></strong><em>When</em><em> you go in</em><em>to</em><em> a house, greet it.</em><em> </em><strong><sup>13</sup></strong><em>If</em><em> the house is worthy, let your peace rest on it.</em><em> </em><em>If not, take it back.</em><em> </em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>“</span></sup></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Don’t get any gold, silver, or copper coins for your money belts. </span></i></span>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Don’t get <i>a traveler’s bag, a staff, shoes, or two shirts for the trip. Workers deserve their wages.
+ </i></span></span></p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> <em>“</em><em>Whoever</em><em> doesn’t welcome you or listen to what you have to say, go outside that house or town and shake the dust off your feet.</em><em> </em><strong><sup>15</sup></strong><em>On</em><em> judgment day it’ll be more bearable for Sodom and Gomorrah than for that town.</em><em>	</em><em>	</em></span>
+<p class="section-ref">Mt 10:1-10</p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> <em>“I’m</em><em> sending you</em><em><sup>pl</sup></em><em> out like sheep among wolves</em><em>, s</em><em>o be as subtle as snakes and harmless as doves.</em><em> </em><strong><sup>17</sup></strong><em>Watch</em><em> out for people, because they’ll deliver you up to the courts and flog you </em><em>in</em><em> their synagogues.</em><em> </em><strong><sup>18</sup></strong><em>They’ll</em><em> </em><em>take</em><em> you </em><em>in front of</em><em> governors and kings because of </em><em>me as a testimony to them and</em><em> the Gentiles.</em><em> </em><strong><sup>19</sup></strong><em>When</em><em> they deliver you up to the courts, don’t worry </em><em>about </em><em>how or what </em><em>to</em><em> say.</em><em> </em><em>It’ll </em><em>come</em><em> to you at the time.</em><em> </em><strong><sup>20</sup></strong><em>You</em><em> won’t be the ones </em><em>talking; </em><em>your Father</em><em>’s</em><em> </em><em>Holy Spirit will be</em><em> speaking in you</em><em><sup>pl</sup></em><em>.</em><em>	 </em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>“</span></sup></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Whatever town or village you go into, find out who’s worthy in it, and stay at that place till you leave. </span></i></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When you go into a house, greet it. </span></i></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If the house is worthy, let your peace rest on it. If not, take it back. </span></i></span></p>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> <em>“Brothers</em><em> will </em><em>betray</em><em> brothers to death; fathers will </em><em>betray</em><em> sons.</em><strong><em> </em></strong><strong><sup>22</sup></strong><em>Everybody</em><em> will hate you because of me.</em><em> </em><em>Whoever stays with it to the end will be saved.</em><em> </em><strong><sup>23</sup></strong><em>When</em><em> they persecute you in </em><em>one</em><em> town, </em><em>flee </em><em>to the next.</em><em> </em><em>You won’</em><em>t get around to all the towns in</em><em> Israel </em><em>before</em><em> the </em><em>Son of Man</em><em> comes.</em><strong></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Whoever doesn’t welcome you or listen to what you have to say, go outside that house or town and shake the dust off your feet. </span></i></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>On judgment day it’ll be more bearable for Sodom and Gomorrah than for that town.        </span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’m sending you<sup>pl</sup> out like sheep among wolves, so be as subtle as snakes and harmless as doves. </span></i></span>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Watch out for people, because they’ll deliver you up to the courts and flog you in their synagogues. </span></i></span>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’ll take you in front of governors and kings because of me as a testimony to them and the Gentiles. </span></i></span>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When they deliver you up to the courts, don’t worry about how or what to say. It’ll come to you at the time. </span></i></span>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You won’t be the ones talking; your Father’s Holy Spirit will be speaking in you<sup>pl</sup>.
+</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Brothers will betray brothers to death; fathers will betray sons.</span></i><b><i><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></i></b></span>
+<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Everybody will hate you because of me. Whoever stays with it to the end will be saved. </span></i></span>
+<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When they persecute you in one town, flee to the next. You won’t get around to all the towns in Israel before the Son of Man comes.</span></i></span></span></p>
+
 <p class="section-ref">Mt 10:11-23</p>
 
-<span class="verse" id="v24"><sup class="verse-num">24</sup> <em>“S</em><em>tudent</em><em>s</em><em> have it no better than their</em><em> teacher</em><em>s, and</em><em> servant</em><em>s have it no better than</em><em> </em><em>their </em><em>master</em><em>s</em><em>. </em><strong><sup>25</sup></strong><em>It’s</em><em> </em><em>enough</em><em> for a student to become like </em><em>the</em><em> teacher and a servant to be like </em><em>the</em><em> master.</em><em> </em><em>If they’ve called the head of the house Beelzebub, how </em><em>much wors</em><em>e the members of his house</em><em>hold</em><em>.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Students have it no better than their teachers, and servants have it no better than their masters. </span></i></span>
+<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It’s enough for a student to become like the teacher and a servant to be like the master. If they’ve called the head of the house Beelzebub, how much worse the members of his household.</span></i></span></p>
 
-<span class="verse" id="v26"><sup class="verse-num">26</sup> <em>“Don’t</em><em> be afraid of them.</em><em> </em><em>Everything that’s covered up will be</em><em>com</em><em>e public</em><em>;</em><em> everything that’s hidden will </em><em>come out </em><em>n</em><em> the</em><em> open</em><em>.</em><em> </em><strong><sup>27</sup></strong><em>What</em><em> I tell you in t</em><em>he dark, say in the light; what’s </em><em>whispered in your ear, </em><em>announce</em><em> from the housetops.</em><em> </em><strong><sup>28</sup></strong><em>Don’t</em><em> be afraid of </em><em>people</em><em> that kill the body but can’t kill the soul.</em><em> </em><em>Be more afraid of the One that can kill both soul and body in hell.</em><em> </em><strong><sup>29</sup></strong><em>Aren’t</em><em> two sparrows sold for a dollar,</em><em> and not</em><em> </em><em>one of them falls to the ground without your </em><em>Father </em>knowing it<em>? </em><strong><sup>30</sup></strong><em>The</em><em> very hairs on your head are </em><em>all </em><em>numbered</em><em>, </em><strong><sup>31</sup></strong><em>s</em><em>o</em><em> don’t be afraid; you’re worth more than lots of sparrows.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t be afraid of them. Everything that’s covered up will become public; everything that’s hidden will come out n the open. </span></i></span>
+<span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>What I tell you in the dark, say in the light; what’s whispered in your ear, announce from the housetops. </span></i></span>
+<span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Don’t be afraid of people that kill the body but can’t kill the soul. Be more afraid of the One that can kill both soul and body in hell. </span></i></span>
+<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Aren’t two sparrows sold for a dollar, and not one of them falls to the ground without your Father </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>knowing it<i>? </i></span></span>
+<span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The very hairs on your head are all numbered, </span></i></span>
+<span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>so don’t be afraid; you’re worth more than lots of sparrows.</span></i></span></p>
 
-<span class="verse" id="v32"><sup class="verse-num">32</sup> <em>“Everybody</em><em> that </em><em>acknowledges</em><em> me </em><em>to </em>other<em> people, </em> <strong><sup>	</sup></strong><em>I’ll</em><em> </em><em>acknowledge</em><em> </em><em>to my Father in heaven. </em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Everybody that acknowledges me to </span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>other<i> people, </i></span></span></p>
 
-<span class="verse" id="v33"><sup class="verse-num">33</sup> <em>Whoever</em><em> denies who I am</em><em> </em><em>to</em><em> </em>other <em>people, </em> <strong><sup>	</sup></strong><em>I’ll</em><em> deny </em><em>to</em><em> my Father in heaven</em> as belonging to me<em>.</span>
-<p class="section-ref">Mt 10:24-33</p>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll acknowledge to my Father in heaven. </span></i></p>
 
-<span class="verse" id="v34"><sup class="verse-num">34</sup> <em>“Don’t</em><em> think I’ve come to bring peace to the earth.</em><em> </em> <em>I</em><em> didn’t </em><em>come to bring peace</em><em>, but a sword, </em><strong><sup>35</sup></strong><em>to</em><em> turn </em> <em>	son</em><em> </em><strong><em>‘against father,’ </em></strong> 	<em> </em><em>	</em><strong><em>‘daughter against mother,’ </em></strong><strong><em> </em></strong> 	<em> </em><em>	</em><strong><em>‘daughter-in-law against mother-in-law.’ </em></strong> <strong><sup>	</sup></strong><strong><sup>36</sup></strong><strong><em>‘People</em></strong><strong><em>’s</em></strong><strong><em> enemies will be </em></strong><strong><em>in their own houses</em></strong><strong><em>’</em></strong><strong> </strong><strong>[Mic</strong><strong> 7:6]</strong>.</span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Whoever denies who I am to </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>other <i>people, </i></span></span></p>
 
-<span class="verse" id="v36"><sup class="verse-num">36</sup> 'People's enemies will be in their own houses' [Mic 7:6].</span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll deny to my Father in heaven</span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> as belonging to me<i>.</i>     </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Mt 10:24-33</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></p>
 
-<span class="verse" id="v37"><sup class="verse-num">37</sup> <em>“</em><em>If</em><em> you</em><em> </em><em>loves</em><em> father or mother m</em><em>ore than me, you don’t deserve me. </em> <em>If you love</em><em> </em><em>son</em><em> or daughter more than </em><em>me</em><em> you</em><em> don’t deserve me.</em><em> </em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t think I’ve come to bring peace to the earth. </span></i></span></p>
 
-<span class="verse" id="v38"><sup class="verse-num">38</sup> <em>If</em><em> you</em><em> don’t </em><em>pick</em><em> up </em><em>your</em><em> cross and </em><em>follow</em><em> me, </em><em>you </em><em>don’t deserve me.</em><em> </em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I didn’t come to bring peace, but a sword, </span></i><span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to turn </span></i></span></p>
 
-<span class="verse" id="v39"><sup class="verse-num">39</sup> <em>If</em><em> you</em><em> find </em><em>your</em><em> life</em><em>, you’</em><em>ll lose </em><em>it</em><em>;</em><em> </em> <em>if you</em><em> lose </em><em>your life</em><em> </em><em>over </em><em>me</em><em>,</em><em> </em><em>you’</em><em>ll find it.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            son
+<b>‘against father,’ </b></span></i></p>
 
-<span class="verse" id="v40"><sup class="verse-num">40</sup> <em>“</em><em>Anyone</em><em> </em><em>that receives</em><em> you </em><em>receives</em><em> </em><em>me</em><em>;</em><em> </em> <em>Anyone that</em><em> </em><em>receives</em><em> me </em><em>receives</em><em> the One that sent me.</em><em> </em></span>
 
-<span class="verse" id="v41"><sup class="verse-num">41</sup> <em>If</em><em> you </em><em>receive a prophet </em><em>as a prophet, </em> <em>you’ll receive a prophet’s reward. </em> <em>If you </em><em>receive </em><em>good</em><em> </em><em>people</em><em> </em><em>as</em><em> </em><em>good</em><em> </em><em>people,</em> <em>you’</em><em>ll receive a </em><em>good</em><em> </em><em>person</em><em>’s</em><em> reward.</em><em> </em></span>
+### ‘daughter against mother,’
 
-<span class="verse" id="v42"><sup class="verse-num">42</sup> <em>If</em><em> you </em><em>give one of thes</em><em>e little ones </em> <em>even a cup of cool</em><em> water </em><em>as a disciple, </em> <em>you’ll certainly receive</em><em> reward.”</em></span>
+
+
+### ‘daughter-in-law against mother-in-law.’
+
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:1.0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  36</span></sup></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘People’s enemies will be in their own houses’</span></i></b><b><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Mic 7:6]</span></b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>.</span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:1.0in;'><span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If you loves father or mother more than me, you don’t deserve me. </span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:1.0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>If you love son or daughter more than me you don’t deserve me. </span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:1.0in;'><span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you don’t pick up your cross and follow me, you don’t deserve me. </span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:1.0in;'><span class="verse verse-v39" id="v39"><sup class="verse-num">39</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you find your life, you’ll lose it; </span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>if you lose your life over me, you’ll find it.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Anyone that receives you receives me; </span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Anyone that receives me receives the One that sent me. </span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:1.0in;'><span class="verse verse-v41" id="v41"><sup class="verse-num">41</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you receive a prophet as a prophet, </span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>you’ll receive a prophet’s reward. </span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:1.0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>If you receive good people as good people,</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>you’ll receive a good person’s reward. </span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:1.0in;'><span class="verse verse-v42" id="v42"><sup class="verse-num">42</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you give one of these little ones </span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>even a cup of cool water as a disciple, </span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>you’ll certainly receive reward.”</span></i></p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

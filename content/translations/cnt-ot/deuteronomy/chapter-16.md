@@ -1,48 +1,82 @@
 ---
 book: Deuteronomy
 chapter: 16
-next: chapter-17
-prev: chapter-15
 title: Deuteronomy 16
 translation: CNT
 type: chapter
 weight: 16
+prev: chapter-15
+next: chapter-17
 ---
 
 ## Deuteronomy Chapter 16
 
+
 ### Passover Festival
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> <em>“In</em><em> the month </em><em>Abib, celebrate </em><em><u>Passover</u></em><em> to </em><em>Yahveh</em><em> your God.</em><em> </em><em>That’s </em><em>when</em><em> he brought you out of Egypt at night.</em><em> </em><strong><sup>2</sup></strong><em>Sacrifice</em><em> the Passover from the flock and the herd </em><em>where</em><em> he designates.</em><em> </em><strong><sup>3</sup></strong><em>For</em><em> </em><em>a week</em><em>, </em><em>onl</em><em>y </em><em>eat </em><em>bread</em><em> without yeast</em><em>—the bread of </em><em>suffering</em><em> (</em><em>you came out in a hurry</em><em>)—so you’ll remember all your life </em><em>when</em><em> you </em><em>left</em><em> Egypt.</em><em> </em><strong><sup>4</sup></strong><em>For</em><em> </em><em>a week</em><em> </em><em>no</em><em> </em><em>yeast</em><em> </em><em>will be anywhere </em><em>in </em><em>any of </em><em>your </em><em>houses. None of the meat you sacrifice</em><em> the </em><em>first </em><em>evening </em><em>is to</em><em> remain till morning.</em><em> </em><strong><sup>5</sup></strong><em>You</em><em> can’t </em><em>sacrifice the Passover </em><em>anywhere</em><em> </em><em>except</em><em> where </em><em>Yahveh</em><em> designates for his name.</em><em> </em><strong><sup>6</sup></strong><em>Sacrifice</em><em> it at sundown</em><em>, </em><em>which is</em><em> when you left Egypt.</em><em> </em><strong><sup>7</sup></strong><em>Cook</em><em> it and eat it where</em><em> </em><em>he</em><em> designates.</em><em> </em><em>In the morning go back </em><em>home</em><em>.</em><em> </em><strong><sup>8</sup></strong><em>For</em><em> six days, e</em><em>at bread </em><em>with no </em><em>yeast. O</em><em>n the seventh</em><em>,</em><em> </em><em>hold</em><em> a</em><em> solemn assembly to Yahveh. D</em><em>on’t </em><em>do any </em><em>work </em><em>that day</em><em>.</span>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk126580349"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“In the month Abib, celebrate <u>Passover</u> to the </span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> your God. That’s when he brought you out of Egypt at night. </span></i></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Sacrifice the Passover from the flock and the herd where he designates. </span></i></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For a week, only eat bread without yeast—the bread of suffering (</span></i><i><span style='font-family:"Times New Roman",serif'>you came out in a hurry</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>)—so you’ll remember all your life when you left Egypt. </span></i></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For a week no yeast will be anywhere in any of your houses. None of the meat you sacrifice the first evening is to remain till morning. </span></i></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You can’t sacrifice the Passover anywhere except where the </span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> designates for his name. </span></i></span>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Sacrifice it at sundown, which is when you left Egypt. </span></i></span>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Cook it and eat it where he designates. In the morning go back home. </span></i></span>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For six days, eat bread with no yeast. On the seventh, hold a solemn assembly to the </span></i><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>L</span></i><i><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>. Don’t do any work that day.</span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                                                                       </span></b></span></p>
+
 <p class="section-ref">Deut 16:1-8</p>
+
 
 ### Festival of Weeks
 
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>“Count</em><em> seven weeks from </em><em>when</em><em> you start </em><em>using</em><em> the sickle </em><em>on</em><em> standing grain.</em><em> </em><strong><sup>10</sup></strong><em>Then</em><em> celebrate the </em><em><u>Festival</u></em><em><u> of Weeks</u></em><em> to </em><em>Yahveh</em><em> with a </em><em>freewill offering. Give in proportion to how</em><em> he blesses you.</em><em> </em><strong><sup>11</sup></strong><em>Celebrate</em><em> in his presence—you,</em><em> your son and daughter, male and female servant</em><em>,</em><em> the Levite in your town, the foreigner, orphan, and widow among you</em><em>. </em><strong><sup>12</sup></strong><em>Remember</em><em> that you were a slave in Egypt. Observe these statutes carefully.</em><strong></span>
-<p class="section-ref">Deut 16:9-12</p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk126580662"><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Count seven weeks from when you start using the sickle on standing grain. </span></i></span>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then celebrate the <u>Festival of Weeks</u> to the </span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> with a freewill offering. Give in proportion to how he blesses you. </span></i></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Celebrate in his presence—you, your son and daughter, male and female servant, the Levite in your town, the foreigner, orphan, and widow among you. </span></i></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Remember that you were a slave in Egypt. Observe these statutes carefully.
+</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Deut 16:9-12<a name="_Hlk199975179"></a></span></b></span></p>
+
 
 ### Festival of Tabernacles
 
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> <em>“Celebrate</em><em> the </em><em><u>Fe</u></em><em><u>stival</u></em><em><u> of Booths</u></em><em> </em><em>for a week after you’ve gathered in </em>the <em>grain</em><em> </em><em>from</em><em> your threshing floor and the wine from your vat. </em><strong><sup>14</sup></strong><em>Celebrate</em><em> at the festival—you, your son and daughter, male and female servants, the Levite, foreigner, orphan, and widow in your towns. </em><strong><sup>15</sup></strong><em>Celebrate</em><em> a festival to Yahveh for a week where he designates. He’ll bless everything you do and what you produce. You’ll be altogether joyful.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><b><i><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></sup></i></b><a name="_Hlk126583279"><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Celebrate the <u>Festival of Booths</u> for a week after you’ve gathered in </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the
+<i>grain from your threshing floor and the wine from your vat. </i></span></span>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Celebrate at the festival—you, your son and daughter, male and female servants, the Levite, foreigner, orphan, and widow in your towns. </span></i></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Celebrate a festival to the </span></i><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> for a week where he designates. He’ll bless everything you do and what you produce. You’ll be altogether joyful.</span></i></span></p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> <em>“</em><em>Three</em><em> times a year, </em><em>males </em><em>are to</em><em> appear </em><em>in Yahveh’s presence</em><em> </em><em>where </em><em>he designates:</em><em> </em><em>at the Fe</em><em>stival</em><em> of Unleavened Bread, the Fe</em><em>stival</em><em> of Weeks, and the Fe</em><em>stival </em><em>of Booths</em><em>. They’re not to appear empty-handed.</em><em> </em><strong><sup>17</sup></strong><em>Every</em><em> man will give as he</em><em> </em><em>can</em><em>, </em><em>in proportion</em><em> to </em><em>Yahveh</em><em>’s blessing.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Three times a year, males are to appear in the </span></i><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s presence where he designates: at the Festival of Unleavened Bread, the Festival of Weeks, and the Festival of Booths. They’re not to appear empty-handed. </span></i></span>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Every man will give as he can, in proportion to the </span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s blessing.</span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                                                                            </span></span></p>
+
 <p class="section-ref">Deut 16:13-17</p>
 
-### Judges Appointed
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk200024100"><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Judges Appointed</span></b></a><b><sup><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'>       </span></sup></b></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk126583768"><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Appoint judges and officers in your towns by tribes. Judge the people with justice. </span></i></span>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Don’t distort justice. Be impartial. Don’t take bribes; they blind the wise and pervert the just. </span></i></span>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Pursue justice and justice only, so you can live and possess the land the </span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s giving you.</span></i></span></p>
 
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> <em>“A</em><em>ppoint</em><em> judges and officers in y</em><em>our towns by tribes. J</em><em>udge the people with </em><em>justice</em><em>.</em><em> </em><strong><sup>19</sup></strong><em>Don’t</em><em> distort justice.</em><em> B</em><em>e </em><em>im</em><em>partial.</em><em> </em><em>Don’t take bribes</em><em>; they blind</em><em> the wise and </em><em>pervert</em><em> the </em><em>just</em><em>.</em><em> </em><strong><sup>20</sup></strong><em>P</em><em>ursue</em><em> justice and justice</em><em> </em><em>only</em><em>,</em><em> </em><em>so</em><em> you </em><em>can</em><em> live and possess the land </em><em>Yahveh</em><em>’s giving you.</em> 	<strong>Worshiping Other Gods</strong></span>
+### Worshiping Other Gods
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> <em>“Don’t</em><em> set up a wooden Asherah pole beside an altar you make for Yahveh. </em><strong><sup>22</sup></strong><em>Don’t</em><em> set up </em>sacred <em>pillar</em><em>s. T</em><em>hat’s something </em><em>he despise</em><em>s.</span>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t set up a wooden Asherah pole beside an altar you make for the </span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.
+</span></i></span>
+<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Don’t set up </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>sacred
+<i>pillars. That’s something he despises.</i></span></span></p>
+
 <p class="section-ref">Deut 16:18-22</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

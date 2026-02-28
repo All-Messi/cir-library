@@ -1,44 +1,77 @@
 ---
 book: Joshua
 chapter: 9
-next: chapter-10
-prev: chapter-08
 title: Joshua 9
 translation: CNT
 type: chapter
 weight: 9
+prev: chapter-08
+next: chapter-10
 ---
 
 ## Joshua Chapter 9
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> The kings heard about it in the hill country and the western foothills along the Mediterranean Sea up to Lebanon—the Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites. <strong><sup>2</sup></strong>They formed an alliance against Israel. 	<strong>The Gibeonites Deceive Israel</strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The kings heard about it in the hill country and the western foothills along the Mediterranean Sea up to Lebanon—the Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites. </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They formed an alliance against Israel.</span></span></p>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> But when the people in Gibeon heard what Joshua had done to Jericho and Ai, <strong><sup>4</sup></strong>they resorted to trickery. They made <em>fake </em>preparations: worn-out sacks on their donkeys; worn-out, torn, and mended wineskins; <strong><sup>5</sup></strong>worn-out and patched sandals, and worn-out clothes. Their provisions were dry and moldy. <strong><sup>6</sup></strong>They went to Joshua in the camp at Gilgal, and told him and Israel, <em>“We</em><em>’ve come from a distant country. M</em><em>ake a </em><em>treaty</em><em> with us.”</em></span>
+
+### The Gibeonites Deceive Israel
+
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But when the people in Gibeon heard what Joshua had done to Jericho and Ai, </span></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>they resorted to trickery. They made <i>fake </i>preparations: worn-out sacks on their donkeys; worn-out, torn, and mended wineskins; </span></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>worn-out and patched sandals, and worn-out clothes. Their provisions were dry and moldy.
+</span></span>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They went to Joshua in the camp at Gilgal, and told him and Israel, <i>“We’ve come from a distant country. Make a treaty with us.”</i> <b>                                                                                                                                      </b></span></span></p>
+
 <p class="section-ref">Josh 9:1-6</p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> But the men of Israel said to the Hivites, <em>“</em><em>Maybe you’re living among us. How could</em><em> we make a </em><em>treaty</em><em> with you?”</em><em> </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But the men of Israel said to the Hivites, <i>“Maybe you’re living among us. How could we make a treaty with you?” </i></span></span></p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> They said to Joshua, <em>“We’</em><em>re your servants.”</em><em> </em> <em>“Who are you?</em><em> Where did</em><em> you come from?” </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They said to Joshua, <i>“We’re your servants.” </i></span></span></p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>“We’ve come </em><em>a long way because of the </em><em>L</em><em>ORD</em><em> your God.</em><em> </em><em>We’ve heard what all he did in Egypt, </em><strong><sup>10</sup></strong><em>and </em><em>to the </em><em>Amorite kings </em><em>beyond the Jordan—Sihon </em><em>and </em><em>Og</em><em>, who</em><em> lived in Ashtaroth.</em><em> </em><strong><sup>11</sup></strong><em>Our elders and the </em><em>people in</em><em> our country told us</em><em> to take </em><em>provisions for the journey, go meet </em><em>you</em><em>, and say, </em><em>‘We’</em><em>re your servants.</em><em> Make a treaty with us.’ </em><strong><sup>12</sup></strong><em>O</em><em>ur bread was still warm when we </em><em>took it from our houses </em><em>for the </em><em>trip. N</em><em>ow it’s dry and moldy.</em><em> </em><strong><sup>13</sup></strong><em>These wineskins</em><em> were new when we filled them; now they’ve burst. These clothes and shoes are worn out from the trip.” </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Who are you? Where did you come from?” </span></i></p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> The men took some of their provisions and didn’t ask for direction from the LORD. <strong><sup>15</sup></strong>Joshua made peace with them and let them live. The leaders of the community swore to them.<strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></i><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“We’ve come a long way because of the </span></i><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> your God. We’ve heard what all he did in Egypt, </span></i></span>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and to the Amorite kings beyond the Jordan—Sihon and Og, who lived in Ashtaroth. </span></i></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Our elders and the people in our country told us to take provisions for the journey, go meet you, and say, ‘We’re your servants. Make a treaty with us.’ </span></i></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Our bread was still warm when we took it from our houses for the trip. Now it’s dry and moldy. </span></i></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>These wineskins were new when we filled them; now they’ve burst. These clothes and shoes are worn out from the trip.” </span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The men took some of their provisions and didn’t ask for direction from the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.
+</span></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Joshua made peace with them and let them live. The leaders of the community swore to them.</span></span></p>
+
 <p class="section-ref">Josh 9:7-15</p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> Three days later, they found out they were neighbors. <strong><sup>17</sup></strong>Israel set out and reached their towns on the third day: Gibeon, Cherphirah, Beeroth, and Kiriath-jearim. <strong><sup>18</sup></strong>But they didn’t kill them, because their leaders had sworn by the LORD God of Israel. The community murmured against the leaders, <strong><sup>19</sup></strong><em>“We’ve sworn to them by the </em><em>L</em><em>ORD</em><em> </em><em>God of Israel</em><em>. W</em><em>e can’t touch them.</em><em> </em><strong><sup>20</sup></strong><em>We’ll let them live so wrath won’t </em><em>come</em><em> on us.”</em><em> </em><strong><sup>21</sup></strong>They cut wood and drew water for the community—like the leaders told them.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Three days later, they found out they were neighbors. </span></span>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel set out and reached their towns on the third day: Gibeon, Cherphirah, Beeroth, and Kiriath-jearim. </span></span>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But they didn’t kill them, because their leaders had sworn by the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> God of Israel. The community murmured against the leaders, </span></span>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“We’ve sworn to them by the </span></i><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> God of Israel. We can’t touch them. </span></i></span>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We’ll let them live so wrath won’t come on us.” </span></i></span>
+<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They cut wood and drew water for the community—like the leaders told them.  </span></span></p>
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> Joshua sent for them and said, <em>“Why </em><em>lie to</em><em> us and say</em><em> you were</em><em> from a </em><em>distant country</em><em> when you </em><em>were living</em><em> among us?</em><em> </em><strong><sup>23</sup></strong><em>Now you’re cursed</em><em>. S</em><em>ome of you will always be slaves, cutting wood and drawing water for </em><em>my God’s </em><em>house.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Joshua sent for them and said, </span></span></p>
 
-<span class="verse" id="v24"><sup class="verse-num">24</sup> They answered Joshua, <em>“W</em><em>e heard that the </em><em>L</em><em>ORD</em><em> your God had commanded Moses to give you the land and destroy </em><em>its</em><em> p</em><em>eople. W</em><em>e </em><em>were afraid</em><em> </em><em>we’d be killed</em><em>.</em><em> </em><strong><sup>25</sup></strong><em>W</em><em>e’re </em><em>at your mercy</em><em>.</em><em> </em><em>Do </em><em>to us what you think’s right</em><em>.”</em><em> </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Why lie to us and say you were from a distant country when you were living among us? </span></i><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now you’re cursed. Some of you will always be slaves, cutting wood and drawing water for my God’s house.”</span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> </span></span></p>
 
-<span class="verse" id="v26"><sup class="verse-num">26</sup> That’s what he did and rescued them from the people. <strong><sup>27</sup></strong>He made them cut wood and draw water for the community and the LORD’s altar where he chose. They still do that.  <strong></span>
-<p class="section-ref">Josh 9:16-27</p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They answered Joshua, </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“We heard that the </span></i><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> your God had commanded Moses to give you the land and destroy its people. We were afraid we’d be killed. </span></i><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We’re at your mercy. Do to us what you think’s right.” </span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That’s what he did and rescued them from the people. </span></span>
+<span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He made them cut wood and draw water for the community and the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s altar where he chose. They still do that.  </span><b><span style='font-size: 10.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                               Josh 9:16-27</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></b></span></p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

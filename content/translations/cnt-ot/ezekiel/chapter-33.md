@@ -1,49 +1,90 @@
 ---
 book: Ezekiel
 chapter: 33
-next: chapter-34
-prev: chapter-32
 title: Ezekiel 33
 translation: CNT
 type: chapter
 weight: 33
+prev: chapter-32
+next: chapter-34
 ---
 
 ## Ezekiel Chapter 33
 
+
 ### Ezekiel Is Israel’s Watchman
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> A message from the LORD came to me:</span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>“Tell</em><em> your people, ‘If I bring the sword on a country, and the people’s watchman </em><strong><sup>3</sup></strong><em>blows</em><em> the ram’s horn to warn them—</em><strong><sup>4</sup></strong><em>then</em><em> those who don’t pay attention are responsible for their own death. </em><strong><sup>5</sup></strong><em>If</em><em> they’d taken warning, they would’ve saved their life. </em><strong><sup>6</sup></strong><em>If</em><em> the watchman sees the sword coming and doesn’t warn the people, if the sword takes some people, they’ll be taken away in their sin, but I’ll hold the watchman responsible for it.’</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         33<sup>:1</sup></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A message from the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> came to me:</span></p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>“Son</em><em> of man, I’ve made you a watchman for </em><em>Israel</em><em> so you’ll hear a message from me to warn them. </em><strong><sup>8</sup></strong><em>When</em><em> I tell sinful people they’re going to die, but you don’t warn them, they’ll die in their sin, but I’ll hold you responsible for it.  </em><strong><sup>9</sup></strong><em>But</em><em> if you warn them and they don’t turn from your way, they’ll die in their sin, but you’ve saved your life.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk147430364"><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Tell your people, ‘If I bring the sword on a country, and the people’s watchman </span></i></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>blows the ram’s horn to warn them—</span></i></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>then those who don’t pay attention are responsible for their own death. </span></i></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If they’d taken warning, they would’ve saved their life. </span></i></span>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If the watchman sees the sword coming and doesn’t warn the people, if the sword takes some people, they’ll be taken away in their sin, but I’ll hold the watchman responsible for it.’</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Son of man, I’ve made you a watchman for Israel so you’ll hear a message from me to warn them. </span></i></span>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When I tell sinful people they’re going to die, but you don’t warn them, they’ll die in their sin, but I’ll hold you responsible for it.  </span></i></span>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But if you warn them and they don’t turn from your way, they’ll die in their sin, but you’ve saved your life.</span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>   </span></b></span></span></p>
+
 <p class="section-ref">Ezek 33:1-9</p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>“Now</em><em>, son of man, tell Israel, ‘You’ve said, “Our sins are on us and we’re rotting away in them. How can we survive?”’ </em><strong><sup>11</sup></strong><em>Tell</em><em> them, ‘As I live,’ the Lord G</em><em>OD</em><em> says, </em><em>‘I don’t get any satisfaction out of seeing sinful people die. I want them to turn from their way and live. Turn back from your sinful way! Why die, Israel?’ </em><strong><sup>12</sup></strong><em>Son</em><em> of man, tell your fellow citizens, ‘People’s goodness won’t deliver them when they sin. People’s sinfulness won’t prevent them </em>from living <em>when they quit doing it. Good people can’t have life from goodness when they practice sin. </em><strong><sup>13</sup></strong><em>When</em><em> I say to good people they’ll surely live and they presume on their goodness and keep </em><em>sinning,</em><em> I won’t consider their good deeds; they’ll die in that sin. </em><strong><sup>14</sup></strong><em>But</em><em> when I say to sinful people, ‘You’ll surely die,’ and they quit sinning—</em><strong><sup>15</sup></strong><em>if</em><em> they return a pledge, repay what they stole, follow the statutes that give life and don’t sin—they’ll surely live. </em><strong><sup>16</sup></strong><em>I</em><em> won’t hold their past sins against them. They’re doing good; they’ll live.</span>
-<p class="section-ref">Ezek 33:10-16</p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Now, son of man, tell Israel, ‘You’ve said, “Our sins are on us and we’re rotting away in them. How can we survive?”’ </span></i></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Tell them, ‘As I live,’ the Lord G</span></i><i><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>OD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says, <a name="_Hlk147430502">‘I don’t get any satisfaction out of seeing sinful people die. I want them to turn from their way and live. Turn back from your sinful way! Why die, Israel?’ </a></span></i></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Son of man, tell your fellow citizens, ‘People’s goodness won’t deliver them when they sin. People’s sinfulness won’t prevent them </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>from living <i>when they quit doing it. Good people can’t have life from goodness when they practice sin. </i></span></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When I say to good people they’ll surely live and they presume on their goodness and keep sinning, I won’t consider their good deeds; they’ll die in that sin. </span></i></span>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But when I say to sinful people, ‘You’ll surely die,’ and they quit sinning—</span></i></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>if they return a pledge, repay what they stole, follow the statutes that give life and don’t sin—they’ll surely live. </span></i></span>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I won’t hold their past sins against them. They’re doing good; they’ll live.</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
+</span></b></span></p>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> <em>“Yet</em><em> your people say, ‘The Lord’s way is not right,’ when it’s their own way that’s not right</em><em>.</em><em> </em><strong><sup>18</sup></strong><em>When</em><em> good people turn from their goodness, they’ll die because </em>now<em> they’re practicing sin. </em><strong><sup>19</sup></strong><em>When</em><em> sinful people turn from their sinfulness, they’ll live because they’re practicing goodness. </em><strong><sup>20</sup></strong><em>Yet you say, ‘The Lord’s way is not right.’ House of Israel, I’ll judge each of you by your own ways.” </em></span>
-<p class="section-ref">Ezek 33:17-20</p>
+
+### Ezek 33:10-16
+
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Yet your people say, ‘The Lord’s way is not right,’ when it’s their own way that’s not right. </span></i></span>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When good people turn from their goodness, they’ll die because </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>now<i> they’re practicing sin. </i></span></span>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When sinful people turn from their sinfulness, they’ll live because they’re practicing goodness. </span></i></span>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yet you say, ‘The Lord’s way is not right.’ House of Israel, I’ll judge each of you by your own ways.” </span></i></span></p>
+
+
+### Ezek 33:17-20
+
+
 
 ### Israel’s Fall Explained
 
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> The <strong>fifth day, tenth month, twelfth year</strong> of our exile, refugees from Jerusalem arrived to tell me the city had fallen<em>.</em><strong><sup>  </sup></strong><strong><sup>22</sup></strong>The LORD’s hand had been heavy on me the evening before. When they came the next morning, he made me able to talk again.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:4.5pt;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The
+<b>fifth day, tenth month, twelfth year</b> of our exile, refugees from Jerusalem arrived to tell me the city had fallen<i>.</i></span><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'> 22</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height: 115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s hand had been heavy on me the evening before. When they came the next morning, he made me able to talk again.</span></span></p>
 
-<span class="verse" id="v23"><sup class="verse-num">23</sup> A message from him came to me:</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.25in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  23</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A message from him came to me:</span></p>
 
-<span class="verse" id="v24"><sup class="verse-num">24</sup> <em>“Son</em><em> of man, those who live in Israel’s waste places are saying, ‘Abraham was only one, yet he possessed the land. </em><em>So</em><em> to us who are many the land has been given as a possession.’ </em><strong><sup>25</sup></strong><em>Tell</em><em> them the Lord G</em><em>OD</em><em> says, ‘You eat meat with blood in it and look up to your idols as you shed innocent blood. Should </em><em><u>you</u></em><em> have the land? </em><strong><sup>26</sup></strong><em>You</em><em> rely on your sword, you commit disgusting deeds, you defile your neighbor’s wife. Should </em><em><u>you</u></em><em> have the land? </em><strong><sup>27</sup></strong><em>As</em><em> I live, those who live in </em><em>the waste</em><em> places will fall by the sword. Whoever is in the open country wild animals will kill. The ones in strongholds and caves will die from disease. </em><strong><sup>28</sup></strong><em>I’ll</em><em> make the land desolate; pride about its power will stop. Israel’s mountains will be so desolate nobody can get through them. </em><strong><sup>29</sup></strong><em><u>They’ll</u></em><em><u> know I’m the </u></em><em><u>L</u></em><em><u>ORD</u></em><em> when I make the land desolate because of their disgusting deeds.’</em><strong><sup> </sup></strong><strong><sup></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Son of man, those who live in Israel’s waste places are saying, ‘Abraham was only one, yet he possessed the land. So to us who are many the land has been given as a possession.’ </span></i></span>
+<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Tell them the Lord G</span></i><i><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>OD</span></i><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says, ‘You eat meat with blood in it and look up to your idols as you shed innocent blood. Should <u>you</u> have the land? </span></i></span>
+<span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You rely on your sword, you commit disgusting deeds, you defile your neighbor’s wife. Should <u>you</u> have the land? </span></i></span>
+<span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As I live, those who live in the waste places will fall by the sword. Whoever is in the open country wild animals will kill. The ones in strongholds and caves will die from disease. </span></i></span>
+<span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll make the land desolate; pride about its power will stop. Israel’s mountains will be so desolate nobody can get through them. </span></i></span>
+<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <i><u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’ll know I’m the </span></u></i><i><u><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>L</span></u></i><i><u><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></u></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> when I make the land desolate because of their disgusting deeds.’</span></i><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>  </span></sup></b></span></span></p>
+
 <p class="section-ref">Ezek 33:21-29</p>
 
-<span class="verse" id="v30"><sup class="verse-num">30</sup> <em>“Son</em><em> of man, your fellow citizens talk about you by the walls and in their doorways, ‘Come on, let’s hear a message from the </em><em>L</em><em>ORD</em><em>.’ </em><strong><sup>31</sup></strong><em>They</em><em> come and sit with you like my people, but they do the lustful things they talk about and set their hearts on making money. </em><strong><sup>32</sup></strong><em>As</em><em> far as they’re concerned, you’re someone with a beautiful voice that plays an instrument well and sings love songs. They hear what you’re saying, but they don’t do it. </em><strong><sup>33</sup></strong><em>So</em><em> when </em>what you say<em> does happen—as it surely will—they’ll know a prophet was among them.”</em><strong> </strong><strong> </strong><strong></span>
-<p class="section-ref">Ezek 33:30-33</p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Son of man, your fellow citizens talk about you by the walls and in their doorways, ‘Come on, let’s hear a message from the </span></i><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.’
+</span></i></span>
+<span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>They come and sit with you like my people, but they do the lustful things they talk about and set their hearts on making money. </span></i></span>
+<span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As far as they’re concerned, you’re someone with a beautiful voice that plays an instrument well and sings love songs. They hear what you’re saying, but they don’t do it. </span></i></span>
+<span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So when </span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>what you say<i> does happen—as it surely will—they’ll know a prophet was among them.”</i></span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>        Ezek 33:30-33                                                                                  </span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></i></span></p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

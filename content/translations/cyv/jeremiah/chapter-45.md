@@ -1,26 +1,44 @@
 ---
 book: Jeremiah
 chapter: 45
-next: chapter-46
-prev: chapter-44
 title: Jeremiah 45
 translation: CYV
 type: chapter
 weight: 45
+prev: chapter-44
+next: chapter-46
 ---
 
 ## Jeremiah Chapter 45
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> The Message Jeremiah Spoke to Baruch When He’d Written It in a Scroll at Jeremiah’s Dictation in the <strong>Fourth Year of Jehoiakim</strong> <strong>Ben-Josiah, King of Judah</strong> 	<strong>A Message for Baruch</strong></span>
+<p class="MsoNormal" align=center style='margin-bottom:0in;margin-bottom:0in; margin-top:0in;text-align:center'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Message Jeremiah Spoke to Baruch</span></span></p>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>“This</em><em> is what Yahveh God of Israel says to you, Baruch: </em><strong><sup>3</sup></strong><em>‘You</em><em> said, “Misfortune awaits me! Yahveh has added sorrow to pain. I’m exhausted from groaning. I can’t sleep.”’ </em><strong><sup>4</sup></strong><em>Tell</em><em> him Yahveh says, ‘What I’ve built up I’m about to tear down. What I’ve planted I’m about to uproot—the whole land. </em><strong><sup>5</sup></strong><em>Are</em><em> you </em><em>anticipating great things for yourself? Don’t. I’m going to bring disaster on everybody, but I’ll give you your life as a reward of war wherever you go.’”</em><strong></span>
+<p class="MsoNormal" align=center style='margin-bottom:0in;margin-bottom:0in; margin-top:0in;text-align:center'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>When He’d Written It in a Scroll at Jeremiah’s Dictation</span></p>
+
+<p class="MsoNormal" align=center style='margin-bottom:0in;margin-bottom:0in; margin-top:0in;text-align:center'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>in the <b>Fourth Year of Jehoiakim</b>
+<b>Ben-Josiah, King of Judah</b></span></p>
+
+
+### A Message for Baruch
+
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“This is what Yahveh God of Israel says to you, Baruch: </span></i></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘You said, “Misfortune awaits me! Yahveh has added sorrow to pain. I’m exhausted from groaning. I can’t sleep.”’ </span></i></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Tell him Yahveh says, ‘What I’ve built up I’m about to tear down. What I’ve planted I’m about to uproot—the whole land. </span></i></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Are you anticipating great things for yourself? Don’t. I’m going to bring disaster on everybody, but I’ll give you your life as a reward of war wherever you go.’”</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>          </span></b></span></p>
+
 <p class="section-ref">Jer 45:1-5</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

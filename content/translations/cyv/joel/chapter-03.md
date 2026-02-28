@@ -1,59 +1,141 @@
 ---
 book: Joel
 chapter: 3
-prev: chapter-02
 title: Joel 3
 translation: CYV
 type: chapter
 weight: 3
+prev: chapter-02
 ---
 
 ## Joel Chapter 3
 
+
+### Joel 2:28-32
+
+
+
 ### Judgment Against Enemy Nations
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> <em>“When</em><em> I restore the fortunes of Judah and Jerusalem, </em><strong><sup>2</sup></strong><em>I’ll</em><em> gather the nations to the V</em><em>alley of Jehoshaphat</em><em> and</em><em> </em><em>condemn</em><em> them there on behalf of Israel, </em><em>my permanent possession, my people.</em><em> </em><em>T</em><em>hey scattered them among the nations, divided up my land, </em><strong><sup>3</sup></strong><em>cast</em><em> lots for my people, traded a boy for a </em><em>prostitute</em><em>, and </em><em>sold a girl for wine to get drunk on</em><em>.</em><em> </em></span>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> <em>“What</em><em> are you to </em><em>me,</em><em> Tyre,</em><em> Sidon</em><em>, </em><em>Philistia?</em><em> </em>You think <em>you’re </em><em>going to pay me back?</em><em> If you try, I’ll return it</em><em> on your head </em><em>swift</em><em> and soon</em><em>.</em><em> </em><strong><sup>5</sup></strong><em>Y</em><em>ou’ve</em><em> </em><em>stolen</em><em> my silver and gold, taken my precious treasures into your temple</em><em>s</em><em>, </em><strong><sup>6</sup></strong><em>and</em><em> sold </em><em>Judah and Jerusalem to the Greeks to remove the</em><em>m far away.</em><em> </em><strong><sup>7</sup></strong><em>So</em><em> I</em><em>’m going to raise them up from where you sold them and </em><em>pay you back on your own hea</em><em>d.</em><em> </em><strong><sup>8</sup></strong><em>I’ll</em><em> sell </em><em><u>your</u></em><em> sons and daughters to Judah</em><em> to</em><em> sel</em><em>l to the Sabeans far away.</em> <strong><sup>	</sup></strong><strong><sup>	</sup></strong>I, Yahveh, have spoken.”</span>
-<p class="section-ref">Joel 3:1-8</p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“When I restore the fortunes of Judah and Jerusalem, </span></i></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll gather the nations to the Valley of Jehoshaphat and condemn them there on behalf of Israel, my permanent possession, my people. They scattered them among the nations, divided up my land, </span></i></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>cast lots for my people, traded a boy for a prostitute, and sold a girl for wine to get drunk on. </span></i></span></p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> Declare this among the nations: <em>“</em><em>Prepare</em><em> for war; rouse the </em><em>powerful;</em> <em>	</em><em>l</em><em>et the fighting men advance</em><em> and engage</em><em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“What are you to me, Tyre, Sidon, Philistia? </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>You think <i>you’re going to pay me back? If you try, I’ll return it on your head swift and soon. </i></span></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’ve stolen my silver and gold, taken my precious treasures into your temples, </span></i></span>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and sold Judah and Jerusalem to the Greeks to remove them far away. </span></i></span>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So I’m going to raise them up from where you sold them and pay you back on your own head. </span></i></span>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll sell <u>your</u> sons and daughters to Judah to sell to the Sabeans far away.</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>       </span></span></p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>Beat</em><em> your plowshares into swords,</em> <em>	</em><em>	your pruning hooks into </em><em>spears;</em> <em>	have even the weak say, </em><em>‘</em><em>I’m a </em><em>soldier now</em><em>.</em><em>’</em></span>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> <em>Come</em><em> quickly, nations </em><em>everywhere</em><em>;</em> <em>	gather there.”</em> Yahveh, bring out <u>your</u> soldiers!</span>
+### I, Yahveh, have spoken.”                              Joel 3:1-8
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> <em>“</em><em>Let</em><em> the nations muster to the Valley of </em><em>Jehoshaphat</em><em>;</em> <em>t</em><em>hat’s where I’ll pronounce judgment</em><em> on them all.</span>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Declare this among the nations:</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      <i>“Prepare for war; rouse the powerful;</i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      let the fighting men advance and engage.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Beat your plowshares into swords,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            your pruning hooks into spears;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      have even the weak say, ‘I’m a soldier now.’</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Come quickly, nations everywhere;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      gather there.”</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh, bring out <u>your</u> soldiers!</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Let the nations muster to the Valley of Jehoshaphat;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>that’s where I’ll pronounce judgment on them all.    </span></i></span></p>
+
 <p class="section-ref">Joel 3:9-12</p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> <em>Use</em><em> the sickle; the harvest is ripe.</em> <em>	Come and tread; the winepress is </em><em>full;</em> <em>	the vats are overflowing with </em><em>those people’s sinful</em><em>ness.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Use the sickle; the harvest is ripe.</span></i></span></p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> <em>Thousands</em><em> upon thousands in the valley of decision!</em> <em>	</em><em>The day of </em><em>Yahveh</em><em> is near in the valley of decision!</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Come and tread; the winepress is full;</span></i></p>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> <em>The</em><em> sun and moon will grow </em><em>dark;</em> <em>	the stars will quit shining.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      the vats are overflowing with those people’s sinfulness.”</span></i></p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> <em>Yahveh</em><em> </em><em>will roar out of </em><em>Zion;</em> <em>	</em><em>	</em><em>	he’ll thunder from Jerusalem.</em> <em>	Earth and sky will </em><em>reverberate</em><em>;</em> <em>	</em><em>	</em><em>Yahveh</em><em> will be his people’s refuge,</em> <em>	</em><em>	a strong fortress for the sons of Israel.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Thousands upon thousands in the valley of decision!</span></i></span></p>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> <em>Then</em><em> </em><em><u>you’ll know </u></em><em><u>I’m</u></em><em><u> </u></em><em><u>Yahveh</u></em><em><u> your God</u></em><em>,</em> <em>	who lives on Zion, </em><em>my</em><em> holy mountain.</em> <em>So</em><em> Jerusalem will be </em><em>holy;</em> <em>	foreigners will never overrun it again.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      The day of Yahveh is near in the valley of decision!</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The sun and moon will grow dark;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      the stars will quit shining.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh will roar out of Zion;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            he’ll thunder from Jerusalem.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Earth and sky will reverberate;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Yahveh will be his people’s refuge,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            a strong fortress for the sons of Israel.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then
+<u>you’ll know I’m Yahveh your God</u>,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      who lives on Zion, my holy mountain.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So Jerusalem will be holy;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      foreigners will never overrun it again.                 </span></i></span></p>
+
 <p class="section-ref">Joel 3:13-17</p>
+
 
 ### Blessings for God’s People
 
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> <em>“A</em><em>t</em><em> that time, the mountains will drip </em><em>with </em><em>sweet </em><em>wine;</em> <em>	the hills will flow with milk.</em> <em>Water will run down the wadis in </em><em>Judah;</em> <em>	</em><em>a spring</em><em> will </em><em>gush</em><em> out of </em><em>Yahveh’s</em><em> </em><em>Temple</em><em> </em> <em>	</em><em>	and water the Valley of Shittim.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“At that time, the mountains will drip with sweet wine;</span></i></span></p>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> <em>Egypt</em><em> will be a wasteland</em> <em>	and Edom a desert</em> <em>	</em><em>	because of their violence against Judah</em> and the murder of its innocent people.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      the hills will flow with milk.</span></i></p>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> <em>But</em><em> people will live in Judah forever,</em> <em>	in Jerusalem for all generations.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Water will run down the wadis in Judah;</span></i></p>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> <em>I’ll</em><em> avenge their blood that I</em><em> haven’t already </em><em>avenged</em> <em>	</em><em>and make my home with them</em><em> in Zion.”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      a spring will gush out of Yahveh’s Temple </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and water the Valley of Shittim.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Egypt will be a wasteland</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and Edom a desert</span></i></p>
+
+<p class="MsoListBulletCxSpLast" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            because of their violence against Judah</span></i></p>
+
+<p class="MsoNormal">                        and the murder of its innocent people.
+</p>
+
+<p class="MsoListBulletCxSpFirst" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But people will live in Judah forever,</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      in Jerusalem for all generations.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll avenge their blood that I haven’t already avenged</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and make my home with them in Zion.”</span></i></span></p>
+
 <p class="section-ref">Joel 3:18-21</p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Version by Virgil Warren: christir.org</span></p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

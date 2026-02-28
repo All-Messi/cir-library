@@ -1,93 +1,172 @@
 ---
 book: Job
 chapter: 33
-next: chapter-34
-prev: chapter-32
 title: Job 33
 translation: CYV
 type: chapter
 weight: 33
+prev: chapter-32
+next: chapter-34
 ---
 
 ## Job Chapter 33
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> <em>“But</em><em> now, Job, listen to what I </em><em>have to</em><em> </em><em>say;</em> <em>hear me out.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>“But now, Job, listen to what I have to say;</span></i></span></p>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>I’m</em><em> opening my mouth </em><em>now;</em> <em>the tongue in my mouth is speaking.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'>hear me out.</span></i></p>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> <em>What</em><em> I’m saying expresses my </em><em>uprightness;</em> <em>my lips declare knowledge sincerely.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>I’m opening my mouth now;</span></i></span></p>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> <em>The</em><em> Spirit of God has made </em><em>me;</em> <em>the breath of the Almighty gives me breath.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'>the tongue in my mouth is speaking.</span></i></p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>Answer</em><em> me if you </em><em>can;</em> <em>state your case; take your stand.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>What I’m saying expresses my uprightness;</span></i></span></p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>I</em><em> belong to God like you </em><em>do;</em> <em>I’ve been formed out of clay too.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'>my lips declare knowledge sincerely.</span></i></p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>I</em><em> shouldn’t be a </em><em>threat</em><em> </em><em>you;</em> <em>I won’t come down hard on you.</span>
-<p class="section-ref">Job 33:1-7</p>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>The Spirit of God has made me;</span></i></span></p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>“You’ve</em><em> spoken where I could hear </em><em>you;</em> <em>I’ve heard what you said:</em> <strong><sup>9</sup></strong><em>‘I’m</em><em> pure, without sin,</em><em>	</em> <em>innocent, not guilty of anything.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'>the breath of the Almighty gives me breath.</span></i></p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> 'I'm pure, without sin, innocent, not guilty of anything.</span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>Answer me if you can;</span></i></span></p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>He</em><em> invents pretexts against me</em> <em>and considers me his enemy.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'>state your case; take your stand.</span></i></p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> <em>He</em><em> puts my feet in stocks</em> <em>and watches my paths.’</span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>I belong to God like you do;</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'>I’ve been formed out of clay too.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>I shouldn’t be a threat you;</span></i></span></p>
+
+
+### I won’t come down hard on you.                          Job 33:1-7
+
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>“You’ve spoken where I could hear you;</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'>I’ve heard what you said:</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.75in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>‘I’m pure, without sin,     </span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.75in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'>innocent, not guilty of anything.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.75in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>He invents pretexts against me</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.75in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'>and considers me his enemy.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.75in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>He puts my feet in stocks</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.75in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'>and watches my paths.’</span></i><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>                            </span></b></span></p>
+
 <p class="section-ref">Job 33:8-11</p>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> <em>“Let</em><em> me tell you, you’re not right in this,</em> <em>because God is greater than you are.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>“Let me tell you, you’re not right in this,</span></i></span></p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> <em>Why</em><em> do you complain </em> <em>that he won’t account for everything he </em><em>does?</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'>because God is greater than you are.</span></i></p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> <em>God</em><em> speaks in one way, maybe </em><em>two;</em> <em>though people don’t notice it—</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>Why do you complain </span></i></span></p>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> <em>in</em><em> a dream, in a vision at night,</em> <em>when people are sound asleep in bed.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'>that he won’t account for everything he does?</span></i></p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> <em>Then</em><em> he opens their ears and warns them,</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>God speaks in one way, maybe two;</span></i></span></p>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> <em>so</em><em> he can turn them aside from doing wrong</em> <em>and keep them from their pride.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'>though people don’t notice it—</span></i></p>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> <em>He</em><em> holds them back from the Pit</em> <em>and their lives from death by the sword.</span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>in a dream, in a vision at night,</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'>when people are sound asleep in bed.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>Then he opens their ears and warns them,</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>so he can turn them aside from doing wrong</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'>and keep them from their pride.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>He holds them back from the Pit</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in'><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif;color:#00B0F0'>and their lives from death by the sword.  </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>            </span></p>
+
 <p class="section-ref">Job 33:12-18</p>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> <em>“God</em><em> disciplines people with pain on their beds,</em> <em>with constant aching in their </em><em>bones;</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>“God disciplines people with pain on their beds,</span></i></span></p>
 
-<span class="verse" id="v20"><sup class="verse-num">20</sup> <em>so</em><em> they lose their appetites </em> <em>and even their favorite food disgusts them.</em><em>	</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.75in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'>with constant aching in their bones;</span></i></p>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> <em>Their bodies waste away, </em> <em>and their bones show.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>so they lose their appetites </span></i></span></p>
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> <em>Then</em><em> they draw near the </em><em>Pit;</em> <em>they come close to the angels that bring death.</span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.75in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'>and even their favorite food disgusts them.          </span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>Their bodies waste away, </span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.75in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'>and their bones show.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>Then they draw near the Pit;</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'>they come close to the angels that bring death.</span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'>   </span></b></span></p>
+
 <p class="section-ref">Job 33:19-22</p>
 
-<span class="verse" id="v23"><sup class="verse-num">23</sup> <em>“If</em><em> there’s an angel to mediate for some people—</em> <em>one out of a thousand—</em> <em>to say what’s right about them,</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>“If there’s an angel to mediate for some people—</span></i></span></p>
 
-<span class="verse" id="v24"><sup class="verse-num">24</sup> <em>then</em><em> let him be gracious to them and say,</em> <em>‘Deliver them from the </em><em>Pit;</em><em> </em> <em>I’ve found a ransom for these lives.’</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.75in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'>one out of a thousand—</span></i></p>
 
-<span class="verse" id="v25"><sup class="verse-num">25</sup> <em>Let</em><em> their bodies become fresh with youth</em> <em>and return to their youthful vigor.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.75in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'>to say what’s right about them,</span></i></p>
 
-<span class="verse" id="v26"><sup class="verse-num">26</sup> <em>Then</em><em> they’ll pray to God, and he’ll accept them</em> <em>so</em><em> they can see his face with joy</em> <em>and restore their good standing.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>then let him be gracious to them and say,</span></i></span></p>
 
-<span class="verse" id="v27"><sup class="verse-num">27</sup> <em>They’ll</em><em> sing to </em>other <em>people and say,</em> <em>‘I sinned and perverted what’s right,</em> <em>but he didn’t hold it against me.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.75in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'>‘Deliver them from the Pit; </span></i></p>
 
-<span class="verse" id="v28"><sup class="verse-num">28</sup> <em>He’s</em><em> rescued me from the Pit,</em> <em>and I’ll see the light.’</span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.75in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'>I’ve found a ransom for these lives.’</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>Let their bodies become fresh with youth</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'>and return to their youthful vigor.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>Then they’ll pray to God, and he’ll accept them</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'>so they can see his face with joy</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'>and restore their good standing.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>They’ll sing to </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'>other <i>people and say,</i></span></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.75in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'>‘I sinned and perverted what’s right,</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.75in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'>but he didn’t hold it against me.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>He’s rescued me from the Pit,</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.75in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'>and I’ll see the light.’</span></i><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif;color:#00B0F0'>                               </span></b></span></p>
+
 <p class="section-ref">Job 33:23-28</p>
 
-<span class="verse" id="v29"><sup class="verse-num">29</sup> <em>“God</em><em> does these things more than once for </em><em>people;</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>“God does these things more than once for people;</span></i></span></p>
 
-<span class="verse" id="v30"><sup class="verse-num">30</sup> <em>he</em><em> brings them back from the Pit</em> <em>so</em><em> they can see the light of life.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>he brings them back from the Pit</span></i></span></p>
 
-<span class="verse" id="v31"><sup class="verse-num">31</sup> <em>Pay</em><em> attention, Job; </em><em>listen;</em> <em>keep quiet and let me talk.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'>so they can see the light of life.</span></i></p>
 
-<span class="verse" id="v32"><sup class="verse-num">32</sup> <em>Then</em><em> if you have anything to say, you can answer me,</em> <em>because I want to see you justified.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>Pay attention, Job; listen;</span></i></span></p>
 
-<span class="verse" id="v33"><sup class="verse-num">33</sup> <em>If</em><em> not, listen, and I’ll teach you wisdom.”</span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'>keep quiet and let me talk.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>Then if you have anything to say, you can answer me,</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'>because I want to see you justified.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>If not, listen, and I’ll teach you wisdom.”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>         </span></b><b><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>            </span></b></span></span></p>
+
 <p class="section-ref">Job 33:29-33</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

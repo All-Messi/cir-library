@@ -1,64 +1,107 @@
 ---
 book: Matthew
 chapter: 14
-next: chapter-15
-prev: chapter-13
 title: Matthew 14
 translation: CNT
 type: chapter
 weight: 14
+prev: chapter-13
+next: chapter-15
 ---
 
 ## Matthew Chapter 14
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Herod the tetraarch heard about Jesus <strong><sup>2</sup></strong>and told his servants, <em>“That’</em><em>s John the Baptist</em><em>, </em><em>risen from the dead</em><em>. T</em><em>hat’s why </em><em>he has </em><em>miraculous powers</em><em>.”</em> <strong><sup>3</sup></strong>Herod had arrested John, bound him, and put him in prison over Herodias, his brother Philip’s <em>former </em>wife. <strong><sup>4</sup></strong>John kept telling him, <em>“It’s against the L</em><em>aw for you to </em><em>be living with</em><em> her.”</em> <strong><sup>5</sup></strong>Although Herod wanted to put him to death, he was afraid of the people. They considered John a prophet.</span>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> But when Herod’s birthday came, Herodias’ daughter danced at the banquet, and it pleased Herod. <strong><sup>7</sup></strong>So he solemnly swore to give her whatever she asked for. <strong><sup>8</sup></strong>Prompted by her mother, she said, <em>“Give me here the head of John the Baptist on a platter.”</em> <strong><sup>9</sup></strong>Although the king was grieved, because of the oaths and those reclining at table with him, he commanded it to be given. <strong><sup>10</sup></strong>He had John beheaded in the prison. <strong><sup>11</sup></strong>They brought his head and gave it to the girl, and she took it to her mother. <strong><sup>12</sup></strong><em>John’s</em> disciples came and took the corpse and buried it, and went to tell Jesus.</span>
+### Herod’s Conscience Stricken;
+
+
+
+### Confusion of John the Baptist and Jesus
+
+
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Herod the tetraarch heard about Jesus </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and told his servants, <i>“That’s John the Baptist, risen from the dead. That’s why he has miraculous powers.”</i> </span></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Herod had arrested John, bound him, and put him in prison over Herodias, his brother Philip’s <i>former </i>wife. </span></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>John kept telling him, <i>“It’s against the Law for you to be living with her.”</i> </span></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Although Herod wanted to put him to death, he was afraid of the people. They considered John a prophet. </span></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But when Herod’s birthday came, Herodias’ daughter danced at the banquet, and it pleased Herod. </span></span>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So he solemnly swore to give her whatever she asked for. </span></span>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Prompted by her mother, she said, <i>“Give me here the head of John the Baptist on a platter.”</i> </span></span>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Although the king was grieved, because of the oaths and those reclining at table with him, he commanded it to be given. </span></span>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He had John beheaded in the prison. </span></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They brought his head and gave it to the girl, and she took it to her mother. </span></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>John’s</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> disciples came and took the corpse and buried it, and went to tell Jesus.                                                                                                                                  </span></span></p>
+
 <p class="section-ref">Mt 14:1-12</p>
+
 
 ### Feeding the 5,000
 
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> When he heard the news, he withdrew by boat into open country privately. The crowds heard <em>where he was going </em>and followed him on foot from the towns. <strong><sup>14</sup></strong>When he got out, he saw a large crowd and felt sorry for them and healed their sick.</span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he heard the news, he withdrew by boat into open country privately. The crowds heard <i>where he was going </i>and followed him on foot from the towns. </span></span>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he got out, he saw a large crowd and felt sorry for them and healed their sick.
+</span></span></p>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> In the evening his disciples came, <em>“Nobody lives around here</em><em>,</em><em> and it’s </em><em>getting </em><em>late.</em><em> </em><em>Dis</em><em>miss the crowd so they can go to</em><em> the villages and buy food.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In the evening his disciples came, <i>“Nobody lives around here, and it’s getting late. Dismiss the crowd so they can go to the villages and buy food.”</i></span></span></p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> Jesus said, <em>“They don’t</em><em> need to leave.</em><em> </em><em>F</em><em>eed them.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus said, <i>“They don’t need to leave. Feed them.”</i></span></span></p>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> <em>“We</em><em> </em><em>only have </em><em>five loaves and two fish.”</em><em>  </em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“We only have five loaves and two fish.”  </span></i></span></p>
 
-<span class="verse" id="v18"><sup class="verse-num">18</sup> <em>“Bring</em><em> them here.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Bring them here.”</span></i></span></p>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> He told the crowd to sit down on the grass. He took the five loaves and two fish, looked up to heaven and blessed them, broke them up for the disciples to give to the crowd. <strong><sup>20</sup></strong>Everybody ate their fill, and <em>the disciples</em> picked up twelve medium-sized baskets of leftovers. <strong><sup>21</sup></strong>About 5,000 men had eaten—plus women and children.</span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told the crowd to sit down on the grass. He took the five loaves and two fish, looked up to heaven and blessed them, broke them up for the disciples to give to the crowd. </span></span>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Everybody ate their fill, and <i>the disciples</i> picked up twelve medium-sized baskets of leftovers. </span></span>
+<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>About 5,000 men had eaten—plus women and children.                                                                     </span></span></p>
+
 <p class="section-ref">Mt 14:13-21</p>
+
 
 ### Jesus Walking on the Water
 
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> He urged the disciples to get in the boat right way and go on to the other side <em>of the lake </em>while he dismissed the crowd. <strong><sup>23</sup></strong>When he’d dismissed them, he went up on the hill by himself to pray. When evening came, he was there alone. <strong><sup>24</sup></strong>The boat was already a long way from land, and waves were bashing it because the wind was against them. <strong><sup>25</sup></strong>About 4 in the morning, he went to them, walking on the lake. <strong><sup>26</sup></strong>When they saw him, they were terrified. <em>“It’s a ghost</em><em>!</em><em>”</em> they cried out in fear.</span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He urged the disciples to get in the boat right way and go on to the other side <i>of the lake </i>while he dismissed the crowd. </span></span>
+<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he’d dismissed them, he went up on the hill by himself to pray. When evening came, he was there alone. </span></span>
+<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The boat was already a long way from land, and waves were bashing it because the wind was against them. </span></span>
+<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>About 4 in the morning, he went to them, walking on the lake. </span></span>
+<span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When they saw him, they were terrified. <i>“It’s a ghost!”</i> they cried out in fear.</span></span></p>
 
-<span class="verse" id="v27"><sup class="verse-num">27</sup> At once Jesus spoke, <em>“It’s </em><em>me. D</em><em>on’t be afraid.</em><em>”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At once Jesus spoke, <i>“It’s me. Don’t be afraid.”</i></span></span></p>
 
-<span class="verse" id="v28"><sup class="verse-num">28</sup> Peter responded, <em>“I</em><em>f it’s you, </em><em>tell me to </em><em>come to you on the water.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Peter responded, <i>“If it’s you, tell me to come to you on the water.”</i></span></span></p>
 
-<span class="verse" id="v29"><sup class="verse-num">29</sup> <em>“Come</em><em> on.”</em> Peter got down out of the boat and started walking to Jesus on the water. <strong><sup>30</sup></strong>But when he saw the strong wind, he got scared and started to sink. He cried out, <em>“</em><em>Save me!</em><em>”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Come on.”</span></i></span></p>
 
-<span class="verse" id="v31"><sup class="verse-num">31</sup> At once Jesus reached out and grabbed him, <em>“One with little faith, why did you doubt?”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Peter got down out of the boat and started walking to Jesus on the water. </span><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But when he saw the strong wind, he got scared and started to sink. He cried out, <i>“Save me!”</i></span></span></p>
 
-<span class="verse" id="v32"><sup class="verse-num">32</sup> When they climbed up into the boat, the wind died down. <strong><sup>33</sup></strong>The ones in the boat bowed to him, <em>“You really are God’s Son</em><em>!</em><em>”</span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At once Jesus reached out and grabbed him, <i>“One with little faith, why did you doubt?”</i></span></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When they climbed up into the boat, the wind died down. </span></span>
+<span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The ones in the boat bowed to him, <i>“You really are God’s Son!”</i> </span></span></p>
+
 <p class="section-ref">Mt 14:22-33</p>
+
 
 ### Miracles at Gennesaret
 
 
-<span class="verse" id="v34"><sup class="verse-num">34</sup> When they got across, they landed at Gennesaret. <strong><sup>35</sup></strong>The people recognized him and sent out into that whole area for everybody that was sick. <strong><sup>36</sup></strong>They pleaded with him just to let them touch the fringe of his cloak. As many as touched him were cured.</span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When they got across, they landed at Gennesaret. </span></span>
+<span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The people recognized him and sent out into that whole area for everybody that was sick. </span></span>
+<span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>They pleaded with him just to let them touch the fringe of his cloak. As many as touched him were cured.           </span></span></p>
+
 <p class="section-ref">Mt 14:34-36</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

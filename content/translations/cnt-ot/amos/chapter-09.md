@@ -1,56 +1,156 @@
 ---
 book: Amos
 chapter: 9
-prev: chapter-08
 title: Amos 9
 translation: CNT
 type: chapter
 weight: 9
+prev: chapter-08
 ---
 
 ## Amos Chapter 9
 
+
 ### A Vision of Locusts
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> I saw the LORD standing by the altar. He said, <em>	</em><em>“Strike the capitals till the thresholds </em><em>shake;</em> <em>	</em><em>	</em><em>shatter them on the </em><em>people’s </em><em>heads.</em> <em>	What’s left, I’ll </em><em>slay</em><em> with the </em><em>sword;</em> <em>	</em><em>	no fugitive will get away or refugee escape.</em></span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> <em>Though</em><em> they dig down to Sheol,</em> <em>	</em><em>	I’ll bring them up.</em> <em>	Though they fly up to the sky,</em> <em>	</em><em>	I’ll bring them down.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I saw the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> standing by the altar. He said,</span></span></p>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> <em>Though</em><em> they hide on top of Carmel,</em> <em>	</em><em>	I’ll look for them and banish them.</em> <em>	Though they hide on the floor of the sea,</em> <em>	</em><em>	I’ll tell a sea serpent to bite them.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      “Strike the capitals till the thresholds shake;</span></i></p>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> <em>Even</em><em> if their enemies take them into exile,</em> <em>	</em><em>	I’ll command a sword to slay them.</em> <em>	I’m determined to oppose them.”</span>
-<p class="section-ref">Amos 9:1-4</p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            shatter them on the people’s heads.</span></i></p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> The Lord Yahveh of Hosts— who touches the land and turns it into lava that makes the people mourn, and the ground floods like the Nile and goes down again;</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      What’s left, I’ll slay with the sword;</span></i></p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> the One who builds upper rooms that reach into the sky and lays their foundations on the earth, who draws up water from the sea and pours it out <em>as rain</em> on the land— his name is Yahveh.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            no fugitive will get away or refugee escape.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         2</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Though they dig down to Sheol,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            I’ll bring them up.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Though they fly up to the sky,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            I’ll bring them down.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         3</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Though they hide on top of Carmel,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            I’ll look for them and banish them.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Though they hide on the floor of the sea,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            I’ll tell a sea serpent to bite them.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         4</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Even if their enemies take them into exile,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            I’ll command a sword to slay them.</span></i></p>
+
+
+### I’m determined to oppose them.”                                     Amos 9:1-4
+
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span><a name="_Hlk146897352"><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Lord Yahveh of Hosts—</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      who touches the land </span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and turns it into lava that makes the people mourn,</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and the ground floods like the Nile and goes down again;</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         6</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the One who builds upper rooms that reach into the sky</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and lays their foundations on the earth,</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            who draws up water from the sea</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and pours it out <i>as rain</i> on the land—</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  his name is Yahveh.<b>                                              </b></span></p>
+
 <p class="section-ref">Amos 9:5-6</p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>“A</em><em>ren’t</em><em> you like Nubia to me, Israel?</em> <em>  </em><em>	 </em><em>Haven’t I brought Israel up from Egypt,</em> <em>	</em><em>	</em><em>the Philistines from </em><em>Crete</em><em>, </em> <em>	</em><em>	</em><em>the Syrians from Kir?</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         <a name="_Hlk122901545">7</a></span></sup></b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>“Aren’t you like Nubia to me, Israel?</span></i></p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>I</em><em> keep my </em><em>eye on sinful kingdom</em><em>s and destroy </em><em>them</em><em>;</em> <em>	</em><em>	but</em><em> I won’t </em><em>completely</em><em> destroy</em><em> </em><em>the House of </em><em>Jacob</em><em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> Haven’t I brought Israel up from Egypt,</span></i></p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>I’</em><em>ll</em><em> give the</em><em> command</em> <em>	</em><em>	</em><em>to</em><em> shake </em><em>the House</em><em> </em><em>of Jacob </em><em>among all nations</em> <em>	</em><em>	</em><em>	</em><em>like grain in a sieve,</em> <em>	</em><em>	</em><em>but not a kernel will </em><em>fall</em><em> on the ground.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            the Philistines from Crete, </span></i></p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>All</em><em> the sinners among</em><em> my people will die by the sword</em> <em>	</em><em>	who</em><em> say, ‘</em><em>Catastrophe</em><em> won</em><em>’t overtake </em><em>us.’</em> 	<strong>A Promise of Restoration</strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            the Syrians from Kir?</span></i></p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> <em>At</em><em> that time, </em><em>I’ll </em><em>rebuild</em><em> </em><em>David’s</em><em> fallen </em><em>shelter</em> <em>	</em><em>	</em><em>	</em><em>and </em><em>fix the breaches in its walls.</em> <em>	</em><em>	</em><em>I’ll raise</em><em> it</em><em> up </em><em>from </em><em>its ruins</em> <em>	</em><em>	</em><em>	and restore it like </em>it was<em> in the old days</em><em>,</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         8</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I keep my eye on sinful kingdoms and destroy them;</span></i></p>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> <em>so</em><em> they can possess </em><em>what’s left</em><em> of Edom</em> <em>	</em><em>	</em><em>	</em><em>and all the </em><em>nations</em><em> </em><em>that wear my name.”</em><strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            but I won’t completely destroy the House of Jacob.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         9</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll give the command</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            to shake the House of Jacob among all nations</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  like grain in a sieve,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            but not a kernel will fall on the ground.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         10</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>All the sinners among my people will die by the sword</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            who say, ‘Catastrophe won’t overtake us.’</span></i></p>
+
+
+### A Promise of Restoration
+
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         11</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At that time, I’ll rebuild David’s fallen shelter</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and fix the breaches in its walls.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            I’ll raise it up from its ruins</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and restore it like </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>it was<i> in the old days,</i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  12</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>so they can possess what’s left of Edom</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and all the nations that wear my name.”</span></i></span></p>
+
 <p class="section-ref">Amos 9:7-12</p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> The LORD says,<em> </em> <em>	</em><em>“</em><em>The time’s coming,</em> <em>w</em><em>hen</em><em> reaping will last till</em><em> plow</em><em>ing </em> <em>	</em><em>	</em><em>	</em><em>and </em><em>grape</em><em> treading </em><em>will</em><em> </em><em>go on</em><em> t</em><em>ill</em><em> </em><em>sowing time</em><em>,</em> <em>	</em><em>	</em><em>when </em><em>new wine will drip from the mountains </em> <em>	</em><em>	</em><em>	and flow from the hills.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says,<i> </i></span></span></p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> <em>I’ll</em><em> return</em><em> my people Israel</em><em> </em><em>from captivity.</em><em> </em> <em>	They’ll rebuild</em><em> the </em><em>ruined towns and live in them,</em> <em>	</em><em>	</em><em>plant</em><em> vineyards and drink their wine,</em> <em>	</em><em>	plant</em><em> </em><em>gardens</em><em> and eat their </em><em>produce</em><em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      “The time’s coming,</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span></p>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> <em>I’ll</em><em> plant them in their own </em><em>country</em><em>;</em> <em>	they</em><em> won’t </em><em>be uprooted </em><em>again </em><em>from the land</em> <em>	</em><em>	I’ve given them.</em><em>”</span>
-<p class="section-ref">Amos 9:13-15</p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <i>when reaping will last till plowing </i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and grape treading will go on till sowing time,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><a name="_Hlk122901614"></a><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>when new wine will drip from the mountains
+</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and flow from the hills.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll return my people Israel from captivity. </span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      They’ll rebuild the ruined towns and live in them,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            plant vineyards and drink their wine,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            plant gardens and eat their produce.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll plant them in their own country;</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      they won’t be uprooted again from the land</span></i></p>
+
+
+### I’ve given them.”                                                        Amos 9:13-15
+
+
+<p class="MsoListBulletCxSpMiddle" ><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Version by Virgil Warren: christir.org</span></p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

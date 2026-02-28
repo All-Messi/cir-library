@@ -1,37 +1,88 @@
 ---
 book: Jeremiah
 chapter: 47
-next: chapter-48
-prev: chapter-46
 title: Jeremiah 47
 translation: CYV
 type: chapter
 weight: 47
+prev: chapter-46
+next: chapter-48
 ---
 
 ## Jeremiah Chapter 47
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> A Message from Yahveh to Jeremiah About the Philistines Before Pharaoh Conquered Gaza</span>
+<p class="MsoNormal" align=center style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;text-align:center;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A Message from Yahveh to Jeremiah</span></span></p>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> Yahveh says, <em>“A flood is swelling up from the </em><em>north;</em> <em>	</em><em>	it will become a tsunami.</em> <em>	It’ll flood the land and everything in it,</em> <em>	</em><em>	the cities and those who live in them.</em> <em>	People will cry </em><em>out;</em> <em>	</em><em>	everybody in the land will wail.</em></span>
+<p class="MsoNormal" align=center style='margin-bottom:0in;margin-bottom:0in; margin-top:0in;text-align:center'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>About the Philistines Before Pharaoh Conquered Gaza</span></p>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> <em>Because</em><em> of the noise of stallions,</em> <em>	</em><em>	rushing chariots, wheels,</em> <em>	fathers won’t look back for their </em><em>children;</em> <em>	</em><em>	they’ll be too overwhelmed</span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh says,</span></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <i>“A flood is swelling up from the north;</i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  it will become a tsunami.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            It’ll flood the land and everything in it,</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  the cities and those who live in them.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            People will cry out;</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  everybody in the land will wail.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Because of the noise of stallions,</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  rushing chariots, wheels,</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            fathers won’t look back for their children;</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  they’ll be too overwhelmed</span></i><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>                                              </span></b></span></p>
+
 <p class="section-ref">Jer 47:1-3</p>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> <em>by</em><em> what’s coming</em> <em>	</em><em>	</em><em>	</em><em>	to destroy the Philistines,</em> <em>	</em><em>	</em><em>	</em><em>	to cut off from Tyre and Sidon</em> <em>	</em><em>	</em><em>	</em><em>	</em><em>	every </em><em>ally</em><em> that’s left.</em> <em>	Yahveh will destroy the Philistines,</em> <em>	</em><em>	the remnant along the coast of Crete.</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>by what’s coming</span></i></span></p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>Gaza</em><em> will be </em><em>bald;</em> <em>	</em><em>	Ashkelon will lie in ruins.</em> <em>	Remnant in the plain,</em> <em>	</em><em>	how long will you </em><em>gash</em><em> yourselves?</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              to destroy the Philistines,</span></i></p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>Sword</em><em> of Yahveh,</em> <em>	</em><em>	how long before you’re still,</em> <em>	</em><em>	before you go back into your sheath?</em></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              to cut off from Tyre and Sidon</span></i></p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>But</em><em> how can it be still</em> <em>	</em><em>	when Yahveh </em><em>has ordered</em><em> it to attack</em> <em>	</em><em>	against Ashkelon and the seacoast?”</span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    every ally that’s left.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Yahveh will destroy the Philistines,</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  the remnant along the coast of Crete.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gaza will be bald;</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  Ashkelon will lie in ruins.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Remnant in the plain,</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  how long will you gash yourselves?</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Sword of Yahveh,</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  how long before you’re still,</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  before you go back into your sheath?</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But how can it be still</span></i></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  when Yahveh has ordered it to attack</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  against Ashkelon and the seacoast?”</span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                               </span></b></span></p>
+
 <p class="section-ref">Jer 47:4-7</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

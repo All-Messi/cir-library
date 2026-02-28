@@ -22,6 +22,10 @@
             <p class="translation-desc">An original translation by Dr. Virgil Warren</p>
             {{ end }}
             <div class="translation-actions">
+                {{ if eq .Params.type "harmony-home" }}
+                <a href="{{ .RelPermalink }}section-01/" class="btn btn-primary">Start Reading</a>
+                <a href="{{ .RelPermalink }}" class="btn btn-secondary">Browse Topics</a>
+                {{ else }}
                 {{ $firstBook := index .Sections 0 }}
                 {{ if $firstBook }}
                 {{ $firstChapter := index $firstBook.Pages 0 }}
@@ -30,6 +34,7 @@
                 {{ end }}
                 {{ end }}
                 <a href="{{ .RelPermalink }}" class="btn btn-secondary">Browse Books</a>
+                {{ end }}
             </div>
         </div>
         {{ end }}

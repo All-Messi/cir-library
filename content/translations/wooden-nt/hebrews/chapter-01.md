@@ -1,42 +1,101 @@
 ---
 book: Hebrews
 chapter: 1
-next: chapter-02
 title: Hebrews 1
 translation: WNT
 type: chapter
 weight: 1
+next: chapter-02
 ---
 
 ## Hebrews Chapter 1
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> In-many-parts and in-many ways [the] God of-old, having-spoken to-the falters in the prophets <strong><sup>2</sup></strong>at (the) last of-[the] these days he-spoke to-us in (a) Son, whom he-appointed heir of-all-things, through whom also he-made the worlds-ages; <strong><sup>3</sup></strong>who being (the) direct-shining of-the/his glory and (the) exact-image of-the substance/nature of-him, and upholding [the] all-things by-the word of-the power of-him, having-made purification of-[the] sins, sat-down on (the) right-(hand) of-the Majesty in (the) high-things, <strong><sup>4</sup></strong>having-become as-much better than-the angels as he-has-inherited (a) more-excellent name than they.</span>
+<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></b><b><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>1</span></b><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>:1</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In-many-parts and in-many ways [the] God of-old, having-spoken to-the falters in the prophets
+</span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>at (the) last of-[the] these days he-spoke to-us in (a) Son, whom he-appointed heir of-all-things, through whom also he-made the worlds-ages; </span></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>who being (the) direct-shining of-the/his glory and (the) exact-image of-the substance/nature of-him, and upholding [the] all-things by-the word of-the power of-him, having-made purification of-[the] sins, sat-down on (the) right-(hand) of-the Majesty in (the) high-things, </span></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>having-become as-much better than-the angels as he-has-inherited (a) more-excellent name than they.</span></span></p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> For to-which of-the angels did-he┘ever└say, 	<strong><em>“You are my </em></strong><strong><em>Son;</em></strong> 	<strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>t</em></strong><strong><em>oday </em></strong><strong><em>I-have</em></strong><strong><em>-begotten </em></strong><strong><em>you”?</em></strong> and again, 	<strong><em>“I-will-be to-him for (a) Father,</em></strong> 	<strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>a</em></strong><strong><em>nd he will-be to-me for (a) Son”?</em></strong></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For to-which of-the angels did-he┘ever└say,</span></span></p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> And again when he-brings the Firstborn into the world, he-says, 	<strong><em>“And </em></strong><strong><em>let┘all</em></strong><strong><em> (the) angels </em></strong><strong><em>of-God└worship</em></strong><strong><em> him.”</em></strong></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b><i>“You are my Son;</i></b></span></p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> And to the angels he-says, 	<strong><em>“The-One making the angels of-him spirits</em></strong> 	<strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	and the-ones serv</em></strong><strong><em>ing him (a) flame of-fire.”</em></strong></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    today I-have-begotten you”?</span></i></b></p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> But to the Son (he says), <strong><em>“The throne of-you, [the] God, (is) </em></strong><strong><em>unto the age of-the-age/</em></strong><strong><em>forevermore</em></strong><strong><em><sup>5</sup></em></strong><strong><em>,</em></strong> 	<strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	and the scepter of-the kingdom of-you</em></strong> 	<strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>is (a) scepter of-[the] </em></strong><strong><em>righteousness;</em></strong></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and again,</span></p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> <strong><em>y</em></strong><strong><em>ou-loved righteousness and hated </em></strong><strong><em>lawlessness;</em></strong> 	<strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	o</em></strong><strong><em>n-account-of which [t</em></strong><strong><em>he] God, the G</em></strong><strong><em>od of-you,</em></strong> 	<strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>anointed┘you└with</em></strong><strong><em> (the) olive-oil of-gladness</em></strong> 	<strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>more-than the companions of-you.</em></strong><strong><em>”</em></strong></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b><i>“I-will-be to-him for (a) Father,</i></b></span></p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> and, 	<strong><em>“You from (the) beginning, Lord, founded the earth</em></strong> 	<strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	and the heavens are works of-the hands of-you.</em></strong></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and he will-be to-me for (a) Son”?</span></i></b></p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> <strong><em><u>They</u></em></strong><strong><em> will-perish, but </em></strong><strong><em><u>you</u></em></strong><strong><em> will-remain,</em></strong> 	<strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	and all like (a) robe will-get-old,</em></strong></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And again when he-brings the Firstborn into the world, he-says,</span></span></p>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> <strong><em>and</em></strong><strong><em> </em></strong><strong><em>you-will-fold┘them└up</em></strong><strong><em> like (a) cloak,</em></strong> <em>	</em><em>	</em><em>	like (a) robe </em><strong><em>they-will┘also└be-exchanged</em></strong><strong><em>.</em></strong> 	<em>	</em><em>	</em><strong><em>But </em></strong><strong><em><u>you</u></em></strong><strong><em> are the same,</em></strong> 	<strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	and the years of-you will-not-end.”</em></strong></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b><i>“And let┘all (the) angels of-God└worship him.”</i></b></span></p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> To which of-the angels did-he┘ever└say, 	<strong><em>“Sit on (the) right-(hand) of-me,</em></strong> 	<strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>until</em></strong><strong><em><sup>2</sup></em></strong><strong><em> I make the enemies of-you</em></strong> 	<strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	</em></strong><strong><em>	(a) footstool of-the feet of-you”?</em></strong></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And to the angels he-says,</span></span></p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> Are-they not all ministering spirits sent for ministry on-account-of the-ones going to-inherit salvation?</span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b><i>“The-One making the angels of-him spirits</i></b></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and the-ones serving him (a) flame of-fire.”</span></i></b></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But to the Son (he says),</span></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b><i>“The throne of-you, [the] God, (is) </i></b></span><b><i><span style='font-size: 10.0pt;line-height:115%;font-family:"Times New Roman",serif'>unto the age of-the-age/forevermore<sup>5</sup></span></i></b><b><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,</span></i></b></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and the scepter of-the kingdom of-you</span></i></b></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                is (a) scepter of-[the] righteousness;</span></i></b></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i></b><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>you-loved righteousness and hated lawlessness;</span></i></b></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    on-account-of which [the] God, the God of-you,</span></i></b></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                anointed┘you└with (the) olive-oil of-gladness</span></i></b></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                more-than the companions of-you.”</span></i></b></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and,</span></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b><i>“You from (the) beginning, Lord, founded the earth</i></b></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and the heavens are works of-the hands of-you.</span></i></b></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i></b><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <b><i><u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They</span></u></i></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> will-perish, but <u>you</u> will-remain,</span></i></b></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and all like (a) robe will-get-old,</span></i></b></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i></b><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and you-will-fold┘them└up like (a) cloak,</span></i></b></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    like (a) robe <b>they-will┘also└be-exchanged.</b></span></i></p>
+
+
+### But
+you are the same,
+
+
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and the years of-you will-not-end.”</span></i></b></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>To which of-the angels did-he┘ever└say,</span></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b><i>“Sit on (the) right-(hand) of-me,</i></b></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    until<sup>2</sup> I make the enemies of-you</span></i></b></p>
+
+
+### (a) footstool of-the feet of-you”?
+
+
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Are-they not all ministering spirits sent for ministry on-account-of the-ones going to-inherit salvation?</span></span></p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

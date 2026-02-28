@@ -1,40 +1,72 @@
 ---
 book: Joshua
 chapter: 2
-next: chapter-03
-prev: chapter-01
 title: Joshua 2
 translation: CYV
 type: chapter
 weight: 2
+prev: chapter-01
+next: chapter-03
 ---
 
 ## Joshua Chapter 2
 
+
 ### Rahab and the Spies
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Joshua sent two men secretly from Shittim to<em> </em>check out the land, Jericho in particular.<em> </em>They went to the house of a harlot named Rahab to lodge. <strong><sup>2</sup></strong>The king of Jericho heard about it, <em>“Some men from Israel have come here tonight to spy out the land</em><em>.”</em><strong><sup> </sup></strong><strong><sup>3</sup></strong>He sent to Rahab, <em>“Bring </em><em>the m</em><em>en that have come to your house. They’re spies</em><em>.”</em> <strong><sup>4</sup></strong>But the woman had hidden them, <em>“</em><em>M</em><em>en did come, but I didn’t know where they </em><em>came</em><em> from.</em><em> </em><strong><sup>5</sup></strong><em>They</em><em> left w</em><em>hen the gate </em><em>closed</em><em> at dark.</em><em> </em><em>I don’t know where they went.</em><em> Follow them right away so y</em><em>ou can catch</em><em> </em><em>up with them.”</em> <strong><sup>6</sup></strong>But she’d taken them up to the roof and hidden them under stalks of flax. <strong><sup>7</sup></strong>The men pursued them toward the Jordan as far as the fords. As soon as they left, the gate was shut.</span>
-<p class="section-ref">Josh 2:1-7</p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> Before they lay down, she came up to the roof <strong><sup>9</sup></strong>and said, <em>“I know Yahveh is going to</em><em> </em><em>deliver</em><em> the land</em><em> to you</em><em>.</em><em> We’re all afraid; t</em><em>he </em><em>people are </em><em>melt</em><em>ing</em><em> away </em><em>on account of</em><em> you.</em><em> </em><strong><sup>10</sup></strong><em>We’ve</em><em> heard how </em><em>he</em><em> dried up the Red Sea </em><em>for</em><em> you when you </em><em>left</em><em> Egypt, and how you destroyed </em><em>Sihon and Og</em><em> beyond the Jordan.</em><em> </em><strong><sup>11</sup></strong><em>As</em><em> soon as we heard it, our hearts melted</em><em>. Nobody had any courage left. Yahveh</em><em> your God is God in heaven above and on earth be</em><em>low</em><em>.</em><em> </em><strong><sup>12</sup></strong><em>Now</em><em>, swear by </em><em>him</em><em> that as I’ve dealt </em><em>gracious</em><em>ly with you, you’ll dea</em><em>l graciously with my father’s family. G</em><em>ive me a </em><em>guarantee</em><em> </em><strong><sup>13</sup></strong><em>that</em><em> you’ll</em><em> save my </em><em>parents</em><em>, brothers and sisters, and </em><em>their relatives</em><em>.”</em><em> </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Joshua sent two men secretly from Shittim to<i> </i>check out the land, Jericho in particular.<i> </i>They went to the house of a harlot named Rahab to lodge. </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king of Jericho heard about it, <i>“Some men from Israel have come here tonight to spy out the land.”</i></span><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'> 3</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He sent to Rahab, <i>“Bring the men that have come to your house. They’re spies.”</i>
+</span></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But the woman had hidden them, <i>“Men did come, but I didn’t know where they came from. </i></span></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They left when the gate closed at dark. I don’t know where they went. Follow them right away so you can catch up with them.”</span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But she’d taken them up to the roof and hidden them under stalks of flax. </span></span>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The men pursued them toward the Jordan as far as the fords. As soon as they left, the gate was shut.
+</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Josh 2:1-7</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                                                                                                                                                                                                                                                                                             </span></span></p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> They said, <em>“Our life for yours! If you don’t tell </em><em>why we’re here</em><em>, </em><em>you can trust us to</em><em> deal </em><em>gracious</em><em>ly with you when </em><em>Yahveh</em><em> gives us the land.”</em><em> </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Before they lay down, she came up to the roof </span></span>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and said, </span></span></p>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> Her house was built against the city wall. She let them down by a rope through the window and <strong><sup>16</sup></strong>told them, <em>“Go</em><em> up into the hills</em><em> so </em><em>you won’t run into </em><em>the </em><em>ones that are searching for you</em><em>.</em><em> Hide </em><em>there</em><em> three days till they</em><em> </em><em>get back</em><em>.</em><em> </em><em>Then you</em><em>’ll be able to</em><em> go.”</em><strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I know Yahveh is going to deliver the land to you. We’re all afraid; the people are melting away on account of you. </span></i><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We’ve heard how he dried up the Red Sea for you when you left Egypt, and how you destroyed Sihon and Og beyond the Jordan. </span></i></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As soon as we heard it, our hearts melted. Nobody had any courage left. Yahveh your God is God in heaven above and on earth below. </span></i></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now, swear by him that as I’ve dealt graciously with you, you’ll deal graciously with my father’s family. Give me a guarantee </span></i></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>that you’ll save my parents, brothers and sisters, and their relatives.” </span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They said, <i>“Our life for yours! If you don’t tell why we’re here, you can trust us to deal graciously with you when Yahveh gives us the land.” </i></span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Her house was built against the city wall. She let them down by a rope through the window and
+</span></span>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>told them, <i>“Go up into the hills so you won’t run into the ones that are searching for you. Hide there three days till they get back. Then you’ll be able to go.”</i></span></span></p>
+
 <p class="section-ref">Josh 2:8-16</p>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> They said, <em>“We won’t be guilty of the oath you had us swear. </em><strong><sup>18</sup></strong><em>When</em><em> we come, tie this scarlet cord in the window you let us down through. Get your parents, brothers, and father’s family into the house. </em><strong><sup>19</sup></strong><em>If</em><em> any of them goes out into the street, their </em><em>blood’s</em><em> on themselves. But if a hand is laid on anybody that’s in the house with you, that person’s </em><em>blood’s</em><em> on us. </em><strong><sup>20</sup></strong><em>If</em><em> you tell why we’re </em><em>here,</em><em> we won’t be obligated by the oath.” </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They said, <i>“We won’t be guilty of the oath you had us swear. </i></span></span>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When we come, tie this scarlet cord in the window you let us down through. Get your parents, brothers, and father’s family into the house. </span></i></span>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If any of them goes out into the street, their blood’s on themselves. But if a hand is laid on anybody that’s in the house with you, that person’s blood’s on us. </span></i></span>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you tell why we’re here, we won’t be obligated by the oath.” </span></i></span></p>
 
-<span class="verse" id="v21"><sup class="verse-num">21</sup> <em>“All</em><em> </em><em>right.”</em><em> </em> She sent them away and tied the scarlet cord in the window.<strong>	</strong><strong>	</strong><strong>	       </strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“All right.” </span></i></span></p>
 
-<span class="verse" id="v22"><sup class="verse-num">22</sup> They went into the hills for three days till the ones that were looking for them got back. They’d looked all along the road and didn’t find anything. <strong><sup>23</sup></strong>Then the two men came back down from the hills and crossed over to Joshua. They told him what all had happened, <strong><sup>24</sup></strong><em>“Yahveh</em><em> has for sure delivered the land to us. The inhabitants have lost heart over us.”</span>
+
+### She sent them away and tied the scarlet cord in the window.
+
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They went into the hills for three days till the ones that were looking for them got back. They’d looked all along the road and didn’t find anything. </span></span>
+<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then the two men came back down from the hills and crossed over to Joshua. They told him what all had happened, </span></span>
+<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Yahveh has for sure delivered the land to us. The inhabitants have lost heart over us.”                         </span></i></span></span></p>
+
 <p class="section-ref">Josh 2:17-24</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

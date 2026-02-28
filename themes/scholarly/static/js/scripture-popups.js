@@ -222,8 +222,14 @@
     var container = document.querySelector('.chapter-content');
     if (!container) return;
 
-    var verses = container.querySelectorAll('.verse');
-    verses.forEach(function (verse) {
+    // Scan .verse spans AND non-verse paragraphs (continuation lines)
+    var targets = [];
+    container.querySelectorAll('.verse').forEach(function(v) { targets.push(v); });
+    // Also scan paragraphs that don't contain .verse spans (continuation lines with refs)
+    container.querySelectorAll('p').forEach(function(p) {
+      if (!p.querySelector('.verse') && !p.closest('.verse')) targets.push(p);
+    });
+    targets.forEach(function (verse) {
       var text = verse.textContent || '';
 
       // Find all [...] patterns containing digits with colon (potential scripture refs)
@@ -457,27 +463,44 @@
       for (var i = 0; i < allVerseSpans.length; i++) {
         var span = allVerseSpans[i];
         var sups = span.querySelectorAll('sup');
+        // Build list of verse numbers with their sup elements
+        var verseNums = [];
         for (var j = 0; j < sups.length; j++) {
-          var supText = sups[j].textContent.trim().replace(/[^0-9\-]/g, '');
-          if (!supText) continue;
-          // Check single number or range like "13" or "4-6"
-          var parts = supText.split('-').filter(Boolean);
-          var lo = parseInt(parts[0], 10);
-          var hi = parts.length > 1 ? parseInt(parts[1], 10) : lo;
-          if (isNaN(lo)) continue;
-          for (var v2 = verseNum; v2 <= end; v2++) {
-            if (v2 >= lo && v2 <= hi) {
-              var clone2 = span.cloneNode(true);
-              clone2.querySelectorAll('.scripture-ref').forEach(function (sr) {
-                sr.replaceWith(document.createTextNode(sr.textContent));
-              });
-              verses.push(clone2.innerHTML);
-              i = allVerseSpans.length; // break outer loop too
-              break;
-            }
-          }
-          if (verses.length > 0) break;
+          var supText = sups[j].textContent.trim().replace(/[^0-9]/g, '');
+          var n = parseInt(supText, 10);
+          if (!isNaN(n) && n > 0 && n < 200) verseNums.push({ num: n, el: sups[j] });
         }
+        // Check if target verse is in this span
+        var hasTarget = verseNums.some(function(vn) { return vn.num >= verseNum && vn.num <= end; });
+        if (!hasTarget) continue;
+
+        // Use HTML string slicing to extract just the target verse
+        var clone2 = span.cloneNode(true);
+        var fullHtml = clone2.innerHTML;
+        // Build regex to find <sup> tags containing verse numbers
+        var supPattern = /<sup[^>]*>\s*(\d+)\s*<\/sup>/gi;
+        var supPositions = [];
+        var match;
+        while ((match = supPattern.exec(fullHtml)) !== null) {
+          var sn = parseInt(match[1], 10);
+          if (!isNaN(sn) && sn > 0 && sn < 200) {
+            supPositions.push({ num: sn, start: match.index, end: match.index + match[0].length });
+          }
+        }
+        // Find start position (the <sup>14</sup>) and end position (the <sup>15</sup>)
+        var startPos = -1, endPos = fullHtml.length;
+        for (var p = 0; p < supPositions.length; p++) {
+          if (supPositions[p].num === verseNum) startPos = supPositions[p].start;
+          if (startPos >= 0 && supPositions[p].num > end) { endPos = supPositions[p].start; break; }
+        }
+        if (startPos >= 0) {
+          var extracted = fullHtml.substring(startPos, endPos).trim();
+          // Clean up any unclosed/unopened tags
+          verses.push(extracted);
+        } else {
+          verses.push(fullHtml);
+        }
+        break; // done
       }
     }
 

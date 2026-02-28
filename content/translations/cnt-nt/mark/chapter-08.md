@@ -1,70 +1,130 @@
 ---
 book: Mark
 chapter: 8
-next: chapter-09
-prev: chapter-07
 title: Mark 8
 translation: CNT
 type: chapter
 weight: 8
+prev: chapter-07
+next: chapter-09
 ---
 
 ## Mark Chapter 8
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> At that time again, the large crowd didn’t have anything to eat. Jesus called<sup>p</sup> the disciples over, <strong><sup>2</sup></strong><em>“I</em><em> </em><em>feel for</em><em> the crowd.</em><em> </em><em>They’ve stayed with me </em><em>three </em><em>days already and don’t have any food.</em><em> </em><strong><sup>3</sup></strong><em>If</em><em> I send them home hungry, they’ll </em><em>collapse</em><em> on the way.</em><em> </em><em>Some of them have come a long way.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><b><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>8</span></b><b><sup><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>:</span></sup></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>At that time again, the large crowd didn’t have anything to eat. Jesus called<sup>p</sup> the disciples over, </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt; font-family:"Times New Roman",serif'>“I feel for the crowd. They’ve stayed with me three days already and don’t have any food. </span></i></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>If I send them home hungry, they’ll collapse on the way. Some of them have come a long way.”</span></i></span></p>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> His disciples answered, <em>“Where </em><em>can anyone</em><em> satisfy them </em><em>out </em><em>here in the </em><em>open </em><em>country?”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>His disciples answered, <i>“Where can anyone satisfy them out here in the open country?”</i></span></span></p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>“How many loaves do you have?”</em> <em>	“</em><em>Seven</em><em>.”</em></span>
+<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“How many loaves do you have?”</span></i></span></p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> He told<sup>p</sup> the crowd to sit down. He took the seven loaves, blessed them, and gave them to his disciples to distribute to the crowd. <strong><sup>7</sup></strong>They had a few small fish. He blessed them and said to pass them out too. <strong><sup>8</sup></strong>The people ate till they were full, and the <em>disciples</em> picked up seven large baskets of pieces. <strong><sup>9</sup></strong>About 4,000 were there, and he dismissed them. <strong><sup>10</sup></strong>Directly he got in the boat with his disciples and went to the vicinity of Dalmanutha.</span>
+<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            “Seven.”</span></i></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>He told<sup>p</sup> the crowd to sit down. He took the seven loaves, blessed them, and gave them to his disciples to distribute to the crowd. </span></span>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size: 12.0pt;font-family:"Times New Roman",serif'>They had a few small fish. He blessed them and said to pass them out too. </span></span>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>The people ate till they were full, and the <i>disciples</i> picked up seven large baskets of pieces. </span></span>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>About 4,000 were there, and he dismissed them. </span></span>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size: 12.0pt;font-family:"Times New Roman",serif'>Directly he got in the boat with his disciples and went to the vicinity of Dalmanutha.
+</span></span></p>
+
 <p class="section-ref">Mk 8:1-10</p>
 
-### Visit to Magadan; 	Demand for a Sign from the Sky
+
+### Visit to Magadan;
 
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> They asked him, <em>“Why do the scribes say Elijah has to come first?”</em></span>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> When they got back to the rest of the disciples, they saw a big crowd around them and scribes arguing with them. <strong><sup>15</sup></strong>When they saw him, the whole crowd was really surprised and ran to greet him. <strong><sup>16</sup></strong>Jesus asked, <em>“Why are you arguing with them?”</em></span>
-
-<span class="verse" id="v20"><sup class="verse-num">20</sup> They brought him; and when the spirit saw Jesus, it threw the boy into convulsions. He fell on the ground and rolled around and foamed at the mouth.</span>
-
-<span class="verse" id="v21"><sup class="verse-num">21</sup> Jesus asked his dad, <em>“How long has this been going on?”</em> <em>“Ever since he was little.</em><em> </em><strong><sup>22</sup></strong><em>Lots</em><em> of times it’</em><em>s thrown him into </em><em>the </em><em>fire or </em><em>the </em><em>water to destroy him.</em><em> </em><em>But if you can, help us; have sympathy for us.”</em></span>
-
-<span class="verse" id="v22"><sup class="verse-num">22</sup> They went<sup>p</sup> to Bethsaida, and people brought<sup>p</sup> Jesus a blind man and asked<sup>p</sup> him to touch him. <strong><sup>23</sup></strong>He led him by the hand out of the village. He spit on his eyes and put his hands on him, and asked, <em>“Do you see anything?”</em></span>
-
-<span class="verse" id="v24"><sup class="verse-num">24</sup> His dad cried out, <em>“</em><em>I believe! H</em><em>elp my unbelief!”</em></span>
-
-<span class="verse" id="v25"><sup class="verse-num">25</sup> When Jesus saw the crowd quickly coming together, he commanded the unclean spirit, <em>“Mute and deaf spirit, I charge you, come out of him and don’t go into him again.”</em></span>
-
-<span class="verse" id="v26"><sup class="verse-num">26</sup> It cried out and threw him into severe convulsions and came out. The boy looked like he was dead, so much so that many of them said he’d died. <strong><sup>27</sup></strong>But Jesus took his hand and raised him up, and he stood up.</span>
-
-<span class="verse" id="v27"><sup class="verse-num">27</sup> Jesus and his disciples went out to the villages around Caesarea Philippi. On the way he asked them, <em>“Who are people saying I am?”</em></span>
-
-<span class="verse" id="v28"><sup class="verse-num">28</sup> When Jesus went into a house, his disciples asked him privately<em>, “Why couldn’t </em><em><u>we</u></em><em> cast it out?”</em></span>
-
-<span class="verse" id="v29"><sup class="verse-num">29</sup> <em>“This</em><em> kind doesn’t come out except by prayer.”</span>
-<p class="section-ref">Mk 9:14-29</p>
-
-### Third Prediction of His Death
+### Demand for a Sign from the Sky
 
 
-<span class="verse" id="v30"><sup class="verse-num">30</sup> They left and began traveling around Galilee. He didn’t want anybody to know it, <strong><sup>31</sup></strong>because he was trying to teach his disciples, <em>“</em><em>I’m going to be betrayed to authorities </em><em>t</em><em>hat will </em><em>put </em><em>me</em><em> to death.</em><em> </em><em>Three days later </em><em>I</em><em>’ll resurrect.”</em> <strong><sup>32</sup></strong>They didn’t understand, but they were reluctant to ask him about it.</span>
-<p class="section-ref">Mk 9:30-32</p>
+<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>The Pharisees came and started arguing with him and demanding a sign from the sky—testing him. </span></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>He groaned under his breath, <i>“Why do people today keep looking for a sign? They’re not going to get one.” </i></span></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>He got in the boat again and went back to the other side.    </span></span></p>
 
-### Discussion About Rank
+<p class="section-ref">Mk 8:11-13</p>
 
 
-<span class="verse" id="v31"><sup class="verse-num">31</sup> He started explaining to them that the Son of Man had a lot to suffer; be rejected by the elders, chief priests, and scribes; be put to death, and resurrect after three days. <strong><sup>32</sup></strong>He was talking about the matter openly, and Peter pulled him aside and began to scold him. <strong><sup>3</sup></strong><strong><sup>3</sup></strong>He turned around and saw his disciples and scolded Peter, <em>“Get behind me, Satan.</em><em> </em><em>Your mind</em><em>’s not</em><em> on God’s interests, but </em><em>human</em><em> interests.”</em></span>
+### Fourth Withdrawal East of the Lake;
 
-<span class="verse" id="v34"><sup class="verse-num">34</sup> He called the crowd with his disciples, <em>“If </em><em>people</em><em> want to follow me, </em><em>they have</em><em> to set </em><em>aside their</em><em> own interests, pick up </em><em>their</em><em> cross, and follow me.</em><em> </em><strong><sup>35</sup></strong><em>Whoever</em><em> wants to save </em><em>their</em><em> life will lose it; whoever loses </em><em>their</em><em> life </em><em>more than </em><em>me and the </em><em>good news</em><em> will save it.</em><em> </em><strong><sup>36</sup></strong><em>What</em><em> good does it do </em><em>anyone</em><em> to g</em><em>ain</em><em> the whole world and forfeit </em><em>teir</em><em> life?</em><em> </em><strong><sup>37</sup></strong><em>What</em><em> would </em><em>they</em><em> give in exchange for </em><em>their</em><em> life?</em><em> </em><strong><sup>38</sup></strong><em>Whoeve</em><em>r’</em><em>s</em><em> ashamed of me an</em><em>d my message in this adulterous, sinful time</em><em>, </em><em>the Son of Man will</em><em> be ashamed of when he comes in his Father</em><em>’s glory with his holy angels. </em><strong>9</strong><strong><sup>:1</sup></strong><em>Some</em><em> </em>of you <em>standing here will </em><em>certainly live to</em><em> see </em><em>God’s kingdom </em><em>come with power.”</span>
-<p class="section-ref">Mk 8:31-9</p>
+
+
+### Warning to the Disciples
+
+
+<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>The disciples had forgotten to take bread along and only had one loaf left in the boat. </span></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>He gave them strict orders, <i>“Watch out for the ‘yeast’ from the Pharisees and Herod.”</i>
+</span></span>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>They started reasoning with one another <i>that his comment was </i>because they did not have any bread. </span></span>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>He knew it and said<sup>p</sup>, </span></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;line-height:normal'><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“Why are you talking about not having any bread? Don’t you get it yet? Do you have minds that can’t understand? </span></i><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Do you have eyes but can’t see, and ears but can’t hear? Don’t you remember </span></i></span>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>how many medium-sized baskets of leftover pieces you picked up when I broke the five loaves for the 5,000?”</span></i></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            <i>“Twelve.”       </i></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><sup><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“</span></sup></i><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>How many large baskets of leftovers did you pick up when I broke the seven loaves for the 4,000?”</span></i></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            “Seven.”</span></i></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“You still don’t catch on?”</span></i></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>They went<sup>p</sup> to Bethsaida, and people brought<sup>p</sup> Jesus a blind man and asked<sup>p</sup> him to touch him. </span></span>
+<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>He led him by the hand out of the village. He spit on his eyes and put his hands on him, and asked, <i>“Do you see anything?”</i></span></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>He looked up and said, <i>“I see people—like trees—walking.”</i></span></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Jesus put his hands on the man’s eyelids again; the man looked intently, and his sight came back clear.</span></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>Jesus sent him home, <i>“Don’t go back into the village.”</i><b>                                    </b></span></span></p>
+
+<p class="section-ref">Mk 8:14-26</p>
+
+
+### Peter’s Great Confession
+
+
+<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Jesus and his disciples went out to the villages around Caesarea Philippi. On the way he asked them, <i>“Who are people saying I am?”</i></span></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“John the Baptist; others, Elijah; others, that you’re one of the prophets.”</span></i></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“Who do <u>you</u> say I am?”</span></i></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            Peter answered, <i>“You’re the Messiah.”</i></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>Jesus told them not to tell anybody.
+</span></span></p>
+
+<p class="section-ref">Mk 8:27-30</p>
+
+
+### The First Prediction of Messiah’s Death
+
+
+<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>He started explaining to them that the Son of Man had a lot to suffer; be rejected by the elders, chief priests, and scribes; be put to death, and resurrect after three days. </span></span>
+<span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>He was talking about the matter openly, and Peter pulled him aside and began to scold him. </span></span>
+<span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>He turned around and saw his disciples and scolded Peter, <i>“Get behind me, Satan. Your mind’s not on God’s interests, but human interests.”</i></span></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>He called the crowd with his disciples, </span></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;line-height:normal'><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“If people want to follow me, they have to set aside their own interests, pick up their cross, and follow me. </span></i><span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Whoever wants to save their life will lose it; whoever loses their life more than me and the good news will save it. </span></i></span>
+<span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <i><span style='font-size:12.0pt; font-family:"Times New Roman",serif'>What good does it do anyone to gain the whole world and forfeit teir life? </span></i></span>
+<span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>What would they give in exchange for their life? </span></i></span>
+<span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Whoever’s ashamed of me and my message in this adulterous, sinful time, the Son of Man will be ashamed of when he comes in his Father’s glory with his holy angels. </span></i><b><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>9</span></b><b><sup><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>:1</span></sup></b><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Some </span></i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>of you <i>standing here will certainly live to see God’s kingdom come with power.”</i><b>
+</b></span></span></p>
+
+<p class="section-ref">Mk 8:31-9:1</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

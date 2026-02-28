@@ -1,43 +1,62 @@
 ---
 book: Deuteronomy
 chapter: 24
-next: chapter-25
-prev: chapter-23
 title: Deuteronomy 24
 translation: CNT
 type: chapter
 weight: 24
+prev: chapter-23
+next: chapter-25
 ---
 
 ## Deuteronomy Chapter 24
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> <em>“When</em><em> a man gets married and his wife becomes displeasing to him because he finds something wrong with her, he’s to give her a certificate of divorce and send her away. </em><strong><sup>2</sup></strong><em>If</em><em> she marries another man </em><strong><sup>3</sup></strong><em>and</em><em> he divorces her or dies, </em><strong><sup>4</sup></strong><em>her</em><em> first husband can’t marry her again because she’s been defiled. That would be detestable to Yahveh. Don’t bring sin on the land he’s giving you. </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk126593186"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“When a man gets married and his wife becomes displeasing to him because he finds something wrong with her, he’s to give her a certificate of divorce and send her away. </span></i></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If she marries another man </span></i></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and he divorces her or dies, </span></i></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>her first husband can’t marry her again because she’s been defiled. That would be detestable to the </span></i><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>. Don’t bring sin on the land he’s giving you. </span></i></span></p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>“When</em><em> a man gets married, he won’t be charged with any military duty for a year. He’ll be free at home to make his wife happy. </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“When a man gets married, he won’t be charged with any military duty for a year. He’ll be free at home to make his wife happy. </span></i></span></p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>“Don’t</em><em> take a hand mill or upper millstone as a pledge. You’d be taking a livelihood as a pledge. </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t take a hand mill or upper millstone as a pledge. You’d be taking a livelihood as a pledge. </span></i></span></p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>“If</em><em> someone kidnaps and enslaves or sells a fellow citizen, execute the kidnapper. That’s how you’re to purge evil from among you.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If someone kidnaps and enslaves or sells a fellow citizen, execute the kidnapper. That’s how you’re to purge evil from among you.</span></i></span></p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>“Keep</em><em> an eye on a spot of leprosy and follow the priests’ instructions. </em><strong><sup>9</sup></strong><em>Remember</em><em> what Yahveh did to Miriam on the way from Egypt.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Keep an eye on a spot of leprosy and follow the priests’ instructions. </span></i></span>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Remember what the </span></i><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> did to Miriam on the way from Egypt.                                                                                                </span></i></span></span></p>
+
 <p class="section-ref">Deut 24:1-9</p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>“When</em><em> you loan somebody something, don’t go into his house to get it. </em><strong><sup>11</sup></strong><em>Let</em><em> him bring it out to you. </em><strong><sup>12</sup></strong><em>If</em><em> he’s poor, don’t keep his pledge overnight. </em><strong><sup>13</sup></strong><em>Give</em><em> it back at sundown so he can sleep in his cloak and have a good attitude toward you. Yahveh will consider you good.  </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“When you loan somebody something, don’t go into his house to get it. </span></i></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Let him bring it out to you. </span></i></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If he’s poor, don’t keep his pledge overnight. </span></i></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Give it back at sundown so he can sleep in his cloak and have a good attitude toward you. The </span></i><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> will consider you good.  </span></i></span></p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> <em>“Don’t</em><em> oppress hired hands that’ are poor, citizen or foreigner. </em><strong><sup>15</sup></strong><em>Pay</em><em> them each day before sundown. They’re poor and their life depends on it. That way they won’t call out to Yahveh, and it becomes sin in you. </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t oppress hired hands that are poor, citizen or foreign. </span></i></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Pay them each day before sundown. They’re poor and their livelihood depends on it. That way they won’t call out to the </span></i><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, and it becomes sin in you. </span></i></span></p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> <em>“Don’t</em><em> execute parents for children or vice versa. Execute each person for that person’s sin. </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk126593562"><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span></i></a><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t execute parents for children or vice versa. Execute each person for that person’s sin. </span></i></span></p>
 
-<span class="verse" id="v17"><sup class="verse-num">17</sup> <em>“Don’t</em><em> pervert justice with a foreigner or orphan, or take a widow’s cloak as a pledge. </em><strong><sup>18</sup></strong><em>Remember</em><em> that you were a slave in Egypt and Yahveh freed you. That’s why I’m telling you this. </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t pervert justice with a foreigner or orphan, or take a widow’s cloak as a pledge. </span></i></span>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Remember that you were a slave in Egypt and the </span></i><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> freed you. That’s why I’m telling you this. </span></i></span></p>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> <em>“When</em><em> you harvest your field and overlook a bundle, don’t go back to get it. Leave it for foreigners, orphans, or widows. Yahveh your God will bless you in your work. </em><strong><sup>20</sup></strong><em>When</em><em> you beat the limbs on your olive tree, don’t go back </em><em>over them. </em>Leave them<em> for foreigners, orphans, and widows. </em><strong><sup>21</sup></strong><em>When</em><em> you gather grapes from your vineyard, don’t pick back over them. </em>Leave them<em> for foreigners, orphans, and widows. </em><strong><sup>22</sup></strong><em>Remember</em><em> that you were a slave in Egypt. That’s why I’m telling you this.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“When you harvest your field and overlook a bundle, don’t go back to get it. Leave it for foreigners, orphans, or widows. The </span></i><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> your God will bless you in your work. </span></i></span>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When you beat the limbs on your olive tree, don’t go back over them. </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Leave them<i> for foreigners, orphans, and widows. </i></span></span>
+<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When you gather grapes from your vineyard, don’t pick back over them. </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Leave them<i> for foreigners, orphans, and widows. </i></span></span>
+<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Remember that you were a slave in Egypt. That’s why I’m telling you this. </span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>   </span></b></span></span></p>
+
 <p class="section-ref">Deut 24:10-22</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

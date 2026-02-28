@@ -1,34 +1,74 @@
 ---
 book: Hosea
 chapter: 1
-next: chapter-02
 title: Hosea 1
 translation: CYV
 type: chapter
 weight: 1
+next: chapter-02
 ---
 
 ## Hosea Chapter 1
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Messages from Yahveh to Hosea Ben-Beeri at <strong>the Time of Uzziah, Jotham, Ahaz, and Hezekiah, Kings of Judah, </strong> 	<strong>and Jeroboam </strong><strong>Ben-</strong><strong>Joash</strong><strong>/</strong><strong><em>Jehoash</em></strong><strong>, King of Israel</strong> 	<strong>Hosea’s Wife and Children   </strong></span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> When Yahveh spoke the first time through Hosea, he said, <em>“Marry</em><em> a </em><em>prostitute</em><em> and have children</em><em>,</em><em> because the land </em><em>is </em><em>commit</em><em>ting</em><em> flagrant </em><em>prostitution</em><em> by </em><em>abandoning me</em><em>.”</em> <strong><sup>3</sup></strong>So he married Gomer Bat Diblaim, and she had a son. <strong><sup>4</sup></strong>Yahveh said, <em>“Name him </em><em>Jezreel</em><em>.</em><em> </em><em>Soon</em><em> I’ll punish Jehu</em><em>’s dynasty</em><em> for the bloodshed in </em><em>Jezreel</em><em>,</em><em> and</em><em> put an end to Israel.</em><em> </em><strong><sup>5</sup></strong><em>At</em><em> that time</em><em>,</em><em> I’ll </em><em>break Israel’s military strength in the V</em><em>alley of </em><em>‘</em><em>Jezreel.</em><em>’</em><em>”</em><strong></span>
+### Conversational Yahveh Covenant
+
+
+<p class="MsoListBulletCxSpMiddle" align=center style='margin-bottom:0in; text-align:center'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Messages from Yahveh to Hosea Ben-Beeri </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" align=center style='margin-bottom:0in; text-align:center'><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>at <b>the Time of Uzziah, Jotham, Ahaz, and Hezekiah, Kings of Judah, </b></span></p>
+
+<p class="MsoListBulletCxSpMiddle" align=center style='margin-bottom:0in; text-align:center'><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>and Jeroboam Ben-Joash/<i>Jehoash</i>, King of Israel</span></b></p>
+
+
+### Hosea’s Wife and Children
+
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Yahveh spoke the first time through Hosea, he said, <i>“Marry a prostitute and have children, because the land is committing flagrant prostitution by abandoning me.”</i> </span></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So he married Gomer Bat Diblaim, and she had a son. </span></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh said, </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Name him Jezreel. Soon I’ll punish Jehu’s dynasty for the bloodshed in Jezreel, and put an end to Israel. </span></i><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At that time, I’ll break Israel’s military strength in the Valley of ‘Jezreel.’”</span></i></span></span></p>
+
 <p class="section-ref">Hos 1:1-5</p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> Then she had a daughter. Yahveh told him, <em>“Name her </em><em>Lo-ruhamah.</em><em> I </em><em>‘</em><em>won’t have </em><em>mercy’</em><em> </em><em>any more </em><em>on Israel by forgiving them.</em><em> </em><strong><sup>7</sup></strong><em>But</em><em> I </em><em><u>will</u></em><em> have </em><em>mercy</em><em> on Judah and deliver them, but not by bow, sword, battle, horses, or horsemen.”</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then she had a daughter. Yahveh told him, </span></span></p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> When she’d weaned Lo-ruhamah, she had another son. <strong><sup>9</sup></strong>Yahveh said, <em>“Name him </em><em>Lo-ammi.</em><em> </em><em>Y</em><em>ou</em><em>’re</em><em> </em><em>‘not </em><em>my people</em><em>’</em><em> and I’m not your God.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Name her Lo-ruhamah. I ‘won’t have mercy’ any more on Israel by forgiving them. </span></i><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But I <u>will</u> have mercy on Judah and deliver them, but not by bow, sword, battle, horses, or horsemen.”</span></i></span></p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>Yet</em><em> the number of Israelites </em> <em>	will be like sand by</em><em> the sea</em><em>,</em> <em>	</em><em>that</em><em> </em><em>you </em><em>can’t </em><em>measure or count</em><em>.</em> <em>Where I said</em><em>, </em><em>‘</em><em>You’re not my people,’</em> <em>	I’</em><em>ll </em><em>say</em><em>,</em><em> ‘</em><em>You’re</em><em> children</em><em> of the living God.’</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When she’d weaned Lo-ruhamah, she had another son. </span></span>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh said, <i>“Name him Lo-ammi. You’re ‘not my people’ and I’m not your God.</i></span></span></p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> <em>The</em><em>n</em><em> Judah and Israel will unite</em> <em>	</em><em>a</em><em>nd appoint one leader.</em> <em>They’ll </em><em>return</em><em> from </em><em>the </em><em>exile</em><em> together</em><em> </em> <em>	</em><em>b</em><em>ecause the day of Jezreel </em><em>[sowing] </em><em>will be great.</em><em>”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yet the number of Israelites </span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      will be like sand by the sea,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      that you can’t measure or count.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Where I said, ‘You’re not my people,’</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      I’ll say, ‘You’re children of the living God.’</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Judah and Israel will unite</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and appoint one leader.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’ll return from the exile together </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      because the day of Jezreel [sowing] will be great.”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>        </span></b></span></p>
+
 <p class="section-ref">Hos 1:6-11</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

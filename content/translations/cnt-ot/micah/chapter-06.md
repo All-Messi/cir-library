@@ -1,62 +1,152 @@
 ---
 book: Micah
 chapter: 6
-next: chapter-07
-prev: chapter-05
 title: Micah 6
 translation: CNT
 type: chapter
 weight: 6
+prev: chapter-05
+next: chapter-07
 ---
 
 ## Micah Chapter 6
 
+
 ### The LORD’s Case Against Israel
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Listen to what the LORD says: <em>“</em><em>Present</em><em> </em><em>to</em><em> the mountains</em><em> </em>your case against me<em>;</em> <em>	</em><em>	let the hills hear </em><em>your</em><em> complaint</em><em>.</em><em>”</em></span>
 
-<span class="verse" id="v2"><sup class="verse-num">2</sup> But then <em>l</em><em>isten, mountains, to the</em><em> </em><em>L</em><em>ORD</em><em><u>’s</u></em><em> </em><em>complaint</em><em>,</em> <em>	</em><em>	you</em><em> enduring foundations of the world.</em> <em>	</em><em>He</em><em> has </em><em>a </em><em>suit against his </em><em>people;</em> <em>	</em><em>	h</em><em>e’</em><em>ll</em><em> </em><em>bring charges against</em><em> Israel</em><em>.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><a name="_Hlk122904611"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Listen to what the L</span><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> says:</span></span></p>
 
-<span class="verse" id="v3"><sup class="verse-num">3</sup> <em>“W</em><em>hat</em><em> have I done to you</em><em>, m</em><em>y people?</em> <em>	</em><em>	</em><em>How have I </em><em>wearied</em><em> you?</em><em> Answer</em><em> me.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <i>“Present to the mountains </i>your case against me<i>;</i></span></p>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> <em>I</em><em> brought you out of Egypt</em> <em>	</em><em>	</em><em>and ransomed you from slavery.</em> <em>	</em><em>I sent Moses, Aaron, and Miriam </em><em>to lead</em><em> you,</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            let the hills hear your complaint.”</span></i></p>
 
-<span class="verse" id="v5"><sup class="verse-num">5</sup> <em>My</em><em> people, remember now</em> <em>	</em><em>	the </em>curse<em> </em><em>that </em><em>Balak</em><em>,</em><em> king of Moab</em><em>,</em><em> </em><em>proposed,</em> <em>	</em><em>	the blessing</em><em> </em><em>that B</em><em>alaam son of Beor answered</em><em> with</em><em>,</em> <em>	</em><em>	</em>the laws that led you<em> </em><em>from Shittim to Gilgal,</em> <em>	</em><em>	</em><em>	</em><em>so</em><em> you c</em><em>ould</em><em> learn about </em><em>my faithfulness</em><em>.”</em><strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         2</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But then <i>listen, mountains, to the L</i></span><i><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s</span></u></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> complaint,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            you enduring foundations of the world.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      <a name="_Hlk146826643">He has a suit against his people;</a></span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            he’ll bring charges against Israel.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         3</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“What have I done to you, my people?</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            How have I wearied you? Answer me.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         4</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I brought you out of Egypt</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and ransomed you from slavery.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      I sent Moses, Aaron, and Miriam to lead you,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         5</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>My people, remember now</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            the
+</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>curse<i> that Balak, king of Moab, proposed,</i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            the blessing that Balaam son of Beor answered with,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the laws that led you<i> from Shittim to Gilgal,</i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  so you could learn about my faithfulness.”</span></i></span></p>
+
 <p class="section-ref">Mic 6:1-5</p>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> What should I bring to the LORD? What should I bow with before God on high? Should I come to him with burnt offerings and yearling calves?</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>What should I bring to the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>?</span></span></p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> Does the LORD delight in thousands of rams, in 10,000 rivers of olive oil? Am I to present my firstborn for my transgression, the fruit of my body for the sin of my soul?</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  What should I bow with before God on high?</span></p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>No</em>, he’s told you what’s good: what does the LORD require from you but to do good, love kindness, and walk humbly with him?</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Should I come to him with burnt offerings</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and yearling calves?</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         7</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Does the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> delight in thousands of rams,</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  in 10,000 rivers of olive oil?</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Am I to present my firstborn for my transgression,</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  the fruit of my body for the sin of my soul?</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><a name="_Hlk122904717"><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>No</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, he’s told you what’s good:</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      what does the L</span><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> require from you</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  but to do good, love kindness,</span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and walk humbly with him?</span></p>
+
 <p class="section-ref">Mic 6:6-8</p>
+
 
 ### Israel’s Guilt and Punishment
 
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> The LORD will call out to the city— it’s wise to respect him— <em>“Listen, tribe</em><em> and </em><em>city council.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> will call out to the city—</span></span></p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>Can</em><em> I </em><em>overlook the wealth gained from</em><em> </em><em>cheating</em><em> </em> <em>	</em><em>	</em><em>	</em><em>	that’s </em><em>in </em><em>sinners’</em><em> </em><em>hous</em><em>e</em><em>s</em><em> </em> <em>	</em><em>	a</em><em>nd </em><em>the short measure that’</em><em>s accursed?</em><em> </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      it’s wise to respect him—</span></p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> <em>Can</em><em> I acquit a </em>businessman<em> that uses dishonest scales</em> <em>	</em><em>	and a bag of false weights?</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <i>“Listen, tribe and city council.</i></span></p>
 
-<span class="verse" id="v12"><sup class="verse-num">12</sup> <em>The</em><em> rich in the city </em><em>extort;</em> <em>	</em><em>	its residents lie and deceive.</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         10</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Can I overlook the wealth gained from cheating </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              that’s in sinners’ houses </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and the short measure that’s accursed? </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         11</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Can I acquit a </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>businessman<i> that uses dishonest scales</i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and a bag of false weights?</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         12</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The rich in the city extort;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            its residents lie and deceive.</span></i></span></p>
+
 <p class="section-ref">Mic 6:9-12</p>
 
-<span class="verse" id="v13"><sup class="verse-num">13</sup> <em>So</em><em> I’ll send diseases to strike you down,</em> <em>	</em><em>	and bring you to ruin for your sins.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         <a name="_Hlk122904777">13</a></span></sup></b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>So I’ll send diseases to strike you down,</span></i></p>
 
-<span class="verse" id="v14"><sup class="verse-num">14</sup> <em>You’ll</em><em> eat, but you won’t be </em><em>satisfied;</em> <em>	</em><em>	there’ll be hunger among you.</em> <em>	You’ll store up for safe keeping,</em> <em>	</em><em>	but I’ll deliver most of it to the sword.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and bring you to ruin for your sins.</span></i></p>
 
-<span class="verse" id="v15"><sup class="verse-num">15</sup> <em>You’ll</em><em> plant, but not </em><em>harvest;</em> <em>	</em><em>	you’ll tread olives, but not anoint yourself with the </em><em>oil;</em> <em>	</em><em>	you’ll </em>tread<em> </em><em>grapes, but</em><em> not drink the wine.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         14</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’ll eat, but you won’t be satisfied;</span></i></p>
 
-<span class="verse" id="v16"><sup class="verse-num">16</sup> <em>You’ve</em><em> followed the statutes of </em>sinful <em>Omri</em> <em>	</em><em>	</em><em>	and the example of </em><em>Ahab;</em> <em>	</em><em>	you’ve taken their advice.</em> <em>	</em><em>So</em><em> I’ll deliver you to destruction</em> <em>	</em><em>	</em><em>	and your people to </em><em>ridicule;</em> <em>	</em><em>	you’ll endure the nations’ scorn.”</span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            there’ll be hunger among you.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      You’ll store up for safe keeping,</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            but I’ll deliver most of it to the sword.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         15</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’ll plant, but not harvest;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            you’ll tread olives, but not anoint yourself with the oil;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            you’ll
+</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>tread<i> grapes, but not drink the wine.</i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         16</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’ve followed the statutes of </span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>sinful <i>Omri</i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and the example of Ahab;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            you’ve taken their advice.</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      So I’ll deliver you to destruction</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and your people to ridicule;</span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            you’ll endure the nations’ scorn.”</span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                       </span></b></span></p>
+
 <p class="section-ref">Mic 6:13-16</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

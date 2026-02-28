@@ -1,39 +1,65 @@
 ---
 book: Deuteronomy
 chapter: 20
-next: chapter-21
-prev: chapter-19
 title: Deuteronomy 20
 translation: CNT
 type: chapter
 weight: 20
+prev: chapter-19
+next: chapter-21
 ---
 
 ## Deuteronomy Chapter 20
 
+
 ### Going to War
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> <em>“When</em><em> you go to battle and see horses, chariots, and people more numerous than you, don’t be afraid. Yahveh your God, who brought you out of Egypt,</em><em> </em><em>is with you. </em><strong><sup>2</sup></strong><em>When</em><em> you’re getting ready for battle, the priests will come to remind you,</em><sup> </sup><strong><sup>3</sup></strong><em>‘Don’t</em><em> be fainthearted, Israel. Don’t panic or tremble. </em><strong><sup>4</sup></strong><em>Yahveh</em><em> is with you to fight for you and save you.’ </em><strong><sup>5</sup></strong><em>The</em><em> officers will also say, </em> <em>‘Who has built a house and not dedicated it? He can go home so he won’t die in battle and somebody else dedicate it. </em></span>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> <em>Who</em><em> has planted a vineyard and not used its fruit? He can go home so he won’t die in battle and somebody else use it. </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                           </span></sup></b><a name="_Hlk126585747"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“When you go to battle and see horses, chariots, and people more numerous than you, don’t be afraid. The </span></i><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> your God, who brought you out of Egypt, is with you. </span></i></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When you’re getting ready for battle, the priests will come to remind you,</span></i><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></sup></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘Don’t be fainthearted, Israel. Don’t panic or tremble. </span></i></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The
+</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> is with you to fight for you and save you.’ </span></i></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The officers will also say, </span></i></span></p>
 
-<span class="verse" id="v7"><sup class="verse-num">7</sup> <em>Who</em><em> is engaged to a woman and not married her? He can go home so he won’t die in battle and somebody else marry her. </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:1.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘Who has built a house and not dedicated it? He can go home so he won’t die in battle and somebody else dedicate it. </span></i></p>
 
-<span class="verse" id="v8"><sup class="verse-num">8</sup> <em>Who’s</em><em> afraid? He can go home so he won’t make his companions’ hearts melt like his.’ </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:1.5in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Who has planted a vineyard and not used its fruit? He can go home so he won’t die in battle and somebody else use it. </span></i></span></p>
 
-<span class="verse" id="v9"><sup class="verse-num">9</sup> <em>When</em><em> the officers have finished speaking, they’ll appoint commanders to lead the people.</em><strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:1.5in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Who is engaged to a woman and not married her? He can go home so he won’t die in battle and somebody else marry her. </span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:1.5in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Who’s afraid? He can go home so he won’t make his companions’ hearts melt like his.’ </span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the officers have finished speaking, they’ll appoint commanders to lead the people.</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>           </span></b></span></span></p>
+
 <p class="section-ref">Deut 20:1-9</p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> <em>“When</em><em> you approach a city beyond your promised territory, offer it terms of peace. </em><strong><sup>11</sup></strong><em>If</em><em> it makes peace, its people will serve you as forced laborers. </em><strong><sup>12</sup></strong><em>But</em><em>, if it doesn’t make peace with you, besiege it. </em><strong><sup>13</sup></strong><em>When</em><em> Yahveh gives it to you, strike the men with the sword. </em><strong><sup>14</sup></strong><em>Only</em><em> the women, children, animals, and everything in the city take as spoil and use. </em><strong><sup>15</sup></strong><em>Do</em><em> that to all distant towns. </em><strong><sup>16</sup></strong><em>In</em><em> towns Yahveh’s giving you as an inheritance, don’t leave anything that breathes. </em><strong><sup>17</sup></strong><em>Destroy</em><em> the Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites. </em><strong><sup>18</sup></strong><em>That</em><em> way they won’t teach you the disgusting things they do for their gods, so you won’t sin against Yahveh your God.</em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>              <a name="_Hlk126585919"><sup>10</sup></a></span></b><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“When you approach a city beyond your promised territory, offer it terms of peace. </span></i><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If it makes peace, its people will serve you as forced laborers. </span></i></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But, if it doesn’t make peace with you, besiege it. </span></i></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the </span></i><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>L</span></i><i><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> gives it to you, strike the men with the sword. </span></i></span>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Only the women, children, animals, and everything in the city take as spoil and use.
+</span></i></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Do that to all distant towns. </span></i></span>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In towns the </span></i><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s giving you as an inheritance, don’t leave anything that breathes. </span></i></span>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Destroy the Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites. </span></i></span>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That way they won’t teach you the disgusting things they do for their gods, so you won’t sin against the </span></i><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> your God.</span></i></span></p>
 
-<span class="verse" id="v19"><sup class="verse-num">19</sup> <em>“When</em><em> you besiege a city, don’t cut down </em>its fruit <em>trees. You can eat from them </em>later<em>. Is a tree a person, that you should besiege it? </em><strong><sup>20</sup></strong><em>Only</em><em> what aren’t fruit trees can you cut down to build siege works.</em><strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“When you besiege a city, don’t cut down </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>its fruit <i>trees. You can eat from them </i>later<i>. Is a tree a person, that you should besiege it?
+</i></span></span>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>You can only cut down what are not fruit trees to build siege works.</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></b></span></span></p>
+
 <p class="section-ref">Deut 20:10-20</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

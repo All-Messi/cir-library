@@ -1,30 +1,44 @@
 ---
 book: Jonah
 chapter: 3
-next: chapter-04
-prev: chapter-02
 title: Jonah 3
 translation: CYV
 type: chapter
 weight: 3
+prev: chapter-02
+next: chapter-04
 ---
 
 ## Jonah Chapter 3
 
+
 ### Jonah’s Trip to Nineveh
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> Yahveh told Jonah again, <strong><sup>2</sup></strong><em>“Go</em><em> to Nineveh</em><em>,</em><em> the big city</em><em>,</em><em> and </em><em>deliver</em><em> what I tell you.”</em> <strong><sup>3</sup></strong>So he went. It was a big city, a three-days’ walk-through. <strong><sup>4</sup></strong>He went through it one day’s walk and shouted, <em>“</em>God<em> is going to overthrow </em><em>Nineveh in 40 days.”</em><em> </em><strong><sup>5</sup></strong>The people believed him. They called for a fast and put on burlap from least to greatest.</span>
 
-<span class="verse" id="v6"><sup class="verse-num">6</sup> When the message reached the king of Nineveh, he got off his throne, laid his robe aside, covered himself with burlap, and sat on ashes. <strong><sup>7</sup></strong>He issued a proclamation: <em>“In Nineveh by decree of the king and his nobles:</em><em> </em><em>Don’t any</em><em>body—</em><em>animal, herd, or flock</em><em>—</em><em>eat </em><em>anything </em><em>or drink water.</em><em> </em><strong><sup>8</sup></strong><em>People</em><em> and animal</em><em>s</em><em> </em><em>have to</em><em> </em><em>wear burlap. C</em><em>all on God earnestly </em><em>so</em><em> </em><em>everyone will</em><em> turn fro</em><em>m sinfulness and</em><em> </em><em>v</em><em>iolence.</em><em> </em><strong><sup>9</sup></strong><em>Who</em><em> knows, </em><em>maybe </em><em>God </em><em>will</em><em> relent from </em><em>his fierce anger and not destroy us.  </em></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk122902941"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh told Jonah again, </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Go to Nineveh, the big city, and deliver what I tell you.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So he went. It was a big city, a three-days’ walk-through. </span></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He went through it one day’s walk and shouted, <i>“</i>God<i> is going to overthrow Nineveh in 40 days.” </i></span></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The people believed him. They called for a fast and put on burlap from least to greatest.</span></span></p>
 
-<span class="verse" id="v10"><sup class="verse-num">10</sup> When God saw they’d repented, he relented from doing what he’d threatened.</span>
-<p class="section-ref">Jon 3:1-10</p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the message reached the king of Nineveh, he got off his throne, laid his robe aside, covered himself with burlap, and sat on ashes. </span></span>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He issued a proclamation: </span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“In Nineveh by decree of the king and his nobles: Don’t anybody—animal, herd, or flock—eat anything or drink water. </span></i><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>People and animals have to wear burlap. Call on God earnestly so everyone will turn from sinfulness and violence. </span></i></span>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Who knows, maybe God will relent from his fierce anger and not destroy us.  </span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When God saw they’d repented, he relented from doing what he’d threatened.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>             Jon 3:1-10</span></b><b><span style='font-size:10.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span></b></span></p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>

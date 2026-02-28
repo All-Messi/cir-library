@@ -1,30 +1,52 @@
 ---
 book: Jeremiah
 chapter: 41
-next: chapter-42
-prev: chapter-40
 title: Jeremiah 41
 translation: CNT
 type: chapter
 weight: 41
+prev: chapter-40
+next: chapter-42
 ---
 
 ## Jeremiah Chapter 41
 
-<span class="verse" id="v1"><sup class="verse-num">1</sup> In the <strong>seventh month, Ishmael son of </strong><strong>Nethaniah</strong><strong> son of Elishama from the royal family</strong> and a chief officer of the king, along with 10 men, came to Gedaliah at Mizpah. While they were eating there, <strong><sup>2</sup></strong>Ishmael and the 10 men got up and struck down Gedaliah with the sword. <strong><sup>3</sup></strong>He struck down the Jews that were with Gedaliah as well as the Babylonian soldiers there.<strong> </strong><strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>In the <b>seventh month, Ishmael son of Nethaniah son of Elishama from the royal family</b> and a chief officer of the king, along with 10 men, came to Gedaliah at Mizpah. While they were eating there, </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ishmael and the 10 men got up and struck down Gedaliah with the sword. </span></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He struck down the Jews that were with Gedaliah as well as the Babylonian soldiers there.</span></span></p>
+
 <p class="section-ref">Jer 41:1-3</p>
 
-<span class="verse" id="v4"><sup class="verse-num">4</sup> The next day, before anybody knew what had happened, <strong><sup>5</sup></strong>80 men came from Shechem, Shiloh, and Samaria with their beards shaved off, their clothes torn, and their bodies gashed. They had grain offerings and incense to present at the LORD’s Temple. <strong><sup>6</sup></strong>Ishmael went out of Mizpah to meet them, weeping as he went. When he met them, he said, <em>“</em><em>Come </em><em>in to</em><em> Gedaliah.”</em><strong><sup> </sup></strong><strong><sup>7</sup></strong>But as soon as they came in the city, he and the men killed them and threw them in a cistern. <strong><sup>8</sup></strong>But 10 of them said to Ishmael, <em>“Don’t kill us. W</em><em>e have stores of w</em><em>heat, barley, olive oil, and honey stashed</em><em> in the field”</em> so he didn’t kill them. <strong><sup>9</sup></strong>The cistern that Ishmael filled with corpses was the one King Asa had made because of Baasha, king of Israel. <strong><sup>10</sup></strong>Then he took captive everybody left in Mizpah, the king’s daughters, and the remaining people that Nebuzaradan had put under Gedaliah’s charge. He set out with them to cross over to the Ammonites.<strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk123724065"><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The next day, before anybody knew what had happened, </span></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>80 men came from Shechem, Shiloh, and Samaria with their beards shaved off, their clothes torn, and their bodies gashed. They had grain offerings and incense to present at the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>’s Temple. </span></span>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ishmael went out of Mizpah to meet them, weeping as he went. When he met them, he said,
+<i>“Come in to Gedaliah.”</i></span><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'> 7</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But as soon as they came in the city, he and the men killed them and threw them in a cistern. </span></span>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But 10 of them said to Ishmael, <i>“Don’t kill us. We have stores of wheat, barley, olive oil, and honey stashed in the field”</i> so he didn’t kill them. </span></span>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The cistern that Ishmael filled with corpses was the one King Asa had made because of Baasha, king of Israel. </span></span>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then he took captive everybody left in Mizpah, the king’s daughters, and the remaining people that Nebuzaradan had put under Gedaliah’s charge. He set out with them to cross over to the Ammonites.<b>                                                      </b></span></span></p>
+
 <p class="section-ref">Jer 41:4-10</p>
 
-<span class="verse" id="v11"><sup class="verse-num">11</sup> But Johanan son of Kareah and his commanders heard what Ishmael had done. <strong><sup>12</sup></strong>So they took all the men and went to fight him; they found him by the large pool in Gibeon. <strong><sup>13</sup></strong>When the people with Ishmael saw Johanan and his commanders, they were happy. <strong><sup>14</sup></strong>So the ones Ishmael had taken captive defected to Johanan. <strong><sup>15</sup></strong>But Ishmael escaped from Johanan with 8 men and went to the Ammonites. <strong><sup>16</sup></strong>Johanan and his commanders took from Mizpah the remnant of the people he’d recovered from Ishmael—the soldiers, the women, children, and eunuchs. <strong><sup>17</sup></strong>They went and stayed in Geruth Chimham, near Bethlehem, with the intention of going to Egypt. <strong><sup>18</sup></strong>They were afraid of the Babylonians since Ishmael had struck down Gedaliah.<strong></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><b><sup><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>11</span></sup></b><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But Johanan son of Kareah and his commanders heard what Ishmael had done. </span><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So they took all the men and went to fight him; they found him by the large pool in Gibeon. </span></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the people with Ishmael saw Johanan and his commanders, they were happy. </span></span>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So the ones Ishmael had taken captive defected to Johanan. </span></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But Ishmael escaped from Johanan with 8 men and went to the Ammonites. </span></span>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Johanan and his commanders took from Mizpah the remnant of the people he’d recovered from Ishmael—the soldiers, the women, children, and eunuchs. </span></span>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They went and stayed in Geruth Chimham, near Bethlehem, with the intention of going to Egypt. </span></span>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They were afraid of the Babylonians since Ishmael had struck down Gedaliah.</span></span></p>
+
 <p class="section-ref">Jer 41:11-18</p>
 
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
-.verse sup { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.75em; vertical-align: super; margin-right: 0.1em; }
-.verse em { font-style: italic; }
+.verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.verse em, .verse i { font-style: italic; }
 .verse strong sup { color: var(--secondary-color, #8b6914); }
 .section-ref { text-align: right; font-size: 0.9rem; color: #666; margin: 0.5rem 0 1.5rem 0; font-style: italic; }
+.genealogy-table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: inherit; }
+.genealogy-table td { vertical-align: top; padding: 0.15em 0.5em; line-height: 1.6; }
+.genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
+.genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
+.genealogy-table .spacer-row td { height: 0.8em; }
 </style>
