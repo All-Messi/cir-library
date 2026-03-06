@@ -6,7 +6,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: INTERPRETATION, HERMENEUTICS, THEOLOGICAL METHOD
-weight: 2
+weight: 0
 ---
 
 <style>

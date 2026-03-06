@@ -6,7 +6,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: INTRODUCTORY CONSIDERATIONS ON JONAH
-weight: 2
+weight: 102
 ---
 
 <style>

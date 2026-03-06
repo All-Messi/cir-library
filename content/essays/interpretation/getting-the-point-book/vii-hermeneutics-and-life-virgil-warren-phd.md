@@ -6,7 +6,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: "VII. HERMENEUTICS AND LIFE \t                Virgil Warren, PhD"
-weight: 2
+weight: 48
 ---
 
 <style>

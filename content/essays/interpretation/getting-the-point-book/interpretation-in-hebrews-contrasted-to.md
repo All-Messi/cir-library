@@ -6,7 +6,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: INTERPRETATION IN HEBREWS CONTRASTED TO
-weight: 2
+weight: 103
 ---
 
 <style>

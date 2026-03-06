@@ -8,7 +8,7 @@ date: '2026-02-16'
 draft: false
 title: C. Consequent nature of appropriating scripture (illumination)      Virgil
   Warren, PhD
-weight: 2
+weight: 5
 ---
 
 <style>

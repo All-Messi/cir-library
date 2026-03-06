@@ -6,7 +6,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: "8. Hindrances to interpretation \t             Virgil Warren, PhD"
-weight: 2
+weight: 7
 ---
 
 <style>

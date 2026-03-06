@@ -6,7 +6,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: "V. PITFALLS IN INTERPRETATION  \t               Virgil Warren, PhD"
-weight: 2
+weight: 15
 ---
 
 <style>

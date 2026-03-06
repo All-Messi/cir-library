@@ -8,7 +8,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: ETHICAL OBSERVATIONS ON THE IMAGE AS
-weight: 4
+weight: 6
 ---
 
 <style>

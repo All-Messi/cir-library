@@ -8,7 +8,7 @@ date: '2026-02-16'
 draft: false
 title: VI. TESTING OTHER PEOPLE’S INTERPRETATION                   Virgil Warren,
   PhD
-weight: 2
+weight: 46
 ---
 
 <style>

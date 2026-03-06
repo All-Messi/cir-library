@@ -7,7 +7,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: OVERCOMING THE CRITICAL MIND SET
-weight: 3
+weight: 10
 ---
 
 <style>

@@ -6,7 +6,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: "H. Technicalizing terminology\t\t Virgil Warren, PhD"
-weight: 2
+weight: 28
 ---
 
 <style>

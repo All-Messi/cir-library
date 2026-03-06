@@ -8,7 +8,7 @@ date: '2026-02-16'
 draft: false
 title: "c. Irrationalism (improper thinking patterns)\t             Virgil Warren,\
   \ PhD"
-weight: 2
+weight: 9
 ---
 
 <style>

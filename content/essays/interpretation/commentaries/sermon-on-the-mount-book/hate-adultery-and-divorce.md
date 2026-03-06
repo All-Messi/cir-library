@@ -7,7 +7,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: 'HATE, ADULTERY, AND DIVORCE:'
-weight: 3
+weight: 4
 ---
 
 <style>

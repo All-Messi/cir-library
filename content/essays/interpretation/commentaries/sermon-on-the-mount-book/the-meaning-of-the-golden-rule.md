@@ -7,7 +7,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: THE MEANING OF THE GOLDEN RULE
-weight: 3
+weight: 11
 ---
 
 <style>

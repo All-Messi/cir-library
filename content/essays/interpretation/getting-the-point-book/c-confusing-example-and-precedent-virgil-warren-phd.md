@@ -6,7 +6,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: "C. Confusing example and precedent \t            Virgil Warren, PhD"
-weight: 2
+weight: 16
 ---
 
 <style>

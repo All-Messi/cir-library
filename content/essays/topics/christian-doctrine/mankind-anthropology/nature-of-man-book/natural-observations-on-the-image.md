@@ -8,7 +8,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: NATURAL OBSERVATIONS ON THE IMAGE
-weight: 4
+weight: 5
 ---
 
 <style>

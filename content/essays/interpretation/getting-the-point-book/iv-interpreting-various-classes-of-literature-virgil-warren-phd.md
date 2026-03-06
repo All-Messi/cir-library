@@ -6,7 +6,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: IV. INTERPRETING VARIOUS CLASSES OF LITERATURE      Virgil Warren, PhD
-weight: 2
+weight: 14
 ---
 
 <style>

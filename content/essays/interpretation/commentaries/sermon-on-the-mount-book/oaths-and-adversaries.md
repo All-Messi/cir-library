@@ -7,7 +7,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: OATHS AND ADVERSARIES
-weight: 3
+weight: 6
 ---
 
 <style>

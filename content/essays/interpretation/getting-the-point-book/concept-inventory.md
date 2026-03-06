@@ -6,7 +6,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: CONCEPT INVENTORY
-weight: 2
+weight: 100
 ---
 
 <style>

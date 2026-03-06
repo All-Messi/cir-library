@@ -6,7 +6,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: "F. Confusing language and reality\t                Virgil Warren, PhD"
-weight: 2
+weight: 25
 ---
 
 <style>

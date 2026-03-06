@@ -6,7 +6,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: 'THE IMPLICATION OF DIVINE SELF-CONSISTENCY FOR THE DOCTRINE OF NATURAL DEPRAVITY:'
-weight: 2
+weight: 104
 ---
 
 <style>

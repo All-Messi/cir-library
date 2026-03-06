@@ -6,7 +6,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: COMMENTS ON “FULFILL”
-weight: 2
+weight: 107
 ---
 
 <style>

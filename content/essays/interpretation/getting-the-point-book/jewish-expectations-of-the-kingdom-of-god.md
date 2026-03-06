@@ -6,7 +6,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: JEWISH EXPECTATIONS OF THE KINGDOM OF GOD
-weight: 2
+weight: 101
 ---
 
 <style>

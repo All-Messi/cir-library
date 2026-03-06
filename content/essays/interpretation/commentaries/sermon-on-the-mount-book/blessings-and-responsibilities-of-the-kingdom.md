@@ -7,7 +7,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: BLESSINGS AND RESPONSIBILITIES OF THE KINGDOM
-weight: 3
+weight: 2
 ---
 
 <style>

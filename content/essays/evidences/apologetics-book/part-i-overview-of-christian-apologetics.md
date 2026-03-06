@@ -6,7 +6,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: 'Part I:  OVERVIEW OF CHRISTIAN APOLOGETICS'
-weight: 2
+weight: 1
 ---
 
 <style>

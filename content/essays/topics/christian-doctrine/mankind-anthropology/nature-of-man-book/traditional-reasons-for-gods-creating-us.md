@@ -8,7 +8,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: TRADITIONAL REASONS FOR GOD’S CREATING US
-weight: 4
+weight: 3
 ---
 
 <style>

@@ -8,7 +8,7 @@ date: '2026-02-16'
 draft: false
 title: "I. Setting the conclusion and then working toward it\t             Virgil\
   \ Warren, PhD"
-weight: 2
+weight: 40
 ---
 
 <style>

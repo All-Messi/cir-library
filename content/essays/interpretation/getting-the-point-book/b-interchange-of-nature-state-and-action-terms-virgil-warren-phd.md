@@ -8,7 +8,7 @@ date: '2026-02-16'
 draft: false
 title: B. Interchange of Nature, State, and Action Terms                Virgil Warren,
   PhD
-weight: 2
+weight: 11
 ---
 
 <style>

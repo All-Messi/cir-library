@@ -7,7 +7,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: ADULTERY, DIVORCE, AND REMARRIAGE
-weight: 3
+weight: 5
 ---
 
 <style>

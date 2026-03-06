@@ -7,7 +7,7 @@ date: '2026-02-16'
 draft: false
 title: "D.\tAdopting an inappropriate model (cp. allegorizing comparisons and nature\
   \ of the"
-weight: 2
+weight: 21
 ---
 
 <style>

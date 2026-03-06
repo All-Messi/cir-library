@@ -8,7 +8,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: THE IMAGE AND THE BODY
-weight: 4
+weight: 7
 ---
 
 <style>

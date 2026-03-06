@@ -6,7 +6,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: 'PART III: THE SCIENTIFIC METHOD'
-weight: 2
+weight: 6
 ---
 
 <style>

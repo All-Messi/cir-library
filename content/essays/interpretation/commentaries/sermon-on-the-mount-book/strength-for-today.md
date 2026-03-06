@@ -7,7 +7,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: STRENGTH FOR TODAY
-weight: 3
+weight: 9
 ---
 
 <style>

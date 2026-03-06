@@ -6,7 +6,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: NEW TESTAMENT INTERPRETATION
-weight: 2
+weight: 106
 ---
 
 <style>

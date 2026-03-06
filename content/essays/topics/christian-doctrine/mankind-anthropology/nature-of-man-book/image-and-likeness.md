@@ -8,7 +8,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: IMAGE AND LIKENESS
-weight: 4
+weight: 8
 ---
 
 <style>

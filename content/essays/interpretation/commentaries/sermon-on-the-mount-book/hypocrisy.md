@@ -7,7 +7,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: HYPOCRISY
-weight: 3
+weight: 7
 ---
 
 <style>

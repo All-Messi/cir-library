@@ -6,7 +6,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: BIBLICAL FIGURES OF SPEECH
-weight: 2
+weight: 110
 ---
 
 <style>
