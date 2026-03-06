@@ -11,7 +11,7 @@ next: chapter-12
 
 ## Matthew Chapter 11
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><b><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>11</span></b><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>:1</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And it-happened when [the] Jesus finished giving-directions to-the twelve disciples of-him, (that) he-left from-there [the] to-teach and preach in the towns of-them.</span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And it-happened when [the] Jesus finished giving-directions to-the twelve disciples of-him, (that) he-left from-there [the] to-teach and preach in the towns of-them.</span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And [the] John, having-heard in [the] prison the works of-[the] Messiah, having-sent through the disciples of-him, </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>he-said to-him, <i>“Are <u>you</u> the-One coming, or are-we-waiting-for another?” </i></span></span></p>

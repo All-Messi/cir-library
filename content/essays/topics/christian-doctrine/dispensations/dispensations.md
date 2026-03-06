@@ -50,7 +50,7 @@ through the heads of <u>families</u>, or “patriarchs.”</span></p>
 style='font-size:8.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'><img width=316 height=31
+style='font-size:12.0pt'><img width=314 height=33
 src="/cir-library/images/essays/dispensations/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
@@ -78,7 +78,7 @@ at       </span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'><img width=377 height=149
+style='font-size:12.0pt'><img width=380 height=150
 src="/cir-library/images/essays/dispensations/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span

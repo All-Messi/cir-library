@@ -11,7 +11,8 @@ next: chapter-20
 
 ## Matthew Chapter 19
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>19</span></b><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>:1</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And it-happened when [the] Jesus finished [the] these words, he-departed from [the] Galilee and he-came into the mountains of-[the] Judaea beyond the Jordan. </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And many crowd[s] followed him and he-healed them there.</span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And it-happened when [the] Jesus finished [the] these words, he-departed from [the] Galilee and he-came into the mountains of-[the] Judaea beyond the Jordan. </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And many crowd[s] followed him and he-healed them there.</span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And Pharisees came-to him, trying him and saying [whether], <i>“Is-it lawful for-(a)-man to-divorce the wife of-him for every reason?” </i></span></span></p>
 

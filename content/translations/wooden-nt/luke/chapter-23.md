@@ -11,7 +11,7 @@ next: chapter-24
 
 ## Luke Chapter 23
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>23</span></b><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>:1</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And all the multitude of-them, having-risen-up, led him to [the] Pilate. </span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And all the multitude of-them, having-risen-up, led him to [the] Pilate. </span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And they-began to-accuse him, saying, <i>“We-found this-One misleading the nation of-us, and preventing to-pay tribute to-Caesar, and saying himself to-be Messiah, (a) king.”</i> </span></span></p>
 

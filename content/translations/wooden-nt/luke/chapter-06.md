@@ -11,7 +11,7 @@ next: chapter-07
 
 ## Luke Chapter 6
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>6</span></b><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>:1</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And it-happened on (a) Sabbath, his passing through grain-fields, and/that the disciples of-him were-plucking and were-eating the grain-heads, rubbing (them) with the/their hands. </span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And it-happened on (a) Sabbath, his passing through grain-fields, and/that the disciples of-him were-plucking and were-eating the grain-heads, rubbing (them) with the/their hands. </span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And some of-the Pharisees said, <i>“Why are-you<sup>pl</sup>-doing what is┘not└lawful on-the Sabbath[s]?” </i></span></span></p>
 

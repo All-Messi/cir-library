@@ -11,7 +11,7 @@ next: chapter-12
 
 ## Luke Chapter 11
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><b><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>11</span></b><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>:1</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And it-happened in [the] his being in-(a)-certain place praying, when he-stopped, (a)-certain-one of-the disciples of-him said to him, <i>“Lord, teach us to-pray, even-as also John taught the disciples of-him.” </i></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And it-happened in [the] his being in-(a)-certain place praying, when he-stopped, (a)-certain-one of-the disciples of-him said to him, <i>“Lord, teach us to-pray, even-as also John taught the disciples of-him.” </i></span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And he-said to-them,</span><b><sup><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span></sup></b><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> <i>“When you-pray, say,</i></span></span></p>
 

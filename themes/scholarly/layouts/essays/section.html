@@ -38,7 +38,9 @@
                     <span>{{ $subs }} {{ if eq $subs 1 }}subcategory{{ else }}subcategories{{ end }}</span>
                     {{ end }}
                     {{ if gt $allPages 0 }}
-                    <span>{{ $allPages }} {{ if eq $allPages 1 }}essay{{ else }}essays{{ end }}</span>
+                    {{ $label := .Params.itemLabel | default ($.Params.itemLabel | default "essay") }}
+                    {{ $labelPlural := printf "%ss" $label }}
+                    <span>{{ $allPages }} {{ if eq $allPages 1 }}{{ $label }}{{ else }}{{ $labelPlural }}{{ end }}</span>
                     {{ end }}
                 </div>
                 <span class="subsection-arrow">→</span>

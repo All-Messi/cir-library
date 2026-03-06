@@ -5,8 +5,22 @@
     </header>
 
     <div class="search-container">
-        <input type="search" id="search-input" placeholder="Search essays and translations..." autocomplete="off">
+        <input type="search" id="search-input" placeholder="Search essays, translations, meditations..." autocomplete="off">
         <button id="search-btn" onclick="performSearch()">Search</button>
+        <button id="filter-btn" onclick="toggleFilters()" title="Filter results" aria-label="Filter results">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.07 4.93a10 10 0 010 14.14M4.93 4.93a10 10 0 000 14.14M12 2v2M12 20v2M2 12h2M20 12h2"/></svg>
+        </button>
+    </div>
+
+    <div id="filter-panel">
+        <p class="filter-label">Show results from:</p>
+        <div class="filter-checkboxes">
+            <label class="filter-check"><input type="checkbox" id="f-sections" checked onchange="performSearch()"> <span>Categories</span></label>
+            <label class="filter-check"><input type="checkbox" id="f-essays" checked onchange="performSearch()"> <span>Essays</span></label>
+            <label class="filter-check"><input type="checkbox" id="f-bible" checked onchange="performSearch()"> <span>Bible Translations</span></label>
+            <label class="filter-check"><input type="checkbox" id="f-harmony" checked onchange="performSearch()"> <span>Harmony</span></label>
+            <label class="filter-check"><input type="checkbox" id="f-resources" checked onchange="performSearch()"> <span>Resources</span></label>
+        </div>
     </div>
 
     <div id="search-results"></div>
@@ -20,8 +34,6 @@ fetch('{{ "index.json" | absURL }}')
     .then(response => response.json())
     .then(data => {
         searchIndex = data;
-        console.log('Search index loaded:', data.length, 'items');
-        
         // Check if there's a query parameter
         const urlParams = new URLSearchParams(window.location.search);
         const query = urlParams.get('q');
@@ -35,185 +47,343 @@ fetch('{{ "index.json" | absURL }}')
         document.getElementById('search-results').innerHTML = '<p class="search-note">Search index not available. Please rebuild the site.</p>';
     });
 
+// Restore filter state from sessionStorage
+(function restoreFilters() {
+    const saved = sessionStorage.getItem('searchFilters');
+    if (saved) {
+        try {
+            const filters = JSON.parse(saved);
+            ['f-sections','f-essays','f-bible','f-harmony','f-resources'].forEach(id => {
+                const el = document.getElementById(id);
+                if (el && filters[id] !== undefined) el.checked = filters[id];
+            });
+        } catch(e) {}
+    }
+})();
+
+function saveFilters() {
+    const filters = {};
+    ['f-sections','f-essays','f-bible','f-harmony','f-resources'].forEach(id => {
+        const el = document.getElementById(id);
+        if (el) filters[id] = el.checked;
+    });
+    sessionStorage.setItem('searchFilters', JSON.stringify(filters));
+}
+
+function toggleFilters() {
+    const panel = document.getElementById('filter-panel');
+    const btn = document.getElementById('filter-btn');
+    const open = panel.classList.toggle('open');
+    btn.classList.toggle('active', open);
+}
+
+function getFilters() {
+    return {
+        sections:  document.getElementById('f-sections').checked,
+        essays:    document.getElementById('f-essays').checked,
+        bible:     document.getElementById('f-bible').checked,
+        harmony:   document.getElementById('f-harmony').checked,
+        resources: document.getElementById('f-resources').checked,
+    };
+}
+
+function itemMatchesFilters(item, filters) {
+    if (item.pageType === 'section') return filters.sections;
+    const type = (item.translation || '').toLowerCase();
+    const permalink = (item.permalink || '').toLowerCase();
+    if (item.book) {
+        if (permalink.includes('/harmony/')) return filters.harmony;
+        return filters.bible;
+    }
+    if (permalink.includes('/resources/')) return filters.resources;
+    return filters.essays;
+}
+
 function performSearch() {
+    saveFilters();
     const query = document.getElementById('search-input').value.toLowerCase().trim();
     const resultsDiv = document.getElementById('search-results');
-    
+
     if (!query || query.length < 2) {
         resultsDiv.innerHTML = '<p class="search-note">Please enter at least 2 characters to search.</p>';
         return;
     }
-    
     if (!searchIndex) {
         resultsDiv.innerHTML = '<p class="search-note">Loading search index...</p>';
         return;
     }
-    
+
+    const filters = getFilters();
+
     const results = searchIndex.filter(item => {
-        const titleMatch = item.title && item.title.toLowerCase().includes(query);
-        const contentMatch = item.content && item.content.toLowerCase().includes(query);
+        if (!itemMatchesFilters(item, filters)) return false;
+        const titleMatch    = item.title      && item.title.toLowerCase().includes(query);
+        const contentMatch  = item.content    && item.content.toLowerCase().includes(query);
         const categoryMatch = item.categories && item.categories.join(' ').toLowerCase().includes(query);
         return titleMatch || contentMatch || categoryMatch;
     });
-    
-    // Sort: essays first
+
+    // Sort: sections first, then essays, then bible/harmony/resources
     results.sort((a, b) => {
-        const aIsEssay = !a.book;
-        const bIsEssay = !b.book;
+        const aSection = a.pageType === 'section';
+        const bSection = b.pageType === 'section';
+        if (aSection && !bSection) return -1;
+        if (!aSection && bSection) return 1;
+        const aIsEssay = !a.book && !((a.permalink||'').includes('/resources/'));
+        const bIsEssay = !b.book && !((b.permalink||'').includes('/resources/'));
         if (aIsEssay && !bIsEssay) return -1;
         if (!aIsEssay && bIsEssay) return 1;
         return 0;
     });
-    
+
     if (results.length === 0) {
         resultsDiv.innerHTML = '<p class="search-note">No results found for "' + query + '"</p>';
         return;
     }
-    
-    let html = '<p class="search-count">' + results.length + ' result' + (results.length > 1 ? 's' : '') + ' found</p><div class="search-results-grid">';
-    
+
+    let html = '<p class="search-count">' + results.length + ' result' + (results.length !== 1 ? 's' : '') + ' found</p><div class="search-results-grid">';
+
     results.forEach(function(result) {
-        const snippet = getSnippet(result.content || '', query);
-        const isEssay = !result.book;
-        html += '<article class="search-result-card ' + (isEssay ? 'essay-result' : 'bible-result') + '">';
-        html += '<h3><a href="' + result.permalink + '">' + result.title + '</a></h3>';
-        if (result.book) {
-            html += '<p class="result-meta">' + result.book + '</p>';
-        } else if (result.categories && result.categories.length > 0) {
-            html += '<p class="result-meta">' + result.categories.join(', ') + '</p>';
+        const snippet  = getSnippet(result.content || '', query);
+        const isSection = result.pageType === 'section';
+        const permalink = (result.permalink || '').toLowerCase();
+        const isHarmony = result.book && permalink.includes('/harmony/');
+        const isResource = permalink.includes('/resources/');
+        const isEssay = !result.book && !isResource;
+
+        let cardClass, badgeText, badgeClass;
+        if (isSection) {
+            cardClass = 'section-result'; badgeText = 'Browse'; badgeClass = 'badge-section';
+        } else if (isHarmony) {
+            cardClass = 'harmony-result'; badgeText = 'Harmony'; badgeClass = 'badge-harmony';
+        } else if (result.book) {
+            cardClass = 'bible-result'; badgeText = 'Bible'; badgeClass = 'badge-bible';
+        } else if (isResource) {
+            cardClass = 'resource-result'; badgeText = 'Resource'; badgeClass = 'badge-resource';
+        } else {
+            cardClass = 'essay-result';
         }
-        html += '<p class="result-snippet">' + snippet + '</p>';
+
+        html += '<article class="search-result-card ' + cardClass + '">';
+
+        // Badge row
+        if (badgeText) {
+            html += '<div class="result-badges"><span class="result-type-badge ' + badgeClass + '">' + badgeText + '</span></div>';
+        }
+
+        html += '<h3><a href="' + result.permalink + '">' + result.title + '</a></h3>';
+
+        // Meta line — category path for sections, translation for Bible, categories for essays
+        let meta = '';
+        if (isSection) {
+            meta = 'Category' + (result.sectionParent ? ' · ' + result.sectionParent : '');
+        } else if (result.book) {
+            meta = result.book + (result.translation ? ' · ' + result.translation : '');
+        } else if (result.categories && result.categories.length > 0) {
+            meta = result.categories.join(' › ');
+        }
+        if (meta) {
+            html += '<p class="result-meta">' + meta + '</p>';
+        }
+
+        if (snippet) {
+            html += '<p class="result-snippet">' + snippet + '</p>';
+        }
+
         html += '</article>';
     });
-    
+
     html += '</div>';
     resultsDiv.innerHTML = html;
 }
 
 function getSnippet(content, query) {
     if (!content) return '';
-    
     const index = content.toLowerCase().indexOf(query.toLowerCase());
     if (index === -1) return content.substring(0, 150) + '...';
-    
     const start = Math.max(0, index - 75);
     const end = Math.min(content.length, index + query.length + 75);
     let snippet = content.substring(start, end);
-    
     if (start > 0) snippet = '...' + snippet;
-    if (end < content.length) snippet = snippet + '...';
-    
-    // Highlight the query
+    if (end < content.length) snippet += '...';
     const regex = new RegExp('(' + query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + ')', 'gi');
-    snippet = snippet.replace(regex, '<mark>$1</mark>');
-    
-    return snippet;
+    return snippet.replace(regex, '<mark>$1</mark>');
 }
 
-// Search on Enter key
 document.getElementById('search-input').addEventListener('keypress', function(e) {
-    if (e.key === 'Enter') {
-        performSearch();
-    }
+    if (e.key === 'Enter') performSearch();
 });
 </script>
 
 <style>
+.search-page {
+    max-width: 860px;
+    margin: 0 auto;
+}
+
 .search-container {
     display: flex;
-    gap: 1rem;
-    margin: 2rem 0;
-    max-width: 800px;
+    gap: 0.75rem;
+    margin: 2rem 0 0;
+    align-items: stretch;
 }
 
 #search-input {
     flex: 1;
-    padding: 1rem;
-    border: 2px solid var(--border-color);
-    border-radius: 4px;
-    font-size: 1.1em;
-    font-family: var(--font-sans);
+    padding: 0.85rem 1rem;
+    border: 2px solid var(--color-border, #e5e5e5);
+    border-radius: 6px;
+    font-size: 1.05em;
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    transition: border-color 0.2s;
 }
-
 #search-input:focus {
     outline: none;
-    border-color: var(--secondary-color);
+    border-color: var(--color-accent, #9c7c38);
 }
 
 #search-btn {
-    padding: 1rem 2rem;
-    background: var(--secondary-color);
+    padding: 0 1.5rem;
+    background: var(--color-accent, #9c7c38);
     color: white;
     border: none;
-    border-radius: 4px;
-    font-family: var(--font-sans);
+    border-radius: 6px;
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
     font-weight: 600;
     cursor: pointer;
     transition: background 0.2s;
+    white-space: nowrap;
 }
+#search-btn:hover { background: var(--color-primary, #000); }
 
-#search-btn:hover {
-    background: var(--primary-color);
+#filter-btn {
+    padding: 0 0.85rem;
+    background: white;
+    color: var(--color-text-secondary, #555);
+    border: 2px solid var(--color-border, #e5e5e5);
+    border-radius: 6px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    transition: all 0.2s;
 }
+#filter-btn:hover { border-color: var(--color-accent, #9c7c38); color: var(--color-accent, #9c7c38); }
+#filter-btn.active { border-color: var(--color-accent, #9c7c38); color: var(--color-accent, #9c7c38); background: #fdf8f0; }
 
-.search-count {
-    margin: 2rem 0 1rem;
-    font-family: var(--font-sans);
+/* Filter panel */
+#filter-panel {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.25s ease, padding 0.25s ease;
+    background: #fafafa;
+    border: 1px solid var(--color-border, #e5e5e5);
+    border-radius: 6px;
+    margin-top: 0.5rem;
+}
+#filter-panel.open {
+    max-height: 120px;
+    padding: 0.85rem 1rem;
+}
+.filter-label {
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.8rem;
     font-weight: 600;
-    color: var(--text-light);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--color-text-muted, #888);
+    margin: 0 0 0.6rem;
 }
+.filter-checkboxes {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem 1.25rem;
+}
+.filter-check {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.9rem;
+    color: var(--color-text, #1a1a1a);
+    cursor: pointer;
+}
+.filter-check input { cursor: pointer; accent-color: var(--color-accent, #9c7c38); }
 
+/* Results */
+.search-count {
+    margin: 1.5rem 0 1rem;
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--color-text-muted, #888);
+}
 .search-results-grid {
     display: grid;
-    gap: 1.5rem;
+    gap: 1rem;
 }
-
 .search-result-card {
-    background: var(--bg-white);
-    padding: 1.5rem;
-    border: 1px solid var(--border-color);
-    border-radius: 4px;
+    background: #fff;
+    padding: 1.25rem 1.5rem;
+    border: 1px solid var(--color-border, #e5e5e5);
+    border-radius: 6px;
     transition: box-shadow 0.2s;
 }
+.search-result-card:hover { box-shadow: 0 4px 12px rgba(0,0,0,0.07); }
+.search-result-card h3 { margin: 0.25rem 0 0.3rem; font-size: 1.05rem; }
+.search-result-card h3 a { color: var(--color-text, #1a1a1a); text-decoration: none; }
+.search-result-card h3 a:hover { color: var(--color-accent, #9c7c38); }
 
-.search-result-card.essay-result {
-    border-left: 3px solid var(--primary-color);
-}
+/* Left border colors by type */
+.essay-result    { border-left: 4px solid #2c3e50; }
+.bible-result    { border-left: 4px solid #9c7c38; }
+.harmony-result  { border-left: 4px solid #7030A0; }
+.section-result  { border-left: 4px solid #2d8a6e; background: #f7fdf9; }
+.resource-result { border-left: 4px solid #3a5a6b; }
 
-.search-result-card.bible-result {
-    border-left: 3px solid var(--accent-color);
+/* Badges */
+.result-badges { margin-bottom: 0.3rem; }
+.result-type-badge {
+    display: inline-block;
+    font-size: 0.68rem;
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    padding: 0.2em 0.55em;
+    border-radius: 3px;
+    color: white;
 }
-
-.search-result-card:hover {
-    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-}
-
-.search-result-card h3 {
-    margin-top: 0;
-}
+.badge-section  { background: #2d8a6e; }
+.badge-bible    { background: #9c7c38; }
+.badge-harmony  { background: #7030A0; }
+.badge-resource { background: #3a5a6b; }
 
 .result-meta {
-    color: var(--text-light);
-    font-size: 0.9em;
-    font-family: var(--font-sans);
-    margin: 0.5rem 0;
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.82rem;
+    color: var(--color-text-muted, #888);
+    margin: 0 0 0.4rem;
 }
-
 .result-snippet {
-    color: var(--text-color);
+    font-size: 0.92rem;
+    color: var(--color-text-secondary, #555);
     margin: 0;
+    line-height: 1.5;
 }
-
 .result-snippet mark {
-    background: var(--accent-color);
-    padding: 0.1em 0.2em;
+    background: #fef3cd;
+    padding: 0.05em 0.2em;
     border-radius: 2px;
 }
-
 .search-note {
-    color: var(--text-light);
+    color: var(--color-text-muted, #888);
     font-style: italic;
     margin: 2rem 0;
+}
+
+@media (max-width: 600px) {
+    .filter-checkboxes { gap: 0.5rem 0.75rem; }
+    #search-btn { padding: 0 1rem; }
 }
 </style>
 {{ end }}

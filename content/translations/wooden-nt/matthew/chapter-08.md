@@ -11,7 +11,8 @@ next: chapter-09
 
 ## Matthew Chapter 8
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:4.5pt;'><b><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>8</span></b><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>:1</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And he having-come-down from the mountain, many crowds followed him. </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And behold (a) leper, coming-to (him), knelt to-him, saying<i>, “Lord, if you-are-willing, you-are-able to-cleanse me.” </i></span></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:4.5pt;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And he having-come-down from the mountain, many crowds followed him. </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And behold (a) leper, coming-to (him), knelt to-him, saying<i>, “Lord, if you-are-willing, you-are-able to-cleanse me.” </i></span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:4.5pt;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And having-stretched-out the/his hand, he-touched him, saying, <i>“I-am-willing; be-cleansed.” </i>And immediately the leprosy of-him was-cleansed. </span></span></p>
 

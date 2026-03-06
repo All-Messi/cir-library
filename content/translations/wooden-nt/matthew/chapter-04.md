@@ -11,7 +11,8 @@ next: chapter-05
 
 ## Matthew Chapter 4
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><b><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>4</span></b><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>:1</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then [the] Jesus was-led by the Spirit into the desert to-be-tempted by the devil. </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And having-fasted for-forty days and forty nights, he-was-hungry afterwards. </span></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then [the] Jesus was-led by the Spirit into the desert to-be-tempted by the devil. </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And having-fasted for-forty days and forty nights, he-was-hungry afterwards. </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And the tempter, having-come, said to-him, <i>“If you-are (the) Son of-[the] God, say [in-order]-that [the] these stones become loaves.”</i> </span></span></p>
 

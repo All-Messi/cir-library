@@ -5612,6 +5612,15 @@ weight: 2
 @font-face
 	{font-family:"\@PMingLiU";
 	panose-1:2 1 6 1 0 1 1 1 1 1;}
+@font-face
+	{font-family:"AR CENA";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Proxima Nova";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:SuperGreek;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
  /* Style Definitions */
  .word-content p.MsoNormal, .word-content li.MsoNormal, 
 p.MsoHeader, li.MsoHeader, 

@@ -15,7 +15,8 @@ next: chapter-15
 ### ‘Blessed (is) the-One coming in (the) name of-(the)-Lord.’”
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>14</span></b><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>:1</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And it-happened in [the] his coming into (the) house of-(a)-certain-one of-the rulers of-the Pharisees on-(a)-Sabbath to-eat bread, and/that <u>they</u> were watching┘him└closely. </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And behold, (a)-certain man before him was endemic. </span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And it-happened in [the] his coming into (the) house of-(a)-certain-one of-the rulers of-the Pharisees on-(a)-Sabbath to-eat bread, and/that <u>they</u> were watching┘him└closely. </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And behold, (a)-certain man before him was endemic. </span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And having-responded, [the] Jesus said to the lawyers and Pharisees, saying, <i>“Is-it-lawful on-the Sabbath to-heal or not?”</i> </span></span></p>
 
