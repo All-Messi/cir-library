@@ -1,6 +1,7 @@
 ---
 title: "Wooden New Testament"
 type: "translation"
+layout: "translation-home"
 translation: "WNT"
 testament: "new"
 weight: 3

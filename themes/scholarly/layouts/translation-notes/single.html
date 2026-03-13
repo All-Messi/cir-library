@@ -1,0 +1,76 @@
+{{ define "main" }}
+{{ $parent := .Parent }}
+<div class="translation-notes-page">
+
+    <nav class="breadcrumb">
+        {{ with $parent }}
+        <a href="{{ .RelPermalink }}">← {{ .Title }}</a>
+        {{ end }}
+    </nav>
+
+    <header class="notes-header">
+        <h1>{{ .Title }}</h1>
+    </header>
+
+    <div class="notes-body word-content">
+        {{ .Content }}
+    </div>
+
+    {{ with $parent }}
+    <footer class="notes-footer">
+        <a href="{{ .RelPermalink }}" class="btn btn-secondary">← Back to {{ .Title }}</a>
+    </footer>
+    {{ end }}
+
+</div>
+
+<style>
+.translation-notes-page {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 0 1.5rem 4rem;
+}
+
+.translation-notes-page .breadcrumb {
+    margin-bottom: 2rem;
+}
+
+.translation-notes-page .breadcrumb a {
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.9rem;
+    color: var(--color-text-secondary, #555);
+    text-decoration: none;
+}
+
+.translation-notes-page .breadcrumb a:hover {
+    color: var(--color-accent, #9c7c38);
+}
+
+.notes-header {
+    margin-bottom: 2rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid var(--color-border, #e5e5e5);
+}
+
+.notes-header h1 {
+    font-family: var(--font-display, 'Playfair Display', Georgia, serif);
+    font-size: 1.75rem;
+    font-weight: 600;
+    color: var(--color-primary, #000);
+    margin: 0;
+}
+
+.notes-body {
+    font-family: var(--font-body, 'Source Serif Pro', Georgia, serif);
+    font-size: 1.05rem;
+    line-height: 1.8;
+    color: var(--color-text, #1a1a1a);
+}
+
+.notes-footer {
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 1px solid var(--color-border, #e5e5e5);
+}
+</style>
+{{ end }}

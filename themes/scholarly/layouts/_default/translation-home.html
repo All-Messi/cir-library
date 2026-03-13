@@ -13,6 +13,16 @@
         {{ end }}
     </header>
 
+    {{/* Translator's Notes / Introduction link if it exists */}}
+    {{ $notes := .GetPage "notes" }}
+    {{ $intro := .GetPage "introduction" }}
+    {{ $notesPage := $notes | default $intro }}
+    {{ with $notesPage }}
+    <div class="translation-notes-link">
+        <a href="{{ .RelPermalink }}">{{ .Title }} →</a>
+    </div>
+    {{ end }}
+
     <!-- Books Grid -->
     <div class="books-grid">
         {{ range .Sections.ByWeight }}
@@ -66,6 +76,26 @@
     color: var(--color-text-secondary, #555);
     line-height: 1.6;
     margin: 0;
+}
+
+/* Translator's Notes link */
+.translation-notes-link {
+    margin-bottom: 2rem;
+}
+
+.translation-notes-link a {
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.9rem;
+    color: var(--color-text-secondary, #555);
+    text-decoration: none;
+    border-bottom: 1px solid var(--color-border, #e5e5e5);
+    padding-bottom: 1px;
+    transition: color 0.2s ease;
+}
+
+.translation-notes-link a:hover {
+    color: var(--color-accent, #9c7c38);
+    border-color: var(--color-accent, #9c7c38);
 }
 
 /* Books Grid */

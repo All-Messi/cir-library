@@ -1,6 +1,7 @@
 ---
 title: "Conversational Yahveh Version"
 type: "translation"
+layout: "translation-home"
 translation: "CYV"
 testament: "old"
 weight: 4
