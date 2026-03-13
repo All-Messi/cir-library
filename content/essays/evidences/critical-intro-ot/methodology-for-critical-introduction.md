@@ -6,7 +6,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: METHODOLOGY FOR CRITICAL INTRODUCTION
-weight: 2
+weight: 4
 ---
 
 <style>

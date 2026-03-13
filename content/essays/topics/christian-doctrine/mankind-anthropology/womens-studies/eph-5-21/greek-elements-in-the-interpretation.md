@@ -281,7 +281,7 @@ so also husbands are under the headship of Christ, whom they are to respect (Eph
 <p class=MsoNormal style='margin-right:-.5in'><span style='font-size:8.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'><img width=370 height=114
+style='font-size:12.0pt'><img width=367 height=111
 src="/cir-library/images/essays/greek-elements-in-the-interpretation/image004.jpg"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span

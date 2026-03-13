@@ -6,7 +6,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: GENERAL SCHEMATIC FOR CHRISTIAN APOLOGETICS
-weight: 2
+weight: 1
 ---
 
 <style>

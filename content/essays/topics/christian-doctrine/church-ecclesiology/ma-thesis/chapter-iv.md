@@ -8,7 +8,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: CHAPTER IV
-weight: 4
+weight: 16
 ---
 
 <style>
@@ -357,7 +357,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'><img width=401 height=165
+style='font-size:12.0pt'><img width=399 height=164
 src="/cir-library/images/essays/chapter-iv/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -447,7 +447,7 @@ style='font-size:12.0pt'>                        </span><
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'><img width=380 height=210
+style='font-size:12.0pt'><img width=379 height=209
 src="/cir-library/images/essays/chapter-iv/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -994,7 +994,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'><img width=320 height=182
+style='font-size:12.0pt'><img width=321 height=183
 src="/cir-library/images/essays/chapter-iv/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -1040,7 +1040,7 @@ style='font-size:12.0pt'>                           �
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'><img width=177 height=156
+style='font-size:12.0pt'><img width=177 height=157
 src="/cir-library/images/essays/chapter-iv/image004.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -1062,7 +1062,7 @@ style='font-size:12.0pt'>                        </span><
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'><img width=202 height=178
+style='font-size:12.0pt'><img width=203 height=177
 src="/cir-library/images/essays/chapter-iv/image005.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -1097,7 +1097,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'><img width=180 height=158
+style='font-size:12.0pt'><img width=183 height=157
 src="/cir-library/images/essays/chapter-iv/image006.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;

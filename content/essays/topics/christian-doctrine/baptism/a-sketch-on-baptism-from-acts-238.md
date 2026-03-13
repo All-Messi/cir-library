@@ -7,7 +7,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: A SKETCH ON BAPTISM FROM ACTS 2:38
-weight: 3
+weight: 100
 ---
 
 <style>

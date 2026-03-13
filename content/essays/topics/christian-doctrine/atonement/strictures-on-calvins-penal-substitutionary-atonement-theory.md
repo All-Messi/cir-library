@@ -7,7 +7,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: 'STRICTURES ON CALVIN’S PENAL SUBSTITUTIONARY ATONEMENT  THEORY:'
-weight: 3
+weight: 15
 ---
 
 <style>

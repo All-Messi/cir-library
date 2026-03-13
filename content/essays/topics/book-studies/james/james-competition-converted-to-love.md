@@ -7,7 +7,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: 'JAMES: COMPETITION CONVERTED TO LOVE'
-weight: 3
+weight: 1
 ---
 
 <style>

@@ -7,7 +7,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: PAUL AS PRIMARY APOSTLE
-weight: 3
+weight: 8
 ---
 
 <style>

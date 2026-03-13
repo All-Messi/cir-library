@@ -7,7 +7,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: CHRISTIANS AND TEMPORAL AUTHORITIES
-weight: 3
+weight: 100
 ---
 
 <style>

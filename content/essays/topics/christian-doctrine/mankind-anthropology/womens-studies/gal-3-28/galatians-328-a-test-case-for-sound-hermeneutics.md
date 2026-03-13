@@ -9,7 +9,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: 'GALATIANS 3:28: A TEST CASE FOR SOUND HERMENEUTICS'
-weight: 5
+weight: 1
 ---
 
 <style>

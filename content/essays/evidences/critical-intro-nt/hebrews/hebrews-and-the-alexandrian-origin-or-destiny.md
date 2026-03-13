@@ -7,7 +7,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: HEBREWS AND THE ALEXANDRIAN ORIGIN OR DESTINY
-weight: 3
+weight: 10
 ---
 
 <style>

@@ -7,7 +7,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: THE NEW TESTAMENT STRUCTURE
-weight: 3
+weight: 2
 ---
 
 <style>
@@ -978,8 +978,8 @@ lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>
 style='font-size:4.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                                    <img width=247
-height=95 src="/cir-library/images/essays/the-new-testament-structure/image001.png"></span></p>
+style='font-size:12.0pt'>                                    <img width=249
+height=92 src="/cir-library/images/essays/the-new-testament-structure/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
@@ -1205,8 +1205,8 @@ style='font-size:12.0pt'>                           �
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                              <img width=282
-height=191 src="/cir-library/images/essays/the-new-testament-structure/image002.png"></span></p>
+style='font-size:12.0pt'>                              <img width=281
+height=190 src="/cir-library/images/essays/the-new-testament-structure/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>

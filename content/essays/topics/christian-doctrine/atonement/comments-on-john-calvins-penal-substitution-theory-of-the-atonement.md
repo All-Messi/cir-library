@@ -7,7 +7,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: COMMENTS ON JOHN CALVIN’S PENAL SUBSTITUTION THEORY OF THE ATONEMENT
-weight: 3
+weight: 8
 ---
 
 <style>

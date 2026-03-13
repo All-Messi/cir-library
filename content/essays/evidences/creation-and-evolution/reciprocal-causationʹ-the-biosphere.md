@@ -345,7 +345,7 @@ line-height:115%;font-family:"Times New Roman",serif'> within a bottom limit
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        No
-needed parts missing for <u>this</u> entity/system</span></p>
+needed parts missing from <u>this</u> entity/system</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.75in;text-align:justify'><span style='font-size:12.0pt;line-height:
@@ -1013,7 +1013,7 @@ margin-left:0in;text-align:justify;text-indent:.5in'><u><span style='font-size:
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>:
 The individuals in all living entities must come from “parents” that have the
 abilities, instincts, and behaviors to provide everything necessary for the
-offsprings to develop into independent living replicating entities (DNA). The
+offsprings to develop into independent, living, replicating entities (DNA). The
 “parents” can provide for the temporary, various circumstances in which those different
 entities can do so (womb, pouch, egg).  </span></p>
 
@@ -1816,7 +1816,7 @@ interpersonal features, particularly mind/will/authority/act, also termed
 machinery. <u>Fission and fusion reproduction</u> and <u>plant and animal life</u>
 operate with some of the same biochemistry. <u>Animals and humankind</u> have
 crossovers in their physical components—and somewhat beyond as manifested in different
-degrees. The uniqueness of supernatural, human, animal, organic, and organic
+degrees. The uniqueness of supernatural, human, animal, organic, and inorganic
 share a certain degree of the less complex level nearest them as the whole
 system form a kind of “chain of being.”</span></p>
 

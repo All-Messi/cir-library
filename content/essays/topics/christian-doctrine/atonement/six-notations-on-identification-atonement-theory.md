@@ -7,7 +7,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: SIX NOTATIONS ON IDENTIFICATION ATONEMENT THEORY
-weight: 3
+weight: 5
 ---
 
 <style>

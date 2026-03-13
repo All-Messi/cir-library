@@ -6,7 +6,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: FORMATS FOR SCRIPTURE REFERENCES
-weight: 2
+weight: 32
 ---
 
 <style>

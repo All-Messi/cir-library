@@ -9,7 +9,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: 'ADDENDUM: “MALE AND FEMALE”'
-weight: 5
+weight: 2
 ---
 
 <style>

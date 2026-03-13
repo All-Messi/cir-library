@@ -7,7 +7,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: CRITICAL INTRODUCTION TO 1 PETER
-weight: 3
+weight: 1
 ---
 
 <style>

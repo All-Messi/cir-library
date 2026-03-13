@@ -6,7 +6,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: NOTATIONS ON THE DOCUMENTARY THEORY
-weight: 2
+weight: 10
 ---
 
 <style>

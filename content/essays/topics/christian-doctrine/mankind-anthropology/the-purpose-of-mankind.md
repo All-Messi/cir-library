@@ -7,7 +7,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: 'THE PURPOSE OF MANKIND:'
-weight: 3
+weight: 5
 ---
 
 <style>

@@ -5620,6 +5620,9 @@ weight: 1
 @font-face
 	{font-family:SuperGreek;
 	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"CG Times";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
  /* Style Definitions */
  .word-content p.MsoNormal, .word-content li.MsoNormal, 
 p.MsoHeader, li.MsoHeader, 

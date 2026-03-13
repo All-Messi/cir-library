@@ -8,7 +8,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: 'THE NEW TESTAMENT BASIS FOR THE NON-DENOMINATIONAL CHURCH:'
-weight: 4
+weight: 0
 ---
 
 <style>

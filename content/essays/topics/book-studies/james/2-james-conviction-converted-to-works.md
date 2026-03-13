@@ -7,7 +7,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: '(2) JAMES: CONVICTION CONVERTED TO WORKS'
-weight: 3
+weight: 2
 ---
 
 <style>

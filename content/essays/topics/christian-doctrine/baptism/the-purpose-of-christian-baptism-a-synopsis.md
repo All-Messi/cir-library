@@ -51,7 +51,7 @@ AS AN INTERPERSONAL “SYSTEM”         </span></b></p>
  </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>    
- <img width=385 height=168 src="/cir-library/images/essays/the-purpose-of-christian-baptism-a-synopsis/image001.png"></span></p>
+ <img width=386 height=170 src="/cir-library/images/essays/the-purpose-of-christian-baptism-a-synopsis/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in'><span lang=EL style='font-size:
 12.0pt'>&nbsp;</span></p>

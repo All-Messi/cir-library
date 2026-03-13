@@ -7,7 +7,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: THE SEVEN DAYS OF CONSUMMATION
-weight: 3
+weight: 7
 ---
 
 <style>

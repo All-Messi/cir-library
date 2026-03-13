@@ -7,7 +7,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: 'A PREFERRED UNDERSTANDING OF ATONEMENT THEORY:'
-weight: 3
+weight: 1
 ---
 
 <style>

@@ -8,7 +8,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: CHAPTER II
-weight: 4
+weight: 12
 ---
 
 <style>

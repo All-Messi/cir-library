@@ -8,7 +8,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: CHAPTER I
-weight: 4
+weight: 10
 ---
 
 <style>
@@ -79,7 +79,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'><img width=363 height=226
+style='font-size:12.0pt'><img width=360 height=229
 src="/cir-library/images/essays/chapter-i/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -177,7 +177,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:1.0in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'><img width=340 height=141
+style='font-size:12.0pt'><img width=340 height=144
 src="/cir-library/images/essays/chapter-i/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
@@ -202,7 +202,7 @@ margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'><img width=330 height=155
+style='font-size:12.0pt'><img width=327 height=157
 src="/cir-library/images/essays/chapter-i/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -461,12 +461,12 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'><img width=384 height=235
+style='font-size:12.0pt'><img width=386 height=236
 src="/cir-library/images/essays/chapter-i/image004.png"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'><img width=386 height=94
+style='font-size:12.0pt'><img width=386 height=92
 src="/cir-library/images/essays/chapter-i/image005.png"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
@@ -542,7 +542,7 @@ style='font-size:12.0pt'>Fig. 5.  Pattern of “World-Churchism”</span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'><img width=207 height=213
+style='font-size:12.0pt'><img width=210 height=216
 src="/cir-library/images/essays/chapter-i/image006.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
@@ -569,7 +569,7 @@ style='font-size:12.0pt'>Fig. 6. Pattern of Denominationalism</span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'><img width=319 height=180
+style='font-size:12.0pt'><img width=321 height=183
 src="/cir-library/images/essays/chapter-i/image007.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
@@ -614,7 +614,7 @@ style='font-size:12.0pt'>Fig. 7.  Pattern of “No-Churchism”</span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'><img width=181 height=98
+style='font-size:12.0pt'><img width=183 height=98
 src="/cir-library/images/essays/chapter-i/image008.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
@@ -666,7 +666,7 @@ style='font-size:12.0pt'>Fig. 8.  Pattern of Non-Denominationalism</span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'><img width=236 height=125
+style='font-size:12.0pt'><img width=236 height=124
 src="/cir-library/images/essays/chapter-i/image009.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><u><span

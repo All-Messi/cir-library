@@ -7,7 +7,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: EXTERNAL TESTIMONY TO THE AUTHORSHIP OF HEBREWS
-weight: 3
+weight: 1
 ---
 
 <style>

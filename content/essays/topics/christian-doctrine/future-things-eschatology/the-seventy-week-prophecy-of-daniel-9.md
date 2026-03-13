@@ -7,7 +7,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: THE SEVENTY-WEEK PROPHECY OF DANIEL 9
-weight: 3
+weight: 70
 ---
 
 <style>

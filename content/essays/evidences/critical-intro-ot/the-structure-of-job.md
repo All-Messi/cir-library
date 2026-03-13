@@ -6,7 +6,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: THE STRUCTURE OF JOB
-weight: 2
+weight: 29
 ---
 
 <style>

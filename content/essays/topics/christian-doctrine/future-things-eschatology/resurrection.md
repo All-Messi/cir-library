@@ -555,7 +555,7 @@ variant human conditions and in regard to Christ’s and our</span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>             <img width=292 height=139
+style='font-size:12.0pt'>             <img width=295 height=138
 src="/cir-library/images/essays/resurrection/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span

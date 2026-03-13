@@ -6,7 +6,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: THE ANTIQUITY AND CHARACTER OF RITUAL SACRIFICE
-weight: 2
+weight: 17
 ---
 
 <style>

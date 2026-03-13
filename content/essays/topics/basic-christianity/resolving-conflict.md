@@ -103,7 +103,7 @@ style='font-size:12.0pt'>        </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>           <img width=262 height=70
+style='font-size:12.0pt'>           <img width=262 height=72
 src="/cir-library/images/essays/resolving-conflict/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -253,7 +253,7 @@ style='font-size:12.0pt'>                    </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                          <img width=135 height=72
+style='font-size:12.0pt'>                          <img width=138 height=72
 src="/cir-library/images/essays/resolving-conflict/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -403,7 +403,7 @@ style='font-size:12.0pt'>                     </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                        <img width=159 height=87
+style='font-size:12.0pt'>                        <img width=157 height=85
 src="/cir-library/images/essays/resolving-conflict/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -506,7 +506,7 @@ style='font-size:6.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                      <img width=184 height=97
+style='font-size:12.0pt'>                      <img width=183 height=98
 src="/cir-library/images/essays/resolving-conflict/image004.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:

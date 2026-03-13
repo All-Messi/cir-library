@@ -7,7 +7,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: THE RATIONALE FOR ATONEMENT THROUGH CHRIST
-weight: 3
+weight: 2
 ---
 
 <style>

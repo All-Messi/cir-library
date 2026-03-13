@@ -8,7 +8,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: 2 TIMOTHY 3:16
-weight: 4
+weight: 2
 ---
 
 <style>
