@@ -29,7 +29,7 @@
         <div class="hp-main-card">
           <span class="hp-chip">Theology</span>
           <h3>Topics</h3>
-          <p>Interpersonalism, Basic Christianity, Doctrine, and foundational theological studies</p>
+          <p>Interpersonalism, Christian Living, Doctrine, and foundational theological studies</p>
           <a href="{{ "essays/topics/" | absURL }}" class="hp-cta">Explore Topics</a>
         </div>
         <div class="hp-main-card">
@@ -56,9 +56,16 @@
     </div>
   </section>
 
+  <!-- accordion wrapper starts here (on mobile these become collapsible) -->
+  <div class="hp-accordion">
+
   <!-- ══════════════════════════════
        2. SCRIPTURE RESOURCES
   ══════════════════════════════ -->
+  <div class="hp-accordion-item">
+  <details class="hp-cream">
+    <summary>Scripture Resources</summary>
+    <div class="hp-accordion-content">
   <section class="hp-section hp-scripture">
     <div class="hp-inner">
       <div class="hp-sec-head"><span class="hp-rule-line"></span><span class="hp-sec-title">Scripture Resources</span><span class="hp-rule-line"></span></div>
@@ -81,10 +88,17 @@
       </div>
     </div>
   </section>
+    </div>
+  </details>
+  </div>
 
   <!-- ══════════════════════════════
        3. COMMUNION MEDITATIONS
   ══════════════════════════════ -->
+  <div class="hp-accordion-item">
+  <details class="hp-dark">
+    <summary>Communion Meditations</summary>
+    <div class="hp-accordion-content">
   <section class="hp-section hp-communion">
     <div class="hp-inner">
       <div class="hp-sec-head hp-sec-head-dark"><span class="hp-rule-line"></span><span class="hp-sec-title">Communion Meditations</span><span class="hp-rule-line"></span></div>
@@ -101,10 +115,17 @@
       </div>
     </div>
   </section>
+    </div>
+  </details>
+  </div>
 
   <!-- ══════════════════════════════
        4. COMPLETE BOOKS
   ══════════════════════════════ -->
+  <div class="hp-accordion-item">
+  <details class="hp-offwhite">
+    <summary>Complete Books</summary>
+    <div class="hp-accordion-content">
   <section class="hp-section hp-books">
     <div class="hp-inner">
       <div class="hp-sec-head"><span class="hp-rule-line"></span><span class="hp-sec-title">Complete Books</span><span class="hp-rule-line"></span></div>
@@ -120,7 +141,7 @@
         <div class="hp-bookcard hp-bs-theology">
           <div class="hp-bookcard-body">
             <div class="hp-bookcard-cat">Theology</div>
-            <h3>Basic Christianity</h3>
+            <h3>Christian Living</h3>
             <p>An accessible foundation in core Christian doctrine and belief.</p>
             <a href="{{ "categories/basic-christianity-book/" | absURL }}" class="hp-cta">Read</a>
           </div>
@@ -152,10 +173,17 @@
       </div>
     </div>
   </section>
+    </div>
+  </details>
+  </div>
 
   <!-- ══════════════════════════════
        5. ESSAYS & STUDIES
   ══════════════════════════════ -->
+  <div class="hp-accordion-item">
+  <details>
+    <summary>Essays &amp; Studies</summary>
+    <div class="hp-accordion-content">
   <section class="hp-section hp-essays">
     <div class="hp-inner">
       <div class="hp-sec-head"><span class="hp-rule-line"></span><span class="hp-sec-title">Essays &amp; Studies</span><span class="hp-rule-line"></span></div>
@@ -168,9 +196,9 @@
         </div>
         <div class="hp-essay-card">
           <span class="hp-chip">Topics</span>
-          <h3>Basic Christianity</h3>
+          <h3>Christian Living</h3>
           <p>Foundational essays on the Christian faith — accessible studies for new believers and seasoned readers alike.</p>
-          <a href="{{ "essays/topics/basic-christianity/" | absURL }}" class="hp-cta">Read Essays</a>
+          <a href="{{ "essays/topics/christian-living/" | absURL }}" class="hp-cta">Read Essays</a>
         </div>
         <div class="hp-essay-card">
           <span class="hp-chip">Topics</span>
@@ -203,9 +231,13 @@
     </div>
   </section>
 
-  <!-- ══════════════════════════════
-       STATS BAND
-  ══════════════════════════════ -->
+    </div>
+  </details>
+  </div>
+
+  </div><!-- /.hp-accordion -->
+
+  <!-- STATS BAND -->
   <div class="hp-stats-band">
     <div class="hp-stats-inner">
       <div class="hp-stat"><span class="hp-stat-num">500+</span><span class="hp-stat-label">Essays &amp; Studies</span></div>
@@ -354,7 +386,7 @@
 .hp-section { padding: 3.5rem 0 3.25rem; }
 
 /* ════════════════════════════════
-   RESPONSIVE
+   RESPONSIVE — TABLET
 ════════════════════════════════ */
 @media (max-width: 960px) {
   .hp-g5 { grid-template-columns: repeat(3,1fr); }
@@ -368,8 +400,132 @@
   .hp-communion-inner { flex-direction: column; gap: 2rem; }
   .hp-communion-count { border-left: none; padding-left: 0; border-top: 1px solid rgba(255,255,255,.1); padding-top: 2rem; }
 }
-@media (max-width: 480px) {
-  .hp-g3, .hp-g6, .hp-g5 { grid-template-columns: 1fr; }
+
+/* ════════════════════════════════
+   RESPONSIVE — MOBILE (< 540px)
+   Accordion pattern: main cards always
+   visible; lower sections collapse
+════════════════════════════════ */
+@media (max-width: 540px) {
+
+  /* Prevent any horizontal overflow */
+  .home-page { overflow-x: hidden; }
+
+  /* Hero tighter */
+  .hp-hero-inner { padding: 2.25rem 1.25rem 2rem; }
+  .hp-title { font-size: 1.85rem; }
+  .hp-lead { font-size: 0.95rem; }
+
+  /* Inner padding tighter */
+  .hp-inner { padding: 0 1.1rem; }
+  .hp-section { padding: 0; }
+
+  /* Main cards: single column, compact */
+  .hp-main { padding: 1.75rem 0 1.5rem; }
+  .hp-g3, .hp-g6, .hp-g5, .hp-g2c { grid-template-columns: 1fr; gap: 0.75rem; }
+  .hp-mb { margin-bottom: 0.75rem; }
+  .hp-main-card { padding: 1.1rem 1rem; }
+
+  /* ── ACCORDION WRAPPER ──
+     Sections below main collapse on mobile */
+  .hp-accordion { border-top: 1px solid #eceae6; }
+  .hp-accordion-item { border-bottom: 1px solid #eceae6; }
+
+  /* Hide the normal section structure inside accordion on mobile */
+  .hp-accordion .hp-section { display: block; padding: 0; }
+  .hp-accordion .hp-inner { padding: 0; }
+  .hp-accordion .hp-sec-head { display: none; }
+
+  /* <details> / <summary> styling */
+  .hp-accordion details { background: #fff; }
+  .hp-accordion details.hp-dark { background: #1e2e24; }
+  .hp-accordion details.hp-offwhite { background: #faf8f5; }
+  .hp-accordion details.hp-cream { background: #f5f2ec; }
+
+  .hp-accordion summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 1.25rem;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 0.72rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.18em;
+    color: #666;
+    cursor: pointer;
+    list-style: none;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+  }
+  .hp-accordion details.hp-dark summary { color: rgba(168,210,180,0.7); }
+  .hp-accordion summary::-webkit-details-marker { display: none; }
+  .hp-accordion summary::after {
+    content: '+';
+    font-size: 1.1rem;
+    font-weight: 300;
+    color: #aaa;
+    line-height: 1;
+    transition: transform .2s;
+  }
+  .hp-accordion details.hp-dark summary::after { color: rgba(168,210,180,0.5); }
+  .hp-accordion details[open] summary::after { content: '−'; }
+
+  /* Content inside open accordion */
+  .hp-accordion details > .hp-accordion-content {
+    padding: 0 1.1rem 1.5rem;
+  }
+  .hp-accordion details.hp-dark > .hp-accordion-content {
+    padding: 0 1.1rem 1.75rem;
+  }
+
+  /* Scripture cards on mobile */
+  .hp-sc-card { padding: 1.2rem 1rem; }
+
+  /* Communion on mobile */
+  .hp-communion-inner { flex-direction: column; gap: 1.5rem; }
+  .hp-communion-count { border-left: none; padding-left: 0; border-top: 1px solid rgba(255,255,255,.1); padding-top: 1.5rem; }
+  .hp-big-num { font-size: 3.2rem; }
+  .hp-communion-text h2 { font-size: 1.4rem; }
+
+  /* Book cards: horizontal scroll shelf on mobile */
+  .hp-g5 {
+    grid-template-columns: unset !important;
+    display: flex !important;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    gap: 0.85rem;
+    padding-bottom: 0.75rem;
+    -webkit-overflow-scrolling: touch;
+  }
+  .hp-bookcard {
+    min-width: 180px;
+    max-width: 180px;
+    min-height: 240px;
+    flex-shrink: 0;
+    scroll-snap-align: start;
+  }
+
+  /* Essays: single col */
+  .hp-essay-card { padding: 1.1rem 1rem; }
+
+  /* Stats: 2x2 */
+  .hp-stats-inner { flex-wrap: wrap; }
+  .hp-stat {
+    flex: 0 0 50%;
+    border-right: none;
+    border-bottom: 1px solid #2a2a2a;
+    padding: 1.25rem 1rem;
+  }
+  .hp-stat:nth-child(odd) { border-right: 1px solid #2a2a2a; }
+  .hp-stat:nth-child(3), .hp-stat:nth-child(4) { border-bottom: none; }
+  .hp-stat-num { font-size: 2rem; }
+
+  /* Browse all button full width */
+  .hp-browse-all-btn { display: block; text-align: center; }
+
+  /* Footer */
+  .sfn-inner { grid-template-columns: 1fr !important; gap: 1.5rem !important; }
 }
 </style>
 {{ end }}
