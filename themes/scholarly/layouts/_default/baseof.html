@@ -56,16 +56,53 @@
         </div>
     </main>
 
-    <footer class="site-footer">
-        <div class="container">
-            <div class="footer-branding">
-                <img src="{{ "images/cir-logo.png" | relURL }}" alt="CIR Logo" class="footer-logo">
-                <p><strong>Christian Internet Resources (CIR)</strong></p>
+    <footer class="site-footer-new">
+        <div class="sfn-inner">
+            <div class="sfn-brand">
+                <img src="{{ "images/cir-logo.png" | relURL }}" alt="CIR Logo" class="sfn-logo">
+                <p class="sfn-brand-name">Christian Internet Resources</p>
+                <p class="sfn-brand-tag">A theological library presenting the works of Dr. Virgil Warren — essays, translations, commentary, and complete books grounded in Interpersonalism.</p>
             </div>
-            <p>&copy; {{ now.Year }} {{ .Site.Params.author }}. All rights reserved.</p>
-            <p class="footer-note">Free to use, reference, and circulate with source notations and logo.</p>
+            <div class="sfn-col">
+                <div class="sfn-col-head">Library</div>
+                <ul>
+                    <li><a href="{{ "essays/" | absURL }}">Essays &amp; Topics</a></li>
+                    <li><a href="{{ "translations/" | absURL }}">Bible Translations</a></li>
+                    <li><a href="{{ "translations/harmony/" | absURL }}">Gospel Harmony</a></li>
+                    <li><a href="{{ "books/" | absURL }}">Complete Books</a></li>
+                    <li><a href="{{ "translations/resources/" | absURL }}">Textual Resources</a></li>
+                </ul>
+            </div>
+            <div class="sfn-col">
+                <div class="sfn-col-head">About</div>
+                <ul>
+                    <li><a href="{{ "author/" | absURL }}">Dr. Virgil Warren</a></li>
+                    <li><a href="{{ "essays/topics/interpersonalism/" | absURL }}">Interpersonalism</a></li>
+                    <li><a href="{{ "about/" | absURL }}">About This Site</a></li>
+                    <li><a href="{{ "contact/" | absURL }}">Contact</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="sfn-bottom">
+            <span>&copy; {{ now.Year }} Dr. Virgil Warren &middot; All rights reserved &middot; Christian Internet Resources</span>
+            <span>Free to use with source notations and logo</span>
         </div>
     </footer>
+
+    <style>
+    .site-footer-new{background:#161616;padding:3.5rem 2rem 0;}
+    .sfn-inner{max-width:1100px;margin:0 auto;display:grid;grid-template-columns:1.6fr 1fr 1fr;gap:3rem;padding-bottom:3rem;}
+    .sfn-logo{width:40px;height:40px;opacity:0.6;filter:brightness(0) invert(1);margin-bottom:0.75rem;display:block;}
+    .sfn-brand-name{font-family:'Playfair Display',serif;font-size:1.05rem;font-weight:700;color:rgba(255,255,255,.82);margin-bottom:0.5rem;}
+    .sfn-brand-tag{font-family:'Source Serif Pro',serif;font-size:0.82rem;color:rgba(255,255,255,.35);line-height:1.65;max-width:280px;}
+    .sfn-col-head{font-family:'Source Sans Pro',sans-serif;font-size:0.58rem;font-weight:700;text-transform:uppercase;letter-spacing:0.2em;color:rgba(255,255,255,.28);margin-bottom:0.85rem;}
+    .sfn-col ul{list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:0.5rem;}
+    .sfn-col a{font-family:'Source Sans Pro',sans-serif;font-size:0.85rem;color:rgba(255,255,255,.45);text-decoration:none;transition:color .15s;}
+    .sfn-col a:hover{color:rgba(255,255,255,.85);}
+    .sfn-bottom{max-width:1100px;margin:0 auto;padding:1.5rem 0 2rem;border-top:1px solid rgba(255,255,255,.06);display:flex;justify-content:space-between;align-items:center;}
+    .sfn-bottom span{font-family:'Source Sans Pro',sans-serif;font-size:0.72rem;color:rgba(255,255,255,.22);}
+    @media(max-width:720px){.sfn-inner{grid-template-columns:1fr;gap:2rem;}.sfn-bottom{flex-direction:column;gap:0.5rem;text-align:center;}}
+    </style>
 
     <script src="{{ "js/main.js" | relURL }}"></script>
     

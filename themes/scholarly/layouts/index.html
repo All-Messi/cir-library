@@ -1,167 +1,375 @@
 {{ define "main" }}
 <div class="home-page">
-    <section class="hero">
-        <h2>Christian Internet Resources</h2>
-        <p class="lead">Presenting essays with the characteristics of personal relationship in mind: <strong>Interpersonalism</strong></p>
-    </section>
 
-    <!-- Primary Categories - Essays -->
-    <section class="content-sections">
-        <div class="section-label">Essays & Studies</div>
-        <div class="section-grid section-grid-3">
-            <div class="section-card card-accent-1">
-                <h3>Topics</h3>
-                <p>Interpersonalism, Basic Christianity, Doctrine, and theological studies</p>
-                <a href="{{ "essays/topics/" | absURL }}" class="btn">Explore Topics</a>
-            </div>
-            <div class="section-card card-accent-2">
-                <h3>Interpretation</h3>
-                <p>Hermeneutics and principles for understanding Scripture rightly</p>
-                <a href="{{ "essays/interpretation/" | absURL }}" class="btn">Study Interpretation</a>
-            </div>
-            <div class="section-card card-accent-3">
-                <h3>Ministry</h3>
-                <p>Practical resources for ministers, church leadership, and Christian service</p>
-                <a href="{{ "essays/ministry/" | absURL }}" class="btn">Explore Ministry</a>
-            </div>
-        </div>
-        <div class="section-grid section-grid-1" style="margin-top: 1rem;">
-            <div class="section-card section-card-wide card-accent-8">
-                <h3>Evidences</h3>
-                <p>Apologetics, critical introduction, and the intellectual foundations of faith</p>
-                <a href="{{ "essays/evidences/" | absURL }}" class="btn">Explore Evidences</a>
-            </div>
-        </div>
-    </section>
+  <!-- ══════════════════════════════
+       HERO
+  ══════════════════════════════ -->
+  <section class="hp-hero">
+    <div class="hp-hero-inner">
+      <span class="hp-eyebrow">The Works of Dr. Virgil Warren</span>
+      <h1 class="hp-title">Christian<br><em>Internet Resources</em></h1>
+      <div class="hp-rule"></div>
+      <p class="hp-lead">Presenting essays with the characteristics of personal relationship in mind: <strong>Interpersonalism</strong></p>
+    </div>
+  </section>
 
-    <!-- Scripture Resources -->
-    <section class="content-sections">
-        <div class="section-label">Scripture Resources</div>
-        <div class="section-grid section-grid-3">
-            <div class="section-card card-accent-4">
-                <h3>Bible Translations</h3>
-                <p>Original translations including the Conversational Version and Wooden NT</p>
-                <a href="{{ "translations/" | absURL }}" class="btn">Browse All</a>
-            </div>
-            <div class="section-card card-accent-5">
-                <h3>Gospel Harmony</h3>
-                <p>The four Gospels woven together in chronological narrative</p>
-                <a href="{{ "translations/harmony/" | absURL }}" class="btn">Read Harmony</a>
-            </div>
-            <div class="section-card card-accent-6">
-                <h3>Textual Resources</h3>
-                <p>Supplementary materials including parallel texts and study aids</p>
-                <a href="{{ "translations/resources/" | absURL }}" class="btn">View Resources</a>
-            </div>
+  <!-- ══════════════════════════════
+       1. MAIN CATEGORIES
+  ══════════════════════════════ -->
+  <section class="hp-section hp-main">
+    <div class="hp-inner">
+      <div class="hp-sec-head"><span class="hp-rule-line"></span><span class="hp-sec-title">Browse the Library</span><span class="hp-rule-line"></span></div>
+      <div class="hp-g3 hp-mb">
+        <div class="hp-main-card">
+          <span class="hp-chip">Scripture</span>
+          <h3>Texts</h3>
+          <p>Original Bible translations, Gospel Harmony, and parallel textual resources</p>
+          <a href="{{ "translations/" | absURL }}" class="hp-cta">Explore Texts</a>
         </div>
-    </section>
+        <div class="hp-main-card">
+          <span class="hp-chip">Theology</span>
+          <h3>Topics</h3>
+          <p>Interpersonalism, Basic Christianity, Doctrine, and foundational theological studies</p>
+          <a href="{{ "essays/topics/" | absURL }}" class="hp-cta">Explore Topics</a>
+        </div>
+        <div class="hp-main-card">
+          <span class="hp-chip">Hermeneutics</span>
+          <h3>Interpretation</h3>
+          <p>Hermeneutics and principles for reading and understanding the Scriptures rightly</p>
+          <a href="{{ "essays/interpretation/" | absURL }}" class="hp-cta">Study Interpretation</a>
+        </div>
+      </div>
+      <div class="hp-g2c">
+        <div class="hp-main-card">
+          <span class="hp-chip">Apologetics</span>
+          <h3>Evidences</h3>
+          <p>Apologetics, critical introduction, and the intellectual foundations of faith</p>
+          <a href="{{ "essays/evidences/" | absURL }}" class="hp-cta">Explore Evidences</a>
+        </div>
+        <div class="hp-main-card">
+          <span class="hp-chip">Practical</span>
+          <h3>Ministry</h3>
+          <p>Resources for ministers, church leadership, and the practice of Christian service</p>
+          <a href="{{ "essays/ministry/" | absURL }}" class="hp-cta">Explore Ministry</a>
+        </div>
+      </div>
+    </div>
+  </section>
 
-    <!-- Books - Featured -->
-    <section class="content-sections">
-        <div class="section-grid section-grid-1">
-            <div class="section-card section-card-wide card-accent-7">
-                <h3>Books</h3>
-                <p>Extended studies and book-length works on theology, interpretation, and Christian living</p>
-                <a href="{{ "books/" | absURL }}" class="btn">Browse Books</a>
-            </div>
+  <!-- ══════════════════════════════
+       2. SCRIPTURE RESOURCES
+  ══════════════════════════════ -->
+  <section class="hp-section hp-scripture">
+    <div class="hp-inner">
+      <div class="hp-sec-head"><span class="hp-rule-line"></span><span class="hp-sec-title">Scripture Resources</span><span class="hp-rule-line"></span></div>
+      <div class="hp-g3">
+        <div class="hp-sc-card">
+          <h3>Bible Translations</h3>
+          <p>The Conversational NT &amp; OT and the Wooden NT — original translations across three distinct voices and purposes</p>
+          <a href="{{ "translations/" | absURL }}" class="hp-cta">Browse Translations</a>
         </div>
-    </section>
+        <div class="hp-sc-card">
+          <h3>Gospel Harmony</h3>
+          <p>All four Gospels woven into one chronological narrative, color-coded by source across 30 sections</p>
+          <a href="{{ "translations/harmony/" | absURL }}" class="hp-cta">Read Harmony</a>
+        </div>
+        <div class="hp-sc-card">
+          <h3>Textual Resources</h3>
+          <p>Resurrection appearances, OT quotations in NT, and the 2 Peter/Jude parallel comparison</p>
+          <a href="{{ "translations/resources/" | absURL }}" class="hp-cta">View Resources</a>
+        </div>
+      </div>
+    </div>
+  </section>
 
-    <section class="browse-more">
-        <h3>Continue Exploring</h3>
-        <div class="browse-links">
-            <a href="{{ "essays/" | absURL }}">Browse All</a>
-            <a href="{{ "essays/" | absURL }}">All Essays</a>
-            <a href="{{ "translations/" | absURL }}">Translations</a>
-            <a href="{{ "about/" | absURL }}">About Dr. Warren</a>
+  <!-- ══════════════════════════════
+       3. COMMUNION MEDITATIONS
+  ══════════════════════════════ -->
+  <section class="hp-section hp-communion">
+    <div class="hp-inner">
+      <div class="hp-sec-head hp-sec-head-dark"><span class="hp-rule-line"></span><span class="hp-sec-title">Communion Meditations</span><span class="hp-rule-line"></span></div>
+      <div class="hp-communion-inner">
+        <div class="hp-communion-text">
+          <h2>Dr. Warren's<br><em>Communion Meditations</em></h2>
+          <p>A personal collection of meditations written and delivered by Dr. Warren during the regular Sunday communion service — each one a brief, thoughtful reflection on the meaning of the Lord's Supper.</p>
+          <a href="{{ "essays/ministry/communion-meditations/" | absURL }}" class="hp-cta hp-cta-light">Read Meditations</a>
         </div>
-    </section>
-</div>
+        <div class="hp-communion-count">
+          <span class="hp-big-num">150<sup>+</sup></span>
+          <span class="hp-big-label">Meditations</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ══════════════════════════════
+       4. COMPLETE BOOKS
+  ══════════════════════════════ -->
+  <section class="hp-section hp-books">
+    <div class="hp-inner">
+      <div class="hp-sec-head"><span class="hp-rule-line"></span><span class="hp-sec-title">Complete Books</span><span class="hp-rule-line"></span></div>
+      <div class="hp-g5">
+        <div class="hp-bookcard hp-bs-interp">
+          <div class="hp-bookcard-body">
+            <div class="hp-bookcard-cat">Interpretation</div>
+            <h3>Getting the Point</h3>
+            <p>Sound principles and methods for biblical hermeneutics.</p>
+            <a href="{{ "categories/getting-the-point-book/" | absURL }}" class="hp-cta">Read</a>
+          </div>
+        </div>
+        <div class="hp-bookcard hp-bs-theology">
+          <div class="hp-bookcard-body">
+            <div class="hp-bookcard-cat">Theology</div>
+            <h3>Basic Christianity</h3>
+            <p>An accessible foundation in core Christian doctrine and belief.</p>
+            <a href="{{ "categories/basic-christianity-book/" | absURL }}" class="hp-cta">Read</a>
+          </div>
+        </div>
+        <div class="hp-bookcard hp-bs-theology">
+          <div class="hp-bookcard-body">
+            <div class="hp-bookcard-cat">Theology</div>
+            <h3>The Nature of Man</h3>
+            <p>Human nature and personhood through the lens of Interpersonalism.</p>
+            <a href="{{ "categories/the-nature-of-man--book/" | absURL }}" class="hp-cta">Read</a>
+          </div>
+        </div>
+        <div class="hp-bookcard hp-bs-commentary">
+          <div class="hp-bookcard-body">
+            <div class="hp-bookcard-cat">Commentary</div>
+            <h3>Sermon on the Mount</h3>
+            <p>Verse-by-verse commentary on the most famous teaching of Jesus.</p>
+            <a href="{{ "categories/sermon-on-the-mount-commentary-book/" | absURL }}" class="hp-cta">Read</a>
+          </div>
+        </div>
+        <div class="hp-bookcard hp-bs-evidences">
+          <div class="hp-bookcard-body">
+            <div class="hp-bookcard-cat">Evidences</div>
+            <h3>Apologetics</h3>
+            <p>A reasoned defense of the Christian faith for the thinking reader.</p>
+            <a href="{{ "categories/apologetics-book/" | absURL }}" class="hp-cta">Read</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ══════════════════════════════
+       5. ESSAYS & STUDIES
+  ══════════════════════════════ -->
+  <section class="hp-section hp-essays">
+    <div class="hp-inner">
+      <div class="hp-sec-head"><span class="hp-rule-line"></span><span class="hp-sec-title">Essays &amp; Studies</span><span class="hp-rule-line"></span></div>
+      <div class="hp-g6">
+        <div class="hp-essay-card">
+          <span class="hp-chip">Topics</span>
+          <h3>Interpersonalism</h3>
+          <p>The theological framework at the heart of Dr. Warren's work — a relational vision of God, humanity, and Scripture.</p>
+          <a href="{{ "essays/topics/interpersonalism/" | absURL }}" class="hp-cta">Read Essays</a>
+        </div>
+        <div class="hp-essay-card">
+          <span class="hp-chip">Topics</span>
+          <h3>Basic Christianity</h3>
+          <p>Foundational essays on the Christian faith — accessible studies for new believers and seasoned readers alike.</p>
+          <a href="{{ "essays/topics/basic-christianity/" | absURL }}" class="hp-cta">Read Essays</a>
+        </div>
+        <div class="hp-essay-card">
+          <span class="hp-chip">Topics</span>
+          <h3>Christian Doctrine</h3>
+          <p>In-depth studies on God, salvation, the Church, and the core doctrines that shape Christian belief and practice.</p>
+          <a href="{{ "essays/topics/christian-doctrine/" | absURL }}" class="hp-cta">Read Essays</a>
+        </div>
+        <div class="hp-essay-card">
+          <span class="hp-chip">Topics</span>
+          <h3>Sermons &amp; Devotions</h3>
+          <p>Sermons, devotional reflections, and short studies suitable for personal reading and congregational use.</p>
+          <a href="{{ "essays/topics/sermons-devotions/" | absURL }}" class="hp-cta">Read Essays</a>
+        </div>
+        <div class="hp-essay-card">
+          <span class="hp-chip">Topics</span>
+          <h3>Book Studies</h3>
+          <p>Extended essay studies working through specific books of the Bible or key theological texts chapter by chapter.</p>
+          <a href="{{ "essays/topics/book-studies/" | absURL }}" class="hp-cta">Read Essays</a>
+        </div>
+        <div class="hp-essay-card">
+          <span class="hp-chip">Ministry</span>
+          <h3>Preparation for Ministry</h3>
+          <p>Practical and theological preparation for those entering or deepening their call to Christian ministry.</p>
+          <a href="{{ "essays/ministry/preparation-for-ministry/" | absURL }}" class="hp-cta">Read Essays</a>
+        </div>
+      </div>
+      <div class="hp-browse-all">
+        <a href="{{ "essays/" | absURL }}" class="hp-browse-all-btn">Browse All Essays &amp; Studies →</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ══════════════════════════════
+       STATS BAND
+  ══════════════════════════════ -->
+  <div class="hp-stats-band">
+    <div class="hp-stats-inner">
+      <div class="hp-stat"><span class="hp-stat-num">500+</span><span class="hp-stat-label">Essays &amp; Studies</span></div>
+      <div class="hp-stat"><span class="hp-stat-num">150+</span><span class="hp-stat-label">Communion Meditations</span></div>
+      <div class="hp-stat"><span class="hp-stat-num">5</span><span class="hp-stat-label">Complete Books</span></div>
+      <div class="hp-stat"><span class="hp-stat-num">4</span><span class="hp-stat-label">Bible Translations</span></div>
+    </div>
+  </div>
+
+</div><!-- /.home-page -->
 
 <style>
-/* Homepage-specific styles */
-.section-label {
-    text-align: center;
-    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
-    font-size: 0.75rem;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.2em;
-    color: var(--color-text-muted, #888);
-    margin-bottom: var(--space-lg, 1.5rem);
+/* ── Break homepage out of the base .container ── */
+.site-main:has(.home-page) > .container {
+  max-width: none !important;
+  padding: 0 !important;
+}
+.site-main:has(.home-page) {
+  padding-bottom: 0 !important;
 }
 
-.section-grid-3 {
-    grid-template-columns: repeat(3, 1fr);
+/* ════════════════════════════════
+   HOMEPAGE BASE
+════════════════════════════════ */
+.home-page { font-family: 'Source Sans Pro', sans-serif; }
+
+.hp-inner { max-width: 1100px; margin: 0 auto; padding: 0 2rem; }
+
+/* Section heading rule */
+.hp-sec-head { display: flex; align-items: center; gap: 1rem; margin-bottom: 2rem; }
+.hp-rule-line { flex: 1; height: 1px; background: #ddd8ce; }
+.hp-sec-title { font-family: 'Source Sans Pro', sans-serif; font-size: 0.65rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.2em; color: #9a9896; white-space: nowrap; }
+.hp-sec-head-dark .hp-rule-line { background: rgba(255,255,255,0.12); }
+.hp-sec-head-dark .hp-sec-title { color: rgba(168,210,180,0.55); }
+
+/* CTA link */
+.hp-cta { font-family: 'Source Sans Pro', sans-serif; font-size: 0.68rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.09em; display: inline-flex; align-items: center; gap: 4px; color: #444; text-decoration: none; transition: color .15s; }
+.hp-cta::after { content: '→'; }
+.hp-cta:hover { color: #000; }
+.hp-cta-light { color: rgba(168,210,180,.8); font-size: 0.7rem; letter-spacing: 0.12em; }
+.hp-cta-light:hover { color: #c8e8d0; }
+
+/* Category chip */
+.hp-chip { display: inline-block; font-family: 'Source Sans Pro', sans-serif; font-size: 0.58rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.16em; color: #888; background: #f2efea; padding: 0.22rem 0.55rem; border-radius: 2px; margin-bottom: 0.75rem; }
+
+/* Grids */
+.hp-g3 { display: grid; grid-template-columns: repeat(3,1fr); gap: 1.25rem; }
+.hp-g5 { display: grid; grid-template-columns: repeat(5,1fr); gap: 1rem; }
+.hp-g6 { display: grid; grid-template-columns: repeat(3,1fr); gap: 1.25rem; }
+.hp-g2c { display: grid; grid-template-columns: repeat(2,1fr); gap: 1.25rem; max-width: 720px; margin: 0 auto; }
+.hp-mb { margin-bottom: 1.25rem; }
+
+/* ════════════════════════════════
+   HERO
+════════════════════════════════ */
+.hp-hero { background: #fff; border-bottom: 1px solid #ebebeb; text-align: center; }
+.hp-hero-inner { padding: 3.75rem 2.5rem 3.25rem; max-width: 740px; margin: 0 auto; }
+.hp-eyebrow { display: inline-block; font-family: 'Source Sans Pro', sans-serif; font-size: 0.62rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.3em; color: #999; margin-bottom: 1.1rem; }
+.hp-title { font-family: 'Playfair Display', serif; font-size: 3.1rem; font-weight: 700; line-height: 1.1; letter-spacing: -0.025em; color: #000; margin-bottom: 1rem; }
+.hp-title em { font-style: normal; color: #2f4c3a; }
+.hp-rule { width: 64px; height: 1px; background: linear-gradient(90deg,transparent,#c0b8a8,transparent); margin: 0 auto 1.3rem; }
+.hp-lead { font-family: 'Source Sans Pro', sans-serif; font-size: 1.05rem; font-weight: 300; max-width: 540px; margin: 0 auto; line-height: 1.75; color: #555; }
+.hp-lead strong { font-weight: 500; color: #2f4c3a; }
+
+/* ════════════════════════════════
+   SECTION 1: MAIN
+════════════════════════════════ */
+.hp-main { background: #f8f6f2; border-bottom: 1px solid #eceae6; }
+
+.hp-main-card { background: #fff; padding: 1.5rem 1.4rem; border: 1px solid #e3e0d8; border-radius: 3px; display: flex; flex-direction: column; align-items: flex-start; text-align: left; transition: border-color .2s, box-shadow .2s, transform .2s; }
+.hp-main-card:hover { border-color: #b8b3a8; box-shadow: 0 3px 12px rgba(0,0,0,.06); transform: translateY(-2px); }
+.hp-main-card h3 { font-family: 'Playfair Display', serif; font-size: 1.1rem; font-weight: 700; color: #1a1a18; margin-bottom: 0.4rem; line-height: 1.25; margin-top: 0; }
+.hp-main-card p { font-family: 'Source Sans Pro', sans-serif; font-size: 0.79rem; color: #666; line-height: 1.58; margin-bottom: 1rem; flex: 1; }
+
+/* ════════════════════════════════
+   SECTION 2: SCRIPTURE
+════════════════════════════════ */
+.hp-scripture { background: #f5f2ec; border-top: 1px solid #e8e4dc; border-bottom: 1px solid #e8e4dc; }
+.hp-scripture .hp-rule-line { background: #d8d2c6; }
+
+.hp-sc-card { background: #fff; padding: 1.75rem 1.5rem 1.6rem; border: 1px solid #e3dfd8; border-top: 3px solid #3d3830; border-radius: 2px; display: flex; flex-direction: column; transition: box-shadow .2s, transform .2s; }
+.hp-sc-card:hover { box-shadow: 0 4px 18px rgba(0,0,0,.08); transform: translateY(-2px); }
+.hp-sc-card h3 { font-family: 'Playfair Display', serif; font-size: 1.1rem; font-weight: 700; color: #1a1a18; margin-bottom: 0.45rem; line-height: 1.25; margin-top: 0; }
+.hp-sc-card p { font-family: 'Source Sans Pro', sans-serif; font-size: 0.8rem; color: #666; line-height: 1.58; flex: 1; margin-bottom: 0.95rem; }
+
+/* ════════════════════════════════
+   SECTION 3: COMMUNION
+════════════════════════════════ */
+.hp-communion { background: #1e2e24; }
+
+.hp-communion-inner { display: flex; align-items: center; gap: 4rem; }
+.hp-communion-text { flex: 1; }
+.hp-communion-text h2 { font-family: 'Playfair Display', serif; font-size: 1.75rem; font-weight: 700; color: #f0ece0; margin-bottom: 0.75rem; line-height: 1.2; margin-top: 0; }
+.hp-communion-text h2 em { font-style: italic; color: #a8d4b0; }
+.hp-communion-text p { font-family: 'Source Serif Pro', serif; font-size: 0.95rem; color: rgba(228,222,208,.7); line-height: 1.78; max-width: 520px; margin-bottom: 1.35rem; }
+.hp-communion-count { flex-shrink: 0; text-align: center; border-left: 1px solid rgba(255,255,255,.1); padding-left: 4rem; }
+.hp-big-num { font-family: 'Playfair Display', serif; font-size: 4.5rem; font-weight: 700; color: #fff; line-height: 1; display: block; letter-spacing: -0.02em; }
+.hp-big-num sup { font-size: 2rem; }
+.hp-big-label { font-family: 'Source Sans Pro', sans-serif; font-size: 0.6rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.2em; color: rgba(168,210,180,.45); display: block; margin-top: 0.45rem; }
+
+/* ════════════════════════════════
+   SECTION 4: COMPLETE BOOKS
+════════════════════════════════ */
+.hp-books { background: #faf8f5; border-top: 1px solid #eceae6; border-bottom: 1px solid #eceae6; }
+.hp-books .hp-rule-line { background: #d8d2c6; }
+
+.hp-bookcard { background: #fff; border-radius: 3px 5px 5px 3px; border: 1px solid #d8d3c8; border-left: none; display: flex; flex-direction: column; position: relative; overflow: hidden; min-height: 270px; box-shadow: -3px 0 0 #e0dad0,-5px 0 0 #d0c8bc,-7px 0 0 #bfb8ac,3px 4px 12px rgba(0,0,0,.13); transition: transform .2s, box-shadow .2s; }
+.hp-bookcard:hover { transform: translateY(-3px); box-shadow: -3px 0 0 #e0dad0,-5px 0 0 #d0c8bc,-7px 0 0 #bfb8ac,5px 10px 22px rgba(0,0,0,.18); }
+.hp-bookcard::before { content: ''; position: absolute; top: 0; left: 0; bottom: 0; width: 8px; }
+.hp-bs-interp::before    { background: linear-gradient(180deg,#1e3048,#2a4a6a); }
+.hp-bs-theology::before  { background: linear-gradient(180deg,#1e3d28,#2a5438); }
+.hp-bs-commentary::before{ background: linear-gradient(180deg,#5c3018,#7a4020); }
+.hp-bs-evidences::before { background: linear-gradient(180deg,#3a2840,#543a58); }
+.hp-bookcard-body { padding: 1.6rem 1.3rem 1.5rem 1.75rem; display: flex; flex-direction: column; flex: 1; }
+.hp-bookcard-cat { font-family: 'Source Sans Pro', sans-serif; font-size: 0.58rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.16em; color: #888; margin-bottom: 0.45rem; }
+.hp-bookcard h3 { font-family: 'Playfair Display', serif; font-size: 1rem; font-weight: 700; color: #1a1a1a; line-height: 1.25; margin-bottom: 0.5rem; margin-top: 0; }
+.hp-bookcard p { font-family: 'Source Sans Pro', sans-serif; font-size: 0.74rem; color: #666; line-height: 1.55; flex: 1; margin-bottom: 0.9rem; }
+
+/* ════════════════════════════════
+   SECTION 5: ESSAYS
+════════════════════════════════ */
+.hp-essays { background: #fff; border-top: 1px solid #eceae6; }
+
+.hp-essay-card { background: #fff; padding: 1.5rem 1.4rem; border: 1px solid #e3e0d8; border-radius: 3px; display: flex; flex-direction: column; transition: border-color .2s, box-shadow .2s, transform .2s; }
+.hp-essay-card:hover { border-color: #b8b3a8; box-shadow: 0 3px 12px rgba(0,0,0,.06); transform: translateY(-2px); }
+.hp-essay-card h3 { font-family: 'Playfair Display', serif; font-size: 1.1rem; font-weight: 700; color: #1a1a18; margin-bottom: 0.4rem; line-height: 1.25; margin-top: 0; }
+.hp-essay-card p { font-family: 'Source Sans Pro', sans-serif; font-size: 0.79rem; color: #666; line-height: 1.58; flex: 1; margin-bottom: 1rem; }
+
+.hp-browse-all { text-align: center; margin-top: 2rem; padding-top: 2rem; border-top: 1px solid #eceae6; }
+.hp-browse-all-btn { font-family: 'Source Sans Pro', sans-serif; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.12em; color: #333; border: 1px solid #ccc; border-radius: 3px; padding: 0.65rem 1.75rem; display: inline-block; text-decoration: none; transition: border-color .2s, color .2s, background .2s; }
+.hp-browse-all-btn:hover { border-color: #888; color: #111; background: #f7f5f1; }
+
+/* ════════════════════════════════
+   STATS BAND
+════════════════════════════════ */
+.hp-stats-band { background: #131313; padding: 3rem 2rem; }
+.hp-stats-inner { max-width: 860px; margin: 0 auto; display: flex; align-items: stretch; }
+.hp-stat { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 0.5rem 1.5rem; border-right: 1px solid #2a2a2a; }
+.hp-stat:last-child { border-right: none; }
+.hp-stat-num { font-family: 'Playfair Display', serif; font-size: 2.6rem; font-weight: 700; color: #fff; line-height: 1; letter-spacing: -0.02em; }
+.hp-stat-label { font-family: 'Source Sans Pro', sans-serif; font-size: 0.6rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.18em; color: rgba(255,255,255,0.35); margin-top: 0.45rem; }
+
+/* ════════════════════════════════
+   SECTION PADDING
+════════════════════════════════ */
+.hp-section { padding: 3.5rem 0 3.25rem; }
+
+/* ════════════════════════════════
+   RESPONSIVE
+════════════════════════════════ */
+@media (max-width: 960px) {
+  .hp-g5 { grid-template-columns: repeat(3,1fr); }
+  .hp-communion-inner { gap: 2rem; }
 }
-
-.section-grid-4 {
-    grid-template-columns: repeat(4, 1fr);
+@media (max-width: 720px) {
+  .hp-g3, .hp-g6 { grid-template-columns: repeat(2,1fr); }
+  .hp-g5 { grid-template-columns: repeat(2,1fr); }
+  .hp-g2c { grid-template-columns: 1fr; }
+  .hp-title { font-size: 2.2rem; }
+  .hp-communion-inner { flex-direction: column; gap: 2rem; }
+  .hp-communion-count { border-left: none; padding-left: 0; border-top: 1px solid rgba(255,255,255,.1); padding-top: 2rem; }
 }
-
-.section-grid-2 {
-    grid-template-columns: repeat(2, 1fr);
-    max-width: 680px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.section-grid-1 {
-    grid-template-columns: 1fr;
-    max-width: 480px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.section-card-wide {
-    text-align: center;
-}
-
-/* Colored accent borders - subtle and modern */
-.section-card {
-    position: relative;
-    overflow: hidden;
-}
-
-.section-card::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    height: 4px;
-    background: #e5e5e5;
-    transition: all 0.3s ease;
-}
-
-/* Accent colors - sophisticated palette */
-.card-accent-1::before { background: linear-gradient(90deg, #2c3e50, #34495e); }  /* Navy */
-.card-accent-2::before { background: linear-gradient(90deg, #8b6914, #a67c00); }  /* Gold */
-.card-accent-3::before { background: linear-gradient(90deg, #5d4e37, #7a6548); }  /* Bronze */
-.card-accent-4::before { background: linear-gradient(90deg, #1a5f4a, #2d8a6e); }  /* Forest */
-.card-accent-5::before { background: linear-gradient(90deg, #6b3a3a, #8b4a4a); }  /* Maroon */
-.card-accent-6::before { background: linear-gradient(90deg, #3a5a6b, #4a7a8b); }  /* Steel */
-.card-accent-7::before { background: linear-gradient(90deg, #4a4a4a, #6a6a6a); }  /* Charcoal */
-.card-accent-8::before { background: linear-gradient(90deg, #4a6741, #5d8a54); }  /* Sage */    
-
-/* Hover effect - accent bar grows */
-.section-card:hover::before {
-    height: 6px;
-}
-
-@media (max-width: 900px) {
-    .section-grid-3,
-    .section-grid-4 {
-        grid-template-columns: repeat(2, 1fr);
-    }
-}
-
-@media (max-width: 600px) {
-    .section-grid-3,
-    .section-grid-2,
-    .section-grid-4 {
-        grid-template-columns: 1fr;
-    }
+@media (max-width: 480px) {
+  .hp-g3, .hp-g6, .hp-g5 { grid-template-columns: 1fr; }
 }
 </style>
 {{ end }}
