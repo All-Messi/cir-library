@@ -55,7 +55,7 @@ body.overlay-open {
     position: sticky;
     top: 0;
     background: var(--color-bg, #fff);
-    z-index: 100;
+    z-index: 999;
     /* Widen beyond 600px content to 900px */
     margin-left: -150px;
     margin-right: -150px;
@@ -467,7 +467,7 @@ body.overlay-open {
     border-radius: 10px;
     padding: 0.4rem 0.55rem;
     box-shadow: 0 6px 24px rgba(0,0,0,0.3);
-    z-index: 300;
+    z-index: 1100;
     white-space: nowrap;
     animation: vtFadeIn 0.12s ease;
 }
@@ -588,7 +588,7 @@ body.overlay-open {
     border: 1px solid var(--color-border, #e5e5e5);
     border-radius: 8px;
     box-shadow: 0 8px 24px rgba(0,0,0,0.1);
-    z-index: 300;
+    z-index: 1200;
     max-height: 70vh;
     overflow-y: auto;
 }
@@ -881,7 +881,7 @@ body.overlay-open {
     /* Expanded state: full-width bar at top */
     .toolbar-search-wrapper.search-expanded .toolbar-search {
         position: fixed;
-        top: 0;
+        top: 60px;
         left: 0;
         right: 0;
         width: 100%;
@@ -891,7 +891,7 @@ body.overlay-open {
         border-bottom: 2px solid var(--color-accent, #9c7c38);
         background: var(--color-bg, #fff);
         padding: 0 0.75rem;
-        z-index: 400;
+        z-index: 1300;
         box-shadow: 0 4px 16px rgba(0,0,0,0.1);
     }
 
@@ -903,19 +903,16 @@ body.overlay-open {
 
     .toolbar-search-wrapper.search-expanded .bible-search-dropdown {
         position: fixed;
-        top: 50px;
+        top: 110px;
         left: 0;
         right: 0;
         border-radius: 0;
-        max-height: calc(80vh - 50px);
-        z-index: 400;
+        max-height: calc(80vh - 110px);
+        z-index: 1300;
     }
 
     .mobile-search-backdrop {
-        position: fixed;
-        inset: 0;
-        background: rgba(0,0,0,0.3);
-        z-index: 350;
+        display: none;
     }
 
     .float-arrow {
