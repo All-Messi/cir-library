@@ -1060,22 +1060,49 @@ a:hover {
         padding: 0 var(--space-md);
     }
     
+    .site-header .container {
+        padding: 0 0.85rem !important;
+        overflow: hidden;
+    }
+
     .header-content {
-        flex-wrap: wrap;
-        height: auto;
-        padding: var(--space-md) 0;
-        gap: var(--space-md);
+        flex-wrap: nowrap;
+        height: 60px;
+        padding: 0;
+        gap: 0.5rem;
+        overflow: hidden;
     }
-    
+
     .header-search {
-        order: 3;
-        flex-basis: 100%;
-        max-width: 100%;
+        flex: 1;
+        min-width: 0;
+        overflow: hidden;
+    }
+
+    .header-search-form {
+        border-radius: 50px !important;
+        overflow: hidden !important;
+        min-width: 0;
+    }
+
+    .header-search-input {
+        font-size: 0.85rem !important;
+        padding: 0.55rem 0.75rem !important;
+        min-width: 0;
+        width: 0;
+        flex: 1;
+    }
+
+    .header-search-btn {
+        width: 34px !important;
+        height: 34px !important;
+        margin: 3px !important;
+        flex-shrink: 0;
     }
     
+    /* Hide text nav on small mobile, keep hamburger toggle */
     .main-nav ul {
-        flex-wrap: wrap;
-        justify-content: center;
+        display: none;
     }
     
     .hero h2 {
@@ -1162,6 +1189,7 @@ html body .site-header .header-content {
 
 html body .site-header .site-branding {
     gap: 0 !important;
+    flex-shrink: 0;
 }
 
 html body .site-header .site-logo {
@@ -1243,6 +1271,7 @@ html body .header-search-btn svg {
 /* Navigation overrides */
 html body .main-nav {
     margin-left: auto !important;
+    flex-shrink: 0;
 }
 
 html body .main-nav ul {
