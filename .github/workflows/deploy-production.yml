@@ -8,10 +8,10 @@ jobs:
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.145.0
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
     steps:
       - name: Checkout source
-        uses: actions/checkout@v4.2.2
+        uses: actions/checkout@v4
         with:
           submodules: recursive
 
@@ -22,19 +22,26 @@ jobs:
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb
 
       - name: Build for production
-        env:
-          HUGO_ENVIRONMENT: production
-        run: |
-          hugo \
-            --minify \
-            --baseURL "https://christir.org/"
+        run: hugo --minify --baseURL "https://christir.org/"
 
       - name: Deploy to christir-org repo
-        uses: peaceiris/actions-gh-pages@v4.0.0
-        with:
-          personal_token: ${{ secrets.PRODUCTION_DEPLOY_TOKEN }}
-          external_repository: All-Messi/christir-org
-          publish_branch: main
-          publish_dir: ./public
-          cname: christir.org
-          commit_message: "Deploy from cir-library@${{ github.sha }}"
+        run: |
+          # Configure git
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
+          # Clone the target repo
+          git clone https://x-access-token:${{ secrets.PRODUCTION_DEPLOY_TOKEN }}@github.com/All-Messi/christir-org.git /tmp/christir-org
+
+          # Clear old files and copy new build
+          rm -rf /tmp/christir-org/*
+          cp -r public/. /tmp/christir-org/
+
+          # Add CNAME file
+          echo "christir.org" > /tmp/christir-org/CNAME
+
+          # Commit and push
+          cd /tmp/christir-org
+          git add -A
+          git diff --staged --quiet || git commit -m "Deploy from cir-library@${{ github.sha }}"
+          git push
