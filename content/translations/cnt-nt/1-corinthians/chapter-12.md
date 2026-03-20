@@ -65,9 +65,9 @@ next: chapter-13
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Earnestly desire the more important gifts, but I’ll show you something <i>even</i> better. </span></span>
-<span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If I speak in the languages of humans and angels, but don’t love, like a noisy gong or crashing cymbal <u>I<i> mean nothing</i></u>. </span></span>
+<span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If I speak in the languages of people and angels, but don’t love, like a noisy gong or crashing cymbal <u>I<i> mean anything</i></u>. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If I prophesy, understand all mysteries, know everything, have enough faith to move mountains, but don’t love, <u>I am nothing</u>. </span></span>
-<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If I give everything I own to feed <i>the poor</i> and deliver my body to be burned up, but don’t love, <u>I gain nothing</u> <i>by doing it.</i>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If I give everything I own to feed <i>the poor</i> and give up my body so I can take pride <i>in doing it</i>, but don’t love, <u>I gain nothing</u><i>.</i>
 </span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Love is patient and kind, not jealous or proud. </span></span>

@@ -29,7 +29,7 @@ prev: chapter-04
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You be patient too; strengthen your hearts because the Lord’s coming soon. </span></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Don’t complain about each other or you’ll be complained about; the judge is standing right outside your doors. </span></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Take the <i>L</i></span><i><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>’s prophets as models of suffering and endurance. </span></span>
-<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We consider them blessed that endured. You’ve heard about Job’s patience, and you know the Lord’s compassionate and merciful in the end.          </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>James 5:7-11</span></b></span></p>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We consider them blessed that endured. You’ve heard about Job’s patience, and you know the Lord’s compassionate and merciful in the end.          </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>James 5:7-11</span></b></span></p>
 
 
 ### Dispensing with Oaths
@@ -55,7 +55,7 @@ prev: chapter-04
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Fellow believers, if somebody wanders off from the truth and somebody gets him turned around, </span></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>he can be sure that returning a sinner from error will save him from death and cover a host of sins.                                      </span><b><span style='font-size: 10.0pt;line-height:115%;font-family:"Times New Roman",serif'>James 5:19-20</span></b></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Translator: Virgil Warren</span><span style='font-family:"Times New Roman",serif'>,                                                                                                 christir.org</span></p>
+<p class="MsoNormal" style='margin-bottom:0in'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Translator: Virgil Warren</span><span style='font-family:"Times New Roman",serif'>                                                                                                  christir.org</span></p>
 
 
 <style>

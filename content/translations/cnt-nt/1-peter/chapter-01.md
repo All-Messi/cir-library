@@ -25,7 +25,7 @@ next: chapter-02
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Blessed
 <i>be</i> the God and Father of our Lord Jesus Christ. In his great mercy, he gave us a living hope by resurrecting Jesus. </span></span>
-<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He has reserved for us in heaven an inheritance that doesn’t deteriorate, that can’t be defiled, and won’t fade away. </span></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He has reserved for us in heaven an inheritance that doesn’t deteriorate, that can’t be defiled and won’t fade away. </span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Trusting his power protects us so we can receive the salvation that’s ready for him to reveal in the end.</span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>With that to look forward to, rejoice, even though for a little while now, various trials may be bringing you grief. </span></span>

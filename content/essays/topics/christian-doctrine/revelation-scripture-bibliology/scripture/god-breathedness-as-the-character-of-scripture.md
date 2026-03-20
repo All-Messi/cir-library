@@ -93,7 +93,7 @@ with the proclamation.</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>                                             <img
-width=191 height=35 src="/cir-library/images/essays/god-breathedness-as-the-character-of-scripture/image001.png"></span></p>
+width=190 height=33 src="/cir-library/images/essays/god-breathedness-as-the-character-of-scripture/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>            As an English word, <i>inspire</i>
@@ -156,7 +156,7 @@ predicts that such aid is not required.</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>                            <img
-width=299 height=83 src="/cir-library/images/essays/god-breathedness-as-the-character-of-scripture/image002.png"></span></p>
+width=301 height=85 src="/cir-library/images/essays/god-breathedness-as-the-character-of-scripture/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:8.0pt'>&nbsp;</span></p>
@@ -231,7 +231,7 @@ his revelation; his revelation is</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>                                                         <img
-width=110 height=75 src="/cir-library/images/essays/god-breathedness-as-the-character-of-scripture/image003.png"></span></p>
+width=112 height=72 src="/cir-library/images/essays/god-breathedness-as-the-character-of-scripture/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>always sufficient for his expectancy. The

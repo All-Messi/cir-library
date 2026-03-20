@@ -31,8 +31,8 @@ prev: chapter-27
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They left the tomb quickly with fear and great excitement and ran to tell his disciples. </span></span>
-<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus met them and said, <i>“Hello.”</i> They came and took hold of his feet and worshiped him. </span></span>
-<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Jesus said<sup>p</sup>, <i>“You don’t need to be afraid. Go tell my brothers to go to Galilee. They’ll see me there.”                                                                                                                                </i></span></span></p>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus met them and said, <i>“Hello.”</i> They went and took hold of his feet and worshiped him. </span></span>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Jesus said<sup>p</sup>, <i>“You<sup>pl</sup> don’t need to be afraid. Go tell my brothers to go to Galilee. They’ll see me there.”                                                                                                                                </i></span></span></p>
 
 <p class="section-ref">Mt 28:8-10</p>
 
@@ -44,7 +44,7 @@ prev: chapter-27
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When they got together with the elders and took counsel, they gave a large number of silver coins to the soldiers, </span></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Say that his disciples came during the night while you were asleep and stole him.  </span></i></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If the governor hears about this, we’ll persuade him and keep you out of trouble.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span>
-<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They took the silver coins and did what they were told. That story has spread among the Jews to this day.     </span></span></p>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They took the silver coins and did what they were told. That story has spread among the Jews to this day.     </span></span></p>
 
 <p class="section-ref">Mt 28:11-15</p>
 

@@ -424,7 +424,7 @@ While talking generally about </span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'><img width=108 height=111
+style='font-size:12.0pt'><img width=112 height=111
 src="/cir-library/images/essays/the-relationship-of-general-revelation/image002.jpg"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -718,7 +718,7 @@ style='position:relative;top:-3.0pt'>9</span></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'><img width=325 height=202
+style='font-size:12.0pt'><img width=327 height=203
 src="/cir-library/images/essays/the-relationship-of-general-revelation/image003.jpg"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -930,7 +930,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'><img width=221 height=64
+style='font-size:12.0pt'><img width=222 height=65
 src="/cir-library/images/essays/the-relationship-of-general-revelation/image004.jpg"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;

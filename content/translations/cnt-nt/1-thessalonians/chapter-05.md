@@ -16,7 +16,7 @@ prev: chapter-04
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You also don’t need me to write <i>about</i> when and under what circumstances <i>he’ll return</i>. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You know full well that the Lord will come like a thief at night. </span></span>
-<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When people are saying, <i>“Peace and safety,”</i> destruction will come on them like birth pains on a woman; they won’t escape. </span></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When people are saying, <i>“Peace and safety,”</i> destruction will come on them like a woman’s birth pangs; they won’t escape. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But
 <u>you</u> aren’t in the dark, and that time won’t overtake <u>you</u> like a thief. </span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’re children of light and day, not of darkness and night. </span></span>

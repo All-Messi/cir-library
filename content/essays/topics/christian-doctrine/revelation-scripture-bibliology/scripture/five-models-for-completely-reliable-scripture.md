@@ -220,7 +220,7 @@ style='font-size:12.0pt'>Summary Chart</span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>      
- <img width=398 height=152 src="/cir-library/images/essays/five-models-for-completely-reliable-scripture/image001.png"></span></p>
+ <img width=399 height=150 src="/cir-library/images/essays/five-models-for-completely-reliable-scripture/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 

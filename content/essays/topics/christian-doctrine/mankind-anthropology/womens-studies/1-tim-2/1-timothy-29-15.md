@@ -104,7 +104,7 @@ last part would be his inference from the Genesis event.</span></p>
 style='font-size:8.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'><img width=423 height=219
+style='font-size:12.0pt'><img width=425 height=216
 src="/cir-library/images/essays/1-timothy-29-15/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span

@@ -5,7 +5,8 @@
 <div class="book-reader">
     <div class="reader-nav-bar">
         <div class="book-selector">
-            <a href="{{ "categories/books/" | absURL }}" class="back-to-books">← All Books</a>
+            {{ $booksPage := site.GetPage "/books" }}
+            <a href="{{ if $booksPage }}{{ $booksPage.RelPermalink }}{{ else }}{{ "books/" | relURL }}{{ end }}" class="back-to-books">← All Books</a>
             <span class="current-book">{{ replace .Title " (Book)" "" }}</span>
         </div>
         <button class="chapter-selector-btn" id="chapterSelectorBtn">

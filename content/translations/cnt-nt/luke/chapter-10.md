@@ -55,7 +55,7 @@ next: chapter-11
 <p class="section-ref">Lk 10:13-24</p>
 
 
-### The Parable About the Good Samaritan
+### A Story About a Good Samaritan
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A lawyer stood up to test him, <i>“Rabbi, what do I need to do to inherit eternal life?”</i></span></span></p>

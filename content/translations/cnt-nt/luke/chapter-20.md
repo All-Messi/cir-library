@@ -29,10 +29,10 @@ next: chapter-21
 <p class="section-ref">Lk 20:1-8</p>
 
 
-### The Parable About a Vineyard
+### Story About a Vineyard
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He started telling the people this parable: </span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He started telling the people this story: </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“A man planted a vineyard, rented it out to tenants, and went on an extended trip.
 </span></i><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>At harvest time he sent the tenants a servant to receive the fruit from the vineyard. But the tenants beat him up and sent him away empty-handed.</span></i></span></p>
@@ -57,7 +57,7 @@ next: chapter-21
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Everybody that falls on that rock will get bruised. Whoever it falls on will get crushed.”</span></i></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The scribes and chief priests were ready to seize him right then, but they were afraid of the people. They knew he’d told that parable on them.                                                                                                                                    </span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The scribes and chief priests were ready to seize him right then, but they were afraid of the people. They knew he’d told that story on them.                                                                                                                                             </span></span></p>
 
 <p class="section-ref">Lk 20:9-19</p>
 

@@ -12,10 +12,10 @@ next: chapter-13
 ## Mark Chapter 12
 
 
-### Parable About a Vineyard
+### Story About a Vineyard
 
 
-<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>He started telling parables<i>. </i></span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>He started telling stories<i>. </i></span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;line-height:normal'><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“A man planted a vineyard, put a wall around it, dug a wine pit with a trough under it, rented it out to tenants, and left on a trip. </span></i><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>At harvest time he sent a servant to the tenants to receive the fruit from the vineyard. </span></i></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>They took him and beat him up and sent him away empty-handed. </span></i></span>
@@ -36,7 +36,7 @@ next: chapter-13
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;line-height:normal'><b><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                                    it’s amazing to us.’</span></i></b><i><span style='font-size:12.0pt;font-family: "Times New Roman",serif'>”</span></i><b><span style='font-size:12.0pt; font-family:"Times New Roman",serif'> </span></b><b><span style='font-size: 9.0pt;font-family:"Times New Roman",serif'>[Ps 118:22-23]</span></b></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>The <i>Pharisees</i> were trying to find a way to arrest him, but they were afraid of the crowds. They knew he’d aimed the parable at them, and they left.
+<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>The <i>Pharisees</i> were looking for a way to arrest him, but they were afraid of the crowds. They knew he’d aimed the story at them, and they left.
 </span></span></p>
 
 <p class="section-ref">Mk 12:1-12</p>
@@ -133,7 +133,7 @@ next: chapter-13
 ### The Widow’s Mite
 
 
-<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v41" id="v41"><sup class="verse-num">41</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>He sat down across from the Treasury and watched <i>people from </i>the crowd put copper coins in the Treasury. Wealthy people were putting in big amounts. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v41" id="v41"><sup class="verse-num">41</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>He sat down across from the Treasury and was watching <i>people from </i>the crowd put copper coins in the Treasury. Wealthy people were putting in big amounts. </span></span>
 <span class="verse verse-v42" id="v42"><sup class="verse-num">42</sup> <span style='font-size: 12.0pt;font-family:"Times New Roman",serif'>A poor widow came and put in two leptons, which equal a quadrans. </span></span>
 <span class="verse verse-v43" id="v43"><sup class="verse-num">43</sup> <span style='font-size: 12.0pt;font-family:"Times New Roman",serif'>He called his disciples over, <i>“That poor widow put in more than all the others. </i></span></span>
 <span class="verse verse-v44" id="v44"><sup class="verse-num">44</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>They donated out of their abundance, but she donated out of her poverty—everything she had to live on.”</span></i><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>

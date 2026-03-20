@@ -12,12 +12,12 @@ next: chapter-14
 ## Matthew Chapter 13
 
 
-### The Sermon in Parables
+### The Sermon in Stories
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus left the house that day and sat down by the lake. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So many people were gathering that he got in a boat and sat down while the crowd stood on the shore. </span></span>
-<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told parables for a long time.</span></span></p>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told them lots of things with stories.</span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“A sower went out to sow his seed. </span></i><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As he sowed, some seed fell along the path, and birds came along and ate it.</span></i></span></p>
 
@@ -29,16 +29,16 @@ next: chapter-14
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“But others fell on good ground and yielded 30, 60, or 100 times as much as he planted.</span></i></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Whoeer has ears, listen!”                                                            </span></i></span></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Whoever has ears, listen!”                                                          </span></i></span></span></p>
 
 <p class="section-ref">Mt 13:1-9</p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The disciples came and asked,<span style='color:#006600'> </span><i>“Why are you telling them parables?”</i></span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The disciples came and asked,<span style='color:#006600'> </span><i>“Why are you telling them stories?”</i></span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Because
 <u>you</u>’re allowed to know unrevealed things about the kingdom of heaven, but <u>they</u>’re not. </span></i></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Whoever has, will receive; whoever doesn’t have, will lose even what he has. </span></i></span>
-<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That’s why I’m telling them parables: though they see, they don’t see; though they hear, they don’t hear or understand. </span></i></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That’s why I’m telling them stories: though they see, they don’t see; though they hear, they don’t hear or understand. </span></i></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They illustrate the way Isaiah describes them:</span></i></span></p>
 
 
@@ -62,14 +62,14 @@ next: chapter-14
 <p class="section-ref">Mt 13:10-15</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“But
-<u>your</u> eyes are fortunate because they see; and <u>your</u> ears, because they hear. </span></i></span>
+<u>your</u> eyes are fortunate because they see; and <u>your</u> ears </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>are fortunate<i>, because they hear. </i></span></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Many prophets and good people have wanted to see what you’re seeing and didn’t see it, and to hear what you’re hearing and didn’t hear it.</span></i></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“<u>You</u> listen, then, to the parable about the sower. </span></i></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“<u>You</u> listen, then, to the story about the sower. </span></i></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#7030A0'>            </span></i><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“People that hear the message about the kingdom and don’t understand it are the ones the devil comes to and snatches what was planted in their heart: they’re the seed sown along the path.</span></i></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#7030A0'>            </span></i><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Seed sown on rocky soil represents people that hear the message and right away are glad to accept it, </span></i></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#7030A0'>            </span></i><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Seed sown on rocky soil represents people that hear the message and are glad to accept it right away, </span></i></span>
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>but they don’t have root in themselves and don’t last. When difficulties or persecution come because of the message, they give up their faith right away.</span></i></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Seed sown among thorns represents people that hear the message, and the cares of the world and the deception of wealth choke it out, and it doesn’t produce anything.</span></i></span></p>
@@ -78,7 +78,7 @@ next: chapter-14
 
 <p class="section-ref">Mt 13:16-23</p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>            </span><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He presented another parable. </span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>            </span><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He presented another story. </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The kingdom of heaven is like a man that sowed clean seed in his field. </span></i><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>While people were sleeping, his enemy came and sowed darnels in the wheat. </span></i></span>
 <span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the plants grew and began to mature, the darnels appeared too. </span></i></span>
@@ -96,24 +96,24 @@ next: chapter-14
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The kingdom of heaven is like yeast a woman put in a bushel of meal till the whole bushel had risen.”</span></i></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus taught the crowd these things only in parables </span></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus only taught the crowd these things with stories </span></span>
 <span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>like the prophet said,</span></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                        <b><i>“I’ll speak to them in parables</i></b></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                        <b><i>“I’ll speak to them with stories</i></b></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        and tell them things not revealed since the founding of the world”</span></i></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></b></p>
 
 <p class="section-ref">Ps 78:2</p>
 
 
-### Further Private Instruction in Parables
+### Further Private Instruction in Stories
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he left the crowd and went into the house, his disciples came, <i>“Explain the parable about the darnels in the field.”</i></span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he left the crowd and went into the house, his disciples came, <i>“Explain the story about the darnels in the field.”</i></span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus answered, </span></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The One who sowed the clean seed is the Son of Man, </span></i><span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the field is the world, the clean seed is the people of the kingdom, the darnels are the ones belong ing to the evil one, </span></i></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The One who sowed the clean seed is the Son of Man, </span></i><span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the field is the world, the clean seed is the people of the kingdom, the darnels are the ones belonging to the evil one, </span></i></span>
 <span class="verse verse-v39" id="v39"><sup class="verse-num">39</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the enemy that sowed them is the devil, </span></i></span>
 <span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the harvest is the end of the age, the reapers are angels. </span></i></span>
 <span class="verse verse-v41" id="v41"><sup class="verse-num">41</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The darnels are gathered and burned just like it’ll be at the end of the age: the Son of Man will send his angels to rid his realm of evil people and everything that makes people stumble, </span></i></span>
@@ -127,17 +127,17 @@ next: chapter-14
 <span class="verse verse-v46" id="v46"><sup class="verse-num">46</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he found a really valuable one, he sold everything he had and bought it.</span></i></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v47" id="v47"><sup class="verse-num">47</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The kingdom’s like a net cast into the sea that gathers all kinds of fish. </span></i></span>
-<span class="verse verse-v48" id="v48"><sup class="verse-num">48</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When it’s full, the fishermen pull it up on the shore and sit down. They put the good ones in containers and throw the bad ones away. </span></i></span>
+<span class="verse verse-v48" id="v48"><sup class="verse-num">48</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When it’s full, the fishermen pull it up on shore and sit down. They put the good ones in containers and throw the bad ones away. </span></i></span>
 <span class="verse verse-v49" id="v49"><sup class="verse-num">49</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That’s how it’ll be at the end of the world. The angels will come and separate the bad from the good, </span></i></span>
-<span class="verse verse-v50" id="v50"><sup class="verse-num">50</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and throw them into the furnace. There will be crying and gritting of teeth there.</span></i></span></p>
+<span class="verse verse-v50" id="v50"><sup class="verse-num">50</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and throw them in the furnace. There will be crying and gritting of teeth there.</span></i></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v51" id="v51"><sup class="verse-num">51</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Do you understand?” </span></i></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Yes.”</span></i></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v52" id="v52"><sup class="verse-num">52</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“So, every scribe that’s become a disciple in the kingdom is like a homeowner that brings out of his holdings things new and old.” </span></i></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v52" id="v52"><sup class="verse-num">52</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“So, every scribe that’s become a disciple in the kingdom is like a homeowner that brings out of his holdings things old and new.” </span></i></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v53" id="v53"><sup class="verse-num">53</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Jesus had finished those parables, he left.                                              </span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v53" id="v53"><sup class="verse-num">53</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Jesus had finished those stories, he left.                                                 </span></span></p>
 
 <p class="section-ref">Mt 13:36-53</p>
 

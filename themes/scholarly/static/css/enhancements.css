@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /* ============================================
    CIR LIBRARY - BIBLE.COM INSPIRED THEME
    Clean, minimal, scholarly
@@ -1370,4 +1371,72 @@ html body .hero .lead strong {
 .essay-content:not(:has(.toc)) .content-body {
     max-width: 800px;
     margin: 0 auto;
+}
+
+/* ============================================
+   SHARED COMPONENT LIBRARY
+   Used across homepage, books landing, etc.
+   ============================================ */
+
+/* ─ CTA link ─ */
+.hp-cta { font-family: 'Source Sans Pro', sans-serif; font-size: 0.68rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.09em; display: inline-flex; align-items: center; gap: 4px; color: #444; text-decoration: none; transition: color .15s; }
+.hp-cta::after { content: '→'; }
+.hp-cta:hover { color: #000; }
+.hp-cta-light { color: rgba(168,210,180,.8); font-size: 0.7rem; letter-spacing: 0.12em; }
+.hp-cta-light:hover { color: #c8e8d0; }
+
+/* ─ Category chip ─ */
+.hp-chip { display: inline-block; font-family: 'Source Sans Pro', sans-serif; font-size: 0.58rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.16em; color: #888; background: #f2efea; padding: 0.22rem 0.55rem; border-radius: 2px; margin-bottom: 0.75rem; }
+
+/* ─ Grids ─ */
+.hp-g3 { display: grid; grid-template-columns: repeat(3,1fr); gap: 1.25rem; }
+.hp-g5 { display: grid; grid-template-columns: repeat(5,1fr); gap: 1rem; }
+.hp-g6 { display: grid; grid-template-columns: repeat(3,1fr); gap: 1.25rem; }
+.hp-g2c { display: grid; grid-template-columns: repeat(2,1fr); gap: 1.25rem; max-width: 720px; margin: 0 auto; }
+.hp-mb { margin-bottom: 1.25rem; }
+
+/* ─ Book spine cards ─ */
+.hp-bookcard { background: #fff; border-radius: 3px 5px 5px 3px; border: 1px solid #d8d3c8; border-left: none; display: flex; flex-direction: column; position: relative; overflow: hidden; min-height: 270px; box-shadow: -3px 0 0 #e0dad0,-5px 0 0 #d0c8bc,-7px 0 0 #bfb8ac,3px 4px 12px rgba(0,0,0,.13); transition: transform .2s, box-shadow .2s; text-decoration: none; color: inherit; }
+.hp-bookcard:hover { transform: translateY(-3px); box-shadow: -3px 0 0 #e0dad0,-5px 0 0 #d0c8bc,-7px 0 0 #bfb8ac,5px 10px 22px rgba(0,0,0,.18); }
+.hp-bookcard::before { content: ''; position: absolute; top: 0; left: 0; bottom: 0; width: 8px; }
+.hp-bs-interp::before    { background: linear-gradient(180deg,#1e3048,#2a4a6a); }
+.hp-bs-theology::before  { background: linear-gradient(180deg,#1e3d28,#2a5438); }
+.hp-bs-commentary::before{ background: linear-gradient(180deg,#5c3018,#7a4020); }
+.hp-bs-evidences::before { background: linear-gradient(180deg,#3a2840,#543a58); }
+.hp-bookcard-body { padding: 1.6rem 1.3rem 1.5rem 1.75rem; display: flex; flex-direction: column; flex: 1; }
+.hp-bookcard-cat { font-family: 'Source Sans Pro', sans-serif; font-size: 0.58rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.16em; color: #888; margin-bottom: 0.45rem; }
+.hp-bookcard h3 { font-family: 'Playfair Display', serif; font-size: 1rem; font-weight: 700; color: #1a1a1a; line-height: 1.25; margin-bottom: 0.5rem; margin-top: 0; }
+.hp-bookcard p { font-family: 'Source Sans Pro', sans-serif; font-size: 0.74rem; color: #666; line-height: 1.55; flex: 1; margin-bottom: 0.9rem; }
+
+/* ─ Book chapter float arrows (essay single pages) ─ */
+.book-chapter-nav { display: flex; align-items: center; justify-content: space-between; padding: 0.6rem 0; border-bottom: 1px solid var(--color-border, #e5e5e5); margin-bottom: 2rem; font-family: 'Source Sans Pro', sans-serif; }
+.book-nav-back { font-size: 0.85rem; color: #666; text-decoration: none; transition: color 0.15s; }
+.book-nav-back:hover { color: #000; }
+.book-nav-chapter { font-size: 0.78rem; color: #aaa; white-space: nowrap; }
+.book-float-arrow { position: fixed; top: 50%; transform: translateY(-50%); width: 36px; height: 72px; display: flex; align-items: center; justify-content: center; border-radius: 20px; background: var(--color-bg, #fff); border: 1px solid var(--color-border, #e5e5e5); color: var(--color-text-muted, #aaa); text-decoration: none; font-size: 1.5rem; line-height: 1; transition: all 0.2s ease; z-index: 50; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+.book-float-prev { left: max(12px, calc(50% - 450px)); }
+.book-float-next { right: max(12px, calc(50% - 450px)); }
+.book-float-arrow:hover { background: var(--color-primary, #000); border-color: var(--color-primary, #000); color: #fff; box-shadow: 0 4px 16px rgba(0,0,0,0.15); }
+
+/* ─ Responsive grids ─ */
+@media (max-width: 960px) {
+    .hp-g5 { grid-template-columns: repeat(3,1fr); }
+}
+@media (max-width: 720px) {
+    .hp-g3, .hp-g6 { grid-template-columns: repeat(2,1fr); }
+    .hp-g5 { grid-template-columns: repeat(2,1fr); }
+    .hp-g2c { grid-template-columns: 1fr; }
+}
+@media (max-width: 900px) {
+    .book-float-arrow { width: 32px; height: 64px; }
+    .book-float-prev { left: 8px; }
+    .book-float-next { right: 8px; }
+}
+@media (max-width: 540px) {
+    .hp-g3, .hp-g6, .hp-g2c { grid-template-columns: 1fr; gap: 0.75rem; }
+    .hp-g5 { grid-template-columns: unset; display: flex; overflow-x: auto; scroll-snap-type: x mandatory; gap: 0.85rem; padding-bottom: 0.75rem; -webkit-overflow-scrolling: touch; }
+    .hp-bookcard { min-width: 180px; max-width: 180px; min-height: 240px; flex-shrink: 0; scroll-snap-align: start; }
+    .book-float-arrow { width: 32px; height: 56px; top: auto; bottom: 24px; transform: none; }
+    .book-float-prev { left: 8px; }
+    .book-float-next { right: 8px; }
 }

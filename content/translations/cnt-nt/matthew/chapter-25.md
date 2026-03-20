@@ -12,7 +12,7 @@ next: chapter-26
 ## Matthew Chapter 25
 
 
-### The Parable About Ten Virgins
+### A Story About Ten Virgins
 
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“At that time the kingdom of heaven will be like ten virgins that took their lamps to meet the groom. </span></i></span>
@@ -34,7 +34,7 @@ next: chapter-26
 <p class="section-ref">Mt 25:1-13</p>
 
 
-### The Parable About Talents
+### A Story About Talents
 
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The kingdom of heaven is like a man going on a trip. He called his servants and entrusted them with things he owned. </span></i></span>
@@ -88,8 +88,8 @@ next: chapter-26
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v44" id="v44"><sup class="verse-num">44</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>”They’ll say, ‘When did we see you hungry, thirsty, a stranger, needing clothes, sick, or in prison, and not help you?’ </span></i></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v45" id="v45"><sup class="verse-num">45</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“He’ll answer, ‘Since you didn’t do it for the least of these of the friends of mine, you didn’t do it for me either.’ </span></i></span>
-<span class="verse verse-v46" id="v46"><sup class="verse-num">46</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Those will go away into eternal punishment, but the good people will go into eternal life.”           </span></i></span></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v45" id="v45"><sup class="verse-num">45</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“He’ll answer, ‘Since you didn’t do it for the least of these friends of mine, you didn’t do it for me either.’ </span></i></span>
+<span class="verse verse-v46" id="v46"><sup class="verse-num">46</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Those will go away into eternal punishment, but the good people will go into eternal life.”       </span></i></span></span></p>
 
 <p class="section-ref">Mt 25:37-46</p>
 

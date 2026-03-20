@@ -1,5 +1,5 @@
 {{ define "main" }}
-{{/* Check if this is a book category by looking at the slug or title */}}
+{{/* Check if this is a book category by looking at the slug or title - v2 */}}
 {{ $isBook := or (strings.HasSuffix .Title "Book)") (strings.HasSuffix .File.ContentBaseName "-book") (eq .Params.layout "book-toc") }}
 
 {{ if $isBook }}
@@ -7,7 +7,8 @@
 <div class="book-reader">
     <div class="reader-nav-bar">
         <div class="book-selector">
-            <a href="{{ "categories/books/" | absURL }}" class="back-to-books">← All Books</a>
+            {{ $booksPage := site.GetPage "/books" }}
+            <a href="{{ if $booksPage }}{{ $booksPage.RelPermalink }}{{ else }}{{ "books/" | relURL }}{{ end }}" class="back-to-books">← All Books</a>
             <span class="current-book">{{ replace .Title " (Book)" "" }}</span>
         </div>
     </div>

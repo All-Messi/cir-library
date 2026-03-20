@@ -31,9 +31,9 @@ next: chapter-07
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Enslaved” to Righteousness</span></b></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So don’t let sin prevail in your mortal body by yielding its drives. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So don’t let sin prevail in your mortal body by yielding to its drives. </span></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Don’t keep offering your members as tools for unrighteousness. Offer yourselves to God as alive from the dead, and offer your members to him as tools for righteousness. </span></span>
-<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Sin won’t be controlling you because you’re under grace, not law.                                                                                           </span></span></p>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Sin won’t be controlling you because you’re under grace, not law.                                                                                            </span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>What then? Should we sin because we’re under grace instead of law? Goodness, no! </span></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Don’t you know that whatever you yield to, you’re ‘slaves’ to—<i>‘servants’</i> to sin, <i>which leads</i> to death or ‘servants’ to obedience, <i>which leads</i> to righteousness? </span></span>
@@ -43,8 +43,7 @@ next: chapter-07
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When you were servants to sin, you were ‘free’ from righteousness. </span></span>
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So, what things were you producing then that you’re ashamed of now? Their outcome <i>was</i>
 <u>death</u>. </span></span>
-<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now that you’re free from sin and ‘in servitude’ to God, you’re producing holiness, whose outcome
-<i>is</i> eternal <u>life</u>. </span></span>
+<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now that you’re free from sin and ‘in servitude’ to God, you’re producing holiness, whose outcome <i>is</i> eternal <u>life</u>. </span></span>
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The wages of sin <i>is</i> death, but the gracious gift of God <i>is</i> life in Christ Jesus our Lord.                </span></span></p>
 
 <p class="section-ref">Rom 6:12-23</p>

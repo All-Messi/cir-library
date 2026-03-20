@@ -25,8 +25,8 @@ next: chapter-05
 </i></b></span></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So submit to God. Resist the devil, and he’ll run from you. </span></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Come close to God, and he’ll come close to you. Clean <i>your</i> hands, you sinners; purify <i>your</i> hearts, you with divided loyalties. </span></span>
-<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Be sad, mourn, and cry. Turn your laughing into mourning, and your lightheartedness into seriousness. </span></span>
-<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Humble yourselves in front of the Lord, and he’ll lift you up.              </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>James 4:1-10</span></b></span></p>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Be sad, mourn, and cry. Turn your laughing into mourning, and your lightheartedness into serious-mindedness. </span></span>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Humble yourselves in front of the Lord, and he’ll lift you up.            </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>James 4:1-10</span></b></span></p>
 
 
 ### Ban on Criticism

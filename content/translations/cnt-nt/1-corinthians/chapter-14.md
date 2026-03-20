@@ -21,8 +21,8 @@ next: chapter-15
 </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>people.
 </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Somebody that speaks in </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>another</span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> language helps himself, but a person that communicates helps the church. </span></span>
-<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now I’m willing for all of you to speak in languages, but so you can communicate. If you communicate, you’re doing something more important than speaking in </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>other
-</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>languages—unless you translate so you can help the church.     </span></span></p>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now I’m willing for all of you to speak in languages, but so you can communicate. If you communicate, you’re doing something more important than talking in </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>other
+</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>languages—unless you translate so you can help the church.        </span></span></p>
 
 <p class="section-ref">1 Cor 14:1-5</p>
 

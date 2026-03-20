@@ -31,8 +31,8 @@ next: chapter-03
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Just so you know that the Son of Man has the right on earth to forgive sins”</span></i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>—he said to the man, </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“Get up, pick up your stretcher, and go on home.”</span></i></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>He got up at once, picked <i>it</i> up, and went out in front of everybody. They were astounded and praised God, <i>“We’ve never seen anything like this.”</i> </span></span>
-<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size: 12.0pt;font-family:"Times New Roman",serif'>Jesus went out again beside the lake. The whole crowd went along, and he started teaching <i>again</i>.    </span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>He got up at once, picked <i>it</i> up, and went out in front of everybody. They were astounded and praised God, <i>“We’ve never seen such a thing.”</i> </span></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size: 12.0pt;font-family:"Times New Roman",serif'>Jesus went out again beside the lake. The whole crowd went along, and he started teaching <i>again</i>.        </span></span></p>
 
 <p class="section-ref">Mk 2:1-13</p>
 
@@ -44,7 +44,7 @@ next: chapter-03
 ### Controversy About Eating with Sinners
 
 
-<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>As he passed along, he saw Levi son of Alphaeus sitting at the tax booth. He said<sup>p</sup>,
+<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>As he was going along, he saw Levi son of Alphaeus sitting at the tax booth. He said<sup>p</sup>,
 <i>“Come with me.”</i> He got up and went with him. </span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>He was reclining<sup>p</sup> at table in <i>Levi’s</i> house. Many tax collectors and sinners were reclining at table with him and his disciples because many of them were following him. </span></span>
@@ -62,7 +62,7 @@ next: chapter-03
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>The time’s coming when the groom will be taken away from them. They’ll fast then.”</span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt; font-family:"Times New Roman",serif'>“Nobody sews a patch of unshrunk cloth on an old garment. The new patch would pull away from the old material and make the tear worse. </span></i></span>
-<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt; font-family:"Times New Roman",serif'>Nobody puts new wine in old wineskins. It would burst the wineskins, and the wine would be lost and the wineskins. People put new wine in new wineskins.”                                                                                                                         </span></i></span></span></p>
+<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt; font-family:"Times New Roman",serif'>Nobody puts new wine in old wineskins. It would burst the wineskins, and the wine and wineskins would be lost. People put new wine in new wineskins.”                                                                                                                         </span></i></span></span></p>
 
 <p class="section-ref">Mk 2:14-22</p>
 
@@ -70,7 +70,7 @@ next: chapter-03
 ### Controversy About Breaking Sabbath
 
 
-<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>On a Sabbath he was going along grain fields, and his disciples started picking off heads as they went along. </span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>On a Sabbath he was going along the grain fields, and his disciples started picking off heads as they went. </span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>The Pharisees said, <i>“Why are they doing what’s against the Law on Sabbath?” </i></span></span></p>
 

@@ -76,8 +76,8 @@ next: chapter-12
 <p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>Jesus said<sup>p</sup>, <i>“Trust God. </i></span></span>
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Whoever says to this mountain, ‘Be picked up and thrown into the sea,’ and doesn’t doubt, it’ll happen. </span></i></span>
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>As many things as you ask for in prayer, believe you’ve as good as received it<sup>aorist</sup>, and you will. </span></i></span>
-<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>When you stand praying, if you have anything against anybody, forgive him so your Father in heaven will forgive you.” </span></i><span style='font-size:12.0pt;font-family: "Times New Roman",serif'>[</span></span>
-<span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size: 12.0pt;font-family:"Times New Roman",serif'>]<sup>ms</sup>                        </span></span></p>
+<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>When you stand praying, if you have anything against anybody, forgive hthem so your Father in heaven will forgive you.” </span></i><span style='font-size:12.0pt;font-family: "Times New Roman",serif'>[</span></span>
+<span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size: 12.0pt;font-family:"Times New Roman",serif'>]<sup>ms</sup>                    </span></span></p>
 
 <p class="section-ref">Mk 11:20-26</p>
 

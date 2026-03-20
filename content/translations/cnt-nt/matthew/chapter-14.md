@@ -78,7 +78,7 @@ next: chapter-15
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At once Jesus reached out and grabbed him, <i>“One with little faith, why did you doubt?”</i></span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When they climbed up into the boat, the wind died down. </span></span>
-<span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The ones in the boat bowed to him, <i>“You really are God’s Son!”</i> </span></span></p>
+<span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The ones in the boat bowed to him, <i>“You really must be God’s Son!”</i>      </span></span></p>
 
 <p class="section-ref">Mt 14:22-33</p>
 

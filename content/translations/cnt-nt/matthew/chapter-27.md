@@ -124,7 +124,7 @@ next: chapter-28
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v39" id="v39"><sup class="verse-num">39</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The ones passing by were ridiculing him, shaking their heads, </span></span>
-<span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“You that tear down the sanctuary and rebuild it in three days, save yourself! If you’re God’s Son, and come down from the cross!”    </span></i></span></p>
+<span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“You that tear down the sanctuary and rebuild it in three days, save yourself! If you’re God’s Son, come down from the cross!”    </span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v41" id="v41"><sup class="verse-num">41</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The chief priests as well as the scribes and elders were making fun of him too: </span></span>
 <span class="verse verse-v42" id="v42"><sup class="verse-num">42</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“He saved other people; he can’t save himself! He’s king of Israel! Let him come down from the cross, and we’ll believe it. </span></i></span>

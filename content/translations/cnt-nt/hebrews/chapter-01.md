@@ -33,8 +33,7 @@ next: chapter-02
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  or,</span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b><i>“I’ll be his Father; he’ll be my son” </i></b></span><b><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>[2 Sam 7:14; 1 Ch 17:13]</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>?
-</span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b><i>“I’ll be a Father to him; he’ll be a son to me” </i></b></span><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[2 Sam 7:14; 1 Ch 17:13]</span></b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>? </span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he brings the Firstborn into the world, he says,</span></span></p>
 

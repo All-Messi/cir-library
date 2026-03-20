@@ -24,7 +24,7 @@ next: chapter-14
 
 <p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>Jesus told them, </span></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;line-height:normal'><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“Make sure nobody deceives you. </span></i><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt; font-family:"Times New Roman",serif'>Many will come, saying, ‘I’m the Messiah,’ and deceive lots of people. </span></i></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;line-height:normal'><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“Make sure nobody deceives you. </span></i><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt; font-family:"Times New Roman",serif'>Many will come, claimin gto be the Messiah, and deceive lots of people. </span></i></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>When you hear about wars and reports about wars, don’t panic. They need to happen, but that’s not the end yet. </span></i></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt; font-family:"Times New Roman",serif'>Nation will attack nation; kingdom will attack kingdom. There’ll be earthquakes and famines in many places. They’re the beginning of labor pains.  </span></i></span></span></p>
 

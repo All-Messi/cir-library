@@ -35,7 +35,7 @@ next: chapter-13
 <p class="section-ref">Lk 12:1-12</p>
 
 
-### The Parable About the Rich Fool
+### The Story About the Rich Fool
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A fellow in the crowd said, <i>“Rabbi, tell my brother to split the inheritance with me.”</i></span></span></p>
@@ -44,7 +44,7 @@ next: chapter-13
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Guard against every kind of greed; even in abundance a person’s life doesn’t consist of what he owns.”</span></i></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>             </span><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told the crowd a parable, </span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>             </span><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told the crowd a story, </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“A rich man’s ground produced a bumper crop. </span></i><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He deliberated what to do because he didn’t have enough room to put up his crop. </span></i></span>
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said, ‘This is what I’ll do: I’ll tear down my barns and build bigger ones so I can store all my grain and good things. </span></i></span>
@@ -84,7 +84,7 @@ next: chapter-13
 <span class="verse verse-v39" id="v39"><sup class="verse-num">39</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Be sure of this: if the homeowner had known what time the thief would come, he wouldn’t have let him break into his house. </span></i></span>
 <span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <i><u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You</span></u></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> be ready because the Son of Man will come when you don’t expect him.”</span></i></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                        </span><span class="verse verse-v41" id="v41"><sup class="verse-num">41</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Peter said, <i>“Are you telling <u>us</u> that parable or everybody?”</i></span></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                        </span><span class="verse verse-v41" id="v41"><sup class="verse-num">41</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Peter said, <i>“Are you telling <u>us</u> that story or everybody?”</i></span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v42" id="v42"><sup class="verse-num">42</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said, <i>“Who’s a wise, reliable property manager that his master puts in charge of providing meals at the right time? </i></span></span>
 <span class="verse verse-v43" id="v43"><sup class="verse-num">43</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Blessed is the servant that his master finds doing his job when he comes. </span></i></span>

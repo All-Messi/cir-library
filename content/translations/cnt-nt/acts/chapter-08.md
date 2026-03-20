@@ -100,12 +100,12 @@ next: chapter-09
 </span></span>
 <span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Philip started at that scripture and presented to him the good news about Jesus. </span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As they rode along, they came to some water, the eunuch said, <i>“Here’s some water; why can’t I be baptized?”</i> <sup>[</sup></span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As they rode along, they came to some water, the eunuch said, <i>“Here’s some water; does anything keep me from being baptized?”</i> <sup>[</sup></span></span>
 <span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>]ms
 </span></sup></span>
 <span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>He stopped the carriage, and they both went down into the water, and Philip baptized him. </span></span>
 <span class="verse verse-v39" id="v39"><sup class="verse-num">39</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When they came up out of the water, the Spirit of the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> caught Philip away, and the eunuch never saw him again. He went on his way happy. </span></span>
-<span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Philip showed up in Azotus. As he traveled, he delivered the good news to towns all along the way to Caesarea.                                                                  </span></span></p>
+<span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Philip showed up in Azotus. As he traveled, he delivered the good news to towns all along the way to Caesarea.                                                   </span></span></p>
 
 <p class="section-ref">Acts 8:34-40</p>
 

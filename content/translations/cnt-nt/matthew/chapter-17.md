@@ -38,8 +38,8 @@ next: chapter-18
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The disciples asked, <i>“Why do the scribes say Elijah has to come first?”</i></span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Elijah does come first to restore everything. </span></i></span>
-<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He’s already come, and they didn’t recognize him. They treated him however they wanted to. That’s the way it’ll be, too, when the I suffer at their hand.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span>
-<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then they caught on that he was talking about John the Baptist.         </span></span></p>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He’s already come, and they didn’t recognize him. They treated him however they wanted to. That’s the way it’ll be, too, when I suffer at their hand.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then they caught on that he was talking about John the Baptist.   </span></span></p>
 
 <p class="section-ref">Mt 17:9-13</p>
 

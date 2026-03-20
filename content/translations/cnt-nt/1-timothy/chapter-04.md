@@ -27,8 +27,8 @@ next: chapter-05
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Stay away from profane, silly myths. Exercise yourself for godliness. </span></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Bodily exercise profits a little, but godliness profits a lot because it promises life now and later. </span></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The saying is reliable and deserves full acceptance: </span></span>
-<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“We labor and struggle because we’ve placed our hope in the living God, everybody’s Savior, specifically believers.</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>” </span></span>
-<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Teach and command that.          </span></span></p>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“We labor and struggle because we’ve placed our hope in a living God, everybody’s Savior, especially believers.</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>” </span></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Teach and command that.               </span></span></p>
 
 <p class="section-ref">1 Tim 4:6-11</p>
 

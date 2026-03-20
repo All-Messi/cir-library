@@ -68,7 +68,7 @@ we have to say here comes in association with the accompanying diagram.</span></
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                      <img width=342 height=170
+style='font-size:12.0pt'>                      <img width=340 height=170
 src="/cir-library/images/essays/structuring-the-hermeneutical-task-in-womens-studies-wisdom-or-law/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span

@@ -39,7 +39,7 @@ next: chapter-09
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    with Israel and Judah.</span></i></b></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It won’t be like the covenant</span></i></b><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I</span></i></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> made</span></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> with their ancestors</span></i></b></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It won’t be like the covenant</span></i></b><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I</span></i></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> made</span></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> with their <u>ancestors</u></span></i></b></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    when I brought them out of Egypt.</span></i></b></p>
 
@@ -55,7 +55,7 @@ next: chapter-09
 ### I’ll put my laws in their minds
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and write them on their hearts.</span></i></b></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and write them on their <u>hearts</u>.</span></i></b></p>
 
 
 ### I’ll be their God,
@@ -63,7 +63,7 @@ next: chapter-09
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and they’ll be my people.</span></i></b></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Nobody will be teaching his fellow citizen and friend,</span></i></b></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <b><i><u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Nobody will be teaching his fellow citizen </span></u></i></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and friend,</span></i></b></span></p>
 
 
 ### ‘Know the LORD.’

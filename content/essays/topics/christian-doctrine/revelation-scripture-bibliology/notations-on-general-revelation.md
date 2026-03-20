@@ -75,7 +75,7 @@ special people at special times and places.</span></p>
 style='font-size:12.0pt'>                                  </span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'><img width=162 height=98
+style='font-size:12.0pt'><img width=164 height=98
 src="/cir-library/images/essays/notations-on-general-revelation/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
@@ -180,7 +180,7 @@ answers God gives </span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'><img width=214 height=140
+style='font-size:12.0pt'><img width=216 height=138
 src="/cir-library/images/essays/notations-on-general-revelation/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span

@@ -105,7 +105,7 @@ in the highest!”
 <p class="section-ref">Mt 21:23-27</p>
 
 
-### Parable About the Two Sons
+### A Story About Two Sons
 
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“What do you think? A man had two sons. He went to the first,<span style='color:#00B050'>
@@ -124,15 +124,15 @@ in the highest!”
 <p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus said<sup>p</sup>,
 </span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:27.0pt;margin-bottom: 0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Tax collectors and prostitutes are going into God’s kingdom before you are. </span></i><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>John came telling you to live right, and you didn’t believe him; but tax collectors and prostitutes did. But <u>you</u>, when you saw that, didn’t even regret it later and believe him.</span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:#00B050'>             </span></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-right:31.5pt;margin-bottom: 0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Tax collectors and prostitutes are going into God’s kingdom before you are. </span></i><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>John came telling you to live right, and you didn’t believe him; but tax collectors and prostitutes did. But <u>you</u>, when you saw that, didn’t even regret it later and believe him.</span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:#00B050'>                                                                                           </span></span></p>
 
 <p class="section-ref">Mt 21:28-32</p>
 
 
-### Parable About a Vineyard
+### A Story About a Vineyard
 
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Listen to another parable. A landowner planted a vineyard, put a wall around it, dug a wine press in it, built a tower, rented it out to tenants, and went on a trip. </span></i></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Listen to another story. A landowner planted a vineyard, put a wall around it, dug a wine press in it, built a tower, rented it out to tenants, and went on a trip. </span></i></span>
 <span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When it came time for the fruit, he sent his servants to the tenants to get his fruit. </span></i></span>
 <span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The tenants took them and beat one, murdered another, and stoned another. </span></i></span>
 <span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He sent some others—more than the first, and they did the same thing. </span></i></span>
@@ -160,7 +160,7 @@ in the highest!”
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v43" id="v43"><sup class="verse-num">43</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So God will take the kingdom away from you and give it to a nation that will produce its fruit. [[</span></i></span>
 <span class="verse verse-v44" id="v44"><sup class="verse-num">44</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Whoever falls on that stone will get bruised, and whoever it falls on will get crushed.]]<sup>ms</sup>”</span></i></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v45" id="v45"><sup class="verse-num">45</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The chief priests and the Pharisees knew he’d told his parables about them. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v45" id="v45"><sup class="verse-num">45</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The chief priests and the Pharisees knew he’d told his stories about them. </span></span>
 <span class="verse verse-v46" id="v46"><sup class="verse-num">46</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They were trying to find a way to arrest him, but they were afraid to; the people considered him a prophet.</span><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                               Mt 21:33-46</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>             </span></span></p>
 
 

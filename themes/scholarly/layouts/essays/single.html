@@ -1,4 +1,24 @@
 {{ define "main" }}
+
+{{/* ── BOOK CHAPTER NAV (only if parent section is a book) ── */}}
+{{ $isBook := eq .Parent.Params.layout "book-toc" }}
+{{ $pages := .Parent.RegularPages.ByWeight }}
+{{ $currentIdx := 0 }}
+{{ range $i, $p := $pages }}{{ if eq $p.Permalink $.Permalink }}{{ $currentIdx = $i }}{{ end }}{{ end }}
+{{ $hasPrev := gt $currentIdx 0 }}
+{{ $hasNext := lt (add $currentIdx 1) (len $pages) }}
+{{ $prev := index $pages (sub $currentIdx 1) }}
+{{ $next := index $pages (add $currentIdx 1) }}
+
+{{ if $isBook }}
+<nav class="book-chapter-nav book-chapter-nav-top">
+    <a href="{{ .Parent.Permalink }}" class="book-nav-back">← {{ .Parent.Title }}</a>
+    <span class="book-nav-chapter">Ch. {{ add $currentIdx 1 }} of {{ len $pages }}</span>
+</nav>
+{{ if $hasPrev }}<a href="{{ $prev.Permalink }}" class="book-float-arrow book-float-prev" title="Previous chapter">‹</a>{{ end }}
+{{ if $hasNext }}<a href="{{ $next.Permalink }}" class="book-float-arrow book-float-next" title="Next chapter">›</a>{{ end }}
+{{ end }}
+
 <article class="essay">
     <header class="essay-header">
         <h1>{{ .Title }}</h1>
@@ -112,4 +132,6 @@
     }
 })();
 </script>
+
+
 {{ end }}

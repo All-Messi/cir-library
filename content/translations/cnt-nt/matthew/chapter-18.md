@@ -65,8 +65,8 @@ next: chapter-19
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The kingdom of heaven is like a king that wanted to settle accounts with his servants. </span></i></span>
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As he was making the settlements, one debtor was brought to him that owed 10,000 talents. </span></i></span>
 <span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Since he couldn’t repay it, the lord commanded his wife, children, and everything he owned to be sold to make the repayment. </span></i></span>
-<span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The servant prostrated himself and pleaded with him, ‘Be patient with me, and I’ll repay it all.’ </span></i></span>
-<span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The lord felt sorry for him, let him go, and forgave his debt.</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span></b></span></p>
+<span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The servant prostrated himself and pleaded, ‘Be patient with me, and I’ll repay it all.’ </span></i></span>
+<span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The lord felt sorry for him, let him go, and forgave his debt.</span></i></span></span></p>
 
 <p class="section-ref">Mt 18:21-27</p>
 

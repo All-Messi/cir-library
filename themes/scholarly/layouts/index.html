@@ -143,7 +143,7 @@
             <div class="hp-bookcard-cat">Theology</div>
             <h3>Christian Living</h3>
             <p>An accessible foundation in core Christian doctrine and belief.</p>
-            <a href="{{ "categories/christian-living/" | absURL }}" class="hp-cta">Read</a>
+            <a href="{{ "essays/topics/christian-living/" | absURL }}" class="hp-cta">Read</a>
           </div>
         </div>
         <div class="hp-bookcard hp-bs-theology">
@@ -250,49 +250,21 @@
 </div><!-- /.home-page -->
 
 <style>
-/* ── Break homepage out of the base .container ── */
-.site-main:has(.home-page) > .container {
-  max-width: none !important;
-  padding: 0 !important;
-}
-.site-main:has(.home-page) {
-  padding-bottom: 0 !important;
-}
+/* ── Homepage: break out of base container ── */
+.site-main:has(.home-page) > .container { max-width: none !important; padding: 0 !important; }
+.site-main:has(.home-page) { padding-bottom: 0 !important; }
 
-/* ════════════════════════════════
-   HOMEPAGE BASE
-════════════════════════════════ */
+/* ── Homepage layout tokens ── */
 .home-page { font-family: 'Source Sans Pro', sans-serif; }
-
 .hp-inner { max-width: 1100px; margin: 0 auto; padding: 0 2rem; }
-
-/* Section heading rule */
+.hp-section { padding: 3.5rem 0 3.25rem; }
 .hp-sec-head { display: flex; align-items: center; gap: 1rem; margin-bottom: 2rem; }
 .hp-rule-line { flex: 1; height: 1px; background: #ddd8ce; }
 .hp-sec-title { font-family: 'Source Sans Pro', sans-serif; font-size: 0.65rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.2em; color: #9a9896; white-space: nowrap; }
 .hp-sec-head-dark .hp-rule-line { background: rgba(255,255,255,0.12); }
 .hp-sec-head-dark .hp-sec-title { color: rgba(168,210,180,0.55); }
 
-/* CTA link */
-.hp-cta { font-family: 'Source Sans Pro', sans-serif; font-size: 0.68rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.09em; display: inline-flex; align-items: center; gap: 4px; color: #444; text-decoration: none; transition: color .15s; }
-.hp-cta::after { content: '→'; }
-.hp-cta:hover { color: #000; }
-.hp-cta-light { color: rgba(168,210,180,.8); font-size: 0.7rem; letter-spacing: 0.12em; }
-.hp-cta-light:hover { color: #c8e8d0; }
-
-/* Category chip */
-.hp-chip { display: inline-block; font-family: 'Source Sans Pro', sans-serif; font-size: 0.58rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.16em; color: #888; background: #f2efea; padding: 0.22rem 0.55rem; border-radius: 2px; margin-bottom: 0.75rem; }
-
-/* Grids */
-.hp-g3 { display: grid; grid-template-columns: repeat(3,1fr); gap: 1.25rem; }
-.hp-g5 { display: grid; grid-template-columns: repeat(5,1fr); gap: 1rem; }
-.hp-g6 { display: grid; grid-template-columns: repeat(3,1fr); gap: 1.25rem; }
-.hp-g2c { display: grid; grid-template-columns: repeat(2,1fr); gap: 1.25rem; max-width: 720px; margin: 0 auto; }
-.hp-mb { margin-bottom: 1.25rem; }
-
-/* ════════════════════════════════
-   HERO
-════════════════════════════════ */
+/* ── Hero ── */
 .hp-hero { background: #fff; border-bottom: 1px solid #ebebeb; text-align: center; }
 .hp-hero-inner { padding: 3.75rem 2.5rem 3.25rem; max-width: 740px; margin: 0 auto; }
 .hp-eyebrow { display: inline-block; font-family: 'Source Sans Pro', sans-serif; font-size: 0.62rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.3em; color: #999; margin-bottom: 1.1rem; }
@@ -302,32 +274,23 @@
 .hp-lead { font-family: 'Source Sans Pro', sans-serif; font-size: 1.05rem; font-weight: 300; max-width: 540px; margin: 0 auto; line-height: 1.75; color: #555; }
 .hp-lead strong { font-weight: 500; color: #2f4c3a; }
 
-/* ════════════════════════════════
-   SECTION 1: MAIN
-════════════════════════════════ */
+/* ── Section 1: Main cards ── */
 .hp-main { background: #f8f6f2; border-bottom: 1px solid #eceae6; }
-
 .hp-main-card { background: #fff; padding: 1.5rem 1.4rem; border: 1px solid #e3e0d8; border-radius: 3px; display: flex; flex-direction: column; align-items: flex-start; text-align: left; transition: border-color .2s, box-shadow .2s, transform .2s; }
 .hp-main-card:hover { border-color: #b8b3a8; box-shadow: 0 3px 12px rgba(0,0,0,.06); transform: translateY(-2px); }
 .hp-main-card h3 { font-family: 'Playfair Display', serif; font-size: 1.1rem; font-weight: 700; color: #1a1a18; margin-bottom: 0.4rem; line-height: 1.25; margin-top: 0; }
 .hp-main-card p { font-family: 'Source Sans Pro', sans-serif; font-size: 0.79rem; color: #666; line-height: 1.58; margin-bottom: 1rem; flex: 1; }
 
-/* ════════════════════════════════
-   SECTION 2: SCRIPTURE
-════════════════════════════════ */
+/* ── Section 2: Scripture cards ── */
 .hp-scripture { background: #f5f2ec; border-top: 1px solid #e8e4dc; border-bottom: 1px solid #e8e4dc; }
 .hp-scripture .hp-rule-line { background: #d8d2c6; }
-
 .hp-sc-card { background: #fff; padding: 1.75rem 1.5rem 1.6rem; border: 1px solid #e3dfd8; border-top: 3px solid #3d3830; border-radius: 2px; display: flex; flex-direction: column; transition: box-shadow .2s, transform .2s; }
 .hp-sc-card:hover { box-shadow: 0 4px 18px rgba(0,0,0,.08); transform: translateY(-2px); }
 .hp-sc-card h3 { font-family: 'Playfair Display', serif; font-size: 1.1rem; font-weight: 700; color: #1a1a18; margin-bottom: 0.45rem; line-height: 1.25; margin-top: 0; }
 .hp-sc-card p { font-family: 'Source Sans Pro', sans-serif; font-size: 0.8rem; color: #666; line-height: 1.58; flex: 1; margin-bottom: 0.95rem; }
 
-/* ════════════════════════════════
-   SECTION 3: COMMUNION
-════════════════════════════════ */
+/* ── Section 3: Communion ── */
 .hp-communion { background: #1e2e24; }
-
 .hp-communion-inner { display: flex; align-items: center; gap: 4rem; }
 .hp-communion-text { flex: 1; }
 .hp-communion-text h2 { font-family: 'Playfair Display', serif; font-size: 1.75rem; font-weight: 700; color: #f0ece0; margin-bottom: 0.75rem; line-height: 1.2; margin-top: 0; }
@@ -338,41 +301,21 @@
 .hp-big-num sup { font-size: 2rem; }
 .hp-big-label { font-family: 'Source Sans Pro', sans-serif; font-size: 0.6rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.2em; color: rgba(168,210,180,.45); display: block; margin-top: 0.45rem; }
 
-/* ════════════════════════════════
-   SECTION 4: COMPLETE BOOKS
-════════════════════════════════ */
+/* ── Section 4: Books section background ── */
 .hp-books { background: #faf8f5; border-top: 1px solid #eceae6; border-bottom: 1px solid #eceae6; }
 .hp-books .hp-rule-line { background: #d8d2c6; }
 
-.hp-bookcard { background: #fff; border-radius: 3px 5px 5px 3px; border: 1px solid #d8d3c8; border-left: none; display: flex; flex-direction: column; position: relative; overflow: hidden; min-height: 270px; box-shadow: -3px 0 0 #e0dad0,-5px 0 0 #d0c8bc,-7px 0 0 #bfb8ac,3px 4px 12px rgba(0,0,0,.13); transition: transform .2s, box-shadow .2s; }
-.hp-bookcard:hover { transform: translateY(-3px); box-shadow: -3px 0 0 #e0dad0,-5px 0 0 #d0c8bc,-7px 0 0 #bfb8ac,5px 10px 22px rgba(0,0,0,.18); }
-.hp-bookcard::before { content: ''; position: absolute; top: 0; left: 0; bottom: 0; width: 8px; }
-.hp-bs-interp::before    { background: linear-gradient(180deg,#1e3048,#2a4a6a); }
-.hp-bs-theology::before  { background: linear-gradient(180deg,#1e3d28,#2a5438); }
-.hp-bs-commentary::before{ background: linear-gradient(180deg,#5c3018,#7a4020); }
-.hp-bs-evidences::before { background: linear-gradient(180deg,#3a2840,#543a58); }
-.hp-bookcard-body { padding: 1.6rem 1.3rem 1.5rem 1.75rem; display: flex; flex-direction: column; flex: 1; }
-.hp-bookcard-cat { font-family: 'Source Sans Pro', sans-serif; font-size: 0.58rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.16em; color: #888; margin-bottom: 0.45rem; }
-.hp-bookcard h3 { font-family: 'Playfair Display', serif; font-size: 1rem; font-weight: 700; color: #1a1a1a; line-height: 1.25; margin-bottom: 0.5rem; margin-top: 0; }
-.hp-bookcard p { font-family: 'Source Sans Pro', sans-serif; font-size: 0.74rem; color: #666; line-height: 1.55; flex: 1; margin-bottom: 0.9rem; }
-
-/* ════════════════════════════════
-   SECTION 5: ESSAYS
-════════════════════════════════ */
+/* ── Section 5: Essays ── */
 .hp-essays { background: #fff; border-top: 1px solid #eceae6; }
-
 .hp-essay-card { background: #fff; padding: 1.5rem 1.4rem; border: 1px solid #e3e0d8; border-radius: 3px; display: flex; flex-direction: column; transition: border-color .2s, box-shadow .2s, transform .2s; }
 .hp-essay-card:hover { border-color: #b8b3a8; box-shadow: 0 3px 12px rgba(0,0,0,.06); transform: translateY(-2px); }
 .hp-essay-card h3 { font-family: 'Playfair Display', serif; font-size: 1.1rem; font-weight: 700; color: #1a1a18; margin-bottom: 0.4rem; line-height: 1.25; margin-top: 0; }
 .hp-essay-card p { font-family: 'Source Sans Pro', sans-serif; font-size: 0.79rem; color: #666; line-height: 1.58; flex: 1; margin-bottom: 1rem; }
-
 .hp-browse-all { text-align: center; margin-top: 2rem; padding-top: 2rem; border-top: 1px solid #eceae6; }
 .hp-browse-all-btn { font-family: 'Source Sans Pro', sans-serif; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.12em; color: #333; border: 1px solid #ccc; border-radius: 3px; padding: 0.65rem 1.75rem; display: inline-block; text-decoration: none; transition: border-color .2s, color .2s, background .2s; }
 .hp-browse-all-btn:hover { border-color: #888; color: #111; background: #f7f5f1; }
 
-/* ════════════════════════════════
-   STATS BAND
-════════════════════════════════ */
+/* ── Stats band ── */
 .hp-stats-band { background: #131313; padding: 3rem 2rem; }
 .hp-stats-inner { max-width: 860px; margin: 0 auto; display: flex; align-items: stretch; }
 .hp-stat { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 0.5rem 1.5rem; border-right: 1px solid #2a2a2a; }
@@ -380,163 +323,62 @@
 .hp-stat-num { font-family: 'Playfair Display', serif; font-size: 2.6rem; font-weight: 700; color: #fff; line-height: 1; letter-spacing: -0.02em; }
 .hp-stat-label { font-family: 'Source Sans Pro', sans-serif; font-size: 0.6rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.18em; color: rgba(255,255,255,0.35); margin-top: 0.45rem; }
 
-/* ════════════════════════════════
-   SECTION PADDING
-════════════════════════════════ */
-.hp-section { padding: 3.5rem 0 3.25rem; }
-
-/* ════════════════════════════════
-   ACCORDION — DESKTOP: always open
-   details have `open` attr by default;
-   hide summary toggle on desktop
-════════════════════════════════ */
+/* ── Accordion (desktop: always open; mobile: collapsible) ── */
 .hp-accordion summary { display: none; }
 .hp-accordion-item { border: none; }
 .hp-accordion { border: none; }
 
-/* ════════════════════════════════
-   RESPONSIVE — TABLET
-════════════════════════════════ */
+/* ── Tablet ── */
 @media (max-width: 960px) {
-  .hp-g5 { grid-template-columns: repeat(3,1fr); }
   .hp-communion-inner { gap: 2rem; }
 }
 @media (max-width: 720px) {
-  .hp-g3, .hp-g6 { grid-template-columns: repeat(2,1fr); }
-  .hp-g5 { grid-template-columns: repeat(2,1fr); }
-  .hp-g2c { grid-template-columns: 1fr; }
   .hp-title { font-size: 2.2rem; }
   .hp-communion-inner { flex-direction: column; gap: 2rem; }
   .hp-communion-count { border-left: none; padding-left: 0; border-top: 1px solid rgba(255,255,255,.1); padding-top: 2rem; }
 }
 
-/* ════════════════════════════════
-   RESPONSIVE — MOBILE (< 540px)
-   Accordion pattern: main cards always
-   visible; lower sections collapse
-════════════════════════════════ */
+/* ── Mobile (< 540px) ── */
 @media (max-width: 540px) {
-
-  /* Prevent any horizontal overflow */
   .home-page { overflow-x: hidden; }
-
-  /* Hero tighter */
   .hp-hero-inner { padding: 2.25rem 1.25rem 2rem; }
   .hp-title { font-size: 1.85rem; }
   .hp-lead { font-size: 0.95rem; }
-
-  /* Inner padding tighter */
   .hp-inner { padding: 0 1.1rem; }
   .hp-section { padding: 0; }
-
-  /* Main cards: single column, compact */
   .hp-main { padding: 1.75rem 0 1.5rem; }
-  .hp-g3, .hp-g6, .hp-g5, .hp-g2c { grid-template-columns: 1fr; gap: 0.75rem; }
   .hp-mb { margin-bottom: 0.75rem; }
   .hp-main-card { padding: 1.1rem 1rem; }
-
-  /* ── ACCORDION WRAPPER ──
-     Sections below main collapse on mobile */
   .hp-accordion { border-top: 1px solid #eceae6 !important; }
   .hp-accordion-item { border-bottom: 1px solid #eceae6 !important; }
-
-  /* Hide the normal section structure inside accordion on mobile */
   .hp-accordion .hp-section { display: block; padding: 0; }
   .hp-accordion .hp-inner { padding: 0; }
   .hp-accordion .hp-sec-head { display: none; }
-
-  /* Restore accordion behavior on mobile */
   .hp-accordion summary { display: flex !important; }
-
-  /* <details> / <summary> styling */
   .hp-accordion details { background: #fff; }
   .hp-accordion details.hp-dark { background: #1e2e24; }
   .hp-accordion details.hp-offwhite { background: #faf8f5; }
   .hp-accordion details.hp-cream { background: #f5f2ec; }
-
-  .hp-accordion summary {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 1rem 1.25rem;
-    font-family: 'Source Sans Pro', sans-serif;
-    font-size: 0.72rem;
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: 0.18em;
-    color: #666;
-    cursor: pointer;
-    list-style: none;
-    user-select: none;
-    -webkit-tap-highlight-color: transparent;
-  }
+  .hp-accordion summary { display: flex; align-items: center; justify-content: space-between; padding: 1rem 1.25rem; font-family: 'Source Sans Pro', sans-serif; font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.18em; color: #666; cursor: pointer; list-style: none; user-select: none; -webkit-tap-highlight-color: transparent; }
   .hp-accordion details.hp-dark summary { color: rgba(168,210,180,0.7); }
   .hp-accordion summary::-webkit-details-marker { display: none; }
-  .hp-accordion summary::after {
-    content: '+';
-    font-size: 1.1rem;
-    font-weight: 300;
-    color: #aaa;
-    line-height: 1;
-    transition: transform .2s;
-  }
+  .hp-accordion summary::after { content: '+'; font-size: 1.1rem; font-weight: 300; color: #aaa; line-height: 1; transition: transform .2s; }
   .hp-accordion details.hp-dark summary::after { color: rgba(168,210,180,0.5); }
   .hp-accordion details[open] summary::after { content: '−'; }
-
-  /* Content inside open accordion */
-  .hp-accordion details > .hp-accordion-content {
-    padding: 0 1.1rem 1.5rem;
-  }
-  .hp-accordion details.hp-dark > .hp-accordion-content {
-    padding: 0 1.1rem 1.75rem;
-  }
-
-  /* Scripture cards on mobile */
+  .hp-accordion details > .hp-accordion-content { padding: 0 1.1rem 1.5rem; }
+  .hp-accordion details.hp-dark > .hp-accordion-content { padding: 0 1.1rem 1.75rem; }
   .hp-sc-card { padding: 1.2rem 1rem; }
-
-  /* Communion on mobile */
   .hp-communion-inner { flex-direction: column; gap: 1.5rem; }
   .hp-communion-count { border-left: none; padding-left: 0; border-top: 1px solid rgba(255,255,255,.1); padding-top: 1.5rem; }
   .hp-big-num { font-size: 3.2rem; }
   .hp-communion-text h2 { font-size: 1.4rem; }
-
-  /* Book cards: horizontal scroll shelf on mobile */
-  .hp-g5 {
-    grid-template-columns: unset !important;
-    display: flex !important;
-    overflow-x: auto;
-    scroll-snap-type: x mandatory;
-    gap: 0.85rem;
-    padding-bottom: 0.75rem;
-    -webkit-overflow-scrolling: touch;
-  }
-  .hp-bookcard {
-    min-width: 180px;
-    max-width: 180px;
-    min-height: 240px;
-    flex-shrink: 0;
-    scroll-snap-align: start;
-  }
-
-  /* Essays: single col */
   .hp-essay-card { padding: 1.1rem 1rem; }
-
-  /* Stats: 2x2 */
   .hp-stats-inner { flex-wrap: wrap; }
-  .hp-stat {
-    flex: 0 0 50%;
-    border-right: none;
-    border-bottom: 1px solid #2a2a2a;
-    padding: 1.25rem 1rem;
-  }
+  .hp-stat { flex: 0 0 50%; border-right: none; border-bottom: 1px solid #2a2a2a; padding: 1.25rem 1rem; }
   .hp-stat:nth-child(odd) { border-right: 1px solid #2a2a2a; }
   .hp-stat:nth-child(3), .hp-stat:nth-child(4) { border-bottom: none; }
   .hp-stat-num { font-size: 2rem; }
-
-  /* Browse all button full width */
   .hp-browse-all-btn { display: block; text-align: center; }
-
-  /* Footer */
   .sfn-inner { grid-template-columns: 1fr !important; gap: 1.5rem !important; }
 }
 </style>

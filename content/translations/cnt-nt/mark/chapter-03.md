@@ -64,9 +64,9 @@ next: chapter-04
 
 
 <p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>He came<sup>p</sup> home, and again such a crowd gathered<sup>p</sup> that <i>he and his disciples</i> couldn’t even eat. </span></span>
-<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>When his neighbors heard about it, they went out to rescue him, because they said he was out of his mind. </span></span>
-<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Scribes from Jerusalem were saying he had Beelzebub—that he was casting out demons by the ruler of demons. </span></span>
-<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>He called them over and gave them an illustration: </span></span></p>
+<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>When his neighbors heard about it, they went out to rescue him because they said he was out of his mind. </span></span>
+<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Scribes, down from Jerusalem, started claiming he had Beelzebub—that he was casting out demons by the ruler of demons. </span></span>
+<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>He called them over and gave them an illustration: </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;line-height:normal'><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“What sense does it make to say Satan casts out Satan? </span></i><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>A kingdom at cross purposes with itself can’t stand. </span></i></span>
 <span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>A family at cross purposes with itself can’t stand. </span></i></span>
@@ -87,13 +87,13 @@ next: chapter-04
 ### Interrupt His Ministry
 
 
-<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>His mother and brothers came<sup>p</sup> and stood outside and sent him a message, calling him. </span></span>
-<span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>The crowd sitting around said<sup>p</sup>, <i>“Your mother and brothers are outside, wanting to talk to you.” </i></span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>His mother and brothers came<sup>p</sup> and stood outside and sent a message, calling him. </span></span>
+<span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>The crowd sitting around him said<sup>p</sup>, <i>“Your mother and brothers [and sisters] are outside, they want to talk to you.” </i></span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'> </span><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>He answered<sup>p</sup>,
 <i>“Who are my mother and my brothers?” </i></span></span>
-<span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>He looked around at the ones sitting around him, <i>“My mother and my brothers! </i></span></span>
-<span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Whoever does God’s will, is my brother, my sister, my mother.”</span></i><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                                  </span></b></span></span></p>
+<span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>He looked all around at the ones, <i>“My mother and my brothers! </i></span></span>
+<span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Whoever does God’s will, is my brother, my sister, my mother.”</span></i><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                                                             </span></b></span></span></p>
 
 <p class="section-ref">Mk 3:31-35</p>
 

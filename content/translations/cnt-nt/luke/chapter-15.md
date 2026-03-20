@@ -12,13 +12,13 @@ next: chapter-16
 ## Luke Chapter 15
 
 
-### Parable About the Lost Sheep
+### Story About a Lost Sheep
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Tax collectors and sinners were coming to listen to him. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Pharisees and scribes started grumbling,<i> “This fellow welcomes sinners and eats with them.” </i></span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told them this parable. </span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told them this story. </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“What man that has a 100 sheep and loses one, doesn’t leave the 99 in the open country and go looking for the one that’s lost? </span></i></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> </span></p>
@@ -29,7 +29,7 @@ next: chapter-16
 <p class="section-ref">Lk 15:1-7</p>
 
 
-### Parable About the Lost Coin
+### Story About a Lost Coin
 
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“What woman that has 10 coins and loses one, doesn’t light a lamp, sweep the house, and keep looking till she finds it? </span></i></span>
@@ -39,7 +39,7 @@ next: chapter-16
 <p class="section-ref">Lk 15:8-10</p>
 
 
-### Parable About the Prodigal Son
+### Story About a Prodigal Son
 
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“A man had two sons. </span></i></span>

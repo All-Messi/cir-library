@@ -58,7 +58,7 @@ style='font-size:12.0pt'> </span></i></b></p>
 style='font-size:12.0pt'>&nbsp;</span></i></p>
 
 <p class=MsoNormal style='margin-right:-.25in;text-align:justify'><b><span
-style='font-size:12.0pt'>                     <img width=298 height=50
+style='font-size:12.0pt'>                     <img width=295 height=52
 src="/cir-library/images/essays/2-timothy-316/image001.png"></span></b></p>
 
 <p class=MsoNormal style='margin-right:-.25in;text-align:justify'><span

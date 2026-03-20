@@ -34,7 +34,7 @@ next: chapter-02
 ### ‘Get the road ready for the LORD!
 
 
-<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><b><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                        Make it straight’”</span></i></b><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'> [</span></b><b><span style='font-size:9.0pt;font-family:"Times New Roman",serif'>Is 40:3]</span></b><span style='font-size:9.0pt;font-family:"Times New Roman",serif'>!</span></p>
+<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><b><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                        Make it straight</span></i></b><b><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>!’”</span></i></b><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'> [</span></b><b><span style='font-size:9.0pt;font-family:"Times New Roman",serif'>Is 40:3</span></b><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>]</span></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>John came baptizing in the desert and preaching a baptism of repentance to forgive sins. </span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>The people from<b>
@@ -133,8 +133,9 @@ next: chapter-02
 <span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Simon and the others hunted for him </span></span>
 <span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>till they found him; <i>“Everybody’s looking for you.”</i></span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>He said<sup>p</sup>, <i>“Let’s go to the villages nearby so I can preach there. That’s the </i>main<i> reason I came.”</i> </span></span>
-<span class="verse verse-v39" id="v39"><sup class="verse-num">39</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>He went around preaching in their synagogues all over Galilee and casting out demons.                                                                                                                               </span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>He said<sup>p</sup>, <i>“Let’s go to the villages nearby so I can preach there too. That’s the </i>main<i> reason I came out here.”</i>
+</span></span>
+<span class="verse verse-v39" id="v39"><sup class="verse-num">39</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>He went around preaching in their synagogues and casting out demons all over Galilee.                                           </span><b><span style='font-size:10.0pt;font-family:"Times New Roman",serif'>Mk 1:35-39</span></b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                                                                        </span></span></p>
 
 <p class="section-ref">Mk 1:35-39</p>
 
@@ -145,8 +146,8 @@ next: chapter-02
 <p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>A leper came<sup>p</sup> and pleaded with him on his knees, <i>“If you’re willing, you can cleanse me.” </i></span></span>
 <span class="verse verse-v41" id="v41"><sup class="verse-num">41</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>He felt sorry for him and reached out and touched him, <i>“I’m willing; be cleansed.”</i> </span></span>
 <span class="verse verse-v42" id="v42"><sup class="verse-num">42</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Instantly his leprosy disappeared. </span></span>
-<span class="verse verse-v43" id="v43"><sup class="verse-num">43</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>Jesus spoke strictly to him and sent him off at once, </span></span>
-<span class="verse verse-v44" id="v44"><sup class="verse-num">44</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“Keep this to yourself, show yourself to a priest, and offer for your purification what Moses commanded for a public testimony.</span></i><b><i><sup><span style='font-size: 14.0pt;font-family:"Times New Roman",serif'>”</span></sup></i></b><b><sup><span style='font-size:14.0pt;font-family:"Times New Roman",serif'> 45</span></sup></b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>But he went out and spread it around, so Jesus had a hard time going into a town openly anymore. He stayed out in open areas, and people were coming to him from everywhere.</span></span></p>
+<span class="verse verse-v43" id="v43"><sup class="verse-num">43</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>Jesus spoke earnestly to him and sent him off at once, </span></span>
+<span class="verse verse-v44" id="v44"><sup class="verse-num">44</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“Keep this to yourself, show yourself to a priest, and offer for your purification what Moses commanded for a public testimony.</span></i><b><i><sup><span style='font-size: 14.0pt;font-family:"Times New Roman",serif'>”</span></sup></i></b><b><sup><span style='font-size:14.0pt;font-family:"Times New Roman",serif'> 45</span></sup></b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>But he went out and started spreading it around, so Jesus had a hard time going into a town openly anymore. He stayed out in rural areas, and people were coming to him from everywhere.</span></span></p>
 
 <p class="section-ref">Mk 1:40-45</p>
 
