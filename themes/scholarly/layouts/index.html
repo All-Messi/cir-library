@@ -386,6 +386,28 @@
 .hp-section { padding: 3.5rem 0 3.25rem; }
 
 /* ════════════════════════════════
+   ACCORDION — DESKTOP: always open
+   details/summary are HTML-native;
+   on desktop we force them fully open
+   and hide the summary toggle entirely
+════════════════════════════════ */
+.hp-accordion details {
+  display: block;
+}
+.hp-accordion details > .hp-accordion-content {
+  display: block !important;
+}
+.hp-accordion summary {
+  display: none;
+}
+.hp-accordion-item {
+  border: none;
+}
+.hp-accordion {
+  border: none;
+}
+
+/* ════════════════════════════════
    RESPONSIVE — TABLET
 ════════════════════════════════ */
 @media (max-width: 960px) {
@@ -428,13 +450,18 @@
 
   /* ── ACCORDION WRAPPER ──
      Sections below main collapse on mobile */
-  .hp-accordion { border-top: 1px solid #eceae6; }
-  .hp-accordion-item { border-bottom: 1px solid #eceae6; }
+  .hp-accordion { border-top: 1px solid #eceae6 !important; }
+  .hp-accordion-item { border-bottom: 1px solid #eceae6 !important; }
 
   /* Hide the normal section structure inside accordion on mobile */
   .hp-accordion .hp-section { display: block; padding: 0; }
   .hp-accordion .hp-inner { padding: 0; }
   .hp-accordion .hp-sec-head { display: none; }
+
+  /* Restore accordion behavior on mobile */
+  .hp-accordion details > .hp-accordion-content { display: none !important; }
+  .hp-accordion details[open] > .hp-accordion-content { display: block !important; }
+  .hp-accordion summary { display: flex !important; }
 
   /* <details> / <summary> styling */
   .hp-accordion details { background: #fff; }
