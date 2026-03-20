@@ -63,7 +63,7 @@
        2. SCRIPTURE RESOURCES
   ══════════════════════════════ -->
   <div class="hp-accordion-item">
-  <details class="hp-cream">
+  <details class="hp-cream" open>
     <summary>Scripture Resources</summary>
     <div class="hp-accordion-content">
   <section class="hp-section hp-scripture">
@@ -96,7 +96,7 @@
        3. COMMUNION MEDITATIONS
   ══════════════════════════════ -->
   <div class="hp-accordion-item">
-  <details class="hp-dark">
+  <details class="hp-dark" open>
     <summary>Communion Meditations</summary>
     <div class="hp-accordion-content">
   <section class="hp-section hp-communion">
@@ -123,7 +123,7 @@
        4. COMPLETE BOOKS
   ══════════════════════════════ -->
   <div class="hp-accordion-item">
-  <details class="hp-offwhite">
+  <details class="hp-offwhite" open>
     <summary>Complete Books</summary>
     <div class="hp-accordion-content">
   <section class="hp-section hp-books">
@@ -181,7 +181,7 @@
        5. ESSAYS & STUDIES
   ══════════════════════════════ -->
   <div class="hp-accordion-item">
-  <details>
+  <details open>
     <summary>Essays &amp; Studies</summary>
     <div class="hp-accordion-content">
   <section class="hp-section hp-essays">
@@ -387,25 +387,12 @@
 
 /* ════════════════════════════════
    ACCORDION — DESKTOP: always open
-   details/summary are HTML-native;
-   on desktop we force them fully open
-   and hide the summary toggle entirely
+   details have `open` attr by default;
+   hide summary toggle on desktop
 ════════════════════════════════ */
-.hp-accordion details {
-  display: block;
-}
-.hp-accordion details > .hp-accordion-content {
-  display: block !important;
-}
-.hp-accordion summary {
-  display: none;
-}
-.hp-accordion-item {
-  border: none;
-}
-.hp-accordion {
-  border: none;
-}
+.hp-accordion summary { display: none; }
+.hp-accordion-item { border: none; }
+.hp-accordion { border: none; }
 
 /* ════════════════════════════════
    RESPONSIVE — TABLET
@@ -459,8 +446,6 @@
   .hp-accordion .hp-sec-head { display: none; }
 
   /* Restore accordion behavior on mobile */
-  .hp-accordion details > .hp-accordion-content { display: none !important; }
-  .hp-accordion details[open] > .hp-accordion-content { display: block !important; }
   .hp-accordion summary { display: flex !important; }
 
   /* <details> / <summary> styling */
@@ -555,4 +540,12 @@
   .sfn-inner { grid-template-columns: 1fr !important; gap: 1.5rem !important; }
 }
 </style>
+<script>
+// On mobile, close all accordion details so they start collapsed
+if (window.innerWidth <= 540) {
+  document.querySelectorAll('.hp-accordion details').forEach(function(d) {
+    d.removeAttribute('open');
+  });
+}
+</script>
 {{ end }}
