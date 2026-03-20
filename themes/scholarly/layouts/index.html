@@ -286,8 +286,9 @@
 /* ── Section 1: Main cards ── */
 .hp-main { background: #f8f6f2; border-bottom: 1px solid #eceae6; }
 /* Base card */
-.hp-main-card { background: #fff; padding: 1.5rem 1.4rem; border: 1px solid #e3e0d8; border-radius: 3px; display: flex; flex-direction: column; align-items: flex-start; text-align: left; transition: border-color .2s, box-shadow .2s, transform .2s; }
+.hp-main-card { background: #fff; padding: 1.5rem 1.4rem; border: 1px solid #e3e0d8; border-radius: 3px; display: flex; flex-direction: column; align-items: flex-start; text-align: left; transition: border-color .2s, box-shadow .2s, transform .2s; position: relative; }
 .hp-main-card:hover { border-color: #b8b3a8; box-shadow: 0 3px 12px rgba(0,0,0,.06); transform: translateY(-2px); }
+.hp-main-card .hp-cta::after { content: ''; position: absolute; inset: 0; z-index: 1; border-radius: 3px; }
 .hp-main-card h3 { font-family: 'Playfair Display', serif; font-size: 1.3rem; font-weight: 700; color: #2f4c3a; margin-bottom: 0.4rem; line-height: 1.25; margin-top: 0; }
 .hp-main-card p { font-family: 'Source Sans Pro', sans-serif; font-size: 0.79rem; color: #666; line-height: 1.58; margin-bottom: 1rem; flex: 1; }
 /* Big 3 primary cards */
