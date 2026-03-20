@@ -7,7 +7,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: BUILDING LIFE ON A FIRM FOUNDATION
-weight: 0
+weight: 13
 ---
 
 <style>

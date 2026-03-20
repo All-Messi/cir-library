@@ -10,7 +10,7 @@ draft: false
 title: "II. \tSELECTED LINGUISTIC PHENOMENA (Note Dr. Warren’s Ph.D. dissertation\
   \ The Implication of Divine Self-Consistency for the Doctrine of Natural Depravity,\
   \ pp. 152-70.)"
-weight: 10
+weight: 104
 ---
 
 <style>

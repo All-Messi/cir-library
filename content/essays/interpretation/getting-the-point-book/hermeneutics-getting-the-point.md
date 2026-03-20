@@ -6,7 +6,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: 'HERMENEUTICS: GETTING THE POINT:'
-weight: 0
+weight: 2
 ---
 
 <style>

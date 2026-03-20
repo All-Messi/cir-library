@@ -1,0 +1,39 @@
+name: Deploy to christir.org (Production)
+
+on:
+  workflow_dispatch:  # Manual trigger only — click "Run workflow" in GitHub Actions
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    env:
+      HUGO_VERSION: 0.145.0
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+
+      - name: Install Hugo
+        run: |
+          wget -O ${{ runner.temp }}/hugo.deb \
+            https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
+          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
+
+      - name: Build for production
+        env:
+          HUGO_ENVIRONMENT: production
+        run: |
+          hugo \
+            --minify \
+            --baseURL "https://christir.org/"
+
+      - name: Deploy to christir-org repo
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          personal_token: ${{ secrets.PRODUCTION_DEPLOY_TOKEN }}
+          external_repository: All-Messi/christir-org
+          publish_branch: main
+          publish_dir: ./public
+          cname: christir.org
+          commit_message: "Deploy from cir-library@${{ github.sha }}"

@@ -6,7 +6,7 @@ categories:
 date: '2026-02-16'
 draft: false
 title: III. GENERAL MECHANICS BEHIND INTERPRETATION         Virgil Warren, PhD
-weight: 12
+weight: 10
 ---
 
 <style>
