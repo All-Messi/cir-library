@@ -289,6 +289,32 @@
     .section-header h1 {
         font-size: 1.75rem;
     }
+
+    .translation-actions {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+
+    .translation-actions .btn {
+        font-size: 0.8rem;
+        padding: 0.5rem 1rem;
+        border-radius: 6px;
+        flex: none;
+        width: 100%;
+        text-align: center;
+    }
+
+    .translation-actions .btn-primary {
+        background: var(--color-primary, #000);
+        color: #fff;
+        border-color: var(--color-primary, #000);
+    }
+
+    .translation-actions .btn-secondary {
+        background: transparent;
+        color: var(--color-text-secondary, #555);
+        border-color: var(--color-border, #e5e5e5);
+    }
 }
 </style>
 {{ end }}
