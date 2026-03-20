@@ -1,4 +1,9 @@
 {{ define "main" }}
+{{ $allEssays := where site.RegularPages "Section" "essays" }}
+{{ $essayCount := len $allEssays }}
+{{ $communionSection := site.GetPage "/essays/ministry/communion-meditations" }}
+{{ $communionCount := 0 }}
+{{ if $communionSection }}{{ $communionCount = len $communionSection.RegularPagesRecursive }}{{ end }}
 <div class="home-page">
 
   <!-- ══════════════════════════════
@@ -109,7 +114,7 @@
           <a href="{{ "essays/ministry/communion-meditations/" | absURL }}" class="hp-cta hp-cta-light">Read Meditations</a>
         </div>
         <div class="hp-communion-count">
-          <span class="hp-big-num">150<sup>+</sup></span>
+          <span class="hp-big-num">{{ $communionCount }}<sup>+</sup></span>
           <span class="hp-big-label">Meditations</span>
         </div>
       </div>
@@ -240,8 +245,8 @@
   <!-- STATS BAND -->
   <div class="hp-stats-band">
     <div class="hp-stats-inner">
-      <div class="hp-stat"><span class="hp-stat-num">500+</span><span class="hp-stat-label">Essays &amp; Studies</span></div>
-      <div class="hp-stat"><span class="hp-stat-num">150+</span><span class="hp-stat-label">Communion Meditations</span></div>
+      <div class="hp-stat"><span class="hp-stat-num">{{ $essayCount }}</span><span class="hp-stat-label">Essays &amp; Studies</span></div>
+      <div class="hp-stat"><span class="hp-stat-num">{{ $communionCount }}+</span><span class="hp-stat-label">Communion Meditations</span></div>
       <div class="hp-stat"><span class="hp-stat-num">5</span><span class="hp-stat-label">Complete Books</span></div>
       <div class="hp-stat"><span class="hp-stat-num">4</span><span class="hp-stat-label">Bible Translations</span></div>
     </div>
@@ -258,11 +263,15 @@
 .home-page { font-family: 'Source Sans Pro', sans-serif; }
 .hp-inner { max-width: 1100px; margin: 0 auto; padding: 0 2rem; }
 .hp-section { padding: 3.5rem 0 3.25rem; }
-.hp-sec-head { display: flex; align-items: center; gap: 1rem; margin-bottom: 2rem; }
-.hp-rule-line { flex: 1; height: 1px; background: #ddd8ce; }
-.hp-sec-title { font-family: 'Source Sans Pro', sans-serif; font-size: 0.65rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.2em; color: #9a9896; white-space: nowrap; }
-.hp-sec-head-dark .hp-rule-line { background: rgba(255,255,255,0.12); }
-.hp-sec-head-dark .hp-sec-title { color: rgba(168,210,180,0.55); }
+.hp-sec-head { margin-bottom: 1.75rem; padding-left: 0.85rem; border-left: 3px solid #2f4c3a; }
+.hp-rule-line { display: none; }
+.hp-sec-title { font-family: 'Source Sans Pro', sans-serif; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.16em; color: #2f4c3a; white-space: nowrap; }
+.hp-sec-head-dark { border-left-color: rgba(168,210,180,0.5); }
+.hp-sec-head-dark .hp-sec-title { color: rgba(168,210,180,0.85); }
+.hp-scripture .hp-sec-head { border-left-color: #3d3830; }
+.hp-scripture .hp-sec-title { color: #3d3830; }
+.hp-books .hp-sec-head { border-left-color: #3d3830; }
+.hp-books .hp-sec-title { color: #3d3830; }
 
 /* ── Hero ── */
 .hp-hero { background: #fff; border-bottom: 1px solid #ebebeb; text-align: center; }
@@ -276,10 +285,22 @@
 
 /* ── Section 1: Main cards ── */
 .hp-main { background: #f8f6f2; border-bottom: 1px solid #eceae6; }
+/* Base card */
 .hp-main-card { background: #fff; padding: 1.5rem 1.4rem; border: 1px solid #e3e0d8; border-radius: 3px; display: flex; flex-direction: column; align-items: flex-start; text-align: left; transition: border-color .2s, box-shadow .2s, transform .2s; }
 .hp-main-card:hover { border-color: #b8b3a8; box-shadow: 0 3px 12px rgba(0,0,0,.06); transform: translateY(-2px); }
-.hp-main-card h3 { font-family: 'Playfair Display', serif; font-size: 1.1rem; font-weight: 700; color: #1a1a18; margin-bottom: 0.4rem; line-height: 1.25; margin-top: 0; }
+.hp-main-card h3 { font-family: 'Playfair Display', serif; font-size: 1.3rem; font-weight: 700; color: #2f4c3a; margin-bottom: 0.4rem; line-height: 1.25; margin-top: 0; }
 .hp-main-card p { font-family: 'Source Sans Pro', sans-serif; font-size: 0.79rem; color: #666; line-height: 1.58; margin-bottom: 1rem; flex: 1; }
+/* Big 3 primary cards */
+.hp-g3 .hp-main-card { padding: 1.8rem 1.5rem; align-items: center; text-align: center; }
+.hp-g3 .hp-main-card h3 { font-size: 1.6rem; margin-bottom: 0.7rem; order: 1; }
+.hp-g3 .hp-main-card h3::after { content: ''; display: block; width: 28px; height: 2px; background: rgba(47,76,58,0.35); border-radius: 1px; margin: 0.6rem auto 0; }
+.hp-g3 .hp-main-card .hp-chip { order: 2; margin-bottom: 0.65rem; margin-top: 0.1rem; background: rgba(47,76,58,0.07); color: #6a8a72; border-radius: 20px; padding: 0.2rem 0.65rem; letter-spacing: 0.18em; font-size: 0.55rem; }
+.hp-g3 .hp-main-card p { order: 3; }
+.hp-g3 .hp-main-card .hp-cta { order: 4; }
+/* Big 2 secondary cards — slightly softer */
+.hp-g2c { border-top: 1px solid #e0dbd4; padding-top: 1.5rem; margin-top: 1.25rem; }
+.hp-g2c .hp-main-card { background: #fdfcfa; border-color: #e8e4dc; }
+.hp-g2c .hp-main-card h3 { font-size: 1.15rem; color: #3a3835; }
 
 /* ── Section 2: Scripture cards ── */
 .hp-scripture { background: #f5f2ec; border-top: 1px solid #e8e4dc; border-bottom: 1px solid #e8e4dc; }
@@ -297,7 +318,7 @@
 .hp-communion-text h2 em { font-style: italic; color: #a8d4b0; }
 .hp-communion-text p { font-family: 'Source Serif Pro', serif; font-size: 0.95rem; color: rgba(228,222,208,.7); line-height: 1.78; max-width: 520px; margin-bottom: 1.35rem; }
 .hp-communion-count { flex-shrink: 0; text-align: center; border-left: 1px solid rgba(255,255,255,.1); padding-left: 4rem; }
-.hp-big-num { font-family: 'Playfair Display', serif; font-size: 4.5rem; font-weight: 700; color: #fff; line-height: 1; display: block; letter-spacing: -0.02em; }
+.hp-big-num { font-family: 'Playfair Display', serif; font-size: 4.5rem; font-weight: 700; color: #fff; line-height: 1; display: block; letter-spacing: -0.02em; font-variant-numeric: lining-nums; font-feature-settings: "lnum"; }
 .hp-big-num sup { font-size: 2rem; }
 .hp-big-label { font-family: 'Source Sans Pro', sans-serif; font-size: 0.6rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.2em; color: rgba(168,210,180,.45); display: block; margin-top: 0.45rem; }
 
@@ -320,7 +341,7 @@
 .hp-stats-inner { max-width: 860px; margin: 0 auto; display: flex; align-items: stretch; }
 .hp-stat { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 0.5rem 1.5rem; border-right: 1px solid #2a2a2a; }
 .hp-stat:last-child { border-right: none; }
-.hp-stat-num { font-family: 'Playfair Display', serif; font-size: 2.6rem; font-weight: 700; color: #fff; line-height: 1; letter-spacing: -0.02em; }
+.hp-stat-num { font-family: 'Playfair Display', serif; font-size: 2.6rem; font-weight: 700; color: #fff; line-height: 1; letter-spacing: -0.02em; font-variant-numeric: lining-nums; font-feature-settings: "lnum"; }
 .hp-stat-label { font-family: 'Source Sans Pro', sans-serif; font-size: 0.6rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.18em; color: rgba(255,255,255,0.35); margin-top: 0.45rem; }
 
 /* ── Accordion (desktop: always open; mobile: collapsible) ── */
