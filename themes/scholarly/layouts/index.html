@@ -11,10 +11,17 @@
   ══════════════════════════════ -->
   <section class="hp-hero">
     <div class="hp-hero-inner">
-      <span class="hp-eyebrow">The Works of Dr. Virgil Warren</span>
-      <h1 class="hp-title">Christian<br><em>Internet Resources</em></h1>
-      <div class="hp-rule"></div>
-      <p class="hp-lead">Presenting essays with the characteristics of personal relationship in mind: <strong>Interpersonalism</strong></p>
+      <div class="hp-hero-photo">
+        <div class="hp-author-frame">
+          <img src="{{ "images/virgil.jpg" | absURL }}" alt="Dr. Virgil Warren" class="hp-author-img">
+        </div>
+      </div>
+      <div class="hp-hero-text">
+        <h1 class="hp-title">Christian<br><em>Internet Resources</em></h1>
+        <span class="hp-eyebrow">Virgil Warren, PhD</span>
+        <div class="hp-rule"></div>
+        <p class="hp-lead">Essays Organized Around Personal Relationship: <strong>Interpersonalism</strong></p>
+      </div>
     </div>
   </section>
 
@@ -273,11 +280,44 @@
 .hp-books .hp-sec-head { border-left-color: #3d3830; }
 .hp-books .hp-sec-title { color: #3d3830; }
 
-/* ── Hero ── */
-.hp-hero { background: #fff; border-bottom: 1px solid #ebebeb; text-align: center; }
-.hp-hero-inner { padding: 3.75rem 2.5rem 3.25rem; max-width: 740px; margin: 0 auto; }
-.hp-eyebrow { display: inline-block; font-family: 'Source Sans Pro', sans-serif; font-size: 0.62rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.3em; color: #999; margin-bottom: 1.1rem; }
-.hp-title { font-family: 'Playfair Display', serif; font-size: 3.1rem; font-weight: 700; line-height: 1.1; letter-spacing: -0.025em; color: #000; margin-bottom: 1rem; }
+/* ── Hero (two-column with author photo on left) ── */
+.hp-hero { background: #fff; border-bottom: 1px solid #ebebeb; }
+.hp-hero-inner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 3.5rem;
+  padding: 3.75rem 2.5rem 3.25rem;
+  max-width: 920px;
+  margin: 0 auto;
+}
+.hp-hero-text {
+  flex: 1;
+  text-align: center;
+}
+.hp-hero-photo {
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.hp-author-frame {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 3px solid #e8e4dc;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+}
+.hp-author-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center center;
+  display: block;
+}
+.hp-eyebrow { display: inline-block; font-family: 'Source Sans Pro', sans-serif; font-size: 0.62rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.3em; color: #999; margin-top: 0.25rem; margin-bottom: 1.1rem; }
+.hp-title { font-family: 'Playfair Display', serif; font-size: 3.1rem; font-weight: 700; line-height: 1.1; letter-spacing: -0.025em; color: #000; margin-bottom: 0.4rem; }
 .hp-title em { font-style: normal; color: #2f4c3a; }
 .hp-rule { width: 64px; height: 1px; background: linear-gradient(90deg,transparent,#c0b8a8,transparent); margin: 0 auto 1.3rem; }
 .hp-lead { font-family: 'Source Sans Pro', sans-serif; font-size: 1.05rem; font-weight: 300; max-width: 540px; margin: 0 auto; line-height: 1.75; color: #555; }
@@ -285,20 +325,17 @@
 
 /* ── Section 1: Main cards ── */
 .hp-main { background: #f8f6f2; border-bottom: 1px solid #eceae6; }
-/* Base card */
 .hp-main-card { background: #fff; padding: 1.5rem 1.4rem; border: 1px solid #e3e0d8; border-radius: 3px; display: flex; flex-direction: column; align-items: flex-start; text-align: left; transition: border-color .2s, box-shadow .2s, transform .2s; position: relative; }
 .hp-main-card:hover { border-color: #b8b3a8; box-shadow: 0 3px 12px rgba(0,0,0,.06); transform: translateY(-2px); }
 .hp-main-card .hp-cta::after { content: ''; position: absolute; inset: 0; z-index: 1; border-radius: 3px; }
 .hp-main-card h3 { font-family: 'Playfair Display', serif; font-size: 1.3rem; font-weight: 700; color: #2f4c3a; margin-bottom: 0.4rem; line-height: 1.25; margin-top: 0; }
 .hp-main-card p { font-family: 'Source Sans Pro', sans-serif; font-size: 0.79rem; color: #666; line-height: 1.58; margin-bottom: 1rem; flex: 1; }
-/* Big 3 primary cards */
 .hp-g3 .hp-main-card { padding: 1.8rem 1.5rem; align-items: center; text-align: center; }
 .hp-g3 .hp-main-card h3 { font-size: 1.6rem; margin-bottom: 0.7rem; order: 1; }
 .hp-g3 .hp-main-card h3::after { content: ''; display: block; width: 28px; height: 2px; background: rgba(47,76,58,0.35); border-radius: 1px; margin: 0.6rem auto 0; }
 .hp-g3 .hp-main-card .hp-chip { order: 2; margin-bottom: 0.65rem; margin-top: 0.1rem; background: rgba(47,76,58,0.07); color: #6a8a72; border-radius: 20px; padding: 0.2rem 0.65rem; letter-spacing: 0.18em; font-size: 0.55rem; }
 .hp-g3 .hp-main-card p { order: 3; }
 .hp-g3 .hp-main-card .hp-cta { order: 4; }
-/* Big 2 secondary cards — slightly softer */
 .hp-g2c { border-top: 1px solid #e0dbd4; padding-top: 1.5rem; margin-top: 1.25rem; }
 .hp-g2c .hp-main-card { background: #fdfcfa; border-color: #e8e4dc; }
 .hp-g2c .hp-main-card h3 { font-size: 1.15rem; color: #3a3835; }
@@ -353,9 +390,20 @@
 /* ── Tablet ── */
 @media (max-width: 960px) {
   .hp-communion-inner { gap: 2rem; }
+  .hp-hero-inner { gap: 2.5rem; }
 }
 @media (max-width: 720px) {
   .hp-title { font-size: 2.2rem; }
+  .hp-hero-inner {
+    flex-direction: column;
+    text-align: center;
+    gap: 2rem;
+    padding: 2.5rem 2rem 2.25rem;
+  }
+  .hp-hero-text { text-align: center; }
+  .hp-hero-text .hp-rule { margin: 0 auto 1.3rem; }
+  .hp-hero-text .hp-lead { margin: 0 auto; }
+  .hp-author-frame { width: 140px; height: 140px; }
   .hp-communion-inner { flex-direction: column; gap: 2rem; }
   .hp-communion-count { border-left: none; padding-left: 0; border-top: 1px solid rgba(255,255,255,.1); padding-top: 2rem; }
 }
@@ -363,7 +411,8 @@
 /* ── Mobile (< 540px) ── */
 @media (max-width: 540px) {
   .home-page { overflow-x: hidden; }
-  .hp-hero-inner { padding: 2.25rem 1.25rem 2rem; }
+  .hp-hero-inner { padding: 2rem 1.25rem 1.75rem; gap: 1.5rem; }
+  .hp-author-frame { width: 110px; height: 110px; }
   .hp-title { font-size: 1.85rem; }
   .hp-lead { font-size: 0.95rem; }
   .hp-inner { padding: 0 1.1rem; }

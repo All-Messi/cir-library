@@ -2,7 +2,7 @@
 <div class="translations-page">
     <header class="section-header">
         <h1>Bible Translations</h1>
-        <p>Dr. Virgil Warren's original Bible translations, created over decades of scholarly work. Each translation serves a specific purpose in making Scripture accessible and understandable.</p>
+        <p>Virgil Warren, PhD</p>
     </header>
 
     <!-- Bible Translations Grid -->
@@ -12,15 +12,7 @@
         <div class="translation-card">
             <div class="translation-header">
                 <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-                <span class="translation-badge">Dr. Warren</span>
             </div>
-            {{ if .Params.description }}
-            <p class="translation-desc">{{ .Params.description }}</p>
-            {{ else if .Summary }}
-            <p class="translation-desc">{{ .Summary }}</p>
-            {{ else }}
-            <p class="translation-desc">An original translation by Dr. Virgil Warren</p>
-            {{ end }}
             <div class="translation-actions">
                 {{ if eq .Params.type "harmony-home" }}
                 <a href="{{ .RelPermalink }}section-01/" class="btn btn-primary">Start Reading</a>
