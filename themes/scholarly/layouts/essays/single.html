@@ -19,55 +19,55 @@
 {{ if $hasNext }}<a href="{{ $next.Permalink }}" class="book-float-arrow book-float-next" title="Next chapter">›</a>{{ end }}
 {{ end }}
 
-<article class="essay">
-    <header class="essay-header">
-        <h1>{{ .Title }}</h1>
-        {{ if .Params.author }}
-        <p class="essay-author">{{ .Params.author }} {{ partial "pdf-link.html" . }}</p>
-        {{ end }}
-        
-        <div class="essay-badges">
-            {{ if .Params.level }}
-            <span class="level-badge level-{{ .Params.level }}">Level {{ .Params.level }}</span>
-            {{ end }}
-            {{ if .Params.greek }}
-            <span class="lang-badge">G</span>
-            {{ end }}
-            {{ if .Params.hebrew }}
-            <span class="lang-badge">H</span>
-            {{ end }}
-            {{ if .Params.substantial }}
-            <span class="substantial-badge">*</span>
-            {{ end }}
-        </div>
-        
-        {{ if .Params.categories }}
-        <div class="essay-meta">
-            <span class="categories">
-                {{ range .Params.categories }}
-                <a href="{{ "categories/" | absURL }}{{ . | urlize }}/">{{ . | lower | title }}</a>
+<div class="es-page">
+    {{ if not $isBook }}
+    <nav class="es-breadcrumb">
+        <a href="{{ "essays/" | absURL }}">Essays</a>
+        {{ range .Ancestors.Reverse }}
+            {{ if and (ne .Kind "home") (ne .Kind "taxonomy") }}
+                {{ if ne .RelPermalink ($.FirstSection.RelPermalink) }}
+                <span class="es-sep">›</span> <a href="{{ .Permalink }}">{{ .Title | lower | title }}</a>
                 {{ end }}
-            </span>
+            {{ end }}
+        {{ end }}
+    </nav>
+    {{ end }}
+
+    <header class="es-header">
+        <h1>{{ .Title | lower | title }}</h1>
+        <div class="es-header-accent"></div>
+        <div class="es-header-meta">
+            {{ if .Params.author }}<span class="es-author">{{ .Params.author }}</span>{{ end }}
+            {{ partial "pdf-link.html" . }}
+        </div>
+        {{ if or .Params.level .Params.greek .Params.hebrew .Params.substantial }}
+        <div class="es-badges">
+            {{ if .Params.level }}<span class="es-badge">Level {{ .Params.level }}</span>{{ end }}
+            {{ if .Params.greek }}<span class="es-badge">Greek</span>{{ end }}
+            {{ if .Params.hebrew }}<span class="es-badge">Hebrew</span>{{ end }}
+            {{ if .Params.substantial }}<span class="es-badge">Substantial</span>{{ end }}
         </div>
         {{ end }}
     </header>
 
-    <div class="essay-content">
+    <div class="es-layout">
         {{ $toc := .TableOfContents }}
         {{ if and $toc (findRE `<li>` $toc) }}
-        <aside class="toc">
-            <h3>Contents</h3>
-            {{ $toc }}
+        <aside class="es-sidebar">
+            <div class="es-toc">
+                <span class="es-toc-label">Contents</span>
+                {{ $toc }}
+            </div>
         </aside>
         {{ end }}
 
-        <div class="content-body">
+        <div class="es-content">
             {{ .Content }}
         </div>
     </div>
 
     {{ if .Params.scripture_references }}
-    <aside class="scripture-refs">
+    <aside class="es-scripture-refs">
         <h3>Scripture References</h3>
         <ul>
             {{ range .Params.scripture_references }}
@@ -77,61 +77,310 @@
     </aside>
     {{ end }}
 
-    {{/* Related content / See Also */}}
     {{ partial "see-also.html" . }}
 
-    <footer class="essay-footer">
-        <div class="citation">
-            <h4>How to Cite</h4>
-            <p class="citation-text">
-                Warren, Virgil. "{{ .Title }}." <em>Christian Internet Resources</em>. 
-                Accessed {{ now.Format "January 2, 2006" }}. {{ .Permalink }}.
-            </p>
-            <p class="citation-note">Include the CIR logo and source notation when circulating.</p>
+    {{ if not $isBook }}
+    <nav class="es-bottom-nav">
+        <a href="{{ .Parent.Permalink }}" class="es-back-link">← Back to {{ .Parent.Title | lower | title }}</a>
+        <div class="es-prev-next">
+            {{ $siblings := .Parent.RegularPages.ByTitle }}
+            {{ $sibIdx := 0 }}
+            {{ range $i, $p := $siblings }}{{ if eq $p.Permalink $.Permalink }}{{ $sibIdx = $i }}{{ end }}{{ end }}
+            {{ if gt $sibIdx 0 }}
+                {{ $sp := index $siblings (sub $sibIdx 1) }}
+                <a href="{{ $sp.Permalink }}" class="es-nav-prev">← {{ $sp.Title | lower | title | truncate 40 }}</a>
+            {{ end }}
+            {{ if lt (add $sibIdx 1) (len $siblings) }}
+                {{ $sn := index $siblings (add $sibIdx 1) }}
+                <a href="{{ $sn.Permalink }}" class="es-nav-next">{{ $sn.Title | lower | title | truncate 40 }} →</a>
+            {{ end }}
         </div>
-    </footer>
-</article>
+    </nav>
+    {{ end }}
+</div>
+
+<style>
+.es-page { max-width: 960px; margin: 0 auto; padding: 0 2rem; }
+
+/* Breadcrumb */
+.es-breadcrumb {
+    padding: 0.75rem 0;
+    border-bottom: 1px solid #f0eeea;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 0.85rem;
+    color: #888;
+}
+.es-breadcrumb a { color: #666; text-decoration: none; }
+.es-breadcrumb a:hover { color: #2f4c3a; }
+.es-sep { margin: 0 0.35rem; color: #ccc; }
+
+/* Header */
+.es-header {
+    padding: 2.5rem 0 2rem;
+    border-bottom: 1px solid #ebebeb;
+    text-align: center;
+}
+.es-header-accent {
+    width: 64px;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, #c0b8a8, transparent);
+    margin: 0 auto 1.25rem;
+}
+.es-header h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 2rem;
+    font-weight: 700;
+    color: #1a1a1a;
+    margin: 0 0 0.75rem;
+    line-height: 1.2;
+    max-width: 620px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.es-header-meta {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.75rem;
+}
+.es-author {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 0.9rem;
+    color: #777;
+}
+.es-badges {
+    display: flex;
+    justify-content: center;
+    gap: 0.4rem;
+    margin-top: 0.75rem;
+}
+.es-badge {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 0.6rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: #6a8a72;
+    background: rgba(47,76,58,0.07);
+    border-radius: 12px;
+    padding: 0.2rem 0.6rem;
+}
+
+/* Layout: sidebar TOC + content */
+.es-layout {
+    display: grid;
+    grid-template-columns: 180px 1fr;
+    gap: 2rem;
+    padding: 2rem 0 3rem;
+}
+.es-layout:not(:has(.es-sidebar)) {
+    grid-template-columns: 1fr;
+    max-width: 620px;
+    margin: 0 auto;
+}
+
+/* Sidebar TOC */
+.es-sidebar {
+    position: sticky;
+    top: calc(var(--header-height, 70px) + 1.5rem);
+    align-self: start;
+}
+.es-toc {
+    background: #f8f6f2;
+    border-radius: 3px;
+    padding: 1rem;
+}
+.es-toc-label {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 0.62rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: #2f4c3a;
+    display: block;
+    margin-bottom: 0.65rem;
+}
+.es-toc ul { list-style: none; margin: 0; padding: 0; }
+.es-toc li { margin: 0; }
+.es-toc a {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 0.75rem;
+    color: #555;
+    text-decoration: none;
+    display: block;
+    padding: 0.25rem 0;
+    border-bottom: 1px solid #eceae6;
+    transition: color .15s;
+    line-height: 1.35;
+}
+.es-toc li:last-child a { border-bottom: none; }
+.es-toc a:hover { color: #2f4c3a; }
+.es-toc ul ul { padding-left: 0.65rem; }
+.es-toc ul ul a { font-size: 0.7rem; color: #888; }
+
+/* Content body — narrower for readability */
+.es-content {
+    max-width: 620px;
+    font-family: 'Source Serif Pro', serif;
+    font-size: 1.05rem;
+    line-height: 1.8;
+    color: #333;
+}
+.es-content h2 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 0.78rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    color: #2f4c3a;
+    padding-left: 0.85rem;
+    border-left: 3px solid #2f4c3a;
+    margin: 2.5rem 0 1rem;
+    scroll-margin-top: calc(var(--header-height, 70px) + 2rem);
+}
+.es-content h3 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 0.72rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: #2f4c3a;
+    padding-left: 0.85rem;
+    border-left: 3px solid rgba(47,76,58,0.3);
+    margin: 2rem 0 0.75rem;
+    scroll-margin-top: calc(var(--header-height, 70px) + 2rem);
+}
+.es-content h4 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: #2f4c3a;
+    margin: 1.5rem 0 0.5rem;
+}
+.es-content p { margin: 0 0 1rem; }
+.es-content strong { color: #2f4c3a; font-weight: 600; }
+.es-content em { font-style: italic; }
+.es-content a { color: #2f4c3a; text-decoration: underline; text-decoration-color: rgba(47,76,58,0.3); }
+.es-content a:hover { text-decoration-color: #2f4c3a; }
+.es-content blockquote {
+    border-left: 3px solid #2f4c3a;
+    margin: 1.5rem 0;
+    padding: 0.5rem 0 0.5rem 1.25rem;
+    color: #555;
+    font-style: italic;
+}
+.es-content ul, .es-content ol { padding-left: 1.5rem; margin: 0 0 1rem; }
+.es-content li { margin-bottom: 0.3rem; }
+.es-content hr { border: none; border-top: 1px solid #eceae6; margin: 2rem 0; }
+.es-content table { border-collapse: collapse; margin: 1rem 0; width: 100%; }
+.es-content table td, .es-content table th { padding: 0.4rem 0.75rem; border: 1px solid #e3e0d8; font-size: 0.9rem; }
+.es-content table th { background: #f8f6f2; font-weight: 600; color: #2f4c3a; }
+
+/* Word HTML content */
+.es-content .word-content { font-family: inherit; font-size: inherit; line-height: inherit; color: inherit; }
+
+/* Scripture refs */
+.es-scripture-refs { border-top: 1px solid #eceae6; padding-top: 1.5rem; margin-top: 2rem; max-width: 620px; }
+.es-scripture-refs h3 {
+    font-family: 'Source Sans Pro', sans-serif; font-size: 0.72rem; font-weight: 700;
+    text-transform: uppercase; letter-spacing: 0.12em; color: #2f4c3a;
+    padding-left: 0.85rem; border-left: 3px solid rgba(47,76,58,0.3); margin: 0 0 0.75rem;
+}
+
+/* PDF link styling */
+.es-header-meta .pdf-download {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    padding: 0.25rem 0.65rem;
+    border: 1px solid #e3e0d8;
+    border-radius: 3px;
+    color: #666;
+    text-decoration: none;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 0.75rem;
+    font-weight: 600;
+    background: #fff;
+    transition: border-color .2s, color .2s;
+}
+.es-header-meta .pdf-download:hover { border-color: #2f4c3a; color: #2f4c3a; }
+
+/* Bottom navigation */
+.es-bottom-nav {
+    border-top: 1px solid #eceae6;
+    padding: 1.5rem 0 2rem;
+    margin-top: 1rem;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.es-back-link {
+    display: inline-block;
+    font-size: 0.82rem;
+    font-weight: 600;
+    color: #2f4c3a;
+    text-decoration: none;
+    padding: 0.4rem 0.85rem;
+    border: 1px solid #e3e0d8;
+    border-radius: 3px;
+    transition: background .15s, border-color .15s;
+    margin-bottom: 1rem;
+}
+.es-back-link:hover { background: #f8f6f2; border-color: #2f4c3a; }
+.es-prev-next {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+}
+.es-nav-prev, .es-nav-next {
+    font-size: 0.78rem;
+    color: #666;
+    text-decoration: none;
+    transition: color .15s;
+}
+.es-nav-prev:hover, .es-nav-next:hover { color: #2f4c3a; }
+.es-nav-next { margin-left: auto; text-align: right; }
+
+.es-page .essay-footer { border: none; padding: 0; margin: 0; }
+
+@media (max-width: 768px) {
+    .es-layout { grid-template-columns: 1fr; }
+    .es-sidebar { position: static; }
+    .es-header { padding: 2rem 0 1.5rem; }
+    .es-header h1 { font-size: 1.5rem; }
+    .es-page { padding: 0 1.1rem; }
+    .es-prev-next { flex-direction: column; gap: 0.5rem; }
+    .es-nav-next { margin-left: 0; text-align: left; }
+}
+</style>
 
 <script>
 // Remove redundant title/author/blanks from Word HTML body
 (function() {
-    var wc = document.querySelector('.word-content');
+    var wc = document.querySelector('.es-content .word-content');
+    if (!wc) wc = document.querySelector('.es-content');
     if (!wc) return;
     var children = wc.children;
-    // Remove leading paragraphs that are: title (centered bold), author (centered "Virgil"/"Warren"), or blank (&nbsp; only)
     var toRemove = [];
-    for (var i = 0; i < Math.min(children.length, 8); i++) {
+    var pageTitle = document.querySelector('.es-header h1');
+    var titleText = pageTitle ? pageTitle.textContent.trim().toUpperCase() : '';
+    for (var i = 0; i < Math.min(children.length, 10); i++) {
         var el = children[i];
         var text = el.textContent.trim();
-        // Blank / whitespace-only paragraph
-        if (!text || text === '\u00a0' || text === '') {
-            toRemove.push(el);
-            continue;
-        }
-        // Centered text matching title or author
+        if (!text || text === '\u00a0' || text === '') { toRemove.push(el); continue; }
         var style = el.getAttribute('style') || '';
         var align = el.getAttribute('align') || '';
         var isCentered = style.indexOf('text-align:center') > -1 || align === 'center';
-        if (!isCentered) break; // stop at first non-centered content paragraph
-        // Check if it's the title or author name
+        if (!isCentered) break;
         var upper = text.toUpperCase();
-        var pageTitle = document.querySelector('.essay-header h1');
-        if (pageTitle && upper === pageTitle.textContent.trim().toUpperCase()) {
-            toRemove.push(el);
-            continue;
+        if (titleText && (upper === titleText || upper.replace(/^\d+[\.\s]+/, '') === titleText.replace(/^\d+[\.\s]+/, ''))) {
+            toRemove.push(el); continue;
         }
         if (text.indexOf('Virgil') > -1 || text.indexOf('Warren') > -1 || text.indexOf('PhD') > -1) {
-            toRemove.push(el);
-            continue;
+            toRemove.push(el); continue;
         }
-        // Any other centered line at top (subtitle, etc.) — keep it
         break;
     }
-    for (var j = 0; j < toRemove.length; j++) {
-        toRemove[j].style.display = 'none';
-    }
+    for (var j = 0; j < toRemove.length; j++) { toRemove[j].style.display = 'none'; }
 })();
 </script>
-
 
 {{ end }}

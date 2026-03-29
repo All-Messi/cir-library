@@ -7,4 +7,4 @@ testament: "old"
 weight: 2
 ---
 
-The Conversational Old Testament by Dr. Virgil Warren.
+The Conversational Old Testament by Virgil Warren, PhD.

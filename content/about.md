@@ -2,6 +2,7 @@
 title: "About"
 date: 2024-01-01
 draft: false
+layout: "about"
 ---
 
 ## CIR: The Site
@@ -59,21 +60,7 @@ Treatments come in Levels 1, 2, and 3 as geared to users' interests, needs, and 
 </tr>
 </table>
 
-<style>
-.sigla-table {
-    margin: 1.5rem 0;
-    border-collapse: collapse;
-}
-.sigla-table td {
-    padding: 0.5rem 1rem 0.5rem 0;
-    vertical-align: top;
-}
-.sigla-symbol {
-    font-weight: bold;
-    white-space: nowrap;
-    padding-right: 2rem !important;
-}
-</style>
+
 
 Navigation indicators will be more forthcoming as the website develops. There will be increased use of:
 

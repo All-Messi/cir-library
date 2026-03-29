@@ -7,4 +7,4 @@ testament: "new"
 weight: 3
 ---
 
-The Wooden New Testament - A literal translation by Dr. Virgil Warren.
+The Wooden New Testament - A literal translation by Virgil Warren, PhD.

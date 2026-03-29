@@ -1,312 +1,170 @@
 {{ define "main" }}
 <div class="translations-page">
-    <header class="section-header">
+    <header class="tr-header">
         <h1>Bible Translations</h1>
-        <p>Virgil Warren, PhD</p>
+        <div class="tr-rule"></div>
+        <p>Original translations by Virgil Warren, PhD</p>
     </header>
 
-    <!-- Bible Translations Grid -->
-    <div class="translations-grid">
-        {{ range .Sections }}
-        {{ if and (ne .Title "Textual Resources") (ne .Title "Bible Translation Resources") }}
-        <div class="translation-card">
-            <div class="translation-header">
-                <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-            </div>
-            <div class="translation-actions">
-                {{ if eq .Params.type "harmony-home" }}
-                <a href="{{ .RelPermalink }}section-01/" class="btn btn-primary">Start Reading</a>
-                <a href="{{ .RelPermalink }}" class="btn btn-secondary">Browse Topics</a>
-                {{ else }}
+    <div class="tr-body">
+        <div class="tr-sec-head"><span class="tr-sec-title">Translations</span></div>
+
+        <div class="tr-grid-3">
+            {{ range .Sections }}
+            {{ if and (ne .Title "Textual Resources") (ne .Title "Bible Translation Resources") }}
+            {{ $firstPage := "" }}
+            {{ if eq .Params.type "harmony-home" }}
+                {{ $firstPage = printf "%ssection-01/" .RelPermalink }}
+            {{ else }}
                 {{ $firstBook := index .Sections 0 }}
                 {{ if $firstBook }}
-                {{ $firstChapter := index $firstBook.Pages 0 }}
-                {{ if $firstChapter }}
-                <a href="{{ $firstChapter.RelPermalink }}" class="btn btn-primary">Start Reading</a>
+                    {{ $firstChapter := index $firstBook.Pages 0 }}
+                    {{ if $firstChapter }}{{ $firstPage = $firstChapter.RelPermalink }}{{ end }}
                 {{ end }}
-                {{ end }}
-                <a href="{{ .RelPermalink }}" class="btn btn-secondary">Browse Books</a>
+            {{ end }}
+            <a href="{{ if $firstPage }}{{ $firstPage }}{{ else }}{{ .RelPermalink }}{{ end }}" class="tr-card">
+                <span class="tr-card-label">
+                    {{ if eq .Params.testament "new" }}New Testament
+                    {{ else if eq .Params.testament "old" }}Old Testament
+                    {{ else }}All Four Gospels
+                    {{ end }}
+                </span>
+                <h2>{{ .Title }}</h2>
+                {{ with .Content }}<p>{{ . | plainify | truncate 100 }}</p>{{ end }}
+                <span class="tr-card-cta">Read →</span>
+            </a>
+            {{ end }}
+            {{ end }}
+        </div>
+
+        <!-- Textual Resources -->
+        {{ range .Sections }}
+        {{ if or (eq .Title "Textual Resources") (eq .Title "Bible Translation Resources") }}
+        <div class="tr-resources-divider"></div>
+        <div class="tr-sec-head"><span class="tr-sec-title">Textual Resources</span></div>
+        <div class="tr-resources-card">
+            <div class="tr-resources-intro">
+                <p>Supplemental studies and reference materials for deeper biblical understanding</p>
+            </div>
+            <div class="tr-resources-list">
+                {{ range .Pages.ByTitle }}
+                <a href="{{ .RelPermalink }}" class="tr-resource-row">
+                    <span>{{ .Title | lower | title }}</span>
+                    <span class="tr-resource-arrow">→</span>
+                </a>
                 {{ end }}
             </div>
         </div>
         {{ end }}
         {{ end }}
     </div>
-
-    <!-- Textual Resources Section -->
-    {{ range .Sections }}
-    {{ if or (eq .Title "Textual Resources") (eq .Title "Bible Translation Resources") }}
-    <section class="resources-section">
-        <header class="resources-header">
-            <h2>Textual Resources</h2>
-            <p>Supplemental studies and reference materials for deeper biblical understanding</p>
-        </header>
-        
-        <div class="resources-grid">
-            {{ range first 8 .Pages.ByTitle }}
-            <a href="{{ .RelPermalink }}" class="resource-card">
-                <span class="resource-icon">📄</span>
-                <span class="resource-title">{{ .Title }}</span>
-                <span class="resource-arrow">→</span>
-            </a>
-            {{ end }}
-        </div>
-        
-        {{ if gt (len .Pages) 8 }}
-        <div class="resources-footer">
-            <a href="{{ .RelPermalink }}" class="btn btn-secondary">View All Resources</a>
-        </div>
-        {{ end }}
-    </section>
-    {{ end }}
-    {{ end }}
 </div>
 
 <style>
-/* ============================================
-   TRANSLATIONS PAGE
-   ============================================ */
-.translations-page {
-    max-width: 1200px;
-    margin: 0 auto;
-}
+.translations-page { max-width: 1100px; margin: 0 auto; padding: 0 2rem; }
 
-.section-header {
-    text-align: center;
-    margin-bottom: 3rem;
-    padding: 2rem 0;
-    border-bottom: 1px solid var(--color-border, #e5e5e5);
-}
+.tr-header { text-align: center; padding: 3rem 0 2.5rem; border-bottom: 1px solid #ebebeb; margin-bottom: 0; }
+.tr-header h1 { font-family: 'Playfair Display', serif; font-size: 2.25rem; font-weight: 700; color: #000; margin: 0 0 0.5rem; }
+.tr-rule { width: 64px; height: 1px; background: linear-gradient(90deg, transparent, #c0b8a8, transparent); margin: 0 auto 0.75rem; }
+.tr-header p { font-family: 'Source Sans Pro', sans-serif; font-size: 1rem; color: #777; margin: 0; }
 
-.section-header h1 {
-    font-family: var(--font-display, 'Playfair Display', Georgia, serif);
-    font-size: 2.25rem;
-    font-weight: 600;
-    color: var(--color-primary, #000);
-    margin: 0 0 0.75rem;
-}
+.tr-body { background: #f8f6f2; padding: 2rem; margin: 0 -2rem; }
 
-.section-header p {
-    font-size: 1.05rem;
-    color: var(--color-text-secondary, #555);
-    max-width: 700px;
-    margin: 0 auto;
-    line-height: 1.6;
-}
+.tr-sec-head { padding-left: 0.85rem; border-left: 3px solid #2f4c3a; margin-bottom: 1.25rem; }
+.tr-sec-title { font-family: 'Source Sans Pro', sans-serif; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.16em; color: #2f4c3a; }
 
-/* Translations Grid */
-.translations-grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 1.5rem;
-    margin-bottom: 4rem;
-    max-width: 900px;
-    margin-left: auto;
-    margin-right: auto;
-}
+.tr-grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.85rem; }
 
-.translation-card {
-    background: var(--color-bg, #fff);
-    padding: 2rem;
-    border-radius: 12px;
-    border: 1px solid var(--color-border, #e5e5e5);
+.tr-card {
+    background: #fff;
+    border: 1px solid #e3e0d8;
+    border-top: 3px solid #2a5438;
+    border-radius: 2px;
+    padding: 1.4rem 1.25rem;
+    text-decoration: none;
+    color: inherit;
     display: flex;
     flex-direction: column;
-    transition: all 0.2s ease;
+    transition: border-color .2s, box-shadow .2s, transform .2s;
 }
-
-.translation-card:hover {
-    border-color: var(--color-accent, #9c7c38);
-    box-shadow: 0 4px 12px rgba(0,0,0,0.06);
-    transform: translateY(-2px);
+.tr-card:hover { border-color: #b8b3a8; box-shadow: 0 3px 12px rgba(0,0,0,.06); transform: translateY(-2px); }
+/* Per-translation accent colors via nth-child won't work with conditional range,
+   so we use a class approach via type param */
+.tr-card-label {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 0.62rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    color: #888;
+    margin-bottom: 0.4rem;
 }
-
-.translation-header {
-    display: flex;
-    align-items: flex-start;
-    justify-content: space-between;
-    gap: 1rem;
-    margin-bottom: 1rem;
+.tr-card h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #1a1a1a;
+    margin: 0 0 0.4rem;
+    line-height: 1.25;
 }
-
-.translation-card h2 {
-    font-family: var(--font-display, 'Playfair Display', Georgia, serif);
-    font-size: 1.5rem;
-    font-weight: 600;
+.tr-card p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 0.78rem;
+    color: #666;
+    line-height: 1.55;
     margin: 0;
-    line-height: 1.3;
-}
-
-.translation-card h2 a {
-    color: var(--color-primary, #000);
-    text-decoration: none;
-}
-
-.translation-card h2 a:hover {
-    color: var(--color-accent, #9c7c38);
-}
-
-.translation-badge {
-    background: var(--color-bg-subtle, #f9f9f9);
-    color: var(--color-text-secondary, #555);
-    padding: 0.25rem 0.75rem;
-    border-radius: 20px;
-    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
-    font-size: 0.75rem;
-    font-weight: 600;
-    white-space: nowrap;
-    flex-shrink: 0;
-}
-
-.translation-desc {
-    color: var(--color-text-secondary, #555);
-    font-size: 0.95rem;
-    line-height: 1.6;
-    margin: 0 0 1.5rem;
-    flex-grow: 1;
-}
-
-.translation-actions {
-    display: flex;
-    gap: 0.75rem;
-    margin-top: auto;
-}
-
-.translation-actions .btn {
     flex: 1;
-    text-align: center;
-    font-size: 0.9rem;
+}
+.tr-card-cta {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 0.7rem;
+    font-weight: 700;
+    color: #2f4c3a;
+    margin-top: 0.9rem;
 }
 
-/* ============================================
-   TEXTUAL RESOURCES SECTION
-   ============================================ */
-.resources-section {
-    margin-top: 4rem;
-    padding-top: 3rem;
-    border-top: 2px solid var(--color-border, #e5e5e5);
+/* Resources section */
+.tr-resources-divider { border-top: 1px solid #e0dbd4; margin: 1.5rem 0; }
+.tr-resources-card {
+    background: #fff;
+    border: 1px solid #e3e0d8;
+    border-radius: 3px;
+    overflow: hidden;
 }
-
-.resources-header {
-    text-align: center;
-    margin-bottom: 2.5rem;
+.tr-resources-intro {
+    padding: 1rem 1.25rem;
+    border-bottom: 1px solid #eceae6;
 }
-
-.resources-header h2 {
-    font-family: var(--font-display, 'Playfair Display', Georgia, serif);
-    font-size: 1.75rem;
-    font-weight: 600;
-    color: var(--color-primary, #000);
-    margin: 0 0 0.5rem;
-}
-
-.resources-header p {
-    color: var(--color-text-secondary, #555);
-    font-size: 1rem;
+.tr-resources-intro p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 0.85rem;
+    color: #777;
     margin: 0;
 }
-
-.resources-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: 1rem;
-}
-
-.resource-card {
+.tr-resource-row {
     display: flex;
     align-items: center;
-    gap: 1rem;
-    padding: 1.25rem 1.5rem;
-    background: var(--color-bg-subtle, #f9f9f9);
-    border: 1px solid var(--color-border-light, #eeeeee);
-    border-radius: 10px;
+    justify-content: space-between;
+    padding: 0.6rem 1.25rem;
+    border-bottom: 1px solid #f5f3ef;
     text-decoration: none;
-    transition: all 0.2s ease;
-}
-
-.resource-card:hover {
-    background: var(--color-bg, #fff);
-    border-color: var(--color-accent, #9c7c38);
-    box-shadow: 0 2px 8px rgba(0,0,0,0.04);
-    transform: translateX(4px);
-}
-
-.resource-icon {
-    font-size: 1.5rem;
-    flex-shrink: 0;
-    opacity: 0.7;
-}
-
-.resource-title {
-    flex: 1;
-    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-family: 'Source Serif Pro', serif;
     font-size: 0.9rem;
-    font-weight: 500;
-    color: var(--color-text, #1a1a1a);
-    line-height: 1.4;
+    color: #1a1a1a;
+    transition: background .15s;
 }
+.tr-resource-row:last-child { border-bottom: none; }
+.tr-resource-row:hover { background: #faf8f5; }
+.tr-resource-arrow { color: #bbb; font-size: 0.85rem; transition: color .15s; }
+.tr-resource-row:hover .tr-resource-arrow { color: #2f4c3a; }
 
-.resource-arrow {
-    color: var(--color-accent, #9c7c38);
-    font-size: 1.25rem;
-    font-weight: 600;
-    flex-shrink: 0;
-    opacity: 0;
-    transition: opacity 0.2s ease;
-}
-
-.resource-card:hover .resource-arrow {
-    opacity: 1;
-}
-
-.resources-footer {
-    text-align: center;
-    margin-top: 2rem;
-    padding-top: 2rem;
-    border-top: 1px solid var(--color-border-light, #eeeeee);
-}
-
-/* ============================================
-   RESPONSIVE
-   ============================================ */
 @media (max-width: 768px) {
-    .translations-grid {
-        grid-template-columns: 1fr;
-    }
-    
-    .resources-grid {
-        grid-template-columns: 1fr;
-    }
-    
-    .section-header h1 {
-        font-size: 1.75rem;
-    }
-
-    .translation-actions {
-        flex-direction: column;
-        gap: 0.5rem;
-    }
-
-    .translation-actions .btn {
-        font-size: 0.8rem;
-        padding: 0.5rem 1rem;
-        border-radius: 6px;
-        flex: none;
-        width: 100%;
-        text-align: center;
-    }
-
-    .translation-actions .btn-primary {
-        background: var(--color-primary, #000);
-        color: #fff;
-        border-color: var(--color-primary, #000);
-    }
-
-    .translation-actions .btn-secondary {
-        background: transparent;
-        color: var(--color-text-secondary, #555);
-        border-color: var(--color-border, #e5e5e5);
-    }
+    .tr-grid-3 { grid-template-columns: 1fr; }
+    .tr-body { padding: 1.5rem 1rem; margin: 0 -1rem; }
+}
+@media (max-width: 540px) {
+    .tr-header h1 { font-size: 1.75rem; }
+    .translations-page { padding: 0 1.1rem; }
 }
 </style>
 {{ end }}

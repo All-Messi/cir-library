@@ -13,7 +13,7 @@
     <div class="hp-hero-inner">
       <div class="hp-hero-photo">
         <div class="hp-author-frame">
-          <img src="{{ "images/virgil.jpg" | absURL }}" alt="Dr. Virgil Warren" class="hp-author-img">
+          <img src="{{ "images/virgil.jpg" | absURL }}" alt="Virgil Warren, PhD" class="hp-author-img">
         </div>
       </div>
       <div class="hp-hero-text">
@@ -116,8 +116,8 @@
       <div class="hp-sec-head hp-sec-head-dark"><span class="hp-rule-line"></span><span class="hp-sec-title">Communion Meditations</span><span class="hp-rule-line"></span></div>
       <div class="hp-communion-inner">
         <div class="hp-communion-text">
-          <h2>Dr. Warren's<br><em>Communion Meditations</em></h2>
-          <p>A personal collection of meditations written and delivered by Dr. Warren during the regular Sunday communion service — each one a brief, thoughtful reflection on the meaning of the Lord's Supper.</p>
+          <h2>Virgil Warren's<br><em>Communion Meditations</em></h2>
+          <p>A personal collection of meditations written and delivered by Virgil Warren during the regular Sunday communion service — each one a brief, thoughtful reflection on the meaning of the Lord's Supper.</p>
           <a href="{{ "essays/ministry/communion-meditations/" | absURL }}" class="hp-cta hp-cta-light">Read Meditations</a>
         </div>
         <div class="hp-communion-count">
@@ -155,7 +155,7 @@
             <div class="hp-bookcard-cat">Theology</div>
             <h3>Christian Living</h3>
             <p>An accessible foundation in core Christian doctrine and belief.</p>
-            <a href="{{ "essays/topics/christian-living/" | absURL }}" class="hp-cta">Read</a>
+            <a href="{{ "categories/christian-living/" | absURL }}" class="hp-cta">Read</a>
           </div>
         </div>
         <div class="hp-bookcard hp-bs-theology">
@@ -203,7 +203,7 @@
         <div class="hp-essay-card">
           <span class="hp-chip">Topics</span>
           <h3>Interpersonalism</h3>
-          <p>The theological framework at the heart of Dr. Warren's work — a relational vision of God, humanity, and Scripture.</p>
+          <p>The theological framework at the heart of Virgil Warren's work — a relational vision of God, humanity, and Scripture.</p>
           <a href="{{ "essays/topics/interpersonalism/" | absURL }}" class="hp-cta">Read Essays</a>
         </div>
         <div class="hp-essay-card">
@@ -343,7 +343,8 @@
 /* ── Section 2: Scripture cards ── */
 .hp-scripture { background: #f5f2ec; border-top: 1px solid #e8e4dc; border-bottom: 1px solid #e8e4dc; }
 .hp-scripture .hp-rule-line { background: #d8d2c6; }
-.hp-sc-card { background: #fff; padding: 1.75rem 1.5rem 1.6rem; border: 1px solid #e3dfd8; border-top: 3px solid #3d3830; border-radius: 2px; display: flex; flex-direction: column; transition: box-shadow .2s, transform .2s; }
+.hp-sc-card { background: #fff; padding: 1.75rem 1.5rem 1.6rem; border: 1px solid #e3dfd8; border-top: 3px solid #3d3830; border-radius: 2px; display: flex; flex-direction: column; transition: box-shadow .2s, transform .2s; position: relative; }
+.hp-sc-card .hp-cta::after { content: ''; position: absolute; inset: 0; z-index: 1; border-radius: 2px; }
 .hp-sc-card:hover { box-shadow: 0 4px 18px rgba(0,0,0,.08); transform: translateY(-2px); }
 .hp-sc-card h3 { font-family: 'Playfair Display', serif; font-size: 1.1rem; font-weight: 700; color: #1a1a18; margin-bottom: 0.45rem; line-height: 1.25; margin-top: 0; }
 .hp-sc-card p { font-family: 'Source Sans Pro', sans-serif; font-size: 0.8rem; color: #666; line-height: 1.58; flex: 1; margin-bottom: 0.95rem; }
@@ -366,7 +367,8 @@
 
 /* ── Section 5: Essays ── */
 .hp-essays { background: #fff; border-top: 1px solid #eceae6; }
-.hp-essay-card { background: #fff; padding: 1.5rem 1.4rem; border: 1px solid #e3e0d8; border-radius: 3px; display: flex; flex-direction: column; transition: border-color .2s, box-shadow .2s, transform .2s; }
+.hp-essay-card { background: #fff; padding: 1.5rem 1.4rem; border: 1px solid #e3e0d8; border-radius: 3px; display: flex; flex-direction: column; transition: border-color .2s, box-shadow .2s, transform .2s; position: relative; }
+.hp-essay-card .hp-cta::after { content: ''; position: absolute; inset: 0; z-index: 1; border-radius: 3px; }
 .hp-essay-card:hover { border-color: #b8b3a8; box-shadow: 0 3px 12px rgba(0,0,0,.06); transform: translateY(-2px); }
 .hp-essay-card h3 { font-family: 'Playfair Display', serif; font-size: 1.1rem; font-weight: 700; color: #1a1a18; margin-bottom: 0.4rem; line-height: 1.25; margin-top: 0; }
 .hp-essay-card p { font-family: 'Source Sans Pro', sans-serif; font-size: 0.79rem; color: #666; line-height: 1.58; flex: 1; margin-bottom: 1rem; }

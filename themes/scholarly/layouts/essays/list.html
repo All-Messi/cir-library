@@ -1,128 +1,206 @@
 {{ define "main" }}
-<div class="essays-page">
-    <header class="section-header">
-        <h1>{{ .Title }}</h1>
-        {{ with .Content }}
-        <div class="section-description">{{ . }}</div>
-        {{ end }}
+<div class="essays-landing">
+    <header class="el-header">
+        <h1>Essays &amp; Studies</h1>
+        <div class="el-rule"></div>
+        <p>Browse the theological essays of Virgil Warren, PhD</p>
     </header>
 
-    <!-- Main Essay Sections -->
-    <div class="main-sections">
-        {{ range .Sections }}
-        <a href="{{ .Permalink }}" class="main-section-card">
-            <div class="main-section-content">
-                <h2>{{ .Title }}</h2>
-                {{ with .Params.description }}
-                <p>{{ . }}</p>
-                {{ end }}
-                <div class="main-section-stats">
-                    {{ $subs := len .Sections }}
+    <!-- Breadcrumb -->
+    <nav class="el-breadcrumb">
+        <span class="el-bc-current">Essays</span>
+    </nav>
+
+    <div class="el-body">
+        <div class="el-sec-head"><span class="el-sec-title">Browse by section</span></div>
+        <div class="el-grid">
+            {{ range .Sections }}
+            <div class="el-card">
+                <div class="el-card-head">
+                    <div>
+                        <span class="el-chip">{{ .Title }}</span>
+                        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+                    </div>
                     {{ $total := len .RegularPagesRecursive }}
-                    {{ if gt $subs 0 }}<span>{{ $subs }} subcategories</span>{{ end }}
-                    {{ if gt $total 0 }}<span>{{ $total }} essays</span>{{ end }}
+                    {{ if gt $total 0 }}
+                    <span class="el-count-pill">{{ $total }} essays</span>
+                    {{ end }}
                 </div>
+
+                {{ if .Sections }}
+                <div class="el-card-section">
+                    <span class="el-card-label">Subcategories</span>
+                    {{ range .Sections }}
+                    <a href="{{ .Permalink }}" class="el-subcat-row">
+                        <span>{{ .Title }}</span>
+                        <span class="el-subcat-count">{{ len .RegularPagesRecursive }} →</span>
+                    </a>
+                    {{ end }}
+                </div>
+                {{ end }}
+
+                {{ if .RegularPages }}
+                <div class="el-card-section">
+                    <span class="el-card-label">Essays</span>
+                    {{ $essays := .RegularPages.ByTitle }}
+                    {{ $count := len $essays }}
+                    {{ $showLimit := 3 }}
+                    {{ range $i, $p := $essays }}
+                    <a href="{{ $p.Permalink }}" class="el-essay-row{{ if ge $i $showLimit }} el-overflow-item{{ end }}"{{ if ge $i $showLimit }} style="display:none"{{ end }}>
+                        {{ $p.Title }}
+                    </a>
+                    {{ end }}
+                    {{ if gt $count $showLimit }}
+                    <button class="el-show-more" onclick="this.parentElement.querySelectorAll('.el-overflow-item').forEach(function(e){e.style.display='block'});this.style.display='none';">
+                        Show {{ sub $count $showLimit }} more essays ↓
+                    </button>
+                    {{ end }}
+                </div>
+                {{ end }}
             </div>
-            <span class="main-section-arrow">→</span>
-        </a>
-        {{ end }}
+            {{ end }}
+        </div>
     </div>
 </div>
 
 <style>
-.essays-page {
-    max-width: 800px;
-    margin: 0 auto;
-}
+.essays-landing { max-width: 1100px; margin: 0 auto; padding: 0 2rem; }
 
-.section-header {
-    text-align: center;
-    margin-bottom: 3rem;
-    padding: 2rem 0;
-    border-bottom: 1px solid var(--color-border, #e5e5e5);
-}
+.el-header { text-align: center; padding: 3rem 0 2.5rem; border-bottom: 1px solid #ebebeb; }
+.el-header h1 { font-family: 'Playfair Display', serif; font-size: 2.25rem; font-weight: 700; color: #000; margin: 0 0 0.5rem; }
+.el-rule { width: 64px; height: 1px; background: linear-gradient(90deg, transparent, #c0b8a8, transparent); margin: 0 auto 0.75rem; }
+.el-header p { font-family: 'Source Sans Pro', sans-serif; font-size: 1rem; color: #777; margin: 0; }
 
-.section-header h1 {
-    font-family: var(--font-display, 'Playfair Display', Georgia, serif);
-    font-size: 2.25rem;
-    font-weight: 600;
-    color: var(--color-primary, #000);
-    margin: 0 0 0.75rem;
+.el-breadcrumb {
+    padding: 0.75rem 0;
+    border-bottom: 1px solid #f0eeea;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 0.85rem;
 }
+.el-bc-current { color: #000; font-weight: 600; }
 
-.section-description {
-    font-size: 1.05rem;
-    color: var(--color-text-secondary, #555);
+.el-body { background: #f8f6f2; padding: 2rem; margin: 0 -2rem; }
+
+.el-sec-head { padding-left: 0.85rem; border-left: 3px solid #2f4c3a; margin-bottom: 1.25rem; }
+.el-sec-title { font-family: 'Source Sans Pro', sans-serif; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.16em; color: #2f4c3a; }
+
+.el-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.85rem; }
+
+.el-card {
+    background: #fff;
+    border: 1px solid #e3e0d8;
+    border-radius: 3px;
+    padding: 1.15rem 1rem;
 }
-
-.main-sections {
+.el-card-head {
     display: flex;
-    flex-direction: column;
-    gap: 1rem;
+    align-items: flex-start;
+    justify-content: space-between;
+    margin-bottom: 0.9rem;
+}
+.el-chip {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 0.55rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.18em;
+    color: #6a8a72;
+    background: rgba(47,76,58,0.07);
+    border-radius: 20px;
+    padding: 0.15rem 0.5rem;
+    display: none; /* hide chip since title already shows */
+}
+.el-card h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #2f4c3a;
+    margin: 0;
+    line-height: 1.25;
+}
+.el-card h2 a { color: inherit; text-decoration: none; }
+.el-card h2 a:hover { color: #1a3a24; }
+.el-count-pill {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 0.72rem;
+    font-weight: 600;
+    color: #888;
+    background: #f4f2ed;
+    border-radius: 10px;
+    padding: 0.15rem 0.5rem;
+    white-space: nowrap;
+    flex-shrink: 0;
 }
 
-.main-section-card {
+.el-card-section {
+    border-top: 1px solid #eceae6;
+    padding-top: 0.5rem;
+    margin-top: 0.65rem;
+}
+.el-card-label {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 0.62rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: #999;
+    display: block;
+    margin-bottom: 0.35rem;
+}
+.el-subcat-row {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 1.75rem 2rem;
-    background: var(--color-bg, #fff);
-    border: 1px solid var(--color-border, #e5e5e5);
-    border-left: 4px solid var(--color-accent, #9c7c38);
-    border-radius: 10px;
+    padding: 0.28rem 0;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 0.82rem;
+    color: #444;
     text-decoration: none;
-    color: inherit;
-    transition: all 0.2s ease;
+    border-bottom: 1px solid #f5f3ef;
+    transition: color .15s;
 }
+.el-subcat-row:last-child { border-bottom: none; }
+.el-subcat-row:hover { color: #2f4c3a; }
+.el-subcat-count { color: #bbb; font-size: 0.75rem; }
+.el-subcat-row:hover .el-subcat-count { color: #2f4c3a; }
 
-.main-section-card:hover {
-    border-color: var(--color-accent, #9c7c38);
-    box-shadow: 0 4px 16px rgba(0,0,0,0.06);
-    transform: translateY(-2px);
+.el-essay-row {
+    display: block;
+    padding: 0.28rem 0;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 0.82rem;
+    color: #444;
+    text-decoration: none;
+    border-bottom: 1px solid #f5f3ef;
+    transition: color .15s;
 }
+.el-essay-row:last-of-type { border-bottom: none; }
+.el-essay-row:hover { color: #2f4c3a; }
 
-.main-section-content h2 {
-    font-family: var(--font-display, 'Playfair Display', Georgia, serif);
-    font-size: 1.4rem;
+.el-show-more {
+    display: block;
+    width: 100%;
+    margin-top: 0.4rem;
+    padding: 0.35rem;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 0.7rem;
     font-weight: 600;
-    color: var(--color-primary, #000);
-    margin: 0 0 0.5rem;
+    color: #2f4c3a;
+    background: rgba(47,76,58,0.04);
+    border: 1px solid #e8e4dc;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background .15s;
 }
+.el-show-more:hover { background: rgba(47,76,58,0.08); }
 
-.main-section-content p {
-    font-size: 0.95rem;
-    color: var(--color-text-secondary, #555);
-    margin: 0 0 0.75rem;
-    line-height: 1.5;
+@media (max-width: 768px) {
+    .el-grid { grid-template-columns: 1fr; }
+    .el-body { padding: 1.5rem 1rem; margin: 0 -1rem; }
 }
-
-.main-section-stats {
-    display: flex;
-    gap: 1.25rem;
-    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
-    font-size: 0.8rem;
-    color: var(--color-text-muted, #888);
-}
-
-.main-section-arrow {
-    font-size: 1.5rem;
-    color: var(--color-text-muted, #ccc);
-    transition: color 0.2s;
-    flex-shrink: 0;
-    margin-left: 1rem;
-}
-
-.main-section-card:hover .main-section-arrow {
-    color: var(--color-accent, #9c7c38);
-}
-
-@media (max-width: 600px) {
-    .main-section-card {
-        padding: 1.25rem 1.5rem;
-    }
-    .main-section-content h2 {
-        font-size: 1.2rem;
-    }
+@media (max-width: 540px) {
+    .el-header h1 { font-size: 1.75rem; }
+    .essays-landing { padding: 0 1.1rem; }
 }
 </style>
 {{ end }}

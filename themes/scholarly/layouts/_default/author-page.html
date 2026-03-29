@@ -1,0 +1,173 @@
+{{ define "main" }}
+<div class="author-page">
+    <header class="auth-header">
+        <h1>{{ .Title }}</h1>
+        <div class="auth-rule"></div>
+        <p class="auth-byline">Virgil Warren, PhD</p>
+    </header>
+
+    <div class="auth-layout">
+        <aside class="auth-sidebar">
+            <div class="auth-photo">
+                <img src="{{ "images/warren.jpg" | absURL }}" alt="Virgil Warren, PhD">
+            </div>
+            {{ if .TableOfContents }}
+            <div class="auth-toc">
+                <span class="auth-toc-label">Contents</span>
+                {{ .TableOfContents }}
+            </div>
+            {{ end }}
+        </aside>
+
+        <div class="auth-content">
+            {{ .Content }}
+        </div>
+    </div>
+</div>
+
+<style>
+.author-page { max-width: 960px; margin: 0 auto; padding: 0 2rem; }
+
+.auth-header { text-align: center; padding: 3rem 0 2.5rem; border-bottom: 1px solid #ebebeb; }
+.auth-header h1 { font-family: 'Playfair Display', serif; font-size: 2.25rem; font-weight: 700; color: #000; margin: 0 0 0.5rem; }
+.auth-rule { width: 64px; height: 1px; background: linear-gradient(90deg, transparent, #c0b8a8, transparent); margin: 0 auto 0.75rem; }
+.auth-byline { font-family: 'Source Sans Pro', sans-serif; font-size: 1rem; color: #777; margin: 0; }
+
+.auth-layout {
+    display: grid;
+    grid-template-columns: 180px 1fr;
+    gap: 2rem;
+    padding: 2rem 0;
+}
+
+.auth-sidebar {
+    position: sticky;
+    top: calc(var(--header-height, 70px) + 1.5rem);
+    align-self: start;
+}
+.auth-photo {
+    margin-bottom: 1.25rem;
+}
+.auth-photo img {
+    width: 164px;
+    height: 164px;
+    border-radius: 8px;
+    object-fit: cover;
+    object-position: center center;
+    border: 1px solid #e8e4dc;
+    display: block;
+}
+.auth-toc {
+    background: #f8f6f2;
+    border-radius: 3px;
+    padding: 1rem;
+}
+.auth-toc-label {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 0.62rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: #2f4c3a;
+    display: block;
+    margin-bottom: 0.65rem;
+}
+.auth-toc ul { list-style: none; margin: 0; padding: 0; }
+.auth-toc li { margin: 0; }
+.auth-toc a {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 0.78rem;
+    color: #555;
+    text-decoration: none;
+    display: block;
+    padding: 0.3rem 0;
+    border-bottom: 1px solid #eceae6;
+    transition: color .15s;
+}
+.auth-toc li:last-child a { border-bottom: none; }
+.auth-toc a:hover { color: #2f4c3a; }
+.auth-toc ul ul { padding-left: 0.75rem; }
+
+/* Content body */
+.auth-content {
+    max-width: 680px;
+    font-family: 'Source Serif Pro', serif;
+    font-size: 1rem;
+    line-height: 1.78;
+    color: #333;
+}
+
+/* h2 headings get green left border */
+.auth-content h2 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 0.78rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.16em;
+    color: #2f4c3a;
+    padding-left: 0.85rem;
+    border-left: 3px solid #2f4c3a;
+    margin: 2.5rem 0 1rem;
+}
+/* Hide the first h2 (Virgil Warren, PhD) since it's in the hero */
+.auth-content h2:first-of-type { display: none; }
+/* Also hide it from the TOC */
+.auth-toc ul > li:first-child { display: none; }
+/* Anchor offset for sticky header */
+.auth-content h2[id] { scroll-margin-top: calc(var(--header-height, 70px) + 2rem); }
+
+/* Bold-only paragraphs (Education:, Academic Career:, etc.) get the section title treatment */
+.auth-content .author-text p:has(> strong:only-child) {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 0.72rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    color: #2f4c3a;
+    padding-left: 0.85rem;
+    border-left: 3px solid #2f4c3a;
+    margin: 1.5rem 0 0.5rem;
+}
+.auth-content .author-text p:has(> strong:only-child) strong {
+    font-weight: 700;
+    color: inherit;
+}
+
+.auth-content p { margin: 0 0 1rem; }
+.auth-content hr { border: none; border-top: 1px solid #eceae6; margin: 2rem 0; }
+.auth-content ul { padding-left: 1.25rem; margin: 0 0 1rem; }
+.auth-content li { margin-bottom: 0.25rem; font-size: 0.95rem; }
+.auth-content em { font-style: italic; }
+.auth-content a { color: #2f4c3a; text-decoration: underline; }
+.auth-content a:hover { color: #1a3a24; }
+
+/* Hide the inline photo from the content since sidebar has it */
+.auth-content .author-image { display: none; }
+
+/* Override the about-author-section layout from content HTML */
+.auth-content .about-author-section {
+    display: block; /* override any flex/grid the old CSS might have */
+}
+.auth-content .author-text {
+    width: 100%;
+}
+
+@media (max-width: 768px) {
+    .auth-layout { grid-template-columns: 1fr; }
+    .auth-sidebar {
+        position: static;
+        display: flex;
+        gap: 1.5rem;
+        align-items: flex-start;
+    }
+    .auth-photo img { width: 120px; height: 120px; }
+    .auth-toc { flex: 1; }
+    .auth-header h1 { font-size: 1.75rem; }
+    .author-page { padding: 0 1.1rem; }
+}
+@media (max-width: 540px) {
+    .auth-sidebar { flex-direction: column; }
+    .auth-photo img { width: 100px; height: 100px; }
+}
+</style>
+{{ end }}

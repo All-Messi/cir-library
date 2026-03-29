@@ -7,4 +7,4 @@ testament: "new"
 weight: 1
 ---
 
-The Conversational New Testament by Dr. Virgil Warren.
+The Conversational New Testament by Virgil Warren, PhD.

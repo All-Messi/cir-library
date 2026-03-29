@@ -35,7 +35,7 @@
         {{/* Table of Contents - only if essay has headings */}}
         {{ if .TableOfContents }}
         <aside class="toc">
-            <h3>On This Page</h3>
+            <h3>Contents</h3>
             {{ .TableOfContents }}
         </aside>
         {{ end }}
@@ -61,18 +61,6 @@
     {{ partial "see-also.html" . }}
     
     <footer class="essay-footer">
-        {{/* Citation */}}
-        <div class="citation">
-            <h4>How to Cite</h4>
-            <p class="citation-text">
-                {{ if .Params.author }}{{ .Params.author }}{{ else }}Warren, Virgil{{ end }}.
-                "{{ .Title }}."
-                <em>Christian Internet Resources</em>.
-                {{ if .Date }}{{ .Date.Format "2006" }}{{ end }}.
-                {{ .Permalink }}
-            </p>
-            <p class="citation-note">This work is made freely available for study and research.</p>
-        </div>
     </footer>
 </article>
 {{ end }}

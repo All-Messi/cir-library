@@ -2,6 +2,7 @@
 title: "About the Author"
 date: 2024-01-01
 draft: false
+layout: "author-page"
 ---
 
 <div class="about-author-section">
@@ -32,7 +33,7 @@ draft: false
 
 </div>
 <div class="author-image">
-<img src="/cir-library/images/warren.jpg" alt="Dr. Virgil Warren and his wife">
+<img src="/cir-library/images/warren.jpg" alt="Virgil Warren, PhD">
 </div>
 </div>
 

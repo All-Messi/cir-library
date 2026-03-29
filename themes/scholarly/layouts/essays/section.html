@@ -1,336 +1,134 @@
 {{ define "main" }}
-
-{{/* ── BOOK-TOC LAYOUT ── */}}
-{{ if eq .Params.layout "book-toc" }}
-<div class="book-reader">
-    <div class="reader-nav-bar">
-        <div class="book-selector">
-            {{ $booksPage := site.GetPage "/books" }}
-            <a href="{{ if $booksPage }}{{ $booksPage.RelPermalink }}{{ else }}{{ .Parent.Permalink }}{{ end }}" class="back-to-books">← All Books</a>
-            <span class="current-book">{{ .Title }}</span>
-        </div>
-    </div>
-
-    <div class="chapter-grid-container">
-        <h2 class="chapter-grid-title">Chapters</h2>
-        <div class="chapter-grid">
-            {{ range $index, $page := .RegularPages.ByWeight }}
-            <a href="{{ .RelPermalink }}" class="chapter-cell">{{ add $index 1 }}</a>
-            {{ end }}
-        </div>
-    </div>
-
-    <div class="chapter-list">
-        <h2>Table of Contents</h2>
-        {{ range $index, $page := .RegularPages.ByWeight }}
-        <a href="{{ .RelPermalink }}" class="chapter-item">
-            <span class="chapter-number">{{ add $index 1 }}</span>
-            <span class="chapter-title">{{ .Title }}</span>
-        </a>
-        {{ end }}
-    </div>
-
-    {{ if .Sections }}
-    <div class="book-subcategories">
-        <h2>Additional Resources</h2>
-        {{ range .Sections }}
-        <a href="{{ .Permalink }}" class="book-subcat-link">
-            <span>{{ .Title }}</span>
-            <span class="subcat-count">{{ len .RegularPagesRecursive }} essays →</span>
-        </a>
-        {{ end }}
-    </div>
-    {{ end }}
-</div>
-
-<style>
-.book-reader { max-width: 900px; margin: 0 auto; }
-.reader-nav-bar { display: flex; align-items: center; padding: 1rem 0; border-bottom: 1px solid var(--color-border, #e5e5e5); margin-bottom: 2rem; }
-.book-selector { display: flex; align-items: center; gap: 1.5rem; }
-.back-to-books { font-family: 'Source Sans Pro', sans-serif; font-size: 0.9rem; color: #666; text-decoration: none; }
-.back-to-books:hover { color: #000; }
-.current-book { font-family: 'Playfair Display', Georgia, serif; font-size: 1.5rem; font-weight: 600; color: #000; }
-.chapter-grid-container { background: #f9f9f9; border-radius: 12px; padding: 1.5rem; margin-bottom: 2rem; }
-.chapter-grid-title { font-family: 'Source Sans Pro', sans-serif; font-size: 0.85rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.1em; color: #888; margin: 0 0 1rem; text-align: center; }
-.chapter-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(48px, 1fr)); gap: 8px; max-width: 600px; margin: 0 auto; }
-.chapter-cell { aspect-ratio: 1; display: flex; align-items: center; justify-content: center; background: #fff; border: 1px solid #e5e5e5; border-radius: 8px; font-family: 'Source Sans Pro', sans-serif; font-size: 0.95rem; font-weight: 500; color: #333; text-decoration: none; transition: all 0.15s ease; }
-.chapter-cell:hover { background: #000; border-color: #000; color: #fff; }
-.chapter-list { margin-bottom: 2rem; }
-.chapter-list h2 { font-family: 'Playfair Display', Georgia, serif; font-size: 1.25rem; color: #000; margin: 0 0 1rem; padding-bottom: 0.75rem; border-bottom: 1px solid #e5e5e5; }
-.chapter-item { display: flex; align-items: center; gap: 1rem; padding: 0.75rem 1rem; border-bottom: 1px solid #f0f0f0; text-decoration: none; transition: background 0.15s ease; }
-.chapter-item:hover { background: #f9f9f9; }
-.chapter-number { width: 32px; height: 32px; display: flex; align-items: center; justify-content: center; background: #f3f3f3; border-radius: 6px; font-family: 'Source Sans Pro', sans-serif; font-size: 0.85rem; font-weight: 600; color: #666; flex-shrink: 0; }
-.chapter-title { font-family: 'Source Serif Pro', Georgia, serif; font-size: 1rem; color: #1a1a1a; line-height: 1.4; }
-.chapter-item:hover .chapter-number { background: #000; color: #fff; }
-.book-subcategories { border-top: 1px solid #e5e5e5; padding-top: 1.5rem; margin-top: 1rem; }
-.book-subcategories h2 { font-family: 'Playfair Display', Georgia, serif; font-size: 1.25rem; color: #000; margin: 0 0 1rem; }
-.book-subcat-link { display: flex; align-items: center; justify-content: space-between; padding: 0.85rem 1.25rem; background: #f9f9f9; border: 1px solid #e5e5e5; border-radius: 8px; text-decoration: none; color: #1a1a1a; margin-bottom: 0.5rem; transition: all 0.15s; }
-.book-subcat-link:hover { background: #f0f0f0; border-color: #ccc; }
-.book-subcat-link span { font-family: 'Source Sans Pro', sans-serif; font-size: 0.95rem; font-weight: 600; }
-.subcat-count { font-weight: 400; color: #888; font-size: 0.85rem; }
-</style>
-
-{{ else }}
-{{/* ── DEFAULT SECTION LAYOUT ── */}}
-<div class="section-page">
-    <!-- Breadcrumb -->
-    <nav class="breadcrumb">
-        {{ if .Parent }}
-            {{ if .Parent.Parent }}
-                {{ range .Ancestors.Reverse }}
-                    {{ if ne .Kind "home" }}
-                    <a href="{{ .Permalink }}">{{ .Title }}</a> <span class="sep">›</span>
-                    {{ end }}
-                {{ end }}
-            {{ else }}
-                <a href="{{ "essays/" | absURL }}">Essays</a> <span class="sep">›</span>
-            {{ end }}
-        {{ end }}
-        <span class="current">{{ .Title }}</span>
-    </nav>
-
-    <header class="section-header">
-        <h1>{{ .Title }}</h1>
-        {{ with .Content }}
-        <div class="section-description">{{ . }}</div>
-        {{ end }}
+{{/* ── ESSAYS SECTION LAYOUT — always essay-style drilldown ── */}}
+{{/* Book-toc browsing is handled separately by categories/term.html */}}
+<div class="essays-landing">
+    <header class="el-header">
+        <h1>{{ .Title | lower | title }}</h1>
+        <div class="el-rule"></div>
+        {{ with .Content }}<div class="el-desc">{{ . }}</div>{{ end }}
     </header>
 
-    <!-- Subcategory Cards (child sections) -->
-    {{ if .Sections }}
-    <div class="subsections">
-        <div class="subsection-grid">
+    <nav class="el-breadcrumb">
+        <a href="{{ "essays/" | absURL }}">Essays</a>
+        {{ range .Ancestors.Reverse }}
+            {{ if and (ne .Kind "home") (ne .Kind "taxonomy") }}
+                {{ if ne .RelPermalink ($.FirstSection.RelPermalink) }}
+                <span class="el-sep">›</span> <a href="{{ .Permalink }}">{{ .Title | lower | title }}</a>
+                {{ end }}
+            {{ end }}
+        {{ end }}
+        <span class="el-sep">›</span> <span class="el-bc-current">{{ .Title | lower | title }}</span>
+    </nav>
+
+    <div class="el-body">
+        {{ if .Sections }}
+        <div class="el-sec-head"><span class="el-sec-title">Subcategories</span></div>
+        <div class="el-section-list">
             {{ range .Sections }}
-            <a href="{{ .Permalink }}" class="subsection-card">
-                <h3>{{ .Title }}</h3>
-                {{ $subs := len .Sections }}
-                {{ $pages := len .RegularPages }}
-                {{ $allPages := len .RegularPagesRecursive }}
-                <div class="subsection-meta">
-                    {{ if gt $subs 0 }}
-                    <span>{{ $subs }} {{ if eq $subs 1 }}subcategory{{ else }}subcategories{{ end }}</span>
+            <div class="el-subcat-group">
+                <div class="el-subcat-row" onclick="this.parentElement.classList.toggle('el-open')">
+                    <span class="el-subcat-toggle">▸</span>
+                    <a href="{{ .Permalink }}" class="el-subcat-name" onclick="event.stopPropagation()">{{ .Title | lower | title }}</a>
+                    <span class="el-subcat-count">{{ len .RegularPagesRecursive }} →</span>
+                </div>
+                <div class="el-subcat-children">
+                    {{ range .Sections }}
+                    <a href="{{ .Permalink }}" class="el-child-row">
+                        <span>{{ .Title | lower | title }}</span>
+                        <span class="el-child-count">{{ len .RegularPagesRecursive }}</span>
+                    </a>
                     {{ end }}
-                    {{ if gt $allPages 0 }}
-                    {{ $label := .Params.itemLabel | default ($.Params.itemLabel | default "essay") }}
-                    {{ $labelPlural := printf "%ss" $label }}
-                    <span>{{ $allPages }} {{ if eq $allPages 1 }}{{ $label }}{{ else }}{{ $labelPlural }}{{ end }}</span>
+                    {{/* Use ByWeight for book chapters, ByTitle for regular essays */}}
+                    {{ if .Params.book }}
+                    {{ range .RegularPages.ByWeight }}
+                    <a href="{{ .Permalink }}" class="el-child-essay">
+                        {{ .Title | lower | title }}
+                    </a>
+                    {{ end }}
+                    {{ else }}
+                    {{ range .RegularPages.ByTitle }}
+                    <a href="{{ .Permalink }}" class="el-child-essay">
+                        {{ .Title | lower | title }}
+                    </a>
+                    {{ end }}
                     {{ end }}
                 </div>
-                <span class="subsection-arrow">→</span>
+            </div>
+            {{ end }}
+        </div>
+        {{ end }}
+
+        {{ if .RegularPages }}
+        <div class="el-sec-head" {{ if .Sections }}style="margin-top: 1.5rem;"{{ end }}><span class="el-sec-title">Essays</span></div>
+        <div class="el-essay-list">
+            {{/* Use ByWeight for book chapters, ByTitle for regular essays */}}
+            {{ if .Params.book }}
+            {{ range .RegularPages.ByWeight }}
+            <a href="{{ .Permalink }}" class="el-essay-row">
+                {{ .Title | lower | title }}
             </a>
             {{ end }}
-        </div>
-    </div>
-    {{ end }}
-
-    <!-- Essays in this section (direct children only) -->
-    {{ if .RegularPages }}
-    <div class="section-essays">
-        {{ if .Sections }}<h2 class="essays-heading">Essays in This Section</h2>{{ end }}
-        <div class="essay-list">
+            {{ else }}
             {{ range .RegularPages.ByTitle }}
-            <article class="essay-row">
-                <h3><a href="{{ .Permalink }}"><svg class="essay-icon" width="14" height="14" viewBox="0 0 16 16" fill="none"><path d="M4 1h5.5L13 4.5V13a2 2 0 01-2 2H5a2 2 0 01-2-2V3a2 2 0 012-2z" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/><path d="M9.5 1v4H13" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/></svg>{{ .Title }}</a></h3>
-                {{ if .Params.author }}
-                <span class="essay-author">{{ .Params.author }}</span>
-                {{ end }}
-            </article>
+            <a href="{{ .Permalink }}" class="el-essay-row">
+                {{ .Title | lower | title }}
+            </a>
+            {{ end }}
             {{ end }}
         </div>
-    </div>
-    {{ end }}
+        {{ end }}
 
-    {{ if and (not .Sections) (not .RegularPages) }}
-    <p class="empty-notice">No content in this section yet.</p>
-    {{ end }}
+        {{ if and (not .Sections) (not .RegularPages) }}
+        <p class="el-empty">No content in this section yet.</p>
+        {{ end }}
+    </div>
 </div>
-{{ end }}{{/* end book-toc check */}}
 
 <style>
-.section-page {
-    max-width: 960px;
-    margin: 0 auto;
-}
+.essays-landing { max-width: 1100px; margin: 0 auto; padding: 0 2rem; }
+.el-header { text-align: center; padding: 3rem 0 2.5rem; border-bottom: 1px solid #ebebeb; }
+.el-header h1 { font-family: 'Playfair Display', serif; font-size: 2.25rem; font-weight: 700; color: #000; margin: 0 0 0.5rem; }
+.el-rule { width: 64px; height: 1px; background: linear-gradient(90deg, transparent, #c0b8a8, transparent); margin: 0 auto 0.75rem; }
+.el-desc { font-family: 'Source Sans Pro', sans-serif; font-size: 1rem; color: #777; text-align: center; }
+.el-desc p { margin: 0; }
+.el-breadcrumb { padding: 0.75rem 0; border-bottom: 1px solid #f0eeea; font-family: 'Source Sans Pro', sans-serif; font-size: 0.85rem; color: #888; }
+.el-breadcrumb a { color: #666; text-decoration: none; }
+.el-breadcrumb a:hover { color: #2f4c3a; }
+.el-sep { margin: 0 0.35rem; color: #ccc; }
+.el-bc-current { color: #000; font-weight: 600; }
+.el-body { background: #f8f6f2; padding: 2rem; margin: 0 -2rem; }
+.el-sec-head { padding-left: 0.85rem; border-left: 3px solid #2f4c3a; margin-bottom: 1rem; }
+.el-sec-title { font-family: 'Source Sans Pro', sans-serif; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.16em; color: #2f4c3a; }
 
-/* Breadcrumb */
-.breadcrumb {
-    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
-    font-size: 0.85rem;
-    color: var(--color-text-muted, #888);
-    margin-bottom: 2rem;
-    padding: 0.75rem 0;
-    border-bottom: 1px solid var(--color-border, #e5e5e5);
-}
-.breadcrumb a {
-    color: var(--color-text-secondary, #555);
-    text-decoration: none;
-}
-.breadcrumb a:hover {
-    color: var(--color-accent, #9c7c38);
-}
-.breadcrumb .sep {
-    margin: 0 0.4rem;
-    color: var(--color-text-muted, #ccc);
-}
-.breadcrumb .current {
-    color: var(--color-primary, #000);
-    font-weight: 600;
-}
+.el-section-list { background: #fff; border: 1px solid #e3e0d8; border-radius: 3px; padding: 0.5rem 1rem; }
 
-/* Section Header */
-.section-header {
-    margin-bottom: 2.5rem;
-}
-.section-header h1 {
-    font-family: var(--font-display, 'Playfair Display', Georgia, serif);
-    font-size: 2rem;
-    font-weight: 600;
-    color: var(--color-primary, #000);
-    margin: 0 0 0.75rem;
-}
-.section-description {
-    font-size: 1rem;
-    color: var(--color-text-secondary, #555);
-    line-height: 1.6;
-}
-.section-description p {
-    margin: 0;
-}
+.el-subcat-group { border-bottom: 1px solid #f5f3ef; }
+.el-subcat-group:last-child { border-bottom: none; }
+.el-subcat-row { display: flex; align-items: center; padding: 0.4rem 0; font-family: 'Source Sans Pro', sans-serif; font-size: 0.88rem; color: #444; cursor: pointer; transition: color .15s; user-select: none; }
+.el-subcat-row:hover { color: #2f4c3a; }
+.el-subcat-toggle { font-size: 0.65rem; color: #bbb; margin-right: 0.4rem; transition: transform .2s; flex-shrink: 0; width: 0.8rem; }
+.el-open > .el-subcat-row .el-subcat-toggle { transform: rotate(90deg); color: #2f4c3a; }
+.el-subcat-name { flex: 1; color: inherit; text-decoration: none; }
+.el-subcat-name:hover { color: #2f4c3a; text-decoration: underline; }
+.el-subcat-count { color: #bbb; font-size: 0.78rem; margin-left: 0.5rem; }
+.el-subcat-row:hover .el-subcat-count { color: #2f4c3a; }
+.el-subcat-children { display: none; padding-left: 1.2rem; padding-bottom: 0.35rem; border-left: 2px solid #eceae6; margin-left: 0.3rem; margin-top: 0.15rem; }
+.el-open > .el-subcat-children { display: block; }
+.el-child-row { display: flex; align-items: center; justify-content: space-between; padding: 0.22rem 0; font-family: 'Source Sans Pro', sans-serif; font-size: 0.78rem; color: #555; text-decoration: none; transition: color .15s; }
+.el-child-row:hover { color: #2f4c3a; }
+.el-child-count { color: #ccc; font-size: 0.7rem; }
+.el-child-row:hover .el-child-count { color: #2f4c3a; }
+.el-child-essay { display: block; padding: 0.22rem 0; font-family: 'Source Sans Pro', sans-serif; font-size: 0.78rem; color: #555; text-decoration: none; transition: color .15s; }
+.el-child-essay:hover { color: #2f4c3a; }
 
-/* Subcategory Grid */
-.subsections {
-    margin-bottom: 3rem;
-}
-.subsection-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-    gap: 1rem;
-}
-.subsection-card {
-    display: flex;
-    flex-direction: column;
-    padding: 1.25rem 1.5rem;
-    background: var(--color-bg, #fff);
-    border: 1px solid var(--color-border, #e5e5e5);
-    border-left: 4px solid var(--color-accent, #9c7c38);
-    border-radius: 8px;
-    text-decoration: none;
-    color: inherit;
-    transition: all 0.2s ease;
-    position: relative;
-}
-.subsection-card:hover {
-    border-color: var(--color-accent, #9c7c38);
-    box-shadow: 0 4px 12px rgba(0,0,0,0.06);
-    transform: translateY(-2px);
-}
-.subsection-card h3 {
-    font-family: var(--font-display, 'Playfair Display', Georgia, serif);
-    font-size: 1.1rem;
-    font-weight: 600;
-    color: var(--color-primary, #000);
-    margin: 0 0 0.5rem;
-    padding-right: 1.5rem;
-}
-.subsection-meta {
-    display: flex;
-    gap: 1rem;
-    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
-    font-size: 0.8rem;
-    color: var(--color-text-muted, #888);
-}
-.subsection-arrow {
-    position: absolute;
-    top: 1.25rem;
-    right: 1.25rem;
-    font-size: 1.1rem;
-    color: var(--color-text-muted, #ccc);
-    transition: color 0.2s;
-}
-.subsection-card:hover .subsection-arrow {
-    color: var(--color-accent, #9c7c38);
-}
+.el-essay-list { background: #fff; border: 1px solid #e3e0d8; border-radius: 3px; padding: 0.5rem 1rem; }
+.el-essay-row { display: block; padding: 0.35rem 0; font-family: 'Source Sans Pro', sans-serif; font-size: 0.88rem; color: #444; text-decoration: none; border-bottom: 1px solid #f5f3ef; transition: color .15s; }
+.el-essay-row:last-child { border-bottom: none; }
+.el-essay-row:hover { color: #2f4c3a; }
 
-/* Essay List */
-.section-essays {
-    margin-top: 1rem;
-}
-.essays-heading {
-    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
-    font-size: 0.85rem;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.06em;
-    color: var(--color-text-muted, #888);
-    margin: 0 0 1rem;
-    padding-bottom: 0.5rem;
-    border-bottom: 1px solid var(--color-border, #e5e5e5);
-}
-.essay-list {
-    display: flex;
-    flex-direction: column;
-}
-.essay-row {
-    display: flex;
-    align-items: baseline;
-    justify-content: space-between;
-    padding: 0.65rem 0;
-    border-bottom: 1px solid var(--color-border-light, #f0f0f0);
-}
-.essay-row:last-child {
-    border-bottom: none;
-}
-.essay-row h3 {
-    font-family: var(--font-body, 'Source Serif Pro', Georgia, serif);
-    font-size: 1rem;
-    font-weight: 500;
-    margin: 0;
-}
-.essay-row h3 a {
-    color: var(--color-text, #1a1a1a);
-    text-decoration: none;
-    display: inline-flex;
-    align-items: baseline;
-    gap: 0.4rem;
-}
-.essay-row h3 a:hover {
-    color: var(--color-accent, #9c7c38);
-}
-.essay-icon {
-    flex-shrink: 0;
-    position: relative;
-    top: 0.15em;
-    color: var(--color-text-muted, #aaa);
-    transition: color 0.15s;
-}
-.essay-row h3 a:hover .essay-icon {
-    color: var(--color-accent, #9c7c38);
-}
-.essay-author {
-    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
-    font-size: 0.8rem;
-    color: var(--color-text-muted, #888);
-    white-space: nowrap;
-    margin-left: 1rem;
-}
-.empty-notice {
-    color: var(--color-text-muted, #888);
-    font-style: italic;
-    text-align: center;
-    padding: 3rem 0;
-}
+.el-empty { color: #888; font-style: italic; text-align: center; padding: 3rem 0; }
 
-@media (max-width: 768px) {
-    .subsection-grid {
-        grid-template-columns: 1fr;
-    }
-    .section-header h1 {
-        font-size: 1.5rem;
-    }
-    .essay-row {
-        flex-direction: column;
-        gap: 0.25rem;
-    }
-}
+@media (max-width: 768px) { .el-body { padding: 1.5rem 1rem; margin: 0 -1rem; } }
+@media (max-width: 540px) { .el-header h1 { font-size: 1.75rem; } .essays-landing { padding: 0 1.1rem; } }
 </style>
 {{ end }}

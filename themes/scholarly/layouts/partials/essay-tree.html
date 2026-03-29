@@ -1,0 +1,42 @@
+{{/* Recursive partial for rendering nested essay sections inline */}}
+{{/* Usage: {{ partial "essay-tree.html" (dict "section" .section "depth" 0) }} */}}
+{{ $section := .section }}
+{{ $depth := .depth }}
+{{ $maxDepth := 4 }}
+
+{{ if lt $depth $maxDepth }}
+{{ $subcats := $section.Sections }}
+{{ $essays := $section.RegularPages.ByTitle }}
+{{ $subcatCount := len $subcats }}
+{{ $essayCount := len $essays }}
+
+{{ if $subcats }}
+<div class="et-group">
+    <span class="et-label">Subcategories</span>
+    {{ range $subcats }}
+    <div class="et-subcat">
+        <div class="et-subcat-header" onclick="this.parentElement.classList.toggle('et-open')">
+            <span class="et-subcat-name">{{ .Title | lower | title }}</span>
+            <span class="et-subcat-meta">
+                <span class="et-subcat-count">{{ len .RegularPagesRecursive }}</span>
+                <span class="et-toggle">▸</span>
+            </span>
+        </div>
+        <div class="et-subcat-body">
+            {{ partial "essay-tree.html" (dict "section" . "depth" (add $depth 1)) }}
+        </div>
+    </div>
+    {{ end }}
+</div>
+{{ end }}
+
+{{ if $essays }}
+<div class="et-group">
+    <span class="et-label">Essays</span>
+    {{ range $essays }}
+    <a href="{{ .Permalink }}" class="et-essay-link">{{ .Title | lower | title }}</a>
+    {{ end }}
+</div>
+{{ end }}
+
+{{ end }}

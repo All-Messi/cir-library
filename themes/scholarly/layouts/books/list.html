@@ -14,6 +14,13 @@
         "/essays/interpretation/commentaries/sermon-on-the-mount-book"
         "/essays/evidences/apologetics-book"
     }}
+    {{ $catSlugs := slice
+        "categories/getting-the-point-book"
+        "categories/christian-living"
+        "categories/nature-of-man-book"
+        "categories/sermon-on-the-mount-book"
+        "categories/apologetics-book"
+    }}
     {{ $spineClasses := slice "hp-bs-interp" "hp-bs-theology" "hp-bs-theology" "hp-bs-commentary" "hp-bs-evidences" }}
     {{ $cats := slice "Interpretation" "Theology" "Theology" "Commentary" "Evidences" }}
     {{ $descs := slice
@@ -32,8 +39,9 @@
             {{ $desc := index $descs $i }}
             {{ if $book }}
                 {{ $chapterCount := len $book.RegularPages }}
+                {{ $catSlug := index $catSlugs $i }}
                 {{ if gt $chapterCount 0 }}
-                <a href="{{ $book.RelPermalink }}" class="hp-bookcard {{ $spineClass }}">
+                <a href="{{ $catSlug | absURL }}" class="hp-bookcard {{ $spineClass }}">
                 {{ else }}
                 <div class="hp-bookcard {{ $spineClass }}">
                 {{ end }}

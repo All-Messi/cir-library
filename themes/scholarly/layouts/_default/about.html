@@ -1,0 +1,148 @@
+{{ define "main" }}
+<div class="about-page">
+    <header class="ap-header">
+        <h1>{{ .Title }}</h1>
+        <div class="ap-rule"></div>
+    </header>
+
+    <div class="ap-layout">
+        {{ if .TableOfContents }}
+        <aside class="ap-sidebar">
+            <div class="ap-toc">
+                <span class="ap-toc-label">Contents</span>
+                {{ .TableOfContents }}
+            </div>
+        </aside>
+        {{ end }}
+
+        <div class="ap-content">
+            {{ .Content }}
+        </div>
+    </div>
+</div>
+
+<style>
+.about-page { max-width: 960px; margin: 0 auto; padding: 0 2rem; }
+
+.ap-header { text-align: center; padding: 3rem 0 2.5rem; border-bottom: 1px solid #ebebeb; }
+.ap-header h1 { font-family: 'Playfair Display', serif; font-size: 2.25rem; font-weight: 700; color: #000; margin: 0 0 0.5rem; }
+.ap-rule { width: 64px; height: 1px; background: linear-gradient(90deg, transparent, #c0b8a8, transparent); margin: 0 auto; }
+
+.ap-layout {
+    display: grid;
+    grid-template-columns: 180px 1fr;
+    gap: 2rem;
+    padding: 2rem 0;
+}
+
+.ap-sidebar {
+    position: sticky;
+    top: calc(var(--header-height, 70px) + 1.5rem);
+    align-self: start;
+}
+.ap-toc {
+    background: #f8f6f2;
+    border-radius: 3px;
+    padding: 1rem;
+}
+.ap-toc-label {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 0.62rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: #2f4c3a;
+    display: block;
+    margin-bottom: 0.65rem;
+}
+.ap-toc ul { list-style: none; margin: 0; padding: 0; }
+.ap-toc li { margin: 0; }
+.ap-toc a {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 0.78rem;
+    color: #555;
+    text-decoration: none;
+    display: block;
+    padding: 0.3rem 0;
+    border-bottom: 1px solid #eceae6;
+    transition: color .15s;
+}
+.ap-toc li:last-child a { border-bottom: none; }
+.ap-toc a:hover { color: #2f4c3a; }
+/* Nested TOC items */
+.ap-toc ul ul { padding-left: 0.75rem; }
+.ap-toc ul ul a { font-size: 0.72rem; color: #888; }
+
+/* Content body */
+.ap-content {
+    max-width: 680px;
+    font-family: 'Source Serif Pro', serif;
+    font-size: 1rem;
+    line-height: 1.78;
+    color: #333;
+}
+.ap-content h2 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 0.78rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.16em;
+    color: #2f4c3a;
+    padding-left: 0.85rem;
+    border-left: 3px solid #2f4c3a;
+    margin: 2.5rem 0 1rem;
+}
+.ap-content h2:first-child { margin-top: 0; }
+/* Anchor offset for sticky header */
+.ap-content h2[id], .ap-content h3[id] { scroll-margin-top: calc(var(--header-height, 70px) + 2rem); }
+.ap-content h3 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 0.72rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: #2f4c3a;
+    padding-left: 0.85rem;
+    border-left: 3px solid rgba(47,76,58,0.3);
+    margin: 1.5rem 0 0.75rem;
+}
+.ap-content p { margin: 0 0 1rem; }
+.ap-content hr { border: none; border-top: 1px solid #eceae6; margin: 2rem 0; }
+.ap-content strong { color: #2f4c3a; font-weight: 600; }
+.ap-content ul { padding-left: 1.25rem; }
+.ap-content li { margin-bottom: 0.35rem; }
+
+/* Sigla table override */
+.ap-content table.sigla-table,
+.ap-content .sigla-table {
+    background: #f8f6f2 !important;
+    border: 1px solid #e8e4dc !important;
+    border-radius: 3px !important;
+    padding: 0.75rem 1.25rem !important;
+    margin: 0.75rem 0 1.5rem !important;
+    width: 100% !important;
+    border-collapse: collapse !important;
+}
+.ap-content .sigla-table td {
+    padding: 0.4rem 1rem 0.4rem 0.5rem !important;
+    vertical-align: top !important;
+    font-size: 0.9rem !important;
+    line-height: 1.5 !important;
+    border: none !important;
+}
+.ap-content .sigla-table .sigla-symbol {
+    font-weight: 600 !important;
+    white-space: nowrap !important;
+    color: #2f4c3a !important;
+    padding-right: 2rem !important;
+}
+
+
+@media (max-width: 768px) {
+    .ap-layout { grid-template-columns: 1fr; }
+    .ap-sidebar { position: static; }
+    .ap-header h1 { font-size: 1.75rem; }
+    .about-page { padding: 0 1.1rem; }
+}
+</style>
+{{ end }}
