@@ -1,13 +1,13 @@
 ---
-author: Virgil Warren, PhD
+title: "THE SEVENTY-WEEK PROPHECY OF DANIEL 9"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Future Things Eschatology
-date: '2026-02-16'
-draft: false
-title: THE SEVENTY-WEEK PROPHECY OF DANIEL 9
+- 'Topics'
+- 'Christian Doctrine'
+- 'Future Things Eschatology'
 weight: 70
+draft: false
 ---
 
 <style>

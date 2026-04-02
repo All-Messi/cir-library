@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "A CLUSTER OF POSITIONS"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Nt
-- Timothy Titus Pastorals
-date: '2026-02-16'
+- 'Evidences'
+- 'Critical Intro Nt'
+- 'Timothy Titus Pastorals'
 draft: false
-title: A CLUSTER OF POSITIONS
-weight: 3
 ---
 
 <style>

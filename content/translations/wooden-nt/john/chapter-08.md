@@ -11,7 +11,8 @@ next: chapter-09
 
 ## John Chapter 8
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>8</span></b><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>:1</span></sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And Jesus went to the Mount of-[the] Olives. <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> And again early-in-the-morning he-arrived in the temple, and all the people began-to-come to him; and, having-sat-down, he-began-to-teach them. </span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And Jesus went to the Mount of-[the] Olives. </span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> And again early-in-the-morning he-arrived in the temple, and all the people began-to-come to him; and, having-sat-down, he-began-to-teach them. </span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> And the scribes and the Pharisees bring (a) woman having-been-caught in adultery; and, having-stood her in (the) midst, </span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> they-say to-him, <i>“Teacher, this [the] woman has-been-caught committing-adultery—in (the) very-act. </i></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i>And in the Law Moses commanded to-stone [the] such (a woman). So what do┘you└say?” </i></span></span></p>

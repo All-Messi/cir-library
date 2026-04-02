@@ -1,13 +1,13 @@
 ---
-author: Virgil Warren, PhD
+title: "A FORMAT FOR THINKING ABOUT FEET WASHING"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Feetwashing
-date: '2026-02-16'
-draft: false
-title: A FORMAT FOR THINKING ABOUT FEET WASHING
+- 'Topics'
+- 'Christian Doctrine'
+- 'Feetwashing'
 weight: 100
+draft: false
 ---
 
 <style>

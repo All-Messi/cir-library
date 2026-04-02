@@ -11,7 +11,8 @@ next: chapter-06
 
 ## Acts Chapter 5
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><b><span style='font-size: 16.0pt;line-height:115%;font-family:"Times New Roman",serif'>5</span></b><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>:1</span></sup></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>nd a-certain man, Ananias by-name, with Sapphira the wife of-him, sold a-piece-of-land, </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and kept-back from the price, the/his wife also sharing-knowledge (of it); and having-brought a-certain part, put (it) by the feet of-the apostles. </span></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>nd a-certain man, Ananias by-name, with Sapphira the wife of-him, sold a-piece-of-land, </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and kept-back from the price, the/his wife also sharing-knowledge (of it); and having-brought a-certain part, put (it) by the feet of-the apostles. </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And [the] Peter said, </span></span></p>
 

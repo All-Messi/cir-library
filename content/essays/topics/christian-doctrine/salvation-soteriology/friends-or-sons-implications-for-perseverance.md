@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "'FRIENDS' OR 'SONS'? IMPLICATIONS FOR PERSEVERANCE"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Salvation Soteriology
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Salvation Soteriology'
 draft: false
-title: “FRIENDS” OR “SONS”? IMPLICATIONS FOR PERSEVERANCE
-weight: 3
 ---
 
 <style>

@@ -11,7 +11,8 @@ next: chapter-12
 
 ## Mark Chapter 11
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>11</span></b><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>:1</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And when they-are-nearing [to] Jerusalem, to Bethphage and Bethany, to the Mount of-[the] Olives, he-sends two of-the disciples of-him, </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and he-says to-them, </span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And when they-are-nearing [to] Jerusalem, to Bethphage and Bethany, to the Mount of-[the] Olives, he-sends two of-the disciples of-him, </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and he-says to-them, </span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Go into the village [the] across-from you, and immediately, entering into it, you-will-find (a) donkey-colt tied, on which nobody of-men [not-yet]<sup>ms</sup> sat. Untie it and bring (it). </span></i><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And if anybody says to-you, ‘Why are-you-doing this,’ say, ‘The Lord has need of-it,’ and immediately he-will-send it back here.” </span></i></span></p>
 

@@ -1,12 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "'BEYOND THE JORDAN': A PHRASE IN QUESTION"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Ot
-date: '2026-02-16'
-draft: false
-title: '“BEYOND THE JORDAN”:  A PHRASE IN QUESTION'
+- 'Evidences'
+- 'Critical Intro Ot'
 weight: 20
+draft: false
 ---
 
 <style>

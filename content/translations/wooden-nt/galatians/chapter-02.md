@@ -11,8 +11,9 @@ next: chapter-03
 
 ## Galatians Chapter 2
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>2</span></b><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>:1</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then after fourteen years again I-went-up to Jerusalem with Barnabas, also taking┘Titus└along.
-</span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But I-went-up by revelation and I-put-before them the gospel that I-was-preaching among the Gentiles, but privately to-the reputed-ones lest somehow I-would-be-running or had-run in vain. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then after fourteen years again I-went-up to Jerusalem with Barnabas, also taking┘Titus└along.
+</span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But I-went-up by revelation and I-put-before them the gospel that I-was-preaching among the Gentiles, but privately to-the reputed-ones lest somehow I-would-be-running or had-run in vain. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But not-even Titus the-one with me, being (a) Greek, was-compelled to-be-circumcised.
 </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But because-of secretly-come-in false-brothers, who-slipped-in to-spy-out the liberty of-us that we-have in Christ Jesus, in-order-that they-would-bring┘us└into-bondage,

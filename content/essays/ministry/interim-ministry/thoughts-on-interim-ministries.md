@@ -1,12 +1,11 @@
 ---
-author: Virgil Warren
+title: "THOUGHTS ON INTERIM MINISTRIES"
+author: "Virgil Warren"
+date: '2026-04-02'
 categories:
-- Ministry
-- Interim Ministry
-date: '2026-02-16'
+- 'Ministry'
+- 'Interim Ministry'
 draft: false
-title: THOUGHTS ON INTERIM MINISTRIES
-weight: 2
 ---
 
 <style>

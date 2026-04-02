@@ -4,7 +4,7 @@ categories:
 - Bible Resources
 date: '2026-02-16'
 draft: false
-title: CHRIST’S RESURRECTION APPEARANCES
+title: CHRIST'S RESURRECTION APPEARANCES
 weight: 1
 ---
 

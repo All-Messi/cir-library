@@ -1,14 +1,13 @@
 ---
-author: Virgil Warren, PhD
+title: "CRITERIA FOR A BIBLICAL VIEW OF HUMAN ABILITY"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Mankind Anthropology
-- Depravity
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Mankind Anthropology'
+- 'Depravity'
 draft: false
-title: CRITERIA FOR A BIBLICAL VIEW OF HUMAN ABILITY
-weight: 4
 ---
 
 <style>

@@ -11,10 +11,6 @@ prev: chapter-02
 ## Joel Chapter 3
 
 
-### Joel 2:28-32
-
-
-
 ### Judgment Against Enemy Nations
 
 

@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "CHARACTERISTICS AND PECULIARITIES OF ROMANS"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Nt
-- Romans
-date: '2026-02-16'
+- 'Evidences'
+- 'Critical Intro Nt'
+- 'Romans'
 draft: false
-title: CHARACTERISTICS AND PECULIARITIES OF ROMANS
-weight: 3
 ---
 
 <style>

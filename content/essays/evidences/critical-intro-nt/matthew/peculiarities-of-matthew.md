@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "PECULIARITIES OF MATTHEW"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Nt
-- Matthew
-date: '2026-02-16'
+- 'Evidences'
+- 'Critical Intro Nt'
+- 'Matthew'
 draft: false
-title: PECULIARITIES OF MATTHEW
-weight: 3
 ---
 
 <style>

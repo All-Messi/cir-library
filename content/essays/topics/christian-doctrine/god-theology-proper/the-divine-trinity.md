@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "THE DIVINE TRINITY"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- God Theology Proper
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'God Theology Proper'
 draft: false
-title: THE DIVINE TRINITY
-weight: 3
 ---
 
 <style>
@@ -268,7 +267,7 @@ John<b> 1</b>:33f</span></p>
 procession of the Spirit: John <b>14</b>:16, 26           </span></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt'>      
-                                <img width=216 height=111
+                                <img width=219 height=109 id="Picture 2"
 src="/cir-library/images/essays/the-divine-trinity/image001.png"></span></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt'>&nbsp;</span></p>
@@ -473,7 +472,7 @@ in which God presents himself. (But see John <b>1</b>:2; <b>17</b>:5.)</span></p
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt'>                                   
-<img width=242 height=157 src="/cir-library/images/essays/the-divine-trinity/image002.png"></span></p>
+<img width=245 height=157 id="Picture 1" src="/cir-library/images/essays/the-divine-trinity/image002.png"></span></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:8.0pt'>&nbsp;</span></p>
 
@@ -881,5 +880,5 @@ of proof is always on the affirmative.</span></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt'>christir.org</span></p>
+<p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt'>                                                                                                                                christir.org</span></p>
 </div>

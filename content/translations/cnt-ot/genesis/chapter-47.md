@@ -78,7 +78,8 @@ next: chapter-48
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            He swore to him. </span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Then Israel bowed at the head of the bed.                                                                       </span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Then Israel bowed at the head of the bed</span></b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span><b><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>[cp Heb 11:21; see LXX]</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.
+                                 </span></p>
 
 <p class="section-ref">Gen 47:27-31</p>
 

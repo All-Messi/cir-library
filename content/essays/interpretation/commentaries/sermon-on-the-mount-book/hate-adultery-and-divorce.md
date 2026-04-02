@@ -6,7 +6,7 @@ categories:
 - Sermon On The Mount Book
 date: '2026-02-16'
 draft: false
-title: 'HATE, ADULTERY, AND DIVORCE:'
+title: "HATE, ADULTERY, AND DIVORCE:"
 weight: 4
 ---
 

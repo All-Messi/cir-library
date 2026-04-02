@@ -1,13 +1,13 @@
 ---
-author: Virgil Warren, PhD
+title: "JAMES: COMPETITION CONVERTED TO LOVE"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Book Studies
-- James
-date: '2026-02-16'
-draft: false
-title: 'JAMES: COMPETITION CONVERTED TO LOVE'
+- 'Topics'
+- 'Book Studies'
+- 'James'
 weight: 1
+draft: false
 ---
 
 <style>

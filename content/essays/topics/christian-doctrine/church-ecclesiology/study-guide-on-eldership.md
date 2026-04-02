@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "STUDY GUIDE ON ELDERSHIP"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Church Ecclesiology
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Church Ecclesiology'
 draft: false
-title: STUDY GUIDE ON ELDERSHIP
-weight: 3
 ---
 
 <style>

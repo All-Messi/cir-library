@@ -1,12 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "COMMENTS ON 'FULFILL'"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Interpretation
-- Getting The Point Book
-date: '2026-02-16'
-draft: false
-title: COMMENTS ON “FULFILL”
+- 'Interpretation'
+- 'Getting The Point Book'
 weight: 107
+draft: false
 ---
 
 <style>

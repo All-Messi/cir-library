@@ -5,7 +5,7 @@ categories:
 - Evil Problem Of Theodicy
 date: '2026-02-16'
 draft: false
-title: 'GOOD AND EVIL IN ETERNAL PERSPECTIVE:'
+title: "GOOD AND EVIL IN ETERNAL PERSPECTIVE:"
 weight: 2
 ---
 

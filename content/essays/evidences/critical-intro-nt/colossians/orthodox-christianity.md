@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "ORTHODOX CHRISTIANITY"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Nt
-- Colossians
-date: '2026-02-16'
+- 'Evidences'
+- 'Critical Intro Nt'
+- 'Colossians'
 draft: false
-title: ORTHODOX CHRISTIANITY
-weight: 3
 ---
 
 <style>
@@ -45,7 +44,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'><img width=354 height=210
+style='font-size:12.0pt'><img width=354 height=210 id="Picture 1"
 src="/cir-library/images/essays/orthodox-christianity/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span

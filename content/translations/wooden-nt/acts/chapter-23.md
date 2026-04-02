@@ -11,7 +11,7 @@ next: chapter-24
 
 ## Acts Chapter 23
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>            </span><b><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>23</span></b><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>:1</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And [the] Paul, having-looked-intently/straight at-the Sanhedrin, said, <i>“Men brothers, in-all good conscience I-have-conducted-my-life toward-[the] God until this [the] day.”</i> </span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And [the] Paul, having-looked-intently/straight at-the Sanhedrin, said, <i>“Men brothers, in-all good conscience I-have-conducted-my-life toward-[the] God until this [the] day.”</i> </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And the high-priest Ananias commanded the-ones standing-by him to-slap the mouth of-him. </span></span></p>
 

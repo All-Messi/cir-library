@@ -5,7 +5,7 @@ categories:
 - Christian Ministry 105
 date: '2026-02-16'
 draft: false
-title: 'YOUTH MINISTER SEARCH COMMITTEE: SUMMARY REPORT'
+title: "YOUTH MINISTER SEARCH COMMITTEE: SUMMARY REPORT"
 weight: 2
 ---
 

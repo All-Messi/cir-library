@@ -1,13 +1,13 @@
 ---
-author: Virgil Warren, PhD
+title: "HEBREWS AND THE ALEXANDRIAN ORIGIN OR DESTINY"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Nt
-- Hebrews
-date: '2026-02-16'
-draft: false
-title: HEBREWS AND THE ALEXANDRIAN ORIGIN OR DESTINY
+- 'Evidences'
+- 'Critical Intro Nt'
+- 'Hebrews'
 weight: 10
+draft: false
 ---
 
 <style>
@@ -83,7 +83,7 @@ style='font-size:6.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'><img width=332 height=140
+style='font-size:12.0pt'><img width=332 height=140 id="Picture 1"
 src="/cir-library/images/essays/hebrews-and-the-alexandrian-origin-or-destiny/image001.png"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;

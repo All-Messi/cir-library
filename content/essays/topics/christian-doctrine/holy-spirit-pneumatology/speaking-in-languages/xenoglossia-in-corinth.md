@@ -1,14 +1,13 @@
 ---
-author: Virgil Warren, PhD
+title: "XENOGLOSSIA IN CORINTH"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Holy Spirit Pneumatology
-- Speaking In Languages
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Holy Spirit Pneumatology'
+- 'Speaking In Languages'
 draft: false
-title: XENOGLOSSIA IN CORINTH
-weight: 4
 ---
 
 <style>

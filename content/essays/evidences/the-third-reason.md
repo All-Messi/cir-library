@@ -1,11 +1,10 @@
 ---
-author: Virgil Warren, PhD
+title: "THE THIRD REASON"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-date: '2026-02-16'
+- 'Evidences'
 draft: false
-title: THE THIRD REASON
-weight: 1
 ---
 
 <style>

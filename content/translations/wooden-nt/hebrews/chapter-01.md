@@ -10,8 +10,9 @@ next: chapter-02
 
 ## Hebrews Chapter 1
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></b><b><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>1</span></b><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>:1</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In-many-parts and in-many ways [the] God of-old, having-spoken to-the falters in the prophets
-</span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>at (the) last of-[the] these days he-spoke to-us in (a) Son, whom he-appointed heir of-all-things, through whom also he-made the worlds-ages; </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In-many-parts and in-many ways [the] God of-old, having-spoken to-the falters in the prophets
+</span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>at (the) last of-[the] these days he-spoke to-us in (a) Son, whom he-appointed heir of-all-things, through whom also he-made the worlds-ages; </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>who being (the) direct-shining of-the/his glory and (the) exact-image of-the substance/nature of-him, and upholding [the] all-things by-the word of-the power of-him, having-made purification of-[the] sins, sat-down on (the) right-(hand) of-the Majesty in (the) high-things, </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>having-become as-much better than-the angels as he-has-inherited (a) more-excellent name than they.</span></span></p>
 

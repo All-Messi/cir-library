@@ -1,13 +1,12 @@
 ---
-author: "case)\t\t\t                     Virgil Warre, PhD"
+title: "D. Adopting an inappropriate model (cp. allegorizing comparisons and nature of the"
+author: "case) Virgil Warre, PhD"
+date: '2026-04-02'
 categories:
-- Interpretation
-- Getting The Point Book
-date: '2026-02-16'
-draft: false
-title: "D.\tAdopting an inappropriate model (cp. allegorizing comparisons and nature\
-  \ of the"
+- 'Interpretation'
+- 'Getting The Point Book'
 weight: 21
+draft: false
 ---
 
 <style>

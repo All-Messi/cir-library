@@ -1,13 +1,13 @@
 ---
-author: Virgil Warren, PhD
+title: "THE MEANING OF 'IDENTIFICATION WITH CHRIST'"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Atonement
-date: '2026-02-16'
-draft: false
-title: THE MEANING OF “IDENTIFICATION WITH CHRIST”
+- 'Topics'
+- 'Christian Doctrine'
+- 'Atonement'
 weight: 3
+draft: false
 ---
 
 <style>

@@ -11,7 +11,7 @@ next: chapter-18
 
 ## Revelation Chapter 17
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><b><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>17</span></b><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>:1</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And one of the seven angels [the] having the seven bowls came and spoke with me, saying, </span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And one of the seven angels [the] having the seven bowls came and spoke with me, saying, </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Come, I-will-show you the judgment of-the great [the] prostitute [the] sitting on (the) much/many water[s], </span></i><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>with whom the kings of-the earth committed-sexual-immorality and the-ones dwelling-on the earth got/were-drunk from the wine of-the sexual-immorality of-her.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>  </span></span></p>
 

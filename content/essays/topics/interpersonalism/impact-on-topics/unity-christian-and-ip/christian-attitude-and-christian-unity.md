@@ -1,14 +1,13 @@
 ---
-author: Virgil Warren, PhD
+title: "CHRISTIAN ATTITUDE AND CHRISTIAN UNITY"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Interpersonalism
-- Impact On Topics
-- Unity Christian And Ip
-date: '2026-02-16'
+- 'Topics'
+- 'Interpersonalism'
+- 'Impact On Topics'
+- 'Unity Christian And Ip'
 draft: false
-title: CHRISTIAN ATTITUDE AND CHRISTIAN UNITY
-weight: 4
 ---
 
 <style>

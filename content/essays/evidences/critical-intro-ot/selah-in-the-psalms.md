@@ -1,12 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "SELAH IN THE PSALMS"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Ot
-date: '2026-02-16'
-draft: false
-title: SELAH IN THE PSALMS
+- 'Evidences'
+- 'Critical Intro Ot'
 weight: 36
+draft: false
 ---
 
 <style>

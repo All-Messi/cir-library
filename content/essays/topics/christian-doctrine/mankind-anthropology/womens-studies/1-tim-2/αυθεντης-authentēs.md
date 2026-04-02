@@ -1,15 +1,14 @@
 ---
-author: Virgil Warren, PhD
+title: "ΑΥΘΕΝΤΗΣ (AUTHENTĒS)"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Mankind Anthropology
-- Womens Studies
-- 1 Tim 2
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Mankind Anthropology'
+- 'Womens Studies'
+- '1 Tim 2'
 draft: false
-title: ΑΥΘΕΝΤΗΣ  (AUTHENTĒS)
-weight: 5
 ---
 
 <style>

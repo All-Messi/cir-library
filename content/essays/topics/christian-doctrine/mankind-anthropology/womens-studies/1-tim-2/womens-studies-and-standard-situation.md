@@ -1,15 +1,14 @@
 ---
-author: Virgil Warren, PhD
+title: "WOMENS STUDIES AND 'STANDARD SITUATION'"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Mankind Anthropology
-- Womens Studies
-- 1 Tim 2
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Mankind Anthropology'
+- 'Womens Studies'
+- '1 Tim 2'
 draft: false
-title: WOMEN’S STUDIES AND “STANDARD SITUATION”
-weight: 5
 ---
 
 <style>

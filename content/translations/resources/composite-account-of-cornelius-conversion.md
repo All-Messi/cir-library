@@ -4,7 +4,7 @@ categories:
 - Bible Resources
 date: '2026-02-16'
 draft: false
-title: COMPOSITE ACCOUNT OF CORNELIUS’ CONVERSION
+title: COMPOSITE ACCOUNT OF CORNELIUS' CONVERSION
 weight: 1
 ---
 

@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "ACCEPTING THE PAULINE CORPUS"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Nt
-- Ephesians
-date: '2026-02-16'
+- 'Evidences'
+- 'Critical Intro Nt'
+- 'Ephesians'
 draft: false
-title: ACCEPTING THE PAULINE CORPUS
-weight: 3
 ---
 
 <style>

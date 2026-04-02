@@ -1,14 +1,13 @@
 ---
-author: Virgil Warren, PhD
+title: "EVANGELICAL PERSPECTIVES ON MEN-WOMEN RELATIONSHIP"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Mankind Anthropology
-- Womens Studies
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Mankind Anthropology'
+- 'Womens Studies'
 draft: false
-title: EVANGELICAL PERSPECTIVES ON MEN-WOMEN RELATIONSHIP
-weight: 4
 ---
 
 <style>

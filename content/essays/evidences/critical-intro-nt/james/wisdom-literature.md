@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "WISDOM LITERATURE"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Nt
-- James
-date: '2026-02-16'
+- 'Evidences'
+- 'Critical Intro Nt'
+- 'James'
 draft: false
-title: WISDOM LITERATURE
-weight: 3
 ---
 
 <style>
@@ -119,7 +118,7 @@ moving toward the desired conclusion. As anyone can see</span></p>
 <p class=MsoNormal><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt'><img width=159 height=104
+style='font-size:12.0pt'><img width=159 height=104 id="Picture 2"
 src="/cir-library/images/essays/wisdom-literature/image002.png"></span></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt'>&nbsp;</span></p>
@@ -140,7 +139,7 @@ around the</span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt'><img width=234 height=219
+style='font-size:12.0pt'><img width=234 height=219 id="Picture 1"
 src="/cir-library/images/essays/wisdom-literature/image003.png"></span></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt'>&nbsp;</span></p>

@@ -1,13 +1,13 @@
 ---
-author: Virgil Warren, PhD
+title: "THE MEANING OF THE GOLDEN RULE"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Interpretation
-- Commentaries
-- Sermon On The Mount Book
-date: '2026-02-16'
-draft: false
-title: THE MEANING OF THE GOLDEN RULE
+- 'Interpretation'
+- 'Commentaries'
+- 'Sermon On The Mount Book'
 weight: 11
+draft: false
 ---
 
 <style>

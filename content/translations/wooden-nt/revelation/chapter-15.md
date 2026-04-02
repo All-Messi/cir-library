@@ -11,7 +11,7 @@ next: chapter-16
 
 ## Revelation Chapter 15
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><b><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>15</span></b><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>:1</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And I-saw another sign in [the] heaven, great and marvelous, seven angels having seven plagues—the last, because in them the wrath of-[the] God was-finished.</span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And I-saw another sign in [the] heaven, great and marvelous, seven angels having seven plagues—the last, because in them the wrath of-[the] God was-finished.</span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And I-saw as-it-were (a) crystal-clear glass sea mixed with-fire and the-ones overcoming from the beast and from the image of-him and from the number of-the name of-him, standing on the crystal-clear [the] sea, having harps of-[the] God.
 </span></span>

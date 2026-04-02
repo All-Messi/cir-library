@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "'IN THE DAYS OF THOSE KINGS': DANIEL 2:44"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Future Things Eschatology
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Future Things Eschatology'
 draft: false
-title: '“IN THE DAYS OF THOSE KINGS”: DANIEL 2:44'
-weight: 3
 ---
 
 <style>

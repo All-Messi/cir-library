@@ -1,7 +1,7 @@
 ---
 title: "CANDIDATE FOR COMMUNION"
 author: "Virgil Warren, christir.org"
-date: '2026-03-13'
+date: '2026-04-02'
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -153,7 +153,7 @@ observing the Lord’s Supper and obeying Christ in Christian baptism. </span></
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            Communion, however, is a recurrent
+style='font-size:12.0pt'>            <b>Communion, however, is a recurrent
 observance, which means it tends to partake of the nature of worship. As long
 as the young person’s parents or others keep explaining the meaning of the
 Lord’s Supper, there seems to be no necessary problem encountered by allowing a
@@ -163,7 +163,7 @@ churches met in homes. We would think that that reality would tend to involve
 children more in those gatherings where appropriate. That tendency would apply
 especially to a type of communion observance that was part of a love feast.
 Since revelation does not guide us here, the issue reduces to propriety, which
-can be achieved by explanation as much here as in acts of worship. </span></p>
+can be achieved by explanation as much here as in acts of worship. </b></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span

@@ -1,12 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "FORMATS FOR SCRIPTURE REFERENCES"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Interpretation
-- Formats For Scripture References
-date: '2026-02-16'
-draft: false
-title: FORMATS FOR SCRIPTURE REFERENCES
+- 'Interpretation'
+- 'Formats For Scripture References'
 weight: 32
+draft: false
 ---
 
 <style>

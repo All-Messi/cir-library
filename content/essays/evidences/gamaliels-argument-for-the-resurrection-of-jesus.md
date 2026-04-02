@@ -1,11 +1,10 @@
 ---
-author: Virgil Warren, PhD
+title: "GAMALIELS ARGUMENT FOR THE RESURRECTION OF JESUS"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-date: '2026-02-16'
+- 'Evidences'
 draft: false
-title: GAMALIEL’S ARGUMENT FOR THE RESURRECTION OF JESUS
-weight: 1
 ---
 
 <style>

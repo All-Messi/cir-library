@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "SURVEY OF CHRISTIAN DOCTRINE"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Doctrinal Summaries
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Doctrinal Summaries'
 draft: false
-title: SURVEY OF CHRISTIAN DOCTRINE
-weight: 3
 ---
 
 <style>

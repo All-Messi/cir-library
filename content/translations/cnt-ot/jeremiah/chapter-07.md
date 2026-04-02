@@ -36,8 +36,7 @@ next: chapter-08
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Will you steal, murder, commit adultery, swear falsely, sacrifice to Baal, and follow other gods you’ve not known? </span></i></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then
 </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>will you <i>come and try to depend on me in this Temple that wears my name, and think you’re safe—and go on doing those same detestable things? </i></span></span>
-<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Do you regard this Temple as a den of thieves? I’ve seen for myself what it is.</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-                                                                                                                                                  </span></b></span></span></p>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Do you regard this Temple as a den of thieves? </span></i></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Mt 21:13b; Mk 11:7b; Lk 22:37] </span></b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>I’ve seen for myself what it is.</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                                                </span></b></span></span></p>
 
 <p class="section-ref">Jer 7:1-11</p>
 

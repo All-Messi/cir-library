@@ -1,7 +1,7 @@
 ---
-title: "I.  The Article"
+title: "I. The Article"
 author: "Virgil Warren, christir.org"
-date: '2026-03-06'
+date: '2026-04-02'
 categories:
 - 'Topics'
 - 'Greek Features'

@@ -1,13 +1,13 @@
 ---
-author: Virgil Warren, PhD
+title: "BUILDING LIFE ON A FIRM FOUNDATION"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Interpretation
-- Commentaries
-- Sermon On The Mount Book
-date: '2026-02-16'
+- 'Interpretation'
+- 'Commentaries'
+- 'Sermon On The Mount Book'
+weight: 0
 draft: false
-title: BUILDING LIFE ON A FIRM FOUNDATION
-weight: 13
 ---
 
 <style>

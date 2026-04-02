@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "RESPONDING TO ETHICAL RELATIVITY"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Ethics
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Ethics'
 draft: false
-title: RESPONDING TO ETHICAL RELATIVITY
-weight: 3
 ---
 
 <style>
@@ -45,14 +44,14 @@ one seems able to establish a universal basis for ethical theory.  </span></p>
 18.0pt'><span style='font-size:12.0pt'>            In response to the second
 point, (1) the presence of a <u>universal God</u> (creator, sustainer,
 intervener) provides that universal basis. It does so because he had purpose in
-creating and if he has created us in his image. Furthermore, (2) <u>human
-nature</u> is universal for humans. We should not do what is contrary to human
-nature physically, psychologically, and socially; we should practice what
-enhances well-being, peace, and unity under God’s values. Presumably there is a
-hierarchy of what yields greater or lesser satisfaction, gratification, peace, and
-happiness, according to how well actions correlate with the givens of human
-nature—matters like the desire to be <u>loved</u>, the drive for <u>worth</u>,
-the urge for <u>security</u>, the impulse for <u>innocence</u>.</span></p>
+creating and he has created us in his image. Furthermore, (2) <u>human nature</u>
+is universal for humans. We should not do what is contrary to human nature
+physically, psychologically, and socially; we should practice what enhances well-being,
+peace, and unity under God’s values. Presumably there is a hierarchy of what
+yields greater or lesser satisfaction, gratification, peace, and happiness,
+according to how well actions correlate with the givens of human nature—matters
+like the desire to be <u>loved</u>, the drive for <u>worth</u>, the urge for <u>security</u>,
+the impulse for <u>innocence</u>.</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>            We can ask why we do not

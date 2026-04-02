@@ -11,7 +11,8 @@ next: chapter-04
 
 ## 2 Corinthians Chapter 3
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><b><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>3</span></b><b><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>:1</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Are-we-beginning to-commend ourselves again? Or do-we-need, as some, recommending letters to you or from you? <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> You are the letter of-us, written on the hearts of-us, known and read by all men, </span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Are-we-beginning to-commend ourselves again? Or do-we-need, as some, recommending letters to you or from you? </span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> You are the letter of-us, written on the hearts of-us, known and read by all men, </span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> being-manifested that you-are (a) letter of-Christ, taken-care-of by us, written not with ink, but with-(the)-Spirit of-(the)-living God; not on stone tablets, but on tablets of fleshly hearts.</span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> And such confidence we-have through Christ toward [the] God, </span>

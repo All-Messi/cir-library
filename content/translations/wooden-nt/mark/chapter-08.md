@@ -11,7 +11,7 @@ next: chapter-09
 
 ## Mark Chapter 8
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>8</span></b><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>:1</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And in those [the] days, (a) big crowd being again, and not having anything they-might-eat, having-summoned the disciples, he-says to-them, </span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And in those [the] days, (a) big crowd being again, and not having anything they-might-eat, having-summoned the disciples, he-says to-them, </span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>2<i>“</i></span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I-have-compassion on the crowd, because already three days they-are-remaining-with me and they-do┘not└have anything they-might-eat. </span></i><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And if I-dismiss them hungry to (the) house of-them, they-will-faint on the way, and some of-them have-come from afar.” </span></i></span></p>
 

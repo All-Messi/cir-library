@@ -1,7 +1,7 @@
 ---
-title: "Supernatural  PRODUCTS of HS  (book pt 7)  Tongues #1"
+title: "Supernatural PRODUCTS of HS (book pt 7) Tongues #1"
 author: "Virgil Warren, christir.org"
-date: '2026-03-13'
+date: '2026-04-02'
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -124,7 +124,7 @@ style='font-size:12.0pt'>     </span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                <img width=353 height=139
-src="/cir-library/images/essays/supernatural-products-of-hs-book-pt-7-tongues-1/image001.png"></span></p>
+id="Picture 2" src="/cir-library/images/essays/supernatural-products-of-hs-book-pt-7-tongues-1/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -1439,7 +1439,7 @@ margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>&nbsp;</
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'><img width=253 height=52
+style='font-size:12.0pt'><img width=253 height=52 id="Picture 1"
 src="/cir-library/images/essays/supernatural-products-of-hs-book-pt-7-tongues-1/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;

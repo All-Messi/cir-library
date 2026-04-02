@@ -1,11 +1,11 @@
 ---
-author: Comments by Virgil Warren on “Disorder and Revolt” in
+author: Comments by Virgil Warren on 'Disorder and Revolt' in
 categories:
 - Topics
 - Book Reviews
 date: '2026-02-16'
 draft: false
-title: Comments by Virgil Warren on “Disorder and Revolt” in
+title: Comments by Virgil Warren on 'Disorder and Revolt' in
 weight: 2
 ---
 

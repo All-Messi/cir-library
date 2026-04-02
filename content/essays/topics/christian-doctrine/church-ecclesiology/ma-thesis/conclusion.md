@@ -1,14 +1,14 @@
 ---
-author: Virgil Warren, PhD
+title: "CONCLUSION"
+author: "Virgil Warren, christir.org"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Church Ecclesiology
-- Ma Thesis
-date: '2026-02-16'
-draft: false
-title: CONCLUSION
+- 'Topics'
+- 'Christian Doctrine'
+- 'Church Ecclesiology'
+- 'Ma Thesis'
 weight: 18
+draft: false
 ---
 
 <style>

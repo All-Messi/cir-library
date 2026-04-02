@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "DESTINATION AND DATE OF GALATIANS"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Nt
-- Galatians
-date: '2026-02-16'
+- 'Evidences'
+- 'Critical Intro Nt'
+- 'Galatians'
 draft: false
-title: DESTINATION AND DATE OF GALATIANS
-weight: 3
 ---
 
 <style>

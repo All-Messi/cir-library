@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "PLACE OF WRITING THE PRISON EPISTLES"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Nt
-- Prison Epistles
-date: '2026-02-16'
+- 'Evidences'
+- 'Critical Intro Nt'
+- 'Prison Epistles'
 draft: false
-title: PLACE OF WRITING THE PRISON EPISTLES
-weight: 3
 ---
 
 <style>

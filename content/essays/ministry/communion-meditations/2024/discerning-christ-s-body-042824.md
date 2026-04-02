@@ -1,5 +1,5 @@
 ---
-title: "Discerning Christ’s Body"
+title: "Discerning Christ's Body"
 date: '2024-04-28'
 author: "Virgil Warren, christir.org"
 categories:

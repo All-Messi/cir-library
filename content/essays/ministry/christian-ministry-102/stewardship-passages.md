@@ -1,12 +1,11 @@
 ---
-author: Virgil Warren, PhD
+title: "STEWARDSHIP PASSAGES"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Ministry
-- Christian Ministry 102
-date: '2026-02-16'
+- 'Ministry'
+- 'Christian Ministry 102'
 draft: false
-title: STEWARDSHIP PASSAGES
-weight: 2
 ---
 
 <style>

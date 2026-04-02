@@ -1,12 +1,11 @@
 ---
-author: Virgil Warren, PhD
+title: "FAITH AND SIGHT/SCIENCE"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Know How We Epistemology
-date: '2026-02-16'
+- 'Evidences'
+- 'Know How We Epistemology'
 draft: false
-title: FAITH AND SIGHT/SCIENCE
-weight: 2
 ---
 
 <style>
@@ -142,7 +141,7 @@ style='font-size:12.0pt'>KNOWLEDGE</span></b></p>
 <p class=MsoNormal><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal><span style='font-size:12.0pt'>                     <img
-width=318 height=237 src="/cir-library/images/essays/faith-and-sightscience/image001.png"></span></p>
+width=318 height=237 id="Picture 1" src="/cir-library/images/essays/faith-and-sightscience/image001.png"></span></p>
 
 <p class=MsoNormal><span style='font-size:12.0pt'>&nbsp;</span></p>
 

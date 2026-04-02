@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "INTERPRETING THE CREATION NARRATIVE"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Creation
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Creation'
 draft: false
-title: INTERPRETING THE CREATION NARRATIVE
-weight: 3
 ---
 
 <style>

@@ -6,7 +6,7 @@ categories:
 - Mankind Anthropology
 date: '2026-02-16'
 draft: false
-title: 'THE PURPOSE OF MANKIND:'
+title: "THE PURPOSE OF MANKIND:"
 weight: 5
 ---
 

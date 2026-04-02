@@ -1,13 +1,13 @@
 ---
-author: Virgil Warren, PhD
+title: "CHRISTIANS AND TEMPORAL AUTHORITIES"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Ethics
-date: '2026-02-16'
-draft: false
-title: CHRISTIANS AND TEMPORAL AUTHORITIES
+- 'Topics'
+- 'Christian Doctrine'
+- 'Ethics'
 weight: 100
+draft: false
 ---
 
 <style>

@@ -1,12 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "THE STRUCTURE OF JOB"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Ot
-date: '2026-02-16'
-draft: false
-title: THE STRUCTURE OF JOB
+- 'Evidences'
+- 'Critical Intro Ot'
 weight: 29
+draft: false
 ---
 
 <style>

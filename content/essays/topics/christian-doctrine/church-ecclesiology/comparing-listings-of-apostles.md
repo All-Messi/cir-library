@@ -1,13 +1,13 @@
 ---
-author: Virgil Warren, PhD
+title: "COMPARING LISTINGS OF APOSTLES"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Church Ecclesiology
-date: '2026-02-16'
-draft: false
-title: COMPARING LISTINGS OF APOSTLES
+- 'Topics'
+- 'Christian Doctrine'
+- 'Church Ecclesiology'
 weight: 9
+draft: false
 ---
 
 <style>

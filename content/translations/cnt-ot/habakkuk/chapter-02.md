@@ -33,16 +33,20 @@ next: chapter-03
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      it speeds toward the goal and won’t fail.</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Though it seems slow, wait for it;</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      it will certainly come in due time.</span></i></span></p>
+### Though it seems slow, wait for it;
+
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      it will certainly come in due time</span></i></b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></i><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Heb 10:37]</span></b><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>.</span></i></span></p>
 
 <p class="section-ref">Hab 2:1-3</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  4</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Arrogant people aren’t righteous,</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      but the</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-<i>righteous will have life by his trust </i>in me<i>.</i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      but
+<b>the</b></span></i><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> <i>righteous will have life by his trust </i>in me</span></b></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Rom 1:17; Gal 3:10; Heb 10:38 ]</span></b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>.</span></i></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  5</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Besides, wine betrays the arrogant, so they don’t last.</span></i></p>
 

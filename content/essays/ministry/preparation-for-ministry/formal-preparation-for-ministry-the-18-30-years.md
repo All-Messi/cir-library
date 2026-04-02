@@ -1,12 +1,11 @@
 ---
-author: Virgil Warren, PhD
+title: "FORMAL PREPARATION FOR MINISTRY: THE 18-30 YEARS"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Ministry
-- Preparation For Ministry
-date: '2026-02-16'
+- 'Ministry'
+- 'Preparation For Ministry'
 draft: false
-title: 'FORMAL PREPARATION FOR MINISTRY: THE 18-30 YEARS'
-weight: 2
 ---
 
 <style>

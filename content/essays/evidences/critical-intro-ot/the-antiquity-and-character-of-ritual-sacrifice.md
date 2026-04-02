@@ -1,12 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "THE ANTIQUITY AND CHARACTER OF RITUAL SACRIFICE"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Ot
-date: '2026-02-16'
-draft: false
-title: THE ANTIQUITY AND CHARACTER OF RITUAL SACRIFICE
+- 'Evidences'
+- 'Critical Intro Ot'
 weight: 17
+draft: false
 ---
 
 <style>

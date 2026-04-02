@@ -11,7 +11,8 @@ next: chapter-19
 
 ## Revelation Chapter 18
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>18</span></b><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>:1</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And after these-things I-saw another angel coming-down out-of the sky having-great authority, and the earth was-lit-up by the glory of-him.  </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And he-shouted with (a) loud voice, saying, </span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And after these-things I-saw another angel coming-down out-of the sky having-great authority, and the earth was-lit-up by the glory of-him.  </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And he-shouted with (a) loud voice, saying, </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><b><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“She-fell! She-fell!  Babylon the Great,</span></i></p>
 

@@ -7,7 +7,7 @@ categories:
 - Ma Thesis
 date: '2026-02-16'
 draft: false
-title: 'THE NEW TESTAMENT BASIS FOR THE NON-DENOMINATIONAL CHURCH:'
+title: "THE NEW TESTAMENT BASIS FOR THE NON-DENOMINATIONAL CHURCH:"
 weight: 0
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "EVALUATING Manifestation (HS book pt 9)"
 author: "Virgil Warren, christir.org"
-date: '2026-03-13'
+date: '2026-04-02'
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -327,7 +327,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                                          <img
-width=194 height=136 src="/cir-library/images/essays/evaluating-manifestation-hs-book-pt-9/image001.png"></span></p>
+width=194 height=136 id="Picture 1" src="/cir-library/images/essays/evaluating-manifestation-hs-book-pt-9/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span

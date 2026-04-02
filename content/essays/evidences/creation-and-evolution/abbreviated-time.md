@@ -1,12 +1,11 @@
 ---
-author: Virgil Warren, PhD
+title: "ABBREVIATED TIME"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Creation And Evolution
-date: '2026-02-16'
+- 'Evidences'
+- 'Creation And Evolution'
 draft: false
-title: ABBREVIATED TIME
-weight: 2
 ---
 
 <style>
@@ -106,7 +105,7 @@ for the subsequent creation account</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'><img width=69 height=62
+style='font-size:12.0pt'><img width=69 height=62 id="Picture 4"
 src="/cir-library/images/essays/abbreviated-time/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -280,7 +279,7 @@ style='font-size:8.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'><img width=250 height=168
+style='font-size:12.0pt'><img width=250 height=168 id="Picture 3"
 src="/cir-library/images/essays/abbreviated-time/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -470,7 +469,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>          <img width=368 height=82
+style='font-size:12.0pt'>          <img width=368 height=82 id="Picture 2"
 src="/cir-library/images/essays/abbreviated-time/image004.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -633,7 +632,7 @@ style='font-size:12.0pt'> </span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'><img width=395 height=159
+style='font-size:12.0pt'><img width=395 height=159 id="Picture 1"
 src="/cir-library/images/essays/abbreviated-time/image005.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;

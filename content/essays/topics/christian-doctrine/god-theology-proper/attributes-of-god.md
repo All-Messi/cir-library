@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "ATTRIBUTES OF GOD"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- God Theology Proper
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'God Theology Proper'
 draft: false
-title: ATTRIBUTES OF GOD
-weight: 3
 ---
 
 <style>

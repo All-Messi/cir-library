@@ -1,12 +1,11 @@
 ---
-author: Virgil Warren, Ph.D.
+title: "SUFFERING IN THE WORLD: DOES GOD LOVE US?"
+author: "Virgil Warren, Ph.D."
+date: '2026-04-02'
 categories:
-- Evidences
-- Evil Problem Of Theodicy
-date: '2026-02-16'
+- 'Evidences'
+- 'Evil Problem Of Theodicy'
 draft: false
-title: 'SUFFERING IN THE WORLD: DOES GOD LOVE US?'
-weight: 2
 ---
 
 <style>

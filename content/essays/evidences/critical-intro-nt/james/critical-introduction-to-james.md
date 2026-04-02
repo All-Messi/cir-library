@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "CRITICAL INTRODUCTION TO JAMES"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Nt
-- James
-date: '2026-02-16'
+- 'Evidences'
+- 'Critical Intro Nt'
+- 'James'
 draft: false
-title: CRITICAL INTRODUCTION TO JAMES
-weight: 3
 ---
 
 <style>

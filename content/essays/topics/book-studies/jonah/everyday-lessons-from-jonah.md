@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "EVERYDAY LESSONS FROM JONAH"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Book Studies
-- Jonah
-date: '2026-02-16'
+- 'Topics'
+- 'Book Studies'
+- 'Jonah'
 draft: false
-title: EVERYDAY LESSONS FROM JONAH
-weight: 3
 ---
 
 <style>

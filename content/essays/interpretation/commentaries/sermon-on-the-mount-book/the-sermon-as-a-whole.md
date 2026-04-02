@@ -1,13 +1,13 @@
 ---
-author: Virgil Warren, PhD
+title: "THE SERMON AS A WHOLE"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Interpretation
-- Commentaries
-- Sermon On The Mount Book
-date: '2026-02-16'
-draft: false
-title: THE SERMON AS A WHOLE
+- 'Interpretation'
+- 'Commentaries'
+- 'Sermon On The Mount Book'
 weight: 1
+draft: false
 ---
 
 <style>
@@ -76,7 +76,7 @@ the presentation. </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>                                     <img
-width=212 height=163 src="/cir-library/images/essays/the-sermon-as-a-whole/image001.png"></span></p>
+width=212 height=163 id="Picture 2" src="/cir-library/images/essays/the-sermon-as-a-whole/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>                  Wisdom literature,
@@ -103,7 +103,7 @@ flexibility to the manner of </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>                                    <img
-width=226 height=215 src="/cir-library/images/essays/the-sermon-as-a-whole/image002.png"></span></p>
+width=226 height=215 id="Picture 1" src="/cir-library/images/essays/the-sermon-as-a-whole/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:4.0pt'>&nbsp;</span></p>

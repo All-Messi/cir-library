@@ -108,9 +108,13 @@ next: chapter-14
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk94843329"><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      No, I won’t show him mercy; so</span></i></a></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Death, where are your thorns?</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Death, where is your sting?</span></i></p>
+### Death, where are your thorns?
+
+
+
+### Death, where is your sting? [1 Cor 15:55]
+
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Bring it.                                                           </span></i></p>
 

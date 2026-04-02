@@ -45,7 +45,7 @@ next: chapter-22
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><b><i><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span></sup></i></b><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Execute<sup>f</sup> kidnappers whether they hold in possession or sell the one they kidnapped. </span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:10.0pt;margin-left:1.0in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Execute</span></i><i><sup><span style='font-family:"Times New Roman",serif'>f</span></sup></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> anybody that cusses at father or mother.                   </span></i></span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:10.0pt;margin-left:1.0in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Execute</span></i></b><b><i><sup><span style='font-family:"Times New Roman",serif'>f</span></sup></i></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> anybody that cusses at father or mother</span></i></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></i><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Mt 15:4b; Mk 7:10b]</span></b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>.      </span></i></span></p>
 
 <p class="section-ref">Ex 21:12-17</p>
 
@@ -58,8 +58,8 @@ next: chapter-22
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:1.0in;'><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If men are fighting and hit a pregnant woman and she miscarries without further injury, fine him as her husband requires and the judges determine. </span></i></span>
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But if there’s further harm, punish<sup>f</sup> life for life, </span></i></span>
-<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>eye for eye, tooth for tooth, hand for hand, foot for foot, </span></i></span>
-<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>burn for burn, wound for wound, bruise for bruise.     </span></i></span></span></p>
+<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>eye for eye, tooth for tooth </span></i></b><b><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>[Mt 5:38]</span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, hand for hand, foot for foot, </span></i></span>
+<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>burn for burn, wound for wound, bruise for bruise. </span></i></span></span></p>
 
 <p class="section-ref">Ex 21:18-25</p>
 

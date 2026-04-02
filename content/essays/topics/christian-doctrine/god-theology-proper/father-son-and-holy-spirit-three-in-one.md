@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "FATHER, SON, AND HOLY SPIRIT: THREE-IN-ONE"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- God Theology Proper
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'God Theology Proper'
 draft: false
-title: 'FATHER, SON, AND HOLY SPIRIT: THREE-IN-ONE'
-weight: 3
 ---
 
 <style>

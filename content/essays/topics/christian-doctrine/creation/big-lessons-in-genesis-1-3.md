@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "BIG LESSONS IN GENESIS 1-3"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Creation
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Creation'
 draft: false
-title: BIG LESSONS IN GENESIS 1-3
-weight: 3
 ---
 
 <style>

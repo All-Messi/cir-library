@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "MATTERS THAT AFFECT STYLE"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Nt
-- Ephesians
-date: '2026-02-16'
+- 'Evidences'
+- 'Critical Intro Nt'
+- 'Ephesians'
 draft: false
-title: MATTERS THAT AFFECT STYLE
-weight: 3
 ---
 
 <style>

@@ -42,10 +42,11 @@ next: chapter-15
 
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><a name="_Hlk125448654"><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he got back from defeating Chedorlaomer and his allies, the king of Sodom came out to meet him in the Valley of Shaveh (</span><span style='font-family:"Times New Roman",serif'>the King’s Valley</span><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>). </span></span>
-<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Melchizedek, king of Salem, priest of God Most High, brought out bread and wine </span></span>
-<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and blessed Abram, <i>“May you be blessed by God Most High, owner of earth and sky,
-</i></span></span>
-<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>who delivered your enemies to you.”</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> <i>Abram</i> gave him a tenth of everything. </span></span></p>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Melchizedek, king of Salem, priest of God Most High, brought out bread and wine </span></b></span>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and blessed Abram, <i>“May you be blessed by God Most High, owner of earth and sky,
+</i></span></b></span>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>who delivered your enemies to you.”</span></i></b><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> <i>Abram</i> gave him a tenth of everything</span></b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span><b><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>[Heb 7:1-2a]</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.
+</span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king of Sodom said to Abram, <i>“Give me the captives and keep the goods.”</i></span></span></p>
 

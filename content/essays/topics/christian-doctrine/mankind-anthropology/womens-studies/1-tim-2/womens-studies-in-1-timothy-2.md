@@ -8,7 +8,7 @@ categories:
 - 1 Tim 2
 date: '2026-02-16'
 draft: false
-title: 'WOMEN’S STUDIES IN 1 TIMOTHY 2:'
+title: "WOMEN'S STUDIES IN 1 TIMOTHY 2:"
 weight: 4
 ---
 

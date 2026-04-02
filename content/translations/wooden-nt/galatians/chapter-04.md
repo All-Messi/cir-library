@@ -11,7 +11,8 @@ next: chapter-05
 
 ## Galatians Chapter 4
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>4</span></b><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>:1</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now I-say, for as-long┘(a) time└as the/an heir is (a) minor, he-differs with-respect-to-nothing from-(a)-slave, though-being lord of-all, </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>but is under guardians and trustees until the pre-set-time of-the father. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now I-say, for as-long┘(a) time└as the/an heir is (a) minor, he-differs with-respect-to-nothing from-(a)-slave, though-being lord of-all, </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>but is under guardians and trustees until the pre-set-time of-the father. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So also we, when we-were minors, were enslaved by the basic-rules of-the world; </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>but when the fullness of-[the] time came, [the] God sent-out the Son of-him, becoming from woman, become under law, </span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>in-order-that he-might-redeem the-ones under law in-order-that we-might-receive [the] sonship-by-adoption.
@@ -61,7 +62,8 @@ next: chapter-05
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>with the son” of-the free (woman).</span></b></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Wherefore, brothers, we-are not children of-(a)-slave-girl, but of-the free (woman). </span><b><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>5</span></b><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>:1</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Christ certainly set┘us└free<sup>3</sup>; so stand-firm and do┘not again└be-subject to-(a)-yoke of-bondage.</span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Wherefore, brothers, we-are not children of-(a)-slave-girl, but of-the free (woman). </span></span>
+<span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Christ certainly set┘us└free<sup>3</sup>; so stand-firm and do┘not again└be-subject to-(a)-yoke of-bondage.</span></span></p>
 
 
 <style>

@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "PECULIARITIES OF JOHNS GOSPEL"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Nt
-- John
-date: '2026-02-16'
+- 'Evidences'
+- 'Critical Intro Nt'
+- 'John'
 draft: false
-title: PECULIARITIES OF JOHN’S GOSPEL
-weight: 3
 ---
 
 <style>

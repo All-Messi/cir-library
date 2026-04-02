@@ -58,7 +58,7 @@ next: chapter-42
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  who then can stand against <u>me</u>?</span></i></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Who has given to me that I should repay?</span></i></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Who has given to me that I should repay? </span></i></b><b><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Rom 11:35]</span></b></span></p>
 
 
 ### Whatever’s under the sky is already mine.            Job 41:8-11

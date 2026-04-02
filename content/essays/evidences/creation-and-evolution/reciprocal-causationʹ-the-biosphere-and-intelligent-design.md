@@ -1,7 +1,7 @@
 ---
 title: "RECIPROCAL CAUSATIONʹ, THE BIOSPHERE, AND INTELLIGENT DESIGN"
 author: "Virgil Warren, PhD"
-date: '2026-03-20'
+date: '2026-04-02'
 categories:
 - 'Evidences'
 - 'Creation And Evolution'

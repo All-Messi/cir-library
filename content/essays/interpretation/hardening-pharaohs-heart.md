@@ -1,11 +1,10 @@
 ---
-author: Virgil Warren, PhD
+title: "HARDENING PHARAOHS HEART"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Interpretation
-date: '2026-02-16'
+- 'Interpretation'
 draft: false
-title: HARDENING PHARAOH’S HEART
-weight: 1
 ---
 
 <style>

@@ -31,10 +31,10 @@ next: chapter-31
 
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“This commandment’s not too hard for you. It’s not out of reach </span></i></span>
-<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>in the sky, that would make you say, ‘Who’ll go up to get it for us so we can hear it and do it?’ </span></i></span>
-<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It’s not beyond the ocean that would make you say, ‘Who’ll go get it for us so we can hear it and do it?’ </span></i></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>in the sky, that would make you say, ‘<b>‘Who’ll go up to get it for us so we can hear it and do it?’ </b></span></i><b><span style='font-size:9.0pt;line-height: 115%;font-family:"Times New Roman",serif'>[Rom 10:6]</span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></i></span>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It’s not beyond the ocean that would make you say, ‘Who’ll go get it for us so we can hear it and do it?’ </span></i><b><span style='font-size:9.0pt;line-height: 115%;font-family:"Times New Roman",serif'>[Rom 10:7]</span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></i></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It’s right beside you, in your mouth and heart, so you can do it.</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-   </span></b></span></span></p>
+     </span></b></span></span></p>
 
 <p class="section-ref">Deut 30:1-14</p>
 

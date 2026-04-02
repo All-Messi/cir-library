@@ -160,9 +160,13 @@ next: chapter-33
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      they provoked me with their idols.</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So I’ll make them jealous with </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>those who<i> aren’t a people;</i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      I’ll provoke them with a foolish nation.</span></i></p>
+### So I’ll make them jealous with those who aren’t a people;
+
+
+
+### I’ll provoke them with a foolish nation [Rom 10::19].
+
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A fire has kindled my anger,</span></i></span></p>
 
@@ -244,15 +248,16 @@ next: chapter-33
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and sealed in my treasuries?</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Vengeance and retribution are my business; </span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Vengeance and retribution are my business </span></i></b><b><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>[Rom 12:19; Heb 10:30a]</span></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>;</span></i></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>           </span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      in due time their foot will slip. </span></i></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>in due time their foot will slip. </span></i></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Their time for catastrophe is coming; </span></i></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      impending things are rushing at them,’</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         36</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>because the L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> will vindicate his people</span></i></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         36</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>because
+<b>the L</b></span></i><b><i><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span></i></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> will vindicate his people </span></i></b><b><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>[Heb 10:30b]</span></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and show mercy to his servants.</span></i></p>
 
@@ -305,7 +310,7 @@ next: chapter-33
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      from the heads of the enemy’s leaders.’ </span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span class="verse verse-v43" id="v43"><sup class="verse-num">43</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Celebrate, Gentiles, </span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>with</span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> his people;</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span class="verse verse-v43" id="v43"><sup class="verse-num">43</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Celebrate, Gentiles, </span></i></b><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>with</span></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> his people </span></i></b><b><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>[Rom 15:10]</span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>;</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      for he’ll avenge his servants’ blood.</span></i></p>
 

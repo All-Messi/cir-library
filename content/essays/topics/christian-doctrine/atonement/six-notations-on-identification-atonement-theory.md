@@ -1,13 +1,13 @@
 ---
-author: Virgil Warren, PhD
+title: "SIX NOTATIONS ON IDENTIFICATION ATONEMENT THEORY"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Atonement
-date: '2026-02-16'
-draft: false
-title: SIX NOTATIONS ON IDENTIFICATION ATONEMENT THEORY
+- 'Topics'
+- 'Christian Doctrine'
+- 'Atonement'
 weight: 5
+draft: false
 ---
 
 <style>

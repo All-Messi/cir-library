@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "PLACE OF ACTS IN THE NEW TESTAMENT"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Nt
-- Acts
-date: '2026-02-16'
+- 'Evidences'
+- 'Critical Intro Nt'
+- 'Acts'
 draft: false
-title: PLACE OF ACTS IN THE NEW TESTAMENT
-weight: 3
 ---
 
 <style>
@@ -117,7 +116,7 @@ margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>&nbsp;</
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                     <img width=351 height=95
-src="/cir-library/images/essays/place-of-acts-in-the-new-testament/image001.png"></span></p>
+id="Picture 1" src="/cir-library/images/essays/place-of-acts-in-the-new-testament/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span

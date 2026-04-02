@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "NOTABLE POINTS ABOUT SABBATH"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Sabbath Sunday
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Sabbath Sunday'
 draft: false
-title: NOTABLE POINTS ABOUT SABBATH
-weight: 3
 ---
 
 <style>

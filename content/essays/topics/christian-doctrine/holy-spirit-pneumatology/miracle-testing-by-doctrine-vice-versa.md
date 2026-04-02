@@ -1,7 +1,7 @@
 ---
-title: "MIRACLE, Testing  by Doctrine & vice versa"
+title: "MIRACLE, Testing by Doctrine & vice versa"
 author: "Virgil Warren, christir.org"
-date: '2026-03-13'
+date: '2026-04-02'
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -59,7 +59,7 @@ previous teaching.  </span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'><img width=267 height=71
+style='font-size:12.0pt'><img width=267 height=71 id="Picture 1"
 src="/cir-library/images/essays/miracle-testing-by-doctrine-vice-versa/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span

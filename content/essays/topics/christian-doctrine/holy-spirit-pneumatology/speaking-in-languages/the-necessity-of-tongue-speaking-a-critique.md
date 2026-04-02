@@ -1,14 +1,13 @@
 ---
-author: Virgil Warren, PhD
+title: "THE NECESSITY OF 'TONGUE SPEAKING': A CRITIQUE"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Holy Spirit Pneumatology
-- Speaking In Languages
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Holy Spirit Pneumatology'
+- 'Speaking In Languages'
 draft: false
-title: 'THE NECESSITY OF “TONGUE SPEAKING”: A CRITIQUE'
-weight: 4
 ---
 
 <style>

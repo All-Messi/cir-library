@@ -1,7 +1,7 @@
 ---
 title: "ALTERNATIVES Considered (HS book pt 10)"
 author: "Virgil Warren, christir.org"
-date: '2026-03-13'
+date: '2026-04-02'
 categories:
 - 'Topics'
 - 'Christian Doctrine'

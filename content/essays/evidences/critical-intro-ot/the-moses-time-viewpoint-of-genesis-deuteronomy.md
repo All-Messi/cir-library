@@ -1,12 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "THE MOSES-TIME VIEWPOINT OF GENESIS-DEUTERONOMY"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Ot
-date: '2026-02-16'
-draft: false
-title: THE MOSES-TIME VIEWPOINT OF GENESIS-DEUTERONOMY
+- 'Evidences'
+- 'Critical Intro Ot'
 weight: 15
+draft: false
 ---
 
 <style>

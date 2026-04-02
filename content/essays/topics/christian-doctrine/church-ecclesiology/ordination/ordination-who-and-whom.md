@@ -7,7 +7,7 @@ categories:
 - Ordination
 date: '2026-02-16'
 draft: false
-title: 'ORDINATION: WHO AND WHOM'
+title: "ORDINATION: WHO AND WHOM"
 weight: 4
 ---
 

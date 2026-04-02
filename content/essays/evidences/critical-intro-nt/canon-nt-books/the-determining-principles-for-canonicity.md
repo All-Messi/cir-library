@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "THE DETERMINING PRINCIPLES FOR CANONICITY"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Nt
-- Canon Nt Books
-date: '2026-02-16'
+- 'Evidences'
+- 'Critical Intro Nt'
+- 'Canon Nt Books'
 draft: false
-title: THE DETERMINING PRINCIPLES FOR CANONICITY
-weight: 3
 ---
 
 <style>
@@ -50,7 +49,7 @@ a writing belongs in the Judaeo-Christian canon.</span></p>
 style='font-size:10.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:10.0pt'><img width=449 height=130
+style='font-size:10.0pt'><img width=449 height=130 id="Picture 4"
 src="/cir-library/images/essays/the-determining-principles-for-canonicity/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
@@ -115,7 +114,7 @@ canonicity.</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>                  <img width=328 height=157
-src="/cir-library/images/essays/the-determining-principles-for-canonicity/image002.png"></span></p>
+id="Picture 3" src="/cir-library/images/essays/the-determining-principles-for-canonicity/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
@@ -165,7 +164,7 @@ something that should have impact [B], and what does not have impact </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>                                                 <img
-width=156 height=87 src="/cir-library/images/essays/the-determining-principles-for-canonicity/image003.png"></span></p>
+width=156 height=87 id="Picture 2" src="/cir-library/images/essays/the-determining-principles-for-canonicity/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:6.0pt'>&nbsp;</span></p>
@@ -231,7 +230,7 @@ style='font-size:12.0pt'>             </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>                      <img width=316 height=83
-src="/cir-library/images/essays/the-determining-principles-for-canonicity/image004.png"></span></p>
+id="Picture 1" src="/cir-library/images/essays/the-determining-principles-for-canonicity/image004.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:8.0pt'>&nbsp;</span></p>

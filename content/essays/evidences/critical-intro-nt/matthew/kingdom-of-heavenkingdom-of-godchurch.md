@@ -6,7 +6,7 @@ categories:
 - Matthew
 date: '2026-02-16'
 draft: false
-title: “KINGDOM OF HEAVEN”/“KINGDOM OF GOD”/“CHURCH”
+title: "KINGDOM OF HEAVEN'/'KINGDOM OF GOD'/'CHURCH"
 weight: 3
 ---
 

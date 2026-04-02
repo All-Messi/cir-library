@@ -1,7 +1,7 @@
 ---
 title: "A RATIONALE FOR THE STRUCTURE OF GENESIS 1:1-2:3"
 author: "Virgil Warren, PhD"
-date: '2026-03-20'
+date: '2026-04-02'
 categories:
 - 'Topics'
 - 'Christian Doctrine'

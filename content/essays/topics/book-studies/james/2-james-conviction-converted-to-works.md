@@ -1,13 +1,13 @@
 ---
-author: Virgil Warren, PhD
+title: "(2) JAMES: CONVICTION CONVERTED TO WORKS"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Book Studies
-- James
-date: '2026-02-16'
-draft: false
-title: '(2) JAMES: CONVICTION CONVERTED TO WORKS'
+- 'Topics'
+- 'Book Studies'
+- 'James'
 weight: 2
+draft: false
 ---
 
 <style>

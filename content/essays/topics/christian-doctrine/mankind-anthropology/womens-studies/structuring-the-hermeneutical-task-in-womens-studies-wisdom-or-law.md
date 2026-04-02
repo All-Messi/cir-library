@@ -1,14 +1,13 @@
 ---
-author: Virgil Warren, PhD
+title: "STRUCTURING THE HERMENEUTICAL TASK IN WOMENS STUDIES: WISDOM OR LAW?"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Mankind Anthropology
-- Womens Studies
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Mankind Anthropology'
+- 'Womens Studies'
 draft: false
-title: 'STRUCTURING THE HERMENEUTICAL TASK IN WOMEN’S STUDIES: WISDOM OR LAW?'
-weight: 4
 ---
 
 <style>

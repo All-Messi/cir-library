@@ -1,13 +1,13 @@
 ---
-author: Virgil Warren, PhD
+title: "CHARACTERISTICS OF INTERPERSONALISM"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Interpersonalism
-- Characteristics
-date: '2026-02-16'
-draft: false
-title: CHARACTERISTICS OF INTERPERSONALISM
+- 'Topics'
+- 'Interpersonalism'
+- 'Characteristics'
 weight: 2
+draft: false
 ---
 
 <style>

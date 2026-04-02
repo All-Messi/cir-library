@@ -1,7 +1,7 @@
 ---
 title: "Break Bread"
 author: "Virgil Warren, christir.org"
-date: '2026-03-13'
+date: '2026-04-02'
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -94,7 +94,7 @@ bread, and prayers.”</i> Likewise, (3) Acts <b>20</b>:7 refers to the eucharis
 because the believers gathered for it on the first day of the week. Acts <b>20</b>:11
 probably has the same meaning—as the fulfillment of the stated purpose for
 gathering. It could mean breakfast if this was a private home; but that is
-likely here since it could evidently house a sizable assembly on the third
+unlikely here since it could evidently house a sizable assembly on the third
 floor, which points to a public facility. (4) 1 Corinthians <b>10</b>:16-17<span
 style='position:relative;top:-3.0pt'> </span>indicates the Supper because the
 context (<b>10</b>:14-22) contrasts it with idolatry and “communion with

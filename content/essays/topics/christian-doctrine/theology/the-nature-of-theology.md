@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "THE NATURE OF THEOLOGY"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Theology
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Theology'
 draft: false
-title: THE NATURE OF THEOLOGY
-weight: 3
 ---
 
 <style>

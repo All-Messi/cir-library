@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "FRAGMENTING PHILIPPIANS"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Nt
-- Philippians
-date: '2026-02-16'
+- 'Evidences'
+- 'Critical Intro Nt'
+- 'Philippians'
 draft: false
-title: FRAGMENTING PHILIPPIANS
-weight: 3
 ---
 
 <style>

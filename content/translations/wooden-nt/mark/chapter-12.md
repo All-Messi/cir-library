@@ -11,7 +11,7 @@ next: chapter-13
 
 ## Mark Chapter 12
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>12</span></b><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>:1</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And he-began to-speak to-them in parables. </span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And he-began to-speak to-them in parables. </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“(A) man planted (a) vineyard, and put┘(a) hedge└around (it), and dug (a) winepress, and built (a) watchtower, and rented┘(it)└out to-farmers, and went-on-(a)-trip.
 </span></i><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>And at-the season he-sent (a) servant to the farmers in-order-that he-might-receive from the fruit of-the vineyard. </span></i></span>

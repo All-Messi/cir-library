@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "TWO SYSTEMS FOR RIGHTEOUSNESS"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Salvation Soteriology
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Salvation Soteriology'
 draft: false
-title: TWO SYSTEMS FOR RIGHTEOUSNESS
-weight: 3
 ---
 
 <style>

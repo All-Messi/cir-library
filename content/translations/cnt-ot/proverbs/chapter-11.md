@@ -145,9 +145,9 @@ next: chapter-12
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            the wise win friends.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If the righteous are rewarded on earth,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If the righteous are rewarded on earth,</span></b></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>how much more godless sinners!<b>                                           </b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>how much more godless sinners! </span></b><b><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>[1 Pet 4:18; see LXX]</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></b></span></p>
 
 <p class="section-ref">Prov 11:29-31</p>
 

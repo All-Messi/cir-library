@@ -7,7 +7,7 @@ categories:
 - Scripture
 date: '2026-02-16'
 draft: false
-title: THE NEW TESTAMENT’S WITNESS TO THE
+title: THE NEW TESTAMENT'S WITNESS TO THE
 weight: 4
 ---
 

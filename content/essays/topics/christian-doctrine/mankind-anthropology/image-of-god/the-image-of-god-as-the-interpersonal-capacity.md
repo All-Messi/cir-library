@@ -1,14 +1,13 @@
 ---
-author: Virgil Warren, PhD
+title: "THE 'IMAGE OF GOD' AS THE INTERPERSONAL CAPACITY"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Mankind Anthropology
-- Image Of God
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Mankind Anthropology'
+- 'Image Of God'
 draft: false
-title: THE IMAGE OF GOD AS THE INTERPERSONAL CAPACITY
-weight: 4
 ---
 
 <style>

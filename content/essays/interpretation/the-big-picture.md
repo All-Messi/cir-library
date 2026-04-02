@@ -1,11 +1,10 @@
 ---
-author: Virgil Warren, PhD
+title: "THE BIG PICTURE"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Interpretation
-date: '2026-02-16'
+- 'Interpretation'
 draft: false
-title: THE BIG PICTURE
-weight: 1
 ---
 
 <style>

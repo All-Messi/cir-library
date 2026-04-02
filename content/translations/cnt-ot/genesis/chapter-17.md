@@ -20,10 +20,10 @@ next: chapter-18
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Abram fell on his face, and God told him, </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“This is my side of the covenant with you: you’ll be the ancestor of many nations. </span></i></span>
-<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Your name won’t be Abram anymore; it’ll be Abraham because I’ll make you ‘the ancestor of many nations.’ </span></i></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Your name won’t be Abram anymore; it’ll be Abraham because <b>I’ll make you ‘the ancestor of many nations’</b> </span></i><b><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>[Rom 4:17].</span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></i></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll make you really numerous. Nations will descend from you; kings will come out of you. </span></i></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>With you and your descendants I’ll establish my permanent covenant to be your God. </span></i></span>
-<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll give you and your descendants an ongoing possession—Canaan, where you’ve lived as a nomad.          </span></i></span></p>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll give you and your descendants an ongoing possession—Canaan, where you’ve lived as a nomad.        </span></i></span></span></p>
 
 <p class="section-ref">Gen 17:1-8</p>
 

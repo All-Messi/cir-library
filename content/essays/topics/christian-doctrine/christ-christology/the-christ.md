@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "THE CHRIST"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Christ Christology
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Christ Christology'
 draft: false
-title: THE CHRIST
-weight: 3
 ---
 
 <style>
@@ -453,7 +452,7 @@ was the first thing God created.</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                                                       <img
-width=183 height=236 src="/cir-library/images/essays/the-christ/image001.jpg"></span></p>
+width=184 height=236 id="Picture 2" src="/cir-library/images/essays/the-christ/image001.jpg"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -776,8 +775,8 @@ style='font-size:12.0pt'>          </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                      <img width=216
-height=223 src="/cir-library/images/essays/the-christ/image002.jpg"></span></p>
+style='font-size:12.0pt'>                                      <img width=213
+height=222 id="Picture 1" src="/cir-library/images/essays/the-christ/image002.jpg"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span

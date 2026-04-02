@@ -124,7 +124,7 @@ next: chapter-11
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    the
 <b>One that’s coming will come,</b></span></i></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and</span></i></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> <b>my righteous one will have life by faith.</b></span></i></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and</span></i></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> <b>my righteous one will have life by trust.</b></span></i></span></p>
 
 
 ### If he gives up,

@@ -1,12 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "THE RELATIONSHIP OF THE LAW AND THE GOSPEL"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Ot
-date: '2026-02-16'
-draft: false
-title: THE RELATIONSHIP OF THE LAW AND THE GOSPEL
+- 'Evidences'
+- 'Critical Intro Ot'
 weight: 6
+draft: false
 ---
 
 <style>

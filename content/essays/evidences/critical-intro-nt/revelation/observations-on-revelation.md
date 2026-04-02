@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "OBSERVATIONS ON REVELATION"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Nt
-- Revelation
-date: '2026-02-16'
+- 'Evidences'
+- 'Critical Intro Nt'
+- 'Revelation'
 draft: false
-title: OBSERVATIONS ON REVELATION
-weight: 3
 ---
 
 <style>

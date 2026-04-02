@@ -77,7 +77,9 @@ next: chapter-32
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      on a straight path where they won’t stumble;</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’m Israel’s father;</span></i></p>
+
+### I’m Israel’s father [2 Cor 6:18a];
+
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Ephraim’s my firstborn.”</span></i><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>                                                 </span></b></span></p>
 
@@ -123,15 +125,17 @@ next: chapter-32
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says,</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      “A sound was heard in Ramah,</span></i></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      <b>“A sound was heard in Ramah,</b></span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      <i>weeping and bitter crying,</i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      <i>weeping and bitter crying,</i></span></b></p>
 
-<p class="MsoListBulletCxSpLast" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  Rachel weeping for her children;</span></i></p>
 
-<p class="MsoNoSpacing">                        <b>            </b><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>she couldn’t be consoled,</span></i></p>
+### Rachel weeping for her children;
 
-<p class="MsoNoSpacing"><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                                    because they were gone.”</span></i><b><span style='font-size:10.0pt'>                                                                </span></b></span></p>
+
+<p class="MsoNoSpacing"><b>                                    </b><b><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>she couldn’t be consoled,</span></i></b></p>
+
+<p class="MsoNoSpacing"><b><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                                    because they were gone”</span></i></b><i><span style='font-size:12.0pt;font-family: "Times New Roman",serif'> </span></i><b><span style='font-size:9.0pt; font-family:"Times New Roman",serif'>[Mt 2:18].</span></b><b><span style='font-size:10.0pt'>                                            </span></b></span></p>
 
 <p class="section-ref">Jer 31:15</p>
 
@@ -215,10 +219,10 @@ next: chapter-32
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Everybody will die for their own sin. Those who eat sour grapes will be the ones whose mouths pucker.</span></i><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>            </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 </span></b></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The time’s coming,” </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>the L</span><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says,<i> “when I’ll make a new covenant with Israel and Judah. </i></span></span>
-<span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It won’t be like the one I made with their ancestors when I brought them out of Egypt. They broke that covenant even though I was a husband to them. </span></i></span>
-<span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll make this kind of covenant with them: I’ll put my Law inside them; I’ll write it on their heart. I’ll be their God and they’ll be my people. </span></i></span>
-<span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>No one will be teaching their brother and fellow citizen to know the L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, because they’ll all know me from least to greatest. I’ll forgive their sin; I won’t keep it in mind anymore.”</span></i></span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The time’s coming,” </span></i></b><b><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>the L</span></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says,<i> “when I’ll make a new covenant with Israel and Judah. </i></span></b></span>
+<span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It won’t be like the one I made with their ancestors when I brought them out of Egypt. They broke that covenant even though I was a husband to them. </span></i></b></span>
+<span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll make this kind of covenant with them: I’ll put my Law inside them; I’ll write it on their heart. I’ll be their God and they’ll be my people. </span></i></b></span>
+<span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>No one will be teaching their brother and fellow citizen to know the L</span></i></b><b><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, because they’ll all know me from least to greatest. I’ll forgive their sin; I won’t keep it in mind anymore”</span></i></b><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Heb 8:8-12; 10:17].</span></b></span></span></p>
 
 <p class="section-ref">Jer 31:26-34</p>
 

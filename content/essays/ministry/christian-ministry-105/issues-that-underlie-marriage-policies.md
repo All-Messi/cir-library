@@ -1,12 +1,11 @@
 ---
-author: Virgil Warren, PhD
+title: "ISSUES THAT UNDERLIE MARRIAGE POLICIES"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Ministry
-- Christian Ministry 105
-date: '2026-02-16'
+- 'Ministry'
+- 'Christian Ministry 105'
 draft: false
-title: ISSUES THAT UNDERLIE MARRIAGE POLICIES
-weight: 2
 ---
 
 <style>

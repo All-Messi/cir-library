@@ -1,13 +1,13 @@
 ---
-author: Virgil Warren, PhD
+title: "ARE THERE MODERN-DAY APOSTLES?"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Church Ecclesiology
-date: '2026-02-16'
-draft: false
-title: ARE THERE MODERN-DAY APOSTLES?
+- 'Topics'
+- 'Christian Doctrine'
+- 'Church Ecclesiology'
 weight: 5
+draft: false
 ---
 
 <style>

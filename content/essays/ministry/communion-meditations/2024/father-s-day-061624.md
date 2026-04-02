@@ -1,5 +1,5 @@
 ---
-title: "Father’s Day"
+title: "Father's Day"
 date: '2024-06-16'
 author: "Virgil Warren, christir.org"
 categories:

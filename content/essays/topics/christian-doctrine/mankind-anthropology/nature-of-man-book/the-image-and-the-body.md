@@ -1,14 +1,14 @@
 ---
-author: Virgil Warren, PhD
+title: "THE IMAGE AND THE BODY"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Mankind Anthropology
-- Nature Of Man Book
-date: '2026-02-16'
-draft: false
-title: THE IMAGE AND THE BODY
+- 'Topics'
+- 'Christian Doctrine'
+- 'Mankind Anthropology'
+- 'Nature Of Man Book'
 weight: 7
+draft: false
 ---
 
 <style>

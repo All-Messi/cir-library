@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "THE GOSPELS IN GENERAL"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Nt
-- Gospels
-date: '2026-02-16'
+- 'Evidences'
+- 'Critical Intro Nt'
+- 'Gospels'
 draft: false
-title: THE GOSPELS IN GENERAL
-weight: 3
 ---
 
 <style>
@@ -166,7 +165,7 @@ believing in Jesus as Messiah: Luke <b>1</b>:4</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'><img width=163 height=99
+style='font-size:12.0pt'><img width=163 height=99 id="Picture 1"
 src="/cir-library/images/essays/the-gospels-in-general/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;

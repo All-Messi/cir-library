@@ -1,12 +1,11 @@
 ---
-author: Virgil Warren, PhD
+title: "PRIME PASSAGES"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Interpretation
-- Prime Passages
-date: '2026-02-16'
+- 'Interpretation'
+- 'Prime Passages'
 draft: false
-title: PRIME PASSAGES
-weight: 2
 ---
 
 <style>

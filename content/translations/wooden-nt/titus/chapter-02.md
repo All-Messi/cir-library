@@ -11,8 +11,9 @@ next: chapter-03
 
 ## Titus Chapter 2
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><b><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>2</span></b><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>:1</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But
-<u>you</u> speak<sup>imper</sup> what-things are–fitting to-[the] sound doctrine, </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(that) older-men (are) to-be serious-minded, respectable, sensible; sound with-respect-to-[the] faith, [the] love, [the] perseverance;  </span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But
+<u>you</u> speak<sup>imper</sup> what-things are–fitting to-[the] sound doctrine, </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(that) older-men (are) to-be serious-minded, respectable, sensible; sound with-respect-to-[the] faith, [the] love, [the] perseverance;  </span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(that) older-women likewise (are to be) reverent in behavior, not slanderous, not enslaved to-much wine, teaching-what-is-good, </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>in-order-that they-may advise the young (women) to-be husband-lovers, children-lovers, </span></span>

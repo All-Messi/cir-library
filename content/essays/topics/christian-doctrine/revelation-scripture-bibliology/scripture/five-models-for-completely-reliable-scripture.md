@@ -1,14 +1,13 @@
 ---
-author: Virgil Warren, PhD
+title: "FIVE MODELS FOR COMPLETELY RELIABLE SCRIPTURE"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Revelation Scripture Bibliology
-- Scripture
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Revelation Scripture Bibliology'
+- 'Scripture'
 draft: false
-title: FIVE MODELS FOR COMPLETELY RELIABLE SCRIPTURE
-weight: 4
 ---
 
 <style>
@@ -220,7 +219,7 @@ style='font-size:12.0pt'>Summary Chart</span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>      
- <img width=399 height=150 src="/cir-library/images/essays/five-models-for-completely-reliable-scripture/image001.png"></span></p>
+ <img width=398 height=152 id="Picture 1" src="/cir-library/images/essays/five-models-for-completely-reliable-scripture/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 

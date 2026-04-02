@@ -1,14 +1,14 @@
 ---
-author: Virgil Warren, PhD
+title: "TRADITIONAL REASONS FOR GODS CREATING US"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Mankind Anthropology
-- Nature Of Man Book
-date: '2026-02-16'
-draft: false
-title: TRADITIONAL REASONS FOR GOD’S CREATING US
+- 'Topics'
+- 'Christian Doctrine'
+- 'Mankind Anthropology'
+- 'Nature Of Man Book'
 weight: 3
+draft: false
 ---
 
 <style>

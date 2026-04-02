@@ -1,14 +1,13 @@
 ---
-author: Virgil Warren, PhD
+title: "THE MEANING OF 'SUBMISSION'"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Mankind Anthropology
-- Womens Studies
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Mankind Anthropology'
+- 'Womens Studies'
 draft: false
-title: THE MEANING OF “SUBMISSION”
-weight: 4
 ---
 
 <style>

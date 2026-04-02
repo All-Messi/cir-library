@@ -1,7 +1,7 @@
 ---
 title: "OVERVIEW OF CREATION AND EVOLUTION"
 author: "Virgil Warren, PhD"
-date: '2026-03-20'
+date: '2026-04-02'
 categories:
 - 'Topics'
 - 'Christian Doctrine'

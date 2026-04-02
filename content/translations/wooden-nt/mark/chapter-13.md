@@ -11,7 +11,7 @@ next: chapter-14
 
 ## Mark Chapter 13
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>13</span></b><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>:1</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And he going-out of the temple, one of-the disciples of-him says, <i>“Teacher, behold, what stones! And what buildings!” </i></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And he going-out of the temple, one of-the disciples of-him says, <i>“Teacher, behold, what stones! And what buildings!” </i></span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'> 2</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And [the] Jesus said to-them, <i>“Do-you-see these [the] large buildings? Stone on stone here will┘certainly not└be-left that will┘certainly not└be-torn down.”</i>
 </span></p>

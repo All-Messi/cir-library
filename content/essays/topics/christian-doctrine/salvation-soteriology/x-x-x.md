@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "x x x,"
+author: "Virgil Warren, christir.org"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Salvation Soteriology
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Salvation Soteriology'
 draft: false
-title: x x x,
-weight: 3
 ---
 
 <style>

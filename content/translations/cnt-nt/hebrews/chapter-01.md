@@ -41,9 +41,9 @@ next: chapter-02
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He says in regard to angels,</span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b><i>“Who makes his angels spirits</i></b></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b><i>“Who makes his angels winds</i></b></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and his ministers flames of fire”</span></i></b><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></b><b><span style='font-size:8.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Ps 104:4]</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>.                                       </span></b></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and his ministers a blazing fire”</span></i></b><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></b><b><span style='font-size:8.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Ps 104:4]</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>.                                        </span></b></span></p>
 
 <p class="section-ref">Heb 1:5-7</p>
 

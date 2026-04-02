@@ -1,5 +1,5 @@
 ---
-author: "II. \tSELECTED LINGUISTIC PHENOMENA (Note Dr. Warren’s Ph.D. dissertation\
+author: "II. \tSELECTED LINGUISTIC PHENOMENA (Note Dr. Warren's Ph.D. dissertation\
   \ The Implication of Divine Self-Consistency for the Doctrine of Natural Depravity,\
   \ pp. 152-70.)"
 categories:
@@ -7,7 +7,7 @@ categories:
 - Getting The Point Book
 date: '2026-02-16'
 draft: false
-title: "II. \tSELECTED LINGUISTIC PHENOMENA (Note Dr. Warren’s Ph.D. dissertation\
+title: "II. \tSELECTED LINGUISTIC PHENOMENA (Note Dr. Warren's Ph.D. dissertation\
   \ The Implication of Divine Self-Consistency for the Doctrine of Natural Depravity,\
   \ pp. 152-70.)"
 weight: 104

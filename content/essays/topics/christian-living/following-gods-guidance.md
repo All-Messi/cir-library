@@ -1,5 +1,5 @@
 ---
-title: "FOLLOWING GOD’S GUIDANCE"
+title: "FOLLOWING GOD'S GUIDANCE"
 author: "Virgil Warren, PhD"
 date: '2026-03-19'
 categories:

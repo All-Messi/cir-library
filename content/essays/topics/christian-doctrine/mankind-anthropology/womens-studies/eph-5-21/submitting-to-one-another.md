@@ -8,7 +8,7 @@ categories:
 - Eph 5 21
 date: '2026-02-16'
 draft: false
-title: 'SUBMITTING TO ONE ANOTHER:'
+title: "SUBMITTING TO ONE ANOTHER:"
 weight: 5
 ---
 

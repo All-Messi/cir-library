@@ -1,12 +1,11 @@
 ---
-author: Virgil Warren     christir.org
+title: "FREEDOM AND DETERMINISM"
+author: "Virgil Warren christir.org"
+date: '2026-04-02'
 categories:
-- Topics
-- Notion In A Nutshell
-date: '2026-02-16'
+- 'Topics'
+- 'Notion In A Nutshell'
 draft: false
-title: FREEDOM AND DETERMINISM
-weight: 2
 ---
 
 <style>

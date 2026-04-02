@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "TYPICAL ISSUES IN CRITICAL INTRODUCTION"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Nt
-- Canon Nt Books
-date: '2026-02-16'
+- 'Evidences'
+- 'Critical Intro Nt'
+- 'Canon Nt Books'
 draft: false
-title: TYPICAL ISSUES IN CRITICAL INTRODUCTION
-weight: 3
 ---
 
 <style>

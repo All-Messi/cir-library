@@ -1,5 +1,5 @@
 ---
-title: "Christ’s Cryptic Commission"
+title: "Christ's Cryptic Commission"
 date: '2015-12-27'
 author: "Virgil Warren, christir.org"
 categories:

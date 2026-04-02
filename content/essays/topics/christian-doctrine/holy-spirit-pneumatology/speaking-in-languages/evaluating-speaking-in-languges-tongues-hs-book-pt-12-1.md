@@ -1,7 +1,7 @@
 ---
-title: "EVALUATING SPEAKING IN  LANGUGES TONGUES  (HS book pt 12) #1"
+title: "EVALUATING SPEAKING IN LANGUGES TONGUES (HS book pt 12) #1"
 author: "Virgil Warren, christir.org"
-date: '2026-03-13'
+date: '2026-04-02'
 categories:
 - 'Topics'
 - 'Christian Doctrine'

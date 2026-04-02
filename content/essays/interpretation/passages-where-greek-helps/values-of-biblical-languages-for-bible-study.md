@@ -1,12 +1,11 @@
 ---
-author: Virgil Warren, PhD
+title: "VALUES OF BIBLICAL LANGUAGES FOR BIBLE STUDY"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Interpretation
-- Passages Where Greek Helps
-date: '2026-02-16'
+- 'Interpretation'
+- 'Passages Where Greek Helps'
 draft: false
-title: VALUES OF BIBLICAL LANGUAGES FOR BIBLE STUDY
-weight: 2
 ---
 
 <style>
@@ -93,7 +92,7 @@ any other</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>                                        <img
-width=202 height=111 src="/cir-library/images/essays/values-of-biblical-languages-for-bible-study/image002.png"></span></p>
+width=202 height=111 id="Picture 2" src="/cir-library/images/essays/values-of-biblical-languages-for-bible-study/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>possibility except in cases where an alternate
@@ -123,7 +122,7 @@ translation</u>. Even if there is nothing incorrect, misleading, or      �
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>                                             <img
-width=134 height=80 src="/cir-library/images/essays/values-of-biblical-languages-for-bible-study/image003.png"></span></p>
+width=134 height=80 id="Picture 1" src="/cir-library/images/essays/values-of-biblical-languages-for-bible-study/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>apparently unclear about a passage in translation,

@@ -1,14 +1,14 @@
 ---
-author: Virgil Warren, PhD
+title: "MAN AND WOMAN IN ADAM AND IN CHRIST"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Mankind Anthropology
-- Womens Studies
-date: '2026-02-16'
-draft: false
-title: MAN AND WOMAN IN ADAM AND IN CHRIST
+- 'Topics'
+- 'Christian Doctrine'
+- 'Mankind Anthropology'
+- 'Womens Studies'
 weight: 1
+draft: false
 ---
 
 <style>

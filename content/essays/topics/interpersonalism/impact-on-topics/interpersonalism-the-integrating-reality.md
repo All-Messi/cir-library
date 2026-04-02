@@ -6,7 +6,7 @@ categories:
 - Impact On Topics
 date: '2026-02-16'
 draft: false
-title: 'INTERPERSONALISM: THE INTEGRATING REALITY'
+title: "INTERPERSONALISM: THE INTEGRATING REALITY"
 weight: 3
 ---
 

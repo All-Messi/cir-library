@@ -11,7 +11,7 @@ next: chapter-16
 
 ## Mark Chapter 15
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><b><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>15</span></b><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>:1</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And immediately early-in-the-morning, the chief-priests with the elders and scribes and the whole Sanhedrin holding session, having-bound [the] Jesus, brought (him) out and delivered (him) to-Pilate. </span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And immediately early-in-the-morning, the chief-priests with the elders and scribes and the whole Sanhedrin holding session, having-bound [the] Jesus, brought (him) out and delivered (him) to-Pilate. </span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And [the] Pilate asked him, <i>“Are you the king of-the Jews?”</i> </span></span></p>
 

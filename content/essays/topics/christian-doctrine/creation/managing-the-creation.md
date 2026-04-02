@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "MANAGING THE CREATION"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Creation
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Creation'
 draft: false
-title: MANAGING THE CREATION
-weight: 3
 ---
 
 <style>

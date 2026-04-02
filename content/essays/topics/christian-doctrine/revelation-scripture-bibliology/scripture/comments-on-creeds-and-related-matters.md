@@ -1,14 +1,13 @@
 ---
-author: Virgil Warren, PhD
+title: "COMMENTS ON CREEDS AND RELATED MATTERS"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Revelation Scripture Bibliology
-- Scripture
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Revelation Scripture Bibliology'
+- 'Scripture'
 draft: false
-title: COMMENTS ON CREEDS AND RELATED MATTERS
-weight: 4
 ---
 
 <style>

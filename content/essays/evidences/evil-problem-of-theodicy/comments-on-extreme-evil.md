@@ -1,12 +1,11 @@
 ---
-author: Virgil Warren, PhD
+title: "COMMENTS ON EXTREME EVIL"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Evil Problem Of Theodicy
-date: '2026-02-16'
+- 'Evidences'
+- 'Evil Problem Of Theodicy'
 draft: false
-title: COMMENTS ON EXTREME EVIL
-weight: 2
 ---
 
 <style>

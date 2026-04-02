@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "PECULIARITIES OF LUKE"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Nt
-- Luke
-date: '2026-02-16'
+- 'Evidences'
+- 'Critical Intro Nt'
+- 'Luke'
 draft: false
-title: PECULIARITIES OF LUKE
-weight: 3
 ---
 
 <style>

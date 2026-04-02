@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "TYPES OF SYSTEMS"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Baptism
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Baptism'
 draft: false
-title: TYPES OF SYSTEMS
-weight: 3
 ---
 
 <style>

@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "MIXED MARRIAGE"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Ethics
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Ethics'
 draft: false
-title: MIXED MARRIAGE
-weight: 3
 ---
 
 <style>

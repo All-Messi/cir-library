@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "THE RELATIONSHIP OF THE SYNOPTICS"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Nt
-- Synoptics
-date: '2026-02-16'
+- 'Evidences'
+- 'Critical Intro Nt'
+- 'Synoptics'
 draft: false
-title: THE RELATIONSHIP OF THE SYNOPTICS
-weight: 3
 ---
 
 <style>
@@ -49,7 +48,7 @@ margin-left:.5in;margin-bottom:.0001pt'><b><span style='font-size:12.0pt'>&nbsp;
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt'><span style='font-size:12.0pt'><img
-width=409 height=171 src="/cir-library/images/essays/the-relationship-of-the-synoptics/image001.png"></span></p>
+width=409 height=171 id="Picture 1" src="/cir-library/images/essays/the-relationship-of-the-synoptics/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt'><b><span style='font-size:12.0pt'>&nbsp;</span></b></p>

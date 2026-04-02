@@ -1,13 +1,13 @@
 ---
-author: Virgil Warren, PhD
+title: "THE SEVEN CHURCHES OF ASIA"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Nt
-- Revelation
-date: '2026-02-16'
-draft: false
-title: THE SEVEN CHURCHES OF ASIA
+- 'Evidences'
+- 'Critical Intro Nt'
+- 'Revelation'
 weight: 7
+draft: false
 ---
 
 <style>

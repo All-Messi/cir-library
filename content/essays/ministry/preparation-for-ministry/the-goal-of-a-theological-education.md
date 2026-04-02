@@ -1,12 +1,11 @@
 ---
-author: Virgil Warren, PhD
+title: "THE GOAL OF A 'THEOLOGICAL' EDUCATION"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Ministry
-- Preparation For Ministry
-date: '2026-02-16'
+- 'Ministry'
+- 'Preparation For Ministry'
 draft: false
-title: THE GOAL OF A “THEOLOGICAL” EDUCATION
-weight: 2
 ---
 
 <style>
@@ -18,11 +17,11 @@ weight: 2
 	{font-family:"Cambria Math";
 	panose-1:2 4 5 3 5 4 6 3 2 4;}
 @font-face
-	{font-family:Tahoma;
-	panose-1:2 11 6 4 3 5 4 4 2 4;}
-@font-face
 	{font-family:Chicago;
 	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
  /* Style Definitions */
  .word-content p.MsoNormal, .word-content li.MsoNormal, 
 p.MsoHeader, li.MsoHeader, 

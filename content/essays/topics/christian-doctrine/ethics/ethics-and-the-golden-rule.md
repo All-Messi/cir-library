@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "ETHICS AND THE GOLDEN RULE"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Ethics
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Ethics'
 draft: false
-title: ETHICS AND THE GOLDEN RULE
-weight: 3
 ---
 
 <style>

@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "PAUL VS. THE LAW OR THE TRADITION OF THE ELDERS?"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Dispensations
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Dispensations'
 draft: false
-title: PAUL VS. THE LAW OR THE TRADITION OF THE ELDERS?
-weight: 3
 ---
 
 <style>

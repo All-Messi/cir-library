@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "UNITY AND DIVERSITY IN THE UNIVERSAL BODY OF CHRIST"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Mankind Anthropology
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Mankind Anthropology'
 draft: false
-title: UNITY AND DIVERSITY IN THE UNIVERSAL BODY OF CHRIST
-weight: 3
 ---
 
 <style>

@@ -45,11 +45,11 @@ next: chapter-41
 
 <p class="section-ref">Ps 40:1-5</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Your don’t delight in sacrifices and meal offerings;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Y<b>our don’t delight in sacrifices and meal offerings;</b></span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      you haven’t required burnt offerings and sin offerings;</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      you haven’t required burnt offerings and sin offerings;</span></b></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk88138403"><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            you’ve pierced my ears.</span></a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> [</span><span style='font-family:"Times New Roman",serif'>you gave <u>me</u> a body<sup>LXX</sup></span><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>.]</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk88138403"><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>            you’ve pierced my ears </span></b></a><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Heb 10:5-</span></b><b><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>8a, 9a</span></b><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>; </span></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>“you gave <u>me</u> a body”<sup>LXX</sup>.]</span></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then I said, <i>“I’m coming;</i></span></span></p>
 

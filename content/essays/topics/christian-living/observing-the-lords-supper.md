@@ -1,5 +1,5 @@
 ---
-title: "OBSERVING THE LORD’S SUPPER"
+title: "OBSERVING THE LORD'S SUPPER"
 author: "Virgil Warren, PhD"
 date: '2026-03-19'
 categories:

@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "PARTICLES"
+author: "Virgil Warren, christir.org"
+date: '2026-04-02'
 categories:
-- Topics
-- Greek Features
-- Greek Vocab Project
-date: '2026-02-16'
+- 'Topics'
+- 'Greek Features'
+- 'Greek Vocab Project'
 draft: false
-title: PARTICLES
-weight: 3
 ---
 
 <style>

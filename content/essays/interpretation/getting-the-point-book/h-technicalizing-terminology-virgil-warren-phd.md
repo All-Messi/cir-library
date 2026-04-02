@@ -1,5 +1,5 @@
 ---
-author: "H. Technicalizing terminology\t\t Virgil Warren, PhD"
+author: "Virgil Warren, PhD"
 categories:
 - Interpretation
 - Getting The Point Book

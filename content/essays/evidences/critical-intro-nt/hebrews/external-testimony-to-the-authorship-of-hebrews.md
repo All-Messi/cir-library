@@ -1,13 +1,13 @@
 ---
-author: Virgil Warren, PhD
+title: "EXTERNAL TESTIMONY TO THE AUTHORSHIP OF HEBREWS"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Nt
-- Hebrews
-date: '2026-02-16'
-draft: false
-title: EXTERNAL TESTIMONY TO THE AUTHORSHIP OF HEBREWS
+- 'Evidences'
+- 'Critical Intro Nt'
+- 'Hebrews'
 weight: 1
+draft: false
 ---
 
 <style>

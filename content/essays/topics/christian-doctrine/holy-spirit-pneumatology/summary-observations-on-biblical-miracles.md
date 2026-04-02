@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "SUMMARY OBSERVATIONS ON BIBLICAL MIRACLES"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Holy Spirit Pneumatology
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Holy Spirit Pneumatology'
 draft: false
-title: SUMMARY OBSERVATIONS ON BIBLICAL MIRACLES
-weight: 3
 ---
 
 <style>

@@ -1,12 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "A RATIONALE FOR THE STRUCTURE OF GENESIS 1:1-2:3"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Ot
-date: '2026-02-16'
-draft: false
-title: A RATIONALE FOR THE STRUCTURE OF GENESIS 1:1-2:3
+- 'Evidences'
+- 'Critical Intro Ot'
 weight: 13
+draft: false
 ---
 
 <style>

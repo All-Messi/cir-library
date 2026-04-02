@@ -1,12 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "WISDOM AND LAW: DIVORCE"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Interpretation
-- Getting The Point Book
-date: '2026-02-16'
-draft: false
-title: 'WISDOM AND LAW: DIVORCE'
+- 'Interpretation'
+- 'Getting The Point Book'
 weight: 109
+draft: false
 ---
 
 <style>

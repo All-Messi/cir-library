@@ -1,13 +1,13 @@
 ---
-author: Virgil Warren, PhD
+title: "SUMMARY OF OFFICES IN THE CHURCH"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Church Ecclesiology
-date: '2026-02-16'
-draft: false
-title: SUMMARY OF OFFICES IN THE CHURCH
+- 'Topics'
+- 'Christian Doctrine'
+- 'Church Ecclesiology'
 weight: 3
+draft: false
 ---
 
 <style>

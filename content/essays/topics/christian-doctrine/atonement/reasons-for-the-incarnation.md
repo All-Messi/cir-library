@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "REASONS FOR THE INCARNATION"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Atonement
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Atonement'
 draft: false
-title: REASONS FOR THE INCARNATION
-weight: 3
 ---
 
 <style>

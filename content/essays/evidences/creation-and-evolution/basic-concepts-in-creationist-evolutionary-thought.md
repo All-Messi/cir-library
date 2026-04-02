@@ -1,12 +1,11 @@
 ---
-author: Virgil Warren, PhD
+title: "BASIC CONCEPTS IN CREATIONIST-EVOLUTIONARY THOUGHT"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Creation And Evolution
-date: '2026-02-16'
+- 'Evidences'
+- 'Creation And Evolution'
 draft: false
-title: BASIC CONCEPTS IN CREATIONIST-EVOLUTIONARY THOUGHT
-weight: 2
 ---
 
 <style>

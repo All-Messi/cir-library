@@ -7,7 +7,7 @@ categories:
 - Womens Studies
 date: '2026-02-16'
 draft: false
-title: MINISTRY BEFORE CONSENSUS ON WOMEN’S ROLES
+title: MINISTRY BEFORE CONSENSUS ON WOMEN'S ROLES
 weight: 4
 ---
 

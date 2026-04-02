@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "CREATION IN INTERPERSONAL CONTEXT"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Interpersonalism
-- Impact On Topics
-date: '2026-02-16'
+- 'Topics'
+- 'Interpersonalism'
+- 'Impact On Topics'
 draft: false
-title: CREATION IN INTERPERSONAL CONTEXT
-weight: 3
 ---
 
 <style>

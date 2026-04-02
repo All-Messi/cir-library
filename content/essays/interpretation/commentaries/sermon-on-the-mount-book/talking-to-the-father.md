@@ -1,13 +1,13 @@
 ---
-author: Virgil Warren, PhD
+title: "TALKING TO THE FATHER"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Interpretation
-- Commentaries
-- Sermon On The Mount Book
-date: '2026-02-16'
-draft: false
-title: TALKING TO THE FATHER
+- 'Interpretation'
+- 'Commentaries'
+- 'Sermon On The Mount Book'
 weight: 8
+draft: false
 ---
 
 <style>

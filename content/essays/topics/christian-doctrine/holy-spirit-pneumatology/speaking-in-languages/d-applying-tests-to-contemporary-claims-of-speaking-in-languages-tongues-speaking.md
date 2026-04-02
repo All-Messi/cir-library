@@ -7,8 +7,8 @@ categories:
 - Speaking In Languages
 date: '2026-02-16'
 draft: false
-title: "D. \tApplying tests to contemporary claims of speaking in languages (“tongues\
-  \ speaking”)"
+title: "D. \tApplying tests to contemporary claims of speaking in languages ('tongues\
+  \ speaking')"
 weight: 12
 ---
 

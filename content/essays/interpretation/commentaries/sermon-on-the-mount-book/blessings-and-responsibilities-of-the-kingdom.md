@@ -1,13 +1,13 @@
 ---
-author: Virgil Warren, PhD
+title: "BLESSINGS AND RESPONSIBILITIES OF THE KINGDOM"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Interpretation
-- Commentaries
-- Sermon On The Mount Book
-date: '2026-02-16'
-draft: false
-title: BLESSINGS AND RESPONSIBILITIES OF THE KINGDOM
+- 'Interpretation'
+- 'Commentaries'
+- 'Sermon On The Mount Book'
 weight: 2
+draft: false
 ---
 
 <style>

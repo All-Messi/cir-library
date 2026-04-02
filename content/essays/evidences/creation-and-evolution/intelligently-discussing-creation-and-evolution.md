@@ -1,12 +1,11 @@
 ---
-author: Virgil Warren, PhD
+title: "INTELLIGENTLY DISCUSSING CREATION AND EVOLUTION"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Creation And Evolution
-date: '2026-02-16'
+- 'Evidences'
+- 'Creation And Evolution'
 draft: false
-title: INTELLIGENTLY DISCUSSING CREATION AND EVOLUTION
-weight: 2
 ---
 
 <style>

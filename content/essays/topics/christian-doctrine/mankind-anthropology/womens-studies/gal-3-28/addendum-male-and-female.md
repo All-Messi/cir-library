@@ -8,7 +8,7 @@ categories:
 - Gal 3 28
 date: '2026-02-16'
 draft: false
-title: 'ADDENDUM: “MALE AND FEMALE”'
+title: "ADDENDUM: 'MALE AND FEMALE'"
 weight: 2
 ---
 

@@ -1,13 +1,13 @@
 ---
-author: Virgil Warren, PhD
+title: "THE VALUE OF THE GOLDEN RULE"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Interpretation
-- Commentaries
-- Sermon On The Mount Book
-date: '2026-02-16'
-draft: false
-title: THE VALUE OF THE GOLDEN RULE
+- 'Interpretation'
+- 'Commentaries'
+- 'Sermon On The Mount Book'
 weight: 12
+draft: false
 ---
 
 <style>
@@ -229,7 +229,7 @@ particularly good or particularly bad—just maintaining the relationship. </spa
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
 4.5pt;line-height:18.0pt'><span style='font-size:12.0pt'>                                          
-<img width=219 height=263 src="/cir-library/images/essays/the-value-of-the-golden-rule/image001.png"></span></p>
+<img width=219 height=263 id="Picture 1" src="/cir-library/images/essays/the-value-of-the-golden-rule/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
 4.5pt;line-height:18.0pt'><span style='font-size:12.0pt'>                In

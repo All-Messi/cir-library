@@ -1,5 +1,5 @@
 ---
-title: "VI.  Adverbs"
+title: "VI. Adverbs"
 author: "Virgil Warren, christir.org"
 date: '2026-03-06'
 categories:

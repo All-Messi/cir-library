@@ -11,7 +11,8 @@ next: chapter-03
 
 ## 2 Corinthians Chapter 2
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:16.0pt;line-height:115%; font-family:"Times New Roman",serif'>2</span></b><b><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>:1</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For I-determined this for-myself: [the] not to come to you again in sorrow. <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> For if I make<b>┘</b>you└sorrowful, then who (is) the-one cheering <b>┘</b>me└up except<sup>2</sup> the-ones made-sorrowful by me? </span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For I-determined this for-myself: [the] not to come to you again in sorrow. </span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> For if I make<b>┘</b>you└sorrowful, then who (is) the-one cheering <b>┘</b>me└up except<sup>2</sup> the-ones made-sorrowful by me? </span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> And I-wrote this very-thing in-order-that, having come, I-might<b>┘</b>not└have sorrow from whom it-is-necessary to-make<b>┘</b>me└rejoice, confident in you all that [the] my joy would-be (the joy) of-all of-you. </span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> For out-of much affliction and anxiety of-heart, I-wrote to-you through many tears, not in-order-that you-might-be-made-sorrowful, but in-order-that you-might-know the love that I-have abundantly for you.</span></span></p>
 

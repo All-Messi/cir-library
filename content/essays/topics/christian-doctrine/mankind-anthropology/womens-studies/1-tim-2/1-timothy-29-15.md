@@ -1,15 +1,15 @@
 ---
-author: Virgil Warren, PhD
+title: "1 TIMOTHY 2:9-15"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Mankind Anthropology
-- Womens Studies
-- 1 Tim 2
-date: '2026-02-16'
-draft: false
-title: 1 TIMOTHY 2:9-15
+- 'Topics'
+- 'Christian Doctrine'
+- 'Mankind Anthropology'
+- 'Womens Studies'
+- '1 Tim 2'
 weight: 1
+draft: false
 ---
 
 <style>

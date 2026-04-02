@@ -1,13 +1,13 @@
 ---
-author: Virgil Warren, PhD
+title: "STRENGTH FOR TODAY"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Interpretation
-- Commentaries
-- Sermon On The Mount Book
-date: '2026-02-16'
-draft: false
-title: STRENGTH FOR TODAY
+- 'Interpretation'
+- 'Commentaries'
+- 'Sermon On The Mount Book'
 weight: 9
+draft: false
 ---
 
 <style>

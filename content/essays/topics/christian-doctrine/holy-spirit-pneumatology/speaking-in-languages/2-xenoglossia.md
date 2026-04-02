@@ -1,14 +1,14 @@
 ---
-author: Virgil Warren, PhD
+title: "2. Xenoglossia"
+author: "Virgil Warren, christir.org"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Holy Spirit Pneumatology
-- Speaking In Languages
-date: '2026-02-16'
-draft: false
-title: "2. \tXenoglossia"
+- 'Topics'
+- 'Christian Doctrine'
+- 'Holy Spirit Pneumatology'
+- 'Speaking In Languages'
 weight: 13
+draft: false
 ---
 
 <style>

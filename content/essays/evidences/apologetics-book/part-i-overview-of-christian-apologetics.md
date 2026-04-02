@@ -1,12 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "Part I: OVERVIEW OF CHRISTIAN APOLOGETICS"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Apologetics Book
-date: '2026-02-16'
-draft: false
-title: 'Part I:  OVERVIEW OF CHRISTIAN APOLOGETICS'
+- 'Evidences'
+- 'Apologetics Book'
 weight: 1
+draft: false
 ---
 
 <style>
@@ -131,6 +131,9 @@ weight: 1
 @font-face
 	{font-family:"Aptos Display";
 	panose-1:2 11 0 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:Chicago;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
 @font-face
 	{font-family:"ACADEMY ENGRAVED LET PLAIN\:1\.0";
 	panose-1:2 0 0 0 0 0 0 0 0 0;}
@@ -5607,22 +5610,10 @@ weight: 1
 	{font-family:Yesteryear;
 	panose-1:3 2 8 2 4 6 7 7 8 2;}
 @font-face
-	{font-family:Chicago;
+	{font-family:"CG Times";
 	panose-1:2 11 6 4 2 2 2 2 2 4;}
-@font-face
-	{font-family:"\@PMingLiU";
-	panose-1:2 1 6 1 0 1 1 1 1 1;}
 @font-face
 	{font-family:"AR CENA";
-	panose-1:2 11 6 4 2 2 2 2 2 4;}
-@font-face
-	{font-family:"Proxima Nova";
-	panose-1:2 11 6 4 2 2 2 2 2 4;}
-@font-face
-	{font-family:SuperGreek;
-	panose-1:2 11 6 4 2 2 2 2 2 4;}
-@font-face
-	{font-family:"CG Times";
 	panose-1:2 11 6 4 2 2 2 2 2 4;}
  /* Style Definitions */
  .word-content p.MsoNormal, .word-content li.MsoNormal, 
@@ -5697,7 +5688,7 @@ style='font-size:8.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'><img width=395 height=219
+style='font-size:12.0pt'><img width=395 height=219 id="Picture 6"
 src="/cir-library/images/essays/part-i-overview-of-christian-apologetics/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -6093,7 +6084,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>                                                   <img
-width=150 height=108 src="/cir-library/images/essays/part-i-overview-of-christian-apologetics/image002.png"></span></p>
+width=150 height=108 id="Picture 5" src="/cir-library/images/essays/part-i-overview-of-christian-apologetics/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -6211,7 +6202,7 @@ style='font-size:12.0pt'>      </span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                                              <img
-width=206 height=116 src="/cir-library/images/essays/part-i-overview-of-christian-apologetics/image003.png"></span></p>
+width=206 height=116 id="Picture 4" src="/cir-library/images/essays/part-i-overview-of-christian-apologetics/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -6275,7 +6266,7 @@ style='font-size:12.0pt'>                            
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                 <img width=355 height=211
-src="/cir-library/images/essays/part-i-overview-of-christian-apologetics/image004.png"></span></p>
+id="Picture 3" src="/cir-library/images/essays/part-i-overview-of-christian-apologetics/image004.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -7935,7 +7926,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                <img width=355 height=97
+style='font-size:12.0pt'>                <img width=355 height=97 id="Picture 2"
 src="/cir-library/images/essays/part-i-overview-of-christian-apologetics/image005.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
@@ -9202,7 +9193,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>       <img width=407 height=169
+style='font-size:12.0pt'>       <img width=407 height=169 id="Picture 1"
 src="/cir-library/images/essays/part-i-overview-of-christian-apologetics/image006.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;

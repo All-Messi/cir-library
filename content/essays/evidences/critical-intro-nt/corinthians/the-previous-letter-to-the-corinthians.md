@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "THE 'PREVIOUS LETTER' TO THE CORINTHIANS"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Nt
-- Corinthians
-date: '2026-02-16'
+- 'Evidences'
+- 'Critical Intro Nt'
+- 'Corinthians'
 draft: false
-title: THE “PREVIOUS LETTER” TO THE CORINTHIANS
-weight: 3
 ---
 
 <style>

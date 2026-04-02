@@ -1,12 +1,11 @@
 ---
-author: Virgil Warren, PhD
+title: "CHURCH POLICIES ON WEDDINGS"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Ministry
-- Christian Ministry 105
-date: '2026-02-16'
+- 'Ministry'
+- 'Christian Ministry 105'
 draft: false
-title: CHURCH POLICIES ON WEDDINGS
-weight: 2
 ---
 
 <style>

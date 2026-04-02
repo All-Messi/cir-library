@@ -1,12 +1,11 @@
 ---
-author: Virgil Warren, PhD
+title: "KNOWING BY FAITH"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Ministry
-- Preparation For Ministry
-date: '2026-02-16'
+- 'Ministry'
+- 'Preparation For Ministry'
 draft: false
-title: KNOWING BY FAITH
-weight: 2
 ---
 
 <style>

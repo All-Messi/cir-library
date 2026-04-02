@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "SALVATION AS INTERPERSONAL"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Interpersonalism
-- Impact On Topics
-date: '2026-02-16'
+- 'Topics'
+- 'Interpersonalism'
+- 'Impact On Topics'
 draft: false
-title: SALVATION AS INTERPERSONAL
-weight: 3
 ---
 
 <style>
@@ -19,11 +18,11 @@ weight: 3
 	{font-family:"Cambria Math";
 	panose-1:2 4 5 3 5 4 6 3 2 4;}
 @font-face
-	{font-family:Tahoma;
-	panose-1:2 11 6 4 3 5 4 4 2 4;}
-@font-face
 	{font-family:Chicago;
 	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
  /* Style Definitions */
  .word-content p.MsoNormal, .word-content li.MsoNormal, 
 p.MsoHeader, li.MsoHeader, 

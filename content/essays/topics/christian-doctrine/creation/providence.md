@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "PROVIDENCE"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Creation
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Creation'
 draft: false
-title: PROVIDENCE
-weight: 3
 ---
 
 <style>

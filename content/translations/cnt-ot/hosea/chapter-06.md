@@ -51,9 +51,9 @@ next: chapter-07
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      the condemnations on you are as inescapable as light.</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I delight in loyalty more than sacrifice,</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I delight in loyalty more than sacrifice,</span></i></b></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      in knowing me more than in burnt offerings.</span></i></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>      in knowing me more than in burnt offerings</span></i></b><b><i><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></i></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Mt 9:13; 12:7]</span></b><b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>.</span></i></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Like Adam you’ve broken covenant</span></i></span></p>
 

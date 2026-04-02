@@ -96,7 +96,9 @@ next: chapter-13
 </span></i></span>
 <span class="verse verse-v45" id="v45"><sup class="verse-num">45</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>No hired hand can eat it.
 </span></i></span>
-<span class="verse verse-v46" id="v46"><sup class="verse-num">46</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Eat it in a single house. Don’t take any of the meat out of the house or break any of its bones. </span></i></span>
+<span class="verse verse-v46" id="v46"><sup class="verse-num">46</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Eat it in a single house.
+<b>Don’t</b> take any of the meat out of the house or <b>break any of its bones</b>
+</span></i><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Jn 19:36]</span></b><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>. </span></i></span>
 <span class="verse verse-v47" id="v47"><sup class="verse-num">47</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The whole community of Israel is to celebrate it. </span></i></span>
 <span class="verse verse-v48" id="v48"><sup class="verse-num">48</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If a foreigner that lives with you wants to celebrate it, all the males that belong to him need to be circumcised. Then he can come to celebrate it. He’ll become a citizen of the country, but no uncircumcised person can eat it. </span></i></span>
 <span class="verse verse-v49" id="v49"><sup class="verse-num">49</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The same law applies to a native and foreigner among you.” </span></i></span></p>

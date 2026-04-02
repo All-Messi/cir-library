@@ -46,7 +46,9 @@ next: chapter-02
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk122881985"><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Where I said, ‘You’re not my people,’</span></i></a></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      I’ll say, ‘You’re children of the living God.’</span></i></p>
+
+### I’ll say, ‘You’re children of the living God’ [2 Cor 6:18a].
+
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Judah and Israel will unite</span></i></span></p>
 

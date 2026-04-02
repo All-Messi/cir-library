@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "LUKE-ACTS AS INTERPRETED HISTORY"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Nt
-- Acts
-date: '2026-02-16'
+- 'Evidences'
+- 'Critical Intro Nt'
+- 'Acts'
 draft: false
-title: LUKE-ACTS AS INTERPRETED HISTORY
-weight: 3
 ---
 
 <style>

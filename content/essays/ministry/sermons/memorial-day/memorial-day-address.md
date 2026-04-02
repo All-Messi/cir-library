@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren
+title: "MEMORIAL DAY ADDRESS"
+author: "Virgil Warren"
+date: '2026-04-02'
 categories:
-- Ministry
-- Sermons
-- Memorial Day
-date: '2026-02-16'
+- 'Ministry'
+- 'Sermons'
+- 'Memorial Day'
 draft: false
-title: MEMORIAL DAY ADDRESS
-weight: 3
 ---
 
 <style>

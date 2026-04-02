@@ -1,12 +1,11 @@
 ---
-author: Virgil Warren, PhD
+title: "COMPARING THEISM AND NATURALISM IN ORIGINS THEORY"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Creation And Evolution
-date: '2026-02-16'
+- 'Evidences'
+- 'Creation And Evolution'
 draft: false
-title: COMPARING THEISM AND NATURALISM IN ORIGINS THEORY
-weight: 2
 ---
 
 <style>

@@ -1,7 +1,7 @@
 ---
-title: "NATURE OF MAN  (HS book) pt 3"
+title: "NATURE OF MAN (HS book) pt 3"
 author: "Virgil Warren, christir.org"
-date: '2026-03-13'
+date: '2026-04-02'
 categories:
 - 'Topics'
 - 'Christian Doctrine'

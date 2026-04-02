@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "THE PURPOSE OF CHRISTIAN BAPTISM: A SYNOPSIS*"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Baptism
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Baptism'
 draft: false
-title: 'THE PURPOSE OF CHRISTIAN BAPTISM: A SYNOPSIS*'
-weight: 3
 ---
 
 <style>

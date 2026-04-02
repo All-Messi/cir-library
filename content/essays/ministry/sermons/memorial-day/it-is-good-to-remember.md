@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "IT IS GOOD TO REMEMBER"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Ministry
-- Sermons
-- Memorial Day
-date: '2026-02-16'
+- 'Ministry'
+- 'Sermons'
+- 'Memorial Day'
 draft: false
-title: IT IS GOOD TO REMEMBER
-weight: 3
 ---
 
 <style>

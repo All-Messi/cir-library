@@ -1,15 +1,14 @@
 ---
-author: Virgil Warren, PhD
+title: "WOMENS ROLES AND 1 CORINTHIANS 14:34"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Mankind Anthropology
-- Womens Studies
-- 1 Cor 14
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Mankind Anthropology'
+- 'Womens Studies'
+- '1 Cor 14'
 draft: false
-title: WOMEN’S ROLES AND 1 CORINTHIANS 14:34
-weight: 5
 ---
 
 <style>

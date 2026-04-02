@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "CHARACTERISTICS AND PECULIARITIES OF ACTS"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Nt
-- Acts
-date: '2026-02-16'
+- 'Evidences'
+- 'Critical Intro Nt'
+- 'Acts'
 draft: false
-title: CHARACTERISTICS AND PECULIARITIES OF ACTS
-weight: 3
 ---
 
 <style>

@@ -5,7 +5,7 @@ categories:
 - Greek Features
 date: '2026-02-16'
 draft: false
-title: 'IRREGULAR LINGUISTIC FEATURES IN REVELATION:'
+title: "IRREGULAR LINGUISTIC FEATURES IN REVELATION:"
 weight: 2
 ---
 

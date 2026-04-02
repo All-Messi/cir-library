@@ -1,12 +1,11 @@
 ---
-author: Virgil Warren
+title: "CHRISTIAN MINISTRY INTERNSHIP"
+author: "Virgil Warren"
+date: '2026-04-02'
 categories:
-- Ministry
-- Interim Ministry
-date: '2026-02-16'
+- 'Ministry'
+- 'Interim Ministry'
 draft: false
-title: CHRISTIAN MINISTRY INTERNSHIP
-weight: 2
 ---
 
 <style>

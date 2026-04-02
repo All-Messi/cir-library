@@ -1,13 +1,13 @@
 ---
-author: Virgil Warren, PhD
+title: "A SKETCH ON BAPTISM FROM ACTS 2:38"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Baptism
-date: '2026-02-16'
-draft: false
-title: A SKETCH ON BAPTISM FROM ACTS 2:38
+- 'Topics'
+- 'Christian Doctrine'
+- 'Baptism'
 weight: 100
+draft: false
 ---
 
 <style>

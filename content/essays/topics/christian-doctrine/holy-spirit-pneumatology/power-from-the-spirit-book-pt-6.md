@@ -1,7 +1,7 @@
 ---
 title: "POWER from the Spirit (book pt 6)"
 author: "Virgil Warren, christir.org"
-date: '2026-03-13'
+date: '2026-04-02'
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -613,7 +613,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            <img width=359 height=151
+style='font-size:12.0pt'>            <img width=359 height=151 id="Picture 1"
 src="/cir-library/images/essays/power-from-the-spirit-book-pt-6/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -706,7 +706,7 @@ margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>    
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt'><span style='position:relative;
 z-index:251659776'><span style='left:0px;position:absolute;left:192px;
-top:-870px;width:35px;height:50px'><img width=35 height=50
+top:-870px;width:35px;height:49px'><img width=35 height=49
 src="/cir-library/images/essays/power-from-the-spirit-book-pt-6/image002.png"></span></span><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;

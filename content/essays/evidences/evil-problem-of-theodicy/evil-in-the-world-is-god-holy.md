@@ -5,7 +5,7 @@ categories:
 - Evil Problem Of Theodicy
 date: '2026-02-16'
 draft: false
-title: 'EVIL IN THE WORLD: IS GOD HOLY?'
+title: "EVIL IN THE WORLD: IS GOD HOLY?"
 weight: 2
 ---
 

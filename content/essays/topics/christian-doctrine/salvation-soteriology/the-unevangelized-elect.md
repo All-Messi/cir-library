@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "THE UNEVANGELIZED ELECT?"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Salvation Soteriology
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Salvation Soteriology'
 draft: false
-title: THE UNEVANGELIZED ELECT?
-weight: 3
 ---
 
 <style>
@@ -53,7 +52,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'><img width=243 height=116
+style='font-size:12.0pt'><img width=243 height=116 id="Picture 1"
 src="/cir-library/images/essays/the-unevangelized-elect/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span

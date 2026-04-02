@@ -1,12 +1,11 @@
 ---
-author: Virgil Warren, PhD
+title: "ARRANGING A MINISTER'S SCHEDULE"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Ministry
-- Christian Ministry 105
-date: '2026-02-16'
+- 'Ministry'
+- 'Christian Ministry 105'
 draft: false
-title: ARRANGING A MINISTER'S SCHEDULE
-weight: 2
 ---
 
 <style>

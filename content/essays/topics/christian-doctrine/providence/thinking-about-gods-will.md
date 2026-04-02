@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "THINKING ABOUT GODS WILL"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Providence
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Providence'
 draft: false
-title: THINKING ABOUT GOD’S WILL
-weight: 3
 ---
 
 <style>

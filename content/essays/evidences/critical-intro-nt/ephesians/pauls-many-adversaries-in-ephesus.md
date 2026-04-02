@@ -1,7 +1,7 @@
 ---
 title: "PAUL'S MANY ADVERSARIES IN EPHESUS"
 author: "Virgil Warren, christir.org"
-date: '2026-03-13'
+date: '2026-04-02'
 categories:
 - 'Evidences'
 - 'Critical Intro Nt'

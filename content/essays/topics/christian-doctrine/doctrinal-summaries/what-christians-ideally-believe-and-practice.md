@@ -6,7 +6,7 @@ categories:
 - Doctrinal Summaries
 date: '2026-02-16'
 draft: false
-title: 'WHAT CHRISTIANS IDEALLY BELIEVE AND PRACTICE:'
+title: "WHAT CHRISTIANS IDEALLY BELIEVE AND PRACTICE:"
 weight: 3
 ---
 

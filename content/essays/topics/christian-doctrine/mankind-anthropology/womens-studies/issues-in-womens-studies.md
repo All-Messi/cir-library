@@ -7,7 +7,7 @@ categories:
 - Womens Studies
 date: '2026-02-16'
 draft: false
-title: ISSUES IN WOMEN’S STUDIES
+title: ISSUES IN WOMEN'S STUDIES
 weight: 4
 ---
 

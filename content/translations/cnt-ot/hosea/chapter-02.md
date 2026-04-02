@@ -169,16 +169,21 @@ next: chapter-03
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  that will answer, ‘God has sown’</span></i><i><span style='font-family:"Times New Roman",serif'> [Jezreel</span></i><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>].</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll ‘sow’ her for myself in the land</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll ‘sow’ her for myself in the land</span></i></b></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and have mercy on her that hadn’t received mercy.</span></i></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and have mercy on her that hadn’t received mercy.</span></i></b></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll say to those who weren’t my people, </span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk122882440"><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      ‘</span></i></a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’re
-<i>my people </i></span><i><span style='font-family:"Times New Roman",serif'>[</span></i><span style='font-family:"Times New Roman",serif'>Ammi<i>]!</i></span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’</span></i></p>
+### I’ll say to those who weren’t my people,
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and they’ll say, ‘</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>You’re <i>my God </i></span><i><span style='font-family:"Times New Roman",serif'>[</span></i><span style='font-family: "Times New Roman",serif'>Elohai<i>]</i></span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>!’”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                    </span></b></span></p>
+
+
+### ‘You’re
+my people [Ammi]!’
+
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and they’ll say, ‘</span></i></b><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>You’re <i>my God </i></span></b><b><i><span style='font-family:"Times New Roman",serif'>[</span></i></b><b><span style='font-family:"Times New Roman",serif'>Elohai<i>]</i></span></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>!’”
+</span></i></b><b><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>[Hos 2:23 +1:10]</span></b><b><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                    </span></b></span></p>
 
 <p class="section-ref">Hos 2:18-23</p>
 

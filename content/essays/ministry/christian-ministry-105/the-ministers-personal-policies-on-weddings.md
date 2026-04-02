@@ -1,12 +1,11 @@
 ---
-author: Virgil Warren, PhD
+title: "THE MINISTERS PERSONAL POLICIES ON WEDDINGS"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Ministry
-- Christian Ministry 105
-date: '2026-02-16'
+- 'Ministry'
+- 'Christian Ministry 105'
 draft: false
-title: THE MINISTER’S PERSONAL POLICIES ON WEDDINGS
-weight: 2
 ---
 
 <style>

@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "NEW TESTAMENT STUDIES AND THE USE OF AMANUENSES"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Nt
-- Ephesians
-date: '2026-02-16'
+- 'Evidences'
+- 'Critical Intro Nt'
+- 'Ephesians'
 draft: false
-title: NEW TESTAMENT STUDIES AND THE USE OF AMANUENSES
-weight: 3
 ---
 
 <style>

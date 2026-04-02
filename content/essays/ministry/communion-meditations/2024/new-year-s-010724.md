@@ -1,5 +1,5 @@
 ---
-title: "New Year’s"
+title: "New Year's"
 date: '2024-01-07'
 author: "Virgil Warren, christir.org"
 categories:

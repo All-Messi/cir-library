@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "PRIMARY FACTORS IN ETHICAL THEORY"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Ethics
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Ethics'
 draft: false
-title: PRIMARY FACTORS IN ETHICAL THEORY
-weight: 3
 ---
 
 <style>
@@ -19,11 +18,11 @@ weight: 3
 	{font-family:"Cambria Math";
 	panose-1:2 4 5 3 5 4 6 3 2 4;}
 @font-face
-	{font-family:Tahoma;
-	panose-1:2 11 6 4 3 5 4 4 2 4;}
-@font-face
 	{font-family:Chicago;
 	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
  /* Style Definitions */
  .word-content p.MsoNormal, .word-content li.MsoNormal, 
 .word-content .MsoChpDefault
@@ -164,7 +163,7 @@ of these two main facets of living.</span></p>
 style='font-size:12.0pt'>     </span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'><img width=334 height=236
+style='font-size:12.0pt'><img width=333 height=238 id="Picture 1"
 src="/cir-library/images/essays/primary-factors-in-ethical-theory/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
@@ -409,7 +408,7 @@ action is the understood intent. It is communicated by divine command. Telling
 the truth is an example.</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><img
-width=322 height=132 src="/cir-library/images/essays/primary-factors-in-ethical-theory/image002.png" align=left hspace=12><span
+width=322 height=131 src="/cir-library/images/essays/primary-factors-in-ethical-theory/image002.png" align=left hspace=12><span
 style='font-size:12.0pt'>            The accompanying diagram shows two other
 kinds of interpersonal action and their relationship to ethics. People live
 best when they live above mere duty, legal minimums, simple                                                   </span></p>

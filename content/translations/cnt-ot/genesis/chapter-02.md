@@ -11,8 +11,9 @@ next: chapter-03
 
 ## Genesis Chapter 2
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1-2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The seventh day God had finished creating the earth and sky and everything in them, and he rested from his work. </span></span>
-<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He blessed the seventh day and set it aside because he’d finished working that day.                             </span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1-2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The seventh day God had finished creating the earth and sky and everything in them, and <b>he rested from his work </b></span><b><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>[Heb 4:4]</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.
+</span></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He blessed the seventh day and set it aside because he’d finished working that day.                       </span></span></p>
 
 <p class="section-ref">Gen 1:24-2:3</p>
 
@@ -57,8 +58,8 @@ next: chapter-03
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    because she was taken out of ‘man.’” </span></i></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That’s why a man is to leave his parents and unite with his wife, and they’ll become one physical identity. </span></span>
-<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The man and his wife were both naked, but they weren’t self-conscious.                                                                                        </span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That’s why a man is to leave his parents and unite with his wife, and they’ll become one physical identity</span></b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span><b><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>[Mt 19:5; Mk 10:7-8; Eph 6:31].</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></span>
+<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The man and his wife were both naked, but they weren’t self-conscious.                               </span></span></p>
 
 <p class="section-ref">Gen 2:21-25</p>
 

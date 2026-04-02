@@ -1,12 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "CONCEPT INVENTORY"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Interpretation
-- Getting The Point Book
-date: '2026-02-16'
-draft: false
-title: CONCEPT INVENTORY
+- 'Interpretation'
+- 'Getting The Point Book'
 weight: 100
+draft: false
 ---
 
 <style>
@@ -18,11 +18,11 @@ weight: 100
 	{font-family:"Cambria Math";
 	panose-1:2 4 5 3 5 4 6 3 2 4;}
 @font-face
-	{font-family:Tahoma;
-	panose-1:2 11 6 4 3 5 4 4 2 4;}
-@font-face
 	{font-family:Chicago;
 	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
  /* Style Definitions */
  .word-content p.MsoNormal, .word-content li.MsoNormal, 
 p.MsoHeader, li.MsoHeader, 

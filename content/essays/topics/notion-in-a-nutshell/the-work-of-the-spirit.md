@@ -1,12 +1,11 @@
 ---
-author: Virgil Warren     christir.org
+title: "THE WORK OF THE SPIRIT"
+author: "Virgil Warren christir.org"
+date: '2026-04-02'
 categories:
-- Topics
-- Notion In A Nutshell
-date: '2026-02-16'
+- 'Topics'
+- 'Notion In A Nutshell'
 draft: false
-title: THE WORK OF THE SPIRIT
-weight: 2
 ---
 
 <style>

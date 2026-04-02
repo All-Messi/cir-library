@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, Ph.D.
+title: "ANIMAL SYMBOLISM IN BIBLICAL APOCALYPTIC"
+author: "Virgil Warren, Ph.D."
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Nt
-- Revelation
-date: '2026-02-16'
+- 'Evidences'
+- 'Critical Intro Nt'
+- 'Revelation'
 draft: false
-title: ANIMAL SYMBOLISM IN BIBLICAL APOCALYPTIC
-weight: 3
 ---
 
 <style>

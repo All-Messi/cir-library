@@ -11,7 +11,8 @@ next: chapter-06
 
 ## 2 Corinthians Chapter 5
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:16.0pt;line-height: 115%;font-family:"Times New Roman",serif'>5</span></b><b><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>:1</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For we-know that if the earthly house of-us, the tent/tabernacle, is-destroyed, we-have (a) building from God, (a) house not-made-with-hands, eternal in the heavens. <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> For in this building we-groan, desiring to-be-dressed-with the building of-us [the] from heaven, </span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For we-know that if the earthly house of-us, the tent/tabernacle, is-destroyed, we-have (a) building from God, (a) house not-made-with-hands, eternal in the heavens. </span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> For in this building we-groan, desiring to-be-dressed-with the building of-us [the] from heaven, </span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> if indeed also, having-been-dressed, we-will<b>┘</b>not└be-found naked. </span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> For also we<b>┘</b>the-ones being in the tabernacle/tent└do–groan, being-burdened because we-do<b>┘</b>not└desire to-be-undressed, but to-be-fully-dressed in-order-that the mortal may-be-swallowed-up by [the] life. </span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> And the-One having-prepared us for this very-thing (is) God, the-One having given us the pledge of-the Spirit.</span></span></p>

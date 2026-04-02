@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "EXEGESIS AND THE GOSPELS"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Dispensations
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Dispensations'
 draft: false
-title: EXEGESIS AND THE GOSPELS
-weight: 3
 ---
 
 <style>

@@ -1,12 +1,11 @@
 ---
-author: Virgil Warren, PhD
+title: "TIME AND DISTANCE TERMS"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Greek Features
-date: '2026-02-16'
+- 'Topics'
+- 'Greek Features'
 draft: false
-title: TIME AND DISTANCE TERMS
-weight: 2
 ---
 
 <style>

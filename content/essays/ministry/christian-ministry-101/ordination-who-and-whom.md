@@ -1,12 +1,11 @@
 ---
-author: Virgil Warren, PhD
+title: "ORDINATION: WHO AND WHOM"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Ministry
-- Christian Ministry 101
-date: '2026-02-16'
+- 'Ministry'
+- 'Christian Ministry 101'
 draft: false
-title: 'ORDINATION: WHO AND WHOM'
-weight: 2
 ---
 
 <style>

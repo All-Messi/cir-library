@@ -25,6 +25,16 @@
         <div class="el-sec-head"><span class="el-sec-title">Subcategories</span></div>
         <div class="el-section-list">
             {{ range .Sections }}
+            {{/* Book redirect: link to book chapter-grid view instead of essay drilldown */}}
+            {{ if .Params.book_redirect }}
+            <div class="el-subcat-group">
+                <a href="{{ .Params.book_redirect }}" class="el-subcat-row el-book-link">
+                    <span class="el-book-icon">📖</span>
+                    <span class="el-subcat-name">{{ with .Params.book_title }}{{ . }}{{ else }}{{ .Title | lower | title }}{{ end }}</span>
+                    <span class="el-subcat-count">View Book →</span>
+                </a>
+            </div>
+            {{ else }}
             <div class="el-subcat-group">
                 <div class="el-subcat-row" onclick="this.parentElement.classList.toggle('el-open')">
                     <span class="el-subcat-toggle">▸</span>
@@ -54,9 +64,10 @@
                     {{ end }}
                 </div>
             </div>
-            {{ end }}
+            {{ end }}{{/* end if book_redirect */}}
+            {{ end }}{{/* end range .Sections */}}
         </div>
-        {{ end }}
+        {{ end }}{{/* end if .Sections */}}
 
         {{ if .RegularPages }}
         <div class="el-sec-head" {{ if .Sections }}style="margin-top: 1.5rem;"{{ end }}><span class="el-sec-title">Essays</span></div>
@@ -125,6 +136,11 @@
 .el-essay-row { display: block; padding: 0.35rem 0; font-family: 'Source Sans Pro', sans-serif; font-size: 0.88rem; color: #444; text-decoration: none; border-bottom: 1px solid #f5f3ef; transition: color .15s; }
 .el-essay-row:last-child { border-bottom: none; }
 .el-essay-row:hover { color: #2f4c3a; }
+
+.el-book-link { text-decoration: none; cursor: pointer; }
+.el-book-link:hover .el-subcat-name { color: #2f4c3a; }
+.el-book-link .el-subcat-count { font-weight: 600; font-size: 0.75rem; }
+.el-book-icon { margin-right: 0.4rem; font-size: 0.85rem; flex-shrink: 0; width: 0.8rem; }
 
 .el-empty { color: #888; font-style: italic; text-align: center; padding: 3rem 0; }
 

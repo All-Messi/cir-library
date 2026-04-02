@@ -1,12 +1,11 @@
 ---
-author: Virgil Warren, PhD
+title: "Try this: https://www.billmounce.com/freegreekfont/unicode-windows"
+author: "Virgil Warren, christir.org"
+date: '2026-04-02'
 categories:
-- Topics
-- Greek Features
-date: '2026-02-16'
+- 'Topics'
+- 'Greek Features'
 draft: false
-title: 'Try this: https://www.billmounce.com/freegreekfont/unicode-windows'
-weight: 2
 ---
 
 <style>

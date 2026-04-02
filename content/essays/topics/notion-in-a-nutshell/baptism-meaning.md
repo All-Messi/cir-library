@@ -1,12 +1,11 @@
 ---
-author: Virgil Warren, PhD
+title: "BAPTISM: MEANING"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Notion In A Nutshell
-date: '2026-02-16'
+- 'Topics'
+- 'Notion In A Nutshell'
 draft: false
-title: 'BAPTISM: MEANING'
-weight: 2
 ---
 
 <style>

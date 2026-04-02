@@ -1,13 +1,13 @@
 ---
-author: Virgil Warren, PhD
+title: "OATHS AND ADVERSARIES"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Interpretation
-- Commentaries
-- Sermon On The Mount Book
-date: '2026-02-16'
-draft: false
-title: OATHS AND ADVERSARIES
+- 'Interpretation'
+- 'Commentaries'
+- 'Sermon On The Mount Book'
 weight: 6
+draft: false
 ---
 
 <style>

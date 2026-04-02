@@ -6,7 +6,7 @@ categories:
 - Funerals
 date: '2026-02-16'
 draft: false
-title: THE PASSING OF JAIRUS’ DAUGHTER
+title: THE PASSING OF JAIRUS' DAUGHTER
 weight: 3
 ---
 

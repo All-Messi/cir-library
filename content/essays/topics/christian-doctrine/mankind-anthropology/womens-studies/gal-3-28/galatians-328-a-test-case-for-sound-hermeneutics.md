@@ -1,15 +1,15 @@
 ---
-author: Virgil Warren, PhD
+title: "GALATIANS 3:28: A TEST CASE FOR SOUND HERMENEUTICS"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Mankind Anthropology
-- Womens Studies
-- Gal 3 28
-date: '2026-02-16'
-draft: false
-title: 'GALATIANS 3:28: A TEST CASE FOR SOUND HERMENEUTICS'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Mankind Anthropology'
+- 'Womens Studies'
+- 'Gal 3 28'
 weight: 1
+draft: false
 ---
 
 <style>

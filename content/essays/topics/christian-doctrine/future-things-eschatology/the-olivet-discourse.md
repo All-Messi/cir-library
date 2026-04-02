@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "THE OLIVET DISCOURSE"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Future Things Eschatology
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Future Things Eschatology'
 draft: false
-title: THE OLIVET DISCOURSE
-weight: 3
 ---
 
 <style>

@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "CHRONOLOGY OF THE LIFE OF PAUL"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Nt
-- Romans
-date: '2026-02-16'
+- 'Evidences'
+- 'Critical Intro Nt'
+- 'Romans'
 draft: false
-title: CHRONOLOGY OF THE LIFE OF PAUL
-weight: 3
 ---
 
 <style>
@@ -51,7 +50,7 @@ margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>&nbsp;</
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'><img
-width=398 height=261 src="/cir-library/images/essays/chronology-of-the-life-of-paul/image001.png"></span></p>
+width=398 height=261 id="Picture 1" src="/cir-library/images/essays/chronology-of-the-life-of-paul/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:6.0pt'>&nbsp;</span></p>

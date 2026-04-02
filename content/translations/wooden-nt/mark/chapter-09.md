@@ -11,7 +11,7 @@ next: chapter-10
 
 ## Mark Chapter 9
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>9</span></b><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>:1</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And he-continued-by-saying to-them, <i>“Truly I-say to-you that some of-the-ones standing here are who will┘certainly not└taste of-death until<sup>2</sup> they-see the kingdom of-[the] God having-come with/in power.”</i></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And he-continued-by-saying to-them, <i>“Truly I-say to-you that some of-the-ones standing here are who will┘certainly not└taste of-death until<sup>2</sup> they-see the kingdom of-[the] God having-come with/in power.”</i></span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And after six days [the] Jesus takes-along [the] Peter and [the] James and [the] John and brings┘them└up into (a) high mountain privately<sup>2</sup> alone, and he-was-transformed in-front-of them, </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and the clothes of-him because dazzling, very white, such-as (a) fuller/bleacher on [the] earth is┘not└able so to-whiten (them). </span></span>

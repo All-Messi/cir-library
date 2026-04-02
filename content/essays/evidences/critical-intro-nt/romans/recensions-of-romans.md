@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "RECENSIONS OF ROMANS"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Nt
-- Romans
-date: '2026-02-16'
+- 'Evidences'
+- 'Critical Intro Nt'
+- 'Romans'
 draft: false
-title: RECENSIONS OF ROMANS
-weight: 3
 ---
 
 <style>
@@ -253,7 +252,7 @@ style='font-size:8.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                                           <img
-width=177 height=249 src="/cir-library/images/essays/recensions-of-romans/image001.png"></span></p>
+width=177 height=249 id="Picture 1" src="/cir-library/images/essays/recensions-of-romans/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span

@@ -1,12 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "INTRODUCTORY CONSIDERATIONS ON JONAH"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Interpretation
-- Getting The Point Book
-date: '2026-02-16'
-draft: false
-title: INTRODUCTORY CONSIDERATIONS ON JONAH
+- 'Interpretation'
+- 'Getting The Point Book'
 weight: 102
+draft: false
 ---
 
 <style>

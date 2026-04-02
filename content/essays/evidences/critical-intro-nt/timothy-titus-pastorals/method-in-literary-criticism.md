@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "METHOD IN LITERARY CRITICISM"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Nt
-- Timothy Titus Pastorals
-date: '2026-02-16'
+- 'Evidences'
+- 'Critical Intro Nt'
+- 'Timothy Titus Pastorals'
 draft: false
-title: METHOD IN LITERARY CRITICISM
-weight: 3
 ---
 
 <style>

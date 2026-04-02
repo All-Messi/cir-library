@@ -1,12 +1,11 @@
 ---
-author: Virgil Warren, PhD
+title: "PERSONAL QUALITIES A MINISTER NEEDS TO BE DEVELOPING"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Ministry
-- Christian Ministry 101
-date: '2026-02-16'
+- 'Ministry'
+- 'Christian Ministry 101'
 draft: false
-title: PERSONAL QUALITIES A MINISTER NEEDS TO BE DEVELOPING
-weight: 2
 ---
 
 <style>

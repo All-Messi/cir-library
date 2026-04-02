@@ -1,12 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "PART FOUR: THE PHILOSOPHICAL METHOD IN SKETCH"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Apologetics Book
-date: '2026-02-16'
-draft: false
-title: 'PART FOUR: THE PHILOSOPHICAL METHOD IN SKETCH'
+- 'Evidences'
+- 'Apologetics Book'
 weight: 12
+draft: false
 ---
 
 <style>

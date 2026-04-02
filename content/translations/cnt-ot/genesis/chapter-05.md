@@ -13,7 +13,7 @@ next: chapter-06
 
 <p class="MsoListBulletCxSpFirst" align=center style='text-align:center'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Adam’s Descendants</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" ><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <a name="_Hlk125445809">God created people to be like himself. </a></span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He made them male and female, blessed them, and called them human.</span></span></p>
+<p class="MsoListBulletCxSpMiddle" ><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <a name="_Hlk125445809">God created people to be like himself. </a></span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He made them male and female</span></b><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> </span><b><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Mt 19:4; Mk 10:6]</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, blessed them, and called them man.</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" ><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Adam lived 130 years and had a son in his own image like himself. He named him Seth.
 </span></span>
@@ -45,9 +45,11 @@ next: chapter-06
 <p class="section-ref">Gen 5:9-20</p>
 
 <p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Enoch lived 65 years and had Methuselah. </span></span>
-<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Enoch walked with God 300 years after that and had sons and daughters. </span></span>
+<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then
+<b>Enoch</b> walked with God 300 years after that and had sons and daughters. </span></span>
 <span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Altogether he lived 365 years. </span></span>
-<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He walked with God and wasn’t there because God took him.</span></span></p>
+<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He
+<b>walked with God and wasn’t there because God took him </b></span><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Heb 11:5]</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>.</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Methuselah lived 187 years and had Lamech. </span></span>
 <span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He lived 782 years after that and had sons and daughters. </span></span>

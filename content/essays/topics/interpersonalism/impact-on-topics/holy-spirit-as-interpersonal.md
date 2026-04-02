@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "HOLY SPIRIT AS INTERPERSONAL"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Interpersonalism
-- Impact On Topics
-date: '2026-02-16'
+- 'Topics'
+- 'Interpersonalism'
+- 'Impact On Topics'
 draft: false
-title: HOLY SPIRIT AS INTERPERSONAL
-weight: 3
 ---
 
 <style>
@@ -19,11 +18,11 @@ weight: 3
 	{font-family:"Cambria Math";
 	panose-1:2 4 5 3 5 4 6 3 2 4;}
 @font-face
-	{font-family:Tahoma;
-	panose-1:2 11 6 4 3 5 4 4 2 4;}
-@font-face
 	{font-family:Chicago;
 	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
  /* Style Definitions */
  .word-content p.MsoNormal, .word-content li.MsoNormal, 
 .word-content .MsoChpDefault
@@ -73,7 +72,7 @@ through the sheer  relationship  itself.               </span></
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'><img width=309 height=156
-src="/cir-library/images/essays/holy-spirit-as-interpersonal/image001.png"></span></p>
+id="Picture 1" src="/cir-library/images/essays/holy-spirit-as-interpersonal/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>In addition to these purely

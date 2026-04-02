@@ -1,12 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "THE DATE OF THE EVENTS IN JOB"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Ot
-date: '2026-02-16'
-draft: false
-title: THE DATE OF THE EVENTS IN JOB
+- 'Evidences'
+- 'Critical Intro Ot'
 weight: 30
+draft: false
 ---
 
 <style>

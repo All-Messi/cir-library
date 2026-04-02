@@ -1,12 +1,11 @@
 ---
-author: "Virgil Warren, PhD\t\tchristir.org"
+title: "NATURAL DEPRAVITY"
+author: "Virgil Warren, PhD christir.org"
+date: '2026-04-02'
 categories:
-- Topics
-- Notion In A Nutshell
-date: '2026-02-16'
+- 'Topics'
+- 'Notion In A Nutshell'
 draft: false
-title: NATURAL DEPRAVITY
-weight: 2
 ---
 
 <style>

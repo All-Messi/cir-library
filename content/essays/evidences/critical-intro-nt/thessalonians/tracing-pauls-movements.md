@@ -6,7 +6,7 @@ categories:
 - Thessalonians
 date: '2026-02-16'
 draft: false
-title: TRACING PAUL’S MOVEMENTS
+title: TRACING PAUL'S MOVEMENTS
 weight: 3
 ---
 

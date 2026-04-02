@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "RIGHTLY DIVIDING THE WORD OF TRUTH IN ACTS 2:38"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Baptism
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Baptism'
 draft: false
-title: RIGHTLY DIVIDING THE WORD OF TRUTH IN ACTS 2:38
-weight: 3
 ---
 
 <style>

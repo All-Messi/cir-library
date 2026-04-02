@@ -1,5 +1,5 @@
 ---
-title: "GOD’S WILL FOR MY LIFE"
+title: "GOD'S WILL FOR MY LIFE"
 author: "Virgil Warren, PhD"
 date: '2026-03-19'
 categories:

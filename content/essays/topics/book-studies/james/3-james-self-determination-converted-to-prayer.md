@@ -1,13 +1,13 @@
 ---
-author: Virgil Warren, PhD
+title: "(3) JAMES: SELF-DETERMINATION CONVERTED TO PRAYER"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Book Studies
-- James
-date: '2026-02-16'
-draft: false
-title: '(3) JAMES: SELF-DETERMINATION CONVERTED TO PRAYER'
+- 'Topics'
+- 'Book Studies'
+- 'James'
 weight: 3
+draft: false
 ---
 
 <style>

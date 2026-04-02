@@ -11,7 +11,7 @@ next: chapter-17
 
 ## Revelation Chapter 16
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><b><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>16</span></b><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>:1</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And I-heard (a) loud voice out-of the sanctuary, saying to-the seven angels, <i>“Go and pour-out the seven bowls of-the wrath of-[the] God on the earth.”</i></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And I-heard (a) loud voice out-of the sanctuary, saying to-the seven angels, <i>“Go and pour-out the seven bowls of-the wrath of-[the] God on the earth.”</i></span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And the first went-away and poured-out the bowl of-him on the earth, and (a) bad and evil sore/boil came on the men [the-ones] having the mark of-the beast and (on) the-ones worshiping the image of-him.</span></span></p>
 

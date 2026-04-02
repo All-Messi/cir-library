@@ -1,12 +1,11 @@
 ---
-author: Virgil Warren, PhD
+title: "BEGINNING A MINISTRY"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Ministry
-- Christian Ministry 101
-date: '2026-02-16'
+- 'Ministry'
+- 'Christian Ministry 101'
 draft: false
-title: BEGINNING A MINISTRY
-weight: 2
 ---
 
 <style>

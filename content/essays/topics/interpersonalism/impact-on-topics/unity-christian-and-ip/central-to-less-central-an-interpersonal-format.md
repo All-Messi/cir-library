@@ -7,7 +7,7 @@ categories:
 - Unity Christian And Ip
 date: '2026-02-16'
 draft: false
-title: 'Central to Less Central: An Interpersonal Format'
+title: "Central to Less Central: An Interpersonal Format"
 weight: 4
 ---
 

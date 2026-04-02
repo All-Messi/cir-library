@@ -1,13 +1,13 @@
 ---
-author: Virgil Warren, PhD
+title: "CHARACTERISTICS AND PECULIARITIES OF 1 PETER"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Nt
-- 1 Peter
-date: '2026-02-16'
-draft: false
-title: CHARACTERISTICS AND PECULIARITIES OF 1 PETER
+- 'Evidences'
+- 'Critical Intro Nt'
+- '1 Peter'
 weight: 1
+draft: false
 ---
 
 <style>

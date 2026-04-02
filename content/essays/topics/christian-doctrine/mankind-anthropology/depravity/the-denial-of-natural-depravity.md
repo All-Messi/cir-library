@@ -7,7 +7,7 @@ categories:
 - Depravity
 date: '2026-02-16'
 draft: false
-title: 'THE DENIAL OF NATURAL DEPRAVITY:'
+title: "THE DENIAL OF NATURAL DEPRAVITY:"
 weight: 4
 ---
 

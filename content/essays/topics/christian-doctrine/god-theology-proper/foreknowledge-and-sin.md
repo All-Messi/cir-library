@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "FOREKNOWLEDGE AND SIN"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- God Theology Proper
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'God Theology Proper'
 draft: false
-title: FOREKNOWLEDGE AND SIN
-weight: 3
 ---
 
 <style>
@@ -182,9 +181,9 @@ margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>            Finally, God meets his responsibility for
 evil by offering <b>(d)</b> <u>redemption</u>. The redemption possibility
 provides for freewill transformation of evil back into good before evil is
-finally overthrown. God created people despite his foreseen sin because at the
-same time he planned to redeem sinners—as many as would use that same will to
-turn back to him after experiencing sin.</span></p>
+finally overthrown. God created people despite their foreseen sin because at
+the same time he planned to redeem sinners—as many as would use that same will
+to turn back to him after experiencing sin.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -408,7 +407,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:11.0pt'>christir.org</span></p>
+style='font-size:11.0pt'>                                                                                                                                      christir.org</span></p>
 
 <p class=MsoNormal style='margin-left:.25in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 </div>

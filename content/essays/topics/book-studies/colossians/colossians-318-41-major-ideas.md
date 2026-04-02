@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "COLOSSIANS 3:18-4:1: MAJOR IDEAS"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Book Studies
-- Colossians
-date: '2026-02-16'
+- 'Topics'
+- 'Book Studies'
+- 'Colossians'
 draft: false
-title: 'COLOSSIANS 3:18-4:1:  MAJOR IDEAS'
-weight: 3
 ---
 
 <style>

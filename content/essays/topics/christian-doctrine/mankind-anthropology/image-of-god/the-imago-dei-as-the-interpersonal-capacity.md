@@ -7,7 +7,7 @@ categories:
 - Image Of God
 date: '2026-02-16'
 draft: false
-title: 'THE IMAGO DEI AS THE INTERPERSONAL CAPACITY:'
+title: "THE IMAGO DEI AS THE INTERPERSONAL CAPACITY:"
 weight: 4
 ---
 

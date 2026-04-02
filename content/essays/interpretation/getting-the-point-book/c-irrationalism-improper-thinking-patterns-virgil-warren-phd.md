@@ -1,5 +1,5 @@
 ---
-author: "c. Irrationalism (improper thinking patterns)\t             Virgil Warren,\
+author: "Virgil Warren,\
   \ PhD"
 categories:
 - Interpretation

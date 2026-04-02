@@ -1,13 +1,13 @@
 ---
-author: Virgil Warren, PhD
+title: "THE RATIONALE FOR ATONEMENT THROUGH CHRIST"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Atonement
-date: '2026-02-16'
-draft: false
-title: THE RATIONALE FOR ATONEMENT THROUGH CHRIST
+- 'Topics'
+- 'Christian Doctrine'
+- 'Atonement'
 weight: 2
+draft: false
 ---
 
 <style>

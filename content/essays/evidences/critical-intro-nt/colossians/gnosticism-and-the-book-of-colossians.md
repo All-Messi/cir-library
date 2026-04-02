@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "GNOSTICISM AND THE BOOK OF COLOSSIANS"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Nt
-- Colossians
-date: '2026-02-16'
+- 'Evidences'
+- 'Critical Intro Nt'
+- 'Colossians'
 draft: false
-title: GNOSTICISM AND THE BOOK OF COLOSSIANS
-weight: 3
 ---
 
 <style>
@@ -150,7 +149,7 @@ style='font-size:8.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                                     <img width=256
-height=257 src="/cir-library/images/essays/gnosticism-and-the-book-of-colossians/image003.png"></span></p>
+height=257 id="Picture 1" src="/cir-library/images/essays/gnosticism-and-the-book-of-colossians/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span

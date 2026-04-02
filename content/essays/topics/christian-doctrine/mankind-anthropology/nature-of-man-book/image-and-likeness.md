@@ -1,14 +1,14 @@
 ---
-author: Virgil Warren, PhD
+title: "IMAGE AND LIKENESS"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Mankind Anthropology
-- Nature Of Man Book
-date: '2026-02-16'
-draft: false
-title: IMAGE AND LIKENESS
+- 'Topics'
+- 'Christian Doctrine'
+- 'Mankind Anthropology'
+- 'Nature Of Man Book'
 weight: 8
+draft: false
 ---
 
 <style>

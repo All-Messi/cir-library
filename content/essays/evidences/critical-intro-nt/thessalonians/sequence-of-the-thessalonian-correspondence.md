@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "SEQUENCE OF THE THESSALONIAN CORRESPONDENCE"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Nt
-- Thessalonians
-date: '2026-02-16'
+- 'Evidences'
+- 'Critical Intro Nt'
+- 'Thessalonians'
 draft: false
-title: SEQUENCE OF THE THESSALONIAN CORRESPONDENCE
-weight: 3
 ---
 
 <style>

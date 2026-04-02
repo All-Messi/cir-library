@@ -6,7 +6,7 @@ categories:
 - Ephesians
 date: '2026-02-16'
 draft: false
-title: GOODSPEED’S ARGUMENTS AGAINST THE
+title: GOODSPEED'S ARGUMENTS AGAINST THE
 weight: 3
 ---
 

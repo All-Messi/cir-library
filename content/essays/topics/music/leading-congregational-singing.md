@@ -5,7 +5,7 @@ categories:
 - Music
 date: '2026-02-16'
 draft: false
-title: 'LEADING CONGREGATIONAL SINGING:'
+title: "LEADING CONGREGATIONAL SINGING:"
 weight: 2
 ---
 

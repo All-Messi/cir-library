@@ -1,13 +1,13 @@
 ---
-author: Virgil Warren, PhD
+title: "CRITICAL INTRODUCTION TO 2 JOHN"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Nt
-- 1 2 3 John
-date: '2026-02-16'
-draft: false
-title: CRITICAL INTRODUCTION TO 2 JOHN
+- 'Evidences'
+- 'Critical Intro Nt'
+- '1 2 3 John'
 weight: 2
+draft: false
 ---
 
 <style>

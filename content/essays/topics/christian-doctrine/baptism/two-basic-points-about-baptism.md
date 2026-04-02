@@ -1,13 +1,13 @@
 ---
-author: Virgil Warren, PhD
+title: "TWO BASIC POINTS ABOUT BAPTISM"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Baptism
-date: '2026-02-16'
-draft: false
-title: TWO BASIC POINTS ABOUT BAPTISM
+- 'Topics'
+- 'Christian Doctrine'
+- 'Baptism'
 weight: 2
+draft: false
 ---
 
 <style>

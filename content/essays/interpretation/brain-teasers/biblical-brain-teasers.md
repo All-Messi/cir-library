@@ -1,12 +1,11 @@
 ---
-author: Virgil Warren, PhD
+title: "BIBLICAL BRAIN TEASERS"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Interpretation
-- Brain Teasers
-date: '2026-02-16'
+- 'Interpretation'
+- 'Brain Teasers'
 draft: false
-title: BIBLICAL BRAIN TEASERS
-weight: 2
 ---
 
 <style>

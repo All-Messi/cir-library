@@ -6,7 +6,7 @@ categories:
 - Corinthians
 date: '2026-02-16'
 draft: false
-title: REASONS FOR THE “MOOD SHIFT” BETWEEN
+title: REASONS FOR THE 'MOOD SHIFT' BETWEEN
 weight: 3
 ---
 

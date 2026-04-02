@@ -1,13 +1,13 @@
 ---
-author: Virgil Warren, PhD
+title: "2 PETER AND JUDE IN PARALLEL"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Nt
-- 2 Peter
-date: '2026-02-16'
-draft: false
-title: "2 Peter and Jude in Parallel (Greek)"
+- 'Evidences'
+- 'Critical Intro Nt'
+- '2 Peter'
 weight: 2
+draft: false
 ---
 
 <style>

@@ -1,14 +1,13 @@
 ---
-author: Virgil Warren, PhD
+title: "PASSAGES RELEVANT TO INERRANCY*"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Revelation Scripture Bibliology
-- Scripture
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Revelation Scripture Bibliology'
+- 'Scripture'
 draft: false
-title: PASSAGES RELEVANT TO INERRANCY*
-weight: 4
 ---
 
 <style>

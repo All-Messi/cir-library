@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "REVELATION: GOOD AND EVIL IN ETERNAL PERSPECTIVE"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Book Studies
-- Revelation
-date: '2026-02-16'
+- 'Topics'
+- 'Book Studies'
+- 'Revelation'
 draft: false
-title: 'REVELATION:  GOOD AND EVIL IN ETERNAL PERSPECTIVE'
-weight: 3
 ---
 
 <style>

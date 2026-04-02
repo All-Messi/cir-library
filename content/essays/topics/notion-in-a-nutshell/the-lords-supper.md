@@ -5,7 +5,7 @@ categories:
 - Notion In A Nutshell
 date: '2026-02-16'
 draft: false
-title: THE LORD’S SUPPER/
+title: THE LORD'S SUPPER/
 weight: 2
 ---
 

@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "THE SABBATH AS A MEMORIAL OF THE EXODUS"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Sabbath Sunday
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Sabbath Sunday'
 draft: false
-title: THE SABBATH AS A MEMORIAL OF THE EXODUS
-weight: 3
 ---
 
 <style>

@@ -1,12 +1,11 @@
 ---
-author: Virgil Warren, PhD
+title: "QUESTIONED TEXTS IN THE NEW TESTAMENT"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Greek Features
-date: '2026-02-16'
+- 'Topics'
+- 'Greek Features'
 draft: false
-title: QUESTIONED TEXTS IN THE NEW TESTAMENT
-weight: 2
 ---
 
 <style>

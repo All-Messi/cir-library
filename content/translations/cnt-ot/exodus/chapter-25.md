@@ -84,7 +84,7 @@ next: chapter-26
 <span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Make its lamps so they shine forward. </span></i></span>
 <span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Its snuffers and their trays will be pure gold. </span></i></span>
 <span class="verse verse-v39" id="v39"><sup class="verse-num">39</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Make it from 75½ lbs <sup>a talent</sup> of pure gold, with all its utensils. </span></i></span>
-<span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Be sure to make them in the design I showed you on the mountain.                                                                    </span></i></span></span></p>
+<span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Be sure to make them in the design I showed you on the mountain </span></i></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Heb 8:5]</span></b><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>.                                                     </span></i></span></span></p>
 
 <p class="section-ref">Ex 25:31-40</p>
 

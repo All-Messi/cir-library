@@ -1,13 +1,13 @@
 ---
-author: Virgil Warren, PhD
+title: "MANKIND"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Mankind Anthropology
-date: '2026-02-16'
-draft: false
-title: MANKIND
+- 'Topics'
+- 'Christian Doctrine'
+- 'Mankind Anthropology'
 weight: 8
+draft: false
 ---
 
 <style>

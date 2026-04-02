@@ -1,13 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "SOME VALUES OF LOVE AS AN ETHICAL PRINCIPLE"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Topics
-- Christian Doctrine
-- Ethics
-date: '2026-02-16'
+- 'Topics'
+- 'Christian Doctrine'
+- 'Ethics'
 draft: false
-title: SOME VALUES OF LOVE AS AN ETHICAL PRINCIPLE
-weight: 3
 ---
 
 <style>

@@ -1,12 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "BIBLICAL FIGURES OF SPEECH"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Interpretation
-- Getting The Point Book
-date: '2026-02-16'
-draft: false
-title: BIBLICAL FIGURES OF SPEECH
+- 'Interpretation'
+- 'Getting The Point Book'
 weight: 110
+draft: false
 ---
 
 <style>
@@ -131,6 +131,9 @@ weight: 110
 @font-face
 	{font-family:"Aptos Display";
 	panose-1:2 11 0 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:Chicago;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
 @font-face
 	{font-family:"ACADEMY ENGRAVED LET PLAIN\:1\.0";
 	panose-1:2 0 0 0 0 0 0 0 0 0;}
@@ -5606,21 +5609,6 @@ weight: 110
 @font-face
 	{font-family:Yesteryear;
 	panose-1:3 2 8 2 4 6 7 7 8 2;}
-@font-face
-	{font-family:Chicago;
-	panose-1:2 11 6 4 2 2 2 2 2 4;}
-@font-face
-	{font-family:"\@PMingLiU";
-	panose-1:2 1 6 1 0 1 1 1 1 1;}
-@font-face
-	{font-family:"AR CENA";
-	panose-1:2 11 6 4 2 2 2 2 2 4;}
-@font-face
-	{font-family:"Proxima Nova";
-	panose-1:2 11 6 4 2 2 2 2 2 4;}
-@font-face
-	{font-family:SuperGreek;
-	panose-1:2 11 6 4 2 2 2 2 2 4;}
 @font-face
 	{font-family:"CG Times";
 	panose-1:2 11 6 4 2 2 2 2 2 4;}

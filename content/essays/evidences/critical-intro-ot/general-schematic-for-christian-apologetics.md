@@ -1,12 +1,12 @@
 ---
-author: Virgil Warren, PhD
+title: "GENERAL SCHEMATIC FOR CHRISTIAN APOLOGETICS"
+author: "Virgil Warren, PhD"
+date: '2026-04-02'
 categories:
-- Evidences
-- Critical Intro Ot
-date: '2026-02-16'
-draft: false
-title: GENERAL SCHEMATIC FOR CHRISTIAN APOLOGETICS
+- 'Evidences'
+- 'Critical Intro Ot'
 weight: 1
+draft: false
 ---
 
 <style>
