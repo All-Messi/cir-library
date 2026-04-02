@@ -1,0 +1,264 @@
+{{ define "main" }}
+<div class="glossary-page">
+    <header class="gl-header">
+        <h1>{{ .Title | lower | title }}</h1>
+        <div class="gl-rule"></div>
+        <p class="gl-subtitle">A comprehensive dictionary of language, grammar, and communication terminology</p>
+        <p class="gl-author">Virgil Warren, PhD</p>
+    </header>
+
+    {{/* A-Z Letter Grid */}}
+    <div class="gl-letter-grid" id="letter-grid">
+        {{ range (slice "A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M" "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z") }}
+        <a href="javascript:void(0)" class="gl-letter-cell" data-letter="{{ . }}">{{ . }}</a>
+        {{ end }}
+    </div>
+
+    {{/* Term dropdown panel — populated by JS */}}
+    <div class="gl-term-panel" id="term-panel" style="display:none;">
+        <div class="gl-term-panel-header">
+            <span class="gl-term-panel-letter" id="panel-letter"></span>
+            <span class="gl-term-panel-count" id="panel-count"></span>
+            <button class="gl-term-panel-close" id="panel-close">&times;</button>
+        </div>
+        <div class="gl-term-list" id="term-list"></div>
+    </div>
+
+    {{/* Full glossary content */}}
+    <div class="gl-content" id="glossary-content">
+        {{ .Content }}
+    </div>
+
+    <button class="gl-back-top" id="back-top" title="Back to top">↑</button>
+</div>
+
+<style>
+.glossary-page { max-width: 900px; margin: 0 auto; padding: 0 2rem; }
+.gl-header { text-align: center; padding: 3rem 0 1.5rem; }
+.gl-header h1 { font-family: 'Playfair Display', serif; font-size: 2.25rem; font-weight: 700; color: #2f4c3a; margin: 0 0 0.5rem; }
+.gl-rule { width: 64px; height: 1px; background: linear-gradient(90deg, transparent, #c0b8a8, transparent); margin: 0 auto 0.75rem; }
+.gl-subtitle { font-family: 'Source Sans Pro', sans-serif; font-size: 1rem; color: #777; margin: 0 0 0.25rem; }
+.gl-author { font-family: 'Source Sans Pro', sans-serif; font-size: 0.9rem; color: #999; margin: 0; }
+
+/* Letter Grid — Bible.com chapter grid style */
+.gl-letter-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(48px, 1fr));
+    gap: 6px;
+    max-width: 600px;
+    margin: 0 auto 1.5rem;
+    padding: 1.5rem;
+    background: #f8f6f2;
+    border: 1px solid #e3e0d8;
+    border-radius: 4px;
+}
+.gl-letter-cell {
+    display: flex; align-items: center; justify-content: center;
+    width: 100%; aspect-ratio: 1;
+    font-family: 'Source Sans Pro', sans-serif; font-size: 1.1rem; font-weight: 700;
+    color: #2f4c3a; background: #fff; border: 1px solid #e3e0d8; border-radius: 3px;
+    text-decoration: none; cursor: pointer; transition: all .15s;
+}
+.gl-letter-cell:hover, .gl-letter-cell.active {
+    background: #2f4c3a; color: #fff; border-color: #2f4c3a;
+}
+.gl-letter-cell.empty { color: #ccc; background: #faf9f7; cursor: default; border-color: #eee; }
+.gl-letter-cell.empty:hover { background: #faf9f7; color: #ccc; border-color: #eee; }
+
+/* Term dropdown panel */
+.gl-term-panel {
+    max-width: 600px; margin: -0.5rem auto 1.5rem;
+    background: #fff; border: 1px solid #2f4c3a; border-radius: 4px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    max-height: 400px; overflow: hidden; display: flex; flex-direction: column;
+}
+.gl-term-panel-header {
+    display: flex; align-items: center; padding: 0.75rem 1rem;
+    border-bottom: 1px solid #e3e0d8; background: #f8f6f2; flex-shrink: 0;
+}
+.gl-term-panel-letter { font-family: 'Playfair Display', serif; font-size: 1.5rem; font-weight: 700; color: #2f4c3a; }
+.gl-term-panel-count { font-family: 'Source Sans Pro', sans-serif; font-size: 0.8rem; color: #999; margin-left: 0.75rem; }
+.gl-term-panel-close { margin-left: auto; background: none; border: none; font-size: 1.5rem; color: #999; cursor: pointer; padding: 0 0.25rem; }
+.gl-term-panel-close:hover { color: #2f4c3a; }
+.gl-term-list {
+    overflow-y: auto; padding: 0.5rem 0; flex: 1;
+}
+.gl-term-item {
+    display: block; padding: 0.3rem 1rem;
+    font-family: 'Source Sans Pro', sans-serif; font-size: 0.85rem; color: #444;
+    text-decoration: none; cursor: pointer; transition: background .1s;
+}
+.gl-term-item:hover { background: #f0eeea; color: #2f4c3a; }
+
+/* Letter section anchors injected by JS */
+.gl-letter-anchor {
+    display: block; padding: 1.5rem 0 0.5rem;
+    font-family: 'Playfair Display', serif; font-size: 1.75rem; font-weight: 700;
+    color: #2f4c3a; border-bottom: 2px solid #e3e0d8; margin-bottom: 0.75rem;
+    scroll-margin-top: 200px;
+}
+
+/* Content area */
+.gl-content { padding: 1rem 0 3rem; line-height: 1.7; }
+.gl-content .word-content p { margin: 0.25rem 0; text-align: justify; }
+.gl-content b span { color: #2f4c3a; }
+
+/* Letter grid — no sticky, stays at top */
+
+/* Back to top button — anchored to content edge */
+.gl-back-top {
+    position: fixed; bottom: 2rem; right: calc(50% - 490px); z-index: 20;
+    width: 44px; height: 44px; border-radius: 50%;
+    background: #2f4c3a; color: #fff; border: none;
+    font-size: 1.2rem; cursor: pointer;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    opacity: 0; transition: opacity .3s;
+    display: flex; align-items: center; justify-content: center;
+}
+.gl-back-top.visible { opacity: 1; }
+.gl-back-top:hover { background: #3d6049; }
+@media (max-width: 1000px) {
+    .gl-back-top { right: 1rem; }
+}
+@media (max-width: 768px) {
+    .glossary-page { padding: 0 1rem; }
+    .gl-header h1 { font-size: 1.75rem; }
+    .gl-letter-grid { grid-template-columns: repeat(auto-fill, minmax(36px, 1fr)); padding: 1rem; gap: 4px; }
+    .gl-letter-cell { font-size: 0.9rem; }
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const content = document.getElementById('glossary-content');
+    const grid = document.getElementById('letter-grid');
+    const panel = document.getElementById('term-panel');
+    const panelLetter = document.getElementById('panel-letter');
+    const panelCount = document.getElementById('panel-count');
+    const termList = document.getElementById('term-list');
+    const closeBtn = document.getElementById('panel-close');
+
+    // Parse bold terms from content
+    const boldEls = content.querySelectorAll('b span');
+    const termsByLetter = {};
+    const termPositions = {};
+
+    boldEls.forEach(function(el) {
+        const text = el.textContent.trim();
+        // Term pattern: ends with colon, or the parent <b> text ends with colon
+        const parentText = el.parentElement.textContent.trim();
+        if (parentText.endsWith(':') || text.endsWith(':')) {
+            let term = text.replace(/:$/, '').trim();
+            if (term.length < 2 || term === '\u00a0') return;
+
+            const firstChar = term.charAt(0).toUpperCase();
+            if (!/[A-Z]/.test(firstChar)) return;
+
+            if (!termsByLetter[firstChar]) termsByLetter[firstChar] = [];
+            // Avoid exact duplicates
+            const exists = termsByLetter[firstChar].some(t => t.text === term);
+            if (!exists) {
+                termsByLetter[firstChar].push({ text: term, el: el });
+            }
+        }
+    });
+
+    // Inject letter anchors before first term of each letter
+    Object.keys(termsByLetter).sort().forEach(function(letter) {
+        const firstTerm = termsByLetter[letter][0];
+        // Find the containing <p> element
+        let p = firstTerm.el.closest('p');
+        if (p) {
+            const anchor = document.createElement('div');
+            anchor.className = 'gl-letter-anchor';
+            anchor.id = 'letter-' + letter;
+            anchor.textContent = letter;
+            p.parentElement.insertBefore(anchor, p);
+        }
+    });
+
+    // Mark empty letters in the grid
+    document.querySelectorAll('.gl-letter-cell').forEach(function(cell) {
+        const letter = cell.dataset.letter;
+        if (!termsByLetter[letter] || termsByLetter[letter].length === 0) {
+            cell.classList.add('empty');
+            cell.removeAttribute('href');
+        }
+    });
+
+    // Letter click handler — toggle term panel
+    let activeLetter = null;
+    document.querySelectorAll('.gl-letter-cell').forEach(function(cell) {
+        cell.addEventListener('click', function(e) {
+            e.preventDefault();
+            const letter = this.dataset.letter;
+            if (!termsByLetter[letter]) return;
+
+            // Toggle: clicking same letter closes panel
+            if (activeLetter === letter) {
+                panel.style.display = 'none';
+                this.classList.remove('active');
+                activeLetter = null;
+                return;
+            }
+
+            // Switch active state
+            document.querySelectorAll('.gl-letter-cell').forEach(c => c.classList.remove('active'));
+            this.classList.add('active');
+            activeLetter = letter;
+
+            // Populate panel
+            panelLetter.textContent = letter;
+            panelCount.textContent = termsByLetter[letter].length + ' terms';
+            termList.innerHTML = '';
+            termsByLetter[letter].forEach(function(t) {
+                const item = document.createElement('a');
+                item.className = 'gl-term-item';
+                item.textContent = t.text;
+                item.addEventListener('click', function() {
+                    // Close panel first, then scroll
+                    panel.style.display = 'none';
+                    document.querySelectorAll('.gl-letter-cell').forEach(c => c.classList.remove('active'));
+                    activeLetter = null;
+                    setTimeout(function() {
+                        t.el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                        // Flash highlight
+                        const p = t.el.closest('p');
+                        if (p) {
+                            p.style.background = '#fffde6';
+                            setTimeout(() => { p.style.background = ''; }, 2000);
+                        }
+                    }, 100);
+                });
+                termList.appendChild(item);
+            });
+
+            panel.style.display = 'flex';
+            // Scroll panel into view
+            panel.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+        });
+    });
+
+    // Close panel
+    closeBtn.addEventListener('click', function() {
+        panel.style.display = 'none';
+        document.querySelectorAll('.gl-letter-cell').forEach(c => c.classList.remove('active'));
+    });
+
+    // Back to top button
+    const backTop = document.getElementById('back-top');
+    backTop.addEventListener('click', function() {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    // Show/hide back-to-top on scroll
+    window.addEventListener('scroll', function() {
+        if (window.scrollY > 400) {
+            backTop.classList.add('visible');
+        } else {
+            backTop.classList.remove('visible');
+        }
+    });
+});
+</script>
+{{ end }}

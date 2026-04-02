@@ -1,9 +1,10 @@
 ---
-title: "GLOSSARY OF COMMUNICATION-RELATED TERMS"
+title: "Dictionary of Language Terms and Phrases"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+layout: "glossary"
 categories:
-- 'Topics'
+- 'Language'
 draft: false
 ---
 

@@ -1398,6 +1398,7 @@ html body .hero .lead strong {
 /* ─ Book spine cards ─ */
 .hp-bookcard { background: #fff; border-radius: 3px 5px 5px 3px; border: 1px solid #d8d3c8; border-left: none; display: flex; flex-direction: column; position: relative; overflow: hidden; min-height: 270px; box-shadow: -3px 0 0 #e0dad0,-5px 0 0 #d0c8bc,-7px 0 0 #bfb8ac,3px 4px 12px rgba(0,0,0,.13); transition: transform .2s, box-shadow .2s; text-decoration: none; color: inherit; }
 .hp-bookcard:hover { transform: translateY(-3px); box-shadow: -3px 0 0 #e0dad0,-5px 0 0 #d0c8bc,-7px 0 0 #bfb8ac,5px 10px 22px rgba(0,0,0,.18); }
+.hp-bookcard .hp-cta::after { content: ''; position: absolute; inset: 0; z-index: 1; border-radius: 3px; cursor: pointer; }
 .hp-bookcard::before { content: ''; position: absolute; top: 0; left: 0; bottom: 0; width: 8px; }
 .hp-bs-interp::before    { background: linear-gradient(180deg,#1e3048,#2a4a6a); }
 .hp-bs-theology::before  { background: linear-gradient(180deg,#1e3d28,#2a5438); }

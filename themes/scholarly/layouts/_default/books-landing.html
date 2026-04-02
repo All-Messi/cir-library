@@ -9,7 +9,7 @@
 
     {{ $bookPaths := slice
         "/essays/interpretation/getting-the-point-book"
-        "/essays/topics/christian-living"
+        "/essays/topics/christian-living/christian-living-book"
         "/essays/topics/christian-doctrine/mankind-anthropology/nature-of-man-book"
         "/essays/interpretation/commentaries/sermon-on-the-mount-book"
         "/essays/evidences/apologetics-book"
@@ -23,7 +23,7 @@
                 {{ $chapterCount := len $book.RegularPages }}
                 {{ $spineClass := index $spineClasses $i }}
                 {{ if gt $chapterCount 0 }}
-                <a href="{{ $book.RelPermalink }}" class="hp-bookcard {{ $spineClass }}">
+                <a href="{{ with $book.Params.book_redirect }}{{ . }}{{ else }}{{ $book.RelPermalink }}{{ end }}" class="hp-bookcard {{ $spineClass }}">
                 {{ else }}
                 <div class="hp-bookcard {{ $spineClass }}">
                 {{ end }}
