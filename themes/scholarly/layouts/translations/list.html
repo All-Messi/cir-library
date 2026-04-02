@@ -22,16 +22,11 @@
                     {{ if $firstChapter }}{{ $firstPage = $firstChapter.RelPermalink }}{{ end }}
                 {{ end }}
             {{ end }}
-            <a href="{{ if $firstPage }}{{ $firstPage }}{{ else }}{{ .RelPermalink }}{{ end }}" class="tr-card">
-                <span class="tr-card-label">
-                    {{ if eq .Params.testament "new" }}New Testament
-                    {{ else if eq .Params.testament "old" }}Old Testament
-                    {{ else }}All Four Gospels
-                    {{ end }}
-                </span>
+            <a href="{{ if $firstPage }}{{ $firstPage }}{{ else }}{{ .RelPermalink }}{{ end }}" class="tr-book {{ if eq .Params.testament "new" }}tr-nt{{ else if eq .Params.testament "old" }}tr-ot{{ else }}tr-harm{{ end }}">
                 <h2>{{ .Title }}</h2>
-                {{ with .Content }}<p>{{ . | plainify | truncate 100 }}</p>{{ end }}
-                <span class="tr-card-cta">Read →</span>
+                <div class="tr-book-rule"></div>
+                {{ with .Content }}<p>{{ . | plainify }}</p>{{ else }}{{ with .Params.description }}<p>{{ . }}</p>{{ end }}{{ end }}
+                <span class="tr-book-read">Read →</span>
             </a>
             {{ end }}
             {{ end }}
@@ -73,54 +68,67 @@
 .tr-sec-head { padding-left: 0.85rem; border-left: 3px solid #2f4c3a; margin-bottom: 1.25rem; }
 .tr-sec-title { font-family: 'Source Sans Pro', sans-serif; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.16em; color: #2f4c3a; }
 
-.tr-grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.85rem; }
+.tr-grid-3 { display: flex; flex-wrap: wrap; gap: 2.25rem; justify-content: center; }
 
-.tr-card {
-    background: #fff;
-    border: 1px solid #e3e0d8;
-    border-top: 3px solid #2a5438;
-    border-radius: 2px;
-    padding: 1.4rem 1.25rem;
-    text-decoration: none;
-    color: inherit;
+/* Parchment book cards */
+.tr-book {
+    width: 240px;
+    background: linear-gradient(175deg, #faf8f3 0%, #f1ece2 100%);
+    border: 0.5px solid #cec7b8;
+    border-left: none;
+    border-radius: 2px 4px 4px 2px;
+    padding: 2rem 1.2rem 1.4rem 1.5rem;
+    position: relative;
+    overflow: hidden;
+    min-height: 280px;
     display: flex;
     flex-direction: column;
-    transition: border-color .2s, box-shadow .2s, transform .2s;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    box-shadow: -2px 0 0 #ddd7cb, -4px 0 0 #cec7b8, 2px 3px 8px rgba(0,0,0,0.07);
+    transition: transform 0.2s, box-shadow 0.2s;
+    cursor: pointer;
+    text-decoration: none;
+    color: inherit;
 }
-.tr-card:hover { border-color: #b8b3a8; box-shadow: 0 3px 12px rgba(0,0,0,.06); transform: translateY(-2px); }
-/* Per-translation accent colors via nth-child won't work with conditional range,
-   so we use a class approach via type param */
-.tr-card-label {
-    font-family: 'Source Sans Pro', sans-serif;
-    font-size: 0.62rem;
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: 0.14em;
-    color: #888;
-    margin-bottom: 0.4rem;
+.tr-book:hover {
+    transform: translateY(-2px);
+    box-shadow: -2px 0 0 #ddd7cb, -4px 0 0 #cec7b8, 4px 8px 18px rgba(0,0,0,0.12);
 }
-.tr-card h2 {
+.tr-book::before {
+    content: '';
+    position: absolute;
+    left: 0; top: 0; bottom: 0;
+    width: 6px;
+}
+.tr-nt::before { background: linear-gradient(180deg, #2f4c3a, #1e3328); }
+.tr-ot::before { background: linear-gradient(180deg, #5d4e37, #3d3425); }
+.tr-harm::before { background: linear-gradient(180deg, #6b3a3a, #4a2828); }
+.tr-book-rule { width: 32px; height: 1px; background: #c8bfae; margin: 10px auto 12px; }
+.tr-book h2 {
     font-family: 'Playfair Display', serif;
     font-size: 1.1rem;
     font-weight: 700;
-    color: #1a1a1a;
-    margin: 0 0 0.4rem;
-    line-height: 1.25;
+    color: #1a1a18;
+    margin: 0;
+    line-height: 1.35;
 }
-.tr-card p {
+.tr-book p {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 0.78rem;
-    color: #666;
+    color: #807866;
     line-height: 1.55;
-    margin: 0;
-    flex: 1;
+    margin: 4px 0 0;
 }
-.tr-card-cta {
+.tr-book-read {
+    margin-top: auto;
+    padding-top: 16px;
     font-family: 'Source Sans Pro', sans-serif;
-    font-size: 0.7rem;
-    font-weight: 700;
+    font-size: 0.78rem;
+    font-weight: 600;
     color: #2f4c3a;
-    margin-top: 0.9rem;
+    letter-spacing: 0.04em;
 }
 
 /* Resources section */
@@ -159,7 +167,10 @@
 .tr-resource-row:hover .tr-resource-arrow { color: #2f4c3a; }
 
 @media (max-width: 768px) {
-    .tr-grid-3 { grid-template-columns: 1fr; }
+    .tr-book { width: 200px; min-height: 240px; }
+}
+@media (max-width: 540px) {
+    .tr-book { width: 100%; min-height: 200px; }
     .tr-body { padding: 1.5rem 1rem; margin: 0 -1rem; }
 }
 @media (max-width: 540px) {
