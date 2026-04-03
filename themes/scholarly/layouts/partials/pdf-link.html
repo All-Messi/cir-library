@@ -23,7 +23,7 @@
 {{ $tooltip := "Download PDF" }}
 
 {{ $rel := $page.RelPermalink }}
-{{ $rel = $rel | replaceRE "^/[^/]+/" "" | replaceRE "/$" "" }}
+{{ $rel = $rel | replaceRE "^/" "" | replaceRE "/$" "" }}
 
 {{/* ---- HARMONY SECTION ---- */}}
 {{ if eq ($page.Params.type | default "") "harmony-section" }}
@@ -32,7 +32,7 @@
 
 {{/* ---- BIBLE CHAPTER ---- */}}
 {{ else if eq ($page.Params.type | default "") "chapter" }}
-    {{ $parentRel := $page.Parent.RelPermalink | replaceRE "^/[^/]+/" "" | replaceRE "/$" "" }}
+    {{ $parentRel := $page.Parent.RelPermalink | replaceRE "^/" "" | replaceRE "/$" "" }}
     {{ if $parentRel }}
         {{ $pdfPath = printf "pdfs/%s.pdf" $parentRel }}
     {{ end }}
