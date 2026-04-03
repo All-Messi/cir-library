@@ -66,7 +66,7 @@ process forms an ongoing dynamic of reciprocal causations between the three “p
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman",serif'>                               </span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><img
-width=300 height=181 id="Picture 1" src="/cir-library/images/essays/general-schematic-for-christian-apologetics/image001.png"></span></p>
+width=300 height=181 id="Picture 1" src="/images/essays/general-schematic-for-christian-apologetics/image001.png"></span></p>
 
 <p class=MsoNormal align=center style='text-align:center'>&nbsp;</p>
 

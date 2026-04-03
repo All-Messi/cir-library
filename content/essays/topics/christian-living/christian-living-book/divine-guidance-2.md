@@ -143,7 +143,7 @@ style='font-size:4.0pt'>&nbsp;</span></p>
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                  </span><span style='font-size:8.0pt'>       </span><span
 style='font-size:12.0pt'><img width=325 height=181
-src="/cir-library/images/essays/divine-guidance-2/image001.png"></span></p>
+src="/images/essays/divine-guidance-2/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -226,7 +226,7 @@ style='font-size:12.0pt'>            </span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                            <img width=301 height=140
-id="Picture 2" src="/cir-library/images/essays/divine-guidance-2/image002.png"></span></p>
+id="Picture 2" src="/images/essays/divine-guidance-2/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -441,7 +441,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                           <img width=310 height=110
-id="Picture 1" src="/cir-library/images/essays/divine-guidance-2/image003.png"></span></p>
+id="Picture 1" src="/images/essays/divine-guidance-2/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span

@@ -80,7 +80,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><span
 style='font-size:12.0pt'><img width=360 height=229
-src="/cir-library/images/essays/chapter-i/image001.png"></span></p>
+src="/images/essays/chapter-i/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -178,7 +178,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:1.0in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'><img width=340 height=144
-src="/cir-library/images/essays/chapter-i/image002.png"></span></p>
+src="/images/essays/chapter-i/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>the elimination of distinctions among the saved so
@@ -203,7 +203,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
 style='font-size:12.0pt'><img width=327 height=157
-src="/cir-library/images/essays/chapter-i/image003.png"></span></p>
+src="/images/essays/chapter-i/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -462,12 +462,12 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><span
 style='font-size:12.0pt'><img width=386 height=236
-src="/cir-library/images/essays/chapter-i/image004.png"></span></p>
+src="/images/essays/chapter-i/image004.png"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><span
 style='font-size:12.0pt'><img width=386 height=92
-src="/cir-library/images/essays/chapter-i/image005.png"></span></p>
+src="/images/essays/chapter-i/image005.png"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:-4.5pt;margin-bottom:.0001pt;text-align:center'><u><span
@@ -543,7 +543,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
 style='font-size:12.0pt'><img width=210 height=216
-src="/cir-library/images/essays/chapter-i/image006.png"></span></p>
+src="/images/essays/chapter-i/image006.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
@@ -570,7 +570,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
 style='font-size:12.0pt'><img width=321 height=183
-src="/cir-library/images/essays/chapter-i/image007.png"></span></p>
+src="/images/essays/chapter-i/image007.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
@@ -615,7 +615,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
 style='font-size:12.0pt'><img width=183 height=98
-src="/cir-library/images/essays/chapter-i/image008.png"></span></p>
+src="/images/essays/chapter-i/image008.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
@@ -667,7 +667,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
 style='font-size:12.0pt'><img width=236 height=124
-src="/cir-library/images/essays/chapter-i/image009.png"></span></p>
+src="/images/essays/chapter-i/image009.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><u><span
 style='font-size:12.0pt'>The dynamic nature of non-</span></u></p>

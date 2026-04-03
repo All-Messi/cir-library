@@ -80,7 +80,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><span
 style='font-size:12.0pt'><img width=363 height=226 id="Picture 8"
-src="/cir-library/images/essays/chapter-i-non-denominational-unity-in-perspective-and-preview-general-framework/image001.png"></span></p>
+src="/images/essays/chapter-i-non-denominational-unity-in-perspective-and-preview-general-framework/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -178,7 +178,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:1.0in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'><img width=340 height=141 id="Picture 7"
-src="/cir-library/images/essays/chapter-i-non-denominational-unity-in-perspective-and-preview-general-framework/image002.png"></span></p>
+src="/images/essays/chapter-i-non-denominational-unity-in-perspective-and-preview-general-framework/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>the elimination of distinctions among the saved so
@@ -203,7 +203,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
 style='font-size:12.0pt'><img width=330 height=155 id="Picture 6"
-src="/cir-library/images/essays/chapter-i-non-denominational-unity-in-perspective-and-preview-general-framework/image003.png"></span></p>
+src="/images/essays/chapter-i-non-denominational-unity-in-perspective-and-preview-general-framework/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -462,12 +462,12 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><span
 style='font-size:12.0pt'><img width=384 height=235
-src="/cir-library/images/essays/chapter-i-non-denominational-unity-in-perspective-and-preview-general-framework/image004.png"></span></p>
+src="/images/essays/chapter-i-non-denominational-unity-in-perspective-and-preview-general-framework/image004.png"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><span
 style='font-size:12.0pt'><img width=386 height=94 id="Picture 5"
-src="/cir-library/images/essays/chapter-i-non-denominational-unity-in-perspective-and-preview-general-framework/image005.png"></span></p>
+src="/images/essays/chapter-i-non-denominational-unity-in-perspective-and-preview-general-framework/image005.png"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:-4.5pt;margin-bottom:.0001pt;text-align:center'><u><span
@@ -543,7 +543,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
 style='font-size:12.0pt'><img width=207 height=213 id="Picture 4"
-src="/cir-library/images/essays/chapter-i-non-denominational-unity-in-perspective-and-preview-general-framework/image006.png"></span></p>
+src="/images/essays/chapter-i-non-denominational-unity-in-perspective-and-preview-general-framework/image006.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
@@ -570,7 +570,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
 style='font-size:12.0pt'><img width=319 height=180 id="Picture 3"
-src="/cir-library/images/essays/chapter-i-non-denominational-unity-in-perspective-and-preview-general-framework/image007.png"></span></p>
+src="/images/essays/chapter-i-non-denominational-unity-in-perspective-and-preview-general-framework/image007.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
@@ -615,7 +615,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
 style='font-size:12.0pt'><img width=181 height=98 id="Picture 2"
-src="/cir-library/images/essays/chapter-i-non-denominational-unity-in-perspective-and-preview-general-framework/image008.png"></span></p>
+src="/images/essays/chapter-i-non-denominational-unity-in-perspective-and-preview-general-framework/image008.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
@@ -667,7 +667,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
 style='font-size:12.0pt'><img width=236 height=125 id="Picture 1"
-src="/cir-library/images/essays/chapter-i-non-denominational-unity-in-perspective-and-preview-general-framework/image009.png"></span></p>
+src="/images/essays/chapter-i-non-denominational-unity-in-perspective-and-preview-general-framework/image009.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><u><span
 style='font-size:12.0pt'>The dynamic nature of non-</span></u></p>

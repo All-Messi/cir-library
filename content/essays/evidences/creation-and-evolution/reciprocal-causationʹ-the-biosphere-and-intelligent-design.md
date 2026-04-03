@@ -232,8 +232,8 @@ forms of straight-line causal series. The following diagrams picture various
 causal formats.</span></p>
 
 <p class=MsoNormal style='text-align:justify'><img width=134 height=77
-src="/cir-library/images/essays/reciprocal-causationʹ-the-biosphere-and-intelligent-design/image001.png" align=left hspace=12><img width=132
-height=76 src="/cir-library/images/essays/reciprocal-causationʹ-the-biosphere-and-intelligent-design/image002.png" align=left hspace=12><span
+src="/images/essays/reciprocal-causationʹ-the-biosphere-and-intelligent-design/image001.png" align=left hspace=12><img width=132
+height=76 src="/images/essays/reciprocal-causationʹ-the-biosphere-and-intelligent-design/image002.png" align=left hspace=12><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Types
 of reciprocal causation</span> </p>
 
@@ -244,10 +244,10 @@ of reciprocal causation</span> </p>
 <p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
 <p class=MsoNormal style='text-align:justify'><img width=131 height=86
-src="/cir-library/images/essays/reciprocal-causationʹ-the-biosphere-and-intelligent-design/image003.jpg" align=left hspace=12><img width=134
-height=80 src="/cir-library/images/essays/reciprocal-causationʹ-the-biosphere-and-intelligent-design/image004.jpg" align=left hspace=12><img
-width=97 height=70 src="/cir-library/images/essays/reciprocal-causationʹ-the-biosphere-and-intelligent-design/image005.png" align=left hspace=12><img
-width=122 height=96 src="/cir-library/images/essays/reciprocal-causationʹ-the-biosphere-and-intelligent-design/image006.png" align=left hspace=12><span
+src="/images/essays/reciprocal-causationʹ-the-biosphere-and-intelligent-design/image003.jpg" align=left hspace=12><img width=134
+height=80 src="/images/essays/reciprocal-causationʹ-the-biosphere-and-intelligent-design/image004.jpg" align=left hspace=12><img
+width=97 height=70 src="/images/essays/reciprocal-causationʹ-the-biosphere-and-intelligent-design/image005.png" align=left hspace=12><img
+width=122 height=96 src="/images/essays/reciprocal-causationʹ-the-biosphere-and-intelligent-design/image006.png" align=left hspace=12><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Types
 of straight-line causal series for contrast purposes</span></p>
 
@@ -1408,7 +1408,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So
 this “theistic proof” establishes necessary existence of “god” external to the
 biosphere, not just probable existence. It seems more than a stretch to call
 merely “improbable” the </span><img width=112 height=139
-src="/cir-library/images/essays/reciprocal-causationʹ-the-biosphere-and-intelligent-design/image007.jpg" align=left hspace=19
+src="/images/essays/reciprocal-causationʹ-the-biosphere-and-intelligent-design/image007.jpg" align=left hspace=19
 alt="A diagram of different types of ip&#10;&#10;Description automatically generated"><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>accidental/random/chance
 confluence hierarchies of myriads of reciprocating</span><b><span

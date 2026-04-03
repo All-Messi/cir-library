@@ -183,10 +183,10 @@ style='left:0px;position:absolute;left:311px;top:-83px;width:37px;height:25px'>
 
 </span></span><span style='position:relative;z-index:251659776'><span
 style='left:0px;position:absolute;left:151px;top:-85px;width:16px;height:11px'><img
-width=16 height=11 src="/cir-library/images/essays/fragmenting-philippians/image001.png"></span></span><span
+width=16 height=11 src="/images/essays/fragmenting-philippians/image001.png"></span></span><span
 style='position:relative;z-index:251660800'><span style='left:0px;position:
 absolute;left:149px;top:-74px;width:18px;height:12px'><img width=18 height=12
-src="/cir-library/images/essays/fragmenting-philippians/image002.png"></span></span><span style='font-size:12.0pt'>    
+src="/images/essays/fragmenting-philippians/image002.png"></span></span><span style='font-size:12.0pt'>    
 </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;

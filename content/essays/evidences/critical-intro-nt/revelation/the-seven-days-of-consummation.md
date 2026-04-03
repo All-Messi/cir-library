@@ -3329,7 +3329,7 @@ as strictly chronological because the end is near already in <b>10</b>:7.</span>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'>   
-<img width=437 height=319 id="Picture 1" src="/cir-library/images/essays/the-seven-days-of-consummation/image001.png"></p>
+<img width=437 height=319 id="Picture 1" src="/images/essays/the-seven-days-of-consummation/image001.png"></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'>&nbsp;</p>

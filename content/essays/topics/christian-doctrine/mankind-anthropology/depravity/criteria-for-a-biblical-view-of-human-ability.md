@@ -232,7 +232,7 @@ of coming to faith interrelates the factors shown in the accompanying sketch.</s
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'><img width=406 height=164
-src="/cir-library/images/essays/criteria-for-a-biblical-view-of-human-ability/image001.png"></span></p>
+src="/images/essays/criteria-for-a-biblical-view-of-human-ability/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>

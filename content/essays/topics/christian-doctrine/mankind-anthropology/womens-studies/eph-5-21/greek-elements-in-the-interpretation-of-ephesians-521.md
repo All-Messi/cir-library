@@ -167,7 +167,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='position:relative;z-index:251655680'><span style='left:0px;position:
 absolute;left:243px;top:-190px;width:30px;height:30px'><img width=30 height=30
-src="/cir-library/images/essays/greek-elements-in-the-interpretation-of-ephesians-521/image001.jpg"></span></span><span style='font-size:12.0pt'>                               
+src="/images/essays/greek-elements-in-the-interpretation-of-ephesians-521/image001.jpg"></span></span><span style='font-size:12.0pt'>                               
  Christ</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
@@ -179,10 +179,10 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='position:relative;z-index:251657728'><span style='left:0px;position:
 absolute;left:242px;top:-204px;width:25px;height:30px'><img width=25 height=30
-src="/cir-library/images/essays/greek-elements-in-the-interpretation-of-ephesians-521/image002.jpg"></span></span><span style='position:relative;
+src="/images/essays/greek-elements-in-the-interpretation-of-ephesians-521/image002.jpg"></span></span><span style='position:relative;
 z-index:251656704'><span style='left:0px;position:absolute;left:202px;
 top:-204px;width:30px;height:30px'><img width=30 height=30
-src="/cir-library/images/essays/greek-elements-in-the-interpretation-of-ephesians-521/image001.jpg"></span></span><span style='font-size:12.0pt'>    
+src="/images/essays/greek-elements-in-the-interpretation-of-ephesians-521/image001.jpg"></span></span><span style='font-size:12.0pt'>    
                                                                             X</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
@@ -194,16 +194,16 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='position:relative;z-index:251661824'><span style='left:0px;position:
 absolute;left:201px;top:-219px;width:28px;height:30px'><img width=28 height=30
-src="/cir-library/images/essays/greek-elements-in-the-interpretation-of-ephesians-521/image003.jpg"></span></span><span style='position:relative;
+src="/images/essays/greek-elements-in-the-interpretation-of-ephesians-521/image003.jpg"></span></span><span style='position:relative;
 z-index:251660800'><span style='left:0px;position:absolute;left:276px;
 top:-219px;width:28px;height:30px'><img width=28 height=30
-src="/cir-library/images/essays/greek-elements-in-the-interpretation-of-ephesians-521/image003.jpg"></span></span><span style='position:relative;
+src="/images/essays/greek-elements-in-the-interpretation-of-ephesians-521/image003.jpg"></span></span><span style='position:relative;
 z-index:251659776'><span style='left:0px;position:absolute;left:240px;
 top:-219px;width:30px;height:30px'><img width=30 height=30
-src="/cir-library/images/essays/greek-elements-in-the-interpretation-of-ephesians-521/image001.jpg"></span></span><span style='position:relative;
+src="/images/essays/greek-elements-in-the-interpretation-of-ephesians-521/image001.jpg"></span></span><span style='position:relative;
 z-index:251658752'><span style='left:0px;position:absolute;left:165px;
 top:-219px;width:30px;height:30px'><img width=30 height=30
-src="/cir-library/images/essays/greek-elements-in-the-interpretation-of-ephesians-521/image001.jpg"></span></span><span style='font-size:12.0pt'>   
+src="/images/essays/greek-elements-in-the-interpretation-of-ephesians-521/image001.jpg"></span></span><span style='font-size:12.0pt'>   
                                                                 X                     X</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
@@ -281,7 +281,7 @@ so also husbands are under the headship of Christ, whom they are to respect (Eph
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
 style='font-size:12.0pt'><img width=370 height=114 id="Picture 1"
-src="/cir-library/images/essays/greek-elements-in-the-interpretation-of-ephesians-521/image004.jpg"></span></p>
+src="/images/essays/greek-elements-in-the-interpretation-of-ephesians-521/image004.jpg"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>            (c) There are other texts where </span><span

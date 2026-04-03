@@ -224,7 +224,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
 style='font-size:12.0pt'><img width=245 height=95 id="Picture 2"
-src="/cir-library/images/essays/gifts-of-the-hs/image001.png"></span></p>
+src="/images/essays/gifts-of-the-hs/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in'><span style='font-size:8.0pt'>&nbsp;</span></p>
 
@@ -269,7 +269,7 @@ style='font-size:8.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>                                                       
-<img width=182 height=160 id="Picture 1" src="/cir-library/images/essays/gifts-of-the-hs/image002.png"></span></p>
+<img width=182 height=160 id="Picture 1" src="/images/essays/gifts-of-the-hs/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>                        1.   There is both a <u>sense

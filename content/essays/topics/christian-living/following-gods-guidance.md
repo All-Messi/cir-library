@@ -308,7 +308,7 @@ style='font-size:8.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>           <img width=349 height=83
-src="/cir-library/images/essays/following-gods-guidance/image001.png"></span></p>
+src="/images/essays/following-gods-guidance/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span

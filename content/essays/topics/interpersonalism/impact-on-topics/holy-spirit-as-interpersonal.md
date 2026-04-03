@@ -72,7 +72,7 @@ through the sheer  relationship  itself.               </span></
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'><img width=309 height=156
-id="Picture 1" src="/cir-library/images/essays/holy-spirit-as-interpersonal/image001.png"></span></p>
+id="Picture 1" src="/images/essays/holy-spirit-as-interpersonal/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>In addition to these purely

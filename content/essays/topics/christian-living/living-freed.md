@@ -232,7 +232,7 @@ style='font-size:12.0pt'>             </span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>            <img width=319 height=121
-src="/cir-library/images/essays/living-freed/image001.png"></span></p>
+src="/images/essays/living-freed/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -311,7 +311,7 @@ separates me from my past as far as the other person is </span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                         <img width=186 height=104
-src="/cir-library/images/essays/living-freed/image002.png"></span></p>
+src="/images/essays/living-freed/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span

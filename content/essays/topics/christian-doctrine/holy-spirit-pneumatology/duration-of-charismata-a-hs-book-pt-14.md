@@ -704,7 +704,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>              <img width=342 height=135 id="Picture 1"
-src="/cir-library/images/essays/duration-of-charismata-a-hs-book-pt-14/image001.png"></span></p>
+src="/images/essays/duration-of-charismata-a-hs-book-pt-14/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify'><span

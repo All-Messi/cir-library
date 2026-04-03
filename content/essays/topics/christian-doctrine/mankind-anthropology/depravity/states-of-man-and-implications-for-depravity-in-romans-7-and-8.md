@@ -617,7 +617,7 @@ the former. Formally they relate as follows:</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'><img width=325 height=124
-id="Picture 4" src="/cir-library/images/essays/states-of-man-and-implications-for-depravity-in-romans-7-and-8/image001.png"></span></p>
+id="Picture 4" src="/images/essays/states-of-man-and-implications-for-depravity-in-romans-7-and-8/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>Instead of two separate circles, they
@@ -724,7 +724,7 @@ death (cp. James<b> 1</b>:14-15).</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'><img width=303 height=75
-src="/cir-library/images/essays/states-of-man-and-implications-for-depravity-in-romans-7-and-8/image002.png"></span></p>
+src="/images/essays/states-of-man-and-implications-for-depravity-in-romans-7-and-8/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
@@ -739,7 +739,7 @@ turn becomes life. </span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'><img width=332 height=68
-id="Picture 3" src="/cir-library/images/essays/states-of-man-and-implications-for-depravity-in-romans-7-and-8/image003.png"></span></p>
+id="Picture 3" src="/images/essays/states-of-man-and-implications-for-depravity-in-romans-7-and-8/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
@@ -754,7 +754,7 @@ confesses. However, the sin that occurs is canceled because of Christ. </span></
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'><img width=333 height=150
-id="Picture 2" src="/cir-library/images/essays/states-of-man-and-implications-for-depravity-in-romans-7-and-8/image004.png"></span></p>
+id="Picture 2" src="/images/essays/states-of-man-and-implications-for-depravity-in-romans-7-and-8/image004.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
@@ -818,7 +818,7 @@ outside-to-inside pattern, the same pattern that coveting has.</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'><img width=334 height=117
-id="Picture 1" src="/cir-library/images/essays/states-of-man-and-implications-for-depravity-in-romans-7-and-8/image005.png"></span></p>
+id="Picture 1" src="/images/essays/states-of-man-and-implications-for-depravity-in-romans-7-and-8/image005.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>

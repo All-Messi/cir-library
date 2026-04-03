@@ -54,7 +54,7 @@ person’s own spiritual processes and in helping to care for the souls of other
 finds its place in this construct.    </span></p>
 
 <p class=MsoNormal style='text-align:justify'>                                       
-<img width=229 height=208 id="Picture 1" src="/cir-library/images/essays/a-map-for-soul-care-aspects-and-processes/image001.png"></p>
+<img width=229 height=208 id="Picture 1" src="/images/essays/a-map-for-soul-care-aspects-and-processes/image001.png"></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif;
@@ -360,7 +360,7 @@ margin-left:.5in;text-align:justify'><span style='font-family:"Times New Roman",
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                      
 </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><img
-width=145 height=183 id="Picture 2" src="/cir-library/images/essays/a-map-for-soul-care-aspects-and-processes/image002.png"></span></p>
+width=145 height=183 id="Picture 2" src="/images/essays/a-map-for-soul-care-aspects-and-processes/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
@@ -385,7 +385,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&n
 margin-left:.5in;text-align:justify'><span style='font-size:12.0pt;line-height:
 115%;font-family:"Times New Roman",serif'>            E. Outward-directedness                                                         
 </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><img
-width=130 height=180 id="Picture 3" src="/cir-library/images/essays/a-map-for-soul-care-aspects-and-processes/image003.png"></span><span
+width=130 height=180 id="Picture 3" src="/images/essays/a-map-for-soul-care-aspects-and-processes/image003.png"></span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>   The
 essence of virtue involves self-giving for the joy of others, that is, love. It
 contrasts with self-centeredness, where the direction of activity is toward and

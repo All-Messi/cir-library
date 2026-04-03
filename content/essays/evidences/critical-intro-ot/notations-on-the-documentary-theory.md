@@ -364,7 +364,7 @@ diagram as follows:</span></p>
 margin-left:.25in;text-align:justify;text-indent:.5in;line-height:normal'><span
 style='font-size:12.0pt;font-family:"Times New Roman",serif'> </span><span
 style='font-size:12.0pt;font-family:"Times New Roman",serif'><img width=372
-height=68 id="Picture 4" src="/cir-library/images/essays/notations-on-the-documentary-theory/image001.png"></span></p>
+height=68 id="Picture 4" src="/images/essays/notations-on-the-documentary-theory/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
 margin-left:.25in;text-align:justify;line-height:normal'><span
@@ -389,7 +389,7 @@ elaboration for Genesis <b>1-2</b> takes this shape:</span></p>
 margin-left:.25in;text-align:justify;text-indent:.5in;line-height:normal'><span
 style='font-size:12.0pt;font-family:"Times New Roman",serif'>       </span><span
 style='font-size:12.0pt;font-family:"Times New Roman",serif'><img width=282
-height=143 id="Picture 3" src="/cir-library/images/essays/notations-on-the-documentary-theory/image002.png"></span></p>
+height=143 id="Picture 3" src="/images/essays/notations-on-the-documentary-theory/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
 margin-left:.25in;text-align:justify;text-indent:.5in;line-height:normal'><span

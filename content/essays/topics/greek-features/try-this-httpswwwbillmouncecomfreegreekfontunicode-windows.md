@@ -69,7 +69,7 @@ href="https://www.facebook.com/mark.alterman.7"></a></span></p>
 style='font-size:12.0pt;font-family:"Times New Roman",serif;color:blue'><a
 href="https://www.facebook.com/mark.alterman.7"><span style='text-decoration:
 none'><img border=0 width=21 height=21 id="Picture 2"
-src="/cir-library/images/essays/try-this-httpswwwbillmouncecomfreegreekfontunicode-windows/image001.jpg"
+src="/images/essays/try-this-httpswwwbillmouncecomfreegreekfontunicode-windows/image001.jpg"
 alt="https://scontent.fmci1-2.fna.fbcdn.net/v/t1.0-1/cp0/c15.0.60.60a/p60x60/30652_101520306565773_6545328_n.jpg?_nc_cat=105&amp;_nc_ohc=F6E9Wc7LsvEAX8ygdjf&amp;_nc_ht=scontent.fmci1-2.fna&amp;oh=90104b8014b13d29f6811c0a503925c8&amp;oe=5ED4C7F9"></span></a></span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
@@ -92,7 +92,7 @@ href="https://www.facebook.com/mark.alterman.7"></a></span></p>
 style='font-size:12.0pt;font-family:"Times New Roman",serif;color:blue'><a
 href="https://www.facebook.com/mark.alterman.7"><span style='text-decoration:
 none'><img border=0 width=21 height=21 id="Picture 1"
-src="/cir-library/images/essays/try-this-httpswwwbillmouncecomfreegreekfontunicode-windows/image001.jpg"
+src="/images/essays/try-this-httpswwwbillmouncecomfreegreekfontunicode-windows/image001.jpg"
 alt="https://scontent.fmci1-2.fna.fbcdn.net/v/t1.0-1/cp0/c15.0.60.60a/p60x60/30652_101520306565773_6545328_n.jpg?_nc_cat=105&amp;_nc_ohc=F6E9Wc7LsvEAX8ygdjf&amp;_nc_ht=scontent.fmci1-2.fna&amp;oh=90104b8014b13d29f6811c0a503925c8&amp;oe=5ED4C7F9"></span></a></span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
@@ -119,7 +119,7 @@ href="https://www.facebook.com/mark.alterman.7"></a></span></p>
 style='font-size:12.0pt;font-family:"Times New Roman",serif;color:blue'><a
 href="https://www.facebook.com/mark.alterman.7"><span style='text-decoration:
 none'><img border=0 width=21 height=21 id="Picture 4"
-src="/cir-library/images/essays/try-this-httpswwwbillmouncecomfreegreekfontunicode-windows/image001.jpg"
+src="/images/essays/try-this-httpswwwbillmouncecomfreegreekfontunicode-windows/image001.jpg"
 alt="https://scontent.fmci1-2.fna.fbcdn.net/v/t1.0-1/cp0/c15.0.60.60a/p60x60/30652_101520306565773_6545328_n.jpg?_nc_cat=105&amp;_nc_ohc=F6E9Wc7LsvEAX8ygdjf&amp;_nc_ht=scontent.fmci1-2.fna&amp;oh=90104b8014b13d29f6811c0a503925c8&amp;oe=5ED4C7F9"></span></a></span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
@@ -140,7 +140,7 @@ href="https://www.facebook.com/mark.alterman.7"></a></span></p>
 style='font-size:12.0pt;font-family:"Times New Roman",serif;color:blue'><a
 href="https://www.facebook.com/mark.alterman.7"><span style='text-decoration:
 none'><img border=0 width=21 height=21 id="Picture 3"
-src="/cir-library/images/essays/try-this-httpswwwbillmouncecomfreegreekfontunicode-windows/image001.jpg"
+src="/images/essays/try-this-httpswwwbillmouncecomfreegreekfontunicode-windows/image001.jpg"
 alt="https://scontent.fmci1-2.fna.fbcdn.net/v/t1.0-1/cp0/c15.0.60.60a/p60x60/30652_101520306565773_6545328_n.jpg?_nc_cat=105&amp;_nc_ohc=F6E9Wc7LsvEAX8ygdjf&amp;_nc_ht=scontent.fmci1-2.fna&amp;oh=90104b8014b13d29f6811c0a503925c8&amp;oe=5ED4C7F9"></span></a></span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span

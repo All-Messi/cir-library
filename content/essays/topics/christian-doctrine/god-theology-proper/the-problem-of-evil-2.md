@@ -70,7 +70,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
 style='font-size:12.0pt'><img width=281 height=186
-src="/cir-library/images/essays/the-problem-of-evil-2/image001.png"></span></p>
+src="/images/essays/the-problem-of-evil-2/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -191,7 +191,7 @@ style='font-size:6.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                                        <img
-width=224 height=157 id="Picture 2" src="/cir-library/images/essays/the-problem-of-evil-2/image002.png"></span></p>
+width=224 height=157 id="Picture 2" src="/images/essays/the-problem-of-evil-2/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -412,7 +412,7 @@ and redemptive limitations.</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>             <img width=363 height=171 id="Picture 1"
-src="/cir-library/images/essays/the-problem-of-evil-2/image003.png"></span></p>
+src="/images/essays/the-problem-of-evil-2/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span

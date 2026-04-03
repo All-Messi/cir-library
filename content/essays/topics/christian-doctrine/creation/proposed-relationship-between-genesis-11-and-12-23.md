@@ -63,7 +63,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>                                        <img
-width=273 height=55 src="/cir-library/images/essays/proposed-relationship-between-genesis-11-and-12-23/image001.png"></span></p>
+width=273 height=55 src="/images/essays/proposed-relationship-between-genesis-11-and-12-23/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:8.0pt'>&nbsp;</span></p>
@@ -151,7 +151,7 @@ under day six, as centered around <u>man</u>.</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>                                      <img width=240
-height=150 id="Picture 2" src="/cir-library/images/essays/proposed-relationship-between-genesis-11-and-12-23/image002.png"></span></p>
+height=150 id="Picture 2" src="/images/essays/proposed-relationship-between-genesis-11-and-12-23/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -223,7 +223,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>                                        <img
-width=277 height=43 id="Picture 1" src="/cir-library/images/essays/proposed-relationship-between-genesis-11-and-12-23/image003.png"></span></p>
+width=277 height=43 id="Picture 1" src="/images/essays/proposed-relationship-between-genesis-11-and-12-23/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>            After a previous form of existence, the

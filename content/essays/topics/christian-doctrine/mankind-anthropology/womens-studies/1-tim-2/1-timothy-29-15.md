@@ -105,7 +105,7 @@ style='font-size:8.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
 style='font-size:12.0pt'><img width=425 height=216
-src="/cir-library/images/essays/1-timothy-29-15/image001.png"></span></p>
+src="/images/essays/1-timothy-29-15/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>The accompanying diagram maps out the argument pattern.

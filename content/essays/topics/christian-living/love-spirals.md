@@ -58,7 +58,7 @@ style='font-size:12.0pt'>            </span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                 <img width=221 height=60
-src="/cir-library/images/essays/love-spirals/image001.png"></span></p>
+src="/images/essays/love-spirals/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -213,7 +213,7 @@ style='font-size:12.0pt'>      </span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                                 <img width=235
-height=101 src="/cir-library/images/essays/love-spirals/image002.png"></span></p>
+height=101 src="/images/essays/love-spirals/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-27.0pt;text-align:justify;text-indent:
 .25in'><span style='font-size:12.0pt'>            What is true of the
@@ -383,7 +383,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                             <img width=266
-height=130 src="/cir-library/images/essays/love-spirals/image003.png">        </span></p>
+height=130 src="/images/essays/love-spirals/image003.png">        </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -530,7 +530,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>      <img width=284 height=194
-src="/cir-library/images/essays/love-spirals/image004.png"></span></p>
+src="/images/essays/love-spirals/image004.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span

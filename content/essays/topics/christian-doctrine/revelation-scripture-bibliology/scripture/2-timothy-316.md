@@ -59,7 +59,7 @@ style='font-size:12.0pt'>&nbsp;</span></i></p>
 
 <p class=MsoNormal style='margin-right:-.25in;text-align:justify'><b><span
 style='font-size:12.0pt'>                     <img width=298 height=50
-id="Picture 1" src="/cir-library/images/essays/2-timothy-316/image001.png"></span></b></p>
+id="Picture 1" src="/images/essays/2-timothy-316/image001.png"></span></b></p>
 
 <p class=MsoNormal style='margin-right:-.25in;text-align:justify'><span
 style='font-size:12.0pt'>Variables in the English wording of this verse</span></p>

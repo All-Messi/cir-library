@@ -452,7 +452,7 @@ was the first thing God created.</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                                                       <img
-width=184 height=236 id="Picture 2" src="/cir-library/images/essays/the-christ/image001.jpg"></span></p>
+width=184 height=236 id="Picture 2" src="/images/essays/the-christ/image001.jpg"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -776,7 +776,7 @@ style='font-size:12.0pt'>          </span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                                      <img width=213
-height=222 id="Picture 1" src="/cir-library/images/essays/the-christ/image002.jpg"></span></p>
+height=222 id="Picture 1" src="/images/essays/the-christ/image002.jpg"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span

@@ -62,7 +62,7 @@ style='font-size:12.0pt'>    </span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                   <img width=314 height=131
-src="/cir-library/images/essays/the-work-of-the-spirit-2/image001.png"></span></p>
+src="/images/essays/the-work-of-the-spirit-2/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -151,7 +151,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                             <img width=281
-height=125 id="Picture 2" src="/cir-library/images/essays/the-work-of-the-spirit-2/image002.png"></span></p>
+height=125 id="Picture 2" src="/images/essays/the-work-of-the-spirit-2/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -234,7 +234,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                                             <img
-width=186 height=118 id="Picture 1" src="/cir-library/images/essays/the-work-of-the-spirit-2/image003.png"></span></p>
+width=186 height=118 id="Picture 1" src="/images/essays/the-work-of-the-spirit-2/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span

@@ -50,7 +50,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>          <img width=398 height=116 id="Picture 2"
-src="/cir-library/images/essays/reconstruction-of-the-fourfold-corinthian-correspondence-theory/image001.png"></span></p>
+src="/images/essays/reconstruction-of-the-fourfold-corinthian-correspondence-theory/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:8.0pt'>&nbsp;</span></p>
@@ -100,7 +100,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
 style='font-size:12.0pt'><img width=323 height=98 id="Picture 1"
-src="/cir-library/images/essays/reconstruction-of-the-fourfold-corinthian-correspondence-theory/image002.png"></span></p>
+src="/images/essays/reconstruction-of-the-fourfold-corinthian-correspondence-theory/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>

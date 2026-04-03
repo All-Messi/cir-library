@@ -33,7 +33,7 @@ layout: "author-page"
 
 </div>
 <div class="author-image">
-<img src="/cir-library/images/warren.jpg" alt="Virgil Warren, PhD">
+<img src="/images/warren.jpg" alt="Virgil Warren, PhD">
 </div>
 </div>
 

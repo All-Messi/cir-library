@@ -167,7 +167,7 @@ margin-left:.25in;text-align:justify'><span style='font-size:12.0pt;line-height:
 margin-left:.25in;text-align:justify'><span style='font-size:12.0pt;line-height:
 115%;font-family:"Times New Roman",serif'>                                                
 </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><img
-width=156 height=105 id="Picture 1" src="/cir-library/images/essays/the-distinction-between-covenants-and-some-relevant-applications-a-sketch/image001.png"></span></p>
+width=156 height=105 id="Picture 1" src="/images/essays/the-distinction-between-covenants-and-some-relevant-applications-a-sketch/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.25in;text-align:justify'>
@@ -178,7 +178,7 @@ margin-left:.25in;text-align:justify'>
  </tr>
  <tr>
   <td></td>
-  <td><img width=144 height=96 src="/cir-library/images/essays/the-distinction-between-covenants-and-some-relevant-applications-a-sketch/image002.png"></td>
+  <td><img width=144 height=96 src="/images/essays/the-distinction-between-covenants-and-some-relevant-applications-a-sketch/image002.png"></td>
  </tr>
 </table>
 
@@ -214,7 +214,7 @@ to the apostles; hence, the next entry.</span></p>
 margin-left:.25in;text-align:justify'><span style='font-size:12.0pt;line-height:
 115%;font-family:"Times New Roman",serif'>                                             </span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><img
-width=191 height=130 id="Picture 3" src="/cir-library/images/essays/the-distinction-between-covenants-and-some-relevant-applications-a-sketch/image003.png"></span><span
+width=191 height=130 id="Picture 3" src="/images/essays/the-distinction-between-covenants-and-some-relevant-applications-a-sketch/image003.png"></span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>   </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
@@ -251,7 +251,7 @@ for relationship to God must be found. Paul’s code word for that basis is
 margin-left:.25in;text-align:justify'><span style='font-size:12.0pt;line-height:
 115%;font-family:"Times New Roman",serif'>                                      </span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><img
-width=240 height=145 id="Picture 4" src="/cir-library/images/essays/the-distinction-between-covenants-and-some-relevant-applications-a-sketch/image004.png"></span><span
+width=240 height=145 id="Picture 4" src="/images/essays/the-distinction-between-covenants-and-some-relevant-applications-a-sketch/image004.png"></span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>     </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
@@ -276,7 +276,7 @@ perfect comes, in-part things disappear (1 Corinthians <b>13</b>: 9).</span></p>
 margin-left:.25in;text-align:justify'><span style='font-size:12.0pt;line-height:
 115%;font-family:"Times New Roman",serif'>                  </span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><img
-width=374 height=137 id="Picture 5" src="/cir-library/images/essays/the-distinction-between-covenants-and-some-relevant-applications-a-sketch/image005.png"></span></p>
+width=374 height=137 id="Picture 5" src="/images/essays/the-distinction-between-covenants-and-some-relevant-applications-a-sketch/image005.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.25in;text-align:justify'><span style='font-size:12.0pt;line-height:

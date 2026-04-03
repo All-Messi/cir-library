@@ -301,7 +301,7 @@ refined, and re-enacted—in that order.</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'><img width=360 height=228
-src="/cir-library/images/essays/old-testament-backgrounds-and-the/image001.png"></span></p>
+src="/images/essays/old-testament-backgrounds-and-the/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>

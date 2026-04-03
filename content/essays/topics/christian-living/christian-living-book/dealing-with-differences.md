@@ -105,7 +105,7 @@ style='font-size:12.0pt'>            yourself.    </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><img width=75
-height=53 src="/cir-library/images/essays/dealing-with-differences/image001.png" align=left hspace=12></p>
+height=53 src="/images/essays/dealing-with-differences/image001.png" align=left hspace=12></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -123,7 +123,7 @@ style='font-size:12.0pt'>                  ideas and values.</sp
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><img width=75
-height=49 src="/cir-library/images/essays/dealing-with-differences/image002.png" align=left hspace=12></p>
+height=49 src="/images/essays/dealing-with-differences/image002.png" align=left hspace=12></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -141,7 +141,7 @@ style='font-size:12.0pt'>                  relationship. “I”
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><img width=74
-height=50 src="/cir-library/images/essays/dealing-with-differences/image003.png" align=left hspace=12></p>
+height=50 src="/images/essays/dealing-with-differences/image003.png" align=left hspace=12></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -163,7 +163,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:.25in'><img
-width=77 height=59 src="/cir-library/images/essays/dealing-with-differences/image004.png" align=left hspace=12><span
+width=77 height=59 src="/images/essays/dealing-with-differences/image004.png" align=left hspace=12><span
 style='font-size:12.0pt'>Mutual respect, or acceptance, allows every </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -354,7 +354,7 @@ style='font-size:12.0pt'>                           �
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>       <img width=205 height=139 id="Picture 2"
-src="/cir-library/images/essays/dealing-with-differences/image005.png"></span></p>
+src="/images/essays/dealing-with-differences/image005.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -454,7 +454,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>       <img width=373 height=157 id="Picture 1"
-src="/cir-library/images/essays/dealing-with-differences/image006.png"></span></p>
+src="/images/essays/dealing-with-differences/image006.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span

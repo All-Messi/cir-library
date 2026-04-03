@@ -333,7 +333,7 @@ undeteriorated nature would have produced. Sinful behavior arises from </span></
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'><img width=229 height=85
-src="/cir-library/images/essays/analysis-of-augustines-doctrine-of-evil/image001.png"></span></p>
+src="/images/essays/analysis-of-augustines-doctrine-of-evil/image001.png"></span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
@@ -426,7 +426,7 @@ failure at self-control in sexual matters so impressed</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'><img width=406 height=216
-src="/cir-library/images/essays/analysis-of-augustines-doctrine-of-evil/image002.png"></span></p>
+src="/images/essays/analysis-of-augustines-doctrine-of-evil/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>

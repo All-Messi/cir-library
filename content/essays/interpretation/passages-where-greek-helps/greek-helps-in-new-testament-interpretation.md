@@ -22024,7 +22024,7 @@ under the headship of Christ, whom they are to respect (Ephesians <b>5</b>:21;
 <p class=MsoNormal style='margin-top:0in;margin-right:-9.0pt;margin-bottom:
 10.0pt;margin-left:.25in;text-align:justify'><span style='font-size:12.0pt;
 line-height:115%'>   <img width=370 height=114 id="Picture 10"
-src="/cir-library/images/essays/greek-helps-in-new-testament-interpretation/image001.png"
+src="/images/essays/greek-helps-in-new-testament-interpretation/image001.png"
 alt="A diagram of a diagram of a diagram&#10;&#10;Description automatically generated"></span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></p>
 
@@ -22792,7 +22792,7 @@ line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-right:-9.0pt'><span style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman",serif'>            </span><span
 style='font-size:12.0pt;line-height:115%'><img width=281 height=257
-id="Picture 1" src="/cir-library/images/essays/greek-helps-in-new-testament-interpretation/image002.png"
+id="Picture 1" src="/images/essays/greek-helps-in-new-testament-interpretation/image002.png"
 alt="A close-up of a computer screen&#10;&#10;Description automatically generated"></span></p>
 
 <p class=MsoNormal style='margin-right:-9.0pt'><b><span style='font-size:12.0pt;
@@ -23767,7 +23767,7 @@ line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-9.0pt;margin-bottom:
 0in;margin-left:0in;text-align:justify;text-indent:.5in'><span
 style='font-size:12.0pt;line-height:115%'><img width=222 height=239
-id="Picture 4" src="/cir-library/images/essays/greek-helps-in-new-testament-interpretation/image003.png"
+id="Picture 4" src="/images/essays/greek-helps-in-new-testament-interpretation/image003.png"
 alt="A diagram of a diagram&#10;&#10;Description automatically generated with medium confidence"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-9.0pt;margin-bottom:
@@ -23875,7 +23875,7 @@ line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-9.0pt;margin-bottom:
 0in;margin-left:0in;text-align:justify'><span style='font-size:12.0pt;
 line-height:115%'><img width=247 height=95 id="Picture 5"
-src="/cir-library/images/essays/greek-helps-in-new-testament-interpretation/image004.png"
+src="/images/essays/greek-helps-in-new-testament-interpretation/image004.png"
 alt="A diagram of a diagram of a national brand&#10;&#10;Description automatically generated with medium confidence"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-9.0pt;margin-bottom:
@@ -24407,7 +24407,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
 <p class=MsoNormal style='margin-top:0in;margin-right:-9.0pt;margin-bottom:
 0in;margin-left:0in;text-align:justify'><b><span style='font-size:12.0pt;
 line-height:115%'>                      <img width=298 height=50 id="Picture 11"
-src="/cir-library/images/essays/greek-helps-in-new-testament-interpretation/image005.png"
+src="/images/essays/greek-helps-in-new-testament-interpretation/image005.png"
 alt="A close-up of a paper&#10;&#10;Description automatically generated"></span></b></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-9.0pt;margin-bottom:
@@ -24577,7 +24577,7 @@ line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-9.0pt;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>                                            
-<img width=191 height=35 id="Picture 12" src="/cir-library/images/essays/greek-helps-in-new-testament-interpretation/image006.png"
+<img width=191 height=35 id="Picture 12" src="/images/essays/greek-helps-in-new-testament-interpretation/image006.png"
 alt="A close-up of a diagram&#10;&#10;Description automatically generated"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-9.0pt;margin-bottom:

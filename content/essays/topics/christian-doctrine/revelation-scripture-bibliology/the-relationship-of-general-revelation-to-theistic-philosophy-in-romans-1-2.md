@@ -262,7 +262,7 @@ style='font-size:8.0pt'>&nbsp;</span></p>
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
 style='font-size:12.0pt'><img width=242 height=196 id="Picture 4"
-src="/cir-library/images/essays/the-relationship-of-general-revelation-to-theistic-philosophy-in-romans-1-2/image001.jpg"></span></p>
+src="/images/essays/the-relationship-of-general-revelation-to-theistic-philosophy-in-romans-1-2/image001.jpg"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -424,7 +424,7 @@ While talking generally about </span></p>
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
 style='font-size:12.0pt'><img width=108 height=111 id="Picture 3"
-src="/cir-library/images/essays/the-relationship-of-general-revelation-to-theistic-philosophy-in-romans-1-2/image002.jpg"></span></p>
+src="/images/essays/the-relationship-of-general-revelation-to-theistic-philosophy-in-romans-1-2/image002.jpg"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -718,7 +718,7 @@ style='position:relative;top:-3.0pt'>9</span></span></p>
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
 style='font-size:12.0pt'><img width=325 height=202 id="Picture 2"
-src="/cir-library/images/essays/the-relationship-of-general-revelation-to-theistic-philosophy-in-romans-1-2/image003.jpg"></span></p>
+src="/images/essays/the-relationship-of-general-revelation-to-theistic-philosophy-in-romans-1-2/image003.jpg"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span
@@ -930,7 +930,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
 style='font-size:12.0pt'><img width=221 height=64 id="Picture 1"
-src="/cir-library/images/essays/the-relationship-of-general-revelation-to-theistic-philosophy-in-romans-1-2/image004.jpg"></span></p>
+src="/images/essays/the-relationship-of-general-revelation-to-theistic-philosophy-in-romans-1-2/image004.jpg"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span

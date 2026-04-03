@@ -52,7 +52,7 @@ style='font-size:10.5pt'>&nbsp;</span></p>
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='position:relative;z-index:251657216'><span style='left:0px;position:
 absolute;left:67px;top:-20px;width:18px;height:7px'><img width=18 height=7
-src="/cir-library/images/essays/gnosticism-and-the-book-of-colossians/image001.png"></span></span><span style='font-size:10.5pt'>                            
+src="/images/essays/gnosticism-and-the-book-of-colossians/image001.png"></span></span><span style='font-size:10.5pt'>                            
 spirit = good                                             Evil/sin was defined
 as a kind of <u>being</u>/</span></p>
 
@@ -60,7 +60,7 @@ as a kind of <u>being</u>/</span></p>
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='position:relative;z-index:251658240'><span style='left:0px;position:
 absolute;left:67px;top:-25px;width:18px;height:10px'><img width=18 height=10
-src="/cir-library/images/essays/gnosticism-and-the-book-of-colossians/image002.png"></span></span><span style='font-size:10.5pt'>1.     Dualism                                                                     “stuff”
+src="/images/essays/gnosticism-and-the-book-of-colossians/image002.png"></span></span><span style='font-size:10.5pt'>1.     Dualism                                                                     “stuff”
 rather than a way of <u>acting</u>.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -149,7 +149,7 @@ style='font-size:8.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                                     <img width=256
-height=257 id="Picture 1" src="/cir-library/images/essays/gnosticism-and-the-book-of-colossians/image003.png"></span></p>
+height=257 id="Picture 1" src="/images/essays/gnosticism-and-the-book-of-colossians/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span

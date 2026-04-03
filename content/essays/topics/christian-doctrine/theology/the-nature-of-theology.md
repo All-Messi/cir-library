@@ -51,7 +51,7 @@ style='font-size:12.0pt'>   </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>                <img width=361 height=193
-src="/cir-library/images/essays/the-nature-of-theology/image001.jpg"></span></p>
+src="/images/essays/the-nature-of-theology/image001.jpg"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>            For the most part, the epistles of the New
@@ -99,7 +99,7 @@ style='font-size:6.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>                       <img width=309 height=68
-src="/cir-library/images/essays/the-nature-of-theology/image002.jpg"></span></p>
+src="/images/essays/the-nature-of-theology/image002.jpg"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
@@ -144,7 +144,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>                    <img width=326 height=197
-src="/cir-library/images/essays/the-nature-of-theology/image003.jpg"></span></p>
+src="/images/essays/the-nature-of-theology/image003.jpg"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>

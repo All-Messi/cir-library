@@ -95,7 +95,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                  <img width=321 height=92
-src="/cir-library/images/essays/overview-of-creation-and-evolution-2/image001.jpg"></span></p>
+src="/images/essays/overview-of-creation-and-evolution-2/image001.jpg"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -109,7 +109,7 @@ availability; overlapping in <u>kind</u> has to do with personal creation.</span
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><img width=65
-height=123 src="/cir-library/images/essays/overview-of-creation-and-evolution-2/image002.jpg" align=left hspace=12></p>
+height=123 src="/images/essays/overview-of-creation-and-evolution-2/image002.jpg" align=left hspace=12></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span

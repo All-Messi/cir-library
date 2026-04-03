@@ -268,7 +268,7 @@ procession of the Spirit: John <b>14</b>:16, 26           </span></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt'>      
                                 <img width=219 height=109 id="Picture 2"
-src="/cir-library/images/essays/the-divine-trinity/image001.png"></span></p>
+src="/images/essays/the-divine-trinity/image001.png"></span></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
@@ -472,7 +472,7 @@ in which God presents himself. (But see John <b>1</b>:2; <b>17</b>:5.)</span></p
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt'>                                   
-<img width=245 height=157 id="Picture 1" src="/cir-library/images/essays/the-divine-trinity/image002.png"></span></p>
+<img width=245 height=157 id="Picture 1" src="/images/essays/the-divine-trinity/image002.png"></span></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:8.0pt'>&nbsp;</span></p>
 

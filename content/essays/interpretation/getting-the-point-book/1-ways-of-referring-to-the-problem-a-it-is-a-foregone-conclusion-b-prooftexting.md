@@ -88,7 +88,7 @@ it has apparent validity)</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>        <img width=367 height=87 id="Picture 1"
-src="/cir-library/images/essays/1-ways-of-referring-to-the-problem-a-it-is-a-foregone-conclusion-b-prooftexting/image001.png">        </span></p>
+src="/images/essays/1-ways-of-referring-to-the-problem-a-it-is-a-foregone-conclusion-b-prooftexting/image001.png">        </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span

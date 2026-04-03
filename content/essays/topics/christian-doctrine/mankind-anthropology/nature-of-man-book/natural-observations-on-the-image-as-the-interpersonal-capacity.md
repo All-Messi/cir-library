@@ -814,14 +814,14 @@ interpersonal capacity forms the distinctive</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'><img width=230 height=99
-id="Picture 2" src="/cir-library/images/essays/natural-observations-on-the-image-as-the-interpersonal-capacity/image001.png"></span></p>
+id="Picture 2" src="/images/essays/natural-observations-on-the-image-as-the-interpersonal-capacity/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
 .5in;line-height:18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'><img width=237 height=118
-id="Picture 1" src="/cir-library/images/essays/natural-observations-on-the-image-as-the-interpersonal-capacity/image002.png"></span></p>
+id="Picture 1" src="/images/essays/natural-observations-on-the-image-as-the-interpersonal-capacity/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>cluster of shared capacities between man

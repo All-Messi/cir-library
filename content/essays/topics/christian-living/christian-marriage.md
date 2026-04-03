@@ -460,7 +460,7 @@ style='font-size:12.0pt'>       </span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>           <img width=312 height=68
-src="/cir-library/images/essays/christian-marriage/image001.png"></span></p>
+src="/images/essays/christian-marriage/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -475,7 +475,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>      </span><span style='font-size:6.0pt'> </span><span
 style='font-size:12.0pt'>     <img width=268 height=17
-src="/cir-library/images/essays/christian-marriage/image002.png"></span></p>
+src="/images/essays/christian-marriage/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -582,7 +582,7 @@ style='font-size:10.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                       <img width=168 height=119
-src="/cir-library/images/essays/christian-marriage/image003.png"></span></p>
+src="/images/essays/christian-marriage/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span

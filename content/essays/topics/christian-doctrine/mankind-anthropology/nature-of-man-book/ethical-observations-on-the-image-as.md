@@ -182,7 +182,7 @@ of life.</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'><img width=406 height=236
-src="/cir-library/images/essays/ethical-observations-on-the-image-as/image001.png"></span></p>
+src="/images/essays/ethical-observations-on-the-image-as/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
 .5in;line-height:18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>

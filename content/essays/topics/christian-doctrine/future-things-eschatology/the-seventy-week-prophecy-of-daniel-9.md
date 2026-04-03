@@ -447,7 +447,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>              <img width=372 height=125
-src="/cir-library/images/essays/the-seventy-week-prophecy-of-daniel-9/image001.png"></span></p>
+src="/images/essays/the-seventy-week-prophecy-of-daniel-9/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>

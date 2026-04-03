@@ -6435,7 +6435,7 @@ detailed in large part in 1:2-2:3. </b></p>
 <p class=MsoNormal style='text-align:justify;text-indent:.5in'>&nbsp;</p>
 
 <p class=MsoNormal style='text-align:justify;text-indent:.5in'>       <img
-width=212 height=137 src="/cir-library/images/essays/interpreting-the-creation-narrative/image001.png">          </p>
+width=212 height=137 src="/images/essays/interpreting-the-creation-narrative/image001.png">          </p>
 
 <p class=MsoNormal style='text-align:justify;text-indent:.5in'>That is part of
 a narrowing pattern that runs all through Genesis and ends up coming down to
@@ -6483,7 +6483,7 @@ up the account from Day (3 plus) 6 in chapter <b>1</b>. </p>
 <p class=MsoNormal style='text-align:justify;text-indent:.5in'>&nbsp;</p>
 
 <p class=MsoNormal style='text-align:justify;text-indent:.5in'>       <img
-width=200 height=134 src="/cir-library/images/essays/interpreting-the-creation-narrative/image002.png"></p>
+width=200 height=134 src="/images/essays/interpreting-the-creation-narrative/image002.png"></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>&nbsp;</span></p>
 

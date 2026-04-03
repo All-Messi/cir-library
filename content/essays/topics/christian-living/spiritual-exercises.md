@@ -418,7 +418,7 @@ style='font-size:12.0pt'>                  other people, prayer�
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                                              <img
-width=87 height=76 src="/cir-library/images/essays/spiritual-exercises/image001.png">    </span></p>
+width=87 height=76 src="/images/essays/spiritual-exercises/image001.png">    </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -488,7 +488,7 @@ style='font-size:6.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                      <img width=330 height=154
-src="/cir-library/images/essays/spiritual-exercises/image002.png"></span></p>
+src="/images/essays/spiritual-exercises/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span

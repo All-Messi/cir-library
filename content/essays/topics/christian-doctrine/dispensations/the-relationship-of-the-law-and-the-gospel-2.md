@@ -163,7 +163,7 @@ purpose among his people appears in the following diagram.  </span></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman",serif'><img width=468
-height=172 id="Picture 2" src="/cir-library/images/essays/the-relationship-of-the-law-and-the-gospel-2/image001.png"></span></p>
+height=172 id="Picture 2" src="/images/essays/the-relationship-of-the-law-and-the-gospel-2/image001.png"></span></p>
 
 <p class=MsoNormal style='text-align:justify;text-indent:.5in'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The

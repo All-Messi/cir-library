@@ -275,7 +275,7 @@ absolute;left:42px;top:-546px;width:157px;height:62px'>
  <tr>
   <td height=10></td>
   <td colspan=3 align=left valign=top><img width=157 height=10
-  src="/cir-library/images/essays/prolegomena-for-men-and-women-in-christ/image001.png"></td>
+  src="/images/essays/prolegomena-for-men-and-women-in-christ/image001.png"></td>
  </tr>
  <tr>
   <td height=42></td>
@@ -284,7 +284,7 @@ absolute;left:42px;top:-546px;width:157px;height:62px'>
   <td height=10></td>
   <td></td>
   <td align=left valign=top><img width=110 height=10
-  src="/cir-library/images/essays/prolegomena-for-men-and-women-in-christ/image002.png"></td>
+  src="/images/essays/prolegomena-for-men-and-women-in-christ/image002.png"></td>
  </tr>
 </table>
 

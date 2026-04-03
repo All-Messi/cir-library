@@ -59,7 +59,7 @@ style='font-size:8.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
 style='font-size:12.0pt'><img width=270 height=78
-src="/cir-library/images/essays/types-of-systems/image001.png"></span></p>
+src="/images/essays/types-of-systems/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
@@ -78,7 +78,7 @@ style='font-size:14.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
 style='font-size:12.0pt'><img width=270 height=74
-src="/cir-library/images/essays/types-of-systems/image002.png"></span></p>
+src="/images/essays/types-of-systems/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
@@ -94,7 +94,7 @@ style='font-size:14.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
 style='font-size:12.0pt'><img width=269 height=73
-src="/cir-library/images/essays/types-of-systems/image003.png"></span></p>
+src="/images/essays/types-of-systems/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>

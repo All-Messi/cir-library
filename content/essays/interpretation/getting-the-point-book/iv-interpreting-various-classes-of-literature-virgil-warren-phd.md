@@ -226,7 +226,7 @@ style='font-size:6.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>            <img width=164 height=78
-src="/cir-library/images/essays/iv-interpreting-various-classes-of-literature-virgil-warren-phd/image001.jpg"></span></p>
+src="/images/essays/iv-interpreting-various-classes-of-literature-virgil-warren-phd/image001.jpg"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -241,7 +241,7 @@ generalized prediction illustrated above.</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>          <img width=365 height=52
-src="/cir-library/images/essays/iv-interpreting-various-classes-of-literature-virgil-warren-phd/image002.jpg"></span></p>
+src="/images/essays/iv-interpreting-various-classes-of-literature-virgil-warren-phd/image002.jpg"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -258,7 +258,7 @@ Luke <b>21</b>:5-36).</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>            <img width=332 height=60
-src="/cir-library/images/essays/iv-interpreting-various-classes-of-literature-virgil-warren-phd/image003.jpg"></span></p>
+src="/images/essays/iv-interpreting-various-classes-of-literature-virgil-warren-phd/image003.jpg"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -272,7 +272,7 @@ style='font-size:12.0pt'>                           �
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                      <img width=183 height=35
-src="/cir-library/images/essays/iv-interpreting-various-classes-of-literature-virgil-warren-phd/image004.jpg"></span></p>
+src="/images/essays/iv-interpreting-various-classes-of-literature-virgil-warren-phd/image004.jpg"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -286,7 +286,7 @@ intention of the original     </span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                <img width=243 height=35
-src="/cir-library/images/essays/iv-interpreting-various-classes-of-literature-virgil-warren-phd/image005.jpg"></span></p>
+src="/images/essays/iv-interpreting-various-classes-of-literature-virgil-warren-phd/image005.jpg"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -340,7 +340,7 @@ things at the same time. </span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                           <img width=105 height=101
-src="/cir-library/images/essays/iv-interpreting-various-classes-of-literature-virgil-warren-phd/image006.jpg"></span></p>
+src="/images/essays/iv-interpreting-various-classes-of-literature-virgil-warren-phd/image006.jpg"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:1.5in;margin-bottom:.0001pt;text-align:justify;text-indent:
@@ -350,7 +350,7 @@ accommodation applies a passage to a matter not in the mind of the author.</span
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>            <img width=298 height=43
-src="/cir-library/images/essays/iv-interpreting-various-classes-of-literature-virgil-warren-phd/image007.jpg"></span></p>
+src="/images/essays/iv-interpreting-various-classes-of-literature-virgil-warren-phd/image007.jpg"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -1318,7 +1318,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>   <img width=407 height=130
-src="/cir-library/images/essays/iv-interpreting-various-classes-of-literature-virgil-warren-phd/image008.jpg"></span></p>
+src="/images/essays/iv-interpreting-various-classes-of-literature-virgil-warren-phd/image008.jpg"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -1330,7 +1330,7 @@ points and an overall presentation that moves to the </span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>            <img width=262 height=179
-src="/cir-library/images/essays/iv-interpreting-various-classes-of-literature-virgil-warren-phd/image009.jpg"></span></p>
+src="/images/essays/iv-interpreting-various-classes-of-literature-virgil-warren-phd/image009.jpg"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -1346,7 +1346,7 @@ arrangement. </span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                   <img width=221 height=220
-src="/cir-library/images/essays/iv-interpreting-various-classes-of-literature-virgil-warren-phd/image010.jpg"></span></p>
+src="/images/essays/iv-interpreting-various-classes-of-literature-virgil-warren-phd/image010.jpg"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span

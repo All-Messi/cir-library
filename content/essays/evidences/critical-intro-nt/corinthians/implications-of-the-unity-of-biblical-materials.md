@@ -62,7 +62,7 @@ margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>&nbsp;</
 margin-left:.25in;margin-bottom:.0001pt'><span style='position:relative;
 z-index:251656704'><span style='left:0px;position:absolute;left:115px;
 top:-45px;width:53px;height:26px'><img width=53 height=26
-src="/cir-library/images/essays/implications-of-the-unity-of-biblical-materials/image001.png"></span></span><span style='font-size:12.0pt'>            A.  
+src="/images/essays/implications-of-the-unity-of-biblical-materials/image001.png"></span></span><span style='font-size:12.0pt'>            A.  
 Matthew</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -72,7 +72,7 @@ margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>&nbsp;</
 margin-left:.25in;margin-bottom:.0001pt'><span style='position:relative;
 z-index:251657728'><span style='left:0px;position:absolute;left:99px;
 top:-56px;width:69px;height:30px'><img width=69 height=30
-src="/cir-library/images/essays/implications-of-the-unity-of-biblical-materials/image002.png"></span></span><span style='font-size:12.0pt'>            B.  
+src="/images/essays/implications-of-the-unity-of-biblical-materials/image002.png"></span></span><span style='font-size:12.0pt'>            B.  
 Mark                           Source theories           </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;

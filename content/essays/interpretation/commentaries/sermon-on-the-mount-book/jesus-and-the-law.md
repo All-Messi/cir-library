@@ -105,7 +105,7 @@ Messiah came in continuity with Moses and the prophets. </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>                  <img width=349
-height=203 id="Picture 1" src="/cir-library/images/essays/jesus-and-the-law/image001.png"></span></p>
+height=203 id="Picture 1" src="/images/essays/jesus-and-the-law/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:4.0pt'>&nbsp;</span></p>

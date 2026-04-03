@@ -1435,7 +1435,7 @@ manner—“so”?).</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt;color:#7030A0'>         <img width=326 height=102
-id="Picture 1" src="/cir-library/images/essays/a-streamlining-causal-distinctions/image001.png"> </span></p>
+id="Picture 1" src="/images/essays/a-streamlining-causal-distinctions/image001.png"> </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span

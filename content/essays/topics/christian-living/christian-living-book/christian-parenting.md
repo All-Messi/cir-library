@@ -92,7 +92,7 @@ or neglect of kids we love.</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                      <img width=179 height=129
-id="Picture 4" src="/cir-library/images/essays/christian-parenting/image001.png"></span></p>
+id="Picture 4" src="/images/essays/christian-parenting/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -159,7 +159,7 @@ children.</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>              <img width=224 height=55 id="Picture 3"
-src="/cir-library/images/essays/christian-parenting/image002.png">  </span></p>
+src="/images/essays/christian-parenting/image002.png">  </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -690,7 +690,7 @@ dehumanizing, and degrading.  </span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>           <img width=335 height=85 id="Picture 2"
-src="/cir-library/images/essays/christian-parenting/image003.png"></span></p>
+src="/images/essays/christian-parenting/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -705,7 +705,7 @@ effective approaches, and rejection will not be sensed.</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>             <img width=282 height=57 id="Picture 1"
-src="/cir-library/images/essays/christian-parenting/image004.png"></span></p>
+src="/images/essays/christian-parenting/image004.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span

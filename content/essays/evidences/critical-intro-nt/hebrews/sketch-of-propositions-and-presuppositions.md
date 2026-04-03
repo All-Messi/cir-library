@@ -99,7 +99,7 @@ style='font-size:12.0pt'>            </span></p>
 
 <p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
 style='font-size:12.0pt'>     <img width=399 height=118
-src="/cir-library/images/essays/sketch-of-propositions-and-presuppositions/image001.png"></span></p>
+src="/images/essays/sketch-of-propositions-and-presuppositions/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
 style='font-size:6.0pt'>&nbsp;</span></p>
@@ -131,7 +131,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
 style='font-size:12.0pt'>                                                          <img
-width=154 height=114 src="/cir-library/images/essays/sketch-of-propositions-and-presuppositions/image002.png"></span></p>
+width=154 height=114 src="/images/essays/sketch-of-propositions-and-presuppositions/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
@@ -147,7 +147,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
 style='font-size:12.0pt'>                                                           <img
-width=204 height=50 src="/cir-library/images/essays/sketch-of-propositions-and-presuppositions/image003.png"></span></p>
+width=204 height=50 src="/images/essays/sketch-of-propositions-and-presuppositions/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
@@ -160,7 +160,7 @@ style='font-size:10.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
 style='font-size:12.0pt'>                                                           <img
-width=235 height=50 src="/cir-library/images/essays/sketch-of-propositions-and-presuppositions/image004.png"></span></p>
+width=235 height=50 src="/images/essays/sketch-of-propositions-and-presuppositions/image004.png"></span></p>
 
 <p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>

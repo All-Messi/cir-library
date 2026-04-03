@@ -109,7 +109,7 @@ line-height:115%;font-family:"Times New Roman",serif'>6 + Sabbath envisioned</sp
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='position:relative;z-index:251660288'><span style='left:0px;position:
 absolute;left:115px;top:-102px;width:191px;height:11px'><img width=191
-height=11 src="/cir-library/images/essays/a-rationale-for-the-structure-of-genesis-11-23/image001.png"></span></span><span
+height=11 src="/images/essays/a-rationale-for-the-structure-of-genesis-11-23/image001.png"></span></span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>6
 + Sabbath     </span></p>
 
@@ -119,7 +119,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='position:relative;z-index:251659264'><span style='left:0px;position:
 absolute;left:113px;top:-114px;width:198px;height:11px'><img width=198
-height=11 src="/cir-library/images/essays/a-rationale-for-the-structure-of-genesis-11-23/image002.png"></span></span><span
+height=11 src="/images/essays/a-rationale-for-the-structure-of-genesis-11-23/image002.png"></span></span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>sanctified
 and blessed</span></p>
 

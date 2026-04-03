@@ -76,7 +76,7 @@ not distinct in kind from the universe.</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>                      <img width=298 height=90
-id="Picture 2" src="/cir-library/images/essays/overview-of-creation-and-evolution/image001.png"></span></p>
+id="Picture 2" src="/images/essays/overview-of-creation-and-evolution/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>                     *2.    Natural transcendence: God
@@ -87,7 +87,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>                    <img width=60 height=77
-id="Picture 1" src="/cir-library/images/essays/overview-of-creation-and-evolution/image002.png"></span></p>
+id="Picture 1" src="/images/essays/overview-of-creation-and-evolution/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>            </span></p>

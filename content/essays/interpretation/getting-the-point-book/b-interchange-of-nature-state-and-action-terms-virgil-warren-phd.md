@@ -67,7 +67,7 @@ Self-Consistency for the Doctrine of Natural Depravity</i>, pp. 157-66. </span><
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>        <img width=326 height=206
-src="/cir-library/images/essays/b-interchange-of-nature-state-and-action-terms-virgil-warren-phd/image001.png"></span></p>
+src="/images/essays/b-interchange-of-nature-state-and-action-terms-virgil-warren-phd/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span

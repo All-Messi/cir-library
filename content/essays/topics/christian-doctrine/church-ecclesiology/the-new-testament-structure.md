@@ -979,7 +979,7 @@ style='font-size:4.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>                                    <img width=249
-height=92 src="/cir-library/images/essays/the-new-testament-structure/image001.png"></span></p>
+height=92 src="/images/essays/the-new-testament-structure/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
@@ -1206,7 +1206,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>                              <img width=281
-height=190 src="/cir-library/images/essays/the-new-testament-structure/image002.png"></span></p>
+height=190 src="/images/essays/the-new-testament-structure/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>

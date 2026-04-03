@@ -649,7 +649,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&n
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='position:relative;z-index:251659264'><span style='left:0px;position:
 absolute;left:95px;top:-832px;width:110px;height:12px'><img width=110
-height=12 src="/cir-library/images/essays/some-implications-of-legal-process-for/image001.png"></span></span><span
+height=12 src="/images/essays/some-implications-of-legal-process-for/image001.png"></span></span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            hermeneutics<sup>1</sup>                                     practice<sup>3</sup></span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
@@ -666,10 +666,10 @@ absolute;left:67px;top:-844px;width:159px;height:31px'>
  <tr>
   <td height=29></td>
   <td rowspan=2 align=left valign=top><img width=67 height=31
-  src="/cir-library/images/essays/some-implications-of-legal-process-for/image002.png"></td>
+  src="/images/essays/some-implications-of-legal-process-for/image002.png"></td>
   <td></td>
   <td align=left valign=top><img width=68 height=29
-  src="/cir-library/images/essays/some-implications-of-legal-process-for/image003.png"></td>
+  src="/images/essays/some-implications-of-legal-process-for/image003.png"></td>
  </tr>
  <tr>
   <td height=2></td>

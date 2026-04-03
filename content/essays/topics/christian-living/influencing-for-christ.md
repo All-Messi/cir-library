@@ -121,7 +121,7 @@ style='position:absolute;z-index:251657728;left:0px;margin-left:0px;margin-top:
 </table>
 
 </span><u><span style='font-size:12.0pt'>               <img width=393
-height=137 src="/cir-library/images/essays/influencing-for-christ/image001.png"></span></u></p>
+height=137 src="/images/essays/influencing-for-christ/image001.png"></span></u></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><u><span

@@ -84,7 +84,7 @@ style='font-size:6.0pt'>&nbsp;</span></p>
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
 style='font-size:12.0pt'><img width=332 height=140 id="Picture 1"
-src="/cir-library/images/essays/hebrews-and-the-alexandrian-origin-or-destiny/image001.png"></span></p>
+src="/images/essays/hebrews-and-the-alexandrian-origin-or-destiny/image001.png"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span

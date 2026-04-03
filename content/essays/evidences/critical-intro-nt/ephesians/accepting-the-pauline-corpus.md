@@ -68,14 +68,14 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 margin-left:3.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='position:relative;z-index:251652096'><span style='left:0px;position:
 absolute;left:213px;top:-37px;width:1px;height:40px'><img width=1 height=40
-src="/cir-library/images/essays/accepting-the-pauline-corpus/image001.png"></span></span><span style='font-size:12.0pt'>Titus</span></p>
+src="/images/essays/accepting-the-pauline-corpus/image001.png"></span></span><span style='font-size:12.0pt'>Titus</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:3.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.5in'><span
 style='font-size:12.0pt'>2<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span style='position:relative;z-index:251651072'><span
 style='left:0px;position:absolute;left:108px;top:-42px;width:2px;height:154px'><img
-width=2 height=154 src="/cir-library/images/essays/accepting-the-pauline-corpus/image002.png"></span></span><span
+width=2 height=154 src="/images/essays/accepting-the-pauline-corpus/image002.png"></span></span><span
 style='font-size:12.0pt'>2 Timothy</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -123,7 +123,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 margin-left:3.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='position:relative;z-index:251654144'><span style='left:0px;position:
 absolute;left:308px;top:-95px;width:1px;height:57px'><img width=1 height=57
-src="/cir-library/images/essays/accepting-the-pauline-corpus/image003.png"></span></span><span style='font-size:12.0pt'>Galatians</span></p>
+src="/images/essays/accepting-the-pauline-corpus/image003.png"></span></span><span style='font-size:12.0pt'>Galatians</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:3.25in;margin-bottom:.0001pt;text-align:justify'><span

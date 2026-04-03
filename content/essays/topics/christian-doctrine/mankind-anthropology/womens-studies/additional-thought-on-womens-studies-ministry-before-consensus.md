@@ -76,7 +76,7 @@ again that is not the kind of ministry women's roles </span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
 style='font-size:12.0pt'><img width=435 height=264 id="Picture 1"
-src="/cir-library/images/essays/additional-thought-on-womens-studies-ministry-before-consensus/image001.png"></span></p>
+src="/images/essays/additional-thought-on-womens-studies-ministry-before-consensus/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>raises questions about.  Furthermore, <u>informal</u> leadership,

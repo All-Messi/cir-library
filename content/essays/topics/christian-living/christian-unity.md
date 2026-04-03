@@ -292,7 +292,7 @@ style='font-size:12.0pt'>   </span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:6.0pt'>        </span><span style='font-size:12.0pt'><img
-width=194 height=104 src="/cir-library/images/essays/christian-unity/image001.png"></span></p>
+width=194 height=104 src="/images/essays/christian-unity/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -313,7 +313,7 @@ style='font-size:6.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:6.0pt'>        <img width=265 height=92
-src="/cir-library/images/essays/christian-unity/image002.png"></span></p>
+src="/images/essays/christian-unity/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -501,7 +501,7 @@ style='font-size:12.0pt'>                     </span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                         <img width=180 height=98
-src="/cir-library/images/essays/christian-unity/image003.png"></span></p>
+src="/images/essays/christian-unity/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span

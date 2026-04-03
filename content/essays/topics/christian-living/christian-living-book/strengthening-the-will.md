@@ -114,7 +114,7 @@ style='font-size:12.0pt'>                           �
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                          <img width=144 height=32
-id="Picture 4" src="/cir-library/images/essays/strengthening-the-will/image001.png"></span></p>
+id="Picture 4" src="/images/essays/strengthening-the-will/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -198,7 +198,7 @@ style='font-size:12.0pt'>                            
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                                               <img
-width=152 height=73 src="/cir-library/images/essays/strengthening-the-will/image002.png"></span></p>
+width=152 height=73 src="/images/essays/strengthening-the-will/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -220,7 +220,7 @@ style='font-size:12.0pt'>                           �
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                                                <img
-width=146 height=76 id="Picture 3" src="/cir-library/images/essays/strengthening-the-will/image003.png"></span></p>
+width=146 height=76 id="Picture 3" src="/images/essays/strengthening-the-will/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -284,7 +284,7 @@ style='font-size:12.0pt'>            C.  Action brings .  .  .  �
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                                                <img
-width=147 height=73 id="Picture 2" src="/cir-library/images/essays/strengthening-the-will/image004.png"></span></p>
+width=147 height=73 id="Picture 2" src="/images/essays/strengthening-the-will/image004.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -445,7 +445,7 @@ style='font-size:12.0pt'>                </span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                                             <img
-width=212 height=72 id="Picture 1" src="/cir-library/images/essays/strengthening-the-will/image005.png"></span></p>
+width=212 height=72 id="Picture 1" src="/images/essays/strengthening-the-will/image005.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>

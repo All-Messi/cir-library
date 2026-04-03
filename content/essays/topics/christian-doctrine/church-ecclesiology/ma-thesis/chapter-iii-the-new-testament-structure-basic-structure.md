@@ -1000,7 +1000,7 @@ style='font-size:12.0pt'>Fig. 12.  Diaconate:  Deacons and Deaconesses</span><
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
 style='font-size:12.0pt'><img width=306 height=128 id="Picture 2"
-src="/cir-library/images/essays/chapter-iii-the-new-testament-structure-basic-structure/image001.png"></span></p>
+src="/images/essays/chapter-iii-the-new-testament-structure-basic-structure/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>There seems to be, however, no sure exegetical base on
@@ -1225,7 +1225,7 @@ Church</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
 .5in'><span style='font-size:12.0pt'><img width=394 height=212 id="Picture 1"
-src="/cir-library/images/essays/chapter-iii-the-new-testament-structure-basic-structure/image002.png"></span></p>
+src="/images/essays/chapter-iii-the-new-testament-structure-basic-structure/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
 .5in'><span style='font-size:12.0pt'>&nbsp;</span></p>

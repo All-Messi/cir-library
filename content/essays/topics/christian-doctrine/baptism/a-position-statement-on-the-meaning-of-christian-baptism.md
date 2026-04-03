@@ -274,7 +274,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:4.5pt;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
 style='font-size:12.0pt'>                <img width=368 height=121
-id="Picture 6" src="/cir-library/images/essays/a-position-statement-on-the-meaning-of-christian-baptism/image001.png"></span></p>
+id="Picture 6" src="/images/essays/a-position-statement-on-the-meaning-of-christian-baptism/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:4.5pt;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
@@ -421,7 +421,7 @@ style='font-size:8.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:4.5pt;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
 style='font-size:12.0pt'>                                           <img
-width=219 height=82 id="Picture 5" src="/cir-library/images/essays/a-position-statement-on-the-meaning-of-christian-baptism/image002.png"></span></p>
+width=219 height=82 id="Picture 5" src="/images/essays/a-position-statement-on-the-meaning-of-christian-baptism/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:4.5pt;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
@@ -443,7 +443,7 @@ style='font-size:8.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:4.5pt;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
 style='font-size:12.0pt'>                                       <img width=220
-height=84 id="Picture 4" src="/cir-library/images/essays/a-position-statement-on-the-meaning-of-christian-baptism/image003.png"></span></p>
+height=84 id="Picture 4" src="/images/essays/a-position-statement-on-the-meaning-of-christian-baptism/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:4.5pt;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
@@ -458,7 +458,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:4.5pt;margin-bottom:.0001pt;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'>  <img width=223 height=86
-id="Picture 3" src="/cir-library/images/essays/a-position-statement-on-the-meaning-of-christian-baptism/image004.png"></span></p>
+id="Picture 3" src="/images/essays/a-position-statement-on-the-meaning-of-christian-baptism/image004.png"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:4.5pt;margin-bottom:.0001pt;text-align:center;
@@ -753,7 +753,7 @@ style='font-size:4.0pt'>&nbsp;</span></p>
 margin-bottom:0in;margin-left:4.5pt;margin-bottom:.0001pt;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'> </span><span lang=EL
 style='font-size:12.0pt'><img width=310 height=49 id="Picture 2"
-src="/cir-library/images/essays/a-position-statement-on-the-meaning-of-christian-baptism/image005.png"></span></p>
+src="/images/essays/a-position-statement-on-the-meaning-of-christian-baptism/image005.png"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:4.5pt;margin-bottom:.0001pt;text-align:center;
@@ -1015,7 +1015,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:4.5pt;margin-bottom:.0001pt'><span style='font-size:12.0pt'> <img
-width=418 height=194 id="Picture 1" src="/cir-library/images/essays/a-position-statement-on-the-meaning-of-christian-baptism/image006.png"></span></p>
+width=418 height=194 id="Picture 1" src="/images/essays/a-position-statement-on-the-meaning-of-christian-baptism/image006.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:4.5pt;margin-bottom:.0001pt;text-align:justify'><span

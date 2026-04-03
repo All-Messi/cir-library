@@ -358,7 +358,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'><img width=401 height=165 id="Picture 6"
-src="/cir-library/images/essays/chapter-iv-the-normativeness-of-the-new-testament-structure-divine-origination/image001.png"></span></p>
+src="/images/essays/chapter-iv-the-normativeness-of-the-new-testament-structure-divine-origination/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -448,7 +448,7 @@ style='font-size:12.0pt'>                        </span><
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'><img width=380 height=210 id="Picture 5"
-src="/cir-library/images/essays/chapter-iv-the-normativeness-of-the-new-testament-structure-divine-origination/image002.png"></span></p>
+src="/images/essays/chapter-iv-the-normativeness-of-the-new-testament-structure-divine-origination/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -995,7 +995,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><span
 style='font-size:12.0pt'><img width=320 height=182 id="Picture 4"
-src="/cir-library/images/essays/chapter-iv-the-normativeness-of-the-new-testament-structure-divine-origination/image003.png"></span></p>
+src="/images/essays/chapter-iv-the-normativeness-of-the-new-testament-structure-divine-origination/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -1041,7 +1041,7 @@ style='font-size:12.0pt'>                           �
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><span
 style='font-size:12.0pt'><img width=177 height=156 id="Picture 3"
-src="/cir-library/images/essays/chapter-iv-the-normativeness-of-the-new-testament-structure-divine-origination/image004.png"></span></p>
+src="/images/essays/chapter-iv-the-normativeness-of-the-new-testament-structure-divine-origination/image004.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -1063,7 +1063,7 @@ style='font-size:12.0pt'>                        </span><
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><span
 style='font-size:12.0pt'><img width=202 height=178 id="Picture 2"
-src="/cir-library/images/essays/chapter-iv-the-normativeness-of-the-new-testament-structure-divine-origination/image005.png"></span></p>
+src="/images/essays/chapter-iv-the-normativeness-of-the-new-testament-structure-divine-origination/image005.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><u><span
@@ -1098,7 +1098,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><span
 style='font-size:12.0pt'><img width=180 height=158 id="Picture 1"
-src="/cir-library/images/essays/chapter-iv-the-normativeness-of-the-new-testament-structure-divine-origination/image006.png"></span></p>
+src="/images/essays/chapter-iv-the-normativeness-of-the-new-testament-structure-divine-origination/image006.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span

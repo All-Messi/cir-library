@@ -100,7 +100,7 @@ outwardly directed for the joy of others.</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'><img width=407 height=234
-src="/cir-library/images/essays/the-image-and-ethics/image001.png"></span></p>
+src="/images/essays/the-image-and-ethics/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>II. A-2: The Golden Rule/The Second

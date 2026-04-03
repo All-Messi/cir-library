@@ -150,7 +150,7 @@ proclamation more than <u>through</u> proclamation. </span></p>
 
 <p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
 style='color:black'><img width=460 height=102 id="Picture 10"
-src="/cir-library/images/essays/1-the-meaning-of-interpret/image001.png"></span></p>
+src="/images/essays/1-the-meaning-of-interpret/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
 style='color:black'>                        (e) People feel uneasy about saying
@@ -170,7 +170,7 @@ concepts would be the same in every mind.    </span></p>
 
 <p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
 style='color:black'>      <img width=324 height=134 id="Picture 9"
-src="/cir-library/images/essays/1-the-meaning-of-interpret/image002.png"></span></p>
+src="/images/essays/1-the-meaning-of-interpret/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
 style='color:black'>                  Second, interpretation means (2) <u>integration</u>:
@@ -217,37 +217,37 @@ factor or set of factors.</span></p>
 style='color:black'> may be part of <b>b</b>.</span> </p>
 
 <p class=MsoNormal style='margin-left:.25in'><span style='color:black'>  <img
-width=159 height=32 id="Picture 8" src="/cir-library/images/essays/1-the-meaning-of-interpret/image003.png"></span></p>
+width=159 height=32 id="Picture 8" src="/images/essays/1-the-meaning-of-interpret/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-left:.25in'><b><span style='color:black'>a</span></b><span
 style='color:black'> may include <b>b</b>.</span></p>
 
 <p class=MsoNormal style='margin-left:.25in'><span style='color:black'>   <img
-width=147 height=32 id="Picture 7" src="/cir-library/images/essays/1-the-meaning-of-interpret/image004.png"></span></p>
+width=147 height=32 id="Picture 7" src="/images/essays/1-the-meaning-of-interpret/image004.png"></span></p>
 
 <p class=MsoNormal style='margin-left:.25in'><b><span style='color:black'>a</span></b><span
 style='color:black'> and <b>b</b> may overlap.</span></p>
 
 <p class=MsoNormal style='margin-left:.25in'><span style='color:black'>    <img
-width=177 height=40 id="Picture 6" src="/cir-library/images/essays/1-the-meaning-of-interpret/image005.png"></span></p>
+width=177 height=40 id="Picture 6" src="/images/essays/1-the-meaning-of-interpret/image005.png"></span></p>
 
 <p class=MsoNormal style='margin-left:.25in'><b><span style='color:black'>a</span></b><span
 style='color:black'> may be parallel to <b>b.</b></span></p>
 
 <p class=MsoNormal style='margin-left:.25in'><span style='color:black'>   <img
-width=294 height=32 id="Picture 5" src="/cir-library/images/essays/1-the-meaning-of-interpret/image006.png"></span></p>
+width=294 height=32 id="Picture 5" src="/images/essays/1-the-meaning-of-interpret/image006.png"></span></p>
 
 <p class=MsoNormal style='margin-left:.25in'><b><span style='color:black'>a</span></b><span
 style='color:black'> may combine with <b>b</b> to form the whole. </span></p>
 
 <p class=MsoNormal style='margin-left:.25in'><span style='color:black'>  <img
-width=184 height=48 id="Picture 4" src="/cir-library/images/essays/1-the-meaning-of-interpret/image007.png"></span></p>
+width=184 height=48 id="Picture 4" src="/images/essays/1-the-meaning-of-interpret/image007.png"></span></p>
 
 <p class=MsoNormal style='margin-left:.25in'><b><span style='color:black'>a</span></b><span
 style='color:black'> and <b>b</b> may be two labels for the same thing.</span></p>
 
 <p class=MsoNormal style='margin-left:.25in'><span style='color:black'>   <img
-width=153 height=48 id="Picture 3" src="/cir-library/images/essays/1-the-meaning-of-interpret/image008.png"></span></p>
+width=153 height=48 id="Picture 3" src="/images/essays/1-the-meaning-of-interpret/image008.png"></span></p>
 
 <p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
 style='color:black'>                        Thirdly, after finding the referent
@@ -810,7 +810,7 @@ causation.” The following diagram shows the overall process.</span></p>
 
 <p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
 style='color:black'>   <img width=393 height=134 id="Picture 2"
-src="/cir-library/images/essays/1-the-meaning-of-interpret/image009.png"></span></p>
+src="/images/essays/1-the-meaning-of-interpret/image009.png"></span></p>
 
 <p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
 style='color:black'>The full picture emerges from this procedure rather than from
@@ -1310,7 +1310,7 @@ not to establish one view.</span></p>
 
 <p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
 style='color:black'>       <img width=307 height=95 id="Picture 1"
-src="/cir-library/images/essays/1-the-meaning-of-interpret/image010.png"></span></p>
+src="/images/essays/1-the-meaning-of-interpret/image010.png"></span></p>
 
 <p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
 style='color:black'>                              (4) that all things are

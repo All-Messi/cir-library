@@ -68,7 +68,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>                      <img width=340 height=170
-src="/cir-library/images/essays/structuring-the-hermeneutical-task-in-womens-studies-wisdom-or-law/image001.png"></span></p>
+src="/images/essays/structuring-the-hermeneutical-task-in-womens-studies-wisdom-or-law/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>  I. Wisdom </span></p>

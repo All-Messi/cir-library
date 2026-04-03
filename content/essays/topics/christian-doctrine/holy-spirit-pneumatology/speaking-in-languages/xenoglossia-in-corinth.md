@@ -1037,7 +1037,7 @@ The relationship between</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
 style='font-size:12.0pt'><img width=253 height=52 id="Picture 1"
-src="/cir-library/images/essays/xenoglossia-in-corinth/image001.png" alt=CIR--HS--diag></span></p>
+src="/images/essays/xenoglossia-in-corinth/image001.png" alt=CIR--HS--diag></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>the terms changes from separate circles to one within

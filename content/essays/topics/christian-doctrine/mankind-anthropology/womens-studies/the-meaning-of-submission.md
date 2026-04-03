@@ -49,7 +49,7 @@ rigidness creates an extreme opposite and equal reaction. After a while,</span><
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
 style='font-size:12.0pt'><img width=281 height=73
-src="/cir-library/images/essays/the-meaning-of-submission/image001.png"></span></p>
+src="/images/essays/the-meaning-of-submission/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>discussions on headship and submission get lost in a
@@ -124,7 +124,7 @@ style='font-size:12.0pt'>                            
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='position:relative;z-index:251652608'><span style='left:0px;position:
 absolute;left:180px;top:-183px;width:28px;height:1px'><img width=28 height=1
-src="/cir-library/images/essays/the-meaning-of-submission/image002.png"></span></span><span style='font-size:12.0pt'>        
+src="/images/essays/the-meaning-of-submission/image002.png"></span></span><span style='font-size:12.0pt'>        
                                  interpersonal           leadership                parenting</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
@@ -159,7 +159,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in'><span style='position:relative;
 z-index:251657728'><span style='position:absolute;left:156px;top:-229px;
-width:1px;height:31px'><img width=1 height=31 src="/cir-library/images/essays/the-meaning-of-submission/image003.png"></span></span><span
+width:1px;height:31px'><img width=1 height=31 src="/images/essays/the-meaning-of-submission/image003.png"></span></span><span
 style='font-size:12.0pt'>                                                     God</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
@@ -168,12 +168,12 @@ style='font-size:12.0pt'>                            
 
 <p class=MsoNormal style='margin-right:-.5in'><span style='position:relative;
 z-index:251659776'><span style='position:absolute;left:200px;top:-257px;
-width:1px;height:61px'><img width=1 height=61 src="/cir-library/images/essays/the-meaning-of-submission/image004.png"></span></span><span
+width:1px;height:61px'><img width=1 height=61 src="/images/essays/the-meaning-of-submission/image004.png"></span></span><span
 style='font-size:12.0pt'>                                                     leader</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in'><span style='position:relative;
 z-index:251658752'><span style='position:absolute;left:156px;top:-261px;
-width:1px;height:33px'><img width=1 height=33 src="/cir-library/images/essays/the-meaning-of-submission/image005.png"></span></span><span
+width:1px;height:33px'><img width=1 height=33 src="/images/essays/the-meaning-of-submission/image005.png"></span></span><span
 style='font-size:8.0pt'>&nbsp;</span></p>
 
 <br clear=ALL>
@@ -209,7 +209,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>                                   <img width=243
-height=101 src="/cir-library/images/essays/the-meaning-of-submission/image006.png"></span></p>
+height=101 src="/images/essays/the-meaning-of-submission/image006.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>

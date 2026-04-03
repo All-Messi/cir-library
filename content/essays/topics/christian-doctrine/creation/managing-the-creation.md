@@ -40,7 +40,7 @@ line-height:18.0pt'><span style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>                              <img
-width=254 height=83 src="/cir-library/images/essays/managing-the-creation/image001.png"></span></p>
+width=254 height=83 src="/images/essays/managing-the-creation/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><b><span style='font-size:12.0pt'>            </span></b><span
@@ -58,7 +58,7 @@ have occurred had he not intervened.</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'><img width=279 height=115
-src="/cir-library/images/essays/managing-the-creation/image002.png"></span></p>
+src="/images/essays/managing-the-creation/image002.png"></span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
 line-height:18.0pt'><span style='font-size:8.0pt'>&nbsp;</span></p>
@@ -89,7 +89,7 @@ visible manner in which God breaks into history.</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'><img width=262 height=137
-src="/cir-library/images/essays/managing-the-creation/image003.png"></span></p>
+src="/images/essays/managing-the-creation/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:2.0pt'>&nbsp;</span></p>

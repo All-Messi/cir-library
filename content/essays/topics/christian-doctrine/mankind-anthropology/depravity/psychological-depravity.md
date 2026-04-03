@@ -263,7 +263,7 @@ him seems as realistic as a Jew’s being saved through Christ before he came.</
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'><img width=314 height=118
-src="/cir-library/images/essays/psychological-depravity/image001.png"></span></p>
+src="/images/essays/psychological-depravity/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
@@ -348,7 +348,7 @@ represent indirect operation, and the dashed line represents direct operation.</
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'><img width=301 height=118
-src="/cir-library/images/essays/psychological-depravity/image002.png"></span></p>
+src="/images/essays/psychological-depravity/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
@@ -547,35 +547,35 @@ Understandings of Depravity</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'><img width=399 height=170
-src="/cir-library/images/essays/psychological-depravity/image003.png"></span></p>
+src="/images/essays/psychological-depravity/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'><img width=399 height=177
-src="/cir-library/images/essays/psychological-depravity/image004.png"></span></p>
+src="/images/essays/psychological-depravity/image004.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'><img width=399 height=170
-src="/cir-library/images/essays/psychological-depravity/image005.png"></span></p>
+src="/images/essays/psychological-depravity/image005.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'><img width=399 height=170
-src="/cir-library/images/essays/psychological-depravity/image006.png"></span></p>
+src="/images/essays/psychological-depravity/image006.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'><img width=393 height=157
-src="/cir-library/images/essays/psychological-depravity/image007.png"></span></p>
+src="/images/essays/psychological-depravity/image007.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
@@ -710,7 +710,7 @@ depravity</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'><img width=249 height=59
-src="/cir-library/images/essays/psychological-depravity/image008.png"></span></p>
+src="/images/essays/psychological-depravity/image008.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>                        <b>P</b>erseverance
@@ -733,7 +733,7 @@ depravity</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'><img width=255 height=65
-src="/cir-library/images/essays/psychological-depravity/image009.png"></span></p>
+src="/images/essays/psychological-depravity/image009.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
@@ -748,7 +748,7 @@ depravity with all the adjustments that entails:</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'><img width=255 height=79
-src="/cir-library/images/essays/psychological-depravity/image010.png"></span></p>
+src="/images/essays/psychological-depravity/image010.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>

@@ -618,7 +618,7 @@ the former. Formally they relate as follows:</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'><img width=327 height=124
-src="/cir-library/images/essays/states-of-man-and-implications-for-depravity/image001.png"></span></p>
+src="/images/essays/states-of-man-and-implications-for-depravity/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>Instead of two separate circles, they
@@ -725,7 +725,7 @@ death (cp. James<b> 1</b>:14-15).</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'><img width=301 height=72
-src="/cir-library/images/essays/states-of-man-and-implications-for-depravity/image002.png"></span></p>
+src="/images/essays/states-of-man-and-implications-for-depravity/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
@@ -740,7 +740,7 @@ turn becomes life. </span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'><img width=334 height=65
-src="/cir-library/images/essays/states-of-man-and-implications-for-depravity/image003.png"></span></p>
+src="/images/essays/states-of-man-and-implications-for-depravity/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
@@ -755,7 +755,7 @@ confesses. However, the sin that occurs is canceled because of Christ. </span></
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'><img width=334 height=151
-src="/cir-library/images/essays/states-of-man-and-implications-for-depravity/image004.png"></span></p>
+src="/images/essays/states-of-man-and-implications-for-depravity/image004.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
@@ -819,7 +819,7 @@ outside-to-inside pattern, the same pattern that coveting has.</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'><img width=334 height=118
-src="/cir-library/images/essays/states-of-man-and-implications-for-depravity/image005.png"></span></p>
+src="/images/essays/states-of-man-and-implications-for-depravity/image005.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>

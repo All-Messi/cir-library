@@ -236,7 +236,7 @@ style='font-size:12.0pt'>                </span></p>
 
 <p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
 style='font-size:12.0pt'>                                                    <img
-width=154 height=108 src="/cir-library/images/essays/attributes-of-god/image001.png"></span></p>
+width=154 height=108 src="/images/essays/attributes-of-god/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
 style='font-size:12.0pt'>                         God's relation changes as the

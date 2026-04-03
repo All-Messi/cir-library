@@ -164,7 +164,7 @@ style='font-size:12.0pt'>     </span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
 style='font-size:12.0pt'><img width=333 height=238 id="Picture 1"
-src="/cir-library/images/essays/primary-factors-in-ethical-theory/image001.png"></span></p>
+src="/images/essays/primary-factors-in-ethical-theory/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
@@ -408,7 +408,7 @@ action is the understood intent. It is communicated by divine command. Telling
 the truth is an example.</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><img
-width=322 height=131 src="/cir-library/images/essays/primary-factors-in-ethical-theory/image002.png" align=left hspace=12><span
+width=322 height=131 src="/images/essays/primary-factors-in-ethical-theory/image002.png" align=left hspace=12><span
 style='font-size:12.0pt'>            The accompanying diagram shows two other
 kinds of interpersonal action and their relationship to ethics. People live
 best when they live above mere duty, legal minimums, simple                                                   </span></p>

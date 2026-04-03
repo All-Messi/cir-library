@@ -275,7 +275,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:4.5pt;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
 style='font-size:12.0pt'>                <img width=367 height=125
-src="/cir-library/images/essays/a-position-statement/image001.png"></span></p>
+src="/images/essays/a-position-statement/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:4.5pt;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
@@ -422,7 +422,7 @@ style='font-size:8.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:4.5pt;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
 style='font-size:12.0pt'>                                           <img
-width=216 height=78 src="/cir-library/images/essays/a-position-statement/image002.png"></span></p>
+width=216 height=78 src="/images/essays/a-position-statement/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:4.5pt;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
@@ -444,7 +444,7 @@ style='font-size:8.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:4.5pt;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
 style='font-size:12.0pt'>                                       <img width=222
-height=85 src="/cir-library/images/essays/a-position-statement/image003.png"></span></p>
+height=85 src="/images/essays/a-position-statement/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:4.5pt;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
@@ -459,7 +459,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:4.5pt;margin-bottom:.0001pt;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'>  <img width=222 height=85
-src="/cir-library/images/essays/a-position-statement/image004.png"></span></p>
+src="/images/essays/a-position-statement/image004.png"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:4.5pt;margin-bottom:.0001pt;text-align:center;
@@ -754,7 +754,7 @@ style='font-size:4.0pt'>&nbsp;</span></p>
 margin-bottom:0in;margin-left:4.5pt;margin-bottom:.0001pt;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'> </span><span lang=EL
 style='font-size:12.0pt'><img width=308 height=46
-src="/cir-library/images/essays/a-position-statement/image005.png"></span></p>
+src="/images/essays/a-position-statement/image005.png"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:4.5pt;margin-bottom:.0001pt;text-align:center;
@@ -1016,7 +1016,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:4.5pt;margin-bottom:.0001pt'><span style='font-size:12.0pt'> <img
-width=419 height=196 src="/cir-library/images/essays/a-position-statement/image006.png"></span></p>
+width=419 height=196 src="/images/essays/a-position-statement/image006.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:4.5pt;margin-bottom:.0001pt;text-align:justify'><span

@@ -86,7 +86,7 @@ literature is not interested just in what </span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span
 style='font-size:12.0pt'><img width=279 height=136
-src="/cir-library/images/essays/wisdom-literature/image001.png"></span></p>
+src="/images/essays/wisdom-literature/image001.png"></span></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt'>   
 </span></p>
@@ -119,7 +119,7 @@ moving toward the desired conclusion. As anyone can see</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span
 style='font-size:12.0pt'><img width=159 height=104 id="Picture 2"
-src="/cir-library/images/essays/wisdom-literature/image002.png"></span></p>
+src="/images/essays/wisdom-literature/image002.png"></span></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
@@ -140,7 +140,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span
 style='font-size:12.0pt'><img width=234 height=219 id="Picture 1"
-src="/cir-library/images/essays/wisdom-literature/image003.png"></span></p>
+src="/images/essays/wisdom-literature/image003.png"></span></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt'>&nbsp;</span></p>
 

@@ -73,7 +73,7 @@ style='font-size:6.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                  <img width=331 height=59
-id="Picture 4" src="/cir-library/images/essays/the-interpersonal-character-of-christianity/image001.png"></span></p>
+id="Picture 4" src="/images/essays/the-interpersonal-character-of-christianity/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -118,7 +118,7 @@ margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:8.0pt'>&nbsp;</s
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>         
        <img width=351 height=100 id="Picture 3"
-src="/cir-library/images/essays/the-interpersonal-character-of-christianity/image002.png"></span></p>
+src="/images/essays/the-interpersonal-character-of-christianity/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>                  </span><span
@@ -275,7 +275,7 @@ margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>    
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>            <img
-width=286 height=195 id="Picture 2" src="/cir-library/images/essays/the-interpersonal-character-of-christianity/image003.png"></span></p>
+width=286 height=195 id="Picture 2" src="/images/essays/the-interpersonal-character-of-christianity/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>                  Nature,
@@ -306,7 +306,7 @@ coping</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>               
-<img width=317 height=60 id="Picture 1" src="/cir-library/images/essays/the-interpersonal-character-of-christianity/image004.png"></span></p>
+<img width=317 height=60 id="Picture 1" src="/images/essays/the-interpersonal-character-of-christianity/image004.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>      </span></p>

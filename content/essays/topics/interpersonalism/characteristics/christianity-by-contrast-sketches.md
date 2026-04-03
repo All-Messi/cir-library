@@ -197,10 +197,10 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
 <p class=MsoNormal style='margin-bottom:0in;text-indent:.5in'><span
 style='position:relative;z-index:251660800'><span style='left:0px;position:
 absolute;left:128px;top:-255px;width:29px;height:12px'><img width=29 height=12
-src="/cir-library/images/essays/christianity-by-contrast-sketches/image001.png"></span></span><span style='position:relative;
+src="/images/essays/christianity-by-contrast-sketches/image001.png"></span></span><span style='position:relative;
 z-index:251658752'><span style='left:0px;position:absolute;left:212px;
 top:-255px;width:29px;height:12px'><img width=29 height=12
-src="/cir-library/images/essays/christianity-by-contrast-sketches/image001.png"></span></span><span style='font-size:12.0pt;
+src="/images/essays/christianity-by-contrast-sketches/image001.png"></span></span><span style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman",serif'> </span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>           interpersonal      
  alienation    repentance  +  forgiveness      reconciliation </span></p>
@@ -208,7 +208,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
 <p class=MsoNormal style='margin-bottom:0in;text-indent:.5in'><span
 style='position:relative;z-index:251656704'><span style='left:0px;position:
 absolute;left:310px;top:-256px;width:29px;height:12px'><img width=29 height=12
-src="/cir-library/images/essays/christianity-by-contrast-sketches/image001.png"></span></span><span style='font-size:12.0pt;
+src="/images/essays/christianity-by-contrast-sketches/image001.png"></span></span><span style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman",serif'>            behavior                         
                                                          (i. d. w/Christ)</span></p>
 

@@ -229,7 +229,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
 style='font-size:12.0pt'>     <img width=339 height=109 id="Picture 2"
-src="/cir-library/images/essays/indwelling-of-hs-as-non-locational/image001.png"></span></p>
+src="/images/essays/indwelling-of-hs-as-non-locational/image001.png"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
@@ -277,7 +277,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                      <img width=305 height=154
-id="Picture 1" src="/cir-library/images/essays/indwelling-of-hs-as-non-locational/image002.png"></span></p>
+id="Picture 1" src="/images/essays/indwelling-of-hs-as-non-locational/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
