@@ -138,6 +138,7 @@ a:hover {
     align-items: center;
     height: var(--header-height);
     gap: var(--space-xl);
+    flex-wrap: nowrap;
 }
 
 /* Logo area */
@@ -229,6 +230,8 @@ a:hover {
 /* Navigation */
 .main-nav {
     margin-left: auto;
+    flex-shrink: 1;
+    min-width: 0;
 }
 
 .main-nav ul {
@@ -237,6 +240,7 @@ a:hover {
     gap: var(--space-sm);
     margin: 0;
     padding: 0;
+    flex-wrap: nowrap;
 }
 
 .main-nav a {
@@ -247,6 +251,7 @@ a:hover {
     padding: var(--space-sm) var(--space-md);
     border-radius: 6px;
     transition: all var(--transition-fast);
+    white-space: nowrap;
 }
 
 .main-nav a:hover {
@@ -1186,6 +1191,7 @@ html body .site-header .header-content {
     height: 70px !important;
     gap: 2rem !important;
     justify-content: flex-start !important;
+    flex-wrap: nowrap !important;
 }
 
 html body .site-header .site-branding {
