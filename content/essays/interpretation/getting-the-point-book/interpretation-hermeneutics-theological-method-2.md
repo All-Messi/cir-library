@@ -1,5 +1,5 @@
 ---
-title: "INTERPRETATION, HERMENEUTICS, THEOLOGICAL METHOD"
+title: "Interpretation, Hermeneutics, Theological Method"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
 categories:

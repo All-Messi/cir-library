@@ -1,13 +1,11 @@
 ---
-author: "G.\tReading restrictive for nonrestrictive (or positive)\t              \
-  \ Virgil Warren, PhD"
+author: "Virgil Warren, PhD"
 categories:
 - Interpretation
 - Getting The Point Book
 date: '2026-02-16'
 draft: false
-title: "G.\tReading restrictive for nonrestrictive (or positive)\t               Virgil\
-  \ Warren, PhD"
+title: "Pitfall: Reading Restrictive for Non-Restrictive"
 weight: 26
 ---
 

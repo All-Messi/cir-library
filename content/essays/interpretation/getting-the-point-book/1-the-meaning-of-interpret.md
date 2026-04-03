@@ -1,5 +1,5 @@
 ---
-title: "1. The meaning of 'interpret'"
+title: "The Meaning of Interpret"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
 categories:

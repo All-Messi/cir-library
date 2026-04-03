@@ -1,5 +1,5 @@
 ---
-title: "INTERPRETATION IN HEBREWS CONTRASTED TO THE ALLEGORICAL METHOD OF PHILO"
+title: "Appendix: Interpretation in Hebrews vs. Philo"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
 categories:

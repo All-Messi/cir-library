@@ -1,5 +1,5 @@
 ---
-title: "1. Ways of referring to the problem a. It is a 'foregone conclusion.' b. Prooftexting"
+title: "Pitfall: Setting the Conclusion and Working Toward It"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
 categories:

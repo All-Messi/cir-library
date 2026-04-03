@@ -23,7 +23,7 @@
                 {{ $chapterCount := len $book.RegularPages }}
                 {{ $spineClass := index $spineClasses $i }}
                 {{ if gt $chapterCount 0 }}
-                <a href="{{ with $book.Params.book_redirect }}{{ . }}{{ else }}{{ $book.RelPermalink }}{{ end }}" class="hp-bookcard {{ $spineClass }}">
+                <a href="{{ with $book.Params.book_redirect }}{{ . | absURL }}{{ else }}{{ $book.RelPermalink }}{{ end }}" class="hp-bookcard {{ $spineClass }}">
                 {{ else }}
                 <div class="hp-bookcard {{ $spineClass }}">
                 {{ end }}

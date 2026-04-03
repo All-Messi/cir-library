@@ -1,6 +1,6 @@
 ---
-title: "A. Streamlining Causal Distinctions"
-author: "Virgil Warren, christir.org"
+title: "Streamlining Causal Distinctions"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
 categories:
 - 'Interpretation'

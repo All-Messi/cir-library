@@ -2,7 +2,7 @@
 title: "The Nature of Man"
 book: true
 book_weight: 3
-book_redirect: "/cir-library/categories/nature-of-man-book/"
+book_redirect: "categories/nature-of-man-book/"
 book_title: "The Nature of Man"
 ---
 

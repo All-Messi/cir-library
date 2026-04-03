@@ -1,5 +1,5 @@
 ---
-title: "HERMENEUTICS: GETTING THE POINT: AN OUTLINE"
+title: "Hermeneutics: Getting the Point — Outline"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
 categories:

@@ -1,13 +1,11 @@
 ---
-author: E. Misidentifying the Intended Reference (frame of reference)      Virgil
-  Warren, PhD
+author: "Virgil Warren, PhD"
 categories:
 - Interpretation
 - Getting The Point Book
 date: '2026-02-16'
 draft: false
-title: E. Misidentifying the Intended Reference (frame of reference)      Virgil Warren,
-  PhD
+title: "Pitfall: Misidentifying the Intended Referent"
 weight: 23
 ---
 

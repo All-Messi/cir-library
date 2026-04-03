@@ -1,5 +1,5 @@
 ---
-title: "NEW TESTAMENT INTERPRETATION OF OLD TESTAMENT TEXTS"
+title: "Appendix: NT Interpretation of OT Texts"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
 categories:

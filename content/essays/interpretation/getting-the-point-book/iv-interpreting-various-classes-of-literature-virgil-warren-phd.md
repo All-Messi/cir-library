@@ -1,11 +1,11 @@
 ---
-author: IV. INTERPRETING VARIOUS CLASSES OF LITERATURE      Virgil Warren, PhD
+author: "Virgil Warren, PhD"
 categories:
 - Interpretation
 - Getting The Point Book
 date: '2026-02-16'
 draft: false
-title: IV. INTERPRETING VARIOUS CLASSES OF LITERATURE      Virgil Warren, PhD
+title: "Interpreting Various Genre"
 weight: 14
 ---
 

@@ -5,7 +5,7 @@ categories:
 - Getting The Point Book
 date: '2026-02-16'
 draft: false
-title: "H. Technicalizing terminology\t\t Virgil Warren, PhD"
+title: "Pitfall: Technicalizing Terminology"
 weight: 28
 ---
 

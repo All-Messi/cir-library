@@ -1,11 +1,11 @@
 ---
-author: b. Presuppositions (accompanying misinformation)         Virgil Warren, PhD
+author: "Virgil Warren, PhD"
 categories:
 - Interpretation
 - Getting The Point Book
 date: '2026-02-16'
 draft: false
-title: b. Presuppositions (accompanying misinformation)         Virgil Warren, PhD
+title: "Hindrances: Presuppositions"
 weight: 8
 ---
 

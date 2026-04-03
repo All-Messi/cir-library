@@ -5,7 +5,7 @@ categories:
 - Getting The Point Book
 date: '2026-02-16'
 draft: false
-title: "C. Confusing example and precedent \t Virgil Warren, PhD"
+title: "Pitfall: Confusing Example and Precedent"
 weight: 16
 ---
 

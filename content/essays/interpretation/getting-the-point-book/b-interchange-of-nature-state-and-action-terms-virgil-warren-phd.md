@@ -1,13 +1,11 @@
 ---
-author: B. Interchange of Nature, State, and Action Terms                Virgil Warren,
-  PhD
+author: "Virgil Warren, PhD"
 categories:
 - Interpretation
 - Getting The Point Book
 date: '2026-02-16'
 draft: false
-title: B. Interchange of Nature, State, and Action Terms                Virgil Warren,
-  PhD
+title: "Interchanging Nature, State, and Action Terms"
 weight: 11
 ---
 

@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 {{/* ── BOOK CHAPTER NAV (only if parent section is a book) ── */}}
-{{ $isBook := eq .Parent.Params.layout "book-toc" }}
+{{ $isBook := or (eq .Parent.Params.layout "book-toc") (.Parent.Params.book) }}
 {{ $pages := .Parent.RegularPages.ByWeight }}
 {{ $currentIdx := 0 }}
 {{ range $i, $p := $pages }}{{ if eq $p.Permalink $.Permalink }}{{ $currentIdx = $i }}{{ end }}{{ end }}
@@ -12,7 +12,7 @@
 
 {{ if $isBook }}
 <nav class="book-chapter-nav book-chapter-nav-top">
-    <a href="{{ .Parent.Permalink }}" class="book-nav-back">← {{ .Parent.Title }}</a>
+    <a href="{{ with .Parent.Params.book_redirect }}{{ . | absURL }}{{ else }}{{ .Parent.Permalink }}{{ end }}" class="book-nav-back">← {{ .Parent.Title }}</a>
     <span class="book-nav-chapter">Ch. {{ add $currentIdx 1 }} of {{ len $pages }}</span>
 </nav>
 {{ if $hasPrev }}<a href="{{ $prev.Permalink }}" class="book-float-arrow book-float-prev" title="Previous chapter">‹</a>{{ end }}

@@ -28,7 +28,7 @@
             {{/* Book redirect: link to book chapter-grid view instead of essay drilldown */}}
             {{ if .Params.book_redirect }}
             <div class="el-subcat-group">
-                <a href="{{ .Params.book_redirect }}" class="el-subcat-row el-book-link">
+                <a href="{{ .Params.book_redirect | absURL }}" class="el-subcat-row el-book-link">
                     <span class="el-book-icon">📖</span>
                     <span class="el-subcat-name">{{ with .Params.book_title }}{{ . }}{{ else }}{{ .Title | lower | title }}{{ end }}</span>
                     <span class="el-subcat-count">View Book →</span>

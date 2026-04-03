@@ -1,5 +1,5 @@
 ---
-title: "CONCEPT INVENTORY"
+title: "Appendix: Concept Inventory"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
 categories:

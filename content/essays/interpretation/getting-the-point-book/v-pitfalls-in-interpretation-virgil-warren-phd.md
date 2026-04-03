@@ -5,7 +5,7 @@ categories:
 - Getting The Point Book
 date: '2026-02-16'
 draft: false
-title: "V. PITFALLS IN INTERPRETATION \t Virgil Warren, PhD"
+title: "Pitfalls in Interpretation: Allegorizing the Comparison"
 weight: 15
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "WISDOM AND LAW: DIVORCE"
+title: "Appendix: Wisdom and Law — Divorce"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
 categories:

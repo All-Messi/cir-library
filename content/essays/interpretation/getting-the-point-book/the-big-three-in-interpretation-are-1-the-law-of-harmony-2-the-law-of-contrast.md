@@ -1,5 +1,5 @@
 ---
-title: "The 'big three' in interpretation are (1) the law of harmony, (2) the law of contrast, and (3) the nature of the case. All three amount to one thing—the law of harmony, but we sort them out to stress the peculiar contribution each aspect makes to the whole. A. Law of harmony (analogy)"
+title: "The Big Three"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
 categories:

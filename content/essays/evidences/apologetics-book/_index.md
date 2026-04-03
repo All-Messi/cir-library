@@ -3,7 +3,7 @@ title: "Apologetics"
 book: true
 book_weight: 5
 weight: 1
-book_redirect: "/cir-library/categories/apologetics-book/"
+book_redirect: "categories/apologetics-book/"
 book_title: "Apologetics"
 ---
 

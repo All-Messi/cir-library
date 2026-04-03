@@ -1,5 +1,5 @@
 ---
-title: "BIBLICAL FIGURES OF SPEECH"
+title: "Appendix: Biblical Figures of Speech"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
 categories:

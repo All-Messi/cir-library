@@ -5,7 +5,7 @@ categories:
 - Getting The Point Book
 date: '2026-02-16'
 draft: false
-title: "B. Misidentifying the genre\t Virgil Warren, PhD"
+title: "Pitfall: Misidentifying the Genre"
 weight: 17
 ---
 

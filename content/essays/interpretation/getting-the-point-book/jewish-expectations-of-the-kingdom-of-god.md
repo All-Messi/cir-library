@@ -1,11 +1,11 @@
 ---
-author: Virgil Warren, PhD
+author: "Virgil Warren, PhD"
 categories:
 - Interpretation
 - Getting The Point Book
 date: '2026-02-16'
 draft: false
-title: JEWISH EXPECTATIONS OF THE KINGDOM OF GOD
+title: "Appendix: Jewish Expectations of the Kingdom of God"
 weight: 101
 ---
 

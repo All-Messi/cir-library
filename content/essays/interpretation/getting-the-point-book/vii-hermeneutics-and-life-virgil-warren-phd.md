@@ -5,7 +5,7 @@ categories:
 - Getting The Point Book
 date: '2026-02-16'
 draft: false
-title: "VII. HERMENEUTICS AND LIFE \t Virgil Warren, PhD"
+title: "Hermeneutics and Life"
 weight: 48
 ---
 

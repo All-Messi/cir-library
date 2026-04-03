@@ -1,6 +1,6 @@
 ---
-title: "D. Adopting an inappropriate model (cp. allegorizing comparisons and nature of the"
-author: "case) Virgil Warre, PhD"
+title: "Pitfall: Adopting an Inappropriate Model"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
 categories:
 - 'Interpretation'

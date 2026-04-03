@@ -1,5 +1,5 @@
 ---
-title: "GETTING THE POINT"
+title: "Introduction: The Nature of Language Communication"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
 categories:

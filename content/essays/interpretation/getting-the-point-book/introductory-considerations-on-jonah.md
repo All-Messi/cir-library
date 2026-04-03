@@ -1,5 +1,5 @@
 ---
-title: "INTRODUCTORY CONSIDERATIONS ON JONAH"
+title: "Appendix: Introductory Considerations on Jonah"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
 categories:

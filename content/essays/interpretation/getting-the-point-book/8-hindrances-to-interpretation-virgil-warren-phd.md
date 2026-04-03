@@ -5,7 +5,7 @@ categories:
 - Getting The Point Book
 date: '2026-02-16'
 draft: false
-title: "8. Hindrances to interpretation \t Virgil Warren, PhD"
+title: "Hindrances to Interpretation: Pride"
 weight: 7
 ---
 

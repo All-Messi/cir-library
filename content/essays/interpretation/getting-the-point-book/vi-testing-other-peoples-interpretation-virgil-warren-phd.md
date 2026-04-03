@@ -1,13 +1,11 @@
 ---
-author: VI. TESTING OTHER PEOPLE'S INTERPRETATION                   Virgil Warren,
-  PhD
+author: "Virgil Warren, PhD"
 categories:
 - Interpretation
 - Getting The Point Book
 date: '2026-02-16'
 draft: false
-title: VI. TESTING OTHER PEOPLE'S INTERPRETATION                   Virgil Warren,
-  PhD
+title: "Testing Other Peoples Interpretation"
 weight: 46
 ---
 

@@ -5,7 +5,7 @@ categories:
 - Getting The Point Book
 date: '2026-02-16'
 draft: false
-title: "F. Confusing language and reality\t Virgil Warren, PhD"
+title: "Pitfall: Confusing Language and Reality"
 weight: 25
 ---
 

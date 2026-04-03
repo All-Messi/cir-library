@@ -1,6 +1,6 @@
 ---
-title: "HERMENEUTICS: GETTING THE POINT"
-author: "Virgil Warren, christir.org"
+title: "Hermeneutics: Getting the Point"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
 categories:
 - 'Interpretation'

@@ -1,5 +1,5 @@
 ---
-title: "COMMENTS ON 'FULFILL'"
+title: "Appendix: Comments on Fulfill"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
 categories:

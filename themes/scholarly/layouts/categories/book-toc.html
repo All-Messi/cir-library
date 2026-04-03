@@ -22,7 +22,7 @@
                 <button class="popup-close" id="popupClose">×</button>
             </div>
             <div class="chapter-grid">
-                {{ range $index, $page := .Pages.ByTitle }}
+                {{ range $index, $page := .Pages.ByWeight }}
                 <a href="{{ .RelPermalink }}" class="chapter-cell" title="{{ .Title }}">{{ add $index 1 }}</a>
                 {{ end }}
             </div>
@@ -37,7 +37,7 @@
             <span class="toc-arrow">▸</span>
         </summary>
         <div class="chapter-list">
-            {{ range $index, $page := .Pages.ByTitle }}
+            {{ range $index, $page := .Pages.ByWeight }}
             <a href="{{ .RelPermalink }}" class="chapter-item">
                 <span class="chapter-number">{{ add $index 1 }}</span>
                 <span class="chapter-title">{{ .Title }}</span>
