@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
     <link rel="stylesheet" href="{{ "css/enhancements.css" | relURL }}">
     {{ block "head" . }}{{ end }}
+    {{ if hugo.IsProduction }}{{ template "_internal/google_analytics.html" . }}{{ end }}
 </head>
 <body>
     <header class="site-header">

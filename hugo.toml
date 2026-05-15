@@ -2,6 +2,7 @@ baseURL = 'https://christir.org/'
 languageCode = 'en-us'
 title = 'Christian Internet Resources'
 theme = 'scholarly'
+googleAnalytics = 'G-65KM86FCYC'
 
 [params]
   author = "Virgil Warren, PhD"
