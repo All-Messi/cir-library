@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 110
 title: Psalms 110
-translation: CNT
+translation: COT
 type: chapter
 weight: 110
 prev: chapter-109

@@ -2,7 +2,7 @@
 book: Leviticus
 chapter: 12
 title: Leviticus 12
-translation: CNT
+translation: COT
 type: chapter
 weight: 12
 prev: chapter-11

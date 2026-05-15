@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 99
 title: Psalms 99
-translation: CNT
+translation: COT
 type: chapter
 weight: 99
 prev: chapter-98

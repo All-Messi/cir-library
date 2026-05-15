@@ -2,7 +2,7 @@
 book: 2 Kings
 chapter: 24
 title: 2 Kings 24
-translation: CNT
+translation: COT
 type: chapter
 weight: 24
 prev: chapter-23

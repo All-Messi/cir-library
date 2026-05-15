@@ -2,7 +2,7 @@
 book: 2 Kings
 chapter: 3
 title: 2 Kings 3
-translation: CNT
+translation: COT
 type: chapter
 weight: 3
 prev: chapter-02

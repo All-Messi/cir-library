@@ -2,7 +2,7 @@
 book: Numbers
 chapters: 36
 title: Numbers
-translation: CNT
+translation: COT
 type: book
 weight: 4
 ---

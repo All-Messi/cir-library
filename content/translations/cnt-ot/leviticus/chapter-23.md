@@ -2,7 +2,7 @@
 book: Leviticus
 chapter: 23
 title: Leviticus 23
-translation: CNT
+translation: COT
 type: chapter
 weight: 23
 prev: chapter-22

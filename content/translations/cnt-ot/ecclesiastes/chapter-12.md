@@ -2,7 +2,7 @@
 book: Ecclesiastes
 chapter: 12
 title: Ecclesiastes 12
-translation: CNT
+translation: COT
 type: chapter
 weight: 12
 prev: chapter-11

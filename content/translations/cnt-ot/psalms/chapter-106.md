@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 106
 title: Psalms 106
-translation: CNT
+translation: COT
 type: chapter
 weight: 106
 prev: chapter-105

@@ -2,7 +2,7 @@
 book: Micah
 chapter: 5
 title: Micah 5
-translation: CNT
+translation: COT
 type: chapter
 weight: 5
 prev: chapter-04

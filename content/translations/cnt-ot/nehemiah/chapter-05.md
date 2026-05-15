@@ -2,7 +2,7 @@
 book: Nehemiah
 chapter: 5
 title: Nehemiah 5
-translation: CNT
+translation: COT
 type: chapter
 weight: 5
 prev: chapter-04

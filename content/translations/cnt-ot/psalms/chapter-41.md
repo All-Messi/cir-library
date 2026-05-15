@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 41
 title: Psalms 41
-translation: CNT
+translation: COT
 type: chapter
 weight: 41
 prev: chapter-40

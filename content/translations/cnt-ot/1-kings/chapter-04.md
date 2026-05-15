@@ -2,7 +2,7 @@
 book: 1 Kings
 chapter: 4
 title: 1 Kings 4
-translation: CNT
+translation: COT
 type: chapter
 weight: 4
 prev: chapter-03

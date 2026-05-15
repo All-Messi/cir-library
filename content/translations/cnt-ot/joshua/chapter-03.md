@@ -2,7 +2,7 @@
 book: Joshua
 chapter: 3
 title: Joshua 3
-translation: CNT
+translation: COT
 type: chapter
 weight: 3
 prev: chapter-02

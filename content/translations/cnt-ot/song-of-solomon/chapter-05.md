@@ -2,7 +2,7 @@
 book: Song of Solomon
 chapter: 5
 title: Song of Solomon 5
-translation: CNT
+translation: COT
 type: chapter
 weight: 5
 prev: chapter-04

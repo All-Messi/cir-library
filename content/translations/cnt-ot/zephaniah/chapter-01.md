@@ -2,7 +2,7 @@
 book: Zephaniah
 chapter: 1
 title: Zephaniah 1
-translation: CNT
+translation: COT
 type: chapter
 weight: 1
 next: chapter-02

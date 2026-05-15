@@ -2,7 +2,7 @@
 book: Exodus
 chapters: 40
 title: Exodus
-translation: CNT
+translation: COT
 type: book
 weight: 2
 ---

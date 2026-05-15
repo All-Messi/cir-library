@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 25
 title: Psalms 25
-translation: CNT
+translation: COT
 type: chapter
 weight: 25
 prev: chapter-24

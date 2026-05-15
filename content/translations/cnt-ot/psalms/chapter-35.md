@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 35
 title: Psalms 35
-translation: CNT
+translation: COT
 type: chapter
 weight: 35
 prev: chapter-34

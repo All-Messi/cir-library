@@ -2,7 +2,7 @@
 book: Jeremiah
 chapter: 41
 title: Jeremiah 41
-translation: CNT
+translation: COT
 type: chapter
 weight: 41
 prev: chapter-40

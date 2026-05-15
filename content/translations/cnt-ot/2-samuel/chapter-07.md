@@ -2,7 +2,7 @@
 book: 2 Samuel
 chapter: 7
 title: 2 Samuel 7
-translation: CNT
+translation: COT
 type: chapter
 weight: 7
 prev: chapter-06

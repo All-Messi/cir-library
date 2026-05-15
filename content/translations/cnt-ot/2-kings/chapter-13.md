@@ -2,7 +2,7 @@
 book: 2 Kings
 chapter: 13
 title: 2 Kings 13
-translation: CNT
+translation: COT
 type: chapter
 weight: 13
 prev: chapter-12

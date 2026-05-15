@@ -2,7 +2,7 @@
 book: Nehemiah
 chapter: 7
 title: Nehemiah 7
-translation: CNT
+translation: COT
 type: chapter
 weight: 7
 prev: chapter-06

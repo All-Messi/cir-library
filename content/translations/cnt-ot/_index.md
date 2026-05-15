@@ -2,7 +2,7 @@
 title: "Conversational Old Testament"
 type: "translation"
 layout: "translation-home"
-translation: "CNT"
+translation: "COT"
 testament: "old"
 weight: 2
 ---

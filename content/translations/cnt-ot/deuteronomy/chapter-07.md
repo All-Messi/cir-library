@@ -2,7 +2,7 @@
 book: Deuteronomy
 chapter: 7
 title: Deuteronomy 7
-translation: CNT
+translation: COT
 type: chapter
 weight: 7
 prev: chapter-06

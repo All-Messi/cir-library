@@ -2,7 +2,7 @@
 book: Genesis
 chapter: 28
 title: Genesis 28
-translation: CNT
+translation: COT
 type: chapter
 weight: 28
 prev: chapter-27

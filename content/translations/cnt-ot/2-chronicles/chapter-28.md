@@ -2,7 +2,7 @@
 book: 2 Chronicles
 chapter: 28
 title: 2 Chronicles 28
-translation: CNT
+translation: COT
 type: chapter
 weight: 28
 prev: chapter-27

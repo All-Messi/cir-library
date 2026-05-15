@@ -2,7 +2,7 @@
 book: Isaiah
 chapter: 53
 title: Isaiah 53
-translation: CNT
+translation: COT
 type: chapter
 weight: 53
 prev: chapter-52

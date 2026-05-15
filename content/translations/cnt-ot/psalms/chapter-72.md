@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 72
 title: Psalms 72
-translation: CNT
+translation: COT
 type: chapter
 weight: 72
 prev: chapter-71

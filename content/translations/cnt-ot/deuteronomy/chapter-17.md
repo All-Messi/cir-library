@@ -2,7 +2,7 @@
 book: Deuteronomy
 chapter: 17
 title: Deuteronomy 17
-translation: CNT
+translation: COT
 type: chapter
 weight: 17
 prev: chapter-16

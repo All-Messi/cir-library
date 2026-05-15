@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 146
 title: Psalms 146
-translation: CNT
+translation: COT
 type: chapter
 weight: 146
 prev: chapter-145

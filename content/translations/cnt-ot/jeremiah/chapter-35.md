@@ -2,7 +2,7 @@
 book: Jeremiah
 chapter: 35
 title: Jeremiah 35
-translation: CNT
+translation: COT
 type: chapter
 weight: 35
 prev: chapter-34

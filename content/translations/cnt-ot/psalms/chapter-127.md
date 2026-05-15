@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 127
 title: Psalms 127
-translation: CNT
+translation: COT
 type: chapter
 weight: 127
 prev: chapter-126

@@ -2,7 +2,7 @@
 book: Proverbs
 chapter: 4
 title: Proverbs 4
-translation: CNT
+translation: COT
 type: chapter
 weight: 4
 prev: chapter-03

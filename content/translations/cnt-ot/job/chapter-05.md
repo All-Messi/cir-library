@@ -2,7 +2,7 @@
 book: Job
 chapter: 5
 title: Job 5
-translation: CNT
+translation: COT
 type: chapter
 weight: 5
 prev: chapter-04

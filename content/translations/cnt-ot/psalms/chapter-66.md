@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 66
 title: Psalms 66
-translation: CNT
+translation: COT
 type: chapter
 weight: 66
 prev: chapter-65

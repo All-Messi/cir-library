@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 88
 title: Psalms 88
-translation: CNT
+translation: COT
 type: chapter
 weight: 88
 prev: chapter-87

@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 87
 title: Psalms 87
-translation: CNT
+translation: COT
 type: chapter
 weight: 87
 prev: chapter-86

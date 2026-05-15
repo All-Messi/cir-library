@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 78
 title: Psalms 78
-translation: CNT
+translation: COT
 type: chapter
 weight: 78
 prev: chapter-77

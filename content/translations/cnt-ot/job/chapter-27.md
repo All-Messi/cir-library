@@ -2,7 +2,7 @@
 book: Job
 chapter: 27
 title: Job 27
-translation: CNT
+translation: COT
 type: chapter
 weight: 27
 prev: chapter-26

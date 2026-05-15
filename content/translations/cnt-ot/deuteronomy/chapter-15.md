@@ -2,7 +2,7 @@
 book: Deuteronomy
 chapter: 15
 title: Deuteronomy 15
-translation: CNT
+translation: COT
 type: chapter
 weight: 15
 prev: chapter-14

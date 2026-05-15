@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 138
 title: Psalms 138
-translation: CNT
+translation: COT
 type: chapter
 weight: 138
 prev: chapter-137

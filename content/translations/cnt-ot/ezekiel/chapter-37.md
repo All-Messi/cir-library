@@ -2,7 +2,7 @@
 book: Ezekiel
 chapter: 37
 title: Ezekiel 37
-translation: CNT
+translation: COT
 type: chapter
 weight: 37
 prev: chapter-36

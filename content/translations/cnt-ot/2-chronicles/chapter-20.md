@@ -2,7 +2,7 @@
 book: 2 Chronicles
 chapter: 20
 title: 2 Chronicles 20
-translation: CNT
+translation: COT
 type: chapter
 weight: 20
 prev: chapter-19

@@ -2,7 +2,7 @@
 book: 2 Samuel
 chapter: 3
 title: 2 Samuel 3
-translation: CNT
+translation: COT
 type: chapter
 weight: 3
 prev: chapter-02

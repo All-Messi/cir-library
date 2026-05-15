@@ -2,7 +2,7 @@
 book: Isaiah
 chapter: 64
 title: Isaiah 64
-translation: CNT
+translation: COT
 type: chapter
 weight: 64
 prev: chapter-63

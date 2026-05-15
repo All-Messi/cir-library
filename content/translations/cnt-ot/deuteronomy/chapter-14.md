@@ -2,7 +2,7 @@
 book: Deuteronomy
 chapter: 14
 title: Deuteronomy 14
-translation: CNT
+translation: COT
 type: chapter
 weight: 14
 prev: chapter-13

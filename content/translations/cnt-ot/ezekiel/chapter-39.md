@@ -2,7 +2,7 @@
 book: Ezekiel
 chapter: 39
 title: Ezekiel 39
-translation: CNT
+translation: COT
 type: chapter
 weight: 39
 prev: chapter-38

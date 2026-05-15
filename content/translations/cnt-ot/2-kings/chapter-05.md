@@ -2,7 +2,7 @@
 book: 2 Kings
 chapter: 5
 title: 2 Kings 5
-translation: CNT
+translation: COT
 type: chapter
 weight: 5
 prev: chapter-04

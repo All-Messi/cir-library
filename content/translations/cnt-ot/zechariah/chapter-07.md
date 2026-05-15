@@ -2,7 +2,7 @@
 book: Zechariah
 chapter: 7
 title: Zechariah 7
-translation: CNT
+translation: COT
 type: chapter
 weight: 7
 prev: chapter-06

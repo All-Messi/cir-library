@@ -2,7 +2,7 @@
 book: Esther
 chapters: 10
 title: Esther
-translation: CNT
+translation: COT
 type: book
 weight: 17
 ---

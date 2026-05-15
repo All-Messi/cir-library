@@ -2,7 +2,7 @@
 book: 2 Chronicles
 chapter: 30
 title: 2 Chronicles 30
-translation: CNT
+translation: COT
 type: chapter
 weight: 30
 prev: chapter-29

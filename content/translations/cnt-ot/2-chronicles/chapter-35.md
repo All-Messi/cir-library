@@ -2,7 +2,7 @@
 book: 2 Chronicles
 chapter: 35
 title: 2 Chronicles 35
-translation: CNT
+translation: COT
 type: chapter
 weight: 35
 prev: chapter-34

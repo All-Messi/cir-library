@@ -2,7 +2,7 @@
 book: Isaiah
 chapter: 61
 title: Isaiah 61
-translation: CNT
+translation: COT
 type: chapter
 weight: 61
 prev: chapter-60

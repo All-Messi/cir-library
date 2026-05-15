@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 122
 title: Psalms 122
-translation: CNT
+translation: COT
 type: chapter
 weight: 122
 prev: chapter-121

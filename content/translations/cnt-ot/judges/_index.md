@@ -2,7 +2,7 @@
 book: Judges
 chapters: 21
 title: Judges
-translation: CNT
+translation: COT
 type: book
 weight: 7
 ---

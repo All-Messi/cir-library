@@ -2,7 +2,7 @@
 book: Isaiah
 chapter: 63
 title: Isaiah 63
-translation: CNT
+translation: COT
 type: chapter
 weight: 63
 prev: chapter-62

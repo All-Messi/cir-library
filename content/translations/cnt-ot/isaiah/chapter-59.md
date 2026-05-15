@@ -2,7 +2,7 @@
 book: Isaiah
 chapter: 59
 title: Isaiah 59
-translation: CNT
+translation: COT
 type: chapter
 weight: 59
 prev: chapter-58

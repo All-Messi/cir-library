@@ -2,7 +2,7 @@
 book: 2 Kings
 chapters: 25
 title: 2 Kings
-translation: CNT
+translation: COT
 type: book
 weight: 51
 ---

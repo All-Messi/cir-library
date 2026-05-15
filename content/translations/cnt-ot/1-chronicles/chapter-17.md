@@ -2,7 +2,7 @@
 book: 1 Chronicles
 chapter: 17
 title: 1 Chronicles 17
-translation: CNT
+translation: COT
 type: chapter
 weight: 17
 prev: chapter-16

@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 121
 title: Psalms 121
-translation: CNT
+translation: COT
 type: chapter
 weight: 121
 prev: chapter-120

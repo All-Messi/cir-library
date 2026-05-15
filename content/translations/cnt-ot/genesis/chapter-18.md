@@ -2,7 +2,7 @@
 book: Genesis
 chapter: 18
 title: Genesis 18
-translation: CNT
+translation: COT
 type: chapter
 weight: 18
 prev: chapter-17

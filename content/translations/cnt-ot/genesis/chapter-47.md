@@ -2,7 +2,7 @@
 book: Genesis
 chapter: 47
 title: Genesis 47
-translation: CNT
+translation: COT
 type: chapter
 weight: 47
 prev: chapter-46

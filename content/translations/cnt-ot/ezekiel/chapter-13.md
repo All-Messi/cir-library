@@ -2,7 +2,7 @@
 book: Ezekiel
 chapter: 13
 title: Ezekiel 13
-translation: CNT
+translation: COT
 type: chapter
 weight: 13
 prev: chapter-12

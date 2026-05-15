@@ -2,7 +2,7 @@
 book: 2 Kings
 chapter: 2
 title: 2 Kings 2
-translation: CNT
+translation: COT
 type: chapter
 weight: 2
 prev: chapter-01

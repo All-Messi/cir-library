@@ -2,7 +2,7 @@
 book: Numbers
 chapter: 21
 title: Numbers 21
-translation: CNT
+translation: COT
 type: chapter
 weight: 21
 prev: chapter-20

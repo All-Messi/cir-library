@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 15
 title: Psalms 15
-translation: CNT
+translation: COT
 type: chapter
 weight: 15
 prev: chapter-14

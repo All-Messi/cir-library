@@ -2,7 +2,7 @@
 book: Proverbs
 chapter: 24
 title: Proverbs 24
-translation: CNT
+translation: COT
 type: chapter
 weight: 24
 prev: chapter-23

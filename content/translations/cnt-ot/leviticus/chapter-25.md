@@ -2,7 +2,7 @@
 book: Leviticus
 chapter: 25
 title: Leviticus 25
-translation: CNT
+translation: COT
 type: chapter
 weight: 25
 prev: chapter-24

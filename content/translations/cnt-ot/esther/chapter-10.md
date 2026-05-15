@@ -2,7 +2,7 @@
 book: Esther
 chapter: 10
 title: Esther 10
-translation: CNT
+translation: COT
 type: chapter
 weight: 10
 prev: chapter-09

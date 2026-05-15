@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 113
 title: Psalms 113
-translation: CNT
+translation: COT
 type: chapter
 weight: 113
 prev: chapter-112

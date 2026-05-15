@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 132
 title: Psalms 132
-translation: CNT
+translation: COT
 type: chapter
 weight: 132
 prev: chapter-131

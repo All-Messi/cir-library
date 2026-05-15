@@ -2,7 +2,7 @@
 book: Genesis
 chapter: 8
 title: Genesis 8
-translation: CNT
+translation: COT
 type: chapter
 weight: 8
 prev: chapter-07

@@ -2,7 +2,7 @@
 book: Numbers
 chapter: 33
 title: Numbers 33
-translation: CNT
+translation: COT
 type: chapter
 weight: 33
 prev: chapter-32

@@ -2,7 +2,7 @@
 book: Isaiah
 chapter: 35
 title: Isaiah 35
-translation: CNT
+translation: COT
 type: chapter
 weight: 35
 prev: chapter-34

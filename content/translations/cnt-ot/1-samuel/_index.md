@@ -2,7 +2,7 @@
 book: 1 Samuel
 chapters: 31
 title: 1 Samuel
-translation: CNT
+translation: COT
 type: book
 weight: 48
 ---

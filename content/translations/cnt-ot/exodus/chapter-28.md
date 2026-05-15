@@ -2,7 +2,7 @@
 book: Exodus
 chapter: 28
 title: Exodus 28
-translation: CNT
+translation: COT
 type: chapter
 weight: 28
 prev: chapter-27

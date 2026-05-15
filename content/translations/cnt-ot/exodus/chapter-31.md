@@ -2,7 +2,7 @@
 book: Exodus
 chapter: 31
 title: Exodus 31
-translation: CNT
+translation: COT
 type: chapter
 weight: 31
 prev: chapter-30

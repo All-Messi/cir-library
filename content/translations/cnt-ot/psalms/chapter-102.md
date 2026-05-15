@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 102
 title: Psalms 102
-translation: CNT
+translation: COT
 type: chapter
 weight: 102
 prev: chapter-101

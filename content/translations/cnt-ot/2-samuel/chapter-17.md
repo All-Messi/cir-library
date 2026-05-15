@@ -2,7 +2,7 @@
 book: 2 Samuel
 chapter: 17
 title: 2 Samuel 17
-translation: CNT
+translation: COT
 type: chapter
 weight: 17
 prev: chapter-16

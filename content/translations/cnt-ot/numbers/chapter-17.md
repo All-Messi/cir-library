@@ -2,7 +2,7 @@
 book: Numbers
 chapter: 17
 title: Numbers 17
-translation: CNT
+translation: COT
 type: chapter
 weight: 17
 prev: chapter-16

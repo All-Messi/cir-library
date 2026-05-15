@@ -2,7 +2,7 @@
 book: Genesis
 chapter: 45
 title: Genesis 45
-translation: CNT
+translation: COT
 type: chapter
 weight: 45
 prev: chapter-44

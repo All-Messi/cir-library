@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 76
 title: Psalms 76
-translation: CNT
+translation: COT
 type: chapter
 weight: 76
 prev: chapter-75

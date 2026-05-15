@@ -2,7 +2,7 @@
 book: Numbers
 chapter: 32
 title: Numbers 32
-translation: CNT
+translation: COT
 type: chapter
 weight: 32
 prev: chapter-31

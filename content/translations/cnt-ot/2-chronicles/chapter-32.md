@@ -2,7 +2,7 @@
 book: 2 Chronicles
 chapter: 32
 title: 2 Chronicles 32
-translation: CNT
+translation: COT
 type: chapter
 weight: 32
 prev: chapter-31

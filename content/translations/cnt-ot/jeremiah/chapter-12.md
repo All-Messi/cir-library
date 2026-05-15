@@ -2,7 +2,7 @@
 book: Jeremiah
 chapter: 12
 title: Jeremiah 12
-translation: CNT
+translation: COT
 type: chapter
 weight: 12
 prev: chapter-11

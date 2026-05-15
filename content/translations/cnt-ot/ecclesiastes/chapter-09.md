@@ -2,7 +2,7 @@
 book: Ecclesiastes
 chapter: 9
 title: Ecclesiastes 9
-translation: CNT
+translation: COT
 type: chapter
 weight: 9
 prev: chapter-08

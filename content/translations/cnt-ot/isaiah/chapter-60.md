@@ -2,7 +2,7 @@
 book: Isaiah
 chapter: 60
 title: Isaiah 60
-translation: CNT
+translation: COT
 type: chapter
 weight: 60
 prev: chapter-59

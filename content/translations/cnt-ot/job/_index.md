@@ -2,7 +2,7 @@
 book: Job
 chapters: 42
 title: Job
-translation: CNT
+translation: COT
 type: book
 weight: 18
 ---

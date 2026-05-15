@@ -2,7 +2,7 @@
 book: Exodus
 chapter: 13
 title: Exodus 13
-translation: CNT
+translation: COT
 type: chapter
 weight: 13
 prev: chapter-12

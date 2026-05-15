@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 145
 title: Psalms 145
-translation: CNT
+translation: COT
 type: chapter
 weight: 145
 prev: chapter-144

@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 149
 title: Psalms 149
-translation: CNT
+translation: COT
 type: chapter
 weight: 149
 prev: chapter-148

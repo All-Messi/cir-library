@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 135
 title: Psalms 135
-translation: CNT
+translation: COT
 type: chapter
 weight: 135
 prev: chapter-134

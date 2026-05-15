@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 150
 title: Psalms 150
-translation: CNT
+translation: COT
 type: chapter
 weight: 150
 prev: chapter-149

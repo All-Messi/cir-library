@@ -2,7 +2,7 @@
 book: Genesis
 chapter: 40
 title: Genesis 40
-translation: CNT
+translation: COT
 type: chapter
 weight: 40
 prev: chapter-39

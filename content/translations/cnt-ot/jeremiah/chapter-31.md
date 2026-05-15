@@ -2,7 +2,7 @@
 book: Jeremiah
 chapter: 31
 title: Jeremiah 31
-translation: CNT
+translation: COT
 type: chapter
 weight: 31
 prev: chapter-30

@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 119
 title: Psalms 119
-translation: CNT
+translation: COT
 type: chapter
 weight: 119
 prev: chapter-118

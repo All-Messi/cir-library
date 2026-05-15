@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 65
 title: Psalms 65
-translation: CNT
+translation: COT
 type: chapter
 weight: 65
 prev: chapter-64

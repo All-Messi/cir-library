@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 91
 title: Psalms 91
-translation: CNT
+translation: COT
 type: chapter
 weight: 91
 prev: chapter-90

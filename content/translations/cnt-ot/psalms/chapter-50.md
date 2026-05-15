@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 50
 title: Psalms 50
-translation: CNT
+translation: COT
 type: chapter
 weight: 50
 prev: chapter-49

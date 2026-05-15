@@ -2,7 +2,7 @@
 book: Esther
 chapter: 4
 title: Esther 4
-translation: CNT
+translation: COT
 type: chapter
 weight: 4
 prev: chapter-03

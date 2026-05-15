@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 93
 title: Psalms 93
-translation: CNT
+translation: COT
 type: chapter
 weight: 93
 prev: chapter-92

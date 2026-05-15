@@ -2,7 +2,7 @@
 book: Esther
 chapter: 7
 title: Esther 7
-translation: CNT
+translation: COT
 type: chapter
 weight: 7
 prev: chapter-06

@@ -2,7 +2,7 @@
 book: Ezekiel
 chapter: 38
 title: Ezekiel 38
-translation: CNT
+translation: COT
 type: chapter
 weight: 38
 prev: chapter-37

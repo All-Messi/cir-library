@@ -2,7 +2,7 @@
 book: Amos
 chapter: 3
 title: Amos 3
-translation: CNT
+translation: COT
 type: chapter
 weight: 3
 prev: chapter-02

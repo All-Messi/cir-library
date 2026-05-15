@@ -2,7 +2,7 @@
 book: Deuteronomy
 chapter: 29
 title: Deuteronomy 29
-translation: CNT
+translation: COT
 type: chapter
 weight: 29
 prev: chapter-28

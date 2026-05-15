@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 71
 title: Psalms 71
-translation: CNT
+translation: COT
 type: chapter
 weight: 71
 prev: chapter-70

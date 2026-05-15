@@ -2,7 +2,7 @@
 book: Exodus
 chapter: 39
 title: Exodus 39
-translation: CNT
+translation: COT
 type: chapter
 weight: 39
 prev: chapter-38

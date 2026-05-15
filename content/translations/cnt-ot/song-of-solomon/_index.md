@@ -2,7 +2,7 @@
 book: Song of Solomon
 chapters: 8
 title: Song of Solomon
-translation: CNT
+translation: COT
 type: book
 weight: 22
 ---

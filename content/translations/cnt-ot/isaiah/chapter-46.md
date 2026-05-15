@@ -2,7 +2,7 @@
 book: Isaiah
 chapter: 46
 title: Isaiah 46
-translation: CNT
+translation: COT
 type: chapter
 weight: 46
 prev: chapter-45

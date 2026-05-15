@@ -2,7 +2,7 @@
 book: Joshua
 chapter: 24
 title: Joshua 24
-translation: CNT
+translation: COT
 type: chapter
 weight: 24
 prev: chapter-23

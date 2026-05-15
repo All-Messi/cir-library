@@ -2,7 +2,7 @@
 book: Isaiah
 chapter: 22
 title: Isaiah 22
-translation: CNT
+translation: COT
 type: chapter
 weight: 22
 prev: chapter-21

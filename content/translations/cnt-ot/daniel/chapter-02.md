@@ -2,7 +2,7 @@
 book: Daniel
 chapter: 2
 title: Daniel 2
-translation: CNT
+translation: COT
 type: chapter
 weight: 2
 prev: chapter-01

@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 17
 title: Psalms 17
-translation: CNT
+translation: COT
 type: chapter
 weight: 17
 prev: chapter-16

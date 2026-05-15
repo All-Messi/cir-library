@@ -2,7 +2,7 @@
 book: Deuteronomy
 chapter: 1
 title: Deuteronomy 1
-translation: CNT
+translation: COT
 type: chapter
 weight: 1
 next: chapter-02

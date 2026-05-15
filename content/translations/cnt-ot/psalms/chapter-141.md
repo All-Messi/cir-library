@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 141
 title: Psalms 141
-translation: CNT
+translation: COT
 type: chapter
 weight: 141
 prev: chapter-140

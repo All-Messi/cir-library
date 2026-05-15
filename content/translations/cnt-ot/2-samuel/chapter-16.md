@@ -2,7 +2,7 @@
 book: 2 Samuel
 chapter: 16
 title: 2 Samuel 16
-translation: CNT
+translation: COT
 type: chapter
 weight: 16
 prev: chapter-15

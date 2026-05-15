@@ -2,7 +2,7 @@
 book: Ezra
 chapter: 2
 title: Ezra 2
-translation: CNT
+translation: COT
 type: chapter
 weight: 2
 prev: chapter-01

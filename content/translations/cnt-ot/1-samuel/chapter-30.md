@@ -2,7 +2,7 @@
 book: 1 Samuel
 chapter: 30
 title: 1 Samuel 30
-translation: CNT
+translation: COT
 type: chapter
 weight: 30
 prev: chapter-29

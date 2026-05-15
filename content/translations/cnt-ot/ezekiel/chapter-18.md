@@ -2,7 +2,7 @@
 book: Ezekiel
 chapter: 18
 title: Ezekiel 18
-translation: CNT
+translation: COT
 type: chapter
 weight: 18
 prev: chapter-17

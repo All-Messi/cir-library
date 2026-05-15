@@ -2,7 +2,7 @@
 book: Genesis
 chapter: 10
 title: Genesis 10
-translation: CNT
+translation: COT
 type: chapter
 weight: 10
 prev: chapter-09

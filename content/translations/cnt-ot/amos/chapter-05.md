@@ -2,7 +2,7 @@
 book: Amos
 chapter: 5
 title: Amos 5
-translation: CNT
+translation: COT
 type: chapter
 weight: 5
 prev: chapter-04

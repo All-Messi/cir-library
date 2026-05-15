@@ -2,7 +2,7 @@
 book: Numbers
 chapter: 28
 title: Numbers 28
-translation: CNT
+translation: COT
 type: chapter
 weight: 28
 prev: chapter-27

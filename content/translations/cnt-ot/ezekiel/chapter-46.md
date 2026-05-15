@@ -2,7 +2,7 @@
 book: Ezekiel
 chapter: 46
 title: Ezekiel 46
-translation: CNT
+translation: COT
 type: chapter
 weight: 46
 prev: chapter-45

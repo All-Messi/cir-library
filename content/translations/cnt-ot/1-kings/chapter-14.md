@@ -2,7 +2,7 @@
 book: 1 Kings
 chapter: 14
 title: 1 Kings 14
-translation: CNT
+translation: COT
 type: chapter
 weight: 14
 prev: chapter-13

@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 143
 title: Psalms 143
-translation: CNT
+translation: COT
 type: chapter
 weight: 143
 prev: chapter-142

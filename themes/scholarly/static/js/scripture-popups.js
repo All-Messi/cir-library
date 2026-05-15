@@ -104,8 +104,17 @@
      DETECT BASE URL AND CURRENT TRANSLATION
      ================================================================ */
   function getBaseUrl() {
-    var m = window.location.pathname.match(/^(\/[^/]+\/)/);
-    return m ? m[1] : '/';
+    // Anchor on the '/translations/' segment so we get the correct prefix
+    // regardless of whether the site is served at root (christir.org/) or
+    // under a subpath (all-messi.github.io/cir-library/).
+    //   christir.org/translations/cnt-ot/... → base '/'
+    //   .../cir-library/translations/cnt-ot/... → base '/cir-library/'
+    // Old logic (first path segment) returned '/translations/' on production,
+    // which then doubled when buildChapterUrls appended 'translations/' again.
+    var p = window.location.pathname;
+    var idx = p.indexOf('/translations/');
+    if (idx !== -1) return p.substring(0, idx + 1);
+    return '/';
   }
 
   function getCurrentTranslation() {

@@ -2,7 +2,7 @@
 book: 2 Chronicles
 chapter: 34
 title: 2 Chronicles 34
-translation: CNT
+translation: COT
 type: chapter
 weight: 34
 prev: chapter-33

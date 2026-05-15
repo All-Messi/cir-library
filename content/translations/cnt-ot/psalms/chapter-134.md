@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 134
 title: Psalms 134
-translation: CNT
+translation: COT
 type: chapter
 weight: 134
 prev: chapter-133

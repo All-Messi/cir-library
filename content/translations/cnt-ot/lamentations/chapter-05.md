@@ -2,7 +2,7 @@
 book: Lamentations
 chapter: 5
 title: Lamentations 5
-translation: CNT
+translation: COT
 type: chapter
 weight: 5
 prev: chapter-04

@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 62
 title: Psalms 62
-translation: CNT
+translation: COT
 type: chapter
 weight: 62
 prev: chapter-61

@@ -2,7 +2,7 @@
 book: Genesis
 chapter: 16
 title: Genesis 16
-translation: CNT
+translation: COT
 type: chapter
 weight: 16
 prev: chapter-15

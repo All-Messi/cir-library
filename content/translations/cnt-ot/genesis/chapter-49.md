@@ -2,7 +2,7 @@
 book: Genesis
 chapter: 49
 title: Genesis 49
-translation: CNT
+translation: COT
 type: chapter
 weight: 49
 prev: chapter-48

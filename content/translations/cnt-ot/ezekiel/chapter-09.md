@@ -2,7 +2,7 @@
 book: Ezekiel
 chapter: 9
 title: Ezekiel 9
-translation: CNT
+translation: COT
 type: chapter
 weight: 9
 prev: chapter-08

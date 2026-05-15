@@ -2,7 +2,7 @@
 book: Jeremiah
 chapter: 39
 title: Jeremiah 39
-translation: CNT
+translation: COT
 type: chapter
 weight: 39
 prev: chapter-38

@@ -2,7 +2,7 @@
 book: 1 Chronicles
 chapter: 29
 title: 1 Chronicles 29
-translation: CNT
+translation: COT
 type: chapter
 weight: 29
 prev: chapter-28

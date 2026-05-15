@@ -2,7 +2,7 @@
 book: Exodus
 chapter: 7
 title: Exodus 7
-translation: CNT
+translation: COT
 type: chapter
 weight: 7
 prev: chapter-06

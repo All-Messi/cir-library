@@ -2,7 +2,7 @@
 book: Judges
 chapter: 14
 title: Judges 14
-translation: CNT
+translation: COT
 type: chapter
 weight: 14
 prev: chapter-13

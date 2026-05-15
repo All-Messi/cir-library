@@ -2,7 +2,7 @@
 book: 1 Samuel
 chapter: 18
 title: 1 Samuel 18
-translation: CNT
+translation: COT
 type: chapter
 weight: 18
 prev: chapter-17

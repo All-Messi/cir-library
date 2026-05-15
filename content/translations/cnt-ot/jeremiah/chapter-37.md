@@ -2,7 +2,7 @@
 book: Jeremiah
 chapter: 37
 title: Jeremiah 37
-translation: CNT
+translation: COT
 type: chapter
 weight: 37
 prev: chapter-36

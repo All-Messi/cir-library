@@ -2,7 +2,7 @@
 book: Joel
 chapter: 3
 title: Joel 3
-translation: CNT
+translation: COT
 type: chapter
 weight: 3
 prev: chapter-02

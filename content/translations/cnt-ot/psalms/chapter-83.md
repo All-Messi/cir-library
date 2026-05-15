@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 83
 title: Psalms 83
-translation: CNT
+translation: COT
 type: chapter
 weight: 83
 prev: chapter-82

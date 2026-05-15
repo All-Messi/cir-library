@@ -2,7 +2,7 @@
 book: Genesis
 chapter: 30
 title: Genesis 30
-translation: CNT
+translation: COT
 type: chapter
 weight: 30
 prev: chapter-29

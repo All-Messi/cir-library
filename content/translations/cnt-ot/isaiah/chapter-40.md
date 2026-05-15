@@ -2,7 +2,7 @@
 book: Isaiah
 chapter: 40
 title: Isaiah 40
-translation: CNT
+translation: COT
 type: chapter
 weight: 40
 prev: chapter-39

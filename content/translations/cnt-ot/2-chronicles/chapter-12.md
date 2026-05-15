@@ -2,7 +2,7 @@
 book: 2 Chronicles
 chapter: 12
 title: 2 Chronicles 12
-translation: CNT
+translation: COT
 type: chapter
 weight: 12
 prev: chapter-11

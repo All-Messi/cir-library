@@ -2,7 +2,7 @@
 book: 2 Samuel
 chapter: 6
 title: 2 Samuel 6
-translation: CNT
+translation: COT
 type: chapter
 weight: 6
 prev: chapter-05

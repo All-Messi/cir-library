@@ -2,7 +2,7 @@
 book: Isaiah
 chapter: 11
 title: Isaiah 11
-translation: CNT
+translation: COT
 type: chapter
 weight: 11
 prev: chapter-10

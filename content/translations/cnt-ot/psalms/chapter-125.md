@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 125
 title: Psalms 125
-translation: CNT
+translation: COT
 type: chapter
 weight: 125
 prev: chapter-124

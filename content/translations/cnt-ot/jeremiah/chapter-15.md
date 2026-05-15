@@ -2,7 +2,7 @@
 book: Jeremiah
 chapter: 15
 title: Jeremiah 15
-translation: CNT
+translation: COT
 type: chapter
 weight: 15
 prev: chapter-14

@@ -2,7 +2,7 @@
 book: Jeremiah
 chapter: 47
 title: Jeremiah 47
-translation: CNT
+translation: COT
 type: chapter
 weight: 47
 prev: chapter-46

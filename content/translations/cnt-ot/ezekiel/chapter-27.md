@@ -2,7 +2,7 @@
 book: Ezekiel
 chapter: 27
 title: Ezekiel 27
-translation: CNT
+translation: COT
 type: chapter
 weight: 27
 prev: chapter-26

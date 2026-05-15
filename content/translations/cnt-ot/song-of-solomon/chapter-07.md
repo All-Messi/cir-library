@@ -2,7 +2,7 @@
 book: Song of Solomon
 chapter: 7
 title: Song of Solomon 7
-translation: CNT
+translation: COT
 type: chapter
 weight: 7
 prev: chapter-06

@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 55
 title: Psalms 55
-translation: CNT
+translation: COT
 type: chapter
 weight: 55
 prev: chapter-54

@@ -2,7 +2,7 @@
 book: Nehemiah
 chapter: 9
 title: Nehemiah 9
-translation: CNT
+translation: COT
 type: chapter
 weight: 9
 prev: chapter-08

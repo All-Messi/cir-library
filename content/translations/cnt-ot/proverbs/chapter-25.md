@@ -2,7 +2,7 @@
 book: Proverbs
 chapter: 25
 title: Proverbs 25
-translation: CNT
+translation: COT
 type: chapter
 weight: 25
 prev: chapter-24

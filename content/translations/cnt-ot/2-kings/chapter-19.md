@@ -2,7 +2,7 @@
 book: 2 Kings
 chapter: 19
 title: 2 Kings 19
-translation: CNT
+translation: COT
 type: chapter
 weight: 19
 prev: chapter-18

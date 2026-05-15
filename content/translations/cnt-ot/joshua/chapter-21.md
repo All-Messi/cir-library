@@ -2,7 +2,7 @@
 book: Joshua
 chapter: 21
 title: Joshua 21
-translation: CNT
+translation: COT
 type: chapter
 weight: 21
 prev: chapter-20

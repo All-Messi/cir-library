@@ -2,7 +2,7 @@
 book: 1 Chronicles
 chapters: 29
 title: 1 Chronicles
-translation: CNT
+translation: COT
 type: book
 weight: 52
 ---

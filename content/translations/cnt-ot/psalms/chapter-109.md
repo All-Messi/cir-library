@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 109
 title: Psalms 109
-translation: CNT
+translation: COT
 type: chapter
 weight: 109
 prev: chapter-108

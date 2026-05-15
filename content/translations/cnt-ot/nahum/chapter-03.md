@@ -2,7 +2,7 @@
 book: Nahum
 chapter: 3
 title: Nahum 3
-translation: CNT
+translation: COT
 type: chapter
 weight: 3
 prev: chapter-02

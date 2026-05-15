@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 58
 title: Psalms 58
-translation: CNT
+translation: COT
 type: chapter
 weight: 58
 prev: chapter-57

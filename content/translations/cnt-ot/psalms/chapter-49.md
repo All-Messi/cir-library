@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 49
 title: Psalms 49
-translation: CNT
+translation: COT
 type: chapter
 weight: 49
 prev: chapter-48

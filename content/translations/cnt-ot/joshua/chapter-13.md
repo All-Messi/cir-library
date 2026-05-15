@@ -2,7 +2,7 @@
 book: Joshua
 chapter: 13
 title: Joshua 13
-translation: CNT
+translation: COT
 type: chapter
 weight: 13
 prev: chapter-12

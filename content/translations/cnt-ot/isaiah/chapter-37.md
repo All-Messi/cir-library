@@ -2,7 +2,7 @@
 book: Isaiah
 chapter: 37
 title: Isaiah 37
-translation: CNT
+translation: COT
 type: chapter
 weight: 37
 prev: chapter-36

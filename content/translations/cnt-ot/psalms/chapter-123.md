@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 123
 title: Psalms 123
-translation: CNT
+translation: COT
 type: chapter
 weight: 123
 prev: chapter-122

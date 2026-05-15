@@ -2,7 +2,7 @@
 book: Numbers
 chapter: 25
 title: Numbers 25
-translation: CNT
+translation: COT
 type: chapter
 weight: 25
 prev: chapter-24

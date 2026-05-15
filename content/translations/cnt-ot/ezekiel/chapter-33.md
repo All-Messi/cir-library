@@ -2,7 +2,7 @@
 book: Ezekiel
 chapter: 33
 title: Ezekiel 33
-translation: CNT
+translation: COT
 type: chapter
 weight: 33
 prev: chapter-32

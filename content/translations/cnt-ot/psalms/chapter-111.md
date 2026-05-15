@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 111
 title: Psalms 111
-translation: CNT
+translation: COT
 type: chapter
 weight: 111
 prev: chapter-110

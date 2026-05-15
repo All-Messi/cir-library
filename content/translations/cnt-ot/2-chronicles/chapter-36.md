@@ -2,7 +2,7 @@
 book: 2 Chronicles
 chapter: 36
 title: 2 Chronicles 36
-translation: CNT
+translation: COT
 type: chapter
 weight: 36
 prev: chapter-35

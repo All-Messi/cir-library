@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 79
 title: Psalms 79
-translation: CNT
+translation: COT
 type: chapter
 weight: 79
 prev: chapter-78

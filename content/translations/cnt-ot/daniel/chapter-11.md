@@ -2,7 +2,7 @@
 book: Daniel
 chapter: 11
 title: Daniel 11
-translation: CNT
+translation: COT
 type: chapter
 weight: 11
 prev: chapter-10

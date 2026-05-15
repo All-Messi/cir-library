@@ -2,7 +2,7 @@
 book: Exodus
 chapter: 21
 title: Exodus 21
-translation: CNT
+translation: COT
 type: chapter
 weight: 21
 prev: chapter-20

@@ -2,7 +2,7 @@
 book: Hosea
 chapter: 9
 title: Hosea 9
-translation: CNT
+translation: COT
 type: chapter
 weight: 9
 prev: chapter-08

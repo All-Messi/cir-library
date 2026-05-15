@@ -2,7 +2,7 @@
 book: Ezekiel
 chapter: 36
 title: Ezekiel 36
-translation: CNT
+translation: COT
 type: chapter
 weight: 36
 prev: chapter-35

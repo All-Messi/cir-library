@@ -2,7 +2,7 @@
 book: Isaiah
 chapter: 47
 title: Isaiah 47
-translation: CNT
+translation: COT
 type: chapter
 weight: 47
 prev: chapter-46

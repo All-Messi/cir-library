@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 81
 title: Psalms 81
-translation: CNT
+translation: COT
 type: chapter
 weight: 81
 prev: chapter-80

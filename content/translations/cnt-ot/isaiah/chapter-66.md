@@ -2,7 +2,7 @@
 book: Isaiah
 chapter: 66
 title: Isaiah 66
-translation: CNT
+translation: COT
 type: chapter
 weight: 66
 prev: chapter-65

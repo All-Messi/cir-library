@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 115
 title: Psalms 115
-translation: CNT
+translation: COT
 type: chapter
 weight: 115
 prev: chapter-114

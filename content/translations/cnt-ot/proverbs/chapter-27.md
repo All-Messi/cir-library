@@ -2,7 +2,7 @@
 book: Proverbs
 chapter: 27
 title: Proverbs 27
-translation: CNT
+translation: COT
 type: chapter
 weight: 27
 prev: chapter-26

@@ -2,7 +2,7 @@
 book: Micah
 chapter: 2
 title: Micah 2
-translation: CNT
+translation: COT
 type: chapter
 weight: 2
 prev: chapter-01

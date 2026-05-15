@@ -2,7 +2,7 @@
 book: 2 Chronicles
 chapter: 16
 title: 2 Chronicles 16
-translation: CNT
+translation: COT
 type: chapter
 weight: 16
 prev: chapter-15

@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 114
 title: Psalms 114
-translation: CNT
+translation: COT
 type: chapter
 weight: 114
 prev: chapter-113

@@ -2,7 +2,7 @@
 book: Jeremiah
 chapter: 33
 title: Jeremiah 33
-translation: CNT
+translation: COT
 type: chapter
 weight: 33
 prev: chapter-32

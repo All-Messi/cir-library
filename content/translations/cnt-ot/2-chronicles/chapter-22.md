@@ -2,7 +2,7 @@
 book: 2 Chronicles
 chapter: 22
 title: 2 Chronicles 22
-translation: CNT
+translation: COT
 type: chapter
 weight: 22
 prev: chapter-21

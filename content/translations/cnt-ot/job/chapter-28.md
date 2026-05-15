@@ -2,7 +2,7 @@
 book: Job
 chapter: 28
 title: Job 28
-translation: CNT
+translation: COT
 type: chapter
 weight: 28
 prev: chapter-27

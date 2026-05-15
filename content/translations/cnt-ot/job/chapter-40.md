@@ -2,7 +2,7 @@
 book: Job
 chapter: 40
 title: Job 40
-translation: CNT
+translation: COT
 type: chapter
 weight: 40
 prev: chapter-39

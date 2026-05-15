@@ -2,7 +2,7 @@
 book: Exodus
 chapter: 17
 title: Exodus 17
-translation: CNT
+translation: COT
 type: chapter
 weight: 17
 prev: chapter-16

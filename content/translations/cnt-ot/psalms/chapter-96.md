@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 96
 title: Psalms 96
-translation: CNT
+translation: COT
 type: chapter
 weight: 96
 prev: chapter-95

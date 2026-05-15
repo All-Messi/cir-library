@@ -2,7 +2,7 @@
 book: Numbers
 chapter: 14
 title: Numbers 14
-translation: CNT
+translation: COT
 type: chapter
 weight: 14
 prev: chapter-13

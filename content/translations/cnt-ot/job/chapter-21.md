@@ -2,7 +2,7 @@
 book: Job
 chapter: 21
 title: Job 21
-translation: CNT
+translation: COT
 type: chapter
 weight: 21
 prev: chapter-20

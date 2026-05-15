@@ -2,7 +2,7 @@
 book: 1 Samuel
 chapter: 13
 title: 1 Samuel 13
-translation: CNT
+translation: COT
 type: chapter
 weight: 13
 prev: chapter-12

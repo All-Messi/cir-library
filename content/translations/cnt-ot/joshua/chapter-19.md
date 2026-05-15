@@ -2,7 +2,7 @@
 book: Joshua
 chapter: 19
 title: Joshua 19
-translation: CNT
+translation: COT
 type: chapter
 weight: 19
 prev: chapter-18

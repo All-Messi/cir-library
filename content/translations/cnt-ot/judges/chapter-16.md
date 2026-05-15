@@ -2,7 +2,7 @@
 book: Judges
 chapter: 16
 title: Judges 16
-translation: CNT
+translation: COT
 type: chapter
 weight: 16
 prev: chapter-15

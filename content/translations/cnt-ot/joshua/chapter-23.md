@@ -2,7 +2,7 @@
 book: Joshua
 chapter: 23
 title: Joshua 23
-translation: CNT
+translation: COT
 type: chapter
 weight: 23
 prev: chapter-22

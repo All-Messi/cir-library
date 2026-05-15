@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 86
 title: Psalms 86
-translation: CNT
+translation: COT
 type: chapter
 weight: 86
 prev: chapter-85

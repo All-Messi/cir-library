@@ -2,7 +2,7 @@
 book: Ruth
 chapters: 4
 title: Ruth
-translation: CNT
+translation: COT
 type: book
 weight: 8
 ---

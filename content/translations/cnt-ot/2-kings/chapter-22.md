@@ -2,7 +2,7 @@
 book: 2 Kings
 chapter: 22
 title: 2 Kings 22
-translation: CNT
+translation: COT
 type: chapter
 weight: 22
 prev: chapter-21

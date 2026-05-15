@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 48
 title: Psalms 48
-translation: CNT
+translation: COT
 type: chapter
 weight: 48
 prev: chapter-47

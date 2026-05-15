@@ -2,7 +2,7 @@
 book: 1 Samuel
 chapter: 27
 title: 1 Samuel 27
-translation: CNT
+translation: COT
 type: chapter
 weight: 27
 prev: chapter-26

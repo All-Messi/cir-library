@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 124
 title: Psalms 124
-translation: CNT
+translation: COT
 type: chapter
 weight: 124
 prev: chapter-123

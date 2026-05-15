@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 101
 title: Psalms 101
-translation: CNT
+translation: COT
 type: chapter
 weight: 101
 prev: chapter-100

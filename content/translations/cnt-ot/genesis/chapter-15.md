@@ -2,7 +2,7 @@
 book: Genesis
 chapter: 15
 title: Genesis 15
-translation: CNT
+translation: COT
 type: chapter
 weight: 15
 prev: chapter-14

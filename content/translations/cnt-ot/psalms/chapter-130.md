@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 130
 title: Psalms 130
-translation: CNT
+translation: COT
 type: chapter
 weight: 130
 prev: chapter-129

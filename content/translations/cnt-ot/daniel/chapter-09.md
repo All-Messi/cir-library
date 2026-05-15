@@ -2,7 +2,7 @@
 book: Daniel
 chapter: 9
 title: Daniel 9
-translation: CNT
+translation: COT
 type: chapter
 weight: 9
 prev: chapter-08

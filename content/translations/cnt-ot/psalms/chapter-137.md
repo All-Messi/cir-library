@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 137
 title: Psalms 137
-translation: CNT
+translation: COT
 type: chapter
 weight: 137
 prev: chapter-136

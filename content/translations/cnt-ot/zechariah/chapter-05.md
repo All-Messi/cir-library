@@ -2,7 +2,7 @@
 book: Zechariah
 chapter: 5
 title: Zechariah 5
-translation: CNT
+translation: COT
 type: chapter
 weight: 5
 prev: chapter-04

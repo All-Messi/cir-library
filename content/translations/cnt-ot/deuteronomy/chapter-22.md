@@ -2,7 +2,7 @@
 book: Deuteronomy
 chapter: 22
 title: Deuteronomy 22
-translation: CNT
+translation: COT
 type: chapter
 weight: 22
 prev: chapter-21

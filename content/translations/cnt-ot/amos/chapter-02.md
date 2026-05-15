@@ -2,7 +2,7 @@
 book: Amos
 chapter: 2
 title: Amos 2
-translation: CNT
+translation: COT
 type: chapter
 weight: 2
 prev: chapter-01

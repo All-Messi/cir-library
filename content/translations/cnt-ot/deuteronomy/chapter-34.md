@@ -2,7 +2,7 @@
 book: Deuteronomy
 chapter: 34
 title: Deuteronomy 34
-translation: CNT
+translation: COT
 type: chapter
 weight: 34
 prev: chapter-33

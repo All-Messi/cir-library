@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 43
 title: Psalms 43
-translation: CNT
+translation: COT
 type: chapter
 weight: 43
 prev: chapter-42

@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 139
 title: Psalms 139
-translation: CNT
+translation: COT
 type: chapter
 weight: 139
 prev: chapter-138

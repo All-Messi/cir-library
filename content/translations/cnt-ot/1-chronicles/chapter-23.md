@@ -2,7 +2,7 @@
 book: 1 Chronicles
 chapter: 23
 title: 1 Chronicles 23
-translation: CNT
+translation: COT
 type: chapter
 weight: 23
 prev: chapter-22

@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 116
 title: Psalms 116
-translation: CNT
+translation: COT
 type: chapter
 weight: 116
 prev: chapter-115

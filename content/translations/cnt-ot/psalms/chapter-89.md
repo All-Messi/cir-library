@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 89
 title: Psalms 89
-translation: CNT
+translation: COT
 type: chapter
 weight: 89
 prev: chapter-88

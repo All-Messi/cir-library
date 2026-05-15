@@ -2,7 +2,7 @@
 book: 2 Samuel
 chapter: 4
 title: 2 Samuel 4
-translation: CNT
+translation: COT
 type: chapter
 weight: 4
 prev: chapter-03

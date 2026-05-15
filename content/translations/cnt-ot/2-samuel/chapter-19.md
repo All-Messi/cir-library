@@ -2,7 +2,7 @@
 book: 2 Samuel
 chapter: 19
 title: 2 Samuel 19
-translation: CNT
+translation: COT
 type: chapter
 weight: 19
 prev: chapter-18

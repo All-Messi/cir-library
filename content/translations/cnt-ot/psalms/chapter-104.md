@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 104
 title: Psalms 104
-translation: CNT
+translation: COT
 type: chapter
 weight: 104
 prev: chapter-103

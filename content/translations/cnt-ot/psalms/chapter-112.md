@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 112
 title: Psalms 112
-translation: CNT
+translation: COT
 type: chapter
 weight: 112
 prev: chapter-111

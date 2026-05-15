@@ -2,7 +2,7 @@
 book: 1 Kings
 chapter: 15
 title: 1 Kings 15
-translation: CNT
+translation: COT
 type: chapter
 weight: 15
 prev: chapter-14

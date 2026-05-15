@@ -2,7 +2,7 @@
 book: Isaiah
 chapter: 56
 title: Isaiah 56
-translation: CNT
+translation: COT
 type: chapter
 weight: 56
 prev: chapter-55

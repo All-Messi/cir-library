@@ -2,7 +2,7 @@
 book: Esther
 chapter: 8
 title: Esther 8
-translation: CNT
+translation: COT
 type: chapter
 weight: 8
 prev: chapter-07

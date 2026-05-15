@@ -2,7 +2,7 @@
 book: Genesis
 chapter: 44
 title: Genesis 44
-translation: CNT
+translation: COT
 type: chapter
 weight: 44
 prev: chapter-43

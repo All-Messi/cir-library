@@ -2,7 +2,7 @@
 book: Deuteronomy
 chapter: 25
 title: Deuteronomy 25
-translation: CNT
+translation: COT
 type: chapter
 weight: 25
 prev: chapter-24

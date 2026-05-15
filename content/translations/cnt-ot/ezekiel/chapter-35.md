@@ -2,7 +2,7 @@
 book: Ezekiel
 chapter: 35
 title: Ezekiel 35
-translation: CNT
+translation: COT
 type: chapter
 weight: 35
 prev: chapter-34

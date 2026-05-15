@@ -2,7 +2,7 @@
 book: Ezekiel
 chapters: 48
 title: Ezekiel
-translation: CNT
+translation: COT
 type: book
 weight: 26
 ---

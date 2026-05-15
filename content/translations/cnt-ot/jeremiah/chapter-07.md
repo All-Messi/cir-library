@@ -2,7 +2,7 @@
 book: Jeremiah
 chapter: 7
 title: Jeremiah 7
-translation: CNT
+translation: COT
 type: chapter
 weight: 7
 prev: chapter-06

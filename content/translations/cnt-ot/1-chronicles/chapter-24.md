@@ -2,7 +2,7 @@
 book: 1 Chronicles
 chapter: 24
 title: 1 Chronicles 24
-translation: CNT
+translation: COT
 type: chapter
 weight: 24
 prev: chapter-23

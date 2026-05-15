@@ -2,7 +2,7 @@
 book: 1 Samuel
 chapter: 12
 title: 1 Samuel 12
-translation: CNT
+translation: COT
 type: chapter
 weight: 12
 prev: chapter-11

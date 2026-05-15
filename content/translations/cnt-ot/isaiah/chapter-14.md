@@ -2,7 +2,7 @@
 book: Isaiah
 chapter: 14
 title: Isaiah 14
-translation: CNT
+translation: COT
 type: chapter
 weight: 14
 prev: chapter-13

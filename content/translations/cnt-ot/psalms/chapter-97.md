@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 97
 title: Psalms 97
-translation: CNT
+translation: COT
 type: chapter
 weight: 97
 prev: chapter-96

@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 68
 title: Psalms 68
-translation: CNT
+translation: COT
 type: chapter
 weight: 68
 prev: chapter-67

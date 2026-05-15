@@ -2,7 +2,7 @@
 book: 2 Kings
 chapter: 12
 title: 2 Kings 12
-translation: CNT
+translation: COT
 type: chapter
 weight: 12
 prev: chapter-11

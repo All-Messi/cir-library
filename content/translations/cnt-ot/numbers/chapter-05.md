@@ -2,7 +2,7 @@
 book: Numbers
 chapter: 5
 title: Numbers 5
-translation: CNT
+translation: COT
 type: chapter
 weight: 5
 prev: chapter-04

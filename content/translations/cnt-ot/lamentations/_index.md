@@ -2,7 +2,7 @@
 book: Lamentations
 chapters: 5
 title: Lamentations
-translation: CNT
+translation: COT
 type: book
 weight: 25
 ---

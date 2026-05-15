@@ -2,7 +2,7 @@
 book: Numbers
 chapter: 16
 title: Numbers 16
-translation: CNT
+translation: COT
 type: chapter
 weight: 16
 prev: chapter-15

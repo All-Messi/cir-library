@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 128
 title: Psalms 128
-translation: CNT
+translation: COT
 type: chapter
 weight: 128
 prev: chapter-127

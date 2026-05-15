@@ -2,7 +2,7 @@
 book: Jeremiah
 chapter: 48
 title: Jeremiah 48
-translation: CNT
+translation: COT
 type: chapter
 weight: 48
 prev: chapter-47

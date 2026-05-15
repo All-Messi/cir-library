@@ -2,7 +2,7 @@
 book: Song of Solomon
 chapter: 6
 title: Song of Solomon 6
-translation: CNT
+translation: COT
 type: chapter
 weight: 6
 prev: chapter-05

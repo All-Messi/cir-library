@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 84
 title: Psalms 84
-translation: CNT
+translation: COT
 type: chapter
 weight: 84
 prev: chapter-83

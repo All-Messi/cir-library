@@ -2,7 +2,7 @@
 book: Haggai
 chapters: 2
 title: Haggai
-translation: CNT
+translation: COT
 type: book
 weight: 37
 ---

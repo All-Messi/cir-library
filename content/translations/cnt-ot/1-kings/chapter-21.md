@@ -2,7 +2,7 @@
 book: 1 Kings
 chapter: 21
 title: 1 Kings 21
-translation: CNT
+translation: COT
 type: chapter
 weight: 21
 prev: chapter-20

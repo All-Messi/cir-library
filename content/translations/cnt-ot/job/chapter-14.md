@@ -2,7 +2,7 @@
 book: Job
 chapter: 14
 title: Job 14
-translation: CNT
+translation: COT
 type: chapter
 weight: 14
 prev: chapter-13

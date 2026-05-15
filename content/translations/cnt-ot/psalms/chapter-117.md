@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 117
 title: Psalms 117
-translation: CNT
+translation: COT
 type: chapter
 weight: 117
 prev: chapter-116

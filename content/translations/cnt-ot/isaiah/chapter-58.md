@@ -2,7 +2,7 @@
 book: Isaiah
 chapter: 58
 title: Isaiah 58
-translation: CNT
+translation: COT
 type: chapter
 weight: 58
 prev: chapter-57

@@ -2,7 +2,7 @@
 book: Genesis
 chapter: 17
 title: Genesis 17
-translation: CNT
+translation: COT
 type: chapter
 weight: 17
 prev: chapter-16

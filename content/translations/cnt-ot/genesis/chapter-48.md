@@ -2,7 +2,7 @@
 book: Genesis
 chapter: 48
 title: Genesis 48
-translation: CNT
+translation: COT
 type: chapter
 weight: 48
 prev: chapter-47

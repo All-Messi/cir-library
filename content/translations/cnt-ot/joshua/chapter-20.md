@@ -2,7 +2,7 @@
 book: Joshua
 chapter: 20
 title: Joshua 20
-translation: CNT
+translation: COT
 type: chapter
 weight: 20
 prev: chapter-19

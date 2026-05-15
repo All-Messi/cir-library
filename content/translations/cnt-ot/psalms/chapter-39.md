@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 39
 title: Psalms 39
-translation: CNT
+translation: COT
 type: chapter
 weight: 39
 prev: chapter-38

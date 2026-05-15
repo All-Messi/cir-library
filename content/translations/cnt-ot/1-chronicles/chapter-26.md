@@ -2,7 +2,7 @@
 book: 1 Chronicles
 chapter: 26
 title: 1 Chronicles 26
-translation: CNT
+translation: COT
 type: chapter
 weight: 26
 prev: chapter-25

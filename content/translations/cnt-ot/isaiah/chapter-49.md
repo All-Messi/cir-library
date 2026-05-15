@@ -2,7 +2,7 @@
 book: Isaiah
 chapter: 49
 title: Isaiah 49
-translation: CNT
+translation: COT
 type: chapter
 weight: 49
 prev: chapter-48

@@ -2,7 +2,7 @@
 book: Job
 chapter: 38
 title: Job 38
-translation: CNT
+translation: COT
 type: chapter
 weight: 38
 prev: chapter-37

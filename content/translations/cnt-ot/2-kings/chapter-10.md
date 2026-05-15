@@ -2,7 +2,7 @@
 book: 2 Kings
 chapter: 10
 title: 2 Kings 10
-translation: CNT
+translation: COT
 type: chapter
 weight: 10
 prev: chapter-09

@@ -2,7 +2,7 @@
 book: Judges
 chapter: 17
 title: Judges 17
-translation: CNT
+translation: COT
 type: chapter
 weight: 17
 prev: chapter-16

@@ -2,7 +2,7 @@
 book: 1 Chronicles
 chapter: 27
 title: 1 Chronicles 27
-translation: CNT
+translation: COT
 type: chapter
 weight: 27
 prev: chapter-26

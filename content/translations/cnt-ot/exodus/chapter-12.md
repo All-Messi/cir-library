@@ -2,7 +2,7 @@
 book: Exodus
 chapter: 12
 title: Exodus 12
-translation: CNT
+translation: COT
 type: chapter
 weight: 12
 prev: chapter-11

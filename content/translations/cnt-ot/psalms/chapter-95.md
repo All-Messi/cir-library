@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 95
 title: Psalms 95
-translation: CNT
+translation: COT
 type: chapter
 weight: 95
 prev: chapter-94

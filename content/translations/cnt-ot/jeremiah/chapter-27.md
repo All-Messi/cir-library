@@ -2,7 +2,7 @@
 book: Jeremiah
 chapter: 27
 title: Jeremiah 27
-translation: CNT
+translation: COT
 type: chapter
 weight: 27
 prev: chapter-26

@@ -2,7 +2,7 @@
 book: Deuteronomy
 chapter: 8
 title: Deuteronomy 8
-translation: CNT
+translation: COT
 type: chapter
 weight: 8
 prev: chapter-07

@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 98
 title: Psalms 98
-translation: CNT
+translation: COT
 type: chapter
 weight: 98
 prev: chapter-97

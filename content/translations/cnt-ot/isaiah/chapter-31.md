@@ -2,7 +2,7 @@
 book: Isaiah
 chapter: 31
 title: Isaiah 31
-translation: CNT
+translation: COT
 type: chapter
 weight: 31
 prev: chapter-30

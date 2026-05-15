@@ -2,7 +2,7 @@
 book: Leviticus
 chapter: 6
 title: Leviticus 6
-translation: CNT
+translation: COT
 type: chapter
 weight: 6
 prev: chapter-05

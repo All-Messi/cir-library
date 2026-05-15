@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 126
 title: Psalms 126
-translation: CNT
+translation: COT
 type: chapter
 weight: 126
 prev: chapter-125

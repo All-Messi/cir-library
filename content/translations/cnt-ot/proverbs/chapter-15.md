@@ -2,7 +2,7 @@
 book: Proverbs
 chapter: 15
 title: Proverbs 15
-translation: CNT
+translation: COT
 type: chapter
 weight: 15
 prev: chapter-14

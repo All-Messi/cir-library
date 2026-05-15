@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 100
 title: Psalms 100
-translation: CNT
+translation: COT
 type: chapter
 weight: 100
 prev: chapter-99

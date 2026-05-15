@@ -2,7 +2,7 @@
 book: Esther
 chapter: 6
 title: Esther 6
-translation: CNT
+translation: COT
 type: chapter
 weight: 6
 prev: chapter-05

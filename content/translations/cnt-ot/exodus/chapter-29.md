@@ -2,7 +2,7 @@
 book: Exodus
 chapter: 29
 title: Exodus 29
-translation: CNT
+translation: COT
 type: chapter
 weight: 29
 prev: chapter-28

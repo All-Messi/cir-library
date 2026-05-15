@@ -2,7 +2,7 @@
 book: Deuteronomy
 chapter: 30
 title: Deuteronomy 30
-translation: CNT
+translation: COT
 type: chapter
 weight: 30
 prev: chapter-29

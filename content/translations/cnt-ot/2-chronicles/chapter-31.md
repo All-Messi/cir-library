@@ -2,7 +2,7 @@
 book: 2 Chronicles
 chapter: 31
 title: 2 Chronicles 31
-translation: CNT
+translation: COT
 type: chapter
 weight: 31
 prev: chapter-30

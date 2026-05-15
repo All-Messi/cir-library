@@ -2,7 +2,7 @@
 book: Deuteronomy
 chapter: 19
 title: Deuteronomy 19
-translation: CNT
+translation: COT
 type: chapter
 weight: 19
 prev: chapter-18

@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 94
 title: Psalms 94
-translation: CNT
+translation: COT
 type: chapter
 weight: 94
 prev: chapter-93

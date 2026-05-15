@@ -2,7 +2,7 @@
 book: 2 Kings
 chapter: 17
 title: 2 Kings 17
-translation: CNT
+translation: COT
 type: chapter
 weight: 17
 prev: chapter-16

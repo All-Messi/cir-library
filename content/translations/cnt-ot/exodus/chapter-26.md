@@ -2,7 +2,7 @@
 book: Exodus
 chapter: 26
 title: Exodus 26
-translation: CNT
+translation: COT
 type: chapter
 weight: 26
 prev: chapter-25

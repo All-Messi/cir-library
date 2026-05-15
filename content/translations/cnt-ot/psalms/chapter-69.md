@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 69
 title: Psalms 69
-translation: CNT
+translation: COT
 type: chapter
 weight: 69
 prev: chapter-68

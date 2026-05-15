@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 33
 title: Psalms 33
-translation: CNT
+translation: COT
 type: chapter
 weight: 33
 prev: chapter-32

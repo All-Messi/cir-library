@@ -2,7 +2,7 @@
 book: Deuteronomy
 chapter: 9
 title: Deuteronomy 9
-translation: CNT
+translation: COT
 type: chapter
 weight: 9
 prev: chapter-08

@@ -2,7 +2,7 @@
 book: Jeremiah
 chapter: 25
 title: Jeremiah 25
-translation: CNT
+translation: COT
 type: chapter
 weight: 25
 prev: chapter-24

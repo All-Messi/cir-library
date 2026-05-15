@@ -2,7 +2,7 @@
 book: Deuteronomy
 chapter: 16
 title: Deuteronomy 16
-translation: CNT
+translation: COT
 type: chapter
 weight: 16
 prev: chapter-15

@@ -2,7 +2,7 @@
 book: 1 Chronicles
 chapter: 2
 title: 1 Chronicles 2
-translation: CNT
+translation: COT
 type: chapter
 weight: 2
 prev: chapter-01

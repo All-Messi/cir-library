@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 80
 title: Psalms 80
-translation: CNT
+translation: COT
 type: chapter
 weight: 80
 prev: chapter-79

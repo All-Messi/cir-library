@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 77
 title: Psalms 77
-translation: CNT
+translation: COT
 type: chapter
 weight: 77
 prev: chapter-76

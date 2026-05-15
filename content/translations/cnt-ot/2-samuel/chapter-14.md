@@ -2,7 +2,7 @@
 book: 2 Samuel
 chapter: 14
 title: 2 Samuel 14
-translation: CNT
+translation: COT
 type: chapter
 weight: 14
 prev: chapter-13

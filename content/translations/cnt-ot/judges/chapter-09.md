@@ -2,7 +2,7 @@
 book: Judges
 chapter: 9
 title: Judges 9
-translation: CNT
+translation: COT
 type: chapter
 weight: 9
 prev: chapter-08

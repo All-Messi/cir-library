@@ -2,7 +2,7 @@
 book: 2 Samuel
 chapter: 9
 title: 2 Samuel 9
-translation: CNT
+translation: COT
 type: chapter
 weight: 9
 prev: chapter-08

@@ -2,7 +2,7 @@
 book: Ezekiel
 chapter: 42
 title: Ezekiel 42
-translation: CNT
+translation: COT
 type: chapter
 weight: 42
 prev: chapter-41

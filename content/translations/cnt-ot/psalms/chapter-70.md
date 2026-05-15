@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 70
 title: Psalms 70
-translation: CNT
+translation: COT
 type: chapter
 weight: 70
 prev: chapter-69

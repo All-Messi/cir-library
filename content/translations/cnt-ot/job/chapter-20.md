@@ -2,7 +2,7 @@
 book: Job
 chapter: 20
 title: Job 20
-translation: CNT
+translation: COT
 type: chapter
 weight: 20
 prev: chapter-19

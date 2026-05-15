@@ -2,7 +2,7 @@
 book: 2 Samuel
 chapter: 20
 title: 2 Samuel 20
-translation: CNT
+translation: COT
 type: chapter
 weight: 20
 prev: chapter-19

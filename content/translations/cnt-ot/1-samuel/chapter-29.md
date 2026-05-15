@@ -2,7 +2,7 @@
 book: 1 Samuel
 chapter: 29
 title: 1 Samuel 29
-translation: CNT
+translation: COT
 type: chapter
 weight: 29
 prev: chapter-28

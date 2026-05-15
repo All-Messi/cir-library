@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 133
 title: Psalms 133
-translation: CNT
+translation: COT
 type: chapter
 weight: 133
 prev: chapter-132

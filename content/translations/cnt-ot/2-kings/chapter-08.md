@@ -2,7 +2,7 @@
 book: 2 Kings
 chapter: 8
 title: 2 Kings 8
-translation: CNT
+translation: COT
 type: chapter
 weight: 8
 prev: chapter-07

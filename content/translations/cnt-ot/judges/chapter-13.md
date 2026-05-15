@@ -2,7 +2,7 @@
 book: Judges
 chapter: 13
 title: Judges 13
-translation: CNT
+translation: COT
 type: chapter
 weight: 13
 prev: chapter-12

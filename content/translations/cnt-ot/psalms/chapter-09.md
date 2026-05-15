@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 9
 title: Psalms 9
-translation: CNT
+translation: COT
 type: chapter
 weight: 9
 prev: chapter-08

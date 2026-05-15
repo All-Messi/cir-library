@@ -2,7 +2,7 @@
 book: 1 Chronicles
 chapter: 22
 title: 1 Chronicles 22
-translation: CNT
+translation: COT
 type: chapter
 weight: 22
 prev: chapter-21

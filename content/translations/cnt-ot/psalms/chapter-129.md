@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 129
 title: Psalms 129
-translation: CNT
+translation: COT
 type: chapter
 weight: 129
 prev: chapter-128

@@ -2,7 +2,7 @@
 book: Exodus
 chapter: 3
 title: Exodus 3
-translation: CNT
+translation: COT
 type: chapter
 weight: 3
 prev: chapter-02

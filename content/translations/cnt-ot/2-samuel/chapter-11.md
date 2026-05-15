@@ -2,7 +2,7 @@
 book: 2 Samuel
 chapter: 11
 title: 2 Samuel 11
-translation: CNT
+translation: COT
 type: chapter
 weight: 11
 prev: chapter-10

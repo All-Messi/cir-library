@@ -2,7 +2,7 @@
 book: Deuteronomy
 chapter: 20
 title: Deuteronomy 20
-translation: CNT
+translation: COT
 type: chapter
 weight: 20
 prev: chapter-19

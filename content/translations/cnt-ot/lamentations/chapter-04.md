@@ -2,7 +2,7 @@
 book: Lamentations
 chapter: 4
 title: Lamentations 4
-translation: CNT
+translation: COT
 type: chapter
 weight: 4
 prev: chapter-03

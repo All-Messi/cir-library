@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 11
 title: Psalms 11
-translation: CNT
+translation: COT
 type: chapter
 weight: 11
 prev: chapter-10

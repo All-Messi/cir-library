@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 90
 title: Psalms 90
-translation: CNT
+translation: COT
 type: chapter
 weight: 90
 prev: chapter-89

@@ -2,7 +2,7 @@
 book: Ezekiel
 chapter: 17
 title: Ezekiel 17
-translation: CNT
+translation: COT
 type: chapter
 weight: 17
 prev: chapter-16

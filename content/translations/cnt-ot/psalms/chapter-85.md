@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 85
 title: Psalms 85
-translation: CNT
+translation: COT
 type: chapter
 weight: 85
 prev: chapter-84

@@ -2,7 +2,7 @@
 book: Zechariah
 chapter: 13
 title: Zechariah 13
-translation: CNT
+translation: COT
 type: chapter
 weight: 13
 prev: chapter-12

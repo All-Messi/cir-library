@@ -2,7 +2,7 @@
 book: Genesis
 chapter: 3
 title: Genesis 3
-translation: CNT
+translation: COT
 type: chapter
 weight: 3
 prev: chapter-02

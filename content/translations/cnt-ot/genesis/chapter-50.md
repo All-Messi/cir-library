@@ -2,7 +2,7 @@
 book: Genesis
 chapter: 50
 title: Genesis 50
-translation: CNT
+translation: COT
 type: chapter
 weight: 50
 prev: chapter-49

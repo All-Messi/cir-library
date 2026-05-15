@@ -2,7 +2,7 @@
 book: Leviticus
 chapter: 22
 title: Leviticus 22
-translation: CNT
+translation: COT
 type: chapter
 weight: 22
 prev: chapter-21

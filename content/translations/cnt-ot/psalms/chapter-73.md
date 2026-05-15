@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 73
 title: Psalms 73
-translation: CNT
+translation: COT
 type: chapter
 weight: 73
 prev: chapter-72

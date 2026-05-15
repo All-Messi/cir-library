@@ -2,7 +2,7 @@
 book: Zechariah
 chapter: 6
 title: Zechariah 6
-translation: CNT
+translation: COT
 type: chapter
 weight: 6
 prev: chapter-05

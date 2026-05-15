@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 82
 title: Psalms 82
-translation: CNT
+translation: COT
 type: chapter
 weight: 82
 prev: chapter-81

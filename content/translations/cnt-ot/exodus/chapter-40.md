@@ -2,7 +2,7 @@
 book: Exodus
 chapter: 40
 title: Exodus 40
-translation: CNT
+translation: COT
 type: chapter
 weight: 40
 prev: chapter-39

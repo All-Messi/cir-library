@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 118
 title: Psalms 118
-translation: CNT
+translation: COT
 type: chapter
 weight: 118
 prev: chapter-117

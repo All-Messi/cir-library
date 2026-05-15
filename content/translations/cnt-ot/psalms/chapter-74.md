@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 74
 title: Psalms 74
-translation: CNT
+translation: COT
 type: chapter
 weight: 74
 prev: chapter-73

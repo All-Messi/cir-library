@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 21
 title: Psalms 21
-translation: CNT
+translation: COT
 type: chapter
 weight: 21
 prev: chapter-20

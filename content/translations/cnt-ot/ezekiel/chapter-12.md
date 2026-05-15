@@ -2,7 +2,7 @@
 book: Ezekiel
 chapter: 12
 title: Ezekiel 12
-translation: CNT
+translation: COT
 type: chapter
 weight: 12
 prev: chapter-11

@@ -2,7 +2,7 @@
 book: Jeremiah
 chapter: 45
 title: Jeremiah 45
-translation: CNT
+translation: COT
 type: chapter
 weight: 45
 prev: chapter-44

@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 34
 title: Psalms 34
-translation: CNT
+translation: COT
 type: chapter
 weight: 34
 prev: chapter-33

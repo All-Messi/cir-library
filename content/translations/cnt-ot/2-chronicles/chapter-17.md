@@ -2,7 +2,7 @@
 book: 2 Chronicles
 chapter: 17
 title: 2 Chronicles 17
-translation: CNT
+translation: COT
 type: chapter
 weight: 17
 prev: chapter-16

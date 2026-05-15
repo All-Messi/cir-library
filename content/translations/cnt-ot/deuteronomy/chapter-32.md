@@ -2,7 +2,7 @@
 book: Deuteronomy
 chapter: 32
 title: Deuteronomy 32
-translation: CNT
+translation: COT
 type: chapter
 weight: 32
 prev: chapter-31

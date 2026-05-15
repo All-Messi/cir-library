@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 142
 title: Psalms 142
-translation: CNT
+translation: COT
 type: chapter
 weight: 142
 prev: chapter-141

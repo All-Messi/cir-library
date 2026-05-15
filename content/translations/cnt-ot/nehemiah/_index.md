@@ -2,7 +2,7 @@
 book: Nehemiah
 chapters: 13
 title: Nehemiah
-translation: CNT
+translation: COT
 type: book
 weight: 16
 ---

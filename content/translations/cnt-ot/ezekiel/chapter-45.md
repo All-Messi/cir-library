@@ -2,7 +2,7 @@
 book: Ezekiel
 chapter: 45
 title: Ezekiel 45
-translation: CNT
+translation: COT
 type: chapter
 weight: 45
 prev: chapter-44

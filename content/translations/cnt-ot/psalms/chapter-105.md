@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 105
 title: Psalms 105
-translation: CNT
+translation: COT
 type: chapter
 weight: 105
 prev: chapter-104

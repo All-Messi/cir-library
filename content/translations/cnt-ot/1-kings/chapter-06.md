@@ -2,7 +2,7 @@
 book: 1 Kings
 chapter: 6
 title: 1 Kings 6
-translation: CNT
+translation: COT
 type: chapter
 weight: 6
 prev: chapter-05

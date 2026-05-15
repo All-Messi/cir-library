@@ -2,7 +2,7 @@
 book: Jeremiah
 chapter: 32
 title: Jeremiah 32
-translation: CNT
+translation: COT
 type: chapter
 weight: 32
 prev: chapter-31

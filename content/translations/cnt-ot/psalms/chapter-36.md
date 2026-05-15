@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 36
 title: Psalms 36
-translation: CNT
+translation: COT
 type: chapter
 weight: 36
 prev: chapter-35

@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 144
 title: Psalms 144
-translation: CNT
+translation: COT
 type: chapter
 weight: 144
 prev: chapter-143

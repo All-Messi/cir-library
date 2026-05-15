@@ -2,7 +2,7 @@
 book: Zechariah
 chapter: 1
 title: Zechariah 1
-translation: CNT
+translation: COT
 type: chapter
 weight: 1
 next: chapter-02

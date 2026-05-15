@@ -2,7 +2,7 @@
 book: 1 Samuel
 chapter: 24
 title: 1 Samuel 24
-translation: CNT
+translation: COT
 type: chapter
 weight: 24
 prev: chapter-23

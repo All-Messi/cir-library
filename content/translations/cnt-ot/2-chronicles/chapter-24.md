@@ -2,7 +2,7 @@
 book: 2 Chronicles
 chapter: 24
 title: 2 Chronicles 24
-translation: CNT
+translation: COT
 type: chapter
 weight: 24
 prev: chapter-23

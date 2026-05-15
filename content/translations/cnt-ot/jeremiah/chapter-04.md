@@ -2,7 +2,7 @@
 book: Jeremiah
 chapter: 4
 title: Jeremiah 4
-translation: CNT
+translation: COT
 type: chapter
 weight: 4
 prev: chapter-03

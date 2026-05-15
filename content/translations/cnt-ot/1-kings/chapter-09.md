@@ -2,7 +2,7 @@
 book: 1 Kings
 chapter: 9
 title: 1 Kings 9
-translation: CNT
+translation: COT
 type: chapter
 weight: 9
 prev: chapter-08

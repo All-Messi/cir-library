@@ -2,7 +2,7 @@
 book: Isaiah
 chapter: 57
 title: Isaiah 57
-translation: CNT
+translation: COT
 type: chapter
 weight: 57
 prev: chapter-56

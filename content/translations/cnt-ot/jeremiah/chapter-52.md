@@ -2,7 +2,7 @@
 book: Jeremiah
 chapter: 52
 title: Jeremiah 52
-translation: CNT
+translation: COT
 type: chapter
 weight: 52
 prev: chapter-51

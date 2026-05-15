@@ -2,7 +2,7 @@
 book: Deuteronomy
 chapter: 6
 title: Deuteronomy 6
-translation: CNT
+translation: COT
 type: chapter
 weight: 6
 prev: chapter-05

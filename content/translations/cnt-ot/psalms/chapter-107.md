@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 107
 title: Psalms 107
-translation: CNT
+translation: COT
 type: chapter
 weight: 107
 prev: chapter-106

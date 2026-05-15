@@ -2,7 +2,7 @@
 book: Ezekiel
 chapter: 15
 title: Ezekiel 15
-translation: CNT
+translation: COT
 type: chapter
 weight: 15
 prev: chapter-14

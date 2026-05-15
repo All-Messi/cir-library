@@ -2,7 +2,7 @@
 book: 1 Kings
 chapter: 13
 title: 1 Kings 13
-translation: CNT
+translation: COT
 type: chapter
 weight: 13
 prev: chapter-12

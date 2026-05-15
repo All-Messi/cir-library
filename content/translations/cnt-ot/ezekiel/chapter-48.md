@@ -2,7 +2,7 @@
 book: Ezekiel
 chapter: 48
 title: Ezekiel 48
-translation: CNT
+translation: COT
 type: chapter
 weight: 48
 prev: chapter-47

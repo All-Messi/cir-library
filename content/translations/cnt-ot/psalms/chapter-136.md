@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 136
 title: Psalms 136
-translation: CNT
+translation: COT
 type: chapter
 weight: 136
 prev: chapter-135

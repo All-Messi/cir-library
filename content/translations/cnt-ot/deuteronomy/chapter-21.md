@@ -2,7 +2,7 @@
 book: Deuteronomy
 chapter: 21
 title: Deuteronomy 21
-translation: CNT
+translation: COT
 type: chapter
 weight: 21
 prev: chapter-20

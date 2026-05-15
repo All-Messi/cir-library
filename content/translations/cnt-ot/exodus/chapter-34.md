@@ -2,7 +2,7 @@
 book: Exodus
 chapter: 34
 title: Exodus 34
-translation: CNT
+translation: COT
 type: chapter
 weight: 34
 prev: chapter-33

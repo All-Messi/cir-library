@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 92
 title: Psalms 92
-translation: CNT
+translation: COT
 type: chapter
 weight: 92
 prev: chapter-91

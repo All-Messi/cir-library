@@ -2,7 +2,7 @@
 book: Numbers
 chapter: 11
 title: Numbers 11
-translation: CNT
+translation: COT
 type: chapter
 weight: 11
 prev: chapter-10

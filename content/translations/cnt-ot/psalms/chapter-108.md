@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 108
 title: Psalms 108
-translation: CNT
+translation: COT
 type: chapter
 weight: 108
 prev: chapter-107

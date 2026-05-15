@@ -2,7 +2,7 @@
 book: Isaiah
 chapter: 65
 title: Isaiah 65
-translation: CNT
+translation: COT
 type: chapter
 weight: 65
 prev: chapter-64

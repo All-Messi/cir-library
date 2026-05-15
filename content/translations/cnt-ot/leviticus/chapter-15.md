@@ -2,7 +2,7 @@
 book: Leviticus
 chapter: 15
 title: Leviticus 15
-translation: CNT
+translation: COT
 type: chapter
 weight: 15
 prev: chapter-14

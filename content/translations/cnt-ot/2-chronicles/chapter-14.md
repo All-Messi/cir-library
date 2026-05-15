@@ -2,7 +2,7 @@
 book: 2 Chronicles
 chapter: 14
 title: 2 Chronicles 14
-translation: CNT
+translation: COT
 type: chapter
 weight: 14
 prev: chapter-13

@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 131
 title: Psalms 131
-translation: CNT
+translation: COT
 type: chapter
 weight: 131
 prev: chapter-130

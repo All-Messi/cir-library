@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 4
 title: Psalms 4
-translation: CNT
+translation: COT
 type: chapter
 weight: 4
 prev: chapter-03

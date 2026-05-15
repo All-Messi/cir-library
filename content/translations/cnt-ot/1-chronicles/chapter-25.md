@@ -2,7 +2,7 @@
 book: 1 Chronicles
 chapter: 25
 title: 1 Chronicles 25
-translation: CNT
+translation: COT
 type: chapter
 weight: 25
 prev: chapter-24

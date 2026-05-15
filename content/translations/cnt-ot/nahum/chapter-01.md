@@ -2,7 +2,7 @@
 book: Nahum
 chapter: 1
 title: Nahum 1
-translation: CNT
+translation: COT
 type: chapter
 weight: 1
 next: chapter-02

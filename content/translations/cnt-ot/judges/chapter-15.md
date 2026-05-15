@@ -2,7 +2,7 @@
 book: Judges
 chapter: 15
 title: Judges 15
-translation: CNT
+translation: COT
 type: chapter
 weight: 15
 prev: chapter-14

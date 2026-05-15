@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 31
 title: Psalms 31
-translation: CNT
+translation: COT
 type: chapter
 weight: 31
 prev: chapter-30

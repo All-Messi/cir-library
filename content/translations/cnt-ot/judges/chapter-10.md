@@ -2,7 +2,7 @@
 book: Judges
 chapter: 10
 title: Judges 10
-translation: CNT
+translation: COT
 type: chapter
 weight: 10
 prev: chapter-09

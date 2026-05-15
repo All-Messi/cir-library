@@ -2,7 +2,7 @@
 book: 1 Samuel
 chapter: 28
 title: 1 Samuel 28
-translation: CNT
+translation: COT
 type: chapter
 weight: 28
 prev: chapter-27

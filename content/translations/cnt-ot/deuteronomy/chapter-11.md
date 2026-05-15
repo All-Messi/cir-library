@@ -2,7 +2,7 @@
 book: Deuteronomy
 chapter: 11
 title: Deuteronomy 11
-translation: CNT
+translation: COT
 type: chapter
 weight: 11
 prev: chapter-10

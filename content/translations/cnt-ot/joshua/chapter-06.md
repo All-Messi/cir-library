@@ -2,7 +2,7 @@
 book: Joshua
 chapter: 6
 title: Joshua 6
-translation: CNT
+translation: COT
 type: chapter
 weight: 6
 prev: chapter-05

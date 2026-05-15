@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 54
 title: Psalms 54
-translation: CNT
+translation: COT
 type: chapter
 weight: 54
 prev: chapter-53

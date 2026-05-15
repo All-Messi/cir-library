@@ -2,7 +2,7 @@
 book: Jeremiah
 chapters: 52
 title: Jeremiah
-translation: CNT
+translation: COT
 type: book
 weight: 24
 ---

@@ -2,7 +2,7 @@
 book: 2 Samuel
 chapter: 21
 title: 2 Samuel 21
-translation: CNT
+translation: COT
 type: chapter
 weight: 21
 prev: chapter-20

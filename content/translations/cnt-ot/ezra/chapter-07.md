@@ -2,7 +2,7 @@
 book: Ezra
 chapter: 7
 title: Ezra 7
-translation: CNT
+translation: COT
 type: chapter
 weight: 7
 prev: chapter-06

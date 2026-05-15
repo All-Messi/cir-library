@@ -2,7 +2,7 @@
 book: Jeremiah
 chapter: 29
 title: Jeremiah 29
-translation: CNT
+translation: COT
 type: chapter
 weight: 29
 prev: chapter-28

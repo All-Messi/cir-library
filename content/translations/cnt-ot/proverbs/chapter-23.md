@@ -2,7 +2,7 @@
 book: Proverbs
 chapter: 23
 title: Proverbs 23
-translation: CNT
+translation: COT
 type: chapter
 weight: 23
 prev: chapter-22

@@ -2,7 +2,7 @@
 book: 2 Samuel
 chapter: 5
 title: 2 Samuel 5
-translation: CNT
+translation: COT
 type: chapter
 weight: 5
 prev: chapter-04

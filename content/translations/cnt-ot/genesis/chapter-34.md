@@ -2,7 +2,7 @@
 book: Genesis
 chapter: 34
 title: Genesis 34
-translation: CNT
+translation: COT
 type: chapter
 weight: 34
 prev: chapter-33

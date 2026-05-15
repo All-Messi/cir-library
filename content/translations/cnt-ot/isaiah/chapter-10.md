@@ -2,7 +2,7 @@
 book: Isaiah
 chapter: 10
 title: Isaiah 10
-translation: CNT
+translation: COT
 type: chapter
 weight: 10
 prev: chapter-09

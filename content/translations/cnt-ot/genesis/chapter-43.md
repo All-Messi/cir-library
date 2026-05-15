@@ -2,7 +2,7 @@
 book: Genesis
 chapter: 43
 title: Genesis 43
-translation: CNT
+translation: COT
 type: chapter
 weight: 43
 prev: chapter-42

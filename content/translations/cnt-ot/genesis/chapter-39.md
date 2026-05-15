@@ -2,7 +2,7 @@
 book: Genesis
 chapter: 39
 title: Genesis 39
-translation: CNT
+translation: COT
 type: chapter
 weight: 39
 prev: chapter-38

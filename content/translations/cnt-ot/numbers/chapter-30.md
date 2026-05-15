@@ -2,7 +2,7 @@
 book: Numbers
 chapter: 30
 title: Numbers 30
-translation: CNT
+translation: COT
 type: chapter
 weight: 30
 prev: chapter-29

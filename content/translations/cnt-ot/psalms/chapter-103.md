@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 103
 title: Psalms 103
-translation: CNT
+translation: COT
 type: chapter
 weight: 103
 prev: chapter-102

@@ -2,7 +2,7 @@
 book: Leviticus
 chapter: 27
 title: Leviticus 27
-translation: CNT
+translation: COT
 type: chapter
 weight: 27
 prev: chapter-26

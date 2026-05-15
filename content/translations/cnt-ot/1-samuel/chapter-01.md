@@ -2,7 +2,7 @@
 book: 1 Samuel
 chapter: 1
 title: 1 Samuel 1
-translation: CNT
+translation: COT
 type: chapter
 weight: 1
 next: chapter-02

@@ -2,7 +2,7 @@
 book: Numbers
 chapter: 15
 title: Numbers 15
-translation: CNT
+translation: COT
 type: chapter
 weight: 15
 prev: chapter-14

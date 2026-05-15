@@ -2,7 +2,7 @@
 book: Leviticus
 chapter: 9
 title: Leviticus 9
-translation: CNT
+translation: COT
 type: chapter
 weight: 9
 prev: chapter-08

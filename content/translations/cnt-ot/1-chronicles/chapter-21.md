@@ -2,7 +2,7 @@
 book: 1 Chronicles
 chapter: 21
 title: 1 Chronicles 21
-translation: CNT
+translation: COT
 type: chapter
 weight: 21
 prev: chapter-20

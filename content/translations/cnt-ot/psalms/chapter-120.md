@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 120
 title: Psalms 120
-translation: CNT
+translation: COT
 type: chapter
 weight: 120
 prev: chapter-119

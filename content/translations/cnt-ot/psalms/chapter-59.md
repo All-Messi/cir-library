@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 59
 title: Psalms 59
-translation: CNT
+translation: COT
 type: chapter
 weight: 59
 prev: chapter-58

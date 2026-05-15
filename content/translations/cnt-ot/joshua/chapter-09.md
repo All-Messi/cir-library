@@ -2,7 +2,7 @@
 book: Joshua
 chapter: 9
 title: Joshua 9
-translation: CNT
+translation: COT
 type: chapter
 weight: 9
 prev: chapter-08

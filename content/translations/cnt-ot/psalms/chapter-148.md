@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 148
 title: Psalms 148
-translation: CNT
+translation: COT
 type: chapter
 weight: 148
 prev: chapter-147

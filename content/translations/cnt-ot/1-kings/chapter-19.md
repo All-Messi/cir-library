@@ -2,7 +2,7 @@
 book: 1 Kings
 chapter: 19
 title: 1 Kings 19
-translation: CNT
+translation: COT
 type: chapter
 weight: 19
 prev: chapter-18

@@ -2,7 +2,7 @@
 book: Joshua
 chapters: 24
 title: Joshua
-translation: CNT
+translation: COT
 type: book
 weight: 6
 ---

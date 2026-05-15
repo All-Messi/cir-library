@@ -2,7 +2,7 @@
 book: Job
 chapter: 41
 title: Job 41
-translation: CNT
+translation: COT
 type: chapter
 weight: 41
 prev: chapter-40

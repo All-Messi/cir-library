@@ -2,7 +2,7 @@
 book: Deuteronomy
 chapters: 34
 title: Deuteronomy
-translation: CNT
+translation: COT
 type: book
 weight: 5
 ---

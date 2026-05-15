@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 45
 title: Psalms 45
-translation: CNT
+translation: COT
 type: chapter
 weight: 45
 prev: chapter-44

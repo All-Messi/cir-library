@@ -2,7 +2,7 @@
 book: Isaiah
 chapter: 54
 title: Isaiah 54
-translation: CNT
+translation: COT
 type: chapter
 weight: 54
 prev: chapter-53

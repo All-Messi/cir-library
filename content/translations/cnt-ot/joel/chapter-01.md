@@ -2,7 +2,7 @@
 book: Joel
 chapter: 1
 title: Joel 1
-translation: CNT
+translation: COT
 type: chapter
 weight: 1
 next: chapter-02

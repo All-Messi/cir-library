@@ -2,7 +2,7 @@
 book: Genesis
 chapters: 50
 title: Genesis
-translation: CNT
+translation: COT
 type: book
 weight: 1
 ---

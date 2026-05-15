@@ -2,7 +2,7 @@
 book: Jeremiah
 chapter: 14
 title: Jeremiah 14
-translation: CNT
+translation: COT
 type: chapter
 weight: 14
 prev: chapter-13

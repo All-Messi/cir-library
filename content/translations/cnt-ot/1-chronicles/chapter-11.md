@@ -2,7 +2,7 @@
 book: 1 Chronicles
 chapter: 11
 title: 1 Chronicles 11
-translation: CNT
+translation: COT
 type: chapter
 weight: 11
 prev: chapter-10

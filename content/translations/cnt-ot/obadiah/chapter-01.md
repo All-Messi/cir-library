@@ -2,7 +2,7 @@
 book: Obadiah
 chapter: 1
 title: Obadiah 1
-translation: CNT
+translation: COT
 type: chapter
 weight: 1
 ---

@@ -2,7 +2,7 @@
 book: Isaiah
 chapter: 45
 title: Isaiah 45
-translation: CNT
+translation: COT
 type: chapter
 weight: 45
 prev: chapter-44

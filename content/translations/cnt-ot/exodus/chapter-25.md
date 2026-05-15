@@ -2,7 +2,7 @@
 book: Exodus
 chapter: 25
 title: Exodus 25
-translation: CNT
+translation: COT
 type: chapter
 weight: 25
 prev: chapter-24

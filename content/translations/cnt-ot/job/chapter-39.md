@@ -2,7 +2,7 @@
 book: Job
 chapter: 39
 title: Job 39
-translation: CNT
+translation: COT
 type: chapter
 weight: 39
 prev: chapter-38

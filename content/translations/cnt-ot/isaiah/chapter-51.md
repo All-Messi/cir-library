@@ -2,7 +2,7 @@
 book: Isaiah
 chapter: 51
 title: Isaiah 51
-translation: CNT
+translation: COT
 type: chapter
 weight: 51
 prev: chapter-50

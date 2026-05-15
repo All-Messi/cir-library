@@ -2,7 +2,7 @@
 book: Micah
 chapters: 7
 title: Micah
-translation: CNT
+translation: COT
 type: book
 weight: 33
 ---

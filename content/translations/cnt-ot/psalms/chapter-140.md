@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 140
 title: Psalms 140
-translation: CNT
+translation: COT
 type: chapter
 weight: 140
 prev: chapter-139

@@ -2,7 +2,7 @@
 book: Joshua
 chapter: 1
 title: Joshua 1
-translation: CNT
+translation: COT
 type: chapter
 weight: 1
 next: chapter-02

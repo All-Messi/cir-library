@@ -2,7 +2,7 @@
 book: Deuteronomy
 chapter: 24
 title: Deuteronomy 24
-translation: CNT
+translation: COT
 type: chapter
 weight: 24
 prev: chapter-23

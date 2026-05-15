@@ -2,7 +2,7 @@
 book: Numbers
 chapter: 36
 title: Numbers 36
-translation: CNT
+translation: COT
 type: chapter
 weight: 36
 prev: chapter-35

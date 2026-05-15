@@ -2,7 +2,7 @@
 book: 2 Chronicles
 chapter: 15
 title: 2 Chronicles 15
-translation: CNT
+translation: COT
 type: chapter
 weight: 15
 prev: chapter-14

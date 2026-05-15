@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 61
 title: Psalms 61
-translation: CNT
+translation: COT
 type: chapter
 weight: 61
 prev: chapter-60

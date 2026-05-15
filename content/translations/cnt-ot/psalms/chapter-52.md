@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 52
 title: Psalms 52
-translation: CNT
+translation: COT
 type: chapter
 weight: 52
 prev: chapter-51

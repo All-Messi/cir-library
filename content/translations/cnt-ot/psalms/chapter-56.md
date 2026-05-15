@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 56
 title: Psalms 56
-translation: CNT
+translation: COT
 type: chapter
 weight: 56
 prev: chapter-55

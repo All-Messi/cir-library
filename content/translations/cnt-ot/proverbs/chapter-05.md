@@ -2,7 +2,7 @@
 book: Proverbs
 chapter: 5
 title: Proverbs 5
-translation: CNT
+translation: COT
 type: chapter
 weight: 5
 prev: chapter-04

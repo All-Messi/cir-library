@@ -2,7 +2,7 @@
 book: Haggai
 chapter: 1
 title: Haggai 1
-translation: CNT
+translation: COT
 type: chapter
 weight: 1
 next: chapter-02

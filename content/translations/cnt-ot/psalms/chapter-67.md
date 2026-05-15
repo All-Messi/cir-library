@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 67
 title: Psalms 67
-translation: CNT
+translation: COT
 type: chapter
 weight: 67
 prev: chapter-66

@@ -2,7 +2,7 @@
 book: Job
 chapter: 29
 title: Job 29
-translation: CNT
+translation: COT
 type: chapter
 weight: 29
 prev: chapter-28

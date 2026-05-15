@@ -2,7 +2,7 @@
 book: Psalms
 chapter: 60
 title: Psalms 60
-translation: CNT
+translation: COT
 type: chapter
 weight: 60
 prev: chapter-59
