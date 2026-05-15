@@ -2,8 +2,20 @@
  * Scripture Reference Popups for CIR Library
  *
  * Scans Bible chapter pages for bracketed cross-references like [Ps. 69:9b],
- * [Deut 32:43], [2 Sam 7:14], etc. and makes them clickable. On click,
- * fetches the referenced verse from the site and shows it in a popup.
+ * [Deut 32:43], [2 Sam 7:14], etc. and makes them clickable/hoverable.
+ *
+ * Behavior:
+ * - Hover (desktop only) opens a small preview popup after 250ms intent delay.
+ *   Moving the cursor into the popup keeps it open; leaving both starts a
+ *   200ms close timer. Click on a ref also opens the popup immediately.
+ * - Touch devices use click only (no hover).
+ * - The small popup has a "Read full chapter →" button that opens a centered
+ *   modal showing the entire chapter in-place — no navigation away from the
+ *   current page. The referenced verse is scrolled into view and briefly
+ *   highlighted. Cross-references inside the modal also pop up (stacked on
+ *   top of the modal; max 2 layers).
+ * - ESC closes the small popup first, then the modal. Backdrop click on the
+ *   modal closes it (after the popup, if both are open).
  *
  * Works with all CIR translations (CNT-NT, CNT-OT, Wooden NT, CYV).
  */
@@ -11,8 +23,16 @@
   'use strict';
 
   /* ================================================================
+     CONFIG
+     ================================================================ */
+  var HOVER_OPEN_DELAY = 250;   // ms before hover triggers a popup
+  var HOVER_CLOSE_DELAY = 200;  // ms after mouseleave before popup closes
+  var VERSE_HIGHLIGHT_MS = 1500;
+
+  var isTouch = ('ontouchstart' in window) || (navigator.maxTouchPoints > 0);
+
+  /* ================================================================
      BOOK ABBREVIATION MAP
-     Maps abbreviations found in the text → { slug, t (testament) }
      ================================================================ */
   var BOOKS = {
     // OT
@@ -101,16 +121,11 @@
   var fetchCache = {};
 
   /* ================================================================
-     DETECT BASE URL AND CURRENT TRANSLATION
+     URL / TRANSLATION HELPERS
      ================================================================ */
   function getBaseUrl() {
-    // Anchor on the '/translations/' segment so we get the correct prefix
-    // regardless of whether the site is served at root (christir.org/) or
-    // under a subpath (all-messi.github.io/cir-library/).
-    //   christir.org/translations/cnt-ot/... → base '/'
-    //   .../cir-library/translations/cnt-ot/... → base '/cir-library/'
-    // Old logic (first path segment) returned '/translations/' on production,
-    // which then doubled when buildChapterUrls appended 'translations/' again.
+    // Anchor on the '/translations/' segment so this works on both root
+    // deployments (christir.org/) and subpath deployments (.../cir-library/).
     var p = window.location.pathname;
     var idx = p.indexOf('/translations/');
     if (idx !== -1) return p.substring(0, idx + 1);
@@ -128,14 +143,10 @@
 
   /* ================================================================
      PARSE A REFERENCE STRING
-     Input: plain text like "Ps. 69:9b" or "2 Sam 7:14"
-     Returns: { slug, chapter, verse, verseEnd, testament } or null
      ================================================================ */
   function parseRef(text) {
     text = text.trim();
-    // Strip trailing manuscript notes
     text = text.replace(/\s+(LXX|MT|Heb|Gk|mss?)\.?\s*$/i, '');
-
     for (var i = 0; i < BOOK_KEYS.length; i++) {
       var key = BOOK_KEYS[i];
       if (text.substring(0, key.length).toLowerCase() === key.toLowerCase()) {
@@ -156,97 +167,64 @@
     return null;
   }
 
-  /* ================================================================
-     BUILD CHAPTER URL FOR A REFERENCE
-     ================================================================ */
   function buildChapterUrls(ref) {
     var base = getBaseUrl();
     var currentTrans = getCurrentTranslation();
     var chStr = ref.chapter < 10 ? '0' + ref.chapter : '' + ref.chapter;
     var slug = ref.slug;
-
-    // Build prioritized list of translations to try
     var transList;
     if (ref.testament === 'ot') {
-      // OT references: try cnt-ot first, then cyv
-      if (currentTrans === 'cyv') {
-        transList = ['cyv', 'cnt-ot'];
-      } else {
-        transList = ['cnt-ot', 'cyv'];
-      }
+      if (currentTrans === 'cyv') transList = ['cyv', 'cnt-ot'];
+      else transList = ['cnt-ot', 'cyv'];
     } else {
-      // NT references: stay in current NT translation first, then try others
-      if (currentTrans === 'wooden-nt') {
-        transList = ['wooden-nt', 'cnt-nt'];
-      } else if (currentTrans === 'cyv') {
-        transList = ['cnt-nt', 'wooden-nt'];
-      } else {
-        transList = ['cnt-nt', 'wooden-nt'];
-      }
+      if (currentTrans === 'wooden-nt') transList = ['wooden-nt', 'cnt-nt'];
+      else if (currentTrans === 'cyv') transList = ['cnt-nt', 'wooden-nt'];
+      else transList = ['cnt-nt', 'wooden-nt'];
     }
-
-    return transList.map(function(t) {
+    return transList.map(function (t) {
       return base + 'translations/' + t + '/' + slug + '/chapter-' + chStr + '/';
     });
   }
 
-  /* ================================================================
-     TEXT → HTML-AWARE REGEX
-     Takes plain text like "[Ps. 69:9b]" and builds a regex that
-     matches the same characters even with HTML tags interleaved.
-     ================================================================ */
   function textToHtmlPattern(plainText) {
     var tokens = plainText.match(/\[|\]|[A-Za-z]+\.?|\d+[a-d]?|[:.;\-\u2013]|\s+/g);
     if (!tokens) return null;
-
     var TAG = '(?:<[^>]*>)*';
     var WS = '(?:\\s|&nbsp;|\\t)*';
     var parts = [];
-
     for (var i = 0; i < tokens.length; i++) {
       var tok = tokens[i];
       if (/^\s+$/.test(tok)) {
-        // Whitespace token — allow tags and flexible whitespace
         parts.push(TAG + WS + TAG);
       } else {
-        // Non-whitespace token — allow tags before it (if not first or after space)
-        if (i > 0 && !/^\s+$/.test(tokens[i - 1])) {
-          parts.push(TAG);
-        }
+        if (i > 0 && !/^\s+$/.test(tokens[i - 1])) parts.push(TAG);
         parts.push(tok.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
       }
     }
-
-    try {
-      return new RegExp(parts.join(''));
-    } catch (e) {
-      return null;
-    }
+    try { return new RegExp(parts.join('')); } catch (e) { return null; }
   }
 
   /* ================================================================
-     SCAN VERSES AND WRAP REFERENCES IN CLICKABLE LINKS
+     LINKIFY: WRAP REFERENCES IN <a> AND ATTACH HANDLERS
+     `container` defaults to .chapter-content on the page; pass an element
+     to scope (used by the modal to wire up cross-refs inside fetched HTML).
      ================================================================ */
-  function linkifyReferences() {
-    var container = document.querySelector('.chapter-content');
+  function linkifyReferences(container) {
+    container = container || document.querySelector('.chapter-content');
     if (!container) return;
 
-    // Scan .verse spans AND non-verse paragraphs (continuation lines)
     var targets = [];
-    container.querySelectorAll('.verse').forEach(function(v) { targets.push(v); });
-    // Also scan paragraphs that don't contain .verse spans (continuation lines with refs)
-    container.querySelectorAll('p').forEach(function(p) {
+    container.querySelectorAll('.verse').forEach(function (v) { targets.push(v); });
+    container.querySelectorAll('p').forEach(function (p) {
       if (!p.querySelector('.verse') && !p.closest('.verse')) targets.push(p);
     });
+
     targets.forEach(function (verse) {
       var text = verse.textContent || '';
-
-      // Find all [...] patterns containing digits with colon (potential scripture refs)
       var bracketPattern = /\[[^\]]*\d+[:.]\d+[^\]]*\]/g;
       var matches = text.match(bracketPattern);
       if (!matches) return;
 
-      // Deduplicate (same ref text might appear twice)
       var seen = {};
       matches = matches.filter(function (m) {
         if (seen[m]) return false;
@@ -255,19 +233,13 @@
       });
 
       matches.forEach(function (matchText) {
-        // Strip brackets for parsing
         var inner = matchText.slice(1, -1).trim();
-
-        // Handle multi-reference: [2 Sam 7:14; 1 Ch 17:13] — use first ref
         var firstRef = inner.split(';')[0].trim();
         var parsed = parseRef(firstRef);
         if (!parsed) return;
-
-        // Build an HTML-aware regex from the plain text match
         var htmlRegex = textToHtmlPattern(matchText);
         if (!htmlRegex) return;
 
-        // Build a human-readable label
         var label = parsed.slug.replace(/-/g, ' ').replace(/\d /g, function (m) { return m; })
           .replace(/\b[a-z]/g, function (c) { return c.toUpperCase(); });
         label += ' ' + parsed.chapter + ':' + parsed.verse;
@@ -278,39 +250,68 @@
         var primaryUrl = urls[0];
         var fallbackUrls = urls.slice(1);
         var oldHtml = verse.innerHTML;
+        // NOTE: no `title=` attribute — browser tooltip would clash with hover popup.
         var newHtml = oldHtml.replace(htmlRegex, function (fullMatch) {
-          // Strip inner HTML tags to avoid invalid nesting
-          // (source often has <strong> tags split across the reference)
           var cleanText = fullMatch.replace(/<[^>]+>/g, '');
           return '<a class="scripture-ref" href="' + primaryUrl + '#v' + parsed.verse +
             '" data-chapter-url="' + primaryUrl +
             '" data-fallback-urls="' + fallbackUrls.join('|') +
             '" data-verse="' + parsed.verse +
             '" data-verse-end="' + (parsed.verseEnd || '') +
-            '" data-label="' + label +
-            '" title="' + label + ' \u2014 click to preview"' +
+            '" data-label="' + label + '"' +
             '>' + cleanText + '</a>';
         });
-
-        if (newHtml !== oldHtml) {
-          verse.innerHTML = newHtml;
-        }
+        if (newHtml !== oldHtml) verse.innerHTML = newHtml;
       });
     });
 
-    // Attach click handlers
-    container.querySelectorAll('.scripture-ref').forEach(function (el) {
-      el.addEventListener('click', function (e) {
-        e.preventDefault();
-        showPopup(el);
-      });
+    // Attach handlers to every (newly-wrapped) scripture-ref
+    container.querySelectorAll('.scripture-ref').forEach(attachRefHandlers);
+  }
+
+  function attachRefHandlers(el) {
+    if (el.__handlersAttached) return;
+    el.__handlersAttached = true;
+
+    // Click works on all devices (touch + desktop). Cancels any pending hover.
+    el.addEventListener('click', function (e) {
+      e.preventDefault();
+      clearHoverTimers();
+      showPopup(el);
+    });
+
+    if (isTouch) return;
+
+    // Hover-to-open (desktop only)
+    el.addEventListener('mouseenter', function () {
+      clearTimeout(hoverCloseTimer);
+      // If popup is already open for this exact ref, do nothing
+      if (activePopup && activePopup.__anchor === el) return;
+      clearTimeout(hoverOpenTimer);
+      hoverOpenTimer = setTimeout(function () { showPopup(el); }, HOVER_OPEN_DELAY);
+    });
+
+    el.addEventListener('mouseleave', function () {
+      clearTimeout(hoverOpenTimer);
+      if (activePopup) {
+        hoverCloseTimer = setTimeout(closePopup, HOVER_CLOSE_DELAY);
+      }
     });
   }
 
+  function clearHoverTimers() {
+    clearTimeout(hoverOpenTimer);
+    clearTimeout(hoverCloseTimer);
+    hoverOpenTimer = null;
+    hoverCloseTimer = null;
+  }
+
   /* ================================================================
-     POPUP DISPLAY
+     SMALL POPUP
      ================================================================ */
   var activePopup = null;
+  var hoverOpenTimer = null;
+  var hoverCloseTimer = null;
 
   function showPopup(el) {
     closePopup();
@@ -320,35 +321,60 @@
     var verseEnd = el.getAttribute('data-verse-end');
     var label = el.getAttribute('data-label');
 
-    // Create popup element
     var popup = document.createElement('div');
     popup.className = 'scripture-popup';
     popup.innerHTML =
       '<div class="sp-header">' +
         '<span class="sp-label">' + escHtml(label) + '</span>' +
-        '<button class="sp-close" aria-label="Close">\u2715</button>' +
+        '<button class="sp-close" type="button" aria-label="Close">\u2715</button>' +
       '</div>' +
       '<div class="sp-body"><div class="sp-loading">Loading\u2026</div></div>' +
-      '<a class="sp-link" href="' + url + '#v' + verse + '">Read full chapter \u2192</a>';
-    popup.setAttribute('data-primary-url', url);
+      '<button class="sp-link sp-expand-btn" type="button">Read full chapter \u2192</button>';
+
+    popup.__anchor = el;
+    popup.__refData = {
+      url: url,
+      verse: verse,
+      verseEnd: verseEnd,
+      label: label,
+      fallbacks: (el.getAttribute('data-fallback-urls') || '').split('|').filter(Boolean)
+    };
 
     document.body.appendChild(popup);
     activePopup = popup;
 
-    // Position near the reference
     positionPopup(popup, el);
 
-    // Close handlers
-    popup.querySelector('.sp-close').addEventListener('click', closePopup);
+    // Close button
+    popup.querySelector('.sp-close').addEventListener('click', function (e) {
+      e.stopPropagation();
+      closePopup();
+    });
+
+    // Expand to full-chapter modal
+    popup.querySelector('.sp-expand-btn').addEventListener('click', function (e) {
+      e.stopPropagation();
+      openChapterModal(popup.__refData);
+    });
+
+    // Keep popup open while cursor is inside it (desktop)
+    if (!isTouch) {
+      popup.addEventListener('mouseenter', function () {
+        clearTimeout(hoverCloseTimer);
+      });
+      popup.addEventListener('mouseleave', function () {
+        hoverCloseTimer = setTimeout(closePopup, HOVER_CLOSE_DELAY);
+      });
+    }
+
+    // Document-level close handlers (delayed so the opening click doesn't trigger them)
     setTimeout(function () {
       document.addEventListener('click', onDocClick);
       document.addEventListener('keydown', onEscKey);
     }, 10);
 
-    // Fetch verse content (with fallback URLs for cross-testament)
-    var fallbacks = el.getAttribute('data-fallback-urls');
-    var fallbackList = fallbacks ? fallbacks.split('|').filter(Boolean) : [];
-    fetchVerse(url, verse, verseEnd ? parseInt(verseEnd, 10) : null, popup, fallbackList);
+    // Fetch verse content
+    fetchVerse(url, verse, verseEnd ? parseInt(verseEnd, 10) : null, popup, popup.__refData.fallbacks);
   }
 
   function positionPopup(popup, anchor) {
@@ -358,7 +384,6 @@
     var vpH = window.innerHeight;
     var vpW = window.innerWidth;
 
-    // Start below the reference
     var top = rect.bottom + scrollY + 8;
     var left = rect.left + scrollX;
 
@@ -367,22 +392,12 @@
     popup.style.left = left + 'px';
     popup.style.visibility = 'hidden';
 
-    // Adjust after layout
     requestAnimationFrame(function () {
       var pw = popup.offsetWidth;
       var ph = popup.offsetHeight;
-
-      // Clamp right edge
-      if (left + pw > vpW + scrollX - 16) {
-        left = vpW + scrollX - pw - 16;
-      }
+      if (left + pw > vpW + scrollX - 16) left = vpW + scrollX - pw - 16;
       if (left < scrollX + 8) left = scrollX + 8;
-
-      // Flip above if it overflows viewport bottom
-      if (rect.bottom + ph + 16 > vpH) {
-        top = rect.top + scrollY - ph - 8;
-      }
-
+      if (rect.bottom + ph + 16 > vpH) top = rect.top + scrollY - ph - 8;
       popup.style.top = top + 'px';
       popup.style.left = left + 'px';
       popup.style.visibility = 'visible';
@@ -390,12 +405,14 @@
   }
 
   function closePopup() {
+    clearHoverTimers();
     if (activePopup) {
       activePopup.remove();
       activePopup = null;
     }
     document.removeEventListener('click', onDocClick);
-    document.removeEventListener('keydown', onEscKey);
+    // Only remove esc listener if modal isn't using it
+    if (!activeModal) document.removeEventListener('keydown', onEscKey);
   }
 
   function onDocClick(e) {
@@ -405,22 +422,25 @@
   }
 
   function onEscKey(e) {
-    if (e.key === 'Escape') closePopup();
+    if (e.key !== 'Escape') return;
+    if (activePopup) { closePopup(); return; }
+    if (activeModal) { closeModal(); return; }
   }
 
   /* ================================================================
-     FETCH AND EXTRACT VERSE TEXT
+     FETCH AND EXTRACT VERSE TEXT (for the small popup)
      ================================================================ */
   function fetchVerse(url, verseNum, verseEnd, popup, fallbackUrls) {
     var body = popup.querySelector('.sp-body');
     fallbackUrls = fallbackUrls || [];
 
-    // Check cache
     if (fetchCache[url]) {
       var result = extractAndShow(fetchCache[url], verseNum, verseEnd, body);
       if (!result && fallbackUrls.length > 0) {
-        // Cached page didn't have the verse, try fallbacks
         fetchVerse(fallbackUrls[0], verseNum, verseEnd, popup, fallbackUrls.slice(1));
+      } else if (result) {
+        // Update the canonical URL on the active popup so "Read full chapter" hits the right page
+        popup.__refData.url = url;
       }
       return;
     }
@@ -431,17 +451,16 @@
         return res.text();
       })
       .then(function (html) {
-        var parser = new DOMParser();
-        var doc = parser.parseFromString(html, 'text/html');
+        var doc = new DOMParser().parseFromString(html, 'text/html');
         fetchCache[url] = doc;
         var result = extractAndShow(doc, verseNum, verseEnd, body);
         if (!result && fallbackUrls.length > 0) {
-          // Primary translation didn't have it, try next
           fetchVerse(fallbackUrls[0], verseNum, verseEnd, popup, fallbackUrls.slice(1));
+        } else if (result) {
+          popup.__refData.url = url;
         }
       })
       .catch(function () {
-        // Page not found — try fallback translation
         if (fallbackUrls.length > 0) {
           fetchVerse(fallbackUrls[0], verseNum, verseEnd, popup, fallbackUrls.slice(1));
         } else {
@@ -465,28 +484,23 @@
       }
     }
 
-    // If direct ID lookup failed, search inside grouped verse spans
-    // (convert_cir.py groups verses like 13-20 into one span id="v13")
     if (verses.length === 0) {
+      // Verse may live inside a grouped span (e.g. id="v13" contains 13-20)
       var allVerseSpans = doc.querySelectorAll('.verse');
       for (var i = 0; i < allVerseSpans.length; i++) {
         var span = allVerseSpans[i];
         var sups = span.querySelectorAll('sup');
-        // Build list of verse numbers with their sup elements
         var verseNums = [];
         for (var j = 0; j < sups.length; j++) {
           var supText = sups[j].textContent.trim().replace(/[^0-9]/g, '');
           var n = parseInt(supText, 10);
           if (!isNaN(n) && n > 0 && n < 200) verseNums.push({ num: n, el: sups[j] });
         }
-        // Check if target verse is in this span
-        var hasTarget = verseNums.some(function(vn) { return vn.num >= verseNum && vn.num <= end; });
+        var hasTarget = verseNums.some(function (vn) { return vn.num >= verseNum && vn.num <= end; });
         if (!hasTarget) continue;
 
-        // Use HTML string slicing to extract just the target verse
         var clone2 = span.cloneNode(true);
         var fullHtml = clone2.innerHTML;
-        // Build regex to find <sup> tags containing verse numbers
         var supPattern = /<sup[^>]*>\s*(\d+)\s*<\/sup>/gi;
         var supPositions = [];
         var match;
@@ -496,30 +510,19 @@
             supPositions.push({ num: sn, start: match.index, end: match.index + match[0].length });
           }
         }
-        // Find start position (the <sup>14</sup>) and end position (the <sup>15</sup>)
         var startPos = -1, endPos = fullHtml.length;
         for (var p = 0; p < supPositions.length; p++) {
           if (supPositions[p].num === verseNum) startPos = supPositions[p].start;
           if (startPos >= 0 && supPositions[p].num > end) { endPos = supPositions[p].start; break; }
         }
-        if (startPos >= 0) {
-          var extracted = fullHtml.substring(startPos, endPos).trim();
-          // Clean up any unclosed/unopened tags
-          verses.push(extracted);
-        } else {
-          verses.push(fullHtml);
-        }
-        break; // done
+        if (startPos >= 0) verses.push(fullHtml.substring(startPos, endPos).trim());
+        else verses.push(fullHtml);
+        break;
       }
     }
 
     if (verses.length > 0) {
       container.innerHTML = '<div class="sp-verses">' + verses.join(' ') + '</div>';
-      var link = container.parentElement.querySelector('.sp-link');
-      if (link) {
-        var pageUrl = doc.querySelector('link[rel="canonical"]');
-        if (pageUrl) link.href = pageUrl.getAttribute('href') + '#v' + verseNum;
-      }
       return true;
     } else {
       container.innerHTML = '<div class="sp-error">Verse not found in this translation</div>';
@@ -527,6 +530,199 @@
     }
   }
 
+  /* ================================================================
+     FULL-CHAPTER MODAL
+     ================================================================ */
+  var activeModal = null;
+
+  function openChapterModal(refData) {
+    // Close the small popup (it gave us the data; modal takes over)
+    closePopup();
+
+    // If a modal is already open, just swap content (single-modal stack)
+    if (activeModal) {
+      loadChapterIntoModal(refData, activeModal);
+      return;
+    }
+
+    var backdrop = document.createElement('div');
+    backdrop.className = 'scripture-modal-backdrop';
+    backdrop.setAttribute('role', 'dialog');
+    backdrop.setAttribute('aria-modal', 'true');
+    backdrop.innerHTML =
+      '<div class="scripture-modal">' +
+        '<div class="scripture-modal-header">' +
+          '<h2 class="scripture-modal-title">Loading\u2026</h2>' +
+          '<button class="sm-close" type="button" aria-label="Close">\u2715</button>' +
+        '</div>' +
+        '<div class="scripture-modal-body"><div class="sm-loading">Loading chapter\u2026</div></div>' +
+      '</div>';
+
+    document.body.appendChild(backdrop);
+    document.body.classList.add('scripture-modal-open');
+    activeModal = backdrop;
+
+    // Close handlers
+    backdrop.querySelector('.sm-close').addEventListener('click', closeModal);
+    backdrop.addEventListener('click', function (e) {
+      if (e.target !== backdrop) return;
+      // If popup is also open, let popup-close handle this click — don't close modal.
+      if (activePopup) return;
+      closeModal();
+    });
+
+    // ESC handler (closePopup sometimes removes the keydown listener; ensure it's bound)
+    document.addEventListener('keydown', onEscKey);
+
+    loadChapterIntoModal(refData, backdrop);
+  }
+
+  function loadChapterIntoModal(refData, modalBackdrop) {
+    var titleEl = modalBackdrop.querySelector('.scripture-modal-title');
+    var bodyEl = modalBackdrop.querySelector('.scripture-modal-body');
+    titleEl.textContent = 'Loading\u2026';
+    bodyEl.innerHTML = '<div class="sm-loading">Loading chapter\u2026</div>';
+
+    var url = refData.url;
+    var fallbacks = refData.fallbacks.slice();
+    var verse = refData.verse;
+    var label = refData.label;
+
+    function render(doc) {
+      // Title: use the chapter heading (h2) from the fetched page if available
+      var docTitle = doc.querySelector('.chapter-content h2, .chapter-content h1');
+      if (docTitle) {
+        titleEl.textContent = docTitle.textContent.trim();
+      } else {
+        // Fall back to label with verse stripped (e.g. "Romans 1:17" → "Romans 1")
+        titleEl.textContent = label.replace(/:\d+.*$/, '');
+      }
+
+      // Insert chapter content
+      var contentNode = doc.querySelector('.chapter-content');
+      if (!contentNode) {
+        bodyEl.innerHTML = '<div class="sm-error">Chapter content not found.</div>';
+        return;
+      }
+
+      // Clone so we don't modify the cached document
+      var contentClone = contentNode.cloneNode(true);
+      // Remove the original chapter heading (we already show it in the modal header)
+      var firstH = contentClone.querySelector('h1, h2');
+      if (firstH) firstH.remove();
+
+      bodyEl.innerHTML = '';
+      var wrapper = document.createElement('div');
+      wrapper.className = 'chapter-content';
+
+      // Pass context to the verse-tap-tooltip in reading-ui.html. Without these
+      // attrs the tooltip would read book/chapter/translation from the toolbar
+      // (which reflects the underlying page, not the modal's chapter).
+      var transSlug = (url.match(/\/translations\/([^/]+)\//) || [])[1] || '';
+      var transAbbrev = ({'cnt-nt': 'CNT', 'cnt-ot': 'COT', 'wooden-nt': 'WNT', 'cyv': 'CYV'})[transSlug] || '';
+      var titleText = docTitle ? docTitle.textContent.trim() : '';
+      // Title formats observed: "2 Corinthians Chapter 4", "Genesis 1"
+      var bcMatch = titleText.match(/^(.+?)\s+(?:Chapter\s+)?(\d+)\s*$/i);
+      wrapper.setAttribute('data-book', bcMatch ? bcMatch[1].trim() : '');
+      wrapper.setAttribute('data-chapter', bcMatch ? bcMatch[2] : '');
+      wrapper.setAttribute('data-translation', transAbbrev);
+
+      wrapper.appendChild(contentClone);
+      bodyEl.appendChild(wrapper);
+
+      // Re-linkify cross-refs inside the modal (recursive popups)
+      linkifyReferences(wrapper);
+
+      // Scroll to verse + briefly highlight
+      requestAnimationFrame(function () {
+        var verseEl = bodyEl.querySelector('#v' + verse);
+        if (!verseEl) return;
+        // scrollIntoView inside the scrollable modal body
+        var bodyRect = bodyEl.getBoundingClientRect();
+        var verseRect = verseEl.getBoundingClientRect();
+        bodyEl.scrollTop += (verseRect.top - bodyRect.top) - 20;
+
+        // Wrap the verse content in an inline span so the highlight follows
+        // the text glyphs (with box-decoration-break: clone per line) rather
+        // than extending across the full block height. The .verse element is
+        // display:block with line-height: 1.8, which would otherwise show a
+        // "blank" highlighted area below the last text line.
+        //
+        // Also trim trailing whitespace inside the verse before wrapping. The
+        // source docx often has 30-40 trailing spaces inside the last child
+        // span (Word formatting artifact); without this, those spaces would
+        // wrap to a new line and the highlight would render a small empty box
+        // below the verse text.
+        (function trimTrailingWhitespace(el) {
+          var node = el.lastChild;
+          while (node) {
+            if (node.nodeType === 3 /* TEXT_NODE */) {
+              var trimmed = node.textContent.replace(/\s+$/, '');
+              if (trimmed === node.textContent) return;
+              node.textContent = trimmed;
+              if (trimmed.length > 0) return;
+              var prev = node.previousSibling;
+              node.remove();
+              node = prev;
+            } else if (node.nodeType === 1 /* ELEMENT_NODE */ && node.lastChild) {
+              node = node.lastChild;
+            } else {
+              return;
+            }
+          }
+        })(verseEl);
+
+        var highlightWrap = document.createElement('span');
+        highlightWrap.className = 'verse-highlight-inline';
+        while (verseEl.firstChild) highlightWrap.appendChild(verseEl.firstChild);
+        verseEl.appendChild(highlightWrap);
+        setTimeout(function () {
+          while (highlightWrap.firstChild) verseEl.appendChild(highlightWrap.firstChild);
+          highlightWrap.remove();
+        }, VERSE_HIGHLIGHT_MS);
+      });
+    }
+
+    if (fetchCache[url]) {
+      render(fetchCache[url]);
+      return;
+    }
+
+    fetch(url)
+      .then(function (r) {
+        if (!r.ok) throw new Error('404');
+        return r.text();
+      })
+      .then(function (html) {
+        var doc = new DOMParser().parseFromString(html, 'text/html');
+        fetchCache[url] = doc;
+        render(doc);
+      })
+      .catch(function () {
+        if (fallbacks.length > 0) {
+          refData.url = fallbacks[0];
+          refData.fallbacks = fallbacks.slice(1);
+          loadChapterIntoModal(refData, modalBackdrop);
+        } else {
+          titleEl.textContent = label;
+          bodyEl.innerHTML = '<div class="sm-error">Chapter not available in any translation.</div>';
+        }
+      });
+  }
+
+  function closeModal() {
+    if (activeModal) {
+      activeModal.remove();
+      activeModal = null;
+      document.body.classList.remove('scripture-modal-open');
+    }
+    // Remove keydown listener if no popup needs it
+    if (!activePopup) document.removeEventListener('keydown', onEscKey);
+  }
+
+  /* ================================================================
+     UTILITIES
+     ================================================================ */
   function escHtml(str) {
     var d = document.createElement('div');
     d.textContent = str;
@@ -537,7 +733,7 @@
      INIT
      ================================================================ */
   if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', linkifyReferences);
+    document.addEventListener('DOMContentLoaded', function () { linkifyReferences(); });
   } else {
     linkifyReferences();
   }
