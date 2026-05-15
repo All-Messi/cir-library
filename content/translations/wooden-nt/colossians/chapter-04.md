@@ -10,6 +10,8 @@ prev: chapter-03
 
 ## Colossians Chapter 4
 
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>[The] masters, give the/your slaves the just-thing and [the] fairness, knowing that you also have (a) Master in heaven.</span></span></p>
+
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Devote-yourselves to-[the] prayer, being-vigilant in it in thanksgiving, </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>praying at-the-same-time/together also about us, in-order-that [the] God may-open for-us (a) door of-the word to-speak the mystery of-[the] Christ, on-account-lf which also I-have-been-put-in-prison. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(Pray) in-order-that I-will-make┘it└manifest as it-is-necessary for-me to-speak. </span></span>

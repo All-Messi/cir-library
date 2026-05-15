@@ -62,8 +62,7 @@ next: chapter-22
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height: 115%'>When David saw that Yahveh had answered him, he offered sacrifice there, </span></span>
 <span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%'>because the Tabernacle and altar that Moses made were in the countryside at Gibeon. </span></span>
-<span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%'>But David couldn’t go to it to ask God because the angel’s sword terrified him. </span></span>
-<span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt; line-height:115%'>David said, <i>“This is the house of Yahveh God and the altar of burnt offering for Israel.”                                             </i></span><b><span style='font-size:10.0pt;line-height:115%'>1 Ch 21:18-22:1</span></b></span></p>
+<span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%'>But David couldn’t go to it to ask God because the angel’s sword terrified him. </span></span></p>
 
 
 <style>

@@ -11,6 +11,12 @@ next: chapter-03
 
 ## Colossians Chapter 2
 
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I want you to know how much I am striving for you, for the ones in Laodicea, and for whoever has never met me. </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I urge you to bond together in love and to gain the valuable confidence that comes from knowing and understanding God’s revealed mystery: Christ. </span></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>All the hidden treasures of knowledge and wisdom lie in him. </span></span>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I say that so nobody will lead you astray with persuasive arguments. </span></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Though I’m absent in body, I’m present in spirit, happy to see your orderly living and steadfast faith in Christ. </span><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'>Col 1:24-2:5</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span></p>
+
 
 ### Urging Continued Faithfulness
 

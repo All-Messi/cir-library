@@ -46,10 +46,7 @@ next: chapter-07
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh killed 70 men from Beth-shemesh because they looked in the Ark. The people mourned because he’d killed so many. </span></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then the men of Beth-shemesh said, </span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>“Who can stand against this holy God? Who will go up when he leaves us?” </span></i></span>
-<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They sent messengers to Kiriath-jearim, </span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>“The Philistines have brought back the Ark of Yahveh. Come down and get it.” </span></i></span>
-<span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The men came and took it to Abinadab’s house on the hill. They consecrated his son Eleazar to take charge of it. </span></span>
-<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It was there some 20 years, and Israel mourned after </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh.<b>
-  </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family: "Times New Roman",serif'>1 Sam 6:19-7:2</span></b><b><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></b></span></p>
+<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They sent messengers to Kiriath-jearim, </span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>“The Philistines have brought back the Ark of Yahveh. Come down and get it.” </span></i></span></p>
 
 
 <style>

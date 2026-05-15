@@ -53,10 +53,7 @@ next: chapter-11
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>As soon as he spoke, my strength came back, and I said, <i>“Go ahead and speak; you’ve strengthened me.”</i> </span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124495442"><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said, <i>“Do you understand why I’ve come? I’m going back now to fight the prince of Persia. The prince of Greece is coming, </i></span></span>
-<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>but I’ll tell you what’s inscribed in the Book of Truth. There’s nobody standing firmly with me against those forces except Michael your prince. </span></i></span>
-<span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In the first year of Darius the Mede</span></i></b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>, I arose to encourage and protect him. </span></i><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>    </span></b></span></span></p>
-
-<p class="section-ref">Dan 10:19-11:1</p>
+<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>but I’ll tell you what’s inscribed in the Book of Truth. There’s nobody standing firmly with me against those forces except Michael your prince. </span></i></span></p>
 
 
 <style>

@@ -11,6 +11,10 @@ next: chapter-06
 
 ## Galatians Chapter 5
 
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Christ really has set us free;<b> </b>so stand firm; don’t put yourselves back under a yoke of bondage.     </span></span></p>
+
+<p class="section-ref">Gal 4:21-5:1</p>
+
 
 ### Law and Trust, Mutually Exclusive Systems
 

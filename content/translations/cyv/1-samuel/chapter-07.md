@@ -11,6 +11,10 @@ next: chapter-08
 
 ## 1 Samuel Chapter 7
 
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The men came and took it to Abinadab’s house on the hill. They consecrated his son Eleazar to take charge of it. </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It was there some 20 years, and Israel mourned after </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh.<b>
+  </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family: "Times New Roman",serif'>1 Sam 6:19-7:2</span></b><b><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></b></span></p>
+
 
 ### Samuel Judges Israel
 

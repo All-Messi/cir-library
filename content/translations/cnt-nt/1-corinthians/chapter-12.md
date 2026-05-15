@@ -64,25 +64,7 @@ next: chapter-13
 ### Love , the All-Purpose Virtue
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Earnestly desire the more important gifts, but I’ll show you something <i>even</i> better. </span></span>
-<span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If I speak in the languages of people and angels, but don’t love, like a noisy gong or crashing cymbal <u>I<i> mean anything</i></u>. </span></span>
-<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If I prophesy, understand all mysteries, know everything, have enough faith to move mountains, but don’t love, <u>I am nothing</u>. </span></span>
-<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If I give everything I own to feed <i>the poor</i> and give up my body so I can take pride <i>in doing it</i>, but don’t love, <u>I gain nothing</u><i>.</i>
-</span></span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Love is patient and kind, not jealous or proud. </span></span>
-<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It’s considerate, not selfish or easily offended; it doesn’t dwell on what’s wrong. </span></span>
-<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Love doesn’t enjoy doing people in; it enjoys the truth. </span></span>
-<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Love bears up under everything; it tends to trust; it hopes for the best. Love lasts.                                                       </span></span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Love never falls <i>out of the picture</i>. But prophesying will pass away; languages will stop; knowledge will disappear. </span></span>
-<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We know partially and prophecy partially. </span></span>
-<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But, when what’s final comes, what’s preliminary will disappear. </span></span>
-<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When I was a kid, I talked like one, thought like one, reasoned like one. When I grew up, I quit doing what a kid does. </span></span>
-<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We see in a mirror blurry now, but <i>we’ll see</i> directly then. I know partly now, but then I’ll know as I’m known. </span></span>
-<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>There’s faith, hope, and love now—those three; but love is the most important.</span></span></p>
-
-<p class="section-ref">1 Cor 12:31- 13:13</p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Earnestly desire the more important gifts, but I’ll show you something <i>even</i> better. </span></span></p>
 
 
 <style>

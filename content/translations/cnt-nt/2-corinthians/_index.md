@@ -4,7 +4,7 @@ chapters: 13
 title: 2 Corinthians
 translation: CNT
 type: book
-weight: 47
+weight: 8
 ---
 
 ## 2 Corinthians

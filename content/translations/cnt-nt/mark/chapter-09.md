@@ -11,6 +11,11 @@ next: chapter-10
 
 ## Mark Chapter 9
 
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;line-height:normal'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Some </span></i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>of you <i>standing here will certainly live to see God’s kingdom come with power.”</i><b>
+</b></span></span></p>
+
+<p class="section-ref">Mk 8:31-9:1</p>
+
 
 ### The Transfiguration
 

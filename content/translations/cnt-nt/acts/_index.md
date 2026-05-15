@@ -4,7 +4,7 @@ chapters: 28
 title: Acts
 translation: CNT
 type: book
-weight: 44
+weight: 5
 ---
 
 ## Acts

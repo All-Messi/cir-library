@@ -11,6 +11,19 @@ next: chapter-24
 
 ## Acts Chapter 23
 
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Paul looked straight at the Sanhedrin, <i>“Brothers, in good conscience I’ve conducted myself as a citizen toward God up to this day.” </i></span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ananias the high priest commanded the ones that were standing by him to slap him in the mouth.</span></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Paul said, <i>“God’s going to slap you, you whitewashed wall! You sit judging me by the Law and command them to slap me in violation of the Law.”</i></span></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The ones that were standing there said, <i>“You insult God’s high priest?”</i></span></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Paul said, <i>“Brothers, I was not aware that he was a high priest. The scripture does say,</i></span></span></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘Don’t say bad things about a ruler of your people’</span></i></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Ex 22:28]</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>.</span></p>
+
+<p class="section-ref">Acts 22:30-23:5</p>
+
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Knowing one part was Sadducees and the other was Pharisees, he started shouting, <i>“I’m a Pharisee, the son of a Pharisee! I’m on trial for having hope in the resurrection!”</i></span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Dissension erupted between the Pharisees and Sadducees. </span></span>

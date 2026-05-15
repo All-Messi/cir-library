@@ -11,6 +11,8 @@ next: chapter-23
 
 ## 1 Chronicles Chapter 22
 
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt; line-height:115%'>David said, <i>“This is the house of Yahveh God and the altar of burnt offering for Israel.”                                             </i></span><b><span style='font-size:10.0pt;line-height:115%'>1 Ch 21:18-22:1</span></b></span></p>
+
 
 ### David’s Preparations for the Temple
 

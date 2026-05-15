@@ -11,6 +11,8 @@ next: chapter-23
 
 ## 1 Chronicles Chapter 22
 
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>David said, <i>“This will be the Temple of the </i><i>L</i></span><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> God and the altar of burnt offering for Israel.”                          </span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Ch 21:18-22:1</span></b></span></p>
+
 
 ### David’s Preparations for the Temple
 

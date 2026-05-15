@@ -110,11 +110,7 @@ next: chapter-09
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;line-height:normal'><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“If people want to follow me, they have to set aside their own interests, pick up their cross, and follow me. </span></i><span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Whoever wants to save their life will lose it; whoever loses their life on account of me and the good news will save it. </span></i></span>
 <span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>What good does it do anyone to gain the whole world and forfeit their life? </span></i></span>
 <span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>What would they give in exchange for their life? </span></i></span>
-<span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Whoever’s ashamed of me and my message in this adulterous, sinful time, the Son of Man will be ashamed of when he comes in his Father’s glory with his holy angels. </span></i></span>
-<span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Some </span></i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>of you <i>standing here will certainly live to see God’s kingdom come with power.”</i><b>
-</b></span></span></p>
-
-<p class="section-ref">Mk 8:31-9:1</p>
+<span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Whoever’s ashamed of me and my message in this adulterous, sinful time, the Son of Man will be ashamed of when he comes in his Father’s glory with his holy angels. </span></i></span></p>
 
 
 <style>

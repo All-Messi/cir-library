@@ -11,6 +11,10 @@ next: chapter-37
 
 ## Exodus Chapter 36
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:13.5pt; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Bezalel, Oholiah, and every person skilled by Yahveh are to perform their work as commanded.”  </span></i></span></span></p>
+
+<p class="section-ref">Ex 35:30-36:1</p>
+
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses called Bezalel, Oholiab, and their artisans to begin the work. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They received from him the contributions for building the sanctuary. [</span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>]

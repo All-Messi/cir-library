@@ -11,6 +11,10 @@ next: chapter-09
 
 ## Acts Chapter 8
 
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Saul was approving of his death.                       </span></span></p>
+
+<p class="section-ref">Acts 7:54-8:1a</p>
+
 
 ### Paul Leads a General Persecution
 

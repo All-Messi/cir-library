@@ -65,25 +65,7 @@ next: chapter-02
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God’s my witness: it was to spare you that I changed my mind and didn’t come to Corinth. </span></span>
-<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We aren’t trying to lord it over your faith; we’re fellow workers for your joy. You stand firm in <i>your own</i> faith. </span></span>
-<span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I was determined not to come again with sadness. </span></span>
-<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If I make you feel bad, who’s going to make me feel good except the ones I made feel bad? </span></span>
-<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ve written this so when I come, I won’t be saddened by the ones I need to make me happy. I’m confident that my joy would mean your joy. </span></span>
-<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Out of hardship and anxiety, I wrote to you through many tears, not to make you sad, but to let you know how much I care about you.                                                   </span></span></p>
-
-<p class="section-ref">2 Cor 1:23-2:4</p>
-
-
-### Forgiving the Offender in Corinth
-
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If somebody has caused sadness, he hasn’t caused it just to me—I’m not exaggerating—but to all of you. </span></span>
-<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That discipline by the majority is enough for someone like him. </span></span>
-<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now you need to forgive him and comfort <i>him</i> so grief doesn’t overwhelm him. </span></span>
-<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So show him how much you care about him. </span></span>
-<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That’s another reason I’ve written: to know if you obey in everything. </span></span>
-<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you’ve forgiven anybody of anything, I have too. What I’ve forgiven I’ve forgiven for your sake in the presence of Christ </span></span>
-<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>so Satan can’t get the better of us. We know how he works.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></b></span></p>
+<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We aren’t trying to lord it over your faith; we’re fellow workers for your joy. You stand firm in <i>your own</i> faith. </span></span></p>
 
 
 <style>

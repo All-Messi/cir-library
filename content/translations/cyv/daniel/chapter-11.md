@@ -11,6 +11,10 @@ next: chapter-12
 
 ## Daniel Chapter 11
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In the first year of Darius the Mede</span></i></b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>, I arose to encourage and protect him. </span></i><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>    </span></b></span></span></p>
+
+<p class="section-ref">Dan 10:19-11:1</p>
+
 
 ### Kings of the North and South
 

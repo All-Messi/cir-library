@@ -51,9 +51,7 @@ next: chapter-04
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Many live as enemies of the cross, as I used to say and tell you now, weeping. </span></span>
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Their end is destruction, their God is their stomach, their honor is their shame, their minds are on earthly things. </span></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Our citizenship lies in heaven, from where we wait for our Savior to come. </span></span>
-<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He’ll transform our humble bodies to be like his glorious body. <i>He’ll do that</i> by using the power he used to subject everything to himself. </span></span>
-<span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So, fellow Christians loved and longed for, my joy and crown, stand firm in the Lord.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>
- </span></b></span></p>
+<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He’ll transform our humble bodies to be like his glorious body. <i>He’ll do that</i> by using the power he used to subject everything to himself. </span></span></p>
 
 
 <style>

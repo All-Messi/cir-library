@@ -135,10 +135,7 @@ next: chapter-08
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v57" id="v57"><sup class="verse-num">57</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>They shouted out and covered their ears and rushed at him together. </span></span>
 <span class="verse verse-v58" id="v58"><sup class="verse-num">58</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They threw him out of the city and started stoning him. The witnesses laid their clothes at the feet of a young man called Saul. </span></span>
 <span class="verse verse-v59" id="v59"><sup class="verse-num">59</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As they stoned Stephen, he called out, <i>“Lord Jesus, receive my spirit!”</i> </span></span>
-<span class="verse verse-v60" id="v60"><sup class="verse-num">60</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He knelt down and shouted out, <i>“Lord, don’t hold this sin against them!”</i> Then he died. </span></span>
-<span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Saul was approving of his death.                       </span></span></p>
-
-<p class="section-ref">Acts 7:54-8:1a</p>
+<span class="verse verse-v60" id="v60"><sup class="verse-num">60</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He knelt down and shouted out, <i>“Lord, don’t hold this sin against them!”</i> Then he died. </span></span></p>
 
 
 <style>

@@ -11,6 +11,10 @@ next: chapter-12
 
 ## 1 Corinthians Chapter 11
 
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Follow my example like I follow Christ’s.</span></span></p>
+
+<p class="section-ref">1 Cor 10:23-11:1</p>
+
 
 ### Women’s Decorum in Worship
 

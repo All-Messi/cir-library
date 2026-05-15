@@ -54,10 +54,7 @@ next: chapter-11
 <span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If I eat with thanks, why am I slandered for it? </span></span>
 <span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Whether you eat or drink or whatever you do, do it to God’s honor. </span></span>
 <span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Don’t do anything that hurts Jews or Gentiles or God’s church. </span></span>
-<span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I aim to be pleasing to everybody in everything I do. I don’t try to do what’s best for me, but for everybody’s benefit so I can save them. </span></span>
-<span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Follow my example like I follow Christ’s.</span></span></p>
-
-<p class="section-ref">1 Cor 10:23-11:1</p>
+<span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I aim to be pleasing to everybody in everything I do. I don’t try to do what’s best for me, but for everybody’s benefit so I can save them. </span></span></p>
 
 
 <style>

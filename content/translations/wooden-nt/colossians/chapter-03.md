@@ -40,8 +40,7 @@ next: chapter-04
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>[The] slaves, obey the/your masters according-to (the) flesh according-to all-things, not in eye-service as men-pleasers, but in sincerity of-heart, fearing the Lord. </span></span>
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Whatever<sup>2</sup> you-do, from (the) soul work as to-the Lord and not men, </span></span>
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>knowing that from (the) Lord you-will-receive the reward of-the inheritance. Serve the Lord Christ; </span></span>
-<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>for the-one doing-unjustly will-receive-back what he-unjustly-did, and respect-of-persons is not. </span></span>
-<span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>[The] masters, give the/your slaves the just-thing and [the] fairness, knowing that you also have (a) Master in heaven.</span></span></p>
+<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>for the-one doing-unjustly will-receive-back what he-unjustly-did, and respect-of-persons is not. </span></span></p>
 
 
 <style>

@@ -11,6 +11,8 @@ next: chapter-06
 
 ## Galatians Chapter 5
 
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Christ certainly set┘us└free<sup>3</sup>; so stand-firm and do┘not again└be-subject to-(a)-yoke of-bondage.</span></span></p>
+
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Behold, I, Paul, tell you that if you are circumcised, Christ will┘not└benefit you anything. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And I-testify again to every man (that is) circumcised that he is (a) debtor to-do the whole Law.
 </span></span>

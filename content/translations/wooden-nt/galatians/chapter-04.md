@@ -62,8 +62,7 @@ next: chapter-05
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>with the son” of-the free (woman).</span></b></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Wherefore, brothers, we-are not children of-(a)-slave-girl, but of-the free (woman). </span></span>
-<span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Christ certainly set┘us└free<sup>3</sup>; so stand-firm and do┘not again└be-subject to-(a)-yoke of-bondage.</span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Wherefore, brothers, we-are not children of-(a)-slave-girl, but of-the free (woman). </span></span></p>
 
 
 <style>
