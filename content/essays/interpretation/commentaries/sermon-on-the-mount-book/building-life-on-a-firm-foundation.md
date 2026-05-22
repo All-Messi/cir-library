@@ -6,7 +6,7 @@ categories:
 - 'Interpretation'
 - 'Commentaries'
 - 'Sermon On The Mount Book'
-weight: 0
+weight: 13
 draft: false
 ---
 

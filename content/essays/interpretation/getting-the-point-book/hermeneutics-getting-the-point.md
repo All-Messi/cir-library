@@ -5,7 +5,7 @@ date: '2026-04-02'
 categories:
 - 'Interpretation'
 - 'Getting The Point Book'
-weight: 1
+weight: 2
 draft: false
 ---
 
