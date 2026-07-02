@@ -51,7 +51,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--31.5pt'><span style='font-size:12.0pt'>           1.   With the exception of
+0in'><span style='font-size:12.0pt'>           1.   With the exception of
 Luke<b> 20</b>:16, Romans is the book that most uses the Pauline expression <i>God
 forbid</i> (</span><span lang=EL style='font-size:12.0pt'>μὴ</span><span
 lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>γένοιτο</span><span
@@ -71,7 +71,7 @@ style='font-size:12.0pt'>consists of <u>saluters</u> (<b>4</b>:7-14, five;
 while Romans contains seven—eight including Tertius).</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--31.5pt'><span style='font-size:12.0pt'>           3.   The only Pauline letter
+0in'><span style='font-size:12.0pt'>           3.   The only Pauline letter
 to a church Paul did not found (Colossians might be another.)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -86,11 +86,11 @@ style='font-size:12.0pt'>8</span></b><span style='font-size:12.0pt'>:31; <b>9</b
 30</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--31.5pt'><span style='font-size:12.0pt'>           5.   The only letter where
+0in'><span style='font-size:12.0pt'>           5.   The only letter where
 an amanuensis speaks in his own name (<b>16</b>:22)</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--31.5pt'><span style='font-size:12.0pt'>           6.   The only source that
+0in'><span style='font-size:12.0pt'>           6.   The only source that
 makes clear that there was more than one meeting unit in the city (<b>16</b>:4-5,
 14, 15)</span></p>
 
@@ -155,12 +155,12 @@ style='font-size:12.0pt'>Two households: Aristobulus and Narcissus</span></p>
 style='font-size:12.0pt'>      </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.75in'><span style='font-size:12.0pt'>                  Salutations from
+0in'><span style='font-size:12.0pt'>                  Salutations from
 Timothy, Lucius, Jason, Sosipater, Tertius, Gaius (and the whole church), Eratus,
 and Quartus</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.75in'><span style='font-size:12.0pt'>&nbsp;</span></p>
+0in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:11.0pt'>christir.org</span></p>

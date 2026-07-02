@@ -239,7 +239,7 @@ actual languages (xenoglossia)</span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--117.0pt'><span style='font-size:12.0pt'>                                                         1.   <i>“They
+0in'><span style='font-size:12.0pt'>                                                         1.   <i>“They
 began to <u>speak</u> in <u>other</u> tongues</i> [</span><span lang=EL
 style='font-size:12.0pt'>ἑτέραις</span><span lang=EL style='font-size:12.0pt'> </span><span
 lang=EL style='font-size:12.0pt'>γλώσσαις</span><span style='font-size:12.0pt'>]
@@ -648,7 +648,7 @@ human languages, not “angelic” ones</span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--1.0in'><span style='font-size:12.0pt'>                                          1.   <u>The
+0in'><span style='font-size:12.0pt'>                                          1.   <u>The
 phenomenon was capable of serving as a sign to unbelievers </u>(<b>14</b>:22;
 cp. <b>16</b>:17).</span></p>
 
@@ -1286,7 +1286,7 @@ interpretation in 1 Corinthians<b> 14</b></span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--1.0in'><span style='font-size:12.0pt'>                                                1.   Languages
+0in'><span style='font-size:12.0pt'>                                                1.   Languages
 speak to God because no <u>human</u> understands; they speak to God by default.</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
@@ -1295,7 +1295,7 @@ understand at the element-by-element level, but they know at the conceptual
 level. </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                      3.   The
+0in'><span style='font-size:12.0pt'>                                                      3.   The
 language speakers are accused of being crazy because the hearers cannot
 understand what they are speaking—or the speakers are all talking at once.</span></p>
 

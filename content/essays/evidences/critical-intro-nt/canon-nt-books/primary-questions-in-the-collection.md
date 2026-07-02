@@ -132,7 +132,7 @@ Titus, Sosthenes, Mark, Luke, Demas, Barnabas, Apollos, Aquila/Prisca,
 Epaphroditus, Epaphras?</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
+0in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-31.5pt;text-align:justify'><span
 style='font-size:12.0pt'>            A.  Something of the recipients’ regard
@@ -142,7 +142,7 @@ for Paul is shown by their accepting his strong </span></p>
 style='font-size:12.0pt'>                        claims of authority over them.</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.75in'><span style='font-size:12.0pt'>                              B.  Their
+0in'><span style='font-size:12.0pt'>                              B.  Their
 regard for him is also shown in their involvement with him in the sometimes dangerous
 missionary enterprise.            </span></p>
 
@@ -168,7 +168,7 @@ end up being an accumulating number there.</span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.75in'><span style='font-size:12.0pt'>                              A.  Letter
+0in'><span style='font-size:12.0pt'>                              A.  Letter
 to the Laodiceans/Colossians: Paul’s command to exchange the letters
 (Colossians <b>4</b>:16)</span></p>
 

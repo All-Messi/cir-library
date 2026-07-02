@@ -1447,3 +1447,35 @@ html body .hero .lead strong {
     .book-float-prev { left: 8px; }
     .book-float-next { right: 8px; }
 }
+
+/* ============================================
+   MOBILE HEADER FIX (2026-06-09)
+   The high-specificity "html body ..." override block earlier in this file
+   applies at ALL viewport widths and silently defeats the max-width:768px
+   header rules above it (lower specificity loses even with !important).
+   These rules restate the mobile header values at matching specificity so
+   they actually win on phones. If you edit the override block, keep this
+   block in sync.
+   ============================================ */
+@media (max-width: 768px) {
+    html body .site-header .header-content {
+        height: 60px !important;
+        gap: 0.6rem !important;
+    }
+    html body .site-header .site-logo {
+        width: 36px !important;
+        height: 36px !important;
+    }
+    html body .header-search {
+        max-width: none !important;
+    }
+    html body .header-search-input {
+        /* 16px stops iOS Safari from auto-zooming the page on focus */
+        font-size: 16px !important;
+        padding: 0.5rem 0.9rem !important;
+    }
+    html body .header-search-btn {
+        width: 34px !important;
+        height: 34px !important;
+    }
+}

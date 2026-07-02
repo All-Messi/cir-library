@@ -27,43 +27,43 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-left:-.5in;text-align:center'><b>&nbsp;</b></p>
+<p class=MsoNormal align=center style='margin-left:0in;text-align:center'><b>&nbsp;</b></p>
 
-<p class=MsoNormal align=center style='margin-left:-.5in;text-align:center'><b>&nbsp;</b></p>
+<p class=MsoNormal align=center style='margin-left:0in;text-align:center'><b>&nbsp;</b></p>
 
-<p class=MsoNormal align=center style='margin-left:-.5in;text-align:center'><b><span
+<p class=MsoNormal align=center style='margin-left:0in;text-align:center'><b><span
 style='font-size:14.0pt'>EVANGELICAL PERSPECTIVES ON MEN-WOMEN RELATIONSHIP </span></b></p>
 
-<p class=MsoNormal align=center style='margin-left:-.5in;text-align:center'><b>&nbsp;</b></p>
+<p class=MsoNormal align=center style='margin-left:0in;text-align:center'><b>&nbsp;</b></p>
 
-<p class=MsoNormal align=center style='margin-left:-.5in;text-align:center'><b><span
+<p class=MsoNormal align=center style='margin-left:0in;text-align:center'><b><span
 style='font-size:12.0pt'>Virgil Warren, PhD</span></b></p>
 
-<p class=MsoNormal align=center style='margin-left:-.5in;text-align:center'>&nbsp;</p>
+<p class=MsoNormal align=center style='margin-left:0in;text-align:center'>&nbsp;</p>
 
-<p class=MsoNormal align=center style='margin-left:-.5in;text-align:center'>&nbsp;</p>
+<p class=MsoNormal align=center style='margin-left:0in;text-align:center'>&nbsp;</p>
 
-<p class=MsoNormal align=center style='margin-left:-.5in;text-align:center'><b><span
+<p class=MsoNormal align=center style='margin-left:0in;text-align:center'><b><span
 style='font-size:12.0pt'>Introductory Observations</span></b></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'> In general, women’s studies relate to the <u>genetic
 nature</u> of men and women and <u>cultural expectancy</u> regarding their
 interaction. Discussing evangelical perspectives on men and women in
 relationship adds <u>biblical interpretation</u> to the inquiry.</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'> On this subject what makes a viewpoint evangelical is
 not so much the viewpoint itself as the accompanying attitude toward scripture
 and the consequent method of interpretation which that attitude involves.</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'> The <u>same viewpoint</u> may be shared by those with
 different views of scripture. An egalitarian viewpoint may be taken by a
 neo-orthodox or modernist/liberal who sees New Testament writers as products of
@@ -76,7 +76,7 @@ evangelicalism stands both (1) egalitarianism/ equalitarianism and (2)
 complementarianism/hierarchism, hence, the title “Evangelical Perspective<u>s</u>.”
 </span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify;text-indent:
+<p class=MsoNormal style='margin-left:0in;text-align:justify;text-indent:
 .5in'><span style='font-size:12.0pt'>“Egalitarianism” means either that there
 is no organizational structure in home (or church) or that all places of
 responsibility are equally open to men and women “on a level playing field.” “Complementarianism”
@@ -84,10 +84,10 @@ means that there is a pattern that enjoins men to accept the ultimate places of
 responsibility—at least as a matter of wisdom if not standard norm. Ideally
 both approaches stand within an original interpersonal condition.</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'> NOTE: Labels are often more confusing than helpful,
 but for present purposes four terms correlate with the following distinctions. In
 part, evangelicalism may be distinguished from neo-orthodoxy and
@@ -105,34 +105,34 @@ each writer interprets “events” vs. receives “words” that constitute
 revelation). <u>Modernism/liberalism</u> pretty well dissociates special divine
 assistance from either end of the revelation-illumination process.</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'> </span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal align=center style='margin-left:-.5in;text-align:center'><b><span
+<p class=MsoNormal align=center style='margin-left:0in;text-align:center'><b><span
 style='font-size:12.0pt'>A Concept Inventory Relevant to Evangelical
 Interpretation</span></b></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'> Proper interpretation of language depends on having a
 concept inventory co-extensive with the speaker’s. Otherwise conceptual
 match-up will not always occur between reader and writer.</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify;text-indent:
+<p class=MsoNormal style='margin-left:0in;text-align:justify;text-indent:
 31.5pt'>1. <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span><u><span
 style='font-size:12.0pt'>The interpersonal worldview</span></u><span
 style='font-size:12.0pt'>. Interpersonal relationship is the basic, central,
@@ -147,13 +147,13 @@ Interpersonalism” and “Characteristics of Interpersonalism” found in the
 author’s unpublished packet of essays entitled <u>Interpersonalism: The
 Integrating Reality for Christian Truth</u>.)</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify;text-indent:
+<p class=MsoNormal style='margin-left:0in;text-align:justify;text-indent:
 31.5pt'>2. <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span><u><span
 style='font-size:12.0pt'>Imperatival intent</span></u><span style='font-size:
 12.0pt'>. Imperative forms are used not only for mandates, but also for advice,
 exhortation, and entreaty. (See document entitled “Imperatival Intent.”)</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify;text-indent:
+<p class=MsoNormal style='margin-left:0in;text-align:justify;text-indent:
 31.5pt'>3. <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span><u><span
 style='font-size:12.0pt'>Morality (ethics/”law”/mandate), wisdom, and service</span></u><span
 style='font-size:12.0pt'>. These three types of social-relationship categories
@@ -163,18 +163,18 @@ against if he does not follow; or is that imperative meant as advice (wisdom)
 for practical purposes, so that a person <u>takes a risk</u> if he does not
 follow it?</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify;text-indent:
+<p class=MsoNormal style='margin-left:0in;text-align:justify;text-indent:
 31.5pt'>4. <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span><u><span
 style='font-size:12.0pt'>Formal leadership vs. purely social relationship</span></u><span
 style='font-size:12.0pt'>, natural leadership, and subsidiary leadership.</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify;text-indent:
+<p class=MsoNormal style='margin-left:0in;text-align:justify;text-indent:
 31.5pt'>5. <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span><u><span
 style='font-size:12.0pt'>Influence, authority, and force</span></u><span
 style='font-size:12.0pt'> as descending ways of affecting other people’s
 behavior.</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify;text-indent:
+<p class=MsoNormal style='margin-left:0in;text-align:justify;text-indent:
 31.5pt'>6. <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span><u><span
 style='font-size:12.0pt'>Responsibility more than authority</span></u><span
 style='font-size:12.0pt'>. The real issue is where God has placed final <u>responsibility</u>
@@ -189,13 +189,13 @@ highly individualistic culture. Understanding that the real issue is
 responsibility should help remove an unnecessary stigma from expressions like
 “authority,” “headship,” and “submission.” </span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify;text-indent:
+<p class=MsoNormal style='margin-left:0in;text-align:justify;text-indent:
 31.5pt'>7. <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span><u><span
 style='font-size:12.0pt'>Standard situation</span></u><span style='font-size:
 12.0pt'>. All biblical statements regarding deference behavior on the part of
 women assume a circumstance of “married with children.”</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify;text-indent:
+<p class=MsoNormal style='margin-left:0in;text-align:justify;text-indent:
 31.5pt'>8. <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span><u><span
 style='font-size:12.0pt'>Disjunction of rank and worth</span></u><span
 style='font-size:12.0pt'>. A child is not worth less than an adult simply
@@ -205,7 +205,7 @@ perfect pitch than another who is tone deaf. They may be more “useful” to
 certain endeavors than their less gifted counterparts, but they are not less
 “worthful.”</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify;text-indent:
+<p class=MsoNormal style='margin-left:0in;text-align:justify;text-indent:
 31.5pt'>9. <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span><u><span
 style='font-size:12.0pt'>Shifting from success in competition as a basis for
 personal worth</span></u><span style='font-size:12.0pt'> and replacing it with
@@ -214,7 +214,7 @@ horizontal relationships, and (c) self-giving in service relative to divine
 purpose. This reconceptualization involves a change from works to grace-trust
 and from competition to love as objective foundations for self-worth.</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify;text-indent:
+<p class=MsoNormal style='margin-left:0in;text-align:justify;text-indent:
 27.0pt'>10. <span style='font:7.0pt "Times New Roman"'>&nbsp; </span><span
 style='font-size:12.0pt'> <u>Control cases</u>: slavery, veil-wearing, holy
 kiss, homosexuality, superspirituality, silence behavior, parenting, etc. Here
@@ -224,14 +224,14 @@ there is a higher frame of reference that is more important and more
 fundamental than the rule itself; otherwise the exception could not exist
 without contradiction.</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify;text-indent:
+<p class=MsoNormal style='margin-left:0in;text-align:justify;text-indent:
 26.25pt'>11. <span style='font:7.0pt "Times New Roman"'>&nbsp; </span><span
 style='font-size:12.0pt'>   <u>Assumed limitation</u>, cultural and otherwise. By
 the nature of language communication, authorial intent determines the meaning
 of statements; so readers have to consider whether a writer’s statement in
 absolute form has an intended meaning within an assumed frame of reference.</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify;text-indent:
+<p class=MsoNormal style='margin-left:0in;text-align:justify;text-indent:
 26.25pt'>12. <span style='font:7.0pt "Times New Roman"'>&nbsp; </span><span
 style='font-size:12.0pt'> <u>Statistical by degree</u> in some areas as the
 manner of male-female natural differentiation. Obviously men and women are not
@@ -242,7 +242,7 @@ that God has gifted men and women differently in correlation with differing
 centers of responsibility that by nature and purpose (and conceivably positive
 directives) he has willed them to have.</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify;text-indent:
+<p class=MsoNormal style='margin-left:0in;text-align:justify;text-indent:
 26.25pt'>13. <span style='font:7.0pt "Times New Roman"'>&nbsp; </span><span
 style='font-size:12.0pt'> <u>Perversion of something as distinguished from the
 character of the thing itself</u>. Perversion of authority is not an
@@ -256,14 +256,14 @@ writers were doing that same thing in giving directives about male-female
 relationship. Obviously first-century Christians could ill afford to
 characterize themselves as social subversives on unnecessary points. </span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'>                             A related consideration
 here is the tendency in some of the general literature today to feature
 “dominance” and “subjugation” as the issue in “patriarchy”; unconsciously that
 sense of the topic can bend biblical texts into advocating a practice foreign to
 the writers’ intent. </span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify;text-indent:
+<p class=MsoNormal style='margin-left:0in;text-align:justify;text-indent:
 26.25pt'>14. <span style='font:7.0pt "Times New Roman"'>&nbsp; </span><span
 style='font-size:12.0pt'> <u>Better does not constitute best</u>. <u>Equality</u>
 of individuals may be better than oppression of certain classes of them but <u>unity</u>
@@ -274,7 +274,7 @@ achieved by law may be less than what people would best aspire to in marriage,
 home, and church. Consequently, the political realm ought not interfere with the
 “religious” one.</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify;text-indent:
+<p class=MsoNormal style='margin-left:0in;text-align:justify;text-indent:
 26.25pt'>15. <span style='font:7.0pt "Times New Roman"'>&nbsp; </span><span
 style='font-size:12.0pt'> <u>A wide range of interpretation principles</u>. Particularly
 common is the tendency to adopt a conclusion and then work toward it rather
@@ -283,125 +283,125 @@ proper conclusion. The more appropriate hermeneutical method is to establish
 clear primary frameworks (like interpersonalism) and read ambiguous specifics
 in light of clear fundamentals.</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'>                        The preceding concepts and
 distinctions are some of those that come into the discussion as the two
 evangelical approaches struggle for consensus. In other words, differences on
 these points are the ones that presently lead to the different views
 evangelicals are taking.     </span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal align=center style='margin-left:-.5in;text-align:center'><b><span
+<p class=MsoNormal align=center style='margin-left:0in;text-align:center'><b><span
 style='font-size:12.0pt'>Organizations</span></b></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><b><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><b><span
 style='font-size:12.0pt'>&nbsp;</span></b></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><b><u><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><b><u><span
 style='font-size:12.0pt'>Egalitarianism</span></u></b></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'>Christians for Biblical Equality</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'>122 West Franklin Avenue Suite 218</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'>Minneapolis, Minnesota 55404-2451</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span lang=DE
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span lang=DE
 style='font-size:12.0pt'>e-mail: CBE@MINN.NET</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span lang=DE
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span lang=DE
 style='font-size:12.0pt'>WWW.GOLDENGATE.NET/MALL/CBE</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'>Ph. (612) 872-6898</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'>FAX: (612) 872-6891</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><b><u><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><b><u><span
 style='font-size:12.0pt'>Complementarianism</span></u></b></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'>Council on Biblical Manhood and Womanhood</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'>P.O. Box 7337</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'>Libertyville, Illinois 60048</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span lang=DE
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span lang=DE
 style='font-size:12.0pt'>e-mail: CBMWOFFICE@AOL.COM</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span lang=DE
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span lang=DE
 style='font-size:12.0pt'>WWW.CBMW.ORG</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'>Ph. (847) 573-8210</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'>FAX: (847) 573-8211</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'>                                                                                                                                    </span><span
 style='font-size:11.0pt'>christir.org</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify'><u><span
+<p class=MsoNormal style='margin-left:0in;text-align:justify'><u><span
 style='font-size:12.0pt'><span style='text-decoration:none'>&nbsp;</span></span></u></p>
 </div>

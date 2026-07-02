@@ -90,7 +90,7 @@ to the outside world, the earnest speaks to the one purchased.</span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.5in'><span style='font-size:12.0pt'>            III. Summary of terminologies,
+0in'><span style='font-size:12.0pt'>            III. Summary of terminologies,
 all of which are here taken in reference to the same reality—the interpersonal
 relationship with the Spirit of God, but under different imageries to highlight
 various aspects of that reality and in different connections with related
@@ -101,27 +101,27 @@ relationship with the Spirit.</span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.75in'><span style='font-size:12.0pt'>                              A.  <i>“Baptism
+0in'><span style='font-size:12.0pt'>                              A.  <i>“Baptism
 of the Holy Spirit”</i> may emphasize the stupendousness value of the
 relationship.</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.75in'><span style='font-size:12.0pt'>                              B.  <i>“Gift
+0in'><span style='font-size:12.0pt'>                              B.  <i>“Gift
 of the Spirit”</i> emphasizes the graciousness of the relationship <i>vs</i>.
 merit.</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.75in'><span style='font-size:12.0pt'>                              C.  <i>“Indwelling
+0in'><span style='font-size:12.0pt'>                              C.  <i>“Indwelling
 of the Holy Spirit”</i> emphasizes the non-self-centeredness that results from
 the invisible presence of the Holy Spirit with a person.</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.75in'><span style='font-size:12.0pt'>                              D.  <i>“Filled
+0in'><span style='font-size:12.0pt'>                              D.  <i>“Filled
 with the Spirit”</i> emphasizes the full degree to which the qualities of the
 partner inform a person’s actions.</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.75in'><span style='font-size:12.0pt'>                              E.   <i>“Earnest
+0in'><span style='font-size:12.0pt'>                              E.   <i>“Earnest
 of the Spirit”</i> emphasizes the preliminary nature of the present
 relationship.</span></p>
 

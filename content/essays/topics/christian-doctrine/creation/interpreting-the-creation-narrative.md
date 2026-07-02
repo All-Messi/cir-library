@@ -7666,7 +7666,7 @@ belly and eat dirt (<b>3</b>:14).</p>
 and snakes, which leads to people stomping the heads                         of
 snakes with their heels and bruising their heels in the process (<b>3</b>:15).</p>
 
-<p class=MsoNormal style='margin-left:-4.5pt;text-align:justify'>10.  People
+<p class=MsoNormal style='margin-left:0in;text-align:justify'>10.  People
 have come to act like God/gods, determining good and evil for themselves                               (<b>3</b>:5,
 22).</p>
 
@@ -7689,7 +7689,7 @@ in these chapters or elsewhere. </p>
 
 <p class=MsoNormal style='text-align:justify;text-indent:.5in'>&nbsp;</p>
 
-<p class=MsoNormal style='margin-left:-4.5pt;text-align:justify'>              <b>(a)</b>
+<p class=MsoNormal style='margin-left:0in;text-align:justify'>              <b>(a)</b>
 One such idea is that there was <u>no animal death before the Fall</u>. <b>First</b>,
 Romans <b>5</b>:12 does say, <i>“By mankind came death,”</i> but the apostle
 Paul is not talking about animals; he is talking about people. Besides, are we
@@ -7709,7 +7709,7 @@ in reference to the then-known inhabited world, saying that already by the time
 he wrote Colossians the gospel had been <i>“preached in all creation under the
 sky.”</i> He surely does not mean it was preached to animals.</p>
 
-<p class=MsoNormal style='margin-left:-4.5pt;text-align:justify;text-indent:
+<p class=MsoNormal style='margin-left:0in;text-align:justify;text-indent:
 40.5pt'><b>Second</b>, if animal death—and its accompanying pain—is the fallen
 condition that <i>“groans in travail”</i> (Romans<b> 8</b>:22), what do we say
 of sea animals? They rely even more uniformly on the food-chain system—from

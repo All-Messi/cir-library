@@ -435,7 +435,7 @@ margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.75in'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                              A. <i>“James a servant
 of God,”</i> and so on, gives the name, but adds no information as to which
 James.</span></p>

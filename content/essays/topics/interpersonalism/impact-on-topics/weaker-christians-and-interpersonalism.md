@@ -78,12 +78,12 @@ relationships highlight truths applicable to all interpersonal relationships
 but particularly important here:</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in;line-height:18.0pt'><span style='font-size:12.0pt'>                              (a)   Motives
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                              (a)   Motives
 and circumstances affect whether actions are right or wrong (Romans <b>14</b>:14).
 We must remember that fact about our and other people’s actions.</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in;line-height:18.0pt'><span style='font-size:12.0pt'>                              (b)   Not
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                              (b)   Not
 all actions are matters of right or wrong. Their morality is relative to
 personal and interpersonal considerations, which can vary.</span></p>
 
@@ -99,12 +99,12 @@ and social aspects cannot be separated in behavior (Galatians </span></p>
 .5in;line-height:18.0pt'><span style='font-size:12.0pt'>                    <b>6</b>:1-5).</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in;line-height:18.0pt'><span style='font-size:12.0pt'>                              (e)   Horizontal
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                              (e)   Horizontal
 and vertical cannot be separated in interpersonal behavior (Romans <b>14</b>:7;
 Luke <b>15</b>:18, 21).</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in;line-height:18.0pt'><span style='font-size:12.0pt'>                                                                                                                                              
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                                                                                                                              
 </span><span style='font-size:11.0pt'>christir.org</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:

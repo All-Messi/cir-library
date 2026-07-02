@@ -117,7 +117,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.1in;text-align:justify;text-indent:
--.5in'><span style='font-size:12.0pt'>            B.        New Testament
+0in'><span style='font-size:12.0pt'>            B.        New Testament
 teachings about divorce and remarriage: Matthew <b>5</b>:31-32;<b> 19</b>:3-12;
 Mark <b>10</b>:2-12; Luke <b>16</b>:8; Romans <b>7</b>:2-3; 1 Corinthians <b>7</b>:1-17,
 25-40     </span></p>
@@ -216,7 +216,7 @@ to the perfection ideal.</span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.1in;text-align:justify;text-indent:
--.5in'><span style='font-size:12.0pt'>            D.        The effects of removing
+0in'><span style='font-size:12.0pt'>            D.        The effects of removing
 doctrinal material from a legal framework and putting it in an interpersonal
 framework</span></p>
 
@@ -440,7 +440,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 style='font-size:12.0pt'>                  1.   Both spouses are Christian.</span></p>
 
 <p class=MsoNormal style='margin-right:-.1in;text-align:justify;text-indent:
--.75in'><span style='font-size:12.0pt'>                              2.   The
+0in'><span style='font-size:12.0pt'>                              2.   The
 statement is spoken from the viewpoint of the one initiating the divorce
 (contrast <b>7</b>:15).</span></p>
 
@@ -460,7 +460,7 @@ style='font-size:12.0pt'>                           �
 whereas Paul speaks here of remaining single.</span></p>
 
 <p class=MsoNormal style='margin-right:-.1in;text-align:justify;text-indent:
--1.0in'><span style='font-size:12.0pt'>                                          b.   Presumably
+0in'><span style='font-size:12.0pt'>                                          b.   Presumably
 then the divorce is for other than unchastity, perhaps for abuse, drunkenness,
 or negative consequences of one spouse’s conversion to Christ.</span></p>
 

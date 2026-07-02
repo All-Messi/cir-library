@@ -25,24 +25,24 @@ span.HeaderChar
 
 <div class="word-content">
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.25in;
-margin-bottom:0in;margin-left:-.25in;margin-bottom:.0001pt;text-align:center'><b><span
+margin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:center'><b><span
 style='font-size:14.0pt'>THEOLOGY FROM BELOW</span></b></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.25in;
-margin-bottom:0in;margin-left:-.25in;margin-bottom:.0001pt;text-align:center'>&nbsp;</p>
+margin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:center'>&nbsp;</p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.25in;
-margin-bottom:0in;margin-left:-.25in;margin-bottom:.0001pt;text-align:center'>Virgil
+margin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:center'>Virgil
 Warren, PhD</p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.25in;
-margin-bottom:0in;margin-left:-.25in;margin-bottom:.0001pt;text-align:center'>&nbsp;</p>
+margin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:center'>&nbsp;</p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.25in;
-margin-bottom:0in;margin-left:-.25in;margin-bottom:.0001pt;text-align:center'>&nbsp;</p>
+margin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:center'>&nbsp;</p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.25in;margin-bottom:
-0in;margin-left:-.25in;margin-bottom:.0001pt;text-align:justify'>            Isaiah
+0in;margin-left:0in;margin-bottom:.0001pt;text-align:justify'>            Isaiah
 declares that a wayfaring fool need not err in the way of the Lord (<b>35</b>:8).
 We, being evil, know how to give good gifts to our children (Matthew <b>7</b>:11
 = Luke <b>11</b>:13). Jesus’ comment is a cue and clue that the way of the Lord
@@ -51,7 +51,7 @@ personal experience as we <i>“feel after God to find him”</i> because <i>“
 not far from every one of us”</i> (Acts <b>17</b>:27).</p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.25in;margin-bottom:
-0in;margin-left:-.25in;margin-bottom:.0001pt;text-align:justify'>            So
+0in;margin-left:0in;margin-bottom:.0001pt;text-align:justify'>            So
 much of what our creator is interested in has to do with proper personal
 relationship to him and other people. Though interpersonal relationships are
 the most complex realities we know of, we understand how they work because we
@@ -61,13 +61,13 @@ we have a problem in such matters, it is not so much in understanding what is
 appropriate to do but in doing it.</p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.25in;margin-bottom:
-0in;margin-left:-.25in;margin-bottom:.0001pt;text-align:justify'>            Working
+0in;margin-left:0in;margin-bottom:.0001pt;text-align:justify'>            Working
 upward from our own nature and circumstance, we ought to understand how God
 operates and what he expects of us. We read off of his image created into us
 what interpersonal deity is like.</p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.25in;margin-bottom:
-0in;margin-left:-.25in;margin-bottom:.0001pt;text-align:justify'>            Derivative
+0in;margin-left:0in;margin-bottom:.0001pt;text-align:justify'>            Derivative
 implications relate even to such matters as how we present doctrinal
 matters—that we do so in behavioral garb. It is not just a matter of wholeness
 (<i>vs</i>. bifurcation), but of direction. Not only do we mix the conceptual <u>and</u>
@@ -79,14 +79,14 @@ from its original setting and applied to other like situations. That procedure
 is evidently one reason Jesus taught in parables.</p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.25in;margin-bottom:
-0in;margin-left:-.25in;margin-bottom:.0001pt;text-align:justify'>            Theology
+0in;margin-left:0in;margin-bottom:.0001pt;text-align:justify'>            Theology
 from below corresponds with the educational concept of readiness—starting with
 where “students” are and leading them to where they need to be. Jesus applied
 that principle when he told his disciples, <i>“You cannot bear them now”</i> (John
 <b>16</b>:12). </p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.25in;margin-bottom:
-0in;margin-left:-.25in;margin-bottom:.0001pt;text-align:justify'>            Theology
+0in;margin-left:0in;margin-bottom:.0001pt;text-align:justify'>            Theology
 from below is the reason the Golden Rule (<i>a la</i> The Second Great
 Commandment) works so well in guiding positive social interaction. It assumes
 the fundamental <u>unity of mankind</u> so that “I” can project my
@@ -98,7 +98,7 @@ either in the <u>circumstances</u> the other person is in or the <u>difference
 of understanding </u>in him.</p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.25in;margin-bottom:
-0in;margin-left:-.25in;margin-bottom:.0001pt;text-align:justify'>            The
+0in;margin-left:0in;margin-bottom:.0001pt;text-align:justify'>            The
 warning is that we, being evil, need to take heed that our <u>viewpoint of
 consciousness</u> not degenerate into <u>self-centeredness</u>. We can be
 tempted to do that by (1) forgetting that God <u>knows our hearts</u> (Luke <b>16</b>:15;
@@ -110,9 +110,9 @@ time even people will catch on. We cannot get by <u>substituting</u> something
 else, something easier, for the naturally required thing.</p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.25in;margin-bottom:
-0in;margin-left:-.25in;margin-bottom:.0001pt;text-align:justify'>&nbsp;</p>
+0in;margin-left:0in;margin-bottom:.0001pt;text-align:justify'>&nbsp;</p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.25in;margin-bottom:
-0in;margin-left:-.25in;margin-bottom:.0001pt;text-align:justify'><span
+0in;margin-left:0in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:11.0pt'> christir.org</span></p>
 </div>

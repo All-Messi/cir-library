@@ -130,19 +130,19 @@ scholars speak of searching for the <i>kerygma</i>, they imply certain things
 about the situation they are investigating:</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
--27.0pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                     (a)
+0in;line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                     (a)
  there either are contradictions between the subject matter of various New </span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
--27.0pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                           Testament
+0in;line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                           Testament
 writers, or</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
--27.0pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                     (b)
+0in;line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                     (b)
  though in general agreement, the various epistles do not give a reliable </span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
--27.0pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                           representation
+0in;line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                           representation
 of the <i>kerygma</i>.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;line-height:
@@ -150,19 +150,19 @@ normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>  �
 problems prevent us from determining the content of the <i>kerygma</i>.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
--27.0pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                     (d)
+0in;line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                     (d)
  From the writing of the New Testament until the present, the world has not </span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
--27.0pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                           known
+0in;line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                           known
 the <i>kerygma</i>.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
--27.0pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                     (e)  The
+0in;line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                     (e)  The
 New Testament is an example of evolution, not revelation; hence, it is not </span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
--27.0pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                           inspired
+0in;line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                           inspired
 or even reliable.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;line-height:
@@ -1245,7 +1245,7 @@ lang=EL style='font-size:12.0pt;font-family:"Times New Roman",serif'> </span><sp
 lang=EL style='font-size:12.0pt;font-family:"Times New Roman",serif'>ἐκεῖσε</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
--2.0in;line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                                                                                                </span><span
+0in;line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                                                                                                </span><span
 lang=EL style='font-size:12.0pt;font-family:"Times New Roman",serif'>ὄντας</span><span
 lang=EL style='font-size:12.0pt;font-family:"Times New Roman",serif'> </span><span
 lang=EL style='font-size:12.0pt;font-family:"Times New Roman",serif'>δεδεμένους</span><span
@@ -1256,7 +1256,7 @@ lang=EL style='font-size:12.0pt;font-family:"Times New Roman",serif'>Ἰερου
 lang=EL style='font-size:12.0pt;font-family:"Times New Roman",serif'> </span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
--2.0in;line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                                                                                                </span><span
+0in;line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                                                                                                </span><span
 lang=EL style='font-size:12.0pt;font-family:"Times New Roman",serif'>ἵνα</span><span
 lang=EL style='font-size:12.0pt;font-family:"Times New Roman",serif'> </span><span
 lang=EL style='font-size:12.0pt;font-family:"Times New Roman",serif'>τιμωρηθῶσιν</span><span
@@ -3574,12 +3574,12 @@ normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>  �
 <b>28</b>:6</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
--.5in;line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>               
+0in;line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>               
 (12)  “And it came to pass . . .”: <b>4</b>:5; <b>9</b>:32, 37, 43; <b>10</b>:25;
 <b>11</b>:26; <b>14</b>:1; <b>16</b>:16; <b>19</b>:1; </span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
--.5in;line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                        2<b>1</b>:6*,
+0in;line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                        2<b>1</b>:6*,
 17*; <b>27</b>:44; <b>28</b>:8, 17</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;line-height:

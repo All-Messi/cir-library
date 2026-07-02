@@ -135,7 +135,7 @@ evil.</p>
 
 <p class=MsoNormal style='text-align:justify'>&nbsp;</p>
 
-<p class=MsoNormal style='text-align:justify;text-indent:-27.0pt'>We can make a
+<p class=MsoNormal style='text-align:justify;text-indent:0in'>We can make a
 couple additional observations beyond what Job teaches.</p>
 
 <p class=MsoNormal style='text-align:justify'>&nbsp;</p>

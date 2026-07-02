@@ -243,12 +243,12 @@ divine revelation as an exact line</u>. </span></p>
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in;line-height:18.0pt'><span style='font-size:12.0pt'>      V. As a medium
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>      V. As a medium
 of revelation, the Bible is more than a book for historical information, a book
 of concepts, or even a manual for living; it is you-to-me communication.</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in;line-height:18.0pt'><span style='font-size:12.0pt'>                                                                                                                                              
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                                                                                                                              
  </span><span style='font-size:11.0pt'>christir.org</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:

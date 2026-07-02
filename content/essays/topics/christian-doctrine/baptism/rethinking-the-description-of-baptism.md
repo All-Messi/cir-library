@@ -205,7 +205,7 @@ margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>II. The Interpersonal Character of Christian Baptism</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;

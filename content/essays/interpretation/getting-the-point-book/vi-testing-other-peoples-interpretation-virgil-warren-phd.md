@@ -108,12 +108,12 @@ margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.5in'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>            [Note: An asterisk before capital letters
 means something unique in testing other people’s interpretation.]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.5in'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -219,7 +219,7 @@ margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.5in'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                    (a)  Show that <u>another
 way</u> exists for understanding the passage. To eliminate any concept, a
 person needs only to provide another reasonable alternative. If a passage fits
@@ -338,13 +338,13 @@ style='font-size:12.0pt'>                        that <u>s
 always</u>, never for marital pleasure alone.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-76.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                  that
 after divorce <u>God still views the former spouse as the divorcee’s spouse</u>
 </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-76.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                        even
 after one or both remarry. </span></p>
 
@@ -1522,7 +1522,7 @@ margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.75in'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                              P. Make a certain amount
 of allowance for people mis-expressing themselves. What they say may be false
 understood as their words should be taken, but experience shows that people do

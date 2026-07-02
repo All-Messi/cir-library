@@ -105,12 +105,12 @@ style='font-size:12.0pt'>                       <b>1</b>:18
 was dead and lives again</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.75in'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                      3.   <b>2</b>:12b
 =<b> 1</b>:16b        the sword of my mouth (out of his mouth came a sharp two-</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.75in'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                                                          edged
 sword)                    </span></p>
 
@@ -269,19 +269,19 @@ the earth                 <b>6</b>:10; <b>8</b>:13;<b> 11</b>:10
 14; <b>17</b>:8</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-31.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                             <b>3</b>:12    name of my
 God                                  <b>14</b>:1; <b>22</b>:4 (name of the city
 of my </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-31.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                       
                                                               God, <b>21</b>:2)                                         
  </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-31.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                             <b>3</b>:12    the new
 Jerusalem                                <b>21</b>:2, 10</span></p>
 
@@ -356,7 +356,7 @@ margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:4.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-3.5in'><span
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-.5in'><span
 style='font-size:12.0pt'>                                                                                                             
                                                           Their  names  were  written
  in  the </span></p>
@@ -366,21 +366,21 @@ style='font-size:12.0pt'>                           �
                                     Book of Life (<b>20</b>:12, 14, 15)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-3.5in'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                                                                      c.   Laodicea:
 sit with me on my throne         reigning with Christ a thousand years </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-3.5in'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                                                                                                                                              (<b>20</b>:4;
 <b>22</b>:5)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-3.5in'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-3.5in'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                                                                Literary
 connections between the individual letters (chapters <b>3-4</b>) and the previous
 and succeeding chapters (<b>1</b>, <b>5-22</b>) show that the seven “sub-letters”
@@ -510,12 +510,12 @@ margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                  a.   All are in Asia.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-45.0pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                 b.   All these cities
 had favorable opportunities opened to them by geographical </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-45.0pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>               and communication convenience.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -547,12 +547,12 @@ margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-45.0pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                 a.   Walks among the
 seven golden lampstands: <i>“I will remove your </i></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-45.0pt'><i><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><i><span
 style='font-size:12.0pt'>                                       lampstand out
 of its place”</span></i></p>
 
@@ -565,7 +565,7 @@ margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-67.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                               (1) Walking
 among the lampstands may mean that he is keeping watch as God walked in the
 garden in the cool of the day.  It may mean that he is near; so they are safe.</span></p>
@@ -663,7 +663,7 @@ margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                                                                                 (16)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-45.0pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                 b.   The Pergamum
 letter has the atmosphere of <u>the Jewish wilderness peregrinations</u>, which
 is appropriate for those destined to enter the “promised land.”  Balaam and Balak,
@@ -682,13 +682,13 @@ margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-45.0pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                 a.   <b>2</b>:18
 mentions “feet of burnished brass,” and <b>2</b>:27 speaks of ruling with a rod
 </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-45.0pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>               of iron as vessels of a potter are
 broken.</span></p>
 
@@ -707,38 +707,38 @@ style='font-size:12.0pt'>                        (1) Jezeb
 influence (toward Baal worship) is alluded to.  </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-67.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                               (2) The
 woman called herself a prophetess as Jezebel was a daughter of the </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-67.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                     priest-king
 of Sidon. </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-67.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                               (3) Fornication
 is alluded to, not only spiritual fornication in the Old </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-67.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                     Testament
 case, but ritual fornication in the pagan rites as well.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-67.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                               (4) <i>“Kill
 her children with death”</i> and cast them into tribulation is reminiscent of
 the 450 Baal prophets that were killed after Elijah’s contest on Mount Carmel.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-67.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                               (5) The
 potter’s pots are broken, recalling Jeremiah’s potter passage (Jeremiah </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-67.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                     19).</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -754,12 +754,12 @@ margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-31.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                             You are alive in name;
 and you are dead: only a few names in Sardis did </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-31.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                             not defile their
 garments.</span></p>
 
@@ -810,7 +810,7 @@ margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                                                                                   (<b>3</b>:12)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-45.0pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                 e.   The Philadelphia
 letter has a Jewish atmosphere—a people in right relationship with God: key of <u>David,</u>
 <u>synagogue</u> of Satan, say they are <u>Jews</u>, <u>temple</u> of my God,
@@ -852,12 +852,12 @@ margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>            5.   <b>2</b>:28     the morning star</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-67.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                   6.   <b>3</b>:9       the
 world’s knowing that Christ loves the faithful is prominent throughout </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-67.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                       
 the high priestly prayer of John <b>17</b> (3, 8, 21, 23, 25; cp. <b>3</b>:17).</span></p>
 
@@ -877,12 +877,12 @@ style='font-size:12.0pt'>            9.   <b>3</b>:21     John<b
 sit with Christ on his throne</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-67.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                 10.   <b>2</b>:9; <b>3</b>:9 
 “Jews”   Among the gospel writers John uses this expression far more </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-67.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                       
 extensively than the others—mostly in a pejorative sense.</span></p>
 
@@ -910,69 +910,69 @@ margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-220.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                                                      1.   <b>2</b>:7    the
 tree of life                           Genesis<b> 2</b>:9 (<b>3</b>:22);
 Proverbs <b>3</b>:18; <b>11</b>:30; </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-220.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                                                                                                                           
 <b>13</b>:12; <b>15</b>:4</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-220.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                                                      2.   <b>2</b>:7    paradise
 of God                        Ezekiel <b>31</b>:8 (Septuagint—LXX)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-220.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                                                      3.   <b>2</b>:10  tribulation
 for ten days             Daniel 1:12, 14</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-220.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                                                      4.   <b>2</b>:14  Balaam                                     Numbers
 <b>22-23</b></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-220.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                                                      5.   <b>2</b>:17  manna                                       Exodus<b>
 16</b></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-220.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                                                      6.   <b>2</b>:20
  Jezebel                                      1 Kings <b>16</b>:31; <b>21</b>:25;
 2 Kings<b> 9</b>:7</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-220.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                                                      7.   <b>2</b>:23  searches
 the reins and               Psalms <b>7</b>:9;<b> 26</b>:2; <b>139</b>:1</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-220.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                                                                   
      hearts</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-220.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                                                      8.   <b>2</b>:26  authority
 over the nations         Psalm <b>2</b>:8</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-220.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                                                      9.   <b>2</b>:27  vessels
 of the potter broken      Isaiah<b> 30</b>:14; Jeremiah <b>19</b>:11</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-220.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                                                        
             to slivers</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-220.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                                                      10. <b>3</b>:9    make
 the nations come and      Isaiah <b>45</b>:14; <b>49</b>:23; <b>60</b>:14</span></p>
 
@@ -980,32 +980,32 @@ the nations come and      Isaiah <b>45</b>:14; <b>49</b>:23; <b>60</b>:14</
 style='font-size:12.0pt'>                                 worship before you</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-220.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                                                      11. <b>3</b>:9    the
 nations know I loved you   Isaiah <b>43</b>:4</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-220.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                                                      12. <b>3</b>:12  name
 of my God                       1 Kings <b>7</b>:21; Jeremiah <b>1</b>:18</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-220.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                                                      13. <b>3</b>:12  name
 of the city of my God     Ezekiel <b>48</b>:35</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-220.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                                                      14. <b>3</b>:14  the
 Amen                                  Isaiah <b>65</b>:16</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-220.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                                                      15.<b> 3</b>:17  I
 am rich                                   Hosea<b> 12</b>:8; Zechariah <b>11</b>:5</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-220.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                                                      16. <b>3</b>:18  buy
 from me                             Isaiah <b>55</b>:1</span></p>
 
@@ -1046,7 +1046,7 @@ margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>            3.   Sardis has no commendation section.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-31.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                       4.   Philadelphia has no
 condemnation; it is the only letter with a repeated commendation—about
 endurance; and the opportunity to evangelize is made possible.</span></p>
@@ -1080,12 +1080,12 @@ margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>seven spirits of God and seven stars.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-31.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                       2.   Ephesus was the practical
 center and leading city of Asia, and Sardis was the </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-31.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>           ancient capital of Lydia and historical
 center of the Asian churches.</span></p>
 
@@ -1107,7 +1107,7 @@ style='font-size:12.0pt'>                  1.   </span><span s
 is offered to either.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-31.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                       2.   The writer invests himself
 with the same character that he praises in the church addressed.  The
 Philadelphia letter combines “he that is true” (Christ) with <i>“did not deny
@@ -1116,17 +1116,17 @@ was dead and lived”</i> and to the persecution and death of Christians in
 Thyatira.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-31.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                       3.   These two churches are
 praised far more than the others.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-31.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                       4.   They both contend with
 especially serious difficulties.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-31.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                       5.   Jews are mentioned only in
 Smyrna and Philadelphia (<b>2</b>:9; <b>3</b>:9) probably because in wealth and
 numbers they were strongest there.  In keeping with their wealth is the fact
@@ -1176,7 +1176,7 @@ style='font-size:12.0pt'>            1.   <i>“He that holds the s
     “Ephesus, as in practical importance the lead-</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-176.25pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>his right hand”                                                     <i>his
 first hand”</i>                                  ing city of the Province Asia,
 might be said to </span></p>
@@ -1190,59 +1190,59 @@ style='font-size:12.0pt'>                           �
 (Ramsey).</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-22.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                    2.   <i>“He that walks in the
 midst of the </i> <i> “ . . the   Divine   figure   that   addresses   her</i> </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-22.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                          <i>seven golden lampstands”</i>               <i>appropriately
   holds  in  His  right  hand  the </i></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-22.5pt'><i><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><i><span
 style='font-size:12.0pt'>                                                                                  
 Seven Stars, which are the  Seven  Churches” </span></i></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-22.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                                                   (Ramsey). 
 </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-31.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                       3.   <i>“I will move your
 lampstand out</i>     Ephesus, as a city,  no longer exists. Ephesus </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.5in'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                      <i>of
 its place.”</i>                                    had  <u>moved</u>  forward  with
  the  receding  sea </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.5in'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                                                                               (Ramsey).</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-2.75in'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                                              4.   <i>“Tree
 of life”</i>                                   sacred  trees  worshipped  by  Asian
  peoples.  </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-2.75in'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                                                                                                             <i>&quot;The
 divine tree had always been the seat of </i></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-31.5pt'><i><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><i><span
 style='font-size:12.0pt'>           Divine life and the intermediary between
 Divine and human nature. The tree of life in the Garden of Eden is probably
 more the point, however.”</span></i><span style='font-size:12.0pt'> (Ramsey)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-31.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -1359,12 +1359,12 @@ style='font-size:12.0pt'>            1.   Jezebel          �
 the prophetess at the shrine of Sambethe, </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-31.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                                                      who
 was supposed  to utter sayings  that the </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-31.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                                                      deity
 would impart to the worshipers</span></p>
 
@@ -1619,14 +1619,14 @@ margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>      A.  Ephesus </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-31.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                       The church is a “lampstand.” It
 is not the light itself but that from which the light shines—a more apt figure
 even than “candlestick.” These seven “lampstands” are not like the
 seven-branched candlestick; they are seven individual stands.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-31.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
@@ -1636,14 +1636,14 @@ style='font-size:12.0pt'>            B.  Smyrna  </span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-31.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                       Being cast into prison was not
 the punishment itself, because the Romans put a person in prison only to await
 trial or execution. The “true Jews” are those that accepted Christ, sent to be
 received by God’s people.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-31.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;

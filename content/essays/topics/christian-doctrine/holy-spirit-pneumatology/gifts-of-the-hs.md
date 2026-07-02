@@ -145,24 +145,24 @@ style='font-size:12.0pt'>            B.  Results that come (a person
 to influence): 1 Corinthians <b>3</b>:6 (<i>“God gives the increase”</i>)</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.75in'><span style='font-size:12.0pt'>                              C.   Acts
+0in'><span style='font-size:12.0pt'>                              C.   Acts
 done by individuals (“allow”): Daniel <b>2</b>:36-38; 1 Kings <b>12</b>:15;
 John 5:26; <b>6</b>:65; <b>19</b>:10-11; Revelation <b>7</b>:2;<b> 9</b>:5; <b>13</b>:5,
 7</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.75in'><span style='font-size:12.0pt'>                              D.  Slots
+0in'><span style='font-size:12.0pt'>                              D.  Slots
 of service among God’s people: 1 Corinthians<b> 12</b>:28a; Ephesians <b>4</b>:7,
 11 (means “slots” because of the word <i>till</i>) </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.75in'><span style='font-size:12.0pt'>                              E.   Persons
+0in'><span style='font-size:12.0pt'>                              E.   Persons
 filling the slots: Acts <b>20</b>:28 (“made”); 2 Corinthians <b>10</b>:8 (=<b>13</b>:10);
 Colossians <b>4</b>:17 (<i>“ministry I received”</i>); 1 Timothy<b> 4</b>:14; 2
 Timothy<b> 1</b>:6</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.75in'><span style='font-size:12.0pt'>                              F.   Abilities
+0in'><span style='font-size:12.0pt'>                              F.   Abilities
 to accomplish the tasks in these slots (lists of gifts of the Spirit: Romans <b>12</b>:6-8;
 1 Corinthians <b>12</b>:28-30; Ephesians<b> 4</b>:7-11)</span></p>
 
@@ -212,7 +212,7 @@ style='font-size:12.0pt'>            A.   Lists of gifts of the Spir
 style='font-size:12.0pt'>                  </span><span style='font-size:12.0pt'>      <b>4</b>:7-11</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.75in'><span style='font-size:12.0pt'>                              B.  A
+0in'><span style='font-size:12.0pt'>                              B.  A
 natural ability or developed skill becomes a gift of the Spirit when it comes
 under the Spirit’s influence.</span></p>
 

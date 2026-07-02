@@ -269,22 +269,22 @@ margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>    
 margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-indent:-45.0pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                 l.    Elders are to lead
 well: teach, guide, counsel, superintend, exercise oversight, </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-indent:-45.0pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                             shepherd,<i>
 etc</i>.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-indent:-45.0pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                 2. The elders are not
 dictators, <i>“not lording it over the flock,”</i> but watching and </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-indent:-45.0pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                             guarding the
 flock.</span></p>
 

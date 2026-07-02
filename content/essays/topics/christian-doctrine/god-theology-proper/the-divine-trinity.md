@@ -287,11 +287,11 @@ Suggested models (<u>objective trinity</u>)</span></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal style='text-align:justify;text-indent:-1.0in'><span
+<p class=MsoNormal style='text-align:justify;text-indent:0in'><span
 style='font-size:12.0pt'>                                          1.   Proposal:
 the twoness-in-oneness of marriage in humankind reflects the </span></p>
 
-<p class=MsoNormal style='text-align:justify;text-indent:-1.0in'><span
+<p class=MsoNormal style='text-align:justify;text-indent:0in'><span
 style='font-size:12.0pt'>                        threeness-in-oneness of the
 trinity in deity—the image of God in its broad sense.</span></p>
 

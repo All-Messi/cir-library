@@ -123,12 +123,12 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                           C.  We can
+-.25in'><span style='font-size:12.0pt'>                           C.  We can
 have freedom on the outside without necessarily being free on the inside </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                                 or
+-.25in'><span style='font-size:12.0pt'>                                 or
 free from ourselves.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -213,7 +213,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         2.   Self-centeredness
+-.25in'><span style='font-size:12.0pt'>                                         2.   Self-centeredness
 often drives us to want to break out of what seems like a </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -224,12 +224,12 @@ grass is greener on the other side of fence.”</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         3.   Paul
+-.25in'><span style='font-size:12.0pt'>                                         3.   Paul
 was trying to live out in his own Christian experience the example of </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               Christ
+-.25in'><span style='font-size:12.0pt'>                                               Christ
 himself: Philippians<b> 2</b>:5-7</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -259,12 +259,12 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               Paul
+-.25in'><span style='font-size:12.0pt'>                                               Paul
 took hold of the situation positively and worked with its possibilities.   </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               He
+-.25in'><span style='font-size:12.0pt'>                                               He
 was living freely despite his imprisonment.   He converted the guards.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -301,22 +301,22 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                      Paul
+-.25in'><span style='font-size:12.0pt'>                                                      Paul
 harbored no bitterness or anger even though death was in the offing for </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                            him,
+-.25in'><span style='font-size:12.0pt'>                                                            him,
 and people in the church were in danger.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--112.5pt'><span style='font-size:12.0pt'>                                                              Again,
+-.25in'><span style='font-size:12.0pt'>                                                              Again,
 Paul was trying to live out in his Christian experience the example of </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--112.5pt'><span style='font-size:12.0pt'>                                                                    Jesus:
+-.25in'><span style='font-size:12.0pt'>                                                                    Jesus:
 Philippians <b>2</b>:8.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -337,7 +337,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                           There will
+-.25in'><span style='font-size:12.0pt'>                           There will
 always be the possibility of evil people making life miserable for anybody who
 disagrees with them, so that is not really different for Christians.</span></p>
 
@@ -361,12 +361,12 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         1.   When
+-.25in'><span style='font-size:12.0pt'>                                         1.   When
 we become Christians, reality does not change; we are brought more </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               into
+-.25in'><span style='font-size:12.0pt'>                                               into
 conformity with it.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -394,12 +394,12 @@ relationship with others.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                      c.   causes
+-.25in'><span style='font-size:12.0pt'>                                                      c.   causes
 us to live in conformity with our created nature (which is, to a </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                            great
+-.25in'><span style='font-size:12.0pt'>                                                            great
 extent, what morality amounts to).</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -408,12 +408,12 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         2.   Freedom
+-.25in'><span style='font-size:12.0pt'>                                         2.   Freedom
 is not being detached from everything. That is what it means to be </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               lost!</span></p>
+-.25in'><span style='font-size:12.0pt'>                                               lost!</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -430,7 +430,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                                 We
+-.25in'><span style='font-size:12.0pt'>                                 We
 cannot live self-centered lives and be <u>happy</u>. Happiness comes from
 proper relationships and therefore from proper behavior that makes such
 relationships possible.</span></p>

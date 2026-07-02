@@ -83,7 +83,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                           B.  The
+-.25in'><span style='font-size:12.0pt'>                           B.  The
 capacity for speech marks us as human beings</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -92,12 +92,12 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         1.   <i>vs.</i>
+-.25in'><span style='font-size:12.0pt'>                                         1.   <i>vs.</i>
 animals, which cannot very well pass on to other generations what they </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               have
+-.25in'><span style='font-size:12.0pt'>                                               have
 learned</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -325,7 +325,7 @@ it off our chest.”</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         We
+-.25in'><span style='font-size:12.0pt'>                                         We
 conquer our fears by capturing them with words. This is the same thing </span></p>
 
 <p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
@@ -435,12 +435,12 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--22.5pt'><span style='font-size:12.0pt'>                    We get into the
+-.25in'><span style='font-size:12.0pt'>                    We get into the
 habit of not talking so that other people do not know what is on our </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--22.5pt'><span style='font-size:12.0pt'>                    minds.</span></p>
+-.25in'><span style='font-size:12.0pt'>                    minds.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -448,17 +448,17 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--153.0pt'><span style='font-size:12.0pt'>                                                               RESULTING
+-.25in'><span style='font-size:12.0pt'>                                                               RESULTING
 GUIDELINE: DETERMINE WHAT WE SAY BY WHETHER IT    </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--153.0pt'><span style='font-size:12.0pt'>                                                                                             
+-.25in'><span style='font-size:12.0pt'>                                                                                             
                 BUILDS RELATIONSHIPS</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--153.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
+-.25in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -499,12 +499,12 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.75in'><span style='font-size:12.0pt'>                                                            Matthew
+-.25in'><span style='font-size:12.0pt'>                                                            Matthew
 <b>12</b>:37: <i>“You will be justified by your words, and you will be </i></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.75in'><i><span style='font-size:12.0pt'>                                                                                      
+-.25in'><i><span style='font-size:12.0pt'>                                                                                      
 condemned by them.”</span></i></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -536,7 +536,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                           A.  <u>Start
+-.25in'><span style='font-size:12.0pt'>                           A.  <u>Start
 doing things for people</u> that will change our attitudes toward them.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -563,12 +563,12 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                                 It
+-.25in'><span style='font-size:12.0pt'>                                 It
 will direct us away from habitually swearing and using the Lord’s name in </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                                 vain.</span></p>
+-.25in'><span style='font-size:12.0pt'>                                 vain.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span

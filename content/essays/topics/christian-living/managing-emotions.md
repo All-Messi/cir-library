@@ -104,7 +104,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         There
+-.25in'><span style='font-size:12.0pt'>                                         There
 is a tendency to determine truth, make decisions, and even measure honesty on
 the basis of emotions. Such an approach is not good because emotions are not a
 good reading of reality, even though they may seem even more real than ideas
@@ -162,7 +162,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         Instead,
+-.25in'><span style='font-size:12.0pt'>                                         Instead,
 we need to work at</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -192,12 +192,12 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                           D.  We can
+-.25in'><span style='font-size:12.0pt'>                           D.  We can
 change and control feelings, or God would not give commandments </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                                 about
+-.25in'><span style='font-size:12.0pt'>                                 about
 them:</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -206,12 +206,12 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--148.5pt'><span style='font-size:12.0pt'>                                                                    Ephesians
+-.25in'><span style='font-size:12.0pt'>                                                                    Ephesians
 <b>4</b>:26<i>: “Be angry and do not sin; do not let the sun go down on your </i></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--148.5pt'><i><span style='font-size:12.0pt'>                                                                          wrath.”</span></i></p>
+-.25in'><i><span style='font-size:12.0pt'>                                                                          wrath.”</span></i></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -253,12 +253,12 @@ objectively.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                           The <u>interpretation</u>
+-.25in'><span style='font-size:12.0pt'>                           The <u>interpretation</u>
 has to do with the way we take it or look at it, which supplies a </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                                 subjective
+-.25in'><span style='font-size:12.0pt'>                                 subjective
 component to the total experience.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -268,12 +268,12 @@ attaches to the experience.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                           <u>Behavior</u>
+-.25in'><span style='font-size:12.0pt'>                           <u>Behavior</u>
 is action by which we respond to the interpreted event overlaid with </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                                 emotion.</span></p>
+-.25in'><span style='font-size:12.0pt'>                                 emotion.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -281,14 +281,14 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                           The arrows
+-.25in'><span style='font-size:12.0pt'>                           The arrows
 in the preceding diagram indicate that feelings come both from the event
 interpreted and from the behavior generated by the affective overlay of the
 original experience.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                           We proceed
+-.25in'><span style='font-size:12.0pt'>                           We proceed
 with the assumption that emotions can be habits of response as well as
 anything. Consequently, we change them the same way that we change any other
 kinds of habits:</span></p>
@@ -321,7 +321,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--99.0pt'><span style='font-size:12.0pt'>                                                   Example:
+-.25in'><span style='font-size:12.0pt'>                                                   Example:
 We meet someone on the street and slow down to talk, but the person goes on. We
 feel rejected and put down. The next time we meet we do not speak or look
 directly at her, and a widening breach develops between the two of us.</span></p>
@@ -341,7 +341,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--94.5pt'><span style='font-size:12.0pt'>                                                        In
+-.25in'><span style='font-size:12.0pt'>                                                        In
 the example, the other person was preoccupied with some problem or simply did
 not notice you pass.</span></p>
 
@@ -370,7 +370,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                      Being
+-.25in'><span style='font-size:12.0pt'>                                                      Being
 evaluative itself can be a habit. You do not have to make judgment on the
 morality or quality of every act, because you are not in a position that calls
 for action affected by such a judgment. Admit that you often do not know the
@@ -391,17 +391,17 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                                 Changing
+-.25in'><span style='font-size:12.0pt'>                                 Changing
 the interpretation of an experience can have far-reaching effects on </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                                 your
+-.25in'><span style='font-size:12.0pt'>                                 your
 emotional condition.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
+-.25in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -413,7 +413,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                                 In the
+-.25in'><span style='font-size:12.0pt'>                                 In the
 previous example, it may be true that the person does not like you, but do not
 let it “get you down.” You can apply a value: that is dumb, or I’ll change.</span></p>
 
@@ -423,7 +423,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                                 The
+-.25in'><span style='font-size:12.0pt'>                                 The
 conviction here is that emotions arise significantly from actions. If this is
 so to a significant degree, that fact affords another procedure for managing emotions
 by changing behavior. It is easier to will an <u>act</u> than a <u>feeling</u>;
@@ -438,12 +438,12 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         1.   Choose
+-.25in'><span style='font-size:12.0pt'>                                         1.   Choose
 to act as if the event were different from what it first seemed.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               Romans
+-.25in'><span style='font-size:12.0pt'>                                               Romans
 <b>12</b>:17-21: <i>“Overcome evil with good.”</i> Good and evil are kinds of
 action. If good action overcomes evil, it overcomes the feelings created by our
 response to evil.</span></p>
@@ -454,12 +454,12 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               You
+-.25in'><span style='font-size:12.0pt'>                                               You
 may <u>know</u> that the person was in a hurry but still “feel” rejected. You </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                                     must
+-.25in'><span style='font-size:12.0pt'>                                                     must
 <u>do</u> something. Go and be accepted by someone else.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -503,7 +503,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--22.5pt'><span style='font-size:12.0pt'>                    Most activities
+-.25in'><span style='font-size:12.0pt'>                    Most activities
 recommended in the treatment on “Psychological Strength” apply here as well,
 especially the ones that deal with <u>maintaining desirable emotions</u>: recognize
 limitations, rank things, reduce life to manageable units, emphasize eternal
@@ -525,13 +525,13 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                           One possible
+-.25in'><span style='font-size:12.0pt'>                           One possible
 translation of 1 Timothy <b>4</b>:8 says, <i>“Bodily exercise is profitable for
 a </i></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><i><span style='font-size:12.0pt'>                           little.”</span></i></p>
+-.25in'><i><span style='font-size:12.0pt'>                           little.”</span></i></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><i><span
@@ -592,7 +592,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                                 Sometimes
+-.25in'><span style='font-size:12.0pt'>                                 Sometimes
 young people try to go on too little sleep, which leaves them feeling foggy, which
 resembles feeling discouraged and unmotivated.</span></p>
 
@@ -620,34 +620,34 @@ therapy).</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         Develop
+-.25in'><span style='font-size:12.0pt'>                                         Develop
 a hobby, where you can do something you enjoy for its own sake </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               rather
+-.25in'><span style='font-size:12.0pt'>                                               rather
 than for what it can produce.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         Take
+-.25in'><span style='font-size:12.0pt'>                                         Take
 time for yourself aside from interaction with other people. Watch the sun go
 down, the snow fall, the rain come down, the wind blow, the creek run, the fire
 burn, the fish swim around in the aquarium.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         Break
+-.25in'><span style='font-size:12.0pt'>                                         Break
 routine once in a while. Mothers with young children can get away from</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               the
+-.25in'><span style='font-size:12.0pt'>                                               the
 continual emotional pull that children can exert on them, “Mom, Mom.”</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         Even
+-.25in'><span style='font-size:12.0pt'>                                         Even
 Jesus and his disciples went aside for a while to get away from the constant
 demand of the multitude for their time, attention, help (Mark <b>6</b>:31; <b>7</b>:24-40).</span></p>
 
@@ -696,12 +696,12 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                            At
+-.25in'><span style='font-size:12.0pt'>                                                            At
 the very time when we do not want to see anyone, we probably need </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                            most
+-.25in'><span style='font-size:12.0pt'>                                                            most
 to see someone to “get out of ourselves.”</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -833,7 +833,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                            This
+-.25in'><span style='font-size:12.0pt'>                                                            This
 observation lies near the center of counseling technique.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -842,7 +842,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>               Sometimes we cannot get
+-.25in'><span style='font-size:12.0pt'>               Sometimes we cannot get
 around positive people; but we can</span></p>
 
 <p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
@@ -858,7 +858,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                                 Pray aloud
+-.25in'><span style='font-size:12.0pt'>                                 Pray aloud
 with our eyes open. Praying silently may seem too much like meditation/talking
 to ourselves.  Praying aloud is more normal talking.</span></p>
 
@@ -880,7 +880,7 @@ style='font-size:12.0pt'>            </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                                 Tension
+-.25in'><span style='font-size:12.0pt'>                                 Tension
 comes from the feeling that something must happen that can’t; having a plan B
 gets rid of that no-escape feeling.</span></p>
 

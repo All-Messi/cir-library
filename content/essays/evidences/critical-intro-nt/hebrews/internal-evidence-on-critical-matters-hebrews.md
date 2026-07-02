@@ -249,12 +249,12 @@ margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.0in'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                    H.  Reasons given
 for Paul’s omitting his name from the beginning of the letter if he </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.0in'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                          wrote it:</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;

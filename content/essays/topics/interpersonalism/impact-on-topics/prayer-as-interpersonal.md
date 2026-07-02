@@ -72,7 +72,7 @@ Lord could pray all night.</span></p>
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.5in;line-height:18.0pt'><span style='font-size:12.0pt'>            II. Prayer
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>            II. Prayer
 as interpersonal activity <u>contrasts with practices that get confused with it
 or substituted for it</u>.</span></p>
 
@@ -111,7 +111,7 @@ they do not take place between persons.</span></p>
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.5in;line-height:18.0pt'><span style='font-size:12.0pt'>            III. Prayer
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>            III. Prayer
 as interpersonal activity <u>eliminates certain degenerate prayer patterns and
 concepts</u>.</span></p>
 

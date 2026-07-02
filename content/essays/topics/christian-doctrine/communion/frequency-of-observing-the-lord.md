@@ -123,7 +123,7 @@ margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.0in'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                          1. <u>Note
 the suggestion that “lay by” means at home</u>. But Paul says, <i>“. . . that
 there be no collections when I come.”</i></span></p>
@@ -284,7 +284,7 @@ margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.0in'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                          1.   It is
 clear from New Testament witness that the Lord’s Supper was observed more often
 than once a year.</span></p>

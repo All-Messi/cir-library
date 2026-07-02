@@ -227,7 +227,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                           We are all weaker
+-.25in'><span style='font-size:12.0pt'>                           We are all weaker
 on some issue(s). That fact should help us respond to people we regard as
 weaker. We can map out a process for approaching the issue.</span></p>
 
@@ -340,12 +340,12 @@ express love (1 Peter <b>2</b>:16-17).</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--112.5pt'><span style='font-size:12.0pt'>                                                                    The
+-.25in'><span style='font-size:12.0pt'>                                                                    The
 guiding principle: doing what will build another person up      </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--112.5pt'><span style='font-size:12.0pt'>                                                                             (1
+-.25in'><span style='font-size:12.0pt'>                                                                             (1
 Corinthians <b>8</b>:1)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -368,12 +368,12 @@ style='font-size:12.0pt'>                        </span><
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.5in'><span style='font-size:12.0pt'>                                                            Not
+-.25in'><span style='font-size:12.0pt'>                                                            Not
 because we fear that we may succumb to whatever evil might </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.5in'><span style='font-size:12.0pt'>                                                                  be
+-.25in'><span style='font-size:12.0pt'>                                                                  be
 possible</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:

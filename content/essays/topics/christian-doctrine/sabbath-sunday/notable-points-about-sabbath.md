@@ -53,18 +53,18 @@ line-height:115%'>            Exodus <b>16</b>:4-5 (manna gathering),
 Commandments); Exodus<b> 31</b>:12-17;<b> 35</b>:1-3; Leviticus <b>19</b>:3,
 30; <b>23</b>:3, 38; <b>26</b>:2; Numbers <b>15</b>:32-36 (death penalty)</span></p>
 
-<p class=MsoListParagraphCxSpFirst style='text-align:justify;text-indent:-.25in'><span
+<p class=MsoListParagraphCxSpFirst style='text-align:justify;text-indent:0in'><span
 style='font-size:12.0pt;line-height:115%'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span style='font-size:12.0pt;line-height:115%'>Exodus <b>16</b>:5ff
 records the <u>first regulation</u> about Sabbath observance.</span></p>
 
-<p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:-.25in'><span
+<p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:0in'><span
 style='font-size:12.0pt;line-height:115%'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span style='font-size:12.0pt;line-height:115%'>Disregarding
 Sabbath requirements was Israel’s <u>first disobedience</u> (Exodus <b>16</b>:19-20).</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:12.0pt;text-align:justify;
-text-indent:-.25in'><span style='font-size:12.0pt;line-height:115%'>3.<span
+text-indent:0in'><span style='font-size:12.0pt;line-height:115%'>3.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
 style='font-size:12.0pt;line-height:115%'>Sabbath was on the analogy of the
 account of God’s “rest” from creation: <u>weekly</u> (<i>vs</i>. monthly or
@@ -72,14 +72,14 @@ annually), <u>at the end of the week</u>, observed as a <u>rest</u> (<i>vs.</i>
 celebration, <i>etc.</i>) as <u>completely</u> as reasonable. </span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:12.0pt;text-align:justify;
-text-indent:-.25in'><span style='font-size:12.0pt;line-height:115%'>4.<span
+text-indent:0in'><span style='font-size:12.0pt;line-height:115%'>4.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
 style='font-size:12.0pt;line-height:115%'>Sabbath was a memorial of the exodus
 (not the creation): Deuteronomy <b>6</b>:15; Exodus <b>31</b>:17.; hence, <u>Sabbath
 was a memorial of the exodus observed on the analogy of God’s creation rest</u>.</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:12.0pt;text-align:justify;
-text-indent:-.25in'><span style='font-size:12.0pt;line-height:115%'>5.<span
+text-indent:0in'><span style='font-size:12.0pt;line-height:115%'>5.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
 style='font-size:12.0pt;line-height:115%'>Sabbath served as a national holiday to
 be observed as a patriotic duty. It was <u>not observed as a religious duty before,
@@ -88,25 +88,25 @@ abrogated as a Christian expectancy along with the Mosaic covenant in general, <
 let anybody criticize you for . . . not celebrating . . . Sabbaths” </i>(<u>Colossians<b>
 2</b>:16</u>; cp. Romans <b>14</b>:5-6; Galatians <b>4</b>:10-11).   </span></p>
 
-<p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:-.25in'><span
+<p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:0in'><span
 style='font-size:12.0pt;line-height:115%'>6.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span style='font-size:12.0pt;line-height:115%'>Sabbath
 observance applied to all citizens, slaves, and foreigners in residence or
 visiting—even to livestock (Exodus <b>20</b>:10; Deuteronomy <b>5</b>:13). </span></p>
 
-<p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:-.25in'><span
+<p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:0in'><span
 style='font-size:12.0pt;line-height:115%'>7.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span style='font-size:12.0pt;line-height:115%'>Profaning Sabbath
 was a capital crime (Exodus <b>31</b>:15).</span></p>
 
-<p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:-.25in'><span
+<p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:0in'><span
 style='font-size:12.0pt;line-height:115%'>8.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span style='font-size:12.0pt;line-height:115%'>The extensive
 no-work clauses were not exhaustive but representative for creating an
 understanding of the <u>level</u>, <u>kind</u>, and <u>purpose</u> of the general
 regulation. </span></p>
 
-<p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:-.25in'><span
+<p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:0in'><span
 style='font-size:12.0pt;line-height:115%'>9.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span style='font-size:12.0pt;line-height:115%'>Sabbath was for benefitting
 people, not burdening them: <i>“Sabbath was created for people, not people for
@@ -115,7 +115,7 @@ Jesus’ comment criticized <u>the tradition of the elders</u>, which had made
 Sabbath a burdensome observance. The Jewish Talmud proscribed and prescribed nearly
 seventy “picky” activities beyond the Old Testament’s directives (<i>Shabbath </i><b>12</b>:3-5).</span></p>
 
-<p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:-.25in'><span
+<p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:0in'><span
 style='font-size:12.0pt;line-height:115%'>10.<span style='font:7.0pt "Times New Roman"'>&nbsp;
 </span></span><span style='font-size:12.0pt;line-height:115%'>Jesus’ refusal to
 follow the tradition of the elders on Sabbath observance became a major point

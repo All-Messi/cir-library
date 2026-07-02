@@ -6949,7 +6949,7 @@ introduce indirect discourse or an adverbial clause (<i>because</i>): Matthew <b
 <b>12</b>:7; 1 John <b>2</b>:14; Revelation <b>21</b>:5.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
--.5in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        5.
+0in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        5.
 The genitive singular masculine and neuter of second declension is the same form
 (</span><span lang=EL style='font-size:12.0pt;line-height:115%;font-family:
 "Times New Roman",serif'>ου</span><span style='font-size:12.0pt;line-height:
@@ -6979,7 +6979,7 @@ Jesus tell the disciples to drink of the cup or of the wine at the Last Supper
 (Matthew <b>26</b>:27 = Mark <b>14</b>:23)?</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
--.5in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        6.
+0in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        6.
 The indefinite pronoun </span><span lang=EL style='font-size:12.0pt;line-height:
 115%;font-family:"Times New Roman",serif'>τις</span><span style='font-size:
 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>/</span><span
@@ -7058,7 +7058,7 @@ are neuter and so call for <i>what</i>, not <i>who</i>, despite the
 masculine/feminine form of the Greek pronoun at the start of the verse.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
--.5in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        7.
+0in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        7.
 Definite <i>vs.</i> indefinite nouns in Hebrew construct form bring up an
 ambiguity. When that construction comes into Greek by quotation or thought
 pattern, the problem comes with it. A Hebrew noun in construct tied to a
@@ -7088,7 +7088,7 @@ could include God’s personal name as something definite. But this Genesis text
 does not evidence that take on the construction. </span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
--.5in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    We
+0in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    We
 opted to use <i><u>an</u> angel of the Lord</i> for </span><span lang=EL
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>ἄγγελος</span><span
 lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
@@ -7104,14 +7104,14 @@ of the Greek article on nouns that reappear after being used without the
 article the first time (anaphoric nouns). English follows the same practice.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
--.5in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
+0in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
--.5in'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Ambiguities
+0in'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Ambiguities
 in English Relative to Greek</span></b></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
--.5in'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></b><span
+0in'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></b><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Greek
 has some precision that requires special handling to reproduce in English.
 Greek has personal endings on its finite verbs; so subject pronouns are not
@@ -7124,14 +7124,14 @@ tomb, who were terrified (?) Underlined subject pronouns often represent the
 presence of subject pronouns in the original text.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
--.5in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        The
+0in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        The
 verb endings and pronouns for second person are different for singular and
 plural in Greek whereas English uses <i>you/your</i> for both numbers. A
 superscript <sup>sg </sup>or <sup>pl</sup> appears in the English <i>CV</i> wording
 to clarify the reference if the context is ambiguous.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
--.5in'><span style='font-family:"Times New Roman",serif'>                        </span><span
+0in'><span style='font-family:"Times New Roman",serif'>                        </span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Occasionally,
 <sup>mas </sup>or</span><sup><span style='font-size:12.0pt;line-height:115%;
 font-family:"Times New Roman",serif'> fem</span></sup><span style='font-size:
@@ -11690,7 +11690,7 @@ Ephesians<b> 1</b>:13-14 (<i>which</i>); KJV for Romans<b> 8</b>:21)</span></p>
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></i></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:.5in;text-align:justify;text-indent:-40.5pt'><i><span
+margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jehovah</span></i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>  
 not used; <i>Jehovah </i>is an artificial word created from mixing the
@@ -11707,7 +11707,7 @@ dir=LTR></span><span style='font-size:12.0pt;line-height:115%;font-family:"Times
 dir=LTR></span>.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:.5in;text-align:justify;text-indent:-40.5pt'><i><span
+margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>joy</span></i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>         used
 often, even though the word does not commonly appear in conversational English.
@@ -12925,7 +12925,7 @@ line-height:115%;font-family:"Times New Roman",serif'> likewise switches back
 and forth as well even though both terms apply to the same person in that text.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:.5in;text-align:justify;text-indent:-40.5pt'><i><span
+margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>prison</span></i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>               (a)
 <i>jail</i>, especially if not a lengthy confinement: Matthew <b>5</b>:25; Luke
@@ -13709,7 +13709,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>st
 with <i>right away</i>, <i>immediately</i></span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-left:.5in;text-align:justify;
-text-indent:-40.3pt'><i><span style='font-size:12.0pt;line-height:115%;
+text-indent:-.5in'><i><span style='font-size:12.0pt;line-height:115%;
 font-family:"Times New Roman",serif'>submit to           </span></i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(a)
 <i>Defer to</i> has been our rendering in the household teaching material

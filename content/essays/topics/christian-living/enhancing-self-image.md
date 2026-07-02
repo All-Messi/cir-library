@@ -61,7 +61,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.75in;margin-bottom:.0001pt;text-align:justify;text-indent:
--85.5pt'><span style='font-size:12.0pt'>                             Guide
+-.75in'><span style='font-size:12.0pt'>                             Guide
 verse: <i>“I say . . . to every person among you not to think of yourself more
 highly than he ought to think”</i> (Romans <b>12</b>:3).</span></p>
 
@@ -148,7 +148,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         1.   People
+-.25in'><span style='font-size:12.0pt'>                                         1.   People
 who have to be the boss or they will not participate are weak people. They are
 afraid to be associated with things that are less than ideal for fear that it
 will be an occasion for other people to evaluate them as secondary people.</span></p>
@@ -159,12 +159,12 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--49.5pt'><span style='font-size:12.0pt'>                                   (Attention-getting
+-.25in'><span style='font-size:12.0pt'>                                   (Attention-getting
 behavior and defensive behavior are the two prominent kinds </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--49.5pt'><span style='font-size:12.0pt'>                                   of
+-.25in'><span style='font-size:12.0pt'>                                   of
 weakness behavior.)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -181,22 +181,22 @@ style='font-size:12.0pt'>                  3.   The clinger</
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         4.   Tellers
+-.25in'><span style='font-size:12.0pt'>                                         4.   Tellers
 and the people you cannot tell anything: They feel that it is weakness </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               to
+-.25in'><span style='font-size:12.0pt'>                                               to
 listen because it implies that they have something to learn.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         5.   Always
+-.25in'><span style='font-size:12.0pt'>                                         5.   Always
 talking about themselves and their problems</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
+-.25in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -230,7 +230,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         If
+-.25in'><span style='font-size:12.0pt'>                                         If
 we “take things personally,” it shows that we suppose people do things we do
 not like as ways of demonstrating their dislike for us. Supposing their dislike
 for us comes from the impulse to believe that people see us as second level in
@@ -251,33 +251,33 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         1.   “Quitters,”
+-.25in'><span style='font-size:12.0pt'>                                         1.   “Quitters,”
 not just lazy people, throw up their hands in despair. Characteristically doing
 so indicates a lack of confidence to succeed or to win the respect of other
 people involved in the enterprise.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         2.   People
+-.25in'><span style='font-size:12.0pt'>                                         2.   People
 that are not “finishers” may differ from “quitters,” because they have the gut
 feeling that it will not matter even if they do get it done.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
+-.25in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                   E.   How
+-.25in'><span style='font-size:12.0pt'>                                   E.   How
 easily we can compliment others</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
+-.25in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         We
+-.25in'><span style='font-size:12.0pt'>                                         We
 who criticize a lot, find fault, put everything down do it because the smaller we
 can make other people and their work look, the less difference exists between
 those activities and the quality of what we can do.</span></p>
@@ -302,12 +302,12 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--27.0pt'><span style='font-size:12.0pt'>                     PROBLEM: It is
+-.25in'><span style='font-size:12.0pt'>                     PROBLEM: It is
 hard to know whether we are exceptional because we cannot </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--27.0pt'><span style='font-size:12.0pt'>                                         
+-.25in'><span style='font-size:12.0pt'>                                         
 easily tell how other people feel.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -341,12 +341,12 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                                 A good
+-.25in'><span style='font-size:12.0pt'>                                 A good
 self-image stems primarily from <u>acceptance</u> by other people, especially </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                                 our “significant
+-.25in'><span style='font-size:12.0pt'>                                 our “significant
 others”: parents, spouse, siblings, peers, God.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -400,12 +400,12 @@ conversation with us</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                      whether
+-.25in'><span style='font-size:12.0pt'>                                                      whether
 they invite us into their lives (with special information; note </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                            pattern
+-.25in'><span style='font-size:12.0pt'>                                                            pattern
 of information flow in a group of people; who is more likely to                                                       be
 “in the know”?)</span></p>
 
@@ -558,7 +558,7 @@ style='font-size:12.0pt'>      </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                                 We
+-.25in'><span style='font-size:12.0pt'>                                 We
 cannot have good self-image without taking initiative. We will not feel good
 about ourselves as long as we depend on other people to prod us into activity. We
 will not feel like we are in charge of anything if we are not even in charge of
@@ -583,12 +583,12 @@ or manipulated </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                                 Living
+-.25in'><span style='font-size:12.0pt'>                                 Living
 by goals and values, not just by feelings and impressions. </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                                 Base
+-.25in'><span style='font-size:12.0pt'>                                 Base
 self-esteem on matters that we can affect rather than on genetic and
 environmental factors we cannot. Not everybody is created equal in hereditary abilities
 and environmental opportunities. Such factors cannot be a legitimate basis for
@@ -624,7 +624,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                                 We
+-.25in'><span style='font-size:12.0pt'>                                 We
 cannot expect to have a good self-image as long as we hold up perfection as our
 standard. No one can live up to that. Here is the most important implication of
 the “good news” for the psychological dimension of human experience: we do not
@@ -644,7 +644,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                                 As
+-.25in'><span style='font-size:12.0pt'>                                 As
 long as we tie self-worth to being better than others, we are doomed to feel
 bad about ourselves. Success in the competition can provide good self-image for
 only a minority of people, and then only for a limited time until our declining
@@ -652,7 +652,7 @@ years bring deterioration to the flesh-based skills and abilities involved.</spa
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                                 Instead
+-.25in'><span style='font-size:12.0pt'>                                 Instead
 of feeling good about ourselves for succeeding in competition, we do better to get
 our sense of worth from the grateful response of people we have given ourselves
 to in love. Self-worth based on self-giving has no limitations as to who can
@@ -693,12 +693,12 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                           F.   Diversifying
+-.25in'><span style='font-size:12.0pt'>                           F.   Diversifying
 investments increases the likelihood of something coming </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                                 through
+-.25in'><span style='font-size:12.0pt'>                                 through
 for us.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -774,7 +774,7 @@ competitively: It is self-centered and manipulative.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--207.0pt'><span style='font-size:12.0pt'>                                                                                                   <i>vs</i>.
+-.25in'><span style='font-size:12.0pt'>                                                                                                   <i>vs</i>.
 works:     Earning the result means that only I am operating; consequently, I
 am not buying into the resources of others to help success and thus good
 self-image.</span></p>
@@ -785,7 +785,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--148.5pt'><span style='font-size:12.0pt'>                                                                                spiritually:
+-.25in'><span style='font-size:12.0pt'>                                                                                spiritually:
 “spirit” means non-material reality, and in Christianity that includes
 interpersonal reality.</span></p>
 

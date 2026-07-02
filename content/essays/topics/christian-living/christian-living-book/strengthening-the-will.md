@@ -53,12 +53,12 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                           A.  Terminology:
+-.25in'><span style='font-size:12.0pt'>                           A.  Terminology:
 will, choice, motivation, volition, willingness, self-discipline, </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                                 “wanting
+-.25in'><span style='font-size:12.0pt'>                                 “wanting
 to”</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -68,12 +68,12 @@ mean   (a)  it is as easy to do one thing as another;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--238.5pt'><span style='font-size:12.0pt'>                                                                                                                                   
+-.25in'><span style='font-size:12.0pt'>                                                                                                                                   
                         (b) there is no drag of past behavior on  </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--238.5pt'><span style='font-size:12.0pt'>                                                                                                                                                               
+-.25in'><span style='font-size:12.0pt'>                                                                                                                                                               
   present resolve.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -144,7 +144,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               Good
+-.25in'><span style='font-size:12.0pt'>                                               Good
 motivation requires the mind to give clear purpose.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -167,12 +167,12 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               The
+-.25in'><span style='font-size:12.0pt'>                                               The
 mind must have certainty that its course of action is correct (Hebrews </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               <b>11</b>:6;
+-.25in'><span style='font-size:12.0pt'>                                               <b>11</b>:6;
 Acts <b>4</b>:19-20).</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -228,19 +228,19 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                      Emotions
+-.25in'><span style='font-size:12.0pt'>                                                      Emotions
 and feelings we should not think of as uncontrolled phenomena. We shape them
 with the mind and give them direction by the values we have adopted with our
 minds.  </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               Honesty
+-.25in'><span style='font-size:12.0pt'>                                               Honesty
 is not tied to feelings, but to mind.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                      Hypocrisy
+-.25in'><span style='font-size:12.0pt'>                                                      Hypocrisy
 is not a matter of mind without feelings; it is a matter of saying one thing
 when we <u>believe</u> another, not doing one thing when we <u>feel</u>
 another.</span></p>
@@ -264,13 +264,13 @@ of mind/values and feelings.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                      Guilt
+-.25in'><span style='font-size:12.0pt'>                                                      Guilt
 is a powerful motivator <u>before</u> an action; it is a destructive experience
 </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                      <u>after</u>
+-.25in'><span style='font-size:12.0pt'>                                                      <u>after</u>
 an action.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -335,12 +335,12 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               The
+-.25in'><span style='font-size:12.0pt'>                                               The
 enjoyment potential in the activity will help us <u>keep</u> at it. Doing good </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               contains
+-.25in'><span style='font-size:12.0pt'>                                               contains
 its own motivating power to continue.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -363,22 +363,22 @@ style='font-size:12.0pt'><span style='text-decoration:none'>&nbsp;</span></span>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               Will
+-.25in'><span style='font-size:12.0pt'>                                               Will
 to get started perhaps with the </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               paraphernalia
+-.25in'><span style='font-size:12.0pt'>                                               paraphernalia
 of an activity. Doing </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               the
+-.25in'><span style='font-size:12.0pt'>                                               the
 activity builds a sense of association with it; to be motivated about </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               something,
+-.25in'><span style='font-size:12.0pt'>                                               something,
 it must be close to us.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -387,7 +387,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               If
+-.25in'><span style='font-size:12.0pt'>                                               If
 it is a matter of learning to like teaching Sunday school, for example, we can
 volunteer as a teacher’s helper just to get into the situation and develop a
 sense of connection with teaching Sunday school classes.</span></p>
@@ -406,7 +406,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               In
+-.25in'><span style='font-size:12.0pt'>                                               In
 order to help our motivational level, we may need to overcome the dried-out
 feeling by doing something fresh and new: hobby, “change of scenery,” vacation;
 work on more than one thing at a time for variety’s sake.</span></p>
@@ -425,7 +425,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               Lethargy
+-.25in'><span style='font-size:12.0pt'>                                               Lethargy
 often comes from inadequate diet, exercise, rest. Getting these needs taken
 care of pays dividends in more energy to do work. Our bodies will not be
 working so hard against our minds, will, emotions.</span></p>
@@ -487,22 +487,22 @@ fruits (Hebrews <b>12</b>:11).</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                      We
+-.25in'><span style='font-size:12.0pt'>                                                      We
 can even establish self-reward systems: If we complete a project, </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                            we
+-.25in'><span style='font-size:12.0pt'>                                                            we
 allow ourselves some enjoyable experience.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                      Evil
+-.25in'><span style='font-size:12.0pt'>                                                      Evil
 acts usually leave negative results, which is good for us to remember </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                            for
+-.25in'><span style='font-size:12.0pt'>                                                            for
 motivational purposes.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -529,11 +529,11 @@ The alter-            TECHNIQUE #4:</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:4.5in;margin-bottom:.0001pt;text-align:justify;text-indent:
--351.0pt'><span style='font-size:12.0pt'>                                       natives
+-4.5in'><span style='font-size:12.0pt'>                                       natives
 to acting rightly are not acceptable to         <u>Obligate yourself in situa-</u></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
-0in;margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-4.5in'><span
+0in;margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-.5in'><span
 style='font-size:12.0pt'>                                                                                                                              us.                                                                            <u>tions
 that push you into </u></span></p>
 
@@ -553,12 +553,12 @@ situations so</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               we
+-.25in'><span style='font-size:12.0pt'>                                               we
 do not get tempted. Here it is avoidance about the results we fear to</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               have
+-.25in'><span style='font-size:12.0pt'>                                               have
 in our life.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -583,7 +583,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               Love
+-.25in'><span style='font-size:12.0pt'>                                               Love
 is the best motivator where we are motivated by another’s love and where we are
 motivated by our own love for another we can help.</span></p>
 
@@ -630,12 +630,12 @@ style='font-size:12.0pt'>                        Hebrews<b
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--148.5pt'><span style='font-size:12.0pt'>                                                                          Francis
+-.25in'><span style='font-size:12.0pt'>                                                                          Francis
 Bacon: <i>“Rhetoric functions to harness reason to imagination for the </i></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--148.5pt'><i><span style='font-size:12.0pt'>                                                                                                  
+-.25in'><i><span style='font-size:12.0pt'>                                                                                                  
 better moving of the will.”</span></i></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -676,17 +676,17 @@ the Mission of the Seventy were two by two.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                      Hebrews
+-.25in'><span style='font-size:12.0pt'>                                                      Hebrews
 <b>10</b>:24: Through fellowship we encourage one another to love and </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                      good
+-.25in'><span style='font-size:12.0pt'>                                                      good
 works.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>&nbsp;</span></p>
+-.25in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -704,7 +704,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                      Philippians
+-.25in'><span style='font-size:12.0pt'>                                                      Philippians
 <b>2</b>:12-13: <i>“Work out your salvation with fear and trembling, for it is
 God that’s working in you both to will and to work for his good pleasure”</i>
 (hence, our prayer to help activate his special help to us).</span></p>
@@ -745,14 +745,14 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         Intrinsic
+-.25in'><span style='font-size:12.0pt'>                                         Intrinsic
 motivation arises out of matters germane to the activity: motivation to
 practice a musical instrument because the music you can produce is pleasant to
 hear.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         Extrinsic
+-.25in'><span style='font-size:12.0pt'>                                         Extrinsic
 motivation arises from factors not germane to the activity: stickers that a
 music teacher may put on our practice piece if we do it well.</span></p>
 
@@ -771,7 +771,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                                 Experiential
+-.25in'><span style='font-size:12.0pt'>                                 Experiential
 motivation refers to the enjoyment that comes from the variety and stimulation
 present in actually doing something. Goal motivation is the delayed
 gratification that increases through the added element of expecting we find in
@@ -792,14 +792,14 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         Christians
+-.25in'><span style='font-size:12.0pt'>                                         Christians
 need a healthy balance between external and internal centers: too much internal
 creates a sense of works; too much external control creates a sense of
 fatalism.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         Interpersonal
+-.25in'><span style='font-size:12.0pt'>                                         Interpersonal
 existence encourages personal initiative that recognizes the need for
 encouragement from other people.</span></p>
 
@@ -869,7 +869,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                           A.  The
+-.25in'><span style='font-size:12.0pt'>                           A.  The
 initiation and perpetuation of properly using the will comes largely from
 external influence of other persons.</span></p>
 

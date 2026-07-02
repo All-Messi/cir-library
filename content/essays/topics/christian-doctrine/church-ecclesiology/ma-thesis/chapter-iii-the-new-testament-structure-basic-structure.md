@@ -1217,7 +1217,7 @@ authoritative offices. All the general offices are universal offices. </span></p
 .5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-text-indent:-4.5pt'><span style='font-size:12.0pt'>Fig. 13.  The Pattern of the
+text-indent:0in'><span style='font-size:12.0pt'>Fig. 13.  The Pattern of the
 Church</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:

@@ -210,7 +210,7 @@ style='font-size:12.0pt'>                           �
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--40.5pt'><span style='font-size:12.0pt'>                       F. What “custom”
+0in'><span style='font-size:12.0pt'>                       F. What “custom”
 is Paul talking about in 1 Corinthians <b>11</b>:16, wearing a veil or not
 wearing a veil?</span></p>
 

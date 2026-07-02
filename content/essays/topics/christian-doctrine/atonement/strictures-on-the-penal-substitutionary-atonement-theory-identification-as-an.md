@@ -242,7 +242,7 @@ margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                           If substitution were so,
 Christ as substitute would be sinful but as to himself would be righteous. As
 to himself he would please the Father, but as substitute he would displease the
@@ -255,20 +255,20 @@ sense. Such things are not possible even theoretically, much less
 psychologically. </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                       E. Christ did not actually
 receive our penalty.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                           Jesus Christ did not in
 fact experience the penalty God established for sin: <i>“The wages of sin is
 death”</i> (Romans <b>6</b>:23). If physical “death” is the penalty meant,
@@ -285,20 +285,20 @@ him as Messiah (I Corinthians <b>1</b>:23; Acts <b>17</b>:3;<b> 3</b>:18; John<b
 12</b>:34,<i> etc</i>.).</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                       F. The continuity of kind
 between cause and effect </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify;text-indent:40.5pt'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify;text-indent:40.5pt'><span
 style='font-size:12.0pt'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
 </span></span><span style='font-size:12.0pt'>Alienation is not the kind of
 thing where substitution can even occur. One person cannot substitute for
@@ -311,7 +311,7 @@ logical problem cannot be solved other than logically; an interpersonal problem
 cannot be solved by other than interpersonal means. </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify;text-indent:40.5pt'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify;text-indent:40.5pt'><span
 style='font-size:12.0pt'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
 </span></span><i><span style='font-size:12.0pt'> “The law of the harvest”</span></i><span
 style='font-size:12.0pt'> states that the nature of the cause must correspond
@@ -328,20 +328,20 @@ re-established, or experienced vicariously. Jesus Christ is an interpersonal
 basis for reconciliation with God or he is no basis at all.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify;text-indent:40.5pt'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify;text-indent:40.5pt'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                       G. Law as a secondary principle
 in salvation history </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                           Law was a temporary add-on to
 interpersonal process. The grace-faith-promise system does not take place
 inside of law-works-merit. It is the other way around: God added law to promise
@@ -356,7 +356,7 @@ is a secondary principle in salvation history, then a legal principle like
 substitution cannot be the primary principle in reconciliation.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                           At this point belong all
 the observations which show that interpersonalism is the ultimate reality and
 that other categories are secondary to it: what scripture considers most
@@ -364,40 +364,40 @@ original, most central, most enduring, most ultimate; the way Christianity is
 defended, and its central vocabulary (cp. “Bases for Interpersonalism”). </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                       H. Personal human experience</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                           If we, “being evil” (cp.
 Matthew <b>7</b>:11), know not to spank a willing, innocent child for a guilty other
 one’s misbehavior, how much more does the heavenly Father know not to punish
 one Son for other kids’ sins.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                       </span><span lang=EL
 style='font-size:12.0pt'>Ι</span><span style='font-size:12.0pt'>. Suffering <i>vs</i>.
 guilt</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                           In various ways, the guilt
 of one person can bring suffering to another (Exodus <b>20</b>:5; Deuteronomy <b>5</b>:9),
 so the fact that Christ suffered horribly does not mean his suffering had a
@@ -406,20 +406,20 @@ supreme possible obedience that established his righteousness in the flesh to
 the degree God would later call Jesus’ followers also to obey (John<b> 21</b>:18-19).          </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                       J. Proclamation to pagan
 audiences </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                           In The Acts, when Paul
 presents Christianity to pagan audiences, he does not put salvation in
 substitutionary terms: <b>17</b>:22-31 in Athens and <b>14</b>:15-17 in Lystra.
@@ -434,33 +434,33 @@ wherever they have corresponding features in interpersonal process. That is
 something they would be less prone to do with Gentile audiences.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                           With so many strikes
 against it, we feel justified in looking for another understanding of Christ’s
 work than the one proposed in penal substitution theory. </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify'><b><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify'><b><span
 style='font-size:12.0pt'>II. The Alternative Proposal: Identification</span></b></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>A.  Statement of the concept</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>              Reconciliation starts and ends with God.
 His incarnational identification with us in the human condition prompts our
 identification with him in return. His unconditional “grace in the first
@@ -470,7 +470,7 @@ motivates our identification with Christ as the condition for righteousness
 unto reconciliation.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>              In keeping with interpersonalism as the
 distinctive characteristic of the Christian worldview, the following diagram
 summarizes the pattern of “salvation” as reflective of 2 Corinthians <b>5</b>:14-21

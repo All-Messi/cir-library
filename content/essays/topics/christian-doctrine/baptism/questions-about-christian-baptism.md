@@ -974,7 +974,7 @@ each other to change practice before changing conviction. </span></p>
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.5in;line-height:18.0pt'><span style='font-size:12.0pt'>             9. How
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>             9. How
 can people baptized at birth be baptized now without saying that they have been
 lost all that time in between?</span></p>
 
@@ -1033,7 +1033,7 @@ knows hearts, can deal with all people in their special circumstances. </span></
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.5in;line-height:18.0pt'><span style='font-size:12.0pt'>            11. Should
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>            11. Should
 we regard as valid the baptisms called “trine” immersion” and “Jesus-only” baptisms?</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:

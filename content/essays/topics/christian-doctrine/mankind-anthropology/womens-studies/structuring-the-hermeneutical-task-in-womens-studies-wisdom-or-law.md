@@ -355,7 +355,7 @@ that there are exceptions to the male leadership pattern (Deborah, for
 example).</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.75in'><span style='font-size:12.0pt'>                              E. Wisdom
+0in'><span style='font-size:12.0pt'>                              E. Wisdom
 fits with the historical fact that there has never been a matriarchal society.</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:

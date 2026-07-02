@@ -161,7 +161,7 @@ Date of the Events in Job</span></p>
 font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
--.25in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  I.
+0in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  I.
 <i>Terminus a quo </i></span><span style='font-size:12.0pt;line-height:115%;
 font-family:"Times New Roman",serif'>(earliest time)</span></p>
 
@@ -259,7 +259,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><s
 dir=LTR></span>; 1 Chronicles <b>5</b>:14; man of the tribe of Gad</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
--1.0in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                        
+0in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                        
 *c.  Buz </span><span lang=HE dir=RTL style='font-size:12.0pt;line-height:115%;
 font-family:"Times New Roman",serif'>בּוּז</span><span dir=LTR></span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><span
@@ -277,7 +277,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><s
 dir=LTR></span>; <b>32</b>:2, 6; the family of Elihu</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                      a.   Not
+0in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                      a.   Not
 Ram </span><span lang=HE dir=RTL style='font-size:14.0pt;line-height:115%;
 font-family:"Times New Roman",serif'>רַם</span><span dir=LTR></span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><span
@@ -285,7 +285,7 @@ dir=LTR></span>; Ruth <b>4</b>:19; 1 Chronicles <b>2</b>:9, 10; son of Hezron
 and great-grandson of Judah</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                      b.   Not
+0in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                      b.   Not
 Ram </span><span lang=HE dir=RTL style='font-size:14.0pt;line-height:115%;
 font-family:"Times New Roman",serif'>רַם</span><span dir=LTR></span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><span
@@ -342,7 +342,7 @@ circumstances do not fit a man like Aram, son of Shem, who lived only three
 generations after the flood.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
--1.0in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                        
+0in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                        
 *d.  (?) Aram </span><span lang=HE dir=RTL style='font-size:14.0pt;line-height:
 115%;font-family:"Times New Roman",serif'>אֲרָם</span><span dir=LTR></span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><span
@@ -434,7 +434,7 @@ the names so far.</span></p>
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
--1.0in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          7.   Temanite
+0in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          7.   Temanite
 </span><span lang=HE dir=RTL style='font-size:14.0pt;line-height:115%;
 font-family:"Times New Roman",serif'>תִּימָנִי</span><span dir=LTR></span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><span
@@ -518,7 +518,7 @@ dir=LTR></span>; <b>2</b>:11; the tribe name of Zophar, one of Job’s friends,
 not mentioned elsewhere</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
--1.0in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                     
+0in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                     
 10.     Barachel </span><span lang=HE dir=RTL style='font-size:14.0pt;
 line-height:115%;font-family:"Times New Roman",serif'>בָּרַכְּאֵל</span><span
 dir=LTR></span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><span
@@ -584,7 +584,7 @@ great age</span></p>
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
 <p class=MsoListParagraph style='margin:0in;text-align:justify;text-indent:
--.25in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>a.<span
+0in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>a.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Masoretic
 text</span></p>

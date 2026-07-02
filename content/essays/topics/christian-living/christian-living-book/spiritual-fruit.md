@@ -64,7 +64,7 @@ style='font-size:12.0pt'>      General principle:<i> “</i></span><i><span
 style='font-size:12.0pt;color:windowtext'>We reap what we sow.”</span></i></p>
 
 <p class=MsoNormal dir=RTL style='margin-top:0in;margin-right:.25in;margin-bottom:
-0in;margin-left:-27.0pt;margin-bottom:.0001pt;text-align:justify;direction:
+0in;margin-left:0in;margin-bottom:.0001pt;text-align:justify;direction:
 rtl;unicode-bidi:embed'><span dir=LTR style='font-size:12.0pt'>      </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -78,7 +78,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                     The basic idea
+-.25in'><span style='font-size:12.0pt'>                     The basic idea
 about spiritual fruit: individual fruits are understood interpersonally. (a)
 They have an interpersonal character, and (b) they arise from interpersonal
 causes.</span></p>
@@ -109,13 +109,13 @@ style='font-size:12.0pt'>                  1.   Galatians<b> 
     The Pharisees <i>vs</i>. Jesus, the Judaizers <i>vs</i>. Paul, </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
-0in;margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-99.0pt'><span
+0in;margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-.5in'><span
 style='font-size:12.0pt'>                                             2.   1
 Corinthians <b>15</b>               millenarians, and civil religion all have
 the same  </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
-0in;margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-99.0pt'><span
+0in;margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-.5in'><span
 style='font-size:12.0pt'>                                             3.   Romans
 <b>7-8</b>                       basic problem of not understanding the
 spiritual </span></p>
@@ -170,7 +170,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                                 The
+-.25in'><span style='font-size:12.0pt'>                                 The
 conviction is that when <i>flesh</i> stands in contrast to <i>spirit</i>, the
 terms do not refer to parts of the human person, but to two frames of reference
 that these aspects of a person represent.</span></p>
@@ -198,7 +198,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               To
+-.25in'><span style='font-size:12.0pt'>                                               To
 have satisfaction, flesh has to <u>receive</u> something into itself. To
 satisfy fleshly appetites, something has to be taken into them (cp. the vice
 list in Galatians <b>5</b>:19-21). The <i>“works of the flesh”</i> are all
@@ -224,7 +224,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         Galatians
+-.25in'><span style='font-size:12.0pt'>                                         Galatians
 <b>6</b>:13 makes a connection in this section of the epistle with the Jewish
 impulse toward ethnocentrism. Paul notes that one motivation for wanting to
 circumcise Gentile converts was that they as Jews could <i>“glory in their
@@ -291,7 +291,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               We
+-.25in'><span style='font-size:12.0pt'>                                               We
 may think of spirit (a word picture is based on breathing) as a term for what
 in human nature enables us to engage interpersonally.</span></p>
 
@@ -309,29 +309,29 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                      Spiritual
+-.25in'><span style='font-size:12.0pt'>                                                      Spiritual
 fruit is not so much a deposit by the Holy Spirit as it is the fruit of
 relationship with him.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                      Since
+-.25in'><span style='font-size:12.0pt'>                                                      Since
 the Spirit represents a system of values, spirit involves a quality of life and
 standard of living.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>&nbsp;</span></p>
+-.25in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               Walking
+-.25in'><span style='font-size:12.0pt'>                                               Walking
 by the spirit (Galatians<b> 5</b>:16) means living a <u>transcendent</u>
 lifestyle.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               Interpersonalism
+-.25in'><span style='font-size:12.0pt'>                                               Interpersonalism
 is transcendent to the material realm, not opposed to it.  Interpersonalism
 transcends material considerations by impressing on them a value system that
 stresses the worth of <u>persons</u>, especially persons in <u>relationship</u>.
@@ -342,11 +342,11 @@ turn, transcended by an inclusive approach called interpersonal.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
+-.25in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               A
+-.25in'><span style='font-size:12.0pt'>                                               A
 quality of personal relationship lies above material considerations, or, to put
 it another way, at the center of meaningful life.</span></p>
 
@@ -431,13 +431,13 @@ items naturally related together.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                            
+-.25in'><span style='font-size:12.0pt'>                                            
           <u>Here the unifying element is the fact that these fruits are the
 results of </u></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                                      
+-.25in'><span style='font-size:12.0pt'>                                                      
 <u>interpersonalism</u>.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -521,7 +521,7 @@ person must bear their own </i></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--310.5pt'><i><span style='font-size:12.0pt'>                                                                                                                                                                                                  
+-.25in'><i><span style='font-size:12.0pt'>                                                                                                                                                                                                  
 burden.”</span></i></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -581,7 +581,7 @@ style='font-size:12.0pt'>                  3.    Not tied to
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         4.   Caused
+-.25in'><span style='font-size:12.0pt'>                                         4.   Caused
 by a sense of acceptance by other significant people</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -682,7 +682,7 @@ style='font-size:12.0pt'>                  1.   The word pict
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         2.   The
+-.25in'><span style='font-size:12.0pt'>                                         2.   The
 idea is not just patience till something else creates the desired result
 (passiveness) or even enduring opposition while you are trying (positive). It
 is a self-restraint that does not hastily retaliate. It combines patience,
@@ -713,7 +713,7 @@ hate, competing, not caring)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         3.   It
+-.25in'><span style='font-size:12.0pt'>                                         3.   It
 withholds critical comments even if perhaps they are deserved because it wants
 to build a person up. Not criticizing applies to people who are trying, but not
 doing a very good job; it also applies to critical people. Criticizing critical
@@ -789,21 +789,21 @@ style='font-size:12.0pt'>                        e.   K
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.5in'><span style='font-size:12.0pt'>                                                      3.   Faith:
+-.25in'><span style='font-size:12.0pt'>                                                      3.   Faith:
 the attitude we take toward other people’s actions toward us; we trust.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
+-.25in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                                 Consequently,<i>
+-.25in'><span style='font-size:12.0pt'>                                 Consequently,<i>
 faith</i> can refer to qualities on both sides of a relationship: trust </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                                 and
+-.25in'><span style='font-size:12.0pt'>                                 and
 trustworthiness.</span></p>
 
 <p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
@@ -1037,12 +1037,12 @@ forbid such things</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                           B.  but
+-.25in'><span style='font-size:12.0pt'>                           B.  but
 because law generally concerns itself with forbidding behaviors that arise </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                                 from fleshly
+-.25in'><span style='font-size:12.0pt'>                                 from fleshly
 orientation and material concerns</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -1071,21 +1071,21 @@ others for personal gain</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         2.   Such
+-.25in'><span style='font-size:12.0pt'>                                         2.   Such
 behaviors reduce personal relationship to <u>egocentrism</u> and </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               <u>ethnocentrism</u>.                      
+-.25in'><span style='font-size:12.0pt'>                                               <u>ethnocentrism</u>.                      
 </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
+-.25in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                       </span><span
+-.25in'><span style='font-size:12.0pt'>                       </span><span
 style='font-size:11.0pt'>christir.org         </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:

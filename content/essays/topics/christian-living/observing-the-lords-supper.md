@@ -45,50 +45,50 @@ margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><sp
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
-0in;margin-left:-.25in;margin-bottom:.0001pt;text-align:justify'><span
+0in;margin-left:0in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>INTRODUCTION</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
-0in;margin-left:-.25in;margin-bottom:.0001pt;text-align:justify'><span
+0in;margin-left:0in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:9.0pt;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>               The Lord’s Supper is
+-9.0pt'><span style='font-size:12.0pt'>               The Lord’s Supper is
 among the acts of worship (1 Corinthians <b>11</b>: 23-29; </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:9.0pt;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                        cp. Matthew <b>26</b>:26-29;
+-9.0pt'><span style='font-size:12.0pt'>                        cp. Matthew <b>26</b>:26-29;
 1 Corinthians <b>10</b>:16-21).</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:9.0pt;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>               Representation
+-9.0pt'><span style='font-size:12.0pt'>               Representation
 (emblems): in the mind, so to speak, bread and grape juice are </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:9.0pt;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                        transformed
+-9.0pt'><span style='font-size:12.0pt'>                        transformed
 into the body and blood of the Lord.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:9.0pt;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>               Symbols mean only what we
+-9.0pt'><span style='font-size:12.0pt'>               Symbols mean only what we
 mean into them. Without conscious involvement, the </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:9.0pt;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                        Lord’s Supper is
+-9.0pt'><span style='font-size:12.0pt'>                        Lord’s Supper is
 just eating bread and drinking grape juice.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
-0in;margin-left:-.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
+0in;margin-left:0in;margin-bottom:.0001pt;text-align:justify;text-indent:
+0in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
-0in;margin-left:-.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>               <u>Five directions we
+0in;margin-left:0in;margin-bottom:.0001pt;text-align:justify;text-indent:
+0in'><span style='font-size:12.0pt'>               <u>Five directions we
 look in observing the Lord’s Supper</u></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -115,7 +115,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--81.0pt'><span style='font-size:12.0pt'>                                             1.   The
+-.25in'><span style='font-size:12.0pt'>                                             1.   The
 Sabbath was a weekly memorial of the exodus (Deuteronomy<b> 5</b>:12-15).</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -139,7 +139,7 @@ of the crucifixion (1 Corinthians <b>11</b>:24-</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--81.0pt'><span style='font-size:12.0pt'>                                                   25).</span></p>
+-.25in'><span style='font-size:12.0pt'>                                                   25).</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -186,22 +186,22 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                           B.  Self-examination
+-.25in'><span style='font-size:12.0pt'>                           B.  Self-examination
 is like working awhile and then looking up to see how to go or </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                                 stepping
+-.25in'><span style='font-size:12.0pt'>                                 stepping
 back to see how it looks.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                           C.  <i>“In a
+-.25in'><span style='font-size:12.0pt'>                           C.  <i>“In a
 worthy manner”</i> corresponds with others being hungry while we are </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                                 overeating
+-.25in'><span style='font-size:12.0pt'>                                 overeating
 (<b>11</b>:21-22).</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -282,7 +282,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:1.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--99.0pt'><span style='font-size:12.0pt'>                     B.  A memorial
+-1.25in'><span style='font-size:12.0pt'>                     B.  A memorial
 provokes <u>commitment</u>, motivation, identification; it affirms <u>who I am</u>
 subjectively (1 Corinthians <b>10</b>:16, 18-21).</span></p>
 
@@ -297,7 +297,7 @@ behaviors that make the present possible for others.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         As
+-.25in'><span style='font-size:12.0pt'>                                         As
 a rite, communion means ingesting the emblems as a re-enactment within us (not
 as in Jesus Christ of the mass); communion means <u>ingesting the values</u>
 they represent.</span></p>
@@ -322,12 +322,12 @@ style='font-size:12.0pt'>                        Lord.</spa
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         Communion
+-.25in'><span style='font-size:12.0pt'>                                         Communion
 indicates a high degree of commitment: blood means violent death, </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                       not death from
+-.25in'><span style='font-size:12.0pt'>                       not death from
 old age or sickness or accident. It is a way to affirm our willingness, if need
 be, to take up our own cross and follow him.</span></p>
 

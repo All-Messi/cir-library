@@ -949,7 +949,7 @@ unfalsifiability</span></p>
 people in order to glorify God.</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.5in;line-height:18.0pt'><span style='font-size:12.0pt'>unwholesome picture of
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>unwholesome picture of
 God (He depravitizes people and then punishes them for being the way they are. Depravitizing
 people only exacerbates the problem of sin in the world.)</span></p>
 

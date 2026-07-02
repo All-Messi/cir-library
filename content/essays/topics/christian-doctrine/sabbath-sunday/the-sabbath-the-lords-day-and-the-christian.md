@@ -113,7 +113,7 @@ style='font-size:12.0pt'>            C.  The church was established o
 (Leviticus <b>23</b>:15-21 re Pentecost).</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.5in'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                        D.  The practice of early
 Christians was to meet on Sunday (1 Corinthians <b>16</b>:1; <b>11</b>:17ff;
 Acts<b> 20</b>:7).</span></p>

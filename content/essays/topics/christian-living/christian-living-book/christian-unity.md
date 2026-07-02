@@ -76,20 +76,20 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.35pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--184.5pt'><span style='font-size:12.0pt'>                                                                                1.   Strength—Luke
+-.25in'><span style='font-size:12.0pt'>                                                                                1.   Strength—Luke
 <b>11</b>:18: <i>“If Satan is divided against himself, how will his </i></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.35pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--184.5pt'><i><span style='font-size:12.0pt'>                                                                                      kingdom
+-.25in'><i><span style='font-size:12.0pt'>                                                                                      kingdom
 stand?”</span></i></p>
 
 <p class=MsoNormal style='margin-left:.25in;text-align:justify;text-indent:
--184.3pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
+-.25in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.35pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--171.0pt'><span style='font-size:12.0pt'>                                                                           2.   Credibility—John
+-.25in'><span style='font-size:12.0pt'>                                                                           2.   Credibility—John
 <b>17</b>:21, 23: <i>“I pray that they all may be one even as you, Father, are
 in me and I in you—that they may also be in us, that the world may believe that
 you sent me . . . I in them and you in me, that the world may know that you
@@ -113,7 +113,7 @@ style='font-size:12.0pt'>            C.  Richness of the Christian ex
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                   D.  The
+-.25in'><span style='font-size:12.0pt'>                                   D.  The
 Christian purpose is to form a new united mankind: Ephesians <b>2</b>:14-16.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -154,7 +154,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                1
+-.25in'><span style='font-size:12.0pt'>                                                1
 Corinthians <b>1</b>:10; <b>15</b>:11: <i>“I beg of you, brothers, by the name
 of our Lord Jesus Christ, that you say the same things and that there be no
 divisions among you.”</i></span></p>
@@ -172,13 +172,13 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                1
+-.25in'><span style='font-size:12.0pt'>                                                1
 Corinthians <b>4</b>:7: <i>“Who makes you to differ? What do you have that you
 did </i></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><i><span style='font-size:12.0pt'>                                                not
+-.25in'><i><span style='font-size:12.0pt'>                                                not
 receive? If you received it, why do you glory as if you did not receive it?”</span></i></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -195,13 +195,13 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                1
+-.25in'><span style='font-size:12.0pt'>                                                1
 Corinthians<b> 1</b>:12: <i>“Now this is what I mean—that each one of you is
 saying, ‘I </i></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><i><span style='font-size:12.0pt'>                                                      am
+-.25in'><i><span style='font-size:12.0pt'>                                                      am
 of Paul, Apollos, or Cephas.’”</span></i></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -270,17 +270,17 @@ negotiable and some not being changeable.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--22.5pt'><span style='font-size:12.0pt'>                    D. <u>Cooperation</u>
+-.25in'><span style='font-size:12.0pt'>                    D. <u>Cooperation</u>
 allows Christians of varying persuasions to operate independently in day-to-day
 functioning while at the same time acknowledging each other as brothers.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--22.5pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
+-.25in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--22.5pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
+-.25in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -349,7 +349,7 @@ style='font-size:12.0pt'>            C.  Unbelief does not equal dis
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--22.5pt'><span style='font-size:12.0pt'>                    D.   Uncertainty
+-.25in'><span style='font-size:12.0pt'>                    D.   Uncertainty
 does not equal rejection.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -468,12 +468,12 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                2.   Doctrines
+-.25in'><span style='font-size:12.0pt'>                                                2.   Doctrines
 without practical correlates are not as central as those involving </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                      moral
+-.25in'><span style='font-size:12.0pt'>                                                      moral
 behavior.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -529,31 +529,31 @@ perspective by interpersonalizing them</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         3.   Creates
+-.25in'><span style='font-size:12.0pt'>                                         3.   Creates
 the proper atmosphere for discussing formal and non-behavioral </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               doctrines</span></p>
+-.25in'><span style='font-size:12.0pt'>                                               doctrines</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         4.   Establishes
+-.25in'><span style='font-size:12.0pt'>                                         4.   Establishes
 an appropriate frame of mind necessary for broadening the </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               common
+-.25in'><span style='font-size:12.0pt'>                                               common
 ground for unity in Christ</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         5.   Recognizes
+-.25in'><span style='font-size:12.0pt'>                                         5.   Recognizes
 that Christian unity must be a grassroots movement between </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               individual
+-.25in'><span style='font-size:12.0pt'>                                               individual
 Christians</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -574,16 +574,16 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                           A.  <u>Individual
+-.25in'><span style='font-size:12.0pt'>                           A.  <u>Individual
 Christians</u> relating to others, not just as people but as Christian </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                                 brothers.</span></p>
+-.25in'><span style='font-size:12.0pt'>                                 brothers.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                           B.  <u>Interdenominational
+-.25in'><span style='font-size:12.0pt'>                           B.  <u>Interdenominational
 association</u> to the extent of common ground in cities, regions, and world,
 while continuing to meet in congregational units where there is sufficient
 agreement to allow the group to operate. That procedure simply recognizes that
@@ -593,13 +593,13 @@ only respect. Separateness and division are qualitatively different.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                           C.  <u>Organizational
+-.25in'><span style='font-size:12.0pt'>                           C.  <u>Organizational
 unification</u> by moving to local autonomy with influence rather than
 authority operating above the congregational level.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
+-.25in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span

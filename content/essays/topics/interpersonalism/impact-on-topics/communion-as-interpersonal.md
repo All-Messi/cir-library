@@ -35,27 +35,27 @@ span.HeaderChar
 
 <div class="word-content">
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:-22.5pt;margin-bottom:.0001pt;text-align:center'><b><span
+margin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:center'><b><span
 style='font-size:14.0pt'>COMMUNION AS INTERPERSONAL</span></b></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:-22.5pt;margin-bottom:.0001pt;text-align:center;
+margin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:center;
 text-indent:.5in'><b><span style='font-size:12.0pt'>&nbsp;</span></b></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:-22.5pt;margin-bottom:.0001pt;text-align:center'><span
+margin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:center'><span
 style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:-22.5pt;margin-bottom:.0001pt;text-align:center;
+margin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:center;
 text-indent:.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:-22.5pt;margin-bottom:.0001pt;text-align:center;
+margin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:center;
 text-indent:.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-22.5pt;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
 style='font-size:12.0pt'>              As with any ritual or formal act, the
 Lord’s Supper means for us <u>only what</u> we mean into it. The bread and the
 grape juice are transformed <u>in our minds</u> into the body and the blood of
@@ -64,14 +64,14 @@ the Lord. The elements represent rather than are. <i>“This is my body”</i> u
 his wallet and says, <i>“This <u>is</u> my grandson.” </i></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-22.5pt;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
 style='font-size:12.0pt'>              Communion means <u>as much as</u> we
 mean into it, and it means something only <u>if</u> we mean something into it. It
 has intended meaning, so we should put that meaning into our observance. If we
 do not do so, it has no meaning at all and therefore no benefit. </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-22.5pt;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
 style='font-size:12.0pt'>              Treating the elements in this personal
 way contrasts with sliding the ordinance over into the impersonal category:
 being (hypostatics). Transubstantiation and consubstantiation interpret the
@@ -86,15 +86,15 @@ Lord’s Supper to mean. In any form, the doctrine of “real presence”
 interpersonal process in hypostatic terms.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-22.5pt;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-22.5pt;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
 style='font-size:12.0pt'>I. The Lord’s Supper is an act of identification with <u>Christ</u>.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-22.5pt;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
 style='font-size:12.0pt'>              The Lord’s Supper is fellowship with a
 person as symbolized by ingesting into ourselves what pictures his body and
 blood. “Eating” his body and blood means internalizing the life he lived in
@@ -108,36 +108,36 @@ putting ourselves in his shoes. It is an act of worship inasmuch as it
 expresses ourselves to him as a present, superior, second person.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-22.5pt;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-22.5pt;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
 style='font-size:12.0pt'>II . The Lord’s Supper is an act of worship.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-22.5pt;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
 style='font-size:12.0pt'>              We consciously look up to the One who
 cared about us enough to undergo what we are bringing into the present through
 these emblems.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-22.5pt;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-22.5pt;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
 style='font-size:12.0pt'>III. The Lord’s Supper is an act of identification
 with <u>the people of Christ</u>.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-22.5pt;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
 style='font-size:12.0pt'>              It amounts to a <u>plea for unity</u> (1
 Corinthians <b>10</b>:17) and a <u>proclamation of his death</u>. It restates his
 death for us all.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-22.5pt;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
 style='font-size:12.0pt'>                                                                                                                                            
 </span><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

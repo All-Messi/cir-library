@@ -99,19 +99,19 @@ style='font-size:12.0pt'>                  C.  Change</span></p
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--135.0pt'><span style='font-size:12.0pt'>                                                                     1.   Modification:
+0in'><span style='font-size:12.0pt'>                                                                     1.   Modification:
 change without increasing the number of harmoniously </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--135.0pt'><span style='font-size:12.0pt'>                                                                           integrated
+0in'><span style='font-size:12.0pt'>                                                                           integrated
 factors.</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--153.0pt'><span style='font-size:12.0pt'>                                                                        
+0in'><span style='font-size:12.0pt'>                                                                        
 *2.   Complexification: change with increasing the number of harmoniously </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--153.0pt'><span style='font-size:12.0pt'>                                                                                 integrated
+0in'><span style='font-size:12.0pt'>                                                                                 integrated
 factors.</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
@@ -183,15 +183,15 @@ style='font-size:12.0pt'>                  A.  Short-term creat
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--117.0pt'><span style='font-size:12.0pt'>                                                               1.   Type
+0in'><span style='font-size:12.0pt'>                                                               1.   Type
 A: creation from nothing to final form in approximately a week’s time; </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--117.0pt'><span style='font-size:12.0pt'>                                                                     earth’s
+0in'><span style='font-size:12.0pt'>                                                                     earth’s
 age is in the order of 10,000 to 30,000 years.</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--117.0pt'><span style='font-size:12.0pt'>                                                               2.   Type
+0in'><span style='font-size:12.0pt'>                                                               2.   Type
 B:  same as above except that creative process occurred in terms of years, and
 the earth’s age is longer in varying degrees according to the theorist’s
 framework.</span></p>
@@ -206,11 +206,11 @@ style='font-size:12.0pt'>                  B.  Long-term creati
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--166.5pt'><span style='font-size:12.0pt'>                                                                                3.   Ruin-reconstruction:
+0in'><span style='font-size:12.0pt'>                                                                                3.   Ruin-reconstruction:
 the present form of the earth is one of several </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--166.5pt'><span style='font-size:12.0pt'>                                                                                            destructions
+0in'><span style='font-size:12.0pt'>                                                                                            destructions
 followed by new beginnings of divine creativity.</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
@@ -247,13 +247,13 @@ style='font-size:12.0pt'>                  A.  Relative to God<
 style='font-size:12.0pt'>                  </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--171.0pt'><span style='font-size:12.0pt'>                                                                                 1.   Theistic
+0in'><span style='font-size:12.0pt'>                                                                                 1.   Theistic
 evolution: transcendent deity is only involved in the creation from nothing and
 by building into the natural order the principles potential for nature’s
 complexifying itself.</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--171.0pt'><span style='font-size:12.0pt'>                                                                                 2.   Atheistic
+0in'><span style='font-size:12.0pt'>                                                                                 2.   Atheistic
 evolution: mass/energy is eternal and self-complexifying. (If the view of God
 is not that of transcendent deity, then what we call atheistic is also theistic
 but no external causation is involved; hence, we do not call it “creation” even

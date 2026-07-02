@@ -235,7 +235,7 @@ style='font-size:12.0pt'>Parallelism Between “Us” and “Them”: Relational
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal style='text-align:justify;text-indent:-.5in'><span
+<p class=MsoNormal style='text-align:justify;text-indent:0in'><span
 style='font-size:12.0pt'>                       <i>“Let’s make humankind in our
 image after our likeness, and let them have dominion over the fish in the sea,
 the birds in the sky, the cattle, all the earth, and everything that moves on

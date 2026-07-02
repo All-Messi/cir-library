@@ -83,11 +83,11 @@ applies to us </span></p>
 the nature of the kingdom he came to establish;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.75in;line-height:18.0pt'><span style='font-size:12.0pt'>                              (2)
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                              (2)
 when Jesus is describing an item implemented in Acts and taught in the </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.75in;line-height:18.0pt'><span style='font-size:12.0pt'>                                    epistles;</span></p>
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                    epistles;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>            (3) when Jesus is

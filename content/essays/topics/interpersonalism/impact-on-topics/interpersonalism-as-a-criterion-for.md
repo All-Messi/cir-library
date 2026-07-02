@@ -25,40 +25,40 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-left:-.5in;text-align:center'><b><span
+<p class=MsoNormal align=center style='margin-left:0in;text-align:center'><b><span
 style='font-size:14.0pt'>INTERPERSONALISM AS A CRITERION FOR</span></b></p>
 
-<p class=MsoNormal align=center style='margin-left:-.5in;text-align:center;
+<p class=MsoNormal align=center style='margin-left:0in;text-align:center;
 text-indent:.5in'><b><span style='font-size:14.0pt'>&nbsp;</span></b></p>
 
-<p class=MsoNormal align=center style='margin-left:-.5in;text-align:center'><b><span
+<p class=MsoNormal align=center style='margin-left:0in;text-align:center'><b><span
 style='font-size:14.0pt'>FELLOWSHIP, ORTHODOXY, AND RELATIVE CENTRALITY</span></b></p>
 
-<p class=MsoNormal align=center style='margin-left:-.5in;text-align:center;
+<p class=MsoNormal align=center style='margin-left:0in;text-align:center;
 text-indent:.5in'><b><span style='font-size:12.0pt'>&nbsp;</span></b></p>
 
-<p class=MsoNormal align=center style='margin-left:-.5in;text-align:center'><span
+<p class=MsoNormal align=center style='margin-left:0in;text-align:center'><span
 style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
 
-<p class=MsoNormal align=center style='margin-left:-.5in;text-align:center;
+<p class=MsoNormal align=center style='margin-left:0in;text-align:center;
 text-indent:.5in'><b><span style='font-size:12.0pt'>&nbsp;</span></b></p>
 
-<p class=MsoNormal align=center style='margin-left:-.5in;text-align:center;
+<p class=MsoNormal align=center style='margin-left:0in;text-align:center;
 text-indent:.5in'><b><span style='font-size:12.0pt'>&nbsp;</span></b></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify;text-indent:
+<p class=MsoNormal style='margin-left:0in;text-align:justify;text-indent:
 .5in;line-height:18.0pt'><span style='font-size:12.0pt'>Interpersonalism serves
 as a general criterion for deciding what is part of the faith. It is the
 touchstone for distinguishing “gospel from culture” and truth from preference.</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify;text-indent:
+<p class=MsoNormal style='margin-left:0in;text-align:justify;text-indent:
 .5in;line-height:18.0pt'><span style='font-size:12.0pt'>Interpersonalism serves
 as a criterion for arranging things from <u>central to less central</u> within
 what is actually true about the Christian faith. The value of this observation
 lies in helping us decide what to emphasize in introducing someone to Christ (<u>evangelism</u>)
 and in arranging the sequence of virtues and duties in the process of <u>sanctification</u>.</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify;text-indent:
+<p class=MsoNormal style='margin-left:0in;text-align:justify;text-indent:
 .5in;line-height:18.0pt'><span style='font-size:12.0pt'>Interpersonalism serves
 as a guide for knowing how concerned to be about <u>various doctrinal errors</u>,
 personal practices, and other difficulties that can exist among believers. The
@@ -73,7 +73,7 @@ with in the living ministry of the church: the other person’s <u>readiness</u>
 the issues that <u>circumstance</u> may kick up that may then serve as an
 entree into the presentation of the gospel or the discipleship of a believer.</span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify;text-indent:
+<p class=MsoNormal style='margin-left:0in;text-align:justify;text-indent:
 .5in;line-height:18.0pt'><span style='font-size:12.0pt'>Interpersonalism serves
 as a hermeneutical criterion for distinguishing between love, wisdom, and
 service. To put it differently, interpersonalism serves as a guide to
@@ -82,7 +82,7 @@ the nature and purpose of the faith are interpersonal (induction), we have the
 context for clarifying texts and sorting through interpretations of them
 (deduction). </span></p>
 
-<p class=MsoNormal style='margin-left:-.5in;text-align:justify;text-indent:
+<p class=MsoNormal style='margin-left:0in;text-align:justify;text-indent:
 .5in;line-height:18.0pt'><span style='font-size:12.0pt'>                                                                                                                             
 </span><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

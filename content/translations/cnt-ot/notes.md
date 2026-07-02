@@ -6343,7 +6343,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In
 </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:-4.5pt;text-align:justify;text-indent:40.5pt'><span
+margin-left:0in;text-align:justify;text-indent:40.5pt'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Written
 English minimizes the use of interjections. The Old Testament has a number of them,
 and <i>CV</i> keeps a few: <i>ha</i> (Ezekiel</span><b><span style='font-size:
@@ -11587,7 +11587,7 @@ See also 1 Kings <b>12</b>:22, <i>“a man of God”</i> (first mention); <b>13<
 25</b>:7; Jeremiah <b>35</b>:4 (first mention).</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
--.5in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        A
+0in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        A
 partial answer to this issue is that the construct noun is definite if the noun
 it is tied to is definite, including proper nouns. But that is relative
 definiteness, one in contrast to what the phrase head itself would contrast to;
@@ -11595,7 +11595,7 @@ it does not solve definite <i>vs.</i> indefinite within the category named by
 the phrase head—frame of reference. </span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
--.5in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        We
+0in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        We
 opted to use <i><u>an</u> angel of the Lord</i> for </span><span lang=EL
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>ἄγγελος</span><span
 lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
@@ -14153,7 +14153,7 @@ replaced with a plural or anarthrous English noun in Job<b> 21</b>:12; Proverbs
 (moth); Ezekiel <b>17</b>:22 (cedar).</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:.25in;text-align:justify;text-indent:-.5in'><span style='font-size:
+margin-left:.25in;text-align:justify;text-indent:-.25in'><span style='font-size:
 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            (c)
 Hebrew could use its article for something known and definite to the writer,
 though not to the reader: note Genesis <b>14</b>:13. For English purposes, the
@@ -17075,7 +17075,7 @@ retained with <i>King</i> in Numbers <b>21</b>:17; Nehemiah <b>2</b>:3; Daniel <
 27; <b>5</b>:10, 18; <b>6</b>:15; Joel<b>                        2</b>:21 </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:22.5pt;text-align:justify;text-indent:-27.0pt'><i><span
+margin-left:22.5pt;text-align:justify;text-indent:-22.5pt'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>oak   
 </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>translation
 used for </span><span dir=RTL></span><i><span dir=RTL style='font-size:12.0pt;

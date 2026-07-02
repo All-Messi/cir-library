@@ -677,33 +677,33 @@ style='font-size:12.0pt'>    <u>Conditionality Elements</u>         
 Serpent</u>                          <u>Salvation</u></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:4.5pt;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in;
+margin-left:4.5pt;margin-bottom:.0001pt;text-align:justify;text-indent:-4.5pt;
 line-height:18.0pt'><span style='font-size:12.0pt'>                       (a) dependent
 first person                person bitten                              sinner</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:4.5pt;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in;
+margin-left:4.5pt;margin-bottom:.0001pt;text-align:justify;text-indent:-4.5pt;
 line-height:18.0pt'><span style='font-size:12.0pt'>                       (b) sovereign
 second person            God                                            God</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:4.5pt;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in;
+margin-left:4.5pt;margin-bottom:.0001pt;text-align:justify;text-indent:-4.5pt;
 line-height:18.0pt'><span style='font-size:12.0pt'>                       (c) free
 promise                               I will cure                                   I
 will forgive</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:4.5pt;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in;
+margin-left:4.5pt;margin-bottom:.0001pt;text-align:justify;text-indent:-4.5pt;
 line-height:18.0pt'><span style='font-size:12.0pt'>                       (d) predicated
 obedience                 look on the brazen serpent         faith</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:4.5pt;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in;
+margin-left:4.5pt;margin-bottom:.0001pt;text-align:justify;text-indent:-4.5pt;
 line-height:18.0pt'><span style='font-size:12.0pt'>                       (e) bestowed
 result                           cure of snake bite                       forgiveness</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:4.5pt;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in;
+margin-left:4.5pt;margin-bottom:.0001pt;text-align:justify;text-indent:-4.5pt;
 line-height:18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;

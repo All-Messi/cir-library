@@ -66,14 +66,14 @@ in the road: <i>“Trouble not the Master; she has passed away.”</i></span></p
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-left:31.5pt;text-align:justify;text-indent:
--.5in'><i><span style='font-size:12.0pt'>I.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+-31.5pt'><i><span style='font-size:12.0pt'>I.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></i><b><span style='font-size:12.0pt'>8</span></b><span
 style='font-size:12.0pt'>:49: <u>Once that has happened, nothing can be done</u>.
 <i>“Trouble not the master; she has passed away.”</i></span></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-left:-4.5pt;text-align:justify;text-indent:
+<p class=MsoNormal style='margin-left:0in;text-align:justify;text-indent:
 40.5pt'><span style='font-size:12.0pt'>A miracle worker, was he? Yes, a healer
 of the most noteworthy sort, one who healed even the lepers, the palsied, and
 the lame. But does not the implication of the man’s plaintive words ring true
@@ -86,7 +86,7 @@ we have not seen everything yet.</span></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-left:.5in;text-align:justify;text-indent:-40.5pt'><span
+<p class=MsoNormal style='margin-left:.5in;text-align:justify;text-indent:-.5in'><span
 style='font-size:12.0pt'>II.  <b>8</b>:50: <i>“Fear not,”</i> he answered;
 “just trust me: she will be made whole.” <u>By what we <i>have</i> seen, we
 dare to trust for more than the present scene</u>.</span></p>
@@ -171,7 +171,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 style='font-size:12.0pt'>The hymn is entitled, “For All the Saints Who from
 Their Labors Rest”</span></p>
 
-<p class=MsoNormal style='margin-left:-4.5pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
+<p class=MsoNormal style='margin-left:0in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt'>Virgil
 Warren</span></p>

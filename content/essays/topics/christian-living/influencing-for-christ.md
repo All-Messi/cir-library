@@ -60,12 +60,12 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         1.   Avoids
+-.25in'><span style='font-size:12.0pt'>                                         1.   Avoids
 professionalizing the ministry as something done by specialists: it is </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               <u>all</u>
+-.25in'><span style='font-size:12.0pt'>                                               <u>all</u>
 to be involved in as they are able.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -129,41 +129,41 @@ style='font-size:6.0pt'><span style='text-decoration:none'>&nbsp;</span></span><
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         2.   The
+-.25in'><span style='font-size:12.0pt'>                                         2.   The
 <u>way</u> the kingdom is spread must be in keeping with the <u>kind</u> of </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               kingdom
+-.25in'><span style='font-size:12.0pt'>                                               kingdom
 it is.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         3.   The
+-.25in'><span style='font-size:12.0pt'>                                         3.   The
 <u>way</u> the kingdom is spread must be in keeping with the <u>purpose</u> of
 the </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               kingdom.</span></p>
+-.25in'><span style='font-size:12.0pt'>                                               kingdom.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>  </span></p>
+-.25in'><span style='font-size:12.0pt'>  </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               The
+-.25in'><span style='font-size:12.0pt'>                                               The
 kingdom is not of this world; therefore, it is not furthered by worldly </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                                     means
+-.25in'><span style='font-size:12.0pt'>                                                     means
 and methods.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               The
+-.25in'><span style='font-size:12.0pt'>                                               The
 kingdom is heavenly, transcendent, spiritual, interpersonal.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -190,12 +190,12 @@ synagogue”</i> (Acts <b>18</b>:4).</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         3.   <i>“I
+-.25in'><span style='font-size:12.0pt'>                                         3.   <i>“I
 determined to know nothing among you except Jesus Christ and him </i></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><i><span style='font-size:12.0pt'>                                               crucified”</span></i><span
+-.25in'><i><span style='font-size:12.0pt'>                                               crucified”</span></i><span
 style='font-size:12.0pt'> (1 Corinthians <b>2</b>:2).</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -204,25 +204,25 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.35pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--112.5pt'><span style='font-size:12.0pt'>                                                              a.   There
+-.25in'><span style='font-size:12.0pt'>                                                              a.   There
 is no pride in serving someone who was crucified; it is humbling </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.35pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--112.5pt'><span style='font-size:12.0pt'>                                                                    yourself
+-.25in'><span style='font-size:12.0pt'>                                                                    yourself
 to death.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.35pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--112.5pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
+-.25in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.35pt;margin-bottom:
-0in;margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-130.5pt'><span
+0in;margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-.5in'><span
 style='font-size:12.0pt'>                                                              b.   Knowing
 nothing plus tentmaking (Acts <b>18</b>:3) equals not getting caught </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.35pt;margin-bottom:
-0in;margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-130.5pt'><span
+0in;margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-.5in'><span
 style='font-size:12.0pt'>                                                                    up
 in worldly things that are ends in themselves</span></p>
 
@@ -276,32 +276,32 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--121.5pt'><span style='font-size:12.0pt'>                                                           Romans
+-.25in'><span style='font-size:12.0pt'>                                                           Romans
 <b>2</b>:24: <i>“The name of God is blasphemed among the Gentiles because of </i></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--121.5pt'><i><span style='font-size:12.0pt'>                                                                 you.”</span></i></p>
+-.25in'><i><span style='font-size:12.0pt'>                                                                 you.”</span></i></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--121.5pt'><span style='font-size:12.0pt'>                                                           2
+-.25in'><span style='font-size:12.0pt'>                                                           2
 Peter <b>2</b>:2: <i>“Many will follow their sensual ways on account of whom
 the way </i></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--121.5pt'><i><span style='font-size:12.0pt'>                                                                 of
+-.25in'><i><span style='font-size:12.0pt'>                                                                 of
 truth will be evil spoken of.”</span></i></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                                 We
+-.25in'><span style='font-size:12.0pt'>                                 We
 wonder what Christianity could do if Christians would stay out of the way.   </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                                       We
+-.25in'><span style='font-size:12.0pt'>                                       We
 <i>“hinder the truth in unrighteousness”</i> (Romans<b> 1</b>:18).</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -322,13 +322,13 @@ style='font-size:12.0pt'>                  Mission is advocating
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         It
+-.25in'><span style='font-size:12.0pt'>                                         It
 is a quality of life we are calling people to and a relationship to God as a
 way </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               of
+-.25in'><span style='font-size:12.0pt'>                                               of
 life.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -338,7 +338,7 @@ of it and <u>impetus</u> for it.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.0in'><span style='font-size:12.0pt'>                                          Faults
+-.25in'><span style='font-size:12.0pt'>                                          Faults
 in the personal life of a doctor, lawyer, grocery store manager do not
 necessarily mean he is not a good doctor, and so on, but here we must possess
 what we are trying to get others to accept.</span></p>
@@ -427,12 +427,12 @@ style='font-size:12.0pt'>                  3.   responding to 
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
-0in;margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-45.0pt'><span
+0in;margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-.5in'><span
 style='font-size:12.0pt'>                           It affects all our actions
 significantly when we think first about their impact on </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
-0in;margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-45.0pt'><span
+0in;margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-.5in'><span
 style='font-size:12.0pt'>                                       other people,
 including kids and prospects. It helps forgo and forgive.</span></p>
 
@@ -450,13 +450,13 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         Titus
+-.25in'><span style='font-size:12.0pt'>                                         Titus
 <b>2</b>:8<i>: “In all things show yourself an example of good works . . . so
 that </i></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><i><span style='font-size:12.0pt'>                       those who are
+-.25in'><i><span style='font-size:12.0pt'>                       those who are
 of the contrary part may be ashamed having nothing evil to say of you.”</span></i></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -615,12 +615,12 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                                 Our
+-.25in'><span style='font-size:12.0pt'>                                 Our
 impulse is to avoid those who have wronged us. Instead, we are called to </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                                 do
+-.25in'><span style='font-size:12.0pt'>                                 do
 good to them just as to anybody else.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -670,12 +670,12 @@ that calls for an explanation</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                4.   That
+-.25in'><span style='font-size:12.0pt'>                                                4.   That
 we do the kind of good that brings people to us when they do have </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                      a
+-.25in'><span style='font-size:12.0pt'>                                                      a
 need</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -722,7 +722,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                      a.   It
+-.25in'><span style='font-size:12.0pt'>                                                      a.   It
 does not tell people <u>why</u> we live the way we do. They cannot see the <u>reason</u>
 for our living that way. They must understand our reason, or we are just
 another good person. We need to give the cup of water <u>in Jesus’ name</u>.</span></p>
@@ -805,17 +805,17 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         Others
+-.25in'><span style='font-size:12.0pt'>                                         Others
 often initiate; situations often initiate. Opportunities often come to us </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               from
+-.25in'><span style='font-size:12.0pt'>                                               from
 beyond us.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         Redeeming
+-.25in'><span style='font-size:12.0pt'>                                         Redeeming
 the times often means waiting till opportunities come. Much in influencing for Christ
 is beyond our control. We often must wait for circumstances to create <u>readiness</u>
 for the “education” we call evangelism.</span></p>
@@ -865,7 +865,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         One
+-.25in'><span style='font-size:12.0pt'>                                         One
 thing to watch here is getting “hokey,” artificial.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -925,13 +925,13 @@ them into parts of one whole thing.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                   B.  Under
+-.25in'><span style='font-size:12.0pt'>                                   B.  Under
 the influence model <u>evangelism</u> motivates our own <u>Christian living</u>.
 <u>Christian living</u> authenticates <u>evangelism</u>.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                   C.  The
+-.25in'><span style='font-size:12.0pt'>                                   C.  The
 influence understanding of missions shows how all of us can be involved in the
 conversion of others: one plants, another waters, someone else harvests.</span></p>
 

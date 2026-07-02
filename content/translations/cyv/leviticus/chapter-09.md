@@ -11,7 +11,7 @@ next: chapter-10
 
 ## Leviticus Chapter 9
 
-<p class="MsoListBulletCxSpMiddle" style='margin-left:-.25in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                           </span></sup></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>On the eighth day, Moses called Aaron, his sons, and the elders in Israel. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                           </span></sup></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>On the eighth day, Moses called Aaron, his sons, and the elders in Israel. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told Aaron, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Take a bull calf for a sin offering and a ram for a burnt offering—both without defect—and offer them to Yahveh. </span></i><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then tell the Israelites, </span></i></span></p>
@@ -45,7 +45,7 @@ next: chapter-10
 
 <p class="section-ref">Lev 9:8-14</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-left:-.25in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He presented the <u>people’s offering</u>. He slaughtered the goat for the sin offering and offered it like the first. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He presented the <u>people’s offering</u>. He slaughtered the goat for the sin offering and offered it like the first. </span></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He also presented the burnt offering as required by the Law. </span></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Next, he offered up in smoke a handful of the <u>grain offering</u> on the altar—in addition to the morning’s burnt offering.</span></span></p>
 

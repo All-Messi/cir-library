@@ -210,7 +210,7 @@ concentrates instead on the attitude of submission in everyday living. We are
 to say, <i>“The Lord willing, we will do this or that” </i>(<b>4</b>:13-15). </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
-margin-left:-4.5pt;text-align:justify;text-indent:.5in'><span style='font-size:
+margin-left:0in;text-align:justify;text-indent:.5in'><span style='font-size:
 12.0pt;line-height:115%'>The approach he advocates contrasts not only with
 disregarding Christian values in decision-making, but with making appropriate
 decisions and then calling on God for help to fulfill them. Such a method still

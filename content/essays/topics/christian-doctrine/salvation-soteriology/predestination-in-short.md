@@ -115,30 +115,30 @@ the seats are more comfortable;</i> etc<i>.”</i></p>
 
 <p class=MsoNormal style='margin-left:.5in;text-align:justify'>&nbsp;</p>
 
-<p class=MsoNormal style='margin-left:-4.5pt;text-align:justify;text-indent:
--40.5pt'>                           We can choose what destiny we want, and
+<p class=MsoNormal style='margin-left:0in;text-align:justify;text-indent:
+0in'>                           We can choose what destiny we want, and
 then do the things appropriate to that destiny, but we cannot choose the
 destiny and then choose whatever acts we want to do on the way there (<i>“knowing
 good and evil”</i>). We need to conform to second Adam (1 Corinthians <b>15</b>:22,
 45), not first Adam.</p>
 
-<p class=MsoNormal style='margin-left:-4.5pt;text-align:justify;text-indent:
--40.5pt'>&nbsp;</p>
+<p class=MsoNormal style='margin-left:0in;text-align:justify;text-indent:
+0in'>&nbsp;</p>
 
-<p class=MsoNormal style='margin-left:-4.5pt;text-align:justify;text-indent:
--40.5pt'>             Good and bad are always determined by purpose. </p>
+<p class=MsoNormal style='margin-left:0in;text-align:justify;text-indent:
+0in'>             Good and bad are always determined by purpose. </p>
 
-<p class=MsoNormal style='margin-left:-4.5pt;text-align:justify;text-indent:
--40.5pt'>                           It is obvious that we do not determine our
+<p class=MsoNormal style='margin-left:0in;text-align:justify;text-indent:
+0in'>                           It is obvious that we do not determine our
 own ultimate purpose (meaning) because we die. We choose only whether we are
 going to conform to the behavior appropriate to that given purpose—only whether
 we are going to <i>“conform to the image of his Son”</i> (Romans <b>8</b>:29). </p>
 
-<p class=MsoNormal style='margin-left:-4.5pt;text-align:justify;text-indent:
--40.5pt'>&nbsp;</p>
+<p class=MsoNormal style='margin-left:0in;text-align:justify;text-indent:
+0in'>&nbsp;</p>
 
-<p class=MsoNormal style='margin-left:-4.5pt;text-align:justify;text-indent:
--40.5pt'>&nbsp;</p>
+<p class=MsoNormal style='margin-left:0in;text-align:justify;text-indent:
+0in'>&nbsp;</p>
 
 <p class=MsoNormal style='text-align:justify'>Romans <b>1</b></p>
 

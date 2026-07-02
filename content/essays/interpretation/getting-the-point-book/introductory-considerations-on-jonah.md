@@ -250,17 +250,17 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--85.5pt'><span style='font-size:12.0pt'>                                                     a.
+-.25in'><span style='font-size:12.0pt'>                                                     a.
 Jesus’ comparison of Jonah’s experience to his own (Matthew <b>12</b>:34-42; </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--85.5pt'><span style='font-size:12.0pt'>                                                           <b>16</b>:1-4;
+-.25in'><span style='font-size:12.0pt'>                                                           <b>16</b>:1-4;
 *Luke <b>11</b>:29-<u>32</u>)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--85.5pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
+-.25in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span

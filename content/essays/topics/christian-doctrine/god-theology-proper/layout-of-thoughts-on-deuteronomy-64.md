@@ -211,11 +211,11 @@ style='font-size:12.0pt'>                        other  
  contribute  to reasons for loving him.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.5in'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.5in'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                                    (2) 
 </span><span lang=HE dir=RTL style='font-size:12.0pt'>אֶהָד</span><span
 dir=LTR></span><span lang=HE style='font-size:12.0pt'><span dir=LTR></span>  </span><span
@@ -223,19 +223,19 @@ style='font-size:12.0pt'>(“one”) does not  eliminate  distinction  betwee
 the  sub-units  </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.5in'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                                          of
 what is “one.” A good example is Genesis <b>2</b>:24, where husband + </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.5in'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                                          wife
 = </span><span lang=HE dir=RTL style='font-size:12.0pt'>אֶהָד</span><span
 dir=LTR></span><span lang=HE style='font-size:12.0pt'><span dir=LTR></span> </span><span
 style='font-size:12.0pt'>(“one”) flesh.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.25in'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                              Note: The preferred
 translation of Deuteronomy<b> 6</b>:4 is <i>“Yahveh is our God, Yahveh  alone.”</i></span></p>
 

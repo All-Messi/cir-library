@@ -149,7 +149,7 @@ the <u>ultimate frame of reference</u>.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                      m.  It
+-.25in'><span style='font-size:12.0pt'>                                                      m.  It
 speaks of people <u>doing what they sympathize with</u> (1 Kings <b>21</b>:19: Ahab
 killed Naboth, even though his wife was the one who had him killed.)</span></p>
 
@@ -195,13 +195,13 @@ supernatural manifestation</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                      e.   Love
+-.25in'><span style='font-size:12.0pt'>                                                      e.   Love
 <i>vs</i>. hate, positive <i>vs</i>. less positive, positive<i> vs</i>. neutral,
 or positive </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                            <i>vs</i>.
+-.25in'><span style='font-size:12.0pt'>                                                            <i>vs</i>.
 negative</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:

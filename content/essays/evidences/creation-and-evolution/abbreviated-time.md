@@ -140,7 +140,7 @@ scripture teaches creation from nothing. We would expect it here in the Genesis
 statement of origins.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-63.0pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                   (2)    “Bara<b><i>’</i></b>”
 (</span><span lang=HE dir=RTL style='font-size:14.0pt'>בָּרַא</span><span
 dir=LTR></span><span style='font-size:12.0pt'><span dir=LTR></span>) means to
@@ -148,7 +148,7 @@ create something new kind. In reference to the universe, the word implies
 creation from nothing.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.5in'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                                  (3)
    Taking <i>“in the beginning”</i> (</span><span lang=HE dir=RTL
 style='font-size:14.0pt'>בְּרֵשִׁית</span><span dir=LTR></span><span
@@ -163,7 +163,7 @@ Hebrew text does not point the verse to have it read “<i>In the beginning of
 God’s creating the heaven . . .”</i></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.5in'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                                  (5)
    All the ancient translations understand the Hebrew as an absolute reference,
 notably the Septuagint Greek version that Jewish scholars prepared a couple
@@ -203,12 +203,12 @@ margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.5in'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                                  (1)
    The expression <i>“the heavens and the earth”</i> appears elsewhere in</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.5in'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                                           reference
 to the completed creation: Isaiah <b>45</b>:18.</span></p>
 
@@ -356,7 +356,7 @@ margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-81.0pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                   a.   The
 correlation of the normal week with the creation activity: Exodus <b>20</b>:11.
 Where does the idea of a seven-day week come from if not from the creation
@@ -367,14 +367,14 @@ circumstance they lived under for some centuries. In God’s creating Israel, he
 provided them with an account of his creative work in a sevenfold breakdown.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-2.25in'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                                              b.
   The plants of the previous day would have died if the sun had not been
 created soon (Day 4). <b>1</b>:14-19 may not be the creation of the sun and
 moon.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-81.0pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                   c.   The
 <i>“evening and morning”</i> expression. Contrast Psalm <b>90</b>:4-5, where
 the typical Jewish view of day starting in the evening is set aside for <i>“morning
@@ -382,7 +382,7 @@ and evening”</i> when a figure is meant: <i>Acts &amp; Facts</i>, (November 19
 p. 11.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-2.25in'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                                              d.
   With an associated term/ordinal-number, </span><span lang=HE dir=RTL
 style='font-size:12.0pt'>יוֹם</span><span dir=LTR></span><span lang=HE
@@ -410,12 +410,12 @@ style='font-size:12.0pt'>                        h.   Sur
 animals requires a twenty-four-hour day.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-81.0pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                   i.    Jewish
 rabbis and early Church Fathers understood the days of Genesis as </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-81.0pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                         twenty-four-hour
 days.</span></p>
 
@@ -506,13 +506,13 @@ style='font-size:12.0pt'>                            
 animals, creation of woman</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-81.0pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                   d.   The
 perpetualness of Day 7: Genesis <b>2</b>:3 + Hebrews <b>3</b>:11-<b>4</b>:13
 (Psalm </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-81.0pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                         <b>95</b>:7-11
 (no evening-morning for Day 7)</span></p>
 
@@ -536,7 +536,7 @@ style='font-size:12.0pt'>                            
 <i>“in the day that Yahveh God made earth and heaven”</i></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.5in'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                                  (2)
    <i>“The day of the Lord”</i>: Isaiah <b>2</b>:12; <b>13</b>:6, 9; Jeremiah <b>46</b>:10;
 Lamentations <b>2</b>:22; Ezekiel <b>13</b>:5; <b>30</b>:3; <b>39</b>:13; Joel <b>1</b>:15;
@@ -555,12 +555,12 @@ style='font-size:12.0pt'>                            
 + 18 + 24, and so on, plus<b> 7</b>:84</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-3.0in'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                                                                      (5)
    A generalized word for time; cp. time, times, and half a time as </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-3.0in'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                                                                               equal
 to three days and a half: Revelation<b> 12</b>:14 + <b>11</b>:9.</span></p>
 
@@ -569,23 +569,23 @@ margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-85.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                     g.
   Genesis <b>1-11</b> shows significant compression of time to which two
 chapters </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-85.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                           for
 seven days would be an exception.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-85.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                     h.
   Over time, God tends to work through less direct and less miraculous </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-85.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                           means.
 He has plenty of time (2 Peter <b>3</b>:8) and is long-suffering (<b>3</b>:9).</span></p>
 
@@ -608,14 +608,14 @@ margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-58.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                      5.   “<u>Overlapping</u>”
 days. A description of this approach may be found in Davis A. Young, <i>Creation
 and the Flood: An Alternative to Flood Geology and Theistic Evolution</i>, pp.
 114-34.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-58.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -670,7 +670,7 @@ margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-81.0pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                   a.   Correlation
 of Day 1 with Day 4, Day 2 with Day 5, Day 3 with Day 6</span></p>
 
@@ -689,7 +689,7 @@ margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                        d.   Vegetation before the sun</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-81.0pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                   e.   How
 could there be fertile soil on the exposed land the third day when the drain
 off on Day 2 would have highly eroded the land masses. How would there had been
@@ -702,7 +702,7 @@ style='font-size:12.0pt'>                        f.    T
 Genesis <b>2</b> and Genesis <b>1</b></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-81.0pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                   g.   One
 form of that framework would equal the mythological idea: different order in
 the two chapters, man before plants and animals, different divine names, a
@@ -720,12 +720,12 @@ margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-85.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                     a.
   The chronological-historical week comes from the Genesis account of </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-85.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                           creation:
 Exodus <b>20</b>:11.</span></p>
 
@@ -749,7 +749,7 @@ margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.5in'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                    Howard J. Van Till
 in “Special Creationism in Designer Clothing: A Response to <i>The Creation
 Hypothesis</i>”<i> (Perspectives on Science and Christian Faith</i>, 47 [2,
@@ -841,7 +841,7 @@ style='font-size:12.0pt'>                            
 <b>26</b>:24: Moses, Gershom [. . .] Shebuel, a contemporary of David</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.5in'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                                  (3)
    1 Chronicles<b> 27</b>:31: Levi, Kohath, Hebron [. . .] Jerijah, a
 contemporary of David</span></p>
@@ -933,7 +933,7 @@ patriarchs have been considered as transcriptionally erroneous. See <i>Biblical
 Archaeologist</i>, XLIII:52, pp. 69-70, for example.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.5in'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                    e. Recently, studies
 have been conducted on the Y-chromosome in ethnically distinct humans. The
 projections backward in time for the antiquity of mankind based on the variety
@@ -941,7 +941,7 @@ within the gene pool give surprisingly recent dates for the origin of <i>Homo
 sapiens</i>. See <i>Reasons to Believe</i> (X:1), 4.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.5in'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                        F. The best alternative seems
 to be to take the “days” of Genesis <b>1</b> as topics instead of time
 segments. The rationale for that understanding appears elsewhere on the website

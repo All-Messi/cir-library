@@ -599,7 +599,7 @@ action begins. An example of this point about moral evil occurs in James <b>3</b
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal style='text-align:justify;text-indent:-.5in'><span
+<p class=MsoNormal style='text-align:justify;text-indent:0in'><span
 style='font-size:12.0pt'>                        <i>No one can tame the tongue.
 It is a restless evil; it is full of deadly poison. We bless the Lord and
 Father with it and curse men with it who are made after the likeness of God. Blessing

@@ -303,13 +303,13 @@ style='font-size:12.0pt'>                        <b>2</b>
 Hebrews<b> 6</b>:17-18 (<i>“does not lie or repent”</i>)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-67.5pt'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                         4.   Isaiah <b>40</b>:8;
 <b>55</b>:11; Matthew <b>5</b>:18; <b>24</b>:35; Luke <b>16</b>:17;<b> 21</b>:33
 (<i>“words will not </i></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-67.5pt'><i><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><i><span
 style='font-size:12.0pt'>                                               pass
 away”</span></i><span style='font-size:12.0pt'>)</span></p>
 

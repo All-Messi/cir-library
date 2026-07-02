@@ -326,14 +326,14 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 in the physical       The <u>sinless Son becomes sinless</u> as a man in our </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:.25in;text-align:justify;text-indent:-1.25in'><span
+margin-left:.25in;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              world
 as a man<b><sup> </sup></b>like we are called on              realm, having
 suffered to the point we may have to do.                          to and thereby
 qualifying himself to be the object </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:.25in;text-align:justify;text-indent:-1.25in'><span
+margin-left:.25in;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                      of
 our identification.</span></p>
 
@@ -646,7 +646,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
 <b>6</b>:1-5. </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:.25in;text-align:justify;text-indent:-22.5pt'><span
+margin-left:.25in;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>        <b>Our
 responses do not cause the resulting relationship in whole or in part—as Esau’s
 repentance shows: <i>“he found no place for a change of mind in his father

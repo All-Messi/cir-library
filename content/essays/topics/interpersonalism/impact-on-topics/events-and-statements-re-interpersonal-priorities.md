@@ -54,7 +54,7 @@ style='font-size:12.0pt'>1. The Sabbath was made for man, not man for the
 Sabbath (Mark <b>2</b>:27; cp. Exodus <b>23</b>:12d; Deuteronomy<b> 5</b>:14c)</span></p>
 
 <p class=MsoNormal style='margin-right:-31.5pt;text-align:justify;text-indent:
--22.5pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
+0in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-31.5pt;text-align:justify'><span
 style='font-size:12.0pt'>2.   <i>“Today you will be with me in paradise”</i>
@@ -105,7 +105,7 @@ shows the priority of personal commitment and behavior over ceremonial
 observance of <u>animal sacrifices</u>.</span></p>
 
 <p class=MsoNormal style='margin-right:-31.5pt;text-align:justify;text-indent:
--22.5pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
+0in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-31.5pt;text-align:justify'><span
 style='font-size:12.0pt'>8.   Abraham’s relationship to God preceded

@@ -650,7 +650,7 @@ margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.25in'><span
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-.5in'><span
 style='font-size:12.0pt'>                                                     Prayer
 is for benefiting and aiding us. Answered prayer may confirm faith, but it is
 not often a basis for other people’s faith.</span></p>
@@ -660,7 +660,7 @@ margin-left:1.75in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.25in'
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.25in'><span
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-.5in'><span
 style='font-size:12.0pt'>                                                     (6)   God
 is the more glorified by the less he has to do for us. God lets us do as much
 as we can do without doing it for us.</span></p>

@@ -1148,23 +1148,23 @@ one in Luke<b> 7</b>:36-50.</span></p>
 -.25in'><span style='font-size:12.0pt'>Matthew-Mark do not name the woman; John
 is talking about Mary.</span></p>
 
-<p class=MsoNormal style='margin-left:.5in;text-align:justify;text-indent:-.75in'><span
+<p class=MsoNormal style='margin-left:.5in;text-align:justify;text-indent:-.5in'><span
 style='font-size:12.0pt'>                  Matthew-Mark say that the woman
 anointed Jesus’ <u>head</u>, while John says his <u>feet</u>.</span></p>
 
-<p class=MsoNormal style='margin-left:.5in;text-align:justify;text-indent:-.75in'><span
+<p class=MsoNormal style='margin-left:.5in;text-align:justify;text-indent:-.5in'><span
 style='font-size:12.0pt'>                  Matthew-Mark put the event during
 the final week; John puts it before the triumphal entry.</span></p>
 
-<p class=MsoNormal style='margin-left:.5in;text-align:justify;text-indent:-.75in'><span
+<p class=MsoNormal style='margin-left:.5in;text-align:justify;text-indent:-.5in'><span
 style='font-size:12.0pt'>                  In Matthew-Mark the disciples
 (Matthew) and those present (Mark) object; Judas objects in John <b>12</b>..</span></p>
 
-<p class=MsoNormal style='margin-left:.5in;text-align:justify;text-indent:-.75in'><span
+<p class=MsoNormal style='margin-left:.5in;text-align:justify;text-indent:-.5in'><span
 style='font-size:12.0pt'>                  All three locate the occasion in
 Bethany; Matthew-Mark add the house of “Simon the leper.”</span></p>
 
-<p class=MsoNormal style='text-align:justify;text-indent:-.25in'><span
+<p class=MsoNormal style='text-align:justify;text-indent:0in'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-left:.5in;text-align:justify'><span

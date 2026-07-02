@@ -171,12 +171,12 @@ it is persons more than pattern.</span></p>
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.5in;line-height:18.0pt'><span style='font-size:12.0pt'>            V. The
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>            V. The
 interpersonal character of the kingdom correlates with the kind of benefits it
 promises. </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.5in;line-height:18.0pt'><span style='font-size:12.0pt'>                        <i>“My
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                        <i>“My
 peace I leave with you, not like the world offers”</i> (John <b>14</b>:27). Personal-interpersonal
 peace is different from political peace. It is inner peace; but more than that,
 it is a peace with God.</span></p>

@@ -360,7 +360,7 @@ water.</span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:0in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify;text-indent:0in'><span
 style='font-size:10.0pt;font-family:"Arial",sans-serif'>b. <span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><span
 style='font-size:12.0pt'>gift of the Spirit</span></p>

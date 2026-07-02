@@ -5725,7 +5725,7 @@ style='font-size:12.0pt'>                  8. Putting the wrong 
 keeps the rest from going together.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.0in'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                          9. Sometimes
 we are surprised where a piece goes—as where a color change occurs at the edge
 of the piece. </span></p>

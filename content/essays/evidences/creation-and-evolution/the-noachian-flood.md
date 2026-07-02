@@ -63,19 +63,19 @@ I. Views of the Flood</span></p>
 <p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                  A.  Local
 flood theory: anthropologically universal, but not global</span></p>
 
-<p class=MsoNormal style='margin-right:-.5in;text-indent:-45.0pt'><span
+<p class=MsoNormal style='margin-right:-.5in;text-indent:0in'><span
 style='font-size:12.0pt'>                                 B.  Tranquil flood
 theory: perhaps universal, but not catastrophic with geological </span></p>
 
-<p class=MsoNormal style='margin-right:-.5in;text-indent:-45.0pt'><span
+<p class=MsoNormal style='margin-right:-.5in;text-indent:0in'><span
 style='font-size:12.0pt'>                                       upheavals,
 volcanic activity, or cosmic disturbances</span></p>
 
-<p class=MsoNormal style='margin-right:-.5in;text-indent:-45.0pt'><span
+<p class=MsoNormal style='margin-right:-.5in;text-indent:0in'><span
 style='font-size:12.0pt'>                                 C.  Catastrophic
 universal flood theory designed to account for the fossil-bearing </span></p>
 
-<p class=MsoNormal style='margin-right:-.5in;text-indent:-45.0pt'><span
+<p class=MsoNormal style='margin-right:-.5in;text-indent:0in'><span
 style='font-size:12.0pt'>                                       geological
 column</span></p>
 
@@ -95,11 +95,11 @@ purpose of the flood for destroying <i>“every living thing that I have made”
 
 <p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-right:-.5in;text-indent:-67.5pt'><span
+<p class=MsoNormal style='margin-right:-.5in;text-indent:0in'><span
 style='font-size:12.0pt'>                                               1.   The
 number of people by even 1,656 years would mean a wider dispersal than </span></p>
 
-<p class=MsoNormal style='margin-right:-.5in;text-indent:-67.5pt'><span
+<p class=MsoNormal style='margin-right:-.5in;text-indent:0in'><span
 style='font-size:12.0pt'>                                                     one
 river valley system.</span></p>
 
@@ -141,11 +141,11 @@ effect is compared in scope to the ministry of Jesus in Hades (1 Peter <b>3</b>:
 
 <p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        20).</span></p>
 
-<p class=MsoNormal style='margin-right:-.5in;text-indent:-45.0pt'><span
+<p class=MsoNormal style='margin-right:-.5in;text-indent:0in'><span
 style='font-size:12.0pt'>                                 I.    The effect of
 the flood is comparable in scope to the final destruction by fire        </span></p>
 
-<p class=MsoNormal style='margin-right:-.5in;text-indent:-45.0pt'><span
+<p class=MsoNormal style='margin-right:-.5in;text-indent:0in'><span
 style='font-size:12.0pt'>                                       (2 Peter <b>3</b>:7-13).</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
@@ -178,7 +178,7 @@ fountains</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-right:-.5in;text-indent:-45.0pt'><span
+<p class=MsoNormal style='margin-right:-.5in;text-indent:0in'><span
 style='font-size:12.0pt'>                                 B.  Getting all the
 animals in the ark together with all the food necessary for their </span></p>
 
@@ -191,7 +191,7 @@ arise from such an enclosed unit</span></p>
 <p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                        1.   Some
 young forms could have been taken in.</span></p>
 
-<p class=MsoNormal style='margin-right:-.5in;text-indent:-67.5pt'><span
+<p class=MsoNormal style='margin-right:-.5in;text-indent:0in'><span
 style='font-size:12.0pt'>                                               2.   The
 number of basic species is not large; speciation has occurred since the flood. (No
 pre-flood animals are mentioned in Genesis.)</span></p>
@@ -200,7 +200,7 @@ pre-flood animals are mentioned in Genesis.)</span></p>
 great size is perhaps the reason some larger reptiles were not preserved
 (35,000 at outside—#5 below).</span></p>
 
-<p class=MsoNormal style='margin-right:-.5in;text-indent:-67.5pt'><span
+<p class=MsoNormal style='margin-right:-.5in;text-indent:0in'><span
 style='font-size:12.0pt'>                                               4.   Marine
 life would not have to be included.</span></p>
 
@@ -380,13 +380,13 @@ under the mastodons and under the polar ice caps (?)</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-right:-.5in;text-indent:-45.0pt'><span
+<p class=MsoNormal style='margin-right:-.5in;text-indent:0in'><span
 style='font-size:12.0pt'>                                       If the death of
 these animals was caused by Patton’s ice dump theory and if the polar caps were
 caused by the disintegration of an ice meteor, then the flood could not be
 responsible for the whole fossil-bearing geological column.</span></p>
 
-<p class=MsoNormal style='margin-right:-.5in;text-indent:-45.0pt'><span
+<p class=MsoNormal style='margin-right:-.5in;text-indent:0in'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                  N.  Survival

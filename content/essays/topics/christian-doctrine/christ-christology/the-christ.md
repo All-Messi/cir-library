@@ -150,7 +150,7 @@ margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.25in'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                      a.
 <i>“Firstborn of all creation,”</i> or <i>“firstborn of every creature”: </i>Colossians
 <b>1</b>:15-18; cp. Psalm <b>8</b>:3-6 (Hebrews <b>2</b>:6-18)</span></p>

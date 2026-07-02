@@ -122,7 +122,7 @@ Christian growth.</span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in'><span style='font-size:12.0pt'>4. Does scripture talk about any second
+0in'><span style='font-size:12.0pt'>4. Does scripture talk about any second
 definite experience in believers’ lives as a uniform expectancy we should
 anticipate or even pray for?</span></p>
 
@@ -145,7 +145,7 @@ about imposition of hands or imparting a spiritual gift. </span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in'><span style='font-size:12.0pt'>5. Are miraculous phenomena to be
+0in'><span style='font-size:12.0pt'>5. Are miraculous phenomena to be
 expected beyond the foundational stage of the church, the apostolic age?</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span

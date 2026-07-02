@@ -455,15 +455,15 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-.75in'><span
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-.5in'><span
 style='font-size:12.0pt'> IX. Collection of the Canon (See “Primary Questions
 in the Collection of the New Testament Canon.”)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-.75in'><span
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-.5in'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-.75in'><span
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-.5in'><span
 style='font-size:11.0pt'>christir.org</span></p>
 </div>

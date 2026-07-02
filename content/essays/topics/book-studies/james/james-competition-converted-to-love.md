@@ -45,7 +45,7 @@ ul
 
 <div class="word-content">
 <p class=MsoListParagraphCxSpFirst align=center style='margin-bottom:12.0pt;
-text-align:center;text-indent:-.25in'><b><span style='font-size:14.0pt;
+text-align:center;text-indent:0in'><b><span style='font-size:14.0pt;
 line-height:115%'>(1)<span style='font:7.0pt "Times New Roman"'> </span></span></b><b><span
 style='font-size:14.0pt;line-height:115%'> JAMES: COMPETITION CONVERTED TO LOVE</span></b></p>
 

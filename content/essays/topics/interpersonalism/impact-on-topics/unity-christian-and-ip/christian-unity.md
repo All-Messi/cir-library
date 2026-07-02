@@ -518,12 +518,12 @@ and formal aspects of Christianity.</span></p>
 items of Christian unity,</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--153.0pt;line-height:18.0pt'><span style='font-size:12.0pt'>                                                         
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                                         
                              (b)    puts formal and non-behavioral matters in
 proper perspective by </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--153.0pt;line-height:18.0pt'><span style='font-size:12.0pt'>                                                                                                interpersonalizing
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                                                                                interpersonalizing
 <u>them</u>,</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
@@ -535,33 +535,33 @@ the proper atmosphere for discussing doctrines related to </span></p>
 matters,</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--153.0pt;line-height:18.0pt'><span style='font-size:12.0pt'>                                                                                       (d)
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                                                                       (d)
    establishes an appropriate frame of mind for broadening the </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--153.0pt;line-height:18.0pt'><span style='font-size:12.0pt'>                                                                                                common
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                                                                                common
 ground for Christian unity,     </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--153.0pt;line-height:18.0pt'><span style='font-size:12.0pt'>                                                                                       (e)
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                                                                       (e)
     places the center of the process for Christian unification at the </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--153.0pt;line-height:18.0pt'><span style='font-size:12.0pt'>                                                                                                grass-roots
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                                                                                grass-roots
 level between individual Christians instead of </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--153.0pt;line-height:18.0pt'><span style='font-size:12.0pt'>                                                                                                attempting
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                                                                                attempting
 to do it through political fiat or organizational </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--153.0pt;line-height:18.0pt'><span style='font-size:12.0pt'>                                                                                                unification.                                             </span></p>
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                                                                                unification.                                             </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--153.0pt;line-height:18.0pt'><span style='font-size:12.0pt'>                                                                                                                                                                                       </span><span
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                                                                                                                                                                       </span><span
 style='font-size:11.0pt'>christir.org</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--153.0pt;line-height:18.0pt'><u><span style='font-size:12.0pt'><span
+0in;line-height:18.0pt'><u><span style='font-size:12.0pt'><span
  style='text-decoration:none'>&nbsp;</span></span></u></p>
 </div>

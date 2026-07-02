@@ -185,28 +185,28 @@ preference.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                      b.   Prayer
+-.25in'><span style='font-size:12.0pt'>                                                      b.   Prayer
 expresses the attitude <i>“if the Lord will”</i> (James <b>4</b>:13-15; cp.
 Acts </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                            <b>18</b>:21;
+-.25in'><span style='font-size:12.0pt'>                                                            <b>18</b>:21;
 1 Corinthians <b>16</b>:7; Hebrews<b> 6</b>:1; Romans <b>1:</b>10; <b>15</b>:32;
 1 Peter </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                            <b>3</b>:17).</span></p>
+-.25in'><span style='font-size:12.0pt'>                                                            <b>3</b>:17).</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                      c.   AVOID
+-.25in'><span style='font-size:12.0pt'>                                                      c.   AVOID
 SETTING THE OPTIONS AND ASKING GOD TO DECIDE </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                            WHICH
+-.25in'><span style='font-size:12.0pt'>                                                            WHICH
 ONE.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -325,7 +325,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                               What
+-.25in'><span style='font-size:12.0pt'>                                               What
 do these options entail about educational preparation, cultural </span></p>
 
 <p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
@@ -362,12 +362,12 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         What
+-.25in'><span style='font-size:12.0pt'>                                         What
 do other people advise? This is important because we get more <u>objective </u></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         <u>input</u>.</span></p>
+-.25in'><span style='font-size:12.0pt'>                                         <u>input</u>.</span></p>
 
 <p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
@@ -414,7 +414,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                      a.   Do
+-.25in'><span style='font-size:12.0pt'>                                                      a.   Do
 not expect to start at the top. The problem of being entrusted with
 responsibility before experience has been gained. We can be found capable,
 responsible, and trustworthy in less crucial matters where failure would not be
@@ -425,29 +425,29 @@ Luke <b>19</b>:11-27).</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                      b.   Those
+-.25in'><span style='font-size:12.0pt'>                                                      b.   Those
 called higher are already trying to do God’s will (Timothy: Acts <b>16</b>:1ff.).
 Faithful in little usually means faithful in much (Luke <b>16</b>:10).</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                      c.   Do
+-.25in'><span style='font-size:12.0pt'>                                                      c.   Do
 not get caught up in waiting that can go with sign-seeking. God can lead
 without your knowing it or giving you signs. Besides, special leading may not
 be necessary.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>&nbsp;</span></p>
+-.25in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                      Being
+-.25in'><span style='font-size:12.0pt'>                                                      Being
 faithful in less develops us for being faithful in more.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>&nbsp;</span></p>
+-.25in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -459,7 +459,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:1.5in;margin-bottom:.0001pt;text-align:justify;text-indent:
--2.5in'><span style='font-size:12.0pt'>                                                      a.   To
+-1.5in'><span style='font-size:12.0pt'>                                                      a.   To
 get called up higher, we must develop the skills and capacities we already
 have.</span></p>
 
@@ -473,7 +473,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                            As
+-.25in'><span style='font-size:12.0pt'>                                                            As
 you age and mature, your interests and abilities, opportunities and needs change;
 and by development you become better suited for some tasks and perhaps less
 suited for others.</span></p>
@@ -515,12 +515,12 @@ style='font-size:12.0pt'>                  </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--22.5pt'><span style='font-size:12.0pt'>                                b.   <i>“Whatever
+-.25in'><span style='font-size:12.0pt'>                                b.   <i>“Whatever
 your hand finds to do—do it with your strength”</i> </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--22.5pt'><span style='font-size:12.0pt'>                                      (Ecclesiastes
+-.25in'><span style='font-size:12.0pt'>                                      (Ecclesiastes
 <b>9</b>:10a).</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -549,13 +549,13 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                                 The five
+-.25in'><span style='font-size:12.0pt'>                                 The five
 procedures above are not <u>steps</u> in a sequence so much as <u>elements</u> in
 a</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                                 process.</span></p>
+-.25in'><span style='font-size:12.0pt'>                                 process.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -594,12 +594,12 @@ Spirit’s work?</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                            the
+-.25in'><span style='font-size:12.0pt'>                                                            the
 result of attitudes developed in response to scripture, other </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                                     Christians,
+-.25in'><span style='font-size:12.0pt'>                                                                     Christians,
 awareness of God’s presence?</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -608,17 +608,17 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                      We
+-.25in'><span style='font-size:12.0pt'>                                                      We
 can always go ahead and follow an impulse if it harmonizes with God’s </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                              Word, <u>BUT</u>
+-.25in'><span style='font-size:12.0pt'>                              Word, <u>BUT</u>
 we should distinguish<i> data to be considered </i>and <i>signs to be followed</i>.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                      We
+-.25in'><span style='font-size:12.0pt'>                                                      We
 should not view impulses in a way that implies <u>disobedience</u> (hence </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -637,7 +637,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--49.5pt'><span style='font-size:12.0pt'>                                         Part
+-.25in'><span style='font-size:12.0pt'>                                         Part
 of the problem is keeping life from becoming so full that there is no time,
 emotional energy, or funds left for doing the good that we might be able to do.</span></p>
 
@@ -663,13 +663,13 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--27.0pt'><span style='font-size:12.0pt'>          III.       Alternative Procedure:
+-.25in'><span style='font-size:12.0pt'>          III.       Alternative Procedure:
 doing all of the above, but assuming that God has a specific will we need to
 find (instead of supposing he may not have a specific will for each of us)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--27.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
+-.25in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -695,7 +695,7 @@ nature of the case.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--22.5pt'><span style='font-size:12.0pt'>                    We note the
+-.25in'><span style='font-size:12.0pt'>                    We note the
 following weaknesses of assuming direct guidance for each person at each point.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -713,7 +713,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                                 The
+-.25in'><span style='font-size:12.0pt'>                                 The
 idea is hard to <u>disprove</u> from scripture even aside from the
 apostolic-age distinction. The burden of proof falls on the affirmative, which
 means that the one that makes a claim has the responsibility to show that it is
@@ -728,7 +728,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         1
+-.25in'><span style='font-size:12.0pt'>                                         1
 Corinthians <b>12</b>:7: <u>There is a job each person in the body can do</u>, but
 that is a different thing from saying that <u>God</u> has chosen a specific
 task for each person in the body.</span></p>
@@ -739,7 +739,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--112.5pt'><span style='font-size:12.0pt'>                                                              1
+-.25in'><span style='font-size:12.0pt'>                                                              1
 Corinthians <b>12</b>:3b: we cannot say Jesus is Lord but with the Holy Spirit.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -749,21 +749,21 @@ is a better way.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--112.5pt'><span style='font-size:12.0pt'>                                                              <u>Any
+-.25in'><span style='font-size:12.0pt'>                                                              <u>Any
 person that receives a supernatural manifestation receives it for the </u></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--112.5pt'><span style='font-size:12.0pt'>                                                                    <u>profit
+-.25in'><span style='font-size:12.0pt'>                                                                    <u>profit
 of the body</u>.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--112.5pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
+-.25in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--112.5pt'><span style='font-size:12.0pt'>                                                              Natural
+-.25in'><span style='font-size:12.0pt'>                                                              Natural
 “gifts” become gifts of the Spirit when used for his benefit and work. The “spiritual
 gifts” that the New Testament talks about are not necessarily supernatural
 deposits; they may be natural talents or slots of service.</span></p>
@@ -832,7 +832,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                                 Unless
+-.25in'><span style='font-size:12.0pt'>                                 Unless
 we can distinguish “special” experiences from our normal human experience, we
 should not call them revelation or special guidance (even though they might
 be).</span></p>
@@ -843,7 +843,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         1.   Believers
+-.25in'><span style='font-size:12.0pt'>                                         1.   Believers
 can lapse into a thinking pattern that says, <i>“Now that I am a Christian and
 have the Holy Spirit, the <u>ideas</u> that come to my mind are planted there
 by him.”</i></span></p>
@@ -859,7 +859,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--22.5pt'><span style='font-size:12.0pt'>                    E.   It transforms
+-.25in'><span style='font-size:12.0pt'>                    E.   It transforms
 data into signs and the unusual into miracle. We imagine a supernatural
 explanation unnecessarily.</span></p>
 
@@ -903,7 +903,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         1.   about
+-.25in'><span style='font-size:12.0pt'>                                         1.   about
 the reality and validity of our <u>Christian experience</u>.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -929,17 +929,17 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                   A.  Throwing
+-.25in'><span style='font-size:12.0pt'>                                   A.  Throwing
 out the fleece (see above)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                   B.  Becoming
+-.25in'><span style='font-size:12.0pt'>                                   B.  Becoming
 presumptuous (running ahead of God): TO AVOID THAT </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         PROBLEM
+-.25in'><span style='font-size:12.0pt'>                                         PROBLEM
 IN OUR MODEL</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -961,32 +961,32 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                      Other
+-.25in'><span style='font-size:12.0pt'>                                                      Other
 people are often in a better position to evaluate our usefulness in </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                      ministry.</span></p>
+-.25in'><span style='font-size:12.0pt'>                                                      ministry.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                      We
+-.25in'><span style='font-size:12.0pt'>                                                      We
 need to do what we already have to do as a way of being given more. We do now
 what our hand finds to do.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>&nbsp;</span></p>
+-.25in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--1.25in'><span style='font-size:12.0pt'>                                                3.   We
+-.25in'><span style='font-size:12.0pt'>                                                3.   We
 should take the opportunities available as a way to obtain higher ones,
 opportunities with wider influence.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--67.5pt'><span style='font-size:12.0pt'>                                         4.   We
+-.25in'><span style='font-size:12.0pt'>                                         4.   We
 take the <i>“if the Lord will”</i> attitude: (James <b>4</b>:13-17; Acts <b>18</b>:21;
 1 Corinthians <b>4</b>:19; <b>16</b>:7; Hebrews <b>6</b>:3; cp. Romans <b>1</b>:10;
 <b>15</b>:22; 1 Peter<b> 3</b>:17)</span></p>
@@ -1005,7 +1005,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                                 Pushing
+-.25in'><span style='font-size:12.0pt'>                                 Pushing
 the idea that God has a special plan for each person may be nothing more than
 (1) the old self-centeredness showing up in religious garb. (2) It may be a
 form of laziness because we do not want to be responsibility for choosing. Completely
@@ -1014,7 +1014,7 @@ choices we need to be making.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                                 Ours
+-.25in'><span style='font-size:12.0pt'>                                 Ours
 is a personal relationship with God; consequently, both of us operate
 personally, which means choosing, thinking, and other personal acts are happening
 on both sides of the association. God treats us like persons, not things. We
@@ -1048,7 +1048,7 @@ it.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                           B.  God may
+-.25in'><span style='font-size:12.0pt'>                           B.  God may
 not want to lead us at the specific level we desire. He does not necessarily
 want to make decisions for us at this level.</span></p>
 
@@ -1059,7 +1059,7 @@ God’s servants.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:
--45.0pt'><span style='font-size:12.0pt'>                           D.  Perhaps we
+-.25in'><span style='font-size:12.0pt'>                           D.  Perhaps we
 have a besetting sin: disobedience or not acting toward other people the way we
 expect God to operate toward us.</span></p>
 

@@ -171,7 +171,7 @@ style='font-size:12.0pt'>                            
 to act in Christ’s name: Mark<b> 9</b>:39 (= Luke<b> 9</b>:49-50).</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.25in'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                                            (4)
    Demonic cannot agree to distinctive Christian doctrines in order to commend
 itself for its own purpose (1 John <b>4</b>:1-4; Acts <b>19</b>:13-16).</span></p>

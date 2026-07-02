@@ -51,7 +51,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.25in;text-align:justify;text-indent:
--.5in;line-height:18.0pt'><span style='font-size:12.0pt'>            I. Ethics,
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>            I. Ethics,
 morality, and goodness pertain to behavior in personal relationships.</span></p>
 
 <p class=MsoNormal style='margin-right:-.25in;text-align:justify;line-height:
@@ -233,7 +233,7 @@ in with their nature, needs, and purposes as well as God’s purpose for them.</
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.25in;text-align:justify;text-indent:
--.5in;line-height:18.0pt'><span style='font-size:12.0pt'>            III. Right
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>            III. Right
 and wrong includes the <u>intent</u> of an act, not just the act itself. </span></p>
 
 <p class=MsoNormal style='margin-right:-.25in;text-align:justify;line-height:

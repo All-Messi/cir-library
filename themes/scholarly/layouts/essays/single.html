@@ -225,6 +225,18 @@
     font-size: 1.05rem;
     line-height: 1.8;
     color: #333;
+    /* Overflow guards (2026-07-02): Word HTML carries long &nbsp; runs
+       (the author's columnar alignment) that cannot wrap or collapse and
+       are wider than a phone. Safari does NOT break nbsp runs even with
+       overflow-wrap:anywhere, so clipping them hides text. Instead:
+       min-width:0 stops the grid track from blowing out (keeps the page
+       and header fixed-width), and overflow-x:auto lets the essay body
+       scroll sideways within its own column when a line is wider than
+       the viewport — same pattern as wide tables. Nothing is hidden;
+       desktop is unaffected because these lines fit in 620px. */
+    min-width: 0;
+    overflow-x: auto;
+    overflow-wrap: break-word;
 }
 .es-content h2 {
     font-family: 'Source Sans Pro', sans-serif;

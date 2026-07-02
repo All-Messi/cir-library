@@ -193,7 +193,7 @@ margin-left:1.5in;text-align:justify;text-indent:-1.5in'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:.5in;text-align:justify;text-indent:-1.5in'><span style='font-size:
+margin-left:.5in;text-align:justify;text-indent:-.5in'><span style='font-size:
 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                If
 this reference to a rooster crowing is included in the text, the account with
 the other synoptics gets awkward as to when it happened. If Jesus’ prediction

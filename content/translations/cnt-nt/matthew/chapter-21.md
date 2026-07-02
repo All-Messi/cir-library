@@ -100,7 +100,7 @@ in the highest!”
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They talked it over, <i>“If we say, ‘From heaven,’ he’ll say, ‘Why didn’t you believe him?’ </i></span><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If we say, ‘From humans,’ we’re afraid of the people”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> (</span><span style='font-family:"Times New Roman",serif'>everybody considered John a prophet</span><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>). </span></span>
 <span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So they answered, <i>“We don’t know.” </i></span></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:-1.8pt;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He also said, <i>“I won’t tell you either what right I have to do this.”</i>                   </span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He also said, <i>“I won’t tell you either what right I have to do this.”</i>                   </span></p>
 
 <p class="section-ref">Mt 21:23-27</p>
 

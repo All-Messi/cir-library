@@ -470,23 +470,23 @@ style='font-size:12.0pt'><img width=386 height=92
 src="/images/essays/chapter-i/image005.png"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:-4.5pt;margin-bottom:.0001pt;text-align:center'><u><span
+margin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:center'><u><span
 style='font-size:12.0pt'>Organizational Unity Under Christ:  Relationship</span></u></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:-4.5pt;margin-bottom:.0001pt;text-align:center'><span
+margin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:center'><span
 style='font-size:12.0pt'>Summary of Corporate Ecclesiastical Patterns</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify;text-indent:40.5pt'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify;text-indent:40.5pt'><span
 style='font-size:12.0pt'>From an organizational standpoint the forms of the
 universal church are divisible into three general groups according to the
 presence or absence of earthly “headquarters” and local congregations: (1)
@@ -494,19 +494,19 @@ local congregations and earthly headquarters; (2) no local congregations and no
 earthly headquarters; (3) local congregations and no earthly headquarters.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify'><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify'><u><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify'><u><span
 style='font-size:12.0pt'>Local Congregations and</span></u></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:-4.5pt;margin-bottom:.0001pt;text-align:justify'><u><span
+margin-left:0in;margin-bottom:.0001pt;text-align:justify'><u><span
 style='font-size:12.0pt'>Earthly Headquarters</span></u></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -745,7 +745,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 to the relationship that exists between the local church and other churches.</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in'><span style='font-size:12.0pt'>&nbsp;</span></p>
+0in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
 .5in'><span style='font-size:12.0pt'>The principles of autonomy must be applied
@@ -753,10 +753,10 @@ to the relationship that exists between one or a number of local churches to an
 extra-congregational ministry or organization.</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in'><span style='font-size:12.0pt'>&nbsp;</span></p>
+0in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in'><span style='font-size:12.0pt'>      Decisions in that realm where
+0in'><span style='font-size:12.0pt'>      Decisions in that realm where
 Christ has left the congregations free are to be made in the light of the
 relevant law of love and expediency. We are not to think of freedom here as
 being absolute.</span></p>

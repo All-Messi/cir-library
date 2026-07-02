@@ -278,27 +278,27 @@ Hebrew language more easily lies behind the names and their meaning in Genesis <
 man and woman, Eve, Cain, Seth. Nod, Noah, <i>etc</i>.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:.5in;text-align:justify;text-indent:-40.5pt'><span
+margin-left:.5in;text-align:justify;text-indent:-.5in'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The
 writer organizes his presentation about creation (unknown/unseen) in light of
 what he intends to say about the exodus God wants to memorialize by enjoining a
 6-day-week-with-Sabbath.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:.5in;text-align:justify;text-indent:-40.5pt'><span
+margin-left:.5in;text-align:justify;text-indent:-.5in'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The
 label for segments of that week (day) serves as the label for aspects of the
 creation event. The whole creation event could have as likely been
 instantaneous or presented that way.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:.5in;text-align:justify;text-indent:-40.5pt'><span
+margin-left:.5in;text-align:justify;text-indent:-.5in'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The
 number of segments in the enjoined Jewish week provides the number of aspects
 in the creation presentation [NUMBER, DURATION]. </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:.5in;text-align:justify;text-indent:-40.5pt'><span
+margin-left:.5in;text-align:justify;text-indent:-.5in'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The
 final segment of the Jewish week provides a label for the last aspect of the
 writer’s creation account (seventh). As people were to rest on the seventh day,
@@ -310,7 +310,7 @@ activities done. The enjoined week-with-Sabbath serves as an analogy of God’s
 set of activities plus being done.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:.5in;text-align:justify;text-indent:-40.5pt'><span
+margin-left:.5in;text-align:justify;text-indent:-.5in'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As
 people’s activities in segments 1-6 do not have to have a set order or equal lengths
 and often overlap, so also the presentation about the aspects of God’s creative
@@ -319,7 +319,7 @@ activities do not have an exact order or equal amounts and are not completely pa
 presentations.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:.5in;text-align:justify;text-indent:-40.5pt'><span
+margin-left:.5in;text-align:justify;text-indent:-.5in'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As
 any telling about people’s extended activity does not enumerate every relevant
 part, so also the presentation about creation has major omissions

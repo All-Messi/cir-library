@@ -95,7 +95,7 @@ style='font-size:12.0pt'><span dir=LTR></span>) means to create a new kind of th
 Referring to the universe, the word implies creation from nothing.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.0in'><span
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-.5in'><span
 style='font-size:12.0pt'>                        C.  Taking <i>“in the
 beginning” </i>(</span><span lang=HE dir=RTL style='font-size:12.0pt'>בְּרֵשִּׁית</span><span
 dir=LTR></span><span style='font-size:12.0pt'><span dir=LTR></span>) as a Hebrew
@@ -104,14 +104,14 @@ match as easily the simple style in the rest of Genesis <b>1-2</b>. (cp.
 Deuteronomy <b>24</b>:1-4, however)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.0in'><span
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-.5in'><span
 style='font-size:12.0pt'>                        D.  The Masoretic Hebrew text
 does not add vowel points on the original consonantal text so as to have it
 read, <i>“In the beginning of God’s creating the heaven.”</i> Instead it says, <i>“In
 the beginning God created the heavens and the earth.”</i></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.0in'><span
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                              E.  All the ancient
 translations understand the Hebrew as an absolute reference. That includes the
 Septuagint (LXX), translated by Hebrew scholars a couple centuries before the
@@ -236,7 +236,7 @@ following:</span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.75in'><span style='font-size:12.0pt'>                              A.  The
+0in'><span style='font-size:12.0pt'>                              A.  The
 expression <i>“the heavens and the earth” </i>appears elsewhere as a reference
 to the completed creation: Isaiah<b> 45</b>:18.</span></p>
 

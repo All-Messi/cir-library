@@ -1713,7 +1713,7 @@ style='font-size:12.0pt'>                        (1) Langu
 because no <u>human being</u> understands; they speak to God by default.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify;text-indent:-31.5pt'><span
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify;text-indent:-22.5pt'><span
 style='font-size:12.0pt'>                                 (2) The speaker does
 not understand at the element-by-element level, but knows at the conceptual
 level. </span></p>

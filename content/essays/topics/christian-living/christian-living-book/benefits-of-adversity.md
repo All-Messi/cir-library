@@ -78,7 +78,7 @@ of us have not had to deal much with calamity.</span></p>
 0in;margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
-0in;margin-left:.25in;margin-bottom:.0001pt;text-indent:-22.5pt'><span
+0in;margin-left:.25in;margin-bottom:.0001pt;text-indent:-.25in'><span
 style='font-size:12.0pt'>        We may have to deal significantly with these
 matters in the future, however, so we need to prepare for them ahead of time.</span></p>
 
@@ -142,7 +142,7 @@ to scripture.</span></p>
 0in;margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
-0in;margin-left:.25in;margin-bottom:.0001pt;text-indent:-45.0pt'><span
+0in;margin-left:.25in;margin-bottom:.0001pt;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                 It is bad enough to
 have misfortune without someone saying that we must have some unconfessed sin
 or harbored malice since an unfortunate experience has befallen us.</span></p>
@@ -155,12 +155,12 @@ or harbored malice since an unfortunate experience has befallen us.</span></p>
  <u>A</u> suffering may correlate with <u>a</u> sin: Jonah, Herod (Acts <b>12</b>:20-23).</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
-0in;margin-left:.25in;margin-bottom:.0001pt;text-indent:-45.0pt'><span
+0in;margin-left:.25in;margin-bottom:.0001pt;text-indent:-.25in'><span
 style='font-size:12.0pt'>                           D. Those who suffer are not
 necessarily more sinful than those who do not: Luke </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
-0in;margin-left:.25in;margin-bottom:.0001pt;text-indent:-45.0pt'><span
+0in;margin-left:.25in;margin-bottom:.0001pt;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                 <b>13</b>:1-5.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -244,7 +244,7 @@ Gratitude: Philippians <b>4</b>:12-13</span></p>
 0in;margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
-0in;margin-left:.25in;margin-bottom:.0001pt;text-indent:-67.5pt'><span
+0in;margin-left:.25in;margin-bottom:.0001pt;text-indent:-.25in'><span
 style='font-size:12.0pt'>                                               We
 learn to appreciate what we have instead of looking for more.</span></p>
 
@@ -292,7 +292,7 @@ Encourages us to get our priorities straight: Romans <b>8</b>:18</span></p>
 Helps us rise above our present circumstance: Peter <b>5</b>:10</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
-0in;margin-left:.25in;margin-bottom:.0001pt;text-indent:-45.0pt'><span
+0in;margin-left:.25in;margin-bottom:.0001pt;text-indent:-.25in'><span
 style='font-size:12.0pt'>                           H. Enables us to empathize
 with sufferers: 2 Corinthians <b>1</b>:3-4; Hebrews <b>2</b>:18</span></p>
 

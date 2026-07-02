@@ -197,31 +197,31 @@ hence, some of this may reflect Hebraism.</span></p>
 Christ</u>: Colossians <b>2</b>:6</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in;line-height:18.0pt'><span style='font-size:12.0pt'>                                    c.
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                    c.
  <u>earning Christ</u>: Ephesians <b>4</b>:20</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in;line-height:18.0pt'><span style='font-size:12.0pt'>                                    d.
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                    d.
  <u>putting on Christ</u>: Romans<b> 13</b>:12-14 </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in;line-height:18.0pt'><span style='font-size:12.0pt'>                                    e.
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                    e.
  <u>knowing nothing but Christ</u>: 1 Corinthians<b> 2</b>:2 </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in;line-height:18.0pt'><span style='font-size:12.0pt'>                                    f.
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                    f.
  <u>Christ as the foundation</u>: 1 Corinthians<b> 3</b>:10-15</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in;line-height:18.0pt'><span style='font-size:12.0pt'>                                    g.
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                    g.
  <u>Christ as our peace</u>: Ephesians <b>2</b>:14</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in;line-height:18.0pt'><span style='font-size:12.0pt'>                                    h.
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                    h.
  <u>presenting Christ</u>: Galatians <b>3</b>:1</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in;line-height:18.0pt'><span style='font-size:12.0pt'>                                    i.
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                    i.
  <u>Christ as the wisdom, righteousness, sanctification, and redemption of </u></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
@@ -250,11 +250,11 @@ church is called <i>“Christ”</i></u>: 1 Corinthians<b> 12</b>:12 (<i>“As t
 body is one with many members, so is Christ.”</i>)</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in;line-height:18.0pt'><span style='font-size:12.0pt'>                                    n<i>.
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                    n<i>.
 “<u>For me to live is Christ</u>”</i>: Philippians <b>1</b>:21 </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in;line-height:18.0pt'><span style='font-size:12.0pt'>                                    o.
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                    o.
 <u>the “I am” statements of Jesus</u>: <i>“<u>I</u> am the way, the truth, and
 the life”</i> (John <b>14</b>:6; cp. Romans <b>5</b>:2); <i>“<u>I</u> am the
 light of the world” </i>(John<b> 8</b>:12; <b>9</b>:5; <b>12</b>:46); <i>“<u>I</u>
@@ -262,7 +262,7 @@ am the door”</i> (John <b>10</b>:7, 9); <i>“<u>I</u> am the good shepherd”
 (John <b>10</b>:11); <i>“<u>I</u> am the bread of life”</i> (John <b>6</b>:35).</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in;line-height:18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>                        In keeping with
@@ -313,11 +313,11 @@ unbefitting the relationship, including amoral actions not acceptable to the
 person’s preferences or culture. </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in;line-height:18.0pt'><span style='font-size:12.0pt'>                              2.
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                              2.
 Physical appearance</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in;line-height:18.0pt'><span style='font-size:12.0pt'>                                    In
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                    In
 choosing a king to replace the Saulite dynasty, God told Samuel not to look at
 countenance or stature because <i>“Yahveh does not see like people see; people
 look at the outward appearance, but Yahveh looks at the heart”</i> (1 Samuel <b>16</b>:7),
@@ -329,7 +329,7 @@ than the other people (1 Samuel<b> 9</b>:2).</span></p>
 wealth</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in;line-height:18.0pt'><span style='font-size:12.0pt'>                                    When
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                    When
 John the Baptist sent messengers to ask Jesus whether he was the Messiah, the
 Lord marked his Messiahship by saying that even the poor have the gospel
 preached to them (Matthew <b>11</b>:5). </span></p>
@@ -343,7 +343,7 @@ days (Romans <b>14</b>:5-6a; Colossians <b>2</b>:16-17)</span></p>
 status</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in;line-height:18.0pt'><span style='font-size:12.0pt'>                                    Whether
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                    Whether
 a person is married is immaterial to the Christian calling (1 Corinthians<b> 7</b>:17,
 20, 24, 26-40). Marriage has interpersonal character, in fact, the most intense
 such relationship; but it is not a required state because other states of
@@ -351,7 +351,7 @@ personal relationship exist. There is neither male nor female in Christ
 (Galatians <b>3</b>:28).</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in;line-height:18.0pt'><span style='font-size:12.0pt'>                              6.
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                              6.
   Societal status </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
@@ -361,7 +361,7 @@ bond or free is immaterial to a Christian’s worth (1 Corinthians <b>7</b>:17,
 is not an elitist religion.</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in;line-height:18.0pt'><span style='font-size:12.0pt'>                              7.
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                              7.
   National identity (Galatians <b>3</b>:28; Matthew<b> 28</b>:19-20)</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
@@ -373,19 +373,19 @@ conscience, some heretics concerned themselves with myths and genealogies (1
 Timothy <b>1</b>:35). </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in;line-height:18.0pt'><span style='font-size:12.0pt'>                              8.
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                              8.
   It is not what we know or say (1 Corinthians <b>4</b>:20) or believe (James <b>2</b>),
 but what we do and the power we have in our lives. </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in;line-height:18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>                  The antidote to all
 these irrelevant distinctions is that we are all one in Christ.</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in;line-height:18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>                  D.  Observations on
@@ -401,7 +401,7 @@ tittle (Matthew <b>5</b>:17-20); yet there were weightier matters among features
 of the Law (Matthew <b>23</b>:23-24).</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in;line-height:18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>                        1.   <u>Animal
@@ -428,7 +428,7 @@ The admonition implies the greater urgency of personal relationship over
 religious observances. </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in;line-height:18.0pt'><span style='font-size:12.0pt'>                              2.
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                              2.
 Jesus considered justice, mercy, and faith weightier matters of the Law than <u>tithing
 regulations</u> (Matthew <b>23</b>:23-24). <i>“You should have done these and
 not to let the other undone”</i> is Jesus’ way of describing relative importance.
@@ -445,13 +445,13 @@ not prioritized the value and needs of persons as qualifying factors on the
 application of legal provisions. </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in;line-height:18.0pt'><span style='font-size:12.0pt'>                              3.
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                              3.
 The welfare of people pre-empted <u>tabernacle regulations</u> when David and
 his men were famished and ate the showbread lawful for only priests to eat
 (Matthew <b>12</b>:1-8; Mark <b>2</b>:23-28; Luke <b>6</b>:1-5; 1 Samuel <b>21</b>:1-6).</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in;line-height:18.0pt'><span style='font-size:12.0pt'>                              4.
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                              4.
 Hezekiah prayed for some pilgrims who had not had opportunity to meet properly
 the <u>ceremonial cleansing</u> requirements for observing the Passover, and
 God hearkened to the king’s request to let them observe it anyway (2 Chronicles
@@ -459,7 +459,7 @@ God hearkened to the king’s request to let them observe it anyway (2 Chronicle
 ceremonial cleansings (Matthew <b>15</b>:1-20 = Mark<b> 7</b>:1-23; Luke <b>11</b>:37-41).</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in;line-height:18.0pt'><span style='font-size:12.0pt'>      5. Jesus
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>      5. Jesus
 promised the thief on the cross a place in Paradise with Jesus even </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
@@ -535,7 +535,7 @@ faith––interpersonal process. Antinomy comes from reading the Law as final
 rather than provisional and secondary to interpersonal process.</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in;line-height:18.0pt'><span style='font-size:12.0pt'>                         12.
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                         12.
 Jesus continually conflicted with the religious leaders over the tradition of
 the elders, particularly over <u>Sabbath regulations</u>. Interpersonal
 expression makes us wonder what Jesus meant in Luke <b>6</b>:5 (= Matthew <b>12</b>:8;
@@ -549,7 +549,7 @@ Luke <b>6</b>:1-11); Luke <b>13</b>:10-17; John<b> 5</b>:9-18; <b>7:</b>19-24;<b
 9</b>:1-41.</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in;line-height:18.0pt'><span style='font-size:12.0pt'>                         13.
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                         13.
 Lineage had no value for anything but temporal blessings during the Mosaic
 dispensation. John the Baptist told his contemporaries not to say to
 themselves, <i>“‘Abraham is our father.’ I tell you, God can raise up children
@@ -600,19 +600,19 @@ the world.”</i></span></p>
 <i>“The just will live by faith.”</i></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--1.0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                                6.   Micah
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                                6.   Micah
 <b>6</b>:8: <i>“What does the Lord require of you but to do justly, love
 kindness, and walk humbly with your God?”</i></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in;line-height:18.0pt'><span style='font-size:12.0pt'>                                    Likewise,
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                    Likewise,
 Deuteronomy <b>10</b>:12-13 said earlier: <i>“What does Yahveh your God require
 of you but to fear him, to walk in all his ways, and to love him and to serve him
 with all your heart and with all your soul, to keep his commandments and his
 statutes, which I command you today for your good?”</i></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:1.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.5in;
+margin-left:1.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.25in;
 line-height:18.0pt'><span style='font-size:12.0pt'>                              7.   Hosea
 <b>4</b>:1: <i>“There should be truth, goodness, and knowledge of God in the
 land.”</i></span></p>
@@ -716,7 +716,7 @@ what is happening and why, but because we <u>trust</u> that God controls what
 is happening and why, even though the situation looks chaotic and destructive.</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in;line-height:18.0pt'><span style='font-size:12.0pt'>                        E.
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                        E.
 Love surpasses behavior (James <b>5</b>:20; 1 Peter<b> 4</b>:8; Luke <b>7</b>:36-<u>47</u>-50;
 Proverbs <b>10</b>:12; <b>17</b>:9; cp. 1 Corinthians <b>13</b>:4-7). Attitude
 is more important than acts.</span></p>
@@ -963,7 +963,7 @@ the reproach of Christ greater riches than the treasures of </i></span></p>
 style='font-size:12.0pt'> (Hebrews<b> 11</b>:26) </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in;line-height:18.0pt'><span style='font-size:12.0pt'>                              5.   Previously
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                              5.   Previously
 <i>“Gentiles were separated from Christ”</i> (Ephesians<b> 2</b>:12).</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
@@ -1231,7 +1231,7 @@ thinks he knows anything, he does not yet know what he should know; but if
 anyone loves God, the same is known by him (1 Corinthians <b>8</b>:2-3; cp. <b>3</b>:18).</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in;line-height:18.0pt'><span style='font-size:12.0pt'>                              5.
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                              5.
 That you might <u>know</u> the love of Christ that surpasses <u>know</u>ledge
 (note the word play; Ephesians <b>3</b>:19)    </span></p>
 
@@ -1246,33 +1246,33 @@ interpersonal over <u>formal</u> matters</span></p>
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--1.0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                          1.   The
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                          1.   The
 Sabbath was made for people, not people for the Sabbath (Mark <b>2</b>:27; cp.
 Exodus <b>23</b>:12d; Deuteronomy <b>5</b>:14c).</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--1.0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                          2.   <i>“Today
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                          2.   <i>“Today
 you will be with me in paradise”</i> (Luke <b>23</b>:43). No sacrifice was
 offered or could even be offered by immediate circumstance as well as lack of
 Mosaic provision for any sacrifice for capital crimes—like insurrection.</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--1.0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                          3.   David
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                          3.   David
 and his men ate the showbread legally available only for priests (Matthew <b>12</b>:1-8;
 Mark <b>2</b>:23-28; Luke <b>6</b>:1-5; 1 Samuel <b>21</b>:6).</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--1.0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                          4.   Jesus
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                          4.   Jesus
 told the woman of Sychar that salvation was from the Jews, but God looks for
 people to worship him anywhere in spirit and truth (John <b>4</b>:19-26).</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--1.0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                          5.   Hezekiah
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                          5.   Hezekiah
 and the <u>Passover observance</u> by people not prepared after the ceremonial
 requirements of the Law (2 Chronicles <b>30</b>:13-22)   </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--1.0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                          6.   <i>“Circumcision
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                          6.   <i>“Circumcision
 profits if you <u>do</u> the Law; but if you <u>transgress</u> the Law, your
 circumcision becomes uncircumcision. <u>If then the Uncircumcision keep the
 ordinances of the Law, swill not their uncircumcision be considered
@@ -1281,17 +1281,17 @@ fulfill the Law, judge you who with the letter and circumcision transgress the L
 (Romans <b>2</b>:25-26).</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--1.0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                                7.   Micah
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                                7.   Micah
 <b>6</b>:68 shows the priority of personal commitment and behavior over
 ceremonial observance of <u>animal sacrifices</u>.</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in;line-height:18.0pt'><span style='font-size:12.0pt'>                              8.
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                              8.
   Abraham’s relationship to God preceded <u>circumcision</u> (Romans <b>4</b>:6-15,
 </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--.25in;line-height:18.0pt'><span style='font-size:12.0pt'>                                    <i>etc</i>.).</span></p>
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                    <i>etc</i>.).</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
@@ -1306,7 +1306,7 @@ or in the eyes of the beholder (1 Peter<b> 4</b>:8; Proverbs <b>10</b>:12; <b>17
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--99.0pt;line-height:18.0pt'><span style='font-size:12.0pt'>                                  XI.
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                  XI.
 The Fact That Baptism Even Exists (See essay “What the Very Existence of
 Baptism Shows.”)</span></p>
 
@@ -1318,7 +1318,7 @@ Baptism Shows.”)</span></p>
 with God Before (the) Law: Paul observes that the Law</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--27.0pt;line-height:18.0pt'><span style='font-size:12.0pt'>         was added
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>         was added
 later (Galatians <b>3</b>:6-<u>19</u>-29; Romans <b>4</b>:1-25; <b>5</b>:20). That
 is the point of using the words <i>“promise”</i> and <i>“faith”</i> in his
 discussions.</span></p>

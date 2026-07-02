@@ -343,12 +343,12 @@ and similar expressions (note Gene Getz’s little book of yesteryear <i>Buildin
 Up One Another</i>. Wheaton, Ill.: Victor Books, l976):</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--13.5pt;line-height:18.0pt'><span style='font-size:12.0pt'>                             1.
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                             1.
   Christians <u>need</u> one another (interdependency) like the parts of a body  
 </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
--13.5pt;line-height:18.0pt'><span style='font-size:12.0pt'>                                   (1
+0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                   (1
 Corinthians <b>12</b>:3-31; Romans <b>12</b>:4-8; Ephesians <b>4</b>:4-16);</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
