@@ -674,6 +674,23 @@ body.overlay-open {
     gap: 2rem;
 }
 
+/* Overflow guards (2026-07-03): same pattern as .es-content (2026-07-02).
+   Word HTML verse lines carry long &nbsp; runs (the author's columnar
+   alignment) that cannot wrap; Safari does not break nbsp runs, so without
+   guards the PAGE itself scrolls horizontally on phones (rendered audit
+   2026-07-03: 668 chapters flagged, up to +695px). min-width:0 stops the
+   parallel grid track from blowing out; overflow-x:auto lets the reading
+   column scroll sideways when a line is wider than the viewport — nothing
+   hidden, desktop unaffected (lines that fit render exactly as before). */
+.chapter-pane {
+    min-width: 0;
+}
+.chapter-content {
+    min-width: 0;
+    overflow-x: auto;
+    overflow-wrap: break-word;
+}
+
 .chapter-pane-right {
     border-left: 1px solid var(--color-border, #e5e5e5);
     padding-left: 2rem;
@@ -844,6 +861,13 @@ body.overlay-open {
 
     .reading-toolbar {
         gap: 0.5rem;
+        /* Toolbar wrap (2026-07-03): the button row's intrinsic width can
+           exceed 375px (long book names + selectors + action buttons);
+           rendered audit flagged 1,750 pages, +57 to +130px. flex-wrap only
+           engages on pages where the row would otherwise overflow — pages
+           that fit stay one row. Nothing hidden, no truncation. */
+        flex-wrap: wrap;
+        row-gap: 0.4rem;
     }
 
     .toolbar-select-value {
@@ -852,6 +876,16 @@ body.overlay-open {
 
     .toolbar-left {
         gap: 0.4rem;
+        flex-wrap: wrap;
+        min-width: 0;
+    }
+
+    /* Hide parallel mode on phones (2026-07-03, Allen's call): two columns
+       at 375px would be illegibly small, and the stacked fallback reads as
+       broken. Same choice Bible.com makes. Tablet/desktop (>640px) keep the
+       feature unchanged. */
+    .parallel-btn {
+        display: none;
     }
 
     .toolbar-divider {
