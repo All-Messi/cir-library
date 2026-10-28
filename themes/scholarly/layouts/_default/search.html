@@ -230,6 +230,10 @@ document.getElementById('search-input').addEventListener('keypress', function(e)
 
 #search-input {
     flex: 1;
+    /* min-width:0: a text input's intrinsic minimum (~200px) refuses to
+       shrink as a flex item, pushing #filter-btn off a 375px screen.
+       (Rendered audit 2026-07-03) */
+    min-width: 0;
     padding: 0.85rem 1rem;
     border: 2px solid var(--color-border, #e5e5e5);
     border-radius: 6px;

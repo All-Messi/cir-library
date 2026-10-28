@@ -260,6 +260,10 @@
 
 .essays-grid {
     display: grid;
+    /* minmax(0,1fr): without it the single implicit column is floored at
+       the widest card's min-content, so one unbreakable long token in a
+       title widens the whole page. (Rendered audit 2026-07-03) */
+    grid-template-columns: minmax(0, 1fr);
     gap: 1.5rem;
 }
 
@@ -269,6 +273,7 @@
     border: 1px solid #ddd;
     border-radius: 4px;
     transition: all 0.2s;
+    min-width: 0;
 }
 
 .essay-card:hover {
@@ -279,6 +284,7 @@
 .essay-card h3 {
     margin-top: 0;
     margin-bottom: 0.5rem;
+    overflow-wrap: anywhere;
 }
 
 .essay-card h3 a {

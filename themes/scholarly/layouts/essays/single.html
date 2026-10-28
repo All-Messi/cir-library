@@ -136,6 +136,9 @@
     max-width: 620px;
     margin-left: auto;
     margin-right: auto;
+    /* Long unbreakable tokens in converter-extracted titles (URLs, Greek
+       runs) must wrap rather than widen the page. (Rendered audit 2026-07-03) */
+    overflow-wrap: anywhere;
 }
 .es-header-meta {
     display: flex;
@@ -237,6 +240,14 @@
     min-width: 0;
     overflow-x: auto;
     overflow-wrap: break-word;
+    /* position:relative (2026-07-03): Word exports empty positioned text
+       frames as position:absolute spans. Without a positioned ancestor they
+       anchor to the VIEWPORT, escaping both word-content's overflow-x:hidden
+       and this element's overflow-x:auto (overflow only contains descendants
+       in the containing-block chain), widening the whole page. Making
+       .es-content the containing block routes them into its scrollable
+       overflow like any other wide content. */
+    position: relative;
 }
 .es-content h2 {
     font-family: 'Source Sans Pro', sans-serif;

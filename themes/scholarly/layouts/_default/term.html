@@ -363,13 +363,30 @@
 }
 
 @media (max-width: 600px) {
+    /* Flex children default to min-width:auto: back link + long book name
+       + button cannot compress, pushing the button past the viewport edge.
+       Wrap is self-limiting -- rows only wrap where they would overflow.
+       Mirrors the same fix in _default/book.html. (Rendered audit 2026-07-03) */
+    .reader-nav-bar {
+        flex-wrap: wrap;
+        row-gap: 0.5rem;
+    }
+    
+    .book-selector {
+        min-width: 0;
+        flex-wrap: wrap;
+        gap: 0.5rem 1rem;
+    }
+    
     .current-book {
         font-size: 1.25rem;
+        overflow-wrap: break-word;
     }
     
     .chapter-selector-btn {
         padding: 0.4rem 0.8rem;
         font-size: 0.85rem;
+        flex-shrink: 0;
     }
     
     .popup-content {

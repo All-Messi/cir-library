@@ -155,16 +155,24 @@
 
 @media (max-width: 600px) {
     .books-grid {
-        grid-template-columns: repeat(2, 1fr);
+        /* minmax(0,1fr): grid items default to min-width:auto, so an
+           unbreakable book name (Thessalonians, Lamentations) forces its
+           track wider than half the phone viewport and the page scrolls
+           sideways. Zero floor + min-width:0 + break-word lets long names
+           wrap inside the card instead. (Rendered audit 2026-07-03) */
+        grid-template-columns: repeat(2, minmax(0, 1fr));
         gap: 0.75rem;
     }
     
     .book-card {
         padding: 1rem;
+        min-width: 0;
     }
     
     .book-title {
         font-size: 0.95rem;
+        overflow-wrap: break-word;
+        hyphens: auto;
     }
 }
 </style>
